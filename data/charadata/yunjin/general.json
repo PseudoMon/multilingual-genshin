@@ -1,0 +1,62 @@
+{
+  "name": {
+    "zhs": "云堇",
+    "zht": "雲堇",
+    "jp": "雲菫",
+    "ko": "운근",
+    "en": "Yun Jin",
+    "de": "Yun Jin",
+    "es": "Yun Jin",
+    "fr": "Yun Jin",
+    "pt": "Yunjin",
+    "ru": "Юнь Цзинь",
+    "id": "Yun Jin",
+    "th": "Yun Jin",
+    "vi": "Yun Jin"
+  },
+  "title": {
+    "zhs": "红毹婵娟",
+    "zht": "紅毹嬋娟",
+    "jp": "紅絨毯に舞う麗姿",
+    "ko": "무대를 빛내는 가인",
+    "en": "Stage Lucida",
+    "de": "Bühnenschönheit",
+    "es": "La Prima Donna del Escenario",
+    "fr": "Nova de scène",
+    "pt": "Palco Lúcida",
+    "ru": "Изящество на сцене",
+    "id": "Stage Lucida",
+    "th": "สาวน้อยในม่านแดง",
+    "vi": "Mỹ Nhân Trên Sân Khấu"
+  },
+  "description": {
+    "zhs": "集剧作与演唱能力于一身的璃月戏曲名角。风格自成一派，雅致柔美，恰如其人。",
+    "zht": "集劇作與演唱能力於一身的璃月戲曲名角。風格自成一派，雅致柔美，恰如其人。",
+    "jp": "演技と創作の二つの才を持つ璃月劇の看板役者。雲菫の演じる姿は優雅でたおやかであり、まるで彼女の風格を表しているかのようである。",
+    "ko": "극작과 연기, 노래 실력을 모두 갖춘 리월극의 명배우. 그녀의 독보적인 스타일은 마치 그녀 본인처럼 우아하고도 부드럽다",
+    "en": "A renowned Liyue opera singer who is skilled in both playwriting and singing. Her style is one-of-a-kind, exquisite and delicate, much like the person herself.",
+    "de": "Eine berühmte Opernsängerin in Liyue, die sowohl im Schreiben als auch im Gesang erfahren ist. Ihr Stil ist einzigartig, exquisit und sanft, genauso wie sie selbst.",
+    "es": "Una renombrada cantante de ópera de Liyue que es experta tanto en la composición de obras como en el canto. Su estilo es único, exquisito y delicado, como su propia persona.",
+    "fr": "Une talentueuse chanteuse d'opéra et une dramaturge très célèbre à Liyue. Son style unique, doux et élégant, lui ressemble beaucoup.",
+    "pt": "Uma renomada cantora de ópera de Liyue, hábil tanto em dramaturgia quanto em canto. Seu estilo é único, requintado e delicado, exatamente como ela.",
+    "ru": "Прославленная оперная певица Ли Юэ, которая искусна как в написании пьес, так и в пении. Её неповторимый стиль, изысканный и нежный, - это отражение глубин её души.",
+    "id": "Seorang penyanyi opera Liyue yang mahir bernyanyi dan pintar menulis sandiwara. Gayanya lain dari yang lain — elegan dan lembut, persis seperti karakternya.",
+    "th": "นักแสดงชื่อดังแห่งท่าเรือ Liyue ที่ถนัดทั้งด้านการเขียนบทและการแสดง สไตล์ของเธอเป็นเอกลักษณ์ไม่เหมือนใคร ทั้งสง่างามและนุ่มนวล เช่นเดียวกับตัวตนของเธอ",
+    "vi": "Diễn viên hát kịch nổi tiếng Liyue, hội tụ cả tài viết kịch và ca xướng. Phong cách riêng biệt, thanh lịch xinh đẹp, thần thái ngút trời."
+  },
+  "constellation": {
+    "zhs": "虹章座",
+    "zht": "虹章座",
+    "jp": "虹章座",
+    "ko": "무지개장자리",
+    "en": "Opera Grandis",
+    "de": "Opera Grandis",
+    "es": "Opera Grandis",
+    "fr": "Opera Grandis",
+    "pt": "Opera Grandis",
+    "ru": "Большая Опера",
+    "id": "Opera Grandis",
+    "th": "Opera Grandis",
+    "vi": "Cung Hồng Chương"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "name": {
+    "zhs": "钟离",
+    "zht": "鍾離",
+    "jp": "鍾離",
+    "ko": "종려",
+    "en": "Zhongli",
+    "de": "Zhongli",
+    "es": "Zhongli",
+    "fr": "Zhongli",
+    "pt": "Zhongli",
+    "ru": "Чжун Ли",
+    "id": "Zhongli",
+    "th": "Zhongli",
+    "vi": "Zhongli"
+  },
+  "title": {
+    "zhs": "尘世闲游",
+    "zht": "塵世閒遊",
+    "jp": "浮世閑歩",
+    "ko": "속세 한유",
+    "en": "Vago Mundo",
+    "de": "Besucher bei den Sterblichen",
+    "es": "El Vagabundo del Reino Mortal",
+    "fr": "Vagabond du monde mortel",
+    "pt": "Andarilho do Reino Mortal",
+    "ru": "Бренный скиталец",
+    "id": "Vago Mundo",
+    "th": "ผู้พเนจรแห่งแดนมนุษย์",
+    "vi": "Du Ngoạn Trần Thế"
+  },
+  "description": {
+    "zhs": "被「往生堂」请来的神秘客人，知识渊博，对各种事物都颇有见地。",
+    "zht": "被「往生堂」請來的神祕客人，知識淵博，對各種事物都頗有見地。",
+    "jp": "「往生堂」に招かれた謎の客卿、博識であり、あらゆることに精通している。",
+    "ko": "「왕생당」에서 초대한 신비한 손님. 지식이 풍부하며 여러 사물에 대해 상당한 식견을 가지고 있다",
+    "en": "A mysterious expert contracted by the Wangsheng Funeral Parlor. Extremely knowledgeable in all things.",
+    "de": "Ein geheimnisvoller Gast beim Bestattungsunternehmen Wangsheng, der eine unglaubliche Menge Wissen angehäuft hat.",
+    "es": "Misterioso asesor de la Funeraria El Camino. Erudito y con información sobre todo tipo de cosas.",
+    "fr": "Une mystérieuse relation du Funérarium Wangsheng, aux connaissances aussi variées qu'étendues.",
+    "pt": "Um convidado misterioso da Funerária de Wangsheng. É um erudito que tem um profundo conhecimento sobre todos os tipos de coisa.",
+    "ru": "Приглашённый специалист ритуального бюро «Ваншэн». Необычайно загадочен и сведущ во всех делах.",
+    "id": "Seorang konsultan misterius yang terikat kontrak dengan Wangsheng Funeral Parlor. Dia memiliki pengetahuan yang mendalam tentang segala sesuatu.",
+    "th": "แขกลึกลับผู้ถูกเชิญโดย \"โถงแห่งการเกิดใหม่ Wangsheng\" มีความรู้เป็นที่สุดในทุก ๆ เรื่อง",
+    "vi": "Là vị khách thần bí được \"Vãng Sinh Đường\" mời đến, kiến thức uyên bác, có sự hiểu biết sâu rộng đối với nhiều sự vật sự việc."
+  },
+  "constellation": {
+    "zhs": "？？？",
+    "zht": "？？？",
+    "jp": "？？？",
+    "ko": "???",
+    "en": "???",
+    "de": "???",
+    "es": "¿?",
+    "fr": "???",
+    "pt": "???",
+    "ru": "???",
+    "id": "???",
+    "th": "???",
+    "vi": "???"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "name": {
+    "zhs": "辛焱",
+    "zht": "辛焱",
+    "jp": "辛炎",
+    "ko": "신염",
+    "en": "Xinyan",
+    "de": "Xinyan",
+    "es": "Xinyan",
+    "fr": "Xinyan",
+    "pt": "Xinyan",
+    "ru": "Синь Янь",
+    "id": "Xinyan",
+    "th": "Xinyan",
+    "vi": "Xinyan"
+  },
+  "title": {
+    "zhs": "燥热旋律",
+    "zht": "燥熱旋律",
+    "jp": "爆熱リズム",
+    "ko": "폭열 멜로디",
+    "en": "Blazing Riff",
+    "de": "Glühend heiße Musik",
+    "es": "La Melodía Incandescente",
+    "fr": "Mélodie ardente",
+    "pt": "Melodia Incandescente",
+    "ru": "Пламенная мелодия",
+    "id": "Blazing Riff",
+    "th": "เมโลดี้อันร้อนแรง",
+    "vi": "Giai Điệu Nóng Bỏng"
+  },
+  "description": {
+    "zhs": "璃月港唯一的摇滚乐手，以音乐和热情歌颂着对「成见」的反抗。",
+    "zht": "璃月港唯一的搖滾樂手，以音樂和熱情歌頌著對「成見」的反抗。",
+    "jp": "璃月港唯一のロックミュージシャン。音楽と情熱で「先入観」への反抗を歌う。",
+    "ko": "리월의 유일한 로커(Rocker), 음악과 열정으로 「편견」에 대한 반항을 노래한다",
+    "en": "Liyue's sole rock 'n' roll musician. She rebels against ossified prejudices using her music and passionate singing.",
+    "de": "Das Mädchen mit dem stürmischsten Musikgeschmack in ganz Liyue. Mit ihrer Musik und ihrem leidenschaftlichen Gesang lehnt sie sich gegen die vorgefassten Meinungen auf.",
+    "es": "La única rockera de Liyue. A través de la música y la pasión de sus canciones, hace una crítica de los prejuicios de la sociedad.",
+    "fr": "La seule et unique rockeuse de Liyue. Elle combat les préjugés avec sa musique et ses chansons passionnées.",
+    "pt": "A única roqueira do Porto de Liyue, ela usa sua música e canções apaixonadas para resistir aos preconceitos.",
+    "ru": "Единственный рок-музыкант Ли Юэ. Своей вдохновляющей музыкой и пением она выражает протест предубеждениям.",
+    "id": "Musisi rock 'n' roll satu-satunya di Liyue, kecintaannya yang unik terhadap musik dapat memutarbalikkan pemahaman-pemahaman masyarakat yang kaku.",
+    "th": "นักดนตรีร็อกแอนด์โรล เพียงหนึ่งเดียวของท่าเรือ Liyue ผู้ใช้บทเพลง และความหลงใหลในการร้องเพลง ในการต่อต้านความอคติ",
+    "vi": "Nghệ sĩ rock duy nhất ở cảng Liyue, dùng âm nhạc và niềm đam mê hát lên chống lại những \"định kiến\"."
+  },
+  "constellation": {
+    "zhs": "红檀四弦座",
+    "zht": "紅檀四弦座",
+    "jp": "紅檀四弦座",
+    "ko": "홍단사현자리",
+    "en": "Fila Ignium",
+    "de": "Fila Ignium",
+    "es": "Fila Ignium",
+    "fr": "Fila Ignium",
+    "pt": "Fila Ignium",
+    "ru": "Сандаловая Мандолина",
+    "id": "Fila Ignium",
+    "th": "Fila Ignium",
+    "vi": "Hồng Đàn Tứ Huyền"
+  }
+}

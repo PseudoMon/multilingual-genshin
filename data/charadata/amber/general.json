@@ -1,0 +1,62 @@
+{
+  "name": {
+    "zhs": "安柏",
+    "zht": "安柏",
+    "jp": "アンバー",
+    "ko": "엠버",
+    "en": "Amber",
+    "de": "Amber",
+    "es": "Amber",
+    "fr": "Amber",
+    "pt": "Amber",
+    "ru": "Эмбер",
+    "id": "Amber",
+    "th": "Amber",
+    "vi": "Amber"
+  },
+  "title": {
+    "zhs": "飞行冠军",
+    "zht": "飛行冠軍",
+    "jp": "飛行チャンピオン",
+    "ko": "비행 챔피언",
+    "en": "Gliding Champion",
+    "de": "Flugmeister",
+    "es": "La Campeona de Vuelo",
+    "fr": "Championne de planage",
+    "pt": "Campeã Voadora",
+    "ru": "Чемпион полётов",
+    "id": "Gliding Champion",
+    "th": "แชมป์นักร่อนเวหา",
+    "vi": "Quán Quân Bay Lượn"
+  },
+  "description": {
+    "zhs": "永远充满活力的女孩，骑士团最优秀，同时也是最后的侦察骑士。",
+    "zht": "永遠充滿活力的女孩，騎士團最優秀、同時也是最後的偵察騎士。",
+    "jp": "元気満々な女の子、騎士団で最も優秀で、最後の偵察騎士である。",
+    "ko": "항상 활력이 넘치는 여자아이. 기사단에서 가장 우수한 최후의 정찰 기사다",
+    "en": "Always energetic and full of life, Amber's the best — albeit only — Outrider of the Knights of Favonius.",
+    "de": "Ein Mädchen voller Lebenskraft und gleichzeitig die beste, wenn auch einzig verbliebene, Kundschafterin des Ordo Favonius.",
+    "es": "Siempre enérgica y llena de vida, Amber es la mejor Exploradora de los Caballeros de Favonius, aunque también es la única...",
+    "fr": "Une jeune fille pleine d'énergie. Elle est la seule et unique Éclaireuse de l'Ordre de Favonius.",
+    "pt": "Sempre energética e cheia de vida, a Amber é a melhor, mas também a última Aventureira dos Cavaleiros de Favonius.",
+    "ru": "Энергичная и весёлая Эмбер. Лучший и единственный скаут Ордо Фавониус.",
+    "id": "Gadis periang yang selalu energik dan penuh semangat. Amber adalah Outrider terbaik (dan juga satu-satunya) di Knights of Favonius.",
+    "th": "เด็กสาวผู้เปี่ยมไปด้วยพลังและมีชีวิตชีวาอยู่เสมอ ยอดฝีมือแห่งกองอัศวิน และในขณะเดียวกันก็เป็น อัศวินลาดตระเวนคนสุดท้ายด้วย",
+    "vi": "Cô gái luôn tràn đầy sinh lực, là Kỵ Sĩ Trinh Thám cuối cùng, ưu tú nhất của đội Kỵ Sĩ."
+  },
+  "constellation": {
+    "zhs": "小兔座",
+    "zht": "小兔座",
+    "jp": "小兎座",
+    "ko": "토끼자리",
+    "en": "Lepus",
+    "de": "Lepus",
+    "es": "Lepus Minor",
+    "fr": "Lepus",
+    "pt": "Lepus",
+    "ru": "Озорной Кролик",
+    "id": "Lepus",
+    "th": "Lepus",
+    "vi": "Tiểu Thố"
+  }
+}

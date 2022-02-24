@@ -1,0 +1,62 @@
+{
+  "name": {
+    "zhs": "八重神子",
+    "zht": "八重神子",
+    "jp": "八重神子",
+    "ko": "야에 미코",
+    "en": "Yae Miko",
+    "de": "Yae Miko",
+    "es": "Yae Miko",
+    "fr": "Yae Miko",
+    "pt": "Yae Miko",
+    "ru": "Яэ Мико",
+    "id": "Yae Miko",
+    "th": "Yae Miko",
+    "vi": "Yae Miko"
+  },
+  "title": {
+    "zhs": "浮世笑百姿",
+    "zht": "浮世笑百姿",
+    "jp": "浮世笑百姿",
+    "ko": "속세를 비웃는 백 가지 자태",
+    "en": "Astute Amusement",
+    "de": "Verhöhnung der Sterblichen",
+    "es": "La Kitsune Taimada",
+    "fr": "Frivolité ingénieuse",
+    "pt": "Diversão Astuta",
+    "ru": "Озорное лукавство",
+    "id": "Astute Amusement",
+    "th": "ยิ้มเล่ห์กลยลโลกา",
+    "vi": "Tiếu Ngạo Thế Gian"
+  },
+  "description": {
+    "zhs": "鸣神大社的宫司大人，兼任「八重堂」总编。艳丽动人的外表下藏着令人意想不到的聪慧与狡黠。",
+    "zht": "鳴神大社的宮司大人，兼任「八重堂」總編。豔麗動人的外表下藏著令人意想不到的聰慧與狡黠。",
+    "jp": "鳴神大社の宮司様であり、「八重堂」の編集長。華やかな見た目の裏には、思いもよらぬ知性と奸智が隠されている。",
+    "ko": "나루카미 다이샤의 궁사 겸 「야에 출판사」 편집장. 아름다운 외모 아래 예상 밖의 지혜와 교활함이 숨겨져 있다.",
+    "en": "Lady Guuji of the Grand Narukami Shrine also serves as the editor-in-chief of Yae Publishing House. Unimaginable intelligence and cunning are hidden under her beautiful appearance.",
+    "de": "Die Guuji des Großen Narukami-Schreins und Chefredakteurin des „Verlagshauses Yae“. Hinter ihrem schönen Aussehen verbergen sich unerwartete Intelligenz und Gerissenheit.",
+    "es": "La Suma Sacerdotisa del Gran Santuario Narukami y editora en jefe de la Editorial Yae. Bajo su increíble encanto esconde una inteligencia y una astucia inimaginables.",
+    "fr": "La Guuji Yae du Sanctuaire de Narukami est également responsable éditoriale de la Chambre Yae. Une intelligence et une ruse inimaginables sont cachées sous son apparence gracieuse.",
+    "pt": "A Senhorita Guuji do Grande Santuário Narukami, e também a Editora-Chefe da Editora Yae. Por trás de sua bela aparência escondem-se sabedoria e astúcia inimagináveis.",
+    "ru": "Гудзи Великого храма Наруками, а также главный редактор издательского дома Яэ. Под прекрасной внешностью скрывается неожиданный ум и хитрость.",
+    "id": "Lady Guuji dari Kuil Agung Narukami juga menjabat sebagai pemimpin redaksi Yae Publishing House. Kecerdasan dan kelicikan yang tidak dapat dibayangkan tersembunyi di balik penampilannya yang cantik.",
+    "th": "ท่าน Guuji แห่งศาลเจ้า Grand Narukami และเป็นหัวหน้าบรรณาธิการของ \"สำนักพิมพ์ Yae\" ภายใต้รูปโฉมภายนอกที่งดงาม มีความเฉลียวฉลาดและเล่ห์กลซ่อนอยู่",
+    "vi": "Đại nhân Guuji của Đền Narukami, kiêm tổng biên tập của Nhà Xuất Bản Yae. Phía sau vẻ ngoài xinh đẹp kiều diễm là sự thông minh và xảo quyệt mà khó ai ngờ đến."
+  },
+  "constellation": {
+    "zhs": "仙狐座",
+    "zht": "仙狐座",
+    "jp": "仙狐座",
+    "ko": "선호자리",
+    "en": "Divina Vulpes",
+    "de": "Divina Vulpes",
+    "es": "Divina Vulpes",
+    "fr": "Divina Vulpes",
+    "pt": "Divina Vulpes",
+    "ru": "Божественная Кицунэ",
+    "id": "Divina Vulpes",
+    "th": "Divina Vulpes",
+    "vi": "Cung Tiên Hồ"
+  }
+}
