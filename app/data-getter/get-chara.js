@@ -35,7 +35,6 @@ export async function getCharaGeneralData(charaId) {
 
 export async function getAllCharaGeneralData(charaId) {
   const allChara = await fs.readdir(path.join(dataPath, "charadata"))
-  console.log(allChara)
 
   let allCharaData = []
 

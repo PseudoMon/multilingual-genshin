@@ -1,3 +1,4 @@
+import { useState } from 'react'
 import { Link, useLoaderData } from 'remix'
 import { getAllCharaGeneralData } from '~/data-getter/get-chara'
 
@@ -7,14 +8,35 @@ export async function loader() {
 
 export default function CharacterListPage() {
     const { allData } = useLoaderData()
+    const [shownData, setShownData] = useState(allData)
+
+    const searchName = (e) => {
+        const target = e.target.value.toLowerCase()
+        const filteredData = allData.filter(data => {
+
+            for (let lang in data.name) {
+                if (data.name[lang].toLowerCase().includes(target)) {
+                    return true
+                }
+            }
+
+            return false
+        })
+
+        setShownData(filteredData)
+    }
 
     return (
         <div>
-            <h1>Under construction</h1>
-            <ul>
-                { allData.map(chara => 
+            <h1>Characters</h1>
+            <input placeholder="Search..." onChange={ searchName } />
+            <ul className="character-list">
+                { shownData.map(chara => 
                     <li key={ chara["id"] }>
-                        <a href={ `/characters/${chara["id"]}` }>{ chara["name"]["en"] }</a>
+                        <a href={ `/characters/${chara['id']}` }>
+                            <img src={ `/images/charahead/${chara['id']}.png` } />
+                            <span>{ chara["name"]["en"] }</span>
+                        </a>
                     </li>
                 ) }
             </ul>
