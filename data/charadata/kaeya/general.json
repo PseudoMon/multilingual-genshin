@@ -1,0 +1,62 @@
+{
+  "name": {
+    "zhs": "凯亚",
+    "zht": "凱亞",
+    "jp": "ガイア",
+    "ko": "케이아",
+    "en": "Kaeya",
+    "de": "Kaeya",
+    "es": "Kaeya",
+    "fr": "Kaeya",
+    "pt": "Kaeya",
+    "ru": "Кэйа",
+    "id": "Kaeya",
+    "th": "Kaeya",
+    "vi": "Kaeya"
+  },
+  "title": {
+    "zhs": "寒风剑士",
+    "zht": "寒風劍士",
+    "jp": "寒風の剣士",
+    "ko": "한풍의 검사",
+    "en": "Frostwind Swordsman",
+    "de": "Eiskalter Schwertkämpfer",
+    "es": "El Espadachín Glacial",
+    "fr": "Chevalier du froid",
+    "pt": "Espadachim do Vento Congelante",
+    "ru": "Зимний клинок",
+    "id": "Frostwind Swordsman",
+    "th": "นักดาบแห่งสายลม",
+    "vi": "Hàn Phong Kiếm Sĩ"
+  },
+  "description": {
+    "zhs": "异国面容的剑斗士，西风骑士团的头脑派人物。",
+    "zht": "異國面容的劍鬥士，西風騎士團的頭腦派人物。",
+    "jp": "異国の顔を持つ剣士、西風騎士団の頭脳派である。",
+    "ko": "이국적인 얼굴의 검투사. 페보니우스 기사단의 두뇌파 인물이다",
+    "en": "An accomplished swordsman and a strategic thinker in the Knights of Favonius, rumored to hail from beyond Mondstadt.",
+    "de": "Ein exzellenter Schwertkämpfer und Denker des Ordo Favonius.",
+    "es": "El gran estratega de los Caballeros de Favonius. Se rumorea que procede de un lugar de fuera de Mondstadt.",
+    "fr": "Un épéiste accompli et un stratège de génie de l'Ordre de Favonius ; il est originaire, selon les rumeurs, d'une terre bien au-delà des frontières de Mondstadt.",
+    "pt": "Um espadachim dos Cavaleiros de Favonius com uma aparência única.",
+    "ru": "Капитан Ордо Фавониус выглядит довольно экзотично. Несмотря на дружелюбие и приветливость, от него веет странным холодком.",
+    "id": "Seorang kesatria pedang yang ulung dan ahli strategi di dalam Knights of Favonius, dikabarkan berasal dari luar Mondstadt.",
+    "th": "มันสมองของกองอัศวินแห่ง Favonius ที่ไม่ค่อยปรากฏตัวให้ได้เห็น",
+    "vi": "Kiếm sĩ có nét của người ngoại quốc, là nhân vật có đầu óc trong Đội Kỵ Sĩ Tây Phong."
+  },
+  "constellation": {
+    "zhs": "孔雀羽座",
+    "zht": "孔雀羽座",
+    "jp": "孔雀羽座",
+    "ko": "공작깃털자리",
+    "en": "Pavo Ocellus",
+    "de": "Pavo Ocellus",
+    "es": "Pavo Ocellus",
+    "fr": "Pavo Ocellus",
+    "pt": "Pavo Ocellus",
+    "ru": "Павлинье Перо",
+    "id": "Pavo Ocellus",
+    "th": "Pavo Ocellus",
+    "vi": "Khổng Tước Vũ"
+  }
+}

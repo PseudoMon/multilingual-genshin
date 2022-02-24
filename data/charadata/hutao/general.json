@@ -1,0 +1,62 @@
+{
+  "name": {
+    "zhs": "胡桃",
+    "zht": "胡桃",
+    "jp": "胡桃",
+    "ko": "호두",
+    "en": "Hu Tao",
+    "de": "Hu Tao",
+    "es": "Hu Tao",
+    "fr": "Hu Tao",
+    "pt": "Hutao",
+    "ru": "Ху Тао",
+    "id": "Hu Tao",
+    "th": "Hu Tao",
+    "vi": "Hu Tao"
+  },
+  "title": {
+    "zhs": "雪霁梅香",
+    "zht": "雪霽梅香",
+    "jp": "雪晴梅香",
+    "ko": "눈 그친 뒤의 매화향",
+    "en": "Fragrance in Thaw",
+    "de": "Pflaumenduft bei Tauwetter",
+    "es": "La Guía del Más Allá",
+    "fr": "Fragrance nivale",
+    "pt": "Fragrância de Ameixa Descongelada",
+    "ru": "Весенний аромат",
+    "id": "Fragrance in Thaw",
+    "th": "กลิ่นหอมของลูกพลัม",
+    "vi": "Tuyết Tễ Mai Hương"
+  },
+  "description": {
+    "zhs": "「往生堂」七十七代堂主，年纪轻轻就已主掌璃月的葬仪事务。",
+    "zht": "「往生堂」七十七代堂主，年紀輕輕就已主掌璃月的葬儀事務。",
+    "jp": "「往生堂」七十七代目堂主、若くして璃月の葬儀を仕切り、責任を持ってそれを執り行っている。",
+    "ko": "「왕생당」의 77대 당주, 젊은 나이지만 리월의 장례를 주관하고 있다",
+    "en": "The 77th Director of the Wangsheng Funeral Parlor. She took over the business at a rather young age.",
+    "de": "77. Direktorin des Bestattungsunternehmens Wangsheng in Liyue. Sie übernahm die Leitung bereits in sehr jungen Jahren.",
+    "es": "77.ª directora de la Funeraria El Camino. Pese a su corta edad, ya es la principal encargada de todos los asuntos funerarios de Liyue.",
+    "fr": "La 77e directrice du Funérarium Wangsheng, qui redonne un coup de jeune à la gestion des affaires funéraires de Liyue.",
+    "pt": "A 77.ª diretora da Funerária de Wangsheng. Apesar de ser jovem, já está encarregada de todos os assuntos funerários de Liyue.",
+    "ru": "Хозяйка ритуального бюро «Ваншэн» в семьдесят седьмом поколении. Она унаследовала этот бизнес в достаточно юном возрасте.",
+    "id": "Master ke-77 Wangsheng Funeral Parlor. Dia mengambil alih bisnis ini di umur yang cukup muda.",
+    "th": "หัวหน้า \"โถงแห่งการเกิดใหม่ Wangsheng\" สมัยที่ 77 ผู้เข้ามาดูแลองค์กรจัดงานศพของ Liyue ตั้งแต่อายุยังน้อย",
+    "vi": "Đường chủ đời thứ 77 của Vãng Sinh Đường, tuổi còn trẻ nhưng đã phụ trách việc tang lễ của Liyue."
+  },
+  "constellation": {
+    "zhs": "引蝶座",
+    "zht": "引蝶座",
+    "jp": "彼岸蝶座",
+    "ko": "나비 자리",
+    "en": "Papilio Charontis",
+    "de": "Papilio Charontis",
+    "es": "Papilio Charontis",
+    "fr": "Papilio Charontis",
+    "pt": "Papilio Charontis",
+    "ru": "Бабочка Харона",
+    "id": "Papilio Charontis",
+    "th": "Papilio Charontis",
+    "vi": "Cung Dẫn Điệp"
+  }
+}

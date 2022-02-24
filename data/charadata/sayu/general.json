@@ -1,0 +1,62 @@
+{
+  "name": {
+    "zhs": "早柚",
+    "zht": "早柚",
+    "jp": "早柚",
+    "ko": "사유",
+    "en": "Sayu",
+    "de": "Sayu",
+    "es": "Sayu",
+    "fr": "Sayu",
+    "pt": "Sayu",
+    "ru": "Саю",
+    "id": "Sayu",
+    "th": "Sayu",
+    "vi": "Sayu"
+  },
+  "title": {
+    "zhs": "忍里之貉",
+    "zht": "忍里之貉",
+    "jp": "忍びの里の貉",
+    "ko": "닌자 너구리",
+    "en": "Mujina Ninja",
+    "de": "Mujina-Ninja",
+    "es": "La Tejón Ninja",
+    "fr": "Mujina shinobi",
+    "pt": "Mujina Ninja",
+    "ru": "Мудзина-ниндзя",
+    "id": "Mujina Ninja",
+    "th": "นินจามูจิน่า",
+    "vi": "Ninja Mujina"
+  },
+  "description": {
+    "zhs": "隶属于「终末番」的忍者。身形小巧，总像没睡饱一样。",
+    "zht": "隸屬於「終末番」的忍者。身形小巧，總像沒睡飽一樣。",
+    "jp": "「終末番」に所属する忍。小柄で、いつも眠たそうにしている。",
+    "ko": "「종말번대」 소속 닌자. 체구가 작고 앙증맞으며 항상 졸려 보인다",
+    "en": "A pint-sized ninja attached to the Shuumatsuban, who always seems to be lacking sleep.",
+    "de": "Ein winziger Ninja, der zum Shuumatsuban gehört und immer unter Schlafmangel zu leiden scheint.",
+    "es": "Una ninja perteneciente a Los Ocelos. Muy bajita y siempre con aspecto de no haber dormido lo suficiente.",
+    "fr": "Une très petite ninja rattachée au Shuumatsuban, qui semble toujours manquer de sommeil.",
+    "pt": "Uma ninja pertencente ao Shiyuumatsu-Ba que parece sempre não ter dormido o suficiente.",
+    "ru": "Вечно сонный миниатюрный ниндзя из тайной организации Сюмацубан.",
+    "id": "Ninja kecil dari Shuumatsuban yang selalu terlihat kurang tidur.",
+    "th": "นินจารูปร่างบอบบางแห่ง Shuumatsuban มักจะมีท่าทางเหมือนคนนอนหลับไม่เพียงพออยู่เสมอ",
+    "vi": "Ninja thuộc \"Shuumatsuban\". Thân hình nhỏ nhắn, lúc nào trông cũng như không ngủ đủ giấc."
+  },
+  "constellation": {
+    "zhs": "小貉座",
+    "zht": "小貉座",
+    "jp": "子貉座",
+    "ko": "너구리자리",
+    "en": "Nyctereutes Minor",
+    "de": "Nyctereutes Minor",
+    "es": "Nyctereutes Minor",
+    "fr": "Nyctereutes Minor",
+    "pt": "Nyctereutes Minor",
+    "ru": "Малый Мудзина",
+    "id": "Nyctereutes Minor",
+    "th": "Nyctereutes Minor",
+    "vi": "Cung Tiểu Lạc"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "name": {
+    "zhs": "申鹤",
+    "zht": "申鶴",
+    "jp": "申鶴",
+    "ko": "신학",
+    "en": "Shenhe",
+    "de": "Shenhe",
+    "es": "Shenhe",
+    "fr": "Shenhe",
+    "pt": "Shenhe",
+    "ru": "Шэнь Хэ",
+    "id": "Shenhe",
+    "th": "Shenhe",
+    "vi": "Shenhe"
+  },
+  "title": {
+    "zhs": "孤辰茕怀",
+    "zht": "孤辰煢懷",
+    "jp": "孤辰悲哀",
+    "ko": "고독한 액신",
+    "en": "Lonesome Transcendence",
+    "de": "Einsame Abgeschiedenheit",
+    "es": "La Ermitaña Sobrehumana",
+    "fr": "Transcendance solitaire",
+    "pt": "Transcendência Solitária",
+    "ru": "Одиночество превосходства",
+    "id": "Lonesome Transcendence",
+    "th": "ห้วงคำนึงแสนอ้างว้าง",
+    "vi": "Thiên Thể Cô Độc"
+  },
+  "description": {
+    "zhs": "气质出尘的仙家子弟。隐修在璃月群山之间，个性也如仙人般淡漠疏离。",
+    "zht": "氣質出塵的仙家子弟。隱修在璃月群山之間，個性也如仙人般淡漠疏離。",
+    "jp": "仙人の弟子であり、気品溢れる女性。璃月の山奥にひっそりと住み、その気質は仙人のように孤独で淡々としている。",
+    "ko": "우아한 자태를 갖춘 선인의 제자. 리월의 산속에 은거한 채 수행하는지라 성격도 선인처럼 냉담하고 소외적이다",
+    "en": "An adepti disciple with a most unusual air about her. Having spent much time cultivating in isolation in Liyue's mountains, she has become every bit as cool and distant as the adepti themselves.",
+    "de": "Eine adeptische Schülerin mit einer übernatürlichen Aura, die ihr das langjährige eremitenhafte Leben in den Bergen von Liyue verleiht. Ihr Charakter ist von dem Gleichmut und der Distanzierung der Adepten zutiefst geprägt.",
+    "es": "Una discípula de los Adeptus con una mirada perdida. Al haber vivido recluida en las montañas de Liyue, su carácter es tan frío y distante como el de los Adeptus.",
+    "fr": "Une disciple Adepte avec un air des plus inhabituels. Après avoir passé beaucoup de temps à s'instruire en isolement dans les montagnes de Liyue, elle est devenue tout aussi froide et distante que les Adeptes eux-mêmes.",
+    "pt": "Uma discípula adepti com um ar muito incomum sobre ela. Tendo passado muito tempo vivendo em isolamento nas montanhas de Liyue, ela se tornou tão fria e distante quanto os próprios adepti.",
+    "ru": "Ученица Адептов, утратившая связь с внешним миром. Годы затворнической жизни в горах Ли Юэ сделали её такой же отстранённой и холодной, как сами Адепты.",
+    "id": "Seorang murid Adeptus dengan temperamen yang sedikit unik. Karena sudah lama hidup terisolasi di pegunungan Liyue, sifatnya juga menjadi acuh tak acuh dan menjaga jarak seperti para Adeptus.",
+    "th": "ลูกศิษย์ของเซียนผู้มีออร่าโดดเด่นเกินมนุษย์ เธอหลบซ่อนตัวฝึกฝนอยู่ท่ามกลางป่าเขาของ Liyue บุคลิกของเธอดูเย็นชาและห่างเหินเฉกเช่นเดียวกับเหล่าเซียน",
+    "vi": "Đệ tử tiên gia, khí chất thoát tục, ẩn cư tại núi rừng Liyue, tính cách lãnh đạm như tiên nhân."
+  },
+  "constellation": {
+    "zhs": "愁疏座",
+    "zht": "愁疏座",
+    "jp": "愁疏座",
+    "ko": "고독한 깃장식자리",
+    "en": "Crista Doloris",
+    "de": "Crista Doloris",
+    "es": "Crista Doloris",
+    "fr": "Crista Doloris",
+    "pt": "Crista Doloris",
+    "ru": "Гребень Скорби",
+    "id": "Crista Doloris",
+    "th": "Crista Doloris",
+    "vi": "Cung Ưu Sầu"
+  }
+}

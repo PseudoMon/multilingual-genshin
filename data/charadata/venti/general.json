@@ -1,0 +1,62 @@
+{
+  "name": {
+    "zhs": "温迪",
+    "zht": "溫迪",
+    "jp": "ウェンティ",
+    "ko": "벤티",
+    "en": "Venti",
+    "de": "Venti",
+    "es": "Venti",
+    "fr": "Venti",
+    "pt": "Venti",
+    "ru": "Венти",
+    "id": "Venti",
+    "th": "Venti",
+    "vi": "Venti"
+  },
+  "title": {
+    "zhs": "风色诗人",
+    "zht": "風色詩人",
+    "jp": "風色の詩人",
+    "ko": "바람의 시인",
+    "en": "Windborne Bard",
+    "de": "Wandernder Barde",
+    "es": "El Bardo Itinerante",
+    "fr": "Barde itinérant",
+    "pt": "Bardo Itinerante",
+    "ru": "Поэт ветров",
+    "id": "Windborne Bard",
+    "th": "นักกวีแห่งสายลม",
+    "vi": "Nhà Thơ Có Màu Của Gió"
+  },
+  "description": {
+    "zhs": "蒙德城诸多吟游诗人中的一位，自由自在地穿行在街头巷尾。",
+    "zht": "蒙德城諸多吟遊詩人中的一位，自由自在地穿行在街頭巷尾。",
+    "jp": "モンドの街にいる数多くの自由な吟遊詩人の一人。",
+    "ko": "몬드성의 수많은 음유시인 중 한 명. 자유롭게 몬드의 구석구석을 드나든다",
+    "en": "One of the many bards of Mondstadt, who freely wanders the city's streets and alleys.",
+    "de": "Einer der vielen Barden in Mondstadt, der frei und wohlgemut durch die Gassen schlendert.",
+    "es": "Uno de los muchos bardos de Mondstadt que deambula libremente por las calles y callejones de la ciudad.",
+    "fr": "Un des nombreux bardes de Mondstadt, qui aime à se promener dans tous les recoins de la cité.",
+    "pt": "Um dos muitos bardos de Mondstadt que vagueia livremente pelas ruas e becos da cidade.",
+    "ru": "Обычный бард, слоняющийся по улочкам Мондштадта.",
+    "id": "Salah satu penyair Mondstadt yang dengan bebas berkeliling di antara lorong-lorong Mondstadt.",
+    "th": "หนึ่งในนักกวีพเนจร ที่มีอยู่มากมายใน Mondstadt ผู้เดินเตร่ไปตามถนนซอกซอย อย่างอิสรเสรี",
+    "vi": "Một trong các nhà thơ thành Mondstadt, tự do tự tại đi khắp hang cùng ngõ hẻm."
+  },
+  "constellation": {
+    "zhs": "歌仙座",
+    "zht": "歌仙座",
+    "jp": "歌仙座",
+    "ko": "가선자리",
+    "en": "Carmen Dei",
+    "de": "Carmen Dei",
+    "es": "Carmen Dei",
+    "fr": "Carmen Dei",
+    "pt": "Carmen Dei",
+    "ru": "Бог Песен",
+    "id": "Carmen Dei",
+    "th": "Carmen Dei",
+    "vi": "Ca Tiên"
+  }
+}

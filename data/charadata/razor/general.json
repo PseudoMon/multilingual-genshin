@@ -1,0 +1,62 @@
+{
+  "name": {
+    "zhs": "雷泽",
+    "zht": "雷澤",
+    "jp": "レザー",
+    "ko": "레이저",
+    "en": "Razor",
+    "de": "Razor",
+    "es": "Razor",
+    "fr": "Razor",
+    "pt": "Razor",
+    "ru": "Рэйзор",
+    "id": "Razor",
+    "th": "Razor",
+    "vi": "Razor"
+  },
+  "title": {
+    "zhs": "狼少年",
+    "zht": "狼少年",
+    "jp": "狼少年",
+    "ko": "늑대소년",
+    "en": "Wolf Boy",
+    "de": "Wolfsjunge",
+    "es": "El Niño-lobo",
+    "fr": "Enfant-loup",
+    "pt": "Lobo Jovem",
+    "ru": "Инстинкт стаи",
+    "id": "Wolf Boy",
+    "th": "ลูกหมาป่า",
+    "vi": "Thiếu Niên Sói"
+  },
+  "description": {
+    "zhs": "住在蒙德地区奔狼领，远离城市与人群，和狼一同生活的少年。直觉锐利，身姿迅捷。",
+    "zht": "住在蒙德地區奔狼領、遠離城市與人群，和狼一起生活的少年。直覺銳利，身姿迅捷。",
+    "jp": "人間の町から離れて、モンド地域の奔狼領で狼と暮らす少年。勘が鋭く、動きが俊敏。",
+    "ko": "몬드 지역의 울프 영지에서 사람과 도시를 피해 늑대와 함께 생활하는 소년. 예리한 직감과 민첩한 몸놀림을 가지고 있다",
+    "en": "A boy who lives among the wolves in Wolvendom of Mondstadt, away from human civilization. As agile as lightning.",
+    "de": "Ein Junge, der zusammen mit Wölfen in Wolfenlauf bei Mondstadt weit ab von den Menschen lebt. Seine Instinkte sind scharf und seine Bewegungen schnell.",
+    "es": "Un niño que vive entre los lobos en el Reino de los Lobos de Mondstadt, lejos de la civilización. Es ágil como un relámpago.",
+    "fr": "Un jeune garçon qui vit sur le Territoire des Loups situé aux environs de Mondstadt, loin de la ville et des foules. Il possède un instinct et une agilité surprenante.",
+    "pt": "Um garoto que vive entre os lobos no Reino dos Lobos em Mondstadt, longe da civilização. É ágil como um relâmpago.",
+    "ru": "Мальчик, живущий среди волков в Вольфендоме у Мондштадта, вдали от цивилизации. Ловок как молния.",
+    "id": "Seorang anak laki-laki yang tinggal di daerah Mondstadt. Jauh dari peradaban manusia dan tinggal di kalangan antara serigala di Wolvendom. Firasatnya tajam, tubuhnya lincah bagai kilat.",
+    "th": "เด็กหนุ่มผู้ใช้ชีวิตร่วมกับหมาป่า ใน Wolvendom ซึ่งเป็นพื้นที่หนึ่งใน Mondstadt ที่ห่างไกลจากผู้คน มีปฏิกิริยาที่เฉียบแหลมและคล่องแคล่วว่องไว",
+    "vi": "Thiếu niên sống cùng sói trong Lang Lãnh thuộc Mondstadt, tránh xa thành phố và loài người. Có trực giác nhạy bén, hành động nhanh nhạy."
+  },
+  "constellation": {
+    "zhs": "小狼座",
+    "zht": "小狼座",
+    "jp": "狼座",
+    "ko": "이리자리",
+    "en": "Lupus Minor",
+    "de": "Lupus Minor",
+    "es": "Lupus Minor",
+    "fr": "Lupus Minor",
+    "pt": "Lupus Minor",
+    "ru": "Проворный Волчонок",
+    "id": "Wolf Minor",
+    "th": "Lupus Minor",
+    "vi": "Tiểu Lang"
+  }
+}

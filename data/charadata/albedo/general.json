@@ -1,0 +1,62 @@
+{
+  "name": {
+    "zhs": "阿贝多",
+    "zht": "阿貝多",
+    "jp": "アルベド",
+    "ko": "알베도",
+    "en": "Albedo",
+    "de": "Albedo",
+    "es": "Albedo",
+    "fr": "Albedo",
+    "pt": "Albedo",
+    "ru": "Альбедо",
+    "id": "Albedo",
+    "th": "Albedo",
+    "vi": "Albedo"
+  },
+  "title": {
+    "zhs": "白垩之子",
+    "zht": "白堊之子",
+    "jp": "白亜の申し子",
+    "ko": "백악의 아이",
+    "en": "Kreideprinz",
+    "de": "Kreideprinz",
+    "es": "El Príncipe de la Roca Caliza",
+    "fr": "Kreideprinz",
+    "pt": "Príncipe do Giz",
+    "ru": "Принц мела",
+    "id": "Kreideprinz",
+    "th": "องค์ชายชอล์กขาว",
+    "vi": "Kreideprinz"
+  },
+  "description": {
+    "zhs": "西风骑士团首席炼金术士兼调查小队队长，被称做「白垩之子」的天才。",
+    "zht": "西風騎士團首席煉金術士兼調查小隊隊長，被稱做「白堊之子」的天才。",
+    "jp": "西風騎士団の首席錬金術師兼調査小隊隊長。「白亜の申し子」と呼ばれる天才。",
+    "ko": "페보니우스 기사단 수석 연금술사이자 수사팀 팀장, 「백악의 아이」라 불리는 천재이다",
+    "en": "A genius known as the Kreideprinz, he is the Chief Alchemist and Captain of the Investigation Team of the Knights of Favonius.",
+    "de": "Der Hauptalchimist des Ordo Favonius und gleichzeitig der Anführer der Ermittlungstruppe. Er ist wahrhaft ein Genie und wird als der „Kreideprinz“ bezeichnet.",
+    "es": "Alquimista en Jefe de los Caballeros de Favonius y Capitán del equipo de investigación. Lo llaman el “Príncipe de la Roca Caliza”.",
+    "fr": "#Génie connu sous le surnom de «{NON_BREAK_SPACE}Kreideprinz », Albedo est l'alchimiste en chef et le capitaine des enquêteurs de l'Ordre de Favonius.",
+    "pt": "Um gênio conhecido como Príncipe do Giz, ele é o Chefe Alquimista e Capitão da Equipe de Investigação dos Cavaleiros de Favonius.",
+    "ru": "Гений, именуемый Принцем мела. Главный алхимик и глава исследовательской команды Ордо Фавониус.",
+    "id": "Seorang jenius yang dikenal dengan julukan Kreideprinz, dia adalah Kepala Alkemis dan Kapten Tim Investigasi Knights of Favonius.",
+    "th": "อัจฉริยะที่ถูกขนานนามว่า \"Kreideprinz\" (องค์ชายชอล์กขาว) นั้นเป็นหัวหน้านักเล่นแร่แปรธาตุ และหัวหน้าทีมสืบสวนแห่งกองอัศวิน Favonius",
+    "vi": "Người đứng đầu trong các Giả Kim Thuật Sĩ kiêm đội trưởng tiểu đội điều tra của Đội Kỵ Sĩ Tây Phong, được gọi là thiên tài \"Kreideprinz\"."
+  },
+  "constellation": {
+    "zhs": "白垩之子座",
+    "zht": "白堊之子座",
+    "jp": "白亜の申し子座",
+    "ko": "백악의 아이 자리",
+    "en": "Princeps Cretaceus",
+    "de": "Princeps Cretaceus",
+    "es": "Princeps Cretaceus",
+    "fr": "Princeps Cretaceus",
+    "pt": "Princeps Cretaceous",
+    "ru": "Меловой Принцепс",
+    "id": "Princeps Cretaceus",
+    "th": "Princeps Cretaceus",
+    "vi": "Cung Đứa Con Vôi Trắng"
+  }
+}

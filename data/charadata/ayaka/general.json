@@ -1,0 +1,62 @@
+{
+  "name": {
+    "zhs": "神里绫华",
+    "zht": "神里綾華",
+    "jp": "神里綾華",
+    "ko": "카미사토 아야카",
+    "en": "Kamisato Ayaka",
+    "de": "Kamisato Ayaka",
+    "es": "Kamisato Ayaka",
+    "fr": "Kamisato Ayaka",
+    "pt": "Kamisato Ayaka",
+    "ru": "Аяка",
+    "id": "Kamisato Ayaka",
+    "th": "Kamisato Ayaka",
+    "vi": "Kamisato Ayaka"
+  },
+  "title": {
+    "zhs": "白鹭霜华",
+    "zht": "白鷺霜華",
+    "jp": "白鷺氷華",
+    "ko": "눈꽃의 백로",
+    "en": "Frostflake Heron",
+    "de": "Eisnebelreiher",
+    "es": "La Garza de la Escarcha",
+    "fr": "Héron de givre",
+    "pt": "Garça da Geada",
+    "ru": "Инеевая цапля",
+    "id": "Frostflake Heron",
+    "th": "กระเรียนขาวกลางหิมะ",
+    "vi": "Bạch Hạc Sương Hoa"
+  },
+  "description": {
+    "zhs": "稻妻「社奉行」神里家的大小姐。端庄而文雅，聪慧又坚韧。",
+    "zht": "稻妻「社奉行」神里家的大小姐。端莊而文雅，聰慧又堅韌。",
+    "jp": "稲妻「社奉行」神里家の令嬢。容姿端麗で品行方正な人物。",
+    "ko": "이나즈마 「야시로 봉행」 카미사토 가문의 아가씨. 단정하고 우아하며 지혜롭고 굳건하다",
+    "en": "Daughter of the Yashiro Commission's Kamisato Clan. Dignified and elegant, as well as wise and strong.",
+    "de": "Die Tochter des Kamisato-Klans der Yashiro-Verwaltung. Sie ist würdevoll und elegant, klug und stark.",
+    "es": "La hija del clan Kamisato, perteneciente a la Comisión Yashiro de Inazuma. Una persona solemne, refinada, inteligente y tenaz.",
+    "fr": "Fille du Clan Kamisato de la Commission culturelle. Digne et élégante, mais aussi sage et forte.",
+    "pt": "Filha do Clã Kamisato da Comissão Yashiro. Solene e elegante, bem como sábia e forte.",
+    "ru": "Наследница клана Камисато комиссии Ясиро. Благородна и изящна, мудра и сильна.",
+    "id": "Putri dari Klan Kamisato di Yashiro Commission. Bermartabat dan elegan, cerdas dan tangguh.",
+    "th": "คุณหนูใหญ่ของตระกูล Kamisato แห่งสำนัก Yashiro ใน Inazuma ทั้งสง่างามและมีเกียรติ เปี่ยมไปด้วยสติปัญญาและความแข็งแกร่ง",
+    "vi": "Đại tiểu thư nhà Kamisato thuộc \"Hiệp Hội Yashiro\" Inazuma. Đoan trang thanh lịch, thông minh và mạnh mẽ."
+  },
+  "constellation": {
+    "zhs": "雪鹤座",
+    "zht": "雪鶴座",
+    "jp": "雪鶴座",
+    "ko": "설학자리",
+    "en": "Grus Nivis",
+    "de": "Grus Nivis",
+    "es": "Grus Nivis",
+    "fr": "Grus Nivis",
+    "pt": "Grus Nivis",
+    "ru": "Снежный Журавль",
+    "id": "Grus Nivis",
+    "th": "Grus Nivis",
+    "vi": "Cung Tuyết Hạc"
+  }
+}

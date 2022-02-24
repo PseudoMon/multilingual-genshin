@@ -1,0 +1,62 @@
+{
+  "name": {
+    "zhs": "烟绯",
+    "zht": "煙緋",
+    "jp": "煙緋",
+    "ko": "연비",
+    "en": "Yanfei",
+    "de": "Yanfei",
+    "es": "Yanfei",
+    "fr": "Yanfei",
+    "pt": "Yanfei",
+    "ru": "Янь Фэй",
+    "id": "Yanfei",
+    "th": "Yanfei",
+    "vi": "Yanfei"
+  },
+  "title": {
+    "zhs": "智明无邪",
+    "zht": "智明無邪",
+    "jp": "無邪気な知恵",
+    "ko": "순수한 지혜",
+    "en": "Wise Innocence",
+    "de": "Naive Weisheit",
+    "es": "La Letrada Inocente",
+    "fr": "Sage innocence",
+    "pt": "Inocência Sábia",
+    "ru": "Непорочная мудрость",
+    "id": "Wise Innocence",
+    "th": "ความไร้เดียงสาอันแสนแยบยล",
+    "vi": "Cơ Trí Ngây Thơ"
+  },
+  "description": {
+    "zhs": "活跃在璃月港的知名律法咨询师，混有仙兽血脉的精明少女。",
+    "zht": "活躍在璃月港的知名律法諮詢師，混有仙獸血脈的精明少女。",
+    "jp": "仙獣の血が流れる聡明な少女。璃月港で有名な法律家として活躍している。",
+    "ko": "리월항에서 활동하는 유명 법률 자문가. 신수의 피가 흐르는 영리한 소녀이다",
+    "en": "A well-known legal adviser active in Liyue Harbor. A brilliant young lady in whose veins runs the blood of an illuminated beast.",
+    "de": "Eine sehr bekannte Rechtsberaterin in Liyue und ein gescheites Mädchen mit dem Blut einer göttlichen Bestie in ihren Adern.",
+    "es": "Una reconocida asesora legal que vive en Liyue. Esta joven tan perspicaz tiene parte de sangre de bestia iluminada.",
+    "fr": "Une célèbre conseillère juridique du Port de Liyue. Du sang d'Adepte coule dans les veines de cette jeune femme ingénieuse.",
+    "pt": "Uma Consultora Jurídica animada que vive no Porto de Liyue, é uma garota esperta com sangue da Besta Iluminada.",
+    "ru": "Известный консультант по юридическим вопросам из Ли Юэ. Проницательная девушка, в чьих венах течёт кровь Божественного зверя.",
+    "id": "Seorang konsultan hukum yang terkenal di Liyue. Darah Adeptus juga mengalir di tubuh gadis muda ini.",
+    "th": "ที่ปรึกษาด้านกฎหมายผู้โด่งดังที่ประจำอยู่ที่ท่าเรือ Liyue หญิงสาวผู้ปราดเปรื่องที่มีสายเลือดสัตว์เวทผสมอยู่",
+    "vi": "Nhà cố vấn luật nổi tiếng hoạt động tại Liyue, là một thiếu nữ thông minh hoạt bát mang trong người huyết thống tiên thú."
+  },
+  "constellation": {
+    "zhs": "法兽座",
+    "zht": "法獸座",
+    "jp": "法獣座",
+    "ko": "법수자리",
+    "en": "Bestia Iustitia",
+    "de": "Bestia Iustitia",
+    "es": "Bestia Iustitia",
+    "fr": "Bestia Iustitia",
+    "pt": "Bestia Iustitia",
+    "ru": "Волшебный Зверь",
+    "id": "Bestia Iustitia",
+    "th": "Bestia Iustitia",
+    "vi": "Cung Pháp Thú"
+  }
+}

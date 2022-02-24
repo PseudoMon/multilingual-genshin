@@ -1,0 +1,62 @@
+{
+  "name": {
+    "zhs": "埃洛伊",
+    "zht": "亞蘿伊",
+    "jp": "アーロイ",
+    "ko": "에일로이",
+    "en": "Aloy",
+    "de": "Aloy",
+    "es": "Aloy",
+    "fr": "Aloy",
+    "pt": "Aloy",
+    "ru": "Элой",
+    "id": "Aloy",
+    "th": "Aloy",
+    "vi": "Aloy"
+  },
+  "title": {
+    "zhs": "「异界的救世主」",
+    "zht": "「異界的救世主」",
+    "jp": "「異世界の救世主」",
+    "ko": "「이세계의 구세주」",
+    "en": "Savior From Another World",
+    "de": "„Retterin aus einer anderen Welt“",
+    "es": "La Salvadora de Otro Mundo",
+    "fr": "Salvatrice d'un autre monde",
+    "pt": "Salvadora de Outro Mundo",
+    "ru": "Спасительница из другого мира",
+    "id": "Savior From Another World",
+    "th": "\"ผู้ปลดปล่อยจากต่างโลก\"",
+    "vi": "Vị Cứu Tinh Dị Giới"
+  },
+  "description": {
+    "zhs": "曾经是流放者，如今则是无比机敏的猎手。随时准备着为了正当之事而挽弓放箭。",
+    "zht": "曾經是被逐者，如今則是無比機敏的獵人。隨時準備著為了正當之事而挽弓放箭。",
+    "jp": "かつては異端者であったが、今は機敏で腕の立つ狩人。いついかなる時も、正確無比な矢を放つことができる。",
+    "ko": "과거 추방자였으나 현재는 영민한 사냥꾼이다. 무고한 사람을 지키기 위해서라면 언제라도 활을 쏠 준비가 되어있다",
+    "en": "Formerly an outcast, now a hunter of unparalleled skill. Ready to do the right thing at any time.",
+    "de": "Sie war früher eine Ausgestoßene. Jetzt ist sie eine Jägerin mit durchdringendem Scharfsinn. Jederzeit ist sie bereit, mit Pfeil und Bogen das Richtige zu tun.",
+    "es": "Antes era una paria, pero hoy en día es una cazadora excepcionalmente ágil. Siempre está preparada para hacer uso de su arco y sus flechas cuando es necesario.",
+    "fr": "Autrefois une paria, maintenant une chasseuse d'une acuité sans précédent. Toujours prête à utiliser son arc pour la bonne cause.",
+    "pt": "Era uma pária, agora uma caçadora de uma avidez inigualável. Pronta para fazer a coisa certa com seu arco, a qualquer momento.",
+    "ru": "В прошлом изгой, а теперь охотник с непревзойденным чутьём. Её лук всегда наготове ради правого дела.",
+    "id": "Dulunya dikucilkan oleh sukunya, kini menjadi pemburu dengan kemampuan tak tertandingi. Selalu siap membela yang benar dengan busurnya.",
+    "th": "อดีตเคยเป็นผู้ถูกเนรเทศ ปัจจุบันเป็นนักล่ายอดฝีมือที่หาตัวจับได้ยาก เธอพร้อมที่จะใช้คันธนูและลูกธนูของเธอทำสิ่งที่ถูกต้องทุกเมื่อ",
+    "vi": "Từng là kẻ lưu đày, nay đã trở thành một thợ săn vô cùng nhạy bén. Luôn trong tư thế sẵn sàng giương cung vì chính nghĩa."
+  },
+  "constellation": {
+    "zhs": "诺拉勇者座",
+    "zht": "諾拉族勇者座",
+    "jp": "ノラの義勇兵座",
+    "ko": "노라 용사자리",
+    "en": "Nora Fortis",
+    "de": "Nora Fortis",
+    "es": "Nora Fortis",
+    "fr": "Nora Fortis",
+    "pt": "Norta Fortis",
+    "ru": "Нора Фортис",
+    "id": "Nora Fortis",
+    "th": "Nora Fortis",
+    "vi": "Cung Nora"
+  }
+}

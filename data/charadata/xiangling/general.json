@@ -1,0 +1,62 @@
+{
+  "name": {
+    "zhs": "香菱",
+    "zht": "香菱",
+    "jp": "香菱",
+    "ko": "향릉",
+    "en": "Xiangling",
+    "de": "Xiangling",
+    "es": "Xiangling",
+    "fr": "Xiangling",
+    "pt": "Xiangling",
+    "ru": "Сян Лин",
+    "id": "Xiangling",
+    "th": "Xiangling",
+    "vi": "Xiangling"
+  },
+  "title": {
+    "zhs": "万民百味",
+    "zht": "萬民百味",
+    "jp": "万民百味",
+    "ko": "만민백미",
+    "en": "Exquisite Delicacy",
+    "de": "Küchenfee des Volkes",
+    "es": "La Maestra Culinaria de Liyue",
+    "fr": "Cordon-bleu du peuple",
+    "pt": "Mestre de Culinária de Liyue",
+    "ru": "Миллион вкусов",
+    "id": "Exquisite Delicacy",
+    "th": "สุดยอดนักทำอาหาร",
+    "vi": "Vạn Dân Bách Vị"
+  },
+  "description": {
+    "zhs": "来自璃月、名声在外的少女厨师，对料理之道极具热情，拿手麻辣菜肴堪称一绝。",
+    "zht": "來自璃月、名聲在外的少女廚師，對料理之道極具熱情，拿手麻辣菜餚堪稱一絕。",
+    "jp": "璃月出身で少し有名な料理人。料理に対して情熱があり、激辛料理が大の得意。",
+    "ko": "리월에서 온 유명한 소녀 요리사. 요리를 아주 열정적으로 대하며, 마라 요리는 가히 일품이라 할 수 있다",
+    "en": "A renowned chef from Liyue. She's extremely passionate about cooking and excels at making her signature hot and spicy dishes.",
+    "de": "Eine recht bekannte Köchin aus Liyue, die Gerichte mit Leidenschaft zubereitet. Ihre Techniken sind feurig genug, um ihren Gegnern den Appetit zu verderben.",
+    "es": "Una reconocida chef de Liyue. Siente una gran pasión por la cocina y sus platos picantes son de una excelente calidad.",
+    "fr": "Une jeune cheffe liyuéenne qui nourrit une passion extrême pour la cuisine. Elle est réputée pour ses plats épicés.",
+    "pt": "Uma renomada chef de Liyue. Ela é extremamente apaixonada por cozinhar e se destaca em fazer seus pratos quentes e picantes.",
+    "ru": "Знаменитый шеф-повар из Ли Юэ. Она относится к готовке со всей страстью. Её фирменным рецептам острых блюд нет равных на всём Тейвате.",
+    "id": "Seorang koki ternama dari Liyue yang memiliki cinta mendalam terhadap dunia memasak. Sangat mahir membuat masakan-masakan pedas.",
+    "th": "เชฟชื่อดังจาก Liyue หลงใหลในการปรุงอาหารเป็นอย่างมากและอาหารรสเผ็ดของเธอนั้นโดดเด่นเป็นที่สุด",
+    "vi": "Thiếu nữ đầu bếp đến từ Liyue, rất nổi tiếng, có sự nhiệt tình vô hạn với việc nấu nướng, đặc biệt là những món tê cay."
+  },
+  "constellation": {
+    "zhs": "长杓座",
+    "zht": "長杓座",
+    "jp": "長杓座",
+    "ko": "국자자리",
+    "en": "Trulla",
+    "de": "Große Kelle",
+    "es": "Trullae",
+    "fr": "Ladle",
+    "pt": "Trulla",
+    "ru": "Поварской Черпак",
+    "id": "Ladle",
+    "th": "Ladle",
+    "vi": "Trường Tiêu"
+  }
+}

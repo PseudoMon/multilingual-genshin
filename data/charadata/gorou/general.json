@@ -1,0 +1,62 @@
+{
+  "name": {
+    "zhs": "五郎",
+    "zht": "五郎",
+    "jp": "ゴロー",
+    "ko": "고로",
+    "en": "Gorou",
+    "de": "Gorou",
+    "es": "Gorou",
+    "fr": "Gorou",
+    "pt": "Gorou",
+    "ru": "Горо",
+    "id": "Gorou",
+    "th": "Gorou",
+    "vi": "Gorou"
+  },
+  "title": {
+    "zhs": "戎犬锵锵",
+    "zht": "戎犬鏘鏘",
+    "jp": "雄々しき戎犬",
+    "ko": "견족의 전사",
+    "en": "Canine Warrior",
+    "de": "Hundekrieger",
+    "es": "El General Canino",
+    "fr": "Guerrier canin",
+    "pt": "Guerreiro Canino",
+    "ru": "Пёс войны",
+    "id": "Canine Warrior",
+    "th": "นักรบคู่หูผู้ซื่อสัตย์",
+    "vi": "Chiến Khuyển Nanh Nhọn"
+  },
+  "description": {
+    "zhs": "海祇岛军的大将，深受部下信赖。",
+    "zht": "海祇島軍的大將，深受部下信賴。",
+    "jp": "海祇島軍隊の大将で、部下から厚く信頼されている。",
+    "ko": "와타츠미군의 대장, 부하들의 깊은 신뢰를 받고 있다",
+    "en": "The great general of Watatsumi Island's forces. He is deeply trusted by his subordinates.",
+    "de": "Der große General der Streitkräfte von Watatsumi, dessen Untergebene ihm voll und ganz vertrauen.",
+    "es": "El gran general de las tropas de Watatsumi. Sus subordinados confían plenamente en él.",
+    "fr": "Le grand général des forces de l'Île de Watatsumi, en qui ses subordonnés ont profondément confiance.",
+    "pt": "O grande general das tropas da Ilha Watatsumi. Seus subordinados acreditam profundamente nele.",
+    "ru": "Великий генерал армии Ватацуми. Пользуется безграничным доверием своих подчинённых.",
+    "id": "Jenderal pasukan di Pulau Watatsumi. Dia sangat dipercaya anak buahnya.",
+    "th": "พลเอกของกองทหารแห่งเกาะ Watatsumi ผู้ได้รับความไว้วางใจจากผู้ใต้บังคับบัญชาเป็นอย่างสูง",
+    "vi": "Đại tướng đảo Watatsumi, rất được thuộc hạ tin tưởng."
+  },
+  "constellation": {
+    "zhs": "柴犬座",
+    "zht": "柴犬座",
+    "jp": "柴犬座",
+    "ko": "시바견자리",
+    "en": "Canis Bellatoris",
+    "de": "Canis Bellatoris",
+    "es": "Canis Bellatoris",
+    "fr": "Canis Bellatoris",
+    "pt": "Canis Bellatoris",
+    "ru": "Сиба-ину",
+    "id": "Canis Bellatoris",
+    "th": "Canis Bellatoris",
+    "vi": "Cung Sài Khuyển"
+  }
+}

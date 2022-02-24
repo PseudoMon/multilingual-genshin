@@ -1,0 +1,62 @@
+{
+  "name": {
+    "zhs": "迪奥娜",
+    "zht": "迪奧娜",
+    "jp": "ディオナ",
+    "ko": "디오나",
+    "en": "Diona",
+    "de": "Diona",
+    "es": "Diona",
+    "fr": "Diona",
+    "pt": "Diona",
+    "ru": "Диона",
+    "id": "Diona",
+    "th": "Diona",
+    "vi": "Diona"
+  },
+  "title": {
+    "zhs": "猫尾特调",
+    "zht": "貓尾特調",
+    "jp": "キャッツテールスペシャル",
+    "ko": "캐츠라인 칵테일",
+    "en": "Kätzlein Cocktail",
+    "de": "Putzige Mischung",
+    "es": "La Cantinera Felina",
+    "fr": "Cocktail façon Queue de Chat",
+    "pt": "Coquetel da Cauda do Gato",
+    "ru": "Кошкин коктейль",
+    "id": "Kätzlein Cocktail",
+    "th": "เหมียวน้อยบาร์เทนเดอร์",
+    "vi": "Đặc Chế Quán Rượu Đuôi Mèo"
+  },
+  "description": {
+    "zhs": "遗传了稀薄的「非人」血统的少女，「猫尾酒馆」的超人气调酒师。",
+    "zht": "遺傳了稀薄「非人」血統的少女，「貓尾酒館」的超人氣調酒師。",
+    "jp": "稀な「非人類」の血統を引いている少女、「キャッツテール」の超人気バーテンダー。",
+    "ko": "「사람이 아닌」 혈통을 조금 물려받은 소녀. 「캣테일 술집」의 인기 바텐더이다",
+    "en": "A young lady who has inherited trace amounts of non-human blood. She is the incredibly popular bartender of the Cat's Tail tavern.",
+    "de": "Eine junge Frau, die nicht-menschliches Blut in sich trägt. Zudem ist sie die äußerst beliebte Wirtin der Taverne „Zum Katzenschwanz“.",
+    "es": "Una joven cuya sangre no es humana por completo. Es la popular cantinera de la Taberna Cola de Gato.",
+    "fr": "Une jeune fille au sang pas tout à fait humain. Elle travaille comme barmaid à La Queue de Chat où elle est très appréciée.",
+    "pt": "Uma jovem que herdou pequenas quantidades de sangue não humano. Ela é a Barmaid incrivelmente popular da taverna da Cauda do Gato.",
+    "ru": "Молодая девушка, унаследовавшая остаточную долю нечеловеческой крови. Она невероятно популярный бармен таверны «Кошкин хвост».",
+    "id": "Seorang wanita muda yang mewarisi darah yang bukan manusia. Dia adalah bartender terkenal di Cat's Tail.",
+    "th": "หญิงสาวผู้สืบเชื้อสายมาจาก \"อมนุษย์\" บาร์เทนเดอร์ชื่อดังแห่ง \"Cat's Tail\"",
+    "vi": "Thiếu nữ có dòng máu \"không phải người\" hiếm có, người pha chế rượu rất được yêu thích của Quán Rượu Đuôi Mèo."
+  },
+  "constellation": {
+    "zhs": "小猫座",
+    "zht": "小貓座",
+    "jp": "子猫座",
+    "ko": "고양이자리",
+    "en": "Feles",
+    "de": "Feles",
+    "es": "Feles",
+    "fr": "Feles",
+    "pt": "Feles",
+    "ru": "Милый Котёнок",
+    "id": "Feles",
+    "th": "Feles",
+    "vi": "Tiểu Miêu"
+  }
+}

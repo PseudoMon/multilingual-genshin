@@ -1,0 +1,241 @@
+:root {
+    --font-main: "Signika", sans-serif;
+    --font-header: var(--font-main);
+    --color-bg: #ECECED;
+    --color-text: #131114;
+    --color-accent: #FAB72E;
+    --color-overlay: #F7F0FB;
+    --color-darkoverlay: #664B72;
+
+    --color-textbg: #F9F9F9;
+
+    --color-semitext: #F7EBFF; /* sorta like text, but for bg */
+    --color-semibg: var(--color-textbg); /* sorta like bg but for text */
+}
+
+body {
+    font-family: var(--font-main);
+    background-color: var(--color-bg);
+    color: var(--color-text);
+
+    font-size: 1.125rem; /*18px with a standard 16px base font */ 
+    line-height: 1.5;
+
+    @media (min-width: 1000px) {
+        /* I'm sorry I just really like big text */
+        font-size: 1.25rem; /* 20px */
+    }
+}
+
+main {
+    width: 92%;
+    max-width: 1100px;
+    margin: 42px auto 0 auto;
+
+    @media (max-width: 720px) {
+        margin-top: 40px;
+    }
+}
+
+a {
+    color:  var(--color-accent);
+    text-decoration:  none;
+}
+
+p a {
+    text-decoration:  underline;
+}
+
+a:hover {
+    opacity:  0.6;
+}
+
+p a:hover {
+    text-decoration:  none;
+
+}
+
+
+h2 {
+    line-height: 126%;
+}
+
+.site-header {
+    max-width: 1173px;
+    width: 90%;
+    margin: 42px auto 0 auto;
+    padding: 33px;
+    display: grid;
+    grid-template-columns: 3fr 2fr;
+    
+    border-radius: 30px;
+
+    color: var(--color-semibg);
+    background-color: var(--color-darkoverlay);
+
+
+    @media (max-width: 900px) {
+        display: flex;
+        flex-direction: column;
+    }
+
+    h1 {
+        display: flex;
+        align-items: center;
+        font-family: var(--font-header);
+        font-style: normal;
+        font-weight: normal;
+        font-size: 4rem;
+        line-height: 94.5%;
+        letter-spacing: 0.045em;
+
+        margin: 0;
+
+        @media (max-width: 900px) {
+            justify-content: center;
+            font-size: 3.2rem;
+        }
+
+
+        img { width: 127px; height: 127px; margin-right: 0.1em; }
+    }
+
+    nav { display: flex; align-items: flex-end; }
+
+    nav ul { 
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        align-items: flex-end;
+
+        margin-bottom: 0;
+
+        list-style: none;
+
+        font-style: normal;
+        font-weight: normal;
+        font-size: 24px;
+
+        li {
+            margin: 0 0.2em;
+        }
+
+    }
+
+    a {
+        text-decoration: none;
+        color: inherit;
+        opacity:  0.7;
+    }
+
+    a.active {
+        opacity: 1;
+    }
+
+    a:hover {
+        border-bottom: solid 4px var(--color-accent);
+        opacity:  1;
+    }
+}
+
+.site-footer {
+    max-width: 1100px;
+    width: 90%;
+    margin: 48px auto 0 auto;
+    text-align:  center;
+
+    border-top: solid 10px var(--color-overlay);
+    padding: 0.2em 1em 1em 1em;
+    
+     p {
+        margin: 0.1em 0;
+     }
+
+    .footer-links {
+        list-style: none;
+        padding-left: 0;
+        display: flex;
+        justify-content: center;
+
+        & > * {
+            margin: 0 0.5em;
+            display:  flex;
+
+            &::before {
+                content: "|";
+                margin-right: 1em;
+            }
+
+            &:first-child::before {
+                content: none;
+            }
+        }
+    }
+}
+
+.about {
+    margin-top: 92px;
+    padding: 0;
+
+    @media (max-width: 720px) {
+        margin-top: 40px;
+    }
+
+    h1 {
+        font-size: 3rem;
+        line-height: 125%;
+        text-align: center;
+
+        @media (max-width: 720px) {
+            font-size: 2.4rem;
+        }
+    }
+
+    .text {
+        max-width: 800px;
+        padding: 1em 3em;
+        border-radius: 30px;
+        margin: 0 auto;
+        background-color: var(--color-textbg);
+
+        @media (max-width: 720px) {
+            padding: 1em 1.5em;
+        }
+    }
+}
+
+.homepage {
+    display:  grid;
+    grid-template-columns:  1fr 1fr;
+    grid-gap:  1em;
+
+    @media (max-width: 720px) {
+        grid-template-columns:  1fr;
+    }
+
+    & > h1 {
+        margin:  0;
+        grid-column: 1 / -1;
+        text-align:  center;
+
+        font-size:  2.2rem;
+
+        @media (max-width:  720px) {
+            font-size:  1.8rem;
+        }
+    }
+
+    .text {
+        padding: 1em 3em;
+        border-radius: 30px;
+        margin: 0;  
+        background-color: var(--color-textbg);
+
+        @media (max-width: 720px) {
+            padding: 1em 1.5em;
+        }
+    }
+}
+
+

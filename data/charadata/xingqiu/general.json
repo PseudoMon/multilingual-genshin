@@ -1,0 +1,62 @@
+{
+  "name": {
+    "zhs": "行秋",
+    "zht": "行秋",
+    "jp": "行秋",
+    "ko": "행추",
+    "en": "Xingqiu",
+    "de": "Xingqiu",
+    "es": "Xingchiu",
+    "fr": "Xingqiu",
+    "pt": "Xingqiu",
+    "ru": "Син Цю",
+    "id": "Xingqiu",
+    "th": "Xingqiu",
+    "vi": "Xingqiu"
+  },
+  "title": {
+    "zhs": "少年春衫薄",
+    "zht": "少年春衫薄",
+    "jp": "少壮気鋭",
+    "ko": "의기충천",
+    "en": "Juvenile Galant",
+    "de": "Edelmütiger Jüngling",
+    "es": "El Joven Galante",
+    "fr": "Jeune galant",
+    "pt": "Galante Juvenil",
+    "ru": "Галантный юноша",
+    "id": "Juvenile Galant",
+    "th": "หนุ่มน้อยนักธุรกิจ",
+    "vi": "Tuổi Trẻ Tài Cao"
+  },
+  "description": {
+    "zhs": "经常能在书摊看到的少年人。手执长剑，胸中常怀侠义之心。",
+    "zht": "經常能在書攤看到的少年人。手執長劍，胸中常懷俠義之心。",
+    "jp": "よく本売り場で見かける少年。手には剣を、胸の中には義侠心を。",
+    "ko": "책을 파는 노점에서 자주 보이는 소년. 손에는 장검, 가슴엔 협객의 마음을 품고 있다",
+    "en": "A young man carrying a longsword who is frequently seen at book booths. He has a chivalrous heart and yearns for justice and fairness for all.",
+    "de": "Ein junger Mann, der häufig in der Nähe von Bücherständen gesehen werden kann. In der Hand trägt er ein Langschwert, in seiner Brust ein Herz für die Schwachen.",
+    "es": "Un joven con una espada larga al que puede verse frecuentemente en las librerías. Tiene un corazón de oro y anhela la justicia y la igualdad para todos.",
+    "fr": "Un jeune homme intègre et serviable, que l'on voit souvent dans les librairies. Il porte une longue épée, et poursuit un idéal de justice.",
+    "pt": "Um jovem carregando uma espada longa que é frequentemente visto em estantes de livros. Ele tem um coração de ouro e anseia por justiça e equidade para todos.",
+    "ru": "Молодой любитель книг с благородным сердцем и длинным мечом.",
+    "id": "Seorang pria muda yang membawa sebilah pedang panjang, sering terlihat di kios buku. Memiliki hati mulia yang menjunjung tinggi keadilan dan kebenaran.",
+    "th": "เด็กหนุ่มผู้มักจะพบได้ที่ แผงขายหนังสือ ในมือถือดาบยาว และมีจิตวิญญาณแห่ง ความกล้าอยู่ในตัว",
+    "vi": "Người thiếu niên thường bắt gặp nơi quầy sách. Tay cầm kiếm, với một trái tim nghĩa hiệp thổn thức trong lồng ngực."
+  },
+  "constellation": {
+    "zhs": "锦织座",
+    "zht": "錦織座",
+    "jp": "錦織座",
+    "ko": "금직자리",
+    "en": "Fabulae Textile",
+    "de": "Fabulae Textile",
+    "es": "Fabulae Textile",
+    "fr": "Fabulae Textile",
+    "pt": "Fabulae Textile",
+    "ru": "Пёстрый Гобелен",
+    "id": "Fabulae Textile",
+    "th": "Fabulae Textile",
+    "vi": "Cẩm Chức"
+  }
+}

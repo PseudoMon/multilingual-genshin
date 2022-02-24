@@ -1,0 +1,62 @@
+{
+  "name": {
+    "zhs": "达达利亚",
+    "zht": "達達利亞",
+    "jp": "タルタリヤ",
+    "ko": "타르탈리아",
+    "en": "Tartaglia",
+    "de": "Tartaglia",
+    "es": "Tartaglia",
+    "fr": "Tartaglia",
+    "pt": "Tartaglia",
+    "ru": "Тарталья",
+    "id": "Tartaglia",
+    "th": "Tartaglia",
+    "vi": "Tartaglia"
+  },
+  "title": {
+    "zhs": "「公子」",
+    "zht": "「公子」",
+    "jp": "「公子」",
+    "ko": "",
+    "en": "Childe",
+    "de": "„Der Graf“",
+    "es": "Nobile",
+    "fr": "Jeune Sire",
+    "pt": "Childe",
+    "ru": "Чайльд",
+    "id": "Childe",
+    "th": "Childe",
+    "vi": "Childe"
+  },
+  "description": {
+    "zhs": "愚人众执行官第十一位，「公子」，其战绩威名远扬。",
+    "zht": "愚人眾執行官第十一位，「公子」，其戰績威名遠揚。",
+    "jp": "ファトゥス第十一位、「公子」、その戦績や名前は広く知られている。",
+    "ko": "우인단의 11번째 집행관 「타르탈리아」. 화려한 전적으로 명성이 자자하다",
+    "en": "No. 11 of The Harbingers, also known as \"Childe.\" His name is highly feared on the battlefield.",
+    "de": "Der Letzte unter den Elf der Fatui, „der Graf“ genannt, mit großen Erfolgen auf dem Schlachtfeld.",
+    "es": "El undécimo de Los Once, llamado “Nobile”. Famoso por ganar miles de peleas.",
+    "fr": "Le 11e Exécuteur des Fatui, appelé « Tartaglia ». Il s'est fait connaître pour avoir gagné des milliers de combats.",
+    "pt": "O N.° 11 dos Mensageiros dos Fatui, também conhecido como \"Childe\". O seu nome é bastante temido nos campos de batalha.",
+    "ru": "Номер одиннадцать из Предвестников Фатуи, искусный воин, также известный под именем Чайльд.",
+    "id": "Anggota ke-11 dari Eleven Harbingers, juga dikenal dengan nama \"Childe\". Ketenaran namanya saja dapat menghantar ketakutan di medan perang.",
+    "th": "ผู้บริหารอันดับที่สิบเอ็ดของ Fatui \"Childe\" ชื่อเสียงความเก่งกาจของเขานั้นถูกพูดถึงมาแต่ไกล",
+    "vi": "Childe đứng thứ 11 trong quan chấp hành Fatui, uy danh chiến tích luôn được ca ngợi."
+  },
+  "constellation": {
+    "zhs": "鲸天座",
+    "zht": "鯨天座",
+    "jp": "空鯨座",
+    "ko": "경천자리",
+    "en": "Monoceros Caeli",
+    "de": "Monoceros Caeli",
+    "es": "Monoceros Caeli",
+    "fr": "Monoceros Caeli",
+    "pt": "Monoceros Caeli",
+    "ru": "Небесный Кит",
+    "id": "Monoceros Caeli",
+    "th": "Monoceros Caeli",
+    "vi": "Kình Thiên"
+  }
+}

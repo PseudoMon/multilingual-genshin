@@ -1,0 +1,62 @@
+{
+  "name": {
+    "zhs": "珊瑚宫心海",
+    "zht": "珊瑚宮心海",
+    "jp": "珊瑚宮心海",
+    "ko": "산고노미야 코코미",
+    "en": "Sangonomiya Kokomi",
+    "de": "Sangonomiya Kokomi",
+    "es": "Sangonomiya Kokomi",
+    "fr": "Sangonomiya Kokomi",
+    "pt": "Sangonomiya Kokomi",
+    "ru": "Кокоми",
+    "id": "Sangonomiya Kokomi",
+    "th": "Sangonomiya Kokomi",
+    "vi": "Sangonomiya Kokomi"
+  },
+  "title": {
+    "zhs": "真珠之智",
+    "zht": "真珠之智",
+    "jp": "真珠の智",
+    "ko": "진주의 지혜",
+    "en": "Pearl of Wisdom",
+    "de": "Perle der Weisheit",
+    "es": "La Perla de la Sabiduría",
+    "fr": "Perle de connaissance",
+    "pt": "Pérolas de Sabedoria",
+    "ru": "Жемчужина мудрости",
+    "id": "Pearl of Wisdom",
+    "th": "ไข่มุกแห่งปัญญา",
+    "vi": "Trí Tuệ Trân Châu"
+  },
+  "description": {
+    "zhs": "海祇岛的「现人神巫女」，统管海祇岛各项事宜的少女。",
+    "zht": "海祇島的「現人神巫女」，統管海祇島各項事宜的少女。",
+    "jp": "海祇島の「現人神の巫女」、海祇島すべての事務を担当している少女。",
+    "ko": "와타츠미섬의 「아라히토가미 무녀」. 와타츠미섬의 각종 사항을 총괄하는 소녀이다",
+    "en": "The Divine Priestess of Watatsumi Island. All of the island's affairs are at this young lady's fingertips.",
+    "de": "Die göttliche Priesterin und das höchste Oberhaupt von Watatsumi.",
+    "es": "La Sacerdotisa Divina y quien controla todos los asuntos de la Isla Watatsumi.",
+    "fr": "La Prêtresse divine de l'Île de Watatsumi, une jeune femme gérant toutes les affaires de l'île.",
+    "pt": "A Sacerdotisa Divina da Ilha Watatsumi. Todos os assuntos da ilha estão na ponta dos dedos desta jovem senhorita.",
+    "ru": "Божественная Жрица острова Ватацуми. Все дела острова находятся в руках этой молодой леди.",
+    "id": "Sang Pemimpin Suci di Pulau Watatsumi. Segala urusan yang terjadi di pulau tersebut ada dalam genggaman nona muda ini.",
+    "th": "ผู้นำมิโกะคนปัจจุบันของเกาะ Watatsumi สาวน้อยผู้รับผิดชอบงานทุกอย่างบนเกาะ Watatsumi",
+    "vi": "Thánh Pháp Sư của đảo Watatsumi, thiếu nữ quản lý mọi chuyện trên đảo Watatsumi."
+  },
+  "constellation": {
+    "zhs": "眠龙座",
+    "zht": "眠龍座",
+    "jp": "睡竜座",
+    "ko": "잠든 용자리",
+    "en": "Dracaena Somnolenta",
+    "de": "Dracaena Somnolenta",
+    "es": "Dracaena Somnolenta",
+    "fr": "Dracaena Somnolenta",
+    "pt": "Dracaena Somnolenta",
+    "ru": "Спящий Дракон",
+    "id": "Dracaena Somnolenta",
+    "th": "Dracaena Somnolenta",
+    "vi": "Cung Miên Long"
+  }
+}

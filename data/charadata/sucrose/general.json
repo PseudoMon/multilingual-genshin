@@ -1,0 +1,62 @@
+{
+  "name": {
+    "zhs": "砂糖",
+    "zht": "砂糖",
+    "jp": "スクロース",
+    "ko": "설탕",
+    "en": "Sucrose",
+    "de": "Saccharose",
+    "es": "Sacarosa",
+    "fr": "Sucrose",
+    "pt": "Sucrose",
+    "ru": "Сахароза",
+    "id": "Sucrose",
+    "th": "Sucrose",
+    "vi": "Sucrose"
+  },
+  "title": {
+    "zhs": "无害甜度",
+    "zht": "無害甜度",
+    "jp": "無害の甘味",
+    "ko": "무해한 달콤함",
+    "en": "Harmless Sweetie",
+    "de": "Harmlos und süß",
+    "es": "La Dulzura Inofensiva",
+    "fr": "Alchimiste 100 % naturelle",
+    "pt": "Doçura Inofensiva",
+    "ru": "Безобидная карамелька",
+    "id": "Harmless Sweetie",
+    "th": "ความหวานที่ไร้พิษสง",
+    "vi": "Độ Ngọt Vô Hại"
+  },
+  "description": {
+    "zhs": "对万物充满好奇的炼金术士，「生物炼金」学派的研究者。",
+    "zht": "對萬物充滿好奇的煉金術士，「生物煉金」學派的研究者。",
+    "jp": "この世界のありとあらゆるものに強い好奇心を抱く錬金術師。研究分野は「生物錬金」。",
+    "ko": "모든 게 신기한 연금술사. 「생물 연금술」 학파의 학자",
+    "en": "An alchemist filled with curiosity about all things. She researches bio-alchemy.",
+    "de": "Eine Alchimistin, die sich für regelrecht alles um sie herum interessiert. Darüber hinaus erforscht sie die sogenannte Bio-Alchimie.",
+    "es": "Una alquimista e investigadora de la escuela de bioalquimia que siente curiosidad por todo.",
+    "fr": "Une alchimiste très curieuse du monde qui l'entoure. Elle se spécialise dans la bio-alchimie.",
+    "pt": "Uma alquimista cheia de curiosidade sobre todas as coisas e que pesquisa Bioalquimia.",
+    "ru": "Алхимик, преисполненная любопытством по отношению ко всему на свете. Она занимается исследованием биоалхимии.",
+    "id": "Seorang alkemis dipenuhi dengan rasa ingin tahu tentang semua hal. Dia meneliti bio-alkimia.",
+    "th": "นักเล่นแร่แปรธาตุที่เต็มไปด้วย ความอยากรู้อยากเห็นในทุกสิ่ง ทุกอย่าง เป็นผู้บุกเบิกวิชา \"การแปรธาตุชีวภาพ\"",
+    "vi": "Thuật sĩ giả kim với lòng hiếu kỳ mọi sự vật xung quanh. Là nhà nghiên cứu của học phái Giả Kim Sinh Vật."
+  },
+  "constellation": {
+    "zhs": "烧瓶座",
+    "zht": "燒瓶座",
+    "jp": "フラスコ座",
+    "ko": "플라스크자리",
+    "en": "Ampulla",
+    "de": "Ampulla",
+    "es": "Ampulla",
+    "fr": "Ampulla",
+    "pt": "Ampulla",
+    "ru": "Горячая Колба",
+    "id": "Ampulla",
+    "th": "Ampulla",
+    "vi": "Thiêu Bình"
+  }
+}

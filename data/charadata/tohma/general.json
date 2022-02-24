@@ -1,0 +1,62 @@
+{
+  "name": {
+    "zhs": "托马",
+    "zht": "托馬",
+    "jp": "トーマ",
+    "ko": "토마",
+    "en": "Thoma",
+    "de": "Thoma",
+    "es": "Thoma",
+    "fr": "Thomas",
+    "pt": "Thoma",
+    "ru": "Тома",
+    "id": "Thoma",
+    "th": "Thoma",
+    "vi": "Thoma"
+  },
+  "title": {
+    "zhs": "渡来介者",
+    "zht": "渡來介者",
+    "jp": "渡来介者",
+    "ko": "바다 건너온 수호자",
+    "en": "Protector From Afar",
+    "de": "Beschützer aus der Ferne",
+    "es": "El Protector de Tierras Lejanas",
+    "fr": "Protecteur venu de loin",
+    "pt": "Protetor de Longe",
+    "ru": "Защитник издалека",
+    "id": "Protector From Afar",
+    "th": "ผู้พิทักษ์จากแดนไกล",
+    "vi": "Người Bảo Vệ Phương Xa"
+  },
+  "description": {
+    "zhs": "神里家的家政官，活跃在稻妻的「地头蛇」。",
+    "zht": "神里家的家政官，活躍在稻妻的「地頭蛇」。",
+    "jp": "神里家の家司。稲妻で活躍する「顔役」でもある。",
+    "ko": "카미사토 가문의 가사 관리원, 이나즈마의 「유명인」이다",
+    "en": "The Kamisato Clan's housekeeper. A well-known \"fixer\" in Inazuma.",
+    "de": "Der Haushälter des Kamisato-Klans und ein in Inazuma bekannter „Vermittler“.",
+    "es": "El amo de llaves del clan Kamisato y un intermediario muy activo en Inazuma.",
+    "fr": "L'employé de maison du Clan Kamisato. Un « négociateur » bien connu à Inazuma.",
+    "pt": "O Empregado do Clã Kamisato e animado Mediador de Inazuma.",
+    "ru": "Управляющий клана Камисато. Известный в Инадзуме «местный авторитет».",
+    "id": "Pengurus rumah tangga Klan Kamisato. Seorang \"kepala\" yang terkenal di Inazuma.",
+    "th": "พ่อบ้านผู้จัดการงานต่าง ๆ ภายในคฤหาสน์ของตระกูล Kamisato \"ผู้มีอิทธิพล\" ซึ่งเคลื่อนไหวใน Inazuma",
+    "vi": "Quản gia của nhà Kamisato, \"thổ địa\" của Inazuma."
+  },
+  "constellation": {
+    "zhs": "赤楯座",
+    "zht": "赤楯座",
+    "jp": "赤楯座",
+    "ko": "붉은 방패자리",
+    "en": "Rubeum Scutum",
+    "de": "Rubeum Scutum",
+    "es": "Rubeum Scuta",
+    "fr": "Rubeum Scutum",
+    "pt": "Rubeum Scutum",
+    "ru": "Красный Щит",
+    "id": "Rubeum Scutum",
+    "th": "Rubeum Scutum",
+    "vi": "Cung Xích Thuẫn"
+  }
+}

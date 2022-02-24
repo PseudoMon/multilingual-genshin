@@ -1,0 +1,62 @@
+{
+  "name": {
+    "zhs": "罗莎莉亚",
+    "zht": "蘿莎莉亞",
+    "jp": "ロサリア",
+    "ko": "로자리아",
+    "en": "Rosaria",
+    "de": "Rosaria",
+    "es": "Rosaria",
+    "fr": "Rosalia",
+    "pt": "Rosaria",
+    "ru": "Розария",
+    "id": "Rosaria",
+    "th": "Rosaria",
+    "vi": "Rosaria"
+  },
+  "title": {
+    "zhs": "棘冠恩典",
+    "zht": "棘冠恩典",
+    "jp": "荊冠の恩典",
+    "ko": "가시관의 은혜",
+    "en": "Thorny Benevolence",
+    "de": "Dornige Gnade",
+    "es": "La Beata Impía",
+    "fr": "Rogue bienfaisance",
+    "pt": "Benevolência Espinhosa",
+    "ru": "Венец милости",
+    "id": "Thorny Benevolence",
+    "th": "ความเมตตาที่เสียดแทง",
+    "vi": "Ân Điển Mũ Gai"
+  },
+  "description": {
+    "zhs": "除了打扮哪里都不像神职人员的修女。冷淡的言行中透着锐利。总是单独行动。",
+    "zht": "只有穿著像神職人員的修女。冷淡的言行中透著銳利。總是單獨行動。",
+    "jp": "身にまとう服装以外、何ひとつとして聖職者とは思えないシスター。冷たい言動の中には、相手を見透かす鋭さが隠されている。また、いつも一人で行動をしている。",
+    "ko": "겉모습을 제외하곤 전혀 성직자 같지 않은 수녀. 냉담한 언행 속에 예리함이 배어 있으며, 늘 단독행동을 한다",
+    "en": "A sister of the church, though you wouldn't know it if it weren't for her attire. Known for her sharp, cold words and manner, she often works alone.",
+    "de": "Eine Ordensschwester, die vielleicht so aussieht, sich aber überhaupt nicht so verhält wie eine. Sie ist bekannt für ihre kalten Worte und ihre abweisende Art. Außerdem arbeitet sie ausschließlich allein.",
+    "es": "Una monja que, aparte de por su ropa, nadie diría que pertenece al clero. Su frialdad hacia todo la hace extremadamente incisiva y siempre actúa en solitario.",
+    "fr": "Une religieuse qui n'en a que l'apparence. Ses paroles sont acérées et son comportement, froid. Elle agit toujours seule.",
+    "pt": "Uma freira que, além das suas vestes, não se parece em nada com uma pessoa do clero. Conhecida por seus modos e palavras diretos e frios, ela costuma trabalhar sozinha.",
+    "ru": "Кроме её одеяния ничто не напоминает о её принадлежности церкви. Известна своими холодными речами и резкими поступками. Всегда действует одна.",
+    "id": "Seorang suster yang, selain dari pakaiannya, tidak terlihat seperti seorang suster sama sekali. Dikenal karena kata-katanya yang tajam dan dingin, dan sering bekerja sendiri.",
+    "th": "ซิสเตอร์ที่นอกจากการแต่งกายแล้ว ไม่มีสิ่งที่ดูเหมือนสมาชิกทางศาสนาเลย เธอมีคำพูดและการกระทำที่เฉียบแหลมและเย็นชา และมักจะทำสิ่งต่าง ๆ ด้วยตัวคนเดียวอยู่เสมอ",
+    "vi": "Một tu nữ ngoại trừ cách ăn mặc thì không có điểm nào giống với người trong tu viện. Trong hành vi và lời nói lãnh đạm thoảng qua chút sắc sảo. Lúc nào cũng hành động một mình."
+  },
+  "constellation": {
+    "zhs": "荆冠座",
+    "zht": "荊冠座",
+    "jp": "荊冠座",
+    "ko": "형관자리",
+    "en": "Spinea Corona",
+    "de": "Spinea Corona",
+    "es": "Spinea Corona",
+    "fr": "Spinea Corona",
+    "pt": "Spinea Corona",
+    "ru": "Терновый Венец",
+    "id": "Spinea Corona",
+    "th": "Spinea Corona",
+    "vi": "Cung Kinh Quán"
+  }
+}

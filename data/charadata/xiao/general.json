@@ -1,0 +1,62 @@
+{
+  "name": {
+    "zhs": "魈",
+    "zht": "魈",
+    "jp": "魈",
+    "ko": "소",
+    "en": "Xiao",
+    "de": "Xiao",
+    "es": "Xiao",
+    "fr": "Xiao",
+    "pt": "Xiao",
+    "ru": "Сяо",
+    "id": "Xiao",
+    "th": "Xiao",
+    "vi": "Xiao"
+  },
+  "title": {
+    "zhs": "护法夜叉",
+    "zht": "護法夜叉",
+    "jp": "護法夜叉",
+    "ko": "호법야차",
+    "en": "Vigilant Yaksha",
+    "de": "Schützender Yaksha",
+    "es": "El Guardián Yaksha",
+    "fr": "Gardien Yaksha",
+    "pt": "Guardião Yaksha",
+    "ru": "Защитник Якса",
+    "id": "Vigilant Yaksha",
+    "th": "ยักษาผู้พิทักษ์",
+    "vi": "Hộ Pháp Dạ Xoa"
+  },
+  "description": {
+    "zhs": "守护璃月的仙人，「夜叉」。美号「降魔大圣」，妙称「护法夜叉大将」。",
+    "zht": "守護璃月的仙人，「夜叉」。美號「降魔大聖」，妙稱「護法夜叉大將」。",
+    "jp": "璃月を守る仙人·「夜叉」。またの名を「降魔大聖」、「護法夜叉大将」。",
+    "ko": "리월을 수호하는 선인, 「야차」. 「항마대성」 또는 「호법야차 대장」이라고도 불린다",
+    "en": "A yaksha adeptus who defends Liyue. Also heralded as the \"Conqueror of Demons\" and \"Vigilant Yaksha.\"",
+    "de": "Ein Yaksha, ein Adept, der Liyue beschützt. Er wird als großer „Dämonenbändiger“ und „Schützender Yaksha“ bezeichnet.",
+    "es": "Un Yaksha y Adeptus que protege Liyue. También llamado el “Gran Cazador de Demonios” o “Guardián Yaksha”.",
+    "fr": "Un des Adeptes de Liyue, aussi connu sous le nom de « Dompteur de démons » et « Général des Yakshas ».",
+    "pt": "Um Yaksha, um ser imortal que protege Liyue. Também chamado de \"Conquistador de Demônios\" ou \"Guardião Yaksha\".",
+    "ru": "Бессмертный дух Якса, охраняющий гавань Ли Юэ. Также зовётся Охотником на демонов или Защитником Якса.",
+    "id": "Yaksha, sesosok Adeptus yang melindungi Liyue. Juga memiliki julukan \"Conqueror of Demons\" atau \"Vigilant Yaksha\".",
+    "th": "ยักษา เซียนผู้พิทักษ์ Liyue ผู้ได้รับสมญานาม \"ผู้กำราบอสูร\" หรือ \"ยักษาผู้พิทักษ์\"",
+    "vi": "Tiên nhân bảo vệ Liyue - Dạ Xoa. Hiệu là \"Hàng Ma Đại Thánh\", biệt danh \"Hộ Pháp Dạ Xoa Đại Tướng\"."
+  },
+  "constellation": {
+    "zhs": "金翅鹏王座",
+    "zht": "金翅鵬王座",
+    "jp": "金翼鵬王座",
+    "ko": "황금날개천붕왕자리",
+    "en": "Alatus Nemeseos",
+    "de": "Alatus Nemeseos",
+    "es": "Alatus Nemeseos",
+    "fr": "Alatus Nemeseos",
+    "pt": "Alatus Nemeseos",
+    "ru": "Златокрылая Птица",
+    "id": "Alatus Nemeseos",
+    "th": "Alatus Nemeseos",
+    "vi": "Cung Kim Sí Bằng Vương"
+  }
+}

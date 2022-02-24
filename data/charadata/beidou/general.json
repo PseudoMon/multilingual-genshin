@@ -1,0 +1,62 @@
+{
+  "name": {
+    "zhs": "北斗",
+    "zht": "北斗",
+    "jp": "北斗",
+    "ko": "북두",
+    "en": "Beidou",
+    "de": "Beidou",
+    "es": "Beidou",
+    "fr": "Beidou",
+    "pt": "Beidou",
+    "ru": "Бэй Доу",
+    "id": "Beidou",
+    "th": "Beidou",
+    "vi": "Beidou"
+  },
+  "title": {
+    "zhs": "无冕的龙王",
+    "zht": "無冕的龍王",
+    "jp": "無冠の龍王",
+    "ko": "무관의 용왕",
+    "en": "Uncrowned Lord of the Ocean",
+    "de": "Ungekrönte Königin der Meere",
+    "es": "La Reina del Océano sin Corona",
+    "fr": "Reine des mers sans couronne",
+    "pt": "Rainha do Mar Sem Coroa",
+    "ru": "Владычица морей",
+    "id": "Uncrowned Lord of Ocean",
+    "th": "ราชินีไร้บัลลังก์แห่งท้องทะเล",
+    "vi": "Long Vương Không Vương Miện"
+  },
+  "description": {
+    "zhs": "武装船队「南十字」的首领，豪快的大姐头。",
+    "zht": "武裝船隊「南十字」的首領，豪快的大姊頭。",
+    "jp": "武装船隊「南十字」の頭領、豪快な姉貴。",
+    "ko": "무장 함대 「남십자」의 우두머리. 호탕한 여걸이다",
+    "en": "Captain of her crew, The Crux. She's quite an unbound and forthright woman.",
+    "de": "Die Anführerin der bewaffneten Flotte „Crux“, freimütig und draufgängerisch.",
+    "es": "Líder de la Flota Crux Meridianam. Es una jefa bastante desenfadada y franca.",
+    "fr": "Capitaine de la Flotte du Crux, une femme de tête franche et directe.",
+    "pt": "Líder da frota armada Crux. Ela é uma chefe sem limites e franca.",
+    "ru": "Капитан флота Южного Креста. Она весьма рисковая и прямолинейная леди.",
+    "id": "Pemimpin dari armada laut Crux Fleet. Bos wanita yang tegas dan berpendirian teguh.",
+    "th": "ผู้นำกองทัพเรือติดอาวุธ \"Crux\" สตรีผู้ซื่อตรงและ ไร้ซึ่งพันธนาการ",
+    "vi": "Thủ lĩnh đội thuyền vũ trang \"Nam Thập Tự\", là chị đại hào sảng."
+  },
+  "constellation": {
+    "zhs": "南天海山座",
+    "zht": "南天海山座",
+    "jp": "南天海山座",
+    "ko": "남천해산자리",
+    "en": "Victor Mare",
+    "de": "Victor Mare",
+    "es": "Victor Mare",
+    "fr": "Victor Mare",
+    "pt": "Victor Mare",
+    "ru": "Дракон Морей",
+    "id": "Victor Mare",
+    "th": "Victor Mare",
+    "vi": "Nam Thiên Hải Sơn"
+  }
+}

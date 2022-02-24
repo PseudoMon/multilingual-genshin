@@ -1,0 +1,62 @@
+{
+  "name": {
+    "zhs": "诺艾尔",
+    "zht": "諾艾爾",
+    "jp": "ノエル",
+    "ko": "노엘",
+    "en": "Noelle",
+    "de": "Noelle",
+    "es": "Noelle",
+    "fr": "Noëlle",
+    "pt": "Noelle",
+    "ru": "Ноэлль",
+    "id": "Noelle",
+    "th": "Noelle",
+    "vi": "Noelle"
+  },
+  "title": {
+    "zhs": "未授勋之花",
+    "zht": "未授勛之花",
+    "jp": "騎士道の花咲",
+    "ko": "수여받지 못한 꽃",
+    "en": "Chivalric Blossom",
+    "de": "Knospe des Rittertums",
+    "es": "La Heroína no Reconocida",
+    "fr": "Fleur chevaleresque",
+    "pt": "Flor da Cavalaria",
+    "ru": "Нераспустившийся цветок",
+    "id": "Chivalric Blossom",
+    "th": "ดอกไม้ที่หาญกล้า",
+    "vi": "Đóa Hoa Chưa Vinh Danh"
+  },
+  "description": {
+    "zhs": "「西风骑士团」的可靠女仆，梦想有一天能成为正式的骑士。",
+    "zht": "「西風騎士團」的可靠女僕，夢想有一天能成為正式的騎士。",
+    "jp": "「西風騎士団」の頼もしいメイド、いつか本当の騎士になることを夢見る。",
+    "ko": "「페보니우스 기사단」의 믿음직한 메이드, 언젠가는 정식으로 기사가 되겠다는 꿈을 가지고 있다",
+    "en": "A maid who faithfully serves the Knights of Favonius. She dreams of joining their ranks someday.",
+    "de": "Eine verlässliche Magd des Ordo Favonius, die eines Tages gern ein richtiger Ritter werden will.",
+    "es": "La criada de confianza de los Caballeros de Favonius. Sueña con convertirse algún día en una de ellos.",
+    "fr": "Une jeune fille travaillant comme servante à l'Ordre de Favonius. Elle a toujours rêvé de devenir un jour chevalier.",
+    "pt": "Uma empregada em serviço dos Cavaleiros de Favonius que sonha em se juntar aos cavaleiros um dia.",
+    "ru": "Горничная Ордо Фавониус, которая страстно мечтает однажды пополнить ряды ордена.",
+    "id": "Seorang pelayan yang bekerja di Knights of Favonius, memiliki impian untuk menjadi seorang Knight suatu hari kelak.",
+    "th": "สาวใช้ผู้สามารถพึ่งพาได้เสมอ ของ \"กองอัศวินแห่ง Favonius\" มีความฝันว่า สักวันหนึ่งจะเป็น อัศวินอย่างเต็มตัวให้ได้",
+    "vi": "Hầu gái đáng tin cậy của Đội Kỵ Sĩ Tây Phong, mơ ước một ngày nào đó sẽ trở thành kỵ sĩ chính thức."
+  },
+  "constellation": {
+    "zhs": "心护座",
+    "zht": "心護座",
+    "jp": "心護座",
+    "ko": "심호자리",
+    "en": "Parma Cordis",
+    "de": "Parma Cordis",
+    "es": "Parma Cordis",
+    "fr": "Parma Cordis",
+    "pt": "Parma Cordis",
+    "ru": "Душевный Щит",
+    "id": "Parma Cordis",
+    "th": "Parma Cordis",
+    "vi": "Hộ Tâm"
+  }
+}

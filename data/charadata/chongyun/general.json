@@ -1,0 +1,62 @@
+{
+  "name": {
+    "zhs": "重云",
+    "zht": "重雲",
+    "jp": "重雲",
+    "ko": "중운",
+    "en": "Chongyun",
+    "de": "Chongyun",
+    "es": "Chongyun",
+    "fr": "Chongyun",
+    "pt": "Chongyun",
+    "ru": "Чун Юнь",
+    "id": "Chongyun",
+    "th": "Chongyun",
+    "vi": "Chongyun"
+  },
+  "title": {
+    "zhs": "雪融有踪",
+    "zht": "雪融有蹤",
+    "jp": "雪消の跡",
+    "ko": "얼어붙은 열정",
+    "en": "Frozen Ardor",
+    "de": "Spuren im schmelzenden Schnee",
+    "es": "El Hielo Ardiente",
+    "fr": "Corps de glace et cœur de feu",
+    "pt": "Pegadas na Neve",
+    "ru": "Морозная пылкость",
+    "id": "Frozen Ardor",
+    "th": "ร่องรอยในหิมะ",
+    "vi": "Bóng Hình Băng Giá"
+  },
+  "description": {
+    "zhs": "驱邪世家出身的年轻方士，为压制自身的「纯阳之体」费尽心思。",
+    "zht": "驅邪世家出身的年輕術士，為壓制自身的「純陽之體」費盡心思。",
+    "jp": "妖魔退治一族の方士少年、自身の「純陽の体」を抑えるためにいろいろ苦労している。",
+    "ko": "퇴마 가문 출신의 젊은 도사. 자신이 지닌 「양(阳)의 체질」을 억누르려고 갖은 애를 다쓴다",
+    "en": "A young exorcist from a family of exorcists. He does everything he can to suppress his abundance of yang energy.",
+    "de": "Ein junger Mystiker aus einer Familie von Dämonenvertreibern, der alles dafür tut, seine „Yang-Lastigkeit“ zu unterdrücken.",
+    "es": "Un joven exorcista procedente de una familia de exorcistas. Hace todo lo que puede para reprimir su propio poder, la “positividad congénita”.",
+    "fr": "Le jeune héritier d'une célèbre famille d'exorcistes, qui s'efforce de contrôler l'énergie qui l'habite.",
+    "pt": "Um jovem exorcista de uma família de exorcistas. Ele faz de tudo para suprimir seu Psíquico Yang Puro.",
+    "ru": "Молодой экзорцист из семьи экзорцистов. Изо всех сил старается подавить свою энергию Ян.",
+    "id": "Seorang anak muda pewaris klan pembasmi iblis, dia selalu berusaha sekuat tenaga untuk meredam \"Luapan Energi Yang\" yang ada dalam dirinya.",
+    "th": "นักปราบปีศาจแห่งตระกูลที่ โด่งดังในเรื่องการปราบภูตผี พยายามอย่างเต็มที่เพื่อระงับ \"ร่างกายแห่งหยางบริสุทธิ์\" ของเขา",
+    "vi": "Phương sĩ trẻ tuổi xuất thân từ gia đình danh giá chuyên trừ tà, luôn cố gắng hết sức để khống chế \"thuần dương chi thể\" của bản thân."
+  },
+  "constellation": {
+    "zhs": "乾坤锋座",
+    "zht": "乾坤鋒座",
+    "jp": "乾坤鋒座",
+    "ko": "건곤봉자리",
+    "en": "Nubis Caesor",
+    "de": "Nubis Caesor",
+    "es": "Nubis Caesor",
+    "fr": "Nubis Caesor",
+    "pt": "Nubis Caesor",
+    "ru": "Тяжесть Небес",
+    "id": "Nubis Caesor",
+    "th": "Nubis Caesor",
+    "vi": "Càn Khôn Phong"
+  }
+}

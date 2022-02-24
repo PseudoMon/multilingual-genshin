@@ -1,0 +1,62 @@
+{
+  "name": {
+    "zhs": "刻晴",
+    "zht": "刻晴",
+    "jp": "刻晴",
+    "ko": "각청",
+    "en": "Keqing",
+    "de": "Keqing",
+    "es": "Keching",
+    "fr": "Keqing",
+    "pt": "Keqing",
+    "ru": "Кэ Цин",
+    "id": "Keqing",
+    "th": "Keqing",
+    "vi": "Keqing"
+  },
+  "title": {
+    "zhs": "霆霓快雨",
+    "zht": "霆霓快雨",
+    "jp": "疾雷快雨",
+    "ko": "질뢰쾌우",
+    "en": "Driving Thunder",
+    "de": "Donnerwetter",
+    "es": "La Conductora del Trueno",
+    "fr": "Ardeur du tonnerre",
+    "pt": "Trovão Condutor",
+    "ru": "Раскаты грома",
+    "id": "Driving Thunder",
+    "th": "ผู้บงการสายฟ้า",
+    "vi": "Sấm Chớp Trước Cơn Mưa"
+  },
+  "description": {
+    "zhs": "璃月七星之一，玉衡星。对「帝君一言而决的璃月」颇有微词——但实际上，神挺欣赏她这样的人。",
+    "zht": "璃月七星之一，玉衡星。對「帝君一言而決的璃月」頗有微詞——但實際上，神還滿欣賞她這樣的人。",
+    "jp": "「璃月七星」の一人、「玉衡」。「帝君の一言で決まる璃月」に不満を持っている——だが実のところ、神は彼女のような者を高く評価している。",
+    "ko": "리월 칠성 중 한 명인 옥형성. 「제군이 모든 걸 결정하는 리월」에 불만을 가지고 있다——그러나 사실 신은 이러한 그녀를 꽤 맘에 들어 한다.",
+    "en": "The Yuheng of the Liyue Qixing. Keqing has much to say about Rex Lapis's unilateral approach to policymaking in Liyue — but in truth, gods admire skeptics such as her quite a lot.",
+    "de": "Der Yuheng unter den Qixing von Liyue. Sie hat einiges zur Regentschaft von Rex Lapis, der sich nur selten zeigt, zu sagen. Man muss aber gestehen, dass Götter solche Menschen zu schätzen wissen.",
+    "es": "El Equilibrio Terrenal de las Siete Estrellas de Liyue. Tiene su opinión sobre el gobierno de Rex Lapis en Liyue, pero, en verdad, a los dioses les gustan bastante los escépticos como ella.",
+    "fr": "L'Alioth, l'une des Sept Étoiles de Liyue. L'Alioth critique à mots couverts l'idée que Liyue suive à la lettre la parole du Seigneur de la Roche, mais ce dernier apprécie justement ce genre de personnes.",
+    "pt": "A Yuheng dos Qixing de Liyue. Tem muito a dizer sobre o Rex Lapis governando Liyue com apenas uma palavra, mas na verdade, esse deus admira muito esses céticos.",
+    "ru": "Нефритовое Равновесие группировки Цисин в Ли Юэ. У неё есть что сказать против «Властелина Камня, правящего Ли Юэ лишь словом», но, оказывается, боги любят таких скептиков, как она.",
+    "id": "Yuheng dari Liyue Qixing, dia punya banyak hal yang ingin dikatakan mengenai Rex Lapis yang memerintah Liyue- dan pada kenyataannya, para Dewa mengagumi orang-orang sepertinya.",
+    "th": "Yuheng... หนึ่งใน Liyue Qixing มักจะมีคำบ่นเกี่ยวกับ \"คำตัดสินอันเด็ดขาดของราชาที่มีต่อ Liyue\" เสมอ... แต่ในความเป็นจริงแล้ว ท่านเทพนั้นค่อนข้างชื่นชม คนแบบเธอเลยทีเดียว",
+    "vi": "Ngọc Hành Tinh là một trong Thất Tinh Liyue, đối với việc \"Liyue hoàn toàn được quyết định bởi Đế Quân\" có chút không hài lòng... nhưng trên thực tế, Thần cũng rất coi trọng những người như cô."
+  },
+  "constellation": {
+    "zhs": "金紫定垂座",
+    "zht": "金紫定垂座",
+    "jp": "紫金錘重座",
+    "ko": "금자정수자리",
+    "en": "Trulla Cementarii",
+    "de": "Trulla Cementarii",
+    "es": "Trulla Cementarii",
+    "fr": "Trulla Cementarii",
+    "pt": "Trulla Cementarii",
+    "ru": "Громовой Стилет",
+    "id": "Trulla Cementarii",
+    "th": "Trulla Cementarii",
+    "vi": "Kim Tử Định Thùy"
+  }
+}

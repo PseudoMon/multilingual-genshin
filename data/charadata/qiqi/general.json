@@ -1,0 +1,62 @@
+{
+  "name": {
+    "zhs": "七七",
+    "zht": "七七",
+    "jp": "七七",
+    "ko": "치치",
+    "en": "Qiqi",
+    "de": "Qiqi",
+    "es": "Qiqi",
+    "fr": "Qiqi",
+    "pt": "Qiqi",
+    "ru": "Ци Ци",
+    "id": "Qiqi",
+    "th": "Qiqi",
+    "vi": "Qiqi"
+  },
+  "title": {
+    "zhs": "冻冻回魂夜",
+    "zht": "凍凍回魂夜",
+    "jp": "冷たき黄泉帰り",
+    "ko": "차가운 환혼의 밤",
+    "en": "Icy Resurrection",
+    "de": "Eisige Nacht der Wiedergänger",
+    "es": "La Resurrección del Hielo",
+    "fr": "Renaissance gelée",
+    "pt": "Ressurreição Gélida",
+    "ru": "Ледяное воскрешение",
+    "id": "Icy Resurrection",
+    "th": "ความหนาวเย็นคืนชีพ",
+    "vi": "Đêm Hồn Về Lạnh Giá"
+  },
+  "description": {
+    "zhs": "药庐「不卜庐」的采药姑娘兼学徒，面色苍白如纸的不死之人。话很少，也没有什么表情。",
+    "zht": "藥廬「不卜廬」的採藥姑娘兼學徒，面色蒼白如紙的不死之人。話很少，也沒有什麼表情。",
+    "jp": "薬舗「不卜廬」の薬採り兼弟子、紙のように白い顔色で不死身。口数が少なく、あまり表情がない。",
+    "ko": "약방 「불복려」의 약초꾼이자 제자. 안색이 종이처럼 창백하다. 말수가 적고 무표정하다",
+    "en": "An apprentice and herb gatherer at Bubu Pharmacy. An undead with a bone-white complexion, she seldom has much in the way of words or emotion.",
+    "de": "Schülerin in der Bubu-Hütte und Kräutersammlerin. Sie ist leichenblass und redet nur sehr wenig. Ihr Miene verzieht sie kein einziges Mal.",
+    "es": "Una aprendiz y recolectora de hierbas en la Farmacia Bubu. Una zombi con una tez blanca como el hueso, de pocas palabras y emociones.",
+    "fr": "Qiqi est une jeune apprentie du Cottage Bubu, en charge notamment de la récolte des herbes médicinales. C'est également un zombie au teint blafard et aux mots comptés.",
+    "pt": "Uma aprendiz e colhedora de ervas no Chalé de Bubu. Uma morta-viva com pele branca como osso, ela raramente tem muitas palavras ou emoções.",
+    "ru": "Ученица и сборщица трав из хижины Бубу. Зомби с бледным лицом, разговаривает или проявляет эмоции очень редко...",
+    "id": "Seorang murid di Bubu Pharmacy yang bertugas untuk memetik tanaman obat-obatan. Seorang zombie yang kulitnya teramat putih dan pucat, dia teramat pendiam, dan jarang menunjukkan ekspresi apa pun.",
+    "th": "คนเก็บสมุนไพรและเด็กฝึกงาน ของร้านยา Bubu Pharmacy มีใบหน้าที่ขาวซีดราวกับกระดาษ ไม่ค่อยพูดไม่ค่อยจา และก็ไม่ค่อยแสดงอารมณ์ด้วย",
+    "vi": "Một cô nương hái thuốc kiêm học đồ tại lò thuốc, sắc mặt trắng toát như cương thi. Rất ít nói chuyện, cũng không có biểu cảm gì."
+  },
+  "constellation": {
+    "zhs": "三清铃座",
+    "zht": "三清鈴座",
+    "jp": "法鈴座",
+    "ko": "삼청령자리",
+    "en": "Pristina Nola",
+    "de": "Pristina Nola",
+    "es": "Pristina Nola",
+    "fr": "Pristina Nola",
+    "pt": "Pristina Nola",
+    "ru": "Звон Колокольчика",
+    "id": "Pristina Nola",
+    "th": "Pristina Nola",
+    "vi": "Tam Thanh Linh"
+  }
+}

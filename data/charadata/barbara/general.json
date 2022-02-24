@@ -1,0 +1,62 @@
+{
+  "name": {
+    "zhs": "芭芭拉",
+    "zht": "芭芭拉",
+    "jp": "バーバラ",
+    "ko": "바바라",
+    "en": "Barbara",
+    "de": "Barbara",
+    "es": "Bárbara",
+    "fr": "Barbara",
+    "pt": "Barbara",
+    "ru": "Барбара",
+    "id": "Barbara",
+    "th": "Barbara",
+    "vi": "Barbara"
+  },
+  "title": {
+    "zhs": "闪耀偶像",
+    "zht": "閃耀偶像",
+    "jp": "キラキラアイドル",
+    "ko": "빛나는 아이돌",
+    "en": "Shining Idol",
+    "de": "Leuchtender Star",
+    "es": "La Ídolo Radiante",
+    "fr": "Star de la chanson",
+    "pt": "Ídolo Radiante",
+    "ru": "Сияющая звёздочка",
+    "id": "Shining Idol",
+    "th": "ดาราจรัสแสง",
+    "vi": "Thần Tượng Tỏa Sáng"
+  },
+  "description": {
+    "zhs": "蒙德城的大家都喜欢芭芭拉。「偶像」这个词是她从一本杂志里看到的。",
+    "zht": "蒙德城的大家都喜歡芭芭拉。「偶像」這個詞是她從一本雜誌裡看到的。",
+    "jp": "モンド城のみんなはバーバラが大好き。ちなみに「アイドル」という言葉は彼女が雑誌で見たものらしい。",
+    "ko": "몬드성의 모두가 바바라를 좋아한다. 「아이돌」은 그녀가 잡지에서 본 단어이다",
+    "en": "Every citizen of Mondstadt adores Barbara. She learned the word \"idol\" from a magazine.",
+    "de": "Jeder in Mondstadt findet Barbara toll. Was ein „Star“ ist, hat sie aber erst beim Blättern durch ein Magazin gelernt.",
+    "es": "Todos los habitantes de Mondstadt adoran a Bárbara. Ella vio por primera vez la palabra “ídolo” en una revista.",
+    "fr": "Barbara est adulée de tous à Mondstadt. Pourtant, c'est dans un magazine qu'elle a découvert le terme « idole ».",
+    "pt": "Todos os habitantes de Mondstadt adoram a Barbara. Contudo, ela viu a palavra \"ídolo\" pela primeira vez em uma revista.",
+    "ru": "Все жители Мондштадта боготворят Барбару, но слово «идол» она узнала из модного журнала.",
+    "id": "Setiap penduduk Mondstadt mendambakan Barbara. Tetapi kata \"idola\" yang melekat padanya, dia hanya melihatnya dari majalah.",
+    "th": "ชาวเมือง Mondstadt ทุกคนต่างก็เอ็นดู Barbara และเธอเองก็เรียนรู้คำว่า \"ไอดอล\" จากนิตยสารด้วย",
+    "vi": "Mọi người trong thành Mondstadt đều yêu quý Barbara. Từ \"Thần Tượng\" là do cô đọc được từ một cuốn tạp chí."
+  },
+  "constellation": {
+    "zhs": "金杯座",
+    "zht": "金杯座",
+    "jp": "金杯座",
+    "ko": "황금잔자리",
+    "en": "Crater",
+    "de": "Crater",
+    "es": "Cratus",
+    "fr": "Crater",
+    "pt": "Cratera",
+    "ru": "Золотой Кубок",
+    "id": "Crater",
+    "th": "Crater",
+    "vi": "Kim Bôi"
+  }
+}

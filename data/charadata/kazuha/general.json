@@ -1,0 +1,62 @@
+{
+  "name": {
+    "zhs": "枫原万叶",
+    "zht": "楓原萬葉",
+    "jp": "楓原万葉",
+    "ko": "카에데하라 카즈하",
+    "en": "Kaedehara Kazuha",
+    "de": "Kaedehara Kazuha",
+    "es": "Kaedehara Kazuha",
+    "fr": "Kaedehara Kazuha",
+    "pt": "Kaedehara Kazuha",
+    "ru": "Кадзуха",
+    "id": "Kaedehara Kazuha",
+    "th": "Kaedehara Kazuha",
+    "vi": "Kaedehara Kazuha"
+  },
+  "title": {
+    "zhs": "红叶逐荒波",
+    "zht": "紅葉逐荒波",
+    "jp": "風波流浪の紅葉",
+    "ko": "파도를 쫓는 단풍",
+    "en": "Scarlet Leaves Pursue Wild Waves",
+    "de": "Tiefrote Blätter jagen wilde Wellen",
+    "es": "El Mensajero del Viento",
+    "fr": "Tourbillon de feuilles écarlates",
+    "pt": "Folhas Escarlates Procuram Ondas Selvagens",
+    "ru": "Багряные листья и неистовые волны",
+    "id": "Scarlet Leaves Pursue Wild Waves",
+    "th": "ใบไม้แดงแห่งกระแสคลื่น",
+    "vi": "Lá Đỏ Đuổi Sóng"
+  },
+  "description": {
+    "zhs": "来自稻妻的浪人武士，如今栖身于璃月船队「南十字」中。性情温和而洒脱，心中埋藏着许多往事。",
+    "zht": "來自稻妻的浪人武士，如今棲身於璃月船隊「南十字」中。性情溫和而灑脫，心中埋藏著許多往事。",
+    "jp": "稲妻より訪れし浪人。今は璃月の「南十字」武装船隊と行動を共にしている。穏やかで浮世離れした性格、過去に経験した様々な出来事を心の内に秘めている。",
+    "ko": "이나즈마에서 온 떠돌이 무사. 현재 리월의 「남십자」 함대에 머물고 있다. 온화하고 소탈한 성격으로 마음속에 수많은 과거를 숨기고 있다",
+    "en": "A wandering samurai from Inazuma who is currently with Liyue's Crux Fleet. A gentle and carefree soul whose heart hides a great many burdens from the past.",
+    "de": "Ein wandernder Samurai aus Inazuma, der momentan mit der Crux von Liyue unterwegs ist. Eine sanfte und sorglose Seele, deren Herz schwer wiegt, von vielen großen Bürden aus der Vergangenheit.",
+    "es": "Un samurái errante de Inazuma que actualmente se hospeda en la Flota Crux Meridianam de Liyue. El corazón de este amable y libre joven encierra sus muchas cargas del pasado.",
+    "fr": "Un samouraï errant d'Inazuma qui fait actuellement partie de la Flotte du Crux. Une âme douce et insouciante dont le cœur cache de nombreuses blessures.",
+    "pt": "Um samurai errante de Inazuma que atualmente está com a Frota Crux de Liyue. Uma alma gentil e livre cujo coração esconde muitas feridas.",
+    "ru": "Ронин-самурай из Инадзумы, который нашёл приют на флоте Южного креста в Ли Юэ. Этот добрый и беззаботный молодой человек многое пережил в прошлом.",
+    "id": "Seorang samurai pengembara dari Inazuma yang saat ini bergabung bersama dengan armada Crux Fleet Liyue. Di dalam jiwanya yang lembut dan riang, terdapat hati yang menyembunyikan banyak beban.",
+    "th": "ซามูไรพเนจรของ Inazuma ตอนนี้อาศัยอยู่ในกองเรือ Crux ของ Liyue นิสัยอ่อนโยนและรักอิสระ มีเหตุการณ์ในอดีตมากมายฝังอยู่ในใจของเขา",
+    "vi": "Ronin Samurai đến từ Inazuma, nay đã gia nhập đội thuyền \"Nam Thập Tự\" Liyue. Tính tình ôn hòa, hào sảng, trong lòng chất chứa nhiều chuyện xưa."
+  },
+  "constellation": {
+    "zhs": "枫红座",
+    "zht": "楓紅座",
+    "jp": "紅葉座",
+    "ko": "붉은 단풍자리",
+    "en": "Acer Palmatum",
+    "de": "Acer Palmatum",
+    "es": "Acer Palmatum",
+    "fr": "Acer Palmatum",
+    "pt": "Acer Palmatum",
+    "ru": "Рыжий Клён",
+    "id": "Acer Palmatum",
+    "th": "Acer Palmatum",
+    "vi": "Cung Phong Đỏ"
+  }
+}

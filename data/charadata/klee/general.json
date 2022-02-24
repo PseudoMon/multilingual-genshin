@@ -1,0 +1,62 @@
+{
+  "name": {
+    "zhs": "可莉",
+    "zht": "可莉",
+    "jp": "クレー",
+    "ko": "클레",
+    "en": "Klee",
+    "de": "Klee",
+    "es": "Klee",
+    "fr": "Klee",
+    "pt": "Klee",
+    "ru": "Кли",
+    "id": "Klee",
+    "th": "Klee",
+    "vi": "Klee"
+  },
+  "title": {
+    "zhs": "逃跑的太阳",
+    "zht": "逃跑的太陽",
+    "jp": "逃げ回る太陽",
+    "ko": "도망치는 태양",
+    "en": "Fleeing Sunlight",
+    "de": "Fliehende Sonne",
+    "es": "El Sol Fugitivo",
+    "fr": "Soleil fuyant",
+    "pt": "Sol Fugitivo",
+    "ru": "Ускользающее солнце",
+    "id": "Fleeing Sunlight",
+    "th": "ดวงอาทิตย์ที่หลบหนี",
+    "vi": "Mặt Trời Chạy Trốn"
+  },
+  "description": {
+    "zhs": "西风骑士团禁闭室的常客，蒙德的爆破大师。人称「逃跑的太阳」。",
+    "zht": "西風騎士團禁閉室的常客，蒙德的爆破大師。人稱「逃跑的太陽」。",
+    "jp": "西風騎士団反省室の常連、モンドの爆破スペシャリスト。人呼んで「逃げ回る太陽」。",
+    "ko": "페보니우스 기사단 감금실의 단골손님이자 몬드의 폭파 마스터. 「도망치는 태양」이라고 불린다",
+    "en": "An explosives expert and a regular at the Knights of Favonius's confinement room. Also known as Fleeing Sunlight.",
+    "de": "Ein häufiger Gast der Arrestzelle des Ordo Favonius und ein wahrer Meister der Zerstörung. Man nennt sie auch die „Fliehende Sonne“.",
+    "es": "Una visitante frecuente de los calabozos de los Caballeros de Favonius, la maestra de explosiones de Mondstadt. La llaman “el Sol Fugitivo”.",
+    "fr": "#Une invitée régulière des cellules de l'Ordre de Favonius, et également la maîtresse des explosions à Mondstadt, où on la surnomme « le soleil fuyant{NON_BREAK_SPACE}».",
+    "pt": "Uma visitante frequente da sala de confinamento dos Cavaleiros de Favonius, também conhecida como \"Sol Fugitivo\".",
+    "ru": "Эксперт по взрывчатке и частый гость темницы Ордо Фавониус. Также известна как «Ускользающее солнце».",
+    "id": "Seorang ahli peledak yang sudah menjadi langganan di ruang tahanan Knights of Favonius. Juga dikenal dengan nama Fleeing Sunlight.",
+    "th": "แขกประจำห้องขังของกองอัศวินแห่ง Favonius ผู้เชี่ยวชาญด้านการระเบิดแห่ง Mondstadt ผู้คนเรียกเธอว่า \"ดวงอาทิตย์ที่หลบหนี\"",
+    "vi": "Khách quen của phòng giam Đội Kỵ Sĩ Tây Phong, bậc thầy thuốc nổ tại Mondstadt. Mọi người gọi là \"Mặt Trời Chạy Trốn\"."
+  },
+  "constellation": {
+    "zhs": "四叶草座",
+    "zht": "四葉草座",
+    "jp": "四つ葉座",
+    "ko": "네잎클로버자리",
+    "en": "Trifolium",
+    "de": "Trifolium",
+    "es": "Trifolium",
+    "fr": "Trifolium",
+    "pt": "Trifolium",
+    "ru": "Четырёхлистный Клевер",
+    "id": "Trifolium",
+    "th": "Trifolium",
+    "vi": "Tứ Diệp Thảo"
+  }
+}

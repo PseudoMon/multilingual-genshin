@@ -1,0 +1,62 @@
+{
+  "name": {
+    "zhs": "甘雨",
+    "zht": "甘雨",
+    "jp": "甘雨",
+    "ko": "감우",
+    "en": "Ganyu",
+    "de": "Ganyu",
+    "es": "Ganyu",
+    "fr": "Ganyu",
+    "pt": "Ganyu",
+    "ru": "Гань Юй",
+    "id": "Ganyu",
+    "th": "Ganyu",
+    "vi": "Ganyu"
+  },
+  "title": {
+    "zhs": "循循守月",
+    "zht": "循循守月",
+    "jp": "循々守月",
+    "ko": "리월의 수호자",
+    "en": "Plenilune Gaze",
+    "de": "Mondhüter",
+    "es": "La Vigía del Plenilunio",
+    "fr": "Défense fervente",
+    "pt": "Defensora Devota",
+    "ru": "Взгляд полнолуния",
+    "id": "Plenilune Gaze",
+    "th": "ผู้พิทักษ์แห่งจันทรา",
+    "vi": "Người Bảo Vệ Tận Tâm"
+  },
+  "description": {
+    "zhs": "月海亭的秘书，体内流淌着仙兽「麒麟」的血脉。",
+    "zht": "月海亭的秘書，體內流淌著仙獸「麒麟」的血脈。",
+    "jp": "月海亭の秘書、その身には仙獣「麒麟」の血が流れている。",
+    "ko": "월해정의 비서. 몸 안에 신수 「기린」의 피가 흐르고 있다",
+    "en": "The secretary at Yuehai Pavilion. The blood of the qilin, an illuminated beast, flows within her veins.",
+    "de": "Eine Sekretärin im Yuehai-Pavillon, in deren Adern das Blut eines Qilins, einer göttlichen Bestie, fließt.",
+    "es": "La secretaria del Pabellón Yuehai. La sangre de bestia iluminada Chilin fluye por sus venas.",
+    "fr": "Secrétaire du Pavillon Yuehai ; du sang de Qilin, la créature mythique, coule dans ses veines.",
+    "pt": "Secretária do Pavilhão Yuehai. O sangue da besta iluminada Qilin flui nas suas veias.",
+    "ru": "Главный секретарь павильона Лунного моря. В её жилах течёт кровь мифического зверя цилиня.",
+    "id": "Seorang sekretaris di Yuehai Pavilion. Darah hewan pusaka Qilin mengalir di dalam tubuhnya.",
+    "th": "เลขาของ Yuehai Pavilion มีเลือดของสัตว์เวท \"กิเลน\" ไหลเวียนอยู่ในร่างกาย",
+    "vi": "Thư ký tại Nguyệt Hải Đình, trong người chứa huyết mạch của tiên thú Kỳ Lân"
+  },
+  "constellation": {
+    "zhs": "仙麟座",
+    "zht": "仙麟座",
+    "jp": "仙麟座",
+    "ko": "선린자리",
+    "en": "Sinae Unicornis",
+    "de": "Sinae Unicornis",
+    "es": "Sinae Unicornis",
+    "fr": "Sinae Unicornis",
+    "pt": "Sinae Unicornis",
+    "ru": "Священная Лань",
+    "id": "Sinae Unicornis",
+    "th": "Sinae Unicornis",
+    "vi": "Cung Tiên Lân"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "name": {
+    "zhs": "凝光",
+    "zht": "凝光",
+    "jp": "凝光",
+    "ko": "응광",
+    "en": "Ningguang",
+    "de": "Ningguang",
+    "es": "Ninguang",
+    "fr": "Ningguang",
+    "pt": "Ningguang",
+    "ru": "Нин Гуан",
+    "id": "Ningguang",
+    "th": "Ningguang",
+    "vi": "Ningguang"
+  },
+  "title": {
+    "zhs": "掩月天权",
+    "zht": "掩月天權",
+    "jp": "月を覆う天権",
+    "ko": "엄월천권",
+    "en": "Eclipsing Star",
+    "de": "Verdeckter Mond",
+    "es": "La Estrella en Eclipse",
+    "fr": "Megrez de l'éclipse",
+    "pt": "Tianquan em Eclipse",
+    "ru": "Лунное затмение",
+    "id": "Eclipsing Star",
+    "th": "Tianquan ผู้บดบังดวงเดือน",
+    "vi": "Yểm Nguyệt Thiên Quyền"
+  },
+  "description": {
+    "zhs": "「璃月七星」中的「天权」，其名下财富之多，全大陆鲜有人能望其项背。",
+    "zht": "「璃月七星」中的「天權」，其名下財富之多，全大陸鮮有人能望其項背。",
+    "jp": "「璃月七星」の一人、「天権」。富の多さで有名であり、全大陸で彼女に匹敵する者はまずいない。",
+    "ko": "「리월 칠성」 중 「천권」, 엄청난 부자로 대륙 전체에서 그녀보다 부유한 사람은 찾기 어렵다",
+    "en": "The Tianquan of the Liyue Qixing. Her wealth is unsurpassed in all of Teyvat.",
+    "de": "Der „Tianquan“ unter den „Qixing von Liyue“. Ihr Reichtum ist enorm und bleibt unangefochten der größte im ganzen Land.",
+    "es": "Ninguang, conocida como el “Equilibrio Celestial”, es miembro de las “Siete Estrellas de Liyue”. Su riqueza es insuperable en todo Teyvat.",
+    "fr": "La Megrez des Sept Étoiles de Liyue. Peu de personnes peuvent se vanter d'être aussi riches à travers Teyvat.",
+    "pt": "\"Tianquan\" dos \"Qixing de Liyue\". Sua fortuna é insuperável em todo Teyvat.",
+    "ru": "Воля Небес группировки Цисин. Её богатство несравнимо ни с кем на континенте Тейват.",
+    "id": "Seorang \"Tianquan\" dari \"Liyue Qixing\", kekayaannya tidak tertandingi di seluruh Teyvat.",
+    "th": "Tianquan แห่ง Liyue Qixing ความมั่งคั่งของเธอนั้น ไม่มีผู้ใดเทียบได้ใน Teyvat",
+    "vi": "\"Thiên Quyền\" trong Thất Tinh Liyue, giàu có nổi tiếng, khắp đại lục khó ai sánh bằng."
+  },
+  "constellation": {
+    "zhs": "玑衡仪座",
+    "zht": "璣衡儀座",
+    "jp": "璣衡儀座",
+    "ko": "기형의자리",
+    "en": "Opus Aequilibrium",
+    "de": "Opus Aequilibri",
+    "es": "Opus Aequilibrium",
+    "fr": "Opus Aequilibrium",
+    "pt": "Opus Aequilibrium",
+    "ru": "Небесная Сфера",
+    "id": "Opus Aequilibrium",
+    "th": "Opus Aequilibrium",
+    "vi": "Cơ Hoành Nghi"
+  }
+}

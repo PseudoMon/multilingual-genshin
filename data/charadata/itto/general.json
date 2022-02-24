@@ -1,0 +1,62 @@
+{
+  "name": {
+    "zhs": "荒泷一斗",
+    "zht": "荒瀧一斗",
+    "jp": "荒瀧一斗",
+    "ko": "아라타키 이토",
+    "en": "Arataki Itto",
+    "de": "Arataki Itto",
+    "es": "Arataki Itto",
+    "fr": "Arataki Itto",
+    "pt": "Arataki Itto",
+    "ru": "Итто",
+    "id": "Arataki Itto",
+    "th": "Arataki Itto",
+    "vi": "Arataki Itto"
+  },
+  "title": {
+    "zhs": "花坂豪快",
+    "zht": "花坂豪快",
+    "jp": "花坂豪快",
+    "ko": "하나미자카 쾌걸",
+    "en": "Hanamizaka Heroics",
+    "de": "Held von Hanamizaka",
+    "es": "El Héroe de Hanamizaka",
+    "fr": "Héros de Hanamizaka",
+    "pt": "Heroísmo de Hanamizaka",
+    "ru": "Герой Ханамидзаки",
+    "id": "Hanamizaka Heroics",
+    "th": "ขาใหญ่ประจำ Hanamizaka",
+    "vi": "Quái Kiệt Hanamizaka"
+  },
+  "description": {
+    "zhs": "活跃在稻妻城花见坂的「荒泷派」初代目头领。什么，从没听说过荒泷派？你是想找茬吗？",
+    "zht": "活躍在稻妻城花見坂的「荒瀧派」初代目頭領。什麼，從沒聽說過荒瀧派？你是想找碴嗎？",
+    "jp": "稲妻城の花見坂で活動する「荒瀧派」の初代親分。なにっ！？荒瀧派なんて聞いたこともないだと？喧嘩売ってんのか、コラァ！？",
+    "ko": "이나즈마성 하나미자카에서 활동하는 「아라타키파」의 초대 두목이다. 뭐라고, 아라타키파를 처음 들어본다고? 시비 거는 거냐?",
+    "en": "The first and greatest head of the Arataki Gang, famed throughout Inazuma City's Hanamizaka... Wait, what? You've never heard of them? Are you trying to be funny here?",
+    "de": "Der erste und größte Anführer der Arataki-Bande, berühmt in ganz Hanamizaka im Gebiet von Inazuma ... Wie bitte? Du hast noch nie von der Arataki-Bande gehört? Ernsthaft?",
+    "es": "El primer gran líder de la Banda de Arataki, muy activo en la zona de Hanamizaka de la Ciudad de Inazuma. ¿Nunca habías oído hablar de la Banda de Arataki? ¿En serio?",
+    "fr": "Le premier et plus grand chef du gang Arataki, célèbre dans tout Hanamizaka, à la Cité d'Inazuma... Hein, quoi ? Jamais entendu parler d'eux ? Sérieux ?",
+    "pt": "O primeiro e maior chefe da Gangue Arataki, famosa em Hanamizaka, na cidade de Inazuma... Espere, o quê? Nunca ouviu falar deles? Sério?",
+    "ru": "Первый и величайший предводитель банды Аратаки, прославленной по всей Ханамидзаке города Инадзумы. Что, вы никогда о ней не слышали? Нарываетесь?",
+    "id": "Ketua Geng Arataki yang Pertama dan yang Terhebat, dan terkenal di Hanamizaka, Kota Inazuma ... Apa katamu? Belum pernah dengar? Mau cari ribut ya?",
+    "th": "ผู้นำรุ่นแรกของแก๊ง Arataki ผู้โด่งดังไปทั่วทั้ง Hanamizaka แห่ง Inazuma... หืม ว่ายังไงนะ? ไม่เคยได้ยินชื่อแก๊ง Arataki? อยากมีเรื่องรึไง?",
+    "vi": "Thủ lĩnh đời đầu của \"Bang Arataki\" địa bàn Hanamizaka. Sao, chưa nghe qua Bang Arataki à, đùa ta sao?"
+  },
+  "constellation": {
+    "zhs": "天牛座",
+    "zht": "天牛座",
+    "jp": "天ノ牛座",
+    "ko": "하늘소자리",
+    "en": "Taurus Iracundus",
+    "de": "Taurus Iracundus",
+    "es": "Taurus Iracundus",
+    "fr": "Taurus Iracundus",
+    "pt": "Taurus Iracundus",
+    "ru": "Небесный Бык",
+    "id": "Taurus Iracundus",
+    "th": "Taurus Iracundus",
+    "vi": "Cung Thiên Ngưu"
+  }
+}
