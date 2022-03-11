@@ -1,4 +1,4 @@
-import { useLoaderData, Outlet } from 'remix'
+import { useLoaderData, Outlet, NavLink } from 'remix'
 import { useState } from 'react'
 import LangPicker from '~/components/lang-picker'
 import charaPageStyles from '~/styles/charapage.css'
@@ -21,6 +21,7 @@ export default function CharacterPage() {
   return (
     <article className="character-main">
       <section className="sidebar">
+
         <div className="character-profile">
           <img src={`/images/characard/${ charaId }.png`} />
           <h1 className="character-name">
@@ -32,6 +33,15 @@ export default function CharacterPage() {
           <p className="character-description">
             { charaData['description'][activeLang] }
           </p>
+        </div>
+
+         <div className="page-nav">
+          <NavLink to="voices">
+            <button className="page-button">Voice Overs</button>
+          </NavLink>
+          <NavLink to="stories">
+            <button className="page-button">Story</button>
+          </NavLink>
         </div>
       </section>
 

@@ -54,3 +54,11 @@ export async function getCharaVoiceLines(charaId) {
   
   return JSON.parse(file)
 }
+
+export async function getCharaStories(charaId) {
+  const file = await getJsonFile(
+    path.join(dataPath, "charadata", charaId, "stories.json")
+  )
+  
+  return JSON.parse(file)
+}

@@ -8,6 +8,7 @@ import {
 } from "remix";
 
 import SiteHeader from '~/components/site-header'
+import SiteFooter from '~/components/site-footer'
 
 import normalizeStyles from '~/styles/normalize.css'
 import baseStyles from '~/styles/base.css' 
@@ -47,6 +48,7 @@ export default function App() {
       <body>
         <SiteHeader />
         <Outlet />
+        <SiteFooter />
         <ScrollRestoration />
         <Scripts />
         {process.env.NODE_ENV === "development" && <LiveReload />}

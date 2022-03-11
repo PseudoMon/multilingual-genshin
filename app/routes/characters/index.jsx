@@ -28,8 +28,13 @@ export default function CharacterListPage() {
 
     return (
         <div>
-            <h1>Characters</h1>
-            <input placeholder="Search..." onChange={ searchName } />
+            <header class="character-list-header">
+                <h1>Characters</h1>
+                <input 
+                    class="chara-search-bar" 
+                    placeholder="Search..." onChange={ searchName } 
+                />
+            </header>
             <ul className="character-list">
                 { shownData.map(chara => 
                     <li key={ chara["id"] }>
