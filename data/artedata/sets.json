@@ -1,0 +1,2130 @@
+[
+  {
+    "SetId": 10001,
+    "ContainsList": [
+      51140,
+      51120,
+      51150,
+      51110,
+      51130
+    ],
+    "name": {
+      "zhs": "行者之心",
+      "zht": "行者之心",
+      "jp": "旅人の心",
+      "ko": "행자의 마음",
+      "en": "Resolution of Sojourner",
+      "de": "Fernweh",
+      "es": "Corazón del Viajero",
+      "fr": "Cœur du Voyageur",
+      "pt": "Resolução de Sojourner",
+      "ru": "Решимость временщика",
+      "id": "Resolution of Sojourner",
+      "th": "Resolution of Sojourner",
+      "vi": "Trái Tim Hành Giả"
+    },
+    "descriptions": [
+      {
+        "zhs": "攻击力提高18%。",
+        "zht": "攻擊力提高18%。",
+        "jp": "攻撃力+18%。",
+        "ko": "공격력+18%",
+        "en": "ATK +18%.",
+        "de": "Erhöht den ANG um 18 %.",
+        "es": "ATQ +18%.",
+        "fr": "Augmente l'ATQ de 18 %.",
+        "pt": "ATQ +18%.",
+        "ru": "Увеличивает силу атаки на 18%.",
+        "id": "ATK +18%.",
+        "th": "เพิ่มพลังโจมตี 18%",
+        "vi": "Tấn công tăng 18%"
+      },
+      {
+        "zhs": "重击的暴击率提升30%。",
+        "zht": "重擊的暴擊率提升30%。",
+        "jp": "重撃の会心率+30%。",
+        "ko": "강공격의 치명타 확률+30%",
+        "en": "Increases Charged Attack CRIT Rate by 30%.",
+        "de": "Erhöht die KT heftiger Schläge um 30 %.",
+        "es": "La Prob. CRIT de los Ataques Cargados aumenta en un 30%.",
+        "fr": "Augmente le taux CRIT des attaques chargées de 30 %.",
+        "pt": "Aumenta a Taxa Crítica do Ataque Carregado em 30%.",
+        "ru": "Увеличивает шанс крит. попадания заряженной атаки на 30%.",
+        "id": "Meningkatkan 30% CRIT Rate dari Charged Attack.",
+        "th": "เพิ่มอัตราคริของ การชาร์จโจมตีขึ้น 30%",
+        "vi": "Tỷ lệ bạo kích của trọng kích tăng 30%"
+      }
+    ]
+  },
+  {
+    "SetId": 10002,
+    "ContainsList": [
+      86330,
+      52120,
+      52150,
+      52110,
+      52130
+    ],
+    "name": {
+      "zhs": "勇士之心",
+      "zht": "勇士之心",
+      "jp": "勇士の心",
+      "ko": "용사의 마음",
+      "en": "Brave Heart",
+      "de": "Wagemut",
+      "es": "Corazón del Guerrero",
+      "fr": "Cœur du Brave",
+      "pt": "Coração Valente",
+      "ru": "Душа храбреца",
+      "id": "Brave Heart",
+      "th": "Brave Heart",
+      "vi": "Trái Tim Dũng Sĩ"
+    },
+    "descriptions": [
+      {
+        "zhs": "攻击力提高18%。",
+        "zht": "攻擊力提高18%。",
+        "jp": "攻撃力+18%。",
+        "ko": "공격력+18%",
+        "en": "ATK +18%.",
+        "de": "Erhöht den ANG um 18 %.",
+        "es": "ATQ +18%.",
+        "fr": "Augmente l'ATQ de 18 %.",
+        "pt": "ATQ +18%.",
+        "ru": "Увеличивает силу атаки на 18%.",
+        "id": "ATK +18%.",
+        "th": "เพิ่มพลังโจมตี 18%",
+        "vi": "Tấn công tăng 18%"
+      },
+      {
+        "zhs": "对生命值高于50%的敌人，造成的伤害增加30%。",
+        "zht": "對生命值高於50%的敵人，造成的傷害增加30%。",
+        "jp": "HPが50%以上の敵に対するダメージ+30%。",
+        "ko": "HP가 50%를 초과하는 적에게 가하는 피해가 30% 증가한다",
+        "en": "Increases DMG by 30% against opponents with more than 50% HP.",
+        "de": "Erhöht den Gegnern mit mehr als 50 % LP zugefügten Schaden um 30 %.",
+        "es": "Aumenta el daño en un 30% contra enemigos con más del 50% de Vida.",
+        "fr": "Augmente les DGT infligés aux ennemis dont les PV sont supérieurs à 50 % de 30 %.",
+        "pt": "Aumenta o Dano em 30% contra os inimigos com mais de 50% de Vida.",
+        "ru": "Увеличивает на 30% урон против врагов с HP выше 50%.",
+        "id": "Meningkatkan 30% DMG terhadap musuh dengan HP lebih dari 50%.",
+        "th": "สร้างโบนัสความเสียหาย 30% แก่ศัตรูที่มี พลังชีวิตสูงกว่า 50%",
+        "vi": "Kẻ địch có HP cao hơn 50%, sát thương gây ra tăng 30%."
+      }
+    ]
+  },
+  {
+    "SetId": 10003,
+    "ContainsList": [
+      53140,
+      53120,
+      53150,
+      53110,
+      53130
+    ],
+    "name": {
+      "zhs": "守护之心",
+      "zht": "守護之心",
+      "jp": "守護の心",
+      "ko": "수호자의 마음",
+      "en": "Defender's Will",
+      "de": "Beschützerinstinkt",
+      "es": "Corazón del Guardián",
+      "fr": "Cœur du Gardien",
+      "pt": "Guardião",
+      "ru": "Воля защитника",
+      "id": "Defender's Will",
+      "th": "Defender's Will",
+      "vi": "Trái Tim Thủ Hộ"
+    },
+    "descriptions": [
+      {
+        "zhs": "防御力提高30%。",
+        "zht": "防禦力提高30%。",
+        "jp": "防御力+30%。",
+        "ko": "방어력+30%",
+        "en": "DEF +30%",
+        "de": "Erhöht die VTD um 30 %.",
+        "es": "DEF +30%.",
+        "fr": "Augmente la DÉF de 30 %.",
+        "pt": "DEF +30%",
+        "ru": "Увеличивает защиту на 30%.",
+        "id": "DEF +30%.",
+        "th": "เพิ่มพลังป้องกัน 30%",
+        "vi": "Phòng ngự tăng 30%."
+      },
+      {
+        "zhs": "队伍里每有不同一种元素类型的自己的角色，自身获得30%相应的元素抗性。",
+        "zht": "隊伍裡自己的角色每有不同一種的元素類型，自身獲得30%相應的元素抗性。",
+        "jp": "チーム内の自身のキャラクターの元素タイプ1種類につき、自身にその元素の耐性+30%。",
+        "ko": "파티 내에 다른 원소 타입의 자신의 캐릭터가 1명 존재할 때마다 자신은 대응하는 원소의 내성을 30% 획득한다",
+        "en": "For each different element present in your own party, the wearer's Elemental RES to that corresponding element is increased by 30%.",
+        "de": "Erhöht für jedes unterschiedliche Element der eigenen Figuren in der Truppe den eigenen WDS des jeweiligen Elements um 30 %.",
+        "es": "Por cada miembro de tu equipo con un tipo elemental distinto, La RES Elemental del personaje que lleve este conjunto aumenta en un 30% contra dicho elemento.",
+        "fr": "Pour chaque personnage de l'équipe ayant un élément de type différent du personnage équipé, la RÉS élémentaire correspondante est augmentée de 30 %.",
+        "pt": "Aumenta a própria RES do respectivo elemento em 30% para cada elemento diferente dos seus personagens da equipe.",
+        "ru": "За каждого члена вашего отряда с неповторяющимся элементом повышает сопротивление к соответствующему элементу на 30%.",
+        "id": "Meningkatkan 30% Elemental RES diri sendiri untuk setiap jenis elemen karakter di dalam party.",
+        "th": "เพิ่มความต้านทานธาตุของแต่ละธาตุที่แตกต่างกันของตัวละครของคุณในทีม ธาตุละ 30% ให้กับผู้ใช้อาร์ติแฟกต์เซ็ตนี้",
+        "vi": "Cứ mỗi nhân vật của bản thân có 1 nguyên tố khác trong đội thì bản thân sẽ được nhận 30% kháng Nguyên Tố tương ứng."
+      }
+    ]
+  },
+  {
+    "SetId": 10004,
+    "ContainsList": [
+      54140,
+      54120,
+      54150,
+      54110,
+      54130
+    ],
+    "name": {
+      "zhs": "奇迹",
+      "zht": "奇蹟",
+      "jp": "奇跡",
+      "ko": "기적",
+      "en": "Tiny Miracle",
+      "de": "Wunder",
+      "es": "Milagro",
+      "fr": "Miracle",
+      "pt": "Pequeno Milagre",
+      "ru": "Маленькое чудо",
+      "id": "Tiny Miracle",
+      "th": "Tiny Miracle",
+      "vi": "Kỳ Tích"
+    },
+    "descriptions": [
+      {
+        "zhs": "所有元素抗性提高20%。",
+        "zht": "所有元素抗性提高20%。",
+        "jp": "全ての元素耐性+20%。",
+        "ko": "모든 원소 내성+20%",
+        "en": "All Elemental RES increased by 20%.",
+        "de": "Erhöht den WDS gegen alle Elemente um 20 %.",
+        "es": "+20% en todas las RES Elementales.",
+        "fr": "Augmente toutes les RÉS élémentaires de 20 %.",
+        "pt": "RES de todos os Elementos +20%.",
+        "ru": "Увеличивает сопротивление ко всем элементам на 20%.",
+        "id": "Elemental RES +20%.",
+        "th": "เพิ่มความต้านทานธาตุทั้งหมดขึ้น 20%",
+        "vi": "Tất cả kháng Nguyên Tố tăng 20%."
+      },
+      {
+        "zhs": "受到某个元素类型的伤害后，相应的抗性提升30%，持续10秒。该效果每10秒只能触发一次。",
+        "zht": "受到某個元素類型的傷害後，相應的元素抗性提升30%，持續10秒。該效果每10秒只能觸發一次。",
+        "jp": "元素ダメージを受けると、その元素の耐性+30%、継続時間10秒。10秒毎に1回のみ発動可能。",
+        "ko": "받은 원소 공격에 대응하는 원소의 내성이 30% 증가한다. 지속 시간: 10초. 해당 효과는 10초마다 1번 발동한다",
+        "en": "Incoming elemental DMG increases corresponding Elemental RES by 30% for 10s. Can only occur once every 10s.",
+        "de": "Erhöht den jeweiligen WDS nach Erleiden von Elementar-SCH 10 s lang um 30 %. 10 s Abklingzeit.",
+        "es": "El Daño Elemental recibido aumenta la RES Elemental correspondiente en un 30% durante 10 s. Solo puede ocurrir una vez cada 10 s.",
+        "fr": "Les DÉG élémentaires subis augmentent la RÉS à l'élément correspondant de 30 % pendant 10 s. Cet effet peut être déclenché une fois toutes les 10 s.",
+        "pt": "O Dano elemental recebido aumenta a RES Elemental correspondente em 30% por 10s. Pode ser lançado uma vez a cada 10s.",
+        "ru": "Получаемый элементальный урон повышает сопротивление к соответствующему элементу на 30% в течение 10 сек. Может возникнуть раз в 10 сек.",
+        "id": "Saat menerima DMG elemen tertentu, meningkatkan 30% Elemental RES terhadap elemen tersebut selama 10 detik. Dapat terpicu setiap 10 detik.",
+        "th": "หลังจากได้รับความเสียหายธาตุ ใด ๆ แล้ว ความต้านทานธาตุที่เกี่ยวข้อง จะเพิ่มขึ้น 30% เป็นเวลา 10 วิ ซึ่งเอฟเฟกต์นี้จะเกิดขึ้นหนึ่งครั้งในทุก 10 วิ",
+        "vi": "Sau khi nhận sát thương Nguyên Tố, kháng tương ứng tăng 30%, kéo dài 10s. Mỗi 10s chỉ thi triển 1 lần."
+      }
+    ]
+  },
+  {
+    "SetId": 10005,
+    "ContainsList": [
+      55140,
+      55120,
+      55150,
+      55110,
+      55130
+    ],
+    "name": {
+      "zhs": "战狂",
+      "zht": "戰狂",
+      "jp": "狂戦士",
+      "ko": "전쟁광",
+      "en": "Berserker",
+      "de": "Berserker",
+      "es": "Berserker",
+      "fr": "Berserker",
+      "pt": "Berserker",
+      "ru": "Берсерк",
+      "id": "Berserker",
+      "th": "Berserker",
+      "vi": "Cuồng Chiến"
+    },
+    "descriptions": [
+      {
+        "zhs": "暴击率提高12%。",
+        "zht": "暴擊率提高12%。",
+        "jp": "会心率+12%。",
+        "ko": "치명타 확률+12%",
+        "en": "CRIT Rate +12%",
+        "de": "Erhöht die KT um 12 %.",
+        "es": "Prob. CRIT +12%.",
+        "fr": "Augmente le taux CRIT de 12 %.",
+        "pt": "Taxa Crítica +12%",
+        "ru": "Увеличивает шанс крит. попадания на 12%.",
+        "id": "CRIT Rate +12%.",
+        "th": "เพิ่มอัตราคริขึ้น 12%",
+        "vi": "Tỷ lệ bạo kích tăng 12%."
+      },
+      {
+        "zhs": "生命值低于70%时，暴击率额外提升24%。",
+        "zht": "生命值低於70%時，暴擊率額外提升24%。",
+        "jp": "HPが70%以下になると、会心率+24%。",
+        "ko": "HP 70% 미만 시 치명타 확률이 추가로 24% 증가한다",
+        "en": "When HP is below 70%, CRIT Rate increases by an additional 24%.",
+        "de": "Erhöht die KT bei weniger als 70 % LP zusätzlich um 24 %.",
+        "es": "Cuando la Vida es inferior al 70%, aumenta la Prob. CRIT en un 24%.",
+        "fr": "Augmente le taux CRIT de 24 % lorsque les PV sont inférieurs à 70 %.",
+        "pt": "Quando a Vida estiver abaixo de 70%, a Taxa Crítica aumenta 24%.",
+        "ru": "Увеличивает шанс крит. попадания на 24% при HP ниже 70%.",
+        "id": "Saat HP kurang dari 70%, CRIT Rate meningkat 24%.",
+        "th": "เมื่อพลังชีวิตต่ำกว่า 70% โอกาสการเกิดอัตราคริ จะเพิ่มขึ้นอีก 24%",
+        "vi": "Khi HP dưới 70%, tỷ lệ bạo kích tăng thêm 24%."
+      }
+    ]
+  },
+  {
+    "SetId": 10006,
+    "ContainsList": [
+      56140,
+      56120,
+      56150,
+      56110,
+      56130
+    ],
+    "name": {
+      "zhs": "武人",
+      "zht": "武人",
+      "jp": "武人",
+      "ko": "무인",
+      "en": "Martial Artist",
+      "de": "Kampfkünstler",
+      "es": "Artista Marcial",
+      "fr": "Artiste martial",
+      "pt": "Artista Marcial",
+      "ru": "Воин",
+      "id": "Martial Artist",
+      "th": "Martial Artist",
+      "vi": "Võ Nhân"
+    },
+    "descriptions": [
+      {
+        "zhs": "普通攻击与重击造成的伤害提高15%；",
+        "zht": "普通攻擊與重擊造成的傷害提高15%；",
+        "jp": "通常攻撃と重撃のダメージ+15%。",
+        "ko": "일반 공격과 강공격으로 주는 피해가 15% 증가한다",
+        "en": "Increases Normal Attack and Charged Attack DMG by 15%.",
+        "de": "Erhöht den mit Standardangriffen und heftigen Schlägen verursachten Schaden um 15 %.",
+        "es": "Daño de Ataque Normal y Ataque Cargado +15%.",
+        "fr": "Augmente les DGT infligés par les attaques normales et chargées de 15 %.",
+        "pt": "Aumenta o Dano do Ataque Normal e do Ataque Carregado em 15%.",
+        "ru": "Увеличивает урон обычной и заряженной атаки на 15%.",
+        "id": "Meningkatkan 15% DMG Normal Attack dan Charged Attack.",
+        "th": "เพิ่มความเสียหายของการโจมตีปกติและการชาร์จโจมตี 15%",
+        "vi": "Tăng 15% sát thương tấn công thường và trọng kích tạo thành;"
+      },
+      {
+        "zhs": "施放元素战技后的8秒内，普通攻击和重击造成的伤害提升25%。",
+        "zht": "施放元素戰技後的8秒內，普通攻擊和重擊造成的傷害提升25%。",
+        "jp": "元素スキル発動後、通常攻撃と重撃ダメージ+25%、継続時間8秒。",
+        "ko": "원소전투 스킬 발동 후 8초 동안 일반 공격과 강공격으로 가하는 피해가 25% 증가한다",
+        "en": "After using Elemental Skill, increases Normal Attack and Charged Attack DMG by 25% for 8s.",
+        "de": "Erhöht den mit Standardangriffen und heftigen Schlägen verursachten Schaden nach Anwendung von Elementarfähigkeiten 8 s lang um 25 %.",
+        "es": "Tras usar la Habilidad Elemental, aumenta el daño de Ataque Normal y Ataque Cargado en un 25% durante 8 s.",
+        "fr": "Augmente les DGT infligés par les attaques normales et chargées de 25 % pendant 8 s après l'utilisation d'une compétence élémentaire.",
+        "pt": "Após usar uma Habilidade Elemental, aumenta o Dano do Ataque Normal e Ataque Carregado em 25% por 8s.",
+        "ru": "Увеличивает урон обычной и заряженной атаки на 25% в течение 8 сек. после использования элементального навыка.",
+        "id": "Setelah melancarkan Elemental Skill, meningkatkan 25% DMG Normal dan Charged Attack selama 8 detik.",
+        "th": "ภายใน 8 วินาที หลังจากใช้สกิลธาตุ ความเสียหายของการโจมตีปกติ และการชาร์จโจมตีจะเพิ่มขึ้น 25%",
+        "vi": "Trong 8s sau khi sử dụng kỹ năng Nguyên Tố, tấn công thường và trọng kích tăng 25% sát thương."
+      }
+    ]
+  },
+  {
+    "SetId": 10007,
+    "ContainsList": [
+      57140,
+      57120,
+      57150,
+      57110,
+      57130
+    ],
+    "name": {
+      "zhs": "教官",
+      "zht": "教官",
+      "jp": "教官",
+      "ko": "교관",
+      "en": "Instructor",
+      "de": "Ausbilder",
+      "es": "Instructor",
+      "fr": "Instructeur",
+      "pt": "Instrutor",
+      "ru": "Инструктор",
+      "id": "Instructor",
+      "th": "Instructor",
+      "vi": "Giáo Quan"
+    },
+    "descriptions": [
+      {
+        "zhs": "元素精通提高80点。",
+        "zht": "元素精通提高80點。",
+        "jp": "元素熟知+80。",
+        "ko": "원소 마스터리+80pt",
+        "en": "Increases Elemental Mastery by 80.",
+        "de": "Erhöht Elementarkunde um 80 Punkte.",
+        "es": "Maestría Elemental +80.",
+        "fr": "Augmente la maîtrise élémentaire de 80 pts.",
+        "pt": "Proficiência Elemental +80",
+        "ru": "Увеличивает мастерство стихий на 80 ед.",
+        "id": "Elemental Mastery +80.",
+        "th": "ความชำนาญธาตุเพิ่มขึ้น 80 หน่วย",
+        "vi": "Tăng 80 điểm tinh thông nguyên tố."
+      },
+      {
+        "zhs": "触发元素反应后，队伍中所有角色的元素精通提高120点，持续8秒。",
+        "zht": "觸發元素反應後，隊伍中所有角色的元素精通提高120點，持續8秒。",
+        "jp": "元素反応を引き起こした後、チーム全員の元素熟知+120、継続時間8秒。",
+        "ko": "원소 반응 후 파티 내 모든 캐릭터의 원소 마스터리가 120pt 증가한다. 지속 시간: 8초",
+        "en": "Upon triggering an Elemental Reaction, increases all party members' Elemental Mastery by 120 for 8s.",
+        "de": "Erhöht die Elementarkunde aller Truppenmitglieder nach Auslösen von Elementarreaktionen 8 s lang um 120 Punkte.",
+        "es": "Después de activar una Reacción Elemental, aumenta la Maestría Elemental de todos los miembros del equipo en 120 pts. durante 8 s.",
+        "fr": "Augmente la maîtrise élémentaire de toute l'équipe de 120 pts pendant 8 s après avoir déclenché une réaction élémentaire.",
+        "pt": "Após uma Reação Elemental aumenta a Proficiência Elemental de todos os membros da Equipe em 120 por 8s.",
+        "ru": "Вызов элементальной реакции увеличивает мастерство стихий всех членов отряда на 120 ед. в течение 8 сек.",
+        "id": "Setelah memicu Reaksi Elemental, akan meningkatkan 120 Elemental Mastery seluruh anggota party selama 8 detik.",
+        "th": "หลังจากทำให้เกิดปฏิกิริยาธาตุแล้ว ตัวละครทั้งหมดในทีม จะมีความชำนาญธาตุเพิ่มขึ้น 120 หน่วย เป็นเวลา 8 วินาที",
+        "vi": "Sau khi kích hoạt phản ứng Nguyên Tố, tinh thông Nguyên Tố tất cả thành viên đội tăng 120 điểm, kéo dài 8s."
+      }
+    ]
+  },
+  {
+    "SetId": 10008,
+    "ContainsList": [
+      58240,
+      58220,
+      58250,
+      58210,
+      58230
+    ],
+    "name": {
+      "zhs": "赌徒",
+      "zht": "賭徒",
+      "jp": "博徒",
+      "ko": "노름꾼",
+      "en": "Gambler",
+      "de": "Glücksspieler",
+      "es": "Jugadora",
+      "fr": "Parieur",
+      "pt": "Apostador",
+      "ru": "Азартный игрок",
+      "id": "Gambler",
+      "th": "Gambler",
+      "vi": "Con Bạc"
+    },
+    "descriptions": [
+      {
+        "zhs": "元素战技造成的伤害提升20%。",
+        "zht": "元素戰技造成的傷害提升20%。",
+        "jp": "元素スキルのダメージ+20%。",
+        "ko": "원소전투 스킬로 주는 피해가 20% 증가한다",
+        "en": "Increases Elemental Skill DMG by 20%.",
+        "de": "Erhöht den mit Elementarfähigkeiten verursachten Schaden um 20 %.",
+        "es": "Daño de Habilidad Elemental +20%.",
+        "fr": "Augmente les DGT infligés par la compétence élémentaire de 20 %.",
+        "pt": "Aumenta o dano da Habilidade Elemental em 20%.",
+        "ru": "Увеличивает урон элементальных навыков на 20%.",
+        "id": "Meningkatkan 20% DMG Elemental Skill.",
+        "th": "เพิ่มความเสียหายของสกิลธาตุขึ้น 20%",
+        "vi": "Sát thương kỹ năng Nguyên Tố tạo thành tăng 20%."
+      },
+      {
+        "zhs": "击败敌人时，有100%概率清除元素战技的冷却时间。该效果每15秒至多触发一次。",
+        "zht": "擊敗敵人時，有100%的機率清除元素戰技的冷卻時間。該效果每15秒至多觸發一次。",
+        "jp": "敵を倒した時、100%の確率で元素スキルのクールタイムをリセットする。15秒に1回のみ発動可能。",
+        "ko": "적을 처치하면 100%의 확률로 원소전투 스킬의 재사용 대기시간이 초기화된다. 해당 효과는 15초마다 1번 발동한다",
+        "en": "Defeating an opponent has a 100% chance to remove Elemental Skill CD. Can only occur once every 15s.",
+        "de": "Überspringt die Abklingzeit der Elementarfähigkeit beim Besiegen von Gegnern mit einer Wahrscheinlichkeit von 100 %. 15 s Abklingzeit.",
+        "es": "Al derrotar a un enemigo, hay una probabilidad del 100% de reiniciar el TdE de la Habilidad Elemental. Puede ocurrir una vez cada 15 s.",
+        "fr": "Après la défaite d'un ennemi, le TdR de compétence élémentaire a 100 % de chances d'être réinitialisé. Cet effet peut être déclenché une fois toutes les 15 s.",
+        "pt": "Ao derrotar um inimigo, possui 100% de chance de remover a Recarga da Habilidade Elemental. Este efeito pode ser ativado uma vez a cada 15s.",
+        "ru": "Победа над противником со 100% шансом восстанавливает время отката элементального навыка. Может возникнуть раз в 15 сек.",
+        "id": "Mengalahkan musuh memiliki 100% persentase CD Elemental Skill akan langsung selesai. Dapat terpicu setiap 15 detik.",
+        "th": "เมื่อกำจัดศัตรูได้ จะมีโอกาส 100% ที่จะลบล้างช่วงเวลาคูลดาวน์ของ สกิลธาตุ โดยเอฟเฟกต์นี้จะเกิดขึ้นหนึ่งครั้งในทุก 15 วินาที",
+        "vi": "Khi đánh bại kẻ địch, có tỷ lệ 100% xóa CD kỹ năng Nguyên Tố. Mỗi 15s mới có hiệu quả 1 lần."
+      }
+    ]
+  },
+  {
+    "SetId": 10009,
+    "ContainsList": [
+      59140,
+      59120,
+      59150,
+      59110,
+      59130
+    ],
+    "name": {
+      "zhs": "流放者",
+      "zht": "流放者",
+      "jp": "亡命者",
+      "ko": "유배자",
+      "en": "The Exile",
+      "de": "Verbannter",
+      "es": "Exiliado",
+      "fr": "Exilé",
+      "pt": "O Exilado",
+      "ru": "Изгнанник",
+      "id": "The Exile",
+      "th": "The Exile",
+      "vi": "Kẻ Lưu Đày"
+    },
+    "descriptions": [
+      {
+        "zhs": "元素充能效率提高20%。",
+        "zht": "元素充能效率提高20%。",
+        "jp": "元素チャージ効率+20%。",
+        "ko": "원소 충전 효율+20%",
+        "en": "Energy Recharge +20%",
+        "de": "Erhöht die Aufladerate um 20 %.",
+        "es": "Recarga de Energía +20%.",
+        "fr": "Augmente la recharge d'énergie de 20 %.",
+        "pt": "Recarga de Energia +20%",
+        "ru": "Увеличивает скорость восстановления энергии на 20%.",
+        "id": "Energy Recharge +20%.",
+        "th": "เพิ่มประสิทธิภาพ การฟื้นฟูพลังงานขึ้น 20%",
+        "vi": "Hiệu Quả Nạp Nguyên Tố tăng 20%"
+      },
+      {
+        "zhs": "施放元素爆发后，每2秒为队伍中所有角色（不包括自己）恢复2点元素能量。该效果持续6秒，无法叠加。",
+        "zht": "施放元素爆發後，每2秒為隊伍中所有角色（不包括自身）恢復2點元素能量。該效果持續6秒，無法疊加。",
+        "jp": "元素爆発を発動すると、2秒毎にチーム全員（自分を除く）の元素エネルギーを2回復する、継続時間6秒。重ね掛け不可。",
+        "ko": "원소폭발 발동 후 2초마다 파티 내 모든 캐릭터(자신을 포함하지 않음)의 원소 에너지를 2pt 회복한다. 해당 효과는 6초간 지속하며 중첩되지 않는다",
+        "en": "Using an Elemental Burst regenerates 2 Energy for all party members (excluding the wearer) every 2s for 6s. This effect cannot stack.",
+        "de": "Stellt allen Truppenmitgliedern (außer sich selbst) bei Anwendung von Spezialfähigkeiten 6 s lang alle 2 s 2 Punkte Elementarenergie wieder her, nicht stapelbar.",
+        "es": "Al usar la Habilidad Definitiva, todos los miembros del equipo (a excepción de tu personaje en uso) recuperan 2 pts. de Energía Elemental cada 2 s durante 6 s. Este efecto no puede acumularse.",
+        "fr": "Le déchaînement élémentaire restaure 2 pts d'énergie élémentaire à tous les personnages de l'équipe (à l'exception du porteur) toutes les 2 s pendant 6 s. Cet effet est non cumulable.",
+        "pt": "Ao usar o Supremo, regenera 2 de Energia a todos os personagens da equipe (excluindo o portador) a cada 2s por 6s. Este efeito não pode ser acumulado.",
+        "ru": "Использование взрыва стихии восстанавливает 2 ед. энергии остальным членам отряда (но не выбранному персонажу) каждые 2 сек. в течение 6 сек. Эффект не может складываться.",
+        "id": "Penggunaan Elemental Burst memulihkan 2 Energy seluruh anggota party (tidak termasuk diri sendiri) setiap 2 detik selama 6 detik. Efek ini tidak dapat ditumpuk.",
+        "th": "เมื่อใช้ท่าไม้ตายแล้วจะทำการฟื้นฟูพลังงานธาตุให้แก่สมาชิกทีมทั้งหมด (ไม่รวมตัวเอง) 2 หน่วย ในทุก 2 วินาที เป็นเวลา 6 วินาที และไม่สามารถซ้อนทับได้",
+        "vi": "Sau khi thi triển kỹ năng nộ, mỗi 2 giây sẽ hồi 2 điểm năng lượng nguyên tố cho tất cả nhân vật trong đội (không bao gồm bản thân). Hiệu quả trong 6 giây, không cộng dồn."
+      }
+    ]
+  },
+  {
+    "SetId": 10010,
+    "ContainsList": [
+      60140,
+      60120,
+      60150,
+      60110,
+      60130
+    ],
+    "name": {
+      "zhs": "冒险家",
+      "zht": "冒險家",
+      "jp": "冒険者",
+      "ko": "모험가",
+      "en": "Adventurer",
+      "de": "Abenteurer",
+      "es": "Aventurero",
+      "fr": "Aventurier",
+      "pt": "Aventureiro",
+      "ru": "Искатель приключений",
+      "id": "Adventurer",
+      "th": "Adventurer",
+      "vi": "Nhà Mạo Hiểm"
+    },
+    "descriptions": [
+      {
+        "zhs": "生命值上限提高1000点。",
+        "zht": "生命值上限提高1000點。",
+        "jp": "HP上限+1000。",
+        "ko": "HP 최대치+1000pt",
+        "en": "Max HP increased by 1000.",
+        "de": "Erhöht die max. LP um 1000.",
+        "es": "Vida Máx. +1000 pts.",
+        "fr": "Augmente les PV max de 1 000 pts.",
+        "pt": "Vida Máx. +1000",
+        "ru": "Увеличивает макс. HP на 1000 ед.",
+        "id": "Max HP +1000.",
+        "th": "เพิ่มพลังชีวิตสูงสุดขึ้น 1000 หน่วย",
+        "vi": "HP tối đa tăng 1000 điểm."
+      },
+      {
+        "zhs": "开启各类宝箱后的5秒内，持续恢复30%生命值。",
+        "zht": "開啟各類寶箱後的5秒內，持續恢復30%生命值。",
+        "jp": "宝箱を開けた後5秒間、HPの30%を徐々に回復する。",
+        "ko": "각종 보물 상자를 오픈 후 5초 동안 30%의 HP를 지속해서 회복한다",
+        "en": "Opening a chest regenerates 30% Max HP over 5s.",
+        "de": "Stellt nach dem Öffnen jeglicher Truhen 5 s lang 30 % LP wieder her.",
+        "es": "Al abrir un cofre, se regenera un 30% de Vida durante 5 s.",
+        "fr": "Restaure 30 % des PV pendant 5 s après l'ouverture d'un coffre.",
+        "pt": "Abrir um baú recupera 30% de Vida Máxima durante 5 segundos.",
+        "ru": "В течение 5 сек. после открытия любого сундука восстанавливает 30% HP.",
+        "id": "Membuka setiap jenis peti memulihkan 30% HP dalam waktu 5 detik.",
+        "th": "หลังจากเปิดหีบสมบัติ ชนิดต่าง ๆ แล้ว จะฟื้นฟูพลังชีวิต 30% ภายในเวลา 5 วินาที",
+        "vi": "5s sau khi mở các loại rương, duy trì hồi 30% HP."
+      }
+    ]
+  },
+  {
+    "SetId": 10011,
+    "ContainsList": [
+      61140,
+      61120,
+      61150,
+      61110,
+      61130
+    ],
+    "name": {
+      "zhs": "幸运儿",
+      "zht": "幸運兒",
+      "jp": "幸運",
+      "ko": "행운아",
+      "en": "Lucky Dog",
+      "de": "Glückspilz",
+      "es": "Afortunado",
+      "fr": "Chanceux",
+      "pt": "O Sortudo",
+      "ru": "Везунчик",
+      "id": "Lucky Dog",
+      "th": "Lucky Dog",
+      "vi": "Vật May Mắn"
+    },
+    "descriptions": [
+      {
+        "zhs": "防御力提高100点。",
+        "zht": "防禦力提高100點。",
+        "jp": "防御力+100。",
+        "ko": "방어력+100pt",
+        "en": "DEF increased by 100.",
+        "de": "Erhöht die VTD um 100 Punkte.",
+        "es": "DEF +100.",
+        "fr": "Augmente la DÉF de 100 pts.",
+        "pt": "DEF +100",
+        "ru": "Увеличивает защиту на 100 ед.",
+        "id": "DEF +100.",
+        "th": "เพิ่มพลังป้องกัน 100 หน่วย",
+        "vi": "Phòng ngự tăng 100 điểm."
+      },
+      {
+        "zhs": "拾取摩拉时，恢复300点生命值。",
+        "zht": "拾取摩拉時，恢復300點生命值。",
+        "jp": "モラを拾得すると、HPを300回復する。",
+        "ko": "모라 획득 시 HP를 300pt 회복한다",
+        "en": "Picking up Mora restores 300 HP.",
+        "de": "Stellt beim Sammeln von Mora 300 LP wieder her.",
+        "es": "Recoger Mora restaura 300 pts. de Vida.",
+        "fr": "Collecter des moras restaure 300 PV.",
+        "pt": "Ao coletar Mora, restaura 300 de Vida.",
+        "ru": "Поднятие монет восстанавливает 300 HP.",
+        "id": "Mengambil Mora memulihkan 300 HP.",
+        "th": "เมื่อเก็บ Mora จะทำการฟื้นฟูพลังชีวิต 300 หน่วย",
+        "vi": "Khi nhặt Mora, hồi 300 điểm HP."
+      }
+    ]
+  },
+  {
+    "SetId": 10012,
+    "ContainsList": [
+      62140,
+      62120,
+      62150,
+      62110,
+      62130
+    ],
+    "name": {
+      "zhs": "学士",
+      "zht": "學士",
+      "jp": "学者",
+      "ko": "학사",
+      "en": "Scholar",
+      "de": "Gelehrter",
+      "es": "Erudita",
+      "fr": "Érudit",
+      "pt": "O Estudioso",
+      "ru": "Учёный",
+      "id": "Scholar",
+      "th": "Scholar",
+      "vi": "Học Sĩ"
+    },
+    "descriptions": [
+      {
+        "zhs": "元素充能效率提高20%。",
+        "zht": "元素充能效率提高20%。",
+        "jp": "元素チャージ効率+20%。",
+        "ko": "원소 충전 효율+20%",
+        "en": "Energy Recharge +20%",
+        "de": "Erhöht die Aufladerate um 20 %.",
+        "es": "Recarga de Energía +20%.",
+        "fr": "Augmente la recharge d'énergie de 20 %.",
+        "pt": "Recarga de Energia +20%",
+        "ru": "Увеличивает скорость восстановления энергии на 20%.",
+        "id": "Energy Recharge +20%.",
+        "th": "เพิ่มประสิทธิภาพ การฟื้นฟูพลังงานขึ้น 20%",
+        "vi": "Hiệu Quả Nạp Nguyên Tố tăng 20%"
+      },
+      {
+        "zhs": "获得元素微粒或元素晶球时，队伍中所有弓箭和法器角色额外恢复3点元素能量。该效果每3秒只能触发一次。",
+        "zht": "獲得元素微粒或元素晶球時，隊伍中所有弓箭和法器角色額外恢復3點元素能量。該效果每3秒只能觸發一次。",
+        "jp": "元素オーブまたは元素粒子を獲得した時、チーム内全ての弓と法器キャラの元素エネルギーが3回復する。3秒毎に1回のみ発動可能。",
+        "ko": "원소 입자 혹은 원소 구슬 획득 시 파티 내 모든 활과 법구를 사용하는 캐릭터는 원소 에너지를 추가로 3pt 회복한다. 해당 효과는 3초마다 1번 발동한다",
+        "en": "Gaining Elemental Particles or Orbs gives 3 Energy to all party members who have a bow or a catalyst equipped. Can only occur once every 3s.",
+        "de": "Stellt allen Truppenmitgliedern mit Bögen und Katalysatoren beim Erhalten von Elementarteilchen und Elementarkristallen zusätzlich 3 Punkte Elementarenergie wieder her. 3 s Abklingzeit.",
+        "es": "Al obtener partículas u orbes elementales, los miembros del equipo que usen arco o catalizador recuperan 3 pts. adicionales de Energía Elemental. Solo puede suceder una vez cada 3 s.",
+        "fr": "Les personnages maniant l'arc et le catalyseur récupèrent 3 pts d'énergie supplémentaire à chaque fois qu'une particule ou un orbe élémentaires sont récupérés. Cet effet peut être déclenché une fois toutes les 3 s.",
+        "pt": "Obter Partículas ou Orbes Elementais confere 3 de Energia a todos os membros da equipe que possuem um arco ou catalisador equipado. Pode ser ativado uma vez a cada 3s.",
+        "ru": "Получение элементальных сфер или частиц восстанавливает 3 ед. энергии членам отряда, экипированным стрелковым оружием или катализатором. Может возникнуть раз в 3 сек.",
+        "id": "Mendapatkan Elemental Particle/Orb akan memberikan 3 Energy kepada seluruh anggota party yang mengenakan bow atau catalyst. Dapat terpicu setiap 3 detik.",
+        "th": "เมื่อเก็บอณูธาตุ/ลูกแก้ว ตัวละครทั้งหมดในทีมที่ใช้ธนูและสื่อเวทจะได้รับการฟื้นฟูพลังงานธาตุเพิ่ม 3 หน่วย ซึ่งเอฟเฟกต์นี้จะเกิดขึ้นเพียงหนึ่งครั้งในทุก 3 วินาที",
+        "vi": "Khi nhận Nguyên Tố Hạt Nhân hoặc Nguyên Tố Tinh Cầu, tất cả nhân vật dùng cung tên và Pháp Khí trong đội sẽ hồi thêm 3 Năng Lượng Nguyên Tố. Mỗi 3s mới thi triển 1 lần."
+      }
+    ]
+  },
+  {
+    "SetId": 10013,
+    "ContainsList": [
+      63140,
+      63120,
+      63150,
+      63110,
+      63130
+    ],
+    "name": {
+      "zhs": "游医",
+      "zht": "遊醫",
+      "jp": "医者",
+      "ko": "떠돌이 의사",
+      "en": "Traveling Doctor",
+      "de": "Wanderarzt",
+      "es": "Médica Itinerante",
+      "fr": "Médecin itinérant",
+      "pt": "O Doutor viajante",
+      "ru": "Целитель",
+      "id": "Traveling Doctor",
+      "th": "Traveling Doctor",
+      "vi": "Thầy Thuốc"
+    },
+    "descriptions": [
+      {
+        "zhs": "角色受到的治疗效果提高20%。",
+        "zht": "角色受到的治療效果提高20%。",
+        "jp": "受ける治療効果+20%。",
+        "ko": "캐릭터가 받는 치유 효과+20%",
+        "en": "Increases incoming healing by 20%.",
+        "de": "Erhöht den passiven Heileffekt der Figur um 20 %.",
+        "es": "Curación recibida +20%.",
+        "fr": "Augmente les soins reçus par le personnage de 20 %.",
+        "pt": "Aumenta o efeito de cura em 20%.",
+        "ru": "Увеличивает получаемое лечение на 20%.",
+        "id": "Efek pemulihan yang diterima meningkat 20%.",
+        "th": "เพิ่มผลของการรักษา ที่ตัวละครได้รับขึ้น 20%",
+        "vi": "Tăng 20% hiệu quả trị liệu nhân vật nhận được."
+      },
+      {
+        "zhs": "施放元素爆发时，恢复20%生命值。",
+        "zht": "施放元素爆發時，恢復20%生命值。",
+        "jp": "元素爆発を発動すると、HPを20%回復する。",
+        "ko": "원소폭발 발동 시 HP를 20% 회복한다",
+        "en": "Using Elemental Burst restores 20% HP.",
+        "de": "Stellt bei Anwendung von Spezialfähigkeiten 20 % LP wieder her.",
+        "es": "Al lanzar una Habilidad Definitiva, restaura un 20% de Vida.",
+        "fr": "Le déchaînement élémentaire restaure 20 % des PV.",
+        "pt": "Após usar o Supremo, restaura 20% de Vida.",
+        "ru": "Использование взрыва стихии восстанавливает 20% HP.",
+        "id": "Menggunakan Elemental Burst memulihkan 20% HP.",
+        "th": "เมื่อปล่อยท่าไม้ตาย จะทำการฟื้นฟูพลังชีวิต 20%",
+        "vi": "Khi thi triển Kỹ Năng Nộ, hồi 20% HP."
+      }
+    ]
+  },
+  {
+    "SetId": 14001,
+    "ContainsList": [
+      71340,
+      71320,
+      71350,
+      71310,
+      71330
+    ],
+    "name": {
+      "zhs": "冰风迷途的勇士",
+      "zht": "冰風迷途的勇士",
+      "jp": "氷風を彷徨う勇士",
+      "ko": "얼음바람 속에서 길잃은 용사",
+      "en": "Blizzard Strayer",
+      "de": "Im Schnee irrender Recke",
+      "es": "Nómada del Invierno",
+      "fr": "Briseur de glace",
+      "pt": "Herói Invernal",
+      "ru": "Заблудший в метели",
+      "id": "Blizzard Strayer",
+      "th": "Blizzard Strayer",
+      "vi": "Dũng Sĩ Trong Băng Giá"
+    },
+    "descriptions": [
+      {
+        "zhs": "获得15%冰元素伤害加成。",
+        "zht": "獲得15%冰元素傷害加成。",
+        "jp": "氷元素ダメージ+15%。",
+        "ko": "얼음 원소 피해 보너스+15%",
+        "en": "Cryo DMG Bonus +15%",
+        "de": "Erhöht den Kryo-Schaden um 15 %.",
+        "es": "Bono de Daño Cryo +15%.",
+        "fr": "Confère un bonus de DGT Cryo de 15 %.",
+        "pt": "Bônus de Dano Cryo +15%",
+        "ru": "Увеличивает бонус Крио урона на 15%.",
+        "id": "Cryo DMG Bonus +15%.",
+        "th": "ได้รับโบนัสความเสียหายน้ำแข็ง 15%",
+        "vi": "Tăng sát thương nguyên tố Băng 15%"
+      },
+      {
+        "zhs": "攻击处于冰元素影响下的敌人时，暴击率提高20%；若敌人处于冻结状态下，则暴击率额外提高20%。",
+        "zht": "攻擊處於冰元素影響下的敵人時，暴擊率提高20%；若敵人處於凍結狀態下，則暴擊率額外提高20%。",
+        "jp": "氷元素の影響を受けている敵を攻撃した場合、会心率+20%。敵が凍結状態の場合、会心率は更に+20%。",
+        "ko": "얼음 원소의 영향을 받은 적을 공격 시 치명타 확률이 20% 증가한다. 만약 적이 빙결 상태라면 치명타 확률이 추가로 20% 증가한다",
+        "en": "When a character attacks an opponent affected by Cryo, their CRIT Rate is increased by 20%. If the opponent is Frozen, CRIT Rate is increased by an additional 20%.",
+        "de": "Erhöht die KT beim Angreifen von Kryo-Effekten betroffener Gegner um 20 %. Erhöht die KT bei von Gefroren betroffenen Gegnern zusätzlich um 20 %.",
+        "es": "Aumenta en un 20% la Prob. CRIT contra los enemigos afectados por Cryo. Si el enemigo está Congelado, la Prob. CRIT aumentará en un 20% adicional.",
+        "fr": "Augmente le taux CRIT de 20 % lorsque le personnage attaque un ennemi affecté par l'élément Cryo. Confère un bonus supplémentaire de 20 % de taux CRIT si l'ennemi est gelé.",
+        "pt": "Quando um personagem ataca um inimigo afetado por Cryo, a sua Taxa CRIT aumenta em 20%. Adicionalmente, se o inimigo estiver Congelado, a Taxa CRIT aumenta em mais 20%.",
+        "ru": "Атаки по противникам с эффектом Крио увеличивают шанс крит. попадания на 20%. Если противник имеет статус Заморозка, то дополнительно увеличивает шанс крит. попадания на 20%.",
+        "id": "Saat karakter memukul musuh yang terkena efek Cryo, CRIT Rate meningkat 20%. Jika musuh terkena Frozen, CRIT Rate meningkat lagi 20%.",
+        "th": "เมื่อโจมตีศัตรูที่ได้รับผลกระทบของธาตุน้ำแข็ง อัตราคริจะเพิ่มขึ้น 20%; หากศัตรูตกอยู่ในสภาวะแช่แข็ง อัตราคริจะเพิ่มขึ้นอีก 20%",
+        "vi": "Khi tấn công kẻ địch đang bị Nguyên Tố Băng ảnh hưởng, sẽ tăng 20% tỷ lệ bạo kích, nếu địch ở trạng thái đóng băng, sẽ tăng thêm 20% tỷ lệ bạo kích."
+      }
+    ]
+  },
+  {
+    "SetId": 14002,
+    "ContainsList": [
+      72340,
+      72320,
+      72350,
+      72310,
+      72330
+    ],
+    "name": {
+      "zhs": "平息鸣雷的尊者",
+      "zht": "平息鳴雷的尊者",
+      "jp": "雷を鎮める尊者",
+      "ko": "뇌명을 평정한 존자",
+      "en": "Thundersoother",
+      "de": "Donner beruhigender Weiser",
+      "es": "Domador de Truenos",
+      "fr": "Dompteur de foudre",
+      "pt": "Lançador de Trovões",
+      "ru": "Усмиряющий гром",
+      "id": "Thundersoother",
+      "th": "Thundersoother",
+      "vi": "Tôn Giả Trầm Lặng"
+    },
+    "descriptions": [
+      {
+        "zhs": "雷元素抗性提高40%。",
+        "zht": "雷元素抗性提高40%。",
+        "jp": "雷元素耐性+40%。",
+        "ko": "번개 원소 내성+40%",
+        "en": "Electro RES increased by 40%.",
+        "de": "Erhöht den Elektro-WDS um 40 %.",
+        "es": "RES Electro +40%",
+        "fr": "Augmente la RÉS Électro de 40 %.",
+        "pt": "RES Electro +40%",
+        "ru": "Повышает Электро сопротивление на +40%.",
+        "id": "Electro RES +40%.",
+        "th": "เพิ่มความต้านทานธาตุไฟฟ้าขึ้น 40%",
+        "vi": "Kháng nguyên tố Lôi tăng 40%."
+      },
+      {
+        "zhs": "对处于雷元素影响下的敌人造成的伤害提升35%。",
+        "zht": "對處於雷元素影響下的敵人造成的傷害提升35%。",
+        "jp": "雷元素の影響を受けた敵に対するダメージ+35%。",
+        "ko": "번개 원소의 영향을 받은 적에게 가하는 피해가 35% 증가한다",
+        "en": "Increases DMG against opponents affected by Electro by 35%.",
+        "de": "Erhöht den von Elektro-Effekten betroffenen Gegnern zugefügten Schaden um 35 %.",
+        "es": "Aumenta el Daño contra los enemigos afectados por Electro un 35%.",
+        "fr": "Augmente les DGT infligés aux ennemis affectés par l'élément Électro de 35 %.",
+        "pt": "Aumenta o Dano contra inimigos afetados por Electro em 35%.",
+        "ru": "Увеличивает урон против врагов, находящихся под действием Электро, на 35%.",
+        "id": "Meningkatkan 35% DMG terhadap musuh yang terpengaruh Electro.",
+        "th": "สร้างความเสียหายเพิ่มขึ้น 35% แก่ศัตรูที่ได้รับผลกระทบต่อธาตุไฟฟ้า",
+        "vi": "Tăng 35% sát thương tạo thành cho kẻ địch bị ảnh hưởng nguyên tố Lôi."
+      }
+    ]
+  },
+  {
+    "SetId": 14003,
+    "ContainsList": [
+      73340,
+      73320,
+      73350,
+      73310,
+      73330
+    ],
+    "name": {
+      "zhs": "渡过烈火的贤人",
+      "zht": "渡過烈火的賢人",
+      "jp": "烈火を渡る賢者",
+      "ko": "불 위를 걷는 현인",
+      "en": "Lavawalker",
+      "de": "Feuer durchwandernder Heiliger",
+      "es": "Virtuoso Corredor de Lava",
+      "fr": "Marcheur du feu",
+      "pt": "Atravessador do Fogo",
+      "ru": "Ступающий по лаве",
+      "id": "Lavawalker",
+      "th": "Lavawalker",
+      "vi": "Hiền Nhân Bốc Lửa"
+    },
+    "descriptions": [
+      {
+        "zhs": "火元素抗性提高40%。",
+        "zht": "火元素抗性提高40%。",
+        "jp": "炎元素耐性+40%。",
+        "ko": "불 원소 내성+40%",
+        "en": "Pyro RES increased by 40%.",
+        "de": "Erhöht den Pyro-WDS um 40 %.",
+        "es": "RES Pyro +40%.",
+        "fr": "Augmente la RÉS Pyro de 40 %.",
+        "pt": "RES Pyro +40%",
+        "ru": "Пиро сопротивление: +40%",
+        "id": "Pyro RES +40%.",
+        "th": "เพิ่มความต้านทานไฟ 40%",
+        "vi": "Kháng nguyên tố Hỏa tăng 40%."
+      },
+      {
+        "zhs": "对处于火元素影响下的敌人造成的伤害提升35%。",
+        "zht": "對處於火元素影響下的敵人造成的傷害提升35%。",
+        "jp": "炎元素の影響を受けた敵に対するダメージ+35%。",
+        "ko": "불 원소의 영향을 받은 적에게 가하는 피해가 35% 증가한다",
+        "en": "Increases DMG against opponents affected by Pyro by 35%.",
+        "de": "Erhöht den von Pyro-Effekten betroffenen Gegnern zugefügten Schaden um 35 %.",
+        "es": "Aumenta en un 35% el daño contra los enemigos afectados por Pyro.",
+        "fr": "Augmente les DGT infligés aux ennemis affectés par l'élément Pyro de 35 %.",
+        "pt": "Aumenta o Dano contra inimigos afetados por Pyro em 35%.",
+        "ru": "Увеличивает урон против врагов, находящихся под действием Пиро, на 35%.",
+        "id": "Meningkatkan 35% DMG terhadap musuh yang terpengaruh Pyro.",
+        "th": "สร้างความเสียหายเพิ่มขึ้น 35% แก่ศัตรูที่ได้รับผลกระทบต่อธาตุไฟ",
+        "vi": "Tăng 35% sát thương tạo thành cho kẻ địch bị ảnh hưởng nguyên tố Hỏa."
+      }
+    ]
+  },
+  {
+    "SetId": 14004,
+    "ContainsList": [
+      74340,
+      74320,
+      74350,
+      74310,
+      74330
+    ],
+    "name": {
+      "zhs": "被怜爱的少女",
+      "zht": "被憐愛的少女",
+      "jp": "愛される少女",
+      "ko": "사랑받는 소녀",
+      "en": "Maiden Beloved",
+      "de": "Ins Herz geschlossenes Mädchen",
+      "es": "Doncella Amada",
+      "fr": "Amour chéri",
+      "pt": "Donzela Amada",
+      "ru": "Возлюбленная юная дева",
+      "id": "Maiden Beloved",
+      "th": "Maiden Beloved",
+      "vi": "Thiếu Nữ Đáng Yêu"
+    },
+    "descriptions": [
+      {
+        "zhs": "角色造成的治疗效果提升15%。",
+        "zht": "角色造成的治療效果提升15%。",
+        "jp": "与える治療効果+15%。",
+        "ko": "캐릭터가 주는 치유 효과+15%",
+        "en": "Character Healing Effectiveness +15%",
+        "de": "Erhöht den aktiven Heileffekt der Figur um 15 %.",
+        "es": "Aumenta en un 15% la curación realizada.",
+        "fr": "Augmente les soins effectués par le personnage de 15 %.",
+        "pt": "Efeito de Cura do Personagem aumenta em 15%",
+        "ru": "Увеличивает эффективность лечения на 15%.",
+        "id": "Meningkatkan 15% efek pemulihan karakter.",
+        "th": "เพิ่มผลของการรักษา ตัวละครขึ้น 15%",
+        "vi": "Hiệu quả trị liệu nhân vật tạo ra tăng 15%."
+      },
+      {
+        "zhs": "施放元素战技或元素爆发后的10秒内，队伍中所有角色受治疗效果加成提高20%。",
+        "zht": "施放元素戰技或元素爆發後的10秒內，隊伍中所有角色受治療效果加成提高20%。",
+        "jp": "元素スキルまたは元素爆発を発動した後10秒間、チーム全員の受ける治療効果+20%。",
+        "ko": "원소전투 스킬 또는 원소폭발 발동 후 10초 동안 파티 내 모든 캐릭터가 받는 치유 효과가 20% 증가한다",
+        "en": "Using an Elemental Skill or Burst increases healing received by all party members by 20% for 10s.",
+        "de": "Erhöht den passiven Heilungseffekt aller Truppenmitglieder nach Anwendung von Elementarfähigkeiten oder Spezialfähigkeiten 10 s lang um 20 %.",
+        "es": "El uso de una Habilidad Elemental o Definitiva aumenta en un 20% la curación recibida de todos los miembros del equipo durante 10 s.",
+        "fr": "Augmente les soins reçus par toute l'équipe de 20 % pendant 10 s après l'utilisation d'une compétence élémentaire ou d'un déchaînement élémentaire.",
+        "pt": "Ao usar uma Habilidade Elemental ou Explosão, aumenta a cura recebida por todos os membros da equipe em 20% por 10s.",
+        "ru": "Увеличивает получаемое лечение всех членов отряда на 20% в течение 10 сек. после использования элементального навыка или взрыва стихии.",
+        "id": "Menggunakan Elemental Skill atau Elemental Burst meningkatkan 20% pemulihan yang diterima seluruh anggota party selama 10 detik.",
+        "th": "ภายในเวลา 10 วินาที หลังจากใช้สกิลธาตุหรือท่าไม้ตาย สมาชิกทีมทั้งหมดในทีมจะได้รับ การรักษาเพิ่มขึ้น 20%",
+        "vi": "10s sau khi thi triển kỹ năng Nguyên Tố hoặc Kỹ Năng Nộ, hiệu quả trị liệu tất cả nhân vật trong đội nhận được tăng 20%."
+      }
+    ]
+  },
+  {
+    "SetId": 15001,
+    "ContainsList": [
+      75340,
+      75320,
+      75350,
+      75310,
+      75330
+    ],
+    "name": {
+      "zhs": "角斗士的终幕礼",
+      "zht": "角鬥士的終幕禮",
+      "jp": "剣闘士のフィナーレ",
+      "ko": "검투사의 피날레",
+      "en": "Gladiator's Finale",
+      "de": "Verbeugung des Gladiators",
+      "es": "Final del Gladiador",
+      "fr": "Rideau du Gladiateur",
+      "pt": "Último Juramento do Gladiador",
+      "ru": "Конец гладиатора",
+      "id": "Gladiator's Finale",
+      "th": "Gladiator's Finale",
+      "vi": "Lễ Bế Mạc Của Giác Đấu Sĩ"
+    },
+    "descriptions": [
+      {
+        "zhs": "攻击力提高18%。",
+        "zht": "攻擊力提高18%。",
+        "jp": "攻撃力+18%。",
+        "ko": "공격력+18%",
+        "en": "ATK +18%.",
+        "de": "Erhöht den ANG um 18 %.",
+        "es": "ATQ +18%.",
+        "fr": "Augmente l'ATQ de 18 %.",
+        "pt": "ATQ +18%.",
+        "ru": "Увеличивает силу атаки на 18%.",
+        "id": "ATK +18%.",
+        "th": "เพิ่มพลังโจมตี 18%",
+        "vi": "Tấn công tăng 18%"
+      },
+      {
+        "zhs": "装备该圣遗物套装的角色为单手剑、双手剑、长柄武器角色时，角色普通攻击造成的伤害提高35%。",
+        "zht": "裝備該聖遺物套裝的角色為單手劍、雙手劍、長柄武器角色時，角色普通攻擊造成的傷害提高35%。",
+        "jp": "該当聖遺物セットを装備したキャラが片手剣、両手剣、長柄武器キャラの場合、通常攻撃ダメージ+35%。",
+        "ko": "해당 성유물 세트를 장착한 캐릭터가 한손검, 양손검, 장병기를 사용 시 캐릭터의 일반 공격으로 가하는 피해가 35% 증가한다",
+        "en": "If the wielder of this artifact set uses a Sword, Claymore or Polearm, increases their Normal Attack DMG by 35%.",
+        "de": "Erhöht den mit Standardangriffen verursachten Schaden, wenn die mit diesem Artefaktset ausgestattete Figur einen Einhänder, einen Zweihänder oder eine Stangenwaffe trägt, um 35 %.",
+        "es": "Aumenta el daño de Ataque Normal en un 35% si el personaje usa una espada ligera, mandoble o lanza.",
+        "fr": "Augmente les DGT infligés par les attaques normales de 35 % lorsque ce set d'artéfacts est équipé par les personnages maniant une épée à une ou deux mains ou une arme d'hast.",
+        "pt": "Se o portador deste conjunto de artefato usar uma Espada, Espadão ou Lança, aumenta o Dano de seus Ataques Normais em 35%.",
+        "ru": "Увеличивает урон обычной атаки на 35%, если персонаж использует одноручное, двуручное или древковое оружие.",
+        "id": "Meningkatkan 35% DMG Normal Attack karakter yang menggunakan Sword, Claymore, Polearm.",
+        "th": "เมื่อตัวละครที่สวมเซ็ตอาร์ติแฟกต์นี้ใช้ดาบ, ดาบใหญ่, หอก ตัวละครจะสร้างความเสียหายจากการโจมตีปกติเพิ่มขึ้น 35%",
+        "vi": "Khi nhân vật trang bị bộ Thánh Di Vật này dùng kiếm đơn, trọng kiếm, vũ khí cán dài, sát thương tấn công thường nhân vật tạo thành tăng 35%."
+      }
+    ]
+  },
+  {
+    "SetId": 15002,
+    "ContainsList": [
+      76340,
+      76320,
+      76350,
+      76310,
+      76330
+    ],
+    "name": {
+      "zhs": "翠绿之影",
+      "zht": "翠綠之影",
+      "jp": "翠緑の影",
+      "ko": "청록색 그림자",
+      "en": "Viridescent Venerer",
+      "de": "Grünlicher Schatten",
+      "es": "Sombra Verde Esmeralda",
+      "fr": "Ombre de la Verte Chasseuse",
+      "pt": "Sombra Verde",
+      "ru": "Изумрудная тень",
+      "id": "Viridescent Venerer",
+      "th": "Viridescent Venerer",
+      "vi": "Bóng Hình Màu Xanh"
+    },
+    "descriptions": [
+      {
+        "zhs": "获得15%风元素伤害加成。",
+        "zht": "獲得15%風元素傷害加成。",
+        "jp": "風元素ダメージ+15%。",
+        "ko": "바람 원소 피해+15%",
+        "en": "Anemo DMG Bonus +15%",
+        "de": "Erhöht den Anemo-Schaden um 15 %.",
+        "es": "Bono de Daño Anemo +15%.",
+        "fr": "Confère un bonus de DGT Anémo de 15 %.",
+        "pt": "Bônus de Dano Anemo +15%",
+        "ru": "Увеличивает бонус Анемо урона на 15%.",
+        "id": "Anemo DMG Bonus +15%.",
+        "th": "ได้รับโบนัสความเสียหายลม 15%",
+        "vi": "Nhận 15% buff sát thương nguyên tố Phong."
+      },
+      {
+        "zhs": "扩散反应造成的伤害提升60%。根据扩散的元素类型，降低受到影响的敌人40%的对应元素抗性，持续10秒。",
+        "zht": "擴散反應造成的傷害提升60%。根據擴散的元素類型，降低受到影響的敵人40%的對應元素抗性，持續10秒。",
+        "jp": "拡散反応によるダメージ+60%。拡散された元素タイプを基準に、影響を受けた敵の元素耐性-40%、継続時間10秒。",
+        "ko": "확산 반응이 가하는 피해가 60% 증가한다. 확산되는 원소 타입에 따라 피해 범위 내 적의 해당 원소의 내성이 40% 감소한다. 지속 시간: 10초",
+        "en": "Increases Swirl DMG by 60%. Decreases opponent's Elemental RES to the element infused in the Swirl by 40% for 10s.",
+        "de": "Erhöht den mit Verwirbelungen verursachten Schaden um 60 %. Verringert den dem jeweiligen Element in der Verwirbelung entsprechenden WDS des betroffenen Gegners 10 s lang um 40 %.",
+        "es": "Aumenta el daño de Torbellino en un 60%. Dependiendo del tipo elemental que tenga, disminuye la RES Elemental correspondiente del enemigo en un 40% durante 10 s.",
+        "fr": "Augmente les DGT infligés par Dispersion de 60 % ; la RÉS élémentaire des ennemis est réduite de 40 % pendant 10 s selon le type élémentaire de Dispersion.",
+        "pt": "Aumenta o Dano do Redemoinho em 60%. Dependendo do tipo elemento infundido, diminui a RES Elemental correspondente do oponente em 40% por 10s.",
+        "ru": "Увеличивает урон Рассеивания на 60%. При взаимодействии Рассеивания с другим элементом, также понижает сопротивление противника к соответствующему элементу на 40% в течение 10 сек.",
+        "id": "Meningkatkan 60% Swirl DMG. Mengurangi 40% Elemental RES musuh sesuai elemen yang terkandung dalam swirl selama 10 detik.",
+        "th": "เพิ่มความเสียหายของการกระจาย 60% ตามประเภทของธาตุที่กระจาย ลดความต้านทานธาตุของศัตรูที่ได้รับผลกระทบลง 40% เป็นเวลา 10 วิ",
+        "vi": "Sát thương phản ứng khuếch tán tạo thành tăng 60%. Dựa theo loại Nguyên Tố khuếch tán, giảm 40% kháng Nguyên Tố của kẻ địch bị ảnh hưởng, kéo dài 10s."
+      }
+    ]
+  },
+  {
+    "SetId": 15003,
+    "ContainsList": [
+      77340,
+      77320,
+      77350,
+      77310,
+      77330
+    ],
+    "name": {
+      "zhs": "流浪大地的乐团",
+      "zht": "流浪大地的樂團",
+      "jp": "大地を流浪する楽団",
+      "ko": "대지를 유랑하는 악단",
+      "en": "Wanderer's Troupe",
+      "de": "Wanderorchester",
+      "es": "Orquesta del Errante",
+      "fr": "Bande vagabonde",
+      "pt": "Trupe Itinerante",
+      "ru": "Странствующий ансамбль",
+      "id": "Wanderer's Troupe",
+      "th": "Wanderer's Troupe",
+      "vi": "Đoàn Hát Lang Thang Đại Lục"
+    },
+    "descriptions": [
+      {
+        "zhs": "元素精通提高80点。",
+        "zht": "元素精通提高80點。",
+        "jp": "元素熟知+80。",
+        "ko": "원소 마스터리+80pt",
+        "en": "Increases Elemental Mastery by 80.",
+        "de": "Erhöht Elementarkunde um 80 Punkte.",
+        "es": "Maestría Elemental +80.",
+        "fr": "Augmente la maîtrise élémentaire de 80 pts.",
+        "pt": "Proficiência Elemental +80",
+        "ru": "Увеличивает мастерство стихий на 80 ед.",
+        "id": "Elemental Mastery +80.",
+        "th": "ความชำนาญธาตุเพิ่มขึ้น 80 หน่วย",
+        "vi": "Tăng 80 điểm tinh thông nguyên tố."
+      },
+      {
+        "zhs": "装备该圣遗物套装的角色为法器、弓箭角色时，角色重击造成的伤害提高35%。",
+        "zht": "裝備該聖遺物套裝的角色為法器、弓箭角色時，角色重擊造成的傷害提高35%。",
+        "jp": "該当聖遺物セットを装備したキャラが法器、弓キャラの場合、キャラの重撃ダメージ+35%。",
+        "ko": "해당 성유물 세트를 장착한 캐릭터가 법구 또는 활을 사용 시 캐릭터의 강공격으로 가하는 피해가 35% 증가한다",
+        "en": "Increases Charged Attack DMG by 35% if the character uses a Catalyst or a Bow.",
+        "de": "Erhöht den mit heftigen Schlägen verursachten Schaden, wenn die Figur einen Katalysator oder einen Bogen trägt, um 35 %.",
+        "es": "Aumenta el daño de ATQ Cargado en un 35% si el personaje usa catalizador o arco.",
+        "fr": "Augmente les DGT infligés par les attaques chargées de 35 % lorsque ce set d'artéfacts est équipé par les personnages maniant un arc ou un catalyseur.",
+        "pt": "Aumenta o Dano do Ataque Carregado em 35% se o personagem estiver usando Catalisador ou Arco.",
+        "ru": "Увеличивает урон заряженной атаки на 35%, если персонаж использует катализатор или стрелковое оружие.",
+        "id": "Meningkatkan 35% DMG Charged Attack karakter yang menggunakan Catalyst, Bow.",
+        "th": "เมื่อตัวละครที่สวมเซ็ตอาร์ติแฟกต์เป็นผู้ใช้สื่อเวท, ธนู การชาร์จโจมตีของตัวละครจะสร้างความเสียหายเพิ่มขึ้น 35%",
+        "vi": "Khi nhân vật trang bị bộ Thánh Di Vật này dùng pháp khí, cung tên, sát thương trọng kích nhân vật tạo thành tăng 35%."
+      }
+    ]
+  },
+  {
+    "SetId": 15004,
+    "ContainsList": [
+      78340,
+      78320,
+      78350,
+      78310,
+      78330
+    ],
+    "name": {
+      "zhs": "冰之川与雪之砂",
+      "zht": "冰之川與雪之砂",
+      "jp": "氷の川と雪の砂",
+      "ko": "빙하와 눈의 모래",
+      "en": "Glacier and Snowfield",
+      "de": "Eisbäche und Schneewüsten",
+      "es": "Arenas de hielo y nieve",
+      "fr": "Neige et glace",
+      "pt": "Rios de Gelo e Areia de Neve",
+      "ru": "Снег и лёд",
+      "id": "Glacier and Snowfield",
+      "th": "Glacier and Snowfield",
+      "vi": "Băng Xuyên Tuyết Sa"
+    },
+    "descriptions": [
+      {
+        "zhs": "获得15%冰元素伤害加成。",
+        "zht": "獲得15%冰元素傷害加成。",
+        "jp": "氷元素ダメージ+15%。",
+        "ko": "얼음 원소 피해 보너스+15%",
+        "en": "Cryo DMG Bonus +15%",
+        "de": "Erhöht den Kryo-Schaden um 15 %.",
+        "es": "Bono de Daño Cryo +15%.",
+        "fr": "Confère un bonus de DGT Cryo de 15 %.",
+        "pt": "Bônus de Dano Cryo +15%",
+        "ru": "Увеличивает бонус Крио урона на 15%.",
+        "id": "Cryo DMG Bonus +15%.",
+        "th": "ได้รับโบนัสความเสียหายน้ำแข็ง 15%",
+        "vi": "Tăng sát thương nguyên tố Băng 15%"
+      },
+      {
+        "zhs": "超导反应造成的伤害提升100%，融化反应的加成系数提高15%。施放元素爆发后的10秒内，冰元素伤害加成额外提升30%。",
+        "zht": "超導反應造成的傷害提升100%，融化反應的加成係數提高15%。施放元素爆發後的10秒內，冰元素傷害加成額外提升30%。",
+        "jp": "超電導反応ダメージ+100%、溶解反応の加算効果+15%。元素爆発を発動した10秒間、氷元素ダメージ+30%。",
+        "ko": "초전도 반응이 적에게 가하는 피해가 100% 증가하고 융해 반응의 보너스 계수가 15% 증가한다. 원소폭발 발동 후 10초 동안 얼음 원소 피해 보너스가 추가로 30% 증가한다",
+        "en": "Increases Superconduct DMG by 100%. Increases Melt DMG by 15%. Using an Elemental Burst increases Cryo DMG Bonus by 30% for 10s.",
+        "de": "Erhöht den mit der Reaktion Supraleiter verursachten Schaden um 100 % und den von der Reaktion Schmelzen betroffenen Gegnern zugefügten Schaden um 15 %. Erhöht den Kryo-SCH-Bonus bei Anwendung von Spezialfähigkeiten 10 s lang zusätzlich um 30 %.",
+        "es": "Aumenta en un 100% el daño infligido por Superconductor y el de Derretido en un 15%. Además, al usar una Habilidad Definitiva, obtienes un 30% de Bono de Daño Cryo durante 10 s",
+        "fr": "Augmente les DGT infligés par Supraconduction de 100 % et ceux de Fonte de 15 %. Le déchaînement élémentaire augmente le bonus de DGT Cryo de 30 % pendant 10 s.",
+        "pt": "Aumenta o Dano causado por Supercondutor em 100%, aumenta o Dano causado pela Fusão em 15%. Ao usar um Supremo, aumenta o Dano Cryo em 30% por 10s.",
+        "ru": "Увеличивает урон статуса Сверхпроводник на 100%, а урон статуса Таяние - на 15%. Взрыв стихии увеличивает Крио урон на 30% в течение 10 сек.",
+        "id": "Meningkatkan 100% DMG yang diakibatkan Superconduct, meningkatkan 15% DMG yang diakibatkan Melt. Setelah melancarkan Elemental Burst, meningkatkan 30% Cryo DMG selama 10 detik.",
+        "th": "เพิ่มความเสียหายปฏิกิริยานำไฟฟ้า 100%, เพิ่มความเสียหายหลอมละลาย 15% และเพิ่มโบนัสความเสียหายน้ำแข็งอีก 30% หลังจากใช้ท่าไม้ตายเป็นเวลา 10 วินาที",
+        "vi": "Phản ứng Siêu Dẫn tạo ra sát thương tăng 100%, phản ứng Tan Chảy tăng hệ số buff 15%. 10s sau khi thi triển Kỹ Năng Nộ, sát thương Nguyên Tố Băng tăng thêm 30%."
+      }
+    ]
+  },
+  {
+    "SetId": 15005,
+    "ContainsList": [
+      79340,
+      79320,
+      79350,
+      79310,
+      79330
+    ],
+    "name": {
+      "zhs": "如雷的盛怒",
+      "zht": "如雷的盛怒",
+      "jp": "雷のような怒り",
+      "ko": "번개 같은 분노",
+      "en": "Thundering Fury",
+      "de": "Donnernder Zorn",
+      "es": "Furia del Trueno",
+      "fr": "Colère de tonnerre",
+      "pt": "Trovão Furioso",
+      "ru": "Громогласный рёв ярости",
+      "id": "Thundering Fury",
+      "th": "Thundering Fury",
+      "vi": "Như Sấm Thịnh Nộ"
+    },
+    "descriptions": [
+      {
+        "zhs": "获得15%雷元素伤害加成。",
+        "zht": "獲得15%雷元素傷害加成。",
+        "jp": "雷元素ダメージ+15%。",
+        "ko": "번개 원소 피해+15%",
+        "en": "Electro DMG Bonus +15%",
+        "de": "Erhöht den Elektro-Schaden um 15 %.",
+        "es": "Bono de Daño Electro +15%.",
+        "fr": "Confère un bonus de DGT Électro de 15 %.",
+        "pt": "Bônus de Dano Electro +15%",
+        "ru": "Увеличивает бонус Электро урона на 15%.",
+        "id": "Electro DMG Bonus +15%.",
+        "th": "ได้รับโบนัสความเสียหายไฟฟ้า 15%",
+        "vi": "Nhận 15% buff sát thương nguyên tố Lôi"
+      },
+      {
+        "zhs": "超载、感电、超导反应造成的伤害提升40%。触发这些元素反应时，元素战技冷却时间减少1秒。该效果每0.8秒最多触发一次。",
+        "zht": "超載、感電、超導反應造成的傷害提升40%。觸發這些元素反應時，元素戰技冷卻時間減少1秒。該效果每0.8秒最多觸發一次。",
+        "jp": "過負荷、感電、超電導反応によるダメージ+40%。それらの元素反応を起こすと、元素スキルのクールタイム-1秒。0.8秒毎に最大1回のみ発動可能。",
+        "ko": "과부하, 감전, 초전도 반응이 주는 피해가 40% 증가한다. 원소 반응 발동 시 원소전투 스킬의 재사용 대기시간이 1초 줄어든다. 해당 효과는 0.8초마다 1번 발동한다",
+        "en": "Increases damage caused by Overloaded, Electro-Charged and Superconduct by 40%. Triggering such effects decreases Elemental Skill CD by 1s. Can only occur once every 0.8s.",
+        "de": "Erhöht den mit den Effekten „Überladen“, „Unter Strom“ und „Supraleiter“ verursachten Schaden um 40 %. Verringert die Abklingzeit der Elementarfähigkeit beim Auslösen dieser Elementareffekte um 1 s. 0,8 s Abklingzeit.",
+        "es": "Aumenta el daño infligido por Sobrecarga, Electrocargado y Superconductor en un 40%. Al activar alguna de estas reacciones, disminuye en 1 s el TdE de la Habilidad Elemental. Solo puede ocurrir una vez cada 0.8 s.",
+        "fr": "Augmente les DGT infligés par Surcharge, Électrocution et Supraconduction de 40 %. Lorsque vous déclenchez ces réactions élémentaires, le TdR de la compétence élémentaire est réduit de 1 s. Cet effet peut être déclenché une fois toutes les 0,8 s.",
+        "pt": "Aumenta o Dano causado pela Sobrecarga, Eletricamente Carregado e Supercondutor em 40%. Ao ativar estes efeitos, diminui a Recarga da Habilidade Elemental em 1s. Pode ser ativado uma vez a cada 0.8s.",
+        "ru": "Увеличивает урон статусов Перегрузка, Заряжен и Сверхпроводник на 40%. Наложение этих статусов уменьшает время отката элементального навыка на 1 сек. Может возникнуть раз в 0,8 сек.",
+        "id": "Meningkatkan 40% DMG yang diakibatkan Overloaded, Electro-Charged, dan Superconduct. Memicu efek-efek tersebut mengurangi 1 detik CD Elemental Skill. Dapat terpicu setiap 0,8 detik.",
+        "th": "ความเสียหายโอเวอร์โหลด, ชาร์จไฟฟ้า, นำไฟฟ้าเพิ่มขึ้น 40% เมื่อเกิดปฏิกิริยาเหล่านี้ สกิลธาตุจะลดระยะเวลาคูลดาวน์ลง 1 วินาที ซึ่งเอฟเฟกต์นี้จะเกิดขึ้นหนึ่งครั้งในทุก 0.8 วินาที",
+        "vi": "Sát thương phản ứng quá tải, điện cảm, siêu dẫn tăng 40%. Khi kích hoạt những phản ứng nguyên tố này, CD kỹ năng nguyên tố giảm 1s. Hiệu quả này mỗi 0.8s thi triển nhiều nhất một lần."
+      }
+    ]
+  },
+  {
+    "SetId": 15006,
+    "ContainsList": [
+      80340,
+      80320,
+      80350,
+      80310,
+      80330
+    ],
+    "name": {
+      "zhs": "炽烈的炎之魔女",
+      "zht": "熾烈的炎之魔女",
+      "jp": "燃え盛る炎の魔女",
+      "ko": "불타오르는 화염의 마녀",
+      "en": "Crimson Witch of Flames",
+      "de": "Brennende Pyro-Hexe",
+      "es": "Bruja Carmesí en Llamas",
+      "fr": "Sorcière des flammes ardentes",
+      "pt": "A Bruxa das Chamas Carmesim",
+      "ru": "Горящая алая ведьма",
+      "id": "Crimson Witch of Flames",
+      "th": "Crimson Witch of Flames",
+      "vi": "Diệm Liệt Ma Nữ Cháy Rực"
+    },
+    "descriptions": [
+      {
+        "zhs": "获得15%火元素伤害加成。",
+        "zht": "獲得15%火元素傷害加成。",
+        "jp": "炎元素ダメージ+15%。",
+        "ko": "불 원소 피해+15%",
+        "en": "Pyro DMG Bonus +15%",
+        "de": "Erhöht den Pyro-Schaden um 15 %.",
+        "es": "Bono de Daño Pyro +15%.",
+        "fr": "Confère un bonus de DGT Pyro de 15 %.",
+        "pt": "Bônus de Dano Pyro +15%",
+        "ru": "Увеличивает бонус Пиро урона на 15%.",
+        "id": "Pyro DMG Bonus +15%.",
+        "th": "ได้รับโบนัสความเสียหายไฟ 15%",
+        "vi": "Nhận 15% buff sát thương nguyên tố Hỏa."
+      },
+      {
+        "zhs": "超载、燃烧反应造成的伤害提升40%，蒸发、融化反应的加成系数提高15%。施放元素战技后的10秒内，2件套的效果提高50%，该效果最多叠加3次。",
+        "zht": "超載、燃燒反應造成的傷害提升40%，蒸發、融化反應的加成係數提高15%。施放元素戰技後的10秒內，2件套的效果提高50%，該效果最多疊加三次。",
+        "jp": "過負荷、燃焼反応によるダメージ+40%。蒸発、溶解反応による加算効果+15%。元素スキルを発動した10秒間、2セットの効果+50%、最大3重まで。",
+        "ko": "과부하, 연소 반응이 적에게 주는 피해가 40% 증가하고 증발, 융해 반응의 보너스 계수가 15% 증가한다. 원소전투 스킬 발동 후 10초 동안 2세트의 효과가 50% 증가한다. 최대 중첩수: 3회",
+        "en": "Increases Overloaded and Burning DMG by 40%. Increases Vaporize and Melt DMG by 15%. Using Elemental Skill increases the 2-Piece Set Bonus by 50% of its starting value for 10s. Max 3 stacks.",
+        "de": "Erhöht den mit den Reaktionen „Überladen“ und „In Flammen“ verursachten Schaden um 40 % und den von den Reaktionen „Verdampfen“ und „Schmelzen“ betroffenen Gegnern zugefügten Schaden um 15 %. Erhöht den Effekt eines 2er-Sets bei Anwendung von Elementarfähigkeiten 10 s lang um 50 %, 3-fach stapelbar.",
+        "es": "Aumenta el daño causado por Sobrecarga y Quemadura en un 40%, y el de Vaporización y Derretido en un 15%. El uso de una Habilidad Elemental aumenta los efectos del conjunto de 2 piezas en un 50% durante 10 s. Puede acumularse hasta un máximo de 3 veces.",
+        "fr": "Augmente les DGT infligés par Surcharge et Brûlure de 40 % et ceux d'Évaporation et de Fonte de 15 %. L'utilisation d'une compétence élémentaire augmente pendant 10 s l'effet du set de 2 pièces de 50 % ; cet effet peut être cumulé 3 fois au maximum.",
+        "pt": "Aumenta o dano causado por Sobrecarga e Queimadura em 40%, aumenta o dano causado pela Vaporização e Fusão em 15%. Ao usar a Habilidade Elemental aumenta os efeitos do Conjunto de 2 Peças em 50% por 10s. Pode acumular até 3x.",
+        "ru": "Увеличивает урон статусов Перегрузка и Горение на 40%, а урон статусов Пар и Таяние - на 15%. Использование элементального навыка увеличивает эффекты набора из двух вещей на 50% в течение 10 сек. Может складываться до 3 раз.",
+        "id": "Meningkatkan 40% DMG Overloaded dan Burning. Meningkatkan 15% DMG Vaporize dan Melt. Setelah menggunakan Elemental Skill, meningkatkan 50% efek 2-Piece Set selama 10 detik. Maksimum 3 lapis.",
+        "th": "ความเสียหายโอเวอร์โหลด, การติดไฟเพิ่มขึ้น 40% ความเสียหายระเหย, ละลายเพิ่มขึ้น 15% เอฟเฟกต์เซ็ต 2 ชิ้นเพิ่มขึ้น 50% ภายใน 10 วินาทีหลังจากการใช้สกิลธาตุ ซึ่งเอฟเฟกต์นี้จะซ้อนทับได้สูงสุด 3 ครั้ง",
+        "vi": "Sát thương phản ứng Quá Tải, Thiêu Đốt gây ra tăng 40%, phản ứng Bốc Hơi, Tan Chảy tăng hệ số buff 15%. 10s sau khi thi triển kỹ năng Nguyên Tố, hiệu quả của 2 món tăng 50%. Hiệu quả này tối đa cộng dồn 3 lần."
+      }
+    ]
+  },
+  {
+    "SetId": 15007,
+    "ContainsList": [
+      81340,
+      81320,
+      81350,
+      81310,
+      81330
+    ],
+    "name": {
+      "zhs": "昔日宗室之仪",
+      "zht": "昔日宗室之儀",
+      "jp": "旧貴族のしつけ",
+      "ko": "옛 왕실의 의식",
+      "en": "Noblesse Oblige",
+      "de": "Altes Hofritual",
+      "es": "Ritual Antiguo de la Nobleza",
+      "fr": "Ancien rituel royal",
+      "pt": "Antigo Ritual Real",
+      "ru": "Церемония древней знати",
+      "id": "Noblesse Oblige",
+      "th": "Noblesse Oblige",
+      "vi": "Nghi Thức Tông Thất Cổ"
+    },
+    "descriptions": [
+      {
+        "zhs": "元素爆发造成的伤害提升20%。",
+        "zht": "元素爆發造成的傷害提升20%。",
+        "jp": "元素爆発のダメージ+20%。",
+        "ko": "원소폭발로 가하는 피해가 20% 증가한다",
+        "en": "Elemental Burst DMG +20%",
+        "de": "Erhöht den mit Spezialfähigkeiten verursachten Schaden um 20 %.",
+        "es": "Daño de Habilidad Definitiva +20%.",
+        "fr": "Augmente les DGT infligés par le déchaînement élémentaire de 20 %.",
+        "pt": "Dano do Supremo +20%",
+        "ru": "Увеличивает урон взрыва стихии на 20%.",
+        "id": "Meningkatkan 20% DMG Elemental Burst.",
+        "th": "ความเสียหายของท่าไม้ตายเพิ่มขึ้น 20%",
+        "vi": "Sát thương Kỹ Năng Nộ tạo thành tăng 20%."
+      },
+      {
+        "zhs": "施放元素爆发后，队伍中所有角色攻击力提升20%，持续12秒。该效果不可叠加。",
+        "zht": "施放元素爆發後，隊伍中所有角色攻擊力提升20%，持續12秒。該效果不可疊加。",
+        "jp": "元素爆発を発動すると、チーム全員の攻撃力+20%、継続時間12秒、重ねがけ不可。",
+        "ko": "원소폭발 발동 후 파티 내 모든 캐릭터의 공격력이 20% 증가한다. 지속 시간: 12초. 해당 효과는 중첩되지 않는다",
+        "en": "Using an Elemental Burst increases all party members' ATK by 20% for 12s. This effect cannot stack.",
+        "de": "Erhöht den ANG aller Truppenmitglieder nach Anwendung von Spezialfähigkeiten 12 s lang um 20 %, nicht stapelbar.",
+        "es": "Después de lanzar una Habilidad Definitiva, aumenta el ATQ de todos los miembros del equipo en un 20% durante 12 s. Este efecto no puede acumularse.",
+        "fr": "Augmente l'ATQ de tous les personnages de l'équipe de 20 % pendant 12 s après un déchaînement élémentaire. Cet effet est non cumulable.",
+        "pt": "Usar o Supremo aumenta o ATQ de todos os membros da equipe em 20% por 12s. Este efeito não pode ser acumulado.",
+        "ru": "Активация взрыва стихии увеличивает силу атаки всех членов отряда на 20% в течение 12 сек. Эффект не складывается.",
+        "id": "Setelah melancarkan Elemental Burst, meningkatkan 20% ATK semua anggota party selama 12 detik. Efek ini tidak dapat ditumpuk.",
+        "th": "หลังจากใช้ท่าไม้ตาย เพิ่มพลังโจมตีของตัวละครทั้งหมดในทีม 20% เป็นเวลา 12 วิ โดยเอฟเฟกต์นี้จะไม่สามารถซ้อนทับได้",
+        "vi": "Sau khi thi triển kỹ năng nộ, tấn công cả đội tăng 20%, kéo dài 12s, hiệu quả này không cộng dồn."
+      }
+    ]
+  },
+  {
+    "SetId": 15008,
+    "ContainsList": [
+      82340,
+      82320,
+      82350,
+      82310,
+      82330
+    ],
+    "name": {
+      "zhs": "染血的骑士道",
+      "zht": "染血的騎士道",
+      "jp": "血染めの騎士道",
+      "ko": "피에 물든 기사도",
+      "en": "Bloodstained Chivalry",
+      "de": "Blutiger Weg eines Ritters",
+      "es": "Caballería Sanguinaria",
+      "fr": "Chevalerie ensanglantée",
+      "pt": "Cavaleiro Manchado de Sangue",
+      "ru": "Рыцарь крови",
+      "id": "Bloodstained Chivalry",
+      "th": "Bloodstained Chivalry",
+      "vi": "Kỵ Sĩ Đạo Nhuốm Máu"
+    },
+    "descriptions": [
+      {
+        "zhs": "造成的物理伤害提高25%。",
+        "zht": "造成的物理傷害提高25%。",
+        "jp": "物理ダメージ+25%。",
+        "ko": "가하는 물리 피해가 25% 증가한다",
+        "en": "Physical DMG +25%",
+        "de": "Erhöht den verursachten physischen Schaden um 25 %.",
+        "es": "Daño Físico +25%.",
+        "fr": "Augmente les DGT physiques de 25 %.",
+        "pt": "Dano Físico causado +25%",
+        "ru": "Увеличивает физ. урон на 25%.",
+        "id": "Meningkatkan 25% Physical DMG.",
+        "th": "สร้างความเสียหายกายภาพ เพิ่มขึ้น 25%",
+        "vi": "Sát thương vật lý tạo thành tăng 25%."
+      },
+      {
+        "zhs": "击败敌人后的10秒内，施放重击时不消耗体力，且重击造成的伤害提升50%。",
+        "zht": "擊敗敵人後的10秒內，施放重擊時不消耗體力，且重擊造成的傷害提升50%。",
+        "jp": "敵を倒した後の10秒間、重撃の際にスタミナを消費しない。また、重撃のダメージ+50%。",
+        "ko": "적을 처치한 후 10초 동안 강공격 사용 시 스태미나를 소모하지 않고 강공격으로 가하는 피해가 50% 증가한다",
+        "en": "After defeating an opponent, increases Charged Attack DMG by 50%, and reduces its Stamina cost to 0 for 10s.",
+        "de": "Verbraucht beim Besiegen von Gegnern 10 s lang für die Anwendung von heftigen Schlägen keine Ausdauer und erhöht den mit heftigen Schlägen verursachten Schaden um 50 %.",
+        "es": "Derrotar a un enemigo hace que no consumas Aguante al lanzar un Ataque Cargado, y que el daño de Ataque Cargado aumente en un 50% durante 10 s.",
+        "fr": "L'utilisation d'attaques chargées ne consomme pas l'endurance pendant 10 s après la défaite d'un ennemi, et ces dernières infligent 50 % de DGT supplémentaires.",
+        "pt": "Após derrotar um oponente, aumenta o Dano do Ataque Carregado em 50% e reduz seu custo de Stamina para 0 por 10s.",
+        "ru": "После победы над противником увеличивает урон заряженной атаки на 50% и обнуляет стоимость выносливости заряженной атаки на 10 сек.",
+        "id": "Dalam 10 detik setelah mengalahkan musuh, meningkatkan 50% DMG Charged Attack dan mengurangi konsumsi Stamina Charged Attack menjadi 0.",
+        "th": "หลังจากกำจัดศัตรูสำเร็จ จะเพิ่มความเสียหายของ การชาร์จโจมตีขึ้น 50% และลดการใช้พลังกายของชาร์จโจมตีลงเป็น 0 เป็นเวลา 10 วินาที",
+        "vi": "Trong 10s sau khi đánh bại kẻ địch, khi thi triển trọng kích không tiêu hao thể lực, và sát thương trọng kích tạo thành tăng 50%."
+      }
+    ]
+  },
+  {
+    "SetId": 15009,
+    "ContainsList": [
+      83330
+    ],
+    "name": {
+      "zhs": "祭火之人",
+      "zht": "祭火之人",
+      "jp": "火祭りの人",
+      "ko": "불을 모시는 자",
+      "en": "Prayers for Illumination",
+      "de": "Feueropfer",
+      "es": "Ritual de la Iluminación",
+      "fr": "Sacrifieur Pyro",
+      "pt": "Xamã do Ritual Pyro",
+      "ru": "Шаман огня",
+      "id": "Prayers for Illumination",
+      "th": "Prayers for Illumination",
+      "vi": "Người Tế Hỏa"
+    },
+    "descriptions": [
+      {
+        "zhs": "受到的火元素附着效果的持续时间减少40%。",
+        "zht": "受到的火元素附著效果的持續時間減少40%。",
+        "jp": "キャラが受けた炎元素付着の効果継続時間-40%。",
+        "ko": "받는 불 원소 부착 효과 지속 시간이 40% 감소한다",
+        "en": "Affected by Pyro for 40% less time.",
+        "de": "Verringert die Dauer der Beeinträchtigung durch zusätzliches Pyro-Attribut um 40 %.",
+        "es": "Los efectos de Pyro causados sobre ti duran un 40% menos.",
+        "fr": "Réduit la durée des effets Pyro subis de 40 %.",
+        "pt": "Reduz a duração dos efeitos causados por Pyro em 40%.",
+        "ru": "Уменьшает длительность полученного Пиро эффекта на 40%.",
+        "id": "Mengurangi 40% durasi efek Pyro yang diterima.",
+        "th": "ลดระยะเวลาต่อเนื่องจาก ผลกระทบธาตุไฟลง 40%",
+        "vi": "Thời gian duy trì hiệu quả nguyên tố Hỏa kèm theo giảm 40%."
+      }
+    ]
+  },
+  {
+    "SetId": 15010,
+    "ContainsList": [
+      84330
+    ],
+    "name": {
+      "zhs": "祭水之人",
+      "zht": "祭水之人",
+      "jp": "水祭りの人",
+      "ko": "물을 모시는 자",
+      "en": "Prayers for Destiny",
+      "de": "Wasseropfer",
+      "es": "Ritual del Destino",
+      "fr": "Sacrifieur Hydro",
+      "pt": "Orações para o Destino",
+      "ru": "Шаман воды",
+      "id": "Prayers for Destiny",
+      "th": "Prayers for Destiny",
+      "vi": "Người Tế Thủy"
+    },
+    "descriptions": [
+      {
+        "zhs": "受到的水元素附着效果的持续时间减少40%。",
+        "zht": "受到的水元素附著效果的持續時間減少40%。",
+        "jp": "受けた水元素付着の効果継続時間-40%。",
+        "ko": "받는 물 원소 부착 효과 지속 시간이 40% 감소한다",
+        "en": "Affected by Hydro for 40% less time.",
+        "de": "Verringert die Dauer der Beeinträchtigung durch zusätzliches Hydro-Attribut um 40 %.",
+        "es": "Los efectos de Hydro causados sobre ti duran un 40% menos.",
+        "fr": "Réduit la durée des effets Hydro subis de 40 %.",
+        "pt": "Reduz a duração dos efeitos causados por Hydro em 40%.",
+        "ru": "Уменьшает длительность полученного Гидро эффекта на 40%.",
+        "id": "Mengurangi 40% durasi efek Hydro yang diterima.",
+        "th": "ลดระยะเวลาต่อเนื่องจาก ผลกระทบธาตุน้ำลง 40%",
+        "vi": "Thời gian duy trì hiệu quả nguyên tố Thủy kèm theo giảm 40%."
+      }
+    ]
+  },
+  {
+    "SetId": 15011,
+    "ContainsList": [
+      85330
+    ],
+    "name": {
+      "zhs": "祭雷之人",
+      "zht": "祭雷之人",
+      "jp": "雷祭りの人",
+      "ko": "뇌명을 모시는 자",
+      "en": "Prayers for Wisdom",
+      "de": "Blitzopfer",
+      "es": "Ritual de la Sabiduría",
+      "fr": "Sacrifieur Électro",
+      "pt": "Xamã do Ritual Electro",
+      "ru": "Шаман молнии",
+      "id": "Prayers for Wisdom",
+      "th": "Prayers for Wisdom",
+      "vi": "Người Tế Lôi"
+    },
+    "descriptions": [
+      {
+        "zhs": "受到的雷元素附着效果的持续时间减少40%。",
+        "zht": "受到的雷元素附著效果的持續時間減少40%。",
+        "jp": "受けた雷元素付着の効果継続時間-40%。",
+        "ko": "받는 번개 원소 부착 효과 지속 시간이 40% 감소한다",
+        "en": "Affected by Electro for 40% less time.",
+        "de": "Verringert die Dauer der Beeinträchtigung durch zusätzliches Elektro-Attribut um 40 %.",
+        "es": "Los efectos de Electro causados sobre ti duran un 40% menos.",
+        "fr": "Réduit la durée des effets Électro subis de 40 %.",
+        "pt": "Reduz a duração dos efeitos causados por Electro em 40%.",
+        "ru": "Уменьшает длительность полученного Электро эффекта на 40%.",
+        "id": "Mengurangi 40% durasi efek Electro yang diterima.",
+        "th": "ลดระยะเวลาต่อเนื่องจาก ผลกระทบธาตุไฟฟ้าลง 40%",
+        "vi": "Thời gian duy trì hiệu quả nguyên tố Lôi kèm theo giảm 40%."
+      }
+    ]
+  },
+  {
+    "SetId": 15012,
+    "ContainsList": [
+      86330
+    ],
+    "name": {
+      "zhs": "祭风之人",
+      "zht": "祭風之人",
+      "jp": "風祭りの人",
+      "ko": "바람을 모시는 자",
+      "en": "Prayers to the Firmament",
+      "de": "Windopfer",
+      "es": "Ritual del Firmamento",
+      "fr": "Sacrifieur Anémo",
+      "pt": "Xamã do Ritual Anemo",
+      "ru": "Шаман ветра",
+      "id": "Prayers to the Firmament",
+      "th": "Prayers to the Firmament",
+      "vi": "Người Tế Phong"
+    },
+    "descriptions": [
+      {
+        "zhs": "受到的风元素附着效果的持续时间减少40%。",
+        "zht": "受到的風元素附著效果的持續時間減少40%。",
+        "jp": "受けた風元素付着の効果継続時間-40%。",
+        "ko": "받는 바람 원소 부착 효과 지속 시간이 40% 감소한다",
+        "en": "Affected by Anemo for 40% less time.",
+        "de": "Verringert die Dauer der Beeinträchtigung durch zusätzliches Anemo-Attribut um 40 %.",
+        "es": "Los efectos de Anemo causados sobre ti duran un 40% menos.",
+        "fr": "Réduit la durée des effets Anémo subis de 40 %.",
+        "pt": "Reduz a duração dos efeitos causados por Anemo em 40%.",
+        "ru": "Уменьшает длительность полученного Анемо эффекта на 40%.",
+        "id": "Mengurangi 40% durasi efek Anemo yang diterima.",
+        "th": "ลดระยะเวลาต่อเนื่องจาก ผลกระทบธาตุลมลง 40%",
+        "vi": "Thời gian duy trì hiệu quả nguyên tố Phong kèm theo giảm 40%."
+      }
+    ]
+  },
+  {
+    "SetId": 15013,
+    "ContainsList": [
+      87330
+    ],
+    "name": {
+      "zhs": "祭冰之人",
+      "zht": "祭冰之人",
+      "jp": "氷祭りの人",
+      "ko": "얼음을 모시는 자",
+      "en": "Prayers to Springtime",
+      "de": "Eisopfer",
+      "es": "Ritual de la Primavera",
+      "fr": "Sacrifieur Cryo",
+      "pt": "Orações para a Primavera",
+      "ru": "Шаман льда",
+      "id": "Prayers to Springtime",
+      "th": "Prayers to Springtime",
+      "vi": "Người Tế Băng"
+    },
+    "descriptions": [
+      {
+        "zhs": "受到的冰元素附着效果的持续时间减少40%。",
+        "zht": "受到的冰元素附著效果的持續時間減少40%。",
+        "jp": "受けた氷元素付着の効果継続時間-40%。",
+        "ko": "받는 얼음 원소 부착 효과 지속 시간이 40% 감소한다",
+        "en": "Affected by Cryo for 40% less time.",
+        "de": "Verringert die Dauer der Beeinträchtigung durch zusätzliches Kryo-Attribut um 40 %.",
+        "es": "Los efectos de Cryo causados sobre ti duran un 40% menos.",
+        "fr": "Réduit la durée des effets Cryo subis de 40 %.",
+        "pt": "Reduz a duração dos efeitos causados por Cryo em 40%.",
+        "ru": "Уменьшает длительность полученного Крио эффекта на 40%.",
+        "id": "Mengurangi 40% durasi efek Cryo yang diterima.",
+        "th": "ลดระยะเวลาต่อเนื่องจาก ผลกระทบธาตุน้ำแข็งลง 40%",
+        "vi": "Thời gian duy trì hiệu quả nguyên tố Băng kèm theo giảm 40%."
+      }
+    ]
+  },
+  {
+    "SetId": 15014,
+    "ContainsList": [
+      88340,
+      88320,
+      88350,
+      88310,
+      88330
+    ],
+    "name": {
+      "zhs": "悠古的磐岩",
+      "zht": "悠古的磐岩",
+      "jp": "悠久の磐岩",
+      "ko": "유구한 반암",
+      "en": "Archaic Petra",
+      "de": "Archaischer Fels",
+      "es": "Petra Arcaica",
+      "fr": "Roche ancienne",
+      "pt": "Pedra Arcaica",
+      "ru": "Архаичный камень",
+      "id": "Archaic Petra",
+      "th": "Archaic Petra",
+      "vi": "Phiến Đá Lâu Đời"
+    },
+    "descriptions": [
+      {
+        "zhs": "获得15%岩元素伤害加成。",
+        "zht": "獲得15%岩元素傷害加成。",
+        "jp": "岩元素ダメージ+15%。",
+        "ko": "바위 원소 피해 보너스를 15% 획득한다",
+        "en": "Gain a 15% Geo DMG Bonus.",
+        "de": "Erhöht den Geo-Schaden um 15 %.",
+        "es": "Bono de Daño Geo +15%.",
+        "fr": "Confère un bonus de DGT Géo de 15 %",
+        "pt": "Obtém 15% de Bônus de Dano Geo.",
+        "ru": "Увеличивает бонус Гео урона на 15%.",
+        "id": "Geo DMG Bonus +15%.",
+        "th": "ได้รับโบนัสความเสียหายหิน 15%",
+        "vi": "Nhận 15% buff sát thương nguyên tố Nham."
+      },
+      {
+        "zhs": "获得结晶反应形成的晶片时，队伍中所有角色获得35%对应元素伤害加成，持续10秒。同时只能通过该效果获得一种元素伤害加成。",
+        "zht": "獲得結晶反應形成的晶片時，隊伍中所有角色獲得35%對應元素傷害加成，持續10秒。同時只能通過該效果獲得一種元素傷害加成。",
+        "jp": "結晶反応で形成された欠片を獲得すると、チーム全員の該当元素ダメージ+35%、継続時間10秒。元素ダメージアップは同時に1種類のみ獲得可能。",
+        "ko": "결정 반응으로 만들어진 결정을 획득 시 파티 내 모든 캐릭터는 해당 원소 피해 보너스를 35% 획득한다. 지속 시간: 10초. 이러한 효과로 1가지의 원소 피해 보너스만 획득할 수 있다",
+        "en": "Upon obtaining an Elemental Shard created through a Crystallize Reaction, all party members gain a 35% DMG Bonus for that particular element for 10s. Only one form of Elemental DMG Bonus can be gained in this manner at any one time.",
+        "de": "Erhöht beim Erschaffen von Splittern durch eine Kristallisationsreaktion den mit dem jeweiligen Element verursachen Schaden aller Truppenmitglieder 10 s lang um 35 %. Zu einem Zeitpunkt kann nur ein SCH-Bonus aufgrund dieses Effekts bestehen.",
+        "es": "Al obtener un cristal creado a través de la reacción de Cristalización, todos los miembros del equipo obtienen durante 10 s un 35% de Bono de Daño Elemental del elemento que causó dicha reacción. Solo se puede obtener un tipo de Bono de Daño Elemental a la vez.",
+        "fr": "Lorsque vous obtenez un cristal issu d'une Cristallisation, tous les personnages de l'équipe reçoivent un bonus de DGT du second élément de la réaction de 35 % pendant 10 s. Cet effet ne peut s'appliquer qu'à un seul élément à la fois.",
+        "pt": "Ao obter um Fragmento Elemental por meio de uma Reação de Cristalização, todos os personagens na equipe ganham 35% de DMG para esse elemento em particular por 10s. Somente uma forma de Dano Elemental pode ser obtida dessa maneira a qualquer momento.",
+        "ru": "Подобранный элементальный осколок, образованный реакцией Кристалл, увеличивает бонус элементального урона соответствующего элемента всех членов отряда на 35% в течение 10 сек. Одновременно можно иметь бонус урона только одного элемента.",
+        "id": "Saat memperoleh Elemental Shard yang terbentuk dari Reaksi Elemental Crystallize, seluruh anggota party memperoleh 35% peningkatan Elemental DMG terhadap elemen tersebut selama 10 detik. Hanya satu jenis Elemental DMG dapat diperoleh dengan cara ini.",
+        "th": "เมื่อได้รับเศษเสี้ยวที่เกิดจากปฏิกิริยาตกผลึก ตัวละครทั้งหมดในทีมจะได้รับโบนัสความเสียหายของธาตุที่เกี่ยวข้อง 35% เป็นเวลา 10 วินาที โดยจะได้รับบัฟเพิ่มความเสียหายธาตุดังกล่าวนี้ได้ทีละหนึ่งธาตุเท่านั้น",
+        "vi": "Khi nhận được mảnh kết tinh do phản ứng Kết Tinh hình thành, tất cả thành viên đội sẽ được tăng 35% sát thương nguyên tố tương ứng, duy trì 10 giây. Chỉ được nhận một loại tăng sát thương nguyên tố cùng lúc."
+      }
+    ]
+  },
+  {
+    "SetId": 15015,
+    "ContainsList": [
+      89340,
+      89320,
+      89350,
+      89310,
+      89330
+    ],
+    "name": {
+      "zhs": "逆飞的流星",
+      "zht": "逆飛的流星",
+      "jp": "逆飛びの流星",
+      "ko": "날아오르는 유성",
+      "en": "Retracing Bolide",
+      "de": "Umgekehrter Meteor",
+      "es": "Retroceso del Meteorito",
+      "fr": "Météore inversé",
+      "pt": "Meteoro Invertido",
+      "ru": "Встречная комета",
+      "id": "Retracing Bolide",
+      "th": "Retracing Bolide",
+      "vi": "Sao Băng Bay Ngược"
+    },
+    "descriptions": [
+      {
+        "zhs": "护盾强效提高35%。",
+        "zht": "護盾強效提高35%。",
+        "jp": "シールド強化+35%",
+        "ko": "보호막 강화 효과+35%",
+        "en": "Increases Shield Strength by 35%.",
+        "de": "Erhöht die Schildeffizienz um 35 %.",
+        "es": "Protección de Escudo +35%.",
+        "fr": "Augmente la force du bouclier de 35 %.",
+        "pt": "Aumenta a efetividade de escudos em 35%",
+        "ru": "Увеличивает прочность щита на 35%.",
+        "id": "Meningkatkan 35% kekuatan perisai.",
+        "th": "เพิ่มประสิทธิภาพ โล่ป้องกัน 35%",
+        "vi": "Hiệu quả khiên tăng 35%"
+      },
+      {
+        "zhs": "处于护盾庇护下时，额外获得40%普通攻击和重击伤害加成。",
+        "zht": "處於護盾庇護下時，額外獲得40%普通攻擊和重擊傷害加成。",
+        "jp": "シールド状態の時、通常攻撃と重撃ダメージ+40%。",
+        "ko": "보호막이 존재 시 추가로 일반 공격과 강공격 보너스를 40% 획득한다",
+        "en": "While protected by a shield, gain an additional 40% Normal and Charged Attack DMG.",
+        "de": "Erhöht den Schaden von Standardangriffen und heftigen Schlägen bei aktivem Schild zusätzlich um 40 %.",
+        "es": "Los Ataque Normales y Cargados obtienen un 40% de daño adicional mientras estés bajo la protección de un escudo.",
+        "fr": "Les attaques normales et chargées infligent un bonus de 40 % de DGT lorsque le personnage est sous la protection d'un bouclier.",
+        "pt": "Ganha um adicional de 40% de Dano Normal e Carregado enquanto estiver sob a proteção de um escudo.",
+        "ru": "Под защитой щита увеличивает урон обычной и заряженной атаки на 40%.",
+        "id": "Meningkatkan 40% Normal dan Charged Attack saat perisai aktif.",
+        "th": "เมื่อได้รับการป้องกันจาก โล่ การโจมตีปกติ และชาร์จโจมตี สร้างความเสียหาย เพิ่มขึ้น 40%",
+        "vi": "Khi được khiên bảo vệ, nhận thêm 40% tăng sát thương của tấn công thường và trọng kích."
+      }
+    ]
+  },
+  {
+    "SetId": 15016,
+    "ContainsList": [
+      90340,
+      90320,
+      90350,
+      90310,
+      90330
+    ],
+    "name": {
+      "zhs": "沉沦之心",
+      "zht": "沉淪之心",
+      "jp": "沈淪の心",
+      "ko": "몰락한 마음",
+      "en": "Heart of Depth",
+      "de": "Tief im Herzen",
+      "es": "Corazón de las Profundidades",
+      "fr": "Âme des profondeurs",
+      "pt": "Profundezas do Coração",
+      "ru": "Сердце глубин",
+      "id": "Heart of Depth",
+      "th": "Heart of Depth",
+      "vi": "Trái Tim Trầm Luân"
+    },
+    "descriptions": [
+      {
+        "zhs": "获得15%水元素伤害加成。",
+        "zht": "獲得15%水元素傷害加成。",
+        "jp": "水元素ダメージ+15%。",
+        "ko": "물 원소 피해+15%",
+        "en": "Hydro DMG Bonus +15%",
+        "de": "Erhöht den Hydro-Schaden um 15 %.",
+        "es": "Bono de Daño Hydro +15%.",
+        "fr": "Confère un bonus de DGT Hydro de 15 %.",
+        "pt": "Bônus de Dano Hydro +15%",
+        "ru": "Увеличивает бонус Гидро урона на 15%.",
+        "id": "Hydro DMG Bonus +15%.",
+        "th": "ได้รับโบนัสความเสียหายน้ำ 15%",
+        "vi": "Nhận 15% buff sát thương nguyên tố Thủy."
+      },
+      {
+        "zhs": "施放元素战技后的15秒内，普通攻击与重击造成的伤害提高30%。",
+        "zht": "施放元素戰技後的15秒內，普通攻擊與重擊造成的傷害提高30%。",
+        "jp": "元素スキルを発動した後の15秒間、通常攻撃と重撃のダメージ+30%。",
+        "ko": "원소전투 스킬 발동 후 15초 동안 일반 공격과 강공격으로 가하는 피해가 30% 증가한다",
+        "en": "After using Elemental Skill, increases Normal Attack and Charged Attack DMG by 30% for 15s.",
+        "de": "Erhöht den mit Standardangriffen und heftigen Schlägen verursachten Schaden nach Anwendung von Elementarfähigkeiten 15 s lang um 30 %.",
+        "es": "Tras usar la Habilidad Elemental, aumenta el daño de Ataque Normal y Ataque Cargado en un 30% durante 15 s.",
+        "fr": "Augmente les DGT infligés par les attaques normales et chargées de 30 % pendant 15 s après l'utilisation d'une compétence élémentaire.",
+        "pt": "Após usar uma Habilidade Elemental, aumenta o Dano do Ataque Normal e Carregado em 30% por 15s.",
+        "ru": "Увеличивает урон обычной и заряженной атаки на 30% в течение 15 сек. после использования элементального навыка.",
+        "id": "Setelah melancarkan Elemental Skill, meningkatkan 30% DMG Normal dan Charged Attack selama 15 detik.",
+        "th": "ภายใน 15 วินาที หลังจากใช้สกิลธาตุ ความเสียหายของการโจมตีปกติ และการชาร์จโจมตีจะเพิ่มขึ้น 30%",
+        "vi": "Trong 15s sau khi sử dụng kỹ năng Nguyên Tố, tấn công thường và trọng kích tăng 30% sát thương."
+      }
+    ]
+  },
+  {
+    "SetId": 15017,
+    "ContainsList": [
+      91340,
+      91320,
+      91350,
+      91310,
+      91330
+    ],
+    "name": {
+      "zhs": "千岩牢固",
+      "zht": "千岩牢固",
+      "jp": "千岩牢固",
+      "ko": "견고한 천암",
+      "en": "Tenacity of the Millelith",
+      "de": "Zähigkeit der Millelithen",
+      "es": "Tenacidad de la Geoarmada",
+      "fr": "Ténacité du Millelithe",
+      "pt": "Millelith Firmes",
+      "ru": "Стойкость Миллелита",
+      "id": "Tenacity of the Millelith",
+      "th": "Tenacity of the Millelith",
+      "vi": "Thiên Nham Vững Chắc"
+    },
+    "descriptions": [
+      {
+        "zhs": "生命值提升20%",
+        "zht": "生命值提升20%",
+        "jp": "HP+20%。",
+        "ko": "HP가 20% 증가한다",
+        "en": "HP increased by 20%.",
+        "de": "Erhöht die LP um 20 %.",
+        "es": "Vida +20%.",
+        "fr": "Les PV sont augmentés de 20 %.",
+        "pt": "Aumenta a Vida em 20%",
+        "ru": "Увеличивает НР на 20%",
+        "id": "HP +20%",
+        "th": "พลังชีวิตเพิ่มขึ้น 20%",
+        "vi": "HP tăng 20%"
+      },
+      {
+        "zhs": "元素战技命中敌人后，使队伍中附近的所有角色攻击力提升20%，护盾强效提升30%，持续3秒。该效果每0.5秒至多触发一次。装备此圣遗物套装的角色处于队伍后台时，依然能触发该效果。",
+        "zht": "元素戰技命中敵人後，使隊伍中附近的所有角色攻擊力提升20%，護盾強效提升30%，持續3秒。該效果每0.5秒至多觸發一次。裝備此聖遺物套裝的角色處於隊伍後台時，依然能觸發該效果。",
+        "jp": "元素スキルが敵に命中すると、周囲のチーム全員の攻撃力+20%、シールド強化+30%、持続時間3秒。この効果は0.5秒毎に1回のみ発動可能。この聖遺物セットを装備したキャラクターが待機している場合にも効果を発動できる。",
+        "ko": "원소전투 스킬이 적을 명중하면 파티 내 주변 모든 캐릭터의 공격력이 20% 증가하고, 보호막 강화 효과가 30% 증가한다. 지속 시간: 3초. 해당 효과는 0.5초마다 최대 1회 발동되며, 해당 성유물을 장착 한 캐릭터가 대기 상태 일 때도 발동된다",
+        "en": "When an Elemental Skill hits an opponent, the ATK of all nearby party members is increased by 20% and their Shield Strength is increased by 30% for 3s. This effect can be triggered once every 0.5s. This effect can still be triggered even when the character who is using this artifact set is not on the field.",
+        "de": "Erhöht beim Treffen von Gegnern mit Elementarfähigkeiten den ANG aller Truppenmitglieder in der Nähe um 20 % sowie die Schildeffizienz um 30 %, hält 3 s, 0,5 s Abklingzeit. Die Figur mit diesem Artefaktset kann diesen Effekt auch auslösen, wenn sie inaktiv in der Truppe ist.",
+        "es": "Cuando una Habilidad Elemental golpea a un enemigo, el ATQ de todos los personajes del equipo cercanos aumenta en un 20% y su Protección de Escudo aumenta en un 30% durante 3 s. Este efecto puede tener lugar cada 0.5 s y se activa incluso cuando el personaje que lleva equipado este conjunto de artefactos está en tu equipo pero no en combate.",
+        "fr": "Lorsqu'une compétence élémentaire touche un ennemi, l'ATQ de tous les personnages de l'équipe à proximité augmente de 20 % et la force de leur bouclier augmente de 30 % pendant 3 s. Cet effet peut être déclenché une fois toutes les 0,5 s, même si le personnage équipé de ce set d'artéfacts fait partie de l'équipe mais n'est pas déployé.",
+        "pt": "Quando a Habilidade Elemental atinge um oponente, o ATQ de todos os membros da equipe próximos aumenta em 20% e sua Força do Escudo aumenta em 30% por 3s. Esse efeito pode ser ativado uma vez a cada 0,5s. Esse efeito ainda pode ser ativado mesmo quando o personagem que está usando esse conjunto de artefatos não está em campo.",
+        "ru": "Когда элементальный навык попадает по врагам, атака всех находящихся поблизости персонажей в отряде, увеличивается на 20%, а прочность их щита увеличивается на 30%. Эффект длится 3 сек. и может возникнуть 1 раз в 0,5 сек. Этот эффект может быть активирован, даже если персонаж, экипированный этим набором артефактов, не находится на поле боя.",
+        "id": "Saat Elemental Skill mengenai musuh, meningkatkan 20% ATK dan 30% kekuatan perisai seluruh anggota party di sekitar selama 3 detik. Efek ini hanya dapat terpicu setiap 0,5 detik. Efek tetap dapat terpicu meskipun Karakter yang mengenakan set Artefak ini tidak berada di medan pertempuran.",
+        "th": "เมื่อสกิลธาตุโจมตีโดนศัตรู จะเพิ่มโบนัสพลังโจมตีของตัวละครในทีมที่อยู่ใกล้เคียงขึ้น 20% และเพิ่มประสิทธิภาพโล่ป้องกันขึ้น 30% ต่อเนื่อง 3 วินาที เอฟเฟกต์นี้จะเกิดขึ้นหนึ่งครั้งในทุก 0.5 วินาที เอฟเฟกต์นี้สามารถเกิดขึ้นได้แม้ตัวละครที่สวมใส่เซ็ตอาร์ติแฟกต์นี้อยู่ในทีมแต่ไม่ได้เข้าร่วมการต่อสู้แล้ว",
+        "vi": "Sau khi Kỹ Năng Nguyên Tố đánh trúng địch, sẽ tăng 20% tấn công cho tất cả nhân vật trong đội ở gần, tăng 30% hiệu quả Khiên, kéo dài 3s. Hiệu quả này mỗi 0.5s tối đa kích hoạt 1 lần. Khi nhân vật trang bị bộ Thánh Di Vật này ở trong đội nhưng không ra trận, vẫn có thể kích hoạt hiệu quả này."
+      }
+    ]
+  },
+  {
+    "SetId": 15018,
+    "ContainsList": [
+      92340,
+      92320,
+      92350,
+      92310,
+      92330
+    ],
+    "name": {
+      "zhs": "苍白之火",
+      "zht": "蒼白之火",
+      "jp": "蒼白の炎",
+      "ko": "창백의 화염",
+      "en": "Pale Flame",
+      "de": "Fahle Flammen",
+      "es": "Llamas Albinas",
+      "fr": "Flamme blême",
+      "pt": "Chama Pálida",
+      "ru": "Бледный огонь",
+      "id": "Pale Flame",
+      "th": "Pale Flame",
+      "vi": "Lửa Trắng Xám"
+    },
+    "descriptions": [
+      {
+        "zhs": "造成的物理伤害提高25%。",
+        "zht": "造成的物理傷害提高25%。",
+        "jp": "物理ダメージ+25%。",
+        "ko": "가하는 물리 피해가 25% 증가한다",
+        "en": "Physical DMG is increased by 25%.",
+        "de": "Erhöht den verursachten physischen Schaden um 25 %.",
+        "es": "Daño Físico +25%.",
+        "fr": "Augmente les DGT physiques de 25 %.",
+        "pt": "Dano Físico causado +25%",
+        "ru": "Увеличивает физ. урон на 25%.",
+        "id": "Meningkatkan 25% Physical DMG.",
+        "th": "สร้างความเสียหายกายภาพ เพิ่มขึ้น 25%",
+        "vi": "Sát thương vật lý tạo thành tăng 25%."
+      },
+      {
+        "zhs": "元素战技命中敌人后，攻击力提升9%。该效果持续7秒，至多叠加2层，每0.3秒至多触发一次。叠满2层时，2件套的效果提升100%。",
+        "zht": "元素戰技命中敵人後，攻擊力提升9%。該效果持續7秒，至多疊加兩層，每0.3秒至多觸發一次。疊滿兩層時，2件套裝的效果提升100%。",
+        "jp": "元素スキルが敵に命中すると、攻撃力+9%。持続時間7秒、最大2重まで、0.3秒毎に1回のみ発動可能。2重まで重ねると、2セットの効果が2倍になる。",
+        "ko": "원소전투 스킬로 적을 명중하면 공격력이 9% 증가한다. 지속 시간: 7초, 최대 중첩수: 2회. 해당 효과는 0.3초마다 1회 발동되며, 2회 중첩 시 2세트의 효과가 100% 증가한다",
+        "en": "When an Elemental Skill hits an opponent, ATK is increased by 9% for 7s. This effect stacks up to 2 times and can be triggered once every 0.3s. Once 2 stacks are reached, the 2-set effect is increased by 100%.",
+        "de": "Erhöht den ANG beim Treffen von Gegnern mit Elementarfähigkeiten 7 s lang um 9 %, 2-fach stapelbar. 0,3 s Abklingzeit. Erhöht den Effekt des Sets mit 2 Teilen beim Erreichen des Limits von 2 Stapelungen um 100 %.",
+        "es": "Al atacar a un enemigo con una Habilidad Elemental, el ATQ aumenta en un 9% durante 7 s. Este efecto puede acumularse hasta 2 veces y activarse cada 0.3 s. Al alcanzar 2 acumulaciones, el efecto de dos piezas del conjunto aumenta en un 100%.",
+        "fr": "Lorsqu'une compétence élémentaire touche un ennemi, l'ATQ augmente de 9 % pendant 7 s. Cet effet peut être cumulé 2 fois maximum et déclenché une fois toutes les 0,3 s. Une fois 2 cumuls atteints, l'effet du set de 2 pièces augmente de 100 %.",
+        "pt": "Quando a Habilidade Elemental atinge um inimigo, o Ataque aumenta em 9% por 7s. Esse efeito acumula até 2 vezes e pode ser desencadeado uma vez a cada 0.3s. Quando se possui 2 acúmulos, o efeito do conjunto de 2 Artefatos é aumentado em 100%.",
+        "ru": "Когда элементальный навык попадает по врагам, атака увеличивается на 9% в течение 7 сек. Эффект может складываться до 2 раз и возникнуть не чаще 1 раза за 0,3 сек. На 2 уровне складывания эффект набора из 2 вещей увеличивается на 100%.",
+        "id": "Saat Elemental Skill mengenai musuh, meningkatkan 9% ATK selama 7 detik. Efek ini dapat ditumpuk hingga 2 lapis dan dapat terpicu setiap 0,3 detik. Setelah menumpuk 2 lapis, efek dari Set 2 Bagian akan meningkat 100%.",
+        "th": "เมื่อสกิลธาตุโจมตีถูกศัตรู พลังโจมตีจะเพิ่มขึ้น 9% โดยเอฟเฟกต์นี้จะคงอยู่เป็นเวลา 7 วินาที และซ้อนทับกันได้มากสุด 2 ชั้น ซึ่งเอฟเฟกต์นี้จะเกิดขึ้นมากสุดหนึ่งครั้งในทุก 0.3 วินาที เมื่อซ้อนทับครบ 2 ชั้นแล้ว เอฟเฟกต์ของเซ็ต 2 ชิ้น จะเพิ่มขึ้น 100%",
+        "vi": "Sau khi kỹ năng nguyên tố đánh trúng kẻ địch, tấn công tăng 9%, kéo dài 7s, tối đa cộng dồn 2 tầng. Mỗi 0.3s tối đa kích hoạt 1 lần, sau khi tích đầy 2 tầng, hiệu quả bộ 2 món tăng 100%."
+      }
+    ]
+  },
+  {
+    "SetId": 15019,
+    "ContainsList": [
+      93442,
+      93422,
+      93452,
+      93412,
+      93432
+    ],
+    "name": {
+      "zhs": "追忆之注连",
+      "zht": "追憶之注連",
+      "jp": "追憶のしめ縄",
+      "ko": "추억의 시메카자리",
+      "en": "Shimenawa's Reminiscence",
+      "de": "Gedenken an Shimenawa",
+      "es": "Reminiscencia de la Purificación",
+      "fr": "Réminiscence nostalgique",
+      "pt": "Reminescência Nostálgica",
+      "ru": "Воспоминания Симэнавы",
+      "id": "Shimenawa's Reminiscence",
+      "th": "Shimenawa's Reminiscence",
+      "vi": "Dòng Hồi Ức Bất Tận"
+    },
+    "descriptions": [
+      {
+        "zhs": "攻击力提高18%。",
+        "zht": "攻擊力提高18%。",
+        "jp": "攻撃力+18%。",
+        "ko": "공격력+18%",
+        "en": "ATK +18%.",
+        "de": "Erhöht den ANG um 18 %.",
+        "es": "ATQ +18%.",
+        "fr": "Augmente l'ATQ de 18 %.",
+        "pt": "ATQ +18%.",
+        "ru": "Увеличивает силу атаки на 18%.",
+        "id": "ATK +18%.",
+        "th": "เพิ่มพลังโจมตี 18%",
+        "vi": "Tấn công tăng 18%"
+      },
+      {
+        "zhs": "施放元素战技时，如果角色的元素能量高于或等于15点，则会流失15点元素能量，使接下来的10秒内，普通攻击、重击、下落攻击造成的伤害提高50%，持续期间内该效果不会再次触发。",
+        "zht": "施放元素戰技時，如果角色的元素能量高於或等於15點，則會流失15點元素能量，使接下來的10秒內，普通攻擊、重擊、下落攻擊造成的傷害提高50%，持續期間內該效果不會再次觸發。",
+        "jp": "元素スキルを発動した時、キャラクターの元素エネルギーが15以上の場合、元素エネルギーを15消費し、次の10秒間通常攻撃、重撃、落下攻撃ダメージ+50%。継続時間中この効果は再発動できない。",
+        "ko": "원소전투 스킬 발동 후 캐릭터의 원소 에너지가 15pt 이상일 경우, 15pt의 원소 에너지를 잃는다. 그 후 10초 동안 일반 공격, 강공격, 낙하 공격으로 가하는 피해가 50% 증가한다. 지속 기간 내에 해당 효과는 다시 발동하지 않는다",
+        "en": "When casting an Elemental Skill, if the character has 15 or more Energy, they lose 15 Energy and Normal/Charged/Plunging Attack DMG is increased by 50% for 10s. This effect will not trigger again during that duration.",
+        "de": "Verringert bei Anwendung einer Elementarfähigkeit die Elementarenergie um 15 Punkte, wenn die Figur mindestens 15 Punkte Elementarenergie besitzt. Erhöht daraufhin den mit Standardangriffen, heftigen Schlägen und Angriffen aus dem Fall verursachten Schaden 10 s lang um 50 %. Dieser Effekt wird während der Wirkungsdauer nicht erneut ausgelöst.",
+        "es": "Si el personaje tiene 15 pts. de Energía Elemental o más, perderá 15 pts. al realizar una Habilidad Elemental y el daño infligido con los Ataques Normales, Cargados y Descendentes aumentará en un 50% durante 10 s. Este efecto no puede activarse más de una vez simultáneamente.",
+        "fr": "Lorsque le personnage possède au minimum 15 pts d'énergie élémentaire, libérer une compétence élémentaire entraîne une perte de 15 pts d'énergie, mais les DGT infligés par son attaque normale, chargée et plongeante augmentent de 50 % pendant 10 s. Cet effet ne se déclenchera plus pendant cette durée.",
+        "pt": "Ao lançar sua Habilidade Elemental, se a Energia Elemental do Personagem for maior ou igual a 15, ele perderá 15 pontos de Energia Elemental e nos próximos 10s, seus Ataques Normais, Ataques Carregados, Ataques Imersivos terão um aumento de 50% de Dano. Esse efeito só pode ser desencadeado uma vez dentro desse intervalo de tempo.",
+        "ru": "При использовании элементального навыка, если у персонажа 15 или более единиц энергии, он теряет 15 единиц энергии, а урон обычной атаки, заряженной атаки и атаки в падении увеличивается на 50% в течение 10 сек. Эффект нельзя активировать повторно в течение этого времени.",
+        "id": "Saat melancarkan Elemental Skill, jika Karakter mempunyai 15 Energy atau lebih, maka akan kehilangan 15 Energy dan Normal/Charged/ Plunging Attack DMG meningkat sebesar 50% selama 10 detik. Efek ini tidak bisa terpicu lagi selama durasinya masih aktif.",
+        "th": "ในขณะที่ใช้สกิลธาตุ ถ้ามีพลังงานธาตุมากกว่าหรือเท่ากับ 15 หน่วย จะเสียพลังงานธาตุ 15 หน่วย และทำให้ การโจมตีปกติ, ชาร์จโจมตี และการโจมตีพุ่งลงจากอากาศ สร้างความเสียหายเพิ่มขึ้น 50% เป็นเวลา 10 วินาที โดยที่ตลอดช่วงเวลาต่อเนื่อง เอฟเฟกต์นี้จะไม่เกิดขึ้นซ้ำอีกครั้ง",
+        "vi": "Khi thi triển Kỹ Năng Nguyên Tố, nhân vật có Năng Lượng Nguyên Tố cao hơn hoặc bằng 15 điểm thì sẽ mất đi 15 điểm để tăng 50% sát thương tấn công thường, trọng kích và tấn công khi đáp trong 10 giây tiếp theo, trong thời gian duy trì, hiệu quả này sẽ không kích hoạt lần nữa."
+      }
+    ]
+  },
+  {
+    "SetId": 15020,
+    "ContainsList": [
+      94442,
+      94422,
+      94452,
+      94412,
+      94432
+    ],
+    "name": {
+      "zhs": "绝缘之旗印",
+      "zht": "絕緣之旗印",
+      "jp": "絶縁の旗印",
+      "ko": "절연의 기치",
+      "en": "Emblem of Severed Fate",
+      "de": "Wappen des getrennten Schicksals",
+      "es": "Emblema del Destino",
+      "fr": "Emblème du destin brisé",
+      "pt": "Selo da Insulação",
+      "ru": "Эмблема рассечённой судьбы",
+      "id": "Emblem of Severed Fate",
+      "th": "Emblem of Severed Fate",
+      "vi": "Dấu Ấn Ngăn Cách"
+    },
+    "descriptions": [
+      {
+        "zhs": "元素充能效率提高20%。",
+        "zht": "元素充能效率提高20%。",
+        "jp": "元素チャージ効率+20%。",
+        "ko": "원소 충전 효율+20%",
+        "en": "Energy Recharge +20%",
+        "de": "Erhöht die Aufladerate um 20 %.",
+        "es": "Recarga de Energía +20%.",
+        "fr": "Augmente la recharge d'énergie de 20 %.",
+        "pt": "Recarga de Energia +20%",
+        "ru": "Увеличивает скорость восстановления энергии на 20%.",
+        "id": "Energy Recharge +20%.",
+        "th": "เพิ่มประสิทธิภาพ การฟื้นฟูพลังงานขึ้น 20%",
+        "vi": "Hiệu Quả Nạp Nguyên Tố tăng 20%"
+      },
+      {
+        "zhs": "基于元素充能效率的25%，提高元素爆发造成的伤害。至多通过这种方式获得75%提升。",
+        "zht": "基於元素充能效率的25%，提高元素爆發造成的傷害。至多依此方式獲得75%提升。",
+        "jp": "元素チャージ効率の25%を基準に、元素爆発ダメージがアップする。この方式でアップできるダメージは最大75%まで。",
+        "ko": "원소폭발로 가하는 피해가 원소 충전 효율의 25%만큼 증가한다. 해당 방식으로 최대 75%까지 증가할 수 있다",
+        "en": "Increases Elemental Burst DMG by 25% of Energy Recharge. A maximum of 75% bonus DMG can be obtained in this way.",
+        "de": "Erhöht den mit Spezialfähigkeiten verursachten Schaden basierend auf 25 % der Aufladerate. Bis zu 75 % Bonus auf diese Weise möglich.",
+        "es": "Aumenta el daño infligido con la Habilidad Definitiva en una cantidad equivalente al 25% de la Recarga de Energía. Se puede obtener un aumento del 75% como máximo.",
+        "fr": "Augmente les DGT infligés par le déchaînement élémentaire d'une valeur équivalant à 25 % de la recharge d'énergie. Les DGT peuvent être augmentés de 75 % max de cette manière.",
+        "pt": "Aumenta o Dano do Supremo em 25% da Recarga de Energia. No máximo é possível obter 75% de aumento de Dano dessa maneira.",
+        "ru": "Увеличивает урон взрыва стихий на величину, равную 25% от значения восстановления энергии. Эффект можно увеличить максимум до 75%.",
+        "id": "Meningkatkan DMG Elemental Burst sebesar 25% dari Energy Recharge. Peningkatan DMG Elemental Burst maksimum yang bisa didapatkan dengan cara ini adalah 75%.",
+        "th": "เพิ่มความเสียหายของท่าไม้ตายขึ้น 25% ของประสิทธิภาพการฟื้นฟูพลังงานธาตุ โดยจะสามารถเพิ่มความเสียหายด้วยวิธีนี้ได้มากสุดถึง 75%",
+        "vi": "Tăng sát thương Kỹ Năng Nộ dựa trên 25% Hiệu Quả Nạp Nguyên Tố. Chỉ có thể tăng tối đa 75% thông qua cách này."
+      }
+    ]
+  },
+  {
+    "SetId": 15021,
+    "ContainsList": [
+      95442,
+      95422,
+      95452,
+      95412,
+      95432
+    ],
+    "name": {
+      "zhs": "华馆梦醒形骸记",
+      "zht": "華館夢醒形骸記",
+      "jp": "華館夢醒形骸記",
+      "ko": "풍요로운 꿈의 껍데기",
+      "en": "Husk of Opulent Dreams",
+      "de": "Schale der üppigen Träume",
+      "es": "Cáscara de Sueños Opulentos",
+      "fr": "Coquille des rêves opulents",
+      "pt": "Casca de Sonhos Opulentos",
+      "ru": "Кокон сладких грёз",
+      "id": "Husk of Opulent Dreams",
+      "th": "Husk of Opulent Dreams",
+      "vi": "Giấc Mộng Phù Hoa"
+    },
+    "descriptions": [
+      {
+        "zhs": "防御力提高30%。",
+        "zht": "防禦力提高30%。",
+        "jp": "防御力+30%。",
+        "ko": "방어력+30%",
+        "en": "DEF +30%",
+        "de": "Erhöht die VTD um 30 %.",
+        "es": "DEF +30%.",
+        "fr": "Augmente la DÉF de 30 %.",
+        "pt": "DEF +30%",
+        "ru": "Увеличивает защиту на 30%.",
+        "id": "DEF +30%.",
+        "th": "เพิ่มพลังป้องกัน 30%",
+        "vi": "Phòng ngự tăng 30%."
+      },
+      {
+        "zhs": "装备此圣遗物套装的角色在以下情况下，将获得「问答」效果：在场上用岩元素攻击命中敌人后获得一层，每0.3秒至多触发一次；在队伍后台中，每3秒获得一层。问答至多叠加4层，每层能提供6%防御力与6%岩元素伤害加成。每6秒，若未获得问答效果，将损失一层。",
+        "zht": "裝備此聖遺物套裝的角色在以下情況下，將獲得「問答」效果：在場上用岩元素攻擊命中敵人後獲得一層，每0.3秒至多觸發一次；在隊伍後台中，每3秒獲得一層。問答至多疊加4層，每層能提供6%防禦力與6%岩元素傷害加成。每6秒，若未獲得問答效果，將損失一層。",
+        "jp": "この聖遺物セットを装備したキャラクターは、以下の状況において「問答」効果を獲得する。「問答」効果：フィールド上で岩元素攻撃を敵に命中した後に1層獲得、0.3秒毎に1層のみ獲得できる。待機中の場合は、3秒毎に自動で1層獲得する。重ね掛けできる「問答」は最大4層までとなり、1層につき防御力+6%、岩元素ダメージ+6%。6秒毎に「問答」効果を獲得していない場合は、1層失う。",
+        "ko": "해당 성유물 세트를 장착한 캐릭터는 아래 상황에서 「문답」 효과를 얻는다: 필드 위에서 바위 원소 공격으로 적 명중 시 1스택 획득, 0.3초마다 최대 1회 발동된다. 대기 상태일 때 3초마다 1스택 획득. 문답 효과는 최대 4스택까지 중첩 가능하고, 스택 당 6%의 방어력과 6%의 바위 원소 피해 보너스를 제공한다. 6초마다 문답 효과를 획득하지 못할 경우, 1스택이 차감된다",
+        "en": "A character equipped with this Artifact set will obtain the Curiosity effect in the following conditions: When on the field, the character gains 1 stack after hitting an opponent with a Geo attack, triggering a maximum of once every 0.3s. When off the field, the character gains 1 stack every 3s. Curiosity can stack up to 4 times, each providing 6% DEF and a 6% Geo DMG Bonus. When 6 seconds pass without gaining a Curiosity stack, 1 stack is lost.",
+        "de": "Die mit diesem Artefaktset ausgerüsteten Figuren erhalten unter den folgenden Umständen den Effekt „Neugier“: Aktuelle Figuren erhalten mit 0,3 s Abklingzeit eine Stapelung beim Treffen von Gegnern mit Geo-Angriffen, während die inaktiven Figuren in der Truppe alle 3 s eine Stapelung erhalten. 4-fach stapelbar. Jede Stapelung verleiht einen VTD-Bonus von 6 % und einen Geo-Schadens-Bonus von 6 %. Wenn kein neuer Effekt der „Neugier“ hinzukommt, erlischt alle 6 s eine Stapelung dieses Effekts.",
+        "es": "El personaje que equipe este conjunto de artefactos obtendrá el efecto de “curiosidad” en las siguientes circunstancias: al golpear a un enemigo con un ataque Geo, obtiene una carga, lo cual solo puede ocurrir una vez cada 0.3 s; mientras está en tu equipo pero no en combate, obtiene una carga cada 3 s. Este efecto puede acumularse hasta 4 veces, y cada carga aumenta en un 6% la DEF y otorga un 6% de Bono de Daño Geo. Si el personaje no obtiene una carga de curiosidad en 6 s, perderá una acumulación.",
+        "fr": "Un personnage équipé de ce set d'artéfacts obtiendra 1 cumul de Curiosité des façons suivantes : sur le champ de bataille, il gagne 1 cumul en touchant un ennemi avec une attaque Géo, ceci pouvant être déclenché une fois toutes les 0,3 s ; en faisant partie de l'équipe mais en n'étant pas déployé, il gagne 1 cumul toutes les 3 s. La Curiosité peut être cumulée 4 fois maximum, chaque cumul accordant 6 % de bonus de DÉF et 6 % de bonus de DGT Géo. Si 6 s s'écoulent sans gagner de cumul de Curiosité, 1 cumul sera perdu.",
+        "pt": "Um personagem com este conjunto de artefatos equipado obterá o efeito de Curiosidade nas seguintes condições: Quando estiver no campo de batalha, o personagem ganha 1 carga após atingir um adversário com um ataque Geo, isso pode ser desencadeado uma vez a cada 0.3s. Quando fora do campo de batalha, o personagem ganha 1 carga a cada 3s. A Curiosidade pode acumular em até 4 vezes, cada uma fornecendo 6% de DEF e um Bônus de Dano Geo de também 6%. Quando 6 segundos passam sem ganhar um acúmulo de Curiosidade, 1 acúmulo é perdido.",
+        "ru": "Персонаж, экипированный этим набором артефактов, получает эффект Любопытства в следующих ситуациях: 1 уровень Любопытства даётся активному персонажу после попадания по противнику атакой Гео (не чаще чем раз в 0,3 сек.); когда персонаж находится вне поля боя, он получает 1 ур. Любопытства каждые 3 сек. Любопытство может складываться до 4 ур., каждый ур. прибавляет 6% к защите и 6% к Гео урону. Если персонаж не получает Любопытство в течение 6 сек., то он теряет 1 накопленный уровень Любопытства.",
+        "id": "Karakter yang mengenakan set Artefak ini akan mendapatkan efek Curiosity dalam kondisi berikut: Karakter aktif akan mendapatkan 1 lapis setelah serangan Geo-nya mengenai musuh, dapat terpicu setiap 0,3 detik. Karakter bisa mendapatkan 1 lapis setiap 3 detik jika tidak berada di medan pertempuran. Efek Curiosity dapat ditumpuk hingga 4 lapis, setiap lapis meningkatkan 6% DEF dan 6% Geo DMG Bonus. Karakter akan kehilangan 1 lapis setiap 6 detik jika tidak mendapatkan efek Curiosity baru.",
+        "th": "ตัวละครที่สวมใส่เซ็ตอาร์ติแฟกต์นี้จะได้รับเอฟเฟกต์ Curiosity ภายใต้สถานการณ์ต่อไปนี้: ในขณะที่อยู่ในการต่อสู้ จะได้รับหนึ่งชั้นหลังจากโจมตีถูกศัตรูด้วยธาตุหิน โดยจะเกิดขึ้นได้มากสุดหนึ่งครั้ง ในทุก 0.3 วินาที; เมื่ออยู่ในทีมแต่ไม่ได้อยู่ในการต่อสู้ ในทุก 3 วินาที จะได้รับหนึ่งชั้น โดยที่ Curiosity จะสามารถซ้อนทับได้มากสุด 4 ชั้น ซึ่งแต่ละชั้นจะมอบโบนัสพลังป้องกัน 6% และโบนัสความเสียหายธาตุหิน 6% และในทุก 6 วินาที หากไม่ได้รับเอฟเฟกต์ Curiosity จะสูญเสียหนึ่งชั้น",
+        "vi": "Nhân vật trang bị bộ Thánh Di Vật này sẽ nhận hiệu quả \"Vấn Đáp\" trong các trường hợp sau đây: Sau khi nhân vật trong trận sử dụng tấn công Nguyên Tố Nham đánh trúng kẻ địch sẽ nhận 1 tầng, mỗi 0.3s tối đa kích hoạt 1 lần; trong đội chờ, mỗi 3s nhận 1 tầng. Vấn Đáp cộng dồn tối đa 4 tầng, mỗi tầng sẽ tăng 6% phòng ngự và 6% buff sát thương Nguyên Tố Nham. Mỗi 6s, nếu chưa nhận hiệu quả Vấn Đáp sẽ mất đi 1 tầng."
+      }
+    ]
+  },
+  {
+    "SetId": 15022,
+    "ContainsList": [
+      96442,
+      96422,
+      96452,
+      96412,
+      96432
+    ],
+    "name": {
+      "zhs": "海染砗磲",
+      "zht": "海染硨磲",
+      "jp": "海染硨磲",
+      "ko": "바다에 물든 거대 조개",
+      "en": "Ocean-Hued Clam",
+      "de": "Meeresmuschel",
+      "es": "Perla Oceánica",
+      "fr": "Palourde aux teintes océaniques",
+      "pt": "Concha Tingida Pelo Mar",
+      "ru": "Моллюск морских красок",
+      "id": "Ocean-Hued Clam",
+      "th": "Ocean-Hued Clam",
+      "vi": "Xà Cừ Đại Dương"
+    },
+    "descriptions": [
+      {
+        "zhs": "治疗加成提高15%。",
+        "zht": "治療加成提高15%。",
+        "jp": "与える治療効果+15%。",
+        "ko": "치유 보너스+15%",
+        "en": "Healing Bonus +15%.",
+        "de": "Erhöht den Heilungsbonus um 15 %.",
+        "es": "Bono de Curación +15%.",
+        "fr": "Augmente le bonus de soins de 15 %.",
+        "pt": "Bônus de Cura +15%",
+        "ru": "Повышает бонус лечения на 15%.",
+        "id": "Bonus pemulihan +15%.",
+        "th": "เพิ่มโบนัสการรักษา 15%",
+        "vi": "Tăng Trị Liệu lên 15%."
+      },
+      {
+        "zhs": "装备此圣遗物套装的角色对队伍中的角色进行治疗时，将产生持续3秒的海染泡沫，记录治疗的生命值回复量（包括溢出值）。持续时间结束时，海染泡沫将会爆炸，对周围的敌人造成90%累计回复量的伤害（该伤害结算方式同感电、超导等元素反应，但不受元素精通、等级或反应伤害加成效果影响）。每3.5秒至多产生一个海染泡沫；海染泡沫至多记录30000点回复量，含溢出部分的治疗量；自己的队伍中同时至多存在一个海染泡沫。装备此圣遗物套装的角色处于队伍后台时，依然能触发该效果。",
+        "zht": "裝備此聖遺物套裝的角色對隊伍中的角色進行治療時，將產生持續3秒的海染泡沫，記錄治療的生命值回復量（包括溢出值）。持續時間結束時，海染泡沫將會爆炸，對周圍的敵人造成90%累計回復量的傷害（該傷害結算方式同感電、超導等元素反應，但不受元素精通、等級或反應傷害加成效果影響）。每3.5秒至多產生一個海染泡沫；海染泡沫至多記錄30000點回復量，含溢出部分的治療量；自己的隊伍中同時至多存在一個海染泡沫。裝備此聖遺物套裝的角色處於隊伍後台時，依然能觸發該效果。",
+        "jp": "この聖遺物セットを装備したキャラクターがチーム内のキャラクターに治療を行うと、治療によるHP回復量（HP上限を超えた回復量も含む）を記録する海染の泡を生成する。海染の泡は3秒継続する。継続時間終了時、海染の泡は破裂し、周囲の敵に記録した回復量の90%分のダメージを与える（このダメージは感電や超電導などの元素反応と同じように計算されるが、元素熟知、キャラクターLv、または元素反応のダメージアップ効果の影響は受けない）。海染の泡は3.5秒毎に1回のみ生成可能。海染の泡が記録できる回復量は最大30000までとなり、HP上限超過分の回復量を含む。チーム内で、海染の泡は同時に最大1つまで存在できる。この聖遺物セットを装備したキャラクターは待機中でも、この効果を発動できる。",
+        "ko": "해당 성유물 세트를 장착한 캐릭터가 파티 내 캐릭터를 치유하면, 3초간 지속되는 바다에 물든 거품을 생성해 치유한 HP의 회복량을 기록한다(초과된 수치 포함). 지속 시간 종료 후 바다에 물든 거품이 폭발해 주변의 적에게 누적 회복량의 90%에 해당하는 피해를 준다(해당 피해 계산 방식은 감전, 초전도 등 원소 반응의 방식과 같지만, 원소 마스터리, 레벨 또는 반응 피해 보너스 효과의 영향을 받지 않는다). 3.5초마다 최대 1개의 바다에 물든 거품이 생성되며, 바다에 물든 거품은 초과한 부분의 치유량을 포함해 최대 30,000pt의 회복량을 기록할 수 있다. 자신의 파티에 바다에 물든 거품은 동시에 1개만 존재할 수 있다. 해당 성유물 세트를 장착한 캐릭터가 대기 상태일 때도 해당 효과가 발동한다",
+        "en": "When the character equipping this artifact set heals a character in the party, a Sea-Dyed Foam will appear for 3 seconds, accumulating the amount of HP recovered from healing (including overflow healing). At the end of the duration, the Sea-Dyed Foam will explode, dealing DMG to nearby opponents based on 90% of the accumulated healing. (This DMG is calculated similarly to Reactions such as Electro-Charged, and Superconduct, but is not affected by Elemental Mastery, Character Levels, or Reaction DMG Bonuses). Only one Sea-Dyed Foam can be produced every 3.5 seconds. Each Sea-Dyed Foam can accumulate up to 30,000 HP (including overflow healing). There can be no more than one Sea-Dyed Foam active at any given time. This effect can still be triggered even when the character who is using this artifact set is not on the field.",
+        "de": "Wenn die mit diesem Artefaktset ausgerüsteten Figuren die Figuren in der Truppe heilen, entsteht eine Meeresblase, die 3 s hält und die wiederhergestellten Lebenspunkte beim Heilen (einschließlich des überschüssigen Heilungswerts) aufzeichnet. Wenn ihre Dauer endet, explodiert die Meeresblase, was Gegnern in der Umgebung Schaden, der 90 % der insgesamt wiederhergestellten LP entspricht, zufügt (Diese SCH-Berechnungsweise gleicht der der Elementarreaktionen Unter Strom und Supraleiter, ist jedoch von der Elementarkunde, der Stufe oder dem Reaktion-SCH-Bonus unabhängig). Alle 3,5 s kann höchstens eine Meeresblase entstehen. Jede Meeresblase kann bis zu 30.000 wiederhergestellte Lebenspunkte (einschließlich des überschüssigen Heilungswerts) aufzeichnen. In der eigenen Truppe kann gleichzeitig höchstens eine Meeresblase bestehen. Wenn die mit diesem Artefaktset ausgerüsteten Figuren inaktiv in der Truppe sind, kann dieser Effekt auch ausgelöst werden.",
+        "es": "Cuando el personaje que equipa este conjunto de artefactos cura a otro, crea el efecto de “burbuja marina” durante 3 s, el cual registra la cantidad de Vida regenerada (incluida la regenerada por encima del 100%). Tras ello, la burbuja marina estalla e inflige contra los enemigos cercanos un daño basado en el 90% de la cantidad regenerada. Este daño se calcula de manera similar al de las reacciones de Electrocargado, Superconductor, etc., pero no varía en función de la Maestría Elemental, el nivel del personaje o el bono de daño de las reacciones. Solo se puede crear una burbuja marina cada 3.5 s, la cual solo puede registrar un máximo de 30 000 pts. de Vida regenerada, incluyendo la regenerada por encima del 100%. Además, solo puede existir una burbuja marina en tu equipo al mismo tiempo. Cuando el personaje que equipa este conjunto de artefactos está en el equipo pero no en combate, también podrá activar este efecto.",
+        "fr": "Lorsqu'un personnage équipé de ce set d'artéfacts soigne un personnage de l'équipe, une mousse marine apparaîtra pendant 3 s, accumulant la quantité de PV récupérée grâce au soin (y compris tout surplus au-dessus de 100 %). À la fin de la durée, la mousse marine explosera, infligeant des DGT aux ennemis proches d'une valeur équivalant à 90 % du soin accumulé (Ces DGT sont calculés de la même manière que les réactions d'Électrocution et de Supraconduction, mais ne sont pas affectés par la maîtrise élémentaire, les niveaux des personnages ou les bonus de DGT de réactions élémentaires). Une mousse marine peut être générée toutes les 3,5 s, et chaque mousse marine peut accumuler jusqu'à 30 000 PV, incluant tout surplus au-dessus de 100 %. Il ne peut exister qu'une seule mousse marine à la fois. Cet effet peut être déclenché même si le personnage équipé de ce set d'artéfacts fait partie de l'équipe mais n'est pas déployé.",
+        "pt": "Quando o personagem que equipa este conjunto de artefatos cura outro personagem da sua equipe, ele cria o efeito de \"Bolha de Espuma do Mar\" durante 3s, que registra a quantidade de vida regenerada (incluindo a regenerada acima de 100%). No final da duração do efeito, a Bolha de Espuma do Mar explode, causando dano aos inimigos ao redor com base em 90% da vida regenerada. (Esse Dano é calculado de forma semelhante a reações como Eletricamente Carregado e Supercondutor, mas não é afetado pela Proficiência Elemental, níveis de personagens ou dano bônus de reações.) Apenas se pode criar uma Bolha de Espuma do Mar a cada 3.5s, e esta poderá registrar no máximo 30.000 pontos de vida, incluindo aqueles regenerados acima de 100%. Além disso, apenas uma Bolha de Espuma do Mar pode existir em sua equipe de cada vez. Quando o personagem equipando este conjunto de artefatos está na equipe, mas não em combate, poderá ainda assim ativar este efeito.",
+        "ru": "Экипированный этим набором артефактов персонаж при лечении соратников создаёт на 3 сек. Пузырь морских красок. Пузырь регистрирует восстановленное при лечении HP (в том числе избыточное, когда лечение превышает максимум здоровья). После окончания действия Пузырь взрывается и наносит окружающим врагам урон в размере 90% учтённого объёма лечения (урон рассчитывается так же, как для эффектов Заряжен и Сверхпроводник, но на него не действуют бонусы мастерства стихий, уровня и реакций). Пузырь морских красок можно создавать не чаще чем раз в 3,5 сек. Пузырь может записать до 30 000 восстановленного HP, в том числе HP избыточного лечения. Для отряда не может существовать больше одного Пузыря морских красок одновременно. Этот эффект действует, даже если персонаж, экипированный набором артефактов, не находится на поле боя.",
+        "id": "Jika Karakter yang mengenakan set Artefak ini memulihkan HP salah satu Karakter dalam party, akan muncul Sea-Dyed Foam yang berlangsung selama 3 detik yang mencatat dan mengakumulasi jumlah pemulihan yang dilakukan (termasuk pemulihan yang berlebih). Setelah durasinya berakhir, Sea-Dyed Foam akan meledak dan mengakibatkan DMG sebesar 90% dari jumlah pemulihan yang tercatat (Perhitungan DMG ini mirip dengan Reaksi Elemental seperti Electro-Charged, Superconduct, dan lainnya, tetapi tidak dipengaruhi oleh Elemental Mastery, Level Karakter, atau Bonus DMG Reaksi Elemental). Sea-Dyed Foam hanya bisa muncul setiap 3,5 detik. Setiap Sea-Dyed Foam dapat mengakumulasi pemulihan hingga 30.000 HP (termasuk pemulihan yang berlebih). Dalam party sendiri, hanya bisa ada satu Sea-Dyed Foam yang muncul dalam waktu bersamaan. Efek dari set Artefak ini tetap dapat terpicu meskipun Karakter party yang mengenakannya tidak berada di medan pertempuran.",
+        "th": "เมื่อตัวละครที่สวมใส่เซ็ตอาร์ติแฟกต์นี้ทำการรักษาตัวละครในทีม จะเกิด Sea-Dyed Foam ขึ้นเป็นเวลา 3 วินาที และบันทึกปริมาณการฟื้นฟูพลังชีวิตของการรักษา (รวมไปถึงค่าส่วนเกิน) เมื่อช่วงเวลาต่อเนื่องสิ้นสุดลง Sea-Dyed Foam จะระเบิด สร้างความเสียหายเป็น 90% ของปริมาณการฟื้นฟูพลังชีวิตที่สะสมแก่ศัตรูโดยรอบ (วิธีคำนวณความเสียหายนี้จะเหมือนกับปฏิกิริยาของธาตุ เช่น ชาร์จไฟฟ้า, นำไฟฟ้า และอื่น ๆ แต่จะไม่ได้รับผลกระทบจากความชำนาญธาตุ, เลเวล หรือเอฟเฟกต์โบนัสความเสียหายของปฏิกิริยา) ในทุก 3.5 วินาที จะเกิด Sea-Dyed Foam ได้มากสุดหนึ่งอัน; Sea-Dyed Foam จะบันทึกปริมาณการฟื้นฟูได้มากสุด 30000 หน่วย รวมถึงปริมาณการรักษาส่วนที่เกิน; ในช่วงเวลาเดียวกัน จะมี Sea-Dyed Foam ในทีมของตัวเองได้มากสุดหนึ่งอันเท่านั้น ซึ่งเอฟเฟกต์นี้จะยังคงเกิดขึ้นได้ แม้ในขณะที่ตัวละครที่สวมใส่เซ็ตอาร์ติแฟกต์นี้อยู่ในทีมแต่ไม่ได้อยู่ในการต่อสู้",
+        "vi": "Khi nhân vật trang bị bộ Thánh Di Vật này thực hiện trị liệu cho nhân vật trong đội, sẽ tạo ra Bọt Biển kéo dài 3s, ghi lại lượng HP hồi phục của việc trị liệu (Bao gồm cả lượng vượt mức). Khi kết thúc thời gian duy trì, Bọt Biển sẽ nổ tung, gây cho kẻ địch xung quanh sát thương bằng 90% lượng hồi phục tích lũy (Cách tính sát thương này giống với các phản ứng nguyên tố như Điện Cảm, Siêu Dẫn...nhưng không bị ảnh hưởng bởi Tinh Thông Nguyên Tố, cấp hoặc buff sát thương phản ứng). Mỗi 3.5s tối đa tạo 1 Bọt Biển; Bọt Biển tối đa ghi lại 30,000 điểm hồi phục, bao gồm cả lượng trị liệu vượt mức; đội của bản thân cùng lúc chỉ được tồn tại tối đa 1 Bọt Biển. Khi nhân vật trang bị bộ Thánh Di Vật này ở trong đội chờ, vẫn có thể kích hoạt hiệu quả này."
+      }
+    ]
+  }
+]

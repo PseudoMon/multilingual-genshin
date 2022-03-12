@@ -1,0 +1,85 @@
+{
+  "name": {
+    "zhs": "祭火之人",
+    "zht": "祭火之人",
+    "jp": "火祭りの人",
+    "ko": "불을 모시는 자",
+    "en": "Prayers for Illumination",
+    "de": "Feueropfer",
+    "es": "Ritual de la Iluminación",
+    "fr": "Sacrifieur Pyro",
+    "pt": "Xamã do Ritual Pyro",
+    "ru": "Шаман огня",
+    "id": "Prayers for Illumination",
+    "th": "Prayers for Illumination",
+    "vi": "Người Tế Hỏa"
+  },
+  "descriptions": [
+    {
+      "zhs": "受到的火元素附着效果的持续时间减少40%。",
+      "zht": "受到的火元素附著效果的持續時間減少40%。",
+      "jp": "キャラが受けた炎元素付着の効果継続時間-40%。",
+      "ko": "받는 불 원소 부착 효과 지속 시간이 40% 감소한다",
+      "en": "Affected by Pyro for 40% less time.",
+      "de": "Verringert die Dauer der Beeinträchtigung durch zusätzliches Pyro-Attribut um 40 %.",
+      "es": "Los efectos de Pyro causados sobre ti duran un 40% menos.",
+      "fr": "Réduit la durée des effets Pyro subis de 40 %.",
+      "pt": "Reduz a duração dos efeitos causados por Pyro em 40%.",
+      "ru": "Уменьшает длительность полученного Пиро эффекта на 40%.",
+      "id": "Mengurangi 40% durasi efek Pyro yang diterima.",
+      "th": "ลดระยะเวลาต่อเนื่องจาก ผลกระทบธาตุไฟลง 40%",
+      "vi": "Thời gian duy trì hiệu quả nguyên tố Hỏa kèm theo giảm 40%."
+    }
+  ],
+  "pieces": [
+    {
+      "type": "circlet",
+      "name": {
+        "zhs": "祭火礼冠",
+        "zht": "祭火禮冠",
+        "jp": "火祭りの冠",
+        "ko": "제화의 관",
+        "en": "Tiara of Flame",
+        "de": "Feueropferdiadem",
+        "es": "Diadema Pírica",
+        "fr": "Couronne rituelle Pyro",
+        "pt": "Coroa do Ritual Pyro",
+        "ru": "Тиара огня",
+        "id": "Tiara of Flame",
+        "th": "Tiara of Flame",
+        "vi": "Nón Tế Lửa"
+      },
+      "description": {
+        "zhs": "在古老的时代，司祭祀之人佩戴的礼冠。因为常年受火舌舔舐，具有奇妙的抗性。",
+        "zht": "古老的時代裡，司祭祀之人所配戴的禮冠。因長年受火舌舔舐，擁有奇妙的抗性。",
+        "jp": "大昔の時代の司祭が使用していた冠。長年火に焼かれていたため、不思議な耐性を持っている。",
+        "ko": "옛날 옛적에 사제를 지낸 사람이 쓰던 예관(禮冠). 오랫동안 불의 단련을 받아 기묘한 내성이 생겼다",
+        "en": "A tiara worn by those tasked with offering sacrifices in ancient times. After being subjected to the dancing sacrificial flames year in and year out, it possesses remarkable resistance.",
+        "de": "Ein ritueller Kopfschmuck, den Priester in alter Zeit während ihrer Zeremonien trugen. Da er lange Jahre dem Feuer ausgesetzt war, hat er eine erstaunliche Widerstandskraft entwickelt.",
+        "es": "Una corona ceremonial portada por sacerdotes de tiempos antiguos al ofrecer un sacrificio a los dioses. Al haber estado expuesta a las llamas durante tanto tiempo, ha adquirido una resistencia asombrosa.",
+        "fr": "Une couronne portée par les prêtres lors de cérémonies dans les temps anciens. Son immersion dans le feu tout au long de l'année lui a conféré une merveilleuse résistance.",
+        "pt": "Uma coroa usada por sacerdotes durante cerimônias antigamente. Sua imersão no fogo ao longo do ano deu-lhe uma resistência incrível.",
+        "ru": "Ритуальный головной убор того, кому в древние времена доверяли церемонию жертвоприношения. Он обладает высоким сопротивлением к огню благодаря многолетнему контакту с ритуальным пламенем.",
+        "id": "Pada zaman kuno, mahkota upacara dikenakan oleh para imam. Karena melewati nyala api tahun demi tahun, ia memiliki perlawanan yang luar biasa.",
+        "th": "ในยุคโบราณ มงกุฎนี้ถูกสวมใส่โดยนักบวช เนื่องจากมันถูกไฟลน มาเป็นเวลาหลายปี จึงมีความต้านทานที่น่าอัศจรรย์",
+        "vi": "Là nón tế lễ được tư tế thời cổ đại đeo khi hành lễ. Vì bị lửa thiêu đốt lâu ngày nên rất có kháng tính."
+      },
+      "lore": {
+        "zhs": "\n据说：\n曾经有一个时代，地上的人们能直接听到来自天空的启示。\n神的使者行走在蒙昧的人当中。此时永冻始解，新火初燃。\n\n人们享受着繁荣，把一切都交付给了天空的启示。\n天上的使者说，世界正驶往一个更加光明的时代。\n这是既定之事，未来也绝对不可能出现任何偏移。\n\n那这样美好的时代是否有朝一日也会走向终结呢…\n\n天空的使者并没有回答。于是，人们选出了主祭，\n让他戴上了白枝的祭冠，让他走向大地至深之处，\n从深埋地底的古代祭场、废都中寻求启示与答案…\n",
+        "zht": "\n據說：\n曾經有一個時代，地上的人們能直接聽到來自天空的啟示。\n神的使者行走在蒙昧的人當中。此時永凍始解，新火初燃。\n\n人們享受著繁榮，把一切都交付給了天空的啟示。\n天上的使者說，世界正駛往一個更加光明的時代。\n這是既定之事，未來也絕對不可能出現任何偏移。\n\n那這樣美好的時代是否有朝一日也會走向終結呢…\n\n天空的使者並沒有回答。於是，人們選出了主祭，\n讓他戴上了白枝的祭冠，讓他走向大地至深之處，\n從深埋地底的古代祭場、廢都中尋求啟示與答案…\n",
+        "jp": "\n話しによると、\n昔のある時代に、地上の人たちは空からの啓示が聞こえた。\n神の使者が未開の人間の間を歩いて、永凍は解け、火が燃え始めた。\n\n人間は繁栄を満喫し、すべてを空の啓示に任せた。\n天上の使者は言う、世界は更なる光明へ進化すると。\nこれは既定の事実、未来にもあらゆる形式の変化は起きない。\n\nこの甘美な未来もいずれ終わりを迎う日がくるのだろうか…\n\n天上の使者は答えない。すると、人たちは主祭を選び出した。\n主祭に白枝で作った冠を被らせ、大地の底まで行かせた、\nそして地下の深くに埋められた祭場で、答えを探した…\n",
+        "ko": "\n들어보라:\n과거 지상의 사람들이 하늘의 계시를 바로 들을 수 있었던 시대가 있었다.\n이때는 신의 사도가 우매한 사람들 속에서 살아가고 영원한 얼음이 녹기 시작하고 새로운 불이 타오르던 시기였다.\n\n사람들은 번영을 누리며 모든 걸 하늘의 계시에 바쳤다.\n하늘의 사도는 세계가 현재 더 밝은 시대로 향하고 있다고 말했다.\n이는 기정사실로 절대 변하지 않을 미래였다.\n\n그럼 이렇게 아름다운 시대도 언젠가 종말을 맞이하진 않을까….\n\n하늘의 사도는 답하지 않았다. 그래서 사람들은 제사장을 선출했고\n그에게 흰색 제사 모자를 씌운 뒤 대지의 깊은 곳으로 가게 한 뒤\n지하 깊숙한 곳에 있는 고대 제단이자 폐허 속에서 계시와 답을 구하도록 했다….\n",
+        "en": "\nThey say that,\nOnce upon a time, the people of the land could hear revelations from the heavens directly.\nThe envoys of the gods walked among benighted humanity then. The eternal ice had just begun to thaw, and the first fires were still new.\n\nIt was a time of great prosperity, when all was left in the hands of such heavenly revelations.\nThe envoys of heaven said that the world would soon enter a new and brighter age.\nThis was predestined, that future immutable.\n\nBut would a day come when such wonderful times might come to an end?\n\nTo this question the envoys gave no answer. So, the people chose from among them a chief priest,\nAnd adorning his head with a crown of white branches, they sent him out into the deep places of the world,\nTo antediluvian ruins and long-buried altars of sacrifice, to seek answers and enlightenment...\n",
+        "de": "\nEs wird gesagt,\nes gab eine Zeit, da konnten die Menschen des Landes die Offenbarungen des Himmels direkt hören.\nDie Gesandten der Götter wandelten damals unter den ignoranten Menschen. Das ewige Eis hatte gerade erst zu tauen begonnen und die ersten Feuer brannten noch nicht lange.\n\nEs war eine Zeit großen Wohlstands, als alles noch in den Händen solch himmlischer Gesandter lag.\nDie Gesandten des Himmels prophezeiten, die Welt werde bald in ein neues und helleres Zeitalter eintreten.\nDies war vorherbestimmt, diese Zukunft ist unveränderlich.\n\nAber würde der Tag kommen, an dem solch wunderbare Zeiten zu Ende gehen könnten?\n\nAuf diese Frage gaben die Gesandten keine Antwort. Also wählte das Volk unter ihnen einen Hohenpriester aus.\nEs schmückte seinen Kopf mit einer Krone aus weißen Zweigen und schickte ihn zu den entlegensten Orten der Welt\nzu uralten Ruinen und lang verlassenen Opferaltären, um nach Antworten und Erleuchtung zu suchen ...\n",
+        "es": "\nSegún algunas personas,\nalguna vez, la gente de la tierra podía escuchar las revelaciones celestiales procediendo directamente del cielo.\nLos emisarios de los dioses caminaban entre la ignorante raza humana. El hielo eterno había comenzado a derretirse, y las primeras llamas aún eran jóvenes.\n\nEran tiempos prósperos en los que todo quedaba en manos de las revelaciones celestiales.\nLos emisarios del cielo dijeron que el mundo iba a entrar en una era aún más brillante.\nSegún ellos, aquel era un destino inalterable.\n\n¿De verdad llegaría un día en el que los buenos tiempos terminarían?\n\nLos emisarios del cielo no respondieron, por lo que la gente escogió a un sacerdote de entre los suyos.\nTras coronarlo con ramas blancas, lo enviaron a las profundidades del mundo.\nEn ellas, había unas arcaicas ruinas y unos altares de sacrificio enterrados desde hace mucho tiempo, en los cuales el sacerdote buscó respuestas y la iluminación.\n",
+        "fr": "\nLa légende raconte :\nIl était une fois, ceux qui vivaient sur terre avaient le pouvoir d'entendre les messages provenant des cieux.\nLes messagers divins vivaient parmi les ignorants mortels. La glace éternelle commença à fondre pour qu'un nouveau feu brûle à sa place.\n\nL'humanité vécut des temps prospères grâce aux dieux.\nUn âge d'or leur était promis par les messagers divins.\nTel était leur destin immuable.\n\nToutefois, une question taraudait les hommes : quand cette ère d'abondance prendrait-elle fin ?\n\nLes messagers divins restèrent coi. Les mortels décidèrent donc de désigner un prêtre parmi les leurs.\nAffublé d'une couronne en bois blanc, il fut envoyé dans les confins du monde,\ndans les ruines antiques et les autels souterrains, à la recherche d'une réponse...\n",
+        "pt": "\nDizem que:\nHouve uma época em que o povo da terra podia ouvir revelações diretamente do céu.\nOs emissários dos deuses andavam entre os humanos ignorantes. O gelo eterno começara a descongelar, e as primeiras chamas ainda eram novas.\n\nEra uma época de grande prosperidade, pois tudo estava nas mãos das revelações celestiais.\nOs emissários do céu diziam que o mundo em breve entraria numa nova e mais brilhante era.\nIsso já estava predestinado, o futuro não poderia acontecer de nenhuma outra forma.\n\nSerá que aquela bela época poderia um dia também chegar ao seu fim?\n\nOs emissários do céu não responderam essa pergunta. Então, as pessoas escolheram um sacerdote entre os seus:\nAdornaram sua cabeça com uma coroa de galhos brancos, enviando-o para os lugares mais profundos do mundo,\npara ruínas e altares abandonados há muito tempo, para buscar respostas e iluminação...\n",
+        "ru": "\nГоворят, что\nкогда-то люди получали озарения прямиком от самих небес.\nВ те времена посланники богов ходили меж тёмных смертных. Вечные льды ещё только начинали таять, и загорались первые костры.\n\nКогда над всем властвовали небеса, народ процветал.\nПосланники богов говорили, что скоро настанет новая, ещё более славная эпоха.\nТак было предначертано, и судьбы этой было не изменить.\n\nНо мог ли золотым временам когда-нибудь прийти конец?..\n\nВопрос этот посланники богов оставили без ответа. Тогда люди избрали верховного жреца,\nкороновали его венцом из белых ветвей и отправили в глубины мира\nискать среди покоящихся под землёй древних алтарей ответа...\n",
+        "id": "\nDikatakan bahwa:\nAda suatu masa ketika orang-orang di dunia bisa secara langsung mendengar suara dari langit.\nPara malaikat berjalan di antara manusia. Pada saat itu, es yang abadi mulai mencair secara bertahap dan api kehidupan yang baru mulai menyala.\n\nOrang-orang yang menikmati kemakmuran, memercayakan segalanya pada instruksi yang berasal dari langit.\nPara malaikat dari langit berkata, dunia sedang memasuki era baru yang lebih cerah.\nIni adalah takdir yang pasti, dan sama sekali tidak akan ada kemungkinan penyimpangan di masa depan.\n\nAkankah era yang begitu indah berakhir suatu hari nanti...\n\nMalaikat langit tidak menjawab. Sehingga orang-orang memilih seorang imam kepala,\nMembuatnya mengenakan topi tinggi berwarna putih, untuk pergi ke bagian terdalam bumi,\nUntuk mencari pencerahan dan jawaban dari kota dan altar jauh yang ditinggalkan, yang terkubur jauh di bawah tanah...\n",
+        "th": "\nว่ากันว่า: \nมีช่วงเวลายุคหนึ่ง ที่คนบนพื้นดินสามารถฟังการชี้นำจากสวรรค์ได้โดยตรง\nผู้ส่งสาสน์ของเทพเจ้าเดินอยู่ท่ามกลางผู้คนที่ไร้เดียงสา ในเวลานั้นน้ำแข็งที่เป็นนิรันดร์เริ่มละลาย และไฟก็ได้ลุกโชนขึ้น\n\nผู้คนต่างยินดีกับความรุ่งโรจน์นี้ และมอบทุกสิ่งให้กับการชี้นำจากสวรรค์\nผู้ส่งสาสน์จากสวรรค์กล่าวว่า โลกกำลังมุ่งหน้าเข้าสู่ยุคที่สดใสกว่าเดิม\nนี่คือสิ่งที่ได้กำหนดไว้ และอนาคตก็ไม่สามารถเปลี่ยนมันได้\n\nงั้นยุคที่เจริญรุ่งเรืองเช่นนี้ สักวันจะสิ้นสุดลงหรือไม่...\n\nผู้ส่งสาสน์แห่งสวรรค์ไม่ตอบ ดังนั้นผู้คนเลยคัดเลือกหัวหน้านักบวชขึ้นมา\nให้เขาสวมมงกุฎกิ่งไม้ขาว และให้เขาเดินลึกลงไปในผืนดิน\nเพื่อแสวงหาการชี้นำและคำตอบจากแท่นบูชาโบราณและเมืองที่ถูกทิ้งร้างลึกลงไปใต้ดิน...\n",
+        "vi": "\nChuyện kể rằng:\nTừng có một thời đại, người trên mặt đất có thể nghe được chỉ thị từ bầu trời.\nSứ giả của Thần đi trong biển người mông muội. Lúc này, băng dần tan, ngọn lửa mới bắt đầu bùng cháy.\n\nNgười người tận hưởng sự phồn vinh, giao phó tất cả cho chỉ thị của bầu trời.\nSứ giả của bầu trời nói, thế giới đang bước sang một thời đại tươi sáng mới.\nĐây là chuyện được định sẵn, và cũng sẽ không có bất cứ thay đổi nào trong tương lai.\n\nKỷ nguyên tươi đẹp như vậy, một ngày nào đó cũng sẽ đi đến hồi kết sao...\n\nSứ giả bầu trời không đáp lời. Thế là mọi người đã chọn ra chủ tế,\nĐể cậu ấy đeo mũ tế trắng, đi đến nơi sâu nhất của trái đất, \nTìm chỉ thị và câu trả lời từ phế đô và tế đàn cổ sâu trong lòng đất\n"
+      },
+      "imgid": "prayers_for_illumination_circlet"
+    }
+  ]
+}

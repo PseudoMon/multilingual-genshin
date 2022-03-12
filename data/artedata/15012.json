@@ -1,0 +1,85 @@
+{
+  "name": {
+    "zhs": "祭风之人",
+    "zht": "祭風之人",
+    "jp": "風祭りの人",
+    "ko": "바람을 모시는 자",
+    "en": "Prayers to the Firmament",
+    "de": "Windopfer",
+    "es": "Ritual del Firmamento",
+    "fr": "Sacrifieur Anémo",
+    "pt": "Xamã do Ritual Anemo",
+    "ru": "Шаман ветра",
+    "id": "Prayers to the Firmament",
+    "th": "Prayers to the Firmament",
+    "vi": "Người Tế Phong"
+  },
+  "descriptions": [
+    {
+      "zhs": "受到的风元素附着效果的持续时间减少40%。",
+      "zht": "受到的風元素附著效果的持續時間減少40%。",
+      "jp": "受けた風元素付着の効果継続時間-40%。",
+      "ko": "받는 바람 원소 부착 효과 지속 시간이 40% 감소한다",
+      "en": "Affected by Anemo for 40% less time.",
+      "de": "Verringert die Dauer der Beeinträchtigung durch zusätzliches Anemo-Attribut um 40 %.",
+      "es": "Los efectos de Anemo causados sobre ti duran un 40% menos.",
+      "fr": "Réduit la durée des effets Anémo subis de 40 %.",
+      "pt": "Reduz a duração dos efeitos causados por Anemo em 40%.",
+      "ru": "Уменьшает длительность полученного Анемо эффекта на 40%.",
+      "id": "Mengurangi 40% durasi efek Anemo yang diterima.",
+      "th": "ลดระยะเวลาต่อเนื่องจาก ผลกระทบธาตุลมลง 40%",
+      "vi": "Thời gian duy trì hiệu quả nguyên tố Phong kèm theo giảm 40%."
+    }
+  ],
+  "pieces": [
+    {
+      "type": "circlet",
+      "name": {
+        "zhs": "祭风礼冠",
+        "zht": "祭風禮冠",
+        "jp": "風祭りの冠",
+        "ko": "제풍의 관",
+        "en": "Tiara of Gales",
+        "de": "Windopferdiadem",
+        "es": "Diadema de la Tempestad",
+        "fr": "Couronne rituelle Anémo",
+        "pt": "Coroa do Ritual Anemo",
+        "ru": "Тиара ветра",
+        "id": "Tiara of Gales",
+        "th": "Tiara of Gales",
+        "vi": "Nón Tế Phong"
+      },
+      "description": {
+        "zhs": "在古老的时代，司祭祀之人佩戴的礼冠。过去，风常常从礼冠构成的空洞中穿过。",
+        "zht": "古老的時代裡，司祭祀之人所配戴的禮冠。過去，風常常從禮冠構成的空洞中穿過。",
+        "jp": "大昔の時代の司祭が使用していた冠。昔、風はよく冠の隙間を通っていた。",
+        "ko": "옛날 옛적에 사제를 지낸 사람이 쓰던 예관(禮冠). 과거 바람이 예관의 구멍을 자주 관통했다",
+        "en": "A tiara worn by those tasked with offering sacrifices in ancient times. Wind once freely flowed through the various openings in the headdress.",
+        "de": "Ein ritueller Kopfschmuck, den Priester in alter Zeit während ihrer Zeremonien trugen. Der Wind sauste all die Jahre durch ihre Öffnungen.",
+        "es": "Una corona ceremonial portada por sacerdotes de tiempos antiguos al ofrecer un sacrificio a los dioses. En el pasado, el viento solía pasar a través de los espacios vacíos de la corona.",
+        "fr": "Une couronne portée par les prêtres lors de cérémonies dans les temps anciens. Le vent soufflait à travers ses ouvertures.",
+        "pt": "Uma coroa usada por sacerdotes durante cerimônias antigamente. O vento soprava frequentemente através da sua fenda.",
+        "ru": "Ритуальный головной убор того, кому в древние времена доверяли церемонию жертвоприношения. Он обладает высоким сопротивлением к ветру благодаря дырам в нём, сквозь которые проходит воздух.",
+        "id": "Pada zaman kuno, mahkota upacara dikenakan oleh para imam. Di masa lalu, angin sering melewati lubang yang dibentuk oleh mahkota upacara.",
+        "th": "ในยุคโบราณ มงกุฎนี้ถูกสวมใส่โดยนักบวช ในอดีต มีสายลมพัดผ่าน รูโหว่ที่อยู่บนมงกุฎอยู่เสมอ",
+        "vi": "Là nón tế lễ được tư tế thời cổ đại đeo khi hành lễ. Gió vẫn thường thổi qua khe hở trên nón."
+      },
+      "lore": {
+        "zhs": "",
+        "zht": "",
+        "jp": "",
+        "ko": "",
+        "en": "",
+        "de": "",
+        "es": "",
+        "fr": "",
+        "pt": "",
+        "ru": "",
+        "id": "",
+        "th": "",
+        "vi": ""
+      },
+      "imgid": "prayers_to_the_firmament_circlet"
+    }
+  ]
+}

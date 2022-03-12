@@ -1,0 +1,85 @@
+{
+  "name": {
+    "zhs": "祭雷之人",
+    "zht": "祭雷之人",
+    "jp": "雷祭りの人",
+    "ko": "뇌명을 모시는 자",
+    "en": "Prayers for Wisdom",
+    "de": "Blitzopfer",
+    "es": "Ritual de la Sabiduría",
+    "fr": "Sacrifieur Électro",
+    "pt": "Xamã do Ritual Electro",
+    "ru": "Шаман молнии",
+    "id": "Prayers for Wisdom",
+    "th": "Prayers for Wisdom",
+    "vi": "Người Tế Lôi"
+  },
+  "descriptions": [
+    {
+      "zhs": "受到的雷元素附着效果的持续时间减少40%。",
+      "zht": "受到的雷元素附著效果的持續時間減少40%。",
+      "jp": "受けた雷元素付着の効果継続時間-40%。",
+      "ko": "받는 번개 원소 부착 효과 지속 시간이 40% 감소한다",
+      "en": "Affected by Electro for 40% less time.",
+      "de": "Verringert die Dauer der Beeinträchtigung durch zusätzliches Elektro-Attribut um 40 %.",
+      "es": "Los efectos de Electro causados sobre ti duran un 40% menos.",
+      "fr": "Réduit la durée des effets Électro subis de 40 %.",
+      "pt": "Reduz a duração dos efeitos causados por Electro em 40%.",
+      "ru": "Уменьшает длительность полученного Электро эффекта на 40%.",
+      "id": "Mengurangi 40% durasi efek Electro yang diterima.",
+      "th": "ลดระยะเวลาต่อเนื่องจาก ผลกระทบธาตุไฟฟ้าลง 40%",
+      "vi": "Thời gian duy trì hiệu quả nguyên tố Lôi kèm theo giảm 40%."
+    }
+  ],
+  "pieces": [
+    {
+      "type": "circlet",
+      "name": {
+        "zhs": "祭雷礼冠",
+        "zht": "祭雷禮冠",
+        "jp": "雷祭りの冠",
+        "ko": "제뢰의 관",
+        "en": "Tiara of Thunder",
+        "de": "Blitzopferdiadem",
+        "es": "Diadema del Trueno",
+        "fr": "Couronne rituelle Électro",
+        "pt": "Coroa do Ritual Electro",
+        "ru": "Тиара грома",
+        "id": "Tiara of Thunder",
+        "th": "Tiara of Thunder",
+        "vi": "Nón Tế Lôi"
+      },
+      "description": {
+        "zhs": "在古老的时代，司祭祀之人佩戴的礼冠。因为常年聆听着雷鸣，具有奇妙的抗性。",
+        "zht": "古老的時代裡，司祭祀之人所配戴的禮冠。因長年聆聽著雷鳴，擁有奇妙的抗性。",
+        "jp": "大昔の時代の司祭が使用していた冠。長年雷鳴を傾聴していたため、不思議な耐性を持っている。",
+        "ko": "옛날 옛적에 사제를 지낸 사람이 쓰던 예관(禮冠). 오랫동안 뇌명을 들어 기묘한 내성이 생겼다",
+        "en": "A tiara worn by those tasked with offering sacrifices in ancient times. Because it harkened to the call of thunder year in and year out, it possesses remarkable resistance.",
+        "de": "Ein ritueller Kopfschmuck, den Priester in alter Zeit während ihrer Zeremonien trugen. Da er lange Jahre donnernden Gewittern lauschte, hat er eine erstaunliche Widerstandskraft entwickelt.",
+        "es": "Una corona ceremonial portada por sacerdotes de tiempos antiguos al ofrecer un sacrificio a los dioses. El escuchar constantemente el trueno le ha dado una resistencia asombrosa.",
+        "fr": "Une couronne portée par les prêtres lors de cérémonies dans les temps anciens. Entendre le bruit du tonerre tout au long de l'année lui a conféré une merveilleuse résistance.",
+        "pt": "Uma coroa usada por sacerdotes durante cerimônias antigamente. Ouvir o som do trovão ao longo do ano lhe deu uma resistência incrível.",
+        "ru": "Ритуальный головной убор того, кому в древние времена доверяли церемонию жертвоприношения. Он обладает высоким сопротивлением к электричеству благодаря многолетнему прослушиванию звука грома.",
+        "id": "Pada zaman kuno, mahkota upacara dikenakan oleh para imam. Karena mendengarkan guntur tahun demi tahun, ia memiliki perlawanan yang luar biasa.",
+        "th": "ในยุคโบราณ มงกุฎนี้ถูกสวมใส่โดยนักบวช เนื่องจากมันฟังเสียงฟ้าคำราม เป็นเวลาหลายปี จึงมีความต้านทานที่น่าอัศจรรย์",
+        "vi": "Là nón tế lễ được tư tế thời cổ đại đeo khi hành lễ. Vì nghe tiếng sấm trong khoảng thời gian dài nên rất có kháng tính."
+      },
+      "lore": {
+        "zhs": "\n据说：\n曾经有一个时代，地上的人们能直接听到来自天空的启示。\n神的使者行走在蒙昧的人当中。此时河海枯竭，雷鸣初动。\n\n人们享受着涌流而来的智慧。而智慧带来了繁荣。\n在最后繁荣带来了骄傲与梦想，以及提问的智识。\n\n为此疑问天空的权威，为此妄图登上诸神的庭园。\n即使许诺了神的爱、繁荣与智慧，天空的使者也为之震怒。\n因为，对永恒的怀疑是不允许的，\n尘泥之地对天空的试探，绝对不能原谅——\n\n头戴白枝祭冠的主祭之人，为了平息御使的怒火，\n走向了大地的至深之处，寻求古都中银树上掩藏着的智慧…\n",
+        "zht": "\n據說：\n曾經有一個時代，地上的人們能直接聽到來自天空的啟示。\n神的使者行走在蒙昧的人當中。此時河海枯竭，雷鳴初動。\n\n人們享受著湧流而來的智慧。而智慧帶來了繁榮。\n在最後繁榮帶來了驕傲與夢想，以及提問的智識。\n\n為此疑問天空的權威，為此妄圖登上諸神的庭園。\n即使許諾了神的愛、繁榮與智慧，天空的使者也為之震怒。\n因為，對永恆的懷疑是不允許的，\n塵泥之地對天空的試探，絕對不能原諒——\n\n頭戴白枝祭冠的主祭之人，為了平息御使的怒火，\n走向了大地的至深之處，尋求古都中銀樹上掩藏著的智慧…\n",
+        "jp": "\n話しによると、\n昔のある時代に、地上の人たちは空からの啓示が聞こえた。\n神の使者が未開の人間の間を歩いて、河と海は枯れて、雷が降り始めた。\n\n人間は流れ込む知恵を満喫し、知恵は繁栄をもたらした。\n最後に、知恵は誇りと夢、そして質問の度胸をもたらした。\n\n空の権威に質問を問う度胸、神々の庭に登る度胸を。\n神に愛と繁栄、知恵を承諾されても、天上の使者は激怒した。\n永遠への疑いは許されないことであった。\n泥まみれの大地が天空を覗くことは、決して許されなかった——\n\n白枝の冠を被る主祭は、使者の怒りを治めるため、\n大地の底まで行き、古都の銀木に隠された知恵を探った…\n",
+        "ko": "\n들어보라:\n과거 지상의 사람들이 하늘의 계시를 바로 들을 수 있었던 시대가 있었다.\n이때는 신의 사도가 우매한 사람들 속에서 살아가고 강과 바다가 메마르고 천둥번개가 내리치던 시기였다.\n\n사람들은 솟아나는 지혜를 누렸고 지혜는 번영을 가져왔다.\n최후의 번영은 자부심과 꿈, 그리고 질문이라는 지식을 가져왔다.\n\n때문에 하늘의 권위에 의문을 품게 됐고 이로 인해 신의 정원에 오르려고 했다.\n신의 사랑과 번영, 그리고 지혜를 허락받았다 하더라도 하늘의 사도는 이에 분노했다.\n때문에 영원에 대한 의심은 참을 수 없는 것이며,\n먼지의 땅이 하늘을 시험하는 건 절대 용서받지 못하는 것이었다——\n\n흰색 제사 모자를 쓴 제사장은 사도의 분노를 가라앉히기 위해\n고도의 은색 나무 안에 숨겨진 지혜를 찾아 대지의 가장 깊은 곳으로 향했다….\n",
+        "en": "\nThey say that,\nOnce upon a time, the people of the land could hear revelations from the heavens directly.\nThen, the envoys of the gods would walk among benighted humanity, and the waters ran dry as thunder first pierced the skies.\n\nPeople enjoyed untold wisdom, and that wisdom was their boon.\nTheir prosperity brought pride and ambition, and the mind to question.\n\nSo they questioned the heavens' authority, and schemed to enter the garden of gods.\nAnd though they had promised to the people divine love, prosperity and wisdom, the envoys of heaven were angry.\nFor to question eternity was forbidden,\nFor earth to challenge sky, inexpiable.\n\nSo the chief priest who wore the white-branched crown went forth to appease the divine envoys,\nAnd into the deep places he went, seeking the hidden wisdom of the silver tree in the ancient capitol...\n",
+        "de": "\nEs wird gesagt,\nes gab eine Zeit, da konnten die Menschen des Landes die Offenbarungen des Himmels direkt hören.\nDann wanderten die Gesandten der Götter durch die ignorante Menschheit und die Gewässer versiegten, als der Donner zum ersten Mal den Himmel durchbrach.\n\nDie Menschen erfreuten sich an Weisheit und diese Weisheit war gleichzeitig ihr Segen.\nIhr Wohlstand brachte Stolz und Ehrgeiz und den Verstand, um Dinge infrage zu stellen.\n\nSo stellten sie die Autorität des Himmels infrage und planten, den Garten der Götter zu betreten.\nUnd obwohl sie dem Volk göttliche Liebe, Wohlstand und Weisheit versprochen hatten, waren die Gesandten des Himmels zornig.\nDenn die Ewigkeit infrage zu stellen, war verboten.\nDass die Erde es wagte den Himmel herauszufordern, unverzeihlich.\n\nSo ging der Hohepriester, der die weiße Krone trug, hinaus, um die göttlichen Gesandten zu besänftigen,\nin die entlegensten Orte der Welt auf der Suche nach der verborgenen Weisheit des silbernen Baumes in der alten Hauptstadt ...\n",
+        "es": "\nSegún algunas personas,\nalguna vez, la gente de la tierra podía escuchar las revelaciones celestiales procediendo directamente del cielo.\nEn ese entonces, los enviados de los dioses caminaban entre la ignorante raza humana, y las aguas estaban secas desde que los rayos partieron los cielos.\n\nLa gente disfrutaba de una abundante sabiduría, y esta sabiduría los llevó a la prosperidad.\nLa prosperidad, a su vez, les trajo orgullo y ambición, así como la capacidad para cuestionar las cosas.\n\nEntonces, dudaron de la autoridad celestial y planearon la forma de entrar al jardín de los dioses.\nAunque le habían prometido a los dioses amor, prosperidad y sabiduría divinas, los emisarios del cielo estaban furiosos.\nDudar de la eternidad estaba prohibido,\ny que la tierra retara al cielo era imperdonable.\n\nAsí pues, el sumo sacerdote, coronado con ramas blancas, se dirigió a tranquilizar a los emisarios.\nPara ello, se adentró en las profundidades de la tierra y buscó la sabiduría oculta del árbol plateado en la antigua capital...\n",
+        "fr": "\nLa légende raconte :\nIl était une fois, ceux qui vivaient sur terre avaient le pouvoir d'entendre les messages provenant des cieux.\nLes messagers divins vivaient parmi les ignorants mortels. Les eaux s'évaporèrent lorsque le tonnerre déchira le ciel.\n\nL'humanité connut la sagesse qui lui apporta richesse.\nLa prospérité donna naissance à l'orgueil et l'ambition dans l'esprit des hommes, mais également à de nombreuses questions...\n\nCes derniers remirent en cause l'autorité divine et tentèrent d'usurper le pouvoir.\nMalgré avoir promis bénédiction, prospérité et sagesse aux mortels, les messagers divins ne purent contenir leur ire.\nDouter de l'éternité était interdit, \nmais que la terre ose défier le ciel était impardonnable.\n\nL'humanité envoya le prêtre à la couronne en bois blanc afin d'apaiser la colère des messagers,\net dans les confins du monde il s'aventura encore, à la recherche de la sagesse abritée par l'arbre argenté de la capitale antique...\n",
+        "pt": "\nDizem que:\nHouve uma época em que o povo da terra podia ouvir revelações diretamente do céu.\nNaquela época, os emissários do céu andavam entre os humanos ignorantes, e as águas secaram quando os primeiros raios partiram o céu.\n\nO povo desfrutava de uma sabedoria oculta, e aquela sabedoria lhes trouxe sua prosperidade.\nSua prosperidade lhes trouxe orgulho e ambição, assim como a sabedoria para questionar.\n\nQuestionaram a autoridade do céu, e tentaram futilmente entrar nos jardins divinos.\nApesar de lhes prometer o amor dos deuses, prosperidade e conhecimento, os emissários dos deuses enfureceram-se.\nPorque questionar a eternidade não era permitido,\nnão havia pretexto para a terra questionar o céu.\n\nO sacerdote com a coroa de galhos brancos, para acalmar a raiva dos emissários divinos,\nPartiu para as profundezas, buscando a sabedoria da árvore prateada da antiga capital...\n",
+        "ru": "\nГоворят, что\nкогда-то люди получали озарения прямиком от самих небес.\nВ те времена посланники богов ходили меж тёмных смертных. Реки и моря высохли, а в небе не стихали раскаты грома.\n\nЛюди принимали неизвестную им мудрость, и она приносила процветание.\nПроцветание породило гордыню и честолюбие, а также пытливость ума.\n\nВласть неба была подставлена под сомнение, и возникла дерзкая идея проникнуть в царство богов.\nПосланники богов, сулившие людям любовь, мудрость и процветание, были вне себя от гнева.\nВедь сомневаться в вечном было запрещено,\nа земле бросать небесам вызов - непростительно.\n\nПоэтому увенчанный белыми ветвями верховный жрец решил задобрить божественных посланников,\nи отправился в глубины мира за тайной мудростью, которая покоилась на ветвях серебряного древа.\n",
+        "id": "\nDikatakan bahwa:\nAda suatu masa ketika orang-orang di dunia bisa secara langsung mendengar suara dari langit.\nPara malaikat berjalan di antara manusia. Pada saat itu, sungai dan lautan mulai mengering, dan guntur mulai bergerak menuruni bumi.\n\nOrang menikmati kebijaksanaan yang mengalir dari sana. Dan kebijaksanaan membawa kemakmuran.\nPada akhirnya kemakmuran membawa kebanggaan dan impian, serta kebijaksanaan untuk mengajukan berbagai pertanyaan.\n\nManusia mulai mempertanyakan otoritas langit, dan karena alasan inilah, mereka mencoba untuk menemukan kediaman para Dewa.\nMeskipun telah menjanjikan cinta para Dewa, kemakmuran dan kebijaksanaan, para malaikat langit tetap marah.\nKarena keraguan tentang keabadian tidak diperbolehkan,\nTidak dapat menoleransi hal kotor dan tanah berdebu dari duniawi untuk bisa sampai ke langit-\n\nImam kepala mengenakan topi tinggi berwarna putih, untuk meredakan amarah langit,\nPergi ke bagian terdalam bumi, mencari kebijaksanaan yang tersembunyi di pohon perak ibukota kuno ...\n",
+        "th": "\nว่ากันว่า: \nมีช่วงเวลายุคหนึ่ง ที่คนบนพื้นดินสามารถฟังการชี้นำจากสวรรค์ได้โดยตรง\nผู้ส่งสาสน์ของเทพเจ้าเดินอยู่ท่ามกลางผู้คนที่ไร้เดียงสา ในเวลานั้นแม่น้ำและทะเลเหือดแห้ง และท้องฟ้าก็เริ่มคำราม\n\nผู้คนเพลิดเพลินไปกับภูมิปัญญาที่ไหลมาจากที่นั่น และภูมิปัญญานำมาซึ่งความเจริญรุ่งเรือง\nท้ายที่สุดความมั่งคั่งนำความภาคภูมิใจและความฝันมา เช่นเดียวกับภูมิปัญญาทำให้เกิดข้อสงสัย\n\nเรื่องนี้ทำให้เกิดคำถามถึงอำนาจของสวรรค์ และด้วยเหตุนี้เขาจึงพยายามขึ้นไปบนสวนของเทพเจ้า\nถึงแม้จะได้รับความรัก ความเจริญรุ่งเรือง และสติปัญญาจากเทพเจ้า แต่ผู้ส่งสาสน์แห่งสวรรค์ก็ยังคงพิโรธ\nเพราะการสงสัยเกี่ยวกันการเป็นนิรันดร์เป็นสิ่งต้องห้าม\nดินแดนที่เต็มไปด้วยฝุ่นกล้าท้าทายสวรรค์ สิ่งนี้มิอาจอภัยได้ ——\n\nนักบวชสวมมงกุฎกิ่งไม้ขาว เพื่อคลายความพิโรธให้สงบลง\nเขามุ่งไปยังส่วนที่ลึกที่สุดของโลก เพื่อค้นหาภูมิปัญญาที่ซ่อนอยู่ในต้นไม้เงินของเมืองหลวงโบราณ...\n",
+        "vi": "\nChuyện kể rằng:\nTừng có một thời đại, người trên mặt đất có thể nghe được chỉ thị từ bầu trời.\nSứ giả của Thần đi trong biển người mông muội. Khi đó biển hồ khô cạn, sấm sét bắt đầu giáng xuống.\n\nNgười người tận hưởng trí tuệ tuôn trào. Và trí tuệ mang đến sự phồn vinh.\nKhi vinh hoa cuối cùng mang theo kiêu ngạo cùng mộng tưởng, trí thức bị hoài nghi.\n\nVì thế nghi ngờ uy quyền của không trung, mưu toan mò đến đình viện của chư thần.\nDù đã hứa hẹn tình yêu của thần, phồn vinh và sáng suốt, sứ giả bầu trời cũng vẫn tức giận.\nVì không được phép hoài nghi sự vĩnh hằng,\nKhông thể tha thứ cho cõi trần dơ bẩn dò xét bầu trời...\n\nChủ tế đội mão tế cành trắng để dịu lửa giận của Ngự Sử.\nVào sâu trong lòng đất, tìm kiếm trí tuệ được yểm trên cây bạc trong cố đô...\n"
+      },
+      "imgid": "prayers_for_wisdom_circlet"
+    }
+  ]
+}

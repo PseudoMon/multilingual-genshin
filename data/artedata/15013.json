@@ -1,0 +1,85 @@
+{
+  "name": {
+    "zhs": "祭冰之人",
+    "zht": "祭冰之人",
+    "jp": "氷祭りの人",
+    "ko": "얼음을 모시는 자",
+    "en": "Prayers to Springtime",
+    "de": "Eisopfer",
+    "es": "Ritual de la Primavera",
+    "fr": "Sacrifieur Cryo",
+    "pt": "Orações para a Primavera",
+    "ru": "Шаман льда",
+    "id": "Prayers to Springtime",
+    "th": "Prayers to Springtime",
+    "vi": "Người Tế Băng"
+  },
+  "descriptions": [
+    {
+      "zhs": "受到的冰元素附着效果的持续时间减少40%。",
+      "zht": "受到的冰元素附著效果的持續時間減少40%。",
+      "jp": "受けた氷元素付着の効果継続時間-40%。",
+      "ko": "받는 얼음 원소 부착 효과 지속 시간이 40% 감소한다",
+      "en": "Affected by Cryo for 40% less time.",
+      "de": "Verringert die Dauer der Beeinträchtigung durch zusätzliches Kryo-Attribut um 40 %.",
+      "es": "Los efectos de Cryo causados sobre ti duran un 40% menos.",
+      "fr": "Réduit la durée des effets Cryo subis de 40 %.",
+      "pt": "Reduz a duração dos efeitos causados por Cryo em 40%.",
+      "ru": "Уменьшает длительность полученного Крио эффекта на 40%.",
+      "id": "Mengurangi 40% durasi efek Cryo yang diterima.",
+      "th": "ลดระยะเวลาต่อเนื่องจาก ผลกระทบธาตุน้ำแข็งลง 40%",
+      "vi": "Thời gian duy trì hiệu quả nguyên tố Băng kèm theo giảm 40%."
+    }
+  ],
+  "pieces": [
+    {
+      "type": "circlet",
+      "name": {
+        "zhs": "祭冰礼冠",
+        "zht": "祭冰禮冠",
+        "jp": "氷祭りの冠",
+        "ko": "제빙의 관",
+        "en": "Tiara of Frost",
+        "de": "Eisopferdiadem",
+        "es": "Diadema de la Escarcha",
+        "fr": "Couronne rituelle Cryo",
+        "pt": "Tiara de Gelo",
+        "ru": "Тиара холода",
+        "id": "Tiara of Frost",
+        "th": "Tiara of Frost",
+        "vi": "Nón Tế Băng"
+      },
+      "description": {
+        "zhs": "在古老的时代，司祭祀之人佩戴的礼冠。因为过去饱尝霜寒，具有奇妙的抗性。",
+        "zht": "古老的時代裡，司祭祀之人所配戴的禮冠。因過去飽嚐霜寒，擁有奇妙的抗性。",
+        "jp": "大昔の時代の司祭が使用していた冠。過去に寒さを味わっていたため、不思議な耐性を持っている。",
+        "ko": "옛날 옛적에 사제를 지낸 사람이 쓰던 예관(禮冠). 과거에 추위를 견디면서 기묘한 내성이 생겼다",
+        "en": "A tiara worn by those tasked with offering sacrifices in ancient times. Because it once weathered years of the icy cold, it possesses remarkable resistance.",
+        "de": "Ein ritueller Kopfschmuck, den Priester in alter Zeit während ihrer Zeremonien trugen. Da er lange Jahre in eisiger Kälte ruhte, hat er eine erstaunliche Widerstandskraft entwickelt.",
+        "es": "Una corona ceremonial portada por sacerdotes de tiempos antiguos al ofrecer un sacrificio a los dioses. Su exposición constante al frío gélido le ha dado una resistencia asombrosa.",
+        "fr": "Une couronne portée par les prêtres lors de cérémonies dans les temps anciens. Son exposition prolongée au gel et au froid lui a conféré une merveilleuse résistance.",
+        "pt": "Uma coroa usada por sacerdotes durante cerimônias antigamente. Sua exposição prolongada ao gelo e ao frio deu-lhe uma resistência incrível.",
+        "ru": "Ритуальный головной убор того, кому в древние времена доверяли церемонию жертвоприношения. Он обладает высоким сопротивлением к холоду благодаря годам пронзающего обледенения.",
+        "id": "Pada zaman kuno, mahkota upacara dikenakan oleh para imam. Karena bertahun-tahun mengalami cuaca sedingin es, ia memiliki daya tahan yang luar biasa.",
+        "th": "ในยุคโบราณ มงกุฎนี้ถูกสวมใส่โดยนักบวช มันได้ลิ้มรสความหนาวเหน็บ เป็นเวลาหลายปี จึงมีความต้านทานที่น่าอัศจรรย์",
+        "vi": "Là nón tế lễ được tư tế thời cổ đại đeo khi hành lễ. Vì trong quá khứ trải qua nhiều giá rét, nên rất có kháng tính."
+      },
+      "lore": {
+        "zhs": "\n据说：\n历代的主祭在生涯的最末都看到了同样的景象：\n遍地礼冠堆积在秘境之中，枯木之下。\n每一件的背后都是用一生保守的秘密。\n每一任主祭退任后都将无瑕的白枝编成的礼冠，奉还给这个世界。\n每个曾经宏伟的古都与肃穆的祭祀场，最终都会回归深邃的大地。\n\n一切繁荣当然都有终结。\n但是这不代表没有永恒。\n\n在循环的终点，大地会再度迎来春生。因此，「永恒」是环形的。\n「求索真相」是繁荣所带来的智识，而不是催生繁荣所需的种子。\n\n据说：\n曾经有一个时代，大地上的人们还能直接听到来自天空岛的启示。\n神的使者行走在蒙昧的人当中。彼时万物的气息渐弱，大地永冻。\n",
+        "zht": "\n據說：\n歷代的主祭在生涯的最末都看到了同樣的景象：\n遍地禮冠堆積在秘境之中，枯木之下。\n每一件的背後都是用一生保守的秘密。\n每一任主祭退任後都將無瑕的白枝編成的禮冠，奉還給這個世界。\n每個曾經宏偉的古都與肅穆的祭祀場，最終都會回歸深邃的大地。\n\n一切繁榮當然都有終結。\n但是這不代表沒有永恆。\n\n在循環的終點，大地會再度迎來春生。因此，「永恆」是環形的。\n「求索真相」是繁榮所帶來的智識，而不是催生繁榮所需的種子。\n\n據說：\n曾經有一個時代，大地上的人們還能直接聽到來自天空島的啟示。\n神的使者行走在蒙昧的人當中。彼時萬物的氣息漸弱，大地永凍。\n",
+        "jp": "\n話しによると、\n歴代の主祭は生涯の末で同じ光景を見た。\n秘境の中、無数の礼冠が枯木の下に積もっている。\nその一つ一つに一生をかけて守った秘密が隠されている。\n毎代の主祭は退任すると、被っていた白き礼冠を世界に戻した。\nかつて繁栄を誇った古都と祭場も、すべて深い大地に戻った。\n\nすべての繁栄には終わりがある。\nけれどそれが永遠ではないとは限らない。\n\n循環の終点には、大地が再び春を迎える。だから、「永遠」は環の形だ。\n「真相を探す」のは繁栄がもたらした知恵であるが、繁栄を生み出す種ではない。\n\n話しによると、\n昔のある時代に、地上の人たちは天空の島からの啓示が聞こえた。\n神の使者が未開の人間の間を歩いて、万物の気配は弱まり、大地が凍り始めた。\n",
+        "ko": "\n들어보라:\n역대 제사장들은 생의 마지막에 같은 현상을 보았다:\n수많은 예관이 비경 안의 시든 나무 아래 쌓여 있다.\n예관의 뒤에는 일생동안 지킨 비밀이 있었다.\n제사장들이 퇴임할 때마다 흠집 하나 없는 흰색 가지로 만든 예관을 이 세상에 반환했다.\n과거 위대했던 고도와 경건했던 제단들은 모두 마지막에 깊은 대지로 돌아갔다.\n\n모든 번영은 당연히 끝이 존재한다.\n하지만 이는 영원이 없다는 것을 의미하지 않는다.\n\n순환의 끝에서 대지는 다시 한번 봄날을 맞이할 것이다. 따라서, 「영원」은 순환되는 것이다.\n「진리 탐구」는 번영의 산물이지 번영을 꽃피우는데 필요한 씨앗이 아니다.\n\n들어보라:\n과거 대지의 사람들이 셀레스티아의 계시를 바로 들을 수도 있었던 시대가 있었다.\n이때는 신의 사도가 우매한 사람들 속에서 살아가고 만물의 기운이 점점 옅어지며 대지가 얼어붙던 시기였다.\n",
+        "en": "\nThey say that,\nThe line of chief priests have always seen this same sight as their days draw to an end:\nA mountain of crowns in a secret place, beneath a withered tree—\n—each one hiding a lifetime of secrets kept.\nEach retiring chief priest offers up their crown of flawless white branches to this world.\nEvery mighty and ancient city, and every austere place of sacrifice must one day return to profundity in the earth.\n\nAll prosperity must someday end.\nBut this does not mean that nothing is eternal.\n\nAt the end of a cycle, the earth shall be renewed. Thus eternity is cyclical.\nThe search for truth is a product of prosperity, and not the seed that plants it.\n\nThey say that,\nOnce upon a time, the people of the land could hear revelations from Celestia directly.\nThe envoys of the gods walked among benighted humanity then. In those days, life was weak, and the earth was blanketed in unending ice.\n",
+        "de": "\nEs wird gesagt,\ndie Linie der Hohenpriester habe immer den gleichen Anblick gesehen, wenn ihre Tage zu Ende gehen:\nEin Berg von Kronen an einem geheimen Ort, unter einem verdorrten Baum.\nJede von ihnen verbirgt das Geheimnis eines ganzen Lebens.\nJeder Hohepriester, der in den Ruhestand geht, opfert dieser Welt seine Krone aus makellosen weißen Zweigen.\nJede noch so mächtige und alte Stadt und jede Opferstätte muss eines Tages in die Tiefe der Erde zurückkehren.\n\nJeder Wohlstand muss eines Tages enden.\nDas heißt aber nicht, dass nichts ewig ist.\n\nAm Ende eines Zyklus soll die Erde erneuert werden. Die Ewigkeit ist also zyklisch.\nDie Suche nach der Wahrheit ist ein Produkt des Wohlstands und nicht des Samens, der ihn gebiert.\n\nEs wird gesagt,\nes gab eine Zeit, da konnten die Menschen des Landes die Offenbarungen aus Celestia direkt hören.\nDie Gesandten der Götter wandelten damals unter der gottverlassenen Menschheit. Damals war alles Leben schwach und die Erde war von unendlichem Eis bedeckt.\n",
+        "es": "\nSegún algunas personas,\ntodos los sumos sacerdotes han visto lo mismo cuando sus días se acercaban a su fin:\nuna pila de coronas ocultas bajo un árbol marchito.\nCada corona resguarda los secretos de una vida.\nAl retirarse, cada sacerdote ofrece su corona de pulcras ramas blancas a este mundo.\nCada ciudad poderosa y antigua, y cada altar de sacrificios, debe regresar finalmente a las profundidades de la tierra.\n\nAsimismo, la prosperidad algún día tiene que llegar a su fin.\nSin embargo, esto no significa que no haya nada que dure para siempre.\n\nAl final de cada ciclo vital, la tierra se renueva, por lo que la eternidad es cíclica.\nLa búsqueda de la verdad es el producto de la prosperidad, y no la semilla que la planta.\n\nSegún algunas personas,\nalguna vez, la gente de la tierra podía escuchar las revelaciones de Celestia procediendo directamente de ella.\nEn ese entonces, los enviados de los dioses caminaban entre la ignorante raza humana. En aquellos días, la vida era frágil, y todo estaba cubierto de un hielo perpetuo.\n",
+        "fr": "\nLa légende raconte :\nTous les prêtres qui se succédèrent virent la même image avant la fin de leurs jours :\nDes couronnes empilées sous un arbre mort.\nChacune d'entre elles renfermant les secrets d'une vie.\nLes prêtres léguèrent leurs couronnes de branches immaculées à ce monde.\nToutes les cités, aussi prospères et pieuses furent-elles, devaient retourner dans les entrailles de la terre.\n\nToutes les bonnes choses ont une fin.\nToutefois, cela ne signifie pas que rien n'est éternel.\n\nLa terre renaît à la fin de chaque cycle dans lequel l'éternité s'inscrit.\nLa recherche de la vérité est le fruit d'une civilisation prospère et non son origine.\n\nLa légende raconte :\nIl était une fois, ceux qui vivaient sur terre avaient le pouvoir d'entendre les messages provenant de Celestia.\nLes messagers divins vivaient parmi les ignorants mortels. La vie sur terre, plongée dans la glace éternelle, était fragile.\n",
+        "pt": "\nDizem que:\nA linhagem de sacerdotes sempre têm a mesma visão à medida que seus dias finais se aproximam:\numa montanha de coroas em um lugar secreto, sob uma árvore murcha.\nCada coroa guarda os segredos de uma vida.\nCada sacerdote chefe que se aposentou oferece a sua coroa de ramos brancos perfeitos a este mundo.\nCada cidade poderosa e antiga, e cada lugar austero de sacrifício deve um dia retornar à profundidade na terra.\n\nToda prosperidade um dia chega ao fim.\nMas isso não significa que nada dura para sempre.\n\nNo final de um ciclo, a terra será renovada. Portanto, a eternidade é cíclica.\n\"A busca pela verdade\" é o produto traduzido pela prosperidade, em vez de a semente para prosperidade.\n\nDizem que:\nEra uma vez, o povo da terra podia ouvir revelações de Celestia diretamente.\nOs mensageiros divinos viveram entre os mortais ignorantes. A vida na terra, mergulhada no gelo eterno, era frágil.\n",
+        "ru": "\nГоворят, что\nперед каждым поколением жрецов в их последние дни представал один и тот же образ:\nнагромождение венцов под засохшим деревом в таинственном месте.\nКаждый из них скрывал целую жизнь нерассказанных тайн.\nКаждый верховный жрец, отходя на покой, свой безупречный венец из белых ветвей возвращает миру.\nКаждая величественная древняя столица, каждый священный алтарь однажды должны будут вернуться в земные глубины.\n\nВсякому процветанию должен наступить конец.\nНо это не значит, что ничто не вечно.\n\nВ завершении каждого цикла обновляется земля, поэтому вечность циклична.\nПоиск истины появляется благодаря процветанию, а вовсе не наоборот.\n\nГоворят, что\nКогда-то люди получали озарения прямиком из самой Селестии.\nВ те времена посланники богов ходили меж тёмных смертных, а на скованной ледниками земле едва теплилась жизнь.\n",
+        "id": "\nDikatakan bahwa:\nPara imam kepala di masa lalu telah melihat pemandangan yang sama pada akhir hidup mereka:\nTopi upacara ditumpuk di mana-mana di bawah pohon kering.\nDi balik semuanya terdapat rahasia yang tersimpan seumur hidup.\nSetelah setiap imam kepala pensiun, dia akan memberikan kembali topi upacara tersebut dengan utuh ke dunia.\nSetiap ibu kota kuno yang agung dan altar yang khidmat akan kembali ke tanah yang dalam.\n\nTentu saja semua kemakmuran memiliki tujuan.\nTetapi ini tidak berarti bahwa tidak ada keabadian.\n\nPada akhir siklus, bumi sekali lagi akan mengantarkan musim semi ke dunia. Karena itu, \"keabadian\" akan terus berputar.\n\"Mencari kebenaran\" adalah kebijaksanaan yang dibawa oleh kemakmuran, bukan benih yang dibutuhkan untuk menghasilkan kemakmuran.\n\nDikatakan bahwa:\nAda suatu masa ketika orang-orang di bumi masih bisa secara langsung mendengar perintah dari pulau di atas langit.\nPara malaikat berjalan di antara manusia. Pada saat itu, kehidupan di bumi melemah, dan bumi membeku selamanya.\n",
+        "th": "\nว่ากันว่า: \nนักบวชในอดีต ได้เห็นฉากเดียวกันในตอนท้ายของอาชีพเขา\nมงกุฎแห่งพิธีได้วางซ้อนกัน ในดินแดนลับ ภายใต้ไม้ที่ตายแล้ว\nเบื้องหลังของแต่ละชิ้น ได้เก็บความลับไว้ตลอดชีวิต\nหลังจากหัวหน้านักบวชแต่ละคนพ้นจากตำแหน่ง พวกเขาจะคืนมงกุฎกิ่งไม้ขาวอันไร้ที่ติให้แก่โลก\nเมืองหลวงโบราณที่งดงามและแท่นบูชาอันศักดิ์สิทธิ์ จะกลับไปอยู่ในส่วนลึกของโลกในที่สุด\n\nแน่นอนว่าความเจริญรุ่งเรืองทุกอย่างย่อมมีจุดสิ้นสุด\nแต่นี่ไม่ได้หมายความว่าไม่มีความเป็นนิรันดร์\n\nในตอนท้ายของวัฏจักร ฤดูใบไม้ผลิจะหวนคืนมาอีกครั้ง ดังนั้น \"ความเป็นนิรันดร์\" จึงเป็นรูปวงกลม\n\"การค้นหาความจริง\" คือสติปัญญาที่เกิดจากความเจริญรุ่งเรือง ไม่ใช่เมล็ดพันธุ์ที่จำเป็นในการสร้างความเจริญรุ่งเรือง\n\nว่ากันว่า: \nมีช่วงเวลายุคหนึ่ง ที่คนบนพื้นดินยังสามารถฟังการชี้นำจากเกาะสวรรค์ได้โดยตรง\nผู้ส่งสาสน์ของเทพเจ้าเดินอยู่ท่ามกลางผู้คนที่ไร้เดียงสา ในเวลานั้นลมหายใจของทุกสิ่งอ่อนแอลง และโลกถูกแช่แข็งตลอดไป\n",
+        "vi": "\nChuyện kể rằng:\nChủ tế các thời đại đều thấy cùng một cảnh vào cuối đời:\nMũ lễ chất đống khắp nơi trong bí cảnh và dưới cây khô.\nPhía sau mỗi thứ đều là bí mật bảo vệ cả đời.\nMỗi chủ tế sau khi từ chức đều trả lại mũ lễ bện bằng cành trắng vẹn nguyên cho thế giới.\nMỗi cố đô hùng vĩ và tế đàn trang nghiêm đều sẽ về với đất đai sâu thẳm.\n\nTất cả phồn vinh đều có điểm cuối.\nNhưng điều này không có nghĩa là không có sự vĩnh hằng.\n\nCuối một chu kỳ, trái đất sẽ lại đón một mùa xuân mới. Vì vậy, \"vĩnh hằng\" là hình tròn.\n\"Tìm kiếm sự thật\" là trí tuệ được mang đến bởi sự thịnh vượng, không phải là hạt giống cần thiết để tạo ra sự thịnh vượng.\n\nChuyện kể rằng:\nTừng có một thời đại, người trên mặt đất có thể nghe được chỉ thị từ Đảo Thiên Không.\nSứ giả của Thần dạo bước giữa loài người ngu dốt. Khi đó hơi thở của vạn vật yếu dần, và mặt đất mãi mãi đóng băng.\n"
+      },
+      "imgid": "prayers_to_springtime_circlet"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "name": {
+    "zhs": "祭水之人",
+    "zht": "祭水之人",
+    "jp": "水祭りの人",
+    "ko": "물을 모시는 자",
+    "en": "Prayers for Destiny",
+    "de": "Wasseropfer",
+    "es": "Ritual del Destino",
+    "fr": "Sacrifieur Hydro",
+    "pt": "Orações para o Destino",
+    "ru": "Шаман воды",
+    "id": "Prayers for Destiny",
+    "th": "Prayers for Destiny",
+    "vi": "Người Tế Thủy"
+  },
+  "descriptions": [
+    {
+      "zhs": "受到的水元素附着效果的持续时间减少40%。",
+      "zht": "受到的水元素附著效果的持續時間減少40%。",
+      "jp": "受けた水元素付着の効果継続時間-40%。",
+      "ko": "받는 물 원소 부착 효과 지속 시간이 40% 감소한다",
+      "en": "Affected by Hydro for 40% less time.",
+      "de": "Verringert die Dauer der Beeinträchtigung durch zusätzliches Hydro-Attribut um 40 %.",
+      "es": "Los efectos de Hydro causados sobre ti duran un 40% menos.",
+      "fr": "Réduit la durée des effets Hydro subis de 40 %.",
+      "pt": "Reduz a duração dos efeitos causados por Hydro em 40%.",
+      "ru": "Уменьшает длительность полученного Гидро эффекта на 40%.",
+      "id": "Mengurangi 40% durasi efek Hydro yang diterima.",
+      "th": "ลดระยะเวลาต่อเนื่องจาก ผลกระทบธาตุน้ำลง 40%",
+      "vi": "Thời gian duy trì hiệu quả nguyên tố Thủy kèm theo giảm 40%."
+    }
+  ],
+  "pieces": [
+    {
+      "type": "circlet",
+      "name": {
+        "zhs": "祭水礼冠",
+        "zht": "祭水禮冠",
+        "jp": "水祭りの冠",
+        "ko": "제수의 관",
+        "en": "Tiara of Torrents",
+        "de": "Wasseropferdiadem",
+        "es": "Diadema Torrencial",
+        "fr": "Couronne rituelle Hydro",
+        "pt": "Coroa do Ritual Hydro",
+        "ru": "Тиара воды",
+        "id": "Tiara of Torrents",
+        "th": "Tiara of Torrents",
+        "vi": "Nón Tế Thủy"
+      },
+      "description": {
+        "zhs": "在古老的时代，司祭祀之人佩戴的礼冠。因为常年浸没在水中，具有奇妙的抗性。",
+        "zht": "古老的時代裡，司祭祀之人所配戴的禮冠。因長年浸沒在水中，擁有奇妙的抗性。",
+        "jp": "大昔の時代の司祭が使用していた冠。長年水に浸かっていたため、不思議な耐性を持っている。",
+        "ko": "옛날 옛적에 사제를 지낸 사람이 쓰던 예관(禮冠). 오랫동안 물속에 잠겨있어 기묘한 내성이 생겼다",
+        "en": "A tiara worn by those tasked with offering sacrifices in ancient times. Because it was submerged in water year in and year out, it possesses remarkable resistance.",
+        "de": "Ein ritueller Kopfschmuck, den Priester in alter Zeit während ihrer Zeremonien trugen. Da er lange Jahre im Wasser versunken lag, hat er eine erstaunliche Widerstandskraft entwickelt.",
+        "es": "Una corona ceremonial portada por sacerdotes de tiempos antiguos al ofrecer un sacrificio a los dioses. Haber estado sumergida bajo el agua durante tantos años le ha dado una increíble resistencia al agua.",
+        "fr": "Une couronne portée par les prêtres lors de cérémonies dans les temps anciens. Son immersion dans l'eau tout au long de l'année lui a conféré une merveilleuse résistance.",
+        "pt": "Uma coroa usada por sacerdotes durante cerimônias antigamente. Sua imersão na água ao longo do ano deu-lhe uma resistência incrível.",
+        "ru": "Ритуальный головной убор того, кому в древние времена доверяли церемонию жертвоприношения. Он обладает высоким сопротивлением к воде благодаря многолетнему погружению под воду.",
+        "id": "Pada zaman kuno, mahkota upacara dikenakan oleh para imam. Karena direndam dalam air sepanjang tahun, ia memiliki daya tahan yang luar biasa",
+        "th": "ในยุคโบราณ มงกุฎนี้ถูกสวมใส่โดยนักบวช เนื่องจากมันจมอยู่ใต้น้ำ เป็นเวลาหลายปี จึงมีความต้านทานที่น่าอัศจรรย์",
+        "vi": "Là nón tế lễ được tư tế thời cổ đại đeo khi hành lễ. Vì bị ngâm trong nước lâu ngày nên rất có kháng tính."
+      },
+      "lore": {
+        "zhs": "\n据说：\n曾经有一个时代，地上的人们能直接听到来自天空的启示。\n神的使者行走在蒙昧的人当中。此时旧火将熄，甘霖初降。\n\n人们享受着繁荣，收获丰饶的物产。\n此时大地蒙受天空的福祉与管辖，元素流动通畅有序。\n百年丰收已经写进神圣的规划，绝不可能有丝毫变动。\n\n但百年，或许千年之后呢？大地会走向贫瘠与饥馑吗？\n祭坛、宫殿会被埋入地心，仅有银白之木与之相伴吗…\n\n知无不言的，天上的使者没有回应。为了通晓命运，\n头戴白枝祭冠的主祭之人，走向了大地的至深之处…\n",
+        "zht": "\n據說：\n曾經有一個時代，地上的人們能直接聽到來自天空的啟示。\n神的使者行走在蒙昧的人當中。此時舊火將熄，甘霖初降。\n\n人們享受著繁榮，收穫豐饒的物產。\n此時大地蒙受天空的福祉與管轄，元素流動通暢有序。\n百年豐收已經寫進神聖的規劃，絕不可能有絲毫變動。\n\n但百年，或許千年之後呢？大地會走向貧瘠與饑饉嗎？\n祭壇、宮殿會被埋入地心，僅有銀白之木與之相伴嗎…\n\n知無不言的，天上的使者沒有回應。為了通曉命運，\n頭戴白枝祭冠的主祭之人，走向了大地的至深之處…\n",
+        "jp": "\n話しによると、\n昔のある時代に、地上の人たちは空からの啓示が聞こえた。\n神の使者が未開の人間の間を歩いて、古い火は消され、雨が降り始めた。\n\n人間は繁栄を満喫し、作物を収穫した。\nこの時の大地は空の祝福と管理を受け、元素の流れは秩序立っていた。\n百年の豊作はすでに神聖たる計画に書かれており、一切の変化も許しない。\n\nだけど、百年が過ぎて千年が過ぎたら？大地はだんだん枯れて行くのか？\n祭場も、宮殿も土に埋められ、銀白の樹しか隣に付き添わないのか…\n\n天上の使者は答えない。すると、運命を知るために、\n白枝で作った冠を被る主祭は、大地の底へ旅立った…\n",
+        "ko": "\n들어보라:\n과거 지상의 사람들이 하늘의 계시를 바로 들을 수 있었던 시대가 있었다.\n이때는 신의 사도가 우매한 사람들 속에서 살아가고 오래된 불이 꺼지고 단비가 처음 내리던 시기였다.\n\n사람들은 번영을 누리며 풍요로운 산물을 수확했다.\n이때의 대지는 하늘의 복지와 관할을 받았고 원소 흐름도 원활했다.\n백 년의 풍년은 이미 신성한 계획에 쓰여 절대 바뀌지 않는다.\n\n하지만 백 년, 혹은 천 년 뒤엔? 대지는 척박함과 기근에 시달릴 것인가?\n제단과 궁전이 땅에 묻히고 오직 은백 나무만이 남을 것인가….\n\n아는 걸 모두 말하던 하늘의 사도는 답하지 않았다. 운명을 알기 위해\n흰색 제사 모자를 쓴 제사장은 대지의 깊은 곳으로 향했다….\n",
+        "en": "\nThey say that,\nOnce upon a time, the people of the land could hear revelations from the heavens directly.\nThen, the envoys of the gods would walk among benighted humanity, and the ancient flames were extinguished amidst the first falling rains.\n\nIt was a prosperous time, a period of bountiful harvest.\nThen the earth was blessed and ruled by heaven, and the elemental flows were smooth and well-ordered.\nA hundred years of bounty were written in the stars, and none could change this divine law.\n\nBut what of the time after, a hundred, a thousand years from now? Would they have famine where they had plenty, poverty where once were riches?\nWould their altars and palaces become one with the soil, with only that silver-white tree for company?\n\nThe heavenly envoys, who ever spoke what they knew, were silent. So to understand this doom,\nThe chief priest, head crowned with white branches, would delve into the deep places of the world...\n",
+        "de": "\nEs wird gesagt,\nes gab eine Zeit, da konnten die Menschen des Landes die Offenbarungen des Himmels direkt hören.\nDann wandelten die Gesandten der Götter durch die ignorante Menschheit und die uralten Feuer erloschen inmitten der ersten Regenfälle.\n\nEs war eine wohlhabende Zeit, eine Zeit reicher Ernte.\nDann wurde die Erde gesegnet und vom Himmel verwaltet und die Elemente flossen in harmonischem Einklang.\nHundert Jahre voller reicher Ernte standen in den Sternen geschrieben und niemand konnte dieses göttliche Gesetz ändern.\n\nAber was wäre mit der Zeit danach, in hundert oder gar tausend Jahren? Würden sie Hungersnot erleiden, wo sie einst reichlich zu speisen hatten, und Armut, wo einst Reichtum herrschte?\nWürden ihre Altäre und Paläste eins mit der Erde werden, mit dem silberweißen Baum als einzige Gesellschaft?\n\nDie himmlischen Gesandten, die einst gesprochen hatten, wenn sie etwas wussten, schwiegen. Um also dieses Schicksal zu verstehen,\nmusste der Hohepriester, dessen Kopf mit weißen Zweigen gekrönt war, tief in alle Ecken der Welt gehen ...\n",
+        "es": "\nSegún algunas personas,\nalguna vez, la gente de la tierra podía escuchar las revelaciones celestiales procediendo directamente del cielo.\nEn ese entonces, los enviados de los dioses caminaban entre la ignorante raza humana. En aquel momento, las antiguas llamas se extinguieron con las primeras lluvias.\n\nGracias a ello, los humanos disfrutaron de tiempos de prosperidad y cosechas abundantes.\nLa tierra fue bendecida y gobernada por el cielo, y los elementos fluían suave y ordenadamente.\nEn las estrellas estaba escrito un plan para cien años de bonanza, el cual nadie podía modificar.\n\nPero ¿qué ocurriría después de esos cien o mil años? ¿Habría hambrunas en lugar de abundancia y pobreza en lugar de riqueza?\n¿Se convertirían en polvo los altares y los palacios, y lo único que quedaría serían los árboles Irminsul?\n\nLos emisarios celestiales no dijeron ni una sola palabra.\nAsí pues, para comprender su destino, el sumo sacerdote, coronado con ramas blancas, descendió a las profundidades del mundo...\n",
+        "fr": "\nLa légende raconte :\nIl était une fois, ceux qui vivaient sur terre avaient le pouvoir d'entendre les messages provenant des cieux.\nLes messagers divins vivaient parmi les ignorants mortels. Le feu qui brûlait s'éteignit avec les premières pluies diluviennes.\n\nL'humanité vécut dans l'abondance grâce aux dieux.\nLa terre était bénie par les cieux. Ses flux élémentaires présentaient également une stabilité remarquable.\nCent ans de prospérité avaient été prédits par les étoiles et rien ne pouvait empêcher le destin de se réaliser.\n\nEt après ? Qu'allait-il arriver à l'humanité dans mille ans ? Famine et pauvreté les attendaient-ils ?\nLeurs autels et leurs palais ne feraient-ils plus qu'un avec la terre ? Le grand arbre blanc argenté serait-il le seul survivant de cette catastrophe ?\n\nLes messagers divins se murèrent dans le silence. Afin de comprendre ce qui les mènerait à leur perte, \nles mortels envoyèrent un prêtre à la couronne en bois blanc aux confins du monde à la recherche d'une réponse...\n",
+        "pt": "\nDizem que:\nHouve uma época em que o povo da terra podia ouvir revelações diretamente do céu.\nNaquela época, os emissários dos deuses andavam entre os humanos ignorantes, e as chamas antigas foram extinguidas com as primeiras chuvas.\n\nEra uma época próspera, um período de boas colheitas.\nEntão a terra foi abençoada e governada pelo céu, e os fluxos elementais eram suaves e bem ordenados.\nCem anos de bonanças estavam escritos nas estrelas, e nada poderia mudar esta lei divina.\n\nMas e depois desses cem anos, ou de mil? O mundo entraria numa era de pobreza e fome?\nSeus altares e palácios seriam cobertos pela terra, com apenas aquela árvore prateada de companhia?\n\nOs emissários do céu estavam em silêncio, nunca diziam uma palavra do que sabiam. Então, para entender seu futuro,\nO sacerdote, com a cabeça coroada com galhos brancos, iria até os confins do mundo...\n",
+        "ru": "\nГоворят, что\nкогда-то люди получали озарения прямиком от самих небес.\nВ те времена посланники богов ходили меж тёмных смертных, а древние костры потушили первые дожди.\n\nБыли то времена процветания и обильных урожаев.\nБлагословенной землёй правили небеса, а стихии беспрепятственно текли своим чередом.\nСвященный план сулил столетие благоденствия, и ничто не могло этого изменить.\n\nНо что будет потом, через сто или тысячу лет? Перестанет ли родить земля, и всех постигнет великий голод?\nПоглотит ли их алтари земля, и останется лишь дерево с серебряными ветвями?\n\nОхотно делившиеся знанием посланники богов теперь молчали. Чтобы разгадать судьбу,\nувенчанный белыми ветвями верховный жрец должен был отправиться в глубины этого мира...\n",
+        "id": "\nDikatakan bahwa:\nAda suatu masa ketika orang-orang di dunia bisa secara langsung mendengar suara dari langit.\nPara malaikat berjalan di antara manusia. Pada saat itu, api mulai padam dan hujan pun mulai turun.\n\nOrang menikmati kemakmuran dan memanen beragam produk pertanian.\nPada saat itu bumi menerima berkah dan kekuatan dari langit, unsur-unsurnya mengalir dengan lancar dan teratur.\nPanen 100 tahun telah ditulis di dalam aturan langit yang sakral, dan tidak akan pernah ada perubahan sedikit pun.\n\nTapi bagaimana setelah seratus tahun dan seribu tahun kemudian? Apakah bumi akan menjadi mandul dan lapar?\nAltar dan istana akan dimakamkan di bawah tanah, hanya perak dan kayu yang menemani...\n\nMengetahui hal itu, malaikat langit tidak menjawab. Untuk memahami nasib,\nImam kepala mengenakan topi tinggi berwarna putih dan pergi ke bagian terdalam bumi ...\n",
+        "th": "\nว่ากันว่า: \nมีช่วงเวลายุคหนึ่ง ที่คนบนพื้นดินสามารถฟังการชี้นำจากสวรรค์ได้โดยตรง\nผู้ส่งสาสน์ของเทพเจ้าเดินอยู่ท่ามกลางผู้คนที่ไร้เดียงสา ในเวลานั้นกองไฟเก่าได้มอดดับลง และสายฝนได้หลั่งลงมา\n\nผู้คนต่างยินดีกับความรุ่งโรจน์นี้ และเก็บเกี่ยวพืชพรรณอันสมบูรณ์\nในเวลานั้นผืนดินได้รับพรและอำนาจจากสวรรค์ การไหลเวียนของธาตุเป็นระเบียบและราบรื่น\nการเก็บเกี่ยว 100 ปีได้ถูกเขียนลงในแผนอันศักดิ์สิทธิ์ และไม่มีการเปลี่ยนแปลงแม้แต่น้อย\n\nแต่ร้อยปี หรือพันปีต่อมาล่ะ? โลกจะแห้งแล้งและหิวโหยหรือไม่?\nแท่นบูชาและพระราชวังจะถูกฝังอยู่ในใจกลางโลก เพื่อรอวันที่จะพบกับไม้สีขาวเงินเท่านั้น...\n\nแม้ผู้ส่งสาสน์จะเข้าใจทุกอย่าง แต่เขาก็ไม่ตอบ เพื่อให้โชคชะตาเป็นไปตามกำหนด\nนักบวชสวมมงกุฎกิ่งไม้ขาวเดินลึกลงไปในผืนดิน...\n",
+        "vi": "\nChuyện kể rằng:\nTừng có một thời đại, người trên mặt đất có thể nghe được chỉ thị từ bầu trời.\nSứ giả của Thần đi trong biển người mông muội. Lúc này, ngọn lửa vụt tắt, và những cơn mưa bắt đầu.\n\nNgười người tận hưởng sự phồn vinh, thu hoạch các loại nông sản phong phú.\nKhi đó mặt đất nhận được chúc phúc và quyền lực từ bầu trời, các nguyên tố lưu chuyển suôn sẻ và có trật tự.\nTrăm năm thu hoạch đã được ghi vào quy tắc thần thánh, tuyệt đối không có bất kỳ sự thay đổi nào.\n\nNhưng trăm năm, hoặc ngàn năm sau thì sao? Trái đất có trở nên cằn cỗi và đói khát không?\nTế đàn, cung điện sẽ bị chôn vùi vào lòng đất, chỉ có gỗ bạc cùng đồng hành thôi sao...\n\nBiết gì nói đó, sứ giả bầu trời không trả lời. Để hiểu về định mệnh,\nChủ tế đầu đội mão tế trắng, đi đến nơi sâu nhất của trái đất...\n"
+      },
+      "imgid": "prayers_for_destiny_circlet"
+    }
+  ]
+}
