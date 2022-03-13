@@ -14,7 +14,7 @@ export default function Index() {
         <div class="text">
           <h2>WIP</h2>
           <p>This site is currently still a <strong>work in progress</strong>! At the moment we have <strong>Voice Overs</strong> and <strong>Stories</strong> from every character's profile, along with text data for all the <strong>Artifacts</strong>. Next, we are planning to add all Weapon stories.</p>
-          <p>If you'd like to support the development of this site, the best thing you can do is to spread the word so that more people can find this site. Also maybe follow the developer at <a href="https://twitter.com/PseudoMonious">@PseudoMonious</a> and drop a comment or two.</p>
+          <p>Feel free to spread the word about this site. Also maybe follow the developer at <a href="https://twitter.com/PseudoMonious">@PseudoMonious</a> and drop a comment or two. Always nice to hear something I made isn't just useful for myself.</p>
         </div>
         <img src="/images/rexincognito.webp"/>
         <img src="/images/choukenshinkageuchi.webp"/>

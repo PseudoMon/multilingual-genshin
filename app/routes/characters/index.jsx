@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import { Link, useLoaderData } from 'remix'
 import { getAllCharaGeneralData } from '~/data-getter/get-chara'
+import LangPicker from '~/components/lang-picker'
 
 export async function loader() {
   return { allData: await getAllCharaGeneralData() }
@@ -9,6 +10,7 @@ export async function loader() {
 export default function CharacterListPage() {
   const { allData } = useLoaderData()
   const [shownData, setShownData] = useState(allData)
+  const [activeLang, setLang] = useState("en") 
 
   const searchName = (e) => {
     const target = e.target.value.toLowerCase()
@@ -35,12 +37,18 @@ export default function CharacterListPage() {
           placeholder="Search..." onChange={ searchName } 
         />
       </header>
+
+      <LangPicker 
+        activeLang={ activeLang } 
+        setLang={(lang) => setLang(lang)} 
+      />
+
       <ul className="character-list">
         { shownData.map(chara => 
           <li key={ chara["id"] }>
             <a href={ `/characters/${chara['id']}` }>
               <img src={ `/images/charahead/${chara['id']}.png` } />
-              <span>{ chara["name"]["en"] }</span>
+              <span>{ chara["name"][activeLang] }</span>
             </a>
           </li>
         ) }
