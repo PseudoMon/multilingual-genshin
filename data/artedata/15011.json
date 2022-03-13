@@ -1,4 +1,7 @@
 {
+  "SetNeedNum": [
+    1
+  ],
   "name": {
     "zhs": "祭雷之人",
     "zht": "祭雷之人",
@@ -31,6 +34,7 @@
       "vi": "Thời gian duy trì hiệu quả nguyên tố Lôi kèm theo giảm 40%."
     }
   ],
+  "imgid": "prayers_for_wisdom_flower",
   "pieces": [
     {
       "type": "circlet",

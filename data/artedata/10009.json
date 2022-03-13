@@ -1,4 +1,8 @@
 {
+  "SetNeedNum": [
+    2,
+    4
+  ],
   "name": {
     "zhs": "流放者",
     "zht": "流放者",
@@ -46,6 +50,7 @@
       "vi": "Sau khi thi triển kỹ năng nộ, mỗi 2 giây sẽ hồi 2 điểm năng lượng nguyên tố cho tất cả nhân vật trong đội (không bao gồm bản thân). Hiệu quả trong 6 giây, không cộng dồn."
     }
   ],
+  "imgid": "the_exile_flower",
   "pieces": [
     {
       "type": "flower",

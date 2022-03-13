@@ -1,4 +1,8 @@
 {
+  "SetNeedNum": [
+    2,
+    4
+  ],
   "name": {
     "zhs": "冰之川与雪之砂",
     "zht": "冰之川與雪之砂",
@@ -46,6 +50,7 @@
       "vi": "Phản ứng Siêu Dẫn tạo ra sát thương tăng 100%, phản ứng Tan Chảy tăng hệ số buff 15%. 10s sau khi thi triển Kỹ Năng Nộ, sát thương Nguyên Tố Băng tăng thêm 30%."
     }
   ],
+  "imgid": "glacier_and_snowfield_flower",
   "pieces": [
     {
       "type": "flower",

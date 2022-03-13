@@ -29,7 +29,7 @@ export function links() {
     },
     {
       rel: "stylesheet",
-      href: "https://fonts.googleapis.com/css2?family=Signika:wght@400;600&display=swap"
+      href: "https://fonts.googleapis.com/css2?family=Signika:wght@400;500;600&display=swap"
     },
     { rel: "stylesheet", href: normalizeStyles },
     { rel: "stylesheet", href: baseStyles },

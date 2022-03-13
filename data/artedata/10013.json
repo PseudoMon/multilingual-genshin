@@ -1,4 +1,8 @@
 {
+  "SetNeedNum": [
+    2,
+    4
+  ],
   "name": {
     "zhs": "游医",
     "zht": "遊醫",
@@ -46,6 +50,7 @@
       "vi": "Khi thi triển Kỹ Năng Nộ, hồi 20% HP."
     }
   ],
+  "imgid": "traveling_doctor_flower",
   "pieces": [
     {
       "type": "flower",

@@ -1,4 +1,8 @@
 {
+  "SetNeedNum": [
+    2,
+    4
+  ],
   "name": {
     "zhs": "渡过烈火的贤人",
     "zht": "渡過烈火的賢人",
@@ -46,6 +50,7 @@
       "vi": "Tăng 35% sát thương tạo thành cho kẻ địch bị ảnh hưởng nguyên tố Hỏa."
     }
   ],
+  "imgid": "lavawalker_flower",
   "pieces": [
     {
       "type": "flower",

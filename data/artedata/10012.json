@@ -1,4 +1,8 @@
 {
+  "SetNeedNum": [
+    2,
+    4
+  ],
   "name": {
     "zhs": "学士",
     "zht": "學士",
@@ -46,6 +50,7 @@
       "vi": "Khi nhận Nguyên Tố Hạt Nhân hoặc Nguyên Tố Tinh Cầu, tất cả nhân vật dùng cung tên và Pháp Khí trong đội sẽ hồi thêm 3 Năng Lượng Nguyên Tố. Mỗi 3s mới thi triển 1 lần."
     }
   ],
+  "imgid": "scholar_flower",
   "pieces": [
     {
       "type": "flower",

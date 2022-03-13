@@ -8,6 +8,10 @@
       51110,
       51130
     ],
+    "SetNeedNum": [
+      2,
+      4
+    ],
     "name": {
       "zhs": "行者之心",
       "zht": "行者之心",
@@ -65,6 +69,10 @@
       52150,
       52110,
       52130
+    ],
+    "SetNeedNum": [
+      2,
+      4
     ],
     "name": {
       "zhs": "勇士之心",
@@ -124,6 +132,10 @@
       53110,
       53130
     ],
+    "SetNeedNum": [
+      2,
+      4
+    ],
     "name": {
       "zhs": "守护之心",
       "zht": "守護之心",
@@ -181,6 +193,10 @@
       54150,
       54110,
       54130
+    ],
+    "SetNeedNum": [
+      2,
+      4
     ],
     "name": {
       "zhs": "奇迹",
@@ -240,6 +256,10 @@
       55110,
       55130
     ],
+    "SetNeedNum": [
+      2,
+      4
+    ],
     "name": {
       "zhs": "战狂",
       "zht": "戰狂",
@@ -297,6 +317,10 @@
       56150,
       56110,
       56130
+    ],
+    "SetNeedNum": [
+      2,
+      4
     ],
     "name": {
       "zhs": "武人",
@@ -356,6 +380,10 @@
       57110,
       57130
     ],
+    "SetNeedNum": [
+      2,
+      4
+    ],
     "name": {
       "zhs": "教官",
       "zht": "教官",
@@ -413,6 +441,10 @@
       58250,
       58210,
       58230
+    ],
+    "SetNeedNum": [
+      2,
+      4
     ],
     "name": {
       "zhs": "赌徒",
@@ -472,6 +504,10 @@
       59110,
       59130
     ],
+    "SetNeedNum": [
+      2,
+      4
+    ],
     "name": {
       "zhs": "流放者",
       "zht": "流放者",
@@ -529,6 +565,10 @@
       60150,
       60110,
       60130
+    ],
+    "SetNeedNum": [
+      2,
+      4
     ],
     "name": {
       "zhs": "冒险家",
@@ -588,6 +628,10 @@
       61110,
       61130
     ],
+    "SetNeedNum": [
+      2,
+      4
+    ],
     "name": {
       "zhs": "幸运儿",
       "zht": "幸運兒",
@@ -645,6 +689,10 @@
       62150,
       62110,
       62130
+    ],
+    "SetNeedNum": [
+      2,
+      4
     ],
     "name": {
       "zhs": "学士",
@@ -704,6 +752,10 @@
       63110,
       63130
     ],
+    "SetNeedNum": [
+      2,
+      4
+    ],
     "name": {
       "zhs": "游医",
       "zht": "遊醫",
@@ -761,6 +813,10 @@
       71350,
       71310,
       71330
+    ],
+    "SetNeedNum": [
+      2,
+      4
     ],
     "name": {
       "zhs": "冰风迷途的勇士",
@@ -820,6 +876,10 @@
       72310,
       72330
     ],
+    "SetNeedNum": [
+      2,
+      4
+    ],
     "name": {
       "zhs": "平息鸣雷的尊者",
       "zht": "平息鳴雷的尊者",
@@ -877,6 +937,10 @@
       73350,
       73310,
       73330
+    ],
+    "SetNeedNum": [
+      2,
+      4
     ],
     "name": {
       "zhs": "渡过烈火的贤人",
@@ -936,6 +1000,10 @@
       74310,
       74330
     ],
+    "SetNeedNum": [
+      2,
+      4
+    ],
     "name": {
       "zhs": "被怜爱的少女",
       "zht": "被憐愛的少女",
@@ -993,6 +1061,10 @@
       75350,
       75310,
       75330
+    ],
+    "SetNeedNum": [
+      2,
+      4
     ],
     "name": {
       "zhs": "角斗士的终幕礼",
@@ -1052,6 +1124,10 @@
       76310,
       76330
     ],
+    "SetNeedNum": [
+      2,
+      4
+    ],
     "name": {
       "zhs": "翠绿之影",
       "zht": "翠綠之影",
@@ -1109,6 +1185,10 @@
       77350,
       77310,
       77330
+    ],
+    "SetNeedNum": [
+      2,
+      4
     ],
     "name": {
       "zhs": "流浪大地的乐团",
@@ -1168,6 +1248,10 @@
       78310,
       78330
     ],
+    "SetNeedNum": [
+      2,
+      4
+    ],
     "name": {
       "zhs": "冰之川与雪之砂",
       "zht": "冰之川與雪之砂",
@@ -1225,6 +1309,10 @@
       79350,
       79310,
       79330
+    ],
+    "SetNeedNum": [
+      2,
+      4
     ],
     "name": {
       "zhs": "如雷的盛怒",
@@ -1284,6 +1372,10 @@
       80310,
       80330
     ],
+    "SetNeedNum": [
+      2,
+      4
+    ],
     "name": {
       "zhs": "炽烈的炎之魔女",
       "zht": "熾烈的炎之魔女",
@@ -1341,6 +1433,10 @@
       81350,
       81310,
       81330
+    ],
+    "SetNeedNum": [
+      2,
+      4
     ],
     "name": {
       "zhs": "昔日宗室之仪",
@@ -1400,6 +1496,10 @@
       82310,
       82330
     ],
+    "SetNeedNum": [
+      2,
+      4
+    ],
     "name": {
       "zhs": "染血的骑士道",
       "zht": "染血的騎士道",
@@ -1454,6 +1554,9 @@
     "ContainsList": [
       83330
     ],
+    "SetNeedNum": [
+      1
+    ],
     "name": {
       "zhs": "祭火之人",
       "zht": "祭火之人",
@@ -1486,12 +1589,15 @@
         "vi": "Thời gian duy trì hiệu quả nguyên tố Hỏa kèm theo giảm 40%."
       }
     ],
-    "imgid": "prayers_for_illumination_flower"
+    "imgid": "prayers_for_illumination_circlet"
   },
   {
     "SetId": 15010,
     "ContainsList": [
       84330
+    ],
+    "SetNeedNum": [
+      1
     ],
     "name": {
       "zhs": "祭水之人",
@@ -1525,12 +1631,15 @@
         "vi": "Thời gian duy trì hiệu quả nguyên tố Thủy kèm theo giảm 40%."
       }
     ],
-    "imgid": "prayers_for_destiny_flower"
+    "imgid": "prayers_for_destiny_circlet"
   },
   {
     "SetId": 15011,
     "ContainsList": [
       85330
+    ],
+    "SetNeedNum": [
+      1
     ],
     "name": {
       "zhs": "祭雷之人",
@@ -1564,12 +1673,15 @@
         "vi": "Thời gian duy trì hiệu quả nguyên tố Lôi kèm theo giảm 40%."
       }
     ],
-    "imgid": "prayers_for_wisdom_flower"
+    "imgid": "prayers_for_wisdom_circlet"
   },
   {
     "SetId": 15012,
     "ContainsList": [
       86330
+    ],
+    "SetNeedNum": [
+      1
     ],
     "name": {
       "zhs": "祭风之人",
@@ -1603,12 +1715,15 @@
         "vi": "Thời gian duy trì hiệu quả nguyên tố Phong kèm theo giảm 40%."
       }
     ],
-    "imgid": "prayers_to_the_firmament_flower"
+    "imgid": "prayers_to_the_firmament_circlet"
   },
   {
     "SetId": 15013,
     "ContainsList": [
       87330
+    ],
+    "SetNeedNum": [
+      1
     ],
     "name": {
       "zhs": "祭冰之人",
@@ -1642,7 +1757,7 @@
         "vi": "Thời gian duy trì hiệu quả nguyên tố Băng kèm theo giảm 40%."
       }
     ],
-    "imgid": "prayers_to_springtime_flower"
+    "imgid": "prayers_to_springtime_circlet"
   },
   {
     "SetId": 15014,
@@ -1652,6 +1767,10 @@
       88350,
       88310,
       88330
+    ],
+    "SetNeedNum": [
+      2,
+      4
     ],
     "name": {
       "zhs": "悠古的磐岩",
@@ -1711,6 +1830,10 @@
       89310,
       89330
     ],
+    "SetNeedNum": [
+      2,
+      4
+    ],
     "name": {
       "zhs": "逆飞的流星",
       "zht": "逆飛的流星",
@@ -1768,6 +1891,10 @@
       90350,
       90310,
       90330
+    ],
+    "SetNeedNum": [
+      2,
+      4
     ],
     "name": {
       "zhs": "沉沦之心",
@@ -1827,6 +1954,10 @@
       91310,
       91330
     ],
+    "SetNeedNum": [
+      2,
+      4
+    ],
     "name": {
       "zhs": "千岩牢固",
       "zht": "千岩牢固",
@@ -1884,6 +2015,10 @@
       92350,
       92310,
       92330
+    ],
+    "SetNeedNum": [
+      2,
+      4
     ],
     "name": {
       "zhs": "苍白之火",
@@ -1943,6 +2078,10 @@
       93412,
       93432
     ],
+    "SetNeedNum": [
+      2,
+      4
+    ],
     "name": {
       "zhs": "追忆之注连",
       "zht": "追憶之注連",
@@ -2000,6 +2139,10 @@
       94452,
       94412,
       94432
+    ],
+    "SetNeedNum": [
+      2,
+      4
     ],
     "name": {
       "zhs": "绝缘之旗印",
@@ -2059,6 +2202,10 @@
       95412,
       95432
     ],
+    "SetNeedNum": [
+      2,
+      4
+    ],
     "name": {
       "zhs": "华馆梦醒形骸记",
       "zht": "華館夢醒形骸記",
@@ -2116,6 +2263,10 @@
       96452,
       96412,
       96432
+    ],
+    "SetNeedNum": [
+      2,
+      4
     ],
     "name": {
       "zhs": "海染砗磲",

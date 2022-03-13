@@ -1,4 +1,7 @@
 {
+  "SetNeedNum": [
+    1
+  ],
   "name": {
     "zhs": "祭风之人",
     "zht": "祭風之人",
@@ -31,6 +34,7 @@
       "vi": "Thời gian duy trì hiệu quả nguyên tố Phong kèm theo giảm 40%."
     }
   ],
+  "imgid": "prayers_to_the_firmament_flower",
   "pieces": [
     {
       "type": "circlet",

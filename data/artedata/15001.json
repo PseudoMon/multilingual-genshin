@@ -1,4 +1,8 @@
 {
+  "SetNeedNum": [
+    2,
+    4
+  ],
   "name": {
     "zhs": "角斗士的终幕礼",
     "zht": "角鬥士的終幕禮",
@@ -46,6 +50,7 @@
       "vi": "Khi nhân vật trang bị bộ Thánh Di Vật này dùng kiếm đơn, trọng kiếm, vũ khí cán dài, sát thương tấn công thường nhân vật tạo thành tăng 35%."
     }
   ],
+  "imgid": "gladiators_finale_flower",
   "pieces": [
     {
       "type": "flower",

@@ -1,4 +1,8 @@
 {
+  "SetNeedNum": [
+    2,
+    4
+  ],
   "name": {
     "zhs": "冒险家",
     "zht": "冒險家",
@@ -46,6 +50,7 @@
       "vi": "5s sau khi mở các loại rương, duy trì hồi 30% HP."
     }
   ],
+  "imgid": "adventurer_flower",
   "pieces": [
     {
       "type": "flower",

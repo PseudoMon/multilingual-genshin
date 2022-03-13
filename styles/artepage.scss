@@ -1,0 +1,197 @@
+.lang-picker {
+    & > * {
+        background-color: var(--color-darkoverlay);
+        color: var(--color-bg);
+        border-color: var(--color-darkoverlay);
+    }
+}
+
+.artifact-list {
+    list-style: none;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    grid-gap: 40px;
+
+    box-sizing: border-box;
+    width: 100%;
+    max-width: 831px;
+    margin: 0 auto;
+
+    li a {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        opacity: 0.8;
+
+        &:hover {
+            opacity: 1.0;
+        }
+    }
+
+    li span {
+        color: var(--color-text);
+        box-sizing: border-box;
+        background: var(--color-overlay);
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+        border-radius: 20px;
+        padding: 0.5em 1em;
+        text-align: center;
+    }
+
+    img {
+        max-width: 100%;
+    }
+}
+
+.artifact-main {
+    display: grid;
+    grid-template-columns: 376px 1fr;
+    grid-gap: 65px;
+
+    @media (max-width: 1000px) {
+        grid-template-columns: 1fr;
+        grid-gap: 1em;
+    }
+
+    img {
+        max-width: 100%;
+    }
+
+    ul {
+        list-style: none;
+        padding-left: 0;
+    }
+
+    .sidebar {
+        align-self: start;
+        top: 0;
+
+        background-color: var(--color-textbg);
+        border-radius: 30px;
+        padding: 20px 30px;
+
+        text-align: center;
+
+        .set-name {
+            margin: 0 0 1em 0;
+            font-size: 1.6em;
+            line-height: 100%;
+
+            span {
+                box-sizing: border-box;
+                display: inline-block;
+                background: var(--color-overlay);
+                box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+                border-radius: 20px;
+                padding: 0.4em 1em;
+                text-align: center;
+            }
+        }
+
+        .description {
+            text-align: left;
+            padding: 0 40px;
+
+            .desc-title {
+                font-size: 1em;
+                background-color: var(--color-darkoverlay);
+                color: var(--color-semibg);
+                border-radius: 10px;
+                padding: 5px 10px;
+                margin-bottom: 5px;
+            }
+
+            p { margin-top: 0;}
+        }
+    }
+
+    .artifact-pieces {
+        li {
+            margin: 80px auto;
+            display: grid;
+            grid-gap: 30px;
+            grid-template-columns: 180px 1fr;
+
+            &:first-child {
+                margin-top: 50px;
+            }
+
+            .piece-baseinfo {
+                background-color: var(--color-textbg);
+                border-radius: 30px;
+                margin-top: 1em;
+
+                .piece-name {
+                    font-size: 1.2em;
+                    font-weight: 500;
+                    background-color: var(--color-overlay);
+                    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+                    border-radius: 10px;
+
+                    padding: 0.5em 1em;
+                    margin-bottom: 0;
+                    margin-top: -1em;
+
+                    width: 80%;
+                    margin-left: auto;
+                    margin-right: auto;
+
+                    position: relative;
+                    z-index: 2;
+                }
+
+                .piece-type {
+                    display: inline-block;
+                    font-size: 1em;
+                    color: var(--color-semibg);
+                    background-color: var(--color-darkoverlay);
+                    border-radius: 10px;
+
+                    margin-top: 0;
+                    margin-left: 10%;
+                    margin-bottom: 0;
+                    padding: 18px 0.8em 0.5em 0.8em;
+
+                    position: relative;
+                    top: -10px;
+                }
+
+                .piece-description {
+                    margin-top: 0;
+                    padding: 0.5em 2.4em;
+                }
+            }
+
+            .lore-button {
+                background-color: var(--color-accent);
+                color: var(--color-text);
+                border: none;
+                border-radius: 20px;
+                box-shadow: 0px 3px 3px rgba(0, 0, 0, 0.25);
+                
+                cursor: pointer;
+                display: flex;
+                align-items: center;
+                
+                padding: 0.3em 1em;
+                margin-left: 10%;
+                margin-top: -40px;
+                font-size: 1.2em; 
+
+                position: relative;
+                top: 30px;
+
+                span { margin-right: 0.5em; }
+            }
+
+            .piece-lore {
+                grid-column: span 2;
+                margin-top: -20px;
+                background-color: var(--color-textbg);
+                border-radius: 30px;
+                padding: 1em 12% 0.5em 12%;
+                white-space: pre-line;
+            }
+        }
+    }
+}

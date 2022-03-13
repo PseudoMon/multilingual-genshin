@@ -1,4 +1,7 @@
 {
+  "SetNeedNum": [
+    1
+  ],
   "name": {
     "zhs": "祭冰之人",
     "zht": "祭冰之人",
@@ -31,6 +34,7 @@
       "vi": "Thời gian duy trì hiệu quả nguyên tố Băng kèm theo giảm 40%."
     }
   ],
+  "imgid": "prayers_to_springtime_flower",
   "pieces": [
     {
       "type": "circlet",

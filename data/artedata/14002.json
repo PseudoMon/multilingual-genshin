@@ -1,4 +1,8 @@
 {
+  "SetNeedNum": [
+    2,
+    4
+  ],
   "name": {
     "zhs": "平息鸣雷的尊者",
     "zht": "平息鳴雷的尊者",
@@ -46,6 +50,7 @@
       "vi": "Tăng 35% sát thương tạo thành cho kẻ địch bị ảnh hưởng nguyên tố Lôi."
     }
   ],
+  "imgid": "thundersoother_flower",
   "pieces": [
     {
       "type": "flower",

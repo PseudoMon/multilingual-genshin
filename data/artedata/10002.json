@@ -1,4 +1,8 @@
 {
+  "SetNeedNum": [
+    2,
+    4
+  ],
   "name": {
     "zhs": "勇士之心",
     "zht": "勇士之心",
@@ -46,55 +50,56 @@
       "vi": "Kẻ địch có HP cao hơn 50%, sát thương gây ra tăng 30%."
     }
   ],
+  "imgid": "brave_heart_flower",
   "pieces": [
     {
-      "type": "circlet",
+      "type": "flower",
       "name": {
-        "zhs": "祭风礼冠",
-        "zht": "祭風禮冠",
-        "jp": "風祭りの冠",
-        "ko": "제풍의 관",
-        "en": "Tiara of Gales",
-        "de": "Windopferdiadem",
-        "es": "Diadema de la Tempestad",
-        "fr": "Couronne rituelle Anémo",
-        "pt": "Coroa do Ritual Anemo",
-        "ru": "Тиара ветра",
-        "id": "Tiara of Gales",
-        "th": "Tiara of Gales",
-        "vi": "Nón Tế Phong"
+        "zhs": "勇士的勋章",
+        "zht": "勇士的勳章",
+        "jp": "勇士の勲章",
+        "ko": "용사의 훈장",
+        "en": "Medal of the Brave",
+        "de": "Reckenmedaille",
+        "es": "Medalla del Guerrero",
+        "fr": "Emblème du Brave",
+        "pt": "Medalha do Valente",
+        "ru": "Брошь храбреца",
+        "id": "Medal of the Brave",
+        "th": "Medal of The Brave",
+        "vi": "Huy Chương Dũng Sĩ"
       },
       "description": {
-        "zhs": "在古老的时代，司祭祀之人佩戴的礼冠。过去，风常常从礼冠构成的空洞中穿过。",
-        "zht": "古老的時代裡，司祭祀之人所配戴的禮冠。過去，風常常從禮冠構成的空洞中穿過。",
-        "jp": "大昔の時代の司祭が使用していた冠。昔、風はよく冠の隙間を通っていた。",
-        "ko": "옛날 옛적에 사제를 지낸 사람이 쓰던 예관(禮冠). 과거 바람이 예관의 구멍을 자주 관통했다",
-        "en": "A tiara worn by those tasked with offering sacrifices in ancient times. Wind once freely flowed through the various openings in the headdress.",
-        "de": "Ein ritueller Kopfschmuck, den Priester in alter Zeit während ihrer Zeremonien trugen. Der Wind sauste all die Jahre durch ihre Öffnungen.",
-        "es": "Una corona ceremonial portada por sacerdotes de tiempos antiguos al ofrecer un sacrificio a los dioses. En el pasado, el viento solía pasar a través de los espacios vacíos de la corona.",
-        "fr": "Une couronne portée par les prêtres lors de cérémonies dans les temps anciens. Le vent soufflait à travers ses ouvertures.",
-        "pt": "Uma coroa usada por sacerdotes durante cerimônias antigamente. O vento soprava frequentemente através da sua fenda.",
-        "ru": "Ритуальный головной убор того, кому в древние времена доверяли церемонию жертвоприношения. Он обладает высоким сопротивлением к ветру благодаря дырам в нём, сквозь которые проходит воздух.",
-        "id": "Pada zaman kuno, mahkota upacara dikenakan oleh para imam. Di masa lalu, angin sering melewati lubang yang dibentuk oleh mahkota upacara.",
-        "th": "ในยุคโบราณ มงกุฎนี้ถูกสวมใส่โดยนักบวช ในอดีต มีสายลมพัดผ่าน รูโหว่ที่อยู่บนมงกุฎอยู่เสมอ",
-        "vi": "Là nón tế lễ được tư tế thời cổ đại đeo khi hành lễ. Gió vẫn thường thổi qua khe hở trên nón."
+        "zhs": "别在胸前的朴实小花，是一次冒险后得到的纪念品。",
+        "zht": "別在胸前的樸實小花，是一次冒險後得到的紀念品。",
+        "jp": "胸元につける素朴な小花、冒険の後に入手した記念品である。",
+        "ko": "가슴에 달려있는 소박한 꽃, 한 번의 모험 끝에 얻은 기념품이다",
+        "en": "A simple flower brooch that is a keepsake from someone's first adventure.",
+        "de": "Eine schlichte Brosche, die als Andenken an ein vergangenes Abenteuer fungiert.",
+        "es": "Broche muy sencillo hecho con una flor. Es un recuerdo de la primera gran aventura del Guerrero.",
+        "fr": "Une simple broche qui symbolise le souvenir d'une aventure passée.",
+        "pt": "Não é apenas uma simples flor no peito, é uma lembrança depois de uma aventura.",
+        "ru": "Простенькая брошь из цветка. Память об одном из первых приключений.",
+        "id": "Bros sederhana dengan bentuk bunga, merupakan cendera mata dari petualangan pertama seseorang.",
+        "th": "เข็มกลัดดอกไม้ที่เรียบง่าย ของที่ระลึกจากการผจญภัย",
+        "vi": "Bông hoa nhỏ đeo trước ngực, là vật kỷ niệm sau một lần mạo hiểm."
       },
       "lore": {
-        "zhs": "\n小小的勇士深入密林，踏上抗争的旅程。\n而最好的玩伴则扮演着贵族的冠军骑士。\n\n「如雄狮般漫步战场，一如千年前的她那样」\n「将刀剑纺成的诗献给未来的少年与少女吧」\n\n两人的假大剑与长树枝相互撞击，开始决斗——\n最终抗争的勇士取得了胜利，摘下了贵族之冠。\n\n多年后，这顶花草编成的粗陋冠冕，\n却显得比统领骑士的权能更加宝贵…",
-        "zht": "\n小小的勇士深入密林，踏上抗爭的旅程。\n而最好的玩伴則扮演著貴族的冠軍騎士。\n\n「如雄獅般漫步戰場，一如千年前的她那樣」\n「將刀劍紡成的詩獻給未來的少年與少女吧」\n\n兩人的假大劍與長樹枝相互撞擊，開始決鬥——\n最終抗爭的勇士取得了勝利，摘下了貴族之冠。\n\n多年後，這頂花草編成的粗陋冠冕，\n卻顯得比統領騎士的權能更加寶貴…",
-        "jp": "\n小さい勇者は森に深入り、抗う旅に出た。\nそして彼の友は貴族のチャンピオン騎士役を演じた。\n\n「獅子のように戦場を歩け、千年前のあの人のように」\n「剣の詩を紡いで未来の少年少女に捧げよう」\n\n二人はおもちゃの大剣と枝でぶつかり合い、決闘を始めた——\n最後に勝利を得たのは抗いの勇者、彼は貴族の冠を手にした。\n\n時が経って、その野花と雑草で編むられた冠は、\n騎士を指揮する権力よりも貴重なものになった。",
-        "ko": "\n작디작은 용사는 밀림 깊이 들어가 항쟁의 여정에 오른다.\n그러나 가장 친한 친구는 귀족 역할을 하고 있는 챔피언 기사다.\n\n「수사자 같이 전장을 거닌다. 마치 천 년 전의 그녀처럼」\n「도검으로 짠 시를 미래의 소년과 소녀에게」\n\n두 사람의 가짜 대검과 긴 나뭇가지가 부딪히며 결투가 시작됐다——\n결국 항쟁의 용사가 승리를 거두고 귀족의 관을 벗겼다.\n\n수년 후 이 꽃으로 만든 조잡한 모자는\n기사를 통솔하는 권능보다 더 귀하게 여겨진다…",
-        "en": "\nThe little hero entered the deep, mysterious forest, and henceforth walked the path of resistance.\nHis best playmate played the role of the champion knight of the aristocracy.\n\n\"Like a lion I stride the battlefield, like she did a thousand years before.\"\n\"Songs I will inspire with my sword, to give to generations to come.\"\n\nTheir toy greatswords and tree branches clashed in their fierce duel—\nTill at last the hero won the day, and seized the aristocrats' crowns from their heads.\n\nMany years later, this wreath of flowers, though crudely made,\nWould seem more precious still than the power a master of knights held...",
-        "de": "\nDer kleine Held betrat den tiefen, geheimnisvollen Wald und ging fortan den Weg des Widerstands.\nSein bester Spielkamerad spielte die Rolle des adeligen Ritters der Aristokratie.\n\n„Wie ein Löwe schreite ich über das Schlachtfeld, wie sie es tausend Jahre zuvor getan hat.“\n„Ich werde Lieder mit meinem Schwert inspirieren, um sie kommenden Generationen zu schenken.“ \n\nIhre Spielzeugschwerter schlugen aufeinander und Äste zerbarsten in ihrem hitzigen Duell,\nbis schließlich der Recke den Sieg davontrug und den Aristokraten die Krone vom Kopf riss.\n\nViele Jahre später wurde dieser Blumenkranz, wenn auch nicht sehr ordentlich geflochten,\nnoch wertvoller als die Macht, die ein Ritter normalerweise hatte ...",
-        "es": "\nEl pequeño Guerrero emprendió el camino de la resistencia desde el momento en que se adentró en el profundo y misterioso bosque.\nSu mejor compañero de juegos interpretó el papel del caballero campeón de la aristocracia.\n\n“Por el campo de batalla caminaré como un león, como lo hizo ella hace mil años.\nInspiraré canciones con mi espada para las generaciones futuras”.\n\nSus espadas de juguete y las ramas de los árboles chocaron en su feroz duelo.\nHasta que, por fin, el Guerrero ganó y les arrebató las coronas a los aristócratas.\n\nLa corona de flores, aunque toscamente elaborada,\nparecía aún más valiosa que el poder del que gozaba un comandante de caballería.",
-        "fr": "\nLe héros, encore enfant, s'enfonçait dans la forêt mystérieuse dans la peau d'un rebelle.\nSon compagnon de jeu incarnait un chevalier, champion de l'aristocratie tyrannique.\n\n« Je me tiens sur le champ de bataille, tel un lion. Comme elle l'a fait autrefois, il y a mille ans. »\n« Ma lame inspirera des chants connus par les générations futures. »\n\nLe fracas de la fausse épée contre la branche de bois marqua le début de leur affrontement.\nCe dernier dura jusqu'à ce que le héros parvint à arracher la couronne de l'aristocrate.\n\nMalgré le temps qui passe,\ncette couronne de fleurs rudimentaire demeura plus précieuse que le pouvoir de commander des hommes.",
-        "pt": "\nO pequeno herói entrou na floresta densa e misteriosa, e desde então percorreu o caminho da resistência.\nE seu melhor companheiro de jogo tinha o papel de cavaleiro campeão da aristocracia.\n\n\"Desfilo pelo campo de batalha como um leão, como ela fez há mil anos.\"\n\"Inspirarei canções com minha espada para as gerações futuras.\"\n\nSuas espadas de brincar e os ramos das árvores chocavam em seu feroz duelo-\nNo final, o herói venceu e tirou as coroas dos aristocratas.\n\nMuitos anos depois, a rudimentar coroa de flores\nSeria ainda mais preciosa do que o poder que possuíam os cavaleiros líderes...",
-        "ru": "\nЮный герой вошёл в таинственный дремучий лес и ступил на путь сопротивления.\nЕго лучший друг детства стал же рыцарем на службе аристократов.\n\n«Словно лев шагаю я по полю боя. Совсем как она, тысячи лет назад.\nПоэты сложат о моём мече стихи, которые дойдут до потомков».\n\nИх игрушечные мечи и ветки в свирепом поединке ударялись друг о друга,\nпока герой не одержал победу и не и отнял у аристократов корону.\n\nМного лет спустя этот грубый, сплетённый из цветов венец\nказался ценностью ещё большей, чем власть командира рыцарей...",
-        "id": "\nPrajurit pemberani kecil maju berjalan ke dalam hutan, melangkah untuk berjuang melakukan perlawanan.\nDan sahabatnya adalah Knight bangsawan kelas satu.\n\n\"Berjalan maju ke medan perang bagaikan seekor singa, sama seperti seribu tahun yang lalu.\"\n\"Puisi yang terjalin dari pedang untuk diberikan kepada anak laki-laki dan perempuan di masa depan\"\n\nMereka berdua bertarung dengan pedang besar tiruan yang terbuat dari dahan pohon-\nPada akhirnya, sang pejuang memenangkan pertarungan dan mengambil mahkota bangsawan tersebut.\n\nBertahun-tahun kemudian, bunga rumput dirangkai menjadi sebuah mahkota bunga,\nNamun itu menjadi lebih berharga daripada kekuatan untuk memerintah seorang Knight...",
-        "th": "\nนักรบตัวน้อยเดินลึกเข้าไปในป่าทึบ และเริ่มการเดินทางของการต่อต้าน\nเพื่อนเล่นคนสนิทของเขาสวมบทบาทเป็นอัศวินผู้มีเกียรติ\n\n\"เดินเข้าไปในสนามรบเหมือนสิงโต ให้เหมือนที่เธอผู้นั้นเคยทำเมื่อพันปีที่แล้ว\"\n\"บทกวีที่จากดาบที่แกว่งไกวนี้ ขอมอบให้กับหนุ่มสาวในวันหน้าทั้งหลาย\"\n\nทั้งสองคนใช้ดาบปลอมด้ามใหญ่และกิ่งไม้ยาวฟาดฟันกัน และเริ่มการประลอง...\nในตอนท้าย ผู้กล้าผู้ต่อต้านเป็นฝ่ายชนะ และได้มงกุฎของขุนนางมาครอง\n\nหลายปีต่อมา มงกุฎที่ทำขึ้นหยาบ ๆ จากดอกไม้และใบหญ้านี้\nกลับมีคุณค่ายิ่งกว่าอำนาจที่ควบคุมอัศวิน",
-        "vi": "\nNgười dũng sĩ nhỏ bé tiến sâu vào rừng, bước lên hành trình kháng chiến.\nCòn người bạn thân nhất lại sắm vai kỵ sĩ quý tộc hạng nhất.\n\n\"Như hùng sư bước chậm rãi lên chiến trường, như nàng của nghìn năm trước.\"\n\"Thơ được dệt từ đao kiếm tặng cho thiếu niên và thiếu nữ tương lai.\"\n\nKiếm giả của hai người đụng vào nhánh cây dài bắt đầu quyết đấu.\nCuối cùng dũng sĩ đối kháng chiến thắng, tháo mũ quý tộc xuống.\n\nNhiều năm sau, hoa cỏ này bện thành mũ mão sơ sài,\nNhưng trông còn quý hơn với quyền năng của kỵ sĩ thống lĩnh..."
+        "zhs": "\n小勇士趁夜溜出家门，与挚友兴冲冲地闯入狼的森林。\n用小小弹弓赶跑野猪，用坚韧的树枝痛打假想的鬼魂。\n跟随发光的仙灵跑到森林深处，发掘沉睡千年的宝藏。\n\n所谓的「宝藏」正是这朵黄色的小花。\n\n待到疲惫的勇士回到童年的卧房，检阅儿时冒险的证物。\n他惊奇地发现，多年之前藏起的那朵小花仍未干枯朽坏，\n但其他的事情不似花儿，已经悄悄在漫长岁月中变质了。\n",
+        "zht": "\n小勇士趁夜溜出家門，與摯友興沖沖地闖入狼的森林。\n用小小彈弓趕跑野豬，用堅韌的樹枝痛打假想的鬼魂。\n跟隨發光的仙靈跑到森林深處，發掘沉睡千年的寶藏。\n\n所謂的「寶藏」正是這朵黃色的小花。\n\n待到疲憊的勇士回到童年的臥房，檢閱兒時冒險的證物。\n他驚奇地發現，多年之前藏起的那朵小花仍未乾枯朽壞，\n但其他的事情不似花兒，已經悄悄在漫長歲月中變質了。\n",
+        "jp": "\n小さい勇者は夜に乗じて家を出て友と狼の森に入った。\n小さい弾弓でイノシシを追い払い、硬い枝で仮想の亡霊と戦った。\n光る仙霊に従って森の深くに入り込んで、千年を越えた宝を探した。\n\n「宝」というのはただの黄色い花。\n\n疲れた勇者は寝室に戻って、子供の頃集めた冒険の証を探し出した。\n数年前に隠した黄色い花を見て、勇者はびっくりした。花は少しの枯れ気味もなかった。\nすべてが花のように、朽ちることがなければいいのに。\n",
+        "ko": "\n작은 용사는 야밤에 집을 나서 친구와 함께 늑대의 숲으로 신나게 뛰어들어갔다.\n작은 탄궁으로 멧돼지를 쫓고 단단한 나뭇가지로 상상 속의 귀신을 공격했다.\n빛을 내는 선령을 쫓아 숲 깊은 곳까지 들어왔다가 천 년 동안 잠들어있던 보물을 발굴한다.\n\n「보물」은 바로 이 노란색 꽃이다.\n\n피곤에 지친 용사는 어린 시절의 방으로 돌아와 어릴 때 했던 모험의 증거를 살펴봤다.\n그는 수년 전 숨겨둔 그 꽃이 아직도 시들지 않아 있는 걸 발견했다.\n하지만 다른 것들은 꽃과는 달리 이미 오랜 세월에 변질됐다.\n",
+        "en": "\nThe little hero slipped out of doors by night, and with his friend rushed headlong into the wolves' forest.\nWith his slingshot he chased boars, and with sturdy branches he would battle imaginary monsters.\nFollowing the shining Seelie deep into the woods, he discovered a treasure that had laid buried for a thousand years.\n\nThat treasure was a small yellow flower.\n\nWhen the tired hero returned to his childhood bedroom, and flipped through the proof of his first adventures,\nHe discovered to his surprise that the long-hidden flower had yet to wilt.\nYet in this it was alone, for everything else had changed with the passing of years.\n",
+        "de": "\nDer kleine Recke schlich nachts aus der Tür und stürzte sich mit seinem Freund kopfüber in den Wald der Wölfe.\nMit seiner Steinschleuder jagte er Wildschweine und mit kräftigen Ästen bekämpfte er imaginäre Ungeheuer.\nDer strahlenden Seelie tief in den Wald folgend, entdeckte er einen Schatz, der bereits seit tausend Jahren vergraben lag.\n\nJener Schatz war eine kleine gelbe Blume.\n\nAls der müde Recke in sein Kinderzimmer zurückkehrte und durch seine Abenteuererinnerungen stöberte,\nbemerkte er, dass die gelbe Blume nach so langer Zeit immer noch nicht verwelkt war.\nDie Blume war jedoch das Einzige, was sich nicht verändert hatte. Alles andere war schrecklich gealtert.\n",
+        "es": "\nEl pequeño Guerrero se escabulló en la noche y con su amigo se precipitó hacia el bosque de los lobos.\nPerseguía a los jabalíes con su honda, y con ramas gruesas peleaba contra monstruos imaginarios.\nSiguiendo al brillante Seelie en lo profundo del bosque, descubrió un tesoro que había estado enterrado durante mil años.\n\nEse tesoro era una pequeña flor amarilla.\n\nCuando el Guerrero, ya muy cansado, regresó a la habitación de su infancia e inspeccionó el objeto que consiguió en su primera aventura,\ndescubrió, para su sorpresa, que la flor que había resguardado desde hace tanto tiempo aún no se había marchitado.\nPero eso era lo único que no había cambiado con el paso de los años.\n",
+        "fr": "\nLe petit héros s'éclipsait de chez lui à la tombée de la nuit en compagnie de son ami pour s'aventurer dans la forêt des loups.\nIl pourchassait les sangliers avec son lance-pierres et livrait des batailles de longue haleine contre des ennemis imaginaires à l'aide d'une branche solide.\nUne fée le conduisit dans les profondeurs de la forêt, où il découvrit un trésor caché depuis un millénaire.\n\nCelui-ci était une petite fleur jaune.\n\nUn jour, le héros revint dans la chambre de son enfance et retrouvera les souvenirs qu'il avait gardés des aventures de son enfance.\nÀ sa grande surprise, la fleur n'avait toujours pas fané.\nHélas, c'était la seule chose qui demeura intacte au cours de sa vie mouvementée.\n",
+        "pt": "\nO pequeno herói saiu à noite e, junto com seu amigo, foram para a floresta dos lobos.\nAfugentaram javalis com seus pequenos estilingues e com ramos robustos desafiavam monstros imaginários.\nSeguindo o brilhante Seelie até ao interior da floresta, ele descobriu um tesouro escondido há milênios.\n\nEsse \"tesouro\" era uma pequena flor amarela.\n\nQuando o herói cansado voltou para seu quarto de infância e analisou a prova de suas primeiras aventuras,\nPercebeu que a flor colhida não tinha murchado nunca durante esses anos,\nMas tudo o resto não era como a flor, pois tinha mudado já há muito tempo com o passar dos anos.\n",
+        "ru": "\nМаленький герой выскользнул ночью из дому, и вместе с другом они стремглав помчались в лес волков.\nРогаткой он обращал в бегство кабанов, и крепкой веткой дубасил воображаемых демонов.\nОн последовал за светящейся феей вглубь леса и нашёл сокровище, которое лежало в земле тысячи лет.\n\nИм оказался крохотный жёлтый цветок.\n\nМаленький усталый храбрец вернулся в свою детскую спаленку и принялся осматривать добытый трофей.\nОн очень удивился, когда обнаружил, что цветочек нисколько не высох,\nтогда как всё остальное вокруг него под напором времени менялось.\n",
+        "id": "\nPrajurit kecil itu menyelinap keluar rumah pada malam hari dan dengan senang hati berlari menuju ke hutan serigala bersama teman-temannya.\nMenggunakan ketapel kecil untuk mengusir boar, dan menggunakan dahan pohon untuk mengusir monster imajinasinya.\nBerlari jauh ke dalam hutan bersama dengan roh-roh yang bercahaya, mengeksploitasi harta yang tertidur yang berusia ribuan tahun.\n\nDan yang disebut \"harta\" adalah bunga kuning kecil ini.\n\nPahlawan yang kelelahan itu kembali ke kamarnya untuk memeriksa bukti petualangan yang telah dikumpulkannya sebagai seorang anak kecil.\nDia terkejut menemukan bahwa bunga kecil yang disembunyikan bertahun-tahun yang lalu masih belum kering dan membusuk.\nTapi hal lainnya tidak seperti bunga tersebut, kini sudah membusuk dimakan waktu.\n",
+        "th": "\nนักรบตัวน้อยแอบออกจากบ้านในตอนกลางคืน และบุกเข้าไปในป่าหมาป่ากับเพื่อนสนิทของเขาอย่างมีความสุข\nใช้หนังสติ๊กเล็ก ๆ เพื่อขับไล่หมูป่า และเอาชนะผีร้ายในจินตนาการด้วยกิ่งไม้อันแข็งแรง\nวิ่งไล่ตาม Seelie เรืองแสงไปในป่าลึก และค้นพบสมบัติที่หลับไหลมานานหลายพันปี\n\n\"สมบัติ\" ที่ว่าก็คือดอกไม้สีเหลืองดอกนี้\n\nเวลาผ่านไปจนถึงวันหนึ่ง นักรบที่อ่อนล้าได้กลับมาที่ห้องนอนในวัยเด็กของเขา เขาตรวจดูหลักฐานการผจญภัยในวัยเด็กของเขา\nเขาต้องประหลาดใจเมื่อพบว่า ดอกไม้ดอกน้อยที่ซ่อนไว้เมื่อตอนเด็ก ไม่ได้แห้งเหี่ยวหรือเน่าสลาย\nแต่สิ่งอื่น ๆ ไม่ได้เป็นเหมือนเช่นดอกไม้ดอกนี้ มันได้เสื่อมโทรมลงอย่างช้า ๆ ตามกาลเวลา\n",
+        "vi": "\nDũng sĩ nhỏ nhân lúc trời tối rời khỏi nhà, cùng bạn thân hào hứng xông pha rừng rậm.\nDùng cung tên nhỏ xíu đuổi heo rừng, dùng nhánh cây bền bỉ đánh quỷ hồn giả tưởng.\nChạy vào sâu trong rừng cùng tiên linh phát sáng, khai thác kho báu ngủ say nghìn năm.\n\nCái gọi là \"kho báu\" chính là đóa hoa màu vàng nho nhỏ.\n\nĐợi đến khi mỏi mệt, dũng sĩ trở về phòng ngủ thời trẻ thơ, xem lại vật chứng mạo hiểm thời thơ ấu.\nAnh kinh ngạc phát hiện, đóa hoa giấu đi nhiều năm trước vẫn chưa mục nát.\nNhưng những chuyện khác thì không được như hoa, đã biến chất theo tháng năm dài đằng đẵng.\n"
       },
-      "imgid": "brave_heart_circlet"
+      "imgid": "brave_heart_flower"
     },
     {
       "type": "plume",

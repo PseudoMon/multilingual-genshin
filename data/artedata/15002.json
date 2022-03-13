@@ -1,4 +1,8 @@
 {
+  "SetNeedNum": [
+    2,
+    4
+  ],
   "name": {
     "zhs": "翠绿之影",
     "zht": "翠綠之影",
@@ -46,6 +50,7 @@
       "vi": "Sát thương phản ứng khuếch tán tạo thành tăng 60%. Dựa theo loại Nguyên Tố khuếch tán, giảm 40% kháng Nguyên Tố của kẻ địch bị ảnh hưởng, kéo dài 10s."
     }
   ],
+  "imgid": "viridescent_venerer_flower",
   "pieces": [
     {
       "type": "flower",

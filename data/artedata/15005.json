@@ -1,4 +1,8 @@
 {
+  "SetNeedNum": [
+    2,
+    4
+  ],
   "name": {
     "zhs": "如雷的盛怒",
     "zht": "如雷的盛怒",
@@ -46,6 +50,7 @@
       "vi": "Sát thương phản ứng quá tải, điện cảm, siêu dẫn tăng 40%. Khi kích hoạt những phản ứng nguyên tố này, CD kỹ năng nguyên tố giảm 1s. Hiệu quả này mỗi 0.8s thi triển nhiều nhất một lần."
     }
   ],
+  "imgid": "thundering_fury_flower",
   "pieces": [
     {
       "type": "flower",

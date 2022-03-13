@@ -1,4 +1,8 @@
 {
+  "SetNeedNum": [
+    2,
+    4
+  ],
   "name": {
     "zhs": "悠古的磐岩",
     "zht": "悠古的磐岩",
@@ -46,6 +50,7 @@
       "vi": "Khi nhận được mảnh kết tinh do phản ứng Kết Tinh hình thành, tất cả thành viên đội sẽ được tăng 35% sát thương nguyên tố tương ứng, duy trì 10 giây. Chỉ được nhận một loại tăng sát thương nguyên tố cùng lúc."
     }
   ],
+  "imgid": "archaic_petra_flower",
   "pieces": [
     {
       "type": "flower",

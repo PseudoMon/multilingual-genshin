@@ -1,4 +1,8 @@
 {
+  "SetNeedNum": [
+    2,
+    4
+  ],
   "name": {
     "zhs": "逆飞的流星",
     "zht": "逆飛的流星",
@@ -46,6 +50,7 @@
       "vi": "Khi được khiên bảo vệ, nhận thêm 40% tăng sát thương của tấn công thường và trọng kích."
     }
   ],
+  "imgid": "retracing_bolide_flower",
   "pieces": [
     {
       "type": "flower",

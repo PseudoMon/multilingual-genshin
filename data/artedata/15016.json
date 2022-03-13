@@ -1,4 +1,8 @@
 {
+  "SetNeedNum": [
+    2,
+    4
+  ],
   "name": {
     "zhs": "沉沦之心",
     "zht": "沉淪之心",
@@ -46,6 +50,7 @@
       "vi": "Trong 15s sau khi sử dụng kỹ năng Nguyên Tố, tấn công thường và trọng kích tăng 30% sát thương."
     }
   ],
+  "imgid": "heart_of_depth_flower",
   "pieces": [
     {
       "type": "flower",

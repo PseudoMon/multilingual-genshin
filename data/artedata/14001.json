@@ -1,4 +1,8 @@
 {
+  "SetNeedNum": [
+    2,
+    4
+  ],
   "name": {
     "zhs": "冰风迷途的勇士",
     "zht": "冰風迷途的勇士",
@@ -46,6 +50,7 @@
       "vi": "Khi tấn công kẻ địch đang bị Nguyên Tố Băng ảnh hưởng, sẽ tăng 20% tỷ lệ bạo kích, nếu địch ở trạng thái đóng băng, sẽ tăng thêm 20% tỷ lệ bạo kích."
     }
   ],
+  "imgid": "blizzard_strayer_flower",
   "pieces": [
     {
       "type": "flower",

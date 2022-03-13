@@ -1,4 +1,8 @@
 {
+  "SetNeedNum": [
+    2,
+    4
+  ],
   "name": {
     "zhs": "绝缘之旗印",
     "zht": "絕緣之旗印",
@@ -46,6 +50,7 @@
       "vi": "Tăng sát thương Kỹ Năng Nộ dựa trên 25% Hiệu Quả Nạp Nguyên Tố. Chỉ có thể tăng tối đa 75% thông qua cách này."
     }
   ],
+  "imgid": "emblem_of_severed_fate_flower",
   "pieces": [
     {
       "type": "flower",

@@ -1,4 +1,8 @@
 {
+  "SetNeedNum": [
+    2,
+    4
+  ],
   "name": {
     "zhs": "教官",
     "zht": "教官",
@@ -46,6 +50,7 @@
       "vi": "Sau khi kích hoạt phản ứng Nguyên Tố, tinh thông Nguyên Tố tất cả thành viên đội tăng 120 điểm, kéo dài 8s."
     }
   ],
+  "imgid": "instructor_flower",
   "pieces": [
     {
       "type": "flower",

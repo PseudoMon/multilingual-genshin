@@ -5,12 +5,19 @@
     --color-text: #131114;
     --color-accent: #FAB72E;
     --color-accentdark: #CA952B; /* For link on white bg */
-    --color-overlay: #F7F0FB;
-    --color-darkoverlay: #664B72;
+    
+    /* Old purple colour */
+    /*--color-overlay: #F7F0FB;
+    --color-darkoverlay: #664B72;*/
+
+    /* New blue colour */
+    --color-overlay: #F9F9F9;
+    --color-darkoverlay: #3B639F;
+    --color-lightoverlay: #dde2e9;
 
     --color-textbg: #F9F9F9;
 
-    --color-semitext: #F7EBFF; /* sorta like text, but for bg */
+    --color-semitext: var(--color-color); /* sorta like text, but for bg */
     --color-semibg: var(--color-textbg); /* sorta like bg but for text */
 }
 
@@ -47,10 +54,6 @@ p a {
     text-decoration:  underline;
 }
 
-a:hover {
-    opacity:  0.6;
-}
-
 p a:hover {
     text-decoration:  none;
 
@@ -71,6 +74,8 @@ h2 {
     grid-template-columns: 3fr 2fr;
     
     border-radius: 30px;
+
+    box-shadow: 0px 4px 9px 4px rgba(0, 0, 0, 0.25);
 
     color: var(--color-semibg);
     background-color: var(--color-darkoverlay);
@@ -269,9 +274,12 @@ h2 {
         flex-direction: column;
         align-items: center;
         text-align: center;
+        opacity: 0.8;
+
+        &:hover { opacity: 1.0 }
 
         img {
-            background-color: var(--color-overlay);
+            background-color: var(--color-textbg);
             box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
             border-radius: 10px;
         }
@@ -285,3 +293,40 @@ h2 {
     }
 }
 
+.lang-picker {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    font-size: 1.5rem;
+
+    @media(max-width: 600px) {
+        font-size: 1.2rem;
+    }
+
+    margin-top: 0;
+    top: 0;
+    position: sticky;
+    z-index: 3;
+
+    & > * {
+        cursor: pointer;
+        display: block;
+        box-sizing: border-box;
+        background-color: var(--color-darkoverlay);
+        border-bottom: solid 4px var(--color-darkoverlay);
+        color: var(--color-semibg);
+
+        text-align: center;
+        padding: 0.4em 1em;
+
+        box-shadow: 0px 2px 0px rgba(0, 0, 0, 0.15);
+
+        &.active {
+            border-color: var(--color-semibg);
+        }
+
+        &:hover {
+            border-bottom: solid 4px var(--color-accent);
+        }
+    }
+}

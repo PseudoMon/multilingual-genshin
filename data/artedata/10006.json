@@ -1,4 +1,8 @@
 {
+  "SetNeedNum": [
+    2,
+    4
+  ],
   "name": {
     "zhs": "武人",
     "zht": "武人",
@@ -46,6 +50,7 @@
       "vi": "Trong 8s sau khi sử dụng kỹ năng Nguyên Tố, tấn công thường và trọng kích tăng 25% sát thương."
     }
   ],
+  "imgid": "martial_artist_flower",
   "pieces": [
     {
       "type": "flower",

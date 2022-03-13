@@ -1,4 +1,8 @@
 {
+  "SetNeedNum": [
+    2,
+    4
+  ],
   "name": {
     "zhs": "昔日宗室之仪",
     "zht": "昔日宗室之儀",
@@ -46,6 +50,7 @@
       "vi": "Sau khi thi triển kỹ năng nộ, tấn công cả đội tăng 20%, kéo dài 12s, hiệu quả này không cộng dồn."
     }
   ],
+  "imgid": "noblesse_oblige_flower",
   "pieces": [
     {
       "type": "flower",

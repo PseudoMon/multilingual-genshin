@@ -1,4 +1,8 @@
 {
+  "SetNeedNum": [
+    2,
+    4
+  ],
   "name": {
     "zhs": "苍白之火",
     "zht": "蒼白之火",
@@ -46,6 +50,7 @@
       "vi": "Sau khi kỹ năng nguyên tố đánh trúng kẻ địch, tấn công tăng 9%, kéo dài 7s, tối đa cộng dồn 2 tầng. Mỗi 0.3s tối đa kích hoạt 1 lần, sau khi tích đầy 2 tầng, hiệu quả bộ 2 món tăng 100%."
     }
   ],
+  "imgid": "pale_flame_flower",
   "pieces": [
     {
       "type": "flower",

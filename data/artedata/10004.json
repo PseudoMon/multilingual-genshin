@@ -1,4 +1,8 @@
 {
+  "SetNeedNum": [
+    2,
+    4
+  ],
   "name": {
     "zhs": "奇迹",
     "zht": "奇蹟",
@@ -46,6 +50,7 @@
       "vi": "Sau khi nhận sát thương Nguyên Tố, kháng tương ứng tăng 30%, kéo dài 10s. Mỗi 10s chỉ thi triển 1 lần."
     }
   ],
+  "imgid": "tiny_miracle_flower",
   "pieces": [
     {
       "type": "flower",

@@ -1,4 +1,7 @@
 {
+  "SetNeedNum": [
+    1
+  ],
   "name": {
     "zhs": "祭火之人",
     "zht": "祭火之人",
@@ -31,6 +34,7 @@
       "vi": "Thời gian duy trì hiệu quả nguyên tố Hỏa kèm theo giảm 40%."
     }
   ],
+  "imgid": "prayers_for_illumination_flower",
   "pieces": [
     {
       "type": "circlet",

@@ -1,4 +1,8 @@
 {
+  "SetNeedNum": [
+    2,
+    4
+  ],
   "name": {
     "zhs": "行者之心",
     "zht": "行者之心",
@@ -46,6 +50,7 @@
       "vi": "Tỷ lệ bạo kích của trọng kích tăng 30%"
     }
   ],
+  "imgid": "resolution_of_sojourner_flower",
   "pieces": [
     {
       "type": "flower",

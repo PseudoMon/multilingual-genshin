@@ -1,4 +1,8 @@
 {
+  "SetNeedNum": [
+    2,
+    4
+  ],
   "name": {
     "zhs": "赌徒",
     "zht": "賭徒",
@@ -46,6 +50,7 @@
       "vi": "Khi đánh bại kẻ địch, có tỷ lệ 100% xóa CD kỹ năng Nguyên Tố. Mỗi 15s mới có hiệu quả 1 lần."
     }
   ],
+  "imgid": "gambler_flower",
   "pieces": [
     {
       "type": "flower",

@@ -1,4 +1,8 @@
 {
+  "SetNeedNum": [
+    2,
+    4
+  ],
   "name": {
     "zhs": "染血的骑士道",
     "zht": "染血的騎士道",
@@ -46,6 +50,7 @@
       "vi": "Trong 10s sau khi đánh bại kẻ địch, khi thi triển trọng kích không tiêu hao thể lực, và sát thương trọng kích tạo thành tăng 50%."
     }
   ],
+  "imgid": "bloodstained_chivalry_flower",
   "pieces": [
     {
       "type": "flower",
