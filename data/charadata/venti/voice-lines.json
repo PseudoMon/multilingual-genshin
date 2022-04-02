@@ -22,12 +22,12 @@
       "ko": "음냐… 잘 잤다, 엇, 안녕, 여행자, 또 만났네~ 날 기억 못하는 거야? 헤헤, 그럼 다시 네 여행에 동행할게. 네 시편은 세상에서 가장 뛰어난 음유시인인 내가 널리 부를 만해!",
       "en": "*Yawn* That was a refreshing sleep. Ah, Traveler, we meet again! What? You don't remember me? Ahaha, well, allow me to join you on your quest once again. I must see to it that the bards of the world tell the Traveler's tales!",
       "de": "#Das war ein erfrischender Schlaf. Ah, {F#Reisende}{M#Reisender}, so sieht man sich wieder! Was? Du erinnerst dich nicht an mich? Ahaha! Nun, erlaube mir, dich auf deiner Suche noch einmal zu begleiten. Ich muss dafür sorgen, dass die Barden dieser Welt deine Geschichten erzählen!",
-      "es": "#*Bosteza* Ese fue un sueño reparador. Ah, {F#viajera}{M#viajero}, ¡nos encontramos de nuevo! ¿Qué? ¿No me recuerdas? Jajaja, bueno, permíteme que te acompañe en tu viaje una vez más. ¡Las historias de los viajeros merecen ser difundidas por los bardos del mundo!",
+      "es": "#*Bosteza*, ese fue un sueño reparador. Ah, {F#viajera}{M#viajero}, ¡nos encontramos de nuevo! ¿Qué? ¿No me recuerdas? Jajaja, bueno, permíteme que te acompañe en tu viaje una vez más. ¡Las historias de los viajeros merecen ser difundidas por los bardos del mundo!",
       "fr": "#*bâille* Quel bon sommeil. Ah, c'est toi, {M#voyageur}{F#voyageuse} ? Tu ne te souviens plus de moi ? Héhé, laisse-moi t'accompagner de nouveau dans ta quête ! Quelqu'un se doit bien de chanter ton histoire !",
       "pt": "Ha?... Parece que você dormiu muito bem! Olá, Viajante! Nos vemos outra vez! Não se lembra de mim? Hehe, então, só me deixe juntar à sua jornada de novo. A sua história deve ser cantada por mim, o melhor bardo do mundo.",
       "ru": "#*Зевает* Неплохо я вздремнул. Ах, путешественни{F#ца}{M#к}, вот мы и встретились снова! Что? Ты меня не помнишь? Ха-ха-ха, тогда позволь мне заново присоединиться к твоей команде. Я должен удостовериться в том, чтобы все барды мира рассказывали истории о твоих похождениях!",
-      "id": "*hoam* Ah... enak sekali tidurku. Ah, pengembara, kita bertemu lagi! Apa? Kamu tidak ingat padaku? Ahaha, baiklah, izinkan aku untuk bergabung denganmu sekali lagi. Kisahmu layak untuk diceritakan oleh penyair terbaik di dunia ini!",
-      "th": "ฮ่า...หลับสบายจัง อ่า สวัสดี นักเดินทาง เราเจอกันอีกแล้วนะ ฮืม? จำฉันไม่ได้เหรอ? เหอะ ๆ งั้นให้ฉันเข้าร่วมการเดินทางของ เธออีกครั้งละกัน บทกวีของเธอน่ะ คู่ควรให้นักกวีพเนจรที่ดีที่สุดในโลก อย่างฉันเป็นคนขับร้อง!",
+      "id": "*hoam* Ah ... nyenyak sekali tidurku. Ah, pengembara, kita ketemu lagi! Apa? Kamu tidak ingat aku? Ahaha, tidak apa-apa, izinkan aku untuk bergabung denganmu sekali lagi. Aku harus memastikan kalau kisahmu kelak diceritakan oleh para penyair di dunia ini!",
+      "th": "ฮ้าว... หลับสบายจัง อ่า สวัสดี นักเดินทาง เราเจอกันอีกแล้วนะ ฮืม? จำฉันไม่ได้เหรอ? ฮี่ ๆ งั้นให้ฉันเข้าร่วมการเดินทางของเธออีกครั้งละกัน บทกวีของเธอน่ะ คู่ควรให้นักกวีพเนจรที่ดีที่สุดในโลกอย่างฉันเป็นคนขับร้อง!",
       "vi": "Oáp, ngủ ngon quá. Aiz, xin chào, Nhà Lữ Hành, chúng ta lại gặp nhau rồi. Hả? Không nhớ tôi á? Hì hì, vậy thì để tôi tham gia vào hành trình của bạn một lần nữa nào. Bài thơ của bạn xứng đáng được người ngâm thơ tuyệt vời nhất thế gian như tôi ngân nga!"
     }
   },
@@ -44,7 +44,7 @@
       "pt": "Bate-papo - Tocando a Lira",
       "ru": "Поболтаем: Музыка",
       "id": "Mengobrol: Bermain Lira",
-      "th": "แชท-เล่นเปียโน",
+      "th": "แชท - บรรเลงพิณ",
       "vi": "Nói chuyện phiếm - Đánh đàn"
     },
     "line": {
@@ -58,7 +58,7 @@
       "fr": "Je peux te chanter un morceau, mais ça te coûtera une pomme.",
       "pt": "Dê-me uma maçã se quiser saber o resto.",
       "ru": "Конечно, я сыграю тебе ещё одну песню, но на этот раз с тебя яблоко!",
-      "id": "Hm... jika kamu masih ingin mendengarkan, berikan aku sebuah apel.",
+      "id": "Boleh ... aku akan memainkan melodi lain untukmu, tapi kamu harus kasih apel lagi buatku.",
       "th": "อืม... ถ้าอยากจะฟังต่อล่ะก็ เอาแอปเปิ้ลมาให้ฉันก่อนลูกนึงสิ",
       "vi": "Ừm... Muốn nghe tiếp thì tặng tôi một quả táo đi."
     }
@@ -76,7 +76,7 @@
       "pt": "Bate-papo - Sidra de Maçã",
       "ru": "Поболтаем: Сидр",
       "id": "Mengobrol: Apple Cider",
-      "th": "แชท-เหล้าแอปเปิ้ล",
+      "th": "แชท - เหล้าแอปเปิ้ล",
       "vi": "Nói chuyện phiếm - Rượu táo"
     },
     "line": {
@@ -86,11 +86,11 @@
       "ko": "아름드리 나무에 앉아 영원히 줄지 않는 사과주를 즐기고 싶어~ 하아",
       "en": "Right now I wish I was sitting at the top of a tree, looking out over a meadow, cider in hand...",
       "de": "Hach, wie gern würde ich jetzt auf der Spitze eines großen Baumes sitzen, in der Hand ein Glas Apfelwein.",
-      "es": "*Suspira*, me encantaría sentarme en lo alto de un árbol mientras bebo un buena sidra de manzana...",
+      "es": "*Suspira*, me encantaría sentarme en lo alto de un árbol mientras bebo una buena sidra de manzana...",
       "fr": "Là, j'aimerais être assis sur un arbre pour observer les prés verdoyants, un verre de cidre à la main...",
       "pt": "Hum... Eu gostaria de me sentar na árvore, com umas Sidras de Maçã em mãos... *Suspiro*",
       "ru": "Вот бы сейчас сидеть на дереве с бутылочкой сидра в руке и любоваться бескрайними полями и лугами... Эх...",
-      "id": "Hmmm... aku membayangkan diriku sedang duduk di atas pohon, memandang ke padang rumput yang luas sambil memegang sebotol apple cider segar...",
+      "id": "Sekarang aku sedang berharap kalau aku lagi duduk di sebuah puncak pohon, memandangi padang rumput, dan menggenggam sebotol apple cider di tanganku ....",
       "th": "อืม... อยากจะไปนั่งอยู่บนต้นไม้ต้นใหญ่ แล้วก็ถือเหล้าแอปเปิ้ลที่ไม่มีวันหมดไว้ในมือจังเลยนะ เห้อ...",
       "vi": "Ừm... Muốn ngồi trên cây cao, trong tay cầm rượu táo uống mãi không hết quá. Haiz."
     }
@@ -108,7 +108,7 @@
       "pt": "Bate-papo - Poemas",
       "ru": "Поболтаем: Поэзия",
       "id": "Mengobrol: Balada",
-      "th": "แชท-บทกวี",
+      "th": "แชท - บทกวี",
       "vi": "Nói chuyện phiếm - Tập thơ"
     },
     "line": {
@@ -121,9 +121,9 @@
       "es": "#Vamos, viajer{F#a}{M#o}. El mundo está lleno de baladas que esperan ser redescubiertas.",
       "fr": "#Du nerf, {M#voyageur}{F#voyageuse} ! Tant de ballades oubliées attendent d'être redécouvertes.",
       "pt": "Vamos! Viajante, as baladas perdidas ainda estão à nossa espera.",
-      "ru": "#Пошли же, путешественни{F#ца}{M#к}! Нас ждёт море ещё ненаписанных баллад.",
-      "id": "Ayo kita pergi, Pengembara. Berbagai puisi yang indah menanti kita di luar sana.",
-      "th": "ไปกันเถอะนักเดินทาง บทกวีที่หายไปกำลังรอเราอยู่นะ",
+      "ru": "#Пойдём же, путешественни{F#ца}{M#к}! Нам ещё предстоит отыскать множество утраченных баллад.",
+      "id": "Ayo kita berangkat, Pengembara! Dunia yang penuh dengan puisi yang terhilang ini sedang menanti dirinya untuk ditemukan kembali.",
+      "th": "ไปกันเถอะ นักเดินทาง บทกวีที่หายไปกำลังรอเราอยู่นะ",
       "vi": "Lên đường thôi, nhà lữ hành. Những áng thơ thất lạc vẫn đang chờ chúng ta đấy."
     }
   },
@@ -152,10 +152,10 @@
       "de": "Lass uns in diese Pfütze springen! Mal sehen, bei wem das Wasser höher spritzt!",
       "es": "¡Saltemos sobre charcos de agua a ver quién salpica más!",
       "fr": "#Sautons dans les flaques ! {M#Celui}{F#Celui ou celle} qui éclabousse le plus d'eau gagne !",
-      "pt": "Vamos pular em poças e ver quem pode dar o maior salto!",
+      "pt": "Vamos pular em poças e ver quem consegue dar o salto mais alto!",
       "ru": "Пошли прыгать по лужам! Посмотрим, у кого получится больше брызг!",
-      "id": "Ayo kita bermain air! Kita lihat siapa yang bisa membuat cipratan lebih besar!",
-      "th": "มาเหยียบน้ำแข่งกันเร็ว ดูซิว่าใครจะทำน้ำกระเด็นได้สูงกว่ากัน!",
+      "id": "Ayo kita lompat di atas genangan air dan lihat siapa yang bisa membuat cipratan yang paling besar!",
+      "th": "มาเหยียบแอ่งน้ำแข่งกันเร็ว! ดูซิว่าใครจะทำน้ำกระเด็นได้สูงกว่ากัน!",
       "vi": "Nghịch nước nào! Để xem ai tạo ra bong bóng to hơn!"
     }
   },
@@ -171,7 +171,7 @@
       "fr": "Après la pluie...",
       "pt": "Depois da Chuva...",
       "ru": "После дождя...",
-      "id": "Setelah hujan",
+      "id": "Setelah Hujan",
       "th": "ฟ้าหลังฝน...",
       "vi": "Sau cơn mưa trời lại sáng..."
     },
@@ -186,7 +186,7 @@
       "fr": "La pluie s'est arrêtée ? Dommage, je voulais encore m'amuser.",
       "pt": "Ei? O céu já está aberto de novo. Quero brincar mais!",
       "ru": "Ох, дождь уже закончился? А я только разыгрался.",
-      "id": "Ah~ Sekarang sudah cerah ya? Padahal aku masih ingin bermain.",
+      "id": "Hujannya sudah berhenti? Yah, padahal aku masih ingin main.",
       "th": "อ๋า~ ฟ้าใสซะแล้ว ฉันยังอยากจะเล่นอยู่เลย~",
       "vi": "Ôi... Trời tạnh rồi? Tôi vẫn muốn chơi thêm một lúc nữa."
     }
@@ -216,10 +216,10 @@
       "de": "Lass uns warten, bis der Schnee noch höher steht. Dann veranstalten wir eine Schneeballschlacht!",
       "es": "Cuando haya más nieve, ¡haremos una pelea de bolas de nieve!",
       "fr": "Attendons qu'il y en ait plus pour faire une bataille de boules de neige !",
-      "pt": "Vamos ter uma guerra de bola de neve. Quando se acumular mais neve.",
-      "ru": "Давай дождёмся крупного снега и сыграем в снежки!",
-      "id": "Tunggu sampai saljunya menumpuk... lalu kita bisa bermain bola salju!",
-      "th": "ไว้มีหิมะเมื่อไหร่ แล้วเรามาเล่นปาหิมะกันนะ!",
+      "pt": "Vamos ter uma guerra de bola de neve. Quando ela se acumular mais.",
+      "ru": "Давай дождёмся, пока нападает снег, и сыграем в снежки!",
+      "id": "Kita tunggu sampai saljunya menumpuk ... terus kita perang bola salju!",
+      "th": "ไว้รอตอนที่หิมะกองสูงขึ้นแล้ว เรามาเล่นปาหิมะกันนะ!",
       "vi": "Đợi tuyết rơi dày rồi... chúng ta chơi ném tuyết đi!"
     }
   },
@@ -250,8 +250,8 @@
       "fr": "Le vent se lève de nouveau ! Un peu de planage ne nous ferait pas de mal, non ?",
       "pt": "Temos que aproveitar essa oportunidade para voar!",
       "ru": "О, ветер снова поднялся! Раскрывай свой планер!",
-      "id": "Anginnya sudah kembali! Apa kita mau meluncur?",
-      "th": "หายากนะเนี่ย จะไปบินเล่นซักหน่อยมั๊ย?",
+      "id": "Anginnya sudah bertiup lagi! Cepat, kita langsung meluncur!",
+      "th": "หายากนะเนี่ย จะไปบินเล่นซักหน่อยมั้ย?",
       "vi": "Hiếm khi được như thế, muốn bay không nào?"
     }
   },
@@ -280,10 +280,10 @@
       "de": "Guten Morgen! Bist du bereit für ein Abenteuer?",
       "es": "#¡Buenos días! ¿{F#Lista}{M#Listo} para una nueva aventura?",
       "fr": "#Bonjour, {M#prêt}{F#prête} pour une nouvelle aventure ?",
-      "pt": "#Bom dia, viajante, você está preparad{M#o}{F#a} para começar a sua aventura?",
+      "pt": "#Bom dia, Viajante, você está preparad{M#o}{F#a} para começar a sua aventura?",
       "ru": "#Доброе утро! Ну что, готов{F#а} к новым свершениям?",
-      "id": "Selamat pagi, sudah siap untuk petualangan baru?",
-      "th": "อรุณสวัสดิ์ เตรียมพร้อมสำหรับการผจญภัย ครั้งใหม่แล้วรึยัง?",
+      "id": "Pagi! Ah ... siap untuk petualangan baru?",
+      "th": "อรุณสวัสดิ์ เตรียมพร้อมสำหรับการผจญภัยครั้งใหม่แล้วรึยัง?",
       "vi": "Chào, chuẩn bị bắt đầu chuyến phiêu lưu mới ư?"
     }
   },
@@ -314,7 +314,7 @@
       "fr": "J'ai l'estomac dans les talons, mais je ne peux pas risquer de me faire reprendre la main dans le sac... Ah, c'est toi ! Où vas-tu ? Je peux venir avec toi ?",
       "pt": "*Estômago roncando* Estou com muita fome, mas não estou com coragem de comer na Adega do Alvorecer... É você! Ei? Vai sair? Me leve!",
       "ru": "Мой живот урчит, но нельзя, чтобы меня снова поймали на воровстве еды из винокурни «Рассвет»... О, это ты! Куда путь держишь? Можно мне с тобой?",
-      "id": "Ah... perutku lapar sekali, tapi aku tidak berani mencuri makanan dari Dawn Winery lagi... Oh, ada kamu! Kamu mau pergi ke mana? Bisakah aku bergabung?",
+      "id": "Perutku keroncongan, tapi aku tidak boleh sampai ketahuan mencuri makanan dari Dawn Winery lagi ... Oh, kamu ada di sini! Lagi mau ke mana? Boleh aku ikut?",
       "th": "จ๊อกก... เห้อ หิวซะแล้ว จะไปกินข้าวที่ Dawn Winery ก็ไม่กล้า... อ๊ะ เธอนี่เอง! แหะ ๆ จะออกไปข้างนอกเหรอ? พาฉันไปด้วยซี่",
       "vi": "Ọc... Đói bụng quá, lại không dám tới Tửu Trang Dawn ăn cơm... A, là bạn ư! Hì hì, định ra ngoài à? Dẫn tôi theo với."
     }
@@ -344,9 +344,9 @@
       "de": "Ich bin noch nicht müde. Willst du ein Stück mit mir spazieren?",
       "es": "Todavía no tengo sueño. ¿Te apetece ir a pasear?",
       "fr": "Je suis encore en pleine forme. Te laisserais-tu tenter par une petite promenade nocturne ?",
-      "pt": "Ainda está acordado? Quer dar um passeio?",
+      "pt": "Ainda não estou sonolento. Quer dar um passeio?",
       "ru": "Ещё рано спать. Пошли прогуляемся!",
-      "id": "Aku masih belum mengantuk. Apa kamu ingin kutemani berjalan-jalan?",
+      "id": "Hmm, aku masih belum ngantuk. Mau jalan-jalan sore?",
       "th": "ฉันยังไม่ง่วงเลย ให้ฉันไปเป็นเพื่อนมั้ยล่ะ?",
       "vi": "Tôi vẫn chưa mệt. Có cần tôi đi cùng bạn không?"
     }
@@ -378,7 +378,7 @@
       "fr": "#{M#Fatigué}{F#Fatiguée} ? Bonne nuit, héhé.",
       "pt": "Ei? Você vai descansar? Hehe, boa noite.",
       "ru": "Ты уже баиньки? Ха-ха, сладких снов, друг!",
-      "id": "Eh? Kamu ingin beristirahat? Baiklah, selamat malam.",
+      "id": "Mau bertualang di alam mimpi? Haha, okelah kalau begitu, temanku.",
       "th": "เอ๋? อยากพักแล้วเหรอ? ฮ่ะฮ่ะ ฝันดีน้า",
       "vi": "Ể? Muốn đi ngủ à? Hì hì, ngủ ngon."
     }
@@ -395,7 +395,7 @@
       "fr": "À propos de Venti lui-même...",
       "pt": "Sobre Venti...",
       "ru": "О Венти...",
-      "id": "Tentang Venti sendiri",
+      "id": "Tentang Venti Sendiri",
       "th": "เกี่ยวกับตัวของ Venti เอง",
       "vi": "Về bản thân Venti..."
     },
@@ -410,8 +410,8 @@
       "fr": "Répéter ? Jamais ! Je connais toutes les chansons de Teyvat par cœur.",
       "pt": "Praticar? Hehe, claro que não é preciso. Basicamente sei cantar todas as canções. Acredite!",
       "ru": "Практиковаться? Мне? Ха-ха, зачем? Я ведь и так знаю все песни в Тейвате.",
-      "id": "Latihan? Haha, tentu saja aku tidak butuh latihan, aku sudah tahu semua lagu di Teyvat.",
-      "th": "ฝึกซ้อม? เหอะ ๆ ระดับนี้ไม่จำเป็นแล้วล่ะ ไม่มีเพลงไหนใน Teyvat ที่ฉันร้องไม่เป็นหรอกนะ",
+      "id": "Latihan? Buatku? Tidak perlu ... aku hafal semua lagu di Teyvat.",
+      "th": "ฝึกซ้อม? หึ ๆ ระดับนี้ไม่จำเป็นแล้วล่ะ ไม่มีเพลงไหนใน Teyvat ที่ฉันร้องไม่เป็นหรอกนะ",
       "vi": "Luyện tập? Tôi đương nhiên không cần rồi, ở Teyvat này không có khúc ca nào mà tôi không biết hát."
     }
   },
@@ -428,8 +428,8 @@
       "pt": "Sobre nós - Novas Canções",
       "ru": "О нас: Новые песни",
       "id": "Tentang Kita: Lagu Baru",
-      "th": "เกี่ยวกับเรา-เพลงใหม่",
-      "vi": "Về chúng tôi - Bài hát mới"
+      "th": "เกี่ยวกับเรา - เพลงใหม่",
+      "vi": "Về chúng ta - Bài hát mới"
     },
     "line": {
       "zhs": "我想把你写进新歌里！欸，怎么露出这种表情呀，担心付不起稿费吗？哈哈，摩拉就不要了，不如…跟我再讲讲你的故事吧！",
@@ -439,11 +439,11 @@
       "en": "I have decided to write a song about you! What are you giving me that look for? Can't afford it? Don't be preposterous, the price for you, my friend, is precisely zero Mora! Although... one thing you could do is tell me a few more of your stories!",
       "de": "Ich möchte dich in eins meiner Lieder mit aufnehmen! Ha, was soll das besorgte Gesicht? Machst du dir Sorgen, dass dich das zu viel kosten wird? Haha, Mora will ich nicht von dir, nur ... mehr von deinen Geschichten!",
       "es": "#¡He decidido escribir una canción sobre ti! ¿Por qué me miras así? ¿No puedes pagarme la actuación? ¡No digas tonterías! Eres mi amig{F#a}{M#o}, no te cobraré ningún Mora. Aunque... ¡una cosa que podrías hacer es contarme otra de tus historias!",
-      "fr": "Je vais écrire une chanson sur toi ! Pourquoi tu fais cette tête ? Tu ne peux pas te le permettre ? Pas d'inquiétude, les amis c'est sacré et surtout, on ne les fait pas payer ! Pas en moras, en tout cas. Allez, raconte-moi ton histoire !",
+      "fr": "Je vais écrire une chanson sur toi ! Pourquoi tu fais cette tête ? Tu ne peux pas te le permettre ? Pas d'inquiétude, les amis, c'est sacré et surtout, on ne les fait pas payer ! Pas en moras, en tout cas. Allez, raconte-moi ton histoire !",
       "pt": "#Eu quero escrever a sua história na minha música nova. Ei? Por que essa cara? Está preocupad{M#o}{F#a} que não tem Mora suficiente para me pagar? Haha. Não é preciso Mora, basta a sua história!",
       "ru": "#Я решил написать песню о тебе! Ну чего ты так на меня смотришь? Боишься, что не сможешь позволить себе такую роскошь? Да перестань, для тебя такая услуга стоит ровно ноль моры! Хотя... ты мог{F#ла} бы поделиться со мной ещё какими-нибудь интересными историям из своей жизни!",
-      "id": "Aku sudah memutuskan untuk menulis lagu tentangmu! Eh, kenapa kamu menatapku begitu? Kamu takut tidak bisa bayar? Ah jangan khawatir, harga untukmu, temanku, adalah gratis! Tapi... satu hal yang bisa kamu berikan padaku adalah untuk menceritakan padaku lebih banyak mengenai kisahmu!",
-      "th": "ฉันอยากจะเขียนเธอลงไปใน เพลงใหม่ด้วย! จะใส่อารมณ์ยังไงดีนะ กังวลเพราะตังไม่พอจ่ายดีมั๊ยนะ? ฮ่าฮ่า เรื่อง Mora น่ะช่างมันเถอะ ถ้างั้น... ช่วยเล่าเรื่องของเธอ ให้ฉันฟัง หน่อยสิ!",
+      "id": "Aku sudah memutuskan untuk menuliskan lagu tentangmu! Eh, kenapa kamu menatapku begitu? Takut tidak sanggup bayar? Santai ah, kan buatmu pakai harga teman, alias gratis! Tapi ... satu hal yang bisa kamu kasih padaku adalah tolong ceritakan kisahmu lebih banyak lagi!",
+      "th": "ฉันอยากจะเขียนเธอลงไปในบทเพลงใหม่! เอ๋ ทำไมทำสีหน้าแบบนั้นล่ะ กลัวจะจ่ายค่าแต่งไม่ไหวเหรอ? ฮ่าฮ่า เรื่อง Mora น่ะช่างมันเถอะ ไม่งั้นก็... ช่วยเล่าเรื่องของเธอให้ฉันฟังหน่อยแล้วกัน!",
       "vi": "Tôi muốn đưa bạn vào ca khúc mới! Ể, sao lại trưng vẻ mặt này ra, sợ không trả nổi nhuận bút à? Ha ha, Mora thì không cần đâu, hay là... Kể chuyện của bạn cho tôi nghe đi!"
     }
   },
@@ -461,7 +461,7 @@
       "ru": "О нас: Герои",
       "id": "Tentang Kita: Pahlawan",
       "th": "เกี่ยวกับเรา - ผู้กล้า",
-      "vi": "Về chúng tôi - Người anh hùng"
+      "vi": "Về chúng ta - Người anh hùng"
     },
     "line": {
       "zhs": "#唔…嗯！嘿嘿，等到勇者救出了{MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_BOYD|INFO_FEMALE_PRONOUN_GIRLD]}，我会第一时间让全大陆传唱这首歌谣。",
@@ -474,8 +474,8 @@
       "fr": "#Dès que {M#le héros}{F#l'héroïne} aura sauvé {M#la princesse}{F#le prince}, je m'assurerai que son histoire soit connue dans les quatre coins de Teyvat.",
       "pt": "#Haha, quando {M#o herói}{F#a heroína} for salv{M#o}{F#a}, vou garantir que essa música se espalhe por todos os cantos do país!",
       "ru": "#Ха-ха, как только принц{F#есса} в моей истории спасёт принц{F#а}{M#ессу}, я сразу сделаю так, что песнь о н{F#ей}{M#ём} разлетится по всем уголкам Тейвата.",
-      "id": "#Haha! Ketika pahlawan pada lagu ini telah menyelamatkan sang {M#pangeran}{F#putri}, aku yakin lagu ini akan menyebar ke setiap penjuru benua.",
-      "th": "อืม... อื้ม! ฮิฮิ ไว้ช่วยเด็กคนนั้นได้เมื่อไหร่ แล้วฉันจะให้ทุกคนในทวีปนี้ ร้องเพลงนี้ทันทีเลย",
+      "id": "#Haha! Setelah pahlawan yang ada dalam lagu ini berhasil menyelamatkan sang {M#pangeran}{F#putri}, aku yakin lagu ini akan tersebar ke seluruh penjuru benua.",
+      "th": "#อืม... อื้ม! ฮิฮิ ไว้ผู้กล้าช่วย{F#เจ้าชาย}{M#เจ้าหญิง}ออกมาได้เมื่อไหร่ ฉันจะให้ทุกคนในทวีปร้องเพลงนี้ในทันทีเลย",
       "vi": "#À... ừ! Hì hì, đợi người anh hùng cứu thoát {F#hoàng tử}{M#công chúa}, tôi sẽ là người đầu tiên hát bài ca này trên khắp đại lục!"
     }
   },
@@ -492,8 +492,8 @@
       "pt": "Sobre nós - Apóstolos",
       "ru": "О нас: Апостолы",
       "id": "Tentang Kita: Penganut",
-      "th": "เกี่ยวกับเรา-สาวก",
-      "vi": "Về chúng tôi - Sứ đồ"
+      "th": "เกี่ยวกับเรา - สาวก",
+      "vi": "Về chúng ta - Sứ đồ"
     },
     "line": {
       "zhs": "夜风凉爽，是适合成为神的使徒的天气！那么事不宜迟，快来向我献上供奉吧？",
@@ -502,13 +502,13 @@
       "ko": "밤 바람 시원하구나, 신의 사도가 되기 딱 좋은 날씨야! 그럼 늦기 전에 빨리 내게 공양을 바쳐야지?",
       "en": "Ahh... an evening breeze really sets the mood for becoming my disciple, don't you think? We can do it right now... you just need to make me a small offering...",
       "de": "Diese kühle Nachtbrise ist wirklich angenehm und versetzt einen gleich in die richtige Stimmung, mein Schüler zu werden! Also, ohne weitere Umschweife, biete mir ein Opfer dar.",
-      "es": "Una noche con una brisa fresca crea el ambiente perfecto para convertirse en mi discípulo, ¿no te parece? Vamos, ven a hacerme una pequeña ofrenda.",
-      "fr": "#Cette petite brise de soirée marque le moment idéal pour faire de toi {M#mon nouveau disciple}{F#ma nouvelle} ! Il suffit de me faire une petite offrande...",
+      "es": "#Una noche con una brisa fresca crea el ambiente perfecto para convertirse en mi discípul{F#a}{M#o}, ¿no te parece? Podemos hacerlo ahora, solo tienes que hacerme una pequeña ofrenda.",
+      "fr": "#Cette petite brise de soirée marque le moment idéal pour faire de toi {M#mon nouveau}{F#ma nouvelle} disciple ! Il suffit de me faire une petite offrande...",
       "pt": "Uma brisa noturna realmente define o clima para se tornar meu discípulo, você não acha? Podemos fazer isso agora mesmo, você só precisa me fazer uma pequena oferenda...",
       "ru": "Вечерний бриз настраивает на то, чтобы стать моим учеником, ты так не думаешь? Мы можем начать прямо сейчас. Тебе всего лишь придётся сделать мне небольшое подношение...",
-      "id": "Angin malam begitu sejuk, membuatmu ingin menjadi muridku, ya kan? Kita bisa melakukannya sekarang, kamu hanya perlu memberikan sedikit persembahan...",
-      "th": "สายลมยามค่ำคืนนั้นช่าง เย็นสบายและเหมาะสมที่จะ ถวายตัวเป็นสาวกของเทพเจ้า! อย่าได้รอช้า จะถวายสักการะให้ฉันเลยมั๊ยล่ะ?",
-      "vi": "Gió đêm mát mẻ, đây là thời tiết thích hợp nhất để trở thành sứ giả của thiên sứ! Việc này không nên chậm trễ, mau tới dâng lễ vật cho tôi đi chứ?"
+      "id": "Ahh ... angin malam benar-benar mendorong niatmu untuk menjadi muridku, kan? Tunggu apa lagi ... kamu cukup memberiku sedikit upeti ....",
+      "th": "สายลมยามค่ำคืนนั้นช่างเย็นสบาย เป็นอากาศที่เหมาะแก่การจะถวายตัวเป็นสาวกของเทพเจ้า! อย่าได้รอช้า จะถวายสักการะให้ฉันเลยมั้ยล่ะ?",
+      "vi": "Gió đêm mát mẻ, đây là thời tiết thích hợp nhất để trở thành sứ giả của thần! Việc này không nên chậm trễ, mau tới dâng lễ vật cho tôi đi chứ?"
     }
   },
   {
@@ -524,8 +524,8 @@
       "pt": "Sobre nós - Solicitação",
       "ru": "О нас: Просьбы",
       "id": "Tentang Kita: Permohonan",
-      "th": "เกี่ยวกับเรา-ร้องขอ",
-      "vi": "Về chúng tôi - Thỉnh cầu"
+      "th": "เกี่ยวกับเรา - ร้องขอ",
+      "vi": "Về chúng ta - Thỉnh cầu"
     },
     "line": {
       "zhs": "欸，要风神我更加努力一点？那你是不是也要展示点诚意呢。比如虔诚、热爱，或者说…",
@@ -534,12 +534,12 @@
       "ko": "엇, 바람의 신인 내가 더 노력해야 되나? 그럼 너도 성의를 보여봐, 간절하거나 열렬한 사랑, 아니면…",
       "en": "What's that? You think I should try harder to be a good Anemo Archon? Well, you could be a better devotee too... you could be more pious, more passionate, or... um...",
       "de": "Du findest, ich als Anemo-Archon sollte mir mehr Mühe geben? Na dann solltest du mir vielleicht auch etwas mehr Respekt zeigen. Oder Loyalität oder Liebe oder ...",
-      "es": "*Suspira* ¿Crees que debería esforzarme más para ser un buen Arconte Anemo? Bueno, tú también podrías ser un mejor creyente... Podrías ser más piadoso, más apasionado o...",
+      "es": "#*Suspira*, ¿crees que debería esforzarme más para ser un buen Arconte Anemo? Bueno, tú también podrías ser {F#una}{M#un} mejor creyente... Podrías ser más piados{F#a}{M#o}, más apasionad{F#a}{M#o} o...",
       "fr": "#Tu penses que je devrais faire un effort en tant qu'Archon Anémo ? Et toi donc ? Tu pourrais devenir {M#un de mes plus fervents}{F#une de mes plus ferventes} disciples...",
-      "pt": "Como é? Você acha que eu, Arconte Anemo, deveria trabalhar mais duro? Bem, você poderia ser um devoto melhor também... Você poderia ser mais piedoso, mais apaixonado, ou... Hm...",
+      "pt": "#Como é? Você acha que eu, Arconte Anemo, deveria trabalhar mais duro? Bem, você poderia ser {M#um devoto}{F#uma devota} melhor também... Você poderia ser mais piedos{M#o}{F#a}, mais apaixonad{M#o}{F#a}, ou... Hm...",
       "ru": "#Думаешь, что я недостаточно делаю в качестве Анемо Архонта? Ну знаешь, тебе тоже не мешало бы постараться, чтобы стать моим последователем. Ты мог{F#ла} хотя бы показать свою заинтересованность...",
-      "id": "Eh, jadi kamu pikir aku harus mencoba lebih keras untuk menjadi Archon Anemo yang baik? Ya kamu juga bisa menjadi pengabdi yang lebih baik... misalnya menjadi lebih tulus, lebih bersemangat, dan...",
-      "th": "เอ่ เทพแห่งลมอยากให้ฉัน พยายามมากกว่านี้งั้นเหรอ? งั้นเธอก็ควรแสดงความจริงใจ ด้วยสิเช่นศรัทธา ความรัก หรือว่า...",
+      "id": "Eh apa? Menurutmu aku harus mencoba lebih giat untuk menjadi Archon Anemo yang baik? Ya, kamu juga bisa menjadi pengabdi yang lebih baik juga, kan ... Misalnya bisa lebih saleh, lebih bersemangat, atau ... uhm ....",
+      "th": "เอ๋ อยากให้ฉันในฐานะเทพแห่งลมพยายามมากขึ้นกว่านี้หน่อยงั้นเหรอ? งั้นเธอก็ควรแสดงความจริงใจด้วยสิ เช่น ความศรัทธา ความรัก หรือว่า...",
       "vi": "Haiz, muốn tôi phải cố gắng hơn nữa? Có phải bạn cũng nên thể hiện chút thành ý hay không. Chẳng hạn như thành kính, tình yêu, hoặc là..."
     }
   },
@@ -568,10 +568,10 @@
       "de": "Wie? Du interessierst dich für mein „Göttliches Auge“? Hier bitte. Wenn du magst, kann ich dir auch ein ähnliches basteln. Hehehe ...",
       "es": "¿Eh? ¿Tienes curiosidad sobre mi Visión? Oh, bueno... Toma, puedo hacerte una para ti si quieres, jejeje.",
       "fr": "Tu voudrais voir mon œil divin ? Je t'en prie, zieute autant que tu veux. Je peux même t'en fabriquer un à l'identique !",
-      "pt": "Ei? Você está curioso sobre a minha Visão? Oh... Então, aqui está. Posso fazer uma Visão igual para você também se você gostar. Hehehe.",
+      "pt": "#Hã? Você está curios{M#o}{F#a} sobre a minha Visão? Oh... Então, aqui está. Posso fazer uma Visão igual para você também se você gostar. Hehehe.",
       "ru": "#М? Интересно, откуда у меня Глаз Бога? Ну вот, держи, посмотри сам{F#а}. Если хочешь, я могу сделать для тебя такой же, ха-ха.",
-      "id": "Eh? Kamu ingin tahu mengenai Vision milikku? Oh baiklah, lihat saja sendiri. Aku bisa membuatkan yang persis seperti ini untukmu, hehehe.",
-      "th": "เอ๊ะ? สงสัยในวิชั่นของฉันเหรอ? อ่า...อ่ะ ให้เธอดูละกัน ถ้าชอบล่ะก็...ให้ฉันทำอันที่เหมือน กันให้อันหนึ่งเอามั้ย? ฮิฮิฮิ",
+      "id": "Hmm? Kamu mau tahu tentang Visionku? Oh, sini kalau begitu, lihat saja sendiri. Aku bisa membuatkan yang cocok untukmu kalau mau! Hehehe.",
+      "th": "เอ๊ะ? สงสัยในวิชั่นของฉันเหรอ? อ่า... อ่ะ ให้เธอดู ถ้าชอบล่ะก็...ให้ฉันทำอันที่เหมือนกันให้อันหนึ่งเอามั้ย? ฮิฮิฮิ",
       "vi": "Hả? Tò mò về Vision của tôi à? Đó... Ừm, cho bạn này. Nếu thích thì... Hay là tôi làm cho bạn một cái giống hệt thế nhé? Hì hì hì."
     }
   },
@@ -598,11 +598,11 @@
       "ko": "Olah! 헤헤, 이건 츄츄족 인사야, 이걸 배워서 뭐하냐고? 와, 아는 게 많을수록 좋은 작품이 나오는 거야, 음, 그러고 보니 츄츄족 언어로 가사를 써본 적이 없구나…",
       "en": "Olah! Haha, that's how the Hilichurls say \"hello.\" Why, I learned it to aid with my songwriting, of course! Vast knowledge makes for a richer composition... That said, I haven't actually written any songs in Hilichurlian so far...",
       "de": "Olah! Hehe, so begrüßen sich Hilichurle. Warum ich das gelernt habe? Für meine Dichtung natürlich. Da fällt mir ein, ich habe noch kein Lied komplett auf Hilichurlisch verfasst.",
-      "es": "¡Olah! Jaja, así es como los Hilichurls dicen “hola”. ¿Que por qué aprendí eso? Pues para mis creaciones artísticas, por supuesto. Cuanto más conocimientos tenga, mejores cosas crearé... Sin embargo, hasta ahora no he escrito ninguna canción en hilichurlio...",
+      "es": "“Olah!”. Jaja, así es como los Hilichurls dicen “hola”. ¿Que por qué aprendí eso? Pues para mis creaciones artísticas, por supuesto. Cuanto más conocimientos tenga, mejores cosas crearé... Sin embargo, hasta ahora no he escrito ninguna canción en hilichurlio...",
       "fr": "Olah ! Ça veut dire « bonjour » en Brutocollinus. J'ai appris cette langue pour élargir mes horizons de composition musicale. Ceci dit, je n'ai pas encore écrit de chanson en Brutocollinus...",
-      "pt": "Olah! Hehe, é cumprimento dos Hilichurls. Por que eu estudo Linguística Hilichurliana? Ai! É para escrever novos poemas, mas nunca cheguei a compor música em Hilichurlês...",
-      "ru": "Olah! Ха-ха, так хиличурлы говорят «привет». Всякие на первый взгляд ненужные знания помогают сделать лексику композиций более богатой. Однако я до сих пор не написал ни одну песню на хиличурлском...",
-      "id": "Olah! Haha, itu cara Hilichurl mengatakan \"halo\". Aku mempelajarinya agar bisa menulis lagu yang lebih baik! Pengetahuan yang luas menghasilkan komposisi yang bagus... tapi biarpun begitu, aku belum pernah menulis lagu apa pun dalam bahasa Hilichurl...",
+      "pt": "Olah! Hehe, é o cumprimento dos Hilichurls. Por que eu estudo Linguística Hilichurliana? Ai! É para escrever novos poemas, mas nunca cheguei a compor música em Hilichurlês...",
+      "ru": "Olah! Ха-ха, так хиличурлы говорят «привет». Всякие на первый взгляд ненужные знания помогают сделать лексику композиций более богатой. Однако я до сих пор не написал ни одной песни на хиличурлском...",
+      "id": "Olah! Haha, begitulah Hilichurl bilang \"halo.\" Kalau kamu tanya kenapa, jawabannya tentu saja karena aku mempelajarinya untuk membantu penulisan laguku! Pengetahuan yang luas membuat komposisi yang lebih bervariasi ... Orang-orang bilang, aku belum pernah menulis lagu dalam bahasa Hilichurl selama ini ....",
       "th": "Olah! เหอะ ๆ นี่คือการ กล่าวทักทายของ Hilichurl น่ะ ถามว่าฉันเรียนสิ่งนี้ไปทำไมเหรอ? อ่ะฮ่า ก็เพื่อสร้างสรรค์ผลงาน และก็จะได้ เพิ่มพูนความรู้ด้วยไงล่ะ เอ่ ดูเหมือนฉันยังไม่เคยใช้ภาษา Hilichurl เขียนเพลงเลยนะ...",
       "vi": "Olah! Hì hì, đây là câu chào hỏi của Hilichurl đấy. Hỏi tôi học cái này làm gì à? Ây da, muốn sáng tác thì đương nhiên phải có kiến thức càng rộng càng tốt rồi. Ừm, hình như tôi chưa có thử sáng tác bài hát bằng ngôn ngữ Hilichurl đó..."
     }
@@ -619,7 +619,7 @@
       "fr": "Détails intéressants...",
       "pt": "Coisas Interessantes...",
       "ru": "Интересные вещи...",
-      "id": "Rumor yang menarik",
+      "id": "Rumor yang Menarik",
       "th": "ข้อมูลที่น่าสนใจ...",
       "vi": "Những kiến thức thú vị..."
     },
@@ -630,12 +630,12 @@
       "ko": "여행자, 세실리아를 본 적 있어? 조용한 절벽 꼭대기에 말 없이 피는 흰 야생화야, 내 생각엔 티바트에서 가장 아름다운 꽃인 것 같아",
       "en": "Traveler, have you ever seen a Cecilia? It's a magnificent white wildflower that only grows on the most remote mountains and clifftops. To me, at least, it is the most beautiful flower in all of Teyvat.",
       "de": "#{F#Reisende}{M#Reisender}, hast du jemals eine Cecilia zu Gesicht bekommen? Sie ist eine weiße, wilde Blume, die still auf der Spitze eines Felsplateaus wächst. In meinen Augen ist sie die schönste Blume in ganz Teyvat.",
-      "es": "#{F#Viajera}{M#Viajero}, ¿alguna vez has visto una Cecilia? Es una magnífica flor silvestre de color blanco que solo crece en las montañas y acantilados más remotos. Para mí, al menos, es la flor más hermosa de todo Teyvat.",
+      "es": "#{F#Viajera}{M#Viajero}, ¿alguna vez has visto una cecilia? Es una magnífica flor silvestre de color blanco que solo crece en las montañas y acantilados más remotos. Para mí, al menos, es la flor más hermosa de todo Teyvat.",
       "fr": "As-tu déjà vu des cécilias ? Ce sont des fleurs qui poussent sur les montagnes et les falaises reculées. Je trouve que ce sont les plus belles fleurs de tout Teyvat.",
       "pt": "Viajante, conhece a flor Cecília? É uma flor branca e pura que floresce sozinha no pico das montanhas. No meu coração, é a flor mais linda em Teyvat.",
       "ru": "#А ты когда-нибудь видел{F#а} сесилию, путешественни{F#ца}{M#к}? Это изумительный белый цветок, который растёт только в самых удалённых местах, на скалистых горах. Для меня это самый красивый цветок во всём Тейвате.",
       "id": "Pengembara, apa kamu pernah melihat Cecilia? Ini adalah bunga liar putih yang luar biasa yang hanya tumbuh di pegunungan dan puncak gunung yang paling terpencil. Setidaknya bagiku, itu adalah bunga paling indah di seluruh Teyvat.",
-      "th": "นักเดินทาง เธอเคยเห็นดอก Cecilia มั้ย? มันคือดอกไม้ป่าสีขาว ที่บานอยู่บน ชะง่อนผาที่เงียบสงบ ในใจฉันนั้นมันคือดอกไม้ที่สวยที่สุด ใน Teyvat",
+      "th": "นักเดินทาง เธอเคยเห็นดอก Cecilia มั้ย? มันคือดอกไม้ป่าสีขาว ที่บานอยู่บนชะง่อนผาที่เงียบสงบ ในใจฉันนั้นมันคือดอกไม้ที่สวยที่สุดใน Teyvat",
       "vi": "Nhà Lữ Hành, bạn đã từng thấy hoa Cecilia chưa? Đó là một loại hoa dại màu trắng mọc trên những đỉnh núi yên tĩnh. Trong lòng tôi, nó chính là loài hoa đẹp nhất xứ Teyvat này."
     }
   },
@@ -657,7 +657,7 @@
     },
     "line": {
       "zhs": "骑士团代理团长大人…你觉得她是个怎样的人？嘿嘿，跟我想得一样。认真，勇敢，也不乏温柔。和我一个朋友有点像呢…",
-      "zht": "#騎士團代理團長大人…{F#妳}{M#你}覺得她是個怎樣的人？嘿嘿，跟我想得一樣。認真，勇敢，也不乏溫柔。和我一個朋友有點像呢…",
+      "zht": "#騎士團代理團長大人…{F#妳}{M#你}覺得她是個怎樣的人？嘿嘿，跟我想的一樣。認真，勇敢，也不乏溫柔。和我一個朋友有點像呢…",
       "jp": "騎士団の代理団長…君は彼女をどんな人物だと思う？エヘヘ、ボクと同じこと考えているね。真面目、勇敢、優しさに溢れている。ボクのある友人と少し似ているんだ…",
       "ko": "기사단 단장 대행… 그녀가 어떤 사람이라고 생각해? 헤헤, 내 생각과 같네, 진지하고 용감하면서도 따스하지, 내 친구와 닮았어…",
       "en": "Acting Grand Master Jean... Well, what do you think of her? Yes, I couldn't agree more: conscientious, courageous... kind and considerate too. Reminds me of another good friend...",
@@ -666,9 +666,9 @@
       "fr": "Que penses-tu de Jean ? ... Oui, je suis d'accord. Elle est consciencieuse, courageuse et gentille. Comme un de mes amis...",
       "pt": "Grande Mestre Intendente, o que você acha sobre ela? Hehe, é o mesmo que eu penso. Responsável, corajosa, e gentil... Ela é muito parecida com um outro amigo meu...",
       "ru": "Действующий магистр Джинн... Какого ты о ней мнения? Да, не могу согласиться: сознательна, смела... добра и внимательна. Напоминает мне одного моего хорошего друга...",
-      "id": "Grand Master Jean... menurutmu dia orangnya bagaimana? Hm, benar, aku setuju. Dia begitu serius, pemberani dan baik hati. Seperti teman baikku...",
-      "th": "เธอว่านายท่านผู้รักษาการณ์หัวหน้า แห่งกองอัศวิน...เป็นคนยังไง? เหอะ ๆ เหมือนที่ฉันคิดไว้เลย ทั้งจริงจัง กล้าหาญ และก็เต็มไปด้วยความอ่อนโยน เหมือนกับเพื่อนของฉันคนหนึ่ง...",
-      "vi": "Đội trưởng đại diện Đội Kỵ Sĩ... Bạn cảm thấy cô ấy là người thế nào? Hề hề, đúng như mình nghĩ. Nghiêm túc, dũng cảm mà không thiếu phần dịu dàng. Rất giống một người bạn của tôi..."
+      "id": "Grand Master Jean ... menurutmu dia orangnya bagaimana? Ya, aku setuju sekali kalau dia itu teliti, pemberani ... baik dan juga perhatian. Aku jadi teringat akan seorang teman baikku yang lain ....",
+      "th": "เธอว่าท่านผู้รักษาการณ์หัวหน้าแห่งกองอัศวิน...เป็นคนยังไง? ฮิฮิ เหมือนที่ฉันคิดไว้เลย ทั้งจริงจัง กล้าหาญ และก็เต็มไปด้วยความอ่อนโยน เหมือนกับเพื่อนของฉันคนหนึ่ง...",
+      "vi": "Đội trưởng đại diện Đội Kỵ Sĩ... Bạn cảm thấy cô ấy là người thế nào? Hề hề, đúng như tôi nghĩ. Nghiêm túc, dũng cảm mà không thiếu phần dịu dàng. Rất giống một người bạn của tôi..."
     }
   },
   {
@@ -694,13 +694,13 @@
       "ko": "다이루크 어르신과 좋은 관계가 되고 싶다고? 그 사람 집에는 술이 엄~청~나~게~ 많아! 헤헤헤, 난 술 마시면 안 된다고? 그럼… 가서 냄새만 맡아볼게! 너도 맡아봐, 맡기만 하는 건 괜찮아",
       "en": "I'm not surprised you want to befriend Master Diluc. Just think of all the vintage wine he must have stored away... Mwuhahaha... Huh? He doesn't let you sample it? Not even the slightest drop? Huh... Well, I guess you can still appreciate the aroma. That's still better than no wine at all, right? No?",
       "de": "Du willst mit Diluc eine gute Beziehung aufbauen, wie? Überleg nur, wie viele Weinschätze seine Familie haben muss. Hehehehe. Was, du kannst nichts von seinem Alkohol haben, noch nicht mal einen kleinen Tropfen probieren? Na, dann geh ihn riechen! Riechen sollte in deinem Fall kein Problem sein.",
-      "es": "No me sorprende que quieras hacerte amigo del Maestro Diluc. Piensa en todo el vino que debe tener guardado... Muajajaja ... ¿Eh? ¿Que no deja que nadie lo pruebe? ¿Ni siquiera un sorbo? Hummm... Bueno, pero te dejará olerlo, ¿no?. Sigue siendo mejor que nada.",
+      "es": "No me sorprende que quieras hacerte amigo del Maestro Diluc. Piensa en todo el vino que debe tener guardado... Muajajaja ... ¿Eh? ¿Que no deja que nadie lo pruebe? ¿Ni siquiera un sorbo? Hummm... Bueno, pero te dejará olerlo, ¿no? Sigue siendo mejor que nada.",
       "fr": "#Tu voudrais être {M#ami}{F#amie} avec maître Diluc ? Imagine tous les millésimes qu'il renferme dans sa cave ! Quoi ? Il ne te laisse même pas boire une petite goutte de son vin ? Hum, tu n'as qu'à le sentir ! Tout le monde peut le faire au moins...",
       "pt": "Não me surpreende que você queira fazer amizade com o Mestre Diluc, basta pensar em todo o vinho vintage que ele deve ter armazenado... Mwuhahaha... Não é? Ele não o deixa provar? Nem mesmo a menor gota? Huh... Bem, eu acho que você ainda pode apreciar o aroma. Isso ainda é melhor do que nenhum vinho, certo? Não?",
-      "ru": "Я не удивлён, что ты хочешь подружиться с Дилюком. Только представь, сколько винтажного вина хранится в его погребах... Муахахаха... А? Он не даёт тебе попробовать? Ни малейшей капельки? Хм... Ну, я думаю, ты хотя бы можешь оценить его аромат. Это всё же лучше, чем ничего, верно? Нет?",
-      "id": "Kamu ingin berteman baik dengan Tuan Diluc ya? Yah, tentu saja, dia punya banyak anggur yang tersimpan... Hahahahaha... eh? Dia tidak membiarkanmu mencicipinya? Setetes juga tidak? Hm... setidaknya kamu bisa mencium aromanya! Itu lebih baik daripada tidak sama sekali.",
-      "th": "อยากผูกมิตรกับคุณ Diluc งั้นเหรอ? เธอคิดดู บ้านเขาเก็บสะสมไวน์ไว้เยอะแยะ~ มากมาย~ เลย! เหอะ ๆๆๆๆๆๆ...เฮ้อ แต่ไม่ว่ายังไงก็ว่าไม่อนุญาตให้ดื่มน่ะเหรอ? งั้น...ก็ไปดมสักหน่อยแล้วกัน ดม ๆ ดู! ถ้าแค่ดมล่ะก็ เธอก็ทำได้นะ",
-      "vi": "Có quan hệ tốt với Diluc lão gia? Bạn nghĩ đi, nhà hắn sẽ có... rất nhiều... rượu ngon đấy! Hề hề hề, hề hề hề hề... Ơ, dù thế nào cũng không được phép uống rượu á? Vậy... Ngửi thôi cũng được! Nếu chỉ ngửi thì bạn cũng làm được mà."
+      "ru": "Я не удивлён, что ты хочешь подружиться с Дилюком. Только представь, сколько винтажного вина хранится в его погребах... Муа-ха-ха-ха... А? Он не даёт тебе попробовать? Ни малейшей капельки? Хм... Ну, я думаю, ты хотя бы можешь оценить его аромат. Это всё же лучше, чем ничего, верно? Нет?",
+      "id": "Aku tidak terkejut kalau kamu mau berteman dengan Tuan Diluc. Coba imajinasikan tentang semua anggur antik yang sudah dia simpan ... Hahahaha ... Hah? Dia tidak membiarkanmu mencicipinya? Setetes pun? Huh ... Ya, minimal kamu masih bisa mencium aromanya. Itu masih lebih baik daripada tidak ada anggur sama sekali, kan? Setuju, tidak?",
+      "th": "ไปผูกมิตรกับคุณ Diluc กันมั้ย? เธอคิดดูสิ บ้านเขาเก็บสะสมไวน์ไว้เยอะแยะ~ มากมาย~ เลย! ฮิฮิฮิฮิฮิฮิฮิ... เฮ้อ แต่ไม่ว่ายังไงก็ไม่อนุญาตให้ดื่มน่ะเหรอ? งั้น...ก็ไปดมสักหน่อยแล้วกัน ดม ๆ ดู! ถ้าแค่ดมล่ะก็ เธอก็ทำได้นะ",
+      "vi": "Đi tạo dựng mối quan hệ tốt với lão gia Diluc nhé? Bạn nghĩ đi, nhà hắn có... rất nhiều... rượu ngon đấy! Hề hề hề, hề hề hề hề... Ơ, dù thế nào cũng không được phép uống rượu á? Vậy... Ngửi thôi cũng được! Nếu chỉ ngửi thôi, thì bạn cũng làm được mà."
     }
   },
   {
@@ -729,9 +729,9 @@
       "es": "¿Conoces a la Diaconisa, una chica con una voz muy dulce? ¿No la conoces? Es una ídolo, ¿no te suena? ¿Nunca has tenido la oportunidad de saludarla? ¿O de ir a uno de sus conciertos? Vaya... Supongo que la música es un misterio para ti.",
       "fr": "Tu connais cette adorable diaconesse à la voix divine ? Oui ? Une star ? Elle rencontre ses fans et elle tient des concerts ? ... Le pouvoir de la musique est grand.",
       "pt": "A querida Diaconisa com a doce voz de cantora - você a conhece? Conhece? Ídolo, hein? Encontros? Concertos? Uau... Esse é o poder da música para você...",
-      "ru": "Милый пастор с нежным голосом, ты знаешь её? Да? Идол? Концерты? Сходки фанатов? Вау... Вот тебе и сила музыки...",
-      "id": "Seorang Diakones dengan suara nyanyian yang indah — apa kamu mengenalnya? Seorang idola? Jumpa penggemar? Konser? Wow... kekuatan musik sungguh luar biasa.",
-      "th": "ซิสเตอร์สาวน้อยที่ร้องเพลงเพราะมาก เธอรู้จักมั้ย รู้จักบ้างมั้ย? ...เอ่ ไอดอล?...อ่า งานจับมือ?....อืม ไลฟ์คอนเสิร์ต?...ดนตรีนี่ช่างลึกซึ้งซะจริง",
+      "ru": "Милый пастор с нежным голосом, ты знаешь её? Да? Идол? Концерты? Сходки фанатов? Ого... Это сила музыки...",
+      "id": "Seorang Diakones terkasih dengan suara nyanyiannya yang merdu — Kamu kenal dia? Kenal, tidak? Dia itu seorang idola ya? Jumpa penggemar? Konser? Wow ... Itulah kekuatan musik untukmu ....",
+      "th": "ซิสเตอร์สาวน้อยที่ร้องเพลงเพราะมาก เธอรู้จักมั้ย รู้จักบ้างมั้ย? ...เอ่ ไอดอล? ...อ่า งานจับมือ? ...อืม ไลฟ์คอนเสิร์ต? ...ดนตรีนี่ช่างลึกซึ้งซะจริง",
       "vi": "Con gái mục sư có giọng hát hay, bạn có quen không, có quen không? Hả, thần tượng?... A, buổi bắt tay?... Biểu diễn riêng?... Vậy à, âm nhạc đúng là kỳ diệu."
     }
   },
@@ -760,11 +760,11 @@
       "de": "Dieser Junge aus Wolfenlauf, ja? Der wurde doch von Wölfen großgezogen. Ja, kein Wunder, der Duft lässt Erinnerungen wach werden ...",
       "es": "Ah, el joven de pelo blanco del Reino de los Lobos, ¿dices? ¿Fue criado por lobos? ¿En serio? Bueno, no es de extrañar, con ese olor corporal inconfundible...",
       "fr": "Ce garçon aux cheveux blancs du Territoire des Loups ? Ah, il a été élevé par des loups ? Je ne suis pas surpris, je reconnaîtrais cette odeur parmi mille...",
-      "pt": "Ah, o cara de cabelo branco do Reino do Lobo, sim. Criado por lobos? Sério? ... Não me admira... Aquele inconfundível odor corporal...",
-      "ru": "Мальчик из Вольфендома с белыми волосами, да. Его вырастили волки? Правда? Тогда понятно, откуда этот запах...",
-      "id": "Ah, bocah berambut putih dari Wolvendom, iya, dibesarkan oleh para serigala? Benarkah? Pantas saja... bau tubuhnya benar-benar khas...",
+      "pt": "Ah, o cara de cabelo branco do Reino do Lobo, sim. Criado por lobos? Sério? ...Não me admira... Aquele inconfundível odor corporal...",
+      "ru": "Мальчик из Вольфендома с белыми волосами, да. Его вырастили волки? Правда? Тогда понятно, почему так знаком его запах...",
+      "id": "Ah iya, bocah berambut putih dari Wolvendom? Dibesarkan oleh para serigala? Benarkah? Pantas saja ... aroma tubuhnya begitu familier ....",
       "th": "หนุ่มน้อยผมขาวจาก Wolvendom คนนั้นใช่มั้ย โอ้ ๆ เขาถูกหมาป่าเลี้ยงมาจนโตเหรอ...มิน่าล่ะ กลิ่นอายบนตัวเขาถึงทำให้คิดถึง...",
-      "vi": "Thiếu niên tóc trắng của Lang Lãnh, a à, vậy sao, là được sói nuôi lớn à... chẳng trách dáng vẻ của hắn lại khiến người ta hoài niệm như thế..."
+      "vi": "Thiếu niên tóc trắng ở Lang Lãnh, a à, vậy sao, là được sói nuôi lớn à... chẳng trách, hơi thở trên người của cậu lại khiến người ta hoài niệm như thế..."
     }
   },
   {
@@ -791,11 +791,11 @@
       "en": "Oh, that astrologer? How should I put it? Fortune-telling and my singing are the same: Both lead to you being so poor you can't even cough up the money for a drink! ...You think that astrology is a cultural tradition, so at least still has some value? Hmph, so rude. In that case, so too is singing, so it still has its value too!",
       "de": "Ah, die Astrologin? Wie soll ich es sagen? Wahrsagen und mein Gesang sind sich sehr ähnlich, beide Tätigkeiten führen dazu, dass man so arm wird, dass man nicht einmal das Geld für ein Getränk zusammenkratzen kann! ... Du glaubst, dass die Astrologie eine kulturelle Tradition ist, also zumindest noch einen gewissen Wert hat? Hmm, wenn das so ist, dann ist das Singen auch eine Tradition, also hat sie auch noch ihren Wert!",
       "es": "Oh, ¿esa astróloga? Bueno, la adivinación astrológica y mis canciones son muy parecidas: ¡con ambas serás tan pobre que no podrás gastarte ni un Mora en vino! ¿Crees que la astrología es una tradición cultural y que, al menos ella, todavía tiene algún valor? ¡Hum! ¡Qué grosería! ¡Cantar también tiene su valor!",
-      "fr": "L'astromancienne ? Hum, nos professions ne sont pas exactement les mieux rémunérées... au point qu'on n'a même pas assez pour s'offrir une boisson ! L'astromancie est plus respectable à tes yeux car c'est une tradition ? Pff, je te signale que c'est aussi le cas du chant !",
-      "pt": "Oh, aquela astróloga? Como devo dizer? Adivinhação e o meu canto são o mesmo, ambos levam você a ser tão pobre que não pode nem arrancar um dinheirinho para uma bebida! ... Você acha que a astrologia é uma tradição cultural, então pelo menos ainda tem algum valor? Hmph, tão grosseiro. Nesse caso, assim também é cantar, por isso ainda tem seu valor também!",
+      "fr": "L'astromancienne ? Hum, nos professions ne sont pas exactement les mieux rémunérées... Au point qu'on n'a même pas assez pour s'offrir une boisson ! L'astromancie est plus respectable à tes yeux car c'est une tradition ? Pff, je te signale que c'est aussi le cas du chant !",
+      "pt": "#Oh, aquela astróloga? Como devo dizer? Adivinhação e o meu canto são os mesmos, ambos levam você a ser tão pobre que não pode nem arrancar um dinheirinho para uma bebida! ...Você acha que a astrologia é uma tradição cultural, então pelo menos ainda tem algum valor? Hmph, tão grosseir{M#o}{F#a}. Nesse caso, assim também é cantar, por isso ainda tem seu valor também!",
       "ru": "Ох, тот астролог? Гляди, астрология и моё пение - это почти одно и то же. В обоих случаях у тебя не остаётся денег даже на выпивку! Ты считаешь, что астрология - это культурное явление, и поэтому оно ценнее? Хм, как грубо, пение уличных бардов не менее ценно!",
-      "id": "Ah, astrolog itu ya? Hmm... bagaimana ya, seperti ramalan dan nyanyianku, keduanya membuatku menjadi miskin sampai tidak punya uang untuk minum! Eh? Kamu bilang setidaknya astrologi adalah tradisi budaya yang berharga? Huh, lancang, kalau begitu nyanyian juga punya nilainya tersendiri!",
-      "th": "อ่า โหรแห่งดวงดาวคนนั้นเหรอ? เอาอย่างงี้แล้วกัน นักพยากรณ์กับฉันก็เหมือนกัน นั่นแหละ ไม่ได้ใช้ฝีมืออะไรก็เลยจนซะจนไม่มีเงินแม้แต่จะดื่มเหล้า! เอ๋? เธอว่าศาสตร์แห่งดวงดาวเป็น ประเพณีดั้งเดิม ดังนั้นก็พอจะมีประโยชน์อยู่บ้าง? อืม ขอโทษที่เสียมารยาทนะ งั้นบทกวีก็มีประโยชน์เช่นเดียวกัน นั่นแหละ!",
+      "id": "Oh, astrolog itu ya? Gimana ngomongnya ya? Ramalan dan nyanyianku itu sama, keduanya membuatku miskin sampai tidak punya uang untuk minum! Hehe ... Menurutmu astrologi adalah tradisi budaya, jadi karena itu ia berharga? Hmph, tidak sopan. Kalau begitu, sama dong nyanyian juga, ia sama-sama berharga!",
+      "th": "อ่า โหรแห่งดวงดาวคนนั้นเหรอ? ว่าอย่างงี้แล้วกัน นักพยากรณ์กับฉันก็เหมือนกันนั่นแหละ มีแต่ฝีมือไร้ประโยชน์ที่ทำให้จนถึงขั้นไม่มีเงินจะดื่มเหล้าด้วยซ้ำ! เอ๋? เธอว่าศาสตร์แห่งดวงดาวเป็นประเพณีดั้งเดิม ดังนั้นก็พอจะมีประโยชน์อยู่บ้าง? อืม ขอโทษที่เสียมารยาทนะ งั้นบทกวีก็มีประโยชน์เช่นเดียวกันนั่นแหละ!",
       "vi": "A, vị thuật sĩ chiêm tinh kia à? Nói vậy là xem bói cũng giống như thơ ca của tôi, đều là kỹ thuật vô dụng khiến người ta nghèo đến mức không đủ tiền mua rượu! Haiz, bạn nói chiêm tinh ít nhất cũng là một loại văn hóa truyền thống, nên không vô dụng? À, thật thất lễ, thơ ca cũng hữu dụng mà!"
     }
   },
@@ -825,8 +825,8 @@
       "es": "En la Taberna Cola de Gato, hay una bebida especial que todo el mundo conoce. Pero me da a... a... ¡ACHÍS! ¿Podrías traerme una? Te estaré eternamente agradecido.",
       "fr": "Il y a une boisson très réputée à La Queue de Chat que je voudrais essayer, mais je... A—A—ATCHOUM ! Pourrais-tu aller m'en chercher une ? Je t'en serai très reconnaissant.",
       "pt": "Há uma bebida especial conhecida de longe na Cauda do Gato. Mas ela me faz - ah... Ahh... AAATIMMM! Que tal você ir buscar uma para mim? Ficarei verdadeiramente grato, prometo.",
-      "ru": "В «Кошкином хвосте» есть один известный во всей округе напиток. Но он... ааа... Апчхи! *Шмыгает* Можешь принести мне бокальчик, пожалуйста? Я буду очень-очень тебе благодарен, обещаю.",
-      "id": "Ada sebuah minuman spesial yang sangat populer di Cat's Tail. Tapi itu... ah... ACHOO! Bagaimana jika kamu pergi dan bawakan satu untukku? Aku pasti akan berterima kasih sekali.",
+      "ru": "В «Кошкином хвосте» есть один известный во всей округе напиток. Но он... а-а-а... Апчхи! *Шмыгает* Можешь принести мне бокальчик, пожалуйста? Я буду очень-очень тебе благодарен, обещаю.",
+      "id": "Ada sebuah minuman spesial yang sangat populer di Cat's Tail. Tapi itu ah ... ah ... ACHOO! Gimana kalau kamu pergi dan bawakan satu untukku? Aku pasti akan berterima kasih sekali, janji deh.",
       "th": "เครื่องดื่มสูตรพิเศษของร้านเหล้า Cat's Tail นั้นโด่งดังไปทั่ว แต่...จะทำให้ จะ จามได้ ฮัดชิ่ว ไม่งั้นเธอช่วยชงให้ฉันสักแก้วสิ ฉันจะขอบคุณเธอมากเลย ตกลงตามนี้นะ",
       "vi": "Rượu đặc biệt nổi tiếng xa gần của quán rượu Đuôi Mèo. Nhưng... sẽ... sẽ... hắt hơi. Hay là bạn giúp tôi kiếm một chén rượu tới đây. Tôi nhất định sẽ cảm kích bạn khôn xiết, quyết định thế nhé."
     }
@@ -858,8 +858,8 @@
       "fr": "La terre et la craie, l'univers et ses strates, la terre la plus pure donnant naissance à la vie... Les preuves abondent, et ne doivent être ignorées. L'alchimie est un ancien pouvoir particulièrement dangereux. Je n'ose imaginer ce qu'il se passerait si quelqu'un en perdait le contrôle dans les murs de la cité... Bah, peu importe ! C'est un problème que devront résoudre les gens de Mondstadt par eux-mêmes !",
       "pt": "Como você explica o giz branco em solo preto ou a densa crosta terrestre em meio ao vazio do espaço? Mesmo motivo pelo qual o solo mais puro deu origem à vida humana... É um poder antigo com propriedades inconfundíveis. Tentar se aproveitar de seu poder é realmente perigoso, não consigo imaginar o que aconteceria se alguém perdesse o controle na cidade... Ah, deixa pra lá! O que se passa dentro dos muros de Mondstadt depende do pessoal de Mondstadt!",
       "ru": "Как объяснить образование белого мела в чёрной земле? Или образование земной коры в бескрайней пустоте космоса? За всем стоит та же древнейшая сила, что позволила чистейшей почве дать жизнь человеку... Но пытаться обуздать подобную силу очень и очень чревато. Боюсь представить, что может произойти, потеряй кто-нибудь контроль над ней в стенах города... Хотя, неважно! Пусть жители Мондштадта сами разбираются с возникшими в их городе проблемами!",
-      "id": "Bagaimana kamu menjelaskan kapur putih di tanah hitam, atau kerak bumi yang padat di tengah kekosongan ruang? Alasan yang sama dengan tanah yang paling murni melahirkan kehidupan manusia... Itulah kekuatan kuno. Teknologi kuno yang berbahaya, jika seseorang hilang kendali di dalam kota... Ah, sudahlah! Apa yang terjadi di dalam Mondstadt adalah urusan rakyat Mondstadt.",
-      "th": "ดินดำกับชอล์กขาว จักรวาลกับพื้นโลก มันเป็นเหตุผลเดียวกับที่ดินบริสุทธิ์ ได้ให้กำเนิดชีวิตมนุษย์ขึ้น... ลักษณะเด่นชัดมากจนยากที่จะมองข้ามได้ พลังโบราณแบบนี้อันตรายมาก หากเกิดสูญสียการควบคุมขณะที่ อยู่ในเมืองล่ะก็...โอ่ย ไม่อยากจะคิด ให้ชาว Mondstadt แก้ไขปัญหาของ Mondstadt เองก็แล้วกัน",
+      "id": "Bagaimana kamu menjelaskan kapur putih di tanah hitam, atau kerak bumi yang padat di tengah kekosongan ruang? Alasan yang sama dengan tanah yang paling murni melahirkan kehidupan manusia ... Tidak salah lagi itulah kekuatan kuno. Mencoba memanfaatkannya memang berbahaya, aku tidak bisa membayangkan apa yang akan terjadi kalau ada orang yang lepas kendali di dalam kota ... Ah, sudahlah! Apa yang terjadi di balik tembok Mondstadt biarlah orang-orang Mondstadt sendiri yang menanganinya!",
+      "th": "ดินดำกับชอล์กขาว จักรวาลกับพื้นโลก ดินบริสุทธิ์ได้ให้กำเนิดชีวิตมนุษย์ขึ้น... ลักษณะเด่นเหล่านี้ชัดมากจนยากที่จะมองข้ามได้ พลังโบราณแบบนี้อันตรายมาก หากเกิดสูญเสียการควบคุมขณะที่อยู่ในเมืองล่ะก็... โอ๊ย ไม่อยากจะคิด ให้ชาว Mondstadt แก้ไขปัญหาของ Mondstadt เองก็แล้วกัน",
       "vi": "Đất đen và vôi trắng, vũ trụ và tầng đất, đất tinh khiết sinh ra người ban sơ... đặc điểm quá rõ ràng, khó mà bỏ qua được. Kỹ thuật cổ xưa nguy hiểm như vậy, lỡ như trong thành không khống chế được... Hầy, thôi bỏ đi, để người Mondstadt tự giải quyết vấn đề của họ vậy."
     }
   },
@@ -890,7 +890,7 @@
       "fr": "Tu le connais ? C'est un homme ordinaire qui s'appelle Zhongli, maintenant ? Ça doit le changer... Rendons-lui visite ensemble. Ah, je lui offrirai une bouteille de millésime que j'ai trouvée à Ventlevé. Au fait, est-il aussi puissant qu'autrefois ? Tu penses que je vais me faire dégommer ?",
       "pt": "Você viu aquele senhor por aí? Ele agora é apenas um homem normal que se chama Zhongli? Deve ser uma mudança muito grande para esse velho gagá. Venha comigo ver ele. Eu tenho um vinho que trouxe da Origem do Vento que serve para lhe dar condolências. Oh... Além disso, ele parecia forte quando você o viu? Quão forte? Será que eu sairei voando de tão forte?",
       "ru": "Так ты знаешь этого джентльмена? И как? Он обычный человек по имени Чжун Ли? Видать, сильно изменился, старый болван. Может, сопроводишь меня на встречу с ним? Я тут откопал бутылочку винтажного вина в долине Ветров, можно взять с собой в качестве подарка. Ох... Слушай, а он показался тебе сильным? Насколько? Он может смести меня одним взмахом?",
-      "id": "Apakah kamu sudah bertemu dengan orang tua itu? Apa kabarnya belakangan ini? Oh, dia telah menjadi orang biasa bernama Zhongli? Untuk orang yang keras kepala seperti dia, sepertinya ini adalah perubahan besar yah. Mari temani aku menemuinya, dan bawalah sebotol anggur tua yang sudah terkubur lama sebagai oleh-oleh untuknya. Oh iya, apakah dia masih sehebat dulu, atau dia sudah melemah? Aku tidak akan dipukul hingga melayang saat menemuinya kan?",
+      "id": "Apa kamu pernah melihat laki-laki tua itu? Hah? Sekarang dia cuma seorang pria biasa bernama Zhongli? Pasti sudah banyak perubahan yang terjadi dengan si bodoh itu. Ayo ikut denganku untuk menemuinya, ya? Aku punya barang antik yang kugali dari Windrise yang bisa kubawa sebagai hadiah belasungkawa. Oh, ahh ... apa dia masih terlihat kuat waktu kamu melihatnya? Seberapa kuat? Apa mungkin aku bisa terhempas oleh kekuatannya?",
       "th": "เธอเจอชายแก่คนนั้นแล้วเหรอ? ช่วงนี้เขาเป็นยังไงบ้าง? เอ่ กลายเป็นคนธรรมดาที่ใช้ชื่อว่า Zhongli แล้วงั้นเหรอ? นี่คงเป็นการเปลี่ยนแปลง ครั้งใหญ่สำหรับคนแก่หัวดื้อ อย่างเขาเลย ไปเยี่ยมเขากับฉันหน่อยสิ ฉันจะเอาไวน์ขวดนี้ที่เก็บไว้ใน Windrise มาหลายปีไปเป็นของ ปลอบใจเขาซะหน่อย อ่า จริงสิ ตอนนี้เขายังดูแข็งแรงอยู่รึเปล่า เขายังมีแรงเหลืออยู่แค่ไหนกัน? ฉันไปหาเขาแบบนี้ จะถูกซัดจนปลิวรึเปล่านะ?",
       "vi": "Bạn đã gặp vị lão gia kia rồi? Gần đây ông ấy có khỏe không? Hầy, biến thành người thường tên Zhongli rồi ư? Đối với người cứng đầu như ông ấy thì đây là một thay đổi không nhỏ ấy chứ. À, cùng tôi đi gặp ông ấy đi, mang theo bình rượu ngon chôn tại Phong Khởi Địa này xem như quà an ủi vậy. À đúng rồi, bây giờ ông ta có mạnh hay không, thực lực còn được bao nhiêu? Tôi đi đến đó thế này có bị đánh bay không nhỉ?"
     }
@@ -913,7 +913,7 @@
     },
     "line": {
       "zhs": "优菈对酒的品位可是很不错的。无论夏天、冬天都要喝冰的这一点，在现在的蒙德人里也算难得啦。感觉能和她成为不错的酒友。嗯？你说我编排的劳伦斯家的歌…早已经传到了她的耳朵里？哈，那有什么关系嘛？说不定，我们还能一起唱呢。",
-      "zht": "#優菈對酒的品位可是很不錯的。無論夏天、冬天都要喝冰的這一點，在現在的蒙德人裡也算難得啦。感覺能和她成為不錯的酒友。嗯？{F#妳}{M#你}說我編排的勞倫斯家的歌…早已經傳到了她的耳朵裡？哈，那有什麼關係嘛？說不定，我們還能一起唱呢。",
+      "zht": "#優菈對酒的品味可是很不錯的。無論夏天、冬天都要喝冰的這一點，在現在的蒙德人裡也算難得啦。感覺能和她成為不錯的酒友。嗯？{F#妳}{M#你}說我編排的勞倫斯家的歌…早已經傳到了她的耳朵裡？哈，那有什麼關係嘛？說不定，我們還能一起唱呢。",
       "jp": "エウルアのお酒の趣味はなかなか面白いものだよ。夏でも冬でも氷を入れた冷たいのを飲むんだ。彼女みたいなのは、今のモンドにそういないだろうね。彼女とはいい飲み友達になれそうだよ。ん？ボクの作ったローレンス家の歌が…彼女の耳にも？あははっ、それがどうしたの？もしかしたら僕たち、一緒に歌えるかもしれないね。",
       "ko": "유라는 술에 대한 센스가 꽤 좋은 편이야. 여름 겨울 불문하고 차가운 걸 마시는 습관은 지금의 몬드에선 아주 드물거든. 헤헤, 그녀와 좋은 술친구가 될 수 있을 것 같아. 응? 내가 로렌스 가문에 대해 만든 노래가… 벌써 유라 귀에 들어갔다고? 하하, 뭐 어때, 같이 부르게 될지도 모르잖아",
       "en": "Eula has good taste when it comes to beverages of the alcoholic variety. Come summer or winter, she always likes them ice-cold. That's rare among Mondstadters these days! She and I would make great drinking buddies. Huh? My songs about the Lawrence Clan... She's heard them already? Eh, no harm done. Maybe she and I can do a duet sometime!",
@@ -922,8 +922,8 @@
       "fr": "Eula sait apprécier le bon alcool. Servi glacé, hiver comme été. C'est plutôt rare de nos jours à Mondstadt ! Je suis sûr qu'on s'entendrait bien autour d'un verre. Hum ? Elle a déjà entendu mes chansons sur le Clan Lawrence ? Hum... Et alors ? Qui sait, on pourrait faire un duo un jour.",
       "pt": "Eula tem um bom gosto para bebidas alcoólicas. Seja verão ou inverno, ela sempre gosta delas geladas. Isso não é comum entre as pessoas de Mondstadt de hoje. Nós seríamos bons colegas para beber numa mesa. Uh? Minhas músicas sobre o clã Lawrence, ela já as ouviu? Não tem problema. Talvez possamos fazer um dueto um dia!",
       "ru": "Эола хорошо разбирается в вине. Вне зависимости от времени года она всегда пьёт охлаждённые напитки. Это большая редкость в современном Мондштадте. Думаю, из неё получился бы хороший собутыльник. А? Ты хочешь сказать, что песня, которую я придумал о клане Лоуренс уже дошла до её ушей? Ха, какая разница? Может быть, мы даже споём вместе.",
-      "id": "Eula punya selera yang bagus tentang minuman beralkohol. Musim panas atau musim dingin, dia tetap selalu menyukai minuman yang dingin. Tidak banyak penduduk Mondstadt zaman sekarang yang seperti itu! Aku dan dia pasti bisa jadi teman minum yang akrab. Eh? Laguku tentang Klan Lawrence... Dia sudah dengar? Eh, tidak apa-apa lah. Mungkin aku dan dia bisa berduet suatu hari nanti!",
-      "th": "Eula มีรสนิยมในการดื่มไวน์อยู่เหมือนกันนะ ไม่ว่าจะฤดูร้อนหรือฤดูหนาวก็ดื่มได้ตลอด หาคนแบบนี้ได้ยากในเมือง Mondstadt รู้สึกว่า... ฉันก็เป็นเพื่อนดื่มไวน์ให้กับเธอได้นะ อื้อ? คุณบอกว่าเพลงของตระกูล Lawrence ที่ฉันจัดให้...ถึงหูของเธอแล้วงั้นเหรอ? ฮ่า ๆ มันไม่สำคัญหรอก บางที... พวกเราอาจจะร้องเพลงด้วยกันก็ได้นะ",
+      "id": "Eula punya selera yang bagus tentang minuman beralkohol. Mau musim panas atau musim dingin, dia tetap akan memilih minuman yang dingin. Tidak banyak penduduk Mondstadt zaman sekarang yang seperti itu! Dia dan aku pasti bisa jadi teman minum yang akrab. Eh? Laguku tentang Klan Lawrence ... sudah didengarnya? Eh, tidak apa-apa lah. Siapa tahu kami bisa berduet suatu hari nanti!",
+      "th": "Eula มีรสนิยมในการดื่มไวน์อยู่เหมือนกันนะ ตรงที่ไม่ว่าจะฤดูร้อนหรือฤดูหนาวก็ดื่มแบบเย็นได้ตลอด หาคนแบบนี้ได้ยากในเมือง Mondstadt รู้สึกว่า... ฉันก็เป็นเพื่อนดื่มไวน์ให้กับเค้าได้นะ อื๋อ? เธอบอกว่าเพลงของตระกูล Lawrence ที่ฉันเรียบเรียงขึ้น... ไปถึงหูของเค้าแล้วงั้นเหรอ? ฮ่า ๆ มันไม่สำคัญหรอก บางที... พวกเราอาจจะร้องเพลงด้วยกันก็ได้นะ",
       "vi": "Phẩm vị của Eula về rượu cũng rất tuyệt. Cho dù là mùa hạ hay mùa đông đều uống đá, ở Mondstadt, người có thể làm được như vậy là rất hiếm thấy. Cảm giác có thể trở thành bạn rượu của cô ấy. Hả? Bạn nói bài hát mà tôi viết cho nhà Lawrence...đã truyền đến tai của cô ấy sao? Ha, vậy thì có sao? Không chừng chúng tôi còn có thể cùng hát chung nữa đó."
     }
   },
@@ -940,7 +940,7 @@
       "pt": "Sobre Baal...",
       "ru": "О Баал...",
       "id": "Tentang Baal",
-      "th": "เกี่ยวกับ Baal",
+      "th": "เกี่ยวกับ Baal...",
       "vi": "Về Baal..."
     },
     "line": {
@@ -951,12 +951,12 @@
       "en": "So, I hear you defeated the mighty Raiden Shogun? Ah, I recall the days when she was a kagemusha, seeking to perfect her martial prowess. Hehe, she now no doubt employs a wide range of reasoning to get you to train with her. Oh but yes, come close and I shall let you in on her weakness — desserts!",
       "de": "Ich habe gehört, dass du auch den unschlagbaren Shougun Raiden besiegt hast? Ah ... ich glaube, damals, als sie Kagemusha war, war sie auf der Suche nach der ultimativen Kampfkunst. Inzwischen muss sie sich auch alle möglichen Gründe leihen, um dich als Übungspartner aufzufordern. Nun, lass mich dir deine Schwäche verraten ... Komm mit deinem Ohr ein bisschen näher ... Es sind Süßigkeiten!",
       "es": "Así que derrotaste a la poderosa Shogun Raiden. Recuerdo la época en la que era una kagemusha que buscaba perfeccionar sus habilidades marciales. Jeje, no hay duda de que ahora aprovecha cualquier razón para conseguir que entrenes con ella. Acércate y te contaré cuál es su debilidad... ¡Los postres!",
-      "fr": "J'ai ouï-dire que vous avez vaincu la Shogun Raiden ? Je me souviens de quand elle n'était encore qu'une guerrière de l'ombre, qui aspirait à perfectionner son art martial. Haha, je suis sûre qu'elle utilise toutes sortes de prétextes pour que vous vous entraîniez avec elle. Oh, je vais vous dévoiler sa plus grande faiblesse : les desserts !",
+      "fr": "J'ai ouï dire que vous avez vaincu la Shogun Raiden ? Je me souviens de quand elle n'était encore qu'une guerrière de l'ombre, qui aspirait à perfectionner son art martial. Haha, je suis sûre qu'elle utilise toutes sortes de prétextes pour que vous vous entraîniez avec elle. Oh, je vais vous dévoiler sa plus grande faiblesse : les desserts !",
       "pt": "Então, ouvi dizer que você derrotou a poderosa Shogun Raiden. Ah, eu me lembro dos dias em que ela era uma samurai e buscava aperfeiçoar suas proezas marciais. Hehe, sem dúvidas ela agora aproveita qualquer razão para fazer você treinar com ela. Oh, chegue perto e eu contarei sobre seu ponto fraco - sobremesas!",
       "ru": "#Я слышал, что ты одолел{F#а} и этого непобедимого сёгуна Райдэн? Ах... Я думаю, что когда она была кагэмуся, она стремилась к боевому искусству в его самом высоком проявлении. В настоящее время она, должно быть, также придумывает всевозможные причины, чтобы вызвать тебя на бой. Я по секрету расскажу о её слабости... Подойди поближе, я шепну тебе на ушко. Это сладости!",
-      "id": "Dengar-dengar, kamu juga mengalahkan Raiden Shogun yang arogan itu? Ah... dulu saat dia masih seorang kagemusha, dia melatih dirinya untuk sesempurna mungkin. Sekarang, dia juga pasti akan menggunakan banyak alasan untuk memintamu menjadi partner berlatihnya. Hmm, dekatkan telingamu dan sini kubocorkan rahasianya untukmu — \"dia suka hidangan penutup yang manis\"!",
-      "th": "ได้ยินว่า เธอเอาชนะโชกุน Raiden ผู้หยิ่งผยองคนนั้นได้เหรอ? อ่า...นึกถึงตอนที่เธอยังเป็นแค่ kagemusha และพยายามฝึกฝนการต่อสู้ให้สมบูรณ์แบบ ทุกวันนี้ คงจะอ้างเหตุผลต่าง ๆ นานา เพื่อให้เธอมาเป็นคู่ซ้อมด้วยสินะ โอ้ ๆ ฉันจะแอบบอกจุดอ่อนของโชกุนให้ เอาหูมาใกล้ ๆ สิ ...มันก็คือ \"ของหวาน\" ไงล่ะ!",
-      "vi": "Nghe nói bạn đã đánh bại vị Raiden Shogun quyền năng đó đúng không? Ừm... nhớ năm xưa khi cô ấy là một Kagemusha, cô ấy đã truy cầu giới hạn của võ nghệ. Giờ đây chắc cũng lấy đủ loại lý do để tìm bạn luyện tập rồi. Hề hề, để tôi lén lén nói điểm yếu của cô ấy cho bạn nghe nhé, xích lại gần đây... là \"đồ ngọt\" đó, mê lắm!"
+      "id": "Jadi, kudengar kamu mengalahkan Raiden Shogun yang perkasa? Ah, aku ingat hari-hari saat dia masih menjadi seorang kagemusha yang berusaha untuk menyempurnakan keahlian bela dirinya. Hehe, sekarang dia juga pasti akan menggunakan banyak alasan untuk memintamu menjadi partner berlatihnya. Oh iya, iya ... dekatkan telingamu dan sini kubocorkan rahasianya untukmu — dia suka hidangan penutup yang manis!",
+      "th": "ได้ยินว่า เธอเอาชนะโชกุน Raiden ผู้หยิ่งผยองคนนั้นได้เหรอ? อ่า...นึกถึงตอนที่เธอยังเป็นแค่ Kagemusha และพยายามฝึกฝนการต่อสู้ให้สมบูรณ์แบบ ทุกวันนี้ คงจะอ้างเหตุผลต่าง ๆ นานา เพื่อให้เธอมาเป็นคู่ซ้อมด้วยสินะ โอ้ ๆ ฉันจะแอบบอกจุดอ่อนของโชกุนให้ เอาหูมาใกล้ ๆ สิ ...มันก็คือ \"ของหวาน\" ไงล่ะ!",
+      "vi": "Nghe nói bạn đã đánh bại vị Raiden Shogun quyền năng đó đúng không? Ừm... nhớ năm xưa khi cô ấy là một Kagemusha, cô ấy đã theo đuổi cực hạn của võ nghệ. Giờ đây chắc cũng lấy đủ loại lý do để tìm bạn luyện tập rồi. Hề hề, để tôi lén lén nói điểm yếu của cô ấy cho bạn nghe nhé, xích lại gần đây... là \"đồ ngọt\" đó, mê lắm!"
     }
   },
   {
@@ -987,7 +987,7 @@
       "pt": "Você chegou na hora certa, Viajante. Diga-me, qual é o seu o desejo?",
       "ru": "#Путешественни{F#ца}{M#к}, ты как раз вовремя! Расскажи мне, каково твоё самое заветное желание?",
       "id": "Oh Pengembara, kamu datang di saat yang tepat! Aku baru saja ingin bertanya — apa harapan terbesarmu?",
-      "th": "มาพอดีเลยนักเดินทาง ฉันอยากจะรู้ว่าความปรารถนาของคุณคืออะไร?",
+      "th": "มาพอดีเลยนักเดินทาง ฉันอยากจะรู้ว่าความปรารถนาของเธอคืออะไร?",
       "vi": "Tới đúng lúc lắm, Nhà Lữ Hành. Tôi muốn nghe thử nguyện vọng của bạn là gì?"
     }
   },
@@ -1014,11 +1014,11 @@
       "ko": "너와 함께하는 여행은 정말 재미난 일이야, 한 가지 흠이 있다면 네 곁의 그 쪼매난 녀석이지. 너무 잘 먹어~ 너희 식비 어마어마하지? 하하",
       "en": "There's never a dull moment traveling with you! The only minor inconvenience is that pesky little pixie thing that follows you everywhere... She never stops eating — I can't begin to imagine how much you spend on food!",
       "de": "Mit dir zu reisen, macht wirklich Spaß. Die einzige Sache, die mich stört, ist diese kleine fliegende Nervensäge neben dir. Wie viel die verschlingen kann! Eure Verpflegungsausgaben müssen ganz schön hoch sein, wie? Haha!",
-      "es": "¡Nunca me aburro viajando contigo! El único inconveniente es esa pequeña duendecilla que te sigue a todas partes... Está todo el tiempo comiendo. ¡No me imagino cuánto gastas en comida!",
+      "es": "¡Nunca me aburro viajando contigo! El único inconveniente es esa pequeña hada que te sigue a todas partes... Está todo el tiempo comiendo. ¡No me imagino cuánto gastas en comida!",
       "fr": "On ne s'ennuie jamais lorsqu'on voyage avec toi ! Mais cette petite fée qui te suit partout mange comme un ogre. Vos dépenses en nourriture doivent être énormes, haha !",
       "pt": "É muito interessante viajar com você! O único defeito é esta pequenina. Ela come muito, você deve pagar muito por ela. Haha.",
       "ru": "Путешествовать с тобой не бывает скучно! Вот только есть один недостаток - та феечка, что всюду за тобой летает... Она же постоянно ест! И представить не могу, сколько ты на неё тратишь!",
-      "id": "Sungguh menyenangkan bertualang bersamamu, hanya saja ada sedikit kendala mengenai peri kecil yang mengikutimu kemana pun... dia tidak pernah berhenti makan, pengeluaranmu untuk makan pasti banyak ya? Haha.",
+      "id": "Tidak pernah ada momen yang membosankan saat bepergian denganmu! Satu-satunya gangguan kecil adalah si peri kecil sialan yang terus mengikutimu ke mana-mana ... Dia tidak ada habis-habisnya makan ini itu — aku tidak kebayang berapa banyak pengeluaranmu untuk beli makanan!",
       "th": "การเดินทางกับเธอเป็นเรื่องที่น่าสนใจมากจริง ๆ แต่พูดถึงสิ่งที่ไม่ค่อยสะดวกนัก ก็คงจะเป็นเจ้าตัวเล็กที่อยู่ข้างเธอ นั่นแหละ กินเก่งขนาดนั้น ค่าอาหารของพวกเธอคงไม่น้อย เลยสินะ? ฮ่าฮ่า",
       "vi": "Đi cùng bạn đúng là một chuyện thú vị, nếu có gì không hoàn hảo thì đó chính là vật nhỏ bên cạnh bạn. Ăn khỏe như thế, tiền ăn của các bạn chắc nhiều lắm nhỉ? Ha ha."
     }
@@ -1048,10 +1048,10 @@
       "de": "Der Pyro-Archon ist ein unberechenbarer Kriegstreiber und der Geo-Archon ein gedankenloser Zombie. Woher ich das weiß? Nun, das steht in den Epen der Vergangenheit so geschrieben.",
       "es": "¡La Arconte Pyro es una tirana belicista, y el Arconte Geo es terco y no tiene empatía! ¿Que cómo lo sé? ¡Porque está escrito en los poemas del pasado!",
       "fr": "L'Archon Pyro est un tyran belligérant et l'Archon Géo n'est qu'un rustre borné ! Comment je le sais ? C'est écrit noir sur blanc dans les épopées anciennes.",
-      "pt": "A Arconte Pyro é um tirana lutadora louca, entretanto, o Arconte Geo é uma pessoa sem empatia! Como eu sei? Está tudo explicado na Epopeia Narrativa!",
+      "pt": "A Arconte Pyro é uma tirana lutadora louca, entretanto, o Arconte Geo é uma pessoa sem empatia! Como eu sei? Está tudo explicado na Epopeia Narrativa!",
       "ru": "Пиро Архонт - своенравный и воинственный безумец, а Гео Архонт - тупица, не понимающий человеческой души. Откуда я это знаю? Ну... Из баллад... написанных о тех временах... которые про Архонтов...",
       "id": "Archon Pyro itu maniak bertempur, Archon Geo adalah Dewa bodoh yang tidak mengerti hati manusia. Bagaimana aku bisa tahu? Karena, hal itu ditulis dalam puisi epik masa lalu!",
-      "th": "เทพแห่งไฟเป็นคนที่อำนาจ บาตรใหญ่ ส่วนเทพแห่งหินเป็นคนหัวแข็งไม่ ฟังใคร ถามว่าฉันรู้ได้ยังไงน่ะเหรอ? เอ่อ ก็ในบทกวีเขียนเรื่องราวของพวกเขาไว้อย่างชัดเจนน่ะสิ เรื่องราวในสมัยนั้นน่ะ",
+      "th": "เทพแห่งไฟเป็นคนที่มีอำนาจบาตรใหญ่ ส่วนเทพแห่งหินเป็นคนหัวแข็งไม่ฟังใคร ถามว่าฉันรู้ได้ยังไงน่ะเหรอ? เอ่อ ก็ในบทกวีเขียนเรื่องราวของพวกเขาไว้อย่างชัดเจนน่ะสิ เรื่องราวในสมัยนั้นน่ะ",
       "vi": "Hỏa Thần là kẻ bá đạo cuồng chiến đấu, Nham Thần là kẻ đầu đất không hiểu lòng người. Sao mà tôi biết mấy chuyện này à? Hề hề, trong mấy bài thơ tự sự đều ghi rõ câu chuyện về họ mà. Trong câu chuyện của thời đại đó."
     }
   },
@@ -1082,9 +1082,9 @@
       "fr": "Celestia... Je ne suis pas sûr de pouvoir l'atteindre en volant. De toute façon, l'eau y est sans saveur et les fruits ne sont pas extraordinaires... Impossible d'obtenir du bon cidre là-bas. Je n'y mettrais pas les pieds, même si j'y étais invité !",
       "pt": "Celestia? Até eu não conseguiria voar para lá. Infelizmente não tem água doce e frutas suculentas, muito menos vinhos de boa qualidade. Haha, eu não iria lá nem que me convidassem.",
       "ru": "Селестия... Не уверен, что даже у меня хватило бы сил долететь до неё. Да и вообще, вода там горькая, фрукты безвкусные... А знаешь, что это значит? Это значит, что там нет сидра! Ха-ха-ха, поэтому я бы не показался там, даже если бы меня пригласили.",
-      "id": "Ah, Celestia. Bahkan aku pun belum tentu bisa terbang ke sana. Ditambah lagi, air di sana tidak manis rasanya dan buah yang tumbuh di sana tidak enak. Apalagi anggur yang enak? Hehehe... Kalau pun diundang ke sana, aku pun tidak akan ke sana.",
+      "id": "Celestia ... Aku bahkan tidak yakin bisa terbang sejauh itu. Ditambah lagi, air di sana terasa busuk, dan buahnya hambar. Kamu tahu apa maksudku? Pasti tidak akan ada cider! Haha, dan dengan begitu, aku tidak akan pergi ke sana sekalipun aku diundang.",
       "th": "Celestia เหรอ แม้แต่ฉันก็คงบินไปไม่ถึงที่นั่นหรอก แล้วที่นั่นน่ะไม่มีน้ำหวาน และก็ไม่มีผลไม้อร่อย ๆ อะไรเติบโตได้ทั้งนั้น เหล้านี่ยิ่งไม่ต้องพูดถึงเลย เหอะ ๆ ดังนั้นถึงเชิญฉันไปฉันก็ไม่ไปหรอก",
-      "vi": "Đảo Thiên Không kìa. Ngay cả tôi cũng chưa chắc bay được đến nơi đó. Hơn nữa ở đó không có nước ngọt, không mọc ra được trái cây ngon. Lại càng không có rượu ngon? Ha ha, nên có mời tôi cũng không thèm đến."
+      "vi": "Đảo Thiên Không à. Ngay cả tôi cũng chưa chắc bay được đến nơi đó. Hơn nữa ở đó không có nước ngọt, không mọc ra được trái cây ngon. Lại càng không có rượu ngon? Ha ha, nên có mời tôi cũng không thèm đến."
     }
   },
   {
@@ -1105,16 +1105,16 @@
     },
     "line": {
       "zhs": "我的愿望？嗯。以前，我想着要游历整个世界。现在也一样，不过嘛，加上了一份限定条件，那就是跟你一起。有你在，才是完整的。记叙者果然要和冒险者在一起才行嘛，嘿嘿！",
-      "zht": "#我的願望？嗯。以前，我想著要遊歷整個世界。現在也一樣，不過嘛，加上了一份限定條件，那就是跟{F#妳}{M#你}一起。有{F#妳}{M#你}在，才是完整的。記敘者果然要和冒險者在一起才行嘛，嘿嘿！",
+      "zht": "#我的願望？嗯。以前，我想著要遊歷整個世界。現在也一樣，不過嘛，加上了一個限定條件，那就是跟{F#妳}{M#你}一起。有{F#妳}{M#你}在，才是完整的。記敘者果然要和冒險者在一起才行嘛，嘿嘿！",
       "jp": "ボクの願い事？うん、昔はこの世界全体を巡りたいと思っていたよ。今も同じさ。ただ、条件が一つ増えただけ。それは君と一緒にってことさ。君がいてこそ完璧なんだ。やっぱり語り手は冒険者と一緒にいないと、エヘへへ！",
       "ko": "내 소원? 음, 예전엔 온 세상을 떠돌아다니는 거였어. 지금도 그런데 바람이 하나 더 생겼어. 너와 함께 떠돌고 싶어, 네가 있어야지만 완전해져. 기록하는 사람은 모험가와 함께해야만 완전해지는 법이지, 헤헤헤!",
       "en": "My greatest wish? It has always been to roam free and experience the whole world. Now, I would add that wherever I go, it simply must be with you! Each day with you is an adventure, and where adventurers go, storytellers must follow!",
       "de": "Was ich mir wünsche? Nun, ich wollte immer um die Welt reisen. Das möchte ich immer noch. Aber jetzt möchte ich es mit dir gemeinsam tun. Du bereicherst mich. Der Geschichtenschreiber muss dem Abenteurer folgen, hehe!",
-      "es": "¿Mi mayor deseo? Siempre ha sido viajar libremente y explorar el mundo entero. Bueno, añadiría que, donde quiera que vaya, ¡me gustaría que fuera contigo! Cada día contigo es una aventura y, allá donde van los aventureros, ¡deben ir también los narradores!",
+      "es": "¿Mi mayor deseo? Siempre ha sido viajar libremente y explorar el mundo entero. Bueno, añadiría que, donde quiera que vaya, ¡me gustaría que fuera contigo! Cada día contigo es una aventura y, allá donde van los aventureros, ¡deben ir también los cuentacuentos!",
       "fr": "Mon souhait le plus cher ? Avant, je rêvais de vagabonder librement. Ça n'a pas trop changé, à l'exception que ta présence m'est désormais indispensable ! Chaque voyageur a besoin d'un barde pour chanter ses aventures !",
       "pt": "#Meu desejo? Antes, eu queria me aventurar por todo o mundo, agora ainda é o mesmo, só que tem uma condição, que é me aventurar com você! A aventura está completa apenas quando estou com você! Afinal, {F#uma aventureira}{M#um aventureiro} e seu narrador devem andar juntos!",
-      "ru": "Моё сокровенное желание? Я всегда мечтал быть свободным и странствовать по свету. Но теперь я хочу, чтобы во всех этих путешествиях меня сопровождал ты! Каждый день с тобой - это новое приключение, а рассказчики всегда должны следовать за приключениями.",
-      "id": "Harapanku? Dulu aku bermimpi untuk berkeliling dunia. Sekarang juga sama, tapi aku menambah lagi satu impian, yaitu berkeliling dunia bersama kamu. Semuanya terasa sempurna saat ada kamu. Seorang narator memang harus berjalan bersama dengan seorang adventurer. Hehehe!",
+      "ru": "#Моё сокровенное желание? Я всегда мечтал быть свободным и странствовать по свету. Но теперь я хочу, чтобы во всех этих путешествиях меня сопровождал{F#a} ты! Каждый день с тобой - это новое приключение, а рассказчики всегда должны следовать за приключениями.",
+      "id": "Harapan terbesarku? Dari dulu aku selalu ingin bisa berkeliaran bebas dan menjelajahi seluruh dunia. Sekarang, kutambahkan sedikit menjadi ke mana pun aku bepergian, aku mau pergi bersamamu! Setiap hari bersamamu adalah sebuah petualangan, dan ke mana petualang pergi, pendongeng harus mengikuti!",
       "th": "ความใฝ่ฝันของฉันเหรอ? อืม เมื่อก่อนฉันอยากจะเที่ยวรอบโลก ตอนนี้ก็เหมือนกัน แต่ก็นะ มีเงื่อนไขที่เพิ่มเข้ามานั่นก็คือต้อง ไปกับเธอ ต้องมีเธออยู่ถึงจะสมบูรณ์ นักเล่าเรื่องก็ต้องอยู่กับนักผจญภัยสิใช่มั้ย เหอะ ๆ!",
       "vi": "Nguyện vọng của tôi? Ừm, trước kia tôi muốn chu du khắp thế giới. Bây giờ cũng vậy, nhưng có thêm một điều kiện giới hạn là phải đi cùng với bạn. Có bạn kề bên mới trọn vẹn. Quả nhiên người kể chuyện phải đi cùng với người mạo hiểm mới phải đạo, hì hì!"
     }
@@ -1178,7 +1178,7 @@
       "fr": "Je suis très allergique aux chats. J'éternue dès qu'il y en a un qui... A—A—ATCHOUM !! Eh bah, on dirait que je ne peux même pas en PARLER sans éternuer... Comment guérit-on de ça ?",
       "pt": "De fato, eu não consigo me controlar para não espirrar quando tem um gato perto de mim. Ah...ATCHIM! Como eu posso resolver este problema?",
       "ru": "Вообще-то у меня аллергия на кошек. Я начинаю чихать сразу же, как только они подходят близ... ах... Апчхи! Ох, даже одна мысль о них заставляет меня чихать. Как думаешь, существует ли где-нибудь в мире лекарство от этой ужаснейшей болезни?",
-      "id": "Sebenarnya aku sangat alergi dengan kucing. Aku akan bersin tiada henti saat mereka ada di sekitar. A...achoo! Aduh, memikirkannya saja sudah membuatku bersin-bersin. *huff* Apa kamu tahu bagaimana cara menyembuhkan alergi ini?",
+      "id": "Sebenarnya aku sangat alergi dengan kucing. Aku akan terus-terusan bersin saat mereka ada di sekitar dan ah ... ah ... achoo! Ugh, kelihatannya aku bahkan tidak bisa BERPIKIR tentang kucing tanpa bersin. Apa menurutmu penderitaan mengerikan ini bisa disembuhkan?",
       "th": "จริง ๆ แล้ว แค่มีแมวอยู่ใกล้ ๆ ฉันก็อดไม่ได้ที่จะจาม...ฮะ ฮะ ฮัดชิ่ว! เฮ้อ...ปัดโธ่... แค่นึกถึงก็ไม่ได้ เหรอเนี่ย...เฮ้อ เธอรู้มั้ยว่าจะรักษาอาการนี้ยังไง?",
       "vi": "Thật ra, chỉ cần có mèo ở gần là tôi sẽ nhịn không được mà hắt hơi... Ha - ha - hắt xì! Ừm... Ây dà... ngay cả nghĩ cũng không được à... Aiz, bạn có biết phải làm sao mới chữa được cái bệnh này không?"
     }
@@ -1195,7 +1195,7 @@
       "fr": "Plats préférés...",
       "pt": "Comida favorita...",
       "ru": "Любимая еда...",
-      "id": "Makanan favorit",
+      "id": "Makanan Favorit",
       "th": "อาหารที่ชอบ...",
       "vi": "Món ăn yêu thích..."
     },
@@ -1206,11 +1206,11 @@
       "ko": "너도 사과 하나 먹을래? 방금 땄어. 음, 아~ 사각사각하고 달아. 사과야말로 신의 선물이지!",
       "en": "Here, have an apple. I just picked it. Look how ripe and juicy it is... *munching* ... Truly the fruit of the gods.",
       "de": "Möchtest du auch einen Apfel probieren? Habe ihn gerade gepflückt. Hmm, so saftig, so süß, Äpfel sind wahrlich göttliche Früchte!",
-      "es": "Toma, una manzana para ti también. ¡Recién arrancada del árbol! Ah... Dulce y jugosa... *Ñam, ñam* ¡Es la fruta de los dioses!",
+      "es": "Toma, una manzana para ti también. ¡Recién arrancada del árbol! Ah... Dulce y jugosa... *Ñam, ñam*, ¡es la fruta de los dioses!",
       "fr": "Tiens, une pomme. Je viens de la cueillir ! Craquante et juteuse comme il faut, quel fruit divin !",
       "pt": "Você quer uma maçã? Acabei de coletar! É bem crocante e doce! Afinal são as maçãs que são as bênçãos dos deuses.",
       "ru": "Будешь яблоко? Я только что их нарвал. Смотри, какие спелые и сочные... *Откусывает* Воистину божественный плод.",
-      "id": "Ini, ambillah apel ini. Aku baru saja memetiknya. Aww, apel ini renyah dan manis sekali! Nyam nyam~ Ini benar-benar buah terbaik dari Tuhan!",
+      "id": "Ini, ambillah apel ini. Aku baru saja memetiknya. Lihat betapa matang dan berairnya apel ini, aww! Nyam nyam~ Ini benar-benar buah terbaik dari Tuhan!",
       "th": "เธอเอาแอปเปิ้ลสักลูกมั้ย เพิ่งจะเด็ดมาเลย ทั้งกรอบทั้งหวาน แอปเปิ้ลนี่แหละคือของขวัญจาก เทพที่แท้จริง!",
       "vi": "Bạn ăn táo không, vừa hái đấy. Rốp... vừa giòn vừa ngọt, táo đúng là quà của thần mà!"
     }
@@ -1227,7 +1227,7 @@
       "fr": "Plats détestés...",
       "pt": "Comida que detesta...",
       "ru": "Нелюбимая еда...",
-      "id": "Makanan yang tidak kamu suka",
+      "id": "Makanan yang Tidak Disukai",
       "th": "อาหารที่เกลียด...",
       "vi": "Món ăn chán ghét..."
     },
@@ -1242,7 +1242,7 @@
       "fr": "Qu'es-tu en train de cuisiner ? Un pain au fromage fondu ? Beurk ! Ça sent mauvais, ça colle et ça dégouline de partout... Non merci...",
       "pt": "O que é isso de saboroso que você tem aí... Epa! Uma panqueca de queijo derretido! Ugh... Uma bagunça pegajosa e nojenta!",
       "ru": "Что это у тебя там за лакомство? ... Фу! Блины с плавленым сыром! Вонючая, липкая, отвратительная гадость!",
-      "id": "Kamu sedang membuat makanan apa? Eh? Pancake keju? Ti, tidak... Sudah bau, lengket, rasanya bikin mual lagi!",
+      "id": "Hmm, makanan apa yang lagi kamu buat? Uww! Pancake keju yang meleleh? Sudah bau, lengket, berlendir, campuran yang menjijikkan!",
       "th": "อ่า เธอทำอะไรอร่อย ๆ อยู่เหรอ? เอ๋ แพนเค้กใส่ชีส! นี่...ไม่ได้นะ ทั้งร้อนทั้งเหนอะหนะ เอิ่ม...สำหรับฉันแล้วมัน เลี่ยนเกินไป...",
       "vi": "Này, bạn đang làm món gì đấy? Ơ? Bánh phô mai nóng? Cái này... cái này không được, vừa dính vừa nóng, ừm... với tôi thì nó hơi ngán..."
     }
@@ -1273,10 +1273,10 @@
       "es": "Alguien me dijo una vez que se supone que debes comer tarta en tu cumpleaños... ¡Ta táán! Aquí está tu tarta de cumpleaños: ¡es de manzana! Toma una cuchara. El pastel no subió lo suficiente en el horno, por eso se parece más a un pastelito de manzana... Uf, ¡la repostería es realmente complicada!",
       "fr": "On m'a dit qu'on mange du gâteau pendant les anniversaires... Tada ! Un gâteau à la pomme, et voilà une cuillère. Il n'a pas gonflé correctement au four, du coup, il ressemble plus à une tarte qu'autre chose... C'est dur la pâtisserie.",
       "pt": "Dizem que tem que comer bolo de aniversário no seu dia... Então, aqui está! Bolo de maçã! Estava caindo, portanto, parece ser torta de maçã. É mesmo difícil de fazer sobremesas.",
-      "ru": "Как-то раз мне сказали, что на день рождения обязательно нужно съесть торт... Тада! Вот и твой праздничный торт! Он с яблочным вкусом. А вот и твоя ложка! Только вот тесто почти не поднялось, поэтому он больше похож на пирог... Ух, выпечка и впрямь наука не из лёгких...",
-      "id": "Seseorang pernah mengatakan bahwa orang yang berulang tahun harus makan kue. Tadaa! Ini kue ulang tahunmu, rasa apel! Dan ini sendoknya. Waktu dipanggang, kuenya tidak mengembang dengan sempurna, jadi bentuknya seperti pai apel. Huh, memanggang kue ternyata bukan hal yang mudah.",
+      "ru": "Как-то раз мне сказали, что на день рождения обязательно нужно съесть торт... Та-дам! Вот и твой праздничный торт! Он с яблочным вкусом. А вот и твоя ложка! Только вот тесто почти не поднялось, поэтому он больше похож на пирог... Ух, выпечка и впрямь наука не из лёгких...",
+      "id": "Seseorang pernah bilang padaku kalau kamu harus makan kue di hari ulang tahun ... Tadaa! Ini kue ulang tahunmu — kuenya rasa apel! Dan ini sendoknya. Kuenya tidak mengembang dengan baik di oven ... Makanya bentuknya lebih mirip pai apel ... Ugh, membuat kue kok rumit sekali sih!",
       "th": "เมื่อก่อนเพื่อนเคยบอกว่า วันเกิดต้องกินเค้ก... แต่นแต๊น เค้กแอปเปิ้ล เอานี่ ช้อน ตอนที่อบเสร็จแล้วมัน ไม่ค่อยฟูน่ะ ก็เลยออกมาดูเหมือน พายแอปเปิ้ล เฮ้อ ขนมนี่ซับซ้อนซะจริง",
-      "vi": "Trước kia tôi từng nghe bạn bè nói là muốn ăn bánh kem sinh nhật... Ừm, bánh táo, thìa này. Lúc nướng ra thì nó hơi lõm xuống, nên nhìn cứ như quả táo ấy. Hầy, mấy món bánh ngọt đúng là phức tạp mà."
+      "vi": "Trước kia tôi từng nghe bạn bè nói là sinh nhật thì phải ăn bánh kem... Đây, bánh kem táo, cầm lấy, thìa này. Lúc nướng ra thì nó hơi lõm xuống, nên nhìn cứ như bánh tart táo. Hầy, mấy món bánh ngọt đúng là phức tạp mà."
     }
   },
   {
@@ -1297,7 +1297,7 @@
     },
     "line": {
       "zhs": "欸！刚刚发生了什么！",
-      "zht": "欸！剛剛發生了什麼！",
+      "zht": "欸！剛剛發生了什麼事！",
       "jp": "えっ、今なにかあったの！？",
       "ko": "우옷! 방금 무슨 일이 일어난 거지?!",
       "en": "Woah! What was that?",
@@ -1306,7 +1306,7 @@
       "fr": "Waouh ! Qu'est-ce que c'était ?",
       "pt": "Uau! O que foi que aconteceu?",
       "ru": "Ох, что это было?",
-      "id": "Wah! Ada apa itu?",
+      "id": "Wah! Apaan itu?",
       "th": "เอ๊ะ! เมื่อกี้เกิดอะไรขึ้น!",
       "vi": "Á! Vừa xảy ra chuyện gì thế này!"
     }
@@ -1338,7 +1338,7 @@
       "fr": "Beau travail aujourd'hui. Reposons-nous en chanson ! Caprice ou sérénade ?",
       "pt": "Bom trabalho! Quer ouvir algumas músicas relaxantes? Qualquer tipo de música, à vontade!",
       "ru": "Хорошо поработали. Может, присядем отдохнуть и насладимся моей игрой? Что ты хочешь послушать? Каприччио или серенаду?",
-      "id": "Kerja bagus. Mau putar lagu? Lagu capriccio, atau lagu serenade?",
+      "id": "Kerja bagus. Apa sebaiknya kita beristirahat sebentar dan mendengarkan lagu? Mau lagu capriccio, atau lagu serenade?",
       "th": "เหนื่อยหน่อยนะ อยากฟังเพลงเพื่อ ผ่อนคลายสักหน่อยมั้ย? อยากฟังเพลงบรรเลง หรือเพลงรักล่ะ?",
       "vi": "Vất vả rồi. Có muốn nghe nhạc để thư giãn một chút không? Muốn nghe nhạc kiểu gì?"
     }
@@ -1369,10 +1369,10 @@
       "es": "#Ven, siéntate a mi lado. Escribí un nuevo poema. Lo titulé «El viento {F#de la viajera}{M#del viajero}».",
       "fr": "Viens, assieds-toi. Je viens de composer un nouveau poème, ça s'appelle « Le vent du voyage ».",
       "pt": "#Venha cá! Eu escrevi um novo poema intitulado \"A Brisa d{F#a}{M#o} Viajante\".",
-      "ru": "Пошли присядем. Смотри, я написал новую поэму и называл её «Ветер путешественника».",
+      "ru": "#Пошли присядем. Смотри, я написал новую поэму и называл её «Ветер {F#путешественницы}{M#путешественника}».",
       "id": "Sini, duduk di sini. Aku sudah menulis syair baru. Judulnya \"Wind of the Traveler\".",
       "th": "มานั่งนี่สิ ฉันเขียนกวีบทใหม่เอาไว้ บทหนึ่งด้วย มีชื่อว่า \"นักเดินทางแห่งสายลม\"",
-      "vi": "Đến đây, ngồi xuống đi. Tôi vừa viết một bài thơ mới, tên là “Ngọn gió của người lữ hành”."
+      "vi": "Đến đây, ngồi xuống đi. Tôi vừa viết một bài thơ mới, tên là \"Ngọn gió của nhà lữ hành\"."
     }
   },
   {
@@ -1402,9 +1402,9 @@
       "fr": "J'ai contemplé ce paysage des milliers de fois, mais j'ai l'impression de le redécouvrir lorsque tu es avec moi. J'espère que tu ne me caches pas de super-pouvoirs ? Si c'était le cas, ça prouverait que j'ai bonne intuition.",
       "pt": "Uh... Já vi muitas vezes esta paisagem... Mas parece que agora se apresenta de uma maneira totalmente diferente. Você... Ainda tem mais habilidades escondidas? Bom, ainda bem! Isso significa que eu tenho um bom gosto!",
       "ru": "Хм... Я уже много раз смотрел на этот пейзаж, но в компании с тобой он начинает играть новыми красками. Неужто ты скрываешь ещё какие-то таланты? Даже если так, это ещё раз доказывает, что моя интуиция меня не подвела.",
-      "id": "Ugh, jelas-jelas aku sudah melihat pemandangan ini berkali-kali. Tapi rasanya berbeda saat aku melihatnya bersama kamu. Apa kamu... menyembunyikan suatu kemampuan aneh? Ugh, hebat juga. Itu berarti aku tidak salah memilih orang. Hehehe.",
-      "th": "เอ่...วิวพวกนี้เห็นมาหลาย รอบแล้วแท้ ๆ แต่พอมีเธออยู่ข้าง ๆ ภาพที่เห็นกลับต่างไป เธอคงไม่ได้...มีพลังแปลก ๆ ซ่อนอยู่หรอกใช่มั้ย? ...เอ่ แต่นั่นก็ไม่แย่นะ หมายความว่าฉันสายตา เฉียบแหลมไงล่ะ เหอะ ๆ",
-      "vi": "Ừm... rõ ràng là đã ngắm những cảnh vật này nhiều lần rồi, nhưng khi có bạn bên cạnh thì lại có cảm giác khác hẳn. Không phải là bạn... che giấu mấy loại năng lực kỳ lạ gì đấy chứ?...Ừm, thế thì rất tốt. Chứng tỏ ánh mắt nhìn người của tôi rất chuẩn, hì hì."
+      "id": "Hmm ... Meskipun aku sudah lama melihat pemandangan ini berkali-kali, ada sesuatu yang berbeda saat melihatnya lagi bersamamu. Tentunya kamu tidak menyembunyikan kemampuan-kemampuan menakjubkan lainnya, kan? Hmm, tapi kalau memang begitu, itu hanya akan lebih membuktikan kalau intuisiku benar.",
+      "th": "อืม... เคยเห็นวิวพวกนี้มาหลายรอบแล้วแท้ ๆ แต่พอมีเธออยู่ข้าง ๆ ภาพที่เห็นกลับต่างไป เธอคงไม่ได้... มีพลังแปลก ๆ ซ่อนอยู่หรอกใช่มั้ย? ...เอ่ แต่นั่นก็ไม่แย่นะ หมายความว่าฉันสายตาเฉียบแหลมไงล่ะ เอะเฮะ",
+      "vi": "Ừm... rõ ràng là đã ngắm những cảnh vật này nhiều lần rồi, nhưng khi có bạn bên cạnh thì lại có cảm giác khác hẳn. Không phải là bạn... che giấu mấy loại năng lực kỳ lạ gì đấy chứ?...Ừm, thế thì rất tốt. Chứng tỏ mắt nhìn người của tôi rất chuẩn, hì hì."
     }
   },
   {
@@ -1684,7 +1684,7 @@
       "zht": "咳咳，請聽一首，「寶箱之歌」！",
       "jp": "コホンッ、ここで一曲、「宝箱の歌」！",
       "ko": "큼큼, 「보물상자의 노래」를 들어봐!",
-      "en": "*clears throat* Have you ever heard The Ballad of the Treasure Chest?",
+      "en": "*clears throat* Have you heard The Ballad of the Treasure Chest?",
       "de": "*räusper* Hast du jemals die Ballade von der Schatztruhe gehört?",
       "es": "*Ejem*, ¿alguna vez has escuchado la “Balada del tesoro”?",
       "fr": "Ahem, as-tu déjà entendu la « Ballade du coffre aux trésors » ?",
@@ -1749,7 +1749,7 @@
       "jp": "お酒が何本も買えるね～",
       "ko": "수확이 엄청나. 술을 잔뜩 바꿀 수 있겠어~",
       "en": "What a find! I wonder how many bottles this'll be worth...",
-      "de": "Was für ein toller Fund!  Ich frage mich, wie viele Flaschen Schnaps das wohl wert sein wird ...",
+      "de": "Was für ein toller Fund! Ich frage mich, wie viele Flaschen Schnaps das wohl wert sein wird ...",
       "es": "¡Qué descubrimiento! ¿Cuántas botellas podré comprar con esto...?",
       "fr": "Quelle trouvaille ! Je me demande combien de bouteilles ça vaudra...",
       "pt": "Que achado! Me pergunto quantas garrafas posso comprar com isso...",
@@ -1882,7 +1882,7 @@
       "fr": "Je vais faire une sieste...",
       "pt": "Me deixe dormir um pouco...",
       "ru": "Я немного вздремну...",
-      "id": "Biarkan aku istirahat sebentar...",
+      "id": "Biarkan aku istirahat sebentar ....",
       "th": "นอนสักหน่อยแล้วกัน...",
       "vi": "Ngủ chút thôi..."
     }
@@ -1914,7 +1914,7 @@
       "fr": "Ahhh, ma corde s'est cassée...",
       "pt": "Oh não, minha lira quebrou...",
       "ru": "О нет, моя лира разбита...",
-      "id": "Oh tidak, liraku rusak...",
+      "id": "Oh tidak, liraku rusak ....",
       "th": "โอ้ ไม่นะ สายพิณขาดซะแล้ว...",
       "vi": "Chậc, dây đàn đứt rồi..."
     }
@@ -1926,7 +1926,7 @@
       "jp": "戦闘不能·3",
       "ko": "전투 불능·세 번째",
       "en": "Fallen: III",
-      "de": "Ohmächtig III",
+      "de": "Ohnmächtig III",
       "es": "Derrotado (III)",
       "fr": "K.O. (3)",
       "pt": "Derrotado - III",
@@ -1939,15 +1939,15 @@
       "zhs": "扑通。",
       "zht": "撲通。",
       "jp": "バタンキュ～",
-      "ko": "털썩",
+      "ko": "으악…",
       "en": "Ah... Ugh...",
       "de": "Puff.",
       "es": "Ah... Ay...",
       "fr": "*tombe*",
       "pt": "*Ba-dum*",
-      "ru": "*Ба-дум*",
-      "id": "*gubrak*",
-      "th": "โคร่มม",
+      "ru": "Ох... Уф...",
+      "id": "Ah ... Ugh ....",
+      "th": "อะ เอื๊อก...",
       "vi": "Ah... Ugh..."
     }
   },
@@ -1975,10 +1975,10 @@
       "en": "Ah!",
       "de": "Was?",
       "es": "¿Eh?",
-      "fr": "Ouïlle...",
+      "fr": "Ouille...",
       "pt": "O quê?",
-      "ru": "Что?",
-      "id": "Apa?",
+      "ru": "Ай!",
+      "id": "Ah!",
       "th": "อื้อหือ...",
       "vi": "Ây da..."
     }
@@ -2043,7 +2043,7 @@
       "pt": "Me dê um momento para me recompor.",
       "ru": "Дай мне время, мне надо собраться.",
       "id": "Biarkan aku tenangkan diri sebentar.",
-      "th": "ปรับเสียงเรียบร้อยแล้ว",
+      "th": "วอร์มเสียงเรียบร้อยแล้ว",
       "vi": "Chỉnh âm hoàn thành."
     }
   },

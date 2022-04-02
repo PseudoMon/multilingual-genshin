@@ -929,6 +929,38 @@
   },
   {
     "title": {
+      "zhs": "关于夜兰…",
+      "zht": "關於夜蘭…",
+      "jp": "夜蘭について…",
+      "ko": "야란에 대해…",
+      "en": "About Yelan",
+      "de": "Über Yelan ...",
+      "es": "Sobre Yelan...",
+      "fr": "À propos de Yelan...",
+      "pt": "Sobre Yelan...",
+      "ru": "О Е Лань...",
+      "id": "Tentang Yelan",
+      "th": "เกี่ยวกับ Yelan...",
+      "vi": "Về Yelan..."
+    },
+    "line": {
+      "zhs": "我听说她曾调查千岩军在层岩巨渊的相关痕迹。孤身追查秘密，想来也是有点本事的人。",
+      "zht": "我聽說她曾調查千岩軍在層岩巨淵的相關痕跡。孤身追查秘密，想來也是有點本事的人。",
+      "jp": "千岩軍が層岩巨淵に残した痕跡を、そいつは一人で調査したと聞いた。単独で真相を追い求めるとは、腕の立つ人物なのだろう。",
+      "ko": "전에 층암거연에서 천암군과 관련된 흔적을 조사했다고 들었어. 그곳에 혼자 비밀을 찾으러 가다니, 보통내기가 아니군",
+      "en": "I've heard that she once investigated The Chasm, following the trail of the Millelith. If she can investigate mysteries like that on her own, she must be someone of rare skill.",
+      "de": "Ich habe gehört, dass sie die Spuren der Millelithen in der Großen Kluft untersucht hat. Die Geheimnisse auf eigene Faust aufzuspüren, sie ist wirklich eine fähige Person.",
+      "es": "He oído que una vez fue a investigar a la Sima para seguir unos rastros de la Geoarmada. Si es capaz de investigar misterios de ese tipo ella sola, debe de tener alguna habilidad extraordinaria.",
+      "fr": "J'ai entendu dire qu'elle avait suivi la piste des Millelithes dans le Gouffre pour mener une enquête. Elle doit être douée pour pouvoir d'enquêter sur de tels mystères toute seule.",
+      "pt": "Ouvi dizer que uma vez ela investigou o Despenhadeiro, seguindo o rastro do Millelith. Se ela pode investigar mistérios como esse por conta própria, ela deve ser alguém de rara habilidade.",
+      "ru": "Говорят, однажды она последовала в Разлом по следам Миллелитов. Если она может самостоятельно раскрывать подобные тайны, то определённо обладает выдающимися способностями.",
+      "id": "Aku dengar dia pernah menyelidiki The Chasm, mengikuti jejak Millelith. Kalau dia sanggup menyelidiki misteri seperti itu sendiri, pastilah dia orang dengan kemampuan yang jarang ada.",
+      "th": "ฉันได้ยินมาว่าเธอเคยเข้าไปสำรวจ Chasm เพื่อติดตามร่องรอยกองทหาร Millelith ถ้าเธอสามารถสืบเสาะความลึกลับแบบนั้นได้ด้วยตัวคนเดียว ดูแล้วเธอจะต้องเป็นผู้มีความสามารถแน่ ๆ เลยล่ะ",
+      "vi": "Tôi nghe nói cô ấy từng điều tra những vết tích liên quan đến Thiên Nham Quân tại Vực Đá Sâu. Điều tra bí mật một mình như vậy, xem ra cũng là người có bản lĩnh."
+    }
+  },
+  {
+    "title": {
       "zhs": "想要了解魈·其一",
       "zht": "想要瞭解魈·其一",
       "jp": "魈を知る·1",
@@ -1926,7 +1958,7 @@
       "jp": "戦闘不能·3",
       "ko": "전투 불능·세 번째",
       "en": "Fallen: III",
-      "de": "Ohmächtig III",
+      "de": "Ohnmächtig III",
       "es": "Derrotado (III)",
       "fr": "K.O. (3)",
       "pt": "Derrotado - III",

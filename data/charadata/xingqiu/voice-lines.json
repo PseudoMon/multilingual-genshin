@@ -597,7 +597,7 @@
       "jp": "本を読んで悟ったんだけど、槍術と剣術の本質は瞳術にある。うん、説明するのは少し難しい…もし、ちゃんと知りたいなら、僕と一緒に「王山庁」に行こう。先に言っておくけど、笑ってはいけないからね。",
       "ko": "난 책 속의 깨우침을 받고, 창술과 검술의 본질은 바로 동술이란 걸 깨달았지. 음, 설명하자면 복잡한데… 만약 정말 알고 싶다면, 나랑 같이 「왕산청」에 가보자. 미리 말해두지만, 가서 보고 웃으면 안 돼",
       "en": "I've come to an epiphany based on some things I've been reading — ultimately, the arts of both the polearm and the sword are just the art of the \"eye.\" Ugh, it's a little difficult to explain... If you want to know more, come with me to Wangshan Hall. But first, you have to promise me you won't laugh.",
-      "de": "Die Bücher haben mich inspiriert und mich zu dem Entschluss gebracht, dass sowohl die Künste des Stangenwaffenkampfes als auch die des Schwertkampfes bloß Künste des Auges sind. Es ist etwas schwer zu erklären ... Wenn du mehr erfahren willst, begleite mich zum Wangshan-Saal. Du darfst aber nicht lachen.",
+      "de": "Die Bücher haben mich inspiriert und mich zu dem Entschluss gebracht, dass sowohl die Künste des Stangenwaffenkampfes als auch die des Schwertkampfes bloß Künste des Auges sind. Es ist etwas schwer zu erklären ... Wenn du mehr erfahren willst, begleite mich zur Wangshan-Kammer. Du darfst aber nicht lachen.",
       "es": "Tuve una epifanía a raíz de mis últimas lecturas. En última instancia, el manejo de la pértiga y la espada son un mero arte que consiste en la coordinación mano con ojo. Uf, explicártelo podría ser un poco complicado. Si quieres saber más, deberías acompañarme al Salón Wangshan. Pero antes, tienes la obligación de prometerme que no te reirás.",
       "fr": "C'est par mes lectures que m'est apparue la vérité suivante : l'art de l'hast comme de l'épée ne sont au fond que l'art de la coordination de l'œil avec la main. *soupir* Comment expliquer... Si vous souhaitez en apprendre davantage sur le sujet, joignez-moi dans la Salle de la Montagne Céleste. Mais vous devez d'abord me faire le serment de ne point rire.",
       "pt": "Cheguei a uma epifania baseada em algumas coisas que tenho lido - em última análise, a essência das artes da lança e da espada é exatamente a arte da coordenação entre o olho e a mão. Ugh, é um pouco difícil explicar... Se você quiser saber mais, venha comigo ao Pavilhão Wangshan. Mas primeiro, você tem que me garantir que não vai rir.",
@@ -1025,8 +1025,40 @@
   },
   {
     "title": {
+      "zhs": "关于夜兰…",
+      "zht": "關於夜蘭…",
+      "jp": "夜蘭について…",
+      "ko": "야란에 대해…",
+      "en": "About Yelan",
+      "de": "Über Yelan ...",
+      "es": "Sobre Yelan...",
+      "fr": "À propos de Yelan...",
+      "pt": "Sobre Yelan...",
+      "ru": "О Е Лань...",
+      "id": "Tentang Yelan",
+      "th": "เกี่ยวกับ Yelan...",
+      "vi": "Về Yelan..."
+    },
+    "line": {
+      "zhs": "你听说过「一人千面」这个词语吗？夜兰小姐就给我这种感觉。上门来访的时候，家父和家兄以礼相待，她也还之以礼，就像是个亲切稳重的大姐姐。可在别的地方见到她时，又完全是不同的印象。",
+      "zht": "#{F#妳}{M#你}聽說過「一人千面」這個詞語嗎？夜蘭小姐就給我這種感覺。上門來訪的時候，家父和家兄以禮相待，她也還之以禮，就像是個親切穩重的大姐姐。可在別的地方見到她時，又完全是不同的印象。",
+      "jp": "「千の顔を持つ」という言葉を聞いたことはあるかい？夜蘭さんは、まさにそういった感じがする。あの人がうちを訪れた時、父上と兄上は礼をもって接し、向こうもまた礼をもって応えてくれた。まるで親切で落ち着きのあるお姉さんのようだったよ。けど、他のところで彼女を見かけた時、全然印象が違ったんだ。",
+      "ko": "「천 가지 얼굴」을 가졌다는 말 들어봤어? 야란 씨를 보면 그런 느낌이 들어. 우리 집에 왔을 때 아버지와 형님이 예를 갖춰서 대하니 야란 씨도 그에 맞게 행동했어. 아주 상냥하고 점잖은 누나처럼. 근데 다른 곳에서 봤을 땐 전혀 다른 느낌이었지",
+      "en": "Have you heard the expression \"same person, different face\"? Ms. Yelan gives me precisely this feeling. When she came to visit my family, my father and brother treated her with respect, and she was pleasant and polite in return. She seemed like a kind and mature young lady to me. But when I saw her elsewhere, she gave a completely different impression.",
+      "de": "Hast du schon einmal von der Redewendung „eine Person mit tausend Gesichtern“ gehört? So geht es mir auch mit Yelan. Wenn ich sie besuchte, behandelten mein Vater und mein Bruder sie mit Höflichkeit, und sie erwiderte die Höflichkeit, wie eine freundliche und beständige ältere Schwester. Aber wenn ich sie woanders sah, hatte ich einen ganz anderen Eindruck.",
+      "es": "¿Alguna vez has oído la expresión “ser una persona con muchas caras”? Esa es precisamente la sensación que me da Yelan. Cuando vino a visitar a mi familia, mi hermano y mi padre la trataron con mucho respeto y ella también fue muy educada. Parecía una joven bondadosa y madura. Pero cuando la vi en un lugar distinto, me causó una impresión totalmente distinta.",
+      "fr": "Vous voyez ces personnes aux multiples facettes ? Mademoiselle Yelan me donne précisément le sentiment qu'elle en est une. Lorsqu'elle est venue rendre visite à ma famille, mon père et mon frère l'ont traitée avec beaucoup d'hospitalité, et elle a fait preuve d'une grande politesse en retour. Elle me semblait être une jeune femme gentille et mature, mais j'en ai eu une impression complètement différente quand je l'ai vue ailleurs.",
+      "pt": "Você já ouviu a expressão \"uma pessoa de muitas caras\"? A Srta. Yelan me dá essa sensação. Quando ela veio visitar minha família, meu pai e irmão a trataram com muito respeito, e ela também foi muito educada. Parecia ser uma jovem educada e amadurecida para mim. Mas quando a vi noutro lugar, ela deu uma impressão totalmente diferente.",
+      "ru": "#Слышал{F#a} выражение «тот же человек, другое лицо»? Как по мне, так это идеально описывает госпожу Е Лань. Когда она пришла навестить мою семью, отец и брат отнеслись к ней с уважением, и она тоже была с ними вежлива. Она показалась мне доброй и зрелой девушкой. Но когда мы встретились позже, она произвела на меня совершенно иное впечатление.",
+      "id": "Pernah dengar ungkapan \"orang yang sama punya wajah yang berbeda\"? Nona Yelan memberiku perasaan tepat seperti ini. Ketika dia datang mengunjungi keluargaku, ayah dan kakak memperlakukannya dengan penuh hormat, dan dia pun membalas dengan ramah tamah dan sopan santun. Dia tampak seperti seorang nona muda yang baik dan dewasa. Tapi ketika aku melihatnya di tempat lain, dia memberikan kesan yang sama sekali berbeda.",
+      "th": "เธอเคยได้ยินคำว่า \"คนพันหน้า\" คำนี้ไหม? พี่ Yelan ให้ความรู้สึกแบบนั้นเลยละ ตอนที่พี่เขามาเยี่ยมพ่อกับพี่ชายของฉัน ทั้งคู่ต่างปฏิบัติกับเธออย่างมีมารยาท และเธอก็ตอบแทนด้วยการมีมารยาทกลับ ให้อารมณ์เหมือนพี่สาวใจดี แสนมั่นคง แต่ตอนที่ฉันเจอพี่เขาที่อื่นนะ กลับให้ความรู้สึกที่ต่างไปออกไปเลยล่ะ",
+      "vi": "Bạn đã nghe qua câu \"trăm ngàn khuôn mặt\" chưa, cảm giác của tôi đối với tiểu thư Yelan là vậy đó. Khi đến thăm, cha và anh trai tôi cư xử tử tế, cô ấy cũng đối đãi lễ phép, trông như một đại tỷ thân thiện vậy. Nhưng khi tôi gặp cô ấy ở chỗ khác thì ấn tượng lại hoàn toàn khác xa."
+    }
+  },
+  {
+    "title": {
       "zhs": "想要了解行秋·其一",
-      "zht": "想要瞭解行秋·其一",
+      "zht": "想要了解行秋·其一",
       "jp": "行秋を知る·1",
       "ko": "행추에 대해 알기·첫 번째",
       "en": "More About Xingqiu: I",
@@ -1047,18 +1079,18 @@
       "en": "Are you keeping well, my liege? If you have no other matters to attend to, might I recommend a trip to the Wanwen Bookhouse?",
       "de": "Wie geht es dir? Wenn du gerade nichts anderes vorhast, wollen wir uns in der Buchhandlung Wanwen umsehen?",
       "es": "#¿Está bien, mi {F#señora}{M#señor}? Si no está ocupad{F#a}{M#o}, ¿qué le parece si visitamos la Casa de Libros Wanwen?",
-      "fr": "Comment allez-vous ? Si vous n'avez d'autre affaires à régler dans l'immédiat, je vous recommande d'aller faire un tour à la Librairie Wanwen.",
-      "pt": "#Você está se mantendo bem, {M#meu soberano}{F#minha soberana}? Se você não tem outros assuntos a tratar, posso recomendar uma viagem à Biblioteca Wanwen se tiver tempo?",
+      "fr": "Comment allez-vous ? Si vous n'avez pas d'autres affaires à régler dans l'immédiat, je vous recommande d'aller faire un tour à la Librairie Wanwen.",
+      "pt": "#Como você está, {F#senhorita}{M#senhor}? Se nada mais tiver para fazer, que tal uma caminhada até a Biblioteca Wanwen?",
       "ru": "Как дела, друг мой? Если у тебя есть свободное время, мы могли бы посетить книжный магазин «Ваньвэнь».",
-      "id": "Apa kabar? Jika kamu tidak ada urusan mendesak, boleh kusarankan untuk mengunjungi Wanwen Bookhouse?",
-      "th": "ท่านเป็นยังไงบ้าง? ถ้าท่านไม่มีอะไรทำก็ลองไปที่ Wanwen Bookhouse ดูสิ",
+      "id": "Apa kabar? Jika tidak ada urusan mendesak, boleh kusarankan untuk mengunjungi Wanwen Bookhouse?",
+      "th": "ท่านเป็นยังไงบ้าง? ถ้าเธอไม่มีอะไรทำก็ลองไปที่ Wanwen Bookhouse ดูสิ",
       "vi": "Các hạ gần đây ổn chứ? Nếu không có việc gì, hãy đến Vạn Văn Tập một chuyến."
     }
   },
   {
     "title": {
       "zhs": "想要了解行秋·其二",
-      "zht": "想要瞭解行秋·其二",
+      "zht": "想要了解行秋·其二",
       "jp": "行秋を知る·2",
       "ko": "행추에 대해 알기·두 번째",
       "en": "More About Xingqiu: II",
@@ -1080,17 +1112,17 @@
       "de": "Warum ich immer allein lese? Weil man dabei besser lernt ... Es ist keine schlechte Angewohnheit und sonst gibt es nichts Spezielles dazu zu sagen.",
       "es": "¿Me preguntas por qué me gusta leer solo? Bueno, estudiar no es un mal hábito, ¿no? No tengo mucho más que decir sobre eso, la verdad.",
       "fr": "Pourquoi je préfère lire seul ? On peut difficilement appeler l'application une mauvaise habitude, non ? Il n'y a pas d'autre mystère.",
-      "pt": "Por que é que eu gosto de ler sozinho? Ser estudioso dificilmente pode ser considerado um mau hábito. Não há muito mais do que isso. Sério.",
+      "pt": "Você quer saber por que eu gosto de ler sozinho?... Bem, estudar não é um mau hábito. Não há muito mais do que isso, mesmo.",
       "ru": "Почему мне нравится читать в одиночестве? Видишь ли... Любознательность - не порок. А других причин и нет, правда.",
-      "id": "Kamu tanya kenapa aku suka baca buku sendirian? ... Belajar bukanlah kebiasaan yang buruk. Tidak lebih dari itu. Sungguh.",
-      "th": "ทำไมฉันมักจะอ่านหนังสือคนเดียวน่ะเหรอ? การใฝ่รู้ใฝ่เรียน... ก็ไม่ได้เป็นสิ่งที่แย่นี่ ไม่ได้มีอะไรเป็นพิเศษ อืม ไม่มีจริง ๆ",
+      "id": "Kamu tanya kenapa aku suka baca buku sendirian? ... Belajar bukanlah kebiasaan yang buruk. Tidak ada maksud lain. Sungguh.",
+      "th": "ทำไมฉันมักจะอ่านหนังสือ คนเดียวเหรอ? การใฝ่รู้ใฝ่เรียน... ก็ไม่ได้เป็นสิ่งที่แย่นี่ ไม่ได้มีอะไรเป็นพิเศษ อืม ไม่มีจริง ๆ",
       "vi": "Vì sao tôi chỉ đọc sách một mình? Hiếu học đâu phải thói quen xấu phải không! Cũng chẳng có nơi nào đặc biệt, ừm, hoàn toàn không có."
     }
   },
   {
     "title": {
       "zhs": "想要了解行秋·其三",
-      "zht": "想要瞭解行秋·其三",
+      "zht": "想要了解行秋·其三",
       "jp": "行秋を知る·3",
       "ko": "행추에 대해 알기·세 번째",
       "en": "More About Xingqiu: III",
@@ -1114,15 +1146,15 @@
       "fr": "Vous n'avez rien d'autre à faire pour la journée ? Très bien, je suis libre et prêt. Mon livre ? Ce n'est rien, je pourrai le reprendre à notre retour. Ceux qui ont besoin de notre aide ne peuvent pas attendre, eux.",
       "pt": "Você está disponível hoje? Ok, já estou pronto. Meu livro? Não tem problema. Posso ler a qualquer hora quando voltar, mas as pessoas que vamos ajudar não podem esperar.",
       "ru": "Есть свободное время сегодня? Замечательно. Я готов отправляться, когда ты скажешь. ...Как же моя книга? Неважно, к ней я могу вернуться позже. А вот люди, которым требуется наша помощь, не могут подождать.",
-      "id": "Apa kamu ada waktu hari ini? Bagus. Aku siap kapan pun kamu siap. Bukuku? Oh tidak masalah! Aku selalu bisa melanjutkannya saat aku kembali nanti. Tapi mereka yang perlu pertolongan tidak bisa menunggu.",
-      "th": "วันนี้ว่างแล้วเหรอ? เยี่ยมเลย ฉันออกเดินทางได้ตลอดเวลาเลยนะ หนังสือ? ไม่เป็นไร เดี๋ยวกลับมาค่อยมาอ่านต่อก็ได้ แต่คนที่ต้องการความช่วยเหลือจากพวกเราน่ะรอไม่ได้หรอกนะ",
+      "id": "Apa kamu ada waktu hari ini? Bagus. Aku siap kapan pun kamu siap. Buku? Oh tidak masalah! Aku selalu bisa melanjutkannya saat aku kembali nanti. Tapi mereka yang perlu pertolongan tidak bisa menunggu.",
+      "th": "วันนี้ว่างแล้วเหรอ? เยี่ยมเลย ฉันออกเดินทางได้ตลอดเวลาเลยนะ หนังสือ? ไม่เป็นไร เดี๋ยวกลับมาค่อยมาอ่านต่อก็ได้ แต่คนที่ต้องการความช่วยเหลือจากเราน่ะรอไม่ได้นะ",
       "vi": "Hôm nay có thời gian rồi chứ? Được, tôi có thể xuất phát bất cứ lúc nào. Sách? Không sao, về rồi xem tiếp, những người đang cần chúng ta giúp đỡ không chờ đợi được đâu."
     }
   },
   {
     "title": {
       "zhs": "想要了解行秋·其四",
-      "zht": "想要瞭解行秋·其四",
+      "zht": "想要了解行秋·其四",
       "jp": "行秋を知る·4",
       "ko": "행추에 대해 알기·네 번째",
       "en": "More About Xingqiu: IV",
@@ -1146,17 +1178,17 @@
       "fr": "#Vous êtes {M#inspiré}{F#inspirée}, dites-vous ? Vous voulez écrire un roman narrant nos aventures ensemble et l'appeler « Chroniques de Wanwen » ? Hahaha... C'est une excellente idée, vraiment. Mais je préfère décliner, merci. Oui, vraiment...",
       "pt": "Você já tem uma boa ideia? Você quer escrever um romance policial de artes marciais baseado nas nossas aventuras juntos? E você quer chamá-lo de \"Crônicas de Wanwen\"? Hahaha... É uma boa ideia, muito boa mesmo. Mas vou ter que me recusar, me desculpe. Sim, realmente...",
       "ru": "Говоришь, у тебя есть идея? Хочешь, чтобы мы вместе на основе наших приключений написали детективный роман о рыцарях и назвали его «Хроники Ваньвэнь»? А... А-ха-ха-ха... Хорошая идея, правда. Но я вынужден отказаться. Прости.",
-      "id": "Apa? Kamu ingin menulis novel pendekar detektif yang terinspirasi dari petualangan kita? Dan kamu ingin menamakannya \"Chronicles of Wanwen\"? Hahaha... ide bagus, sungguh. Tapi aku harus menolaknya. Maaf ya ....",
-      "th": "เธอบอกว่าเธอมีไอเดียบางอย่าง? จะเขียนนิยายแนวนักสืบผสมกับ ศิลปะการต่อสู้ที่ชื่อว่า \"Chronicles of Wanwen\" โดยเขียนจากเรื่องราวการผจญภัยของพวกเรางั้น? อืม ฮ่าฮ่าฮ่า...ไอเดียใช้ได้แต่ฉันไม่เอาด้วยนะ อืม ไม่เอาด้วยเด็ดขาด",
+      "id": "Kamu terinspirasi? Ingin menulis novel detektif pendekar yang terinspirasi dari petualangan kita? Dan kamu ingin menamakannya \"Chronicles of Wanwen\"? Hahaha ... ide bagus, sungguh. Tapi aku terpaksa menolak. Maaf ya ....",
+      "th": "เธอบอกว่าเธอมีแรงบันดาลใจ? จะเขียนนิยายแนวนักสืบผสมกับ ศิลปะการต่อสู้ที่ชื่อว่า \"Chronicles of Wanwen\" โดยเขียนจากเรื่องราวการผจญภัยของเรา? อืม ฮ่าฮ่าฮ่า...ไอเดียใช้ได้แต่ฉันไม่เอา ด้วยนะ อืม ไม่เอาด้วยเด็ดขาด",
       "vi": "Bạn nói bạn có cách hay? Lấy việc mà trước kia chúng ta đã làm để làm mẫu, viết một quyển tiểu thuyết thám hiểm pha chút võ hiệp, \"Tuyển Tập Vạn Văn Tập\" sao? Á há há... cách này hay đó, nhưng không được. Ừm, không được nhé."
     }
   },
   {
     "title": {
       "zhs": "想要了解行秋·其五",
-      "zht": "想要瞭解行秋·其五",
+      "zht": "想要了解行秋·其五",
       "jp": "行秋を知る·5",
-      "ko": "행추에 대해 알기·다섯 번째",
+      "ko": "행추를 알고 싶다·다섯 번째",
       "en": "More About Xingqiu: V",
       "de": "Ich will mehr über Xingqiu erfahren V",
       "es": "Más sobre Xingchiu (V)",
@@ -1175,11 +1207,11 @@
       "en": "\"A weaver of verses who draws from an ocean of expression...\" That's the reputation I aspire to. But you're the only person I can share that with. I am actually writing a novel... but I can't let you see it. Not yet. The time will come, though... You'll be able to read it when it's on sale in book stores all over Liyue.",
       "de": "„Eine Flut aus tausend Wörtern, verwoben in ein Gedicht.“ Ich hoffe, meine Schriften werden auch eines Tages solch eine Bewertung bekommen. Das verrate ich jetzt nur dir und keinem anderen, aber ich schreibe auch Bücher. Jetzt kann ich dir noch keins zeigen, aber in Zukunft wirst du sie in Buchhandlungen kaufen können.",
       "es": "“Un tejedor de versos cargado de un océano de palabras y expresiones”. Esa es la reputación que aspiro conseguir. Eres la única persona a la que siento que puedo contárselo. En realidad, estoy escribiendo una novela... pero aún no puedo dejar que la veas. Sin embargo, llegará el momento en que podrás leerla cuando... esté a la venta en las librerías de Liyue.",
-      "fr": "« Tisser des vers venant d'un océan d'inspiration », voilà la réputation à laquelle j'aspire. Vous êtes la seule personne avec qui je peux partager ceci : je suis en train de rédiger un livre... mais je ne vous le montrerai pas pour l'instant. Mais le jour viendra où vous le verrez dans toutes les librairies, j'en suis sûr.",
+      "fr": "« Tisser des vers venant d'un océan d'inspiration », voilà la réputation à laquelle j'aspire. Vous êtes la seule personne avec qui je peux partager ceci : je suis en train de rédiger un livre... Mais je ne vous le montrerai pas pour l'instant. Mais le jour viendra où vous le verrez dans toutes les librairies, j'en suis sûr.",
       "pt": "\"Um tecelão de versos que tira de um oceano de expressão...\" Essa é a reputação que aspiro. Mas você é a única pessoa com quem posso compartilhar isso. Na verdade, estou escrevendo um romance... Mas você ainda não pode ver. Ainda não. Porém, chegará a hora... Você poderá lê-lo quando estiver à venda nas livrarias de toda a cidade de Liyue.",
       "ru": "#«Ткач, из тысячи слов плетущий стихов узор...» Да, такую репутацию я хочу иметь. Но ты - единственн{F#ая}{M#ый}, с кем я могу этим поделиться. На самом деле, сейчас я пишу роман. Нет-нет, пока я не могу дать тебе его почитать... Лучше потом, когда увидишь его на полке в книжном магазине.",
-      "id": "\"Seorang penyair yang menenun ayat-ayat dari lautan ekspresi...\" aku ingin punya reputasi seperti itu, dan kamu adalah satu-satunya orang yang kuberi tahu soal ini. Aku sebenarnya sedang menulis sebuah novel ... tapi aku tidak bisa membiarkanmu melihatnya. Masih belum. Tapi, saat waktunya tiba nanti, kamu akan bisa menemukannya di toko buku.",
-      "th": "\"นักกวีผู้ถักทอบทกวีมากมายจากห้วงมหาสมุทร\" เฮ้อ ฉันอยากได้รับคำวิจารณ์แบบนี้บ้างจัง เรื่องนี้ฉันบอกกับเธอแค่คนเดียวนะ จริง ๆ แล้ว ฉันก็กำลังเขียนนิยายอยู่ล่ะ ตะ ตอนนี้แน่นอนว่าให้เธอดูยังไม่ได้หรอกนะ แต่อีกหน่อย... อีกหน่อยเธอจะเห็นมันในร้านหนังสือ",
+      "id": "\"Seorang penyair yang menenun ayat-ayat dari lautan ekspresi ...\" aku ingin punya reputasi seperti itu, dan kamu adalah satu-satunya orang yang kuberi tahu soal ini. Aku sebenarnya sedang menulis sebuah novel ... tapi kamu belum boleh melihatnya. Tapi, akan tiba saatnya ... kamu melihatnya dijual di seluruh toko buku di Liyue.",
+      "th": "\"นักกวีผู้ถักทอบทกวีมากมายจาก มหาสมุทร\" เฮ้อ ฉันอยากได้รับคำวิจารณ์แบบนี้ เรื่องนี้ฉันพูดกับเธอแค่คนเดียวนะ จริง ๆ แล้ว ฉันก็กำลังเขียนนิยายอยู่ ตะ ตอนนี้แน่นอนว่าให้เธอดูยังไม่ได้ หรอก แต่อีกหน่อย...อีกหน่อยเธอจะเห็น มันในร้านหนังสือ",
       "vi": "\"Văn chương lai láng, dệt thơ thành gấm\". Haiz, tôi cũng muốn được đánh giá như vậy. Chuyện này tôi chỉ nói với một mình bạn thôi đó. Thật ra, tôi cũng đang viết tiểu thuyết. Bây giờ, bây giờ đương nhiên không thể cho bạn xem, sau này... sau này bạn sẽ nhìn thấy trong tiệm sách."
     }
   },
@@ -1197,11 +1229,11 @@
       "ru": "Хобби Син Цю...",
       "id": "Hobi Xingqiu",
       "th": "งานอดิเรกของ Xingqiu...",
-      "vi": "Sở thích của Xingqiu"
+      "vi": "Sở thích của Xingqiu..."
     },
     "line": {
       "zhs": "我的爱好自然是看书。什么书都会看。嗯？你一脸坏笑看着我干什么。唔，那事我们两个知道就行了，还是不适合明面上讲。说出来就没意思了。",
-      "zht": "#我的愛好自然是看書。什麼書都會看。嗯？{F#妳}{M#你}一臉壞笑看著我幹什麼。唔，那事我們兩個知道就行了，還是不適合明面上講。說出來就沒意思了。",
+      "zht": "#我的愛好自然是看書。什麼書都會看。嗯？{F#妳}{M#你}一臉壞笑看著我幹什麼。唔，那事我們兩個知道就行了，還是不適合在明面上講。說出來就沒意思了。",
       "jp": "僕の趣味は読書だよ、なんでも読むよ。ん？何ニヤニヤしてるんだい？むっ、あのことは僕たちの秘密だから、他言無用だよ。言ったらつまらないじゃないか。",
       "ko": "내 취미는 당연히 독서지. 어떤 책이든 다 읽어. 응? 왜 그렇게 웃고 있는 거야? 음, 그 일은 우리 둘만의 비밀이니까, 대놓고 말하기는 좀 그래. 말하면 재미없잖아",
       "en": "Evidently, my hobby is reading. I'll read anything and everything. ...What's that mischievous grin for? Oh. That's between the two of us, okay? It's not appropriate to discuss it out loud. There's no point in bringing it up anyway.",
@@ -1210,8 +1242,8 @@
       "fr": "Mon loisir préféré ? Lire des livres, évidemment. Je peux tout lire... Pourquoi ce sourire ? Oh, c'est entre nous deux, d'accord ? Pas la peine d'en parler devant tout le monde.",
       "pt": "O meu passatempo é ler. Basicamente eu leio um pouco de tudo! Por que você está me olhando dessa maneira? É um segredo entre nós dois, não é preciso deixar todo mundo saber.",
       "ru": "Естественно, моё хобби - это чтение книг. Я читаю всё, что попадается под руку. Почему это ты так недобро улыбаешься? Давай всё сказанное останется между нами. Ни к чему посвящать в это других. Да и бессмысленно...",
-      "id": "Hobiku adalah membaca buku. Aku suka baca segala macam dan tentang apa saja. ... Kenapa senyum begitu? Oh, ini cukup kita berdua saja yang tahu ya. Tidak baik membahas ini sembarangan, tidak ada gunanya pula.",
-      "th": "งานอดิเรกของฉันคืออ่านหนังสือ อ่านได้ทุกประเภทเลย หืม? เธอมองฉันแล้วยิ้มกรุ้มกริ่มแบบนั้นทำไมกัน เฮ้อ เรื่องนั้นรู้กันแค่สองคนก็พอแล้วน่า อย่าเอาไปพูดข้างนอกเชียวล่ะ ถ้าหลุดปากพูดออกมาก็คงไม่ดีนัก",
+      "id": "Hobiku adalah membaca buku. Aku suka baca segala macam dan tentang apa saja .... Kenapa senyum begitu? Oh, ini cukup kita berdua saja yang tahu ya. Tidak baik membahas ini sembarangan, tidak ada gunanya pula.",
+      "th": "งานอดิเรกของฉันคืออ่านหนังสือ อ่านได้ทุกประเภทเลย ฮืม? เธอมองฉันแล้วยิ้มกรุ้มกริ่มทำไม เฮ้อ เรื่องนั้นรู้กันแค่สองคนก็พอ อย่าเอาไปพูดข้างนอกดีกว่า พูดออกมาแล้วคงไม่ดีนัก",
       "vi": "Sở thích của tôi đương nhiên là đọc sách. Sách nào cũng đọc. Ơ? Bạn cười mỉa mai với tôi làm chi thế. Chuyện đó hai chúng ta biết là được rồi, không thích hợp nói ra ngoài. Nói ra sẽ không có ý nghĩa nữa."
     }
   },
@@ -1236,14 +1268,14 @@
       "zht": "煩惱啊，嗯…未來有朝一日兄長繼承了家業，我會怎麼樣呢？這樣無憂無慮的生活恐怕…啊，我不是在說身分之類的，我不在乎那些。我是覺得大哥太呆了，沒我幫忙不太行啊。",
       "jp": "悩みか…うん、いつか兄上が家業を継いだら、僕はどうなるだろうね。この悩みのない生活もおそらく…あっ、肩書きの話じゃないんだ、そんなの気にしてないよ。兄上はぼーとしてるからね、僕の助けがないとやっていけない気がするんだ。",
       "ko": "고민이라, 음… 언젠가 형이 가업을 이어받게 되면, 난 어떻게 될까? 이런 근심 걱정 없는 생활도 곧… 아, 내 신분 같은 걸 말하는 게 아니야, 그런 건 별로 신경 안 써. 단지 우리 형이 좀 둔해서, 내가 없으면 안 되거든",
-      "en": "What annoys me? Hmm... Well, one day my brother will inherit the family business. What will happen to me then? I fear my current carefree existence would... Oh — no, no, no, it's not about my status or anything like that. I don't care for that kind of thing. I think my brother is something of a simpleton and I would probably end up having to do most of his job for him...",
+      "en": "What annoys me? Hmm... Well, one day my brother will inherit the family business. What will happen to me then? I fear my current carefree existence would... Oh — no no no, it's not about my status or anything like that. I don't care for that kind of thing. I just think my brother is something of a simpleton and I would probably end up having to do most of his job for him...",
       "de": "Was mich besorgt, nun, eines Tages wird mein Bruder das Familienunternehmen übernehmen. Was passiert dann mit mir? Ich bin etwas besorgt, dass mein momentan recht sorgloses Leben ... Oh, nein, ich meine nicht Status oder sowas. Mein Bruder ist nur sehr beschränkt und ich fürchte, dass ich fast alles für ihn erledigen muss.",
       "es": "Lo que me preocupa... Humm... Bueno, un día mi hermano heredará el negocio familiar. ¿Qué me pasará a mí, entonces? Me temo que mi actual vida sin preocupaciones se... Oh, no, no, no es por mi estatus ni nada de eso. No me importan ese tipo de cosas. Creo que mi hermano es una persona muy simple, y probablemente yo terminaría haciendo la mayor parte del trabajo en lugar de él...",
       "fr": "Ce qui m'embête ? Hum... Mon frère va hériter de l'affaire familiale. Que vais-je devenir ensuite ? Je crains que l'existence insouciante que je menais jusqu'ici ne prenne fin. Oh non, ce n'est pas une histoire de statut, rien ne saurait m'importer moins. C'est juste que je n'aurais guère d'autre choix que de venir en aide à mon imbécile de frère, et que je finirais sans aucun doute à faire tout le travail à sa place.",
       "pt": "O que me irrita? Hmm... Bem, um dia, meu irmão herdará o negócio da família. O que vai acontecer comigo então? Temo que minha atual existência despreocupada... Oh - não, não, não, não se trata do meu status ou algo parecido. Eu não me importo com esse tipo de coisa. Acho que meu irmão é uma pessoa muito simplória e eu provavelmente acabaria tendo que fazer a maior parte do seu trabalho por ele...",
       "ru": "Что меня беспокоит? Хм... Однажды старший брат унаследует семейный бизнес. Что тогда будет со мной? Боюсь, тогда моя беззаботная жизнь... О, нет, я не говорю о моём статусе, меня это не волнует. Мне кажется, мой брат несколько простоват для такого, и все дела лягут на мои плечи.",
-      "id": "Yang menggangguku? Hmm ... suatu hari nanti, kakakku akan mewarisi bisnis keluarga. Lalu apa yang akan terjadi padaku? Aku khawatir bahwa hidupku yang bebas sekarang ini akan ... Ah, bukan, ini bukan soal status atau hal semacam itu. Itu sih aku tidak peduli. Tapi menurutku kakakku itu orangnya agak polos, dan aku merasa kalau nantinya bakal jadi aku yang mengerjakan sebagian besar tugasnya ....",
-      "th": "กลุ้มใจอะไรน่ะเหรอ อืม...วันนึงพี่ชายของฉันก็ต้องมาสืบทอดกิจการของครอบครัว แล้วฉันจะทำยังไงดีล่ะ? ชีวิตที่ราบเรียบจืดชืดแบบนี้เกรงว่า...อ๊ะ ฉันไม่ได้หมายถึงสถานะอะไรแบบนั้นหรอกนะ ฉันไม่สนใจเรื่องพวกนั้นหรอก ฉันก็แค่รู้สึกว่าพี่ชายของฉันน่ะ ทึ่มเกินไป ถ้าไม่มีฉันคอยช่วย เขาไม่รอดแน่ ๆ",
+      "id": "Yang menggangguku? Hmm ... suatu hari nanti, kakakku akan mewarisi bisnis keluarga. Lalu apa yang akan terjadi padaku? Aku khawatir bahwa hidupku yang bebas sekarang ini akan ... Ah, bukan, ini bukan soal statusku atau hal semacam itu. Aku sih tidak ambil pusing. Aku cuma merasa kalau kakak terlalu polos, dan pada akhirnya akulah yang akan mengerjakan sebagian besar tugasnya ....",
+      "th": "กลุ้มใจอะไรน่ะเหรอ อืม...วันนึงพี่ชายของฉันก็ต้องมา สืบทอดกิจการของครอบครัว แล้วฉันจะทำยังไงล่ะ? ชีวิตที่ราบเรียบแบบนี้เกรงว่า...อ่า ฉันไม่ได้พูดถึงสถานะอะไรแบบนั้น ฉันไม่สนใจเรื่องพวกนั้นหรอก ฉันแค่รู้สึกว่าพี่ชายของฉันน่ะ ทึ่มเกินไป ถ้าไม่มีฉันคอยช่วยคงไม่รอดแน่",
       "vi": "Thật lo quá, ừm... Một ngày nào đó anh hai kế thừa gia nghiệp, tôi phải làm sao? Cuộc sống vô tư lự e là... A, không phải tôi ganh tỵ thân phận đâu, tôi không để tâm những thứ đó. Chỉ là tôi cảm thấy anh hai quá ngốc, không có tôi giúp là không được."
     }
   },
@@ -1257,7 +1289,7 @@
       "de": "Was er so mag ...",
       "es": "Comida que más le gusta...",
       "fr": "Plats préférés...",
-      "pt": "Comida favorita...",
+      "pt": "Comida Favorita...",
       "ru": "Любимая еда...",
       "id": "Makanan Favorit",
       "th": "อาหารที่ชอบ...",
@@ -1272,10 +1304,10 @@
       "de": "Ich mag Gebäck und Meeresfrüchte der Liyue-Küche. Wahrscheinlich, weil wir zu Hause immer sehr leicht gegessen haben.",
       "es": "Me agrada la repostería y los mariscos cocinados al estilo Yue. Creo que es porque en mi casa, la comida que comemos es un poco sosa.",
       "fr": "J'aime les pâtisseries et la cuisine Yue. Sans doute parce que je suis habitué à un régime peu relevé à la maison.",
-      "pt": "Eu gosto de produtos assados e de frutos do mar ao estilo Yue. Provavelmente porque estou acostumado a uma dieta bastante balanceada em casa.",
-      "ru": "О, я люблю сладкую выпечку и морепродукты кухни Юэ. Думаю, это потому что дома мы обычно едим постные блюда.",
-      "id": "Aku suka kue-kue dan makanan laut khas Yue. Mungkin karena keluargaku biasa makan yang sedikit bumbu.",
-      "th": "ฉันชอบกินขนมและอาหารทะเล อย่างอาหาร Yue คงเพราะครอบครัวของฉันกินอาหารรสชาติอ่อน ๆ มาตลอดน่ะ",
+      "pt": "Eu gosto de frutos-do-mar ao estilo Yue. Provavelmente porque estou acostumado a uma dieta bastante balanceada em casa.",
+      "ru": "О, я люблю сладкую выпечку и морепродукты кухни Юэ. Думаю, это потому, что дома мы обычно едим постные блюда.",
+      "id": "Aku suka kue-kue dan makanan laut a'la Yue. Mungkin karena keluargaku biasa makan yang tawar-tawar.",
+      "th": "ฉันชอบกินขนมและอาหารทะเล อย่างอาหาร Yue คงเพราะครอบครัวของเรากิน อาหารรสชาติอ่อน ๆ มาตลอดน่ะ",
       "vi": "Tôi rất thích ăn bánh ngọt và hải sản. Chủ yếu là vì, nhà tôi luôn ăn uống thanh đạm."
     }
   },
@@ -1289,7 +1321,7 @@
       "de": "Was er nicht mag ...",
       "es": "Comida que menos le gusta...",
       "fr": "Plats détestés...",
-      "pt": "Comida que detesta...",
+      "pt": "Comida que Odeia...",
       "ru": "Нелюбимая еда...",
       "id": "Makanan yang Tidak Disukai",
       "th": "อาหารที่เกลียด...",
@@ -1306,7 +1338,7 @@
       "fr": "Je déteste les carottes. Quand j'étais enfant, ma mère en faisant souvent de la purée... Je préfère m'arrêter ici, rien qu'y penser me donne la nausée...",
       "pt": "Eu odeio cenoura, a minha mãe sempre usava cenoura para fazer... Não consigo continuar... Só de pensar nisso eu já fico com vontade de vomitar...",
       "ru": "Я терпеть не могу морковь. В детстве мама часто толкла морковь в... О, не могу об этом говорить. Я только начинаю думать и уже чувствую тот привкус...",
-      "id": "Aku benci wortel. Waktu kecil, ibuku selalu menumbuk wortel, lalu ... Ah sudahlah. Memikirkannya saja bikin aku mual ....",
+      "id": "Aku benci wortel. Waktu kecil, ibu sering menumbuk wortel ... Urk, memikirkannya saja sudah bikin mual.",
       "th": "ฉันไม่ชอบแครอทเลย ตอนเด็ก ๆ แม่ชอบเอาแครอทมาบดละเอียดแล้วทำเป็น...อย่าให้ฉันพูดต่อเลยนะ แค่คิดถึงรสชาตินั้นก็...",
       "vi": "Tôi rất ghét cà rốt, lúc nhỏ mẹ tôi thường nghiền cà rốt để làm... đừng để tôi nói tiếp. Ngay cả trong ký ức, mùi vị đó cũng..."
     }
@@ -1322,7 +1354,7 @@
       "es": "Cumpleaños - Felicitaciones",
       "fr": "Anniversaire - Vœux",
       "pt": "Aniversário - Felicitações",
-      "ru": "День Рождения: Пожелания",
+      "ru": "День рождения: Пожелания",
       "id": "Ulang Tahun: Ucapan",
       "th": "วันเกิด - อวยพร",
       "vi": "Sinh Nhật - Chúc Phúc"
@@ -1338,8 +1370,8 @@
       "fr": "Que ce jour qui vous vit naître soit béni par les Archons !",
       "pt": "Feliz Aniversário! Muitas felicidades, muitos anos de vida!",
       "ru": "Кхе-кхе. Я поздравляю тебя с днём рождения и желаю тебе счастья и долголетия.",
-      "id": "Uhuk uhuk. Kuharap kehidupanmu selalu diberkati dan bahagia selalu. Selamat ulang tahun!",
-      "th": "ฮะแฮ่ม ๆ สุขสันต์วันเกิดนะ ในวันเกิดนี้ก็ขอให้เธอมีสุขภาพแข็งแรงอายุยืนยาวแล้วก็ความสุขมาก ๆ นะ",
+      "id": "Semoga hari kelahiranmu ini dipenuhi dengan segudang kebahagiaan!",
+      "th": "อะแฮ่ม ๆ สุขสันต์วันเกิดนะ ในวันเกิดนี้ก็ขอให้เธอมีสุขภาพแข็งแรงอายุยืนยาวแล้วก็ความสุขมาก ๆ นะ",
       "vi": "Khụ, khụ khụ. Chúc bạn hạnh phúc mạnh khoẻ, sinh nhật vui vẻ."
     }
   },
@@ -1354,8 +1386,8 @@
       "es": "Cumpleaños - Costumbres",
       "fr": "Anniversaire - Coutumes",
       "pt": "Aniversário - Costumes",
-      "ru": "День Рождения: Традиции",
-      "id": "Ulang Tahun: Tradisi",
+      "ru": "День рождения: Традиции",
+      "id": "Ulang tahun: Tradisi",
       "th": "วันเกิด - ประเพณี",
       "vi": "Sinh Nhật - Tập Tục"
     },
@@ -1363,14 +1395,14 @@
       "zhs": "据记载，天成石桥是上古战争时候，岩之神摩拉克斯投出的石枪倒塌后形成的。要是生日当天在桥上走一趟，往两边海里投点摩拉，就能保佑一年安康…生日一年只有一次，想去的话就快点去吧…没骗你，是真的。真的，快去吧。",
       "zht": "#據記載，天成石橋是上古戰爭時候，岩之神摩拉克斯投出的石槍倒塌後形成的。要是生日當天在橋上走一趟，往兩邊海裡投點摩拉，就能保佑一年安康…生日一年只有一次，想去的話就快點去吧…沒騙{F#妳}{M#你}，是真的。真的，快去吧。",
       "jp": "本によると、天成石橋は上古戦争の時、岩神モラクスが投げた石槍が崩れた後にできたものだ。誕生日に橋の上を歩き、両側の海にモラを投げると、一年間安らかに過ごせるんだって…誕生日は年に一度だけだから、行きたいなら早く行きなよ…嘘じゃない、本当、本当だよ、早く行きなって。",
-      "ko": "기록에 의하면, 천성석교는 오래전 마신 전쟁 때 바위 신 모락스가 던진 석창이 무너지면서 생긴 거래. 생일날 이 다리를 건너 양쪽 바다에 모라를 던지면 일 년의 평안을 기원할 수 있다더군… 생일은 일 년에 한 번뿐이니까, 가고 싶으면 어서 가봐… 거짓말 아니야, 진짜야. 진짜라니까, 어서 가봐.",
+      "ko": "기록에 의하면, 천성석교는 오래전 마신 전쟁 때 바위 신 모락스가 던진 석창이 무너지면서 생긴 거래. 생일날 이 다리를 건너 양쪽 바다에 모라를 던지면 일 년의 평안을 기원할 수 있다더군… 생일은 일 년에 한 번뿐이니까, 가고 싶으면 어서 가봐… 거짓말 아니야, 진짜야. 진짜라니까, 어서 가봐",
       "en": "According to historical records, Tiancheng's stone bridge was formed by a fallen rock spear thrown by the Geo Archon Morax in battle. If you walk along the bridge on your birthday and throw some Mora into the sea from both sides, you will be blessed in the coming year... Your birthday only comes once a year, so be quick about it if you wanna go... I'm not kidding, it's true! Go try it and you'll see!",
       "de": "Laut historischen Aufzeichnungen wurde die Tiancheng-Steinbrücke durch den Speerwurf von Morax im Kampf geformt. Wenn man an seinem Geburtstag darüber wandelt und ein paar Mora über die Geländerseite wirft, wird das kommende Jahr ein gesegnetes Jahr ... Du hast nur einmal im Jahr Geburtstag, sei also schnell, solltest du gehen wollen ... Ich mache keine Witze, es ist wahr!",
       "es": "Según los registros históricos, el puente de piedra de Tiancheng se formó por una lanza hecha de roca que Morax, el Arconte Geo, lanzó en una batalla. Si pasas por ese puente en tu cumpleaños y lanzas algunos Moras al mar desde ambos lados, tendrás suerte para el resto del año. Solo se cumplen años una vez al año, así que no te demores mucho si quieres ir. ¡No estoy mintiendo, es verdad! ¡Pruébalo y verás!",
       "fr": "D'après les archives historiques, le pont de Tiancheng a été formé par la chute d'une des lances de pierre de l'Archon Géo pendant le combat. On raconte que celui qui s'y promène le jour de son anniversaire et jette des moras de chaque côté du pont passera une excellente année... On ne fête son anniversaire qu'une fois par an, alors je vous suggère de ne pas rater l'occasion. Vraiment, il paraît que ça marche, vous savez.",
-      "pt": "#Segundo registros históricos, a ponte de pedra de Tiancheng foi formada por uma pedra caída que foi lançada pelo Arconte Geo Morax em batalha. Se você caminhar pela ponte no seu aniversário e jogar Mora no mar de ambos os lados, você será abençoad{M#o}{F#a} no próximo ano... O seu aniversário só acontece uma vez por ano, então seja rápid{M#o}{F#a} se quiser ir. Eu não estou brincando, é verdade! Vá experimentá-lo e você verá!",
+      "pt": "Segundo registros históricos, a ponte de pedra de Tiancheng foi formada por uma pedra caída que foi lançada pelo Arconte Geo Morax em batalha. Se você caminhar pela ponte no seu aniversário e jogar Mora no mar de ambos os lados, você será abençoado no próximo ano... O seu aniversário só acontece uma vez por ano, então seja rápido se quiser ir. Eu não estou brincando, é verdade! Vá experimentá-lo e você verá!",
       "ru": "Согласно записям, каменный мост Тяньчэн сформировался во время древней войны вследствие падения каменного копья, которое метнул Гео Архонт Моракс. Если пройти по мосту в день рождения и бросить немного моры в море по обе его стороны, то в грядущем году на тебя снизойдёт благословение... День рождения бывает только раз в году, так что поторопись, если хочешь соблюсти традицию. Эй, я ни в коем случае не обманываю тебя!.. Иди скорее.",
-      "id": "Sejarah bilang bahwa jembatan batu Tiancheng terbentuk dari sisa tombak batu yang dilempar oleh Archon Geo Morax dalam sebuah pertempuran. Jika kamu menyusuri jembatan itu pada hari ulang tahunmu, dan melemparkan beberapa Mora ke laut dari kedua sisinya, kamu akan diberkati sepanjang tahun ... Ulang tahun cuma setahun sekali, jadi ayo cepat kalau kamu ingin coba ... Aku tidak bercanda, ini benar! Coba saja sendiri kalau tidak percaya!",
+      "id": "Menurut catatan sejarah, Tiancheng Stone Bridge dibentuk oleh tombak batu yang dilemparkan oleh Archon Geo Morax dalam sebuah pertempuran. Kalau berjalan di atas jembatan pada hari ulang tahunmu, lalu melempar Mora dari kedua sisi jembatan ke lautan, kamu akan diberkati di tahun berikutnya ... Ulang tahun kan cuma setahun sekali, jadi cepatlah ... Aku tidak bercanda, memang seperti itu! Coba saja sendiri!",
       "th": "จากบันทึกทางประวัติศาสตร์ สะพานหิน Tiancheng เกิดขึ้นจากหอกหินที่ราชาแห่งหิน Morax เขวี้ยงลงมาในช่วงสงครามยุคโบราณ ในวันเกิดถ้าเดินไปที่สะพานแล้ว โยน Mora ลงไปในทะเลทั้งสองฝั่งก็จะช่วยคุ้มครองให้มีสุขภาพแข็งแรงตลอดทั้งปี... วันเกิดมีแค่ปีละครั้งเองนะ ถ้าอยากไปก็รีบไปเถอะ... ไม่ได้หลอกเธอเล่นหรอก จริง ๆ นะ รีบไปเถอะ",
       "vi": "Theo ghi chép, cây cầu đá Thiên Thành được hình thành sau khi ngọn giáo đá do Nham Thần Morax ném ra bị sụp đổ trong chiến tranh cổ đại. Nếu trong ngày sinh nhật đi trên cây cầu, ném Mora xuống biển ở hai bên, sẽ được phù hộ một năm an khang... Sinh nhật một năm chỉ có một lần, nếu muốn đi thì phải nhanh lên... Không gạt bạn đâu, là thật đó, đi nhanh đi."
     }
@@ -1402,7 +1434,7 @@
       "fr": "Si je n'avais pas les talents qui m'ont été donnés, alors la cause qui m'inspire serait restée à l'état de page vierge.",
       "pt": "Se não fosse pela minha capacidade, a causa que me inspira tanto permaneceria confinada às páginas que exaltam suas virtudes.",
       "ru": "Если бы у меня не было моих способностей, то это состояние души, переполняющее моё сердце, осталось бы лишь на бумаге.",
-      "id": "Kalau aku tidak mampu, sumber inspirasiku mungkin selamanya cuma ada di cerita dalam buku saja.",
+      "id": "Tanpa kemampuan, tujuan yang jadi inspirasiku selamanya hanya akan terukir belaka dalam halaman-halaman yang meriwayatkan kebajikannya.",
       "th": "ถ้าไม่มีความสามารถ อย่างนั้นคำที่ติดค้างอยู่ในใจของฉันคำนั้น ก็คงต้องอยู่แค่บนกระดาษนี้ เท่านั้นล่ะ",
       "vi": "Nếu không có năng lực, thì từ ngữ đó trong lòng tôi, chắc chỉ có thể dừng lại trên mặt giấy."
     }
@@ -1432,9 +1464,9 @@
       "de": "Wenn man keinen Kompass für Gut und Böse im Herzen trägt, können Vorhaben oft in die falsche Richtung gehen. Man wird leicht zu einem Gewalt suchenden Berserker.",
       "es": "Si no tuviera una brújula moral, no sabría por qué debería luchar y esforzarme. Al perder el rumbo y distraerme con cosas poco importantes, me habría convertido en un filisteo que solo busca la violencia.",
       "fr": "Celui qui n'a pas de compas moral ne peut qu'agir dans le mauvais sens. Le chemin importe souvent plus que la destination, et il est facile de finir en philistin mû par la violence.",
-      "pt": "Se eu não tivesse bom senso, meus esforços teriam sido mal orientados. Condenado a agarrar as sombras enquanto faltava a substância, eu teria me tornado um filisteu que busca apenas a violência.",
+      "pt": "Se eu não tivesse bom senso, meus esforços teriam sido mal orientados. Se eu procurasse os pormenores ignorando o meu objetivo principal, eu teria me tornado um filisteu que busca apenas a violência.",
       "ru": "Если нет в сердце понимания, что есть добро, а что - зло, то все старания напрасны. За мелочами забывая о главном, мы становимся маленькими людьми, ищущими лишь насилия.",
-      "id": "Kalau aku tidak punya prinsip moralitas yang teguh, semua usahaku akan jadi salah arah. Ditakdirkan untuk mengejar bayangan tanpa arti, aku mungkin hanya akan jadi seorang bodoh yang mendamba kekerasan.",
+      "id": "Tanpa prinsip moralitas yang teguh, seluruh upayaku akan salah arah. Ditakdirkan untuk mengejar kefanaan tidak berdasar, demikian kiranya aku terkutuk menjadi sosok biadab yang cinta kekerasan.",
       "th": "หากไม่มีการแยกแยะความดี และความชั่วในใจ ความพยายามที่มีอาจจะถูกใช้ในทางที่ผิดได้ หากละเลยสิ่งที่สำคัญไป ก็จะกลายเป็นคนที่เอาแต่แสวงหาความรุนแรงเท่านั้น",
       "vi": "Nếu trong lòng không có thước đo thiện ác, cố gắng cách mấy cũng sẽ đi sai hướng. Quên mất cội nguồn, trở thành người thô tục chỉ biết đến bạo lực."
     }
@@ -1466,7 +1498,7 @@
       "fr": "La cause qui est mienne n'est guère partagée sur les terres de Liyue. Je le sais, ayant parcouru mon chemin pendant tellement d'années...",
       "pt": "Há uma causa que eu procuro defender, mas poucos em Liyue compartilham minhas aspirações. Isto eu conheço há muito tempo, pois é um caminho que eu percorri por muitos anos.",
       "ru": "Не все в Ли Юэ понимают и разделяют моё желание найти то, понимание чего я ищу. Я давно знаю об этом, ибо таков мой путь.",
-      "id": "Ada tujuan yang ingin kuperjuangkan, namun sangat sedikit di Liyue yang menginginkan hal yang sama. Aku sudah tahu akan ini sedari dulu, karena jalan ini sudah kutempuh sekian tahun lamanya.",
+      "id": "Ada tujuan yang ingin kuperjuangkan, namun sedikit orang di Liyue yang menginginkan hal yang sama. Demikian hal ini telah lama diketahui, karena jalan ini telah lama pula kutempuh.",
       "th": "คำที่ฉันเสาะหาคำนั้น กลับไม่ได้ใช้กันทั่วไปในดินแดน Liyue แห่งนี้ แต่เมื่อมาถึงที่นี่ ฉันก็รู้เรื่องนี้อยู่พอตัวแล้ว",
       "vi": "Từ ngữ mà tôi tìm kiếm không phổ biến trên vùng đất Liyue này. Nhưng khi hành đạo đến đây, tôi đã có đủ nhận thức về điều này từ lâu."
     }
@@ -1477,7 +1509,7 @@
       "zht": "突破的感受·合",
       "jp": "突破した感想·結",
       "ko": "돌파의 느낌·결",
-      "en": "Feelings about Ascension: Conclusion",
+      "en": "Feelings About Ascension: Conclusion",
       "de": "Gedanken über den Aufstieg – Ende",
       "es": "El sentimiento de Ascensión - Desenlace",
       "fr": "Affinité max",
@@ -1496,9 +1528,9 @@
       "de": "Ich bin dir sehr dankbar für die gemeinsame Zeit. Endlich bin ich auch sehr zufrieden mit mir, sowohl im Bereich der Kampfkunst als auch dem Verständnis der Wörter. Ich brauche mich auch nicht länger vor dem Wort „Tugend“ verstecken. Denn das ist das Wort, das mich inspiriert und in dem ich der Beste werden will. Mein Vater und Bruder sollten mir nicht im Wege stehen. Wie auch immer, ich werde diskret in meinem Vorhaben vorgehen.",
       "es": "Agradezco mucho tu compañía en mis viajes. Estoy orgulloso de mis logros conseguidos tanto en las artes marciales como en defender la causa en la que creo. Bueno, llegados a este punto, supongo que te puedo contar cuál es esa causa: ¡la caballerosidad! Creo que mi padre y mi hermano no la pondrán en cuestión. Sin embargo, aún debo ser discreto al respecto a la hora de hacer negocios.",
       "fr": "Je ne saurais assez vous remercier de m'avoir pris à vos côtés. Je suis fier d'avoir réussi dans la voie des arts martiaux comme dans celle de la cause qui m'est chère... La chevalerie ! Voilà la cause qui m'inspire, et dont j'espère un jour devenir le champion – ni mon père ni mon frère n'en doutent à présent. Mais bien sûr, je dois garder profil bas, quoi qu'il arrive.",
-      "pt": "Estou muito grato por sua companhia em minha jornada. Estou orgulhoso de minhas realizações, tanto nas artes marciais como na defesa da causa tão preciosa para o meu coração. ... Ah, acho que não há mais necessidade de eufemismos. Cavalheirismo! Essa é a causa que me inspira, e que eu procuro defender. Por que eu deveria me afastar dela, estou certo de que meu pai e meu irmão não têm ilusões sobre o que eu defendo até agora. ... Mas, é claro, ainda preciso ser um pouco discreto na forma como faço meus negócios.",
+      "pt": "Estou muito grato por sua companhia em minha jornada. Estou orgulhoso de minhas realizações, tanto nas artes marciais como na defesa da causa tão preciosa para o meu coração... Ah, acho que não há mais necessidade de eufemismos. Cavalheirismo! Essa é a causa que me inspira, e que eu procuro defender. Por que eu deveria me afastar disso, estou certo de que meu pai e meu irmão não têm mais questionamento sobre o que eu defendo até agora. ... Mas, é claro, ainda preciso ser um pouco discreto na forma como faço meus negócios.",
       "ru": "Я счастлив путешествовать с тобой. Я горжусь своими достижениями как в фехтовальном искусстве, так и в своём поиске истинного понимания того самого слова... Ладно, хватит замалчивать. Я больше не собираюсь избегать слов «рыцарское благородство». Ни отец, ни старший брат не могут больше ставить под сомнение мою рыцарскую натуру. ...Но, конечно, мне по-прежнему не следует громко заявлять об этом.",
-      "id": "Aku sungguh berterima kasih untuk penyertaanmu di perjalanan ini. Aku boleh berbangga pada pencapaianku, baik dalam seni bela diri maupun tujuan yang kuperjuangkan. Ah, tidak perlu basa basi lagi. Sifat kesatria! Itulah tujuan yang kuperjuangkan, dan yang ingin kukuasai. Aku tidak usah malu lagi, aku yakin ayah dan kakak juga sudah tahu. Tapi tentu saja, aku tetap harus berhati-hati dalam urusan ini.",
+      "id": "Terima kasih karena telah menemaniku sepanjang perjalanan. Aku bangga atas prestasiku, baik dalam seni bela diri maupun tujuan yang kuperjuangkan ... Ah, sudahlah, sudah cukup basa-basinya. Sifat kesatria! Itu sumber inspirasi dan tujuan yang kuperjuangkan. Kenapa harus malu, sementara ayah dan kakak juga sudah tahu pasti apa sebenarnya yang sedang kuperjuangkan. Tentu saja, aku tetap tidak boleh lengah dan sesumbar tentang hal ini.",
       "th": "ต้องขอบคุณเธอที่คอยอยู่เคียงข้าง ฉันภูมิใจในตัวเองมากไม่ว่าจะเป็น ด้านศิลปะการต่อสู้ หรือความเข้าใจในคำ ๆ นั้น เอ่อ ช่างเถอะ ฉันก็ไม่จำเป็นต้องให้ความสำคัญ กับคำว่ากล้าหาญนี้อีกแล้ว พ่อและพี่ชายคงไม่ถามถึงเช่นกัน แต่ยังไงก็คงต้องทำหน้าที่ต่อไป อย่างเงียบ ๆ",
       "vi": "May mà có bạn đồng hành. Tôi cũng rất hài lòng với chính mình, dù là võ thuật hay là sự hiểu biết về \"từ\" đó. Ầy, bỏ đi. Tôi cũng không cần phải giấu kín như bưng về chữ \"Hiệp\" làm gì. Cha và anh hai chắc cũng không đặt câu hỏi về \"Hiệp\" của tôi. Chỉ có điều, vẫn phải âm thầm hành sự."
     }
@@ -1530,7 +1562,7 @@
       "fr": "La goutte de pluie est insaisissable.",
       "pt": "A chuva revelará o seu destino!",
       "ru": "Дождь чертит линии твоей судьбы!",
-      "id": "Hujan penunjuk garis takdirmu!",
+      "id": "Hujan membentuk takdirmu!",
       "th": "ตัดผ่าสายฝน",
       "vi": "Mưa rơi khó vẽ."
     }
@@ -1560,7 +1592,7 @@
       "de": "Hajaa!",
       "es": "Ja... ¡Hum!",
       "fr": "Tranche !",
-      "pt": "Ha- hnf!",
+      "pt": "Ah... Hunf!",
       "ru": "Ха-хаа!",
       "id": "Ha— hmph!",
       "th": "ฮึบบ...!",
@@ -1656,9 +1688,9 @@
       "de": "Reimemacher.",
       "es": "Deja que teja un verso.",
       "fr": "Laissez-moi vous tisser des vers.",
-      "pt": "Vou compor um verso para você.",
+      "pt": "Deixe-me ler um verso para você.",
       "ru": "Я сочиню для тебя поэму.",
-      "id": "Biar kutenun sebaris syair.",
+      "id": "Biar kususun sebait untukmu.",
       "th": "ผู้ถักทอบทกวี",
       "vi": "Dệt thơ thành lụa."
     }
@@ -1688,7 +1720,7 @@
       "de": "Regen und Bogen.",
       "es": "¡Sable de lluvia!",
       "fr": "Coupe à travers la pluie et l'arc-en-ciel !",
-      "pt": "Cortador da Chuva!",
+      "pt": "Retalhador de Chuva!",
       "ru": "Радужная стойка!",
       "id": "Pembelah hujan!",
       "th": "ฟาดฟันสายฝน",
@@ -1820,7 +1852,7 @@
       "ru": "Охота за сокровищами... Доблестное начинание.",
       "id": "Berburu harta ... layaknya pendekar gagah berani.",
       "th": "การหาสมบัติ เป็นการผจญภัยอันกล้าหาญ",
-      "vi": "Tìm được kho báu đúng là một trải nghiệm hay ho."
+      "vi": "Tìm được kho báu đúng là một trải nghiệm hào hiệp."
     }
   },
   {
@@ -1850,7 +1882,7 @@
       "fr": "J'espère que nous trouverons de la littérature ancienne perdue depuis longtemps.",
       "pt": "Espero que encontremos literatura antiga perdida há muito tempo.",
       "ru": "Надеюсь, мы найдём утерянные древние книги.",
-      "id": "Semoga kita bisa menemukan literatur kuno.",
+      "id": "Semoga ada buku kuno.",
       "th": "ถ้าเจอนิยายโบราณที่สูญหายไปก็คงจะดี",
       "vi": "Nếu có thêm vài quyển sách cổ thất truyền nữa thì quá hoàn hảo!"
     }
@@ -1865,7 +1897,7 @@
       "de": "Niedrige LP I",
       "es": "Vida baja (I)",
       "fr": "PV faibles (1)",
-      "pt": "Vida baixa - I",
+      "pt": "Vida Baixa - I",
       "ru": "Низкий уровень HP I",
       "id": "HP Rendah: I",
       "th": "ค่าพลังชีวิตต่ำ - 1",
@@ -1873,7 +1905,7 @@
     },
     "line": {
       "zhs": "计划有变…",
-      "zht": "計劃有變…",
+      "zht": "計畫有變…",
       "jp": "計画が変わった…",
       "ko": "계획에 차질이 생겼군…",
       "en": "Change of plans...",
@@ -1882,7 +1914,7 @@
       "fr": "Changement de plan...",
       "pt": "Mudança de planos...",
       "ru": "Планы изменились...",
-      "id": "Ada perubahan rencana ....",
+      "id": "Perubahan rencana ....",
       "th": "เปลี่ยนแผน...",
       "vi": "Kế hoạch thay đổi..."
     }
@@ -1897,7 +1929,7 @@
       "de": "Niedrige LP II",
       "es": "Vida baja (II)",
       "fr": "PV faibles (2)",
-      "pt": "Vida baixa - II",
+      "pt": "Vida Baixa - II",
       "ru": "Низкий уровень HP II",
       "id": "HP Rendah: II",
       "th": "ค่าพลังชีวิตต่ำ - 2",
@@ -1914,7 +1946,7 @@
       "fr": "Je ne retiendrai plus mes coups.",
       "pt": "Não posso mais me segurar.",
       "ru": "Мне больше не продержаться.",
-      "id": "Aku tidak bisa menahan diri lagi.",
+      "id": "Aku tidak akan menahan diri.",
       "th": "จากนี้จะ \"ยั้งมือ\" แล้วนะ",
       "vi": "Không còn chống chọi thêm được nữa."
     }
@@ -1929,7 +1961,7 @@
       "de": "Niedrige LP III",
       "es": "Vida baja (III)",
       "fr": "PV faibles (3)",
-      "pt": "Vida baixa - III",
+      "pt": "Vida Baixa - III",
       "ru": "Низкий уровень HP III",
       "id": "HP Rendah: III",
       "th": "ค่าพลังชีวิตต่ำ - 3",
@@ -1946,8 +1978,8 @@
       "fr": "« Que mon instant final soit un hommage à la chevalerie. »",
       "pt": "Que meu ato final seja um monumento ao cavalheirismo.",
       "ru": "Моя последняя стойка станет памятником рыцарству!",
-      "id": "Biar aku tetap jadi kesatria di saat-saat terakhirku.",
-      "th": "\"ขอให้ที่พักพิงสุดท้ายของฉันเป็น อนุสาวรีย์แห่งความกล้าหาญ\"",
+      "id": "Biar aku tetap bersikap satria di saat terakhirku.",
+      "th": "\"ให้ความตายเป็นสักขีพยานแห่งความกล้าหาญของฉัน\"",
       "vi": "Ở chốn đường cùng, hiệp nghĩa hiện thân."
     }
   },
@@ -1978,7 +2010,7 @@
       "fr": "Je vous ai appris... tout ce que je savais...",
       "pt": "Ensinei a você... tudo... o que eu sabia...",
       "ru": "Для меня было честью... учить тебя...",
-      "id": "Aku sudah mengajarimu ... semua ... yang kutahu ....",
+      "id": "Aku sudah mengajarimu ... semuanya ....",
       "th": "ดูแล...และชี้แนะ...",
       "vi": "Rất vui được... thỉnh giáo..."
     }
@@ -2010,7 +2042,7 @@
       "fr": "Les flammes vives s'éteignent plus vite...",
       "pt": "As chamas mais intensas... se apagam mais cedo...",
       "ru": "Самое яркое пламя... затухает быстрее всего...",
-      "id": "Api yang paling terang ... padam paling cepat ....",
+      "id": "Api yang paling terang ... padam paling cepat ...",
       "th": "เปลวไฟนั้นกระจายตัวได้ง่าย...ฉันรู้ดี",
       "vi": "Ánh đèn dễ tắt... điều này tôi biết."
     }
@@ -2022,7 +2054,7 @@
       "jp": "戦闘不能·3",
       "ko": "전투 불능·세 번째",
       "en": "Fallen: III",
-      "de": "Ohmächtig III",
+      "de": "Ohnmächtig III",
       "es": "Derrotado (III)",
       "fr": "K.O. (3)",
       "pt": "Derrotado - III",
@@ -2042,7 +2074,7 @@
       "fr": "J'ai fait une erreur...",
       "pt": "Fiquei sem saída...",
       "ru": "Меня переиграли...",
-      "id": "Aku kalah ....",
+      "id": "Aku kalah langkah ....",
       "th": "พลั้งมือไปซะแล้ว...",
       "vi": "Sơ ý rồi..."
     }
@@ -2074,7 +2106,7 @@
       "fr": "Ce n'est rien.",
       "pt": "Um pequeno obstáculo.",
       "ru": "Мелкая неудача.",
-      "id": "Sedikit kelalaian.",
+      "id": "Hanya mundur sedikit.",
       "th": "เรื่องเล็กน้อย",
       "vi": "Không sao."
     }
@@ -2104,7 +2136,7 @@
       "de": "Ich war nicht vorsichtig.",
       "es": "Bajé la guardia.",
       "fr": "J'ai été imprudent.",
-      "pt": "Descuidei da minha defesa.",
+      "pt": "Baixei a guarda.",
       "ru": "Стоило только отвлечься...",
       "id": "Aku lengah.",
       "th": "ประมาทเกินไป",
@@ -2168,9 +2200,9 @@
       "de": "Möge das Wissen dich leiten.",
       "es": "Que el conocimiento te guíe.",
       "fr": "Que mes connaissances vous soient utiles.",
-      "pt": "Que o conhecimento oriente você.",
+      "pt": "Que o conhecimento te guie.",
       "ru": "Пусть знание ведёт тебя.",
-      "id": "Semoga pengetahuan dapat menuntunmu.",
+      "id": "Ilmu pengetahuan menuntunmu.",
       "th": "ให้ความรู้คอยนำทาง",
       "vi": "Để trí tuệ của tôi dẫn lối nhé."
     }
@@ -2235,7 +2267,7 @@
       "pt": "Pela justiça.",
       "ru": "За справедливость!",
       "id": "Demi keadilan.",
-      "th": "ทำความดีและกำจัดความชั่ว",
+      "th": "ผดุงความดีงามและขจัดความชั่วช้า",
       "vi": "Phò thiện trừ ác, nhân nghĩa làm trọng."
     }
   }

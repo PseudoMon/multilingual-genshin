@@ -1,6 +1,38 @@
 [
   {
     "title": {
+      "zhs": "初次见面…",
+      "zht": "初次見面…",
+      "jp": "初めまして…",
+      "ko": "첫 만남…",
+      "en": "Hello",
+      "de": "Schön, dich kennenzulernen.",
+      "es": "Hola...",
+      "fr": "Première rencontre...",
+      "pt": "Olá...",
+      "ru": "Привет...",
+      "id": "Halo",
+      "th": "พบกันครั้งแรก...",
+      "vi": "Lần đầu gặp mặt..."
+    },
+    "line": {
+      "zhs": "我是埃洛伊，虽然对这个世界还不太了解，但我的弓和箭随时为你所用。如果你的队伍需要我，我会倾力相助。",
+      "zht": "#我是亞蘿伊，雖然對這個世界還不太瞭解，但我的弓和箭隨時為{F#妳}{M#你}所用。如果{F#妳}{M#你}的隊伍需要我，我會傾力相助。",
+      "jp": "私はアーロイ。この世界のことはあまり詳しくないが、私の弓はきっとお前の力になる。必要な時は、いつでも呼んでくれ。",
+      "ko": "난 에일로이. 이 세상에 대해 잘 모르지만, 내 활과 화살은 언제나 널 위해 대기하고 있어. 내가 필요하다면 최선을 다해 도울게",
+      "en": "Aloy here. I don't know this world, but my arrows are sharp and my bow's ready. If your party needs help, I'll do what I can.",
+      "de": "Ich bin Aloy und obwohl ich noch nicht viel über diese Welt weiß, stehen meine Pfeile und mein Bogen immer zu deiner Verfügung. Wenn deine Truppe mich braucht, werde ich da sein und helfen.",
+      "es": "Soy Aloy. Aunque todavía no conozco muy bien este mundo, mi arco y flechas están a tu servicio en cualquier momento. No te arrepentirás de tenerme en tu equipo.",
+      "fr": "Je suis Aloy. Même si je ne connais pas ce monde, mon arc et mes flèches sont prêtes. Si ton équipe a besoin d'assistance, tu peux compter sur moi.",
+      "pt": "Sou Aloy. Não conheço este mundo, mas minhas flechas estão afiadas e meu arco está pronto. Se sua equipe precisar de ajuda, farei o que puder.",
+      "ru": "Я Элой. Хотя я ещё не очень хорошо знаю этот мир, мой лук и стрелы всегда к твоим услугам. Если твоему отряду нужна помощь, я сделаю всё возможное.",
+      "id": "Aku Aloy. Aku tidak tahu dunia ini, tapi panahku sudah kuasah dan busurku sudah siap. Kalau kamu perlu bantuan, aku akan lakukan apa yang kubisa.",
+      "th": "#ฉันคือ Aloy ถึงฉันจะไม่ค่อยรู้อะไรเกี่ยวกับโลกนี้มากนัก แต่ธนูและคันธนูของฉันก็พร้อมจะช่วย{F#เธอ}{M#นาย}เสมอ ถ้าทีมของ{F#เธอ}{M#นาย}ต้องการฉัน ฉันก็จะช่วยอย่างเต็มที่",
+      "vi": "Tôi là Aloy, tuy tôi vẫn chưa hiểu rõ về thế giới này lắm, nhưng bộ cung tên của tôi sẽ luôn đồng hành cùng bạn. Nếu như có việc gì cần giúp thì tôi sẽ luôn sẵn sàng."
+    }
+  },
+  {
+    "title": {
       "zhs": "闲聊·动身",
       "zht": "閒聊·動身",
       "jp": "世間話·体を動かす",
@@ -9,7 +41,7 @@
       "de": "Gespräch – Aufbruch",
       "es": "Charla - Movimiento",
       "fr": "Bavardage - Départ",
-      "pt": "Conversa: Se mudando",
+      "pt": "Bate-papo - Em movimento",
       "ru": "Поболтаем: В путь",
       "id": "Berbincang: Melangkah",
       "th": "แชท - -ขยับตัว",
@@ -17,7 +49,7 @@
     },
     "line": {
       "zhs": "别闲站着了，该动身了。",
-      "zht": "別呆站著了，該動身了。",
+      "zht": "別閒站著了，該動身了。",
       "jp": "ほら、突っ立ってないで、体を動かすぞ。",
       "ko": "멍하니 서 있지 말고 움직여",
       "en": "Come on. Enough standing around, let's keep moving.",
@@ -26,7 +58,7 @@
       "fr": "#Ne reste pas plant{F#ée}{M#é} là, hâtons-nous.",
       "pt": "#Vamos, chega de ficar parad{F#a}{M#o}, temos que andar.",
       "ru": "Не стойте без дела, пора в путь.",
-      "id": "Sudah cukup kita berdiam di sini. Ayo, kita melangkah!",
+      "id": "Sudah cukup, ayo bergerak.",
       "th": "อย่ามัวแต่ยืนเฉื่อยสิ ขยับตัวได้แล้ว",
       "vi": "Đừng ngồi không nữa, hành động thôi nào."
     }
@@ -58,41 +90,9 @@
       "fr": "Nous ne pouvons pas nous arrêter maintenant, il y a encore des gens qui ont besoin de notre aide.",
       "pt": "Não devemos parar agora. Ainda tem pessoas que precisam da nossa ajuda.",
       "ru": "Сейчас нельзя останавливаться. Людям нужна наша помощь.",
-      "id": "Ayo pergi. Ada yang butuh bantuan kita.",
+      "id": "Ayo pergi. Masih ada yang butuh bantuan.",
       "th": "รีบไปกันเถอะ ยังมีคนที่ต้องการความช่วยเหลือจากเราอยู่",
       "vi": "Giờ không nên nghỉ ngơi, vẫn còn có nhiều người cần chúng ta giúp đỡ lắm."
-    }
-  },
-  {
-    "title": {
-      "zhs": "初次见面…",
-      "zht": "初次見面…",
-      "jp": "初めまして…",
-      "ko": "첫 만남…",
-      "en": "Hello",
-      "de": "Schön, dich kennenzulernen.",
-      "es": "Hola...",
-      "fr": "Première rencontre...",
-      "pt": "Olá...",
-      "ru": "Привет...",
-      "id": "Halo",
-      "th": "พบกันครั้งแรก...",
-      "vi": "Lần đầu gặp mặt..."
-    },
-    "line": {
-      "zhs": "我是埃洛伊，虽然对这个世界还不太了解，但我的弓和箭随时为你所用。如果你的队伍需要我，我会倾力相助。",
-      "zht": "#我是亞蘿伊，雖然對這個世界還不太瞭解，但我的弓和箭隨時為{F#妳}{M#你}所用。如果{F#妳}{M#你}的隊伍需要我，我會傾力相助。",
-      "jp": "私はアーロイ。この世界のことはあまり詳しくないが、私の弓はきっとお前の力になる。必要な時は、いつでも呼んでくれ。",
-      "ko": "난 에일로이. 이 세상에 대해 잘 모르지만, 내 활과 화살은 언제나 널 위해 대기하고 있어. 내가 필요하다면 최선을 다해 도울게",
-      "en": "Aloy here. I don't know this world, but my arrows are sharp and my bow's ready. If your party needs help, I'll do what I can.",
-      "de": "Ich bin Aloy und obwohl ich noch nicht viel über diese Welt weiß, stehen meine Pfeile und mein Bogen immer zu deiner Verfügung. Wenn deine Truppe mich braucht, werde ich da sein und helfen.",
-      "es": "Soy Aloy. Aunque todavía no conozco muy bien este mundo, mi arco y flechas están a tu servicio en cualquier momento. No te arrepentirás de tenerme en tu equipo.",
-      "fr": "Je suis Aloy. Même si je ne connais pas ce monde, mon arc et mes flèches sont prêtes. Si ton équipe a besoin d'assistance, tu peux compter sur moi.",
-      "pt": "Sou Aloy. Não conheço este mundo, mas minhas flechas estão afiadas e meu arco está pronto. Se sua equipe precisar de ajuda, farei o que puder.",
-      "ru": "#Я Элой. Хотя я ещё не очень хорошо знаю этот мир, мой лук и стрелы всегда к твоим услугам. Ты не пожалеешь, что взял{F#а} меня в свой отряд.",
-      "id": "Aku Aloy. Aku tidak tahu tentang dunia ini, tapi anak panahku yang tajam dan busurku sudah siap. Kalau party-mu butuh bantuanku, aku akan melakukan apa yang kubisa.",
-      "th": "#ฉันคือ Aloy ถึงฉันจะไม่ค่อยรู้อะไรเกี่ยวกับโลกนี้มากนัก แต่ธนูและคันธนูของฉันก็พร้อมจะช่วย{F#เธอ}{M#นาย}เสมอ ถ้าทีมของ{F#เธอ}{M#นาย}ต้องการฉัน ฉันก็จะช่วยอย่างเต็มที่",
-      "vi": "Tôi là Aloy, tuy tôi vẫn chưa hiểu rõ về thế giới này lắm, nhưng bộ cung tên của tôi sẽ luôn đồng hành cùng bạn. Nếu như có việc gì cần giúp thì tôi sẽ luôn sẵn sàng."
     }
   },
   {
@@ -1510,7 +1510,7 @@
       "jp": "戦闘不能·3",
       "ko": "전투 불능·세 번째",
       "en": "Fallen: III",
-      "de": "Ohmächtig III",
+      "de": "Ohnmächtig III",
       "es": "Derrotada (III)",
       "fr": "K.O. (3)",
       "pt": "Derrotado - III",

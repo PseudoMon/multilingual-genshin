@@ -25,7 +25,7 @@
       "es": "#Hola, cariño, ¿eres mi nuev{F#a}{M#o} ayudante? ¿Qué? ¿Que soy una gran maga? Eso fue hace mucho tiempo, ahora solo soy una humilde bibliotecaria. Jijiji, no te preocupes, cariño, cuidaré bien de ti. Así pues...",
       "fr": "#Coucou, petit chou ! Tu t'es enfin {M#décidé}{F#décidée} à devenir mon {M#assistant}{F#assistante} ? Moi, une grande sorcière ? C'est du passé tout ça, maintenant je ne suis qu'une simple bibliothécaire et ça me va très bien. Pas d'inquiétude, je prendrai soin de toi...",
       "pt": "#Oi, fofura, você é {F#a assistente nova}{M#o assistente novo}? Ah, eu? Grande Maga? Hehe, já faz bastante tempo. Agora sou apenas uma Bibliotecária. Relaxe, querid{F#a}{M#o}, eu você cuidar bem de você. Então...",
-      "ru": "#Привет, {F#крошка}{M#сладенький}. Ты хочешь стать мо{F#ей}{M#им} нов{F#ой}{M#ым} маленьк{F#ой}{M#им} помощни{F#цей}{M#ком}? Что? Главный маг? Нет, это было очень давно, сейчас я обычный библиотекарь, хи-хи. Не волнуйся, дорогуша, я хорошо о тебе позабочусь. А теперь...",
+      "ru": "#Привет, милашка. Ты хочешь стать мо{F#ей}{M#им} нов{F#ой}{M#ым} маленьк{F#ой}{M#им} помощни{F#цей}{M#ком}? Что? Главный маг? Нет, это было очень давно, сейчас я обычный библиотекарь, хи-хи. Не волнуйся, дорогуша, я хорошо о тебе позабочусь. А теперь...",
       "id": "Hai, Cutie. Apakah kamu adalah asisten baruku? Ataukah... penyihir? Aku sudah tidak seperti dahulu, sekarang aku hanya seorang pustakawan biasa. Jangan khawatir, kakak akan menjagamu. Kalau begitu...",
       "th": "ไง เจ้าตัวน้อย เธอเป็นผู้ช่วยที่มาใหม่เหรอ? ว่าไงนะ? จอมเวท? นั่นมันเรื่องนานมาแล้วล่ะ ตอนนี้ฉันเป็นแค่ บรรณารักษ์ห้องสมุดเท่านั้นแหละ วางใจเถอะ พี่สาวจะดูแลเธอเอง ว่าแต่...",
       "vi": "Này, xin chào người bạn nhỏ, cưng là trợ lý mới à? Hả? Ma Đạo Sư đại nhân? Đó là chuyện rất lâu về trước rồi, bây giờ chị chỉ là một người quản lý thư viện mà thôi. Yên tâm đi, chị sẽ chăm sóc cho cưng. Vậy thì..."
@@ -729,7 +729,7 @@
       "es": "#¡Vamos, Razor! ¡Eso es, buen chico! Luchemos un poco para practicar. Te he encontrado {F#la compañera perfecta}{M#el compañero perfecto}. ¡Oye! ¡Vuelve aquí!",
       "fr": "Petit loup, viens par là. Aujourd'hui, tu feras un combat d'entraînement. Je t'ai même trouvé un adversaire ! Hé, mais reviens...",
       "pt": "Vamos Razor, é isso! Bom garoto! Vamos praticar um pouco de combate. Eu já encontrei o parceiro perfeito para você. Ei! Volte!",
-      "ru": "Давай, Рэйзор, вот так, хороший мальчик! Давай займёмся боевой практикой: я нашла тебе идеального партнёра. Хэй! Вернись!",
+      "ru": "Давай, Рэйзор, вот так, хороший мальчик! Давай займёмся боевой практикой: я нашла тебе идеального партнёра. Эй! Вернись!",
       "id": "Serigala kecil, ayo kemari. Hari ini ayo kita latihan perang, aku sudah temukan teman latihan untukmu. Eh? Kok malah lari sih, dasar...",
       "th": "เจ้า Razor น้อย มา ๆ มาทางนี้ วันนี้มาฝึกการต่อสู้กันนะ ฉันหาคู่ต่อสู้ไว้ให้เธอเรียบร้อยแล้ว อ้าว? ทำไมวิ่งหนีไปซะแล้ว กลับมาเดี๋ยวนี้นะ!",
       "vi": "Sói nhỏ, đến đây, qua bên này. Hôm nay sẽ luyện tập thực chiến, chị đã tìm thấy đối thủ cho cưng rồi này. Hả? Sao lại chạy rồi, thật là..."
@@ -793,7 +793,7 @@
       "es": "¿Mona? Parece ser una excelente maga, pero no formo parte de su aquelarre. Siempre están investigando los Irminsul y organizando fiestas de té muy formales. No es algo que me guste mucho...",
       "fr": "Mona ? Elle a l'air d'une excellente mage, mais je ne fais pas partie de l'Hexenzirkel. L'inspection d'arbres anciens ou les réceptions de thé formelles n'ont jamais été mon truc...",
       "pt": "Mona? Parece ser uma maga excelente. Mas eu não faço parte da Sociedade das Feiticeiras. Não me parece uma boa ideia de explorar Árvore Petrificada ou organizar reuniões.",
-      "ru": "Астролог Мона? Я думаю, она хороший маг, но я сама не являюсь частью их ведьминого шабаша. Исследования древнего древа, церемонии чаепития, меня всё это не интересует.",
+      "ru": "Астролог Мона? Я думаю, она хороший маг, но я сама не из Ведьминого шабаша. Исследования древнего древа, церемонии чаепития, меня всё это не интересует.",
       "id": "Mona? Sepertinya dia adalah seorang perempuan penyihir yang sangat hebat. Tapi aku bukan anggota Hexenzirkel. Mengamati pohon-pohon tua dan besar, mengadakan rapat sambil minum teh... kedengarannya sangat merepotkan.",
       "th": "Mona? เธอเป็นจอมเวทสาวที่เก่งคนนึง เลยล่ะ แต่ฉันไม่ได้เป็นสมาชิกสมาคม Hexenzirkel ของเหล่าแม่มดสาวหรอกนะ การสังเกตต้นไม้โบราณ การจัดปาร์ตี้น้ำชา แค่ฟังก็ยุ่งยากแล้ว",
       "vi": "Mona? Có vẻ như là một Ma Đạo Sư ưu tú. Nhưng chị không phải là thành viên trong \"Hội Ma Nữ\" của bọn họ. Khảo sát cây cổ thụ, tổ chức tiệc trà, nghe thôi đã thấy rắc rối rồi!"
@@ -1049,7 +1049,7 @@
       "es": "¿Qué? ¿Quieres aprender algo de magia de la Academia de Sumeru? Me temo que ahora mismo sería demasiado complicado para ti... Aunque supongo que podría enseñarte lo más básico. Toma, comienza por leer la «Guía para principiantes». Es muy corta, solo unas 800 páginas.",
       "fr": "Pardon ? Tu voudrais apprendre la magie enseignée à l'Académie de Sumeru ? Ce serait un peu difficile pour toi... Si tu insistes, commence par cette introduction de 800 pages seulement.",
       "pt": "O quê? Você quer aprender magia de Academia de Sumeru? Talvez seja um pouco difícil para você agora. Você quer aprender pelo menos conhecimento básico? Ok, bom! Então leia primeiro esta \"Guia\", que contém apenas 800 páginas.",
-      "ru": "Что? Ты хочешь обучиться магии академии Сумеру? Боюсь, пока что она тебе не по силам... Хотя, я думаю, знать некоторые основы тебе не повредит. Вот, начни с этой книжки для начинающих, тут всего 800 страниц.",
+      "ru": "Что? Ты хочешь обучиться магии академии Сумеру? Боюсь, пока что она тебе не по силам... Хотя, я думаю, знать некоторые основы тебе не повредит. Вот, начни с этой книжки для начинающих, тут всего восемьсот страниц.",
       "id": "Apa? Ingin belajar ilmu sihir Sumeru Academia? Tapi mungkin kamu akan menanggung beban yang lebih berat karenanya, bagaimana? Atau kamu cukup tahu sedikit dulu saja tentang dasar-dasarnya? Kalau mau, silakan kamu baca dulu buku \"Magic Guide\" ini, hanya terdapat sekitar 800 halaman saja.",
       "th": "ว่าไงนะ? อยากเรียนรู้เวทมนตร์ของสถาบัน Sumeru? ฉันเกรงว่าตอนนี้มันน่าจะหนักไป สำหรับเธอนะ... หา? อยากเรียนรู้วิชาพื้นฐานก็ได้ งั้นเหรอ? งั้นอ่าน \"บทนำ\" เล่มนี้ให้จบก่อนสิ มีแค่ 800 หน้าเอง",
       "vi": "Gì cơ? Muốn học ma thuật của Giáo Viện Sumeru? Nhưng đối với cưng bây giờ có chút nặng nề... Hả? Muốn học những kiến thức sơ đẳng? Vậy trước tiên hãy đọc hết cuốn \"Tóm Tắt\" này đi, chỉ có hơn 800 trang thôi."
@@ -1113,7 +1113,7 @@
       "es": "Oye, cariño, ¿te gustaría probar una de mis pociones mágicas? Es imposible saber el efecto que tendrá hasta que la pruebes, así que... ¡luego no digas que no te advertí!",
       "fr": "Petit chou, ça te dit de choisir une potion au hasard et de la boire ? Tu ne dois pas connaître leurs effets. Ça serait moins drôle sinon, héhé.",
       "pt": "Oi, fofo. Você também quer provar uma poção mágica? Ninguém sabe o que vai acontecer antes de bebê-la.",
-      "ru": "Эй, дорогуша, хочешь попробовать одно из моих зелий? Мы не узнаем его эффекта, пока ты его не попробуешь, хи-хи.",
+      "ru": "Эй, дорогуша, хочешь попробовать одно из моих зелий? Правда никто не знает, что с тобой станет... Не говори, что я не предупреждала!",
       "id": "Hai, Cutie. Apa kamu mau memilih sebuah botol dari ramuan ajaib ini? Kalau belum meminumnya, mana tahu efeknya seperti apa? Hehehe.",
       "th": "เจ้าตัวเล็ก อยากมาลอง น้ำยาโพชั่นของพี่สาวสักขวดมั้ย? ก่อนดื่มจะไม่มีทางรู้เลยว่า ผลลัพธ์จะเป็นยังไง ฮะฮะ",
       "vi": "Đứa trẻ đáng yêu, cưng có muốn chọn một bình thuốc không? Trước khi uống sẽ hoàn toàn không biết sẽ có hiệu quả gì, hì hì."
@@ -1369,7 +1369,7 @@
       "es": "Ya traté de persuadirte de todas las formas posibles... *Suspira* Hazlo a tu manera, cariño. Llegados a este punto, no tiene sentido seguir fingiendo... Incluso un Hilichurl lo vería. Bien, que así sea: déjame presentarte a la verdadera Bruja de las Rosas.",
       "fr": "Il semblerait que tu voies à travers ma mascarade, petit chou. À ce stade, même un Brutocollinus saurait me démaquer, alors il est temps que je te présente la véritable Sorcière à la rose...",
       "pt": "Eu já tentei te convencer de todas as maneiras possíveis... *Suspiro* Faça do seu jeito, fofinha. Eu não posso mais continuar fingindo neste momento - até um Hilichurl veria que estou mentindo. Deixe-me só mostrar do que a Bruxa das Rosas é capaz.",
-      "ru": "Я пыталась отговорить тебя всеми доступными способами... Эх, поступай, как знаешь, зайка. Я больше не могу это скрывать, тут даже хиличурл бы заметил. Итак, позволь мне познакомить тебя с истинной пурпурной ведьмой.",
+      "ru": "Я пыталась отговорить тебя всеми доступными способами... Эх, поступай, как знаешь, милашка. Я больше не могу это скрывать, тут даже хиличурл бы заметил. Итак, позволь мне познакомить тебя с истинной Пурпурной ведьмой.",
       "id": "Jelas-jelas aku sudah membujukmu dengan berbagai cara loh, Cutie. Aku sudah tidak bisa berpura-pura lagi, seekor Hilichurl pun bisa melihat bahwa aku sedang berbohong. Kalau begini, lebih baik aku menunjukkan seorang \"Rose Witch\" yang sebenarnya.",
       "th": "ไม่ว่าจะเกลี้ยกล่อมยังไง ก็ไม่ฟังสินะ... เธอนี่ดื้อจริง ๆ เลย มาถึงขั้นนี้แล้วจะแกล้งทำ เป็นไม่สนใจก็ไม่ได้แล้วล่ะ แม้แต่พวก Hilichurl ก็คงดูออกว่าฉันโกหก ถ้างั้นก็ขอเปิดเผยตัวตน ที่แท้จริงของแม่มดกุหลาบ ให้เธอรู้จักละกัน",
       "vi": "Rõ ràng là chị đã dùng mọi cách để thuyết phục cưng rồi... thật là... đứa trẻ đáng yêu. Đến mức này rồi còn giả vờ thờ ơ, e rằng đến Hilichurl cũng có thể thấy rằng chị đang nói dối. Vậy thì phải để cho cưng thấy sự thật của Ma Nữ Tường Vi thôi."
@@ -1401,7 +1401,7 @@
       "es": "Jejeje...",
       "fr": "Hu !",
       "pt": "Huh!",
-      "ru": "Ух!",
+      "ru": "Хи-хи-хи!",
       "id": "Huh!",
       "th": "หึหึ",
       "vi": "Huh!"
@@ -1561,7 +1561,7 @@
       "es": "Jeje...",
       "fr": "Héhé...",
       "pt": "...Hehe...",
-      "ru": "Хи-хи (дразнится)",
+      "ru": "Хе-хе...",
       "id": "Hehe~ (meledek)",
       "th": "แหะ แหะ~",
       "vi": "Hee hee"
@@ -1926,7 +1926,7 @@
       "jp": "戦闘不能·3",
       "ko": "전투 불능·세 번째",
       "en": "Fallen: III",
-      "de": "Ohmächtig III",
+      "de": "Ohnmächtig III",
       "es": "Derrotada (III)",
       "fr": "K.O. (3)",
       "pt": "Derrotado - III",
@@ -2073,7 +2073,7 @@
       "es": "Te vigilaré.",
       "fr": "Je veillerai sur toi.",
       "pt": "Vou ficar de olho em você.",
-      "ru": "Я слежу за тобой.",
+      "ru": "Я присмотрю за тобой.",
       "id": "Aku akan mengawasimu.",
       "th": "ฉันจะคอยดูนะ",
       "vi": "Chị sẽ trông chừng cưng."
@@ -2105,7 +2105,7 @@
       "es": "#Oh, ¿vamos a salir junt{F#as}{M#os}?",
       "fr": "Tu m'emmènes avec toi ?",
       "pt": "Ahhh, nós vamos sair?",
-      "ru": "Ой, мы идем гулять, да?",
+      "ru": "Ой, мы идём гулять, да?",
       "id": "Ooh, kamu mau mengajakku keluar?",
       "th": "จะออกไปแล้วเหรอ?",
       "vi": "Muốn ra ngoài sao?"

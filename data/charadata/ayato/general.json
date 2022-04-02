@@ -1,0 +1,62 @@
+{
+  "name": {
+    "zhs": "神里绫人",
+    "zht": "神里綾人",
+    "jp": "神里綾人",
+    "ko": "카미사토 아야토",
+    "en": "Kamisato Ayato",
+    "de": "Kamisato Ayato",
+    "es": "Kamisato Ayato",
+    "fr": "Kamisato Ayato",
+    "pt": "Kamisato Ayato",
+    "ru": "Аято",
+    "id": "Kamisato Ayato",
+    "th": "Kamisato Ayato",
+    "vi": "Kamisato Ayato"
+  },
+  "title": {
+    "zhs": "磐祭叶守",
+    "zht": "磐祭葉守",
+    "jp": "磐祭葉守",
+    "ko": "잎을 수호하는 반석",
+    "en": "Pillar of Fortitude",
+    "de": "Säule der Stärke",
+    "es": "El Vigoroso Estratega",
+    "fr": "Pilier de vaillance",
+    "pt": "Pilar da Fortaleza",
+    "ru": "Оплот стойкости",
+    "id": "Pillar of Fortitude",
+    "th": "เล่ห์เหลี่ยมแห่งเกียรติยศ",
+    "vi": "Trụ Cột Vững Vàng"
+  },
+  "description": {
+    "zhs": "社奉行神里家年轻有为的现任家主，为人温雅有礼，处事颇有手段。",
+    "zht": "社奉行神里家年輕有為的現任家主，為人溫雅有禮，處事頗有手段。",
+    "jp": "若く有能な社奉行神里家の現当主。穏やかで礼儀正しく、物事をそつなく処理する。",
+    "ko": "야시로 봉행 카미사토 가문의 현 가주. 온화하고 예의 바르며, 수완이 탁월하다",
+    "en": "The young but highly accomplished head of the Yashiro Commission's Kamisato Clan. Cultured and polite, he is a man of many ways and means.",
+    "de": "Das junge und talentierte derzeitige Oberhaupt der Familie Kamisato der Yashiro-Verwaltung ist ein sanfter und höflicher Mann, der seine eigenen Mittel und Wege hat.",
+    "es": "Joven promesa y actual líder del clan Kamisato de la Comisión Yashiro. Refinado y educado, siempre tiene una forma de solucionar las cosas.",
+    "fr": "Le jeune, mais néanmoins très talentueux, chef du Clan Kamisato de la Commission culturelle. Cultivé et poli, c'est un homme aux multiples facettes.",
+    "pt": "O jovem promissor e chefe atual da Comissão Yashiro, é culto e educado, e sempre tem uma forma de fazer as coisas.",
+    "ru": "Молодой и всесторонне одарённый глава комиссии Ясиро из клана Камисато. Он вежливый и предупредительный человек, у которого для любой проблемы найдётся множество решений.",
+    "id": "Kepala Klan Kamisato dari Yashiro Commission yang masih muda namun sangat berprestasi. Sangat berbudaya dan sopan, dia adalah seorang pria yang berbudi luhur dan mempunyai banyak cara.",
+    "th": "ผู้นำตระกูล Kamisato แห่งสำนัก Yashiro ชายหนุ่มผู้มากความสามารถ ซึ่งปฏิบัติต่อผู้คนด้วยความสุภาพอ่อนโยน และมักจะจัดการเรื่องต่าง ๆ อย่างมีชั้นเชิง",
+    "vi": "Gia chủ đương nhiệm tuổi trẻ tài cao của nhà Kamisato Hiệp Hội Yashiro, đối nhân xử thế lễ độ ôn hòa, nhưng lại có khá nhiều thủ đoạn để xử lý công việc."
+  },
+  "constellation": {
+    "zhs": "神守柏座",
+    "zht": "神守柏座",
+    "jp": "神守柏座",
+    "ko": "수호의 떡갈나무자리",
+    "en": "Cypressus Custos",
+    "de": "Cypressus Custos",
+    "es": "Cypressus Custos",
+    "fr": "Cypressus Custos",
+    "pt": "Cypressus Custos",
+    "ru": "Оберегающий Кипарис",
+    "id": "Cypressus Custos",
+    "th": "Cypressus Custos",
+    "vi": "Cung Thần Thủ Bách"
+  }
+}

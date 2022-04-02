@@ -303,7 +303,7 @@
         "pt": "Quando a Vida estiver abaixo de 70%, a Taxa Crítica aumenta 24%.",
         "ru": "Увеличивает шанс крит. попадания на 24% при HP ниже 70%.",
         "id": "Saat HP kurang dari 70%, CRIT Rate meningkat 24%.",
-        "th": "เมื่อพลังชีวิตต่ำกว่า 70% โอกาสการเกิดอัตราคริ จะเพิ่มขึ้นอีก 24%",
+        "th": "เมื่อพลังชีวิตต่ำกว่า 70% อัตราคริจะเพิ่มขึ้นอีก 24%",
         "vi": "Khi HP dưới 70%, tỷ lệ bạo kích tăng thêm 24%."
       }
     ],
@@ -472,7 +472,7 @@
         "es": "Daño de Habilidad Elemental +20%.",
         "fr": "Augmente les DGT infligés par la compétence élémentaire de 20 %.",
         "pt": "Aumenta o dano da Habilidade Elemental em 20%.",
-        "ru": "Увеличивает урон элементальных навыков на 20%.",
+        "ru": "Увеличивает урон элементального навыка на 20%.",
         "id": "Meningkatkan 20% DMG Elemental Skill.",
         "th": "เพิ่มความเสียหายของสกิลธาตุขึ้น 20%",
         "vi": "Sát thương kỹ năng Nguyên Tố tạo thành tăng 20%."
@@ -1349,7 +1349,7 @@
         "zhs": "超载、感电、超导反应造成的伤害提升40%。触发这些元素反应时，元素战技冷却时间减少1秒。该效果每0.8秒最多触发一次。",
         "zht": "超載、感電、超導反應造成的傷害提升40%。觸發這些元素反應時，元素戰技冷卻時間減少1秒。該效果每0.8秒最多觸發一次。",
         "jp": "過負荷、感電、超電導反応によるダメージ+40%。それらの元素反応を起こすと、元素スキルのクールタイム-1秒。0.8秒毎に最大1回のみ発動可能。",
-        "ko": "과부하, 감전, 초전도 반응이 주는 피해가 40% 증가한다. 원소 반응 발동 시 원소전투 스킬의 재사용 대기시간이 1초 줄어든다. 해당 효과는 0.8초마다 1번 발동한다",
+        "ko": "과부하, 감전, 초전도 반응이 주는 피해가 40% 증가한다. 해당 원소 반응 발동 시 원소전투 스킬의 재사용 대기시간이 1초 줄어든다. 해당 효과는 0.8초마다 1번 발동한다",
         "en": "Increases damage caused by Overloaded, Electro-Charged and Superconduct by 40%. Triggering such effects decreases Elemental Skill CD by 1s. Can only occur once every 0.8s.",
         "de": "Erhöht den mit den Effekten „Überladen“, „Unter Strom“ und „Supraleiter“ verursachten Schaden um 40 %. Verringert die Abklingzeit der Elementarfähigkeit beim Auslösen dieser Elementareffekte um 1 s. 0,8 s Abklingzeit.",
         "es": "Aumenta el daño infligido por Sobrecarga, Electrocargado y Superconductor en un 40%. Al activar alguna de estas reacciones, disminuye en 1 s el TdE de la Habilidad Elemental. Solo puede ocurrir una vez cada 0.8 s.",
@@ -1415,7 +1415,7 @@
         "en": "Increases Overloaded and Burning DMG by 40%. Increases Vaporize and Melt DMG by 15%. Using Elemental Skill increases the 2-Piece Set Bonus by 50% of its starting value for 10s. Max 3 stacks.",
         "de": "Erhöht den mit den Reaktionen „Überladen“ und „In Flammen“ verursachten Schaden um 40 % und den von den Reaktionen „Verdampfen“ und „Schmelzen“ betroffenen Gegnern zugefügten Schaden um 15 %. Erhöht den Effekt eines 2er-Sets bei Anwendung von Elementarfähigkeiten 10 s lang um 50 %, 3-fach stapelbar.",
         "es": "Aumenta el daño causado por Sobrecarga y Quemadura en un 40%, y el de Vaporización y Derretido en un 15%. El uso de una Habilidad Elemental aumenta los efectos del conjunto de 2 piezas en un 50% durante 10 s. Puede acumularse hasta un máximo de 3 veces.",
-        "fr": "Augmente les DGT infligés par Surcharge et Brûlure de 40 % et ceux d'Évaporation et de Fonte de 15 %. L'utilisation d'une compétence élémentaire augmente pendant 10 s l'effet du set de 2 pièces de 50 % ; cet effet peut être cumulé 3 fois au maximum.",
+        "fr": "Augmente les DGT infligés par Surcharge et Brûlure de 40 % et ceux d'Évaporation et de Fonte de 15 %. L'utilisation d'une compétence élémentaire augmente pendant 10 s l'effet du set de 2 pièces de 50 %. Cet effet peut être cumulé 3 fois maximum.",
         "pt": "Aumenta o dano causado por Sobrecarga e Queimadura em 40%, aumenta o dano causado pela Vaporização e Fusão em 15%. Ao usar a Habilidade Elemental aumenta os efeitos do Conjunto de 2 Peças em 50% por 10s. Pode acumular até 3x.",
         "ru": "Увеличивает урон статусов Перегрузка и Горение на 40%, а урон статусов Пар и Таяние - на 15%. Использование элементального навыка увеличивает эффекты набора из двух вещей на 50% в течение 10 сек. Может складываться до 3 раз.",
         "id": "Meningkatkan 40% DMG Overloaded dan Burning. Meningkatkan 15% DMG Vaporize dan Melt. Setelah menggunakan Elemental Skill, meningkatkan 50% efek 2-Piece Set selama 10 detik. Maksimum 3 lapis.",
@@ -1811,7 +1811,7 @@
         "en": "Upon obtaining an Elemental Shard created through a Crystallize Reaction, all party members gain a 35% DMG Bonus for that particular element for 10s. Only one form of Elemental DMG Bonus can be gained in this manner at any one time.",
         "de": "Erhöht beim Erschaffen von Splittern durch eine Kristallisationsreaktion den mit dem jeweiligen Element verursachen Schaden aller Truppenmitglieder 10 s lang um 35 %. Zu einem Zeitpunkt kann nur ein SCH-Bonus aufgrund dieses Effekts bestehen.",
         "es": "Al obtener un cristal creado a través de la reacción de Cristalización, todos los miembros del equipo obtienen durante 10 s un 35% de Bono de Daño Elemental del elemento que causó dicha reacción. Solo se puede obtener un tipo de Bono de Daño Elemental a la vez.",
-        "fr": "Lorsque vous obtenez un cristal issu d'une Cristallisation, tous les personnages de l'équipe reçoivent un bonus de DGT du second élément de la réaction de 35 % pendant 10 s. Cet effet ne peut s'appliquer qu'à un seul élément à la fois.",
+        "fr": "Lorsque vous obtenez un cristal issu d'une Cristallisation, tous les personnages de l'équipe bénéficient d'un bonus de DGT du second élément de la réaction de 35 % pendant 10 s. Cet effet ne peut s'appliquer qu'à un seul élément à la fois.",
         "pt": "Ao obter um Fragmento Elemental por meio de uma Reação de Cristalização, todos os personagens na equipe ganham 35% de DMG para esse elemento em particular por 10s. Somente uma forma de Dano Elemental pode ser obtida dessa maneira a qualquer momento.",
         "ru": "Подобранный элементальный осколок, образованный реакцией Кристалл, увеличивает бонус элементального урона соответствующего элемента всех членов отряда на 35% в течение 10 сек. Одновременно можно иметь бонус урона только одного элемента.",
         "id": "Saat memperoleh Elemental Shard yang terbentuk dari Reaksi Elemental Crystallize, seluruh anggota party memperoleh 35% peningkatan Elemental DMG terhadap elemen tersebut selama 10 detik. Hanya satu jenis Elemental DMG dapat diperoleh dengan cara ini.",
@@ -2086,7 +2086,7 @@
       "zhs": "追忆之注连",
       "zht": "追憶之注連",
       "jp": "追憶のしめ縄",
-      "ko": "추억의 시메카자리",
+      "ko": "추억의 시메나와",
       "en": "Shimenawa's Reminiscence",
       "de": "Gedenken an Shimenawa",
       "es": "Reminiscencia de la Purificación",
@@ -2316,5 +2316,129 @@
       }
     ],
     "imgid": "ocean-hued_clam_flower"
+  },
+  {
+    "SetId": 15023,
+    "ContainsList": [
+      97442,
+      97422,
+      97452,
+      97412,
+      97432
+    ],
+    "SetNeedNum": [
+      2,
+      4
+    ],
+    "name": {
+      "zhs": "辰砂往生录",
+      "zht": "辰砂往生錄",
+      "jp": "辰砂往生録",
+      "ko": "진사 왕생록",
+      "en": "Vermillion Hereafter",
+      "de": "Vergangenheit des Zinnobers",
+      "es": "Deceso del Cinabrio",
+      "fr": "Au-delà cinabrin",
+      "pt": "Além-vida Cinábrio",
+      "ru": "Киноварное загробье",
+      "id": "Vermillion Hereafter",
+      "th": "Vermillion Hereafter",
+      "vi": "Thần Sa Vãng Sinh Lục"
+    },
+    "descriptions": [
+      {
+        "zhs": "攻击力提高18%。",
+        "zht": "攻擊力提高18%。",
+        "jp": "攻撃力+18%。",
+        "ko": "공격력+18%",
+        "en": "ATK +18%.",
+        "de": "Erhöht den ANG um 18 %.",
+        "es": "ATQ +18%.",
+        "fr": "Augmente l'ATQ de 18 %.",
+        "pt": "ATQ +18%.",
+        "ru": "Увеличивает силу атаки на 18%.",
+        "id": "ATK +18%.",
+        "th": "เพิ่มพลังโจมตี 18%",
+        "vi": "Tấn công tăng 18%"
+      },
+      {
+        "zhs": "施放元素爆发后，将产生持续16秒的「潜光」效果：攻击力提升8%；并在角色的生命值降低时，攻击力进一步提升10%，至多通过这种方式提升4次，每0.8秒至多触发一次。「潜光」效果将在角色退场时消失；持续期间再次施放元素爆发，将移除原有的「潜光」。",
+        "zht": "施放元素爆發後，將產生持續16秒的「潛光」效果：攻擊力提升8%；並在角色的生命值降低時，攻擊力進一步提升10%，至多依此方式提升4次，每0.8秒至多觸發一次。「潛光」效果將在角色退場時消失；持續期間再次施放元素爆發，將移除原有的「潛光」。",
+        "jp": "元素爆発を発動すると、継続時間16秒の「潜光」効果が発動する。「潜光」：攻撃力+8%、キャラクターがHPを失うたびに攻撃力がさらに10%アップする。HPの損失による攻撃力アップ効果は0.8秒毎に1回のみ発動でき、最大4回重ね掛けできる。「潜光」効果はキャラクターが戦闘不能、または退場する時に解除される。「潜光」効果の継続時間中に再び元素爆発を発動すると、既存の「潜光」効果が先にクリアされる。",
+        "ko": "원소폭발 시전 후 16초 동안 「숨겨진 빛」 효과가 생성되고, 공격력이 8% 증가한다. 캐릭터 HP가 감소할 때 공격력이 10% 더 증가한다. 이러한 방식으로 최대 4회 증가할 수 있으며, 0.8초마다 1회 발동한다. 「숨겨진 빛」 효과는 캐릭터 퇴장 시 사라진다. 지속 시간 동안 다시 원소폭발 발동 시 기존의 「숨겨진 빛」이 사라진다",
+        "en": "After using an Elemental Burst, this character will gain the Nascent Light effect, increasing their ATK by 8% for 16s. When the character's HP decreases, their ATK will further increase by 10%. This further increase can occur this way a maximum of 4 times. This effect can be triggered once every 0.8s. Nascent Light will be dispelled when the character leaves the field. If an Elemental Burst is used again during the duration of Nascent Light, the original Nascent Light will be dispelled.",
+        "de": "Verleiht Figuren nach Anwendung von Spezialfähigkeiten den 16 s anhaltenden Effekt „Schleichlicht“: Erhöht den ANG der jeweiligen Figur anfänglich um 8 %. Erhöht den ANG der Figur bei jedem LP-Verlust zusätzlich um 10 %, 0,8 s Abklingzeit. 4 ANG-Boni auf diese Weise möglich. Beendet den Effekt „Schleichlicht“ beim Auswechseln der Figur. Entfernt bei erneuter Anwendung der Spezialfähigkeit während der Wirkungsdauer von „Schleichlicht“ den bisherigen Effekt „Schleichlicht“ vollständig.",
+        "es": "#Al usar la Habilidad Definitiva, obtienes el efecto de “destello emergente” durante 16{NON_BREAK_SPACE}s, el cual aumenta el ATQ en un 8% y, además, hace que cada vez que el personaje pierda Vida, su ATQ aumente en un 10% adicional. Este efecto solo puede aumentar el ATQ un máximo de 4 veces de esta manera y activarse una vez cada 0.8 s. Los efectos de destello emergente se disiparán si el personaje es retirado de combate. Si el personaje vuelve a usar la Habilidad Definitiva mientras dicho efecto está activo, el destello emergente original también se disipará.",
+        "fr": "Lorsqu'un personnage utilise un déchaînement élémentaire, il gagne un effet de Lumière latente pendant 16 s, augmentant son ATQ de 8 %, puis de 10 % supplémentaires à chaque fois que ses PV diminuent. Cette augmentation supplémentaire peut être cumulée 4 fois maximum et déclenchée une fois toutes les 0,8 s. L'effet de Lumière latente cesse lorsque le personnage quitte le champ de bataille. Si le personnage utilise à nouveau son déchaînement élémentaire alors que la Lumière latente est en effet, l'effet original de Lumière latente est dissipé.",
+        "pt": "Depois do Supremo ser usado, será desencadeado o efeito de \"Luz Nascente\" por 16s: o ATQ será aumentado em 8% e quando a Vida do personagem diminuir, o ATQ aumentará mais 10%. Esse aumento pode ocorrer desta forma no máximo 4 vezes, e pode ser desencadeado 1 vez a cada 0.8s. O efeito de \"Luz Nascente\" desaparece quando o personagem sai do campo de batalha. Quando o personagem lança novamente o Supremo durante o efeito, o efeito original de \"Luz Nascente\" será removido.",
+        "ru": "После активации взрыва стихии на 16 сек. создаёт Скрытое сияние, которое повышает силу атаки на 8%. Сила атаки персонажа увеличивается ещё на 10%, когда он теряет HP. Этот эффект может возникнуть максимум 4 раза и не чаще, чем раз в 0,8 сек. Скрытое сияние исчезает, когда персонаж покидает поле боя. При повторной активации взрыва стихии существующее Скрытое сияние снимается.",
+        "id": "Setelah melancarkan Elemental Burst, Karakter tersebut akan mendapatkan efek Nascent Light yang akan meningkatkan 8% ATK-nya selama 16 detik. Saat HP Karakter tersebut berkurang, akan meningkatkan lagi 10% ATK-nya. Peningkatan yang bisa didapat dengan cara ini maksimum 4 kali. Efek dapat terpicu setiap 0,8 detik. Nascent Light akan hilang saat Karakter meninggalkan medan pertempuran. Jika Elemental Burst dilancarkan lagi saat durasi efeknya masih ada, maka efek Nascent Light awal akan hilang.",
+        "th": "หลังจากปล่อยท่าไม้ตาย จะเกิดเอฟเฟกต์ Nascent Light เป็นเวลา 16 วินาที: พลังโจมตีเพิ่มขึ้น 8%; และเมื่อพลังชีวิตของตัวละครลดต่ำลง พลังโจมตีจะเพิ่มขึ้นไปอีก 10% โดยจะเพิ่มด้วยวิธีนี้ได้มากสุด 4 ครั้ง และในทุก 0.8 วินาที จะเกิดขึ้นได้มากสุดหนึ่งครั้ง เอฟเฟกต์ Nascent Light จะหายไปเมื่อตัวละครออกจากการต่อสู้; ในระหว่างช่วงเวลาต่อเนื่อง การปล่อยท่าไม้ตายอีกครั้ง จะเป็นการล้างเอฟเฟกต์ Nascent Light ที่มีอยู่เดิม",
+        "vi": "Sau khi thi triển kỹ năng nộ, sẽ sinh ra hiệu quả \"Ánh Sáng Ngầm\" duy trì 16s: Tăng 8% tấn công; đồng thời khi nhân vật bị giảm HP, sẽ tiếp tục tăng 10% tấn công, tối đa tăng 4 lần bằng cách này, mỗi 0.8s tối đa kích hoạt 1 lần. Hiệu quả \"Ánh Sáng Ngầm\" sẽ biến mất khi nhân vật rời trận; thi triển kỹ năng nộ lần nữa khi đang trong thời gian duy trì, sẽ xóa \"Ánh Sáng Ngầm\" đã có."
+      }
+    ],
+    "imgid": "vermillion_hereafter_flower"
+  },
+  {
+    "SetId": 15024,
+    "ContainsList": [
+      98442,
+      98422,
+      98452,
+      98412,
+      98432
+    ],
+    "SetNeedNum": [
+      2,
+      4
+    ],
+    "name": {
+      "zhs": "来歆余响",
+      "zht": "來歆餘響",
+      "jp": "来歆の余響",
+      "ko": "제사의 여운",
+      "en": "Echoes of an Offering",
+      "de": "Echo des Opferfests",
+      "es": "Eco del Sacrificio",
+      "fr": "Échos d'une offrande",
+      "pt": "Eco do Sacrifício",
+      "ru": "Отголоски подношения",
+      "id": "Echoes of an Offering",
+      "th": "Echoes of an Offering",
+      "vi": "Dư Âm Tế Lễ"
+    },
+    "descriptions": [
+      {
+        "zhs": "攻击力提高18%。",
+        "zht": "攻擊力提高18%。",
+        "jp": "攻撃力+18%。",
+        "ko": "공격력+18%",
+        "en": "ATK +18%.",
+        "de": "Erhöht den ANG um 18 %.",
+        "es": "ATQ +18%.",
+        "fr": "Augmente l'ATQ de 18 %.",
+        "pt": "ATQ +18%.",
+        "ru": "Увеличивает силу атаки на 18%.",
+        "id": "ATK +18%.",
+        "th": "เพิ่มพลังโจมตี 18%",
+        "vi": "Tấn công tăng 18%"
+      },
+      {
+        "zhs": "普通攻击命中敌人时，有36%概率触发「幽谷祝祀」：普通攻击造成的伤害提高，伤害提高值为攻击力的70%，该效果将在普通攻击造成伤害后的0.05秒后清除。普通攻击未触发「幽谷祝祀」时，会使下次触发概率提升20%；0.2秒内至多判定1次触发与否。",
+        "zht": "普通攻擊命中敵人時，有36%機率觸發「幽谷祝祀」：普通攻擊造成的傷害提高，傷害提高值為攻擊力的70%，該效果將在普通攻擊造成傷害後的0.05秒後清除。普通攻擊未觸發「幽谷祝祀」時，會使下次觸發機率提升20%；0.2秒內至多判定1次觸發與否。",
+        "jp": "通常攻撃が敵に命中すると、36%の確率で「幽谷祭祀」が発動する。「幽谷祭祀」：通常攻撃ダメージが攻撃力70%分アップする。この効果は通常攻撃でダメージを与えた0.05秒後にクリアされる。通常攻撃後に「幽谷祭祀」が発動しなかった場合、次回の発動確率+20%。発動判定は0.2秒毎に1回のみ行われる。",
+        "ko": "일반 공격이 적 명중 시, 36%의 확률로 「유곡의 축사」를 발동한다. 「유곡의 축사」: 일반 공격으로 가하는 피해가 공격력의 70%만큼 증가한다. 해당 효과는 일반 공격으로 피해를 가한 다음 0.05초 후에 사라진다. 일반 공격으로 「유곡의 축사」가 발동되지 않을 때, 다음 공격에서 발동될 확률이 20% 증가한다. 0.2초 내 최대 1회 발동 여부를 판정한다",
+        "en": "When Normal Attacks hit opponents, there is a 36% chance that it will trigger Valley Rite, which will increase Normal Attack DMG by 70% of ATK. This effect will be dispelled 0.05s after a Normal Attack deals DMG. If a Normal Attack fails to trigger Valley Rite, the odds of it triggering the next time will increase by 20%. This trigger can occur once every 0.2s.",
+        "de": "Löst beim Treffen von Gegnern mit Standardangriffen mit einer Wahrscheinlichkeit von 36 % „Talritual“ aus: Erhöht den mit Standardangriffen verursachten Schaden um 70 % ANG. Erlischt 0,05 s nach dem Verursachen von Schaden mit Standardangriffen. Erhöht, wenn der Effekt bei einem Standardangriff nicht ausgelöst wird, die Chance, dass er beim nächsten Mal ausgelöst wird, um 20 %, 0,2 s Abklingzeit.",
+        "es": "#Al golpear a un enemigo con un Ataque Normal, hay una probabilidad del 36% de activar el efecto de “ritual del valle”, el cual aumenta el daño de Ataque Normal en una cantidad equivalente al 70% del ATQ. Este efecto se anula 0.05 s después de infligir daño con un Ataque Normal. Si dicho ataque no activa ritual del valle, la probabilidad de activarlo con el siguiente golpe de Ataque Normal aumenta en un 20%. Esta activación solo puede ocurrir una vez cada 0.2{NON_BREAK_SPACE}s.",
+        "fr": "En touchant un ennemi, les attaques normales ont 36 % de chances de déclencher un effet de Rituel de la vallée, augmentant les DGT d'attaque normale d'une valeur équivalant à 70 % de l'ATQ. Cet effet sera dissipé 0,05 s après avoir infligé des DGT avec une attaque normale. Chaque attaque normale ne déclenchant pas l'effet augmentera les chances de le déclencher la prochaine fois de 20 %. Cet effet peut être déclenché une fois toutes les 0,2 s.",
+        "pt": "Quando o Ataque Normal atinge um inimigo, tem 36% de chance de ativar o Rito do Vale: o Ataque Normal aumenta o Dano e o valor de aumento é 70% do ATQ. Esse efeito desaparece nos 0.05s após o Ataque Normal causar dano. Quando o Ataque Normal não ativar o Rito do Vale, aumenta a probabilidade em 20% no próximo lançamento. Essa ativação pode ocorrer 1 vez a cada 0.2s.",
+        "ru": "Попадания обычной атакой с 36% шансом активируют Ритуал долины: урон обычной атаки повышается на 70% от силы атаки. Через 0,05 сек. после нанесения урона обычной атакой эффект исчезает. Если обычной атаке не удалось активировать этот эффект, шанс его активации следующим попаданием возрастает на 20%. Шанс активации возникает не чаще одного раза в 0,2 сек.",
+        "id": "Saat Normal Attack mengenai musuh, ada 36% kemungkinan akan memicu Valley Rite yang akan meningkatkan DMG Normal Attack sebesar 70% ATK. Efek akan hilang 0,05 detik setelah Normal Attack mengakibatkan DMG. Jika Normal Attack gagal memicu efek Valley Rite, maka kemungkinan Valley Rite akan terpicu pada serangan berikutnya meningkat 20%. Efek ini dapat terpicu maksimum sekali setiap 0,2 detik.",
+        "th": "เมื่อการโจมตีปกติถูกศัตรู จะมีโอกาส 36% ที่จะเกิด Valley Rite: โดยจะทำให้การโจมตีปกติสร้างความเสียหายเพิ่มขึ้น 70% ของพลังโจมตี ซึ่งเอฟเฟกต์นี้จะหายไปหลังจากที่การโจมตีปกติสร้างความเสียหาย 0.05 วินาที และหากการโจมตีปกติไม่ทำให้เกิด Valley Rite โอกาสการเกิดในครั้งต่อไปจะเพิ่มขึ้น 20%; จะมีคำนวณการเกิดเอฟเฟกต์ 1 ครั้ง ในทุก 0.2 วินาที",
+        "vi": "Khi tấn công thường đánh trúng kẻ địch, sẽ có 36% tỷ lệ kích hoạt \"Nghi Lễ Vực Thẳm\": Tăng sát thương do tấn công thường gây ra, lượng tăng thêm bằng 70% tấn công; 0.05s sau khi tấn công thường gây ra sát thương, hiệu quả này sẽ biến mất. Khi tấn công thường chưa kích hoạt \"Nghi Lễ Vực Thẳm\", sẽ tăng 20% tỷ lệ kích hoạt lần sau, trong 0.2s tối đa kích hoạt 1 lần."
+      }
+    ],
+    "imgid": "echoes_of_an_offering_flower"
   }
 ]

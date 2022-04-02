@@ -345,7 +345,7 @@
       "es": "#¿Quieres un aperitivo? Justo estoy haciendo brochetas de lagarto a la parrilla. Vamos, no te quedes ahí {M#parado}{F#parada}, ¡come!",
       "fr": "#Un petit creux nocturne ? Je viens de faire quelques brochettes de lézard ! Viens, ne reste pas {M#planté}{F#plantée} là !",
       "pt": "Quer comer alguma coisa? Estou fazendo lagarto grelhado. Vá, prove!",
-      "ru": "Хочешь закусить перед сном? Я как раз поджарила шашлычки из ящериц! Не стой столбом, скорее пробуй!",
+      "ru": "Хочешь перекусить перед сном? Я как раз поджарила шашлычки из ящериц! Не стой столбом, скорее пробуй!",
       "id": "Mau makan camilan? Kebetulan aku baru saja selesai membuat kadal panggang. Jangan berdiri saja di sana! Ayo dicoba!",
       "th": "กินมื้อดึกกันมั้ย? ฉันทำกิ้งก่าย่างเตาหินพอดีเลย ปัดโธ่อย่าเอาแต่จ้องสิ รีบชิมเลย!",
       "vi": "Muốn ăn khuya à? Đúng lúc tôi đang làm món Rồng Đất núi nướng than đây. Ây da, đừng nhìn nữa, mau ăn thử đi!"
@@ -600,7 +600,7 @@
       "de": "Das ist doch der Geruch von Nebelgras, den ich da rieche! Baizhu, bist du etwa krank? Tut dir etwas weh, Kopf- oder Gliederschmerzen? Trockener Hals? Oder bist du einfach nur erschöpft? Oh, also nicht krank. Na dann ist gut. Sonst hätte ich Medizin gebraut!",
       "es": "#¡Huele a flores de neblina! ¡Debe ser el maestro Baizhu! ¿Qué esta haciendo él aquí? ¿Estás bien? ¿Te sientes débil? ¿Te duele el estómago? ¿O es un dolor de garganta? Ah, ya entiendo, ¡estás cansad{F#a}{M#o} de tantas aventuras! ¿No? ¿Estás bien? Uf, menos mal. Si no, te habría obligado a tomar una medicina de hierbas. ¡Ni te imaginas lo amarga que es!",
       "fr": "#Je sens de l'herbe brumeuse ! C'est sans doute M. Baizhu... Il vient te voir ? Tu ne te sens pas bien ? As-tu mal quelque part ? Es-tu {M#fatigué}{F#fatiguée} ? Non ? Ouf, tant mieux. Sinon tu aurais goûté à son infusion aux herbes médicinales... C'est super amer !",
-      "pt": "Eh? Cheira o aroma de Flor de Névora! Foi o Dr. Baizhu? Qual é o problema? Está com tonturas? Dor de estômago? Ou dor de garganta? Oh? Afinal não está passando mal... Ainda bem. Senão, o Dr. Baizhu vai te passar remédios super amagos.",
+      "pt": "Eh? Cheira o aroma de Flor de Névoa! Foi o Dr. Baizhu? Qual é o problema? Está com tonturas? Dor de estômago? Ou dor de garganta? Oh? Afinal não está passando mal... Ainda bem. Senão, o Dr. Baizhu vai te passar remédios super amargos.",
       "ru": "А? Я чую аромат туманных цветов! Это господин Бай Чжу! Господин Бай Чжу пришёл к тебе? Тебе плохо?! Где болит? Голова кружится или живот скрутило? Может, горло?.. Или у тебя упадок сил? А, всё в порядке? Фух! Это хорошо, иначе господин Бай Чжу заставил бы тебя пить очень горькое лекарство!",
       "id": "Hmm? Aku bisa mencium bau Mist Flower! Itu pasti Dr. Baizhu! Ugh, apa kamu masih baik-baik saja? Pusing atau sakit perut? Atau sakit tenggorokan? Atau lemas tak bertenaga? Oh, kamu baik-baik saja? Baguslah kalau begitu! Kalau tidak, Dr. Baizhu akan memberimu obat——super pahit.",
       "th": "ฮืม? ฉันได้กลิ่นหอมของ Mist Flower ด้วย! คุณ Bai มาตรวจเธอแล้วเหรอ? เธอไม่สบายตรงไหน เวียนหัวหรือว่าปวดกระเพาะ? เจ็บคอ? หรือว่าไม่มีแรง? อ่า...ไม่ได้ป่วยเหรอ ค่อยยังชั่ว ไม่งั้นคุณ Ba คงจ่ายยาที่สมุนไพรขม ๆ ให้เธอแน่",
@@ -850,7 +850,7 @@
     "line": {
       "zhs": "嘿嘿，她啊，是我引以为豪的小师妹喔！不过呀，她很久没来「万民堂」玩儿了。是大师父放心不下吧…哼，明明生的云来大章鱼那么好吃，瑶瑶上次不光不让我吃，还叫上大师父一起训斥我，呜…有时候真不知道，到底谁才是师姐了。",
       "zht": "嘿嘿，她啊，是我引以為豪的小師妹喔！不過呀，她很久沒來「萬民堂」玩了。是大師父放心不下吧…哼，明明生的雲來大章魚那麼好吃，瑤瑤上次不光不讓我吃，還叫上大師父一起訓斥我，嗚…有時候真不知道，到底誰才是師姐了。",
-      "jp": "へへっ、あの子は自慢の妹弟子だよ！でも長いこと「万民堂」には来てないの。きっと師匠が彼女のこと心配してるからだと思う…もう、生の雲来タコって美味しいのに、ヨォーヨは食べないどころか、師匠を呼んできてアタシのこと説教したんだよ。むむ…どっちが姉弟子かたまに分からなくなる時があるよ。",
+      "jp": "へへっ、あの子は自慢の妹弟子だよ！でも長いこと「万民堂」には来てないの。きっと師匠が彼女のこと心配してるからだと思う…もう、生の雲来タコって美味しいのに、ヨォーヨは私に食べさせないどころか、師匠を呼んできてアタシのこと説教したんだよ。むむ…どっちが姉弟子かたまに分からなくなる時があるよ。",
       "ko": "헤헤, 요요는 내 자랑스러운 후배야! 근데 요즘엔 「만민당」에 놀러 오지 않네. 사부님이 걱정하시는 모양이야…. 흥, 운래 문어를 생으로 먹으면 얼마나 맛있는데, 요요는 먹지도 못하게 하고 사부님까지 불러서 날 혼나게 했어. 으… 어쩔 땐 누가 선배인지 모르겠다니까",
       "en": "Hee-hee, I'm proud to call her my junior! She hasn't swung by the Wanmin Restaurant in ages, though. Maybe master is trying to protect her from me or something... Last time we hung out, I was about to dig into some fresh raw octopus from the Sea of Clouds, but not only did she stop me from eating it, she sent master to tell me off too! Ugh... Honestly, sometimes it feels like I'm the one who gets treated like the junior...",
       "de": "Hehe, auf unsere kleine Köchin bin ich stolz! Sie war leider lange nicht im Restaurant Wanmin zu Besuch. Wahrscheinlich versucht ihr Lehrer, sie wieder zu beschützen. Yaoyao hat mich beim letzten Mal schon nichts probieren lassen und dann auch noch den Lehrer gerufen ... Eigentlich sehe ich mich als die ältere an, aber manchmal bin ich mir da nicht mehr sicher.",
@@ -897,8 +897,40 @@
   },
   {
     "title": {
+      "zhs": "关于夜兰…",
+      "zht": "關於夜蘭…",
+      "jp": "夜蘭について…",
+      "ko": "야란에 대해…",
+      "en": "About Yelan",
+      "de": "Über Yelan ...",
+      "es": "Sobre Yelan...",
+      "fr": "À propos de Yelan...",
+      "pt": "Sobre Yelan...",
+      "ru": "О Е Лань...",
+      "id": "Tentang Yelan",
+      "th": "เกี่ยวกับ Yelan...",
+      "vi": "Về Yelan..."
+    },
+    "line": {
+      "zhs": "夜兰姐？我当然记得她啦。第一次见面时，我还猜她会喜欢那种清淡的菜式，没想到她是我见过最能吃辣的客人！菜肴里的辣味她觉得不够，居然把绝云椒椒直接嚼来吃！真了不起。",
+      "zht": "夜蘭姐？我當然記得她啦。第一次見面時，我還猜她會喜歡那種清淡的菜色，沒想到她是我見過最能吃辣的客人！菜餚裡的辣味她覺得不夠，居然把絕雲椒椒直接嚼來吃！真了不起。",
+      "jp": "夜蘭姉さん？もちろん、その人のことなら覚えてるよ！初めて会った時、あっさりした料理のほうが好きかなぁって思ったんだけど、アタシが今まで会った人の中で、一番辛いものが好きなお客さんだったの！料理の辛さが足りないからって、絶雲の唐辛子をそのまま噛んで食べたんだよ！本当にすごいよね。",
+      "ko": "야란 언니? 당연히 기억하지. 처음 만났을 때 담백한 요리를 좋아할 거라고 생각했는데, 지금까지 내가 본 손님 중에서 매운 걸 제일 잘 먹는 사람이었어! 요리의 매운맛이 부족하다면서 절운고추를 그냥 씹어먹더라니까! 진짜 대단해",
+      "en": "Yelan? Of course, I remember her! When I first met her, I was certain she'd be the kind of gal who'd prefer lighter dishes... turned out that she can handle the most spice out of all my customers! Apparently, my dishes weren't spicy enough for her, because she started taking bites of raw Jueyun Chilies! Truly amazing.",
+      "de": "Yelan? Natürlich erinnere ich mich an sie. Als wir uns das erste Mal trafen, dachte ich, dass sie die leichteren Gerichte mögen würde, aber ich hätte nie gedacht, dass sie scharfes Essen so genießen würde. So etwas habe ich noch nie gesehen! Sie fand die Schärfe des Gerichts nicht ausreichend, sodass sie sogar zusätzlich Jueyun-Peperoni aß! Das war erstaunlich.",
+      "es": "¿Yelan? ¡Claro que la recuerdo! Cuando la conocí, tenía la certeza de que era el tipo de chica a la que le gustan los platos ligeros. Pues resulta que, de todos mis clientes, ¡es la que mejor aguanta el picante! Al parecer, mis platos no le parecieron lo suficientemente picantes, ¡porque empezó a comer chiles de Jueyun crudos! ¡Increíble!",
+      "fr": "Yelan ? Bien sûr que je me souviens d'elle ! La première fois que je l'ai rencontrée, j'étais certain qu'elle était du genre à préférer les plats légers... Mais il s'est avéré qu'elle est la cliente qui mange le plus épicé ! Mes plats n'avaient pas l'air d'être assez épicés pour elle, car elle a commencé à prendre des bouchées de piments de Jueyun crus ! Elle est vraiment incroyable.",
+      "pt": "Yelan? Eu me lembro de dela. Quando a conheci, tinha certeza que ela seria o tipo de garota que gostaria de pratos leves... Mas na verdade, de todos os meus clientes, ela é quem mais suporta comidas picantes! Aparentemente, meus pratos não eram apimentados o suficiente para ela, por isso começou a mastigar pedaços crus de Pimenta de Jueyun! Incrível.",
+      "ru": "Е Лань? Ну конечно же я её помню! Когда мы впервые встретились, мне показалось, что она из тех, кто предпочитает лёгкие блюда... Оказалось, что она ест специи больше всех! Мои блюда даже оказались недостаточно острыми для неё, потому что она начала закусывать сырым заоблачным перчиком! Невероятно.",
+      "id": "Yelan? Ingat dong! Waktu pertama ketemu sama dia, aku yakin dia cewek yang doyan rasa lebih tawar gitu .... Ternyata, dia salah satu pelanggan aku yang paling kuat makan pedas loh! Malah kayaknya masakanku kurang pedas buat selera dia, soalnya dia mulai makanin Jueyun Chili-nya doang! Hebat banget kan!",
+      "th": "พี่ Yelan? แน่นอน ฉันจำเธอได้ ตอนเจอกันครั้งแรกฉันยังเดาว่าเธอคงชอบอาหารเบา ๆ แต่ไม่คิดว่าเธอจะเป็นลูกค้าที่กินเผ็ดที่สุดเท่าที่ฉันเคยพบมา! แต่เธอคงรู้สึกว่าความเผ็ดในจานไม่สะใจพอ เธอจึงเคี้ยว Jueyun Chili ลงไป! ยอมใจเลยจริง ๆ",
+      "vi": "Chị Yelan sao? Tôi dĩ nhiên nhớ rồi. Khi lần đầu gặp mặt tôi còn nghĩ chị ấy thích ăn món thanh đạm, nhưng không ngờ chị ấy là người ăn cay giỏi nhất tôi từng thấy đó! Vị cay trong món ăn thôi còn chưa đủ, chị ấy còn ăn nguyên trái Ớt Tuyệt Vân luôn! Thật lợi hại."
+    }
+  },
+  {
+    "title": {
       "zhs": "想要了解香菱·其一",
-      "zht": "想要瞭解香菱·其一",
+      "zht": "想要了解香菱·其一",
       "jp": "香菱を知る·1",
       "ko": "향릉에 대해 알기·첫 번째",
       "en": "More About Xiangling: I",
@@ -922,7 +954,7 @@
       "fr": "Ça te dit des brochettes de pigeon ? Je te promets que c'est bon ! Ma recette est spéciale !",
       "pt": "Espetinho de pombos, alguém quer? Vamos lá! É a minha receita secreta! Você vai amar!",
       "ru": "Шашлычки из жареного голубиного мяса! Что, никто не хочет?.. Попробуйте! Это мой особый рецепт, вам понравится!",
-      "id": "Daging merpati bakar, mau? Ayolah, ini resep rahasiaku, kamu pasti suka!",
+      "id": "Ada yang mau sate burung dara? Ini pakai resep rahasiaku loh, pasti beda dari yang lain!",
       "th": "เอาเนื้อพิราบย่างสักสองไม้มั้ย? แหม่ ลองซักหน่อยเหอะน่า ด้วยเคล็ดลับของฉัน รับรองว่าไม่มีใครเหมือนแน่นอน!",
       "vi": "Thịt bồ câu nướng, hai xiên? Ây da... ăn thử à. Có thêm công thức độc nhất của tôi, chắc chắn khác hẳn mấy nơi khác!"
     }
@@ -930,7 +962,7 @@
   {
     "title": {
       "zhs": "想要了解香菱·其二",
-      "zht": "想要瞭解香菱·其二",
+      "zht": "想要了解香菱·其二",
       "jp": "香菱を知る·2",
       "ko": "향릉에 대해 알기·두 번째",
       "en": "More About Xiangling: II",
@@ -945,16 +977,16 @@
     },
     "line": {
       "zhs": "大师父教我的枪法，很厉害吧？你想学的话我也可以教给你哦！不过说到这个…要是你愿意跟我学厨就好了！我的这些技巧和配方，要流传得远远的才好呢。",
-      "zht": "#大師父教我的槍法，很厲害吧？{F#妳}{M#你}想學的話我也可以教給{F#妳}{M#你}哦！不過說到這個…要是{F#妳}{M#你}願意跟我學廚就好了！我的這些技巧和配方，要流傳得遠遠地才好呢。",
+      "zht": "#大師父教我的槍法，很厲害吧？{F#妳}{M#你}想學的話我也可以教給{F#妳}{M#你}喔！不過說到這個…要是{F#妳}{M#你}願意跟我學廚就好了！我的這些技巧和配方，要流傳得遠遠的才好呢。",
       "jp": "師匠から教わった技ってすごいでしょう？あなたも教わりたかったら、教えてあげてもいいよ！だけど、それよりも…あなたがアタシから料理を習いたくなる方がいいな！アタシのこの腕とレシピは遥か遠くの地まで伝えて然るべきなんだから。",
       "ko": "사부님이 가르쳐주신 창법인데, 대단하지? 배우고 싶으면 알려줄게! 하지만 그것보다… 요리를 배운다면 좋을 텐데! 내 스킬과 레시피는 널리 전파될 가치가 있다고!",
       "en": "My master did a good job teaching me spear fighting, don't you think? If you want, I could teach you too. Although... I'd much rather teach you my cooking, if you're interested! I want my recipes to spread all around Teyvat!",
       "de": "Mein Lehrer hat mich gut in der Kunst des Speerkampfes unterrichtet, nicht schlecht, oder? Falls du sie auch lernen möchtest, kann ich dir etwas beibringen. Aber eigentlich würde ich dir ja noch lieber das Kochen beibringen. Ich will meine Rezepte auf dem ganzen Kontinent verbreiten.",
       "es": "Mi maestro me enseñó muy bien a luchar con lanzas, ¿no te parece? Si quieres, yo también podría enseñarte. Aunque... ¡prefiero enseñarte a cocinar! Si te interesa, claro. ¡Quiero que mis recetas se conozcan en todo Teyvat!",
       "fr": "Mon maître m'a enseigné l'art de la lance et je m'en sors plutôt bien, tu ne trouves pas ? Je pourrais te montrer aussi. Même si je préfère de loin t'apprendre mes recettes ! Je veux que ma cuisine soit connue à travers tout Teyvat.",
-      "pt": "Habilidade da minha lança, é incrível, não é? Se você quiser aprender, posso te ensinar! Por falar nisso, seria muito bom se quiser aprender cozinhar comigo! As minhas técnicas e receitas valem a pena ir mais longe.",
+      "pt": "Habilidade da minha lança, é incrível, não é? Se você quiser aprender, posso te ensinar! Por falar nisso, seria muito bom se quiser aprender a cozinhar comigo! As minhas técnicas e receitas são conhecidas por toda Teyvat!",
       "ru": "Наставник научил меня владению копьём, здорово, правда? Если хочешь, я тоже могу тебя научить! Но... Если ты хочешь поучиться у меня кулинарии, то я буду только рада! Я хочу, чтобы мои техники и рецепты были известны по всему Тейвату!",
-      "id": "Guruku benar-benar hebat dalam mengajariku ilmu bela diri tombak, benar tidak? Jika kamu mau, aku juga bisa mengajarimu. Walaupun... aku lebih memilih untuk mengajarimu masakanku, tentu saja jika kamu tertarik! Aku ingin agar resep masakanku bisa tersebar ke seluruh Teyvat.",
+      "id": "Master yang berhasil mengajari aku ilmu tombak, hebat kan dia? Kalau mau, aku bisa ajarin kamu juga. Yah, aku ... lebih pilih ajarin kamu masak saja sih, aku ingin resep-resep buatanku tersebar sampai seluruh penjuru Teyvat!",
       "th": "ท่านอาจารย์สอนเทคนิคฉันเอง สุดยอดไปเลยใช่มั้ยล่ะ? ถ้าเธออยากฝึกล่ะก็ ฉันสอนเธอก็ได้นะ! แต่พูดถึงเรื่องนี้...ถ้าเธอเต็มใจมา หัดทำอาหารกับฉันก็ดีเลย! ฉันอยากให้เทคนิคและส่วนผสมต่าง ๆ ของฉันเผยแพร่ออกไปให้ทั่ว",
       "vi": "Thương pháp đại sư phụ dạy tôi lợi hại lắm đúng không? Nếu bạn muốn học thì tôi có thể dạy! Nhưng... nếu bạn chịu theo tôi học nấu ăn thì tốt rồi! Kỹ thuật và cách nấu của tôi phải lưu truyền ra xa hơn."
     }
@@ -962,7 +994,7 @@
   {
     "title": {
       "zhs": "想要了解香菱·其三",
-      "zht": "想要瞭解香菱·其三",
+      "zht": "想要了解香菱·其三",
       "jp": "香菱を知る·3",
       "ko": "향릉에 대해 알기·세 번째",
       "en": "More About Xiangling: III",
@@ -977,16 +1009,16 @@
     },
     "line": {
       "zhs": "问我的愿望吗？那当然是要创造全新的新菜系！璃菜和月菜都是有极限的。哦，关键一定在于辣味吧！事不宜迟，让我爆炒个锅巴辣椒给你尝尝！",
-      "zht": "#問我的願望嗎？那當然是要創造全新的新菜系！璃菜和月菜都是有極限的。哦，關鍵一定在於辣味吧！事不宜遲，讓我爆炒個鍋巴辣椒給{F#妳}{M#你}嚐嚐！",
+      "zht": "#問我的願望嗎？那當然是要創造全新的新菜系！璃菜和月菜都是有極限的。喔，關鍵一定在於辣味吧！事不宜遲，讓我爆炒個鍋巴辣椒給{F#妳}{M#你}嚐嚐！",
       "jp": "アタシの願い事？それはもちろん完全に新しい料理を作ることだよ！璃の料理も月の料理も限界があるからね。あ、きっと辛味が鍵になるはずだよ！今のうちからアタシが作ったお焦げ唐辛子炒めを食べてみなよ！",
       "ko": "소원이 뭐냐고? 물론 새로운 요리 계보 개발이지! 리월 요리는 너무 제한적이야, 물론 매운맛이 가장 중요해! 지금 당장 누룽지 고추볶음을 만들어줄게!",
       "en": "My heart's desire? To start my very own cooking tradition, of course! Li-style and Yue-style cooking are good, but they have a limited palate. The missing ingredient? Chilli pepper! Come, let me fry up one of Guoba's chilli peppers for you...",
       "de": "Was ich mir wünsche? Natürlich eine ganz neue Küche zu erfinden! Liyue und Mondstadt haben beide sehr gute Küchen, sie sind aber auch sehr eingeschränkt. Was ihnen fehlt? Etwas Scharfes! Lass mich dir mein paar Peperoni von Guoba in die Pfanne hauen!",
       "es": "¿Mi mayor deseo? ¡Comenzar mi propia tradición culinaria! Las cocinas estilo Li y Yue son buenas, pero sus sabores son muy limitados. ¿El ingrediente que les falta? ¡Chile! ¡Mucho chile! Ven, deja que sofría unos chiles de Guoba para que los pruebes.",
       "fr": "Mon rêve ? Créer mon propre style de cuisine ! Les cuisines Li et Yue sont très bien, mais on se retrouve très vite limités. Ça manque de piments ! Allez, laisse-moi t'en préparer un peu !",
-      "pt": "O meu desejo? Claro que é inventar um novo estilo de culinária. O estilo Li e estilo Yue têm o seu limite. A essência deve ficar no sabor picante. Então, não há tempo a perder, vou fritar uma pimenta de Guoba para você provar!",
+      "pt": "O meu maior desejo? Claro que é inventar um novo estilo de culinária. O estilo Li e estilo Yue têm o seu limite. A essência deve ficar no sabor picante. Então, não há tempo a perder, vou fritar uma pimenta de Guoba para você provar!",
       "ru": "Чего я хочу больше всего на свете? Конечно, создать своё новое направление в кулинарии! Кухни Ли и Юэ хороши, но ограничены. Чего в них не хватает? Перца! Давай я прямо сейчас пожарю для тебя перчик Гобы!",
-      "id": "Keinginan hatiku? Tentu saja aku ingin menciptakan masakan baruku sendiri! Masakan gaya Li dan Yue sungguh enak, tapi mereka terbatas. Bahan yang kurang? Cabai! Ayolah, biarkan aku menggoreng salah satu cabai Guoba untukmu dan cobalah!",
+      "id": "Harapan terbesarku? Jelas ingin buat aliran masakanku sendiri dong! Masakan gaya Li dan Yue dua-duanya enak, tapi rasanya ya gitu-gitu aja. Mau tahu kurang di mananya? Kurang pedas! Nih, aku kasih coba tumis cabenya Guoba buat kamu ya ....",
       "th": "ถามถึงความใฝ่ฝันของฉันเหรอ? แน่นอนว่าอยากสร้างอาหารชนิด ใหม่ไงล่ะ! อาหาร Li และ อาหาร Yue ต่างมีข้อจำกัดของรสเผ็ดน่ะ! อย่ามัวชักช้าอยู่เลย เดี๋ยวฉันจะทำ Guoba's chilli pepper ให้เธอชิม!",
       "vi": "Nguyện vọng của tôi à? Đương nhiên là phải sáng tạo ra những món ăn độc đáo mới! À, quan trọng chính là ở vị cay! Việc này không nên chậm trễ, để tôi nấu một món cho bạn ăn thử!"
     }
@@ -994,7 +1026,7 @@
   {
     "title": {
       "zhs": "想要了解香菱·其四",
-      "zht": "想要瞭解香菱·其四",
+      "zht": "想要了解香菱·其四",
       "jp": "香菱を知る·4",
       "ko": "향릉에 대해 알기·네 번째",
       "en": "More About Xiangling: IV",
@@ -1009,16 +1041,16 @@
     },
     "line": {
       "zhs": "嗯！我看你已经快被我的厨艺征服了嘛~是时候给你品尝我苦心研制的新菜品了——七彩琉璃大煎饼。喏喏，这薄薄一层蛋皮里面包着红色的松鼠火腿，橙色的胡萝卜，黄色的太阳蛙肉，绿色的嘟嘟莲，蓝色的蝴蝶翅膀…呃？真的不想吃吗？",
-      "zht": "#嗯！我看{F#妳}{M#你}已經快被我的廚藝征服了嘛~是時候給{F#妳}{M#你}品嚐我苦心研製的新菜品了——七彩琉璃大煎餅。喏喏，這薄薄一層蛋皮裡面包著紅色的松鼠火腿，橙色的胡蘿蔔，黃色的太陽蛙肉，綠色的嘟嘟蓮，藍色的蝴蝶翅膀……呃？真的不想吃嗎？",
+      "zht": "#嗯！我看{F#妳}{M#你}已經快被我的廚藝征服了嘛~是時候給{F#妳}{M#你}品嚐我苦心研製的新菜品了——七彩琉璃大煎餅。喏喏，這薄薄一層蛋皮裡麵包著紅色的松鼠火腿，橙色的胡蘿蔔，黃色的太陽蛙肉，綠色的嘟嘟蓮，藍色的蝴蝶翅膀…呃？真的不想吃嗎？",
       "jp": "あなた、アタシの料理の腕に心を奪われたみたいね～そろそろアタシが苦労して開発した新メニュー——七彩琉璃パンケーキを食べさせてあげてもいい頃ね。ほらほら、この薄い卵の皮の中に包んであるのは、赤いリスのソーセージ、オレンジ色のニンジン、黄色の太陽ガエルの肉、緑のドドリアン、青い蝶々の羽……えっ？食べたくない？本当に？",
       "ko": "음! 내 요리 솜씨에 껌뻑 죽겠지~? 내가 고심하여 개발한 새 요리——무지개크리스탈 파이를 맛볼 때야, 자, 이 얇은 계란피로 싼 붉은색 다람쥐햄, 주황색 당근, 노란색 태양개구리고기, 녹색 통통 연꽃, 파란색 나비 날개…. 어라? 먹기 싫어?",
-      "en": "I think I've won you over with my cooking now, right? It's time to introduce you to my latest masterpiece — I call it the \"most marvelous multi-colored super pancake\"! Bright red squirrel ham, orange carrot, yellow sunfrog meat, green calla lily and blue butterfly wings, beautifully wrapped in a thin egg pancake— What? I thought you said you were starving? *sigh* okay.",
-      "de": "Gut! Ich glaube, du bist meinen Kochkünsten schon erlegen. Jetzt musst du meine neuste Kreation probieren. Ein Regenbogenfladen! Darin habe ich Eichhörnchenschinken, Möhre, Sonnenfroschfleisch und Wasserlilie eingewickelt. So lecker! Bist du sicher, dass du keinen Bissen willst?",
+      "en": "I think I've won you over with my cooking now, right? It's time to introduce you to my latest masterpiece — I call it the \"most marvelous multi-colored super pancake\"! Bright red squirrel ham, orange carrot, yellow sunfrog meat, green calla lily and blue butterfly wings, beautifully wrapped in a thin egg pancake— What? I thought you said you were starving? *sigh* Okay.",
+      "de": "Gut! Ich glaube, du bist meinen Kochkünsten schon erlegen. Jetzt musst du meine neuste Kreation probieren: ein Regenbogenfladen! In der dünnen Haut habe ich roten Eichhörnchenschinken, orange Möhre, gelbes Sonnenfroschfleisch, grüne Wasserlilie und blaue Schmetterlingsflügel eingewickelt. So lecker! Bist du sicher, dass du keinen Bissen willst?",
       "es": "Creo que te conquisté con mis habilidades culinarias, ¿cierto? Bien, es hora de presentarte mi última obra maestra: ¡lo llamo el “maravilloso superpanqueque multicolor”! Jamón de ardilla roja, zanahoria anaranjada, carne de rana amarilla, lirio cala verde y alas de mariposa azules cuidadosamente envueltas en un fino panqueque de huevo. ¿Eh? ¿De verdad no quieres comerlo? Bueno...",
       "fr": "#Tu es déjà {M#conquis}{F#conquise} par ma cuisine, pas vrai ? C'est l'heure de te présenter ma nouvelle recette, la « super crêpe multicolore » ! Du jambon d'écureuil rouge, des carottes orange, de la grenouille soleil jaune, du lys calla vert et des ailes de papillon bleues qui sont enveloppés dans une crêpe...? T'es {M#sûr}{F#sûre} de ne pas vouloir goûter ?",
       "pt": "Eu acho que te conquistei com minha comida agora, certo? É hora de apresentar a minha última obra - eu a chamo de \"Panquecas Vitrificadas Coloridas\"! Presunto de esquilo, cenoura laranja, carne amarela de sapo, Lótus de Leite verde e asas de borboleta-azul, lindamente embrulhados em uma fina panqueca de ovo - O quê? Eu pensei que você disse que estava morrendo de fome? *Suspiro* Ok....",
-      "ru": "О! Смотрю, тебя покорило моё кулинарное мастерство? Настало время попробовать моё прекрасное новое блюдо - Изумительные разноцветные супер блинчики! Да, это тонкий яичный блинчик, на котором слоями выложены красная беличья ветчина, оранжевая морковь, мясо жёлтой солнечной лягушки, зелёные листья лилии каллы, синие крылья бабочки... Что? Уже совсем не хочешь? Ну ладно...",
-      "id": "Yep! Sepertinya aku sudah memenangkan hatimu dengan masakanku ya~ waktunya memperkenalkanmu pada karya terbaruku - aku menyebutnya sebagai \"panekuk super enak dengan toping berlapis\"! Ham tupai yang berwarna merah terang, wortel oranye, daging sunfrog kuning, calla lily hijau dan sayap kupu-kupu biru, dibungkus indah dengan panekuk telur tipis... apa? Kamu benar-benar tidak mau makan?",
+      "ru": "О! Смотрю, тебя покорило моё кулинарное мастерство? Настало время попробовать моё прекрасное новое блюдо - Изумительные разноцветные суперблинчики! Да, это тонкий яичный блинчик, на котором слоями выложены красная беличья ветчина, оранжевая морковь, мясо жёлтой солнечной лягушки, зелёные листья лилии каллы, синие крылья бабочки... Что? Уже совсем не хочешь? Ну ладно...",
+      "id": "Asyik! Aku sudah berhasil ambil hati kamu pakai masakanku, ya kan? Sekarang saatnya memperkenalkan karya dapur terbaruku: \"super kue dadar warna-warni\"! Ham tupai merah, wortel oranye, daging kodok kuning, Calla Lily hijau, sayap kupu-kupu biru, semua kue dadar telur tipis ... EH? Tadi katanya lapar? Yaaah.",
       "th": "อื้ม! ดูท่าทางฝีมือการทำอาหารของฉัน จะชนะใจเธอแล้วสินะ ถึงเวลาที่เธอจะได้ลิ้มลองอาหาร จานใหม่ที่ฉันได้ตั้งใจคิดค้นขึ้นมา นั่นก็คือ...แป้งห่อสายรุ้งแห่ง Liyue แต่นแต๊น ไข่แผ่นบางที่ห่อแฮมกระรอกสีแดง แครอทสีส้ม เนื้อกบพระอาทิตย์สีเหลือง ดอกลิลลี่สีเขียว และปีกผีเสื้อสีฟ้าเอาไว้...เอ่อ? ไม่อยากกินจริง ๆ เหรอ?",
       "vi": "Ừm! Tôi thấy bạn sắp bị tài nấu nướng của tôi chinh phục rồi chứ gì... Đã đến lúc cho bạn thử món ăn mới do tôi khổ tâm nghiên cứu ra: Bánh rán lưu ly bảy màu. Ừm, bên trong lớp trứng mỏng này bọc chân giò hun khói màu đỏ, cà rốt cam, thịt ếch mặt trời màu vàng, Calla Lily xanh, cánh bướm lam... Ơ? không muốn ăn thật à?"
     }
@@ -1026,7 +1058,7 @@
   {
     "title": {
       "zhs": "想要了解香菱·其五",
-      "zht": "想要瞭解香菱·其五",
+      "zht": "想要了解香菱·其五",
       "jp": "香菱を知る·5",
       "ko": "향릉에 대해 알기·다섯 번째",
       "en": "More About Xiangling: V",
@@ -1046,11 +1078,11 @@
       "ko": "잘 모르겠단 말이지…. 분명 예전에는 푹 자면 좋아졌는데, 이건 내 스타일이 아니야, 안 되겠어! 아무래도 머리가 좋은 네가 생각해봐! 음… 네게 새로 개발한 요리를 맛보여주려고 하는데, 네가 먹고 배탈이 나면 속상할 것 같다는 생각이 자꾸 들어. 이, 이걸 어쩌면 좋을까?",
       "en": "I'm in a dilemma and I don't know how to solve it... It isn't like me to get so worked up over nothing... Ah! Well, here's the thing. I always love getting you to try my latest recipes, but... I'm worried that my food might not agree with your stomach and... I can't bear the thought of that happening. What should I do?",
       "de": "Nun, ich bin ein bisschen verwirrt und es ist sonst auch eigentlich nicht meine Art, aber ... was denkst du darüber? Ich will, dass du alle meine neuen Rezepte ausprobierst, aber ich will auch nicht, dass dir etwas auf den Magen schlägt. Das kann ich nicht ertragen. Was soll ich nur tun?",
-      "es": "Tengo un dilema que me está quitando el sueño por las noches. ¡Y eso nunca suele pasarme! La cosa es que me gusta que pruebes mis recetas nuevas, pero... me preocupa que mi comida no le haga bien a tu estómago... Si eso sucediera, no podría perdonármelo. ¿Qué debería hacer?",
+      "es": "Tengo un dilema que me está quitando el sueño por las noches. ¡Y eso nunca suele pasarme! La cosa es que me gusta que pruebes mis recetas nuevas, pero... me preocupa que mi comida no le siente bien a tu estómago... Si eso sucediera, no podría perdonármelo. ¿Qué debería hacer?",
       "fr": "J'ai... un problème que je ne sais pas comment résoudre. Ce n'est pas si grave, mais... Enfin, voilà : je suis ravie que tu essaies mes dernières recettes, mais... si jamais tu en devenais malade, je m'en voudrais tellement !",
-      "pt": "Estou em um dilema e não sei como resolvê-lo... Não é como se eu ficasse tão nervosa por nada... Ah! Bem, é o seguinte. Eu sempre adoro fazer você experimentar minhas últimas receitas, mas... Estou preocupada que minha comida possa não concordar com seu estômago e... Não consigo suportar a ideia de que isso aconteça. O que eu devo fazer?",
+      "pt": "Estou em um dilema e não sei como resolvê-lo... Ficar preocupada não é o meu estilo... Ah! Bem, é o seguinte. Eu sempre adoro fazer você experimentar minhas últimas receitas, mas... Estou preocupada que seu estômago possa não aguentar a minha comida tão picante... Não consigo suportar a ideia de que isso aconteça. O que eu devo fazer?",
       "ru": "Меня мучит один вопрос... Довольно странно, обычно я сплю спокойно и не задумываюсь долго над такими вещами... Нет, не так. Лучше я сейчас задам этот вопрос тебе. Понимаешь, я обожаю, когда ты пробуешь мои новые блюда, но боюсь, что твой желудок с таким не справится... Я этого не вынесу! Так что же мне делать?",
-      "id": "Aku... sedikit tidak paham, jelas-jelas sebelumnya aku hanya perlu tidur sebentar saja lalu semua akan baik-baik saja, ini sungguh bukan gayaku. Ah, tidak bisa! Ayo bantu aku pikirkan! Jadi... aku ingin sekali agar kamu mencicipi masakanku setiap waktu, tapi entah sejak kapan, jika kamu sakit perut setelah mencobanya, aku menjadi sangat sedih. Ja-jadi apa yang harus kulakukan?",
+      "id": "Aku dilema nih ... Padahal biasanya enggak pernah begini. Ah, jadi gini, aku suka banget kasih kamu coba resep-resep terbaruku, tapi ... Aku jadi khawatir masakanku mengamuk di dalam perutmu, terus ... Pokoknya aku enggak rela kalau sampai kayak gitu. Harus gimana dong?",
       "th": "ฉัน...ไม่เข้าใจเลย เมื่อก่อนนอนสักตื่นก็หายแล้วแท้ ๆ แต่นี่เหมือนไม่ใช่ตัวฉันเลย โธ่ ไม่ได้ ๆ! เธอช่วยคิดหน่อยสิ! อืม...ฉันอยากให้เธอชิมอาหารจาน ใหม่ของฉันแต่ไม่รู้ว่าจะเริ่มจาก ตอนไหน ถ้าเธอกินจนท้องเสีย ฉันก็จะรู้สึกแย่มากเลย ฉะ ฉันควรจะทำยังไงดีเนี่ย?",
       "vi": "Tôi... nghĩ mãi vẫn không hiểu, rõ ràng trước kia ngủ một giấc là khỏe, đây không giống phong cách của tôi chút nào. Ây da, không được! Bạn nghĩ cách đi! Ừm... tôi rất muốn để bạn ăn thử món mới của tôi, nhưng không biết từ lúc nào, bạn mà ăn bị đau bụng thì tôi sẽ buồn lắm. Tôi... rốt cuộc nên làm gì đây?"
     }
@@ -1073,16 +1105,16 @@
     },
     "line": {
       "zhs": "看着点哦！像这样烧热一锅油，然后，把去掉翅膀的晶蝶这样放下去炸…哎呀你别走啊，超香的啦！",
-      "zht": "#看著點哦！像這樣燒熱一鍋油，然後，把去掉翅膀的晶蝶這樣放下去炸…哎呀{F#妳}{M#你}別走啊，超香的啦！",
+      "zht": "#看著點喔！像這樣燒熱一鍋油，然後，把去掉翅膀的晶蝶這樣放下去炸…哎呀{F#妳}{M#你}別走啊，超香的啦！",
       "jp": "見ててよ！こうやって鍋に油を入れて、それから羽をとった晶蝶をこうやって鍋に入れて炒める…ああ、逃げないでよ。すごくいい香りなんだから！",
       "ko": "잘 봐! 이렇게 기름을 달군 다음 수정 나비의 날개 비늘을 제거하고 솥에 넣어 튀겨…. 야, 가지 마, 진짜 맛있다구!",
-      "en": "Watch carefully! Heat the oil in a pan, then take a handful of crystalflies — wings removed — pop them in, and voilà! Delicious deep-fried crystal— Hey! Where are you going?",
+      "en": "Watch carefully! Heat the oil in a pan, then take a handful of crystalflies — wings removed — pop them in, and voila! Delicious deep-fried crystal— Hey! Where are you going?",
       "de": "Sieh gut zu! Du erhitzt das Öl in der Pfanne, genau so, dann nimmst du eine Handvoll Kristallschmetterlinge, machst vorher die Flügel ab, gibst sie in die Pfanne und fertig sind sie, knusprig lecker. He, wo willst du denn hin? Die sind wirklich lecker!",
       "es": "¡Mira atentamente! Calienta el aceite en una sartén, pon en ella cristalópteros después de quitarles las alas y... ¡listo! Deliciosos cristalópteros fritos. ¿Eh? ¿A dónde vas?",
       "fr": "Observe un peu ! Mets une poignée de papillons cristallins sans leurs ailes dans de l'huile bien chaude et tadam ! Des papillons cristallins fri... Hé, mais reviens ! Je te promets que c'est bon !",
       "pt": "Venha cá ver! Primeiro aqueça o óleo, e depois frite as Borboletas de Cristais sem asas... Hmmm... Que delícia! Ei! Não vá embora!",
       "ru": "Смотри, смотри! Нагреваешь масло на сковороде, вот так, потом берёшь горсть кристальных бабочек без крыльев, бросаешь и хоп! Жареные кристальные бабочки почти готовы... Эй, не уходи, лучше попробуй!",
-      "id": "Eh awas! Panaskan minyak di atas panci seperti ini, lalu ambil crystalfly, lepas sayapnya, lalu goreng seperti ini... yak! Eh, kamu jangan pergi dulu, aromanya harum sekali loh!",
+      "id": "Lihat baik-baik ya! Panaskan minyak di wajan, terus masukkan sejumput Crystalfly yang sayapnya sudah dicabutin, dan ... Crystalfly goreng kering siap disaji— HEI, mau ke mana??",
       "th": "ดูดี ๆ นะ! น้ำมันต้องร้อนแบบในกระทะนี้ จากนั้นใส่ปีกของ Crystalfly ลงไปทอด...นี่เธออย่าเพิ่งไปสิ หอมออกจะตายไป!",
       "vi": "Nhìn đi! Đun sôi dầu, sau đó cho cánh Tinh Điệp vào chiên giòn... Ây da, bạn đừng đi mà, thơm lắm đó!"
     }
@@ -1105,16 +1137,16 @@
     },
     "line": {
       "zhs": "呜，史莱姆滑蘑菇一份也没卖出去。就因为卖相不好吗？口感明明很棒的呀…",
-      "zht": "嗚，史萊姆滑蘑菇一份也沒賣出去。就因為賣相不好嗎？口感明明很棒的呀……",
+      "zht": "嗚，史萊姆滑蘑菇一份也沒賣出去。就因為賣相不好嗎？口感明明很棒的呀…",
       "jp": "うぅ、キノコとスライム炒めが1つも売れないよぅ。見た目が良くないのかな？味はすごく美味しいのにな……",
       "ko": "우, 슬라임 버섯찜이 하나도 안 팔렸어, 비주얼이 별로인가? 맛은 죽여주는데…",
       "en": "It's been a month and I still haven't sold a single bowl of Mushroom Slime Stew. Gee, is it just because it looks sticky and gooey? It's their loss if they don't have a spoonful...",
-      "de": "Mein Champignonschleim verkauft sich einfach nicht. Warum denn nur? Wegen der Konsistenz? Er schmeckt doch sehr gut ...",
-      "es": "Ha pasado un mes y todavía no he vendido ni un solo estofado de champiñones y Slime. *Suspira* ¿Es porque se ve viscoso y pegajoso? Pero si la textura es deliciosa...",
+      "de": "Mein Schleim-Pilzragout verkauft sich einfach nicht. Warum denn nur? Wegen der Konsistenz? Es schmeckt doch sehr gut ...",
+      "es": "Ha pasado un mes y todavía no he vendido ni un solo estofado de champiñones y Slime. *Suspira*, ¿es porque se ve viscoso y pegajoso? ¡Ellos se lo pierden!",
       "fr": "Ça fait un mois que je n'ai pas toujours pas vendu un seul bol de ragoût de Blob aux champignons. Peut-être que sa texture collante et dégoulinante n'est pas au goût de tout le monde ? Tant pis pour eux...",
       "pt": "*Suspiro* Não consegui vender nenhum Slime com Cogumelo. É por causa da sua aparência? Mas o sabor é super bom...",
       "ru": "Хм. Почему же рагу из слаймов с грибами так плохо продаётся... Может, потому что выглядит неаппетитно? Вкус-то у него отличный...",
-      "id": "Ah, bahkan semangkuk Mushroom Slime Stew saja tidak terjual. Apakah karena ini terlihat lengket dan buruk? Padahal rasanya enak...",
+      "id": "Sudah sebulan, tapi semur slime jamur buatanku belum laku seporsi pun. Kenapa ya? Apa karena tampilannya yang kayak lengket dan berlendir? Padahal mereka juga yang rugi kalau belum coba ....",
       "th": "ฮือ Mushroom Slime Stew ขายไม่ออกสักที่เลย เพราะหน้าตาอาหารดูไม่ดีน่ะเหรอ? แต่รสชาติดีมาก ๆ เลยนะ...",
       "vi": "Ồ, đến một phần Slime Xào Nấm Rơm cũng không bán được luôn à? Rõ ràng ngon lắm mà..."
     }
@@ -1129,9 +1161,9 @@
       "de": "Was sie so mag ...",
       "es": "Comida que más le gusta...",
       "fr": "Plats préférés...",
-      "pt": "Comida favorita...",
+      "pt": "Comida Favorita...",
       "ru": "Любимая еда...",
-      "id": "Makanan favorit",
+      "id": "Makanan Favorit",
       "th": "อาหารที่ชอบ...",
       "vi": "Món ăn yêu thích..."
     },
@@ -1146,8 +1178,8 @@
       "fr": "J'aime tous les aliments exotiques que je n'ai pas encore goûtés ! Quoi ? C'est bien une réponse honnête et sérieuse !",
       "pt": "#A minha comida favorita? Hehe, claro que é um prato novo com um sabor por provar. Satisfeit{M#o}{F#a} com a minha resposta? Hehehe, mas estou dizendo a verdade.",
       "ru": "Моя любимая еда... Конечно, та, которую я ещё не пробовала! Нет, я не уклоняюсь от ответа, это правда!",
-      "id": "Makanan favoritku adalah... tentu saja makanan baru yang belum pernah kucicipi sebelumnya! Eh, jawabanku begitu pintar? Hah, aku hanya berkata jujur.",
-      "th": "อาหารที่ชอบเหรอ อืม ก็ต้องเป็นอาหารจานใหม่ที่ไม่เคย ลิ้มลองมาก่อนน่ะสิ! เอ่ คำตอบของฉันฟังดูเจ้าเล่ห์ไป รึเปล่า? เฮ้อ ฉันพูดความจริงนะเนี่ย",
+      "id": "Makanan kesukaanku ya ... yang belum pernah aku cobain dong! Yang aneh dan eksotis. Eh, aku bukan enggak mau jawab! Itu beneran, aku jujur!",
+      "th": "อาหารที่ชอบเหรอ อืม ก็ต้องเป็นอาหารจานใหม่ที่ไม่เคย ลิ้มลองมาก่อนน่ะสิ! เอ๋ คำตอบของฉันฟังดูเจ้าเล่ห์ไป รึเปล่า? เฮ้อ ฉันพูดความจริงนะเนี่ย",
       "vi": "Thích ăn chay hả? Tại chưa thử món mới thôi! Này, tôi trả lời vậy nghe láu cá lắm à? Tôi nói thật lắm luôn đó."
     }
   },
@@ -1161,9 +1193,9 @@
       "de": "Was sie nicht mag ...",
       "es": "Comida que menos le gusta...",
       "fr": "Plats détestés...",
-      "pt": "Comida que detesta...",
+      "pt": "Comida que Odeia...",
       "ru": "Нелюбимая еда...",
-      "id": "Makanan yang tidak kamu suka",
+      "id": "Makanan yang Tidak Disukai",
       "th": "อาหารที่เกลียด...",
       "vi": "Món ăn ghét..."
     },
@@ -1176,9 +1208,9 @@
       "de": "Ich esse alles! Es gibt nur falsche Zubereitungsarten, keine falschen Zutaten!",
       "es": "¡No tengo ningún prejuicio con la comida! Ninguna comida es mala, ¡sino que depende de cómo se cocine!",
       "fr": "Je mange absolument de tout ! Les mauvais aliments n'existent pas, il n'y a que des mauvaises recettes !",
-      "pt": "Não tenho perconceitos sobre os ingredientes. Não existem ingredientes desqualificados, só métodos inadequados.",
+      "pt": "Não tenho preconceitos sobre os ingredientes. Não existem ingredientes desqualificados, só métodos inadequados.",
       "ru": "Я ем всё! Нет плохих продуктов, есть плохая готовка!",
-      "id": "Aku bisa makan apa saja! Tidak ada bahan yang buruk, hanya ada masakan yang buruk saja!",
+      "id": "Aku bisa makan apa saja! Tidak ada makanan yang tidak enak, cuma cara masaknya saja yang tidak benar!",
       "th": "ฉันไม่มีอคติกับวัตถุดิบทำอาหารนะ! ไม่มีวัตถุดิบไหนที่ไม่ดีหรอก มีแต่วิธีทำที่ไม่เหมาะสมต่างหากล่ะ!",
       "vi": "Tôi không có thành kiến với loại rau củ nào hết! Chỉ có cách nấu không thích hợp, không có nguyên liệu không thích hợp!"
     }
@@ -1201,16 +1233,16 @@
     },
     "line": {
       "zhs": "啊，找到你了！快来，我给你做了一整桌的菜喔！嘿嘿，不用急着夸我，先等你尝过味道再慢慢说吧！",
-      "zht": "#啊，找到{F#妳}{M#你}了！快來，我給{F#妳}{M#你}做了一整桌的菜喔！嘿嘿，不用急著誇我，先等{F#妳}{M#你}嘗過味道再慢慢說吧！",
+      "zht": "#啊，找到{F#妳}{M#你}了！快來，我給{F#妳}{M#你}做了一整桌的菜喔！嘿嘿，不用急著誇我，先等{F#妳}{M#你}嚐過味道再慢慢說吧！",
       "jp": "あっ、みつけた！早く来て。あなたのためにたくさん料理を作ったの～エへへ、無理に褒めなくていいよ。まず味わってからにしてよ！",
       "ko": "아, 여기 있었구나! 어서 와, 널 위해 한상 차렸다구! 헤헤, 칭찬은 나중에 듣기로 하고 우선 먹어봐!",
       "en": "Ah, there you are! Come with me, I've prepared a birthday feast all for you! ... No really, I insist! Which dish is your favorite? It's okay, take your time, try them all first, then let me know!",
       "de": "Ah, hab dich gefunden! Schnell, komm her, ich habe dir etwas zu deinem Geburtstag vorbereitet! Hehe, ich bestehe darauf! Was davon ist dein Lieblingsgericht? Nimm dir Zeit, lass den Geschmack sich entfalten!",
-      "es": "#¡Ah, allí estás! ¡Ven conmigo! He preparado una fiesta de cumpleaños para ti... No, en serio, ¡insisto! ¿Cuál de todos los platos que he preparado te gusta más? Tranquil{F#a}{M#o}, pruébalos todos y luego me dices.",
+      "es": "#¡Ah, ahí estás! ¡Ven conmigo! He preparado una fiesta de cumpleaños para ti... No, en serio, ¡insisto! ¿Cuál de todos los platos que he preparado te gusta más? Tranquil{F#a}{M#o}, pruébalos todos y luego me dices.",
       "fr": "Ah, te voilà ! Viens, je t'ai préparé un festin pour ton anniversaire ! Ne me remercie pas tout de suite, prends le temps de manger d'abord !",
       "pt": "Ah! Finalmente te encontrei! Olhe, eu fiz muitas comidas para você, e não tenha pressa para me elogiar! Primeiro prove, e depois elogie.",
       "ru": "Ага, я тебя нашла! Скорее, я накрыла для тебя целый стол! Хе-хе, подожди с похвалой, сначала попробуй всё, а потом говори!",
-      "id": "Ah, ketemu juga kamu! Kemarilah, aku menyiapkan banyak makanan untukmu! Haha, tidak usah memujiku begitu, ayo coba dulu rasanya lalu katakan pelan-pelan nanti!",
+      "id": "Ah, akhirnya! Sini, aku sudah masak banyak buat ulang tahun kamu loh! Enggak apa, sungguh, jangan malu-malu! Kamu paling suka yang mana? Santai, coba aja satu-satu, terus kasih tahu aku ya!",
       "th": "อ่า หาตัวเจอแล้ว! ฉันจะทำอาหารให้เธอเต็มโต๊ะเลย! เหอะ ๆ อย่าเพิ่งรีบชมไป รอให้เธอได้ชิมก่อนแล้วค่อย ๆ พูดก็แล้วกัน!",
       "vi": "A, tìm ra bạn rồi! Đến đây, tôi nấu cho bạn một bữa hoàn chỉnh rồi đấy! Ha ha, đừng khen vội, ăn thử đi đã!"
     }
@@ -1240,9 +1272,9 @@
       "de": "Oh, Wahnsinn! Das tut gut! Mein ganzer Körper ist wie aufgeladen!",
       "es": "¡Guau! ¡Increíble! ¡Me siento con mucha energía!",
       "fr": "Waouh ! Je déborde d'énergie !",
-      "pt": "Uau! Que energético! O meu corpo está repleto das forças!",
+      "pt": "Uau! Que energético! O meu corpo está repleto de energia!",
       "ru": "Ух ты! Хорошо-то как! Я полна энергии!",
-      "id": "Wah~! Ini hebat sekali! Rasanya seluruh tubuhku dipenuhi dengan banyak energi!",
+      "id": "Wah~ Rasanya mantap! Seluruh tubuhku penuh tenaga!",
       "th": "อื้อหือ! สุดยอดเลย! ร่างกายของฉันเปี่ยมไปด้วยพลัง เลยทีเดียว!",
       "vi": "Woaaa!!! Đã quá! Khỏe cả người!"
     }
@@ -1272,9 +1304,9 @@
       "de": "Heja! Mit einem Schlag kann ich ein Tier erledigen ... Damit ist die Frische der Zutaten garantiert!",
       "es": "¡Ju! ¡Ja! ¡Yeehaaa! Puedo derrotar a estos animales de un golpe. Así, su frescura está garantizada.",
       "fr": "Ah, prends ça ! J'arrive à vaincre une bête en un coup, pour mieux garder la fraîcheur !",
-      "pt": "Ah! Ha! Ok! Esta fera caiu com apenas um Golpe meu, garantindo seu frescor!",
+      "pt": "Ah! Ha! Ok! Esta fera caiu com apenas um golpe meu, garantindo seu frescor!",
       "ru": "Ха-ха, здорово! Да я могу с любым зверем одним махом управиться! Вот мой залог свежести ингредиентов!",
-      "id": "Hey! Ha! Hiat! Aku bisa mengalahkan monster dengan satu pukulan, sehingga bisa menjaga kesegarannya!",
+      "id": "Hey! Ha! Hiat! Binatang liar langsung tumbang sekali pukul, pasti segar nih hasilnya!",
       "th": "ฮู่ ฮ่า! เยี่ยม! หมัดเดียวก็ซัดสัตว์เหล่านั้น ซะมึนเลย... รับรองว่าวัตถุดิบสดใหม่แน่นอน!",
       "vi": "Khà khà! Tốt lắm! Có thể hạ gục bọn thú kia chỉ bằng một đấm... đảm bảo thực phẩm tươi mới!"
     }
@@ -1306,7 +1338,7 @@
       "fr": "Grâce à ce pouvoir, je peux... Oups, j'en salive déjà !",
       "pt": "Com essas forças... Finalmente poderei cozinhar... Ah não! Comecei a ficar com água na boca!",
       "ru": "Да с такой силой я могу приготовить... Могу приготовить... Ой, даже слюнки потекли!",
-      "id": "Dengan kekuatan seperti ini... akhirnya... oh tidak, air liurku mulai menetes!",
+      "id": "Kekuatan ini ... Akhirnya aku bisa juga masak ... Hihihi! Duh, ngiler lagi ....",
       "th": "มีพลังแบบนี้ล่ะก็... ในที่สุดก็...น้ำลายไหลแล้ว!",
       "vi": "Có loại sức mạnh này, cuối cùng cũng có thể... Ây da, lại chảy nước miếng rồi!"
     }
@@ -1333,12 +1365,12 @@
       "jp": "お父さんが昔、「十分な料理を作るには、十二分な情熱を注がないと」って言ってたけど、今なら分かる、分かるよ！ここまで来れたのも、きっとあなたが十二分に情熱を注いで練習に付き合ってくれたからだよね。うん、アタシも倍…更に倍の情熱で応えるからね！",
       "ko": "대사부께서 「100%의 요리를 만들려면 120%의 열정을 쏟아야 한다」고 하셨어. 난 알아! 오늘 여기까지 올 수 있었던 건 네가 120%의 열정으로 내 연습에 함께했기 때문이야. 응, 그럼 나도 더 큰…더 큰 열정으로 네게 보답해야지!",
       "en": "As my father always says: \"To make a five-star dish, you need ten-star passion!\" I know, I know! To be able to come this far is definitely thanks to your ten-star passion when it comes to practicing with me, so I'll be sure to pay you back with two— no, three times the passion!",
-      "de": "Mein Meister hat immer gesagt „Um ein 10-Punkte-Gericht zu kochen, musst du mit 12 Punkten Leidenschaft dabei sein.“ Das habe ich verstanden. Dass ich soweit gekommen bin, ist unserer gemeinsamen 12-Punkte-Leidenschaft zu verdanken. Ich werde mich bei dir daher mit noch mehr Leidenschaft dafür revanchieren!",
-      "es": "Como dice mi maestro: “Para hacer un plato de cinco estrellas, ¡necesitas una pasión de diez estrellas!” ¡Lo sé, lo sé! Si conseguí llegar hasta aquí, es gracias a tu gran pasión por ayudarme a entrenar. Te lo devolveré con el doble... No, ¡el triple de pasión!",
-      "fr": "Comme dit mon père :« La passion fait tout dans la cuisine. » Je sais ce que ça veut dire ! Si tu as réussi à aller aussi loin, c'est grâce à la passion dont tu as fait preuve à l'entraînement. Alors je vais te le rendre au double... non, au triple !",
+      "de": "Mein Vater hat immer gesagt „Um ein 10-Punkte-Gericht zu kochen, musst du mit 12 Punkten Leidenschaft dabei sein.“ Das habe ich verstanden. Dass ich soweit gekommen bin, ist unserer gemeinsamen 12-Punkte-Leidenschaft zu verdanken. Ich werde mich bei dir daher mit noch mehr Leidenschaft dafür revanchieren!",
+      "es": "Como dice mi padre: “Para hacer un plato de cinco estrellas, ¡necesitas una pasión de diez estrellas!”. ¡Lo sé, lo sé! Si conseguí llegar hasta aquí, es gracias a tu gran pasión por ayudarme a entrenar. Te lo devolveré con el doble... No, ¡el triple de pasión!",
+      "fr": "Comme dit mon père : « La passion fait tout dans la cuisine. » Je sais ce que ça veut dire ! Si tu as réussi à aller aussi loin, c'est grâce à la passion dont tu as fait preuve à l'entraînement. Alors je vais te le rendre au double... Non, au triple !",
       "pt": "Como o meu pai sempre diz: \"Para fazer um prato de cinco estrelas, você precisa de uma paixão de dez estrelas!\" Eu sei! Eu sei! Ser capaz de chegar até aqui é definitivamente graças à sua paixão de dez estrelas quando se trata de praticar comigo, por isso vou pagar com duas... Não, três vezes a paixão!",
       "ru": "#Отец мне всегда говорил: «Блюдо на сто баллов требует энтузиазма на все сто двадцать». Я поняла, поняла! Я добилась таких результатов благодаря твоим ста двадцати баллам энтузиазма, с которыми ты готовил{F#a} вместе со мной. Поэтому... Поэтому я отблагодарю тебя с двойным, нет, с тройным энтузиазмом!",
-      "id": "Ayahku pernah berkata: \"Jika kamu ingin membuat masakan yang enak, kamu harus punya antusiasme yang tinggi!\" Aku mengerti! Untuk bisa sampai sejauh ini tentunya aku harus berterima kasih pada antusiasme untuk berlatih denganku, jadi aku pasti akan membayarmu dengan dua, ah tidak, tiga kali lipat antusiasme!",
+      "id": "Ayah sering bilang begini: \"Mau bikin masakan kelas bintang lima, semangat kamu harus bintang sepuluh!\" Iya, ngerti! Bisa sampai sejauh ini juga semuanya berkat semangat kamu yang bintang sepuluh waktu latihan sama aku. Jadi, aku akan balas kamu dua kali, eh tidak, tiga kali lipat semangatnya!",
       "th": "พ่อเคยบอกว่า: \"ถ้าอยากทำอาหารให้อร่อยเต็มสิบ ก็จะต้องทุ่มเทใจเกินร้อยลงไป\" ฉันเข้าใจ ฉันเข้าใจแล้ว! ฉันมาถึงทุกวันนี้ได้ ต้องเป็นเพราะมีเธอคอยทุ่มเท ฝึกฝนไปด้วยกันกับฉันแน่ ๆ อืม งั้นฉันก็จะทุ่มเทเป็นสองเท่า... ทุ่มเทแรงใจเป็นสองเท่าเพื่อ ตอบแทนเธอ!",
       "vi": "Cha từng bảo: “Muốn nấu bữa ngon, ắt phải dốc hết chân tình vào.” Tôi hiểu! Để đạt được năng lực hiện tại, là do bạn dốc hết chân tình để luyện tập cùng tôi. Ừm, một lần nữa, tôi sẽ trả gấp đôi chân tình lại cho bạn!"
     }
@@ -1368,9 +1400,9 @@
       "de": "Guoba, Feuer!",
       "es": "¡A por ellos, Guoba!",
       "fr": "Gooba, feu !",
-      "pt": "Guoba, pegue eles!",
+      "pt": "Guoba, fogo!",
       "ru": "Гоба, огонь!",
-      "id": "Guoba, serang mereka!",
+      "id": "Guoba, sembur semua!",
       "th": "Guoba พ่นไฟ!",
       "vi": "Guoba, phun lửa!"
     }
@@ -1400,9 +1432,9 @@
       "de": "Schön würzig!",
       "es": "¡Delicioso y picante!",
       "fr": "Chaud et piquant !",
-      "pt": "Tudo fica melhor com um toque de pimenta!",
+      "pt": "Delicioso e picante!",
       "ru": "Вкусно и остренько!",
-      "id": "Panas dan pedas!",
+      "id": "Panas, pedas!",
       "th": "ร้อนแรงมาก",
       "vi": "Cay và nóng."
     }
@@ -1434,7 +1466,7 @@
       "fr": "C'est parti ! Allumons le feu !",
       "pt": "Fora da minha frigideira, seu lugar é no fogo!",
       "ru": "Со сковороды да в огонь!",
-      "id": "Panas-panas keluar dari wajan!",
+      "id": "Keluar wajan, masuk penggorengan!",
       "th": "จุดเตาแล้ว จุดเตาแล้ว!",
       "vi": "Mở nắp rồi mở nắp rồi!"
     }
@@ -1460,13 +1492,13 @@
       "zht": "嘿…哈！",
       "jp": "アハ……ハァ！",
       "ko": "으음… 합!",
-      "en": "Hey...Yah!",
+      "en": "Hey... Yah!",
       "de": "He ... Ha!",
       "es": "¡Eh! ¡Ja!",
       "fr": "Hu... ha !",
       "pt": "Hey...Yah!",
       "ru": "Эй... Да!",
-      "id": "Hii... yah!",
+      "id": "Hii ... yah!",
       "th": "ฮึ่ย...ย่ะห์!",
       "vi": "Hây...ha!"
     }
@@ -1498,7 +1530,7 @@
       "fr": "Parlez avec vos poings si vous ne pouvez pas avec votre bouche !",
       "pt": "Você está frito!",
       "ru": "Я поджарю тебя!",
-      "id": "Hancur sudah kamu!",
+      "id": "GOSONG kamu!",
       "th": "ถ้าจัดการไม่ได้ ทุบให้มันแบนก็พอ!",
       "vi": "Nói không thông, thì phải đánh thôi!"
     }
@@ -1521,7 +1553,7 @@
     },
     "line": {
       "zhs": "见识下师父的枪法！",
-      "zht": "見識一下師傅的槍法！",
+      "zht": "見識一下師父的槍法！",
       "jp": "師匠の技を食らいなさい！",
       "ko": "사부의 창술을 감상하라고!",
       "en": "Eat this!",
@@ -1529,8 +1561,8 @@
       "es": "¡Prueba esto!",
       "fr": "Goûtez à ma lance !",
       "pt": "Coma isso!",
-      "ru": "НА тебе копьём!",
-      "id": "Makan ini!",
+      "ru": "На тебе копьём!",
+      "id": "Makan nih!",
       "th": "ลองชิมฝีมือฉันหน่อย!",
       "vi": "Hãy xem sự lợi hại của ta đây!"
     }
@@ -1562,7 +1594,7 @@
       "fr": "Je cours !",
       "pt": "Vamos correr!",
       "ru": "Обгоню!",
-      "id": "Ayo balapan!",
+      "id": "Ayo balap!",
       "th": "มาวิ่งแข่งกัน มาวิ่งแข่งกัน!",
       "vi": "Chạy thôi chạy thôi!"
     }
@@ -1594,7 +1626,7 @@
       "fr": "J'ai mal à l'estomac...",
       "pt": "Agora estou com dor de estômago...",
       "ru": "Ну вот, живот скрутило...",
-      "id": "Perutku sedikit kram sekarang...",
+      "id": "Duh, perutku kram ....",
       "th": "แน่นท้องจัง....",
       "vi": "Hụt hơi rồi..."
     }
@@ -1624,9 +1656,9 @@
       "de": "Sesam öffne dich! Oh, jetzt bin ich hungrig ...",
       "es": "¡Ábrete, sésamo! Oh, ahora tengo hambre...",
       "fr": "Sésame, ouvre-toi ! Hmm, ça donne faim...",
-      "pt": "Abre de sésamo! Oh, agora estou com fome...",
+      "pt": "É um ingrediente bem fresco!",
       "ru": "Сезам, откройся! Ну вот, теперь я проголодалась...",
-      "id": "Simsalabim! Ah, jadi lapar nih ....",
+      "id": "Simsalabim! Duh, lapar nih ....",
       "th": "นี่มันวัตถุดิบทำอาหารใหม่!",
       "vi": "Nguyên liệu mới à!"
     }
@@ -1705,7 +1737,7 @@
       "de": "Niedrige LP I",
       "es": "Vida baja (I)",
       "fr": "PV faibles (1)",
-      "pt": "Vida baixa - I",
+      "pt": "Vida Baixa - I",
       "ru": "Низкий уровень HP I",
       "id": "HP Rendah: I",
       "th": "ค่าพลังชีวิตต่ำ - 1",
@@ -1713,7 +1745,7 @@
     },
     "line": {
       "zhs": "呜，今天的食材好凶啊。",
-      "zht": "嗚，今天的食材好兇啊。",
+      "zht": "嗚，今天的食材好凶啊。",
       "jp": "うっ、今日の食材は凶悪ね。",
       "ko": "오늘 식자재 무시무시하네",
       "en": "No ingredients for me today...",
@@ -1722,7 +1754,7 @@
       "fr": "Pas d'ingrédients pour moi aujourd'hui...",
       "pt": "Sem ingredientes para mim hoje...",
       "ru": "На сегодня ингредиентов нет...",
-      "id": "Tidak ada bahan makanan untukku hari ini...",
+      "id": "Bahan makanan hari ini galak amat ....",
       "th": "หึ วัตถุดิบวันนี้เด็ดมาก",
       "vi": "Hix, thức ăn hôm nay hung dữ quá."
     }
@@ -1737,7 +1769,7 @@
       "de": "Niedrige LP II",
       "es": "Vida baja (II)",
       "fr": "PV faibles (2)",
-      "pt": "Vida baixa - II",
+      "pt": "Vida Baixa - II",
       "ru": "Низкий уровень HP II",
       "id": "HP Rendah: II",
       "th": "ค่าพลังชีวิตต่ำ - 2",
@@ -1745,14 +1777,14 @@
     },
     "line": {
       "zhs": "哎呀，疼疼疼…",
-      "zht": "哎呀，疼疼疼…",
+      "zht": "哎呀，痛痛痛…",
       "jp": "アチャー、イタタタ…",
       "ko": "아야, 아파아파…",
       "en": "Ow! Oh...",
       "de": "Es tut weh ...",
       "es": "¡Au! Oh...",
       "fr": "Aïe ! Ça fait mal...",
-      "pt": "Ai! *Careta*",
+      "pt": "Ai, ai, ai...",
       "ru": "Ох... *гримаса*",
       "id": "Aw, aw!",
       "th": "โอ๊ยย เจ็บ ๆๆ...",
@@ -1769,7 +1801,7 @@
       "de": "Niedrige LP III",
       "es": "Vida baja (III)",
       "fr": "PV faibles (3)",
-      "pt": "Vida baixa - III",
+      "pt": "Vida Baixa - III",
       "ru": "Низкий уровень HP III",
       "id": "HP Rendah: III",
       "th": "ค่าพลังชีวิตต่ำ - 3",
@@ -1777,7 +1809,7 @@
     },
     "line": {
       "zhs": "我是不是惹了个不得了的家伙！",
-      "zht": "我是不是惹了個了不得的傢伙！",
+      "zht": "我是不是惹了個不得了的傢伙！",
       "jp": "アタシってとんでもないヤツを怒らせちゃった！？",
       "ko": "내가 엄청난 녀석을 건드린 건가?",
       "en": "Now I'm really in a pickle!",
@@ -1787,7 +1819,7 @@
       "pt": "Agora estou realmente em apuros!",
       "ru": "Ну всё, укатали!",
       "id": "Gawat, bahaya nih!",
-      "th": "นี่ฉันเจอกับคนน่ารำคาญเข้าแล้วใช่ไหมเนี่ย!",
+      "th": "ฉันคงหาเรื่องผิดคนแล้วสินะ!",
       "vi": "Hình như chọc trúng tổ kiến lửa rồi nhỉ!"
     }
   },
@@ -1818,7 +1850,7 @@
       "fr": "J'ai ruiné le plat...",
       "pt": "O jantar vai sair queimado...",
       "ru": "Ужин подгорит...",
-      "id": "Hancur sudah makan malamku...",
+      "id": "Makan malamnya gosong deh ....",
       "th": "หมดกันงานนี้...",
       "vi": "Làm hỏng chuyện rồi..."
     }
@@ -1847,10 +1879,10 @@
       "en": "Water...",
       "de": "Bin ich durstig ...",
       "es": "Agua...",
-      "fr": "J'ai soif... soudainement...",
+      "fr": "J'ai soif... Soudainement...",
       "pt": "Água...",
       "ru": "Воды...",
-      "id": "Air...",
+      "id": "Air ....",
       "th": "จู่ ๆ ...ก็หิวน้ำ...",
       "vi": "Đột nhiên...khát quá..."
     }
@@ -1862,7 +1894,7 @@
       "jp": "戦闘不能·3",
       "ko": "전투 불능·세 번째",
       "en": "Fallen: III",
-      "de": "Ohmächtig III",
+      "de": "Ohnmächtig III",
       "es": "Derrotada (III)",
       "fr": "K.O. (3)",
       "pt": "Derrotado - III",
@@ -1882,7 +1914,7 @@
       "fr": "Est-ce que... j'ai tout gâché...",
       "pt": "Não... Será que estraguei tudo?",
       "ru": "Нет... Всё испорчено?",
-      "id": "Tidak... Apa aku sudah kacaukan segalanya?",
+      "id": "Aduh ... kacau ya semuanya?",
       "th": "ฉันทำให้เธอ...เดือดร้อนไปด้วยรึเปล่า...",
       "vi": "...Liên lụy bạn rồi..."
     }
@@ -1914,7 +1946,7 @@
       "fr": "Ne me frappez pas...",
       "pt": "Não me machuque...",
       "ru": "Не бей меня...",
-      "id": "Jangan serang aku...",
+      "id": "Jangan pukul aku ....",
       "th": "อย่าตีฉันนะ...",
       "vi": "Đừng đánh ta..."
     }
@@ -1946,7 +1978,7 @@
       "fr": "Au secours ! Mes ingrédients me frappent !",
       "pt": "Me ajudem! Meu jantar está me atacando!",
       "ru": "На помощь! Мой ужин напал на меня!",
-      "id": "Tolong! Makan malamku menyerangku!",
+      "id": "Tolong! Makan malamnya galak!!!",
       "th": "ช่วยด้วย อาหารทำร้ายคน!",
       "vi": "Cứu mạng với, đồ ăn đánh người nè!"
     }
@@ -1969,7 +2001,7 @@
     },
     "line": {
       "zhs": "还挺疼的唔…",
-      "zht": "還挺疼的唔…",
+      "zht": "還滿痛的唔…",
       "jp": "痛いよ…",
       "ko": "진짜 아파…",
       "en": "That really hurt!",
@@ -1978,7 +2010,7 @@
       "fr": "Ça m'a fait super mal...",
       "pt": "Essa doeu!",
       "ru": "Это так больно!",
-      "id": "Sakit sekali!",
+      "id": "Sakittt!",
       "th": "เจ็บใช่เล่นเลยนะเนี่ย...",
       "vi": "Cũng đau lắm chứ bộ..."
     }
@@ -2010,7 +2042,7 @@
       "fr": "J'ai ramené toutes mes épices !",
       "pt": "Vou trazer meus temperos!",
       "ru": "Возьму с собой пряности!",
-      "id": "Aku akan bawa lengkap bumbu-bumbunya!",
+      "id": "Bumbunya aku bawa semua!",
       "th": "เอาเครื่องปรุงมาครบแล้ว!",
       "vi": "Gia vị đã đủ rồi!"
     }
@@ -2042,7 +2074,7 @@
       "fr": "Ma lance est aiguisée !",
       "pt": "Minha lança está afiada!",
       "ru": "Копьё уже наточено!",
-      "id": "Aku baru saja mengasah tajam tombakku!",
+      "id": "Tombak sudah diasah!",
       "th": "ลับคมหอกจนเงาวับ!",
       "vi": "Thương đã mài bóng loáng!"
     }
@@ -2075,7 +2107,7 @@
       "pt": "Mal posso esperar!",
       "ru": "Я не могу больше ждать!",
       "id": "Aku sudah tidak bisa menunggu lebih lama lagi!",
-      "th": "รอไม่ได้อีกต่อไปแล้ว!",
+      "th": "รอต่อไปไม่ได้แล้ว!",
       "vi": "Không muốn đợi thêm dù chỉ một khắc!"
     }
   }

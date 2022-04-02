@@ -21,11 +21,11 @@
       "jp": "稲妻神里流太刀術免許皆伝——神里綾華、参ります！\n\nよろしくお願いします。",
       "ko": "이나즈마의 카미사토류 태도술 계승자——카미사토 아야카, 참전!\n\n잘 부탁드려요",
       "en": "Master of Inazuma Kamisato Art Tachi Jutsu — Kamisato Ayaka, present!\n\nDelighted to make your acquaintance.",
-      "de": "Ich bin Kamisato Ayaka, Meister des Kamisato-Stils von Inazuma. Es freut mich, euch kennenzulernen.",
+      "de": "Ich bin Kamisato Ayaka, Meister des Kamisato-Stils von Inazuma.\n\nEs freut mich, euch kennenzulernen.",
       "es": "Kamisato Ayaka, maestra de la técnica de la espada, ¡presente!\n\nEs un auténtico placer.",
       "fr": "Je suis Kamisato Ayaka, maîtresse du Jutsu du tachi de l'école Kamisato d'Inazuma.\n\nEnchantée de faire votre connaissance.",
       "pt": "Kamisato Ayaka, mestre da Arte Kamisato Tachi Jutsu, está aqui para aceitar o seu desafio!\n\nVamos fazer o nosso melhor.",
-      "ru": "Мастер искусства Камисато Тати Дзюцу, Камисато Аяка, здесь!\n\nРада с вами познакомиться.",
+      "ru": "Мастер инадзумского искусства Камисато Тати Дзюцу, Камисато Аяка к вашим услугам!\n\nРада познакомиться.",
       "id": "Master dari Inazuma Kamisato Art Tachi Jutsu — Kamisato Ayaka, hadir!\n\nSenang berkenalan dengan kalian semua.",
       "th": "Kamisato Ayaka ผู้สำเร็จวิชาดาบแห่ง Inazuma Kamisato Art Tachi Jutsu มารับคำท้าถึงที่แล้ว!\n\nช่วยชี้แนะด้วยนะ",
       "vi": "Tôi là Kamisato Ayaka thuộc Trường Phái Kamisato\n\nRất vui được làm quen với bạn."
@@ -57,9 +57,9 @@
       "es": "Ojalá mi vida pudiera ser tan tranquila como este momento... Oh, pero qué avariciosa de mi parte.",
       "fr": "Si seulement ma vie pouvait être aussi calme plus souvent... J'en demande trop.",
       "pt": "Só queria que a vida fosse fácil assim mais vezes... Ah, que ganância a minha.",
-      "ru": "Я хочу одного, чтобы жизнь чаще бывала такой беззаботной, как сейчас... О, я так жажду этого...",
-      "id": "Aku harap hidup sesantai ini bisa lebih sering terjadi... Betapa tamaknya aku.",
-      "th": "ถ้าได้มีช่วงเวลาที่สบาย ๆ และสงบแบบนี้บ่อย ๆ ก็คงจะดีนะ... ฉันโลภมากเกินไปแล้ว",
+      "ru": "Я хочу одного, только жизнь чаще бывала такой беззаботной, как сейчас... О, как я жажду этого...",
+      "id": "Aku harap hidup sesantai ini bisa lebih sering terjadi ... Betapa tamaknya aku.",
+      "th": "ถ้าได้มีช่วงเวลาที่สบาย ๆ และสงบแบบนี้บ่อย ๆ ก็คงจะดีนะ... ฉันโลภเกินไปซะแล้ว",
       "vi": "Thời gian yên bình nhàn rỗi thế này, nếu được tận hưởng nhiều hơn thì tốt quá... Mình thật tham lam."
     }
   },
@@ -123,7 +123,7 @@
       "pt": "#Então é assim um dia na vida d{F#a}{M#o} Viajante... Hehe, aprendo um pouco mais sobre você a cada momento.",
       "ru": "#Так вот он какой - день из жизни {F#путешественницы}{M#путешественника}... Я с каждым разом узнаю о тебе всё больше.",
       "id": "Jadi inikah kegiatan sehari-hari seorang pengembara? Hehe, rasanya aku sudah mengenalmu lebih dalam lagi.",
-      "th": "นี่คือชีวิตปกติของนักเดินทางงั้นเหรอ... อืม รู้สึกเหมือนได้รู้จักเธอมากขึ้นเลย",
+      "th": "นี่คือชีวิตปกติของนักเดินทางงั้นเหรอ... อืม รู้สึกเหมือนได้รู้จักเธอมากขึ้นเลยนะ",
       "vi": "Đây là đời sống hằng ngày của Nhà Lữ Hành sao, hì, bỗng có cảm giác hiểu bạn hơn rồi."
     }
   },
@@ -155,8 +155,8 @@
       "pt": "A lâmina anseia por cumprir o seu dever, assim como o joalheiro anseia por uma gema premiada.",
       "ru": "Клинок предан своему долгу подобно тому, как ювелир верен своим самоцветам.",
       "id": "Pedang menjalankan tugasnya sama seperti pengrajin perhiasan menghargai permatanya.",
-      "th": "ดาบโหยหาเลือดเนื้อ เฉกเช่นช่างฝีมือใฝ่หาอัญมณีอันงดงาม",
-      "vi": "Đao kiếm tạo sự nghiệp, công danh tựa đá quý."
+      "th": "คมดาบโอบกอดหน้าที่ เฉกเช่นช่างฝีมือที่หวงแหนอัญมณีอันงดงาม",
+      "vi": "Đao kiếm ôm hoài bão sự nghiệp, tựa người thợ nâng niu viên ngọc quý của mình."
     }
   },
   {
@@ -214,7 +214,7 @@
       "ko": "쇼군께서… 무언갈 하소연하고 있는 게 아닐까요?",
       "en": "Her Excellency... What is she trying to communicate?",
       "de": "Ihre Exzellenz ... Was versucht sie zu sagen?",
-      "es": "Su Excelencia... ¿qué estará tratando de decirnos?",
+      "es": "Su Excelencia... ¿Qué estará tratando de decirnos?",
       "fr": "Son Excellence... Qu'essaie-t-elle de dire ?",
       "pt": "Sua Excelência... O que ela está tentando dizer?",
       "ru": "Её превосходительство... Что она пытается нам сказать?",
@@ -251,7 +251,7 @@
       "pt": "“Neve que adorna o mundo em tons de prata, descongela e revela o brilho das frutas em galhos congelados”. Que pitoresco! Só faltou um chá para deixar esse cenário ainda melhor.",
       "ru": "«Снег, что некогда украсил мир серебром, тает, обнажая мерцание плодов на тронутых морозом ветвях»... Как живописно! Чтобы эта картина стала завершённой, не хватает лишь чая.",
       "id": "\"Salju yang pernah menghiasi dunia dengan warna perak, mencair untuk mengungkap kilauan buah yang tergantung di cabang-cabang beku.\" *huff* Sungguh pemandangan yang indah! Secangkir teh akan membuat keindahan ini semakin lengkap.",
-      "th": "\"หิมะขาวเปลี่ยนโลกเป็นสีเงิน กิ่งไม้เปล่งประกายทอแสง\" อืม... เป็นวิวที่งดงามจริง ๆ ถ้ามีชาดี ๆ สักกาคงจะเพอร์เฟกต์ไปเลย",
+      "th": "\"หิมะขาวเปลี่ยนโลกเป็นสีเงิน กิ่งไม้เปล่งประกายทอแสง\" อืม... เป็นวิวที่งดงามจริง ๆ ถ้ามีชาดี ๆ สักกาคงจะเพอร์เฟกต์ไปเลยล่ะ",
       "vi": "Tuyết tạnh phủ trắng xóa, quýt cao tôn cành ngọc. Uhm... Phong cảnh đẹp thế này, chỉ thiếu một bình trà để phụ họa thôi."
     }
   },
@@ -282,7 +282,7 @@
       "fr": "Il fait beau aujourd'hui, avec un peu de vent. Devrions-nous aller nous promener quelque part ?",
       "pt": "A brisa está agradável e o sol está glorioso... Onde podemos caminhar?",
       "ru": "Сегодня приятный ветерок и такое ласковое солнышко... Может быть, нам пойти прогуляться?",
-      "id": "Ada angin sepoi-sepoi dan sinar matahari yang cerah... Jadi, kita mau jalan-jalan ke mana?",
+      "id": "Ada angin sepoi-sepoi dan sinar matahari yang cerah ... Jadi, kita mau jalan-jalan ke mana?",
       "th": "สายลมและแสงแดด... ไปเดินเล่นที่ไหนดีนะ?",
       "vi": "Nắng ấm gió hiu hiu, có muốn đi dạo không?"
     }
@@ -314,8 +314,8 @@
       "fr": "Fermez les yeux et faites face à la direction du vent... c'est réconfortant, n'est-ce pas ?",
       "pt": "Feche seus olhos e fique de frente para o vento... É uma sensação maravilhosa, não é?",
       "ru": "Закрой глаза и подставь лицо ветру... Чудесно, правда?",
-      "id": "Tutuplah matamu dan biarkan angin bertiup... Rasanya luar biasa, ya?",
-      "th": "หลับตาลง แล้วหันหน้าไปรับลมดูสิ... เป็นไง? สบายมากเลยใช่มั้ยล่ะ?",
+      "id": "Tutuplah matamu dan biarkan angin bertiup ... Rasanya luar biasa, ya?",
+      "th": "หลับตาลง แล้วหันหน้าไปรับลมดูสิ...เป็นไง? สบายมากเลยใช่มั้ยล่ะ?",
       "vi": "Hãy nhắm mắt lại, hướng về phía gió thổi... Sao nào, thoải mái chứ?"
     }
   },
@@ -345,8 +345,8 @@
       "es": "#Oh, buenos días, viajer{F#a}{M#o}. Siempre que nos vemos por la mañana, de alguna manera siento que va a ser un buen día.",
       "fr": "#Bonjour, {M#voyageur}{F#voyageuse}. En vous voyant le matin comme ça, je ne peux m'empêcher de penser... que la journée sera bonne.",
       "pt": "Ah, bom dia, Viajante. ... Sempre que vejo você pela manhã, de alguma forma, eu sinto que... Hoje vai ser um dia bom.",
-      "ru": "#О, доброе утро, путешественни{F#ца}{M#к}. Каждое утро, когда я тебя вижу, мне почему-то кажется, что нас ждёт хороший день.",
-      "id": "Oh, selamat pagi, Pengembara... Setiap kali melihatmu di pagi hari, entah kenapa membuatku merasa... hari ini akan menjadi hari yang indah.",
+      "ru": "#О, доброе утро, путешественни{F#ца}{M#к}. Всякий раз, когда встречаю тебя утром, мне почему-то кажется, что нас ждёт хороший день.",
+      "id": "Oh, selamat pagi, Pengembara ... Setiap kali melihatmu di pagi hari, entah kenapa membuatku merasa ... hari ini akan menjadi hari yang indah.",
       "th": "อรุณสวัสดิ์ นักเดินทาง ได้เจอเธอตั้งแต่เช้าแบบนี้ ทำให้ฉันรู้สึกได้ว่า... วันนี้ต้องเป็นวันที่ราบรื่นแน่นอน",
       "vi": "Chào buổi sáng, nhà lữ hành. Có thể gặp bạn trong buổi sáng ban mai thế này, tôi thật sự không kìm lòng được... cảm thấy... hôm nay sẽ là một ngày suôn sẻ."
     }
@@ -441,7 +441,7 @@
       "es": "“¿Fueron mis pensamientos los que lo trajeron a mis sueños? Si hubiera sabido que era un sueño, nunca me habría despertado”. Jeje, me encanta este poema.",
       "fr": "« Si vous savez que c'est un rêve, vous n'avez pas besoin de vous réveiller, ce n'est pas plus qu'une vraie rencontre. »",
       "pt": "\"Terão sido os pensamentos de uma pessoa que a trouxeram até meus sonhos? Se eu soubesse que era um sonho, não teria acordado.\"",
-      "ru": "«Может быть, это его мысли привели его в мои сны? Знай я, что это сон, час пробуждения никогда не настал бы». Обожаю этот стих.",
+      "ru": "«Может быть, это его мысли привели его в мои сны? Знай я, что это сон, час пробуждения никогда не настал бы». Обожаю эти стихи.",
       "id": "\"Apakah pikiranku yang menariknya ke dalam mimpiku? Seandainya aku mengetahuinya sebagai mimpi, maka aku tidak akan terbangun.\" Hehe, aku suka puisi itu.",
       "th": "\"หากแม้นรู้ว่าฝันแล้วใยต้องพลันตื่น ลืมตาฟื้นขึ้นมาพบพานกับความจริง\"",
       "vi": "Nếu biết là mơ sao phải tỉnh, chi bằng hò hẹn cùng với nhau."
@@ -467,7 +467,7 @@
       "zhs": "「稻妻幕府社奉行神里家」，位于稻妻名门中的笔头之格位。作为三奉行之一，掌管祭祀活动与人文艺术。自从双亲过世之后，族内的大小事务，便由兄长和我承担了。",
       "zht": "「稻妻幕府社奉行神里家」，位於稻妻名門中的筆頭之格位。作為三奉行之一，掌管祭祀活動與人文藝術。自從雙親過世之後，族內的大小事務，便由兄長和我承擔了。",
       "jp": "「稲妻幕府社奉行神里家」、稲妻の名門にして筆頭。三奉行の一つとして、祭祀活動や人道、芸術などの管理を担っています。両親が亡くなってからは、私とお兄様が一族の業務を受け継ぎました。",
-      "ko": "「이나즈마 막부 야시로 봉행 카미사토 가문」은 이나즈마 최고의 명문에요. 삼봉행 중 하나로 제사와 문화 예술적인 부분을 주관하죠. 부모님이 돌아가신 후 가문의 모든 일은 오빠와 제가 담당하고 있어요",
+      "ko": "「이나즈마 막부 야시로 봉행 카미사토 가문」은 이나즈마 최고의 명문이에요. 삼봉행 중 하나로 제사와 문화 예술적인 부분을 주관하죠. 부모님이 돌아가신 후 가문의 모든 일은 오빠와 제가 담당하고 있어요",
       "en": "\"Inazuma Shogunate, Yashiro Commission, Kamisato Clan.\" Widely known as one of the most distinguished clans in all of Inazuma, it is the branch of the Tri-Commission that manages ceremonial and cultural affairs. Since my parents passed, Brother and I assumed responsibility for all clan matters, big and small.",
       "de": "„Bakufu von Inazuma, Yashiro-Verwaltung, Kamisato-Klan.“ Weithin bekannt als einer der angesehensten Klans in ganz Inazuma, ist er einer der Klans in der Dreierverwaltung, der sich um zeremonielle und kulturelle Angelegenheiten kümmert. Seit dem Tod meiner Eltern haben mein Bruder und ich die Verantwortung für alle großen und kleinen Familienangelegenheiten übernommen.",
       "es": "El clan Kamisato, perteneciente a la Comisión Yashiro del shogunato de Inazuma, es conocido por ser uno de los clanes más distinguidos de la nación. Es la rama del Triunvirato encargada de los asuntos ceremoniales y culturales. Cuando mis padres fallecieron, mi hermano y yo asumimos todas las responsabilidades de nuestro clan, tanto las grandes como las pequeñas.",
@@ -501,12 +501,12 @@
       "jp": "多くの方々が私を敬重してくださるのは、私を「白鷺の姫君」や社奉行神里家の令嬢として見ているからです。彼らが敬重しているのは私の立場であって、綾華という一個人とは関係ございません…\n\nですので、私と本当に近しい関係になれるお方は、おそらく…",
       "ko": "사람들은 제가 「백로공주」이자 야시로 봉행 카미사토 가문의 장녀이기 때문에 절 존경해요. 그들이 존경하는 건 제 신분과 지위일 뿐이지, 제가 어떤 사람인지랑은 아무런 상관도 없죠…. 그래서 제게 진심으로 다가올 수 있는 사람은 어쩌면…",
       "en": "Many look up to me as the Shirasagi Himegimi and as the daughter of the Kamisato Clan. But the object of their respect has everything to do with my position, and nothing at all to do with me, Ayaka. It makes me think that... maybe, there is only one person I know who is truly able to get close to me...",
-      "de": "Viele sehen mich als Shirasagi Himegimi und als Tochter des Kamisato-Klans. Aber das Objekt ihres Respekts hat alles mit meiner Position zu tun und überhaupt nichts mit mir, Ayaka. Vielleicht gibt es nur eine Person, die ich kenne, die wirklich in der Lage ist, mir nahe zu kommen ...",
-      "es": "Mucha gente me admira como Princesa Garza e hija del clan Kamisato. Pero el objeto de su admiración es mi estatus, no yo misma, Ayaka. Eso me hace pensar que... tal vez solo conozco a una persona que de verdad es capaz de acercarse a mí.",
+      "de": "Viele sehen mich als Shirasagi Himegimi und als Tochter des Kamisato-Klans. Aber das Objekt ihres Respekts hat alles mit meiner Position zu tun und überhaupt nichts mit mir, Ayaka.\n\nVielleicht gibt es nur eine Person, die ich kenne, die wirklich in der Lage ist, mir nahe zu kommen ...",
+      "es": "Mucha gente me admira como Princesa Garza y descendiente del clan Kamisato. Pero el objeto de su admiración es mi estatus, no yo misma, Ayaka. Eso me hace pensar que... tal vez solo conozco a una persona que de verdad es capaz de acercarse a mí.",
       "fr": "Beaucoup de gens me respectent parce que je suis la Shirasagi Himegimi et membre du Clan Kamisato. Ce respect est lié à mon statut social et non à ma personne. Alors je me dis qu'il n'y a qu'une seule personne qui puisse réellement se rapprocher de moi...",
       "pt": "Muitos me admiram como Shirasagi Himegimi e filha do Clã Kamisato. Mas o respeito de todos é devido à minha posição, e nada tem a ver comigo, Ayaka. Isso me faz pensar que... talvez exista apenas uma pessoa que eu conheço que é realmente capaz de se aproximar de mim...",
       "ru": "Многие видят во мне Сирасаги Химэгими и дочь клана Камисато. Но объект их уважения связан исключительно с моей должностью и не имеет ничего общего со мной, Аякой. Напрашивается мысль о том, что... возможно, из всех знакомых мне людей только один человек действительно способен сблизиться со мной...",
-      "id": "Banyak orang yang menghormatiku karena statusku sebagai Shirasagi Himegimi dan putri Klan Kamisato. Tapi yang mereka hormati hanyalah posisiku belaka, tidak ada hubungannya sama sekali dengan aku — Ayaka...\n\nMungkin hanya satu orang yang bisa benar-benar dekat denganku...",
+      "id": "Banyak orang yang menghormatiku karena statusku sebagai Shirasagi Himegimi dan putri Klan Kamisato. Tapi yang mereka hormati hanyalah posisiku belaka, tidak ada hubungannya sama sekali dengan aku — Ayaka ....\n\nMungkin hanya satu orang yang bisa benar-benar dekat denganku ....",
       "th": "มีคนมากมายที่ให้ความเคารพฉัน เพราะว่าฉันคือ \"องค์หญิงกระเรียนขาว\" ที่เป็นคุณหนูใหญ่ของตระกูล Kamisato แห่งสำนัก Yashiro เพียงเพราะว่าตำแหน่งจุดยืนของฉัน ไม่ได้เกี่ยวอะไรกับตัวฉันที่เป็น Ayaka คนนี้เลย...\n\nเพราะงั้นฉันจึงคิดว่า คนที่สามารถเข้าใกล้ฉันได้อย่างแท้จริง บางทีคงจะมีเพียง....",
       "vi": "Rất nhiều người kính trọng tôi vì tôi là Shirasagi Himegimi, là đại tiểu thư của Hiệp Hội Yashiro nhà Kamisato. Điều mà họ kính trọng chỉ là địa vị của tôi, chứ không liên quan đến con người thật sự của Ayaka này...\n\nCho nên theo tôi nghĩ, người có thể thật sự gần gũi với tôi, có lẽ chỉ có..."
     }
@@ -557,7 +557,7 @@
       "ru": "О нас: Чайный дом",
       "id": "Tentang Kita: Teahouse",
       "th": "เกี่ยวกับพวกเรา: ร้านชา",
-      "vi": "Về Chúng Tôi - Phòng Trà"
+      "vi": "Về Chúng Ta - Phòng Trà"
     },
     "line": {
       "zhs": "如你有空，我们移步木漏茶室如何？在这样恬静的日子，略加交流茶艺心得，想来是颇具雅趣的。",
@@ -589,7 +589,7 @@
       "ru": "О нас: Праздники",
       "id": "Tentang Kita: Perayaan",
       "th": "เกี่ยวกับพวกเรา: เทศกาล",
-      "vi": "Về Chúng Tôi - Ngày Lễ"
+      "vi": "Về Chúng Ta - Ngày Lễ"
     },
     "line": {
       "zhs": "如果有机会的话，我想试着和你共度异国的节日。需要遵循的当地风俗、礼仪规范，还有伴手礼的推荐，可以麻烦你…一一指导我吗？",
@@ -602,7 +602,7 @@
       "fr": "Si c'est possible un jour, j'aimerais assister à un jour de fête en votre compagnie à l'étranger. J'aurais besoin d'informations sur les coutumes et l'étiquette locales, ainsi que des conseils pour des cadeaux à offrir... Accepteriez-vous de m'aider ?",
       "pt": "Se eu puder, gostaria muito de conhecer as festas de outros países com você um dia. Mas vou precisar de orientação sobre costumes locais e etiqueta, além de conselhos para saber que presentes levar... Será que você poderia me guiar?",
       "ru": "Если выдастся шанс, когда-нибудь я с удовольствием познакомлюсь с праздничными традициями другого народа вместе с тобой. Правда, мне нужна будет информация о местных привычках и этикете, а также советы о том, какие подарки подготовить... Не затруднит ли тебя рассказать мне об этом?",
-      "id": "Kalau aku bisa punya kesempatan, aku sangat ingin menikmati perayaan negara lain bersamamu. Tapi aku memerlukan beberapa panduan tentang adat dan etiket setempat, dan saran hadiah apa yang harus dibawa... Bisakah aku merepotkanmu untuk memberiku beberapa panduan?",
+      "id": "Kalau aku bisa punya kesempatan, aku sangat ingin menikmati perayaan negara lain bersamamu. Tapi aku memerlukan beberapa panduan tentang adat dan etiket setempat, dan saran hadiah apa yang harus dibawa ... Bisakah aku merepotkanmu untuk memberiku beberapa panduan?",
       "th": "ถ้ามีโอกาสล่ะก็ ฉันอยากจะลองไปงานเทศกาลที่ต่างแดนกับเธอบ้าง ธรรมเนียมและกฎกติกามารยาทของท้องถิ่นที่ต้องปฏิบัติตาม รวมถึงคำแนะนำต่าง ๆ เกี่ยวกับของฝาก เธอช่วย... ให้คำแนะนำฉันหน่อยได้มั้ย?",
       "vi": "Nếu có cơ hội, tôi muốn thử cùng bạn đi chơi lễ ở đất nước khác. Phải tuân thủ phong tục, luật lệ lễ nghi địa phương như thế nào, và tặng quà lưu niệm ra sao, có thể nhờ bạn... chỉ bảo cho tôi không?"
     }
@@ -634,7 +634,7 @@
       "fr": "L'œil divin est un sceau d'approbation pour les personnes dotées d'une grande ambition. La mienne ? ... C'est un secret pour l'instant. Il ne s'agit que d'un rêve insignifiant.",
       "pt": "As Visões são um selo de aprovação para os mais ambiciosos. Quanto às minhas ambições, elas continuarão em segredo por enquanto. Não passam de um sonho insignificante.",
       "ru": "Глаза Бога - знак одобрения для самых честолюбивых. Что касается моих целей и чаяний, пока я сохраню их в тайне. Это не более чем малозначимая мечта.",
-      "id": "Vision adalah bukti persetujuan bagi mereka yang paling ambisius. Kalau kamu tanya apa ambisiku... itu rahasia. Hanya sebuah mimpi yang tidak penting.",
+      "id": "Vision adalah bukti persetujuan bagi mereka yang paling ambisius. Kalau kamu tanya apa ambisiku ... itu rahasia. Hanya sebuah mimpi yang tidak penting.",
       "th": "\"วิชั่น\" คือตราประทับของผู้คนที่มีความปรารถนาอันยิ่งใหญ่ ถ้าถามฉันว่าความปรารถนาของฉันคืออะไร... เรื่องนี้ขอเก็บเป็นความลับละกันนะ มันก็แค่ความฝันเล็ก ๆ น้อย ๆ เท่านั้นแหละ",
       "vi": "Vision là ấn tín dành cho người mang hoài bão lớn. Nếu như hỏi tôi có chí hướng gì... chuyện này bí mật nhé, đó chỉ là một giấc mơ nhỏ nhoi mà thôi."
     }
@@ -665,7 +665,7 @@
       "es": "Dicen que “la meditación y el té tienen el mismo sabor”, y que “la meditación y la espada son igual de poderosas”. Por ello, uno podría preguntarse: “Entonces, ¿qué relación hay entre el té y la espada?”",
       "fr": "Demandez, on dit souvent que « le Zen et le thé sont les mêmes », et que « l'épée et le Zen sont les mêmes », alors quelle est la relation entre l'épée et le thé ?",
       "pt": "Dizem que \"o sabor do Zen é o sabor do chá\", mas também dizem que \"o poder do Zen é o poder da lâmina\". Eu me pergunto, qual será a relação que existe entre chás e espadas?",
-      "ru": "Есть такое выражение «хочешь вдохнуть аромат дзэн - понюхай чай». Есть и другое «сила дзэн - в силе клинка». Напрашивается вопрос: нет ли выражения, описывающего связь между чаем и клинком?",
+      "ru": "Есть такое выражение «хочешь вдохнуть аромат дзэн - понюхай чай». Есть и другое «сила дзэн - в силе клинка». Напрашивается вопрос: что общего между чаем и клинком?",
       "id": "Dikatakan bahwa \"hati menyatu dengan teh\", dan ada juga yang mengatakan bahwa \"hati manusia seperti pedang\", jadi apa hubungannya pedang dan teh?",
       "th": "ถามหน่อยสิ ที่ผู้คนพูดกันว่า \"รสชาติของเซนคือรสชาติของชา\" และก็ \"พลังของเซนคือพลังแห่งดาบ\" ถ้างั้นชากับดาบมันเกี่ยวกันยังไงนะ?",
       "vi": "Thử hỏi, có câu \"Thiền Trà Cùng Vị\", lại có câu \"Kiếm Thiền Đồng Nhất\", vậy thì kiếm và trà, có mối liên hệ thế nào?"
@@ -698,7 +698,7 @@
       "fr": "Avez-vous déjà vu le cerisier flétri en ville ? Il y a une certaine beauté à cela, qui me rappelle le printemps. La plupart des gens ne sont pas du même avis, car les cerisiers qui ne fleurissent plus sont déracinés. Mais j'aimerais les voir fleurir encore, juste une fois de plus.",
       "pt": "Você já reparou nas árvores Sakura definhadas na cidade? Para mim, existe uma beleza no definhamento. Isso me traz memórias da primavera. A maior parte das pessoas não concorda — árvores Sakura que nunca florescerão novamente são removidas. Porém, quando eu olho para uma árvore, tudo o que eu quero é vê-la florescer novamente... Só mais uma vez...",
       "ru": "Тебе доводилось видеть в городе увядающие сакуры? Мне кажется, что в увядании есть определённая красота, ведь оно навевает воспоминания о весне. Многие люди не согласились бы со мной. Сакуры, которым не суждено уже зацвести, убирают с глаз долой. Но, глядя на дерево, всё, чего я хочу, - снова увидеть его цветущим... хотя бы один только раз...",
-      "id": "Pernahkah kamu memperhatikan pohon sakura yang layu di kota? Keindahan dalam kelayuan tersebut dapat membuatku teringat kembali pada pemandangan indah musim semi. Tapi banyak orang-orang tidak setuju — pohon sakura yang tidak akan pernah mekar lagi akan dicabut. Cukup satu kali saja, aku ingin melihat pohon itu mekar lagi...",
+      "id": "Pernahkah kamu memperhatikan pohon sakura yang layu di kota? Keindahan dalam kelayuan tersebut dapat membuatku teringat kembali pada pemandangan indah musim semi. Tapi banyak orang-orang tidak setuju — pohon sakura yang tidak akan pernah mekar lagi akan dicabut. Cukup satu kali saja, aku ingin melihat pohon itu mekar lagi ....",
       "th": "เธอเคยสังเกตต้นซากุระที่เหี่ยวเฉาในเมืองมั้ย? ความงามของ \"ความเหี่ยวเฉา\" นี้ ทำให้ฉันนึกถึงภาพที่บานสะพรั่งในฤดูใบไม้ผลิ แต่ดูเหมือนว่าคนอื่นจะไม่คิดแบบนี้นะ ต้นซากุระที่ไม่ออกดอกจะต้องถูกถอนทิ้งไป... ขอแค่อีกครั้งเดียวก็ยังดี ฉันอยากจะเห็นมันบานอีกครั้งจังเลย",
       "vi": "Trong tòa thành này, bạn từng thấy hoa anh đào héo úa chưa? Cái đẹp \"héo úa\" này làm tôi nhớ đến cảnh hoa nở vào mùa xuân. Những người khác dường như không nghĩ như vậy, hoa anh đào không nở hoa nữa sẽ được dời đi nơi khác... Cho dù chỉ một lần, tôi cũng muốn nhìn thấy nó nở hoa lần nữa."
     }
@@ -762,7 +762,7 @@
       "fr": "Kujou Sara de la Commission administrative... Elle a toujours cet air austère. D'ailleurs, j'ai eu mon lot de désaccords avec elle, mais on ne peut pas nier sa loyauté envers Inazuma.",
       "pt": "Kujou Sara da Comissão Tenryou... Conhecida por não sorrir, e tive minha dose de brigas com ela. Porém, ela serve Inazuma com lealdade, quanto a isso não há dúvidas.",
       "ru": "Кудзё Сара из комиссии Тэнрё... Никто не видел её улыбающейся, а мне частенько доводилось спорить с ней о многих вопросах. Однако она верно служит Инадзуме, в этом нет никаких сомнений.",
-      "id": "Kujou Sara dari Komisi Tenryou... dia tidak suka tersenyum dan aku sering berselisih dengannya. Tapi dia sangat setia dalam melayani Inazuma, hal ini tidak perlu dipertanyakan lagi.",
+      "id": "Kujou Sara dari Tenryou Commission ... dia tidak suka tersenyum dan aku sering berselisih dengannya. Tapi dia sangat setia dalam melayani Inazuma, hal ini tidak perlu dipertanyakan lagi.",
       "th": "Kujou Sara ผู้ทำงานให้แก่ \"สำนัก Tenryou\" ...เธอมักจะทำหน้าเคร่งขรึมอยู่ตลอดเวลา ฉันกับเธอมีเรื่องให้ต้องเถียงกันอยู่บ้างในบางครั้ง อย่างไรก็ตามความซื่อสัตย์ของเธอนั้น เป็นเรื่องที่ไม่สามารถปฏิเสธได้จริง ๆ",
       "vi": "Kujou Sara làm việc cho Hiệp Hội Tenryou... Cô ấy luôn có khuôn mặt nghiêm túc. Tôi và cô ấy từng có tranh chấp, nhưng bản chất của cô ấy là một người trung nghĩa, điều này không thể phủ nhận."
     }
@@ -794,7 +794,7 @@
       "fr": "M. Shikanoin ? Il fait aussi partie de la Commission administrative comme Mlle Kujou. C'est... aussi un homme avec de grands principes qui est encore plus extrême qu'elle dans leur application. Quant aux affaires qui devraient être gouvernées par ses principes... Je pense qu'il les connaît.",
       "pt": "O Sr. Shikanoin pertence à Comissão Tenryou, assim como a Srta. Kujou. Ele é muito... escrupuloso, às vezes de forma até mais determinada que a Srta. Kujou. O problema é que, quando se trata das questões que devem ser governadas pelos seus princípios, acredito que só o Sr. Shikanoin saiba a resposta.",
       "ru": "Господин Сиканоин, как и госпожа Кудзё, входит в комиссию Тэнрё. Он очень... принципиален, и зачастую действует гораздо решительнее госпожи Кудзё. Только вот ответ на вопрос о том, какие именно проблемы должны решаться с учётом его принципов, полагаю, знает один лишь господин Сиканоин...",
-      "id": "Tuan Shikanoin adalah anggota Tenryou Commission, sama seperti Nona Kujou. Dia adalah orang yang berprinsip teguh, terkadang bahkan lebih tegar dari Nona Kujou. Tentang hal-hal apa saja yang harus diatur oleh prinsip-prinsipnya, kurasa hanya Tuan Shikanoin sendiri yang tahu jawabannya...",
+      "id": "Tuan Shikanoin adalah anggota Tenryou Commission, sama seperti Nona Kujou. Dia adalah orang yang berprinsip teguh, terkadang bahkan lebih tegar dari Nona Kujou. Tentang hal-hal apa saja yang harus diatur oleh prinsip-prinsipnya, kurasa hanya Tuan Shikanoin sendiri yang tahu jawabannya ....",
       "th": "คุณ Shikanoin? เขาก็เหมือนกับคุณ Kujou นั่นแหละ เป็นคนของ \"สำนัก Tenryou\" เขาเอง... ก็เป็นคนที่มีหลักการเช่นกัน สำหรับ \"หลักการ\" เหล่านี้น่ะ น่าจะถึงขั้นเข้มงวดกว่าคุณ Kujou ซะอีก เพียงแต่ว่า เรื่องอะไรบ้างที่ควรนับให้อยู่ใน \"หลักการ\" เหล่านี้ ฉันว่า... บางทีคงจะมีแต่เจ้าตัวเท่านั้นที่รู้ล่ะนะ",
       "vi": "Ngài Shikanoin Heizou? Ngài ấy là người trong \"Hiệp Hội Tenryou\" như Kujou. Ngài ấy cũng là một người rất có nguyên tắc. Về việc tuân thủ nguyên tắc thì thậm chí còn cố chấp hơn cả Kujou. Thế nhưng \"nguyên tắc\" này bao gồm những việc gì, tôi nghĩ có lẽ chỉ có bản thân ngài Shikanoin biết thôi."
     }
@@ -822,7 +822,7 @@
       "ko": "요새 사유가 당신께 폐를 끼치진 않았나요? 후후, 만약 그 아이가 게으름 피우는 걸 보시면 꼭 저한테 알려주세요",
       "en": "Ah, little Sayu. She hasn't been causing you any trouble lately, has she? Hehe, if you ever notice her slacking off, please let me know.",
       "de": "Ah, die kleine Sayu. Sie hat dir in letzter Zeit keinen Ärger gemacht, oder? Hehe, wenn du jemals merkst, dass sie nachlässt, lass es mich bitte wissen.",
-      "es": "Oh, la pequeña Sayu. No ha causado ningún problema últimamente, ¿no? Jeje, si alguna vez la ves holgazaneando, solo tienes que decírmelo.",
+      "es": "Oh, la pequeña Sayu. No ha causado ningún problema últimamente, ¿o sí? Jeje, si alguna vez la ves holgazaneando, solo tienes que decírmelo.",
       "fr": "La petite Sayu vous donné du fil à retordre dernièrement, n'est-ce pas ? Si vous la voyez tirer au flanc, prévenez-moi.",
       "pt": "Ah, pequena Sayu. Ela não está causando nenhum problema ultimamente, certo? Hehe, se você encontrar ela sendo preguiçosa, me avise, por favor.",
       "ru": "А, малышка Саю. Надеюсь, она не доставляет тебе хлопот? Если вдруг заметишь, что она отлынивает от дел, дай знать.",
@@ -954,7 +954,7 @@
       "fr": "En tant que chef du Clan Kamisato, mon frère doit assister régulièrement à de nombreux événements. J'ai fait de mon mieux pour partager le poids des responsabilités avec lui, mais je n'ai pas su soulager la fatigue qu'il accumule depuis des années. Dites-lui de prendre soin de lui de ma part quand vous le verrez.",
       "pt": "Como chefe do Clã Kamisato, meu irmão tem sempre a agenda cheia de lugares onde deve ir. Tento fazer o possível para compartilhar o fardo, mas é impossível mudar a pressão a que ele está sujeito durante todo o ano e o custo que isso tem para ele. *Suspiro* Se você o encontrar, lembre-o de cuidar da saúde, pelo bem da sua irmã...",
       "ru": "Будучи главой клана Камисато, брат всегда держит под рукой длинный список мест, где ему надлежит быть. Я делаю всё возможное, чтобы как-то разгрузить его, однако мне не удаётся ослабить то напряжение, в котором он пребывает круглый год. Конечно, это сказывается на нём. Если увидишь его, напомни, чтобы не забывал заботиться о себе, хотя бы ради спокойствия сестры...",
-      "id": "Sebagai kepala Klan Kamisato, kakak perlu menghadiri banyak tempat setiap hari. Aku sudah berusaha keras untuk berbagi beban dengannya, tapi tetap saja tidak bisa meredakan kelelahan karena tekanan yang dia alami sepanjang tahun. *huff* Jika kamu melihatnya, kuharap kamu bisa mengingatkan dia untuk menjaga kesehatannya baik-baik...",
+      "id": "Sebagai kepala Klan Kamisato, kakak perlu menghadiri banyak tempat setiap hari. Aku sudah berusaha keras untuk berbagi beban dengannya, tapi tetap saja tidak bisa meredakan kelelahan karena tekanan yang dia alami sepanjang tahun. *huff* Jika kamu melihatnya, kuharap kamu bisa mengingatkan dia untuk menjaga kesehatannya baik-baik ....",
       "th": "ในฐานะผู้นำของตระกูล Kamisato แล้ว ท่านพี่มักจะต้องไปออกงานตามที่ต่าง ๆ มากมาย ถึงแม้ว่าฉันจะพยายามแบ่งเบาภาระของเขาอย่างเต็มที่ แต่ก็ยังไม่สามารถบรรเทาความเหนื่อยล้าที่สะสมมาตลอดปีของเขาได้อยู่ดี เห้ออ... ในฐานะน้องสาว ฉันหวังว่าเธอจะสามารถเกลี้ยกล่อมให้เขาสนใจสุขภาพตัวเองให้มากขึ้นได้นะ",
       "vi": "Thân là gia chủ của nhà Kamisato, anh trai thường phải tham dự rất nhiều tình huống xã giao. Tuy tôi cố gắng chia sẻ bớt trách nhiệm mà anh ấy gánh vác, nhưng cũng không thể nào làm vơi đi nỗi mệt nhọc bao năm nay của anh ấy. Haiz, thôi thì hy vọng anh trai hãy nghĩ đến em gái mình mà chú trọng sức khỏe."
     }
@@ -980,12 +980,12 @@
       "zht": "操辦節慶慶典是社奉行和巫女眾的責任，那位煙火專家也的確能讓氣氛熱烈起來，彼此合作多了，因而漸漸熟絡。\n\n嗯？治安和消防問題嗎？我們也會一併納入預先規劃的。因為這些原因而看不到煙花，才會讓人們心中留下缺憾吧。",
       "jp": "お祭りの開催は社奉行と巫女の役目ですが、あの花火師の方もお祭りの雰囲気に貢献しています。度重なる協同から、今ではお互いをよく知る関係になりました。\n\n…なんでしょう？治安と消防の問題？もちろん事前に対策を立てていますよ。そのような理由で花火が見られなくなってしまっては、皆さん残念がるでしょうから。",
       "ko": "축제를 운영하는 건 야시로 봉행과 무녀의 역할이지만, 그 폭죽 전문가도 축제를 떠들썩하게 만드는 데 일조한 셈이죠. 같이 일할 기회가 많아지다 보니 점점 친해졌어요.\n\n네? 치안과 소방 문제요? 사전 기획에 다 포함되어 있답니다. 이런 문제 때문에 불꽃놀이를 볼 수 없다면 사람들이 아쉬워할 거예요",
-      "en": "The Yashiro Commission and the shrine maidens are responsible for festival affairs, and Yoimiya, as a fireworks expert, knows how to create an atmosphere. So we have become well acquainted with her over the years. Hmm? Public order and fire prevention? We factor these concerns in well in advance during the planning stage. To deny people the chance to see fireworks simply for these reasons would leave them feeling very disappointed.",
-      "de": "Die Yashiro-Verwaltung und die Schreinjungfern sind für die Angelegenheiten des Festes zuständig und Yoiyima weiß als Feuerwerksexpertin, wie man eine Atmosphäre schafft. Wir haben uns also im Laufe der Jahre gut mit ihr angefreundet. Hm? Öffentliche Ordnung und Feuerschutz? Wir berücksichtigen diese Belange schon im Vorfeld bei der Planung. Wenn wir den Leuten die Möglichkeit verwehren würden, ein Feuerwerk nur aus diesen Gründen zu sehen, würden sie sich sehr enttäuscht fühlen.",
+      "en": "The Yashiro Commission and the shrine maidens are responsible for festival affairs, and Yoimiya, as a fireworks expert, knows how to create an atmosphere. So we have become well acquainted with her over the years.\n\nHmm? Public order and fire prevention? We factor these concerns in well in advance during the planning stage. To deny people the chance to see fireworks simply for these reasons would leave them feeling very disappointed.",
+      "de": "Die Yashiro-Verwaltung und die Schreinjungfern sind für die Angelegenheiten des Festes zuständig und Yoiyima weiß als Feuerwerksexpertin, wie man eine Atmosphäre schafft. Wir haben uns also im Laufe der Jahre gut mit ihr angefreundet.\n\nHm? Öffentliche Ordnung und Feuerschutz? Wir berücksichtigen diese Belange schon im Vorfeld bei der Planung. Wenn wir den Leuten die Möglichkeit verwehren würden, ein Feuerwerk nur aus diesen Gründen zu sehen, würden sie sich sehr enttäuscht fühlen.",
       "es": "La Comisión Yashiro y las miko del santuario se encargan de organizar el festival, y Yoimiya, como experta pirotécnica, sabe cómo crear la atmósfera perfecta. De tanto colaborar, con el tiempo nos hemos conocido muy bien. ¿Eh? ¿El orden público y la prevención de incendios? Pensamos en esos asuntos durante la fase de planificación. Negar a la gente la posibilidad de ver los fuegos artificiales solo por eso les haría sentirse muy decepcionados.",
       "fr": "Il incombe à la Commission culturelle et aux prêtresses d'organiser les festivals. Yoimiya est une pyrotechnicienne qui sait comment mettre l'ambiance. J'ai appris à la connaître au fil de nos années de collaboration.\n\nHmm ? Les problèmes d'ordre et d'incendie ? Nous en tenons également compte au cours de la planification. Les gens seraient vraiment déçus de rater les feux d'artifice à cause de ça, pas vrai ?",
       "pt": "A Comissão Yashiro e as Sacerdotisas do santuário são responsáveis por assuntos do festival, e Yoiyima, como especialista em fogos de artifício, sabe como criar uma bela atmosfera. Então nós nos aproximamos bastante dela ao longo dos anos. Humm? Ordem pública e prevenção de incêndios? Levamos esses fatores em consideração bem no começo da etapa de planejamento. Seria uma enorme decepção se as pessoas não pudessem ver os fogos de artifício por motivos como esses.",
-      "ru": "Комиссия Ясиро и жрицы святилища занимаются вопросами праздника, а Ёимия, как специалист по фейерверкам, знает, как создать атмосферу. За все эти годы мы с ней хорошо узнали друг друга. М? Общественный порядок и меры пожарной безопасности? Мы взвешиваем все «за» и «против» задолго до праздника, ещё на этапе планирования. Если людей лишить возможности увидеть фейерверки исключительно из этих соображений, они будут чрезвычайно расстроены.",
+      "ru": "Комиссия Ясиро и жрицы храма занимаются вопросами праздника, а Ёимия, как специалист по фейерверкам, знает, как создать атмосферу. За все эти годы мы с ней хорошо узнали друг друга. М? Общественный порядок и меры пожарной безопасности? Мы взвешиваем все «за» и «против» задолго до праздника, ещё на этапе планирования. Если людей лишить возможности увидеть фейерверки исключительно из этих соображений, они будут чрезвычайно расстроены.",
       "id": "Yashiro Commission dan para miko bertanggung jawab dalam urusan festival. Dan Yoimiya sebagai ahli kembang api, dia sangat tahu cara menciptakan suasana. Kami sudah sering bekerja sama dengannya, dan mengenalnya dengan baik seiring waktu.\n\nHmm? Ketertiban umum dan pencegahan kebakaran? Kami sudah memperhitungkan risikonya jauh sebelumnya selama tahap perencanaan. Kalau kembang api ditiadakan karena alasan ini, orang-orang akan merasa kecewa.",
       "th": "การจัดการงานเทศกาลเป็นความรับผิดชอบของสำนัก Yashiro และพวกมิโกะ ส่วนผู้เชี่ยวชาญด้านการทำดอกไม้ไฟคนนั้นก็สามารถทำให้บรรยากาศครึกครื้นขึ้นมาได้อย่างแท้จริง พอได้ร่วมงานกันนาน ๆ ก็เริ่มที่จะใกล้ชิดกันมากขึ้นเรื่อย ๆ\n\nอื๋อ? ปัญหาด้านความปลอดภัยและการป้องกันอัคคีภัยงั้นเหรอ? พวกเราเองก็จะเพิ่มการวางแผนล่วงหน้าต่าง ๆ เข้าไปร่วมกันล่ะนะ เพราะหากต้องอดชมดอกไม้ไฟด้วยเหตุผลพวกนี้ล่ะก็ น่าจะทำให้ผู้คนผิดหวังกันน่าดูเลยล่ะ",
       "vi": "Tổ chức lễ hội là trách nhiệm của Hiệp Hội Yashiro và các pháp sư, và vị chuyên gia pháo hoa ấy có thể khiến không khí náo nhiệt hẳn lên, hai bên hợp tác nhiều nên cũng dần trở thành chỗ quen biết.\n\nHử? Vấn đề an ninh và cháy nổ à? Tôi đã có kế hoạch ngay từ đầu rồi. Nếu vì những nguyên nhân này mà không thể xem pháo hoa thì chẳng phải sẽ khiến dân chúng nuối tiếc sao."
@@ -1079,7 +1079,7 @@
       "en": "The art of blade forging taught by the Shogun varies based on astrology, application, materials used, the furnace conditions, individual personalities, and elemental changes. These differences between smiths is what gave rise to the Raiden Gokaden. Swordsmiths capable of forging renowned blades are seen as spiritual personnel with sacred abilities, and as such they should be managed by the Yashiro Commission, which oversees all cultural, artistic, and ceremonial affairs. So naturally, the swordsmith's betrayal is the fault of ineffectual management by the Kamisato Clan.",
       "de": "Die Kunst des Klingenschmiedens, die vom Shougun gelehrt wird, variiert je nach Stand der Sterne, Anwendung, verwendeten Materialien, den Bedingungen des Ofens, individuellen Persönlichkeiten und elementaren Veränderungen. Aus diesen Unterschieden zwischen den Schmiedetechniken sind die Raiden Gokaden entstanden. Schwertschmiede, die fähig sind, berühmte Klingen zu schmieden, werden als spirituelles Personal mit heiligen Fähigkeiten angesehen, und als solche sollten sie von der Yashiro-Verwaltung verwaltet werden, die alle kulturellen, künstlerischen und zeremoniellen Angelegenheiten beaufsichtigt. Daher ist der Verrat des Schwertschmieds natürlich die Schuld einer ineffektiven Verwaltung durch den Kamisato-Klan.",
       "es": "La técnica de forja de espadas enseñada por la Shogun varía dependiendo de los factores astrológicos, la aplicación práctica, los materiales usados, las características de la fragua, la personalidad individual y los cambios elementales. Las diferencias entre las distintas técnicas dieron lugar a las Cinco Escuelas de Raiden. Los espaderos capaces de forjar espadas de renombre son considerados personas con habilidades divinas, por lo que su control le pertenece a la Comisión Yashiro, la cual supervisa los asuntos culturales, artísticos y ceremoniales. Por lo tanto, si un espadero resulta ser un traidor, la culpa será de la ineficiente supervisión del clan Kamisato.",
-      "fr": "L'art de forger des épées, tel qu'enseigné par la Shogun, est influencé par le signe astrologique, l'objectif, la qualité du minerai, l'état du fourneau, le caractère de la personne et le changement des éléments. Ces variations ont donné naissance aux écoles du « Raiden Gokaden ». Les forgerons capables de forger des lames de qualité sont considérées comme des personnages spirituels avec des compétences sacrées. C'est la Commission culturelle qui s'occupe d'eux, comme ils relèvent de notre domaine. Leur trahison a été motivée par une gestion inefficace de notre part.",
+      "fr": "L'art de forger des épées, tel qu'enseigné par la Shogun, est influencé par le signe astrologique, l'objectif, la qualité du minerai, l'état du fourneau, le caractère de la personne et le changement des éléments. Ces variations ont donné naissance aux écoles du « Raiden Gokaden ». Les forgerons capables de forger des lames de qualité sont considérés comme des personnages spirituels avec des compétences sacrées. C'est la Commission culturelle qui s'occupe d'eux, comme ils relèvent de notre domaine. Leur trahison a été motivée par une gestion inefficace de notre part.",
       "pt": "A arte de forjar espadas ensinada pelos Shoguns varia com base na astrologia, aplicação, materiais utilizados, condições da fornalha, personalidades individuais e alterações elementais. É devido a essas diferenças entre ferreiros que surgiram os Raiden Gokaden. Ferreiros capazes de forjar espadas de renome são considerados personalidades espirituais com habilidades sagradas e, por isso, devem ser gerenciados pela Comissão Yashiro, que supervisiona assuntos culturais, artísticos e cerimoniais. Por isso, naturalmente, a traição do ferreiro é culpa da gestão ineficaz do Clã Kamisato.",
       "ru": "Основополагающие принципы искусства ковки клинков, которому учит сёгун, могут различаться в зависимости от положения звёзд, способа применения оружия, используемых материалов, состояния плавильной печи, личных качеств мастера и стихийных изменений. Все эти различия между оружейниками и породили такое явление как Райдэн Гокадэн. Мастеров, способных создавать прославленные клинки, воспринимают как посланников духов, наделённых священными способностями. Все они подчиняются комиссии Ясиро, занимающейся любыми культурными, художественными и церемониальными вопросами. И, конечно же, в предательстве оружейника винят клан Камисато и неэффективность его работы.",
       "id": "Seni menempa pedang yang diwariskan Shogun dibedakan berdasarkan astrologi, tujuan penggunaan, bahan yang digunakan, kondisi tungku, kepribadian individu, dan perubahan elemental. Perbedaan antar pandai besi inilah yang memunculkan Raiden Gokaden. Pandai besi yang mampu menempa pedang terkenal diibaratkan seperti personel spiritual yang memiliki kemampuan suci. Karena itulah mereka harus dikelola oleh Yashiro Commission yang mengawasi semua urusan budaya, seni, dan upacara ritual. Jadi, wajar saja kalau pengkhianatan pandai besi adalah kesalahan manajemen Klan Kamisato yang tidak efektif.",
@@ -1114,7 +1114,7 @@
       "fr": "À mes yeux, ma mère est une personne extraordinaire. Elle était digne, gracieuse, souriait calmement quelle que soit la situation et gérait les affaires du Clan Kamisato, quelle que soit leur taille, avec calme et sérénité. Je ne trouve donc pas exagéré de dire qu'elle était l'incarnation de la perfection. Mais depuis qu'elle nous a quittés, j'ai pris conscience que je ne pouvais plus être la petite Ayaka qui se cachait derrière elle.",
       "pt": "Minha mãe era uma pessoa incrível. Sempre digna e elegante, sempre sorrindo, independentemente da situação em que se encontrava. Ela tinha muita coisa com que se preocupar no clã, em diversos sentidos, mas ela lidava com tudo com leveza — parecia que nada poderia abalá-la. Ela era perfeita, e digo isso sem exagero algum. *Suspiro* Mas, no momento em que ela faleceu, eu me dei conta... de que não podia me esconder mais na sombra da minha mãe. Eu não era mais a pequena Ayaka.",
       "ru": "Моя мать была невероятным человеком. Всегда исполненная достоинства, элегантная... Неизменно улыбающаяся независимо от того, в какой ситуации оказалась... В клане она отвечала очень за многое, на очень разных уровнях, но относилась к этому спокойно, как к своему долгу. Казалось, ничто не может выбить её из колеи. Всё в ней было идеально, и я сейчас не преувеличиваю. Но в тот миг, когда она покинула нас, мне стало ясно... Что я больше не могу прятаться в тени своей матери. Я перестала быть малышкой Аякой.",
-      "id": "Ibundaku adalah sosok yang paling luar biasa. Dia selalu terlihat bermartabat, anggun, tersenyum di segala situasi. Dia harus menangani banyak urusan di klan, tetapi Ibunda dapat mengatasinya dengan sempurna dan tenang — seperti tidak ada yang mengganggunya. Segala sesuatu tentang dirinya sangat sempurna, dan aku mengatakannya tanpa melebih-lebihkannya sedikit pun. *huff* Tapi sejak Ibunda meninggal, aku baru sadar... aku tidak bisa bersembunyi di belakangnya lagi. Aku bukan Ayaka kecil lagi.",
+      "id": "Ibundaku adalah sosok yang paling luar biasa. Dia selalu terlihat bermartabat, anggun, tersenyum di segala situasi. Dia harus menangani banyak urusan di klan, tetapi Ibunda dapat mengatasinya dengan sempurna dan tenang — seperti tidak ada yang mengganggunya. Segala sesuatu tentang dirinya sangat sempurna, dan aku mengatakannya tanpa melebih-lebihkannya sedikit pun. *huff* Tapi sejak Ibunda meninggal, aku baru sadar ... aku tidak bisa bersembunyi di belakangnya lagi. Aku bukan Ayaka kecil lagi.",
       "th": "สำหรับฉันแล้ว ท่านแม่คือคนที่น่าเหลือเชื่อมาก ๆ ทั้งสง่างามและเปี่ยมไปด้วยเกียรติ ไม่ว่าจะต้องเจอกับสถานการณ์แบบไหน ก็มักจะแสดงรอยยิ้มที่แสนอ่อนโยนออกมา และจัดการธุระต่าง ๆ ของตระกูลด้วยท่าทีที่สงบนิ่งอยู่เสมอ ซึ่งมันไม่ใช่เรื่องเกินจริงเลย ที่จะบอกว่าท่านแม่คือตัวตนที่สมบูรณ์แบบ แต่นับตั้งแต่ตอนที่ท่านจากโลกนี้ไป ฉันก็ตระหนักได้ว่า ฉันไม่สามารถทำตัวเป็นเด็กหญิง Ayaka ที่เอาแต่หลบอยู่ข้างหลังของท่านแม่ได้อีกต่อไป",
       "vi": "Đối với tôi mà nói, mẹ là một người phi thường. Mẹ đoan trang, tao nhã, cho dù gặp phải chuyện gì cũng sẽ nở nụ cười điềm đạm, từ tốn không vội vàng, quán xuyến mọi việc lớn nhỏ trong nhà Kamisato, dù nói rằng mẹ là hóa thân của sự hoàn hảo cũng không ngoa chút nào. Nhưng từ khi bà qua đời, tôi đã ý thức được rằng, tôi đã không còn là Ayaka bé bỏng có thể núp sau hình bóng của mẹ nữa rồi."
     }
@@ -1139,14 +1139,14 @@
       "zhs": "接下来要说的话，可能不太符合「稻妻幕府社奉行神里家」的身份。不过，就我的判断，你应该能容许我小小的任性吧？\n\n…稍微有点累了…可以让我靠一下你的肩膀吗？一下就好。",
       "zht": "#接下來要說的話，可能不太符合「稻妻幕府社奉行神里家」的身分。不過，就我的判斷，{F#妳}{M#你}應該能容許我小小的任性吧？\n\n…稍微有點累了…可以讓我靠一下{F#妳}{M#你}的肩膀嗎？一下就好。",
       "jp": "今から言うことは、「稲妻幕府社奉行神里家」の肩書きにふさわしくないものかもしれません。ですが、貴方は私のワガママを受け入れてくださる方だと信じています。\n\n…少々疲れてしまいました…貴方の肩に寄りかかってもよろしいでしょうか？少しだけで…いいので。",
-      "ko": "「이나즈마 막부 신사봉행 카미사토 가문」 신분으로서 이런 말 하기 껄끄럽지만… 제 생각에 당신은 이렇게 제멋대로인 저의 모습도 받아줄 것 같은 느낌이 들어요.\n\n…살짝 피곤하네요…. 어깨 좀 빌려줄래요? 아주 잠깐이면 돼요",
+      "ko": "「이나즈마 막부 야시로 봉행 카미사토 가문」의 신분으로 이런 말 하기 껄끄럽지만… 당신은 이렇게 제멋대로인 저의 모습도 받아줄 것 같은 느낌이 들어요.\n\n…살짝 피곤하네요…. 어깨 좀 빌려줄래요? 아주 잠깐이면 돼요",
       "en": "What I want to say next is perhaps not befitting of a member of the Inazuma Shogunate, Yashiro Commission, Kamisato Clan, but... unless I am mistaken, I trust that you will not take issue with this slight departure from convention on my part...\n\nThat is to say... I'm a little tired, may I rest my head on your shoulder? Just for a moment.",
-      "de": "Was ich als nächstes sagen möchte, passt vielleicht nicht zu einem Mitglied des Kamisato-Klans der Yashiro-Verwaltung des Bakufu von Inazuma, aber ... wenn ich mich nicht irre, vertraue ich darauf, dass du nichts gegen diese kleine Abweichung von den Konventionen meinerseits hast ... das heißt ... Ich bin ein wenig müde. Darf ich meinen Kopf an deine Schulter legen? Nur für einen Moment.",
+      "de": "Was ich als Nächstes sagen möchte, passt vielleicht nicht zu einem Mitglied des Kamisato-Klans der Yashiro-Verwaltung des Bakufu von Inazuma, aber ... wenn ich mich nicht irre, vertraue ich darauf, dass du nichts gegen diese kleine Abweichung von den Konventionen meinerseits hast ... das heißt ...\n\nIch bin ein wenig müde. Darf ich meinen Kopf an deine Schulter legen? Nur für einen Moment.",
       "es": "Puede que lo que voy a decir a continuación no sea propio de una miembro del clan Kamisato, pero... si mi juicio no me falla, confío en que no te molestará que deje un poco de lado la etiqueta.\n\nLo que quiero decir es que... estoy un poco cansada, ¿puedo descansar sobre tu hombro? Será solo un momento.",
       "fr": "Ce que je vais vous demander n'est pas digne d'une membre du Clan Kamisato, de la Commission culturelle, du Shogunat... Mais je pense que vous me permettrez cet écart.\n\n... Je suis un peu fatiguée... Puis-je poser ma tête sur votre épaule ? Juste un instant.",
       "pt": "O que eu tenho a dizer a seguir pode não ser digno de um membro da Comissão Yashiro do Shogunato, do Clã Kamisato de Inazuma, mas... a menos que esteja enganada, presumo que você não se incomodará com esta ligeira quebra de protocolo da minha parte...\n\nTudo isso para dizer que... estou um pouco cansada, posso descansar com a minha cabeça no seu ombro? Só por alguns momentos.",
       "ru": "Наверное, не пристало представительнице дома Камисато из комиссии Ясиро Инадзумы говорить такие слова, но... Надеюсь, я не ошибаюсь в своём убеждении в том, что тебя не смутит это небольшое отступление от правил с моей стороны...\n\nВ общем... Я слегка утомилась, можно мне положить голову тебе на плечо? Всего на пару секунд.",
-      "id": "Apa yang ingin kukatakan selanjutnya mungkin tidak sesuai dengan statusku sebagai anggota Klan Kamisato, Yashiro Commission, Inazuma Shogunate. Tapi berdasarkan pengamatanku, kamu seharusnya bisa memaklumi sedikit penyimpangan dari tindakanku ini, kan?\n\n...Maksud ucapanku adalah... aku sedikit lelah. Bolehkah aku menyandarkan kepalaku di bahumu? Sesaat saja.",
+      "id": "Apa yang ingin kukatakan selanjutnya mungkin tidak sesuai dengan statusku sebagai anggota Klan Kamisato, Yashiro Commission, Inazuma Shogunate. Tapi berdasarkan pengamatanku, kamu seharusnya bisa memaklumi sedikit penyimpangan dari tindakanku ini, kan?\n\n...Maksud ucapanku adalah ... aku sedikit lelah. Bolehkah aku menyandarkan kepalaku di bahumu? Sesaat saja.",
       "th": "สิ่งที่ฉันจะพูดต่อไปนี้ อาจไม่เหมาะสมกับฐานะของ \"Shogunate แห่ง Inazuma ในสำนัก Yashiro ของตระกูล Kamisato\" เท่าไหร่ แต่ฉันเดาว่า เธอน่าจะทนต่อความเอาแต่ใจเล็ก ๆ น้อย ๆ ของฉันได้สินะ?\n\n...ถ้าฉันเหนื่อย...ขอฉันซบไหล่เธอหน่อยจะได้มั้ย? แค่ครู่เดียวเท่านั้น",
       "vi": "Những lời tiếp theo đây, có thể sẽ không phù hợp với thân phận \"Nhà Kamisato của Hiệp Hội Yashiro\" nữa. Nhưng theo tôi nghĩ, có lẽ bạn sẽ bao dung cho sự bướng bỉnh này của tôi!\n\n...Tôi có chút mệt... có thể cho tôi dựa vào bờ vai của bạn chút không? Một chút thôi mà."
     }
@@ -1210,7 +1210,7 @@
       "fr": "Si j'ai des inquiétudes ? Oui, aussi longtemps que nous vivrons, nous rencontrerons inévitablement des situations loin d'êtres idéales. Mais je ne veux pas importuner mes proches avec mes soucis, alors je les garde pour moi...",
       "pt": "Problemas? Bom, quer dizer... a vida é assim mesmo, não é? Haverá sempre alguma coisa que não aconteceu conforme os planos. Mas não quero incomodar aqueles ao meu redor com coisas que dizem respeito só a mim, então... prefiro guardar minhas preocupações para mim.",
       "ru": "Трудности? Ну что тут скажешь... Это ведь жизнь, верно? Всегда будет что-то, что идёт не так, как хотелось бы. Но я не желаю нагружать тех, кто рядом, рассказами о том, что касается только меня... Я лучше сохраню всё в тайне.",
-      "id": "Masalah? Yah, maksudku... Begitulah hidup, bukan? Akan selalu ada hal-hal yang tidak berjalan sesuai keinginan. Tapi aku tidak ingin orang-orang mengkhawatirkanku karena masalah yang kuhadapi... Jadi lebih baik aku menyimpannya untuk diri sendiri...",
+      "id": "Masalah? Yah, maksudku ... Begitulah hidup, bukan? Akan selalu ada hal-hal yang tidak berjalan sesuai keinginan. Tapi aku tidak ingin orang-orang mengkhawatirkanku karena masalah yang kuhadapi ... Jadi lebih baik aku menyimpannya untuk diri sendiri ....",
       "th": "เรื่องกลุ้มใจเหรอ? อาา แน่นอน ชีวิตก็เป็นอย่างนี้ล่ะนะ มักจะมีเรื่องที่ไม่สมหวังเกิดขึ้นอยู่เสมอ แต่ถ้าหากทำให้คนอื่น ๆ รอบตัวต้องเป็นห่วงเพราะเรื่องของตัวเองล่ะก็... ยังไงซะฉันขอเก็บไว้คนเดียวดีกว่า...",
       "vi": "Phiền não sao? À, đúng vậy, chỉ cần sống trên thế giới này thì không tránh khỏi đủ thứ chuyện không như ý. Nhưng nếu như là chuyện của bản thân mà khiến cho người xung quanh phải lo lắng thì... Quả thật, tôi không nên nói thì hơn..."
     }
@@ -1238,12 +1238,12 @@
       "ko": "솔직해지는 건 정말 어려워요. 전 수많은 사람의 주목과 기대를 받는 카미사토 가문의 장녀로서 완벽한 모습을 보여줘야 한다고 끊임없이 다짐해 왔어요. 이런 제가 소망을 쫓아도 되는 걸까요? 당신에게… 제 마음을 보여줘도 되는 걸까요…?",
       "en": "Openness is something I find very difficult. I constantly have to remind myself that as a lady of the Kamisato Clan, there are countless people watching and countless expectations to live up to. I must be a model of exemplary conduct at all times. But even so, shouldn't I still follow my dreams? Shouldn't I... share my true feelings with you?",
       "de": "Offenheit ist etwas, das ich sehr schwierig finde. Ich muss mich ständig daran erinnern, dass es als Dame des Kamisato-Klans unzählige Menschen gibt, die mich beobachten, und unzählige Erwartungen, denen ich gerecht werden muss. Ich muss jederzeit ein vorbildliches Verhalten an den Tag legen. Aber sollte ich nicht trotzdem meinen Träumen folgen? Sollte ich nicht ... meine wahren Gefühle mit dir teilen?",
-      "es": "Me resulta muy complicado ser franca. Siempre tengo que recordarme a mí misma que, como hija del clan Kamisato, debo cumplir con las expectativas de toda la gente que me observa. Debo ser un modelo a seguir en todo momento. Pero aun así, ¿no debería también perseguir mis sueños? ¿No debería... dejar que entiendas mis sentimientos?",
-      "fr": "C'est vraiment difficile d'être moi-même. Je me répète toujours que je suis la dame du Clan Kamisato, que je dois répondre aux attentes d'innombrables personnes qui regardent le moindre de mes gestes et incarner la perfection. Quelqu'un comme moi n'a-t-il pas le droit d'avoir des rêves ? Ne devrais-je pas vous dire que ce je ressens ?",
+      "es": "Me resulta muy complicado ser franca. Siempre tengo que recordarme a mí misma que, como descendiente del clan Kamisato, debo cumplir con las expectativas de toda la gente que me observa. Debo ser un modelo a seguir en todo momento. Pero aun así, ¿no debería también perseguir mis sueños? ¿No debería... dejar que entiendas mis sentimientos?",
+      "fr": "C'est vraiment difficile d'être moi-même. Je me répète toujours que je suis la dame du Clan Kamisato, que je dois répondre aux attentes d'innombrables personnes qui regardent le moindre de mes gestes et incarner la perfection. Quelqu'un comme moi n'a-t-il pas le droit d'avoir des rêves ? Ne devrais-je pas vous dire ce que je ressens ?",
       "pt": "A franqueza sempre foi algo muito difícil para mim. Preciso me lembrar constantemente que, como senhora do Clã Kamisato, existem inúmeras pessoas me observando e inúmeras expectativas a que devo corresponder. Devo ter uma conduta exemplar a qualquer momento. Mas, ainda assim, eu não deveria seguir meus sonhos? Não deveria... compartilhar meus sentimentos verdadeiros com você?",
       "ru": "Открытость - то, что даётся мне с большим трудом. Я постоянно должна напоминать себе, что являюсь госпожой клана Камисато, что на меня устремлены сотни глаз, и мне следует оправдывать ожидания, коим нет числа. Каждую минуту своей жизни я должна служить образцом безупречного поведения. Но даже в этом случае, разве я не могу следовать за своими мечтами? Разве я не могу... открыть тебе свои истинные чувства?",
-      "id": "Keterbukaan adalah suatu hal yang sangat sulit bagiku. Aku harus terus mengingatkan diriku kalau aku adalah nona besar Klan Kamisato. Semua mata tertuju kepadaku, dan harapan banyak orang tertumpu padaku. Aku harus menjadi teladan yang baik sepanjang waktu. Tapi meski begitu, bukankah aku seharusnya mengejar mimpiku? Bukankah seharusnya aku... berbagi perasaanku yang sebenarnya denganmu?",
-      "th": "\"การเปิดเผย\" เป็นเรื่องหนึ่งที่ยากจริง ๆ ฉันต้องคอยเตือนตัวเองอยู่เสมอว่าเป็นคุณหนูใหญ่แห่งตระกูล Kamisato ต้องมีกิริยาท่าทางที่สมบูรณ์ไร้ที่ติท่ามกลางสายตาที่จดจ้อง และตอบรับความคาดหวังของคนมากมาย คนอย่างฉันควรจะไล่ตามความปรารถนาของตัวเองรึเปล่านะ บางทีฉันอาจควรที่จะ... เล่าความปรารถนาของฉันให้เธอฟัง...",
+      "id": "Keterbukaan adalah suatu hal yang sangat sulit bagiku. Aku harus terus mengingatkan diriku kalau aku adalah nona besar Klan Kamisato. Semua mata tertuju kepadaku, dan harapan banyak orang tertumpu padaku. Aku harus menjadi teladan yang baik sepanjang waktu. Tapi meski begitu, bukankah aku seharusnya mengejar mimpiku? Bukankah seharusnya aku ... berbagi perasaanku yang sebenarnya denganmu?",
+      "th": "\"การเปิดเผย\" เป็นเรื่องหนึ่งที่ยากจริง ๆ ฉันต้องคอยเตือนตัวเองอยู่เสมอว่าเป็นคุณหนูใหญ่แห่งตระกูล Kamisato ต้องมีกิริยาท่าทางที่สมบูรณ์ไร้ที่ติท่ามกลางสายตาที่จดจ้อง และตอบรับความคาดหวังของคนมากมาย คนอย่างฉันควรจะไล่ตามความปรารถนาของตัวเองรึเปล่านะ บางทีฉันอาจควรที่จะ...เล่าความปรารถนาของฉันให้เธอฟัง...",
       "vi": "Thẳng thắn đúng là rất khó. Tôi phải không ngừng nói với bản thân rằng mình là đại tiểu thư nhà Kamisato, phải thể hiện ra bộ dạng hoàn hảo không tỳ vết trước bao con mắt và sự kỳ vọng của mọi người. Có phải tôi cũng nên theo đuổi nguyện vọng của mình, có phải cũng nên... để bạn hiểu được tấm lòng của tôi không..."
     }
   },
@@ -1274,7 +1274,7 @@
       "fr": "Je m'intéresse à la cuisine étrangère, mais j'ai rarement l'occasion d'y goûter. Si je devais choisir mon plat préféré de cuisine inazumienne... Ce serait l'ochazuke. C'est quelque chose que je ne peux pas dire devant d'autres personnes, alors je vous le dis en secret.",
       "pt": "Adoro pratos estrangeiros. Mas não tenho muitas oportunidades de experimentar coisas novas... Então, se tivesse que escolher algum prato de Inazuma, provavelmente seria... Chazuke. Mas não quando tem alguém olhando... Então isso é um segredo nosso.",
       "ru": "Заморские блюда приводят меня в восторг. Правда, мне нечасто удаётся отведать их... Если бы мне предложили выбрать что-то из Инадзумы, то... Отядзуке. Но только когда никто не видит... Так что это наш с тобой секрет.",
-      "id": "Aku sangat tertarik dengan makanan dari luar negeri. Tapi aku tidak terlalu banyak berkesempatan untuk mencicipinya... Jadi, kalau cakupannya dibatasi di Inazuma saja, maka mungkin... Chazuke. Tapi aku tidak boleh memakannya saat dilihat orang-orang, jadi ini hanyalah rahasia yang diam-diam kuberi tahu kepadamu.",
+      "id": "Aku sangat tertarik dengan makanan dari luar negeri. Tapi aku tidak terlalu banyak berkesempatan untuk mencicipinya ... Jadi, kalau cakupannya dibatasi di Inazuma saja, maka mungkin ... Chazuke. Tapi aku tidak boleh memakannya saat dilihat orang-orang, jadi ini hanyalah rahasia yang diam-diam kuberi tahu kepadamu.",
       "th": "ฉันสนใจอาหารในต่างแดนมากเลยล่ะ ถึงแม้ว่าจะไม่ค่อยมีโอกาสได้ลิ้มลองก็ตาม อืม... ถ้าเอาแค่เฉพาะใน Inazuma ล่ะก็... น่าจะเป็น \"Chazuke\" ล่ะมั้ง แต่ว่าจะให้คนอื่นเห็นไม่ได้ อันนี้ฉันแอบบอกเธอเฉย ๆ นะ",
       "vi": "Tôi rất hứng thú với món ăn nước ngoài, tuy có rất ít cơ hội để thử. Uhm... nếu phải giới hạn món ăn trong phạm vi ở Inazuma thì... có lẽ là \"Cơm Trà Xanh\". Nhưng tôi không thể để khách hàng bình thường nhìn thấy, tôi chỉ nói khẽ cho bạn biết thôi."
     }
@@ -1305,7 +1305,7 @@
       "es": "No es que no quiera comerlas, pero la grasa animal y las vísceras nunca son mi primera elección...",
       "fr": "Ce n'est pas que je ne peux pas en manger, mais la graisse animale ou les abats sont loin d'être ce que je préfère...",
       "pt": "Embora eu não despreze órgãos e gordura de animais, eles estão longe de ser minha primeira escolha.",
-      "ru": "Я не стала бы утверждать, что полностью отказалась от животных жиров и органов. И всё же они не входят в список моей любимой еды.",
+      "ru": "Я не стала бы утверждать, что полностью отказалась от жирного и ливера. И всё же это не самая моя любимая еда.",
       "id": "Aku menghindari lemak dan organ hewan secara total. Makanan-makanan itu tidak akan menjadi pilihan pertamaku.",
       "th": "ถึงแม้ว่าจะไม่ถึงขั้นกินไม่ได้ แต่สำหรับฉันแล้ว ของกินอย่างไขมันหรือเครื่องในของสัตว์มันออกจะ...",
       "vi": "Tuy không phải là không thể ăn, nhưng tôi không thích ăn mỡ động vật hoặc nội tạng..."
@@ -1332,12 +1332,12 @@
       "zht": "#請隨我來！只要走一小段路，不會耽擱{F#妳}{M#你}太長時間的哦。\n\n打聽到{F#妳}{M#你}的生日之後，我就提前了一段時間開始籌備。比起名貴的禮物，我妄自猜測…或許這樣的禮物會更合我們的情誼。此次，就請讓我以扇舞為禮吧。\n\n那麼，失禮了。",
       "jp": "私についてきてくれますか。そう遠くありませんので、それほどお時間は取らせません。\n\n貴方の誕生日を知ってから、事前に準備をしていたのです。私の勝手な想像ですが、どんなに高貴な贈り物よりも、この方が私たちの関係に合っていると考えました。今回は、私の剣扇舞を貴方へ贈ります。\n\nでは、参ります。",
       "ko": "절 따라오세요! 조금만 걸으면 되니까, 오래 걸리진 않을 거예요.\n\n당신의 생일을 알고 난 후부터 계속 준비했죠. 제 생각이긴 하지만… 비싼 선물보다 이런 게 저희 우정에 더 잘 맞을 것 같아요. 그래서 이번엔 부채춤을 준비했어요.\n\n그럼, 시작할게요",
-      "en": "Come with me! We're not going far away — I promise it won't delay you too much. I managed to find out when your birthday was well in advance, so I could prepare in good time. Hopefully this wasn't assuming too much, but I guessed you might prefer this to an expensive gift. In honor of your birthday, please allow me to perform a fan dance for you.",
-      "de": "Komm mit mir! Wir gehen nicht weit weg. Ich verspreche, es wird dich nicht allzu sehr aufhalten. Ich habe es geschafft, rechtzeitig herauszufinden, wann dein Geburtstag war, sodass ich mich rechtzeitig vorbereiten konnte. Hoffentlich war das nicht zu viel verlangt, aber ich ahnte, dass du dies einem teuren Geschenk vorziehen würdest. Zu Ehren deines Geburtstages, erlaube mir bitte, einen Fächertanz für dich aufzuführen.",
+      "en": "Come with me! We're not going far away — I promise it won't delay you too much.\n\nI managed to find out when your birthday was well in advance, so I could prepare in good time. Hopefully this wasn't assuming too much, but I guessed you might prefer this to an expensive gift.\n\nIn honor of your birthday, please allow me to perform a fan dance for you.",
+      "de": "Komm mit mir! Wir gehen nicht weit weg. Ich verspreche, es wird dich nicht allzu sehr aufhalten.\n\nIch habe es geschafft, rechtzeitig herauszufinden, wann dein Geburtstag war, sodass ich mich rechtzeitig vorbereiten konnte. Hoffentlich war das nicht zu viel verlangt, aber ich ahnte, dass du dies einem teuren Geschenk vorziehen würdest. Zu Ehren deines Geburtstages, erlaube mir bitte, einen Fächertanz für dich aufzuführen.\n\nWenn du mich bitte entschuldigen würdest ...",
       "es": "¡Ven conmigo! No iremos muy lejos, te prometo que no te demoraré mucho. Averigüé cuándo era tu cumpleaños, así que hice algunos preparativos. Espero no haber asumido nada, pero supuse que preferirías esto antes que un regalo muy caro.\n\nBien, con motivo de tu cumpleaños, permíteme hacer una actuación con abanicos.",
       "fr": "Venez avec moi, s'il vous plaît ! Ce n'est pas loin et cela ne vous prendra pas trop de temps.\n\nJ'ai commencé à me préparer après avoir su votre date d'anniversaire. Plutôt que de vous offrir un cadeau onéreux, j'ai pensé que... qu'un cadeau comme celui-ci serait plus approprié au vu de notre amitié. Permettez-moi donc de vous offrir une danse des éventails.\n\nC'est parti...",
-      "pt": "Venha comigo! Não vamos para longe — prometo que você não se atrasará por minha causa. Eu consegui descobri quando era o seu aniversário com bastante antecedência, então consegui preparar tudo a tempo. Espero que não tenha me enganado no palpite, mas imaginei que você preferisse isso a um presente caro. Em honra ao seu aniversário, permita que eu faça uma dança de leques para você.",
-      "ru": "Идём! Тут недалеко. Обещаю, я не слишком тебя задержу. Мне удалось выяснить, когда у тебя день рождения, причём довольно давно, так что времени на подготовку было предостаточно. Может быть, это слишком самонадеянно с моей стороны, но мне почему-то кажется, что это понравится тебе больше, чем какой-нибудь дорогой подарок. В честь твоего дня рождения позволь мне исполнить для тебя танец с веером.",
+      "pt": "Venha comigo! Não vamos para longe — prometo que você não se atrasará por minha causa. Eu consegui descobrir quando era o seu aniversário com bastante antecedência, então consegui preparar tudo a tempo. Espero que não tenha me enganado no palpite, mas imaginei que você preferisse isso a um presente caro. Em honra ao seu aniversário, permita que eu faça uma dança de leques para você.",
+      "ru": "Идём! Тут недалеко. Обещаю, я не слишком тебя задержу. Мне удалось выяснить, когда у тебя день рождения, причём довольно давно, так что времени на подготовку было предостаточно. Может быть, это слишком самонадеянно с моей стороны, но мне почему-то кажется, что ты предпочтёшь это дорогому подарку. В честь твоего дня рождения позволь мне исполнить для тебя танец с веером.",
       "id": "Ikutilah aku! Kita tidak akan pergi jauh. Aku janji aku tidak akan membuat perjalananmu tertunda lama.\n\nSetelah mengetahui kapan ulang tahunmu, aku sudah mempersiapkannya dari jauh-jauh hari. Mudah-mudahan ini dugaanku benar, aku merasa kamu mungkin lebih suka hadiah seperti ini daripada barang mahal. Dengan rasa hormat, biarkan aku mempertunjukkan tari kipas untukmu.",
       "th": "ช่วยมากับฉันทีสิ! เดินไปแค่แป๊บเดียวเท่านั้นแหละ ไม่กวนเวลาเธอนานนักหรอกนะ\n\nหลังจากรู้วันเกิดของเธอแล้ว ฉันก็เริ่มเตรียมการล่วงหน้ามาพักหนึ่ง ถ้าเทียบกับของขวัญราคาแพง ฉันเดาว่า... บางทีของขวัญแบบนี้อาจจะเหมาะกับมิตรภาพของเรามากกว่า ครั้งนี้ฉันจะขอใช้การระบำพัดเป็นของขวัญให้เธอละกัน\n\nเอาล่ะ จะเริ่มล่ะนะ...",
       "vi": "Hãy đi theo tôi! Chỉ cần đi một đoạn nhỏ thôi, không làm mất nhiều thời gian của bạn đâu.\n\nSau khi dò la được sinh nhật của bạn, tôi đã bắt tay chuẩn bị được một thời gian rồi. So với những món quà đắt tiền kia, tôi đoán... có lẽ món quà như thế sẽ hợp với tình bạn của chúng ta hơn. Ngoài ra, hãy để tôi múa một bài làm quà cho bạn nhé.\n\nXin thất lễ."
@@ -1349,7 +1349,7 @@
       "zht": "突破的感受·起",
       "jp": "突破した感想·起",
       "ko": "돌파의 느낌·기",
-      "en": "Feelings about Ascension: Intro",
+      "en": "Feelings About Ascension: Intro",
       "de": "Gedanken über den Aufstieg – Beginn",
       "es": "El sentimiento de Ascensión - Introducción",
       "fr": "Affinité faible",
@@ -1369,7 +1369,7 @@
       "es": "Muchas gracias. Aprender de ti ha sido realmente gratificante. Estoy segura de que mis habilidades con la espada mejorarán aún más.",
       "fr": "Merci beaucoup. J'ai beaucoup appris en votre compagnie, mon jeu d'épée pourra s'améliorer.",
       "pt": "Agradeço muito, muito mesmo. Foi muito gratificante aprender com você até agora, e acredito que minhas habilidades com a espada possam ficar ainda melhores.",
-      "ru": "Огромное тебе спасибо. Я нахожу бесценной эту возможность учиться у тебя. Надеюсь, мои навыки обращения с мечом могут улучшиться ещё больше.",
+      "ru": "Огромное тебе спасибо. Я нахожу бесценной эту возможность учиться у тебя. Надеюсь, мои навыки обращения с мечом станут ещё лучше.",
       "id": "Terima kasih banyak. Sejauh ini aku sudah belajar banyak darimu, dan aku yakin kemampuan pedangku juga dapat menjadi lebih baik lagi.",
       "th": "ขอบคุณมากนะ การได้แลกเปลี่ยนมุมมองกับเธอมันดีต่อฉันมาก ๆ เลยล่ะ และฉันก็เชื่อว่ายังสามารถพัฒนาวิชาดาบของตัวเองได้อีก",
       "vi": "Rất cám ơn. So tài với bạn giúp tôi học được nhiều điều, tin rằng về vấn đề kiếm thuật cũng sẽ có tiến bộ vượt bậc."
@@ -1381,7 +1381,7 @@
       "zht": "突破的感受·承",
       "jp": "突破した感想·承",
       "ko": "돌파의 느낌·승",
-      "en": "Feelings about Ascension: Building Up",
+      "en": "Feelings About Ascension: Building Up",
       "de": "Gedanken über den Aufstieg – Fortschritt",
       "es": "El sentimiento de Ascensión - Desarrollo",
       "fr": "Affinité moyenne",
@@ -1460,8 +1460,8 @@
       "zht": "#「嘗有所思，斯世如磐；孰料浮世事，留駐難。」\n\n…抱歉，明明是值得高興的時候，我卻想起了那麼悲傷的詩歌。和{F#妳}{M#你}相處的時間過於暢懷，竟然讓我害怕再次失去。真是…失態了呀。",
       "jp": "「常磐なす かくしもがもと 思へども\n\n  世の事なれば 留みかねつも」\n\n申し訳ございません、喜ばしいと思うべきこの時に、こんなに悲しい歌を思い出してしまいました。貴方と過ごす時間があまりにも心地よく、失うのが怖いと感じてしまったのです。本当に…失態ですね。",
       "ko": "「반석처럼 영원하고 싶지만, 변해가는 세상은 아무도 붙잡을 수가 없네.」\n\n…죄송해요, 분명 기뻐해야 할 일인데 이렇게 슬픈 시가 떠올랐네요. 당신과 함께 지낸 시간이 너무 즐거워서 잃게 될까 봐 두려워하다니…. 부끄러운 모습을 보였군요",
-      "en": "\"Though I cling to that which has given me the strength to hold on, the weight of letting go is ever-foreboding.\" My apologies, it should be a happy occasion, and yet it is such a sad phrase that comes to mind. Our time together has been so pleasant that I am fearful of losing what I have gained. I'm sorry, I must compose myself.",
-      "de": "„Obwohl ich mich an das klammere, was mir die Kraft gegeben hat, mich festzuhalten, ist die Angst des Loslassens immer wieder zu spüren.“ Ich bitte um Verzeihung, es sollte ein glücklicher Anlass sein und doch ist es ein so trauriger Satz, der mir in den Sinn kommt. Unsere gemeinsame Zeit war so angenehm, dass ich Angst habe, zu verlieren, was ich gewonnen habe. Es tut mir leid, ich muss mich zusammenreißen.",
+      "en": "\"Though I cling to that which has given me the strength to hold on, the weight of letting go is ever-foreboding.\"\n\nMy apologies, it should be a happy occasion, and yet it is such a sad phrase that comes to mind. Our time together has been so pleasant that I am fearful of losing what I have gained. I'm sorry, I must compose myself.",
+      "de": "„Obwohl ich mich an das klammere, was mir die Kraft gegeben hat, mich festzuhalten, ist die Angst des Loslassens immer wieder zu spüren.“\n\nIch bitte um Verzeihung, es sollte ein glücklicher Anlass sein und doch ist es ein so trauriger Satz, der mir in den Sinn kommt. Unsere gemeinsame Zeit war so angenehm, dass ich Angst habe, zu verlieren, was ich gewonnen habe. Es tut mir leid, ich muss mich zusammenreißen.",
       "es": "#“Me aferro a aquello que me da fuerzas para resistir, mas siempre me invade el pensamiento de dejarlo ir”.\n\nLo siento. Sé que esta debería ser una ocasión feliz, pero solo me viene a la mente esta melancólica frase. El tiempo que hemos pasado junt{F#as}{M#os} ha sido tan agradable que tengo miedo de perder lo que he conseguido. Perdón, debo recobrar la compostura.",
       "fr": "« Je m'accroche à ce qui me donne la force de continuer, mais je suis envahie par l'appréhension de lâcher prise à chaque instant. »\n\n... Désolée, je devrais me réjouir, mais cette phrase triste m'est venue à l'esprit. Nous avons passé tellement de moments agréables ensemble, mais j'ai peur de tout perdre. Excusez-moi, je devrais me ressaisir.",
       "pt": "\"Embora me atenha àquilo que me deu forças para continuar, o peso da despedida é um eterno presságio\". Peço perdão, esta deveria ser uma ocasião feliz, mas é essa frase triste que me vem à cabeça. O tempo que passamos juntos foi tão agradável que tenho medo de perder o que ganhei. Me desculpe, preciso me recompor.",
@@ -1558,7 +1558,7 @@
       "ko": "흩날려라",
       "en": "Whirling snow.",
       "de": "Wirbelnder Schnee.",
-      "es": "Remolino de nieve.",
+      "es": "¡Remolino de nieve!",
       "fr": "Tempête de neige.",
       "pt": "Turbilhão de neve!",
       "ru": "Снежный вихрь.",
@@ -1593,7 +1593,7 @@
       "es": "¡Recibe al hielo!",
       "fr": "La victoire est mienne !",
       "pt": "...A vitória é minha.",
-      "ru": "Победа за мной!",
+      "ru": "Поддайся льду!",
       "id": "Terimalah es ini!",
       "th": "ชัยชนะเป็นของฉัน!",
       "vi": "...Quyết thắng!"
@@ -1782,7 +1782,7 @@
       "ko": "얕보면 안 되겠군요",
       "en": "I will not stand for this.",
       "de": "Nicht zu unterschätzen.",
-      "es": "No toleraré esto.",
+      "es": "¡No toleraré esto!",
       "fr": "Ne me sous-estimez pas.",
       "pt": "Não vou aceitar isso.",
       "ru": "Я этого не потерплю.",
@@ -1818,7 +1818,7 @@
       "fr": "Un adversaire de valeur...",
       "pt": "Um oponente digno...",
       "ru": "Достойный противник...",
-      "id": "Lawan yang tangguh...",
+      "id": "Lawan yang tangguh ....",
       "th": "คู่ต่อสู้ที่ตามหามานาน...",
       "vi": "Đối thủ hiếm có..."
     }
@@ -1882,7 +1882,7 @@
       "fr": "Excusez ma perte de sang-froid...",
       "pt": "Perdoe minha Indiscrição...",
       "ru": "Простите меня за неосторожность...",
-      "id": "Maafkan diriku...",
+      "id": "Maafkan aku ....",
       "th": "ประมาทซะแล้ว...",
       "vi": "Thất lễ rồi..."
     }
@@ -1912,9 +1912,9 @@
       "de": "Vieles bleibt ... unvollendet ...",
       "es": "Aún tengo cosas... pendientes...",
       "fr": "J'ai... encore tant à faire...",
-      "pt": "Muito resta... Por fazer...",
+      "pt": "Muito resta... por fazer...",
       "ru": "Как много... незавершённых дел...",
-      "id": "Masih banyak yang belum selesai...",
+      "id": "Masih banyak yang belum selesai ....",
       "th": "ฉันยังมี... เรื่องที่ยังทำไม่เสร็จ...",
       "vi": "Ta còn có chuyện chưa hoàn thành..."
     }
@@ -1926,7 +1926,7 @@
       "jp": "戦闘不能·3",
       "ko": "전투 불능·세 번째",
       "en": "Fallen: III",
-      "de": "Ohmächtig III",
+      "de": "Ohnmächtig III",
       "es": "Derrotada (III)",
       "fr": "K.O. (3)",
       "pt": "Derrotado - III",
@@ -1942,11 +1942,11 @@
       "ko": "가문에… 수치를 안겨드렸네요…",
       "en": "I have dishonored... our clan...",
       "de": "Ich habe ... unseren Klan entehrt ...",
-      "es": "He deshonrado a mi familia...",
+      "es": "He deshonrado a mi clan...",
       "fr": "J'ai déshonoré... notre clan...",
-      "pt": "Desonrei... Nosso clã...",
+      "pt": "Desonrei... nosso clã...",
       "ru": "Я позорю... наш клан...",
-      "id": "Aku telah mempermalukan... klanku...",
+      "id": "Aku telah mempermalukan ... klanku ....",
       "th": "ฉันทำให้ตระกูล... ต้องอับอาย...",
       "vi": "Để gia tộc... phải xấu hổ rồi..."
     }
@@ -2010,7 +2010,7 @@
       "fr": "Comment...",
       "pt": "Impensável...",
       "ru": "Немыслимо...",
-      "id": "Sulit dipercaya...",
+      "id": "Sulit dipercaya ....",
       "th": "อะไรกัน...",
       "vi": "Sao lại..."
     }
@@ -2106,7 +2106,7 @@
       "fr": "Héhé, c'est un plaisir de vous aider.",
       "pt": "É um grande prazer trabalhar com você.",
       "ru": "Мне будет в радость поработать с вами.",
-      "id": "Senang bekerja bersamamu.",
+      "id": "Senang bekerja sama denganmu.",
       "th": "ฮ่ะ ฮ่ะ ฝากตัวด้วยนะ",
       "vi": "Hihi, xin chỉ bảo thêm."
     }

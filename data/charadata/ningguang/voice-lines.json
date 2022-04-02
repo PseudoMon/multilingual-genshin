@@ -626,7 +626,7 @@
     "line": {
       "zhs": "帝君的离去，无论对璃月还是七星来说，都是不小的考验。我也很久没有像最近这样辗转反侧了。\n\n不过，我不会放弃我的目标。总有一日，我会让群玉阁投下的影子笼罩七国——",
       "zht": "帝君的離去，無論對璃月還是七星來說，都是不小的考驗。我也很久沒有像最近這樣輾轉反側了。\n\n不過，我不會放棄我的目標。總有一日，我會讓群玉閣投下的影子籠罩七國——",
-      "jp": "帝君がいなくなったことは、璃月にとっても七星にとっても大きな試練。私だって、いろいろ悩んでうまく眠れなくなるのは久しぶりよ。\n\nでも私は、私の目標を諦めない。いつか、群玉阁で七国を覆えるようにするわ。",
+      "jp": "帝君がいなくなったことは、璃月にとっても七星にとっても大きな試練。私だって、いろいろ悩んでうまく眠れなくなるのは久しぶりよ。\n\nでも私は、私の目標を諦めない。いつか、群玉閣で七国を覆えるようにするわ。",
       "ko": "제군의 부재는 리월에게든 칠성에게든 큰 시험이지. 나도 요즘처럼 이렇게 잠을 이루지 못하는 건 아주 오랜만이야. \n\n하지만 난 내 목표를 포기하지 않아. 언젠가 7개국을 군옥각의 그림자로 뒤덮을 테니까",
       "en": "The departure of Rex Lapis will be no small test for both the Qixing and the city of Liyue. Seldom has any matter kept me tossing and turning at night like recent events.\n\nNevertheless, I shall not lose sight of my goal. There will come a day when the shadow cast by the Jade Chamber reaches every end of Teyvat.",
       "de": "Der Weggang von Rex Lapis wird keine kleine Herausforderung sein, für sowohl die Qixing als auch für die Stadt Liyue. Selten hat mich eine Angelegenheit so viel Schlaf gekostet wie die kürzlichen Ereignisse.\n\nDoch ich darf mein Ziel nicht aus den Augen verlieren. Es wird der Tag kommen, an dem die Schatten, die das Jadegemach wirft, jeden Winkel von Teyvat erreichen werden.",
@@ -1057,8 +1057,40 @@
   },
   {
     "title": {
+      "zhs": "关于夜兰…",
+      "zht": "關於夜蘭…",
+      "jp": "夜蘭について…",
+      "ko": "야란에 대해…",
+      "en": "About Yelan",
+      "de": "Über Yelan ...",
+      "es": "Sobre Yelan...",
+      "fr": "À propos de Yelan...",
+      "pt": "Sobre Yelan...",
+      "ru": "О Е Лань...",
+      "id": "Tentang Yelan",
+      "th": "เกี่ยวกับ Yelan...",
+      "vi": "Về Yelan..."
+    },
+    "line": {
+      "zhs": "她是个很有意思的人，对我而言，也是绝对可信之人。八面玲珑，才能无可挑剔。呵呵，既然同为聪明人，希望你们能相处愉快。",
+      "zht": "#她是個很有意思的人，對我而言，也是絕對可信之人。八面玲瓏，才能無可挑剔。呵呵，既然同為聰明人，希望{F#妳}{M#你}們能相處愉快。",
+      "jp": "彼女は面白い人よ。私にとって、信頼の置ける人物ね。八面玲瓏で、才能も申し分ない。ふふっ、同じ賢い者同士、あなたたちが良い関係を築けるといいわね。",
+      "ko": "재밌는 사람이야. 내가 절대적으로 신뢰하는 사람이기도 하고. 팔방미인에 재능도 아주 뛰어나지. 후후, 너도 그녀처럼 똑똑한 사람이니, 사이좋게 지내길 바라",
+      "en": "She's a very interesting character. I can say with the utmost confidence that she is someone I trust unreservedly. She handles herself impeccably, which means she stays beyond reproach. Hehe, since you both have high intelligence in common, hopefully you will get along very well.",
+      "de": "Sie ist eine sehr interessante Person und für mich absolut glaubwürdig. Sie ist in der Lage, alle Aufgaben perfekt zu erledigen und hat tadelloses Talent. Hehe, da ihr beide intelligent seid, hoffe ich, dass ihr gut miteinander auskommen werdet.",
+      "es": "Es una persona muy interesante. Puedo decir con total confianza que es alguien en quien confío plenamente. Sabe cómo comportarse perfectamente, por lo que nadie puede reprocharle nada. Jeje, ya que comparten una gran inteligencia, espero que puedas llevarte bien con ella.",
+      "fr": "C'est un personnage très intéressant. Je pense que c'est une personne en qui l'on peut entièrement avoir confiance. Elle sait très bien comment se comporter en société, de sorte que personne n'ait quoi que ce soit à lui reprocher. Héhé, vous êtes quelqu'un d'intelligent tout comme elle, alors j'espère que vous pourrez bien vous entendre.",
+      "pt": "Ela é uma pessoa muito interessante. Posso dizer com total confiança que ela é uma pessoa que confio plenamente. Ela sabe se comportar perfeitamente, isso quer dizer que não há nada para melhorar. Hehe, como vocês são inteligentes, acho que se darão bem.",
+      "ru": "#Очень интересная девушка. Могу сказать с уверенностью, что я безоговорочно доверяю ей. Она идеальна буквально во всём. Хе-хе, вы об{F#е}{M#а} довольно умны, так что, надеюсь, вы поладите.",
+      "id": "Dia karakter yang sangat menarik. Aku bisa mengatakan dengan penuh kepercayaan diri bahwa dia adalah seorang yang bisa kupercayai sepenuhnya. Dia menangani dirinya sendiri dengan sempurna, dan dia tidak berbuat kesalahan. Hehe, karena kalian berdua sama cerdasnya, kuharap kalian berdua bisa berteman baik.",
+      "th": "เธอเป็นคนที่น่าสนใจมาก ถ้าให้ฉันพูดละก็ เธอเป็นคนที่น่าเชื่อถือมากคนหนึ่ง สมบูรณ์แบบในทุกด้าน ความสามารถนั้นไร้ที่ติ ฮิฮิ เพราะเป็นคนฉลาด ฉันหวังว่าเธอจะเข้ากันได้ดีนะ",
+      "vi": "Cô ấy là một người thú vị, cũng là một người đáng để tin tưởng. Giỏi giang nhanh nhẹn, tiền đồ rộng mở. Haha, là người thông minh với nhau, hy vọng hai người có thể nói chuyện ăn ý."
+    }
+  },
+  {
+    "title": {
       "zhs": "想要了解凝光·其一",
-      "zht": "想要瞭解凝光·其一",
+      "zht": "想要了解凝光·其一",
       "jp": "凝光を知る·1",
       "ko": "응광에 대해 알기·첫 번째",
       "en": "More About Ningguang: I",
@@ -1073,16 +1105,16 @@
     },
     "line": {
       "zhs": "既然是你，就不用恪守那些繁文缛节了，可以随意一些。不过，希望你能珍惜我的时间，言简意赅地进行说明。",
-      "zht": "#既然是{F#妳}{M#你}，就不用恪守那些繁文縟節了，可以隨意一些。不過，希望{F#妳}{M#你}能珍惜我的時間，言簡意賅地進行說明。",
+      "zht": "#既然是{F#妳}{M#你}，就不用恪守那些繁文縟節了，可以隨意一些。不過，希望{F#妳}{M#你}能珍惜我的時間，言簡意賅地說明。",
       "jp": "あなたなら、複雑なしきたりを守る必要はないわ。楽にしなさい。でも私の時間も大事にしてほしいから、説明は簡潔にお願いね。",
       "ko": "넌 그런 번거로운 예절 따지지 말고 편하게 해도 돼. 하지만 내 시간을 소중히 여겨줘. 설명은 간단명료하게 하도록 해",
-      "en": "Seeing as it's you, there's no need to keep up the formalities. You can be a little more casual, but I still ask that you respect my time. If you have something to say, be concise — I have no time to waste.",
+      "en": "Seeing as it's you, there's no need to keep up the formalities. You can be a little more casual. But I still ask that you respect my time. If you have something to say, be concise — I have no time to waste.",
       "de": "Weil du es bist, musst du nicht allzu formell mit mir umgehen, du kannst etwas lockerer sein. Dennoch solltest du stets meine Zeit respektieren. Wenn es etwas zu sagen gibt, komm direkt auf den Punkt.",
       "es": "#No es necesario que seas tan formal conmigo. Pero te ruego que respetes mi tiempo y, si tienes algo que decir, seas concis{F#a}{M#o}. No me gusta que me hagan perder el tiempo.",
       "fr": "#C'est vous, pas la peine de s'embêter avec les formalités. Soyez un peu plus... {M#naturel}{F#naturelle}. Mais je vous demanderai malgré tout de continuer à ne pas gaspiller mon temps. Si vous avez quelque chose à dire, dites-le. Mon temps est précieux.",
-      "pt": "#Visto que é você, não há necessidade de manter as formalidades. Você pode ser um pouco mais casual. Mas eu ainda peço que você respeite meu tempo. Se você tem algo a dizer, seja concis{F#a}{M#o} - eu não tenho tempo a perder.",
+      "pt": "Já que é você, não é necessário ter formalidade. Você pode ser mais casual. Mas ainda assim, peço que respeite meu tempo. Se tiver algo a dizer, seja conciso, não posso desperdiçar meu tempo.",
       "ru": "Ты можешь позволить себе опустить некоторые формальности. Но я прошу тебя ценить моё время. Если нужно ко мне обратиться - говори кратко и по делу.",
-      "id": "Kalau kamu, tidak perlu bersikap formal. Santai saja, tapi kuharap kamu menghargai waktuku. Jika ada yang ingin disampaikan, langsung saja. Aku tidak punya banyak waktu.",
+      "id": "Kalau kamu, tidak perlu terlalu bersikap formal. Santai saja, tapi kuharap kamu bisa menghargai waktuku. Jika ada yang ingin disampaikan, langsung saja. Aku tidak punya banyak waktu.",
       "th": "ในเมื่อเป็นคุณ ก็ไม่ต้องทำตามกฎ ที่ไม่จำเป็นนั่นหรอก ทำตัวตามสบายได้ แต่หวังว่า คุณจะไม่ทำให้ฉันเสียเวลา อธิบายมาอย่างกระชับและชัดเจน",
       "vi": "Nếu đã là bạn thì không cần phải tuân thủ mấy cái lễ nghi phiền phức nữa, cứ thoải mái đi. Nhưng hy vọng bạn quý trọng thời gian của tôi, giải thích ngắn gọn."
     }
@@ -1090,7 +1122,7 @@
   {
     "title": {
       "zhs": "想要了解凝光·其二",
-      "zht": "想要瞭解凝光·其二",
+      "zht": "想要了解凝光·其二",
       "jp": "凝光を知る·2",
       "ko": "응광에 대해 알기·두 번째",
       "en": "More About Ningguang: II",
@@ -1100,7 +1132,7 @@
       "pt": "Mais sobre Ningguang - II",
       "ru": "Узнать больше о Нин Гуан II",
       "id": "Mengenal Ningguang: II",
-      "th": "อยากรู้เกี่ยวกับ Ningguang - 2",
+      "th": "อยากรู้เกี่ยวกับ Ningguang-2",
       "vi": "Muốn tìm hiểu Ningguang - Điều thứ 2"
     },
     "line": {
@@ -1112,9 +1144,9 @@
       "de": "Ich glaube, dass Kinder am verlässlichsten sind, weil sie naiv und unschuldig sind. Die Berichte, die ich von ihnen bekomme, sind die wertvollsten von allen. Und was ist mit dir, was bringst du mir?",
       "es": "Siempre he pensado que los niños son los seres más ingenuos e inocentes del mundo, y la información que dan es la más valiosa. ¿Y tú? ¿Qué es lo que puedes darme?",
       "fr": "J'ai toujours pensé que les enfants étaient ce qu'on trouve de plus innocent. Les renseignements qu'ils me procurent sont de grande valeur... Et vous ? Qu'est-ce que vous allez m'apporter ?",
-      "pt": "Eu sempre acredito que as crianças são muito mais inocentes e puras, e as informações oferecidas por elas são mais valiosas. Então, que tal as suas informações?",
-      "ru": "Я считаю,что дети - самые чистые и наивные создания, поэтому сведения, предоставляемые ими, наиболее ценны. Так что насчёт тебя? Какие у тебя для меня сведения?",
-      "id": "Aku percaya bahwa anak-anak itu naif dan polos. Laporan yang mereka berikan padaku adalah yang paling berharga. Jadi bagaimana denganmu? Apa yang akan kamu tawarkan padaku?",
+      "pt": "Eu sempre acredito que as crianças são muito mais inocentes e puras, e as informações oferecidas por elas são mais valiosas. Então, e quanto a você? O que você tem para mim?",
+      "ru": "Я считаю, что дети - самые чистые и наивные создания, поэтому сведения, предоставляемые ими, наиболее ценны. Так что насчёт тебя? Какие у тебя для меня сведения?",
+      "id": "Aku percaya bahwa anak-anak adalah sosok yang naif dan polos. Laporan yang mereka berikan padaku adalah laporan yang paling berharga. Bagaimana denganmu? Apa yang bisa kamu tawarkan padaku?",
       "th": "ฉันคิดมาตลอดว่า เด็กคือผ้าขาวบริสุทธิ์ ข้อมูลที่พวกเขาให้มานั้นมีค่ามาก แล้วคุณล่ะ? คุณจะให้อะไรฉัน",
       "vi": "Tôi trước giờ luôn cho rằng, trẻ con là người ngây thơ thuần khiết nhất, thông tin chúng cung cấp luôn có giá trị nhất. Nhưng bạn thì thế nào đây? Thứ bạn cung cấp cho tôi sẽ là thứ gì đây?"
     }
@@ -1122,7 +1154,7 @@
   {
     "title": {
       "zhs": "想要了解凝光·其三",
-      "zht": "想要瞭解凝光·其三",
+      "zht": "想要了解凝光·其三",
       "jp": "凝光を知る·3",
       "ko": "응광에 대해 알기·세 번째",
       "en": "More About Ningguang: III",
@@ -1143,10 +1175,10 @@
       "en": "I've been thinking about something lately. If I were to keep you in Liyue, perhaps... at the right time, I might be able to leverage this city to... For now, it's mere conjecture. I should really consider whether the investment is worth it some more.",
       "de": "Ich habe mir etwas überlegt. Wenn du länger in Liyue bleiben würdest, dann könnte ich eines Tages ... zur richtigen Zeit ... Ich sollte dennoch etwas warten, noch ist diese Investition nicht genug wert.",
       "es": "He estado pensando en algo últimamente. Si pudiera hacer que te quedaras en Liyue, tal vez... en el momento adecuado, podría usar la ciudad para... Bueno, no importa, son solo cosas mías. Aún debo valorar si la inversión merecería la pena.",
-      "fr": "J'ai beaucoup réfléchi, ces derniers jours. Si j'arrivais à vous convaincre de rester à Liyue, alors peut-être que... ou bien je pourrais faire levier avec la ville pour... Ah, ce n'est que conjecture pour l'instant. Mieux vaut que je réfléchisse encore si l'investissement en vaut la peine.",
-      "pt": "#Tenho pensado em algo ultimamente. Se eu {F#a}{M#o} mantivesse em Liyue, talvez... Na hora certa, eu pudesse me aproveitar desta cidade para... Por enquanto, é uma mera suposição. Eu realmente deveria considerar mais se o investimento vale a pena.",
+      "fr": "J'ai beaucoup réfléchi, ces derniers jours. Si j'arrivais à vous convaincre de rester à Liyue, alors peut-être que... Ou bien, je pourrais faire levier avec la ville pour... Ah, ce n'est que conjecture pour l'instant. Mieux vaut que je réfléchisse encore si l'investissement en vaut la peine.",
+      "pt": "#Tenho pensado em algo ultimamente. Se eu {M#o}{F#a} mantivesse em Liyue, talvez... na hora certa, eu pudesse me aproveitar desta cidade para... Por enquanto, é uma mera suposição. Eu realmente deveria considerar mais se o investimento vale a pena.",
       "ru": "Последнее время я размышляю над одним вопросом. Если бы я могла оставить тебя в Ли Юэ, возможно... Постепенно я смогла бы привести этот город... Ах, это только мысли вслух. Мне предстоит подумать, стоит ли того это вложение.",
-      "id": "Akhir-akhir ini aku sedang memikirkan sesuatu. Jika kamu tetap berada di Liyue, mungkin ... jika saatnya tiba, aku bisa memanfaatkan kota ini untuk ... Untuk sekarang, ini hanya dugaan belaka saja. Aku pikir sampai benar-benar matang apakah investasi ini berharga atau tidak.",
+      "id": "Akhir-akhir ini aku sedang memikirkan sesuatu. Jika aku tetap menahanmu di Liyue, mungkin ... ketika saatnya tiba, aku bisa pakai kota ini untuk ... Untuk sekarang, ini hanya pikiran yang mengawang. Aku masih harus pertimbangan apakah investasi ini layak atau tidak.",
       "th": "ช่วงนี้ฉันกำลังครุ่นคิดเกี่ยวกับ ปัญหานึง ถ้าทิ้งให้คุณอยู่ที่ Liyue ต่อไป ในเวลาที่เหมาะสม... บางทีอาจเปลี่ยนเมืองนี้ให้... เอิ่ม ก็แค่คิดดูเล่น ๆ น่ะ การลงทุนครั้งนี้จะคุ้มค่าหรือไม่ ฉันยังต้องคิดดูอีกที",
       "vi": "Gần đây tôi đang suy nghĩ một vấn đề. Nếu để bạn lại Liyue, sau này... có lẽ có thể lật cả tòa thành này... Ha ha, chỉ là tôi đang giả sử mà thôi. Món đầu tư này có đáng không, tôi cần phải suy nghĩ thêm."
     }
@@ -1154,7 +1186,7 @@
   {
     "title": {
       "zhs": "想要了解凝光·其四",
-      "zht": "想要瞭解凝光·其四",
+      "zht": "想要了解凝光·其四",
       "jp": "凝光を知る·4",
       "ko": "응광에 대해 알기·네 번째",
       "en": "More About Ningguang: IV",
@@ -1164,7 +1196,7 @@
       "pt": "Mais sobre Ningguang - IV",
       "ru": "Узнать больше о Нин Гуан IV",
       "id": "Mengenal Ningguang: IV",
-      "th": "อยากรู้เกี่ยวกับ Ningguang - 4",
+      "th": "อยากรู้เกี่ยวกับ Ningguang-4",
       "vi": "Muốn tìm hiểu Ningguang - Điều thứ 4"
     },
     "line": {
@@ -1172,13 +1204,13 @@
       "zht": "#{F#妳}{M#你}可以學我的做法，靠摩拉來為自己獲取一些便利。但{F#妳}{M#你}要記住，摩拉維持的關係只能依仗一時。呵，這也是我從不用摩拉來試探{F#妳}{M#你}的理由。",
       "jp": "モラを使って便宜を図るという私のやり方を学ぶといいわ。でもこれだけは覚えておいて、モラで作った関係は一時的なものよ。ふふっ、それは私がモラであなたを試すようなことをしない理由でもあるわ。",
       "ko": "내 방법을 따라 모라로 편리를 도모해도 돼. 그러나 모라로 유지되는 관계는 일시적이라는 것을 기억해. 훗, 그래서 난 널 모라로 떠보지 않아",
-      "en": "You can learn from me, and use Mora to make things a little easier for yourself. But remember, relationships built on Mora can only be relied on for a time. Hehe... And that is why I have never brought Mora into our relationship.",
+      "en": "You can learn from me, and use Mora to make things a little easier for yourself. But remember, relationships built on Mora can only be relied on for a time. Hehe... and that is why I have never brought Mora into our relationship.",
       "de": "Du kannst noch ein paar Dinge von mir lernen und Mora einsetzen, um Dinge zu bekommen, die schwer zu kriegen sind. Aber denke daran, auf Mora basierende Beziehungen halten meistens nicht sehr lange. Daher setze ich bei uns beiden nicht auf Mora.",
       "es": "Puedes aprender de mí y usar el Mora para hacerte las cosas un poco más fáciles. Pero recuerda, una relación basada en eso solo se sostendrá por un breve periodo de tiempo. Por eso nunca he metido el Mora en nuestra relación.",
       "fr": "Prenez exemple sur moi : les moras peuvent vous simplifier grandement la vie. Mais n'oubliez pas cependant que toute relation construite sur l'argent ne dure jamais éternellement... Héhé, et c'est d'ailleurs pour ça que je n'ai jamais mis de moras au milieu de la relation qui nous unit.",
-      "pt": "#Você pode aprender comigo, pode usar Mora para obter alguns recursos. Mas mantenha sempre em mente, as relações mantidas por Mora sempre duram pouco tempo, razão pela qual nunca {F#a}{M#o} testei com Mora.",
+      "pt": "Você pode aprender comigo, pode usar Mora para obter alguns recursos e tornar sua vida mais fácil. Mas mantenha sempre em mente, as relações mantidas por Mora sempre dura pouco tempo, hehe, razão pela qual nunca coloquei Mora no meio da nossa relação.",
       "ru": "Ты можешь последовать моему примеру и использовать мору для получения выгоды. Но тебе следует помнить, что отношения, построенные на море, не могут длиться долго. Ха, да, именно поэтому я не прибегаю к использованию моры в наших с тобой отношениях.",
-      "id": "Kamu bisa belajar dariku, manfaatkan Mora untuk membuat segala sesuatunya jadi lebih mudah. Tapi ingat, hubungan yang terjalin karena Mora itu hanya sementara. Hehe ... Karena itulah aku tidak pernah membawa Mora ke dalam hubungan kita.",
+      "id": "Belajarlah dariku, manfaatkan Mora untuk membuat segala sesuatunya jadi lebih mudah. Tapi ingat, hubungan yang terjalin karena Mora itu hanya bersifat sementara. Hehe .... Karena itulah aku tidak pernah membawa Mora ke dalam hubungan kita.",
       "th": "คุณจะทำตามฉันก็ได้ ใช้เงินเพื่อซื้อความสะดวกสบาย แต่ต้องจำไว้ว่า ความสัมพันธ์ที่ซื้อได้ด้วยเงินจะอยู่ ได้เพียงชั่วครู่เท่านั้น หึ นี่เป็นเหตุผลที่ทำไมฉันไม่เคยใช้เงินเพื่อลองใจคุณ",
       "vi": "Bạn có thể học theo cách của tôi, dùng Mora để giúp bản thân kiếm thêm chút lợi ích. Nhưng bạn phải nhớ, quan hệ duy trì của Mora chỉ trong nhất thời. Ha ha, đây cũng là lý do tôi không dùng Mora để thăm dò bạn."
     }
@@ -1186,7 +1218,7 @@
   {
     "title": {
       "zhs": "想要了解凝光·其五",
-      "zht": "想要瞭解凝光·其五",
+      "zht": "想要了解凝光·其五",
       "jp": "凝光を知る·5",
       "ko": "응광에 대해 알기·다섯 번째",
       "en": "More About Ningguang: V",
@@ -1208,9 +1240,9 @@
       "de": "Eine wirklich gute Investition. Ich habe zwar keine Mora damit verdient, aber die Zeit, die ich mit dir verbracht habe, ist mir Zins genug, haha! Wie schön, dass ich mein Geld wieder auf die richtige Person gesetzt habe.",
       "es": "Esta ha sido una gran inversión. Aunque no gané Moras en sí, el tiempo que pasé contigo es recompensa suficiente. Jaja, parece que aposté por la persona correcta y gané otra vez.",
       "fr": "Voilà certainement un excellent investissement. Bien sûr, je n'en ai tiré aucun mora, mais le temps passé à vos côtés a été bénéfique sur plus d'un plan. Haha, j'ai encore misé sur la bonne personne, on dirait.",
-      "pt": "Este é realmente um grande investimento. Apesar que não foi lucrativo, mas o tempo que passei com você já é um retorno sólido. Haha, parece que eu ganhei novamente - eu coloquei meu dinheiro na pessoa certa.",
+      "pt": "Este é realmente um grande investimento. Apesar de não ter sido lucrativo, mas o tempo que passei com você já é um retorno sólido. Haha, parece que eu ganhei novamente — eu coloquei meu dinheiro na pessoa certa.",
       "ru": "Неплохое капиталовложение. Конечно, накоплению моры оно не служит, но время, проведённое с тобой, само по себе есть прекрасная капиталоотдача. Думаю, я опять выиграла... Поставив на тебя.",
-      "id": "Ini benar-benar investasi yang bagus. Memang tidak ada Mora yang dihasilkan, tapi waktu yang kuhabiskan bersamamu adalah imbalan yang sangat baik. Haha, sepertinya aku menang lagi. Aku bertaruh pada orang yang tepat.",
+      "id": "Ini benar-benar investasi yang luar biasa. Memang tidak menghasilkan Mora, tapi waktu yang kuhabiskan bersamamu sudah termasuk imbalan. Haha, sepertinya aku menang lagi. Aku bertaruh pada orang yang tepat.",
       "th": "เป็นการลงทุนที่ไม่เลวจริง ๆ ถึงแม้ว่าจะไม่ได้รับประโยชน์เป็น เงินทองอะไรมากมาย แต่เวลาที่ใช้ไปกับคุณนั้น ก็เป็นผลตอบแทนที่ดีมากแล้ว ฮ่า ๆ ดูเหมือนว่าฉันจะชนะอีกแล้ว... ฉันเดิมพันถูกคน",
       "vi": "Đúng là một khoản đầu tư rất tốt. Tuy rằng không thu được bao nhiêu Mora, nhưng thời gian trải qua cùng với bạn cũng xem như là sự báo đáp tuyệt vời. Ha ha, xem ra tôi lại thắng rồi, tôi đã cược đúng người rồi!"
     }
@@ -1225,7 +1257,7 @@
       "de": "Ningguangs Hobbys ...",
       "es": "Aficiones de Ninguang...",
       "fr": "Les loisirs de Ningguang...",
-      "pt": "Passatempos de Ningguang",
+      "pt": "Passatempos de Ningguang...",
       "ru": "Хобби Нин Гуан...",
       "id": "Hobi Ningguang",
       "th": "งานอดิเรกของ Ningguang...",
@@ -1242,7 +1274,7 @@
       "fr": "Est-ce qu'une partie de « Mille ans à Liyue » vous intéresse ? Je suis curieuse de voir ce que vous valez aux échecs.",
       "pt": "#Você quer jogar o Jogo de Xadrez: Mil Anos em Liyue? Isso me dará uma oportunidade de ver exatamente o quanto você é {F#boa como jogadora}{M#bom como jogador}.",
       "ru": "Не хочешь попробовать сыграть в «Тысяча лет в Ли Юэ»? Я смогу оценить, насколько хорошо ты играешь в шахматы.",
-      "id": "Ingin coba permainan \"Seribu Tahun di Liyue\"? Biar kulihat kemampuanmu sebagai seorang pemain.",
+      "id": "Ingin coba permainan catur Liyue Millenial? Akhirnya ada kesempatan untuk melihat sejauh mana kemampuanmu sebagai seorang pemain.",
       "th": "อยากลองเล่นหมากรุก \"Liyue พันปี\"งั้นเหรอ? ก็ดี ฉันจะได้ดูว่าฝีมือคุณในฐานะ ผู้เล่นหมากรุกเป็นยังไง",
       "vi": "Muốn thử vở \"Liyue Ngàn Năm\" không? Vừa khéo có thể cho tôi xem thử tố chất của bạn khi làm kỳ thủ rốt cuộc là như thế nào."
     }
@@ -1265,16 +1297,16 @@
     },
     "line": {
       "zhs": "烦恼…哦？「璃月七星」的烦恼告诉了你…你的肩膀，能够承受得住吗？而且，如果你一不小心说出去了的话…",
-      "zht": "#煩惱…哦？「璃月七星」的煩惱告訴了{F#妳}{M#你}…{F#妳}{M#你}的肩膀，能夠承受得住嗎？而且，如果{F#妳}{M#你}一不小心說出去了的話…",
+      "zht": "#煩惱…喔？「璃月七星」的煩惱告訴了{F#妳}{M#你}…{F#妳}{M#你}的肩膀，能夠承受得住嗎？而且，如果{F#妳}{M#你}一不小心說出去了的話…",
       "jp": "悩み…ふーん？「璃月七星」の悩みを教えたら、あなたは受け止められる？それに、もしあなたがうっかり言ってしまった時は…",
-      "ko": "고민…어? 「리월칠성」의 고민을 알려주면…네가 감당할 수 있겠어? 그리고 혹시라도 그걸 발설한다면…",
+      "ko": "고민…어? 「리월 칠성」의 고민을 알려주면…네가 감당할 수 있겠어? 그리고 혹시라도 그걸 발설한다면…",
       "en": "Concerns? If I told you of the concerns of the Liyue Qixing, do you think your shoulders could bear the burden? And, if you ever made the mistake of mentioning them to others...",
       "de": "Sorgen? Wenn du die Bedenken der Qixing von Liyue kennen würdest, meinst du, könntest du ihre Last aushalten? Und schon gar nicht den Fehler zu machen, darüber mit anderen zu sprechen ...",
       "es": "¿Preocupaciones? Si te contara lo que nos preocupa a las Siete Estrellas de Liyue, ¿crees que podrías soportar la carga? Además, si por cualquier razón se te escapara y lo contaras...",
       "fr": "Mes problèmes ? Je doute que vos épaules soient assez solides pour porter les soucis qui habitent les Sept Étoiles. Sans compter que si jamais vous alliez répéter ce que je vous confie...",
-      "pt": "Preocupações? Se eu te falasse das preocupações dos Qixing de Liyue, você acha que seus ombros poderiam suportar o fardo? E se você alguma vez cometer o erro de mencioná-los aos outros...?",
+      "pt": "Preocupações? Se eu te falasse das preocupações dos Qixing de Liyue, você acha que seus ombros poderiam suportar o fardo? E se você alguma vez cometer o erro de mencioná-los aos outros...",
       "ru": "#Что меня беспокоит?.. Думаешь, ты смог{F#лa} бы вынести то бремя, которое я возложу на тебя, поделившись своим беспокойством о группировке Цисин? К тому же если ты проговоришься по неосторожности...",
-      "id": "Kekhawatiran? Jika aku beri tahu kamu kekhawatiran seorang Liyue Qixing, apa kamu bakal kuat menanggung bebannya? Lalu, jika kamu tidak sengaja membocorkannya ....",
+      "id": "Kekhawatiran? Kalau aku beberkan kekhawatiran seorang Liyue Qixing, apa kamu yakin pundakmu akan kuat untuk menanggung bebannya? Dan jika kamu tidak sengaja membocorkannya ke pihak lain ....",
       "th": "กลุ้มใจ... หืม? Liyue Qixing ได้บอกเรื่องกลุ้มใจกับคุณ... ไหล่ของคุณจะสามารถแบกมัน ได้รึเปล่า? ถ้าคุณเผลอพูดออกมาโดยไม่ตั้งใจแล้วล่ะก็...",
       "vi": "Phiền não? Nói cho bạn nghe phiền não của \"Thất Tinh Liyue\"... Đôi vai của bạn có thể gánh chịu nổi không? Hơn nữa, nếu bạn bất cẩn nói ra..."
     }
@@ -1289,7 +1321,7 @@
       "de": "Was sie so mag ...",
       "es": "Comida que más le gusta...",
       "fr": "Plats préférés...",
-      "pt": "Comida favorita...",
+      "pt": "Comida Favorita...",
       "ru": "Любимая еда...",
       "id": "Makanan Favorit",
       "th": "อาหารที่ชอบ...",
@@ -1297,7 +1329,7 @@
     },
     "line": {
       "zhs": "用老鸡和猪骨小火久煮熬制高汤，淋在只取菜心的鲜嫩白菜上。我对饮食追求不深。平日里吃点这样的东西，也就够了。",
-      "zht": "用老雞和豬骨小火久煮熬製高湯，淋在只取菜心的鮮嫩白菜上。我對飲食追求不深。平日裡吃點這樣的東西，也就夠了。",
+      "zht": "用老雞和豬骨小火久煮熬制高湯，淋在只取菜心的鮮嫩白菜上。我對飲食追求不深。平日裡吃點這樣的東西，也就夠了。",
       "jp": "鶏と豚骨を弱火で煮込んだ出汁を柔らかい白菜の芯にかける。食に対する執着はそんなにないから、普段はそういうものを食べたら、もう満足よ。",
       "ko": "묵은닭과 돼지 뼈를 오래 고아 만든 탕을 속이 부드럽고 신선한 배추에 뿌려. 난 음식에 까다롭지 않아. 평소에 이런 것만 먹어도 충분해",
       "en": "A slow-boiled soup of leftover chicken and pork bones drenched over some cabbage leaves. I have few culinary requirements. Having a few staple dishes like this is enough.",
@@ -1306,7 +1338,7 @@
       "fr": "Une soupe de restes de poulet et de porc avec quelques feuilles de légumes verts. Je ne suis guère exigeante en la matière.",
       "pt": "Coração de couve regado por caldo de galinha e porco em fogo baixo, é bem fresquinho e macio. Não sou exigente em comida, então para mim, esse prato já é ótimo.",
       "ru": "Бульон, сваренный на медленном огне из куриного мяса и свиных костей, заправленный листьями свежей молодой капусты. Я неприхотлива в еде. В простые дни такого рода блюд мне вполне хватает.",
-      "id": "Kaldu rebusan sisa tulang ayam dan babi, yang dituang ke atas sawi segar. Aku tidak rewel soal urusan kuliner. Punya sedikit makanan pokok seperti ini saja sudah cukup.",
+      "id": "Kaldu rebusan tulang ayam dan babi, yang dituang ke atas sawi segar. Aku tidak rewel soal urusan kuliner. Bisa makan sederhana seperti ini saja sudah cukup.",
       "th": "ต้มน้ำซุปกับกระดูกไก่และหมู เป็นเวลานาน และเทลงใน ใจกะหล่ำปลีที่สดและอ่อน ฉันไม่ได้สนใจเรื่องอาหาร อย่างลึกซึ้ง ในวันธรรมดา แค่ได้กินของง่าย ๆ อย่างงี้ ก็พอใจแล้ว",
       "vi": "Nước hầm dùng gà và xương heo ninh lửa nhỏ trong thời gian dài, thêm vào một ít cải trắng chỉ lấy phần non mềm ở giữa. Đối với chuyện ăn uống, tôi không có yêu cầu gì quá khắt khe, bình thường ăn những thứ như vầy là đủ rồi."
     }
@@ -1321,7 +1353,7 @@
       "de": "Was sie nicht mag ...",
       "es": "Comida que menos le gusta...",
       "fr": "Plats détestés...",
-      "pt": "Comida que detesta...",
+      "pt": "Comida que Odeia...",
       "ru": "Нелюбимая еда...",
       "id": "Makanan yang Tidak Disukai",
       "th": "อาหารที่เกลียด...",
@@ -1336,9 +1368,9 @@
       "de": "Ich bin Leuten begegnet, die zu jeder Mahlzeit unbedingt etwas so Teures wie Goldkrebs bestellt haben. Auch wenn es gut aussieht, habe ich keinerlei Interesse an solchen Überschreitungen. Lass dir also nicht einfallen, mich zu so etwas einzuladen, und gib mir die Mora lieber direkt.",
       "es": "Hay gente que, durante los banquetes, siempre pide cangrejo dorado para comer. Puede parecer una comida lujosa, pero a mí no me sorprende en absoluto. Si alguna vez quieres invitarme a comer algo similar, mejor dame directamente los Moras que cuesta.",
       "fr": "J'ai rencontré des gens qui demandent du crabe doré à chaque repas. Ces plats ont peut-être l'air délicieux, mais je n'ai guère de temps à gaspiller sur ce genre de frivolités. Si jamais vous souhaitez m'inviter dans ce genre d'établissement, autant gagner du temps et me donner vos moras directement.",
-      "pt": "Eu vi que alguém só pede o prato Caranguejo Dourado para ostentar, mas infelizmente não é o meu prato. Se você quiser me convidar para este prato, seria melhor me dar Mora diretamente.",
+      "pt": "Já me deparei com aqueles que exigem Caranguejo Dourado em todas as refeições. Embora isso pareça grandioso, eu realmente não vejo motivo para algo tão frívolo. Se você está pensando em me levar para um jantar assim, seria melhor se você apenas me desse a Mora diretamente.",
       "ru": "Я встречала людей, которые на каждом приёме требовали сервировать им золотистого краба. Это блюдо дорого выглядит, но я нахожу такое вульгарным. Если ты хочешь пригласить на подобный приём меня, лучше просто заплати мне морой.",
-      "id": "Aku sudah pernah lihat orang harus pesan Golden Crab setiap kali ia makanan. Meskipun terlihat mewah dan mahal, aku sedikit pun tidak tertarik. Jika kamu terpikir untuk mengajakku makan malam seperti itu, mending langsung saja berikan Mora-nya padaku.",
+      "id": "Aku kenal orang yang selalu pesan Golden Crab setiap kali dia makan. Mewah dan mahal, tapi yang seperti itu aku sedikit pun tidak tertarik. Kalau kamu pernah terpikir untuk mengajakku makan malam seperti itu, tidak usah. Mending langsung kasih Mora-nya saja sekalian.",
       "th": "ทุกครั้งที่มีงานเลี้ยงฉันมักจะเห็นคนสั่งอาหารหรูแสนแพงอย่าง Golden Crab แต่ฉันก็ไม่ได้รู้สึกดีหรอกนะ ถ้าจะใช้เมนูพวกนี้มาเอาใจฉัน ทีหลังเอา Mora มาให้ฉันเลยจะดีกว่า",
       "vi": "Tôi từng thấy có người mỗi lần ăn tiệc đều gọi Cua Hoàng Kim, món này trông có vẻ rất sang trọng nhưng tôi chẳng có cảm giác gì. Nếu bạn muốn dùng yến tiệc như vậy mời tôi, thì chi bằng trực tiếp đưa Mora cho tôi là được."
     }
@@ -1370,7 +1402,7 @@
       "fr": "Voilà des brocarts qui comptent parmi les plus fins de Liyue, tissés à partir de fleurs de soie. Celui-ci est pour vous, et celui-là... J'espère que vous pourrez un jour le donner à la famille que vous avez perdue. Joyeux anniversaire.",
       "pt": "#{M#Isto é uma seda feita de Flor de Seda de altíssima qualidade. Esta é para você, e outra é para a sua irmã. Quando a encontrar, faça uma roupa para ela. Feliz Aniversário! Parabéns.}{F#Isto é uma seda feita de Flor de Seda de altíssima qualidade. Vá fazer uma roupa bonita para si. Feliz Aniversário. Parabéns, muitas felicidades.}",
       "ru": "#Дарю тебе эту парчу высшего качества из Ли Юэ, сплетённую из шелковиц. {M#И ещё одну... Однажды ты сможешь подарить её своей сестре и, надеюсь, она ей понравится. Поздравляю вас обоих с днём}{F#Сделай из неё одежду и хорошенько отпразднуй свой день} рождения.",
-      "id": "#{M#Ini adalah beberapa brokat terbaik Liyue, yang ditenun dari Silk Flower. Ini untukmu, dan yang ini ... Aku harap suatu hari nanti, kamu akan bisa memberikannya kepada saudaramu, dan kuharap dia akan menyukainya. Selamat ulang tahun untuk kalian berdua.}{F#Ini adalah salah satu brokat terbaik Liyue, yang ditenun dari Silk Flower. Kamu dapat menggunakannya untuk membuat pakaian. Selamat ulang tahun.}",
+      "id": "#{M#Ini brokat terbaik Liyue, yang ditenun dari Silk Flower. Satu untukmu, dan satu lagi ... Aku harap kamu bisa segera memberikannya kepada adikmu, dan semoga dia suka. Selamat ulang tahun untuk kalian berdua.}{F#Ini brokat terbaik Liyue, yang ditenun dari Silk Flower. Bisa kamu pakai untuk dibuat baju. Selamat ulang tahun ya.}",
       "th": "#{M#นี่เป็นผ้าที่ทอจาก Silk Flower เกรดดีที่สุด ผ้าผืนนี้มอบให้คุณ ส่วนอีกผืน... พอคุณตามหาน้องสาวของคุณเจอแล้ว ก็เอาไปทำชุดสวย ๆ ให้เธอใส่เถอะ สุขสันต์วันเกิดนะ}{F#นี่เป็นผ้าที่ทอจาก Silk Flower เกรดดีที่สุด เอาไปทำชุดสวย ๆ ใส่เถอะ สุขสันต์วันเกิด มีความสุขมาก ๆ นะ}",
       "vi": "#{M#Đây là gấm được dệt từ Hoa Nghê Thường thượng đẳng. Phần này gửi cho bạn, phần này... chờ bạn tìm được em gái của mình, thì hãy đem đi may bộ quần áo mà cô ấy thích nhất. Chúc các bạn sinh nhật vui vẻ.}{F#Đây là gấm được dệt từ Hoa Nghê Thường thượng đẳng. Hãy đem may quần áo mình thích đi, sinh nhật vui vẻ!}"
     }
@@ -1402,7 +1434,7 @@
       "fr": "Non seulement recourir à la violence manque de style, mais c'est aussi le plus souvent la pire des solutions qu'on puisse prendre.",
       "pt": "Não há elegância em recorrer à violência, é simplesmente a pior de todas as más decisões que você pode tomar.",
       "ru": "Решение проблем насилием - это наихудшее решение.",
-      "id": "Mengandalkan kekerasan itu tidak ada bagusnya sama sekali. Itu yang paling buruk dari semua keputusan buruk yang bisa kamu buat.",
+      "id": "Mengandalkan kekerasan itu tidak ada bagusnya. Itu keputusan terburuk dari yang paling buruk.",
       "th": "การใช้ความรุนแรงโดยขาด ความยับยั้งชั่งใจ เป็นการกระทำที่โง่เง่ามาก",
       "vi": "\"Đấu võ\" mà thiếu phong độ thì chỉ có thể xem như là hạ sách trong hạ sách."
     }
@@ -1434,7 +1466,7 @@
       "fr": "Échanger des moras et du temps contre de la puissance... Intéressant. Je reconnais leur valeur.",
       "pt": "Trocar tempo e Mora por poder... Interessante. Isso mostra o verdadeiro valor deles.",
       "ru": "Делать своей силой время и мору... Интересно. Это лишний раз доказывает их ценность.",
-      "id": "Memanfaatkan waktu dan Mora untuk negosiasi ... menarik. Ini menunjukkan nilai mereka yang sesungguhnya.",
+      "id": "Menukar waktu dan Mora menjadi kekuatan ... menarik. Demikianlah nilai Mora.",
       "th": "การใช้เวลาและ Mora เป็นเครื่องต่อรอง มันมีค่าเทียบเท่ากับ \"อำนาจ\" เหรอ... น่าสนใจ ฉันคิดว่ามันมีค่าอยู่เหมือนกัน",
       "vi": "Dùng thời gian và Mora làm tiền để trao đổi \"sức mạnh\" đồng giá sao? Thú vị đấy, tôi chấp nhận giá trị của nó."
     }
@@ -1464,9 +1496,9 @@
       "de": "Was ist es, das dich so sehr an eine Sache glauben lässt? Psst, sag es mir nicht. Gib mir noch etwas Zeit dich zu durchschauen.",
       "es": "¿Qué es lo que te motiva a ser tan persistente? No, no me lo digas. Dame más tiempo para entenderlo yo misma.",
       "fr": "Qu'est-ce donc qui vous habite et vous fait tenir envers et contre tout ? ... Non, ne dites rien. Laissez-moi plus de temps pour vous percer à jour.",
-      "pt": "Como você consegue ter tanta resiliência? Não diga... Prefiro gastar mais tempo para compreender você.",
+      "pt": "O que te motiva tanto a ser tão persistente...? Espere, não me diga. Apenas me dê mais tempo para que eu possa te entender por conta própria.",
       "ru": "Что заставляет тебя не сдаваться? Нет, не говори мне. Дай мне больше времени, и я пойму сама.",
-      "id": "Sebenarnya apa yang begitu berharga bagimu sampai kamu gigih sekali memperjuangkannya? Ah ... tidak, jangan katakan padaku. Beri aku waktu, biar aku lebih memahamimu.",
+      "id": "Rahasia berharga apa yang ada di balik segala kegigihanmu? Ah ... tidak, jangan katakan. Beri aku waktu untuk dapat lebih memahamimu.",
       "th": "คุณอารมณ์ไหนกันแน่นะ? ชู่ว... อย่าเพิ่งพูด ให้ฉันใช้เวลาในการอ่านใจคุณ อีกนิดนึง",
       "vi": "Bạn đang kiên trì với suy nghĩ gì vậy? Suỵt... Đừng nói ra. Tôi sẽ dành thêm nhiều thời gian để có thể nhìn thấu bạn."
     }
@@ -1477,7 +1509,7 @@
       "zht": "突破的感受·合",
       "jp": "突破した感想·結",
       "ko": "돌파의 느낌·결",
-      "en": "Feelings about Ascension: Conclusion",
+      "en": "Feelings About Ascension: Conclusion",
       "de": "Gedanken über den Aufstieg – Ende",
       "es": "El sentimiento de Ascensión - Desenlace",
       "fr": "Affinité max",
@@ -1492,14 +1524,14 @@
       "zht": "#我並不輕易肯定別人，但現在看來，我這讚揚是留不住了。呵…{F#妳}{M#你}做得很出色。要是我的手下能多一點像{F#妳}{M#你}這樣的人…不，或許，有{F#妳}{M#你}一個就夠了。",
       "jp": "誰かを肯定するなんてめったにしないけど、どうやら褒めずにいられないようね。ふふっ、あなたはよくやってくれたわ。もしあなたのような人が私の部下にもっといたら…ううん、あなた一人で十分かもね。",
       "ko": "난 경솔하게 남을 인정하지 않지만 지금 보니 칭찬하지 않고는 못 배기겠어. 아주 잘했어. 나한테 너 같은 부하가 더 있다면…아니, 너 하나로 충분할지도 몰라",
-      "en": "I'm usually not so quick to place my trust in others, but it seems I will no longer be able to make such claims. You've done splendidly. If only I had more like you... No, perhaps you alone are enough.",
+      "en": "I'm usually not so quick to place my trust in others, but it seems I will no longer be able to make such claims. You've done splendidly. If only I had more like you... No, perhaps... you alone are enough.",
       "de": "Es ist normalerweise nicht mein Stil, Leute zu schnell zu loben, aber ich muss sagen, du hast dir das Lob wirklich verdient. Du hast hervorragende Arbeit geleistet. Wenn ich doch nur mehr Leute wie dich hätte ... Wobei du allein schon ausreichen würdest.",
-      "es": "Por lo general, no suelo confiar en los demás a la primera, pero esto ya no se aplica a ti. Eres realmente increíble. Ojalá tuviera a mi lado más gente como tú... No, tal vez contigo es suficiente.",
+      "es": "Por lo general, no suelo confiar en los demás a la primera, pero está claro que tú eres una excepción. Eres realmente increíble. Ojalá tuviera a mi lado más gente como tú... No, tal vez contigo es suficiente.",
       "fr": "Je ne suis guère encline à accorder ma confiance à qui que ce soit à la légère, mais je crains devoir revoir ce jugement. Vous m'avez étonnée. Si seulement j'en avais plusieurs comme vous... Quoique. Vous suffisez amplement, après tout.",
-      "pt": "#Eu geralmente não deposito minha confiança tão rápido assim em outros, mas parece que eu não posso mais afirmar isso. Você foi esplêndid{M#o}{F#a}. Apenas se eu tivesse mais pessoas como você... Não, talvez... Você sozinh{M#o}{F#a} seja o suficiente.",
+      "pt": "#Eu normalmente não costumo colocar minha confiança tão rapidamente nos outros, mas parece que não serei mais capaz de dizer coisas do gênero. Você tem sido esplêndid{M#o}{F#a}. Se eu pelo menos tivesse mais pessoas como você... Aliás, não, talvez... apenas você seja suficiente.",
       "ru": "#Обычно я не доверяю людям, но ты заслужил{F#а} моё доверие. Хорошая работа. Нужно больше таких людей, как ты... А возможно, кроме тебя никого не надо.",
-      "id": "Biasanya aku tidak mungkin sebegitu cepatnya percaya pada orang lain, tapi sepertinya aku tidak bisa bilang begitu lagi. Kamu benar-benar hebat. Andai saja aku memiliki lebih banyak orang sepertimu ... Ah, tidak perlu. Kamu sendiri saja sudah cukup.",
-      "th": "ฉันไม่ตัดสินคนอื่นง่าย ๆ หรอก แต่เท่าที่ดูตอนนี้ ฉันไม่อาจรับคำชมของคุณได้ เฮอะ... คุณทำได้ดีมาก ถ้าลูกน้องฉันมีความสามารถเหมือนคุณ... ไม่สิ บางที มีคุณคนเดียวก็น่าจะพอ",
+      "id": "\"Aku bukan orang yang mudah percaya pada orang lain dalam waktu singkat\", tampaknya kalimat itu kini sudah tidak benar lagi. Kamu luar biasa. Andai saja aku punya lebih banyak orang sepertimu ... Ah, tidak. Kamu sendiri saja sudah cukup.",
+      "th": "ฉันไม่ตัดสินคนอื่นง่าย ๆ หรอก แต่เท่าที่ดูตอนนี้ ไม่ชมสักหน่อยคงไม่ได้แล้ว เฮอะ... คุณทำได้ดีมาก ถ้าลูกน้องฉันมีความสามารถเหมือนคุณ... ไม่สิ บางที... มีคุณคนเดียวก็น่าจะพอ",
       "vi": "Tôi rất hiếm khi chịu nhìn nhận người khác, nhưng bây giờ xem ra, lời tán dương này tôi nhịn không nổi rồi... Bạn làm xuất sắc lắm. Nếu như thủ hạ của tôi có thể giống bạn hơn một chút... Không, có lẽ, chỉ cần một mình bạn là đủ rồi."
     }
   },
@@ -1528,10 +1560,10 @@
       "de": "Belanglos.",
       "es": "Esto no es nada.",
       "fr": "C'est un jeu d'enfant.",
-      "pt": "Não foi nada.",
+      "pt": "Não é nada.",
       "ru": "...Пустяки.",
-      "id": "Sepele saja.",
-      "th": "...เรื่องเล็กน้อย",
+      "id": "Sepele.",
+      "th": "ใช้ฝีมือเล็กน้อยก็พอ",
       "vi": "Tầm thường."
     }
   },
@@ -1592,7 +1624,7 @@
       "de": "Hm! Gib auf.",
       "es": "¡Hum! ¡Ríndete!",
       "fr": "Hmph, abandonne.",
-      "pt": "Hnf! Desista.",
+      "pt": "Hunf! Desista.",
       "ru": "Фи! Сдавайся!",
       "id": "Hmph! Menyerahlah.",
       "th": "ฮึ ยอมแพ้ซะเถอะ",
@@ -1626,7 +1658,7 @@
       "fr": "Ta vie est mienne.",
       "pt": "Sua vida é minha.",
       "ru": "Твоя жизнь - моя!",
-      "id": "Nyawamu adalah milikku.",
+      "id": "Nyawamu di tanganku.",
       "th": "ชีวิตของแก ฉันจะรับไว้เอง",
       "vi": "Cho xin cái mạng nhé."
     }
@@ -1781,7 +1813,7 @@
       "jp": "財宝は多ければ多いほどいいわね。",
       "ko": "재물은 많을수록 좋은 법이야",
       "en": "Wealth... why settle for less than more?",
-      "de": "Reichtum ... warum sich mit weniger als mit mehr zufrieden geben?",
+      "de": "Reichtum ... Warum sich mit weniger als mit mehr zufrieden geben?",
       "es": "Cuando de riqueza se trata, ¿por qué conformarse con poco?",
       "fr": "Les richesses... Pourquoi se contenter de peu ?",
       "pt": "Riqueza... Por que se contentar com pouco?",
@@ -1801,7 +1833,7 @@
       "de": "Niedrige LP I",
       "es": "Vida baja (I)",
       "fr": "PV faibles (1)",
-      "pt": "Vida baixa - I",
+      "pt": "Vida Baixa - I",
       "ru": "Низкий уровень HP I",
       "id": "HP Rendah: I",
       "th": "ค่าพลังชีวิตต่ำ - 1",
@@ -1818,7 +1850,7 @@
       "fr": "Comment osez-vous me frapper ?",
       "pt": "Como ousa me bater?",
       "ru": "Ты смеешь бить меня?!",
-      "id": "Berani-beraninya menyerangku?",
+      "id": "Berani menyerangku?",
       "th": "นี่กล้าทำร้ายฉันเชียวเรอะ",
       "vi": "Dám đả thương ta."
     }
@@ -1833,7 +1865,7 @@
       "de": "Niedrige LP II",
       "es": "Vida baja (II)",
       "fr": "PV faibles (2)",
-      "pt": "Vida baixa - II",
+      "pt": "Vida Baixa - II",
       "ru": "Низкий уровень HP II",
       "id": "HP Rendah: II",
       "th": "ค่าพลังชีวิตต่ำ - 2",
@@ -1865,7 +1897,7 @@
       "de": "Niedrige LP III",
       "es": "Vida baja (III)",
       "fr": "PV faibles (3)",
-      "pt": "Vida baixa - III",
+      "pt": "Vida Baixa - III",
       "ru": "Низкий уровень HP III",
       "id": "HP Rendah: III",
       "th": "ค่าพลังชีวิตต่ำ - 3",
@@ -1876,14 +1908,14 @@
       "zht": "哼。",
       "jp": "フン。",
       "ko": "흥",
-      "en": "Ugh...!",
-      "de": "Hmpf!",
+      "en": "Urgh!",
+      "de": "Hm.",
       "es": "¡Ah!",
-      "fr": "Hmph !",
-      "pt": "Hnf...",
-      "ru": "Ах.",
-      "id": "Agh!",
-      "th": "ชิส์",
+      "fr": "Ha !",
+      "pt": "Huh!",
+      "ru": "Ух!",
+      "id": "Ugh!",
+      "th": "อึ่ก",
       "vi": "Hừ."
     }
   },
@@ -1909,12 +1941,12 @@
       "jp": "この世の中にいる人は全員駒よ…",
       "ko": "세상 사람들은 모두 장기판의 말일뿐이야…",
       "en": "We are all but pawns...",
-      "de": "Wir sind alle nur Spielfiguren ...",
+      "de": "Wir sind alle nur Spielsteine ...",
       "es": "No somos más que peones...",
       "fr": "Nous ne sommes que des pions de ce monde...",
       "pt": "Somos todos peões...",
       "ru": "Мы всего лишь пешки...",
-      "id": "Kita semua hanya bidak catur ....",
+      "id": "Kita semua, hanya bidak catur ....",
       "th": "ทุกคนบนโลกนี้ ก็เป็นเพียงเบี้ยบนกระดาน...",
       "vi": "Người trên đời này, đều là con cờ..."
     }
@@ -1943,10 +1975,10 @@
       "en": "The victor has been decided...",
       "de": "Der Sieger steht fest ...",
       "es": "El vencedor ya se ha decidido...",
-      "fr": "Le gagnant a été désigné... il n'y a rien à faire.",
+      "fr": "Le gagnant a été désigné... Il n'y a rien à faire.",
       "pt": "O vencedor foi decidido...",
       "ru": "Победитель определён...",
-      "id": "Pemenangnya sudah ditentukan ....",
+      "id": "Pemenangnya sudah jelas ....",
       "th": "ผู้แพ้ชนะได้ถูกตัดสินแล้ว... คงเลือกอะไรไม่ได้",
       "vi": "Thắng thua đã định...thật không biết làm sao."
     }
@@ -1958,7 +1990,7 @@
       "jp": "戦闘不能·3",
       "ko": "전투 불능·세 번째",
       "en": "Fallen: III",
-      "de": "Ohmächtig III",
+      "de": "Ohnmächtig III",
       "es": "Derrotada (III)",
       "fr": "K.O. (3)",
       "pt": "Derrotado - III",
@@ -1976,7 +2008,7 @@
       "de": "Ist dies das Ende des Tianquan?",
       "es": "¿Es este el fin del Equilibrio Celestial?",
       "fr": "Est-ce la fin de la Megrez ?",
-      "pt": "Será este o fim de Tianquan?",
+      "pt": "Será este o fim da Tianquan?",
       "ru": "Таков исход Воли Небес?",
       "id": "Inikah akhir dari Tianquan?",
       "th": "นี่คือจุดจบของ Tianquan งั้นเหรอ?...",
@@ -2010,7 +2042,7 @@
       "fr": "L'audace.",
       "pt": "Ugh... Falta de educação.",
       "ru": "Хм... грубо.",
-      "id": "Ugh ... tidak sopan.",
+      "id": "Tidak sopan.",
       "th": "ไร้มารยาท",
       "vi": "Vô lễ."
     }
@@ -2074,7 +2106,7 @@
       "fr": "Sang pour sang.",
       "pt": "Eugh! Sangue por sangue!",
       "ru": "Ох! Кровь за кровь!",
-      "id": "Huh! Darah ganti darah!",
+      "id": "Huh! Darah dibalas darah!",
       "th": "เลือดต้องชดใช้ด้วยเลือด",
       "vi": "Nợ máu trả bằng máu."
     }
@@ -2104,10 +2136,10 @@
       "de": "Verstanden.",
       "es": "Entendido.",
       "fr": "Compris.",
-      "pt": "Compreendido.",
+      "pt": "Entendido.",
       "ru": "Понятно.",
-      "id": "Mengerti.",
-      "th": "เข้าใจแล้ว",
+      "id": "Baiklah.",
+      "th": "รับทราบ",
       "vi": "Biết rồi."
     }
   },
@@ -2140,7 +2172,7 @@
       "ru": "Поспешим.",
       "id": "Mari bergegas.",
       "th": "เร่งกันหน่อยเถอะ",
-      "vi": "Tranh thủ thời gian thôi."
+      "vi": "Hãy tranh thủ thời gian đi."
     }
   },
   {

@@ -600,8 +600,8 @@
       "de": "In „Historia Naturalis Liyue“ ist eine Art Wasserpferdeschwanz aufgezeichnet. Er „wächst allein im Dihua-Moor und hat die Farbe der Abendröte. Man kann aus ihm Medizin machen.“ Falls man den Wasserpferdeschwanz zu Pulver mahlt und das Pulver in Tinte gibt, zergehe die damit geschrieben Schrift auch im Wasser nicht. Mhmmm ... Schade! Ich habe das Dihua-Moor hundertmal besucht und dort so viele lila Pferdeschwänze gesehen. Aber diesen Wasserpferdeschwanz habe ich nie gefunden.",
       "es": "En «Historia Naturalis de Liyue» se menciona un tipo de cola de caballo acuática que “crece en las orillas del Pantano Dihua y tiene el color del arrebol del atardecer y propiedades medicinales”. Si se muele hasta convertirse en polvo y se mezcla con tinta para escribir, la escritura se vuelve resistente al agua. Qué lástima... De todas las veces que he ido al Pantano Dihua, siempre acabo con cestas y cestas de colas de caballo de color violeta. Nunca las he encontrado del color que se menciona en el libro.",
       "fr": "« Histoire de la nature de Liyue » mentionne une plante aquatique appelée queue de cheval. Elle la décrit comme étant « une plante médicinale qui pousse souvent seule sur les rives du Marais Dihua et dont la couleur rappelle celle des nuages au coucher du soleil ». Apparemment, si vous broyez cette plante et mélangez la poudre à votre encre, vos inscriptions résistent à l'eau. Mais c'est dommage, je suis allée aux Marais Dihua au moins des centaines de fois, et je me retrouve toujours avec un panier rempli de la variété commune violette, mais pas une seule de celle décrite dans le livre.",
-      "pt": "A Revista de Paisagens de Liyue menciona uma planta aquática de Rab de Cavalo, é uma planta vermelha com um alto valor medicinal, e se encontra apenas na beira da Ilhota de Dihua. Se a moer em pó e adicioná-la na tinta, a tinta será resistente à água... Mas eu já fui na Ilhota de Dihua várias vezes e consegui coletar várias plantas Rabo de Cavalo de cor roxa, porém, nunca encontrei essa planta vermelha.",
-      "ru": "В «Истории флоры и фауны Ли Юэ» об одном из видов конского хвоста написано, что он «растёт одиноко на берегах Тростниковых островов, цвет красный, можно использовать как лекарство». Если его измельчить в порошок и смешать с чернилами, то они станут водостойкими. Но я была на Тростниковых островах много раз и обычных фиолетовых конских хвостов можно насобирать несколько корзин, а того, о котором говорится в книге, я так и не нашла. Очень жаль...",
+      "pt": "A Revista de Paisagens de Liyue menciona uma planta aquática de Rabo de Cavalo, é uma planta vermelha com um alto valor medicinal, e se encontra apenas na beira da Ilhota de Dihua. Se a moer em pó e adicioná-la na tinta, a tinta será resistente à água... Mas eu já fui na Ilhota de Dihua várias vezes e consegui coletar várias plantas Rabo de Cavalo de cor roxa, porém, nunca encontrei essa planta vermelha.",
+      "ru": "В «Истории флоры и фауны Ли Юэ» об одном из видов конского хвоста написано, что он «растёт одиноко на берегах Тростниковых островов, цвет красный, можно использовать как лекарство». Если его измельчить в порошок и смешать с чернилами, то они станут водостойкими. Но я была на Тростниковых островах много раз и обычные фиолетовые конские хвосты собирала корзинами, но того, о котором говорится в книге, я так и не нашла. Очень жаль...",
       "id": "Buku Historia Naturalis Liyue memiliki catatan mengenai sejenis tanaman air yang bernama Horsetail. Dituliskan bahwa \"Horsetail adalah tanaman obat yang berdiri sendiri di tepi Dihua Marsh, memiliki warna seperti awan saat matahari terbenam.\" Ternyata, kalau kamu menggiling Horsetail menjadi bubuk dan mencampurnya ke tintamu, tulisanmu bisa menjadi tahan air. Tapi meskipun aku sudah ke Dihua Marsh ratusan kali dan membawa pulang banyak sekali tanaman berwarna ungu itu, tidak ada satu pun yang sama seperti di dalam buku tersebut.",
       "th": "\"พิพิธภัณฑ์ประวัติศาสตร์ Liyue\" เขียนเกี่ยวกับพืชชนิดหนึ่งที่ชื่อว่า Horsetail โดยกล่าวว่า \"เติบโตลำพังบนชายฝั่ง Dihua Marsh สีเหมือนหมอก ใช้เป็นยาได้\" เมื่อบดเป็นผงและผสมลงในหมึกจะทำให้หมึกกันน้ำ อืม... น่าเสียดายที่ฉันน่ะเคยไป Dihua Marsh มาแล้วไม่ต่ำกว่าร้อยครั้ง Horsetail สีม่วงทั่วไปมีอยู่ไม่กี่ตะกร้า แต่ฉันกลับไม่เคยเจอชนิดที่บันทึกไว้ในหนังสือเลย",
       "vi": "\"Phong Vật Chí Liyue\" đã viết về một loại Cỏ Đuôi Ngựa dưới nước nào đó, gọi nó là \"một mình ở Địch Hoa Châu, màu như ráng chiều, có thể làm thuốc\". Nghiền nó thành bột rồi hòa vào mực có thể giúp cho chữ không thấm nước. A...đáng tiếc là tôi đã đến Địch Hoa Châu không dưới một trăm lần, hái Cỏ Đuôi Ngựa tím cũng được vài giỏ, vậy mà vẫn chưa tìm thấy loại được ghi trong sách."
@@ -865,6 +865,70 @@
   },
   {
     "title": {
+      "zhs": "关于夜兰…",
+      "zht": "關於夜蘭…",
+      "jp": "夜蘭について…",
+      "ko": "야란에 대해…",
+      "en": "About Yelan",
+      "de": "Über Yelan ...",
+      "es": "Sobre Yelan...",
+      "fr": "À propos de Yelan...",
+      "pt": "Sobre Yelan...",
+      "ru": "О Е Лань...",
+      "id": "Tentang Yelan",
+      "th": "เกี่ยวกับ Yelan...",
+      "vi": "Về Yelan..."
+    },
+    "line": {
+      "zhs": "夜兰是总务司的雇员，帮我搞定过做假账的硬茬，我还请她吃了饭呢。不过…和她交谈的时候，总觉得自己的心思会被轻易看穿…嗯，以后千万不要站在她的对立面就好。",
+      "zht": "夜蘭是總務司的雇員，幫我搞定過做假帳的麻煩事，我還請她吃了飯呢。不過…和她交談的時候，總覺得自己的心思會被輕易看穿…嗯，以後千萬不要站在她的對立面就好。",
+      "jp": "夜蘭さんは総務司の役員だ。以前、粉飾決算にまつわる厄介な案件を解決してくれて、その際に食事に誘ったこともある。ただ…彼女と話す時、どうも心が見透かされているような気がする…ふむ、この先、彼女のことは敵に回さないほうがよさそうだ…",
+      "ko": "야란 씨는 총무부 직원이야. 전에 장부 조작 사건 해결하는 걸 도와준 적이 있어서 식사 한 끼 대접했지. 다만… 야란 씨와 얘기하다 보면 내 속마음을 꿰뚫어 보는 듯한 느낌이 들어…. 음, 되도록 같은 편에 서는 게 좋겠어",
+      "en": "Yelan is an employee of the Ministry of Civil Affairs — she once helped me crack a tough accounting fraud case. I treated her to dinner afterward. The only thing is... I feel like she's able to read my mind at any given moment when talking to her... Yes, in the future, I need to make absolutely sure I don't get on the wrong side of her.",
+      "de": "Yelan ist Mitarbeiterin des Rats für Allgemeine Angelegenheiten und hat mir geholfen, einen schweren Fall von Bilanzfälschung aufzuklären, und ich habe sie sogar zum Essen eingeladen. Aber ... wenn ich mit ihr spreche, habe ich immer das Gefühl, dass sie meine Gedanken leicht lesen kann ... also, werde in Zukunft kein Gegner von ihr.",
+      "es": "Yelan es una empleada del Ministerio de Asuntos Civiles. Una vez, me ayudó a solucionar un complicado caso de fraude contable. Después de eso, la invité a cenar. Es solo que... Tengo la sensación de que, siempre que hablo con ella, puede leerme la mente en todo momento. En el futuro, me aseguraré de no sentarme frente a ella.",
+      "fr": "Yelan est une employée du Bureau des affaires civiles. Elle m'a aidée à résoudre une affaire compliquée de fraude comptable, alors je l'ai invitée à dîner. Toutefois... j'ai l'impression qu'aucune de mes pensées ne semble lui échapper lorsque je parle avec elle. À l'avenir, je devrai absolument m'assurer qu'elle ne me compte pas dans ses ennemis.",
+      "pt": "Yelan é funcionária do Ministério dos Assuntos Civis e, uma vez ela me ajudou a desvendar um caso difícil de fraude contábil. Eu a convidei para jantar depois. A única coisa é... eu sinto que ela é capaz de ler minha mente a qualquer momento quando estiver falando com ela... Sim, no futuro, eu preciso ter certeza absoluta de não estar do lado errado dela.",
+      "ru": "Е Лань - сотрудница Департамента по делам граждан. Однажды она помогла мне раскрыть сложное дело о мошенничестве с бухгалтерией, и я угостил её ужином. Только вот... Мне кажется, будто она способна читать мои мысли. Да, лучше всегда быть с ней на одной стороне.",
+      "id": "Yelan adalah pegawai Bagian Urusan Sipil, dia pernah membantuku memecahkan kasus penipuan akuntansi yang cukup parah. Setelahnya, aku traktir dia makan malam. Tapi .... Aku merasa dia bisa baca pikiranku ketika aku sedang berbicara dengannya .... Ke depannya, aku harus pastikan kalau tempatku tidak berada di pihak yang berlawanan dengannya.",
+      "th": "Yelan เป็นพนักงานของฝ่ายกิจการทั่วไป เธอเคยช่วยเหลือฉันแก้ไขคดีฉ้อโกงทางบัญชีที่ซับซ้อน ฉันยังเคยชวนเธอมากินข้าวด้วยนะ แต่ว่า... เวลาคุยกับเธอ ฉันมักจะรู้สึกว่าสิ่งที่คิดอยู่ในใจของฉันถูกอ่านออกมาได้อย่างง่ายดาย... อืม ต่อไปอย่าเป็นศัตรูกับเธอคงจะดีกว่า",
+      "vi": "Yelan là ủy viên của Tổng Vụ, từng giúp qua tôi nhiều ca khó về sổ sách giả, tôi còn mời cô ấy ăn cơm nữa. Nhưng mà... khi giao thiệp với cô ấy, tôi cứ luôn cảm thấy tâm tư của mình rất dễ bị nhìn thấu... Ừm, sau này tốt nhất đừng nên đứng khác chiến tuyến với cô ta."
+    }
+  },
+  {
+    "title": {
+      "zhs": "关于久岐忍…",
+      "zht": "關於久岐忍…",
+      "jp": "久岐忍について…",
+      "ko": "쿠키 시노부에 대해…",
+      "en": "About Kuki Shinobu",
+      "de": "Über Kuki Shinobu ...",
+      "es": "Sobre Kuki Shinobu...",
+      "fr": "À propos de Kuki Shinobu...",
+      "pt": "Sobre Kuki Shinobu...",
+      "ru": "О Куки Синобу...",
+      "id": "Tentang Kuki Shinobu",
+      "th": "เกี่ยวกับ Kuki Shinobu",
+      "vi": "Về Kuki Shinobu..."
+    },
+    "line": {
+      "zhs": "阿忍？我记得她，那个来璃月留学专修律法的稻妻人嘛。为了完成课业实习，她专门约我讨论过案件，每次结束后又是鞠躬又是谢谢的，搞得我都有点不好意思了…当时就觉得，她将来一定会成为出色的律法专家。算起来，稻妻锁国的时间正好是她毕业前后，不知道她回去后一切还顺利吗…",
+      "zht": "阿忍？我記得她，那個來璃月留學專修律法的稻妻人嘛。為了完成課業實習，她專門約我討論過案件，每次結束後又是鞠躬又是謝謝的，搞得我都有點不好意思了…當時就覺得，她將來一定會成為出色的律法專家。算起來，稻妻鎖國的時間正好是她畢業前後，不知道她回去後一切還順利嗎…",
+      "jp": "忍さん？ああ、彼女なら覚えている。法律を習うために、璃月に留学しに来た稲妻人だろう。彼女は実習を終えるため、わざわざ私のところに案件の相談をしに来ることもあった。相談が終わるたび、いつもお辞儀したり、礼を言ったりして、私も少し恥ずかしくなったよ…あの時、私は思ったんだ、彼女ならきっと、立派な法律家になると。そういえば、稲妻が鎖国し始めたのは彼女の卒業の前後だったな。帰国した後、うまくやっているだろうか…",
+      "ko": "시노부? 기억나. 법을 공부하러 리월까지 유학 왔던 이나즈마 사람이잖아. 실습 과제 때문에 나랑 사건에 대해 논의한 적이 있는데, 끝날 때마다 고맙다면서 허리 굽혀 인사해서 좀 민망할 지경이었지…. 그때부터 시노부가 꼭 훌륭한 법률 전문가가 될 거라는 생각이 들었어. 그러고 보니, 이나즈마의 쇄국이 시작된 시기가 딱 시노부가 졸업했을 때쯤이네. 돌아가서 잘 지내고 있으려나…",
+      "en": "Shinobu? I remember her, she's the Inazuman girl that came to Liyue as an exchange student to specialize in law. When she was doing her coursework, she used to meet with me to discuss some cases, and after we were done, she'd always bow and thank me, which would always make me a little embarrassed. I always felt like she was going to make an excellent lawyer in the future. Thinking about it, Inazuma went into lockdown right around the time she would have graduated. I wonder how she's been doing since she went back...",
+      "de": "Shinobu? Ich erinnere mich an sie, eine Einheimische aus Inazuma, die nach Liyue kam, um Jura zu studieren. Sie hatte mich gebeten, Fälle zu besprechen, um ihr Praktikum abzuschließen, und es war mir etwas peinlich, als sie sich am Ende jedes Falles verbeugte und mir dankte ... Damals dachte ich, dass sie in Zukunft eine große Rechtsexpertin sein würde. Mal überlegen, das Sakoku-Dekret von Inazuma wurde genau zum Zeitpunkt ihres Abschlusses erlassen. Ich weiß nicht, ob nun alles nach ihrer Rückkehr nach Inazuma in Ordnung ist ...",
+      "es": "¿Shinobu? La recuerdo. Es esa chica de Inazuma que vino a Liyue como estudiante de intercambio para especializarse en derecho. Cuando estaba realizando su curso, solía venir a verme para discutir sobre algunos casos y, al terminar, siempre me hacía una reverencia para darme las gracias, lo cual me daba un poco de vergüenza. Siempre tuve la sensación de que en el futuro sería una excelente abogada. Ahora que lo pienso, Inazuma cerró sus fronteras más o menos cuando ella se graduó. Me pregunto cómo le habrá ido desde que regresó...",
+      "fr": "Shinobu ? Je me souviens d'elle, c'est l'étudiante étrangère d'Inazuma qui est venue à Liyue pour se former au droit. Elle me donnait rendez-vous pour discuter de certains cas pratiques pour ses cours. À la fin de nos séances, elle s'inclinait pour me remercier, et ça me mettait un peu mal à l'aise... J'ai toujours pensé qu'elle ferait une excellente avocate plus tard. D'ailleurs, Inazuma s'est refermée à peu près au moment où elle a été diplômée. Je me demande comment elle va depuis qu'elle est rentrée...",
+      "pt": "Shinobu? Eu me lembro dela, é a garota de Inazuma que veio para Liyue como uma estudante de intercâmbio para se especializar em direito. Quando ela estava em seu curso, costumava se encontrar comigo para discutir alguns casos, e quando havíamos terminado, ela se curvava e me agradecia. Eu sempre ficava um pouco constrangido. Sempre pensei que ela seria uma excelente advogada no futuro, e agora que penso nisso, Inazuma se fechou por volta da época que ela estava se graduando. Me pergunto como ela está desde que voltou...",
+      "ru": "Синобу? Я помню её, это девушка из Инадзумы, которая приехала в Ли Юэ по обмену, чтобы учиться юриспруденции. Когда она писала свою курсовую работу, то обычно встречалась со мной, чтобы обсудить некоторые вопросы. После того, как мы заканчивали, она каждый раз кланялась и благодарила меня. Это всегда меня немного смущало. Я всегда чувствовала, что в будущем она станет отличным адвокатом. Если подумать, Инадзума закрылась как раз в то время, когда Синобу должна была закончить обучение. Интересно, как у неё сейчас дела...",
+      "id": "Shinobu? Aku ingat, dia gadis Inazuma yang datang ke Liyue untuk belajar hukum kan. Kalau lagi bikin tugas, dia sering cari aku buat bahas beberapa kasus. Setelahnya, dia akan selalu membungkuk dan berterima kasih kepadaku, yang selalu berhasil bikin aku jadi agak malu. Aku selalu merasa kalau dia akan tumbuh jadi pengacara yang hebat. Oh benar juga, Dekrit Sakoku Inazuma diberlakukan pas waktu seharusnya dia lulus ya. Aku jadi penasaran, sekarang dia gimana ya ....",
+      "th": "Shinobu? ฉันจำเธอได้ ชาว Inazuma ที่มาเรียนต่อกฎหมายที่ Liyue ใช่มั้ย เธอเคยเชิญฉันมาหารือเกี่ยวกับคดีเพื่อให้การฝึกงานเสร็จสิ้น หลังจากเสร็จเธอก็โค้งคำนับ และขอบคุณทุกครั้งหลังจบการหารือ มันทำให้ฉันรู้สึกเขินอายเล็กน้อย... ตอนนั้น ฉันรู้สึกว่าเธอจะต้องกลายเป็นผู้เชี่ยวชาญด้านกฎหมายที่ยอดเยี่ยมในอนาคตอย่างแน่นอน",
+      "vi": "Shinobu sao? Tôi nhớ chứ, cô ấy là du học sinh người Inazuma, đến Liyue để học chuyên khoa về luật. Để hoàn thành khóa thực tập, cô ấy còn mời tôi thảo luận đề án, mỗi lần như thế đều cúi đầu cảm ơn tôi, làm tôi cũng thấy có chút ngại... Lúc đó tôi còn nghĩ rằng cô ấy sau này nhất định sẽ trở thành một chuyên gia pháp luật. Tính ra thì lúc Inazuma phong tỏa cũng là lúc cô ấy tốt nghiệp. Không biết cô ấy về Inazuma có thuận lợi không..."
+    }
+  },
+  {
+    "title": {
       "zhs": "想要了解烟绯·其一",
       "zht": "想要瞭解煙緋·其一",
       "jp": "煙緋を知る·1",
@@ -888,9 +952,9 @@
       "de": "Herzlich willkommen! Wie kann ich dir behilflich sein? Hier ist meine Visitenkarte. Heute kann ich leider nicht auf Außendienst gehen. Falls es bei dir um eine Auseinandersetzung geht, kannst du bitte alle Parteien der Auseinandersetzung hier herbitten? Und hier ist meine Preisliste ...\n\nÄh, du kommst nur vorbei, um mit mir zu plaudern? Mhm, dann ist es kostenfrei. Aber du bist zu einer dir nicht bekannten Rechtsberaterin gekommen, um nur mit ihr zu „plaudern“. Sehr beeindruckend!",
       "es": "#¿{F#Una}{M#Un} client{F#a}{M#e}? Un gusto conocerte, aquí tienes mi tarjeta. Hoy no creo que pueda salir de mi despacho, así que si tu problema es una disputa, por favor, tráeme a las partes implicadas. Deja que te muestre mis tarifas estándar de asesoramiento. Un momento...\n\n¿Eh? ¿Solo querías charlar? Oh, en ese caso, no se aplica ninguna tarifa. Entonces, ¿viniste a “charlar” con una experta en derecho que no conocías de antes? ¿Y se puede saber por qué?",
       "fr": "#{F#Une cliente}{M#Un client} ? Enchantée, voici ma carte. Malheureusement, je ne suis pas disponible aujourd'hui. En cas de litige, je vous prierai de venir avec les deux parties. Veuillez patienter, je vais chercher ma brochure de tari...\n\nOh ? Vous êtes seulement là pour discuter avec moi ? C'est gratuit dans ce cas. Juste pour être sûre : vous êtes {M#venu}{F#venue} voir une conseillère juridique que vous n'avez jamais rencontrée avant juste pour « causer »... C'est quand même bizarre...",
-      "pt": "#{F#Uma}{M#Um} cliente? Ótimo, aqui está o meu cartão de negócios. Hoje estou um pouco ocupada. Se houver alguma disputa, por favor, venha com ambas as partes. Veja aqui um pouco quanto cobro pelos meus serviços... Espere um pouco.\n\nUh? Você só quer conversar? Então não precisa de dinheiro para isso. Vir só conversar com uma especialista legal não é algo nem um pouco comum.",
+      "pt": "#{F#Uma}{M#Um} cliente? Ótimo, aqui está o meu cartão de negócios. Hoje estou um pouco ocupada. Se houver alguma disputa, por favor, venha com ambas as partes. Veja aqui um pouco quanto cobro pelos meus serviços... Espere um pouco.\n\nUh? Você só quer conversar? Então não precisa de dinheiro para isso... Vir só conversar com uma especialista legal não é algo nem um pouco comum.",
       "ru": "Клиент? Добро пожаловать! Вот моя визитка. Сегодня мне неудобно проводить выездные консультации, так что, если нужно разрешить спор, пожалуйста, приведите сюда обе стороны. Я покажу вам цены за услуги. Подождите минутку...\n\nА? Просто поговорить? Эм... Ну тогда бесплатно. Хотя для «просто поговорить» можно было бы найти юриста попроще. Необычный человек...",
-      "id": "Seorang klien? Senang sekali bertemu denganmu, ini kartu namaku, sepertinya aku tidak bisa meninggalkan meja kerjaku hari ini, jika ini adalah masalah pertikaian maka silakan membawa pihak yang terkair ke sini. Biar kujelaskan mengenai masalah biayanya — tunggu sebentar... \n\nEh? Kamu datang untuk berbincang? Uh... Jika begitu, tidak ada biayanya. Jadi... kamu \"datang untuk berbincang\" kepada ahli hukum yang belum pernah kamu temui sebelumnya... bisa kamu jelaskan apa maksudmu?",
+      "id": "Oh, klien ya? Senang berjumpa denganmu, ini kartu namaku. Mohon maaf, hari ini aku tidak bisa meninggalkan meja, kalau ada kasus perselisihan, silakan bawa pihak-pihak yang bersangkutan kemari untuk menemuiku. Nah, untuk biayanya, ada ....\n\nEh? Kamu cuma mau ngobrol? Oh, kalau itu sih bebas biaya. Baiklah, jadi kamu datang untuk \"ngobrol\" dengan seorang konsultan hukum yang belum pernah kamu temui sebelumnya ... Boleh jelaskan?",
       "th": "ลูกค้างั้นเหรอ? เป็นเกียรติมาก ๆ นี่คือนามบัตรของฉัน วันนี้ฉันไม่สะดวกที่จะออกไปข้างนอกน่ะ ถ้ามีข้อพิพาทให้นำทั้งสองฝ่ายมาที่นี่ละกัน แล้วก็เดี๋ยวฉันจะให้คุณดูค่าใช้จ่ายมาตรฐานสำหรับค่าปรึกษา รอแป๊บนึงนะ.... \n\nเอ๋? แค่มาคุยเล่นด้วยเฉย ๆ เหรอ? อืม... ถ้างั้นไม่คิดเงินละกัน มาหาผู้เชี่ยวชาญด้านกฎหมายเพื่อ \"คุยเล่นเฉย ๆ\" ช่างเป็นคนที่พิเศษจริง ๆ",
       "vi": "Là khách hàng sao? Hân hạnh hân hạnh, đây là danh thiếp của tôi, hôm nay tôi không tiện đi công tác, nếu như có tranh chấp thì nhớ dẫn theo đương sự hai bên nhé, còn chi phí kiện tụng nữa, để tôi đưa bạn xem, đợi chút nhé...\n\nHử? Chỉ đến để tán gẫu thôi sao? Ừm... vậy thì không tính tiền nữa. Bạn tìm một luật sư không thân lắm để tán gẫu thôi sao, thật là một người đặc biệt."
     }
@@ -919,10 +983,10 @@
       "en": "These antlers? Oh... well my father is an adeptus, so I have adeptus blood myself. Still, I was born during peacetime here in Liyue — I never signed a contract with Rex Lapis. Naturally, I don't have to concern myself with adeptal affairs — I'm free to focus on the life I want to live. Works for me! Hee-hee.",
       "de": "Das Geweih auf meinem Kopf? Oh, das kommt daher, dass ich halb Adept durch meinen Vater bin. Aber ich bin erst geboren worden, nachdem der Frieden zurück nach Liyue gekommen war. Deswegen habe ich keinen Vertrag mit Rex Lapis geschlossen. Mir obliegt also keine Pflicht eines Adepten. Deshalb kann ich so leben, wie ich möchte. Ich bin damit sehr zufrieden, hehe.",
       "es": "¿Las astas de mi cabeza? Oh... bueno, mi padre es un Adeptus, así que yo tengo sangre Adeptus también. Sin embargo, nací en una época de paz en Liyue, por lo que nunca firmé ningún contrato con Rex Lapis. Por eso, no tengo que cumplir ningún deber como otros Adeptus y puedo disfrutar de la vida como desee. ¡Por mí, perfecto! Jeje.",
-      "fr": "Ces cornes ? Oh... eh bien, mon père est un Adepte, donc j'ai moi-même du sang d'Adepte. Mais je suis née après que les choses se soient calmées à Liyue, sans avoir eu à former un contrat avec le Souverain de la Roche. Je suis donc exemptée de toute mission habituellement confiée aux immortels, et surtout, je peux vivre ma vie comme je l'entends. Ça me va très bien ! Héhé.",
+      "fr": "Ces cornes ? Oh... Eh bien, mon père est un Adepte, donc j'ai moi-même du sang d'Adepte. Mais je suis née après que les choses se soient calmées à Liyue, sans avoir eu à former un contrat avec le Souverain de la Roche. Je suis donc exemptée de toute mission habituellement confiée aux immortels, et surtout, je peux vivre ma vie comme je l'entends. Ça me va très bien ! Héhé.",
       "pt": "Esses chifres na minha cabeça? Oh, isso. Meu pai é um Adeptus, portanto, eu tenho sangue meio-Adeptus. Mas eu nasci em uma era de paz em Liyue, não assinei nenhum contrato com Rex Lapis, então naturalmente não tenho nenhuma tarefa de Adepti para fazer, posso viver minha vida como eu quiser. Estou bem satisfeita, hehe.",
-      "ru": "Рога на голове? Ну... Это потому что мой отец - Адепт, и во мне течёт кровь Адептов. Я родилась после того, как в Ли Юэ воцарился мир, и не подписывала контракт с Властелином Камня. Мне не нужно выполнять никаких обязанностей Адептов, и я могу в полной мере прожить жизнь, какую только захочу. Я вполне довольна этим, хе-хе-хе.",
-      "id": "Tanduk ini? Oh... ayahku seorang Adeptus, jadi aku memiliki darah Adeptus di tubuhku. Namun tetap saja, aku lahir pada masa damai di Liyue — aku tidak pernah menandatangani kontrak dengan Rex Lapis. Jadi sewajarnya, aku tidak perlu memikirkan masalah Adeptus — Aku di sini fokus menjalani kehidupan yang aku mau. Bekerjalah untukku! Hee-hee.",
+      "ru": "Рога на голове? Ну... Это потому, что мой отец - Адепт, и во мне течёт кровь Адептов. Я родилась после того, как в Ли Юэ воцарился мир, и не подписывала контракт с Властелином Камня. Мне не нужно выполнять никаких обязанностей Адептов, и я могу в полной мере прожить жизнь, какую только захочу. Я вполне довольна этим, хе-хе-хе.",
+      "id": "Tanduk? Oh ... ayahku itu Adeptus, jadi aku juga separuh Adeptus. Tapi aku lahir waktu Liyue sudah damai, dan aku tidak pernah teken kontrak dengan Rex Lapis. Yah, karena itu aku jadi tidak usah memikirkan soal urusan Adeptus. Aku bebas menjalani hidup yang aku mau. Asyik kan, hehehe.",
       "th": "เขาบนหัวนี่เหรอ? อ๋อ อันนี้เองเหรอ เพราะว่าพ่อของฉันเป็นเซียนน่ะ ฉันก็เลยเป็นลูกครึ่งเซียน แต่ฉันเกิดหลังจากที่ Liyue สงบและมั่นคงแล้ว ฉันก็เลยไม่ได้ทำสัญญากับราชาแห่งหิน เลยไม่จำเป็นต้องทำหน้าที่ของเซียน และสามารถใช้ชีวิตอย่างที่ต้องการได้เต็มที่ ซึ่งฉันค่อนข้างพอใจเลยล่ะ ฮิฮิ",
       "vi": "Chiếc sừng trên đầu? A, cái này sao, bởi vì bố tôi là tiên nhân, nên tôi có dòng máu bán tiên. Nhưng mà, tôi ra đời khi Liyue đã ổn định, nên không có ký khế ước với Đế Quân, thế nên cũng không cần phải thực hiện trách nhiệm của tiên gia, cứ thế mà tận hưởng cuộc sống mình muốn thôi. Tôi cảm thấy rất hài lòng, hì hì."
     }
@@ -954,7 +1018,7 @@
       "fr": "J'ai déjà passé un contrat solennel avec des engagements à vie avec mon père. Pour résumer, il s'agissait de mener une vie heureuse. C'est lui tout craché, et j'en suis fière. S'il avait voulu me faire signer un contrat qui implique de travailler du matin au soir ou d'écraser les autres pour réussir... Je crois que j'aurais fui depuis longtemps !",
       "pt": "Um contrato sério que tem que ser respeitado durante sua vida inteira? Eu apenas assinei um com o meu pai... É tipo, \"ser feliz pela vida inteira\", enfim, ele é esse tipo de pessoa. Mas afinal de contas, eu estou muito orgulhosa do meu pai tão despreocupado. Se ele tivesse feito um contrato de \"Se esforce ao máximo para ser o melhor de si\", eu teria fugido.",
       "ru": "Серьёзный пожизненный контракт я заключила только с отцом. Это контракт с обещанием «жить долго и счастливо». Вот какой у меня отец. Я горжусь им за это. Если бы он хотел заключить со мной какой-нибудь другой контракт... о том, что надо «работать до потери пульса» или «добиваться высокого положения»... Я бы сбежала.",
-      "id": "Kontrak yang sangat besar - seperti komitmen seumur hidup... Aku hanya pernah menandatangani kontrak seperti itu dengan ayahku. Uh... itu mengenai hidup dengan bahagia, kurang lebih seperti itu. Ayahku memang bersifat seperti itu, dan aku bangga sekali padanya. Jika dia menginginkanku menandatangani kontrak yang berbeda, misalnya... bekerja keras untuk diri sendiri, atau menginjak-injak orang lain demi mencapai kesuksesan... aku pasti sudah kabur dari rumah!",
+      "id": "Kontrak besar, yang mengikat seumur hidup ... Aku cuma punya satu, kontrak dengan ayahku sendiri. Isinya ... tentang menjalani hidup dengan bahagia, kurang lebih begitu lah. Ayah memang seperti itu, dan aku bangga pada sifatnya yang satu itu. Kalau dia minta aku tanda tangan kontrak yang beda, yang isinya misalnya \"kerja keras sekeras-kerasnya, injak orang lain agar dapat terus naik ke tempat yang lebih tinggi\", aku pasti sudah kabur dari dulu!",
       "th": "พันธสัญญาเคร่งครัดแบบที่คงอยู่ไปตลอดชีวิตน่ะเหรอ... ฉันสัญญากับพ่อของฉันไว้น่ะ อืม... ก็คือ \"ใช้ชีวิตอย่างมีความสุข\" หรืออะไรสักอย่าง เขาเป็นคนแบบนั้นแหละ แต่ฉันค่อนข้างภูมิใจในความโปร่งใสของพ่อนะ ถ้าเขาทำสัญญากับฉันแบบ \"อดทนต่อความยากลำบากและเป็นนายคน\" ฉันคงหนีไปแน่นอนเลยล่ะ",
       "vi": "Loại khế ước nghiêm túc phải định cả đời... Tôi chỉ ký với bố tôi thôi. Ừm... đó là loại khế ước \"phải sống vui vẻ\", ông ấy là kiểu người thế đó. Nhưng mà, tôi rất tự hào về sự thông suốt của bố, nếu như ông ấy bắt tôi ký khế ước \"phải chịu thương chịu khó, phải vượt trội hơn người\" thì tôi nhất định sẽ bỏ trốn."
     }
@@ -984,9 +1048,9 @@
       "de": "Für manche ist meine Vermittlung nicht besonders zufriedenstellend. In diesen Fällen müssten sie entweder mehr Entschädigung als der von ihnen verursachte Schaden an die anderen Vertragsparteien zahlen oder müssten einen noch viel höheren Preis dafür an mich zahlen ... Sie haben das aber verdient, weil sie den „Vertrag“ nicht eingehalten haben. Trotzdem gehen Gerüchte um, dass ich eine sehr schreckliche Beraterin sei. Manche Leute machen deshalb einfach einen großen Bogen um mich. Ich habe das zwar niemandem verraten, aber ich habe sowas getan, nur um das Geschäftsumfeld von Liyue zu verbessern.\n\nGuck mal, ich habe jetzt an diesen Leuten ein Exempel statuiert, so werden alle klar sehen, was für eine Strafe auf sie wartet, falls sie einen Vertrag brechen. Es gehört auch zu meiner Arbeit, allen die Wichtigkeit von Verträgen zu zeigen.",
       "es": "A veces, las disputas comerciales de las que me encargo no terminan muy bien. La otra parte suele conseguir una compensación por daños o tiene que pagar los daños a un precio mucho mayor... Ese es el precio por violar un contrato. Algunas personas dicen que soy aterradora y otras intentan evitarme directamente. No tengo por qué explicárselo a nadie, ¡pero mi mayor preocupación es salvaguardar el bienestar de Liyue!\n\nPiénsalo, el origen de las disputas se debe a la violación de los contratos, pero ¿haría lo mismo la gente si supiera las consecuencias de ello? Asegurarme de que sean conscientes de la importancia de los contratos es una parte crucial de mi trabajo.",
       "fr": "Parfois, les litiges commerciaux dont je m'occupe ne se terminent pas sous les meilleurs auspices. Il arrive que l'autre partie obtienne une indemnité bien supérieure aux dommages causés, ou qu'elle ait à payer des réparations bien supérieures aux coûts engendrés... Tel est le prix à payer lorsqu'on rompt un contrat. Certaines personnes disent que je suis une personne terrible, d'autres essayent carrément de m'éviter, mais je n'ai de comptes à rendre à personne. Ma préoccupation a toujours été le bien-être de Liyue !\n\nQuand on y pense, l'origine d'une querelle remonte toujours à la violation d'un contrat. Si les gens peuvent voir ce qu'il en coûte, ils seront beaucoup moins susceptibles de les ignorer. M'assurer que la population prenne conscience de l'importance des contrats est une part essentielle de mon travail !",
-      "pt": "Às vezes, as disputas comerciais que trabalho não tem um final tão bom. Uma parte comumente paga uma compensação significante, ou um preço ainda maior... Mas isso são as consequências de se quebrar um contrato. Há rumores terríveis sobre mim e, por causa disso, algumas pessoas me evitam. Apesar de eu não explicar isso para ninguém, minha intenção é ajudar Liyue!\n\nO ponto de partida de uma disputa é a quebra de um contrato, mas se sabem as consequências, será que ainda se atreveriam a quebrá-lo? Deixar todos saberem a importância de um contrato é também uma parte importante do meu trabalho.",
+      "pt": "Às vezes, as disputas comerciais com que trabalho não tem um final tão bom. Uma parte comumente paga uma compensação significante, ou um preço ainda maior... Mas isso são as consequências de quebrar um contrato. Há rumores terríveis sobre mim e, por causa disso, algumas pessoas me evitam. Apesar de eu não explicar isso para ninguém, minha intenção é ajudar Liyue!\n\nO ponto de partida de uma disputa é a quebra de um contrato, mas se soubessem as consequências, será que ainda se atreveriam a quebrá-lo? Deixar todos saberem a importância de um contrato é também uma parte importante do meu trabalho.",
       "ru": "Иногда коммерческие споры, которыми я занимаюсь, заканчиваются не очень приятно, и другой стороне приходится платить значительную компенсацию... Это цена за нарушение контракта. Кто-то говорит, что я жестокая, некоторые люди меня вообще избегают. Я никому не говорила, но моя главная цель - благополучие Ли Юэ!\n\nВсе споры начинаются с нарушения контракта, но, увидев последствия, осмелятся ли другие пойти против своего обещания? Сделать так, чтобы все осознали важность контракта, - неотъемлемая часть моей работы.",
-      "id": "Terkadang, perselisihan komersial yang aku tangani tidak berakhir dengan menyenangkan. Pihak lain mungkin memenangkan kompensasi yang melebihi kerusakannya, atau membayar kerusakan yang jauh melebihi biayanya... Itu harga yang harus dibayar karena melanggar kontrak. Beberapa orang bilang aku cukup menakutkan, beberapa lainnya bahkan menghindariku, tapi aku tidak perlu menjelaskan diriku kepada siapa pun. Sejak awal, kesejahteraan Liyue adalah fokus utamaku!\n\nPikirkan saja — asal mula perselisihan dapat ditelusuri kembali ke pelanggaran kontrak. Kemungkinan orang melanggar kontrak akan menjadi lebih kecil jika mereka melihat dampaknya. Membuat orang-orang sadar akan pentingnya kontrak adalah bagian penting dari pekerjaanku!",
+      "id": "Yah, kadang perselisihan perdata antar pedagang yang kutangani hasil akhirnya kurang menyenangkan. Salah satu pihak bisa dapat ganti yang melebihi kerugian, atau malah harus mengganti melebihi kerugian ... Demikianlah ganjarannya kalau melanggar kontrak. Ada yang bilang aku ini seram, ada juga yang ketemu aku saja tidak mau, tapi intinya aku tidak perlu capek-capek menjelaskan. Semuanya kulakukan demi kesejahteraan Liyue!\n\nPikirkan begini, perselisihan timbul karena terjadi pelanggaran terhadap kontrak. Orang kebanyakan akan takut melanggar kalau sudah lihat apa akibatnya. Membuat orang sadar betapa pentingnya kontrak juga salah satu bagian penting dari pekerjaanku!",
       "th": "บางครั้งข้อพิพาททางการค้าที่ฉันจัดการ จะลงเอยด้วยแบบไม่น่าดูเท่าไหร่ เพราะอีกฝ่ายมักจะจ่ายเงินชดเชยให้หลายเท่าหรือจ่ายมากกว่านั้น... แต่สิ่งเหล่านี้คือผลอันขมขื่นที่คนเหล่านี้สมควรได้รับหลังจากทำผิด \"สัญญา\" มีข่าวลือว่าฉันน่ากลัวมาก และบางคนก็หลีกเลี่ยงที่จะเจอฉันด้วย แม้ว่าฉันจะไม่ได้อธิบายให้ใครฟัง แต่จุดประสงค์เดิมของฉันคือทำเพื่อ Liyue!\n\nคุณเห็นไหมล่ะ ว่าจุดเริ่มต้นของข้อพิพาทคือการละเมิดสัญญา แต่เมื่อเห็นผลของความวุ่นวายแล้ว พวกเขายังกล้าที่จะผิดคำสัญญาของตัวเองอีกไหมนะ? การทำให้ทุกคนตระหนักถึงความสำคัญของ \"สัญญา\" ก็เป็นส่วนสำคัญในงานของฉันเหมือนกัน",
       "vi": "Đôi khi, các tranh chấp thương mại mà tôi giải quyết thường có kết thúc buồn. Đối phương thường phải bỏ ra số tiền bồi thường gấp vài lần hoặc nhiều hơn... nhưng đó là trái đắng phải nhận khi những người này phản bội \"khế ước\". Có người đồn rằng tôi rất đáng sợ, và một số sẽ né tránh tôi. Mặc dù tôi không giải thích điều đó với ai, nhưng mục đích ban đầu của tôi là vì tổng thể của cảng Liyue!\n\nBạn thấy đó, xuất phát điểm của tranh chấp là vi phạm khế ước, nhưng khi nhìn thấy hậu quả, họ có còn dám vi phạm không? Để mọi người nhận ra tầm quan trọng của \"khế ước\" cũng là một phần quan trọng trong công việc của tôi."
     }
@@ -1017,8 +1081,8 @@
       "es": "Creo que, en general, tengo una vida feliz y relajada. Tengo una carrera profesional exitosa, ropa que ponerme y la libertad de ir adonde me plazca. Además, no hay nadie que me gane cuando de debatir se trata. Y, aun así, no hay ninguna ley o criterio para definir qué es una vida feliz.\n\nPara mí... la gente y los asuntos interesantes, saber hacia dónde ir y qué camino escoger... Estas cosas son suficientes para que sea feliz. Así que tú también eres una de las razones de mi felicidad.\n\nEn cualquier caso, independientemente de cómo vivas, lo más importante es respetar y entender las leyes. Después de todo, cuando te desvías de ellas es cuando el mundo se empieza a derrumbar.",
       "fr": "J'estime souvent vivre une vie confortable et tranquille. Ma vie professionnelle est pleine de réussite, je ne meurs pas de faim ni de froid, personne ne m'empêche de me rendre où je veux et je suis plus douée que quiconque avec les mots. Mais aucune loi ne définit une vie épanouie.\n\nFaire des rencontres intéressantes et avoir des activités enrichissantes tout en sachant dans quelle direction je vais dans la vie suffisent à me rendre heureuse. On peut donc dire que vous contribuez à mon bonheur.\n\nEn tout cas, peu importe la vie que vous menez, il est primordial de respecter la loi et de la comprendre. Après tout, le monde ne serait que chaos sans elle.",
       "pt": "Pessoalmente eu acho que vivo a vida de forma muito relaxante. Viu? Eu tenho a minha carreira, e sou independente. Um dia eu até poderei viajar por todo o mundo, e em relação a minha arte de falar, ninguém consegue se comparar a mim. Mas, a vida feliz não pode ser definida em palavras por qualquer regulamento ou lei.\n\nPara mim, encontrar com pessoas interessantes e coisas interessantes, sempre saber o rumo da sua vida já é uma felicidade. Portanto, você também é a minha fonte de alegria.\n\nMas, de qualquer das maneiras, você tem que conhecer as leis e respeitá-las. Afinal de contas, o mundo entrará em colapso sem as leis.",
-      "ru": "Мне часто кажется, что я живу разумной и лёгкой жизнью. У меня успешная карьера, я могу покупать всё, что захочу. Я могу свободно путешествовать, и мало кто может потягаться со мной в риторике. Но нет закона или нормы, которые могут определить критерии счастливой жизни.\n\nЯ счастлива, когда встречаюсь с интересными людьми, интересными вещами и знаю, чем хочу заняться дальше. Следовательно, ты тоже мой источник счастья.\n\nНо опять же! Независимо от того, как ты живешь, самое главное - соблюдать закон и знать его. Без закона этот мир разрушится.",
-      "id": "Sebagian besar waktu aku selalu merasa gembira dan hidup santai. Karirku cukup sukses, kebutuhanku tercukupi, dan aku bebas pergi ke mana saja. Aku juga pandai berbicara, tidak ada yang bisa menang berdebat denganku. Tapi... tidak ada hukum atau standar yang mendefinisikan hidup bahagia.\n\nBagiku... bertemu dengan orang-orang dan hal-hal menarik, mengetahui tujuan selanjutnya dan jalan menuju ke sana... ini saja sudah cukup untuk membuatku bahagia. Ngomong-ngomong, kamu juga salah satu sumber kebahagiaanku.\n\nBagaimanapun caramu menjalani hidup, yang terpenting adalah menghormati dan memahami hukum. Karena dunia akan menjadi kacau kalau hukum tidak dipatuhi.",
+      "ru": "Мне часто кажется, что я живу разумной и лёгкой жизнью. У меня успешная карьера, я могу покупать всё, что захочу. Я могу свободно путешествовать, и мало кто может потягаться со мной в риторике. Но нет закона или нормы, которые могут определить критерии счастливой жизни.\n\nЯ счастлива, когда встречаюсь с интересными людьми, интересными вещами и знаю, чем хочу заняться дальше. Следовательно, ты тоже мой источник счастья.\n\nНо опять же! Независимо от того, как ты живёшь, самое главное - соблюдать закон и знать его. Без закона этот мир разрушится.",
+      "id": "Aku biasanya selalu merasa gembira dan hidup santai. Karirku sukses, kebutuhanku tercukupi, dan aku bebas pergi ke mana saja. Aku pintar bicara, tidak ada yang bisa menang debat denganku. Tapi ... tidak ada hukum atau standar yang mendefinisikan kebahagiaan.\n\nBagiku, bertemu dengan orang-orang dan hal-hal yang menarik, tahu arah dan jalan menuju ke sana ... ini saja sudah cukup untuk membuatku bahagia. Ngomong-ngomong, kamu juga salah satu sumber kebahagiaanku.\n\nBagaimanapun caramu menjalani hidup, yang terpenting adalah menghormati dan memahami hukum. Dunia akan kacau kalau hukum tidak diindahkan.",
       "th": "ฉันรู้สึกเสมอว่าฉันใช้ชีวิตอย่างชาญฉลาดและเรียบง่าย คุณเห็นไหมว่าฉันประสบความสำเร็จในอาชีพของฉัน และมีอิสระในเรื่องการกินและการแต่งตัว การขึ้นเหนือลงใต้ไม่ใช่ปัญหาเลย และมีเพียงไม่กี่คนที่สามารถเถียงชนะฉันได้ แต่ไม่มีกฎหมายหรือบรรทัดฐานไหนที่สามารถกำหนดสิ่งต่าง ๆ เช่น \"ชีวิตที่มีความสุข\" ได้หรอกนะ \n\nสำหรับฉันน่ะ การที่ฉันได้พบกับผู้คนและสิ่งต่าง ๆ ที่น่าสนใจและรู้ว่าจะต้องก้าวไปที่ไหนต่อ แค่นี้ก็มีความสุขแล้วล่ะ ดังนั้นคุณเองก็เป็นความสุขของฉันเหมือนกัน \n\nแต่จะว่าไปแล้ว! ไม่ว่าคุณจะใช้ชีวิตอย่างไร สิ่งที่สำคัญที่สุดคือการปฏิบัติตามกฎหมายและเข้าใจกฎหมาย ถ้าทุกคนห่างไกลกฎหมาย โลกนี้จะพังทลายลงทันทีเลยล่ะ",
       "vi": "Tôi thường hay cảm thấy cuộc sống của mình là đủ thư thả rồi. Bạn xem, tôi có công việc ổn định, tự do tự tại, đi đây đi đó đều được, xét về đấu khẩu cũng hiếm khi có người hơn tôi. Khế ước \"sống cho vui vẻ\" thực ra cũng không có điều khoản hoặc ràng buộc nào rõ ràng.\n\nĐối với tôi, gặp được điều thú vị, gặp được người thú vị, trong lòng biết rõ nên làm thế nào, vậy là hạnh phúc rồi. Vì vậy, bạn cũng là nguồn hạnh phúc của tôi.\n\nNói về vấn đề chính, dù sống như thế nào, quan trọng nhất cũng là tuân thủ pháp luật, nếu như không có pháp luật thì thế giới này sẽ bị phá hủy mất."
     }
@@ -1046,11 +1110,11 @@
       "ko": "내 취미는 독서와 감정이야. 독서는 지식을 키우고, 감정은 안목을 기르지. 그래서 난 모든 책을 읽고 모든 가격을 평가해. 못 믿겠으면 아무거나 하나 줘봐. 시중에서 팔고 있는 물건이면 거의 비슷하게 맞출 수 있어. 음~ 이 돌로 말할 것 같으면, 틀림없어! 600모라야",
       "en": "My hobbies are reading and appraisal. Reading begets knowledge, appraisal improves judgment. As such, I read everything and appraise anything. If you don't believe me, bring something over sometime. If there's a market for it, my estimate won't be far off. Take this stone for example... must be... 600 Mora.",
       "de": "Meine Hobbys sind Lesen und Taxieren. Durch Lesen werden meine Kenntnisse bereichert, während durch Taxieren mein Urteilsvermögen geschärft wird. Deswegen lese ich Bücher aller Art und taxiere alles, was ich sehe. Falls du mir nicht glaubst, kannst du einen beliebigen Gegenstand aussuchen und mich ihn taxieren lassen. Solange er auf dem Markt zur Verfügung steht, kann ich seinen Preis richtig abschätzen. Z. B. der Stein da, der kostet mit Sicherheit sechshundert Mora.",
-      "es": "Mis aficiones son leer y tasar el valor de las cosas. Leyendo, amplías tu conocimiento, y tasando, mejoras tu capacidad de juicio. Por eso, leo y evalúo todo. Si no me crees, tráeme algo cuando quieras. Si tiene un nicho de mercado, estoy segura de que mis cálculos serán bastante acertados. Esta piedra, por ejemplo, debe costar unos... 600 Moras.",
+      "es": "Mis aficiones son leer y tasar el valor de las cosas. Leyendo, amplías tu conocimiento, y tasando, mejoras tu capacidad de juicio. Por eso, leo y evalúo todo. Si no me crees, tráeme algo cuando quieras. Si tiene un nicho de mercado, estoy segura de que mis cálculos serán bastante acertados. Esta piedra, por ejemplo, debe de costar unos... 600 Moras.",
       "fr": "Mes loisirs sont la lecture et l'estimation de biens. Ils me permettent d'aiguiser mes connaissances et mon sens du jugement. Je lis de tout et estime la valeur de n'importe quels objets. Si vous ne me croyez pas, ramenez-moi l'objet que vous voulez un jour. Si on peut l'acheter, mon estimation de sa valeur sera proche de celle du marché. Prenez cette pierre par exemple... Je peux vous assurer qu'elle vaut 600 moras.",
-      "pt": "Meu passatempo é ler livros e avaliar coisas. Ler livros pode me tornar mais sábia, e avaliar aumenta meu discernimento. Por isso leio e avalio de tudo. Se você não acredita em mim, pode me dar qualquer coisa, desde que seja vendida no mercado, posso avaliar seu valor com boa probabilidade de estar certa. Por exemplo, essa pedra aqui é bem boa, deve valer umas 600 Mora.",
+      "pt": "Meu passatempo é ler livros e avaliar coisas. Ler livros pode me tornar mais sábia, e avaliar aumenta meu discernimento. Por isso leio e avalio de tudo. Se você não acredita em mim, pode me dar qualquer coisa, desde que seja vendida no mercado, posso avaliar seu valor com boa probabilidade de estar certa. Por exemplo, essa pedra aqui é bem boa, deve valer umas 600 Moras.",
       "ru": "Мои увлечения - это чтение и оценка. Чтение приумножает знания, а оценка - проницательность. Поэтому я читаю всевозможные книги и оцениваю всевозможные вещи. Если не верите, просто дайте мне любую вещь, которая есть на рынке, и я смогу её оценить с большой долей вероятности. Скажем, этот камень... Шестьсот моры, ошибки быть не может.",
-      "id": "Hobiku adalah membaca dan menilai sesuatu. Membaca akan menambah wawasan, menilai sesuatu akan membuatmu lebih pandai menilai dengan tepat. Jadi aku membaca semua buku dan menilai segala jenis benda. Kalau kamu tidak percaya, coba saja kapan-kapan bawa suatu benda kepadaku. Kalau memang benda yang dijual di pasaran, penilainku pasti cukup akurat. Contohnya batu ini... harganya pasti... 600 Mora.",
+      "id": "Aku suka membaca dan menilai sesuatu. Membaca artinya menambah ilmu, sedangkan menilai meningkatkan kemampuan pertimbangan. Jadi aku baca segala jenis buku dan menilai segala jenis benda. Kalau tidak percaya, kapan-kapan coba bawa sesuatu ke hadapanku. Kalau ada pasarnya, penilaianku tidak akan meleset. Contoh batu ini deh ... harganya kurang lebih ... 600 Mora.",
       "th": "งานอดิเรกของฉันคือการอ่านหนังสือและการประเมินราคา การอ่านสามารถเพิ่มพูนความรู้ได้ แต่การประเมินราคาก็ทำให้ตาเฉียบคมขึ้น ดังนั้นไม่ว่าจะหนังสืออะไรก็ต้องอ่าน ประเมินราคาสิ่งใดก็ต้องประเมินให้หมด ถ้าคุณไม่เชื่อฉันก็แค่หาบางอย่างมาให้ฉัน ขอแค่มันเป็นสินค้าในตลาด ฉันสามารถประเมินราคาได้หมด ดูที่ก้อนหินก้อนนี้สิ ราคา 600 Mora น่ะ ไม่ผิดแน่",
       "vi": "Sở thích của tôi là đọc sách và định giá. Đọc sách có thể mở rộng tri thức, định giá lại giúp nâng cao tầm nhìn. Cho nên sách gì tôi cũng đọc, cái gì tôi cũng định giá. Nếu bạn không tin, có thể tùy ý tìm một món đồ cho tôi, chỉ cần là hàng có bán trên thị trường, tôi đều có thể đoán đúng giá, không chín thì mười đấy. Cứ chọn viên đá này đi vậy, 600 Mora, không sai vào đâu được."
     }
@@ -1074,15 +1138,15 @@
     "line": {
       "zhs": "和记厅的朋友们常约我一起钓鱼，说是切磋钓技，但其实大家心里多少都有些炫耀的成分。我有一百种方法赢过所有人，但他们长期关照我的生意，屡战屡胜未免太不给面子。所以，我每次都靠着精妙的演技假装垫底…等等，你那是什么表情，在怀疑我吗？！",
       "zht": "#和記廳的朋友們常約我一起釣魚，說是切磋釣技，但其實大家心裡多少都有些炫耀的成分。我有一百種方法贏過所有人，但他們長期關照我的生意，屢戰屢勝未免太不給面子。所以，每次我都靠著精妙的演技假裝墊底…等等，{F#妳}{M#你}那是什麼表情，在懷疑我嗎？！",
-      "jp": "和記庁の友人によく釣りに誘われるんだが、切磋琢磨という割には、皆その手腕を見せつけたい気持ちが見え見えでね。そういった人たちに勝つ方法は百通り以上あるんだが、いつも仕事で世話になっているから負かすのも忍びなくて…だから、いつも演技をするんだ、それでわざと負けてやってるってわけ…\n\nうん？なんだその目は。まさか、私の話を疑っているのか！？",
+      "jp": "和記庁の友人によく釣りに誘われるんだが、切磋琢磨という割には、皆その手腕を見せつけたい気持ちが見え見えでね。そういった人たちに勝つ方法は百通り以上あるんだが、いつも仕事で世話になっているから負かすのも忍びなくて…だから、いつも演技をするんだ、それでわざと負けてやってるってわけ…うん？なんだその目は。まさか、私の話を疑っているのか！？",
       "ko": "화기청 친구들이 항상 실력 겨루기랍시고 낚시 가자고 하는데, 사실은 자랑하고 싶어서 그런 거지. 나한텐 백전백승을 거둘 100가지 방법이 있긴 하지만, 그들은 내 장기적인 사업 파트너이기도 해서 계속 이기기만 하면 좀 그렇잖아. 그래서 난 매번 엄청난 연기 실력으로 꼴찌를 해줘…. 잠깐, 뭐야 그 표정은? 날 의심하는 거야?!",
       "en": "My friends from the Communications Office often get me to go fishing with them. They say it's to exchange angling tips, but deep down everyone's keen to show off. I've gotten the better of everyone a hundred different ways, but they continue to scrutinize my business... After so much success, it's gotten a little embarrassing... So every time, I end up taking advantage of my ingenious acting skills to make myself seem humble, you know? What's with the face — are you doubting me?",
-      "de": "Meine Freunde von der Presseabteilung laden mich sehr oft zum Angeln ein. Sie sagen, sie möchten sich mit mir beim Angeln messen. Aber eigentlich wollen sie mehr oder weniger vor mir mit ihren Angelfähigkeiten prahlen. Ich kann sie auf jeden Fall besiegen. Aber sie sind meine Stammkunden und daher muss ich ihre Gesichter wahren. Deswegen habe ich jedes Mal als eine sehr schlechte Anglerin geschauspielert ... Warte, warum schaust du mich so an? Glaubst du mir nicht!?",
+      "de": "Meine Freunde von der Heji-Kammer laden mich sehr oft zum Angeln ein. Sie sagen, sie möchten sich mit mir beim Angeln messen. Aber eigentlich wollen sie mehr oder weniger vor mir mit ihren Angelfähigkeiten prahlen. Ich kann sie auf jeden Fall besiegen. Aber sie sind meine Stammkunden und daher muss ich ihre Gesichter wahren. Deswegen habe ich jedes Mal als eine sehr schlechte Anglerin geschauspielert ... Warte, warum schaust du mich so an? Glaubst du mir nicht!?",
       "es": "Mis amigos de la Oficina de Comunicación suelen llevarme con ellos a pescar. Dicen que es para intercambiar consejos de pesca, pero en el fondo es porque todos quieren jactarse de sus habilidades. Les he ganado a todos de cientos de maneras diferentes, pero siguen escudriñando mi negocio. Después de tantas victorias, ya hasta me da vergüenza... Así que, siempre que pescamos, aprovecho mis magníficas habilidades de actriz para parecer modesta... ¿sabes? Oye, ¿por qué pones esa cara? ¿Acaso estás dudando de mí?",
       "fr": "Mes amis du Bureau des communications m'invitent souvent à aller pêcher avec eux. Ils disent vouloir échanger quelques trucs de pêcheurs mais au fond, tout le monde est là pour en mettre plein la vue aux autres. J'ai réussi à tous les avoir de cent façons différentes, et pourtant ils continuent à surveiller ma façon de pêcher... Après autant de succès, ça devient un peu gênant... Alors, à chaque fois, j'utilise mes talents d'actrice pour jouer la carte de l'humilité... Vous savez, du genre... Qu'est-ce qu'il y a ? Vous ne me croyez pas ?",
-      "pt": "Meus amigos sempre me chamam para ir pescar com eles. Falamos sobre nossas técnicas de pesca, mas na verdade todos só queremos nos amostrar. Eu tenho cem maneiras para derrotá-los, mas no final eles vêm até mim para pedir ajuda, por isso não fico querendo vencer sempre. Portanto, todas as vezes eu finjo que estou perdendo... Espere, que cara é essa? Você não acredita em mim?!",
+      "pt": "Meus amigos sempre me chamam para ir pescar com eles. Falamos sobre nossas técnicas de pesca, mas na verdade todos só queremos nos mostrar. Eu tenho cem maneiras para derrotá-los, mas no final eles vêm até mim para pedir ajuda, por isso não fico querendo vencer sempre. Portanto, todas as vezes eu finjo que estou perdendo... Espere, que cara é essa? Você não acredita em mim?!",
       "ru": "Друзья из Палаты связей часто приглашают меня на рыбалку. Они говорят, что это для обмена опытом, но на самом деле все хотят похвастаться своим мастерством. Я знаю сотни способов победить их всех, но они часто обращаются ко мне за помощью, поэтому мне неловко побеждать слишком часто. Каждый раз я веду тонкую игру и притворяюсь, что проигрываю... Что ты так на меня смотришь?! Ты мне не веришь?!",
-      "id": "Teman-temanku dari Kantor Komunikasi sering mengajakku pergi memancing bersama. Bicaranya sih untuk berbagi teknik memancing, tapi sebenarnya mereka hanya ingin pamer saja. Aku punya ratusan cara untuk menang dari mereka, tapi mereka adalah klien bisnisku yang berharga... Kalau aku menang terus, pasti mereka akan malu... Jadi setiap kali aku harus menggunakan keahlian aktingku untuk pura-pura kalah...Eh? Kenapa mukamu begitu? Kamu mencurigaiku ya!?",
+      "id": "Teman-temanku dari Kantor Komunikasi mengajaku pergi mancing. Ngomongnya sih mau berbagi teknik, tapi sebenarnya mereka cuma mau pamer. Aku punya ratusan cara untuk menang dari mereka, tapi mereka semua klienku ... Kalau aku menang terus, pasti mereka akan malu ... Jadi setiap kali aku harus memamerkan bakat aktingku yang di atas rata-rata untuk pura-pura kalah ...Eh? Kok mukamu begitu? Tidak percaya ya?!",
       "th": "เพื่อน ๆ จากสำนักงานการสื่อสารชอบจะชวนฉันไปตกปลาด้วยกัน บอกว่ากำลังเรียนรู้ทักษะการตกปลา แต่จริง ๆ แล้วทุกคนมีบางอย่างที่อยากอวดในใจ ฉันมีวิธีเอาชนะทุกคนเป็นร้อยวิธี แต่พวกเขาดูแลธุรกิจของฉันมานานแล้ว และน่าเบื่อเกินไปที่จะชนะซ้ำแล้วซ้ำเล่า ดังนั้นทุกครั้งฉันจึงแกล้งทำเป็นแพ้ด้วยทักษะการแสดงที่ยอดเยี่ยมของฉัน... เดี๋ยวก่อนนะ สีหน้าของคุณทำไมเป็นแบบนั้นล่ะ คุณสงสัยอะไรในตัวฉันงั้นเหรอ?!",
       "vi": "Bạn bè ở Hòa Ký Sảnh thường hẹn tôi đi câu cá, nói là muốn rèn luyện kỹ năng câu, nhưng thực ra trong lòng họ ít nhiều cũng có ý muốn khoe khoang. Tôi có một trăm cách thắng được tất cả mọi người, nhưng họ đã ủng hộ việc kinh doanh của tôi suốt một thời gian dài, nếu thắng hết lần này đến lần khác thì đúng là không nể mặt rồi. Vì vậy, bằng kỹ năng diễn xuất tài tình của mình, lần nào tôi cũng giả vờ là người đứng cuối...khoan đã, ý của bạn là gì, đang nghi ngờ tôi sao?!"
     }
@@ -1097,24 +1161,24 @@
       "de": "Was sie so mag ...",
       "es": "Comida que más le gusta...",
       "fr": "Plats préférés...",
-      "pt": "Comida favorita...",
+      "pt": "Comida Favorita...",
       "ru": "Любимая еда...",
-      "id": "Makanan favorit",
+      "id": "Makanan Favorit",
       "th": "อาหารที่ชอบ...",
       "vi": "Món ăn yêu thích..."
     },
     "line": {
       "zhs": "哦！说到这种话题，我就要好好向你推荐我的心头挚爱了，豆腐，绝对是豆腐！豆腐本是清淡的食材，口感鲜嫩，温润滋补，搭配各色汤头都能完美融入。最重要的是一年四季均有供应，随时可以吃到！不求至尊，只求完美，豆腐菜就是我要的那种滋味。",
-      "zht": "#哦！說到這種話題，我就要好好向{F#妳}{M#你}推薦我的心頭摯愛了：豆腐，絕對是豆腐！豆腐本是清淡的食材，口感鮮嫩，溫潤滋補，搭配各色湯頭都能完美融入。最重要的是一年四季均有供應，隨時可以吃到！不求至尊，只求完美，豆腐料理就是我要的那種滋味。",
-      "jp": "おおっ！その手の話題を振られたら、好物を紹介せざるを得ないな！\n\n豆腐だ、豆腐。こればかりは絶対に外せない！あっさりとした味わいと、柔らか～～い食感を楽しめる。さらに栄養も豊富なんだ。どのような汁物にも合う。そして重要なのが、一年を通していつでも食べられる点だ！最高になれずとも、完璧を求める、豆腐料理こそまさに私の欲する味だよ。",
+      "zht": "#喔！說到這種話題，我就要好好向{F#妳}{M#你}推薦我的心頭摯愛了——豆腐，絕對是豆腐！豆腐本是清淡的食材，口感鮮嫩，溫潤滋補，搭配各色湯頭都能完美融入。最重要的是一年四季均有供應，隨時可以吃到！不求至尊，只求完美，豆腐菜就是我要的那種滋味。",
+      "jp": "おおっ！その手の話題を振られたら、好物を紹介せざるを得ないな！豆腐だ、豆腐。こればかりは絶対に外せない！あっさりとした味わいと、柔らか～～い食感を楽しめる。さらに栄養も豊富なんだ。どのような汁物にも合う。そして重要なのが、一年を通していつでも食べられる点だ！最高になれずとも、完璧を求める、豆腐料理こそまさに私の欲する味だよ。",
       "ko": "오! 이런 주제라면 내가 애정하는 걸 제대로 추천해줘야 제맛이지. 두부, 무조건 두부라고! 두부는 담백한 식자재야. 식감이 연하고 영양가가 넘쳐서 어느 국물에나 잘 어울리지. 중요한 건 일 년 내내 먹을 수 있다는 거야! 최고는 아니지만 완벽해. 두부 요리가 딱 내가 원하는 그런 맛이야",
       "en": "Oh! On that note, let me recommend my one true love. Tofu — tofu all the way! Light in flavor, tender in texture, not to mention smooth and nourishing. It goes well with all manner of soups and dishes, and more importantly — it's available throughout the seasons! Beauty over complexity... tofu dishes are my kind of flavor.",
       "de": "Oh! Dann möchte ich dir unbedingt mein liebstes Essen empfehlen! Tofu! Absolut Tofu! Tofu an sich ist leicht gewürzt mit einer sehr zarten Beschaffenheit und tut der Gesundheit sehr gut. Er passt perfekt zu Suppen jeder Art. Wichtiger ist, dass Tofu in allen vier Jahreszeiten zur Verfügung steht. Er ist nicht das beste Essen auf der Welt, für mich aber einfach perfekt.",
       "es": "¡Oh! Ahora que lo dices, deja que te recomiende mi gran amor: el tofu. ¡El tofu es la comida suprema! Ligero de sabor, tierno de textura... Por no mencionar lo suave y nutritivo que es. Combina a la perfección con toda clase de sopas y, lo que es más importante, ¡está disponible durante todo el año! La belleza por encima de la complejidad... los platos con tofu son mis preferidos.",
       "fr": "Oh ! Puisqu'on en parle, je me dois de vous recommander le plat de mes rêves : le tofu ! J'adore ça ! Avec son goût léger, sa texture tendre et lisse, puis c'est très nourrissant ! Il se marie à merveille avec de nombreux plats et soupes, sans jamais être hors de saison ! La perfection prime sur l'excellence, voilà pourquoi j'aime autant le goût de cet aliment.",
-      "pt": "Oh! Agora que estamos falando desse tópico, eu vou lhe recomendar o amor do meu coração! Tofu! Eu amo Tofu! É uma comida leve, tem uma sensação delicada, é nutritivo, e se dá bem com todo tipo de sopa. O mais importante é que está disponível o ano inteiro, posso comer quando quiser! Não busque por excelência, busque perfeição. Pratos com Tofu são exatamente o que eu quero.",
+      "pt": "Oh! Agora que estamos falando desse tópico, eu vou lhe recomendar o amor do meu coração! Tofu! Eu amo Tofu! É uma comida leve, tem uma sensação delicada, é nutritivo, e se dá bem com todo tipo de sopa. O mais importante é que está disponível o ano inteiro, posso comer quando quiser! Não busque por excelência, busque perfeição. Pratos com Tofu são os meus preferidos.",
       "ru": "О! Раз уж мы заговорили об этом, я порекомендую мой горячо любимый тофу! Определённо, тофу! Он должен быть лёгким, нежным, тёплым и питательным. Тофу идеально сочетается со всеми видами супов. Лучшее в нём то, что он доступен круглый год, в любое время! Не ищите превосходства, ищите только совершенство. Блюда из тофу - именно то, что я ищу.",
-      "id": "Oh! Bicara tentang itu, kusarankan mencoba cinta sejatiku, Tofu! Tofu nomor satu! Rasanya enteng dan segar, teksturnya lembut dan bernutrisi. Tofu juga cocok untuk segala jenis hidangan sup. Yang paling penting, Tofu bisa dibeli kapan saja sepanjang tahun! Tidak perlu menjadi yang terhebat, tapi jadilah yang paling sempurna... Aku paling suka hidangan dari Tofu.",
+      "id": "Oh! Kalau soal itu, aku merekomendasikan cinta sejatiku! Tahu! Rasanya tidak tajam, teksturnya lembut, dimakan juga ringan dan penuh nutrisi. Ditambahkan ke segala macam kuah-kuahan juga cocok sekali. Yanh paling penting, tahu tersedia di pasar sepanjang tahun! Sempurna tanpa perlu banyak gaya ... tahu memang paling top!",
       "th": "โอ้! เมื่อมาถึงหัวข้อนี้ ฉันจะแนะนำที่รักของฉันให้คุณได้รู้จัก ซึ่งแน่นอนว่าคือ เต้าหู้! เต้าหู้เป็นวัตถุดิบที่จืด สัมผัสนุ่ม อุ่นและบำรุงร่างกาย ซึ่งสามารถรวมเข้ากับซุปต่าง ๆ ได้อย่างสมบูรณ์แบบ ที่สำคัญที่สุดคือมีให้กินตลอดทั้งปีและกินได้ตลอดเวลาเลยล่ะ! ฉันไม่ได้ต้องการสิ่งที่อร่อยที่สุด แต่ต้องการแค่ความสมบูรณ์แบบเท่านั้น อาหารที่ทำจากเต้าหู้นี่แหละคือรสชาติที่ฉันต้องการ",
       "vi": "A! Nói đến chủ đề này, tôi sẽ giới thiệu cho bạn món yêu thích nhất của tôi - đó là đậu hũ, chỉ có đậu hũ! Đậu hũ vốn là món thanh đạm, ăn vào non mềm, ấm bụng và bổ dưỡng, có thể kết hợp hoàn hảo với các món canh khác nhau. Điều quan trọng nhất là nó có quanh năm và có thể ăn bất cứ lúc nào! Không cần cao siêu, chỉ cần hoàn hảo, món đậu hũ chính là mùi vị mà tôi muốn."
     }
@@ -1129,11 +1193,11 @@
       "de": "Was sie nicht mag ...",
       "es": "Comida que menos le gusta...",
       "fr": "Plats détestés...",
-      "pt": "Comida que detesta...",
+      "pt": "Comida que Odeia...",
       "ru": "Нелюбимая еда...",
-      "id": "Makanan yang tidak kamu suka",
+      "id": "Makanan yang Tidak Disukai",
       "th": "อาหารที่เกลียด...",
-      "vi": "Món ăn chán ghét..."
+      "vi": "Món ăn ghét..."
     },
     "line": {
       "zhs": "我不喜欢冷菜，可能是因为我很少吃冷菜吧。以前如果很晚回到家，老爹也会为我留个灯，听见我的动静，还会问我肚子饿不饿。用他的话说，「菜嘛，总是热的好。」",
@@ -1144,9 +1208,9 @@
       "de": "Ich esse nicht gerne kalt. Es liegt wohl daran, dass ich sehr selten kalt essen muss. Zuvor, falls ich zu spät nach Hause gekommen war, hat mein Vater für mich immer eine Lampe angelassen. Dann kam er zu mir und fragte, ob ich Hunger hätte. In seinen Worten: „Das Essen schmeckt nur, wenn es warm ist.“",
       "es": "No me gusta la comida fría... tal vez porque apenas la como. Cuando llegaba tarde a casa, mi padre siempre me dejaba una luz encendida. Cuando veía que ya había llegado, me preguntaba si tenía hambre y, cito textualmente, decía: “La comida sabe mejor cuando se sirve caliente”.",
       "fr": "Je n'aime pas les plats froids, certainement parce que j'en mange peu. Avant, quand je revenais tard à la maison, mon père laissait toujours une lanterne allumée pour moi. Il m'entendait arriver et me demandait si j'avais faim. Comme il le disait si bien : « Les meilleurs plats sont toujours chauds. »",
-      "pt": "Não gosto de comidas frias. Deve ser porque como elas pouco. Antigamente, quando voltava para casa muito tarde, meu pai deixava uma lanterna acesa, e ouvia meus passos e me perguntava se eu tinha fome ou não. É como ele dizia: \"Comida sempre é boa quando servida quente\".",
+      "pt": "Não gosto de comidas frias. Deve ser porque como pouco elas. Antigamente, quando voltava para casa muito tarde, meu pai deixava uma lanterna acesa, e ouvia meus passos e me perguntava se eu estava com fome ou não. É como ele dizia: \"Comida sempre é boa quando servida quente\".",
       "ru": "Я не люблю холодные блюда. Наверное, потому что я редко их ем. Раньше, если я приходила домой очень поздно, отец оставлял зажжённой лампу. Он слышал мои шаги и спрашивал, не голодна ли я. По его словам, еда всегда лучше, когда она горячая.",
-      "id": "Aku tidak suka masakan dingin... mungkin karena jarang memakannya. Kalau aku pulang larut malam, ayahku pasti akan tetap menyalakan satu lampu lentera untukku. Saat dia mendengarku datang, dia pasti menanyakan apakah aku lapar. Ayahku selalu berkata, \"Makanan itu, paling enak dimakan hangat-hangat.\"",
+      "id": "Aku tidak suka makanan dingin ... mungkin karena jarang makan yang begitu sih. Kalau pulang malam, ayah selalu biarkan satu lentera tetap menyala. Waktu dengar aku datang, dia akan tanya apa aku lapar atau tidak. Menurut ayah: \"Yang namanya makanan itu harus disajikan panas-panas\".",
       "th": "ฉันไม่ชอบเมนูเย็น และอาจเป็นเพราะฉันไม่ค่อยกินเมนูเย็นล่ะมั้ง เมื่อก่อนถ้าฉันกลับบ้านดึกมาก พ่อจะจุดตะเกียงไว้ให้ฉัน เมื่อเขาจะได้ยินเสียงการเคลื่อนไหวของฉันจะถามฉันว่าหิวไหม คำพูดที่พ่อพูดก็คือ \"อาหารน่ะ กินตอนร้อนดีที่สุด\"",
       "vi": "Tôi không thích ăn thức ăn nguội, có thể do tôi ít ăn chăng. Trước đây nếu tôi về nhà trễ, bố thường hay hỏi tôi có đói bụng không. Theo như ông ấy nói thì \"Thức ăn phải nóng mới ngon.\""
     }
@@ -1176,9 +1240,9 @@
       "de": "Herzlichen Glückwunsch zum Geburtstag! Das Kästchen hier ist ein Geschenk für dich. Darin sind die Gesetzbücher von allen Städten. Du möchtest weiter herumreisen, nicht wahr? Dann lohnt es sich, im Vorhinein die Gesetze von anderen Städten kennenzulernen.\n\nAber lern nicht gleich alles auswendig, sonst ... brauchtest du meine Hilfe nicht mehr.",
       "es": "¡Feliz cumpleaños! Toma, esto es para ti. Es una compilación de las leyes de las Siete Naciones. Querías ir de viaje, ¿no? Te servirá para familiarizarte con las leyes de otras naciones.\n\nPero no te las estudies muy a fondo o, sino... no podré ayudarte en nada.",
       "fr": "Joyeux anniversaire ! Voilà pour vous. Je vous ai fait une compilation des législations de tous les pays. Vous prévoyez de voyager, non ? Ça vous permettra de vous familiariser avec les lois des différentes nations.\n\nN'apprenez pas tout par cœur... ou je ne vous serai plus d'aucune utilité.",
-      "pt": "#Feliz aniversário! Está caixa é para você. Dentro dela estão os materiais legais de cada país, você não é {F#uma}{M#um} Viajante que quer ir para todos os cantos do mundo? Por isso deveria saber de antemão as leis de outros países, isso com certeza será muito útil.\n\nEntretanto, não estude demais, ou então eu não poderei lhe ajudar.",
+      "pt": "#Feliz aniversário! Esta caixa é para você. Dentro dela estão os materiais legais de cada nação, você não é {F#uma}{M#um} Viajante que quer ir para todos os cantos do mundo? Por isso deveria saber de antemão as leis de outras regiões, isso com certeza será muito útil.\n\nEntretanto, não estude demais, ou então eu não poderei lhe ajudar.",
       "ru": "С днём рождения! Это подарок тебе. Внутри информация о законах разных стран, которую я подготовила специально для тебя. Ты собираешься путешествовать, так что будет полезно заранее их изучить.\n\nНо не учись слишком хорошо, иначе... Я не смогу тебе помочь.",
-      "id": "Selamat ulang Tahun! Ini hadiah untukmu. Aku mengumpulkan hukum-hukum dari berbagai negara dan menggabungkannya. Kamu berencana pergi bertualang kan? Pasti akan berguna kalau kamu memahami hukum di setiap bangsa.\n\nTapi jangan belajar terlalu rajin ya... nanti kamu tidak membutuhkanku lagi.",
+      "id": "Selamat ulang Tahun! Ini buat kamu. Aku merangkum hukum dari berbagai tempat di dunia ... Kamu mau berkelana kan? Memahami hukum yang berlaku di setiap tempat itu tiak ada ruginya.\n\nJangan terlalu rajin tapi ya ... nanti aku jadi tidak berguna lagi buat kamu.",
       "th": "สุขสันต์วันเกิด กล่องนี้ฉันให้คุณ ข้างในเป็นกฎหมายของประเทศต่าง ๆ ที่ฉันเตรียมไว้ให้ คุณจะต้องออกเดินทางไปทั่วไม่ใช่เหรอ มันจะมีประโยชน์อย่างแน่นอนเลยล่ะ ถ้าคุณรู้กฎหมายของประเทศอื่น ๆ ล่วงหน้าน่ะ \n\nแต่อย่าศึกษาจนเก่งเกินไปล่ะ ไม่งั้น ... ฉันคงช่วยคุณไม่ได้นะ",
       "vi": "Sinh nhật vui vẻ, chiếc hộp này tặng bạn, bên trong là bộ luật của các nước. Bạn không phải hay đi chu du bốn phương sao, tìm hiểu trước luật pháp của nước khác là điều nên làm mà.\n\nNhưng mà cũng đừng tìm hiểu kỹ quá nhé, không thôi... tôi không thể giúp đỡ bạn được."
     }
@@ -1210,7 +1274,7 @@
       "fr": "« Ne cherche pas à imiter le passé, car aucune loi ne peut prédire le futur »... C'est une leçon que je dois toujours garder à l'esprit.",
       "pt": "\"Não tente imitar o passado, porque nenhuma lei pode prever o futuro\". Isso é uma lição que devo sempre me lembrar.",
       "ru": "«Не перенимай старые методы, нет вечных законов». Это урок, который я должна запомнить.",
-      "id": "\"Jangan meniru masa lalu, karena tidak ada hukum yang kekal sepanjang waktu\"... Inilah pelajaran yang harus selalu kuingat.",
+      "id": "\"Jangan mencoba mengulang masa lalu, karena tidak ada hukum yang bertahan selamanya\". Suatu pelajaran yang harus selalu aku ingat.",
       "th": "\"อย่าปฏิบัติตามกฎโบราณหรือกฎที่ตายตัว\" ประโยคนี้คือคำสอนที่ฉันต้องจำให้ขึ้นใจ",
       "vi": "\"Không có thứ gì bất biến, không có luật pháp nào là vĩnh cửu\", câu nói này là lời giáo huấn mà tôi bắt buộc phải khắc ghi."
     }
@@ -1242,7 +1306,7 @@
       "fr": "Ce n'est qu'en se conformant à la loi que les gens peuvent résoudre leurs problèmes.",
       "pt": "Só respeitando as leis que as pessoas podem obter uma solução para todos os problemas.",
       "ru": "Только соблюдая закон, люди смогут решить все проблемы.",
-      "id": "Hanya dengan berpegang pada hukum maka orang-orang bisa menyelesaikan berbagai masalah dalam hidup.",
+      "id": "Taat akan hukum berarti mampu mengatasi berbagai polemik kehidupan.",
       "th": "เพียงการปฏิบัติตาม \"กฎหมาย\" ก็จะได้รับ \"วิธี\" ที่แก้ปัญหาทั้งหมด",
       "vi": "Chỉ có tuân thủ \"luật\", người ta mới có thể tìm được \"pháp\" để giải quyết mọi vấn đề."
     }
@@ -1265,16 +1329,16 @@
     },
     "line": {
       "zhs": "学习律法是为了跟别人有理有据地谈话，习武防身则是为了应付无理无据的场合。欸，等等…我这能算习武吗…",
-      "zht": "學習律法是為了跟別人有理有據地談話；習武防身則是為了應付無理無據的場合。欸，等等…我這能算習武嗎…",
+      "zht": "學習律法是為了跟別人有理有據地談話，習武防身則是為了應付無理無據的場合。欸，等等…我這能算習武嗎…",
       "jp": "法律を学ぶのは、論理的に話を進めるためであり、武芸を学ぶのは、論理の通じない者を相手にするためだ。いや、私のこれは武芸と言えるのだろうか…",
       "ko": "법률을 배우는 건 남들과 논리정연하게 이야기하기 위함이고, 무예를 익히는 건 논리가 통하지 않는 상황에 대처하기 위해서야. 음, 잠깐…! 나도 무예를 익힌 셈인가?",
       "en": "Studying the law allows one to have grounded conversations, whilst learning martial arts allows one to prevail against groundless violence. Hey, wait a minute... does this count as martial arts...?",
       "de": "Ich studiere Jura, weil ich meine Argumente beim Debattieren mit anderen gut begründen möchte. Und ich lerne Kampfkünste, nur um mich selbst gut gegen die Tölpel zu verteidigen, mit denen man nicht vernünftig reden kann. Hä, warte ... Bin ich jetzt eine Kampfsportlerin?",
-      "es": "Estudiar las leyes te permite hablar con fundamento, mientras que aprender artes marciales te permite hacer frente a las situaciones en las que no se aplica la racionalidad. Oye, espera un momento... ¿esto cuenta como artes marciales?",
+      "es": "Estudiar las leyes te permite hablar con fundamento, mientras que aprender artes marciales te permite hacer frente a situaciones violentas e irracionales. Oye, espera un momento... ¿esto cuenta como artes marciales?",
       "fr": "L'étude de la loi permet d'avoir un discours soutenu par des arguments, tandis que l'étude des arts martiaux permet de se prémunir contre la violence sans fondement. Hé, attendez une minute... Cela signifie-t-il que la loi compte comme un art martial ?",
-      "pt": "Estudo as leis para falar com as pessoas com razão e igualdade. Estudo as artes marciais para me proteger em situações sem razão e igualdade. Espere um pouco... Isso pode ser contado como artes marciais?",
+      "pt": "Estudo as leis para falar com as pessoas com razão e igualdade. Estudo as artes marciais para me proteger em situações sem razão e igualdade. Espere um pouco... Isso conta como artes marciais?",
       "ru": "Изучать закон - чтобы вести обоснованные разговоры, практиковать боевые искусства - чтобы справляться с необоснованным насилием. Погоди-ка, а это считается за боевые искусства?",
-      "id": "Mempelajari hukum membuat seseorang dapat berbicara dengan bukti dan alasan, sedangkan mempelajari bela diri membuat seseorang bangkit untuk melawan penindasan yang tak berdasar. Hei, tunggu dulu... apa ini juga termasuk ke dalam bela diri...?",
+      "id": "Belajar hukum menjadikan seseorang mampu bicara dengan dasar-dasar yang kuat, belajar bela diri menjadikan seseorang punya dasar kuat untuk menentang kekerasan yang semena-mena. Eh, tapi ... Apa yang begini juga termasuk bela diri ya?",
       "th": "การเรียนรู้กฎหมาย คือการพูดคุยกับผู้อื่นด้วยเหตุผลและหลักฐาน ในขณะที่ศิลปะการต่อสู้คือการจัดการกับสถานการณ์ที่ไม่สมเหตุสมผล เอ๊ะ เดี๋ยวก่อนนะ... การเรียนรู้กฎหมายของฉันนับเป็นศิลปะการต่อสู้มั้ย...",
       "vi": "Học luật là để tranh luận với người khác bằng lý lẽ, còn luyện võ là để phòng hờ ứng phó với những tình huống vô lý. Đợi đã... tôi vậy tính là đang luyện võ nhỉ..."
     }
@@ -1299,14 +1363,14 @@
       "zhs": "我现在应该算「文武双全」了吧！多亏有你一路陪我走到修行之路的终点。报酬嘛…全天候专属私人顾问？还不错吧。喂…不准和我讨价还价！",
       "zht": "#我現在應該算「文武雙全」了吧！多虧有{F#妳}{M#你}一路陪我走到修行之路的終點。報酬嘛…全天候專屬私人顧問？還不錯吧。喂…不准和我討價還價！",
       "jp": "今の私なら「文武両道」と言えるだろう！すべてはお前が一緒にいてくれたおかげだ。報酬は…「今日一日、私がお前の専属顧問になる」っていうのはどうだ？中々の名案だろう。おい…私と価格交渉するな！",
-      "ko": "나도 이젠 「문무」를 다 갖췄다고 할 수 있겠지?! 네가 그동안 같이 수행해준 덕분이야. 보수는… 부르면 언제든 오는 네 전속 개인 고문? 어때, 괜찮지? 야… 흥정은 사절이야!",
+      "ko": "나도 이젠 「문무」를 다 갖췄다고 할 수 있겠지! 네가 그동안 같이 수행해준 덕분이야. 보수는… 부르면 언제든 오는 네 전속 개인 고문? 어때, 괜찮지? 야… 흥정은 사절이야!",
       "en": "Well, I guess I've mastered both the pen and the sword! I've been lucky to have you with me through to the end of my training. Compensation? Uhh... a twenty-four-hour specialist personal advisor? Sounds good... But no haggling!",
       "de": "Na ja, ich glaube, ich habe „sowohl Jura als auch Kampfkünste“ gemeistert. Ich danke dir, dass du mir beim Training immer beigestanden hast. Und was deine Belohnung dafür angeht ... ich werde kostenfrei rund um die Uhr für dich als persönliche Beraterin arbeiten. Nicht schlecht, oder? He! ... Lehn das nicht ab!",
-      "es": "Bueno, ¡supongo que ya domino tanto la palabra como el combate! Gracias a ti, he podido llegar hasta el final de mi entrenamiento. ¿Quieres una remuneración? Eh... ¿Ser tu asesora personal durante las 24 horas del día? Suena bien... ¡pero nada de regatear!",
+      "es": "Bueno, ¡supongo que ya domino tanto la pluma como la espada! Gracias a ti, he podido llegar hasta el final de mi entrenamiento. ¿Quieres una remuneración? Eh... ¿Ser tu asesora personal durante las 24 horas del día? Suena bien... ¡pero nada de regatear!",
       "fr": "Eh bien, je suppose que j'ai enfin réussi à maîtriser à la fois la plume et l'épée ! J'ai eu de la chance de vous avoir à mes côtés tout au long de mon entraînement. Une compensation ? Euh... Que dites-vous d'une conseillère personnelle spécialisée disponible 24 h sur 24 ? Ça me paraît équitable... Allez, pas de marchandage !",
-      "pt": "Eu agora posso ser considerada como uma mestre nas armas e nas leis! Foi graças a você ter me acompanhado nesse caminho até o ponto final. Recompensa? O que você acha como uma Consultora Jurídica particular todos os dias? Ei, não fale de um preço comigo.",
+      "pt": "Eu agora posso ser considerada como uma mestre nas armas e nas leis! Foi graças a você ter me acompanhado nesse caminho até o fim. Recompensa? O que você acha de uma Consultora Jurídica particular que te acompanha todos os dias? Ei, não fale de preço comigo.",
       "ru": "#Теперь меня можно считать «мастером кисти и меча»! Спасибо, что сопровождал{F#а} меня до самого конца. Вознаграждение... Как насчёт личных консультаций в любое время суток? Неплохо, да? Эй! Не надо торговаться!",
-      "id": "Sepertinya aku sudah menguasai ilmu sastra dan bela diri! Aku beruntung karena memilikimu sampai akhir pelatihanku. Kompensasi? Uhh... seorang penasihat pribadi spesialis dua puluh empat jam? Kedengarannya bagus... Tapi jangan tawar-menawar lagi!",
+      "id": "Nah, sekarang aku sudah menguasai tutur kata DAN bela diri! Aku beruntung punya kamu yang menemaniku sampai latihanku rampung. Kompensasi? Uhh ... jasa konsultasi hukum pribadi 24 jam? Bisa kan ... tidak ada tawar menawar ya!",
       "th": "ตอนนี้ฉันน่าจะเป็น \"ผู้รอบรู้ทั้งหนังสือและศิลปะการต่อสู้\" สินะ! ขอบคุณที่อยู่กับฉันมาจนถึงจุดสิ้นสุดของเส้นทางการฝึกฝนนะ ค่าตอบแทนงั้นเหรอ.... เป็นที่ปรึกษาส่วนตัวตลอดเวลาเป็นไง? ไม่เลวใช่มั้ยล่ะ นี่.... อย่ามาต่อรองกับฉันนะ!",
       "vi": "Nhờ có bạn đồng hành cùng tôi nên giờ tôi có thể xem như văn võ song toàn rồi nhỉ! Về mặt thù lao... Chuyên gia tư vấn độc quyền 24/7? Thấy được không. Này... không được trả giá đấy!"
     }
@@ -1402,7 +1466,7 @@
       "fr": "Retirez-vous vite !",
       "pt": "Voto de obrigação!",
       "ru": "Ходатайство о закрытии дела!",
-      "id": "Bergegaslah mundur!",
+      "id": "Pamit dan mundur!",
       "th": "รีบถอยไปซะ!",
       "vi": "Mau lui xuống!"
     }
@@ -1431,12 +1495,12 @@
       "en": "Time for your arraignment!",
       "de": "Feuer des Gesetzes!",
       "es": "¡Hora de su comparecencia!",
-      "fr": "L'heure de la comparution a sonnée !",
-      "pt": "É hora da sua acusação!",
+      "fr": "L'heure de la comparution a sonné !",
+      "pt": "Hora de sua acusação!",
       "ru": "Огонь правосудия!",
-      "id": "Waktunya untuk mendakwa dirimu!",
+      "id": "Dakwaan dibacakan!",
       "th": "ถึงเวลาตัดสินคดีของคุณแล้ว!",
-      "vi": "Lửa, cháy!"
+      "vi": "Luật Hỏa, Cháy!"
     }
   },
   {
@@ -1466,7 +1530,7 @@
       "fr": "Châtiment des flammes !",
       "pt": "Punição das Chamas!",
       "ru": "Гнев огня!",
-      "id": "Amarah Api!",
+      "id": "Murka yang menyala!",
       "th": "เปลวไฟพิโรธ!",
       "vi": "Phạt ăn lửa nóng!"
     }
@@ -1496,9 +1560,9 @@
       "de": "Unzulässige Beweismittel!",
       "es": "¡Evidencias improcedentes!",
       "fr": "Preuves irrecevables !",
-      "pt": "Evidência inadmissível!",
+      "pt": "Provas inaceitáveis!",
       "ru": "Недопустимое доказательство!",
-      "id": "Bukti yang tidak dapat diterima!",
+      "id": "Bukti ditolak!",
       "th": "หลักฐานยังอ่อนเกินไปนะ!",
       "vi": "Bằng chứng thép!"
     }
@@ -1530,7 +1594,7 @@
       "fr": "Hmm, je pourrais déclarer ça comme « revenus accessoires ».",
       "pt": "Ooh, certamente podemos declará-lo como um \"ganho acidental\".",
       "ru": "О, мы можем списать это на «непредвиденный доход».",
-      "id": "Oh, yang ini termasuk \"penemuan tidak disengaja\".",
+      "id": "Oh, yang ini boleh diakui sebagai \"pendapatan yang tidak direncanakan\".",
       "th": "นี่ถือว่าเป็น \"เหตุบังเอิญ\" อย่างนึงรึเปล่านะ?",
       "vi": "Có thể xem là \"tình cờ có được\" không?"
     }
@@ -1562,7 +1626,7 @@
       "fr": "En état remarquable !",
       "pt": "Está em perfeito estado!",
       "ru": "Замечательное состояние!",
-      "id": "Kondisi luar biasa!",
+      "id": "Kondisinya sangat baik!",
       "th": "สภาพเยี่ยมทีเดียว!",
       "vi": "Xuất sắc!"
     }
@@ -1589,12 +1653,12 @@
       "jp": "うむ、私が価値を見積もろう。",
       "ko": "음, 가격 감정을 해볼까",
       "en": "Huh, let's appraise the value on this...",
-      "de": "Huh, lass uns mal den Wert davon abschätzen ...",
+      "de": "Huch, lass uns mal den Wert davon abschätzen ...",
       "es": "Oh, evaluemos el valor de esto...",
       "fr": "Hmm, évaluons la valeur de ceci...",
       "pt": "Huh, vamos avaliar o valor disso...",
       "ru": "Хм, давай-ка определим ценность...",
-      "id": "Ah, mari kita cek nilainya ....",
+      "id": "Ah, ayo kita periksa nilainya.",
       "th": "อืม ให้ฉันประเมินราคาดูซิ",
       "vi": "Ừm, để tôi định giá thử."
     }
@@ -1609,7 +1673,7 @@
       "de": "Niedrige LP I",
       "es": "Vida baja (I)",
       "fr": "PV faibles (1)",
-      "pt": "Vida baixa - I",
+      "pt": "Vida Baixa - I",
       "ru": "Низкий уровень HP I",
       "id": "HP Rendah: I",
       "th": "ค่าพลังชีวิตต่ำ - 1",
@@ -1641,7 +1705,7 @@
       "de": "Niedrige LP II",
       "es": "Vida baja (II)",
       "fr": "PV faibles (2)",
-      "pt": "Vida baixa - II",
+      "pt": "Vida Baixa - II",
       "ru": "Низкий уровень HP II",
       "id": "HP Rendah: II",
       "th": "ค่าพลังชีวิตต่ำ - 2",
@@ -1656,9 +1720,9 @@
       "de": "Du hast die Regeln gebrochen!",
       "es": "¡No te saltes las leyes!",
       "fr": "Vous avez violé la loi...",
-      "pt": "Sem fugir da lei...",
+      "pt": "Não fuja da lei...",
       "ru": "Ты преступил закон...",
-      "id": "Taatilah aturan...",
+      "id": "Taati aturan ....",
       "th": "นี่มันผิดกฎนะ...",
       "vi": "Phạm luật rồi..."
     }
@@ -1673,7 +1737,7 @@
       "de": "Niedrige LP III",
       "es": "Vida baja (III)",
       "fr": "PV faibles (3)",
-      "pt": "Vida baixa - III",
+      "pt": "Vida Baixa - III",
       "ru": "Низкий уровень HP III",
       "id": "HP Rendah: III",
       "th": "ค่าพลังชีวิตต่ำ - 3",
@@ -1688,7 +1752,7 @@
       "de": "Aber meine Verteidigung war hieb- und stichfest ...",
       "es": "¡Pero si mi defensa no tenía ningún punto flaco!",
       "fr": "Quoi ? Une faille ?",
-      "pt": "Mas minha defesa era tão boa...",
+      "pt": "O que? Uma falha?",
       "ru": "Но ведь моя линия защиты была безупречна?",
       "id": "Apa pertahananku bocor?",
       "th": "อะไรกัน มีข้อผิดพลาดงั้นเหรอ?",
@@ -1722,7 +1786,7 @@
       "fr": "Une erreur... de jugement...",
       "pt": "Juri suspenso...",
       "ru": "Присяжные... не смогли договориться...",
-      "id": "Keputusan pengadilan... gantung...",
+      "id": "Pengadilan ... ditunda.",
       "th": "ตัดสิน... พลาดไปงั้นเหรอ...",
       "vi": "Phán đoán...sai sao..."
     }
@@ -1754,7 +1818,7 @@
       "fr": "La loi... a des failles...",
       "pt": "A lei... tem falhas...",
       "ru": "В законе... нашлись лазейки...",
-      "id": "Hukum ini... masih ada celah...",
+      "id": "Ada ... celah hukum ....",
       "th": "กฎหมาย... ยังมีช่องโหว่...",
       "vi": "Luật pháp...vẫn còn lỗ hổng..."
     }
@@ -1766,7 +1830,7 @@
       "jp": "戦闘不能·3",
       "ko": "전투 불능·세 번째",
       "en": "Fallen: III",
-      "de": "Ohmächtig III",
+      "de": "Ohnmächtig III",
       "es": "Derrotada (III)",
       "fr": "K.O. (3)",
       "pt": "Derrotado - III",
@@ -1786,7 +1850,7 @@
       "fr": "Je ne peux pas... accepter...",
       "pt": "Faço uma... objeção...",
       "ru": "Я... протестую...",
-      "id": "Aku... keberatan...",
+      "id": "Aku ... keberatan ....",
       "th": "ฉันขอ... คัดค้าน...",
       "vi": "Tôi không thể...chấp nhận..."
     }
@@ -1814,11 +1878,11 @@
       "ko": "귀찮게 됐네…",
       "en": "Ugh...",
       "de": "Uff ...",
-      "es": "Ay...",
+      "es": "¡Ay!...",
       "fr": "Que des problèmes...",
       "pt": "Ugh...",
       "ru": "Ах ты ж...",
-      "id": "Ugh...",
+      "id": "Ugh ....",
       "th": "ยุ่งยากซะแล้ว...",
       "vi": "Rắc rối rồi..."
     }
@@ -1849,8 +1913,8 @@
       "es": "La próxima vez, agenda una cita con antelación.",
       "fr": "Prenez rendez-vous la prochaine fois.",
       "pt": "Na próxima vez, não se esqueça de marcar uma consulta.",
-      "ru": "В следующий раз запишитесь на прием как подобает.",
-      "id": "Lain kali, pastikan untuk membuat janji dengan benar.",
+      "ru": "В следующий раз запишитесь на приём как подобает.",
+      "id": "Lain kali, buat janji dulu ya.",
       "th": "ครั้งนี้ถือว่าเธอนัดไว้แล้วนะ",
       "vi": "Lần này bạn đã đăng ký trước."
     }
@@ -1880,9 +1944,9 @@
       "de": "Für Treffen außerhalb des Büros berechne ich einen höheren Satz.",
       "es": "Cobro un extra por reuniones fuera de la oficina.",
       "fr": "Je facture des frais supplémentaires pour les sorties sur le terrain.",
-      "pt": "Se formos nos encontrar fora do escritório, meu honorário será maior.",
+      "pt": "Se formos nos encontrar fora do escritório, cobro mais.",
       "ru": "Встречи за пределами конторы - по специальному тарифу.",
-      "id": "Aku mengenakan tarif yang lebih tinggi jika bertemu di luar kantor.",
+      "id": "Tarifku lebih tinggi untuk pertemuan di luar kantor.",
       "th": "ออกไปทำงานนอกสถานที่ต้องคิดเงินเพิ่มนะ",
       "vi": "Ra ngoài phải thu thêm phí."
     }
@@ -1912,7 +1976,7 @@
       "de": "Bereit für den Prozess.",
       "es": "¡Lista para el juicio!",
       "fr": "C'est parti.",
-      "pt": "Pronta para o julgamento.",
+      "pt": "Aqui vamos nós.",
       "ru": "За дело!",
       "id": "Bersiaplah untuk persidangan!",
       "th": "ก็เข้ามาสิ!",

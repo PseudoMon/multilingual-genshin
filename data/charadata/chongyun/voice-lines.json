@@ -121,7 +121,7 @@
       "es": "“Un corazón puro exorciza el mal, una mente clara...” Em... *Suspira*, siempre olvido la última parte.",
       "fr": "« Un cœur pur exorcise le mal, un esprit clair... » *soupir* Ah, j'oublie toujours ce qui vient ensuite...",
       "pt": "\"Que o coração seja puro, que o mal seja apagado. Que a mente seja purificada, que mundo seja...\" Hum... Ugh, eu sempre me esqueço da última parte.",
-      "ru": "Духов изгнать, чудовищ связать, сердце очистить, мир успокоить, эээм... хмм... а чёрт, забыл конец.",
+      "ru": "Духов изгнать, чудовищ связать, сердце очистить, мир успокоить, эээм... хмм... ах, забыл конец.",
       "id": "\"Saat hati dimurnikan, kejahatan akan terhapus. Saat pikiran dibersihkan, dunia akan...\" Huh, aku lupa bait selanjutnya.",
       "th": "ปีศาจจงออกไป จิตใจจงบริสุทธิ์ อ่า เอิ่ม... ซวยแล้ว ท่อนต่อไปต้องว่ายังไงนะลืมแล้ว",
       "vi": "Diệt ác trừ ma, dẹp loạn thế gian. Hả, thôi chết rồi... Câu còn lại là gì nhở."
@@ -409,7 +409,7 @@
       "es": "En realidad, no hice nada. Solo entré a esa casa embrujada y el problema se resolvió... ¿Crees que debería aceptar el pago por ese exorcismo?",
       "fr": "Je n'ai pas fait grand-chose à part rentrer dans cette maison hantée. Penses-tu que je devrais demander une rémunération pour ça ?",
       "pt": "Na verdade, eu não fiz nada. Apenas entrei naquela casa mal assombrada e o problema foi resolvido... Você acha que eu ainda deveria receber o pagamento por esse exorcismo?",
-      "ru": "Я вообще ничего не делал. Только зашёл в проклятый дом, и проблема разрешилась. Думаешь, стоить брать плату за такую работу?",
+      "ru": "Я вообще ничего не делал. Только зашёл в проклятый дом, и проблема разрешилась. Думаешь, стоит брать плату за такую работу?",
       "id": "Aku sebenarnya tidak melakukan apa pun. Aku hanya masuk ke dalam rumah berhantu itu dan masalah pun terselesaikan dengan sendirinya. Apa menurutmu aku harus mengambil imbalan untuk misi pengusiran roh jahat kali ini?",
       "th": "ฉันไม่ได้ทำอะไรเลยนี่นา แค่เดินเข้าไปในบ้านที่มีปีศาจร้ายอยู่ ปัญหาก็หมดไปแล้ว เรื่องเล็กน้อยอย่างงี้ คุณคิดว่าฉันควรรับเงินมั้ยล่ะ?",
       "vi": "Rõ ràng là không có làm gì, chỉ cần bước vào nhà là mọi việc được giải quyết. Bạn thấy ủy thác này có nên nhận hay không?"
@@ -760,7 +760,7 @@
       "de": "Wann immer es geht, vermeide ich Xinyans Auftritte und Umgebung. Diese aufgeheizte Atmosphäre, selbst wenn du nicht aktiv daran teilnimmst, du wirst trotzdem beeinflusst und es wird sehr schnell unbequem.",
       "es": "Siempre procuro evitar los conciertos de Xinyan a toda costa. Como en ellos la atmósfera se caldea tanto, siempre me afecta de un modo u otro aunque no tenga la intención de unirme... Digamos que hace que suba bastante mi temperatura...",
       "fr": "J'évite tous les spectacles de Xinyan comme la peste. L'atmosphère bouillante qui règne rend malade... même quand on ne se mêle pas aux spectateurs.",
-      "pt": "Eu me afasto o máximo possível dos espetáculos da Xinyan. A atmosfora tão calorosa... Embora não eu não queira me envolver, é difícil evitar. Quer dizer, me sinto incomodado e quente.",
+      "pt": "Eu me afasto o máximo possível dos espetáculos da Xinyan. A atmosfera tão calorosa... Embora não eu não queira me envolver, é difícil evitar. Quer dizer, me sinto incomodado e quente.",
       "ru": "Я ни в коем случае не приближусь к выступлению Синь Янь. Эта зажигательная атмосфера... Даже не желая того, сложно удержаться... Короче говоря, не нравится мне всё это.",
       "id": "Aku berusaha keras menghindari area pertunjukan Xinyan. Suasana hiruk pikuk di sana tanpa sengaja akan membuatku terpengaruh. Maksudku, suasananya membuatku merasa tidak nyaman.",
       "th": "ฉันจะพยายามหลีกเลี่ยงพื้นที่ที่ Xinyan แสดงอยู่ให้ไกลที่สุด บรรยากาศที่อบอุ่นเช่นนี้ แม้ว่าคุณจะบังเอิญผ่านมา แต่ก็ยากที่จะหลีกเลี่ยงอิทธิพลของมัน... ฉันหมายถึง มันทำให้คนอึดอัดน่ะ",
@@ -833,8 +833,40 @@
   },
   {
     "title": {
+      "zhs": "关于夜兰…",
+      "zht": "關於夜蘭…",
+      "jp": "夜蘭について…",
+      "ko": "야란에 대해…",
+      "en": "About Yelan",
+      "de": "Über Yelan ...",
+      "es": "Sobre Yelan...",
+      "fr": "À propos de Yelan...",
+      "pt": "Sobre Yelan...",
+      "ru": "О Е Лань...",
+      "id": "Tentang Yelan",
+      "th": "เกี่ยวกับ Yelan...",
+      "vi": "Về Yelan..."
+    },
+    "line": {
+      "zhs": "我初任方士那会儿，受邀到委托人家中驱邪，离开时，曾撞见过这位女性。她把我的名字记在某个小册子里，或许是想确认我有没有做值得怀疑的事吧。不过就那一次，后来再没遇见过她。\n\n现在想想，大概是因为我平日打坐总是一动不动，谁看着都会觉得无趣吧。",
+      "zht": "我初任方士那時，受邀到委託人家中驅邪，離開時，曾撞見過這位女性。她把我的名字記在某本小冊子裡，或許是想確認我有沒有做值得懷疑的事吧。不過就那一次，後來再沒遇見過她。\n\n現在想想，大概是因為我平日打坐總是一動不動，誰看著都會覺得無趣吧。",
+      "jp": "方士になったばかりの頃、依頼人の家に妖魔を退治しに行ったことがある。その帰り際に、この女性と出くわした。彼女はぼくの名をある冊子に書き、何か怪しいことをしていないか確認していたようだ…でも、それ以降は遭遇していない。\n\n今にして思えば、普段のぼくはいつも静かに坐禅を組んでいるし、誰が見てもつまらないと思っただろう。",
+      "ko": "처음 도사가 됐을 무렵 퇴마를 하러 의뢰인 집에 갔다 오는 길에 그 여자분을 만난 적이 있어. 내 이름을 작은 수첩에 적어놓더라고. 내가 수상한 짓을 했는지 확인하려던 걸지도 몰라…. 그때 이후로는 만난 적이 없어.\n\n지금 생각해 보니까, 내가 평소 명상할 때 꼼짝도 안 해서 그랬던 것 같아. 누가 봐도 재미없어 보일 거야",
+      "en": "I met her once, back when I'd just become an exorcist. I'd taken a commission to perform an exorcism in someone's home, and was just leaving at the end when I ran into her. She wrote my name down in a booklet — I guess she just wanted to confirm I wasn't doing anything suspicious... Anyway, it was just that one time, I never saw her again after that.\n\nNow that I think about it, it's probably because the sight of me meditating motionless must be pretty boring to watch. Not exactly suspicious.",
+      "de": "Ganz am Anfang, als ich Mystiker wurde, wurde ich in das Haus eines Auftraggebers eingeladen, um einen bösen Geist zu exorzieren, und auf dem Weg nach Hause traf ich diese Frau. Sie hat meinen Namen in ein Heft geschrieben, vielleicht um sicherzustellen, dass ich nichts Verdächtiges getan hatte. Aber das war das einzige Mal und ich habe sie nie wieder getroffen.\n\nWenn ich jetzt darüber nachdenke, lag es wohl daran, dass ich während meiner Meditation immer still war, was für jeden, der mich ansah, langweilig gewesen wäre.",
+      "es": "La conocí cuando acababa de convertirme en exorcista. Acepté un encargo para hacer un exorcismo en una casa y, justo cuando me iba a marchar, me encontré con ella. Entonces, escribió mi nombre en un cuaderno. Supongo que solo quería asegurarse de que no estaba haciendo nada sospechoso... El caso es que no la he vuelto a ver desde aquella ocasión.\n\nAhora que lo pienso, tal vez sea porque verme quieto meditando debe de ser bastante aburrido. Desde luego que no es precisamente sospechoso...",
+      "fr": "Je l'ai rencontrée une fois, à l'époque où je venais de devenir exorciste. J'avais reçu pour mission d'effectuer un exorcisme chez quelqu'un, et je l'ai vue sur le chemin du retour. Elle a écrit mon nom dans un livret, je suppose qu'elle voulait juste confirmer que je ne faisais rien de suspect... Quoi qu'il en soit, on s'est juste croisés cette fois-là, je ne l'ai plus jamais revue après ça.\n\nMaintenant que j'y pense, c'est probablement parce que me regarder m'asseoir et méditer doit être assez ennuyeux.",
+      "pt": "Eu a conheci quando havia me tornado um exorcista. Aceitei uma missão para realizar um exorcismo na casa de uma pessoa, e estava saindo quando me deparei com ela. Ela escreveu meu nome em um caderno, acho que queria confirmar que eu não estava fazendo nada suspeito... De qualquer forma, foi somente esta vez, e nunca a vi depois disso.\n\nAgora que penso nisso, provavelmente é porque me ver meditando sem fazer um movimento deve ser algo muito entediante. Não é exatamente algo suspeito.",
+      "ru": "Мы встречались однажды, когда я только-только стал экзорцистом. Я получил заказ на проведение экзорцизма в одном доме, и уже собирался уходить, когда столкнулся с ней. Она записала моё имя. Думаю, она просто хотела убедиться, что я не делал ничего подозрительного... В общем, больше мы не встречались. \n\nНаверное, смотреть на медитирующего меня было очень скучно. Ничего подозрительного.",
+      "id": "Aku pernah bertemu dengannya sekali waktu baru jadi pengusir roh jahat. Aku dapat tugas mengusir roh jahat di rumah orang, lalu ketemu dia tepat saat aku meninggalkan rumah itu. Dia menulis namaku di buku kecil. Mungkin dia cuma mau pastikan aku tidak melakukan hal yang mencurigakan? Setelah itu, aku tidak pernah bertemu dengannya lagi.\n\nKalau dipikir-pikir, mungkin dia bosan nonton aku meditasi dan tidak bergerak sama sekali. Tidak mencurigakan juga.",
+      "th": "ตอนที่ฉันเพิ่งเริ่มเป็นนักปราบปีศาจครั้งแรก ก็ได้รับคำเชิญให้ไปขับไล่วิญญาณชั่วร้ายที่บ้านของคนที่ส่งคำขอมา ตอนที่ออกมาก็ชนกับคุณผู้หญิงคนนี้ เธอเขียนชื่อฉันลงในหนังสือเล่มเล็ก บางทีก็เพื่อเช็คให้แน่ใจว่าฉันไม่ได้ทำอะไรที่น่าสงสัยละมั้ง หลังจากครั้งนั้น ฉันก็ไม่เคยเห็นเธออีกเลย\n\nตอนนี้พอมาคิด ๆ ดูแล้ว อาจจะเป็นเพราะในวันปกติธรรมดา ฉันก็จะนั่งทำสมาธิไม่ขยับไปไหน ใครดูก็คงรู้สึกน่าเบื่อแหละ",
+      "vi": "Khi tôi vừa hành nghề phương sĩ, có nhận được ủy thác trừ tà, khi rời khỏi đó tôi có gặp qua cô ta. Cô ta viết tên tôi vào trong sổ tay, có lẽ là muốn xác nhận xem tôi có chuyện gì đáng ngờ không. Nhưng sau hôm đó đã không còn gặp lại cô ta nữa.\n\nGiờ nghĩ lại, có lẽ do tôi thường ngày hay yên lặng ngồi thiền nên người ta cảm thấy vô vị chăng."
+    }
+  },
+  {
+    "title": {
       "zhs": "想要了解重云·其一",
-      "zht": "想要瞭解重雲·其一",
+      "zht": "想要瞭解重云·其一",
       "jp": "重雲を知る·1",
       "ko": "중운에 대해 알기·첫 번째",
       "en": "More About Chongyun: I",
@@ -843,30 +875,30 @@
       "fr": "Connaître Chongyun (1)",
       "pt": "Mais sobre Chongyun - I",
       "ru": "Узнать больше о Чун Юне I",
-      "id": "Mengenal Chongyun: I",
-      "th": "อยากรู้เกี่ยวกับ Chongyun - 1",
+      "id": "Mengenal Chongyun - I",
+      "th": "อยากรู้เกี่ยวกับ Chongyun-1",
       "vi": "Muốn tìm hiểu Chongyun - Điều 1"
     },
     "line": {
       "zhs": "本事很重要，不然空有热血，只会坏事。对于这点，我深有体会。啊，倒不是我自己的体会，呃…是近年行走璃月，观看人间百态的感悟。",
       "zht": "本事很重要，不然空有熱血，只會壞事。對於這點，我深有體會。啊，倒不是我自己的體會，呃…是近年行走璃月，觀看人間百態的感悟。",
       "jp": "実力は大事だ。熱意だけがあっても、状況を悪くする一方になる。ぼくはこれについて、深く理解しているつもりだ。あっ、ぼく自身の経験ではなく、えっと…近年ぼくが璃月を回って人間観察してきた結論だ。",
-      "ko": "열정만 있고 실력은 없다면 일을 그르칠 뿐이야. 이 점은 내가 잘 알지. 아, 내 경험이란 건 아니야. 어… 리월에서 몇 년 동안 세상만사를 보면서 얻은 깨달음이랄까…",
+      "ko": "열정만 있고 실력은 없다면 일을 그르칠 뿐이야. 이 점은 내가 잘 알지. 아, 내 경험이란 건 아니야. 어…리월에서 몇 년 동안 세상만사를 보면서 얻은 깨달음이랄까…",
       "en": "Discipline is everything. Unbridled passion can have disastrous consequences. Trust me, I would know. ...Oh, no no no, not from personal experience, of course. Haha... Uh... I'm just stating my observations from what I've seen in my travels around Liyue.",
       "de": "Fähigkeiten sind sehr wichtig, aber man muss sich auch kontrollieren können, sonst passieren schlechte Dinge. Da spreche ich aus Erfahrung. Zwar nicht aus eigener, aber man kriegt in den Jahren so einiges mit in Liyue.",
-      "es": "La disciplina lo es todo. La pasión desenfrenada puede tener consecuencias desastrosas. Confía en mí, sé lo que digo. Oh, no, no por experiencia propia, por supuesto. Jeje... Solo son observaciones personales de mis viajes por Liyue.",
+      "es": "La disciplina lo es todo. La pasión desenfrenada puede tener consecuencias desastrosas. Confía en mí, sé lo que digo. Oh, no, no por experiencia personal, por supuesto. Jeje... Solo son observaciones personales de mis viajes por Liyue.",
       "fr": "Il est très important de toujours faire preuve de discipline. Une passion déchaînée peut mener à des conséquences désastreuses. Crois-moi, j'en sais quelque chose... Ah, il ne s'agit pas du tout d'une expérience personnelle, mais plutôt un constat général tiré de mes voyages à Liyue.",
       "pt": "Disciplina é tudo. A paixão desenfreada pode ter consequências desastrosas. Confie em mim, eu saberia. ...Oh, não, não, não, não por experiência pessoal, é claro. Haha... Uh.... Estou apenas comentando sobre minhas observações pelo que vi em minhas viagens por Liyue.",
       "ru": "Дисциплина превыше всего. Без неё горячность приведёт лишь к беде. Уж я-то знаю. Эм, в смысле, не на собственном опыте, конечно... Э... я много путешествовал по Ли Юэ и всякого навидался.",
-      "id": "Kemampuan sangatlah penting, semangat tinggi pun sia-sia saja bila tak mampu. Aku tahu ini dari pengalaman. Oh, bukan, bukan aku sendiri yang mengalaminya sih. Haha, aku cuma menarik kesimpulan dari pengamatanku selama berkelana keliling Liyue.",
+      "id": "Kemampuan itu penting, kalau cuma semangat tapi tidak mampu, hasilnya pasti jelek. Aku tahu jelas ... Ah, bukan pengalaman pribadi kok, hahaha. Ini cuma kesimpulan yang aku dapat setelah berkelana keliling Liyue.",
       "th": "วินัยคือสิ่งสำคัญ หากเลือดร้อนโดยไร้การควบคุมจะ ส่งผลกระทบร้ายแรง เชื่อฉันสิฉันจะรู้... โอ้ ไม่ ๆ ไม่ใช่จากประสบการณ์ส่วนตัวแน่นอน ฮ่า ๆ... เอ่อ... ฉันแค่สังเกตจากสิ่งที่ฉันได้เห็นใน การเดินทางของฉันรอบ Liyue น่ะ",
-      "vi": "Điều quan trọng nhất là cần có bản lĩnh, chỉ dựa vào nhiệt huyết chắc chắn sẽ xảy ra việc xấu. Chính tôi đã phải nếm trái đắng đó. Hả, đó không chỉ là đúc kết của riêng tôi, haizz... Thật ra đó là cảm nhận sau vài năm đi khắp Liyue, trải qua nhiều sự việc sự vật."
+      "vi": "Điều quan trọng nhất là cần có bản lĩnh, chỉ dựa vào nhiệt huyết chắc chắn sẽ xảy ra việc xấu. Chính tôi đã phải nếm trái đắng đó. Hả, không chỉ là đúc kết của riêng tôi, haizz... Thật ra đó là cảm nhận sau vài năm đi khắp Liyue, trải nghiệm tình người thiên biến vạn hóa mà ra."
     }
   },
   {
     "title": {
       "zhs": "想要了解重云·其二",
-      "zht": "想要瞭解重雲·其二",
+      "zht": "想要瞭解重云·其二",
       "jp": "重雲を知る·2",
       "ko": "중운에 대해 알기·두 번째",
       "en": "More About Chongyun: II",
@@ -875,22 +907,22 @@
       "fr": "Connaître Chongyun (2)",
       "pt": "Mais sobre Chongyun - II",
       "ru": "Узнать больше о Чун Юне II",
-      "id": "Mengenal Chongyun: II",
-      "th": "อยากรู้เกี่ยวกับ Chongyun - 2",
+      "id": "Mengenal Chongyun - II",
+      "th": "อยากรู้เกี่ยวกับ Chongyun-2",
       "vi": "Muốn tìm hiểu Chongyun - Điều 2"
     },
     "line": {
       "zhs": "我天生是「纯阳之体」，据说千年难遇，所有鬼怪对我退避三舍。唉…这其实一点都不好，哪有见不着鬼怪的驱邪方士。",
       "zht": "我天生是「純陽之體」，據說千年難遇，所有鬼怪對我退避三舍。唉…這其實一點都不好，哪有見不到鬼怪的驅邪方士。",
       "jp": "ぼくは生まれつき、千年に一人と言われる「純陽の体」の持ち主でね、怪異がぼくを恐れて避けるんだ。はあ…全然良くないよ、怪異を見たことない妖魔退治の方士なんていないだろ。",
-      "ko": "난 선천적으로 「양기가 넘치는 체질」이야. 천년에 한 번 나올까 말까 한데, 모든 요괴는 나만 보면 달아나 버리지. 휴… 사실 좋은 일은 아니야, 요괴를 만나지 못하는 퇴마 도사라니",
-      "en": "I was born with a pure-yang spirit, meaning I have too much yang energy... Apparently it's so rare it only happens once every thousand generations or so. It means I repel all evil for miles around... *sigh* Actually, that's a bad thing. I must be the only exorcist in history who can't get within ten miles of an evil spirit.",
+      "ko": "난 선천적으로 「양기가 넘치는 체질」이야. 천년에 한 번 나올까 말까 한데, 모든 요괴는 나만 보면 달아나 버리지. 휴…사실 좋은 일은 아니야, 요괴를 만나지도 못하는 퇴마 도사라니",
+      "en": "I was born with something called congenital positivity, meaning I have too much positive energy... Apparently it's so rare it only happens once every thousand generations or so. It means I repel all evil for miles around... *sigh* Actually, that's a bad thing. I must be the only exorcist in history who can't get within ten miles of an evil spirit.",
       "de": "Ich wurde mit einer sogenannten „Yang-Lastigkeit“ geboren, das heißt zu viel positive Energie. Angeblich passiert so etwas nur alle tausend Jahre einmal. Es bewirkt, dass alle Geister in einem Radius von einer Meile von mir verdrängt werden. Wo gibt es denn sowas, ein Mystiker, der sich nicht in die Nähe von Geistern begeben kann?",
-      "es": "Nací con algo llamado “positividad congénita”. Significa que tengo demasiada energía positiva... Aparentemente, es tan raro que solo ocurre una vez cada mil generaciones más o menos. Significa que puedo repeler todo el mal en millas a la redonda... *Suspira*, en realidad, no es bueno. Debo ser el único exorcista en la historia que no puede acercarse a un espíritu maligno a menos de diez millas.",
+      "es": "Nací con algo llamado “Positividad Congénita”, significa que tengo demasiada energía positiva... Aparentemente es tan raro que solo ocurre una vez cada mil generaciones, más o menos. Significa que puedo repeler todo mal en millas a la redonda... *Suspira* En realidad, no es bueno. Debo ser el único exorcista en la historia que no puede acercarse a un espíritu maligno a menos de diez millas.",
       "fr": "Je suis né avec une énergie positive débordante. C'est une condition qu'on observe environ tous les mille ans chez un nourrisson. Cela signifie que je peux repousser les esprits maléfiques sans bouger le petit doigt... *soupir* Je dois sans doute être le premier exorciste qui n'en a jamais vu de sa vie...",
       "pt": "Eu nasci com um Psíquico Yang Puro, que alegadamente é extremamente raro, e que ajuda a afastar todos os monstros. Ugh... isso na verdade é um problema para mim, visto que sou um exorcista, mas não consigo ver nenhum monstro.",
-      "ru": "Я страдаю от врождённого избытка энергии Ян в организме... Это явление настолько редкое, что возникает раз в тысячу поколений. Из-за него все злые духи разбегаются, едва завидев меня... Эх, в этом нет ничего хорошего. Я, наверное, единственный экзорцист, который ни разу не видел злого духа.",
-      "id": "Aku terlahir dengan Luapan Energi Yang. Artinya aku punya terlalu banyak energi Yang ... Katanya, fenomena ini sangat langka dan mungkin hanya terjadi sekali dalam seribu generasi. Akibatnya, roh jahat takut padaku, dan mereka bakal jaga jarak sejauh mungkin kalau ada aku ... Haah, Sebenarnya ini tidak bagus. Mana ada pengusir roh jahat yang tidak pernah bertemu dengan roh jahat?",
+      "ru": "Говорят, что такая способность, как у меня, называется «чистой энергией Ян» и появляется раз в тысячу поколений. Из-за неё все злые духи разбегаются, едва завидев меня... Эх, в этом нет ничего хорошего. Я, наверное, единственный экзорцист, который ни разу не видел призрака.",
+      "id": "Aku lahir dengan tubuh yang penuh \"Luapan Energi Yang\". Kondisi ini sangat langka, cuma ada sekali setiap seribu tahun. Semua roh jahat takut dan berusaha untuk jaga jarak sejauh-jauhnya ... *huff* Tidak bagus. Mana ada pengusir roh jahat yang tidak bisa dekat-dekat sama roh jahat?",
       "th": "ฉันเกิดมาพร้อมกับ \"ร่างกายแห่งหยางบริสุทธิ์\" ว่ากันว่ามันหายากมาก ในรอบพันปีถึงจะมีสักครั้ง นี่ทำให้พวกปีศาจทั้งหลายต่างพา กันหนีให้ไกลจากฉัน เฮ้อ... แบบนี้ไม่ดีเลยสักนิด นักปราบปีศาจแบบไหนกันที่ไม่เคย เจอปีศาจแม้แต่ตัวเดียว",
       "vi": "Tôi từ khi sinh ra đã có \"Thuần Dương Chi Thể\", tương truyền nghìn năm mới xuất hiện một lần thế nên toàn bộ ma quái đều bị tôi dọa chạy mất rồi. Haizz... Điều này thật không may, làm gì có phương sĩ nào lại chưa từng nhìn thấy yêu ma như tôi chứ."
     }
@@ -898,7 +930,7 @@
   {
     "title": {
       "zhs": "想要了解重云·其三",
-      "zht": "想要瞭解重雲·其三",
+      "zht": "想要瞭解重云·其三",
       "jp": "重雲を知る·3",
       "ko": "중운에 대해 알기·세 번째",
       "en": "More About Chongyun: III",
@@ -907,22 +939,22 @@
       "fr": "Connaître Chongyun (3)",
       "pt": "Mais sobre Chongyun - III",
       "ru": "Узнать больше о Чун Юне III",
-      "id": "Mengenal Chongyun: III",
-      "th": "อยากรู้เกี่ยวกับ Chongyun - 3",
+      "id": "Mengenal Chongyun - III",
+      "th": "อยากรู้เกี่ยวกับ Chongyun-3",
       "vi": "Muốn tìm hiểu Chongyun - Điều 3"
     },
     "line": {
       "zhs": "「纯阳之体」常常导致热血太盛，没少害我出糗。我不食辛辣高温、出门撑伞、回避激荡的音律，就是为了克制它。唉…什么时候这体质才能不妨碍我呢？",
       "zht": "「純陽之體」常常導致熱血太盛，沒少害我出糗。我不食辛辣高溫、出門撐傘、回避激蕩的音律，就是為了克制它。唉…什麼時候這體質才能不妨礙我呢？",
       "jp": "「純陽の体」はのぼせやすくてね、そのせいでいろいろとやらかしてきたよ。ぼくが辛いものや熱いものを食べず、出かけるときに傘を差したり、激しい音楽を避けたりするようになったのはそれを抑えるためなんだ。いつになったら、この体質はぼくの邪魔をしなくなるんだろう？",
-      "ko": "「양기가 넘치는 체질」 때문에 항상 열기가 넘쳐서 망신을 당한 적이 한두번이 아니야. 내가 맵고 뜨거운 음식을 먹지 않고, 외출할 때 항상 우산을 쓰고, 격동적인 음악을 피해 다니는 건 모두 양기를 억제하기 위해서지. 휴… 언제쯤 이 체질에 익숙해 질 수 있을까?",
-      "en": "One of the main consequences of having a pure-yang spirit is excess passion, something which has gotten me into many embarrassing situations. In an effort to counteract my yang energy, I have to abstain from eating chilis and all hot food. I also have to take a parasol with me everywhere, and I avoid listening to rousing music. I wonder, will I ever find a way to work around my condition?",
+      "ko": "「양기가 넘치는 체질」 때문에 항상 열기가 넘쳐서 망신을 당한 적이 한두번이 아니야. 내가 맵고 뜨거운 음식을 먹지 않고, 외출할 때 항상 우산을 쓰고, 격동적인 음악을 피해 다니는 건 모두 양기를 억제하기 위해서지. 휴…언제쯤 이 체질에 익숙해 질 수 있을까?",
+      "en": "One of the main symptoms of congenital positivity is excess passion, something which has gotten me into many embarrassing situations. In an effort to alleviate these symptoms, I have to abstain from eating chilis and all hot food. I also have to take a parasol with me everywhere, and I avoid listening to rousing music. I wonder, will I ever overcome my condition for good?",
       "de": "Eine Auswirkung der Yang-Lastigkeit ist die überschüssige Leidenschaft, was mich leider schon oft in peinliche Situationen gebracht hat. Um diese Wirkungen etwas zu unterdrücken, darf ich nichts scharf Gewürztes oder Heißes zu mir nehmen. Ein Sonnenschirm ist mein ständiger Begleiter und aufwühlende Musik vermeide ich ebenfalls. Ob ich das jemals überwinden werde?",
-      "es": "Uno de los principales síntomas de la positividad congénita es el exceso de pasión, algo que me ha llevado a muchas situaciones vergonzosas. En un esfuerzo por aliviar estos síntomas, debo abstenerme de comer chiles y cualquier comida caliente. También tengo que llevar una sombrilla conmigo a todas partes, y evito escuchar música muy animada. Me pregunto si alguna vez superaré mi condición de una vez por todas...",
+      "es": "Uno de los principales síntomas de la positividad congénita es el exceso de pasión, algo que me ha llevado a muchas situaciones vergonzosas. En un esfuerzo por aliviar estos síntomas, debo abstenerme de comer chiles y cualquier comida caliente. También tengo que llevar una sombrilla conmigo a todas partes, y evito escuchar música animada. Me pregunto, ¿alguna vez superaré mi condición de una vez por todas?",
       "fr": "L'un des principaux symptômes de l'énergie positive est l'excès de passion, qui m'a souvent mené à des situations embarrassantes. Pour le contrôler, je refuse de manger de la nourriture épicée, j'utilise une ombrelle quand je sors et j'évite même d'écouter de la musique dynamique... *soupir* Je me demande quand ce corps arrêtera d'être un obstacle...",
-      "pt": "Um dos principais sintomas do Psíquico Yang é o excesso de energia, algo que me colocou em muitas situações embaraçosas. Num esforço para aliviar estes sintomas, tenho que me abster de comer pimentas e toda comida quente. Também tenho que levar um guarda-sol comigo para todos os lugares, e evito ouvir música agitada. Será que alguma vez vou superar minha condição para sempre?",
-      "ru": "Избыток энергии Ян приводит к излишней вспыльчивости, из-за которой я не раз попадал в постыдные ситуации. Поэтому я не могу есть горячее и острое, всегда ношу с собой зонт и не слушаю зажигательную музыку. Эх... Когда же мне удастся избавиться от этого состояния?",
-      "id": "Akibat Luapan Energi Yang, aku mudah sekali terbakar semangat, bahkan kadang terlalu bersemangat. Ini sering jadi peristiwa yang membuatku malu. Demi melawan kondisiku ini, aku tidak makan yang pedas-pedas atau yang panas, ke mana-mana selalu bawa payung, dan selalu menyingkir kalau ada musik cadas dan keramaian. Aku sering berandai-andai, bisa tidak ya aku menemukan cara untuk mengatasi kondisi ini?",
+      "pt": "Esse Psíquico Yang Puro me deixou energético demais, e muitas vezes me deixou envergonhado. Para contê-lo, eu me recuso a comer comida picante, uso guarda-chuva ao sair, evito a música com ritmo forte. *Suspiro* Quando esse corpo pode parar de me incomodar?",
+      "ru": "«Чистая энергия Ян» приводит к излишней горячности, из-за которой я не раз попадал в постыдные ситуации. Поэтому я не ем горячего и острого, всегда ношу зонтик и не слушаю зажигательную музыку. Эх... Когда же она перестанет меня мучить?",
+      "id": "Salah satu efek \"Luapan Energi Yang\" adalah darah panas. Semangatku kadang terlalu membara, dan aku sering kena kejadian yang memalukan gara-garanya. Supaya tidak terlalu parah, aku tidak boleh makan pedas, harus bawa payung ke mana-mana, tidak boleh dengar musik yang terlalu semangat ... Duh, kapan ya aku bisa lepas dari kondisi ini?",
       "th": "\"ร่างกายแห่งหยางบริสุทธิ์\" มักจะทำให้เลือดร้อนเกินไป และมักจะทำให้ฉันต้องอับอาย อยู่บ่อย ๆ เพื่อหลีกเลี่ยงการกระตุ้นอาการนี้ ฉันต้องไม่กินอาหารรสเผ็ด หรืออาหารร้อน กางร่มทุกครั้งที่ออกจากบ้าน เพื่อให้สามารถควบคุมมันได้ เฮ้อ... เมื่อไรร่างกายนี้ถึงจะเลิกเป็น อุปสรรคต่อฉันสักที",
       "vi": "Thuần Dương Chi Thể thường khiến máu nóng trong người tôi dâng cao, nhiều lần làm tôi bẽ mặt. Tôi không ăn cay, ra khỏi nhà phải cầm ô, tránh những âm thanh gây kích động, tất cả là để khống chế nó. Đến khi nào thể chất đặc biệt này mới không ảnh hưởng đến tôi nữa đây?"
     }
@@ -930,7 +962,7 @@
   {
     "title": {
       "zhs": "想要了解重云·其四",
-      "zht": "想要瞭解重雲·其四",
+      "zht": "想要瞭解重云·其四",
       "jp": "重雲を知る·4",
       "ko": "중운에 대해 알기·네 번째",
       "en": "More About Chongyun: IV",
@@ -939,22 +971,22 @@
       "fr": "Connaître Chongyun (4)",
       "pt": "Mais sobre Chongyun - IV",
       "ru": "Узнать больше о Чун Юне IV",
-      "id": "Mengenal Chongyun: IV",
-      "th": "อยากรู้เกี่ยวกับ Chongyun - 4",
+      "id": "Mengenal Chongyun - IV",
+      "th": "อยากรู้เกี่ยวกับ Chongyun-4",
       "vi": "Muốn tìm hiểu Chongyun - Điều 4"
     },
     "line": {
       "zhs": "坐等妖邪现身是没用的，得主动寻访。我为璃月人镇邪，于人能免去烦愁，于我也能广开视野。如果你遇到邪祟搅扰，我一定也会立刻来帮你。",
       "zht": "#坐等妖邪現身是沒用的，得主動尋訪。我為璃月人鎮邪，於人能免去煩愁，於我也能廣開視野。如果{F#妳}{M#你}遇到邪祟攪擾，我一定也會立刻來幫{F#妳}{M#你}。",
       "jp": "ただ座って妖魔が出るのを待つんじゃダメだ、自分から探しに行かないと。ぼくは璃月の人々のため妖魔退治をしている。みんなの悩みの種を摘むことが、ぼく自身の視野を広げることにつながっているんだ。お前も妖魔で困ったことがあったら言ってくれ、ぼくがすぐに駆け付けるよ。",
-      "ko": "앉아서 요마가 나타나기만을 기다리는 건 소용없어, 직접 찾아다녀야지. 내가 리월 사람들을 위해 악한 존재를 물리치고 다니는 건, 사람들의 근심을 덜어줄 수도 있고 내 견문을 넓힐 수도 있가 때문이야. 만약 악령들이 널 괴롭힌다면, 내가 반드시 널 도와주러 올게",
+      "ko": "앉아서 요마가 나타나기만을 기다리는 건 소용없어, 직접 찾아다녀야지. 내가 리월 사람들을 위해 악한 존재를 물리치고 다니는건, 사람들의 근심을 덜어줄 수도 있고 내 견문을 넓힐 수도 있가 때문이야. 만약 악령들이 널 괴롭힌다면, 내가 반드시 널 도와주러 올게",
       "en": "Waiting for evil to show up at the doorstep will get you nowhere — you have to go out and hunt it down. By purging Liyue of evil spirits, I bring peace of mind to people and also broaden my horizons. If an evil spirit ever bothers you, just let me know. I'll come and help you out right away.",
       "de": "Einfach nur herumzusitzen und darauf zu warten, dass das Böse zu einem kommt, bringt überhaupt nichts. Du musst dich auf die Suche danach machen. Indem ich Liyue von bösen Geistern befreie, helfe ich nicht nur den Bewohnern, sondern erweitere auch noch meinen Horizont. Solltest du jemals von einem Geist geplagt werden, du weißt, wo du mich findest.",
-      "es": "Esperar a que aparezca el mal y toque a tu puerta no te llevará a ninguna parte. Tienes que salir tú a cazarlo. Al purgar a Liyue de espíritus malignos, traigo tranquilidad a las personas y también amplío mis horizontes. Si alguna vez te molesta un espíritu maligno, avísame. Iré a ayudarte de inmediato.",
+      "es": "Esperar a que aparezca el mal y toque a tu puerta no te llevará a ninguna parte. Tienes que salir y cazarlo. Al purgar a Liyue de los espíritus malignos, traigo tranquilidad a las personas y también amplío mis horizontes. Si alguna vez te molesta un espíritu maligno, avísame. Iré y te ayudaré de inmediato.",
       "fr": "Attendre les attaques des esprits maléfiques ne mène à rien, il faut les chasser activement. En les exorcisant, j'apporte la paix à travers Liyue tout en élargissant mes horizons. Fais-moi savoir si jamais l'un d'entre eux te dérange, je t'en débarrasserais immédiatement.",
       "pt": "Esperar que o mal apareça à porta não vai te levar a lugar nenhum - você tem que sair e caçá-lo. Ao purificar Liyue dos espíritos malignos, trago paz de espírito às pessoas e também amplio meus horizontes. Se um espírito maligno alguma vez o incomodar, é só me avisar. Eu irei e o ajudarei imediatamente.",
       "ru": "Бесполезно сидеть и ждать, пока зло покажется, нужно самому выслеживать его. Изгоняя призраков, я охраняю спокойствие жителей Ли Юэ и расширяю свой кругозор. Если кого-то беспокоит злой дух, то я обязательно приду на помощь.",
-      "id": "Menunggu roh jahat muncul itu tak ada gunanya, mereka harus dicari. Aku melakukan ini demi Liyue, agar orang-orang tidak hidup dalam keresahan, sambil sekalian menambah wawasanku. Kalau ada roh jahat yang mengganggumu, bilang saja. Aku akan bantu mengusirnya.",
+      "id": "Percuma saja menunggu roh jahat datang, harus kita sendiri yang keluar cari. Mengusir roh jahat yang gentayangan di Liyue berarti membawa kedamaian bagi orang-orang, dan juga bisa menambah wawasan. Kalau ada roh jahat yang ganggu kamu, langsung saja kasih tahu. Aku akan datang mengusir mereka.",
       "th": "ไม่มีประโยชน์ที่จะรอให้ปีศาจ ปรากฏกายขึ้น คุณต้องไปตามหาพวกมันเอง ฉันกำจัดความชั่วร้ายให้ชาว Liyue เพื่อให้พวกเขาไม่ต้องกังวลอีก และขยายขอบเขตของฉันไปเรื่อย ๆ หากคุณพบปีศาจละก็บอกฉันได้เลย ฉันจะมาช่วยคุณทันที",
       "vi": "Chỉ ngồi đợi ma quỷ hiện hình thì sẽ chẳng có tác dụng, chi bằng chủ động đi tìm chúng. Tôi giúp người dân Liyue trừ tà một là để xóa bỏ những phiền phức chúng gây cho dân thường, hai là để mở rộng tầm mắt. Nếu có yêu ma quấy rầy, tôi nhất định sẽ giúp đỡ bạn."
     }
@@ -962,7 +994,7 @@
   {
     "title": {
       "zhs": "想要了解重云·其五",
-      "zht": "想要瞭解重雲·其五",
+      "zht": "想要瞭解重云·其五",
       "jp": "重雲を知る·5",
       "ko": "중운에 대해 알기·다섯 번째",
       "en": "More About Chongyun: V",
@@ -971,22 +1003,22 @@
       "fr": "Connaître Chongyun (5)",
       "pt": "Mais sobre Chongyun - V",
       "ru": "Узнать больше о Чун Юне V",
-      "id": "Mengenal Chongyun: V",
-      "th": "อยากรู้เกี่ยวกับ Chongyun - 5",
+      "id": "Mengenal Chongyun - V",
+      "th": "อยากรู้เกี่ยวกับ Chongyun-5",
       "vi": "Muốn tìm hiểu Chongyun - Điều 5"
     },
     "line": {
       "zhs": "剿灭天下妖邪是我身为方士的最终目标，将来这个宏愿实现之后，不管是温泉、绝云椒椒还是别的什么…热血刺激的东西，我其实…都可以考虑。唔…不行。这样想想就会有些激动…不好不好。",
       "zht": "剿滅天下妖邪是我身為方士的最終目標，將來這個宏願實現之後，不管是溫泉、絕雲椒椒還是別的什麼…熱血刺激的東西，我其實…都可以考慮。唔…不行。這樣想想就會有些激動…不好不好。",
       "jp": "世にはびこる妖魔を殲滅することが、方士としてのぼくの最終目標だ。この願いさえ実現できれば、温泉も絶雲の唐辛子も、血が上るような刺激的なものも…受け入れてみよう。…うーん、やっぱりだめだ。考えただけで血が上りそうだ…いけない。",
-      "ko": "천하의 모든 요마를 제거하는 게 바로 도사로서의 최종 목표야. 언젠가 이걸 이루고 나면, 온천이든 절운고추든… 모든 뜨겁고 자극적인 것들을 다… 시도해주겠어. 음… 안 되겠다. 생각만으로도 감정이 격해지는데… 이러면 안 돼",
+      "ko": "천하의 모든 요마를 제거하는 게 바로 도사로서의 최종 목표야. 언젠가 이 목표를 이루고, 온천이든 절운고추든…뜨겁고 자극적인 건 모두다…해보겠어. 음…안되겠다. 상상만으로도 감정이 격해지는군…이러면 안 돼",
       "en": "To permanently banish the forces of evil from the world is my ultimate goal as an exorcist. If that grand day ever comes, I suppose I should be able to consider trying many new things, such as hot springs, Jueyun Chilis, and... partaking in other activities of a more passionate nature. Ugh, what am I doing... Ugh, I shouldn't be dwelling on these things, even thinking about them is too stimulating for me...",
       "de": "Alles Böse vom Antlitz der Welt zu tilgen, ist mein ultimatives Ziel. Sollte dieser Tag jemals kommen, so sollte ich endlich in der Lage sein die Dinge auszuprobieren, die ich bisher meiden musste, wie heiße Quellen, Jueyun-Peperoni und andere Aktivitäten, die etwas leidenschaftlicher ausfallen können. Aber was tue ich da nur ... allein daran zu denken, bringt mein Blut in Wallung ... Nicht gut, gar nicht gut.",
-      "es": "Desterrar el mal del mundo para siempre es mi objetivo final como exorcista. Si ese gran día llega, supongo que podré probar muchas cosas nuevas, como las aguas termales, los chiles de Jueyun y... participar en otras actividades más emocionantes. *Suspira*, ¿qué estoy haciendo? No debería pensar en estas cosas. El simple hecho de hacerlo ya hace que me encienda...",
+      "es": "Desterrar el mal del mundo para siempre es mi objetivo final como exorcista. Si ese gran día llega, supongo que podré probar muchas cosas nuevas, como las aguas termales, los chiles de Jueyun y... participar en otras actividades más emocionantes. *Suspira* ¿Qué estoy haciendo? No debería pensar en estas cosas. El simple hecho de hacerlo ya hace que me encienda...",
       "fr": "Mon objectif en tant qu'exorciste est de me débarrasser de tout le mal qui ronge ce monde. Le jour où j'y arriverai, je pourrais essayer beaucoup de nouvelles choses comme me baigner dans des thermes, manger des piments de Jueyun et autres activités... Pourquoi suis-je en train de penser à ça ? Je ne devrais pas !",
-      "pt": "Banir permanentemente as forças do mal do mundo é meu objetivo final como exorcista. Se esse grande dia chegar, suponho que eu deveria ser capaz de pensar em tentar muitas coisas novas, tais como fontes termais, Pimenta de Jueyun e... Participar de outras atividades de natureza mais apaixonada. Ugh, o que estou fazendo... Ugh, eu não deveria me preocupar com essas coisas, até mesmo pensar nelas é muito estimulante para mim...",
+      "pt": "Banir permanentemente as forças do mal do mundo é meu objetivo final como exorcista. Se esse grande dia chegar, suponho que eu deveria ser capaz de pensar em tentar muitas coisas novas, tais como me banhar nas fontes termais, comer Pimenta de Jueyun e... Participar de outras atividades de natureza mais apaixonada. Ugh, o que estou fazendo... Ugh, eu não deveria pensar tanto em coisas desse gênero, até mesmo pensar nelas é muito estimulante para mim...",
       "ru": "Моя высшая цель как экзорциста - полностью избавить мир от злых духов. Если эта великая мечта исполнится, то я, возможно, смогу попробовать горячие источники, или заоблачный перчик, или... другие волнующие занятия... Ох, нет, нельзя. Даже думать об этом слишком волнующе... Нельзя.",
-      "id": "Sebagai seorang pengusir roh jahat, impianku adalah bisa mengusir semua roh jahat di seluruh dunia. Saat hari itu tiba, aku akan mencoba semua hal yang dulunya tidak bisa kulakukan. Aku akan berendam air panas, makan Jueyun Chili, dan kegiatan seru lainnya. Aku sebenarnya ... Aah, tidak, tidak boleh begini. Memikirkannya saja sudah langsung membakar semangatku ....",
+      "id": "Sebagai pengusir roh jahat, impianku adalah bisa membasmi semua roh jahat di seluruh dunia. Kalau hari itu tiba, aku ingin coba semua hal yang dulunya tidak bisa kulakukan. Berendam air panas, makan Jueyun Chili, dan aktivitas-aktivitas seru lainnya. Aku ... Uhh, tidak boleh. Tidak boleh begini, memikirkan yang seperti itu saja sudah terlalu \"menegangkan\" ....",
       "th": "การปราบปีศาจร้ายให้หมดไปจาก โลกอย่างถาวรคือเป้าหมายสูงสุด ของฉันในฐานะนักปราบปีศาจ ถ้าวันนั้นมาถึง ฉันคิดว่าฉันจะลองทำสิ่งใหม่ ๆ มากมายเช่น แช่น้ำพุร้อน กินพริก Jueyun Chili และเข้าร่วมกิจกรรมอื่น ๆ ที่... ทำให้เลือดร้อน จริง ๆ ฉัน... คิดไว้หมดแล้วล่ะ เอิ่ม... ไม่ได้ การคิดถึงสิ่งเหล่านี้จะเป็น การกระตุ้นสำหรับฉัน...",
       "vi": "Tiêu diệt toàn bộ yêu ma trong thiên hạ đó là mục tiêu duy nhất của phương sĩ tôi. Nếu hoàn thành tâm nguyện này, tôi sẽ suy nghĩ đến việc trải nghiệm ngâm mình vào nước khoáng nóng hay ăn ớt tuyệt vân... Để kích thích máu nóng trong cơ thể. Í... Nhưng mà như vậy có phải là quá kích động không.... Thế thì không được rồi."
     }
@@ -994,14 +1026,14 @@
   {
     "title": {
       "zhs": "重云的爱好…",
-      "zht": "重雲的愛好…",
+      "zht": "重云的愛好…",
       "jp": "重雲の趣味…",
-      "ko": "중운의 취미…",
-      "en": "Chongyun's Hobbies",
+      "ko": "중운의 취미...",
+      "en": "Chongyun's Hobbies...",
       "de": "Chongyuns Hobbys ...",
       "es": "Aficiones de Chongyun...",
       "fr": "Les loisirs de Chongyun...",
-      "pt": "Passatempos de Chongyun...",
+      "pt": "Hobbies de Chongyun...",
       "ru": "Хобби Чун Юня...",
       "id": "Hobi Chongyun",
       "th": "งานอดิเรกของ Chongyun...",
@@ -1011,25 +1043,25 @@
       "zhs": "我？嗯…我最喜欢的还是听说书。茶博士总是能把各种奇闻怪谈讲得惊心动魄。有空不妨一道去听听。",
       "zht": "我？嗯…我最喜歡的還是聽說書。茶博士總是能把各種奇聞怪談講得驚心動魄。有空不妨一道去聽聽。",
       "jp": "ぼく？ぼくは講談を聞くのが好きだ。茶博士の語る怪談話は、いつも聞く人を恐怖のどん底に突き落とす。時間があったら、ぜひとも聞いてみるといい。",
-      "ko": "나? 음… 난 이야기 듣는 걸 제일 좋아해. 차 명인 유소 씨는 각종 기이한 이야기를 생생하게 전해주시지. 시간 나면 꼭 한번 들어봐",
-      "en": "I like listening to Tea Master Liu's stories. His narration really brings the hair-raising tales of the supernatural to life. Why not come with me sometime?",
+      "ko": "나? 음…난 이야기 듣는 걸 제일 좋아해. 차 명인 유소 씨는 각종 기이한 이야기를 생생하게 전해주시지. 시간 나면 꼭 한번 들어봐",
+      "en": "I like listening to Tea Master Liu's stories. His narration really brings the hair-raising tales of the supernatural to life. Why not come with me some time?",
       "de": "Ich? Ich höre gern Geschichten. Der Teekenner erzählt alle möglichen Geschichten. Komm doch das nächste Mal einfach vorbei.",
-      "es": "Me gusta escuchar las historias de Liu Su, el maestro del té. Su narración da vida a sus espeluznantes cuentos sobrenaturales. ¿Por qué no vienes conmigo alguna vez?",
+      "es": "Me gusta escuchar las historias de Liusu, el maestro del té. Su narración da vida a sus espeluznantes cuentos sobrenaturales. ¿Por qué no vienes conmigo alguna vez?",
       "fr": "J'aime beaucoup écouter les histoires du maître Liu Su. Sa façon de conter donne vie aux récits paranormaux les plus terrifiants. Tu devrais m'accompagner à une de ses séances de lecture un jour.",
-      "pt": "Eu gosto de ouvir as histórias do Mestre do Chá Liusu. Sua narração realmente traz à vida os contos do sobrenatural. Por que não vem comigo um dia destes?",
+      "pt": "Eu gosto de ouvir as histórias do Mestre do Chá Liusu. Sua narração realmente traz a vida aos contos do sobrenatural. Por que não vem comigo um dia destes?",
       "ru": "Мои? Мне нравится слушать рассказчиков. От рассказов Чайного доктора о сверхъестественном всегда волосы дыбом встают. Давай вместе сходим послушать, когда время будет.",
-      "id": "Aku? Aku suka dengar cerita-cerita Tea Master Liu. Kalau dia lagi cerita yang seram-seram, gayanya itu selalu berhasil bikin bulu kuduk ini merinding. Kalau ada waktu, mau ikut aku ke sana?",
+      "id": "Aku suka dengar ceritanya Tea Master Liu. Cara dia bercerita hal-hal gaib sungguh bisa membuat bulu kuduk merinding satu badan. Kapan-kapan mau ikut dengar?",
       "th": "ฉันเหรอ? อืม... ฉันชอบฟังเรื่องเล่ามากเลยล่ะ เรื่องประหลาดที่ผู้เชี่ยวชาญเรื่อง ชาเล่ามักจะทำให้ฉันขนลุกเสมอ ถ้ามีเวลาว่างเราไปฟังด้วยกันมั้ยล่ะ?",
-      "vi": "Tôi? Uhm... Tôi vẫn thích nhất là nghe kể chuyện. Tiến Sĩ Trà Liu Su luôn là người thổi hồn vào những câu chuyện hấp dẫn. Nếu có thời gian hãy cùng đi nghe nhé."
+      "vi": "Tôi? Uhm... Tôi vẫn thích nhất là nghe kể chuyện. Tiến Sĩ Trà Liusu luôn là người thổi hồn vào những câu chuyện hấp dẫn. Nếu có thời gian cùng đi nghe nhé."
     }
   },
   {
     "title": {
       "zhs": "重云的烦恼…",
-      "zht": "重雲的煩惱…",
+      "zht": "重云的煩惱…",
       "jp": "重雲の悩み…",
-      "ko": "중운의 고민…",
-      "en": "Chongyun's Troubles",
+      "ko": "중운의 고민...",
+      "en": "Chongyun's Troubles...",
       "de": "Chongyuns Sorgen ...",
       "es": "Preocupaciones de Chongyun...",
       "fr": "Les problèmes de Chongyun...",
@@ -1043,14 +1075,14 @@
       "zhs": "经我多方打听，费了好大功夫，才找到一处破庙有妖邪出没！于是，我守了四天，却完全不见妖邪的影子。唉…这种事经常发生。",
       "zht": "經我多方打聽，費了好大功夫，才找到一處破廟有妖邪出沒！於是，我守了四天，卻完全不見妖邪的影子。唉…這種事經常發生。",
       "jp": "時間をかけてあちこち聞き込みをして、ぼくはやっと妖魔が出没する寺を見つけたんだ！それから4日も見張ったというのに、妖魔の影を見ることすらできなかった。はあ…こういうことはよくある。",
-      "ko": "수소문해서 요괴가 나온다는 낡은 절 한 곳을 정말 어렵게 찾았는데, 나흘을 기다려도 요괴의 그림자조차 안 보였어. 어휴… 괜찮아 자주 있는 일이야",
-      "en": "After making numerous inquiries and putting in an enormous amount of effort, I finally tracked down the location of an old haunted temple. So I camped out there for four whole days, ready to exorcise the hell out of that place... And nothing happened. Not even the faintest glimpse of an evil spirit. *sigh* Sadly, this is a regular occurrence for me.",
+      "ko": "수소문해서 요괴가 나온다는 낡은 절 한 곳을 정말 어렵게 찾았는데, 나흘을 기다려도 요괴의 그림자조차 안보였어. 어휴…괜찮아 자주 있는 일이야",
+      "en": "After making numerous inquiries and putting in an enormous amount of effort, I finally tracked down the location of an old haunted temple. So I camped out there for four whole days, ready to exorcise the hell out of that place... and nothing happened. Not even the faintest glimpse of an evil spirit. *sigh* Sadly, this is a regular occurrence for me.",
       "de": "Nach zahlreichen Nachforschungen und enormem Aufwand habe ich endlich den Standort eines alten von Spuk heimgesuchten Tempels ausfindig machen können. Ich zeltete dort vier ganze Tage und Nächte lang, bereit, die Hölle aus diesem Tempel zu exorzieren ... Und nichts geschah. Nicht einmal der leiseste Anflug eines bösen Geistes. Hach, traurigerweise passiert mir sowas ständig.",
-      "es": "Después de realizar numerosas consultas y de hacer un gran esfuerzo, finalmente rastreé la ubicación de un antiguo templo embrujado, así que acampé allí durante cuatro días enteros, listo para exorcizar el lugar y... no pasó nada. No había ni el menor rastro de un espíritu maligno. *Suspira*, lamentablemente, ya estoy acostumbrado.",
+      "es": "Después de hacer numerosas consultas y de hacer un gran esfuerzo, finalmente rastreé la ubicación de un antiguo templo embrujado, así que acampé allí durante cuatro días enteros, listo para exorcizar el lugar y... no pasó nada. No había ni el menor rastro de un espíritu maligno. *Suspira* Lamentablemente, ya estoy acostumbrado.",
       "fr": "Après de nombreux efforts, j'ai réussi à localiser un ancien temple maudit. J'ai campé devant pendant quatre jours, prêt à exorciser le lieu ! Mais rien ne s'est produit, pas le moindre esprit maléfique à l'horizon... *soupir* Comme d'habitude...",
       "pt": "Depois de fazer inúmeras investigações e de fazer um enorme esforço, finalmente rastreei a localização de um antigo templo assombrado. Então acampei lá fora por quatro dias inteiros, pronto para exorcizar completamente aquele lugar. E nada aconteceu. Nem mesmo o mais leve vislumbre de um espírito maligno. *Suspira* Infelizmente, esta é uma ocorrência frequente para mim.",
-      "ru": "Потратив много сил, после долгих поисков я наконец обнаружил старый храм с привидениями. И вот я провёл в засаде четыре дня, но даже намёка на привидений не увидел. Эх... Такое со мной случается постоянно.",
-      "id": "Setelah melewati banyak penyelidikan, dan berusaha mati-matian, aku akhirnya berhasil menemukan kuil tua yang ada hantunya! Aku lalu berjaga di sana empat hari empat malam, bersiap mengusir roh jahat, sampai akhirnya ... tidak ada yang terjadi. Bahkan penampakan saja tidak ada. *haah* Sialnya, kejadian begitu sudah biasa menimpaku.",
+      "ru": "Потратив много сил, после долгих поисков я, наконец, обнаружил старый храм с привидениями. И вот я провёл в засаде четыре дня, но даже намёка на привидения не увидел. Эх... Такое со мной случается постоянно.",
+      "id": "Setelah banyak tanya dan berusaha mati-matian, aku akhirnya berhasil menemukan lokasi kuil tua yang berhantu! Aku berjaga di sana empat hari empat malam, suah siap mau mengusir semua roh jahat di sana, tapi ... satu juga ridak muncul. *huff* Yang beginian sudah tidak aneh buatku sih.",
       "th": "หลังจากที่ฉันสอบถามมาหลายครั้ง และใช้ความพยายามอย่างสูง ฉันก็พบกับซากปรักหักพังที่ มีปีศาจ! ฉันก็เลยไปเฝ้ามันถึงสี่วัน แต่ฉันไม่เห็นเงาของปีศาจเลย เฮ้อ... เรื่องแบบนี้เกิดขึ้นบ่อยเกินไปแล้ว",
       "vi": "Sau khi thăm dò tôi được biết, miếu hoang có yêu ma xuất hiện. Thế là tôi đã đợi ở đó bốn ngày mà không bóng dáng con ma nào... Thật ra chuyện này cũng thường xuyên xảy ra."
     }
@@ -1065,7 +1097,7 @@
       "de": "Was er so mag ...",
       "es": "Comida que más le gusta...",
       "fr": "Plats préférés...",
-      "pt": "Comida favorita...",
+      "pt": "Comida Favorita...",
       "ru": "Любимая еда...",
       "id": "Makanan Favorit",
       "th": "อาหารที่ชอบ...",
@@ -1080,11 +1112,11 @@
       "de": "Am Ende eines langen Tages ist ein kühles Gericht aus Inazuma genau das Richtige für mich. Die eisgekühlten Zutaten schmelzen auf meiner Zunge und kühlen mich richtig schön ab.",
       "es": "Nada me hace más feliz que una auténtica comida de Inazuma, con ingredientes importados, por supuesto. Después de un día de duro entrenamiento, la frescura de la comida fría de Inazuma hace que me olvide de la fatiga.",
       "fr": "Rien ne me fait davantage plaisir que de manger un repas inazumien après mon entraînement quotidien. La fraîcheur des plats fait disparaître toute la fatigue que je ressens.",
-      "pt": "Nada me faz mais feliz do que sentar-me para uma autêntica refeição de Inazuma, ingredientes importados, é claro. Depois de treinar duro o dia todo, o frescor gelado da cozinha de Inazuma mata completamente todo cansaço.",
+      "pt": "Nada me faz mais feliz do que sentar-me para uma autêntica refeição de Inazuma, ingredientes importados, é claro. Depois de treinar duro o dia todo, o frescor gelado da culinária de Inazuma mata completamente todo cansaço.",
       "ru": "После дня тренировок нет ничего лучше, чем свежие морепродукты из Инадзумы с холодной закуской. От приятной прохлады инадзумской кухни сразу забываешь об усталости.",
-      "id": "Yang paling nikmat itu adalah, pergi makan masakan khas Inazuma yang dingin dan menyegarkan sehabis latihan keras. Segala letih lemah dan lesu, akan sirna seketika.",
+      "id": "Menikmati makanan dingin Inazuma yang bahannya semua impor segar, benar-benar bisa bikin badan segar kembali setelah latihan seharian.",
       "th": "ทุกวันหลังจากฝึกฝนเสร็จ ถ้าได้กินอาหารเย็น ๆ สดใหม่ที่ส่งมาจาก Inazuma มันก็จะเยี่ยมไปเลย รสชาติที่เย็นสดชื่นมันช่วยบรรเทา ความเมื่อยล้าได้เป็นอย่างดีเลย",
-      "vi": "Mỗi khi tập luyện xong mà có thể ăn một món ngon lại lạnh buốt từ Inazuma thì cảm giác ấy có thể xóa bỏ mọi vất vả."
+      "vi": "Mỗi khi rèn luyện xong mà có thể ăn một món ngon lại lạnh buốt từ Inazuma thì cảm giác ấy có thể xóa bỏ mọi vất vả."
     }
   },
   {
@@ -1097,7 +1129,7 @@
       "de": "Was er nicht mag ...",
       "es": "Comida que menos le gusta...",
       "fr": "Plats détestés...",
-      "pt": "Comida que detesta...",
+      "pt": "Comida que Odeia...",
       "ru": "Нелюбимая еда...",
       "id": "Makanan yang Tidak Disukai",
       "th": "อาหารที่เกลียด...",
@@ -1112,11 +1144,11 @@
       "de": "Leider kann ich kein scharfes Essen zu mir nehmen. Am schlimmsten sind Jueyun-Peperoni, die verfolgen mich noch in meinen Albträumen.",
       "es": "Para mí, cualquier cosa caliente, que eche humo o esté cubierta de chiles es totalmente incomestible. De solo pensar en los chiles de Jueyun me viene una horrible sensación.",
       "fr": "Je ne peux pas consommer de nourriture chaude ou épicée. J'ai la nausée rien que de penser aux piments de Jueyun...",
-      "pt": "Qualquer coisa que esteja quente e carregada de pimentas é para mim um absoluto \"nem pensar\". A mera ideia de uma Pimenta de Jueyun em qualquer prato me causa um temor tremendo.",
+      "pt": "Qualquer coisa que esteja quente e picante é para mim um absoluto \"nem pensar\". A mera ideia de uma Pimenta de Jueyun em qualquer prato me causa um medo.",
       "ru": "Всё горячее и острое для меня под запретом. Если в блюде попадётся заоблачный перчик... ох, даже думать страшно.",
-      "id": "Aku tidak bisa makan apa pun yang pedas-pedas dan mengandung cabai. Baru kepikiran saja sudah bergidik ... Ih, seram!",
-      "th": "อาหารที่เผ็ดและร้อนจะเข้าปากฉัน ไม่ได้เด็ดขาด ยิ่งถ้าเป็นเมนูที่ใส่พริก Jueyun Chil ด้วยล่ะก็... แค่คิดก็กลัวแล้ว",
-      "vi": "Tôi không ăn bất cứ món đồ cay hoặc nóng nào. Thực sự nghĩ đến món có liên quan đến Ớt Tuyệt Vân là đã sởn gai ốc rồi."
+      "id": "Pokoknya apa pun yang pedas dan panas, tidak boleh. Membayangkan Jueyun Chili saja sudah bisa bikin aku kepanasan.",
+      "th": "อาหารที่เผ็ดและร้อนจะเข้าปากฉัน ไม่ได้เด็ดขาด ยิ่งถ้าเป็นเมนูที่ใส่พริก Jueyun Chili ด้วยล่ะก็... แค่คิดก็กลัวแล้ว",
+      "vi": "Mọi món đồ ăn cay và nóng tôi đều không ăn. Thực sự nghĩ đến món có liên quan đến Ớt Tuyệt Vân là đã sởn gai ốc rồi."
     }
   },
   {
@@ -1137,16 +1169,16 @@
     },
     "line": {
       "zhs": "今天是你的生辰，这朵冰晶结成的小花送你，是我自己雕的。如果遇到妖邪，掷出冰花，我封入的咒术自会生效，助你脱险。啊…还有，生日快乐。",
-      "zht": "#今天是{F#妳}{M#你}的生辰，這朵冰晶結成的小花送{F#妳}{M#你}，是我自己雕的。如果遇到妖邪，擲出冰花，我封入的咒術自會生效，助{F#妳}{M#你}脫險。啊…還有，生日快樂。",
+      "zht": "#今天是{F#妳}{M#你}的生辰，這朵冰晶結成的小花送{F#妳}{M#你}，是我自己雕的。如果遇到妖邪，擲出冰花，我封入的咒術自會生效，助你脫險。啊…還有，生日快樂。",
       "jp": "今日はお前の誕生日だろう、この氷晶の花をやる、ぼくが作ったんだ。妖魔に遭遇したときこの氷の花を投げれば、ぼくが施した呪術が発動してお前を助けてくれるはずだ。それと、誕生日おめでとう。",
       "ko": "오늘은 네 생일이니까 이 얼음 결정으로 만든 꽃을 줄게. 내가 직접 조각해서 만든 거야. 요마를 만나면 이 얼음꽃을 던져봐. 그럼 내가 봉인한 주술의 효력이 자동으로 나타날 거야. 그리고, 생일 축하해",
       "en": "On the anniversary of your birth, please accept this gift of a flower, made of ice crystals. I carved it myself. If you ever encounter an evil spirit, cast this toward it — the spell I have cast upon it will immediately come into effect and hopefully get you out alive. Also... Happy birthday.",
       "de": "Heute ist dein Geburtstag, diese kleine Blüte hier schenke ich dir. Ich habe sie aus Eiskristallen selbst gefertigt. Solltest du dich einmal einem bösen Geist gegenüber wiederfinden, schmeiß diese Blume in Richtung Feind. Das von mir platzierte Siegel wird dann aufbrechen und den Geist vertreiben.",
       "es": "En el aniversario de tu nacimiento, acepta este regalo de una flor, hecha de cristales de hielo. La tallé yo mismo. Si alguna vez te encuentras un espíritu maligno, arrójasela. El hechizo que le he puesto surtirá efecto de inmediato. Con suerte, puede salvarte la vida... Feliz cumpleaños.",
       "fr": "En ce jour spécial, je te prie d'accepter cette fleur en cristaux de glace que j'ai sculptée moi-même comme cadeau. Elle te sera utile si tu rencontres un esprit maléfique grâce au sort que j'y ai jeté... Oh, et joyeux anniversaire.",
-      "pt": "Hoje é o seu aniversário, parabéns! Por favor, aceite esta flor cristalizada como presente, ela foi esculpida por mim mesmo. Jogue esta flor quando encontrar demônios - o feitiço que lancei sobre ela entrará imediatamente em vigor e espero que o tire de lá com vida. Além disso... Feliz aniversário!",
+      "pt": "#Hoje é o seu aniversário, parabéns! Por favor, aceite esta flor cristalizada como presente, ela foi esculpida por mim mesmo. Jogue esta flor quando encontrar demônios - o feitiço que lancei sobre ela entrará imediatamente em vigor e espero que {M#o}{F#a} tire dos perigos. Além disso... Feliz aniversário!",
       "ru": "В день твоего рождения прими этот ледяной цветок, который я вырезал сам. Если столкнёшься со злым духом, то брось в него цветок. Внутри заключено заклинание, которое поможет тебе сбежать. Ах, да... с днём рождения.",
-      "id": "Hari ini adalah hari kelahiranmu. Terimalah bunga es ini, aku mengukirnya sendiri. Kalau kamu bertemu roh jahat, lemparkan bunga es ini ke arahnya. Mantra yang sudah kusematkan akan langsung aktif dan harusnya dapat menolongmu. Terus ... selamat ulang tahun ya.",
+      "id": "Hari ini adalah hari ulang tahunmu. Terimalah bunga es ini, aku mengukirnya sendiri. Kalau bertemu roh jahat, lempar saja bunga es ini. Mantranya akan langsung aktif dan seharusnya bisa segera mengamankan kamu. Terus juga ... Selamat ulang tahun ya.",
       "th": "ในวันครบรอบวันเกิดของคุณ โปรดรับของขวัญชิ้นนี้ไปเถอะ มันเป็นดอกไม้ที่ทำจาก ผลึกน้ำแข็ง ฉันแกะสลักด้วยตัวเองเลยนะ หากคุณพบกับปีศาจก็แค่ขว้าง มันออกไป คาถาที่ฉันร่ายไว้ก็จะแสดงผล ในทันที หวังว่ามันจะช่วยให้คุณหลบหนีได้ อ๊ะ... จริงสิ สุขสันต์วันเกิดนะ",
       "vi": "Hôm nay là ngày sinh của bạn, bông hoa từ băng kết tinh băng này dành cho bạn. Tôi tự làm đó. Nếu có gặp yêu ma, nhớ lấy nó ra nhé, bùa chú được tôi yểm vào sẽ tự khắc phát huy tác dụng giúp bạn giải trừ nguy hiểm. A, quên mất... Sinh nhật vui vẻ nha."
     }
@@ -1178,8 +1210,8 @@
       "fr": "On utilise souvent ces matériaux pour la thaumaturgie pendant un exorcisme. Je ne savais pas qu'ils pouvaient également purifier nos esprits.",
       "pt": "Costumamos usar esses materiais para a taumaturgia durante exorcismos - eu nunca soube que eles também poderiam ser usados para purificar o próprio espírito.",
       "ru": "Экзорцисты тоже часто используют эти материалы для своих заклинаний. Не думал, что с их помощью можно очистить свой дух.",
-      "id": "Bahan ini sering dipakai dalam ritual pengusiran roh jahat. Aku baru tahu ternyata bisa juga dipakai untuk memurnikan jiwa sendiri.",
-      "th": "เรามักจะใช้วัสดุนี้ในการปราบปีศาจ แต่นึกไม่ถึงเลยว่าสามารถเอามาชำระจิตวิญญาณให้บริสุทธิ์ได้ด้วย",
+      "id": "Kami sering pakai bahan-bahan seperti ini untuk mengusir roh jahat. Aku baru tahu ternyata bisa juga dipakai untuk menyucikan diri.",
+      "th": "เรามักจะใช้วัสดุนี้ในการปราบปีศาจ แต่นึกไม่ถึงเลยว่าสามารถเอามา ชำระจิตวิญญาณให้บริสุทธิ์ได้ด้วย",
       "vi": "Phương thuật trừ tà thường dùng những nguyên liệu này, thật không ngờ còn có thể tăng sức mạnh linh khí của bản thân."
     }
   },
@@ -1203,16 +1235,16 @@
       "zhs": "习武与术法一样，都有境界。受你指导，我又有进益了。",
       "zht": "#習武與術法一樣，都有境界。受{F#妳}{M#你}指導，我又有進益了。",
       "jp": "武芸や法術と同じで、成長には壁というものが存在する。お前のおかげで、ぼくはまた一段と成長できた。",
-      "ko": "무예를 익히는 것도 술법과 같아. 모두 경지가 있지. 네 가르침 덕에 내 실력도 많이 향상된 것 같아",
+      "ko": "무예를 익히는 것도 술법과 같아, 모두 경지가 있지. 네 가르침 덕에 내 실력도 많이 향상된 것 같아",
       "en": "Martial arts and thaumaturgy are alike in that there are always new dimensions to explore. Thanks to your guidance, I can see myself making progress.",
       "de": "Kampfkunst und Heilung haben gemeinsam, dass es immer noch Raum zur Weiterentwicklung gibt. Dank deiner Unterstützung habe ich deutliche Fortschritte gemacht.",
-      "es": "Las artes marciales y la taumaturgia se parecen en que siempre hay nuevas dimensiones por explorar. Gracias a tus consejos, siento que he progresado.",
+      "es": "Las artes marciales y la taumaturgia se parecen en que siempre hay nuevas dimensiones por explorar. Gracias a tu guía, siento que he progresado.",
       "fr": "J'aurais toujours beaucoup à apprendre que ce soit en arts martiaux ou en thaumaturgie. Grâce à tes précieux conseils, j'ai l'impression d'avoir fait des progrès.",
       "pt": "As artes marciais e a taumaturgia são semelhantes, pois sempre há novas dimensões a serem exploradas. Graças à sua orientação, posso me ver progredindo.",
       "ru": "В искусстве боя и в искусстве заклинаний есть много неизведанного. С твоей помощью я узнал много нового.",
-      "id": "Ilmu bela diri dan sihir punya dunianya masing-masing, dan selalu ada hal baru yang bisa dipelajari. Terima kasih atas arahannya!",
+      "id": "Ilmu bela diri dan sihir memang mirip, di dalam keduanya selalu ada tahapan baru yang bisa dipelajari. Terima kasih, aku bisa berkembang lagi berkat bimbinganmu.",
       "th": "ศิลปะการต่อสู้กับศิลปะเวทมนตร์ ต่างก็มีเรื่องใหม่ให้ศึกษาอยู่เสมอ ได้รับคำชี้แนะจากคุณ ฉันก็ก้าวหน้าขึ้นไปอีกขั้น",
-      "vi": "Luyện võ cũng giống như phép thuật, chúng đều có cảnh giới. Nhờ có sự hướng dẫn của bạn mà tôi mới có thể tiến bộ."
+      "vi": "Luyện võ và phép thuật đều có cảnh giới. Nhờ có sự chỉ bảo của bạn mà tôi mới có thể tiến bộ."
     }
   },
   {
@@ -1235,15 +1267,15 @@
       "zhs": "原来习武之道还有这样一种境界，手眼相通，人与剑合…嗯，我悟到了！",
       "zht": "原來習武之道還有這樣一種境界，手眼相通，人與劍合…嗯，我悟到了！",
       "jp": "武芸にこんな境地があったなんて。手と目が淀みなく通じ合い、人と剣が一心となった感じがする。よし、悟ったぞ！",
-      "ko": "무예에 이러한 경지도 있었다니. 손과 눈이 서로 통하고, 사람과 검은 하나가 된다… 이제 알 것 같아!",
+      "ko": "무예에 이러한 경지도 있었다니. 손과 눈이 서로 통하고, 사람과 검은 하나가 된다…이제 알 것 같아!",
       "en": "Never before have I fathomed such lofty heights of martial prowess! For eye and hand, man and blade to act in unity... Truly, I have been enlightened.",
       "de": "Es gibt also wirklich einen Raum von Kampfkunst und Erleuchtung, niemals zuvor habe ich mich so erleuchtet gefühlt!",
-      "es": "¡Nunca antes había imaginado estos niveles de destreza marcial! Ojos y manos, hombre y espada actuando como si fueran uno... De verdad, he visto la luz.",
+      "es": "¡Nunca antes había imaginado esos niveles de destreza marcial! Ojos y manos, hombre y espada actuando en conjunción... De verdad, he visto la luz.",
       "fr": "Je n'avais jamais imaginé pouvoir effectuer de telles prouesses en arts martiaux auparavant ! Les yeux et les mains, l'homme et l'épée ne font plus qu'un... Quelle illumination !",
-      "pt": "Nunca antes imaginei níveis tão elevados de proezas marciais! Onde os olhos e as mãos, homem e lâmina estão agindo em união... Verdadeiramente, fui iluminado.",
+      "pt": "Nunca antes imaginei níveis tão elevados de proezas marciais, onde os olhos e as mãos, homem e lâmina estão agindo em união... Verdadeiramente, fui iluminado.",
       "ru": "Я раньше и не задумывался о таких вершинах боевого искусства. Рука следует за взглядом, меч и человек едины... Наконец, я осознал!",
-      "id": "Ternyata ilmu bela diri bisa mencapai tingkat setinggi ini. Manusia dan pedang bisa menyatu ... Ini pencerahan!",
-      "th": "ที่แท้ศิลปะการต่อสู้ยังมีมิติแบบนี้ มือและดวงตา คนกับดาบประสานเป็นหนึ่งเดียว... อื้อ ฉันเข้าใจแล้วล่ะ",
+      "id": "Ternyata ilmu bela diri bisa mencapai tingkat setinggi ini. Manusia dan pedang bisa menyatu ... Benar-benar suatu pencerahan.",
+      "th": "ที่แท้ศิลปะการต่อสู้ยังมีมิติแบบนี้ มือและดวงตา คนกับดาบประสานเป็นหนึ่งเดียว... ว้าว ฉันเข้าใจแล้ว",
       "vi": "Không ngờ luyện võ lại có cảnh giới như vậy, tay mắt tương thông, người kiếm hợp nhất... Uhm, tôi đã lãnh ngộ được rồi!"
     }
   },
@@ -1253,7 +1285,7 @@
       "zht": "突破的感受·合",
       "jp": "突破した感想·結",
       "ko": "돌파의 느낌·결",
-      "en": "Feelings about Ascension: Conclusion",
+      "en": "Feelings About Ascension: Conclusion",
       "de": "Gedanken über den Aufstieg – Ende",
       "es": "El sentimiento de Ascensión - Desenlace",
       "fr": "Affinité max",
@@ -1270,13 +1302,13 @@
       "ko": "이 무예들을 익혔으니 「천하의 모든 요마를 제거」라는 목표를 달성할 수 있을지도 몰라. 네가 준 도움은 항상 마음에 새겨둘게. 앞으로 네가 도움이 필요하면 언제든지 날 불러줘",
       "en": "With all the secrets arts that I have learned, my goal of banishing all evil from the world is finally in view. I will never forget how much you have done for me. Maybe now I even have what it takes to face the flames of my positive energy, and see if I can take the heat.",
       "de": "Jetzt, da ich viel mehr über meine Fähigkeiten gelernt habe und mit dem aktuellen Fortschritt, ist mein Ziel, die Welt vom Bösen zu befreien, in deutliche Nähe gerückt. Du hast auf diesem Weg so viel für mich getan, vielleicht bin ich sogar so weit, dass ich mich den Flammen in meinem Inneren stellen kann.",
-      "es": "Con todas las artes místicas que he aprendido, mi objetivo de desterrar todo el mal del mundo por fin está cerca. Nunca olvidaré lo que has hecho por mí. Tal vez ahora tenga lo necesario para enfrentar las llamas de mi energía positiva y ver si puedo soportar el calor.",
+      "es": "Con todas las artes místicas que he aprendido, por fin puedo vislumbrar mi objetivo de desterrar todo el mal del mundo. Nunca olvidaré lo que has hecho por mí. Tal vez ahora tenga lo necesario para enfrentar las llamas de mi energía positiva y ver si puedo soportar el calor.",
       "fr": "Mon objectif est de bannir le mal de ce monde grâce à tous les arts mystiques que j'ai appris. Je n'oublierai jamais toute l'aide que tu m'as apportée... À présent, je ne redoute rien !",
       "pt": "Com todas as artes secretas que aprendi, meu objetivo de banir todo o mal do mundo está finalmente à vista. Nunca esquecerei o quanto você tem feito por mim. Talvez agora eu até tenha o que é preciso para enfrentar as chamas da minha energia positiva, e ver se consigo suportar o calor.",
       "ru": "#Овладев этими техниками, я стал ещё ближе к воплощению мечты о мире без злых духов. Я вечно буду помнить, как много ты для меня сделал{F#a}. Возможно, теперь я готов пройти через огонь своей души.",
-      "id": "Dengan teknik-teknik ini, tujuanku membasmi semua kejahatan di dunia ini mungkin bisa tercapai. Bantuan darimu tentu akan selalu kuingat. Mulai hari ini, aku tidak perlu takut lagi menerjang bahaya.",
+      "id": "Dengan semua ilmu rahasia yang sudah aku pelajari, jalan untuk impianku membasmi semua roh jahat dari dunia ini akhirnya terbuka. Bantuanmu akan kuingat selalu. Mungkin aku yang sekarang bahkan sudah bisa menghadapi luapan panas Energi Yang.",
       "th": "หลังจากเข้าใจความลับของ ศิลปะการต่อสู้เหล่านี้แล้ว ความปรารถนาที่จะ \"ปราบปีศาจร้ายให้ หมดไปจากโลก\" อาจเกิดขึ้นได้ คุณช่วยฉันมาตลอดทาง แน่นอนฉันจะไม่ลืมเด็ดขาด ต่อจากนี้ฉันอาจแข็งแกร่งพอที่ จะบุกน้ำลุยไฟได้โดยไม่บาดเจ็บ",
-      "vi": "Sau khi lĩnh ngộ được những kỹ năng này, tâm nguyện \"tiêu diệt yêu ma trong thiên hạ\" của tôi sẽ sớm hoàn thành mà thôi. Sự giúp đỡ của bạn tôi sẽ luôn ghi nhớ, về sau sẽ cùng bạn đồng cam cộng khổ, quyết không chùn bước."
+      "vi": "Sau khi lĩnh ngộ được những kỹ năng này, tâm nguyện \"tiêu diệt yêu ma trong thiên hạ\" sẽ sớm hoàn thành mà thôi. Sự giúp đỡ của bạn tôi sẽ luôn ghi nhớ, về sau sẽ đồng kham cộng khổ, quyết không chùn bước."
     }
   },
   {
@@ -1336,9 +1368,9 @@
       "de": "Vorwärts, meine Klinge!",
       "es": "¡Adelante, espada!",
       "fr": "En avant !",
-      "pt": "Para frente, minha lâmina!",
+      "pt": "Avance, minha lâmina!",
       "ru": "Вперёд, мой клинок!",
-      "id": "Serang, pedangku!",
+      "id": "Pedangku, serang!",
       "th": "ดาบ จงออกมา!",
       "vi": "Kiếm, xuất!"
     }
@@ -1370,7 +1402,7 @@
       "fr": "Rapide et miséricordieux !",
       "pt": "Ágil e piedoso!",
       "ru": "Быстрота и сострадание!",
-      "id": "Cepat dan welas asih!",
+      "id": "Dengan cepat dan murah hati!",
       "th": "รวดเร็วดั่งคำบัญชา",
       "vi": "Gấp như sắc lệnh."
     }
@@ -1402,7 +1434,7 @@
       "fr": "Ne faire qu'un avec ma lame !",
       "pt": "Em união com minha espada!",
       "ru": "Одно целое с клинком!",
-      "id": "Bersatu dengan pedang!",
+      "id": "Menyatu dengan pedang!",
       "th": "ฟังคำบัญชาของฉัน",
       "vi": "Nghe sắc lệnh của ta."
     }
@@ -1432,9 +1464,9 @@
       "de": "Hinfort mit dir!",
       "es": "¡Huye por donde viniste!",
       "fr": "Retournez d'où vous venez !",
-      "pt": "Volte para onde você veio!",
+      "pt": "Volte de onde você veio!",
       "ru": "Возвращайся туда, откуда ты пришёл!",
-      "id": "Enyahlah roh jahat!",
+      "id": "Roh jahat, enyah!",
       "th": "สิ่งชั่วร้ายจงล่าถอย!",
       "vi": "Tà ma cút đi!"
     }
@@ -1492,13 +1524,13 @@
       "zht": "束手伏誅吧。",
       "jp": "大人しく捕まれ。",
       "ko": "순순히 죽거라",
-      "en": "Submit for judgement!",
+      "en": "Submit for judgment!",
       "de": "Ergib dich!",
       "es": "¡Sométete a mi juicio!",
       "fr": "Acceptez votre sentence !",
       "pt": "É hora do seu julgamento!",
       "ru": "Подчинись правосудию!",
-      "id": "Menyerah dan terimalah penghakiman!",
+      "id": "Terimalah penghakiman!",
       "th": "รับการลงโทษซะเถอะ",
       "vi": "Bó tay chịu trói đi."
     }
@@ -1528,9 +1560,9 @@
       "de": "Ich reite auf Wind und Wolken gleichermaßen.",
       "es": "Cabalgo por el viento y las nubes por igual.",
       "fr": "Je me déplace au gré du vent et des nuages.",
-      "pt": "Cavalgo em ventos e nuvens.",
+      "pt": "Cavalgo em ventos e nuvens igualmente.",
       "ru": "Я могу оседлать ветер и тучи!",
-      "id": "Aku mengendarai angin dan menaiki awan.",
+      "id": "Mengendarai angin, menaiki awan.",
       "th": "มาดูความสามารถในวิ่งลมกรดกัน",
       "vi": "Xem bản lĩnh cưỡi gió đây."
     }
@@ -1558,11 +1590,11 @@
       "ko": "이런 물건은 퇴마에 쓸 수 있어",
       "en": "Hmm, objects like this may prove useful when purging evil spirits.",
       "de": "Hmm, Objekte wie diese können sich als nützlich erweisen, wenn du böse Geister vertreiben willst.",
-      "es": "Humm, objetos como estos podrían servirme para ahuyentar a los malos espíritus.",
+      "es": "Humm, objetos como este podrían servirme para ahuyentar a los malos espíritus.",
       "fr": "Hmm, un tel objet pourrait s'avérer utile pour purger les mauvais esprits.",
       "pt": "Hmm, objetos como este podem se mostrar úteis no exorcismo de espíritos malignos.",
       "ru": "Хм, это может оказаться полезным при изгнании злых духов.",
-      "id": "Hmm, benda seperti ini bisa berguna waktu mengusir roh jahat.",
+      "id": "Hmm, mungkin bisa berguna untuk mengusir roh jahat.",
       "th": "ของพวกนี้น่าจะใช้ปราบปีศาจได้นะ",
       "vi": "Những dụng cụ này có thể xua đuổi tà ma."
     }
@@ -1641,7 +1673,7 @@
       "de": "Niedrige LP I",
       "es": "Vida baja (I)",
       "fr": "PV faibles (1)",
-      "pt": "Vida baixa - I",
+      "pt": "Vida Baixa - I",
       "ru": "Низкий уровень HP I",
       "id": "HP Rendah: I",
       "th": "ค่าพลังชีวิตต่ำ - 1",
@@ -1658,7 +1690,7 @@
       "fr": "Ce n'est rien.",
       "pt": "Foi só um arranhão.",
       "ru": "Просто царапина.",
-      "id": "Hanya luka kecil saja.",
+      "id": "Luka kecil saja.",
       "th": "แผลเล็กน้อยน่ะ อย่าได้ใส่ใจเลย",
       "vi": "Vết thương nhỏ không đáng nhắc đến."
     }
@@ -1673,7 +1705,7 @@
       "de": "Niedrige LP II",
       "es": "Vida baja (II)",
       "fr": "PV faibles (2)",
-      "pt": "Vida baixa - II",
+      "pt": "Vida Baixa - II",
       "ru": "Низкий уровень HP II",
       "id": "HP Rendah: II",
       "th": "ค่าพลังชีวิตต่ำ - 2",
@@ -1688,9 +1720,9 @@
       "de": "Ich darf meinen Feind nicht unterschätzen.",
       "es": "No puedo subestimar a mi enemigo.",
       "fr": "Je ne dois plus sous-estimer mon ennemi.",
-      "pt": "Não posso subestimar o inimigo.",
+      "pt": "Não posso subestimar o meu inimigo.",
       "ru": "Не надо было недооценивать врага.",
-      "id": "Aku tidak boleh meremehkan musuh.",
+      "id": "Tidak bisa diremehkan.",
       "th": "อย่าประมาทเชียวนะ",
       "vi": "Không thể khinh địch nữa."
     }
@@ -1705,7 +1737,7 @@
       "de": "Niedrige LP III",
       "es": "Vida baja (III)",
       "fr": "PV faibles (3)",
-      "pt": "Vida baixa - III",
+      "pt": "Vida Baixa - III",
       "ru": "Низкий уровень HP III",
       "id": "HP Rendah: III",
       "th": "ค่าพลังชีวิตต่ำ - 3",
@@ -1713,7 +1745,7 @@
     },
     "line": {
       "zhs": "你莫猖狂！",
-      "zht": "你莫猖狂！",
+      "zht": "你莫倡狂！",
       "jp": "調子に乗るな！",
       "ko": "날뛰지 마라!",
       "en": "Curb your fury!",
@@ -1754,7 +1786,7 @@
       "fr": "Je ne suis pas encore assez bon...",
       "pt": "Depois de todo o meu treinamento...",
       "ru": "После стольких лет тренировок...",
-      "id": "Setelah semua latihan itu...",
+      "id": "Setelah semua latihan ...",
       "th": "ยังด้อยกว่าคนอื่นสินะ...",
       "vi": "Ta vẫn còn non sao..."
     }
@@ -1786,7 +1818,7 @@
       "fr": "Le mal... n'a pas encore disparu...",
       "pt": "O flagelo do mal ainda vive...",
       "ru": "Бич зла никуда не делся...",
-      "id": "Kejahatan... tetap ada...",
+      "id": "Kejahatan ... belum sirna ....",
       "th": "ปีศาจ... ยังจัดการไม่หมด...",
       "vi": "Yêu tà...chưa diệt..."
     }
@@ -1798,7 +1830,7 @@
       "jp": "戦闘不能·3",
       "ko": "전투 불능·세 번째",
       "en": "Fallen: III",
-      "de": "Ohmächtig III",
+      "de": "Ohnmächtig III",
       "es": "Derrotado (III)",
       "fr": "K.O. (3)",
       "pt": "Derrotado - III",
@@ -1815,10 +1847,10 @@
       "en": "This spells the end of the exorcists...",
       "de": "Das bedeutet das Ende der Mystiker ...",
       "es": "Esto marca el final de los exorcistas...",
-      "fr": "Quelle honte... les exorcistes...",
-      "pt": "Este é o fim dos exorcistas...",
+      "fr": "Quelle honte... Les exorcistes...",
+      "pt": "Este é o fim dos... exorcistas...",
       "ru": "Это конец для экзорцистов...",
-      "id": "Inikah akhir dari pengusir roh jahat...",
+      "id": "Inikah akhir si pengusir roh jahat ....",
       "th": "สร้างความอับอาย... ให้เหล่านักปราบปีศาจซะแล้ว",
       "vi": "Thất lễ rồi...các phương sĩ..."
     }
@@ -1850,7 +1882,7 @@
       "fr": "Comment ?!",
       "pt": "Mas como!?",
       "ru": "Но как?!",
-      "id": "Kenapa bisa?!",
+      "id": "Kok bisa?!",
       "th": "โดนเข้าซะแล้ว!",
       "vi": "Thật bất ngờ!"
     }
@@ -1914,7 +1946,7 @@
       "fr": "Mon sort d'empoisonnement contre les démons est prêt à être utilisé.",
       "pt": "Meu mantra espantador de demônios está pronto.",
       "ru": "Моя мантра, изгоняющая демонов, готова.",
-      "id": "Mantra pengusir iblisku sudah siap.",
+      "id": "Mantra pengusir roh jahat sudah siap.",
       "th": "ฉันมีคาถาปราบผีร้ายด้วยนะ",
       "vi": "Tôi có cách để diệt quỷ."
     }

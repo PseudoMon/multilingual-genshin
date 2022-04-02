@@ -1,6 +1,38 @@
 [
   {
     "title": {
+      "zhs": "初次见面…",
+      "zht": "初次見面…",
+      "jp": "初めまして…",
+      "ko": "첫 만남…",
+      "en": "Hello",
+      "de": "Schön, dich kennenzulernen.",
+      "es": "Hola...",
+      "fr": "Première rencontre...",
+      "pt": "Olá...",
+      "ru": "Привет...",
+      "id": "Halo",
+      "th": "พบกันครั้งแรก...",
+      "vi": "Lần đầu gặp mặt..."
+    },
+    "line": {
+      "zhs": "我的名字是九条裟罗，你记不住也无妨，只需知道：我将永远护卫稻妻、践行鸣神的意志，不论神鬼，遇敌必除！呼…别紧张，既然答应与你并肩，我自当尽心尽职。大义外的事情，我不会计较的。",
+      "zht": "#我的名字是九條裟羅，{F#妳}{M#你}記不住也無妨，只需知道：我將永遠護衛稻妻、踐行鳴神的意志，不論神鬼，遇敵必除！呼…別緊張，既然答應與{F#妳}{M#你}並肩，我自當盡心盡職。大義外的事情，我不會計較的。",
+      "jp": "私の名は九条裟羅、別に覚えてもらわなくても構わない。私が稲妻を永遠に守護し、鳴神の意志を遂行する者だということだけを知っていればな。神であろうと鬼であろうと、敵であれば排除するのみ！ふぅ…そう緊張するな。お前と共に戦うことを約束したからには、きちんと責務を果たすつもりだ。大義以外のことはさほど気にしない。",
+      "ko": "내 이름은 쿠죠 사라, 기억 못 해도 괜찮아. 단 이것만 기억해. 난 영원히 이나즈마를 지키며 번개 신의 뜻을 행하고, 어떤 적이든 모두 제거할 것이다! 훗… 긴장하지 마, 너와 함께 하기로 한 이상 내 본분을 다할 테니까. 난 대의 외의 것은 따지지 않거든",
+      "en": "I am Kujou Sara. You may forget my name, but this you must know: On my watch, Inazuma will always be defended, and the will of the Shogun will always be done. Deity or demon, if you make an enemy of me you will be struck down! Oh, ahem... Don't be so nervous. I have agreed to fight by your side, and I will honor that commitment. I may be uncompromising on matters of great importance, but on most other things, you will find me quite easygoing.",
+      "de": "Mein Name ist Kujou Sara, aber es macht nichts, wenn du ihn dir nicht merken kannst, du sollst nur eines wissen: Ich werde Inazuma immer beschützen und den Willen von Narukami ausführen, egal ob es Götter oder Dämonen sind, ich werde sie beseitigen! Du musst nicht nervös sein. Da ich versprochen habe, an deiner Seite zu stehen, werde ich meine Pflicht tun. Es geht mir um nichts anderes als um das Allgemeinwohl.",
+      "es": "#Soy Kujou Sara. Puedes olvidar mi nombre, pero debes saber esto: siempre protegeré Inazuma y la voluntad de la Shogun siempre se cumplirá. Ya seas una deidad o un demonio, si te conviertes en mi enemigo, acabaré contigo. Oh, *ejem*... No te pongas nervios{F#a}{M#o}. Juré luchar a tu lado y cumpliré con mi promesa. No cedo ni un ápice en los asuntos de gran importancia, pero no soy quisquillosa con lo demás.",
+      "fr": "#Je suis Kujou Sara. Vous pouvez oublier mon nom, mais retenez ceci : sous ma garde, Inazuma sera toujours protégée et la volonté de la Shogun appliquée. Dieu ou démon, si vous faites de moi votre ennemie, je vous terrasserai ! Hum, ne sois pas si {F#nerveuse}{M#nerveux}. J'ai accepté de me battre à tes côtés et j'honorerai mon engagement. Je peux être intransigeante pour ce qui est de grande importance, mais pour le reste, je suis plutôt facile à vivre.",
+      "pt": "Eu sou Kujou Sara. Você talvez tenha esquecido o meu nome, mas deve saber disso: enquanto eu estiver observando, Inazuma sempre estará defendida, e a vontade da Shogun sempre será feita. Seja divindade ou demônio, se virar meu inimigo será derrotado! Oh, não se preocupe. Eu concordei a lutar ao seu lado, e honrarei esse compromisso. Eu posso ser inflexível em questões de grande importância, mas na maioria das outras coisas, não sou tão séria.",
+      "ru": "Я Кудзё Сара. Ты можешь забыть моё имя, но тебе следует знать одно: пока я жива, Инадзума всегда будет защищена, а воля сёгуна - исполнена. Я уничтожу любого врага - пусть даже им будет божество или демон! Тебе не о чем переживать, я согласилась сражаться на твоей стороне, и я выполню это обязательство. Меня не волнует ничего, кроме долга.",
+      "id": "Namaku Kujou Sara. Kamu boleh lupa namaku, tapi ingat: dalam pengawasanku, Inazuma akan selalu aman dan kehendak Shogun akan selalu jadi. Tidak peduli dewa ataupun iblis, semua musuh akan kusingkirkan! Oh, ehem ... Jangan gugup begitu. Aku sudah setuju untuk bertempur di pihakmu, dan janji itu akan selalu ditepati. Aku tidak mau kompromi untuk beberapa hal tertentu, tapi untuk hal lain, aku bisa santai juga kok.",
+      "th": "ฉันชื่อ Kujou Sara แต่ถ้าเธอจำไม่ได้ก็ไม่เป็นไร รู้ไว้แค่ว่า: ฉันจะปกป้อง Inazuma และทำตามเจตจำนงของ Narukami ตลอดไป ไม่ว่าเทพหรือผี ถ้าเป็นศัตรูล่ะก็ ฉันจะกำจัดให้หมด! หึ...ไม่ต้องตื่นเต้นไปหรอกนะ ในเมื่อฉันสัญญาว่าจะอยู่เคียงบ่าเคียงไหล่เธอแล้ว ฉันก็จะทำให้ถึงที่สุด ส่วนเรื่องที่อยู่นอกเหนือจากนี้ ฉันไม่ถือสาให้มากความหรอก",
+      "vi": "Tên tôi là Kujou Sara, bạn không nhớ cũng không sao, chỉ cần biết: Tôi sẽ luôn bảo vệ Inazuma và thực hiện ý chí của Narukami. Dù là thần hay ma, hễ là kẻ thù thì tôi sẽ giết! Phù... Đừng lo lắng, nếu đã chấp nhận kề vai sát cánh với bạn, tôi đương nhiên sẽ cố gắng làm tròn bổn phận của mình. Còn những chuyện nằm ngoài phạm vi này, tôi sẽ không câu nệ tính toán đâu."
+    }
+  },
+  {
+    "title": {
       "zhs": "闲聊·正鹄",
       "zht": "閒聊·正鵠",
       "jp": "世間話·正鵠",
@@ -9,7 +41,7 @@
       "de": "Gespräch – Ziel",
       "es": "Charla - Objetivo",
       "fr": "Bavardage - Cible",
-      "pt": "Conversa: Alvo",
+      "pt": "Bate-papo - Alvo",
       "ru": "Поболтаем: Цель",
       "id": "Berbincang: Mengenai sasaran",
       "th": "แชท - เป้าหมาย",
@@ -41,7 +73,7 @@
       "de": "Gespräch – Ewigkeit",
       "es": "Charla - Eternidad",
       "fr": "Bavardage - Éternité",
-      "pt": "Conversa: Eternidade",
+      "pt": "Bate-papo - Eternidade",
       "ru": "Поболтаем: Вечность",
       "id": "Berbincang: Keabadian",
       "th": "แชท - นิรันดร์",
@@ -56,9 +88,9 @@
       "de": "Es ist mein „Begehren“, die „Ewigkeit“ für den allmächtigen Shougun zu erreichen.",
       "es": "Alcanzar la eternidad que desea la todopoderosa Shogun, eso es a lo que aspiro.",
       "fr": "Atteindre l'éternité tant recherchée par la Shogun toute-puissante, telle est mon unique aspiration.",
-      "pt": "Manifestar a Eternidade pela vontade da Shogun. Isso é o que eu aspiro.",
+      "pt": "Manifestar a \"Eternidade\" pela vontade da Toda-Poderosa Shogun. Isso é o que eu aspiro.",
       "ru": "Добиться «вечности» для сёгуна - вот моё «желание».",
-      "id": "Harapanku adalah mewujudkan \"keabadian\" yang diimpikan Shogun.",
+      "id": "Untuk mewujudkan Keabadian yang diinginkan Yang Mulia Shogun, itulah harapanku.",
       "th": "ความปรารถนาของฉันคือการทำให้ \"ความเป็นนิรันดร์\" ของท่านโชกุนเป็นจริง",
       "vi": "Thực hiện \"vĩnh hằng\" cho Shogun đại nhân chính là \"nguyện vọng\" của tôi."
     }
@@ -73,7 +105,7 @@
       "de": "Gespräch – Pflicht",
       "es": "Charla - Deber",
       "fr": "Bavardage - Devoir",
-      "pt": "Conversa: Dever",
+      "pt": "Bate-papo - Dever",
       "ru": "Поболтаем: Миссия",
       "id": "Berbincang: Misi",
       "th": "แชท - ภารกิจ",
@@ -90,41 +122,9 @@
       "fr": "La responsabilité d'un guerrier tengu est de veiller sur les forêts et montagnes, tandis que celle du Clan Kujou est de protéger Inazuma. Deux missions pratiquement identiques.",
       "pt": "O dever de um guerreiro tengu é observar as montanhas e as florestas, enquanto o do clã Kujou é proteger Inazuma. Eles são similares.",
       "ru": "Нет никакой разницы между долгом тэнгу защищать лес и горы и миссией клана Кудзё защищать Инадзуму.",
-      "id": "Tugas Tengu adalah melindungi gunung dan hutan. Misi keluarga Kujou adalah melindungi Inazuma. Dua hal ini tidak ada bedanya.",
+      "id": "Tugas Tengu adalah melindungi gunung dan hutan. Misi keluarga Kujou adalah melindungi Inazuma. Dua hal ini saling berkaitan.",
       "th": "หน้าที่ของเท็งงุคือการปกป้องภูเขาและป่าไม้ ส่วนภารกิจของตระกูล Kujou คือการปกป้อง Inazuma ซึ่งทั้งสองนั้นไม่ต่างกันมากนัก",
       "vi": "Chức trách của Tengu là bảo vệ núi rừng, còn sứ mệnh của nhà Kujou là bảo vệ Inazuma, hai việc này cũng không khác nhau là bao."
-    }
-  },
-  {
-    "title": {
-      "zhs": "初次见面…",
-      "zht": "初次見面…",
-      "jp": "初めまして…",
-      "ko": "첫 만남…",
-      "en": "Hello",
-      "de": "Schön, dich kennenzulernen.",
-      "es": "Hola...",
-      "fr": "Première rencontre...",
-      "pt": "Olá...",
-      "ru": "Привет...",
-      "id": "Halo",
-      "th": "พบกันครั้งแรก...",
-      "vi": "Lần đầu gặp mặt..."
-    },
-    "line": {
-      "zhs": "我的名字是九条裟罗，你记不住也无妨，只需知道：我将永远护卫稻妻、践行鸣神的意志，不论神鬼，遇敌必除！呼…别紧张，既然答应与你并肩，我自当尽心尽职。大义外的事情，我不会计较的。",
-      "zht": "#我的名字是九條裟羅，{F#妳}{M#你}記不住也無妨，只需知道：我將永遠護衛稻妻、踐行鳴神的意志，不論神鬼，遇敵必除！呼…別緊張，既然答應與{F#妳}{M#你}並肩，我自當盡心盡職。大義外的事情，我不會計較的。",
-      "jp": "私の名は九条裟羅、別に覚えてもらわなくても構わない。私が稲妻を永遠に守護し、鳴神の意志を遂行する者だということだけを知っていればな。神であろうと鬼であろうと、敵であれば排除するのみ！ふぅ…そう緊張するな。お前と共に戦うことを約束したからには、きちんと責務を果たすつもりだ。大義以外のことはさほど気にしない。",
-      "ko": "내 이름은 쿠죠 사라, 기억 못 해도 괜찮아. 단 이것만 기억해. 난 영원히 이나즈마를 지키며 번개 신의 뜻을 행하고, 어떤 적이든 모두 제거할 것이다! 훗… 긴장하지 마, 너와 함께 하기로 한 이상 내 본분을 다할 테니까. 난 대의 외의 것은 따지지 않거든",
-      "en": "I am Kujou Sara. You may forget my name, but this you must know: On my watch, Inazuma will always be defended, and the will of the Shogun will always be done. Deity or demon, if you make an enemy of me you will be struck down! Oh, ahem... Don't be so nervous. I have agreed to fight by your side, and I will honor that commitment. I may be uncompromising on matters of great importance, but on most other things, you will find me quite easygoing.",
-      "de": "Mein Name ist Kujou Sara, aber es macht nichts, wenn du ihn dir nicht merken kannst, du sollst nur eines wissen: Ich werde Inazuma immer beschützen und den Willen von Narukami ausführen, egal ob es Götter oder Dämonen sind, ich werde sie beseitigen! Du musst nicht nervös sein. Da ich versprochen habe, an deiner Seite zu stehen, werde ich meine Pflicht tun. Es geht mir um nichts anderes als um das Allgemeinwohl.",
-      "es": "#Soy Kujou Sara. Puedes olvidar mi nombre, pero debes saber esto: siempre protegeré Inazuma y la voluntad de la Shogun siempre se cumplirá. Ya seas una deidad o un demonio, si te conviertes en mi enemigo, acabaré contigo. Oh, *ejem*... No te pongas nervios{F#a}{M#o}. Juré luchar a tu lado y cumpliré con mi promesa. No cedo ni un ápice en los asuntos de gran importancia, pero no soy quisquillosa con lo demás.",
-      "fr": "#Je suis Kujou Sara. Vous pouvez oublier mon nom, mais retenez ceci : sous ma garde, Inazuma sera toujours protégée et la volonté de la Shogun appliquée. Dieu ou démon, si vous faites de moi votre ennemie, je vous terrasserai ! Hum, ne sois pas si {F#nerveuse}{M#nerveux}. J'ai accepté de me battre à tes côté et j'honorerai mon engagement. Je peux être intransigeante pour ce qui est de grande importance, mais pour le reste, je suis plutôt facile à vivre.",
-      "pt": "#Eu sou Kujou Sara. Você talvez esqueça o meu nome, mas deve saber disso: enquanto eu estiver observando, Inazuma sempre estará defendida, e a vontade da Shogun sempre será feita. Seja divindade ou demônio, se virar {F#minha}{M#meu} inimig{F#a}{M#o}, será derrotad{F#a}{M#o}! Oh, não se preocupe. Eu concordei a lutar ao seu lado, e honrarei esse compromisso. Eu posso ser inflexível em questões de grande importância, mas na maioria das outras coisas, não sou tão séria.",
-      "ru": "Я Кудзё Сара. Ты можешь забыть моё имя, но тебе следует знать одно: пока я жива, Инадзума всегда будет защищена, а воля сёгуна - исполнена. Я уничтожу любого врага - пусть даже им будет божество или демон! Тебе не о чем переживать, я согласилась сражаться на твоей стороне, и я выполню это обязательство. Меня не волнует ничего, кроме долга.",
-      "id": "Namaku Kujou Sara. Tidak apa-apa kalau kamu tidak bisa mengingatnya, kamu hanya perlu tahu: Di bawah pengawasanku, Inazuma akan selalu aman dan kehendak Shogun akan selalu dipatuhi. Tidak peduli dewa ataupun iblis, semua musuh akan kusingkirkan! Oh, ehem ... Jangan gugup begitu. Aku sudah berjanji untuk bertarung bersamamu, dan aku akan menepati janji itu. Aku mungkin terlihat sangat keras untuk beberapa hal penting, tapi sebenarnya aku cukup santai kok.",
-      "th": "ฉันชื่อ Kujou Sara แต่ถ้าเธอจำไม่ได้ก็ไม่เป็นไร รู้ไว้แค่ว่า: ฉันจะปกป้อง Inazuma และทำตามเจตจำนงของ Narukami ตลอดไป ไม่ว่าเทพหรือผี ถ้าเป็นศัตรูล่ะก็ ฉันจะกำจัดให้หมด! หึ...ไม่ต้องตื่นเต้นไปหรอกนะ ในเมื่อฉันสัญญาว่าจะอยู่เคียงบ่าเคียงไหล่เธอแล้ว ฉันก็จะทำให้ถึงที่สุด ส่วนเรื่องที่อยู่นอกเหนือจากนี้ ฉันไม่ถือสาให้มากความหรอก",
-      "vi": "Tên tôi là Kujou Sara, bạn không nhớ cũng không sao, chỉ cần biết: Tôi sẽ luôn bảo vệ Inazuma và thực hiện ý chí của Narukami. Dù là thần hay ma, hễ là kẻ thù thì tôi sẽ giết! Phù... Đừng lo lắng, nếu đã chấp nhận kề vai sát cánh với bạn, tôi đương nhiên sẽ cố gắng làm tròn bổn phận của mình. Còn những chuyện nằm ngoài phạm vi này, tôi sẽ không câu nệ tính toán đâu."
     }
   },
   {
@@ -631,7 +631,7 @@
       "en": "Do you know what the most distinctively Inazuman item of all is? No, it is not a blade of any sort. It is a lacquerware carving of the Statue of Her Excellency, the Almighty Narukami Ogosho, God of Thunder. They are hand-made by old and skilled lacquerware craftspeople, and nearly every single home in the city has one. My house, you ask? I have five.",
       "de": "Weißt du, was die Spezialität mit dem stärksten Kultfaktor in Inazuma ist? Nein, keine Schwerter. Es sind die Lackwaren in Form der „allmächtigen Narukami“, die von erfahrenen Lackwarenmeistern handgefertigt werden und von denen in fast jedem Haus der Stadt eine geopfert wird. In meinem Haus? Da gibt es fünf von ihnen.",
       "es": "¿Sabes cuál es el objeto más típico de Inazuma? No, no es una espada. Es una figurilla lacada de Su Excelencia, la todopoderosa Narukami, la diosa del trueno. La hacen a mano unos artesanos muy habilidosos y prácticamente hay una en todas las casas de Inazuma. ¿Que cuántas tengo yo? Cinco.",
-      "fr": "Sais-tu quel est l'objet le plus représentatif du style inazumien ? Non, il ne s'agit pas d'une épée. C'est la « Statuette de son Excellence, la toute-puissante Narukami Ogosho », une statuette laquée. Elle est fabriquée à la main par un artisan de talent. On peut en trouver une dans quasiment chaque foyer à l'intérieur de la cité. Chez moi ? Il y en a cinq.",
+      "fr": "Sais-tu quel est l'objet le plus représentatif du style inazumien ? Non, il ne s'agit pas d'une épée. C'est la « Statuette de Son Excellence, la toute-puissante Narukami Ogosho », une statuette laquée. Elle est fabriquée à la main par un artisan de talent. On peut en trouver une dans quasiment chaque foyer à l'intérieur de la cité. Chez moi ? Il y en a cinq.",
       "pt": "Você sabe qual é o item mais distinto de Inazuma? Não, não é nenhuma lâmina. São as estátuas de laca de Vossa Excelência, a Toda-Poderosa Narukami Ogosho, Deusa do Trovão. Elas foram feitas por velhos e habilidosos laqueadores, e quase toda casa na cidade tem uma. Você quer saber quantas há na minha casa? Cinco.",
       "ru": "Ты знаешь, какие диковинки есть в Инадзуме? Нет, не ножи. Это лаковые фигурки её превосходительства Наруками Огосё, изготовленные руками опытных мастеров. Почти в каждом доме Инадзумы есть такие. Есть ли у меня фигурки? Пять штук.",
       "id": "Apakah kamu tahu produk khas yang paling mewakili Inazuma? Bukan, bukan pedang. Produk khas itu adalah kerajinan lak yang berbentuk Patung Yang Mulia Narukami Ogosho Yang Mahakuasa, Sang Dewa Petir — yang dipahat dengan tangan para pengrajin berpengalaman. Hampir setiap rumah di Inazuma memiliki satu kerajinan itu. Di rumahku? Aku punya lima.",
@@ -760,7 +760,7 @@
       "de": "Solange sie in meiner Kaserne nicht wahllos Feuerwerkskörper zündet, werde ich sie nicht stören. Das Feuerwerk, das sie macht, ist, abgesehen von anderen Dingen, strahlend und lobenswert. Es ist nur so, dass Feuerwerke unbeständig sind, und wenn das momentane Glühen vorbei ist, ist alles, was am Nachthimmel noch übrig ist, Dunkelheit. Deshalb erinnere ich mich oft daran, dass ich nicht in diesen illusorischen Lichtern versinken darf, wenn ich meine Mission zum Schutz von Inazuma erfüllen will.",
       "es": "Mientras no se ponga a lanzar fuegos artificiales en mi campamento, yo no la molesto. Jeje, sí, ya sé, sus creaciones son magníficas y espectaculares y merecen todas las alabanzas que le dedican. Para mí, el problema es que los fuegos artificiales son por naturaleza fugaces. Tras una breve explosión de luz, lo único que queda es el cielo negro, igual que antes. Muchas veces tengo que recordarme a mí misma que no debo quedarme demasiado embobada con ese espectáculo ilusorio. Es transitorio, pero Inazuma es eterna, y mi misión es proteger Inazuma.",
       "fr": "Tant qu'elle ne lance pas de feu d'artifice dans mon camp, je ne lui causerai aucun ennui. Hmm, oui je sais, il faut avouer que ses feux d'artifice sont impressionnants et colorés, elle mérite les louanges qui lui sont adressées. Selon moi, le souci est que les feux d'artifice sont intrinsèquement éphémères. Après un bref instant d'éclat, il ne reste que l'immuable obscurité. Je dois donc me rappeler régulièrement de ne pas me laisser aller à ce spectacle illusoire. Il est temporaire, contrairement à Inazuma, et ma mission est de la protéger.",
-      "pt": "Desde que ela não solte fogos de artíficio no meu acampamento, não lhe causarei problemas. Sim, eu sei, apesar de tudo, seus fogos de artífico são espetaculares e brilhantes, e ela merece todos os elogios que recebe. O problema para mim é que os fogos de artíficio são passageiros pela sua própria natureza. Após um breve momento de luz ofuscante, tudo que permanece é o céu escuro, o mesmo que antes. Por isso, eu constantemente tenho que ser cautelosa para não ser cativada por esse espetáculo ilusório. Ele é passageiro, mas Inazuma é eterna, e minha missão é protegê-la.",
+      "pt": "Desde que ela não solte fogos de artifício no meu acampamento, não lhe causarei problemas. Sim, eu sei, apesar de tudo, seus fogos de artifício são espetaculares e brilhantes, e ela merece todos os elogios que recebe. O problema para mim é que os fogos de artifício são passageiros pela sua própria natureza. Após um breve momento de luz ofuscante, tudo que permanece é o céu escuro, o mesmo que antes. Por isso, eu constantemente tenho que ser cautelosa para não ser cativada por esse espetáculo ilusório. Ele é passageiro, mas Inazuma é eterna, e minha missão é protegê-la.",
       "ru": "Пока она не устраивает беспорядочные фейерверки в моём лагере, я не буду ей мешать. Не считая всего остального, фейерверки, которые она устраивает, действительно выше всякой похвалы. Просто фейерверки непостоянны, и когда мгновенное сияние заканчивается, на ночном небе остаётся лишь темнота. Поэтому я часто напоминаю себе, что если я хочу выполнить свою миссию по защите Инадзумы, я не должна погружаться в эти иллюзорные огни.",
       "id": "Asalkan dia tidak menyalakan kembang api di kemahku, aku tidak akan mencari masalah dengannya. Heh, aku tahu, kalau tidak melihat hal-hal lainnya, kembang api buatannya memang sangat indah dan patut dipuji. Tapi kembang api sirna dalam sekejap, saat kemegahan cahaya itu berakhir, yang tersisa di langit malam hanyalah kegelapan. Jadi aku selalu mengingatkan diriku untuk tidak terpaku pada ilusi sesaat tersebut. Keindahan itu hanya sementara saja, tapi Inazuma kekal abadi, dan tugasku adalah untuk melindungi Inazuma.",
       "th": "ขอแค่เธอไม่มาจุดดอกไม้ไฟในค่ายทหารของฉัน ฉันก็ไม่มีปัญหากับเธอหรอก หึ ฉันรู้ว่าดอกไม้ไฟที่เธอทำนั้นสวยงามอลังการ และน่าชื่นชมมาก แต่ดอกไม้ไฟน่ะ หลังจากที่แสงระยิบระยับดับแล้วก็หายไปทันที เหลือเพียงแค่ท้องฟ้ายามค่ำคืนที่มืดมิดตามเดิม ฉันก็เลยคอยเตือนตัวเองเสมอว่า ภารกิจของฉันคือการปกป้อง Inazuma และฉันจะต้องไม่หลงไปกับภาพลวงตาเหล่านี้",
@@ -920,7 +920,7 @@
       "de": "Sie ist eher als „Militärstrategin“ als als „Schreinjungfer“ begabt. Die Verwendung einer Liste von Tipps und Tricks in einer Schlacht war bis dahin unbekannt. Sollte ich auf diese Weise auch lernen, wie man die Bakufu-Armee befehligt? Nun ... aber das könnte sich als ein Fall herausstellen, bei dem beide Seiten ihre Pläne auf den Tisch legen und sie wie Karten gegeneinander ausspielen ... Wenn ich so darüber nachdenke, glaube ich nicht, dass es funktionieren würde.",
       "es": "Es mejor como estratega militar que como sacerdotisa. La manera en que usa las directrices para librar una guerra es muy inusual. Tal vez yo debería adoptar esa técnica para comandar el ejército de la Shogun... Hummm, pero esto podría conducirnos a una situación en la que la guerra se lucharía en la mesa de negociación, cada bando con sus cartas de estrategia, jugándolas de una en una hasta que un lado salga vencedor... Mejor no.",
       "fr": "Elle est meilleure stratège qu'elle n'est prêtresse. La manière dont elle utilise ses directives pour mener la guerre est inouïe. Je me demande si je ne devrais pas m'en inspirer pour diriger l'armée du Shogunat ? Hmm... Cela nous amènerait peut-être à une situation où la guerre est négociée autour d'une table, chaque partie avec ses cartes stratégiques en main, les abaissant une à une jusqu'à ce qu'un vainqueur en émerge... Finalement, mieux vaut éviter cela.",
-      "pt": "Ela é mais habilidosa como uma estrategista militar do que como uma sacerdotisa. A maneira que usa diretivas para guerrar é única. Me pergunto se eu deveria adotar essa técnica para comandar o Exército da Shogun... Hmm, mas isso poderia levar a uma situação em que a guerra é feita na mesa de negociações, com cada lado tendo suas cartas na manga, jogando elas uma por uma até que um saia vitorioso... Bem, por causa disso, acho que não.",
+      "pt": "Ela é mais habilidosa como uma estrategista militar do que como uma sacerdotisa. A maneira que usa diretivas para guerra é única. Me pergunto se eu deveria adotar essa técnica para comandar o Exército da Shogun... Hmm, mas isso poderia levar a uma situação em que a guerra é feita na mesa de negociações, com cada lado tendo suas cartas na manga, jogando elas uma por uma até que um saia vitorioso... Bem, por causa disso, acho que não.",
       "ru": "Она более талантлива как военачальник, чем как жрица. До неё никто не воевал директивами. Это неслыханно! Следует ли мне также научиться использовать этот метод, чтобы давать указания армии сёгуна? Хм... Боюсь, что это может оказаться тем случаем, когда обе стороны выкладывают комплекты на стол и играют ими друг против друга, как картами... Не думаю, что этот метод верен.",
       "id": "Dibandingkan seorang pendeta, dia lebih pandai menjadi seorang ahli strategi. Caranya menggunakan pengarahan strategi saat bertempur sama sekali belum pernah ada sebelumnya. Apa aku juga harus belajar menggunakan metode ini untuk memberi arahan pada Pasukan Shogun? Hmmm ... Takutnya nanti kedua pihak malah berperang di atas meja, sambil mengeluarkan kartu strategi mereka masing-masing sampai menang ... Ah, tapi sepertinya tidak mungkin.",
       "th": "เทียบกับ \"มิโกะ\" แล้ว ถือว่าเธอเป็น \"ผู้บัญชาการ\" ที่มีความสามารถมาก การใช้คู่มือในการต่อสู้ ก็เป็นสิ่งที่ไม่เคยได้ยินมาก่อน ฉันควรจะสั่งการกองทัพแห่งโชกุนด้วยวิธีแบบนี้บ้างดีมั้ยนะ? อืม...แต่กลัวว่าทั้งสองฝ่ายจะพากันกางคู่มือ หงายไพ่ของตัวเองไปเรื่อย ๆ จนกว่าจะชนะ...แค่คิดก็ไม่เหมาะแล้ว",
@@ -993,6 +993,38 @@
   },
   {
     "title": {
+      "zhs": "关于久岐忍…",
+      "zht": "關於久岐忍…",
+      "jp": "久岐忍について…",
+      "ko": "쿠키 시노부에 대해…",
+      "en": "About Kuki Shinobu",
+      "de": "Über Kuki Shinobu ...",
+      "es": "Sobre Kuki Shinobu...",
+      "fr": "À propos de Kuki Shinobu...",
+      "pt": "Sobre Kuki Shinobu...",
+      "ru": "О Куки Синобу...",
+      "id": "Tentang Kuki Shinobu",
+      "th": "เกี่ยวกับ Kuki Shinobu",
+      "vi": "Về Kuki Shinobu..."
+    },
+    "line": {
+      "zhs": "以她的才华和资质，留在那个名为「荒泷派」的组织实在有点可惜。但不得不说，有她在，至少有效地阻止了闲散人士滋事扰民，减轻了天领奉行的负担。",
+      "zht": "以她的才華和資質，留在那個名為「荒瀧派」的組織實在有點可惜。但不得不說，有她在，至少有效地阻止了閒散人士滋事擾民，減輕了天領奉行的負擔。",
+      "jp": "彼女ほどの才能と素質を持ちながら、「荒瀧派」という組織に残っているのは実に惜しいことだ。だが、彼女がいるおかげで、自由気ままなどこぞの輩が騒ぎを起こしたり、民の生活を邪魔したりするようなことが減った。天領奉行の負担を軽減しているのは確かだろう。",
+      "ko": "그런 재능과 실력으로 「아라타키파」라는 조직에 남아 있는 건 참으로 아까운 일이야. 하지만 그녀의 존재가 그 놈팡이들이 말썽 피우고 백성들에게 피해 주는 걸 어느 정도 방지해 주는 건 사실이야. 텐료 봉행의 부담도 훨씬 줄어든 셈이지",
+      "en": "With her talent and qualifications, it's a shame she decided to join the Arataki gang. I must concede, however, that at the very least, her presence has effectively prevented idlers from stirring up trouble and disturbing the public, reducing the burden on the Tenryou Commission.",
+      "de": "Angesichts ihres Talents und ihrer Qualifikationen ist es schade, dass sie bei der Organisation namens „Arataki-Bande“ bleibt. Es muss jedoch gesagt werden, dass ihre Anwesenheit zumindest wirksam verhindert hat, dass untätige Leute Unruhe stiften, somit die Tenryou-Verwaltung entlastet wurde.",
+      "es": "Con su talento y cualificación, es una lástima que decidiera unirse a la Banda de Arataki. Sin embargo, he de admitir que, al menos, su presencia ha evitado que los más holgazanes causen problemas y perturben el orden público, lo que ha reducido la carga que la Comisión Tenryou lleva a sus hombros.",
+      "fr": "Avec son talent et ses qualifications, c'est dommage qu'elle ait décidé de rejoindre le gang Arataki. Je dois cependant concéder qu'au moins, sa présence a permis d'empêcher ces tire-au-flanc de semer le trouble et de perturber l'ordre public. Cela rend service à la Commission administrative.",
+      "pt": "Com o talento e qualificação dela, é uma pena que decidiu se juntar à Gangue Arataki. Entretanto, tenho que admitir que no mínimo, sua presença foi eficaz em impedir que os ociosos criassem problemas para o público, reduzindo assim o fardo na Comissão Tenryou.",
+      "ru": "С её талантом и знаниями очень жаль, что она решила присоединиться к банде Аратаки. Но, стоит признать, что она эффективно мешает бездельникам создавать проблемы и беспокоить общественность, что здорово уменьшает нагрузку на комиссию Тэнрё.",
+      "id": "Orang berbakat dan punya kualifikasi seperti dia sayang sekali malah gabung ke Geng Arataki. Aku tetap harus mengakui bahwa keberadaanya berhasil mencegah para pengangguran itu bikin kacau di ruang publik, sehingga mengurangi beban kerja Tenryou Commission.",
+      "th": "ด้วยความสามารถ และความถนัดของเธอ น่าเสียดายที่ต้องอยู่ในกลุ่มที่เรียกตัวเองว่า \"แก๊ง Arataki\" แต่จะไม่พูดก็ไม่ได้ อย่างน้อยการที่มีเธออยู่ก็ช่วยป้องกันไม่ให้เจ้าคนว่างงานเที่ยวไปก่อเรื่องวุ่นวายน่ารำคาญได้ ลดภาระของสำนัก Tenryou ไปได้โขเลยแหละ",
+      "vi": "Với tư chất và tài năng của cô ấy, gia nhập vào Bang Arataki quả là đáng tiếc. Nhưng cũng phải nói là, có cô ấy ở đó ít ra cũng ngăn cản được những kẻ nhàn rỗi quấy nhiễu người dân, giảm bớt gánh nặng cho Hiệp Hội Tenryou."
+    }
+  },
+  {
+    "title": {
       "zhs": "想要了解裟罗·其一",
       "zht": "想要瞭解裟羅·其一",
       "jp": "九条裟羅を知る·1",
@@ -1001,7 +1033,7 @@
       "de": "Ich will mehr über Sara erfahren I",
       "es": "Más sobre Kujou Sara (I)",
       "fr": "Connaître Sara (1)",
-      "pt": "Mais sobre Kujou Sara: I",
+      "pt": "Mais sobre Kujou Sara - I",
       "ru": "Узнать больше о Саре I",
       "id": "Mengenal Sara: I",
       "th": "อยากรู้เกี่ยวกับ Kujou Sara - 1",
@@ -1018,7 +1050,7 @@
       "fr": "Tu veux en savoir plus sur moi ? Que veux-tu savoir exactement ? Je ne peux pas discuter des affaires de la Commission administrative avec toi, tout comme je ne peux divulguer aucune information quant à la Shogun toute-puissante. Je ne comprends pas tes intentions. Hmm ? Me connaître personnellement ? J'imagine que c'est envisageable, c'est juste que... Cela ne m'est jamais arrivé auparavant.",
       "pt": "Você quer saber mais sobre mim? ...Saber o quê, exatamente? Não posso discutir com você os negócios da Comissão Tenryou, isso é estritamente confidencial, e certamente não posso divulgar nada relacionado a Toda-Poderosa Shogun. O que você está tentando conseguir exatamente? Onde você está tentando chegar? Sobre mim de forma pessoal...? Suponho que isso não esteja fora de questão, apenas... Sem precedentes.",
       "ru": "Хочешь узнать обо мне больше? Что именно? Я не могу обсуждать дела комиссии Тэнрё, это строго конфиденциально. И уж точно не могу разглашать ничего, связанного с её превосходительством. Чего именно ты пытаешься добиться? Хочешь узнать лично обо мне? Полагаю, это не исключено, просто... беспрецедентно.",
-      "id": "Kamu ingin tahu lebih banyak tentangku? Ingin tahu tentang apa? Aku tidak bisa mendiskusikan urusan Tenryou Commission denganmu. Itu hal yang sangat rahasia dan tentu saja aku tidak bisa membocorkan apa pun tentang Yang Mulia Shogun. Sebenarnya informasi apa yang ingin kamu dapatkan? Hmmm? Diriku secara pribadi ...? Boleh saja sih, tapi ... belum pernah ada yang bertanya tentang ini padaku.",
+      "id": "Ingin tahu lebih banyak tentangku? Ingin tahu tentang apa? Aku tidak boleh bahas urusan Tenryou Commission denganmu, itu sangat rahasia. Dan tentu saja, aku tidak bisa komentar apa pun tentang Yang Mulia Shogun. Sebenarnya kamu perlu informasi macam apa? Eh? Hal-hal yang lebih pribadi ....? Boleh saja, tapi ... belum pernah ada yang bertanya tentang ini sebelumnya.",
       "th": "อยากรู้เกี่ยวกับฉัน...หมายความว่ายังไงเหรอ? กิจการต่าง ๆ ของสำนัก Tenryou นั้นเป็นความลับ เรื่องของท่านโชกุนยิ่งไม่สามารถเปิดเผยได้ ฉันไม่เข้าใจว่าเธอมีแผนอะไรกันแน่ หืม? อยากรู้เกี่ยวกับตัวฉันเอง? ก็ใช่ว่าจะไม่ได้นะ เพียงแต่...ไม่เคยมีเรื่องแบบนี้มาก่อนน่ะ",
       "vi": "Tìm hiểu về tôi... là tìm hiểu chuyện gì? Chuyện trong Hiệp Hội Tenryou là cơ mật, chuyện của Shogun đại nhân thì không thể nói, cho nên tôi không hiểu bạn đang có ý đồ gì. Hử? Tìm hiểu về bản thân tôi sao? Cũng không phải không được, chỉ là... tôi chưa từng gặp qua tình huống này thôi."
     }
@@ -1033,7 +1065,7 @@
       "de": "Ich will mehr über Sara erfahren II",
       "es": "Más sobre Kujou Sara (II)",
       "fr": "Connaître Sara (2)",
-      "pt": "Mais sobre Kujou Sara: II",
+      "pt": "Mais sobre Kujou Sara - II",
       "ru": "Узнать больше о Саре II",
       "id": "Mengenal Sara: II",
       "th": "อยากรู้เกี่ยวกับ Kujou Sara - 2",
@@ -1046,11 +1078,11 @@
       "ko": "내 생활은 비교적 단순한 편이야. 전투를 지휘하지 않을 땐 정확히 새벽 5시 5분에 일어나고, 나와서 심호흡 다섯 세트를 한 후에 정원 다섯 바퀴를 걸어. 아침밥은 딱 다섯 입만 먹고… 「5」는 나에게 행운과 승리를 가져다주는 숫자야. 그래서 난 무슨 일을 하든 「5」를 고수하고 있지. 무슨 문제라도?",
       "en": "I lead a relatively simple life when I'm not leading an army into battle. I always get out of bed at 5:05 on the dot. Then I go to the courtyard where I take five deep breaths before walking five laps around it. For breakfast, I typically eat five mouthfuls... Five is my lucky number, so I do things in fives. Do you have some objection to that?",
       "de": "Mein Leben ist eigentlich recht simpel organisiert: Wenn ich nicht gerade eine Schlacht anführen muss, stehe ich um 5:05 Uhr auf, atme fünfmal tief durch, laufe fünf Runden im Hof und esse fünf Bissen Reis zum Frühstück ... „Fünf“ ist die Zahl, die mir Glück und Sieg bringt, also bleibe ich immer bei fünf ... Irgendwelche Einwände?",
-      "es": "Mi vida es bastante sencilla. Cuando no estoy liderando a un ejército a la batalla me levanto a las cinco y cinco en punto. Después voy al patio, donde hago cinco respiraciones profundas y ando cinco vueltas. Para desayunar tomo cinco bocados... El cinco es mi número de la suerte, por eso hago las cosas de cinco en cinco. ¿Tienes algún problema con eso?",
+      "es": "Mi vida es bastante sencilla. Cuando no estoy liderando a un ejército a la batalla me levanto exactamente a las cinco y cinco. Después voy al patio, donde hago cinco respiraciones profundas y ando cinco vueltas. Para desayunar tomo cinco bocados... El cinco es mi número de la suerte, por eso hago las cosas de cinco en cinco. ¿Tienes algún problema con eso?",
       "fr": "Ma vie est plutôt simple. Quand je ne guide pas mes troupes au combat, je me lève à cinq heures cinq précisément. Je me rends ensuite dans la cour, je prends cinq inspirations avant d'en faire cinq fois le tour. Au petit déjeuner, je mange cinq bouchées de riz... Le chiffre cinq me porte bonheur, je fais donc tout par tranche de cinq. Des objections ?",
-      "pt": "Eu tenho uma vida relativamente simples quando não estou liderando um exército. Sempre levanto da cama às 5:05. Então vou para o pátio, respiro cinco vezes antes de dar cinco voltas ao redor dele. Para o café da manhã, eu como sempre cinco colheradas cheias... Cinco é meu número da sorte, você tem algum problema com isso?",
+      "pt": "Eu tenho uma vida relativamente simples quando não estou liderando um exército. Sempre me levanto da cama às 5:05. Então vou para o pátio, respiro cinco vezes antes de dar cinco voltas ao redor do pátio. Para o café da manhã, eu como sempre cinco colheradas cheias... Cinco é meu número da sorte, você tem algum problema com isso?",
       "ru": "У меня довольно простой образ жизни. Когда не надо вести армию в бой, я встаю в 5:05. Затем я иду во двор, где делаю пять глубоких вдохов, прежде чем пройти пять кругов вокруг него. На завтрак я обычно съедаю пять кусочков еды... Пять - моё счастливое число, поэтому я все делаю по пять. У тебя есть какие-то возражения по этому поводу?",
-      "id": "Aku menjalani kehidupan yang relatif sederhana saat aku tidak memimpin pasukan ke medan perang. Aku selalu bangun tepat pukul 5:05. Setelah itu aku pergi ke halaman di mana aku mulai menarik napas dalam-dalam sebanyak lima kali sebelum berjalan sebanyak lima putaran di situ. Untuk sarapan, aku biasanya makan sebanyak lima suap... Lima adalah angka keberuntunganku, jadi aku melakukan segala sesuatu dengan angka 5. Kamu keberatan?",
+      "id": "Saat tidak sedang berperang, hari-hariku lebih sederhana. Aku selalu bangun tepat pukul 05:05. Lalu aku ke halaman, menarik napas dalam-dalam sebanyak lima kali, kemudian jalan keliling lapangan sampai lima putaran. Untuk sarapan, aku biasa makan sebanyak lima suap ... Lima adalah angka keberuntunganku, jadi aku melakukan segala sesuatu dengan angka 5. Kenapa, keberatan?",
       "th": "จริง ๆ แล้วชีวิตฉันค่อนข้างเรียบง่าย ถ้าไม่ได้นำทัพเข้าต่อสู้ ฉันจะตื่นนอนตอนตีห้า ห้านาทีเสมอ จากนั้นฉันจะไปที่ลานบ้านแล้วหายใจเข้าลึก ๆ ห้าครั้ง ก่อนที่จะเดินไปรอบ ๆ ห้ารอบ ส่วนอาหารเช้าฉันจะกินข้าวห้าคำ... \"ห้า\" ถือเป็นเลขนำโชคของฉัน ฉันเลยทำทุกอย่าง 5 ครั้ง เธอมีอะไรคัดค้านมั้ย?",
       "vi": "Thực ra cuộc sống của tôi đơn giản lắm, không dẫn quân chiến đấu thì tôi sẽ thức dậy lúc 5 giờ sáng, tập luyện rồi ăn 5 chén cơm... Tôi cảm thấy số 5 là số tượng trưng cho may mắn và thắng lợi, cho nên tôi luôn kiên trì với số 5. Bạn có ý kiến gì không?"
     }
@@ -1065,7 +1097,7 @@
       "de": "Ich will mehr über Sara erfahren III",
       "es": "Más sobre Kujou Sara (III)",
       "fr": "Connaître Sara (3)",
-      "pt": "Mais sobre Kujou Sara: III",
+      "pt": "Mais sobre Kujou Sara - III",
       "ru": "Узнать больше о Саре III",
       "id": "Mengenal Sara: III",
       "th": "อยากรู้เกี่ยวกับ Kujou Sara - 3",
@@ -1082,8 +1114,8 @@
       "fr": "Ce qui me donnait le plus de fil à retordre lorsque je faisais respecter le décret de saisie était ces officiers qui abusaient de leur autorité. La volonté de la Shogun toute-puissante doit être appliquée, mais je ne tolère pas la violence envers les innocents. J'ai réprimé ce type de comportement à de nombreuses reprises, mais à en juger du résultat... C'est un mal bien difficile à éradiquer. Si tu as une idée pour en venir à bout, fais-le-moi savoir.",
       "pt": "O que me deu mais trabalho enquanto cumpria o Decreto de Caça à Visão eram aqueles oficiais do Shogunato que abusavam de sua autoridade para serem brutos com quem nós detínhamos. A vontade da Toda-Poderosa Shogun deve ser cumprida, mas eu não aceito violência contra pessoas inocentes! Eu proibi tal comportamento em inúmeras ocasiões, mas parece ser um problema difícil de ser acabado. Se você tiver ideias de como lidar com ele, sinta-se à vontade para me contar.",
       "ru": "Больше всего проблем при исполнении указа об Охоте на Глаза Бога мне доставляли те офицеры армии сёгуна, которые злоупотребляли своими полномочиями, применяя грубую силу к тем, кого мы задерживали. Воля всемогущего сёгуна должна быть исполнена, но я не потворствую насилию над невинными людьми! Я неоднократно прямо запрещала подобное поведение, но, судя по результатам, это трудно искоренить. Если у тебя есть идеи, как с этим бороться, пожалуйста, поделись ими со мной.",
-      "id": "Hal yang paling menyulitkanku saat melaksanakan Dekrit Perburuan Vision adalah Tentara Shogun yang menyalahgunakan wewenangnya untuk semena-mena memperlakukan orang-orang yang kami tahan. Kehendak Yang Mulia Shogun memang harus dieksekusi, tapi aku tidak bisa menoleransi kekerasan yang dilakukan kepada orang yang tidak bersalah! Aku sudah seringkali melarang perilaku seperti itu secara tegas, tapi hasilnya... tampaknya masih sulit untuk diberantas sampai ke akar-akarnya. Kalau kamu punya ide untuk mengatasinya, coba bicarakan denganku.",
-      "th": "ตอนที่ปฏิบัติตามคำสั่งล่าวิชั่น สิ่งที่ทำให้ฉันลำบากใจมากที่สุด ก็คือพวกทหารของกองทัพโชกุนที่ใช้อำนาจตามอำเภอใจในทางที่ผิด จริงอยู่ที่ต้องยึดมั่นในภารกิจของท่านโชกุน แต่ฉันไม่เห็นด้วยกับการใช้ความรุนแรงต่อผู้บริสุทธิ์! ฉันเคยห้ามพฤติกรรมแบบนี้มาหลายต่อหลายครั้ง แต่ดูจากผลลัพธ์แล้ว...ก็ยังยากที่จะกำจัดให้สิ้นซากได้ ถ้าเธอมีวิธีดี ๆ ล่ะก็ ช่วยบอกฉันด้วยนะ",
+      "id": "Yang paling menyulitkanku semasa Dekrit Perburuan Vision adalah perwira ketentaraan Shogun yang menyalahgunakan wewenangnya untuk memperlakukan orang-orang yang kami tahan dengan semena-mena. Kehendak Yang Mulia Shogun memang harus dilaksanakan, tapi aku tidak menoleransi tindak kekerasan terhadap orang yang tidak bersalah! Aku dengan tegas melarang perilaku seperti itu, tapi ... tetap sulit untuk diberantas sampai ke akar-akarnya. Kalau kamu punya cara untuk mengatasinya, tolong diskusikan denganku.",
+      "th": "ตอนที่ปฏิบัติตามคำสั่งล่าวิชั่น สิ่งที่ทำให้ฉันลำบากใจมากที่สุด ก็คือพวกทหารของกองทัพแห่งโชกุนที่ใช้อำนาจตามอำเภอใจในทางที่ผิด จริงอยู่ที่ต้องยึดมั่นในภารกิจของท่านโชกุน แต่ฉันไม่เห็นด้วยกับการใช้ความรุนแรงต่อผู้บริสุทธิ์! ฉันเคยห้ามพฤติกรรมแบบนี้มาหลายต่อหลายครั้ง แต่ดูจากผลลัพธ์แล้ว...ก็ยังยากที่จะกำจัดให้สิ้นซากได้ ถ้าเธอมีวิธีดี ๆ ล่ะก็ ช่วยบอกฉันด้วยนะ",
       "vi": "Trong quá trình chấp hành Lệnh Truy Lùng Vision, việc khó khăn nhất chính là quản lý đám quân lính lạm quyền. Lệnh của đại nhân Shogun nhất định phải chấp hành, nhưng tôi không cho phép họ cố ý chén ép người dân! Tôi đã luôn nghiêm cấm hành vi này... tuy nhiên cũng khó lòng dập tắt. Nếu như bạn có cách gì hay hơn thì hãy chỉ cho tôi nhé."
     }
   },
@@ -1097,7 +1129,7 @@
       "de": "Ich will mehr über Sara erfahren IV",
       "es": "Más sobre Kujou Sara (IV)",
       "fr": "Connaître Sara (4)",
-      "pt": "Mais sobre Kujou Sara: IV",
+      "pt": "Mais sobre Kujou Sara - IV",
       "ru": "Узнать больше о Саре IV",
       "id": "Mengenal Sara: IV",
       "th": "อยากรู้เกี่ยวกับ Kujou Sara - 4",
@@ -1112,10 +1144,10 @@
       "de": "Obwohl ich vom Namen her von der Kujou-Familie adoptiert bin, sieht mich Takayuki anders an als Kamaji. Selbst jemand, der so ruhig wie ich ist, fühlt sich gelegentlich einsam ... vor allem nachdem ich gesehen hatte, wie warm und herzlich meine Leute mit ihren Liebsten umgehen.\n\nTut mir leid. Takayuki war gut zu mir und ich hätte nicht so etwas Respektloses sagen sollen ...",
       "es": "Aunque fui adoptada por el clan Kujou, sé que Takayuki no me considera igual a Kamaji. Puede que a veces parezca dura, pero incluso a mí llega a afectarme la soledad a veces... Especialmente cuando veo a uno de mis subordinados compartiendo un momento íntimo con su familia.\n\nLo siento, no tengo más que agradecimientos para Takayuki. ¿Cómo puedo ser tan ingrata...?",
       "fr": "Bien que le Clan Kujou m'ait adoptée, je sais pertinemment que le regard que Takayuki porte sur moi est différent de celui qu'il porte sur Kamaji. Même quelqu'un d'aussi impassible que moi peut ressentir la solitude... Surtout lorsque j'aperçois mes subordonnés profiter de moments chaleureux avec leurs proches.\n\nExcuse-moi, Takayuki est bon avec moi, je ne devrais pas tenir de propos aussi irrespectueux...",
-      "pt": "Apesar de eu ser adotada pelo Clã Kujou, agora eu sei que Takayuki não olha para mim do mesmo jeito que olha para Kamaji. Eu talvez possa ser um pouco indiferente... Especialmente quando vejo um de meus subordinados tendo um momento de intimidade com sua família...\n\nEu peço desculpas, eu só tenho gratidão à Takayuki. Como que eu pude ser tão desrespeitosa...",
-      "ru": "Хотя меня удочерил клан Кудзё, я знаю, что Такаюки смотрит на меня по-другому. Возможно, иногда я бываю немного упрямой, но даже мне бывает одиноко... особенно когда я вижу, как один из моих подчиненных проявляет близость при встрече с семьёй.\n\nПрости, я не испытываю ничего, кроме благодарности к Такаюки. Как я могу быть такой неблагодарной...",
-      "id": "Walaupun aku sepenuhnya diadopsi oleh Klan Kujou, aku tahu bahwa Takayuki tidak memandangku sama seperti ketika dia memandang Kamaji. Mungkin aku terkadang sedikit keras kepala, tetapi aku pun pernah merasa kesepian... terutama saat aku melihat salah satu bawahanku terlihat begitu akrab dengan keluarganya saat mereka bertemu....\n\nMaaf, aku seharusnya bersyukur atas kebaikan Takayuki. Bagaimana bisa barusan aku tidak sopan begini...",
-      "th": "ถึงแม้ฉันจะเป็นลูกบุญธรรมของตระกูล Kujou แต่สายตาที่ Takayuki มองฉันไม่ได้เหมือนกับเวลาที่มอง Kamaji ถึงแม้ฉันจะดูแข็งแค่ไหน แต่บางครั้งฉันก็เหงาเป็นเหมือนกัน โดยเฉพาะ...เมื่อฉันเห็นภาพอันอบอุ่นของลูกน้องกับคนในครอบครัว\n\nขอโทษด้วย นายท่านมีบุญคุณกับฉันมาก ฉันไม่ควรจะพูดจาที่ดูไม่ให้ความเคารพแบบนี้...",
+      "pt": "Apesar de eu ter sido adotada pelo Clã Kujou, agora eu sei que Takayuki não olha para mim do mesmo jeito que olha para Kamaji. Eu talvez possa ser um pouco indiferente... Especialmente quando vejo um de meus subordinados tendo um momento de intimidade com sua família...\n\nEu peço desculpas, eu só tenho gratidão a Takayuki. Como que eu pude ser tão desrespeitosa...",
+      "ru": "Хотя меня удочерил клан Кудзё, я знаю, что Такаюки смотрит на меня по-другому. Возможно, иногда я бываю немного упрямой, но даже мне бывает одиноко... особенно когда я вижу, как один из моих подчинённых проявляет близость при встрече с семьёй.\n\nПрости, я не испытываю ничего, кроме благодарности к Такаюки. Как я могу быть такой неблагодарной...",
+      "id": "Aku memang sudah sepenuhnya diadopsi oleh Klan Kujou, tapi aku tahu kalau Takayuki tidak memandangku sama seperti ketika dia memandang Kamaji. Aku memang sering terlihat tidak bergeming, tapi aku juga kadang bisa kesepian ... terutama saat aku melihat ada bawahanku yang sedang melepas rindu dengan keluarga ....\n\nMaaf, aku seharusnya bersyukur atas kebaikan Takayuki. Kenapa aku malah berpikir lancang begitu ....",
+      "th": "ถึงแม้ฉันจะเป็นลูกบุญธรรมของตระกูล Kujou แต่สายตาที่ Takayuki มองฉันไม่ได้เหมือนกับเวลาที่มอง Kamaji ถึงแม้ฉันจะดูแข็งแกร่งแค่ไหน แต่บางครั้งฉันก็เหงาเป็นเหมือนกัน โดยเฉพาะ...เมื่อฉันเห็นภาพอันอบอุ่นของลูกน้องกับคนในครอบครัว\n\nขอโทษด้วย นายท่านมีบุญคุณกับฉันมาก ฉันไม่ควรจะพูดจาที่ดูไม่ให้ความเคารพแบบนี้...",
       "vi": "Tuy trên danh nghĩa thì tôi là con nuôi của nhà Kujou, nhưng cách mà đại nhân Takayuki nhìn tôi với Kamaji rất khác nhau. Dù tôi có sắt đá thế nào thì cũng có lúc cảm thấy cô đơn, đặc biệt là... khi nhìn thấy thuộc hạ luôn có gia đình cạnh bên.\n\nXin lỗi, ơn nghĩa của gia chủ to lớn như vậy, tôi không nên dùng lời lẽ bất kính này để chất vấn."
     }
   },
@@ -1129,7 +1161,7 @@
       "de": "Ich will mehr über Sara erfahren V",
       "es": "Más sobre Kujou Sara (V)",
       "fr": "Connaître Sara (5)",
-      "pt": "Mais sobre Kujou Sara: V",
+      "pt": "Mais sobre Kujou Sara - V",
       "ru": "Узнать больше о Саре V",
       "id": "Mengenal Sara: V",
       "th": "อยากรู้เกี่ยวกับ Kujou Sara - 5",
@@ -1146,7 +1178,7 @@
       "fr": "Maintenant que j'y pense, toi et moi sommes l'exemple même d'une entente parvenue par le biais d'un conflit. Nous étions dans des camps rivaux, diamétralement opposés. Je n'aurais jamais imaginé me retrouver à tes côtés, que ce soit au combat ou pour de longues conversations. En y réfléchissant, le destin a été clément envers moi... Non, ce n'est rien.",
       "pt": "Agora que penso nisso, nós somos um bom exemplo de alcançar um acordo através de conflito. Nós estávamos em lados opostos, pode-se dizer que diametralmente opostos. Eu nunca imaginei que acabaria ao seu lado, seja em batalha ou em longas conversas... O destino foi gentil comigo. Não, me desculpe, ignore que eu falei isso.",
       "ru": "Когда я думаю об этом, мы с тобой являемся хорошим примером достижения согласия через конфликт. Мы были на противоположных сторонах - можно сказать, диаметрально противоположных. Я и представить себе не могла, что окажусь рядом с тобой в бою или у нас состоится долгая беседа... Судьба была ко мне благосклонна... прости, не обращайте внимания.",
-      "id": "Kalau dipikir-pikir, kita adalah contoh yang baik bagaimana menjadi rukun setelah berseteru. Padahal kita berdiri di sisi yang berlawanan — ya katakanlah berseberangan. Tapi aku tidak pernah membayangkan kalau kita akhirnya justru bisa berada di atas perahu yang sama, baik dalam pertempuran maupun dalam komunikasi yang panjang... Takdir begitu baik padaku, tidak, maaf, lupakan ucapanku barusan.",
+      "id": "Kalau dipikir-pikir, kita berdua adalah contoh yang baik bagaimana menjadi rukun setelah berseteru. Kita pernah berdiri di sisi yang berlawanan. Aku tidak pernah membayangkan kalau kita akhirnya malah ada di atas perahu yang sama, baik dalam pertempuran maupun dalam percakapan panjang ... Takdir masih ada di pihakku. Ah, lupakan saja ucapan yang terakhir itu.",
       "th": "ตอนนี้พอมองย้อนกลับไป เธอกับฉันถือว่า \"ถ้าไม่ต่อสู้ ก็คงไม่ได้รู้จักกัน\" ครั้งหนึ่งพวกเราเคยอยู่ฝั่งตรงข้ามกัน จะบอกว่าเป็นปรปักษ์กันก็คงไม่ใช่เรื่องที่เกินจริง คิดไม่ถึงเลยว่าเราจะลงเอยด้วยการมายืนเคียงข้างกันแบบนี้ ไม่ว่าจะในการต่อสู้หรือการพูดคุยที่ยาวนาน พอคิด ๆ แล้ว โชคชะตาใจดีกับฉันมากเลย...ไม่สิ ไม่มีอะไร",
       "vi": "Bây giờ tính ra, bạn và tôi xem như \"chưa đánh chưa quen biết\". Chúng ta từng đối lập chiến tuyến, không ngờ cũng có lúc kề vai sát cánh như vậy. Xem ra số mệnh đã đối xử tốt với tôi... không, không có gì."
     }
@@ -1176,9 +1208,9 @@
       "de": "Auch jetzt noch sind Bogen-Übungen und das Training auf dem Rasen ein wesentlicher Bestandteil meines täglichen Trainings. Von der Haltung über das Zielen bis hin zum Hören auf den gespannten Bogen, es ist nie eine langweilige Wiederholung, sondern ein Aufstieg im Vergleich zu gestern. Es handelt sich nicht um ein Hobby, sondern um eine lebenslange Praxis.",
       "es": "No hay ni un día en el que no practique mi puntería en el tiro con arco. Desde la postura, hasta apuntar y oír el chasquido de la cuerda, nada se me hace aburrido o repetitivo, porque se trata de superar a mi yo de ayer. Yo no lo llamaría una afición, más bien es una disciplina para toda la vida.",
       "fr": "Jusqu'à aujourd'hui, pas un jour ne passe sans que je ne pratique le tir à l'arc. De la posture à la visée, en passant par l'écoute du bruit de la corde, tout cela ne m'apparaît pas comme répétitif mais bien comme une amélioration par rapport à la veille. Ce n'est pas un loisir, c'est la discipline de toute une vie.",
-      "pt": "Até hoje, não há um dia que eu não pratique com meu arco e flecha. Desde a postura correta, a mira e até a escutar a vibração da corda, nada disso é repetitivo para mim, na verdade, se trata de transcender quem eu era ontem! Eu não diria que é um passatempo, mas sim uma disciplina que tive por toda minha vida.",
+      "pt": "Até hoje, não há um dia em que eu não pratico com meu arco e flecha. Desde a postura correta, a mira e até a escuta da vibração da corda, nada disso é repetitivo para mim, na verdade, se trata de transcender quem eu era ontem! Eu não diria que é um passatempo, mas sim uma disciplina que tive por toda minha vida.",
       "ru": "И поныне ни один день не обходится без упражнений с луком и тренировок с мишенью. От принятия стойки до прицеливания и звона тетивы - для меня это не скучная рутина, а выход за пределы себя вчерашней! Я бы назвала это не столько хобби, сколько дисциплиной длиною в жизнь.",
-      "id": "Sampai hari ini, tidak ada hari yang kulalui tanpa latihan busur dan memanah. Mulai dari mempelajari kuda-kuda, membidik, hingga mendengarkan dentingan tali busur, ini bukanlah rutinitas yang membosankan dan tidak berguna — semuanya harus dicapai demi diri sendiri yang lebih baik daripada hari kemarin! Ini bukan hobi, tapi integritas seumur hidup.",
+      "id": "Sampai hari ini, tidak ada hari yang kulalui tanpa latihan memanah. Mulai dari melatih kuda-kuda, membidik, hingga mendengarkan dentingan tali busur, satu pun tidak ada yang terasa menjemukkan. Semuanya demi menjadikan diri sendiri yang lebih baik daripada hari kemarin! Mungkin ini kurang cocok disebut hobi, tapi lebih ke soal disiplin seumur hidup.",
       "th": "จนถึงตอนนี้ การฝึกซ้อมธนูและการยิงเป้ายังคงเป็นสิ่งที่ฉันต้องฝึกทุกวันไม่มีขาด ตั้งแต่ท่าทางการเล็งเป้า ไปจนถึงการฟังเสียงสายธนู ล้วนไม่ใช่สิ่งที่จำเจน่าเบื่อ แต่เป็นสิ่งที่ต้องพัฒนาให้ดีกว่าเมื่อวาน ซึ่งฉันไม่เรียกมันว่างานอดิเรก แต่เป็นการฝึกฝนไปตลอดชีวิตต่างหากล่ะ",
       "vi": "Ngay cả đến bây giờ, luyện tập bắn cung và bắn bia vẫn là những bài tập thiết yếu hằng ngày của tôi. Từ thân pháp cho đến việc ngắm chuẩn hay nghe dây cung, đều không phải là sự lặp lại nhàm chán mà chính là sự đột phá so với ngày hôm qua. Thay vì nói là sở thích, thì hãy nói đó chính là việc tập luyện cả đời."
     }
@@ -1193,7 +1225,7 @@
       "de": "Saras Sorgen ...",
       "es": "Preocupaciones de Kujou Sara...",
       "fr": "Les problèmes de Sara...",
-      "pt": "Preocupações de Sara",
+      "pt": "Preocupações de Kujou Sara...",
       "ru": "Беспокойство Сары...",
       "id": "Kekhawatiran Sara",
       "th": "เรื่องกลุ้มใจของ Kujou Sara...",
@@ -1210,7 +1242,7 @@
       "fr": "L'existence des ailes des guerriers tengu est un fait objectif, tout comme le fait qu'elles prennent de la place lorsqu'il s'agit de se tenir côte à côte. Je ne comprends pas ce que je suis censée faire quand tu me dis « rapproche-toi ».",
       "pt": "A existência das asas de uma guerreira Tengu é um fato objetivo, como é a realidade que elas ocuparão um espaço quando estiverem ao lado de alguém. Por isso, quando você diz \"se aproxime\", eu não consigo entender como posso realizar isso.",
       "ru": "Существование крыльев у воина тэнгу - объективный факт, как и то, что они занимают определённое пространство. Поэтому, когда ты говоришь подойти ближе, я не понимаю, как именно я должна это сделать.",
-      "id": "Keberadaan sayap prajurit tengu adalah fakta objektif, seperti halnya kenyataan bahwa sayap itu akan menempati sejumlah ruang saat berdiri berdampingan. Jadi saat kamu bilang \"mendekatlah\", aku sungguh tidak paham bagaimana tepatnya aku bisa mewujudkan hal itu.",
+      "id": "Sayap tengu adalah sesuatu yang objektif, demikian pula fakta bahwa sayap itu akan makan ruang lebih ketika berdiri bersebelahan. Waktu kamu bilang \"mendekat\", aku kurang paham bagaimana caranya aku bisa melakukan itu.",
       "th": "ปีกของเท็งงุนั้นเป็นสิ่งที่มีวัตถุประสงค์อยู่ในตัวของมันเอง ซึ่งถ้ายืนข้างกันก็คงจะใช้พื้นที่ประมาณหนึ่งแน่นอน เพราะงั้นฉันเลยไม่เข้าใจ เวลาที่เธอบอกว่า \"เข้ามาใกล้ ๆ\" มันจะเป็นไปได้ยังไงกันล่ะ",
       "vi": "Đôi cánh của Tengu vốn dĩ là sự tồn tại khách quan. Đứng cạnh nhau chắc chắn sẽ chiếm một khoảng không gian nhất định. Tôi không hiểu làm cách nào bạn có thể thực hiện được \"kéo gần khoảng cách\" như bạn nói."
     }
@@ -1225,9 +1257,9 @@
       "de": "Was sie so mag ...",
       "es": "Comida que más le gusta...",
       "fr": "Plats préférés...",
-      "pt": "Comida que mais gosta...",
+      "pt": "Comida Favorita...",
       "ru": "Любимая еда...",
-      "id": "Makanan favorit",
+      "id": "Makanan Favorit",
       "th": "อาหารที่ชอบ...",
       "vi": "Món ăn yêu thích..."
     },
@@ -1239,10 +1271,10 @@
       "en": "I have always had a preference for easy-to-carry foods that provide quick and ample sustenance, such as Onigiri. The top choice for replenishing your stamina in the middle of a battle! But that's just a personal preference. I don't dictate what my subordinates have to eat.",
       "de": "Seit Langem bin ich an leicht zu transportierende, schnell sättigende Nahrung wie Onigiri gewöhnt, die bevorzugt zur Wiederherstellung der Kräfte auf dem Schlachtfeld eingesetzt werden. Dies ist jedoch eine persönliche Angewohnheit und ich würde meine Männer nicht bitten, meinem Beispiel zu folgen.",
       "es": "Siempre he preferido las comidas fáciles de transportar que proporcionan un sustento rápido y abundante, como los onigiri. ¡La mejor opción para recuperar las fuerzas en medio de una batalla! Pero es simplemente una preferencia personal, yo no decido lo que mis subordinados tienen que comer.",
-      "fr": "J'ai toujours eu l'habitude de consommer des aliments facile à transporter et qui rassasient rapidement comme les onigiris. Le meilleur choix pour reprendre des forces sur le champ de bataille. Mais c'est juste une préférence, je ne demande pas à mes troupes de faire pareil.",
-      "pt": "Sempre tive uma preferência por comidas fáceis de serem levadas, e que fornecem rápida e muita substância, como Onigiris. Ele é a melhor escolha para recarregar minhas energias no meio de uma batalha. Mas isso é apenas o meu gosto individual, não dito o que meus subordinados devem comer.",
+      "fr": "J'ai toujours eu l'habitude de consommer des aliments faciles à transporter et qui rassasient rapidement comme les onigiris. Le meilleur choix pour reprendre des forces sur le champ de bataille. Mais c'est juste une préférence, je ne demande pas à mes troupes de faire pareil.",
+      "pt": "Sempre tive uma preferência por comidas fáceis de serem levadas, e que fornecem rápida e muita substância, como Onigiris. Eles são a melhor escolha para recarregar minhas energias no meio de uma batalha. Mas isso é apenas o meu gosto individual, não dito o que meus subordinados devem comer.",
       "ru": "Я всегда предпочитала лёгкие в транспортировке продукты, которые быстро и в достаточном количестве обеспечивают пропитание, такие как онигири. Лучший выбор для восполнения выносливости в разгар битвы! Но это всего лишь мои личные предпочтения. Я не указываю своим подчинённым, что им есть.",
-      "id": "Aku punya kebiasaan untuk menyiapkan makanan praktis, bernutrisi banyak, dan mudah dibawa, seperti Onigiri. Makanan terbaik untuk mengisi staminamu di tengah pertempuran! Tapi itu hanya pilihanku sendiri saja. Aku tidak mengatur apa yang harus dimakan oleh bawahanku.",
+      "id": "Aku lebih suka makanan yang gampang dibawa-bawa tapi penuh nutrisi, misalnya Onigiri. Makanan terbaik untuk mengisi stamina di tengah pertempuran! Ini hanya pilihan pribadi semata, aku tidak mengatur apa yang boleh dan tidak boleh dimakan oleh bawahanku.",
       "th": "ฉันชินกับอาหารที่พกพาได้สะดวกอย่าง Onigiri มาตั้งแต่ไหนแต่ไร ทั้งทำให้อิ่มเร็วและยังเป็นตัวเลือกอันดับแรก สำหรับการฟื้นฟูร่างกายในการต่อสู้ด้วย แต่นี่ก็เป็นแค่นิสัยส่วนตัวของฉัน และฉันไม่ได้กำหนดว่าลูกน้องต้องกินเหมือนกับฉันหรอกนะ",
       "vi": "Bao lâu nay tôi đã quen với những món ăn dễ dàng đem theo như cơm nắm, giúp tôi no bụng nhanh, đây cũng là lựa chọn hàng đầu cho việc hồi phục thể lực trên chiến trường. Nhưng đây là thói quen cá nhân thôi, tôi không yêu cầu cấp dưới phải làm theo."
     }
@@ -1257,9 +1289,9 @@
       "de": "Was sie nicht mag ...",
       "es": "Comida que menos le gusta...",
       "fr": "Plats détestés...",
-      "pt": "Comida que detesta...",
+      "pt": "Comida que Odeia...",
       "ru": "Нелюбимая еда...",
-      "id": "Makanan yang tidak disukai",
+      "id": "Makanan yang Tidak Disukai",
       "th": "อาหารที่เกลียด...",
       "vi": "Món ăn ghét..."
     },
@@ -1270,11 +1302,11 @@
       "ko": "싫어하는 건 아니고 평소에 단 음식은 피하는 편이야. 이유가 뭐냐고? 단 건 몸과 마음을 편하게 만들어서 한 번 먹으면 쉽게… 음, 어쨌든 난 나태해질 수 없어. 그 얘긴 여기서 끝, 더 이상 캐묻지 마!",
       "en": "I generally avoid sweet foods, not that I have a strong aversion to them. Why? Well, sweet things put your mind and body at rest, so if I ever eat sweet things it's easy to... Ahem, essentially, I mustn't slack off and that's the end of it. No further questions on this topic!",
       "de": "So etwas wie eine Aversion gibt es nicht, es ist nur so, dass ich Süßigkeiten regelmäßig meide. Du willst wissen warum? Süßigkeiten entspannen den Geist und den Körper, und wenn man einmal angefangen hat, neigt man dazu ... nun, wie auch immer, ich kann nicht aufhören, frag nicht weiter!",
-      "es": "Normalmente evito los dulces, pero no es que los odie. ¿Por qué? Bueno, los dulces hacen que tu cuerpo y tu mente se relajen, así que si como dulces es fácil que... *Ejem*, en resumen, no puedo estar perdiendo mi tiempo. ¡No más preguntas sobre este tema!",
+      "es": "Normalmente evito los dulces, pero no es que los odie. ¿Por qué? Bueno, los dulces hacen que tu cuerpo y tu mente se relajen, así que si como dulces, es fácil que... *Ejem*, en resumen, no puedo estar perdiendo mi tiempo. ¡No más preguntas sobre este tema!",
       "fr": "Non pas que je les déteste, mais j'évite généralement les sucreries. Pourquoi ? Elles détendent le corps et l'esprit, si je venais à en manger je... Hum, en résumé, je ne dois pas me relâcher, voilà tout. N'en demande pas plus !",
       "pt": "Geralmente evito comidas doces. Não é que eu tenha uma forte aversão a elas. Por quê? Bem, comidas doces relaxam minha cabeça e meu corpo, se eu comer algo assim, é fácil que... *Cof* Basicamente, eu não posso relaxar, somente isso. Esse tópico está encerrado, chega de perguntas!",
       "ru": "Не то чтобы я их ненавижу, но обычно я избегаю сладких продуктов. Почему? Сладкое приводит ум и тело в состояние покоя, поэтому после него так легко... Кхм, по сути, я не должна расслабляться, и на этом всё. Вопрос закрыт!",
-      "id": "Aku biasanya menghindari makanan yang manis, bukan karena aku sangat membencinya. Kenapa? Karena menurutku, makanan manis membuat pikiran dan tubuhmu beristirahat, jadi kalau aku makan makanan yang manis biasanya mudah... Ehem, pada dasarnya, aku tidak bisa banyak bersantai, dan sudah — itu saja. Jangan membahas ini terus!",
+      "id": "Aku menghindari makanan manis, tapi bukan karena tidak suka. Kenapa? Karena makanan manis bisa menenangkan pikiran dan mendorong tubuh untuk istirahat, jadi kalau misalnya aku makan, mudah saja untuk ... Ehem, pada dasarnya, aku tidak boleh terlalu santai, itu saja. Jangan dibahas terus!",
       "th": "อาหารที่เกลียดงั้นเหรอ ปกติแล้วฉันจะเลี่ยงพวกของหวานน่ะ ทำไมน่ะเหรอ? เพราะการกินของหวานจะทำให้ทั้งร่างกายและจิตใจผ่อนคลาย พอกินเข้าไปแล้วก็จะ...อะแฮ่ม เอาเป็นว่า ฉันจะเลินเล่อไม่ได้เด็ดขาด พอแค่นี้แหละ ไม่ต้องถามต่อแล้ว!",
       "vi": "Món ăn ghét sao, có lẽ là đồ ngọt. Tại sao ư? Bởi vì ăn đồ ngọt vào sẽ khiến cả người thả lỏng, rất dễ... Thôi, dừng chủ đề này ở đây nhé!"
     }
@@ -1304,9 +1336,9 @@
       "de": "Das passt ja, also verzichte ich auf die Nettigkeiten und frage einfach. Hast du einen Geburtstagswunsch? Ich werde mein Bestes tun, um dir zu helfen, ihn zu erfüllen, solange er nicht der großen Gerechtigkeit des allmächtigen Shougun widerspricht. Als Geste meines guten Willens kannst du heute fünf Geburtstagswünsche nennen.",
       "es": "¡Muy oportuno! Dejaré a un lado las formalidades e iré directa al grano... ¿Tienes un deseo de cumpleaños? Siempre que no entre en conflicto con la gran causa de la todopoderosa Shogun, me esforzaré al máximo para que se haga realidad. Para que veas que lo digo en serio, te permitiré que pidas no uno, sino cinco deseos de cumpleaños.",
       "fr": "Tu tombes à pic. Je vais laisser tomber les formalités et te poser la question directement. As-tu un souhait pour ton anniversaire ? Dans la mesure où il n'entre pas en conflit avec la grande cause de la Shogun toute-puissante, je ferai tout ce qui est possible pour le réaliser. Pour te prouver que je suis de bonne volonté, je te laisse me faire part non pas de un, mais de cinq souhaits pour ton anniversaire.",
-      "pt": "Você chegou na hora certa. Vou dispensar as formalidades e ir direto ao ponto. Você tem um desejo para o seu aniversário? Se ele não se chocar com a grande causa da Toda-Poderosa Shogun, farei o meu melhor para realizá-lo. Para mostrar que estou sendo totalmente séria, permitirei que você não um, mas cinco desejos de aniversário.",
+      "pt": "Você chegou na hora certa. Vou dispensar as formalidades e ir direto ao ponto. Você tem um desejo para o seu aniversário? Se ele não se chocar com a grande causa da Toda-Poderosa Shogun, farei o meu melhor para realizá-lo. Para mostrar que estou sendo totalmente séria, permitirei que você faça não um, mas cinco desejos de aniversário.",
       "ru": "Ты вовремя. Я обойдусь без формальностей и сразу перейду к делу - есть ли у тебя заветное желание в день рождения? Если оно не противоречит великой цели её превосходительства, я приложу все усилия, чтобы оно исполнилось. Чтобы показать всю серьёзность намерения, я позволю тебе загадать не одно, а пять желаний в день рождения.",
-      "id": "Pas sekali! Aku tidak akan berbasa-basi dan akan langsung bertanya — apa harapan ulang tahunmu? Selama hal itu tidak bertentangan dengan tujuan besar Yang Mulia Shogun, aku akan berusaha mewujudkannya sebisa mungkin. Untuk menunjukkan keseriusanku, aku akan mengizinkanmu membuat 5 harapan ulang tahun, bukan hanya satu.",
+      "id": "Kebetulan. Langsung saja ya, kamu punya keinginan apa di hari ulang tahunmu ini? Selama tidak bertentangan dengan tujuan besar Yang Mulia Shogun, aku akan berusaha sekuat tenaga untuk mewujudkannya. Supaya kamu percaya kalau aku bukan sedang omong kosong, silakan sebutkan bukan hanya satu, tapi lima keinginanmu untuk hari yang spesial ini.",
       "th": "มาพอดีเลย งั้นฉันจะไม่อ้อมค้อม ถามตรง ๆ เลยแล้วกันนะ เธออยากขอพรอะไรในวันเกิดเหรอ? ขอแค่ไม่ขัดแย้งกับอุดมการณ์อันยิ่งใหญ่ของท่านโชกุน ฉันก็จะพยายามช่วยเธอทำมันให้สำเร็จ และเพื่อแสดงถึงความจริงใจของฉัน วันนี้เธอสามารถขอพรได้ 5 ข้อ",
       "vi": "Đến đúng lúc lắm, vậy tôi sẽ bỏ qua các lễ tiết, vào đề thẳng nhé. Bạn có mong muốn gì trong ngày sinh nhật không? Chỉ cần không xung đột với đại nghĩa của Shogun đại nhân, thì tôi sẽ cố gắng giúp bạn hoàn thành. Để bày tỏ thành ý, hôm nay bạn có thể ước 5 điều ước."
     }
@@ -1336,9 +1368,9 @@
       "de": "Sieh, wie ich mit einem Schlag einen zufriedenstellenden Klang auf den Saiten zustandebringe.",
       "es": "Mi arco parece estar en condiciones óptimas. Un disparo es todo lo que necesito.",
       "fr": "Le son de la corde de mon arc est satisfaisant. Je n'ai besoin que d'un seul tir.",
-      "pt": "Meu arco soa em sua melhor condição. É apenas necessário um disparo.",
+      "pt": "Meu arco parece estar em boas condições. É apenas necessário um disparo.",
       "ru": "Мой лук в отличной форме. Один выстрел - это всё, что мне нужно.",
-      "id": "Busurku berada di posisi terbaiknya. Cukup satu tembakan yang kubutuhkan.",
+      "id": "Tali busurku suaranya jernih. Hanya perlu satu tembakan saja.",
       "th": "เสียงธนูที่น่าพอใจ ยิงเมื่อไรโดนเป้าทันที",
       "vi": "Tiếng dây cung rất ổn, hãy xem đây, bách phát bách trúng."
     }
@@ -1370,7 +1402,7 @@
       "fr": "Force dûment assimilée. Prête à recevoir les instructions.",
       "pt": "Poder assimilado, estou ao seu comando.",
       "ru": "Сила вошла в меня и готова повиноваться.",
-      "id": "Kekuatan sudah menyatu ke dalam tubuhku. Aku siap menerima instruksi.",
+      "id": "Kekuatan sudah terkonsentrasi. Siap menerima perintah.",
       "th": "พลังได้หลั่งไหลสู่ร่างกายฉัน พร้อมรับคำสั่งแล้ว",
       "vi": "Sức mạnh đã hòa vào cơ thể, sẵn sàng nhận lệnh."
     }
@@ -1402,7 +1434,7 @@
       "fr": "Je suis à moi seule l'armée du Shogunat !",
       "pt": "O exército da Shogun poderia muito bem ser só eu!",
       "ru": "Я - армия сёгуна!",
-      "id": "Aku sendirilah Pasukan Shogun itu!",
+      "id": "Akulah Pasukan Shogun!",
       "th": "ฉันคนเดียวเทียบเท่ากับกองทัพแห่งโชกุนทั้งกอง!",
       "vi": "Một mình tôi thôi cũng chính là một nhánh quân của Shogunate!"
     }
@@ -1413,7 +1445,7 @@
       "zht": "突破的感受·合",
       "jp": "突破した感想·結",
       "ko": "돌파의 느낌·결",
-      "en": "Feelings about Ascension: Conclusion",
+      "en": "Feelings About Ascension: Conclusion",
       "de": "Gedanken über den Aufstieg – Ende",
       "es": "El sentimiento de Ascensión - Desenlace",
       "fr": "Affinité max",
@@ -1434,7 +1466,7 @@
       "fr": "La responsabilité m'incombe de continuer à m'améliorer et de perfectionner mes compétences martiales, tu m'as pourtant apporté ton aide de manière dévouée... Je me montrerai digne de cette force et je l'utiliserai pour une juste cause. L'amitié des Tengu t'accompagne !",
       "pt": "A responsabilidade por me fortalecer e avançar minhas artes marciais depende de mim, mas você de toda maneira me ajudou diligentemente... Eu me tornarei merecedora desse poder ao reuni-lo para uma causa maior! Além disso... O favor dos Tengu sempre estará com você!",
       "ru": "#Моим долгом было совершенствоваться и оттачивать боевые искусства, но ты {F#помогла}{M#помог} мне от чистого сердца... Я не потерплю поражения и буду использовать эту силу для высшего блага! Любовь тэнгу с тобой!",
-      "id": "Tanggung jawab untuk mengasah kekuatan dan meningkatkan kemampuan bela diriku terletak pada diriku sendiri, tapi kamu rela terus membantuku tanpa pamrih ... Aku tidak akan menyia-nyiakan kekuatan ini dan akan memanfaatkannya untuk tujuan yang baik! Dan ... semoga berkat tengu selalu bersamamu!",
+      "id": "Aku bertanggung jawab mengasah kekuatan dan melatih ilmu bela diriku sendiri, tapi kamu rela terus membantuku tanpa pamrih ... Aku tidak akan menyia-nyiakan kekuatan ini dan akan memanfaatkannya untuk tujuan yang baik! Dan ... perkenanan tengu selalu menyertaimu!",
       "th": "การเสริมความแข็งแกร่งและการพัฒนาความสามารถในการต่อสู้ของฉันขึ้นอยู่กับฉัน แต่เธอก็ยังพยายามช่วยฉันอย่างเต็มที่... ฉันจะไม่ทำให้ความพยายามพวกนี้สูญเปล่า และจะใช้มันอย่างชอบธรรม! อีกอย่าง... มิตรภาพของเท็งงุจะอยู่กับเธอเสมอ!",
       "vi": "Rèn luyện bản thân, đột phá kỹ năng vốn là trách nhiệm của tôi, nhưng bạn đã giúp đỡ cho tôi rất nhiều... Tôi sẽ không phụ sự mong mỏi này, dùng sức mạnh để phò trợ đại nghĩa!"
     }
@@ -1496,7 +1528,7 @@
       "de": "Verschwinde!",
       "es": "¡Acerté!",
       "fr": "Frappe !",
-      "pt": "Acerto!",
+      "pt": "Acertei!",
       "ru": "Удар!",
       "id": "Serang!",
       "th": "ลุย!",
@@ -1558,7 +1590,7 @@
       "ko": "진리가 웅대하듯 번개 신 또한 영원하리!",
       "en": "Glory to the Shogun!",
       "de": "Ruhm dem Shougun und seiner ewigen Herrschaft!",
-      "es": "¡Gloria a la Shogun!",
+      "es": "¡Gloria a la Shogun y a su imperio eterno!",
       "fr": "Gloire à la Shogun !",
       "pt": "Glória à Shogun!",
       "ru": "Слава сёгуну, да будет она править вечно!",
@@ -1594,7 +1626,7 @@
       "fr": "Plus moyen de reculer !",
       "pt": "Não há volta!",
       "ru": "Удар молнии... без сожалений!",
-      "id": "Tidak ada kata kembali!",
+      "id": "Tidak bisa mundur!",
       "th": "สายฟ้า... ไม่ทำให้ผิดหวัง!",
       "vi": "Không thể quay đầu!"
     }
@@ -1626,7 +1658,7 @@
       "fr": "Assaut droit devant !",
       "pt": "Ataque a frente!",
       "ru": "Тысячи молний!",
-      "id": "Luluh lantakkan barisan depan!",
+      "id": "Serbu ke depan!",
       "th": "แสงอสนีนับพัน!",
       "vi": "Ngàn vạn ánh sét!"
     }
@@ -1658,7 +1690,7 @@
       "fr": "Excellent. Ces butins remonteront le moral.",
       "pt": "Excelente! Vai ajudar a levantar a moral!",
       "ru": "Превосходно! Это сокровище поднимет боевой дух.",
-      "id": "Bagus. Hasil seperti ini dapat meningkatkan semangat juang.",
+      "id": "Bagus. Ini dapat meningkatkan semangat juang.",
       "th": "สมบัติพวกนี้ไม่เลวเลยนี่ สามารถใช้เสริมสร้างขวัญกำลังใจได้!",
       "vi": "Kho báu tốt đấy, có thể gia tăng sĩ khí!"
     }
@@ -1720,9 +1752,9 @@
       "de": "Füll die Vorräte auf und mach weiter!",
       "es": "Reabastezcámonos y sigamos adelante.",
       "fr": "On se réapprovisionne et on continue !",
-      "pt": "Reabasteça e siga em frente!",
+      "pt": "Reabasteçamos e sigamos em frente!",
       "ru": "Пополните запасы и продолжайте наступление!",
-      "id": "Isi ulang dan maju!",
+      "id": "Lengkapi persediaan dan terus maju!",
       "th": "ฟื้นฟูพลังแล้ว ลุยต่อได้!",
       "vi": "Xong rồi tiếp tục lên đường thôi!"
     }
@@ -1737,7 +1769,7 @@
       "de": "Niedrige LP I",
       "es": "Vida baja (I)",
       "fr": "PV faibles (1)",
-      "pt": "Vida baixa - I",
+      "pt": "Vida Baixa - I",
       "ru": "Низкий уровень HP I",
       "id": "HP Rendah: I",
       "th": "ค่าพลังชีวิตต่ำ - 1",
@@ -1769,7 +1801,7 @@
       "de": "Niedrige LP II",
       "es": "Vida baja (II)",
       "fr": "PV faibles (2)",
-      "pt": "Vida baixa - II",
+      "pt": "Vida Baixa - II",
       "ru": "Низкий уровень HP II",
       "id": "HP Rendah: II",
       "th": "ค่าพลังชีวิตต่ำ - 2",
@@ -1786,7 +1818,7 @@
       "fr": "Je gagnerai !",
       "pt": "Eu superarei isso!",
       "ru": "Надо найти точку прорыва!",
-      "id": "Aku akan mengatasinya!",
+      "id": "Aku bisa mengatasinya!",
       "th": "ฉันจะผ่านมันไปให้ได้!",
       "vi": "Phải tìm cách đột phá!"
     }
@@ -1801,7 +1833,7 @@
       "de": "Niedrige LP III",
       "es": "Vida baja (III)",
       "fr": "PV faibles (3)",
-      "pt": "Vida baixa - III",
+      "pt": "Vida Baixa - III",
       "ru": "Низкий уровень HP III",
       "id": "HP Rendah: III",
       "th": "ค่าพลังชีวิตต่ำ - 3",
@@ -1818,7 +1850,7 @@
       "fr": "J'arrive à ma limite...",
       "pt": "Estou no meu limite...",
       "ru": "Почти на пределе...",
-      "id": "Batasku sampai sini saja ....",
+      "id": "Ini sudah batasku ....",
       "th": "ใกล้ถึงขีดจำกัดแล้ว...",
       "vi": "Sắp đến giới hạn rồi..."
     }
@@ -1850,7 +1882,7 @@
       "fr": "La vie n'est pas éternelle.",
       "pt": "A vida não é eterna.",
       "ru": "Жизнь не вечна.",
-      "id": "Hidup tidaklah abadi.",
+      "id": "Hidup cuma sementara.",
       "th": "ชีวิตไม่นิรันดร์",
       "vi": "Sinh mạng không phải vĩnh hằng."
     }
@@ -1894,7 +1926,7 @@
       "jp": "戦闘不能·3",
       "ko": "전투 불능·세 번째",
       "en": "Fallen: III",
-      "de": "Ohmächtig III",
+      "de": "Ohnmächtig III",
       "es": "Derrotada (III)",
       "fr": "K.O. (3)",
       "pt": "Derrotado - III",
@@ -1913,8 +1945,8 @@
       "es": "Oh, he sido derrotada.",
       "fr": "Hmpf, me voilà vaincue.",
       "pt": "Huh, estou derrotada...",
-      "ru": "Хм, я побеждена.",
-      "id": "Huh, aku kalah.",
+      "ru": "Я побеждена.",
+      "id": "Ah, aku kalah.",
       "th": "ฮึ่ม ฉันแพ้แล้ว",
       "vi": "Hừ, ta thua rồi."
     }
@@ -1978,7 +2010,7 @@
       "fr": "Un adversaire digne...",
       "pt": "Um adversário digno...",
       "ru": "Достойный противник...",
-      "id": "Seorang rival yang layak ....",
+      "id": "Lawan yang seimbang ....",
       "th": "เป็นคู่ต่อสู้ที่ไม่เลว...",
       "vi": "Khá đấy..."
     }
@@ -2008,7 +2040,7 @@
       "de": "Wie kann das sein!?",
       "es": "¡Imposible!",
       "fr": "Impossible !",
-      "pt": "Como é possível!",
+      "pt": "Como é possível!?",
       "ru": "Невозможно!",
       "id": "Mustahil!",
       "th": "อะไรกัน!",
@@ -2042,7 +2074,7 @@
       "fr": "L'adversaire prend le dessus...",
       "pt": "Eles estão ganhando vantagem...",
       "ru": "Противник берёт верх...",
-      "id": "Mereka mendapat keunggulan ....",
+      "id": "Lawan lebih unggul ....",
       "th": "สถานการณ์ค่อนข้างเสียเปรียบ...",
       "vi": "Bất lợi rồi..."
     }
@@ -2076,7 +2108,7 @@
       "ru": "Я приведу тебя к победе.",
       "id": "Aku akan menuntun kalian kepada kemenangan.",
       "th": "ฉันจะนำเราไปสู่ชัยชนะ",
-      "vi": "Tôi sẽ dẫn bạn đến chiến thắng."
+      "vi": "Tôi sẽ dẫn mọi người đến chiến thắng"
     }
   },
   {
@@ -2104,9 +2136,9 @@
       "de": "Hm, komm doch ...",
       "es": "¡Hum! Vamos allá.",
       "fr": "Hmm, allons-y.",
-      "pt": "Hunf, venha.",
+      "pt": "Hm. Vamos lá.",
       "ru": "Подходи.",
-      "id": "Hmm. Ayo lakukan ini.",
+      "id": "Hmm. Ayo.",
       "th": "หึ มาสิ",
       "vi": "Hừm, bắt đầu thôi."
     }
@@ -2136,7 +2168,7 @@
       "de": "Seite an Seite mit dir!",
       "es": "¡Contigo hasta el final!",
       "fr": "À tes côtés !",
-      "pt": "Com você o tempo todo!",
+      "pt": "Estou com você!",
       "ru": "Рядом с тобой!",
       "id": "Terus berjalan beriringan denganmu!",
       "th": "เคียงบ่าเคียงไหล่ไปกับเธอ!",

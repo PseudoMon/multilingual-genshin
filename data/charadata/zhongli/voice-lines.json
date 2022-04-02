@@ -251,7 +251,7 @@
       "pt": "Este clima não está bom no feriado. Nós deveríamos ir assistir uma ópera.",
       "ru": "Хм... Не лучшая погода для отпуска. Пойдём в театр, послушаем пьесу.",
       "id": "Cuaca ini tidak cocok untuk berlibur. Kita pergi nonton opera saja.",
-      "th": "อืม... อากาศแบบนี้ไม่เหมาะกับการพักร้อน ไปฟังละครเพลงดีกว่า",
+      "th": "อืม... อากาศแบบนี้ไม่เหมาะกับการพักร้อน ไปดูงิ้วดีกว่า",
       "vi": "Um... Thời tiết không thích hợp cho kỳ nghỉ. Đi xem kịch vậy."
     }
   },
@@ -1018,7 +1018,7 @@
       "fr": "Connaissez-vous l'origine de la Forge de Rochenoire ?\n\nL'habitude fut prise par le passé de creuser les filons des Monts Tianheng et de remplir les cavités ainsi créées d'équipement industriel. Les tunnels courent dans toutes les directions à travers la montagne – certains mêmes plongent dans les ruines les plus profondes. Je doute qu'il existe de nos jours quelqu'un capable de dessiner la carte de tous ces boyaux.",
       "pt": "Você sabe a origem da Forja do Penhasco Obscuro?\n\nNo passado, eles mineravam o Monte Tianheng, e substituíam as cavidades com máquinas. Túneis que corriam para todas as direções dentro da montanha, alguns vão até o fundo da terra. Eu duvido que exista uma pessoa hoje que seja capaz de mapear todos os túneis.",
       "ru": "Знаешь, как появилась кузница Черногорья? \n\nВ далёком прошлом люди добывали руду в горах Тяньхэн и сооружали там цеха для работы с ней. Постепенно они отстроили крупнейший завод на восточном побережье континента. В горах осталось множество дорог и туннелей, и некоторые из них ведут к древним руинам, что погребены глубоко под землёй. Сейчас, пожалуй, не осталось никого, кто знал бы все эти пути.",
-      "id": "Apa kamu tahu tentang asal usul Blackcliff Forge?\n\nDahulu, ketika para pekerja menambang Mt. Tianheng, mereka akan mengisi lubang dan terowongan bekas galian mereka dengan alat berat dan mesin pertambangan. Lambat laun, tambang itu berubah menjadi pabrik yang paling besar di dataran timur. Terowongan yang digali di gunung itu kini sudah menembus ke segala penjuru, bahkan sampai ke reruntuhan kuno yang terkubur jauh di bawah tanah. Kurasa, hari ini sudah tidak ada lagi orang yang hapal semua jalur di terowongan itu.",
+      "id": "Apa kamu tahu tentang asal usul Blackcliff Forge?\n\nDahulu, ketika para pekerja menambang Mt. Tianheng, mereka akan mengisi lubang dan terowongan bekas galian mereka dengan alat berat dan mesin pertambangan. Lambat laun, tambang itu berubah menjadi pabrik yang paling besar di dataran timur. Terowongan yang digali di gunung itu kini sudah menembus ke segala penjuru, bahkan sampai ke reruntuhan kuno yang terkubur jauh di bawah tanah. Kurasa, hari ini sudah tidak ada lagi orang yang hafal semua jalur di terowongan itu.",
       "th": "คุณเคยได้ยินที่มาของ \"Blackcliff Forge\" รึเปล่า?\n\nในอดีต ผู้คนขุดแร่สายหนึ่งใต้ภูเขา Mt. Tianheng แล้วแทนอุโมงค์ด้วยอุปกรณ์ต่าง ๆ จนมันกลายเป็นโรงงานที่ใหญ่ที่สุดในแดนตะวันออกอุโมงค์เหล่านี้ขยายออกไปทุกทิศทาง และบางแห่งอาจนำไปสู่โบราณสถานที่อยู่ลึกลงไปใต้ผืนโลก จนถึงทุกวันนี้ยังไม่มีใครที่ชำนาญเส้นทางพวกนี้เลย",
       "vi": "Nghe đến nguồn gốc của \"Hắc Nham Xưởng\" chưa?\n\nNgày xưa người ta khai thác các mỏ khoáng ở Thiên Hoành Sơn, vừa làm họ vừa xây dựng công trường ở đó. Dần dần trở thành xưởng khai thác lớn nhất lục địa phía đông. Con đường trong núi kéo dài, thậm chí có chỗ còn dẫn đến những di tích cổ xưa. Đến nay người có thể hiểu rõ đường đi trong đó, giờ hầu như không còn nữa rồi."
     }
@@ -1958,7 +1958,7 @@
       "jp": "戦闘不能·3",
       "ko": "전투 불능·세 번째",
       "en": "Fallen: III",
-      "de": "Ohmächtig III",
+      "de": "Ohnmächtig III",
       "es": "Derrotado (III)",
       "fr": "K.O. (3)",
       "pt": "Derrotado - III",
