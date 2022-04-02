@@ -41,7 +41,8 @@ export default function ArtifactSetPage() {
 
         <ul className="artifact-pieces">
           { setData['pieces'].map(piece => (
-            <ArtifactPiece 
+            <ArtifactPiece
+              key={ piece['name']['en'] } 
               miscData={ miscData }
               piece={ piece } 
               activeLang={ activeLang } 

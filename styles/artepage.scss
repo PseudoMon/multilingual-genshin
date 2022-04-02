@@ -8,14 +8,18 @@
 
 .artifact-list {
     list-style: none;
+    padding-left: 0;
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
     grid-gap: 40px;
 
     box-sizing: border-box;
-    width: 100%;
     max-width: 831px;
     margin: 0 auto;
+
+    @media (max-width: 500px) {
+        grid-template-columns: 1fr 1fr;
+    }
 
     li a {
         display: flex;
@@ -116,6 +120,14 @@
                 margin-top: 50px;
             }
 
+            @media (max-width: 500px) {
+                grid-template-columns: 1fr;
+            }
+
+            img { 
+                justify-self: center;
+            }
+
             .piece-baseinfo {
                 background-color: var(--color-textbg);
                 border-radius: 30px;
@@ -185,8 +197,9 @@
             }
 
             .piece-lore {
-                grid-column: span 2;
+                grid-column: 1 / -1;
                 margin-top: -20px;
+                margin-bottom: -30px;
                 background-color: var(--color-textbg);
                 border-radius: 30px;
                 padding: 1em 12% 0.5em 12%;
