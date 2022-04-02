@@ -1,0 +1,62 @@
+{
+  "name": {
+    "zhs": "琴",
+    "zht": "琴",
+    "jp": "ジン",
+    "ko": "진",
+    "en": "Jean",
+    "de": "Jean",
+    "es": "Jean",
+    "fr": "Jean",
+    "pt": "Jean",
+    "ru": "Джинн",
+    "id": "Jean",
+    "th": "Jean",
+    "vi": "Jean"
+  },
+  "title": {
+    "zhs": "蒲公英骑士",
+    "zht": "蒲公英騎士",
+    "jp": "蒲公英騎士",
+    "ko": "민들레 기사",
+    "en": "Dandelion Knight",
+    "de": "Löwenzahnritter",
+    "es": "La Caballera de Dandelion",
+    "fr": "Chevalier au Pissenlit",
+    "pt": "Cavaleira de Dandelion",
+    "ru": "Рыцарь Одуванчик",
+    "id": "Dandelion Knight",
+    "th": "อัศวิน Dandelion",
+    "vi": "Kỵ Sĩ Bồ Công Anh"
+  },
+  "description": {
+    "zhs": "正直严谨的蒲公英骑士，蒙德西风骑士团的代理团长。",
+    "zht": "正直嚴謹的蒲公英騎士，蒙德西風騎士團的代理團長。",
+    "jp": "正直で真面目な蒲公英騎士、モンド西風騎士団の代理団長。",
+    "ko": "정직하고 빈틈없는 민들레 기사, 몬드 페보니우스 기사단의 단장 대행이다",
+    "en": "The righteous and rigorous Dandelion Knight, and Acting Grand Master of Mondstadt's Knights of Favonius.",
+    "de": "Der aufrichtige und gewissenhafte Löwenzahnritter, der stellvertretender Großmeister des Ordo Favonius.",
+    "es": "La justa y rigurosa Caballera de Dandelion, y Gran Maestra Intendente de los Caballeros de Favonius de Mondstadt.",
+    "fr": "Le Chevalier au Pissenlit, loyal et rigoureux, et la Grande Maîtresse suppléante de l'Ordre de Favonius.",
+    "pt": "A justa e rigorosa Cavaleira de Dandelion, a Grande Mestre Intendente dos Cavaleiros de Favonius em Mondstadt.",
+    "ru": "Справедливый и искренний Рыцарь Одуванчик, действующий магистр Ордо Фавониус.",
+    "id": "Dandelion Knight yang menjunjung tinggi keadilan dan kebenaran. Menjabat sebagai Grand Master Knights of Favonius di Mondstadt.",
+    "th": "อัศวิน Dandelion ผู้ยึดมั่นในความถูกต้อง และเป็นผู้รักษาการผู้บัญชาการ ของกองอัศวินแห่ง Favonius",
+    "vi": "Kỵ sĩ Bồ Công Anh chính trực nghiêm nghị, đội trưởng đại diện Đội Kỵ Sĩ Tây Phong của Mondstadt."
+  },
+  "constellation": {
+    "zhs": "幼狮座",
+    "zht": "幼獅座",
+    "jp": "仔獅子座",
+    "ko": "새끼사자자리",
+    "en": "Leo Minor",
+    "de": "Leo Minor",
+    "es": "Leo Menor",
+    "fr": "Leo Minor",
+    "pt": "Leo Menor",
+    "ru": "Благородная Львица",
+    "id": "Leo Minor",
+    "th": "Leo Minor",
+    "vi": "Ấu Sư"
+  }
+}
