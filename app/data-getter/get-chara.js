@@ -38,3 +38,11 @@ export async function getCharaStories(charaId) {
   
   return JSON.parse(file)
 }
+
+export async function getCharaTalents(charaId) {
+  const file = await getJsonFile(
+    path.join(dataPath, "charadata", charaId, "talents.json")
+  )
+  
+  return JSON.parse(file)
+}

@@ -42,6 +42,9 @@ export default function CharacterPage() {
           <NavLink to="stories">
             <button className="page-button">Story</button>
           </NavLink>
+          <NavLink to="talents">
+            <button className="page-button">Talents</button>
+          </NavLink>
         </div>
       </section>
 
