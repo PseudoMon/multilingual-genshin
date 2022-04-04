@@ -1,0 +1,200 @@
+[
+  {
+    "title": {
+      "zhs": "普通攻击·拂云出手",
+      "zht": "普通攻擊·拂雲出手",
+      "jp": "通常攻撃·拂雲出手",
+      "ko": "일반 공격·구름을 스치는 격투",
+      "en": "Normal Attack: Cloud-Grazing Strike",
+      "de": "Standardangriff: Wolkenfetzer",
+      "es": "Ataque Normal: Caricia de las nubes",
+      "fr": "Attaque normale : Caresse des nuages",
+      "pt": "Ataque Normal: Golpe das Nuvens",
+      "ru": "Облачный удар",
+      "id": "Normal Attack: Cloud-Grazing Strike",
+      "th": "โจมตีปกติ - Cloud-Grazing Strike",
+      "vi": "Tấn Công Thường - Phất Vân Xuất Thủ"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>普通攻击</color>\n进行至多五段的连续枪击。\n\n<color=#FFD780FF>重击</color>\n消耗一定体力，向前方突进，对路径上的敌人造成伤害。\n\n<color=#FFD780FF>下落攻击</color>\n从空中下坠冲击地面，攻击下落路径上的敌人，并在落地时造成范围伤害。",
+      "zht": "<color=#FFD780FF>普通攻擊</color>\n進行至多五段的連續槍擊。\n\n<color=#FFD780FF>重擊</color>\n消耗一定體力，向前方突進，對路徑上的敵人造成傷害。\n\n<color=#FFD780FF>下落攻擊</color>\n從空中下墜衝擊地面，攻擊下落路徑上的敵人，並在落地時造成範圍傷害。",
+      "jp": "<color=#FFD780FF>通常攻撃</color>\n槍による最大5段の連続攻撃を行う。\n\n<color=#FFD780FF>重撃</color>\n一定のスタミナを消費して前方に突進し、経路上の敵にダメージを与える。\n\n<color=#FFD780FF>落下攻撃</color>\n空中から落下し地面に衝撃を与える。経路上の敵を攻撃し、落下時に範囲ダメージを与える。",
+      "ko": "<color=#FFD780FF>일반 공격</color>\n창으로 최대 5번 공격한다.\n\n<color=#FFD780FF>강공격</color>\n일정 스태미나를 소모해 전방으로 돌진하며 경로상의 적에게 피해를 준다.\n\n<color=#FFD780FF>낙하 공격</color>\n공중에서 땅을 내려찍어 경로상의 적을 공격하고 착지 시 범위 피해를 준다",
+      "en": "<color=#FFD780FF>Normal Attack</color>\nPerforms up to five consecutive spear strikes.\n\n<color=#FFD780FF>Charged Attack</color>\nConsumes a certain amount of Stamina to lunge forward, dealing damage to opponents along the way.\n\n<color=#FFD780FF>Plunging Attack</color>\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+      "de": "<color=#FFD780FF>Standardangriff</color>\nFührt bis zu 5 Lanzenstiche hintereinander aus.\n\n<color=#FFD780FF>Heftiger Schlag</color>\nVerbraucht eine gewisse Menge Ausdauer, sticht geschwind nach vorn und fügt den Gegnern in der Bahn Schaden zu.\n\n<color=#FFD780FF>Angriff aus dem Fall</color>\nSchlägt beim Fallen aus der Luft auf den Boden, greift alle Gegner in der Bahn an und verursacht beim Aufkommen Flächenschaden.",
+      "es": "<color=#FFD780FF>Ataque Normal</color>\nRealiza hasta 5 ataques rápidos con lanza.\n\n<color=#FFD780FF>Ataque Cargado</color>\nConsume una cierta cantidad de Aguante para lanzarse al frente, infligiendo daño a los enemigos en el camino.\n\n<color=#FFD780FF>Ataque Descendente</color>\nSe lanza desde el aire para golpear el suelo, dañando a los enemigos cercanos e infligiendo Daño en el AdE en el momento del impacto.",
+      "fr": "<color=#FFD780FF>Attaque normale</color>\nEnchaîne jusqu'à 5 coups de lance.\n\n<color=#FFD780FF>Attaque chargée</color>\nConsomme de l'endurance pour charger en ligne droite et infliger des DGT aux ennemis sur la route.\n\n<color=#FFD780FF>Attaque plongeante</color>\nPlonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis sur la route et des DGT de zone à l'impact.",
+      "pt": "<color=#FFD780FF>Ataque Normal</color>\nRealiza até 5 golpes com a lança.\n\n<color=#FFD780FF>Ataque Carregado</color>\nConsome uma certa quantidade de Stamina para se lançar para frente, infligindo Dano em seu trajeto.\n\n<color=#FFD780FF>Ataque Imersivo</color>\nMergulha em pleno ar para golpear o chão, causando dano aos inimigos ao longo do caminho e infligindo Dano em uma AdE durante o impacto.",
+      "ru": "<color=#FFD780FF>Обычная атака:</color>\nДо пяти ударов копьём.\n\n<color=#FFD780FF>Заряженная атака:</color>\nВыпад, наносящий урон противникам на пути, на который тратится определённое количество выносливости.\n\n<color=#FFD780FF>Атака в падении:</color>\nСтремительно падает на землю, атакуя всех врагов на пути. Приземлившись, наносит урон по площади.",
+      "id": "<color=#FFD780FF>Normal Attack</color>\nMelancarkan hingga 5 serangan tombak berturut-turut.\n\n<color=#FFD780FF>Charged Attack</color>\nMengonsumsi sejumlah Stamina untuk menerjang ke depan, mengakibatkan DMG pada musuh di jalurnya.\n\n<color=#FFD780FF>Plunging Attack</color>\nMenerjang dari udara untuk menghantam tanah, mengakibatkan DMG pada musuh di jalur terjangan dan mengakibatkan DMG area saat mendarat.",
+      "th": "<color=#FFD780FF>โจมตีปกติ</color>\nโจมตีต่อเนื่องมากสุดห้าครั้ง\n\n<color=#FFD780FF>ชาร์จโจมตี</color>\nใช้พลังกายปริมาณหนึ่งเพื่อ พุ่งไปข้างหน้าและสร้างความเสียหาย แก่ศัตรูที่อยู่ในเส้นทาง\n\n<color=#FFD780FF>โจมตีพุ่งลงจากอากาศ</color>\nกระโจนจากกลางอากาศลงมายังพื้นดิน เพื่อโจมตีศัตรูที่อยู่ในเส้นทางการโจมตี โดยจะสร้างความเสียหายวงกว้างเมื่อลงถึงพื้น",
+      "vi": "<color=#FFD780FF>Tấn Công Thường</color>\nThực hiện tối đa 5 lần đánh liên tiếp.\n\n<color=#FFD780FF>Trọng Kích</color>\nTiêu hao thể lực nhất định, xông về phía trước, gây sát thương cho địch trên đường đi.\n\n<color=#FFD780FF>Tấn Công Khi Đáp</color>\nĐáp xuống đất từ trên không, tấn công kẻ địch trên đường và gây sát thương phạm vi khi chạm đất."
+    },
+    "imgid": "s_643101"
+  },
+  {
+    "title": {
+      "zhs": "旋云开相",
+      "zht": "旋雲開相",
+      "jp": "旋雲開相",
+      "ko": "선운개상",
+      "en": "Opening Flourish",
+      "de": "Wolkenöffnung",
+      "es": "Disipadora de nimbos",
+      "fr": "Épanouissement ouvert",
+      "pt": "Abertura Deslumbrante",
+      "ru": "Вихревое представление",
+      "id": "Opening Flourish",
+      "th": "Opening Flourish",
+      "vi": "Toàn Vân Khai Tương"
+    },
+    "description": {
+      "zhs": "云先生的武戏架势，是真能御敌的。\n\n<color=#FFD780FF>点按</color>\n以拨云之势旋舞长枪，造成<color=#FFE699FF>岩元素伤害</color>。\n\n<color=#FFD780FF>长按</color>\n摆出旋云开相之架势蓄力，形成护盾，伤害吸收量受益于云堇的生命值上限，对所有元素伤害与物理伤害有150%的吸收效果。护盾持续至元素战技施放完毕。\n松开技能、持续时间结束时，或护盾被破坏时，会挥舞长枪释放积攒的力量进行攻击，造成<color=#FFE699FF>岩元素伤害</color>。\n依据蓄力的时间，释放时的状态将分为一段蓄力与二段蓄力。\n\n<i>台上一刹光华，台下十年辛苦。</i>",
+      "zht": "雲先生的武戲架勢，是真能禦敵的。\n\n<color=#FFD780FF>點按</color>\n以撥雲之勢旋舞長槍，造成<color=#FFE699FF>岩元素傷害</color>。\n\n<color=#FFD780FF>長按</color>\n擺出旋雲開相之架勢蓄力，形成護盾，傷害吸收量受益於雲堇的生命值上限，對所有元素傷害與物理傷害有150%的吸收效果。護盾持續至元素戰技施放完畢。\n鬆開技能、持續時間結束時，或護盾被破壞時，會揮舞長槍釋放積蓄的力量進行攻擊，造成<color=#FFE699FF>岩元素傷害</color>。\n依據蓄力的時間，釋放時的狀態將分為一段蓄力與二段蓄力。\n\n<i>臺上一刹光華，台下十年辛苦。</i>",
+      "jp": "雲先生が武道劇で披露する殺陣は、実戦でも通用する。\n\n<color=#FFD780FF>一回押し</color>\n雲をも切り裂く勢いで槍を回転させ、<color=#FFE699FF>岩元素ダメージ</color>を与える。\n\n<color=#FFD780FF>長押し</color>\n旋雲開相の構えで力を溜め、シールドを作り出す。シールドのダメージ吸収量は雲菫のHP上限によって決まり、全元素ダメージおよび物理ダメージに対して150%の吸収効果を持つ。シールドは元素スキル発動完了まで継続する。\n元素スキルボタンを離す、または継続時間の終了時やシールドが破壊された時、蓄積された力を長槍から解き放ち、<color=#FFE699FF>岩元素ダメージ</color>を与える。\nチャージ時間によって、発動時の状態は2段階に分かれる。\n\n<i>舞台上で見せる輝かしい一瞬は、その裏で努力を十年積み重ねてきた結晶である。</i>",
+      "ko": "운 선생의 무술극 자세는 실제로 적을 막을 수 있다.\n\n<color=#FFD780FF>짧은 터치</color>\n구름을 가르는 기세로 장창을 휘둘러 <color=#FFE699FF>바위 원소 피해</color>를 준다.\n\n<color=#FFD780FF>홀드</color>\n선회하는 구름의 기세로 차지한 후 보호막을 생성한다. 피해 흡수량은 운근 HP 최대치의 영향을 받으며, 모든 원소 피해와 물리 피해에 대해 150%의 흡수 효과가 있다. 보호막은 원소전투 스킬이 종료될 때까지 지속된다.\n스킬 버튼에서 손을 떼거나 지속 시간 종료 또는 보호막이 파괴되면, 장창을 휘둘러 축적한 힘을 방출해 공격하고 <color=#FFE699FF>바위 원소 피해</color>를 준다.\n차지 시간에 따라 발동 상태가 1단 차지와 2단 차지로 나뉜다.\n\n<i>무대 위 화려한 순간 뒤엔 무대 아래에서 쌓은 수년의 노력이 있다</i>",
+      "en": "#Ms. Yun may just be acting out fights on stage, but her skills with the spear are real enough to defend against her foes.\n\n<color=#FFD780FF>{LAYOUT_MOBILE#Tap}{LAYOUT_PC#Press}{LAYOUT_PS#Press}</color>\nFlourishes her polearm in a cloud-grasping stance, dealing <color=#FFE699FF>Geo DMG</color>.\n\n<color=#FFD780FF>Hold</color>\nTakes up the Opening Flourish stance and charges up, forming a shield. DMG Absorption is based on Yun Jin's Max HP and has 150% effectiveness against all Elemental DMG and Physical DMG. The shield lasts until she finishes unleashing her Elemental Skill.\nWhen the skill is released, when its duration ends, or when the shield breaks, Yun Jin will unleash the charged energy as an attack, dealing <color=#FFE699FF>Geo DMG</color>.\nBased on the time spent charging, it will either unleash an attack at Charge Level 1 or Level 2.\n\n<i>One glorious moment on-stage, a decade of preparation behind it.</i>",
+      "de": "Mit den theatralischen Aufführungen ihrer Kampfkünste kommt Fräulein Yun sogar gegen ihre Feinde an.\n\n<color=#FFD780FF>Drücken</color>\nVerursacht mit dem Speertanz des Wolkenzupfens <color=#FFE699FF>Geo-Schaden</color>.\n\n<color=#FFD780FF>Gedrückt halten</color>\nNimmt die Stellung der Wolkenöffnung ein, lädt auf und erschafft einen Schutzschild, der Schaden basierend auf Yun Jins max. LP und bei elementarem sowie physischem Schaden 150 % abhält. Der Schutzschild hält bis zum Ende der Elementarfähigkeit.\nYun Jin wirbelt beim Loslassen der Taste, beim Ende der Wirkungsdauer oder dann, wenn der Schild zerstört wird, ihre Stangenwaffe mit der aufgeladenen Kraft und verursacht <color=#FFE699FF>Geo-Schaden</color>.\nErhält beim Auslösen je nach Zeit der Aufladung den Zustand von Aufladung Phase 1 oder Phase 2.\n\n<i>Ein Moment des Ruhms auf der Bühne entspricht einem Jahrzehnt harter Arbeit hinter der Bühne.</i>",
+      "es": "#A pesar de que la maestra Yun maneja la lanza para coreografías en escena, sus habilidades de combate son muy reales.\n\n<color=#FFD780FF>{LAYOUT_MOBILE#Un toque}{LAYOUT_PC#Pulsar una vez}{LAYOUT_PS#Pulsar una vez}</color>\nEmpuña su lanza para disipar las nubes e infligir <color=#FFE699FF>Daño Geo</color>.\n\n<color=#FFD780FF>Mantener pulsado</color>\nEntra en su posición de disipadora de nimbos para acumular fuerza y crear un escudo que absorbe daño en proporción a la Vida Máx. de Yun Jin. El escudo tiene un 150% de efectividad de absorción de Daño Elemental y Físico, y dura hasta que Yun Jin termine de lanzar la Habilidad Elemental.\nAl dejar de pulsar la habilidad, cuando termine su duración o cuando el escudo se rompa, libera un ataque con todo el poder acumulado que inflige <color=#FFE699FF>Daño Geo</color>.\nSegún el tiempo de carga, el poder acumulado podrá ser de una o dos cargas.\n\n<i>Un momento brillante en el escenario equivale a diez años de duro trabajo.</i>",
+      "fr": "Bien que maître Yun ne fasse que jouer la comédie lors de ses combats sur scène, ses talents avec une lance sont bien réels.\n\n<color=#FFD780FF>Appui simple</color>\nBrandit sa lance pour caresser les nuages, infligeant des <color=#FFE699FF>DGT Géo</color>.\n\n<color=#FFD780FF>Appui long</color>\nAdopte la posture de l'épanouissement ouvert pour se charger, formant ainsi un bouclier. L'absorption de DGT du bouclier est fonction des PV max de Yun Jin, et il est efficace à 150 % contre les DGT élémentaires et physiques. Le bouclier dure jusqu'à ce qu'elle finisse de libérer sa compétence élémentaire.\nLorsque vous relâchez la compétence, que la durée prend fin ou que le bouclier est détruit, Yun Jin libère l'énergie stockée sous forme d'attaque, infligeant des <color=#FFE699FF>DGT Géo</color>.\nEn fonction du temps passé à charger, une attaque de 1e ou 2e charge sera déclenchée.\n\n<i>Pour un unique moment glorieux sur scène, une décennie de préparation en coulisse...</i>",
+      "pt": "A Srta. Yun apenas atua no palco, mas realmente sabe usar uma lança.\n\n<color=#FFD780FF>Pressionar</color>\nBrande sua lança na Forma de Corte das Nuvens, infligindo <color=#FFE699FF>Dano Geo</color>.\n\n<color=#FFD780FF>Manter Pressionado</color>\nAssume a posição de Abertura Deslumbrante e inicia um carregamento, formando um escudo. A absorção de Dano do Escudo é baseado na Vida Máxima de Yunjin, e é 150% eficaz contra Dano de todos os elementos e Dano Físico. O escudo dura até o final da Habilidade.\nQuando a Habilidade é lançada, sua duração encerrar ou o escudo for destruído, Yunjin brande a lança, lançando seu poder acumulado, infligindo <color=#FFE699FF>Dano Geo</color>.\nDe acordo com o tempo de carregamento, a Habilidade ao ser lançada pode ser dividida em Carga Nível 1 e Carga Nível 2.\n\n<i>Um momento glorioso no palco é uma década de preparação por detrás dele.</i>",
+      "ru": "На сцене Госпожа Юнь лишь изображает бой, но дать отпор врагам она может и по-настоящему.\n\n<color=#FFD780FF>Быстрое нажатие</color>\nВзмахивает копьём, обводя очертания облаков, и наносит <color=#FFE699FF>Гео урон</color>.\n\n<color=#FFD780FF>Долгое нажатие</color>\nВстаёт в стойку Вихревое представление, накапливает заряд и создаёт щит. Поглощение урона зависит от максимального HP Юнь Цзинь. Щит поглощает элементальный урон и физический урон на 150% эффективнее. Он действует до тех пор, пока Юнь Цзинь не закончит исполнение элементального навыка.\nКогда навык применится, закончится его длительность или щит разрушится, Юнь Цзинь высвободит накопленную энергию, нанося <color=#FFE699FF>Гео урон</color>. В зависимости от времени, потраченного на зарядку, атака будет уровня заряда 1 или уровня заряда 2.\n\n<i>Минута сияния на сцене, за которой стоит десятилетие подготовки.</i>",
+      "id": "Yun Jin dapat menggunakan kuda-kuda bela dirinya untuk melawan para musuh.\n\n<color=#FFD780FF>Mode Tekan</color>\nMemutar tombak dengan kuda-kuda pembelah awan dan mengakibatkan <color=#FFE699FF>Geo DMG</color>.\n\n<color=#FFD780FF>Mode Tahan</color>\nMemasang kuda-kuda Opening Flourish dan melakukan charge untuk menciptakan sebuah perisai. Jumlah DMG yang dapat ditahan perisai didasarkan pada Max HP Yun Jin dan memiliki 150% efek penahanan terhadap semua Elemental DMG dan Physical DMG. Perisai akan berakhir saat Elemental Skill selesai dilancarkan.\nSaat melancarkan skill dengan melepas tombol, durasinya berakhir, atau perisainya hancur, Yun Jin akan menyerang dengan ayunan tombaknya dan melepaskan energi yang tersimpan untuk mengakibatkan <color=#FFE699FF>Geo DMG</color>.\nYun Jin akan melancarkan serangan Charge Tahap 1 atau Charge Tahap 2 berdasarkan durasi charge-nya.\n\n<i>Di balik satu momen kejayaan di atas panggung, terdapat kerja keras selama sepuluh tahun.</i>",
+      "th": "#ท่วงท่าการต่อสู้ของอาจารย์ Yun บนเวทีนั้น สามารถใช้ต่อกรกับศัตรูได้จริง\n\n<color=#FFD780FF>{LAYOUT_MOBILE#แตะ}{LAYOUT_PC#กด}{LAYOUT_PS#กด}</color>\nระบำหอกที่พลิ้วไหวราวกับหมู่เมฆ ซึ่งทำให้เกิด<color=#FFE699FF>ความเสียหายหิน</color>\n\n<color=#FFD780FF>{LAYOUT_MOBILE#แตะค้าง}{LAYOUT_PC#กดค้าง}{LAYOUT_PS#กดค้าง}</color>\nเข้าสู่ท่วงท่า Opening Flourish และรวบรวมพลัง จากนั้นสร้างโล่ที่มีปริมาณการดูดซับความเสียหายโดยขึ้นกับค่าพลังชีวิตสูงสุดของ Yun Jin ขึ้นมา ซึ่งจะมีเอฟเฟกต์ดูดซับความเสียหายธาตุทั้งหมด และความเสียหายกายภาพ 150% โดยที่โล่จะคงอยู่ไปจนกว่าการปล่อยสกิลธาตุสิ้นสุดลง\nเมื่อสกิลถูกปลดปล่อย, ช่วงเวลาต่อเนื่องสิ้นสุดลง หรือโล่ถูกทำลาย จะปลดปล่อยพลังงานที่รวบรวมไว้ออกมาเพื่อโจมตี โดยจะทำให้เกิด<color=#FFE699FF>ความเสียหายหิน</color>\nการโจมตีจะถูกแบ่งออกเป็นการชาร์จระดับหนึ่ง และการชาร์จระดับสอง โดยขึ้นอยู่กับช่วงเวลาที่ใช้ในการรวบรวมพลัง\n\n<i>ความงดงามเพียงชั่วครู่บนเวทีนั้น เกิดจากความเหนื่อยยากนับสิบปี</i>",
+      "vi": "Tư thế múa võ trên sân khấu của Yun tiên sinh thực sự có thể đánh địch đấy.\n\n<color=#FFD780FF>Nhấn</color>\nXoay thương xua tan mây mù, gây <color=#FFE699FF>Sát Thương Nguyên Tố Nham</color>.\n\n<color=#FFD780FF>Nhấn giữ</color>\nTụ lực từ tư thế Toàn Vân Khai Tương, tạo ra lá chắn, lượng hấp thụ sát thương căn cứ vào giới hạn HP của Yun Jin, có 150% hiệu quả hấp thụ sát thương vật lý và sát thương toàn bộ nguyên tố. Khiên duy trì đến khi thi triển xong Kỹ Năng Nguyên Tố.\nKhi buông kỹ năng, kết thúc thời gian duy trì hoặc khiên bị phá hủy, sẽ múa thương giải phóng sức mạnh tích tụ, gây <color=#FFE699FF>Sát Thương Nguyên Tố Nham</color>.\nCăn cứ vào thời gian tụ lực, trạng thái khi giải phóng sẽ chia thành tụ lực lần 1 và tụ lực lần 2.\n\n<i>Một thoáng trên sân khấu, mười năm của khổ luyện.</i>"
+    },
+    "imgid": "s_643201"
+  },
+  {
+    "title": {
+      "zhs": "破嶂见旌仪",
+      "zht": "破嶂見旌儀",
+      "jp": "破嶂の旌儀",
+      "ko": "절벽을 깎는 깃발",
+      "en": "Cliffbreaker's Banner",
+      "de": "Banner der brechenden Klippen",
+      "es": "Estandarte romperrocas",
+      "fr": "Bannière de rupture des falaises",
+      "pt": "Bandeira Quebra-Rochas",
+      "ru": "Стяг разрушителя скал",
+      "id": "Cliffbreaker's Banner",
+      "th": "Cliffbreaker's Banner",
+      "vi": "Phá Chướng Kiến Tinh Nghi"
+    },
+    "description": {
+      "zhs": "造成<color=#FFE699FF>岩元素范围伤害</color>，并为附近的队伍中所有角色赋予「飞云旗阵」。\n\n<color=#FFD780FF>飞云旗阵</color>\n对敌人造成普通攻击伤害时，基于云堇自己当前的防御力，提高造成的伤害。\n\n「飞云旗阵」效果会在持续时间结束或生效一定次数后消失。\n一次普通攻击同时命中多名敌人时，会依据命中敌人的数量消耗生效次数；队伍中具有「飞云旗阵」的角色，其生效次数单独计算。\n\n<i>「桴鼓声中，刀枪剑戟空翻影，女婵娟今扮作掌旗大将。」</i>\n<i>「红毹上琴笛铙钹齐鸣，且看她如何荡平妖魔。」</i>",
+      "zht": "造成<color=#FFE699FF>岩元素範圍傷害</color>，並為附近的隊伍中所有角色賦予「飛雲旗陣」。\n\n<color=#FFD780FF>飛雲旗陣</color>\n對敵人造成普通攻擊傷害時，基於雲堇自己目前的防禦力，提高造成的傷害。\n\n「飛雲旗陣」效果會在持續時間結束或生效一定次數後消失。\n一次普通攻擊同時命中多名敵人時，會依據命中敵人的數量消耗生效次數；隊伍中具有「飛雲旗陣」的角色，其生效次數單獨計算。\n\n<i>「桴鼓聲中，刀槍劍戟空翻影，女嬋娟今扮作掌旗大將。」</i>\n<i>「紅毹上琴笛鐃鈸齊鳴，且看她如何蕩平妖魔。」</i>",
+      "jp": "<color=#FFE699FF>岩元素範囲ダメージ</color>を与え、周囲のチーム全員に「飛雲旗陣」効果を与える。\n\n<color=#FFD780FF>飛雲旗陣</color>\n敵に通常攻撃ダメージを与える時、雲菫自身の防御力を基準にダメージがアップする。\n\n「飛雲旗陣」効果は継続時間の終了、または規定回数の発動後に消失する。\n一回の通常攻撃が複数の敵に命中した場合は、その敵の数に応じて発動回数が消費される。「飛雲旗陣」の発動回数は、付与されたキャラクターごとに計算される。\n\n<i>「轟々と鳴る鼓の中、刀槍矛戟と空を舞う影が現れる。麗しき女性がその幕で演ずるは掌旗大将。」</i>\n<i>「紅絨毯の上で楽器が一斉に鳴り響く。妖魔を鎮める彼女の姿を、とくとご覧あれ。」</i>",
+      "ko": "<color=#FFE699FF>바위 원소 범위 피해</color>를 주고, 근처 파티 내 모든 캐릭터에게 「비운의 깃발」을 부여한다.\n\n<color=#FFD780FF>비운의 깃발</color>\n적에게 일반 공격 피해를 주면 운근의 방어력을 기반으로 가하는 피해가 증가한다.\n\n「비운의 깃발」 효과는 지속 시간 종료 또는 일정 횟수 발동 후 사라진다.\n일반 공격 1회로 동시에 다수의 적 명중 시, 명중한 적의 수에 따라 발동 횟수를 소모한다. 파티 내에 「비운의 깃발」을 보유한 캐릭터의 발동 횟수는 따로 계산된다.\n\n<i>「북소리가 울리고 칼과 창이 전장을 가르면, 가인은 깃발을 잡는 대장군으로 변신한다.」</i>\n<i>「붉은 융단에 악기 소리가 울려 퍼지니, 그녀가 요마를 소탕하는 자태를 보아라」</i>",
+      "en": "Deals <color=#FFE699FF>AoE Geo DMG</color> and grants all nearby party members a Flying Cloud Flag Formation.\n\n<color=#FFD780FF>Flying Cloud Flag Formation</color>\nWhen Normal Attack DMG is dealt to opponents, Bonus DMG will be dealt based on Yun Jin's current DEF.\n\nThe effects of this skill will be cleared after a set duration or after being triggered a specific number of times.\nWhen one Normal Attack hits multiple opponents, the effect is triggered multiple times according to the number of opponents hit. The number of times that the effect is triggered is counted independently for each member of the party with Flying Cloud Flag Formation.\n\n<i>As the drums resound, as swords and halberds weave and clash, the doyenne is transformed into a mighty general.</i>\n<i>As the instruments on stage strum in unison, lo, see how she vanquishes these demons!</i>",
+      "de": "Verursacht <color=#FFE699FF>Geo-Flächenschaden</color> und verleiht allen Truppenmitgliedern in der Nähe die „Formation der Fliegenden Wolken“.\n\n<color=#FFD780FF>Formation der fliegenden Wolken</color>\nErhöht, wenn Gegnern mit Standardangriffen Schaden zugefügt wird, den verursachten Schaden basierend auf Yun Jins eigener aktueller VTD.\n\nDer Effekt „Formation der fliegenden Wolken“ erlischt am Ende der Wirkungszeit oder nach dem Inkrafttreten einer bestimmten Menge an Stapelungen.\nVerbraucht beim Treffen mehrerer Gegner mit einem einzelnen Standardangriff eine der Anzahl der getroffenen Gegner entsprechende Menge an wirksamen Stapelungen. Die wirksamen Stapelungen jedes Truppenmitglieds mit dem Effekt Formation der fliegenden Wolken werden unabhängig voneinander berechnet.\n\n<i>„Mit dem Klang der Trommeln sowie dem Geklirr der Schwerter, Speere und Hellebarden in der Luft, wird die Bühnenschönheit zu einer führenden Generalin.“</i>\n<i>„Auf dem roten Teppich begleiten Harfen, Flöten, Glocken und Zimbeln sie im Kampf gegen die Dämonen.“</i>",
+      "es": "Inflige <color=#FFE699FF>Daño Geo en el AdE</color> y otorga a todos los miembros del equipo cercanos los banderines de las nubes.\n\n<color=#FFD780FF>Banderines de las nubes</color>\nEl daño que infligen los miembros del equipo con sus Ataques Normales aumenta en proporción a la DEF actual de Yun Jin.\n\nLos efectos de los banderines desaparecerán cuando termine su duración o tras activar un número determinado de cargas.\nAl golpear a varios enemigos a la vez con un Ataque Normal, se consumirán cargas en función del número de enemigos golpeados. Los efectos y las cargas de los banderines de las nubes se calculan de manera independiente para cada personaje.\n\n<i>Entre el golpeteo de los tambores y el repiqueteo de las lanzas, una bella mujer general porta un estandarte.</i>\n<i>La música converge en el escenario, donde la general purga el mal con suma serenidad.</i>",
+      "fr": "Inflige des <color=#FFE699FF>DGT Géo de zone</color> et accorde une formation de bannière de nuagerie à tous les personnages de l'équipe à proximité.\n\n<color=#FFD780FF>Formation de bannière de nuagerie</color>\nLorsque le personnage inflige des DGT d'attaque normale à un ennemi, les DGT infligés augmentent en fonction de la DÉF actuelle de Yun Jin.\n\nLes effets de la formation de bannière de nuagerie disparaissent à la fin de sa durée ou après avoir activé un certain nombre de cumuls.\nLorsqu'une attaque normale touche plusieurs ennemis en même temps, les cumuls sont consommés selon le nombre d'ennemis touchés. Les cumuls de formation de bannière de nuagerie sont calculés indépendamment pour tous les personnages de l'équipe.\n\n<i>« Alors que les tambours résonnent et que les épées et les hallebardes s'entrechoquent, la doyenne se transforme en un puissant général. »</i>\n<i>« Tandis que les instruments sur scène vibrent à l'unisson, voyons comment elle vainc ces démons ! »</i>",
+      "pt": "Causa <color=#FFE699FF>Dano Geo em uma AdE</color> e dá a todos os personagens da equipe a \"Formação da Bandeira das Nuvens\".\n\n<color=#FFD780FF>Formação da Bandeira das Nuvens</color>\nQuando causa Dano de Ataque Normal, aumenta o Dano causado com base na DEF da própria Yunjin.\n\nO efeito \"Formação da Bandeira das Nuvens\" desaparece após o fim da sua duração ou após ser ativado um determinado número de vezes.\nQuando um Ataque Normal atinge vários inimigos simultaneamente, irá consumir vezes de ativação de acordo com o número de inimigos atingidos; as vezes de ativação de \"Formação de Bandeira das Nuvens\" é contada separadamente entre os personagens que a possuem.\n\n<i>\"Com o ressoar dos tambores, espadas e alabardas balançando, uma bela mulher general segura uma bandeira.\"</i>\n<i>Com os instrumentos soando em uníssono, podemos ver ela limpando todos os demônios.\"</i>",
+      "ru": "Наносит <color=#FFE699FF>Гео урон по площади</color> и накладывает на всех ближайших членов отряда Строй облачных флагов.\n\n<color=#FFD780FF>Строй облачных флагов</color>\nКогда противникам наносится урон обычной атаки, им также наносится дополнительный урон, который зависит от текущей защиты Юнь Цзинь.\n\nЭффекты навыка будут сняты по окончании его действия или после израсходования определённого количества зарядов.\nКогда обычная атака наносит урон нескольким противникам, заряды будут расходоваться в зависимости от количества поражённых противников. Количество зарядов Строя облачных флагов каждого члена отряда подсчитывается отдельно.\n\n<i>Под звуки барабанов и лязг мечей красавица превращается в могучего генерала.</i>\n<i>Инструменты на сцене поют в унисон. Смотрите, как дева побеждает ужасных демонов!</i>",
+      "id": "Mengakibatkan <color=#FFE699FF>Geo DMG Area</color> dan memberikan efek Flying Cloud Flag Formation kepada seluruh anggota party di sekitar.\n\n<color=#FFD780FF>Flying Cloud Flag Formation</color>\nSaat mengakibatkan DMG kepada musuh dengan Normal Attack, DMG yang diakibatkan akan meningkat sesuai dengan DEF Yun Jin saat ini.\n\nEfek Flying Cloud Flag Formation akan hilang setelah durasinya berakhir atau lapisannya terkonsumsi dalam jumlah tertentu.\nSaat satu Normal Attack mengenai beberapa musuh secara bersamaan, jumlah lapisan Flying Cloud Flag Formation yang dikonsumsi akan disesuaikan dengan jumlah musuh yang terkena serangan. Efek dan jumlah lapisan Flying Cloud Flag Formation untuk setiap Karakter dalam party akan dihitung secara terpisah.\n\n<i>\"Di tengah suara genderang perang, tombak dan pedang saling berayun, sang wanita cantik berubah menjadi jenderal yang membawa panji perang.\"</i>\n<i>\"Saat instrumen di atas panggung berbunyi serempak, lihatlah bagaimana dia mengalahkan para iblis ini!\"</i>",
+      "th": "ทำให้เกิด<color=#FFE699FF>ความเสียหายหินวงกว้าง</color> และมอบ Flying Cloud Flag Formation ให้แก่ตัวละครทั้งหมดในทีมที่อยู่ในบริเวณใกล้เคียง\n\n<color=#FFD780FF>Flying Cloud Flag Formation</color>\nเมื่อทำให้เกิดความเสียหายของการโจมตีปกติแก่ศัตรู จะเพิ่มความเสียหายที่สร้าง โดยขึ้นกับพลังป้องกันในขณะนั้นของตัว Yun Jin เอง\n\nเอฟเฟกต์ของ Flying Cloud Flag Formation จะหายไปหลังจากที่ช่วงเวลาต่อเนื่องสิ้นสุดลง หรือมีจำนวนครั้งการเกิดเอฟเฟกต์ถึงที่กำหนด\nเมื่อการโจมตีปกติถูกศัตรูหลายตัวพร้อมกันในครั้งเดียว จะใช้จำนวนชั้นเอฟเฟกต์ที่มีอยู่ โดยขึ้นอยู่กับจำนวนของศัตรูที่ถูกโจมตี; จำนวนครั้งการเกิดเอฟเฟกต์ของตัวละครแต่ละตัวในทีมที่มี Flying Cloud Flag Formation จะคิดแยกกัน\n\n<i>\"ท่ามกลางเสียงกลองที่สนั่นหวั่นไหว และการกวัดแกว่งไปมาของดาบ, หอก และง้าว บัดนี้หญิงสาวผู้งดงาม ได้เปลี่ยนตัวเองเป็นแม่ทัพผู้ยิ่งใหญ่\"</i>\n<i>\"เมื่อเสียงพิณ ขลุ่ย และฉาบบนพรมสีแดงดังกังวาน มาดูกันว่าเธอจะจัดการกับเหล่าอสูรร้ายอย่างไร\"</i>",
+      "vi": "Gây <color=#FFE699FF>Sát Thương Phạm Vi Nguyên Tố Nham</color>, đồng thời cung cấp \"Phi Vân Kỳ Trận\" cho tất cả nhân vật trong đội gần đó.\n\n<color=#FFD780FF>Phi Vân Kỳ Trận</color>\nKhi gây sát thương tấn công thường cho kẻ địch, sẽ căn cứ vào sức phòng ngự của Yun Jin để tăng thêm sát thương gây ra.\n\nHiệu quả \"Phi Vân Kỳ Trận\" sẽ biến mất khi kết thúc thời gian duy trì hoặc đạt số lần hiệu lực nhất định.\nKhi trong một lần tấn công thường trúng nhiều kẻ địch, thì sẽ căn cứ vào số lượng kẻ địch trúng đòn để tiêu hao số lần hiệu lực; Số lần hiệu lực \"Phi Vân Kỳ Trận\" của mỗi nhân vật trong đội sẽ tính độc lập với nhau.\n\n<i>\"Trong tiếng trống vang, đao thương kiếm ảnh, mỹ nhân hóa đại tướng.\"</i>\n<i>\"Sáo nhạc tề vang trên thảm đỏ, cùng ngắm nhìn Yun tiên sinh hàng phục yêu ma.\"</i>"
+    },
+    "imgid": "s_643901"
+  },
+  {
+    "title": {
+      "zhs": "务守本真",
+      "zht": "務守本真",
+      "jp": "自我堅守",
+      "ko": "본심 유지",
+      "en": "True to Oneself",
+      "de": "Selbstsicherheit",
+      "es": "Fiel a sí misma",
+      "fr": "Fidèle à soi-même",
+      "pt": "Fiel a si mesma",
+      "ru": "Верность себе",
+      "id": "True to Oneself",
+      "th": "True to Oneself",
+      "vi": "Vụ Thủ Bản Chân"
+    },
+    "description": {
+      "zhs": "在被攻击瞬间施放的<color=#FFD780FF>旋云开相</color>，会以长按二段蓄力的形式施放。",
+      "zht": "在被攻擊瞬間施放的<color=#FFD780FF>旋雲開相</color>，會以長按二段蓄力的形式施放。",
+      "jp": "攻撃された瞬間に発動する<color=#FFD780FF>旋雲開相</color>は、長押しの2段チャージ状態になる。",
+      "ko": "피격 시 발동하는 <color=#FFD780FF>선운개상</color>이 홀드 2단 차지 형식으로 발동된다",
+      "en": "Using <color=#FFD780FF>Opening Flourish</color> at the precise moment when Yun Jin is attacked will unleash its Level 2 Charged (Hold) form.",
+      "de": "Löst <color=#FFD780FF>Wolkenöffnung</color> bei Anwendung im Augenblick des Erleidens eines Angriffs wie beim Gedrückthalten für Aufladung Phase 2 aus.",
+      "es": "Si Yun Jin usa <color=#FFD780FF>Disipadora de nimbos</color> en el momento justo en el que recibe un ataque, la habilidad se liberará con la fuerza de dos cargas.",
+      "fr": "Lorsque Yun Jin utilise <color=#FFD780FF>Épanouissement ouvert</color> au moment exact où elle est attaquée, elle déclenche sa 2e charge.",
+      "pt": "Usar <color=#FFD780FF>Abertura Deslumbrante</color> no momento correto em que estiver sendo atacada fará com que a Carga Nível 2 de Manter Pressionado seja lançada.",
+      "ru": "Использование навыка <color=#FFD780FF>Вихревое представление</color> точно в момент, когда Юнь Цзинь атакована, активирует второй уровень заряда формы долгого нажатия.",
+      "id": "Menggunakan <color=#FFD780FF>Opening Flourish</color> tepat saat Yun Jin terkena serangan akan melancarkan bentuk Charge Tahap 2 (Mode Tahan)-nya.",
+      "th": "#เมื่อใช้ <color=#FFD780FF>Opening Flourish</color> ในจังหวะที่ถูกโจมตี จะปล่อยออกมาในรูปแบบการชาร์จขั้น 2 ของการ{LAYOUT_MOBILE#แตะค้าง}{LAYOUT_PC#กดค้าง}{LAYOUT_PS#กดค้าง}",
+      "vi": "Thi triển <color=#FFD780FF>Toàn Vân Khai Tương</color> trong thời khắc bị tấn công, sẽ dùng hình thức nhấn giữ tụ lực lần 2 để thi triển."
+    },
+    "imgid": "p_642101"
+  },
+  {
+    "title": {
+      "zhs": "莫从恒蹊",
+      "zht": "莫從恆蹊",
+      "jp": "独立嶄然",
+      "ko": "전통 타파",
+      "en": "Breaking Conventions",
+      "de": "Nieder mit den alten Werten",
+      "es": "Rechazo de la convención",
+      "fr": "Rejet des conventions",
+      "pt": "Quebradora de Convenções",
+      "ru": "Отход от традиций",
+      "id": "Breaking Conventions",
+      "th": "Breaking Conventions",
+      "vi": "Mạc Tùng Hằng Khê"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>「飞云旗阵」</color>提供的普通攻击伤害提高，当队伍中存在1/2/3/4种元素类型的角色时，数值上进一步追加云堇防御力的2.5%/5%/7.5%/11.5%。",
+      "zht": "<color=#FFD780FF>「飛雲旗陣」</color>提供的普通攻擊傷害提高，當隊伍中存在1/2/3/4種元素類型的角色時，數值上進一步追加雲堇防禦力的2.5%/5%/7.5%/11.5%。",
+      "jp": "チーム内キャラクターの元素タイプが1/2/3/4種類の時、<color=#FFD780FF>「飛雲旗陣」</color>による通常攻撃ダメージアップ効果は、さらに雲菫の防御力2.5%/5%/7.5%/11.5%分上乗せされる。",
+      "ko": "파티 내에 1/2/3/4가지 원소 타입의 캐릭터 존재 시, <color=#FFD780FF>「비운의 깃발」</color>이 제공하는 일반 공격 피해 증가 효과의 수치가 각각 운근 방어력의 2.5%/5%/7.5%/11.5%만큼 추가된다",
+      "en": "The Normal Attack DMG Bonus granted by <color=#FFD780FF>Flying Cloud Flag Formation</color> is further increased by 2.5%/5%/7.5%/11.5% of Yun Jin's DEF when the party contains characters of 1/2/3/4 Elemental Types, respectively.",
+      "de": "Erhöht den Schadensbonus für Standardangriffe von <color=#FFD780FF>Formation der Fliegenden Wolken</color> bei Truppenmitgliedern mit 1/2/3/4 verschiedenen Elementartypen zusätzlich um 2,5/5/7,5/11,5 % von Yun Jins VTD.",
+      "es": "Cuando en el equipo hay 1/2/3/4 personajes con tipos elementales distintos, el aumento de daño de Ataque Normal otorgado por los <color=#FFD780FF>banderines de las nubes</color> incrementa en un 2.5/5/7.5/11.5% adicional en proporción a la DEF de Yun Jin.",
+      "fr": "Lorsque l'équipe comprend des personnages de 1/2/3/4 types élémentaires, le bonus de DGT d'attaque normale accordé par une <color=#FFD780FF>formation de bannière de nuagerie</color> augmente davantage d'une valeur équivalant à 2,5 %/5 %/7,5 %/11,5 % de la DÉF de Yun Jin.",
+      "pt": "Quando a equipe contém personagens de 1/2/3/4 Tipos Elementais diferentes, o Bônus de Dano do Ataque Normal de <color=#FFD780FF>Formação da Bandeira das Nuvens</color> é aumentado em 2.5%/5%/7.5%/11.5% com base na DEF de Yunjin.",
+      "ru": "Бонус урона обычной атаки от эффекта <color=#FFD780FF>Строй облачных флагов</color> дополнительно увеличивается на 2,5%/5%/7,5%/11,5% от защиты Юнь Цзинь, если в отряде есть персонажи 1/2/3/4 типов элементов.",
+      "id": "Bonus DMG Normal Attack dari <color=#FFD780FF>Flying Cloud Flag Formation</color> akan meningkat lagi sebesar 2,5%/5%/7,5%/11,5% dari DEF Yun Jin saat party berisi Karakter dengan 1/2/3/4 jenis elemen berbeda.",
+      "th": "เมื่อตัวละครในทีมมีประเภทธาตุ 1/2/3/4 ประเภท โบนัสความเสียหาย ของการโจมตีปกติที่ <color=#FFD780FF>Flying Cloud Flag Formation</color> มอบให้ จะเพิ่มขึ้นอีก 2.5%/5%/7.5%/11.5% ของพลังป้องกันของ Yun Jin",
+      "vi": "Sát thương đánh thường được buff từ <color=#FFD780FF>Phi Vân Kỳ Trận</color> sẽ tăng thêm dựa vào 2.5%/5%/7.5%/11.5% phòng ngự của Yun Jin khi trong đội có 1/2/3/4 loại nguyên tố."
+    },
+    "imgid": "p_642201"
+  },
+  {
+    "title": {
+      "zhs": "清食养性",
+      "zht": "清食養性",
+      "jp": "清食養性",
+      "ko": "담백한 식단",
+      "en": "Light Nourishment",
+      "de": "Leichte Nahrung",
+      "es": "Alimentación ligera",
+      "fr": "Nutrition optimisée",
+      "pt": "Alimentação Leve",
+      "ru": "Лёгкая пища",
+      "id": "Light Nourishment",
+      "th": "Light Nourishment",
+      "vi": "Thanh Thực Dưỡng Tính"
+    },
+    "description": {
+      "zhs": "完美烹饪冒险类食物时，有12%概率获得2倍产出。",
+      "zht": "完美烹飪冒險類食物時，有12%機率獲得兩倍產出。",
+      "jp": "冒険系料理を完璧調理した時、12%の確率で料理を2倍獲得する。",
+      "ko": "모험류 요리를 완벽 요리하면 12%의 확률로 생산량의 2배를 획득한다",
+      "en": "When Perfect Cooking is achieved on Food with Adventure-related effects, there is a 12% chance to obtain double the product.",
+      "de": "Stellt bei der perfekten Zubereitung eines Gerichts mit Abenteuer-Funktion mit einer Wahrscheinlichkeit von 12 % den 2-fachen Ertrag her.",
+      "es": "Al lograr un “Perfecto” en un plato con efectos de ayuda a la aventura, hay una probabilidad del 12% de obtener el doble.",
+      "fr": "12 % de chances d'obtenir un plat supplémentaire lorsque vous cuisinez un plat parfait qui a des effets sur l'exploration.",
+      "pt": "Ao fazer uma comida Perfeita relacionada a efeitos de Aventura, há 12% de chance de se obter o dobro de produção.",
+      "ru": "При приготовлении идеального блюда для приключений имеет 12% шанс приготовить дополнительное блюдо.",
+      "id": "Saat masakan jenis petualangan dimasak dengan sempurna, terdapat 12% kemungkinan mendapatkan hasil 2 kali lipat.",
+      "th": "เมื่อปรุงอาหารประเภทการผจญภัยได้ระดับสมบูรณ์ จะมีโอกาส 12% ที่จะได้รับผลผลิตเพิ่มเป็น 2 เท่า",
+      "vi": "Khi nấu ăn hoàn mỹ các món thuộc loại thám hiểm, có tỷ lệ 12% được x2 thành phẩm."
+    },
+    "imgid": "p_642301"
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "title": {
+      "zhs": "普通攻击·火漆制印",
+      "zht": "普通攻擊·火漆製印",
+      "jp": "通常攻撃·封蝋の印",
+      "ko": "일반 공격·봉랍 인장",
+      "en": "Normal Attack: Seal of Approval",
+      "de": "Standardangriff: Flammendes Siegel",
+      "es": "Ataque Normal: Sello ígneo",
+      "fr": "Attaque normale : Sceau embrasé",
+      "pt": "Ataque Normal: Selo Ardente",
+      "ru": "Печать одобрения",
+      "id": "Normal Attack: Seal of Approval",
+      "th": "โจมตีปกติ - Seal of Approval",
+      "vi": "Tấn Công Thường - Hỏa Ấn"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>普通攻击</color>\n连续发射火球，造成最多三段的<color=#FF9999FF>火元素伤害</color>。\n普通攻击命中敌人时，会赋予烟绯一枚丹火印。初始最多持有三枚丹火印，每次触发都会刷新已有的丹火印持续时间。\n每枚丹火印都会降低烟绯的体力消耗，并会在烟绯退场时消失。\n\n<color=#FFD780FF>重击</color>\n消耗体力，短暂咏唱后，消耗所有的丹火印，在前方造成<color=#FF9999FF>火元素范围伤害</color>。\n根据被消耗的丹火印数量，强化这次重击的范围与伤害。\n\n<color=#FFD780FF>下落攻击</color>\n凝聚火元素的力量，从空中下坠冲击地面，攻击下落路径上的敌人，并在落地时造成<color=#FF9999FF>火元素范围伤害</color>。",
+      "zht": "<color=#FFD780FF>普通攻擊</color>\n連續發射火球，造成最多三段的<color=#FF9999FF>火元素傷害</color>。\n普通攻擊命中敵人時，會賦予煙緋一枚丹火印。初始最多持有三枚丹火印，每次觸發都會重置已有的丹火印持續時間。\n每枚丹火印都會降低煙緋的體力消耗，並會在煙緋退場時消失。\n\n<color=#FFD780FF>重擊</color>\n消耗體力，短暫詠唱後，消耗所有的丹火印，在前方造成<color=#FF9999FF>火元素範圍傷害</color>。\n根據被消耗的丹火印數量，強化這次重擊的範圍與傷害。\n\n<color=#FFD780FF>下落攻擊</color>\n凝聚火元素的力量，從空中下墜衝擊地面，攻擊下落路徑上的敵人，並在落地時造成<color=#FF9999FF>火元素範圍傷害</color>。",
+      "jp": "<color=#FFD780FF>通常攻撃</color>\n連続で火炎弾を繰り出し、最大3段の<color=#FF9999FF>炎元素ダメージ</color>を与える。\n通常攻撃が敵に命中する度、煙緋に丹火の印を1枚付与する。初期状態では丹火の印を最大3枚所持できる、効果を発動する度に丹火の印の継続時間が更新される。\n丹火の印1枚ごとに煙緋のスタミナ消費を減少させる。丹火の印は煙緋が退場する時に消失する。\n\n<color=#FFD780FF>重撃</color>\nスタミナを消費し、短い詠唱の後、すべての丹火の印を消費して前方の敵に<color=#FF9999FF>炎元素範囲ダメージ</color>を与える。\n消費した丹火の印の数によって、重撃の範囲とダメージが強化される。\n\n<color=#FFD780FF>落下攻撃</color>\n空中から炎元素の力を凝集しながら落下し、地面に衝撃を与える。経路上の敵を攻撃し、落下時に<color=#FF9999FF>炎元素範囲ダメージ</color>を与える。",
+      "ko": "<color=#FFD780FF>일반 공격</color>\n연속으로 불덩이를 발사하여 최대 3단의 <color=#FF9999FF>불 원소 피해</color>를 준다.\n일반 공격으로 적을 명중하면 연비에게 단화인 1개가 부여된다. 단화인은 처음에 최대 3개까지 보유할 수 있으며, 효과가 발동될 때마다 기존의 단화인 지속 시간이 리셋된다.\n각각의 단화인은 연비의 스태미나 소모를 감소시키고, 연비가 퇴장할 때 사라진다.\n\n<color=#FFD780FF>강공격</color>\n스태미나를 소모해 짧은 영창 후, 모든 단화인을 소모해 전방에 <color=#FF9999FF>불 원소 범위 피해</color>를 준다.\n소모된 단화인의 개수에 따라 이번 강공격의 범위와 피해가 강화된다.\n\n<color=#FFD780FF>낙하 공격</color>\n불 원소의 힘을 모아 공중에서 땅을 내려찍어 경로상의 적을 공격하고 착지 시 <color=#FF9999FF>불 원소 범위 피해</color>를 준다",
+      "en": "<color=#FFD780FF>Normal Attack</color>\nShoots fireballs that deal up to three counts of <color=#FF9999FF>Pyro DMG</color>.\nWhen Yanfei's Normal Attacks hit enemies, they will grant her a single Scarlet Seal. Yanfei may possess a maximum of 3 Scarlet Seals, and each time this effect is triggered, the duration of currently possessed Scarlet Seals will refresh.\nEach Scarlet Seal will decrease Yanfei's Stamina consumption and will disappear when she leaves the field.\n\n<color=#FFD780FF>Charged Attack</color>\nConsumes Stamina and all Scarlet Seals before dealing <color=#FF9999FF>AoE Pyro DMG</color> to opponents after a short casting time.\nThis Charged Attack's AoE and DMG will increase according to the amount of Scarlet Seals consumed.\n\n<color=#FFD780FF>Plunging Attack</color>\nGathering the power of Pyro, Yanfei plunges towards the ground from mid-air, damaging all opponents in her path. Deals <color=#FF9999FF>AoE Pyro DMG</color> upon impact with the ground.",
+      "de": "<color=#FFD780FF>Standardangriff</color>\nSchießt mehrere Feuerbälle nacheinander ab und verursacht bis zu dreimal <color=#FF9999FF>Pyro-Schaden</color>.\nJeder Treffer gibt Yanfei ein flammendes Siegel. Kann anfänglich bis zu drei flammende Siegel besitzen. Bei jedem Auslösen wird die Dauer der vorhandenen flammenden Siegel aktualisiert.\nJedes flammende Siegel verringert Yanfeis Ausdauerverbrauch und verschwindet, wenn sie ausgewechselt wird.\n\n<color=#FFD780FF>Heftiger Schlag</color>\nVerbraucht Ausdauer sowie nach kurzem Aufladen alle flammenden Siegel und verursacht vor sich <color=#FF9999FF>Pyro-Flächenschaden</color>.\nVerstärkt basierend auf der Anzahl der verbrauchten flammenden Siegel die Reichweite und den Schaden des heftigen Schlags.\n\n<color=#FFD780FF>Angriff aus dem Fall</color>\nKonzentriert die Kraft des Feuers, schlägt beim Fallen aus der Luft auf den Boden, greift alle Gegner in der Bahn an und verursacht beim Aufkommen <color=#FF9999FF>Pyro-Flächenschaden</color>.",
+      "es": "<color=#FFD780FF>Ataque Normal</color>\nLanza bolas de fuego que infligen hasta tres golpes de <color=#FF9999FF>Daño Pyro</color>.\nAl golpear a un enemigo, Yanfei obtiene un sello escarlata. Inicialmente se puede tener un máximo de 3 sellos escarlatas y, cada vez que este efecto se active, la duración de los sellos que posea Yanfei en ese momento se reiniciará.\nCada sello reducirá el Coste de Aguante de Yanfei, pero desaparecerán cuando ella se retire del combate.\n\n<color=#FFD780FF>Ataque Cargado</color>\nGasta Aguante para, tras un corto tiempo de canalización, consumir todos los sellos escarlatas e infligir <color=#FF9999FF>Daño Pyro en el AdE</color> a todos los enemigos frente a Yanfei.\nEl AdE y el daño de este Ataque Cargado aumentará según la cantidad de sellos que se consuman.\n\n<color=#FFD780FF>Ataque Descendente</color>\nAl acumular poder Pyro, se lanza desde el aire para golpear el suelo, dañando a los enemigos cercanos e infligiendo <color=#FF9999FF>Daño Pyro en el AdE</color> en el momento del impacto.",
+      "fr": "<color=#FFD780FF>Attaque normale</color>\nTire des boules de feu qui infligent jusqu'à 3 vagues de <color=#FF9999FF>DGT Pyro</color>.\nLorsqu'une attaque normale touche un ennemi, Yanfei obtient un sceau écarlate. Yanfei peut détenir un maximum de 3 sceaux écarlates, et chaque fois que cet effet se déclenche, la durée des sceaux en sa possession est réinitialisée.\nChaque sceau écarlate diminue la consommation d'endurance de Yanfei, et disparaît lorsque Yanfei quitte le champ de bataille.\n\n<color=#FFD780FF>Attaque chargée</color>\nConsomme de l'endurance et tous les sceaux écarlates pour infliger des <color=#FF9999FF>DGT Pyro de zone</color> aux ennemis en face de Yanfei après un court délai.\nLa portée et l'intensité de ces DGT Pyro de zone augmentent avec le nombre de sceaux écarlates consommés.\n\n<color=#FFD780FF>Attaque plongeante</color>\nYanfei concentre son énergie Pyro et plonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis sur la route et des <color=#FF9999FF>DGT Pyro de zone</color> à l'impact.",
+      "pt": "<color=#FFD780FF>Ataque Normal</color>\nDispara bolas de fogo continuamente, causando no máximo três <color=#FF9999FF>Danos Pyro</color>.\nQuando o Ataque Normal atinge os inimigos, Yanfei obtém uma Insígnia de Chamas. Inicialmente, pode ter no máximo três Insígnias de Chamas. A cada vez que o efeito ocorre, a duração da Insígnia de Chamas atual será renovada.\nCada Insígnia de Chamas reduzirá o consumo de Stamina de Yanfei e desaparecerá quando Yanfei sair do combate.\n\n<color=#FFD780FF>Ataque Carregado</color>\nConsome Stamina e, depois de ativada por um curto tempo, consome todas as Insígnias de Chamas e causa <color=#FF9999FF>Dano Pyro na AdE</color> em sua frente.\nDe acordo com a quantidade de Insígnias de Chama consumidas, fortalece a Área e Dano do Ataque Carregado.\n\n<color=#FFD780FF>Ataque Imersivo</color>\nAcumula energia Pyro, mergulha em pleno ar para golpear o chão, atingindo os inimigos em seu caminho e infligindo <color=#FF9999FF>Dano Pyro na AdE</color> quando impacta no chão.",
+      "ru": "<color=#FFD780FF>Обычная атака:</color>\nЗапускает до трёх огненных шаров, которые наносят <color=#FF9999FF>Пиро урон</color>.\nКогда обычная атака попадает по врагу, Янь Фэй получает одну Багровую печать. Изначально может иметь максимум три печати. При каждой активации длительность уже имеющихся Багровых печатей обновляется.\nКаждая Багровая печать снижает потребление выносливости Янь Фэй. Печати исчезают при смене персонажа.\n\n<color=#FFD780FF>Заряженная атака:</color>\nПосле прочтения краткого заклинания тратит некоторое количество выносливости и все Багровые печати, нанося <color=#FF9999FF>Пиро урон по площади</color> перед собой.\nЧем больше потрачено Багровых печатей, тем больше урон и радиус заряженной атаки.\n\n<color=#FFD780FF>Атака в падении:</color>\nНакопив энергию огня, стремительно падает на землю, атакуя всех врагов на пути. Приземлившись, наносит <color=#FF9999FF>Пиро урон по площади</color>.",
+      "id": "<color=#FFD780FF>Normal Attack</color>\nMelancarkan hingga 3 serangan bola api yang mengakibatkan <color=#FF9999FF>Pyro DMG</color>.\nKetika Normal Attack Yanfei mengenai musuh, Yanfei akan mendapatkan 1 Scarlet Seal. Scarlet Seal maksimum yang bisa dikumpulkan Yanfei adalah 3 buah. Setiap kali efek ini terpicu, durasi dari Scarlet Seal yang telah terkumpul akan diperbarui.\nSetiap Scarlet Seal akan mengurangi konsumsi Stamina Yanfei dan akan menghilang jika Yanfei meninggalkan medan pertempuran.\n\n<color=#FFD780FF>Charged Attack</color>\nMengonsumsi Stamina dan semua Scarlet Seal untuk mengakibatkan <color=#FF9999FF>Pyro DMG area</color> setelah jeda singkat.\nArea dan DMG dari Charged Attack ini akan meluas dan meningkat sesuai dengan jumlah Scarlet Seal yang dikonsumsi.\n\n<color=#FFD780FF>Plunging Attack</color>\nMengumpulkan kekuatan Pyro dan menerjang tanah, mengakibatkan DMG pada musuh di jalur terjangan dan mengakibatkan <color=#FF9999FF>Pyro DMG area</color> saat mendarat.",
+      "th": "<color=#FFD780FF>โจมตีปกติ</color>\nปล่อยลูกบอลไฟติดต่อกันเพื่อสร้าง <color=#FF9999FF>ความเสียหายไฟ</color> สูงสุดสามขั้น\nเมื่อโจมตีปกติโดนศัตรู จะมอบ Scarlet Seal ให้แก่ Yanfei หนึ่งอัน ในตอนเริ่มต้นจะสะสม Scarlet Seal ได้มากสุดสามอัน โดยทุกครั้งที่ได้รับจะเป็นการรีเฟรชช่วงเวลาต่อเนื่องของ Scarlet Seal ที่มีอยู่\nScarlet Seal แต่ละอันจะลดการใช้พลังกายของ Yanfei ลง และจะหายไปเมื่อ Yanfei ออกจากการต่อสู้\n\n<color=#FFD780FF>ชาร์จโจมตี</color>\nหลังจากใช้พลังกายและร่ายเวทสั้น ๆ จะใช้ Scarlet Seal ทั้งหมด และสร้าง<color=#FF9999FF>ความเสียหายไฟวงกว้าง</color> ไปยังบริเวณด้านหน้า\nพื้นที่และความเสียหายของชาร์จโจมตีแต่ละครั้งจะขึ้นอยู่กับจำนวน Scarlet Seal ที่ถูกใช้ไป\n\n<color=#FFD780FF>การโจมตีพุ่งลงจากอากาศ</color>\nรวบรวมพลังของธาตุไฟ กระโจนจากกลางอากาศลงมายังพื้นดินเพื่อโจมตีศัตรูที่อยู่ในเส้นทางการโจมตี และจะสร้าง<color=#FF9999FF>ความเสียหายไฟวงกว้าง</color>เมื่อลงถึงพื้น",
+      "vi": "<color=#FFD780FF>Tấn Công Thường</color>\nBắn cầu lửa liên tục, gây tối đa 3 lần <color=#FF9999FF>Sát Thương Nguyên Tố Hỏa</color>.\nKhi đánh thường trúng địch sẽ tạo cho Yanfei 1 Đan Hỏa Ấn. Ban đầu tối đa chỉ được 3 Đan Hỏa Ấn, mỗi lần kích hoạt sẽ làm mới thời gian duy trì Đan Hỏa Ấn đã có.\nMỗi Đan Hỏa Ấn sẽ giảm thể lực tiêu hao cho Yanfei, đồng thời sẽ biến mất khi Yanfei rời trận.\n\n<color=#FFD780FF>Trọng Kích</color>\nTiêu hao thể lực, sau khi tụ lực, tiêu hao tất cả Đan Hỏa Ấn để gây <color=#FF9999FF>Sát Thương Nguyên Tố Hỏa</color> về phía trước.\nDựa vào số lượng Đan Hỏa Ấn tiêu hao để cường hóa phạm vi và sát thương của trọng kích lần này.\n\n<color=#FFD780FF>Tấn Công Khi Đáp</color>\nNgưng tụ sức mạnh Nguyên Tố Hỏa, xung kích từ trên không xuống đất, tấn công kẻ địch trên đường đi, gây <color=#FF9999FF>sát thương phạm vi Nguyên Tố Hỏa</color> khi chạm đất."
+    },
+    "imgid": "s_483101"
+  },
+  {
+    "title": {
+      "zhs": "丹书立约",
+      "zht": "丹書立約",
+      "jp": "丹書契約",
+      "ko": "단홍의 계약",
+      "en": "Signed Edict",
+      "de": "Pakt des Feuers",
+      "es": "Trato cerrado",
+      "fr": "Pacte des flammes",
+      "pt": "Édito Assinado",
+      "ru": "Подписанный указ",
+      "id": "Signed Edict",
+      "th": "Signed Edict",
+      "vi": "Sắc Lệnh Đã Ký"
+    },
+    "description": {
+      "zhs": "唤出烈焰，造成<color=#FF9999FF>火元素范围伤害</color>。\n命中敌人后，会为烟绯赋予最大数量的丹火印。\n\n<i>以火烧制的印除了法律效应之外，还带着烟绯自己的附加条款。毕竟自然法则只靠总务司是改不掉的。</i>",
+      "zht": "喚出烈焰，造成<color=#FF9999FF>火元素範圍傷害</color>。\n命中敵人後，會為煙緋賦予最大數量的丹火印。\n\n<i>以火燒製的印除了法律效應之外，還帶著煙緋自己的附加條款。畢竟自然法則只靠總務司是改不掉的。</i>",
+      "jp": "炎を召喚し、<color=#FF9999FF>炎元素範囲ダメージ</color>を与える。\n敵に命中すると、煙緋に最大数の丹火の印を付与する。\n\n<i>炎で焼かれた印は法的効力以外にも、煙緋自身が追加した条項も付け加えられている。何故なら、総務司に頼ってばかりでは自然法則はいつになっても変えられないからだ。</i>",
+      "ko": "화염을 소환해 <color=#FF9999FF>불 원소 범위 피해</color>를 준다.\n적을 명중하면 연비에게 최대 수량의 단화인이 부여된다.\n\n<i>불에 그을린 인장엔 법적 효력 외에 연비 자신만의 부가 조항도 덧붙여져 있다. 왜냐하면 자연의 법칙은 총무부의 힘만으론 바뀔 수 없기 때문이다</i>",
+      "en": "Summons blistering flames that deal <color=#FF9999FF>AoE Pyro DMG</color>.\nOpponents hit by the flames will grant Yanfei the maximum number of Scarlet Seals.\n\n<i>Apart from their legal uses, Yanfei's seals also come with her customized additional terms and conditions. Well, it's not as if the Ministry of Civil Affairs can change the laws of nature.</i>",
+      "de": "Beschwört lodernde Flammen und verursacht <color=#FF9999FF>Pyro-Flächenschaden</color>.\nBekommt beim Treffen von Gegnern die Höchstzahl an flammenden Siegeln.\n\n<i>Der Pakt des Feuers beinhaltet nicht nur die geltenden Gesetze, sondern auch die von Yanfei selbst formulierten Klauseln, denn der Rat für Allgemeine Angelegenheiten allein ist nicht in der Lage, die Naturgesetze zu ändern.</i>",
+      "es": "Invoca unas llamas ardientes que infligen <color=#FF9999FF>Daño Pyro en el AdE</color>.\nAl golpear con ellas a sus enemigos, Yanfei obtiene el máximo de sellos escarlatas.\n\n<i>Aparte de tener aplicaciones legales, los sellos de fuego de Yanfei también traen consigo sus propias cláusulas adicionales. Al fin y al cabo, el Ministerio de Asuntos Civiles no puede modificar las leyes naturales.</i>",
+      "fr": "Yanfei en appelle aux flammes dévastatrices, infligeant des <color=#FF9999FF>DGT Pyro de zone</color>.\nLorsque des ennemis sont touchés, Yanfei gagne le nombre maximum de sceaux écarlates.\n\n<i>En plus de leur valeur juridique, les sceaux de Yanfei présentent des conditions d'utilisation très personnalisées. Après tout, ce n'est pas comme si le Bureau des affaires civiles pouvait changer les lois de la nature.</i>",
+      "pt": "Invoca as chamas, criando <color=#FF9999FF>Dano Pyro na AdE</color>.\nDepois de atingir o inimigo, Yanfei obtém a quantidade máxima de Insígnias de Chamas.\n\n<i>Apesar de possuírem vínculo legal, as Insígnias de Chamas de Yanfei também têm suas próprias cláusulas adicionais. No final das contas, o Ministério dos Assuntos Civis não pode modificar as leis naturais sozinho.</i>",
+      "ru": "Призывает языки пламени, которые наносят <color=#FF9999FF>Пиро урон по площади</color>.\nПри попадании по врагу даёт Янь Фэй максимальное количество Багровых печатей.\n\n<i>Печать, нанесённая огнём, имеет не только юридическую силу, но и накладывает дополнительные условия от самой Янь Фэй. Ведь законы природы не изменить, опираясь лишь на авторитет Департамента по делам граждан.</i>",
+      "id": "Memanggil api yang mengakibatkan <color=#FF9999FF>Pyro DMG Area</color>.\nYanfei akan mendapatkan Scarlet Seal dalam jumlah maksimum saat Signed Edict mengenai musuh.\n\n<i>Selain dari penggunaan legalnya, segel Yanfei juga dilengkapi dengan syarat dan ketentuan tambahan yang disesuaikan. Bagaimanapun juga, Bagian Urusan Sipil tidak bisa mengubah hukum alam.</i>",
+      "th": "เรียกเปลวไฟอันร้อนแรงออกมา เพื่อสร้าง<color=#FF9999FF>ความเสียหายไฟวงกว้าง</color>\nหลังจากที่โดนศัตรู จะมอบ Scarlet Seal จำนวนสูงสุดให้แก่ Yanfei\n\n<i>นอกจากผลทางกฎหมายแล้ว ตราประทับที่ทำด้วยไฟยังมีมาตราเพิ่มเติมของ Yanfei อีกด้วย ท้ายที่สุดแล้วกฎแห่งธรรมชาติก็ไม่สามารถเปลี่ยนแปลงได้โดยฝ่ายกิจการทั่วไปเพียงอย่างเดียว</i>",
+      "vi": "Triệu hồi liệt hỏa, gây <color=#FF9999FF>Sát Thương Nguyên Tố Hỏa diện rộng</color>.\nKhi đánh trúng kẻ địch sẽ cung cấp số lượng Đan Hỏa Ấn tối đa cho Yanfei.\n\n<i>Ngoài hiệu lực pháp lý ra, ngọn lửa còn mang những điều khoản bổ sung riêng của Yanfei. Suy cho cùng thì quy luật tự nhiên sẽ không thể thay đổi bởi một mình tổng bộ.</i>"
+    },
+    "imgid": "s_483201"
+  },
+  {
+    "title": {
+      "zhs": "凭此结契",
+      "zht": "憑此結契",
+      "jp": "契約成立",
+      "ko": "계약 성립",
+      "en": "Done Deal",
+      "de": "Pakt des flammenden Infernos",
+      "es": "Contrato vinculante",
+      "fr": "Application des peines",
+      "pt": "Contrato Vinculativo",
+      "ru": "По рукам",
+      "id": "Done Deal",
+      "th": "Done Deal",
+      "vi": "Khế Ước Đã Định"
+    },
+    "description": {
+      "zhs": "引发喷薄爆发的烈火，冲击周围的敌人，造成<color=#FF9999FF>火元素范围伤害</color>，并为烟绯自己赋予最大数量的丹火印与灼灼效果。\n\n<color=#FFD780FF>灼灼</color>\n具有如下效果：\n·每间隔一段时间，为烟绯赋予一枚丹火印；\n·提高重击造成的伤害。\n灼灼效果会在烟绯退场与倒下时移除。\n\n<i>「条款齐备，依此立下生死之契。当然，是你死我生啦！」</i>",
+      "zht": "引發噴薄爆發的烈火，衝擊周圍的敵人，造成<color=#FF9999FF>火元素範圍傷害</color>，並為煙緋自己賦予最大數量的丹火印與灼灼效果。\n\n<color=#FFD780FF>灼灼</color>\n具有如下效果：\n·每間隔一段時間，為煙緋賦予一枚丹火印；\n·提高重擊造成的傷害。\n灼灼效果會在煙緋退場與倒下時移除。\n\n<i>「條款齊備，依此立下生死之契。當然，是你死我生啦！」</i>",
+      "jp": "烈焔を引き起こし、周囲の敵を襲う。<color=#FF9999FF>炎元素範囲ダメージ</color>を与え、煙緋に最大数の丹火の印と灼灼効果を付与する。\n\n<color=#FFD780FF>灼灼</color>\n下記の効果を発動する。\n·一定間隔で、煙緋に丹火の印を付与する。\n·重撃ダメージをアップする。\n灼灼効果は煙緋が退場または戦闘不能になった時に消失する。\n\n<i>「条項は揃った、それに応じて生死の契約を交わす。当然、死ぬのはお前で生き残るのは私だ！」</i>",
+      "ko": "사나운 불길을 폭발 시켜 주변의 적에게 충격을 가해 <color=#FF9999FF>불 원소 범위 피해</color>를 주고, 연비에게 최대 수량의 단화인과 이글이글 효과를 부여한다.\n\n<color=#FFD780FF>이글이글</color>\n이글이글 효과:\n·일정 시간마다 연비에게 단화인 1개를 부여한다.\n·강공격으로 가하는 피해가 증가한다.\n이글이글 효과는 연비가 퇴장하거나 전투 불능 상태가 되었을 때 사라진다.\n\n<i>「생사의 계약에 필요한 조항은 모두 갖춰졌어. 물론 죽는 건 너고 사는 건 나야!」</i>",
+      "en": "Triggers a spray of intense flames that rush at nearby opponents, dealing <color=#FF9999FF>AoE Pyro DMG</color>, granting Yanfei the maximum number of Scarlet Seals, and applying Brilliance to her.\n\n<color=#FFD780FF>Brilliance</color>\nHas the following effects:\n·Grants Yanfei a Scarlet Seal at fixed intervals.\n·Increases the DMG dealt by her Charged Attacks.\nThe effects of Brilliance will end if Yanfei leaves the field or falls in battle.\n\n<i>\"Here are the full terms for this matter of life and death — by which I mean my life and your death!\"</i>",
+      "de": "Beschwört Flammen des Infernos, greift Gegner in der Umgebung an und verursacht <color=#FF9999FF>Pyro-Flächenschaden</color>. Gibt dabei Yanfei die Höchstzahl an flammenden Siegeln und den Effekt Sengende Hitze.\n\n<color=#FFD780FF>Sengende Hitze</color>\nLöst folgende Effekte aus:\n· Gibt Yanfei in gleichen zeitlichen Abständen je ein flammendes Siegel.\n· Erhöht den Schaden heftiger Schläge.\nEndet, wenn Yanfei ausgewechselt wird.\n\n<i>„Der Pakt zwischen uns von Leben und Tod ist nun vollständig. Demgemäß wirst du sterben und ich werde weiterleben.“</i>",
+      "es": "Conjura unas explosivas e intensas llamas que lanza contra los enemigos cercanos, infligiendo <color=#FF9999FF>Daño Pyro en el AdE</color> y otorgando a Yanfei el máximo de sellos escarlatas, así como el efecto de resplandor.\n\n<color=#FFD780FF>Resplandor</color>\nTiene los siguientes efectos:\n·Otorga a Yanfei un sello escarlata cada cierto intervalo de tiempo.\n·Aumenta el daño infligido con Ataque Cargado.\nResplandor se disipará cuando Yanfei se retire del combate o sea derrotada.\n\n<i>“Las cláusulas ya están redactadas. Así pues, por la presente, establezco este contrato de vida o muerte. ¡Yo vivo y tú mueres!”</i>",
+      "fr": "Invoque une explosion de flammes intenses qui jaillit vers les ennemis proches, infligeant des <color=#FF9999FF>DGT Pyro de zone</color> et conférant à Yanfei le nombre maximum de sceaux écarlates, tout en appliquant l'effet Brillance.\n\n<color=#FFD780FF>Brillance</color>\nConfère les effets suivants :\n· Confère à Yanfei un sceau écarlate à intervalles réguliers.\n· Augmente les DGT infligés par ses attaques chargées.\nLes effets de Brillance se dissipent lorsque Yanfei quitte le champ de bataille ou qu'elle est vaincue.\n\n<i>« Veuillez trouver ici les termes de cette question de vie ou de mort, et par là j'entends ma vie et votre mort ! »</i>",
+      "pt": "Causa o lançamento de uma chama explosiva, atacando os inimigos ao redor e criando <color=#FF9999FF>Dano Pyro na AdE</color> e Yanfei obtém a quantidade máxima de Insígnias de Chamas e Efeito de Clarão.\n\n<color=#FFD780FF>Clarão</color>\nPossui os seguintes efeitos:\nYanfei obtém uma Insígnia de Chamas em cada intervalo de tempo;\n·Aumenta o Dano causado pelo Ataque Carregado.\nO efeito de Clarão será eliminado quando Yanfei sair do combate ou for derrotada em batalha.\n\n<i>\"As cláusulas já estão escritas. Assim, por esse meio, estabeleço esse contrato de vida ou morte. É claro, eu vivo e você morre!\"</i>",
+      "ru": "Вызывает яростный поток огня, который бьёт окружающих врагов, нанося <color=#FF9999FF>Пиро урон по площади</color>. Также даёт Янь Фэй максимальное количество Багровых печатей и эффект Блеска.\n<color=#FFD780FF>Блеск</color>\nИмеет следующие эффекты:\n· Периодически даёт Янь Фэй одну Багровую печать.\n· Увеличивает урон заряженной атаки.\nЭффект Блеска пропадает, если Янь Фэй покидает поле боя или погибает.\n\n<i>«Условия ясны, договор о жизни и смерти заключён. Ты умрёшь - я буду жить!»</i>",
+      "id": "Memicu semburan api dahsyat yang menyerbu musuh di sekitar dan mengakibatkan <color=#FF9999FF>Pyro DMG Area</color>, serta memberikan Scarlet Seal dalam jumlah maksimum dan efek Brilliance pada Yanfei.\n\n<color=#FFD780FF>Brilliance</color>\nMemiliki efek berikut:\n·Memberikan Scarlet Seal pada Yanfei setiap beberapa saat.\n·Meningkatkan DMG yang diakibatkan oleh Charged Attack.\n·Efek Brilliance akan berakhir saat Yanfei meninggalkan medan pertempuran atau gugur.\n\n<i>\"Inilah daftar istilah lengkap untuk urusan hidup dan mati — maksudku adalah hidupku dan kematianmu!\"</i>",
+      "th": "ทำให้เกิดการปะทุของเปลวไฟ พุ่งออกมาใส่ศัตรูที่อยู่รอบ ๆ เพื่อสร้าง<color=#FF9999FF>ความเสียหายไฟวงกว้าง</color> และมอบ Scarlet Seal จำนวนสูงสุดกับเอฟเฟกต์ Brilliance ให้แก่ Yanfei เอง\n\n<color=#FFD780FF>Brilliance</color>\nมีเอฟเฟกต์ดังต่อไปนี้:\n·มอบ Scarlet Seal หนึ่งอันให้แก่ Yanfei เป็นระยะ ๆ ;\n·เพิ่มความเสียหายของชาร์จโจมตี\nเอฟเฟกต์ Brilliance จะหายไปเมื่อ Yanfei ออกจากการต่อสู้หรือหมดสติ\n\n<i>\"ตัวบทที่สมบูรณ์ ทำให้เกิดเป็นข้อตกลงแห่งความเป็นและความตาย แน่นอนว่าไม่ใช่ฉันหรอกนะที่จะเป็นฝ่ายตาย!\"</i>",
+      "vi": "Kích hoạt liệt hỏa xung kích kẻ địch xung quanh, gây <color=#FF9999FF>Sát Thương Nguyên Tố Hỏa diện rộng</color>, cung cấp số lượng Đan Hỏa Ấn tối đa và hiệu ứng Bỏng Cháy cho Yanfei.\n\n<color=#FFD780FF>Bỏng Cháy</color>\nHiệu quả:\n·Mỗi cách một khoảng thời gian sẽ cung cấp 1 Đan Hỏa Ấn cho Yanfei;\n·Tăng sát thương trọng kích tạo thành.\nHiệu ứng Bỏng Cháy sẽ mất khi Yanfei rời trận hoặc ngã xuống.\n\n<i>\"Điều khoản đã đủ, lập khế ước sinh tử nào. Đương nhiên, ta sống ngươi chết!\"</i>"
+    },
+    "imgid": "s_483901"
+  },
+  {
+    "title": {
+      "zhs": "关联条款",
+      "zht": "相關條款",
+      "jp": "関連条約",
+      "ko": "관련 조항",
+      "en": "Proviso",
+      "de": "Koppelungsklausel",
+      "es": "Términos asociados",
+      "fr": "Dispositions supplémentaires",
+      "pt": "Clausulas Relacionais",
+      "ru": "Оговорка",
+      "id": "Proviso",
+      "th": "Proviso",
+      "vi": "Điều Khoản Liên Quan"
+    },
+    "description": {
+      "zhs": "烟绯通过重击消耗丹火印时，每枚丹火印会提升烟绯5%的<color=#FF9999FF>火元素伤害加成</color>，持续6秒。在该效果的持续时间内再次施放重击时，会先移除原有的效果。",
+      "zht": "煙緋以重擊消耗丹火印時，每枚丹火印會提升煙緋5%的<color=#FF9999FF>火元素傷害加成</color>，持續6秒。在該效果的持續時間內再次施放重擊時，會先移除原有的效果。",
+      "jp": "煙緋が重撃で丹火の印を消費した時、丹火の印1枚につき<color=#FF9999FF>炎元素ダメージ</color>+5%、継続時間6秒。効果持続中に再び重撃を放つと、既存の効果が先にクリアされる。",
+      "ko": "연비가 강공격으로 단화인을 소모할 때 단화인 1개당 연비의 <color=#FF9999FF>불 원소 피해 보너스</color>를 5% 증가시킨다. 지속 시간: 6초. 해당 효과의 지속 시간 내에 다시 강공격을 발동하면 기존의 효과는 사라진다",
+      "en": "When Yanfei consumes Scarlet Seals by using a Charged Attack, each Scarlet Seal will increase Yanfei's <color=#FF9999FF>Pyro DMG Bonus</color> by 5%. This effects lasts for 6s. When a Charged Attack is used again during the effect's duration, it will dispel the previous effect.",
+      "de": "Erhöht mit jedem verbrauchten flammenden Siegel durch heftige Schläge den <color=#FF9999FF>Pyro-Schadensbonus</color> 6 s lang um 5 %. Falls die Figur innerhalb der Wirkungsdauer des Effekts nochmals heftige Schläge anwendet, wird der vorige Effekt zuerst entfernt.",
+      "es": "Cuando Yanfei consume sellos escarlatas mediante un Ataque Cargado, su <color=#FF9999FF>Bono de Daño Pyro</color> aumenta en un 5% durante 6 s por cada sello consumido. Si mientras dura este efecto vuelve a realizarse un Ataque Cargado, el efecto anterior se eliminará.",
+      "fr": "Lorsque Yanfei consomme un sceau écarlate en utilisant une attaque chargée, chaque sceau écarlate augmente le <color=#FF9999FF>bonus de DGT Pyro</color> de Yanfei de 5 % pour 6 s. Utiliser une attaque chargée avant la fin de la durée d'un effet dissipe l'effet précédent.",
+      "pt": "Quando o Ataque Carregado de Yanfei consumir uma Insígnia de Chama, cada Insígnia de Chama irá aumentar o <color=#FF9999FF>Bônus de Dano Pyro</color> de Yanfei em 5% por 6s. Ao lançar novamente o Ataque Carregado durante o período deste efeito, o efeito anterior será dissipado.",
+      "ru": "Когда заряженная атака Янь Фэй потребляет Багровые печати, каждая потраченная печать увеличивает <color=#FF9999FF>бонус Пиро урона</color> на 5%, эффект длится 6 сек. Если во время действия эффекта снова используется заряженная атака, то она снимает предыдущий эффект.",
+      "id": "Saat Yanfei mengonsumsi Scarlet Seal dengan menggunakan Charged Attack, setiap Scarlet Seal akan meningkatkan 5% <color=#FF9999FF>Bonus Pyro DMG</color> Yanfei selama 6 detik. Jika Yanfei menggunakan Charged Attack sekali lagi selama durasi masih berlangsung, maka efek sebelumnya akan hilang.",
+      "th": "เมื่อ Yanfei ใช้ Scarlet Seal เพื่อทำการชาร์จโจมตี ทุกการใช้ Scarlet Seal หนึ่งอัน จะเพิ่ม<color=#FF9999FF>โบนัสความเสียหายไฟ</color>ให้กับ Yanfei 5% เป็นเวลา 6 วินาที เมื่อใช้ชาร์จโจมตีอีกครั้งภายในช่วงเวลาต่อเนื่องของเอฟเฟกต์ดังกล่าว เอฟเฟกต์เดิมที่มีอยู่จะถูกล้างออกก่อน",
+      "vi": "Khi Yanfei tiêu hao Đan Hỏa Ấn thông qua trọng kích, mỗi Đan Hỏa Ấn sẽ tăng 5% buff <color=#FF9999FF>sát thương Nguyên Tố Hỏa</color> của Yanfei, kéo dài 6s. Nếu thi triển lại trọng kích trong thời gian duy trì hiệu ứng này, sẽ hủy hiệu ứng ban đầu trước."
+    },
+    "imgid": "p_482101"
+  },
+  {
+    "title": {
+      "zhs": "法兽灼眼",
+      "zht": "法獸灼眼",
+      "jp": "法獣の灼眼",
+      "ko": "법수의 눈",
+      "en": "Blazing Eye",
+      "de": "Wachsame Argusaugen",
+      "es": "Ojos justicieros",
+      "fr": "Œil de la justice",
+      "pt": "Olho de Xiezhi",
+      "ru": "Пламенный взгляд",
+      "id": "Blazing Eye",
+      "th": "Blazing Eye",
+      "vi": "Pháp Thú Chước Nhãn"
+    },
+    "description": {
+      "zhs": "烟绯主动施放的重击对敌人造成暴击时，会额外造成一次80%攻击力的<color=#FF9999FF>火元素范围伤害</color>。该伤害视为重击伤害。",
+      "zht": "煙緋主動施放的重擊對敵人造成暴擊時，會額外造成一次80%攻擊力的<color=#FF9999FF>火元素範圍傷害</color>。該傷害視為重擊傷害。",
+      "jp": "煙緋が自ら発動した重撃が敵に対して会心した時、追加で自身の攻撃力80%分の<color=#FF9999FF>炎元素範囲ダメージ</color>を与える。このダメージは重撃ダメージとみなされる。",
+      "ko": "연비가 발동한 강공격이 적에게 치명타를 입힐 시, 추가로 공격력의 80%에 해당하는 <color=#FF9999FF>불 원소 범위 피해</color>를 준다. 해당 피해는 강공격 피해로 간주한다",
+      "en": "When Yanfei's Charged Attack deals a CRIT Hit to opponents, she will deal an additional instance of <color=#FF9999FF>AoE Pyro DMG</color> equal to 80% of her ATK. This DMG counts as Charged Attack DMG.",
+      "de": "Verursacht einmal zusätzlichen <color=#FF9999FF>Pyro-Flächenschaden</color> in Höhe von 80 % ANG, wenn Yanfeis heftige Schläge KT bei Gegnern verursachen. Der Flächenschaden wird als Schaden von heftigen Schlägen betrachtet.",
+      "es": "Cuando Yanfei asesta un golpe crítico contra un enemigo con su Ataque Cargado, inflige adicionalmente <color=#FF9999FF>Daño Pyro en el AdE</color> equivalente al 80% de su ATQ. Este daño se considera daño de Ataque Cargado.",
+      "fr": "Quand les attaques chargées de Yanfei infligent des coups CRIT aux ennemis, elle inflige des <color=#FF9999FF>DGT Pyro de zone</color> supplémentaires équivalant à 80 % de son ATQ. Ces DGT comptent comme des DGT d'attaque chargée.",
+      "pt": "Quando o Ataque Carregado de Yanfei causa um Dano CRIT, ela causará um <color=#FF9999FF>Dano Pyro AdE</color> correspondente a 80% do seu Ataque. Este Dano é considerado como Dano de um Ataque Carregado.",
+      "ru": "При критическом попадании заряженной атаки по противнику Янь Фэй дополнительно наносит <color=#FF9999FF>Пиро урон по площади</color>, равный 80% силы атаки. Урон считается уроном заряженной атаки.",
+      "id": "Saat Charged Attack Yanfei mengakibatkan CRIT pada musuh, Yanfei akan mengakibatkan <color=#FF9999FF>Pyro DMG Area</color> tambahan sebesar 80% ATK Yanfei. DMG ini terhitung sebagai DMG Charged Attack.",
+      "th": "เมื่อชาร์จโจมตีที่ปล่อยโดย Yanfei เกิดคริติคอลแก่ศัตรู จะสร้าง<color=#FF9999FF>ความเสียหายไฟวงกว้าง</color>ที่มีความรุนแรงเท่ากับ 80% ของพลังโจมตีเพิ่มเติมหนึ่งครั้ง ซึ่งความเสียหายนี้นับเป็นความเสียหายชาร์จโจมตี",
+      "vi": "Khi Yanfei chủ động thi triển Trọng Kích gây ra bạo kích sẽ gây thêm 1 lần <color=#FF9999FF>sát thương phạm vi Nguyên Tố Hỏa</color> bằng 80% tấn công. Sát thương này xem như sát thương Trọng Kích."
+    },
+    "imgid": "p_482201"
+  },
+  {
+    "title": {
+      "zhs": "博闻强记",
+      "zht": "博聞強記",
+      "jp": "法律百科",
+      "ko": "박문강기",
+      "en": "Encyclopedic Expertise",
+      "de": "Gelehrsamkeit",
+      "es": "Conocimiento enciclopédico",
+      "fr": "Connaissance du terrain",
+      "pt": "Conhecimento Enciclopédico",
+      "ru": "Энциклопедические знания",
+      "id": "Encyclopedic Expertise",
+      "th": "Encyclopedic Expertise",
+      "vi": "Thông Minh Uyên Bác"
+    },
+    "description": {
+      "zhs": "在小地图上显示周围的<color=#FFD780FF>璃月区域特产</color>的位置。",
+      "zht": "在小地圖上顯示周圍的<color=#FFD780FF>璃月區域特產</color>的位置。",
+      "jp": "ミニマップで周囲の<color=#FFD780FF>璃月地域の特産</color>の位置を表示する。",
+      "ko": "미니맵에 주위의 <color=#FFD780FF>리월 지역 특산물</color> 위치가 나타난다",
+      "en": "Displays the location of nearby <color=#FFD780FF>resources unique to Liyue</color> on the mini-map.",
+      "de": "Zeigt alle <color=#FFD780FF>Besonderheiten Liyues</color> in der Nähe auf der Minikarte an.",
+      "es": "Muestra la ubicación de los <color=#FFD780FF>objetos típicos de Liyue</color> cercanos en el minimapa.",
+      "fr": "Affiche l'emplacement des <color=#FFD780FF>produits de Liyue</color> sur la mini-carte.",
+      "pt": "Mostra a localização de <color=#FFD780FF>Especialidades de Liyue</color> próximos no mapa.",
+      "ru": "Отмечает <color=#FFD780FF>диковины Ли Юэ</color> на мини-карте.",
+      "id": "Memperlihatkan lokasi <color=#FFD780FF>produk khas Liyue</color> di sekitar pada mini-map.",
+      "th": "แสดงตำแหน่งของ<color=#FFD780FF>ของพิเศษเฉพาะใน Liyue</color> ในมินิแมป",
+      "vi": "Hiển thị vị trí <color=#FFD780FF>đặc sản xung quanh khu vực Liyue</color> trên bản đồ nhỏ."
+    },
+    "imgid": "p_482301"
+  }
+]

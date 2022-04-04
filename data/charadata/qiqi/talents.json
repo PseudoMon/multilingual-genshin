@@ -1,0 +1,200 @@
+[
+  {
+    "title": {
+      "zhs": "普通攻击·云来古剑法",
+      "zht": "普通攻擊·雲來古劍法",
+      "jp": "通常攻撃·雲来古剣法",
+      "ko": "일반 공격·운래의 고대 검법",
+      "en": "Normal Attack: Ancient Sword Art",
+      "de": "Standardangriff: Alte Schwertkunst aus den Wolken",
+      "es": "Ataque Normal: Técnica de espada antigua",
+      "fr": "Attaque normale : Escrime ancienne des nuages",
+      "pt": "Ataque Normal: Arte da Espada Antiga",
+      "ru": "Облачный меч",
+      "id": "Normal Attack: Ancient Sword Art",
+      "th": "โจมตีปกติ - Ancient Sword Art",
+      "vi": "Tấn Công Thường - Vân Lai Cổ Kiếm Pháp"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>普通攻击</color>\n进行至多五段的连续剑击。\n\n<color=#FFD780FF>重击</color>\n消耗一定体力，瞬间向前方挥出两剑。\n\n<color=#FFD780FF>下落攻击</color>\n从空中下坠冲击地面，攻击下落路径上的敌人，并在落地时造成范围伤害。",
+      "zht": "<color=#FFD780FF>普通攻擊</color>\n進行至多五段的連續劍擊。\n\n<color=#FFD780FF>重擊</color>\n消耗一定體力，瞬間向前方揮出兩劍。\n\n<color=#FFD780FF>下落攻擊</color>\n從空中下墜衝擊地面，攻擊下落路徑上的敵人，並在落地時造成範圍傷害。",
+      "jp": "<color=#FFD780FF>通常攻撃</color>\n剣による最大5段の連続攻撃を行う。\n\n<color=#FFD780FF>重撃</color>\n一定のスタミナを消費し、前方に斬撃を2回放つ。\n\n<color=#FFD780FF>落下攻撃</color>\n空中から落下し地面に衝撃を与える。経路上の敵を攻撃し、落下時に範囲ダメージを与える。",
+      "ko": "<color=#FFD780FF>일반 공격</color>\n검으로 최대 5번 공격한다.\n\n<color=#FFD780FF>강공격</color>\n일정 스태미나를 소모해 순간적으로 전방을 향해 검을 2번 휘두른다.\n\n<color=#FFD780FF>낙하 공격</color>\n공중에서 땅을 내려찍어 경로상의 적을 공격하고, 착지 시 범위 피해를 준다",
+      "en": "<color=#FFD780FF>Normal Attack</color>\nPerform up to 5 rapid strikes.\n\n<color=#FFD780FF>Charged Attack</color>\nConsumes a certain amount of Stamina to unleash 2 rapid sword strikes.\n\n<color=#FFD780FF>Plunging Attack</color>\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+      "de": "<color=#FFD780FF>Standardangriff</color>\nFührt bis zu 5 Schwerthiebe hintereinander aus.\n\n<color=#FFD780FF>Heftiger Schlag</color>\nVerbraucht eine gewisse Menge Ausdauer und schwingt das Schwert zweimal schnell nach vorn.\n\n<color=#FFD780FF>Angriff aus dem Fall</color>\nSchlägt beim Fallen aus der Luft auf den Boden, greift alle Gegner in der Bahn an und verursacht beim Aufkommen Flächenschaden.",
+      "es": "<color=#FFD780FF>Ataque Normal</color>\nRealiza hasta 5 ataques rápidos.\n\n<color=#FFD780FF>Ataque Cargado</color>\nConsume una cierta cantidad de Aguante para lanzar un golpe de espada cruzado.\n\n<color=#FFD780FF>Ataque Descendente</color>\nSe lanza desde el aire para golpear el suelo, dañando a los enemigos cercanos e infligiendo Daño en el AdE en el momento del impacto.",
+      "fr": "<color=#FFD780FF>Attaque normale</color>\nEnchaîne jusqu'à 5 coups d'épée.\n\n<color=#FFD780FF>Attaque chargée</color>\nConsomme de l'endurance pour déclencher deux coups d'épée rapides.\n\n<color=#FFD780FF>Attaque plongeante</color>\nPlonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis en chemin et des DGT de zone à l'impact.",
+      "pt": "<color=#FFD780FF>Ataque Normal</color>\nRealiza até 5 golpes rápidos.\n\n<color=#FFD780FF>Ataque Carregado</color>\nConsome uma certa quantidade de Stamina para desferir 2 golpes rápidos com a espada.\n\n<color=#FFD780FF>Ataque Imersivo</color>\nMergulha em pleno ar para golpear o chão, causando dano aos inimigos ao longo do caminho e infligindo Dano em uma AdE durante o impacto.",
+      "ru": "<color=#FFD780FF>Обычная атака:</color>\nДо пяти быстрых ударов мечом.\n\n<color=#FFD780FF>Заряженная атака:</color>\nДва быстрых взмаха мечом, для которых тратится определённое количество выносливости.\n\n<color=#FFD780FF>Атака в падении:</color>\nСтремительно падает на землю, атакуя всех врагов на пути. Приземлившись, наносит урон по площади.",
+      "id": "<color=#FFD780FF>Normal Attack</color>\nMelancarkan hingga 5 serangan berturut-turut.\n\n<color=#FFD780FF>Charged Attack</color>\nMengonsumsi sejumlah Stamina untuk melancarkan dua tebasan pedang.\n\n<color=#FFD780FF>Plunging Attack</color>\nMenerjang dari udara untuk menghantam tanah, mengakibatkan DMG pada musuh di jalur terjangan dan mengakibatkan DMG area saat mendarat.",
+      "th": "<color=#FFD780FF>โจมตีปกติ</color>\nโจมตีด้วยดาบต่อเนื่องมากสุดห้าครั้ง\n\n<color=#FFD780FF>ชาร์จโจมตี</color>\nใช้พลังกายส่วนหนึ่งเพื่อปลดปล่อยดาบ ออกไปข้างหน้าสองเล่มในช่วงเวลาสั้น ๆ\n\n<color=#FFD780FF>โจมตีพุ่งลงจากอากาศ</color>\nกระโจนจากกลางอากาศลงมายังพื้นดิน เพื่อโจมตีศัตรูที่อยู่ในเส้นทางการโจมตี โดยจะสร้างความเสียหายวงกว้างเมื่อลงถึงพื้น",
+      "vi": "<color=#FFD780FF>Tấn Công Thường</color>\nThực hiện tối đa 5 lần đánh kiếm liên tiếp.\n\n<color=#FFD780FF>Trọng Kích</color>\nTiêu hao thể lực nhất định, đánh ra hai kiếm về phía trước trong chớp mắt.\n\n<color=#FFD780FF>Tấn Công Khi Đáp</color>\nĐáp xuống đất từ trên không, tấn công kẻ địch trên đường và gây sát thương phạm vi khi chạm đất."
+    },
+    "imgid": "s_353101"
+  },
+  {
+    "title": {
+      "zhs": "仙法·寒病鬼差",
+      "zht": "仙法·寒病鬼差",
+      "jp": "仙法·寒病鬼差",
+      "ko": "선법·한병의 귀차",
+      "en": "Adeptus Art: Herald of Frost",
+      "de": "Adeptenkunst: Frostbringer",
+      "es": "Magia Adeptus: Heraldo de la escarcha",
+      "fr": "Arcane d'Adepte : Héraut de givre",
+      "pt": "Arte do Adeptus: Arauto da Floresta",
+      "ru": "Искусство Адепта: Вестник стужи",
+      "id": "Adeptus Art: Herald of Frost",
+      "th": "Adeptus Art: Herald of Frost",
+      "vi": "Tiên pháp - Hàn Bệnh Quỷ Sai"
+    },
+    "description": {
+      "zhs": "冰血化符，召唤寒病鬼差，并对周围的敌人造成<color=#99FFFFFF>冰元素伤害</color>。\n\n<color=#FFD780FF>寒病鬼差</color>\n·七七的普通攻击与重击命中时，为队伍中自己的角色，以及附近的友方角色恢复生命值，回复量受益于七七的攻击力；\n·每隔一段时间，为当前场上自己的角色恢复生命值；\n·跟随角色行动，对路径上的敌人造成<color=#99FFFFFF>冰元素伤害</color>。\n\n<i>「这家伙主要是用来防止升温腐烂的…嗯，我说的是白先生那些精贵药材。」</i>",
+      "zht": "冰血化符，召喚寒病鬼差，並對周圍的敵人造成<color=#99FFFFFF>冰元素傷害</color>。\n\n<color=#FFD780FF>寒病鬼差</color>\n·七七的普通攻擊與重擊命中時，為隊伍中自己的角色，以及附近的友方角色恢復生命值，回復量受益於七七的攻擊力；\n·每隔一段時間，為當前場上自己的角色恢復生命值；\n·跟隨角色行動，對路徑上的敵人造成<color=#99FFFFFF>冰元素傷害</color>。\n\n<i>「這傢伙主要是用來防止升溫腐爛的…嗯，我說的是白先生那些精貴藥材。」</i>",
+      "jp": "氷血がお札となり、寒病鬼差を召喚し、周囲の敵に<color=#99FFFFFF>氷元素ダメージ</color>を与える。\n\n<color=#FFD780FF>寒病鬼差</color>\n·七七の通常攻撃と重撃が命中した時、チーム内の自身のキャラクター全員または付近の味方のHPを回復する。回復量は七七の攻撃力によって決まる。\n·一定時間の間隔で、出場している自身のキャラクターのHPを回復する。\n·キャラクターと共に行動し、経路上の敵に<color=#99FFFFFF>氷元素ダメージ</color>を与える。\n\n<i>「こいつらは温度の上昇による腐敗を防止するためだよ…うん、白先生のあの高い薬剤のことを言ってるのだ。」</i>",
+      "ko": "얼음과 피로 만들어진 부적으로 한병의 귀차를 소환해 주변의 적에게 <color=#99FFFFFF>얼음 원소 피해</color>를 준다.\n\n<color=#FFD780FF>한병의 귀차</color>\n·치치의 일반 공격과 강공격이 명중 시 자신의 파티 내 모든 캐릭터 및 근처 아군 캐릭터의 HP를 회복한다. 회복량은 치치의 공격력의 영향을 받는다.\n·일정 시간이 지날 때마다 현재 필드 위에 있는 자신의 캐릭터의 HP를 회복한다.\n·캐릭터를 따라다니며 경로상의 적에게 <color=#99FFFFFF>얼음 원소 피해</color>를 준다.\n\n<i>「얘는 주로 온도가 올라서 부패하는 걸 방지해줘요…. 음, 그러니까 백 선생님의 진귀한 약재들 말이에요」</i>",
+      "en": "Using the Icevein Talisman, Qiqi brings forth the Herald of Frost, dealing <color=#99FFFFFF>Cryo DMG</color> to surrounding opponents.\n\n<color=#FFD780FF>Herald of Frost</color>\n·On hit, Qiqi's Normal and Charged Attacks regenerate HP for your own party members and nearby teammates. Healing scales based on Qiqi's ATK.\n·Periodically regenerates your active character's HP.\n·Follows the character around, dealing <color=#99FFFFFF>Cryo DMG</color> to opponents in their path.\n\n<i>I use this to prevent warming and rot... of Dr. Bai's precious ingredients. Yes.</i>",
+      "de": "Beschwört den Frostbringer mithilfe des Frostader-Talismans und fügt den Gegnern in der Umgebung <color=#99FFFFFF>Kryo-Schaden</color> zu.\n\n<color=#FFD780FF>Frostbringer</color>\n· Qiqi stellt bei Treffern mit Standardangriffen und heftigen Schlägen allen eigenen Truppenmitgliedern und befreundeten Einheiten in der Nähe LP basierend auf Qiqis ANG wieder her.\n· Stellt der aktuellen eigenen Figur in regelmäßigen Abständen LP wieder her.\n· Fügt den Gegnern in der Bahn gemäß den Bewegungen der Figur <color=#99FFFFFF>Kryo-Schaden</color> zu.\n\n<i>„Mein Freund hier dient größtenteils der Frischhaltung ... also für die kostbaren Wirkstoffe von Dr. Baizhu.“</i>",
+      "es": "Usando su talismán de sangre helada, Qiqi invoca al Heraldo de la escarcha, infligiendo <color=#99FFFFFF>Daño Cryo</color> a todos los enemigos cercanos.\n\n<color=#FFD780FF>Heraldo de la escarcha</color>\n·Cuando Qiqi golpea a un objetivo con sus Ataques Normales o Cargados, regenera Vida para todos los miembros de tu equipo y todos los personajes aliados cercanos. La cantidad de Vida regenerada es proporcional al ATQ de Qiqi.\n·Regenera una cierta cantidad de Vida del personaje en uso a intervalos regulares.\n·Sigue al personaje en uso para infligir <color=#99FFFFFF>Daño Cryo</color> a todos los enemigos que se encuentre a su paso.\n\n<i>“Utilizo esto para evitar el aumento de la temperatura y la podredumbre de... las valiosas hierbas medicinales del Dr. Baizhu”</i>.",
+      "fr": "Utilise un talisman infusé de glace et de sang pour invoquer un Héraut de givre, infligeant des <color=#99FFFFFF>DGT Cryo</color> aux ennemis à proximité.\n\n<color=#FFD780FF>Héraut de givre</color>\n· Les attaques normales et chargées de Qiqi restaurent les PV de vos personnages ainsi que des alliés proches lorsqu'elles touchent. La quantité de PV restaurée est proportionnelle à l'ATQ de Qiqi.\n· Régénère les PV du personnage déployé à intervalles réguliers.\n· Le héraut suit le personnage déployé et inflige des <color=#99FFFFFF>DGT Cryo</color> aux ennemis sur sa route.\n\n<i>« Je l'utilise pour empêcher le réchauffement et la pourriture... des précieux ingrédients de M. Baizhu, bien sûr. »</i>",
+      "pt": "Ao usar o Talismã das Veias Congelantes, Qiqi invoca o Arauto da Floresta, causando <color=#99FFFFFF>Dano Cryo</color> a todos os inimigos ao redor.\n\n<color=#FFD780FF>Arauto da Floresta</color>\nQuando Qiqi atinge um alvo com seu Ataque Normal ou Ataque Carregado, ela regenera Vida para seu próprio personagem e aos personagens aliados ao redor. A Cura aumenta com base no ATQ de Qiqi.\nRegenera Vida ao seu próprio personagem em intervalos regulares.\nSegue o personagem ao redor, causando <color=#99FFFFFF>Dano Cryo</color> aos inimigos em seu caminho.\n\n<i>Eu uso isso para prevenir o aquecimento e a podridão... dos preciosos ingredientes do Dr. Bai.</i>",
+      "ru": "Ци Ци использует талисман Ледяной крови для того, чтобы призвать Вестника стужи, и наносит <color=#99FFFFFF>Крио урон</color> окружающим врагам.\n\n<color=#FFD780FF>Вестник стужи:</color>\n· Попадания обычной или заряженной атакой восстанавливают определённое количество HP членам отряда и ближайшим союзникам. Количество HP зависит от силы атаки Ци Ци;\n· Регулярно восстанавливает HP вашему персонажу;\n· Следует за активным персонажем и наносит <color=#99FFFFFF>Крио урон</color> врагам, которых касается.\n\n<i>Я использую этот талисман, чтобы предотвратить нагревание и разложение... драгоценных ингредиентов господина Бай Чжу. Да.</i>",
+      "id": "Qiqi memanggil Herald of Frost dengan menggunakan Icevein Talisman dan mengakibatkan <color=#99FFFFFF>Cryo DMG</color> ke musuh di sekitarnya.\n\n<color=#FFD780FF>Herald of Frost</color>\n·Saat Normal Attack atau Charged Attack Qiqi mengenai musuh, Qiqi akan memulihkan HP anggota party dan karakter teman lainnya. Jumlah HP yang disembuhkan ditentukan berdasarkan ATK Qiqi;\n·Setiap beberapa saat, Herald of Frost juga akan memulihkan HP karakter yang sedang digunakan;\n·Mengikuti gerakan karakter dan mengakibatkan <color=#99FFFFFF>Cryo DMG</color> kepada musuh yang dilewati.\n\n<i>Aku menggunakan ini supaya tidak busuk... Eh, aku sedang bicara soal bahan-bahan Dr. Bai.</i>",
+      "th": "ใช้เครื่องราง Icevein Talisman เพื่อเรียก Herald of Frost ออกมา และสร้าง <color=#99FFFFFF>ความเสียหายน้ำแข็ง</color>ให้กับศัตรูโดยรอบ\n\n<color=#FFD780FF>Herald of Frost</color>\n·เมื่อการโจมตีปกติหรือชาร์จโจมตีของ Qiqi โดนเป้าหมาย จะทำการฟื้นฟูพลังชีวิตให้แก่ตัวละครของคุณทั้งหมดในทีม รวมถึงตัวละครฝ่ายเดียวกันที่อยู่ใกล้ โดยปริมาณการฟื้นฟูจะขึ้นอยู่กับ พลังโจมตีของ Qiqi\n·จะทำการฟื้นฟูพลังชีวิตให้แก่ตัวละครของตนเองที่เข้าต่อสู้ในขณะนั้นเป็นช่วง ๆ\n·เคลื่อนที่ไปพร้อมกับตัวละคร เพื่อสร้าง<color=#99FFFFFF>ความเสียหายน้ำแข็ง</color> แก่ศัตรูที่อยู่ในเส้นทาง\n\n<i>\"ฉันใช้สิ่งนี้เพื่อป้องกันอุณหภูมิสูงขึ้นและ ป้องกันการเน่าเปื่อย... อื้อ ใช่ ฉันพูดถึงวัตถุดิบยาแสนแพงของ คุณ Bai\"</i>",
+      "vi": "Băng huyết hóa bùa chú, triệu hồi Hàn Bệnh Quỷ Sai, đồng thời gây <color=#99FFFFFF>sát thương Nguyên Tố Băng</color> cho địch xung quanh.\n\n<color=#FFD780FF>Hàn Bệnh Quỷ Sai</color>\n·Khi tấn công thường và trọng kích của Qiqi đánh trúng địch, sẽ hồi HP cho tất cả nhân vật của bản thân trong đội và đồng đội ở gần, lượng hồi phục dựa trên sức tấn công của Qiqi;\n·Cứ cách một khoảng thời gian sẽ hồi HP cho nhân vật của bản thân trong đội trong trận hiện tại;\n·Khi nhân vật hành động, gây <color=#99FFFFFF>sát thương nguyên tố Băng</color> cho kẻ địch trên đường đi.\n\n<i>\"Cái này dùng để ngăn thối rữa khi nhiệt độ lên cao... Ừm, ý tôi là số thảo dược quý của ngài Bai đó.\"</i>"
+    },
+    "imgid": "s_353201"
+  },
+  {
+    "title": {
+      "zhs": "仙法·救苦度厄",
+      "zht": "仙法·救苦渡厄",
+      "jp": "仙法·救苦度厄",
+      "ko": "선법·구고도액",
+      "en": "Adeptus Art: Preserver of Fortune",
+      "de": "Adeptenkunst: Befreiung vom Leid",
+      "es": "Magia Adeptus: Preservadora de la fortuna",
+      "fr": "Arcane d'Adepte : Talisman sacré",
+      "pt": "Arte do Adeptus: Preservador da Fortuna",
+      "ru": "Искусство Адепта: Хранитель Фортуны",
+      "id": "Adeptus Art: Preserver of Fortune",
+      "th": "Adeptus Art: Preserver of Fortune",
+      "vi": "Tiên Pháp - Cứu Khổ Độ Ách"
+    },
+    "description": {
+      "zhs": "七七释放体内封印的仙力，以度厄真符标记附近的敌人，并造成<color=#99FFFFFF>冰元素伤害</color>。\n\n<color=#FFD780FF>度厄真符</color>\n处于度厄真符影响下的敌人受到伤害时，为造成伤害的角色恢复生命值。\n\n<i>「真名，救苦度厄真君，起死回骸童子。」</i>\n<i>——七七并不能记起这句话。</i>",
+      "zht": "七七釋放體內封印的仙力，以渡厄真符標記附近的敵人，並造成<color=#99FFFFFF>冰元素傷害</color>。\n\n<color=#FFD780FF>渡厄真符</color>\n處於渡厄真符影響下的敵人受到傷害時，為造成傷害的角色恢復生命值。\n\n<i>「真名，救苦渡厄真君，起死回骸童子。」</i>\n<i>——七七並不能記起這句話。</i>",
+      "jp": "体内に封印された仙力を解放し、度厄のお札で付近の敵にマークをつけ、<color=#99FFFFFF>氷元素ダメージ</color>を与える。\n\n<color=#FFD780FF>度厄のお札</color>\n度厄のお札に影響された敵にダメージを与えた時、そのキャラクター自身のHPを回復する。\n\n<i>「本名、救苦度厄真君、起死回骸童子。」</i>\n<i>——だが七七はこの言葉を思い出せない。</i>",
+      "ko": "치치가 체내에 봉인된 선력을 해방해 주변의 적에게 도액 부적 표식을 남기고 <color=#99FFFFFF>얼음 원소 피해</color>를 준다.\n\n<color=#FFD780FF>도액 부적</color>\n도액 부적 표식이 있는 적에게 피해를 주면 캐릭터의 HP를 회복한다.\n\n<i>「본명, 구고도액진군. 죽다 살아난 해골 동자」</i>\n<i>——치치는 이 말을 기억하지 못한다</i>",
+      "en": "Qiqi releases the adeptus power sealed within her body, marking nearby opponents with a Fortune-Preserving Talisman that deals <color=#99FFFFFF>Cryo DMG</color>.\n\n<color=#FFD780FF>Fortune-Preserving Talisman</color>\nWhen opponents affected by this Talisman take DMG, the character that dealt this DMG regenerates HP.\n\n<i>\"I am the Fortune Preserver, the Maiden of Resurrection.\"</i>\n<i>— Qiqi does not remember these words.</i>",
+      "de": "Qiqi lässt der adeptischen Kraft, die in ihrem Körper versiegelt ist, freien Lauf, markiert Gegner in der Nähe mit ihrem Leidbefreiungs-Talisman und verursacht <color=#99FFFFFF>Kryo-Schaden</color>.\n\n<color=#FFD780FF>Leidbefreiungs-Talisman</color>\nStellt Figuren, die vom Effekt des Leidbefreiungs-Talismans betroffenen Gegnern Schaden zufügen, LP wieder her.\n\n<i>„Ich bin die Fürstin der Befreiung von Leid und Elend“, das wiederauferstandene Kind.</i>\n<i>- An diese Worte erinnert sich Qiqi längst nicht mehr.</i>",
+      "es": "Qiqi libera el poder Adeptus sellado dentro de su cuerpo, marcando a los enemigos cercanos con un talismán de conservación de la fortuna que inflige <color=#99FFFFFF>Daño Cryo</color>.\n\n<color=#FFD780FF>Talismán de conservación de la fortuna</color>\nCuando los enemigos marcados con el talismán reciben daño, el personaje que infligió el daño regenera Vida para sí mismo.\n\n<i>“Soy la Preservadora de la Fortuna, la Doncella de la Resurrección”.</i>\n<i>—Qiqi no recuerda cuándo dijo estas palabras.</i>",
+      "fr": "Qiqi libère le pouvoir d'Adepte scellé en elle et marque les ennemis d'un talisman qui leur inflige des <color=#99FFFFFF>DGT Cryo</color>.\n\n<color=#FFD780FF>Talisman</color>\nLes personnages récupèrent des PV équivalant aux DGT subis par les ennemis marqués.\n\n<i>« Je suis l'envoyée de la Providence, le symbole de la renaissance. »</i>\n<i>— Qiqi est bien incapable de se rappeler de ces mots.</i>",
+      "pt": "Qiqi libera o poder do Adeptus selado dentro de si, marcando inimigos próximos com o Amuleto de Preservação da Fortuna que inflige <color=#99FFFFFF>Dano Cryo</color>.\n\n<color=#FFD780FF>Amuleto de Preservação da Fortuna</color>\nQuando inimigos afetados por esse Amuleto recebem Dano, o personagem que causou esse Dano regenera Vida.\n\n<i>\"Eu sou a Preservadora da Fortuna, a Criada da Ressureição.\"</i>\n<i>— Qiqi não lembra destas palavras.</i>",
+      "ru": "Ци Ци выпускает на волю запечатанную в её теле мощь Адептов, помечая ближайших врагов талисманом Фортуны, который наносит им <color=#99FFFFFF>Крио урон</color>.\n\n<color=#FFD780FF>Талисман Фортуны</color>\nПомеченные талисманом Фортуны враги при получении урона восстанавливают HP нанёсшего урон персонажа.\n\n<i>«Я хранитель Фортуны, бессмертный ребёнок»</i>\n<i>Слова, давно позабытые Ци Ци.</i>",
+      "id": "Qiqi mengerahkan kekuatan Adeptus yang disegel di dalam tubuhnya dan menandai musuh di sekitar dengan jimat keberuntungan yang mengakibatkan <color=#99FFFFFF>Cryo DMG</color>.\n\n<color=#FFD780FF>Fortune-Preserving Talisman</color>\nSaat musuh yang telah ditandai menerima DMG, maka karakter yang mengakibatkan DMG tersebut akan menerima pemulihan HP.\n\n<i>\"Aku adalah Penjaga Keberuntungan, sang Gadis Kebangkitan.\"</i>\n<i>—Qiqi tidak ingat kata-kata ini.</i>",
+      "th": "Qiqi ปลดปล่อยพลังแห่งเซียนที่ผนึกไว้ ในร่างของเธอ ทำสัญลักษณ์ Fortune-Preserving Talisman บนศัตรูที่อยู่ใกล้เคียง และสร้าง <color=#99FFFFFF>ความเสียหายน้ำแข็ง</color>\n\n<color=#FFD780FF>Fortune-Preserving Talisman</color>\nเมื่อศัตรูที่ได้รับผลกระทบของ Fortune-Preserving Talisman ได้รับความเสียหาย จะทำการฟื้นฟูพลังชีวิตให้แก่ตัวละคร ที่สร้างความเสียหาย\n\n<i>\"ชื่อจริงของฉันคือ ผู้พิทักษ์จากความชั่วร้าย เด็กผู้ไม่มีวันตาย\"</i>\n<i> - Qiqi จำคำพูดพวกนี้ไม่ได้แล้ว</i>",
+      "vi": "Tiên lực phong ấn bên trong người Qiqi, dùng Bùa Độ Ách Chân đánh dấu kẻ địch xung quanh và gây <color=#99FFFFFF>sát thương nguyên tố Băng</color>.\n\n<color=#FFD780FF>Bùa Độ Ách Chân</color>\nKhi địch bị ảnh hưởng bởi Bùa Độ Ách Chân chịu sát thương, sẽ hồi HP cho nhân vật gây sát thương.\n\n<i>\"Tên thật, cứu khổ độ ách chân quân, cải tử hoàn hài đồng tử\"</i>\n<i>Qiqi không tài nào nhớ nổi câu này.</i>"
+    },
+    "imgid": "s_353901"
+  },
+  {
+    "title": {
+      "zhs": "延命妙法",
+      "zht": "延命妙法",
+      "jp": "延命妙法",
+      "ko": "생명 연장의 묘법",
+      "en": "Life-Prolonging Methods",
+      "de": "Technik der Langlebigkeit",
+      "es": "Elixir de vida",
+      "fr": "Survie en milieu hostile",
+      "pt": "Métodos que Prolongam a Vida",
+      "ru": "Долголетие",
+      "id": "Life-Prolonging Methods",
+      "th": "Life-Prolonging Methods",
+      "vi": "Diệu Pháp Trường Thọ"
+    },
+    "description": {
+      "zhs": "处于<color=#FFD780FF>仙法·寒病鬼差</color>状态下的角色触发元素反应时，受治疗加成提升20%，持续8秒。",
+      "zht": "處於<color=#FFD780FF>仙法·寒病鬼差</color>狀態下的角色觸發元素反應時，受治療加成提升20%，持續8秒。",
+      "jp": "<color=#FFD780FF>仙法·寒病鬼差</color>状態時のキャラクターが元素反応を起こした時、受ける治療効果+20%、継続時間8秒。",
+      "ko": "<color=#FFD780FF>선법·한병의 귀차</color> 상태의 캐릭터가 원소 반응을 일으키면 받는 치유 보너스가 20% 상승한다. 지속 시간: 8초",
+      "en": "When a character under the effects of <color=#FFD780FF>Adeptus Art: Herald of Frost</color> triggers an Elemental Reaction, their Incoming Healing Bonus is increased by 20% for 8s.",
+      "de": "Erhöht den passiven Heilungsbonus beim Auslösen von Elementarreaktionen durch Figuren im Zustand <color=#FFD780FF>Adeptenkunst – Frostbringer</color> 8 s lang um 20 %.",
+      "es": "Cuando un personaje bajo el efecto de <color=#FFD780FF>Magia Adeptus: Heraldo de la escarcha</color> provoca una Reacción Elemental, aumenta su Bono de Curación recibida en un 20% durante 8 s.",
+      "fr": "Lorsqu'un personnage sous l'effet d'<color=#FFD780FF>Arcane d'Adepte : Héraut de givre</color> déclenche une réaction élémentaire, il gagne un bonus de soins reçus de 20 % pendant 8 s.",
+      "pt": "Quando um personagem está sob o efeito de <color=#FFD780FF>Arte do Adeptus: Arauto da Floresta</color> aciona uma Reação Elemental, seu Bônus de Cura Recebido é aumentado em 20% por 8 segundos.",
+      "ru": "Когда персонаж, находящийся под эффектами навыка <color=#FFD780FF>Искусство Адепта: Вестник стужи</color>, совершает элементальную реакцию, его бонус получаемого лечения увеличивается на 20% в течение 8 сек.",
+      "id": "Meningkatkan 20% Bonus Pemulihan karakter selama 8 detik saat karakter dalam efek <color=#FFD780FF>Adeptus Art: Herald of Frost</color> memicu reaksi elemental.",
+      "th": "เมื่อตัวละครที่อยู่ภายใต้สภาวะ <color=#FFD780FF>Adeptus Art: Herald of Frost</color> ทำให้เกิดปฏิกิริยาทางธาตุขึ้น โบนัสการถูกรักษาจะเพิ่มขึ้น 20% เป็นเวลา 8 วินาที",
+      "vi": "Khi nhân vật kích hoạt phản ứng nguyên tố trong <color=#FFD780FF>Tiên Pháp - Hàn Bệnh Quỷ Sai</color>, tăng nhận trị liệu 20%, kéo dài 8s."
+    },
+    "imgid": "p_352101"
+  },
+  {
+    "title": {
+      "zhs": "玉签偶开",
+      "zht": "玉籤偶開",
+      "jp": "玉籤偶開",
+      "ko": "우연히 얻은 옥첨",
+      "en": "A Glimpse Into Arcanum",
+      "de": "Blick ins Ungewisse",
+      "es": "Apertura arcana",
+      "fr": "Ouverture des arcanes",
+      "pt": "Um Vislumbre do Arcano",
+      "ru": "Созерцание тайн волшебства",
+      "id": "A Glimpse Into Arcanum",
+      "th": "A Glimpse into Arcanum",
+      "vi": "Thăm Ngọc Ngẫu Nhiên"
+    },
+    "description": {
+      "zhs": "七七的普通攻击与重击命中敌人时，有50%的几率为敌人添加一枚度厄真符，持续6秒。该效果每30秒只能触发一次。",
+      "zht": "七七的普通攻擊與重擊命中敵人時，有50%的機率對敵人施加一枚渡厄真符，持續6秒。該效果每30秒只能觸發一次。",
+      "jp": "七七の通常攻撃と重撃が敵に命中した時、50%の確率で敵に度厄のお札を1枚付与する、継続時間6秒、30秒毎に1回のみ発動可能。",
+      "ko": "치치의 일반 공격과 강공격이 적을 명중 시 50%의 확률로 적에게 도액 부적을 한 장 부여한다. 지속 시간: 6초. 해당 효과는 30초마다 1회만 발동한다",
+      "en": "When Qiqi hits opponents with her Normal and Charged Attacks, she has a 50% chance to apply a Fortune-Preserving Talisman to them for 6s. This effect can only occur once every 30s.",
+      "de": "Fügt mit Standardangriffen und heftigen Schlägen von Qiqi getroffenen Gegnern mit einer Wahrscheinlichkeit von 50 % einen Leidbefreiungs-Talisman hinzu, hält 6 s. 30 s Abklingzeit",
+      "es": "Cuando Qiqi golpea a sus enemigos con Ataque Normal o Ataque Cargado, tiene un 50% de probabilidad de ponerles un talismán de conservación de la fortuna durante 6 s. Este efecto solo puede activarse una vez cada 30 s.",
+      "fr": "Les attaques normales et chargées de Qiqi ont 50 % de chances de marquer l'ennemi touché d'un talisman pendant 6 s. Cet effet peut être déclenché une fois toutes les 30 s.",
+      "pt": "Quando Qiqi atinge inimigos com seus Ataques normais e Carregados, ela tem 50% de chance de aplicar um Talismã de preservação de fortuna a eles por 6s. Este efeito pode ser ativado apenas uma vez a cada 30s.",
+      "ru": "При попадании обычной и заряженной атакой у Ци Ци есть 50% шанс применить на них талисман Фортуны на 6 сек. Может возникнуть раз в 30 сек.",
+      "id": "Saat Qiqi menyerang musuh dengan Normal dan Charged Attack, Qiqi memiliki 50% kemungkinan untuk memberikan Fortune-Preserving Talisman kepada musuh selama 6 detik. Efek ini dapat terpicu setiap 30 detik.",
+      "th": "เมื่อ Qiqi โจมตีปกติหรือชาร์จโจมตีถูกศัตรู มีโอกาส 50% ที่จะใช้ Fortune-Preserving Talisman กับศัตรูเป็นเวลา 6 วินาที เอฟเฟกต์นี้จะเกิดขึ้นได้หนึ่งครั้งในทุก 30 วินาที",
+      "vi": "Khi tấn công thường và trọng kích của Qiqi đánh trúng địch, có 50% cơ hội để thêm cho mỗi kẻ địch một tấm Bùa Độ Ách Chân, kéo dài 6s. Hiệu quả này mỗi 30s chỉ kích hoạt 1 lần."
+    },
+    "imgid": "p_352201"
+  },
+  {
+    "title": {
+      "zhs": "前尘旧忆",
+      "zht": "前塵舊憶",
+      "jp": "往事記憶",
+      "ko": "지나간 기억",
+      "en": "Former Life Memories",
+      "de": "Alte Zeiten",
+      "es": "Recuerdos de una vida pasada",
+      "fr": "Souvenir d'une vie lointaine",
+      "pt": "Memórias da Vida Passada",
+      "ru": "Пыльные воспоминания",
+      "id": "Former Life Memories",
+      "th": "Former Life Memories",
+      "vi": "Chuyện Xưa Năm Cũ"
+    },
+    "description": {
+      "zhs": "在小地图上显示周围的<color=#FFD780FF>璃月区域特产</color>的位置。",
+      "zht": "在小地圖上顯示週圍的<color=#FFD780FF>璃月區域特產</color>的位置。",
+      "jp": "ミニマップで周囲の<color=#FFD780FF>璃月地域の特産</color>の位置を表示する。",
+      "ko": "미니맵에 주위의 <color=#FFD780FF>리월 지역 특산물</color> 위치가 나타난다",
+      "en": "Displays the location of nearby <color=#FFD780FF>resources unique to Liyue</color> on the mini-map.",
+      "de": "Zeigt alle <color=#FFD780FF>Besonderheiten Liyues</color> in der Nähe auf der Minikarte an.",
+      "es": "Muestra la ubicación de los <color=#FFD780FF>objetos típicos de Liyue</color> cercanos en el minimapa.",
+      "fr": "Affiche l'emplacement des <color=#FFD780FF>produits de Liyue</color> sur la mini-carte.",
+      "pt": "Mostra a localização de <color=#FFD780FF>Especialidades de Liyue</color> próximos no mapa.",
+      "ru": "Отмечает <color=#FFD780FF>диковины Ли Юэ</color> на мини-карте.",
+      "id": "Memperlihatkan lokasi <color=#FFD780FF>produk khas Liyue</color> di sekitar pada mini-map.",
+      "th": "แสดงตำแหน่งของ<color=#FFD780FF>ของพิเศษเฉพาะใน Liyue</color> ในมินิแมป",
+      "vi": "Hiển thị <color=#FFD780FF>đặc sản khu vực Liyue</color> trên bản đồ nhỏ."
+    },
+    "imgid": "p_352301"
+  }
+]

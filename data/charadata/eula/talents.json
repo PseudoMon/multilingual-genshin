@@ -1,0 +1,200 @@
+[
+  {
+    "title": {
+      "zhs": "普通攻击·西风剑术·宗室",
+      "zht": "普通攻擊·西風劍術·宗室",
+      "jp": "通常攻撃·西風剣術·旧貴族",
+      "ko": "일반 공격·페보니우스 검술·왕실",
+      "en": "Normal Attack: Favonius Bladework - Edel",
+      "de": "Standardangriff: Favonius-Schwertkunst – Adelshaus",
+      "es": "Ataque Normal: Técnica de espada Favonius - Nobleza",
+      "fr": "Attaque normale : Escrime de Favonius - Aristocratie",
+      "pt": "Ataque Normal: Técnica da Espada de Favonius - Nobreza",
+      "ru": "Фехтовальный стиль Фавония: Знать",
+      "id": "Normal Attack: Favonius Bladework - Edel",
+      "th": "โจมตีปกติ: Favonius Bladework - Edel",
+      "vi": "Tấn Công Thường: Tây Phong Kiếm - Tông Thất"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>普通攻击</color>\n进行至多五段的连续挥砍。\n\n<color=#FFD780FF>重击</color>\n持续消耗体力，快速进行连续的斩击。\n重击结束时，会进行一次格外有力的挥砍。\n\n<color=#FFD780FF>下落攻击</color>\n从空中下坠冲击地面，攻击下落路径上的敌人，并在落地时造成范围伤害。",
+      "zht": "<color=#FFD780FF>普通攻擊</color>\n進行至多五段的連續揮砍。\n\n<color=#FFD780FF>重擊</color>\n持續消耗體力，快速進行連續的斬擊。\n重擊結束時，會進行一次格外有力的揮砍。\n\n<color=#FFD780FF>下落攻擊</color>\n從空中下墜衝擊地面，攻擊下落路徑上的敵人，並在落地時造成範圍傷害。",
+      "jp": "<color=#FFD780FF>通常攻撃</color>\n最大5段の連続攻撃を行う。\n\n<color=#FFD780FF>重撃</color>\n持続的にスタミナを消費し、素早い連続攻撃を発動する。\n重撃が終了した時に、更に強力な攻撃を1回放つ。\n\n<color=#FFD780FF>落下攻撃</color>\n空中から落下し地面に衝撃を与える。経路上の敵を攻撃し、落下時に範囲ダメージを与える。",
+      "ko": "<color=#FFD780FF>일반 공격</color>\n검으로 최대 5번 공격한다.\n\n<color=#FFD780FF>강공격</color>\n스태미나를 지속해서 소모해 빠른 속도로 연속 베기를 발동한다.\n강공격 종료 시 추가로 검을 한 번 더 강력하게 휘두른다.\n\n<color=#FFD780FF>낙하 공격</color>\n공중에서 땅을 내려찍어 경로상의 적을 공격하고 착지 시 범위 피해를 준다",
+      "en": "<color=#FFD780FF>Normal Attack</color>\nPerform up to 5 consecutive strikes.\n\n<color=#FFD780FF>Charged Attack</color>\nDrains Stamina over time to perform continuous slashes.\nAt the end of the sequence, perform a more powerful slash.\n\n<color=#FFD780FF>Plunging Attack</color>\nPlunges from mid-air to strike the ground, damaging opponents along the path and dealing AoE DMG upon impact.",
+      "de": "<color=#FFD780FF>Standardangriff</color>\nFührt bis zu 5 Schwünge mit dem Schwert hintereinander aus.\n\n<color=#FFD780FF>Heftiger Schlag</color>\nVerbraucht fortlaufend Ausdauer und führt schnell mehrere Hiebe aus.\nSchwingt das Schwert am Ende mit besonders großer Wucht.\n\n<color=#FFD780FF>Angriff aus dem Fall</color>\nSchlägt beim Fallen aus der Luft auf den Boden, greift alle Gegner in der Bahn an und verursacht beim Aufkommen Flächenschaden.",
+      "es": "<color=#FFD780FF>Ataque Normal</color>\nRealiza hasta 5 ataques consecutivos.\n\n<color=#FFD780FF>Ataque Cargado</color>\nConsume Aguante de manera constante para realizar golpes de espada continuos.\nCuando termina el Ataque Cargado, hará un golpe aún más poderoso.\n\n<color=#FFD780FF>Ataque Descendente</color>\nSe lanza desde el aire para golpear el suelo, dañando a los enemigos cercanos e infligiendo Daño en el AdE en el momento del impacto.",
+      "fr": "<color=#FFD780FF>Attaque normale</color>\nEnchaîne jusqu'à 5 coups d'épée.\n\n<color=#FFD780FF>Attaque chargée</color>\nExécute une succession d'entailles aussi rapides que tranchantes ; cette attaque consomme de l'endurance de façon continue.\nL'attaque chargée se termine sur un coup puissant.\n\n<color=#FFD780FF>Attaque plongeante</color>\nPlonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis en chemin et des DGT de zone à l'impact.",
+      "pt": "<color=#FFD780FF>Ataque Normal</color>\nRealiza até 5 golpes consecutivos.\n\n<color=#FFD780FF>Ataque Carregado</color>\nDrena Stamina ao longo do tempo para realizar cortes contínuos.\nAo final da sequência, realiza um corte ainda mais poderoso.\n\n<color=#FFD780FF>Ataque Imersivo</color>\nMergulha em pleno ar para golpear o chão, danificando inimigos em seu caminho e infligindo dano em uma AdE durante o impacto.",
+      "ru": "<color=#FFD780FF>Обычная атака:</color>\nДо пяти рубящих ударов мечом.\n\n<color=#FFD780FF>Заряженная атака:</color>\nКомбо-атака, на которую непрерывно тратится выносливость.\nПосле комбо-атаки проводит дополнительную мощную атаку мечом.\n\n<color=#FFD780FF>Атака в падении:</color>\nСтремительно падает на землю, атакуя всех врагов на пути. Приземлившись, наносит урон по площади.",
+      "id": "<color=#FFD780FF>Normal Attack</color>\nMelancarkan hingga 5 tebasan berturut-turut.\n\n<color=#FFD780FF>Charged Attack</color>\nTerus menguras Stamina untuk melancarkan tebasan berkelanjutan secara cepat.\nCharged Attack akan diakhiri dengan sebuah tebasan yang lebih kuat.\n\n<color=#FFD780FF>Plunging Attack</color>\nMenerjang dari udara untuk menghantam tanah, menyerang semua musuh di jalurnya dan mengakibatkan DMG area saat mendarat.",
+      "th": "<color=#FFD780FF>โจมตีปกติ</color>\nโจมตีต่อเนื่องมากสุดห้าครั้ง\n\n<color=#FFD780FF>ชาร์จโจมตี</color>\nใช้พลังกายต่อเนื่อง เพื่อฟันโจมตีติดต่อกันอย่างรวดเร็ว\nเมื่อชาร์จโจมตีสิ้นสุดลง จะทำการฟันอย่างรุนแรงเพิ่มอีกหนึ่งครั้ง\n\n<color=#FFD780FF>โจมตีพุ่งลงจากอากาศ</color>\nกระโจนจากกลางอากาศลงมายังพื้นดิน เพื่อโจมตีศัตรูที่อยู่ในเส้นทางการโจมตี โดยจะสร้างความเสียหายวงกว้างเมื่อลงถึงพื้น",
+      "vi": "<color=#FFD780FF>Tấn Công Thường</color>\nThực hiện tối đa 5 lần chém liên tiếp.\n\n<color=#FFD780FF>Trọng Kích</color>\nDuy trì tiêu hao thể lực, chém nhanh liên tiếp.\nSau khi Trọng Kích kết thúc, sẽ bổ một nhát cực mạnh.\n\n<color=#FFD780FF>Tấn Công Khi Đáp</color>\nĐáp xuống đất từ trên không, tấn công kẻ địch trên đường, đồng thời gây sát thương phạm vi khi chạm đất."
+    },
+    "imgid": "s_513101"
+  },
+  {
+    "title": {
+      "zhs": "冰潮的涡旋",
+      "zht": "冰潮的渦漩",
+      "jp": "氷潮の渦",
+      "ko": "얼음 파도의 와류",
+      "en": "Icetide Vortex",
+      "de": "Eisiger Strudel",
+      "es": "Vórtice helado",
+      "fr": "Vortex des mers glacées",
+      "pt": "Vórtice Gelado",
+      "ru": "Ледяной прибой",
+      "id": "Icetide Vortex",
+      "th": "Icetide Vortex",
+      "vi": "Lốc Xoáy Băng Hàn"
+    },
+    "description": {
+      "zhs": "极寒的冰气、迅捷的剑舞。\n\n<color=#FFD780FF>点按</color>\n快速挥斩，造成<color=#99FFFFFF>冰元素伤害</color>。\n命中敌人时，优菈自己获得一层冷酷之心效果，最多叠加2次，每0.3秒内只能触发1次。\n\n<color=#FFD780FF>冷酷之心</color>\n提高优菈的抗打断能力和防御力。\n\n<color=#FFD780FF>长按</color>\n消耗所有的冷酷之心效果，并挥舞大剑向前挥砍，对前方的敌人造成<color=#99FFFFFF>冰元素范围伤害</color>。\n若消耗了冷酷之心效果，会使身边的敌人的物理抗性与<color=#99FFFFFF>冰元素抗性</color>降低。\n每一层被消耗的冷酷之心会转化为一柄冰涡之剑，对附近的敌人造成<color=#99FFFFFF>冰元素伤害</color>。\n\n<i>「浪花就是这样打着旋，吞没了高贵的头冠。随后，冰冷浪潮的每一滴飞沫里，都映着一个金冠；每一滴浪沫，都闪烁着光。」</i>",
+      "zht": "極寒的冰氣、迅捷的劍舞。\n\n<color=#FFD780FF>點按</color>\n快速揮斬，造成<color=#99FFFFFF>冰元素傷害</color>。\n命中敵人時，優菈自己獲得一層冷酷之心效果，最多疊加兩次，每0.3秒內只能觸發一次。\n\n<color=#FFD780FF>冷酷之心</color>\n提高優菈的抗打斷能力和防禦力。\n\n<color=#FFD780FF>長按</color>\n消耗所有的冷酷之心效果，並揮舞大劍向前揮砍，對前方的敵人造成<color=#99FFFFFF>冰元素範圍傷害</color>。\n若消耗了冷酷之心效果，會使身邊的敵人的物理抗性與<color=#99FFFFFF>冰元素抗性</color>降低。\n每一層消耗的冷酷之心都會轉化為一柄冰渦之劍，對附近的敵人造成<color=#99FFFFFF>冰元素傷害</color>。\n\n<i>「浪花就是這樣打著漩，吞沒了高貴的頭冠。隨後，冰冷浪潮的每一滴飛沫裡，都映著一個金冠；每一滴浪沫，都閃爍著光。」</i>",
+      "jp": "極寒の氷気、素早い剣舞。\n\n<color=#FFD780FF>一回押し</color>\n素早く剣を振り、<color=#99FFFFFF>氷元素ダメージ</color>を与える。\n敵に命中すると、エウルアは冷酷な心を1つ獲得する。最大2つまで、0.3秒毎に1回のみ発動可能。\n\n<color=#FFD780FF>冷酷な心</color>\nエウルアの防御力と中断耐性をアップさせる。\n\n<color=#FFD780FF>長押し</color>\n冷酷な心を全て消費し、大剣を振り前方の敵に<color=#99FFFFFF>氷元素範囲ダメージ</color>を与える。\n冷酷な心を消費すると、周囲の敵の物理耐性および<color=#99FFFFFF>氷元素耐性</color>をダウンさせる。\n消費した冷酷な心1つにつき氷渦の剣1本に変化し、近くの敵に<color=#99FFFFFF>氷元素ダメージ</color>を与える。\n\n<i>「波花はこのように渦を巻き、高貴な冠を飲み込んだ。そして、冷たき波のしぶきに黄金の冠が映る。その一粒一粒が、光り輝いていた。」</i>",
+      "ko": "얼음과 같은 한기, 날렵한 검무.\n\n<color=#FFD780FF>짧은 터치</color>\n검을 빠르게 휘둘러 <color=#99FFFFFF>얼음 원소 피해</color>를 준다.\n적을 명중하면 유라는 냉혹한 마음 효과를 1스택 얻는다. 최대 중첩수: 2회. 0.3초마다 1회만 발동한다.\n\n<color=#FFD780FF>냉혹한 마음</color>\n유라의 경직 저항력과 방어력이 상승한다.\n\n<color=#FFD780FF>홀드</color>\n냉혹한 마음 효과를 모두 소모하고 대검을 앞으로 휘둘러 전방의 적에게 <color=#99FFFFFF>얼음 원소 범위 피해</color>를 준다.\n냉혹한 마음 효과를 소모하면, 주변에 있는 적의 물리 내성과 <color=#99FFFFFF>얼음 원소 내성</color>이 감소한다.\n소모된 「냉혹한 마음」은 1스택당 얼음 소용돌이의 검 한 자루로 전환되어 주변의 적에게 <color=#99FFFFFF>얼음 원소 피해</color>를 준다.\n\n<i>「그렇게 소용돌이치던 파도는 고귀한 왕관을 집어삼켰다. 그리고 차가운 물결엔 황금빛 왕관이, 물보라엔 눈 부신 빛이 반짝였다」</i>",
+      "en": "#Sharp frost, swift blade.\n\n<color=#FFD780FF>{LAYOUT_MOBILE#Tap}{LAYOUT_PC#Press}{LAYOUT_PS#Press}</color>\nSlashes swiftly, dealing <color=#99FFFFFF>Cryo DMG</color>.\nWhen it hits an opponent, Eula gains a stack of Grimheart that stacks up to 2 times. These stacks can only be gained once every 0.3s.\n\n<color=#FFD780FF>Grimheart</color>\nIncreases Eula's resistance to interruption and DEF.\n\n<color=#FFD780FF>Hold</color>\nWielding her sword, Eula consumes all the stacks of Grimheart and lashes forward, dealing <color=#99FFFFFF>AoE Cryo DMG</color> to opponents in front of her.\nIf Grimheart stacks are consumed, surrounding opponents will have their Physical RES and <color=#99FFFFFF>Cryo RES</color> decreased.\nEach consumed stack of Grimheart will be converted into an Icewhirl Brand that deals <color=#99FFFFFF>Cryo DMG</color> to nearby opponents.\n\n<i>\"So the waves roiled, swallowing the crown of the nobles. And ever after did each drop amidst the icy waves reflect a golden crown, each and every droplet of the spray shining with its light.\"</i>",
+      "de": "Extreme Kälte und geschwinder Schwerttanz.\n\n<color=#FFD780FF>Drücken</color>\nFührt schnelle Schwünge aus, die <color=#99FFFFFF>Kryo-Schaden</color> verursachen.\nEula bekommt beim Treffen von Gegnern eine Stapelung von dem Effekt Kaltes Herz, 2-fach stapelbar, 0,3 s Abklingzeit.\n\n<color=#FFD780FF>Kaltes Herz</color>\nErhöht Eulas Unterbrechungs-WDS und VTD.\n\n<color=#FFD780FF>Gedrückt halten</color>\nVerbraucht den Effekt Kaltes Herz vollständig, schwingt dabei das Schwert nach vorn und fügt den Gegnern vor ihr <color=#99FFFFFF>Kryo-Flächenschaden</color> zu.\nVerringert beim Verbrauchen des Effekts Kaltes Herz den physischen WDS sowie den <color=#99FFFFFF>Kryo-WDS</color> der Gegner in der Nähe von Eula.\nJede verbrauchte Stapelung von Kaltes Herz wandelt sich in ein Eisstrudelschwert um, das den Gegnern in der Umgebung <color=#99FFFFFF>Kryo-Schaden</color> zufügt.\n\n<i>„So wird die Krone der Aristokraten in den Strudel hineingerissen. In jedem eiskalten Tröpfchen ist der Widerschein der goldenen Krone zu sehen. Der stiebende Schaum glänzt.“</i>",
+      "es": "#Un hielo estremecedor y una diestra danza con la espada.\n\n<color=#FFD780FF>{LAYOUT_MOBILE#Un toque}{LAYOUT_PC#Pulsar una vez}{LAYOUT_PS#Pulsar una vez}</color>\nRealiza un rápido tajo que inflige <color=#99FFFFFF>Daño Cryo</color>.\nAl golpear a un enemigo, Eula obtiene una carga del efecto corazón impasible, el cual puede acumularse un máximo de 2 veces y obtenerse solo 1 vez cada 0.3 s.\n\n<color=#FFD780FF>Corazón impasible</color>\nAumenta la RES a interrupción y la DEF de Eula.\n\n<color=#FFD780FF>Mantener pulsado</color>\nConsume todas las cargas de corazón impasible y realiza un tajo de espada hacia delante, infligiendo <color=#99FFFFFF>Daño Cryo en el AdE</color> a todos los enemigos frente a Eula.\nAl consumirse este efecto, la RES Física y la <color=#99FFFFFF>RES Cryo</color> de los enemigos cercanos se reducirá.\nCada carga de corazón impasible consumida se convertirá en una crioespada de vacío que inflige <color=#99FFFFFF>Daño Cryo</color> a los enemigos cercanos.\n\n<i>“Así se daba la vuelta la espuma del mar, engullendo la corona de la aristocracia a su paso. Entonces, en todas y cada una de las gotas de agua que salieron despedidas de la gélida marea se reflejó una corona dorada, y cada gota de espuma emitía un glorioso brillo”.</i>",
+      "fr": "Givre coupant et lame dansante.\n\n<color=#FFD780FF>Appui simple</color>\nEula exécute une frappe rapide qui inflige des <color=#99FFFFFF>DGT Cryo</color>.\nSi elle touche un ennemi, Eula gagne une charge de Cœur de glace (jusqu'à 2 charges max). Eula peut gagner une charge toutes les 0,3 s max.\n\n<color=#FFD780FF>Cœur de glace</color>\nAméliore la RÉS à l'interruption et la DÉF d'Eula.\n\n<color=#FFD780FF>Appui long</color>\nEula consomme toutes les charges de Cœur de glace pour faire tournoyer son épée devant elle et infliger des <color=#99FFFFFF>DGT Cryo de zone</color> aux ennemis en face.\nSi des charges de Cœur de glace sont consommées, la RÉS physique et la <color=#99FFFFFF>RÉS Cryo</color> des ennemis proches diminuent.\nChaque charge de Cœur de glace est convertie en épée vortex de glace, qui inflige des <color=#99FFFFFF>DGT Cryo</color> aux ennemis proches.\n\n<i>Ainsi roula l'écume des vagues, engloutissant dans son sillage la couronne de la royauté. Et chaque embrun de cette marée glaciale étincela de sa lumineuse clarté.</i>",
+      "pt": "Um frio glacial e uma dança ágil de espadas.\n\n<color=#FFD780FF>Pressionar</color>\nFaz um golpe rápido que causa <color=#99FFFFFF>Dano Cryo</color>.\nQuando acerta nos inimigos, Eula ganha 1 Coração Impassível que se acumula no máximo 2 vezes e só pode ser acumulado 1 vez a cada 0.3s.\n\n<color=#FFD780FF>Coração Impassível</color>\nAumenta a Resistência contra Interrupção e DEF de Eula.\n\n<color=#FFD780FF>Manter Pressionado</color>\nBalança a espada para causar um golpe para a frente, causando <color=#99FFFFFF>Dano Cryo em uma AdE</color> aos inimigos em frente, e consumindo todos os acúmulos de Coração Impassível de Eula.\nCaso o efeito do Coração Impassível seja consumido, irá diminuir a RES Física e <color=#99FFFFFF>RES Cryo</color> dos inimigos acertados. Cada Coração Impassível se converterá em uma Espada do Vórtice de Gelo, causando <color=#99FFFFFF>Dano Cryo</color> nos inimigos ao redor.\n\n<i>\"As ondas enrolam dessa forma e engolem as coroas nobres. Depois, cada gota de espuma que cai voando das ondas congelantes reflete uma coroa dourada, cada gota de espuma do mar brilha gloriosamente.\"</i>",
+      "ru": "Ледяной воздух, стремительный меч.\n\n<color=#FFD780FF>Быстрое нажатие:</color>\nБыстрый взмах, который наносит <color=#99FFFFFF>Крио урон</color>.\nПри попадании по врагу Эола получает один уровень Холодного сердца. Складывается до 2 раз, может возникнуть 1 раз в 0,3 сек.\n\n<color=#FFD780FF>Холодное сердце</color>\nПовышает сопротивление прерыванию и защиту Эолы.\n\n<color=#FFD780FF>Долгое нажатие:</color>\nТратит все уровни Холодного сердца и совершает рубящий удар мечом, который наносит <color=#99FFFFFF>Крио урон</color> врагам перед собой.\nЕсли было потрачено Холодное сердце, то Эола снижает физическое сопротивление и <color=#99FFFFFF>Крио сопротивление</color> врагов поблизости.\nКаждый потраченный уровень Холодного сердца превращается в один Меч вихря, который наносит врагам поблизости <color=#99FFFFFF>Крио урон</color>.\n\n<i>«Поглотила корону и кружится волна. Мерцает царским золотом ледяного прибоя вода. Каждая капля искрится на солнце».</i>",
+      "id": "Es yang tajam, pedang yang lincah.\n\n<color=#FFD780FF>Tekan</color>\nMenebas dengan cepat dan mengakibatkan <color=#99FFFFFF>Cryo DMG</color>.\nSaat mengenai musuh, Eula akan mendapatkan satu lapis Grimheart yang bisa ditumpuk hingga 2 lapis. Lapisan ini hanya bisa ditumpuk setiap 0,3 detik.\n\n<color=#FFD780FF>Grimheart</color>\nMeningkatkan DEF dan ketahanan Eula terhadap interupsi.\n\n<color=#FFD780FF>Tahan</color>\nDengan mengonsumsi semua lapisan Grimheart yang ada, Eula menebas pedangnya ke arah depan dan mengakibatkan <color=#99FFFFFF>Cryo DMG area</color> pada musuh di hadapannya.\nJika Eula mengonsumsi lapisan Grimheart, musuh di sekitar akan mengalami penurunan Physical RES dan <color=#99FFFFFF>Cryo RES</color>.\nSetiap lapis Grimheart akan berubah menjadi Icewhirl Brand yang mengakibatkan <color=#99FFFFFF>Cryo DMG</color> pada musuh di sekitar.\n\n<i>\"Ombak-ombak pun bergulung, menelan mahkota para bangsawan. Setelah itu, setiap tetesan di antara gulungan ombak es akan memantulkan mahkota emas, dan setiap tetesan busa ombak akan memancarkan cahayanya.\"</i>",
+      "th": "#ไอน้ำแข็งที่เย็นยะเยือก และระบำดาบที่รวดเร็ว\n\n<color=#FFD780FF>{LAYOUT_MOBILE#แตะ}{LAYOUT_PC#กด}{LAYOUT_PS#กด}</color>\nฟันอย่างรวดเร็วเพื่อสร้าง <color=#99FFFFFF>ความเสียหายน้ำแข็ง</color>\nเมื่อโจมตีถูกศัตรู ตัวของ Eula เองจะได้รับเอฟเฟกต์ Grimheart หนึ่งชั้น โดยจะซ้อนทับได้มากสุด 2 ครั้ง และเกิดขึ้นได้เพียง 1 ครั้ง ในทุก 0.3 วินาที\n\n<color=#FFD780FF>Grimheart</color>\nเพิ่มความต้านทานการหยุดชะงักและพลังป้องกันของ Eula\n\n<color=#FFD780FF>{LAYOUT_MOBILE#แตะค้าง}{LAYOUT_PC#กดค้าง}{LAYOUT_PS#กดค้าง}</color>\nใช้เอฟเฟกต์ Grimheart ทั้งหมดและฟาดฟันดาบใหญ่ไปข้างหน้า เพื่อสร้าง<color=#99FFFFFF>ความเสียหายน้ำแข็งวงกว้าง</color>ให้แก่ศัตรูที่อยู่ตรงหน้า\nหากใช้เอฟเฟกต์ Grimheart แล้ว จะทำให้ความต้านทานทางกายภาพและ <color=#99FFFFFF>ความต้านทานน้ำแข็ง</color> ของศัตรูที่อยู่รอบตัวลดลง\nGrimheart แต่ละชั้นที่ถูกใช้จะเปลี่ยนเป็นดาบวังวนน้ำแข็ง Icewhirl Brand หนึ่งเล่ม และสร้าง<color=#99FFFFFF>ความเสียหายน้ำแข็ง</color>ให้แก่ศัตรูที่อยู่ในบริเวณใกล้เคียง\n\n<i>\"เกลียวคลื่นที่หมุนวนกลืนกินมงกุฎอันสูงส่ง จากนั้นในทุกหยดของคลื่นความเย็น ต่างก็เปล่งประกายของมงกุฎสีทอง ฟองคลื่นในทุกอณู ต่างก็ส่องแสงระยิบระยับ\"</i>",
+      "vi": "Cực hàn băng khí, cực tốc kiếm vũ.\n\n<color=#FFD780FF>Nhấn</color>\nTấn công nhanh, gây <color=#99FFFFFF>Sát Thương Nguyên Tố Băng</color>.\nKhi đánh trúng kẻ địch sẽ khiến Eula nhận được 1 tầng hiệu quả Trái Tim Băng Giá, tối đa cộng dồn 2 lần. Mỗi 0.3s chỉ kích hoạt 1 lần.\n\n<color=#FFD780FF>Trái Tim Băng Giá</color>\nTăng khả năng phòng thủ và kháng gián đoạn của Eula.\n\n<color=#FFD780FF>Nhấn giữ</color>\nTiêu hao tất cả hiệu quả Trái Tim Băng Giá và múa đại kiếm chém về phía trước, gây <color=#99FFFFFF>Sát Thương Nguyên Tố Băng diện rộng</color> cho địch phía trước.\nNếu tiêu hao hiệu quả Trái Tim Băng Giá, sẽ làm giảm Kháng Vật Lý và <color=#99FFFFFF>Kháng Nguyên Tố Băng</color> của kẻ địch bên cạnh.\nMỗi một tầng Trái Tim Băng Giá bị tiêu hao sẽ chuyển hóa thành 1 thanh Băng Vũ Kiếm, gây <color=#99FFFFFF>Sát Thương Nguyên Tố Băng</color> cho địch xung quanh.\n\n<i>\"Những con sóng cuộn trào nuốt chửng chiếc vương miện của quý tộc. Và mãi đến sau này, mỗi bọt nước giữa những con sóng băng giá lại phản chiếu ra một chiếc vương miện vàng, mỗi bọt nước đều tỏa sáng lấp lánh.\"</i>"
+    },
+    "imgid": "s_513201"
+  },
+  {
+    "title": {
+      "zhs": "凝浪之光剑",
+      "zht": "凝浪之光劍",
+      "jp": "氷浪の光剣",
+      "ko": "파도를 얼리는 광검",
+      "en": "Glacial Illumination",
+      "de": "Schwert der Brandung",
+      "es": "Fulgor glacial",
+      "fr": "Lame de fond",
+      "pt": "Espada das Ondas Congeladas",
+      "ru": "Сумеречный меч",
+      "id": "Glacial Illumination",
+      "th": "Glacial Illumination",
+      "vi": "Thanh Kiếm Sóng Nước"
+    },
+    "description": {
+      "zhs": "猛烈挥舞大剑，对周围的敌人造成<color=#99FFFFFF>冰元素伤害</color>，并创造一柄跟随自己，至多持续存在7秒的光降之剑。\n在持续期间内，光降之剑会提高优菈自己的抗打断能力，并在优菈自己的普通攻击、元素战技或元素爆发对敌人造成伤害时，为光降之剑积蓄能量。每0.1秒只能积攒一层能量。\n持续时间结束后，光降之剑会降下并猛烈爆发，对周围的敌人造成物理伤害。\n此伤害受益于光降之剑积蓄的能量层数。\n优菈退场时，光降之剑会立即爆发。\n\n<i>沉沦是件很容易的事情。尽管如此，她仍想要冻结住这股潮流。</i>",
+      "zht": "猛烈揮舞大劍，對周圍的敵人造成<color=#99FFFFFF>冰元素傷害</color>，並創造一把至多持續存在7秒的光降之劍跟隨自己。\n光降之劍在持續期間內會提高優菈本身的抗打斷能力，並在優菈自己的普通攻擊、元素戰技或元素爆發對敵人造成傷害時，為光降之劍積蓄能量。每0.1秒只能積蓄一層能量。\n持續時間結束後，光降之劍會降下並猛烈爆發，對周圍的敵人造成物理傷害。\n此傷害受益於光降之劍積蓄的能量層數。\n優菈退場時，光降之劍會立即爆發。\n\n<i>沉淪是很容易的事情。儘管如此，她仍想要凍結住這股潮流。</i>",
+      "jp": "大剣を力強く振り、周囲の敵に<color=#99FFFFFF>氷元素ダメージ</color>を与え、7秒間自身に付き従う光臨の剣を創造する。\n光臨の剣の継続時間中、エウルアは中断耐性がアップする。また、通常攻撃、元素スキルまたは元素爆発が敵にダメージを与えた時、光臨の剣にエネルギーが蓄積される。エネルギーは0.1秒につき、1つのみ溜めることが可能。\n継続時間終了後、光臨の剣は爆発し周囲の敵に物理ダメージを与える。\nこのダメージは光臨の剣に蓄積されたエネルギー量によって決まる。\nエウルアが退場した時、光臨の剣は直ちに爆発する。\n\n<i>落ちぶれるのは簡単なこと。それでもなお、彼女はこの潮流を凍結させ、止めようとする。</i>",
+      "ko": "맹렬하게 대검을 휘둘러 주변의 적에게 <color=#99FFFFFF>얼음 원소 피해</color>를 주며, 유라를 따르는 빛의 검을 만들어 낸다. 빛의 검 지속 시간: 최대 7초.\n지속 시간 동안 빛의 검은 유라의 경직 저항력을 높이고, 유라가 일반 공격, 원소전투 스킬 혹은 원소폭발로 적에게 피해를 줄 때 빛의 검 에너지가 쌓인다. 에너지는 0.1초마다 1스택만 쌓인다.\n지속 시간이 끝나면 빛의 검은 추락한 뒤 폭발해 주변의 적에게 물리 피해를 준다.\n해당 피해는 현재 쌓인 빛의 검의 에너지 스택에 의해 결정된다.\n유라가 퇴장할 때 빛의 검은 바로 폭발한다.\n\n<i>몰락하는 건 아주 쉬운 일이지만, 그럼에도 그녀는 이 격류를 얼리고 싶어 한다</i>",
+      "en": "Brandishes her greatsword, dealing <color=#99FFFFFF>Cryo DMG</color> to nearby opponents and creating a Lightfall Sword that follows her around for a duration of up to 7s.\nWhile present, the Lightfall Sword increases Eula's resistance to interruption. When Eula's own Normal Attack, Elemental Skill, and Elemental Burst deal DMG to opponents, they will charge the Lightfall Sword, which can gain an energy stack once every 0.1s.\nOnce its duration ends, the Lightfall Sword will descend and explode violently, dealing Physical DMG to nearby opponents.\nThis DMG scales on the number of energy stacks the Lightfall Sword has accumulated.\nIf Eula leaves the field, the Lightfall Sword will explode immediately.\n\n<i>It is easy to sink. But even so, she desires to freeze this oncoming tide.</i>",
+      "de": "Schwingt das Schwert mit großer Wucht, fügt den Gegnern in der Umgebung <color=#99FFFFFF>Kryo-Schaden</color> zu und erstellt dabei ein Schwert des Lichtfalls, das Eula folgt und bis zu 7 Sekunden existiert.\nDas Schwert des Lichtfalls erhöht innerhalb der Wirkungsdauer Eulas Unterbrechungs-WDS und lädt beim Verursachen von Schaden bei Gegnern mit Eulas Standardangriff, Elementarfähigkeit oder Spezialfähigkeit Energie auf, nur 1 neue Stapelung in 0,1 s.\nSobald die Dauer abgelaufen ist, fällt das Schwert herunter, explodiert und fügt den Gegnern in der Umgebung physischen Schaden zu.\nDer Schaden ist von der gestapelten Energie des Schwerts des Lichtfalls abhängig.\nWenn Eula ausgewechselt wird, explodiert das Schwert des Lichtfalls sofort.\n\n<i>Mit dem Sinken verhält es sich wie mit der Schwerkraft. Trotzdem will sie auf Biegen und Brechen die Strömung einfrieren.</i>",
+      "es": "Blande ferozmente su gran espada para infligir <color=#99FFFFFF>Daño Cryo</color> a los enemigos cercanos y crear una espada luminosa que sigue a Eula durante un máximo de 7 s.\nMientras dure, la espada luminosa aumentará la RES a interrupción de Eula e irá acumulando energía cuando inflija daño a los enemigos con sus propios Ataques Normales, su Habilidad Elemental o su Habilidad Definitiva. Solo se puede acumular una carga de energía cada 0.1 s.\nAl terminar su duración, la espada descenderá y estallará violentamente, infligiendo Daño Físico a los enemigos cercanos.\nEste daño aumentará en función de las cargas de energía acumuladas en la espada.\nCuando Eula se retire del combate, la espada luminosa estallará inmediatamente.\n\n<i>Hundirse es algo muy sencillo. Sin embargo, Eula prefiere congelar la marea que se aproxima.</i>",
+      "fr": "Eula brandit son épée avec fureur, infligeant des <color=#99FFFFFF>DGT Cryo</color> aux ennemis proches, et crée une épée de lumière qui la suit pendant 7 s max.\nTant qu'elle est active, l'épée de lumière augmente la RÉS à l'interruption d'Eula. Lorsqu'Eula inflige des DGT à des ennemis avec son attaque normale, sa compétence ou son déchaînement élémentaire, elle accumule des charges d'énergie pour l'épée de lumière. Une charge d'énergie peut être cumulée toutes les 0,1 s.\nLorsque la durée de l'épée de lumière est écoulée, elle explose violemment, infligeant des DGT physiques aux ennemis proches.\nCes DGT augmentent en fonction du nombre de charges d'énergie accumulées.\nL'épée explose immédiatement lorsqu'Eula quitte le champ de bataille.\n\n<i>Le naufrage est facile. Et pourtant, Eula insiste pour figer cette marée.</i>",
+      "pt": "Eula brande seu Espadão, causando <color=#99FFFFFF>Dano Cryo</color> a oponentes próximos e criando uma Espada Luminosa que a segue por uma duração de até 7s.\nEnquanto estiver presente, a Espada Luminosa aumenta a Resistência Contra Interrupção de Eula. Quando os Ataques Normais, Habilidades Elementais e Supremos de Eula causam Dano aos inimigos, eles carregarão a Espada Luminosa, que pode ganhar uma carga de energia a cada 0.1s.\nQuando sua duração encerrar, a Espada Luminosa cairá e explodirá, causando Dano Físico a inimigos próximos.\nEsse Dano escala baseado no número de cargas de energia que a Espada Luminosa acumulou.\nSe Eula sair de campo, a Espada Luminosa explodirá imediatamente.\n\n<i>É fácil afundar. Mas ainda assim, ela deseja congelar essa maré que está vindo.</i>",
+      "ru": "Эола яростно взмахивает мечом, нанося окружающим врагам <color=#99FFFFFF>Крио урон</color> и создавая Меч света, который следует за ней до 7 сек.\nПока Меч света существует, он повышает сопротивление прерыванию Эолы. Когда обычные атаки, элементальные навыки и взрывы стихии Эолы наносят врагам урон, Меч света получает энергию. Он может получить максимум одну единицу каждые 0,1 сек.\nКогда длительность Меча света заканчивается, он падает и взрывается, нанося врагам поблизости физический урон.\nНаносимый урон зависит от количества накопленной Мечом света энергии.\nМеч света взрывается сам при смене персонажа.\n\n<i>Утонуть - дело простое. Но она по-прежнему хочет заморозить прибой.</i>",
+      "id": "Eula mengayunkan pedang besarnya dan mengakibatkan <color=#99FFFFFF>Cryo DMG</color> terhadap musuh di sekitar, serta menciptakan Lightfall Sword yang mengikutinya selama hingga 7 detik.\nSelama aktif, Lightfall Sword akan meningkatkan ketahanan Eula terhadap interupsi. Saat Normal Attack, Elemental Skill, dan Elemental Burst Eula mengakibatkan DMG terhadap musuh, energi Lightfall Sword akan terisi. 1 lapisan energi hanya dapat terisi setiap 0,1 detik.\nSetelah durasinya berakhir, Lightfall Sword akan meledak hebat dan mengakibatkan Physical DMG terhadap musuh di sekitarnya.\nDMG ini akan meningkat sesuai dengan jumlah lapisan energi yang berhasil dikumpulkan Lightfall Sword.\nLightfall Sword akan langsung meledak saat Eula meninggalkan medan pertempuran.\n\n<i>Mudah sekali bagi seseorang untuk tenggelam dalam arus ombak. Meski begitu, Eula lebih tertantang untuk membekukan arus yang datang.</i>",
+      "th": "กวัดแกว่งดาบขนาดใหญ่อย่างรุนแรงเพื่อสร้าง<color=#99FFFFFF>ความเสียหายน้ำแข็ง</color>แก่ศัตรูที่อยู่โดยรอบ และสร้าง Lightfall Sword 1 เล่ม ที่สามารถคงอยู่ได้มากสุด 7 วินาที ออกมาติดตามตนเอง\nภายในระยะเวลาต่อเนื่อง Lightfall Sword จะเพิ่มความสามารถในการต้านทานการหยุดชะงักของตัว Eula เอง และเมื่อการโจมตีปกติ สกิลธาตุ หรือท่าไม้ตายของ Eula สร้างความเสียหายแก่ศัตรู จะสะสมพลังงานให้กับ Lightfall Sword ซึ่งทุก 0.1 วินาที จะสะสมพลังงานได้เพียงหนึ่งชั้นเท่านั้น\nหลังสิ้นสุดช่วงเวลาต่อเนื่อง Lightfall Sword จะตกลงมาและระเบิดอย่างรุนแรง สร้างความเสียหายกายภาพแก่ศัตรูที่อยู่โดยรอบ\nโดยความเสียหายนี้จะขึ้นอยู่กับชั้นพลังงานที่สะสมของ Lightfall Sword\nเมื่อ Eula ออกจากการต่อสู้ Lightfall Sword จะระเบิดโดยทันที\n\n<i>มันเป็นเรื่องง่ายที่จะจมดิ่งลงไป แต่ถึงอย่างไร เธอก็ยังคงคิดที่จะแช่แข็งกระแสน้ำที่จะมาถึงนี้</i>",
+      "vi": "Múa đại kiếm gây <color=#99FFFFFF>Sát Thương Nguyên Tố Băng</color> cho kẻ địch xung quanh, đồng thời tạo ra Kiếm Ánh Sáng đi theo bản thân, tồn tại tối đa 7 giây.\nTrong thời gian duy trì, Kiếm Ánh Sáng sẽ tăng khả năng kháng gián đoạn của Eula; Đồng thời khi Eula gây sát thương cho kẻ địch bằng đánh thường, kỹ năng nguyên tố hoặc kỹ năng nộ đều sẽ tích lũy năng lượng cho thanh kiếm. Mỗi 0.1s chỉ có thể tích tụ 1 tầng năng lượng.\nSau khi kết thúc thời gian duy trì, thanh kiếm sẽ giáng xuống và nổ mạnh, gây sát thương vật lý cho kẻ địch xung quanh.\nSát thương sẽ chịu ảnh hưởng bởi số tầng tích tụ của Kiếm Ánh Sáng.\nKhi Eula rời trận, Kiếm Ánh Sáng sẽ nổ ngay lập tức.\n\n<i>Đắm chìm là chuyện dễ dàng. Nhưng cho dù thế, cô ấy vẫn muốn đóng băng ngọn sóng đang ập đến.</i>"
+    },
+    "imgid": "s_513901"
+  },
+  {
+    "title": {
+      "zhs": "潮卷冰削",
+      "zht": "潮捲冰削",
+      "jp": "氷の残剣",
+      "ko": "소용돌이치는 서리",
+      "en": "Roiling Rime",
+      "de": "Eisschwert in brausenden Wogen",
+      "es": "Escarcha turbulenta",
+      "fr": "Maelström de glace",
+      "pt": "Geada Turbulenta",
+      "ru": "Дрожащий иней",
+      "id": "Roiling Rime",
+      "th": "Roiling Rime",
+      "vi": "Băng Cuộn Thủy Triều"
+    },
+    "description": {
+      "zhs": "长按施放<color=#FFD780FF>冰潮的涡旋</color>时，若一次性消耗了2层冷酷之心效果，则创造会立即爆发的残缺光降之剑，造成相当于<color=#FFD780FF>凝浪之光剑</color>的光降之剑基础伤害50%的物理伤害。",
+      "zht": "長按施放<color=#FFD780FF>冰潮的渦漩</color>時，若一次性消耗了二層冷酷之心效果，則創造會立即爆發的殘缺光降之劍，造成相當於<color=#FFD780FF>凝浪之光劍</color>的光降之劍基礎傷害50%的物理傷害。",
+      "jp": "長押しで<color=#FFD780FF>氷潮の渦</color>を発動した時、一度に冷酷な心を2つ消費すると、直ちに爆発する光臨の剣の欠片を創造する。光臨の剣の欠片は、<color=#FFD780FF>氷浪の光剣</color>で創造される光臨の剣の基礎ダメージ50%分の物理ダメージを与える。",
+      "ko": "홀드하여 <color=#FFD780FF>얼음 파도의 와류</color> 발동 시 한 번에 냉혹한 마음 효과를 2스택 소모하면, 즉시 폭발하는 부서진 빛의 검이 생성된다. 이는 <color=#FFD780FF>파도를 얼리는 광검</color>으로 생성된 빛의 검 기초 피해의 50%에 해당하는 물리 피해를 준다",
+      "en": "If 2 stacks of Grimheart are consumed upon unleashing the Holding Mode of <color=#FFD780FF>Icetide Vortex</color>, a Shattered Lightfall Sword will be created that will explode immediately, dealing 50% of the basic Physical DMG dealt by a Lightfall Sword created by <color=#FFD780FF>Glacial Illumination</color>.",
+      "de": "Erstellt ein fragmentarisches Schwert des Lichtfalls beim Auslösen von <color=#FFD780FF>Eisiger Strudel</color> durch Gedrückthalten, sobald 2 Stapelungen von dem Effekt Kaltes Herz auf einmal verbraucht werden, und verursacht physischen Schaden in Höhe von 50 % des Basis-SCH, der durch das Schwert des Lichtfalls von <color=#FFD780FF>Schwert der Brandung</color> verursacht wird.",
+      "es": "Si, al mantener pulsado <color=#FFD780FF>Vórtice helado</color>, se consumen de una vez las 2 cargas de corazón impasible, se creará un fragmento de espada luminosa que estallará inmediatamente, infligiendo Daño Físico en una cantidad equivalente al 50% del daño básico de la espada luminosa de <color=#FFD780FF>Fulgor glacial</color>.",
+      "fr": "Lorsque vous consommez 2 charges de Cœur de glace lors de l'appui long de <color=#FFD780FF>Vortex des mers glacées</color>, une brève épée de lumière est créée. Cette dernière explose immédiatement, infligeant des DGT physiques équivalant à 50 % des DGT de base de <color=#FFD780FF>Lame de fond</color>.",
+      "pt": "Se quando você mantiver pressionado para liberar o <color=#FFD780FF>Vórtice Gelado</color> e consumir 2 acúmulos de Corações Impassíveis de uma vez, criará uma Espada Luminosa fragmentada que explodirá imediatamente, causando Dano Físico em quantidade equivalente a 50% do Dano Básico da Espada Luminosa da <color=#FFD780FF>Espada das Ondas Congelantes</color>.",
+      "ru": "Если при долгом нажатии навыка <color=#FFD780FF>Ледяной прибой</color> за раз тратится два уровня Холодного сердца, то появляется сломанный Меч света, который тут же взрывается и в виде физического урона наносит 50% от базового урона Меча света, создаваемого <color=#FFD780FF>Сумеречным мечом</color>.",
+      "id": "Jika 2 lapis Grimheart dikonsumsi saat menggunakan Mode Tahan dari <color=#FFD780FF>Icetide Vortex</color>, sebuah Shattered Lightfall Sword akan terbentuk dan langsung meledak, mengakibatkan Physical DMG sebesar 50% dari DMG dasar Lightfall Sword yang terbentuk dari skill <color=#FFD780FF>Glacial Illumination</color>.",
+      "th": "#เมื่อ{LAYOUT_MOBILE#แตะค้าง}{LAYOUT_PC#กดค้าง}{LAYOUT_PS#กดค้าง}เพื่อปล่อย <color=#FFD780FF>Icetide Vortex</color> หากใช้เอฟเฟกต์ Grimheart 2 ชั้น ในครั้งเดียว จะสร้าง Shattered Lightfall Sword ที่สามารถระเบิดได้ทันที โดยจะทำให้เกิดความเสียหายกายภาพเทียบเท่ากับ 50% ของความเสียหายพื้นฐานจาก Lightfall Sword ของ <color=#FFD780FF>Glacial Illumination</color>",
+      "vi": "Khi nhấn giữ thi triển <color=#FFD780FF>Lốc Xoáy Băng Hàn</color>, nếu tiêu hao cùng một lúc 2 tầng hiệu quả Trái Tim Băng Giá, sẽ tạo ra Kiếm Ánh Sáng và phát nổ ngay lập tức, gây sát thương vật lý tương đương với 50% sát thương cơ bản Kiếm Ánh Sáng của <color=#FFD780FF>Thanh Kiếm Sóng Nước</color>."
+    },
+    "imgid": "p_512101"
+  },
+  {
+    "title": {
+      "zhs": "战欲涌现",
+      "zht": "戰慾湧現",
+      "jp": "戦意の表れ",
+      "ko": "솟구치는 전투의 욕망",
+      "en": "Wellspring of War-Lust",
+      "de": "Sprudelnde Kampflust",
+      "es": "Ansia de guerra",
+      "fr": "Esprit belligérant",
+      "pt": "Desejo de Lutar",
+      "ru": "Прилив войны",
+      "id": "Wellspring of War-Lust",
+      "th": "Wellspring of War-Lust",
+      "vi": "Lòng Hiếu Chiến Trỗi Dậy"
+    },
+    "description": {
+      "zhs": "施放<color=#FFD780FF>凝浪之光剑</color>时，重置<color=#FFD780FF>冰潮的涡旋</color>的冷却时间，并为优菈赋予一层冷酷之心效果。",
+      "zht": "施放<color=#FFD780FF>凝浪之光劍</color>時，重置<color=#FFD780FF>冰潮的渦漩</color>的冷卻時間，並為優菈賦予一層冷酷之心效果。",
+      "jp": "<color=#FFD780FF>氷浪の光剣</color>を発動した時、<color=#FFD780FF>氷潮の渦</color>のクールタイムがリセットされ、冷酷な心を1つ獲得する。",
+      "ko": "<color=#FFD780FF>파도를 얼리는 광검</color> 발동 시, <color=#FFD780FF>얼음 파도의 와류</color>의 재사용 대기시간이 초기화되고 유라에게 냉혹한 마음 효과를 1스택 부여한다",
+      "en": "When <color=#FFD780FF>Glacial Illumination</color> is cast, the CD of <color=#FFD780FF>Icetide Vortex</color> is reset and Eula gains 1 stack of Grimheart.",
+      "de": "Überspringt beim Auslösen von <color=#FFD780FF>Schwert der Brandung</color> die Abklingzeit von <color=#FFD780FF>Eisiger Strudel</color> und gibt Eula eine Stapelung des Effekts Kaltes Herz.",
+      "es": "Usar <color=#FFD780FF>Fulgor glacial</color> reinicia el TdE de <color=#FFD780FF>Vórtice helado</color> y otorga a Eula una carga de corazón impasible.",
+      "fr": "Le TdR de <color=#FFD780FF>Vortex des mers glacées</color> est réinitialisé lors de l'utilisation de <color=#FFD780FF>Lame de fond</color>, et Eula obtient une charge de Cœur de glace.",
+      "pt": "Quando a <color=#FFD780FF>Espada das Ondas Congeladas</color> é lançada, a Recarga do <color=#FFD780FF>Vórtice Gelado</color> é redefinida e Eula ganha 1 acúmulo de Coração Impassível.",
+      "ru": "Использование <color=#FFD780FF>Сумеречного меча</color> сбрасывает откат <color=#FFD780FF>Ледяного прибоя</color> и даёт Эоле один уровень Холодного сердца.",
+      "id": "Menggunakan <color=#FFD780FF>Glacial Illumination</color> akan langsung menyelesaikan CD <color=#FFD780FF>Icetide Vortex</color> dan memberikan Eula satu lapis Grimheart.",
+      "th": "เมื่อใช้ <color=#FFD780FF>Glacial Illumination</color> จะรีเซ็ตช่วงเวลาคูลดาวน์ของ <color=#FFD780FF>Icetide Vortex</color> และมอบเอฟเฟกต์ Grimheart ให้แก่ Eula หนึ่งชั้น",
+      "vi": "Khi dùng <color=#FFD780FF>Thanh Kiếm Sóng Nước</color> sẽ làm mới CD của <color=#FFD780FF>Lốc Xoáy Băng Hàn</color>, đồng thời cung cấp cho Eula 1 tầng hiệu ứng Trái Tim Băng Giá."
+    },
+    "imgid": "p_512201"
+  },
+  {
+    "title": {
+      "zhs": "贵族的自省",
+      "zht": "貴族的自省",
+      "jp": "貴族の省察",
+      "ko": "귀족의 자아성찰",
+      "en": "Aristocratic Introspection",
+      "de": "Selbstreflexion der Aristokraten",
+      "es": "Introspección aristocrática",
+      "fr": "Gratification aristocratique",
+      "pt": "Introspecção Aristocrática",
+      "ru": "Рефлексия аристократа",
+      "id": "Aristocratic Introspection",
+      "th": "Aristocratic Introspection",
+      "vi": "Nội Tâm Quý Tộc"
+    },
+    "description": {
+      "zhs": "合成角色天赋素材时，有10%概率获得2倍产出。",
+      "zht": "合成角色天賦素材時，有10%機率獲得兩倍產出。",
+      "jp": "キャラクター天賦素材を合成する時、10%の確率でアイテムを2倍獲得する。",
+      "ko": "캐릭터 특성 소재 합성 시 10%의 확률로 생산량의 2배를 획득한다",
+      "en": "When Eula crafts Character Talent Materials, she has a 10% chance to receive double the product.",
+      "de": "Stellt beim Zusammensetzen von Material für Figurentalente mit einer Wahrscheinlichkeit von 10 % den 2-fachen Ertrag her.",
+      "es": "Al crear materiales de talento de personaje, hay una probabilidad del 10% de recibir el doble.",
+      "fr": "10 % de chances d'obtenir le double de produits lors de la synthèse de matériaux d'aptitude de personnage.",
+      "pt": "Quando sintetiza Materiais para aprimoramento de Talento do Personagem, tem uma chance de 10% de obter o dobro da Produção.",
+      "ru": "При создании материалов повышения талантов персонажей есть 10% шанс создать дополнительный предмет.",
+      "id": "Saat membuat Material Talenta Karakter, Eula memiliki 10% kemungkinan untuk mendapatkan hasil 2 kali lipat.",
+      "th": "เมื่อสร้างวัสดุพรสวรรค์ของตัวละคร จะมีโอกาส 10% ที่จะได้รับผลผลิตเพิ่มเป็น 2 เท่า",
+      "vi": "Khi ghép nguyên liệu thiên phú nhân vật, có 10% nhận được x2 thành phẩm."
+    },
+    "imgid": "p_512301"
+  }
+]

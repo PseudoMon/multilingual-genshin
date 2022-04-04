@@ -1,0 +1,200 @@
+[
+  {
+    "title": {
+      "zhs": "普通攻击·仪典剑术",
+      "zht": "普通攻擊·儀典劍術",
+      "jp": "通常攻撃·儀典の剣術",
+      "ko": "일반 공격·의전 검술",
+      "en": "Normal Attack: Ceremonial Bladework",
+      "de": "Standardangriff: Rituelle Schwertkunst",
+      "es": "Ataque Normal: Técnica de espada ceremonial",
+      "fr": "Attaque normale : Passe d'armes",
+      "pt": "Ataque Normal: Lâmina Cerimonial",
+      "ru": "Ритуальное фехтование",
+      "id": "Ceremonial Bladework",
+      "th": "โจมตีปกติ - Ceremonial Bladework",
+      "vi": "Tấn Công Thường: Nghi Lễ Kiếm Thuật"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>普通攻击</color>\n进行至多五段的连续剑击。\n\n<color=#FFD780FF>重击</color>\n消耗一定体力，瞬间向前方挥出两剑。\n\n<color=#FFD780FF>下落攻击</color>\n从空中下坠冲击地面，攻击下落路径上的敌人，并在落地时造成范围伤害。",
+      "zht": "<color=#FFD780FF>普通攻擊</color>\n進行至多五段的連續劍擊。\n\n<color=#FFD780FF>重擊</color>\n消耗一定體力，瞬間向前方揮出兩劍。\n\n<color=#FFD780FF>下落攻擊</color>\n從空中下墜衝擊地面，攻擊下落路徑上的敵人，並在落地時造成範圍傷害。",
+      "jp": "<color=#FFD780FF>通常攻撃</color>\n剣による最大5段の連続攻撃を行う。\n\n<color=#FFD780FF>重撃</color>\n一定のスタミナを消費し、前方に斬撃を2回放つ。\n\n<color=#FFD780FF>落下攻撃</color>\n空中から落下し地面に衝撃を与える。経路上の敵を攻撃し、落下時に範囲ダメージを与える。",
+      "ko": "<color=#FFD780FF>일반 공격</color>\n검으로 최대 5번 공격한다.\n\n<color=#FFD780FF>강공격</color>\n일정 스태미나를 소모해 순간적으로 전방을 향해 검을 2번 휘두른다.\n\n<color=#FFD780FF>낙하 공격</color>\n공중에서 땅을 내려찍어 경로상의 적을 공격하고, 착지 시 범위 피해를 준다",
+      "en": "<color=#FFD780FF>Normal Attack</color>\nPerform up to 5 rapid strikes.\n\n<color=#FFD780FF>Charged Attack</color>\nConsumes a certain amount of Stamina to unleash 2 rapid sword strikes.\n\n<color=#FFD780FF>Plunging Attack</color>\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+      "de": "<color=#FFD780FF>Standardangriff</color>\nFührt bis zu 5 Schwerthiebe hintereinander aus.\n\n<color=#FFD780FF>Heftiger Schlag</color>\nVerbraucht eine gewisse Menge Ausdauer und schwingt das Schwert zweimal schnell nach vorn.\n\n<color=#FFD780FF>Angriff aus dem Fall</color>\nSchlägt beim Fallen aus der Luft auf den Boden, greift alle Gegner in der Bahn an und verursacht beim Aufkommen Flächenschaden.",
+      "es": "<color=#FFD780FF>Ataque Normal</color>\nRealiza hasta 5 ataques rápidos.\n\n<color=#FFD780FF>Ataque Cargado</color>\nConsume una cierta cantidad de Aguante para lanzar un golpe de espada cruzado.\n\n<color=#FFD780FF>Ataque Descendente</color>\nSe lanza desde el aire para golpear el suelo, dañando a los enemigos cercanos e infligiendo Daño en el AdE en el momento del impacto.",
+      "fr": "<color=#FFD780FF>Attaque normale</color>\nEnchaîne jusqu'à 5 coups d'épée.\n\n<color=#FFD780FF>Attaque chargée</color>\nConsomme de l'endurance pour déclencher deux coups d'épée rapides.\n\n<color=#FFD780FF>Attaque plongeante</color>\nPlonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis en chemin et des DGT de zone à l'impact.",
+      "pt": "<color=#FFD780FF>Ataque Normal</color>\nRealiza até 5 golpes rápidos.\n\n<color=#FFD780FF>Ataque Carregado</color>\nConsome uma certa quantidade de Stamina para desferir 2 golpes rápidos com a espada.\n\n<color=#FFD780FF>Ataque Imersivo</color>\nMergulha em pleno ar para golpear o chão, causando dano aos inimigos ao longo do caminho e infligindo Dano em uma AdE durante o impacto.",
+      "ru": "<color=#FFD780FF>Обычная атака:</color>\nДо пяти быстрых ударов мечом.\n\n<color=#FFD780FF>Заряженная атака:</color>\nДва быстрых взмаха мечом, для которых тратится определённое количество выносливости.\n\n<color=#FFD780FF>Атака в падении:</color>\nСтремительно падает на землю, атакуя всех врагов на пути. Приземлившись, наносит урон по площади.",
+      "id": "<color=#FFD780FF>Normal Attack</color>\nMelancarkan hingga 5 serangan berturut-turut.\n\n<color=#FFD780FF>Charged Attack</color>\nMengonsumsi sejumlah Stamina untuk melancarkan dua tebasan pedang.\n\n<color=#FFD780FF>Plunging Attack</color>\nMenerjang dari udara untuk menghantam tanah, mengakibatkan DMG pada musuh di jalur terjangan dan mengakibatkan DMG area saat mendarat.",
+      "th": "<color=#FFD780FF>โจมตีปกติ</color>\nโจมตีด้วยดาบต่อเนื่องมากสุดห้าครั้ง\n\n<color=#FFD780FF>ชาร์จโจมตี</color>\nใช้พลังกายส่วนหนึ่งเพื่อปลดปล่อยดาบ ออกไปข้างหน้าสองเล่มในช่วงเวลาสั้น ๆ\n\n<color=#FFD780FF>โจมตีพุ่งลงจากอากาศ</color>\nกระโจนจากกลางอากาศลงมายังพื้นดิน เพื่อโจมตีศัตรูที่อยู่ในเส้นทางการโจมตี โดยจะสร้างความเสียหายวงกว้างเมื่อลงถึงพื้น",
+      "vi": "<color=#FFD780FF>Tấn Công Thường</color>\nThực hiện tối đa 5 lần đánh kiếm liên tiếp.\n\n<color=#FFD780FF>Trọng Kích</color>\nTiêu hao thể lực nhất định, đánh ra hai kiếm về phía trước trong chớp mắt.\n\n<color=#FFD780FF>Tấn Công Khi Đáp</color>\nĐáp xuống đất từ trên không, tấn công kẻ địch trên đường và gây sát thương phạm vi khi chạm đất."
+    },
+    "imgid": "s_153101"
+  },
+  {
+    "title": {
+      "zhs": "霜袭",
+      "zht": "霜襲",
+      "jp": "霜の襲撃",
+      "ko": "서리 엄습",
+      "en": "Frostgnaw",
+      "de": "Kälteatem",
+      "es": "Golpe de escarcha",
+      "fr": "Attaque givrée",
+      "pt": "Mordida Congelante",
+      "ru": "Выпад холода",
+      "id": "Frostgnaw",
+      "th": "Frostgnaw",
+      "vi": "Tuyết Tập Kích"
+    },
+    "description": {
+      "zhs": "瞬间放出急冻的寒气，对前方的敌人造成<color=#99FFFFFF>冰元素伤害</color>。\n\n<i>看上去如此亲切的凯亚，是谁也无法融化的坚冰。</i>",
+      "zht": "瞬間放出急凍的寒氣，對前方的敵人造成<color=#99FFFFFF>冰元素傷害</color>。\n\n<i>看起來如此親切的凱亞，是誰也無法融化的堅冰。</i>",
+      "jp": "急速に凍結する寒気を放ち、前方の敵に<color=#99FFFFFF>氷元素ダメージ</color>を与える。\n\n<i>優しくて親切なガイアだが、本当は誰にも溶かすことができない固い氷である。</i>",
+      "ko": "얼어붙는듯한 냉기를 방출해 전방의 적에게 <color=#99FFFFFF>얼음 원소 피해</color>를 준다.\n\n<i>보기에는 친절한 케이아지만 그 누구도 녹일 수 없는 단단하고 두꺼운 얼음이기도 하다</i>",
+      "en": "Unleashes a frigid blast, dealing <color=#99FFFFFF>Cryo DMG</color> to opponents in front of Kaeya.\n\n<i>Kaeya seems affable, but his nature is that of unyielding ice.</i>",
+      "de": "Verströmt augenblicklich eisige Kälte und fügt gegenüberstehenden Gegnern <color=#99FFFFFF>Kryo-Schaden</color> zu.\n\n<i>Kaeya ist, obwohl er so freundlich erscheint, ein nicht schmelzen wollender Eisblock.</i>",
+      "es": "Lanza una ráfaga gélida que inflige <color=#99FFFFFF>Daño Cryo</color> a los enemigos frente a Kaeya.\n\n<i>Kaeya parece amable, pero su naturaleza es la del hielo inderretible.</i>",
+      "fr": "Libère un blizzard gelant qui inflige des <color=#99FFFFFF>DGT Cryo</color> aux ennemis en face.\n\n<i>Qui serait capable de faire fondre la glace qui se cache derrière ce masque aimable...</i>",
+      "pt": "Lança uma explosão gélida, infligindo <color=#99FFFFFF>Dano Cryo</color> aos inimigos em frente ao Kaeya.\n\n<i>Kaeya parece afável, mas sua natureza é a do gelo inflexível.</i>",
+      "ru": "Совершает выпад холода, который наносит <color=#99FFFFFF>Крио урон</color> врагам впереди.\n\n<i>Кэйа кажется тёплым человеком, однако его характер словно нетающий лёд.</i>",
+      "id": "Mengerahkan sebuah ledakan dingin yang mengakibatkan <color=#99FFFFFF>Cryo DMG</color> ke musuh di depan Kaeya.\n\n<i>Kaeya tampaknya ramah, tapi sifatnya seperti es tak dapat dicairkan.</i>",
+      "th": "ปล่อยไอเย็นจัดออกมาอย่างรวดเร็ว เพื่อสร้าง <color=#99FFFFFF>ความเสียหายน้ำแข็ง</color> แก่ศัตรูที่อยู่ข้างหน้า\n\n<i>ดูเหมือนจะเป็นคนกันเองแต่ Kaeya นั้นกลับเป็นคนที่เข้าหาได้ยาก</i>",
+      "vi": "Nhanh chóng tỏa ra khí lạnh, gây cho địch phía trước <color=#99FFFFFF>Sát Thương Nguyên Tố Băng</color>.\n\n<i>Người có vẻ ngoài thân thiện như Kaeya lại là khối băng kiên cố không ai có thể làm tan chảy.</i>"
+    },
+    "imgid": "s_153201"
+  },
+  {
+    "title": {
+      "zhs": "凛冽轮舞",
+      "zht": "凜冽輪舞",
+      "jp": "凛冽なる輪舞",
+      "ko": "살을 에는 윤무",
+      "en": "Glacial Waltz",
+      "de": "Kreis aus Eis",
+      "es": "Vals gélido",
+      "fr": "Valse glaciale",
+      "pt": "Valsa Glacial",
+      "ru": "Ледниковый вальс",
+      "id": "Glacial Waltz",
+      "th": "Glacial Waltz",
+      "vi": "Vũ Điệu Băng Giá"
+    },
+    "description": {
+      "zhs": "凝聚空气中的寒霜，召唤3枚围绕自身旋转的寒冰之棱。\n存在期间内，寒冰之棱会跟随角色运动，对路径上的敌人造成<color=#99FFFFFF>冰元素伤害</color>。\n\n<i>亲切的笑容、和善的话语，和潜藏在这两者之下的毫不留情的冰霜，都是凯亚的武器。</i>",
+      "zht": "凝聚空氣中的寒霜，召喚三枚圍繞自身旋轉的寒冰之凌。\n存在期間內，寒冰之冰凌會跟隨角色行動，對路徑上的敵人造成<color=#99FFFFFF>冰元素傷害</color>。\n\n<i>親切的笑容、和善的話語，和潛藏在這兩者之下的毫不留情的冰霜，都是凱亞的武器。</i>",
+      "jp": "空気中の霜を凝集させ、自身を囲む氷柱を3本召喚する。\nスキル継続中、氷柱はキャラクターと共に動き、経路上の敵に<color=#99FFFFFF>氷元素ダメージ</color>を与える。\n\n<i>親切な笑顔と優しい言葉、そしてその二つに隠された無情の氷霜、それらは全てガイアの武器である。</i>",
+      "ko": "공기 중의 서리를 모아 자신의 주위를 도는 3개의 얼음 기둥을 소환한다.\n얼음 기둥이 존재하는 동안 캐릭터를 따라 이동하고 경로상의 적에게 <color=#99FFFFFF>얼음 원소 피해</color>를 준다.\n\n<i>친절한 미소와 상냥한 말, 그리고 이 둘 아래에 잠재되어 있는 가차없는 차가움. 이 모든 것들이 케이아의 무기이다</i>",
+      "en": "Coalescing the frost in the air, Kaeya summons 3 icicles that revolve around him.\nThese icicles will follow the character around and deal <color=#99FFFFFF>Cryo DMG</color> to opponents in their path for the ability's duration.\n\n<i>A winsome smile, genial words, and the merciless hoarfrost that lies beneath... These are all Kaeya's weapons.</i>",
+      "de": "Konzentriert den Frost in der Luft und erschafft 3 Eiszapfen, die die Figur umkreisen.\nDie Eiszapfen folgen den Bewegungen der Figur und fügen den Gegnern in ihrer Bahn <color=#99FFFFFF>Kryo-Schaden</color> zu.\n\n<i>Ein freundliches Lächeln und nette Worte verbergen Kaeyas unerbittliche Kälte und sind damit seine stärksten Waffen.</i>",
+      "es": "Al condensar la escarcha en el aire, Kaeya invoca 3 carámbanos que giran a su alrededor.\nEstos carámbanos seguirán al personaje e infligirán <color=#99FFFFFF>Daño Cryo</color> a los enemigos que se atraviesen.\n\n<i>Una sonrisa encantadora, palabras bondadosas y la despiadada escarcha que yace oculta... Esas son las armas de Kaeya.</i>",
+      "fr": "Kaeya condense les particules dans l'air pour invoquer 3 stalactites tournoyantes.\nLes stalactites suivent le personnage, et infligent des <color=#99FFFFFF>DGT Cryo</color> aux ennemis sur leur route.\n\n<i>Ses dehors souriants, son ton agréable, et la glace qu'ils cachent : voici les armes de Kaeya.</i>",
+      "pt": "Coalescendo a geada no ar, Kaeya invoca 3 pontas de gelo que giram em torno dele.\nEsses pingentes seguirão o personagem e causarão <color=#99FFFFFF>Dano Cryo</color> aos inimigos em seu caminho enquanto eles persistirem.\n\n<i>Um sorriso encantador, palavras gentis e a geada implacável que se esconde... Essas são todas as armas de Kaeya.</i>",
+      "ru": "Собрав остатки инея из утреннего воздуха, Кэйа создаёт три вращающиеся вокруг него льдинки.\nОни следуют за активным персонажем и наносят <color=#99FFFFFF>Крио урон</color> врагам, которых касаются.\n\n<i>Обворожительная улыбка, остроумные комментарии и скрытый глубоко жестокий иней... Всё это оружие Кэйи.</i>",
+      "id": "Dengan menggabungkan es di udara, Kaeya membuat 3 pilar es di sekitar dia.\nPilar-pilar ini akan mengikuti karakter dan mengakibatkan <color=#99FFFFFF>Cryo DMG</color> ke musuh di jalurnya.\n\n<i>Senyum yang menawan, kata-kata ramah, dan embun beku tanpa ampun yang berada di balik itu semua... ini semua adalah senjata Kaeya.</i>",
+      "th": "ควบแน่นน้ำแข็งขึ้นในอากาศ เรียกคมมีดน้ำแข็ง 3 เล่ม ออกมาหมุนรอบตัวเอง\nภายในช่วงเวลาคงอยู่ คมมีดน้ำแข็งจะเคลื่อนที่ตามตัวละคร ไปทุกที่และสร้าง <color=#99FFFFFF>ความเสียหายน้ำแข็ง</color> แก่ศัตรูที่อยู่ในเส้นทาง\n\n<i>การหัวเราะระรื่น, คำพูดที่ไพเราะ และความเยือกเย็นที่ถูกซ่อนอยู่ภายใน ทั้งหมดนั้นคืออาวุธของ Kaeya</i>",
+      "vi": "Ngưng tự sương lạnh trong không khí, triệu hồi 3 nhũ băng lạnh giá xoay quanh người.\nTrong thời gian tồn tại, nhũ băng lạnh giá sẽ chuyển động theo nhân vật, gây cho địch trên đường <color=#99FFFFFF>Sát Thương Nguyên Tố Băng</color>.\n\n<i>Ẩn giấu dưới nụ cười thân thiện, lời nói hòa nhã, lại là sự băng giá vô tình, tất cả đều là vũ khí của Kaeya.</i>"
+    },
+    "imgid": "s_153901"
+  },
+  {
+    "title": {
+      "zhs": "冷血之剑",
+      "zht": "冷血之劍",
+      "jp": "冷血の剣",
+      "ko": "냉혈의 검",
+      "en": "Cold-Blooded Strike",
+      "de": "Grausames Schwert",
+      "es": "Espada de sangre fría",
+      "fr": "Épée de la cruauté",
+      "pt": "Espada do Sangue Frio",
+      "ru": "Клинок холодной крови",
+      "id": "Cold-Blooded Strike",
+      "th": "Cold-Blooded Strike",
+      "vi": "Lãnh Huyết Kiếm"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>霜袭</color>每击中一个单位，便为凯亚恢复等同于攻击力15%的生命值。",
+      "zht": "<color=#FFD780FF>霜襲</color>每擊中一個單位，便為凱亞恢復等同於攻擊力15%的生命值。",
+      "jp": "<color=#FFD780FF>霜の襲撃</color>が敵1体に命中する度、攻撃力15%分のHPを回復する。",
+      "ko": "<color=#FFD780FF>서리 엄습</color>이 적 1기에 명중할 때마다 케이아의 HP를 공격력의 15%만큼 회복한다",
+      "en": "Every hit with <color=#FFD780FF>Frostgnaw</color> regenerates HP for Kaeya equal to 15% of his ATK.",
+      "de": "Stellt Kaeya für jeden Treffer mit <color=#FFD780FF>Kälteatem</color> LP in Höhe von 15 % ANG wieder her.",
+      "es": "Al atacar a un enemigo con <color=#FFD780FF>Golpe de escarcha</color>, Kaeya restaura su Vida una cantidad equivalente al 15% de su ATQ.",
+      "fr": "Chaque fois qu'<color=#FFD780FF>Attaque givrée</color> touche un ennemi, Kaeya récupère une quantité de PV équivalant à 15 % de son ATQ.",
+      "pt": "Cada golpe com <color=#FFD780FF>Mordida Congelante</color> regenera a Vida de Kaeya equivalente a 15% do seu ATQ.",
+      "ru": "Каждое попадание навыком <color=#FFD780FF>Выпад холода</color> восстанавливает Кэйе HP в размере 15% от силы атаки.",
+      "id": "Setiap kali skill <color=#FFD780FF>Frostgnaw</color> mengenai satu musuh, memulihkan HP Kaeya sebesar 15% ATK.",
+      "th": "<color=#FFD780FF>Frostgnaw</color> แต่ละครั้งที่โดน Kaeya จะฟื้นฟูพลังชีวิต 15% ของพลังโจมตี",
+      "vi": "<color=#FFD780FF>Tuyết Tập Kích</color> mỗi khi đánh trúng 1 đơn vị, sẽ hồi phục HP cho Kaeya tương đương 15% lực tấn công."
+    },
+    "imgid": "p_152101"
+  },
+  {
+    "title": {
+      "zhs": "冰渊之心",
+      "zht": "冰淵之心",
+      "jp": "氷淵の心",
+      "ko": "빙연의 마음",
+      "en": "Glacial Heart",
+      "de": "Eiskaltes Herz",
+      "es": "Corazón glacial",
+      "fr": "Cœur de l'Abîme glacial",
+      "pt": "Coração Glacial",
+      "ru": "Ледниковое сердце",
+      "id": "Glacial Heart",
+      "th": "Glacial Heart",
+      "vi": "Trái Tim Vực Băng"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>霜袭</color>使敌人<color=#99FFFFFF>冻结</color>时，被冻结的敌人会掉落额外的元素微粒。\n一次霜袭至多因此产生2个额外元素微粒。",
+      "zht": "<color=#FFD780FF>霜襲</color>使敵人<color=#99FFFFFF>凍結</color>時，被凍結的敵人會掉落額外的元素微粒。\n一次霜襲至多因此產生2個額外元素微粒。",
+      "jp": "<color=#FFD780FF>霜の襲撃</color>が敵を<color=#99FFFFFF>凍結</color>状態にした場合、凍結された敵から追加の元素粒子が落ちる。\n1回の霜襲は2つの元素粒子が追加で発生する。",
+      "ko": "<color=#FFD780FF>서리 엄습</color>이 적을 <color=#99FFFFFF>빙결</color>시키면 얼어붙은 적은 원소 입자를 추가로 드랍한다.\n서리 엄습 1회로 최대 2개의 원소 입자가 추가로 드랍한다",
+      "en": "Opponents <color=#99FFFFFF>Frozen</color> by <color=#FFD780FF>Frostgnaw</color> will drop additional Elemental Particles.\nFrostgnaw may only produce a maximum of 2 additional Elemental Particles per use.",
+      "de": "Erschafft für jeden durch <color=#FFD780FF>Kälteatem</color> vom Zustand <color=#99FFFFFF>Gefroren</color> betroffenen Gegner 1 zusätzliches Elementarteilchen.\nErschafft auf diese Weise durch Kälteatem insgesamt bis zu 2 zusätzliche Elementarteilchen.",
+      "es": "Cuando <color=#FFD780FF>Golpe de escarcha</color> <color=#99FFFFFF>congela</color> a un enemigo, el enemigo congelado dejará caer partículas elementales adicionales.\nCada golpe dará un máximo de 2 partículas elementales adicionales.",
+      "fr": "Les ennemis <color=#99FFFFFF>gelés</color> par <color=#FFD780FF>Attaque givrée</color> font tomber davantage de particules élémentaires.\nJusqu'à 2 particules supplémentaires peuvent ainsi être obtenues par Attaque givrée.",
+      "pt": "Os inimigos <color=#FFD780FF>Congelados</color> pela <color=#99FFFFFF>Mordida Congelante</color> irão dropar Partículas Elementais adicionais.\nA Mordida Congelante pode produzir no máximo 2 Partículas Elementais por uso.",
+      "ru": "Противники, <color=#99FFFFFF>замороженные</color> навыком <color=#FFD780FF>Выпад холода</color>, роняют больше элементальных частиц.\nКаждый удар навыка Выпад холода генерирует до 2 элементальных частиц.",
+      "id": "Musuh yang terkena efek <color=#99FFFFFF>Frozen</color> dari skill <color=#FFD780FF>Frostgnaw</color> akan menjatuhkan Elemental Particle tambahan.\nMaksimum menjatuhkan 2 Elemental Particle tambahan setiap kalinya.",
+      "th": "ศัตรูที่โดน<color=#99FFFFFF>แช่แข็ง</color>โดย <color=#FFD780FF>Frostgnaw</color> จะดรอปอณูธาตุเพิ่มเติม \nการโจมตีด้วย Frostgnaw ทุกครั้งที่โดนศัตรู จะสร้างอณูธาตุได้สูงสุด 2 อัน",
+      "vi": "Khi <color=#FFD780FF>Tuyết Tập Kích</color> khiến địch bị <color=#99FFFFFF>đóng băng</color>, thì địch sẽ rơi ra Nguyên Tố Hạt Nhân.\nMột lần Tuyết Tập Kích tối đa sinh ra 2 Nguyên Tố Hạt Nhân."
+    },
+    "imgid": "p_152201"
+  },
+  {
+    "title": {
+      "zhs": "隐藏的实力",
+      "zht": "隱藏的實力",
+      "jp": "秘められた実力",
+      "ko": "숨겨진 실력",
+      "en": "Hidden Strength",
+      "de": "Verborgene Stärke",
+      "es": "Fuerza subyacente",
+      "fr": "Force cachée",
+      "pt": "Força Oculta",
+      "ru": "Скрытые силы",
+      "id": "Hidden Strength",
+      "th": "Hidden Strength",
+      "vi": "Che Giấu Sức Mạnh"
+    },
+    "description": {
+      "zhs": "队伍中自己的角色冲刺消耗的体力降低20%。\n无法与效果完全相同的固有天赋叠加。",
+      "zht": "隊伍中自己的角色衝刺消耗的體力降低20%。\n無法與效果完全相同的固有天賦疊加。",
+      "jp": "チーム内の自身のキャラクター全員がダッシュに消費するスタミナ-20%。\n同じ効果を持つ固有天賦との重ね掛け不可。",
+      "ko": "파티 내 자신의 캐릭터의 대시 시 소모하는 스태미나가 20% 감소한다.\n같은 효과의 고유 특성과 중첩되지 않는다",
+      "en": "Decreases sprinting Stamina consumption for your own party members by 20%.\nNot stackable with Passive Talents that provide the exact same effects.",
+      "de": "Verringert die beim Rennen verbrauchte Ausdauer aller eigenen Truppenmitglieder um 20 %.\nNicht mit passiven Talenten mit völlig gleichen Effekten stapelbar.",
+      "es": "Disminuye en un 20% el Coste de Aguante al esprintar de todos los miembros de tu equipo.\nNo se puede acumular con otros talentos pasivos que tengan los mismos efectos.",
+      "fr": "Réduit la consommation d'endurance des personnages de l'équipe de 20 % lors du sprint.\nNe peut pas être cumulé avec d'autres aptitudes passives aux effets identiques.",
+      "pt": "Diminui o consumo de Stamina ao Correr de todos os seus personagens em 20%.\nNão acumulável com Talentos Passivos que concedem exatamente os mesmos efeitos.",
+      "ru": "Уменьшает потребление выносливости активного персонажа во время спринта на 20%.\nНе суммируется с пассивными талантами, дающими точно такие же эффекты.",
+      "id": "Mengurangi 20% konsumsi Stamina karakter sendiri saat berlari.\nEfek tidak dapat ditumpuk dengan Talenta Pasif lain yang memiliki efek yang sama.",
+      "th": "ลดอัตราการเสียพลังกายจากการวิ่ง ให้ตัวละครของตนเองที่อยู่ในทีมลง 20%\nไม่สามารถซ้อนทับพรสวรรค์ติดตัวที่เอฟเฟกต์เหมือนกันทุกประการได้",
+      "vi": "Giảm 20% tiêu hao thể lực khi xung kích cho nhân vật trong đội của bản thân.\nKhông thể cộng dồn với buff Thiên Phú cố định có cùng hiệu quả."
+    },
+    "imgid": "p_152301"
+  }
+]

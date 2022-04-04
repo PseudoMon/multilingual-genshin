@@ -1,0 +1,200 @@
+[
+  {
+    "title": {
+      "zhs": "普通攻击·西风剑术",
+      "zht": "普通攻擊·西風劍術",
+      "jp": "通常攻撃·西風剣術",
+      "ko": "일반 공격·페보니우스 검술",
+      "en": "Normal Attack: Favonius Bladework",
+      "de": "Standardangriff: Favonius-Schwertkunst",
+      "es": "Ataque Normal: Técnica de espada Favonius",
+      "fr": "Attaque normale : Escrime de Favonius",
+      "pt": "Ataque Normal: Técnica de Favonius",
+      "ru": "Фехтовальный стиль Фавония",
+      "id": "Favonius Bladework",
+      "th": "โจมตีปกติ - Favonius Bladework",
+      "vi": "Tấn Công Thường - Tây Phong Kiếm Thuật"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>普通攻击</color>\n进行至多五段的连续剑击。\n\n<color=#FFD780FF>重击</color>\n消耗一定体力，进行饱含风之力的挑击。\n被挑飞的敌人，在短时间内会缓慢坠落。\n\n<color=#FFD780FF>下落攻击</color>\n从空中下坠冲击地面，攻击下落路径上的敌人，并在落地时造成范围伤害。",
+      "zht": "<color=#FFD780FF>普通攻擊</color>\n進行至多五段的連續劍擊。\n\n<color=#FFD780FF>重擊</color>\n消耗一定體力，進行飽含風之力的挑擊。\n被挑飛的敵人，在短時間內會緩慢墜落。\n\n<color=#FFD780FF>下落攻擊</color>\n從空中下墜衝擊地面，攻擊下落路徑上的敵人，並在落地時造成範圍傷害。",
+      "jp": "<color=#FFD780FF>通常攻撃</color>\n剣による最大5段の連続攻撃を行う。\n\n<color=#FFD780FF>重撃</color>\n一定のスタミナを消費し、風の力に満ちた斬り上げ攻撃を発動する。\n斬り上げられた敵はゆっくりと降下する。\n\n<color=#FFD780FF>落下攻撃</color>\n空中から落下し地面に衝撃を与える。経路上の敵を攻撃し、落下時に範囲ダメージを与える。",
+      "ko": "<color=#FFD780FF>일반 공격</color>\n검으로 최대 5번 공격한다.\n\n<color=#FFD780FF>강공격</color>\n일정 스태미나를 소모해 바람 원소의 힘이 깃들어있는 올려베기를 발동한다.\n날아간 적은 짧은 시간 내에 천천히 추락한다.\n\n<color=#FFD780FF>낙하 공격</color>\n공중에서 땅을 내려찍어 경로상의 적을 공격하고 착지 시 범위 피해를 준다",
+      "en": "<color=#FFD780FF>Normal Attack</color>\nPerforms up to 5 consecutive strikes.\n\n<color=#FFD780FF>Charged Attack</color>\nConsumes a certain amount of stamina to launch an opponent using the power of wind.\nLaunched opponents will slowly fall to the ground.\n\n<color=#FFD780FF>Plunging Attack</color>\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+      "de": "<color=#FFD780FF>Standardangriff</color>\nFührt bis zu 5 Schwerthiebe hintereinander aus.\n\n<color=#FFD780FF>Heftiger Schlag</color>\nVerbraucht eine gewisse Menge Ausdauer und startet einen Sprungangriff voller Anemo-Kraft.\nWeggeschleuderte Gegner fallen langsam zu Boden.\n\n<color=#FFD780FF>Angriff aus dem Fall</color>\nSchlägt beim Fallen aus der Luft auf den Boden, greift alle Gegner in der Bahn an und verursacht beim Aufkommen Flächenschaden.",
+      "es": "<color=#FFD780FF>Ataque Normal</color>\nRealiza hasta 5 ataques rápidos.\n\n<color=#FFD780FF>Ataque Cargado</color>\nConsume una cierta cantidad de Aguante para desatar un ataque que contiene fuerza Anemo.\nPoco después, los enemigos lanzados caerán lentamente al suelo.\n\n<color=#FFD780FF>Ataque Descendente</color>\nSe lanza desde el aire para golpear el suelo, dañando a los enemigos cercanos e infligiendo Daño en el AdE en el momento del impacto.",
+      "fr": "<color=#FFD780FF>Attaque normale</color>\nEnchaîne jusqu'à 5 coups d'épée.\n\n<color=#FFD780FF>Attaque chargée</color>\nConsomme de l'endurance pour libérer une puissante attaque ascendante portée par les vents.\nLes ennemis projetés en l'air retombent lentement au sol.\n\n<color=#FFD780FF>Attaque plongeante</color>\nPlonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis en chemin et des DGT de zone à l'impact.",
+      "pt": "<color=#FFD780FF>Ataque Normal</color>\nRealiza até 5 golpes rápidos.\n\n<color=#FFD780FF>Ataque Carregado</color>\nConsome certa quantidade de Stamina para lançar um inimigo ao ar usando o poder do vento.\nInimigos lançados cairão lentamente ao chão.\n\n<color=#FFD780FF> Ataque Imersivo</color>\nMergulha do ar para atingir o chão abaixo, causando Dano aos inimigos ao longo do caminho e causando Dano em uma AdE no impacto.",
+      "ru": "<color=#FFD780FF>Обычная атака:</color>\nДо пяти быстрых ударов мечом.\n\n<color=#FFD780FF>Заряженная атака:</color>\nС помощью силы ветра подкидывает противников в воздух, на что тратится определённое количество выносливости.\nПодкинутые враги медленно падают на землю.\n\n<color=#FFD780FF>Атака в падении:</color>\nСтремительно падает на землю, атакуя всех врагов на пути. Приземлившись, наносит урон по площади.",
+      "id": "<color=#FFD780FF>Normal Attack</color>\nMelancarkan hingga 5 serangan berturut-turut.\n\n<color=#FFD780FF>Charged Attack</color>\nMengonsumsi sejumlah Stamina untuk melancarkan serangan yang menghempas musuh ke udara dengan kekuatan angin.\nMusuh yang terhempas akan terjatuh perlahan untuk sementara waktu.\n\n<color=#FFD780FF>Plunging Attack</color>\nMenerjang dari udara untuk menghantam tanah, mengakibatkan DMG pada musuh di jalur terjangan dan mengakibatkan DMG area saat mendarat.",
+      "th": "<color=#FFD780FF>โจมตีปกติ</color>\nใช้ดาบโจมตีต่อเนื่องมากสุดห้าครั้ง\n\n<color=#FFD780FF>ชาร์จโจมตี</color>\nใช้พลังกายส่วนนึงเพื่อปลดปล่อย พลังลมใส่ศัตรูที่เลือก\nศัตรูที่ถูกซัดกระเด็นจะค่อย ๆ ตกลงพื้นอย่างช้า ๆ\n\n<color=#FFD780FF>โจมตีพุ่งลงจากอากาศ</color>\nกระโจนจากกลางอากาศลงมายังพื้นดิน เพื่อโจมตีศัตรูที่อยู่ในเส้นทางการโจมตี โดยจะสร้างความเสียหายวงกว้างเมื่อลงถึงพื้น",
+      "vi": "<color=#FFD780FF>Tấn Công Thường</color>\nThực hiện tối đa 5 lần đánh kiếm liên tiếp.\n\n<color=#FFD780FF>Trọng Kích</color>\nTiêu hao thể lực nhất định, đánh một đòn tràn đầy sức mạnh của gió.\nĐịch bị đánh bay sẽ rơi chậm trong thời gian ngắn.\n\n<color=#FFD780FF>Tấn Công Khi Đáp</color>\nĐáp xuống đất từ trên không, tấn công kẻ địch trên đường và gây sát thương phạm vi khi chạm đất."
+    },
+    "imgid": "s_33101"
+  },
+  {
+    "title": {
+      "zhs": "风压剑",
+      "zht": "風壓劍",
+      "jp": "風圧剣",
+      "ko": "풍압검",
+      "en": "Gale Blade",
+      "de": "Luftdruckschwert",
+      "es": "Filo de ventisca",
+      "fr": "Épée de tourbillon",
+      "pt": "Espada do Temporal",
+      "ru": "Клинок ветра",
+      "id": "Gale Blade",
+      "th": "Gale Blade",
+      "vi": "Gió Cuộn Kiếm"
+    },
+    "description": {
+      "zhs": "将无形的风之力汇聚在剑上，释放微型的风暴，将敌人向瞄准的方向击飞，造成大量<color=#80FFD7FF>风元素伤害</color>。\n\n<color=#FFD780FF>长按</color>\n以持续消耗体力为代价，令旋风将周围的敌人与物体牵引至面前。\n可以调整方向。\n期间无法移动。\n\n<i>与一心守护的琴同行的，是能将危险驱离伙伴身边的守护之风。</i>",
+      "zht": "將無形的風之力匯聚在劍上，釋放微型的風暴，將敵人朝瞄準的方向擊飛，造成大量<color=#80FFD7FF>風元素傷害</color>。\n\n<color=#FFD780FF>長按</color>\n以持續消耗體力為代價，令旋風將周圍的敵人與物體牽引至面前。\n可以調整方向。\n期間無法移動。\n\n<i>與一心守護的琴同行的，是能將危險驅離夥伴身邊的守護之風。</i>",
+      "jp": "形のない風を剣に集中させ、小型の嵐を放つ。敵を狙った方向にノックバックし、大量の<color=#80FFD7FF>風元素ダメージ</color>を与える。\n\n<color=#FFD780FF>長押し</color>\nスタミナを消費する代わりに、周囲の敵と物体を目の前に吸い寄せることができる。\n方向の調整が可能。\n長押し中は移動できない。\n\n<i>ジンと共にあるのは、仲間を守ることができる守護の風だ。</i>",
+      "ko": "형체가 없는 바람의 힘을 검에 모아 작은 폭풍을 만들낸 후 적을 향해 날려 대량의 <color=#80FFD7FF>바람 원소 피해</color>를 준다.\n\n<color=#FFD780FF>홀드</color>\n지속해서 스태미나를 소모하여 주변의 적과 물체를 앞으로 끌어당긴다.\n방향을 조절할 수 있다.\n스킬을 시전하는 동안 이동할 수 없다.\n\n<i>지키고자 하는 마음뿐인 진과 동행하는 것은 모든 위험을 동료의 곁에서 몰아내는 수호의 바람이다</i>",
+      "en": "Focusing the might of the formless wind around her blade, Jean releases a miniature storm, launching opponents in the direction she aims at, dealing massive <color=#80FFD7FF>Anemo DMG</color>.\n\n<color=#FFD780FF>Hold</color>\nAt the cost of continued stamina consumption, Jean can command the whirlwind to pull surrounding opponents and objects towards her front.\nDirection can be adjusted.\nCharacter is immobile during skill duration.\n\n<i>That which follows Jean, the wholehearted defender, is a guardian wind that can banish danger from her comrades' presence.</i>",
+      "de": "Konzentriert die formlose Anemo-Kraft auf dem Schwert und erschafft einen winzigen Sturm, der Gegner in die Zielrichtung wegschleudert und hohen <color=#80FFD7FF>Anemo-Schaden</color> verursacht.\n\n<color=#FFD780FF>Gedrückt halten</color>\nVerbraucht fortlaufend Ausdauer und zieht die Gegner und Objekte in der Umgebung mit einem Luftwirbel nach vorn.\nRichtung kann angepasst werden.\nBewegung während der Anwendung nicht möglich.\n\n<i>Ein Jean begleitender Wind des Schutzes, der Gefahren von ihr und ihren Kameraden fernhält.</i>",
+      "es": "Concentrando el poder del viento en su espada, Jean canaliza una minitormenta, lanzando a los enemigos que se encuentran en la dirección que apunta e infligiendo una gran cantidad de <color=#80FFD7FF>Daño Anemo</color>.\n\n<color=#FFD780FF>Mantener pulsado</color>\nConsume una cierta cantidad de Aguante para ordenar al torbellino que atraiga a los enemigos y objetos cercanos frente a ella.\nLa dirección de atracción puede ajustarse.\nEl personaje quedará inmóvil mientras dure la habilidad.\n\n<i>Eso que sigue a Jean, la defensora incondicional, es el viento guardián que ahuyenta al peligro que acecha a sus compañeros</i>.",
+      "fr": "Concentrant l'énergie des vents dans son épée, Jean libère une tornade qui projette les ennemis dans la direction ciblée, infligeant d'importants <color=#80FFD7FF>DGT Anémo</color>.\n\n<color=#FFD780FF>Appui long</color>\nLes ennemis et les objets proches sont attirés par la tornade ; cette attaque consomme de l'endurance sur la durée.\nLa tornade peut être dirigée.\nJean ne peut pas se déplacer tant que l'attaque dure.\n\n<i>Idéale pour protéger ses alliés, cette technique accompagne Jean depuis longtemps.</i>",
+      "pt": "Canalizando o poder do vento sem forma em volta da sua espada, Jean libera uma miniatura de uma tempestade, lançando inimigos na direção em que ela mira, causando um <color=#80FFD7FF>Dano Anemo</color> massivo.\n\n<color=#FFD780FF>Manter pressionado</color>\nAo custo de um consumo constante de Stamina, Jean pode comandar um turbilhão que suga inimigos e objetos próximos à sua frente.\nA direção pode ser controlada.\nO personagem fica imóvel ao longo da duração da habilidade.\n\n<i>Aquilo que segue Jean, a defensora convicta, é um vento guardião que pode expulsar o perigo da presença de seus companheiros.</i>",
+      "ru": "Джинн фокусирует всю мощь бесформенного ветра вокруг своего клинка и создаёт миниатюрный вихрь, который подбрасывает противников в направлении её взгляда, а также наносит им большой <color=#80FFD7FF>Анемо урон</color>.\n\n<color=#FFD780FF>Долгое нажатие:</color>\nПродолжая затрачивать выносливость, Джинн может с помощью вихря притянуть врагов и предметы к себе. Также можно выбрать направление броска. Во время действия навыка Джинн не может двигаться.\n\n<i>Благородный защитник Джинн - ветер-хранитель, оберегающий её спутников от опасностей.</i>",
+      "id": "Jean mengerahkan badai kecil dengan memusatkan kekuatan angin di bilah pedangnya untuk menghempas musuh ke arah yang dia tunjuk. Mengakibatkan <color=#80FFD7FF>Anemo DMG</color> yang besar.\n\n<color=#FFD780FF>Tahan</color>\nDengan terus mengonsumsi Stamina, Jean dapat mengarahkan badai tersebut, yang menarik musuh dan obyek di sekitar ke depannya.\nArahnya dapat disesuaikan.\nKarakter tidak dapat bergerak selama durasi skill.\n\n<i>Yang mengikuti Jean, pelindung berhati emas, adalah angin penjaga yang bisa menghalau bahaya dari rekan-rekannya.</i>",
+      "th": "#รวบรวมสายลมที่ไร้ซึ่งรูปร่างไว้ที่ดาบและปล่อยพายุขนาดเล็กออกมาเพื่อสร้าง <color=#80FFD7FF>ความเสียหายลม</color>ในปริมาณมาก\n\n<color=#FFD780FF>{LAYOUT_MOBILE#แตะค้าง}{LAYOUT_PC#กดค้าง}{LAYOUT_PS#กดค้าง}</color>\nดึงดูดศัตรูและวัตถุที่อยู่ในบริเวณรอบ ๆ เข้ามายังข้างหน้า โดยแลกกับการใช้พลังกายไปเรื่อย ๆ\nสามารถปรับเปลี่ยนทิศทางได้\nระหว่างช่วงเวลาที่ใช้สกิลตัวละคร จะไม่สามารถขยับตัวได้\n\n<i>สิ่งที่ร่วมทางมากับ Jean ผู้มีหัวใจแห่งการปกป้อง ก็คือสายลมแห่งการคุ้มครองที่ปัดเป่าสิ่งอันตรายให้ไกลห่างจากพวกพ้องออกไป</i>",
+      "vi": "Hội tụ sức mạnh của gió vô hình lên kiếm, thi triển cơn bão nhỏ, đánh bay địch ở hướng ngắm bắn, gây lượng lớn <color=#80FFD7FF>Sát Thương Nguyên Tố Phong</color>.\n\n<color=#FFD780FF>Nhấn Giữ</color>\nTiếp tục tiêu hao thể lực để trả giá, tạo lốc xoáy kéo địch và vật thể xung quanh đến trước mặt.\nCó thể điều chỉnh phương hướng.\nTrong khi sử dụng kỹ năng không thể di chuyển.\n\n<i>Đồng hành cùng với Jean, là cơn gió bảo vệ đồng đội khỏi nguy hiểm.</i>"
+    },
+    "imgid": "s_33201"
+  },
+  {
+    "title": {
+      "zhs": "蒲公英之风",
+      "zht": "蒲公英之風",
+      "jp": "蒲公英の風",
+      "ko": "민들레 바람",
+      "en": "Dandelion Breeze",
+      "de": "Löwenzahnbrise",
+      "es": "Brisa de Dandelion",
+      "fr": "Brise de pissenlit",
+      "pt": "Brisa de Dandelion",
+      "ru": "Одуванчиковый бриз",
+      "id": "Dandelion Breeze",
+      "th": "Dandelion Breeze",
+      "vi": "Gió Bồ Công Anh"
+    },
+    "description": {
+      "zhs": "呼唤风的护佑，创造千风涌动的蒲公英领域，击退周围的敌人并造成<color=#80FFD7FF>风元素伤害</color>。\n同时，为队伍中的所有角色瞬间恢复大量生命值，回复量受益于琴的攻击力。\n\n<color=#FFD780FF>蒲公英领域</color>\n·为其中的角色持续恢复生命值；\n·令其中的角色持续受到<color=#80FFD7FF>风元素影响</color>；\n·对出入领域的敌人造成<color=#80FFD7FF>风元素伤害</color>。\n\n<i>风的恩泽如同广布大地的蒲公英，这就是琴守护的根源与心意。</i>",
+      "zht": "呼喚風的護佑，創造千風湧動的蒲公英領域，擊退周圍的敵人並造成<color=#80FFD7FF>風元素傷害</color>。\n同時，為隊伍中的所有角色瞬間恢復大量生命值，回復量受益於琴的攻擊力。\n\n<color=#FFD780FF>蒲公英領域</color>\n·為其中的角色持續恢復生命值；\n·令其中的角色持續受到<color=#80FFD7FF>風元素影響</color>；\n·對出入領域的敵人造成<color=#80FFD7FF>風元素傷害</color>。\n\n<i>風的恩澤如同廣布大地的蒲公英，這就是琴守護的根源與心意。</i>",
+      "jp": "風の加護を呼び、千風が流れる蒲公英エリアを作り出し、周囲の敵に<color=#80FFD7FF>風元素ダメージ</color>を与えてノックバックする。\nジンの攻撃力を基準にチーム全員のHPを大量に回復する。\n\n<color=#FFD780FF>蒲公英エリア</color>\n·エリア内にいるキャラクターのHPを持続的に回復する。\n·エリア内にいるキャラクターは持続的に<color=#80FFD7FF>風元素の影響</color>を受ける。\n·エリアを出入りする敵に<color=#80FFD7FF>風元素ダメージ</color>を与える\n\n<i>風の恵みはまるで広い大地に生息する蒲公英のようで、ジンの守るという意志の根源でもある。</i>",
+      "ko": "바람의 가호를 소환해 천풍이 세차게 부는 민들레 영역을 만들어내 적을 넉백시키고 주변의 적에게 <color=#80FFD7FF>바람 원소 피해</color>를 준다.\n또한 파티 내 모든 캐릭터의 HP를 대량 회복하고 회복량은 진의 공격력의 영향을 받는다.\n\n<color=#FFD780FF>민들레 영역</color>\n·영역 안의 캐릭터의 HP를 지속해서 회복한다.\n·영역 안의 캐릭터는 지속해서 <color=#80FFD7FF>바람 원소의 영향을 받는다</color>.\n·영역을 출입하는 적에게 <color=#80FFD7FF>바람 원소 피해</color>를 준다.\n\n<i>바람의 은총은 대지에 흩뿌려진 민들레와 같다. 이것이 바로 진의 수호의 근원과 마음이다</i>",
+      "en": "Calling upon the wind's protection, Jean creates a swirling Dandelion Field, launching surrounding opponents and dealing <color=#80FFD7FF>Anemo DMG</color>.\nAt the same time, she instantly regenerates a large amount of HP for all party members. The amount of HP restored scales off Jean's ATK.\n\n<color=#FFD780FF>Dandelion Field</color>\n·Continuously regenerates HP of characters within the AoE and continuously imbues them with <color=#80FFD7FF>Anemo</color>.\n·Deals <color=#80FFD7FF>Anemo DMG</color> to opponents entering or exiting the Dandelion Field.\n\n<i>Jean's magnanimity is as vast as the dandelion fields, and it is the root of her wish to protect others.</i>",
+      "de": "Ruft den Schutz des Windes herbei und erschafft ein Löwenzahnfeld, durch das die Tausend Winde fegen. Stößt Gegner in der Umgebung zurück und verursacht <color=#80FFD7FF>Anemo-Schaden</color>.\nStellt gleichzeitig allen Truppenmitgliedern eine große Menge LP basierend auf Jeans ANG wieder her.\n\n<color=#FFD780FF>Löwenzahnfeld</color>\n· Stellt den Figuren im Wirkungsbereich fortlaufend LP wieder her.\n· Macht die Figuren im Wirkungsbereich anfällig für <color=#80FFD7FF>Anemo-Einflüsse</color>.\n· Fügt Gegnern beim Betreten und Verlassen des Wirkungsbereichs <color=#80FFD7FF>Anemo-Schaden</color> zu.\n\n<i>Die Huld des Windes ist wie ein weites Löwenzahnfeld, die Quelle der Jean schützenden Kraft.</i>",
+      "es": "Invoca la protección del viento para crear un campo de dientes de león, empujando a los enemigos cercanos e infligiendo <color=#80FFD7FF>Daño Anemo</color> contra ellos.\nAl mismo tiempo, cura de inmediato una gran cantidad de Vida a todos los miembros del equipo. La cantidad restaurada varía en proporción al ATQ de Jean.\n\n<color=#FFD780FF>Campo de dientes de león</color>\n·Regenera continuamente la Vida de los personajes dentro del campo y aplica el elemento <color=#80FFD7FF>Anemo</color> sobre ellos.\n·Inflige <color=#80FFD7FF>Daño Anemo</color> a los enemigos que entran o salen del campo.\n\n<i>La magnanimidad de Jean es vasta como los campos de dientes de león, así como la raíz de su deseo de proteger a los demás.</i>",
+      "fr": "Jean invoque la protection des vents ; un champ de pissenlits tournoyant repousse les ennemis proches, tout en leur infligeant des <color=#80FFD7FF>DGT Anémo</color>.\nDans le même temps, tous les personnages de l'équipe sont soignés considérablement ; le nombre de PV restaurés est proportionnel à l'ATQ de Jean.\n\n<color=#FFD780FF>Champ de pissenlits</color>\n· Le champ de pissenlits restaure les PV des personnages dans la zone de façon continue.\n· Le champ leur applique également l'<color=#80FFD7FF>élément Anémo</color>.\n· Les ennemis qui rentrent ou sortent de la zone subissent des <color=#80FFD7FF>DGT Anémo</color>.\n\n<i>Semblable aux pissenlits bercés par le vent, la magnanimité de Jean n'a que l'horizon pour limite.</i>",
+      "pt": "Invocando a proteção do vento, Jean cria um Campo Dandelion rodopiante, lançando inimigos ao redor e causando <color=#80FFD7FF>Dano Anemo</color>.\nAo mesmo tempo, ela regenera instantaneamente uma grande quantidade de Vida para todos os membros da equipe. A Vida restaurada é baseada no ATQ de Jean.\n\n<color=#FFD780FF>Campo de Dandelions</color>\nRegenera continuamente a Vida dos personagens dentro da AdE concede o atributo <color=#80FFD7FF>Anemo</color>.\nCausa <color=#80FFD7FF>Dano Anemo</color> aos inimigos que entram ou saem do campo.\n\n<i> A magnanimidade de Jean é tão vasta quanto os Dandelions, e é a raiz de seu desejo de proteger os outros.</i>",
+      "ru": "Джинн призывает защитный ветер и создаёт поле одуванчиков, которое отбрасывает окружающих врагов и наносит им <color=#80FFD7FF>Анемо урон</color>.\nВ то же время Джинн восстанавливает всем членам отряда определённое количество HP, которое зависит от её силы атаки.\n\n<color=#FFD780FF>Поле одуванчиков:</color>\n· Периодически восстанавливает HP членам отряда в поле одуванчиков;\n· Наделяет членов отряда в поле одуванчиков <color=#80FFD7FF>эффектом Анемо</color>;\n· Наносит <color=#80FFD7FF>Анемо урон</color> врагам, входящим или выходящим за границы поля одуванчиков.\n\n<i>Доброта Джинн - это бескрайнее поле одуванчиков, где посеяны семена её самоотверженности и героизма.</i>",
+      "id": "Dengan memanggil perlindungan dari angin, Jean dapat menciptakan Dandelion Field yang menghempas musuh di sekitar dan mengakibatkan <color=#80FFD7FF>Anemo DMG</color>.\nDi saat yang sama, sejumlah besar HP untuk semua anggota party akan pulih secara langsung. Jumlah HP yang dipulihkan bergantung dari ATK Jean.\n\n<color=#FFD780FF>Dandelion Field</color>\n·Memulihkan HP karakter yang berada di dalam lingkup area secara berkelanjutan.\n·Memengaruhi musuh yang berada di dalam lingkup area dengan elemen <color=#80FFD7FF>Anemo</color> secara berkelanjutan.\n·Mengakibatkan <color=#80FFD7FF>Anemo DMG</color> kepada musuh yang memasuki atau keluar dari Dandelion Field.\n\n<i>Berkat Anemo bagaikan dandelion yang terbang ke seluruh pelosok dunia. Inilah fondasi prinsip dan pendirian Jean.</i>",
+      "th": "เรียกการปกป้องของสายลม Dandelion Field ที่เต็มไปด้วย คลื่นลมขึ้นมาเพื่อโจมตีศัตรูโดยรอบ และสร้าง<color=#80FFD7FF>ความเสียหายลม</color>\nขณะเดียวกันจะทำการฟื้นฟูพลังชีวิต ปริมาณมากให้ตัวละครทั้งหมดในทีม โดยปริมาณที่ฟื้นฟูจะขึ้นอยู่กับ พลังโจมตีของ Jean\n\n<color=#FFD780FF>Dandelion Field</color>\n·ฟื้นฟูพลังชีวิตให้ตัวละครที่อยู่ในพื้นที่ อย่างต่อเนื่อง;\nทำให้ตัวละครที่อยู่ในพื้นที่ได้รับ<color=#80FFD7FF>ผลกระทบจากธาตุลม</color>อย่างต่อเนื่อง\n·สร้าง<color=#80FFD7FF>ความเสียหายลม</color>ให้แก่ศัตรู ที่เข้าออกพื้นที่\n\n<i>ความสง่างามของสายลมเปรียบเสมือน ทุ่งแดนดิไลออนที่แผ่กระจายไปทั่วโลก นี่คือรากฐานและความตั้งใจของ Jean ผู้พิทักษ์</i>",
+      "vi": "Bảo hộ triệu hồi gió, tạo ra Vùng Đất Bồ Công Anh hỗn loạn, đánh lui địch xung quanh và gây <color=#80FFD7FF>Sát Thương Nguyên Tố Phong</color>.\nĐồng thời hồi nhanh lượng lớn HP cho tất cả nhân vật trong đội, lượng hồi được hưởng từ tấn công của Jean.\n\n<color=#FFD780FF>Vùng Đất Bồ Công Anh</color>\n·Duy trì hồi phục HP cho nhân vật trong đó;\n·Khiến nhân vật trong đó tiếp tục chịu <color=#80FFD7FF>ảnh hưởng Nguyên Tố Phong</color>;\n·Đối với địch ra vào khu vực, gây <color=#80FFD7FF>Sát Thương Nguyên Tố Phong</color>.\n\n<i>Ân trạch của gió như bồ công anh trải rộng, là căn nguyên và lòng tốt của sự thủ hộ từ Jean.</i>"
+    },
+    "imgid": "s_33901"
+  },
+  {
+    "title": {
+      "zhs": "顺风而行",
+      "zht": "順風而行",
+      "jp": "風の赴くままに",
+      "ko": "바람과 함께",
+      "en": "Wind Companion",
+      "de": "Folge dem Wind",
+      "es": "Compañera del viento",
+      "fr": "Charge critique",
+      "pt": "Companhia do Vento",
+      "ru": "Дружественный бриз",
+      "id": "Wind Companion",
+      "th": "Wind Companion",
+      "vi": "Đi Cùng Với Gió"
+    },
+    "description": {
+      "zhs": "琴的普通攻击命中时，有50%的几率为队伍中所有角色恢复等同于琴攻击力15%的生命值。",
+      "zht": "琴的普通攻擊命中時，有50%的機率為隊伍中所有角色恢復等同於琴攻擊力15%的生命值。",
+      "jp": "ジンの通常攻撃が命中する時、50%の確率でチーム全員のHPを回復する。回復量はジンの攻撃力の15%に相当する。",
+      "ko": "진의 일반 공격 명중 시 50%의 확률로 파티 내 모든 캐릭터의 HP를 진 공격력의 15%만큼 회복한다",
+      "en": "On hit, Jean's Normal Attacks have a 50% chance to regenerate HP equal to 15% of Jean's ATK for all party members.",
+      "de": "Stellt bei Treffern mit Jeans Standardangriffen allen Truppenmitgliedern mit einer Wahrscheinlichkeit von 50 % LP in Höhe von 15 % von Jeans ANG wieder her.",
+      "es": "Cuando Jean realiza Ataques Normales, tiene un 50% de probabilidad de curar una cantidad de Vida igual al 15% de su ATQ a todos los miembros del equipo.",
+      "fr": "Les attaques normales de Jean ont 50 % de chances de restaurer une quantité de PV équivalant à 15 % de l'ATQ de Jean à tous les personnages de l'équipe lorsqu'elles touchent.",
+      "pt": "Ao acertar Ataques Normais de Jean, possui 50% de chance de regenerar Vida equivalente a 15% do ATQ de Jean a todos os membros da equipe.",
+      "ru": "Попадания обычной атакой Джинн имеют 50% шанс вылечить всех членов отряда на количество HP, равное 15% от силы атаки Джинн.",
+      "id": "Saat Normal Attack Jean mengenai musuh, memiliki 50% kemungkinan untuk memulihkan HP seluruh anggota party sebesar 15% ATK Jean.",
+      "th": "เมื่อการโจมตีปกติของ Jean ถูกเป้าหมาย จะมีโอกาส 50% ที่จะฟื้นฟูพลังชีวิต ให้แก่สมาชิกทั้งหมดในทีมขึ้น 15% ของพลังโจมตีของ Jean",
+      "vi": "Khi tấn công thường của Jean đánh trúng, có 50% tỷ lệ hồi HP bằng với 15% tấn công của Jean cho tất cả thành viên đội."
+    },
+    "imgid": "p_32101"
+  },
+  {
+    "title": {
+      "zhs": "听凭风引",
+      "zht": "聽憑風引",
+      "jp": "風の導くままに",
+      "ko": "바람의 인도",
+      "en": "Let the Wind Lead",
+      "de": "Führung des Windes",
+      "es": "Que el viento nos guíe",
+      "fr": "Que le vent vous guide",
+      "pt": "Deixe o vento guiar.",
+      "ru": "Да направит тебя ветер",
+      "id": "Let the Wind Lead",
+      "th": "Let the Wind Lead",
+      "vi": "Nghe Theo Hướng Gió"
+    },
+    "description": {
+      "zhs": "使用<color=#FFD780FF>蒲公英之风</color>后，恢复20%元素能量。",
+      "zht": "使用<color=#FFD780FF>蒲公英之風</color>後，恢復20%元素能量。",
+      "jp": "<color=#FFD780FF>蒲公英の風</color>発動後、元素エネルギーが20%回復する。",
+      "ko": "<color=#FFD780FF>민들레 바람</color> 사용 후 원소 에너지를 20% 회복한다",
+      "en": "Using <color=#FFD780FF>Dandelion Breeze</color> will regenerate 20% of its Energy.",
+      "de": "Stellt nach Anwendung von <color=#FFD780FF>Löwenzahnbrise</color> 20 % Elementarenergie wieder her.",
+      "es": "Tras usar <color=#FFD780FF>Brisa de Dandelion</color>, regenera un 20% de su Energía Elemental.",
+      "fr": "<color=#FFD780FF>Brise de pissenlit</color> restaure 20 % d'énergie élémentaire lorsqu'elle prend fin.",
+      "pt": "Após usar a <color=#FFD780FF>Brisa de Dandelion</color> regenera 20% de Energia Elemental.",
+      "ru": "Использование навыка <color=#FFD780FF>Одуванчиковый бриз</color> восстанавливает 20% энергии.",
+      "id": "Menggunakan <color=#FFD780FF>Dandelion Breeze</color> akan memulihkan 20% Energy.",
+      "th": "หลังจากใช้ <color=#FFD780FF>Dandelion Breeze</color> จะฟื้นฟูพลังงานธาตุ 20%",
+      "vi": "Sau khi sử dụng <color=#FFD780FF>Gió Bồ Công Anh</color>, sẽ hồi phục 20% Năng Lượng Nguyên Tố"
+    },
+    "imgid": "p_32201"
+  },
+  {
+    "title": {
+      "zhs": "引领之风",
+      "zht": "引領之風",
+      "jp": "導きの風",
+      "ko": "인도의 바람",
+      "en": "Guiding Breeze",
+      "de": "Führende Brise",
+      "es": "Viento guía",
+      "fr": "Vent directeur",
+      "pt": "Brisa de Planagem",
+      "ru": "Направляющий ветер",
+      "id": "Guiding Breeze",
+      "th": "Guiding Breeze",
+      "vi": "Ngọn Gió Dẫn Đường"
+    },
+    "description": {
+      "zhs": "完美烹饪恢复类食物时，有12%概率获得2倍产出。",
+      "zht": "完美烹飪恢復類食物時，有12%的機率獲得兩倍產出。",
+      "jp": "回復系料理を完璧調理した時、12%の確率で料理を2倍獲得する。",
+      "ko": "회복류 요리를 완벽 조리하면 12% 확률로 요리량의 2배를 획득한다",
+      "en": "When a Perfect Cooking is achieved on a dish with restorative effects, there is a 12% chance to obtain double the product.",
+      "de": "Stellt bei der perfekten Zubereitung eines Gerichts mit wiederherstellender Funktion mit einer Wahrscheinlichkeit von 12 % den 2-fachen Ertrag her.",
+      "es": "Al lograr un “Perfecto” en un plato con efectos reconstituyentes, hay una probabilidad del 12% de obtener el doble.",
+      "fr": "12 % de chances d'obtenir un plat supplémentaire lorsque vous cuisinez un plat de soins parfait.",
+      "pt": "Quando uma Culinária Perfeita é feita em uma comida com efeito de recuperação, tem uma chance de 12% de receber o dobro de produção.",
+      "ru": "При приготовлении идеального блюда с восстанавливающими свойствами имеет 12% шанс приготовить дополнительное блюдо.",
+      "id": "Saat masakan jenis pemulihan dimasak dengan sempurna, memiliki 12% kemungkinan mendapatkan hasil 2 kali lipat.",
+      "th": "เมื่อปรุงอาหารประเภทฟื้นฟูได้ ระดับสมบูรณ์ จะมีโอกาส 12% ที่จะได้รับผลผลิตเพิ่มเป็น 2 เท่า",
+      "vi": "Nấu hoàn mỹ món ăn thuộc loại hồi phục, có tỷ lệ 12% x2 sản lượng."
+    },
+    "imgid": "p_32301"
+  }
+]

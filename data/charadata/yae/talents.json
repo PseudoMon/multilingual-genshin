@@ -1,0 +1,200 @@
+[
+  {
+    "title": {
+      "zhs": "普通攻击·狐灵食罪式",
+      "zht": "普通攻擊·狐靈食罪式",
+      "jp": "通常攻撃·狐霊罪喰い式",
+      "ko": "일반 공격·죄를 삼키는 여우령",
+      "en": "Normal Attack: Spiritfox Sin-Eater",
+      "de": "Standardangriff: Sündenverschlinger",
+      "es": "Ataque Normal: Kitsune devorapecados",
+      "fr": "Attaque normale : Vulpes mangeur de péchés",
+      "pt": "Ataque Normal: Kitsune Devora-pecados",
+      "ru": "Пожирающая грехи кицунэ",
+      "id": "Normal Attack: Spiritfox Sin-Eater",
+      "th": "โจมตีปกติ - Spiritfox Sin-Eater",
+      "vi": "Tấn Công Thường - Hồ Linh Thực Tội Thức"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>普通攻击</color>\n驱役狐灵，进行至多三段的攻击，造成<color=#FFACFFFF>雷元素伤害</color>。\n\n<color=#FFD780FF>重击</color>\n消耗一定体力，短暂咏唱后，造成<color=#FFACFFFF>雷元素范围伤害</color>。\n\n<color=#FFD780FF>下落攻击</color>\n凝聚雷霆的力量，从空中下坠冲击地面，攻击下落路径上的敌人，并在落地时造成<color=#FFACFFFF>雷元素范围伤害</color>。",
+      "zht": "<color=#FFD780FF>普通攻擊</color>\n驅役狐靈，進行至多三段的攻擊，造成<color=#FFACFFFF>雷元素傷害</color>。\n\n<color=#FFD780FF>重擊</color>\n消耗一定體力，短暫詠唱後，造成<color=#FFACFFFF>雷元素範圍傷害</color>。\n\n<color=#FFD780FF>下落攻擊</color>\n凝聚雷霆的力量，從空中下墜衝擊地面，攻擊下落路徑上的敵人，並在落地時造成<color=#FFACFFFF>雷元素範圍傷害</color>。",
+      "jp": "<color=#FFD780FF>通常攻撃</color>\n狐霊を駆役し、最大3段の連続攻撃を行い、<color=#FFACFFFF>雷元素ダメージ</color>を与える。\n\n<color=#FFD780FF>重撃</color>\n一定のスタミナを消費し、短い詠唱をした後、敵に<color=#FFACFFFF>雷元素範囲ダメージ</color>を与える。\n\n<color=#FFD780FF>落下攻撃</color>\n雷霆の力を凝集し、空中から落下し地面に衝撃を与える。経路上の敵を攻撃し、落下時に<color=#FFACFFFF>雷元素範囲ダメージ</color>を与える。",
+      "ko": "<color=#FFD780FF>일반 공격</color>\n여우령으로 최대 3번 공격하여 <color=#FFACFFFF>번개 원소 피해</color>를 준다.\n\n<color=#FFD780FF>강공격</color>\n일정 스태미나를 소모해 짧은 영창 후 <color=#FFACFFFF>번개 원소 범위 피해</color>를 준다.\n\n<color=#FFD780FF>낙하 공격</color>\n뇌정의 힘을 모아 공중에서 땅을 내려찍어 경로상의 적을 공격하고, 착지 시 <color=#FFACFFFF>번개 원소 범위 피해</color>를 준다",
+      "en": "<color=#FFD780FF>Normal Attack</color>\nSummons forth kitsune spirits, initiating a maximum of 3 attacks that deal <color=#FFACFFFF>Electro DMG</color>.\n\n<color=#FFD780FF>Charged Attack</color>\nConsumes a certain amount of Stamina to deal <color=#FFACFFFF>AoE Electro DMG</color> after a short casting time.\n\n<color=#FFD780FF>Plunging Attack</color>\nPlunges towards the ground from mid-air, damaging all opponents in her path with thunderous might. Deals <color=#FFACFFFF>AoE Electro DMG</color> upon impact with the ground.",
+      "de": "<color=#FFD780FF>Standardangriff</color>\nBeschwört Kitsune-Geister hervor, führt bis zu 3 Angriffe aus und verursacht <color=#FFACFFFF>Elektro-Schaden</color>.\n\n<color=#FFD780FF>Heftiger Schlag</color>\nVerbraucht eine gewisse Menge Ausdauer und verursacht nach kurzer Aufladezeit <color=#FFACFFFF>Elektro-Flächenschaden</color>.\n\n<color=#FFD780FF>Angriff aus dem Fall</color>\nKonzentriert die Kraft des Donners, schlägt beim Fallen aus der Luft auf den Boden, greift alle Gegner in der Bahn an und verursacht beim Aufkommen <color=#FFACFFFF>Elektro-Flächenschaden</color>.",
+      "es": "<color=#FFD780FF>Ataque Normal</color>\nInvoca espíritus kitsune para realizar hasta 3 ataques que infligen <color=#FFACFFFF>Daño Electro</color>.\n\n<color=#FFD780FF>Ataque Cargado</color>\nConsume una cierta cantidad de Aguante para infligir <color=#FFACFFFF>Daño Electro en el AdE</color> después de un corto tiempo de invocación.\n\n<color=#FFD780FF>Ataque Descendente</color>\nConcentra el poder del trueno y desciende hacia el suelo, dañando a todos los enemigos cercanos e infligiendo <color=#FFACFFFF>Daño Electro en el AdE</color> en el momento del impacto.",
+      "fr": "<color=#FFD780FF>Attaque normale</color>\nInvoque des esprits Kitsunes, enchaînant jusqu'à 3 attaques qui infligent des <color=#FFACFFFF>DGT Électro</color>.\n\n<color=#FFD780FF>Attaque chargée</color>\nConsomme de l'endurance pour infliger des <color=#FFACFFFF>DGT Électro de zone</color> après un court délai.\n\n<color=#FFD780FF>Attaque plongeante</color>\nPlonge depuis les airs en concentrant la puissance du tonnerre, infligeant des DGT aux ennemis en chemin et des <color=#FFACFFFF>DGT Électro de zone</color> à l'impact.",
+      "pt": "<color=#FFD780FF>Ataque Normal</color>\nEvoca espíritos kitsune que realizam até 3 ataques que infligem <color=#FFACFFFF>Dano Electro</color>.\n\n<color=#FFD780FF>Ataque Carregado</color>\nConsome uma certa quantidade de Stamina que inflige <color=#FFACFFFF>Dano Electro em uma AdE</color> após um curto período de canalização.\n\n<color=#FFD780FF>Ataque Imersivo</color>\nReunindo o poder do relâmpago, Yae Miko mergulha ao chão em pleno ar, infligindo dano a todos os inimigos em seu caminho. Inflige <color=#FFACFFFF>Dano Electro em uma AdE</color> durante o impacto com o chão.",
+      "ru": "<color=#FFD780FF>Обычная атака:</color>\nСовершает до трёх ударов, призывая духов кицунэ, наносящих <color=#FFACFFFF>Электро урон</color>.\n\n<color=#FFD780FF>Заряженная атака:</color>\nКороткое заклинание, наносящее <color=#FFACFFFF>Электро урон по площади</color>, на которое тратится определённое количество выносливости.\n\n<color=#FFD780FF>Атака в падении:</color>\nНакопив энергию молнии, стремительно падает на землю, атакуя всех врагов на пути. Приземлившись, наносит <color=#FFACFFFF>Электро урон по площади</color>.",
+      "id": "<color=#FFD780FF>Normal Attack</color>\nMemanggil roh kitsune untuk melancarkan hingga 3 serangan yang mengakibatkan <color=#FFACFFFF>Electro DMG</color>.\n\n<color=#FFD780FF>Charged Attack</color>\nMengonsumsi sejumlah Stamina dan mengakibatkan <color=#FFACFFFF>Electro DMG area</color> setelah jeda singkat.\n\n<color=#FFD780FF>Plunging Attack</color>\nMengumpulkan kekuatan gemuruh dan menerjang tanah, mengakibatkan DMG pada musuh di jalur terjangan dan mengakibatkan <color=#FFACFFFF>Electro DMG area</color> saat mendarat.",
+      "th": "<color=#FFD780FF>โจมตีปกติ</color>\nเรียกวิญญาณจิ้งจอกออกมา ทำการโจมตีต่อเนื่องมากสุดสามครั้ง เพื่อสร้าง<color=#FFACFFFF>ความเสียหายไฟฟ้า</color>\n\n<color=#FFD780FF>ชาร์จโจมตี</color>\nใช้พลังกายบางส่วน โดยหลังจากร่ายเสร็จจะสร้าง<color=#FFACFFFF>ความเสียหายไฟฟ้าวงกว้าง</color>\n\n<color=#FFD780FF>โจมตีพุ่งลงจากอากาศ</color>\nรวบรวมพลังแห่งสายฟ้า กระโจนจากกลางอากาศลงมายังพื้นดิน เพื่อโจมตีศัตรูที่อยู่ในเส้นทางการโจมตี โดยจะสร้าง<color=#FFACFFFF>ความเสียหายไฟฟ้าวงกว้าง</color>เมื่อลงถึงพื้น",
+      "vi": "<color=#FFD780FF>Tấn Công Thường</color>\nTriệu hồi linh hồn hồ ly, thực hiện tối đa 3 lần tấn công, gây <color=#FFACFFFF>Sát Thương Nguyên Tố Lôi</color>.\n\n<color=#FFD780FF>Trọng Kích</color>\nTiêu hao thể lực nhất định, tụ lực và gây <color=#FFACFFFF>Sát Thương Phạm Vi Nguyên Tố Lôi</color>.\n\n<color=#FFD780FF>Tấn Công Khi Đáp</color>\nNgưng tụ sức mạnh lôi đình, từ trên không lao xuống mặt đất, tấn công kẻ địch trên đường, gây <color=#FFACFFFF>Sát Thương Phạm Vi Nguyên Tố Lôi</color> khi chạm đất."
+    },
+    "imgid": "s_583101"
+  },
+  {
+    "title": {
+      "zhs": "野干役咒·杀生樱",
+      "zht": "野干役咒·殺生櫻",
+      "jp": "野干役呪·殺生櫻",
+      "ko": "야칸의 소환·살생앵",
+      "en": "Yakan Evocation: Sesshou Sakura",
+      "de": "Yakan-Kriegszauber – Sesshou-Sakura",
+      "es": "Maleficio yako: Cerezo kitsune aniquilador",
+      "fr": "Évocation des yakan : Sakura dévastateur",
+      "pt": "Evocação Yakan: Sesshou Sakura",
+      "ru": "Проклятие якан: Сакура сэссё",
+      "id": "Yakan Evocation: Sesshou Sakura",
+      "th": "Yakan Evocation: Sesshou Sakura",
+      "vi": "Thần Chú Yakan - Sesshou Sakura"
+    },
+    "description": {
+      "zhs": "对八重而言，驱役精怪就能解决的麻烦，自然是无须亲力亲为的。\n迅速移动，并留下一株「杀生樱」。\n\n<color=#FFD780FF>杀生樱</color>\n具有如下特性：\n·间歇性对周围的一名敌人降下落雷，造成<color=#FFACFFFF>雷元素伤害</color>；\n·附近存在其他的杀生樱时，将提升其位阶，提高上述攻击造成的伤害。\n\n拥有3次可使用次数。\n最多同时存在3株杀生樱，杀生樱创造时的初始位阶为壹阶，阶级初始至多提升至叁阶。若创造的位置与已有的杀生樱距离过近，则会摧毁已有的杀生樱。\n\n<i>「封在枝条里的狐灵都是堕为害人妖鬼的野干。野干天然要低我们天狐两等，使唤起来心安理得。不过我们狐狸分三六九等，你们人类可不要这样哦。至于你问狐狸和人谁比较高级，哼哼…」</i>",
+      "zht": "#對八重而言，驅役精怪就能解決的麻煩，自然是無須親力親為的。\n迅速移動，並留下一株「殺生櫻」。\n\n<color=#FFD780FF>殺生櫻</color>\n具有如下特性：\n·間歇性對周圍的一名敵人降下落雷，造成<color=#FFACFFFF>雷元素傷害</color>；\n·附近存在其他的殺生櫻時，將提升其位階，提高上述攻擊造成的傷害。\n\n擁有3次可使用次數。\n最多同時存在3株殺生櫻，殺生櫻創造時的初始位階為壹階，階級初始至多提升至參階。若創造的位置與已有的殺生櫻距離過近，則會摧毀已有的殺生櫻。\n\n<i>「封在枝條裡的狐靈都是墮為害人妖鬼的野干。野干天然要低我們天狐兩等，使喚起來心安理得。不過我們狐狸分三六九等，你們人類可不要這樣哦。至於{F#妳}{M#你}問狐狸和人誰比較高級，哼哼…」</i>",
+      "jp": "八重にとって、妖怪を駆役して解決できるような問題ならば、自ら手を下す必要などない。\n素早く移動し、「殺生櫻」を1株残す。\n\n<color=#FFD780FF>殺生櫻</color>\n殺生櫻は以下の特性を持つ。\n·一定間隔で、周囲の敵1体に雷を落とし、<color=#FFACFFFF>雷元素ダメージ</color>を与える。\n·近くに他の殺生櫻が存在する場合、その階位をアップさせ、上記の攻撃によるダメージをアップさせる。\n\n使用可能回数は3回。\n殺生櫻は同時に最大3株まで存在できる。また初期状態では、創造時の階位は壱で、最大階位は参までアップできる。創造位置が既存の殺生櫻に近すぎる場合、既存の殺生櫻を破壊する。\n\n<i>「枝に封印されている狐霊は、すべて人に害を成す野干へと堕ちたものじゃ。妾のような天狐と比べれば、野干なぞ格下。やつらをこき使おうと、何の問題もない。妾たち狐には位があるが、汝ら人間はこのようなことをしてはならんぞ。ふむ…狐と人間、どちらの位が高いかじゃと？ふふっ…」</i>",
+      "ko": "요괴를 부려 해결할 수 있는 귀찮은 일에 야에가 굳이 직접 나설 필요는 없다.\n빠르게 움직여 「살생앵(殺生櫻)」을 남긴다.\n\n<color=#FFD780FF>살생앵</color>\n특성:\n·간헐적으로 주변의 적 1기에게 낙뢰를 내려 <color=#FFACFFFF>번개 원소 피해</color>를 준다.\n·근처에 다른 살생앵이 있을 경우, 살생앵의 등급이 상승해 해당 공격으로 가하는 피해가 증가한다.\n\n사용 가능 횟수: 3회.\n살생앵은 동시에 최대 3그루까지 존재할 수 있으며, 살생앵이 생성될 때 초기 등급은 1단계이다. 초기 등급은 3단계까지 상승 가능하다. 살생앵의 생성 위치와 이미 존재하는 살생앵의 거리가 가까울 경우, 원래 존재하던 살생앵이 소멸한다.\n\n<i>「가지에 봉인된 여우령은 전부 사람을 해치는 요괴로 전락한 야칸이지. 야칸은 우리 천호(天狐)보다 미천하니 녀석들을 부리는 게 불편하진 않아. 그나저나 우리 여우들이 등급을 매긴다고 너희 인간들도 그렇게 하면 안 돼. 여우랑 사람 중에 어느 쪽의 급이 더 높냐니, 후후…」</i>",
+      "en": "To Yae, such dull tasks as can be accomplished by driving spirits out need not be done personally.\nMoves swiftly, leaving a Sesshou Sakura behind.\n\n<color=#FFD780FF>Sesshou Sakura</color>\nHas the following properties:\n· Periodically strikes one nearby opponent with lightning, dealing <color=#FFACFFFF>Electro DMG</color>\n· When there are other Sesshou Sakura nearby, their level will increase, boosting the DMG dealt by these lightning strikes.\n\nThis skill has three charges.\nA maximum of 3 Sesshou Sakura can exist simultaneously. The initial level of each Sesshou Sakura is 1, and the initial highest level each sakura can reach is 3. If a new Sesshou Sakura is created too close to an existing one, the existing one will be destroyed.\n\n<i>\"The kitsune spirits sealed in the branches are all yakan who stooped to preying upon humans. The yakan are two grades lower than us Sky Kitsune, and so, I hardly see the problem with... asking that they do my bidding. Now, this doesn't mean that you humans should go learning from our grading systems, no indeed — and as for which of us, kitsune or human, is higher up in the pecking order... Heh, wouldn't you like to know?\"</i>",
+      "de": "Für Yae ist es nicht nötig, selbst tätig zu werden, wenn Geister ausgetrieben werden müssen.\nBewegt sich mit hoher Geschwindigkeit und hinterlässt eine „Sesshou-Sakura“.\n\n<color=#FFD780FF>Sesshou-Sakura</color>\nMerkmale:\n· Schlägt in gewissen zeitlichen Abständen einen Gegner in der Umgebung mit einem Blitz und fügt ihm <color=#FFACFFFF>Elektro-Schaden</color> zu.\n· Erhöht bei Anwesenheit weiterer Sesshou-Sakura in der Nähe die Stufe und erhöht damit den mit dem oben beschriebenen Angriff verursachten Schaden.\n\nDiese Fähigkeit kann 3-mal eingesetzt werden.\nZu einem Zeitpunkt können bis zu 3 Sesshou-Sakura existieren. Die anfängliche Stufe für Sesshou-Sakura ist 1, während die anfängliche Höchststufe 3 beträgt. Sollte sich eine neu erzeugte Sesshou-Sakura zu nah an einer vorhandenen befinden, wird die Letztere zerstört.\n\n<i>„Die Kitsune-Geister, die in den Zweigen versiegelt sind, sind allesamt Yakan, die sich auf die Jagd nach Menschen begeben haben. Die Yakan stehen zwei Stufen niedriger als wir Himmelsfüchse und daher sehe ich kaum ein Problem darin, sie zu bitten, meine Befehle auszuführen. Das heißt aber nicht, dass ihr Menschen von unserer Einteilung lernen solltet. Und was die Frage angeht, wer von uns, Kitsune oder Mensch, auf der höheren Stufe steht ... Tja, das würdest du gern wissen.“</i>",
+      "es": "Yae Miko no necesita hacer personalmente las tareas más triviales mientras pueda usar los espíritus de otros seres.\nHace un rápido movimiento e invoca un cerezo kitsune.\n\n<color=#FFD780FF>Cerezo kitsune</color>\nTiene las siguientes características:\n·Cada cierto tiempo, hace descender un rayo sobre un enemigo cercano para infligirle <color=#FFACFFFF>Daño Electro</color>.\n·Si se invoca un cerezo kitsune cuando ya existen otros, los ya existentes subirán de nivel y el daño que infligen con sus ataques aumentará.\n\nEsta habilidad puede usarse tres veces.\nSolo pueden existir 3 cerezos kitsune al mismo tiempo. Cuando se crea uno, su nivel inicial es 1 y solo podrá aumentar a nivel 3 como máximo. Si se crea un cerezo kitsune en una ubicación que esté excesivamente cerca de otro, el ya existente se destruirá.\n\n<i>“Los espíritus kitsune sellados en las ramas de los árboles son yako que han degenerado hasta querer herir a los humanos. Los yako están dos rangos por debajo de nosotros, los Kitsune Celestiales, así que no veo ningún problema en pedirles que cumplan mis órdenes. Aunque entre los kitsune tengamos un sistema de clasificación, los humanos no tienen por qué hacer eso. ¿Que quiénes son superiores, los humanos o los kitsune? *Ejem*, ¿de verdad te gustaría saberlo?”</i>",
+      "fr": "Pour Yae, les tâches ennuyeuses qui peuvent être réglées en chassant les esprits n'ont pas besoin d'être accomplies personnellement.\nSe déplace rapidement, en laissant derrière elle un sakura dévastateur.\n\n<color=#FFD780FF>Sakura dévastateur</color>\nLes caractéristiques suivantes s'appliquent :\n· Frappe un ennemi proche d'un éclair de façon intermittente, infligeant des <color=#FFACFFFF>DGT Électro</color>.\n· Lorsqu'il y a d'autres sakura dévastateurs à proximité, leur niveau augmente, améliorant les DGT qu'ils infligent.\n\nCette capacité peut être utilisée 3 fois.\nUn maximum de 3 sakura dévastateurs peut exister en même temps. Le niveau initial d'un sakura dévastateur est 1, et le niveau le plus élevé qu'un sakura peut atteindre est 3. Si un sakura dévastateur est créé trop près d'un autre sakura, l'ancien sakura est détruit.\n\n<i>« Les esprits Kitsunes scellés dans les branches sont tous des yakan qui aspirent à chasser les humains. Les yakan sont deux grades plus bas que nous, les Kitsunes célestes, et donc, je vois à peine le problème si je les... mets à mes ordres. Néanmoins, cela ne signifie pas que vous, les humains, devriez copier notre système de grade. Que nenni... Et quant à qui d'entre nous, Kitsunes ou humains, est le plus haut placé dans l'ordre hiérarchique... Héhé... »</i>",
+      "pt": "Para Yae, as coisas que podem ser resolvidas ao invocar os espíritos não precisam ser feitas pessoalmente.\nEla se move rapidamente, deixando uma Sesshou Sakura para trás.\n\n<color=#FFD780FF>Sesshou Sakura</color>\nTem as seguintes propriedades:\n· Ataca um inimigo próximo periodicamente com um relâmpago, causando <color=#FFACFFFF>Dano Electro</color>;\n· Quando há outras Sesshou Sakura por perto, seu nível aumenta, aumentando o Dano causado por seus ataques.\n\nEsta habilidade pode ser usada até três vezes.\nUm máximo de 3 Sesshou Sakura podem existir simultaneamente. Ao ser criada, a Sesshou Sakura iniciará no nível 1, o nível mais alto que cada Sesshou Sakura pode atingir é 3. Criar uma Sesshou Sakura muito próxima de outra já existente fará com que a Sesshou Sakura existente seja destruída.\n\n<i>\"Os espíritos kitsune selados nos ramos são todos yakan que se deterioraram até quererem ferir os humanos. Os yakan estão dois níveis abaixo de nós, Kitsunes Celestiais, e por isso não vejo qualquer problema com... pedir-lhes para cumprir minhas ordens. Agora, isso não significa que os humanos devem copiar nossos sistemas de classificação. Afinal de contas, quem é superior? Humanos ou kitsunes? Você quer realmente saber?\"</i>",
+      "ru": "Для Яэ хлопотами вроде изгнания духов нет нужды заниматься лично.\nСтремительно передвигается, оставляя за собой Сакуру сэссё.\n\n<color=#FFD780FF>Сакура сэссё</color>\nОбладает следующими свойствами:\n· Периодически бьёт врага поблизости молнией, нанося <color=#FFACFFFF>Электро урон</color>.\n· Наличие других Сакур сэссё поблизости повышает их уровень и наносимый ими урон.\n\nУ навыка 3 заряда.\nНа поле боя может быть до 3 Сакур сэссё. Изначально создаёт Сакуры 1-го уровня, они могут быть улучшены максимум до 3-го уровня. Если создать Сакуру слишком близко к уже существующей, то последняя уничтожится.\n\n<i>«Заточённые внутри ветвей сакуры духи кицунэ - это всё якан, которые причиняют людям вред. Они на две ступени ниже нас, Небесных кицунэ, поэтому я без зазрения совести заставляю их выполнять мои приказы. Но вы, люди, с нашей иерархии пример не берите. Что же до того, кто занимает более высокое положение, небесные кицунэ или люди... Хе-хе...»</i>",
+      "id": "Bagi Yae, urusan yang tidak penting bisa diselesaikan dengan menggunakan roh kitsune, sehingga dia sendiri tidak perlu turun tangan.\nBergerak cepat dan meninggalkan sebuah Sesshou Sakura.\n\n<color=#FFD780FF>Sesshou Sakura</color>\nMemiliki karakteristik sebagai berikut:\n·Menyerang musuh yang ada di sekitar dengan sambaran petir secara berkala, mengakibatkan <color=#FFACFFFF>Electro DMG</color>.\n·Ketika ada Sesshou Sakura lain yang berdekatan, levelnya akan meningkat dan DMG yang diakibatkan juga turut meningkat.\n\nMemiliki jumlah penggunaan 3 kali.\nMaksimum dapat meninggalkan 3 Sesshou Sakura di waktu yang sama. Level awal dari setiap Sesshou Sakura adalah 1, dan levelnya dapat ditingkatkan hingga level 3. Jika ada dua Sesshou Sakura yang diciptakan terlalu berdekatan, maka Sesshou Sakura yang diciptakan lebih dulu akan hancur.\n\n<i>\"Roh kitsune yang dikurung di pepohonan adalah roh para yakan yang jatuh ke dalam godaan dan hidup dengan memangsa manusia. Kasta mereka berada dua tingkat di bawah Sky Kitsune, jadi kurasa ... tidak masalah kan kalau aku suruh-suruh mereka mengerjakan urusanku? Nah, sistem kasta seperti ini bukan untuk ditiru manusia yah, tidak boleh ... Tapi soal siapa yang lebih tinggi kastanya di antara kitsune dan manusia ... Hehehe, siapa ya ...?\"</i>",
+      "th": "สำหรับ Yae แล้ว เรื่องยุ่งยากที่สามารถจัดการได้ โดยใช้เพียงแค่เหล่าวิญญาณนั้น ไม่จำเป็นต้องลงมือลงแรงด้วยตัวเองอย่างแน่นอน\nเคลื่อนที่อย่างรวดเร็ว และทิ้ง Sesshou Sakura ไว้เบื้องหลัง\n\n<color=#FFD780FF>Sesshou Sakura</color>\nมีคุณลักษณะพิเศษดังต่อไปนี้:\n·ปล่อยสายฟ้าฟาดลงมายังศัตรูที่อยู่โดยรอบหนึ่งตัวเป็นระยะ ๆ เพื่อสร้าง<color=#FFACFFFF>ความเสียหายไฟฟ้า</color>;\n·เมื่อมี Sesshou Sakura อันอื่นอยู่ในบริเวณใกล้เคียง จะเพิ่มระดับของมันขึ้น และทำให้ความเสียหายของการโจมตีที่กล่าวข้างต้นเพิ่มสูงขึ้น\n\nสามารถใช้ได้ 3 ครั้ง\nในช่วงเวลาเดียวกัน จะสามารถมี Sesshou Sakura ได้มากสุด 3 อัน โดยที่ระดับแรกในตอนเริ่มสร้างของ Sesshou Sakura จะเป็นระดับ 1 และจะเพิ่มได้มากสุดถึงระดับ 3 ซึ่งหากตำแหน่งที่สร้างอยู่ใกล้กับ Sesshou Sakura ที่มีอยู่ก่อนหน้ามากจนเกินไป จะทำลาย Sesshou Sakura ที่มีอยู่\n\n<i>\"วิญญาณจิ้งจอกที่สิงสถิตอยู่ในกิ่งไม้ล้วนตกต่ำกลายเป็นภูตผี Yakan ที่ทำร้ายมนุษย์ โดยลำดับขั้นของ Yakan นั้นจะต่ำกว่าพวกเราจิ้งจอกฟ้าอยู่สองระดับ ซึ่งทำให้การเรียกใช้งานนั้นเป็นเรื่องง่ายแสนง่าย แต่ระดับของพวกเราจิ้งจอกนั้นแสนมากมายและซับซ้อน มนุษย์อย่างพวกเธออย่าได้เป็นแบบนี้เชียวล่ะ ส่วนเรื่องที่เธอถามว่าระหว่างจิ้งจอกกับมนุษย์ใครอยู่สูงกว่ากัน หึหึ...\"</i>",
+      "vi": "Đối với Yae mà nói, những phiền phức mà chỉ cần triệu hồi tinh linh là đã giải quyết được, thì đương nhiên sẽ không cần tự mình nhúng tay vào.\nDi chuyển nhanh và để lại một \"Sesshou Sakura\".\n\n<color=#FFD780FF>Sesshou Sakura</color>\nCó đặc tính sau:\n·Cứ cách một thời gian sẽ giáng sét xuống 1 kẻ địch ở xung quanh, gây <color=#FFACFFFF>Sát Thương Nguyên Tố Lôi</color>;\n·Khi gần đó có Sesshou Sakura khác, sẽ tăng bậc cho chúng để tăng sát thương của đòn tấn công nêu trên.\n\nCó thể sử dụng 3 lần.\nTối đa tồn tại cùng lúc 3 Sesshou Sakura, Sesshou Sakura khi vừa khởi tạo sẽ có bậc 1, tối đa tăng đến bậc 3. Nếu vị trí khởi tạo có cự ly quá gần với Sesshou Sakura đã có, sẽ tiêu hủy Sesshou Sakura đã có.\n\n<i>\"Các tinh linh hồ ly bị phong ấn trong cành cây đều là những yakan chuyên làm hại con người. Yakan thấp hơn thiên hồ chúng tôi hai bậc, vì vậy, tôi có thể ra lệnh cho chúng thoải mái. Hồ ly tuy chia thành ba sáu chín bậc, nhưng con người đừng nên học theo nhé, còn về việc con người và hồ ly ai có cấp bậc cao hơn sao? Hờ hờ...\"</i>"
+    },
+    "imgid": "s_583201"
+  },
+  {
+    "title": {
+      "zhs": "大密法·天狐显真",
+      "zht": "大密法·天狐顯真",
+      "jp": "大密法·天狐顕現",
+      "ko": "대비법·천호 현신",
+      "en": "Great Secret Art: Tenko Kenshin",
+      "de": "Große Geheimkunst – Tenko Kenshin",
+      "es": "Técnica secreta suprema: Encarnación de Kitsune Celestial",
+      "fr": "Technique secrète : Incarnation de tenko",
+      "pt": "Grande Arte Secreta: Tenko Kenshin",
+      "ru": "Великое тайное искусство: Тэнко кэнсин",
+      "id": "Great Secret Art: Tenko Kenshin",
+      "th": "Great Secret Art: Tenko Kenshin",
+      "vi": "Đại Bí Pháp - Tenko Kenshin"
+    },
+    "description": {
+      "zhs": "稻妻民话中有「狐凭」一说。其中比较特殊的「天狐之凭」会以雷霆的形式降临在鸣神大社的敌人身上。降下雷电，造成<color=#FFACFFFF>雷元素范围伤害</color>。\n施放时，八重神子会解放附近的杀生樱，摧毁它们的形姿，化作天狐霆雷降下，造成<color=#FFACFFFF>雷元素范围伤害</color>。每通过这种方式摧毁一株杀生樱，就能降下一道天狐霆雷。\n\n<i>八重仅在此时需要露出天狐之凭证，号令雷霆。而看过宫司大人露出尾巴的家伙，都已经灰都不剩了。因此，谨记于心——八重大人是没有尾巴的。</i>",
+      "zht": "稻妻民話中有「狐憑」一說。其中比較特殊的「天狐之憑」會以雷霆的形式降臨在鳴神大社的敵人身上。降下雷電，造成<color=#FFACFFFF>雷元素範圍傷害</color>。\n施放時，八重神子會解放附近的殺生櫻，摧毀它們的形姿，化作天狐霆雷降下，造成<color=#FFACFFFF>雷元素範圍傷害</color>。每透過這種方式摧毀一株殺生櫻，就能降下一道天狐霆雷。\n\n<i>八重僅在此時需要露出天狐之憑證，號令雷霆。而看過宮司大人露出尾巴的傢伙，都已經灰都不剩了。因此，謹記於心——八重大人是沒有尾巴的。</i>",
+      "jp": "稲妻の民話には、「狐憑」なるものが存在する。その中でも特殊な「天狐の憑」は、雷霆の形を成して、鳴神大社に仇なす者へと落とされる。雷を落とし、<color=#FFACFFFF>雷元素範囲ダメージ</color>を与える。\n発動時、八重神子は周囲の殺生櫻を解放し破壊する。その後、天狐雷霆を形成して落とし、<color=#FFACFFFF>雷元素範囲ダメージ</color>を与える。この方法で破壊された殺生櫻1株につき、天狐雷霆を1つ落とす。\n\n<i>八重はこの瞬間にのみ、天狐の証を見せ、雷霆に命じる。だが、宮司様のしっぽを見た者は、灰すらも残らない。ゆえに、これだけは覚えておく必要がある——八重様にしっぽなどないのだと。</i>",
+      "ko": "이나즈마 민간 설화에는 「여우들림」에 관한 설이 있다. 그중 비교적 특이한 「천호(天狐)들림」은 뇌정의 형식으로 나루카미 다이샤의 적의 몸에 떨어진다. 번개를 내려 <color=#FFACFFFF>번개 원소 범위 피해</color>를 준다.\n발동 시, 야에 미코가 근처의 살생앵(殺生櫻)을 해방한 후 파괴하면 천호 뇌정으로 변해 <color=#FFACFFFF>번개 원소 범위 피해</color>를 준다. 이런 방식으로 살생앵을 파괴할 때마다 천호의 뇌정을 1회 내린다.\n\n<i>야에는 이때에만 천호의 증명을 꺼내 뇌정을 호령한다. 궁사님의 드러난 꼬리를 본 이들은 이미 모두 재조차도 남지 않았다. 그러니 가슴에 새겨 두도록 하자. 야에 님은 꼬리가 없다</i>",
+      "en": "Legends of \"kitsunetsuki,\" or the manifestation of a kitsune's might, are common in Inazuma's folktales. One that particularly captures the imagination is that of the Sky Kitsune, said to cause lightning to fall down upon the foes of the Grand Narukami Shrine. Summons a lightning strike, dealing <color=#FFACFFFF>AoE Electro DMG</color>.\nWhen she uses this skill, Yae Miko will unseal nearby Sesshou Sakura, destroying their outer forms and transforming them into Tenko Thunderbolts that descend from the skies, dealing <color=#FFACFFFF>AoE Electro DMG</color>. Each Sesshou Sakura destroyed in this way will create one Tenko Thunderbolt.\n\n<i>Only at times like these will Yae reveal her Sky Kitsune form and wield lightning itself. None have seen the Lady Guuji's tails and lived to tell the story... so remember, as far as you are concerned, Lady Yae does not have a tail.</i>",
+      "de": "Die Legende des „Kitsunetsuki“, der Heimsuchung durch eine Kitsune, gehört zu den Volksmärchen von Inazuma. Unter ihnen gilt die der Himmelsfüchse als etwas Besonderes, die in Form eines Blitzes auf die Feinde des Großen Narukami-Schreins herabfallen, wobei <color=#FFACFFFF>Elektro-Flächenschaden</color> verursacht wird.\nYae Miko aktiviert die Sesshou-Sakura in der Nähe beim Auslösen der Fähigkeit, zerstört ihre äußere Form und verwandelt sie in Tenko-Blitzschläge, die herunterprasseln und <color=#FFACFFFF>Elektro-Flächenschaden</color> verursachen. Für jede zerstörte Sesshou-Sakura wird ein Tenko-Blitzschlag erzeugt.\n\n<i>Yae benutzt nur in solchen Zeiten das Zeichen der Himmelsfüchse, um Blitze zu beschwören. Alle, die bisher die Schwänze der Guuji gesehen haben, sind zu Asche zerfallen. Also vergiss nicht, Yae hat keine Schwänze.</i>",
+      "es": "En Inazuma existen leyendas sobre posesiones kitsune. Una de las más particulares es la de la posesión por Kitsune Celestiales que caen con forma de relámpago sobre los intrusos que se infiltran en el Gran Santuario Narukami. Cuando el relámpago desciende, inflige <color=#FFACFFFF>Daño Electro en el AdE</color>.\nAl lanzar la habilidad, Yae Miko destruye los cerezos kitsune cercanos, los cuales se transforman en relámpagos de Kitsune Celestiales que infligen <color=#FFACFFFF>Daño Electro en el AdE</color>. Un relámpago de Kitsune Celestial caerá por cada cerezo kitsune que se destruya de esta forma.\n\n<i>Yae Miko solo revela su aspecto de Kitsune Celestial en los momentos más cruciales para invocar el poder del rayo. De aquellos que han visto la cola de la Suma Sacerdotisa no quedan ni las cenizas, así que más te vale recordar esto muy bien: la Srta. Yae no tiene cola.</i>",
+      "fr": "La légende du « kitsunetsuki », ou la possession par un Kitsune, est l'un des contes populaires d'Inazuma. Parmi eux, celui du Kitsune céleste est considéré comme spécial, accablant les ennemis du Sanctuaire de Narukami sous la forme d'un éclair qui s'abat, infligeant des <color=#FFACFFFF>DGT Électro de zone</color>.\nEn utilisant cette compétence, Yae Miko descelle les sakura dévastateurs à proximité pour détruire leurs formes extérieures et les transformer en éclairs de tenko descendant du ciel, infligeant des <color=#FFACFFFF>DGT Électro de zone</color>. Chaque sakura dévastateur détruit de cette manière déclenche un éclair.\n\n<i>Yae n'utilise sa quintessence de Kitsune céleste que dans ces moments-là, brandissant elle-même la foudre. Tous ceux qui ont vu les queues de la guuji ont été réduits en cendres, alors rappelez-vous que dame Yae n'a pas de queue !</i>",
+      "pt": "A lenda da \"kitsunetsuki\", ou a manifestação do poder kitsune, é uma das lendas de Inazuma. Dentre elas, a da Kitsune Celestial é considerada especial, caindo sobre os inimigos do Grande Santuário Narukami sob a forma de relâmpagos, causando <color=#FFACFFFF>Dano Electro em uma AdE</color>.\nQuando ela usa esta habilidade, Yae Miko irá retirar os selos das Sesshou Sakura próximas, destruindo suas formas externas e transformando-as em Relâmpagos de Kitsunes Celestiais que caem dos céus, causando <color=#FFACFFFF>Dano Electro em uma AdE</color>. Cada Sesshou Sakura destruída desta forma irá criar um Relâmpago.\n\n<i>Yae apenas usa os sinais da Kitsune Celestial em momentos assim, empunhando o próprio relâmpago. Todos que viram a cauda da Senhora Guuji foram transformados em cinzas, portanto, lembre-se, a Senhorita Yae não tem cauda alguma.</i>",
+      "ru": "В Инадзуме существуют легенды о кицунэцуки - людях, в которых вселился дух кицунэ. Из них весьма особенными считаются Небесные кицунэ, которые поражают молниями врагов Великого храма Наруками, нанося <color=#FFACFFFF>Электро урон по площади</color>.\nПри активации этого навыка Яэ Мико высвобождает Сакуры сэссё поблизости, разрушая их внешнюю форму и обращая в молнии Небесной кицунэ, которые наносят <color=#FFACFFFF>Электро урон по площади</color>. Каждая разрушенная таким образом Сакура сэссё даёт одну молнию Небесной кицунэ.\n\n<i>Черты Небесной кицунэ Яэ раскрываются лишь тогда, когда она повелевает молнией. От всех видевших её хвосты осталась лишь горстка пепла, поэтому помните - хвостов у госпожи Яэ нет.</i>",
+      "id": "Salah satu cerita rakyat Inazuma disebut \"kitsunetsuki\", dan yang paling spesial di antaranya adalah kisah tentang Sky Kitsune yang turun menghanguskan musuh-musuh Kuil Agung Narukami dalam bentuk sambaran petir, mengakibatkan <color=#FFACFFFF>Electro DMG area</color>.\nSaat melancarkan skill ini, Yae Miko akan membuka Sesshou Sakura yang ada di dekatnya, menghancurkan wujud luarnya, dan mengubahnya menjadi Tenko Thunderbolt yang turun dari langit, dan mengakibatkan <color=#FFACFFFF>Electro DMG area</color>. Setiap Sesshou Sakura yang dihancurkan dengan cara ini akan membuat satu Tenko Thunderbolt.\n\n<i>Yae hanya akan mengeluarkan \"wujud\" Sky Kitsune-nya di saat-saat tertentu seperti ini dan mengendalikan petir tersebut. Tidak ada seorang pun yang hidup setelah melihat ekor sang Nona Guuji ... Jadi ingat ya, Nona Yae tidak punya ekor.</i>",
+      "th": "ในนิทานพื้นบ้านของชาว Inazuma มีคำกล่าวถึง \"Kitsunetsuki\" หรือการสำแดงพลังของจิ้งจอก (Kitsune) ท่ามกลางหมู่นั้น การสำแดงของ \"จิ้งจอกฟ้า\" ที่ค่อนข้างพิเศษกว่า ซึ่งจะร่วงหล่นลงสู่ร่างกายศัตรูของศาลเจ้า Grand Narukami ในรูปแบบของสายฟ้า โดยสายฟ้าที่ฟาดลงมา จะทำให้เกิด<color=#FFACFFFF>ความเสียหายไฟฟ้าวงกว้าง</color>\nเมื่อใช้สกิลนี้ Yae Miko จะทำการปลดปล่อย Sesshou Sakura ที่อยู่ในบริเวณใกล้เคียง ทำลายรูปร่างภายนอกของพวกมัน แล้วเปลี่ยนเป็นสายฟ้า Tenko Thunderbolt ฟาดลงมา เพื่อสร้าง<color=#FFACFFFF>ความเสียหายไฟฟ้าวงกว้าง</color> โดยที่การทำลาย Sesshou Sakura แต่ละอันด้วยวิธีนี้ จะทำให้เกิดสายฟ้า Tenko Thunderbolt ฟาดลงมาหนึ่งครั้ง\n\n<i>มีเพียงช่วงเวลานี้เท่านั้น ที่ Yae จะต้องเปิดเผยตัวตนของจิ้งจอกฟ้าเพื่อสั่งการสายฟ้า ส่วนเจ้าพวกที่ได้เห็นหางของท่าน Guuji นั้น ต่างก็ไม่เหลือแม้เพียงฝุ่นธุลี ด้วยเหตุนี้ จงจำไว้ให้ขึ้นใจว่า ท่าน Yae น่ะไม่มีหางหรอกนะ</i>",
+      "vi": "Trong dân gian Inazuma có nhắc đến khái niệm \"kitsunetsuki\", hay có thể hiểu là chứng nhận của hồ ly. Trong đó, của \"Thiên Hồ\" là tương đối đặc biệt, có thể dùng lôi đình để giáng xuống người kẻ địch của Đền Narukami. Giáng sấm sét xuống, gây <color=#FFACFFFF>Sát Thương Phạm Vi Nguyên Tố Lôi</color>.\nKhi thi triển, Yae Miko sẽ giải phóng Sesshou Sakura ở gần đó, phá hủy hình thái của chúng và hóa thành Thiên Hồ Lôi Đình giáng xuống, gây <color=#FFACFFFF>Sát Thương Phạm Vi Nguyên Tố Lôi</color>. Mỗi lần phá hủy 1 Sesshou Sakura bằng cách này sẽ giáng xuống 1 tia Thiên Hồ Lôi Đình.\n\n<i>Vào lúc này, Yae cần để lộ ra chứng nhận thiên hồ để hiệu lệnh lôi đình. Nhưng những kẻ đã nhìn thấy đại nhân Guuji để lộ chiếc đuôi đều đã tan biến không còn lại gì dù chỉ là hạt bụi. Cho nên, hãy nhớ cho kỹ nhé - Yae đại nhân không hề có đuôi.</i>"
+    },
+    "imgid": "s_583901"
+  },
+  {
+    "title": {
+      "zhs": "神篱之御荫",
+      "zht": "神籬之御蔭",
+      "jp": "神籬之御蔭",
+      "ko": "히모로기의 그늘",
+      "en": "The Shrine's Sacred Shade",
+      "de": "Heiliger Schatten des Schreins",
+      "es": "Sombra sagrada",
+      "fr": "Ombre sacrée du sanctuaire",
+      "pt": "Sombra Sagrada",
+      "ru": "Божественная тень святилища",
+      "id": "The Shrine's Sacred Shade",
+      "th": "The Shrine's Sacred Shade",
+      "vi": "Bóng Râm Đền Thần"
+    },
+    "description": {
+      "zhs": "施放<color=#FFD780FF>大密法·天狐显真</color>时，每摧毁一株杀生樱，就会重置一次<color=#FFD780FF>野干役咒·杀生樱</color>的冷却时间。",
+      "zht": "施放<color=#FFD780FF>大密法·天狐顯真</color>時，每摧毀一株殺生櫻，就會重置一次<color=#FFD780FF>野干役咒·殺生櫻</color>的冷卻時間。",
+      "jp": "<color=#FFD780FF>大密法·天狐顕現</color>発動時、殺生櫻を1株破壊する毎に、<color=#FFD780FF>野干役呪·殺生櫻</color>のクールタイムを1回分リセットする。",
+      "ko": "<color=#FFD780FF>대비법·천호현신</color> 발동 시, 하나의 살생앵이 파괴될 때마다, <color=#FFD780FF>야칸의 소환·살생앵</color>의 재사용 대기시간이 초기화된다",
+      "en": "When casting <color=#FFD780FF>Great Secret Art: Tenko Kenshin</color>, each Sesshou Sakura destroyed resets the cooldown for 1 charge of <color=#FFD780FF>Yakan Evocation: Sesshou Sakura</color>.",
+      "de": "Überspringt beim Auslösen von <color=#FFD780FF>Große Geheimkunst – Tenko Kenshin</color> für jede zerstörte Sesshou-Sakura einmal die Abklingzeit von <color=#FFD780FF>Yakan-Kriegszauber – Sesshou-Sakura</color>.",
+      "es": "Al usar <color=#FFD780FF>Técnica secreta suprema: Encarnación de Kitsune Celestial</color>, el TdE de <color=#FFD780FF>Maleficio yako: Cerezo kitsune aniquilador</color> se reiniciará una vez por cada cerezo kitsune destruido.",
+      "fr": "Lors de l'utilisation de <color=#FFD780FF>Technique secrète : Incarnation de tenko</color>, le TdR d'<color=#FFD780FF>Évocation des yakan : Sakura dévastateur</color> se réinitialise une fois pour chaque sakura dévastateur détruit.",
+      "pt": "Ao lançar <color=#FFD780FF>Grande Arte Secreta: Tenko Kenshin</color>, cada Sesshou Sakura destruída redefinirá o Tempo de Recarga de uma carga de <color=#FFD780FF>Evocação Yakan: Sesshou Sakura</color>.",
+      "ru": "Каждая Сакура сэссё, разрушенная навыком <color=#FFD780FF>Великое тайное искусство: Тэнко кэнсин</color>, сбрасывает откат одного заряда навыка <color=#FFD780FF>Проклятие якан: Сакура сэссё</color>.",
+      "id": "Saat melancarkan <color=#FFD780FF>Great Secret Art: Tenko Kenshin</color>, setiap kali menghancurkan sebuah Sesshou Sakura akan me-reset cooldown <color=#FFD780FF>Yakan Evocation: Sesshou Sakura</color> satu kali.",
+      "th": "เมื่อใช้ <color=#FFD780FF>Great Secret Art: Tenko Kenshin</color> ในตอนที่ Sesshou Sakura แต่ละอันถูกทำลาย จะรีเซ็ตเวลาคูลดาวน์ของ <color=#FFD780FF>Yakan Evocation: Sesshou Sakura</color> 1 ครั้ง",
+      "vi": "Khi thi triển <color=#FFD780FF>Đại Bí Pháp - Tenko Kenshin</color>, mỗi lần phá hủy một Sesshou Sakura sẽ làm mới một lần CD kỹ năng <color=#FFD780FF>Thần Chú Yakan - Sesshou Sakura</color>."
+    },
+    "imgid": "p_582101"
+  },
+  {
+    "title": {
+      "zhs": "启蜇之祝词",
+      "zht": "啟蜇之祝詞",
+      "jp": "啓蟄之祝詞",
+      "ko": "계칩의 축문",
+      "en": "Enlightened Blessing",
+      "de": "Segnung der Erleuchtung",
+      "es": "Bendición del despertar",
+      "fr": "Bénédiction éveillée",
+      "pt": "Bênção Iluminada",
+      "ru": "Просветлённое благословение",
+      "id": "Enlightened Blessing",
+      "th": "Enlightened Blessing",
+      "vi": "Lời Cầu Phúc Giác Ngộ"
+    },
+    "description": {
+      "zhs": "八重神子的每点元素精通，能使<color=#FFD780FF>杀生樱</color>造成的伤害提升0.15%。",
+      "zht": "八重神子的每點元素精通，能使<color=#FFD780FF>殺生櫻</color>造成的傷害提升0.15%。",
+      "jp": "八重神子の元素熟知の数値が1につき、<color=#FFD780FF>殺生櫻</color>によるダメージ+0.15%。",
+      "ko": "야에 미코의 원소 마스터리 1pt당 <color=#FFD780FF>살생앵</color>이 가하는 피해가 0.15% 증가한다",
+      "en": "Every point of Elemental Mastery Yae Miko possesses will increase <color=#FFD780FF>Sesshou Sakura</color> DMG by 0.15%.",
+      "de": "Erhöht den mit <color=#FFD780FF>Sesshou-Sakura</color> verursachten Schaden für jeden Punkt Elementarkunde um 0,15 %.",
+      "es": "Aumenta en un 0.15% el daño que infligen los <color=#FFD780FF>cerezos kitsune</color> por cada punto de Maestría Elemental de Yae Miko.",
+      "fr": "#Chaque point de maîtrise élémentaire que Yae Miko possède augmente les DGT des <color=#FFD780FF>sakura dévastateurs</color> de 0,15{NON_BREAK_SPACE}%.",
+      "pt": "Cada ponto de Proficiência Elemental que Yae Miko possui aumenta o Dano infligido por <color=#FFD780FF>Sesshou Sakura</color> em 0.15%.",
+      "ru": "Каждая единица мастерства стихий Яэ Мико увеличивает урон <color=#FFD780FF>Сакуры сэссё</color> на 0,15%.",
+      "id": "Setiap poin Elemental Mastery yang dimiliki Yae Miko akan meningkatkan DMG yang diakibatkan <color=#FFD780FF>Sesshou Sakura</color> sebanyak 0,15%.",
+      "th": "ความชำนาญธาตุแต่ละหน่วยของ Yae Miko จะทำให้ <color=#FFD780FF>Sesshou Sakura</color> สร้างความเสียหายเพิ่มขึ้น 0.15%",
+      "vi": "Mỗi 1 điểm Tinh Thông Nguyên Tố của Yae Miko có thể tăng 0.15% sát thương do <color=#FFD780FF>Sesshou Sakura</color> gây ra."
+    },
+    "imgid": "p_582201"
+  },
+  {
+    "title": {
+      "zhs": "野狐说禅",
+      "zht": "野狐說禪",
+      "jp": "野狐説禅",
+      "ko": "여우의 담선(談禪)",
+      "en": "Meditations of a Yako",
+      "de": "Yako-Meditation",
+      "es": "Meditación de yako",
+      "fr": "Méditation d'une yako",
+      "pt": "Meditações de uma Yako",
+      "ru": "Медитация яко",
+      "id": "Meditations of a Yako",
+      "th": "Meditations of a Yako",
+      "vi": "Hồ Ly Thiền Định"
+    },
+    "description": {
+      "zhs": "合成角色天赋素材时，有25%概率额外产生一份地区相同的其他随机天赋素材，等阶与合成所消耗的素材相同。",
+      "zht": "合成角色天賦素材時，有25%機率額外產生一份地區相同的其他隨機天賦素材，等階與合成所消耗的素材相同。",
+      "jp": "キャラクター天賦素材を合成する時、25%の確率で同じ地域の異なる天賦素材をランダムで1個獲得できる。追加獲得素材は、消費素材と同ランクになる。",
+      "ko": "캐릭터 특성 소재 합성 시 25%의 확률로 같은 지역의 다른 랜덤 특성 소재 하나를 추가로 획득한다. 등급과 합성에 소모하는 소재는 같다",
+      "en": "Has a 25% chance to get 1 regional Character Talent Material (base material excluded) when crafting. The rarity is that of the base material.",
+      "de": "Erschafft mit einer Wahrscheinlichkeit von 25 % extra ein anderes zufälliges Material für Talente aus demselben Gebiet mit einer dem verbrauchten Material entsprechenden Stufe.",
+      "es": "Al fabricar materiales de talento, hay una probabilidad del 25% de obtener otro aleatorio de la misma región y tipo que los materiales usados.",
+      "fr": "25 % de chances de synthétiser un matériau d'aptitude aléatoire supplémentaire (même rareté et région que les matériaux consommés).",
+      "pt": "Há 25% de chance de obter um Material de Talento extra aleatório da mesma região. A raridade será a mesma dos materiais consumidos ao fabricar.",
+      "ru": "Создание материалов повышения талантов: 25% шанс получить другой доп. материал того же региона и той же редкости, как у исходных.",
+      "id": "Memberikan 25% peluang mendapat 1 tambahan Material Talenta acak yang sewilayah saat craft. Level dan material yang dibutuhkannya sama.",
+      "th": "เมื่อสร้างวัสดุพรสวรรค์ของตัวละคร มีโอกาส 25% ที่จะสุ่มได้วัสดุพรสวรรค์ชนิดอื่นในพื้นที่เดียวกันอีก 1 ชิ้น โดยจะมีระดับเท่ากันกับระดับของวัสดุที่ใช้ในการสร้าง",
+      "vi": "Khi ghép nguyên liệu thiên phú nhân vật, có tỷ lệ 25% sản sinh thêm 1 nguyên liệu thiên phú ngẫu nhiên khác của cùng khu vực, cấp bậc giống với nguyên liệu khi ghép."
+    },
+    "imgid": "p_582301"
+  }
+]

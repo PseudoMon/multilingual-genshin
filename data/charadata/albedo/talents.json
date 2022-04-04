@@ -1,0 +1,200 @@
+[
+  {
+    "title": {
+      "zhs": "普通攻击·西风剑术·白",
+      "zht": "普通攻擊·西風劍術·白",
+      "jp": "通常攻撃·西風剣術·白",
+      "ko": "일반 공격·페보니우스 검술·백",
+      "en": "Normal Attack: Favonius Bladework - Weiss",
+      "de": "Standardangriff: Favonius-Schwertkunst – Weiß",
+      "es": "Ataque Normal: Técnica de espada Favonius - Albor",
+      "fr": "Attaque normale : Escrime de Favonius - Blanche",
+      "pt": "Ataque Normal: Técnica da Espada de Favonius - Branco",
+      "ru": "Фехтовальный стиль Фавония: Мел",
+      "id": "Normal Attack: Favonius Bladework - Weiss",
+      "th": "โจมตีปกติ: Favonius Bladework - Weiss",
+      "vi": "Tấn Công Thường - Tây Phong Kiếm Thuật - Bạch"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>普通攻击</color>\n进行至多五段的连续剑击。\n\n<color=#FFD780FF>重击</color>\n消耗一定体力，瞬间向前方挥出两剑。\n\n<color=#FFD780FF>下落攻击</color>\n从空中下坠冲击地面，攻击下落路径上的敌人，并在落地时造成范围伤害。",
+      "zht": "<color=#FFD780FF>普通攻擊</color>\n進行至多五段的連續劍擊。\n\n<color=#FFD780FF>重擊</color>\n消耗一定體力，瞬間向前方揮出兩劍。\n\n<color=#FFD780FF>下落攻擊</color>\n從空中下墜衝擊地面，攻擊下落路徑上的敵人，並在落地時造成範圍傷害。",
+      "jp": "<color=#FFD780FF>通常攻撃</color>\n剣による最大5段の連続攻撃を行う。\n\n<color=#FFD780FF>重撃</color>\n一定のスタミナを消費し、前方に斬撃を2回放つ。\n\n<color=#FFD780FF>落下攻撃</color>\n空中から落下し地面に衝撃を与える。経路上の敵を攻撃し、落下時に範囲ダメージを与える。",
+      "ko": "<color=#FFD780FF>일반 공격</color>\n검으로 최대 5번 공격한다.\n\n<color=#FFD780FF>강공격</color>\n일정 스태미나를 소모해 순간적으로 전방을 향해 검을 2번 휘두른다.\n\n<color=#FFD780FF>낙하 공격</color>\n공중에서 땅을 내려찍어 경로상의 적을 공격하고, 착지 시 범위 피해를 준다",
+      "en": "<color=#FFD780FF>Normal Attack</color>\nPerform up to 5 rapid strikes.\n\n<color=#FFD780FF>Charged Attack</color>\nConsumes a certain amount of Stamina to unleash 2 rapid sword strikes.\n\n<color=#FFD780FF>Plunging Attack</color>\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+      "de": "<color=#FFD780FF>Standardangriff</color>\nFührt bis zu 5 Schwerthiebe hintereinander aus.\n\n<color=#FFD780FF>Heftiger Schlag</color>\nVerbraucht eine gewisse Menge Ausdauer und schwingt das Schwert zweimal schnell nach vorn.\n\n<color=#FFD780FF>Angriff aus dem Fall</color>\nSchlägt beim Fallen aus der Luft auf den Boden, greift alle Gegner in der Bahn an und verursacht beim Aufkommen Flächenschaden.",
+      "es": "<color=#FFD780FF>Ataque Normal</color>\nRealiza hasta 5 ataques rápidos.\n\n<color=#FFD780FF>Ataque Cargado</color>\nConsume una cierta cantidad de Aguante para lanzar un golpe de espada cruzado.\n\n<color=#FFD780FF>Ataque Descendente</color>\nSe lanza desde el aire para golpear el suelo, dañando a los enemigos cercanos e infligiendo Daño en el AdE en el momento del impacto.",
+      "fr": "<color=#FFD780FF>Attaque normale</color>\nEnchaîne jusqu'à 5 coups d'épée.\n\n<color=#FFD780FF>Attaque chargée</color>\nConsomme de l'endurance pour déclencher deux coups d'épée rapides.\n\n<color=#FFD780FF>Attaque plongeante</color>\nPlonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis en chemin et des DGT de zone à l'impact.",
+      "pt": "<color=#FFD780FF>Ataque Normal</color>\nRealiza até 5 golpes rápidos.\n\n<color=#FFD780FF>Ataque Carregado</color>\nConsome uma certa quantidade de Stamina para desferir 2 golpes rápidos com a espada.\n\n<color=#FFD780FF>Ataque Imersivo</color>\nMergulha em pleno ar para golpear o chão, causando dano aos inimigos ao longo do caminho e infligindo Dano em uma AdE durante o impacto.",
+      "ru": "<color=#FFD780FF>Обычная атака:</color>\nДо пяти быстрых ударов мечом.\n\n<color=#FFD780FF>Заряженная атака:</color>\nДва быстрых взмаха мечом, для которых тратится определённое количество выносливости.\n\n<color=#FFD780FF>Атака в падении:</color>\nСтремительно падает на землю, атакуя всех врагов на пути. Приземлившись, наносит урон по площади.",
+      "id": "<color=#FFD780FF>Normal Attack</color>\nMelancarkan hingga 5 tebasan pedang berturut-turut.\n\n<color=#FFD780FF>Charged Attack</color>\nMengonsumsi sejumlah Stamina untuk melancarkan dua tebasan pedang ke depan.\n\n<color=#FFD780FF>Plunging Attack</color>\nMenerjang dari udara untuk menghantam tanah, mengakibatkan DMG pada musuh di jalur terjangan dan mengakibatkan DMG area saat mendarat.",
+      "th": "<color=#FFD780FF>โจมตีปกติ</color>\nโจมตีด้วยดาบต่อเนื่องมากสุดห้าครั้ง\n\n<color=#FFD780FF>ชาร์จโจมตี</color>\nใช้พลังกายส่วนหนึ่ง เพื่อปลดปล่อยการโจมตีด้วยดาบ ออกไปข้างหน้าสองครั้งอย่างรวดเร็ว\n\n<color=#FFD780FF>โจมตีพุ่งลงจากอากาศ</color>\nกระโจนจากกลางอากาศลงมายังพื้นดิน เพื่อโจมตีศัตรูที่อยู่ในเส้นทางการโจมตี โดยจะสร้างความเสียหายวงกว้างเมื่อลงถึงพื้น",
+      "vi": "<color=#FFD780FF>Tấn Công Thường</color>\nThực hiện tối đa 5 lần đánh kiếm liên tiếp.\n\n<color=#FFD780FF>Trọng Kích</color>\nTiêu hao thể lực nhất định, đánh ra hai kiếm về phía trước trong chớp mắt.\n\n<color=#FFD780FF>Tấn Công Khi Đáp</color>\nĐáp xuống đất từ trên không, tấn công kẻ địch trên đường và gây sát thương phạm vi khi chạm đất."
+    },
+    "imgid": "s_383101"
+  },
+  {
+    "title": {
+      "zhs": "创生法·拟造阳华",
+      "zht": "創生法·擬造陽華",
+      "jp": "創生術·擬似陽華",
+      "ko": "창생법·모조 태양꽃",
+      "en": "Abiogenesis: Solar Isotoma",
+      "de": "Chemische Evolution – Sonnennachbildung",
+      "es": "Abiogénesis: Isotoma solar",
+      "fr": "Genèse : Aura solaire",
+      "pt": "Abiogênese - Radiação Solar",
+      "ru": "Абиогенез: Цветок солнца",
+      "id": "Abiogenesis: Solar Isotoma",
+      "th": "Abiogenesis: Solar Isotoma",
+      "vi": "Thuật Sáng Thế - Chế Tạo Mặt Trời"
+    },
+    "description": {
+      "zhs": "炼成阳华，造成<color=#FFE699FF>岩元素范围伤害</color>。\n\n<color=#FFD780FF>阳华</color>\n具有如下特性：\n·以阳华为中心的领域中的敌人受到伤害时，阳华将会生成刹那之花，绽放造成<color=#FFE699FF>岩元素范围伤害</color>，伤害基于阿贝多的防御力。\n·每2秒只能生成一次刹那之花。\n·角色处在阳华上时，阳华将会凝聚岩元素的力量，形成将角色托起至一定高度的晶台。同时只能存在一个晶台。\n·同时只能存在一个由阿贝多自己创造的阳华，视为<color=#FFE699FF>岩元素创造物</color>。\n\n<color=#FFD780FF>长按</color>\n可以调整技能生效位置。\n\n<i>这种岩花有着奇异的特性，和炼金术的目的一致。诞生自大地，却一直希望上升至高天，化作太阳。</i>",
+      "zht": "煉成陽華，造成<color=#FFE699FF>岩元素範圍傷害</color>。\n\n<color=#FFD780FF>陽華</color>\n具有如下特性：\n·以陽華為中心的領域中的敵人受到傷害時，陽華將會生成刹那之花，綻放造成<color=#FFE699FF>岩元素範圍傷害</color>，傷害基於阿貝多的防禦力。\n·每2秒只能生成一次刹那之花。\n·角色處在陽華上時，陽華將會凝聚岩元素的力量，形成將角色托起至一定高度的晶台。同時只能存在一個晶台。\n·同時只能存在一個由阿貝多自己創造的陽華，視為<color=#FFE699FF>岩元素創造物</color>。\n\n<color=#FFD780FF>長按</color>\n可以調整技能生效位置。\n\n<i>這種岩花有著奇異的特性，和煉金術的目的一致。誕生自大地，卻一直希望上昇至高天，化作太陽。</i>",
+      "jp": "陽華を錬成し、<color=#FFE699FF>岩元素範囲ダメージ</color>を与える。\n\n<color=#FFD780FF>陽華</color>\n陽華は以下の特性を持つ。\n·陽華を中心とするエリア内にいる敵がダメージを受けた時、陽華は刹那の花を生成し、敵に<color=#FFE699FF>岩元素範囲ダメージ</color>を与えるダメージ量はアルベドの防御力によって決まる。\n·刹那の花は2秒毎に1回のみ生成できる。\n·キャラクターが陽華の上にいる時、陽華は岩元素の力を凝結し、キャラクターを一定の高さまで持ち上げる晶台を生成する。晶台は同時に最大1つまで存在可能。\n·アルベドによって創造された陽華は同時に最大1つまで存在可能。また、陽華は<color=#FFE699FF>岩元素創造物</color>とみなされる。\n\n<color=#FFD780FF>長押し</color>\nスキルの発動位置を調整できる。\n\n<i>この岩の花には奇妙な習性がある。大地から生まれ、天高く登り太陽になることを望む。それは、錬金術の目指す物と一致している。</i>",
+      "ko": "태양꽃을 생성해 <color=#FFE699FF>바위 원소 범위 피해</color>를 준다.\n\n<color=#FFD780FF>태양꽃</color>\n태양꽃은 아래의 특성을 가진다:\n·태양꽃을 중심으로 한 영역에서 적이 피해를 받으면 태양꽃은 찰나의 꽃을 피워내 <color=#FFE699FF>바위 원소 범위 피해</color>를 주며, 해당 피해는 알베도 방어력의 영향을 받는다.\n·찰나의 꽃은 2초마다 1회만 생성된다.\n·캐릭터가 태양꽃 위에 있으면, 태양꽃은 바위 원소의 힘을 모아 캐릭터를 일정 높이까지 들어 올리는 크리스탈 플랫폼을 만든다. 크리스탈 플랫폼은 동시에 1개만 존재할 수 있다.\n·알베도가 만들어 낸 동시에 1개만 존재할 수 있는 태양꽃은 <color=#FFE699FF>바위 원소 창조물</color>로 간주한다.\n\n<color=#FFD780FF>홀드</color>\n태양꽃이 생성되는 위치를 조정할 수 있다.\n\n<i>이러한 바위 꽃은 연금술의 목적과 일치하는 독특한 특징을 가지고 있다. 대지에서 태어났지만, 하늘 높이 올라가서 태양이 되고 싶어 한다</i>",
+      "en": "Albedo creates a Solar Isotoma using alchemy, which deals <color=#FFE699FF>AoE Geo DMG</color> on appearance.\n\n<color=#FFD780FF>Solar Isotoma</color>\nhas the following properties:\n·When opponents within the Solar Isotoma field take DMG, the Solar Isotoma will generate Transient Blossoms which deal <color=#FFE699FF>AoE Geo DMG</color>. DMG dealt scales off Albedo's DEF. \n·Transient Blossoms can only be generated once every 2s.\n·When a character is located at the locus of the Solar Isotoma, the Solar Isotoma will accumulate Geo power to form a crystallized platform that lifts the character up to a certain height. Only one crystallized platform can exist at a time.\n·Solar Isotoma is considered a <color=#FFE699FF>Geo construct</color>. Only one Solar Isotoma created by Albedo himself can exist at a time. \n\n<color=#FFD780FF>Hold</color> to designate the location of the skill.\n\n<i>This Geo bloom has an unusual property mirrored in the aim of alchemy. To rise from the earth, soar into the sky, and become the sun.</i>",
+      "de": "Schafft eine nachgebildete Sonne und verursacht <color=#FFE699FF>Geo-Flächenschaden</color>.\n\n<color=#FFD780FF>Sonnennachbildung</color>\nMerkmale:\n· Erschafft eine Blüte der Vergänglichkeit, wenn Gegner im Wirkungsbereich der Sonnennachbildung Schaden erleiden, die beim Erblühen <color=#FFE699FF>Geo-Flächenschaden</color> verursacht. Der Schaden basiert auf Albedos VTD.\n· 2 s Abklingzeit für Blüte der Vergänglichkeit.\n· Konzentriert die Geo-Kraft, wenn sich die Figur auf der Sonnennachbildung befindet, und erstellt eine Kristallplattform, die die Figur in die Höhe hebt. Zu einem Zeitpunkt kann es nur eine Kristallplattform geben.\n· Zu einem Zeitpunkt kann nur eine von Albedo selbst erschaffene Sonnennachbildung existieren. Sie gilt als <color=#FFE699FF>Geo-Objekt</color>.\n\n<color=#FFD780FF>Gedrückt halten</color>\nWirkungsbereich der Fähigkeit kann angepasst werden.\n\n<i>Diese steinerne Blume hat ganz besondere Eigenschaften, die dem Zweck der Alchimie entsprechen. Sie entsteht in der Erde und strebt dennoch nach oben, um schließlich im Himmel zu einer Sonne zu werden.</i>",
+      "es": "Crea una isotoma solar que inflige <color=#FFE699FF>Daño Geo en el AdE</color>.\n\n<color=#FFD780FF>Isotoma solar</color>\nCaracterísticas:\n·Cuando los enemigos situados en el centro del área de la isotoma solar reciben daño, esta se convertirá en una flor fugaz, abriéndose e infligiendo <color=#FFE699FF>Daño Geo en el AdE</color> proporcional a la DEF de Albedo.\n·Solo puede crearse una flor fugaz cada 2 s.\n·Cuando un personaje se sitúa sobre la isotoma solar, el poder de Geo se concentrará para formar una plataforma cristalizada de cierta altura sobre la que se podrán mantener los personajes.\n·Solamente puede existir al mismo tiempo una isotoma solar creada por Albedo, y esta se considera una <color=#FFE699FF>creación Geo</color>.\n\n<color=#FFD780FF>Mantener pulsado</color>\nControla la ubicación sobre la que tiene lugar la habilidad.\n\n<i>Esta especie de flor Geo, cuya meta es la misma que la de la alquimia, tiene una naturaleza muy particular. Brota de la tierra con miras a ascender a los cielos, donde se convertirá en un Sol</i>.",
+      "fr": "Génère une Aura solaire, infligeant des <color=#FFE699FF>DGT Géo de zone</color>.\n\n<color=#FFD780FF>Aura solaire</color>\n· Un Germe éphémère est créé lorsque les ennemis se trouvant dans la zone subissent des DGT, infligeant des <color=#FFE699FF>DGT Géo de zone</color> proportionnels à la DÉF d'Albedo.\n· Un Germe éphémère peut être généré toutes les 2 s.\n· Lorsqu'un personnage rejoint le centre de l'Aura solaire, l'énergie Géo présente se concentre pour générer un podium ascendant lui permettant de dominer le champ de bataille. Il ne peut exister qu'un seul podium à la fois.\n· L'Aura solaire est considérée comme une <color=#FFE699FF>construction Géo</color>.\n\n<color=#FFD780FF>Appui long</color>\nAjuste la zone où la compétence sera lancée.\n\n<i>Cette étrange dispositif rocheux est semblable à l'art même de l'alchimie : né de la terre et aspirant au ciel.</i>",
+      "pt": "A criação da Radiação Solar causa <color=#FFE699FF>Dano Geo em uma AdE</color>\n\n<color=#FFD780FF>Radiação Solar</color>\nTem as seguintes propriedades:\nQuando inimigos dentro da área da Radiação Solar são atingidos, a Radiação Solar gerará Flores Transitórias que causam <color=#FFE699FF>Dano Geo em uma AdE</color>. Dano causado escala conforme a DEF de Albedo.\nFlores Transitórias só podem ser gerada uma vez a cada 2s.\nQuando um personagem está localizado no local da Radiação Solar, a Radiação Solar irá acumular o poder Geo, erguendo-os em um pódio cristalizado. Apenas um pódio cristalizado pode existir por vez.\nSomente é possível existir uma Radiação Solar por vez feita por Albedo, e é considerada como uma <color=#FFE699FF>Construção Geo</color>.\n\n<color=#FFD780FF>Manter pressionado</color> para designar a localização da habilidade.\n\n<i>Esta espécie de flor Geo tem uma propriedade incomum espelhada na mesma da alquimia. Para levantar-se da terra, elevar-se para o céu e tornar-se o sol.</i>",
+      "ru": "С помощью алхимии Альбедо создаёт Цветок солнца, который наносит <color=#FFE699FF>Гео урон по площади</color>.\n\n<color=#FFD780FF>Цветок солнца</color> имеет следующие свойства:\n· Когда противники в зоне с центром на Цветке солнца получают урон, Цветок солнца генерирует Цветки мимолётности, наносящие <color=#FFE699FF>Гео урон по площади</color>. Наносимый урон зависит от защиты Альбедо.\n· Цветки мимолётности могут генерироваться не чаще чем раз в 2 сек.\n· Когда персонаж встаёт на Цветок солнца, он испускает энергию Гео, чтобы создать кристаллическую платформу, которая поднимает персонажа на определённую высоту. Одновременно может существовать только одна кристаллическая платформа.\n· Одновременно может существовать только один созданный самим Альбедо Цветок солнца, и он считается <color=#FFE699FF>Гео конструкцией</color>.\n\n<color=#FFD780FF>Долгое нажатие</color> позволяет выбрать место эффекта навыка.\n\n<i>Необычные свойства этого Гео цветка хорошо отражают цели алхимии. Родиться в земле, стремиться ввысь к небесам и стать солнцем.</i>",
+      "id": "Albedo menciptakan Solar Isotoma yang mengakibatkan <color=#FFE699FF>Geo DMG area</color>.\n\n<color=#FFD780FF>Solar Isotoma</color>\nMempunyai efek sebagai berikut:\n·Saat musuh yang berada dalam area Solar Isotoma menerima DMG, Solar Isotoma akan menghasilkan Transient Blossom yang mengakibatkan <color=#FFE699FF>Geo DMG area</color>. DMG yang diakibatkan akan berdasarkan pada DEF Albedo.\n·Transient Blossom hanya dapat muncul setiap 2 detik.\n·Saat Karakter berada di atas Solar Isotoma, Solar Isotoma akan mengakumulasi kekuatan Geo dan mengangkat Karakter ke atas platform kristal. Hanya bisa terdapat satu platform kristal dalam waktu bersamaan.\n·Hanya bisa terdapat satu Solar Isotoma yang diciptakan Albedo di waktu yang bersamaan. Solar Isotoma dianggap sebagai <color=#FFE699FF>Geo Construct</color>.\n\n<color=#FFD780FF>Tahan</color>\nUntuk mengatur lokasi skill.\n\n<i>Bunga Geo ini mempunyai ciri khas yang mencerminkan tujuan utama ilmu alkimia: Lahir dari bumi dan naik ke langit, untuk menjadi matahari.</i>",
+      "th": "#ใช้วิชาแปรธาตุสร้าง Solar Isotoma เพื่อทำให้เกิด<color=#FFE699FF>ความเสียหายหินเป็นวงกว้าง</color>\n\n<color=#FFD780FF>Solar Isotoma</color>\nมีคุณสมบัติพิเศษดังต่อไปนี้:\n·เมื่อศัตรูได้รับความเสียหายภายในพื้นที่ที่มี Solar Isotoma เป็นศูนย์กลาง จากนั้น Solar Isotoma จะสร้าง Transient Blossom ที่จะทำให้เกิด<color=#FFE699FF>ความเสียหายหินวงกว้าง</color> โดยความเสียหายที่สร้าง จะขึ้นอยู่กับพลังป้องกันของ Albedo\n·ในทุก 2 วินาที จะสามารถทำให้เกิด Transient Blossom ได้เพียงครั้งเดียวเท่านั้น\n·เมื่อตัวละครอยู่ในพื้นที่ของ Solar Isotoma แล้ว Solar Isotoma จะรวบรวมพลังธาตุหินและทำให้เกิดเป็นแท่นคริสตัลที่ยกตัวละครให้สูงขึ้น โดยจะสามารถมีแท่นคริสตัลพร้อมกันได้เพียงแท่นเดียวเท่านั้น\n·ในช่วงเวลาเดียวกัน จะสามารถมี Solar Isotoma ที่ถูกสร้างขึ้นโดยตัวของ Albedo เองได้เพียงอันเดียวเท่านั้น และจะถูกมองว่าเป็น<color=#FFE699FF>วัตถุธาตุหิน</color>\n\n<color=#FFD780FF>{LAYOUT_MOBILE#แตะค้าง}{LAYOUT_PC#กดค้าง}{LAYOUT_PS#กดค้าง}</color>\nสามารถปรับตำแหน่งการเกิดเอฟเฟกต์ของสกิลได้\n\n<i>ดอกไม้หินชนิดนี้มีคุณลักษณะพิเศษที่ไม่ธรรมดา ซึ่งสอดคล้องกับจุดประสงค์ของการเล่นแร่แปรธาตุ ถือกำเนิดขึ้นมาจากพื้นดิน แต่หวังเสมอว่าจะได้ขึ้นไปบนท้องฟ้า และกลายเป็นดวงตะวัน</i>",
+      "vi": "Luyện thành Hoa Mặt Trời, gây <color=#FFE699FF>sát thương phạm vi Nguyên Tố Nham</color>.\n\n<color=#FFD780FF>Hoa Mặt Trời</color>\nCó những đặc tính sau:\n·Lấy Hoa Mặt Trời làm tâm, khi địch nằm trong khu vực nhận sát thương, Hoa Mặt Trời sẽ sinh ra Hoa Khoảnh Khắc, bung nở gây <color=#FFE699FF>sát thương phạm vi Nguyên Tố Nham</color>, sát thương tính theo phòng ngự của Albedo.\n·Mỗi 2 giây chỉ có thể sinh ra 1 Hoa Khoảnh Khắc.\n·Khi nhân vật đứng trên Hoa Mặt Trời sẽ ngưng tụ sức mạnh Nguyên Tố Nham, hình thành đài thủy tinh nâng nhân vật lên. Cùng lúc chỉ tồn tại 1 đài thủy tinh.\n·Cùng lúc chỉ có thể tồn tại 1 Hoa Mặt Trời do Albedo tạo ra, Hoa Mặt Trời được coi như <color=#FFE699FF>vật tạo Nguyên Tố Nham</color>.\n\n<color=#FFD780FF>Nhấn giữ</color>\nCó thể điều chỉnh vị trí hiệu lực của kỹ năng.\n\n<i>Loại Nham hoa này có đặc tính kỳ lạ, cũng giống như thuật giả kim, sinh ra từ mặt đất nhưng lại luôn hy vọng vươn cao lên trời, hóa thành vầng thái dương.</i>"
+    },
+    "imgid": "s_383201"
+  },
+  {
+    "title": {
+      "zhs": "诞生式·大地之潮",
+      "zht": "誕生式·大地之潮",
+      "jp": "誕生式·大地の潮",
+      "ko": "탄생식·대지의 파동",
+      "en": "Rite of Progeniture: Tectonic Tide",
+      "de": "Fortpflanzung – Tektonische Welle",
+      "es": "Creación: Marea tectónica",
+      "fr": "Transformation : Reflux Géo",
+      "pt": "Ritual da Progenitura - Maré Tectônica",
+      "ru": "Ритуал рождения: Тектоническая волна",
+      "id": "Rite of Progeniture: Tectonic Tide",
+      "th": "Rite of Progeniture: Tectonic Tide",
+      "vi": "Chiêu Giáng Sinh - Sóng Vỗ Đại Lục"
+    },
+    "description": {
+      "zhs": "岩晶在阿贝多的指示下涌动爆发，在阿贝多前方造成<color=#FFE699FF>岩元素范围伤害</color>。\n场上存在阿贝多自己创造的阳华时，会在阳华的领域内生成7朵生灭之花，猛烈绽放并造成<color=#FFE699FF>岩元素范围伤害</color>。\n\n爆发伤害与生灭之花的伤害不会生成刹那之花。\n\n<i>在白垩色王子的命令之下，大地的造物之潮翻涌了起来。</i>",
+      "zht": "岩晶在阿貝多的命令下湧動爆發，在阿貝多前方造成<color=#FFE699FF>岩元素範圍傷害</color>。\n場上存在阿貝多自己創造的陽華時，會在陽華的領域內生成七朵生滅之花，猛烈綻放並造成<color=#FFE699FF>岩元素範圍傷害</color>。\n\n爆發傷害與生滅之花的傷害不會生成刹那之花。\n\n<i>在白堊色王子的命令之下，大地的造物之潮翻湧了起來。</i>",
+      "jp": "アルベドの指示の下、岩晶が激しく爆発しアルベドの前方に<color=#FFE699FF>岩元素範囲ダメージ</color>を与える。\nフィールド上にアルベドが創造した陽華が存在している場合、陽華のエリア内に7本の生滅の花を生成し、<color=#FFE699FF>岩元素範囲ダメージ</color>を与える。\n\n爆発と生滅の花によるダメージによって刹那の花が作られることはない。\n\n<i>白亜色の王子の命令の下、大地の創造物たちは激しく鼓動する。</i>",
+      "ko": "바위 수정은 알베도의 지시에 따라 폭발해 알베도 전방에 <color=#FFE699FF>바위 원소 범위 피해</color>를 준다.\n필드 위에 알베도가 만든 태양꽃이 존재할 경우, 태양꽃 영역 안에 생멸의 꽃 7송이가 맹렬하게 피어나면서 <color=#FFE699FF>바위 원소 범위 피해</color>를 준다.\n\n버스트 피해와 생멸의 꽃 피해는 찰나의 꽃을 만들어 낼 수 없다.\n\n<i>백악색 왕자의 명령에 따라, 대지의 창조물이 용솟음친다</i>",
+      "en": "Under Albedo's command, Geo crystals surge and burst forth, dealing <color=#FFE699FF>AoE Geo DMG</color> in front of him.\nIf a Solar Isotoma created by Albedo himself is on the field, 7 Fatal Blossoms will be generated in the Solar Isotoma field, bursting violently into bloom and dealing <color=#FFE699FF>AoE Geo DMG</color>.\n\nTectonic Tide DMG and Fatal Blossom DMG will not generate Transient Blossoms.\n\n<i>Under the Kreideprinz's command, the tectonic tide of creation seethes into life.</i>",
+      "de": "Geo-Kristalle rasen auf Albedos Befehl nach vorn und verursachen vor Albedo <color=#FFE699FF>Geo-Flächenschaden</color>.\nErschafft, wenn eine Sonnennachbildung von Albedo existiert, 7 Blüten der Sterblichkeit im Wirkungsbereich der Sonnennachbildung, die wild erblühen und <color=#FFE699FF>Geo-Flächenschaden</color> verursachen.\n\nDer vor Albedo entstehende Schaden sowie der Schaden der Blüten der Sterblichkeit führen nicht zur Schaffung von Blüten der Vergänglichkeit.\n\n<i>Unter Führung des Kreideprinzen bewegt sich die Erde nach seinem Willen.</i>",
+      "es": "Albedo ordena a sus cristales Geo que exploten, lanzándolos al frente e infligiendo <color=#FFE699FF>Daño Geo en el AdE</color>.\nSi en el campo de batalla ya hay una isotoma solar creada por Albedo, creará 7 flores de la muerte dentro del área de la isotoma, provocando una violenta explosión que inflige <color=#FFE699FF>Daño Geo en el AdE</color>.\n\nEl daño causado por la explosión y las flores de la muerte no creará una flor fugaz.\n\n<i>Bajo las órdenes del Príncipe de la Roca Caliza, el mundo entero puede temblar</i>.",
+      "fr": "L'énergie Géo contenue dans le sol explose en émergeant sous les ordres d'Albedo, infligeant des <color=#FFE699FF>DGT Géo de zone</color> devant lui.\nLorsqu'une Aura solaire générée par Albedo est présente sur le champ de bataille, 7 Germes fatals sont générés, qui fleurissent en explosant, infligeant des <color=#FFE699FF>DGT Géo de zone</color>.\n\nLes DGT d'explosion et les DGT des Germes fatals ne génèrent pas de Germes éphémères.\n\n<i>Sous les commandes du Kreideprinz, les forces habitant le sol émergent en une marée implacable.</i>",
+      "pt": "Sob o comando de Albedo, os cristais Geo surgem e explodem, causando <color=#FFE699FF>Dano Geo em uma AdE</color> na frente dele.\nSe houver Radiação Solar no campo criado pelo próprio Albedo, 7 Flores Fatais serão geradas na zona da Radiação Solar, florescendo violentamente e causando <color=#FFE699FF>Dano Geo em uma AdE</color>.\n\nO Dano causado pela explosão e da Flor Fatal não gerará Flores Transitórias.\n\n<i>Sob o comando do Príncipe do Giz, a maré tectônica da criação se infiltra na vida.</i>",
+      "ru": "Альбедо выпускает перед собой Гео кристаллы, которые взрываются и наносят <color=#FFE699FF>Гео урон по площади</color>.\nЕсли на поле боя существует созданный самим Альбедо Цветок солнца, то в его зоне генерируются 7 Цветков неизбежности, которые мгновенно расцветают и наносят <color=#FFE699FF>Гео урон по площади</color>.\nУрон от Тектонической волны и Цветков неизбежности не генерирует Цветки мимолётности.\n\n<i>По команде Принца мела тектоническая волна созидания переливается в жизнь.</i>",
+      "id": "Di bawah perintah Albedo, kristal Geo melonjak dan meledak, mengakibatkan <color=#FFE699FF>Geo DMG area</color> di hadapan Albedo.\nJika Solar Isotoma yang dibuat oleh Albedo sendiri ada di sekitarnya, maka 7 Fatal Blossom akan muncul di area sekitar Solar Isotoma dan menyebabkan ledakan yang mengakibatkan <color=#FFE699FF>Geo DMG area</color>.\n\nDMG Tectonic Tide dan DMG Fatal Blossom tidak akan menghasilkan Transient Blossom.\n\n<i>Di bawah perintah Kreideprinz, gelombang tektonik penciptaan akan menghasilkan kehidupan.</i>",
+      "th": "คริสตัลหินที่ปะทุขึ้นภายใต้คำสั่งของ Albedo จะทำให้เกิด <color=#FFE699FF>ความเสียหายหินเป็นวงกว้าง</color> ขึ้นที่ด้านหน้าของ Albedo\nหากมี Solar Isotoma ที่สร้างขึ้นโดยตัวของ Albedo อยู่ จะสร้าง Fatal Blossoms ขึ้น 7 ดอก ภายในพื้นที่ของ Solar Isotoma โดยจะเบ่งบานขึ้นมาอย่างรุนแรงและทำให้เกิด<color=#FFE699FF>ความเสียหายหินวงกว้าง</color>\n\nความเสียหายท่าไม้ตายและความเสียหายของ Fatal Blossom จะไม่ทำให้เกิด Transient Blossoms\n\n<i>ด้วยคำสั่งของ Kreideprinz คลื่นแห่งวัตถุของพื้นโลกจะปะทุขึ้นมา</i>",
+      "vi": "Dưới chỉ huy của Albedo, nham tinh bùng nổ, gây <color=#FFE699FF>sát thương phạm vi Nguyên Tố Nham</color> về phía trước.\nKhi trong trận có tồn tại Hoa Mặt Trời do Albedo tạo ra, sẽ nở bung 7 đóa Hoa Sinh Tử trong khu vực của Hoa Mặt Trời, nở rộ rực rỡ đồng thời gây <color=#FFE699FF>sát thương phạm vi Nguyên Tố Nham</color>.\n\nSát thương bạo phát và sát thương của Hoa Sinh Tử sẽ không tạo thành Hoa Khoảnh Khắc.\n\n<i>Dưới mệnh lệnh của Kreideprinz, dòng thủy triều của địa chất cuồn cuộn dâng trào.</i>"
+    },
+    "imgid": "s_383901"
+  },
+  {
+    "title": {
+      "zhs": "白垩色的威压",
+      "zht": "白堊色的威壓",
+      "jp": "白亜色の気迫",
+      "ko": "백악색의 위압",
+      "en": "Calcite Might",
+      "de": "Kreideweiße Macht",
+      "es": "Fuerza caliza",
+      "fr": "Menace calcaire",
+      "pt": "Pressão Calcária",
+      "ru": "Превосходство кальцита",
+      "id": "Calcite Might",
+      "th": "Calcite Might",
+      "vi": "Uy Lực Màu Vôi Trắng"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>创生法·拟造阳华</color>的刹那之花对生命值低于50%的敌人造成的伤害提高25%。",
+      "zht": "<color=#FFD780FF>創生法·擬造陽華</color>的刹那之花對生命值低於50%的敵人造成的傷害提高25%。",
+      "jp": "<color=#FFD780FF>創生術·擬似陽華</color>の刹那の花がHP50%未満の敵にダメージを与えた場合、ダメージ量+25%。",
+      "ko": "<color=#FFD780FF>창생법·모조 태양꽃</color>의 찰나의 꽃이 HP가 50% 미만인 적에게 가하는 피해가 25% 증가한다",
+      "en": "Transient Blossoms generated by <color=#FFD780FF>Abiogenesis: Solar Isotoma</color> deal 25% more DMG to opponents whose HP is below 50%.",
+      "de": "Erhöht den Gegnern mit weniger als 50 % LP mit Blüten der Vergänglichkeit von <color=#FFD780FF>Chemische Evolution – Sonnennachbildung</color> zugefügten Schaden um 25 %.",
+      "es": "Aumenta en un 25% el daño infligido por la flor fugaz de <color=#FFD780FF>Abiogénesis: Isotoma solar</color> contra enemigos con menos del 50% de Vida.",
+      "fr": "Les Germes éphémères générés par <color=#FFD780FF>Genèse : Aura solaire</color> infligent 25 % de DGT supplémentaires aux ennemis dont les PV sont inférieurs à 50 %.",
+      "pt": "Flores transitórias geradas por <color=#FFD780FF>Abiogênese - Radiação Solar</color> causam mais 25% de Dano aos inimigos cuja Vida esteja abaixo de 50%.",
+      "ru": "Увеличивает урон Цветков мимолётности навыка <color=#FFD780FF>Абиогенез: Цветок солнца</color> по противникам с HP ниже 50% на 25%.",
+      "id": "Transient Blossom yang muncul karena <color=#FFD780FF>Abiogenesis: Solar Isotoma</color> mengakibatkan 25% DMG lebih besar kepada musuh dengan HP kurang dari 50%.",
+      "th": "Transient Blossom ที่เกิดจาก <color=#FFD780FF>Abiogenesis: Solar Isotoma</color> จะสร้างความเสียหายแก่ศัตรูที่มีพลังชีวิตต่ำกว่า 50% เพิ่มขึ้น 25%",
+      "vi": "Hoa Khoảnh Khắc sinh ra từ <color=#FFD780FF>Thuật Sáng Thế - Chế Tạo Mặt Trời</color> sát thương gây cho kẻ địch có HP dưới 50% sẽ tăng 25%."
+    },
+    "imgid": "p_382101"
+  },
+  {
+    "title": {
+      "zhs": "瓶中人的天慧",
+      "zht": "瓶中人的天慧",
+      "jp": "ホムンクルスの天智",
+      "ko": "병 속 인간의 지혜",
+      "en": "Homuncular Nature",
+      "de": "Weisheit aus der Flasche",
+      "es": "Sabiduría del homúnculo",
+      "fr": "Sagesse en bouteille",
+      "pt": "Sabedoria em Uma Garrafa",
+      "ru": "Гомункулярная природа",
+      "id": "Homuncular Nature",
+      "th": "Homuncular Nature",
+      "vi": "Trí Tuệ Người Trong Bình"
+    },
+    "description": {
+      "zhs": "施放<color=#FFD780FF>诞生式·大地之潮</color>时，使附近的队伍中角色的元素精通提高125点，持续10秒。",
+      "zht": "施放<color=#FFD780FF>誕生式·大地之潮</color>時，使附近的隊伍中角色的元素精通提高125點，持續10秒。",
+      "jp": "<color=#FFD780FF>誕生式·大地の潮</color>を発動した時、周囲のチーム全員の元素熟知を+125、継続時間10秒。",
+      "ko": "<color=#FFD780FF>탄생식·대지의 파동</color> 발동 시 주변의 파티 내 캐릭터의 원소 마스터리가 125pt 증가한다. 지속 시간: 10초",
+      "en": "Using <color=#FFD780FF>Rite of Progeniture: Tectonic Tide</color> increases the Elemental Mastery of nearby party members by 125 for 10s.",
+      "de": "Erhöht die Elementarkunde der Truppenmitglieder in der Nähe bei Anwendung von <color=#FFD780FF>Fortpflanzung – Tektonische Welle</color> 10 s lang um 125 Punkte.",
+      "es": "<color=#FFD780FF>Creación: Marea tectónica</color> aumenta en 125 pts. la Maestría Elemental de los personajes del equipo cercanos durante 10 s.",
+      "fr": "L'activation de <color=#FFD780FF>Transformation : Reflux Géo</color> confère à tous les personnages de l'équipe à proximité un bonus de 125 pts de maîtrise élémentaire pendant 10 s.",
+      "pt": "<color=#FFD780FF>Ritual da Progenitura - Maré Tectônica</color> aumenta a Proficiência Elemental dos membros próximos do grupo em 125 por 10s.",
+      "ru": "Активация навыка <color=#FFD780FF>Ритуал рождения: Тектоническая волна</color> увеличивает мастерство стихий ближайших членов отряда на 125 ед. в течение 10 сек.",
+      "id": "<color=#FFD780FF>Rite of Progeniture: Tectonic Tide</color> akan meningkatkan 125 Elemental Mastery bagi anggota party di sekitarnya selama 10 detik.",
+      "th": "เมื่อใช้ <color=#FFD780FF>Rite of Progeniture: Tectonic Tide</color> จะเพิ่มความชำนาญธาตุให้แก่ตัวละครในทีมที่อยู่ใกล้ขึ้น 125 หน่วย เป็นเวลา 10 วินาที",
+      "vi": "Khi thi triển <color=#FFD780FF>Chiêu Giáng Sinh - Sóng Vỗ Đại Lục</color> sẽ tăng 125 điểm Tinh Thông Nguyên Tố cho thành viên trong đội ở gần, kéo dài 10s."
+    },
+    "imgid": "p_382201"
+  },
+  {
+    "title": {
+      "zhs": "天才的发现",
+      "zht": "天才的發現",
+      "jp": "天才の気付き",
+      "ko": "천재의 발견",
+      "en": "Flash of Genius",
+      "de": "Geburt eines Genies",
+      "es": "Genio de la alquimia",
+      "fr": "Découverte de génie",
+      "pt": "Gênio Despertado",
+      "ru": "Вспышка гениальности",
+      "id": "Flash of Genius",
+      "th": "Flash of Genius",
+      "vi": "Phát Hiện Của Thiên Tài"
+    },
+    "description": {
+      "zhs": "合成武器突破素材时，有10%概率获得2倍产出。",
+      "zht": "合成武器突破素材時，有10%機率獲得兩倍產出。",
+      "jp": "武器突破素材を合成する時、10%の確率でアイテムを2倍獲得する。",
+      "ko": "무기 돌파 소재를 합성 시 10%의 확률로 생산량의 2배를 획득한다",
+      "en": "When Albedo crafts Weapon Ascension Materials, he has a 10% chance to receive double the product.",
+      "de": "Stellt beim Zusammensetzen von Material zum Aufstieg von Waffen mit einer Wahrscheinlichkeit von 10 % den 2-fachen Ertrag her.",
+      "es": "Al crear materiales de ascensión de arma, hay una probabilidad del 10% de recibir el doble.",
+      "fr": "10 % de chances d'obtenir le double de produits lors de la synthèse de matériaux d'élévation d'arme.",
+      "pt": "Quando Albedo fabrica Materiais de Ascensão de Armas, ele tem 10% de chance de receber o dobro do produto.",
+      "ru": "При создании материалов возвышения оружия имеет 10% шанс создать дополнительный предмет.",
+      "id": "Saat membuat Material Ascension Senjata, memiliki 10% kemungkinan untuk mendapatkan hasil 2 kali lipat.",
+      "th": "เมื่อสร้างวัสดุเลื่อนขั้นอาวุธ จะมีโอกาส 10% ที่จะได้รับผลผลิตเพิ่มเป็น 2 เท่า",
+      "vi": "Khi ghép nguyên liệu đột phá vũ khí sẽ có 10% tỷ lệ nhận x2 thành phẩm."
+    },
+    "imgid": "p_382301"
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "title": {
+      "zhs": "普通攻击·炎舞",
+      "zht": "普通攻擊·炎舞",
+      "jp": "通常攻撃·炎舞",
+      "ko": "일반 공격·염무",
+      "en": "Normal Attack: Dance on Fire",
+      "de": "Standardangriff: Tanz der Flammen",
+      "es": "Ataque Normal: Baile ardiente",
+      "fr": "Attaque normale : Danse du feu",
+      "pt": "Ataque Normal: Dança do Fogo",
+      "ru": "Зажигательный танец",
+      "id": "Normal Attack: Dance on Fire",
+      "th": "โจมตีปกติ - Dance on Fire",
+      "vi": "Tấn Công Thường - Viêm Vũ"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>普通攻击</color>\n进行至多四段的连续挥砍。\n\n<color=#FFD780FF>重击</color>\n持续消耗体力，旋转大剑攻击周围的敌人。\n停止旋转时，会进行一次格外有力的挥砍。\n\n<color=#FFD780FF>下落攻击</color>\n从空中下坠冲击地面，攻击下落路径上的敌人，并在落地时造成范围伤害。",
+      "zht": "<color=#FFD780FF>普通攻擊</color>\n進行至多四段的連續揮砍。\n\n<color=#FFD780FF>重擊</color>\n持續消耗體力，旋轉大劍攻擊周圍的敵人。\n停止旋轉時，會進行一次格外有力的揮砍。\n\n<color=#FFD780FF>下落攻擊</color>\n從空中下墜衝擊地面，攻擊下落路徑上的敵人，並在落地時造成範圍傷害。",
+      "jp": "<color=#FFD780FF>通常攻撃</color>\n最大4段の連続攻撃を行う。\n\n<color=#FFD780FF>重撃</color>\n持続的にスタミナを消費し、大剣を振り回して周囲の敵を攻撃する。\n重撃が終了した時に、さらに強力な攻撃を1回放つ。\n\n<color=#FFD780FF>落下攻撃</color>\n空中から落下し地面に衝撃を与える。経路上の敵を攻撃し、落下時に範囲ダメージを与える。",
+      "ko": "<color=#FFD780FF>일반 공격</color>\n검으로 최대 4번 공격한다.\n\n<color=#FFD780FF>강공격</color>\n스태미나를 지속해서 소모해 검을 휘두르며 주변의 적을 공격한다.\n회전 종료 시 추가로 한 번 더 강력하게 휘두른다.\n\n<color=#FFD780FF>낙하 공격</color>\n공중에서 땅을 내려찍어 경로상의 적을 공격하고 착지 시 범위 피해를 준다",
+      "en": "<color=#FFD780FF>Normal Attack</color>\nPerform up to 4 consecutive strikes.\n\n<color=#FFD780FF>Charged Attack</color>\nDrains Stamina over time to perform continuous spinning attacks against all nearby opponents.\nAt the end of the sequence, perform a more powerful slash. \n\n<color=#FFD780FF>Plunging Attack</color>\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+      "de": "<color=#FFD780FF>Standardangriff</color>\nFührt bis zu 4 Schwünge mit dem Schwert hintereinander aus.\n\n<color=#FFD780FF>Heftiger Schlag</color>\nVerbraucht fortlaufend Ausdauer, wirbelt das Großschwert und greift Gegner in der Umgebung an.\nSchwingt das Schwert am Ende mit besonders großer Wucht.\n\n<color=#FFD780FF>Angriff aus dem Fall</color>\nSchlägt beim Fallen aus der Luft auf den Boden, greift alle Gegner in der Bahn an und verursacht beim Aufkommen Flächenschaden.",
+      "es": "<color=#FFD780FF>Ataque Normal</color>\nRealiza hasta 4 tajos de espada consecutivos.\n\n<color=#FFD780FF>Ataque Cargado</color>\nConsume Aguante de manera constante para realizar golpes de espada giratorios contra los enemigos cercanos.\nAl final del Ataque Cargado, realizará un golpe de espada más poderoso.\n\n<color=#FFD780FF>Ataque Descendente</color>\nSe lanza desde el aire para golpear el suelo, dañando a los enemigos cercanos e infligiendo Daño en el AdE en el momento del impacto.",
+      "fr": "<color=#FFD780FF>Attaque normale</color>\nEnchaîne jusqu'à 4 coups d'épée.\n\n<color=#FFD780FF>Attaque chargée</color>\nExécute une succession d'attaques tournoyantes contre les ennemis proches ; cette attaque consomme de l'endurance de façon continue.\nL'attaque chargée se termine sur un coup puissant.\n\n<color=#FFD780FF>Attaque plongeante</color>\nPlonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis en chemin et des DGT de zone à l'impact.",
+      "pt": "<color=#FFD780FF>Ataque Normal</color>\nRealiza até 4 golpes consecutivos.\n\n<color=#FFD780FF>Ataque Carregado</color>\nDrena Stamina ao longo do tempo para realizar um ataque giratório contínuo contra todos os inimigos próximos.\nAo final da sequência, realiza um corte poderoso.\n\n<color=#FFD780FF>Ataque Imersivo</color>\nMergulha em pleno ar para golpear o chão, danificando inimigos em seu caminho e infligindo Dano em uma AdE durante o impacto.",
+      "ru": "<color=#FFD780FF>Обычная атака:</color>\nДо четырёх рубящих ударов мечом.\n\n<color=#FFD780FF>Заряженная атака:</color>\nВращающаяся атака по окружающим врагам, на которую непрерывно тратится выносливость.\nПосле вращения проводит дополнительную мощную атаку мечом.\n\n<color=#FFD780FF>Атака в падении:</color>\nСтремительно падает на землю, атакуя всех врагов на пути. Приземлившись, наносит урон по площади.",
+      "id": "<color=#FFD780FF>Normal Attack</color> Melancarkan hingga 4 tebasan berturut-turut.\n\n<color=#FFD780FF>Charged Attack</color>\nTerus menguras Stamina untuk melancarkan serangan berputar yang mengakibatkan DMG ke musuh di sekitar.\nDiakhiri dengan sebuah tebasan yang kuat.\n\n<color=#FFD780FF>Plunging Attack</color>\nMenerjang dari udara untuk menghantam tanah, mengakibatkan DMG pada musuh di jalur terjangan dan mengakibatkan DMG area saat mendarat.",
+      "th": "<color=#FFD780FF>โจมตีปกติ</color>\nฟาดฟันต่อเนื่องมากสุดสี่ครั้ง\n\n<color=#FFD780FF>ชาร์จโจมตี</color>\nใช้พลังกายอย่างต่อเนื่องเพื่อหมุนโจมตีศัตรูรอบตัวด้วยดาบขนาดใหญ่\nเมื่อหยุดหมุนจะทำการฟันเพิ่มอย่างรุนแรงอีกหนึ่งครั้ง\n\n<color=#FFD780FF>โจมตีพุ่งลงจากอากาศ</color>\nกระโจนจากกลางอากาศลงมายังพื้นดิน เพื่อโจมตีศัตรูที่อยู่ในเส้นทางการโจมตี โดยจะสร้างความเสียหายวงกว้างเมื่อลงถึงพื้น",
+      "vi": "<color=#FFD780FF>Tấn Công Thường</color>\nThực hiện tối đa 4 lần chém liên tiếp.\n\n<color=#FFD780FF>Trọng Kích</color>\nTiêu hao thể lực để xoay kiếm tấn công địch xung quanh.\nKhi ngừng quay, sẽ bổ một nhát cực mạnh.\n\n<color=#FFD780FF>Tấn Công Khi Đáp</color>\nĐáp xuống đất từ trên không, tấn công kẻ địch trên đường và gây sát thương phạm vi khi chạm đất."
+    },
+    "imgid": "s_443101"
+  },
+  {
+    "title": {
+      "zhs": "热情拂扫",
+      "zht": "熱情拂掃",
+      "jp": "情熱の薙ぎ払い",
+      "ko": "정열의 연주",
+      "en": "Sweeping Fervor",
+      "de": "Schlag in die Saiten",
+      "es": "Desenfreno",
+      "fr": "Jeu fervent",
+      "pt": "Fervor Arrebatador",
+      "ru": "Решительный жар",
+      "id": "Sweeping Fervor",
+      "th": "Sweeping Fervor",
+      "vi": "Khuấy Động Nhiệt Huyết"
+    },
+    "description": {
+      "zhs": "辛焱挥动乐器，对周围的敌人造成<color=#FF9999FF>火元素伤害</color>，并借由「观众」的「热情」，形成护盾。\n护盾的伤害吸收量受益于辛焱的防御力，并基于命中敌人的数目：\n·未命中或命中一名敌人：一级护盾·散序节拍；\n·命中二名敌人：二级护盾·歌头节拍；\n·命中三名或更多敌人时，将产生三级护盾·舞遍节拍。除了吸收伤害，还会间歇性对周围的敌人造成<color=#FF9999FF>火元素伤害</color>。\n\n护盾具有如下特性：\n·施放的瞬间，为辛焱施加<color=#FF9999FF>火元素附着</color>；\n·对<color=#FF9999FF>火元素伤害</color>有250%的吸收效果。\n\n<i>辛焱坚称这些火花是演奏技术到极致时的表现，是物理现象，和神之眼无关。</i>",
+      "zht": "辛焱揮動樂器，對周圍的敵人造成<color=#FF9999FF>火元素傷害</color>，並借由「觀眾」的「熱情」，形成護盾。\n護盾的傷害吸收量受益於辛焱的防禦力，並基於命中敵人的數目：\n·未命中或命中一名敵人：一級護盾·散序節拍；\n·命中二名敵人：二級護盾·歌頭節拍；\n·命中三名或更多敵人時，將產生三級護盾·舞遍節拍。除了吸收傷害，還會間歇性對周圍的敵人造成<color=#FF9999FF>火元素傷害</color>。\n\n護盾具有如下特性：\n·施放的瞬間，為辛焱施加<color=#FF9999FF>火元素附著</color>；\n·對<color=#FF9999FF>火元素傷害</color>有250%的吸收效果。\n\n<i>辛焱堅稱這些火花是演奏技術到極致時的表現，是物理現象，和神之眼無關。</i>",
+      "jp": "楽器を振り回し、周囲の敵に<color=#FF9999FF>炎元素ダメージ</color>を与え、「観客」の「情熱」でシールドを生成する。\nシールドのダメージ吸収量は辛炎の防御力によって決まり、シールドのレベルは命中した敵の数によって変わる。\n·敵に命中しなかった又は1名の敵に命中した場合：Lv.1シールド·イントロのリズム\n·2名の敵に命中した場合：Lv.2シールド·指揮のリズム\n·3名またはそれ以上の敵に命中した場合：Lv.3シールド·舞のリズムを生成する。シールドはダメージを吸収するほか、一定時間の間隔で周囲の敵に<color=#FF9999FF>炎元素ダメージ</color>を与える。\n\nシールドは以下の特性を持つ。\n·発動する時、辛炎に<color=#FF9999FF>炎元素付着</color>を与える。\n·<color=#FF9999FF>炎元素ダメージ</color>に対して、250%の吸収効果がある。\n\n<i>これらの火花は演奏スキルを極めた結果であり、ただの物理現象で、神の目とは関係ないと辛炎は主張している。</i>",
+      "ko": "신염이 악기를 휘둘러 주변의 적에게 <color=#FF9999FF>불 원소 피해</color>를 주고 관중의 열정을 빌려 보호막을 생성한다.\n보호막의 피해 흡수량은 신염의 방어력과 명중한 적의 숫자에 영향을 받는다.\n·적을 명중하지 못하거나 1명 명중: 1급 보호막· 변칙 리듬\n·적 2명 명중: 2급 보호막·선창 리듬\n·적 3명 이상 명중: 3급 보호막·댄스 리듬을 생성하며, 피해 흡수뿐만 아니라 간헐적으로 주변의 적에게 <color=#FF9999FF>불 원소 피해</color>를 준다.\n\n보호막은 아래의 효과를 가진다:\n·발동하는 순간 신염에게 <color=#FF9999FF>불 원소를 부착</color>한다.\n·<color=#FF9999FF>불 원소 피해</color>에 대해 250%의 흡수 효과가 있다.\n\n<i>신염은 이 불꽃들은 자신의 연주 스킬이 극한에 도달하여 생긴 물리 현상으로 신의 눈과는 관련이 없다고 주장한다</i>",
+      "en": "Xinyan brandishes her instrument, dealing <color=#FF9999FF>Pyro DMG</color> on nearby opponents, forming a shield made out of her audience's passion.\nThe shield's DMG Absorption scales based on Xinyan's DEF and on the number of opponents hit.\n·Hitting 0–1 opponents grants Shield Level 1: Ad Lib.\n·Hitting 2 opponents grants Shield Level 2: Lead-In.\n·Hitting 3 or more opponents grants Shield Level 3: Rave, which will also deal intermittent <color=#FF9999FF>Pyro DMG</color> to nearby opponents.\n\nThe shield has the following special properties:\n·When unleashed, it infuses Xinyan with <color=#FF9999FF>Pyro</color>.\n·It has 250% DMG Absorption effectiveness against <color=#FF9999FF>Pyro DMG</color>.\n\n<i>Xinyan insists that these pyrotechnics are the apex of performative art, and that they are physical phenomena that have nothing to do with her Vision.</i>",
+      "de": "Xinyan streicht ihr Instrument, fügt Gegnern in der Umgebung <color=#FF9999FF>Pyro-Schaden</color> zu und erschafft aus der Leidenschaft ihrer Zuschauer einen Schild.\nDie Schildstärke hängt von Xinyans VTD und der Anzahl getroffener Gegner ab.\n· Kein bis ein getroffener Gegner: Schild Stufe 1 – Einstimmen.\n· Zwei getroffene Gegner: Schild Stufe 2 – Aufdrehen.\n· Drei oder mehr getroffene Gegner: Schild Stufe 3 – Abfeiern. Hält Schaden ab und fügt Gegnern in der Umgebung stoßweise <color=#FF9999FF>Pyro-Schaden</color> zu.\n\nMerkmale des Schildes:\n· Verleiht Xinyan beim Auslösen das <color=#FF9999FF>Pyro-Attribut</color>.\n· Hält bei <color=#FF9999FF>Pyro-Schaden</color> 250 % ab.\n\n<i>Xinyan besteht darauf, dass die Funken der Ausdruck ihrer Darbietungskunst, also natürlichen Ursprungs sind und nichts mit dem Göttlichen Auge zu tun haben.</i>",
+      "es": "Xinyan blande su instrumento, infligiendo <color=#FF9999FF>Daño Pyro</color> a los enemigos cercanos y formando un escudo hecho con el entusiasmo de su audiencia.\nLa absorción de daño del escudo es proporcional a la DEF de Xinyan y al número de enemigos alcanzados.\n·De 0 a 1 enemigos: otorga un Escudo Niv. 1: Improvisación.\n·2 enemigos: otorga un Escudo Niv. 2: Entrada.\n·3 o más enemigos: otorga un Escudo Niv. 3: Fiesta que inflige intermitentemente <color=#FF9999FF>Daño Pyro</color> a los enemigos cercanos.\n\nEl escudo tiene las siguientes propiedades:\n·Al activarse, aplica el elemento <color=#FF9999FF>Pyro</color> sobre Xinyan.\n·Tiene un 250% de efectividad de absorción de <color=#FF9999FF>Daño Pyro</color>.\n\n<i>Xinyan insiste en que el uso de toda esta pirotecnia representa el punto álgido de una actuación artística, y que se trata nada más que de fenómenos físicos. No tiene nada que ver con su Visión.</i>",
+      "fr": "Xinyan brandit sa guitare, et inflige aux ennemis proches des <color=#FF9999FF>DGT Pyro</color>, et génère un bouclier grâce au soutien de l'audience.\nLe bouclier absorbe une quantité de PV proportionnelle à la DÉF de Xinyan et aux ennemis touchés :\n· 0 à 1 ennemi touché : Bouclier Niv.1\n· 2 ennemis touchés : Bouclier Niv.2\n· 3 ennemis touchés ou plus : Bouclier Niv.3, qui inflige en plus des <color=#FF9999FF>DGT Pyro</color> aux ennemis proches de façon intermittente.\n\nLe bouclier a les effets suivants :\n· Applique au moment de sa création l'<color=#FF9999FF>élément Pyro</color> à Xinyan ;\nLe bouclier est efficace à 250 % contre les <color=#FF9999FF>DGT Pyro</color>.\n\n<i>Xinyan n'insiste jamais assez sur le fait que tous ces effets sont le pinacle de l'art de la scène, et qu'ils constituent un phénomène d'ordre physique n'ayant bien sûr rien à voir avec son œil divin.</i>",
+      "pt": "Xinyan brande seu instrumento, causando <color=#FF9999FF>Dano Pyro</color> em inimigos próximos, criando um escudo feito a partir da paixão de seu público.\nA absorção de Dano do escudo aumenta com base na DEF de Xinyan e no número de inimigos atingidos.\nAtingir de 0-1 inimigo concede Escudo Nível 1: Improviso.\nAtingir 2 inimigos concede Escudo Nível 2: Introdução.\nAtingir 3 ou mais inimigos concede Escudo Nível 3: Rave, que também causará <color=#FF9999FF>Dano Pyro</color> periodicamente aos inimigos próximos.\n\nO escudo tem as seguintes propriedades especiais:\nQuando ativado, ele aplica o elemento <color=#FF9999FF>Pyro</color> em Xinyan.\nTem 250% de eficácia de absorção de Dano contra <color=#FF9999FF>Dano Pyro</color>.\n\n<i>Xinyan insiste que essas pirotecnias representam o ápice da arte da performance e que são fenômenos físicos que nada têm a ver com sua Visão.</i>",
+      "ru": "Синь Янь размахивает своим музыкальным инструментом, нанося <color=#FF9999FF>Пиро урон</color> окружающим врагам, и создаёт щит из жаркой любви своих фанатов.\nПоглощение урона щита зависит от защиты Синь Янь и от количества попавших под удар врагов:\n· Не попадает или попадает по одному - щит 1 ур. «Импровизация»;\n· Попадает по двум - щит 2 ур. «Вступление»;\n· Попадает по трём и более - щит 3 ур. «Рейв», который также периодически наносит <color=#FF9999FF>Пиро урон</color> окружающим врагам.\n\nЩит обладает следующими свойствами:\n· Во время активации накладывает на Синь Янь <color=#FF9999FF>эффект Пиро</color>;\n<color=#FF9999FF>· Пиро урон</color> поглощается на 250% эффективнее.\n\n<i>Синь Янь утверждает, что кульминация её выступления - это пиротехнические эффекты, которые являются физическим феноменом, никак не связанным с её Глазом Бога.</i>",
+      "id": "Xinyan mengayunkan instrumennya, mengakibatkan <color=#FF9999FF>Pyro DMG</color> terhadap semua musuh di dekatnya, dan membentuk sebuah perisai yang terbuat dari hasrat pendengarnya.\nSkala penahanan DMG didasarkan pada DEF Xinyan dan jumlah musuh yang terkena skill ini.\n·Memukul 0-1 musuh memberikan Perisai Level 1: Ad Lib.\n· Memukul 2 musuh memberikan Perisai Level 2: Lead-In.\n· Memukul 3 musuh memberikan Perisai Level 3: Rave, yang juga akan mengakibatkan <color=#FF9999FF>Pyro DMG</color> secara berkala terhadap semua musuh di dekatnya.\n\nPerisai memiliki sifat khusus berikut:\n·Ketika dilancarkan, perisai memberikan efek <color=#FF9999FF>Pyro</color> untuk Xinyan.\n·Perisai memiliki 250% efisiensi menahan <color=#FF9999FF>Pyro DMG</color>.\n\n<i>Xinyan menegaskan bahwa pyrotechnics ini adalah puncak dari seni performatif, dan itu adalah fenomena fisik yang tidak ada kaitannya dengan Vision yang dia miliki.</i>",
+      "th": "Xinyan กวัดแกว่งเครื่องดนตรี เกิดเป็น<color=#FF9999FF>ความเสียหายไฟ</color>แก่ศัตรูโดยรอบ และใช้ \"ความรุ่มร้อน\" ของ \"ผู้ชม\" ในการสร้างโล่ป้องกันขึ้นมา\nปริมาณการดูดซับความเสียหายของโล่จะขึ้นกับพลังป้องกันของ Xinyan และจำนวนศัตรูที่ถูกโจมตี:\n·โจมตีถูกศัตรู 0-1 ตัว: โล่เลเวล 1 - Ad Lib;\n·โจมตีถูกศัตรู 2 ตัว: โล่เลเวล 2 - Lead-In;\n·โจมตีถูกศัตรูตั้งแต่ 3 ตัวขึ้นไป: โล่เลเวล 3 - Rave โดยนอกจากจะดูดซับความเสียหายแล้ว ยังจะทำให้เกิด<color=#FF9999FF>ความเสียหายไฟ</color>แก่ศัตรูโดยรอบเป็นระยะ ๆ อีกด้วย\n\nโล่มีคุณลักษณะพิเศษดังนี้:\n·ในตอนที่ปล่อยออกมา จะทำให้ Xinyan<color=#FF9999FF> ติดธาตุไฟ</color>;\n·มีเอฟเฟกต์ดูดซับ<color=#FF9999FF>ความเสียหายไฟ</color> 250%\n\n<i>Xinyan ยืนยันว่าประกายไฟเหล่านี้เป็นเพียงทักษะการแสดงระดับสุดยอดเท่านั้น มันคือปรากฏการณ์ทางกายภาพที่ไม่เกี่ยวข้องกับวิชั่นเลยแม้แต่น้อย</i>",
+      "vi": "Xinyan vung nhạc cụ gây <color=#FF9999FF>sát thương nguyên tố hỏa</color> cho kẻ địch xung quanh và hình thành khiên với sự cuồng nhiệt của khán giả.\nLượng hấp thụ sát thương của khiên được hưởng từ sức phòng thủ của Xinyan, và dựa trên số kẻ địch bị đánh trúng:\n·Chưa trúng hoặc trúng 1 địch: Khiên Cấp 1 - Nhịp Điệu Phân Tán.\n·Trúng 2 địch: Khiên Cấp 2 - Nhịp Điệu Mở Đầu.\n·Trúng từ 3 địch trở lên, sẽ tạo Khiên Cấp 3 - Nhịp Điệu Nhảy Múa. Ngoài việc hấp thụ sát thương còn gây <color=#FF9999FF>sát thương nguyên tố hỏa</color> cho kẻ địch xung quanh theo từng quãng.\n\nKhiên có đặc tính sau:\n·Khi thi triển sẽ tăng thêm cho Xinyan <color=#FF9999FF>nguyên tố hỏa kèm theo</color>.\n·Hấp thụ 250% <color=#FF9999FF>sát thương nguyên tố hỏa</color>.\n\n<i>Xinyan quả quyết những tia lửa này là sự biểu hiện của kỹ thuật trình diễn đỉnh cao, là hiện tượng vật lý, không liên quan đến Vision.</i>"
+    },
+    "imgid": "s_443201"
+  },
+  {
+    "title": {
+      "zhs": "叛逆刮弦",
+      "zht": "叛逆刮弦",
+      "jp": "反逆の弾き",
+      "ko": "반항의 피치카토",
+      "en": "Riff Revolution",
+      "de": "Refrain der Rebellion",
+      "es": "Melodía de la rebelión",
+      "fr": "Riff rebelle",
+      "pt": "Melodia da Rebelião",
+      "ru": "Струны протеста",
+      "id": "Riff Revolution",
+      "th": "Riff Revolution",
+      "vi": "Cung Đàn Ngỗ Ngược"
+    },
+    "description": {
+      "zhs": "迅速扫弦引发音波，击退敌人，对周围的敌人造成物理伤害，激起「舞台」上的氛围。\n因为氛围实在太过炙烈，所以会引起烈焰，对周围的敌人持续造成<color=#FF9999FF>火元素伤害</color>。\n\n<i>曾经辛焱每次演出结束都会来这么一出。后来不这么弄了倒不是因为危险。要是被喊了「安可」的话，她弄不出更炸裂的闭幕了。</i>",
+      "zht": "迅速掃弦引發音波，擊退敵人，對周圍的敵人造成物理傷害，激起「舞臺」上的氛圍。\n因為氛圍實在太過炙烈，所以會引起烈焰，對周圍的敵人持續造成<color=#FF9999FF>火元素傷害</color>。\n\n<i>曾經辛焱每次演出結束都會來這麼一齣。後來不這麼弄了倒不是因為危險。要是被喊了「安可」的話，她弄不出更炸裂的閉幕了。</i>",
+      "jp": "弦を素早く弾き、音波を放出して敵をノックバックする。周囲の敵に物理ダメージを与え、「舞台」の雰囲気を盛り上げる。\n雰囲気が熱さが烈焔を引き起こし、周囲の敵に<color=#FF9999FF>炎元素ダメージ</color>を持続的に与える。\n\n<i>この演出はライブの終わりに必ずやる定番だったが、現在はもうやめている。その理由は安全面の考慮ではなく、もし「アンコール」をされたら、これ以上完璧なエンディングがないからである。</i>",
+      "ko": "빠른 피치카토로 생긴 음파로 적을 넉백시키고 주변의 적에게 물리 피해를 주며 「무대」 분위기를 띄운다.\n뜨거운 분위기로 인해 생긴 화염은 주변의 적에게 <color=#FF9999FF>불 원소 지속 피해</color>를 준다.\n\n<i>신염은 공연이 끝날 때마다 이런 짓을 했다. 나중에 그만두게 된 이유는 관중들이 「앵콜」하면 이보다 더 멋진 엔딩을 만들 자신이 없었기 때문이다</i>",
+      "en": "Strumming rapidly, Xinyan launches nearby opponents and deals Physical DMG to them, hyping up the crowd.\nThe sheer intensity of the atmosphere will cause explosions that deal <color=#FF9999FF>Pyro DMG</color> to nearby opponents.\n\n<i>Xinyan used to end all her performances with this move. She didn't stop because it was dangerous, however, but because she didn't have a more epic finale in case someone shouted \"Encore!\"</i>",
+      "de": "Spielt harte Töne und erschafft Schallwellen, die Gegner zurückstoßen und Gegner in der Umgebung physischen Schaden zufügen, um Euphorie in der Menge auszulösen.\nBricht in Flammen aus, weil die Darbietung einfach zu heiß ist, und fügt Gegnern in der Umgebung fortlaufend <color=#FF9999FF>Pyro-Schaden</color> zu.\n\n<i>Früher hat Xinyan all ihre Auftritte auf diese Weise beendet. Später hat sie zwar damit aufgehört. Das lag aber nicht daran, dass es zu gefährlich war, sondern ihr fiel einfach nichts ein, was sie sonst bringen könnte, wenn jemand „Encore“ rufen sollte.</i>",
+      "es": "Tocando su música a toda velocidad, Xinyan lanza a los enemigos cercanos por los aires y les inflige Daño Físico, dando ánimos a su público.\nEl fervor del ambiente provocará explosiones que infligen <color=#FF9999FF>Daño Pyro</color> a los enemigos cercanos.\n\n<i>Xinyan solía terminar todas sus actuaciones con este movimiento. Sin embargo, la razón por la que dejó de hacerlo no fue porque fuera peligroso, sino porque no tenía un final más épico en caso de que su público gritara “¡Otra canción!”.</i>",
+      "fr": "Grattant son instrument avec passion, Xinyan libère une vague d'ondes qui repoussent les ennemis, et infligent aux ennemis proches des DGT physiques, au plus grand plaisir du public.\nL'ambiance se réchauffe tellement que des explosions ont lieu, infligeant aux ennemis proches des <color=#FF9999FF>DGT Pyro</color>.\n\n<i>Xinyan avait autrefois pour habitude de terminer toutes ses représentations de cette manière. Ce n'est pas à cause du danger qu'elle s'est arrêtée, mais parce qu'elle n'avait pas de final encore plus épique à proposer dans le cas d'un nouveau rappel.</i>",
+      "pt": "Tocando sua música rapidamente, Xinyan lança os inimigos próximos e causa Dano Físico neles, hipnotizando a multidão.\nA pura intensidade da atmosfera causará explosões que causam <color=#FF9999FF>Dano Pyro</color> aos inimigos próximos.\n\n<i>Xinyan costumava terminar todas as suas performances com esse movimento. Ela não parou porque era perigoso, mas sim porque ela não tinha um final mais épico no caso de alguém gritar \"Mais!\".</i>",
+      "ru": "Синь Янь зажигает толпу игрой на своём инструменте, подкидывая окружающих врагов в воздух и нанося им физ. урон.\nЖаркая атмосфера её выступления создаёт струи огня, которые наносят <color=#FF9999FF>Пиро урон</color> окружающим врагам.\n\n<i>Этим номером Синь Янь заканчивала свои концерты, однако ей пришлось прекратить его исполнение, и не потому что это был опасный номер, а потому что у неё не было более захватывающего номера на случай, если кто-то выкрикнет «На бис!»</i>",
+      "id": "Menggesek senarnya secara cepat dan menimbulkan bunyi kasar yang bisa menghempas musuh, serta mengakibatkan Physical DMG dan efek hipnotis terhadap mereka.\nIntensitas atmosfer yang tipis akan menyebabkan ledakan yang mengakibatkan <color=#FF9999FF>Pyro DMG</color> ke musuh di sekitarnya.\n\n<i>Xinyan biasa mengakhiri rangkaian penampilannya dengan gerakan ini. Dia tidak berhenti karena itu berbahaya, tapi karena dia tidak memiliki penyelesaian yang lebih epik daripada seseorang yang akan berteriak \"Encore!\" </i>",
+      "th": "บรรเลงอย่างรวดเร็ว จนเกิดเป็นคลื่นเสียงกระแทกศัตรูให้ถอยกลับไป สร้างความเสียหายทางกายภาพให้แก่ศัตรูโดยรอบ และกระตุ้นให้เกิดบรรยากาศของ \"เวที\"\nเพราะว่าบรรยากาศบนเวทีนั้นช่างเร่าร้อนเหลือเกิน จึงทำให้เกิดไฟอันร้อนแรงและสร้าง<color=#FF9999FF>ความเสียหายไฟ</color>แก่ศัตรูโดยรอบอย่างต่อเนื่อง\n\n<i>ครั้งหนึ่ง Xinyan มักจะจบการแสดงของเธอด้วยท่านี้ ต่อมาที่เลิกทำไปก็ไม่ใช่ เพราะว่ามันอันตรายเกินไป แต่เป็นเพราะถ้าเกิดมีคนตะโกนขึ้นมาว่า เอาอีก ล่ะก็ แบบนั้นเธอก็ไม่รู้จะปิดการแสดง ด้วยระเบิดที่รุนแรงกว่านี้อีกได้ยังไงแล้ว</i>",
+      "vi": "Lướt nhanh qua dây đàn phát ra sóng âm đánh lui kẻ địch, gây sát thương vật lý cho địch xung quanh và khơi dậy bầu không khí trên sân khấu.\nVì bầu không khí quá cháy bỏng, nên sẽ phát ra lửa, gây <color=#FF9999FF>sát thương nguyên tố hỏa</color> liên tục cho kẻ địch xung quanh.\n\n<i>Xưa kia mỗi lần diễn xong, Xinyan đều có màn kết như vậy. Sau này không làm vậy nữa, không phải do nguy hiểm, mà là vì, nếu như bị bắt phải \"diễn lại\", thì cô ấy không thể làm ra trận hạ màn bùng nổ hơn được.</i>"
+    },
+    "imgid": "s_443901"
+  },
+  {
+    "title": {
+      "zhs": "「没听众也要演奏…」",
+      "zht": "「沒聽眾也要演奏…」",
+      "jp": "「観客いなくても演奏するのだ…」",
+      "ko": "「청중이 없어도 연주해야 돼…」",
+      "en": "\"The Show Goes On, Even Without An Audience...\"",
+      "de": "„Es geht auch ohne Publikum ...“",
+      "es": "El espectáculo debe continuar",
+      "fr": "« Le spectacle doit continuer, même sans audience... »",
+      "pt": "\"O espetáculo deve continuar...\"",
+      "ru": "Выступление без публики",
+      "id": "\"The Show Goes On, Even Without An Audience...\"",
+      "th": "\"The Show Goes On, Even Without An Audience...\"",
+      "vi": "\"Không có thính giả cũng phải diễn...\""
+    },
+    "description": {
+      "zhs": "减少<color=#FFD780FF>热情拂扫</color>的护盾所需的命中敌人数量：\n·二级护盾·歌头节拍：命中一名敌人；\n·三级护盾·舞遍节拍：命中二名或更多敌人。",
+      "zht": "減少<color=#FFD780FF>熱情拂掃</color>的護盾所需的命中敵人數量：\n·二級護盾·歌頭節拍：命中一名敵人；\n·三級護盾·舞遍節拍：命中二名或更多敵人。",
+      "jp": "<color=#FFD780FF>情熱の薙ぎ払い</color>のシールド発動に必要な命中数を減少する。\n·Lv.2シールド·指揮のリズム：1名の敵に命中する。\n·Lv.3シールド·舞のリズム：2名の敵に命中する。",
+      "ko": "<color=#FFD780FF>정열의 연주</color>의 보호막에 필요한 적 명중 수량 감소:\n·2급 보호막·선창 리듬: 적 1명 명중\n·3급 보호막·댄스 리듬: 적 2명 이상 명중",
+      "en": "Decreases the number of opponents <color=#FFD780FF>Sweeping Fervor</color> must hit to trigger each level of shielding.\n·Shield Level 2: Lead-In requirement reduced to 1 opponent hit.\n·Shield Level 3: Rave requirement reduced to 2 opponents hit or more.",
+      "de": "Verringert die für den Schild von <color=#FFD780FF>Schlag in die Saiten</color> benötigte Trefferzahl:\n· Schild Stufe 2 – Aufdrehen: Ein getroffener Gegner.\n· Schild Stufe 3 – Abfeiern: Zwei oder mehr getroffene Gegner.",
+      "es": "Reduce la cantidad de enemigos que deben ser golpeados con <color=#FFD780FF>Desenfreno</color> para crear un escudo:\n·Escudo Niv. 2: Entrada: 1 enemigo.\n·Escudo Niv. 3: Fiesta: 2 o más enemigos.",
+      "fr": "Réduit le nombre d'ennemis à toucher pour déclencher chaque niveau de bouclier de <color=#FFD780FF>Jeu fervent</color> :\n· 1 ennemi touché : Bouclier Niv.2.\n· 2 ennemis touchés ou plus : Bouclier Niv.3.",
+      "pt": "Diminui o número de inimigos que <color=#FFD780FF>Fervor Arrebatador</color> precisa acertar para acionar cada nível do escudo.\nEscudo Nível 2: Introdução, requerimento reduzido a 1 inimigo atingido.\nEscudo Nível 3: Rave, requerimento reduzido a 2 inimigos atingidos ou mais.",
+      "ru": "Уменьшает необходимое для получения уровня щита навыка <color=#FFD780FF>Решительный жар</color> количество врагов:\n· Щит 2 ур. - «Вступление»: требуется попадание по одному врагу;\n· Щит 3 ур. - «Рейв»: требуется попадание по двум врагам и более.",
+      "id": "Mengurangi jumlah musuh yang harus diserang <color=#FFD780FF>Sweeping Fervor</color> untuk memicu setiap level perisai.\n·Perisai Level 2: syarat Lead-In dikurangi menjadi 1 musuh.\n·Perisai Level 3: syarat Rave dikurangi menjadi 2 musuh atau lebih.",
+      "th": "ลดจำนวนศัตรูที่โล่ของ <color=#FFD780FF>Sweeping Fervor</color> ต้องโจมตีให้โดนลง:\n·โล่เลเวล 2 - Lead-In: โจมตีถูกศัตรู 1 ตัว;\n·โล่เลเวล 3 - Rave: โจมตีถูกศัตรู 2 ตัวขึ้นไป",
+      "vi": "Giảm số lượng địch cần đánh trúng mà khiên <color=#FFD780FF>Khuấy Động Nhiệt Huyết</color> cần:\n·Khiên Cấp 2 - Nhịp Điệu Mở Đầu: Trúng 1 địch.\n·Khiên Cấp 3 - Nhịp Điệu Nhảy Múa: Trúng từ 2 địch trở lên."
+    },
+    "imgid": "p_442101"
+  },
+  {
+    "title": {
+      "zhs": "「…这才是摇滚！」",
+      "zht": "「…這才是搖滾！」",
+      "jp": "「…これこそがロックだ！」",
+      "ko": "「…이것이 로큰롤!」",
+      "en": "\"...Now That's Rock 'N' Roll!\"",
+      "de": "„Das nenn ich Rock ’n’ Roll!“",
+      "es": "¡Rock and Roll!",
+      "fr": "« ... Ça, c'est du rock ! »",
+      "pt": "\"...Isso sim é Rock 'n' Roll!\"",
+      "ru": "Вот это рок-н-ролл!",
+      "id": "\"...Now That's Rock 'N' Roll!\"",
+      "th": "\"...Now That's Rock 'N' Roll!\"",
+      "vi": "\"...Đây mới là Rock and Roll!\""
+    },
+    "description": {
+      "zhs": "处于<color=#FFD780FF>热情拂扫</color>的护盾保护下的角色造成的物理伤害提高15%。",
+      "zht": "處於<color=#FFD780FF>熱情拂掃</color>的護盾保護下的角色造成的物理傷害提高15%。",
+      "jp": "<color=#FFD780FF>情熱の薙ぎ払い</color>のシールドが存在する時、キャラクターが与える物理ダメージ+15%。",
+      "ko": "<color=#FFD780FF>정열의 연주</color> 보호막의 보호를 받고 있는 캐릭터가 가하는 물리 피해가 15% 증가한다",
+      "en": "Characters shielded by <color=#FFD780FF>Sweeping Fervor</color> deal 15% increased Physical DMG.",
+      "de": "Erhöht den von Figuren im Schutz eines Schilds von <color=#FFD780FF>Schlag in die Saiten</color> verursachten physischen Schaden um 15 %.",
+      "es": "Aumenta en un 15% el Daño Físico de los personajes que se encuentran bajo la protección del escudo de <color=#FFD780FF>Desenfreno</color>.",
+      "fr": "Les DGT physiques infligés par les personnages sous la protection du bouclier généré par <color=#FFD780FF>Jeu fervent</color> augmentent de 15 %.",
+      "pt": "Personagens protegidos por <color=#FFD780FF>Fervor Arrebatador</color> causam 15% mais Dano Físico.",
+      "ru": "Щит навыка <color=#FFD780FF>Решительный жар</color> увеличивает физ. урон персонажа на 15%.",
+      "id": "Meningkatkan 15% Physical DMG karakter yang dilindungi oleh perisai dari <color=#FFD780FF>Sweeping Fervor</color>.",
+      "th": "ตัวละครที่อยู่ภายใต้การป้องกันของ <color=#FFD780FF>Sweeping Fervor</color> จะสร้างความเสียหายทางกายภาพ เพิ่มขึ้น 15%",
+      "vi": "Nhân vật được bảo vệ bởi khiên <color=#FFD780FF>Khuấy Động Nhiệt Huyết</color> sẽ tăng 15% sát thương vật lý gây ra."
+    },
+    "imgid": "p_442201"
+  },
+  {
+    "title": {
+      "zhs": "摇滚的食谱",
+      "zht": "搖滾的食譜",
+      "jp": "タフレシピ",
+      "ko": "로큰롤 레시피",
+      "en": "A Rad Recipe",
+      "de": "Rezept für Rock ’n’ Roll",
+      "es": "Receta rockera",
+      "fr": "Recette pour un tube",
+      "pt": "Uma Receita Radical",
+      "ru": "Улётный рецепт",
+      "id": "A Rad Recipe",
+      "th": "A Rad Recipe",
+      "vi": "Công Thức Rock"
+    },
+    "description": {
+      "zhs": "完美烹饪防御类食物时，有12%概率获得2倍产出。",
+      "zht": "完美烹飪防禦類食物時，有12%的機率獲得兩倍產出。",
+      "jp": "防御系料理を完璧調理した時、12%の確率で料理を2倍獲得する。",
+      "ko": "방어류 요리를 완벽 조리하면 12% 확률로 요리량의 2배를 획득한다",
+      "en": "When a Perfect Cooking is achieved on a DEF-boosting dish, Xinyan has a 12% chance to obtain double the product.",
+      "de": "Stellt bei der perfekten Zubereitung eines Gerichts mit defensiver Funktion mit einer Wahrscheinlichkeit von 12 % den 2-fachen Ertrag her.",
+      "es": "Al lograr un “Perfecto” en un plato con efectos de defensa, hay una probabilidad del 12% de obtener el doble.",
+      "fr": "12 % de chances d'obtenir un plat supplémentaire lorsque vous cuisinez un plat parfait qui renforce la DÉF.",
+      "pt": "Quando uma Culinária Perfeita é feita em uma comida de aumento de DEF, Xinyan tem uma chance de 12% de receber o dobro de produção.",
+      "ru": "При приготовлении идеального блюда, повышающего защиту, имеет 12% шанс приготовить дополнительное блюдо.",
+      "id": "Saat masakan jenis pertahanan dimasak dengan sempurna, terdapat 12% kemungkinan mendapatkan hasil 2 kali lipat.",
+      "th": "เมื่อปรุงอาหารประเภทป้องกันได้ระดับ สมบูรณ์ จะมีโอกาส 12% ที่จะได้รับผลผลิตเพิ่มเป็น 2 เท่า",
+      "vi": "Nấu hoàn mỹ món ăn thuộc loại phòng ngự, có tỷ lệ 12% x2 sản lượng."
+    },
+    "imgid": "p_442301"
+  }
+]

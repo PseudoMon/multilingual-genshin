@@ -1,0 +1,200 @@
+[
+  {
+    "title": {
+      "zhs": "普通攻击·天狗传弓术",
+      "zht": "普通攻擊·天狗傳弓術",
+      "jp": "通常攻撃·天狗伝弓術",
+      "ko": "일반 공격·텐구 궁술",
+      "en": "Normal Attack: Tengu Bowmanship",
+      "de": "Standardangriff: Tengu-Schießkunst",
+      "es": "Ataque Normal: Técnica de arco Tengu",
+      "fr": "Attaque normale : Archerie tengu",
+      "pt": "Ataque Normal: Tiro com Arco Tengu",
+      "ru": "Стрелковое искусство тэнгу",
+      "id": "Normal Attack: Tengu Bowmanship",
+      "th": "โจมตีปกติ: Tengu Bowmanship",
+      "vi": "Tấn Công Thường - Cung Thuật Tengu"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>普通攻击</color>\n进行至多五段的连续弓箭射击。\n\n<color=#FFD780FF>重击</color>\n进行伤害更高、更为精准的<color=#FFD780FF>瞄准射击</color>。\n瞄准时，雷霆的力量会汇聚到她的箭矢上。聚满了雷霆之力的箭矢在命中敌人时造成<color=#FFACFFFF>雷元素伤害</color>。\n处于「乌羽护持」状态下时，蓄力完成的箭矢会在命中时留下「乌羽」。\n\n<color=#FFD780FF>下落攻击</color>\n从空中射出箭雨，并迅速下坠冲击地面，在落地时造成范围伤害。",
+      "zht": "<color=#FFD780FF>普通攻擊</color>\n進行至多五段的連續弓箭射擊。\n\n<color=#FFD780FF>重擊</color>\n進行傷害更高、更為精準的<color=#FFD780FF>瞄準射擊</color>。\n瞄準時，雷霆的力量會匯聚到她的箭矢上。聚滿了雷霆之力的箭矢在命中敵人時造成<color=#FFACFFFF>雷元素傷害</color>。\n處於「烏羽護持」狀態下時，蓄力完成的箭矢會在命中時留下「烏羽」。\n\n<color=#FFD780FF>下落攻擊</color>\n從空中射出箭雨，並迅速下墜衝擊地面，在落地時造成範圍傷害。",
+      "jp": "<color=#FFD780FF>通常攻撃</color>\n最大5段の連続射撃を行う。\n\n<color=#FFD780FF>重撃</color>\nダメージがより高く、より精確な<color=#FFD780FF>狙い撃ち</color>を発動する。\n照準時、雷霆の力が矢先に凝集する。雷霆の力に満ちた矢は、敵に<color=#FFACFFFF>雷元素ダメージ</color>を与える。\n「烏羽護持」状態の時、フルチャージを終えた矢は命中時に「烏羽」を残す。\n\n<color=#FFD780FF>落下攻撃</color>\n空中から矢の雨を放ち、凄まじいスピードで落下し地面に衝撃を与え、落下時に範囲ダメージを与える。",
+      "ko": "<color=#FFD780FF>일반 공격</color>\n활로 최대 5번 공격한다.\n\n<color=#FFD780FF>강공격</color>\n피해가 더 크고 정확한 <color=#FFD780FF>조준 사격</color>을 한다.\n조준 시 뇌정의 힘이 화살촉에 모이며, 뇌정의 힘이 가득 찬 화살이 적을 명중하면 <color=#FFACFFFF>번개 원소 피해</color>를 준다.\n「까마귀 깃의 수호」 상태에서 풀차지된 화살은 명중 시 「까마귀 깃」을 남긴다.\n\n<color=#FFD780FF>낙하 공격</color>\n공중에서 화살비를 쏜 후 빠른 속도로 땅에 착지한다. 착지 시 범위 피해를 준다",
+      "en": "<color=#FFD780FF>Normal Attack</color>\nPerform up to 5 consecutive shots with a bow.\n\n<color=#FFD780FF>Charged Attack</color>\nPerform a more precise <color=#FFD780FF>Aimed Shot</color> with increased DMG.\nWhile aiming, crackling lightning will accumulate on the arrowhead. An arrow fully charged with the storm's might will deal <color=#FFACFFFF>Electro DMG</color>.\nWhen in the Crowfeather Cover state, a fully-charged arrow will leave a Crowfeather behind after it hits.\n\n<color=#FFD780FF>Plunging Attack</color>\nFires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.",
+      "de": "<color=#FFD780FF>Standardangriff</color>\nFührt bis zu 5 Pfeilschüsse hintereinander aus.\n\n<color=#FFD780FF>Heftiger Schlag</color>\nFührt einen <color=#FFD780FF>gezielten Schuss</color> mit höherem Schaden und höherer Genauigkeit aus.\nKonzentriert die Kraft der Blitze während des Zielens an der Pfeilspitze, die voll aufgeladen beim Treffen von Gegnern <color=#FFACFFFF>Elektro-Schaden</color> verursacht.\nJeder voll aufgeladene Pfeil hinterlässt im Zustand „Krähenfederhaube“ beim Treffen von Gegnern eine „Krähenfeder“.\n\n<color=#FFD780FF>Angriff aus dem Fall</color>\nSchießt in der Luft einen Pfeilregen ab, trifft schnell auf dem Boden auf und verursacht dort Flächenschaden.",
+      "es": "<color=#FFD780FF>Ataque Normal</color>\nRealiza hasta 5 disparos consecutivos con arco.\n\n<color=#FFD780FF>Ataque Cargado</color>\nRealiza un <color=#FFD780FF>Disparo Preciso</color> que inflige mayor daño y tiene mayor precisión.\nMientras se apunta, el poder del trueno se acumulará en la punta de la flecha. Las flechas que han reunido el poder del trueno infligen <color=#FFACFFFF>Daño Electro</color> a los enemigos.\nSi está bajo los efectos de velo alado, las flechas completamente cargadas dejarán caer una pluma de cuervo al impactar.\n\n<color=#FFD780FF>Ataque Descendente</color>\nDispara una lluvia de flechas desde el aire mientras desciende rápidamente, infligiendo Daño en el AdE al impactar contra el suelo.",
+      "fr": "<color=#FFD780FF>Attaque normale</color>\nEnchaîne jusqu'à 5 tirs consécutifs.\n\n<color=#FFD780FF>Attaque chargée</color>\nEffectue un <color=#FFD780FF>tir visé</color> plus précis infligeant davantage de DGT.\nLors de la visée, des éclairs crépitants s'accumulent sur le carreau de la flèche. Une flèche complètement chargée inflige des <color=#FFACFFFF>DGT Électro</color>.\nSous l'effet de la Protection corvidée, une flèche complètement chargée laisse une plume de corbeau à l'emplacement atteint.\n\n<color=#FFD780FF>Attaque plongeante</color>\nTire une pluie de flèches depuis les airs et plonge au sol, infligeant des DGT de zone à l'impact.",
+      "pt": "<color=#FFD780FF>Ataque Normal</color>\nRealiza até 5 tiros consecutivos com um arco.\n\n<color=#FFD780FF>Ataque Carregado</color>\nDispara um <color=#FFD780FF>Tiro com Mira</color> mais preciso e com Dano aumentado.\nAo mirar, relâmpagos crepitantes irão se acumular na ponta da flecha. Uma flecha de relâmpago completamente carregada inflige <color=#FFACFFFF>Dano Electro</color>.\n\n<color=#FFD780FF>Ataque Imersivo</color>\nDispara uma chuva de flechas em pleno ar antes de atingir o chão, infligindo Dano em uma AdE durante o impacto.",
+      "ru": "<color=#FFD780FF>Обычная атака:</color>\nДо пяти выстрелов из лука.\n\n<color=#FFD780FF>Заряженная атака:</color>\nБолее меткий <color=#FFD780FF>прицельный выстрел</color> с увеличенным уроном.\nВо время прицеливания наконечник стрелы заряжается потрескивающей молнией. Полностью заряженная силой грозы стрела наносит <color=#FFACFFFF>Электро урон</color>.\nКогда персонаж находится в состоянии Укрытия вороньего пера, полностью заряженный выстрел при попадании оставляет после себя Воронье перо.\n\n<color=#FFD780FF>Атака в падении:</color>\nВыпускает град стрел в воздухе, которые при приземлении персонажа наносят урон по площади.",
+      "id": "<color=#FFD780FF>Normal Attack</color>\nMelancarkan hingga 5 serangan berturut-turut menggunakan busur.\n\n<color=#FFD780FF>Charged Attack</color>\nMelancarkan sebuah <color=#FFD780FF>Serangan Membidik</color> yang lebih akurat untuk mengakibatkan DMG lebih besar.\nSaat membidik, energi listrik akan berkumpul di ujung anak panah. Panah dengan listrik yang terkumpul penuh akan mengakibatkan <color=#FFACFFFF>Electro DMG</color> saat mengenai musuh.\nSaat berada dalam status Crowfeather Cover, anak panah dengan energi yang terkumpul penuh akan meninggalkan Crowfeather saat mengenai target.\n\n<color=#FFD780FF>Plunging Attack</color>\nMelancarkan hujan panah dari udara dan menerjang tanah dengan kecepatan tinggi, mengakibatkan DMG area saat mendarat.",
+      "th": "<color=#FFD780FF>โจมตีปกติ</color>\nยิงธนูโจมตีอย่างต่อเนื่องมากสุดห้าครั้ง\n\n<color=#FFD780FF>ชาร์จโจมตี</color>\nการ<color=#FFD780FF>เล็งโจมตี</color>สร้างความเสียหายเพิ่มขึ้น และแม่นยำยิ่งขึ้น\nเมื่อเล็งโจมตี พลังแห่งสายฟ้าจะรวบรวมอยู่บนหัวลูกศร ซึ่งลูกศรที่ชาร์จพลังงานสายฟ้าจนเต็มแล้ว จะสร้าง<color=#FFACFFFF>ความเสียหายไฟฟ้า</color>เมื่อโจมตีถูกศัตรู\nเมื่ออยู่ในสภาวะ Crowfeather Cover ลูกศรที่ชาร์จเต็มแล้วจะทิ้ง \"Crowfeather\" ไว้หลังจากที่มันโจมตีถูกเป้าหมาย\n\n<color=#FFD780FF>โจมตีพุ่งลงจากอากาศ</color>\nปล่อยฝนธนูจากกลางอากาศ และพุ่งลงมายังพื้นดินอย่างรวดเร็ว โดยจะสร้างความเสียหายวงกว้างเมื่อลงถึงพื้น",
+      "vi": "<color=#FFD780FF>Tấn Công Thường</color>\nThực hiện tối đa 5 lần bắn tên liên tiếp.\n\n<color=#FFD780FF>Trọng Kích</color>\n<color=#FFD780FF>Ngắm bắn</color> chuẩn hơn, sát thương cao hơn.\nKhi ngắm bắn, sấm sét tích tụ trên đầu mũi tên. Khi mũi tên tích đầy sấm sét bắn trúng kẻ địch sẽ gây <color=#FFACFFFF>Sát Thương Nguyên Tố Lôi</color>.\nKhi trong trạng thái \"Lông Quạ Bao Phủ\", mũi tên hoàn thành tụ lực khi bắn trúng sẽ để lại \"Lông Quạ\".\n\n<color=#FFD780FF>Tấn Công Khi Đáp</color>\nBắn mưa tên liên tiếp xuống mặt đất, đồng thời lao nhanh xuống mặt đất và gây sát thương phạm vi khi chạm đất."
+    },
+    "imgid": "s_563101"
+  },
+  {
+    "title": {
+      "zhs": "鸦羽天狗霆雷召咒",
+      "zht": "鴉羽天狗霆雷召咒",
+      "jp": "烏天狗雷霆召呪",
+      "ko": "까마귀 깃 텐구의 뇌정 소환",
+      "en": "Tengu Stormcall",
+      "de": "Tengu-Sturmbeschwörung",
+      "es": "Electroinvocación tengu",
+      "fr": "Tempestrier tengu",
+      "pt": "Tempestade Tengu",
+      "ru": "Призыв грозы тэнгу",
+      "id": "Tengu Stormcall",
+      "th": "Tengu Stormcall",
+      "vi": "Bão Sét Tengu"
+    },
+    "description": {
+      "zhs": "以天狗之神速向后转移，并唤来乌羽的加护。\n获得持续18秒的「乌羽护持」，当九条裟罗发射完成蓄力的箭矢时，会消耗「乌羽护持」，并在命中的位置留下「乌羽」。\n「乌羽」会在短时间后引发天狗咒雷·伏，对范围内敌人造成<color=#FFACFFFF>雷元素伤害</color>，并使其范围内的当前场上角色基于九条裟罗的基础攻击力，以一定比例获得攻击力加成。\n\n各种天狗咒雷提供的攻击力提升不能叠加，效果与持续时间由后生效的为准。\n\n<i>天狗一族不乏获取雷元素神之眼的异士。只不过他们操作雷元素时，仍会习惯性诵咒，礼赞雷神。咒曰：</i>\n<i>「礼赞鸣神大权现，善信某甲，请祈黄雷。娑婆诃！」</i>",
+      "zht": "以天狗之神速向後轉移，並喚來烏羽的加護。\n獲得持續18秒的「烏羽護持」，當九條裟羅發射完成蓄力的箭矢時，會消耗「烏羽護持」，並在命中的位置留下「烏羽」。\n「烏羽」會在短時間後引發天狗咒雷·伏，對範圍內敵人造成<color=#FFACFFFF>雷元素傷害</color>，並使範圍內的目前場上角色基於九條裟羅的基礎攻擊力，以一定比例獲得攻擊力加成。\n\n各種天狗咒雷提供的攻擊力提升不能疊加，效果與持續時間由後生效的為準。\n\n<i>天狗一族不乏獲得雷元素神之眼的異士。只不過他們操控雷元素時，仍會習慣性誦咒，禮讚雷神。咒曰：</i>\n<i>「禮讚鳴神大權現，善信某甲，請祈黃雷。娑婆訶！」</i>",
+      "jp": "天狗の神速で後方へ移動し、烏羽の加護を呼びかける。\n18秒間続く「烏羽護持」を獲得する。九条裟羅がフルチャージを終えた矢を放つと、「烏羽護持」を消費し、命中した位置に「烏羽」を残す。\n「烏羽」は短時間後に天狗呪雷·伏を引き起こし、範囲内の敵に<color=#FFACFFFF>雷元素ダメージ</color>を与え、範囲内のフィールド上キャラクターの攻撃力を、九条裟羅の基礎攻撃力を基準にアップさせる。\n\n各種天狗呪雷による攻撃力アップ効果は重ね掛けできず、効果と継続時間は最後に発動したものを基準とする。\n\n<i>天狗一族の中には、雷元素の神の目を獲得できる者は少なくない。それでも、彼らは雷元素を操る時、呪文を唱えて雷神に敬意を表す習慣がある。呪文はこのようなものだ、</i>\n<i>「尊い鳴神大権現様よ、人々にご加護を、雷霆の力を。娑婆訶！」</i>",
+      "ko": "텐구의 신속함으로 뒤로 물러나면서 까마귀 깃의 가호를 소환한다.\n18초 동안 지속되는 「까마귀 깃의 수호」를 획득한다. 쿠죠 사라가 풀차지 화살을 발사할 때 「까마귀 깃의 수호」를 소모하고, 명중한 위치에 「까마귀 깃」을 남긴다.\n「까마귀 깃」은 잠시 후 텐구 주뢰·매복을 발동하여 범위 내의 적에게 <color=#FFACFFFF>번개 원소 피해</color>를 주고, 쿠죠 사라의 기초 공격력에 기반해 범위 내에 있는 필드 위 캐릭터는 일정 비율의 공격력 보너스를 획득한다.\n\n텐구 주뢰가 제공하는 각종 공격력 향상 효과는 중첩되지 않으며, 효과 및 지속 시간은 나중에 발동한 것을 기준으로 한다.\n\n<i>텐구 일족에 번개 원소 신의 눈을 가진 자는 아주 흔하다. 그들은 번개 원소를 사용할 때 습관적으로 번개 신을 찬양하는 주문을 읊는다:</i>\n<i>「나루카미 대권현의 이름을 찬양하나니 번개의 힘을 하사하소서, 사바하!」</i>",
+      "en": "Retreats rapidly with the speed of a tengu, summoning the protection of the Crowfeather.\nGains Crowfeather Cover for 18s, and when Kujou Sara fires a fully-charged Aimed Shot, Crowfeather Cover will be consumed, and will leave a Crowfeather at the target location.\nCrowfeathers will trigger Tengu Juurai: Ambush after a short time, dealing <color=#FFACFFFF>Electro DMG</color> and granting the active character within its AoE an ATK Bonus based on Kujou Sara's Base ATK.\n\nThe ATK Bonuses from different Tengu Juurai will not stack, and their effects and duration will be determined by the last Tengu Juurai to take effect.\n\n<i>The tengu race have never lacked for exceptional talents who have received an Electro Vision. It's just that they often habitually chant praises to the Electro Archon while manipulating Electro. The chants go something like this</i>\n<i>\"Show forth your might, O praiseworthy Narukami, and grant this supplicant your thunderous might! Sowaka!\"</i>",
+      "de": "Zieht sich geschwind mit der Schnelligkeit eines Tengu zurück und beschwört den Schutz der Krähenfedern.\nErhält eine 18 s anhaltende „Krähenfederhaube“. Sobald Kujou Sara einen voll aufgeladenen Pfeil abschießt, verbraucht sie die Krähenfederhaube und hinterlässt an der Stelle des Treffers des Pfeils eine Krähenfeder.\nKrähenfedern lösen nach kurzer Zeit Tengu Juurai – Hinterhalt aus, fügen allen Gegnern im Wirkungsbereich <color=#FFACFFFF>Elektro-Schaden</color> zu und erhöhen den Angriff aktueller Figuren im Wirkungsbereich basierend auf Kujou Saras Basis-ANG.\n\nDie ANG-Boni verschiedener Tengu Juurai sind nicht stapelbar und Effekt sowie Wirkungsdauer hängen vom zuletzt in Kraft getretenen Tengu Juurai ab.\n\n<i>Den Tengu hat es nie an außergewöhnlichen Talenten gefehlt, die Göttliche Augen mit Elektro-Kraft erhielten. Es ist nur so, dass sie der Göttin der Blitze oft Lobgesänge darbieten, während sie die Elektro-Kraft nutzen. Die Gesänge gehen in etwa so:</i>\n<i>„O Große Narukami, zeige deine Macht! Gewähre deinen Jüngern die Kraft der Blitze! Sowaka!</i>",
+      "es": "Retrocede con la velocidad de un tengu e invoca la protección de las plumas de cuervo.\nAdemás, entra en el estado de velo alado durante 18 s. Cuando Kujou Sara dispara una flecha cargada, velo alado se consumirá y dejará una pluma de cuervo en la ubicación del enemigo contra en el que impactó.\nAl poco tiempo, la pluma de cuervo provocará una maldición tengu: emboscada que inflige <color=#FFACFFFF>Daño Electro</color> contra los enemigos en un área, además de otorgar al personaje en uso que estaba en esa área un Bono de ATQ proporcional al ATQ Básico de Kujou Sara.\n\nLos Bonos de ATQ otorgados por las distintas maldiciones tengu no se pueden acumular, sino que sus efectos y duración se calcularán en función de la última maldición realizada.\n\n<i>En la raza de los tengu, nunca han faltado grandes talentos que han recibido Visiones Electro. Sin embargo, al manipular este elemento, acostumbran a recitar maldiciones, como por ejemplo:</i>\n<i>Muestra tu grandeza, oh, alabada Narukami, ¡y haz que tu poder del trueno caiga sobre este desdichado! ¡Yo te imploro!</i>",
+      "fr": "Recule à la vitesse d'un Tengu et invoque la protection des corbeaux.\nBénéficie de la Protection corvidée pendant 18 s, un effet qui est consommé lorsque Sara tire une flèche complètement chargée et laisse une plume de corbeau à l'emplacement atteint par la flèche.\nLa plume de corbeau déclenche Tengu Juurai : Embuscade après un court moment, infligeant des <color=#FFACFFFF>DGT Électro</color> aux ennemis proches, et accordant au personnage déployé à portée un bonus d'ATQ en fonction de l'ATQ de base de Sara.\n\nLes bonus d'ATQ des différents Tengu Juurai ne se cumulent pas, et leur effet et durée sont déterminés par le dernier Tengu Juurai actif.\n\n<i>Les Tengu n'ont jamais manqué de membres aux talents exceptionnels possédant des yeux divins Électro. D'autre part, ils ont l'habitude de chanter les louanges de l'Archon Électro lorsqu'ils manipulent son élément. Leurs paroles ressemblent à peu près à cela :</i>\n<i>« Ô digne Narukami, montre-moi ton pouvoir et accorde à cette humble supplique ta puissance fulgurante ! Sowaka ! »</i>",
+      "pt": "Retira-se rapidamente com a velocidade de um tengu, invocando a proteção da Pena do Corvo.\nGanha a Proteção da Pena do Corvo por 18s, e quando a Kujou Sara dispara um tiro com mira totalmente carregada, a Proteção da Pena do Corvo será consumida, e deixará uma Pena do Corvo no local alvo.\nAs Penas do Corvo desencadearão o Tengu Juurai: Emboscada após um curto período de tempo, causando <color=#FFACFFFF>Dano Electro</color> e concedendo ao personagem ativo um Bônus de ATQ baseado no ATQ Base de Kujou Sara dentro da AdE do campo atual.\n\n<i>À raça tengu nunca faltaram talentos excepcionais que tenham recebido uma Visão Electro. É que eles costumam fazer cânticos à Arconte Electro enquanto manipulam o Electro. Os cânticos são mais ou menos assim</i>\n<i>\"Mostre sua força, ó louvável Narukami, e conceda a este suplicante sua força trovejante! Sowaka!\"</i>",
+      "ru": "Быстро отступает со скоростью тэнгу и призывает защиту Вороньего пера.\nКудзё Сара получает Укрытие вороньего пера на 18 сек., и когда она совершает полностью заряженный прицельный выстрел, Укрытие вороньего пера тратится и оставляет на месте цели Воронье перо.\nЧерез короткое время Вороньи перья активируют Тэнгу дзюрай: Засада, которые наносят противникам в зоне действия <color=#FFACFFFF>Электро урон</color> и дают активному персонажу, находящемуся в зоне действия, бонус атаки, зависящий от базовой атаки Кудзё Сары.\n\nБонусы атаки от разных Тэнгу дзюрай не складываются, а их эффекты и длительность считаются по последнему появившемуся Тэнгу дзюрай.\n\n<i>У расы тэнгу не было недостатка в представителях исключительного таланта, получивших Электро Глаз Бога, и они до сих пор по старой привычке во время манипуляций с Электро восхваляют Электро Архонта. Их моление звучит примерно так:</i>\n<i>«Покажи своё превосходство, о достойнейшая Наруками! Даруй слуге твоему силу грозы! Совака!»</i>",
+      "id": "Mundur dengan kecepatan seperti tengu dan memanggil perlindungan dari Crowfeather.\nMendapatkan efek Crowfeather Cover selama 18 detik, dan jika Kujou Sara melancarkan Serangan Membidik yang terisi penuh, Crowfeather Cover akan terkonsumsi dan tembakan ini akan meninggalkan sebuah Crowfeather di lokasi target.\nCrowfeather akan memicu Tengu Juurai: Ambush setelah beberapa saat, mengakibatkan <color=#FFACFFFF>Electro DMG</color> pada musuh di dekatnya, dan memberikan Bonus ATK sebesar persentase dari Base ATK Kujou Sara pada Karakter aktif di sekitar.\n\nBonus ATK dari berbagai Tengu Juurai yang berbeda tidak bisa digabungkan. Efek dan durasi nya juga akan ditentukan oleh efek Tengu Juurai yang aktif terakhir.\n\n<i>Ras tengu tidak pernah kekurangan orang berbakat yang diberkati dengan Vision Electro. Mereka selalu mengucapkan mantra pada Archon Electro saat sedang mengendalikan elemen Electro. Isi mantranya kira-kira seperti ini:</i>\n<i>\"Tunjukkanlah kekuatanmu wahai Narukami Yang Agung, berikanlah kekuatan petirmu yang perkasa pada hambamu ini! Sowaka!\"</i>",
+      "th": "ถอยไปด้านหลังด้วยความเร็วของเทพเท็งงุ และเรียกการปกป้องของ Crowfeather ออกมา\nได้รับ \"Crowfeather Cover\" เป็นเวลา 18 วินาที เมื่อ Kujou Sara ยิงธนูที่ชาร์จเต็มแล้วออกมา จะใช้ Crowfeather Cover ที่มีและทิ้ง \"Crowfeather\" ไว้ตรงตำแหน่งที่ถูกเป้าหมาย\nหลังจากนั้นไม่นาน Crowfeather จะทำให้เกิด Tengu Juurai: Ambush เพื่อสร้าง<color=#FFACFFFF>ความเสียหายไฟฟ้า</color>ให้แก่ศัตรูที่อยู่ในพื้นที่ และทำให้ตัวละครในพื้นที่ที่อยู่ในการต่อสู้ในขณะนั้นได้รับโบนัสพลังโจมตีปริมาณหนึ่ง โดยเป็นสัดส่วนขึ้นกับพลังโจมตีพื้นฐานของ Kujou Sara\n\nการเพิ่มพลังโจมตีที่ได้จาก Tengu Juurai แต่ละอย่างนั้นจะไม่ซ้อนทับกัน โดยที่เอฟเฟกต์และช่วงเวลาต่อเนื่องจะขึ้นกับการออกเอฟเฟกต์สุดท้ายของ Tengu Juurai สุดท้ายเป็นหลัก\n\n<i>เชื้อสายเท็งงุนั้น ไม่เคยไร้ซึ่งผู้ครอบครองวิชั่นสายฟ้า ซึ่งเปี่ยมไปด้วยพรสวรรค์เหนือจินตนาการ เพียงแต่ว่าในตอนที่พวกเขาควบคุมพลังแห่งสายฟ้า จะยังคงร่ายถ้อยคำสรรเสริญเทพเจ้าแห่งสายฟ้าออกมาด้วยความคุ้นชิน โดยจะมีเนื้อหาประมาณนี้:</i>\n<i>\"ท่าน Narukami ผู้ยิ่งใหญ่ แสดงพลังของท่านออกมาและจงมอบสายฟ้าอันทรงพลังนี้ให้แก่ข้า! Sowaka!\"</i>",
+      "vi": "Di chuyển nhanh về phía sau với tốc độ của Tengu, đồng thời triệu hồi sự bảo vệ của lông quạ.\nNhận được \"Lông Quạ Bao Phủ\" trong 18s, khi Kujou Sara tụ lực bắn tên sẽ tiêu hao \"Lông Quạ Bao Phủ\", đồng thời để lại \"Lông Quạ\" tại vị trí bắn trúng.\n\"Lông Quạ\" sau một thời gian ngắn sẽ kích hoạt Tengu Juurai - Phục Kích, gây <color=#FFACFFFF>Sát Thương Nguyên Tố Lôi</color> cho kẻ địch trong phạm vi, đồng thời tăng tấn công với tỷ lệ nhất định cho nhân vật trong phạm vi dựa theo sức tấn công cơ bản của Kujou Sara.\n\nMức tấn công tăng thêm của các loại Tengu Juurai cung cấp sẽ không thể cộng dồn, thời gian duy trì và hiệu quả sẽ tính theo hiệu quả sau cùng.\n\n<i>Tộc Tengu không thiếu những tài năng sở hữu Vision Lôi, họ thường ngợi ca Lôi Thần khi chiến đấu, lời ngợi ca như sau:</i>\n<i>\"Hỡi Narukami, hãy thể hiện sự uy nghiêm của sấm sét, và ban cho hạ thần sức mạnh của ngài. Sowaka!\"</i>"
+    },
+    "imgid": "s_563201"
+  },
+  {
+    "title": {
+      "zhs": "煌煌千道镇式",
+      "zht": "煌煌千道鎮式",
+      "jp": "煌煌千道鎮式",
+      "ko": "빛나는 천도의 진법",
+      "en": "Subjugation: Koukou Sendou",
+      "de": "Unterwerfung – Koukou Sendou",
+      "es": "Aplacamiento: Camino de la luz",
+      "fr": "Soumission : Chemin de lumière",
+      "pt": "Subjugação: Koukou Sendou",
+      "ru": "Подчинение: Коко сэндо",
+      "id": "Subjugation: Koukou Sendou",
+      "th": "Subjugation: Koukou Sendou",
+      "vi": "Bí Thức - Koukou Sendou"
+    },
+    "description": {
+      "zhs": "在目标的位置降下天狗咒雷·金刚坏，造成<color=#FFACFFFF>雷元素范围伤害</color>。此后，天狗咒雷·金刚坏将扩散转为4道连续的天狗咒雷·雷砾，造成<color=#FFACFFFF>雷元素范围伤害</color>。\n天狗咒雷·金刚坏与天狗咒雷·雷砾会使其范围内的当前场上角色获得与元素战技「鸦羽天狗霆雷召咒」相同的攻击力加成。\n\n各种天狗咒雷提供的攻击力提升不能叠加，效果与持续时间由后生效的为准。\n\n<i>裟罗背离天狗之众，又短暂对天领奉行失去了信仰。在打破迷惘之后，这是她重新所找到的，属于自己的雷光。</i>",
+      "zht": "在目標的位置降下天狗咒雷·金剛壞，造成<color=#FFACFFFF>雷元素範圍傷害</color>。此後，天狗咒雷·金剛壞將擴散轉為4道連續的天狗咒雷·雷礫，造成<color=#FFACFFFF>雷元素範圍傷害</color>。\n天狗咒雷·金剛壞與天狗咒雷·雷礫會使範圍內的目前場上角色獲得與元素戰技「鴉羽天狗霆雷召咒」相同的攻擊力加成。\n\n各種天狗咒雷提供的攻擊力提升不能疊加，效果與持續時間由後生效的為準。\n\n<i>裟羅背離天狗之眾，又短暫對天領奉行失去了信仰。在打破迷惘之後，這是她重新所找到的，屬於自己的雷光。</i>",
+      "jp": "目標位置に天狗呪雷·金剛破を下し、<color=#FFACFFFF>雷元素範囲ダメージ</color>を与える。その後、天狗呪雷·金剛破は4つの連続する天狗呪雷·雷礫に分裂し、<color=#FFACFFFF>雷元素範囲ダメージ</color>を与える。\n天狗呪雷·金剛破と天狗呪雷·雷礫は、範囲内のフィールド上キャラクターに、元素スキル「烏天狗雷霆召呪」に相当する攻撃力アップ効果を与える。\n\n各種天狗呪雷による攻撃力アップ効果は重ね掛けできず、効果と継続時間は最後に発動したものを基準とする。\n\n<i>九条裟羅は天狗に背を向け、天領奉行への信仰を一時的に失っていた。戸惑いを打ち破った彼女にとって、これこそが彼女が新たに見つけた、自分自身の雷光であった。</i>",
+      "ko": "목표의 위치에 텐구 주뢰·금강괴를 내려 <color=#FFACFFFF>번개 원소 범위 피해</color>를 준다. 그 후 텐구 주뢰·금강괴는 4개의 연속되는 텐구 주뢰·번개 자갈로 확산되어 <color=#FFACFFFF>번개 원소 범위 피해</color>를 준다.\n텐구 주뢰·금강괴와 텐구 주뢰·번개 자갈은 그 범위 내에 있는 필드 위 캐릭터에게 원소전투 스킬 「까마귀 깃 텐구의 뇌정 소환」과 같은 공격력 보너스를 부여한다.\n\n텐구 주뢰가 제공하는 각종 공격력 향상 효과는 중첩되지 않으며, 효과 및 지속 시간은 나중에 발동한 것을 기준으로 한다.\n\n<i>사라는 텐구 무리를 떠났고 텐료 봉행에 대한 믿음도 일시적으로 잃었다. 이는 그녀가 역경을 헤치고 새롭게 찾은 자신만의 뇌광이다</i>",
+      "en": "Casts down Tengu Juurai: Titanbreaker, dealing <color=#FFACFFFF>AoE Electro DMG</color>. Afterwards, Tengu Juurai: Titanbreaker spreads out into 4 consecutive bouts of Tengu Juurai: Stormcluster, dealing <color=#FFACFFFF>AoE Electro DMG</color>.\nTengu Juurai: Titanbreaker and Tengu Juurai: Stormcluster can provide the active character within their AoE with the same ATK Bonus as given by the Elemental Skill, Tengu Stormcall.\n\nThe ATK Bonus provided by various kinds of Tengu Juurai will not stack, and their effects and duration will be determined by the last Tengu Juurai to take effect.\n\n<i>Sara departed from her people, the tengu, and also temporarily lost her faith in the Tenryou Commission. But once the clouds over her heart cleared, she found her own lightning anew.</i>",
+      "de": "Beschwört an der Stelle des Ziels einen Tengu Juurai – Titanenbrecher und verursacht <color=#FFACFFFF>Elektro-Flächenschaden</color>. Der Tengu Juurai – Titanenbrecher spaltet sich danach in 4 aufeinanderfolgende Tengu Juurai – Blitzbündel auf und verursacht <color=#FFACFFFF>Elektro-Flächenschaden</color>.\nTengu Juurai – Titanenbrecher sowie Tengu Juurai – Blitzbündel verleihen aktuellen Figuren im Wirkungsbereich den gleichen ANG-Bonus wie die Elementarfähigkeit Tengu-Sturmbeschwörung.\n\nDie ANG-Boni verschiedener Tengu Juurai sind nicht stapelbar und Effekt sowie Wirkungsdauer hängen vom zuletzt in Kraft getretenen Tengu Juurai ab.\n\n<i>Sara kehrte sich von ihrem Volk, den Tengu, ab und verlor auch ihr Vertrauen in die Tenryou-Verwaltung. Nachdem sie aber Klarheit gefunden hatte, erkannte sie erneut ihr eigenes Blitzleuchten.</i>",
+      "es": "Una maldición tengu: masacratitanes cae sobre la ubicación del objetivo e inflige <color=#FFACFFFF>Daño Electro en el AdE</color>. Después, esta maldición da lugar a 4 maldiciones tengu: tormenta pétrea consecutivas que infligen <color=#FFACFFFF>Daño Electro en el AdE</color>.\nMaldición tengu: masacratitanes y maldición tengu: tormenta pétrea otorgan al personaje en uso que estaba en esa área el mismo Bono de ATQ que otorgaría la Habilidad Elemental de Kujou Sara, Electroinvocación tengu.\n\nLos Bonos de ATQ otorgados por las maldiciones tengu no se pueden acumular, sino que sus efectos y duración se calcularán en función de la última maldición realizada.\n\n<i>Sara se alejó de los suyos, los tengu, y por un tiempo perdió toda fe en la Comisión Tenryou. Pero cuando su corazón dejó de estar desconcertado, encontró nuevamente su propio relámpago.</i>",
+      "fr": "Dépose un Tengu Juurai : Brise-titan à l'emplacement de l'ennemi, infligeant des <color=#FFACFFFF>DGT Électro de zone</color>. Puis ce Tengu Juurai : Brise-titan se divise en 4 Tengu Juurai : Tempête de pierres consécutifs, infligeant des <color=#FFACFFFF>DGT Électro de zone</color>.\nTengu Juurai : Brise-titan et Tengu Juurai : Tempête de pierres permettent au personnage déployé à portée de recevoir le même bonus d'ATQ que lors de la compétence élémentaire, Tempestrier tengu.\n\nLes bonus d'ATQ des différents Tengu Juurai ne se cumulent pas, et leur effet et durée sont déterminés par le dernier Tengu Juurai actif.\n\n<i>Sara a quitté son peuple, les Tengu, et a également temporairement perdu sa foi en la Commission administrative. Mais lorsque les nuages qui assombrissaient son cœur se sont dissipés, elle a retrouvé son propre éclair.</i>",
+      "pt": "Lança um Tengu Juurai: Destruidor de Titãs, causando <color=#FFACFFFF>Dano Electro em uma AdE</color>. Depois disso, Tengu Juurai: Destruidor de Titãs irá se espalhar em 4 Tengu Juurai: Aglomerado de Tempestades consecutivos, causando <color=#FFACFFFF>Dano Electro em uma AdE</color>.\nTengu Juurai: Destruidor de Titãs e Tengu Juurai: Aglomerado de Tempestades permitirá que o personagem ativo receba o mesmo Bônus de ATQ que receberia durante a Habilidade Elemental dentro da AdE do campo atual, Invocação da Tempestade Tengu.\n\nO Bônus de ATQ fornecido por vários tipos de Tengu Juurai não será acumulado, e seus efeitos e duração serão determinados pelo último Tengu Juurai a entrar em vigor.\n\n<i>Sara abandonou seu povo, os tengu, e também perdeu temporariamente sua fé na Comissão Tenryou. Mas uma vez que as nuvens sobre seu coração se dissiparam, ela encontrou de novo seu próprio relâmpago.</i>",
+      "ru": "По позиции цели бьёт Тэнгу дзюрай: Крушитель титанов, который наносит <color=#FFACFFFF>Электро урон по площади</color>. После этого Тэнгу дзюрай: Крушитель титанов разделяется на 4 линии последовательных Тэнгу дзюрай: Громокластер, которые наносят <color=#FFACFFFF>Электро урон по площади</color>.\nТэнгу дзюрай: Крушитель титанов и Тэнгу дзюрай: Громокластер позволяют активному персонажу в зоне действия получить тот же бонус атаки, что и во время элементального навыка Призыв грозы тэнгу.\n\nБонусы атаки от разных Тэнгу дзюрай не складываются, а их эффекты и длительность считаются по последнему появившемуся Тэнгу дзюрай.\n\n<i>Сара покинула свой народ, тэнгу, и на время потеряла веру в комиссию Тэнрё. Но когда тучи в её сердце рассеялись, она заново нашла свою молнию.</i>",
+      "id": "Menjatuhkan sebuah Tengu Juurai: Titanbreaker di lokasi target dan mengakibatkan <color=#FFACFFFF>Electro DMG Area</color>. Setelah itu, Tengu Juurai: Titanbreaker ini akan berpencar menjadi 4 Tengu Juurai: Stormcluster secara beruntun dan mengakibatkan <color=#FFACFFFF>Electro DMG Area</color>.\nTengu Juurai: Titanbreaker dan Tengu Juurai: Stormcluster akan memberikan Bonus ATK pada Karakter aktif yang ada di sekitar, sama seperti saat melancarkan Elemental Skill Tengu Stormcall.\n\nBonus ATK dari berbagai Tengu Juurai yang berbeda tidak bisa digabungkan. Efek dan durasi nya juga akan ditentukan oleh efek Tengu Juurai yang aktif terakhir.\n\n<i>Sara telah berpaling dari kaumnya sendiri, para tengu, dan juga telah kehilangan kepercayaan pada Tenryou Commission. Namun setelah keraguan di hatinya sirna, dia berhasil menemukan petirnya yang baru.</i>",
+      "th": "ปล่อย Tengu Juurai: Titanbreaker ลงมายังตำแหน่งของเป้าหมาย สร้าง<color=#FFACFFFF>ความเสียหายไฟฟ้าวงกว้าง</color> หลังจากนั้น Tengu Juurai: Titanbreaker จะกระจายออกเป็น Tengu Juurai: Stormcluster 4 ครั้ง ติดต่อกัน สร้าง<color=#FFACFFFF>ความเสียหายไฟฟ้าวงกว้าง</color>\nTengu Juurai: Titanbreaker และ Tengu Juurai: Stormcluster จะทำให้ตัวละครในพื้นที่ที่อยู่ในการต่อสู้ในขณะนั้นได้รับโบนัสพลังโจมตีเหมือนกันกับสกิลธาตุ \"Tengu Stormcall\"\n\nการเพิ่มพลังโจมตีที่ได้จาก Tengu Juurai แต่ละอย่างนั้นจะไม่ซ้อนทับกัน โดยที่เอฟเฟกต์และช่วงเวลาต่อเนื่องจะขึ้นกับการออกเอฟเฟกต์สุดท้ายของ Tengu Juurai สุดท้ายเป็นหลัก\n\n<i>Sara แยกตัวออกจากกลุ่มเท็งงุ และสูญเสียความเชื่อที่มีต่อสำนัก Tenryou ไปชั่วระยะเวลาหนึ่ง หลังจากที่ความสับสนในจิตใจสูญสิ้นหายไป เธอก็ได้พบกับประกายแสงของสายฟ้า ที่เป็นของตัวเองอย่างแท้จริง</i>",
+      "vi": "Thi triển Tengu Juurai - Vòng Kim Cang ở vị trí mục tiêu, gây <color=#FFACFFFF>Sát Thương Phạm Vi Nguyên Tố Lôi</color>. Sau đó, Tengu Juurai - Vòng Kim Cang sẽ khuếch tán chuyển thành 4 dòng Tengu Juurai - Tụ Sấm liên tục, gây <color=#FFACFFFF>Sát Thương Phạm Vi Nguyên Tố Lôi</color>.\nTengu Juurai - Vòng Kim Cang và Tengu Juurai - Tụ Sấm sẽ khiến nhân vật trong phạm vi nhận được hiệu quả tăng tấn công như Kỹ Năng Nguyên Tố Bão Sét Tengu.\n\nMức tấn công tăng thêm của các loại Tengu Juurai cung cấp sẽ không thể cộng dồn, thời gian duy trì và hiệu quả sẽ tính theo hiệu quả sau cùng.\n\n<i>Sara rời khỏi gia tộc, lại mất đi niềm tin với Hiệp Hội Tenryou. Trong cơn hoang mang, cái mà cô ấy tìm được, chính là ánh sáng sấm sét của riêng mình.</i>"
+    },
+    "imgid": "s_563901"
+  },
+  {
+    "title": {
+      "zhs": "不动心",
+      "zht": "不動心",
+      "jp": "不動心",
+      "ko": "부동심",
+      "en": "Immovable Will",
+      "de": "Besonnenheit",
+      "es": "Voluntad inamovible",
+      "fr": "Volonté immuable",
+      "pt": "Imovível",
+      "ru": "Недвижимая воля",
+      "id": "Immovable Will",
+      "th": "Immovable Will",
+      "vi": "Trái Tim Thép"
+    },
+    "description": {
+      "zhs": "处于<color=#FFD780FF>鸦羽天狗霆雷召咒</color>的「乌羽护持」状态下时，瞄准射击的所需的蓄力时间减少60%。",
+      "zht": "處於<color=#FFD780FF>鴉羽天狗霆雷召咒</color>的「烏羽護持」狀態下時，瞄準射擊的所需的蓄力時間減少60%。",
+      "jp": "<color=#FFD780FF>烏天狗雷霆召呪</color>による「烏羽護持」の時、狙い撃ちのチャージ時間-60%。",
+      "ko": "<color=#FFD780FF>까마귀 깃 텐구의 뇌정 소환</color>의 「까마귀 깃의 수호」 상태에서 조준 사격에 필요한 차지 시간이 60% 감소한다",
+      "en": "While in the Crowfeather Cover state provided by <color=#FFD780FF>Tengu Stormcall</color>, Aimed Shot charge times are decreased by 60%.",
+      "de": "Verringert die Aufladezeit für gezielte Schüsse im Zustand „Krähenfederhaube“ von <color=#FFD780FF>Tengu-Sturmbeschwörung</color> um 60 %.",
+      "es": "Al estar bajo los efectos de velo alado de <color=#FFD780FF>Electroinvocación tengu</color>, el tiempo de carga de Disparo Preciso se reduce en un 60%.",
+      "fr": "Sous l'effet de la Protection corvidée de <color=#FFD780FF>Tempestrier tengu</color>, la durée de charge du tir visé est réduite de 60 %.",
+      "pt": "Enquanto estiver no estado de Proteção da Pena do Corvo concedido pela <color=#FFD780FF>Invocação da Tempestade Tengu</color>, o tempo do Disparo com Mira é reduzido em 60%.",
+      "ru": "Нахождение в состоянии Укрытия вороньего пера навыка <color=#FFD780FF>Призыв грозы тэнгу</color> уменьшает время заряда прицельного выстрела на 60%.",
+      "id": "Saat berada dalam kondisi Crowfeather Cover dari skill <color=#FFD780FF>Tengu Stormcall</color>, waktu charge Serangan Membidik akan berkurang 60%.",
+      "th": "เมื่ออยู่ในสภาวะ Crowfeather Cover ของ <color=#FFD780FF>Tengu Stormcall</color> ช่วงเวลาที่ต้องใช้ในการชาร์จ ของการเล็งโจมตีจะลดลง 60%",
+      "vi": "Khi trong trạng thái \"Lông Quạ Bao Phủ\" của <color=#FFD780FF>Bão Sét Tengu</color>, thời gian tụ lực nhắm bắn giảm 60%."
+    },
+    "imgid": "p_562101"
+  },
+  {
+    "title": {
+      "zhs": "御公仪",
+      "zht": "御公儀",
+      "jp": "御公儀",
+      "ko": "공의",
+      "en": "Decorum",
+      "de": "Anstand",
+      "es": "Decoro imperial",
+      "fr": "Décorum",
+      "pt": "Decorum",
+      "ru": "Этикет",
+      "id": "Decorum",
+      "th": "Decorum",
+      "vi": "Ngự Nghi Lễ"
+    },
+    "description": {
+      "zhs": "天狗咒雷·伏命中敌人后，将基于九条裟罗的元素充能效率，每100%为队伍中所有角色恢复1.2点元素能量。该效果每3秒至多触发一次。",
+      "zht": "天狗咒雷·伏命中敵人後，將基於九條裟羅的元素充能效率，每100%為隊伍中所有角色恢復1.2點元素能量。該效果每3秒至多觸發一次。",
+      "jp": "天狗呪雷·伏は敵に命中すると、九条裟羅の元素チャージ効率を基準にし、その100%の元素チャージ効率毎に、チーム全員の元素エネルギーを1.2回復する。この効果は3秒毎に1回のみ発動可能。",
+      "ko": "텐구 주뢰·매복이 적을 명중하면, 쿠죠 사라의 원소 충전 효율에 기반하여 100%마다 파티 내 모든 캐릭터의 원소 에너지가 1.2pt 회복된다. 해당 효과는 3초마다 최대 1회 발동한다",
+      "en": "When Tengu Juurai: Ambush hits opponents, Kujou Sara will restore 1.2 Energy to all party members for every 100% Energy Recharge she has. This effect can be triggered once every 3s.",
+      "de": "Stellt beim Treffen von Gegnern mit Tengu Juurai – Hinterhalt allen Truppenmitgliedern 1,2 Punkte Elementarenergie für je 100 % von Kujou Saras Aufladerate wieder her. 3 s Abklingzeit.",
+      "es": "Cuando la maldición tengu: emboscada golpea a un enemigo, Kujou Sara regenera 1.2 pts. de Energía Elemental para todos los miembros del equipo por cada 100% de Recarga de Energía que tenga. Este efecto puede ocurrir, como máximo, una vez cada 3 s.",
+      "fr": "Lorsque Tengu Juurai : Embuscade touche un ennemi, Sara restaure 1,2 pts d'énergie élémentaire à tous les personnages de l'équipe tous les 100 % de recharge d'énergie dont elle dispose. Cet effet peut être déclenché une fois toutes les 3 s.",
+      "pt": "Quando Tengu Juurai: Emboscada atinge os oponentes, Kujou Sara irá restaurar 1.2 de Energia para todos os membros da equipe para cada 100% de Recarga de Energia que ela tiver. Este efeito pode ser acionado uma vez a cada 3s.",
+      "ru": "Когда Тэнгу дзюрай: Засада попадает атакой по противнику, Кудзё Сара восстанавливает 1,2 ед. энергии всем членам отряда за каждые 100% своего показателя восстановления энергии.\nЭтот эффект может возникнуть только 1 раз каждые 3 сек.",
+      "id": "Saat Tengu Juurai: Ambush mengenai musuh, Kujou Sara akan memulihkan 1,2 Energy pada seluruh anggota party untuk setiap 100% Energy Recharge yang Sara miliki. Efek ini dapat terpicu setiap 3 detik.",
+      "th": "เมื่อการโจมตีของ Tengu Juurai: Ambush ถูกศัตรู Kujou Sara จะทำการฟื้นฟูพลังงานธาตุให้แก่ตัวละครทั้งหมดในทีม 1.2 หน่วยต่อ 100% ของประสิทธิภาพการฟื้นฟูพลังงานของ Kujou Sara โดยที่เอฟเฟกต์นี้จะเกิดขึ้นได้มากสุดหนึ่งครั้ง ในทุก 3 วินาที",
+      "vi": "Sau khi Tengu Juurai - Phục Kích đánh trúng kẻ địch, căn cứ vào Hiệu Quả Nạp Nguyên Tố của Kujou Sara, mỗi 100% sẽ hồi cho tất cả nhân vật trong đội 1.2 điểm Năng Lượng Nguyên Tố. Hiệu quả này mỗi 3s tối đa kích hoạt 1 lần."
+    },
+    "imgid": "p_562201"
+  },
+  {
+    "title": {
+      "zhs": "检地",
+      "zht": "檢地",
+      "jp": "検地",
+      "ko": "대지 조사",
+      "en": "Land Survey",
+      "de": "Landvermessung",
+      "es": "Investigación de campo",
+      "fr": "Arpentage des terres",
+      "pt": "Pesquisa de Terreno",
+      "ru": "Обзор местности",
+      "id": "Land Survey",
+      "th": "Land Survey",
+      "vi": "Trắc Địa"
+    },
+    "description": {
+      "zhs": "在稻妻执行探索派遣任务时，消耗的时间缩短25%。",
+      "zht": "在稻妻執行探索派遣任務時，消耗的時間縮短25%。",
+      "jp": "稲妻の探索任務の所要時間-25%。",
+      "ko": "이나즈마에서 탐사 파견 수행 시 소모하는 시간이 25% 감소한다",
+      "en": "When dispatched on an expedition in Inazuma, time consumed is reduced by 25%.",
+      "de": "Verkürzt die bei Erkundungen innerhalb des Einflussbereichs von Inazuma verbrauchte Zeit um 25 %.",
+      "es": "Reduce en un 25% el tiempo necesario para completar una expedición en Inazuma.",
+      "fr": "Réduit la durée d'une expédition de 25 % lorsqu'elle se déroule à Inazuma.",
+      "pt": "Quando despachada em uma expedição em Inazuma, o tempo consumido é reduzido em 25%",
+      "ru": "Уменьшает длительность экспедиций в Инадзуме на 25%.",
+      "id": "Ketika dikirim untuk melakukan ekspedisi di Inazuma, waktu yang dibutuhkan berkurang 25%.",
+      "th": "เมื่อทำคำขอการออกสำรวจของ Inazuma เวลาที่ใช้จะลดลง 25%",
+      "vi": "Khi làm nhiệm vụ Phái Đi Thám Hiểm ở Inazuma, thời gian tiêu hao rút ngắn 25%."
+    },
+    "imgid": "p_562301"
+  }
+]

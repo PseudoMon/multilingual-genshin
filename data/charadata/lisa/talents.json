@@ -1,0 +1,200 @@
+[
+  {
+    "title": {
+      "zhs": "普通攻击·指尖雷暴",
+      "zht": "普通攻擊·指尖雷暴",
+      "jp": "通常攻撃·指先の雷",
+      "ko": "일반 공격·손끝의 뇌폭",
+      "en": "Normal Attack: Lightning Touch",
+      "de": "Standardangriff: Elektrisierende Berührung",
+      "es": "Ataque Normal: Toque de relámpago",
+      "fr": "Attaque normale : Touche d'éclair",
+      "pt": "Ataque Normal: Toque do Relâmpago",
+      "ru": "Касание молнии",
+      "id": "Lighting Touch",
+      "th": "โจมตีปกติ - Lightning Touch",
+      "vi": "Tấn Công Thường: Sấm Sét Cảm Ứng"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>普通攻击</color>\n进行至多四段的电击，造成<color=#FFACFFFF>雷元素伤害</color>。\n\n<color=#FFD780FF>重击</color>\n消耗一定体力，短暂咏唱后，造成<color=#FFACFFFF>雷元素范围伤害</color>。\n\n<color=#FFD780FF>下落攻击</color>\n凝聚雷电的力量，从空中下坠冲击地面，攻击下落路径上的敌人，并在落地时造成<color=#FFACFFFF>雷元素范围伤害</color>。",
+      "zht": "<color=#FFD780FF>普通攻擊</color>\n進行至多四段的電擊，造成<color=#FFACFFFF>雷元素傷害</color>。\n\n<color=#FFD780FF>重擊</color>\n消耗一定體力，短暫詠唱後，造成<color=#FFACFFFF>雷元素範圍傷害</color>。\n\n<color=#FFD780FF>下落攻擊</color>\n凝聚雷電的力量，從空中下墜衝擊地面，攻擊下落路徑上的敵人，並在落地時造成<color=#FFACFFFF>雷元素範圍傷害</color>。",
+      "jp": "<color=#FFD780FF>通常攻撃</color>\n雷電による最大4段の連続攻撃を行い、<color=#FFACFFFF>雷元素ダメージ</color>を与える。\n\n<color=#FFD780FF>重撃</color>\n一定のスタミナを消費し、短い詠唱をした後、<color=#FFACFFFF>雷元素範囲ダメージ</color>を与える。\n\n<color=#FFD780FF>落下攻撃</color>\n空中から雷電の力を凝集しながら落下し、地面に衝撃を与える。経路上の敵を攻撃し、落下時に<color=#FFACFFFF>雷元素範囲ダメージ</color>を与える。",
+      "ko": "<color=#FFD780FF>일반 공격</color>\n전격으로 최대 4번 공격해 <color=#FFACFFFF>번개 원소 피해</color>를 준다.\n\n<color=#FFD780FF>강공격</color>\n일정 스태미나를 소모해, 짧은 영창 후 <color=#FFACFFFF>번개 원소 범위 피해</color>를 준다.\n\n<color=#FFD780FF>낙하 공격</color>\n공중에서 뇌전의 힘을 모은 후 지면을 강타해 경로상의 적을 공격하고 착지 시 <color=#FFACFFFF>뇌전 원소 범위 피해</color>를 준다",
+      "en": "<color=#FFD780FF>Normal Attack</color>\nPerform up to 4 lightning attacks that deal <color=#FFACFFFF>Electro DMG</color>.\n\n<color=#FFD780FF>Charged Attack</color>\nConsumes a certain amount of Stamina to deal <color=#FFACFFFF>AoE Electro DMG</color> after a short casting time.\n\n<color=#FFD780FF>Plunging Attack</color>\nGathering the might of Electro, Lisa plunges towards the ground from mid-air, damaging all opponents in her path. Deals <color=#FFACFFFF>AoE Electro DMG</color> upon impact with the ground.",
+      "de": "<color=#FFD780FF>Standardangriff</color>\nFührt bis zu 4 Elektro-Angriffe aus und verursacht <color=#FFACFFFF>Elektro-Schaden</color>.\n\n<color=#FFD780FF>Heftiger Schlag</color>\nVerbraucht eine gewisse Menge Ausdauer und verursacht nach kurzer Aufladezeit <color=#FFACFFFF>Elektro-Flächenschaden</color>.\n\n<color=#FFD780FF>Angriff aus dem Fall</color>\nKonzentriert die Kraft der Blitze, schlägt beim Fallen aus der Luft auf den Boden, greift alle Gegner in der Bahn an und verursacht beim Aufkommen <color=#FFACFFFF>Elektro-Flächenschaden</color>.",
+      "es": "<color=#FFD780FF>Ataque Normal</color>\nRealiza hasta 4 ataques eléctricos que infligen <color=#FFACFFFF>Daño Electro</color>.\n\n<color=#FFD780FF>Ataque Cargado</color>\nConsume una cierta cantidad de Aguante para infligir <color=#FFACFFFF>Daño Electro en el AdE</color> después de un corto tiempo de lanzamiento.\n\n<color=#FFD780FF>Ataque Descendente</color>\nConcentra el poder Electro y desciende hacia el suelo, dañando a todos los enemigos cercanos e infligiendo <color=#FFACFFFF>Daño Electro en el AdE</color> en el momento del impacto.",
+      "fr": "<color=#FFD780FF>Attaque normale</color>\nEnchaîne jusqu'à 4 attaques électrifiées, infligeant des <color=#FFACFFFF>DGT Électro</color>.\n\n<color=#FFD780FF>Attaque chargée</color>\nConsomme de l'endurance pour infliger des <color=#FFACFFFF>DGT Électro de zone</color> après un court délai.\n\n<color=#FFD780FF>Attaque plongeante</color>\nPlonge depuis les airs en concentrant ses pouvoirs Électro, infligeant des DGT aux ennemis en chemin et des <color=#FFACFFFF>DGT Électro de zone</color> à l'impact.",
+      "pt": "<color=#FFD780FF>Ataque Normal</color>\nRealiza até 4 ataques de relâmpago que infligem <color=#FFACFFFF>Dano Electro</color>.\n\n<color=#FFD780FF>Ataque Carregado</color>\nConsome uma certa quantidade de Stamina que inflige <color=#FFACFFFF>Dano Electro em uma AdE</color> após um curto período de canalização.\n\n<color=#FFD780FF>Ataque Imersivo</color>\nReunindo o poder do Electro, Lisa mergulha ao chão em pleno ar, infligindo dano a todos os inimigos em seu caminho. Inflige <color=#FFACFFFF>Dano Electro em uma AdE</color> durante o impacto com o chão.",
+      "ru": "<color=#FFD780FF>Обычная атака:</color>\nДо четырёх ударов молнией, наносящих <color=#FFACFFFF>Электро урон</color>.\n\n<color=#FFD780FF>Заряженная атака:</color>\nКороткое заклинание, наносящее <color=#FFACFFFF>Электро урон по площади</color>, на которое тратится определённое количество выносливости.\n\n<color=#FFD780FF>Атака в падении:</color>\nНакопив энергию молнии, стремительно падает на землю, атакуя всех врагов на пути. Приземлившись, наносит <color=#FFACFFFF>Электро урон по площади</color>.",
+      "id": "<color=#FFD780FF>Normal Attack</color>\nMelancarkan hingga 4 serangan listrik yang mengakibatkan <color=#FFACFFFF>Electro DMG</color>.\n\n<color=#FFD780FF>Charged Attack</color>\nMengonsumsi sejumlah Stamina dan mengakibatkan <color=#FFACFFFF>Electro DMG area</color> setelah jeda singkat.\n\n<color=#FFD780FF>Plunging Attack</color>\nMengumpulkan kekuatan Electro dan menerjang tanah, mengakibatkan DMG pada musuh di jalur terjangan dan mengakibatkan <color=#FFACFFFF>Electro DMG area</color> saat mendarat.",
+      "th": "<color=#FFD780FF>โจมตีปกติ</color>\nทำการโจมตีด้วยสายฟ้ามากสุดสี่ครั้ง เพื่อสร้าง<color=#FFACFFFF>ความเสียหายไฟฟ้า</color>\n\n<color=#FFD780FF>ชาร์จโจมตี</color>\nใช้พลังกายบางส่วน โดยหลังจากร่ายเสร็จจะสร้าง <color=#FFACFFFF>ความเสียหายไฟฟ้าเป็นวงกว้าง</color>\n\n<color=#FFD780FF>โจมตีพุ่งลงจากอากาศ</color>\nรวบรวมพลังแห่งสายฟ้า กระโจนจากกลางอากาศลงมายังพื้นดิน เพื่อโจมตีศัตรูที่อยู่ในเส้นทางการโจมตี โดยจะสร้าง <color=#FFACFFFF>ความเสียหายไฟฟ้าวงกว้าง</color> เมื่อลงถึงพื้น",
+      "vi": "<color=#FFD780FF>Tấn Công Thường</color>\nThực hiện tối đa 4 lần chích điện, gây <color=#FFACFFFF>Sát Thương Nguyên Tố Lôi</color>.\n\n<color=#FFD780FF>Trọng Kích</color>\nTiêu hao thể lực nhất định, sau khi tụ lực, gây <color=#FFACFFFF>Sát Thương Phạm Vi Nguyên Tố Lôi</color>.\n\n<color=#FFD780FF>Tấn Công Khi Đáp</color>\nNgưng tụ sức mạnh lôi điện, từ trên trời tấn công xuống mặt đất, tấn công kẻ địch trên đường, gây <color=#FFACFFFF>sát thương phạm vi Nguyên Tố Lôi</color> khi chạm đất."
+    },
+    "imgid": "s_43101"
+  },
+  {
+    "title": {
+      "zhs": "苍雷",
+      "zht": "蒼雷",
+      "jp": "蒼雷",
+      "ko": "창뢰",
+      "en": "Violet Arc",
+      "de": "Lila Lichtbogen",
+      "es": "Arco violeta",
+      "fr": "Arc fulminant",
+      "pt": "Arco Violeta",
+      "ru": "Пурпурная дуга",
+      "id": "Violet Arc",
+      "th": "Violet Arc",
+      "vi": "Sấm Giội"
+    },
+    "description": {
+      "zhs": "导引雷电的力量，把麻烦的东西都清理干净。\n\n<color=#FFD780FF>点按</color>\n放出能自行索敌的球形闪电。\n命中时，会造成<color=#FFACFFFF>雷元素伤害</color>，并对小范围内的敌人施加至多叠加3层的引雷状态。\n\n<color=#FFD780FF>长按</color>\n持续咏唱后，召唤雷电从天而降，对附近的所有敌人造成大量<color=#FFACFFFF>雷元素伤害</color>。\n对处于引雷状态下的敌人，会根据叠加层数造成大量额外伤害，并清除引雷效果。\n\n<i>雷电的颜色就是蔷薇魔女的颜色。</i>",
+      "zht": "導引雷電的力量，把麻煩的東西都清理乾淨。\n\n<color=#FFD780FF>點按</color>\n放出能自行索敵的球型閃電。\n命中時，會造成<color=#FFACFFFF>雷元素傷害</color>，並對小範圍內的敵人施加至多疊加三層的引雷狀態。\n\n<color=#FFD780FF>長按</color>\n持續詠唱後，召喚雷電從天而降，對附近的所有敵人造成大量<color=#FFACFFFF>雷元素傷害</color>。\n對處於引雷狀態下的敵人，會根據疊加層數造成大量額外傷害，並清除引雷效果。\n\n<i>雷電的顏色就是薔薇魔女的顏色。</i>",
+      "jp": "雷の力で、面倒なものを全て綺麗に片付ける。\n\n<color=#FFD780FF>一回押し</color>\n自動で索敵する球状の稲妻を放つ。\n命中後、標的に<color=#FFACFFFF>雷元素ダメージ</color>を与え、狭範囲の敵に最大3重までの誘雷効果を付与する。\n\n<color=#FFD780FF>長押し</color>\n短い詠唱をした後、雷を落下させ、周囲にいる全ての敵に<color=#FFACFFFF>雷元素ダメージ</color>を与える。\n敵が誘雷状態の場合、誘雷効果を解除し、重ねた回数をもとに追加ダメージを与える。\n\n<i>雷電の色は薔薇の魔女の色である。</i>",
+      "ko": "뇌전의 힘을 인도해 성가신 것들을 깨끗이 청소한다.\n\n<color=#FFD780FF>짧은 터치</color>\n자동으로 적을 추적하는 일렉트릭볼을 발사한다.\n명중 시 <color=#FFACFFFF>번개 원소 피해</color>를 주고 작은 범위 내의 적에게 전기 전도 효과를 부여한다. 최대 중첩수: 3회\n\n<color=#FFD780FF>홀드</color>\n지속 영창 후 하늘에서 뇌전을 소환하여 주변의 모든 적에게 대량의 <color=#FFACFFFF>번개 원소 피해</color>를 준다.\n만약 적이 전기 전도 상태라면 전기 전도 효과를 지우고 중첩 수에 따른 추가 피해를 준다.\n\n<i>뇌전의 색은 장미 마녀의 색과 같다.</i>",
+      "en": "#Channels the power of lightning to sweep bothersome matters away.\n\n<color=#FFD780FF>{LAYOUT_MOBILE#Tap}{LAYOUT_PC#Press}{LAYOUT_PS#Press}</color>\nReleases a homing Lightning Orb.\nOn hit, it deals <color=#FFACFFFF>Electro DMG</color> and applies a stack of the Conductive status (max 3 stacks) to opponents in a small AoE.\n\n<color=#FFD780FF>Hold</color>\nAfter an extended casting time, calls down lightning from the heavens, dealing massive <color=#FFACFFFF>Electro DMG</color> to all nearby opponents.\nDeals great amounts of extra damage to opponents based on the number of Conductive stacks applied to them, and clears their Conductive status.\n\n<i>Electro Purple is the raiment of the Witch of Purple Rose.</i>",
+      "de": "Bündelt die Elektro-Kraft, um der Unordnung ein Ende zu bereiten.\n\n<color=#FFD780FF>Drücken</color>\nErschafft einen Kugelblitz, der automatisch nach Gegnern sucht.\nVerursacht bei einem Treffer <color=#FFACFFFF>Elektro-Schaden</color> und fügt Gegnern mit geringer Reichweite den bis zu 3-fachen Zustand Blitzleiter zu.\n\n<color=#FFD780FF>Gedrückt halten</color>\nRuft nach dem Aufladen einen Blitz aus dem Himmel, der allen Gegnern in der Umgebung hohen <color=#FFACFFFF>Elektro-Schaden</color> zufügt.\nFügt Gegnern im Zustand Blitzleiter je nach gestapeltem Effekt zusätzlich hohen Schaden zu und entfernt den Effekt Blitzleiter von diesen Gegnern.\n\n<i>Die Farbe des Blitzes ist die Farbe der Rosenhexe.</i>",
+      "es": "#Canaliza el poder del rayo para deshacerse de los asuntos más molestos.\n\n<color=#FFD780FF>{LAYOUT_MOBILE#Un toque}{LAYOUT_PC#Pulsar una vez}{LAYOUT_PS#Pulsar una vez}</color>\nLanza un orbe eléctrico contra sus enemigos. En el momento del impacto, el orbe inflige <color=#FFACFFFF>Daño Electro</color> y afecta a los enemigos situados en una pequeña AdE con una carga de conducción (máx. 3 cargas).\n\n<color=#FFD780FF>Mantener pulsado</color>\nTras un tiempo de canalización, invoca los truenos del cielo, infligiendo una gran cantidad de <color=#FFACFFFF>Daño Electro</color> a los enemigos cercanos.\nInflige grandes cantidades de daño adicional a los enemigos en proporción al número de cargas de conducción que tengan, tras lo que elimina este efecto.\n\n<i>El color de los rayos es el color preferido de la Bruja de las Rosas.</i>",
+      "fr": "Canalise le pouvoir de la foudre pour nettoyer un peu le champ de bataille.\n\n<color=#FFD780FF>Appui simple</color>\nLibère un orbe électrique à tête chercheuse.\n\nLorsqu'il touche une cible, l'orbe inflige des <color=#FFACFFFF>DGT Électro</color>, ainsi que l'effet Conductivité aux ennemis proches, cumulable 3 fois maximum.\n\n<color=#FFD780FF>Appui long</color>\nAprès un court délai, des éclairs s'abattent des cieux et infligent des <color=#FFACFFFF>DGT Électro</color> à tous les ennemis proches.\nLes ennemis affectés par Conductivité subissent des DGT supplémentaires proportionnels au nombre de cumuls.\n\n<i>La couleur de la foudre est aussi la couleur de la Sorcière à la rose.</i>",
+      "pt": "Canaliza o poder dos relâmpagos para se livrar de coisas incômodas.\n\n<color=#FFD780FF>Pressionar</color>\nLibera uma esfera relâmpago perseguidora.\nAo acertar, inflige <color=#FFACFFFF>Dano Electro</color> e aplica um acúmulo do efeito Condutor (máximo de 3 acúmulos) nos inimigos em uma pequena AdE\n\n<color=#FFD780FF>Manter pressionado</color>\nApós um longo período de canalização, convoca os relâmpagos dos céus, infligindo <color=#FFACFFFF>Dano Electro</color> massivo em todos os inimigos próximos baseado no número de acúmulos do efeito Condução aplicados neles, e remove seus efeitos de Condução.\n\n<i>O Electro Púrpura é a vestimenta de uma Bruxa das Rosas</i>",
+      "ru": "Фокусирует силу молнии на вечно мешающих надоедливых существах.\n\n<color=#FFD780FF>Быстрое нажатие:</color>\nВыпускает самонаводящийся шар молнии, который при попадании наносит <color=#FFACFFFF>Электро урон</color> и накладывает на противников в небольшом радиусе статус Проводник (может складываться до 3 раз).\n\n<color=#FFD780FF>Долгое нажатие:</color>\nПроизносит заклинание, вызывающее с небес гром, который наносит <color=#FFACFFFF>Электро урон</color> окружающим врагам. Также наносит дополнительный урон врагам со статусом Проводник, в зависимости от количества складываний, при этом снимая с них этот статус.\n\n<i>Цвет настроения - пурпурный Электро.</i>",
+      "id": "Menyalurkan kekuatan petir untuk menyapu bersih masalah yang merepotkan.\n\n<color=#FFD780FF>Tekan</color>\nMelancarkan sebuah bola listrik yang mengejar musuh.\nSaat mengenai musuh, mengakibatkan <color=#FFACFFFF>Electro DMG</color> dan memberikan satu lapis efek Conductive (hingga 3 lapis) ke musuh di dalam area kecil.\n\n<color=#FFD780FF>Tahan</color>\nSetelah waktu casting yang diperpanjang, memanggil petir dari langit untuk mengakibatkan <color=#FFACFFFF>Electro DMG</color> yang besar ke semua musuh di sekitar.\nMengakibatkan tambahan DMG yang besar ke musuh berdasarkan jumlah lapisan Conductive yang mereka miliki dan menghapusnya.\n\n<i>Warna Electro Purple adalah warna sang Rose Witch.</i>",
+      "th": "#ชักนำพลังของสายฟ้าและกำจัดสิ่งน่ารำคาญให้สิ้นซาก\n\n<color=#FFD780FF>{LAYOUT_MOBILE#แตะ}{LAYOUT_PC#กด}{LAYOUT_PS#กด}</color>\nปล่อยลูกบอลสายฟ้าที่สามารถติดตามตัวศัตรูได้ออกมา\nเมื่อถูกเป้าหมายจะทำให้เกิด<color=#FFACFFFF>ความเสียหายไฟฟ้า</color>และทำให้เกิดสภาวะนำไฟฟ้าซ้อนทับกันมากสุดได้ 3 ชั้น\n\n<color=#FFD780FF>{LAYOUT_MOBILE#แตะค้าง}{LAYOUT_PC#กดค้าง}{LAYOUT_PS#กดค้าง}</color>\nหลังจากร่ายอย่างต่อเนื่องจะเรียกสายฟ้าให้ผ่าลงมาจากฟ้าและสร้าง<color=#FFACFFFF>ความเสียหายไฟฟ้า</color>ปริมาณมากแก่ศัตรูทุกตัวที่อยู่ใกล้เคียง\nสำหรับศัตรูที่อยู่ภายใต้สภาวะการนำไฟฟ้าจะสร้างความเสียหายเพิ่มเติมปริมาณมากโดยจะขึ้นอยู่กับจำนวนชั้นของการซ้อนทับและเอฟเฟกต์นำไฟฟ้า\n\n<i>สีของสายฟ้านั้นก็คือสีของ Witch of Purple Rose</i>",
+      "vi": "Dẫn sức mạnh lôi điện, quét sạch những thứ gây rắc rối.\n\n<color=#FFD780FF>Nhấn</color>\nPhóng ra tia điện hình cầu có khả năng tự tìm địch.\nSau khi đánh trúng, tạo ra <color=#FFACFFFF>Sát Thương Nguyên Tố Lôi</color> cho mục tiêu, có thêm hiệu quả dẫn điện đối với địch trong phạm vi nhỏ, cộng dồn tối đa 3 tầng.\n\n<color=#FFD780FF>Nhấn Giữ</color>\nSau khi tụ lực, triệu hồi sấm sét từ trên trời xuống, tạo thành <color=#FFACFFFF>Sát Thương Nguyên Tố Lôi</color> đối với tất cả địch ở gần.\nNếu địch đang trong trạng thái dẫn điện, sẽ căn cứ theo số tầng cộng dồn mà gây thêm lượng lớn sát thương, và xóa hiệu quả dẫn điện.\n\n<i>Màu sắc của lôi điện là màu sắc đầy mê hoặc của ma nữ tường vi.</i>"
+    },
+    "imgid": "s_43201"
+  },
+  {
+    "title": {
+      "zhs": "蔷薇的雷光",
+      "zht": "薔薇的雷光",
+      "jp": "薔薇の雷光",
+      "ko": "장미의 뇌광",
+      "en": "Lightning Rose",
+      "de": "Rosenblitz",
+      "es": "Rayo de la rosa",
+      "fr": "Rose de foudre",
+      "pt": "Rosa do Relâmpago",
+      "ru": "Громовая роза",
+      "id": "Lightning Rose",
+      "th": "Lightning Rose",
+      "vi": "Tường Vi Sấm Sét"
+    },
+    "description": {
+      "zhs": "召唤蔷薇雷光，释放强大的雷电之力，击退周围的敌人并造成<color=#FFACFFFF>雷元素伤害</color>。\n存在期间内，蔷薇雷光会持续放电攻击附近的敌人，造成<color=#FFACFFFF>雷元素伤害</color>。\n\n<i>这朵蔷薇固然美丽，却也有着致命的刺。</i>",
+      "zht": "召喚薔薇雷光，釋放強大的雷電之力，擊退周圍的敵人並造成<color=#FFACFFFF>雷元素傷害</color>。\n存在期間內，薔薇雷光會持續放電攻擊附近的敵人，造成<color=#FFACFFFF>雷元素傷害</color>。\n\n<i>這朵薔薇固然美麗，卻也有著致命的刺。</i>",
+      "jp": "薔薇の雷光を召喚し、強い雷の力で周囲の敵に<color=#FFACFFFF>雷元素ダメージ</color>を与え、ノックバックする。\n継続時間中、薔薇の雷光は周囲の敵を攻撃し、<color=#FFACFFFF>雷元素ダメージ</color>を与える。\n\n<i>この薔薇は美しいが、致命的な棘がある。</i>",
+      "ko": "장미의 뇌광을 소환하여 강력한 뇌전의 힘을 방출해 주변의 적을 넉백시키고 <color=#FFACFFFF>번개 원소 피해</color>를 준다.\n지속 기간 동안 장미의 뇌광은 주변의 적에게 지속해서 번개를 발사해 <color=#FFACFFFF>번개 원소 피해</color>를 준다.\n\n<i>장미는 아름답지만 치명적인 가시가 있다</i>",
+      "en": "Summons a Lightning Rose that unleashes powerful lightning bolts, launching surrounding opponents and dealing <color=#FFACFFFF>Electro DMG</color>.\nThe Lightning Rose will continuously emit lightning to knock back opponents and deal <color=#FFACFFFF>Electro DMG</color> throughout the ability's duration.\n\n<i>This rose is beautiful, but beware its mortal thorns.</i>",
+      "de": "Erschafft Rosenblitze, stößt Gegner in der Umgebung mit starker Elektro-Kraft zurück und verursacht <color=#FFACFFFF>Elektro-Schaden</color>.\nErschafft während der Wirkungsdauer fortlaufend Blitze, die Gegner in der Nähe angreifen und <color=#FFACFFFF>Elektro-Schaden</color> verursachen.\n\n<i>Die Schönheit dieser Rose wird von ihren Dornen nur hervorgehoben.</i>",
+      "es": "Invoca una rosa devastadora que libera un inmenso poder eléctrico y empuja a los enemigos cercanos, infligiendo <color=#FFACFFFF>Daño Electro</color>.\nDurante su efecto, la rosa devastadora chispea periódicamente relámpagos para atacar a los oponentes cercanos, infligiendo <color=#FFACFFFF>Daño Electro</color>.\n\n<i>Efectivamente, esta rosa es increíblemente bella, pero sus espinas pueden llegan a ser letales</i>.",
+      "fr": "Invoque une rose de foudre qui libère une puissante énergie électrique repoussant les ennemis proches et leur infligeant des <color=#FFACFFFF>DGT Électro</color>.\nLa rose de foudre envoie des décharges électriques qui infligent des <color=#FFACFFFF>DGT Électro</color> aux ennemis proches tant qu'elle est active.\n\n<i>Cette rose est belle, mais possède des épines mortelles.</i>",
+      "pt": "Evoca uma Rosa Elétrica que desfere poderosos relâmpagos, lançando inimigos próximos e infligindo <color=#FFACFFFF>Dano Electro</color>.\nA Rosa Elétrica irá continuamente emitir raios que empurram os inimigos e infligem <color=#FFACFFFF>Dano Electro</color> enquanto ela permanecer.\n\n<i>Essa rosa é linda, mas tenha cuidado com seus espinhos mortais.</i>",
+      "ru": "Призывает громовую розу, которая отталкивает окружающих врагов и наносит им <color=#FFACFFFF>Электро урон</color>.\nВ течение продолжительного времени атакует окружающих врагов, нанося им <color=#FFACFFFF>Электро урон</color>.\n\n<i>Красота этой розы находится за гранью нашего понимания, так же как и её бьющие током шипы.</i>",
+      "id": "Memanggil Lightning Rose yang mengerahkan sambaran petir dan menghempas musuh di sekitar untuk mengakibatkan <color=#FFACFFFF>Electro DMG</color>.\nLightning Rose akan terus memanggil petir untuk menghempas musuh dan mengakibatkan <color=#FFACFFFF>Electro DMG</color> selama ia tetap ada.\n\n<i>Hati-hati dengan duri mematikan dari mawar yang cantik.</i>",
+      "th": "เรียก Lightning Rose ออกมาเพื่อปลดปล่อยพลังอันรุนแรงของสายฟ้า โจมตีศัตรูโดยรอบให้ถอยกลับไปและสร้าง<color=#FFACFFFF>ความเสียหายไฟฟ้า</color>\nภายในช่วงเวลาที่คงอยู่ Lightning Rose จะปล่อยสายฟ้าโจมตีใส่ศัตรูในบริเวณใกล้เคียงและทำให้เกิด<color=#FFACFFFF>ความเสียหายไฟฟ้า</color>\n\n<i>กุหลาบดอกนี้สวยงามอย่างไม่ต้องสงสัย แต่ก็มีหนามที่อันตรายถึงชีวิตเลยทีเดียว</i>",
+      "vi": "Triệu hồi Tường Vi Sấm Sét, phóng ra sấm sét cường đại, đánh lui địch xung quanh và gây <color=#FFACFFFF>Sát Thương Nguyên Tố Lôi</color>.\nTrong thời gian tồn tại, Tường Vi Sấm Sét sẽ tiếp tục phóng điện công kích vào phạm vi công kích của địch, gây <color=#FFACFFFF>Sát Thương Nguyên Tố Lôi</color>.\n\n<i>Đóa tường vi này thật đẹp, nhưng lại có gai chết người.</i>"
+    },
+    "imgid": "s_43901"
+  },
+  {
+    "title": {
+      "zhs": "电感余震",
+      "zht": "電感餘震",
+      "jp": "感電余震",
+      "ko": "인덕턴스 여진",
+      "en": "Induced Aftershock",
+      "de": "Elektrisches Nachbeben",
+      "es": "Réplica eléctrica",
+      "fr": "Relique d'électricité",
+      "pt": "Indução Pós-Choque",
+      "ru": "Остаточная индукция",
+      "id": "Induced Aftershock",
+      "th": "Induced Aftershock",
+      "vi": "Dư Chấn Điện Cảm"
+    },
+    "description": {
+      "zhs": "重击命中时，会为敌人附加<color=#FFD780FF>苍雷</color>的引雷效果。",
+      "zht": "重擊命中時，會為敵人附加<color=#FFD780FF>蒼雷</color>的引雷效果。",
+      "jp": "重撃が命中した時、敵に<color=#FFD780FF>蒼雷</color>の誘雷効果を付与する。",
+      "ko": "강공격 명중 시 적에게 <color=#FFD780FF>창뢰</color>의 전기 전도 효과를 부여한다",
+      "en": "Hits by Charged Attacks apply <color=#FFD780FF>Violet Arc</color>'s Conductive status to opponents.",
+      "de": "Fügt mit heftigen Schlägen getroffenen Gegnern den Effekt Blitzleiter von <color=#FFD780FF>Lila Lichtbogen</color> zu.",
+      "es": "Al hacer un Ataque Cargado, <color=#FFD780FF>Arco violeta</color> aplica cargas de conducción sobre los enemigos.",
+      "fr": "Les attaques chargées infligent l'effet Conductivité d'<color=#FFD780FF>Arc fulminant</color> aux ennemis lorsqu'elles touchent.",
+      "pt": "Ao ser atingida por Ataques aplica o estado de Condutividade de <color=#FFD780FF>Arco Violeta</color> aos inimigos.",
+      "ru": "Попадания заряженной атакой накладывают на врагов статус Проводник навыка <color=#FFD780FF>Пурпурная дуга</color>.",
+      "id": "Charged Attack yang mengenai musuh akan menyebabkan status Conductive dari <color=#FFD780FF>Violet Arc</color> pada musuh.",
+      "th": "เมื่อชาร์จโจมตีจะเพิ่มเอฟเฟกต์นำไฟฟ้า <color=#FFD780FF>Violet Arc </color>ให้แก่ศัตรู",
+      "vi": "Khi trọng kích đánh trúng, sẽ kèm theo hiệu ứng dẫn điện của <color=#FFD780FF>Sấm Giội</color>."
+    },
+    "imgid": "p_42101"
+  },
+  {
+    "title": {
+      "zhs": "静电场力",
+      "zht": "靜電場力",
+      "jp": "静電気フィールド",
+      "ko": "정전기 역장",
+      "en": "Static Electricity Field",
+      "de": "Elektrostatisches Feld",
+      "es": "Campo de electricidad estática",
+      "fr": "Champ électrostatique",
+      "pt": "Campo de Eletricidade Estática",
+      "ru": "Сила электрического поля",
+      "id": "Static Electricity Field",
+      "th": "Static Electricity Field",
+      "vi": "Lực Tĩnh Điện"
+    },
+    "description": {
+      "zhs": "敌人受到<color=#FFD780FF>蔷薇的雷光</color>攻击后，降低15%防御力，持续10秒。",
+      "zht": "敵人受到<color=#FFD780FF>薔薇的雷光</color>攻擊後，降低15%防禦力，持續10秒。",
+      "jp": "<color=#FFD780FF>蔷薇の雷光</color>攻撃を受けた敵の防御力-15%。継続時間10秒。",
+      "ko": "<color=#FFD780FF>장미의 뇌광</color>의 공격을 받은 적은 방어력이 15% 감소한다. 지속 시간: 10초",
+      "en": "Opponents hit by <color=#FFD780FF>Lightning Rose</color> have their DEF decreased by 15% for 10s.",
+      "de": "Verringert VTD von Gegnern, die mit <color=#FFD780FF>Rosenblitz</color> angegriffen werden, 10 s lang um 15 %.",
+      "es": "<color=#FFD780FF>Rayo de la rosa</color> reduce la DEF del enemigo en un 15% durante 10 s.",
+      "fr": "<color=#FFD780FF>Rose de foudre</color> réduit la DÉF des ennemis qu'elle touche de 15 % pendant 10 s.",
+      "pt": "Inimigos acertados por <color=#FFD780FF>Rosa do Relâmpago</color> têm sua DEF diminuída em 15% por 10 segundos.",
+      "ru": "Попадание навыком <color=#FFD780FF>Громовая роза</color> уменьшает защиту противника на 15% в течение 10 сек.",
+      "id": "Saat mengenai musuh, <color=#FFD780FF>Lightning Rose</color> akan mengurangi 15% DEF musuh selama 10 detik.",
+      "th": "เมื่อศัตรูได้รับการโจมตีจาก <color=#FFD780FF>Lightning Rose</color> พลังป้องกันจะลดลง 15% เป็นเวลา 10 วินาที",
+      "vi": "Địch bị <color=#FFD780FF>Tường Vi Sấm Sét</color> tấn công, giảm phòng ngự 15%, kéo dài 10s."
+    },
+    "imgid": "p_42201"
+  },
+  {
+    "title": {
+      "zhs": "药剂通识",
+      "zht": "藥劑通識",
+      "jp": "薬剤の知識",
+      "ko": "포션 통찰",
+      "en": "General Pharmaceutics",
+      "de": "Allgemeinwissen über Tränke",
+      "es": "Conocimientos farmacéuticos",
+      "fr": "Connaissances médicinales",
+      "pt": "Conhecimentos Farmacêuticos",
+      "ru": "Знаток зелий",
+      "id": "General Pharmaceutics",
+      "th": "General Pharmaceutics",
+      "vi": "Thông Thạo Thuốc"
+    },
+    "description": {
+      "zhs": "合成药剂时，有20%概率返还部分合成材料。",
+      "zht": "合成藥劑時，有20%的機率歸還部分合成材料。",
+      "jp": "薬剤を合成する時、20%の確率で材料が返還される。",
+      "ko": "포션 합성 시 20%의 확률로 일부 합성 재료를 반환한다",
+      "en": "When Lisa crafts a potion, she has a 20% chance to refund a portion of the crafting materials used.",
+      "de": "Gibt beim Herstellen von Tränken mit einer Wahrscheinlichkeit von 20 % einen Teil der Materialien zurück.",
+      "es": "Al fabricar una poción, hay una probabilidad del 20% de recuperar los materiales usados.",
+      "fr": "Lorsque vous fabriquez des potions, il y a 20 % de chances qu'une partie des matières premières vous soit rendue.",
+      "pt": "Quando a Lisa cria uma poção, ela possui 20% de chance de retornar uma porção dos materiais usados.",
+      "ru": "При создании зелий имеет 20% шанс восстановить часть использованных материалов.",
+      "id": "Lisa memiliki 20% kemungkinan mendapatkan kembali material yang digunakan saat membuat potion.",
+      "th": "เมื่อทำน้ำยาโพชั่น จะมีโอกาส 20% ที่จะได้รับวัสดุที่ใช้ทำคืน",
+      "vi": "Khi tạo ra thuốc, có tỷ lệ 20% hoàn trả một phần nguyên liệu ghép ra."
+    },
+    "imgid": "p_42301"
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "title": {
+      "zhs": "普通攻击·罪灭之矢",
+      "zht": "普通攻擊·罪滅之矢",
+      "jp": "通常攻撃·罪滅ぼしの矢",
+      "ko": "일반 공격·죄멸의 화살",
+      "en": "Normal Attack: Bolts of Downfall",
+      "de": "Standardangriff: Pfeil der Vergebung",
+      "es": "Ataque Normal: Flechas del juicio",
+      "fr": "Attaque normale : Flèche de culpabilité",
+      "pt": "Ataque Normal: Flechas da Culpa",
+      "ru": "Стрела возмездия",
+      "id": "Normal Attack: Bolts of Downfall",
+      "th": "โจมตีปกติ - Bolts of Downfall",
+      "vi": "Tấn Công Thường - Mũi Tên Diệt Ác"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>普通攻击</color>\n进行至多五段的连续弓箭射击。\n\n<color=#FFD780FF>重击</color>\n进行伤害更高、更为精准的<color=#FFD780FF>瞄准射击</color>。\n瞄准时，幽夜净土的黯雷精灵会听从皇女的号令，凭附在她的雷影魔箭上。聚满了断罪之雷的魔箭会造成高额的<color=#FFACFFFF>雷元素伤害</color>。\n\n<color=#FFD780FF>下落攻击</color>\n从空中射出箭雨，并迅速下坠冲击地面，在落地时造成范围伤害。",
+      "zht": "<color=#FFD780FF>普通攻擊</color>\n進行至多五段的連續弓箭射擊。\n\n<color=#FFD780FF>重擊</color>\n進行傷害更高、更為精準的<color=#FFD780FF>瞄準射擊</color>。\n瞄準時，幽夜淨土的黯雷精靈會聽從皇女的號令，憑附在她的雷影魔箭上。聚滿了斷罪之雷的魔箭會造成高額的<color=#FFACFFFF>雷元素傷害</color>。\n\n<color=#FFD780FF>下落攻擊</color>\n從空中射出箭雨，並迅速下墜衝擊地面，在落地時造成範圍傷害。",
+      "jp": "<color=#FFD780FF>通常攻撃</color>\n最大5段の連続射撃を行う。\n\n<color=#FFD780FF>重撃</color>\nダメージがより高く、より精確な<color=#FFD780FF>狙い撃ち</color>を発動する。\n照準時、皇女の命令に従い、幽夜浄土の雷精霊が矢に憑依する。断罪の雷に満ちた矢は敵に高い<color=#FFACFFFF>雷元素ダメージ</color>を与える。\n\n<color=#FFD780FF>落下攻撃</color>\n空中から矢の雨を放ち、凄まじいスピードで落下し地面に衝撃を与え、落下時に範囲ダメージを与える。",
+      "ko": "<color=#FFD780FF>일반 공격</color>\n활로 최대 5번 공격한다.\n\n<color=#FFD780FF>강공격</color>\n피해가 더 크고 정확한 <color=#FFD780FF>조준 사격</color>을 한다.\n조준 시 유야 정토의 검은 번개 정령이 황녀의 명령을 받아 그녀의 뇌영 화살에 깃든다. 단죄의 번개의 힘이 가득 찬 마법 화살은 강력한 <color=#FFACFFFF>번개 원소 피해</color>를 준다.\n\n<color=#FFD780FF>낙하 공격</color>\n공중에서 화살비를 쏜 후 빠른 속도로 땅에 착지한다. 땅에 닿으면 범위 피해를 준다",
+      "en": "<color=#FFD780FF>Normal Attack</color>\nPerform up to 5 consecutive shots with a bow.\n\n<color=#FFD780FF>Charged Attack</color>\nPerform a more precise <color=#FFD780FF>Aimed Shot</color> with increased DMG.\nWhile aiming, the dark lightning spirits of Immernachtreich shall heed the call of their Prinzessin and indwell the enchanted arrowhead. When fully indwelt, the Rachsüchtig Blitz shall deal immense <color=#FFACFFFF>Electro DMG</color>.\n\n<color=#FFD780FF>Plunging Attack</color>\nFires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.",
+      "de": "<color=#FFD780FF>Standardangriff</color>\nFührt bis zu 5 Pfeilschüsse hintereinander aus.\n\n<color=#FFD780FF>Heftiger Schlag</color>\nFührt einen <color=#FFD780FF>gezielten Schuss</color> mit höherem Schaden und höherer Genauigkeit aus.\nRuft während des Zielens die Blitzgeister aus dem Immernachtreich herbei, die dem Befehl der Prinzessin folgen und ihre Kraft auf der Pfeilspitze konzentrieren, die voll aufgeladen mit dem Blitz der Rachsucht hohen <color=#FFACFFFF>Elektro-Schaden</color> verursacht.\n\n<color=#FFD780FF>Angriff aus dem Fall</color>\nSchießt in der Luft einen Pfeilregen ab, trifft schnell auf dem Boden auf und verursacht dort Flächenschaden.",
+      "es": "<color=#FFD780FF>Ataque Normal</color>\nRealiza hasta 5 disparos consecutivos con arco.\n\n<color=#FFD780FF>Ataque Cargado</color>\nRealiza un <color=#FFD780FF>Disparo Preciso</color> que inflige mayor daño y tiene mayor precisión.\nAl apuntar, los espíritus oscuros del Reino de la Noche Eterna atenderán al llamado de su Princesa y se acumularán en la punta de la flecha mágica. Cuando esté completamente cargada, la flecha liberará un relámpago del juicio que inflige una cantidad considerable de <color=#FFACFFFF>Daño Electro</color>.\n\n<color=#FFD780FF>Ataque Descendente</color>\nDispara una lluvia de flechas desde el aire mientras desciende rápidamente, infligiendo Daño en el AdE al impactar contra el suelo.",
+      "fr": "<color=#FFD780FF>Attaque normale</color>\nEnchaîne jusqu'à 5 tirs consécutifs.\n\n<color=#FFD780FF>Attaque chargée</color>\nEffectue un <color=#FFD780FF>tir visé</color> plus précis et infligeant davantage de DGT.\nLors de la visée, les ténébreux esprits de la nuit convergent sur la flèche. Celle-ci se charge en élément Électro, infligeant de considérables <color=#FFACFFFF>DGT Électro</color> quand elle est complètement chargée.\n\n<color=#FFD780FF>Attaque plongeante</color>\nTire une pluie de flèches depuis les airs et plonge au sol, infligeant des DGT de zone à l'impact.",
+      "pt": "<color=#FFD780FF>Ataque Normal</color> Realiza até 5 tiros consecutivos com um arco.\n\n<color=#FFD780FF>Ataque Carregado</color>\nRealiza um <color=#FFD780FF>Disparo com Mira</color> mais preciso e com Dano aumentado.\nDurante a mira, espíritos sombrios dos relâmpagos da escuridão atenderão o chamado de sua Princesa e residirão na ponta encantada de sua flecha. Quando estiver completamente incorporado, o relâmpago vingativo irá infligir um imenso <color=#FFACFFFF>Dano Electro</color>.\n\n<color=#FFD780FF>Ataque Imersivo</color>\nAtira uma chuva de flechas em pleno ar antes de atingir o chão, infligindo Dano em uma AdE durante o impacto.",
+      "ru": "<color=#FFD780FF>Обычная атака:</color>\nДо пяти выстрелов из лука.\n\n<color=#FFD780FF>Заряженная атака:</color>\nБолее меткий <color=#FFD780FF>прицельный выстрел</color> с увеличенным уроном.\nВо время прицеливания наконечник стрелы заряжается тьмой Нирваны Ночи. Полностью заряженная тьмой стрела наносит огромный <color=#FFACFFFF>Электро урон</color>.\n\n<color=#FFD780FF>Атака в падении:</color>\nВыпускает град стрел в воздухе, которые при приземлении персонажа наносят урон по площади.",
+      "id": "<color=#FFD780FF>Normal Attack</color>\nMelancarkan hingga 5 serangan berturut-turut menggunakan busur.\n\n<color=#FFD780FF>Charged Attack</color>\nMelancarkan sebuah <color=#FFD780FF>Serangan Membidik</color> yang lebih akurat untuk mengakibatkan DMG lebih besar. Saat membidik, jiwa petir hitam dari Immernachtreich akan menjawab panggilan Prinzessin dan kekuatannya berkumpul pada ujung anak panah. Saat terkumpul penuh, Rachsüchtig Blitz akan mengakibatkan <color=#FFACFFFF>Electro DMG</color>.\n\n<color=#FFD780FF>Plunging Attack</color>\nMelancarkan hujan panah dari udara dan menerjang tanah dengan kecepatan tinggi, mengakibatkan DMG area saat mendarat.",
+      "th": "<color=#FFD780FF>โจมตีปกติ</color>\nยิงธนูโจมตีอย่างต่อเนื่องมากสุดห้าครั้ง\n\n<color=#FFD780FF>ชาร์จโจมตี</color>\nการ<color=#FFD780FF>เล็งโจมตี</color>สร้างความเสียหายเพิ่มขึ้น และแม่นยำยิ่งขึ้น\nเมื่อเล็งโจมตีวิญญาณแห่งสายฟ้า อันมืดมิดจากดินแดนแห่งราตรีบริสุทธิ์ จะรับฟังเสียงเรียกของเจ้าหญิง และเข้าสิงธนูเวท จากนั้นเมื่อรวบรวมเสร็จแล้ว ธนูเวทของเจ้าหญิงแห่งการลงทัณฑ์ จะสร้าง<color=#FFACFFFF>ความเสียหายไฟฟ้าเพิ่มเติม</color>\n\n<color=#FFD780FF>โจมตีพุ่งลงจากอากาศ</color>\nปล่อยฝนธนูจากกลางอากาศ และพุ่งลงมายังพื้นดินอย่างรวดเร็ว โดยจะสร้างความเสียหายวงกว้างเมื่อลงถึงพื้น",
+      "vi": "<color=#FFD780FF>Tấn Công Thường</color>\nThực hiện tối đa 5 lần bắn tên liên tiếp.\n\n<color=#FFD780FF>Trọng Kích</color>\nSát thương càng cao, <color=#FFD780FF>ngắm bắn</color> càng chuẩn.\nKhi ngắm bắn, Tinh Linh Sấm Sét của vùng đất Đêm Niết Bàn sẽ nghe theo hiệu lệnh của công chúa mà bám trên mũi tên sấm sét. Mũi tên chứa đầy tia sét định tội sẽ gây thêm <color=#FFACFFFF>Sát Thương Nguyên Tố Lôi</color>.\n\n<color=#FFD780FF>Tấn Công Khi Đáp</color>\nBắn mưa tên liên tiếp xuống mặt đất, gây sát thương phạm vi khi chạm đất."
+    },
+    "imgid": "s_313101"
+  },
+  {
+    "title": {
+      "zhs": "夜巡影翼",
+      "zht": "夜巡影翼",
+      "jp": "夜巡りの翼",
+      "ko": "밤을 순찰하는 그림자 날개",
+      "en": "Nightrider",
+      "de": "Schutz der Dunkelheit",
+      "es": "Vigía de la noche",
+      "fr": "Ailes de surveillance nocturne",
+      "pt": "Asas da Vigilância Noturna",
+      "ru": "Тень расправленных крыльев",
+      "id": "Nightrider",
+      "th": "Nightrider",
+      "vi": "Cánh Chim Đêm"
+    },
+    "description": {
+      "zhs": "召唤奥兹。暗影与雷电构成的夜鸦降生尘世时，会在小范围内造成<color=#FFACFFFF>雷元素伤害</color>。\n存在期间内，奥兹会持续发射<color=#FFACFFFF>雷之魔弹</color>攻击附近的敌人。\n\n长按以调整技能生效位置。\n奥兹存在期间内再次点按可以将其召唤至身旁。\n\n<i>「本皇女的精力，可是很宝贵的，不值得浪费在你们这种人身上…奥兹，请你替我降下那撕开永夜的断罪之雷吧。」</i>\n<i>——《菲谢尔皇女夜谭·卷四·「永别世界夫人」》</i>",
+      "zht": "召喚奧茲。暗影與雷電構成的夜鴉降生塵世時，會在小範圍內造成<color=#FFACFFFF>雷元素傷害</color>。\n存在期間內，奧茲會持續發射<color=#FFACFFFF>雷之魔彈</color>攻擊附近的敵人。\n\n長按以調整技能生效位置。\n奧茲存在期間內再次點按可以將其召喚至身旁。\n\n<i>「本皇女的精力，可是很寶貴的，不值得浪費在你們這種人身上…奧茲，請你替我降下那撕開永夜的斷罪之雷吧。」</i>\n<i>——《菲謝爾皇女夜譚·卷四·「永別世界夫人」》</i>",
+      "jp": "オズを召喚する。暗影と雷電によって構成された鴉が降臨する時、狭範囲に<color=#FFACFFFF>雷元素ダメージ</color>を与える。\nオズが存在する時、<color=#FFACFFFF>雷の魔弾</color>を発射し、付近の敵を自動で攻撃する。\n\n長押しでスキルの発動位置を調整可能。\nオズが存在する間に再び一回押すとオズを自身の傍に呼び寄せる。\n\n<i>「皇女であるわたくしの時間は高いわよ。あなたたちのような者に使うなんて…オズ、わたくしの代わりに永夜を切り裂く断罪の雷を見せてあげなさい。</i>\n<i>——『フィッシュル皇女物語·4巻·「さようなら、マダムワールド」』</i>",
+      "ko": "오즈를 소환한다. 암영과 뇌전으로 구성된 레이븐이 속세에 강림할 때 작은 범위 내의 적에게 <color=#FFACFFFF>번개 원소 피해</color>를 준다.\n오즈는 존재하는 동안 <color=#FFACFFFF>번개 에너지 탄</color>을 발사하여 주변의 적을 공격한다.\n\n홀드하여 오즈의 위치를 조정할 수 있다.\n오즈가 존재하는 동안 다시 한번 짧게 누르면 오즈를 자신의 주변으로 소환할 수 있다.\n\n<i>「이 황녀님의 시간은 아주 귀중하다고. 너희 같은 녀석들에게 낭비할 순 없어… 오즈, 나를 대신해 영원한 밤을 가르는 단죄의 번개를 내리거라.」</i>\n<i>——《피슬 황녀 야화·권4·「세계와 영원히 이별한 부인」》</i>",
+      "en": "#Summons Oz. The night raven forged of darkness and lightning descends upon the land, dealing <color=#FFACFFFF>Electro DMG</color> in a small AoE.\nFor the ability's duration, Oz will continuously attack nearby opponents with <color=#FFACFFFF>Freikugel</color>.\n\nHold to adjust the location Oz will be summoned to.\n{LAYOUT_MOBILE#Tap}{LAYOUT_PC#Press}{LAYOUT_PS#Press} again any time during the ability's duration to once again summon him to Fischl's side.\n\n<i>\"My time is most precious, and I shall not waste it on the likes of you... Go, Oz, fall upon them, and bring down upon them your Rachsüchtig Blitz, that which tears open the long night.\"</i>\n<i>—Flowers for Princess Fischl (IV): Farewell Frau Welt</i>",
+      "de": "Beschwört Oz, den Raben aus Schatten und Blitzen, in diese Welt, der Gegnern mit geringer Reichweite <color=#FFACFFFF>Elektro-Schaden</color> zufügt.\nSchießt bei Anwesenheit von Oz <color=#FFACFFFF>Blitzgeschosse</color> ab, die Gegner in der Nähe angreifen.\n\nGedrückt halten, um das Ziel der Fähigkeit zu bestimmen.\nBei Anwesenheit von Oz erneut drücken, um Oz zurückzuholen.\n\n<i>„Ihr seid nicht würdig, meine überragenden Kräfte in Aktion zu sehen ... Oz, bring ihnen den Blitz der Rachsucht, der die ewige Nacht aufreißt!“</i>\n<i>- „Die Nacht der Prinzessin Fischl – Band 4: Lebe wohl, Frau Welt“</i>",
+      "es": "Invoca a Oz. El cuervo nocturno compuesto de oscuridad y truenos desciende sobre la tierra, infligiendo <color=#FFACFFFF>Daño Electro</color> en una pequeña AdE.\nMientras dure la habilidad, Oz atacará continuamente a los enemigos cercanos con <color=#FFACFFFF>balas Electro</color>.\n\nMantén pulsado para ajustar la ubicación en la que se invocará a Oz.\nPulsa de nuevo cuando Oz esté presente para invocarlo al lado de Fischl.\n\n<i>“Ve, Oz. Cae sobre ellos e invoca tu relámpago del juicio para dar comienzo a la noche eterna”.</i>\n<i>——«Flores para la princesa Fischl (IV): Adiós, Señorita».</i>",
+      "fr": "Fischl invoque son fidèle Oz à ses côtés. Le corbeau d'ombre et de tonnerre descend sur ce monde, infligeant des <color=#FFACFFFF>DGT Électro</color> dans une petite zone lors de son invocation.\nOz tire de façon continue des <color=#FFACFFFF>balles électrifiées</color> sur les ennemis proches tant qu'il est actif.\n\n<color=#FFD780FF>Appui long</color>\nAjuste la zone où la compétence sera lancée ; appuyez à nouveau lorsque Oz est actif pour le faire revenir.\n\n<i>« Vous ne méritez pas que je gaspille mon pouvoir sur vous... Oz, fais pleuvoir les éclairs de la justice. »</i>\n<i>—— « Fleurs pour la princesse Fischl - Tome IV : Adieu, maîtresse. »</i>",
+      "pt": "Evoca o Oz. O corvo da noite moldado pela escuridão e relâmpagos desce à terra, infligindo <color=#FFACFFFF>Dano Electro</color> em uma pequena AdE.\nAo longo da duração da habilidade, Oz irá continuamente atacar inimigos próximos com <color=#FFACFFFF>Bolas Eletrificantes</color>.\n\nMantenha pressionado para ajustar a localização de onde o Oz será evocado.\nPressione a qualquer momento ao longo da duração da habilidade para chamá-lo novamente para o lado de Fischl.\n\n<i>\"Meu tempo é muito precioso, e eu não o desperdiçarei com tipos como você... Vá Oz, recaia sobre eles, e traga-os até seu Relâmpago Vingativo, que dilacera a longa noite.\"</i>\n<i>—Flores para a Princesa Fischl Volume (IV) Adeus Frau Welt</i>",
+      "ru": "Призывает Оза. Ночной ворон, сотканный из тьмы и молнии, спускается на землю и наносит <color=#FFACFFFF>Электро урон</color> в небольшом радиусе.\nПока навык активен, Оз будет атаковать ближайших врагов <color=#FFACFFFF>Электро снарядами</color>.\n\nУдерживайте, чтобы указать место, куда будет призван Оз.\nПока навык активен, нажмите снова, чтобы подозвать его к Фишль.\n\n<i>«- Я не собираюсь тратить своё драгоценное время на таких, как ты... Оз, обрушь же на них карающую молнию! Пусть она осветит вечную ночь!»</i> <i>(Цветы для принцессы Фишль. Глава 4: Прощание с Владычицей Мира)</i>",
+      "id": "Memanggil Oz. Gagak malam yang tercipta dalam kegelapan dan halilintar turun ke bumi untuk mengakibatkan <color=#FFACFFFF>Electro DMG</color> dalam area kecil.\nSelama durasi skill, Oz akan terus menyerang musuh di sekitar dengan <color=#FFACFFFF>Freikugel</color>.\n\nTahan untuk mengatur lokasi di mana Oz akan dipanggil.\nTekan lagi sewaktu-waktu dalam durasi skill untuk memanggil Oz kembali ke sisi Fischl.\n\n<i>\"Waktu kita terlalu berharga untuk dihabiskan bersama orang sepertimu... Pergilah, Oz, datangi mereka, dan lepaskan Rachsüchtig Blitz milikmu yang membelah malam terhadap mereka.\"</i>\n<i>— Bunga untuk Putri Fischl (IV): Selamat Tinggal Frau Welt</i>",
+      "th": "#เรียก Oz ออกมา โดยเมื่ออีกาดำซึ่งประกอบไปด้วยเงามืด และสายฟ้าลงมายังโลกแล้ว จะทำให้เกิด<color=#FFACFFFF>ความเสียหายไฟฟ้า</color> ภายในพื้นที่เล็ก ๆ\nภายในช่วงเวลาที่คงอยู่ Oz จะโจมตีใส่ศัตรูที่อยู่ใกล้ด้วยการยิง <color=#FFACFFFF>Freikugel</color> อย่างต่อเนื่อง\n\nการ{LAYOUT_MOBILE#แตะค้าง}{LAYOUT_PC#กดค้าง}{LAYOUT_PS#กดค้าง}จะเป็นการปรับตำแหน่ง ที่จะเกิดเอฟเฟกต์ของสกิล\nเมื่อ{LAYOUT_MOBILE#แตะ}{LAYOUT_PC#กด}{LAYOUT_PS#กด}อีกครั้งในช่วงเวลาที่ Oz ยังคงอยู่จะเป็นการเรียกให้กลับมาอยู่ข้างกายอีกครั้ง\n\n<i>\"พลังของเจ้าหญิงผู้นี้นั้นมีค่ายิ่งนัก ไม่สมควรที่จะต้องมาสิ้นเปลืองกับ คนอย่างพวกเจ้า... Oz เจ้าช่วยเรียกสายฟ้าลงทัณฑ์ที่ฉีกท้องฟ้า ยามค่ำคืนได้นั่นลงมาแทนฉันทีสิ\"</i>\n<i>\"Fischl เจ้าหญิงแห่งความมืด-IV: บอกลาเลดี้ของโลก\"</i>",
+      "vi": "Triệu hồi Oz. Khi quạ đen do bóng đêm và sấm sét kết hợp được sinh ra, sẽ gây <color=#FFACFFFF>Sát Thương Nguyên Tố Lôi</color> phạm vi nhỏ.\nTrong thời gian tồn tại, Oz sẽ liên tục bắn <color=#FFACFFFF>Đạn Sấm Sét</color> tấn công địch xung quanh.\n\nNhấn giữ để điều chỉnh vị trí hiệu quả của kỹ năng.\nTrong thời gian Oz tồn tại, nhấn lần nữa có thể triệu hồi nó đến bên cạnh.\n\n<i>\"Sức mạnh của công chúa vốn là thứ đáng quý, không đáng để lãng phí trên người các người...Oz, hãy giúp ta giáng tia sét định tội, xé toạc màn đêm vĩnh hằng.\"</i>\n<i>——\"Cổ tích về công chúa Fischl IV 'Vĩnh biệt quý cô của thế giới.'\"</i>"
+    },
+    "imgid": "s_313201"
+  },
+  {
+    "title": {
+      "zhs": "至夜幻现",
+      "zht": "至夜幻現",
+      "jp": "夜の幻現",
+      "ko": "암야의 환상",
+      "en": "Midnight Phantasmagoria",
+      "de": "Mitternachtstraum",
+      "es": "Ilusión nocturna",
+      "fr": "Incarnation de la nuit",
+      "pt": "Ilusão Noturna",
+      "ru": "Ночная иллюзия",
+      "id": "Midnight Phantasmagoria",
+      "th": "Midnight Phantasmagoria",
+      "vi": "Ảo Ảnh Bóng Đêm"
+    },
+    "description": {
+      "zhs": "呼唤奥兹，张开纯粹的夜色编织成的双翼，守护菲谢尔。\n持续期间，具有如下效果：\n·以奥兹的形态进行高速移动；\n·对附近的敌人降下落雷，造成<color=#FFACFFFF>雷元素伤害</color>。每个敌人只能受到一次落雷伤害；\n·效果结束时，奥兹将会停留在战场上，攻击皇女的敌人。若奥兹已经在场，则重置奥兹的存在时间。\n\n<i>…追随着受诅咒的断罪之血而来的群兽当中，只有那见证过一千世界寂灭的夜鸦亲王，能明白她的崇高。于是它张开至夜织成的双翼荫蔽高贵的皇女，并发誓永远守护她。</i>\n<i>——《菲谢尔皇女夜谭·卷一·「末日解体概要」》</i>",
+      "zht": "呼喚奧茲，張開純粹的夜色編織成的雙翼，守護菲謝爾。\n持續期間，具有如下效果：\n·以奧茲的形態進行高速移動；\n·對附近的敵人降下落雷，造成<color=#FFACFFFF>雷元素傷害</color>。每個敵人只能受到一次落雷傷害；\n·效果結束時，奧茲將會停留在戰場上，攻擊皇女的敵人。若奧茲已經在場，則重置奧茲的存在時間。\n\n<i>…追隨著受詛咒的斷罪之血而來的群獸當中，只有那見證過一千世界寂滅的夜鴉親王，能明白她的崇高。於是牠張開至夜織成的雙翼蔭蔽高貴的皇女，並發誓永遠守護她。</i>\n<i>——《菲謝爾皇女夜譚·卷一·「末日解體概要」》</i>",
+      "jp": "オズを召喚し、純粋なる夜色の翼を広げてフィッシュルを守る。\n継続期間中、下記の効果が発動する。\n·フィッシュルはオズ形態で高速移動する。\n·付近の敵に落雷で攻撃し、<color=#FFACFFFF>雷元素ダメージ</color>を与える。落雷によるダメージは同じ敵に1回のみ有効。\n·効果終了時、オズは戦場に留まり、皇女の敵を攻撃する。発動前にオズがすでに戦場に存在してる場合は、オズの継続時間がリセットされる。\n\n<i>…呪いがかかった断罪の血を追ってきた獣の中で、千の世界の滅びを目にした鴉の王だけが、彼女の崇高さを理解した。そして彼は夜を織り成す翼を広げ、高貴なる皇女を永遠に守ると誓った。</i>\n<i>——『フィッシュル皇女物語·1巻·「末日解体概要」』</i>",
+      "ko": "오즈를 소환해 칠흑으로 엮은 두 날개로 피슬을 보호한다.\n지속하는 동안 아래의 효과를 가진다:\n·오즈의 형태로 변해 고속 이동한다.\n·주변의 적에게 번개를 떨어트려 <color=#FFACFFFF>번개 원소 피해</color>를 준다. 적 1명마다 낙뢰 피해를 1번만 받는다.\n·효과 종료 시 오즈는 필드에 머물러 황녀의 적을 공격한다. 만약 오즈가 필드에 있으면 오즈의 존재 시간이 초기화된다.\n\n·<i>…저주받은 단죄의 피를 추종하여 따라온 야수 무리 중, 천 가지 세계의 적멸을 지켜본 까마귀 황제만이 그녀의 숭고함을 알아볼 수 있다. 그리하여 그는 칠흑으로 엮은 두 날개로 고귀한 황녀를 영원히 지켜주겠노라고 맹세했다</i>\n<i>——《피슬 황녀 야화·권1·「종말 해체 개요」》</i>",
+      "en": "Summons Oz to spread his twin wings of twilight and defend Fischl.\nHas the following properties during the ability's duration:\n·Fischl takes on Oz's form, greatly increasing her Movement Speed.\n·Strikes nearby opponents with lightning, dealing <color=#FFACFFFF>Electro DMG</color> to opponents she comes into contact with. Each opponent can only be struck once.\n·Once this ability's effects end, Oz will remain on the battlefield and attack his Prinzessin's foes. If Oz is already on the field, then this will reset the duration of his presence.\n\n<i>\"...In the hordes of beasts that follow the cursed blood, only Prince Nachtraben, who bore witness to the extinction of a thousand worlds, knows her true greatness. Thus the night wings he spreads are his eternal promise to protect Her Royal Highness.\"</i>\n<i>—Flowers for Princess Fischl (I): End Time Zersetzung</i>",
+      "de": "Beschwört Oz, der seine tiefschwarzen Flügel ausbreitet, um Fischl zu beschützen.\nEffekte während der Wirkungsdauer:\n· Bewegt sich in Form von Oz mit hoher Geschwindigkeit.\n· Trifft Gegner in der Nähe mit einem Blitz und verursacht <color=#FFACFFFF>Elektro-Schaden</color>. Jeder Gegner kann nur einmal Schaden von einem Blitz erleiden.\n· Oz verbleibt nach dem Ende der Wirkungsdauer und greift die Gegner der Prinzessin an. Setzt die Aufenthaltsdauer von Oz zurück, wenn er schon auf dem Feld ist.\n\n<i>Unter den Horden der Bestien, die dem verfluchten Blut der Verurteilung folgten, befand sich nur einer, der ihre wahre Größe tatsächlich verstehen konnte, nämlich der Nachtrabenprinz, der Zeuge der Vernichtung tausender Welten war. So breitete er seine dunklen Flügel aus und schlang sie um die Prinzessin. Er schwor, sie auf ewig zu beschützen.</i>\n<i>- „Die Nacht der Prinzessin Fischl – Band 1: Zersetzung am Ende der Zeit“</i>",
+      "es": "Invoca a Oz para extender sus alas del crepúsculo y proteger a Fischl.\nDurante la habilidad, tiene las siguientes propiedades:\n·Fischl adquiere la forma de Oz, lo que aumenta considerablemente su Velocidad de Movimiento.\n·Inflige <color=#FFACFFFF>Daño Electro</color> a los enemigos cercanos. Cada enemigo puede ser golpeado solo una vez.\nAl finalizar la habilidad, Oz permanecerá en el campo de batalla, atacando a los enemigos de la Princesa. Si Oz ya estaba en el campo de batalla, reiniciará su duración.\n\n<i>“... Entre las hordas de bestias que persiguen la sangre maldita, solo el Príncipe Cuervo de la Noche, que fue testigo de la extinción de mil mundos, conoce la verdadera grandeza de la Princesa. Así, las alas nocturnas que extiende son su eterna promesa de proteger a Su Alteza Real”.</i>\n<i>—«Flores para la Princesa Fischl - Vol. I: El colapso del fin de los tiempos».</i>",
+      "fr": "Répondant à l'appel de Fischl, Oz vient protéger sa maîtresse de ses ailes tel un voile nocturne.\nPendant la durée de la compétence :\n· Fischl prend la forme d'Oz, ce qui lui permet d'augmenter sa VIT de déplacement.\n· Les ennemis sur sa route sont frappés par la foudre et subissent des <color=#FFACFFFF>DGT Électro</color>. Chaque ennemi ne peut être frappé qu'une fois.\nLorsque l'effet prend fin, Oz reste pour combattre les ennemis de sa maîtresse. Si Oz est déjà présent sur le terrain avant l'utilisation de cette compétence, son temps de présence sera remis à zéro.\nRestaure une partie de l'énergie élémentaire de Fischl une fois terminé.\n\n<i>« ... De toutes les bêtes suivant le sang maudit, seul le seigneur corbeau, dont les yeux ont été témoins de la destruction de mille mondes, était capable de comprendre sa grandeur. Et, la recouvrant d'un voile d'ébène, il fit le serment de la protéger à jamais. »</i>\n<i>—— « Fleurs pour la princesse Fischl - Tome I : Apocalypse »</i>",
+      "pt": "Evoca Oz para estender suas asas gêmeas do crepúsculo e defender Fischl.\nTem as seguintes propriedades ao longo da duração da habilidade:\nFischl se transforma na forma de Oz, aumentando incrivelmente sua Velocidade de Movimento.\nAtaca inimigos próximos com relâmpago, infligindo <color=#FFACFFFF>Dano Electro</color> em inimigos que ela entra em contato. Cada inimigo pode ser atingido apenas uma vez.\nQuando o efeito dessa habilidade acaba, Oz continuará em campo, então reiniciará a duração de sua presença.\n\n<i>\"...Nas hordas de feras que perseguem o sangue amaldiçoado, apenas o Príncipe Nachtraben, que foi testemunha da extinção de milhares de mundos, sabe sua verdadeira grandeza. Assim, as asas noturnas que ele estende são suas eternas promessas em proteger Sua Alteza Real.\"</i>\n<i>—Flores para a Princesa Fischl Volume (I): Decomposição, fim dos tempos.</i>",
+      "ru": "Приказывает ворону Озу расправить свои сумеречные крылья и встать на защиту Фишль.\nПока навык активен:\n· Фишль принимает форму Оза, значительно увеличивающую её скорость передвижения;\n· Обрушивает на ближайших врагов молнию, наносящую <color=#FFACFFFF>Электро урон</color>. Каждый противник может получить только один удар молнией;\n· После окончания навыка Оз остаётся на поле боя, продолжая атаковать врагов принцессы. Если Оз уже был на поле боя, этот навык сбрасывает длительность его присутствия.\n\n<i>«...среди полчищ демонов, что следуют за проклятой кровью, только Ночной принц, бывший свидетелем гибели тысячи миров, знает её истинное величие. Его расправленные крылья ночи - вечная клятва защищать её королевское высочество».</i>\n<i>(Цветы для принцессы Фишль. Глава 1: Краткое изложение судного дня)</i>",
+      "id": "Memanggil Oz untuk membentangkan kedua sayap kegelapan dan melindungi Fischl.\nMemiliki efek berikut selama durasi skill:\n·Fischl mengambil bentuk Oz, membuat kecepatan gerak dia meningkat drastis.\n·Menyerang musuh terdekat dengan menggunakan petir, menghasilkan <color=#FFACFFFF>Electro DMG</color> kepada musuh yang menyentuhnya. Setiap musuh hanya dapat tersambar satu kali.\n·Saat efeknya berakhir, Oz akan tetap berada di medan tempur dan menyerang musuh Prinzessin. Jika Oz sudah berada di medan tempur, maka akan memutar ulang durasi kehadirannya.\n\n<i>\"...dari segerombolan hewan buas yang mengikuti darah terkutuk, hanya Pangeran Nachtraben, yang telah menyaksikan kepunahan ribuan dunia, mengetahui kekuatannya yang sesungguhnya. Karena itu, sayap malam yang dia bentangkan adalah janji abadinya untuk selalu melindungi sang ratu.\"</i>\n<i>— Bunga untuk Putri Fischl (I): Akhir Waktu Zerzetsung.</i>",
+      "th": "เรียก Oz ออกมา เพื่อกางปีกที่ทอด้วย ราตรีอันบริสุทธิ์และปกป้อง Fischl\nช่วงเวลาที่คงอยู่จะมีผลของเอฟเฟกต์ ดังนี้:\n·เคลื่อนไหวด้วยความเร็วสูงในรูปแบบ ของ Oz;\n·ปล่อยสายฟ้าฟาดลงมาใส่ศัตรูที่อยู่ใน บริเวณใกล้เคียง เกิดเป็น <color=#FFACFFFF>ความเสียหายไฟฟ้า</color> ซึ่งศัตรูแต่ละตัว จะได้รับความเสียหายจากสายฟ้าฟาด เพียงครั้งเดียวเท่านั้น;\n·เมื่อเอฟเฟกต์สิ้นสุดลง Oz จะยังคงอยู่ในการต่อสู้เพื่อคอยโจมตีศัตรูของเจ้าหญิง โดยหากว่า Oz อยู่ในการต่อสู้อยู่แล้ว ก็จะเป็นการรีเซ็ตช่วงเวลาการคงอยู่ของ Oz แทน\n\n<i>...ท่ามกลางเหล่าอสูรที่ติดตามโลหิตของ บาปที่สาปแช่งมานั้น มีเพียงเจ้าชาย Nachtraben ผู้ซึ่งได้เห็นการดับสูญ ของโลกนับพันมาแล้วเท่านั้นที่ สามารถเข้าใจถึงความสูงส่งของเธอได้ ดังนั้นมันจึงสยายปีกที่ถูกทอขึ้น จากความมืดคู่นั้นเข้าปกคลุมเจ้าหญิง และสาบานว่าจะปกป้องเธอ ไปตลอดกาล...</i>\n<i>\"Fischl เจ้าหญิงแห่งความมืด-I: บทสรุปแห่งวันโลกาวินาศ\"</i>",
+      "vi": "Triệu hồi Oz, mở ra đôi cánh dệt từ bóng đêm thuần khiết, bảo vệ Fischl.\nTrong thời gian duy trì, hiệu quả như sau:\n·Di chuyển nhanh trong hình thái của Oz;\n·Đánh sét vào địch ở gần, gây <color=#FFACFFFF>Sát Thương Nguyên Tố Lôi</color>. Mỗi kẻ địch chỉ chịu 1 lần sát thương sét đánh;\n·Khi kết thúc hiệu quả, Oz sẽ dừng lại trên chiến trường, tấn công kẻ địch của công chúa. Nếu Oz đã có trong trận sẽ làm mới thời gian tồn tại của Oz.\n\n<i>...Trong số những con thú mang dòng máu định tội bị nguyền rủa, chỉ có Thân Vương Quạ Đêm - người đã chứng kiến sự tuyệt chủng của một ngàn thế giới mới có thể hiểu được sự cao cả của cô. Vì vậy nó dang rộng đôi cánh bóng đêm bao lấy công chúa cao quý, và nguyện thề trọn đời bảo vệ cô.</i>\n<i> \"Cổ tích về công chúa Fischl·I·'Về sự tan rã của ngày tận thế'\"</i>"
+    },
+    "imgid": "s_313901"
+  },
+  {
+    "title": {
+      "zhs": "噬星魔鸦",
+      "zht": "噬星魔鴉",
+      "jp": "星喰いの鴉",
+      "ko": "별을 삼킨 까마귀",
+      "en": "Stellar Predator",
+      "de": "Sterneverschlinger",
+      "es": "Cuervo devoraestrellas",
+      "fr": "Corbeau maléfique",
+      "pt": "Predador Estelar",
+      "ru": "Ворон, клюющий звёзды",
+      "id": "Stellar Predator",
+      "th": "Stellar Predator",
+      "vi": "Ác Điểu Nuốt Sao"
+    },
+    "description": {
+      "zhs": "菲谢尔以蓄力完成的瞄准射击命中奥兹时，奥兹会对附近敌人降下圣裁之雷，造成等同射击伤害152.7%的<color=#FFACFFFF>雷元素范围伤害</color>。",
+      "zht": "菲謝爾以蓄力完成的瞄準射擊命中奧茲時，奧茲會對附近敵人降下聖裁之雷，造成等同射擊傷害152.7%的<color=#FFACFFFF>雷元素範圍傷害</color>。",
+      "jp": "フィッシュルのチャージした狙い撃ち射撃がオズに命中すると、オズは周囲の敵に聖裁の雷を放ち、射撃ダメージ152.7%分の<color=#FFACFFFF>雷元素範囲ダメージ</color>を与える。",
+      "ko": "피슬이 차지 완료된 화살로 오즈를 명중하면 오즈가 주변의 적에게 신성한 번개를 내리고 사격 피해의 152.7%에 달하는 <color=#FFACFFFF>번개 원소 범위 피해</color>를 준다",
+      "en": "When Fischl hits Oz with a fully-charged Aimed Shot, Oz brings down Thundering Retribution, dealing <color=#FFACFFFF>AoE Electro DMG</color> equal to 152.7% of the arrow's DMG.",
+      "de": "Wenn Fischl Oz mit einem voll aufgeladenen gezielten Schuss trifft, schickt Oz den Blitz des heiligen Urteils zu den Gegnern in der Nähe und verursacht damit <color=#FFACFFFF>Elektro-Flächenschaden</color> in Höhe von 152,7 % des gezielten Schusses.",
+      "es": "Cuando Fischl golpea a Oz con un Disparo Preciso completamente cargado, Oz lanza una retribución del trueno, infligiendo <color=#FFACFFFF>Daño Electro en el AdE</color> igual al 152.7% del daño de la flecha.",
+      "fr": "Oz libère sur les ennemis proches la foudre du jugement lorsque Fischl le touche d'une flèche complètement chargée, leur infligeant des <color=#FFACFFFF>DGT Électro de zone</color> équivalant à 152,7 % des DGT du tir.",
+      "pt": "Quando Fischl atinge Oz com um Disparo com Mira totalmente carregado, Oz traz a Retribuição Trovejante, causando <color=#FFACFFFF>Dano Electro AdE</color> igual a 152.7% do Dano da flecha.",
+      "ru": "При попадании по Озу полностью заряженной стрелой Фишль, он создаёт грозу, наносящую <color=#FFACFFFF>Электро урон по площади</color>, равный 152,7% от урона стрелы.",
+      "id": "Saat Fischl menembakkan Serangan Membidik yang telah di-Charge penuh ke arah Oz, Oz akan memanggil Thundering Retribution yang mengakibatkan <color=#FFACFFFF>Electro DMG area</color> sebesar 152.7% DMG panah.",
+      "th": "เมื่อ Fischl ยิงธนูสายฟ้าไปถูกตัว Oz ด้วยการเล็งชาร์จแล้ว Oz จะสร้างสายฟ้าศักดิ์สิทธิ์ลงมาใส่ศัตรู ที่อยู่ในบริเวณใกล้เคียงเกิดเป็น <color=#FFACFFFF>ความเสียหายไฟฟ้าวงกว้าง</color> ซึ่งความเสียหายจะเท่ากับ 152.7% ของธนูสายฟ้า",
+      "vi": "Khi Fischl dùng tụ lực ngắm bắn bắn trúng Oz, Oz sẽ giáng xuống Quả Báo Sấm Sét vào kẻ địch xung quanh, tạo thành <color=#FFACFFFF>sát thương phạm vi Nguyên Tố Lôi</color> tương đương với 152.7% sát thương khi bắn."
+    },
+    "imgid": "p_312101"
+  },
+  {
+    "title": {
+      "zhs": "断罪雷影",
+      "zht": "斷罪雷影",
+      "jp": "断罪の雷影",
+      "ko": "단죄의 뇌영",
+      "en": "Undone Be Thy Sinful Hex",
+      "de": "Schatten der Verurteilung",
+      "es": "Juicio de los pecadores",
+      "fr": "Foudre divine",
+      "pt": "Desfeito Seja Teu Feitiço Pecaminoso",
+      "ru": "Да будет снято проклятье",
+      "id": "Undone Be Thy Sinful Hex",
+      "th": "Undone Be Thy Sinful Hex",
+      "vi": "Ánh Sét Định Tội"
+    },
+    "description": {
+      "zhs": "奥兹在场时，若当前场上自己的角色攻击敌人时触发了<color=#FFACFFFF>雷元素相关反应</color>，则会对敌人降下圣裁之雷，造成菲谢尔80%攻击力的<color=#FFACFFFF>雷元素伤害</color>。",
+      "zht": "奧茲在場時，若當前場上自己的角色攻擊敵人時觸發了<color=#FFACFFFF>雷元素相關反應</color>，則會對敵人降下聖裁之雷，造成菲謝爾80%攻擊力的<color=#FFACFFFF>雷元素傷害</color>。",
+      "jp": "オズがフィールドにいる時、出場している自身のキャラクターの敵への攻撃が<color=#FFACFFFF>雷元素の関連反応</color>を起こすと、敵に聖裁の雷を下し、フィッシュルの攻撃力80%分の<color=#FFACFFFF>雷元素ダメージ</color>を与える。",
+      "ko": "오즈가 필드에 존재 시 현재 필드 위에 있는 자신의 캐릭터가 적을 공격하여 <color=#FFACFFFF>번개 원소 관련 반응</color>이 발동되었다면 적에게 신성한 번개를 내려 피슬 공격력 80%의 <color=#FFACFFFF>번개 원소 피해</color>를 준다",
+      "en": "If your current active character triggers an <color=#FFACFFFF>Electro-related Elemental Reaction</color> when Oz is on the field, the opponent shall be stricken with Thundering Retribution, dealing <color=#FFACFFFF>Electro DMG</color> equal to 80% of Fischl's ATK.",
+      "de": "Schickt bei Anwesenheit von Oz und, wenn der Angriff der aktuellen eigenen Figur eine <color=#FFACFFFF>Elektro-Reaktion</color> verursacht, den Blitz des heiligen Urteils auf den betroffenen Gegner und verursacht <color=#FFACFFFF>Elektro-Schaden</color> in Höhe von 80 % von Fischls ANG.",
+      "es": "Si el personaje en uso desencadena una <color=#FFACFFFF>Reacción Elemental con Electro</color> cuando Oz está en combate, el enemigo será golpeado con retribución del trueno, infligiendo <color=#FFACFFFF>Daño Electro</color> igual al 80% del ATQ de Fischl.",
+      "fr": "Lorsque votre personnage déployé déclenche une <color=#FFACFFFF>réaction liée à l'élément Électro</color> en la présence d'Oz, l'ennemi est frappé par la foudre du jugement divin, et subit des <color=#FFACFFFF>DGT Électro</color> équivalant à 80 % de l'ATQ de Fischl.",
+      "pt": "Se o seu próprio personagem desencadeia uma <color=#FFACFFFF>Reação Elemental do tipo Electro</color> quando Oz está em campo, o inimigo será infligido com Retribuição Trovejante, causando <color=#FFACFFFF>Dano Electro</color> igual a 80% do ATQ de Fischl.",
+      "ru": "Если в присутствии Оза во время атаки ваш персонаж вызывает какую-либо <color=#FFACFFFF>Электро реакцию</color>, на противника нисходит божественная молния, которая наносит <color=#FFACFFFF>Электро урон</color>, равный 80% от силы атаки Фишль.",
+      "id": "Jika karakter yang sedang digunakan memicu <color=#FFACFFFF>Reaksi Elemental yang berhubungan dengan elemen Electro</color> pada saat Oz berada di medan tempur, musuh akan terkena Thundering Retribution yang mengakibatkan <color=#FFACFFFF>Electro DMG</color> sebesar 80% ATK Fischl.",
+      "th": "เมื่อ Oz อยู่ในการต่อสู้ หากตัวละครของตนเองที่เข้าต่อสู้ในขณะนั้น โจมตีศัตรูและทำให้เกิด <color=#FFACFFFF>ปฏิกิริยาที่เกี่ยวข้องกับธาตุไฟฟ้า</color> จะสร้างสายฟ้าศักดิ์สิทธิ์ลงมาใส่ศัตรู ซึ่งจะทำให้เกิด<color=#FFACFFFF>ความเสียหายไฟฟ้า</color>เป็น 80% ของพลังโจมตีของ Fischl",
+      "vi": "Khi Oz trong trận, nếu nhân vật của bản thân trong trận hiện tại tấn công địch kích hoạt <color=#FFACFFFF>phản ứng với Nguyên Tố Lôi</color>, thì sẽ giáng Quả Báo Sấm Sét, gây cho địch <color=#FFACFFFF>sát thương Nguyên Tố Lôi</color> bằng 80% lực tấn công Fischl."
+    },
+    "imgid": "p_312201"
+  },
+  {
+    "title": {
+      "zhs": "吾之后花园",
+      "zht": "吾之後花園",
+      "jp": "吾の裏庭",
+      "ko": "황녀의 화원",
+      "en": "Mein Hausgarten",
+      "de": "Mein Hausgarten",
+      "es": "Mi jardín secreto",
+      "fr": "Jardin secret",
+      "pt": "Meu Jardim Secreto",
+      "ru": "Мой тайный сад",
+      "id": "Mein Hausgarten",
+      "th": "Mein Hausgarten",
+      "vi": "Vườn Hoa Sau Nhà"
+    },
+    "description": {
+      "zhs": "在蒙德执行探索派遣任务时，消耗的时间缩短25%。",
+      "zht": "在蒙德執行探索派遣任務時，消耗的時間縮短25%。",
+      "jp": "モンドの探索任務の所要時間-25%。",
+      "ko": "몬드에서 탐색 임무 수행 시 소모하는 시간이 25% 감소한다",
+      "en": "When dispatched on an expedition in Mondstadt, time consumed is reduced by 25%.",
+      "de": "Verkürzt die bei Erkundungen innerhalb des Einflussbereichs von Mondstadt verbrauchte Zeit um 25 %.",
+      "es": "Reduce en un 25% el tiempo necesario para completar una expedición en Mondstadt.",
+      "fr": "Réduit la durée d'une expédition de 25 % lorsqu'elle se déroule à Mondstadt.",
+      "pt": "Quando despachada em uma expedição em Mondstadt, o tempo consumido é reduzido em 25%",
+      "ru": "Уменьшает длительность экспедиций в Мондштадте на 25%.",
+      "id": "Ketika dikirim untuk melakukan ekspedisi di Mondstadt, waktu yang dibutuhkan berkurang 25%.",
+      "th": "เมื่อทำคำขอการออกสำรวจของ Mondstadt เวลาที่ใช้จะลดลง 25%",
+      "vi": "Khi làm nhiệm vụ Phái Đi thám Hiểm ở Mondstadt, thời gian tiêu hao rút ngắn 25%."
+    },
+    "imgid": "p_312301"
+  }
+]

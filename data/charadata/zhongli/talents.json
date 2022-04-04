@@ -1,0 +1,200 @@
+[
+  {
+    "title": {
+      "zhs": "普通攻击·岩雨",
+      "zht": "普通攻擊·岩雨",
+      "jp": "通常攻撃·岩雨",
+      "ko": "일반 공격·바위 비",
+      "en": "Normal Attack: Rain of Stone",
+      "de": "Standardangriff: Steinhagel",
+      "es": "Ataque Normal: Lluvia pétrea",
+      "fr": "Attaque normale : Pluie de pierres",
+      "pt": "Ataque Normal: Chuva de Pedras",
+      "ru": "Каменный дождь",
+      "id": "Rain of Stone",
+      "th": "โจมตีปกติ - Rain of Stone",
+      "vi": "Tấn Công Thường - Mưa Đá"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>普通攻击</color>\n进行至多六段的连续枪击。\n\n<color=#FFD780FF>重击</color>\n消耗一定体力，向前方疾行，在行动路径上和终点投下如雨的岩枪。\n\n<color=#FFD780FF>下落攻击</color>\n从空中下坠冲击地面，攻击下落路径上的敌人，并在落地时造成范围伤害。",
+      "zht": "<color=#FFD780FF>普通攻擊</color>\n進行至多六段的連續槍擊。\n\n<color=#FFD780FF>重擊</color>\n消耗一定體力，向前方疾行，在行動路徑上和終點投下如雨的岩槍。\n\n<color=#FFD780FF>下落攻擊</color>\n從空中下墜衝擊地面，攻擊下落路徑上的敵人，並在落地時造成範圍傷害。",
+      "jp": "<color=#FFD780FF>通常攻撃</color>\n槍による最大6段の連続攻撃を行う。\n\n<color=#FFD780FF>重撃</color>\n一定のスタミナを消費して前方に疾行し、行動経路上と終着点に雨のような岩槍を投下する。\n\n<color=#FFD780FF>落下攻撃</color>\n空中から落下し地面に衝撃を与える。経路上の敵を攻撃し、落下時に範囲ダメージを与える。",
+      "ko": "<color=#FFD780FF>일반 공격</color>\n창으로 최대 6번 공격한다.\n\n<color=#FFD780FF>강공격</color>\n일정 스태미나를 소모해 전방으로 질주한다. 경로 및 종착점에 비 같은 바위창을 내린다.\n\n<color=#FFD780FF>낙하 공격</color>\n공중에서 땅을 내려찍어 경로상의 적을 공격하고 착지 시 범위 피해를 준다",
+      "en": "<color=#FFD780FF>Normal Attack</color>\nPerforms up to 6 consecutive spear strikes.\n\n<color=#FFD780FF>Charged Attack</color>\nConsumes a certain amount of Stamina to lunge forward, causing stone spears to fall along his path.\n\n<color=#FFD780FF>Plunging Attack</color>\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+      "de": "<color=#FFD780FF>Standardangriff</color>\nFührt bis zu 6 Lanzenstiche hintereinander aus.\n\n<color=#FFD780FF>Heftiger Schlag</color>\nVerbraucht eine gewisse Menge Ausdauer, läuft geschwind nach vorn und lässt steinerne Lanzen von Anfang bis Ende auf die Bahn der Bewegung fallen.\n\n<color=#FFD780FF>Angriff aus dem Fall</color>\nSchlägt beim Fallen aus der Luft auf den Boden, greift alle Gegner in der Bahn an und verursacht beim Aufkommen Flächenschaden.",
+      "es": "<color=#FFD780FF>Ataque Normal</color>\nRealiza hasta 6 ataques rápidos con lanza.\n\n<color=#FFD780FF>Ataque Cargado</color>\nConsume una cierta cantidad de Aguante para lanzarse al frente, haciendo que caigan lanzas de piedra en su camino.\n\n<color=#FFD780FF>Ataque Descendente</color>\nSe lanza desde el aire para golpear el suelo, dañando a los enemigos cercanos e infligiendo Daño en el AdE en el momento del impacto.",
+      "fr": "<color=#FFD780FF>Attaque normale</color>\nEnchaîne jusqu'à 6 coups de lance.\n\n<color=#FFD780FF>Attaque chargée</color>\nConsomme de l'endurance pour charger vers l'avant, faisant pleuvoir des lances de roche sur la route.\n\n<color=#FFD780FF>Attaque plongeante</color>\nPlonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis en chemin et des DGT de zone à l'impact.",
+      "pt": "<color=#FFD780FF>Ataque Normal</color>\nRealiza até 6 golpes consecutivos com a lança.\n\n<color=#FFD780FF>Ataque Carregado</color>\nConsome uma certa quantidade de Stamina para se lançar para frente, fazendo com que lanças de pedras caiam em seu trajeto.\n\n<color=#FFD780FF>Ataque Imersivo</color>\nMergulha em pleno ar para golpear o chão, causando dano a inimigos ao longo do caminho e infligindo Dano em uma AdE durante o impacto.",
+      "ru": "<color=#FFD780FF>Обычная атака:</color>\nДо шести ударов копьём.\n\n<color=#FFD780FF>Заряженная атака:</color>\nВыпад, вызывающий дождь из каменных копий, на который тратится определённое количество выносливости.\n\n<color=#FFD780FF>Атака в падении:</color>\nСтремительно падает на землю, атакуя всех врагов на пути. Приземлившись, наносит урон по площади.",
+      "id": "<color=#FFD780FF>Normal Attack</color>\nMelancarkan hingga 6 serangan tombak beruntun.\n\n<color=#FFD780FF>Charged Attack</color>\nMengonsumsi sejumlah Stamina untuk menyerang maju, dan menyebabkan tombak batu berjatuhan di sepanjang jalur serangan.\n\n<color=#FFD780FF>Plunging Attack</color>\nMenerjang dari udara untuk menghantam tanah, mengakibatkan DMG pada musuh di jalur terjangan dan mengakibatkan DMG area saat mendarat.",
+      "th": "<color=#FFD780FF>โจมตีปกติ</color>\nใช้หอกโจมตีต่อเนื่องมากสุดถึงหกครั้ง\n\n<color=#FFD780FF>ชาร์จโจมตี</color>\nใช้พลังกายส่วนหนึ่งเพื่อพุ่งไปข้างหน้า อย่างรวดเร็ว จากนั้นจะทิ้งหอกหินลงมา ยังเส้นทางที่เคลื่อนที่ และจุดสุดท้ายราวกับฝนกระหน่ำ\n\n<color=#FFD780FF>โจมตีพุ่งลงจากอากาศ</color>\nกระโจนจากกลางอากาศลงมายังพื้นดิน เพื่อโจมตีศัตรูที่อยู่ในเส้นทางการโจมตี โดยจะสร้างความเสียหายวงกว้างเมื่อลงถึงพื้น",
+      "vi": "<color=#FFD780FF>Tấn Công Thường</color>\nThực hiện tối đa 6 lần đánh liên tiếp.\n\n<color=#FFD780FF>Trọng Kích</color>\nTiêu hao thể lực nhất định, lao nhanh về phía trước, ném thương đá trên đường đi và điểm cuối.\n\n<color=#FFD780FF>Tấn Công Khi Đáp</color>\nĐáp xuống đất từ trên không, tấn công kẻ địch trên đường, đồng thời gây sát thương phạm vi khi chạm đất."
+    },
+    "imgid": "s_303101"
+  },
+  {
+    "title": {
+      "zhs": "地心",
+      "zht": "地心",
+      "jp": "地心",
+      "ko": "지핵",
+      "en": "Dominus Lapidis",
+      "de": "Dominus Lapidis",
+      "es": "Dominus lapidis",
+      "fr": "Dominus Lapidis",
+      "pt": "Dominus Lapidis",
+      "ru": "Власть над камнем",
+      "id": "Dominus Lapidis",
+      "th": "Dominus Lapidis",
+      "vi": "Tâm Trái Đất"
+    },
+    "description": {
+      "zhs": "山脉中、大地上、磐石间，都遍布着岩之力。能自如驱动这股力量的人却少之又少。\n\n<color=#FFD780FF>点按</color>\n命令大地上岩元素积聚而起，创造岩脊。\n\n<color=#FFD780FF>长按</color>\n令附近的岩元素爆发，造成以下效果：\n·如果岩脊数量没有达到上限，则创造岩脊；\n·形成玉璋护盾，伤害吸收量受益于钟离的生命值上限；\n·造成<color=#FFE699FF>岩元素范围伤害</color>；\n·身边如果有附带有<color=#FFE699FF>岩元素</color>的目标，则大量消耗至多两个目标的<color=#FFE699FF>岩元素</color>。这个效果不会造成伤害。\n\n<color=#FFD780FF>岩脊</color>\n创造时，造成<color=#FFE699FF>岩元素范围伤害</color>。\n此外，存在期间会与周围的其他<color=#FFE699FF>岩元素创造物</color>间歇进行原岩共鸣，对周围的敌人造成<color=#FFE699FF>岩元素伤害</color>。\n岩脊视为<color=#FFE699FF>岩元素创造物</color>，可以阻拦攻击，可以攀爬。\n由钟离自己创造的岩脊，初始同时只能存在一个。\n\n<color=#FFD780FF>玉璋护盾</color>\n对所有元素伤害与物理伤害有150%的吸收效果。\n处于玉璋护盾庇护下的角色，会使附近小范围内敌人的所有元素抗性与物理抗性降低20%，该效果不可叠加。\n\n<i>岩者坚也，可攻玉雕金。</i>",
+      "zht": "山脈中、大地上、磐石間，都遍布著岩之力。能自如驅動這股力量的人卻少之又少。 \n\n<color=#FFD780FF>點按</color>\n命令大地上岩元素積聚而起，創造岩脊。 \n\n<color=#FFD780FF>長按</color>\n令附近的岩元素爆發，造成以下效果：\n·如果岩脊數量沒有達到上限，則創造岩脊。\n·形成玉璋護盾，傷害吸收量受益於鍾離的生命值上限。\n·造成<color=#FFE699FF>岩元素範圍傷害</color>。\n·身邊如果有附帶有<color=#FFE699FF>岩元素</color>的目標，則大量消耗至多兩個目標的<color=#FFE699FF>岩元素</color>。這個效果不會造成傷害。 \n\n<color=#FFD780FF>岩脊</color>\n創造時，造成<color=#FFE699FF>岩元素範圍傷害</color>。 \n此外，存在期間會與周圍的其他<color=#FFE699FF>岩元素創造物</color>間歇進行原岩共鳴，對周圍的敵人造成<color=#FFE699FF>岩元素傷害</color>。 \n岩脊視為<color=#FFE699FF>岩元素創造物</color>，可以阻攔攻擊，可以攀爬。 \n由鍾離自己創造的岩脊，初始同時只能存在一個。 \n\n<color=#FFD780FF>玉璋護盾</color>\n對所有元素傷害與物理傷害有150%的吸收效果。 \n處於玉璋護盾庇護下的角色，會使附近小範圍內敵人的所有元素抗性與物理抗性降低20%，該效果不可疊加。 \n\n<i>岩者堅也，可攻玉雕金。 </i>",
+      "jp": "山脈の中、大地の上、盤石の間に岩の力が宿っている。しかしこの力を自由に扱える者は少ない。\n\n<color=#FFD780FF>一回押し</color>\n大地の至るところにある岩元素を積み上げ、岩柱を生成する。\n\n<color=#FFD780FF>長押し</color>\n付近の岩元素を爆発させ、下記の効果を発動する。\n·岩柱が数の上限に達していない場合、岩柱を生成する。\n·玉璋シールドを生成する。シールドのダメージ吸収量は鍾離のHP上限によって決まる。\n·<color=#FFE699FF>岩元素範囲ダメージ</color>を与える。\n·周りに<color=#FFE699FF>岩元素</color>を持つターゲットがいる場合、最大2つのターゲットの<color=#FFE699FF>岩元素</color>を大量に消耗させる。この効果によるダメージは発生しない。\n\n<color=#FFD780FF>岩柱</color>\n岩柱が生成された時、<color=#FFE699FF>岩元素範囲ダメージ</color>を与える。\nまた、岩柱が存在している間、周囲の他の<color=#FFE699FF>岩元素創造物</color>と一定時間の間隔で原岩共鳴をし、持続的に周囲の敵に<color=#FFE699FF>岩元素ダメージ</color>を与える。\n岩柱は<color=#FFE699FF>岩元素創造物</color>と見なされ、攻撃を防ぐことができ、登ることもできる。同時に最大1つまで存在可能。\n\n<color=#FFD780FF>玉璋シールド</color>\n全元素ダメージと物理ダメージに150%の吸収効果がある。\n玉璋シールドに守られたキャラクターは、付近範囲内の敵の全元素耐性と物理耐性-20%。この効果は重ねがけ不可。\n\n<i>岩の堅きこと、物に於いて陥さざる無きなり。</i>",
+      "ko": "대지 위, 산맥, 반석 사이엔 바위의 힘이 널리 퍼져있다. 그러나 이 힘을 자유자재로 사용할 수 있는 이는 거의 없다.\n\n<color=#FFD780FF>짧은 터치</color>\n대지에 퍼져있는 바위 원소를 소환해 암주를 생성한다.\n\n<color=#FFD780FF>홀드</color>\n근처의 바위 원소를 폭발시켜 아래 효과를 생성한다:\n·암주의 수량이 최대 수량에 미치지 못하면 암주를 생성해 낸다:\n·옥홀 방패를 생성한다. 피해 흡수량은 종려 HP 최대치의 영향을 받는다.\n·<color=#FFE699FF>바위 원소 범위 피해</color>를 준다.\n·근처에 <color=#FFE699FF>바위 원소</color>를 보유한 타깃이 있다면, 최대 2개 타깃의 <color=#FFE699FF>바위 원소</color>를 대량 소모한다. 해당 효과로 피해를 줄 수 없다.\n\n<color=#FFD780FF>암주</color>\n생성 시,<color=#FFE699FF>바위 원소 범위 피해</color>를 준다.\n또한 암주는 주변의 다른 <color=#FFE699FF>바위 원소 창조물</color>과 간헐적으로 원암 공명을 일으켜 주변의 적에게 <color=#FFE699FF>바위 원소 피해</color>를 준다.\n암주는 <color=#FFE699FF>바위 원소 창조물</color>로 간주되며, 공격을 막거나 등반할 수 있다.\n종려가 만들어낸 암주는 초기에 동시에 1개만 존재 할 수 있다.\n\n<color=#FFD780FF>옥홀 방패</color>\n모든 원소 피해와 물리 피해에 대해 150%의 흡수 효과가 있다\n옥홀 방패로 보호를 받고 있는 캐릭터는, 주변의 작은 범위 내의 적들의 원소 내성과 물리 내성을 20% 감소시킨다, 이 효과는 중첩되지 않는다.\n\n<i>바위는 옥을 갈고 금에 모양을 새길 수도 있을 만큼 단단하다</i>",
+      "en": "#Every mountain, rock and inch of land is filled with the power of Geo, but those who can wield such powers freely are few and far between.\n\n<color=#FFD780FF>{LAYOUT_MOBILE#Tap}{LAYOUT_PC#Press}{LAYOUT_PS#Press}</color>\nCommands the power of earth to create a Stone Stele.\n\n<color=#FFD780FF>Hold</color>\nCauses nearby Geo energy to explode, causing the following effects:\n·If their maximum number hasn't been reached, creates a Stone Stele.\n·Creates a shield of jade. The shield's DMG Absorption scales based on Zhongli's Max HP.\n·Deals <color=#FFE699FF>AoE Geo DMG</color>.\n·If there are nearby targets with the <color=#FFE699FF>Geo element</color>, it will drain a large amount of <color=#FFE699FF>Geo element</color> from a maximum of 2 such targets. This effect does not cause DMG.\n\n<color=#FFD780FF>Stone Stele</color>\nWhen created, deals <color=#FFE699FF>AoE Geo DMG</color>.\nAdditionally, it will intermittently resonate with other nearby <color=#FFE699FF>Geo constructs</color>, dealing <color=#FFE699FF>Geo DMG</color> to nearby opponents.\nThe Stone Stele is considered a <color=#FFE699FF>Geo construct</color> that can both be climbed and used to block attacks.\nOnly one Stele created by Zhongli himself may initially exist at any one time.\n\n<color=#FFD780FF>Jade Shield</color>\nPossesses 150% DMG Absorption against all Elemental and Physical DMG.\nCharacters protected by the Jade Shield will decrease the Elemental RES and Physical RES of opponents in a small AoE by 20%. This effect cannot be stacked.\n\n<i>A true master of stone may carve jade and shape gold.</i>",
+      "de": "In den Bergen, auf und unter der Erde sowie in den Steinen, die überall herumliegen, steckt die Geo-Kraft. Nur äußerst wenige sind dazu in der Lage, diese Kraft aktiv zu nutzen.\n\n<color=#FFD780FF>Drücken</color>\nKonzentriert die überall auf der Erde vorhandene Geo-Kraft zu einem Hügelkamm.\n\n<color=#FFD780FF>Gedrückt halten</color>\nLässt Geo-Objekte in der Nähe explodieren und verursacht folgende Effekte:\n· Erstellt, solange die Höchstmenge nicht erreicht ist, einen Hügelkamm.\n· Erstellt einen Jadeblock, der Schaden basierend auf Zhonglis max. LP abhält.\n· Verursacht <color=#FFE699FF>Geo-Flächenschaden</color>.\n· Verbraucht bei Anwesenheit von Zielen mit <color=#FFE699FF>Geo</color>-Kraft die <color=#FFE699FF>Geo</color>-Kraft von bis zu zwei dieser Ziele. Dieser Effekt verursacht keinen Schaden.\n\n<color=#FFD780FF>Hügelkamm</color>\nVerursacht beim Entstehen <color=#FFE699FF>Geo-Flächenschaden</color>.\nVerursacht während der Wirkungsdauer eine Schwingung in Einklang mit anderen <color=#FFE699FF>Geo-Objekten</color> in der Umgebung, die Gegnern in der Umgebung <color=#FFE699FF>Geo-Schaden</color> zufügt.\nDer Hügelkamm gilt als <color=#FFE699FF>Geo-Objekt</color>, blockiert Angriffe und kann erklommen werden.\nStandardmäßig kann zu einem Zeitpunkt nur ein von Zhongli selbst erstellter Hügelkamm existieren.\n\n<color=#FFD780FF>Jadeblock-Schild</color>\nHält bei elementarem sowie physischem Schaden 150 % ab.\nVerringert den WDS gegen alle Elemente sowie den physischen WDS von Gegnern in der Nähe von Jadeblöcken geschützer Figuren mit geringer Reichweite um 20 %, nicht stapelbar.\n\n<i>Der Fels ist hart und schleift rohe Jade zu wertvollen Edelsteinen.</i>",
+      "es": "#Cada montaña, roca y centímetro de la tierra contiene poder Geo, pero solo unos pocos pueden usar libremente tal poder.\n\n<color=#FFD780FF>{LAYOUT_MOBILE#Un toque}{LAYOUT_PC#Pulsar una vez}{LAYOUT_PS#Pulsar una vez}</color>\nOrdena al poder Geo de la tierra que se solidifique en una cresta de piedra.\n\n<color=#FFD780FF>Mantener pulsado</color>\nHace que los elementos Geo cercanos exploten, provocando los siguientes efectos:\n·Si aún no se ha alcanzado la cantidad máxima de crestas de piedra, invocará una cresta de piedra.\n·Crea un escudo de jade. La cantidad de absorción de daño del escudo es proporcional a la Vida Máx. de Zhongli.\n·Inflige <color=#FFE699FF>Daño Geo en el AdE</color>.\n·Si hay enemigos cercanos afectados por el <color=#FFE699FF>elemento Geo</color>, absorberá una gran cantidad de dicho elemento de un máximo de dos objetivos afectados por él. Este efecto no causa daño.\n\n<color=#FFD780FF>Cresta de piedra</color>\nAl ser creada, inflige <color=#FFE699FF>Daño Geo en el AdE</color>.\nLa cresta de piedra resonará con las <color=#FFE699FF>creaciones Geo</color> cercanas, infligiendo <color=#FFE699FF>Daño Geo</color> a los enemigos cercanos.\nLa cresta de piedra es considerada una <color=#FFE699FF>creación Geo</color>, y puede escalarse y usarse para bloquear ataques. Solo puede existir una al mismo tiempo.\n\n<color=#FFD780FF>Escudo de jade</color>\nTiene un 150% de eficiencia de absorción contra todo el Daño Elemental y el Daño Físico.\nCuando un personaje se encuentra protegido por este escudo, todas las RES Elementales y la RES Física de los enemigos cercanos a él en una pequeña AdE se reducen en un 20%. Este efecto no puede acumularse.\n\n<i>Un verdadero maestro de la piedra puede tallar jade y dar forma al oro.</i>",
+      "fr": "Le pouvoir Géo est présent dans les montagnes, sur la terre comme dans les profondeurs, et jusque dans les fissures rocailleuses. Mais rares sont ceux capables de maîtriser une telle puissance.\n\n<color=#FFD780FF>Appui simple</color>\nZhongli matérialise une Dorsale rocheuse.\n\n<color=#FFD780FF>Appui long</color>\nZhongli fait exploser l'élément Géo contenu dans les environs, entraînant les effets suivants :\n· Une Dorsale rocheuse est créée si le nombre maximum de Dorsales rocheuses sur le terrain n'est pas atteint.\n· Un bouclier de jade capable d'absorber une quantité de DGT proportionnelle aux PV max de Zhongli est généré.\n· Inflige des <color=#FFE699FF>DGT Géo de zone</color>.\n· Absorbe l'<color=#FFE699FF>élément Géo</color> des cibles proches affectées par <color=#FFE699FF>l'élément Géo</color> (jusqu'à 2 cibles max). Cet effet n'inflige pas de DGT.\n\n<color=#FFD780FF>Dorsale rocheuse</color>\nUne Dorsale rocheuse inflige des <color=#FFE699FF>DGT Géo de zone</color> lorsqu'elle est matérialisée.\nLa Dorsale entre en résonance avec les autres <color=#FFE699FF>constructions Géo</color> présentes.\nL'amas rocheux libère l'écho de la pierre originelle de façon intermittente, infligeant des <color=#FFE699FF>DGT Géo</color> aux ennemis à proximité.\nLa Dorsale rocheuse est une <color=#FFE699FF>construction Géo</color> qui bloque les attaques et peut être escaladée. Il ne peut exister qu'une seule dorsale à la fois.\n\n<color=#FFD780FF>Bouclier de jade</color>\nLe bouclier de jade est efficaces à 150 % contre les DGT élémentaires et physiques.\nLorsqu'un bouclier de jade protège un personnage, les RÉS élémentaires et physique des ennemis proches sont réduites de 20 %. Cet effet n'est pas cumulable.\n\n<i>Un vrai maître de la roche doit savoir sculpter le jade et l'or.</i>",
+      "pt": "O Poder Geo cobre todas as montanhas, terras e rochas. Mas poucas são as pessoas que o podem usar livremente.\n\n<color=#FFD780FF>Pressionar</color>\nOrdena que o elemento Geo na terra se una em Estela de Pedra.\n\n<color=#FFD780FF>Manter Pressionado</color>\nOrdena que elementos Geo ao redor explodam, causando o seguinte efeito:\n·Se o número de Estelas de Pedra não alcançou o máximo, cria outra Estela de Pedra;\n·Forma um Escudo de Jade, que absorve o Dano com base na Vida Máxima de Zhongli;\n·Causa <color=#FFE699FF>Dano Geo em uma AdE</color>;\n·Se houver alvos com <color=#FFE699FF>Elemento Geo</color> nas proximidades, absorverá o <color=#FFE699FF>Elemento Geo</color> de até dois alvos. Esse efeito não causa dano.\n\n<color=#FFD780FF>Estela de Pedra</color>\nAo ser criada, causa <color=#FFE699FF>Dano Geo em uma AdE</color>.\nAlém disso, enquanto existir, ressoará com <color=#FFE699FF>Construções Geo</color> próximas, causando <color=#FFE699FF>Dano Geo</color> aos inimigos próximos.\nA Estela de Pedra é considerada uma <color=#FFE699FF>Construção Geo</color>, pode parar ataques, e pode ser escalada.\nInicialmente só é possível existir uma Estela de Pedra, criada pelo próprio Zhongli, ao mesmo tempo.\n\n<color=#FFD780FF>Escudo de Jade</color>\nAbsorve 150% de todos os Danos Elementais e Danos Físicos.\nOs personagens sob a proteção do Escudo de Jade, diminuem a RES Elemental e RES Física de todos os inimigos em 20% numa pequena AdE.\n\n<i>Um verdadeiro mestre da pedra pode entalhar jade e dar forma ao ouro. </i>",
+      "ru": "Каждая гора, каждый камень и вся земля пронизаны энергией Гео, но только единицы могут ею управлять.\n\n<color=#FFD780FF>Быстрое нажатие:</color>\nПриказывает силам земли создать Каменную стелу.\n\n<color=#FFD780FF>Долгое нажатие:</color>\nЗаставляет окружающую Гео энергию взорваться, что вызывает следующие эффекты:\n· Создаёт Каменную стелу, если не было достигнуто их максимально допустимое количество.\n· Создаёт Яшмовый щит. Поглощение урона щита зависит от макс. HP Чжун Ли.\n· Наносит <color=#FFE699FF>Гео урон по площади</color>.\n· Если поблизости есть цели с <color=#FFE699FF>элементом Гео</color>, вытягивает большое количество <color=#FFE699FF>Гео элемента</color> из максимум 2 таких целей. Этот эффект не наносит урона.\n\n<color=#FFD780FF>Каменная стела:</color>\nПри создании наносит <color=#FFE699FF>Гео урон по площади</color>.\nТакже Каменная стела входит в резонанс с окружающими её другими <color=#FFE699FF>Гео конструкциями</color>, нанося <color=#FFE699FF>Гео урон</color> окружающим врагам.\nКаменная стела считается <color=#FFE699FF>Гео конструкцией</color>, на неё можно взобраться или использовать её для блокирования атак.\nПервоначально может существовать только одна Каменная стела, созданная самим Чжун Ли.\n\n<color=#FFD780FF>Яшмовый щит:</color>\nВесь элементальный и физический урон поглощается на 150% эффективнее.\nПерсонажи, защищённые Яшмовым щитом, будут понижать элементальное и физическое сопротивление врагов в небольшом радиусе на 20%. Этот эффект не может складываться.\n\n<i>Настоящий мастер может вырезать нефрит и придать форму золоту одной лишь мыслью.</i>",
+      "id": "Gunung, tanah, batu, semuanya mengandung kekuatan Geo. Namun, cuma sedikit saja yang bisa mengerahkan kekuatan itu sesuai kehendaknya.\n\n<color=#FFD780FF>Tekan</color>\nMemerintahkan elemen Geo di permukaan tanah untuk berkumpul dan membentuk sebuah Stone Stele.\n\n<color=#FFD780FF>Tahan</color>\nMengakibatkan elemen Geo di sekitar meledak, menyebabkan efek berikut:\n·Bila jumlah Stone Stele yang terbentuk belum mencapai batas maksimum, Stone Stele akan terbentuk.\n·Menciptakan sebuah Jade Shield yang dapat menyerap DMG sesuai dengan Max HP Zhongli.\n·Mengakibatkan <color=#FFE699FF>Geo DMG Area.</color>\n·Bila di sekeliling karakter terdapat musuh dengan <color=#FFE699FF>elemen Geo</color>, maka Zhongli dapat mengonsumsi sejumlah besar <color=#FFE699FF>elemen Geo</color>, maksimum dari 2 musuh. Efek ini tidak mengakibatkan DMG.\n\n<color=#FFD780FF>Stone Stele</color>\nKetika terbentuk, pilar ini akan mengakibatkan <color=#FFE699FF>Geo DMG Area</color>.\nSelain itu, Stone Stele akan beresonansi dengan <color=#FFE699FF>Geo Construct</color> di sekitarnya, mengakibatkan <color=#FFE699FF>Geo DMG</color> ke musuh di sekitar.\nStone Stele terhitung sebagai <color=#FFE699FF>Geo Construct</color>, yang dapat digunakan untuk menghalangi serangan dan juga dapat dipanjat.\nAwalnya, Stone Stele yang diciptakan oleh Zhongli, hanya bisa ada satu dalam satu waktu.\n\n<color=#FFD780FF>Jade Shield</color>\nMemiliki bonus 150% efek penyerapan terhadap semua Elemental DMG dan Physical DMG.\nKarakter yang berada dalam perlindungan Jade Shield akan menyebabkan semua Elemental RES dan Physical RES musuh di area kecil sekitarnya berkurang 20%. Efek tersebut tidak dapat ditumpuk.\n\n<i>Seorang ahli batu sejati akan mampu mengukir giok dan membentuk emas.</i>",
+      "th": "#แนวเทือกเขา, บนพื้นดิน, ช่องระหว่างหินขนาดใหญ่ ทั้งหมดนี้ล้วนเต็มไปด้วยพลังแห่งหิน แต่คนที่สามารถขับเคลื่อนพลังเหล่านี้ได้นั้นกลับมีน้อยและหาได้ยากมาก\n\n<color=#FFD780FF>{LAYOUT_MOBILE#แตะ}{LAYOUT_PC#กด}{LAYOUT_PS#กด}</color>\nเรียกธาตุหินที่อยู่บนพื้นโลกให้มารวมกันเพื่อสร้าง Stone Stele\n\n<color=#FFD780FF>{LAYOUT_MOBILE#แตะค้าง}{LAYOUT_PC#กดค้าง}{LAYOUT_PS#กดค้าง}</color>\nเรียกพลังแห่งธาตุหินที่อยู่รอบตัวให้ปะทุขึ้นมา เกิดเป็นเอฟเฟกต์ดังต่อไปนี้:\n·สร้าง Stone Stele หากจำนวนยังไม่ถึงขีดจำกัดสูงสุด;\n·สร้าง Jade Shield ขึ้นมา โดยจะมีปริมาณการดูดซับความเสียหายขึ้นกับพลังชีวิตสูงสุดของ Zhongli;\n·ทำให้เกิด<color=#FFE699FF>ความเสียหายหินวงกว้าง</color>;\n·หากมีเป้าหมายที่เป็น<color=#FFE699FF>ธาตุหิน</color>อยู่ในบริเวณใกล้ตัว จะดูด<color=#FFE699FF>ธาตุหิน</color>ปริมาณมากออกมาจากเป้าหมายมากสุด 2 เป้าหมาย ซึ่งเอฟเฟกต์นี้จะไม่ทำให้เกิดความเสียหาย\n\n<color=#FFD780FF>Stone Stele</color>\nทำให้เกิด<color=#FFE699FF>ความเสียหายหินวงกว้าง</color>ในตอนที่สร้าง\nนอกจากนี้ระหว่างช่วงเวลาที่คงอยู่ จะทำการปล่อยคลื่นประสานกับ<color=#FFE699FF>วัตถุธาตุหิน</color>ที่อยู่โดยรอบเป็นระยะ ๆ เพื่อสร้าง<color=#FFE699FF>ความเสียหายหิน</color>แก่ศัตรูที่อยู่โดยรอบ\nStone Stele นั้นถูกนับว่าเป็น<color=#FFE699FF>วัตถุธาตุหิน</color> ซึ่งใช้ป้องกันการโจมตีและใช้เพื่อปีนป่ายได้\nในตอนเริ่มแรก Stone Stele ที่สร้างขึ้นโดยตัวของ Zhongli เองนั้น สามารถมีได้เพียงอันเดียวในช่วงเวลาเดียวกันเท่านั้น\n\n<color=#FFD780FF>Jade Shield</color>\nมีเอฟเฟกต์การดูดซับความเสียหายธาตุทุกประเภทและความเสียหายกายภาพ 150%\nตัวละครที่ได้รับการป้องกันจาก Jade Shield จะลดความต้านทานธาตุทั้งหมด และความต้านทานกายภาพของศัตรูที่อยู่ใกล้เคียงในพื้นที่วงแคบลง 20% โดยที่เอฟเฟกต์นี้ จะไม่สามารถซ้อนทับได้\n\n<i>ถึงจะเป็นหินแต่ก็สามารถสลักหยกหรือขึ้นรูปทองคำได้ หากทำอย่างต่อเนื่อง</i>",
+      "vi": "Trong rặng núi, trên mặt đất, giữa những tảng đá đều chất chứa sức mạnh của nham. Nhưng rất ít người có thể điều khiển được sức mạnh này.\n\n<color=#FFD780FF>Nhấn</color>\nRa lệnh cho các nguyên tố Nham trên mặt đất tụ hợp lại, kết thành vách đá.\n\n<color=#FFD780FF>Nhấn Giữ</color>\nLệnh cho nguyên tố Nham xung quanh phát nổ, gây hiệu quả như sau:\n·Nếu số lượng vách đá chưa đạt giới hạn, thì sẽ tạo ra vách đá;\n·Tạo ra Khiên Ngọc, lượng hấp thu sát thương phụ thuộc vào giới hạn HP của Zhongli;\n·Gây <color=#FFE699FF>Sát Thương Phạm Vi Nguyên Tố Nham</color>;\n·Nếu bên cạnh có mục tiêu <color=#FFE699FF>Nguyên Tố Nham</color>, sẽ tiêu hao lượng lớn <color=#FFE699FF>Nguyên Tố Nham</color> của tối đa 2 mục tiêu. Hiệu quả này sẽ không gây sát thương.\n\n<color=#FFD780FF>Vách Đá</color>\nKhi tạo vách đá sẽ gây <color=#FFE699FF>Sát Thương Phạm Vi Nguyên Tố Nham</color>.\nNgoài ra, trong thời gian vách đá tồn tại, thỉnh thoảng sẽ tạo thành cộng hưởng với <color=#FFE699FF>tạo vật Nguyên Tố Nham</color> khác ở xung quanh, gây <color=#FFE699FF>sát thương Nguyên Tố Nham</color> cho kẻ địch xung quanh.\nVách đá được xem là <color=#FFE699FF>tạo vật Nguyên Tố Nham</color>, có thể ngăn chặn tấn công, có thể leo trèo.\nBan đầu chỉ được tồn tại đồng thời 1 vách đá duy nhất do Zhongli tạo ra.\n\n<color=#FFD780FF>Khiên Ngọc</color>\nCó hiệu quả hấp thu 150% tất cả sát thương nguyên tố và sát thương vật lý.\nNhân vật đang được Khiên Ngọc bảo vệ, sẽ khiến cho kẻ địch trong phạm vi nhỏ bị giảm 20% tất cả kháng nguyên tố và kháng vật lý, hiệu quả này không được cộng dồn.\n\n<i>Đá kiên cố có thể đánh ngọc khắc vàng.</i>"
+    },
+    "imgid": "s_303201"
+  },
+  {
+    "title": {
+      "zhs": "天星",
+      "zht": "天星",
+      "jp": "天星",
+      "ko": "천성",
+      "en": "Planet Befall",
+      "de": "Einstürzender Himmel",
+      "es": "Lluvia estelar",
+      "fr": "Chute de météore",
+      "pt": "Chuva Estelar",
+      "ru": "Падение кометы",
+      "id": "Planet Befall",
+      "th": "Planet Befall",
+      "vi": "Thiên Tinh"
+    },
+    "description": {
+      "zhs": "降下巨大的星岩，对坠落范围内的敌人造成巨额<color=#FFE699FF>岩元素伤害</color>，并使其<color=#FFE699FF>石化</color>。\n\n<color=#FFD780FF>石化</color>\n处于<color=#FFE699FF>石化</color>状态下的敌人无法行动。\n\n<i>以陨天苍岩星，昭命理昏暝者。</i>",
+      "zht": "降下巨大的星岩，對墜落範圍內的敵人造成巨額<color=#FFE699FF>岩元素傷害</color>，並使其<color=#FFE699FF>石化</color>。\n\n<color=#FFD780FF>石化</color>\n處於<color=#FFE699FF>石化</color>狀態下的敵人無法行動。\n\n<i>以隕天蒼岩星，昭命理昏暝者。</i>",
+      "jp": "巨大な星岩を落下させ、落下範囲内の敵に大量の<color=#FFE699FF>岩元素ダメージ</color>を与え、<color=#FFE699FF>石化</color>状態にする。\n\n<color=#FFD780FF>石化</color>\n<color=#FFE699FF>石化</color>状態の敵は行動不能になる。\n\n<i>蒼天の星岩を落とし、暗闇の運命を照らす。</i>",
+      "ko": "거대한 운석을 떨어뜨려 추락 범위 내의 적에게 대량의 <color=#FFE699FF>바위 원소 피해</color>를 주고 <color=#FFE699FF>석화</color> 상태로 만든다.\n\n<color=#FFD780FF>석화</color>\n<color=#FFE699FF>석화</color> 상태가 된 적은 움직일 수 없다\n\n<i>하늘의 운석을 떨어뜨려 운명의 어둠을 밝게 비춘다</i>",
+      "en": "Brings a falling meteor down to earth, dealing massive <color=#FFE699FF>Geo DMG</color> to opponents caught in its AoE and applying the <color=#FFE699FF>Petrification</color> status to them.\n\n<color=#FFD780FF>Petrification</color>\nOpponents affected by the <color=#FFE699FF>Petrification</color> status cannot move.\n\n<i>The falling meteor punishes the unjust.</i>",
+      "de": "Ein riesiger Meteorit fällt aus dem Himmel und fügt den Gegnern im Wirkungsbereich des Einschlags enormen <color=#FFE699FF>Geo-Schaden</color> sowie <color=#FFE699FF>Versteinert</color> zu.\n\n<color=#FFD780FF>Versteinert</color>\nGegner im Zustand <color=#FFE699FF>Versteinert</color> können sich nicht bewegen.\n\n<i>Ein aus dem Himmel fallender Meteorit hilft den Gerechten und bestraft die Unholde.</i>",
+      "es": "Atrae un meteorito a la tierra, causando <color=#FFE699FF>Daño Geo</color> masivo a los enemigos dentro de su AdE y aplicando el efecto de <color=#FFE699FF>Petrificación</color>.\n\n<color=#FFD780FF>Petrificación</color>\nLos enemigos bajo el efecto de <color=#FFE699FF>Petrificación</color> no pueden moverse.\n\n<i>El meteorito que cae castiga a los injustos.</i>",
+      "fr": "Zhongli fait tomber des cieux un gigantesque météore, infligeant d'importants <color=#FFE699FF>DGT Géo</color> à l'impact et <color=#FFE699FF>pétrifie</color> les ennemis.\n\n<color=#FFD780FF>Pétrification</color>\nLes ennemis <color=#FFE699FF>pétrifiés</color> sont immobilisés.\n\n<i>Que le météore qui transperce la voûte illumine les ténèbres de ce monde.</i>",
+      "pt": "Traz uma estrela cadente em direção à terra, infligindo <color=#FFE699FF>Dano Geo</color> massivo nos inimigos pegos em sua AdE e aplicando o efeito <color=#FFE699FF>Petrificante</color>\n\n <color=#FFD780FF>Petrificação</color>\nInimigos afetados pelo efeito <color=#FFE699FF>Petrificante</color> não podem se mover.\n\n<i>O meteorito caído pune os injustos.</i>",
+      "ru": "Призывает гигантский метеорит, который наносит огромный <color=#FFE699FF>Гео урон</color> врагам в радиусе поражения, а также накладывает на них статус <color=#FFE699FF>Окаменение</color>.\n\n<color=#FFD780FF>Окаменение:</color>\nВраги со статусом <color=#FFE699FF>Окаменение</color> не могут двигаться.\n\n<i>Падающая комета карает несправедливость.</i>",
+      "id": "Menjatuhkan sebuah meteor ke bumi, mengakibatkan <color=#FFE699FF>Geo DMG</color> yang besar serta menyebabkan efek <color=#FFE699FF>Petrification</color> kepada musuh di dalam area skill.\n\n<color=#FFD780FF>Petrification</color>\nMusuh yang terkena efek <color=#FFE699FF>Petrification</color> tidak dapat bergerak.\n\n<i>Bintang jatuh menghukum para pelaku yang berbuat curang dan tidak adil.</i>",
+      "th": "เรียกดาวตกขนาดใหญ่ให้ร่วงลงมาเพื่อ สร้าง<color=#FFE699FF>ความเสียหายหิน</color>อย่างรุนแรง แก่ศัตรูที่อยู่ในบริเวณที่ตกใส่ และทำให้เกิด<color=#FFE699FF>การกลายเป็นหิน</color>\n\n<color=#FFD780FF>การกลายเป็นหิน</color>\nศัตรูที่อยู่ภายใต้สภาวะ<color=#FFE699FF>การกลายเป็นหิน</color>จะไม่สามารถขยับตัวได้\n\n<i>อุกกาบาตร่วงหล่นลงมาลงโทษ ความอยุติธรรม</i>",
+      "vi": "Thiên thạch cực lớn rơi xuống, gây <color=#FFE699FF>Sát Thương Nguyên Tố Nham</color> cực lớn cho kẻ địch trong phạm vi rơi, và khiến địch <color=#FFE699FF>Hóa Thạch</color>.\n\n<color=#FFD780FF>Hóa Thạch</color>\nKẻ địch trong trạng thái <color=#FFE699FF>Hóa Thạch</color> không thể chuyển động.\n\n<i>Dùng ngôi sao trên cao soi sáng cho người đang mê muội.</i>"
+    },
+    "imgid": "s_303901"
+  },
+  {
+    "title": {
+      "zhs": "悬岩宸断",
+      "zht": "懸岩宸斷",
+      "jp": "岩の宸断",
+      "ko": "낭떠러지의 재결",
+      "en": "Resonant Waves",
+      "de": "Wellenartige Ausbreitung",
+      "es": "Ondas resonantes",
+      "fr": "Ondes résonnantes",
+      "pt": "Ondas de Ressonância",
+      "ru": "Каменная воля",
+      "id": "Resonant Waves",
+      "th": "Resonant Waves",
+      "vi": "Huyền Nham Thần Đoạn"
+    },
+    "description": {
+      "zhs": "玉璋护盾受到伤害时，会产生坚璧效果：\n·处于玉璋护盾庇护下的角色，护盾强效提升5%；\n·该效果至多叠加5次，持续直到玉璋护盾消失。",
+      "zht": "玉璋護盾受到傷害時，會產生堅璧效果：\n·處於玉璋護盾庇護下的角色，護盾強效提升5%；\n·該效果至多疊加五次，持續直到玉璋護盾消失。",
+      "jp": "玉璋シールドはダメージを受けた際に防御効果を発動する。\n玉璋シールドに守られたキャラクターのシールド強化+5%。\nシールドが消えるまで、最大5回強度を上げることができる。",
+      "ko": "옥홀 방패가 피해를 받으면 철벽 효과가 발동한다:\n·옥홀 방패의 보호를 받는 캐릭터의 보호막 강화 효과가 5% 증가한다；\n·해당 효과 최대 중첩 수: 5회. 효과는 옥홀 방패가 사라지기 전까지 지속된다",
+      "en": "When the Jade Shield takes DMG, it will Fortify:\n·Fortified characters have 5% increased Shield Strength.\nCan stack up to 5 times, and lasts until the Jade Shield disappears.",
+      "de": "Löst den Effekt beständige Wand aus, wenn ein Jadeblock Schaden erleidet:\n· Erhöht die Schildeffizienz der Figuren im Schutz eines Jadeblocks um 5 %.\n· 5-fach stapelbar, hält bis zum Verschwinden des Jadeblocks.",
+      "es": "Cuando el escudo de jade recibe daño, se fortalece.\n·Cuando un personaje que está protegido por el escudo de jade recibe daño, su Protección de Escudo aumenta en un 5%.\n·Este efecto puede acumularse hasta 5 veces y dura hasta que desaparezca el escudo de jade.",
+      "fr": "Chaque attaque touchant le bouclier de jade génère les effets suivants :\n· Augmente la force du bouclier de 5 %.\n· Cet effet peut être cumulé 5 fois maximum et dure jusqu'à la fin du bouclier.",
+      "pt": "Quando o Escudo de Jade receber dano, terá os seguintes efeitos de fortificação:\n·Os Personagens que estiverem sendo protegidos pelo Escudo de Jade terão um aumento de Força do Escudo de 5%;\n·Esse efeito pode ser acumulado até 5 vezes, e dura até o Escudo de Jade se dissipar.",
+      "ru": "Полученный при активном Яшмовом щите урон накладывает статус Укрепление:\n· Увеличивает прочность щита персонажа, защищённого Яшмовым щитом, на 5%.\n· Может складываться до 5 раз, и длится до тех пор, пока не исчезнет Яшмовый щит.",
+      "id": "Jade Shield akan menjadi lebih kuat setelah menerima DMG:\n·Meningkatkan 5% kekuatan perisai milik karakter yang dilindungi Jade Shield.\n·Efek ini dapat ditumpuk sebanyak 5 kali dan akan bertahan sampai Jade Shield hilang.",
+      "th": "เมื่อ Jade Shield ได้รับความเสียหาย จะทำให้เกิดเอฟเฟกต์เสริมความแข็งแกร่ง:\n·ตัวละครที่ได้รับการป้องกันจาก Jade Shield จะเพิ่มประสิทธิภาพโล่ป้องกันขึ้น 5%;\n·เอฟเฟกต์นี้ซ้อนทับกันได้สูงสุด 5 ครั้ง และจะคงอยู่ไปจนกว่า Jade Shield จะหายไป",
+      "vi": "Khi Khiên Ngọc chịu sát thương sẽ tạo ra hiệu quả kiên cố:\n·Nhân vật khi đang được Khiên Ngọc bảo vệ, hiệu quả khiên +5%.\n·Hiệu quả này tối đa cộng dồn 5 lần, duy trì đến khi Khiên Ngọc mất đi."
+    },
+    "imgid": "p_302101"
+  },
+  {
+    "title": {
+      "zhs": "炊金馔玉",
+      "zht": "炊金饌玉",
+      "jp": "贅沢な食饌",
+      "ko": "호의호식",
+      "en": "Dominance of Earth",
+      "de": "Hungrige Erde",
+      "es": "Dominio de la Tierra",
+      "fr": "Domination de la Terre",
+      "pt": "Domínio da Terra",
+      "ru": "Господство земли",
+      "id": "Dominance of Earth",
+      "th": "Dominance of Earth",
+      "vi": "Xuy Kim Soạn Ngọc"
+    },
+    "description": {
+      "zhs": "基于生命值上限，钟离的以下攻击造成的伤害提高：\n·普通攻击、重击与下落攻击伤害提高值：生命值上限的1.39%\n·<color=#FFD780FF>地心</color>的岩脊、共鸣伤害与长按伤害提高值：生命值上限的1.9%\n·<color=#FFD780FF>天星</color>伤害提高值：生命值上限的33%",
+      "zht": "基於生命值上限，鍾離的以下攻擊造成的傷害提高：\n·普通攻擊、重擊與下落攻擊傷害提高值：生命值上限的1.39%\n·<color=#FFD780FF>地心</color>的岩脊、共鳴傷害與長按傷害提高值：生命值上限的1.9%\n·<color=#FFD780FF>天星</color>傷害提高值：生命值上限的33%",
+      "jp": "HP上限を基に、鍾離の下記攻撃のダメージが増加する。\n·通常攻撃、重撃と落下攻撃のダメージ増加量：HP上限の1.39%\n·<color=#FFD780FF>地心</color>の岩柱、共鳴と長押しダメージ増加量：HP上限の1.9%\n·<color=#FFD780FF>天星</color>ダメージ増加量：HP上限の33%",
+      "ko": "HP 최대치에 기반하여 종려가 가하는 아래 공격의 피해가 증가한다: \n·일반 공격, 강공격, 낙하 공격으로 가하는 피해가 HP 최대치의 1.39%만큼 증가\n·<color=#FFD780FF>지핵</color>의 암주, 공명 피해와 홀드 피해 증가량: HP 최대치의 1.9%\n·<color=#FFD780FF>천성</color> 피해 증가량: HP 최대치의 33%",
+      "en": "Zhongli deals bonus DMG based on his Max HP:\n·Normal Attack, Charged Attack, and Plunging Attack DMG is increased by 1.39% of Max HP.\n·<color=#FFD780FF>Dominus Lapidis'</color> Stone Stele, resonance, and hold DMG is increased by 1.9% of Max HP.\n·<color=#FFD780FF>Planet Befall's</color> DMG is increased by 33% of Max HP.",
+      "de": "Erhöht den mit den folgenden Angriffen von Zhongli verursachten Schaden basierend auf seinen max. LP:\n· Erhöht den Schaden von Standardangriffen, heftigen Schlägen und Angriffen aus dem Fall um 1,39 % der max. LP.\n· Erhöht den Schaden des Hügelkamms von <color=#FFD780FF>Dominus Lapidis</color>, den des Einklangs und den beim Gedrückthalten um 1,9 % der max. LP.\n· Erhöht den Schaden von <color=#FFD780FF>Einstürzender Himmel</color> um 33 % der max. LP.",
+      "es": "El daño infligido por los siguientes ataques de Zhongli aumenta en proporción a su Vida Máx.:\n·Aumenta el daño de Ataque Normal, Ataque Cargado y Ataque Descendente en un 1.39% de su Vida Máx.\n·Aumenta en un 1.9% de su Vida Máx. el daño de resonancia de la cresta de piedra de <color=#FFD780FF>Dominus lapidis</color>, así como el daño de mantener pulsado.\n·Aumenta el daño de <color=#FFD780FF>Lluvia estelar</color> en un 33% de la Vida Máx. de Zhongli.",
+      "fr": "Augmente les DGT infligés par les attaques de Zhongli citées ci-dessous en fonction de ses PV max :\n· Augmentation de DGT des attaques normales, chargées et plongeantes : 1,39 % des PV max.\n· Augmentation de DGT de dorsale rocheuse, de DGT de résonance et de DGT de l'appui long de <color=#FFD780FF>Dominus Lapidis</color> : 1,9 % des PV max.\n·Augmentation de DGT de <color=#FFD780FF>Chute de météore</color> : 33 % des PV max.",
+      "pt": "Os ataques de Zhongli terão os seguintes aumentos de Dano de acordo com sua Vida Máxima:\n·Ataque Normal, Ataque Carregado e Ataque Imersivo terão seu dano aumentado em 1,39% da Vida Máxima\n·O Dano da Estela de Pedra, Dano de ressonância Geo e Dano de Manter Pressionado de <color=#FFD780FF>Dominus Lapidis</color> aumentarão para 1.9% da Vida Máxima\n·O Dano de <color=#FFD780FF>Chuva Estelar</color> aumentará para 33% da Vida Máxima",
+      "ru": "Чжун Ли наносит дополнительный урон, который зависит от его макс. HP:\n· Урон обычной атаки, заряженной атаки и атаки в падении увеличен на 1,39% от макс. HP.\n· Урон Каменной стелы навыка <color=#FFD780FF>Власть над камнем</color>, её резонанса и долгого нажатия увеличен на 1,9% от макс. HP.\n· Урон навыка <color=#FFD780FF>Падение кометы</color> увеличен на 33% от макс. HP.",
+      "id": "Zhongli menghasilkan bonus DMG berdasarkan Max HP miliknya:\n·Meningkatkan DMG Normal Attack, Charged Attack, dan Plunging Attack sebesar 1,39% dari Max HP Zhongli.\n·Meningkatkan DMG <color=#FFD780FF>Dominus Lapidis</color> Stone Stele, resonansi, dan DMG tekan sebesar 1,9% Max HP Zhongli.\n·Meningkatkan DMG <color=#FFD780FF>Planet Befall</color> sebesar 33% Max HP Zhongli.",
+      "th": "#การโจมตีของ Zhongli ต่อไปนี้ จะสร้างความเสียหายเพิ่มขึ้นตามพลังชีวิตสูงสุด:\n·เพิ่มความเสียหายของการโจมตีปกติ การชาร์จโจมตี และการโจมตีพุ่งลงจากอากาศขึ้น 1.39% ของพลังชีวิตสูงสุด\n·เพิ่มความเสียหายของ Stone Stele ของ <color=#FFD780FF>Dominus Lapidis</color>, ความเสียหายของการสอดประสาน และความเสียหายเมื่อ{LAYOUT_MOBILE#แตะค้าง}{LAYOUT_PC#กดค้าง}{LAYOUT_PS#กดค้าง}ขึ้น 1.9% ของพลังชีวิตสูงสุด\n·เพิ่มความเสียหายของ <color=#FFD780FF>Planet Befall</color> ขึ้น 33% ของพลังชีวิตสูงสุด",
+      "vi": "Sát thương gây ra bởi những đòn tấn công dưới đây của Zhongli sẽ tăng tùy theo giới hạn HP:\n·Lượng tăng sát thương của tấn công thường, trọng kích và tấn công khi đáp: 1.39% giới hạn HP\n·Lượng tăng sát thương của nhấn giữ, sát thương cộng hưởng và Vách Đá của <color=#FFD780FF>Tâm Trái Đất</color>: 1.9% giới hạn HP\n·Lượng tăng sát thương của <color=#FFD780FF>Thiên Tinh</color>: 33% giới hạn HP"
+    },
+    "imgid": "p_302201"
+  },
+  {
+    "title": {
+      "zhs": "晶石命理",
+      "zht": "晶石命理",
+      "jp": "結晶推命",
+      "ko": "수정석의 이치",
+      "en": "Arcanum of Crystal",
+      "de": "Verhängnis der Kristalle",
+      "es": "Cristal del destino",
+      "fr": "Cristal du destin",
+      "pt": "Cristal do Destino",
+      "ru": "Кристальная судьба",
+      "id": "Arcanum of Crystal",
+      "th": "Arcanum of Crystal",
+      "vi": "Mệnh Lý Tinh Thạch"
+    },
+    "description": {
+      "zhs": "锻造长柄武器时，返还15%消耗的矿石。",
+      "zht": "鍛造長柄武器時，歸還15%消耗的礦石。",
+      "jp": "長柄武器を鍛造する時、消費した鉱石の15%が返還される。",
+      "ko": "장병기 무기 단조 시 소모한 광석을 15% 반환한다",
+      "en": "Refunds 15% of the ore used when crafting Polearm-type weapons.",
+      "de": "Gibt beim Schmieden von Stangenwaffen 15 % des verbrauchten Erzes zurück.",
+      "es": "Recupera el 15% de los minerales utilizados en la fabricación de lanzas.",
+      "fr": "Lorsque vous forgez une arme d'hast, 15 % du minerai utilisé vous sera rendu.",
+      "pt": "Retorna 15% dos Minérios usados ao criar armas de tipo Lança.",
+      "ru": "При ковке древкового оружия возвращает 15% затраченной руды.",
+      "id": "Mengembalikan 15% jumlah Ore yang digunakan saat membuat senjata tipe Polearm.",
+      "th": "เมื่อสร้างอาวุธประเภทหอก จะได้รับแร่ที่ใช้ในการหลอมคืน 15%",
+      "vi": "Khi rèn vũ khí cán dài, hoàn trả 15% Khoáng Thạch tiêu hao."
+    },
+    "imgid": "p_302301"
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "title": {
+      "zhs": "普通攻击·神射手",
+      "zht": "普通攻擊·神射手",
+      "jp": "通常攻撃·一流射手",
+      "ko": "일반 공격·신궁",
+      "en": "Normal Attack: Sharpshooter",
+      "de": "Standardangriff: Scharfschütze",
+      "es": "Ataque Normal: Arquero divino",
+      "fr": "Attaque normale : Archerie revisitée",
+      "pt": "Ataque Normal: Pontaria",
+      "ru": "Первоклассный стрелок",
+      "id": "Normal Attack: Sharpshooter",
+      "th": "โจมตีปกติ - Sharpshooter",
+      "vi": "Tấn Công Thường: Xạ Thủ Thần"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>普通攻击</color>\n进行至多五段的连续弓箭射击。\n\n<color=#FFD780FF>重击</color>\n进行伤害更高、更为精准的<color=#FFD780FF>瞄准射击</color>。\n瞄准时，烈焰会在箭矢上持续积聚。聚满了烈焰的箭矢会造成<color=#FF9999FF>火元素伤害</color>。\n\n<color=#FFD780FF>下落攻击</color>\n从空中射出箭雨，并迅速下坠冲击地面，在落地时造成范围伤害。",
+      "zht": "<color=#FFD780FF>普通攻擊</color>\n進行至多五段的連續弓箭射擊。\n\n<color=#FFD780FF>重擊</color>\n進行傷害更高、更為精準的<color=#FFD780FF>瞄準射擊</color>。\n瞄準時，烈焰會在箭矢上持續積聚。聚滿了烈焰的箭矢會造成<color=#FF9999FF>火元素傷害</color>。\n\n<color=#FFD780FF>下落攻擊</color>\n從空中射出箭雨，並迅速下墜衝擊地面，在落地時造成範圍傷害。",
+      "jp": "<color=#FFD780FF>通常攻撃</color>\n最大5段の連続射撃を行う。\n\n<color=#FFD780FF>重撃</color>\nダメージがより高く、より精確な<color=#FFD780FF>狙い撃ち</color>を発動する。\n照準時、烈炎を矢先に凝集させ、烈炎に満ちた矢で敵に<color=#FF9999FF>炎元素ダメージ</color>を与える。\n\n<color=#FFD780FF>落下攻撃</color>\n空中から矢の雨を放ち、凄まじいスピードで落下し地面に衝撃を与え、落下時に範囲ダメージを与える。",
+      "ko": "<color=#FFD780FF>일반 공격</color>\n활로 최대 5번 공격한다.\n\n<color=#FFD780FF>강공격</color>\n피해가 더 크고 정확한 <color=#FFD780FF>조준 사격</color>을 한다.\n조준 시 뜨거운 화염이 화살 촉에 계속해서 모인다. 화염의 힘이 가득 찬 화살은 <color=#FF9999FF>불 원소 피해</color>를 준다.\n\n<color=#FFD780FF>낙하 공격</color>\n공중에서 화살비를 쏜 후 빠른 속도로 땅에 착지한다. 착지 시 범위 피해를 준다",
+      "en": "<color=#FFD780FF>Normal Attack</color>\nPerform up to 5 consecutive shots with a bow.\n\n<color=#FFD780FF>Charged Attack</color>\nPerform a more precise <color=#FFD780FF>Aimed Shot</color> with increased DMG.\nWhile aiming, flames will accumulate on the arrowhead. A fully charged flaming arrow will deal <color=#FF9999FF>Pyro DMG</color>.\n\n<color=#FFD780FF>Plunging Attack</color>\nFires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.",
+      "de": "<color=#FFD780FF>Standardangriff</color>\nFührt bis zu 5 Pfeilschüsse hintereinander aus.\n\n<color=#FFD780FF>Heftiger Schlag</color>\nFührt einen <color=#FFD780FF>gezielten Schuss</color> mit höherem Schaden und höherer Genauigkeit aus.\nKonzentriert die Flammen während des Zielens an der Pfeilspitze, die voll aufgeladen <color=#FF9999FF>Pyro-Schaden</color> verursacht.\n\n<color=#FFD780FF>Angriff aus dem Fall</color>\nSchießt in der Luft einen Pfeilregen ab, trifft schnell auf dem Boden auf und verursacht dort Flächenschaden.",
+      "es": "<color=#FFD780FF>Ataque Normal</color>\nRealiza hasta 5 disparos consecutivos con arco.\n\n<color=#FFD780FF>Ataque Cargado</color>\nRealiza un <color=#FFD780FF>Disparo Preciso</color> que inflige mayor daño y tiene mayor precisión.\nAl apuntar, se acumularán llamas en la punta de flecha. Una flecha en llamas totalmente cargada infligirá <color=#FF9999FF>Daño Pyro</color>.\n\n<color=#FFD780FF>Ataque Descendente</color>\nDispara una lluvia de flechas desde el aire mientras desciende rápidamente, infligiendo Daño en el AdE al impactar contra el suelo.",
+      "fr": "<color=#FFD780FF>Attaque normale</color>\nEnchaîne jusqu'à 5 tirs consécutifs.\n\n<color=#FFD780FF>Attaque chargée</color>\nEffectue un <color=#FFD780FF>tir visé</color> plus précis infligeant davantage de DGT.\nLors de la visée, la flèche se charge en élément Pyro, infligeant de considérables <color=#FF9999FF>DGT Pyro</color> quand elle est complètement chargée.\n\n<color=#FFD780FF>Attaque plongeante</color>\nTire une pluie de flèches depuis les airs et plonge au sol, infligeant des DGT de zone à l'impact.",
+      "pt": "<color=#FFD780FF>Ataque Normal</color>\nRealiza até 5 tiros consecutivos com um arco.\n\n<color=#FFD780FF>Ataque Carregado</color>\nDispara um <color=#FFD780FF>Tiro com Mira</color> mais preciso e com Dano aumentado.\nAo mirar, chamas irão se acumular na ponta da flecha. Uma flecha em chamas completamente carregada inflige <color=#FF9999FF>Dano Pyro</color>.\n\n<color=#FFD780FF>Ataque Imersivo</color>\nDispara uma chuva de flechas em pleno ar antes de atingir o chão, infligindo Dano em uma AdE durante o impacto.",
+      "ru": "<color=#FFD780FF>Обычная атака:</color>\nДо пяти выстрелов из лука.\n\n<color=#FFD780FF>Заряженная атака:</color>\nБолее меткий <color=#FFD780FF>прицельный выстрел</color> с увеличенным уроном.\nВо время прицеливания наконечник стрелы заряжается огнём. Полностью заряженная огнём стрела наносит <color=#FF9999FF>Пиро урон</color>.\n\n<color=#FFD780FF>Атака в падении:</color>\nВыпускает град стрел в воздухе, которые при приземлении персонажа наносят урон по площади.",
+      "id": "<color=#FFD780FF>Normal Attack</color>\nMelancarkan hingga 5 serangan berturut-turut menggunakan busur.\n\n<color=#FFD780FF>Charged Attack</color>\nMelancarkan sebuah <color=#FFD780FF>Serangan Membidik</color> yang lebih akurat untuk mengakibatkan DMG lebih besar.\nSaat membidik, api akan berkumpul di ujung anak panah. Panah dengan api yang terkumpul penuh akan mengakibatkan <color=#FF9999FF>Pyro DMG</color>.\n\n<color=#FFD780FF>Plunging Attack</color>\nMelancarkan hujan panah dari udara dan menerjang tanah dengan kecepatan tinggi, mengakibatkan DMG area saat mendarat.",
+      "th": "<color=#FFD780FF>โจมตีปกติ</color>\nยิงธนูโจมตีอย่างต่อเนื่องมากสุดห้าครั้ง\n\n<color=#FFD780FF>ชาร์จโจมตี</color>\nการ<color=#FFD780FF>เล็งโจมตี</color>สร้างความเสียหายเพิ่มขึ้น และแม่นยำยิ่งขึ้น\nเมื่อเล็งโจมตีจะทำการรวบรวมไฟ ไว้บนหัวลูกศรอย่างต่อเนื่อง ซึ่งลูกศรที่รวบรวมไฟเต็มที่แล้ว จะทำให้เกิด<color=#FF9999FF>ความเสียหายไฟ</color>\n\n<color=#FFD780FF>โจมตีพุ่งลงจากอากาศ</color>\nปล่อยฝนธนูจากกลางอากาศ และพุ่งลงมายังพื้นดินอย่างรวดเร็ว โดยจะสร้างความเสียหายวงกว้างเมื่อลงถึงพื้น",
+      "vi": "<color=#FFD780FF>Tấn Công Thường</color>\nThực hiện tối đa 5 lần bắn tên liên tiếp.\n\n<color=#FFD780FF>Trọng Kích</color>\nSát thương càng cao, <color=#FFD780FF>ngắm bắn</color> càng chuẩn.\nKhi ngắm bắn, ngọn lửa sẽ tích tụ trên mũi tên. Mũi tên đầy lửa sẽ gây <color=#FF9999FF>Sát Thương Nguyên Tố Hỏa</color>.\n\n<color=#FFD780FF>Tấn Công Khi Đáp</color>\nBắn mưa tên liên tiếp xuống mặt đất, gây sát thương phạm vi khi chạm đất."
+    },
+    "imgid": "s_213101"
+  },
+  {
+    "title": {
+      "zhs": "爆弹玩偶",
+      "zht": "爆彈玩偶",
+      "jp": "爆弾人形",
+      "ko": "폭탄 인형",
+      "en": "Explosive Puppet",
+      "de": "Sprengpuppe",
+      "es": "Marioneta explosiva",
+      "fr": "Poupée explosive",
+      "pt": "Marionete Explosiva",
+      "ru": "Барон Зайчик",
+      "id": "Explosive Puppet",
+      "th": "Explosive Puppet",
+      "vi": "Con Rối Nổ"
+    },
+    "description": {
+      "zhs": "请可靠的兔兔伯爵上阵。\n\n<color=#FFD780FF>兔兔伯爵</color>\n·持续嘲讽周围的敌人，吸引火力；\n·耐久度按比例继承安柏的生命值上限；\n·被摧毁或持续时间结束时，会发生剧烈的爆炸，造成<color=#FF9999FF>火元素范围伤害</color>。\n\n<color=#FFD780FF>长按</color>\n调整投掷方向。\n投掷距离随长按时间增加。\n\n<i>兔兔伯爵有着悠久的家系。但从兔兔八百九十三世开始，安柏就停止计数了。</i>",
+      "zht": "請可靠的兔兔伯爵上陣。\n\n<color=#FFD780FF>兔兔伯爵</color>\n·持續嘲諷周圍的敵人，吸引火力；\n·耐久度按比例繼承安柏的生命值上限；\n·被摧毀或持續時間結束時，會發生劇烈的爆炸，造成<color=#FF9999FF>火元素範圍傷害</color>。\n\n<color=#FFD780FF>長按</color>\n調整投擲方向。\n投擲距離隨長按時間增加。\n\n<i>兔兔伯爵有著悠久的家系。但從兔兔八百九十三世開始，安柏就停止計數了。</i>",
+      "jp": "頼もしいウサギ伯爵の出番。\n\n<color=#FFD780FF>ウサギ伯爵</color>\n·持続的に周囲の敵を挑発し、攻撃を引き付ける。\n·耐久度はアンバーのHP上限によって決まる。\n·破壊された時または継続時間が終了した時に爆発し、<color=#FF9999FF>炎元素範囲ダメージ</color>を与える。\n\n<color=#FFD780FF>長押し</color>\n投擲方向を調整できる。\n投擲距離は長押しする時間によって増加する。\n\n<i>ウサギ伯爵の家系には長い歴史があるが、ウサギ893世からアンバーは数えるのをやめた。</i>",
+      "ko": "믿음직한 토끼 백작을 전장에 모신다.\n\n<color=#FFD780FF>토끼 백작</color>\n·주변의 적을 도발하여 공격을 유도한다.\n·토끼 백작은 엠버의 HP 최대치를 일정 비율 계승한다.\n·파괴당하거나 지속 시간이 끝나면 폭발하여 <color=#FF9999FF>불 원소 범위 피해</color>를 준다.\n\n<color=#FFD780FF>홀드</color>\n던지는 방향을 조정한다.\n투척 거리는 누르는 시간에 따라 늘어난다.\n\n<i>토끼 백작은 집안 대대로 이어 온 계보가 있다. 하지만 토끼 백작 893세부터 엠버는 숫자를 세는 걸 포기했다</i>",
+      "en": "The ever-reliable Baron Bunny takes the stage.\n\n<color=#FFD780FF>Baron Bunny</color>\n·Continuously taunts the enemy, drawing their fire.\n·Baron Bunny's HP scales with Amber's Max HP.\n·When destroyed or when its timer expires, Baron Bunny explodes, dealing <color=#FF9999FF>AoE Pyro DMG</color>.\n\n<color=#FFD780FF>Hold</color>\nAdjusts the throwing direction of Baron Bunny.\nThe longer the button is held, the further the throw.\n\n<i>Baron Bunny hails from a storied lineage, but Amber has stopped keeping count since Baron Bunny the 893rd.</i>",
+      "de": "Ruft den zuverlässigen Grafen von Hoppel aufs Feld.\n\n<color=#FFD780FF>Graf von Hoppel</color>\n· Verspottet Gegner in der Umgebung fortlaufend und zieht ihre Angriffe auf sich.\n· Beständigkeit hängt von Ambers max. LP ab.\n· Explodiert bei Zerstörung oder Ablauf der Dauer und verursacht <color=#FF9999FF>Pyro-Flächenschaden</color>.\n\n<color=#FFD780FF>Gedrückt halten</color>\nAnpassung der Wurfrichtung.\nWurfweite erhöht sich mit der Dauer des Gedrückthaltens.\n\n<i>Graf von Hoppel ist der Abkömmling eines alten Adelsgeschlechts. Nach dem Tod des Grafen von Hoppel DCCCXCIII. hat Amber aber aufgehört zu zählen.</i>",
+      "es": "El fiel Barón Bunny aparece en escena.\n\n<color=#FFD780FF>Barón Bunny</color>:\n·Se burla de los enemigos cercanos para atraer su atención.\n·La Vida Máx. de Barón Bunny aumenta en proporción a la Vida de Amber.\n·Cuando es destruido o su temporizador llega a cero, Barón Bunny explota, infligiendo <color=#FF9999FF>Daño Pyro en el AdE</color>.\n\n<color=#FFD780FF>Mantener pulsado</color>\nAjusta la dirección de lanzamiento de Barón Bunny. Cuanto más tiempo mantengas apretado, más lejos se lanzará.\n\n<i>Barón Bunny proviene de un gran linaje histórico. De hecho, Amber dejó de contar los antepasados de Barón Bunny a partir del n.º 893.</i>",
+      "fr": "Le fidèle Baron Lapinou est déployé sur le terrain.\n\n<color=#FFD780FF>Baron Lapinou</color>\n· Le Baron nargue les ennemis proches et attire leur attention.\n· Ses PV sont proportionnels aux PV max d'Amber.\n· Le Baron explose à la fin ou s'il est détruit entre temps, et inflige des <color=#FF9999FF>DGT Pyro de zone</color>.\n\n<color=#FFD780FF>Appui long</color>\nAjuste la direction du jet.\nAjuste la portée du jet.\n\n<i>La lignée de Baron Lapinou est impressionnante, mais Amber a décidé d'arrêter de compter à partir du 893e Baron Lapinou.</i>",
+      "pt": "O sempre tão confiável Barão Coelho sobe ao palco.\n\n<color=#FFD780FF>Barão Coelho</color>\nContinuamente provoca o inimigo, atraindo seus golpes.\nA vida do Barão Coelho aumenta com a Vida máxima de Amber.\nQuando destruído ou quando o tempo expirar, Barão Coelho explode, infligindo <color=#FF9999FF>Dano Pyro em uma AdE</color>.\n\n<color=#FFD780FF>Manter pressionado</color>\nAjusta a direção do lançamento do Barão Coelho.\nQuanto mais tempo o botão for pressionado, mais distante é o lançamento.\n\n<i>Barão Coelho provém de uma histórica linhagem, mas Amber decidiu parar de contar desde o Barão Coelho 893.</i>",
+      "ru": "На Барона Зайчика всегда можно положиться.\n\n<color=#FFD780FF>Барон Зайчик:</color>\n· Непрерывно дразнит врагов, привлекая их огонь на себя;\n· Макс. HP Барона Зайчика зависит от макс. HP Эмбер;\n· Если Барон Зайчик уничтожен, либо его время заканчивается, он взрывается, нанося <color=#FF9999FF>Пиро урон по площади</color>.\n\n<color=#FFD780FF>Долгое нажатие:</color>\nПозволяет выбрать направление броска.\nЧем дольше удерживать кнопку, тем дальше будет бросок.\n\n<i>Барон Зайчик - наследник величественной и весьма запутанной родословной. Насколько запутанной? Эмбер смогла досчитать только до барона Зайчика 893-го, героически пожертвовавшего собой в бою.</i>",
+      "id": "Serahkan kepada Baron Bunny yang selalu dapat diandalkan.\n\n<color=#FFD780FF>Baron Bunny</color>\n·Terus mengejek musuh untuk mengalihkan serangan mereka.\n·HP Baron Bunny mewarisi Max HP Amber berdasarkan persentase tertentu.\n·Saat meledak atau saat durasi skill habis, Baron Bunny meledak dan mengakibatkan <color=#FF9999FF>Pyro DMG area</color>.\n\n<color=#FFD780FF>Tahan</color>\nAtur arah lemparan Baron Bunny.\nSemakin lama tombolnya ditahan, semakin jauh lemparannya.\n\n<i>Baron Bunny datang dari keluarga dengan garis keturunan yang sangat panjang, tapi Amber sudah berhenti menghitungnya sejak Baron Bunny ke-893.</i>",
+      "th": "#โปรดวางใจให้ Baron Bunny เข้าร่วมการต่อสู้\n\n<color=#FFD780FF>Baron Bunny</color>\n·จะยั่วยุศัตรูโดยรอบและดึงดูดการโจมตีทั้งหมด;\n·อัตราส่วนความทนทานจะขึ้นกับ พลังชีวิตสูงสุดของ Amber\n·เมื่อถูกทำลายหรือหมดเวลา จะระเบิดอย่างรุนแรงสร้าง <color=#FF9999FF>ความเสียหายไฟวงกว้าง</color>\n\n<color=#FFD780FF>{LAYOUT_MOBILE#แตะค้าง}{LAYOUT_PC#กดค้าง}{LAYOUT_PS#กดค้าง}</color>\nปรับตำแหน่งที่วาง\nระยะของการวางจะขึ้นอยู่กับช่วงเวลา ของการ{LAYOUT_MOBILE#แตะค้าง}{LAYOUT_PC#กดค้าง}{LAYOUT_PS#กดค้าง}\n\n<i>Baron Bunny นั้นมีประวัติศาสตร์ครอบครัวที่ยาวนาน แต่นับจากปี 893 เป็นต้นมานั้น Amber ก็ได้เลิกนับไปเรียบร้อยแล้ว</i>",
+      "vi": "Mời Bá Tước Thỏ ra trận.\n\n<color=#FFD780FF>Bá Tước Thỏ</color>\n·Khiêu khích địch xung quanh, thu hút hỏa lực;\n·Độ bền sẽ kế thừa giới hạn HP của Amber theo tỷ lệ nhất định;\n·Nếu bị hủy diệt hoặc hết thời gian, Bá Tước Thỏ sẽ nổ, gây <color=#FF9999FF>Sát Thương Phạm Vi Nguyên Tố Hỏa</color>.\n\n<color=#FFD780FF>Nhấn Giữ</color>\nĐiều chỉnh hướng ném.\nKhoảng cách ném sẽ tăng theo thời gian nhấn giữ.\n\n<i>Bá tước thỏ có dòng dõi lâu đời. Nhưng bắt đầu từ đời thỏ thứ 893, Amber đã ngừng tính số.</i>"
+    },
+    "imgid": "s_213201"
+  },
+  {
+    "title": {
+      "zhs": "箭雨",
+      "zht": "箭雨",
+      "jp": "矢の雨",
+      "ko": "화살비",
+      "en": "Fiery Rain",
+      "de": "Pfeilregen",
+      "es": "Lluvia ardiente",
+      "fr": "Pluie de flèches",
+      "pt": "Chuva Ardente",
+      "ru": "Огненный дождь",
+      "id": "Fiery Rain",
+      "th": "Fiery Rain",
+      "vi": "Mưa Tên"
+    },
+    "description": {
+      "zhs": "射出火焰箭雨，持续造成<color=#FF9999FF>火元素范围伤害</color>。\n\n<i>满心热诚的安柏真的很热。</i>",
+      "zht": "射出火焰箭雨，持續造成<color=#FF9999FF>火元素範圍傷害</color>。\n\n<i>滿心熱誠的安柏真的很熱。</i>",
+      "jp": "前方に炎の矢の雨を放ち、<color=#FF9999FF>炎元素範囲ダメージ</color>を持続的に与える。\n\n<i>情熱的なアンバーは本当に熱い。</i>",
+      "ko": "전방에 화염 화살비를 쏴 적에게 <color=#FF9999FF>불 원소 범위 피해</color>를 계속 준다.\n\n<i>정열적인 엠버는 정말로 뜨겁다</i>",
+      "en": "Fires off a shower of arrows, dealing continuous <color=#FF9999FF>AoE Pyro DMG</color>.\n\n<i>Amber's passion truly burns hot.</i>",
+      "de": "Lässt einen Feuerpfeilregen fallen, der fortlaufend <color=#FF9999FF>Pyro-Flächenschaden</color> verursacht.\n\n<i>Amber ist voller feuriger Leidenschaft bei allem, was sie tut.</i>",
+      "es": "Dispara una lluvia de flechas, infligiendo <color=#FF9999FF>Daño Pyro en el AdE</color> continuo.\n\n<i>La pasión de Amber arde como el fuego.</i>",
+      "fr": "Tire une pluie de flèches qui inflige des <color=#FF9999FF>DGT Pyro continus</color>.\n\n<i>Amber est une fille chaleureuse et pleine de passion.</i>",
+      "pt": "Dispara uma chuva de flechas, causando <color=#FF9999FF>Dano em uma AdE Pyro</color> contínuo.\n\n<i>A paixão de Amber arde como o fogo.</i>",
+      "ru": "Эмбер выпускает град огненных стрел, который наносит периодический <color=#FF9999FF>Пиро урон по площади</color>.\n\n<i>Говорят, что Эмбер полна горящей страсти, поэтому будьте осторожны, иначе она сожжёт и вас.</i>",
+      "id": "Menembakkan hujan panah yang mengakibatkan <color=#FF9999FF>Pyro DMG area</color>.\n\n<i>Semangat Amber benar-benar membara.</i>",
+      "th": "ยิงธนูไฟออกไป สร้าง <color=#FF9999FF>ความเสียหายไฟวงกว้าง</color>อย่างต่อเนื่อง\n\n<i>ว่ากันว่า Amber นั้นเป็นเด็กหญิง ที่มาพร้อมกับเจตนารมณ์อันร้อนแรง</i>",
+      "vi": "Bắn ra cơn mưa tên lửa, duy trì gây <color=#FF9999FF>Sát Thương Phạm Vi Nguyên Tố Hỏa</color>.\n\n<i>Trái tim tràn đầy nhiệt huyết của Amber thật sự nóng bỏng.</i>"
+    },
+    "imgid": "s_213901"
+  },
+  {
+    "title": {
+      "zhs": "百发百中！",
+      "zht": "百發百中！",
+      "jp": "百発百中！",
+      "ko": "백발백중!",
+      "en": "Every Arrow Finds Its Target",
+      "de": "Jeder Schuss ein Treffer!",
+      "es": "¡Puntería final!",
+      "fr": "Dans le mille !",
+      "pt": "Ninguém consegue fugir do meu campo de visão!",
+      "ru": "Сто стрел - все в цель!",
+      "id": "Every Arrow Finds Its Target",
+      "th": "Every Arrow Finds Its Target!",
+      "vi": "Bách Phát Bách Trúng!"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>箭雨</color>的暴击率提高10%，影响范围扩大30%。",
+      "zht": "<color=#FFD780FF>箭雨</color>的暴擊率提高10%，影響範圍擴大30%。",
+      "jp": "<color=#FFD780FF>矢の雨</color>の会心率+10%、影響範囲+30%。",
+      "ko": "<color=#FFD780FF>화살비</color>의 치명타 확률이 10% 증가하고 영향 범위가 30% 확대된다",
+      "en": "Increases the CRIT Rate of <color=#FFD780FF>Fiery Rain</color> by 10% and widens its AoE by 30%.",
+      "de": "Erhöht die KT von <color=#FFD780FF>Pfeilregen</color> um 10 % und vergrößert den Wirkungsbereich um 30 %.",
+      "es": "La Prob. CRIT de <color=#FFD780FF>Lluvia ardiente</color> aumenta en un 10%, y su AdE se expande en un 30%.",
+      "fr": "Augmente le taux CRIT de <color=#FFD780FF>Pluie de flèches</color> de 10 % et la zone d'effet de 30 %.",
+      "pt": "Aumenta a Taxa Crítica da <color=#FFD780FF>Chuva Ardente</color> em 10% e expande a AdE em 30%.",
+      "ru": "Шанс критического попадания навыка <color=#FFD780FF>Огненный дождь</color> увеличивается на 10%, а его зона поражения - на 30%.",
+      "id": "Meningkatkan 10% CRIT Rate skill<color=#FFD780FF>Fiery Rain</color> dan memperluas area skill tersebut sebesar 30%.",
+      "th": "เพิ่มอัตราคริของ <color=#FFD780FF>Fiery Rain</color> ขึ้น 10% และเพิ่มพื้นที่ที่ได้รับผลขึ้น 30%",
+      "vi": "Tỷ lệ bạo kích <color=#FFD780FF>Mưa Tên</color> tăng 10%, phạm vi ảnh hưởng tăng 30%."
+    },
+    "imgid": "p_212101"
+  },
+  {
+    "title": {
+      "zhs": "压制射击",
+      "zht": "壓制射擊",
+      "jp": "制圧射撃",
+      "ko": "제압 사격",
+      "en": "Precise Shot",
+      "de": "Arbeit unter Druck",
+      "es": "Flecha precisa",
+      "fr": "Tir précis",
+      "pt": "Disparo Preciso",
+      "ru": "Подавляющий огонь",
+      "id": "Precise Shot",
+      "th": "Precise Shot",
+      "vi": "Bắn Áp Chế"
+    },
+    "description": {
+      "zhs": "瞄准射击命中弱点时，攻击力提高15%，持续10秒。",
+      "zht": "瞄準射擊命中弱點時，攻擊力提高15%，持續10秒。",
+      "jp": "狙い撃ちが弱点に命中すると、攻撃力+15%、継続時間10秒。",
+      "ko": "조준 사격이 약점에 명중하면 공격력이 15% 증가한다. 지속 시간: 10초",
+      "en": "Aimed Shot hits on weak points increase ATK by 15% for 10s.",
+      "de": "Erhöht den ANG beim Treffen von Schwachstellen mit gezielten Schüssen 10 s lang um 15 %.",
+      "es": "Al infligir daño en los puntos débiles del enemigo usando Disparo Preciso, el ATQ aumenta en un 15% durante 10 s.",
+      "fr": "L'ATQ augmente de 15 % pendant 10 s lorsque le tir visé touche un point faible.",
+      "pt": "Disparos com Mira em pontos fracos aumentam o ATQ em 15% por 10s.",
+      "ru": "Прицельные выстрелы по уязвимым местам противника увеличивают силу атаки на 15% на 10 сек.",
+      "id": "Meningkatkan 15% ATK selama 10 detik saat Serangan Membidik mengenai titik lemah musuh.",
+      "th": "เมื่อเล็งโจมตีโดนจุดอ่อนของเป้าหมาย พลังโจมตีจะเพิ่มขึ้น 15% เป็นเวลา 10 วินาที",
+      "vi": "Khi ngắm bắn trúng nhược điểm, tấn công tăng 15%, kéo dài 10s."
+    },
+    "imgid": "p_212201"
+  },
+  {
+    "title": {
+      "zhs": "飞行冠军",
+      "zht": "飛行冠軍",
+      "jp": "飛行チャンピオン",
+      "ko": "비행 챔피언",
+      "en": "Gliding Champion",
+      "de": "Flugmeister",
+      "es": "Campeona de vuelo",
+      "fr": "Championne de planage",
+      "pt": "Campeã Voadora",
+      "ru": "Чемпион Полётов",
+      "id": "Gliding Champion",
+      "th": "Gliding Champion",
+      "vi": "Quán Quân Bay Lượn"
+    },
+    "description": {
+      "zhs": "队伍中自己的角色滑翔消耗的体力降低20%。\n无法与效果完全相同的固有天赋叠加。",
+      "zht": "隊伍中自己的角色滑翔消耗的體力降低20%。\n無法與效果完全相同的固有天賦疊加。",
+      "jp": "チーム内の自身のキャラクター全員が滑翔に消費するスタミナ-20%。\n同じ効果を持つ固有天賦との重ね掛け不可。",
+      "ko": "파티 내 자신의 캐릭터의 활강 시 소모하는 스태미나가 20% 감소한다.\n같은 효과의 고유 특성과 중첩되지 않는다",
+      "en": "Decreases gliding Stamina consumption for your own party members by 20%.\nNot stackable with Passive Talents that provide the exact same effects.",
+      "de": "Verringert die beim Gleiten verbrauchte Ausdauer aller eigenen Truppenmitglieder um 20 %.\nNicht mit passiven Talenten mit völlig gleichen Effekten stapelbar.",
+      "es": "Disminuye en un 20% el Coste de Aguante al planear de todos los miembros de tu equipo.\nNo se puede acumular con otros talentos pasivos que tengan los mismos efectos.",
+      "fr": "Réduit la consommation d'endurance de vos personnages dans l'équipe de 20 % lors du planage.\nNe peut pas être cumulé avec d'autres aptitudes passives aux effets identiques.",
+      "pt": "Diminui o consumo de Stamina ao Planar de todos os seus personagens em 20%.\nNão acumulável com Talentos Passivos que concedem exatamente os mesmos efeitos.",
+      "ru": "Уменьшает потребление выносливости активного персонажа во время полёта на 20%.\nНе суммируется с пассивными талантами, дающими точно такие же эффекты.",
+      "id": "Mengurangi 20% konsumsi Stamina karakter sendiri saat terbang.\nEfek tidak dapat ditumpuk dengan Talenta Pasif lain yang memiliki efek yang sama.",
+      "th": "ลดอัตราการเสียพลังกายจากการร่อนเวหา ให้ตัวละครของตนเองที่อยู่ในทีมลง 20%\nไม่สามารถซ้อนทับพรสวรรค์ติดตัวที่เอฟเฟกต์เหมือนกันทุกประการได้",
+      "vi": "Giảm 20% tiêu hao thể lực nhân vật của bản thân trong đội khi bay lượn.\nĐối với buff Thiên Phú cố định có hiệu quả hoàn toàn giống sẽ không thể cộng dồn."
+    },
+    "imgid": "p_212301"
+  }
+]

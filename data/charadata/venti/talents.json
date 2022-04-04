@@ -1,0 +1,200 @@
+[
+  {
+    "title": {
+      "zhs": "普通攻击·神代射术",
+      "zht": "普通攻擊·神代射術",
+      "jp": "通常攻撃·神代の射術",
+      "ko": "일반 공격·신성한 사격술",
+      "en": "Normal Attack: Divine Marksmanship",
+      "de": "Standardangriff: Göttliche Schießkunst",
+      "es": "Ataque Normal: Puntería divina",
+      "fr": "Attaque normale : Archerie divine",
+      "pt": "Ataque Normal: Tiro com Arco Divino",
+      "ru": "Божественная точность",
+      "id": "Divine Marksmanship",
+      "th": "โจมตีปกติ - Divine Marksmanship",
+      "vi": "Tấn Công Thường: Xạ Thuật Của Thần"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>普通攻击</color>\n进行至多六段的连续弓箭射击。\n\n<color=#FFD780FF>重击</color>\n进行伤害更高、更为精准的<color=#FFD780FF>瞄准射击</color>。\n瞄准时，眷顾天地的风会在箭矢上持续积聚。聚满了风之力的箭矢会造成<color=#80FFD7FF>风元素伤害</color>。\n\n<color=#FFD780FF>下落攻击</color>\n从空中射出箭雨，并迅速下坠冲击地面，在落地时造成范围伤害。",
+      "zht": "<color=#FFD780FF>普通攻擊</color>\n進行至多六段的連續弓箭射擊。\n\n<color=#FFD780FF>重擊</color>\n進行傷害更高、更為精準的<color=#FFD780FF>瞄準射擊</color>。\n瞄準時，眷顧天地的風會在箭矢上持續匯聚。聚滿了風之力的箭矢會造成<color=#80FFD7FF>風元素傷害</color>。\n\n<color=#FFD780FF>下落攻擊</color>\n從空中射出箭雨，並迅速下墜衝擊地面，在落地時造成範圍傷害。",
+      "jp": "<color=#FFD780FF>通常攻撃</color>\n最大6段の連続射撃を行う。\n\n<color=#FFD780FF>重撃</color>\nダメージがより高く、より精確な<color=#FFD780FF>狙い撃ち</color>を発動する。\n照準時、天地の風を矢先に凝集させ、風の力に満ちた矢で敵に<color=#80FFD7FF>風元素ダメージ</color>を与える。\n\n<color=#FFD780FF>落下攻撃</color>\n空中から矢の雨を放ち、凄まじいスピードで落下し地面に衝撃を与え、落下時に範囲ダメージを与える。",
+      "ko": "<color=#FFD780FF>일반 공격</color>\n활로 최대 6번 공격한다.\n\n<color=#FFD780FF>강공격</color>\n피해가 더 크고 정확한 <color=#FFD780FF>조준 사격</color>을 한다.\n조준 시 천지를 보살피는 바람이 화살 촉에 계속해서 모인다. 바람의 힘이 가득 찬 화살은 <color=#80FFD7FF>바람 원소 피해</color>를 준다.\n\n<color=#FFD780FF>낙하 공격</color>\n공중에서 화살비를 쏜 후 빠른 속도로 땅에 착지한다. 땅에 닿으면 범위 피해를 준다",
+      "en": "<color=#FFD780FF>Normal Attack</color>\nPerform up to 6 consecutive shots with a bow.\n\n<color=#FFD780FF>Charged Attack</color>\nPerform a more precise <color=#FFD780FF>Aimed Shot</color> with increased DMG.\nWhile aiming, favorable winds will accumulate on the arrowhead. A fully charged wind arrow will deal <color=#80FFD7FF>Anemo DMG</color>.\n\n<color=#FFD780FF>Plunging Attack</color>\nFires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.",
+      "de": "<color=#FFD780FF>Standardangriff</color>\nFührt bis zu 6 Pfeilschüsse hintereinander aus.\n\n<color=#FFD780FF>Heftiger Schlag</color>\nFührt einen <color=#FFD780FF>gezielten Schuss</color> mit höherem Schaden und höherer Genauigkeit aus.\nKonzentriert den die Welt schützenden Wind während des Zielens an der Pfeilspitze, die voll aufgeladen <color=#80FFD7FF>Anemo-Schaden</color> verursacht.\n\n<color=#FFD780FF>Angriff aus dem Fall</color>\nSchießt in der Luft einen Pfeilregen ab, trifft schnell auf dem Boden auf und verursacht dort Flächenschaden.",
+      "es": "<color=#FFD780FF>Ataque Normal</color>\nRealiza hasta 6 disparos consecutivos con arco.\n\n<color=#FFD780FF>Ataque Cargado</color>\nRealiza un <color=#FFD780FF>Disparo Preciso</color> que inflige mayor daño y tiene mayor precisión.\nAl apuntar, se acumularán vientos favorables en la punta de la flecha. Una flecha totalmente cargada con la fuerza del viento infligirá <color=#80FFD7FF>Daño Anemo</color>.\n\n<color=#FFD780FF>Ataque Descendente</color>\nDispara una lluvia de flechas desde el aire mientras desciende rápidamente, infligiendo Daño en el AdE al impactar contra el suelo.",
+      "fr": "<color=#FFD780FF>Attaque normale</color>\nEnchaîne jusqu'à 6 tirs consécutifs.\n\n<color=#FFD780FF>Attaque chargée</color>\nEffectue un <color=#FFD780FF>tir visé</color> plus précis infligeant davantage de DGT.\nLors de la visée, la flèche se charge en élément Anémo, infligeant de considérables <color=#80FFD7FF>DGT Anémo</color> quand elle est complètement chargée.\n\n<color=#FFD780FF>Attaque plongeante</color>\nTire une pluie de flèches depuis les airs et plonge au sol, infligeant des DGT de zone à l'impact.",
+      "pt": "<color=#FFD780FF>Ataque Normal</color>\nRealiza até 6 tiros consecutivos com o arco.\n\n<color=#FFD780FF>Ataque Carregado</color>\nRealiza um <color=#FFD780FF>Tiro com Mira</color> mais preciso com Dano aumentado.\nEnquanto estiver mirando, ventos favoráveis irão se acumular na ponta da flecha. Uma flecha completamente carregada com o vento irá infligir <color=#80FFD7FF>Dano Anemo</color>.\n\n<color=#FFD780FF>Ataque Imersivo</color>\nDispara uma chuva de flechas em pleno ar antes de atingir o chão, infligindo Dano em uma AdE durante o impacto.",
+      "ru": "<color=#FFD780FF>Обычная атака:</color>\nДо шести выстрелов из лука.\n\n<color=#FFD780FF>Заряженная атака:</color>\nБолее меткий <color=#FFD780FF>прицельный выстрел</color> с увеличенным уроном.\nВо время прицеливания наконечник стрелы заряжается божественным ветром. Полностью заряженная ветром стрела наносит <color=#80FFD7FF>Анемо урон</color>.\n\n<color=#FFD780FF>Атака в падении:</color>\nВыпускает град стрел в воздухе, которые при приземлении персонажа наносят урон по площади.",
+      "id": "<color=#FFD780FF>Normal Attack</color>\nMelancarkan hingga 6 tembakan panah berturut-turut menggunakan busur.\n\n<color=#FFD780FF>Charged Attack</color>\nMelancarkan sebuah <color=#FFD780FF>Serangan Membidik</color> yang lebih akurat untuk mengakibatkan DMG yang lebih besar.\nSaat membidik, angin akan berkumpul di ujung anak panah. Panah dengan angin yang terkumpul penuh akan mengakibatkan <color=#80FFD7FF>Anemo DMG</color>.\n\n<color=#FFD780FF>Plunging Attack</color>\nMelancarkan hujan panah dari udara dan menerjang tanah dengan kecepatan tinggi, mengakibatkan DMG Area saat mendarat.",
+      "th": "<color=#FFD780FF>โจมตีปกติ</color>\nยิงธนูโจมตีอย่างต่อเนื่องมากสุดหกครั้ง\n\n<color=#FFD780FF>ชาร์จโจมตี</color>\nการ<color=#FFD780FF>เล็งโจมตี</color>แม่นยำยิ่งขึ้น และสร้างความเสียหายเพิ่มขึ้น\nเมื่อเล็งโจมตี สายลมแห่งความโปรดปรานจะถูกรวบรวมอยู่ตรงหัวของลูกศร ซึ่งลูกศรที่รวบรวมลมเต็มที่แล้ว จะทำให้เกิด<color=#80FFD7FF>ความเสียหายลม</color>\n\n<color=#FFD780FF>โจมตีพุ่งลงจากอากาศ</color>\nปล่อยฝนธนูจากกลางอากาศ และพุ่งลงมายังพื้นดินอย่างรวดเร็ว โดยจะสร้างความเสียหายวงกว้างเมื่อลงถึงพื้น",
+      "vi": "<color=#FFD780FF>Tấn Công Thường</color>\nThực hiện tối đa 6 lần bắn tên liên tiếp.\n\n<color=#FFD780FF>Trọng Kích</color>\nTiến hành <color=#FFD780FF>ngắm bắn</color> chuẩn hơn, có sát thương cao hơn.\nKhi ngắm bắn, gió sẽ tích tụ trên mũi tên. Mũi tên đầy gió sẽ gây <color=#80FFD7FF>Sát Thương Nguyên Tố Phong</color>.\n\n<color=#FFD780FF>Tấn Công Khi Đáp</color>\nBắn mưa tên liên tiếp xuống mặt đất, gây sát thương phạm vi khi chạm đất."
+    },
+    "imgid": "s_223101"
+  },
+  {
+    "title": {
+      "zhs": "高天之歌",
+      "zht": "高天之歌",
+      "jp": "高天の歌",
+      "ko": "높은 하늘의 노래",
+      "en": "Skyward Sonnet",
+      "de": "Sonett vom Himmel",
+      "es": "Sonata celestial",
+      "fr": "Sonnet des Vents célestes",
+      "pt": "Sonata Celestial",
+      "ru": "Небесная поэзия",
+      "id": "Skyward Sonnet",
+      "th": "Skyward Sonnet",
+      "vi": "Bài Ca Trời Cao"
+    },
+    "description": {
+      "zhs": "呼唤与诗和乐协鸣的风，将在尘泥中行走的事物送上高空吧。\n\n<color=#FFD780FF>点按</color>\n在敌人所在的位置唤出风域，造成<color=#80FFD7FF>风元素范围伤害</color>，并击飞其中的敌人。\n\n<color=#FFD780FF>长按</color>\n以自身为中心，唤出更大的风域，造成<color=#80FFD7FF>风元素范围伤害</color>，并击飞其中的敌人。\n长按施放后，温迪会乘风飞到空中。\n\n被高天之歌击飞的敌人，在短时间内会缓慢坠落。\n\n<i>在人与神还同行于大地的时代，无数的歌曲传遍四方的天空。这是早已被遗忘的曲调。</i>",
+      "zht": "呼喚與詩和樂協鳴的風，將在塵泥中行走的事物送上高空吧。\n\n<color=#FFD780FF>點按</color>\n在敵人所在的位置喚出風域，造成<color=#80FFD7FF>風元素範圍傷害</color>，並擊飛其中的敵人。\n\n<color=#FFD780FF>長按</color>\n以自身為中心，喚出更大的風域，造成<color=#80FFD7FF>風元素範圍傷害</color>，並擊飛其中的敵人。\n長按施放後，溫迪會乘風飛到空中。\n\n被高天之歌擊飛的敵人，在短時間內會緩慢墜落。\n\n<i>在人與神還同行於大地的時代，無數的歌曲傳遍四方的天空。這是早已被遺忘的曲調。</i>",
+      "jp": "詩を奏でる風を呼び、塵泥の中を歩くものを高空まで届ける。\n\n<color=#FFD780FF>一回押し</color>\n目標の足もとに風域を召喚し、<color=#80FFD7FF>風元素範囲ダメージ</color>を与え、敵をノックバックする。\n\n<color=#FFD780FF>長押し</color>\n自身を中心に更に大きい風域を召喚し、<color=#80FFD7FF>風元素範囲ダメージ</color>を与え、敵をノックバックする。\n長押しで発動した後、ウェンティは風に乗り空中へ飛ぶ。\n高天の歌にノックバックされた敵はゆっくりと落下する。\n\n<i>人と神がまだ共に大地にいた時代、無数の歌が四方の空に伝わっていた。それらはすでに忘れ去られた曲である。</i>",
+      "ko": "시와 노래와 함께 울려 퍼지는 바람을 소환해 흙먼지 위를 걷는 사물을 높은 하늘로 띄워보자.\n\n<color=#FFD780FF>짧은 터치</color>\n적이 있는 위치에 바람의 영역을 소환해 <color=#80FFD7FF>바람 원소 범위 피해</color>를 주고 적을 공중에 띄운다.\n\n<color=#FFD780FF>홀드</color>\n자신을 중심으로 더 큰 바람의 영역을 만들어내 <color=#80FFD7FF>바람 원소 범위 피해</color>를 주고 적을 공중에 띄운다.\n홀드하여 발동한 뒤 벤티는 바람을 타고 공중에 떠오른다.\n\n공중에 띄워진 적은 짧은 시간 내에 천천히 추락한다.\n\n<i>사람과 신이 함께했던 시대에 수많은 노래가 사방으로 울려 퍼졌다. 이건 이미 오래전에 잊혀진 멜로디이다</i>",
+      "en": "#O wind upon which all hymns and songs fly, bear these earth-walkers up into the sky!\n\n<color=#FFD780FF>{LAYOUT_MOBILE#Tap}{LAYOUT_PC#Press}{LAYOUT_PS#Press}</color>\nSummons a Wind Domain at the opponent's location, dealing <color=#80FFD7FF>AoE Anemo DMG</color> and launching opponents into the air.\n\n<color=#FFD780FF>Hold</color>\nSummons an even larger Wind Domain with Venti as the epicenter, dealing <color=#80FFD7FF>AoE Anemo DMG</color> and launching affected opponents into the air.\nAfter unleashing the Hold version of this ability, Venti rides the wind into the air.\n\nOpponents hit by Skyward Sonnet will fall to the ground slowly.\n\n<i>In the days when gods and men walked the earth together, the heavens were filled with countless songs. This melody has long since been forgotten.</i>",
+      "de": "Beschwört einen Wind, der den Klängen und Liedern folgt und Dinge, die sonst fest auf dem Boden verankert sind, in die Luft reißt.\n\n<color=#FFD780FF>Drücken</color>\nErschafft dort, wo sich Gegner befinden, einen Sturm, der <color=#80FFD7FF>Anemo-Flächenschaden</color> verursacht und die betroffenen Gegner wegschleudert.\n\n<color=#FFD780FF>Gedrückt halten</color>\nErschafft einen größeren Sturm um Venti, der <color=#80FFD7FF>Anemo-Flächenschaden</color> verursacht und betroffene Gegner wegschleudert.\nNach dem Auslösen steigt Venti in die Luft.\n\nVom Sonett vom Himmel weggeschleuderte Gegner fallen langsam zu Boden.\n\n<i>Als die Archonten noch unter den Menschen weilten, hörte man unzählige Lieder durch die Luft hallen. Dies ist eine der lange vergessenen Melodien.</i>",
+      "es": "#Oh, viento que lleva consigo la música y la poesía, ¡llévate a estos caminantes de la tierra a los cielos!\n\n<color=#FFD780FF>{LAYOUT_MOBILE#Un toque}{LAYOUT_PC#Pulsar una vez}{LAYOUT_PS#Pulsar una vez}</color>\nInvoca un campo de viento en la ubicación del enemigo, infligiendo <color=#80FFD7FF>Daño Anemo en el AdE</color> y lanzando a los enemigos por los aires.\n\n<color=#FFD780FF>Mantener pulsado</color>\nInvoca un campo de viento aún más grande con Venti como epicentro, infligiendo <color=#80FFD7FF>Daño Anemo en el AdE</color> y lanzando por los aires a los enemigos afectados.\nAl mantener pulsada esta habilidad, Venti también alzará el vuelo.\n\nLos enemigos golpeados por Sonata celestial caerán al suelo lentamente.\n\n<i>En los días en que dioses y hombres caminaban juntos por la tierra, los cielos estaban llenos de innumerables canciones. Sin embargo, esta melodía fue olvidada hace mucho tiempo.</i>",
+      "fr": "Le vent porteur de chants et de mélodies vient faire voler les êtres foulant cette terre.\n\n<color=#FFD780FF>Appui simple</color>\nVenti invoque une bourrasque sur la position de l'ennemi, infligeant des <color=#80FFD7FF>DGT Anémo de zone</color> et projette les ennemis en l'air.\n\n<color=#FFD780FF>Appui long</color>\nVenti invoque une bourrasque plus puissante sur sa position, infligeant des <color=#80FFD7FF>DGT Anémo de zone</color> et projette les ennemis proches en l'air.\nL'appui long permet à Venti de voler dans les airs.\n\nLes ennemis projetés en l'air retombent lentement au sol.\n\n<i>Aux temps anciens où dieux et hommes se partageaient la terre, nombreux furent les chants qui atteignirent les cieux. Ce sonnet possède une mélodie oubliée depuis longtemps.</i>",
+      "pt": "Ó vento no qual voam todos os hinos e canções pelo ar, leve estes peregrinos terrestres aos céus!\n\n<color=#FFD780FF>Pressionar</color>\nEvoca um Domínio dos Ventos na localização do inimigo, causando <color=#80FFD7FF>Dano Anemo em uma AdE</color> e lançando inimigos pelo ar.\n\n<color=#FFD780FF>Manter pressionado</color>\nEvoca um Domínio dos Ventos ainda maior com um Venti em seu centro, causando <color=#80FFD7FF>Dano Anemo em AdE</color> e lançando inimigos afetados pelo ar.\nApós liberar a versão de Manter Pressionado dessa habilidade, Venti monta o vento pelo ar.\n\nInimigos atingidos pelo Soneto dos Céus cairão lentamente ao chão.\n\n<i>Nos dias em que deuses e homens andaram na terra juntos, os céus eram cheios de infinitas canções. Essa melodia foi esquecida há muito tempo.</i>",
+      "ru": "О, ветер, о котором поют гимны и слагают песни, неси этих странников к небесам!\n\n<color=#FFD780FF>Быстрое нажатие:</color>\nСоздаёт зону ветра, которая наносит <color=#80FFD7FF>Анемо урон по площади</color> и подкидывает врагов в воздух.\n\n<color=#FFD780FF>Долгое нажатие:</color>\nВызывает ещё большую силу ветра с Венти в её центре. Она наносит <color=#80FFD7FF>Анемо урон по площади</color> и подкидывает попавших в её зону действия врагов.\nЭта версия навыка поднимает Венти в воздух.\n\nВраги, подкинутые навыком Небесная поэзия, медленно опускаются на землю.\n\n<i>Некогда люди и боги существовали вместе во времени и пространстве, и по небу доносилось бесчисленное количество песен, воспевающих это. Те мелодии были забыты тысячелетия назад.</i>",
+      "id": "Wahai angin tempat semua nyanyian dan pujian dilantunkan, mampukan pejalan kaki bumi ini naik ke langit.\n\n<color=#FFD780FF>Tekan</color>\nMemanggil sebuah Wind Domain di lokasi musuh yang mengakibatkan <color=#80FFD7FF>Anemo DMG Area</color> serta menghempaskan musuh ke udara.\n\n<color=#FFD780FF>Tahan</color>\nMemanggil Wind Domain yang lebih besar lagi dengan Venti berada di tengahnya. Mengakibatkan <color=#80FFD7FF>Anemo DMG Area</color> dan menghempaskan musuh ke udara.\nSetelah mengerahkan Wind Domain yang lebih besar, Venti mengendarai angin ke udara.\n\nMusuh yang terhempas oleh Skyward Sonnet akan jatuh ke tanah perlahan-lahan dalam waktu singkat.\n\n<i>Di masa ketika para dewa dan manusia berjalan bersama-sama di bumi, surga dipenuhi dengan lagu-lagu yang tak terhitung jumlahnya. Melodi ini sudah lama dilupakan.</i>",
+      "th": "#เรียกสายลมร่วมร้องประสานไปกับบทกวีและเสียงดนตรี แล้วส่งสิ่งที่อยู่ท่ามกลางฝุ่นธุลีดินขึ้นสู่ท้องฟ้า\n\n<color=#FFD780FF>{LAYOUT_MOBILE#แตะ}{LAYOUT_PC#กด}{LAYOUT_PS#กด}</color>\nเรียกสนามลมออกมายังตำแหน่งที่ศัตรูอยู่ เพื่อสร้าง<color=#80FFD7FF>ความเสียหายลมเป็นวงกว้าง</color> และพัดโจมตีให้ศัตรูเหล่านั้นลอยไป\n\n<color=#FFD780FF>{LAYOUT_MOBILE#แตะค้าง}{LAYOUT_PC#กดค้าง}{LAYOUT_PS#กดค้าง}</color>\nเรียกสายลมที่รุนแรงยิ่งขึ้น โดยใช้ตัวเองเป็นศูนย์กลาง เพื่อสร้าง<color=#80FFD7FF>ความเสียหายลมเป็นวงกว้าง</color> และพัดโจมตีศัตรูที่อยู่ในพื้นที่ให้ลอย\nเมื่อ{LAYOUT_MOBILE#แตะค้าง}{LAYOUT_PC#กดค้าง}{LAYOUT_PS#กดค้าง} Venti จะลอยขึ้นไปในอากาศ\n\nศัตรูที่ถูก Skyward Sonnet พัดให้ลอย จะค่อย ๆ ร่วงลงมายังพื้นดินเมื่อเวลาผ่านไปครู่หนึ่ง\n\n<i>ในยุคสมัยที่เทพยังอาศัยอยู่ร่วมกันกับมนุษย์ บทเพลงนับไม่ถ้วนได้แพร่กระจายไปทั่วทุกหนแห่ง นี่คือท่วงทำนองที่ถูกลืมเลือนไปตั้งนานมาแล้ว</i>",
+      "vi": "Triệu hồi ngọn gió kết hợp thơ và nhạc, cuốn mọi thứ trong bụi mù lên không trung.\n\n<color=#FFD780FF>Nhấn</color>\nTại vị trí của mục tiêu gọi ra ngọn gió, gây <color=#80FFD7FF>Sát Thương Phạm Vi Nguyên Tố Phong</color>, và đánh bay địch.\n\n<color=#FFD780FF>Nhấn Giữ</color>\nLấy bản thân làm trung tâm gọi ra ngọn gió, gây <color=#80FFD7FF>Sát Thương Phạm Vi Nguyên Tố Phong</color>, và đánh bay địch.\nSau khi nhấn giữ, Venti cưỡi gió bay lên không trung.\n\nĐịch bị Bài Ca Trời Cao đánh bay, trong thời gian ngắn sẽ rơi chậm.\n\n<i>Trong thời đại mà thần cùng con người cùng sống trên trái đất, có vô số bài hát truyền khắp bốn phương. Đây là giai điệu đã sớm bị lãng quên.</i>"
+    },
+    "imgid": "s_223201"
+  },
+  {
+    "title": {
+      "zhs": "风神之诗",
+      "zht": "風神之詩",
+      "jp": "風神の詩",
+      "ko": "바람신의 시",
+      "en": "Wind's Grand Ode",
+      "de": "Ode vom Anemo-Archon",
+      "es": "Gran Oda del Viento",
+      "fr": "Ode au Vent",
+      "pt": "Grande Ode do Vento",
+      "ru": "Великая ода ветру",
+      "id": "Wind's Grand Ode",
+      "th": "Wind's Grand Ode",
+      "vi": "Bài Thơ Thần Gió"
+    },
+    "description": {
+      "zhs": "射出千风汇聚而成的箭矢，在前方造出巨大的暴风之眼，将敌人卷入，持续造成<color=#80FFD7FF>风元素伤害</color>。\n\n<color=#FFD780FF>元素转化</color>\n若暴风之眼在技能持续期间接触了<color=#80C0FFFF>水元素</color>/<color=#FF9999FF>火元素</color>/<color=#99FFFFFF>冰元素</color>/<color=#FFACFFFF>雷元素</color>，则会获得对应元素属性，额外造成该元素的附加伤害。\n元素转化在技能持续期间仅会发生一次。\n\n<i>称颂风之神的诗篇有许多已经佚失。其中这一首描述的是他与风的力量。</i>",
+      "zht": "射出千風彙聚而成的箭矢，在前方造出巨大的暴風之眼，將敵人捲入，持續造成<color=#80FFD7FF>風元素傷害</color>。\n\n<color=#FFD780FF>元素轉化</color>\n若暴風之眼在技能持續期間接觸了<color=#80C0FFFF>水元素</color>/<color=#FF9999FF>火元素</color>/<color=#99FFFFFF>冰元素</color>/<color=#FFACFFFF>雷元素</color>，則會獲得對應元素屬性，額外造成該元素的附加傷害。\n元素轉化在技能持續期間僅會發生一次。\n\n<i>稱頌風之神的詩篇有許多已經佚失。其中這一首描述的是他與風的力量。</i>",
+      "jp": "千の風を集めた矢を放ち、前方に巨大な暴風の目を作る。爆風は敵を巻き込み、<color=#80FFD7FF>風元素ダメージ</color>を持続的に与える。\n\n<color=#FFD780FF>元素変化</color>\n暴風の目がスキル継続中に<color=#80C0FFFF>水元素</color>/<color=#FF9999FF>炎元素</color>/<color=#99FFFFFF>氷元素</color>/<color=#FFACFFFF>雷元素</color>に接触すると、接触した元素の属性を獲得し、該当元素の付加ダメージを追加で与える。\n元素変化はスキル継続中に1回のみ発生する。\n\n<i>風の神を讃頌する詩の多くはすでに散逸した。その中でこの詩は、彼と風の力を物語っている。</i>",
+      "ko": "천풍이 모여 만들어진 화살을 쏴 전방에 거대한 폭풍의 눈을 만들어내 적을 감아올려 <color=#80FFD7FF>바람 원소 피해</color>를 계속 준다.\n\n<color=#FFD780FF>원소 전환</color>\n폭풍의 눈은 스킬을 시전하는 동안 <color=#80C0FFFF>물 원소</color>/<color=#FF9999FF>불 원소</color>/<color=#99FFFFFF>얼음 원소</color>/<color=#FFACFFFF>번개 원소</color>에 닿으면 상응하는 원소 속성을 획득하고 추가로 해당 속성 피해를 준다.\n원소 전환은 스킬을 시전하는 동안 1회만 발생한다.\n\n<i>바람의 신을 칭송하는 수많은 잃어버린 시편 중 하나인 이 시는 그와 바람의 힘을 묘사했다</i>",
+      "en": "Fires off an arrow made of countless coalesced winds, creating a huge Stormeye that sucks in opponents and deals continuous <color=#80FFD7FF>Anemo DMG</color>.\n\n<color=#FFD780FF>Elemental Absorption</color>\nIf the Stormeye comes into contact with <color=#80C0FFFF>Hydro</color>/<color=#FF9999FF>Pyro</color>/<color=#99FFFFFF>Cryo</color>/<color=#FFACFFFF>Electro</color>, it will deal additional elemental DMG of that type.\nElemental Absorption may only occur once per use.\n\n<i>Many hymns written in praise of the Anemo Archon have been lost to time. This one sings of his mastery over the wind.</i>",
+      "de": "Schießt Pfeile mit der Macht der Tausend Winde und erschafft einen riesigen Sturm vor Venti, der Gegner mitreißt und fortlaufend <color=#80FFD7FF>Anemo-Schaden</color> verursacht.\n\n<color=#FFD780FF>Elementarumwandlung</color>\nVerleiht dem Zentrum des Sturms beim Treffen auf <color=#80C0FFFF>Hydro</color>-, <color=#FF9999FF>Pyro</color>-, <color=#99FFFFFF>Kryo</color>- oder <color=#FFACFFFF>Elektro</color>-Effekte während der Wirkungsdauer das jeweilige Element und verursacht dementsprechend zusätzlichen Schaden.\nElementarumwandlung nur einmal während der Wirkungsdauer möglich.\n\n<i>Viele der Gedichte, die vom Archon des Windes erzählen, sind im Laufe der Zeit verlorengegangen. Dieses berichtet von seiner und der Kraft des Windes.</i>",
+      "es": "Dispara una flecha imbuida de viento, creando un enorme ciclón que atrae a los enemigos e inflige <color=#80FFD7FF>Daño Anemo</color>.\n\n<color=#FFD780FF>Cambio elemental</color>\nSi el ciclón entra en contacto con <color=#80C0FFFF>Hydro</color>/<color=#FF9999FF>Pyro </color>/<color=#99FFFFFF>Cryo</color>/<color=#FFACFFFF>Electro</color>, inflige Daño Elemental adicional de ese tipo.\nEl cambio elemental solo puede ocurrir una vez por uso.\n\n<i>Muchos himnos escritos en alabanza al Arconte Anemo se han perdido en el tiempo. Este canta sobre su dominio del viento.</i>",
+      "fr": "Venti tire une flèche porteuse de la puissance de mille vents et de l'Œil de la tempête. Ce dernier attire les ennemis en son centre, et inflige des <color=#80FFD7FF>DGT Anémo continus</color>.\n\n<color=#FFD780FF>Absorption élémentaire</color>\nL'Œil de la tempête absorbe les éléments <color=#80C0FFFF>Hydro</color>, <color=#FF9999FF>Pyro</color>, <color=#99FFFFFF>Cryo</color> et <color=#FFACFFFF>Électro</color> avec lesquels il entre en contact ; ceux-ci lui confèrent leurs attributs, et infligent un bonus de DGT de l'élément correspondant.\n\n<i>Nombre de poèmes chantant la gloire de l'Archon Anémo ont été perdus. Celui-ci raconte sa puissance, et la puissance des vents.</i>",
+      "pt": "Dispara uma flecha energizada com vento, criando um grande Olho da Tempestade que suga inimigos, causando <color=#80FFD7FF>Dano Anemo</color> contínuo.\n\n<color=#FFD780FF>Absorção Elemental</color>\nSe o Olho da Tempestade entrar em contato com os elementos <color=#80C0FFFF>Hydro</color>/<color=#FF9999FF>Pyro</color>/<color=#99FFFFFF>Cryo</color>/<color=#FFACFFFF>Electro</color>, causará Dano elemental adicional daquele tipo.\nA Absorção Elemental pode ocorrer uma vez a cada uso.\n\n<i>Muitos hinos escritos para elogiar o Arconte Anemo não existem mais. Essa é a sua compreensão do vento.</i>",
+      "ru": "Выпустив стрелу из тысячи ветров, призывает огромный глаз бури, который притягивает к себе врагов, нанося им постоянный <color=#80FFD7FF>Анемо урон</color>.\n\n<color=#FFD780FF>Поглощение стихии:</color>\nПри контакте с элементами <color=#80C0FFFF>Гидро</color>, <color=#FF9999FF>Пиро</color>, <color=#99FFFFFF>Крио</color> или <color=#FFACFFFF>Электро</color> глаз бури наносит дополнительный урон этим элементом.\nЗа каждое использование навык может поглотить только один элемент.\n\n<i>Многие оды Анемо Архонту канули в лету. Эта ода воспевает господство Архонта над ветром.</i>",
+      "id": "Menembakkan panah yang terbuat dari angin gabungan yang tak terhitung jumlahnya. Membuat Stormeye raksasa yang menarik musuh; mengakibatkan <color=#80FFD7FF>Anemo DMG</color> berkelanjutan.\n\n<color=#FFD780FF>Elemental Absorption</color>\nJika Stormeye bersentuhan dengan elemen <color=#80C0FFFF>Hydro</color>/<color=#FF9999FF>Pyro</color>/<color=#99FFFFFF>Cryo</color>/<color=#FFACFFFF>Electro</color>, ia akan mengakibatkan tambahan Elemental DMG dengan tipe tersebut.\nElemental Absorption hanya dapat terjadi sekali untuk setiap penggunaan skill.\n\n<i>Sebagian besar nyanyian pujian Archon Anemo telah hilang ditelan waktu. Nyanyian yang satu ini melantunkan keahliannya dalam menguasai angin.</i>",
+      "th": "ยิงธนูที่อัดแน่นไปด้วยพลังของสายลมออกไป เพื่อสร้าง Stormeye (ตาพายุ) ขนาดใหญ่ขึ้นตรงหน้า โดยจะดูดศัตรูเข้าไป เพื่อสร้าง<color=#80FFD7FF>ความเสียหายลม</color>อย่างต่อเนื่อง\n\n<color=#FFD780FF>การเปลี่ยนแปลงธาตุ</color>\nหาก Stormeye สัมผัสถูก <color=#80C0FFFF>ธาตุน้ำ</color>/<color=#FF9999FF>ธาตุไฟ</color>/<color=#99FFFFFF>ธาตุน้ำแข็ง</color>/<color=#FFACFFFF>ธาตุไฟฟ้า</color> ในระหว่างช่วงเวลาคงอยู่ของสกิล จะทำให้ได้รับคุณลักษณะของธาตุนั้น ๆ และสร้างความเสียหายของธาตุดังกล่าวเพิ่มเติมไปด้วย\nการเปลี่ยนแปลงธาตุในระหว่างช่วงเวลาต่อเนื่องของสกิลนั้น จะเกิดขึ้นได้เพียงครั้งเดียว\n\n<i>บทกวีสรรเสริญเทพแห่งสายลมนั้น ได้สูญหายไปมากมาย ซึ่งบทกวีหนึ่งท่ามกลางบทกวีเหล่านั้น ได้อธิบายถึงพลังของเขากับสายลมเอาไว้</i>",
+      "vi": "Bắn ra mũi tên được tạo thành từ hàng nghìn ngọn gió, tạo thành bão lớn, cuốn địch vào, duy trì gây <color=#80FFD7FF>Sát Thương Nguyên Tố Phong</color>.\n\n<color=#FFD780FF>Chuyển hóa nguyên tố</color>\nNếu cơn bão trong thời gian duy trì kỹ năng có tiếp xúc <color=#80C0FFFF>Nguyên Tố Thủy</color>/<color=#FF9999FF>Nguyên Tố Hỏa</color>/<color=#99FFFFFF>Nguyên Tố Băng</color>/<color=#FFACFFFF>Nguyên Tố Lôi</color>, sẽ nhận được thuộc tính nguyên tố tương ứng, tạo thêm sát thương thuộc tính.\nChuyển hóa nguyên tố chỉ phát sinh 1 lần.\n\n<i>Có rất nhiều bài thơ ca ngợi Phong Thần đã biến mất. Trong đó bài thơ này miêu tả sức mạnh của ngài ấy cùng với gió.</i>"
+    },
+    "imgid": "s_223901"
+  },
+  {
+    "title": {
+      "zhs": "绪风之拥",
+      "zht": "緒風之擁",
+      "jp": "余風の抱擁",
+      "ko": "여풍의 포옹",
+      "en": "Embrace of Winds",
+      "de": "Umarmung des Windes",
+      "es": "Abraza los vientos",
+      "fr": "Embrasse des vents",
+      "pt": "Abrace os Ventos",
+      "ru": "Объятья ветра",
+      "id": "Embrace of Winds",
+      "th": "Embrace of Winds",
+      "vi": "Cái Ôm Của Gió"
+    },
+    "description": {
+      "zhs": "长按<color=#FFD780FF>高天之歌</color>后，会产生上升气流，持续20秒。",
+      "zht": "長按<color=#FFD780FF>高天之歌</color>後，會產生上升氣流，持續20秒。",
+      "jp": "<color=#FFD780FF>高天の歌</color>を長押しした後、上昇気流が発生する、継続時間20秒。",
+      "ko": "<color=#FFD780FF>높은 하늘의 노래</color>를 홀드하면 상승 기류가 생성된다. 지속 시간: 20초",
+      "en": "Holding <color=#FFD780FF>Skyward Sonnet</color> creates an upcurrent that lasts for 20s.",
+      "de": "Erstellt beim Gedrückthalten von <color=#FFD780FF>Sonett vom Himmel</color> eine nach oben gerichtete Luftströmung, hält 20 s.",
+      "es": "Mantener pulsado <color=#FFD780FF>Sonata celestial</color> genera corrientes de viento ascendentes con una duración de 20 s.",
+      "fr": "L'appui long de <color=#FFD780FF>Sonnet des Vents célestes</color> génère une bourrasque ascendante qui dure 20 s.",
+      "pt": "Ao manter pressionado a <color=#FFD780FF>Sonata Celestial</color> cria uma corrente de vento que dura por 20s.",
+      "ru": "Долгое нажатие навыка <color=#FFD780FF>Небесная поэзия</color> создаёт поток ветра, который длится 20 сек.",
+      "id": "Menahan tombol skill <color=#FFD780FF>Skyward Sonnet</color> akan menciptakan arus angin yang berlangsung selama 20 detik.",
+      "th": "#หลัง{LAYOUT_MOBILE#แตะค้าง}{LAYOUT_PC#กดค้าง}{LAYOUT_PS#กดค้าง} <color=#FFD780FF>Skyward Sonnet</color> จะเกิดกระแสลมพัดขึ้นที่สูงอย่างต่อเนื่อง เป็นเวลา 20 วินาที",
+      "vi": "Nhấn giữ <color=#FFD780FF>Bài Ca Trời Cao</color>, sẽ tạo ra luồng gió lên cao, kéo dài 20s."
+    },
+    "imgid": "p_222101"
+  },
+  {
+    "title": {
+      "zhs": "暴风之眼",
+      "zht": "暴風之眼",
+      "jp": "暴風の目",
+      "ko": "폭풍의 눈",
+      "en": "Stormeye",
+      "de": "Zentrum des Sturms",
+      "es": "Ojo del huracán",
+      "fr": "Œil de la tempête",
+      "pt": "Olho da Tempestade",
+      "ru": "Глаз бури",
+      "id": "Stormeye",
+      "th": "Stormeye",
+      "vi": "Mắt Bão"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>风神之诗</color>效果结束后，会为温迪恢复15点元素能量；\n若产生了元素转化，则同样为队伍中所有对应元素的角色恢复15点元素能量。",
+      "zht": "<color=#FFD780FF>風神之詩</color>效果結束後，會為溫迪恢復15點元素能量；\n若產生了元素轉化，則同樣為隊伍中所有對應元素的角色恢復15點元素能量。",
+      "jp": "<color=#FFD780FF>風神の詩</color>効果終了後、ウェンティの元素エネルギーを15回復する。\n元素変化があった場合、該当元素のチームメンバーの元素エネルギーを15回復する。",
+      "ko": "<color=#FFD780FF>바람 신의 시</color> 효과 종료 후 벤티의 원소 에너지를 15pt 회복한다.\n만약 원소 전환이 발생하면 똑같이 해당 원소와 대응하는 파티 내 모든 캐릭터의 원소 에너지를 15pt 회복한다",
+      "en": "Regenerates 15 Energy for Venti after the effects of <color=#FFD780FF>Wind's Grand Ode</color> end.\nIf an Elemental Absorption occurred, this also restores 15 Energy to all characters of that corresponding element in the party.",
+      "de": "Stellt Venti nach Ende des Effekts von <color=#FFD780FF>Ode vom Anemo-Archon</color> 15 Punkte Elementarenergie wieder her.\nStellt allen entsprechenden Figuren in der Truppe bei Elementarumwandlung 15 Punkte Elementarenergie wieder her.",
+      "es": "Al terminar el efecto de <color=#FFD780FF>Gran Oda del Viento</color>, Venti regenera 15 pts. de Energía Elemental.\nSi ocurre un cambio elemental, también restaurará 15 pts. de Energía Elemental a todos los personajes con el elemento al que cambió el ciclón.",
+      "fr": "Venti récupère 15 pts d'énergie élémentaire à la fin d'<color=#FFD780FF>Ode au Vent</color>.\nEn cas d'absorption élémentaire, les personnages de l'élément correspondant récupèrent également 15 pts d'énergie élémentaire.",
+      "pt": "Regenera 15 de Energia para Venti após o efeito do <color=#FFD780FF>Grande Ode do Vento</color> terminar.\nSe ocorrer uma Absorção Elemental, também irá restaurar 15 de Energia a todos os personagens da equipe do elemento correspondente.",
+      "ru": "После окончания навыка <color=#FFD780FF>Великая ода ветру</color> восстанавливает 15 ед. энергии Венти.\nЕсли произошло Поглощение стихии, то также восстанавливает 15 ед. энергии всем членам отряда, чей элемент соответствует поглощённому элементу.",
+      "id": "Memulihkan 15 Energy Venti setelah <color=#FFD780FF>Wind's Grand Ode</color> berakhir.\nJika terjadi Elemental Absorption, juga akan memulihkan 15 Energy kepada seluruh anggota party dengan elemen yang sesuai.",
+      "th": "เมื่อเอฟเฟกต์ของ <color=#FFD780FF>Wind's Grand Ode</color> สิ้นสุดลง จะฟื้นฟูพลังงานธาตุให้ Venti 15 หน่วย\nหากเกิดการเปลี่ยนแปลงของธาตุ จะทำการฟื้นฟูพลังงานธาตุ 15 หน่วย ให้แก่ตัวละครทั้งหมดในทีมที่มีธาตุสอดคล้อง",
+      "vi": "Sau khi kết thúc hiệu quả <color=#FFD780FF>Bài Thơ Thần Gió</color>, hồi phục 15 điểm năng lượng Nguyên Tố cho Venti; \nNếu xảy ra chuyển hoá nguyên tố, hồi phục 15 điểm năng lượng Nguyên Tố cho tất cả nhân vật trong đội có nguyên tố tương ứng."
+    },
+    "imgid": "p_222201"
+  },
+  {
+    "title": {
+      "zhs": "恒风随行",
+      "zht": "恆風隨行",
+      "jp": "恒風と共に",
+      "ko": "항풍과 함께",
+      "en": "Windrider",
+      "de": "Windreiter",
+      "es": "Jinete del viento",
+      "fr": "Chevaucheur du vent",
+      "pt": "Viajante do Vento",
+      "ru": "Ветряной наездник",
+      "id": "Windrider",
+      "th": "Windrider",
+      "vi": "Đi Theo Cơn Gió"
+    },
+    "description": {
+      "zhs": "队伍中自己的角色滑翔消耗的体力降低20%。\n无法与效果完全相同的固有天赋叠加。",
+      "zht": "隊伍中自己的角色滑翔消耗的體力降低20%。\n無法與效果完全相同的固有天賦疊加。",
+      "jp": "チーム内の自身のキャラクター全員が滑翔に消費するスタミナ-20%。\n同じ効果を持つ固有天賦との重ね掛け不可。",
+      "ko": "파티 내 자신의 캐릭터의 활강 시 소모하는 스태미나가 20% 감소한다.\n같은 효과의 고유 특성과 중첩되지 않는다",
+      "en": "Decreases gliding Stamina consumption for your own party members by 20%.\nNot stackable with Passive Talents that provide the exact same effects.",
+      "de": "Verringert die beim Gleiten verbrauchte Ausdauer aller eigenen Truppenmitglieder um 20 %.\nNicht mit passiven Talenten mit völlig gleichen Effekten stapelbar.",
+      "es": "Disminuye en un 20% el Coste de Aguante al planear de todos los miembros de tu equipo.\nNo se puede acumular con otros talentos pasivos que tengan los mismos efectos.",
+      "fr": "Réduit la consommation d'endurance de vos personnages dans l'équipe de 20 % lors du planage.\nNe peut pas être cumulé avec d'autres aptitudes passives aux effets identiques.",
+      "pt": "Diminui o consumo de Stamina ao Planar de todos os seus personagens em 20%.\nNão acumulável com Talentos Passivos que concedem exatamente os mesmos efeitos.",
+      "ru": "Уменьшает потребление выносливости активного персонажа во время полёта на 20%.\nНе суммируется с пассивными талантами, дающими точно такие же эффекты.",
+      "id": "Mengurangi 20% konsumsi Stamina anggota party sendiri saat meluncur.\nEfek tidak dapat ditumpuk dengan Talenta Pasif lain yang memiliki efek yang sama persis.",
+      "th": "ลดอัตราการเสียพลังกายจากการร่อนเวหา ให้ตัวละครของตนเองที่อยู่ในทีมลง 20%\nไม่สามารถซ้อนทับพรสวรรค์ติดตัวที่เอฟเฟกต์เหมือนกันทุกประการได้",
+      "vi": "Giảm 20% tiêu hao thể lực nhân vật của bản thân trong đội khi bay lượn.\nĐối với buff Thiên Phú cố định có hiệu quả hoàn toàn giống sẽ không thể cộng dồn."
+    },
+    "imgid": "p_222301"
+  }
+]

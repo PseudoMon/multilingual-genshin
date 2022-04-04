@@ -1,0 +1,200 @@
+[
+  {
+    "title": {
+      "zhs": "普通攻击·猎人射术",
+      "zht": "普通攻擊·獵人射術",
+      "jp": "通常攻撃·狩人の射術",
+      "ko": "일반 공격·사냥꾼의 사격술",
+      "en": "Normal Attack: Kätzlein Style",
+      "de": "Standardangriff: Schießkunst der Jäger",
+      "es": "Ataque Normal: Puntería de cazador",
+      "fr": "Attaque normale : Archerie de chasse",
+      "pt": "Ataque Normal: Pontaria do Caçador",
+      "ru": "Стиль котёнка",
+      "id": "Normal Attack: Kätzlein Style",
+      "th": "โจมตีปกติ: Kätzlein Style",
+      "vi": "Tấn Công Thường - Xạ Thuật Thợ Săn"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>普通攻击</color>\n进行至多五段的连续弓箭射击。\n\n<color=#FFD780FF>重击</color>\n进行伤害更高、更为精准的<color=#FFD780FF>瞄准射击</color>。\n瞄准时，冰霜散发的寒气会凭附在箭矢上。聚满了寒气的箭矢会造成<color=#99FFFFFF>冰元素伤害</color>。\n\n<color=#FFD780FF>下落攻击</color>\n从空中射出箭雨，并迅速下坠冲击地面，在落地时造成范围伤害。",
+      "zht": "<color=#FFD780FF>普通攻擊</color>\n進行至多五段的連續弓箭射擊。\n\n<color=#FFD780FF>重擊</color>\n進行傷害更高、更為精準的<color=#FFD780FF>瞄準射擊</color>。\n瞄準時，冰霜散發的寒氣會憑附在箭矢上。聚滿了寒氣的箭矢會造成<color=#99FFFFFF>冰元素傷害</color>。\n\n<color=#FFD780FF>下落攻擊</color>\n從空中射出箭雨，並迅速下墜衝擊地面，在落地時造成範圍傷害。",
+      "jp": "<color=#FFD780FF>通常攻撃</color>\n最大5段の連続射撃を行う。\n\n<color=#FFD780FF>重撃</color>\nダメージがより高く、より精確な<color=#FFD780FF>狙い撃ち</color>を発動する。\n照準時、氷霜の寒気が矢先に付着する。寒気に満ちた矢は敵に<color=#99FFFFFF>氷元素ダメージ</color>を与える。\n\n<color=#FFD780FF>落下攻撃</color>\n空中から矢の雨を放ち、凄まじいスピードで落下し地面に衝撃を与え、落下時に範囲ダメージを与える。",
+      "ko": "<color=#FFD780FF>일반 공격</color>\n활로 최대 5번 공격한다.\n\n<color=#FFD780FF>강공격</color>\n피해가 더 크고 정확한 <color=#FFD780FF>조준 사격</color>을 한다.\n조준 시 차가운 한기가 화살 촉에 모인다. 한기로 가득 찬 화살은 <color=#99FFFFFF>얼음 원소 피해</color>를 준다.\n\n<color=#FFD780FF>낙하 공격</color>\n공중에서 화살비를 쏜 후 빠른 속도로 땅에 착지한다. 땅에 닿으면 범위 피해를 준다",
+      "en": "<color=#FFD780FF>Normal Attack</color>\nPerform up to 5 consecutive shots with a bow.\n\n<color=#FFD780FF>Charged Attack</color>\nPerform a more precise <color=#FFD780FF>Aimed Shot</color> with increased DMG.\nWhile aiming, biting frost will accumulate on the arrowhead. A fully charged frost arrow will deal <color=#99FFFFFF>Cryo DMG</color>.\n\n<color=#FFD780FF>Plunging Attack</color>\nFires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.",
+      "de": "<color=#FFD780FF>Standardangriff</color>\nFührt bis zu 5 Pfeilschüsse hintereinander aus.\n\n<color=#FFD780FF>Heftiger Schlag</color>\nFührt einen <color=#FFD780FF>gezielten Schuss</color> mit höherem Schaden und höherer Genauigkeit aus.\nKonzentriert die eisige Kälte während des Zielens an der Pfeilspitze, die voll aufgeladen <color=#99FFFFFF>Kryo-Schaden</color> verursacht.\n\n<color=#FFD780FF>Angriff aus dem Fall</color>\nSchießt in der Luft einen Pfeilregen ab, trifft schnell auf dem Boden auf und verursacht dort Flächenschaden.",
+      "es": "<color=#FFD780FF>Ataque Normal</color>\nRealiza hasta 5 disparos consecutivos con arco.\n\n<color=#FFD780FF>Ataque Cargado</color>\nRealiza un <color=#FFD780FF>Disparo Preciso</color> que inflige mayor daño y tiene mayor precisión.\nAl apuntar, crea una escarcha que acumula Frío en la punta de flecha, infligiendo <color=#99FFFFFF>Daño Cryo</color> al liberarlo.\n\n<color=#FFD780FF>Ataque Descendente</color>\nDispara una lluvia de flechas desde el aire mientras desciende rápidamente, infligiendo Daño en el AdE al impactar contra el suelo.",
+      "fr": "<color=#FFD780FF>Attaque normale</color>\nEnchaîne jusqu'à 5 tirs consécutifs.\n\n<color=#FFD780FF>Attaque chargée</color>\nEffectue un <color=#FFD780FF>tir visé</color> plus précis infligeant davantage de DGT.\nLors de la visée, la flèche se charge en élément Cryo, infligeant de considérables <color=#99FFFFFF>DGT Cryo</color> quand elle est complètement chargée.\n\n<color=#FFD780FF>Attaque plongeante</color>\nTire une pluie de flèches depuis les airs et plonge au sol, infligeant des DGT de zone à l'impact.",
+      "pt": "<color=#FFD780FF>Ataque Normal</color>\nRealiza até 5 disparos consecutivos com o arco.\n\n<color=#FFD780FF>Ataque Carregado</color>\nRealiza um ataque <color=#FFD780FF>Disparo com Mira</color> mais preciso e com mais dano.\nEnquanto mira, gelo será acumulado na flecha. Uma flecha totalmente carregada causará <color=#99FFFFFF>Dano Cryo</color>.\n\n<color=#FFD780FF>Ataque Imersivo</color> Dispara uma chuva de flechas no ar antes de cair e impactar o chão, causando Dano AdE no impacto.",
+      "ru": "<color=#FFD780FF>Обычная атака:</color>\nДо пяти выстрелов из лука.\n\n<color=#FFD780FF>Заряженная атака:</color>\nБолее меткий <color=#FFD780FF>прицельный выстрел</color> с увеличенным уроном.\nВо время прицеливания наконечник стрелы заряжается холодом. Полностью заряженная холодом стрела наносит <color=#99FFFFFF>Крио урон</color>.\n\n<color=#FFD780FF>Атака в падении:</color>\nВыпускает град стрел в воздухе, которые при приземлении персонажа наносят урон по площади.",
+      "id": "<color=#FFD780FF>Normal Attack</color>\nMelancarkan hingga 5 serangan berturut-turut menggunakan busur.\n\n<color=#FFD780FF>Charged Attack</color>\nMengerahkan sebuah <color=#FFD780FF>Serangan Membidik</color> yang lebih akurat untuk mengakibatkan DMG lebih besar.\nSaat membidik, es akan berkumpul di ujung anak panah. Panah dengan es yang terkumpul penuh akan mengakibatkan <color=#99FFFFFF>Cryo DMG</color>.\n\n<color=#FFD780FF>Plunging Attack</color>\nMelancarkan hujan panah dari udara dan menerjang tanah dengan kecepatan tinggi, mengakibatkan DMG area saat mendarat.",
+      "th": "<color=#FFD780FF>โจมตีปกติ</color>\nยิงธนูโจมตีอย่างต่อเนื่องมากสุดห้าครั้ง\n\n<color=#FFD780FF>ชาร์จโจมตี</color>\nการ<color=#FFD780FF>เล็งโจมตี</color>สร้างความเสียหายเพิ่มขึ้น และแม่นยำยิ่งขึ้น\nเมื่อเล็งโจมตี จะทำการรวบรวมไอเย็นสุดขั้วไว้ตรงหัวลูกศร โดยลูกธนูที่ชาร์จไอเย็นเต็มแล้วจะทำให้เกิด<color=#99FFFFFF>ความเสียหายน้ำแข็ง</color>\n\n<color=#FFD780FF>โจมตีพุ่งลงจากอากาศ</color>\nปล่อยฝนธนูจากกลางอากาศ และพุ่งลงมายังพื้นดินอย่างรวดเร็ว โดยจะสร้างความเสียหายวงกว้างเมื่อลงถึงพื้น",
+      "vi": "<color=#FFD780FF>Tấn Công Thường</color>\nThực hiện tối đa 5 lần bắn tên liên tiếp.\n\n<color=#FFD780FF>Trọng Kích</color>\nSát thương càng cao, <color=#FFD780FF>ngắm bắn</color> càng chuẩn.\nKhi ngắm bắn, hơi lạnh sẽ tích tụ trên mũi tên. Mũi tên mang đầy hơi lạnh sẽ gây <color=#99FFFFFF>Sát Thương Nguyên Tố Băng</color>.\n\n<color=#FFD780FF>Tấn Công Khi Đáp</color>\nBắn mưa tên liên tiếp xuống mặt đất, gây sát thương phạm vi khi chạm đất."
+    },
+    "imgid": "s_393101"
+  },
+  {
+    "title": {
+      "zhs": "猫爪冻冻",
+      "zht": "貓爪凍凍",
+      "jp": "フリーズキャッツクロー",
+      "ko": "꽁꽁젤리",
+      "en": "Icy Paws",
+      "de": "Eistatzen",
+      "es": "Zarpazo helado",
+      "fr": "Griffes Cryo",
+      "pt": "Garra de Gato Gelada",
+      "ru": "Морозные коготочки",
+      "id": "Icy Paws",
+      "th": "Icy Paws",
+      "vi": "Móng Mèo Lạnh Giá"
+    },
+    "description": {
+      "zhs": "发射冻冻猫猫爪，对敌人造成<color=#99FFFFFF>冰元素伤害</color>，并在命中时形成护盾。\n护盾的伤害吸收量受益于迪奥娜的生命值上限，持续时间基于命中的冻冻猫猫爪数目。\n\n<color=#FFD780FF>点按</color>\n快速发射二枚冻冻猫猫爪。\n\n<color=#FFD780FF>长按</color>\n迅速后撤，并发射五枚冻冻猫猫爪。\n通过长按产生的护盾获得75%伤害吸收量加成。\n\n护盾对<color=#99FFFFFF>冰元素伤害</color>有250%的吸收效果，并会在形成时，为当前角色施加短暂的<color=#99FFFFFF>冰元素附着</color>。\n\n<i>一开始，酒里加多少冰也伤害不了酒鬼。直到迪奥娜有了神之眼，然后就有了这些冻得人太阳穴疼的冰。好评！</i>",
+      "zht": "發射凍凍貓貓爪，對敵人造成<color=#99FFFFFF>冰元素傷害</color>，並在命中時形成護盾。\n護盾的傷害吸收量受益於迪奧娜的生命值上限，持續時間基於命中的凍凍貓貓爪數目。\n\n<color=#FFD780FF>點按</color>\n快速發射二枚凍凍貓貓爪。\n\n<color=#FFD780FF>長按</color>\n迅速後撤，並發射五枚凍凍貓貓爪。\n藉由長按產生的護盾獲得75%傷害吸收量加成。\n\n護盾對<color=#99FFFFFF>冰元素傷害</color>有250%的吸收效果，並會在形成時，為當前角色施加短暫的<color=#99FFFFFF>冰元素附著</color>。\n\n<i>一開始，酒裡加多少冰也傷害不了酒鬼。直到迪奧娜有了神之眼，然後就有了這些凍得人太陽穴痛的冰，讚啦！</i>",
+      "jp": "フリーズキャッツクローを放ち、敵に<color=#99FFFFFF>氷元素ダメージ</color>を与え、命中時にシールドを生成する。\nシールドのダメージ吸収量はディオナのHP上限によって決まり、継続時間は命中したフリーズキャッツクローの数によって決まる。\n\n<color=#FFD780FF>一回押し</color>\n素早くフリーズキャッツクローを2枚発射する。\n\n<color=#FFD780FF>長押し</color>\n素早く後退し、フリーズキャッツクローを5枚発射する。\n長押しで生成したシールドのダメージ吸収量+75%。\n\nシールドは<color=#99FFFFFF>氷元素ダメージ</color>に対して、250%の吸収効果がある。また、シールド生成時、キャラクターに短時間の<color=#99FFFFFF>氷元素付着</color>を与える。\n\n<i>最初はいくらお酒に氷を入れても、酔っ払いには効かなかった。だがディオナが神の目を手に入れてから状況が変わった。こんなにも頭が張り裂けそうな氷ができたから。やったね！</i>",
+      "ko": "꽁꽁젤리를 발사해 적에게 <color=#99FFFFFF>얼음 원소 피해</color>를 주고 명중 시 보호막을 생성한다.\n보호막의 피해 흡수량은 디오나 HP 최대치의 영향을 받고 지속 시간은 명중한 꽁꽁젤리 횟수에 영향을 받는다.\n\n<color=#FFD780FF>짧은 터치</color>\n빠른 속도로 꽁꽁젤리를 2개 발사한다.\n\n<color=#FFD780FF>홀드</color>\n빠른 속도로 뒤로 물러선 후 꽁꽁젤리를 5개 발사한다.\n홀드로 생성된 보호막은 75%의 흡수량 보너스를 획득한다.\n\n보호막은 <color=#99FFFFFF>얼음 원소 피해</color>에 대해 250%의 흡수 효과가 있고 생성 시 현재 캐릭터에게 <color=#99FFFFFF>얼음 원소를 잠깐 부착</color>한다.\n\n<i>처음엔 술에 얼음을 아무리 넣어도 주정뱅이들을 혼쭐 내 줄 수 없었다. 하지만 디오나가 신의 눈을 얻으면서 그들의 관자놀이를 욱신거리게 만드는 이 꽁꽁젤리를 얻을 수 있게 됐다. 굿굿!</i>",
+      "en": "#Fires an Icy Paw that deals <color=#99FFFFFF>Cryo DMG</color> to opponents and forms a shield on hit.\nThe shield's DMG Absorption scales based on Diona's Max HP, and its duration scales off the number of Icy Paws that hit their target.\n\n<color=#FFD780FF>{LAYOUT_MOBILE#Tap}{LAYOUT_PC#Press}{LAYOUT_PS#Press}</color>\nRapidly fires off 2 Icy Paws.\n\n<color=#FFD780FF>Hold</color>\nDashes back quickly before firing five Icy Paws.\nThe shield created by a Hold attack will gain a 75% DMG Absorption Bonus.\n\nThe shield has a 250% <color=#99FFFFFF>Cryo DMG</color> Absorption Bonus, and will cause your active character to become affected by <color=#99FFFFFF>Cryo</color> at the point of formation for a short duration.\n\n<i>When she first started bartending, Diona found that no matter how much ice she put in her cocktails, it would never do a drunkard any harm. That all changed when she received her Vision — now she can form ice cold enough to cause severe brainfreeze. Five out of five stars!</i>",
+      "de": "Schießt Eistatzen ab, die Gegnern <color=#99FFFFFF>Kryo-Schaden</color> zufügen und bei Treffern Schilde erstellen.\nDie Schildstärke hängt von Dionas max. LP ab, die Wirkungsdauer von der Anzahl der am Treffer beteiligten Eistatzen.\n\n<color=#FFD780FF>Drücken</color>\nSchießt schnell zwei Eispfoten ab.\n\n<color=#FFD780FF>Gedrückt halten</color>\nSpringt geschwind zurück und feuert fünf Eistatzen ab.\nDurch Gedrückthalten entstehende Schilde halten 75 % mehr Schaden ab.\n\nSchilde halten bei <color=#99FFFFFF>Kryo-Schaden</color> 250 % ab und verleihen der aktuellen Figur beim Entstehen für kurze Zeit das <color=#99FFFFFF>Kryo-Attribut</color>.\n\n<i>Das Eis im Schnapps hatte bisher noch keinem Trunkenbold geschadet, bis Diona ihr Göttliches Auge erhielt und Eis herstellte, das einem die Zunge taub werden lässt. Einsame Spitze!</i>",
+      "es": "#Dispara unas garras heladas, infligiendo <color=#99FFFFFF>Daño Cryo</color> a los enemigos y creando un escudo al golpearlos.\nLa cantidad de daño absorbido por el escudo es proporcional a la Vida Máx. de Diona, y su duración depende del número de garras que golpeen a su objetivo.\n\n<color=#FFD780FF>{LAYOUT_MOBILE#Un toque}{LAYOUT_PC#Pulsar una vez}{LAYOUT_PS#Pulsar una vez}</color>\nDispara 2 veloces garras heladas.\n\n<color=#FFD780FF>Mantener pulsado</color>\nRetrocede rápidamente y dispara 5 garras heladas.\nAdemás, genera un escudo que gana un 75% de bono de absorción de daño.\n\nEste escudo tiene un 250% de bono de absorción de <color=#99FFFFFF>Daño Cryo</color> y, al activarse, aplica el elemento <color=#99FFFFFF>Cryo</color> sobre el personaje en uso.\n\n<i>Cuando empezó a ser cantinera, el hielo no le hacía ningún daño a los borrachos por mucha cantidad que hubiera en sus bebidas. Hasta que Diona obtuvo su Visión y creó un hielo tan frío como para congelarle el cerebro a cualquiera. ¡Vaya un hielo!</i>",
+      "fr": "Libère des griffes de chat Cryo qui infligent des <color=#99FFFFFF>DGT Cryo</color>, et génèrent un bouclier lorsqu'elles touchent.\nLe bouclier peut absorber une quantité de DGT proportionnelle aux PV max de Diona, et sa durée dépend du nombre de cibles touchées.\n\n<color=#FFD780FF>Appui simple</color>\nExécute rapidement deux attaques consécutives de Griffes Cryo.\n\n<color=#FFD780FF>Appui long</color>\nBat rapidement en retraite, et libère 5 Griffes Cryo.\nLe bouclier généré lors d'un appui long obtient un bonus de 75 % d'absorption de DGT.\n\nLe bouclier est efficace à 250 % contre les <color=#99FFFFFF>DGT Cryo</color>, et applique l'élément <color=#99FFFFFF>Cryo</color> au personnage déployé pendant un court instant lorsque le bouclier est généré.\n\n<i>En théorie, la glace versée dans un breuvage est sans danger pour celui qui le boit. Ceci était exact jusqu'à ce que Diona utilise son œil divin pour créer une glace capable de geler jusqu'au cerveau... 5 étoiles !</i>",
+      "pt": "Dispara uma Garra de Gato Gelada que causa <color=#99FFFFFF>Dano Cryo</color> e cria um escudo.\nA Absorção de Dano do escudo é baseada na Vida Máxima de Diona, e sua duração depende do número de garras que atingem seu objetivo.\n\n<color=#FFD780FF>Tocar</color>\nDispara rapidamente 2 Garras de Gato Gelada.\n\n<color=#FFD780FF>Manter Pressionado</color> Retrocede rapidamente e dispara 5 Garras de Gato Geladas.\nO escudo criado pelo ataque Manter Pressionado ganhará um bônus de 75% de Absorção de Dano.\n\nO escudo tem um bônus de 250% de Absorção de <color=#99FFFFFF>Dano Cryo</color>, e ao ser formado aplica o <color=#99FFFFFF>Elemento Cryo</color> em seu próprio personagem por uma curta duração.\n\n<i>Normalmente, nenhuma quantidade de gelo no copo de um bêbado faria mal algum, até que Diona usou sua Visão para criar gelo frio o suficiente para congelar o cérebro. Nota 10!</i>",
+      "ru": "Выпускает Морозные коготочки, которые наносят противнику <color=#99FFFFFF>Крио урон</color> и создают элементальный щит при ударе.\nПоглощение урона щитом зависит от макс. HP Дионы, а длительность его существования - от количества попавших в цель Морозных коготочков.\n\n<color=#FFD780FF>Быстрое нажатие:</color>\nМоментально выпускает два Морозных коготочка.\n\n<color=#FFD780FF>Долгое нажатие:</color>\nОтпрыгивая назад, выпускает пять Морозных коготочков.\nЩит, образованный заряженным навыком, даёт 75% бонус поглощения урона.\n\nЩит поглощает <color=#99FFFFFF>Крио урон</color> на 250% эффективнее, также при активации щит накладывает на персонажа кратковременный <color=#99FFFFFF>эффект Крио</color>.\n\n<i>Обычно никакое количество льда в напитке здоровью не вредит, но тот лёд, что создаёт Диона с помощью Глаза Бога, заставляет мозг покрываться льдом. 10 из 10!</i>",
+      "id": "Menembakkan Icy Paws yang mengakibatkan <color=#99FFFFFF>Cryo DMG</color> dan membentuk perisai saat Icy Paws mengenai musuh.\nJumlah DMG yang dapat ditahan perisai ditentukan berdasarkan Max HP Diona, dan durasinya ditentukan berdasarkan jumlah musuh yang terkena Icy Paws.\n\n<color=#FFD780FF>Tekan</color>\nMenembakkan 2 Icy Paws dengan cepat\n\n<color=#FFD780FF>Tahan</color>\nBergerak mundur dengan cepat, kemudian menembakkan 5 Icy Paws.\nPerisai yang terbentuk setelah tombol skill ditahan, akan memperoleh bonus 75% penyerapan DMG.\n\nPerisai ini memiliki bonus 250% penyerapan <color=#99FFFFFF>Cryo DMG</color>. Saat perisai terbentuk, karakter yang sedang digunakan akan terpengaruh <color=#99FFFFFF>Cryo</color> dalam waktu singkat.\n\n<i>Saat Diona baru menjadi bartender, sebanyak apa pun es yang dimasukkannya ke dalam koktail, tidak pernah ada seorang pun pemabuk yang terluka karena dingin. Tetapi setelah Diona mendapatkan Vision — kini dia bisa membuat minuman sangat dingin yang membuat para pemabuk kedinginan hingga sakit kepala. Hebat!</i>",
+      "th": "#ยิง Icy Paws ออกมาเพื่อสร้าง<color=#99FFFFFF>ความเสียหายน้ำแข็ง</color>แก่ศัตรูโดยรอบ และกลายเป็นโล่เมื่อโจมตีถูกเป้าหมาย\nปริมาณการดูดซับความเสียหายของโล่ จะขึ้นอยู่กับพลังชีวิตสูงสุดของ Diona โดยที่ระยะเวลาต่อเนื่อง จะขึ้นกับจำนวนครั้งที่โจมตีโดนเป้าหมายของ Icy Paws\n\n<color=#FFD780FF>{LAYOUT_MOBILE#แตะ}{LAYOUT_PC#กด}{LAYOUT_PS#กด}</color>\nยิง Icy Paws ออกมา 2 อันอย่างรวดเร็ว\n\n<color=#FFD780FF>{LAYOUT_MOBILE#แตะค้าง}{LAYOUT_PC#กดค้าง}{LAYOUT_PS#กดค้าง}</color>\nโยกไปด้านหลังอย่างเร็วและยิง Icy Paws ออกมา 5 อัน\nโล่ที่เกิดขึ้นจากการแตะค้าง จะได้รับโบนัสการดูดซับปริมาณความเสียหาย 75%\n\nโล่มีเอฟเฟกต์ดูดซับ<color=#99FFFFFF>ความเสียหายน้ำแข็ง</color> 250% และจะทำให้ตัวละครในขณะนั้น <color=#99FFFFFF>ติดธาตุน้ำแข็ง</color>ชั่วคราวทันทีที่ก่อตัวเป็นรูปร่าง\n\n<i>...ในตอนแรกนั้นไม่ว่าจะใส่น้ำแข็งลงไปในเครื่องดื่มซักเท่าไหร่ก็ไม่สามารถทำอะไรเหล่าคนขี้เมาได้ จนกระทั่งวันที่ Diona ได้รับวิชั่น จากนั้นก็เกิดน้ำแข็งที่เย็นจัดจนปวดขึ้นสมองขึ้นมา ยอดไปเลย!</i>",
+      "vi": "Bắn móng mèo lạnh giá gây cho địch <color=#99FFFFFF>Sát Thương Nguyên Tố Băng</color> và hình thành khiên khi đánh trúng.\nLượng hấp thụ sát thương của khiên chịu ảnh hưởng từ giới hạn HP của Diona, thời gian duy trì dựa vào số lượng Móng Mèo Lạnh Giá đánh trúng.\n\n<color=#FFD780FF>Nhấn</color>\nBắn nhanh 2 Móng Mèo Lạnh Giá.\n\n<color=#FFD780FF>Nhấn Giữ</color>\nLùi về sau và bắn 5 Móng Mèo Lạnh Giá.\nNhấn giữ hình thành Khiên, hấp thụ thêm 75% sát thương.\n\nKhiên sẽ hấp thụ 250% <color=#99FFFFFF>Sát Thương Nguyên Tố Băng</color>, và khi hình thành, sẽ tăng thêm cho nhân vật <color=#99FFFFFF>Nguyên Tố Băng Kèm Theo</color>.\n\n<i>Có thêm bao nhiêu đá vào rượu cũng không thể làm tổn hại đến kẻ say, cho đến khi Diona có được Vision, và rồi những viên đá lạnh đến nỗi khiến người ta buốt óc bắt đầu xuất hiện. Hay!</i>"
+    },
+    "imgid": "s_393201"
+  },
+  {
+    "title": {
+      "zhs": "最烈特调",
+      "zht": "最烈特調",
+      "jp": "特製スピリッツ",
+      "ko": "특제 칵테일",
+      "en": "Signature Mix",
+      "de": "Eisgekühlter Branntwein",
+      "es": "Cóctel asesino",
+      "fr": "Cuvée spéciale",
+      "pt": "Coquetel Assassino",
+      "ru": "Авторский коктейль",
+      "id": "Signature Mix",
+      "th": "Signature Mix",
+      "vi": "Đặc Chế Mãnh Liệt"
+    },
+    "description": {
+      "zhs": "抛出特别调制的冰酿烈调，造成<color=#99FFFFFF>冰元素范围伤害</color>，并产生冰气酒雾领域。\n\n<color=#FFD780FF>冰气酒雾领域</color>\n·对其中的敌人持续造成<color=#99FFFFFF>冰元素伤害</color>；\n·为其中的角色持续恢复生命值。\n\n<i>迪奥娜自己都觉得不人道的恐怖配方。前味恐怖，推荐留给敌人；后劲清冽，可惜只能用鼻子和皮肤享用。</i>",
+      "zht": "拋出特別調製的冰釀特調，造成<color=#99FFFFFF>冰元素範圍傷害</color>，並產生冰氣酒霧領域。\n\n<color=#FFD780FF>冰氣酒霧領域</color>\n·對其中的敵人持續造成<color=#99FFFFFF>冰元素傷害</color>；\n·為其中的角色持續恢復生命值。\n\n<i>迪奧娜自己都覺得不人道的恐怖配方。前味恐怖，推薦留給敵人；後勁清冽，可惜只能用鼻子和皮膚享用。</i>",
+      "jp": "特製の氷入りスピリッツを投げ出し、<color=#99FFFFFF>氷元素範囲ダメージ</color>を与え、氷気の酒霧エリアを生成する。\n\n<color=#FFD780FF>氷気の酒霧エリア</color>\n·エリアにいる敵に<color=#99FFFFFF>氷元素ダメージ</color>を持続的に与える。\n·エリアにいるキャラクターのHPを持続的に回復する。\n\n<i>ディオナ自身ですら恐怖を感じる非人道的なレシピ。先味は恐ろしいため、敵にあげることをおすすめする。後味は清冽だが、鼻と肌でしか楽しめない。</i>",
+      "ko": "독한 특제 얼음 칵테일을 던져 <color=#99FFFFFF>얼음 원소 범위 피해</color>를 주고 서리 술안개 영역을 만든다.\n\n<color=#FFD780FF>서리 술안개 영역</color>\n·영역 내의 적은 <color=#99FFFFFF>얼음 원소 지속 피해</color>를 받는다.\n·영역 내의 캐릭터는 HP를 지속해서 회복한다.\n\n<i>디오나마저 손사래를 치는 비인도적 레시피로 첫맛이 끔찍해 적에게 줄 것을 추천한다. 뒷맛은 산뜻하고 시원하나 코와 피부로만 느낄 수 있다.</i>",
+      "en": "Tosses out a special cold brew that deals <color=#99FFFFFF>AoE Cryo DMG</color> and creates a Drunken Mist in an AoE.\n\n<color=#FFD780FF>Drunken Mist</color>\n·Deals continuous <color=#99FFFFFF>Cryo DMG</color> to opponents within the AoE.\n·Continuously regenerates the HP of characters within the AoE.\n\n<i>A horrific mix that even Diona considers inhumane. The horrifying foretaste should be left for one's opponents. It has a crisp aftertaste, but unfortunately, one can only feel it on one's nose and skin.</i>",
+      "de": "Wirft besonders starken eisgekühlten Alkohol nach vorn und verursacht <color=#99FFFFFF>Kryo-Flächenschaden</color> sowie ein Kältedunstfeld.\n\n<color=#FFD780FF>Kältedunstfeld</color>\n· Fügt Gegnern darin fortlaufend <color=#99FFFFFF>Kryo-Schaden</color> zu.\n· Stellt Figuren darin fortlaufend LP wieder her.\n\n<i>Dieses Gebräu hält Diona selbst sogar für unmenschlich. Deswegen bleibt der erste Eindruck nur ihren Gegnern überlassen. Der Nachgeschmack ist eher erquickend, ist aber nur in der Nase und auf der Haut zu spüren.</i>",
+      "es": "Lanza un cóctel helado especial que inflige <color=#99FFFFFF>Daño Cryo en el AdE</color> y crea una bruma embriagadora en un área.\n\n<color=#FFD780FF>Bruma embriagadora</color>\n·Inflige <color=#99FFFFFF>Daño Cryo</color> continuo a los enemigos que están en el área.\n·La Vida de los personajes que están en el área se regenera continuamente.\n\n<i>Un espantoso cóctel que incluso Diona considera inhumano. El primer trago debe dejarse para los enemigos. Deja un sabor muy fresco, pero, desafortunadamente, este solo se puede sentir en la nariz y en la piel.</i>",
+      "fr": "Diona lance un cocktail gelé de sa fabrication, infligeant des <color=#99FFFFFF>DGT Cryo de zone</color>, et génère un champ de vapeur d'alcool.\n\n<color=#FFD780FF>Champ de vapeur d'alcool</color>\n· Inflige aux ennemis présents dans la zone des <color=#99FFFFFF>DGT Cryo continus</color>.\n· Restaure les PV des personnages présents dans la zone.\n\n<i>Une recette que même Diona juge inhumaine. L'avant-goût terrifiant est mieux laissé aux ennemis ; nous ne parlerons pas de l'arrière-goût particulièrement frais qui en découle.</i>",
+      "pt": "Atira um coquetel gelado especial que causa <color=#99FFFFFF>Dano Cryo em uma AdE</color> e cria uma Névoa Embriagada em uma AdE.\n\n<color=#FFD780FF>Névoa Embriagada</color>\nCausa <color=#99FFFFFF>Dano Cryo</color> contínuo nos inimigos dentro da AdE.\nRegenera continuamente a Vida dos personagens dentro da AdE.\n\n<i>Uma mistura horrível que até mesmo Diona considera desumana. O gosto horrível deve ser deixado apenas para os inimigos. Tem um sabor muito fresco, mas infelizmente só se pode sentir no nariz e na pele.</i>",
+      "ru": "Бросает приготовленный по особому рецепту ледяной коктейль, который наносит <color=#99FFFFFF>Крио урон по площади</color> и создаёт область Прохладительной дымки.\n\n<color=#FFD780FF>Прохладительная дымка:</color>\n· Наносит <color=#99FFFFFF>Крио урон</color> врагам, находящимся в области;\n· Периодически восстанавливает HP персонажам, находящимся в области.\n\n<i>Чудовищная смесь, которую даже Диона считает бесчеловечной. Ужас неизбежности лучше оставить врагам. К сожалению, резкое послевкусие этого напитка им придётся прочувствовать только своим носом и кожей.</i>",
+      "id": "Melemparkan minuman dingin spesial yang mengakibatkan <color=#99FFFFFF>Cryo DMG area</color> dan menciptakan Drunken Mist dalam area tersebut.\n\n<color=#FFD780FF>Drunken Mist</color>\n·Mengakibatkan <color=#99FFFFFF>Cryo DMG</color> berkelanjutan terhadap semua musuh yang berada di dalam area.\n·Memulihkan HP karakter yang berada di dalam lingkup area secara terus-menerus.\n\n<i> Racikan mengerikan yang bahkan dianggap tidak manusiawi oleh Diona. Rasa mengerikan yang muncul di awal kecapan harus disuguhkan kepada musuh. Sedangkan rasa dingin dan aroma manis yang muncul setelahnya... sayang sekali, hanya bisa dinikmati dengan hidung dan permukaan kulit saja.</i>",
+      "th": "โยนเครื่องดื่มเย็นสูตรพิเศษออกมา สร้าง<color=#99FFFFFF>ความเสียหายน้ำแข็งวงกว้าง</color> และทำให้เกิดพื้นที่หมอก Drunken Mist\n\n<color=#FFD780FF>Drunken Mist</color>\n·สร้าง<color=#99FFFFFF>ความเสียหายน้ำแข็ง</color>แก่ศัตรูที่อยู่ในบริเวณอย่างต่อเนื่อง;\n·ฟื้นฟูพลังชีวิตให้แก่ตัวละครที่อยู่ในบริเวณอย่างต่อเนื่อง\n\n<i>สูตรผสมที่น่าสยดสยองซึ่งแม้แต่ตัว Diona เองก็ยังคิดว่าช่างโหดร้ายสิ้นดี รสชาติแรกเริ่มที่แสนจะน่ากลัวนั้น คงต้องแนะนำให้เหล่าศัตรูได้ลิ้มลอง; สิ่งที่ตามมานั้นทั้งเย็นและสดชื่น แต่ก็น่าเสียดายที่สามารถเพลิดเพลินได้เฉพาะทางจมูกและผิวหนังเท่านั้น</i>",
+      "vi": "Ném những viên đá được điều chế đặc biệt, gây <color=#99FFFFFF>Sát Thương Phạm Vi Nguyên Tố Băng</color> và tạo thành khu vực Hơi Rượu Băng.\n\n<color=#FFD780FF>Khu Vực Hơi Rượu Băng</color>\n·Gây cho kẻ địch trong đó <color=#99FFFFFF>Sát Thương Nguyên Tố Băng</color> liên tục.\n·Hồi HP liên tục cho nhân vật trong đó.\n\n<i>Công thức kinh khủng khiến Diona cũng tự cảm thấy vô nhân đạo. Mùi vị đầu kinh khủng nên để cho kẻ địch trước, về sau thì thanh mát, tiếc rằng chỉ có thể dùng mũi và da để cảm nhận.</i>"
+    },
+    "imgid": "s_393901"
+  },
+  {
+    "title": {
+      "zhs": "猫尾隐藏菜单",
+      "zht": "貓尾隱藏菜單",
+      "jp": "キャッツテールの裏メニュー",
+      "ko": "캣테일 히든 메뉴",
+      "en": "Cat's Tail Secret Menu",
+      "de": "Geheimes Menü Zum Katzenschwanz",
+      "es": "Menú secreto de Cola de Gato",
+      "fr": "Menu secret de La Queue de Chat",
+      "pt": "Menu Secreto da Cauda do Gato",
+      "ru": "Секретное меню",
+      "id": "Cat's Tail Secret Menu",
+      "th": "Cat's Tail Secret Menu",
+      "vi": "Thực Đơn Bí Mật Đuôi Mèo"
+    },
+    "description": {
+      "zhs": "处于<color=#FFD780FF>猫爪冻冻</color>的护盾保护下的角色，移动速度提升10%，体力消耗降低10%。",
+      "zht": "處於<color=#FFD780FF>貓爪凍凍</color>的護盾保護下的角色，移動速度提升10%，體力消耗降低10%。",
+      "jp": "<color=#FFD780FF>フリーズキャッツクロー</color>のシールドが存在する時、キャラクターの移動速度+10%、スタミナ消費-10%。",
+      "ko": "<color=#FFD780FF>꽁꽁젤리</color> 보호막의 보호를 받고 있는 캐릭터는 이동속도가 10% 증가하고 스태미나 소모량이 10% 감소한다",
+      "en": "Characters shielded by <color=#FFD780FF>Icy Paws</color> have their Movement SPD increased by 10% and their Stamina Consumption decreased by 10%.",
+      "de": "Erhöht die Bewegungs-GSW von Figuren im Schutz eines Schilds von <color=#FFD780FF>Eistatzen</color> um 10 % und verringert ihren Ausdauerverbrauch um 10 %.",
+      "es": "Aumenta en un 10% la Vel. Movimiento y reduce en un 10% el Coste de Aguante de los personajes bajo la protección del escudo creado por <color=#FFD780FF>Zarpazo helado</color>.",
+      "fr": "Augmente de 10 % la VIT de déplacement des personnages sous la protection du bouclier généré par les <color=#FFD780FF>Griffes Cryo</color>. Leur consommation d'endurance est de plus réduite de 10 %.",
+      "pt": "Os personagens protegidos por <color=#FFD780FF>Garras de Gato Gelado</color> têm sua Veloc. Mov. aumentado em 10% e seu Consumo de Stamina diminuído em 10%.",
+      "ru": "Щит навыка <color=#FFD780FF>Морозные коготочки</color> увеличивает скорость передвижения персонажа на 10% и уменьшает его потребление выносливости на 10%.",
+      "id": "Meningkatkan 10% Movement SPD dan mengurangi 10% konsumsi Stamina untuk Karakter yang dilindungi oleh perisai dari skill <color=#FFD780FF>Icy Paws</color>.",
+      "th": "ตัวละครที่อยู่ภายใต้การป้องกันของ <color=#FFD780FF>Icy Paws</color> จะมีความเร็วในการเคลื่อนที่เพิ่มขึ้น 10% และใช้พลังกายน้อยลง 10%",
+      "vi": "Nhân vật được Khiên <color=#FFD780FF>Móng Mèo Lạnh Giá</color> bảo vệ, tốc độ di chuyển tăng 10%, thể lực tiêu hao giảm 10%."
+    },
+    "imgid": "p_392101"
+  },
+  {
+    "title": {
+      "zhs": "滑稽百出的醉相",
+      "zht": "滑稽百出的醉相",
+      "jp": "滑稽な酔態",
+      "ko": "우스꽝스러운 취태",
+      "en": "Drunkards' Farce",
+      "de": "Hundert Weinpossen",
+      "es": "Diversión de los borrachos",
+      "fr": "Joyeuse ébriété",
+      "pt": "Diversão dos Bêbados",
+      "ru": "Пьяный балаган",
+      "id": "Drunkards' Farce",
+      "th": "Drunkards' Farce",
+      "vi": "Kẻ Say Rượu Khôi Hài"
+    },
+    "description": {
+      "zhs": "敌人进入<color=#FFD780FF>最烈特调</color>的领域后的15秒内，攻击力降低10%。",
+      "zht": "敵人進入<color=#FFD780FF>最烈特調</color>的領域後的15秒內，攻擊力降低10%。",
+      "jp": "<color=#FFD780FF>特製スピリッツ</color>のエリアに入った敵の攻撃力が15秒間-10%。",
+      "ko": "적이 <color=#FFD780FF>특제 칵테일</color> 영역에 진입하면 15초 동안 공격력이 10% 감소한다",
+      "en": "Opponents who enter the AoE of <color=#FFD780FF>Signature Mix</color> have 10% decreased ATK for 15s.",
+      "de": "Verringert den ANG von Gegnern im Feld von <color=#FFD780FF>Eisgekühlter Branntwein</color> nach dem Betreten 15 s lang um 10 %.",
+      "es": "Disminuye en un 10% el ATQ infligido por los enemigos que entran en el área de <color=#FFD780FF>Cóctel asesino</color> durante 15 s.",
+      "fr": "Les ennemis entrant dans le champ de vapeur d'alcool de <color=#FFD780FF>Cuvée Spéciale</color> voient leur ATQ baisser de 10 % pendant 15 s.",
+      "pt": "Inimigos que entram na AdE do <color=#FFD780FF>Coquetel Assassino</color> tem seu ATQ reduzido em 10% por 15s.",
+      "ru": "Уменьшает силу атаки вошедших в зону действия навыка <color=#FFD780FF>Авторский коктейль</color> врагов на 10% в течение 15 сек.",
+      "id": "Mengurangi 10% ATK musuh yang masuk ke area skill <color=#FFD780FF>Signature Mix</color> selama 15 detik.",
+      "th": "ศัตรูที่เข้ามาอยู่ในพื้นที่ของ <color=#FFD780FF>Signature Mix</color> จะถูกลดพลังโจมตีลง 10% เป็นเวลา 15 วินาที",
+      "vi": "Trong 15 giây sau khi địch vào khu vực <color=#FFD780FF>Đặc Chế Mãnh Liệt</color> giảm 10% tấn công."
+    },
+    "imgid": "p_392201"
+  },
+  {
+    "title": {
+      "zhs": "附赠的下酒菜",
+      "zht": "附贈的下酒菜",
+      "jp": "おまけのおつまみ",
+      "ko": "무료 안주",
+      "en": "Complimentary Bar Food",
+      "de": "Appetitsanreger",
+      "es": "Refrigerio gratis",
+      "fr": "Apéritif offert",
+      "pt": "Aperitivos Grátis",
+      "ru": "За счёт заведения",
+      "id": "Complimentary Bar Food",
+      "th": "Complimentary Bar Food",
+      "vi": "Đồ Nhắm Tặng Kèm"
+    },
+    "description": {
+      "zhs": "完美烹饪恢复类食物时，有12%概率获得2倍产出。",
+      "zht": "完美烹飪恢復類食物時，有12%的機率獲得兩倍產出。",
+      "jp": "回復系料理を完璧調理した時、12%の確率で料理を2倍獲得する。",
+      "ko": "회복류 요리를 완벽 조리하면 12% 확률로 요리량의 2배를 획득한다",
+      "en": "When a Perfect Cooking is achieved on a dish with restorative effects, there is a 12% chance to obtain double the product.",
+      "de": "Stellt bei der perfekten Zubereitung eines Gerichts mit wiederherstellender Funktion mit einer Wahrscheinlichkeit von 12 % den 2-fachen Ertrag her.",
+      "es": "Al lograr un “Perfecto” en un plato con efectos reconstituyentes, hay una probabilidad del 12% de obtener el doble.",
+      "fr": "12 % de chances d'obtenir un plat supplémentaire lorsque vous cuisinez un plat de soins parfait.",
+      "pt": "Quando uma Culinária Perfeita é feita em uma comida com efeito de recuperação, tem uma chance de 12% de receber o dobro de produção.",
+      "ru": "При приготовлении идеального блюда с восстанавливающими свойствами имеет 12% шанс приготовить дополнительное блюдо.",
+      "id": "Saat masakan jenis pemulihan dimasak dengan sempurna, memiliki 12% kemungkinan mendapatkan hasil 2 kali lipat.",
+      "th": "เมื่อปรุงอาหารประเภทฟื้นฟูได้ ระดับสมบูรณ์ จะมีโอกาส 12% ที่จะได้รับผลผลิตเพิ่มเป็น 2 เท่า",
+      "vi": "Nấu hoàn mỹ món ăn thuộc loại hồi phục, có tỷ lệ 12% x2 sản lượng."
+    },
+    "imgid": "p_392301"
+  }
+]

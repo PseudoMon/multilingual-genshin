@@ -1,0 +1,200 @@
+[
+  {
+    "title": {
+      "zhs": "普通攻击·往生秘传枪法",
+      "zht": "普通攻擊·往生秘傳槍法",
+      "jp": "通常攻撃·往生秘伝槍法",
+      "ko": "일반 공격·왕생 비법 창술",
+      "en": "Normal Attack: Secret Spear of Wangsheng",
+      "de": "Standardangriff: Geheime Wangsheng-Lanzentechnik",
+      "es": "Ataque Normal: Técnica de lanza de El Camino",
+      "fr": "Attaque normale : Lance secrète de Wangsheng",
+      "pt": "Ataque Normal: Lança Secreta de Wangsheng",
+      "ru": "Скрытое копьё «Ваншэн»",
+      "id": "Normal Attack: Secret Spear of Wangsheng",
+      "th": "โจมตีปกติ - Secret Spear of Wangsheng",
+      "vi": "Tấn Công Thường - Thương Pháp Bí Truyền Vãng Sinh"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>普通攻击</color>\n进行至多六段的连续枪击。\n\n<color=#FFD780FF>重击</color>\n消耗一定体力，向前方突进，对路径上的敌人造成伤害。\n\n<color=#FFD780FF>下落攻击</color>\n从空中下坠冲击地面，攻击下落路径上的敌人，并在落地时造成范围伤害。",
+      "zht": "<color=#FFD780FF>普通攻擊</color>\n進行至多六段的連續槍擊。\n\n<color=#FFD780FF>重擊</color>\n消耗一定體力，向前方突進，對路徑上的敵人造成傷害。\n\n<color=#FFD780FF>下落攻擊</color>\n從空中下墜衝擊地面，攻擊下落路徑上的敵人，並在落地時造成範圍傷害。",
+      "jp": "<color=#FFD780FF>通常攻撃</color>\n槍による最大6段の連続攻撃を行う。\n\n<color=#FFD780FF>重撃</color>\n一定のスタミナを消費して前方に突進し、経路上の敵にダメージを与える。\n\n<color=#FFD780FF>落下攻撃</color>\n空中から落下し地面に衝撃を与える。経路上の敵を攻撃し、落下時に範囲ダメージを与える。",
+      "ko": "<color=#FFD780FF>일반 공격</color>\n창으로 최대 6번 공격한다.\n\n<color=#FFD780FF>강공격</color>\n일정 스태미나를 소모해 전방으로 돌진하며 경로상의 적에게 피해를 준다.\n\n<color=#FFD780FF>낙하 공격</color>\n공중에서 땅을 내려찍어 경로상의 적을 공격하고 착지 시 범위 피해를 준다",
+      "en": "<color=#FFD780FF>Normal Attack</color>\nPerforms up to six consecutive spear strikes.\n\n<color=#FFD780FF>Charged Attack</color>\nConsumes a certain amount of Stamina to lunge forward, dealing damage to opponents along the way.\n\n<color=#FFD780FF>Plunging Attack</color>\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+      "de": "<color=#FFD780FF>Standardangriff</color>\nFührt bis zu 6 Lanzenstiche hintereinander aus.\n\n<color=#FFD780FF>Heftiger Schlag</color>\nVerbraucht eine gewisse Menge Ausdauer, sticht geschwind nach vorn und fügt den Gegnern in der Bahn Schaden zu.\n\n<color=#FFD780FF>Angriff aus dem Fall</color>\nSchlägt beim Fallen aus der Luft auf den Boden, greift alle Gegner in der Bahn an und verursacht beim Aufkommen Flächenschaden.",
+      "es": "<color=#FFD780FF>Ataque Normal</color>\nRealiza hasta 6 ataques rápidos con lanza.\n\n<color=#FFD780FF>Ataque Cargado</color>\nConsume una cierta cantidad de Aguante para lanzarse al frente e inflige daño a los enemigos en el camino.\n\n<color=#FFD780FF>Ataque Descendente</color>\nSe lanza desde el aire para golpear el suelo, dañando a los enemigos cercanos e infligiendo Daño en el AdE en el momento del impacto.",
+      "fr": "<color=#FFD780FF>Attaque normale</color>\nEnchaîne jusqu'à 6 coups de lance.\n\n<color=#FFD780FF>Attaque chargée</color>\nConsomme de l'endurance pour charger en ligne droite et infliger des DGT aux ennemis sur la route.\n\n<color=#FFD780FF>Attaque plongeante</color>\nPlonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis en chemin et des DGT de zone à l'impact.",
+      "pt": "<color=#FFD780FF>Ataque Normal</color>\nRealiza até 6 golpes com a lança.\n\n<color=#FFD780FF>Ataque Carregado</color>\nConsome uma certa quantidade de Stamina para se lançar para frente, infligindo Dano em seu trajeto.\n\n<color=#FFD780FF>Ataque Imersivo</color>\nMergulha em pleno ar para golpear o chão, causando dano aos inimigos ao longo do caminho e infligindo Dano em uma AdE durante o impacto.",
+      "ru": "<color=#FFD780FF>Обычная атака:</color>\nДо шести ударов копьём.\n\n<color=#FFD780FF>Заряженная атака:</color>\nВыпад, наносящий урон противникам на пути, на который тратится определённое количество выносливости.\n\n<color=#FFD780FF>Атака в падении:</color>\nСтремительно падает на землю, атакуя всех врагов на пути. Приземлившись, наносит урон по площади.",
+      "id": "<color=#FFD780FF>Normal Attack</color>\nMelancarkan hingga 6 serangan berturut-turut.\n\n<color=#FFD780FF>Charged Attack</color>\nMengonsumsi sejumlah Stamina untuk menerjang ke depan, mengakibatkan DMG pada musuh di jalur terjangan.\n\n<color=#FFD780FF>Plunging Attack</color>\nMenerjang dari udara untuk menghantam tanah, mengakibatkan DMG pada musuh di jalur terjangan dan mengakibatkan DMG area saat mendarat.",
+      "th": "<color=#FFD780FF>โจมตีปกติ</color>\nโจมตีต่อเนื่องมากสุดหกครั้ง\n\n<color=#FFD780FF>ชาร์จโจมตี</color>\nกินพลังกายปริมาณหนึ่งเพื่อ พุ่งไปข้างหน้าและสร้างความเสียหาย แก่ศัตรูที่อยู่ในเส้นทาง\n\n<color=#FFD780FF>โจมตีพุ่งลงจากอากาศ</color>\nกระโจนจากกลางอากาศลงมายังพื้นดิน เพื่อโจมตีศัตรูที่อยู่ในเส้นทางการโจมตี โดยจะสร้างความเสียหายวงกว้างเมื่อลงถึงพื้น",
+      "vi": "<color=#FFD780FF>Tấn Công Thường</color>\nThực hiện tối đa 6 lần đánh liên tiếp.\n\n<color=#FFD780FF>Trọng Kích</color>\nTiêu hao thể lực nhất định, xông về phía trước, gây sát thương cho địch trên đường đi.\n\n<color=#FFD780FF>Tấn Công Khi Đáp</color>\nĐáp xuống đất từ trên không, tấn công kẻ địch trên đường và gây sát thương phạm vi khi chạm đất."
+    },
+    "imgid": "s_463101"
+  },
+  {
+    "title": {
+      "zhs": "蝶引来生",
+      "zht": "蝶引來生",
+      "jp": "蝶導来世",
+      "ko": "나비의 서",
+      "en": "Guide to Afterlife",
+      "de": "Geleit ins Jenseits",
+      "es": "Guía hacia el más allá",
+      "fr": "Chaperon de la renaissance",
+      "pt": "Guia do Além",
+      "ru": "Путеводитель по загробной жизни",
+      "id": "Guide to Afterlife",
+      "th": "Guide to Afterlife",
+      "vi": "Điệp Dẫn Lai Sinh"
+    },
+    "description": {
+      "zhs": "只有永不间断的烈焰可以洗净世间的不净之物。\n胡桃消耗一部分生命值，击退周围敌人，进入彼岸蝶舞状态。\n\n<color=#FFD780FF>彼岸蝶舞</color>\n·基于进入该状态时胡桃的生命值上限，提高胡桃的攻击力。通过这种方式获得的攻击力提升，不能超过胡桃基础攻击力的400%；\n·将攻击伤害转为<color=#FF9999FF>火元素伤害</color>，该元素转化无法被附魔覆盖；\n·重击会为命中的敌人施加血梅香效果；\n·提高胡桃的抗打断能力。\n\n<color=#FFD780FF>血梅香</color>\n处于血梅香状态下的敌人，每4秒会受到一次<color=#FF9999FF>火元素伤害</color>。这个伤害视为元素战技伤害。\n同一个目标身上只能存在一个血梅香效果，且只能被胡桃自己刷新持续时间。\n\n<color=#FFD780FF>彼岸蝶舞</color>将在持续时间结束、胡桃下场或倒下时解除。\n\n<i>胡桃所习得的秘传枪法，其口诀第一句是：「枪开黄泉路，蝶引来世桥。」</i>",
+      "zht": "只有永不間斷的烈焰可以洗淨世間的不淨之物。\n胡桃消耗一部分生命值，擊退周圍敵人，進入彼岸蝶舞狀態。\n\n<color=#FFD780FF>彼岸蝶舞</color>\n·根據進入該狀態時胡桃的生命值上限，提高胡桃的攻擊力。藉由這種方式獲得攻擊力提升，不能超過胡桃基礎攻擊力的400%；\n·將攻擊傷害轉為<color=#FF9999FF>火元素傷害</color>，該元素轉化無法被附魔覆蓋；\n·重擊會為命中的敵人施加血梅香效果；\n·提高胡桃的抗打斷能力。\n\n<color=#FFD780FF>血梅香</color>\n處於血梅香狀態下的敵人，每4秒會受到一次<color=#FF9999FF>火元素傷害</color>。這個傷害視為元素戰技傷害。\n同一個目標身上只能存在一個血梅香效果，且只能由胡桃自身重置持續時間。\n\n<color=#FFD780FF>彼岸蝶舞</color>將在持續時間結束、胡桃下場或倒下時解除。\n\n<i>胡桃所習得的秘傳槍法，其口訣第一句是：「槍開黃泉路，蝶引來世橋。」</i>",
+      "jp": "燃え続ける炎のみが、この世の不浄を払うことができる。\n一定のHPを消費して、周囲の敵をノックバックし、冥蝶の舞状態に入る。\n\n<color=#FFD780FF>冥蝶の舞</color>\n·胡桃のHP上限を基準に攻撃力がアップする。この効果でアップできる攻撃力の最大値は、胡桃の基礎攻撃力の400%まで。\n·攻撃ダメージは<color=#FF9999FF>炎元素ダメージ</color>となり、元素付与によって他の元素に変化することはない。\n·重撃は敵に血梅香効果を与える。\n·胡桃の中断耐性がアップする。\n\n<color=#FFD780FF>血梅香</color>\n血梅香状態の敵は、4秒毎に1度、<color=#FF9999FF>炎元素ダメージ</color>を受ける。このダメージは元素スキルダメージと見なされる。\n同一ターゲットに付与される血梅香効果は同時に最大1つまで。また、血梅香効果の継続時間は効果を付与した胡桃のみが更新可能。\n\n<color=#FFD780FF>冥蝶の舞</color>は継続時間終了時、または胡桃の退場や戦闘不能時に解除される。\n\n<i>胡桃が学んだ秘伝の槍法、その教えの一句目は「槍よ切り開け黄泉の道、蝶よ引き寄せ来世の橋。」</i>",
+      "ko": "소멸하지 않는 화염만이 세상의 불결한 것을 정화할 수 있다.\n호두는 일정량의 HP를 소모해 주변의 적을 넉백시키고 피안접무 상태로 들어간다.\n\n<color=#FFD780FF>피안접무</color>\n·상태 진입 시 호두의 HP 최대치에 기반하여 공격력이 증가한다. 이러한 공격력 증가는 호두 기초 공격력의 400%를 넘을 수 없다.\n·공격이 <color=#FF9999FF>불 원소 피해</color>로 전환되며, 해당 원소 전환은 다른 원소 부여 효과로 대체 될 수 없다.\n·강공격은 명중된 적에게 혈매향 효과를 부여한다.\n·호두의 경직 저항력이 상승한다.\n\n<color=#FFD780FF>혈매향</color>\n혈매향 상태의 적은 4초마다 한 번씩 <color=#FF9999FF>불 원소 피해</color>를 받는다. 해당 피해는 원소전투 스킬 피해로 취급한다.\n타깃 하나당 혈매향 효과는 1개만 존재할 수 있고, 효과의 지속 시간은 호두에 의해서만 리셋된다.\n\n<color=#FFD780FF>피안접무</color>의 효과는 지속 시간이 끝나거나, 호두가 퇴장 혹은 전투 불능 상태가 되었을 때 사라진다.\n\n<i>호두가 배운 비법 창술, 그 가르침의 첫 구절은 이러하다: 「창으로 저승길 문을 열고, 나비를 따라 삼도천을 건너네」</i>",
+      "en": "Only an unwavering flame can cleanse the impurities of this world.\nHu Tao consumes a set portion of her HP to knock the surrounding enemies back and enter the Paramita Papilio state.\n\n<color=#FFD780FF>Paramita Papilio</color>\n·Increases Hu Tao's ATK based on her Max HP at the time of entering this state. ATK Bonus gained this way cannot exceed 400% of Hu Tao's Base ATK.\n·Converts attack DMG to <color=#FF9999FF>Pyro DMG</color>, which cannot be overridden by any other elemental infusion.\n·Charged Attacks apply the Blood Blossom effect to the enemies hit.\n·Increases Hu Tao's resistance to interruption.\n\n<color=#FFD780FF>Blood Blossom</color>\nEnemies affected by Blood Blossom will take <color=#FF9999FF>Pyro DMG</color> every 4s. This DMG is considered Elemental Skill DMG.\nEach enemy can be affected by only one Blood Blossom effect at a time, and its duration may only be refreshed by Hu Tao herself.\n\n<color=#FFD780FF>Paramita Papilio</color> ends when its duration is over, or Hu Tao has left the battlefield or fallen.\n\n<i>Hu Tao's Secret Spear technique is based on several rules, the first of which is: \"The spear opens the path to the afterlife, and the butterflies bridge this world and the next.\"</i>",
+      "de": "Nur mit einer immer währenden Flamme kann die Welt vom Schmutz bereinigt werden.\nVerbraucht einen Teil von Hu Taos LP, stößt Gegner in der Umgebung zurück und aktiviert den Zustandt Paramita-Schmetterlingstanz.\n\n<color=#FFD780FF>Paramita-Schmetterlingstanz</color>\n· Erhöht Hu Taos ANG gemäß ihrer max. LP bei Aktivierung des Zustands. Dieser Angriffsbonus erreicht bis zu 400 % von Hu Taos Basis-ANG.\n· Verleiht dem Schaden von Angriffen die <color=#FF9999FF>Pyro-Kraft</color>. Diese Elementarumwandlung kann nicht von anderen Elementen überdeckt werden.\n· Fügt mit heftigen Schlägen getroffenen Gegnern den Effekt der Blutblüten zu.\n· Erhöht Hu Taos Unterbrechungs-WDS.\n\n<color=#FFD780FF>Blutblüten</color>\nVom Zustand Blutblüten betroffene Gegner erleiden alle 4 s <color=#FF9999FF>Pyro-Schaden</color>. Dieser Schaden gilt als Elementarfähigkeitsschaden.\nDer Zustand Blutblüten ist nicht stapelbar und kann nur von Hu Tao selbst aktualisiert werden.\n\nDie Wirkung von <color=#FFD780FF>Paramita-Schmetterlingstanz</color> endet, sobald die Dauer abläuft oder Hu Tao ausgewechselt oder besiegt wird.\n\n<i>Die Lanzentechnik, die Hu Tao übt, gründet auf einem Regelwerk, das mit folgenden Worten beginnt: „Die Lanze öffnet den Weg ins Jenseit, die Schmetterlinge bilden die Brücke dorthin.“</i>",
+      "es": "Solo las llamas eternas pueden purificar las impurezas de este mundo.\nHu Tao consume una parte de su Vida para empujar a sus enemigos y entrar en el estado de mariposa excelsa.\n\n<color=#FFD780FF>Mariposa excelsa</color>\n·Aumenta el ATQ de Hu Tao en función de la Vida Máx. que tenía al entrar en este estado. El bono de ATQ obtenido de esta forma no podrá ser superior al 400% del ATQ Básico de Hu Tao.\n·El daño de ATQ se convierte en <color=#FF9999FF>Daño Pyro</color>. Este cambio elemental no puede sustituirse imbuyéndose de otro elemento.\n·Al atacar a sus enemigos con Ataques Cargados, aplicará sobre ellos el efecto de pétalos sangrientos.\n·Aumenta la RES a interrupción de Hu Tao.\n\n<color=#FFD780FF>Pétalos sangrientos</color>\nLos enemigos afectados por pétalos sangrientos recibirán <color=#FF9999FF>Daño Pyro</color> cada 4 s. Este daño se considera daño de Habilidad Elemental.\nCada enemigo solo puede ser afectado por un único pétalo sangriento al mismo tiempo, y dicho efecto solamente podrá ser reiniciado por Hu Tao.\n\nEl estado de <color=#FFD780FF>mariposa excelsa</color> se disipará cuando su duración termine, o cuando Hu Tao se retire del combate o sea derrotada.\n\n<i>La primera regla para aprender la técnica de lanza de Hu Tao es: “Las lanzas abren el camino hacia el inframundo, mientras que las mariposas hacen de puente con él”.</i>",
+      "fr": "Seule la flamme éternelle peut purifier le mal de ce monde.\nHu Tao consomme un certain montant de PV pour repousser les ennemis proches, et entre dans l'état Paramita Papilio.\n\n<color=#FFD780FF>Paramita Papilio</color>\n· L'ATQ de Hu Tao augmente proportionnellement à ses PV max au moment où elle entre dans cet état. Le bonus ainsi conféré ne peut pas dépasser 400 % de son ATQ de base.\n· Les DGT d'attaque sont convertis en <color=#FF9999FF>DGT Pyro</color>, et ne peuvent pas être enchantés.\n· Les attaques chargées infligent l'effet Bourgeon de prune.\n· Augmente la RÉS à l'interruption de Hu Tao.\n\n<color=#FFD780FF>Bourgeon de prune</color>\nLes ennemis affectés par Bourgeon de prune subissent des <color=#FF9999FF>DGT Pyro</color> toutes les 4 s, qui sont considérés comme étant des DGT de compétence élémentaire.\nLa même cible ne peut être affectée que par un seul Bourgeon de prune à la fois, et la durée de cet effet ne peut être rafraîchie que par Hu Tao.\n\nL'état <color=#FFD780FF>Paramita Papilio</color> se termine à la fin de sa durée, lorsque Hu Tao quitte le champ de bataille ou lorsqu'elle est vaincue.\n\n<i>La technique de la lance secrète est basée sur plusieurs principes, dont le premier est : « la lance ouvre les portes de l'au-delà et les papillons forment un pont entre les deux mondes. »</i>",
+      "pt": "Somente as chamas eternas podem limpar esse mundo.\nHutao consome uma parte de Vida e repele os inimigos próximos, entrando no estado de Dança de Borboleta.\n\n<color=#FFD780FF>Dança de Borboleta</color>\n·A Dança de Borboleta aumenta o ATQ de Hutao com base em sua Vida Máxima. O ATQ obtido dessa forma não poderá ultrapassar 400% do seu ATQ Básico;\n·O Dano do ATQ é transformado em <color=#FF9999FF>Dano Pyro</color>. Esse dano elemental não pode ser substituído por outro encantamento elemental;\n·O Ataque Carregado pode causar aos inimigos atingidos o efeito de Pétalas Sangrentas;\n·Aumenta a resistência de Hutao a interrupções.\n\n<color=#FFD780FF>Pétalas Sangrentas</color>\nOs inimigos afetados pelas Pétalas Sangrentas receberão a cada 4s <color=#FF9999FF>Dano Pyro</color> uma vez. Esse dano é considerado dano de habilidade elemental.\nSó é possível existir um efeito de Pétalas Sangrentas por alvo, e sua duração só pode ser renovada por Hutao.\n\n<color=#FFD780FF>Dança de Borboleta</color> só se dissipará quando sua duração terminar ou quando Hutao for retirada do combate ou ser derrotada.\n\n<i>A primeira regra para se aprender a técnica secreta de Hutao é: \"A lança abre o caminho para a vida depois da morte, e as borboletas ligam este mundo e o próximo\".</i>",
+      "ru": "Лишь непоколебимое пламя может очистить этот мир.\nХу Тао потребляет определённое количество HP, откидывает окружающих её противников и входит в состояние Танец бабочки.\n\n<color=#FFD780FF>Танец бабочки:</color>\n· Сила атаки Ху Тао в этом состоянии увеличивается в зависимости от её макс. HP. Полученный таким образом бонус силы атаки не может превышать 400% от базовой силы атаки Ху Тао.\n· Конвертирует урон от атак в <color=#FF9999FF>Пиро урон</color>, этот эффект не может быть отменён какой-либо элементальной инфузией.\n· Заряженные атаки накладывают на врагов эффект Кровавого цветка.\n· Повышает сопротивление Ху Тао к прерыванию.\n\n<color=#FFD780FF>Кровавый цветок:</color>\nПротивники с эффектом Кровавого цветка будут получать <color=#FF9999FF>Пиро урон</color> каждые 4 сек., который считается уроном элементального навыка.\nКаждый противник может иметь только один эффект Кровавого цветка, и его длительность может быть обновлена только самой Ху Тао.\n\n<color=#FFD780FF>Танец бабочки</color> заканчивается, если истёк срок действия, Ху Тао покинула поле боя или повержена.\n\n<i>Техника скрытого копья Ху Тао основывается на нескольких правилах, первое из которых гласит: «На тот свет дорогу открывает копьё, идут вслед за бабочками умерших души».</i>",
+      "id": "Hanya kobaran api tak terpadamkan yang dapat membersihkan ketidakmurnian dunia ini.\nHu Tao mengonsumsi sejumlah HP untuk menyerang dan menghempas musuh di sekitar, kemudian masuk ke dalam kondisi Paramita Papilio.\n\n<color=#FFD780FF>Paramita Papilio</color>\n·Kondisi ini meningkatkan ATK Hu Tao berdasarkan Max HP. Tambahan bonus ATK tidak dapat melebihi 400% Base ATK Hu Tao.\n·Mengonversi DMG serangan menjadi <color=#FF9999FF>Pyro DMG</color>, konversi ini tidak dapat ditimpa oleh Elemental Infusion lainnya.\n·Musuh yang terkena Charged Attack akan terkena efek Blood Blossom.\n·Meningkatkan ketahanan Hu Tao terhadap interupsi.\n\n<color=#FFD780FF>Blood Blossom</color>\nMusuh yang terkena efek Blood Blossom akan menerima <color=#FF9999FF>Pyro DMG</color> setiap 4 detik. DMG yang diakibatkan akan dihitung sebagai Elemental Skill DMG.\nSetiap musuh hanya dapat dipengaruhi oleh satu efek Blood Blossom dalam satu waktu, dan durasi waktunya hanya bisa diperbarui oleh Hu Tao sendiri.\n\n<color=#FFD780FF>Paramita Papilio</color> berhenti saat durasi waktunya berakhir, atau saat Hu Tao telah meninggalkan medan pertempuran/gugur.\n\n<i>Teknik Secret Spear Hu Tao didasarkan pada beberapa aturan, di mana aturan yang pertama adalah: \"Tombak membuka jalan menuju akhirat, dan kupu-kupu menjembatani dunia sekarang dan dunia berikutnya.\"</i>",
+      "th": "มีเพียงเปลวไฟอันเป็นนิรันดร์เท่านั้นที่จะสามารถชำระล้างสิ่งที่ไม่บริสุทธิ์ในโลกได้\nHu Tao จะใช้พลังชีวิตบางส่วนเพื่อโจมตีศัตรูที่อยู่รอบตัวและเข้าสู่สภาวะ Paramita Papilio\n\n<color=#FFD780FF>Paramita Papilio</color>\n·เพิ่มพลังโจมตีของ Hu Tao โดยขึ้นอยู่กับพลังชีวิตสูงสุดของ Hu Tao ในตอนที่เข้าสู่สภาวะนี้ โดยพลังโจมตีที่เพิ่มขึ้นด้วยวิธีนี้ จะไม่เกิน 400% ของพลังโจมตีพื้นฐานของ Hu Tao;\n·เปลี่ยนความเสียหายของการโจมตีเป็น<color=#FF9999FF>ความเสียหายไฟ</color> ซึ่งการเปลี่ยนแปลงธาตุนี้ไม่สามารถแทนที่ด้วยการแปลงของธาตุอื่นได้;\n·ชาร์จโจมตีจะทำให้ศัตรูที่ถูกโจมตีติดเอฟเฟกต์ Blood Blossom;\n·เพิ่มความสามารถในการต้านทานการหยุดชะงักของ Hu Tao\n\n<color=#FFD780FF>Blood Blossom</color>\nศัตรูที่ได้รับผลกระทบของ Blood Blossom จะได้รับ<color=#FF9999FF>ความเสียหายไฟ</color>ในทุก 4 วินาที ซึ่งความเสียหายนี้ จะถูกมองว่าเป็นความเสียหายของสกิลธาตุ\nศัตรูหนึ่งตัวจะสามารถติดเอฟเฟกต์ Blood Blossom ได้เพียงหนึ่งครั้งในช่วงเวลาเดียวกันเท่านั้น และสามารถถูกรีเฟรชเวลาต่อเนื่องได้โดยตัวของ Hu Tao เองเท่านั้น\n\n<color=#FFD780FF>Paramita Papilio</color> จะหายไปเมื่อหมดช่วงเวลาต่อเนื่อง หรือเมื่อ Hu Tao ออกจากการต่อสู้หรือหมดสติ\n\n<i>วิชาหอกที่ Hu Tao ได้รับสืบทอดมา เริ่มต้นด้วยคำพูดที่ว่า: \"คมหอกเปิดประตูสู่ยมโลก ผีเสื้อเชื่อมโยงชีวิตหลังความตาย\"</i>",
+      "vi": "Chỉ có ngọn lửa bất diệt mới có thể gột rửa những thứ ô uế trên thế gian.\nHu Tao tiêu hao một phần HP đánh lui kẻ địch xung quanh, bước vào trạng thái \"Bỉ Ngạn Điệp Vũ\".\n\n<color=#FFD780FF>Bỉ Ngạn Điệp Vũ</color>\n·Sức tấn công của Hu Tao sẽ tăng lên dựa theo giới hạn HP khi vào trạng thái này, tấn công tăng lên bằng cách này không được vượt quá 400% tấn công cơ bản của Hu Tao.\n·Chuyển sát thương tấn công thành <color=#FF9999FF>sát thương Nguyên Tố Hỏa</color>, nguyên tố chuyển hóa này không thể bị đính kèm thay thế;\n·Trọng kích sẽ tăng thêm hiệu quả Huyết Mai Hương cho kẻ địch bị đánh trúng.\n·Tăng khả năng kháng gián đoạn của Hu Tao.\n\n<color=#FFD780FF>Huyết Mai Hương</color>\nKẻ địch ở trạng thái Huyết Mai Hương, mỗi 4 giây sẽ chịu <color=#FF9999FF>sát thương Nguyên Tố Hỏa</color> 1 lần. Sát thương này được xem là sát thương kỹ năng Nguyên Tố.\nCùng một mục tiêu chỉ được tồn tại 1 hiệu quả Huyết Mai Hương, và chỉ có bản thân Hu Tao được làm mới thời gian kéo dài.\n\n<color=#FFD780FF>Bỉ Ngạn Điệp Vũ</color> sẽ được giải trừ khi kết thúc thời gian duy trì kỹ năng, Hu Tao rời trận hoặc bị đánh bại.\n\n<i>Câu đầu tiên trong khẩu quyết của phương pháp bí truyền mà Hu Tao học được là: \"Thương trấn Hoàng Tuyền Lộ, bướm bay Cầu Lai Thế.\"</i>"
+    },
+    "imgid": "s_463201"
+  },
+  {
+    "title": {
+      "zhs": "安神秘法",
+      "zht": "安神秘法",
+      "jp": "安神秘法",
+      "ko": "평안의 서",
+      "en": "Spirit Soother",
+      "de": "Geheime Kunst der Besänftigung",
+      "es": "Calma de los espíritus",
+      "fr": "Apaisement divin",
+      "pt": "Pacificadora de Espíritos",
+      "ru": "Упокоение духов",
+      "id": "Spirit Soother",
+      "th": "Spirit Soother",
+      "vi": "An Thần Bí Pháp"
+    },
+    "description": {
+      "zhs": "挥动炽热的魂灵，造成大范围<color=#FF9999FF>火元素伤害</color>。\n命中敌人时，基于胡桃的生命值上限，恢复胡桃的生命值。这个效果最多对5个命中的敌人生效。\n如果技能命中时胡桃的生命值低于或等于50%，则造成更高的伤害与治疗量。\n\n<i>已经离开人世之物如果还在活蹦乱跳，就会让往生堂十分焦虑。火葬是最能让胡桃安定心神的手段，而她越焦虑，火力就越大。</i>",
+      "zht": "揮動熾熱的魂靈，造成大範圍<color=#FF9999FF>火元素傷害</color>。\n命中敵人時，基於胡桃的生命值上限，恢復胡桃的生命值。這個效果最多對5個命中的敵人生效。\n如果技能命中時胡桃的生命值低於或等於50%，則造成更高的傷害與治療量。\n\n<i>已經離開人世之物如果還在活蹦亂跳，就會讓往生堂十分焦慮。火葬是最能讓胡桃安定心神的手段，而她越焦慮，火力就越大。</i>",
+      "jp": "灼熱の魂を振り回し、広範囲に<color=#FF9999FF>炎元素ダメージ</color>を与える。\n敵に命中した時、胡桃のHP上限を基準に自身のHPが回復する。この効果は命中した敵1体毎に発動し、最大で5体まで効果が発動する。\n胡桃のHPが50%以下の時、より高いダメージと回復効果を持つ。\n\n<i>既にこの世を去った者がまだ元気そうにしていると、往生堂は焦燥や不安に駆られる。火葬は胡桃の心を一番落ち着かせることができる手段である。そのため、彼女は焦燥すればするほど、火力が上昇する。</i>",
+      "ko": "타오르는 유령을 휘둘러 넓은 범위의 <color=#FF9999FF>불 원소 피해</color>를 준다.\n적에게 명중 시 호두의 HP 최대치에 기반하여 호두의 HP를 회복한다. 해당 효과는 최대 5명의 명중된 적에게서 효과를 볼 수 있다.\n스킬 명중 시 호두의 HP가 50% 이하라면, 가하는 피해와 치유량이 더 높아진다.\n\n<i>이미 세상을 떠난 존재가 이 세상에 버젓이 남아있다면, 왕생당은 애가 탄다. 화장(火葬)은 호두를 안심시킬 수 있는 가장 좋은 방법이다. 그녀가 초조해할수록 화력은 더욱 거세질 것이다</i>",
+      "en": "Commands a blazing spirit to attack, dealing <color=#FF9999FF>Pyro DMG</color> in a large AoE.\nUpon striking the enemy, regenerates a percentage of Hu Tao's Max HP. This effect can be triggered up to 5 times, based on the number of enemies hit.\nIf Hu Tao's HP is below or equal to 50% when the enemy is hit, both the DMG and HP Regeneration are increased.\n\n<i>Supernatural activity by those who have already left this world is a source of great anxiety for the Wangsheng Funeral Parlor. In such cases, cremation always lets Hu Tao find peace of mind. The more anxious she feels, the stronger the flame.</i>",
+      "de": "Befiehlt einem Flammengeist anzugreifen und verursacht <color=#FF9999FF>Pyro-Flächenschaden</color> in einem großen Bereich.\nStellt Hu Tao beim Treffen von Gegnern LP basierend auf ihren max. LP wieder her. Dieser Effekt ist auf 5 getroffene Gegner beschränkt.\nVerursacht bei weniger als 50 % LP beim Treffen von Gegnern mit dieser Fähigkeit mehr Schaden und stellt mehr LP wieder her.\n\n<i>Dass sich die Geister verschiedener Menschen weiter in dieser Welt aufhalten, ist eine große Sorge beim Bestattungsunternehmen Wangsheng. Feuerbestattungen helfen Hu Tao, wieder zur Ruhe zu kommen. Je größer ihre Sorge ist, desto stärker sind auch die Flammen.</i>",
+      "es": "Hu Tao ordena a un espíritu en llamas que ataque, e inflige <color=#FF9999FF>Daño Pyro</color> en una gran AdE.\nAl golpear a sus enemigos, Hu Tao regenera Vida en proporción a su Vida Máx. Este efecto solo puede tener lugar contra un máximo de 5 enemigos.\nSi la Vida de Hu Tao es inferior o igual al 50% al atacar con esta habilidad, infligirá mayor daño y regenerará más Vida.\n\n<i>Si un alma que ya ha dejado este mundo sigue revoloteando por él a sus anchas, causará una gran preocupación a la Funeraria El Camino. La cremación es el método que más tranquiliza a Hu Tao, ya que cuanto más nerviosa está, más grandes son sus llamas.</i>",
+      "fr": "Faisant appel aux âmes ardentes, Hu Tao inflige des <color=#FF9999FF>DGT Pyro</color> dans une large zone.\nHu Tao récupère à chaque ennemi touché (5 ennemis max) une quantité de PV proportionnelle à ses PV max.\nLes DGT infligés et les PV récupérés sont plus importants si les PV de Hu Tao sont inférieurs ou égaux à 50 % lorsque la compétence touche.\n\n<i>Le Funérarium Wangsheng ne voit pas d'un bon œil les âmes refusant de quitter ce monde. La crémation est pour Hu Tao le meilleur moyen d'avoir l'esprit tranquille – mais plus elle est anxieuse et plus son feu est puissant.</i>",
+      "pt": "Balança a sua alma flamejante, causando <color=#FF9999FF>Dano Pyro</color> em uma grande AdE.\nAo acertar nos inimigos, restaura a Vida de Hutao baseando na sua Vida Máxima. Esse efeito pode ser aplicado até 5 inimigos acertados.\nAo acertar, se a Vida de Hutao for inferior ou igual a 50%, pode causar um maior Dano e Cura.\n\n<i>Se um falecido ainda está ativo no mundo mortal, a Funerária de Wangsheng poderia ficar inquieta. A cremação é uma maneira que pode acalmar Hutao, todavia, quanto mais preocupada ela fica, maior as suas chamas.</i>",
+      "ru": "Приказывает пылающему духу атаковать, нанося <color=#FF9999FF>Пиро урон</color> по большой площади.\nПри попадании по врагу восстанавливает некоторый процент макс. HP Ху Тао. Этот эффект может активироваться до 5 раз, в зависимости от количества задетых противников.\nЕсли HP Ху Тао равно или ниже 50% в момент попадания по противнику, наносимый урон и количество восстановленного HP увеличиваются.\n\n<i>Сверхъестественная активность тех, кто уже покинул этот мир, является источником больших переживаний в похоронном бюро «Ваншэн». В подобных случаях кремация всегда помогает Ху Тао обрести душевный покой. Чем больше она тревожится, тем сильнее пламя.</i>",
+      "id": "Memerintahkan roh yang membara untuk menyerang dan mengakibatkan <color=#FF9999FF>Pyro DMG</color> pada area yang besar.\nSaat memukul musuh, akan memulihkan HP berdasarkan persentase Max HP Hu Tao. Efek ini dapat terpicu ke 5 musuh berbeda.\nJika HP Hu Tao sama dengan atau kurang dari 50% saat skill ini mengenai musuh, maka DMG dan pemulihan HP akan meningkat.\n\n<i>Aktivitas supernatural dari roh-roh yang telah meninggalkan dunia ini adalah kecemasan terbesar Wangsheng Funeral Parlor. Tetapi kegiatan kremasi selalu bisa meredakan kecemasan Hu Tao, dan semakin cemas Hu Tao, semakin kuat juga api kremasi yang dia gunakan.</i>",
+      "th": "ควบคุมจิตวิญญาณแห่งเปลวเพลิงเพื่อสร้าง<color=#FF9999FF>ความเสียหายไฟ</color>วงกว้าง\nเมื่อโจมตีถูกศัตรู จะเป็นการฟื้นฟูพลังชีวิตให้ Hu Tao โดยที่ปริมาณการฟื้นฟูจะขึ้นอยู่กับพลังชีวิตสูงสุดของ Hu Tao ซึ่งเอฟเฟกต์นี้จะเกิดผลกับศัตรูที่ถูกโจมตีได้มากสุด 5 ตัว\nหากใช้สกิลโจมตีถูกศัตรูในตอนที่พลังชีวิตของ Hu Tao ต่ำกว่าหรือเท่ากับ 50% ปริมาณความเสียหายที่สร้างและปริมาณการรักษาจะสูงขึ้น\n\n<i>หากสิ่งที่ล่วงลับไปแล้วยังคงออกมาป้วนเปี้ยน เช่นนั้นจะทำให้ทางโถงแห่งการเกิดใหม่ Wangsheng เป็นกังวลอย่างมาก ซึ่งการฌาปนกิจนั้นเป็นวิธีที่ดีที่สุดในการทำให้จิตใจของ Hu Tao สงบลงได้ ยิ่งเธอกังวลมากเท่าไหร่ พลังแห่งไฟก็จะยิ่งแข็งแกร่งขึ้นเท่านั้น</i>",
+      "vi": "Vung linh hồn rực lửa, gây <color=#FF9999FF>sát thương Nguyên Tố Hỏa</color> phạm vi lớn.\nKhi trúng kẻ địch, sẽ hồi HP cho Hu Tao dựa theo giới hạn HP của Hu Tao. Hiệu quả này có hiệu lực với tối đa 5 kẻ địch bị đánh trúng.\nNếu HP của Hu Tao thấp hơn hoặc bằng 50% khi bị kỹ năng đánh trúng thì sẽ gây ra sát thương và lượng trị liệu cao hơn.\n\n<i>Thứ đã rời khỏi trần thế nếu vẫn còn tự do đi lại, sẽ khiến Vãng Sinh Đường vô cùng lo lắng. Hỏa táng là cách giúp Hu Tao yên tâm nhất. Hơn nữa, cô ấy càng lo thì lửa sẽ càng lớn.</i>"
+    },
+    "imgid": "s_463901"
+  },
+  {
+    "title": {
+      "zhs": "蝶隐之时",
+      "zht": "蝶隱之時",
+      "jp": "蝶隠の時",
+      "ko": "모습을 감춘 나비",
+      "en": "Flutter By",
+      "de": "Schmetterlingsflügelschlag",
+      "es": "Aleteo sutil",
+      "fr": "Chrysalide",
+      "pt": "Crisálida",
+      "ru": "Порхай как бабочка",
+      "id": "Flutter By",
+      "th": "Flutter By",
+      "vi": "Điệp Ẩn Chi Thời"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>蝶引来生</color>施加的<color=#FFD780FF>彼岸蝶舞</color>状态结束后，队伍中所有角色（不包括胡桃自己）的暴击率提高12%，持续8秒。",
+      "zht": "<color=#FFD780FF>蝶引來生</color>施加的<color=#FFD780FF>彼岸蝶舞</color>狀態結束後，隊伍中所有角色（不包括胡桃自己）的暴擊率提高12%，持續8秒。",
+      "jp": "<color=#FFD780FF>蝶導来世</color>による<color=#FFD780FF>冥蝶の舞</color>状態終了後、チーム全員（胡桃自身を除く）の会心率+12%、継続時間8秒。",
+      "ko": "<color=#FFD780FF>나비의 서</color>가 부여하는 <color=#FFD780FF>피안접무</color> 상태가 끝난 후, 파티 내 모든 캐릭터(호두 자신은 제외)의 치명타 확률이 12% 증가한다. 지속시간 : 8초",
+      "en": "When a <color=#FFD780FF>Paramita Papilio</color> state activated by <color=#FFD780FF>Guide to Afterlife</color> ends, all allies in the party (excluding Hu Tao herself) will have their CRIT Rate increased by 12% for 8s.",
+      "de": "Erhöht die KT aller Truppenmitglieder (außer Hu Tao selbst) nach dem Ende des Zustands <color=#FFD780FF>Paramita-Schmetterlingstanz</color> von <color=#FFD780FF>Geleit ins Jenseits</color> 8 s lang um 12 %.",
+      "es": "Al terminar la duración del estado de <color=#FFD780FF>mariposa excelsa</color> aplicado mediante <color=#FFD780FF>Guía hacia el más allá</color>, la Prob. CRIT de todos los miembros del equipo (a excepción de Hu Tao) aumenta en un 12% durante 8 s.",
+      "fr": "Le taux CRIT de tous les personnages de l'équipe (à l'exception de Hu Tao) augmente de 12 % pendant 8 s lorsque l'état <color=#FFD780FF>Paramita Papilio</color> conféré par <color=#FFD780FF>Chaperon de la renaissance</color> prend fin.",
+      "pt": "Após o estado da <color=#FFD780FF>Dança de Borboleta</color> aplicado por <color=#FFD780FF>Guia do Além</color> terminar, a Taxa CRIT de todos os personagens (menos Hutao) na equipe aumenta em 12% por 8s.",
+      "ru": "После окончания состояния <color=#FFD780FF>Танец бабочки</color> навыка <color=#FFD780FF>Путеводитель по загробной жизни</color> шанс крит. попадания всех членов отряда (кроме самой Ху Тао) увеличивается на 12% в течение 8 сек.",
+      "id": "Saat kondisi <color=#FFD780FF>Paramita Papilio</color> yang diaktifkan oleh <color=#FFD780FF>Guide to Afterlife</color> telah berakhir, akan meningkatkan 12% CRIT Rate seluruh anggota party (tidak termasuk Hu Tao sendiri) selama 8 detik.",
+      "th": "หลังจากสภาวะของ <color=#FFD780FF>Paramita Papilio</color> ที่เกิดขึ้นโดย <color=#FFD780FF>Guide to Afterlife</color> สิ้นสุดลง อัตราคริของตัวละครทั้งหมดในทีม (ไม่รวมตัวของ Hu Tao เอง) จะเพิ่มขึ้น 12% เป็นเวลา 8 วินาที",
+      "vi": "Sau khi trạng thái <color=#FFD780FF>Bỉ Ngạn Điệp Vũ</color> mà <color=#FFD780FF>Điệp Dẫn Lai Sinh</color> tạo ra kết thúc, tỷ lệ bạo kích của tất cả nhân vật trong đội (Không bao gồm Hu Tao) tăng 12%, duy trì 8s."
+    },
+    "imgid": "p_462101"
+  },
+  {
+    "title": {
+      "zhs": "血之灶火",
+      "zht": "血之灶火",
+      "jp": "血のかまど",
+      "ko": "핏빛 분장",
+      "en": "Sanguine Rouge",
+      "de": "Feuerrote Wangen",
+      "es": "Baño de sangre",
+      "fr": "Sang bouillant",
+      "pt": "Sangue Fervendo",
+      "ru": "Кровавая сангина",
+      "id": "Sanguine Rouge",
+      "th": "Sanguine Rouge",
+      "vi": "Huyết Chi Táo Hỏa"
+    },
+    "description": {
+      "zhs": "胡桃的生命值低于或等于50%时，获得33%<color=#FF9999FF>火元素伤害加成</color>。",
+      "zht": "胡桃的生命值低於或等於50%時，獲得33%<color=#FF9999FF>火元素傷害加成</color>。",
+      "jp": "胡桃のHPが50%以下の時、<color=#FF9999FF>炎元素ダメージ</color>+33%。",
+      "ko": "호두의 HP가 50% 이하일 때, 33%의 <color=#FF9999FF>불 원소 피해 보너스</color>를 획득한다",
+      "en": "When Hu Tao's HP is equal to or less than 50%, her <color=#FF9999FF>Pyro DMG Bonus</color> is increased by 33%.",
+      "de": "Erhöht Hu Taos <color=#FF9999FF>Pyro-Schaden</color> bei weniger als 50 % LP um 33 %.",
+      "es": "Cuando su Vida es inferior o igual al 50%, Hu Tao obtiene un 33% de <color=#FF9999FF>Bono de Daño Pyro</color>.",
+      "fr": "Hu Tao obtient un <color=#FF9999FF>bonus de DGT Pyro</color> de 33 % lorsque ses PV sont inférieurs ou égaux à 50 %.",
+      "pt": "Quando a Vida de Hutao ficar inferior ou igual a 50%, obterá 33% de <color=#FF9999FF>bônus de Dano Pyro</color>.",
+      "ru": "Увеличивает <color=#FF9999FF>бонус Пиро урона</color> Ху Тао на 33%, когда её HP меньше или равно 50%.",
+      "id": "Saat HP Hu Tao kurang dari atau sama dengan 50%, maka Hu Tao akan memperoleh 33% <color=#FF9999FF>Pyro DMG Bonus</color>.",
+      "th": "เมื่อพลังชีวิตของ Hu Tao ต่ำกว่าหรือเท่ากับ 50% จะได้รับ<color=#FF9999FF>โบนัสความเสียหายไฟ</color> 33%",
+      "vi": "Khi HP của Hu Tao dưới hoặc bằng 50% sẽ nhận được 33% <color=#FF9999FF>buff sát thương Nguyên Tố Hỏa</color>."
+    },
+    "imgid": "p_462201"
+  },
+  {
+    "title": {
+      "zhs": "多多益善",
+      "zht": "多多益善",
+      "jp": "多々益善",
+      "ko": "다다익선",
+      "en": "The More the Merrier",
+      "de": "Je mehr, desto besser",
+      "es": "Cuanto más, mejor",
+      "fr": "Plus il y en a, mieux c'est",
+      "pt": "Quanto Mais, Melhor",
+      "ru": "Чем больше, тем лучше",
+      "id": "The More the Merrier",
+      "th": "The More the Merrier",
+      "vi": "Đa Đa Ích Thiện"
+    },
+    "description": {
+      "zhs": "完美烹饪食物时，有18%概率额外获得一个「奇怪的」品质的同种料理。",
+      "zht": "完美烹飪食物時，有18%的機率額外獲得一個「奇怪的」品質的同種料理。",
+      "jp": "料理を完璧調理した時、18%の確率で「微妙な」品質の同一料理を獲得する。",
+      "ko": "요리를 완벽 조리하면 18%의 확률로 같은 종류의 「이상한」 품질의 요리를 1개 획득한다",
+      "en": "When Hu Tao cooks a dish perfectly, she has a 18% chance to receive an additional \"Suspicious\" dish of the same type.",
+      "de": "Stellt bei der perfekten Zubereitung von Gerichten mit einer Wahrscheinlichkeit von 18 % zusätzlich die misslungene Variante des jeweiligen Gerichts her.",
+      "es": "Al lograr un “Perfecto” al cocinar un plato, hay una probabilidad del 18% de obtener ese mismo plato con calidad “extraña”.",
+      "fr": "18 % de chances d'obtenir un plat suspect supplémentaire du même type lorsque vous cuisinez un plat parfait.",
+      "pt": "Quando uma Culinária Perfeita é feita, tem uma chance de 18% de receber uma Culinária Esquisita de mesmo gênero.",
+      "ru": "При приготовлении идеального блюда имеет 18% шанс приготовить дополнительное «странное» блюдо того же типа.",
+      "id": "Saat Hu Tao memasak makanan dengan sempurna, terdapat 18% kemungkinan mendapatkan hasil tambahan makanan \"Suspicious\" dari jenis makanan yang sama.",
+      "th": "เมื่อปรุงอาหารได้ระดับสมบูรณ์ จะมีโอกาส 18% ที่จะได้รับอาหารประเภทเดียวกันในระดับ \"รสประหลาด\" เพิ่มหนึ่งจาน",
+      "vi": "Khi nấu hoàn mỹ món ăn có 18% cơ hội nhận thêm 1 món cùng loại với phẩm chất \"kỳ lạ\"."
+    },
+    "imgid": "p_462301"
+  }
+]

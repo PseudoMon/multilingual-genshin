@@ -1,0 +1,200 @@
+[
+  {
+    "title": {
+      "zhs": "普通攻击·砰砰",
+      "zht": "普通攻擊·砰砰",
+      "jp": "通常攻撃·バンバン",
+      "ko": "일반 공격·펑펑",
+      "en": "Normal Attack: Kaboom!",
+      "de": "Standardangriff: Bumm-Bumm",
+      "es": "Ataque Normal: ¡Buuum!",
+      "fr": "Attaque normale : Boum ! Boum !",
+      "pt": "Ataque Normal: Kaboom!",
+      "ru": "Бабах!",
+      "id": "Normal Attack: Kaboom!",
+      "th": "โจมตีปกติ - Kaboom!",
+      "vi": "Tấn Công Thường - Bằng Bằng"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>普通攻击</color>\n投掷在碰撞后会爆炸的好东西！进行至多三段的炸弹攻击，造成<color=#FF9999FF>火元素范围伤害</color>。\n\n<color=#FFD780FF>重击</color>\n消耗一定体力，短暂咏唱后，轰击敌人，造成<color=#FF9999FF>火元素范围伤害</color>。\n\n<color=#FFD780FF>下落攻击</color>\n凝聚烈焰的力量，从空中下坠冲击地面，攻击下落路径上的敌人，并在落地时造成<color=#FF9999FF>火元素范围伤害</color>。",
+      "zht": "<color=#FFD780FF>普通攻擊</color>\n投擲在碰撞後會爆炸的好東西！進行至多三段的炸彈攻擊，造成<color=#FF9999FF>火元素範圍傷害</color>。\n\n<color=#FFD780FF>重擊</color>\n消耗一定體力，短暫詠唱後，轟擊敵人，造成<color=#FF9999FF>火元素範圍傷害</color>。\n\n<color=#FFD780FF>下落攻擊</color>\n凝聚烈焰的力量，從空中下墜衝擊地面，攻擊下落路徑上的敵人，並在落地時造成<color=#FF9999FF>火元素範圍傷害</color>。",
+      "jp": "<color=#FFD780FF>通常攻撃</color>\nぶつかると爆発するものを投げ出す！最大3段の爆弾攻撃を行い、<color=#FF9999FF>炎元素範囲ダメージ</color>を与える。\n\n<color=#FFD780FF>重撃</color>\n一定のスタミナを消費し、短い詠唱をした後、敵に<color=#FF9999FF>炎元素範囲ダメージ</color>を与える。\n\n<color=#FFD780FF>落下攻撃</color>\n空中から烈焔の力を凝集しながら落下し、地面に衝撃を与える。経路上の敵を攻撃し、落下時に<color=#FF9999FF>炎元素範囲ダメージ</color>を与える。",
+      "ko": "<color=#FFD780FF>일반 공격</color>\n무언가에 부딪히면 펑하고 폭발하는 물건을 던진다! 폭발 공격을 최대 3회까지 발동해 <color=#FF9999FF>불 원소 범위 피해</color>를 준다.\n\n<color=#FFD780FF>강공격</color>\n일정 스태미나를 소모해 짧은 영창 후 적을 폭격하여 <color=#FF9999FF>불 원소 범위 피해</color>를 준다.\n\n<color=#FFD780FF>낙하 공격</color>\n공중에서 열염의 힘을 모은 후 지면을 강타해 경로상의 적을 공격하고 착지 시 <color=#FF9999FF>불 원소 범위 피해</color>를 준다",
+      "en": "<color=#FFD780FF>Normal Attack</color>\nThrows things that go boom when they hit things! Perform up to 3 explosive attacks, dealing <color=#FF9999FF>AoE Pyro DMG</color>.\n\n<color=#FFD780FF>Charged Attack</color>\nConsumes a certain amount of Stamina and deals <color=#FF9999FF>AoE Pyro DMG</color> to opponents after a short casting time.\n\n<color=#FFD780FF>Plunging Attack</color>\nGathering the power of Pyro, Klee plunges towards the ground from mid-air, damaging all opponents in her path. Deals <color=#FF9999FF>AoE Pyro DMG</color> upon impact with the ground.",
+      "de": "<color=#FFD780FF>Standardangriff</color>\nWirft eine nette, effektvolle Bombe! Führt bis zu 3 Bombenangriffe aus und verursacht <color=#FF9999FF>Pyro-Flächenschaden</color>.\n\n<color=#FFD780FF>Heftiger Schlag</color>\nVerbraucht eine gewisse Menge Ausdauer, bombardiert Gegner nach kurzer Aufladezeit und verursacht <color=#FF9999FF>Pyro-Flächenschaden</color>.\n\n<color=#FFD780FF>Angriff aus dem Fall</color>\nKonzentriert die Kraft der Flammen, schlägt beim Fallen aus der Luft auf den Boden, greift alle Gegner in der Bahn an und verursacht beim Aufkommen <color=#FF9999FF>Pyro-Flächenschaden</color>.",
+      "es": "<color=#FFD780FF>Ataque Normal</color>\nRealiza hasta 3 ataques explosivos que infligen <color=#FF9999FF>Daño Pyro en el AdE</color>.\n\n<color=#FFD780FF>Ataque Cargado</color>\nConsume una cierta cantidad de Aguante para infligir <color=#FF9999FF>Daño Pyro en el AdE</color> después de un corto tiempo de lanzamiento.\n\n<color=#FFD780FF>Ataque Descendente</color>\nAl acumular poder Pyro, Klee se lanza desde el aire para golpear el suelo, dañando a los enemigos cercanos e infligiendo <color=#FF9999FF>Daño Pyro en el AdE</color> en el momento del impacto.",
+      "fr": "<color=#FFD780FF>Attaque normale</color>\nUne bombe qui explose au contact, ça c'est un bel objet ! Klee jette jusqu'à 3 bombes consécutives, qui infligent des <color=#FF9999FF>DGT Pyro de zone</color>.\n\n<color=#FFD780FF>Attaque chargée</color>\nConsomme de l'endurance pour bombarder les ennemis après un court délai et leur infliger des <color=#FF9999FF>DGT Pyro de zone</color>.\n\n<color=#FFD780FF>Attaque plongeante</color>\nPlonge depuis les airs en concentrant ses pouvoirs Pyro, infligeant des DGT aux ennemis en chemin et des <color=#FF9999FF>DGT Pyro de zone</color> à l'impact.",
+      "pt": "<color=#FFD780FF>Ataque normal</color>\nAtira coisas que fazem boom quando acertam coisas! Realiza até 3 ataques explosivos, infligindo <color=#FF9999FF>Dano Pyro em uma AdE</color>.\n\n<color=#FFD780FF>Ataque Carregado</color>\nConsome uma certa quantidade de Stamina que inflige <color=#FF9999FF>Dano Pyro em uma AdE</color> em inimigos após um curto tempo de canalização.\n\n<color=#FFD780FF>Ataque Imersivo</color>\nReunindo o poder do Pyro, Klee mergulha em direção ao chão em pleno ar, causando dano a todos os inimigos em seu caminho. Inflige <color=#FF9999FF>Dano Pyro em uma AdE</color> ao entrar em contato com o chão.",
+      "ru": "<color=#FFD780FF>Обычная атака:</color>\nКли любит взрывать всё вокруг! Она бросает до трёх бомб, наносящих <color=#FF9999FF>Пиро урон по площади</color>.\n\n<color=#FFD780FF>Заряженная атака:</color>\nКороткое заклинание, наносящее <color=#FF9999FF>Пиро урон по площади</color>, на которое тратится определённое количество выносливости.\n\n<color=#FFD780FF>Атака в падении:</color>\nНакопив энергию огня, стремительно падает на землю, атакуя всех врагов на пути. Приземлившись, наносит <color=#FF9999FF>Пиро урон по площади</color>.",
+      "id": "<color=#FFD780FF>Normal Attack</color>\nMelempar benda yang akan meledak saat mengenai sesuatu! Melancarkan hingga 3 serangan ledakan yang mengakibatkan <color=#FF9999FF>Pyro DMG Area</color>.\n\n<color=#FFD780FF>Charged Attack</color>\nMengonsumsi sejumlah Stamina dan mengakibatkan <color=#FF9999FF>Pyro DMG Area</color> kepada musuh setelah jeda singkat.\n\n<color=#FFD780FF>Plunging Attack</color>\nMengumpulkan kekuatan Pyro dan menerjang tanah, mengakibatkan DMG pada musuh di jalur terjangan dan mengakibatkan <color=#FF9999FF>Pyro DMG Area</color> saat mendarat.",
+      "th": "<color=#FFD780FF>โจมตีปกติ</color>\nโยนของดีที่จะระเบิดเมื่อมีสิ่งอื่น มากระแทกออกไป! ทำการระเบิดโจมตีมากสุดถึงสามครั้ง เกิดเป็น<color=#FF9999FF>ความเสียหายไฟวงกว้าง</color>\n\n<color=#FFD780FF>ชาร์จโจมตี</color>\nใช้พลังกายส่วนหนึ่ง โดยช่วงเวลาสั้น ๆ หลังจากร่ายเวทเสร็จ จะโจมตีศัตรูเพื่อสร้าง<color=#FF9999FF>ความเสียหายไฟวงกว้าง</color>\n\n<color=#FFD780FF>โจมตีพุ่งลงจากอากาศ</color>\nรวบรวมพลังไฟอันร้อนแรงและกระโจน จากกลางอากาศลงมายังพื้นดิน เพื่อโจมตีศัตรู ที่อยู่ในเส้นทางการโจมตี โดยจะสร้าง<color=#FF9999FF>ความเสียหายไฟวงกว้าง</color> เมื่อลงถึงพื้น",
+      "vi": "<color=#FFD780FF>Tấn Công Thường</color>\nNém ra những thứ phát nổ khi va chạm! Tấn công nổ tối đa 3 lần, gây <color=#FF9999FF>Sát Thương Phạm Vi Nguyên Tố Hỏa</color>.\n\n<color=#FFD780FF>Trọng Kích</color>\nTiêu hao thể lực nhất định, sau khi tụ lực sẽ bắn phá kẻ địch, gây <color=#FF9999FF>Sát Thương Phạm Vi Nguyên Tố Hỏa</color>.\n\n<color=#FFD780FF>Tấn Công Khi Đáp</color>\nNgưng tụ sức mạnh của lửa, lao xuống mặt đất từ trên không, tấn công kẻ địch trên đường và gây <color=#FF9999FF>Sát Thương Phạm Vi Nguyên Tố Hỏa</color> khi chạm đất."
+    },
+    "imgid": "s_293101"
+  },
+  {
+    "title": {
+      "zhs": "蹦蹦炸弹",
+      "zht": "蹦蹦炸彈",
+      "jp": "ボンボン爆弾",
+      "ko": "통통 폭탄",
+      "en": "Jumpy Dumpty",
+      "de": "Bimm-Bamm-Bombe",
+      "es": "Bomba saltarina",
+      "fr": "Bombe rebondissante",
+      "pt": "Bomba Saltitante",
+      "ru": "Прыг-скок бомба",
+      "id": "Jumpy Dumpty",
+      "th": "Jumpy Dumpty",
+      "vi": "Bom Nảy"
+    },
+    "description": {
+      "zhs": "投出带来无限快乐的蹦蹦炸弹！\n蹦蹦炸弹会连续弹跳三次，每次弹跳都会引发爆炸，造成<color=#FF9999FF>火元素范围伤害</color>。\n\n第三次弹跳后，将分裂成许多诡雷。\n诡雷会在接触到敌人或一段时间后爆炸，造成<color=#FF9999FF>火元素范围伤害</color>。\n\n初始拥有2次可使用次数。\n\n<i>蹦蹦是可莉的「好朋友」…可莉总是忍不住向人介绍他们。</i>",
+      "zht": "投出帶來無限快樂的蹦蹦炸彈！\n蹦蹦炸彈會連續彈跳三次，每次彈跳都會引發爆炸，造成<color=#FF9999FF>火元素範圍傷害</color>。\n\n第三次彈跳後，將分裂成許多詭雷。\n詭雷會在接觸到敵人或一段時間後爆炸，造成<color=#FF9999FF>火元素範圍傷害</color>。\n\n初始擁有兩次可使用次數。\n\n<i>蹦蹦是可莉的「好朋友」…可莉總是忍不住向人介紹他們。</i>",
+      "jp": "巨大な威力を持つボンボン爆弾を投げ出す！\nボンボン爆弾は連続で3回跳ね、1回毎に爆発を起こし、<color=#FF9999FF>炎元素範囲ダメージ</color>を与える。\n\n3回跳ねた後、爆弾は複数のブービートラップに分裂する。\nブービートラップは敵に触れる、または一定時間後に爆発し、<color=#FF9999FF>炎元素範囲ダメージ</color>を与える。\n\n初期使用可能回数2回。\n\n<i>ボンボンはクレーの「友達」…クレーはいつも人々にそう紹介している。</i>",
+      "ko": "끝없는 즐거움을 가져다주는 통통 폭탄을 던진다!\n통통 폭탄은 연속으로 3회 튕기며 튕길 때마다 폭발을 일으켜 <color=#FF9999FF>불 원소 범위 피해</color>를 준다.\n\n3번 튕긴 후 폭탄은 수많은 부비트랩으로 분열된다.\n적이 밟거나 일정 시간이 지나면 부비트랩은 폭발하여 <color=#FF9999FF>불 원소 범위 피해</color>를 준다.\n\n초기 사용 가능 횟수: 2회\n\n<i>통통은 클레의 「친한 친구」이다… 클레는 항상 참지 못하고 모두에게 이 친구를 소개하곤 한다</i>",
+      "en": "Jumpy Dumpty is tons of boom-bang-fun! \nWhen thrown, Jumpy Dumpty bounces thrice, igniting and dealing <color=#FF9999FF>AoE Pyro DMG</color> with every bounce.\n\nOn the third bounce, the bomb splits into many mines.\nThe mines will explode upon contact with opponents, or after a short period of time, dealing <color=#FF9999FF>AoE Pyro DMG</color>.\n\nStarts with 2 charges.\n\n<i>Jumpy Dumpty is Klee's good friend! She can't help but introduce him to everyone.</i>",
+      "de": "Wirft eine Bombe, die dazu bestimmt ist, große Freude zu bringen!\nDie Bimm-Bamm-Bombe kommt dreimal auf dem Boden auf und verursacht jedes Mal eine Explosion sowie <color=#FF9999FF>Pyro-Flächenschaden</color>.\n\nSpaltet sich beim dritten Mal zu vielen kleinen Sprengfallen auf.\nBei Berührung mit einem Gegner oder nach einer gewissen Zeit explodieren die Sprengfallen und verursachen <color=#FF9999FF>Pyro-Flächenschaden</color>.\n\nKann anfänglich 2-mal angewendet werden.\n\n<i>Diese Bombe ist ein „Freund“ von Klee, den sie anderen gern vorstellt.</i>",
+      "es": "¡La bomba saltarina es superdivertida!\nArroja una poderosa Bomba saltarina que rebota hasta tres veces. Cada vez que rebota genera una explosión que inflige <color=#FF9999FF>Daño Pyro en el AdE</color>.\n\nDespués de rebotar tres veces, se dividirá en varias minas.\nAl entrar en contacto con el enemigo, las minas explotarán, infligiendo <color=#FF9999FF>Daño Pyro en el AdE</color>.\n\nPuede ser usado 2 veces consecutivas.\n\n<i>La bomba saltarina es la nueva amiga de Klee... ¡Todos mueren por conocerla!</i>",
+      "fr": "Boiing, boiing ! Klee lance une bombe qui pète de joie !\nLa bombe rebondit 3 fois et explose à chaque rebond, infligeant des <color=#FF9999FF>DGT Pyro de zone</color>.\n\nAprès le 3e rebond, la bombe se divise en plusieurs mines.\nLes mines explosent après un court délai ou au contact de l'ennemi, infligeant des <color=#FF9999FF>DGT Pyro de zone</color>.\n\nKlee commence avec 2 charges.\n\n<i>La Bombe rebondissante est l'amie fidèle de Klee... Elle veut toujours la présenter à tout le monde.</i>",
+      "pt": "A Bomba Saltitante é uma explosão de diversão!\nQuando lançada, Bomba Saltitante quica três vezes, incendiando e infligindo <color=#FF9999FF>Dano Pyro em uma AdE</color> a cada salto.\n\nNo terceiro salto, a bomba se divide em várias minas.\nAs minas irão explodir ao entrar em contato com os inimigos, ou após um curto período de tempo, infligindo <color=#FF9999FF>Dano Pyro em uma AdE</color>.\n\nComeça com 2 cargas.\n\n<i>A Bomba Saltitante é a melhor amiga de Klee! Ela não consegue deixar de apresentá-la a todos.</i>",
+      "ru": "Прыг-скок бомбы - сплошное взрывное веселье!\nБросает мощную Прыг-скок бомбу, которая три раза отскакивает от поверхностей и взрывается, нанося <color=#FF9999FF>Пиро урон по площади</color> при каждом отскоке.\n\nПосле третьего отскока бомба взрывается и распадается на мины.\nМины взрываются через некоторое время, либо при касании врагов. Взрыв наносит <color=#FF9999FF>Пиро урон по площади</color>.\nИзначально имеет два заряда.\n\n<i>Прыг-скок - это хороший друг Кли! Она не может не представить его всем присутствующим.</i>",
+      "id": "Melemparkan bom Jumpy Dumpty yang membawa kesenangan tidak terbatas!\nSaat dilempar, Jumpy Dumpty dapat memantul tiga kali, setiap pantulannya akan meledak dan mengakibatkan <color=#FF9999FF>Pyro DMG Area</color>.\n\nPada pantulan ke-3, bomnya akan terbagi menjadi banyak ranjau.\nRanjau-ranjau ini akan meledak saat menyentuh musuh, atau setelah jeda waktu yang singkat, kemudian mengakibatkan <color=#FF9999FF>Pyro DMG Area</color>.\n\nDimulai dengan 2 kali jumlah penggunaan.\n\n<i>Jumpy Dumpty adalah teman baik Klee! Klee selalu tidak sabar untuk memperkenalkannya ke semua orang.</i>",
+      "th": "โยน Jumpy Dumpty ที่จะนำพามาซึ่ง ความสนุกสุดเหวี่ยงออกไป!\nJumpy Dumpty จะเด้งติดต่อกันสามครั้ง โดยแต่ละครั้งล้วนสามารถทำให้เกิด การระเบิดได้ ซึ่งจะสร้าง<color=#FF9999FF>ความเสียหายไฟวงกว้าง</color>\n\nหลังจากการเด้งครั้งที่สาม จะแบ่งกลายเป็นกับระเบิดจำนวนมาก\nกับระเบิดจะระเบิดเมื่อมีศัตรูไปแตะโดน หรือเมื่อเวลาผ่านไปช่วงหนึ่ง และทำให้เกิด<color=#FF9999FF>ความเสียหายไฟวงกว้าง</color>\n\nในตอนเริ่มจะสามารถใช้ได้ 2 ครั้ง\n\n<i>Jumpy Dumpty คือ \"เพื่อนสนิท\" ของ Klee... ซึ่ง Klee นั้นมักจะอดใจไม่ไหว ที่จะแนะนำพวกเขาให้แก่คนอื่น ๆ เสมอ</i>",
+      "vi": "Ném Bom Nảy mang đến niềm vui bất tận!\nBom Nảy sẽ nảy liên tiếp 3 lần, mỗi lần đều sẽ kích hoạt nổ, gây <color=#FF9999FF>Sát Thương Phạm Vi Nguyên Tố Hỏa</color>.\n\nSau khi nảy lần 3, sẽ tách thành nhiều Quỷ Lôi.\nQuỷ Lôi sẽ nổ sau một khoảng thời gian hoặc sau khi tiếp xúc kẻ địch, gây <color=#FF9999FF>Sát Thương Phạm Vi Nguyên Tố Hỏa</color>.\n\nBan đầu có 2 lần sử dụng.\n\n<i>Bom nảy là \"người bạn thân\" của Klee... Klee luôn muốn giới thiệu chúng với mọi người xung quanh.</i>"
+    },
+    "imgid": "s_293201"
+  },
+  {
+    "title": {
+      "zhs": "轰轰火花",
+      "zht": "轟轟火花",
+      "jp": "ドッカン花火",
+      "ko": "쾅쾅 불꽃",
+      "en": "Sparks 'n' Splash",
+      "de": "Funkelfunken",
+      "es": "Chispas explosivas",
+      "fr": "Fleur bombardier",
+      "pt": "Faíscas Explosivas",
+      "ru": "Грохот и искры",
+      "id": "Sparks 'n' Splash",
+      "th": "Sparks 'n' Splash",
+      "vi": "Tia Lửa Mãnh Liệt"
+    },
+    "description": {
+      "zhs": "可莉火力全开！在技能持续时间内，不停召唤轰轰火花攻击附近的敌人，造成<color=#FF9999FF>火元素范围伤害</color>。\n\n<i>骑士团的人相信，可莉从来不被自己的炸弹所伤，一定有幸运星眷顾着她吧…</i>",
+      "zht": "可莉火力全開！在技能持續時間內，不停召喚轟轟火花攻擊附近的敵人，造成<color=#FF9999FF>火元素範圍傷害</color>。\n\n<i>騎士團的人相信，可莉從來不被自己的炸彈所傷，一定有幸運星眷顧著她吧…</i>",
+      "jp": "クレー火力全開！スキル継続中、ドッカン花火を立て続けに召喚して周囲の敵を攻撃し、<color=#FF9999FF>炎元素範囲ダメージ</color>を与える。\n\n<i>クレーが自分の爆弾で怪我をしないのは、きっと幸運の神に恵まれているからだと、騎士団のみんなはそう信じている。</i>",
+      "ko": "클레 최대 화력! 스킬을 발동하는 동안 쾅쾅 불꽃을 끊임없이 소환해 주변의 적에게 <color=#FF9999FF>불 원소 범위 피해</color>를 준다.\n\n<i>기사단 사람들은 클레가 한 번도 자신의 폭탄에 휘말려 들지 않는 건 행운의 별이 그녀를 지켜주고 있기 때문이라고 믿는다…</i>",
+      "en": "Klee's Blazing Delight! For the duration of this ability, continuously summons Sparks 'n' Splash to attack nearby opponents, dealing <color=#FF9999FF>AoE Pyro DMG</color>.\n\n<i>The knights all believe that Klee must have a lucky star watching over her to have never been hurt by any of her own bombs...</i>",
+      "de": "Und Feuer! Beschwört während der Wirkungsdauer ununterbrochen Funkelfunken, die Gegner in der Nähe angreifen und <color=#FF9999FF>Pyro-Flächenschaden</color> verursachen.\n\n<i>Die Ritter glauben, dass Klee einen Schutzengel haben muss, weil sie sich noch nie mit einer ihrer Bomben selbst verletzt hat.</i>",
+      "es": "¡Klee a la carga! Mientras dure la habilidad, invoca constantemente Chispas explosivas que hacen daño a los enemigos cercanos, infligiendo <color=#FF9999FF>Daño Pyro en el AdE</color>.\n\n<i>Los Caballeros de Favonius creen que si Klee nunca se ha hecho daño con sus propias bombas es porque debe tener una buena estrella que la protege...</i>",
+      "fr": "Klee s'enflamme ! Invoque une Fleur bombardier qui harcèle les ennemis, infligeant des <color=#FF9999FF>DGT Pyro de zone</color>.\n\n<i>Les membres de l'Ordre de Favonius sont convaincus qu'une bonne étoile veille sur Klee ; sinon, comment expliquer qu'elle ne se blesse jamais ?</i>",
+      "pt": "Delícia Ardente de Klee! Ao longo da duração dessa habilidade, evoca continuamente os ataques de Faíscas Explosivas para atacar inimigos próximos, infligindo <color=#FF9999FF>Dano Pyro em uma AdE</color>.\n\n<i>Todos os cavaleiros acreditam que Klee deve ser uma estrela da sorte, tendo cuidado para nunca se machucarem com suas próprias bombas...</i>",
+      "ru": "Кли жжёт по-полной! На время действия навыка Кли призывает Грохот и искры, которые наносят окружающим врагам <color=#FF9999FF>Пиро урон по площади</color>.\n\n<i>Рыцари Ордо Фавониус считают, что, должно быть, за Кли присматривает счастливая звезда, ведь ни одна из её собственных бомб никогда не нанесла ей вреда...</i>",
+      "id": "Kegembiraan Klee yang membara! Selama durasi skill, Sparks 'n' Splash yang muncul akan terus menyerang musuh-musuh di sekitar dan mengakibatkan <color=#FF9999FF>Pyro DMG Area</color>.\n\n<i>Para Knight meyakini kalau Klee pasti dilindungi sebuah bintang keberuntungan karena dia tidak pernah terluka karena bomnya sendiri ...</i>",
+      "th": "Klee พร้อมลุย! ภายในช่วงเวลาต่อเนื่อง จะเรียก Sparks 'n' Splash ออกมา เพื่อโจมตีศัตรูที่อยู่ในบริเวณใกล้เคียงอย่างต่อเนื่อง และทำให้เกิด<color=#FF9999FF>ความเสียหายไฟวงกว้าง</color>\n\n<i>เหล่าคนในกองอัศวินนั้นเชื่อซะเหลือเกิน ว่าการที่ Klee ไม่เคยโดนระเบิด ของตัวเองเล่นงานเลยนั้น คงเป็นเพราะมีดวงดาวนำโชค คอยปกป้องเธออยู่แน่ ๆ...</i>",
+      "vi": "Klee phát huy toàn bộ hỏa lực! Trong thời gian duy trì, liên tục triệu hồi Tia Lửa Mãnh Liệt tấn công kẻ địch lân cận, gây <color=#FF9999FF>Sát Thương Phạm Vi Nguyên Tố Hỏa</color>.\n\n<i>Người trong Đội Kỵ Sĩ tin rằng, Klee xưa nay chưa từng bị thương bởi thuốc nổ của mình nhất định là do ngôi sao may mắn nào đó luôn chiếu cố cô bé...</i>"
+    },
+    "imgid": "s_293901"
+  },
+  {
+    "title": {
+      "zhs": "砰砰礼物",
+      "zht": "砰砰禮物",
+      "jp": "こんこんプレゼント",
+      "ko": "펑펑 선물",
+      "en": "Pounding Surprise",
+      "de": "Explosives Geschenk",
+      "es": "Regalo explosivo",
+      "fr": "Cadeau explosif",
+      "pt": "Presente Explosivo",
+      "ru": "Тук-тук, кто там?",
+      "id": "Pounding Surprise",
+      "th": "Pounding Surprise",
+      "vi": "Món Quà Bằng Bằng"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>蹦蹦炸弹</color>与普通攻击造成伤害时，有50%的几率赋予可莉一朵爆裂火花。\n施放重击时将消耗爆裂火花，使本次重击不消耗体力，造成的伤害提升50%。",
+      "zht": "<color=#FFD780FF>蹦蹦炸彈</color>與普通攻擊造成傷害時，有50%的機率賦予可莉一朵爆裂火花。\n施放重擊時將消耗爆裂火花，使本次重擊不消耗體力，造成的傷害提升50%。",
+      "jp": "<color=#FFD780FF>ボンボン爆弾</color>と通常攻撃が敵にダメージを与えた時、50%の確率でクレーは爆裂花火を獲得する。\n重撃を発動する時、スタミナの代わりに爆裂花火を優先的に消費し、与えるダメージ+50%。",
+      "ko": "<color=#FFD780FF>통통 폭탄</color>과 일반 공격으로 피해를 줄 때 50%의 확률로 클레에게 폭렬 불꽃을 1송이 부여한다.\n강공격 발동 시 소모되는 스태미나를 대신해 폭렬 불꽃을 소모하며 가하는 피해가 50% 증가한다",
+      "en": "When <color=#FFD780FF>Jumpy Dumpty</color> and Normal Attacks deal DMG, Klee has a 50% chance to obtain an Explosive Spark.\nThis Explosive Spark is consumed by the next Charged Attack, which costs no Stamina and deals 50% increased DMG.",
+      "de": "Erschafft beim Verursachen von Schaden mit <color=#FFD780FF>Bimm-Bamm-Bombe</color> oder Standardangriffen mit einer Wahrscheinlichkeit von 50 % einen explosiven Funken.\nVerbraucht beim nächsten heftigen Schlag den Funken statt Ausdauer und erhöht den damit verursachten Schaden um 50 %.",
+      "es": "Cuando se inflige daño con <color=#FFD780FF>Bomba saltarina</color> y Ataque Normal, hay una probabilidad del 50% de que Klee obtenga una flor explosiva.\nEl siguiente Ataque Cargado consumirá esta flor explosiva sin ningún coste de Aguante y tendrá un aumento de daño del 50%.",
+      "fr": "Les attaques normales ainsi que <color=#FFD780FF>Bombe rebondissante</color> ont 50 % de chances de conférer à Klee une étincelle explosive lorsqu'elles infligent des DGT.\nCette dernière est consommée lors de la prochaine attaque chargée, qui inflige 50 % de DGT supplémentaires sans consommer d'endurance.",
+      "pt": "Quando a <color=#FFD780FF>Bomba Saltitante</color> e os Ataques Normais causam Dano, Klee possui 50% de chance de obter um Lampejo Explosivo.\nO Lampejo Explosivo será consumido pelo próximo Ataque Carregado sem consumo de Stamina e causa 50% de Dano adicional.",
+      "ru": "При нанесении урона навыком <color=#FFD780FF>Прыг-скок бомба</color> или обычной атакой, Кли имеет 50% шанс получить Взрывную искру.\nВзрывная искра тратится при следующей заряженной атаке, которая наносит на 50% больше урона и не потребляет выносливость.",
+      "id": "Saat <color=#FFD780FF>Jumpy Dumpty</color> atau Normal Attack Klee mengakibatkan DMG, Klee memiliki 50% kemungkinan untuk mendapatkan Explosive Spark.\nExplosive Spark akan terkonsumsi saat Klee melancarkan Charged Attack dan membuatnya tidak mengonsumsi Stamina serta mengakibatkan 50% DMG lebih besar.",
+      "th": "เมื่อ <color=#FFD780FF>Jumpy Dumpty</color> และการโจมตีปกติสร้างความเสียหาย จะมีโอกาส 50% ที่จะมอบ Explosive Spark ให้แก่ Klee หนึ่งดอก\nเมื่อชาร์จโจมตี Explosive Spark จะถูกใช้ ซึ่งทำให้การชาร์จโจมตีในครั้งนี้ไม่ใช้พลังกาย และสร้างความเสียหายเพิ่มขึ้น 50%",
+      "vi": "Khi <color=#FFD780FF>Bom Nảy</color> và tấn công thường tạo thành sát thương, có tỷ lệ 50% tạo thành một đoá Hoa Tia Lửa cho Klee.\nThi triển trọng kích sẽ tiêu hao Hoa Tia Lửa, khiến lần trọng kích này không tiêu hao thể lực, đồng thời tăng 50% sát thương gây ra."
+    },
+    "imgid": "p_292101"
+  },
+  {
+    "title": {
+      "zhs": "火花无限",
+      "zht": "火花無限",
+      "jp": "無限花火",
+      "ko": "무한 스파크",
+      "en": "Sparkling Burst",
+      "de": "Unzählige Funken",
+      "es": "Estallido incesante",
+      "fr": "Étincelle infinie",
+      "pt": "Faíscas Ilimitadas",
+      "ru": "Искры без границ",
+      "id": "Sparkling Burst",
+      "th": "Sparkling Burst",
+      "vi": "Tia Lửa Vô Hạn"
+    },
+    "description": {
+      "zhs": "可莉的重击造成暴击后，为队伍中所有角色恢复2点元素能量。",
+      "zht": "可莉的重擊造成暴擊後，為隊伍中所有角色恢復2點元素能量。",
+      "jp": "クレーの重撃が会心を発生すると、チーム全員の元素エネルギーが2回復する。",
+      "ko": "클레가 강공격 시 치명타가 발생하면 파티 내 모든 캐릭터의 원소 에너지를 2pt 회복한다",
+      "en": "When Klee's Charged Attack results in a CRIT Hit, all party members gain 2 Elemental Energy.",
+      "de": "Stellt allen Truppenmitgliedern beim Verursachen von KT mit Klees heftigen Schlägen 2 Punkte Elementarenergie wieder her.",
+      "es": "Cuando Klee asesta un golpe CRIT con su Ataque Cargado, todos los miembros del equipo recuperan 2 pts. de Energía Elemental.",
+      "fr": "Lorsque Klee inflige des DGT CRIT avec des attaques chargées, l'énergie élémentaire de tous les membres de l'équipe est restaurée de 2 pts.",
+      "pt": "Quando o Ataque Carregado de Klee resultar em um Crítico, todos os membros da equipe ganham 2 pontos de Energia Elemental.",
+      "ru": "При критическом попадании заряженной атакой Кли все члены отряда получают 2 ед. элементальной энергии.",
+      "id": "Seluruh anggota party akan mendapatkan 2 Energy saat Charged Attack Klee mengakibatkan CRIT.",
+      "th": "เมื่อชาร์จโจมตีของ Klee ติดคริติคอล จะฟื้นฟูพลังงานธาตุ 2 หน่วย ให้แก่ตัวละครทั้งหมดในทีม",
+      "vi": "Trọng Kích của Klee sau khi gây ra bạo kích, hồi phục 2 điểm Năng Lượng Nguyên Tố cho tất cả các nhân vật trong đội."
+    },
+    "imgid": "p_292201"
+  },
+  {
+    "title": {
+      "zhs": "全是宝藏",
+      "zht": "全是寶藏",
+      "jp": "宝物揃い",
+      "ko": "전부 보물이야",
+      "en": "All Of My Treasures!",
+      "de": "Alles voller Schätze",
+      "es": "Todos mis tesoros",
+      "fr": "Des trésors partout !",
+      "pt": "Tem tesouros por toda parte",
+      "ru": "Всюду сокровища!",
+      "id": "All Of My Treasures!",
+      "th": "All Of My Treasures!",
+      "vi": "Toàn Là Báu Vật"
+    },
+    "description": {
+      "zhs": "在小地图上显示周围的<color=#FFD780FF>蒙德区域特产</color>的位置。",
+      "zht": "在小地圖上顯示周圍的<color=#FFD780FF>蒙德區域特產</color>的位置。",
+      "jp": "ミニマップで周囲の<color=#FFD780FF>モンド地域の特産</color>の位置を表示する。",
+      "ko": "미니맵에 주위의 <color=#FFD780FF>몬드 지역 특산물</color> 위치가 나타난다",
+      "en": "Displays the location of nearby <color=#FFD780FF>resources unique to Mondstadt</color> on the mini-map.",
+      "de": "Zeigt alle <color=#FFD780FF>Besonderheiten Mondstadts</color> in der Nähe auf der Minikarte an.",
+      "es": "Muestra la ubicación de los <color=#FFD780FF>objetos típicos de Mondstadt</color> cercanos en el minimapa.",
+      "fr": "Affiche l'emplacement des <color=#FFD780FF>produits de Mondstadt</color> sur la mini-carte.",
+      "pt": "Mostra a localização de <color=#FFD780FF>Especialidades de Mondstadt</color> próximos no mapa.",
+      "ru": "Отмечает <color=#FFD780FF>диковины Мондштадта</color> на мини-карте.",
+      "id": "Memperlihatkan lokasi <color=#FFD780FF>produk khas Mondstadt</color> di sekitar pada mini-map.",
+      "th": "แสดงตำแหน่งของ<color=#FFD780FF>ของพิเศษเฉพาะใน Mondstadt</color> ในมินิแมป",
+      "vi": "Hiển thị vị trí <color=#FFD780FF>đặc sản khu vực Mondstadt</color> ở xung quanh trên bản đồ nhỏ."
+    },
+    "imgid": "p_292301"
+  }
+]

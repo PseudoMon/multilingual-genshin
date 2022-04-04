@@ -1,0 +1,200 @@
+[
+  {
+    "title": {
+      "zhs": "普通攻击·简式风灵作成",
+      "zht": "普通攻擊·簡式風靈作成",
+      "jp": "通常攻撃·簡式風霊作成",
+      "ko": "일반 공격·약식 풍령 작성",
+      "en": "Normal Attack: Wind Spirit Creation",
+      "de": "Standardangriff: Vereinfachte Windseelenschaffung",
+      "es": "Ataque Normal: Creación del espíritu del viento",
+      "fr": "Attaque normale : Esprit du vent",
+      "pt": "Ataque Normal: Criação do Espírito do Vento",
+      "ru": "Базовая эссенция ветра",
+      "id": "Normal Attack: Wind Spirit Creation",
+      "th": "โจมตีปกติ - Wind Spirit Creation",
+      "vi": "Tấn Công Thường - Gió Thần Sáng Tạo"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>普通攻击</color>\n进行至多四段的风灵攻击，造成<color=#80FFD7FF>风元素伤害</color>。\n\n<color=#FFD780FF>重击</color>\n消耗一定体力，短暂咏唱后，造成<color=#80FFD7FF>风元素范围伤害</color>。\n\n<color=#FFD780FF>下落攻击</color>\n凝聚风灵的力量，从空中下坠冲击地面，攻击下落路径上的敌人，并在落地时造成<color=#80FFD7FF>风元素范围伤害</color>。",
+      "zht": "<color=#FFD780FF>普通攻擊</color>\n進行至多四段的風靈攻擊，造成<color=#80FFD7FF>風元素傷害</color>。\n\n<color=#FFD780FF>重擊</color>\n消耗一定體力，短暫詠唱後，造成<color=#80FFD7FF>風元素範圍傷害</color>。\n\n<color=#FFD780FF>下落攻擊</color>\n凝聚風靈的力量，從空中下墜衝擊地面，攻擊下落路徑上的敵人，並在落地時造成<color=#80FFD7FF>風元素範圍傷害</color>。",
+      "jp": "<color=#FFD780FF>通常攻撃</color>\n最大4段の連続攻撃を行い、<color=#80FFD7FF>風元素ダメージ</color>を与える。\n\n<color=#FFD780FF>重撃</color>\n一定のスタミナを消費し、短い詠唱をした後、敵に<color=#80FFD7FF>風元素範囲ダメージ</color>を与える。\n\n<color=#FFD780FF>落下攻撃</color>\n空中から風霊の力を凝集しながら落下し、地面に衝撃を与える。経路上の敵を攻撃し、落下時に<color=#80FFD7FF>風元素範囲ダメージ</color>を与える。",
+      "ko": "<color=#FFD780FF>일반 공격</color>\n풍령으로 최대 4번 공격해 <color=#80FFD7FF>바람 원소 피해</color>를 준다.\n\n<color=#FFD780FF>강공격</color>\n일정 스태미나를 소모해 짧은 영창 후 <color=#80FFD7FF>바람 원소 범위 피해</color>를 준다.\n\n<color=#FFD780FF>낙하 공격</color>\n풍령의 힘을 모은 후 지면을 강타해 경로상의 적을 공격하고 착지 시 <color=#80FFD7FF>바람 원소 범위 피해</color>를 준다",
+      "en": "<color=#FFD780FF>Normal Attack</color>\nPerforms up to 4 attacks using Wind Spirits, dealing <color=#80FFD7FF>Anemo DMG</color>.\n\n<color=#FFD780FF>Charged Attack</color>\nConsumes a certain amount of Stamina and deals <color=#80FFD7FF>AoE Anemo DMG</color> after a short casting time.\n\n<color=#FFD780FF>Plunging Attack</color>\nCalling upon the power of her Wind Spirits, Sucrose plunges towards the ground from mid-air, damaging all opponents in her path. Deals <color=#80FFD7FF>AoE Anemo DMG</color> upon impact with the ground.",
+      "de": "<color=#FFD780FF>Standardangriff</color>\nFührt bis zu 4 Windseelen-Angriffe aus und verursacht <color=#80FFD7FF>Anemo-Schaden</color>.\n\n<color=#FFD780FF>Heftiger Schlag</color>\nVerbraucht eine gewisse Menge Ausdauer und verursacht nach kurzer Aufladezeit <color=#80FFD7FF>Anemo-Flächenschaden</color>.\n\n<color=#FFD780FF>Angriff aus dem Fall</color>\nKonzentriert die Kraft der Windseelen, schlägt beim Fallen aus der Luft auf den Boden, greift alle Gegner in der Bahn an und verursacht beim Aufkommen <color=#80FFD7FF>Anemo-Flächenschaden</color>.",
+      "es": "<color=#FFD780FF>Ataque Normal</color>\nRealiza hasta 4 ataques usando espíritus del viento, los cuales infligen <color=#80FFD7FF>Daño Anemo</color>.\n\n<color=#FFD780FF>Ataque Cargado</color>\nConsume una cierta cantidad de Aguante e inflige <color=#80FFD7FF>Daño Anemo en el AdE</color> después de un corto tiempo de lanzamiento.\n\n<color=#FFD780FF>Ataque Descendente</color>\nAl llamar a los espíritus del viento, Sacarosa se lanza desde el aire para golpear el suelo, dañando a todos los enemigos cercanos e infligiendo <color=#80FFD7FF>Daño Anemo en el AdE</color> en el momento del impacto.",
+      "fr": "<color=#FFD780FF>Attaque normale</color>\nEnchaîne jusqu'à 4 attaques de vent qui infligent des <color=#80FFD7FF>DGT Anémo</color>.\n\n<color=#FFD780FF>Attaque chargée</color>\nConsomme de l'endurance pour infliger des <color=#80FFD7FF>DGT Anémo de zone</color> après un court délai.\n\n<color=#FFD780FF>Attaque plongeante</color>\nPlonge depuis les airs en concentrant ses pouvoirs Anémo, infligeant des DGT aux ennemis en chemin et des <color=#80FFD7FF>DGT Anémo de zone</color> à l'impact.",
+      "pt": "<color=#FFD780FF>Ataque Normal</color>\nRealiza até 4 ataques usando os Espíritos dos Ventos, infligindo <color=#80FFD7FF>Dano Anemo</color>.\n\n<color=#FFD780FF>Ataque Carregado</color>\nConsome uma certa quantidade de Stamina que inflige <color=#80FFD7FF>Dano Anemo em uma AdE</color> após um curto período de canalização.\n\n<color=#FFD780FF>Ataque Imersivo</color>\nConvocando os poderes dos Espíritos do Vento para si, Sucrose mergulha ao chão em pleno ar, infligindo dano a todos os inimigos em seu caminho. Inflige <color=#80FFD7FF>Dano Anemo em uma AdE</color> durante o impacto com o chão.",
+      "ru": "<color=#FFD780FF>Обычная атака:</color>\nДо четырёх ударов эссенцией ветра, наносящих <color=#80FFD7FF>Анемо урон</color>.\n\n<color=#FFD780FF>Заряженная атака:</color>\nКороткое заклинание, наносящее <color=#80FFD7FF>Анемо урон по площади</color>, на которое тратится определённое количество выносливости.\n\n<color=#FFD780FF>Атака в падении:</color>\nНакопив энергию ветра, стремительно падает на землю, атакуя всех врагов на пути. Приземлившись, наносит <color=#80FFD7FF>Анемо урон по площади</color>.",
+      "id": "<color=#FFD780FF>Normal Attack</color>\nMelancarkan hingga 4 serangan angin yang mengakibatkan <color=#80FFD7FF>Anemo DMG</color>.\n\n<color=#FFD780FF>Charged Attack</color>\nMengonsumsi sejumlah Stamina untuk mengakibatkan <color=#80FFD7FF>Anemo DMG area</color> setelah jeda singkat.\n\n<color=#FFD780FF>Plunging Attack</color>\nMengumpulkan kekuatan Anemo dan menerjang tanah, mengakibatkan DMG pada musuh di jalur terjangan dan mengakibatkan <color=#80FFD7FF>Anemo DMG area</color> saat mendarat.",
+      "th": "<color=#FFD780FF>โจมตีปกติ</color>\nทำการโจมตีด้วย Wind Spirit ต่อเนื่องมากสุดสี่ครั้ง เกิดเป็น<color=#80FFD7FF>ความเสียหายลม</color>\n\n<color=#FFD780FF>ชาร์จโจมตี</color>\nใช้พลังกายบางส่วน หลังจากร่ายเสร็จ จะสร้าง<color=#80FFD7FF>ความเสียหายลมวงกว้าง</color>\n\n<color=#FFD780FF>โจมตีพุ่งลงจากอากาศ</color>\nรวบรวมพลังของจิตวิญญาณแห่ง สายลม กระโจนจากกลางอากาศลงมายังพื้นดิน เพื่อโจมตีศัตรูที่อยู่ในเส้นทางการโจมตี โดยจะสร้าง<color=#80FFD7FF>ความเสียหายลมวงกว้าง</color>เมื่อลงถึงพื้น",
+      "vi": "<color=#FFD780FF>Tấn Công Thường</color>\nThực hiện tối đa 4 lần tấn công phong linh, gây <color=#80FFD7FF>Sát Thương Nguyên Tố Phong</color>.\n\n<color=#FFD780FF>Trọng Kích</color>\nTiêu hao thể lực nhất định, sau khi tụ lực, gây <color=#80FFD7FF>Sát Thương Phạm Vi Nguyên Tố Phong</color>.\n\n<color=#FFD780FF>Tấn Công Khi Đáp</color>\nNgưng tụ sức mạnh nguyên tố Phong, từ trên trời tấn công xuống mặt đất, tấn công kẻ địch trên đường, gây <color=#80FFD7FF>sát thương phạm vi nguyên tố Phong</color> khi chạm đất."
+    },
+    "imgid": "s_433101"
+  },
+  {
+    "title": {
+      "zhs": "风灵作成·陆叁零捌",
+      "zht": "風靈作成·陸參零捌",
+      "jp": "風霊作成·六三〇八",
+      "ko": "풍령 작성·육삼공팔",
+      "en": "Astable Anemohypostasis Creation - 6308",
+      "de": "Windseelenschaffung – Experiment 6308",
+      "es": "Creación del espíritu del viento: Experimento 6308",
+      "fr": "Esprit du vent : Sujet 6308",
+      "pt": "Criação do Espírito do Vento: Experimento 6308",
+      "ru": "Эксперимент №6308",
+      "id": "Astable Anemohypostasis Creation - 6308",
+      "th": "Astable Anemohypostasis Creation - 6308",
+      "vi": "Gió Thần Sáng Tạo 6308"
+    },
+    "description": {
+      "zhs": "召唤出小型风灵，将敌人与物体牵引至风灵所在位置，击飞范围内的敌人，并造成<color=#80FFD7FF>风元素伤害</color>。\n\n<i>说来很不好意思，虽然术式里诞生的元素生命迅速就消散了，但是在冒险里真的很好用。失败的实验也会诞生实用技术。</i>",
+      "zht": "召喚出小型風靈，將敵人與物體牽引至風靈所在位置，擊飛範圍內的敵人，並造成<color=#80FFD7FF>風元素傷害</color>。\n\n<i>說來很不好意思，雖然術式裡誕生的元素生命迅速就消散了，但是在冒險裡真的很好用。失敗的實驗也會誕生實用技術。</i>",
+      "jp": "小型風霊を召喚し、敵と物体を風霊の位置に吸い寄せ、範囲内の敵をノックバックし、<color=#80FFD7FF>風元素ダメージ</color>を与える。\n\n<i>術によって誕生した元素生命はすぐに消えていくけど、冒険に凄く役立つの。自分で言うのもちょっと恥ずかしいけど、失敗した実験からも新しい技術が生まれることもあるんだ。</i>",
+      "ko": "소형 풍령을 소환해 적과 물체를 풍령이 있는 위치로 끌어당긴 후 공중으로 띄우고 <color=#80FFD7FF>바람 원소 피해</color>를 입힌다.\n\n<i>말하기 쑥스럽지만 실패한 실험에서도 실용적인 기술이 탄생해요. 저의 손에서 탄생한 원소 생명은 쉽게 꺼진다고 하지만 모험에서 분명 도움이 될 거예요</i>",
+      "en": "Creates a small Wind Spirit that pulls opponents and objects towards its location, launches opponents within its AoE, and deals <color=#80FFD7FF>Anemo DMG</color>.\n\n<i>This is a little embarrassing, but though the elemental lifeforms birthed through this procedure dissipate very rapidly, they are incredibly useful when adventuring. Even failed experiments can have practical applications.</i>",
+      "de": "Beschwört eine kleine Windseele, die Gegner sowie Objekte anzieht und dann wegschleudert, und fügt den Gegnern im Wirkungsbereich <color=#80FFD7FF>Anemo-Schaden</color> zu.\n\n<i>Es ist mir schon ein bisschen peinlich. Die bei diesem Verfahren entstehenden elementaren Lebensformen schwinden zwar nach kurzer Zeit, sind auf Abenteuern aber höchst nützlich. Fehlgeschlagene Experimente haben also auch ihren praktischen Nutzen.</i>",
+      "es": "Invoca un pequeño espíritu del viento que atrae a enemigos y objetos al lugar de su ubicación, los lanza por los aires e inflige <color=#80FFD7FF>Daño Anemo</color>.\n\n<i>Esto es un poco vergonzoso, pero aunque las formas de vida elementales que nacieron a través de este procedimiento se disipan muy rápidamente, son increíblemente útiles cuando vas de aventura. Incluso los experimentos fallidos pueden tener aplicaciones prácticas.</i>",
+      "fr": "Sucrose invoque un Esprit du vent de taille réduite, qui attire les ennemis et les objets proches à lui, projetant les ennemis dans les airs et leur infligeant des <color=#80FFD7FF>DGT Anémo</color>.\n\n<i>C'est un peu embarrassant, mais il faut bien reconnaître que malgré leur courte durée de vie, les Esprits créés via ce procédé sont particulièrement utiles pour l'aventure. Comme quoi, même les expériences ratées peuvent servir.</i>",
+      "pt": "Cria um pequeno Espírito de Vento que puxa inimigos e objetos em direção a sua localização, lançando os inimigos em AdE e causando <color=#80FFD7FF>Dano Anemo</color> neles.\n\n<i>Isso é um pouco vergonhoso, mas apesar de as formas de vida elementais nascidas através desse procedimento se dissiparem muito rapidamente, elas são incrivelmente úteis durante aventuras. Até mesmo experimentos falhos podem ter aplicações práticas.</i>",
+      "ru": "Создаёт маленького Воздушного духа, который притягивает к себе врагов и предметы, а затем подбрасывает врагов поблизости и наносит им <color=#80FFD7FF>Анемо урон</color>.\n\n<i>Немного неловко говорить об этом, но хоть элементарные формы жизни, рождённые в результате этого эксперимента, и рассеиваются очень быстро, они невероятно полезны в приключениях. Даже неудачные эксперименты могут иметь практическое применение.</i>",
+      "id": "Menciptakan Wind Spirit kecil yang menarik musuh dan obyek ke lokasi Wind Spirit sebelum menghempas musuh di area tersebut; juga mengakibatkan <color=#80FFD7FF>Anemo DMG</color>.\n\n<i>Ini sedikit memalukan, tetapi meskipun elemen kehidupan yang dilahirkan melalui prosedur ini menghilang dengan sangat cepat, mereka cukup berguna saat bertualang. Bahkan percobaan yang gagal pun dapat memiliki penggunaan yang praktis.</i>",
+      "th": "เรียก Wind Spirit ขนาดเล็กออกมา โดยจะดึงดูดศัตรูและวัตถุให้เข้ามายังตำแหน่งของ Wind Spirit จากนั้นโจมตีศัตรูที่อยู่ในพื้นที่ให้ลอยขึ้น เพื่อสร้าง<color=#80FFD7FF>ความเสียหายลม</color>\n\n<i>พูดไปก็น่าอาย แม้ว่าสิ่งมีชีวิตซึ่งมีรูปแบบของธาตุที่เกิดขึ้นระหว่างการใช้สกิลจะสลายไปอย่าง รวดเร็ว แต่มันกลับมีประโยชน์มากเมื่อ ออกไปผจญภัย การทดลองที่ล้มเหลวก็สามารถทำให้เกิดสกิลที่มีประโยชน์ได้เหมือนกันนะ</i>",
+      "vi": "Triệu hồi phong linh cỡ nhỏ, thu hút kẻ địch và các vật thể đến gần vị trí của phong linh, đánh bay kẻ địch trong phạm vi đồng thời tạo ra <color=#80FFD7FF>sát thương nguyên tố Phong</color>. \n\n<i>Nói ra thật ngại, tuy nguyên tố tan biến rất nhanh, nhưng kỹ năng này lại rất tiện lợi trong thám hiểm. Đây là một thí nghiệm thất bại nhưng lại thành công ở mặt khác</i>"
+    },
+    "imgid": "s_433201"
+  },
+  {
+    "title": {
+      "zhs": "禁·风灵作成·柒伍同构贰型",
+      "zht": "禁·風靈作成·柒伍同構貳型",
+      "jp": "禁·風霊作成·七五同構弐型",
+      "ko": "금기·풍령 작성·칠오 동구 이형",
+      "en": "Forbidden Creation - Isomer 75 / Type II",
+      "de": "Verbotene Windseelenschaffung – Isomorpher Typ 75-II",
+      "es": "Creación prohibida del espíritu del viento: Isomorfo 75 tipo II",
+      "fr": "Esprit du vent : Isomorphe 75 Type II",
+      "pt": "Criação Proibida do Espírito do Vento: Isomórfico-75 Tipo II",
+      "ru": "Запретно! Изомер 75 / Тип II",
+      "id": "Forbidden Creation - Isomer 75 / Type II",
+      "th": "Forbidden Creation - Isomer 75 / Type II",
+      "vi": "Cấm-Gió Thần Sáng Tạo-75 Loại 2"
+    },
+    "description": {
+      "zhs": "砂糖抛出不稳定的烧瓶，生成大型风灵。\n存在期间，大型风灵会持续牵引附近的敌人与物体，击飞附近的敌人，并造成<color=#80FFD7FF>风元素伤害</color>。\n\n<color=#FFD780FF>元素转化</color>\n若风灵在技能持续期间接触了<color=#80C0FFFF>水元素</color>/<color=#FF9999FF>火元素</color>/<color=#99FFFFFF>冰元素</color>/<color=#FFACFFFF>雷元素</color>，则会获得对应元素属性，额外造成该元素的附加伤害。\n元素转化在技能持续期间仅会发生一次。\n\n<i>砂糖也曾经想给每一个不稳态无相之风取名字。但是其世系迅速超过了兔兔伯爵的八百九十三世。</i>",
+      "zht": "砂糖拋出不穩定的燒瓶，生成大型風靈。\n存在期間，大型風靈會持續牽引附近的敵人與物體，擊飛附近的敵人，並造成<color=#80FFD7FF>風元素傷害</color>。\n\n<color=#FFD780FF>元素轉化</color>\n若風靈在技能持續期間接觸了<color=#80C0FFFF>水元素</color>/<color=#FF9999FF>火元素</color>/<color=#99FFFFFF>冰元素</color>/<color=#FFACFFFF>雷元素</color>，則會獲得對應元素屬性，額外造成該元素的附加傷害。\n元素轉化在技能持續期間僅會發生一次。\n\n<i>砂糖也曾經想給每一個不穩態無相之風取名字。但是其世系迅速超過了兔兔伯爵的八百九十三世。</i>",
+      "jp": "不安定なフラスコを投げ出し、大型風霊を生成する。\n風霊が存在している間、持続的に付近の敵と物体を吸い寄せてノックバックし、<color=#80FFD7FF>風元素ダメージ</color>を持続的に与える。\n\n\n<color=#FFD780FF>元素変化</color>\n風霊がスキル継続中に<color=#80C0FFFF>水元素</color>/<color=#FF9999FF>炎元素</color>/<color=#99FFFFFF>氷元素</color>/<color=#FFACFFFF>雷元素</color>に接触すると、接触した元素の属性を獲得し、該当元素の付加ダメージを追加で与える。\n元素変化はスキル継続中に1回のみ発生する。\n\n<i>スクロースは全ての不安定な無相の風に名前をつけようと思っていたが、その数は893もあるウサギ伯爵を軽く超えていたため、その考えを諦めた。</i>",
+      "ko": "설탕이 불안정한 플라스크를 던져 대형의 바람 정령을 생성한다.\n존재하는 동안 대형의 바람 정령은 주변의 적과 물체를 지속해서 끌어당긴 후 공중으로 띄우고 <color=#80FFD7FF>바람 원소 피해</color>를 준다.\n\n<color=#FFD780FF>원소 전환</color>\n바람 정령 스킬을 시전하는 동안 <color=#80C0FFFF>물 원소</color>/<color=#FF9999FF>불 원소</color>/<color=#99FFFFFF>얼음 원소</color>/<color=#FFACFFFF>번개 원소</color>에 닿으면 상응하는 원소 속성을 획득하고 추가로 해당 속성 피해를 준다.\n원소 전환은 스킬을 시전하는 동안 1회만 발생한다.\n\n<i>설탕은 예전에 불안정 상태의 무상의 바람마다 이름을 붙여주고 싶었다. 그러나 얼마 안 지나 무상의 바람의 대대로 이어져 온 계보가 토끼 백작의 893세를 초과하면서 그 생각을 접었다</i>",
+      "en": "Sucrose hurls an unstable concoction that creates a Large Wind Spirit.\nWhile it persists, the Large Wind Spirit will continuously pull in surrounding opponents and objects, launch nearby opponents, and deal <color=#80FFD7FF>Anemo DMG</color>.\n\n<color=#FFD780FF>Elemental Absorption</color>\nIf the Wind Spirit comes into contact with <color=#80C0FFFF>Hydro</color>/<color=#FF9999FF>Pyro</color>/<color=#99FFFFFF>Cryo</color>/<color=#FFACFFFF>Electro</color> energy, it will deal additional elemental DMG of that type.\nElemental Absorption may only occur once per use.\n\n<i>Sucrose used to give names to her volatile Anemo Hypostases, but their line of heirs quickly grew to surpass Baron Bunny the 893rd.</i>",
+      "de": "Saccharose wirft einen Glaskolben mit leicht reagierenden Stoffen und erschafft so eine große Windseele.\nZieht während der Wirkungsdauer fortlaufend Gegner und Objekte in der Nähe an, schleudert die angezogenen Genger weg und verursacht <color=#80FFD7FF>Anemo-Schaden</color>.\n\n<color=#FFD780FF>Elementarumwandlung</color>\nVerleiht der Windseele beim Treffen auf <color=#80C0FFFF>Hydro</color>-, <color=#FF9999FF>Pyro</color>-, <color=#99FFFFFF>Kryo</color>- oder <color=#FFACFFFF>Elektro</color>-Effekte während der Wirkungsdauer das jeweilige Element und verursacht dementsprechend zusätzlichen Schaden.\nElementarumwandlung nur einmal während der Wirkungsdauer möglich.\n\n<i>Saccharose wollte ursprünglich jeder instabilen Anemo-Hypostase einen Namen geben. Dieses Vorhaben musste sie jedoch aufgeben, da bald mehr Hypostasen als Generationen von Graf von Hoppel zusammenkamen.</i>",
+      "es": "Sacarosa arroja un brebaje inestable que crea un gran espíritu del viento.\nMientras dure, el espíritu del viento atrae a los enemigos y objetos cercanos, lanzándolos por los aires e infligiendo <color=#80FFD7FF>Daño Anemo</color>.\n\n<color=#FFD780FF>Cambio elemental</color>\nSi el espíritu del viento entra en contacto con <color=#80C0FFFF>Hydro</color>/<color=#FF9999FF>Pyro </color>/<color=#99FFFFFF>Cryo </color>/<color=#FFACFFFF>Electro </color>, infligirá Daño Elemental adicional de ese tipo.\nSolo puede ocurrir un cambio elemental en toda la duración de esta habilidad.\n\n<i>Sacarosa solía dar nombres a sus volátiles Hipostasis Anemo. Pero el linaje de Hipostasis creció tan rápido que acabó superando al Barón Bunny n.º 893.</i>",
+      "fr": "Sucrose jette une concoction instable qui libère un Esprit du vent de grande taille.\nL'Esprit attire les ennemis et les objets proches à lui, projetant les ennemis dans les airs et leur infligeant des <color=#80FFD7FF>DGT Anémo</color>.\n\n<color=#FFD780FF>Absorption élémentaire</color>\nL'Esprit du vent absorbe les éléments <color=#80C0FFFF>Hydro</color>, <color=#FF9999FF>Pyro</color>, <color=#99FFFFFF>Cryo</color> et <color=#FFACFFFF>Électro</color> avec lesquels il entre en contact ; ceux-ci lui confèrent leurs attributs, et infligent un bonus de DGT de l'élément correspondant.\nUn seul élément peut être absorbé à la fois.\n\n<i>Sucrose aime à donner des noms à ses Hypostases Anémo instables ; leur lignée est encore plus longue que celle du Baron Lapinou 893e du nom.</i>",
+      "pt": "Sucrose libera uma mistura instável que cria um Grande Espírito do Vento.\nEnquanto ela persistir, o Grande Espírito do Vento irá continuamente puxar e lançar inimigos e objetos próximos, causando <color=#80FFD7FF>Dano de Anemo em AdE</color>.\n\n<color=#FFD780FF>Absorção Elemental</color>\nSe o Espírito do Vento entrar em contato com os elementos <color=#80C0FFFF>Hydro</color>/<color=#FF9999FF>Pyro</color>/<color=#99FFFFFF>Cryo</color>/<color=#FFACFFFF>Electro</color>, ele irá causar Dano elemental adicional baseado naquele tipo.\nAbsorção Elemental pode ocorrer apenas uma vez por uso.\n<i>Sucrose costumava dar nomes ao seu volátil Anemo Hypostases. Mas a sua linha de herdeiros cresceu rapidamente até ultrapassar o Barão Coelho n° 893.</i>",
+      "ru": "Сахароза бросает колбу с нестабильным реагентом, который создаёт большого Воздушного духа.\nОн непрерывно притягивает предметы и врагов поблизости, подбрасывает врагов в воздух, нанося им <color=#80FFD7FF>Анемо урон</color>.\n\n<color=#FFD780FF>Поглощение стихии:</color>\nПри контакте с элементами <color=#80C0FFFF>Гидро</color>, <color=#FF9999FF>Пиро</color>, <color=#99FFFFFF>Крио</color> или <color=#FFACFFFF>Электро</color> большой Воздушный дух наносит дополнительный урон этим элементом.\nЗа каждое использование навык может поглотить только один элемент.\n\n<i>Сахароза давала имена каждому из своих нестабильных Анемо Гипостазисов, но их семейное древо выросло намного крупнее 893-х Баронов Зайчиков.</i>",
+      "id": "Sucrose melemparkan sebuah ramuan yang menciptakan Large Wind Spirit.\nSelama ramuan itu ada, Large Wind Spirit akan terus-menerus menarik musuh dan obyek yang ada di sekitar, menghasilkan <color=#80FFD7FF>Anemo DMG</color>.\n\n<color=#FFD780FF>Elemental Absorption</color>\nKetika Wind Spirit bersentuhan dengan elemen<color=#80C0FFFF>Hydro</color>/<color=#FF9999FF>Pyro</color>/<color=#99FFFFFF>Cryo</color>/<color=#FFACFFFF>Electro</color>, maka akan mengakibatkan elemental DMG tambahan dari tipe tersebut.\nElemental Absorption hanya dapat muncul satu kali dalam sekali penggunaan.\n\n<i>Sucrose dulunya selalu memberikan nama kepada Anemo Hypostases miliknya. Namun mereka berkembang biak dengan cepat sampai melampaui Baron Bunny ke-893.</i>",
+      "th": "Sucrose ขว้างส่วนผสมที่ไม่คงที่ออกมาซึ่งทำให้ เกิด Large Wind Spirit\nระหว่างช่วงเวลาที่คงอยู่ Large Wind Spirit จะดึงดูดศัตรูและวัตถุ ที่อยู่ในบริเวณใกล้เคียงให้เข้ามาอย่างต่อเนื่อง จากนั้นโจมตีศัตรูที่อยู่ในบริเวณใกล้เคียงให้ลอยขึ้น เพื่อสร้าง<color=#80FFD7FF>ความเสียหายลม</color>\n\n<color=#FFD780FF>การเปลี่ยนแปลงธาตุ</color>\nหาก Wind Spirit สัมผัสเข้ากับ<color=#80C0FFFF>ธาตุน้ำ</color>/<color=#FF9999FF>ธาตุไฟ</color>/<color=#99FFFFFF>ธาตุน้ำแข็ง</color>/<color=#FFACFFFF>ธาตุไฟฟ้า</color>ในระหว่างช่วงเวลาคงอยู่ของ สกิลจะทำให้ได้รับคุณลักษณะของธาตุนั้น ๆ ไปด้วยและสร้างความเสียหายของธาตุ ดังกล่าวเพิ่มเติม\nการเปลี่ยนแปลงธาตุในระหว่างช่วงเวลาต่อเนื่องของสกิลนั้นจะเกิดขึ้นได้เพียง ครั้งเดียว\n\n<i>ครั้งหนึ่ง Sucrose นั้นเคยอยากที่จะตั้งชื่อให้แก่ Anemo Hypostase ที่แปรปรวนทุกตัว แต่ว่าวงศ์ของพวกมันได้ก้าวข้าม Baron Bunny อันดับที่ 893 ไปแล้วอย่างรวดเร็ว</i>",
+      "vi": "Sucrose ném một chiếc bình tạo ra một phong linh cỡ lớn.\nTrong thời gian tồn tại, phong linh cỡ lớn sẽ hút và đánh bay kẻ địch lẫn vật thể xung quanh, gây<color=#80FFD7FF>sát thương nguyên tố Phong</color>.\n\n<color=#FFD780FF>Chuyển hóa nguyên tố</color>\nNếu trong thời gian duy trì kỹ năng lốc xoáy có tiếp xúc <color=#80C0FFFF>Nguyên Tố Thủy</color>/<color=#FF9999FF>Nguyên Tố Hỏa</color>/<color=#99FFFFFF>Nguyên Tố Băng</color>/<color=#FFACFFFF>Nguyên Tố Lôi</color>, sẽ nhận được thuộc tính nguyên tố tương ứng, gây thêm sát thương kèm theo của nguyên tố đó.\nLoại chuyển hóa này chỉ phát sinh một lần trong thời gian duy trì kỹ năng.\n\n<i>Sucrose đôi khi cũng muốn đặt tên cho Phong Nguyên Bản. Nhưng số đời của chúng còn cao hơn Bá Tước Thỏ đến 893 đời.</i>"
+    },
+    "imgid": "s_433901"
+  },
+  {
+    "title": {
+      "zhs": "触媒置换术",
+      "zht": "觸媒置換術",
+      "jp": "触媒置換術",
+      "ko": "촉매 치환술",
+      "en": "Catalyst Conversion",
+      "de": "Katalysatorenkonversion",
+      "es": "Conversión de catalizador",
+      "fr": "Permutation de catalyste",
+      "pt": "Conversão de Catalisador",
+      "ru": "Замещение катализатора",
+      "id": "Catalyst Conversion",
+      "th": "Catalyst Conversion",
+      "vi": "Thay Thế Xúc Tác"
+    },
+    "description": {
+      "zhs": "砂糖触发扩散反应时，使队伍中所有对应元素类型的角色（不包括砂糖自己）元素精通提升50，持续8秒。",
+      "zht": "砂糖觸發擴散反應時，使隊伍中所有對應元素類型的（不包括砂糖自身）角色元素精通提升50，持續8秒。",
+      "jp": "スクロースが拡散反応を起こした時、該当元素のチームメンバー全員（スクロース自身を除く）の元素熟知+50、継続時間8秒。",
+      "ko": "설탕이 원소 확산 반응 발동 후 파티 내 모든 대응하는 원소 유형 캐릭터(설탕 자신을 포함하지 않음)의 원소 마스터리가 50pt 증가한다. 지속 시간: 8초",
+      "en": "When Sucrose triggers a Swirl reaction, all characters in the party with the matching element (excluding Sucrose) have their Elemental Mastery increased by 50 for 8s.",
+      "de": "Erhöht die Elementarkunde aller Figuren in der Truppe des jeweiligen Elements (außer sich selbst) 8 s lang um 50 Punkte, wenn Saccharose eine Verwirbelung auslöst.",
+      "es": "Cuando Sacarosa cause una reacción de Torbellino, aumentará en 50 pts. la Maestría Elemental de todos los miembros del equipo (a excepción de Sacarosa) cuyo tipo elemental coincida con el elemento contra el que provocó dicho Torbellino. Este efecto tiene una duración de 8 s.",
+      "fr": "Tous les personnages de l'équipe du type élémentaire concerné (à l'exception de Sucrose) obtiennent un bonus de 50 pts de maîtrise élémentaire pendant 8 s lorsque Sucrose déclenche une Dispersion.",
+      "pt": "Quando Sucrose ativa um efeito de Redemoinho, todos os personagens na equipe com o elemento correspondente (exceto Sucrose) possuem sua Proficiência Elemental aumentada em 50 por 8s.",
+      "ru": "Вызванная Сахарозой реакция Рассеивание увеличивает мастерство соответствующего элемента остальных членов отряда (но не у Сахарозы) на 50 ед. в течение 8 сек.",
+      "id": "Ketika Sucrose memicu Swirl, akan meningkatkan Elemental Mastery anggota party dengan tipe elemen yang sama (tidak termasuk Sucrose sendiri) sebesar 50, berlangsung selama 8 detik.",
+      "th": "เมื่อ Sucrose ทำให้เกิดปฏิกิริยาการกระจาย จะทำให้ตัวละครในทีมทั้งหมดที่เป็นธาตุเดียวกับธาตุที่ผสมกันจนเกิดการกระจายนั้น (ยกเว้น Sucrose) มีความชำนาญธาตุเพิ่มขึ้น 50 เป็นเวลา 8 วินาที",
+      "vi": "Khi Sucrose kích hoạt phản ứng khuếch tán sẽ tăng 50 tinh thông nguyên tố của tất cả nhân vật trong đội có loại nguyên tố tương ứng (không bao gồm bản thân Sucrose), duy trì 8s."
+    },
+    "imgid": "p_432101"
+  },
+  {
+    "title": {
+      "zhs": "小小的慧风",
+      "zht": "小小的慧風",
+      "jp": "小さな恵風",
+      "ko": "작은 혜풍",
+      "en": "Mollis Favonius",
+      "de": "Favonius Mollis",
+      "es": "Mollis Favonius",
+      "fr": "Mollis Favonius",
+      "pt": "Mollis Favonius",
+      "ru": "Сообразительный ветерок",
+      "id": "Mollis Favonius",
+      "th": "Mollis Favonius",
+      "vi": "Gió Thổi Nhẹ Nhàng"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>风灵作成·陆叁零捌</color>或<color=#FFD780FF>禁·风灵作成·柒伍同构贰型</color>命中敌人时，基于砂糖元素精通的20%，为队伍中所有角色（不包括砂糖自己）提供元素精通加成，持续8秒。",
+      "zht": "<color=#FFD780FF>風靈作成·陸參零捌</color>或<color=#FFD780FF>禁·風靈作成·柒伍同構貳型</color>命中敵人時，基於砂糖元素精通的20%，為隊伍中所有角色（不包括砂糖自身）提供元素精通加成，持續8秒。",
+      "jp": "<color=#FFD780FF>風霊作成·六三〇八</color>又は<color=#FFD780FF>禁·風霊作成·七五同構弐型</color>が敵に命中した時、スクロースの元素熟知の20%を基準に、チーム全員（スクロース自身を除く）の元素熟知を強化する、継続時間8秒。",
+      "ko": "<color=#FFD780FF>풍령 작성·육삼공팔</color> 혹은 <color=#FFD780FF>금기·풍령 작성·칠오 동구 이형</color>이 적을 명중하면 설탕의 원소 마스터리의 20%를 기반으로 파티 내 모든 캐릭터(설탕 자신을 포함하지 않음)에게 원소 마스터리 보너스를 제공한다. 지속 시간: 8초",
+      "en": "When <color=#FFD780FF>Astable Anemohypostasis Creation - 6308</color> or <color=#FFD780FF>Forbidden Creation - Isomer 75 / Type II</color> hits an opponent, increases all party members' (excluding Sucrose) Elemental Mastery by an amount equal to 20% of Sucrose's Elemental Mastery for 8s.",
+      "de": "Erhöht die Elementarkunde aller Figuren in der Truppe (außer sich selbst) beim Treffen von Gegnern mit <color=#FFD780FF>Windseelenschaffung – Experiment 6308</color> oder <color=#FFD780FF>Verbotene Windseelenschaffung – Isomorpher Typ 75-II</color> 8 s lang in Höhe von 20 % von Saccharoses Elementarkunde.",
+      "es": "Cuando Sacarosa ataca a un enemigo con <color=#FFD780FF>Creación del espíritu del viento: Experimento 6308</color> o <color=#FFD780FF>Creación prohibida del espíritu del viento: Isomorfo 75 tipo II</color>, aumenta durante 8 s la Maestría Elemental de todos los miembros del equipo (a excepción de Sacarosa) en proporción al 20% de la Maestría Elemental de Sacarosa.",
+      "fr": "Lorsque <color=#FFD780FF>Esprit du vent : Sujet 6308</color> ou <color=#FFD780FF>Esprit du vent : Isomorphe 75 Type II</color> touche un ennemi, tous les personnages de l'équipe (à l'exception de Sucrose) bénéficient pendant 8 s d'un bonus de maîtrise élémentaire équivalant à 20 % de la maîtrise élémentaire de Sucrose.",
+      "pt": "Quando a <color=#FFD780FF>Criação do Espírito do Vento: Experimento 6308</color> ou a <color=#FFD780FF>Criação Proibida do Espírito do Vento: Isomórfico-75 Tipo II</color> acerta um inimigo, aumenta a Proficiência Elemental de todos os membros de equipe (exceto Sucrose) em 20% baseada na Proficiência de Sucrose por 8 segundos.",
+      "ru": "При попадании навыками <color=#FFD780FF>«Эксперимент №6308»</color> или <color=#FFD780FF>«Запретно! Изомер 75 / Тип II»</color> увеличивает мастерство стихий остальных членов отряда (но не у Сахарозы) на 20% от мастерства стихий Сахарозы в течение 8 сек.",
+      "id": "Ketika skill <color=#FFD780FF>Astable Anemohypostasis Creation - 6308</color> atau <color=#FFD780FF>Forbidden Creation - Isomer 75 / Type II</color> mengenai musuh, akan meningkatkan Elemental Mastery seluruh anggota party (tidak termasuk Sucrose sendiri) sebanyak 20% dari Elemental Mastery Sucrose selama 8 detik.",
+      "th": "เมื่อ <color=#FFD780FF>Astable Anemohypostasis Creation - 6308</color> หรือ <color=#FFD780FF>Forbidden Creation - Isomer 75 / Type II</color> โจมตีโดนศัตรู ความชำนาญธาตุของตัวละครในทีมทั้งหมด (ยกเว้น Sucrose) จะเพิ่มขึ้นอีก 20% ของความชำนาญธาตุของ Sucrose เป็นเวลา 8 วินาที",
+      "vi": "Khi <color=#FFD780FF>Gió Thần Sáng Tạo 6308</color> hoặc <color=#FFD780FF>Cấm-Gió Thần Sáng Tạo-75 Loại 2</color> đánh trúng địch, tăng 20% tinh thông nguyên tố của Sucrose cho tất cả nhân vật trong đội (không bao gồm bản thân Sucrose), duy trì 8s."
+    },
+    "imgid": "p_432201"
+  },
+  {
+    "title": {
+      "zhs": "不稳定发现",
+      "zht": "不穩定發現",
+      "jp": "不安定な発見",
+      "ko": "불안정한 발견",
+      "en": "Astable Invention",
+      "de": "Instabile Entdeckung",
+      "es": "Invención inestable",
+      "fr": "Fragile découverte",
+      "pt": "Invenção Instável",
+      "ru": "Нестабильное изобретение",
+      "id": "Astable Invention",
+      "th": "Astable Invention",
+      "vi": "Phát Hiện Không Ổn Định"
+    },
+    "description": {
+      "zhs": "合成角色与武器培养素材时，有10%概率获得2倍产出。",
+      "zht": "合成角色與武器培養素材時，有10%的機率獲得兩倍產出。",
+      "jp": "キャラクターと武器の育成素材を合成する時、10%の確率でアイテムを2倍獲得する。",
+      "ko": "캐릭터와 무기 육성 소재를 합성 시 10%의 확률로 생산량의 2배를 획득한다",
+      "en": "When Sucrose crafts Character and Weapon Enhancement Materials, she has a 10% to obtain double the product.",
+      "de": "Stellt beim Zusammensetzen von Material zur Verbesserung von Figuren und Waffen mit einer Wahrscheinlichkeit von 10 % den 2-fachen Ertrag her.",
+      "es": "Al crear materiales para personaje y armas, hay una probabilidad del 10% de recibir el doble.",
+      "fr": "10 % de chances d'obtenir le double de produits lors de la synthèse de matériaux d'amélioration de personnage ou d'arme.",
+      "pt": "Quando Sucrose cria Materiais de Elevação de Personagens e de Armas, ela tem 10% de chance de receber o dobro de produção.",
+      "ru": "При создании материалов улучшения персонажей и оружия имеет 10% шанс создать дополнительный предмет.",
+      "id": "Saat Sucrose membuat Material Penguatan Senjata dan Karakter, memiliki 10% kemungkinan untuk mendapatkan hasil 2 kali lipat.",
+      "th": "เมื่อสร้างวัสดุพัฒนาตัวละครและอาวุธ จะมีโอกาส 10% ที่จะได้รับผลผลิตเพิ่มเป็น 2 เท่า",
+      "vi": "Khi ghép nguyên liệu bồi dưỡng nhân vật và vũ khí, có 10% tỷ lệ nhận x2 thành phẩm."
+    },
+    "imgid": "p_432301"
+  }
+]

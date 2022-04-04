@@ -1,0 +1,200 @@
+[
+  {
+    "title": {
+      "zhs": "普通攻击·水之浅唱",
+      "zht": "普通攻擊·水之淺唱",
+      "jp": "通常攻撃·水の囁き",
+      "ko": "일반 공격·물의 노래",
+      "en": "Normal Attack: Whisper of Water",
+      "de": "Standardangriff: Stille Wasser",
+      "es": "Ataque Normal: Murmullo del agua",
+      "fr": "Attaque normale : Murmure de l'eau",
+      "pt": "Ataque Normal: Suspiro da Água",
+      "ru": "Шёпот воды",
+      "id": "Whisper of Water",
+      "th": "โจมตีปกติ - Whisper of Water",
+      "vi": "Tấn Công Thường: Giọng Ca Của Nước"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>普通攻击</color>\n进行至多四段的水花攻击，造成<color=#80C0FFFF>水元素伤害</color>。\n\n<color=#FFD780FF>重击</color>\n消耗一定体力，短暂咏唱后，造成<color=#80C0FFFF>水元素范围伤害</color>。\n\n<color=#FFD780FF>下落攻击</color>\n凝聚水元素的力量，从空中下坠冲击地面，攻击下落路径上的敌人，并在落地时造成<color=#80C0FFFF>水元素范围伤害</color>。",
+      "zht": "<color=#FFD780FF>普通攻擊</color>\n進行至多四段的水花攻擊，造成<color=#80C0FFFF>水元素傷害</color>。\n\n<color=#FFD780FF>重擊</color>\n消耗一定體力，短暫詠唱後，造成<color=#80C0FFFF>水元素範圍傷害</color>。\n\n<color=#FFD780FF>下落攻擊</color>\n凝聚水元素的力量，從空中下墜衝擊地面，攻擊下落路徑上的敵人，並在落地時造成<color=#80C0FFFF>水元素範圍傷害</color>。",
+      "jp": "<color=#FFD780FF>通常攻撃</color>\n最大4段の連続攻撃を行い、<color=#80C0FFFF>水元素ダメージ</color>を与える。\n\n<color=#FFD780FF>重撃</color>\n一定のスタミナを消費し、短い詠唱をした後、敵に<color=#80C0FFFF>水元素範囲ダメージ</color>を与える。\n\n<color=#FFD780FF>落下攻撃</color>\n空中から水元素の力を凝集しながら落下し、地面に衝撃を与える。経路上の敵を攻撃し、落下時に<color=#80C0FFFF>水元素範囲ダメージ</color>を与える。",
+      "ko": "<color=#FFD780FF>일반 공격</color>\n물보라로 최대 4번 공격해 <color=#80C0FFFF>물 원소 피해</color>를 준다.\n\n<color=#FFD780FF>강공격</color>\n일정 스태미나를 소모해, 짧은 영창 후 <color=#80C0FFFF>물 원소 범위 피해</color>를 준다.\n\n<color=#FFD780FF>낙하 공격</color>\n공중에서 물의 힘을 모은 후 지면을 강타해 경로상의 적을 공격하고 착지 시 <color=#80C0FFFF>물 원소 범위 피해</color>를 준다",
+      "en": "<color=#FFD780FF>Normal Attack</color>\nPerform up to 4 water splash attacks that deal <color=#80C0FFFF>Hydro DMG</color>.\n\n<color=#FFD780FF>Charged Attack</color>\nConsumes a certain amount of Stamina to deal <color=#80C0FFFF>AoE Hydro DMG</color> after a short casting time.\n\n<color=#FFD780FF>Plunging Attack</color>\nGathering the might of Hydro, Barbara plunges towards the ground from mid-air, damaging all opponents in her path. Deals <color=#80C0FFFF>AoE Hydro DMG</color> upon impact with the ground.",
+      "de": "<color=#FFD780FF>Standardangriff</color>\nFührt bis zu 4 Spritzwasser-Angriffe aus und verursacht <color=#80C0FFFF>Hydro-Schaden</color>.\n\n<color=#FFD780FF>Heftiger Schlag</color>\nVerbraucht eine gewisse Menge Ausdauer und verursacht nach kurzer Aufladezeit <color=#80C0FFFF>Hydro-Flächenschaden</color>.\n\n<color=#FFD780FF>Angriff aus dem Fall</color>\nKonzentriert die Kraft des Wassers, schlägt beim Fallen aus der Luft auf den Boden, greift alle Gegner in der Bahn an und verursacht beim Aufkommen <color=#80C0FFFF>Hydro-Flächenschaden</color>.",
+      "es": "<color=#FFD780FF>Ataque Normal</color>\nRealiza hasta 4 salpicaduras de agua que infligen <color=#80C0FFFF>Daño Hydro</color>.\n\n<color=#FFD780FF>Ataque Cargado</color>\nConsume una cierta cantidad de Aguante para infligir <color=#80C0FFFF>Daño Hydro en el AdE</color> después de un corto tiempo de lanzamiento.\n\n<color=#FFD780FF>Ataque Descendente</color>\nConcentra el poder Hydro y desciende hacia el suelo, dañando a todos los enemigos cercanos e infligiendo <color=#80C0FFFF>Daño Hydro en el AdE</color> en el momento del impacto.",
+      "fr": "<color=#FFD780FF>Attaque normale</color>\nEnchaîne jusqu'à 4 attaques d'eau qui infligent des <color=#80C0FFFF>DGT Hydro</color>.\n\n<color=#FFD780FF>Attaque chargée</color>\nConsomme de l'endurance pour infliger des <color=#80C0FFFF>DGT Hydro de zone</color> après un court délai.\n\n<color=#FFD780FF>Attaque plongeante</color>\nPlonge depuis les airs en concentrant ses pouvoirs Hydro, infligeant des DGT aux ennemis en chemin et des <color=#80C0FFFF>DGT Hydro de zone</color> à l'impact.",
+      "pt": "<color=#FFD780FF>Ataque Normal</color>\nRealiza até 4 ataques com esguichos de água que infligem <color=#80C0FFFF>Dano Hydro</color>.\n\n<color=#FFD780FF>Ataque Carregado</color>\nConsome uma certa quantidade de Stamina para infligir <color=#80C0FFFF>Dano Hydro em uma AdE</color> após um curto período de canalização.\n\n<color=#FFD780FF>Ataque Imersivo</color>\nReunindo o poder do Hydro, Barbara mergulha em direção ao chão em pleno ar, infligindo dano a todos os inimigos em seu caminho. Inflige <color=#80C0FFFF>Dano Hydro em uma AdE</color> durante o impacto com o chão.",
+      "ru": "<color=#FFD780FF>Обычная атака:</color>\nДо четырёх ударов пузырями, наносящих <color=#80C0FFFF>Гидро урон</color>.\n\n<color=#FFD780FF>Заряженная атака:</color>\nКороткое заклинание, наносящее <color=#80C0FFFF>Гидро урон по площади</color>, на которое тратится определённое количество выносливости.\n\n<color=#FFD780FF>Атака в падении:</color>\nНакопив энергию воды, стремительно падает на землю, атакуя всех врагов на пути. Приземлившись, наносит <color=#80C0FFFF>Гидро урон по площади</color>.",
+      "id": "<color=#FFD780FF>Normal Attack</color>\nMelancarkan hingga 4 serangan air yang mengakibatkan <color=#80C0FFFF>Hydro DMG</color>.\n\n<color=#FFD780FF>Charged Attack</color>\nMengonsumsi sejumlah Stamina untuk mengakibatkan <color=#80C0FFFF>Hydro DMG area</color> setelah jeda singkat.\n\n<color=#FFD780FF>Plunging Attack</color>\nMengumpulkan kekuatan Hydro dan menerjang tanah, mengakibatkan DMG pada musuh di jalur terjangan dan mengakibatkan <color=#80C0FFFF>Hydro DMG area</color> saat mendarat.",
+      "th": "<color=#FFD780FF>โจมตีปกติ</color>\nปล่อยการโจมตีน้ำต่อเนื่องมากสุดสี่ครั้ง เพื่อสร้าง<color=#80C0FFFF>ความเสียหายน้ำ</color>\n\n<color=#FFD780FF>ชาร์จโจมตี</color>\nใช้พลังกายบางส่วน โดยหลังจากร่ายเสร็จจะสร้าง <color=#80C0FFFF>ความเสียหายน้ำเป็นวงกว้าง</color>\n\n<color=#FFD780FF>โจมตีพุ่งลงจากอากาศ</color>\nรวบรวมพลังแห่งธาตุน้ำ กระโจนจากกลางอากาศลงมายังพื้นดิน เพื่อโจมตีศัตรูที่อยู่ในเส้นทางการโจมตี โดยจะสร้าง<color=#80C0FFFF>ความเสียหายน้ำวงกว้าง</color> เมื่อลงถึงพื้น",
+      "vi": "<color=#FFD780FF>Tấn Công Thường</color>\nThực hiện tối đa 4 lần tấn công hoa nước, gây <color=#80C0FFFF>Sát Thương Nguyên Tố Thủy</color>.\n\n<color=#FFD780FF>Trọng Kích</color>\nTiêu hao thể lực nhất định, sau khi tụ lực, gây <color=#80C0FFFF>Sát Thương Phạm Vi Nguyên Tố Thủy</color>.\n\n<color=#FFD780FF>Tấn Công Khi Đáp</color>\nNgưng tụ sức mạnh nguyên tố Thủy, từ trên trời tấn công xuống mặt đất, tấn công kẻ địch trên đường đi, gây <color=#80C0FFFF>sát thương phạm vi Nguyên Tố Thủy</color> khi chạm đất."
+    },
+    "imgid": "s_143101"
+  },
+  {
+    "title": {
+      "zhs": "演唱，开始♪",
+      "zht": "演唱，開始♪",
+      "jp": "公演、開始♪",
+      "ko": "공연, 시작♪",
+      "en": "Let the Show Begin♪",
+      "de": "Die Darbietung beginnt ♪",
+      "es": "Que empiece el concierto ♪",
+      "fr": "C'est parti pour le show ♪",
+      "pt": "Que Comece o Espetáculo ♪",
+      "ru": "Да начнётся шоу♪",
+      "id": "Let the Show Begin♪",
+      "th": "Let the Show Begin♪",
+      "vi": "Buổi Diễn, Bắt Đầu♪"
+    },
+    "description": {
+      "zhs": "唤出歌声般跃动的水珠，形成歌声之环，对周围的敌人造成<color=#80C0FFFF>水元素伤害</color>，并施加<color=#80C0FFFF>潮湿</color>状态。\n\n<color=#FFD780FF>歌声之环</color>\n·芭芭拉的普通攻击命中时，为队伍中自己的角色，以及附近的友方角色恢复生命值，回复量受益于芭芭拉的生命值上限；\n·重击命中时，能产生4倍回复量；\n·每隔一段时间，为当前场上自己的角色恢复生命值；\n·对角色与触及的敌人施加<color=#80C0FFFF>潮湿</color>状态。\n\n<i>芭芭拉的音乐就是治疗大家的魔法。</i>",
+      "zht": "喚出歌聲般躍動的水珠，形成歌聲之環，對周圍的敵人造成<color=#80C0FFFF>水元素傷害</color>，並施加<color=#80C0FFFF>潮濕</color>狀態。\n\n<color=#FFD780FF>歌聲之環</color>\n·芭芭拉的普通攻擊命中時，為隊伍中自己的角色，以及附近的友方角色恢復生命值，回復量受益於芭芭拉的生命值上限；\n·重擊命中時，能產生四倍回復量；\n·每隔一段時間，為當前場上自己的角色恢復生命值；\n·對角色與觸及歌聲之環的敵人施加<color=#80C0FFFF>潮濕</color>狀態。\n\n<i>芭芭拉的音樂就是治療大家的魔法。</i>",
+      "jp": "躍動する歌声のような水の玉を召喚し、歌声の輪を作って周囲の敵に<color=#80C0FFFF>水元素ダメージ</color>を与え、さらに<color=#80C0FFFF>湿潤</color>状態を付与する。\n\n<color=#FFD780FF>歌声の輪</color>\n·バーバラの通常攻撃が命中した時、チーム内の自身のキャラクター全員または付近の味方のHPを回復する。回復量はバーバラのHP上限によって決まる。\n·重撃が命中した時、回復量は4倍になる。\n·一定時間の間隔で、出場している自身のキャラクターのHPを回復する。\n·キャラクター、または接触した敵に<color=#80C0FFFF>湿潤</color>状態を付与する。\n\n<i>バーバラの音楽はみんなを治療する魔法。</i>",
+      "ko": "노랫소리처럼 통통 튀는 물방울을 소환해 노래의 고리를 생성해 주변의 적에게 <color=#80C0FFFF>물 원소 피해</color>를 주고 <color=#80C0FFFF>습기</color> 효과를 부여한다.\n\n<color=#FFD780FF>노래의 고리</color>\n·바바라의 일반 공격 명중 시 자신의 파티 내 모든 캐릭터 및 근처 아군 캐릭터의 HP를 회복한다. 회복량은 바바라 HP 최대치의 영향을 받는다.\n·강공격 명중 시 회복량이 4배가 된다.\n·일정 시간이 지날 때마다 현재 필드 위 자신의 캐릭터의 HP를 회복한다.\n·캐릭터 및 닿은 적에게 <color=#80C0FFFF>습기</color> 효과를 부여한다.\n\n<i>바바라의 음악은 모두를 치유하는 마법이다</i>",
+      "en": "Summons water droplets resembling musical notes that form a Melody Loop, dealing <color=#80C0FFFF>Hydro DMG</color> to surrounding opponents and applying the <color=#80C0FFFF>Wet</color> status to them.\n\n<color=#FFD780FF>Melody Loop</color>\n·On hit, Barbara's Normal Attacks heal your own party members and nearby teammates for a certain amount of HP, which scales with Barbara's Max HP.\n·On hit, Barbara's Charged Attack generates 4 times the amount of healing.\n·Periodically regenerates your own active character's HP.\n·Applies the <color=#80C0FFFF>Wet</color> status to the character and to opponents who come in contact with them.\n\n<i>Barbara's music is the magic that heals her companions.</i>",
+      "de": "Erschafft hüpfende Wassertropfen, die einen singenden Kreis bilden und Gegnern in der Umgebung <color=#80C0FFFF>Hydro-Schaden</color> sowie den Zustand <color=#80C0FFFF>Nass</color> zufügen.\n\n<color=#FFD780FF>Singender Kreis</color>\n· Stellt allen eigenen Truppenmitgliedern und befreundeten Figuren in der Nähe LP basierend auf Barbaras max. LP wieder her, wenn Barbaras Standardangriff trifft.\n· Stellt bei Treffern mit heftigen Schlägen die 4-fache Menge LP wieder her.\n· Stellt der aktuellen eigenen Figur in regelmäßigen Abständen LP wieder her.\n· Fügt Figuren und in Kontakt kommenden Gegnern den Zustand <color=#80C0FFFF>Nass</color> zu.\n\n<i>Die Magie, mit der Barbara andere heilt, liegt in ihrer Musik.</i>",
+      "es": "Invoca gotas de agua que se asemejan a notas musicales y forman círculos melódicos. Estas infligen <color=#80C0FFFF>Daño Hydro</color> a los enemigos cercanos y los afecta con el estado de <color=#80C0FFFF>Mojado</color>.\n\n<color=#FFD780FF>Círculos melódicos</color>\n·Los Ataques Normales de Bárbara curan a todos los miembros de tu equipo y a los personajes aliados cercanos una cantidad de Vida proporcional a la Vida Máx. de Bárbara.\n·Al golpear a un enemigo con su Ataque Cargado, puede curar 4 veces más que con sus Ataques Normales.\n·Regenera intermitentemente una cierta cantidad de Vida para el personaje en uso.\n·Aplica el estado de <color=#80C0FFFF>Mojado</color> sobre el personaje y sobre los enemigos que entren en contacto con él.\n\n<i>La música de Bárbara es la magia que cura a sus compañeros.</i>",
+      "fr": "Invoque des gouttelettes dansantes qui forment un cercle de mélodie infligeant des <color=#80C0FFFF>DGT Hydro</color> et <color=#80C0FFFF>trempant</color> les ennemis proches.\n\n<color=#FFD780FF>Cercle de mélodie</color>\n· Les attaques normales de Barbara restaurent les PV de vos personnages dans l'équipe ainsi que de tous les alliés proches lorsqu'elles touchent. La quantité de PV restaurés est proportionnelle aux PV max de Barbara.\n· L'effet des soins est multiplié par 4 avec les attaques chargées.\n· Régénère les PV de votre personnage déployé à intervalles réguliers.\n· Barbara <color=#80C0FFFF>trempe</color> les personnages et les ennemis avec qui elle entre en contact.\n\n<i>La musique de Barbara est une magie capable de soigner chacun.</i>",
+      "pt": "Invoca gotículas de água que se assemelham a notas musicais que formam um Círculo Melódico, causando <color=#80C0FFFF>Dano Hydro</color> aos oponentes próximos e aplicando o estado <color=#80C0FFFF>Molhado</color> a eles.\n\n<color=#FFD780FF>Círculo Melódico</color>\nAo acertar, os ataques normais da Barbara curam seus próprios membros de equipe e personagens aliados próximos em uma certa quantidade de Vida, que é escalonado com a Vida Máxima de Barbara.\nAcertar o Ataque Carregado de Barbara gera 4 vezes a quantidade de cura.\nPeriodicamente regenera a Vida do seu próprio personagem ativo.\nAplica o estado <color=#80C0FFFF>Molhado</color> ao personagem e aos oponentes que entram em contato com eles.\n<i>A música da Barbara é a magia que cura seus companheiros.</i>",
+      "ru": "Создаёт водяные пузыри в форме музыкальных нот, которые складываются в кольцо и наносят <color=#80C0FFFF>Гидро урон</color> окружающим врагам, а также накладывают на них статус <color=#80C0FFFF>Мокрый</color>.\n\n<color=#FFD780FF>Кольцо мелодии:</color>\n· Обычные атаки Барбары восстанавливают всем членам отряда и ближайшим союзникам определённое количество HP, которое зависит от макс. HP Барбары;\n· Заряженная атака восстанавливает в 4 раза больше HP;\n· Регулярно восстанавливает определённое количество HP вашему активному персонажу;\n· При касании с союзниками и врагами накладывает на них статус <color=#80C0FFFF>Мокрый</color>.\n\n<i> Музыка Барбары - это магия, исцеляющая её спутников.</i>",
+      "id": "Memanggil tetesan air yang menyerupai not balok yang membentuk sebuah Melody Loop, mengakibatkan <color=#80C0FFFF>Hydro DMG</color> ke musuh di sekitar karakter dan memberikan efek <color=#80C0FFFF>Wet</color>.\n\n<color=#FFD780FF>Melody Loop</color>\n·Normal Attack Barbara dapat memulihkan HP seluruh anggota partymu dan karakter kawan di sekitar, jumlah HP yang dipulihkan berdasarkan pada Max HP Barbara;\n·Charged Attack Barbara memulihkan 4 kali lipat lebih banyak HP;\n·Memulihkan HP secara berkala untuk karakter sendiri yang sedang digunakan;\n·Memberikan efek <color=#80C0FFFF>Wet</color> kepada karakter dan musuh yang menyentuhnya.\n\n<i>Musik Barbara adalah sihir yang dapat menyembuhkan teman-temannya.</i>",
+      "th": "เสียงร่ายที่ราวกับบทเพลง เรียกหยดน้ำออกมารวมตัวกลายเป็น วงแหวนดนตรีและสร้าง<color=#80C0FFFF>ความเสียหายน้ำ</color> แก่ศัตรูโดยรอบและทำให้ติดสถานะ <color=#80C0FFFF>เปียกชุ่ม</color>\n\n<color=#FFD780FF>วงแหวนดนตรี</color>\n·เมื่อการโจมตีปกติของ Barbara ถูกเป้าหมาย จะทำการฟื้นฟูพลังชีวิตให้แก่ตัวละคร ทั้งหมดในทีมรวมไปถึงตัวละครที่เป็น ฝ่ายเดียวกับตนเอง โดยปริมาณการฟื้นฟูจะขึ้นอยู่กับ พลังชีวิตสูงสุดของ Barbara;\n·เมื่อชาร์จโจมตีถูกเป้าหมายจะทำให้เกิด การฟื้นฟู 4 เท่า;\n·จะทำการฟื้นฟูพลังชีวิตให้แก่ตัวละครของตนเองที่เข้าต่อสู้ในขณะนั้นเป็นช่วง ๆ;\n·จะทำให้ตัวละครและศัตรูที่สัมผัสโดน ติดสถานะ<color=#80C0FFFF>เปียกชุ่ม</color>\n\n<i>บทเพลงของ Barbara คือเวทมนตร์ที่คอยรักษาทุก ๆ คน</i>",
+      "vi": "Triệu hồi những giọt nước nhảy nhót như tiếng hát, tạo thành vòng âm thanh, gây cho địch xung quanh <color=#80C0FFFF>Sát Thương Nguyên Tố Thủy</color>, và thi triển trạng thái <color=#80C0FFFF>Ẩm Ướt</color>.\n\n<color=#FFD780FF>Vòng Âm Thanh</color>\n·Khi Barbara tấn công thường trúng địch, thì nhân vật của bản thân trong đội và các nhân vật cùng phe gần đó sẽ được hồi HP, lượng hồi phụ thuộc vào giới hạn HP của Barbara;\n·Khi trọng kích trúng, có thể hồi x4;\n·Mỗi một khoảng thời gian, sẽ hồi HP cho nhân vật của bản thân trong trận hiện tại;\n·Thi triển trạng thái <color=#80C0FFFF>Ẩm Ướt</color> cho nhân vật và địch có tiếp xúc.\n\n<i>Âm nhạc của Barbara là phép thuật trị liệu cho mọi người.</i>"
+    },
+    "imgid": "s_143201"
+  },
+  {
+    "title": {
+      "zhs": "闪耀奇迹♪",
+      "zht": "閃耀奇跡♪",
+      "jp": "シャイニングミラクル♪",
+      "ko": "빛나는 기적♪",
+      "en": "Shining Miracle♪",
+      "de": "Glitzerndes Wunder ♪",
+      "es": "Milagro brillante ♪",
+      "fr": "Miracle brillant ♪",
+      "pt": "Milagre Brilhante ♪",
+      "ru": "Чудесное сияние♪",
+      "id": "Shining Miracle♪",
+      "th": "Shining Miracle♪",
+      "vi": "Kỳ Tích Vinh Diệu♪"
+    },
+    "description": {
+      "zhs": "为附近的友方角色及队伍中自己的角色恢复大量生命值，回复量受益于芭芭拉的生命值上限。\n\n<i>治愈大家的心就是芭芭拉战斗与歌唱的力量。</i>",
+      "zht": "為附近的友方角色與隊伍中自己的角色恢復大量生命值，回復量受益於芭芭拉的生命值上限。\n\n<i>治癒大家的心就是芭芭拉戰鬥與歌唱的力量。</i>",
+      "jp": "周囲にいる味方とチーム内の自身のキャラクター全員のHPを大量に回復する、回復量はバーバラのHP上限によって決まる。\n\n<i>人々を癒す心はバーバラの戦う源であり、歌う力である。</i>",
+      "ko": "근처 아군 캐릭터와 자신의 파티 내 모든 캐릭터의 HP를 대량 회복한다. 회복량은 바바라 HP 최대치의 영향을 받는다.\n\n<i>모두를 치유하고자 하는 마음이 바바라의 전투와 노래의 힘이 되었다</i>",
+      "en": "Heals your own party members and nearby teammates for a large amount of HP that scales with Barbara's Max HP.\n\n<i>Barbara's desire to heal strengthens her will to fight and sing.</i>",
+      "de": "Stellt befreundeten Figuren in der Nähe und allen eigenen Truppenmitgliedern viele LP basierend auf Barbaras max. LP wieder her.\n\n<i>Kampf und Gesang sind die Quelle für Barbaras Macht, andere zu heilen.</i>",
+      "es": "Cura una cantidad considerable de Vida a los aliados cercanos y a todos los miembros de tu equipo. La curación aumenta en proporción a la Vida Máx. de Bárbara.\n\n<i>Los deseos sanadores de Bárbara refuerzan su voluntad de luchar y cantar.</i>",
+      "fr": "Restaure considérablement les PV des alliés et de vos personnages dans l'équipe ; la quantité de PV restaurés est proportionnelle aux PV max de Barbara.\n\n<i>Soigner le cœur de chacun, telle est la force du chant de Barbara.</i>",
+      "pt": "Cura todas as forças aliadas e seu próprio personagem em uma grande quantidade de Vida que aumenta com a Vida Máxima de Barbara.\n\n<i>O desejo de Barbara de curar fortalece sua vontade de lutar e cantar.</i>",
+      "ru": "Восстанавливает всем союзникам и членам отряда определённое количество HP, которое зависит от макс. HP Барбары.\n\n<i>Желание Барбары исцелять придаёт ей уверенности в пении и в бою.</i>",
+      "id": "Memulihkan HP karakter teman dan seluruh anggota party dalam jumlah besar, jumlah HP yang dipulihkan berdasarkan pada Max HP Barbara.\n\n<i>Keinginan Barbara untuk menyembuhkan adalah dorongan baginya untuk terus bertarung dan bernyanyi.</i>",
+      "th": "ฟื้นฟูพลังชีวิตปริมาณมากให้แก่ ตัวละครฝ่ายเดียวกันที่อยู่ใกล้ และตัวละครของคุณในทีม โดยปริมาณการฟื้นฟูจะขึ้นอยู่กับพลังชีวิตสูงสุดของ Barbara\n\n<i>พลังที่คอยรักษาทุก ๆ คนตลอดการต่อสู้ ก็คือเสียงเพลงของ Barbara</i>",
+      "vi": "Hồi lượng lớn HP cho các nhân vật của bản thân trong đội ở gần và tất cả nhân vật trong đội của bản thân, lượng hồi phụ thuộc vào giới hạn HP của Barbara.\n\n<i>Chữa lành trái tim cho mọi người là sức mạnh để Barbara chiến đấu và ca hát.</i>"
+    },
+    "imgid": "s_143901"
+  },
+  {
+    "title": {
+      "zhs": "光辉的季节",
+      "zht": "光輝的季節",
+      "jp": "輝く季節",
+      "ko": "광휘의 계절",
+      "en": "Glorious Season",
+      "de": "Glanzvolle Jahreszeit",
+      "es": "Momento de gloria",
+      "fr": "Splendide saison",
+      "pt": "Temporada Gloriosa",
+      "ru": "Урожайный сезон",
+      "id": "Glorious Season",
+      "th": "Glorious Season",
+      "vi": "Mùa Huy Hoàng"
+    },
+    "description": {
+      "zhs": "角色在<color=#FFD780FF>演唱，开始♪</color>的歌声之环中时，体力消耗降低12%。",
+      "zht": "角色在<color=#FFD780FF>演唱，開始♪</color>的歌聲之環中時，體力消耗降低12%。",
+      "jp": "<color=#FFD780FF>公演、開始♪</color>歌声の輪が継続している間、スタミナ消費-12%。",
+      "ko": "캐릭터가 <color=#FFD780FF>공연, 시작♪</color>의 노래의 고리 안에 있으면 스태미나 소모량이 12% 감소한다",
+      "en": "The Stamina Consumption of characters within <color=#FFD780FF>Let the Show Begin♪</color>'s Melody Loop is reduced by 12%.",
+      "de": "Verringert den Ausdauerverbrauch der Figur innerhalb des singenden Kreises von <color=#FFD780FF>Die Darbietung beginnt ♪</color> um 12 %.",
+      "es": "Reduce en un 12% el Coste de Aguante de los personaje cuando están dentro de los círculos melódicos de <color=#FFD780FF>Que empiece el concierto ♪</color>.",
+      "fr": "Les personnages situés dans le cercle de mélodie de <color=#FFD780FF>C'est parti pour le show ♪</color> consomment 12 % d'endurance en moins.",
+      "pt": "O Consumo de Stamina dos personagens dentro do loop da melodia de <color=#FFD780FF>Que Comece o Espetáculo ♪</color> é reduzido em 12%.",
+      "ru": "Уменьшает потребление выносливости персонажей в Кольце мелодии навыка <color=#FFD780FF>Да начнётся шоу♪</color> на 12%.",
+      "id": "Mengurangi 12% konsumsi Stamina karakter yang berada dalam Melody Loop dari skill <color=#FFD780FF>Let the Show Begin♪</color>.",
+      "th": "เมื่อตัวละครใช้วงแหวนเพลง <color=#FFD780FF>Let the Show Begin♪</color> การใช้พลังกายจะลดลง 12%",
+      "vi": "Khi nhân vật đang trong vòng âm thanh của <color=#FFD780FF>Buổi Diễn, Bắt Đầu♪</color>, giảm 12% thể lực tiêu hao."
+    },
+    "imgid": "p_142101"
+  },
+  {
+    "title": {
+      "zhs": "安可",
+      "zht": "安可",
+      "jp": "アンコール",
+      "ko": "앵콜",
+      "en": "Encore",
+      "de": "Encore",
+      "es": "Bis",
+      "fr": "Bis repetita",
+      "pt": "Encore",
+      "ru": "На бис",
+      "id": "Encore",
+      "th": "Encore",
+      "vi": "Lập Lại"
+    },
+    "description": {
+      "zhs": "当前场上自己的角色获得元素晶球或元素微粒时，延长<color=#FFD780FF>演唱，开始♪</color>歌声之环持续时间1秒。\n通过这种方式，至多延长5秒。",
+      "zht": "目前場上自己的角色獲得元素晶球或元素微粒時，延長<color=#FFD780FF>演唱，開始♪</color>歌聲之環持續時間1秒。\n通過這種方式，至多延長5秒。",
+      "jp": "出場している自身のキャラクターが元素オーブまたは元素粒子を獲得した時、<color=#FFD780FF>公演、開始♪</color>の歌声の輪の継続時間+1秒。\nこの方法で最大5秒まで延長可能。",
+      "ko": "현재 필드 위에 있는 자신의 캐릭터가 원소 구슬 혹은 원소 입자 획득 시 <color=#FFD780FF>공연, 시작♪</color>의 노래의 고리 지속 시간이 1초 증가한다.\n이러한 방식으로 최대 5초 증가할 수 있다",
+      "en": "When your active character gains an Elemental Orb/Particle, the duration of the Melody Loop of <color=#FFD780FF>Let the Show Begin♪</color> is extended by 1s.\nThe maximum extension is 5s.",
+      "de": "Verlängert die Wirkungsdauer des singenden Kreises von <color=#FFD780FF>Die Darbietung beginnt ♪</color>, wenn die aktuelle eigene Figur Elementarkristalle oder Elementarteilchen erhält, um 1 s.\nErhöht die Dauer auf diese Weise um bis zu 5 s.",
+      "es": "Cuando tu personaje en uso recoja un orbe o una partícula elemental, aumenta en 1 s la duración de los círculos melódicos de <color=#FFD780FF>Que empiece el concierto ♪</color>.\nPuede aumentarse hasta un máximo de 5 s.",
+      "fr": "Chaque orbe ou particule élémentaire obtenu(e) par votre personnage déployé prolonge le cercle de mélodie de <color=#FFD780FF>C'est parti pour le show ♪</color> de 1 s.\nDurée max : 5 s.",
+      "pt": "Quando seu próprio personagem ganha um Orbe/Partícula Elemental, a duração do Loop da Melodia do <color=#FFD780FF>Que Comece o Espetáculo ♪</color> é estendido em 1s.\nA extensão máxima é de 5s.",
+      "ru": "Подобранные вашими персонажами элементальные сферы и частицы увеличивают длительность Кольца мелодии навыка <color=#FFD780FF>Да начнётся шоу♪</color> на 1 сек.\nНельзя увеличить больше чем на 5 сек.",
+      "id": "Setiap kali karakter yang sedang digunakan mengambil Elemental Orb/Particle, akan memperpanjang durasi Melody Loop dari skill <color=#FFD780FF>Let the Show Begin♪</color> selama 1 detik.\nPenambahan durasi maksimum adalah 5 detik.",
+      "th": "เมื่อตัวละครของตนเอง ที่เข้าต่อสู้ในขณะนั้น ได้รับลูกแก้วธาตุหรืออณูธาตุ จะเพิ่มระยะเวลาของวงแหวนดนตรี <color=#FFD780FF>Let the Show Begin♪</color> ขึ้น 1 วินาที \nสามารถเพิ่มเวลาด้วยวิธีนี้ได้มากสุด 5 วินาที",
+      "vi": "Khi nhân vật của bản thân trong trận hiện tại nhận được Nguyên Tố Tinh Cầu hoặc Nguyên Tố Hạt Nhân, vòng âm thanh của <color=#FFD780FF>Buổi Diễn,Bắt Đầu♪</color> sẽ kéo dài thêm 1s.\nBằng cách này có thể kéo dài nhiều nhất 5s."
+    },
+    "imgid": "p_142201"
+  },
+  {
+    "title": {
+      "zhs": "心意♪注入",
+      "zht": "心意♪注入",
+      "jp": "気持ち♪注入",
+      "ko": "정성♪듬뿍",
+      "en": "With My Whole Heart♪",
+      "de": "Herzblut ♪",
+      "es": "Con todo mi corazón ♪",
+      "fr": "De tout mon cœur ♪",
+      "pt": "Com Todo o Meu Coração♪",
+      "ru": "Со всей душой♪",
+      "id": "With My Whole Heart ♪",
+      "th": "With My Whole Heart♪",
+      "vi": "Tập Trung Ý Trí♪"
+    },
+    "description": {
+      "zhs": "完美烹饪恢复类食物时，有12%概率获得2倍产出。",
+      "zht": "完美烹飪恢復類食物時，有12%的機率獲得兩倍產出。",
+      "jp": "回復系料理を完璧調理した時、12%の確率で料理を2倍獲得する。",
+      "ko": "회복류 요리를 완벽 조리하면 12% 확률로 요리량의 2배를 획득한다",
+      "en": "When a Perfect Cooking is achieved on a dish with restorative effects, there is a 12% chance to obtain double the product.",
+      "de": "Stellt bei der perfekten Zubereitung eines Gerichts mit wiederherstellender Funktion mit einer Wahrscheinlichkeit von 12 % den 2-fachen Ertrag her.",
+      "es": "Al lograr un “Perfecto” en un plato con efectos reconstituyentes, hay una probabilidad del 12% de obtener el doble.",
+      "fr": "12 % de chances d'obtenir un plat supplémentaire lorsque vous cuisinez un plat de soins parfait.",
+      "pt": "Quando uma Culinária Perfeita é feita em uma comida com efeito de recuperação, tem uma chance de 12% de receber o dobro de produção.",
+      "ru": "При приготовлении идеального блюда с восстанавливающими свойствами имеет 12% шанс приготовить дополнительное блюдо.",
+      "id": "Saat masakan jenis pemulihan dimasak dengan sempurna, memiliki 12% kemungkinan mendapatkan hasil 2 kali lipat.",
+      "th": "เมื่อปรุงอาหารประเภทฟื้นฟูได้ ระดับสมบูรณ์ จะมีโอกาส 12% ที่จะได้รับผลผลิตเพิ่มเป็น 2 เท่า",
+      "vi": "Nấu hoàn mỹ món ăn thuộc loại hồi phục, có tỷ lệ 12% x2 sản lượng."
+    },
+    "imgid": "p_142301"
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "title": {
+      "zhs": "普通攻击·流天射术",
+      "zht": "普通攻擊·流天射術",
+      "jp": "通常攻撃·流天射術",
+      "ko": "일반 공격·유천 사격술",
+      "en": "Normal Attack: Liutian Archery",
+      "de": "Standardangriff: Himmlische Schießkunst",
+      "es": "Ataque Normal: Técnica de tiro Liutian",
+      "fr": "Attaque normale : Archerie Liutian",
+      "pt": "Ataque Normal: Disparo Liutian",
+      "ru": "Небесная стрела",
+      "id": "Normal Attack: Liutian Archery",
+      "th": "โจมตีปกติ - Liutian Archery",
+      "vi": "Tấn Công Thường - Lưu Thiên Xạ Thuật"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>普通攻击</color>\n进行至多六段的连续弓箭射击。\n\n<color=#FFD780FF>重击</color>\n进行伤害更高、更为精准的<color=#FFD780FF>瞄准射击</color>。\n瞄准时，冰寒之气会在箭矢上持续积聚，并随攻击发射出去。根据蓄力时间长短，能造成不同的效果：\n·一段蓄力：射出附有寒气的箭矢，造成<color=#99FFFFFF>冰元素伤害</color>；\n·二段蓄力：发射霜华矢，造成<color=#99FFFFFF>冰元素伤害</color>；命中后霜华绽发，再次造成<color=#99FFFFFF>冰元素范围伤害</color>。\n\n<color=#FFD780FF>下落攻击</color>\n从空中射出箭雨，并迅速下坠冲击地面，在落地时造成范围伤害。",
+      "zht": "<color=#FFD780FF>普通攻擊</color>\n進行至多六段的連續弓箭射擊。\n\n<color=#FFD780FF>重擊</color>\n進行傷害更高、更為精準的<color=#FFD780FF>瞄準射擊</color>。\n瞄準時，冰寒之氣會在箭矢上持續匯聚，並隨攻擊發射出去。根據蓄力時間長短，能造成不同的效果：\n·一段蓄力：射出附有寒氣的箭矢，造成<color=#99FFFFFF>冰元素傷害</color>；\n·二段蓄力：發射霜華矢，造成<color=#99FFFFFF>冰元素傷害</color>；命中後霜華綻發，再次造成<color=#99FFFFFF>冰元素範圍傷害</color>。\n\n<color=#FFD780FF>下落攻擊</color>\n從空中射出箭雨，並迅速下墜衝擊地面，在落地時造成範圍傷害。",
+      "jp": "<color=#FFD780FF>通常攻撃</color>\n最大6段の連続射撃を行う。\n\n<color=#FFD780FF>重撃</color>\nダメージがより高く、より精確な<color=#FFD780FF>狙い撃ち</color>を発動する。\n照準時、氷寒の気が矢先に集まり、攻撃と共に発射される。チャージの時間により、異なる効果を発動する。\n·1段チャージ：氷寒の気が集まった矢を放ち、<color=#99FFFFFF>氷元素ダメージ</color>を与える。\n·2段チャージ：霜華の矢を放ち、<color=#99FFFFFF>氷元素ダメージ</color>を与える。命中後、霜華満開が発生し、さらに<color=#99FFFFFF>氷元素範囲ダメージ</color>を与える。\n\n<color=#FFD780FF>落下攻撃</color>\n空中から矢の雨を放ち、凄まじいスピードで落下し地面に衝撃を与え、落下時に範囲ダメージを与える。",
+      "ko": "<color=#FFD780FF>일반 공격</color>\n활로 최대 6번 공격한다.\n\n<color=#FFD780FF>강공격</color>\n피해가 더 크고 정확한 <color=#FFD780FF>조준 사격</color>을 한다.\n조준 시 서리의 힘이 화살 촉에 계속해서 모여 공격과 동시에 발사된다. 차지의 시간에 따라 다른 효과가 발동된다:\n·1단 차지: 한기가 서린 화살을 발사해 <color=#99FFFFFF>얼음 원소 피해</color>를 준다.\n·2단 차지: 서리꽃 화살을 발사해 <color=#99FFFFFF>얼음 원소 피해</color>를 준다. 명중 후 서리꽃이 피어나 <color=#99FFFFFF>얼음 원소 범위 피해</color>를 다시 한번 준다.\n\n<color=#FFD780FF>낙하 공격</color>\n공중에서 화살비를 쏜 후 빠른 속도로 땅에 착지한다. 땅에 닿으면 범위 피해를 준다",
+      "en": "<color=#FFD780FF>Normal Attack</color>\nPerform up to 6 consecutive shots with a bow.\n\n<color=#FFD780FF>Charged Attack</color>\nPerform a more precise <color=#FFD780FF>Aimed Shot</color> with increased DMG.\nWhile aiming, an icy aura will accumulate on the arrowhead before the arrow is fired. Has different effects based on how long the energy has been charged:\n·Charge Level 1: Fires off an icy arrow that deals <color=#99FFFFFF>Cryo DMG</color>.\n·Charge Level 2: Fires off a Frostflake Arrow that deals <color=#99FFFFFF>Cryo DMG</color>. The Frostflake Arrow blooms after hitting its target, dealing <color=#99FFFFFF>AoE Cryo DMG</color>.\n\n<color=#FFD780FF>Plunging Attack</color>\nFires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.",
+      "de": "<color=#FFD780FF>Standardangriff</color>\nFührt bis zu 6 Pfeilschüsse hintereinander aus.\n\n<color=#FFD780FF>Heftiger Schlag</color>\nFührt einen <color=#FFD780FF>gezielten Schuss</color> mit höherem Schaden und höherer Genauigkeit aus.\nKonzentriert die Kälte während des Zielens an der Pfeilspitze und verursacht je nach Länge des Aufladens unterschiedliche Effekte:\n· Phase 1: Schießt einen Pfeil mit dem Zustand Kalt und verursacht <color=#99FFFFFF>Kryo-Schaden</color>.\n· Phase 2: Schießt einen Frostblütenpfeil und verursacht <color=#99FFFFFF>Kryo-Schaden</color>. Erblüht nach einem Treffer und verursacht erneut <color=#99FFFFFF>Kryo-Flächenschaden</color>.\n\n<color=#FFD780FF>Angriff aus dem Fall</color>\nSchießt in der Luft einen Pfeilregen ab, trifft schnell auf dem Boden auf und verursacht dort Flächenschaden.",
+      "es": "<color=#FFD780FF>Ataque Normal</color>\nRealiza hasta 6 disparos consecutivos con arco.\n\n<color=#FFD780FF>Ataque Cargado</color>\nRealiza un <color=#FFD780FF>Disparo Preciso</color> que inflige mayor daño y tiene mayor precisión.\nMientras se apunta, un aura helada se acumulará en la punta de la flecha antes de que esta sea disparada. Sus efectos serán distintos dependiendo de durante cuánto tiempo se ha cargado:\nCarga 1: Dispara una flecha congelada que inflige <color=#99FFFFFF>Daño Cryo</color>.\nCarga 2: Dispara una flecha helada que inflige <color=#99FFFFFF>Daño Cryo</color>. Al golpear a su objetivo, la flecha estallará, creando una explosión de escarcha e infligiendo <color=#99FFFFFF>Daño Cryo en el AdE</color>.\n\n<color=#FFD780FF>Ataque Descendente</color>\nDispara una lluvia de flechas desde el aire mientras desciende rápidamente, infligiendo Daño en el AdE al impactar contra el suelo.",
+      "fr": "<color=#FFD780FF>Attaque normale</color>\nEnchaîne jusqu'à 6 tirs consécutifs.\n\n<color=#FFD780FF>Attaque chargée</color>\nEffectue un <color=#FFD780FF>tir visé</color> plus précis et infligeant davantage de DGT.\nLors du tir visé, la puissance du froid vient se concentrer sur la pointe de la flèche. Les effets varient selon le nombre de charges :\n· 1 charge : Tire une flèche glaciale qui inflige des <color=#99FFFFFF>DGT Cryo</color>.\n· 2 charges : Tire une flèche de givre qui inflige des <color=#99FFFFFF>DGT Cryo</color>. Le givre se répand lorsqu'il touche un ennemi, infligeant des <color=#99FFFFFF>DGT Cryo de zone</color>.\n\n<color=#FFD780FF>Attaque plongeante</color>\nTire une pluie de flèches depuis les airs et plonge au sol, infligeant des DGT de zone à l'impact.",
+      "pt": "<color=#FFD780FF>Ataque Normal</color>\nRealiza até 6 disparos consecutivos com um arco.\n\n<color=#FFD780FF>Ataque Carregado</color>\nRealiza um <color=#FFD780FF>Disparo com Mira</color> mais preciso com Dano aumentado.\nAo mirar, uma aura congelante acumulará na ponta da flecha antes de ser disparada. Tem diferentes efeitos baseados em quanto tempo a energia foi carregada:\nCarga Nível 1: Dispara uma Flecha Congelante que causa <color=#99FFFFFF>Dano Cryo</color>\nCarga Nível 2: Dispara uma Flecha Congelante que causa <color=#99FFFFFF>Dano Cryo</color>. A Flecha Congelante floresce após acertar seu alvo, causando <color=#99FFFFFF>Dano Cryo em uma AdE</color>.\n\n<color=#FFD780FF>Ataque Imersivo</color>\nDispara uma chuva de flechas durante o ar antes de cair e atingir o chão, causando Dano em uma AdE no impacto.",
+      "ru": "<color=#FFD780FF>Обычная атака:</color>\nДо шести выстрелов из лука.\n\n<color=#FFD780FF>Заряженная атака:</color>\nБолее меткий <color=#FFD780FF>прицельный выстрел</color> с увеличенным уроном.\nВо время прицеливания наконечник стрелы заряжается ледяной аурой. Эффект зависит от длительности заряда стрелы:\n· Уровень заряда 1: Выпускает ледяную стрелу, наносящую <color=#99FFFFFF>Крио урон</color>;\n· Уровень заряда 2: Выпускает стрелу-снежинку, наносящую <color=#99FFFFFF>Крио урон</color>. При попадании стрела-снежинка расцветает и наносит <color=#99FFFFFF>Крио урон по площади</color>.\n\n<color=#FFD780FF>Атака в падении:</color>\nВыпускает град стрел в воздухе, которые при приземлении персонажа наносят урон по площади.",
+      "id": "<color=#FFD780FF>Normal Attack</color>\nMelancarkan hingga 6 serangan berturut-turut dengan busur.\n\n<color=#FFD780FF>Charged Attack</color>\nMelancarkan sebuah <color=#FFD780FF>Serangan Membidik</color> yang lebih akurat untuk mengakibatkan DMG lebih besar.\nSaat membidik, es akan berkumpul di ujung anak panah. Memiliki efek yang berbeda tergantung dari lama serangannya ditahan:\n·Charge Tahap 1: Menembakkan panah es yang mengakibatkan <color=#99FFFFFF>Cryo DMG</color>.\n·Charge Tahap 2: Menembakkan Frostflake Arrow yang mengakibatkan <color=#99FFFFFF>Cryo DMG</color>. Frostflake Arrow akan mengembang setelah mengenai target untuk mengakibatkan <color=#99FFFFFF>Cryo DMG area</color>.\n\n<color=#FFD780FF>Plunging Attack</color>\nMelancarkan hujan panah dari udara dan menerjang tanah dengan kecepatan tinggi, mengakibatkan DMG area saat mendarat.",
+      "th": "<color=#FFD780FF>โจมตีปกติ</color>\nยิงธนูโจมตีต่อเนื่องมากสุดถึงหกครั้ง\n\n<color=#FFD780FF>ชาร์จโจมตี</color>\nการ<color=#FFD780FF>เล็งโจมตี</color>จะสร้างความเสียหายเพิ่มขึ้น และแม่นยำยิ่งขึ้น\nเมื่อเล็งโจมตี ไอแห่งความเย็นจะถูกรวบรวม บนหัวของลูกศรและยิงออกไป โดยเอฟเฟกต์ที่เกิดจะแตกต่างกันไป ตามช่วงเวลาที่เล็งชาร์จดังนี้:\n·ชาร์จระดับ 1: ยิงธนูที่มีไอเย็น สร้าง<color=#99FFFFFF>ความเสียหายน้ำแข็ง</color>；\n·ชาร์จระดับ 2: ยิงธนู Frostflake Arrow สร้าง<color=#99FFFFFF>ความเสียหายน้ำแข็ง</color> หลังยิงถูกเป้าหมายจะบานออกเป็น Frostflake Arrow Bloom และสร้าง <color=#99FFFFFF>ความเสียหายน้ำแข็งวงกว้าง</color>อีกครั้ง\n\n<color=#FFD780FF>โจมตีพุ่งลงจากอากาศ</color>\nปล่อยฝนธนูจากกลางอากาศและพุ่ง ลงมายังพื้นดินเพื่อโจมตีอย่างรวดเร็ว โดยจะสร้างความเสียหายวงกว้างเมื่อลง ถึงพื้น",
+      "vi": "<color=#FFD780FF>Tấn Công Thường</color>\nLiên tục bắn tên, tối đa 6 lần.\n\n<color=#FFD780FF>Trọng kích</color>\nCó thể <color=#FFD780FF>ngắm bắn</color> chính xác hơn, sát thương cao hơn.\nKhi ngắm bắn, dòng không khí lạnh sẽ ngưng tụ liên tục trên mũi tên và bắn ra cùng lúc tấn công. Căn cứ thời gian tụ lực dài hay ngắn sẽ gây ra hiệu quả khác nhau:\n·Tụ lực lần 1: Bắn mũi tên có khí lạnh gây <color=#99FFFFFF>sát thương Nguyên Tố Băng</color>;\n·Tụ lực lần 2: Bắn Cung Sương Hoa gây <color=#99FFFFFF>sát thương Nguyên Tố Băng</color>; sau khi bắn trúng, sương giá tung bay, gây thêm <color=#99FFFFFF>Sát Thương Phạm Vi Nguyên Tố Băng</color>.\n\n<color=#FFD780FF>Tấn Công Khi Đáp</color>\nBắn mưa tên từ trên không, đồng thời lao nhanh xuống mặt đất, gây sát thương phạm vi khi chạm đất."
+    },
+    "imgid": "s_373101"
+  },
+  {
+    "title": {
+      "zhs": "山泽麟迹",
+      "zht": "山澤麟跡",
+      "jp": "山沢麟跡",
+      "ko": "산과 강의 기린 흔적",
+      "en": "Trail of the Qilin",
+      "de": "Spuren des Qilins",
+      "es": "Senda de Chilin",
+      "fr": "Trace de Qilin",
+      "pt": "Rastros de Qilin",
+      "ru": "След цилиня",
+      "id": "Trail of the Qilin",
+      "th": "Trail of the Qilin",
+      "vi": "Sơn Trạch Lân Tích"
+    },
+    "description": {
+      "zhs": "甘雨留下一朵冰莲并迅速后退，远离一切魑魅魍魉，造成<color=#99FFFFFF>冰元素范围伤害</color>。\n\n<color=#FFD780FF>冰莲</color>\n·持续嘲讽周围的敌人，吸引敌人攻击；\n·耐久度按比例继承甘雨的生命值上限；\n·被摧毁或持续时间结束时，会剧烈地绽放，造成<color=#99FFFFFF>冰元素范围伤害</color>。\n\n<i>「你说你看到我了？那应该是错觉吧。那个时间我应该在加班才对。」</i>",
+      "zht": "#甘雨留下一朵冰蓮並迅速後退，遠離一切魑魅魍魎，造成<color=#99FFFFFF>冰元素範圍傷害</color>。\n\n<color=#FFD780FF>冰蓮</color>\n·持續嘲諷周圍的敵人，吸引敵人攻擊；\n·耐久度按比例繼承甘雨的生命值上限；\n·被摧毀或持續時間結束時，會劇烈地綻放，造成<color=#99FFFFFF>冰元素範圍傷害</color>。\n\n<i>「{F#妳}{M#你}說{F#妳}{M#你}看到我了？那應該是錯覺吧。那個時間我應該在加班才對。」</i>",
+      "jp": "一輪の氷蓮を残して後退し、全ての魑魅魍魎から離れ、<color=#99FFFFFF>氷元素範囲ダメージ</color>を与える。\n\n<color=#FFD780FF>氷蓮</color>\n·持続的に周囲の敵を挑発し、攻撃を引き付ける。\n·耐久度は甘雨のHP上限によって決まる。\n·破壊された時または継続時間終了後に激しく開花し、<color=#99FFFFFF>氷元素範囲ダメージ</color>を与える。\n\n<i>「私を見かけたと？それは気のせいでしょう。その時間はまだ残業中です。」</i>",
+      "ko": "감우가 얼음 연꽃을 남긴 후 빠른 속도로 후퇴하고 모든 이매망량을 멀리하며 <color=#99FFFFFF>얼음 원소 범위 피해</color>를 준다.\n\n<color=#FFD780FF>얼음 연꽃</color>\n·주변의 적을 계속 도발하며 적의 공격을 유인한다.\n·내구도는 감우의 HP 최대치를 일정 비율 계승한다.\n·얼음 연꽃은 파괴당하거나 지속 시간이 끝나면 격렬히 피어나 <color=#99FFFFFF>얼음 원소 범위 피해</color>를 준다.\n\n<i>「절 봤다고요? 잘못 본 거 아닌가요? 전 그때 야근 중이었을 텐데요」</i>",
+      "en": "Leaving a single Ice Lotus behind, Ganyu dashes backward, shunning all impurity and dealing <color=#99FFFFFF>AoE Cryo DMG</color>.\n\n<color=#FFD780FF>Ice Lotus</color>\n·Continuously taunts surrounding opponents, attracting them to attack it.\n·Endurance scales based on Ganyu's Max HP.\n·Blooms profusely when destroyed or once its duration ends, dealing <color=#99FFFFFF>AoE Cryo DMG</color>.\n\n<i>\"You saw me, you say? You must be mistaken. I was working overtime then.\"</i>",
+      "de": "Ganyu hinterlässt einen Eislotos und geht in Deckung, um den bösen Geistern und Dämonen <color=#99FFFFFF>Kryo-Flächenschaden</color> zuzufügen.\n\n<color=#FFD780FF>Eislotos</color>\n· Verspottet Gegner in der Umgebung fortlaufend und zieht ihre Angriffe auf sich.\n· Beständigkeit hängt von Ganyus max. LP ab.\n· Erblüht bei Zerstörung oder Ablauf der Dauer und verursacht <color=#99FFFFFF>Kryo-Flächenschaden</color>.\n\n<i>„Du willst mich gesehen haben? Das musst du dir eingebildet haben. Ich war zu der Zeit noch auf Arbeit.“</i>",
+      "es": "Ganyu da un salto atrás para dejar un loto de hielo, evitando toda impureza e infligiendo <color=#99FFFFFF>Daño Cryo en el AdE</color>.\n<color=#FFD780FF>Loto de hielo</color>\n·Provoca continuamente a los enemigos que lo rodean, atrayéndolos para que lo ataquen.\n·La resistencia del loto es proporcional a la Vida Máx. de Ganyu.\n·Explota cuando es destruido o una vez terminada su duración, infligiendo <color=#99FFFFFF>Daño Cryo en el AdE</color>.\n\n<i>“¿Dices que me viste? Debe haber sido un error. A esas horas estaba trabajando horas extras”</i>.",
+      "fr": "Ganyu dépose un lotus de glace qui inflige des <color=#99FFFFFF>DGT Cryo de zone</color> puis part vite en retraite.\n\n<color=#FFD780FF>Lotus de glace</color>\n· Le lotus nargue les ennemis et concentre leurs attaques.\n· Ses PV sont proportionnels aux PV max de Ganyu.\n· Le lotus explose à la fin ou s'il est détruit entre temps, et inflige des <color=#99FFFFFF>DGT Cryo de zone</color>.\n\n<i>« Vous m'avez aperçue ? Ça doit être une erreur, je suis restée tard au travail. »</i>",
+      "pt": "#Lançando uma Lótus de Gelo, Ganyu salta para trás, causando <color=#99FFFFFF>Dano em uma AdE Cryo</color>.\n\n<color=#FFD780FF>Lótus de Gelo</color>\n·Provoca inimigos ao seu redor, atraindo-os para a atacar.\n·Sua resistência aumenta de acordo a Vida Máxima de Ganyu.\n·Floresce quando destruída ou quando sua duração acaba, causando <color=#99FFFFFF>Dano Cryo em uma AdE</color>.\n\n<i>\"Você disse que me viu? Acho que você está enganad{F#a}{M#o}. Eu estava trabalhando horas extras\".</i>",
+      "ru": "Гань Юй отпрыгивает назад, оставив перед собой Ледяной лотос, который наносит <color=#99FFFFFF>Крио урон по площади</color>.\n\n<color=#FFD780FF>Ледяной лотос:</color>\n· Привлекает атаки врагов на себя;\n· Макс. HP Ледяного лотоса зависит от макс. HP Гань Юй;\n· Если Ледяной лотос уничтожен, либо его время заканчивается, он распускается, нанося <color=#99FFFFFF>Крио урон по площади</color>.\n\n<i>«Говоришь, ты видел меня? Должно быть, ты ошибся. В тот вечер я решила задержаться на работе».</i>",
+      "id": "Dengan meninggalkan sebuah Ice Lotus, Ganyu meloncat mundur dengan cepat, membuang semua ketidakmurnian dan mengakibatkan <color=#99FFFFFF>Cryo DMG area</color>.\n\n<color=#FFD780FF>Ice Lotus</color>\n·Terus menarik perhatian musuh di sekitar untuk menyerangnya.\n·HP Ice Lotus mewarisi Max HP Ganyu berdasarkan persentase tertentu.\n·Saat dihancurkan atau durasinya berakhir, Ice Lotus akan mengembang dengan hebat dan mengakibatkan <color=#99FFFFFF>Cryo DMG area</color>.\n\n<i>\"Kamu melihatku? Pasti salah, aku sedang lembur saat itu.\"</i>",
+      "th": "Ganyu ทิ้ง Ice Lotus ไว้ดอกหนึ่ง แล้วพุ่งตัวถอยหลังอย่างรวดเร็ว เพื่อออกห่างจากสิ่งชั่วร้ายทั้งปวง และสร้าง<color=#99FFFFFF>ความเสียหายน้ำแข็งวงกว้าง</color>\n\n<color=#FFD780FF>Ice Lotus</color>\n·จะยั่วยุศัตรูที่อยู่โดยรอบ และดึงดูดการโจมตีของศัตรู;\n·ระดับความทนทาน จะขึ้นกับอัตราส่วนพลังชีวิตสูงสุดที่ได้รับสืบทอดมาจาก Ganyu\n·เมื่อถูกทำลาย หรือสิ้นสุดช่วงเวลาต่อเนื่อง จะบานออกอย่างเต็มที่ และทำให้เกิด<color=#99FFFFFF>ความเสียหายน้ำแข็งวงกว้าง</color>\n\n<i>\"คุณบอกว่าเห็นฉันงั้นเหรอ? คิดไปเองรึเปล่า ตอนนั้นฉันทำงานล่วงเวลาอยู่นะ\"</i>",
+      "vi": "Ganyu để lại một đóa sen băng rồi lùi nhanh về phía sau, tránh xa tất cả yêu ma, gây <color=#99FFFFFF>Sát Thương Phạm Vi Nguyên Tố Băng</color>.\n\n<color=#FFD780FF>Băng Liên</color>\n·Liên tục khiêu khích kẻ địch xung quanh, thu hút địch tấn công;\n·Độ bền sẽ kế thừa căn cứ theo tỷ lệ giới hạn HP của Ganyu;\n·Khi bị phá hủy hoặc hết thời gian sẽ nở rộ, gây <color=#99FFFFFF>Sát Thương Phạm Vi Nguyên Tố Băng</color>.\n\n<i>\"Bạn nhìn thấy tôi à? Chắc chỉ là ảo giác thôi, lúc đó tôi đang tăng ca mà.\"</i>"
+    },
+    "imgid": "s_373201"
+  },
+  {
+    "title": {
+      "zhs": "降众天华",
+      "zht": "降眾天華",
+      "jp": "降衆天華",
+      "ko": "쏟아지는 천화",
+      "en": "Celestial Shower",
+      "de": "Bändigender Niederschlag",
+      "es": "Diluvio celestial",
+      "fr": "Baptême céleste",
+      "pt": "Chuva Celestial",
+      "ru": "Небесный дождь",
+      "id": "Celestial Shower",
+      "th": "Celestial Shower",
+      "vi": "Thiên Hoa Hạ Phàm"
+    },
+    "description": {
+      "zhs": "凝聚大气中的霜雪，召唤退魔的冰灵珠。\n存在期间内，冰灵珠会持续降下冰棱，攻击范围内的敌人，造成<color=#99FFFFFF>冰元素伤害</color>。\n\n<i>甘雨当然可以降下清甜之雨。但是对于邪魔外道，这些都会变成寒苦之雪。</i>",
+      "zht": "凝聚大氣中的霜雪，召喚退魔的冰靈珠。\n存在期間內，冰靈珠會持續降下冰稜，攻擊範圍內的敵人，造成<color=#99FFFFFF>冰元素傷害</color>。\n\n<i>甘雨當然可以降下清甜之雨。但是對於邪魔外道，這些都會變成寒苦之雪。</i>",
+      "jp": "大気中の霜雪を集め、退魔の氷霊珠を召喚する。\n氷霊珠が存在している間、持続的に氷柱を降らし、範囲内の敵に<color=#99FFFFFF>氷元素ダメージ</color>を与える。\n\n<i>甘雨は甘い雨を降らすことができる。だが、邪魔者や外道にとってその甘い雨は、寒苦の雨でもある。</i>",
+      "ko": "대기 중의 서리눈을 모아 퇴마의 빙령주를 소환한다.\n빙령주가 존재하는 동안 계속해서 고드름을 내려 공격 범위 내의 적에게 <color=#99FFFFFF>얼음 원소 피해</color>를 준다.\n\n<i>감우는 달콤한 비를 내릴 수도 있지만 사마외도엔 고한의 눈보라가 될 뿐이다</i>",
+      "en": "Coalesces atmospheric frost and snow to summon a Sacred Cryo Pearl that exorcises evil.\nDuring its ability duration, the Sacred Cryo Pearl will continuously rain down shards of ice, striking opponents within an AoE and dealing <color=#99FFFFFF>Cryo DMG</color>.\n\n<i>Ganyu can bring down sweet rains as a matter of course. But against demons and heretics, they become bitter, freezing snow.</i>",
+      "de": "Konzentriert den Schnee und Frost in der Luft und beschwört eine Eisseelenperle, die das Böse vertreibt.\nDie Eisseelenperle lässt während der Wirkungsdauer fortlaufend Eiszapfen fallen, die den Gegnern im Wirkungsbereich <color=#99FFFFFF>Kryo-Schaden</color> zufügen.\n\n<i>Ohne Frage kann Ganyu einen erfrischenden Sommerregen fallen lassen. Für böse Kräfte jedoch zieht ein rauer Schneesturm auf.</i>",
+      "es": "Fusiona nieve y escarcha en la atmósfera para invocar una perla de hielo sagrada que exorciza el mal.\nMientras dure la habilidad, la perla hará llover continuamente fragmentos de hielo que golpean a los enemigos dentro de un AdE e infligen <color=#99FFFFFF>Daño Cryo</color>.\n\n<i>Ganyu puede provocar una lluvia sin problemas. Pero contra los demonios y los herejes, esa lluvia se convierte en una helada y amarga nieve.</i>",
+      "fr": "Condensant les particules présentes dans l'air, Ganyu invoque une perle de glace magique qui exorcise les démons.\nTant qu'elle est active, la perle libère des éclats de glace de façon continue qui infligent des <color=#99FFFFFF>DGT Cryo</color> aux ennemis dans la zone.\n\n<i>Ganyu sait bien sûr comment invoquer une bruine rafraîchissante ; mais quand il s'agit de combattre, la bruine se change en tempête de neige.</i>",
+      "pt": "Funde a geada e a neve atmosférica, evocando uma Gema Cryo Sagrada que exorciza o mal.\nAo longo da duração desta habilidade, a Gema Cryo Sagrada irá chover continuamente lascas de gelo, golpeando inimigos em uma AdE e infligindo <color=#99FFFFFF>Dano Cryo</color>.\n\n<i>Ganyu pode trazer uma chuva agradável de forma natural. Mas contra demônios e hereges, elas viram uma desagradável neve congelante.</i>",
+      "ru": "Собирает из воздуха иней для того, чтобы призвать Священную Крио жемчужину, изгоняющую зло.\nПока навык активен, Священная Крио жемчужина непрерывно обрушивает на врагов в области осколки льда, нанося <color=#99FFFFFF>Крио урон</color>.\n\n<i>Гань Юй может создать для вас сладкий дождь, но для демонов и еретиков он превращается в горький морозящий снег.</i>",
+      "id": "Mengumpulkan es dan salju di udara untuk memanggil Sacred Cryo Pearl yang membasmi iblis.\nSelama durasi skill, Sacred Cryo Pearl akan terus menjatuhkan bongkahan es yang mengenai musuh dalam area dan mengakibatkan <color=#99FFFFFF>Cryo DMG</color>.\n\n<i>Ganyu tentunya dapat membuat hujan manis, tapi terhadap iblis dan monster, hujannya menjadi salju yang dingin dan pahit.</i>",
+      "th": "ควบแน่นน้ำแข็งขึ้นในอากาศ เพื่อเรียก Sacred Cryo Pearl ที่ขับไล่สิ่งชั่วร้ายออกมา\nภายในช่วงเวลาคงอยู่ Sacred Cryo Pearl จะปล่อยสะเก็ดน้ำแข็งลงมาอย่างต่อเนื่อง เพื่อโจมตีศัตรูที่อยู่ในพื้นที่ และสร้าง<color=#99FFFFFF>ความเสียหายน้ำแข็ง</color>\n\n<i>Ganyu สามารถสร้างหยาดฝนแสนหวาน ได้ตามใจชอบ แต่สำหรับเหล่าปีศาจร้าย ฝนเหล่านี้จะกลายเป็นหิมะที่ขม และหนาวเหน็บ</i>",
+      "vi": "Ngưng tụ sương tuyết trong không khí, triệu hồi Linh Châu Băng diệt ma.\nTrong thời gian tồn tại, Linh Châu Băng sẽ không ngừng giáng Nhũ Băng xuống, tấn công kẻ địch trong phạm vi, gây <color=#99FFFFFF>Sát Thương Nguyên Tố Băng</color>.\n\n<i>Đương nhiên Ganyu có thể giáng cơn mưa mát lành xuống, nhưng đối với tà ma ngoại đạo, những thứ này đều sẽ hóa thành bông tuyết khổ đau.</i>"
+    },
+    "imgid": "s_373901"
+  },
+  {
+    "title": {
+      "zhs": "唯此一心",
+      "zht": "唯此一心",
+      "jp": "唯一の心",
+      "ko": "단 하나의 마음",
+      "en": "Undivided Heart",
+      "de": "Eintracht",
+      "es": "Corazón indiviso",
+      "fr": "Cœur indivisible",
+      "pt": "Com Todo Coração",
+      "ru": "Неразделённое сердце",
+      "id": "Undivided Heart",
+      "th": "Undivided Heart",
+      "vi": "Duy Thử Nhất Tâm"
+    },
+    "description": {
+      "zhs": "霜华矢发射后的5秒内，会使接下来的发射的霜华矢与这些霜华矢引发的霜华绽发的暴击率提高20%。",
+      "zht": "發射霜華矢後的5秒內，會使接下來發射的霜華矢及這些霜華矢引發的霜華綻放暴擊率提高20%。",
+      "jp": "霜華の矢を放った後の5秒以内に放たれた霜華の矢と霜華満開の会心率+20%。",
+      "ko": "서리꽃 화살 발사 후 5초 동안 다음으로 발사되는 서리꽃 화살과 이로 인해 피어나는 서리꽃의 치명타 확률이 20% 증가한다",
+      "en": "After firing a Frostflake Arrow, the CRIT Rate of subsequent Frostflake Arrows and their resulting bloom effects is increased by 20% for 5s.",
+      "de": "Erhöht nach dem Abschießen von Frostblütenpfeilen die KT folgender Frostblütenpfeile sowie der im Anschluss erblühenden Frostblüten 5 s lang um 20 %.",
+      "es": "Tras lanzar una flecha helada, aumenta en un 20% la Prob. CRIT de la siguiente flecha helada y de la explosión de escarcha causada por ella durante 5 s.",
+      "fr": "Tirer une flèche de givre confère pendant 5 s aux flèches de givre suivantes ainsi qu'aux zones de givre ainsi créées un bonus de 20 % de taux CRIT.",
+      "pt": "Após disparar uma Flecha Congelante, a Taxa CRIT das Flechas Congelantes subsequentes e seus efeitos de florescimento resultantes é aumentada em 20% por 5s.",
+      "ru": "В течение 5 сек. после выстрела стрелы-снежинки увеличивает шанс крит. попадания стрел-снежинок и вызванного ими цветения на 20%.",
+      "id": "Setelah menembakkan sebuah Frostflake Arrow, meningkatkan 20% CRIT Rate dari Frostflake Arrow berikutnya serta efek ledakan yang disebabkan olehnya selama 5 detik.",
+      "th": "ภายใน 5 วินาที หลังจากยิง Frostflake Arrow จะทำให้ Frostflake Arrow ที่ยิงในครั้งต่อไป และการเบ่งบานที่เกิดขึ้นจาก Frostflake Arrow เหล่านั้นมีอัตราคริเพิ่มขึ้น 20%",
+      "vi": "Trong vòng 5s sau khi Cung Sương Hoa bắn ra, sẽ khiến cho Cung Sương Hoa được bắn ra tiếp theo và Sương Giá Tung Bay được tạo ra từ những Cung Sương Hoa này tăng 20% tỷ lệ bạo kích."
+    },
+    "imgid": "p_372101"
+  },
+  {
+    "title": {
+      "zhs": "天地交泰",
+      "zht": "天地交泰",
+      "jp": "天地安泰",
+      "ko": "천지교태",
+      "en": "Harmony between Heaven and Earth",
+      "de": "Frieden zwischen Himmel und Erde",
+      "es": "Armonía entre el Cielo y la Tierra",
+      "fr": "Harmonie du ciel et de la terre",
+      "pt": "Harmonia entre o Céu e a Terra",
+      "ru": "Гармония Земли и Небес",
+      "id": "Harmony between Heaven and Earth",
+      "th": "Harmony between Heaven and Earth",
+      "vi": "Thiên Địa Giao Hòa"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>降众天华</color>领域内的队伍中当前场上角色获得20%<color=#99FFFFFF>冰元素伤害加成</color>。",
+      "zht": "<color=#FFD780FF>降眾天華</color>領域內的隊伍中當前場上角色獲得20%<color=#99FFFFFF>冰元素傷害加成</color>。",
+      "jp": "<color=#FFD780FF>降衆天華</color>エリア内のキャラクターの<color=#99FFFFFF>氷元素ダメージ</color>+20%。",
+      "ko": "<color=#FFD780FF>쏟아지는 천화</color> 영역 내에서 현재 필드 위 캐릭터는 <color=#99FFFFFF>얼음 원소 피해 보너스</color>를 20% 획득한다",
+      "en": "<color=#FFD780FF>Celestial Shower</color> grants a 20% <color=#99FFFFFF>Cryo DMG Bonus</color> to active party members in the AoE.",
+      "de": "Erhöht den <color=#99FFFFFF>Kryo-Schaden</color> der aktuellen Figuren in der Truppe im Wirkungsbereich von <color=#FFD780FF>Bändigender Niederschlag</color> um 20 %.",
+      "es": "Los personajes en uso que se encuentren dentro del área de <color=#FFD780FF>Diluvio celestial</color> obtienen un 20% de <color=#99FFFFFF>Bono de Daño Cryo</color>.",
+      "fr": "Les personnages déployés se trouvant dans la zone de <color=#FFD780FF>Baptême céleste</color> obtiennent un <color=#99FFFFFF>bonus de DGT Cryo de 20 %</color> supplémentaires.",
+      "pt": "<color=#FFD780FF>Chuva Celestial</color> concede 20% de <color=#99FFFFFF>Bônus de Dano Cryo</color> aos membros ativos no grupo em uma AdE.",
+      "ru": "Активные члены отряда, находящиеся в области навыка <color=#FFD780FF>Небесный дождь</color>, получают 20% <color=#99FFFFFF>бонус Крио урона</color>.",
+      "id": "<color=#FFD780FF>Celestial Shower</color> memberikan 20% <color=#99FFFFFF>Cryo DMG Bonus</color> kepada anggota party yang berada di dalam lingkup areanya.",
+      "th": "ตัวละครในทีมที่เข้าร่วมการต่อสู้ในขณะนั้น และอยู่ในพื้นที่ของ <color=#FFD780FF>Celestial Shower</color> จะได้รับ<color=#99FFFFFF>โบนัสความเสียหายน้ำแข็ง</color> 20%",
+      "vi": "Nhân vật trong đội đang trong trận ở khu vực <color=#FFD780FF>Thiên Hoa Hạ Phàm</color> sẽ nhận 20% <color=#99FFFFFF>tăng sát thương Nguyên Tố Băng</color>."
+    },
+    "imgid": "p_372201"
+  },
+  {
+    "title": {
+      "zhs": "藏弓待用",
+      "zht": "藏弓待用",
+      "jp": "弓蔵待命",
+      "ko": "감춰둔 활",
+      "en": "Preserved for the Hunt",
+      "de": "Versteckter Bogen",
+      "es": "Arco de repuesto",
+      "fr": "Arc de réserve",
+      "pt": "Preservado para a Caça",
+      "ru": "Отложено на охоту",
+      "id": "Perserved for the Hunt",
+      "th": "Perserved for the Hunt",
+      "vi": "Cất Cung Đợi Dùng"
+    },
+    "description": {
+      "zhs": "锻造弓类武器时，返还15%消耗的矿石。",
+      "zht": "鍛造弓類武器時，歸還15%消耗的礦石。",
+      "jp": "弓を鍛造する時、消費した鉱石の15%が返還される。",
+      "ko": "활 무기 단조 시 소모한 광석을 15% 반환한다",
+      "en": "Refunds 15% of the ore used when crafting Bow-type weapons.",
+      "de": "Gibt beim Schmieden von Bögen 15 % des verbrauchten Erzes zurück.",
+      "es": "Recupera el 15% de los minerales utilizados en la fabricación de arcos.",
+      "fr": "Lorsque vous forgez un arc, 15 % du minerai utilisé vous sera rendu.",
+      "pt": "Retorna 15% dos minérios usados ao criar armas do tipo Arco.",
+      "ru": "При ковке стрелкового оружия возвращает 15% затраченной руды.",
+      "id": "Mengembalikan 15% jumlah Ore yang digunakan saat membuat senjata tipe Bow.",
+      "th": "เมื่อสร้างอาวุธประเภทธนู จะได้รับแร่ที่ใช้ในการหลอมคืน 15%",
+      "vi": "Khi rèn vũ khí loại cung, hoàn trả 15% Khoáng Thạch tiêu hao."
+    },
+    "imgid": "p_372301"
+  }
+]

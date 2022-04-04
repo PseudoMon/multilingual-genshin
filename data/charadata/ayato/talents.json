@@ -1,0 +1,200 @@
+[
+  {
+    "title": {
+      "zhs": "普通攻击·神里流·转",
+      "zht": "普通攻擊·神里流·轉",
+      "jp": "通常攻撃·神里流·転",
+      "ko": "일반 공격·카미사토류·전",
+      "en": "Normal Attack: Kamisato Art - Marobashi",
+      "de": "Standardangriff: Kamisato-Stil – Marobashi",
+      "es": "Ataque Normal: Estilo Kamisato - Marobashi",
+      "fr": "Attaque normale : École Kamisato - Transition",
+      "pt": "Ataque Normal: Arte Kamisato - Giro",
+      "ru": "Искусство Камисато: Маробаси",
+      "id": "Normal Attack: Kamisato Art - Marobashi",
+      "th": "โจมตีปกติ - Kamisato Art: Marobashi",
+      "vi": "Tấn Công Thường - Trường Phái Kamisato: Marobashi"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>普通攻击</color>\n进行至多五段的连续剑击。\n\n<color=#FFD780FF>重击</color>\n消耗一定体力，向前冲刺并施展居合。\n\n<color=#FFD780FF>下落攻击</color>\n从空中下坠冲击地面，攻击下落路径上的敌人，并在落地时造成范围伤害。",
+      "zht": "<color=#FFD780FF>普通攻擊</color>\n進行至多五段的連續劍擊。\n\n<color=#FFD780FF>重擊</color>\n消耗一定體力，向前衝刺並施展居合。\n\n<color=#FFD780FF>下落攻擊</color>\n從空中下墜衝擊地面，攻擊下落路徑上的敵人，並在落地時造成範圍傷害。",
+      "jp": "<color=#FFD780FF>通常攻撃</color>\n剣による最大5段の連続攻撃を行う。\n\n<color=#FFD780FF>重撃</color>\n一定のスタミナを消費し、前方へ突進と同時に居合斬りを見舞う。\n\n<color=#FFD780FF>落下攻撃</color>\n空中から落下し地面に衝撃を与える。経路上の敵を攻撃し、落下時に範囲ダメージを与える。",
+      "ko": "<color=#FFD780FF>일반 공격</color>\n검으로 최대 5번 공격한다. \n\n<color=#FFD780FF>강공격</color>\n일정 스태미나를 소모해 앞으로 대시하며 거합을 시전한다.\n\n<color=#FFD780FF>낙하 공격</color>\n공중에서 땅을 내려찍어 경로상의 적을 공격하고, 착지 시 범위 피해를 준다",
+      "en": "<color=#FFD780FF>Normal Attack</color>\nPerform up to 5 rapid strikes.\n\n<color=#FFD780FF>Charged Attack</color>\nConsumes a certain amount of Stamina to dash forward and perform an iai.\n\n<color=#FFD780FF>Plunging Attack</color>\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+      "de": "<color=#FFD780FF>Standardangriff</color>\nFührt bis zu 5 Schwerthiebe hintereinander aus.\n\n<color=#FFD780FF>Heftiger Schlag</color>\nVerbraucht eine gewisse Menge Ausdauer, um vorwärts zu stürmen und einen Iai auszuführen.\n\n<color=#FFD780FF>Angriff aus dem Fall</color>\nSchlägt beim Fallen aus der Luft auf den Boden, greift alle Gegner in der Bahn an und verursacht beim Aufkommen Flächenschaden.",
+      "es": "<color=#FFD780FF>Ataque Normal</color>\nRealiza hasta 5 ataques rápidos.\n\n<color=#FFD780FF>Ataque Cargado</color>\nConsume una cierta cantidad de Aguante para arremeter hacia delante y golpear con su espada.\n\n<color=#FFD780FF>Ataque Descendente</color>\nSe lanza desde el aire para golpear el suelo, dañando a los enemigos cercanos e infligiendo Daño en el AdE en el momento del impacto.",
+      "fr": "<color=#FFD780FF>Attaque normale</color>\nEnchaîne jusqu'à 5 coups d'épée.\n\n<color=#FFD780FF>Attaque chargée</color>\nConsomme de l'endurance pour se propulser en avant et déclencher un iai.\n\n<color=#FFD780FF>Attaque plongeante</color>\nPlonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis en chemin et des DGT de zone à l'impact.",
+      "pt": "<color=#FFD780FF>Ataque Normal</color>\nRealiza até 5 golpes de espada.\n\n<color=#FFD780FF>Ataque Carregado</color>\nConsome uma certa quantidade de Stamina para avançar para frente realizando Iaido.\n\n<color=#FFD780FF>Ataque Imersivo</color>\nMergulha em pleno ar para golpear o chão, causando dano aos inimigos ao longo do caminho e infligindo Dano em uma AdE no impacto.",
+      "ru": "<color=#FFD780FF>Обычная атака:</color>\nДо пяти быстрых ударов.\n\n<color=#FFD780FF>Заряженная атака:</color>\nТратит определённое количество выносливости на выпад вперёд и выполняет иай.\n\n<color=#FFD780FF>Атака в падении:</color>\nСтремительно падает на землю, атакуя всех врагов на пути. Приземлившись, наносит урон по площади.",
+      "id": "<color=#FFD780FF>Normal Attack</color>\nMelancarkan hingga 5 serangan berturut-turut.\n\n<color=#FFD780FF>Charged Attack</color>\nMengonsumsi sejumlah Stamina untuk bergerak ke depan dan melancarkan tebasan iai.\n\n<color=#FFD780FF>Plunging Attack</color>\nMenerjang dari udara untuk menghantam tanah, mengakibatkan DMG pada musuh di jalur terjangan dan mengakibatkan DMG area saat mendarat.",
+      "th": "<color=#FFD780FF>โจมตีปกติ</color>\nโจมตีด้วยดาบต่อเนื่องมากสุดห้าครั้ง\n\n<color=#FFD780FF>ชาร์จโจมตี</color>\nใช้พลังกายส่วนหนึ่ง เพื่อพุ่งตัวไปข้างหน้า และใช้กระบวนท่าอิไอ\n\n<color=#FFD780FF>โจมตีพุ่งลงจากอากาศ</color>\nกระโจนจากกลางอากาศลงมายังพื้นดิน เพื่อโจมตีศัตรูที่อยู่ในเส้นทางการโจมตี โดยจะสร้างความเสียหายวงกว้างเมื่อลงถึงพื้น",
+      "vi": "<color=#FFD780FF>Tấn Công Thường</color>\nThực hiện tối đa 5 lần đánh kiếm liên tiếp.\n\n<color=#FFD780FF>Trọng Kích</color>\nTiêu hao thể lực nhất định, xung kích về phía trước và thi triển đòn Iai.\n\n<color=#FFD780FF>Tấn Công Khi Đáp</color>\nĐáp xuống đất từ trên không, tấn công kẻ địch trên đường và gây sát thương phạm vi khi chạm đất."
+    },
+    "imgid": "s_663101"
+  },
+  {
+    "title": {
+      "zhs": "神里流·镜花",
+      "zht": "神里流·鏡花",
+      "jp": "神里流·鏡花",
+      "ko": "카미사토류·거울꽃",
+      "en": "Kamisato Art: Kyouka",
+      "de": "Kamisato-Stil – Kyouka",
+      "es": "Estilo Kamisato: Belleza reflejada",
+      "fr": "École Kamisato : Beauté réfléchie",
+      "pt": "Arte Kamisato: Beleza Refletida",
+      "ru": "Искусство Камисато: Кёка",
+      "id": "Kamisato Art: Kyouka",
+      "th": "Kamisato Art: Kyouka",
+      "vi": "Trường Phái Kamisato - Kyouka"
+    },
+    "description": {
+      "zhs": "神里绫人垫步移动并进入「泷廻鉴花」状态。\n移动后，神里绫人原本的位置上将产生「水影」。水影完全形成后，将在附近存在敌人或持续时间结束时破裂，造成<color=#80C0FFFF>水元素范围伤害</color>。\n\n<color=#FFD780FF>泷廻鉴花</color>\n在此状态下，神里绫人将使用瞬水剑进行迅速的攻击，将普通攻击造成的伤害转为无法被附魔覆盖的<color=#80C0FFFF>水元素范围伤害</color>。\n此外，具有如下效果：\n·瞬水剑攻击命中敌人后，将为神里绫人赋予「浪闪」效果，基于神里绫人自己当前的生命值上限，提升瞬水剑造成的伤害。浪闪初始至多叠加4层，每0.1秒至多通过瞬水剑攻击获得一层，将在泷廻鉴花状态结束时消失。\n·提高神里绫人的抗打断能力；\n·无法施放重击与下落攻击。\n\n泷廻鉴花状态将在神里绫人退场时解除；处于泷廻鉴花状态下时再次施放神里流·镜花，将移除已有的泷廻鉴花状态。\n\n<i>「你什么时候产生了自己得手的错觉？」</i>\n<i>——不止是武艺，权谋之事上也是如此。但是为了照顾其他两方奉行大人的颜面，这句话不方便说出来。因此只有托马、一斗和绫华听过。</i>",
+      "zht": "神里綾人墊步移動並進入「瀧廻鑑花」狀態。\n移動後，神里綾人原本的位置上將產生「水影」。水影完全形成後，將在附近存在敵人或持續時間結束時破裂，造成<color=#80C0FFFF>水元素範圍傷害</color>。\n\n<color=#FFD780FF>瀧廻鑑花</color>\n在此狀態下，神里綾人將使用瞬水劍進行迅速的攻擊，將普通攻擊造成的傷害轉為無法被附魔覆蓋的<color=#80C0FFFF>水元素範圍傷害</color>。\n此外，具有如下效果：\n·瞬水劍攻擊命中敵人後，將為神里綾人賦予「浪閃」效果，基於神里綾人自己當下的生命值上限，提升瞬水劍造成的傷害。浪閃初始至多疊加4層，每0.1秒至多透過瞬水劍攻擊獲得一層，將在瀧廻鑑花狀態結束時消失。\n·提高神里綾人的抗打斷能力；\n·無法施放重擊與下落攻擊。\n\n瀧廻鑑花狀態將在神里綾人退場時解除；處於瀧廻鑑花狀態下時再次施放神里流·鏡花，將移除已有的瀧廻鑑花狀態。\n\n<i>「你什麼時候產生了自己得手的錯覺？」</i>\n<i>——不止是武藝，權謀之事上也是如此。但是為了照顧其他兩方奉行大人的顏面，這句話不方便說出來。因此只有托馬、一斗和綾華聽過。</i>",
+      "jp": "神里綾人は素早く移動後、「滝廻鑑花」状態に入り、元の位置に「水の幻影」を創造する。\n水の幻影は形成後、周囲に敵が存在する場合または継続時間終了時に破裂し、<color=#80C0FFFF>水元素範囲ダメージ</color>を与える。\n\n<color=#FFD780FF>滝廻鑑花</color>\nこの状態の神里綾人は瞬水剣で素早い攻撃を繰り出し、通常攻撃は元素付与によって他の元素に変化しない<color=#80C0FFFF>水元素範囲ダメージ</color>へと変わる。\nその他、以下の効果を持つ。\n·瞬水剣が敵に命中すると、神里綾人に「浪閃」効果を付与し、神里綾人自身の現在のHP上限を基準に、瞬水剣のダメージがアップする。初期状態では、浪閃を最大4層重ね掛けでき、瞬水剣の攻撃を通して0.1秒ごとに最大1層獲得できる。滝廻鑑花状態が終了した時に効果は消失する。\n·神里綾人の中断耐性がアップする。\n·重撃と落下攻撃が発動できなくなる。\n\n滝廻鑑花状態は神里綾人が退場する時に解除される。滝廻鑑花状態で再度神里流·鏡花を発動すると、既存の滝廻鑑花状態が解除される。\n\n<i>「一体いつから、手応えを感じていたように錯覚していたのですか？」</i>\n<i>——武芸だけでなく、計略に関することも同様である。しかし、他の二つの奉行に座している当主の面子を立てるためにも、この言葉は言うべきではない。それゆえ、これを聞いたことのある人はトーマ、一斗、綾華の三人だけである。</i>",
+      "ko": "카미사토 아야토는 까치발로 이동하며 「선회하는 거울꽃」 상태에 진입한다.\n이동 후, 카미사토 아야토의 원래 자리에 「물의 잔영」이 생성된다. 물의 잔영이 완전한 형태를 갖춘 후, 아야토 주변에 적이 존재하거나 지속 시간이 끝나 물의 잔영이 파괴되면 <color=#80C0FFFF>물 원소 범위 피해</color>를 준다.\n\n<color=#FFD780FF>선회하는 거울꽃</color>\n해당 상태의 카미사토 아야토는 순수검으로 빠르게 공격하고, 일반 공격으로 가하는 피해는 다른 원소 부여 효과로 대체될 수 없는 <color=#80C0FFFF>물 원소 범위 피해</color>로 전환된다.\n이외에 아래의 효과를 가진다:\n·순수검이 적 공격 후, 카미사토 아야토에게 「번쩍이는 파도」 효과를 부여한다. 현재 카미사토 아야토의 최대 HP에 따라 순수검이 가하는 피해가 증가한다. 번쩍이는 파도는 초기에 최대 4스택 중첩되며 0.1초마다 순수검의 공격을 통해 1스택 중첩된다. 선회하는 거울꽃 상태가 해제될 때 사라진다.\n·카미사토 아야토의 경직 저항력 증가.\n·강공격과 낙하 공격 사용 불가.\n\n선회하는 거울꽃 상태는 카미사토 아야토 퇴장 시 해제된다. 선회하는 거울꽃 상태에서 카미사토류·거울꽃을 다시 한번 시전하면 선회하는 거울꽃 상태가 해제된다.\n\n<i>「언제부터 네 공격이 나에게 닿았다는 착각을 하게 된 거지?」</i>\n<i>——무예뿐만 아니라, 권모술수도 마찬가지다. 하지만 다른 쪽 봉행 어르신들의 체면도 봐줘야 되기에 이 말은 토마, 이토와 아야카밖에 못 들어봤다</i>",
+      "en": "Kamisato Ayato shifts positions and enters the Takimeguri Kanka state.\nAfter this shift, he will leave a watery illusion at his original location. After it is formed, the watery illusion will explode if opponents are nearby or after its duration ends, dealing <color=#80C0FFFF>AoE Hydro DMG</color>.\n\n<color=#FFD780FF>Takimeguri Kanka</color>\nIn this state, Kamisato Ayato uses his Shunsuiken to engage in blindingly fast attacks, causing DMG from his Normal Attacks to be converted into <color=#80C0FFFF>AoE Hydro DMG</color>. This cannot be overridden.\nIt also has the following properties:\n·After a Shunsuiken attack hits an opponent, it will grant Ayato the Namisen effect, increasing the DMG dealt by Shunsuiken based on Ayato's current Max HP. The initial maximum number of Namisen stacks is 4, and 1 stack can be gained through Shunsuiken every 0.1s. This effect will be dispelled when Takimeguri Kanka ends.\n·Kamisato Ayato's resistance to interruption is increased.\n·Unable to use Charged or Plunging Attacks.\n\nTakimeguri Kanka will be cleared when Ayato leaves the field. Using Kamisato Art: Kyouka again while in the Takimeguri Kanka state will reset and replace the pre-existing state.\n\n<i>\"When, I wonder, did you come under the illusion that you were winning?\"</i>\n<i>— Ayato is like this in both matter of martial prowess and political intrigue, but to preserve the dignity of his fellow Commissioners, he does not say such things to them. As such, only Thoma, Itto, and Ayaka have ever heard this line.</i>",
+      "de": "Kamisato Ayato wechselt seine Position und tritt in den Zustand „Takimeguri Kanka“ ein.\nHinterlässt danach eine „Wasserillusion“ an seinem ursprünglichen Standort. Sobald sie geformt ist, explodiert die Wasserillusion, wenn Gegner in der Nähe sind, oder nach einer bestimmten Zeit und verursacht <color=#80C0FFFF>Hydro-Flächenschaden</color>.\n\n<color=#FFD780FF>Takimeguri Kanka</color>\nIn diesem Zustand setzt Kamisato Ayato sein Shunsuiken ein, um blitzschnelle Angriffe auszuführen, wodurch der mit seinen Standardangriffen verursachte Schaden in <color=#80C0FFFF>Hydro-Flächenschaden</color>, der nicht von anderen Elementen überdeckt werden kann, umgewandelt wird.\nHat außerdem folgende Effekte:\n· Gewährt Ayato, nachdem ein Shunsuiken-Angriff Gegner getroffen hat, den Effekt Namisen, der den von Shunsuiken verursachten Schaden basierend auf Ayatos aktuellen max. LP erhöht. Namisen-Effekt anfänglich 4-fach stapelbar, höchstens 1 Stapelung alle 0,1 s durch Shunsuiken zu erhalten. Dieser Effekt erlischt, wenn Takimeguri Kanka endet.\n· Erhöht den Unterbrechungs-WDS von Kamisato Ayato.\n· Kann keinen heftigen Schlag oder Angriff aus dem Fall ausführen.\n\nTakimeguri Kanka erlischt, wenn Ayato ausgewechselt wird, sowie bei Anwendung von Kamisato-Stil – Kyouka im bereits bestehenden Zustand Takimeguri Kanka.\n\n<i>„Wann, frage ich mich, hast du dich der Illusion hingegeben, dass du gewinnen würdest?“</i>\n<i>Ayato ist sowohl in Bezug auf kriegerische Fähigkeiten als auch politische Intrigen so, aber um die Würde der Leiter der anderen Verwaltungen zu wahren, sagt er solche Dinge nicht zu ihnen. Daher haben nur Thoma, Itto und Ayaka diesen Satz je gehört.</i>",
+      "es": "Kamisato Ayato se mueve de posición y entra en el estado de “reflejo torrencial”.\nTras hacer este movimiento, deja en su ubicación original una ilusión de agua. Al ser formada, la ilusión explotará si se encuentra cerca de un enemigo o cuando termine su duración, tras lo que inflige <color=#80C0FFFF>Daño Hydro en el AdE</color>.\n\n<color=#FFD780FF>Reflejo torrencial</color>\nEn este estado, Kamisato Ayato ataca rápidamente con una hidroespada y el daño de sus Ataques Normales se transforma en <color=#80C0FFFF>Daño Hydro en el AdE</color>, el cual no puede sustituirse imbuyéndose de otro elemento.\nAdemás, este estado tiene las siguientes características:\n·Al golpear a un enemigo con la hidroespada, Kamisato Ayato obtiene el efecto de “oleaje centelleante”, el cual aumenta el daño de la hidroespada en proporción su Vida Máx. actual. Inicialmente, oleaje centelleante puede acumularse hasta 4 veces y obtenerse una vez cada 0.1 s por cada ataque realizado con la hidroespada. Este efecto desaparece cuando termina la duración del estado de reflejo torrencial.\n·Aumenta la RES a interrupción de Kamisato Ayato.\n·Mientras dure este estado, no podrá ejecutar ni Ataques Cargados ni Descendentes.\n\nEl estado de reflejo torrencial se anulará cuando Kamisato Ayato sea retirado de combate. Si vuelve a usar Estilo Kamisato: Belleza reflejada mientras dicho estado está activo, el estado anterior terminará y la duración del nuevo estado se reiniciará.\n\n<i>“¿Exactamente en qué momento pensaste que llevabas la ventaja?”</i>\n<i>Ayato se comporta así tanto en las artes marciales como en la estrategia política. Sin embargo, para no dañar la reputación de los otros dos Comisionados, nunca les dice esto a la cara. Por eso, solo Thoma, Itto y Ayaka le han escuchado alguna vez decir estas palabras.</i>",
+      "fr": "Kamisato Ayato change d'emplacement et entre dans un état de Réflexion torrentielle.\nAprès ce déplacement, il laisse une illusion aqueuse à son emplacement d'origine, qui, une fois complètement formée, explose après un certain temps ou si des ennemis sont à proximité, infligeant des <color=#80C0FFFF>DGT Hydro de zone</color>.\n\n<color=#FFD780FF>Réflexion torrentielle</color>\nDans cet état, Ayato utilise son Shunsuiken pour attaquer avec une rapidité aveuglante, convertissant les DGT infligés par ses attaques normales en <color=#80C0FFFF>DGT Hydro de zone</color> ne pouvant pas être enchantés.\nLes propriétés suivantes sont également appliquées :\n· Après avoir touché un ennemi avec une attaque de Shunsuiken, Ayato obtient un effet de flash onduleux, augmentant les DGT infligés par son Shunsuiken en fonction de ses PV max actuels. Le flash onduleux peut être initialement cumulé 4 fois maximum, et 1 cumul peut être obtenu une fois toutes les 0,1 s grâce à une attaque de Shunsuiken. Cet effet prend fin quand l'état de Réflexion torrentielle se termine.\n· La RÉS à l'interruption d'Ayato augmente.\n· Il est impossible d'utiliser des attaques chargées ou plongeantes.\n\nL'état de Réflexion torrentielle cesse lorsqu'Ayato quitte le champ de bataille. Utiliser à nouveau École Kamisato : Beauté réfléchie en état de Réflexion torrentielle y mettra fin.\n\n<i>« Quand, je me demande, en êtes-vous arrivé à penser que vous aviez le dessus ? »</i>\n<i>Ayato est ainsi qu'il s'agisse de prouesses martiales ou d'intrigues politiques... Cependant, afin de préserver la dignité des autres Commissaires, il ne leur dit pas de telles choses en face. Ainsi, seuls Thomas, Itto et Ayaka ont déjà entendu ces mots.</i>",
+      "pt": "Kamisato Ayato troca de posição e entra no estado \"Reflexão Torrencial\".\nApós esta troca, ele deixará uma Ilusão de Água na sua localização original. Após sua formação, a Ilusão de Água explodirá se os oponentes estiverem próximos ou quando sua duração terminar, infligindo <color=#80C0FFFF>Dano Hydro em AdE</color>.\n\n<color=#FFD780FF>Reflexão Torrencial</color>\nNesse estado, Kamisato Ayato usa sua Espada Aquática para realizar ataques rápidos, fazendo com que o Dano de seus Ataques Normais seja convertido em <color=#80C0FFFF>Dano Hydro em AdE</color> que não pode ser substituído pelo encantamento de outros elementos.\nAlém disso, também possui as seguintes propriedades:\n· Quando os ataques da Espada Aquática atingem um inimigo, darão a Ayato o efeito de Ondas Brilhantes, aumentando o Dano infligido pela Espada Aquática baseado na Vida Máxima atual de Ayato. O número máximo inicial de acúmulos de Ondas Brilhantes é 4, e é possível obter um acúmulo através da Espada Aquática a cada 0.1s. Esse efeito desaparecerá quando a Reflexão Torrencial acabar.\n· Aumenta a Resistência Contra Interrupção de Kamisato Ayato.\n· Se torna incapaz de usar Ataques Carregados ou Imersivos.\nA Reflexão Torrencial será eliminada quando Ayato sair do campo de batalha. Usar Arte Kamisato: Beleza Refletida novamente enquanto ainda estiver no estado Reflexão Torrencial encerrará tal estado.\n\n<i>Me pergunto quando você teve a ilusão que estava ganhando?</i>\n<i>Ayato é assim tanto na proeza marcial quanto na intriga política, mas para preservar a dignidade de seus colegas deas outras duas Comissões, ele não diz tais coisas a eles. Dessa forma, somente Thoma, Itto e Ayaka ouviram isso.</i>",
+      "ru": "Камисато Аято перемещается и входит в состояние Такимэгури канка.\nПосле перемещения на его исходной позиции остаётся водная иллюзия. Когда время действия полностью сформировавшейся водной иллюзии истекает или рядом находятся враги, она взрывается и наносит <color=#80C0FFFF>Гидро урон по площади</color>.\n\n<color=#FFD780FF>Такимэгури канка</color>\nВ этом состоянии Камисато Аято совершает молниеносные атаки, используя свой Сюнсуйкэн. Урон от обычных атак конвертируется в <color=#80C0FFFF>Гидро урон по площади</color>. Этот эффект не может быть отменён другими инфузиями.\nТакже он обладает следующими свойствами:\n· Попадания Сюнсуйкэн по врагу наделяют Аято эффектом Намисэн, который увеличивает наносимый Сюнсуйкэн урон пропорционально текущему макс. HP Аято. Изначально Намисэн может складываться до 4 раз. Один уровень эффекта можно получить с помощью Сюнсуйкэн раз в 0,1 сек. С завершением Такимэгури канка этот эффект исчезнет.\n· Увеличивает сопротивление прерыванию Аято.\n· Заряженные атаки и атаки в падении становятся недоступны.\n\nТакимэгури канка снимается, когда Аято покидает поле боя. Если во время действия Такимэгури канка применить Искусство Камисато: Кёка повторно, текущее состояние прервётся.\n\n<i>«Когда это вам померещилось, что победа на вашей стороне?»</i>\n<i>Таков Аято как в боевых искусствах, так и в хитросплетениях политических интриг. При главах других комиссий он такого не говорит, заботясь об их достоинстве. Посему эту фразу доводилось слышать только Томе, Итто и Аяке.</i>",
+      "id": "Kamisato Ayato menggeser posisinya dan memasuki kondisi Takimeguri Kanka.\nSetelah berpindah posisi, Ayato akan meninggalkan ilusi air di posisi sebelumnya. Setelah terbentuk, ilusi air akan meledak saat ada musuh di sekitar atau setelah durasinya habis, mengakibatkan <color=#80C0FFFF>Hydro DMG Area</color>.\n\n<color=#FFD780FF>Takimeguri Kanka</color>\nDalam kondisi ini, Kamisato Ayato menggunakan Shunsuiken miliknya untuk melakukan serangan yang sangat cepat, mengakibatkan DMG Normal Attack berubah menjadi <color=#80C0FFFF>Hydro DMG Area</color> yang tidak bisa ditimpa Elemental Infusion lainnya.\nLalu juga mempunyai efek berikut:\n·Setelah serangan Shunsuiken mengenai musuh, Ayato akan mendapatkan efek Namisen, yang meningkatkan DMG yang diakibatkan oleh Shunsuiken berdasarkan dari Max HP Ayato saat ini. Namisen dapat ditumpuk hingga 4 lapis, dan setiap 0,1 detik bisa mendapatkan 1 lapis dari serangan Shunsuiken. Efek ini akan hilang saat Takimeguri Kanka berakhir.\n·Meningkatkan ketahanan Kamisato Ayato terhadap interupsi.\n·Tidak bisa melancarkan Charged dan Plunging Attack.\n\nTakimeguri Kanka akan selesai saat Ayato meninggalkan medan pertempuran. Jika Kamisato Art: Kyouka dilancarkan lagi saat masih dalam kondisi Takimeguri Kanka, maka kondisi Takimeguri Kanka tersebut akan berakhir dan diganti dengan yang baru..\n\n<i>Sudah merasa menang? Halusinasi ya?</i>\n<i> Demikianlah perilaku seorang Ayato baik dari segi bela diri maupun kecakapannya dalam berpolitik, tapi untuk menjaga agar Komisaris lainnya tidak tersinggung, dia tidak bicara seperti itu di depan mereka. Hanya Thoma, Itto, dan Ayaka yang pernah mendengar kalimat ini keluar dari mulutnya.</i>",
+      "th": "Kamisato Ayato จะเคลื่อนที่เปลี่ยนตำแหน่งและเข้าสู่สถานะ \"Takimeguri Kanka\"\nหลังจากเคลื่อนที่ ตำแหน่งเดิมของ Kamisato Ayato จะเกิด \"Water Illusion\" ขึ้น โดยหลังจากที่ Water Illusion ก่อตัวอย่างสมบูรณ์แล้ว จะทำการระเบิดเมื่อมีศัตรูอยู่ในบริเวณใกล้เคียงหรือสิ้นสุดช่วงเวลาต่อเนื่อง และทำให้เกิด<color=#80C0FFFF>ความเสียหายน้ำวงกว้าง</color>\n\n<color=#FFD780FF>Takimeguri Kanka</color>\nภายใต้สถานะนี้ Kamisato Ayato จะใช้ Shunsuiken โจมตีอย่างรวดเร็ว และเปลี่ยนความเสียหายจากการโจมตีปกติเป็น<color=#80C0FFFF>ความเสียหายน้ำวงกว้าง</color>ที่ไม่สามารถซ้อนทับด้วยธาตุอื่นได้\nนอกจากนี้ จะเกิดเอฟเฟกต์ดังต่อไปนี้อีกด้วย:\n·หลังจากที่การโจมตีของ Shunsuiken ถูกศัตรู จะมอบเอฟเฟกต์ Namisen ให้แก่ Kamisato Ayato ซึ่งจะเพิ่มความเสียหายที่ Shunsuiken สร้าง โดยขึ้นกับพลังชีวิตสูงสุดของตัวของ Kamisato Ayato เองในขณะนั้น โดยที่ในตอนแรกเริ่ม Namisen จะสามารถซ้อนทับได้มากสุด 4 ชั้น และในทุก 0.1 วินาที จะได้รับจาก Shunsuiken ได้มากสุด 1 ชั้น และจะหายไปเมื่อสถานะ Takimeguri Kanka สิ้นสุดลง\n·เพิ่มความสามารถในการต้านทานการหยุดชะงักของ Kamisato Ayato;\n·ไม่สามารถใช้การชาร์จโจมตีและการโจมตีพุ่งลงจากอากาศได้\n\nสถานะ Takimeguri Kanka จะหายไปเมื่อ Kamisato Ayato ออกจากการต่อสู้; การใช้ Kamisato Art: Kyouka อีกครั้ง ในขณะที่อยู่ในสถานะ Takimeguri Kanka จะเป็นการลบสถานะ Takimeguri Kanka ที่มีอยู่แต่เดิม\n\n<i>\"คุณหลงเข้าใจผิดว่าตัวเองเป็นผู้คว้าชัยชนะตั้งแต่เมื่อไหร่กัน?\"</i>\n<i>...ไม่ใช่แค่เพียงด้านศิลปะการต่อสู้เท่านั้น แต่ในเรื่องของกลอุบายทางการเมืองเองก็เช่นกัน ทว่าเพื่อเป็นการรักษาหน้านายท่านจากอีกสองสำนัก จึงไม่เหมาะสมที่จะเอ่ยประโยคนี้ออกมานัก ด้วยเหตุนี้จึงมีเพียง Thoma, Itto และ Ayaka เท่านั้นที่เคยได้ยิน</i>",
+      "vi": "Kamisato Ayato thay đổi vị trí và vào trạng thái \"Takimeguri Kanka\".\nSau khi di chuyển, Ayato sẽ để lại Thủy Ảnh ở vị trí ban đầu. Thủy Ảnh sau khi hình thành sẽ phát nổ khi có kẻ địch đến gần hoặc kết thúc thời gian duy trì, gây <color=#80C0FFFF>Sát Thương Phạm Vi Nguyên Tố Thủy</color>.\n\n<color=#FFD780FF>Takimeguri Kanka</color>\nTrong trạng thái này, Kamisato Ayato sẽ sử dụng Shunsuiken để tấn công nhanh, chuyển hóa sát thương đòn đánh thường thành <color=#80C0FFFF>Sát Thương Phạm Vi Nguyên Tố Thủy</color> không thể bị thay thế.\nNgoài ra, còn có những hiệu quả sau:\n·Shunsuiken sau khi đánh trúng kẻ địch sẽ cung cấp cho Kamisato Ayato hiệu quả \"Namisen\", tăng sát thương của Shunsuiken gây ra dựa vào HP tối đa ở hiện tại của Kamisato Ayato. Ban đầu Namisen có thể cộng dồn tối đa 4 tầng, mỗi 0.1s tối đa nhận 1 tầng từ Shunsuiken, trạng thái sẽ biến mất khi Takimeguri Kanka kết thúc.\n·Tăng khả năng kháng gián đoạn của Kamisato Ayato;\n·Không thể sử dụng trọng kích và tấn công khi đáp.\n\nTrạng thái Takimeguri Kanka sẽ biến mất khi Kamisato Ayato rời trận; Khi dùng lại Trường Phái Kamisato - Kyouka trong trạng thái Takimeguri Kanka, sẽ xóa bỏ trạng thái Takimeguri Kanka đã có.\n\n<i>\"Ngươi ảo tưởng rằng bản thân đã chiến thắng khi nào ấy nhỉ?\"</i>\n<i>Không chỉ là võ nghệ, ngay cả chính sự cũng như thế. Nhưng do phải giữ thể diện cho hai hiệp hội kia, cho nên câu này không tiện nói cho lắm. Chính vì thế mà chỉ có Thoma, Itto và Ayaka nghe qua.</i>"
+    },
+    "imgid": "s_663201"
+  },
+  {
+    "title": {
+      "zhs": "神里流·水囿",
+      "zht": "神里流·水囿",
+      "jp": "神里流·水囿",
+      "ko": "카미사토류·물의 영역",
+      "en": "Kamisato Art: Suiyuu",
+      "de": "Kamisato-Stil – Suiyuu",
+      "es": "Estilo Kamisato: Jardín ácueo",
+      "fr": "École Kamisato : Jardin d'eau",
+      "pt": "Arte Kamisato: Jardim Aquático",
+      "ru": "Искусство Камисато: Суйю",
+      "id": "Kamisato Art: Suiyuu",
+      "th": "Kamisato Art: Suiyuu",
+      "vi": "Trường Phái Kamisato - Suiyuu"
+    },
+    "description": {
+      "zhs": "展开清净之园囿，熄灭其中一切嚣闹。\n存在期间，其中会持续降下水花剑，攻击范围内的敌人，造成<color=#80C0FFFF>水元素伤害</color>，并提高其中的角色的普通攻击伤害。\n\n<i>「看到了哦，在这片静水之中，你心跳的波纹。」</i>",
+      "zht": "展開清淨之園囿，熄滅其中一切囂鬧。\n存在期間，其中會持續降下水花劍，攻擊範圍內的敵人，造成<color=#80C0FFFF>水元素傷害</color>，並提高其中的角色的普通攻擊傷害。\n\n<i>「看到了哦，在這片靜水之中，你心跳的波紋。」</i>",
+      "jp": "清浄之園囿を展開し、その場に存在する雑音をすべて消し去る。\n持続的に水沫剣を落とし、範囲内の敵に<color=#80C0FFFF>水元素ダメージ</color>を与え、中にいるキャラクターの通常攻撃ダメージをアップさせる。\n\n<i>「見えましたよ。この静水の中、貴方の脈打つ心の波紋が。」</i>",
+      "ko": "고요한 원유(苑囿) 영역을 전개해 모든 소란을 잠재운다.\n영역이 존재하는 동안 수화검을 지속적으로 내려 범위 내의 적을 공격해 <color=#80C0FFFF>물 원소 피해</color>를 주며, 영역 안의 캐릭터의 일반 공격 피해가 증가한다.\n\n<i>「보이는군요. 이 고요한 물속에서 퍼지는 당신의 심장 고동 파문이」</i>",
+      "en": "Unveils a garden of purity that silences the cacophony within.\nWhile this space exists, Bloomwater Blades will constantly rain down and attack opponents within its AoE, dealing <color=#80C0FFFF>Hydro DMG</color> and increasing the Normal Attack DMG of characters within.\n\n<i>\"I can see them, you know. The ripples of your beating heart within this realm of still waters.\"</i>",
+      "de": "Erschafft einen Garten der Reinheit, der jeglichen Lärm in seinem Inneren auslöscht.\nLässt während der Wirkungsdauer fortlaufend Wasserblütenklingen fallen, die Gegner im Wirkungsbereich angreifen und ihnen <color=#80C0FFFF>Hydro-Schaden</color> zufügen, und erhöht den mit Standardangriffen der Figuren im Wirkungsbereich verursachten Schaden.\n\n<i>„Ich kann sie sehen, die Wellen deines schlagenden Herzens in diesem Reich der stillen Wasser.“</i>",
+      "es": "Crea un jardín de paz en el que ningún ruido tiene cabida.\nMientras está activo, en el jardín caerán continuamente filos de agua que atacarán a los enemigos en su interior, les infligirán <color=#80C0FFFF>Daño Hydro</color> y aumentarán el daño de los Ataques Normales de los personajes dentro del área.\n\n<i>Puedo ver las ondulaciones del latido de tu corazón en estas aguas calmas.</i>",
+      "fr": "Dévoile un jardin de pureté qui étouffe toute cacophonie en son sein.\nTant que cet espace existe, des lames de rosée pleuvent de façon continue pour attaquer les adversaires dans la zone, leur infligeant des <color=#80C0FFFF>DGT Hydro</color> et augmentant les DGT des attaques normales des personnages à l'intérieur.\n\n<i>« Je peux les voir, vous savez... Les ondulations de votre cœur battant dans ce royaume aux eaux calmes. »</i>",
+      "pt": "Revela um jardim puro que extingue toda a cacofonia.\nEnquanto esse espaço existir, Lâminas de Flores de Água constantemente cairão e atacarão os inimigos em sua AdE, infligindo <color=#80C0FFFF>Dano Hydro</color> e aumentando o dano do Ataque Normal dos personagens dentro da AdE.\n\n\"<i>Eu vejo, posso ver ondas de batimento de seu coração nesse reino de águas paradas\".</i>",
+      "ru": "Создаёт безмятежный сад, в котором гаснет суета и шум.\nПока сад существует, в его области на врагов непрерывно обрушиваются Клинки водных цветов, нанося им <color=#80C0FFFF>Гидро урон</color>, а урон обычной атаки персонажей внутри него увеличивается.\n\n<i>«Я вижу её. Рябь, которая проходит по этим тихим водам от ударов твоего сердца».</i>",
+      "id": "Mengungkap sebuah taman penyucian yang menyingkirkan segala hiruk pikuk di dalamnya.\nSaat taman tersebut ada, Bloomwater Blade akan terus menghujani dan menyerang musuh di dalam areanya, mengakibatkan <color=#80C0FFFF>Hydro DMG</color> dan meningkatkan DMG Normal Attack Karakter di dalamnya.\n\n<i>\"Aku bisa melihatnya. Riak dari detak jantungmu di dunia air yang tenang ini\".</i>",
+      "th": "เปิดเผยสวนแห่งความบริสุทธิ์ ที่จะดับสูญความอึกทึกวุ่นวายทั้งปวงในนั้น\nระหว่างช่วงเวลาที่คงอยู่ ภายในจะมี Bloomwater Blade ร่วงหล่นลงมาโจมตีศัตรูที่อยู่ในพื้นที่อย่างต่อเนื่อง ซึ่งจะทำให้เกิด<color=#80C0FFFF>ความเสียหายน้ำ</color> และเพิ่มความเสียหายการโจมตีปกติของตัวละครที่อยู่ในนั้น\n\n<i>\"มองเห็นแล้วล่ะ ระลอกคลื่นจากหัวใจที่กำลังเต้นของคุณท่ามกลางผืนน้ำอันนิ่งสงบแห่งนี้\"</i>",
+      "vi": "Dựng lên khu vườn thanh tịnh, dập tắt mọi sự ồn ào.\nTrong thời gian tồn tại sẽ liên tục giáng xuống Thủy Hoa Kiếm tấn công kẻ địch trong phạm vi, gây <color=#80C0FFFF>Sát Thương Nguyên Tố Thủy</color>, đồng thời tăng sát thương tấn công thường cho nhân vật trong đó.\n\n<i>\"Thấy rồi đó, nhịp tim của ngươi trên mặt nước tĩnh lặng này.\"</i>"
+    },
+    "imgid": "s_663901"
+  },
+  {
+    "title": {
+      "zhs": "神里流·清泷绕峰",
+      "zht": "神里流·清瀧繞峰",
+      "jp": "神里流·峰を纏いし清滝",
+      "ko": "카미사토류·봉우리를 맴도는 물",
+      "en": "Kamisato Art: Mine Wo Matoishi Kiyotaki",
+      "de": "Kamisato-Stil – Mine Wo Matoishi Kiyotaki",
+      "es": "Estilo Kamisato: Corriente montañosa",
+      "fr": "École Kamisato : Clarté de bruine",
+      "pt": "Arte Kamisato: Corrente entre Montanhas",
+      "ru": "Искусство Камисато: Минэ о матойси киётаки",
+      "id": "Kamisato Art: Mine Wo Matoishi Kiyotaki",
+      "th": "Kamisato Art: Mine Wo Matoishi Kiyotaki",
+      "vi": "Trường Phái Kamisato - Mine Wo Matoishi Kiyotaki"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>神里流·镜花</color>具有如下效果：\n·施放后，神里绫人会获得2层浪闪效果；\n·水影破裂后，神里绫人将获得等同于叠加上限层数的浪闪效果。",
+      "zht": "<color=#FFD780FF>神里流·鏡花</color>具有如下效果：\n·施放後，神里綾人會獲得2層浪閃效果；\n·水影破裂後，神里綾人將獲得等同於疊加上限層數的浪閃效果。",
+      "jp": "<color=#FFD780FF>神里流·鏡花</color>は下記の効果を持つ。\n·発動後、神里綾人は2層の浪閃効果を獲得する。\n·水の幻影が破裂すると、神里綾人は重ね掛け上限に相当する浪閃効果を獲得する。",
+      "ko": "<color=#FFD780FF>카미사토류·거울꽃</color>은 아래의 효과를 가진다:\n·발동 후 카미사토 아야토는 번쩍이는 파도 2스택 효과를 획득한다.\n·물의 잔영이 파괴된 후 카미사토 아야토는 번쩍이는 파도의 최대 중첩수 효과를 획득한다",
+      "en": "<color=#FFD780FF>Kamisato Art: Kyouka</color> has the following properties:\n·After it is used, Kamisato Ayato will gain 2 Namisen stacks.\n·When the water illusion explodes, Ayato will gain a Namisen effect equal to the maximum number of stacks possible.",
+      "de": "<color=#FFD780FF>Kamisato-Stil – Kyouka</color> löst folgende Effekte aus:\n· Kamisato Ayato erhält beim Auslösen 2 Stapelungen des Effekts Namisen.\n· Wenn die Wasserillusion explodiert, erhält Ayato eine Menge an Stapelungen des Effekts Namisen, die der höchstmöglichen Anzahl von Stapelungen entspricht.",
+      "es": "<color=#FFD780FF>Estilo Kamisato: Belleza reflejada</color> obtiene las siguientes características:\n·Al activar la habilidad, Kamisato Ayato obtiene 2 acumulaciones de oleaje centelleante.\n·Cuando la ilusión de agua se destruye, Kamisato Ayato obtiene el efecto de oleaje centelleante con la máxima cantidad de acumulaciones posibles.",
+      "fr": "<color=#FFD780FF>École Kamisato : Beauté réfléchie</color> obtient les propriétés suivantes :\n· 2 cumuls de flash onduleux sont accordés lors de l'utilisation.\n· Quand une illusion aqueuse explose, Ayato obtient un effet de flash onduleux équivalant au nombre maximum de cumuls possibles.",
+      "pt": "<color=#FFD780FF>Arte Kamisato: Beleza Refletida</color> possui as seguintes propriedades:\n· Depois de ser lançada, Kamisato Ayato obtém 2 acúmulos de Ondas Brilhantes;\n· Depois de sua Ilusão de Água explodir, Kamisato Ayato obterá um efeito de Ondas Brilhantes igual ao máximo de número de acúmulos possíveis.",
+      "ru": "<color=#FFD780FF>Искусство Камисато: Кёка</color> обладает следующими эффектами:\n· После использования Камисато Аято получает два уровня Намисэн.\n· Когда водная иллюзия взрывается, Аято обретает эффект Намисэн, равный максимальному количеству уровней эффекта.",
+      "id": "<color=#FFD780FF>Kamisato Art: Kyouka</color> memiliki karakteristik berikut:\n·Kamisato Ayato akan mendapatkan 2 lapis Namisen saat melancarkan skill ini.\nSetelah ilusi air meledak, Kamisato Ayato akan mendapatkan efek Namisen setara dengan jumlah tumpukan maksimum lapisan.",
+      "th": "<color=#FFD780FF>Kamisato Art: Kyouka</color> มีเอฟเฟกต์ดังต่อไปนี้:\n·หลังจากใช้ Kamisato Ayato จะได้รับเอฟเฟกต์ Namisen 2 ชั้น;\n·หลังจากที่ Water Illusion ระเบิด Kamisato Ayato จะได้รับเอฟเฟกต์ Namisen เท่ากับจำนวนการซ้อนทับสูงสุด",
+      "vi": "<color=#FFD780FF>Trường Phái Kamisato - Kyouka</color> có hiệu quả sau:\n·Sau khi thi triển, Kamisato Ayato sẽ nhận 2 tầng hiệu quả Namisen;\n·Khi Thủy Ảnh phát nổ, Kamisato Ayato sẽ nhận được tối đa số tầng hiệu quả Namisen có thể đạt được."
+    },
+    "imgid": "p_662101"
+  },
+  {
+    "title": {
+      "zhs": "神里流·破月渐盈",
+      "zht": "神里流·破月漸盈",
+      "jp": "神里流·満ちゆく破月",
+      "ko": "카미사토류·차오르는 잔월",
+      "en": "Kamisato Art: Michiyuku Hagetsu",
+      "de": "Kamisato-Stil – Michiyuku Hagetsu",
+      "es": "Estilo Kamisato: Crecida de la luna",
+      "fr": "École Kamisato : Avènement de la pleine lune",
+      "pt": "Arte Kamisato: Completação da Lua Nascente",
+      "ru": "Искусство Камисато: Митиюку хагэцу",
+      "id": "Kamisato Art: Michiyuku Hagetsu",
+      "th": "Kamisato Art: Michiyuku Hagetsu",
+      "vi": "Trường Phái Kamisato: Michiyuku Hagetsu"
+    },
+    "description": {
+      "zhs": "神里绫人处于队伍后台时，若元素能量低于40点，每1秒为自己恢复2点元素能量。",
+      "zht": "神里綾人處於隊伍後台時，若元素能量低於40點，每1秒為自己恢復2點元素能量。",
+      "jp": "神里綾人が待機中の時、元素エネルギーが40未満の場合、1秒毎に元素エネルギーを2回復する。",
+      "ko": "대기 상태인 카미사토 아야토의 원소 에너지가 40pt 미만일 경우, 1초마다 아야토 자신의 원소 에너지를 2pt씩 회복한다",
+      "en": "If Kamisato Ayato is not on the field and his Energy is less than 40, he will regenerate 2 Energy for himself every second.",
+      "de": "Stellt Kamisato Ayato, wenn er inaktiv in der Truppe ist und weniger als 40 Punkte Elementarenergie hat, pro s 2 Punkte Elementarenergie wieder her.",
+      "es": "Cuando Kamisato Ayato está en tu equipo pero no en combate y su Energía Elemental es menor a 40 pts., recuperará 2 pts. de Energía por segundo.",
+      "fr": "Lorsque Kamisato Ayato fait partie de l'équipe mais n'est pas déployé, et s'il possède moins de 40 pts d'énergie élémentaire, il en récupère 2 pts toutes les secondes.",
+      "pt": "Quando Kamisato Ayato está na equipe, mas não ativo no campo de batalha, se sua Energia Elemental for menor que 40 pontos, ele regenerará 2 pontos de Energia Elemental para si mesmo por segundo.",
+      "ru": "Когда Камисато Аято не на поле боя, а его энергия ниже 40 ед., он восстанавливает себе 2 ед. энергии в секунду.",
+      "id": "Saat Kamisato Ayato ada di dalam party tapi tidak sedang aktif di medan pertempuran, dan jika jumlah Energy-nya kurang dari 40 poin, maka dia akan memulihkan 2 Energy-nya sendiri setiap detik.",
+      "th": "เมื่อ Kamisato Ayato อยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้ และมีพลังงานธาตุต่ำกว่า 40 หน่วย จะฟื้นฟูพลังงานธาตุให้ตัวเอง 2 หน่วย ในทุก 1 วินาที",
+      "vi": "Khi Ayato không ra trận, nếu Năng Lượng Nguyên Tố thấp hơn 40 điểm, mỗi 1 giây sẽ hồi phục 2 điểm Năng Lượng Nguyên Tố."
+    },
+    "imgid": "p_662201"
+  },
+  {
+    "title": {
+      "zhs": "神里流·日常茶饭",
+      "zht": "神里流·日常茶飯",
+      "jp": "神里流·日常茶飯",
+      "ko": "카미사토류·일상다반",
+      "en": "Kamisato Art: Daily Cooking",
+      "de": "Kamisato-Stil – Alltägliche Gerichte",
+      "es": "Estilo Kamisato: Cocina diaria",
+      "fr": "École Kamisato : Cuisine du jour",
+      "pt": "Arte Kamisato: Cozinha Diária",
+      "ru": "Искусство Камисато: Ежедневная готовка",
+      "id": "Kamisato Art: Daily Cooking",
+      "th": "Kamisato Art: Daily Cooking",
+      "vi": "Trường Phái Kamisato - Cơm Nước Thường Ngày"
+    },
+    "description": {
+      "zhs": "完美烹饪食物时，有18%概率额外获得一个「奇怪的」品质的同种料理。",
+      "zht": "完美烹飪食物時，有18%機率額外獲得一個「奇怪的」品質的同種料理。",
+      "jp": "料理を完璧調理した時、18%の確率で「微妙な」品質の同一料理を獲得する。",
+      "ko": "요리를 완벽 조리하면 18%의 확률로 같은 종류의 「이상한」 품질의 요리를 추가로 1개 획득한다",
+      "en": "When Ayato cooks a dish perfectly, he has a 18% chance to receive an additional \"Suspicious\" dish of the same type.",
+      "de": "Stellt bei der perfekten Zubereitung von Gerichten mit einer Wahrscheinlichkeit von 18 % zusätzlich die misslungene Variante des jeweiligen Gerichts her.",
+      "es": "Al lograr un “Perfecto” al cocinar un plato, hay una probabilidad del 18% de obtener ese mismo plato con calidad “extraña”.",
+      "fr": "18 % de chances d'obtenir un plat suspect supplémentaire du même type lorsque vous cuisinez un plat parfait.",
+      "pt": "Quando uma Comida Perfeita é feita, tem uma chance de 18% de receber uma Comida Estranha de mesmo tipo.",
+      "ru": "При приготовлении идеального блюда имеет 18% шанс приготовить дополнительное «странное» блюдо того же типа.",
+      "id": "Saat Ayato memasak makanan dengan sempurna, terdapat 18% kemungkinan mendapatkan hasil tambahan makanan \"Suspicious\" dari jenis makanan yang sama.",
+      "th": "เมื่อปรุงอาหารได้ระดับสมบูรณ์ จะมีโอกาส 18% ที่จะได้รับอาหารประเภทเดียวกันในระดับ \"รสประหลาด\" เพิ่มหนึ่งจาน",
+      "vi": "Khi nấu hoàn mỹ món ăn, có 18% cơ hội nhận thêm 1 món cùng loại với phẩm chất \"kỳ lạ\"."
+    },
+    "imgid": "p_662301"
+  }
+]

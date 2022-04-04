@@ -1,0 +1,200 @@
+[
+  {
+    "title": {
+      "zhs": "普通攻击·钢脊",
+      "zht": "普通攻擊·鋼脊",
+      "jp": "通常攻撃·鋼の脊",
+      "ko": "일반 공격·강철 마루",
+      "en": "Normal Attack: Steel Fang",
+      "de": "Standardangriff: Stählernes Kreuz",
+      "es": "Ataque Normal: Colmillo de acero",
+      "fr": "Attaque normale : Croc d'acier",
+      "pt": "Ataque Normal: Presa de Aço",
+      "ru": "Стальной клык",
+      "id": "Steel Fang",
+      "th": "โจมตีปกติ - Steel Fang",
+      "vi": "Tấn Công Thường: Nanh Thép"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>普通攻击</color>\n进行至多四段的连续挥砍。\n\n<color=#FFD780FF>重击</color>\n持续消耗体力，旋转大剑攻击周围的敌人。\n停止旋转时，会进行一次格外有力的挥砍。\n\n<color=#FFD780FF>下落攻击</color>\n从空中下坠冲击地面，攻击下落路径上的敌人，并在落地时造成范围伤害。",
+      "zht": "<color=#FFD780FF>普通攻擊</color>\n進行至多四段的連續揮砍。\n\n<color=#FFD780FF>重擊</color>\n持續消耗體力，旋轉大劍攻擊周圍的敵人。\n停止旋轉時，會進行一次格外有力的揮砍。\n\n<color=#FFD780FF>下落攻擊</color>\n從空中下墜衝擊地面，攻擊下落路徑上的敵人，並在落地時造成範圍傷害。",
+      "jp": "<color=#FFD780FF>通常攻撃</color>\n最大4段の連続攻撃を行う。\n\n<color=#FFD780FF>重撃</color>\n持続的にスタミナを消費し、大剣を振り回して周囲の敵を攻撃する。\n重撃が終了した時に、さらに強力な攻撃を1回放つ。\n\n<color=#FFD780FF>落下攻撃</color>\n空中から落下し地面に衝撃を与える。経路上の敵を攻撃し、落下時に範囲ダメージを与える。",
+      "ko": "<color=#FFD780FF>일반 공격</color>\n검으로 최대 4번 공격한다.\n\n<color=#FFD780FF>강공격</color>\n스태미나를 지속해서 소모해 검을 휘두르며 주변의 적을 공격한다.\n회전 종료 시 추가로 한 번 더 강력하게 휘두른다.\n\n<color=#FFD780FF>낙하 공격</color>\n공중에서 땅을 내려찍어 경로상의 적을 공격하고 착지 시 범위 피해를 준다",
+      "en": "<color=#FFD780FF>Normal Attack</color>\nPerform up to 4 consecutive strikes.\n\n<color=#FFD780FF>Charged Attack</color>\nDrains Stamina over time to perform continuous spinning attacks against all nearby opponents.\nAt the end of the sequence, perform a more powerful slash. \n\n<color=#FFD780FF>Plunging Attack</color>\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+      "de": "<color=#FFD780FF>Standardangriff</color>\nFührt bis zu 4 Schwünge mit dem Schwert aus.\n\n<color=#FFD780FF>Heftiger Schlag</color>\nVerbraucht fortlaufend Ausdauer, wirbelt das Großschwert und greift Gegner in der Umgebung an.\nSchwingt das Schwert am Ende mit besonders großer Wucht.\n\n<color=#FFD780FF>Angriff aus dem Fall</color>\nSchlägt beim Fallen aus der Luft auf den Boden, greift alle Gegner in der Bahn an und verursacht beim Aufkommen Flächenschaden.",
+      "es": "<color=#FFD780FF>Ataque Normal</color>\nRealiza hasta 4 tajos de espada consecutivos.\n\n<color=#FFD780FF>Ataque Cargado</color>\nConsume Aguante de manera constante para realizar golpes de espada giratorios contra los enemigos cercanos.\nAl final del Ataque Cargado, realizará un golpe de espada más poderoso.\n\n<color=#FFD780FF>Ataque Descendente</color>\nSe lanza desde el aire para golpear el suelo, dañando a los enemigos cercanos e infligiendo Daño en el AdE en el momento del impacto.",
+      "fr": "<color=#FFD780FF>Attaque normale</color>\nEnchaîne jusqu'à 4 coups d'épée.\n\n<color=#FFD780FF>Attaque chargée</color>\nExécute une succession d'attaques tournoyantes contre les ennemis proches ; cette attaque consomme de l'endurance de façon continue.\nL'attaque chargée se termine sur un coup puissant.\n\n<color=#FFD780FF>Attaque plongeante</color>\nPlonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis en chemin et des DGT de zone à l'impact.",
+      "pt": "<color=#FFD780FF>Ataque Normal</color>\nRealiza até 4 golpes consecutivos.\n\n<color=#FFD780FF>Ataque Carregado</color>\nDrena Stamina ao longo do tempo para realizar um ataque giratório contínuo contra todos os inimigos próximos.\nAo final da sequência, realiza um corte poderoso.\n\n<color=#FFD780FF>Ataque Imersivo</color>\nMergulha em pleno ar para golpear o chão, danificando inimigos em seu caminho e infligindo Dano em uma AdE durante o impacto.",
+      "ru": "<color=#FFD780FF>Обычная атака:</color>\nДо четырёх рубящих ударов мечом.\n\n<color=#FFD780FF>Заряженная атака:</color>\nВращающаяся атака по окружающим врагам, на которую непрерывно тратится выносливость.\nПосле вращения проводит дополнительную мощную атаку мечом.\n\n<color=#FFD780FF>Атака в падении:</color>\nСтремительно падает на землю, атакуя всех врагов на пути. Приземлившись, наносит урон по площади.",
+      "id": "<color=#FFD780FF>Normal Attack</color> Melancarkan hingga 4 tebasan berturut-turut.\n\n<color=#FFD780FF>Charged Attack</color>\nTerus menguras Stamina untuk melancarkan serangan berputar yang mengakibatkan DMG ke musuh di sekitar.\nDiakhiri dengan sebuah tebasan yang kuat.\n\n<color=#FFD780FF>Plunging Attack</color>\nMenerjang dari udara untuk menghantam tanah, mengakibatkan DMG pada musuh di jalur terjangan dan mengakibatkan DMG area saat mendarat.",
+      "th": "<color=#FFD780FF>โจมตีปกติ</color>\nฟาดฟันต่อเนื่องมากสุดสี่ครั้ง\n\n<color=#FFD780FF>ชาร์จโจมตี</color>\nใช้พลังกายอย่างต่อเนื่องเพื่อหมุนโจมตีศัตรูรอบตัวด้วยดาบขนาดใหญ่\nเมื่อหยุดหมุนจะทำการฟันเพิ่มอย่างรุนแรงอีกหนึ่งครั้ง\n\n<color=#FFD780FF>โจมตีพุ่งลงจากอากาศ</color>\nกระโจนจากกลางอากาศลงมายังพื้นดิน เพื่อโจมตีศัตรูที่อยู่ในเส้นทางการโจมตี โดยจะสร้างความเสียหายวงกว้างเมื่อลงถึงพื้น",
+      "vi": "<color=#FFD780FF>Tấn Công Thường</color>\nThực hiện tối đa 4 lần chém liên tiếp.\n\n<color=#FFD780FF>Trọng Kích</color>\nTiêu hao thể lực để xoay kiếm tấn công địch xung quanh.\nKhi ngừng quay, sẽ bổ một nhát cực mạnh.\n\n<color=#FFD780FF>Tấn Công Khi Đáp</color>\nĐáp xuống đất từ trên không, tấn công kẻ địch trên đường và gây sát thương phạm vi khi chạm đất."
+    },
+    "imgid": "s_203101"
+  },
+  {
+    "title": {
+      "zhs": "利爪与苍雷",
+      "zht": "利爪與蒼雷",
+      "jp": "鋭い爪と蒼雷",
+      "ko": "날카로운 발톱과 창뢰",
+      "en": "Claw and Thunder",
+      "de": "Klauen und Donner",
+      "es": "Garra y trueno",
+      "fr": "Griffe et tonnerre",
+      "pt": "Garra e Trovão",
+      "ru": "Гром и когти",
+      "id": "Claw and Thunder",
+      "th": "Claw and Thunder",
+      "vi": "Vuốt Và Sấm"
+    },
+    "description": {
+      "zhs": "用师父与他的「家人」教他的方法，来解决猎物。\n\n<color=#FFD780FF>点按</color>\n向前挥动雷狼之爪，对前方的敌人造成<color=#FFACFFFF>雷元素伤害</color>。\n若命中敌人，则会为雷泽积攒一个雷之印，提高雷泽的元素充能效率。\n最多同时存在3个雷之印，叠加刷新持续时间。\n\n<color=#FFD780FF>长按</color>\n积聚雷电力量引发小范围的雷爆，造成大量<color=#FFACFFFF>雷元素伤害</color>，并清除已有的雷之印。\n每个因此被清除的雷之印，都会转为雷泽的元素能量。\n\n<i>雷击落下的一瞬，偶尔能瞥见雷泽灵魂深处那头狼打量猎物的眼神。</i>",
+      "zht": "用師父與他的「家人」教他的方法，來解決獵物。\n\n<color=#FFD780FF>點按</color>\n向前揮動雷狼之爪，對前方的敵人造成<color=#FFACFFFF>雷元素傷害</color>。\n若命中敵人，則會為雷澤累積一個雷之印，提高雷澤的元素充能效率。\n最多同時存在三個雷之印，疊加會刷新持續時間。\n\n<color=#FFD780FF>長按</color>\n聚集雷電力量引發小範圍的雷爆，造成大量<color=#FFACFFFF>雷元素傷害</color>，並清除已有的雷之印。\n每個因此被清除的雷之印，都會轉為雷澤的元素能量。\n\n<i>雷擊落下的一瞬，偶爾能瞥見雷澤靈魂深處那頭狼打量獵物的眼神。</i>",
+      "jp": "師匠と「家族」に教わった方法で、獲物を片付ける。\n\n<color=#FFD780FF>一回押し</color>\n雷狼の爪を振り、前方の敵に<color=#FFACFFFF>雷元素ダメージ</color>を与える。\n敵に命中すると、雷の印を1つ蓄積し、レザーの元素チャージ効率がアップする。\n雷の印は同時に最大3つまで存在でき、新しい雷の印を獲得すると全ての雷の印の継続時間がリセットされる。\n\n<color=#FFD780FF>長押し</color>\n雷の力を集めて狭範囲の雷爆発を起こし、大量の<color=#FFACFFFF>雷元素ダメージ</color>を与える。同時に、レザーの雷の印を全て取り除く。\n取り除かれた雷の印は全てレザーの元素エネルギーに変換される。\n\n<i>雷が落ちる瞬間、レザーの魂の奥に眠る獲物を狙う眼光が垣間見える。</i>",
+      "ko": "스승과 그의 「가족」이 가르쳐준 방법으로 사냥감을 처치한다.\n\n<color=#FFD780FF>짧은 터치</color>\n썬더울프의 발톱으로 전방의 적에게 <color=#FFACFFFF>번개 원소 피해</color>를 준다.\n적을 명중하면 번개의 인장이 한 개 쌓여 레이저의 원소 충전 효율이 상승한다.\n번개의 인장은 최대 동시에 3개 존재할 수 있으며 새로운 인장을 획득할 때마다 모든 인장의 지속 시간이 갱신된다.\n\n<color=#FFD780FF>홀드</color>\n뇌전의 힘을 모은 후 폭발시켜 주변 작은 범위의 적에게 대량의 <color=#FFACFFFF>번개 원소 피해</color>를 주고 번개의 인장을 지운다.\n번개의 인장을 지울 때마다 레이저의 원소 에너지로 전환된다.\n\n<i>벼락이 떨어지는 순간, 가끔 레이저의 영혼 깊은 곳에 있는 늑대가 사냥감을 훑는 눈빛을 볼 수 있다</i>",
+      "en": "#Hunts his prey using the techniques taught to him by his master and his lupical.\n\n<color=#FFD780FF>{LAYOUT_MOBILE#Tap}{LAYOUT_PC#Press}{LAYOUT_PS#Press}</color>\nSwings the Thunder Wolf Claw, dealing <color=#FFACFFFF>Electro DMG</color> to opponents in front of Razor.\nUpon striking an opponent, Razor will gain an Electro Sigil, which increases his Energy Recharge rate.\nRazor can have up to 3 Electro Sigils simultaneously, and gaining a new Electro Sigil refreshes their duration.\n\n<color=#FFD780FF>Hold</color>\nGathers Electro energy to unleash a lightning storm over a small AoE, causing massive <color=#FFACFFFF>Electro DMG</color>, and clears all of Razor's Electro Sigils.\nEach Electro Sigil cleared in this manner will be converted into Energy for Razor.\n\n<i>In the moment when lightning strikes, you can sometimes glimpse the look of a predator sizing up his prey deep within Razor's eyes.</i>",
+      "de": "Erledigt seine Beute mithilfe der Methoden, die ihm sein Meister und seine Familie beigebracht haben.\n\n<color=#FFD780FF>Drücken</color>\nFügt den Gegnern vor ihm mit den Klauen des Blitzwolfs <color=#FFACFFFF>Elektro-Schaden</color> zu.\nSammelt beim Treffen Gegnern ein Elektro-Siegel, das Razors Aufladerate erhöht.\nBis zu 3 Elektro-Siegel sammelbar. Aktualisiert bei weiteren Elektro-Siegeln die Dauer.\n\n<color=#FFD780FF>Gedrückt halten</color>\nKonzentriert die Kraft des Blitzes zu einer Explosion mit geringer Reichweite, verursacht hohen <color=#FFACFFFF>Elektro-Schaden </color> und entfernt vorhandene Elektro-Siegel.\nErhöht Razors Elementarenergie für jedes entfernte Elektro-Siegel.\n\n<i>Siehst du gerade in Razors Augen, während der Blitzschlag eintrifft, erhaschst du vielleicht einen Blick auf den Wolf in seinem Innern, der auf die Jagd geht.</i>",
+      "es": "#Caza su presa usando las técnicas que le enseñó su maestro y su Lupical.\n\n<color=#FFD780FF>{LAYOUT_MOBILE#Un toque}{LAYOUT_PC#Pulsar una vez}{LAYOUT_PS#Pulsar una vez}</color>\nAtaca con las garras del Lobo del Trueno, infligiendo <color=#FFACFFFF>Daño Electro</color> a los enemigos frente a Razor.\nAl golpear a un enemigo, Razor obtendrá una insignia Electro, la cual aumentará su Recarga de Energía.\nRazor puede tener hasta 3 insignias Electro al mismo tiempo. Obtener una nueva insignia Electro reiniciará su duración.\n\n<color=#FFD780FF>Mantener pulsado</color>\nReúne energía eléctrica para desatar una tormenta de rayos sobre una AdE, infligiendo una gran cantidad de <color=#FFACFFFF>Daño Electro</color>, y eliminando todas las insignias Electro de Razor.\nCada insignia Electro eliminada de esta manera se convertirá en Energía Elemental.\n\n<i>En el momento en que cae el rayo , a veces se puede ver en lo más profundo de los ojos de Razor la mirada de un depredador observando a su presa.</i>",
+      "fr": "Razor met à profit les enseignements de son maître et de son lupical pour chasser sa proie.\n\n<color=#FFD780FF>Appui simple</color>\nD'un coup de griffe du loup du tonnerre, il inflige des <color=#FFACFFFF>DGT Électro</color> aux ennemis en face.\nRazor obtient un sceau Électro lorsque cette attaque touche un ennemi ; chaque sceau lui confère un bonus de recharge d'énergie.\nRazor peut cumuler jusqu'à 3 sceaux Électro ; chaque nouveau sceau réinitialise leur durée.\n\n<color=#FFD780FF>Appui long</color>\nAmassant la puissance du tonnerre, Razor libère une explosion électrique, infligeant d'importants <color=#FFACFFFF>DGT Électro</color> aux ennemis proches, et supprimant tous les sceaux Électro.\nChaque sceau ainsi supprimé est converti en énergie élémentaire.\n\n<i>Parfois un malheureux peut apercevoir à la lueur de l'éclair le regard de prédateur de Razor.</i>",
+      "pt": "Caça sua presa usando as técnicas ensinadas para ele por seu mestre e seu Lupical.\n\n<color=#FFD780FF>Pressionar</color>\nBalança suas Garras de Lobo do Trovão, causando <color=#FFACFFFF>Dano Electro</color> nos inimigos em frente do Razor.\nAo atacar um inimigo, Razor ganha um Selo Electro que aumenta sua taxa de Recarga de Energia.\nRazor pode ter até 3 Selos Electro simultaneamente, e ganhando um novo Selo Electro recarrega sua duração.\n\n<color=#FFD780FF>Manter pressionado</color>\nReúne energia Electro para desencadear uma tempestade de raios em uma pequena AdE, causando <color=#FFACFFFF>Dano Electro</color> massivo, e removendo todos os Selos Electro de Razor.\nCada Selo Electro removido dessa maneira será convertido em Energia para o Razor.\n\n<i>É quando relâmpagos caem que às vezes você pode ver de relance o olhar de um predador, analisando sua presa profundamente dentro dos olhos do Razor.</i>",
+      "ru": "Выслеживает жертву, используя приёмы и методы, которые он узнал от своего учителя и своей стаи.\n\n<color=#FFD780FF>Быстрое нажатие:</color>\nУдар когтями громового волка, наносящий <color=#FFACFFFF>Электро урон</color> врагам впереди.\nПри попадании Рэйзор получает символ Электро, который увеличивает скорость восстановления его энергии.\nРэйзор может иметь до 3 символов Электро одновременно. Получение нового значка Электро обнуляет их длительность.\n\n<color=#FFD780FF>Долгое нажатие:</color>\nСобирает энергию Электро и на небольшой площади вызывает грозу, которая наносит огромный <color=#FFACFFFF>Электро урон</color>, отнимая все накопленные символы Электро. Каждый отнятый символ конвертируется в энергию для Рэйзора.\n\n<i>Когда бьёт молния, глубоко в глазах Рэйзора вы можете увидеть, как хищник, живущий в нём, оценивает свою добычу.</i>",
+      "id": "Memburu mangsanya dengan teknik yang diajarkan oleh keluarganya dan Lupical.\n\n<color=#FFD780FF>Tekan</color>\nMengayunkan Thunder Wolf Claw, mengakibatkan <color=#FFACFFFF>Electro DMG</color> ke musuh di depan Razor.\nSaat mengenai musuh, Razor akan mendapatkan Electro Sigil yang meningkatkan kecepatan Energy Recharge.\nRazor dapat memiliki paling banyak 3 Electro Sigil dalam waktu bersamaan, dan mendapatkan Electro Sigil baru akan memutar ulang durasi mereka.\n\n<color=#FFD780FF>Tahan</color>\nMengumpulkan Electro Energy untuk mengerahkan badai petir dalam area kecil, mengakibatkan <color=#FFACFFFF>Electro DMG</color> yang besar dan mengonsumsi seluruh Electro Sigil milik Razor.\nSetiap Electro Sigil yang digunakan dengan cara ini akan dikonversi menjadi Energy untuk Razor.\n\n<i>Pada saat petir menyambar, kamu dapat melihat mata Razor yang sedang mengamati mangsanya.</i>",
+      "th": "#ใช้สิ่งที่อาจารย์และ \"ครอบครัว\" ของเขาสอนเพื่อแก้ไขปัญหาในการล่า\n\n<color=#FFD780FF>{LAYOUT_MOBILE#แตะ}{LAYOUT_PC#กด}{LAYOUT_PS#กด}</color>\nกวัดแกว่งกรงเล็บของหมาป่าสายฟ้า ไปข้างหน้าเพื่อสร้าง<color=#FFACFFFF>ความเสียหายไฟฟ้า</color>\nหากโจมตีโดนศัตรูจะเป็นการเก็บ ลูกแก้วไฟฟ้า (Electro Sigil) ให้แก่ Razor หนึ่งลูกเพื่อเพิ่มประสิทธิภาพ การฟื้นฟูพลังงานให้แก่ Razor\nในเวลาเดียวกันลูกแก้วไฟฟ้าจะมีมากสุด 3 ลูก และจะรีเฟรชเวลาต่อเนื่องเมื่อ ได้ลูกแก้วไฟฟ้าลูกใหม่\n\n<color=#FFD780FF>{LAYOUT_MOBILE#แตะค้าง}{LAYOUT_PC#กดค้าง}{LAYOUT_PS#กดค้าง}</color>\nชาร์จพลังงานไฟฟ้าทำให้เกิดพายุไฟฟ้า เพื่อสร้าง<color=#FFACFFFF>ความเสียหายไฟฟ้า</color> และลบล้างลูกแก้วไฟฟ้าที่มีทิ้งไป\nทุกครั้งที่ลูกแก้วไฟฟ้าถูกลบไปแบบนี้ ล้วนจะเปลี่ยนเป็นพลังงานธาตุของ Razor ทั้งสิ้น\n\n<i>สายฟ้าฟาดผ่าลงมาในพริบตา บางครั้งจะสามารถมองเห็นแววตา ของหมาป่าลึกเข้าไปในสายฟ้านั้นได้</i>",
+      "vi": "Dùng cách mà thầy và người nhà đã dạy, để giải quyết con mồi.\n\n<color=#FFD780FF>Nhấn</color>\nVung móng vuốt của sói về phía trước, gây cho địch phía trước <color=#FFACFFFF>Sát Thương Nguyên Tố Lôi</color>.\nNếu đánh trúng kẻ địch, sẽ tạo ra một Ấn Lôi cho Razor, nâng cao hiệu quả nạp nguyên tố của Razor.\nCùng lúc chỉ xuất hiện tối đa 3 Ấn Lôi, cộng dồn sẽ làm mới thời gian kéo dài.\n\n<color=#FFD780FF>Nhấn Giữ</color>\nTích tụ sức mạnh sấm sét gây nổ quy mô nhỏ, gây lượng lớn <color=#FFACFFFF>Sát Thương Nguyên Tố Lôi</color>, và xóa bỏ Ấn Lôi đã có.\nMỗi Ấn Lôi bị xóa bỏ, đều sẽ chuyển thành năng lượng nguyên tố của Razor.\n\n<i>Trong khoảnh khắc sét đánh xuống, thi thoảng thoáng thấy sâu trong linh hồn của Razor ẩn chứa ánh mắt của sói quan sát con mồi.</i>"
+    },
+    "imgid": "s_203201"
+  },
+  {
+    "title": {
+      "zhs": "雷牙",
+      "zht": "雷牙",
+      "jp": "雷牙",
+      "ko": "뇌아",
+      "en": "Lightning Fang",
+      "de": "Blitzklauen",
+      "es": "Colmillo relámpago",
+      "fr": "Croc éclair",
+      "pt": "Dente de Relâmpago",
+      "ru": "Громовой клык",
+      "id": "Lightning Fang",
+      "th": "Lightning Fang",
+      "vi": "Răng Sét"
+    },
+    "description": {
+      "zhs": "唤醒无形的雷狼守护自己，对周围的敌人造成<color=#FFACFFFF>雷元素伤害</color>，并消耗所有雷之印，为雷泽恢复元素能量。\n雷狼存在期间，会与雷泽共同战斗。\n\n<color=#FFD780FF>雷狼</color>\n·会随雷泽的普通攻击协同攻击，造成<color=#FFACFFFF>雷元素伤害</color>；\n·提高雷泽的攻击速度、<color=#FFACFFFF>雷元素抗性</color>；\n·使雷泽免疫<color=#FFACFFFF>感电</color>反应的伤害；\n·无法施放重击；\n·提高雷泽的抗打断能力。\n\n效果将在雷泽退场时解除。\n退场时，会依据剩余的持续时间，返还至多10点元素能量。\n\n<i>狼苏醒了。狩猎的时候到了。</i>",
+      "zht": "喚醒無形的雷狼守護自己，對周圍的敵人造成<color=#FFACFFFF>雷元素傷害</color>，並消耗所有雷之印，為雷澤恢復元素能量。\n雷狼存在期間，會與雷澤共同戰鬥。\n\n<color=#FFD780FF>雷狼</color>\n·會隨雷澤的普通攻擊協力攻擊，造成<color=#FFACFFFF>雷元素傷害</color>；\n·提高雷澤的攻擊速度、<color=#FFACFFFF>雷元素抗性</color>；\n·使雷澤免疫<color=#FFACFFFF>感電</color>反應的傷害；\n·無法施放重擊。；\n·提高雷澤的抗打斷能力。\n\n效果將在雷澤退場時解除。\n退場時，會依據剩餘的持續時間，歸還至多10點元素能量。\n\n<i>狼甦醒了。狩獵的時候到了。</i>",
+      "jp": "無形の雷狼を召喚して自身を守り、周囲の敵に<color=#FFACFFFF>雷元素ダメージ</color>を与える。同時に、雷の印を消耗して自身の元素エネルギーを回復する。\n雷狼が存在している間、レザーと共に戦う。\n\n<color=#FFD780FF>雷狼</color>\n·レザーの通常攻撃に協力し、<color=#FFACFFFF>雷元素ダメージ</color>を与える。\n·レザーの攻撃速度と<color=#FFACFFFF>雷元素耐性</color>がアップする。\n·<color=#FFACFFFF>感電</color>反応によるダメージを無効化する。\n·重撃の発動が不可になる。\n·レザーの中断耐性がアップする。\n\nレザーが退場する時、効果が解除される。\n退場時、残り時間を基準に、元素エネルギーを最大10まで回復する。\n\n<i>狼は目覚め、狩りの時間がやって来た。</i>",
+      "ko": "무형의 썬더울프를 깨워 주변의 적에게 <color=#FFACFFFF>번개 원소 피해</color>를 주고 모든 번개의 인장을 소모하여 레이저의 원소 에너지를 회복한다.\n썬더울프가 존재할 때 레이저와 함께 싸운다.\n\n<color=#FFD780FF>썬더울프</color>\n·레이저가 일반 공격 시 썬더울프도 같이 공격하여 <color=#FFACFFFF>번개 원소 피해</color>를 준다.\n·레이저의 공격속도, <color=#FFACFFFF>번개 원소 내성</color>이 증가한다.\n·레이저가 <color=#FFACFFFF>감전</color> 반응의 피해를 받지 않는다.\n·강공격을 발동할 수 없다.\n·레이저의 경직 저항력이 상승한다.\n\n효과는 레이저 퇴장 시 사라진다.\n퇴장 시 잔여 지속 시간에 따라 최대 10pt의 원소 에너지를 반환한다.\n\n<i>늑대가 깨어나고 사냥의 시간이 도래했다</i>",
+      "en": "Summons the Wolf Within, which deals <color=#FFACFFFF>Electro DMG</color> to all nearby opponents. This clears all of Razor's Electro Sigils, which will be converted into Elemental Energy for him.\nThe Wolf Within will fight alongside Razor for the skill's duration.\n\n<color=#FFD780FF>The Wolf Within</color>\n·Strikes alongside Razor's normal attacks, dealing <color=#FFACFFFF>Electro DMG</color>.\n·Raises Razor's ATK SPD and <color=#FFACFFFF>Electro RES</color>.\n·Causes Razor to be immune to DMG inflicted by the <color=#FFACFFFF>Electro-Charged</color> status.\n·Disables Razor's Charged Attacks.\n·Increases Razor's resistance to interruption.\n\nThese effects end when Razor leaves the battlefield.\nWhen Razor leaves the field, a maximum of 10 Energy will be returned to him based off the duration remaining on this skill.\n\n<i>The wolf has awoken. The hunt is on.</i>",
+      "de": "Erweckt den formlosen Blitzwolf, um sich zu schützen, und fügt Gegnern in der Umgebung <color=#FFACFFFF>Elektro-Schaden</color> zu. Verbraucht alle Elektro-Siegel, um Razors Elementarenergie wiederherzustellen.\nDer Blitzwolf kämpft gemeinsam mit Razor, solange er auf dem Feld ist.\n\n<color=#FFD780FF>Blitzwolf</color>\n· Greift an, sobald Razor einen Standardangriff ausführt, und verursacht <color=#FFACFFFF>Elektro-Schaden</color>.\n· Erhöht Razors Angriffs-GSW und <color=#FFACFFFF>Elektro-WDS</color>.\n· Macht Razor immun gegen Schaden durch die Reaktion <color=#FFACFFFF>Unter Strom</color>.\n· Anwendung heftiger Schläge nicht möglich.\n· Erhöht Razors Unterbrechungs-WDS.\n\nEffekt erlischt, wenn Razor ausgewechselt wird.\nGibt bis zu 10 Punkte Elementarenergie zurück, wenn Razor während der Dauer der Fähigkeit ausgewechselt wird.\n\n<i>Der Wolf ist erwacht. Die Zeit der Jagd ist gekommen.</i>",
+      "es": "Razor invoca a su lobo interior, infligiendo <color=#FFACFFFF>Daño Electro</color> a todos los enemigos cercanos. Esto elimina todas sus insignias Electro, que se convertirán en Energía Elemental.\nEl lobo interior luchará junto a Razor mientras dure la habilidad.\n\n<color=#FFD780FF>Lobo interior</color>\n·Ataca junto a los Ataques Normales de Razor, infligiendo <color=#FFACFFFF>Daño Electro</color>.\n·Aumenta la Vel. de Ataque de Razor y su <color=#FFACFFFF>RES Electro</color>.\n·Hace que Razor sea inmune al daño que recibe por la reacción de <color=#FFACFFFF>Electrocargado</color>.\n·Desactiva los Ataques Cargados de Razor.\n·Aumenta la RES a interrupción de Razor.\n\nEstos efectos terminan cuando Razor abandona el campo de batalla.\nAl hacerlo, obtendrá una cierta cantidad de Energía Elemental en proporción a la duración restante de la habilidad. Razor solo podrá recuperar un máximo de 10 pts. de Energía de esta manera.\n\n<i>El lobo se ha despertado. La cacería está en marcha.</i>",
+      "fr": "Le loup de tonnerre qui sommeille se réveille et vient à la rescousse, infligeant des <color=#FFACFFFF>DGT Électro</color> aux ennemis proches ; ceci supprime également tous les sceaux Électro, qui sont convertis en énergie élémentaire.\nLe loup de tonnerre combat aux côtés de Razor tant qu'il est actif.\n\n<color=#FFD780FF>Loup de tonnerre</color>\n· Attaque lorsque Razor effectue une attaque normale, et inflige des <color=#FFACFFFF>DGT Électro</color> ;\n· Augmente la VIT d'attaque ainsi que la <color=#FFACFFFF>RÉS Électro</color> de Razor ;\n· Razor est immunisé aux DGT d'<color=#FFACFFFF>Électrocution</color>.\n· Attaque chargée impossible.\n· Augmente la RÉS à l'interruption de Razor.\n\nLe loup de tonnerre disparaît lorsque Razor est vaincu ou quitte le champ de bataille.\nLe temps restant est converti en énergie élémentaire (10 pts max) lorsque Razor quitte le champ de bataille.\n\n<i>Le loup s'est réveillé. L'heure de la chasse a sonné.</i>",
+      "pt": "Evoca o Lobo Interior que causa <color=#FFACFFFF>Dano Electro</color> a todos os inimigos ao redor. Isso remove todos os Selos Electro do Razor, que serão convertidos em energia elemental para ele.\nO Lobo Interior irá lutar ao lado de Razor durante o período de duração da habilidade.\n\n<color=#FFD780FF>O Lobo Interior</color>\n Ataca juntamente com os ataques normais do Razor, causando <color=#FFACFFFF>Dano Electro</color>. Aumenta a Vel. de ATQ e <color=#FFACFFFF>RES Electro</color>.\nCausa imunidade a Razor por Dano infligido pelo estado de <color=#FFACFFFF>Eletricamente Carregado</color>\nDesabilita o Ataque Carregado do Razor. Aumenta a capacidade de RES à Interrupção de Razor.\n\nEsses efeitos terminam quando Razor sai de batalha.\nQuando Razor deixa o campo, um máximo de 10 de Energia irá ser retornada para ele baseado na duração restante da habilidade.\n\n<i>O lobo acordou. A caça começou.</i>",
+      "ru": "Пробуждает внутреннего волка, который наносит <color=#FFACFFFF>Электро урон</color> всем окружающим врагам. Активация навыка отнимает все накопленные символы Электро, конвертируя их в энергию для Рэйзора.\nНа время длительности навыка волк сражается вместе с Рэйзором.\n\n<color=#FFD780FF>Внутренний волк:</color>\n· Атакует вместе с обычными атаками Рэйзора, нанося <color=#FFACFFFF>Электро урон</color>;\n· Увеличивает скорость атаки и <color=#FFACFFFF>Электро сопротивление</color> Рэйзора;\n· Даёт Рэйзору иммунитет от урона, вызванного статусом <color=#FFACFFFF>Заряжен</color>;\n· Заряженные атаки Рэйзора становятся недоступны;\n· Повышает устойчивость к прерыванию атак Рэйзора.\n\nЭти эффекты заканчиваются, когда Рэйзор покидает бой.\nКогда Рэйзор покидает бой, оставшееся время длительности навыка возвращается к нему в виде энергии. Макс. 10 ед. энергии.\n\n<i>Волк пробудился. Охота продолжается.</i>",
+      "id": "Memanggil Wolf Within untuk mengakibatkan <color=#FFACFFFF>Electro DMG</color> ke semua musuh di sekitar. Juga akan menghilangkan semua Electro Sigil milik Razor, yang akan dikonversi menjadi Energy untuknya.\nWolf Within akan bertempur bersama Razor selama durasi skill.\n\n<color=#FFD780FF>The Wolf Within</color>\n·Menyerang bersama dengan Normal Attack Razor dan mengakibatkan <color=#FFACFFFF>Electro DMG</color>;\n·Meningkatkan ATK SPD dan <color=#FFACFFFF>Electro RES</color> Razor;\n·Membuat Razor kebal terhadap DMG yang diakibatkan oleh efek <color=#FFACFFFF>Electro-Charged</color>;\n·Menonaktifkan Charged Attack milik Razor.\n\nEfek-efek ini berakhir saat Razor meninggalkan medan pertempuran.\nSaat Razor meninggalkan medan pertempuran, hingga 10 Energy akan dikembalikan kepadanya berdasarkan durasi yang tersisa dari skill ini.\n\n<i>Sang serigala telah terbangun, perburuan dimulai.</i>",
+      "th": "เรียก The Wolf Within ที่ไร้รูปร่างออกมาปกป้องตัวเอง โดยจะสร้าง<color=#FFACFFFF>ความเสียหายไฟฟ้า</color>และใช้ลูกแก้วไฟฟ้าที่มีอยู่ทั้งหมดไปเพื่อ ฟื้นฟูพลังงานธาตุให้แก่ Razor\nในช่วงเวลาที่ The Wolf Within คงอยู่จะร่วมต่อสู้ไปด้วยกันกับ Razor\n\n<color=#FFD780FF>The Wolf Within</color>\n·จะโจมตีร่วมกับการโจมตีปกติของ Razor เพื่อสร้าง<color=#FFACFFFF>ความเสียหายไฟฟ้า</color>;\n·เพิ่มความเร็วในการโจมตีของ Razor และ<color=#FFACFFFF>ความต้านทานไฟฟ้า</color>;\n·ทำให้ Razor ทนต่อความเสียหาย ของปฏิกิริยา<color=#FFACFFFF>ชาร์จไฟฟ้า</color>;\n·ไม่สามารถใช้ชาร์จโจมตีได้;\n·เพิ่มความสามารถในการต้านทาน การหยุดชะงักของ Razor \n\nเอฟเฟกต์จะหมดไปเมื่อ Razor ออกจากการต่อสู้\nเมื่อออกจากการต่อสู้ จะคืนพลังงานธาตุอย่างมากสุด 10 หน่วย ให้แก่ Razor โดยจะขึ้นอยู่กับช่วงเวลาคงอยู่ที่เหลืออยู่\n\n<i>หมาป่าได้ตื่นขึ้นแล้ว การล่าได้เริ่มต้นขึ้นแล้ว</i>",
+      "vi": "Đánh thức sói vô hình để bảo vệ bản thân, gây cho địch xung quanh <color=#FFACFFFF>Sát Thương Nguyên Tố Lôi</color>, và tiêu hao tất cả Ấn Lôi, hồi năng lượng nguyên tố cho Razor.\nTrong thời gian Sói tồn tại, sẽ chiến đấu cùng Razor.\n\n<color=#FFD780FF>Sói</color>\n·sẽ cùng Razor tấn công thường, gây <color=#FFACFFFF>Sát Thương Nguyên Tố Lôi</color>;\n·Tăng tốc độ tấn công của Razor và <color=#FFACFFFF>Kháng Nguyên Tố Lôi</color>;\n·Giúp Razor miễn nhiễm với sát thương phản ứng <color=#FFACFFFF>Điện Cảm</color>;\n·Không thể thi triển Trọng Kích;\n·Tăng khả năng chống gián đoạn cho Razor.\n\nHiệu quả sẽ mất khi Razor rời khỏi trận.\nKhi rời khỏi trận, sẽ căn cứ theo thời gian còn để hoàn trả tối đa 10 điểm Năng Lượng Nguyên Tố.\n\n<i>Sói đã tỉnh lại. Giờ đi săn đến rồi.</i>"
+    },
+    "imgid": "s_203901"
+  },
+  {
+    "title": {
+      "zhs": "觉醒",
+      "zht": "覺醒",
+      "jp": "覚醒",
+      "ko": "각성",
+      "en": "Awakening",
+      "de": "Erwachen",
+      "es": "Despertar",
+      "fr": "Éveil",
+      "pt": "Despertamento",
+      "ru": "Пробуждение",
+      "id": "Awakening",
+      "th": "Awakening",
+      "vi": "Thức Tỉnh"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>利爪与苍雷</color>的冷却时间减少18%。\n施放<color=#FFD780FF>雷牙</color>时，重置<color=#FFD780FF>利爪与苍雷</color>的冷却时间。",
+      "zht": "<color=#FFD780FF>利爪與蒼雷</color>的冷卻時間減少18%。\n施放<color=#FFD780FF>雷牙</color>時，重置<color=#FFD780FF>利爪與蒼雷</color>的冷卻時間。",
+      "jp": "<color=#FFD780FF>鋭い爪と蒼雷</color>のクールタイム-18%。\n<color=#FFD780FF>雷牙</color>を放つ時、<color=#FFD780FF>鋭い爪と蒼雷</color>のクールタイムをリセットする。",
+      "ko": "<color=#FFD780FF>날카로운 발톱과 창뢰</color>의 재사용 대기시간이 18% 감소한다.\n<color=#FFD780FF>뇌아</color> 발동 시 <color=#FFD780FF>날카로운 발톱과 창뢰</color>의 재사용 대기시간이 초기화된다",
+      "en": "Decreases <color=#FFD780FF>Claw and Thunder</color>'s CD by 18%.\nUsing <color=#FFD780FF>Lightning Fang</color> resets the CD of <color=#FFD780FF>Claw and Thunder</color>.",
+      "de": "Verkürzt die Abklingzeit von <color=#FFD780FF>Klauen und Donner</color> um 18 %.\nÜberspringt die Abklingzeit von <color=#FFD780FF>Klauen und Donner</color> bei Anwendung von <color=#FFD780FF>Blitzklauen</color>.",
+      "es": "Reduce en un 18% el TdE de <color=#FFD780FF>Garra y trueno</color>.\nAdemás, activar <color=#FFD780FF>Colmillo relámpago</color> reiniciará el TdE de <color=#FFD780FF>Garra y trueno</color>.",
+      "fr": "Réduit le TdR de <color=#FFD780FF>Griffe et tonnerre</color> de 18 %.\n<color=#FFD780FF>Croc éclair</color> réinitialise le TdR de <color=#FFD780FF>Griffe et tonnerre</color> lorsqu'il est activé.",
+      "pt": "Diminui a Recarga das <color=#FFD780FF>Garra e Trovão</color> em 18%. Usar as <color=#FFD780FF>Dente de Relâmpago</color> redefinem a Recarga da <color=#FFD780FF>Garra e Trovão</color>.",
+      "ru": "Уменьшает время отката навыка <color=#FFD780FF>Гром и когти</color> на 18%, также использование навыка <color=#FFD780FF>Громовой клык</color> полностью сбрасывает его время отката.",
+      "id": "Mengurangi 18% CD <color=#FFD780FF>Claw and Thunder</color>.\nMelancarkan <color=#FFD780FF>Lightning Fang</color> akan menyelesaikan CD <color=#FFD780FF>Claw and Thunder</color>.",
+      "th": "เวลาคูลดาวน์ของ <color=#FFD780FF>Claw and Thunder</color>ลดลง 18% \nและเมื่อใช้ <color=#FFD780FF>Lightning Fang</color> จะทำการรีเซ็ตคูลดาวน์ของ <color=#FFD780FF>Claw and Thunder</color> ทันที",
+      "vi": "Thời gian CD <color=#FFD780FF>Vuốt Và Sấm</color> giảm 18%.\nKhi thi triển <color=#FFD780FF>Răng Sét</color>, làm mới thời gian CD <color=#FFD780FF>Vuốt Và Sấm</color>."
+    },
+    "imgid": "p_202101"
+  },
+  {
+    "title": {
+      "zhs": "饥饿",
+      "zht": "饑餓",
+      "jp": "飢餓",
+      "ko": "굶주림",
+      "en": "Hunger",
+      "de": "Hunger",
+      "es": "Hambre",
+      "fr": "Famine",
+      "pt": "Fome",
+      "ru": "Голод",
+      "id": "Hunger",
+      "th": "Hunger",
+      "vi": "Đói Khát"
+    },
+    "description": {
+      "zhs": "雷泽的元素能量在50%以下时，元素充能效率提高30%。",
+      "zht": "雷澤的元素能量在50%以下時，元素充能效率提高30%。",
+      "jp": "レザーの元素エネルギーが50%以下になると、元素チャージ効率+30%。",
+      "ko": "레이저의 원소 에너지가 50% 미만일 때 원소 충전 효율이 30% 상승한다",
+      "en": "When Razor's Energy is below 50%, increases Energy Recharge by 30%.",
+      "de": "Erhöht Razors Aufladerate bei weniger als 50 % Elementarenergie um 30 %.",
+      "es": "Cuando la Energía Elemental de Razor es inferior al 50%, la Recarga de Energía aumenta en un 30%.",
+      "fr": "Razor bénéficie d'un bonus de recharge d'énergie de 30 % lorsque son énergie élémentaire est inférieure à 50 %.",
+      "pt": "Quando a Energia de Razor está abaixo de 50%, aumenta a Recarga de Energia em 30%.",
+      "ru": "Восстановление энергии Рэйзора увеличивается на 30%, когда количество его энергии опускается ниже 50%.",
+      "id": "Meningkatkan 30% Energy Recharge saat Energy Razor kurang dari 50%.",
+      "th": "เมื่อพลังงานธาตุของ Razor ลดลงต่ำกว่า 50% ประสิทธิภาพในการฟื้นฟูพลังงานจะเพิ่มขึ้น 30%",
+      "vi": "Khi năng lượng Nguyên Tố của Razor dưới 50%, hiệu quả nạp Nguyên Tố tăng 30%."
+    },
+    "imgid": "p_202201"
+  },
+  {
+    "title": {
+      "zhs": "奔狼",
+      "zht": "奔狼",
+      "jp": "奔狼",
+      "ko": "늑대의 질주",
+      "en": "Wolvensprint",
+      "de": "Laufender Wolf",
+      "es": "Velocidad de lobo",
+      "fr": "Vélocité lupine",
+      "pt": "Corrida de Lobos",
+      "ru": "Вольфенспринт",
+      "id": "Wolvensprint",
+      "th": "Wolvensprint",
+      "vi": "Lang"
+    },
+    "description": {
+      "zhs": "队伍中自己的角色冲刺消耗的体力降低20%。\n无法与效果完全相同的固有天赋叠加。",
+      "zht": "隊伍中自己的角色衝刺消耗的體力降低20%。\n無法與效果完全相同的固有天賦疊加。",
+      "jp": "チーム内の自身のキャラクター全員がダッシュに消費するスタミナ-20%。\n同じ効果を持つ固有天賦との重ね掛け不可。",
+      "ko": "파티 내 자신의 캐릭터의 대시 시 소모하는 스태미나가 20% 감소한다.\n같은 효과의 고유 특성과 중첩되지 않는다",
+      "en": "Decreases sprinting Stamina consumption for your own party members by 20%.\nNot stackable with Passive Talents that provide the exact same effects.",
+      "de": "Verringert die beim Rennen verbrauchte Ausdauer aller eigenen Truppenmitglieder um 20 %.\nNicht mit passiven Talenten mit völlig gleichen Effekten stapelbar.",
+      "es": "Disminuye en un 20% el Coste de Aguante al esprintar de todos los miembros de tu equipo.\nNo se puede acumular con otros talentos pasivos que tengan los mismos efectos.",
+      "fr": "Réduit la consommation d'endurance des personnages de l'équipe de 20 % lors du sprint.\nNe peut pas être cumulé avec d'autres aptitudes passives aux effets identiques.",
+      "pt": "Diminui o consumo de Stamina ao Correr de todos os seus personagens em 20%.\nNão acumulável com Talentos Passivos que concedem exatamente os mesmos efeitos.",
+      "ru": "Уменьшает потребление выносливости активного персонажа во время спринта на 20%.\nНе суммируется с пассивными талантами, дающими точно такие же эффекты.",
+      "id": "Mengurangi 20% konsumsi Stamina karakter sendiri saat berlari.\nEfek tidak dapat ditumpuk dengan Talenta Pasif lain yang memiliki efek yang sama.",
+      "th": "ลดอัตราการเสียพลังกายจากการวิ่ง ให้ตัวละครของตนเองที่อยู่ในทีมลง 20%\nไม่สามารถซ้อนทับพรสวรรค์ติดตัวที่เอฟเฟกต์เหมือนกันทุกประการได้",
+      "vi": "Giảm 20% tiêu hao thể lực khi xung kích cho nhân vật trong đội của bản thân.\nKhông thể cộng dồn với buff Thiên Phú cố định có cùng hiệu quả."
+    },
+    "imgid": "p_202301"
+  }
+]

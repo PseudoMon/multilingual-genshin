@@ -1,0 +1,200 @@
+[
+  {
+    "title": {
+      "zhs": "普通攻击·征涛",
+      "zht": "普通攻擊·征濤",
+      "jp": "通常攻撃·征浪",
+      "ko": "일반 공격·파도 정복",
+      "en": "Normal Attack: Oceanborne",
+      "de": "Standardangriff: Vorstoß aus der Brandung",
+      "es": "Ataque Normal: Conquista del océano",
+      "fr": "Attaque normale : Conquête des mers",
+      "pt": "Ataque Normal: Conquista do Oceano",
+      "ru": "По волнам",
+      "id": "Oceanborne",
+      "th": "โจมตีปกติ - Oceanborne",
+      "vi": "Tấn Công Thường: Đại Dương"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>普通攻击</color>\n进行至多五段的连续挥砍。\n\n<color=#FFD780FF>重击</color>\n持续消耗体力，快速进行连续的斩击。\n重击结束时，会进行一次格外有力的挥砍。\n\n<color=#FFD780FF>下落攻击</color>\n从空中下坠冲击地面，攻击下落路径上的敌人，并在落地时造成范围伤害。",
+      "zht": "<color=#FFD780FF>普通攻擊</color>\n進行至多五段的連續揮砍。\n\n<color=#FFD780FF>重擊</color>\n持續消耗體力，快速進行連續的斬擊。\n重擊結束時，會進行一次格外有力的揮砍。\n\n<color=#FFD780FF>下落攻擊</color>\n從空中下墜衝擊地面，攻擊下落路徑上的敵人，並在落地時造成範圍傷害。",
+      "jp": "<color=#FFD780FF>通常攻撃</color>\n最大5段の連続攻撃を行う。\n\n<color=#FFD780FF>重撃</color>\n持続的にスタミナを消費し、素早い連続攻撃を発動する。\n重撃が終了した時に、更に強力な攻撃を1回放つ。\n\n<color=#FFD780FF>落下攻撃</color>\n空中から落下し地面に衝撃を与える。経路上の敵を攻撃し、落下時に範囲ダメージを与える。",
+      "ko": "<color=#FFD780FF>일반 공격</color>\n검으로 최대 5번 공격한다.\n\n<color=#FFD780FF>강공격</color>\n스태미나를 지속해서 소모해 빠른 속도로 연속 베기를 발동한다.\n강공격 종료 시 추가로 한 번 더 강력하게 휘두른다.\n\n<color=#FFD780FF>낙하 공격</color>\n공중에서 땅을 내려찍어 경로상의 적을 공격하고 착지 시 범위 피해를 준다",
+      "en": "<color=#FFD780FF>Normal Attack</color>\nPerform up to 5 consecutive strikes.\n\n<color=#FFD780FF>Charged Attack</color>\nDrains Stamina over time to perform continuous slashes.\nAt the end of the sequence, perform a more powerful slash.\n\n<color=#FFD780FF>Plunging Attack</color>\nPlunges from mid-air to strike the ground, damaging opponents along the path and dealing AoE DMG upon impact.",
+      "de": "<color=#FFD780FF>Standardangriff</color>\nFührt bis zu 5 Schwünge mit dem Schwert hintereinander aus.\n\n<color=#FFD780FF>Heftiger Schlag</color>\nVerbraucht fortlaufend Ausdauer und führt mehrere Hiebe aus.\nSchwingt das Schwert am Ende mit besonders großer Wucht.\n\n<color=#FFD780FF>Angriff aus dem Fall</color>\nSchlägt beim Fallen aus der Luft auf den Boden, greift alle Gegner in der Bahn an und verursacht beim Aufkommen Flächenschaden.",
+      "es": "<color=#FFD780FF>Ataque Normal</color>\nRealiza hasta 5 tajos rápidos.\n\n<color=#FFD780FF>Ataque Cargado</color>\nConsume Aguante de manera constante para realizar golpes de espada continuos.\nCuando termina el Ataque Cargado, hará un movimiento final de dos cortes más poderosos.\n\n<color=#FFD780FF>Ataque Descendente</color>\nSe lanza desde el aire para golpear el suelo, dañando a los enemigos cercanos e infligiendo Daño en el AdE en el momento del impacto.",
+      "fr": "<color=#FFD780FF>Attaque normale</color>\nEnchaîne jusqu'à 5 coups d'épée.\n\n<color=#FFD780FF>Attaque chargée</color>\nExécute une succession d'entailles aussi rapides que tranchantes ; cette attaque consomme de l'endurance de façon continue.\nL'attaque chargée se termine sur un coup puissant.\n\n<color=#FFD780FF>Attaque plongeante</color>\nPlonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis en chemin et des DGT de zone à l'impact.",
+      "pt": "<color=#FFD780FF>Ataque Normal</color>\nRealiza até 5 golpes consecutivos.\n\n<color=#FFD780FF>Ataque Carregado</color>\nDrena Stamina ao longo do tempo para realizar cortes contínuos.\nAo final da sequência, realiza um corte ainda mais poderoso.\n\n<color=#FFD780FF>Ataque Imersivo</color>\nMergulha em pleno ar para golpear o chão, danificando inimigos em seu caminho e infligindo dano em uma AdE durante o impacto.",
+      "ru": "<color=#FFD780FF>Обычная атака:</color>\nДо пяти рубящих ударов мечом.\n\n<color=#FFD780FF>Заряженная атака:</color>\nКомбо-атака, на которую непрерывно тратится выносливость.\nПосле комбо-атаки проводит дополнительную мощную атаку мечом.\n\n<color=#FFD780FF>Атака в падении:</color>\nСтремительно падает на землю, атакуя всех врагов на пути. Приземлившись, наносит урон по площади.",
+      "id": "<color=#FFD780FF>Normal Attack</color>\nMelancarkan hingga 5 serangan berturut-turut.\n\n<color=#FFD780FF>Charged Attack</color>\nTerus menguras Stamina untuk melancarkan tebasan berkelanjutan.\nDiakhiri dengan sebuah tebasan yang kuat.\n\n<color=#FFD780FF>Plunging Attack</color>\nMenerjang dari udara untuk menghantam tanah, menyerang semua musuh di jalurnya dan mengakibatkan DMG area saat mendarat.",
+      "th": "<color=#FFD780FF>โจมตีปกติ</color>\nโจมตีต่อเนื่องมากสุดห้าครั้ง\n\n<color=#FFD780FF>ชาร์จโจมตี</color>\nใช้พลังกายต่อเนื่อง เพื่อฟันโจมตีติดต่อกันอย่างรวดเร็ว\nเมื่อชาร์จโจมตีสิ้นสุดลง จะทำการฟันอย่างรุนแรงเพิ่มอีกหนึ่งครั้ง\n\n<color=#FFD780FF>โจมตีพุ่งลงจากอากาศ</color>\nกระโจนจากกลางอากาศลงมายังพื้นดิน เพื่อโจมตีศัตรูที่อยู่ในเส้นทางการโจมตี โดยจะสร้างความเสียหายวงกว้างเมื่อลงถึงพื้น",
+      "vi": "<color=#FFD780FF>Tấn Công Thường</color>\nThực hiện tối đa 5 lần chém liên tiếp.\n\n<color=#FFD780FF>Trọng Kích</color>\nDuy trì tiêu hao thể lực, chém nhanh liên tiếp.\nSau khi Trọng Kích kết thúc, sẽ bổ một nhát cực mạnh.\n\n<color=#FFD780FF>Tấn Công Khi Đáp</color>\nĐáp xuống đất từ trên không, tấn công kẻ địch trên đường, đồng thời gây sát thương phạm vi khi chạm đất."
+    },
+    "imgid": "s_243101"
+  },
+  {
+    "title": {
+      "zhs": "捉浪",
+      "zht": "捉浪",
+      "jp": "浪追い",
+      "ko": "파도잡이",
+      "en": "Tidecaller",
+      "de": "Wellenfänger",
+      "es": "Invocadora de mareas",
+      "fr": "Invocation des marées",
+      "pt": "Invocadora da Maré",
+      "ru": "Призыв волны",
+      "id": "Tidecaller",
+      "th": "Tidecaller",
+      "vi": "Bắt Sóng"
+    },
+    "description": {
+      "zhs": "没有什么好担心的。如果有人敢对她或她的人出手，那就以雷电与大剑十倍奉还。\n\n<color=#FFD780FF>点按</color>\n积聚雷之力，猛烈向前挥舞大剑，造成<color=#FFACFFFF>雷元素伤害</color>。\n\n<color=#FFD780FF>长按</color>\n举起武器形成护盾，伤害吸收量受益于北斗的生命值上限。\n松开技能或持续时间结束时，会挥舞大剑释放积攒的力量进行攻击，造成<color=#FFACFFFF>雷元素伤害</color>。依据技能期间受到攻击的次数，提高释放时造成的伤害。触发2次达到最高伤害加成。\n护盾具有如下效果：\n·对<color=#FFACFFFF>雷元素伤害</color>有250%的吸收效果；\n·施放的瞬间，为北斗施加<color=#FFACFFFF>雷元素附着</color>。\n\n<i>渺渺征船，追电捉浪。</i>",
+      "zht": "沒有什麼好擔心的。如果有人敢對她或她的人出手，那就以雷電與大劍十倍奉還。\n\n<color=#FFD780FF>點按</color>\n匯聚雷之力，猛烈向前揮舞大劍，造成<color=#FFACFFFF>雷元素傷害</color>。\n\n<color=#FFD780FF>長按</color>\n舉起武器形成護盾，傷害吸收量受益於北斗的生命值上限。\n鬆開技能或持續時間結束時，會揮舞大劍釋放累積的力量進行攻擊，造成<color=#FFACFFFF>雷元素傷害</color>。依據技能期間受到攻擊的次數，提高釋放時造成的傷害。觸發2次達到最高傷害加成。\n護盾具有如下效果：\n·對<color=#FFACFFFF>雷元素傷害</color>有250%的吸收效果；\n·施放的瞬間，為北斗施加<color=#FFACFFFF>雷元素附著</color>。\n\n<i>渺渺征船，追電捉浪。</i>",
+      "jp": "心配することはない。彼女や彼女の仲間に手を出す者がいた場合、彼女は雷と大剣で十倍返しにする。\n\n<color=#FFD780FF>一回押し</color>\n雷の力を凝集させ、前方に大剣を振り、<color=#FFACFFFF>雷元素ダメージ</color>を与える。\n\n<color=#FFD780FF>長押し</color>\n武器をシールドとして使う、ダメージ吸収量は北斗のHP上限によって決まる。\n元素スキルボタンを離す、またはスキル継続時間終了時、大剣を振り回して攻撃を行い、<color=#FFACFFFF>雷元素ダメージ</color>を与える。スキル期間中に受けた攻撃の回数により、与えるダメージを最大2回までアップさせる。\nシールドには下記の効果がある。\n·<color=#FFACFFFF>雷元素ダメージ</color>に対して250%の吸収効果がある。\n·スキル発動時、北斗に<color=#FFACFFFF>雷元素付着</color>効果を付与する。\n\n<i>果てしない海に船を出し、雷を追い、浪を捕まえる。</i>",
+      "ko": "걱정할 필요 없다. 만약 그녀와 그녀의 사람에게 손을 대면 뇌전과 대검으로 10배로 갚아줄 것이다.\n\n<color=#FFD780FF>짧은 터치</color>\n번개의 힘을 모아 전방에 대검을 맹렬하게 휘둘러 <color=#FFACFFFF>번개 원소 피해</color>를 준다.\n\n<color=#FFD780FF>홀드</color>\n무기를 들어 보호막을 생성한다. 피해 흡수량은 북두 HP 최대치의 영향을 받는다.\n스킬 버튼에 손을 떼거나 지속시간이 끝나면 대검을 휘둘러 축적한 힘을 방출해 공격하여 <color=#FFACFFFF>번개 원소 피해</color>를 준다. 스킬을 시전하는 동안 피격된 횟수에 따라 적에게 가하는 피해가 상승한다.\n보호막은 아래의 효과를 가진다:\n·<color=#FFACFFFF>번개 원소 피해</color>에 대해 250%의 흡수 효과가 있다.\n·시전하는 순간 북두에게 <color=#FFACFFFF>번개 원소를 부착</color>한다.\n\n<i>망망대해를 가로지르는 선박이 번개를 쫓고 파도를 잡는다</i>",
+      "en": "#Nothing to worry about. Should anyone raise a hand against her or her men, she will avenge it ten-fold with sword and thunder.\n\n<color=#FFD780FF>{LAYOUT_MOBILE#Tap}{LAYOUT_PC#Press}{LAYOUT_PS#Press}</color>\nAccumulating the power of lightning, Beidou swings her blade forward fiercely, dealing <color=#FFACFFFF>Electro DMG</color>.\n\n<color=#FFD780FF>Hold</color>\nLifts her weapon up as a shield. Max DMG absorbed scales off Beidou's Max HP.\nAttacks using the energy stored within the greatsword upon release or once this ability's duration expires, dealing <color=#FFACFFFF>Electro DMG</color>. DMG dealt scales with the number of times Beidou is attacked in the skill's duration. The greatest DMG Bonus will be attained once this effect is triggered twice.\nThe shield possesses the following properties:\n·Has 250% <color=#FFACFFFF>Electro DMG</color> Absorption Efficiency.\n·Applies the <color=#FFACFFFF>Electro element</color> to Beidou upon activation.\n\n<i>Conquer the high seas! Pursue the waves and chase the storm!</i>",
+      "de": "Es gibt nichts zu befürchten. Denn sollte es jemand wagen, ihr zu nahe zu kommen, wird sie es ihm zehnfach mit ihrem Schwert und ihrer Elektro-Kraft zurückzahlen.\n\n<color=#FFD780FF>Drücken</color>\nKonzentriert die Elektro-Kraft, wirbelt das Großschwert wild nach vorn und verursacht <color=#FFACFFFF>Elektro-Schaden</color>.\n\n<color=#FFD780FF>Gedrückt halten</color>\nHebt die Waffe an, um sie als Schutzschild zu verwenden und Schaden basierend auf Beidous max. LP abzuhalten.\nWirbelt das Großschwert bei Loslassen oder Ablauf der Dauer mit der angestauten Kraft, schlägt zu und verursacht <color=#FFACFFFF>Elektro-Schaden</color>. Erhöht den beim Zuschlagen verursachten Schaden je nach Anzahl erlittener Angriffe während der Wirkungsdauer. Erreicht nach 2 Anwendungen den höchsten SCH-Bonus.\nEffekte des Schildes:\n· Hält bei <color=#FFACFFFF>Elektro-Schaden</color> 250 % ab.\n· Verleiht Beidou beim Zuschlagen das <color=#FFACFFFF>Elektro-Attribut</color>.\n\n<i>Reite auf den Wellen und ergreife die Blitze.</i>",
+      "es": "#No hay nada de que preocuparse. Si alguien levanta una mano contra ella o sus hombres, ella se vengará diez veces con su espada y el trueno.\n\n<color=#FFD780FF>{LAYOUT_MOBILE#Un toque}{LAYOUT_PC#Pulsar una vez}{LAYOUT_PS#Pulsar una vez}</color>\nTras acumular el poder del rayo, Beidou ataca ferozmente con su espada, infligiendo <color=#FFACFFFF>Daño Electro</color>.\n\n<color=#FFD780FF>Mantener pulsado</color>\nBeidou levanta su arma para crear un escudo cuya absorción de daño aumenta en proporción a su Vida Máx.\nTras liberar la habilidad, o cuando termine su duración, contraatacará con la energía almacenada dentro de su gran espada, infligiendo <color=#FFACFFFF>Daño Electro</color>. El daño infligido aumenta en proporción al número de veces que Beidou sea atacada mientras dure la habilidad. El bono de daño máximo se obtendrá una vez que este efecto se active dos veces.\nEl escudo posee las siguientes características:\n·Tiene un 250% de eficiencia de absorción de <color=#FFACFFFF>Daño Electro</color>.\n·Al activarse, aplica el <color=#FFACFFFF>elemento Electro</color> sobre Beidou.\n\n<i>¡Conquista el océano, persigue la tormenta e invoca las mareas!</i>",
+      "fr": "N'ayez crainte. Que quelqu'un ose s'en prendre à Beidou ou aux siens, et sa lame et le tonnerre lui feront payer au centuple.\n\n<color=#FFD780FF>Appui simple</color>\nBeidou concentre le pouvoir de la foudre sur son épée, et exécute un coup violent qui inflige aux ennemis en face des <color=#FFACFFFF>DGT Électro</color>.\n\n<color=#FFD780FF>Appui long</color>\nBeidou brandit son arme, qu'elle utilise comme bouclier. La quantité de DGT absorbés est proportionnelle aux PV max de Beidou.\nLorsque vous relâchez la compétence ou que celle-ci prend fin, Beidou brandit sa longue épée et effectue une contre-attaque libérant toute l'énergie accumulée, infligeant des <color=#FFACFFFF>DGT Électro</color>.\nLes DGT infligés augmentent en fonction du nombre d'attaques subies par Beidou pendant la durée de la compétence. Le bonus de DGT maximum est atteint lorsque l'effet est déclenché deux fois.\nLe bouclier a les propriétés suivantes :\n· A 250 % d'efficacité contre les <color=#FFACFFFF>DGT Électro</color>.\n· Applique l'<color=#FFACFFFF>élément Électro</color> à Beidou à l'activation.\n\n<i>À l'assaut des mers ! À la poursuite des vagues et de la tempête !</i>",
+      "pt": "Nada com que se deva preocupar. Se alguém levantar uma mão contra ela ou contra os seus homens, ela se vingará dez vezes mais com espada e trovão.\n\n<color=#FFD780FF>Pressionar</color>\nAcumulando o poder dos raios, Beidou balança sua lâmina para frente ferozmente, causando <color=#FFACFFFF>Dano Electro</color>.\n\n<color=#FFD780FF>Manter pressionado</color>\nLevanta sua arma como um escudo. Dano Máximo absorvido aumenta conforme a Vida Máxima de Beidou.\nAtaca usando a energia armazenada no Espadão ao soltar ou quando a duração da habilidade expira, causando <color=#FFACFFFF>Dano Electro</color>. Dano causado aumenta com o número de vezes em que Beidou é atacada ao longo da duração da habilidade. O maior Bônus de Dano será atingido quando esse efeito for desencadeado duas vezes.\nO escudo possui as seguintes propriedades:\nTem 250% de eficiência em absorção de <color=#FFACFFFF>Dano Electro</color>\nAplica o <color=#FFACFFFF>Elemento Electro</color> para a Beidou ao ativar.\n\n<i>Conquistar o alto-mar! Seguir as ondas e perseguir a tempestade!</i>",
+      "ru": "Обидчик десять раз пожалеет о том, что связался с Бэй Доу и её командой.\n\n<color=#FFD780FF>Быстрое нажатие:</color>\nНакапливая силу молнии, Бэй Доу яростно поднимает свой меч, нанося <color=#FFACFFFF>Электро урон</color>.\n\n<color=#FFD780FF>Долгое нажатие:</color>\nБэй Доу поднимает свой меч в качестве щита. Количество поглощаемого урона зависит от макс. HP Бэй Доу.\nПосле окончания или прерывания навыка взмахивает мечом, высвобождая накопленную в нём энергию, и наносит <color=#FFACFFFF>Электро урон</color>.\nУрон увеличивается в зависимости от количества полученных во время навыка ударов. Два полученных удара дают максимальный бонус урона.\nЩит Бэй Доу обладает следующими свойствами:\n· <color=#FFACFFFF>Электро урон</color> поглощается на 250% эффективнее;\n· В момент активации накладывает на Бэй Доу <color=#FFACFFFF>эффект Электро</color>.\n\n<i>Покорите танцующие волны и сверкающие молнии безбрежных морей!</i>",
+      "id": "Tidak ada yang perlu dikhawatirkan. Jika ada yang mengangkat tangan melawan dia atau anak buahnya, dia akan membalasnya sepuluh kali lipat dengan pedang dan petir.\n\n<color=#FFD780FF>Tekan</color>\nDengan akumulasi listrik, Beidou mengayunkan pedangnya dengan garang, mengakibatkan <color=#FFACFFFF>Electro DMG</color>.\n\n<color=#FFD780FF>Tahan</color>\nMengangkat senjata dan menggunakannya sebagai perisai. Max DMG yang tertahan meningkat seiring dengan Max HP Beidou.\nSaat dilepas atau saat durasi skill selesai, menyerang dengan energi yang tersimpan di dalam pedang, mengakibatkan <color=#FFACFFFF>Electro DMG</color>.\nDMG serangan meningkat berdasarkan jumlah serangan yang diterima selama skill berlangsung. Bonus DMG akan tercapai saat skill terpicu dua kali.\nPerisainya memiliki efek berikut:\n·Memiliki 250% ketahanan terhadap <color=#FFACFFFF>Electro DMG</color>.\n·Memberikan <color=#FFACFFFF>elemen Electro</color> kepada Beidou saat skill diaktifkan.\n\n<i>Taklukkan deru lautan! Kendarai ombak dan terjanglah badai!</i>",
+      "th": "#ไม่มีอะไรต้องเป็นห่วง หากมีใครกล้า ที่จะแตะต้องเธอหรือคนของเธอ ผู้นั้นจะต้องได้รับบทเรียนของสายฟ้า และดาบยักษ์คืนเป็นสิบเท่าอย่างแน่นอน\n\n<color=#FFD780FF>{LAYOUT_MOBILE#แตะ}{LAYOUT_PC#กด}{LAYOUT_PS#กด}</color>\nรวบรวมพลังไฟฟ้าและฟันออกไป ข้างหน้าอย่างรุนแรงด้วยดาบขนาดยักษ์ เกิดเป็น<color=#FFACFFFF>ความเสียหายไฟฟ้า</color>\n\n<color=#FFD780FF>{LAYOUT_MOBILE#แตะค้าง}{LAYOUT_PC#กดค้าง}{LAYOUT_PS#กดค้าง}</color>\nยกอาวุธขึ้นมาเป็นเกราะป้องกัน โดยปริมาณการดูดซับความเสียหายจะขึ้นอยู่กับพลังชีวิตสูงสุดของ Beidou\nเมื่อปลดสกิลออกหรือหมดช่วงเวลา ต่อเนื่อง จะทำการโจมตีด้วยดาบยักษ์ ที่เต็มไปด้วยพลังที่รวบรวมเอาไว้ เพื่อสร้าง<color=#FFACFFFF>ความเสียหายไฟฟ้า</color> ซึ่งความรุนแรงของความเสียหายที่สร้าง จะขึ้นอยู่กับจำนวนครั้งการโจมตีที่ได้รับขณะใช้สกิล โดยโบนัสความเสียหายสูงสุด จะเกิดขึ้นเมื่อปลดปล่อยเอฟเฟกต์นี้ 2 ครั้ง\nโล่ป้องกันจะมีเอฟเฟกต์ดังนี้:\n·มีเอฟเฟกต์การดูดซับ <color=#FFACFFFF>ความเสียหายไฟฟ้า</color> 250%;\n·ทันทีที่ปลดปล่อยออกไปจะเพิ่ม การ<color=#FFACFFFF>ติดสถานะธาตุไฟฟ้า</color>ให้แก่ Beidou\n\n<i>โอบล้อมด้วยทะเล ตามหาเกลียวคลื่นและสายฟ้า</i>",
+      "vi": "Không có gì phải lo lắng. Nếu có ai dám ra tay với cô hoặc người của cô, thì sẽ phải trả giá gấp 10 lần bằng sấm sét và kiếm.\n\n<color=#FFD780FF>Nhấn</color>\nTích tụ sức mạnh sấm sét, chém mạnh kiếm lớn về phía trước, gây <color=#FFACFFFF>Sát Thương Nguyên Tố Lôi</color>.\n\n<color=#FFD780FF>Nhấn Giữ</color>\nNhấc vũ khí lên hình thành khiên, hấp thụ lượng sát thương căn cứ theo giới hạn HP của Beidou.\nSau khi thả giữ kỹ năng hoặc hết thời gian, sẽ vung kiếm giải phóng sức mạnh tích lũy để phản công, gây <color=#FFACFFFF>Sát Thương Nguyên Tố Lôi</color>. Dựa vào số lần bị tấn công trong thời gian kỹ năng, tăng sát thương tạo thành. Kích hoạt 2 lần sẽ đạt buff sát thương cao nhất.\nKhiên có hiệu quả như sau:\n·Đối với <color=#FFACFFFF>Sát Thương Nguyên Tố Lôi</color> có 250% hiệu quả hấp thu;\n·Khi thi triển, có thêm <color=#FFACFFFF>Nguyên Tố Lôi kèm theo</color> cho Beidou.\n\n<i>Thuyền Meo Meo đuổi theo sóng biển.</i>"
+    },
+    "imgid": "s_243201"
+  },
+  {
+    "title": {
+      "zhs": "斫雷",
+      "zht": "斫雷",
+      "jp": "雷斫り",
+      "ko": "작뢰",
+      "en": "Stormbreaker",
+      "de": "Blitzbrecher",
+      "es": "Quebrantatormentas",
+      "fr": "Brisure d'orage",
+      "pt": "Quebrador de Tempestades",
+      "ru": "Крушитель бури",
+      "id": "Stormbreaker",
+      "th": "Stormbreaker",
+      "vi": "Chước Lôi"
+    },
+    "description": {
+      "zhs": "重忆斩灭海山巨兽之战，唤起巨兽与雷电的力量，创造环绕自身的雷兽之盾，并对周围的敌人造成<color=#FFACFFFF>雷元素伤害</color>。\n\n<color=#FFD780FF>雷兽之盾</color>\n·普通攻击与重击命中时，释放雷电之力，引来1道能在敌人之间跃动的闪雷，造成<color=#FFACFFFF>雷元素伤害</color>；\n·提高角色的抗打断能力，并降低受到的伤害。\n\n每秒至多触发1道闪雷。\n\n<i>赫赫雷来，斫灭海山。</i>",
+      "zht": "重憶斬滅海山巨獸之戰，喚起巨獸與雷電的力量，創造環繞自身的雷獸之盾，並對周圍的敵人造成<color=#FFACFFFF>雷元素傷害</color>。\n\n<color=#FFD780FF>雷獸之盾</color>\n·普通攻擊與重擊命中時，釋放雷電之力，引來一道能在敵人之間躍動的閃雷，造成<color=#FFACFFFF>雷元素傷害</color>；\n·提高角色的抗打斷能力，並降低受到的傷害。\n\n每秒至多觸發一道閃雷。\n\n<i>赫赫雷來，斫滅海山。</i>",
+      "jp": "巨獣海山との戦いを思い出した北斗は、巨獣と雷電の力を召喚し、雷獣の盾を作り、周囲の敵に<color=#FFACFFFF>雷元素ダメージ</color>を与える。\n\n<color=#FFD780FF>雷獣の盾</color>\n·通常攻撃と重撃が近距離の敵に命中すると、雷の力で敵の間を跳躍する稲妻を発生させ、敵に<color=#FFACFFFF>雷元素ダメージ</color>を与える。\n·キャラクターの中断耐性をアップさせ、受けるダメージを軽減する。\n\n稲妻発生の効果は一秒に1回のみ。\n\n<i>雷来たり、海山を滅す。</i>",
+      "ko": "해산 괴수를 물리치던 전투를 회상하며 괴수와 뇌전의 힘을 동시에 깨워 뇌전 괴수의 방패를 만들어내 자신을 둘러싸고 주변의 적에게 <color=#FFACFFFF>번개 원소 피해</color>를 준다.\n\n<color=#FFD780FF>뇌전 괴수의 방패</color>\n·일반 공격과 강공격 명중 시 적들 사이를 옮겨 다니는 체인 라이트닝을 1개 발동해<color=#FFACFFFF>번개 원소 피해</color>를 준다.\n·캐릭터의 경직 저항력이 상승하고 받는 피해가 감소한다.\n\n1초마다 체인 라이트닝은 최대 1개 발동된다.\n\n<i>천둥번개가 내려치니 해산이 갈라진다</i>",
+      "en": "Recalling her slaying of the great beast Haishan, Beidou calls upon that monstrous strength and the lightning to create a Thunderbeast's Targe around herself, dealing <color=#FFACFFFF>Electro DMG</color> to nearby opponents.\n\n<color=#FFD780FF>Thunderbeast's Targe</color>\n·When Normal and Charged Attacks hit, they create a lightning discharge that can jump between opponents, dealing <color=#FFACFFFF>Electro DMG</color>.\n·Increases the character's resistance to interruption, and decreases DMG taken.\n\nA maximum of 1 lightning discharge can be triggered per second.\n\n<i>With a peal of thunder, Haishan is slain.</i>",
+      "de": "Ruft die Erinnerung an den Kampf gegen das Ungeheuer, das Meere und Berge teilte, und somit die Kraft des Ungeheuers und des Donners hervor, um einen kreisenden Donnerschild zu erschaffen und Gegnern in der Umgebung <color=#FFACFFFF>Elektro-Schaden</color> zuzufügen.\n\n<color=#FFD780FF>Donnerschild</color>\n· Erschafft bei Treffern mit Standardangriffen und heftigen Schlägen einen Kettenblitz, der zwischen den Gegnern umherspringt und <color=#FFACFFFF>Elektro-Schaden</color> verursacht.\n· Erhöht den Unterbrechungs-WDS der Figur und verringert den erlittenen Schaden.\n\nMax. 1 Kettenblitz pro Sekunde möglich.\n\n<i>Trommelnder Donner bricht herein und teilt Meere und Berge.</i>",
+      "es": "Recordando su batalla contra la gran bestia Haishan, Beidou recurre a esa monstruosa fuerza y al rayo para crear un escudo del trueno a su alrededor que inflige <color=#FFACFFFF>Daño Electro</color> a los enemigos cercanos.\n\n<color=#FFD780FF>Escudo del trueno</color>\n·Al golpear a un enemigo con Ataques Normales y Cargados, crea una descarga eléctrica que salta entre enemigos e inflige <color=#FFACFFFF>Daño Electro</color>.\n·Aumenta la RES a interrupción del personaje y reduce el daño recibido.\n\nSolo se puede provocar 1 descarga eléctrica por segundo.\n\n<i>Haishan fue asesinado con la caída de un trueno.</i>",
+      "fr": "Se remémorant son combat contre Haishan, la bête géante, Beidou fait appel à la même force destructrice, et crée un bouclier de foudre qui inflige des <color=#FFACFFFF>DGT Électro</color> aux ennemis à proximité.\n\n<color=#FFD780FF>Bouclier de foudre</color>\n· Les attaques normales et chargées, lorsqu'elles touchent, libèrent une décharge électrique qui se propage d'ennemi en ennemi et inflige des <color=#FFACFFFF>DGT Électro</color>.\n· Augmente la RÉS à l'interruption du personnage et réduit les DGT subis.\n\nAu maximum, une décharge par seconde peut être libérée.<i>Le plus puissant des éclairs peut fendre mers et montagnes.</i>",
+      "pt": "Relembrando seu abate da grande fera Haishan, Beidou clama pela força monstruosa e relâmpagos para criar um Escudo do Trovão ao seu redor, infligindo <color=#FFACFFFF>Dano Electro</color> aos inimigos próximos.\n\n<color=#FFD780FF>Escudo do Trovão</color>\nQuando Ataques Normais e Carregados atingem, eles criam uma descarga elétrica que pode saltar entre os inimigos, infligindo <color=#FFACFFFF>Dano Electro</color>.\nAumenta a resistência do personagem a interrupções e diminui o Dano recebido.\n\nNo máximo 1 descarga de relâmpago pode ser desencadeada por segundo.\n\n<i>Com o estrondo do trovão, Haishan foi derrotado.</i>",
+      "ru": "Воспоминания о битвах с древними чудовищами помогают Бэй Доу создать вокруг себя громовой щит, нанося при этом <color=#FFACFFFF>Электро урон</color> окружающим врагам.\n\n<color=#FFD780FF>Громовой щит:</color>\n· Попадания обычной и заряженной атакой запускают цепную молнию, которая прыгает с одного врага на другого и наносит им <color=#FFACFFFF>Электро урон</color>;\n· Повышает устойчивость персонажа к прерыванию атак и уменьшает получаемый им урон;\n· Запускает не более одной цепной молнии в секунду.\n\n<i>Сила молнии раскалывает горы и моря.</i>",
+      "id": "Dengan memanggil kembali semangat tarung saat di tengah pertarungan sengit melawan Haishan, Beidou memanggil petir dan kekuatan yang luar biasa untuk menciptakan Thunderbeast's Targe di sekelilingnya, mengakibatkan <color=#FFACFFFF>Electro DMG</color> kepada musuh di sekitarnya.\n\n<color=#FFD780FF>Thunderbeast's Targe</color>\n·Saat Normal dan Charged Attack mengenai musuh, memanggil 1 sambaran petir yang dapat melompat di antara musuh, mengakibatkan <color=#FFACFFFF>Electro DMG</color>.\n·Meningkatkan ketahanan Beidou terhadap interupsi, dan mengurangi DMG yang diterima.\n\nSambaran petir terpicu maksimum 1 kali setiap detik.\n\n<i>Dengan gemuruh petir, Haishan pun ditaklukkan.</i>",
+      "th": "ระลึกถึงการต่อสู้ของเธอกับอสูรยักษ์ Haishan เรียกความแข็งแกร่งดุจอสูร และพลังแห่งสายฟ้าออกมาเพื่อสร้าง Thunderbeast's Targe ล้อมรอบตัวเอง และสร้าง<color=#FFACFFFF>ความเสียหายไฟฟ้า</color>แก่ศัตรู ที่อยู่โดยรอบ\n\n<color=#FFD780FF>Thunderbeast's Targe</color>\n·เมื่อโจมตีปกติหรือชาร์จโจมตี ถูกเป้าหมายจะปลดปล่อยพลังไฟฟ้า และทำให้เกิดสายฟ้าวิ่งผ่านระหว่างศัตรู แต่ละตัวเพื่อสร้าง<color=#FFACFFFF>ความเสียหายไฟฟ้า</color>;\n·เพิ่มความสามารถในการต้านทาน การหยุดชะงักของตัวละครและลด ความเสียหายที่ได้รับลง\n\nทำให้เกิดสายฟ้าอย่างมาก 1 เส้น ในทุกหนึ่งวินาที\n\n<i>พลังของสายฟ้าฟาดผ่าทะเลและภูผา</i>",
+      "vi": "Nhớ lại trận chiến diệt Cự Thú Hải Sơn, triệu hồi cự thú và sức mạnh lôi điện, tạo ra Khiên Lôi Thú bao quanh, đồng thời gây <color=#FFACFFFF>Sát Thương Nguyên Tố Lôi</color> cho kẻ địch xung quanh.\n\n<color=#FFD780FF>Khiên Lôi Thú</color>\n·Khi tấn công thường và trọng kích đánh trúng địch, giải phóng sức mạnh sấm sét, tạo 1 tia sét chạy giữa địch, gây <color=#FFACFFFF>Sát Thương Nguyên Tố Lôi</color>;\n·Tăng khả năng kháng gián đoạn của nhân vật và giảm sát thương phải chịu.\n\nMỗi giây tối đa kích hoạt 1 tia sét.\n\n<i>Sấm sét chói lọi, dời non lấp bể.</i>"
+    },
+    "imgid": "s_243901"
+  },
+  {
+    "title": {
+      "zhs": "遍宇灵光",
+      "zht": "遍宇靈光",
+      "jp": "完全なる霊光",
+      "ko": "우주에 퍼지는 오로라",
+      "en": "Retribution",
+      "de": "Augenblick der Vergeltung",
+      "es": "Castigo divino",
+      "fr": "Châtiment",
+      "pt": "Retribuição",
+      "ru": "Возмездие",
+      "id": "Retribution",
+      "th": "Retribution",
+      "vi": "Hào Quang Rực Rỡ"
+    },
+    "description": {
+      "zhs": "在被攻击瞬间施放的<color=#FFD780FF>捉浪</color>反击，拥有最高伤害加成。",
+      "zht": "在被攻擊瞬間施放的<color=#FFD780FF>捉浪</color>反擊，擁有最高傷害加成。",
+      "jp": "攻撃された瞬間に発動した<color=#FFD780FF>浪追い</color>の反撃は最大ダメージアップ効果を得る。",
+      "ko": "피격 시 발동하는 <color=#FFD780FF>파도잡이</color> 반격은 최대 피해 보너스를 부여한다",
+      "en": "Counterattacking with <color=#FFD780FF>Tidecaller</color> at the precise moment when the character is hit grants the maximum DMG Bonus.",
+      "de": "<color=#FFD780FF>Wellenfänger</color> verursacht bei Anwendung als Gegenschlag im Augenblick des Erleidens eines Angriffs maximalen Schaden.",
+      "es": "Contraatacar con <color=#FFD780FF>Invocadora de mareas</color> en el momento preciso de ser golpeada otorga el máximo bono de daño posible.",
+      "fr": "La contre-attaque d'<color=#FFD780FF>Invocation des marées</color> inflige le maximum de DGT lorsqu'elle est exécutée juste après une attaque.",
+      "pt": "Ao atacar com <color=#FFD780FF>Invocadora da Maré</color> no exato momento em que o personagem é atingido, concede o bônus de Dano máximo.",
+      "ru": "Идеальная контратака навыком <color=#FFD780FF>Призыв волны</color> даёт максимальный бонус урона.",
+      "id": "Membalas serangan menggunakan <color=#FFD780FF>Tidecaller</color> tepat saat serangan mengenai karakter akan memberikan Bonus DMG maksimum.",
+      "th": "เมื่อปล่อยการโจมตีกลับด้วย <color=#FFD780FF>Tidecaller</color> จะได้รับโบนัสความเสียหายสูงสุด",
+      "vi": "Khi <color=#FFD780FF>Bắt Sóng</color> phản đòn vào đúng lúc nhân vật bị tấn công, sẽ có buff sát thương cao nhất."
+    },
+    "imgid": "p_242101"
+  },
+  {
+    "title": {
+      "zhs": "霹雳连霄",
+      "zht": "霹靂連霄",
+      "jp": "満天の霹靂",
+      "ko": "하늘의 벽력",
+      "en": "Lightning Storm",
+      "de": "Donnern am Firmament",
+      "es": "Tormenta eléctrica",
+      "fr": "Tempête de coups de tonnerre",
+      "pt": "Tormenta Elétrica",
+      "ru": "Гром и молния",
+      "id": "Lightning Storm",
+      "th": "Lightning Storm",
+      "vi": "Sấm Sét Đầy Trời"
+    },
+    "description": {
+      "zhs": "施放拥有最高伤害加成的<color=#FFD780FF>捉浪</color>后的10秒内，获得如下效果：\n·普通攻击与重击造成的伤害提高15%，攻击速度提高15%；\n·大幅减少重击需要的准备时间。",
+      "zht": "施放擁有最高傷害加成的<color=#FFD780FF>捉浪</color>後的10秒內，獲得以下效果：\n·普通攻擊與重擊造成的傷害提升15%，攻擊速度提高15%；\n·大幅減少重擊需要的準備時間。",
+      "jp": "最大ダメージアップ効果のある<color=#FFD780FF>浪追い</color>を発動した後の10秒間、下記の効果が発動される。\n·通常攻撃と重撃の攻撃速度+15%、攻撃ダメージ+15%。\n·重撃に必要な時間が大幅に減少する。",
+      "ko": "최대 피해 보너스를 가진 <color=#FFD780FF>파도잡이</color>를 발동한 후 10초 동안 아래의 효과를 획득한다:\n·일반 공격과 강공격으로 가하는 피해가 15% 증가하고 공격속도가 15% 증가한다.\n·강공격에 필요한 준비 시간이 대폭 줄어든다",
+      "en": "Gain the following effects for 10s after unleashing <color=#FFD780FF>Tidecaller</color> with its maximum DMG Bonus: \n·DMG dealt by Normal and Charged Attacks is increased by 15%. ATK SPD of Normal and Charged Attacks is increased by 15%.\n·Greatly reduced delay before unleashing Charged Attacks.",
+      "de": "Effekte bis 10 s nach Anwendung von <color=#FFD780FF>Wellenfänger</color> mit höchstem SCH-Bonus:\n· Erhöht den mit Standardangriffen und heftigen Schlägen verursachten Schaden um 15 % und die Angriffs-GSW um 15 %.\n· Verringert die Vorbereitungszeit für heftige Schläge enorm.",
+      "es": "Al lanzar <color=#FFD780FF>Invocadora de mareas</color> con el máximo bono de daño posible, obtendrás los siguientes efectos durante 10 s:\n·Aumenta en un 15% el daño y la Vel. de Ataque Normal y de Ataque Cargado.\n·Reduce considerablemente el tiempo de preparación de los Ataques Cargados.",
+      "fr": "<color=#FFD780FF>Invocation des marées</color> confère pendant 10 s les effets suivants lorsque cette aptitude est exécutée avec le maximum de bonus de DGT :\n· Les attaques normales et chargées infligent 15 % de DGT supplémentaires.\n· La VIT des attaques normales et chargées augmente de 15 %.\n· Réduit considérablement le temps de préparation des attaques chargées.",
+      "pt": "Obtém os seguintes efeitos por 10s após lançar a <color=#FFD780FF>Invocadora da Maré</color> com seu bônus máximo de Dano:\nO Dano causado pelos Ataques Normais e Carregados aumentam em 15%. A Vel. de Ataque dos Ataques Normais ou Carregados são aumentados em 15%.\nReduz grandemente o atraso antes de lançar Ataques Carregados.",
+      "ru": "В течение 10 сек. после идеального парирования навыком <color=#FFD780FF>Призыв волны</color>, Бэй Доу получает следующие эффекты:\n· Увеличивается урон обычной и заряженной атаки на 15%, а также скорость атаки на 15%;\n·Значительно уменьшается время, необходимое для активации заряженной атаки.",
+      "id": "Selama 10 detik setelah menggunakan skill <color=#FFD780FF>Tidecaller</color> dengan Bonus DMG maksimum, Beidou akan mendapatkan efek:\n·Meningkatkan 15% DMG yang diakibatkan oleh Normal Attack dan Charged Attack. Meningkatkan 15% ATK SPD Normal Attack dan Charged Attack.\n·Mengurangi waktu persiapan Charged Attack secara pesat.",
+      "th": "หลังจากปล่อย <color=#FFD780FF>Tidecaller</color> ที่มีโบนัสความเสียหายสูงสุด ภายใน 10 วินาที จะได้รับเอฟเฟกต์ดังนี้\n·การโจมตีปกติและชาร์จโจมตี สร้างความเสียหายเพิ่มขึ้น 15% และความเร็วในการโจมตีเพิ่มขึ้น 15%\n·ลดเวลาที่ต้องใช้ในการเตรียม ชาร์จโจมตีลงอย่างมาก",
+      "vi": "Trong 10s sau khi thi triển <color=#FFD780FF>Bắt Sóng</color> có buff sát thương cao nhất, nhận được hiệu quả như sau:\nSát thương trọng kích và tấn công thường tạo thành tăng 15%, tốc độ tấn công tăng 15%;\nGiảm thời gian chuẩn bị cần thiết cho trọng kích."
+    },
+    "imgid": "p_242201"
+  },
+  {
+    "title": {
+      "zhs": "拥涛踏潮",
+      "zht": "擁濤踏潮",
+      "jp": "怒濤踏み",
+      "ko": "조수의 정복자",
+      "en": "Conqueror of Tides",
+      "de": "Gebieter über die Gezeiten",
+      "es": "Conquistadora de mareas",
+      "fr": "Braveuse de marée",
+      "pt": "Conquistadora das Marés",
+      "ru": "Покоритель волн",
+      "id": "Conqueror of Tides",
+      "th": "Conqueror of Tides",
+      "vi": "Sóng Vỗ Dào Dạt"
+    },
+    "description": {
+      "zhs": "队伍中自己的角色游泳消耗的体力降低20%。\n无法与效果完全相同的固有天赋叠加。",
+      "zht": "隊伍中自己的角色游泳消耗的體力降低20%。\n無法與效果完全相同的固有天賦疊加。",
+      "jp": "チーム内の自身のキャラクター全員が泳ぎに消費するスタミナ-20%。\n同じ効果を持つ固有天賦との重ね掛け不可。",
+      "ko": "파티 내 자신의 캐릭터의 헤엄 시 소모하는 스태미나가 20% 감소한다.\n같은 효과의 고유 특성과 중첩되지 않는다",
+      "en": "Decreases swimming Stamina consumption for your own party members by 20%.\nNot stackable with Passive Talents that provide the exact same effects.",
+      "de": "Verringert die beim Schwimmen verbrauchte Ausdauer aller eigenen Truppenmitglieder um 20 %.\nNicht mit passiven Talenten mit völlig gleichen Effekten stapelbar.",
+      "es": "Disminuye en un 20% el Coste de Aguante al nadar de todos los miembros de tu equipo.\nNo se puede acumular con otros talentos pasivos que tengan los mismos efectos.",
+      "fr": "Réduit la consommation d'endurance de vos personnages dans l'équipe de 20 % lors de la nage.\nNe peut pas être cumulé avec d'autres aptitudes passives aux effets identiques.",
+      "pt": "Diminui o consumo de Stamina ao Nadar de todos os seus personagens em 20%.\nNão acumulável com Talentos Passivos que concedem exatamente os mesmos efeitos.",
+      "ru": "Уменьшает потребление выносливости активного персонажа во время плавания на 20%.\nНе суммируется с пассивными талантами, дающими точно такие же эффекты.",
+      "id": "Mengurangi 20% konsumsi Stamina Karakter sendiri saat berenang.\nEfek tidak dapat ditumpuk dengan Talenta Pasif lain dengan efek yang sama.",
+      "th": "ลดอัตราการเสียพลังกายจากการว่ายน้ำ ให้ตัวละครของตนเองที่อยู่ในทีมลง 20%\nไม่สามารถซ้อนทับพรสวรรค์ติดตัวที่เอฟเฟกต์เหมือนกันทุกประการได้",
+      "vi": "Giảm 20% tiêu hao thể lực khi bơi cho nhân vật trong đội của bản thân.\nKhông thể cộng dồn với buff Thiên Phú cố định có cùng hiệu quả."
+    },
+    "imgid": "p_242301"
+  }
+]

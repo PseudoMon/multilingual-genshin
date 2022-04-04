@@ -1,0 +1,200 @@
+[
+  {
+    "title": {
+      "zhs": "普通攻击·古华剑法",
+      "zht": "普通攻擊·古華劍法",
+      "jp": "通常攻撃·古華剣法",
+      "ko": "일반 공격·고화 검법",
+      "en": "Normal Attack: Guhua Style",
+      "de": "Standardangriff: Guhua-Stil",
+      "es": "Ataque Normal: Técnica de espada Guhua",
+      "fr": "Attaque normale : Style Guhua",
+      "pt": "Ataque Normal: Estilo Guhua",
+      "ru": "Стиль Гухуа",
+      "id": "Normal Attack: Guhua Style",
+      "th": "โจมตีปกติ - Guhua Style",
+      "vi": "Tấn Công Thường: Cổ Hoa Kiếm Pháp"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>普通攻击</color>\n进行至多五段的连续剑击。\n\n<color=#FFD780FF>重击</color>\n消耗一定体力，瞬间向前方挥出两剑。\n\n<color=#FFD780FF>下落攻击</color>\n从空中下坠冲击地面，攻击下落路径上的敌人，并在落地时造成范围伤害。",
+      "zht": "<color=#FFD780FF>普通攻擊</color>\n進行至多五段的連續劍擊。\n\n<color=#FFD780FF>重擊</color>\n消耗一定體力，瞬間向前方揮出兩劍。\n\n<color=#FFD780FF>下落攻擊</color>\n從空中下墜衝擊地面，攻擊下落路徑上的敵人，並在落地時造成範圍傷害。",
+      "jp": "<color=#FFD780FF>通常攻撃</color>\n剣による最大5段の連続攻撃を行う。\n\n<color=#FFD780FF>重撃</color>\n一定のスタミナを消費し、前方に斬撃を2回放つ。\n\n<color=#FFD780FF>落下攻撃</color>\n空中から落下し地面に衝撃を与える。経路上の敵を攻撃し、落下時に範囲ダメージを与える。",
+      "ko": "<color=#FFD780FF>일반 공격</color>\n검으로 최대 5번 공격한다.\n\n<color=#FFD780FF>강공격</color>\n일정 스태미나를 소모해 순간적으로 전방을 향해 검을 2번 휘두른다.\n\n<color=#FFD780FF>낙하 공격</color>\n공중에서 땅을 내려찍어 경로상의 적을 공격하고, 착지 시 범위 피해를 준다",
+      "en": "<color=#FFD780FF>Normal Attack</color>\nPerform up to 5 rapid strikes.\n\n<color=#FFD780FF>Charged Attack</color>\nConsumes a certain amount of Stamina to unleash 2 rapid sword strikes.\n\n<color=#FFD780FF>Plunging Attack</color>\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+      "de": "<color=#FFD780FF>Standardangriff</color>\nFührt bis zu 5 Schwerthiebe hintereinander aus.\n\n<color=#FFD780FF>Heftiger Schlag</color>\nVerbraucht eine gewisse Menge Ausdauer und schwingt das Schwert zweimal schnell nach vorn.\n\n<color=#FFD780FF>Angriff aus dem Fall</color>\nSchlägt beim Fallen aus der Luft auf den Boden, greift alle Gegner in der Bahn an und verursacht beim Aufkommen Flächenschaden.",
+      "es": "<color=#FFD780FF>Ataque Normal</color>\nRealiza hasta 5 ataques rápidos.\n\n<color=#FFD780FF>Ataque Cargado</color>\nConsume una cierta cantidad de Aguante para lanzar un golpe de espada cruzado.\n\n<color=#FFD780FF>Ataque Descendente</color>\nSe lanza desde el aire para golpear el suelo, dañando a los enemigos cercanos e infligiendo Daño en el AdE en el momento del impacto.",
+      "fr": "<color=#FFD780FF>Attaque normale</color>\nEnchaîne jusqu'à 5 coups d'épée.\n\n<color=#FFD780FF>Attaque chargée</color>\nConsomme de l'endurance pour déclencher deux coups d'épée rapides.\n\n<color=#FFD780FF>Attaque plongeante</color>\nPlonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis en chemin et des DGT de zone à l'impact.",
+      "pt": "<color=#FFD780FF>Ataque Normal</color>\nRealiza até 5 golpes rápidos.\n\n<color=#FFD780FF>Ataque Carregado</color>\nConsome uma certa quantidade de Stamina para desferir 2 golpes rápidos com a espada.\n\n<color=#FFD780FF>Ataque Imersivo</color>\nMergulha em pleno ar para golpear o chão, causando dano aos inimigos ao longo do caminho e infligindo Dano em uma AdE durante o impacto.",
+      "ru": "<color=#FFD780FF>Обычная атака:</color>\nДо пяти быстрых ударов мечом.\n\n<color=#FFD780FF>Заряженная атака:</color>\nДва быстрых взмаха мечом, для которых тратится определённое количество выносливости.\n\n<color=#FFD780FF>Атака в падении:</color>\nСтремительно падает на землю, атакуя всех врагов на пути. Приземлившись, наносит урон по площади.",
+      "id": "<color=#FFD780FF>Normal Attack</color>\nMelancarkan hingga 5 serangan berturut-turut.\n\n<color=#FFD780FF>Charged Attack</color>\nMengonsumsi sejumlah Stamina untuk melancarkan dua tebasan pedang.\n\n<color=#FFD780FF>Plunging Attack</color>\nMenerjang dari udara untuk menghantam tanah, mengakibatkan DMG pada musuh di jalur terjangan dan mengakibatkan DMG area saat mendarat.",
+      "th": "<color=#FFD780FF>โจมตีปกติ</color>\nโจมตีด้วยดาบต่อเนื่องมากสุดห้าครั้ง\n\n<color=#FFD780FF>ชาร์จโจมตี</color>\nใช้พลังกายส่วนหนึ่งเพื่อปลดปล่อยดาบ ออกไปข้างหน้าสองเล่มในช่วงเวลาสั้น ๆ\n\n<color=#FFD780FF>โจมตีพุ่งลงจากอากาศ</color>\nกระโจนจากกลางอากาศลงมายังพื้นดิน เพื่อโจมตีศัตรูที่อยู่ในเส้นทางการโจมตี โดยจะสร้างความเสียหายวงกว้างเมื่อลงถึงพื้น",
+      "vi": "<color=#FFD780FF>Tấn Công Thường</color>\nThực hiện tối đa 5 lần đánh kiếm liên tiếp.\n\n<color=#FFD780FF>Trọng Kích</color>\nTiêu hao thể lực nhất định, đánh ra hai kiếm về phía trước trong chớp mắt.\n\n<color=#FFD780FF>Tấn Công Khi Đáp</color>\nĐáp xuống đất từ trên không, tấn công kẻ địch trên đường và gây sát thương phạm vi khi chạm đất."
+    },
+    "imgid": "s_253101"
+  },
+  {
+    "title": {
+      "zhs": "古华剑·画雨笼山",
+      "zht": "古華劍·畫雨籠山",
+      "jp": "古華剣·画雨籠山",
+      "ko": "고화검·화우농산",
+      "en": "Guhua Sword: Fatal Rainscreen",
+      "de": "Guhua-Schwert – Wolkenbruch",
+      "es": "Espada Guhua: Lluvia torrencial mortal",
+      "fr": "Épée Guhua : Pluie battante",
+      "pt": "Espada de Guhua: Chuva Torrencial",
+      "ru": "Гухуа: Завеса дождя",
+      "id": "Guhua Sword: Fatal Rainscreen",
+      "th": "Guhua Sword · Fatal Rainscreen",
+      "vi": "Cổ Hoa Kiếm - Họa Vũ Lung Sơn"
+    },
+    "description": {
+      "zhs": "使出连续两段的剑技，对前方的敌人造成<color=#80C0FFFF>水元素伤害</color>。同时，生成最大数量的雨帘剑围绕在当前场上自己的角色身边。\n具有如下特性：\n·角色受到伤害时会破碎，降低受到的伤害；\n·提高角色的抗打断能力。\n行秋<color=#80C0FFFF>水元素伤害加成</color>的20%将转换为雨帘剑的额外伤害减免。\n\n最多通过这种方式获得24%额外伤害减免。\n初始雨帘剑的最大数量为3柄。\n施放的瞬间，为角色施加<color=#80C0FFFF>潮湿</color>状态。\n\n<i>「蛟龙易斩，雨线难画」。</i>",
+      "zht": "使出連續兩段的劍技，對前方的敵人造成<color=#80C0FFFF>水元素傷害</color>。同時，製造最大數量的雨簾劍圍繞在當前場上自己的角色身邊。\n具有如下特性：\n·角色受到傷害時會破碎，降低受到的傷害；\n·提高角色的抗打斷能力。\n行秋<color=#80C0FFFF>水元素傷害加成</color>的20%將轉換為雨簾劍的額外傷害減免。\n\n最多透過這種方式獲得24%額外傷害減免。\n初始雨簾劍的最大數量為三柄。\n施放的瞬間，為角色施加<color=#80C0FFFF>潮濕</color>狀態。\n\n<i>「蛟龍易斬，雨線難畫」。</i>",
+      "jp": "2段連続の攻撃を仕掛け、前方の敵に<color=#80C0FFFF>水元素ダメージ</color>を与え、出場している自身のキャラクターの周りに最大本数の「雨すだれの剣」を生成する。\n「雨すだれの剣」は以下の特性を持つ。\n·キャラクターが攻撃を受ける時、「雨すだれの剣」が破壊される代わりに、キャラクターが受けるダメージを減少させる。\n·キャラクターの中断耐性をアップする。\n行秋の<color=#80C0FFFF>水元素ダメージアップ</color>の20%分は「雨すだれの剣」のダメージ軽減効果に転換される。\n\n最大24%のダメージ軽減効果を得られる。\n「雨すだれの剣」の初期最大数は3本。\n発動した瞬間、キャラクターに<color=#80C0FFFF>湿潤</color>状態を付与する。\n\n<i>「蛟竜斬り易く、雨描き難し。」</i>",
+      "ko": "연속으로 검을 두 번 휘둘러 전방의 적에게 <color=#80C0FFFF>물 원소 피해</color>를 주고 현재 필드에 있는 캐릭터 주변을 맴도는 최대 수량의 우렴검을 생성한다.\n우렴검은 아래의 특성을 가진다:\n·캐릭터가 피격 시 우렴검은 파괴되고 받는 피해가 감소한다.\n·캐릭터의 경직 저항력이 상승한다.\n행추 <color=#80C0FFFF>물 원소 피해 보너스</color>의 20%가 우렴검의 추가 피해 감면으로 전환된다.\n\n이런 방식을 통해 최대 24%의 추가 피해 감면 효과를 획득할 수 있다.\n초기 우렴검은 최대 3개 생성된다.\n발동하는 순간 캐릭터에게 <color=#80C0FFFF>습기</color> 효과를 부여한다.\n\n<i>「교룡 베기는 쉬우나, 빗줄기를 그리긴 어렵다」</i>",
+      "en": "Xingqiu performs twin strikes with his sword, dealing <color=#80C0FFFF>Hydro DMG</color>. At the same time, this ability creates the maximum number of Rain Swords, which will orbit your active character.\nThe Rain Swords have the following properties:\n·When a character takes DMG, the Rain Sword will shatter, reducing the amount of DMG taken.\n·Increases the character's resistance to interruption.\n20% of Xingqiu's <color=#80C0FFFF>Hydro DMG Bonus</color> will be converted to additional DMG Reduction for the Rain Swords.\n\nThe maximum amount of additional DMG Reduction that can be gained this way is 24%.\nThe initial maximum number of Rain Swords is 3.\nUsing this ability applies the <color=#80C0FFFF>Wet</color> status onto the character.\n\n<i>\"Easier to slay a rain dragon than to sever the rain.\"</i>",
+      "de": "Greift zweimal mit dem Schwert an und fügt gegenüberstehenden Gegnern <color=#80C0FFFF>Hydro-Schaden</color> zu. Erstellt die Höchstzahl an Regenschwertern, die die aktuelle eigene Figur umkreisen.\nMerkmale:\n· Wird bei Erleiden von Schaden zerstört und verringert den erlittenen Schaden.\n· Erhöht den Unterbrechungs-WDS der Figur.\n20 % von Xingqius <color=#80C0FFFF>Hydro-SCH-Bonus</color> werden zusätzlich zu Schadensminderung der Regenschwerter umgewandelt.\n\nBis zu 24 % zusätzliche Schadensminderung auf diese Weise möglich.\nAnfänglich bis zu 3 Regenschwerter möglich.\nVerleiht der Figur bei Anwendung den Zustand <color=#80C0FFFF>Nass</color> .\n\n<i>„Drachen sind einfacher zu zerteilen als der Regen.“</i>",
+      "es": "Xingchiu realiza dos golpes consecutivos con su espada, infligiendo <color=#80C0FFFF>Daño Hydro</color>. Al mismo tiempo, esta habilidad crea la máxima cantidad posible de espadas de lluvia, las cuales orbitarán alrededor del personaje en uso.\nLas espadas de lluvia tienen las siguientes características:\n·Cuando el personaje recibe daño, una espada de lluvia se romperá, reduciendo la cantidad de daño recibido.\n·Aumenta la RES a interrupción del personaje.\nUn 20% del <color=#80C0FFFF>Bono de Daño Hydro</color> de Xingchiu se convertirá en reducción de daño adicional de las espadas de lluvia.\n\nLa cantidad máxima de reducción de daño que se puede obtener de esta manera es del 24%.\nEl número máximo inicial de espadas de lluvia es de 3.\nEl uso de esta habilidad aplica el estado de <color=#80C0FFFF>Mojado</color> sobre el personaje.\n\n<i>“Es más fácil degollar a un dragón que cortar la lluvia”</i>.",
+      "fr": "Lance une succession de 2 coups d'épée qui infligent des <color=#80C0FFFF>DGT Hydro</color> aux ennemis en face. Dans le même temps, le personnage déployé s'entoure du nombre maximum d'épées de pluie.\nLes épées de pluie ont les propriétés suivantes :\n· Les épées se brisent lorsque Xingqiu subit des DGT et ce faisant réduisent les DGT subis.\n· Augmentent la RÉS à l'interruption du personnage.\n20 % du <color=#80C0FFFF>bonus de DGT Hydro</color> de Xingqiu est converti en réduction de DGT supplémentaire par les épées de pluie.\n\nJusqu'à 24 % de réduction de DGT supplémentaire peut être obtenue de cette manière.\nXingqiu commence avec 3 épées de pluie maximum.\nApplique l'état <color=#80C0FFFF>Trempé</color> à Xingqiu lors du lancement.\n\n<i>« Le dragon est facile à vaincre, mais la goutte de pluie est insaisissable. »</i>.",
+      "pt": "Xingqiu realiza ataques duplos com sua espada, causando <color=#80C0FFFF>Dano Hydro</color>. Ao mesmo tempo, essa habilidade cria o número máximo de Espadas de Chuva, que orbitarão o seu próprio personagem.\nAs Espadas de Chuva têm as seguintes propriedades:\nQuando um personagem recebe Dano, a Espada de Chuva se despedaça, reduzindo a quantidade de Dano recebido.\nAumenta a resistência do personagem à interrupção.\n20% do <color=#80C0FFFF>Dano Hydro Adicional</color> de Xingqiu será convertido em Redução de Dano adicional para as Espadas de Chuva.\n\nA quantidade máxima de adicional da Redução de Dano que pode ser obtida é de 24%.\nO número máximo inicial de Espadas de Chuva é 3.\nO uso dessa habilidade aplica o estado de <color=#80C0FFFF>Molhado</color> ao personagem.\n\n<i>\"É Mais fácil matar um dragão da chuva do que cortar a chuva.\"</i>",
+      "ru": "Син Цю выполняет два удара мечом, которые наносят <color=#80C0FFFF>Гидро урон</color>. В то же время, активация навыка создаёт максимальное количество Мечей дождя, которые вращаются вокруг вашего персонажа.\nМечи дождя имеют следующие свойства:\n· Понижают получаемый персонажем урон, но каждая полученная атака уничтожает один меч;\n· Повышают устойчивость к прерыванию атак;\n· 20% <color=#80C0FFFF>бонуса Гидро урона</color> Син Цю конвертируются в количество поглощаемого урона.\n\nТаким способом макс. количество поглощаемого урона может быть увеличено до 24%.\nНачальное макс. количество Мечей дождя равно трём.\nАктивация этого навыка накладывает на персонажа статус <color=#80C0FFFF>Мокрый</color>.\n\n<i>«Легче убить дракона, чем сражаться с дождём».</i>",
+      "id": "Xingqiu mengayunkan pedangnya dua kali, mengakibatkan <color=#80C0FFFF>Hydro DMG</color> kepada musuh di hadapannya. Pada saat bersamaan, skill ini akan menciptakan Rain Sword dalam jumlah maksimum yang akan mengitari karakter.\nRain Sword memiliki karakteristik berikut:\n·Saat karakter menerima DMG, Rain Sword akan hancur dan mengurangi DMG yang diterima;\n·Meningkatkan ketahanan karakter terhadap interupsi.\nSebanyak 20% dari <color=#80C0FFFF>Hydro DMG Bonus</color> milik Xingqiu akan dikonversi menjadi DMG Reduction tambahan untuk Rain Sword.\n\nJumlah maksimum DMG Reduction tambahan yang bisa didapatkan dengan cara ini adalah 24%.\nJumlah maksimum Rain Sword di awal adalah 3.\nMenggunakan skill ini akan mengenakan efek <color=#80C0FFFF>Wet</color> pada karakter.\n\n<i>\"Lebih mudah mengalahkan naga air daripada membelah air hujan.\"</i>",
+      "th": "โจมตีฟันต่อเนื่องสองครั้ง สร้าง<color=#80C0FFFF>ความเสียหายน้ำ</color>แก่ศัตรูที่อยู่ตรงหน้า ขณะเดียวกันจะสร้าง Rain Sword จำนวนสูงสุดขึ้นมารอบ ๆ ตัวละครของตนเองที่เข้าต่อสู้ในขณะนั้น\nRain Sword มีคุณสมบัติดังนี้:\n·จะแตกเมื่อตัวละครได้รับความเสียหาย โดยจะลดความเสียหายที่ได้รับลง;\n·เพิ่มความสามารถใน การต้านทานการหยุดชะงักของตัวละคร\n20% ของ<color=#80C0FFFF>โบนัสความเสียหายน้ำ</color>ของ Xingqiu จะเปลี่ยนเป็นการลด ความเสียหายเพิ่มเติมของ Rain Swords\n\nลดความเสียหายเพิ่มเติมด้วยวิธีนี้ได้มากสุด 24%\nจำนวนมากสุดในตอนเริ่มของ Rain Sword คือ 3 เล่ม\nทันทีที่ปล่อยออกมาจะทำให้ตัวละครติดสถานะ<color=#80C0FFFF>เปียกชุ่ม</color>\n\n<i>\"มันง่ายกว่าที่จะฟันมังกรแทนที่จะผ่าสายฝน\"</i>",
+      "vi": "Thi triển hai đợt kiếm, gây <color=#80C0FFFF>Sát Thương Nguyên Tố Thủy</color> cho địch phía trước. Đồng thời, tạo ra \"Vũ Liêm Kiếm\" với số lượng tối đa bay xung quanh nhân vật của bản thân trong trận hiện tại.\nĐặc tính:\n·Khi nhân vật chịu sát thương sẽ vỡ và giảm sát thương phải chịu; \n·Tăng khả năng kháng gián đoạn của nhân vật\n20% <color=#80C0FFFF>buff Sát Thương Nguyên Tố Thủy</color> của Xingqiu sẽ chuyển đổi thành giảm sát thương của Vũ Liêm Kiếm.\n\nThông qua cách này tối đa sẽ được 24% giảm sát thương thêm.\nSố lượng Vũ Liêm Kiếm ban đầu nhiều nhất là 3.\nTrong thời gian thi triển, tạo trạng thái <color=#80C0FFFF>Ẩm Ướt</color> cho nhân vật.\n\n<i>\"Giao Long dễ trảm, mưa rơi khó vẽ\".</i>"
+    },
+    "imgid": "s_253201"
+  },
+  {
+    "title": {
+      "zhs": "古华剑·裁雨留虹",
+      "zht": "古華劍·裁雨留虹",
+      "jp": "古華剣·裁雨留虹",
+      "ko": "고화검·재우유홍",
+      "en": "Guhua Sword: Raincutter",
+      "de": "Guhua-Schwert – Regen und Bogen",
+      "es": "Espada Guhua: Sable de lluvia",
+      "fr": "Épée Guhua : Pluie et arc-en-ciel",
+      "pt": "Espada Guhua: Retalhador de Chuva",
+      "ru": "Гухуа: Радужная стойка",
+      "id": "Guhua Sword: Raincutter",
+      "th": "Guhua Sword · Raincutter",
+      "vi": "Cổ Hoa Kiếm - Tài Vũ Lưu Hồng"
+    },
+    "description": {
+      "zhs": "展开虹剑势，驾御幻影剑雨战斗，并生成最大数量的雨帘剑。\n\n<color=#FFD780FF>虹剑势</color>\n·当前场上自己的角色进行普通攻击时，会产生剑雨连携攻击，造成<color=#80C0FFFF>水元素伤害</color>；\n·雨帘剑的数量将始终维持在最大数量。\n\n<i>「裁雨法」不传绝学，古华镇派秘诀之一。</i>",
+      "zht": "展開虹劍勢，駕御幻影劍雨戰鬥，並製造最大數量的雨簾劍。\n\n<color=#FFD780FF>虹劍勢</color>\n·當前場上自己的角色進行普通攻擊時，會產生劍雨連攜攻擊，造成<color=#80C0FFFF>水元素傷害</color>；\n·雨簾劍的數量將始終維持在最大數量。\n\n<i>「裁雨法」不傳絕學，古華鎮派秘訣之一。</i>",
+      "jp": "虹剣勢を展開し、幻影の剣雨を使い、キャラクターに最大数の雨すだれの剣を付与する。\n\n<color=#FFD780FF>虹剣勢</color>\n·出場している自身のキャラクターの通常攻撃時に剣雨攻撃を発動し、<color=#80C0FFFF>水元素ダメージ</color>を与える。\n·雨すだれの剣の数は終始最大数をキープする。\n\n<i>「裁雨の法」、古華派秘伝の秘技の一つである。</i>",
+      "ko": "홍검세를 펼쳐 환영 검의 비를 만들어내 최대 개수의 「우렴검」을 생성한다.\n\n<color=#FFD780FF>홍검세</color>\n·현재 필드 위에 있는 자신의 캐릭터가 일반 공격 시 검의 비 연속 공격과 함께 <color=#80C0FFFF>물 원소 피해</color>를 준다.\n·「우렴검」의 개수는 항상 최대 개수를 유지한다.\n\n<i>「재우법(裁雨法)」은 남에게 전수하지 않는 고화파의 절대 비기 중 하나이다</i>",
+      "en": "Initiate Rainbow Bladework and fight using an illusory sword rain, while creating the maximum number of Rain Swords.\n\n<color=#FFD780FF>Rainbow Bladework</color>\n·Your active character's Normal Attacks will trigger consecutive sword rain attacks, dealing <color=#80C0FFFF>Hydro DMG</color>.\n·Rain Swords will remain at the maximum number throughout the ability's duration.\n\n<i>The \"Way of the Rain Cutter\" is one of the esoteric secret techniques of the Guhua Sect.</i>",
+      "de": "Wendet „Regenbogentechnik“ an, um mit Illusionsschwertern zu kämpfen, und erstellt die Höchstzahl an Regenschwertern.\n\n<color=#FFD780FF>Regenbogentechnik</color>\n· Standardangriffe der aktuellen eigenen Figur lösen aufeinanderfolgende Schwertregenangriffe aus, die <color=#80C0FFFF>Hydro-Schaden</color> verursachen.\n· Die Anzahl der Regenschwerter bleibt unverändert auf der höchsten Anzahl.\n\n<i>Die Regenschnittkunst ist eine geheime Technik der Guhua-Schule, die nicht an normale Schüler weitergegeben wird.</i>",
+      "es": "Activa la espada arcoíris y lucha con una lluvia de espadas ilusoria, a la vez que crea la máxima cantidad posible de espadas de lluvia.\n\n<color=#FFD780FF>Espada arcoíris</color>\n·Los Ataques Normales de tu personaje en uso desencadenarán una lluvia de espadas consecutiva que inflige <color=#80C0FFFF>Daño Hydro</color>.\n·Durante el efecto de esta habilidad, se mantendrá en todo momento el máximo número posible de espadas de lluvia.\n\n<i>La técnica de corte de lluvia es uno de los secretos de la Academia Guhua.</i>",
+      "fr": "Xingqiu fait appel à un déluge d'épées et combat avec une lame arc-en-ciel ; il s'entoure de plus du nombre maximum d'épées de pluie.\n\n<color=#FFD780FF>Lame arc-en-ciel</color>\n· Les attaques normales infligées par votre personnage déployé libèrent un déluge d'épées et infligent des <color=#80C0FFFF>DGT Hydro</color>.\n· Le nombre d'épées de pluie ne diminue pas.\n\n<i>La Voie des Lames de Pluie est l'un des trois secrets jalousement gardés par le Clan Guhua.</i>",
+      "pt": "Inicia o Trabalho com Lâminas do Arco-íris e luta usando uma chuva de espadas ilusórias, enquanto cria um número máximo de Chuvas de Espadas.\n\n<color=#FFD780FF>Trabalho com Lâminas do Arco-íris</color>\n·Os Ataques Normais do seu próprio personagem irão desencadear ataques consecutivos da chuva de espadas, infligindo <color=#80C0FFFF>Dano Hydro</color>.\nChuva de Espadas irá continuar no número máximo ao longo da duração da habilidade.\n\n<i>O \"Caminho do Cortador de Chuva\" é uma das técnicas esotéricas secretas da Seita Guhua.</i>",
+      "ru": "Активирует Радужную стойку и позволяет сражаться с помощью макс. количества Мечей дождя.\n\n<color=#FFD780FF>Радужная стойка:</color>\n·Обычные атаки вашего персонажа дополняются атаками Мечей дождя, которые наносят <color=#80C0FFFF>Гидро урон</color>;\n· Количество Мечей дождя остаётся постоянным на всё время действия навыка.\n\n<i>«Радужная стойка» - одна из древнейших тайных техник школы Гухуа.</i>",
+      "id": "Memulai Rainbow Bladework dan bertarung menggunakan hujanan pedang ilusi sambil menciptakan Rain Sword dalam jumlah maksimum.\n\n<color=#FFD780FF>Rainbow Bladework</color>\n·Normal Attack dari karakter yang sedang digunakan akan meluncurkan pedang air yang menyerang berturut-turut dan mengakibatkan <color=#80C0FFFF>Hydro DMG</color>;\n·Jumlah Rain Sword akan terus berada dalam jumlah maksimum selama durasi skill.\n\n<i>\"Way of the Rain Cutter\" adalah salah satu ilmu rahasia Klan Guhua.</i>",
+      "th": "เปิดใช้ Rainbow Bladework ต่อสู้โดย ใช้ภาพมายาของฝนดาบและสร้าง Rain Sword จำนวนสูงสุดขึ้นมา\n\n<color=#FFD780FF>Rainbow Bladework</color>\n·เมื่อตัวละครของตนเองที่เข้าต่อสู้ในขณะนั้นโจมตีปกติ จะทำการโจมตีด้วยฝนดาบอย่างต่อเนื่อง สร้าง<color=#80C0FFFF>ความเสียหายน้ำ</color>;\n·จำนวนของ Rain Sword จะยังคงมีจำนวนสูงสุดตลอดระยะเวลาของสกิล\n\n<i>Way of the Rain Cutter หนึ่งในเคล็ดวิชาลับที่ไม่ได้ถูกสอนต่อกันมาของ Guhua</i>",
+      "vi": "Thi triển thế kiếm cầu vồng, điều khiển ảo ảnh mưa kiếm để chiến đấu, tăng số lượng Vũ Liêm Kiếm lên mức cao nhất.\n\n<color=#FFD780FF>Kiếm Cầu Vồng</color>\n·Khi nhân vật của bản thân thi triển tấn công thường, tạo ra mưa kiếm kết hợp tấn công, gây <color=#80C0FFFF>Sát Thương Nguyên Tố Thủy</color>; \n·Số lượng Vũ Liêm Kiếm sẽ duy trì ở số lượng cao nhất.\n\n<i>[Tài Vũ Pháp] là một trong những bí kíp của phái Cổ Hoa.</i>"
+    },
+    "imgid": "s_253901"
+  },
+  {
+    "title": {
+      "zhs": "生水要诀",
+      "zht": "生水要訣",
+      "jp": "水生みの要訣",
+      "ko": "물 창조의 비결",
+      "en": "Hydropathic",
+      "de": "Hydropathie",
+      "es": "Secretos del agua",
+      "fr": "Clé d'invocation d'eau",
+      "pt": "Hidropático",
+      "ru": "Секрет текущей воды",
+      "id": "Hydropathic",
+      "th": "Hydropathic",
+      "vi": "Sinh Thủy Yêu Quyết"
+    },
+    "description": {
+      "zhs": "雨帘剑受击破碎时或持续时间结束时，基于行秋最大生命值的6%，恢复当前角色的生命值。",
+      "zht": "雨簾劍受擊破碎時或持續時間結束時，基於行秋最大生命值的6%，恢復當前角色的生命值。",
+      "jp": "雨すだれの剣が破壊、または継続時間終了時に、キャラクターのHPを行秋のHP上限の6%分回復する。",
+      "ko": "우렴검이 공격을 받아 부서지거나 지속 시간 종료 시 현재 캐릭터의 HP를 행추 HP 최대치의 6%만큼 회복한다",
+      "en": "When a Rain Sword is shattered or when its duration expires, it regenerates the current character's HP based on 6% of Xingqiu's Max HP.",
+      "de": "Stellt der aktuellen Figur bei Zerstörung eines Regenschwerts durch einen Angriff oder nach Ablauf der Wirkungsdauer LP in Höhe von 6 % der max. LP von Xingqiu wieder her.",
+      "es": "Cuando una espada de lluvia se rompe o termina su duración, el personaje en uso regenera una cantidad de Vida proporcional al 6% de la Vida Máx. de Xingchiu.",
+      "fr": "Lorsque une épée de pluie est brisée par des attaques ou se termine, elle restaure les PV du personnage déployé d'une quantité de PV équivalant à 6 % des PV max de Xingqiu.",
+      "pt": "Quando uma espada da Chuva de Espadas é quebrada ou quando sua duração acabar, regenera a Vida do personagem atual em 6% da Vida Máxima de Xingqiu.",
+      "ru": "При уничтожении или окончании действия Мечей дождя, восстанавливает HP активного персонажа на 6% от макс. HP Син Цю.",
+      "id": "Saat sebuah Rain Sword hancur atau durasinya berakhir, memulihkan HP karakter saat ini sebesar 6% Max HP Xingqiu.",
+      "th": "เมื่อ Rain Sword ถูกทำลายหรือหมดเวลาตัวละครในขณะนั้นจะได้รับการฟื้นฟูพลังชีวิต โดยจะมีปริมาณเท่ากับ 6% ของพลังชีวิตสูงสุดของ Xingqiu",
+      "vi": "Vũ Liêm Kiếm bị phá vỡ hoặc hết thời gian, dựa trên 6% HP tối đa của Xingqiu, trị liệu HP cho nhân vật hiện tại."
+    },
+    "imgid": "p_252101"
+  },
+  {
+    "title": {
+      "zhs": "虚实工笔",
+      "zht": "虛實工筆",
+      "jp": "虚実の筆",
+      "ko": "허와 실",
+      "en": "Blades Amidst Raindrops",
+      "de": "Realistischer Schreibstil",
+      "es": "Cuchillas a cántaros",
+      "fr": "Lames et gouttes de pluie",
+      "pt": "Lâminas Entre Gotas de Chuva",
+      "ru": "Красивый почерк",
+      "id": "Blades Amidst Raindrops",
+      "th": "Blades Amidst Raindrops",
+      "vi": "Ngòi Bút Thực Hư"
+    },
+    "description": {
+      "zhs": "行秋获得20%<color=#80C0FFFF>水元素伤害加成</color>。",
+      "zht": "行秋獲得20%<color=#80C0FFFF>水元素傷害加成</color>。",
+      "jp": "行秋の<color=#80C0FFFF>水元素ダメージ</color>+20%。",
+      "ko": "행추가 <color=#80C0FFFF>물 원소 피해 보너스</color>를 20% 획득한다",
+      "en": "Xingqiu gains a 20% <color=#80C0FFFF>Hydro DMG Bonus</color>.",
+      "de": "Erhöht Xingqius <color=#80C0FFFF>Hydro-Schaden</color> um 20 %.",
+      "es": "Xingchiu obtiene un 20% de <color=#80C0FFFF>Bono de Daño Hydro</color>.",
+      "fr": "Confère un <color=#80C0FFFF>bonus de DGT Hydro</color> de 20 % à Xingqiu.",
+      "pt": "Xingqiu ganha 20% de <color=#80C0FFFF>Dano Hydro Bônus</color>.",
+      "ru": "Увеличивает <color=#80C0FFFF>бонус Гидро урона</color> Син Цю на 20%.",
+      "id": "Xingqiu memperoleh 20% <color=#80C0FFFF>Hydro DMG Bonus</color>.",
+      "th": "Xingqiu ได้รับ<color=#80C0FFFF>โบนัสความเสียหายน้ำ</color>เพิ่ม 20%",
+      "vi": "Xingqiu nhận 20% <color=#80C0FFFF>buff sát thương Nguyên Tố Thủy</color>."
+    },
+    "imgid": "p_252201"
+  },
+  {
+    "title": {
+      "zhs": "灵光乍现",
+      "zht": "靈光乍現",
+      "jp": "靈光突如",
+      "ko": "번뜩이는 영감",
+      "en": "Flash of Genius",
+      "de": "Gedankenblitz",
+      "es": "Destello repentino",
+      "fr": "Illumination",
+      "pt": "Flash do Gênio",
+      "ru": "Всплеск вдохновения",
+      "id": "Flash of Genius",
+      "th": "Flash of Genius",
+      "vi": "Ánh Sáng Lấp Lánh"
+    },
+    "description": {
+      "zhs": "合成角色天赋素材时，有25%概率返还部分合成材料。",
+      "zht": "合成角色天賦素材時，有25%的機率歸還部分合成材料。",
+      "jp": "キャラクター天賦素材を合成する時、25%の確率で一部の材料が返還される。",
+      "ko": "캐릭터 특성 소재 합성 시 25%의 확률로 일부 합성 재료를 반환한다",
+      "en": "When Xingqiu crafts Character Talent Materials, he has a 25% chance to refund a portion of the crafting materials used.",
+      "de": "Gibt beim Zusammensetzen von Material für Figurentalente mit einer Wahrscheinlichkeit von 25 % einen Teil der Materialien zurück.",
+      "es": "Al fabricar materiales de talento de personaje, hay una probabilidad del 25% de recuperar los materiales usados.",
+      "fr": "25 % de chances de récupérer des ressources lors de la synthèse de matériaux d'amélioration d'aptitude.",
+      "pt": "Quando Xingqiu forja Materiais de Talento de Personagem, ele possui 25% de chance de retornar uma certa quantidade de materiais usados.",
+      "ru": "При создании материалов повышения талантов Син Цю имеет 25% шанс восстановить часть использованных материалов.",
+      "id": "Xingqiu memiliki 25% kemungkinan untuk mendapatkan kembali material yang digunakan untuk membuat Material Talenta Karakter.",
+      "th": "เมื่อสร้างวัสดุพรสวรรค์ของตัวละคร จะมีโอกาส 25% ที่จะได้รับวัสดุส่วนหนึ่งที่ใช้ไปคืน",
+      "vi": "Khi ghép nguyên liệu thiên phú nhân vật, có 25% tỷ lệ hoàn trả một phần nguyên liệu ghép."
+    },
+    "imgid": "p_252301"
+  }
+]

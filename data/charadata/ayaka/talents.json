@@ -1,0 +1,233 @@
+[
+  {
+    "title": {
+      "zhs": "普通攻击·神里流·倾",
+      "zht": "普通攻擊·神里流·傾",
+      "jp": "通常攻撃·神里流·傾き",
+      "ko": "일반 공격·카미사토류·경(傾)",
+      "en": "Normal Attack: Kamisato Art - Kabuki",
+      "de": "Standardangriff: Kamisato-Stil – Naname",
+      "es": "Ataque Normal: Estilo Kamisato - Elegancia",
+      "fr": "Attaque normale : École Kamisato - Sveltesse",
+      "pt": "Arte Kamisato: Naname",
+      "ru": "Искусство Камисато: Нанамэ",
+      "id": "Kamisato Art: Kabuki",
+      "th": "โจมตีปกติ - Kamisato Art: Kabuki",
+      "vi": "Tấn Công Thường - Trường Phái Kamisato: Naname"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>普通攻击</color>\n进行至多五段的连续剑击。\n\n<color=#FFD780FF>重击</color>\n消耗一定体力，在居合中放出连续的剑风。\n\n<color=#FFD780FF>下落攻击</color>\n从空中下坠冲击地面，攻击下落路径上的敌人，并在落地时造成范围伤害。",
+      "zht": "<color=#FFD780FF>普通攻擊</color>\n進行至多五段的連續劍擊。\n\n<color=#FFD780FF>重擊</color>\n消耗一定體力，在居合中放出連續的劍風。\n\n<color=#FFD780FF>下落攻擊</color>\n從空中下墜衝擊地面，攻擊下落路徑上的敵人，並在落地時造成範圍傷害。",
+      "jp": "<color=#FFD780FF>通常攻撃</color>\n剣による最大5段の連続攻撃を行う。\n\n<color=#FFD780FF>重撃</color>\n一定のスタミナを消費し、居合で連続した剣風を放つ。\n\n<color=#FFD780FF>落下攻撃</color>\n空中から落下し地面に衝撃を与える。経路上の敵を攻撃し、落下時に広範囲ダメージを与える。",
+      "ko": "<color=#FFD780FF>일반 공격</color>\n검으로 최대 5번 공격한다.\n\n<color=#FFD780FF>강공격</color>\n일정 스태미나를 소모해 거합 중 연속으로 검풍을 방출한다.\n\n<color=#FFD780FF>낙하 공격</color>\n공중에서 땅을 내려찍어 경로상의 적을 공격하고 착지 시 범위 피해를 준다",
+      "en": "<color=#FFD780FF>Normal Attack</color>\nPerforms up to 5 rapid strikes.\n\n<color=#FFD780FF>Charged Attack</color>\nConsumes a certain amount of Stamina to unleash a flurry of sword ki.\n\n<color=#FFD780FF>Plunging Attack</color>\nPlunges from mid-air to strike the ground below, damaging enemies along the path and dealing AoE DMG upon impact.",
+      "de": "<color=#FFD780FF>Standardangriff</color>\nFührt bis zu 5 Schwerthiebe hintereinander aus.\n\n<color=#FFD780FF>Heftiger Schlag</color>\nVerbraucht eine gewisse Menge Ausdauer und erschafft beim Schwertziehen einen kräftigen Wind.\n\n<color=#FFD780FF>Angriff aus dem Fall</color>\nSchlägt beim Fallen aus der Luft auf den Boden, greift alle Gegner in der Bahn an und verursacht beim Aufkommen Flächenschaden.",
+      "es": "<color=#FFD780FF>Ataque Normal</color>\nRealiza hasta 5 ataques rápidos.\n\n<color=#FFD780FF>Ataque Cargado</color>\nConsume una cierta cantidad de Aguante para desatar un ráfaga con su espada.\n\n<color=#FFD780FF>Ataque Descendente</color>\nSe lanza desde el aire para golpear el suelo, dañando a los enemigos cercanos e infligiendo Daño en el AdE en el momento del impacto.",
+      "fr": "<color=#FFD780FF>Attaque normale</color>\nEnchaîne jusqu'à 5 coups d'épée.\n\n<color=#FFD780FF>Attaque chargée</color>\nConsomme de l'endurance pour déclencher deux lames du vent rapides.\n\n<color=#FFD780FF>Attaque descendante</color>\nPlonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis sur la route et des DGT de zone à l'impact.",
+      "pt": "<color=#FFD780FF>Ataque Normal</color>\nRealiza até 5 golpes rápidos.\n\n<color=#FFD780FF>Ataque Carregado</color>\nConsome certa quantidade de Stamina para liberar o vento contínuo da espada.\n\n<color=#FFD780FF>Ataque Imersivo</color>\nMergulha do ar para atingir o chão abaixo, causando Dano aos inimigos ao longo do caminho e causando Dano em uma AdE no impacto.",
+      "ru": "<color=#FFD780FF>Обычная атака:</color>\nДо пяти быстрых ударов мечом.\n\n<color=#FFD780FF>Заряженная атака:</color>\nСоздаёт продолжительный град из клинков, для которого тратится определённое количество выносливости.\n\n<color=#FFD780FF>Атака в падении:</color>\nСтремительно падает на землю, атакуя всех врагов на пути. Приземлившись, наносит урон по площади.",
+      "id": "<color=#FFD780FF>Normal Attack</color>\nMelancarkan maks. 5 tebasan pedang.\n\n<color=#FFD780FF>Charged Attack</color>\nMengonsumsi sejumlah Stamina untuk terus mengerahkan rentetan tebasan.\n\n<color=#FFD780FF>Plunging Attack</color>\nMenukik dari langit dan menghantam tanah, menyerang musuh di jalurnya dan mengakibatkan DMG Area saat mendarat.",
+      "th": "<color=#FFD780FF>โจมตีปกติ</color>\nใช้ดาบโจมตีต่อเนื่องมากสุดห้าครั้ง\n\n<color=#FFD780FF>ชาร์จโจมตี</color>\nใช้พลังกายส่วนหนึ่งเพื่อปลดปล่อยคลื่นดาบผ่าอากาศออกมาโจมตีต่อเนื่อง\n\n<color=#FFD780FF>โจมตีพุ่งลงจากอากาศ</color>\nกระโจนจากกลางอากาศลงมายังพื้นดินเพื่อโจมตีศัตรูที่อยู่ในเส้นทางการโจมตี โดยจะสร้างความเสียหายวงกว้างเมื่อลงถึงพื้น",
+      "vi": "<color=#FFD780FF>Tấn công thường</color>\nThực hiện tối đa 5 lần đánh kiếm liên tiếp.\n\n<color=#FFD780FF>Trọng Kích</color>\nTiêu hao thể lực nhất định, liên tiếp phóng ra kiếm gió ở chính giữa.\n\n<color=#FFD780FF>Tấn công khi đáp</color>\nĐáp xuống đất từ trên không, tấn công kẻ địch trên đường và gây sát thương phạm vi khi chạm đất."
+    },
+    "imgid": "s_23101"
+  },
+  {
+    "title": {
+      "zhs": "神里流·冰华",
+      "zht": "神里流·冰華",
+      "jp": "神里流·氷華",
+      "ko": "카미사토류·얼음꽃",
+      "en": "Kamisato Art: Hyouka",
+      "de": "Kamisato-Stil – Hyouka",
+      "es": "Estilo Kamisato: Flor del hielo",
+      "fr": "École Kamisato : Fleur de glace",
+      "pt": "Arte Kamisato: Hyouka",
+      "ru": "Искусство Камисато: Хёка",
+      "id": "Kamisato Art: Hyouka",
+      "th": "Kamisato Art: Hyouka",
+      "vi": "Trường Phái Kamisato - Hyouka"
+    },
+    "description": {
+      "zhs": "唤起盛开的冰之华，击飞身边的敌人并造成<color=#99FFFFFF>冰元素范围伤害</color>。\n\n<i>「晴云胧月夜，妄执如雾，心野凄迷恋羁旅。」</i>",
+      "zht": "喚起盛開的冰之華，擊飛身邊的敵人並造成<color=#99FFFFFF>冰元素範圍傷害</color>。\n\n<i>「晴雲朧月夜，妄執如霧，心野淒迷戀羈旅。」</i>",
+      "jp": "氷の華を咲かせ、周囲の敵をノックバックし<color=#99FFFFFF>氷元素範囲ダメージ</color>を与える。\n\n<i>「晴雲と朧月の夜、霧のような執念を抱え、心は遠くへと旅立った。」</i>",
+      "ko": "활짝 핀 얼음꽃을 소환한 뒤 주위의 적을 공중에 띄워 <color=#99FFFFFF>얼음 원소 범위 피해</color>를 준다.\n\n<i>「맑은 구름과 희미한 달빛이 내린 밤, 집념은 안개와 같아 어지러운 마음 쓸쓸히 먼 곳을 바라보네」</i>",
+      "en": "Summons blooming ice to launch nearby opponents, dealing <color=#99FFFFFF>AoE Cryo DMG</color>.\n\n<i>\"Clouds shroud the moonlit night. Longing descends like a fog, filling the one detained with wanderlust.\"</i>",
+      "de": "Beschwört eine aufgehende Eisblüte, die Gegner in der Nähe wegschleudert und <color=#99FFFFFF>Kryo-Flächenschaden</color> verursacht.\n\n<i>„Bei helle Wolken und in nebligen Mondnächten setzt sich Verlangen nieder wie Dunst und ein einsames Herz wird von der Lust zu wandern beseelt.“</i>",
+      "es": "Invoca una flor de escarcha que lanza por los aires a los enemigos cercanos e inflige <color=#99FFFFFF>Daño Cryo en el AdE</color>.\n\n<i>Las nubes tapan el brillo de la luna\nUn anhelo desciende como la bruma\nY se apodera de mi melancólico corazón.</i>",
+      "fr": "Ayaka invoque une fleur glacée qui projette les ennemis proches, leur infligeant des <color=#99FFFFFF>DGT Cryo de zone</color>.\n\n<i>« Les nuages enveloppent la lune, le désir descend tel un brouillard, emplissant le cœur du voyageur. »</i>",
+      "pt": "Invoca uma flor gélida que lança os inimigos próximos para o ar, causando <color=#99FFFFFF>Dano Cryo em uma AdE</color>.\n\n<i>\"As nuvens cobrem a noite iluminada pela lua. A saudade cai como uma névoa, enchendo a que está contida com o desejo de vaguear.\"</i>",
+      "ru": "Призывает цветущий лёд, который подбрасывает ближайших противников в воздух и наносит им <color=#99FFFFFF>Крио урон</color>.\n\n<i>«Облака окутывают лунную ночь. Тоска опускается, словно туман, наполняя заключённого страстью к путешествиям».</i>",
+      "id": "Memanggil dan menerbangkan bunga es ke arah musuh di sekitar untuk mengakibatkan <color=#99FFFFFF>Cryo DMG Area</color>.\n\n<i>\"Awan menyelimuti langit malam yang cerah diterangi rembulan. Rasa rindu yang timbul layaknya kabut, memenuhi hati seseorang dengan keinginan tuk' mengembara.\"</i>",
+      "th": "เรียกดอกไม้น้ำแข็งที่เบ่งบานออกมา เพื่อโจมตีศัตรูที่อยู่โดยรอบให้กระเด็นและสร้าง<color=#99FFFFFF>ความเสียหายน้ำแข็งวงกว้าง</color>\n\n<i>\"หมู่เมฆกระจ่างใสในคืนเดือนหงาย ความมัวเมาเพ้อฝันดั่งสายหมอก เติมเต็มจิตใจที่ถูกกักขังด้วยความลุ่มหลงแห่งการเดินทาง\"</i>",
+      "vi": "Đánh thức đóa hoa băng nở rộ, đánh bay kẻ địch bên cạnh và gây <color=#99FFFFFF>sát thương phạm vi Nguyên Tố Băng</color>.\n\n<i>\"Mây lãng đãng, trăng nhạt nhòa, sương mù mờ ảo, trái tim say đắm miền rong ruổi.\"</i>"
+    },
+    "imgid": "s_23201"
+  },
+  {
+    "title": {
+      "zhs": "神里流·霰步",
+      "zht": "神里流·霰步",
+      "jp": "神里流·霰歩",
+      "ko": "카미사토류·싸락눈 걸음",
+      "en": "Kamisato Art: Senho",
+      "de": "Kamisato-Stil – Senho",
+      "es": "Estilo Kamisato: Senda de escarcha",
+      "fr": "École Kamisato : Sentier de givre",
+      "pt": "Arte Kamisato: Senho",
+      "ru": "Искусство Камисато: Сэнхо",
+      "id": "Kamisato Art: Senho",
+      "th": "Kamisato Art: Senho",
+      "vi": "Trường Phái Kamisato - Senho"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>替代冲刺</color>\n隐入碎冰，以消耗体力为代价，化为激流快速移动。\n\n在霰步状态下，神里绫华可以在水面上高速移动。\n结束霰步现身时，将产生如下效果：\n·释放寒冰的力量，对周围的敌人施加<color=#99FFFFFF>冰元素附着</color>；\n·将寒气凝聚在剑上，使神里绫华在短时间内获得<color=#99FFFFFF>冰元素附魔</color>。\n\n<i>「滴雫濡羽瞬消无，白鹭踏水何可怨？」</i>",
+      "zht": "<color=#FFD780FF>替代衝刺</color>\n隱入碎冰，以消耗體力為代價，化為激流快速移動。\n\n在霰步狀態下，神里綾華可以在水面上高速移動。\n結束霰步現身時，將產生如下效果：\n·釋放寒冰的力量，對周圍的敵人施加<color=#99FFFFFF>冰元素附著</color>。\n·將寒氣凝聚在劍上，使神里綾華在短時間內獲得<color=#99FFFFFF>冰元素附魔</color>。\n\n<i>「滴雫濡羽瞬消無，白鷺踏水何可怨？」</i>",
+      "jp": "<color=#FFD780FF>ダッシュの代わりに発動する</color>\n氷流に隠れて激流となり、スタミナを消費して素早く移動する。\n\n霰歩状態の神里綾華は水面上を高速移動できる。\n霰歩が終了し、姿を現した時に、下記の効果が発動される。\n·氷霜の力を放ち、周囲の敵に<color=#99FFFFFF>氷元素付着</color>を与える。\n·氷の力を剣に集中させ、一定時間<color=#99FFFFFF>氷元素付与</color>を獲得する。\n\n<i>「雫が羽を湿らせて一瞬で消えてしまうのに、白鷺は水に踏み入れただけでなぜ怨言を吐くのでしょう？」</i>",
+      "ko": "<color=#FFD780FF>대시를 대체한다.</color>\n부서진 얼음에 몸을 숨긴 후 스태미나를 소모해 빠른 속도로 이동한다.\n\n해당 상태에서 카미사토 아야카는 수면 위를 빠르게 이동할 수 있다.\n싸락눈 걸음 상태 종료 후 모습을 드러낼 때 아래의 효과가 발생한다:\n·얼음의 힘을 방출해 주변의 적에게 <color=#99FFFFFF>얼음 원소를 부착</color>한다.\n·한기를 검에 모아 카미사토 아야카는 짧은 시간 동안 <color=#99FFFFFF>얼음 원소 부여 효과</color>를 얻게 된다.\n\n<i>「물방울은 깃털을 적시고 순식간에 사라지는데, 백로가 물 위를 걷는다고 어찌 원망할 수 있겠는가?」</i>",
+      "en": "<color=#FFD780FF>Alternate Sprint</color>\nAyaka consumes Stamina and cloaks herself in a frozen fog that moves with her.\n\nIn Senho form, she moves swiftly upon water.\nWhen she reappears, the following effects occur:\n·Ayaka unleashes frigid energy to apply <color=#99FFFFFF>Cryo</color> on nearby opponents.\n·Coldness condenses around Ayaka's blade, infusing her attacks with <color=#99FFFFFF>Cryo</color> for a brief period.\n\n<i>\"Feathers fleeting wet / the white heron treads water / a sight without flaw\"</i>",
+      "de": "<color=#FFD780FF>Ersetzt Rennen</color>\nEine Bewegung so schnell wie eine Strömung unter den Eisschollen, verbraucht aber Ausdauer.\n\nKamisato Ayaka kann sich während der Wirkungsdauer von Senho mit hoher Geschwindigkeit auf der Wasseroberfläche fortbewegen.\nVerursacht beim Erscheinen am Ende von Senho folgende Effekte:\n· Nutzt die Kraft der Kälte und fügt Gegnern in der Umgebung das <color=#99FFFFFF>Kryo</color>-Attribut zu.\n· Konzentriert die Kälte auf dem Schwert, sodass Kamisato Ayaka kurzzeitig das <color=#99FFFFFF>Kryo</color>-Attribut erhält.\n\n<i>Die Wassertropfen auf den Federn des Reihers verschwinden in nur einem Augenblick. Wie schafft er es, auf dem Wasser zu laufen?</i>",
+      "es": "<color=#FFD780FF>Reemplaza a Esprintar</color>\nAyaka se oculta bajo un torrente de hielo, consumiendo su Aguante, para moverse rápidamente.\n\nCuando está bajo el efecto de Senda de escarcha, puede moverse a gran velocidad sobre el agua.\nAl reaparecer, produce los siguientes efectos:\n·Libera el gélido poder del hielo para aplicar el elemento <color=#99FFFFFF>Cryo</color> sobre los enemigos cercanos.\n·Condensa el frío en su espada, lo que la <color=#99FFFFFF>imbuye del elemento Cryo </color>durante un breve periodo de tiempo.\n\n<i>Plumas mojadas\nGarza sobre el agua\nEs la perfección.</i>",
+      "fr": "<color=#FFD780FF>Sprint alternatif</color>\nAyaka consomme de l'endurance pour se déplacer rapidement au milieu d'un brouillard de glace.\n\nSous Sentier de givre, Ayaka peut se déplacer rapidement sur l'eau.\nÀ la fin de l'état, elle réapparaît ; deux choses se produisent alors simultanément :\n· Elle libère une énergie glacée qui applique aux ennemis proches l'élément <color=#99FFFFFF>Cryo</color>.\n· Le froid se concentre sur son épée : les DGT qu'inflige cette dernière sont momentanément convertis en <color=#99FFFFFF>DGT Cryo</color>.\n\n<i>« Volent les ailes mouillées / Le héron blanc marche sur l'eau / D'une vision parfaite »</i>",
+      "pt": "<color=#FFD780FF>Corrida Alternada</color>\nAyaka consome Stamina para se esconder dentro de um rápido fluxo de granizo que se move à medida que ela se movimenta.\n\nNa forma Senho, ela se move em alta velocidade na água.\nQuando ela reaparece, os seguintes efeitos são produzidos:\n Libera uma energia fria e aplica <color=#99FFFFFF>Cryo</color> aos oponentes ao redor.\nO frio condensa ao longo da lâmina da Kamisato Ayaka, obtendo por um breve período <color=#99FFFFFF>Encantamento Cryo</color>.\n\n<i>\"Penas pairam molhadas, uma garça branca caminha sobre a água, é uma vista perfeita\".</i>",
+      "ru": "<color=#FFD780FF>Заменяет спринт</color>\nАяка потребляет выносливость и скрывается в стремительном потоке мокрого снега, который движется вместе с ней.\n\nФорма Сэнхо позволяет ей двигаться по воде с большой скоростью.\nПосле окончания формы Сэнхо и при повторном появлении происходят следующие эффекты:\n· Высвобождается холодная энергия, которая накладывает <color=#99FFFFFF>эффект Крио</color> на ближайших противников.\n· Холод собирается вдоль лезвия Аяки, на короткое время наделяя её атаки <color=#99FFFFFF>инфузией Крио</color>.\n\n<i>«Перья мокрые исчезают,\nКак же цапля может ступать по воде?»</i>",
+      "id": "<color=#FFD780FF>Alternate Sprint</color>\nAyaka mengonsumsi energi untuk bersembunyi di balik es dan salju yang mengikuti gerakannya.\n\nDalam status Senho, Ayaka akan bergerak dengan kecepatan tinggi di atas permukaan air.\nSaat Ayaka muncul kembali, efek berikut akan berlaku:\n·Melepaskan energi dingin yang menambahkan efek <color=#99FFFFFF>Cryo</color> kepada musuh di sekitar.\n·Energi dingin berkumpul di bilah pedang dan dalam waktu singkat membuat serangan Ayaka memperoleh infusi <color=#99FFFFFF>Cryo</color>.\n\n<i>\"Bulu-bulu basah yang indah menghilang dalam sekejap, sang bangau putih pun menapaki air tanpa cela.\"</i>",
+      "th": "<color=#FFD780FF>Alternate Sprint</color>\nหลบเข้าไปในรอยแยกน้ำแข็งโดยแลกกับพลังกาย เปลี่ยนเป็นกระแสน้ำและเคลื่อนที่อย่างรวดเร็ว\n\nภายใต้สภาวะของ Senho จะทำให้ Ayaka สามารถเคลื่อนที่ได้อย่างรวดเร็วเหนือผิวน้ำ\nเมื่อ Senho สิ้นสุดลงและปรากฏตัว จะทำให้เกิดเอฟเฟกต์ดังนี้:\n·ปลดปล่อยพลังของน้ำแข็ง เพื่อทำให้ศัตรูโดยรอบติดสภาวะ<color=#99FFFFFF>ธาตุน้ำแข็ง</color>;\n·จะสะสมไอเย็นไว้ที่คมดาบ ซึ่งจะทำให้ Ayaka ได้รับ<color=#99FFFFFF>พลังแห่งน้ำแข็ง</color>ในช่วงเวลาสั้น ๆ\n\n<i>\"น้ำกระเซ็นลงบนขนนกและซึมหายวับไป กระเรียนขาวที่ย่ำอยู่เหนือน้ำจะบ่นอะไรได้?\"</i>",
+      "vi": "<color=#FFD780FF>Thay thế xung kích</color>\nẨn vào vụn băng, tiêu hao thể lực để hóa thành dòng chảy cực nhanh.\n\nỞ trạng thái Senho, Kamisato Ayaka có thể di chuyển nhanh trên mặt nước.\nKhi dừng trạng thái Senho và hiện thân, sẽ sinh ra hiệu quả sau:\n·Thi triển sức mạnh hàn băng, <color=#99FFFFFF>đính kèm Nguyên Tố Băng</color> lên kẻ địch xung quanh;\n·Ngưng tụ khí lạnh trên kiếm, khiến Kamisato Ayaka nhận <color=#99FFFFFF>Nguyên Tố Băng đính kèm</color> trong thời gian ngắn.\n\n<i>\"Nước đọng trên cánh vụt tan biến, hạc trắng đạp nước oán hận chi?\"</i>"
+    },
+    "imgid": "s_23301"
+  },
+  {
+    "title": {
+      "zhs": "神里流·霜灭",
+      "zht": "神里流·霜滅",
+      "jp": "神里流·霜滅",
+      "ko": "카미사토류·멸망의 서리",
+      "en": "Kamisato Art: Soumetsu",
+      "de": "Kamisato-Stil – Soumetsu",
+      "es": "Estilo Kamisato: Devastación glacial",
+      "fr": "École Kamisato : Givre mortel",
+      "pt": "Arte Kamisato: Soumetsu",
+      "ru": "Искусство Камисато: Сомэцу",
+      "id": "Kamisato Art: Soumetsu",
+      "th": "Kamisato Art: Soumetsu",
+      "vi": "Trường Phái Kamisato - Soumetsu"
+    },
+    "description": {
+      "zhs": "以倾奇之姿汇聚寒霜，放出持续行进的霜见雪关扉。\n\n<color=#FFD780FF>霜见雪关扉</color>\n·以刀锋般尖锐的霜风持续切割触及的敌人，造成<color=#99FFFFFF>冰元素伤害</color>；\n·持续时间结束时绽放，造成<color=#99FFFFFF>冰元素范围伤害</color>。\n\n<i>「吹雪濡鹭时，积思若霜，胸底思重焉哀怜。」</i>",
+      "zht": "以傾奇之姿匯聚寒霜，放出持續行進的霜見雪關扉。\n\n<color=#FFD780FF>霜見雪關扉</color>\n·以刀鋒般尖銳的霜風持續切割觸及的敵人，造成<color=#99FFFFFF>冰元素傷害</color>。\n·持續時間結束時綻放，造成<color=#99FFFFFF>冰元素範圍傷害</color>。\n\n<i>「吹雪濡鷺時，積思若霜，胸底思重焉哀憐。」</i>",
+      "jp": "艶やかな立ち姿で氷霜を集め、持続的に前進する霜見雪関扉を発動する。\n\n<color=#FFD780FF>霜見雪関扉</color>\n·鋭い刃のような霜風で敵に斬撃を与え続け、<color=#99FFFFFF>氷元素ダメージ</color>を与える。\n·継続時間終了時に咲き、<color=#99FFFFFF>氷元素範囲ダメージ</color>を与える。\n\n<i>「雪が吹き鷺を濡らすと、溜まり積もった思いが霜のようになり、重くなった胸の底が悼みに駆られます。」</i>",
+      "ko": "독특한 자태로 차가운 서리를 모아 앞으로 나아가는 서리의 관문을 방출한다.\n\n<color=#FFD780FF>서리의 관문</color>\n·칼날처럼 날카로운 서리 바람으로 지속해서 접촉한 적을 베어 <color=#99FFFFFF>얼음 원소 피해</color>를 준다.\n·지속 시간이 끝나면 피어나 <color=#99FFFFFF>얼음 원소 범위 피해</color>를 준다.\n\n<i>「흩날리는 눈발이 백로를 적시면, 그리움은 서리처럼 쌓이고 마음속엔 안타까움만 가득하네」</i>",
+      "en": "Summons forth a snowstorm with flawless poise, unleashing a Frostflake Seki no To that moves forward continuously.\n\n<color=#FFD780FF>Frostflake Seki no To</color>\n·A storm of whirling icy winds that slashes repeatedly at every enemy it touches, dealing <color=#99FFFFFF>Cryo DMG</color>.\n·The snowstorm explodes after its duration ends, dealing <color=#99FFFFFF>AoE Cryo DMG</color>.\n\n<i>\"The blizzard veils the heron's thoughts, pity heavy in its heart.\"</i>",
+      "de": "Konzentriert Frost mit eleganter Haltung und beschwört eine sich fortlaufend nach vorn bewegende Frostflocke Seki no To.\n\n<color=#FFD780FF>Frostflocke Seki no To</color>\n· Schlitzt Gegner mit messerscharfem Frostwind auf und verursacht <color=#99FFFFFF>Kryo-Schaden</color>.\n· Erschafft am Ende der Wirkungsdauer eine Blüte, die <color=#99FFFFFF>Kryo-Flächenschaden</color> verursacht.\n\n<i>„Der Schneesturm bläst und erdrückt den Reiher, dass mein Geist friert und meine Brust mit Mitleid erfüllt wird.“</i>",
+      "es": "Adopta una magnífica pose para invocar la escarcha y liberar una ráfaga de ventisca.\n\n<color=#FFD780FF>Ráfaga de ventisca</color>\n·Mediante un viento gélido y cortante como una afilada espada, realiza continuamente cortes contra los enemigos y les inflige <color=#99FFFFFF>Daño Cryo</color>.\n·Al terminar la duración, provoca una explosión que inflige <color=#99FFFFFF>Daño Cryo en el AdE</color>.\n\n<i>La ventisca cubre de escarcha a la garza. Oh, cuánto pesar en su corazón.</i>",
+      "fr": "Ayaka adopte une posture magnifique pour libérer un tourbillon givré qui avance sans s'arrêter.\n\n<color=#FFD780FF>Tourbillon givré</color>\n· Le tourbillon givré lacère de façon continue les ennemis qui se trouvent sur sa route, infligeant des <color=#99FFFFFF>DGT Cryo</color>.\n· Le tourbillon finit par exploser, infligeant des <color=#99FFFFFF>DGT Cryo de zone</color>.\n\n<i>« Le blizzard dissimule les pensées du héron, au cœur rempli de pitié. »</i>",
+      "pt": "Ayaka acumula geada com uma pose perfeita, liberando um Granizo Seki no To que avança continuamente para frente.\n\n<color=#FFD780FF>Granizo Seki no To</color>\nCausa <color=#99FFFFFF>Dano Cryo</color> ao cortar continuamente o inimigos que toca com ventos gélidos e afiados como lâminas;\nExplode após sua duração encerrar, causando <color=#99FFFFFF>Dano Cryo em uma AdE</color>.\n\n<i>\"A nevasca cobre os pensamentos da garça, cujo coração está inundado por compaixão\".</i>",
+      "ru": "Безупречным движением вызывает снежную бурю и выпускает непрерывно движущийся вперёд Морозный сэки но то.\n\n<color=#FFD780FF>Морозный сэки но то</color>\n· Пронзающий холодный ветер непрерывно кромсает противников и наносит им <color=#99FFFFFF>Крио урон</color>.\n· По истечении времени действия взрывается и наносит <color=#99FFFFFF>Крио урон по площади</color>.\n\n<i>«Метель заносит снегом мысли цапли, в сердце её тяжёлая грусть».</i>",
+      "id": "Memanggil es dengan ketenangan tanpa cela, lalu melepaskan Frostflake Seki no To yang terus bergerak maju.\n\n<color=#FFD780FF>Frostflake Seki no To</color>\n·Terus-menerus menebas musuh yang disentuhnya dengan angin dingin setajam pisau dan mengakibatkan <color=#99FFFFFF>Cryo DMG</color>;\n·Terbuka mekar setelah durasinya berakhir dan mengakibatkan <color=#99FFFFFF>Cryo DMG Area</color>.\n\n<i>\"Badai salju memenuhi pikiran sang bangau, sedang rasa iba yang berat membebani hatinya.\"</i>",
+      "th": "รวบรวมน้ำค้างแข็งด้วยกระบวนท่าอันไร้ที่ติ ปล่อย Frostflake Seki no To ที่จะเคลื่อนที่ไปข้างหน้าอย่างต่อเนื่องออกมา\n\n<color=#FFD780FF>Frostflake Seki no To</color>\n·ฟาดฟันศัตรูที่สัมผัสโดนอย่างต่อเนื่อง ด้วยสายลมอันเย็นยะเยือกที่คมราวกับใบมีด เกิดเป็น<color=#99FFFFFF>ความเสียหายน้ำแข็ง</color>;\n·เบ่งบานเมื่อช่วงเวลาต่อเนื่องสิ้นสุดลง และสร้าง<color=#99FFFFFF>ความเสียหายน้ำแข็งวงกว้าง</color>\n\n<i>\"พายุหิมะปกคลุมความคิดของนกกระเรียน พอกพูนความสงสารที่หนักอึ้งอยู่ในใจ\"</i>",
+      "vi": "Triệu hồi băng giá với dáng vẻ hoàn hảo, thi triển Cổng Băng Tuyết liên tục về phía trước.\n\n<color=#FFD780FF>Cổng Băng Tuyết</color>\n·Dùng gió tuyết sắc như đao nhọn chém liên tục vào kẻ địch tiếp xúc, gây <color=#99FFFFFF>sát thương Nguyên Tố Băng</color>;\n·Khi hết thời gian sẽ bung tỏa, gây <color=#99FFFFFF>sát thương phạm vi Nguyên Tố Băng</color>.\n\n<i>\"Tuyết phủ thân hạc, vùi lấp tâm tư, tận đáy lòng nặng trĩu nỗi bi ai.\"</i>"
+    },
+    "imgid": "s_23901"
+  },
+  {
+    "title": {
+      "zhs": "天罪国罪镇词",
+      "zht": "天罪國罪鎮詞",
+      "jp": "天つ罪·国つ罪の鎮詞",
+      "ko": "천죄국죄 진사",
+      "en": "Amatsumi Kunitsumi Sanctification",
+      "de": "Amatsumi-Kunitsumi-Weihe",
+      "es": "Supresión de lo impuro",
+      "fr": "Sanctification de l'impur",
+      "pt": "Amatsutsumi Kunitsutsumi Chinshi",
+      "ru": "Освящение амацуми куницуми",
+      "id": "Amatsumi Kunitsumi Sanctification",
+      "th": "Amatsumi Kunitsumi Sanctification",
+      "vi": "Lời Phán Amatsumi Kunitsumi"
+    },
+    "description": {
+      "zhs": "施放<color=#FFD780FF>神里流·冰华</color>后的6秒内，神里绫华的普通攻击与重击造成的伤害提升30%。",
+      "zht": "施放<color=#FFD780FF>神里流·冰華</color>後的6秒內，神里綾華的普通攻擊與重擊造成的傷害提升30%。",
+      "jp": "<color=#FFD780FF>神里流·氷華</color>を発動した後の6秒間、神里綾華の通常攻撃と重撃のダメージ+30%。",
+      "ko": "<color=#FFD780FF>카미사토류·얼음꽃</color> 발동 후 6초 동안 카미사토 아야카의 일반 공격과 강공격으로 가하는 피해가 30% 증가한다",
+      "en": "After using <color=#FFD780FF>Kamisato Art: Hyouka</color>, Kamisato Ayaka's Normal and Charged Attacks deal 30% increased DMG for 6s.",
+      "de": "Erhöht den von Kamisato Ayaka mit Standardangriffen und heftigen Schlägen verursachten Schaden nach Anwendung von <color=#FFD780FF>Kamisato-Stil – Hyouka</color> 6 s lang um 30 %.",
+      "es": "Tras realizar <color=#FFD780FF>Estilo Kamisato: Flor del hielo</color>, el daño de los Ataques Normales y Cargados de Kamisato Ayaka aumenta en un 30% durante 6 s.",
+      "fr": "Confère aux attaques normales et chargées d'Ayaka suivant dans les 6 s le lancement d'<color=#FFD780FF>École Kamisato : Fleur de glace</color> un bonus de 30 % de DGT.",
+      "pt": "Depois de usar <color=#FFD780FF>Arte Kamisato: Hyouka</color>, os danos causados pelos Ataques Normais e Carregados da Kamisato Ayaka ganham um aumento de 30% durante 6s.",
+      "ru": "После использования навыка <color=#FFD780FF>Искусство Камисато: Хёка</color> урон обычных и заряженных атак Аяки увеличивается на 30% в течение 6 сек.",
+      "id": "Setelah menggunakan <color=#FFD780FF>Kamisato Art: Hyouka</color>, meningkatkan 30% DMG Normal dan Charged Attack Kamisato Ayaka selama 6 detik.",
+      "th": "ภายใน 6 วินาที หลังจากใช้ <color=#FFD780FF>Kamisato Art: Hyouka</color> การโจมตีปกติและชาร์จโจมตีของ Kamisato Ayaka จะสร้างความเสียหายเพิ่มขึ้น 30%",
+      "vi": "Trong vòng 6s sau khi thi triển <color=#FFD780FF>Trường Phái Kamisato - Hyouka</color>, sát thương gây ra bởi tấn công thường và trọng kích của Kamisato Ayaka tăng 30%."
+    },
+    "imgid": "p_22101"
+  },
+  {
+    "title": {
+      "zhs": "寒天宣命祝词",
+      "zht": "寒天宣命祝詞",
+      "jp": "寒空の宣命祝詞",
+      "ko": "한천선명 축사",
+      "en": "Kanten Senmyou Blessing",
+      "de": "Kanten-Senmyou-Segen",
+      "es": "Edicto helado",
+      "fr": "Bénédiction de Kanten Senmyou",
+      "pt": "Bênção de Kanten Senmyou",
+      "ru": "Благословение кантэн сэммё",
+      "id": "Kanten Senmyou Blessing",
+      "th": "Kanten Senmyou Blessing",
+      "vi": "Lời Chúc Kanten Senmyou"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>神里流·霰步</color>结束时释放的寒冰命中了敌人时，神里绫华将获得如下效果：\n·恢复10点体力；\n·获得18%<color=#99FFFFFF>冰元素伤害加成</color>，持续10秒。",
+      "zht": "<color=#FFD780FF>神里流·霰步</color>結束時釋放的寒冰如果命中敵人，則神里綾華將獲得如下效果：\n·恢復10點體力。\n·獲得18%<color=#99FFFFFF>冰元素傷害加成</color>，持續10秒。",
+      "jp": "<color=#FFD780FF>神里流·霰歩</color>終了後に発生する氷が敵に命中すると、神里綾華は下記効果を獲得する。\n·スタミナを10ポイント回復する。\n·<color=#99FFFFFF>氷元素ダメージ</color>+18%、継続時間10秒。",
+      "ko": "<color=#FFD780FF>카미사토류·싸락눈 걸음</color>이 종료될 때 방출되는 차가운 얼음이 적을 명중하면, 카미사토 아야카는 아래의 효과를 획득한다:\n·스태미나를 10pt 회복한다.\n·<color=#99FFFFFF>얼음 원소 피해 보너스</color>를 18% 획득한다. 지속 시간: 10초",
+      "en": "When the Cryo application at the end of <color=#FFD780FF>Kamisato Art: Senho</color> hits an opponent, Kamisato Ayaka gains the following effects:\n·Restores 10 Stamina\n·Gains 18% <color=#99FFFFFF>Cryo DMG Bonus</color> for 10s.",
+      "de": "Gewährt Kamisato Ayaka beim Treffen von Gegnern mit der Kälte, die am Ende von <color=#FFD780FF>Kamisato-Stil – Senho</color> freigesetzt wird, folgende Effekte:\n· Stellt 10 Punkte Ausdauer wieder her.\n· Erhöht den <color=#99FFFFFF>Kryo-Schaden</color> 10 s lang um 18 %.",
+      "es": "Si el hielo que se libera al terminar <color=#FFD780FF>Estilo Kamisato: Senda de escarcha</color> golpea a un enemigo, se producen los siguientes efectos:\n·Kamisato Ayaka recupera 10 pts. de Aguante.\n·Obtiene un 18% de <color=#99FFFFFF>Bono de Daño Cryo</color> durante 10 s.",
+      "fr": "L'énergie glacée libérée à la fin du Sentier de givre d'<color=#FFD780FF>École Kamisato : Sentier de givre</color> confère à Ayaka les effets suivants lorsqu'elle touche l'ennemi :\nRégénération de 10 pts d'endurance ;\n<color=#99FFFFFF>Bonus de DGT Cryo</color> de 18 % pendant 10 s.",
+      "pt": "Quando a aplicação de Cryo no final da <color=#FFD780FF>Arte Kamisato: Senho</color> acerta um oponente, Kamisato Ayaka ganha os seguintes efeitos:\n·Recupera 10 de Stamina\n·Ganha 18% de <color=#99FFFFFF>Bônus de Dano Cryo</color> por 10s.",
+      "ru": "Когда Крио эффект в конце действия навыка <color=#FFD780FF>Искусство Камисато: Сэнхо</color> поражает противника, Камисато Аяка получает следующие эффекты:\n· Восстанавливает 10 ед. выносливости.\n· Получает 18% <color=#99FFFFFF>бонус Крио урона</color> на 10 сек.",
+      "id": "Jika efek Cryo di akhir <color=#FFD780FF>Kamisato Art: Senho</color> mengenai musuh, Kamisato Ayaka akan mendapatkan efek berikut:\n·Memulihkan 10 Stamina\n·Mendapatkan 18% <color=#99FFFFFF>Cryo DMG Bonus</color> selama 10 detik.",
+      "th": "เมื่อการโจมตีด้วยน้ำแข็งในตอนจบของ <color=#FFD780FF>Kamisato Art: Senho</color> ถูกศัตรู Kamisato Ayaka จะได้รับเอฟเฟกต์ดังนี้:\n·ฟื้นฟูพลังกาย 10 หน่วย;\n·ได้รับ<color=#99FFFFFF>โบนัสความเสียหายน้ำแข็ง</color> 18% เป็นเวลา 10 วินาที",
+      "vi": "Khi <color=#FFD780FF>Trường Phái Kamisato - Senho</color> kết thúc sẽ thi triển hàn băng, nếu đánh trúng địch, Kamisato Ayaka sẽ nhận hiệu quả sau:\n·Hồi 10 điểm thể lực;\n·Nhận 18% <color=#99FFFFFF>buff sát thương Nguyên Tố Băng</color>, duy trì 10s."
+    },
+    "imgid": "p_22201"
+  },
+  {
+    "title": {
+      "zhs": "鉴查心得",
+      "zht": "鑑查心得",
+      "jp": "鑑査の心得",
+      "ko": "감별 노하우",
+      "en": "Fruits of Shinsa",
+      "de": "Shinsa-Früchte",
+      "es": "Los frutos de la reflexión",
+      "fr": "Fruits de Shinsa",
+      "pt": "Frutos de Shinsa",
+      "ru": "Плоды синса",
+      "id": "Fruits of Shinsa",
+      "th": "Fruits of Shinsa",
+      "vi": "Bí Kíp Kiểm Tra"
+    },
+    "description": {
+      "zhs": "合成武器突破素材时，有10%概率获得2倍产出。",
+      "zht": "合成武器突破素材時，有10%機率獲得兩倍產出。",
+      "jp": "武器突破素材を合成する時、10%の確率でアイテムを2倍獲得する。",
+      "ko": "무기 돌파 소재를 합성 시 10%의 확률로 생산량의 2배를 획득한다",
+      "en": "When Ayaka crafts Weapon Ascension Materials, she has a 10% chance to receive double the product.",
+      "de": "Stellt beim Zusammensetzen von Material zum Aufstieg von Waffen mit einer Wahrscheinlichkeit von 10 % den 2-fachen Ertrag her.",
+      "es": "Al crear materiales de ascensión de arma, hay una probabilidad del 10% de recibir el doble.",
+      "fr": "10 % de chances d'obtenir le double de produits lors de la synthèse de matériaux d'élévation d'arme.",
+      "pt": "Quando Ayaka fabrica Materiais de Ascensão de Armas, ele tem 10% de chance de receber o dobro do produto.",
+      "ru": "При создании материалов возвышения оружия имеет 10% шанс создать дополнительный предмет.",
+      "id": "Saat membuat Material Ascension Senjata, memiliki 10% kemungkinan untuk mendapatkan hasil 2 kali lipat.",
+      "th": "เมื่อสร้างวัสดุเลื่อนขั้นอาวุธ จะมีโอกาส 10% ที่จะได้รับผลผลิตเพิ่มขึ้น 2 เท่า",
+      "vi": "Khi ghép nguyên liệu đột phá vũ khí sẽ có 10% tỷ lệ nhận x2 thành phẩm."
+    },
+    "imgid": "p_22301"
+  }
+]

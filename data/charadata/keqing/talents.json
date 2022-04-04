@@ -1,0 +1,200 @@
+[
+  {
+    "title": {
+      "zhs": "普通攻击·云来剑法",
+      "zht": "普通攻擊·雲來劍法",
+      "jp": "通常攻撃·雲来剣法",
+      "ko": "일반 공격·운래 검법",
+      "en": "Normal Attack: Yunlai Swordsmanship",
+      "de": "Standardangriff: Schwertkunst aus den Wolken",
+      "es": "Ataque Normal: Estilo Yunlai",
+      "fr": "Attaque normale : Escrime des nuages",
+      "pt": "Ataque Normal: Estilo de Yunlai",
+      "ru": "Грозовое фехтование",
+      "id": "Normal Attack: Yunlai Swordsmanship",
+      "th": "โจมตีปกติ - Yunlai Swordsmanship",
+      "vi": "Tấn Công Thường - Vân Lai Kiếm Pháp"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>普通攻击</color>\n进行至多五段的连续剑击。\n\n<color=#FFD780FF>重击</color>\n消耗一定体力，瞬间向前方挥出两剑。\n\n<color=#FFD780FF>下落攻击</color>\n从空中下坠冲击地面，攻击下落路径上的敌人，并在落地时造成范围伤害。",
+      "zht": "<color=#FFD780FF>普通攻擊</color>\n進行至多五段的連續劍擊。\n\n<color=#FFD780FF>重擊</color>\n消耗一定體力，瞬間向前方揮出兩劍。\n\n<color=#FFD780FF>下落攻擊</color>\n從空中下墜衝擊地面，攻擊下落路徑上的敵人，並在落地時造成範圍傷害。",
+      "jp": "<color=#FFD780FF>通常攻撃</color>\n剣による最大5段の連続攻撃を行う。\n\n<color=#FFD780FF>重撃</color>\n一定のスタミナを消費し、前方に斬撃を2回放つ。\n\n<color=#FFD780FF>落下攻撃</color>\n空中から落下し地面に衝撃を与える。経路上の敵を攻撃し、落下時に範囲ダメージを与える。",
+      "ko": "<color=#FFD780FF>일반 공격</color>\n검으로 최대 5번 공격한다.\n\n<color=#FFD780FF>강공격</color>\n일정 스태미나를 소모해 순간적으로 전방을 향해 검을 2번 휘두른다.\n\n<color=#FFD780FF>낙하 공격</color>\n공중에서 땅을 내려찍어 경로상의 적을 공격하고, 착지 시 범위 피해를 준다",
+      "en": "<color=#FFD780FF>Normal Attack</color>\nPerform up to 5 rapid strikes.\n\n<color=#FFD780FF>Charged Attack</color>\nConsumes a certain amount of Stamina to unleash 2 rapid sword strikes.\n\n<color=#FFD780FF>Plunging Attack</color>\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+      "de": "<color=#FFD780FF>Standardangriff</color>\nFührt bis zu 5 Schwerthiebe hintereinander aus.\n\n<color=#FFD780FF>Heftiger Schlag</color>\nVerbraucht eine gewisse Menge Ausdauer und schwingt das Schwert zweimal schnell nach vorn.\n\n<color=#FFD780FF>Angriff aus dem Fall</color>\nSchlägt beim Fallen aus der Luft auf den Boden, greift alle Gegner in der Bahn an und verursacht beim Aufkommen Flächenschaden.",
+      "es": "<color=#FFD780FF>Ataque Normal</color>\nRealiza hasta 5 ataques rápidos.\n\n<color=#FFD780FF>Ataque Cargado</color>\nConsume una cierta cantidad de Aguante para lanzar un golpe de espada cruzado.\n\n<color=#FFD780FF>Ataque Descendente</color>\nSe lanza desde el aire para golpear el suelo, dañando a los enemigos cercanos e infligiendo Daño en el AdE en el momento del impacto.",
+      "fr": "<color=#FFD780FF>Attaque normale</color>\nEnchaîne jusqu'à 5 coups d'épée.\n\n<color=#FFD780FF>Attaque chargée</color>\nConsomme de l'endurance pour déclencher deux coups d'épée rapides.\n\n<color=#FFD780FF>Attaque plongeante</color>\nPlonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis en chemin et des DGT de zone à l'impact.",
+      "pt": "<color=#FFD780FF>Ataque Normal</color>\nRealiza até 5 golpes rápidos.\n\n<color=#FFD780FF>Ataque Carregado</color>\nConsome uma certa quantidade de Stamina para desferir 2 golpes rápidos com a espada.\n\n<color=#FFD780FF>Ataque Imersivo</color>\nMergulha em pleno ar para golpear o chão, causando dano aos inimigos ao longo do caminho e infligindo Dano em uma AdE durante o impacto.",
+      "ru": "<color=#FFD780FF>Обычная атака:</color>\nДо пяти быстрых ударов мечом.\n\n<color=#FFD780FF>Заряженная атака:</color>\nДва быстрых взмаха мечом, для которых тратится определённое количество выносливости.\n\n<color=#FFD780FF>Атака в падении:</color>\nСтремительно падает на землю, атакуя всех врагов на пути. Приземлившись, наносит урон по площади.",
+      "id": "<color=#FFD780FF>Normal Attack</color>\nMelancarkan hingga 5 serangan berturut-turut.\n\n<color=#FFD780FF>Charged Attack</color>\nMengonsumsi sejumlah Stamina untuk melancarkan dua tebasan pedang.\n\n<color=#FFD780FF>Plunging Attack</color>\nMenerjang dari udara untuk menghantam tanah, mengakibatkan DMG pada musuh di jalur terjangan dan mengakibatkan DMG area saat mendarat.",
+      "th": "<color=#FFD780FF>โจมตีปกติ</color>\nโจมตีด้วยดาบต่อเนื่องมากสุดห้าครั้ง\n\n<color=#FFD780FF>ชาร์จโจมตี</color>\nใช้พลังกายส่วนหนึ่งเพื่อปลดปล่อยดาบ ออกไปข้างหน้าสองเล่มในช่วงเวลาสั้น ๆ\n\n<color=#FFD780FF>โจมตีพุ่งลงจากอากาศ</color>\nกระโจนจากกลางอากาศลงมายังพื้นดิน เพื่อโจมตีศัตรูที่อยู่ในเส้นทางการโจมตี โดยจะสร้างความเสียหายวงกว้างเมื่อลงถึงพื้น",
+      "vi": "<color=#FFD780FF>Tấn Công Thường</color>\nThực hiện tối đa 5 lần đánh kiếm liên tiếp.\n\n<color=#FFD780FF>Trọng Kích</color>\nTiêu hao thể lực nhất định, đánh ra hai kiếm về phía trước trong chớp mắt.\n\n<color=#FFD780FF>Tấn Công Khi Đáp</color>\nĐáp xuống đất từ trên không, tấn công kẻ địch trên đường và gây sát thương phạm vi khi chạm đất."
+    },
+    "imgid": "s_423101"
+  },
+  {
+    "title": {
+      "zhs": "星斗归位",
+      "zht": "星斗歸位",
+      "jp": "星辰帰位",
+      "ko": "성신 회귀",
+      "en": "Stellar Restoration",
+      "de": "Rückkehr der Sterne",
+      "es": "Retorno estelar",
+      "fr": "Retour des étoiles",
+      "pt": "Restauração Estelar",
+      "ru": "Возвращение звезды",
+      "id": "Stellar Restoration",
+      "th": "Stellar Restoration",
+      "vi": "Tinh Đẩu Quy Vị"
+    },
+    "description": {
+      "zhs": "迅速投出雷楔，以疾雷之势歼敌。\n雷楔命中时会对小范围内的敌人造成<color=#FFACFFFF>雷元素伤害</color>，并在命中的位置留下雷楔标记。\n\n<color=#FFD780FF>长按</color>\n长按以调整雷楔标记投掷的方向。\n通过长按投出的雷楔，可以悬浮在空中，并使刻晴再次施放星斗归位时跨越地形。\n\n<color=#FFD780FF>雷楔</color>\n在雷楔的持续期间内，刻晴再次施放星斗归位或施展重击时，会清除雷楔标记并造成不同的效果：\n·再次施放星斗归位时，瞬移到标记处进行一次斩击，造成<color=#FFACFFFF>雷元素范围伤害</color>。瞬移至长按投掷的雷楔处时，可以跨越地形障碍；\n·施展重击时，在标记处引发雷暴连斩，造成数次<color=#FFACFFFF>雷元素范围伤害</color>。\n\n<i>「人像是蛾子，总奔着名叫神仙的火光而去。但是我这光是自己点的。」</i>",
+      "zht": "迅速投出雷楔，以疾雷之勢殲敵。\n雷楔命中時會對小範圍內的敵人造成<color=#FFACFFFF>雷元素傷害</color>，並在命中的位置留下雷楔標記。\n\n<color=#FFD780FF>長按</color>\n長按以調整雷楔標記投擲的方向。\n通過長按投出的雷楔，可以懸浮在空中，並使刻晴再次施放星斗歸位時跨越地形。\n\n<color=#FFD780FF>雷楔</color>\n在雷楔的持續期間內，刻晴再次施放星斗歸位或施展重擊時，會清除雷楔標記並造成不同的效果：\n·再次施放星斗歸位時，瞬移到標記處進行一次斬擊，造成<color=#FFACFFFF>雷元素範圍傷害</color>。瞬移至長按投擲的雷楔處時，可以跨越地形障礙；\n·施展重擊時，在標記處引發雷暴連斬，造成數次<color=#FFACFFFF>雷元素範圍傷害</color>。\n\n<i>「人像是蛾子，總奔著名叫神仙的火光而去。但是我這光是自己點的。」</i>",
+      "jp": "雷楔を素早く投げ出し、疾雷の勢いで敵を殲滅する。\n雷楔が命中した時に狭範囲の敵に<color=#FFACFFFF>雷元素ダメージ</color>を与え、命中した位置に雷楔マークを残す。\n\n<color=#FFD780FF>長押し</color>\n雷楔マークの投げる方向を調整できる。\n長押しで投げ出した雷楔は空中に浮遊させることができる。刻晴が再び星辰帰位を発動する時、地形を無視できる。\n\n<color=#FFD780FF>雷楔</color>\n雷楔継続中、刻晴が再び星辰帰位また重撃を発動すると、雷楔マークは消され、異なる効果を発動できる。\n·再び星辰帰位を発動すると、マークした位置に瞬間移動し斬撃を1回仕掛け、<color=#FFACFFFF>雷元素範囲ダメージ</color>を与える。長押しで投げ出した雷楔の位置に瞬間移動する場合は地形を無視する。\n·重撃を行った場合、マークした位置に暴雷連斬を引き起こし、数回の<color=#FFACFFFF>雷元素範囲ダメージ</color>を与える。\n\n<i>「人は蛾のように、飛んで神という火の光に入る。だが私の光は私自身が灯す。」</i>",
+      "ko": "뇌설을 빠르게 던져 뇌전의 기세로 적을 섬멸한다.\n뇌설 명중 시 작은 범위의 적에게 <color=#FFACFFFF>번개 원소 피해</color>를 주고 명중한 위치에 뇌설 표식을 남긴다.\n\n<color=#FFD780FF>홀드</color>\n길게 눌러 뇌설 표식을 던지는 방향을 조절할 수 있다.\n길게 눌러 던진 표창은 공중에 머물 수 있으며 각청이 성신 회귀를 발동하면 지형 장애물을 뛰어넘을 수 있다.\n\n<color=#FFD780FF>뇌설</color>\n뇌설 지속 기간에 각청이 성신 회귀 혹은 강공격을 다시 발동하면 뇌설 표식을 지우고 각기 다른 효과가 발동된다:\n·성신 회귀 재발동 시 표식이 있는 곳으로 순간 이동 후 참격으로 <color=#FFACFFFF>번개 원소 범위 피해</color>를 준다. 길게 눌러 발동한 뇌설의 위치로 순간 이동 시 지형 장애물을 뛰어넘을 수 있다.\n강공격 발동 시 표식이 있는 곳에서 뇌폭 참격으로 여러 차례의 <color=#FFACFFFF>번개 원소 범위 피해</color>를 준다.\n\n<i>「인간은 나방과도 같아. 신선이라고 불리는 불꽃을 향해 날아들지. 하지만 이 불꽃은 내가 스스로 키운 거야.」</i>",
+      "en": "Hurls a Lightning Stiletto that annihilates her opponents like the swift thunder.\nWhen the Stiletto hits its target, it deals <color=#FFACFFFF>Electro DMG</color> to opponents in a small AoE, and places a Stiletto Mark on the spot hit.\n\n<color=#FFD780FF>Hold</color>\nHold to adjust the direction in which the Stiletto shall be thrown.\nStilettos thrown by the Hold attack mode can be suspended in mid-air, allowing Keqing to jump to them when using Stellar Restoration a second time.\n\n<color=#FFD780FF>Lightning Stiletto</color>\n If Keqing uses Stellar Restoration again or uses a Charged Attack while its duration lasts, it will clear the Stiletto Mark and produce different effects:\n·If she uses Stellar Restoration again, she will blink to the location of the Mark and unleash one slashing attack that deals <color=#FFACFFFF>AoE Electro DMG</color>. When blinking to a Stiletto that was thrown from a Holding attack, Keqing can leap across obstructing terrain.\n·If Keqing uses a Charged Attack, she will ignite a series of thundering cuts at the Mark's location, dealing <color=#FFACFFFF>AoE Electro DMG</color>.\n\n<i>\"Humans are like moths, endlessly chasing the flame we call gods and adepti. But this light that I have here is my own.\"</i>",
+      "de": "Wirft einen Donnerkeil, der sich blitzartig auf die Gegner zubewegt.\nDer Donnerkeil fügt Gegnern mit geringer Reichweite <color=#FFACFFFF>Elektro-Schaden</color> zu und hinterlässt an der Stelle des Auftreffens eine Markierung.\n\n<color=#FFD780FF>Gedrückt halten</color>\nHalte gedrückt, um die Wurfrichtung der Donnerkeilmarkierung anzupassen.\nDer Donnerkeil schwebt bei Gedrückthalten in der Luft, sodass Keqing bei erneuter Anwendung von Rückkehr der Sterne sich direkt zu dieser Position begeben kann.\n\n<color=#FFD780FF>Donnerkeil</color>\nEntfernt bei erneuter Anwendung von Rückkehr der Sterne oder heftigen Schlägen während der Wirkungsdauer von Donnerkeilen die Donnerkeilmarkierung und verursacht unterschiedliche Effekte:\n· Keqing bewegt sich bei erneuter Anwendung von Rückkehr der Sterne sofort zur Markierung, schlägt zu und verursacht <color=#FFACFFFF>Elektro-Flächenschaden</color>. Überwindet dabei jegliche Hindernisse auf dem Weg.\n· Schlägt bei Anwendung von heftigen Schlägen mit einer Reihe von Elektro-Hieben auf die markierte Stelle und verursacht mehrfachen <color=#FFACFFFF>Elektro-Flächenschaden</color>.\n\n<i>„Menschen sind wie Motten, die nach dem Licht suchen, das die Götter und Adepten ausstrahlen. Doch dieses Licht hier stammt ganz von mir.“</i>",
+      "es": "Lanza una cuña relámpago que aniquila a sus enemigos como un rayo veloz.\nCuando la cuña golpea a su objetivo, inflige <color=#FFACFFFF>Daño Electro</color> a los enemigos en una pequeña AdE, y añade una marca en el lugar donde golpea.\n\n<color=#FFD780FF>Mantener pulsado</color>\nMantén pulsado para ajustar la dirección en la que se lanzará la cuña.\nLas cuñas lanzadas al mantener pulsado pueden suspenderse en el aire, permitiendo que Keching salte hacia ellas al usar Retorno estelar por segunda vez.\n\n<color=#FFD780FF>Cuña relámpago</color>\nSi Keching usa Retorno estelar de nuevo o hace un Ataque Cargado durante la habilidad, eliminará la marca de la cuña y producirá diferentes efectos:\n·Si vuelve a usar Retorno estelar, se teletransportará hasta la ubicación de la marca y desatará un ataque cortante que inflige <color=#FFACFFFF>Daño Electro en el AdE</color>. Al teletransportarse a una cuña lanzada tras mantener pulsado, Keching ignora los obstáculos del terreno.\n·Si Keching usa un Ataque Cargado, desencadenará una tempestad eléctrica en la marca de la cuña, infligiendo <color=#FFACFFFF>Daño Electro en el AdE</color>.\n\n<i>“Los humanos son como las polillas: persiguen a ciegas la claridad a la que llaman ‘dioses’ y ‘Adeptus’. En cambio, yo tengo mi luz propia”.</i>",
+      "fr": "Keqing lance une Lame de foudre qui attaque ses ennemis avec la puissance des cieux.\nLorsqu'une Lame de foudre touche sa cible, elle inflige des <color=#FFACFFFF>DGT Électro de zone</color> et laisse une marque à l'endroit visé.\n\n<color=#FFD780FF>Appui long</color>\nAjuste la zone où la compétence sera lancée.\nLes Lames de foudre peuvent aussi être suspendues dans les airs ; activez à nouveau la compétence Retour des étoiles pour permettre à Keqing de s'y téléporter.\n\n<color=#FFD780FF>Lame de foudre</color>\nLorsque la marque est active, Keqing peut utiliser à nouveau Retour des étoiles pour se téléporter ou lancer une attaque chargée et la marque disparaîtra avec les effets suivant selon le cas :\n· Réactivation de Retour des étoiles : Keqing se téléporte à l'emplacement de la marque et exécute une entaille qui inflige des <color=#FFACFFFF>DGT Électro de zone</color>. Keqing passe à travers tous les obstacles topographiques lorsqu'elle se téléporte.\n· Attaque chargée : une série de coups de tonnerre tranchants s'abat à l'emplacement de la marque, infligeant des <color=#FFACFFFF>DGT Électro de zone</color>.\n\n<i>« Les humains sont comme des papillons de nuit, attirés par la lumière des dieux et des Adeptes. Or seule la mienne guide mes ailes. »</i>",
+      "pt": "Arremessa um Relâmpago Stiletto que aniquila seus inimigos como um rápido trovão.\nQuando o Stiletto acerta seu alvo, ele causa <color=#FFACFFFF>Dano Electro</color> nos inimigos em uma pequena AdE e coloca uma Marca de Stiletto no local atingido.\n\n<color=#FFD780FF>Manter pressionado</color>\nMantenha pressionado para ajustar a direção na qual o Stiletto deve ser lançado.\nStilettos lançados pelo modo de Manter pressionado podem ser suspensos em pleno ar, permitindo Keqing saltar neles ao usar Restauração Estelar uma segunda vez.\n\n<color=#FFD780FF>Relâmpago Stiletto</color>\n Se Keqing usar Restauração Estelar novamente ou usar um Ataque Carregado ainda em sua duração, removerá a Marca de Stiletto e produzirá efeitos diferentes:\n se ela usar Restauração Estelar novamente, ela irá teleportar para a localização da Marca e desencadeará um ataque cortante, que causa <color=#FFACFFFF>Dano Electro em AdE</color>. Quando teleportando para um Stiletto que foi lançado com um Ataque Pressionado, Keqing pode ignorar obstruções do terreno.\n Se Keqing usa um Ataque Carregado, ela provocará uma série de cortes estrondosos na localização da Marca, causando <color=#FFACFFFF>Dano Electro em AdE</color>.\n\n<i>“Humanos são como mariposas, buscando incessantemente a chama que chamamos de deuses e Adepti. Mas essa luz que tenho aqui é a minha.”</i>",
+      "ru": "Выпускает Громовой стилет, который поражает врагов словно внезапный удар молнии.\nПри попадании Громовой стилет наносит <color=#FFACFFFF>Электро урон</color> врагам в небольшом радиусе и устанавливает Метку стилета в точке попадания.\n\n<color=#FFD780FF>Долгое нажатие:</color>\nУдерживайте, чтобы выбрать направление броска Громового стилета.\nСтилеты, брошенные долгим нажатием, могут остаться в воздухе, что позволит Кэ Цин телепортироваться к ним при повторном использовании навыка Возвращение звезды.\n\n<color=#FFD780FF>Громовой стилет:</color>\nЕсли Кэ Цин активирует навык второй раз или использует заряженную атаку в течение действия навыка, Метка стилета пропадает и эффекты навыка меняются:\nПри повторном использовании навыка Возвращение звезды, Кэ Цин телепортируется к Метке стилета и проводит атаку, наносящую <color=#FFACFFFF>Электро урон по площади</color>. С помощью телепортации Кэ Цин может преодолевать ландшафтные препятствия.\nВыполнение заряженной атаки активирует серию ударов молнии в точке Метки стилета, нанося множественный <color=#FFACFFFF>Электро урон по площади</color>.\n\n<i>«Люди подобны мотылькам, они неустанно летят на свет, который называют Архонтами или Адептами. Но мой свет - только мой».</i>",
+      "id": "Dengan cepat menggunakan Lightning Stiletto untuk menghabisi musuh bagaikan kilat.\nSaat Stiletto mengenai musuh, mengakibatkan <color=#FFACFFFF>Electro DMG</color> kepada musuh dalam area yang kecil, dan menaruh Stiletto Mark di tempat.\n\n<color=#FFD780FF>Tahan</color>\nTahan untuk menyesuaikan arah ke mana Stiletto akan dilemparkan.\nStiletto yang dilemparkan oleh tipe serangan yang ditahan dapat ditangguhkan di udara, memungkinkan Keqing untuk melompat ke arah stiletto saat menggunakan Stellar Restoration untuk kedua kalinya.\n\n<color=#FFD780FF>Lightning Stiletto</color>\n·Jika Keqing menggunakan Stellar Restoration kembali atau menggunakan Charged Attack saat durasinya masih berlangsung, maka akan menghapus Stiletto Mark dan menghasilkan efek berbeda:\n·Jika dia menggunakan Stellar Restoration kembali, dia akan berpindah dengan cepat ke lokasi yang ditandai dan mengeluarkan satu serangan tebasan yang mengakibatkan <color=#FFACFFFF>Electro DMG area</color>. Saat berpindah menuju Stiletto yang dilemparkan dari serangan tahan, Keqing dapat mengabaikan hambatan yang ada.\n·Jika Keqing menggunakan Charged Attack, dia akan memicu beberapa tebasan petir di lokasi yang ditandai, mengakibatkan <color=#FFACFFFF>Electro DMG area</color>.\n\n<i>\"Manusia itu bagaikan ngengat, mengejar api tiada henti yang sering kali disebut sebagai Dewa atau Adeptus. Tapi api yang kumiliki di sini adalah milikku sendiri.\"</i>",
+      "th": "#เรียกสายฟ้า Lightning Stiletto ออกมาอย่างรวดเร็วเพื่อทำลายล้างศัตรู\nเมื่อโจมตีโดนศัตรูจะทำให้เกิด <color=#FFACFFFF>ความเสียหายไฟฟ้า</color> ขึ้นกับศัตรูที่อยู่ในพื้นที่เล็ก ๆ และสร้างสัญลักษณ์ Stiletto Mark ลงบนจุดที่โดนโจมตี\n\n<color=#FFD780FF>{LAYOUT_MOBILE#แตะค้าง}{LAYOUT_PC#กดค้าง}{LAYOUT_PS#กดค้าง}</color>\n{LAYOUT_MOBILE#แตะค้าง}{LAYOUT_PC#กดค้าง}{LAYOUT_PS#กดค้าง}เพื่อปรับทิศทางของตำแหน่งที่ จะทำสัญลักษณ์ Stiletto\nสัญลักษณ์ Stiletto ที่ถูกโยนออกไปด้วย การแตะค้างจะสามารถหยุดค้างอยู่บน อากาศได้ และทำให้ Keqing สามารถ กระโดดไปหาได้เมื่อใช้ Stellar Restoration อีกครั้ง\n\n<color=#FFD780FF>Lightning Stiletto</color>\nระหว่างช่วงเวลาต่อเนื่องของ Lightning Stiletto เมื่อ Keqing ใช้ Stellar Restoration อีกครั้งหรือทำการชาร์จโจมตี จะเป็นการล้างสัญลักษณ์ Stiletto Mark และทำให้เกิดเอฟเฟกต์ที่แตกต่างกันขึ้น:\n·เมื่อใช้ Stellar Restoration อีกครั้ง เธอจะวาร์ปไปยังจุดที่ทำสัญลักษณ์ไว้ และทำการโจมตีเพื่อสร้าง <color=#FFACFFFF>ความเสียหายไฟฟ้าวงกว้าง</color> เมื่อวาร์ป ไปยังจุดที่แตะค้างเพื่อทำสัญลักษณ์ Stiletto ไว้ จะทำให้ Keqing สามารถกระโดดข้ามพื้นที่สิ่งกีดขวางได้;\n·เมื่อใช้ชาร์จโจมตี จะเป็นการดึงดูดสายฟ้าให้ฟาดลงมายังสัญลักษณ์ที่ทำไว้อย่างต่อเนื่องและ เกิดเป็น<color=#FFACFFFF>ความเสียหายไฟฟ้าวงกว้าง</color>\n\n<i>\"มนุษย์ก็เหมือนกับแมลงเม่า เอาแต่ไล่ตามแสงไฟที่เรียกว่า เทพเจ้าและเหล่าเซียน แต่แสงไฟนั่นเป็นสิ่งที่ฉันจุดขึ้นมาเอง\"</i>",
+      "vi": "Giáng Đá Lôi nhanh như chớp, tiêu diệt kẻ địch.\nKhi Đá Lôi đánh trúng sẽ gây <color=#FFACFFFF>sát thương nguyên tố lôi</color> cho địch trong phạm vi nhỏ và để lại dấu ấn Đá Lôi ở nơi đó.\n\n<color=#FFD780FF>Nhấn giữ</color>\nNhấn giữ để điều chỉnh hướng giáng Đá Lôi.\nĐá Lôi được giáng xuống bằng cách nhấn giữ có thể lơ lửng trên không và khiến Keqing thi triển Tinh Đẩu Quy Vị lần nữa, vượt qua địa hình.\n\n<color=#FFD780FF>Đá Lôi</color>\nTrong thời gian Đá Lôi, Keqing thi triển Tinh Đẩu Quy Vị lần nữa hoặc trọng kích, sẽ xóa dấu ấn Đá Lôi và tạo ra hiệu quả khác nhau:\n·Khi thi triển Tinh Đẩu Quy Vị lần nữa, di chuyển đến nơi có dấu ấn thực hiện trảm kích 1 lần, gây <color=#FFACFFFF>sát thương phạm vi nguyên tố lôi</color>. Khi đến nơi nhấn giữ giáng Đá Lôi, có thể vượt qua chướng ngại của địa hình.\n·Khi thi triển trọng kích, ở nơi có dấu ấn sẽ giáng sét liên tục, gây <color=#FFACFFFF>sát thương phạm vi nguyên tố lôi</color> nhiều lần.\n\n<i>\"Chân dung là bướm đêm, cứ nhảy bổ vào ánh lửa gọi là thần tiên. Nhưng ánh sáng này của tôi là tự tôi thắp sáng\"</i>"
+    },
+    "imgid": "s_423201"
+  },
+  {
+    "title": {
+      "zhs": "天街巡游",
+      "zht": "天街巡遊",
+      "jp": "天街巡遊",
+      "ko": "천가 순유",
+      "en": "Starward Sword",
+      "de": "Himmelswanderung",
+      "es": "Paseo celestial",
+      "fr": "Promenade céleste",
+      "pt": "Passeio Celestial",
+      "ru": "Меч небесного тракта",
+      "id": "Starward Sword",
+      "th": "Starward Sword",
+      "vi": "Tuần Du Thiên Nhai"
+    },
+    "description": {
+      "zhs": "爆发雷电的力量，造成范围<color=#FFACFFFF>雷元素伤害</color>。\n随后隐入剑影中，对周围的敌人进行如同迅雷霆霓般疾速的连斩，造成多段<color=#FFACFFFF>雷元素伤害</color>，并在最后一击时造成高额<color=#FFACFFFF>雷元素范围伤害</color>。\n\n<i>刻晴自己剑术中最为迅捷的一招，可将诸星斩落。</i>",
+      "zht": "爆發雷電的力量，造成範圍<color=#FFACFFFF>雷元素傷害</color>。\n隨後隱入劍影中，對周圍的敵人進行如同迅雷霆霓般疾速的連斬，造成多段<color=#FFACFFFF>雷元素傷害</color>，並在最後一擊時造成高額<color=#FFACFFFF>雷元素範圍傷害</color>。\n\n<i>刻晴自己劍術中最為迅捷的一招，可將諸星斬落。</i>",
+      "jp": "雷電の力を爆発させ、<color=#FFACFFFF>雷元素範囲ダメージ</color>を与える。\nその後、剣影に隠れ、敵に迅雷の如き高速連斬を発動し、連続で<color=#FFACFFFF>雷元素ダメージ</color>を与える。最後の一撃は大量の<color=#FFACFFFF>雷元素範囲ダメージ</color>を与える。\n\n<i>刻晴が生み出した剣術の中で最も速い技、満天の星すらも斬り落とせる。</i>",
+      "ko": "뇌전의 힘을 폭발 시켜 <color=#FFACFFFF>번개 원소 피해</color>를 준다.\n이후 검의 그림자 속으로 은신해 주변의 적에게 번쩍이는 번개처럼 빠른 연속 참격으로 <color=#FFACFFFF>번개 원소 피해</color>를 주고 최후의 일격으로 대량의 <color=#FFACFFFF>번개 원소 범위 피해</color>를 준다.\n\n<i>각청의 검술에서 가장 빠른 초식. 하늘 위의 별들도 벨 수 있다고 한다</i>",
+      "en": "Keqing unleashes the power of lightning, dealing <color=#FFACFFFF>Electro DMG</color> in an AOE.\nShe then blends into the shadow of her blade, striking a series of thunderclap-blows to nearby opponents simultaneously that deal multiple instances of <color=#FFACFFFF>Electro DMG</color>. The final attack deals massive <color=#FFACFFFF>AoE Electro DMG</color>.\n\n<i>The swiftest technique in Keqing's personal arsenal is fast enough to bring stars crashing down.</i>",
+      "de": "Entfesselt die Kraft der Blitze und verursacht <color=#FFACFFFF>Elektro-Flächenschaden</color>.\nVersteckt sich danach im Schwertschatten und fügt den Gegnern in der Umgebung mit blitzartiger Geschwindigkeit eine Reihe von Hieben zu, die mehrstufigen <color=#FFACFFFF>Elektro-Schaden</color> und beim letzten Hieb hohen <color=#FFACFFFF>Elektro-Flächenschaden</color> verursachen.\n\n<i>Dies ist die schnellste Technik, die Keqing beherrscht. Damit kann sie sogar Sterne vom Himmel holen.</i>",
+      "es": "Keching desata el poder del rayo, infligiendo <color=#FFACFFFF>Daño Electro</color> en el AdE.\nDespués, se funde en la sombra de su espada y ataca con una serie de golpes relámpago a los enemigos infligiendo <color=#FFACFFFF>Daño Electro</color>. El ataque final inflige una gran cantidad de <color=#FFACFFFF>Daño Electro en el AdE</color>.\n\n<i>La técnica más veloz en el arsenal personal de Keching es lo suficientemente rápida como para derribar estrellas.</i>",
+      "fr": "Keqing fait appel à la puissance de l'éclair, et inflige des <color=#FFACFFFF>DGT Électro de zone</color>.\nSe fondant ensuite dans l'ombre de son épée, elle libère une série de coups tranchants rapides, infligeant aux ennemis proches des <color=#FFACFFFF>DGT Électro</color>. Le coup final inflige d'importants <color=#FFACFFFF>DGT Électro de zone</color>.\n\n<i>L'une des techniques les plus rapides de l'arsenal de Keqing, capable de faire tomber même les étoiles.</i>",
+      "pt": "Keqing desencadeia o poder dos raios, infligindo <color=#FFACFFFF>Dano Electro</color> em uma AdE.\nEla então se mistura na sombra de sua espada, desferindo uma série de golpes trovejantes nos inimigos próximos que simultaneamente infligem múltiplos acertos de <color=#FFACFFFF>Dano Electro</color>. O ataque final inflige um massivo <color=#FFACFFFF>Dano Electro em uma AdE</color>.\n\n<i>A técnica mais veloz no arsenal pessoal de Keqing é rápida o suficiente para derrubar as estrelas ao chão.</i>",
+      "ru": "Кэ Цин выпускает силу грома, нанося <color=#FFACFFFF>Электро урон по площади</color>.\nЗатем она растворяется в тени своего меча и исполняет серию молниеносных атак по всем окружающим её врагам, нанося множественный <color=#FFACFFFF>Электро урон</color>. Последний удар наносит <color=#FFACFFFF>Электро урон по площади</color>.\n\n<i>Самая быстрая атака в арсенале Кэ Цин, способная сорвать звёзды с небес.</i>",
+      "id": "Keqing melepaskan kekuatan petir, menghasilkan <color=#FFACFFFF>Electro DMG</color> pada area sekitar.\nLalu dia akan menyatu dengan bayangan pedangnya, menyerang dengan serangkaian pukulan petir kepada musuh di sekitarnya secara bersamaan yang menghasilkan beberapa <color=#FFACFFFF>Electro DMG</color>. Serangan terakhir menghasilkan <color=#FFACFFFF>Electro DMG area</color> yang luar biasa.\n\n<i>Teknik tercepat dalam ilmu pedang adalah harus cukup cepat sampai dapat memotong bintang-bintang</i>",
+      "th": "ระเบิดพลังสายฟ้าออกมา ทำให้เกิด<color=#FFACFFFF>ความเสียหายไฟฟ้า</color>เป็นวงกว้าง\nจากนั้นหลบเข้าไปในเงาของดาบตัวเอง และโจมตีศัตรูรอบ ๆ อย่างรวดเร็วและต่อเนื่องเพื่อสร้าง <color=#FFACFFFF>ความเสียหายไฟฟ้า</color>หลายครั้ง และสร้าง<color=#FFACFFFF>ความเสียหายไฟฟ้าวงกว้าง</color> อย่างรุนแรงในการโจมตีครั้งสุดท้าย\n\n<i>หนึ่งในกระบวนท่าที่รวดเร็วที่สุดของ Keqing ซึ่งสามารถฟันดวงดาว ให้ร่วงหล่นได้</i>",
+      "vi": "Dẫn nổ sức mạnh lôi điện, gây <color=#FFACFFFF>sát thương nguyên tố lôi</color> trong phạm vi.\nSau đó ẩn vào kiếm ảnh, gây liên trảm nhanh như sấm chớp cho kẻ địch xung quanh, gây nhiều lần <color=#FFACFFFF>sát thương nguyên tố lôi</color> và ở đòn cuối cùng, gây thêm <color=#FFACFFFF>sát thương phạm vi nguyên tố lôi</color>.\n\n<i>Chiêu nhanh nhất trong kiếm thuật có thể chém rơi tất cả ngôi sao trên trời.</i>"
+    },
+    "imgid": "s_423901"
+  },
+  {
+    "title": {
+      "zhs": "抵天雷罚",
+      "zht": "抵天雷罰",
+      "jp": "抵天の雷罰",
+      "ko": "하늘에 닿은 뇌벌",
+      "en": "Thundering Penance",
+      "de": "Donnernde Strafe",
+      "es": "Penitencia del trueno",
+      "fr": "Pénitence retentissante",
+      "pt": "Penitência do Trovão",
+      "ru": "Небесное покаяние",
+      "id": "Thundering Penance",
+      "th": "Thundering Penance",
+      "vi": "Sự Trừng Phạt Sấm Sét"
+    },
+    "description": {
+      "zhs": "雷楔存在期间再次施放<color=#FFD780FF>星斗归位</color>后的5秒内，刻晴获得<color=#FFACFFFF>雷元素附魔</color>。",
+      "zht": "雷楔存在期間再次施放<color=#FFD780FF>星斗歸位</color>後的5秒內，刻晴獲得<color=#FFACFFFF>雷元素附魔</color>。",
+      "jp": "雷楔継続中に再び<color=#FFD780FF>星辰帰位</color>を発動すると、刻晴は<color=#FFACFFFF>雷元素付与</color>状態を獲得する。継続時間5秒。",
+      "ko": "뇌설이 존재하는 동안 다시 <color=#FFD780FF>성신 회귀</color>를 발동하면, 5초 동안 각청은 <color=#FFACFFFF>번개 원소 부여</color>를 획득한다",
+      "en": "After recasting <color=#FFD780FF>Stellar Restoration</color> while a Lightning Stiletto is present, Keqing's weapon gains an <color=#FFACFFFF>Electro Infusion</color> for 5s.",
+      "de": "Verleiht Keqing bei erneuter Anwendung von <color=#FFD780FF>Rückkehr der Sterne</color> während der Wirkungsdauer eines Donnerkeils 5 s lang die <color=#FFACFFFF>Elektro-Kraft</color>.",
+      "es": "Al utilizar <color=#FFD780FF>Retorno estelar</color> mientras esté presente una cuña relámpago, Keching se <color=#FFACFFFF>imbuye del elemento Electro</color> durante 5 s.",
+      "fr": "Keqing obtient pendant 5 s un <color=#FFACFFFF>enchantement Électro</color> lorsqu'une Lame de foudre est active et que <color=#FFD780FF>Retour des Étoiles</color> est lancé à nouveau.",
+      "pt": "Após relançar <color=#FFD780FF>Restauração Estelar</color> enquanto um Relâmpago Stiletto está presente, Keqing ganha <color=#FFACFFFF>Encantamento Electro</color> por 5s.",
+      "ru": "При повторной активации навыка <color=#FFD780FF>Возвращение звезды</color>, когда на поле боя есть Громовой стилет, оружие Кэ Цин наделяется <color=#FFACFFFF>инфузией Электро</color> на 5 сек.",
+      "id": "Setelah melancarkan <color=#FFD780FF>Stellar Restoration</color> untuk kedua kalinya saat Lightning Stiletto masih aktif, Keqing akan mendapatkan <color=#FFACFFFF>Electro Infusion</color> selama 5 detik.",
+      "th": "ภายใน 5 วินาที หลังจากใช้ <color=#FFD780FF>Stellar Restoration</color> อีกครั้งระหว่างช่วงเวลาของ Lightning Stiletto จะทำให้ Keqing ได้รับ<color=#FFACFFFF>พลังแห่งไฟฟ้า</color>",
+      "vi": "Ở thời gian Đá Lôi tồn tại, trong vòng 5s sau khi thi triển <color=#FFD780FF>Tinh Đẩu Quy Vị</color>, Keqing nhận <color=#FFACFFFF>Nguyên Tố Lôi đính kèm</color>."
+    },
+    "imgid": "p_422101"
+  },
+  {
+    "title": {
+      "zhs": "玉衡之贵",
+      "zht": "玉衡之貴",
+      "jp": "玉衡の貴",
+      "ko": "옥형의 품격",
+      "en": "Aristocratic Dignity",
+      "de": "Hochwohlgeborenheit",
+      "es": "Dignidad aristocrática",
+      "fr": "Trésor de l'Alioth",
+      "pt": "Dignidade Aristocrática",
+      "ru": "Благородие аристократа",
+      "id": "Aristocratic Dignity",
+      "th": "Aristocratic Dignity",
+      "vi": "Ngọc Hành Cao Quý"
+    },
+    "description": {
+      "zhs": "施放<color=#FFD780FF>天街巡游</color>时，刻晴的暴击率提升15%，元素充能效率提升15%，持续8秒。",
+      "zht": "施放<color=#FFD780FF>天街巡遊</color>時，刻晴的暴擊率提升15%，元素充能效率提升15%，持續8秒。",
+      "jp": "<color=#FFD780FF>天街巡遊</color>継続中、刻晴の会心率+15%、元素チャージ効率+15%、継続時間8秒。",
+      "ko": "<color=#FFD780FF>천가 순유</color> 발동 시 각청의 치명타 확률이 15% 증가하고 원소 충전 효율이 15% 증가한다. 지속 시간: 8초",
+      "en": "When casting <color=#FFD780FF>Starward Sword</color>, Keqing's CRIT Rate is increased by 15%, and her Energy Recharge is increased by 15%. This effect lasts for 8s.",
+      "de": "Erhöht Keqings KT bei Anwendung von <color=#FFD780FF>Himmelswanderung</color> 8 s lang um 15 % und ihre Aufladerate um 15 %.",
+      "es": "Al lanzar <color=#FFD780FF>Paseo celestial</color>, la Prob. CRIT y la Recarga de Energía de Keching aumentan en un 15% durante 8 s.",
+      "fr": "Keqing obtient pendant 8 s un bonus de taux CRIT et de recharge d'énergie de 15 % lorsqu'elle libère <color=#FFD780FF>Promenade céleste</color>.",
+      "pt": "Quando lançado <color=#FFD780FF>Passeio Celestial</color>, a Taxa CRIT de Keqing é aumentada em 15%, e sua Recuperação de Energia é aumentada em 15%. Esse efeito dura por 8 segundos.",
+      "ru": "Активация навыка <color=#FFD780FF>Меч небесного тракта</color> увеличивает шанс крит. попадания Кэ Цин и её восстановление энергии на 15%. Эффект длится 8 сек.",
+      "id": "Meningkatkan 15% CRIT Rate dan Energy Recharge Keqing selama 8 detik ketika menggunakan skill <color=#FFD780FF>Starward Sword</color>.",
+      "th": "เมื่อใช้ <color=#FFD780FF>Starward Sword</color> อัตราคริของ Keqing จะเพิ่มขึ้น 15% ประสิทธิภาพการฟื้นฟูพลังงานเพิ่มขึ้น 15% เป็นเวลา 8 วินาที",
+      "vi": "Khi thi triển <color=#FFD780FF>Tuần Du Thiên Nhai</color>, tỷ lệ bạo kích của Keqing tăng 15%, hiệu quả nạp nguyên tố tăng 15%, duy trì 8s."
+    },
+    "imgid": "p_422201"
+  },
+  {
+    "title": {
+      "zhs": "总务土地",
+      "zht": "總務土地",
+      "jp": "総務土地",
+      "ko": "총무의 토지",
+      "en": "Land's Overseer",
+      "de": "Aufseher der Ländereien",
+      "es": "Supervisora de la tierra",
+      "fr": "Agencement des terres",
+      "pt": "Supervisor da Terra",
+      "ru": "Управляющий землями",
+      "id": "Land's Overseer",
+      "th": "Land's Overseer",
+      "vi": "Thổ Địa Tổng Vụ"
+    },
+    "description": {
+      "zhs": "在璃月执行探索派遣任务时，消耗的时间缩短25%。",
+      "zht": "在璃月執行探索派遣任務時，消耗的時間縮短25%。",
+      "jp": "璃月の探索任務の所要時間-25%。",
+      "ko": "리월에서 탐색 임무 수행 시 소모하는 시간이 25% 감소한다",
+      "en": "When dispatched on an expedition in Liyue, time consumed is reduced by 25%.",
+      "de": "Verkürzt die bei Erkundungen innerhalb des Einflussbereichs von Liyue verbrauchte Zeit um 25 %.",
+      "es": "Reduce en un 25% el tiempo necesario para completar una expedición en Liyue.",
+      "fr": "Réduit la durée d'une expédition de 25 % lorsqu'elle se déroule à Liyue.",
+      "pt": "Quando despachada em uma expedição em Liyue, o tempo consumido é reduzido em 25%",
+      "ru": "Уменьшает длительность экспедиций в Ли Юэ на 25%.",
+      "id": "Ketika dikirim untuk melakukan ekspedisi di Liyue, waktu yang dibutuhkan berkurang 25%.",
+      "th": "เมื่อทำคำขอการออกสำรวจของ Liyue เวลาที่ใช้จะลดลง 25%",
+      "vi": "Khi làm nhiệm vụ Phái Đi thám Hiểm ở Liyue, thời gian tiêu hao rút ngắn 25%."
+    },
+    "imgid": "p_422301"
+  }
+]

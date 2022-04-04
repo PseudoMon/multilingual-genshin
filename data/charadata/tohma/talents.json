@@ -1,0 +1,200 @@
+[
+  {
+    "title": {
+      "zhs": "普通攻击·迅破枪势",
+      "zht": "普通攻擊·迅破槍勢",
+      "jp": "通常攻撃·瞬破槍勢",
+      "ko": "일반 공격·신속한 창의 기세",
+      "en": "Normal Attack: Swiftshatter Spear",
+      "de": "Standardangriff: Schneller Schmetterspeer",
+      "es": "Ataque Normal: Lanza devastadora",
+      "fr": "Attaque normale : Lance célère",
+      "pt": "Ataque Normal - Poder da Lança Veloz",
+      "ru": "Копьё разрушения",
+      "id": "Normal Attack: Swiftshatter Spear",
+      "th": "โจมตีปกติ - Swiftshatter Spear",
+      "vi": "Tấn Công Thường - Ngọn Thương Dũng Mãnh"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>普通攻击</color>\n进行至多四段的连续枪击。\n\n<color=#FFD780FF>重击</color>\n消耗一定体力，向前方突进，对路径上的敌人造成伤害。\n\n<color=#FFD780FF>下落攻击</color>\n从空中下坠冲击地面，攻击下落路径上的敌人，并在落地时造成范围伤害。",
+      "zht": "<color=#FFD780FF>普通攻擊</color>\n進行至多四段的連續槍擊。\n\n<color=#FFD780FF>重擊</color>\n消耗一定體力，向前方突進，對路徑上的敵人造成傷害。\n\n<color=#FFD780FF>下落攻擊</color>\n從空中下墜衝擊地面，攻擊下落路徑上的敵人，並在落地時造成範圍傷害。",
+      "jp": "<color=#FFD780FF>通常攻撃</color>\n槍による最大4段の連続攻撃を行う。\n\n<color=#FFD780FF>重撃</color>\n一定のスタミナを消費して前方に突進し、経路上の敵にダメージを与える。\n\n<color=#FFD780FF>落下攻撃</color>\n空中から落下し地面に衝撃を与える。経路上の敵を攻撃し、落下時に範囲ダメージを与える。",
+      "ko": "<color=#FFD780FF>일반 공격</color>\n창으로 최대 4번 공격한다.\n\n<color=#FFD780FF>강공격</color>\n일정 스태미나를 소모해 전방으로 돌진하여 경로상의 적에게 피해를 준다.\n\n<color=#FFD780FF>낙하 공격</color>\n공중에서 땅을 내려찍어 경로상의 적을 공격하고 착지 시 범위 피해를 준다",
+      "en": "<color=#FFD780FF>Normal Attack</color>\nPerforms up to four consecutive spear strikes.\n\n<color=#FFD780FF>Charged Attack</color>\nConsumes a certain amount of Stamina to lunge forward, dealing damage to opponents along the way.\n\n<color=#FFD780FF>Plunging Attack</color>\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+      "de": "<color=#FFD780FF>Standardangriff</color>\nFührt bis zu 4 Lanzenstiche hintereinander aus.\n\n<color=#FFD780FF>Heftiger Schlag</color>\nVerbraucht eine gewisse Menge Ausdauer, sticht geschwind nach vorn und fügt den Gegnern in der Bahn Schaden zu.\n\n<color=#FFD780FF>Angriff aus dem Fall</color>\nSchlägt beim Fallen aus der Luft auf den Boden, greift alle Gegner in der Bahn an und verursacht beim Aufkommen Flächenschaden.",
+      "es": "<color=#FFD780FF>Ataque Normal</color>\nRealiza hasta 4 ataques rápidos con lanza.\n\n<color=#FFD780FF>Ataque Cargado</color>\nConsume una cierta cantidad de Aguante para lanzarse al frente, infligiendo daño a los enemigos en el camino.\n\n<color=#FFD780FF>Ataque Descendente</color>\nSe lanza desde el aire para golpear el suelo, dañando a los enemigos cercanos e infligiendo Daño en el AdE en el momento del impacto.",
+      "fr": "<color=#FFD780FF>Attaque normale</color>\nEnchaîne jusqu'à 4 coups de lance.\n\n<color=#FFD780FF>Attaque chargée</color>\nConsomme de l'endurance pour charger en ligne droite et infliger des DGT aux ennemis sur la route.\n\n<color=#FFD780FF>Attaque plongeante</color>\nPlonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis sur la route et des DGT de zone à l'impact.",
+      "pt": "<color=#FFD780FF>Ataque Normal</color>\nRealiza até 4 golpes com a lança.\n\n<color=#FFD780FF>Ataque Carregado</color>\nConsome uma certa quantidade de Stamina para se lançar para frente, infligindo Dano em seu trajeto.\n\n<color=#FFD780FF>Ataque Imersivo</color>\nMergulha em pleno ar para golpear o chão, causando dano aos inimigos ao longo do caminho e infligindo Dano em uma AdE durante o impacto.",
+      "ru": "<color=#FFD780FF>Обычная атака:</color>\nДо четырёх ударов копьём.\n\n<color=#FFD780FF>Заряженная атака:</color>\nВыпад, наносящий урон противникам на пути, на который тратится определённое количество выносливости.\n\n<color=#FFD780FF>Атака в падении:</color>\nСтремительно падает на землю, атакуя всех врагов на пути. Приземлившись, наносит урон по площади.",
+      "id": "<color=#FFD780FF>Normal Attack</color>\nMelancarkan hingga 4 serangan tombak berturut-turut.\n\n<color=#FFD780FF>Charged Attack</color>\nMengonsumsi sejumlah Stamina untuk menerjang ke depan, mengakibatkan DMG pada musuh di jalur terjangan.\n\n<color=#FFD780FF>Plunging Attack</color>\nMenerjang dari udara untuk menghantam tanah, mengakibatkan DMG pada musuh di jalur terjangan dan mengakibatkan DMG area saat mendarat.",
+      "th": "<color=#FFD780FF>โจมตีปกติ</color>\nโจมตีด้วยหอกต่อเนื่องมากสุดสี่ครั้ง\n\n<color=#FFD780FF>ชาร์จโจมตี</color>\nใช้พลังกายปริมาณหนึ่งเพื่อพุ่งไปข้างหน้า และสร้างความเสียหายแก่ศัตรูที่อยู่ในเส้นทาง\n\n<color=#FFD780FF>โจมตีพุ่งลงจากอากาศ</color>\nกระโจนจากกลางอากาศลงมายังพื้นดิน เพื่อโจมตีศัตรูที่อยู่ในเส้นทางการโจมตี โดยจะสร้างความเสียหายวงกว้างเมื่อลงถึงพื้น",
+      "vi": "<color=#FFD780FF>Tấn Công Thường</color>\nThực hiện tối đa 4 lần đánh liên tiếp.\n\n<color=#FFD780FF>Trọng Kích</color>\nTiêu hao thể lực nhất định, xông về phía trước, gây sát thương cho địch trên đường đi.\n\n<color=#FFD780FF>Tấn Công Khi Đáp</color>\nĐáp xuống đất từ trên không, tấn công kẻ địch trên đường và gây sát thương phạm vi khi chạm đất."
+    },
+    "imgid": "s_503101"
+  },
+  {
+    "title": {
+      "zhs": "烈烧佑命之侍护",
+      "zht": "烈燒佑命之侍護",
+      "jp": "烈炎侍立",
+      "ko": "타오르는 우명의 보호",
+      "en": "Blazing Blessing",
+      "de": "Lodernder Segen",
+      "es": "Bendición incandescente",
+      "fr": "Bénédiction flamboyante",
+      "pt": "Proteção das Chamas do Destino",
+      "ru": "Пылающий покров",
+      "id": "Blazing Blessing",
+      "th": "Blazing Blessing",
+      "vi": "Liệt Hỏa Hộ Mệnh"
+    },
+    "description": {
+      "zhs": "托马以枪尖刺地作为支点，倾注燃焰之力，向前迅猛踢击，造成<color=#FF9999FF>火元素范围伤害</color>，唤出护体的烈烧佑命护盾，并在施放的瞬间，为托马施加<color=#FF9999FF>火元素附着</color>。\n护盾的伤害吸收量受益于托马的生命值上限。\n烈烧佑命护盾具有如下特性：\n·对<color=#FF9999FF>火元素伤害</color>有250%的吸收效果；\n·护盾剩余的伤害吸收量在获取新的烈烧佑命护盾时将会叠加，并刷新持续时间。\n\n护盾的伤害吸收量至多不超过托马生命值上限的一定比例。\n\n<i>作为异乡来客，唯有点燃最为炽烈的盛情之火，才能习得精湛且纯粹的稻妻枪术。而托马的成就远远不止于「最速学成出师」与「枪术豪杰」，有着「守护」信念的他，还将御敌的技巧与甲胄的特性融入了自己的枪术之中。</i>",
+      "zht": "托馬以槍尖刺地作為支點，傾注燃焰之力，向前迅猛踢擊，造成<color=#FF9999FF>火元素範圍傷害</color>，喚出護體的烈燒佑命護盾，並在施放的瞬間，為托馬施加<color=#FF9999FF>火元素附著</color>。\n護盾的傷害吸收量受益於托馬的生命值上限。\n烈燒佑命護盾具有如下特性：\n·對<color=#FF9999FF>火元素傷害</color>有250%的吸收效果；\n·護盾剩餘的傷害吸收量在獲得新的烈燒佑命護盾時將會疊加，並重置持續時間。\n\n護盾的傷害吸收量至多不超過托馬生命值上限的一定比例。\n\n<i>作為異鄉來客，唯有點燃最為熾烈的盛情之火，才能習得精湛且純粹的稻妻槍術。而托馬的成就遠遠不止於「最速學成出師」與「槍術豪傑」，有著「守護」信念的他，還將禦敵的技巧與甲冑的特性融入了自己的槍術之中。</i>",
+      "jp": "地に刺した槍を支点とし、烈炎の力を注いで素早く蹴りを繰り出す。<color=#FF9999FF>炎元素範囲ダメージ</color>を与え、身を守る烈炎侍立シールドを召喚する。スキル発動の瞬間、トーマ自身に<color=#FF9999FF>炎元素付着</color>を与える。\nシールドのダメージ吸収量はトーマのHP上限によって決まる。\n烈炎侍立シールドは以下の特性を持つ。\n·<color=#FF9999FF>炎元素ダメージ</color>に対して250%の吸収効果がある。\n·シールドの残りダメージ吸収量は、新しく烈炎侍立シールドを獲得した時に重ね掛けされ、継続時間が更新される。\n\nシールドのダメージ吸収量は、トーマのHP上限の一定割合を超えることはできない。\n\n<i>異郷からの訪問者である彼が生粋の稲妻槍術を習得するには、情熱の炎を灯す必要がある。そして、トーマの功績は「最速の習得」と「槍術の豪傑」に留まらなかった。「守護」を信念に掲げる彼は、防御の技術と甲胄の特性を自身の槍術に上手く取り入れたのだ。</i>",
+      "ko": "토마는 창끝으로 화염의 힘을 피워내며 전방을 향해 돌진해 <color=#FF9999FF>불 원소 범위 피해</color>를 준다. 몸을 보호하는 타오르는 우명의 방패를 소환하고, 발동하는 순간 토마에게 <color=#FF9999FF>불 원소를 부착</color>한다.\n방패의 피해 흡수량은 토마 HP 최대치의 영향을 받는다.\n타오르는 우명의 방패는 아래의 특성을 가진다:\n·<color=#FF9999FF>불 원소 피해</color>에 대해 250%의 흡수 효과가 있다.\n·방패의 남은 피해 흡수량은, 타오르는 우명의 방패 갱신 시 중첩되며 지속 시간이 갱신된다.\n\n방패의 피해 흡수량은 토마의 HP 최대치의 일정 비율을 초과할 수 없다.\n\n<i>타향에서 온 이방인이 이나즈마의 창술을 익히기 위해선 뜨거운 정열로 가득 차있어야 한다. 토마의 목표는 「빠른 습득」과 「창술의 달인」이 되는 것에 그치지 않는다. 「수호」의 신념을 지닌 토마는 적을 방어하는 기교와 갑옷의 특성을 자신의 창술에 녹여냈다</i>",
+      "en": "Thoma vaults forward with his polearm and delivers a flame-filled flying kick that deals <color=#FF9999FF>AoE Pyro DMG</color>, while also summoning a defensive Blazing Barrier. At the moment of casting, Thoma's Elemental Skill applies <color=#FF9999FF>Pyro</color> to himself.\nThe DMG Absorption of the Blazing Barrier scales off Thoma's Max HP.\nThe Blazing Barrier has the following traits:\n·Absorbs <color=#FF9999FF>Pyro DMG</color> 250% more effectively.\n·When a new Blazing Barrier is obtained, the remaining DMG Absorption of an existing Blazing Barrier will stack and its duration will be refreshed.\n\nThe maximum DMG Absorption of the Blazing Barrier will not exceed a certain percentage of Thoma's Max HP.\n\n<i>As a guest from afar, only the most burning passion would allow one to master the pure and precise spear arts of Inazuma. Thoma's mastery, indeed, is not limited to being the \"swiftest-studying student\" or \"a master of the spear,\" but he has imbued his will to protect others and fend off foes into his art as well.</i>",
+      "de": "Thoma benutzt die Spitze seiner Stangenwaffe als Punkt, um Flammen zu kanalisieren und einen Tritt auszuführen, mit dem er <color=#FF9999FF>Pyro-Flächenschaden</color> verursacht. Erschafft dann einen Schild des lodernden Segens und verleiht Thoma beim Auslösen das <color=#FF9999FF>Pyro-Attribut</color>.\nDie Schildstärke hängt von Thomas max. LP ab.\nMerkmale des Schilds des lodernden Segens:\n· Hält bei <color=#FF9999FF>Pyro-Schaden</color> 250 % ab.\n· Addiert die verbleibende Schildstärke beim Erhalten eines neuen Schilds des lodernden Segens hinzu und setzt die Wirkungsdauer zurück.\n\nDie Schildstärke kann einen bestimmten Teil der max. LP von Thoma nicht übersteigen.\n\n<i>Für einen Gast aus der Ferne würde einem nur die brennendste Leidenschaft erlauben, die reine und präzise Stangenwaffenkunst von Inazuma zu erlernen. Thomas Errungenschaft beschränkt sich in der Tat nicht darauf, möglichst schnell der Beste zu werden, sondern er hat auch seinen Willen, seine Feinde abzuwehren und seine Kameraden zu beschützen, in seine Kunst einfließen lassen.</i>",
+      "es": "Thoma clava su lanza en el suelo para usarla como apoyo, canalizar las llamas y dar una patada que inflige <color=#FF9999FF>Daño Pyro en el AdE</color>. Además, invoca un escudo llameante que, al ser creado, aplica <color=#FF9999FF>Pyro</color> sobre Thoma.\nLa absorción de daño del escudo es proporcional a la Vida Máx. de Thoma.\nEl escudo llameante tiene las siguientes propiedades:\n·250% de eficiencia de absorción de <color=#FF9999FF>Daño Pyro</color>.\n·La cantidad de absorción de daño que le quede a un escudo llameante se acumulará con la del siguiente escudo que cree Thoma, y su duración se reiniciará.\n\nLa absorción de daño del escudo no podrá sobrepasar cierta proporción de la Vida Máx. de Thoma.\n\n<i>Como forastero que es, la única forma de dominar la exquisita y pura técnica de lanza de Inazuma es prendiendo la llama de la hospitalidad. Pero los logros de Thoma no se reducen a ser “el discípulo que más rápido aprende” y “un gran experto lancero”, sino que ha imbuido su técnica de lanza con su voluntad para proteger a los demás y para defenderse de los enemigos.</i>",
+      "fr": "Thomas utilise la pointe de sa lance comme point d'appui pour canaliser les flammes et effectuer un coup de pied qui inflige des <color=#FF9999FF>DGT Pyro de zone</color> et libère une barrière défensive brûlante. Au moment où elle se déclenche, la barrière applique <color=#FF9999FF>l'élément Pyro</color> à Thomas.\nL'absorption de DGT de la barrière est fonction des PV max de Thomas.\nLa barrière brûlante possède les caractéristiques suivantes :\n· Elle absorbe les <color=#FF9999FF>DGT Pyro</color> avec 250 % d'efficacité.\n· L'absorption de DGT restante d'une barrière brûlante existante se cumulera si une autre barrière brûlante est obtenue en même temps, tandis que sa durée sera actualisée.\n\nL'absorption maximale de DGT de la barrière ne dépassera pas un certain pourcentage des PV max de Thomas.\n\n<i>Pour un invité venu de loin, seule la passion la plus ardente permet de maîtriser les arts si précis de la lance d'Inazuma. Les prouesses de Thomas, en effet, ne se limitent pas à être « le disciple le plus rapide » ou « un lancier hautement qualifié », il a également imprégné sa technique de sa volonté de protéger les autres et de repousser les ennemis.</i>",
+      "pt": "Thoma usa a ponta de sua lança como apoio para canalizar as chamas e executar um chute que causa <color=#FF9999FF>Dano Pyro em uma AdE</color> e desencadear uma Barreira Flamejante defensiva. No momento em que é desencadeada, a Barreira concederá a Thoma <color=#FF9999FF>Infusão Pyro</color>.\nA Absorção de Dano da Barreira é baseada na Vida Máxima de Thoma.\nA Barreira Flamejante tem as seguintes propriedades:\nAbsorve o <color=#FF9999FF>Dano Pyro</color> 250% mais efetivamente.\nA absorção de Dano restante de uma Barreira Flamejante existente será acumulada e sua duração será renovada se outra Barreira Flamejante for obtida durante este tempo.\n\nA absorção máxima de Dano da Barreira não irá exceder uma determinada porcentagem baseado na Vida Máxima de Thoma.\n\n<i>Como um convidado de longe, somente a paixão mais ardente permitiria dominar a arte pura e precisa da lança de Inazuma. O domínio de Thoma, de fato, não se limita a ser o \"estudante mais rápido\" ou \"um mestre da lança\", mas ele incorporou sua vontade de proteger os outros e de combater os inimigos em sua arte também.</i>",
+      "ru": "Опираясь на воткнутое в землю копьё, Тома стремительно бьёт ногами перед собой и направляет силу пламени, нанося <color=#FF9999FF>Пиро урон по площади</color>. Также Тома призывает Пылающий щит, который накладывает на него <color=#FF9999FF>эффект Пиро</color>.\nПоглощение урона щитом зависит от макс. HP Томы.\nПылающий щит обладает следующими свойствами:\n· <color=#FF9999FF>Пиро урон</color> поглощается на 250% эффективнее.\n·Если во время действия одного Пылающего щита получен другой Пылающий щит, то оставшееся поглощение урона старого щита добавится новому щиту, время действия щита обновится.\n\nМакс. поглощение урона щита не может превышать определённую часть от макс. HP Томы.\n\n<i>Чужеземец может овладеть простым и элегантным инадзумским искусством владения копьём, лишь если в нём ярко пылает огонь почтения. Главное достижение Томы не в том, что освоил это искусство быстрее других и стал настоящим мастером. Важнее, что, веря в важность роли «хранителя», он добавил в это искусство приёмы для сдерживания врага и использование брони.</i>",
+      "id": "Thoma menggunakan ujung tombaknya sebagai poros untuk menyalurkan apinya dan melakukan tendangan yang mengakibatkan <color=#FF9999FF>Pyro DMG Area</color>, kemudian menciptakan sebuah pelindung Blazing Barrier. Saat melancarkan Elemental Skill, Thoma akan terkena <color=#FF9999FF>efek elemen Pyro</color> selama sekejap.\nDMG yang dapat ditahan oleh Barrier berdasar pada Max HP Thoma.\nBlazing Barrier mempunyai efek sebagai berikut:\n·Menahan <color=#FF9999FF>Pyro DMG</color> 250% lebih efektif.\n·Saat menciptakan Blazing Barrier baru, sisa DMG yang dapat ditahan oleh Blazing Barrier akan ditumpuk dan durasinya diperbarui.\n\nDMG maksimum yang dapat ditahan oleh Barrier tidak akan melebihi persentase tertentu dari Max HP Thoma.\n\n<i>Sebagai pendatang asing, hanya gairah membara yang memungkinkan Thoma bisa menguasai seni tombak Inazuma yang murni dan akurat. Penguasaan ilmu tombak Thoma memang tidak terbatas pada julukannya sebagai \"murid paling cepat belajar\" atau \"si ahli ilmu tombak\", tapi dia juga menanamkan tekad untuk melindungi orang lain dan mengusir musuh ke dalam seni tombaknya.</i>",
+      "th": "Thoma จะใช้ปลายแหลมของหอกเป็นจุดศูนย์กลาง ทุ่มเทพลังของเปลวไฟที่ลุกโชน และเตะไปข้างหน้าอย่างรุนแรง เพื่อสร้าง<color=#FF9999FF>ความเสียหายไฟวงกว้าง</color> จากนั้นจะเรียก Blazing Barrier ขึ้นมาป้องกันร่างกาย โดยที่ในช่วงเวลาที่ปลดปล่อยออกมานั้น จะทำให้ Thoma <color=#FF9999FF>ติดสถานะธาตุไฟ</color>\nปริมาณการดูดซับความเสียหายของโล่ จะขึ้นอยู่กับพลังชีวิตสูงสุดของ Thoma\nBlazing Barrier มีคุณลักษณะพิเศษดังต่อไปนี้:\n·มีเอฟเฟกต์การดูดซับ<color=#FF9999FF>ความเสียหายไฟ</color> 250%;\n·ปริมาณการดูดซับความเสียหายที่เหลืออยู่ของโล่ป้องกัน จะซ้อนทับกับโล่ป้องกันของ Blazing Barrier ที่ได้รับในครั้งต่อไป โดยที่ช่วงเวลาต่อเนื่องจะถูกรีเฟรช\n\nปริมาณสูงสุดของการดูดซับความเสียหาย จะไม่เกินค่าอัตราส่วนที่กำหนดของพลังชีวิตสูงสุดของ Thoma\n\n<i>ในฐานะผู้มาเยือนจากต่างแดน มีเพียงเปลวไฟแห่งการต้อนรับที่ร้อนแรงอย่างที่สุดเท่านั้น จึงจะสามารถเชี่ยวชาญวิชาหอกของ Inazuma ที่ทั้งวิจิตรบรรจงและบริสุทธิ์ได้ และความสำเร็จของ Thoma ก็ไม่ได้หยุดแค่เพียงการเป็น \"ผู้เรียนที่เร็วที่สุด\" และ \"ผู้เชี่ยวชาญวิชาหอก\" เท่านั้น เขาผู้มีความเชื่อใน \"การปกป้อง\" ยังได้รวมทักษะในการป้องกันศัตรู และคุณลักษณะพิเศษของชุดเกราะไว้ในวิชาหอกของเขาด้วย</i>",
+      "vi": "Thoma dùng mũi giáo làm điểm tựa, tiếp thêm sức mạnh của lửa để tung cú đá về phía trước, gây <color=#FF9999FF>Sát Thương Phạm Vi Nguyên Tố Hỏa</color> và triệu hồi Khiên Lửa Hộ Mệnh, đồng thời trong phút chốc khi thi triển sẽ khiến Thoma nhận <color=#FF9999FF>đính kèm Nguyên Tố Hỏa</color>.\nLượng hấp thụ sát thương của khiên sẽ bị ảnh hưởng bởi giới hạn HP của Thoma.\nKhiên Lửa Hộ Mệnh có những đặc tính sau:\n·Có 250% hiệu quả hấp thụ đối với <color=#FF9999FF>Sát Thương Nguyên Tố Hỏa</color>;\n·Lượng hấp thụ sát thương còn lại của khiên sẽ cộng dồn khi nhận Khiên Lửa Hộ Mệnh lần nữa, đồng thời làm mới thời gian duy trì.\n\nLượng hấp thụ sát thương của khiên tối đa sẽ không vượt quá tỷ lệ nhất định dựa trên giới hạn HP của Thoma.\n\n<i>Thân là kẻ tha hương, chỉ khi thắp sáng ngọn lửa nhiệt huyết nồng nhiệt nhất mới có thể học được thương thuật tinh tế và thuần túy của Inazuma. Và thành tựu của Thoma sớm đã vượt khỏi mức \"xuất sư\" và \"hào kiệt\". Mang theo ý niệm \"bảo vệ\", Thoma còn kết hợp cả kỹ xảo phòng ngự và đặc tính giáp phòng vệ vào trong thương thuật của mình.</i>"
+    },
+    "imgid": "s_503201"
+  },
+  {
+    "title": {
+      "zhs": "真红炽火之大铠",
+      "zht": "真紅熾火之大鎧",
+      "jp": "真紅熾炎の大鎧",
+      "ko": "진홍 열화의 오오요로이",
+      "en": "Crimson Ooyoroi",
+      "de": "Rote Ooyoroi",
+      "es": "Armadura calcinante",
+      "fr": "O-yoroi écarlate",
+      "pt": "Grande Armadura Flamejante",
+      "ru": "Багровый оёрой",
+      "id": "Crimson Ooyoroi",
+      "th": "Crimson Ooyoroi",
+      "vi": "Chiến Giáp Rực Cháy"
+    },
+    "description": {
+      "zhs": "托马旋转长枪，以炽烈的燃焰挥斩周围的敌人，造成<color=#FF9999FF>火元素范围伤害</color>，并产生炽火大铠。\n\n<color=#FFD780FF>炽火大铠</color>\n处于炽火大铠效果下的当前场上角色进行普通攻击时，将触发炽火崩破，造成<color=#FF9999FF>火元素范围伤害</color>，并唤出护体的烈烧佑命护盾。\n炽火崩破每1秒至多触发一次。\n\n产生的护盾，除伤害吸收量以外，特性与元素战技「烈烧佑命之侍护」的护盾相同：\n·对<color=#FF9999FF>火元素伤害</color>有250%的吸收效果；\n·护盾剩余的伤害吸收量在获取新的烈烧佑命护盾时将会叠加，并刷新持续时间。\n\n护盾的伤害吸收量至多不超过托马生命值上限的一定比例。\n\n托马倒下时，将会清除炽火大铠的效果。\n\n<i>「我绝不会忘记当初的承诺，所以这股烈火，必将守护我珍视的人，永不熄灭。」</i>",
+      "zht": "托馬旋轉長槍，以熾烈的燃焰揮斬周圍的敵人，造成<color=#FF9999FF>火元素範圍傷害</color>，並產生熾火大鎧。\n\n<color=#FFD780FF>熾火大鎧</color>\n處於熾火大鎧效果下的目前場上角色進行普通攻擊時，將觸發熾火崩破，造成<color=#FF9999FF>火元素範圍傷害</color>，並喚出護體的烈燒佑命護盾。\n熾火崩破每1秒至多觸發一次。\n\n產生的護盾，除傷害吸收量以外，特性與元素戰技「烈燒佑命之侍護」的護盾相同：\n·對<color=#FF9999FF>火元素傷害</color>有250%的吸收效果；\n·護盾剩餘的傷害吸收量在獲得新的烈燒佑命護盾時將會疊加，並重置持續時間。\n\n護盾的傷害吸收量至多不超過托馬生命值上限的一定比例。\n\n托馬倒下時，將會清除熾火大鎧的效果。\n\n<i>「我絕不會忘記當初的承諾，所以這股烈火，必將守護我珍視的人，永不熄滅。」</i>",
+      "jp": "長槍を回し、熾烈なる炎で周囲の敵を叩き斬る。<color=#FF9999FF>炎元素範囲ダメージ</color>を与え、熾炎の大鎧を創造する。\n\n<color=#FFD780FF>熾炎の大鎧</color>\n熾炎の大鎧効果にあるフィールド上キャラクターが通常攻撃を行う時、熾炎崩滅を発動し、<color=#FF9999FF>炎元素範囲ダメージ</color>を与え、身を守る烈炎侍立シールドを生成する。\n熾炎崩滅は1秒毎に1回のみ発動可能。\n\n生成したシールドはダメージ吸収量以外、元素スキル「烈炎侍立」のシールドと同じ特性を持つ。\n·<color=#FF9999FF>炎元素ダメージ</color>に対して250%の吸収効果がある。\n·シールドの残りダメージ吸収量は、新しく烈炎侍立シールドを獲得した時に重ね掛けされ、継続時間が更新される。\n\nシールドのダメージ吸収量は、トーマのHP上限の一定割合を超えることはできない。\n\nトーマが戦闘不能になった時、熾炎の大鎧の効果がクリアされる。\n\n<i>「オレはあの時の約束を決して忘れない。この烈炎は決して消えない、そしてオレの大切な人を守り抜く。」</i>",
+      "ko": "토마는 창을 회전 시켜 불타오르는 화염을 휘둘러 주변의 적에게 <color=#FF9999FF>불 원소 범위 피해</color>를 주고 열화의 오오요로이를 생성한다.\n\n<color=#FFD780FF>열화의 오오요로이</color>\n필드 위에서 열화의 오오요로이 효과를 받고 있는 캐릭터가 일반 공격 시, 열화의 붕괴를 발동하고 <color=#FF9999FF>불 원소 범위 피해</color>를 주는 동시에 몸을 지키는 타오르는 우명의 방패를 소환한다.\n열화의 붕괴는 1초마다 최대 1회 발동된다.\n\n생성된 방패는 원소전투 스킬 「타오르는 우명의 보호」의 방패와 피해 흡수량을 제외한 특성이 동일하다.\n·<color=#FF9999FF>불 원소 피해</color>에 대해 250%의 흡수 효과를 보인다.\n·방패의 남은 피해 흡수량은, 타오르는 우명의 방패 갱신 시 중첩되며 지속 시간이 갱신된다.\n\n방패의 피해 흡수량은 토마의 HP 최대치의 일정 비율을 초과할 수 없다.\n\n토마가 전투 불능 시 열화의 오오요로이 효과는 사라진다.\n\n<i>「나는 그날의 약속을 절대 잊지 않아. 이 불꽃은 내가 소중히 여기는 사람을 지키기 위해 영원히 꺼지지 않을 거야」</i>",
+      "en": "Thoma spins his polearm, slicing at his foes with roaring flames that deal <color=#FF9999FF>AoE Pyro DMG</color> and weave themselves into a Scorching Ooyoroi.\n\n<color=#FFD780FF>Scorching Ooyoroi</color>\nWhile Scorching Ooyoroi is in effect, the active character's Normal Attacks will trigger Fiery Collapse, dealing <color=#FF9999FF>AoE Pyro DMG</color> and summoning a Blazing Barrier.\nFiery Collapse can be triggered once every 1s.\n\nExcept for the amount of DMG they can absorb, the Blazing Barriers created in this way are identical to those created by Thoma's Elemental Skill, Blazing Blessing:\n·Absorbs <color=#FF9999FF>Pyro DMG</color> 250% more effectively.\n·When a new Blazing Barrier is obtained, the remaining DMG Absorption of an existing Blazing Barrier will stack and its duration will be refreshed.\n\nThe maximum DMG Absorption of the Blazing Barrier will not exceed a certain percentage of Thoma's Max HP.\n\nIf Thoma falls, the effects of Scorching Ooyoroi will be cleared.\n\n<i>\"I will not forget my initial promise. Let this burning flame protect those I cherish, and may it never be extinguished.\"</i>",
+      "de": "Thoma wirbelt seinen Speer herum und durchschneidet die Gegner in der Umgebung mit prasselndem Feuer, womit er ihnen <color=#FF9999FF>Pyro-Flächenschaden</color> zufügt. Umhüllt sich dann mit einer brennenden Ooyoroi.\n\n<color=#FFD780FF>Brennende Ooyoroi</color>\nLöst bei Angriffen aktueller Figuren unter dem Einfluss des Effekts „brennende Ooyoroi“ mit Standardangriffen „Brennender Zusammenbruch“ aus, verursacht damit <color=#FF9999FF>Pyro-Flächenschaden</color> und erschafft einen Schild des lodernden Segens.\n1 s Abklingzeit für „Brennender Zusammenbruch“.\n\nVon der Schildstärke abgesehen sind die Merkmale dieses Schildes identisch mit denen des Schildes der Elementarfähigkeit „Lodernder Segen“:\n· Hält bei <color=#FF9999FF>Pyro-Schaden</color> 250 % ab.\n· Addiert die verbleibende Schildstärke beim Erhalten eines neuen Schilds des lodernden Segens hinzu und setzt die Wirkungsdauer zurück.\n\nDie Schildstärke kann einen bestimmten Teil der max. LP von Thoma nicht übersteigen.\n\nEffekt der brennenden Ooyoroi erlischt, wenn Thoma ohnmächtig wird.\n\n<i>„Ich werde mein Versprechen, das ich damals gegeben habe, nicht vergessen. Möge diese Flamme diejenigen beschützen, die ich schätze, und möge sie niemals erlöschen.“</i>",
+      "es": "Thoma hace girar su lanza para que ataque a los enemigos de alrededor con unas flagrantes llamas que infligen <color=#FF9999FF>Daño Pyro en el AdE</color> y que crean una coraza abrasadora.\n\n<color=#FFD780FF>Coraza abrasadora</color>\nCuando un personaje en uso que esté bajo los efectos de la coraza abrasadora realiza un Ataque Normal, provocará un estallido flamígero que inflige <color=#FF9999FF>Daño Pyro en el AdE</color> y crea un escudo llameante.\nSolo puede ocurrir un estallido flamígero por segundo.\n\nAdemás de absorber daño, este escudo tiene las mismas propiedades que el escudo llameante de la Habilidad Elemental de Thoma, Bendición incandescente:\n·250% de eficiencia de absorción de <color=#FF9999FF>Daño Pyro</color>.\n·La cantidad de absorción de daño que le quede a un escudo llameante se acumulará con la del siguiente escudo que cree Thoma, y su duración se reiniciará.\n\nLa absorción de daño del escudo no podrá sobrepasar cierta proporción de la Vida Máx. de Thoma.\n\nSi este es derrotado, los efectos de la coraza abrasadora desaparecerán.\n\n<i>“Jamás olvidaré la promesa que hice. Así pues, que estas llamas nunca se extingan para proteger a las personas que más estimo”.</i>",
+      "fr": "Thomas fait tournoyer sa lance, tranchant ses ennemis avec des flammes rugissantes qui infligent des <color=#FF9999FF>DGT Pyro de zone</color> et se transforment en un o-yoroi embrasé.\n\n<color=#FFD780FF>O-yoroi embrasé</color>\nL'attaque normale d'un personnage déployé affecté par un o-yoroi embrasé déclenchera un effondrement ardent qui inflige des <color=#FF9999FF>DGT Pyro de zone</color> et crée une barrière brûlante.\nUn effondrement ardent peut être déclenché une fois toutes les secondes.\n\nUne barrière brûlante créée de cette manière est identique à celle créée grâce à la compétence élémentaire « Bénédiction flamboyante » de Thomas, à l'exception de la quantité de DGT qu'elle peut absorber.\n· Elle absorbe les <color=#FF9999FF>DGT Pyro</color> avec 250 % d'efficacité.\n· L'absorption de DGT restante d'une barrière brûlante existante se cumulera si une autre barrière brûlante est obtenue en même temps, tandis que sa durée sera actualisée.\n\nL'absorption maximale de DGT de la barrière ne dépassera pas un certain pourcentage des PV max de Thomas.\n\nSi Thomas est vaincu, les effets de l'o-yoroi embrasé se dissiperont.\n\n<i>« Je n'oublierai pas ma promesse. Que cette flamme brûlante protège ceux que je chéris, et qu'elle ne s'éteigne jamais. »</i>",
+      "pt": "Thoma gira sua lança, retalhando através de seus adversários com fogos abrasadores que causam <color=#FF9999FF>Dano Pyro em uma AdE</color> que se entrelaçam e criam uma Armadura Flamejante.\n\n<color=#FFD780FF>Armadura Flamejante</color>\nOs Ataques Normais dos personagens ativos afetados pela Armadura Flamejante irão desencadear Colapso Ardente que causa <color=#FF9999FF>Dano Pyro em uma AdE</color> e cria uma Barreira Flamejante.\nColapso Ardente pode ser desencadeado a cada 1s.\n\nAs Barreiras Flamejantes criadas desta maneira, são idênticas àquelas criadas pela Habilidade Elemental de Thoma, Proteção das Chamas do Destino, exceto pela quantidade de Dano que elas podem absorver.\nElas absorvem o <color=#FF9999FF>Dano Pyro</color> 250% mais efetivamente.\nA absorção de Dano restante de uma Barreira Flamejante existente será acumulada e sua duração será renovada se outra Barreira Flamejante for obtida durante este tempo.\n\nA absorção máxima de Dano da Barreira não irá exceder uma determinada porcentagem baseada na Vida Máxima de Thoma.\n\nSe Thoma for derrotado, os efeitos da Armadura Flamejante serão dissipados.\n\n<i>\"Não vou esquecer minha promessa inicial. Que esta chama ardente proteja aqueles que eu prezo, e que nunca se apague.\"</i>",
+      "ru": "Тома вращает копьём, обдавая врагов потоками жаркого пламени, которые наносят <color=#FF9999FF>Пиро урон по площади</color> и создают Оёрой огня.\n\n<color=#FFD780FF>Оёрой огня</color>\nОбычные атаки активного персонажа под действием Оёроя огня активируют Огненный разрыв, который наносит <color=#FF9999FF>Пиро урон по площади</color>, и призывают Пылающий щит.\nОгненный разрыв может возникнуть только раз в секунду.\n\nСозданный щит идентичен Пылающему покрову, созданному элементальным навыком Томы, во всём, кроме поглощения урона.\n· <color=#FF9999FF>Пиро урон</color> поглощается на 250% эффективнее.\n· Если во время действия одного Пылающего щита получен другой Пылающий щит, то оставшееся поглощение урона старого щита добавится новому щиту, время действия щита обновится.\n\nМакс. поглощение урона щита не может превышать определённую часть от макс. HP Томы.\n\nЕсли Тома погибает, то эффект Оёроя огня пропадает.\n\n<i>«Я никогда не забуду данное мной обещание. Пусть это пламя укроет дорогих мне людей, пусть оно вовек не погаснет».</i>",
+      "id": "Thoma memutar tombaknya untuk menebas musuh-musuh di sekitar dengan api membara yang mengakibatkan <color=#FF9999FF>Pyro DMG Area</color>, kemudian menciptakan efek Scorching Ooyoroi.\n\n<color=#FFD780FF>Scorching Ooyoroi</color>\nNormal Attack dari Karakter aktif yang memiliki efek Scorching Ooyoroi akan memicu Fiery Collapse yang mengakibatkan <color=#FF9999FF>Pyro DMG Area</color> dan menciptakan Blazing Barrier.\nFiery Collapse dapat terpicu setiap 1 detik.\n\nBlazing Barrier yang diciptakan dengan cara ini mempunyai karakteristik yang sama dengan yang terbuat dari Elemental Skill Thoma \"Blazing Blessing\", kecuali pada jumlah DMG yang dapat ditahan:\n·Menahan <color=#FF9999FF>Pyro DMG</color> 250% lebih efektif.\n·Saat menciptakan Blazing Barrier baru, sisa DMG yang dapat ditahan oleh Blazing Barrier akan ditumpuk dan durasinya diperbarui.\n\nDMG maksimum yang dapat ditahan oleh Barrier tidak akan melebihi persentase tertentu dari Max HP Thoma.\n\nJika Thoma gugur, efek Scorching Ooyoroi akan hilang.\n\n<i>\"Aku tidak akan melupakan janjiku. Biarlah api yang melindungi orang-orang yang kusayang, terus membara dan tidak pernah padam.\"</i>",
+      "th": "Thoma จะหมุนควงหอกของเขา และฟาดฟันศัตรูรอบตัวด้วยเปลวไฟอันร้อนระอุ เพื่อสร้าง<color=#FF9999FF>ความเสียหายไฟวงกว้าง</color> และทำให้เกิด Scorching Ooyoroi\n\n<color=#FFD780FF>Scorching Ooyoroi</color>\nเมื่อตัวละครที่เข้าร่วมการต่อสู้ในขณะนั้น อยู่ภายใต้สภาวะของเอฟเฟกต์ Scorching Ooyoroi และทำการโจมตีปกติ จะทำให้เกิด Fiery Collapse เพื่อสร้าง<color=#FF9999FF>ความเสียหายไฟวงกว้าง</color> และเรียก Blazing Barrier ขึ้นมาป้องกันร่างกาย\nFiery Collapse สามารถเกิดขึ้นได้มากสุดหนึ่งครั้ง ในทุก 1 วินาที\n\nโล่ที่เกิดขึ้น นอกจากปริมาณในการดูดซับความเสียหายแล้ว จะมีคุณลักษณะพิเศษ ที่เหมือนกันกับโล่ป้องกันของสกิลธาตุ Blazing Blessing:\n·มีเอฟเฟกต์การดูดซับ<color=#FF9999FF>ความเสียหายไฟ</color> 250%;\n·ปริมาณการดูดซับความเสียหายที่เหลืออยู่ของโล่ป้องกัน จะซ้อนทับกับโล่ป้องกันของ Blazing Barrier ที่ได้รับในครั้งต่อไป โดยที่ช่วงเวลาต่อเนื่องจะถูกรีเฟรช\n\nปริมาณสูงสุดของการดูดซับความเสียหาย จะไม่เกินค่าอัตราส่วนที่กำหนดของพลังชีวิตสูงสุดของ Thoma\n\nหาก Thoma หมดสติ เอฟเฟกต์ Scorching Ooyoroi จะหายไป\n\n<i>\"ฉันไม่มีทางลืมสัญญาในตอนแรกเริ่มอย่างแน่นอน เพราะงั้นเปลวไฟอันร้อนแรงนี้ จะปกป้องคนที่ฉันรัก และจะไม่มีวันมอดดับเป็นอันขาด\"</i>",
+      "vi": "Thoma xoay ngọn thương, dùng ngọn lửa đỏ rực quét tan kẻ địch xung quanh, gây <color=#FF9999FF>Sát Thương Phạm Vi Nguyên Tố Hỏa</color>, đồng thời tạo ra Chiến Giáp Lửa Đỏ.\n\n<color=#FFD780FF>Chiến Giáp Lửa Đỏ</color>\nNhân vật trong trận có hiệu quả Chiến Giáp Lửa Đỏ khi đánh thường sẽ kích hoạt Lửa Đỏ Công Phá, gây <color=#FF9999FF>Sát Thương Phạm Vi Nguyên Tố Hỏa</color>, đồng thời triệu hồi ra Khiên Lửa Hộ Mệnh.\nLửa Đỏ Công Phá mỗi 1 giây tối đa kích hoạt một lần.\n\nĐối với khiên tạo ra, ngoài lượng hấp thụ sát thương ra, đặc tính sẽ giống như khiên của kỹ năng nguyên tố \"Liệt Hỏa Hộ Mệnh\":\n·Có 250% hiệu quả hấp thụ đối với <color=#FF9999FF>Sát Thương Nguyên Tố Hỏa</color>;\n·Lượng hấp thụ sát thương còn lại của khiên sẽ cộng dồn khi nhận Khiên Lửa Hộ Mệnh lần nữa, đồng thời làm mới thời gian duy trì.\n\nLượng hấp thụ sát thương của khiên tối đa sẽ không vượt quá tỷ lệ nhất định dựa trên giới hạn HP của Thoma.\n\nKhi Thoma ngã xuống, hiệu quả Chiến Giáp Lửa Đỏ sẽ bị xóa.\n\n<i>\"Tôi sẽ không bao giờ quên lời hứa ban đầu, nên ngọn lửa rực cháy này ắt sẽ bảo vệ người mà tôi trân trọng, không bao giờ lụi tàn.\"</i>"
+    },
+    "imgid": "s_503901"
+  },
+  {
+    "title": {
+      "zhs": "甲衣交叠",
+      "zht": "甲衣交疊",
+      "jp": "重装甲胄",
+      "ko": "다중 갑옷",
+      "en": "Imbricated Armor",
+      "de": "Schichtpanzer",
+      "es": "Cota de malla",
+      "fr": "Superposition d'armures",
+      "pt": "Armadura Imbricada",
+      "ru": "Перекрывающая броня",
+      "id": "Imbricated Armor",
+      "th": "Imbricated Armor",
+      "vi": "Tầng Tầng Giáp Trụ"
+    },
+    "description": {
+      "zhs": "当前场上自己的角色获取或刷新<color=#FFD780FF>烈烧佑命护盾</color>时，护盾强效提升5%，持续时间6秒。\n此效果每0.3秒至多触发一次，至多叠加5次。",
+      "zht": "目前場上自己的角色獲得或重置<color=#FFD780FF>烈燒佑命護盾</color>時，護盾強效提升5%，持續時間6秒。\n此效果每0.3秒至多觸發一次，至多疊加5次。",
+      "jp": "フィールド上キャラクターが<color=#FFD780FF>烈炎侍立シールド</color>を獲得または更新した時、シールド強化+5%、継続時間6秒。\nこの効果は0.3秒毎に1回のみ発動可能、最大5重まで。",
+      "ko": "현재 필드 위에 있는 자신의 캐릭터가 <color=#FFD780FF>타오르는 우명의 방패</color>를 획득 또는 갱신하면, 보호막 강화 효과가 5% 증가한다. 지속 시간: 6초.\n해당 효과는 0.3초마다 최대 1회 발동한다. 최대 중첩수: 5회",
+      "en": "When your current active character obtains or refreshes a <color=#FFD780FF>Blazing Barrier</color>, this character's Shield Strength will increase by 5% for 6s.\nThis effect can be triggered once every 0.3s seconds. Max 5 stacks.",
+      "de": "Erhöht die Schildeffizienz aktueller Figuren beim Erhalten oder Aktualisieren von <color=#FFD780FF>Schild des lodernden Segens</color> 6 s lang um 5 %.\n0,3 s Abklingzeit, 5-fach stapelbar.",
+      "es": "Cuando tu personaje en uso obtiene un <color=#FFD780FF>escudo llameante</color> o reinicia su duración, la Protección de Escudo de dicho personaje aumenta en un 5% durante 6 s.\nEste efecto solo puede ocurrir una vez cada 0.3 s y acumularse 5 veces.",
+      "fr": "Lorsque le personnage déployé obtient ou actualise une <color=#FFD780FF>barrière brûlante</color>, la force de son bouclier augmente de 5 % pendant 6 s.\nCet effet peut être déclenché une fois toutes les 0,3 s et cumulé 5 fois maximum.",
+      "pt": "Quando o seu próprio personagem ativo no campo de batalha obter ou renovar uma <color=#FFD780FF>Barreira Flamejante</color>, a Força do Escudo será aumentada em 5% e terá duração de 6s.\nEsse efeito pode ser desencadeado no máximo uma vez a cada 0.3s, podendo acumular até 5 vezes.",
+      "ru": "Когда ваш активный персонаж получает или обновляет <color=#FFD780FF>Пылающий щит</color>, прочность щита этого персонажа повышается на 5% в течение 6 сек.\nЭтот эффект может возникнуть раз в 0,3 сек. и складывается до 5 раз.",
+      "id": "Saat Karakter yang sedang digunakan mendapatkan atau memperbarui <color=#FFD780FF>Blazing Barrier</color>, kekuatan perisai akan meningkat 5% selama 6 detik.\nEfek ini dapat terpicu setiap 0,3 detik. Maks. 5 tumpuk.",
+      "th": "เมื่อตัวละครของตัวเองที่เข้าร่วมการต่อสู้ในขณะนั้น ได้รับหรือรีเฟรช <color=#FFD780FF>Blazing Barrier</color> ประสิทธิภาพโล่ป้องกันจะเพิ่มขึ้น 5% เป็นเวลา 6 วินาที\nเอฟเฟกต์นี้สามารถเกิดขึ้นได้มากสุดหนึ่งครั้ง ในทุก 0.3 วินาที และซ้อนทับได้สูงสุด 5 ครั้ง",
+      "vi": "Khi nhân vật trong trận hiện tại của bản thân nhận hoặc làm mới <color=#FFD780FF>Khiên Lửa Hộ Mệnh</color>, hiệu quả khiên tăng 5%, duy trì 6 giây.\nHiệu quả này mỗi 0.3 giây tối đa kích hoạt 1 lần, cộng dồn tối đa 5 lần."
+    },
+    "imgid": "p_502101"
+  },
+  {
+    "title": {
+      "zhs": "烈火攻燔",
+      "zht": "烈火攻燔",
+      "jp": "進撃の烈炎",
+      "ko": "집어삼키는 불길",
+      "en": "Flaming Assault",
+      "de": "Flammenangriff",
+      "es": "Ofensiva incineradora",
+      "fr": "Assaut enflammé",
+      "pt": "Ataque Incinerador",
+      "ru": "Пламенная атака",
+      "id": "Flaming Assault",
+      "th": "Flaming Assault",
+      "vi": "Ngọn Lửa Mãnh Liệt"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>真红炽火之大铠</color>的炽火崩破造成的伤害提高，提高值相当于托马生命值上限的2.2%。",
+      "zht": "<color=#FFD780FF>真紅熾火之大鎧</color>的熾火崩破造成的傷害提高，提高值相當於托馬生命值上限的2.2%。",
+      "jp": "<color=#FFD780FF>真紅熾炎の大鎧</color>の熾炎崩滅によるダメージがトーマのHP上限2.2%分アップする。",
+      "ko": "<color=#FFD780FF>진홍 열화의 오오요로이</color>의 열화의 붕괴가 가하는 피해가 토마 HP 최대치의 2.2%만큼 증가한다",
+      "en": "DMG dealt by <color=#FFD780FF>Crimson Ooyoroi</color>'s Fiery Collapse is increased by 2.2% of Thoma's Max HP.",
+      "de": "Erhöht den mit dem brennenden Zusammenbruch von <color=#FFD780FF>Rote Ooyoroi</color> verursachten Schaden in Höhe von 2,2 % der max. LP von Thoma.",
+      "es": "El daño de los estallidos flamígeros provocados por <color=#FFD780FF>Armadura calcinante</color> aumenta en una cantidad equivalente al 2.2% de la Vida Máx. de Thoma.",
+      "fr": "Les DGT infligés par l'effondrement ardent d'<color=#FFD780FF>O-yoroi écarlate</color> augmentent d'une valeur équivalant à 2,2 % des PV max de Thomas.",
+      "pt": "O Dano causado pelo Colapso Ardente da <color=#FFD780FF>Grande Armadura Flamejante</color> é aumentado em 2.2% baseado na Vida Máxima de Thoma.",
+      "ru": "Урон, наносимый Огненным разрывом <color=#FFD780FF>Багрового оёроя</color>, увеличивается на 2,2% от макс. HP Томы.",
+      "id": "DMG Fiery Collapse dari <color=#FFD780FF>Crimson Ooyoroi</color> meningkat sebesar 2,2 % dari Max HP Thoma.",
+      "th": "Fiery Collapse ของ <color=#FFD780FF>Crimson Ooyoroi</color> สร้างความเสียหายเพิ่มขึ้น โดยปริมาณที่เพิ่มจะเท่ากับ 2.2% ของพลังชีวิตสูงสุดของ Thoma",
+      "vi": "Tăng sát thương Lửa Đỏ Công Phá của hiệu quả <color=#FFD780FF>Chiến Giáp Rực Cháy</color>, mức tăng thêm tương đương 2.2% giới hạn HP của Thoma."
+    },
+    "imgid": "p_502201"
+  },
+  {
+    "title": {
+      "zhs": "悬鲷狩",
+      "zht": "懸鯛狩",
+      "jp": "懸鯛狩り",
+      "ko": "가케타이 낚시",
+      "en": "Snap and Swing",
+      "de": "Brassenjagd",
+      "es": "Apasionado de la pesca",
+      "fr": "Passion pêche",
+      "pt": "Apaixonado Pela Pesca",
+      "ru": "Замах и заброс",
+      "id": "Snap and Swing",
+      "th": "Snap and Swing",
+      "vi": "Tài Năng Câu Cá"
+    },
+    "description": {
+      "zhs": "旅行者在稻妻成功<color=#FFD780FF>钓鱼</color>时，因为托马的帮助，有20%概率获得2倍产出。",
+      "zht": "旅行者在稻妻成功<color=#FFD780FF>釣魚</color>時，因為托馬的幫助，有20%的機率獲得2倍產出。",
+      "jp": "旅人が稲妻地域で<color=#FFD780FF>釣り</color>に成功した時、トーマの協力によって20%の確率で魚を2倍獲得する。",
+      "ko": "여행자가 이나즈마에서 <color=#FFD780FF>낚시를</color> 성공하면, 토마의 도움을 받아 20%의 확률로 2배의 어획량을 획득한다",
+      "en": "When you <color=#FFD780FF>fish</color> successfully in Inazuma, Thoma's help grants a 20% chance of scoring a double catch.",
+      "de": "Bringt beim erfolgreichen <color=#FFD780FF>Angeln</color> in Inazuma dank Thomas Hilfe mit einer Wahrscheinlichkeit von 20 % den 2-fachen Ertrag.",
+      "es": "#Cuando {F#la}{M#el} viajer{F#a}{M#o} <color=#FFD780FF>pesca</color> en Inazuma, hay un 20% de probabilidad de obtener el doble de peces gracias a la ayuda de Thoma.",
+      "fr": "#Lorsque {M#le voyageur}{F#la voyageuse} réussit une <color=#FFD780FF>pêche</color> à Inazuma, l'aide de Thomas accorde 20 % de chances d'obtenir le double de prises.",
+      "pt": "Quando você <color=#FFD780FF>pescar</color> com sucesso em Inazuma, possui 20% de chance de obter o dobro de peixe graças a ajuda do Thoma.",
+      "ru": "#Тома помогает путешественни{F#це}{M#ку} с <color=#FFD780FF>рыбалкой</color> в Инадзуме, давая {F#ей}{M#ему} 20% шанс получить двойной улов.",
+      "id": "Saat Traveler sukses <color=#FFD780FF>memancing</color> di Inazuma, terdapat 20% kemungkinan untuk mendapatkan hasil dua kali lipat berkat bantuan Thoma.",
+      "th": "เมื่อนักเดินทาง<color=#FFD780FF>ตกปลา</color>ใน Inazuma สำเร็จ ด้วยความช่วยเหลือของ Thoma จะทำให้มีโอกาส 20% ที่จะได้รับปลาเพิ่มเป็น 2 เท่า",
+      "vi": "Khi Nhà Lữ Hành <color=#FFD780FF>câu cá</color> thành công tại Inazuma, nhờ có Thoma giúp đỡ, có 20% khả năng nhận gấp đôi sản lượng."
+    },
+    "imgid": "p_502301"
+  }
+]

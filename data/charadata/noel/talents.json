@@ -1,0 +1,200 @@
+[
+  {
+    "title": {
+      "zhs": "普通攻击·西风剑术·女仆",
+      "zht": "普通攻擊·西風劍術·女僕",
+      "jp": "通常攻撃·西風剣術·メイド",
+      "ko": "일반 공격·페보니우스 검술·메이드",
+      "en": "Normal Attack: Favonius Bladework - Maid",
+      "de": "Standardangriff: Favonius-Schwertkunst – Magd",
+      "es": "Ataque Normal: Técnica de espada Favonius - Criada",
+      "fr": "Attaque normale : Escrime de Favonius - Servante",
+      "pt": "Ataque Normal: Técnica de Espada de Favonius - Empregada",
+      "ru": "Фехтовальный стиль Фавония: Горничная",
+      "id": "Normal Attack: Favonius Bladework - Maid",
+      "th": "โจมตีปกติ - Favonius Bladework · Maid",
+      "vi": "Tấn Công Thường: Tây Phong Kiếm Thuật - Hầu Gái"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>普通攻击</color>\n进行至多四段的连续挥砍。\n\n<color=#FFD780FF>重击</color>\n持续消耗体力，旋转大剑攻击周围的敌人。\n停止旋转时，会进行一次格外有力的挥砍。\n\n<color=#FFD780FF>下落攻击</color>\n从空中下坠冲击地面，攻击下落路径上的敌人，并在落地时造成范围伤害。",
+      "zht": "<color=#FFD780FF>普通攻擊</color>\n進行至多四段的連續揮砍。\n\n<color=#FFD780FF>重擊</color>\n持續消耗體力，旋轉大劍攻擊周圍的敵人。\n停止旋轉時，會進行一次格外有力的揮砍。\n\n<color=#FFD780FF>下落攻擊</color>\n從空中下墜衝擊地面，攻擊下落路徑上的敵人，並在落地時造成範圍傷害。",
+      "jp": "<color=#FFD780FF>通常攻撃</color>\n最大4段の連続攻撃を行う。\n\n<color=#FFD780FF>重撃</color>\n持続的にスタミナを消費し、大剣を振り回して周囲の敵を攻撃する。\n重撃が終了した時に、さらに強力な攻撃を1回放つ。\n\n<color=#FFD780FF>落下攻撃</color>\n空中から落下し地面に衝撃を与える。経路上の敵を攻撃し、落下時に範囲ダメージを与える。",
+      "ko": "<color=#FFD780FF>일반 공격</color>\n검으로 최대 4번 공격한다.\n\n<color=#FFD780FF>강공격</color>\n스태미나를 지속해서 소모해 검을 휘두르며 주변의 적을 공격한다.\n회전 종료 시 추가로 한 번 더 강력하게 휘두른다.\n\n<color=#FFD780FF>낙하 공격</color>\n공중에서 땅을 내려찍어 경로상의 적을 공격하고 착지 시 범위 피해를 준다",
+      "en": "<color=#FFD780FF>Normal Attack</color>\nPerform up to 4 consecutive strikes.\n\n<color=#FFD780FF>Charged Attack</color>\nDrains Stamina over time to perform continuous spinning attacks against all nearby opponents.\nAt the end of the sequence, perform a more powerful slash. \n\n<color=#FFD780FF>Plunging Attack</color>\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+      "de": "<color=#FFD780FF>Standardangriff</color>\nFührt bis zu 4 Schwünge mit dem Schwert hintereinander aus.\n\n<color=#FFD780FF>Heftiger Schlag</color>\nVerbraucht fortlaufend Ausdauer, wirbelt das Großschwert und greift Gegner in der Umgebung an.\nSchwingt das Schwert am Ende mit besonders großer Wucht.\n\n<color=#FFD780FF>Angriff aus dem Fall</color>\nSchlägt beim Fallen aus der Luft auf den Boden, greift alle Gegner in der Bahn an und verursacht beim Aufkommen Flächenschaden.",
+      "es": "<color=#FFD780FF>Ataque Normal</color>\nRealiza hasta 4 tajos de espada consecutivos.\n\n<color=#FFD780FF>Ataque Cargado</color>\nConsume Aguante de manera constante para realizar golpes de espada giratorios contra los enemigos cercanos.\nAl final del Ataque Cargado, realizará un golpe de espada más poderoso.\n\n<color=#FFD780FF>Ataque Descendente</color>\nSe lanza desde el aire para golpear el suelo, dañando a los enemigos cercanos e infligiendo Daño en el AdE en el momento del impacto.",
+      "fr": "<color=#FFD780FF>Attaque normale</color>\nEnchaîne jusqu'à 4 coups d'épée.\n\n<color=#FFD780FF>Attaque chargée</color>\nExécute une succession d'attaques tournoyantes contre les ennemis proches ; cette attaque consomme de l'endurance de façon continue.\nL'attaque chargée se termine sur un coup puissant.\n\n<color=#FFD780FF>Attaque plongeante</color>\nPlonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis en chemin et des DGT de zone à l'impact.",
+      "pt": "<color=#FFD780FF>Ataque Normal</color>\nRealiza até 4 golpes consecutivos.\n\n<color=#FFD780FF>Ataque Carregado</color>\nDrena Stamina ao longo do tempo para realizar um ataque giratório contínuo contra todos os inimigos próximos.\nAo final da sequência, realiza um corte poderoso.\n\n<color=#FFD780FF>Ataque Imersivo</color>\nMergulha em pleno ar para golpear o chão, danificando inimigos em seu caminho e infligindo Dano em uma AdE durante o impacto.",
+      "ru": "<color=#FFD780FF>Обычная атака:</color>\nДо четырёх рубящих ударов мечом.\n\n<color=#FFD780FF>Заряженная атака:</color>\nВращающаяся атака по окружающим врагам, на которую непрерывно тратится выносливость.\nПосле вращения проводит дополнительную мощную атаку мечом.\n\n<color=#FFD780FF>Атака в падении:</color>\nСтремительно падает на землю, атакуя всех врагов на пути. Приземлившись, наносит урон по площади.",
+      "id": "<color=#FFD780FF>Normal Attack</color> Melancarkan hingga 4 tebasan berturut-turut.\n\n<color=#FFD780FF>Charged Attack</color>\nTerus menguras Stamina untuk melancarkan serangan berputar yang mengakibatkan DMG ke musuh di sekitar.\nDiakhiri dengan sebuah tebasan yang kuat.\n\n<color=#FFD780FF>Plunging Attack</color>\nMenerjang dari udara untuk menghantam tanah, mengakibatkan DMG pada musuh di jalur terjangan dan mengakibatkan DMG area saat mendarat.",
+      "th": "<color=#FFD780FF>โจมตีปกติ</color>\nฟาดฟันต่อเนื่องมากสุดสี่ครั้ง\n\n<color=#FFD780FF>ชาร์จโจมตี</color>\nใช้พลังกายอย่างต่อเนื่องเพื่อหมุนโจมตีศัตรูรอบตัวด้วยดาบขนาดใหญ่\nเมื่อหยุดหมุนจะทำการฟันเพิ่มอย่างรุนแรงอีกหนึ่งครั้ง\n\n<color=#FFD780FF>โจมตีพุ่งลงจากอากาศ</color>\nกระโจนจากกลางอากาศลงมายังพื้นดิน เพื่อโจมตีศัตรูที่อยู่ในเส้นทางการโจมตี โดยจะสร้างความเสียหายวงกว้างเมื่อลงถึงพื้น",
+      "vi": "<color=#FFD780FF>Tấn Công Thường</color>\nThực hiện tối đa 4 lần chém liên tiếp.\n\n<color=#FFD780FF>Trọng Kích</color>\nTiêu hao thể lực để xoay kiếm tấn công địch xung quanh.\nKhi ngừng quay, sẽ bổ một nhát cực mạnh.\n\n<color=#FFD780FF>Tấn Công Khi Đáp</color>\nĐáp xuống đất từ trên không, tấn công kẻ địch trên đường và gây sát thương phạm vi khi chạm đất."
+    },
+    "imgid": "s_343101"
+  },
+  {
+    "title": {
+      "zhs": "护心铠",
+      "zht": "護心鎧",
+      "jp": "護心鎧",
+      "ko": "호심경",
+      "en": "Breastplate",
+      "de": "Brustpanzer",
+      "es": "Guardiana del corazón",
+      "fr": "Armure de cœur",
+      "pt": "Guardião do Coração",
+      "ru": "Бронефартук",
+      "id": "Breastplate",
+      "th": "Breastplate",
+      "vi": "Giáp Hộ Tâm"
+    },
+    "description": {
+      "zhs": "唤出护体的岩铠，对周围的敌人造成<color=#FFE699FF>岩元素伤害</color>，并形成护盾，伤害吸收量基于诺艾尔的防御力。\n护盾具有如下效果：\n·诺艾尔的普通攻击与重击命中时，都有几率为队伍中所有角色恢复生命值；\n·对所有元素伤害与物理伤害有150%的吸收效果。\n\n触发治疗时的治疗量受益于诺艾尔的防御力。\n\n<i>诺艾尔既是侍奉的女仆，也是坚毅的骑士。</i>",
+      "zht": "喚出護體的岩鎧，對周圍的敵人造成<color=#FFE699FF>岩元素傷害</color>，並形成護盾，傷害吸收量基於諾艾爾的防禦力。\n護盾具有如下效果：\n·諾艾爾的普通攻擊與重擊命中時，都有機率為隊伍中所有角色恢復生命值；\n·對所有元素傷害與物理傷害有150%的吸收效果。\n\n觸發治療時的治療量受益於諾艾爾的防禦力。\n\n<i>諾艾爾既是侍奉的女僕，也是堅毅的騎士。</i>",
+      "jp": "護身の岩鎧を召喚し、周囲の敵に<color=#FFE699FF>岩元素ダメージ</color>を与え、シールドを生成する、ダメージ吸収量はノエルの防御力によって決まる。\nシールドは下記の効果が発動する。\n·ノエルの通常攻撃または重撃が命中した時、一定の確率でチーム全員のHPを回復する。\n·全元素ダメージおよび物理ダメージに対して150%の吸収効果を持つ。\n\n回復効果の回復量はノエルの防御力によって決まる。\n\n<i>ノエルは奉仕するメイドであり、毅然たる騎士でもある。</i>",
+      "ko": "몸을 지키는 바위 갑주를 소환해 주변의 적에게 <color=#FFE699FF>바위 원소 피해</color>를 주고 보호막을 생성한다. 피해 흡수량은 노엘의 방어력의 영향을 받는다.\n보호막은 아래의 효과를 가진다:\n·노엘의 일반 공격과 강공격이 명중 시 일정 확률로 파티 내 모든 캐릭터의 HP를 회복한다；\n·모든 원소 피해와 물리 피해에 대해 150%의 흡수 효과가 있다.\n\n치유 효과 발동 시 치유량은 노엘의 방어력의 영향을 받는다.\n\n<i>노엘은 메이드일 뿐만 아니라 강인한 기사이기도 하다</i>",
+      "en": "Summons protective stone armor, dealing <color=#FFE699FF>Geo DMG</color> to surrounding opponents and creating a shield. The shield's DMG Absorption scales based on Noelle's DEF.\nThe shield has the following properties:\n·When Noelle's Normal and Charged Attacks hit a target, they have a certain chance to regenerate HP for all characters.\n·Possesses 150% DMG Absorption efficiency against all Elemental and Physical DMG.\n\nThe amount of HP healed when regeneration is triggered scales based on Noelle's DEF.\n\n<i>Noelle is both a dutiful maid and a valiant knight.</i>",
+      "de": "Erschafft einen Geo-Panzer, der Gegnern in der Umgebung <color=#FFE699FF>Geo-Schaden</color>zufügt, sowie einen Schutzschild, der Schaden basierend auf Noelles VTD abhält.\nEffekte des Schutzschilds:\n· Noelle stellt allen Truppenmitgliedern bei Treffern mit Standardangriffen und heftigen Schlägen mit gewisser Wahrscheinlichkeit LP wieder her.\n· Hält bei elementarem sowie physischem Schaden 150 % ab.\n\nHeilkraft basiert auf Noelles VTD.\n\n<i>Noelle ist eine hingebungsvolle Magd, aber auch ein zielstrebiger Ritter.</i>",
+      "es": "Invoca un recubrimiento Geo que inflige <color=#FFE699FF>Daño Geo</color> a los enemigos cercanos y absorbe daño en proporción a la DEF de Noelle. El escudo tiene los siguientes efectos:\n·Cuando los Ataques Normales y Ataques Cargados de Noelle golpean un objetivo, hay una probabilidad de regenerar Vida para todos los miembros del equipo.\n·Posee un 150% de eficiencia de absorción contra todo el Daño Elemental y el Daño Físico.\n\nLa cantidad de Vida curada es proporcional a la DEF de Noelle.\n\n<i>Noelle es una fiel criada y, al mismo tiempo, una valiente caballera.</i>",
+      "fr": "Invoque une armure de roche qui inflige des <color=#FFE699FF>DGT Géo</color> aux ennemis proches et génère un bouclier absorbant une quantité de DGT proportionnelle à la DÉF de Noëlle.\nL'armure de roche a les propriétés suivantes :\n· Les attaques normales et chargées de Noëlle ont une chance de restaurer les PV de tous les personnages de l'équipe lorsqu'elles touchent un ennemi.\n· L'armure est efficace à 150 % contre les DGT élémentaires et physiques.\n\nLes soins reçus sont proportionnels à la DÉF de Noëlle.\n\n<i>Noëlle est à la fois une servante fidèle et un chevalier vaillant.</i>",
+      "pt": "Invoca uma armadura protetora, infligindo <color=#FFE699FF>Dano Geo</color> nos inimigos próximos e criando um escudo. A Absorção de Dano do escudo aumenta baseado na DEF de Noelle.\nO escudo tem as seguintes propriedades:\nQuando os Ataques Normais e Ataques Carregados da Noelle acertarem um alvo, eles terão uma certa chance de recuperar a Vida de todos os personagens.\nPossui 150% de Eficiência em Absorção contra todos os danos elementais.\n\nA quantidade de Vida curada quando a recuperação é desencadeada é baseada na DEF de Noelle.\n\n<i>Noelle é ao mesmo tempo uma empregada dedicada e uma cavaleira corajosa.</i>",
+      "ru": "Навык призывает каменную броню, которая наносит <color=#FFE699FF>Гео урон</color> окружающим врагам и создаёт щит. Поглощаемый урон зависит от защиты Ноэлль.\nЩит имеет следующие свойства:\n· Попадания обычной и заряженной атакой Ноэлль имеют шанс восстановить HP всем членам отряда.\n· Любой элементальный и физический урон поглощается на 150% эффективнее.\n\nКоличество восстанавливаемого HP зависит от защиты Ноэлль.\n\n<i>Ноэлль не только послушная горничная, но также и доблестный рыцарь.</i>",
+      "id": "Menciptakan zirah batu yang mengakibatkan <color=#FFE699FF>Geo DMG</color> pada musuh di sekitar dan membentuk perisai. DMG yang ditahan perisai berdasarkan DEF Noelle.\nPerisainya memiliki ciri-ciri berikut:\n·Saat Normal dan Charged Attack Noelle mengenai target, berkemungkinan memulihkan HP untuk semua karakter.\n·Memiliki 150% Efisiensi Penahanan DMG terhadap semua Elemental dan Physical DMG.\n\nJumlah HP yang dipulihkan meningkat berdasarkan DEF Noelle.\n\n<i>Noelle adalah seorang pelayan yang sangat sigap, dan juga seorang Knight yang sangat gagah.</i>",
+      "th": "เรียกเกราะหินออกมาเพื่อสร้าง <color=#FFE699FF>ความเสียหายหิน</color> แก่ศัตรูโดยรอบ และสร้างโล่ขึ้นมา เพื่อดูดซับความเสียหาย เท่ากับพลังป้องกันของ Noelle\nโล่ป้องกันจะมีเอฟเฟกต์ดังนี้:\n·เมื่อการโจมตีปกติหรือชาร์จโจมตีของ Noelle โดนเป้าหมาย จะทำให้มีโอกาสฟื้นฟูพลังชีวิต ให้แก่ตัวละครทั้งหมดในทีม\n·มีเอฟเฟกต์การดูดซับความเสียหายธาตุทุกประเภทและความเสียหายกายภาพ 150%\n\nเมื่อเกิดเอฟเฟกต์การรักษา ปริมาณการรักษาจะขึ้นอยู่กับพลังป้องกันของ Noelle\n\n<i>Noelle นั้นไม่เพียงจะเป็นสาวใช้ แต่เธอยังเป็นอัศวินผู้มีความพยายาม อีกด้วย</i>",
+      "vi": "Gọi ra giáp Nham bảo vệ bản thân, gây <color=#FFE699FF>sát thương Nguyên Tố Nham</color> cho kẻ địch xung quanh và hình thành khiên, lượng sát thương hấp thu dựa theo phòng ngự của Noelle.\nHiệu quả khiên:\n·Khi tấn công thường và trọng kích của Noelle đánh trúng kẻ địch đều có tỷ lệ hồi phục HP cho tất cả các nhân vật trong đội;\nCó hiệu quả hấp thụ 150% tất cả sát thương nguyên tố và sát thương vật lý.\n\nLượng trị liệu dựa trên phòng ngự của Noelle.\n\n<i>Noelle tuy là hầu gái nhưng cũng là một kỵ sĩ kiên cường.</i>"
+    },
+    "imgid": "s_343201"
+  },
+  {
+    "title": {
+      "zhs": "大扫除",
+      "zht": "大掃除",
+      "jp": "大掃除",
+      "ko": "대청소",
+      "en": "Sweeping Time",
+      "de": "Großreinigung",
+      "es": "Hora de limpiar",
+      "fr": "Grand ménage",
+      "pt": "Grande Limpeza",
+      "ru": "Генеральная уборка",
+      "id": "Sweeping Time",
+      "th": "Sweeping Time",
+      "vi": "Quét Sạch"
+    },
+    "description": {
+      "zhs": "将磐石的力量凝聚在武器上，冲击周围的敌人并进行一次大范围扫击，造成<color=#FFE699FF>岩元素伤害</color>。\n此后，获得如下效果：\n·提高诺艾尔的攻击范围；\n·将攻击伤害转为<color=#FFE699FF>岩元素伤害</color>，该元素转化无法被附魔覆盖；\n·基于诺艾尔的防御力，提高攻击力。\n\n<i>需要扫除的，有时不仅仅是灰尘…</i>",
+      "zht": "將磐石的力量凝聚在武器上，衝擊周圍的敵人並進行一次大範圍掃擊，造成<color=#FFE699FF>岩元素傷害</color>。\n此後獲得如下效果：\n·提高諾艾爾的攻擊範圍。\n·將攻擊傷害轉為<color=#FFE699FF>岩元素傷害</color>，且此元素轉化無法由附魔覆蓋。\n·根據諾艾爾的防禦力提高攻擊力。\n\n<i>需要掃除的，有時不僅僅是灰塵…</i>",
+      "jp": "盤石の力を武器に凝集させ、周囲の敵に衝撃を与えて広範囲攻撃を1回行い、<color=#FFE699FF>岩元素ダメージ</color>を与える。\nその後、下記の効果が発動される。\n·ノエルの攻撃範囲が大幅にアップする。\n·攻撃ダメージは<color=#FFE699FF>岩元素ダメージ</color>となり、元素付与によって他の元素に変化することはない。\n·ノエルの防御力を基準に攻撃力がアップする。\n\n<i>時に掃除が必要なのは、埃だけではありませんね…</i>",
+      "ko": "반석의 힘을 무기에 모아 주변의 적에게 충격을 주고 한차례 큰 범위 공격을 발동해 <color=#FFE699FF>바위 원소 피해</color>를 준다.\n발동 후 아래의 효과를 가진다:\n·노엘의 공격 범위가 증가한다.\n·공격이 <color=#FFE699FF>바위 원소 피해</color>로 전환되며, 해당 원소 전환은 다른 원소 부여 효과로 대체 될 수 없다.\n·노엘의 방어력에 기반하여 공격력이 상승한다.\n\n<i>청소해야 하는 건 먼지뿐만이 아니다…</i>",
+      "en": "Gathering the strength of stone around her weapon, Noelle strikes the opponents surrounding her within a large AoE, dealing <color=#FFE699FF>Geo DMG</color>.\nAfterwards, Noelle gains the following effects:\n·Larger attack AoE.\n·Converts attack DMG to <color=#FFE699FF>Geo DMG</color> that cannot be overridden by any other elemental infusion.\n·Increased ATK that scales based on her DEF.\n\n<i>Sometimes, it's not just dust that needs sweeping...</i>",
+      "de": "Konzentriert die Kraft der Felsen auf ihrer Waffe, greift Gegner in der Umgebung mit hoher Reichweite an und verursacht <color=#FFE699FF>Geo-Schaden</color>.\nLöst danach folgende Effekte aus:\n· Erhöht Noelles Angriffsreichweite.\n· Wandelt den verursachten Schaden in <color=#FFE699FF>Geo-Schaden</color> um. Diese Elementarumwandlung kann nicht von anderen Elementen überdeckt werden.\n· Erhöht Noelles ANG basierend auf Noelles VTD.\n\n<i>Was gesäubert werden muss, ist nicht immer nur einfacher Dreck ...</i>",
+      "es": "Al reunir el poder de la roca alrededor de su arma, Noelle golpea a los enemigos que la rodean dentro de una gran AdE, infligiendo <color=#FFE699FF>Daño Geo</color>.\nDespués, Noelle obtiene los siguientes efectos:\n·Aumenta el alcance de su ataque.\n·Convierte el daño de ATQ en <color=#FFE699FF>Daño Geo</color>. Este cambio elemental no puede ser sustituido imbuyéndolo de otro elemento.\n·Aumenta el ATQ en proporción a la DEF de Noelle.\n\n<i>Lo que debe limpiarse a veces no es solo el polvo...</i>",
+      "fr": "Concentrant le pouvoir de la roche sur son arme, Noëlle exécute une puissante attaque circulaire qui inflige des <color=#FFE699FF>DGT Géo</color> aux ennemis proches.\nNoëlle bénéficie ensuite des effets suivants :\n· Portée d'attaque augmentée.\n· DGT d'attaque convertis en <color=#FFE699FF>DGT Géo</color> ne pouvant pas être enchantés.\n· Bonus d'ATQ proportionnel à la DÉF de Noëlle.\n\n<i>Parfois, la poussière n'est pas la seule chose qu'il faut balayer... </i>",
+      "pt": "Reunindo a força da pedra em sua arma, Noelle ataca os inimigos ao seu redor com uma grande AdE, causando <color=#FFE699FF>Dano Geo</color>.\nEm seguida, Noelle ganha os seguintes efeitos:\n·Aumenta a AdE do Ataque da Noelle.\n·Converte o Dano ATQ para <color=#FFE699FF>Dano Geo</color>. O efeito dessa conversão elemental não pode ser anulado por nenhuma outra conversão elemental. \n·Seu ATQ aumenta com base na sua DEF.\n\n<i>Às vezes, não é apenas poeira que precisa ser varrida...</i>",
+      "ru": "Ноэлль собирает силу камня вокруг своего меча и проводит атаку по врагам в большом радиусе, нанося им <color=#FFE699FF>Гео урон</color>.\nПосле этого Ноэлль получает следующие эффекты:\n· Увеличивается радиус атак.\n· Конвертирует урон от атак в <color=#FFE699FF>Гео урон</color>, этот эффект не может быть отменён какой-либо элементальной инфузией.\n·Сила атаки увеличивается пропорционально защите Ноэлль.\n\n<i>Бывают такие ситуации, когда метлы может оказаться недостаточно...</i>",
+      "id": "Mengumpulkan kekuatan Geo di sekitar senjatanya, Noelle menghantam musuh di sekitarnya dengan serangan dalam area besar, mengakibatkan <color=#FFE699FF>Geo DMG</color>.\nSetelahnya, Noelle mendapatkan efek berikut:\n·Serangan area yang lebih besar.\n·Mengonversi serangan menjadi <color=#FFE699FF>Geo DMG</color>, konversi ini tidak bisa ditimpa oleh Elemental Infusion lainnya.\n·Peningkatan ATK yang meningkat berdasarkan DEF dia.\n\n<i>Terkadang, bukan hanya debu yang harus dibersihkan...</i>",
+      "th": "รวบรวมพลังแห่งหินไว้บนอาวุธและระเบิดพลังใส่ศัตรูทั้งหมดที่อยู่รอบ ๆ กลายเป็นการโจมตีวงกว้างหนึ่งครั้งเพื่อสร้าง<color=#FFE699FF>ความเสียหายหิน</color>\nหลังจากนั้นจะได้รับเอฟเฟกต์ดังนี้:\n·เพิ่มอาณาเขตการโจมตีของ Noelle \n·เปลี่ยนความเสียหายของการโจมตีเป็น<color=#FFE699FF>ความเสียหายหิน</color> โดยที่ไม่สามารถแทนที่ด้วยการแปลงของธาตุอื่นได้;\n·เพิ่มพลังโจมตีตามพลังป้องกันของ Noelle\n\n<i>สิ่งที่จำเป็นต้องปัดกวาด บางครั้งก็ไม่ได้มีแค่ฝุ่นเท่านั้น...</i>",
+      "vi": "Ngưng tụ sức mạnh của đá lên vũ khí, càn quét phạm vi lớn đối với địch xung quanh, gây <color=#FFE699FF>sát thương nguyên tố Nham</color>.\nSau đó nhận hiệu quả như sau:\n·Tăng phạm vi tấn công của Noelle;\n·Chuyển hóa sát thương tấn công thành <color=#FFE699FF>sát thương nguyên tố Nham</color>, chuyển hóa Nguyên Tố này không thể bị đính kèm thay thế;\n·Dựa trên phòng ngự của Noelle, tăng tấn công.\n\n<i>Đôi lúc không chỉ có bụi bẩn mới cần quét dọn...</i>"
+    },
+    "imgid": "s_343901"
+  },
+  {
+    "title": {
+      "zhs": "全心全意",
+      "zht": "全心全意",
+      "jp": "誠心誠意",
+      "ko": "전심전의",
+      "en": "Devotion",
+      "de": "Ernsthaftigkeit",
+      "es": "De todo corazón",
+      "fr": "Dévotion ultime",
+      "pt": "Devoção",
+      "ru": "От всего сердца",
+      "id": "Devotion",
+      "th": "Devotion",
+      "vi": "Toàn Tâm Toàn Ý"
+    },
+    "description": {
+      "zhs": "诺艾尔处于队伍后台，且当前场上自己的角色的生命值低于30%时自动触发：\n为当前场上自己的角色生成一个伤害吸收量等同于诺艾尔防御力400%的护盾，持续20秒。\n·对所有元素伤害与物理伤害有150%的吸收效果。\n该效果60秒内只能触发一次。",
+      "zht": "諾艾爾處於隊伍後臺，且當前場上自己的角色的生命值低於30%時自動觸發：\n為當前場上自己的角色生成一個傷害吸收量等同於諾艾爾防禦力400%的護盾，持續20秒。\n·對所有元素傷害與物理傷害有150%的吸收效果。\n該效果60秒內只能觸發一次。",
+      "jp": "ノエルが待機時、出場している自身のキャラクターのHPが30%以下になると自動で発動される。\n出場している自身のキャラクターにノエルの防御力400%分のダメージを吸収するシールドを付与する、継続時間20秒。\n·全元素ダメージおよび物理ダメージに対して150%の吸収効果を持つ。\n60秒毎に1回のみ発動可能。",
+      "ko": "노엘이 대기 상태일 때 현재 필드 위에 있는 자신의 캐릭터의 HP가 30% 미만이면 자동으로 발동한다:\n현재 필드 위에 있는 자신의 캐릭터에게 노엘 방어력의 400%만큼의 피해를 흡수할 수 있는 보호막을 생성한다. 지속 시간: 20초\n·모든 원소 피해와 물리 피해에 대해 150%의 흡수 효과가 있다.\n해당 효과는 60초마다 1회만 발동한다",
+      "en": "When Noelle is in the party but not on the field, this ability triggers automatically when your active character's HP falls below 30%:\nCreates a shield for your active character that lasts for 20s and absorbs DMG equal to 400% of Noelle's DEF.\nThe shield has a 150% DMG Absorption effectiveness against all Elemental and Physical DMG.\nThis effect can only occur once every 60s.",
+      "de": "Effekte, wenn Noelle inaktiv in der Truppe ist und die aktuelle eigene Figur weniger als 30 % LP hat:\nErstellt einen Schutzschild für die aktuelle eigene Figur, der Schaden in Höhe von 400 % von Noelles VTD abhält, hält 20 s.\n- Hält bei elementarem sowie physischem Schaden 150 % ab.\n60 s Abklingzeit.",
+      "es": "Si la Vida de tu personaje en uso es inferior al 30% cuando Noelle está en tu equipo pero no en combate:\n·Dicho personaje en uso recibirá inmediatamente un escudo de una duración de 20 s que absorbe un daño equivalente al 400% de la DEF de Noelle.\n·El escudo tiene un 150% de efectividad de absorción contra todo el Daño Elemental y el Daño Físico.\n·Este efecto solo puede ocurrir una vez cada 60 s.",
+      "fr": "Lorsque Noëlle fait partie de l'équipe et n'est pas déployée, l'effet suivant se déclenche automatiquement si les PV du personnage déployé sont inférieurs à 30 % :\nConfère un bouclier au personnage déployé pouvant absorber des DGT équivalant à 400 % de la DÉF de Noëlle pendant 20 s.\n· Le bouclier est efficace à 150 % contre les DGT élémentaires et les DGT physiques.\n· Le bouclier peut être déclenché une fois toutes les 60 s.",
+      "pt": "Quando Noelle não estiver em combate, e a Vida do personagem selecionado cair para menos de 30%, o seguinte efeito acontecerá automaticamente:\nA Vida do Personagem em uso receberá imediatamente um escudo de duração de 20s que absorve um dano equivalenta a 400% da DEF de Noelle.\n·O escudo tem 150% de eficiência contra Dano de todos os Elementos e Dano Físico.\nEste efeito só pode ocorrer uma vez a cada 60s.",
+      "ru": "Будучи в отряде, но не активным персонажем, Ноэлль активирует этот навык, когда HP активного персонажа падает ниже 30%:\n· Создаёт щит для вашего персонажа, который длится 20 сек. и поглощает урон, равный 400% от защиты Ноэлль.\n· Весь элементальный и физический урон поглощается на 150% эффективнее.\n· Может возникнуть раз в 60 сек.",
+      "id": "Saat Noelle berada dalam party, tetapi tidak sedang bertarung, skill ini akan terpicu secara otomatis ketika HP karakter yang sedang digunakan kurang dari 30%:\nKarakter tersebut akan mendapatkan perisai yang dapat menahan DMG sebesar 400% dari DEF Noelle selama 20 detik.\nPerisai ini memiliki bonus 150% efektivitas Penahanan DMG untuk semua Elemental dan Physical DMG.\nEfek ini dapat terpicu setiap 60 detik.",
+      "th": "เมื่อ Noelle อยู่ในแนวหลังของทีม และตัวละครของตนเองที่เข้าต่อสู้ในขณะนั้นมีพลังชีวิตต่ำกว่า 30% สกิลต่อไปนี้จะถูกปล่อยออกมาโดยอัตโนมัติ:\nสร้างโล่ป้องกันให้ตัวละครของตนเองที่เข้าต่อสู้ในขณะนั้น โดยโล่จะดูดซับความเสียหายได้เท่ากับ 400% ของพลังป้องกันของ Noelle ซึ่งจะคงอยู่ได้ 20 วินาที\nมีเอฟเฟกต์การดูดซับความเสียหายธาตุทุกประเภทและความเสียหายกายภาพ 150%\nเอฟเฟกต์นี้เกิดขึ้นได้เพียงหนึ่งครั้ง ในทุก 60 วินาที",
+      "vi": "Nếu Noelle ở trạng thái chờ mà nhân vật của bản thân đang chiến đấu có HP thấp hơn 30% sẽ tự động kích hoạt:\nTạo ra khiên có thể hấp thu sát thương tương đương 400% phòng ngự của Noelle cho nhân vật của bản thân trong trận hiện tại, duy trì 20s.\n·Có hiệu quả hấp thụ 150% tất cả sát thương nguyên tố và sát thương vật lý.\nHiệu quả này mỗi 60s chỉ kích hoạt 1 lần."
+    },
+    "imgid": "p_342101"
+  },
+  {
+    "title": {
+      "zhs": "干净利落",
+      "zht": "乾淨俐落",
+      "jp": "きれいさっぱり",
+      "ko": "산뜻깔끔",
+      "en": "Nice and Clean",
+      "de": "Sauber und geschwind",
+      "es": "Pulcra y eficaz",
+      "fr": "Clair et net",
+      "pt": "Limpo e Eficaz",
+      "ru": "Вот и чистенько",
+      "id": "Nice and Clean",
+      "th": "Nice and Clean",
+      "vi": "Gọn Gàng"
+    },
+    "description": {
+      "zhs": "诺艾尔的普通攻击或重击累计命中敌人4次，会减少<color=#FFD780FF>护心铠</color>1秒的冷却。\n每0.1秒至多计数一次。",
+      "zht": "諾艾爾的普通攻擊或重擊累計命中敵人4次，會減少<color=#FFD780FF>護心鎧</color>1秒的冷卻。\n每0.1秒至多計數一次。",
+      "jp": "ノエルの通常攻撃または重撃が敵に累計4回命中すると、<color=#FFD780FF>護心鎧</color>のクールタイム-1秒。\n0.1秒毎に1回のみカウント可能。",
+      "ko": "노엘의 일반 공격 혹은 강공격이 적에게 누적 4회 명중하면 <color=#FFD780FF>호심경</color>의 재사용 대기시간이 1초 감소한다.\n0.1초마다 최대 1회 카운트된다",
+      "en": "Noelle will decrease the CD of <color=#FFD780FF>Breastplate</color> by 1s for every 4 Normal or Charged Attack hits she scores on opponents.\nOne hit may be counted every 0.1s.",
+      "de": "Noelle verringert alle vier Treffer mit Standardangriffen oder heftigen Schlägen, die sie bei Gegnern erzielt, die Abklingzeit von <color=#FFD780FF>Brustpanzer</color> um 1 s.\nEin Treffer kann alle 0,1 s gezählt werden.",
+      "es": "Por cada 4 veces consecutivas que Noelle golpee a un enemigo con sus Ataques Normales o Cargados, el TdE de <color=#FFD780FF>Guardiana del corazón</color> se reduce en 1 s.\nComo máximo, cada golpe solo puede ocurrir una vez cada 0.1 s.",
+      "fr": "Noëlle réduit le TdR d'<color=#FFD780FF>Armure de cœur</color> de 1 s tous les 4 coups d'attaque normale ou chargée qu'elle inflige à un ennemi.\nUn coup peut être compté toutes les 0,1 s.",
+      "pt": "Quando o Ataque Normal e Carregado de Noelle atingir o inimigo cumulativamente 4 vezes, o tempo de Recarga do<color=#FFD780FF> Guardião do Coração </color>serão reduzido em 1s\nÉ possível acumular uma vez a cada 0.1s.",
+      "ru": "Каждые 4 попадания обычными или заряженными атаками Ноэлль уменьшают время отката навыка <color=#FFD780FF>Бронефартук</color> на 1 сек.\nОдно попадание может засчитываться каждые 0,1 сек.",
+      "id": "Saat Normal Attack atau Charged Attack Noelle mengenai musuh 4 kali, CD skill <color=#FFD780FF>Breastplate</color> akan berkurang 1 detik.\nSerangan Noelle dapat dihitung sebagai 1 kali setiap 0,1 detik.",
+      "th": "เมื่อการโจมตีปกติหรือการชาร์จโจมตีของ Noelle ถูกศัตรูทุก ๆ 4 ครั้ง จะเป็นการลดเวลาคูลดาวน์ของ <color=#FFD780FF>Breastplate</color> ลง 1 วินาที\nซึ่งเอฟเฟกต์นี้จะเกิดขึ้นมากสุดหนึ่งครั้ง ในทุก 0.1 วินาที",
+      "vi": "Tấn công thường hoặc trọng kích của Noelle tích lũy đánh trúng kẻ địch 4 lần sẽ giảm 1s CD của <color=#FFD780FF>Giáp Hộ Tâm</color>.\nMỗi 0.1s tối đa tính 1 lần."
+    },
+    "imgid": "p_342201"
+  },
+  {
+    "title": {
+      "zhs": "女仆的态度",
+      "zht": "女僕的態度",
+      "jp": "メイドの仕草",
+      "ko": "메이드의 태도",
+      "en": "Maid's Knighthood",
+      "de": "Hingabe einer Magd",
+      "es": "Dedicación de la criada",
+      "fr": "À votre service",
+      "pt": "Dedicação da Empregada",
+      "ru": "Забота горничной",
+      "id": "Maid's Knighthood",
+      "th": "Maid's Knighthood",
+      "vi": "Thái Độ Của Hầu Gái"
+    },
+    "description": {
+      "zhs": "完美烹饪防御类食物时，有12%概率获得2倍产出。",
+      "zht": "完美烹飪防禦類食物時，有12%的機率獲得兩倍產出。",
+      "jp": "防御系料理を完璧調理した時、12%の確率で料理を2倍獲得する。",
+      "ko": "방어류 요리를 완벽 조리하면 12% 확률로 요리량의 2배를 획득한다",
+      "en": "When a Perfect Cooking is achieved on a DEF-boosting dish, Noelle has a 12% chance to obtain double the product.",
+      "de": "Stellt bei der perfekten Zubereitung eines Gerichts mit defensiver Funktion mit einer Wahrscheinlichkeit von 12 % den 2-fachen Ertrag her.",
+      "es": "Al lograr un “Perfecto” en un plato con efectos de defensa, hay una probabilidad del 12% de obtener el doble.",
+      "fr": "12 % de chances d'obtenir un plat supplémentaire lorsque vous cuisinez un plat parfait qui renforce la DÉF.",
+      "pt": "Quando uma Culinária Perfeita é feita em uma comida de aumento de DEF, Noelle tem uma chance de 12% de receber o dobro de produção.",
+      "ru": "При приготовлении идеального блюда, повышающего защиту, имеет 12% шанс приготовить дополнительное блюдо.",
+      "id": "Saat masakan jenis pertahanan dimasak dengan sempurna, terdapat 12% kemungkinan mendapatkan hasil 2 kali lipat.",
+      "th": "เมื่อปรุงอาหารประเภทป้องกันได้ระดับ สมบูรณ์ จะมีโอกาส 12% ที่จะได้รับผลผลิตเพิ่มเป็น 2 เท่า",
+      "vi": "Nấu hoàn mỹ món ăn thuộc loại phòng ngự, có tỷ lệ 12% x2 sản lượng."
+    },
+    "imgid": "p_342301"
+  }
+]

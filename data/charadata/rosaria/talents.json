@@ -1,0 +1,200 @@
+[
+  {
+    "title": {
+      "zhs": "普通攻击·教会枪术",
+      "zht": "普通攻擊·教會槍術",
+      "jp": "通常攻撃·教会槍術",
+      "ko": "일반공격·성당 창술",
+      "en": "Normal Attack: Spear of the Church",
+      "de": "Standardangriff: Speer der Kathedrale",
+      "es": "Ataque Normal: Lanza eclesiástica",
+      "fr": "Attaque normale : Lance expiatoire",
+      "pt": "Ataque Normal: Lança Eclesiástica",
+      "ru": "Копьё церкви",
+      "id": "Normal Attack: Spear of the Church",
+      "th": "โจมตีปกติ - Spear of the Church",
+      "vi": "Tấn công thường - Thương Thuật Giáo Hội"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>普通攻击</color>\n进行至多五段的连续枪击。\n\n<color=#FFD780FF>重击</color>\n消耗一定体力，向前方突进，对路径上的敌人造成伤害。\n\n<color=#FFD780FF>下落攻击</color>\n从空中下坠冲击地面，攻击下落路径上的敌人，并在落地时造成范围伤害。",
+      "zht": "<color=#FFD780FF>普通攻擊</color>\n進行至多五段的連續槍擊。\n\n<color=#FFD780FF>重擊</color>\n消耗一定體力，向前方突進，對路徑上的敵人造成傷害。\n\n<color=#FFD780FF>下落攻擊</color>\n從空中下墜衝擊地面，攻擊下落路徑上的敵人，並在落地時造成範圍傷害。",
+      "jp": "<color=#FFD780FF>通常攻撃</color>\n槍による最大5段の連続攻撃を行う。\n\n<color=#FFD780FF>重撃</color>\n一定のスタミナを消費して前方に突進し、経路上の敵にダメージを与える。\n\n<color=#FFD780FF>落下攻撃</color>\n空中から落下し地面に衝撃を与える。経路上の敵を攻撃し、落下時に範囲ダメージを与える。",
+      "ko": "<color=#FFD780FF>일반 공격</color>\n창으로 최대 5번 공격한다.\n\n<color=#FFD780FF>강공격</color>\n일정 스태미나를 소모해 전방으로 돌진하며 경로상의 적에게 피해를 준다.\n\n<color=#FFD780FF>낙하 공격</color>\n공중에서 땅을 내려찍어 경로상의 적을 공격하고 착지 시 범위 피해를 준다",
+      "en": "<color=#FFD780FF>Normal Attack</color>\nPerforms up to five consecutive spear strikes.\n\n<color=#FFD780FF>Charged Attack</color>\nConsumes a certain amount of Stamina to lunge forward, dealing damage to opponents along the way.\n\n<color=#FFD780FF>Plunging Attack</color>\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+      "de": "<color=#FFD780FF>Standardangriff</color>\nFührt bis zu 5 Lanzenstiche hintereinander aus.\n\n<color=#FFD780FF>Heftiger Schlag</color>\nVerbraucht eine gewisse Menge Ausdauer, sticht geschwind nach vorn und fügt den Gegnern in der Bahn Schaden zu.\n\n<color=#FFD780FF>Angriff aus dem Fall</color>\nSchlägt beim Fallen aus der Luft auf den Boden, greift alle Gegner in der Bahn an und verursacht beim Aufkommen Flächenschaden.",
+      "es": "<color=#FFD780FF>Ataque Normal</color>\nRealiza hasta 5 ataques rápidos con lanza.\n\n<color=#FFD780FF>Ataque Cargado</color>\nConsume una cierta cantidad de Aguante para lanzarse al frente, infligiendo daño a los enemigos en el camino.\n\n<color=#FFD780FF>Ataque Descendente</color>\nSe lanza desde el aire para golpear el suelo, dañando a los enemigos cercanos e infligiendo Daño en el AdE en el momento del impacto.",
+      "fr": "<color=#FFD780FF>Attaque normale</color>\nEnchaîne jusqu'à 5 coups de lance.\n\n<color=#FFD780FF>Attaque chargée</color>\nConsomme de l'endurance pour charger en ligne droite et infliger des DGT aux ennemis sur la route.\n\n<color=#FFD780FF>Attaque plongeante</color>\nPlonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis sur la route et des DGT de zone à l'impact.",
+      "pt": "<color=#FFD780FF>Ataque Normal</color>\nRealiza até 5 golpes com a lança.\n\n<color=#FFD780FF>Ataque Carregado</color>\nConsome uma certa quantidade de Stamina para se lançar para frente, infligindo Dano em seu trajeto.\n\n<color=#FFD780FF>Ataque Imersivo</color>\nMergulha em pleno ar para golpear o chão, causando dano aos inimigos ao longo do caminho e infligindo Dano em uma AdE durante o impacto.",
+      "ru": "<color=#FFD780FF>Обычная атака:</color>\nДо пяти ударов копьём.\n\n<color=#FFD780FF>Заряженная атака:</color>\nВыпад, наносящий урон противникам на пути, на который тратится определённое количество выносливости.\n\n<color=#FFD780FF>Атака в падении:</color>\nСтремительно падает на землю, атакуя всех врагов на пути. Приземлившись, наносит урон по площади.",
+      "id": "<color=#FFD780FF>Normal Attack</color>\nMelancarkan hingga 5 serangan berturut-turut.\n\n<color=#FFD780FF>Charged Attack</color>\nMengonsumsi sejumlah Stamina untuk menerjang ke depan, mengakibatkan DMG pada musuh di jalur terjangan.\n\n<color=#FFD780FF>Plunging Attack</color>\nMenerjang dari udara untuk menghantam tanah, mengakibatkan DMG pada musuh di jalur terjangan dan mengakibatkan DMG area saat mendarat.",
+      "th": "<color=#FFD780FF>โจมตีปกติ</color>\nโจมตีต่อเนื่องมากสุดห้าครั้ง\n\n<color=#FFD780FF>ชาร์จโจมตี</color>\nกินพลังกายปริมาณหนึ่งเพื่อ พุ่งไปข้างหน้าและสร้างความเสียหาย แก่ศัตรูที่อยู่ในเส้นทาง\n\n<color=#FFD780FF>โจมตีพุ่งลงจากอากาศ</color>\nกระโจนจากกลางอากาศลงมายังพื้นดิน เพื่อโจมตีศัตรูที่อยู่ในเส้นทางการโจมตี โดยจะสร้างความเสียหายวงกว้างเมื่อลงถึงพื้น",
+      "vi": "<color=#FFD780FF>Tấn Công Thường</color>\nThực hiện tối đa 5 lần đánh liên tiếp.\n\n<color=#FFD780FF>Trọng Kích</color>\nTiêu hao thể lực nhất định, xông về phía trước, gây sát thương cho địch trên đường đi.\n\n<color=#FFD780FF>Tấn Công Khi Đáp</color>\nĐáp xuống đất từ trên không, tấn công kẻ địch trên đường và gây sát thương phạm vi khi chạm đất."
+    },
+    "imgid": "s_453101"
+  },
+  {
+    "title": {
+      "zhs": "噬罪的告解",
+      "zht": "噬罪的告解",
+      "jp": "罪喰いの懺悔",
+      "ko": "죄를 삼키는 고해",
+      "en": "Ravaging Confession",
+      "de": "Erschütterndes Geständnis",
+      "es": "Confesión impronunciable",
+      "fr": "Confession des péchés",
+      "pt": "Confissão Desoladora",
+      "ru": "Казнящая исповедь",
+      "id": "Ravaging Confession",
+      "th": "Ravaging Confession",
+      "vi": "Lời Cáo Tội"
+    },
+    "description": {
+      "zhs": "罗莎莉亚快速移动至目标敌人身后，进行长枪穿刺与挥砍，造成<color=#99FFFFFF>冰元素伤害</color>。\n无法通过施放时的快速移动，转移至体型较大的敌人身后。\n\n<i>对着修女罗莎莉亚的告解并不能获得赦罪。相反，罪孽越深，降罚的冰寒就越是刺骨。</i>",
+      "zht": "蘿莎莉亞快速移動至目標敵人身後，以長槍穿刺與揮砍，造成<color=#99FFFFFF>冰元素傷害</color>。\n無法藉由施放時的快速移動，轉移至體型較大的敵人身後。\n\n<i>對著修女蘿莎莉亞告解並不能得到赦罪。相反，罪孽越深，降罰的冰寒就越是刺骨。</i>",
+      "jp": "素早く敵の背後に回り込み、長槍で突きと振り降ろしを繰り出すことで、<color=#99FFFFFF>氷元素ダメージ</color>を与える。\nこのスキルは、大きな体形を持つ敵の背後に回り込むことはできない。\n\n<i>シスターロサリアへの懺悔で赦罪されることはない。それどころか、罪が深ければ深いほど、下される氷寒の罰はより骨の髄まで染み込むものになるだろう。</i>",
+      "ko": "로자리아가 빠르게 타깃의 뒤편으로 이동한 후 창으로 찌르고 휘둘러 <color=#99FFFFFF>얼음 원소 피해</color>를 준다.\n몸집이 비교적 큰 적 뒤로는 이동할 수 없다.\n\n<i>로자리아 수녀에게 하는 고해성사로는 죄를 용서받을 수 없다. 오히려 죄가 무거울수록, 뼈에 사무치는 처벌이 내려질 것이다</i>",
+      "en": "Rosaria swiftly shifts her position to appear behind her opponent, then stabs and slashes them with her polearm, dealing <color=#99FFFFFF>Cryo DMG</color>.\nThis ability cannot be used to travel behind opponents of a larger build.\n\n<i>Those who confess to Sister Rosaria will be granted no absolution. All sinners shall be met with the piercing cold of punishment proportionate to the weight of their sins.</i>",
+      "de": "Rosaria bewegt sich mit hoher Geschwindigkeit hinter ihr Ziel, sticht mit ihrer Waffe zu und schwingt sie und verursacht <color=#99FFFFFF>Kryo-Schaden</color>.\nEs ist nicht möglich, mit dieser Fähigkeit hinter größere Gegner zu gelangen.\n\n<i>Diejenigen, die Schwester Rosaria ihre Sünden gestehen, erhalten keine Absolution. Alle Sünder werden stattdessen mit einer strafenden Kälte konfrontiert, die dem Gewicht ihrer Sünden entspricht.</i>",
+      "es": "Rosaria se desplaza rápidamente hasta detrás de su objetivo, clavándole su lanza y realizando un tajo que inflige <color=#99FFFFFF>Daño Cryo</color>.\nNo es posible desplazarse hasta detrás de enemigos de gran tamaño con este movimiento.\n\n<i>Rosaria no perdona los pecados de aquellos que se confiesan ante ella. Al contrario, cuanto más grave sea el pecado, más penetrante es el frío con el que los castiga.</i>",
+      "fr": "Rosalia se déplace rapidement derrière sa cible qu'elle transperce et tranche de sa lance, infligeant des <color=#99FFFFFF>DGT Cryo</color>.\nCe mouvement ne fonctionne pas avec les ennemis trop grands.\n\n<i>Rosalia ne pardonne pas les péchés de ceux qui se confessent à elle. Au contraire, plus le péché est grand, plus sa punition glaciale est implacable.</i>",
+      "pt": "Rosaria muda rapidamente de posição e aparece atrás de seu alvo. Ela o perfura e corta com sua arma, infligindo <color=#99FFFFFF>Dano Cryo</color>.\nNão é possível deslocar-se para trás de inimigos de tamanho grande com esta habilidade.\n\n<i>A Freira Rosaria não perdoa os pecados daqueles que não se confessam a ela. Todos os pecadores serão castigados com o frio penetrante de uma punição proporcional à gravidade de seus pecados.</i>",
+      "ru": "Розария стремительно передвигается за противника и пронзает его своим копьём, нанося <color=#99FFFFFF>Крио урон</color>.\nЭта способность не позволяет переместиться за противников крупного телосложения.\n\n<i>Исповедующиеся сестре Розарии не получат отпущения грехов. Любой грех, малый и тяжкий, встретит свою холодную кару.</i>",
+      "id": "Rosaria bergerak dengan cepat, muncul di belakang musuh, lalu menusuk dan menebas dengan polearm, mengakibatkan <color=#99FFFFFF>Cryo DMG</color>.\nTalenta ini tidak dapat digunakan untuk bergerak ke belakang musuh yang bertubuh lebih besar.\n\n<i>Mereka yang mengaku dosa pada Suster Rosaria tidak akan mendapat pengampunan. Sebaliknya, para pendosa akan menerima hukuman dingin yang menusuk tulang, masing-masing sebanding dengan berat dosa yang mereka lakukan.</i>",
+      "th": "Rosaria เคลื่อนที่ไปด้านหลังศัตรูอย่างรวดเร็ว จากนั้นจึงใช้หอกแทงและฟาดฟันศัตรู เพื่อสร้าง<color=#99FFFFFF>ความเสียหายน้ำแข็ง</color>\nไม่สามารถใช้สกิลการเคลื่อนที่อย่างรวดเร็วนี้ เพื่อเคลื่อนย้ายไปด้านหลังศัตรูที่มีขนาดใหญ่กว่าได้\n\n<i>คำสารภาพบาปต่อซิสเตอร์ Rosaria นั้นจะไม่ได้รับการให้อภัย ในทางตรงกันข้าม ยิ่งบาปหนาเท่าไหร่ ความหนาวเย็นแห่งการลงทัณฑ์ ก็จะยิ่งเสียดแทงลึกเข้ากระดูกมากขึ้นเท่านั้น</i>",
+      "vi": "Rosaria nhanh chóng di chuyển đến phía sau kẻ địch, dùng thương để đâm xuyên và chém, gây <color=#99FFFFFF>Sát Thương Nguyên Tố Băng</color>.\nKhông thể di chuyển nhanh đến phía sau kẻ địch có thể hình lớn.\n\n<i>Lời thú tội với nữ tu Rosaria sẽ không được tha thứ. Ngược lại, tội càng nặng thì hình phạt càng giá lạnh.</i>"
+    },
+    "imgid": "s_453201"
+  },
+  {
+    "title": {
+      "zhs": "终命的圣礼",
+      "zht": "終命的聖禮",
+      "jp": "臨終の聖礼",
+      "ko": "죽음의 성례",
+      "en": "Rites of Termination",
+      "de": "Letzte Salbung",
+      "es": "Extremaunción",
+      "fr": "Sacrement mortel",
+      "pt": "Ritos de Terminação",
+      "ru": "Обряд кончины",
+      "id": "Rites of Termination",
+      "th": "Rites of Termination",
+      "vi": "Thánh Lễ Cuối Cùng"
+    },
+    "description": {
+      "zhs": "这是罗莎莉亚专属的领祷仪式。挥舞武器扫击身边的敌人后，凝聚极寒的冰枪击向地面，分别造成<color=#99FFFFFF>冰元素伤害</color>。\n冰枪在存在期间内，会间歇性释放寒气，对附近的敌人造成<color=#99FFFFFF>冰元素伤害</color>。\n\n<i>审判这件事很麻烦，所以越过审判直接执行临终祈礼吧。罗莎莉亚本就不信奉风神，这件事因此格外轻松。</i>",
+      "zht": "這是蘿莎莉亞專屬的領禱儀式。揮舞武器掃擊身邊的敵人後，凝聚極寒的冰槍擊向地面，分別造成<color=#99FFFFFF>冰元素傷害</color>。\n冰槍在存在期間內，會間歇性釋放寒氣，對附近的敵人造成<color=#99FFFFFF>冰元素傷害</color>。\n\n<i>審判這件事很麻煩，所以越過審判直接執行臨終祈禮吧。蘿莎莉亞本就不信奉風神，這件事因此格外輕鬆。</i>",
+      "jp": "ロサリア専属の祈りの儀式。武器を振り周囲の敵を攻撃した後、極寒を蓄積した氷槍を地面に差し込み、<color=#99FFFFFF>氷元素ダメージ</color>を与える。\n氷槍が存在している間、定期的に冷気を発散し、近くの敵に<color=#99FFFFFF>氷元素ダメージ</color>を与える。\n\n<i>審判は非常に面倒である故、直接臨終の祈りを実行する。ロサリアは端から風神を信仰していないため、これを容易に行うことができる。</i>",
+      "ko": "로자리아만의 기도 의식. 무기를 휘둘러 주변의 적을 공격한 후, 혹한이 응집된 얼음 창으로 지면을 내리찍어 <color=#99FFFFFF>얼음 원소 피해</color>를 준다.\n얼음 창은 존재하는 동안 간헐적으로 한기를 방출하여 주변의 적에게 <color=#99FFFFFF>얼음 원소 피해</color>를 준다.\n\n<i>심판은 매우 번거롭기에 심판 과정을 건너뛰고 바로 종부성사를 거행한다. 원래부터 바람의 신을 믿지 않는 로자리아에게 이 일은 아주 간단하다</i>",
+      "en": "Rosaria's unique take on this prayer ritual: First, she swings her weapon to slash surrounding opponents; then, she summons a frigid Ice Lance that strikes the ground. Both actions deal <color=#99FFFFFF>Cryo DMG</color>.\nWhile active, the Ice Lance periodically releases a blast of cold air, dealing <color=#99FFFFFF>Cryo DMG</color> to surrounding opponents.\n\n<i>Judgment is such a tedious ordeal — much easier to skip that phase and get straight to the last rites. Rosaria was never very devoted to the Anemo God anyway, which makes performing them all too easy.</i>",
+      "de": "Dies ist Rosarias besonderes Gebetsritual. Zunächst fegt sie mit ihrer Waffe die Gegner neben ihr fort und konzentriert eisige Kälte direkt vor ihr, womit sie jeweils <color=#99FFFFFF>Kryo-Schaden</color> verursacht.\nWährend der Wirkungsdauer der Eislanze wird in gleichmäßigen Abständen Kälte freigegeben, die Gegnern in der Nähe <color=#99FFFFFF>Kryo-Schaden</color> zufügt.\n\n<i>Das Fällen eines Urteils ist mühsam. Doch viel einfacher ist es, direkt zum letzten Gebet zu springen. Rosaria war dem Anemo-Archon sowieso nie sehr ergeben, weshalb ihr das Ganze noch leichter fällt.</i>",
+      "es": "Esta es la ceremonia de rezo dirigida exclusivamente por Rosaria. Tras empujar con su arma a los enemigos a su alrededor, concentra un frío extremo en su lanza helada para golpear el suelo, infligiendo <color=#99FFFFFF>Daño Cryo</color>.\nMientras esté activa, la lanza helada emitirá intermitentemente un aire helado que inflige <color=#99FFFFFF>Daño Cryo</color> a los enemigos cercanos.\n\n<i>Juzgar es algo muy fastidioso, así que ¿por qué no saltarse ese paso y celebrar directamente la última ceremonia de rezo? Debido a la poca devoción de Rosaria hacia el Arconte Anemo, esto no le resulta nada complicado.</i>",
+      "fr": "Rosalia officie pour une prière pas comme les autres. Après avoir exécuté une attaque circulaire balayant les ennemis à proximité, Rosalia invoque une lance de glace qui frappe le sol. Les deux actions infligent des <color=#99FFFFFF>DGT Cryo</color>.\nTant que la lance de glace est active, elle émet de façon intermittente des ondes de froid, qui infligent des <color=#99FFFFFF>DGT Cryo</color> aux ennemis à proximité.\n\n<i>Un procès est bien trop long, autant en arriver directement à la sentence et donner les derniers sacrements. Rosalia ne croyant pas à l'Archon Anémo, c'est d'autant plus accommodant.</i>",
+      "pt": "A oração característica de Rosaria. Após brandir sua arma para cortar os inimigos próximos, ela invoca uma Lança de Gelo frígida e golpeia o solo, infligindo <color=#99FFFFFF>Dano Cryo</color> ambas as vezes.\nEnquanto ativa, a Lança de Gelo emite ar frio de forma intermitente, infligindo <color=#99FFFFFF>Dano Cryo</color> aos inimigos ao redor.\n\n<i>O julgamento é algo muito incômodo. Sugiro que pulemos isso e passemos diretamente para a Oração do Decesso. Devido à minha falta de devoção ao Arconte Anemo, é muito fácil fazer isso.</i>",
+      "ru": "Авторская молитва Розарии. После кругового взмаха своим оружием она вонзает Ледяное копьё в землю. Обе этих атаки наносят <color=#99FFFFFF>Крио урон</color>.\nПока активно, Ледяное копьё периодически выпускает холодный воздух, который наносит <color=#99FFFFFF>Крио урон</color> окружающим врагам.\n\n<i>Суждение так утомляет. Предлагаю пропустить его и перейти непосредственно к заключительному обряду. Мне провести этот обряд необычайно легко, потому что я не верю в Анемо Архонта.</i>",
+      "id": "Doa khas Rosaria. Setelah mengayunkan senjatanya untuk menebas musuh di sekitar, dia akan melancarkan Ice Lance yang menghantam tanah. Kedua aksi tersebut mengakibatkan <color=#99FFFFFF>Cryo DMG</color>.\nSaat Talenta ini aktif, Ice Lance akan mengeluarkan hawa dingin secara berkala, mengakibatkan <color=#99FFFFFF>Cryo DMG</color> pada musuh di sekitar.\n\n<i> Penghakiman adalah pekerjaan yang merepotkan. Kusarankan sebaiknya kita lewatkan saja, dan langsung masuk ke tahap terakhir! Rosaria bukan seseorang yang taat pada Dewa Anemo, karena itu, menurut Rosaria, penghakiman adalah pekerjaan yang mudah.</i>",
+      "th": "นี่คือพิธีสวดมนต์ฉบับพิเศษของ Rosaria โดยหลังจากใช้อาวุธฟาดฟันศัตรูที่อยู่รอบตัวแล้ว จะเรียกหอกน้ำแข็งออกมา เพื่อแทงลงพื้น สร้าง<color=#99FFFFFF>ความเสียหายน้ำแข็ง</color> แยกออกเป็นสองช่วง\nภายในช่วงเวลาต่อเนื่องของหอกน้ำแข็ง จะปล่อยไอเย็นเป็นระยะ ๆ เพื่อสร้าง<color=#99FFFFFF>ความเสียหายน้ำแข็ง</color>ให้กับศัตรูที่อยู่ในบริเวณใกล้เคียง\n\n<i>การพิพากษานั้นช่างเป็นเรื่องที่ยุ่งยาก ดังนั้นจงก้าวข้ามการพิพากษา และทำการสวดอ้อนวอนครั้งสุดท้ายเถอะ การที่ Rosaria นั้น ไม่เคยเชื่อในเทพเจ้าแห่งสายลม นั่นทำให้เรื่องนี้ง่ายขึ้นเป็นพิเศษ</i>",
+      "vi": "Đây là nghi thức riêng của Rosaria. Vung vũ khí lên quét sạch kẻ địch, sau đó ngưng tụ hàn băng găm vào mặt đất, gây <color=#99FFFFFF>Sát Thương Nguyên Tố Băng</color>.\nKhi băng thương tồn tại, nó sẽ liên tục phát ra hơi lạnh, gây <color=#99FFFFFF>Sát Thương Nguyên Tố Băng</color> cho kẻ địch gần đó.\n\n<i>Quá trình phán xử rất phiền phức, vì vậy cứ trực tiếp thực thi buổi lễ cho cái chết thôi. Rosaria vốn không tin vào Phong Thần nên vấn đề này rất dễ dàng với cô ấy.</i>"
+    },
+    "imgid": "s_453901"
+  },
+  {
+    "title": {
+      "zhs": "聆听忏悔的幽影",
+      "zht": "聆聽懺悔的幽影",
+      "jp": "懺悔に耳を傾ける幻影",
+      "ko": "참회의 경청자",
+      "en": "Regina Probationum",
+      "de": "Schatten der Beichte",
+      "es": "Regina probatorum",
+      "fr": "Confession forcée",
+      "pt": "Confissões Forçadas",
+      "ru": "Покаяние призрака",
+      "id": "Regina Probationum",
+      "th": "Regina Probationum",
+      "vi": "Nghe U Ảnh Sám Hối"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>噬罪的告解</color>从技能目标的背后攻击时，罗莎莉亚的暴击率提升12%，持续5秒。",
+      "zht": "<color=#FFD780FF>噬罪的告解</color>從技能目標的背後攻擊時，蘿莎莉亞的暴擊率提升12%，持續5秒。",
+      "jp": "<color=#FFD780FF>罪喰いの懺悔</color>で敵の背後から攻撃すると、ロサリアの会心率+12%、継続時間5秒。",
+      "ko": "<color=#FFD780FF>죄를 삼키는 고해</color>로 타깃의 뒤에서 공격할 시, 로자리아의 치명타 확률이 12% 증가한다. 지속 시간: 5초",
+      "en": "When Rosaria strikes an opponent from behind using <color=#FFD780FF>Ravaging Confession</color>, Rosaria's CRIT Rate increases by 12% for 5s.",
+      "de": "Erhöht Rosarias KT bei Angriffen von Gegnern mit <color=#FFD780FF>Erschütterndes Geständnis</color> von hinten 5 s lang um 12 %.",
+      "es": "Cuando Rosaria ataca por la espalda a un objetivo con <color=#FFD780FF>Confesión impronunciable</color>, su Prob. CRIT aumenta en un 12% durante 5 s.",
+      "fr": "Le taux CRIT de Rosalia augmente de 12 % pendant 5 s lorsqu'elle frappe un ennemi de dos avec <color=#FFD780FF>Confession des péchés</color>.",
+      "pt": "Quando a habilidade <color=#FFD780FF>Confissão Desoladora</color> ataca por trás de um inimigo, a Taxa CRIT de Rosaria aumenta em 12% por 5s.",
+      "ru": "Атаки со спины навыка <color=#FFD780FF>Казнящая исповедь</color> увеличивают шанс крит. попадания Розарии на 12% в течение 5 сек.",
+      "id": "Saat Rosaria menyerang musuh dari belakang menggunakan <color=#FFD780FF>Ravaging Confession</color>, akan meningkatkan 12% CRIT Rate Rosaria selama 5 detik.",
+      "th": "เมื่อ <color=#FFD780FF>Ravaging Confession</color> โจมตีจากด้านหลังของเป้าหมาย อัตราคริของ Rosaria จะเพิ่มขึ้น 12% เป็นเวลา 5 วินาที",
+      "vi": "Khi <color=#FFD780FF>Lời Cáo Tội</color> tấn công từ phía sau của mục tiêu, tỷ lệ bạo kích của Rosaria tăng 12%, kéo dài 5s."
+    },
+    "imgid": "p_452101"
+  },
+  {
+    "title": {
+      "zhs": "暗中支援的黯色",
+      "zht": "暗中支援的黯色",
+      "jp": "陰から支える暗色",
+      "ko": "어둠 속 조력자",
+      "en": "Shadow Samaritan",
+      "de": "Beistand aus der Dunkelheit",
+      "es": "Oscuridad expiatoria",
+      "fr": "Samaritain de l'ombre",
+      "pt": "Samaritana da Escuridão",
+      "ru": "Поддерживающая тьма",
+      "id": "Shadow Samaritan",
+      "th": "Shadow Samaritan",
+      "vi": "Chi Viện Bóng Tối"
+    },
+    "description": {
+      "zhs": "施放<color=#FFD780FF>终命的圣礼</color>时，基于自身暴击率的15%，提高附近的队伍中所有角色（不包括罗莎莉亚自己）的暴击率，持续10秒。\n通过这种方式获得的暴击率提升，无法超过15%。",
+      "zht": "施放<color=#FFD780FF>終命的聖禮</color>時，依照蘿莎莉亞自身暴擊率的15%，提高附近隊伍中所有角色（不包括蘿莎莉亞自己）的暴擊率，持續10秒。\n藉由這種方式獲得的暴擊率提升，無法超過15%。",
+      "jp": "<color=#FFD780FF>臨終の聖礼</color>発動時、自身の会心率の15%分、周囲のチーム全員（ロサリア自身を除く）の会心率をアップさせる、継続時間10秒。\nこの方法で獲得できる会心率アップ効果は、最大15%まで。",
+      "ko": "<color=#FFD780FF>죽음의 성례</color> 발동 시, 로자리아 치명타 확률의 15%에 기반하여 주변에 있는 파티 내 모든 캐릭터의 (로자리아 본인 제외) 치명타 확률이 증가한다. 지속 시간: 10초.\n이러한 방식으로 증가한 치명타 확률은 15%를 넘을 수 없다",
+      "en": "Casting <color=#FFD780FF>Rites of Termination</color> increases CRIT Rate of all nearby party members (except Rosaria herself) by 15% of Rosaria's CRIT Rate for 10s.\nCRIT Rate Bonus gained this way cannot exceed 15%.",
+      "de": "Erhöht die KT aller Truppenmitglieder in der Nähe (außer Rosarias selbst) bei Anwendung von <color=#FFD780FF>Letzte Salbung</color> 10 s lang um 15 % ihrer eigenen KT.\nDie KT können auf diese Weise nicht um mehr als 15 % erhöht werden.",
+      "es": "Al usar <color=#FFD780FF>Extremaunción</color>, la Prob. CRIT de todos los miembros del equipo (a excepción de Rosaria) aumenta durante 10 s en un 15% de la Prob. CRIT de Rosaria.\nEl aumento de Prob. CRIT conseguido de esta manera no podrá ser superior al 15%.",
+      "fr": "Exécuter <color=#FFD780FF>Sacrement mortel</color> confère à tous les personnages de l'équipe proches (hormis Rosalia) un bonus de taux CRIT équivalant à 15 % du taux CRIT de Rosalia pendant 10 s.\nLe bonus de taux CRIT ainsi obtenu ne peut pas excéder 15 %.",
+      "pt": "Ao lançar <color=#FFD780FF>Ritos de Terminação</color>, a Taxa CRIT de todos os membros da Equipe (exceto Rosaria) é aumentada em 15% com base na Taxa CRIT de Rosaria por 10s.\nO aumento da Taxa CRIT obtido dessa maneira não pode ultrapassar 15%.",
+      "ru": "Активация навыка <color=#FFD780FF>Обряд кончины</color> увеличивает шанс крит. попадания всех членов отряда (кроме самой Розарии) на 15% от шанса крит. попадания Розарии в течение 10 сек.\nДобавленный таким образом шанс крит. попадания не может превышать 15%.",
+      "id": "Melancarkan <color=#FFD780FF>Rites of Termination</color> akan meningkatkan CRIT Rate seluruh anggota party di sekitar (tidak termasuk Rosaria sendiri) sebesar 15% dari CRIT Rate Rosaria selama 10 detik.\nBonus CRIT Rate yang didapat dari Talenta ini tidak dapat melebihi 15%.",
+      "th": "เมื่อปล่อย <color=#FFD780FF>Rites of Termination</color> จะเพิ่มอัตราคริให้แก่ตัวละครทั้งหมดในทีม (ไม่รวมตัวของ Rosaria เอง) ที่อยู่ในบริเวณใกล้เคียงขึ้น 15% ของอัตราคริของเธอ เป็นเวลา 10 วินาที\nอัตราคริที่เพิ่มขึ้นด้วยวิธีนี้จะไม่เกิน 15%",
+      "vi": "Khi thi triển <color=#FFD780FF>Thánh Lễ Cuối Cùng</color>, dựa trên 15% tỷ lệ bạo kích của bản thân, tăng tỷ lệ bạo kích cho tất cả các nhân vật trong đội ở gần (không bao gồm Rosaria), kéo dài 10s.\nTỷ lệ bạo kích tăng thêm bằng cách này không thể vượt quá 15%."
+    },
+    "imgid": "p_452201"
+  },
+  {
+    "title": {
+      "zhs": "夜行",
+      "zht": "夜行",
+      "jp": "夜行",
+      "ko": "야행",
+      "en": "Night Walk",
+      "de": "Nachtwanderin",
+      "es": "Travesía nocturna",
+      "fr": "Balade nocturne",
+      "pt": "Caminhada Noturna",
+      "ru": "Путь в ночи",
+      "id": "Night Walk",
+      "th": "Night Walk",
+      "vi": "Dạ Hành"
+    },
+    "description": {
+      "zhs": "在夜间（18时至6时），队伍中自己的角色移动速度提高10%。\n该效果在秘境、征讨领域、深境螺旋中无效，且无法与效果完全相同的固有天赋叠加。",
+      "zht": "在夜間（18時至6時），隊伍中自己的角色移動速度提高10%。\n該效果在秘境、征討領域、深境螺旋中無效，且無法與效果完全相同的固有天賦疊加。",
+      "jp": "夜間（18時から6時まで）になると、チーム内自身のキャラクターの移動速度+10%。\nこの効果は秘境、征討領域、深境螺旋では発動されない。また、同じ効果を持つ固有天賦との重ね掛け不可。",
+      "ko": "야간(18시~6시)에 파티 내 모든 캐릭터의 이동속도가 10% 증가한다.\n해당 효과는 비경, 영역 토벌, 나선 비경에서 적용되지 않으며, 같은 효과의 고유 특성과 중첩되지 않는다",
+      "en": "At night (18:00–6:00), increases the Movement SPD of your own party members by 10%.\nDoes not take effect in Domains, Trounce Domains, or Spiral Abyss. Not stackable with Passive Talents that provide the exact same effects.",
+      "de": "Erhöht die Bewegungs-GSW der eigenen Figuren in der Truppe nachts (18 bis 6 Uhr) um 10 %.\nDieser Effekt gilt nicht in Sphären, Gebietssäuberungen und im Gewundenen Abgrund und kann auch nicht mit den Effekten exakt gleicher passiver Talente gestapelt werden.",
+      "es": "La Vel. Movimiento de todos los miembros de tu equipo aumenta en un 10% por la noche (18-06 h).\nEste efecto no se activará en dominios, Dominios de la cruzada y la Espiral del Abismo, y no se puede acumular con otros talentos pasivos que tengan los mismos efectos.",
+      "fr": "Augmente la VIT de déplacement des personnages de votre équipe pendant la nuit (18 h 00 - 06 h 00) de 10 %.\nCet effet ne s'applique ni dans les donjons, ni dans les Donjons de la conquête, ni dans les Profondeurs spiralées, et ne peut être cumulé avec d'autres aptitudes passives aux effets identiques.",
+      "pt": "Durante a noite (18:00 - 06:00), os personagens da equipe recebem um aumento da Veloc. Mov. de 10%.\nEsse efeito não se aplica em Domínios, Domínios Dizimados e Espiral do Abismo. Além disso, esse não é acumulado com Talentos Passivos de efeito igual.",
+      "ru": "Увеличивает скорость передвижения персонажей отряда в ночное время (18:00-06:00) на 10%.\nВ подземельях, Витой Бездне и Подземельях наказания навык не действует и со схожими пассивными талантами не суммируется.",
+      "id": "Saat malam hari (18:00 — 6:00), meningkatkan 10% Movement SPD anggota party sendiri.\nEfek ini tidak aktif dalam Domain, Trounce Domain, atau Spiral Abyss. Efek ini tidak dapat ditumpuk dengan Talenta Pasif lain dengan efek yang sama.",
+      "th": "ในตอนกลางคืน (18:00 น. - 6:00 น.) ความเร็วการเคลื่อนที่ของตัวละครในทีมของตัวเองจะเพิ่มขึ้น 10%\nเอฟเฟกต์ดังกล่าวจะไร้ผลเมื่ออยู่ในดันเจี้ยน, Trounce Domain, Spiral Abyss และไม่สามารถซ้อนทับกับพรสวรรค์ติดตัวที่มีเอฟเฟกต์แบบเดียวกันได้",
+      "vi": "Buổi tối (18h đến 6h), tốc độ di chuyển của nhân vật trong đội của bản thân tăng 10%.\nHiệu quả này vô hiệu trong Bí Cảnh, Vùng Đất Thảo Phạt, La Hoàn Thâm Cảnh, không thể cộng dồn với thiên phú cố định có hiệu quả tương đồng."
+    },
+    "imgid": "p_452301"
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "title": {
+      "zhs": "普通攻击·灭邪四式",
+      "zht": "普通攻擊·滅邪四式",
+      "jp": "通常攻撃·滅邪四式",
+      "ko": "일반 공격·악멸의 사식",
+      "en": "Normal Attack: Demonbane",
+      "de": "Standardangriff: Auslöschung des Bösen",
+      "es": "Ataque Normal: Desgracia de los demonios",
+      "fr": "Attaque normale : Fléau des démons",
+      "pt": "Ataque Normal: Desgraça dos Demônios",
+      "ru": "Искоренение зла",
+      "id": "Normal Attack: Demonbane",
+      "th": "โจมตีปกติ - Demonbane",
+      "vi": "Tấn Công Thường - Bốn Cách Diệt Tà"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>普通攻击</color>\n进行至多四段的连续挥砍。\n\n<color=#FFD780FF>重击</color>\n持续消耗体力，旋转大剑攻击周围的敌人。\n停止旋转时，会进行一次格外有力的挥砍。\n\n<color=#FFD780FF>下落攻击</color>\n从空中下坠冲击地面，攻击下落路径上的敌人，并在落地时造成范围伤害。",
+      "zht": "<color=#FFD780FF>普通攻擊</color>\n進行至多四段的連續揮砍。\n\n<color=#FFD780FF>重擊</color>\n持續消耗體力，旋轉大劍攻擊周圍的敵人。\n停止旋轉時，會進行一次格外有力的揮砍。\n\n<color=#FFD780FF>下落攻擊</color>\n從空中下墜衝擊地面，攻擊下落路徑上的敵人，並在落地時造成範圍傷害。",
+      "jp": "<color=#FFD780FF>通常攻撃</color>\n最大4段の連続攻撃を行う。\n\n<color=#FFD780FF>重撃</color>\n持続的にスタミナを消費し、大剣を振り回して周囲の敵を攻撃する。\n重撃が終了した時に、さらに強力な攻撃を1回放つ。\n\n<color=#FFD780FF>落下攻撃</color>\n空中から落下し地面に衝撃を与える。経路上の敵を攻撃し、落下時に範囲ダメージを与える。",
+      "ko": "<color=#FFD780FF>일반 공격</color>\n검으로 최대 4번 공격한다.\n\n<color=#FFD780FF>강공격</color>\n스태미나를 지속해서 소모해 검을 휘두르며 주변의 적을 공격한다.\n회전 종료 시 추가로 한 번 더 강력하게 휘두른다.\n\n<color=#FFD780FF>낙하 공격</color>\n공중에서 땅을 내려찍어 경로상의 적을 공격하고 착지 시 범위 피해를 준다",
+      "en": "<color=#FFD780FF>Normal Attack</color>\nPerform up to 4 consecutive strikes.\n\n<color=#FFD780FF>Charged Attack</color>\nDrains Stamina over time to perform continuous spinning attacks against all nearby opponents.\nAt the end of the sequence, perform a more powerful slash. \n\n<color=#FFD780FF>Plunging Attack</color>\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+      "de": "<color=#FFD780FF>Standardangriff</color>\nFührt bis zu 4 Schwünge mit dem Schwert hintereinander aus.\n\n<color=#FFD780FF>Heftiger Schlag</color>\nVerbraucht fortlaufend Ausdauer, wirbelt das Großschwert und greift Gegner in der Umgebung an.\nSchwingt das Schwert am Ende mit besonders großer Wucht.\n\n<color=#FFD780FF>Angriff aus dem Fall</color>\nSchlägt beim Fallen aus der Luft auf den Boden, greift alle Gegner in der Bahn an und verursacht beim Aufkommen Flächenschaden.",
+      "es": "<color=#FFD780FF>Ataque Normal</color>\nRealiza hasta 4 tajos de espada consecutivos.\n\n<color=#FFD780FF>Ataque Cargado</color>\nConsume Aguante de manera constante para realizar golpes de espada giratorios contra los enemigos cercanos.\nAl final del Ataque Cargado, realizará un golpe de espada más poderoso.\n\n<color=#FFD780FF>Ataque Descendente</color>\nSe lanza desde el aire para golpear el suelo, dañando a los enemigos cercanos e infligiendo Daño en el AdE en el momento del impacto.",
+      "fr": "<color=#FFD780FF>Attaque normale</color>\nEnchaîne jusqu'à 4 coups d'épée.\n\n<color=#FFD780FF>Attaque chargée</color>\nExécute une succession d'attaques tournoyantes contre les ennemis proches ; cette attaque consomme de l'endurance de façon continue.\nL'attaque chargée se termine sur un coup puissant.\n\n<color=#FFD780FF>Attaque plongeante</color>\nPlonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis en chemin et des DGT de zone à l'impact.",
+      "pt": "<color=#FFD780FF>Ataque Normal</color>\nRealiza até 4 golpes consecutivos.\n\n<color=#FFD780FF>Ataque Carregado</color>\nDrena Stamina ao longo do tempo para realizar um ataque giratório contínuo contra todos os inimigos próximos.\nAo final da sequência, realiza um corte poderoso.\n\n<color=#FFD780FF>Ataque Imersivo</color>\nMergulha em pleno ar para golpear o chão, danificando inimigos em seu caminho e infligindo Dano em uma AdE durante o impacto.",
+      "ru": "<color=#FFD780FF>Обычная атака:</color>\nДо четырёх рубящих ударов мечом.\n\n<color=#FFD780FF>Заряженная атака:</color>\nВращающаяся атака по окружающим врагам, на которую непрерывно тратится выносливость.\nПосле вращения проводит дополнительную мощную атаку мечом.\n\n<color=#FFD780FF>Атака в падении:</color>\nСтремительно падает на землю, атакуя всех врагов на пути. Приземлившись, наносит урон по площади.",
+      "id": "<color=#FFD780FF>Normal Attack</color> Melancarkan hingga 4 tebasan berturut-turut.\n\n<color=#FFD780FF>Charged Attack</color>\nTerus menguras Stamina untuk melancarkan serangan berputar yang mengakibatkan DMG ke musuh di sekitar.\nDiakhiri dengan sebuah tebasan yang kuat.\n\n<color=#FFD780FF>Plunging Attack</color>\nMenerjang dari udara untuk menghantam tanah, mengakibatkan DMG pada musuh di jalur terjangan dan mengakibatkan DMG area saat mendarat.",
+      "th": "<color=#FFD780FF>โจมตีปกติ</color>\nฟาดฟันต่อเนื่องมากสุดสี่ครั้ง\n\n<color=#FFD780FF>ชาร์จโจมตี</color>\nใช้พลังกายอย่างต่อเนื่องเพื่อหมุนโจมตีศัตรูรอบตัวด้วยดาบขนาดใหญ่\nเมื่อหยุดหมุนจะทำการฟันเพิ่มอย่างรุนแรงอีกหนึ่งครั้ง\n\n<color=#FFD780FF>โจมตีพุ่งลงจากอากาศ</color>\nกระโจนจากกลางอากาศลงมายังพื้นดิน เพื่อโจมตีศัตรูที่อยู่ในเส้นทางการโจมตี โดยจะสร้างความเสียหายวงกว้างเมื่อลงถึงพื้น",
+      "vi": "<color=#FFD780FF>Tấn Công Thường</color>\nThực hiện tối đa 4 lần chém liên tiếp.\n\n<color=#FFD780FF>Trọng Kích</color>\nTiêu hao thể lực để xoay kiếm tấn công địch xung quanh.\nKhi ngừng quay, sẽ bổ một nhát cực mạnh.\n\n<color=#FFD780FF>Tấn Công Khi Đáp</color>\nĐáp xuống đất từ trên không, tấn công kẻ địch trên đường và gây sát thương phạm vi khi chạm đất."
+    },
+    "imgid": "s_363101"
+  },
+  {
+    "title": {
+      "zhs": "灵刃·重华叠霜",
+      "zht": "靈刃·重華疊霜",
+      "jp": "霊刃·重華積霜",
+      "ko": "영도·중첩의 서리",
+      "en": "Spirit Blade: Chonghua's Layered Frost",
+      "de": "Seelenklinge – Schichtfrost",
+      "es": "Filo espiritual: Estratos de escarcha Chonghua",
+      "fr": "Lame de l'esprit : Givre superposé",
+      "pt": "Lâmina Espiritual - Geada de Chongyun",
+      "ru": "Духовное лезвие: Холод Чунхуа",
+      "id": "Spirit Blade: Chonghua's Layered Frost",
+      "th": "Spirit Blade - Chonghua's Layered Frost",
+      "vi": "Linh Đao - Sương Bạc Trùng Điệp"
+    },
+    "description": {
+      "zhs": "重云挥动巨剑猛击地面，在前方圆形范围内引发冰爆，并对敌人造成<color=#99FFFFFF>冰元素伤害</color>。\n短暂延迟后，冰爆引发的寒气汇聚成重华叠霜领域，其中的单手剑、大剑、长柄武器角色获得<color=#99FFFFFF>冰元素附魔</color>。\n\n<i>「琳琅振响，十方静默。江河不动，重云凝霜。如法开坛，诸邪退散。」</i>",
+      "zht": "重雲揮動巨劍猛擊地面，在前方圓形範圍內引發冰爆，並對敵人造成<color=#99FFFFFF>冰元素傷害</color>。\n短暫延遲後，冰爆引發的寒氣彙聚成重華疊霜領域，其中的單手劍、大劍、長柄武器角色獲得<color=#99FFFFFF>冰元素附魔</color>。\n\n<i>「琳琅振響，十方靜默。江河不動，重雲凝霜。如法開壇，諸邪退散。」</i>",
+      "jp": "巨大な剣を振って地面を叩き、前方の円形範囲内に氷爆を起こし、敵に<color=#99FFFFFF>氷元素ダメージ</color>を与える。\nその後、氷爆による寒気が重華積霜エリアになり、エリア内の片手剣、両手剣、長柄武器キャラクターは<color=#99FFFFFF>氷元素付与</color>を獲得する。\n\n<i>「珠玉が鳴り、世界は静まる。川は止まり、雲は霜となる。如法開壇、妖魔退散。」</i>",
+      "ko": "중운이 대검을 휘둘러 땅을 강하게 찍어 전방의 원형 범위 내에 얼음 폭발을 일으켜 적에게 <color=#99FFFFFF>얼음 원소 피해</color>를 준다.\n잠깐의 딜레이 후 얼음 폭발로 생긴 한기가 모여 중첩된 서리 영역이 생성된다. 영역 내의 한손검, 대검, 장병기를 사용하는 캐릭터는 <color=#99FFFFFF>얼음 원소 부여 효과</color>를 얻는다.\n\n<i>「소리가 울려 퍼지니 사방이 침묵하고, 강과 하천이 멈추고 구름에 서리가 낀다. 주문을 외우니 악령들이여 물렀거라」</i>",
+      "en": "Chongyun strikes the ground with his greatsword, causing a Cryo explosion in a circular AoE in front of him that deals <color=#99FFFFFF>Cryo DMG</color>.\nAfter a short delay, the cold air created by the Cryo explosion will coalesce into a Chonghua Frost Field, within which all Sword, Claymore and Polearm-wielding characters' weapons will be infused with <color=#99FFFFFF>Cryo</color>.\n\n<i>\"A crystal-clear ring, and all is silent. The rivers move not, and the clouds are heavy with frost. The altar gates open, and evil is banished.\"</i>",
+      "de": "Chongyun schlägt mit voller Wucht mit seinem riesigen Schwert auf den Boden, verursacht vor sich eine runde Kryo-Explosion und fügt Gegnern <color=#99FFFFFF>Kryo-Schaden</color> zu.\nKonzentriert kurze Zeit nach der Explosion die verströmende Kälte zu einem Schichtfrostfeld, das Figuren mit Einhändern, Großschwertern und Stangenwaffen die <color=#99FFFFFF>Kryo-Kraft</color> verleiht.\n\n<i>„Es knistert in sonst völliger Stille. Die Bäche sind zugefroren und dicke Schneewolken ziehen auf. Nach dem Öffnen der Tore zum Altar ergeht es dem Bösen schlecht.“</i>",
+      "es": "Chongyun golpea el suelo con su gran espada, causando una explosión Cryo en un AdE circular frente a él que inflige <color=#99FFFFFF>Daño Cryo</color>.\nDespués de un breve periodo de tiempo, el aire frío creado por la explosión Cryo se concentra en un campo de estratos de escarcha, dentro del cual se <color=#99FFFFFF>imbuye del elemento Cryo</color> a los personajes que usan espadas ligeras, mandobles y lanzas.\n\n<i>“Las joyas linlang resuenan en medio del silencio. Los ríos están quietos y las nubes se llenan de escarcha. Cuando las puertas del altar se abren, el mal es desterrado”.</i>",
+      "fr": "Chongyun abat violemment sa longue épée sur le sol, provoquant une explosion de glace qui inflige des <color=#99FFFFFF>DGT Cryo</color> aux ennemis en face dans une zone circulaire.\nAprès un court délai, les courants d'air froids de l'explosion se condensent en un champ de givre. Les DGT des attaques normales et chargées des personnages qui s'y trouvent et qui manient l'épée longue, à une main, ou une arme d'hast obtiennent un <color=#99FFFFFF>enchantement Cryo</color>.\n\n<i>« Lorsque les cloches sonnent, tout est calme et silencieux. Les eaux des lacs et des rivières ne s'écoulent plus, et les nuages sont couverts de givre épais. Les portes de l'autel s'ouvrent, tous les maux sont éliminés. »</i>",
+      "pt": "Chongyun golpeia o chão com seu Espadão, causando uma explosão Cryo em uma AdE circular na sua frente que inflige <color=#99FFFFFF>Dano Cryo</color>.\nDepois de um curto intervalo, o ar frio criado pela explosão Cryo se coalescerá em um Campo Gelado Chonghua, em que todos os personagens que usem Espada, Espadão ou Lança receberão encantamento <color=#99FFFFFF>Cryo</color>.\n\n<i>\"Um anel de cristal e tudo que se segue é o silêncio. Os rios não se movem, e as nuvens estão pesadas com o gelo. Os portões do altar se abrem, e o mal é banido.\"</i>",
+      "ru": "Чун Юнь совершает удар мечом по земле, вызывая перед собой в круглой области взрыв холода, который наносит <color=#99FFFFFF>Крио урон</color>.\nСпустя некоторое время холодный воздух, образованный взрывом, собирается в область Холода Чунхуа. Оружие находящихся в этой области персонажей, экипированных одноручным мечом, двуручным мечом или древковым оружием, наделяется <color=#99FFFFFF>инфузией Крио</color>.\n\n<i>Кристальный звон, вокруг всё замерло. Реки не текут, застыли облака. Открыты врата алтаря, изгнано зло.</i>",
+      "id": "Chongyun menghantam tanah dengan pedangnya dan mengakibatkan ledakan Cryo dalam area melingkar di depannya, mengakibatkan <color=#99FFFFFF>Cryo DMG</color>.\nSetelah jeda singkat, udara dingin yang diciptakan oleh ledakan Cryo akan bersatu menjadi sebuah Chonghua Frost Field, dan karakter lain yang menggunakan Sword, Claymore, dan Polearm akan menerima <color=#99FFFFFF>Cryo Infusion</color>.\n\n<i>\"Dengan bunyi sejernih kristal, dan semua menjadi sunyi. Sungai tidak bergerak, dan awan-awan penuh dengan es. Gerbang altar terbuka, dan kejahatan dimusnahkan.\"</i>",
+      "th": "Chongyun ฟันดาบใหญ่ลงไปที่พื้น สร้างระเบิดน้ำแข็งในรัศมีพื้นที่วงกว้างด้านหน้าของเขา และสร้าง <color=#99FFFFFF>ความเสียหายน้ำแข็ง</color>ให้กับศัตรู\nจากนั้นไม่นาน ระเบิดน้ำแข็ง จะทำให้เกิดไอเย็นและรวมตัวกันเป็นพื้นที่ Chonghua Frost Field โดยที่ตัวละครที่ใช้ดาบ, ดาบใหญ่ หรือหอกภายในนั้น จะได้รับ<color=#99FFFFFF>พลังแห่งน้ำแข็ง</color>\n\n<i>\"เมื่อ Linlang ส่งเสียง, ทุกสรรพสิ่งเงียบพลัน, แม่น้ำหยุดไหล,เมฆหนักไปด้วยเกล็ดหิมะ, เมื่อประตูแท่นบูชาเปิด, เหล่าวิญญาณร้ายหนีหาย\"</i>",
+      "vi": "Chongyun vung cự kiếm đập mạnh xuống mặt đất, gây ra vụ nổ băng ở phạm vi hình tròn phía trước và gây cho địch <color=#99FFFFFF>sát thương Nguyên Tố Băng</color>.\nSau khi gây ngưng trệ ngắn hạn, hàn khí tích tụ thành khu vực Sương Bạc Trùng Điệp, khiến cho nhân vật dùng kiếm đơn, đại kiếm, vũ khí cán dài nhận <color=#99FFFFFF>Nguyên Tố Băng đính kèm</color>.\n\n<i>\"Ngọc vỡ chấn động, bốn bề im ắng. Sông nước bất động, mây trời ngưng tụ. Lập đàn thi pháp, tà ác rút lui.\"</i>"
+    },
+    "imgid": "s_363201"
+  },
+  {
+    "title": {
+      "zhs": "灵刃·云开星落",
+      "zht": "靈刃·雲開星落",
+      "jp": "霊刃·雲開星落",
+      "ko": "영도·떨어지는 별",
+      "en": "Spirit Blade: Cloud-Parting Star",
+      "de": "Seelenklinge – Wolken teilender Stern",
+      "es": "Filo espiritual: Estrella cortanubes",
+      "fr": "Lame de l'esprit : Chute d'étoiles",
+      "pt": "Lâmina Espiritual - Estrela Cadente",
+      "ru": "Духовное лезвие: Падение с небес",
+      "id": "Spirit Blade: Cloud-parting Star",
+      "th": "Spirit Blade - Cloud-parting Star",
+      "vi": "Linh Đao - Vân Khai Tinh Lạc"
+    },
+    "description": {
+      "zhs": "重云结印，在前方半空中连续召唤出三柄巨大灵刃，短时间内依次落向地面并爆裂。\n灵刃爆裂时，会造成<color=#99FFFFFF>冰元素范围伤害</color>，并击飞敌人。\n\n<i>「卓剑天地动，冰凌霜寒生。如律令！」</i>",
+      "zht": "重雲結印，在前方半空中連續召喚出三柄巨大靈刃，短時間內依次落向地面並爆裂。\n靈刃爆裂時，會造成<color=#99FFFFFF>冰元素範圍傷害</color>，並擊飛敵人。\n\n<i>「卓劍天地動，冰淩霜寒生。如律令！」</i>",
+      "jp": "印を結び、前方の空中に3本の巨大霊刃を召喚する。霊刃は短時間内に1本ずつ地面に落ちて爆裂する。\n霊刃が爆裂する時、<color=#99FFFFFF>氷元素範囲ダメージ</color>を与え、敵を吹き飛ばす。\n\n<i>「卓越した剣が天地を行き交い、寒光がつららとなる。如律令！」</i>",
+      "ko": "중운이 결인하니 전방의 허공에서 연속으로 소환된 3개의 거대한 영도가 순서대로 땅에 떨어지면서 폭발한다.\n영도 폭렬 시 <color=#99FFFFFF>얼음 원소 범위 피해</color>를 주고 적을 공중에 띄운다.\n\n<i>「검에 천지가 요동치고, 얼음에 서리가 피어난다. 여율령!」</i>",
+      "en": "Performing the secret hand seals, Chongyun summons 3 giant spirit blades in mid-air that fall to the earth one by one after a short delay, exploding as they hit the ground.\nWhen the spirit blades explode, they will deal <color=#99FFFFFF>AoE Cryo DMG</color> and launch opponents.\n\n<i>\"As ice doth give the biting frost birth, My transcendent blade shakes heaven and earth. Heed my summons and come hence!\"</i>",
+      "de": "Chongyun formt Fingerzeichen, mit denen er drei große Seelenklingen in der Luft beschwört, die nach kurzer Zeit nacheinander auf den Boden fallen und zerspringen.\nBeim Zerspringen verursachen die Seelenklingen <color=#99FFFFFF>Kryo-Flächenschaden</color> und schleudern Gegner weg.\n\n<i>„Erhört meine Worte! Dieses Schwert lässt Himmel und Erde beben, auf dass sie die eisige Kälte erfahren!“</i>",
+      "es": "Chongyun crea unos sellos con sus manos para invocar tres filos espirituales gigantes que caen a la tierra uno tras otro, explotando al impactar contra el suelo, infligiendo <color=#99FFFFFF>Daño Cryo en el AdE</color> y lanzando por los aires a sus enemigos.\n\n<i>“Así como del hielo nace la escarcha, mi hoja trascendente sacude el cielo y la tierra. ¡Atiende a mi llamado y ven aquí!”.</i>",
+      "fr": "D'un geste rapide, Chongyun invoque en l'air 3 lames éthérées qui foncent au sol après un court délai.\nL'impact inflige des <color=#99FFFFFF>DGT Cryo de zone</color> et projette les ennemis en l'air.\n\n<i>« Ô lame du ciel et de la terre qui gèle tous les démons du monde... Entends mon appel ! »</i>",
+      "pt": "Criando os secretos selos artesanais, Chongyun evoca 3 lâminas espirituais em pleno ar que caem à terra uma por uma depois de um curto período de tempo, explodindo assim que encostam ao chão.\nQuando as lâminas espirituais explodem, elas infligem <color=#99FFFFFF>Dano Cryo em uma AdE</color> e lançam inimigos.\n\n<i>\"Assim como o frio atroz gera a geada congelante, minha lâmina transcendente estremece o céu e a terra. Ouça meu chamado e atenda ao meu apelo!\"</i>",
+      "ru": "С помощью особых жестов Чун Юнь призывает в воздух три гигантских Духовных лезвия, которые после некоторого времени падают на землю один за другим и взрываются.\nПосле взрыва Духовное лезвие наносит <color=#99FFFFFF>Крио урон по площади</color> и подбрасывает врагов.\n\n<i>«Как лёд обжигает холодом руки, так и мои призрачные мечи сотрясают небо и землю. Услышьте мои призывы и помогите мне!»</i>",
+      "id": "Melepas segel, Chongyun memanggil 3 pedang raksasa di tengah udara yang jatuh ke tanah dan meledak satu per satu setelah jeda pendek.\nPedangnya mengakibatkan <color=#99FFFFFF>Cryo DMG area</color> dan menghempas musuh saat meledak.\n\n<i>\"Seiring dengan es yang melahirkan dingin membeku, pedangku menggetarkan langit dan bumi. Dengarkan panggilanku, wahai pedang jiwa!\"</i>",
+      "th": "Chongyun ปิดผนึกลับ และเรียก ดาบวิญญาณ Spirit Blade ขนาดมหึมา 3 เล่ม ออกมาจากกลางอากาศ ด้านหน้าของเขา ในเวลาอันสั้น มันจะหล่นลงสู่พื้นทีละเล่มและ จะระเบิดเมื่อสัมผัสกับพื้น\nเมื่อ Spirit Blade ระเบิด จะสร้าง <color=#99FFFFFF>ความเสียหายน้ำแข็งวงกว้าง</color> และพุ่งไปโจมตีศัตรู\n\n<i>\"ฤทธิ์ดาบสะเทือนพสุธา เรียกเกล็ดหิมะขึ้นมา ดุจวาจาสิทธิ์!\"</i>",
+      "vi": "Chongyun kết ấn, triệu hồi liên tục ba thanh linh kiếm ở khoảng không phía trước, rồi lần lượt rơi xuống mặt đất và nổ tung.\nKhi linh kiếm nổ sẽ gây <color=#99FFFFFF>sát thương phạm vi nguyên tố băng</color> đồng thời đánh bay kẻ địch.\n\n<i>\"Trác kiếm thiên địa động, băng lăng sương hàn sinh. Như luật lệnh!\"</i>"
+    },
+    "imgid": "s_363901"
+  },
+  {
+    "title": {
+      "zhs": "吐纳真定",
+      "zht": "吐納真定",
+      "jp": "吐納真定",
+      "ko": "진기 토납",
+      "en": "Steady Breathing",
+      "de": "Atemtechnik",
+      "es": "Respiración inalterable",
+      "fr": "Respiration stable",
+      "pt": "Respiração Constante",
+      "ru": "Ровное дыхание",
+      "id": "Steady Breathing",
+      "th": "Steady Breathing",
+      "vi": "Hơi Thở Bình Yên"
+    },
+    "description": {
+      "zhs": "处在<color=#FFD780FF>灵刃·重华叠霜</color>领域内的单手剑、双手剑、长柄武器角色，普通攻击的攻击速度提升8%。",
+      "zht": "處在<color=#FFD780FF>靈刃·重華疊霜</color>領域內的單手劍、雙手劍、長柄武器角色，普通攻擊的攻擊速度提升8%。",
+      "jp": "<color=#FFD780FF>霊刃·重華積霜</color>エリア内にいる時、片手剣、両手剣、長柄武器キャラクターの通常攻撃の攻撃速度+8%。",
+      "ko": "<color=#FFD780FF>영도·중첩의 서리</color> 영역 내에 있는 한손검, 대검, 장병기 캐릭터의 일반 공격 속도가 8% 상승한다",
+      "en": "Sword, Claymore, or Polearm-wielding characters within the field created by <color=#FFD780FF>Spirit Blade: Chonghua's Layered Frost</color> have their Normal ATK SPD increased by 8%.",
+      "de": "Erhöht die Standardangriffs-GSW aller Figuren mit Einhändern, Zweihändern und Stangenwaffen im Wirkungsbereich von <color=#FFD780FF>Seelenklinge – Schichtfrost</color> um 8 %.",
+      "es": "Aumenta en un 8% la Vel. de Ataque Normal de los personajes con espadas ligeras, mandobles o lanzas dentro del campo creado por <color=#FFD780FF>Filo espiritual: Estratos de escarcha Chonghua</color>.",
+      "fr": "Dans le champ de <color=#FFD780FF>Lame de l'esprit : Givre superposé</color>, la VIT d'attaque des attaques normales des personnages maniant une épée à une ou deux mains ou une arme d'hast augmente de 8 %.",
+      "pt": "Os personagens que usam Espada, Espadão e Lança dentro do campo criado pela <color=#FFD780FF>Lâmina do Espírito - Geada de Chongyun</color> terão a Vel. de ATQ Normal aumentada em 8%.",
+      "ru": "Увеличивает скорость обычной атаки одноручным, двуручным и древковым оружием в области навыка <color=#FFD780FF>Духовное лезвие: Холод Чунхуа</color> на 8%.",
+      "id": "Meningkatkan 8% Normal ATK SPD karakter yang bertarung menggunakan Sword, Claymore, atau Polearm di dalam area <color=#FFD780FF>Spirit Blade: Chonghua's Layered Frost</color>.",
+      "th": "ตัวละครทั้งหมดที่ใช้อาวุธดาบ, ดาบใหญ่และหอกที่อยู่ในพื้นที่ของ <color=#FFD780FF>Spirit Blade - Chonghua's Layered Frost</color> ความเร็วในการโจมตีปกติจะเพิ่มขึ้น 8%",
+      "vi": "Tất cả nhân vật dùng kiếm đơn, trọng kiếm, vũ khí cán dài đứng trong <color=#FFD780FF>Linh Đao - Sương Bạc Trùng Điệp</color> tăng 8% tốc độ tấn công của các đòn tấn công thường."
+    },
+    "imgid": "p_362101"
+  },
+  {
+    "title": {
+      "zhs": "追冰剑诀",
+      "zht": "追冰劍訣",
+      "jp": "追氷剣訣",
+      "ko": "빙검 추적의 주문",
+      "en": "Rimechaser Blade",
+      "de": "Eisjägerschwert",
+      "es": "Hoja cazaescarcha",
+      "fr": "Lame du chasseur de glace",
+      "pt": "Lâmina do Caçador de Gelo",
+      "ru": "Лезвие ледяного хищника",
+      "id": "Rimechaser Blade",
+      "th": "Rimechaser Blade",
+      "vi": "Truy Băng Kiếm Quyết"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>灵刃·重华叠霜</color>领域消失时，会唤出一柄灵刃自动攻击附近的敌人，造成相当于灵刃·重华叠霜技能伤害100%的<color=#99FFFFFF>冰元素范围伤害</color>。被击中的敌人<color=#99FFFFFF>冰元素抗性</color>降低10%，持续8秒。",
+      "zht": "<color=#FFD780FF>靈刃·重華疊霜</color>領域消失時，會喚出一柄靈刃自動攻擊附近的敵人，造成相當於靈刃·重華疊霜技能傷害100%的<color=#99FFFFFF>冰元素範圍傷害</color>。被擊中的敵人<color=#99FFFFFF>冰元素抗性</color>降低10%，持續8秒。",
+      "jp": "<color=#FFD780FF>霊刃·重華積霜</color>エリアが消えた時、自動的に付近の敵を攻撃する霊刃を召喚し、霊刃·重華積霜のスキルダメージ100%分の<color=#99FFFFFF>氷元素範囲ダメージ</color>を与える。命中した敵の<color=#99FFFFFF>氷元素耐性</color>-10%、継続時間8秒。",
+      "ko": "<color=#FFD780FF>영도·중첩의 서리</color> 영역이 사라질 때 영도를 소환해 주변의 적을 자동으로 공격해 영도·중첩의 서리 스킬 피해 100%만큼의 <color=#99FFFFFF>얼음 원소 범위 피해</color>를 준다. 피격된 적은 <color=#99FFFFFF>얼음 원소 내성</color>이 10% 감소한다. 지속 시간: 8초",
+      "en": "When the field created by <color=#FFD780FF>Spirit Blade: Chonghua's Layered Frost</color> disappears, another spirit blade will be summoned to strike nearby opponents, dealing 100% of Chonghua's Layered Frost's Skill DMG as <color=#99FFFFFF>AoE Cryo DMG</color>. Opponents hit by this blade will have their <color=#99FFFFFF>Cryo RES</color> decreased by 10% for 8s.",
+      "de": "Erschafft beim Verschwinden des Wirkungsbereichs von <color=#FFD780FF>Seelenklinge – Schichtfrost</color> eine Seelenklinge, die Gegner in der Nähe automatisch angreift und <color=#99FFFFFF>Kryo-Flächenschaden</color> in Höhe von 100 % des Schadens von Seelenklinge – Schichtfrost verursacht. Verringert den <color=#99FFFFFF>Kryo-WDS</color> getroffener Gegner 8 s lang um 10 %.",
+      "es": "Cuando el campo creado por <color=#FFD780FF>Filo espiritual: Estratos de escarcha Chonghua</color> desaparece, invoca otro filo espiritual que ataca a los enemigos cercanos, infligiendo el 100% del daño de habilidad de Estratos de escarcha Chonghua como <color=#99FFFFFF>Daño Cryo en el AdE</color>. La <color=#99FFFFFF>RES Cryo</color> de los enemigos golpeados por este filo disminuirá en un 10% durante 8 s.",
+      "fr": "Une lame apparaît à la fin du champ de <color=#FFD780FF>Lame de l'esprit : Givre superposé</color> ; elle inflige des <color=#99FFFFFF>DGT Cryo de zone</color> équivalant à 100 % des DGT de Lame de l'esprit : Givre superposé aux ennemis proches. La <color=#99FFFFFF>RÉS Cryo</color> des ennemis touchés est réduite de 10 % pendant 8 s.",
+      "pt": "Quando a área criada pela <color=#FFD780FF>Lâmina Espiritual - Geada de Chongyun</color> dissipa, outra lâmina do espírito será evocada para atacar inimigos próximos, infligindo 100% de Dano da habilidade Geada de Chongyun como <color=#99FFFFFF>Dano Cryo em uma AdE</color>. Inimigos golpeados por essa lâmina terá sua <color=#99FFFFFF>RES Cryo</color> diminuída em 10% por 8 segundos.",
+      "ru": "После исчезновения области <color=#FFD780FF>Холода Чунхуа</color> призывает Духовное лезвие, которое наносит 100% урона навыка Духовное лезвие: Холод Чунхуа в качестве <color=#99FFFFFF>Крио урона по площади</color>. Понижает <color=#99FFFFFF>Крио сопротивление</color> врагов, получивших урон от Духовного лезвия, на 10% в течение 8 сек.",
+      "id": "Setelah area dari <color=#FFD780FF>Spirit Blade: Chonghua's Layered Frost</color> menghilang, sebilah Spirit Blade baru akan muncul dan menyerang musuh di dekatnya, mengakibatkan <color=#99FFFFFF>Cryo DMG area</color> sebesar 100% DMG Skill Chonghua's Layered Frost. Serangan ini juga akan mengurangi 10% <color=#99FFFFFF>Cryo RES</color> musuh selama 8 detik.",
+      "th": "เมื่อพื้นที่ <color=#FFD780FF>Spirit Blade - Chonghua's Layered Frost</color> สลายไป จะเรียก Spirit Blade ออกมาเพิ่มหนึ่งเล่ม เพื่อโจมตีศัตรูโดยอัตโนมัติ โดยจะสร้าง<color=#99FFFFFF>ความเสียหายน้ำแข็งวงกว้าง</color> เป็น 100% ของความเสียหายสกิล Spirit Blade - Chonghua's Layered Frost ซึ่งศัตรูที่ถูกโจมตีจะถูกลด <color=#99FFFFFF>ความต้านทานน้ำแข็ง</color>ลง 10% เป็นเวลา 8 วินาที",
+      "vi": "Khi khu vực <color=#FFD780FF>Linh Đao - Sương Bạc Trùng Điệp</color> biến mất, sẽ gọi ra 1 thanh Linh Đao tự động tấn công địch xung quanh, tạo thành 100% <color=#99FFFFFF>sát thương phạm vi Nguyên Tố Băng</color> tương đương với kỹ năng sát thương của Linh Đao - Sương Bạc Trùng Điệp. Địch bị đánh trúng <color=#99FFFFFF>kháng Nguyên Tố Băng</color> giảm 10%, kéo dài 8s."
+    },
+    "imgid": "p_362201"
+  },
+  {
+    "title": {
+      "zhs": "云游山海",
+      "zht": "雲遊山海",
+      "jp": "雲遊山海",
+      "ko": "산과 바다로",
+      "en": "Gallant Journey",
+      "de": "Durch Land und Meer",
+      "es": "Viaje por las nubes",
+      "fr": "Périple alyzéen",
+      "pt": "Jornada Galante",
+      "ru": "Великий добытчик",
+      "id": "Gallant Journey",
+      "th": "Gallant Journey",
+      "vi": "Chu Du Sông Núi"
+    },
+    "description": {
+      "zhs": "在璃月执行探索派遣任务时，消耗的时间缩短25%。",
+      "zht": "在璃月執行探索派遣任務時，消耗的時間縮短25%。",
+      "jp": "璃月の探索任務の所要時間-25%。",
+      "ko": "리월에서 탐색 임무 수행 시 소모하는 시간이 25% 감소한다",
+      "en": "When dispatched on an expedition in Liyue, time consumed is reduced by 25%.",
+      "de": "Verkürzt die bei Erkundungen innerhalb des Einflussbereichs von Liyue verbrauchte Zeit um 25 %.",
+      "es": "Reduce en un 25% el tiempo necesario para completar una expedición en Liyue.",
+      "fr": "Réduit la durée d'une expédition de 25 % lorsqu'elle se déroule à Liyue.",
+      "pt": "Quando despachado em uma expedição em Liyue, o tempo consumido é reduzido em 25%",
+      "ru": "Уменьшает длительность экспедиций в Ли Юэ на 25%.",
+      "id": "Ketika dikirim untuk melakukan ekspedisi di Liyue, waktu yang dibutuhkan berkurang 25%.",
+      "th": "เมื่อทำคำขอการออกสำรวจของ Liyue เวลาที่ใช้จะลดลง 25%",
+      "vi": "Khi làm nhiệm vụ Phái Đi thám Hiểm ở Liyue, thời gian tiêu hao rút ngắn 25%."
+    },
+    "imgid": "p_362301"
+  }
+]

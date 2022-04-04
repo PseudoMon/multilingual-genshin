@@ -1,0 +1,200 @@
+[
+  {
+    "title": {
+      "zhs": "普通攻击·淬炼之剑",
+      "zht": "普通攻擊·淬煉之劍",
+      "jp": "通常攻撃·百煉の剣",
+      "ko": "일반 공격·단련의 검",
+      "en": "Normal Attack: Tempered Sword",
+      "de": "Standardangriff: Gehärteter Stahl",
+      "es": "Ataque Normal: Espada templada",
+      "fr": "Attaque normale : Épée trempée",
+      "pt": "Ataque Normal: Espada Temperada",
+      "ru": "Закалённый меч",
+      "id": "Normal Attack: Tempered Sword",
+      "th": "โจมตีปกติ - Tempered Sword",
+      "vi": "Tấn Công Thường: Kiếm Tôi Luyện"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>普通攻击</color>\n进行至多四段的连续挥砍。\n\n<color=#FFD780FF>重击</color>\n持续消耗体力，快速进行连续的斩击。\n重击结束时，会进行一次格外有力的挥砍。\n\n<color=#FFD780FF>下落攻击</color>\n从空中下坠冲击地面，攻击下落路径上的敌人，并在落地时造成范围伤害。",
+      "zht": "<color=#FFD780FF>普通攻擊</color>\n進行至多四段的連續揮砍。\n\n<color=#FFD780FF>重擊</color>\n持續消耗體力，快速進行連續的斬擊。\n重擊結束時，會進行一次格外有力的揮砍。\n\n<color=#FFD780FF>下落攻擊</color>\n從空中下墜衝擊地面，攻擊下落路徑上的敵人，並在落地時造成範圍傷害。",
+      "jp": "<color=#FFD780FF>通常攻撃</color>\n最大4段の連続攻撃を行う。\n\n<color=#FFD780FF>重撃</color>\n持続的にスタミナを消費し、素早い連続斬撃を発動する。\n重撃が終了した時に、更に強力な攻撃を1回放つ。\n\n<color=#FFD780FF>落下攻撃</color>\n空中から落下し地面に衝撃を与える。経路上の敵を攻撃し、落下時に範囲ダメージを与える。",
+      "ko": "<color=#FFD780FF>일반 공격</color>\n검으로 최대 4번 공격한다.\n\n<color=#FFD780FF>강공격</color>\n스태미나를 지속해서 소모해 빠른 속도로 연속 베기를 발동한다.\n강공격 종료 시 추가로 한 번 더 강력하게 휘두른다.\n\n<color=#FFD780FF>낙하 공격</color>\n공중에서 땅을 내려찍어 경로상의 적을 공격하고 착지 시 범위 피해를 준다",
+      "en": "<color=#FFD780FF>Normal Attack</color>\nPerform up to 4 consecutive strikes.\n\n<color=#FFD780FF>Charged Attack</color>\nDrains Stamina over time to perform continuous slashes.\nAt the end of the sequence, perform a more powerful slash.\n\n<color=#FFD780FF>Plunging Attack</color>\nPlunges from mid-air to strike the ground, damaging opponents along the path and dealing AoE DMG upon impact.",
+      "de": "<color=#FFD780FF>Standardangriff</color>\nFührt bis zu 4 Schwünge mit dem Schwert hintereinander aus.\n\n<color=#FFD780FF>Heftiger Schlag</color>\nVerbraucht fortlaufend Ausdauer und führt mehrere Hiebe aus.\nSchwingt das Schwert am Ende mit besonders großer Wucht.\n\n<color=#FFD780FF>Angriff aus dem Fall</color>\nSchlägt beim Fallen aus der Luft auf den Boden, greift alle Gegner in der Bahn an und verursacht beim Aufkommen Flächenschaden.",
+      "es": "<color=#FFD780FF>Ataque Normal</color>\nRealiza hasta 4 tajos de espada consecutivos.\n\n<color=#FFD780FF>Ataque Cargado</color>\nConsume Aguante de manera constante para realizar golpes de espada continuos.\nCuando termina el Ataque Cargado, hará un movimiento final de dos cortes más poderosos.\n\n<color=#FFD780FF>Ataque Descendente</color>\nSe lanza desde el aire para golpear el suelo, dañando a los enemigos cercanos e infligiendo Daño en el AdE en el momento del impacto.",
+      "fr": "<color=#FFD780FF>Attaque normale</color>\nEnchaîne jusqu'à 4 coups d'épée.\n\n<color=#FFD780FF>Attaque chargée</color>\nExécute une succession d'entailles aussi rapides que tranchantes ; cette attaque consomme de l'endurance sur la durée.\nL'attaque chargée se termine sur un coup puissant.\n\n<color=#FFD780FF>Attaque plongeante</color>\nPlonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis en chemin et des DGT de zone à l'impact.",
+      "pt": "<color=#FFD780FF>Ataque Normal</color>\nRealiza até 4 golpes consecutivos.\n\n<color=#FFD780FF>Ataque Carregado</color>\nDrena Stamina ao longo do tempo para realizar cortes contínuos.\nAo final da sequência, realiza um corte ainda mais poderoso.\n\n<color=#FFD780FF>Ataque Imersivo</color>\nMergulha em pleno ar para golpear o chão, causando danos aos inimigos em seu caminho e infligindo dano em uma AdE durante o impacto.",
+      "ru": "<color=#FFD780FF>Обычная атака:</color>\nДо четырёх рубящих ударов мечом.\n\n<color=#FFD780FF>Заряженная атака:</color>\nКомбо-атака, на которую непрерывно тратится выносливость.\nПосле комбо-атаки проводит дополнительную мощную атаку мечом.\n\n<color=#FFD780FF>Атака в падении:</color>\nСтремительно падает на землю, атакуя всех врагов на пути. Приземлившись, наносит урон по площади.",
+      "id": "<color=#FFD780FF>Normal Attack</color>\nMelancarkan hingga 4 serangan berturut-turut.\n\n<color=#FFD780FF>Charged Attack</color>\nTerus menguras Stamina untuk melancarkan tebasan berkelanjutan.\nDiakhiri dengan sebuah tebasan yang kuat.\n\n<color=#FFD780FF>Plunging Attack</color>\nMenerjang dari udara untuk menghantam tanah, menyerang semua musuh di jalurnya dan mengakibatkan DMG area saat mendarat.",
+      "th": "<color=#FFD780FF>โจมตีปกติ</color>\nฟาดฟันต่อเนื่องมากสุดสี่ครั้ง\n\n<color=#FFD780FF>ชาร์จโจมตี</color>\nใช้พลังกายต่อเนื่อง เพื่อฟันโจมตีติดต่อกันอย่างรวดเร็ว\nเมื่อชาร์จโจมตีสิ้นสุดลง จะทำการฟันอย่างรุนแรงเพิ่มอีกหนึ่งครั้ง\n\n<color=#FFD780FF>โจมตีพุ่งลงจากอากาศ</color>\nกระโจนจากกลางอากาศลงมายังพื้นดิน เพื่อโจมตีศัตรูที่อยู่ในเส้นทางการโจมตี โดยจะสร้างความเสียหายวงกว้างเมื่อลงถึงพื้น",
+      "vi": "<color=#FFD780FF>Tấn Công Thường</color>\nThực hiện tối đa 4 lần chém liên tiếp.\n\n<color=#FFD780FF>Trọng Kích</color>\nTiêu hao thể lực liên tục để chém nhanh liên tiếp.\nSau khi Trọng Kích kết thúc, sẽ bổ một nhát cực mạnh.\n\n<color=#FFD780FF>Tấn Công Khi Đáp</color>\nĐáp xuống đất từ trên không, tấn công kẻ địch trên đường và gây sát thương phạm vi khi chạm đất."
+    },
+    "imgid": "s_163101"
+  },
+  {
+    "title": {
+      "zhs": "逆焰之刃",
+      "zht": "逆焰之刃",
+      "jp": "逆焔の刃",
+      "ko": "역날의 화염",
+      "en": "Searing Onslaught",
+      "de": "Sengende Klinge",
+      "es": "Filo ardiente",
+      "fr": "Assaut brûlant",
+      "pt": "Investida Ardente",
+      "ru": "Огненный натиск",
+      "id": "Searing Onslaught",
+      "th": "Searing Onslaught",
+      "vi": "Lưỡi Kiếm Tấn Công"
+    },
+    "description": {
+      "zhs": "挥舞大剑向前劈砍，造成<color=#FF9999FF>火元素伤害</color>。\n\n可以连续施放3次。\n若在短时间内没有施放，则会进入冷却。\n\n<i>分别象征迪卢克所秉持的正义、勇气与责任。</i>",
+      "zht": "揮舞大劍向前劈砍，造成<color=#FF9999FF>火元素傷害</color>。\n\n可以連續施放三次。\n若在短時間內沒有施放，則會進入冷卻。\n\n<i>分別象徵迪盧克所秉持的正義、勇氣與責任。</i>",
+      "jp": "前方に向かって大剣を振り、<color=#FF9999FF>炎元素ダメージ</color>を与える。\n\n最大連続で3回使用可能。\n短時間内に連続で使用しなかった場合、クールタイムに入る。\n\n<i>斬撃はそれぞれ、ディルックの持つ正義、勇気、そして責任を象徴している。</i>",
+      "ko": "대검을 휘둘러 <color=#FF9999FF>불 원소 피해</color>를 준다.\n\n연속으로 3회까지 사용할 수 있다.\n만약 일정 시간 내에 계속 사용하지 않으면 재사용 대기시간에 진입한다.\n\n<i>각각 다이루크가 주관하고 있는 정의, 용기, 그리고 책임감을 상징한다</i>",
+      "en": "Performs a forward slash that deals <color=#FF9999FF>Pyro DMG</color>.\n\nThis skill can be consecutively used 3 times. Enters CD if not cast again within a short period.\n\n<i>The slashes represent the values that Diluc holds dear: one for justice, one for courage, and one for duty.</i>",
+      "de": "Wirbelt das Großschwert, schlägt nach vorn und verursacht <color=#FF9999FF>Pyro-Schaden</color>.\n\nKann bis zu 3-mal hintereinander angewendet werden.\nBei nicht fortgeführter Anwendung innerhalb kurzer Zeit beginnt eine Abklingphase.\n\n<i>Dilucs Angriff steht für Gerechtigkeit, Tapferkeit und Verantwortung.</i>",
+      "es": "Da un golpe de espada hacia el frente que inflige <color=#FF9999FF>Daño Pyro</color>.\n\nEsta habilidad puede utilizarse 3 veces consecutivas, pero entrará en TdE si no se activa tras un breve periodo de tiempo.\n\n<i>Los tres golpes de espada representan los valores de Diluc: la justicia, el valor y el deber.</i>",
+      "fr": "Diluc fait tournoyer sa lourde épée vers l'avant, infligeant des <color=#FF9999FF>DGT Pyro</color>.\nCette attaque peut être enchaînée 3 fois de suite.\nElle entre en TdR si l'enchaînement n'est pas assez rapide.\n\n<i>Chacune de ces attaques représente les valeurs chères à Diluc : justice, courage et la responsabilité.</i>",
+      "pt": "Realiza um corte para frente que causa <color=#FF9999FF>Dano Pyro</color>.\n\nEsta habilidade pode ser usada 3x consecutivamente. Entra em Recarga se não for lançada novamente em um curto período de tempo.\n\n<i>Os cortes representam os valores de Diluc: um pela justiça, um pela coragem e outro pelo seus deveres.</i>",
+      "ru": "Совершает рубящий удар мечом, наносящий <color=#FF9999FF>Пиро урон</color> врагам впереди.\n\nЭтот навык можно активировать 3 раза подряд.\nЕсли не активировать его слишком долго, навык уходит в откат.\n\n<i>Меч Дилюка - это символ справедливости, храбрости и чувства долга.</i>",
+      "id": "Melancarkan tebasan ke arah depan yang mengakibatkan <color=#FF9999FF>Pyro DMG</color>.\n\nSkill ini dapat digunakan 3 kali berturut-turut. Memasuki CD jika tidak digunakan lagi dalam waktu singkat.\n\n<i>Pedang ini mewakili nilai-nilai yang dijunjung Diluc: Keadilan, keberanian, dan kewajiban.</i>",
+      "th": "กวัดแกว่งดาบขนาดใหญ่เพื่อฟาดฟันสิ่งที่อยู่ตรงหน้า สร้าง<color=#FF9999FF>ความเสียหายไฟ</color>\n\nสามารถทำได้ 3 ครั้งติดต่อกัน จากนั้นจะเข้าสู่ช่วงเวลาคูลดาวน์\n\n<i>สิ่งที่บ่งบอกถึงตัวตนของ Diluc นั้นคือ ความยุติธรรม, ความกล้า และความรับผิดชอบ</i>",
+      "vi": "Vung kiếm chém về phía trước, gây <color=#FF9999FF>Sát Thương Nguyên Tố Hỏa</color>.\n\nCó thể thi triển liên tiếp 3 lần.\nNếu trong thời gian ngắn không thi triển, sẽ vào trạng thái chờ.\n\n<i>Tượng trưng cho chính nghĩa, can đảm và trách nhiệm của Diluc.</i>"
+    },
+    "imgid": "s_163201"
+  },
+  {
+    "title": {
+      "zhs": "黎明",
+      "zht": "黎明",
+      "jp": "黎明",
+      "ko": "여명",
+      "en": "Dawn",
+      "de": "Dämmerung",
+      "es": "Amanecer",
+      "fr": "Aurore",
+      "pt": "Alvorecer",
+      "ru": "Рассвет",
+      "id": "Dawn",
+      "th": "Dawn",
+      "vi": "Lê Minh"
+    },
+    "description": {
+      "zhs": "爆发出烈焰的力量，击退周围的敌人，造成<color=#FF9999FF>火元素伤害</color>。随后，将烈焰凝聚在武器上，挥出向前飞行的火之鸟，对路径上的敌人造成高额<color=#FF9999FF>火元素伤害</color>，并在火之鸟行进的终点爆裂造成大量的<color=#FF9999FF>火元素范围伤害</color>。\n武器上凝聚的烈焰会使迪卢克获得<color=#FF9999FF>火元素附魔</color>。\n\n<i>在黑暗中行走，是为了带来光明。看远方那在静夜中亮起的火光，是破晓的先兆。</i>",
+      "zht": "爆發出烈焰的力量，擊退周圍的敵人，造成<color=#FF9999FF>火元素傷害</color>。隨後，將烈焰凝聚在武器上，揮出向前飛行的火之鳥，對路徑上的敵人造成高額<color=#FF9999FF>火元素傷害</color>，並在火之鳥行進的終點爆裂造成大量的<color=#FF9999FF>火元素範圍傷害</color>。\n武器上凝聚的烈焰會使迪盧克獲得<color=#FF9999FF>火元素附魔</color>。\n\n<i>在黑暗中行走，是為了帶來光明。看遠方那在靜夜中亮起的火光，是破曉的先兆。</i>",
+      "jp": "烈焔の力を爆発させ、周囲の敵をノックバックし、<color=#FF9999FF>炎元素ダメージ</color>を与える。その後、烈焔を大剣に集め、前方に飛行する炎の鳥を出し、経路上の敵に大量の<color=#FF9999FF>炎元素ダメージ</color>を与える。炎の鳥は進行経路の終着点で爆発し、大量の<color=#FF9999FF>炎元素範囲ダメージ</color>を与える。\n武器に凝集した烈焔により、ディルックは<color=#FF9999FF>炎元素付与</color>状態を獲得する。\n\n<i>暗闇を歩くのは、光を求めるため。夜に輝く炎の光は、黎明の証である。</i>",
+      "ko": "뜨거운 화염의 힘을 폭발하여 주변의 적을 넉백 시키고 <color=#FF9999FF>불 원소 피해</color>를 준다. 그리고 대검에 뜨거운 화염을 응집시킨 후 검을 휘둘러 전방을 향해 날아가는 불새를 소환해 경로상의 적에게 대량의 <color=#FF9999FF>불 원소 피해</color>를 주고, 불새가 사라지기 전에 폭발해 대량의 <color=#FF9999FF>불 원소 범위 피해</color>를 준다.\n무기에 응집된 뜨거운 화염은 다이루크에게 <color=#FF9999FF>불 원소 효과를 부여</color>한다.\n\n<i> 어둠 속을 걷는 건 빛을 가져오기 위함이다. 저 멀리 고요한 밤에 타오르는 불빛은 동틀 무렵의 전조다</i>",
+      "en": "Releases intense flames to knock back nearby opponents, dealing <color=#FF9999FF>Pyro DMG</color>. The flames then converge into the weapon, summoning a Phoenix that flies forward and deals massive <color=#FF9999FF>Pyro DMG</color> to all opponents in its path. The Phoenix explodes upon reaching its destination, causing a large amount of <color=#FF9999FF>AoE Pyro DMG</color>.\nThe searing flames that run down his blade cause it to be infused with <color=#FF9999FF>Pyro</color>.\n\n<i>The only reason to walk in the darkness is to light it up. Behold, that fleeing light in the dead of night is the herald of the coming dawn.</i>",
+      "de": "Erschafft Flammen, die Gegner in der Umgebung zurückstoßen und <color=#FF9999FF>Pyro-Schaden</color> verursachen. Die Flammen sammeln sich auf der Waffe und bilden einen Feuervogel, der nach vorn fliegt, Gegnern in seiner Bahn hohen <color=#FF9999FF>Pyro-Schaden</color> zufügt und am Ende des Flugs bei einer Explosion hohen <color=#FF9999FF>Pyro-Flächenschaden</color> verursacht.\nDie Flammen auf Dilucs Waffe verleihen ihm die <color=#FF9999FF>Pyro</color>-Kraft.\n\n<i>Man wandert durch die Finsternis, um das Licht zu verbreiten. Das Leuchten in der Ferne während einer dunklen Nacht ist das Vorzeichen für den Anbruch des Tages.</i>",
+      "es": "Unas llamas emergen de la espada de Diluc, las cuales derriban a los enemigos cercanos e infligen <color=#FF9999FF>Daño Pyro</color>. Las llamas convergen en la espada, invocando un fénix que vuela hacia adelante e infligiendo <color=#FF9999FF>Daño Pyro</color> a todos los enemigos en su camino. El fénix explota al llegar a su destino, infligiendo una cantidad significativa de <color=#FF9999FF>Daño Pyro en el AdE</color>.\nLas llamas que quedan en el arma de Diluc la <color=#FF9999FF>imbuyen del elemento Pyro</color>.\n\n<i>La única razón para caminar en la oscuridad es iluminarla. Hela aquí, la luz fugitiva en la oscuridad de la noche, heraldo del próximo amanecer.</i>",
+      "fr": "Diluc érupte en une explosion de flammes qui repoussent les ennemis et leur infligent des <color=#FF9999FF>DGT Pyro</color>. Les flammes convergent ensuite sur son arme, pour renaître en un phénix qui inflige d'importants <color=#FF9999FF>DGT Pyro</color> et repousse les ennemis sur sa route. Le phénix explose lorsqu'il atteint sa destination et inflige d'importants <color=#FF9999FF>DGT Pyro de zone</color>.\nLes flammes confèrent à l'arme de Diluc un <color=#FF9999FF>enchantement Pyro</color>.\n\n<i>Celui qui apporte la lumière doit marcher dans les ténèbres. Les flammes au loin ne sont que le prélude de l'aube à venir.</i>",
+      "pt": "Lança chamas intensas nos inimigos ao redor, causando <color=#FF9999FF>Dano Pyro</color>. As chamas então convergem na arma, invocando uma Fênix que voa para frente e causa <color=#FF9999FF>Dano Pyro</color> massivo em todos os inimigos no seu caminho. A Fênix explode depois alcançar seu destino, causando um enorme <color=#FF9999FF>Dano Pyro AdE</color>.\n\nAs chamas que correm de sua lâmina imbuem Diluc com <color=#FF9999FF>Pyro</color>.\n\n<i>A única razão para andar na escuridão é para a iluminar. Vejam, aquela luz no calar da noite é o arauto do amanhecer que está por vir.</i>",
+      "ru": "Окружая себя языками пламени, Дилюк отбрасывает окружающих врагов и наносит им <color=#FF9999FF>Пиро урон</color>. Затем, собравшись на оружии, его пламя превращается в стремящегося вперёд феникса, который наносит большой <color=#FF9999FF>Пиро урон</color> всем врагам на своём пути. В конце своего пути феникс взрывается, нанося огромный <color=#FF9999FF>Пиро урон по площади</color>.\nСобравшееся пламя наделяет оружие Дилюка <color=#FF9999FF>инфузией Пиро</color>.\n\n<i>Мы погружаемся во тьму лишь для того, чтобы озарить её ярким светом. Узри же предрассветный столп искр, вспыхнувший на излёте ночи.</i>",
+      "id": "Mengerahkan kekuatan Pyro untuk menghempas musuh di sekitar, mengakibatkan <color=#FF9999FF>Pyro DMG</color>. Setelahnya, mengumpulkan elemen Pyro di ujung senjata dan memanggil seekor burung Phoenix yang terbang melaju, mengakibatkan <color=#FF9999FF>Pyro DMG</color> ke semua musuh di jalurnya dan mengakibatkan <color=#FF9999FF>Pyro DMG area</color>.\nKobaran api yang tersisa pada pedang Diluc memberikan <color=#FF9999FF>Pyro Infusion</color> pada serangan Diluc.\n\n<i>Satu-satunya alasan untuk berjalan dalam kegelapan adalah untuk membuatnya terang. Lihatlah, cahaya yang lari di tengah kegelapan malam adalah pemberita fajar yang akan datang.</i>",
+      "th": "ระเบิดพลังงานไฟอันร้อนแรงออกมา เพื่อโจมตีศัตรูโดยรอบให้ถอยกลับไป เกิดเป็น<color=#FF9999FF>ความเสียหายธาตุไฟ</color> หลังจากนั้นจะรวบรวมไฟไว้บนอาวุธและ ปล่อยวิหคเพลิงออกไปยังข้างหน้า เพื่อสร้าง<color=#FF9999FF>ความเสียหายธาตุไฟ</color> ปริมาณมากแก่ศัตรูที่อยู่ในเส้นทาง โดยวิหคเพลิงจะระเบิดที่ปลายทาง และเกิดเป็น<color=#FF9999FF>ความเสียหายไฟวงกว้าง</color>อย่างรุนแรง\nเปลวไฟอันร้อนแรงที่ควบแน่นอยู่บนอาวุธ จะมอบ<color=#FF9999FF>พลังแห่งไฟ</color>ให้แก่ Diluc\n\n<i>เหตุผลที่เดินในความมืด ก็เพื่อปลดปล่อยแสงสว่าง มองไปยังแสงไฟท่ามกลางความมืดที่อยู่ไกลออกไป นั่นคือสิ่งที่บอกว่ารุ่งสางกำลังจะมาถึง</i>",
+      "vi": "Bùng cháy sức mạnh lửa, đánh lui địch xung quanh, gây <color=#FF9999FF>Sát Thương Nguyên Tố Hỏa</color>. Sau đó ngưng tụ lửa lên vũ khí, vung ra chim lửa bay về phía trước, gây cho địch trên đường lượng lớn <color=#FF9999FF>Sát Thương Nguyên Tố Hỏa</color> đồng thời ở điểm đến cuối cùng của chim lửa gây lượng lớn <color=#FF9999FF>Sát Thương Phạm Vi Nguyên Tố Hỏa</color>.\nNgọn lửa trên vũ khí khiến Diluc nhận được <color=#FF9999FF>Nguyên Tố Hỏa đính kèm</color>.\n\n<i>Bước đi trong bóng tối là để mang lại ánh sáng. Nhìn vào ánh sáng xa xăm tỏa ra trong màn đêm tĩnh lặng, là điềm báo bình minh sẽ đến.</i>"
+    },
+    "imgid": "s_163901"
+  },
+  {
+    "title": {
+      "zhs": "永不休止",
+      "zht": "永不休止",
+      "jp": "ノンストップ",
+      "ko": "끊임없는 정진",
+      "en": "Relentless",
+      "de": "Ruhelos",
+      "es": "Implacable",
+      "fr": "Impitoyable",
+      "pt": "Implacável",
+      "ru": "Беспощадность",
+      "id": "Relentless",
+      "th": "Relentless",
+      "vi": "Không Bỏ Cuộc"
+    },
+    "description": {
+      "zhs": "迪卢克的重击体力消耗降低50%，最大持续时间增加3秒。",
+      "zht": "迪盧克的重擊體力消耗降低50%，最大持續時間增加3秒。",
+      "jp": "重撃のスタミナ消費-50%、最大継続時間+3秒。",
+      "ko": "다이루크의 강공격 스태미나 소모량이 50% 감소하고 최대 지속 시간이 3초 늘어난다",
+      "en": "Diluc's Charged Attack Stamina Cost is decreased by 50%, and its duration is increased by 3s.",
+      "de": "Verringert Dilucs Ausdauerverbrauch für heftige Schläge um 50 % und verlängert die max. Wirkungsdauer um 3 s.",
+      "es": "Reduce en un 50% el Coste de Aguante del Ataque Cargado de Diluc, y aumenta en 3 s su duración.",
+      "fr": "Les attaques chargées de Diluc consomment 50 % d'endurance en moins, et durent 3 s de plus.",
+      "pt": "O Consumo de Stamina do Ataque Carregado de Diluc será diminuído em 50%, e sua duração será aumentada em 3 segundos.",
+      "ru": "Уменьшает стоимость заряженной атаки Дилюка на 50%, а длительность увеличена на 3 сек.",
+      "id": "Mengurangi 50% konsumsi Stamina Charged Attack Diluc, dan meningkatkan durasi maksimum selama 3 detik.",
+      "th": "การชาร์จโจมตีของ Diluc ใช้พลังกายลดลง 50% และเพิ่มระยะเวลาต่อเนื่องขึ้น 3 วินาที",
+      "vi": "Thể lực trọng kích Diluc tiêu hao giảm 50%, tăng thời gian tối đa thêm 3s."
+    },
+    "imgid": "p_162101"
+  },
+  {
+    "title": {
+      "zhs": "熔毁之翼",
+      "zht": "熔毀之翼",
+      "jp": "溶融の翼",
+      "ko": "융해의 날개",
+      "en": "Blessing of Phoenix",
+      "de": "Flammende Flügel",
+      "es": "Bendición del fénix",
+      "fr": "Bénédiction du phénix",
+      "pt": "Bênção de Phoenix",
+      "ru": "Благословение феникса",
+      "id": "Blessing of Phoenix",
+      "th": "Blessing of Phoenix",
+      "vi": "Đôi Cánh Rực Lửa"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>黎明</color>提供的<color=#FF9999FF>火元素附魔</color>持续时间延长4秒；此外，在效果持续期间，迪卢克获得20%<color=#FF9999FF>火元素伤害加成</color>。",
+      "zht": "<color=#FFD780FF>黎明</color>提供的<color=#FF9999FF>火元素附魔</color>持續時間延長4秒；此外，在效果持續期間，迪盧克獲得20%<color=#FF9999FF>火元素傷害加成</color>。",
+      "jp": "<color=#FFD780FF>黎明</color>による<color=#FF9999FF>炎元素付与</color>状態の継続時間+4秒、さらに効果継続中にディルックの与える<color=#FF9999FF>炎元素ダメージ</color>+20%。",
+      "ko": "<color=#FFD780FF>여명</color>이 제공하는 <color=#FF9999FF>불 원소 마법 부여</color>의 지속 시간이 4초 연장된다. 또한 효과가 지속하는 동안 다이루크는 <color=#FF9999FF>불 원소 피해 보너스</color>를 20% 획득한다",
+      "en": "The <color=#FF9999FF>Pyro Infusion</color> provided by <color=#FFD780FF>Dawn</color> lasts for 4s longer. Additionally, Diluc gains 20% <color=#FF9999FF>Pyro DMG Bonus</color> during the duration of this effect.",
+      "de": "Verlängert die Zeit, die <color=#FFD780FF>Dämmerung</color> das <color=#FF9999FF>Pyro-Attribut</color> verleiht, um 4 s und erhöht Dilucs <color=#FF9999FF>Pyro-Schaden</color> während der Wirkungsdauer des Effekts um 20 %.",
+      "es": "El <color=#FF9999FF>elemento Pyro imbuido</color> mediante <color=#FFD780FF>Amanecer</color> se extiende 4 s más. Además, Diluc gana un 20% de <color=#FF9999FF>Bono de Daño Pyro</color> durante la duración de este efecto.",
+      "fr": "Prolonge l'<color=#FF9999FF>enchantement Pyro</color> d'<color=#FFD780FF>Aurore</color> de 4 s. Diluc inflige 20 % de <color=#FF9999FF>DGT Pyro</color> supplémentaires pendant la durée de cet effet.",
+      "pt": "O <color=#FFD780FF>Encantamento Pyro</color> obtido pelo <color=#FF9999FF>Alvorecer</color> dura por 4 segundos a mais. Adicionalmente, Diluc ganha 20% de <color=#FF9999FF>Bônus de Dano Pyro</color> ao longo da duração deste efeito.",
+      "ru": "Увеличивает длительность <color=#FF9999FF>инфузии Пиро</color> навыка <color=#FFD780FF>Рассвет</color> на 4 сек. В течение действия этого эффекта также увеличивает <color=#FF9999FF>бонус Пиро урона</color> Дилюка на 20%.",
+      "id": "<color=#FF9999FF>Pyro Infusion</color> yang didapat dari skill <color=#FFD780FF>Dawn</color> bertahan 4 detik lebih lama. Diluc juga mendapatkan 20% <color=#FF9999FF>Pyro DMG Bonus</color> selama efek berlangsung.",
+      "th": "ช่วงเวลาคงอยู่ของ<color=#FF9999FF>พลังแห่งไฟ</color>ที่ได้จาก <color=#FFD780FF>Dawn</color> เพิ่มขึ้น 4 วินาที; นอกจากนี้ระหว่างช่วงเวลาที่เอฟเฟกต์คงอยู่ Diluc จะได้รับ<color=#FF9999FF>โบนัสความเสียหายไฟ</color>เพิ่ม 20%",
+      "vi": "Kéo dài 4s thời gian <color=#FFD780FF>Nguyên Tố Hỏa đính kèm</color> mà <color=#FF9999FF>Lê Minh</color> mang đến. Ngoài ra, trong thời gian còn hiệu lực, Diluc nhận 20% <color=#FF9999FF>buff sát thương Nguyên Tố Hỏa</color>."
+    },
+    "imgid": "p_162201"
+  },
+  {
+    "title": {
+      "zhs": "晨曦的传统",
+      "zht": "晨曦的傳統",
+      "jp": "アカツキの伝統",
+      "ko": "새벽의 전통",
+      "en": "Tradition of the Dawn Knight",
+      "de": "Tradition der Dämmerung",
+      "es": "Tradición del Caballero del Amanecer",
+      "fr": "Légende de l'aurore",
+      "pt": "Tradição do Cavaleiro do Alvorecer",
+      "ru": "Наследие солнца",
+      "id": "Tradition of the Dawn Knight",
+      "th": "Tradition of the Dawn Knight",
+      "vi": "Truyền Thống Của Bình Minh"
+    },
+    "description": {
+      "zhs": "锻造双手剑类武器时，返还15%消耗的矿石。",
+      "zht": "鍛造雙手劍類武器時，歸還15%消耗的礦石。",
+      "jp": "両手剣を鍛造する時、消費した鉱石の15%が返還される。",
+      "ko": "양손검 무기 단조 시 소모한 광석을 15% 반환한다",
+      "en": "Refunds 15% of the ore used when crafting Claymore-type weapons.",
+      "de": "Gibt beim Schmieden von Zweihändern 15 % des verbrauchten Erzes zurück.",
+      "es": "Recupera el 15% de los minerales utilizados en la fabricación de mandobles.",
+      "fr": "Lorsque vous forgez une épée à deux mains, 15 % du minerai utilisé vous sera rendu.",
+      "pt": "Reembolsa 15% dos minérios usados durante a produção de armas do tipo Espadão.",
+      "ru": "При ковке двуручного оружия возвращает 15% затраченной руды.",
+      "id": "Mengembalikan 15% jumlah Ore yang digunakan saat membuat senjata tipe Claymore.",
+      "th": "เมื่อสร้างอาวุธประเภทดาบใหญ่ จะได้รับแร่ที่ใช้ในการหลอมคืน 15%",
+      "vi": "Khi rèn vũ khí dạng Trọng Kiếm, hoàn trả 15% khoáng thạch tiêu hao."
+    },
+    "imgid": "p_162301"
+  }
+]

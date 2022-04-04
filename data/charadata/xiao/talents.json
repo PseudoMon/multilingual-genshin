@@ -1,0 +1,200 @@
+[
+  {
+    "title": {
+      "zhs": "普通攻击·卷积微尘",
+      "zht": "普通攻擊·捲積微塵",
+      "jp": "通常攻撃·微塵突進",
+      "ko": "일반 공격·권적미진",
+      "en": "Normal Attack: Whirlwind Thrust",
+      "de": "Standardangriff: Aufgewirbelter Staub",
+      "es": "Ataque Normal: Impulso de torbellino",
+      "fr": "Attaque normale : Coup de tourbillon",
+      "pt": "Ataque Normal: Impulso do Redemoinho",
+      "ru": "Вихревой удар",
+      "id": "Normal Attack: Whirlwind Thrust",
+      "th": "โจมตีปกติ - Whirlwind Thrust",
+      "vi": "Tấn Công Thường - Cuốn Quét Bụi Trần"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>普通攻击</color>\n进行至多六段的连续枪击。\n\n<color=#FFD780FF>重击</color>\n消耗一定体力，进行上挑攻击。\n\n<color=#FFD780FF>下落攻击</color>\n从空中下坠冲击地面，攻击下落路径上的敌人，并在落地时造成范围伤害。\n魈进行下落攻击时，不会承受坠落伤害。",
+      "zht": "<color=#FFD780FF>普通攻擊</color>\n進行至多六段的連續槍擊。\n\n<color=#FFD780FF>重擊</color>\n消耗一定體力，進行上挑攻擊。\n\n<color=#FFD780FF>下落攻擊</color>\n從空中下墜衝擊地面，攻擊下落路徑上的敵人，並在落地時造成範圍傷害。\n魈進行下落攻擊時，不會承受墜落傷害。",
+      "jp": "<color=#FFD780FF>通常攻撃</color>\n槍による最大6段の連続攻撃を行う。\n\n<color=#FFD780FF>重撃</color>\n一定のスタミナを消費し、斬り上げ攻撃を発動する。\n\n<color=#FFD780FF>落下攻撃</color>\n空中から落下し地面に衝撃を与える。経路上の敵を攻撃し、落下時に範囲ダメージを与える。\n魈が落下攻撃を行う時、落下ダメージを受けない。",
+      "ko": "<color=#FFD780FF>일반공격</color>\n창으로 최대 6번 공격한다.\n\n<color=#FFD780FF>강공격</color>\n일정 스테미나를 소모해 올려치기 공격을 가한다.\n\n<color=#FFD780FF>낙하 공격</color>\n공중에서 땅을 내려찍어 경로상의 적을 공격하고 착지 시 범위 피해를 준다.\n소는 낙하 공격 시, 추락 피해를 입지 않는다",
+      "en": "<color=#FFD780FF>Normal Attack</color>\nPerforms up to 6 consecutive spear strikes.\n\n<color=#FFD780FF>Charged Attack</color>\nConsumes a certain amount of Stamina to perform an upward thrust.\n\n<color=#FFD780FF>Plunging Attack</color>\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.\nXiao does not take DMG from performing Plunging Attacks.",
+      "de": "<color=#FFD780FF>Standardangriff</color>\nFührt bis zu 6 Lanzenstiche hintereinander aus.\n\n<color=#FFD780FF>Heftiger Schlag</color>\nVerbraucht eine gewisse Menge Ausdauer und führt einen nach oben gerichteten Angriff aus.\n\n<color=#FFD780FF>Angriff aus dem Fall</color>\nSchlägt beim Fallen aus der Luft auf den Boden, greift alle Gegner in der Bahn an und verursacht beim Aufkommen Flächenschaden.\nXiao erleidet bei Angriffen aus dem Fall keinen Schaden durch den Fall.",
+      "es": "<color=#FFD780FF>Ataque Normal</color>\nRealiza hasta 6 ataques rápidos con lanza.\n\n<color=#FFD780FF>Ataque Cargado</color>\nConsume una cierta cantidad de Aguante para atacar alzando su lanza.\n\n<color=#FFD780FF>Ataque Descendente</color>\nSe lanza desde el aire para golpear el suelo, dañando a los enemigos cercanos e infligiendo Daño en el AdE en el momento del impacto.\nXiao no recibirá daño al caer con un Ataque Descendente.",
+      "fr": "<color=#FFD780FF>Attaque normale</color>\nEnchaîne jusqu'à 6 coups de lance.\n\n<color=#FFD780FF>Attaque chargée</color>\nConsomme de l'endurance pour déclencher une attaque ascendante.\n\n<color=#FFD780FF>Attaque plongeante</color>\nPlonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis en chemin et des DGT de zone à l'impact.\nXiao ne subit pas de DGT lorsqu'il exécute une attaque plongeante.",
+      "pt": "<color=#FFD780FF>Ataque Normal</color>\nRealiza até 6 golpes rápidos.\n\n<color=#FFD780FF>Ataque Carregado</color>\nConsome uma certa quantidade de Stamina para desferir um golpe com pulo.\n\n<color=#FFD780FF>Ataque Imersivo</color>\nSe lança em pleno ar para golpear o chão, causando dano aos inimigos ao longo do caminho e infligindo Dano em uma AdE durante o impacto.\nXiao não recebe dano de queda ao realizar um Ataque Imersivo.",
+      "ru": "<color=#FFD780FF>Обычная атака:</color>\nДо шести быстрых ударов копьём.\n\n<color=#FFD780FF>Заряженная атака:</color>\nПроводит воздушную атаку, для которой тратится определённое количество выносливости.\n\n<color=#FFD780FF>Атака в падении:</color>\nСтремительно падает на землю, атакуя всех врагов на пути. Приземлившись, наносит урон по площади.\nСяо не получает урона от проведения атаки в падении.",
+      "id": "<color=#FFD780FF>Normal Attack</color>\nMelancarkan hingga 6 serangan tombak berturut-turut.\n\n<color=#FFD780FF>Charged Attack</color>\nMengonsumsi sejumlah Stamina untuk melakukan serangan ke arah atas.\n\n<color=#FFD780FF>Plunging Attack</color>\nMenerjang dari udara untuk menghantam tanah, mengakibatkan DMG pada musuh di jalur terjangan dan mengakibatkan DMG area saat mendarat.\nSaat melakukan Plunging Attack, Xiao tidak akan terkena DMG karena terjatuh dari ketinggian.",
+      "th": "<color=#FFD780FF>โจมตีปกติ</color>\nโจมตีด้วยหอกต่อเนื่องมากสุดหกครั้ง\n\n<color=#FFD780FF>ชาร์จโจมตี</color>\nใช้พลังกายส่วนหนึ่งเพื่อทำการโจมตีงัดขึ้นด้านบน\n\n<color=#FFD780FF>โจมตีพุ่งลงจากอากาศ</color>\nกระโจนจากกลางอากาศลงมายังพื้นดิน เพื่อโจมตีศัตรูที่อยู่ในเส้นทางการโจมตี โดยจะสร้างความเสียหายวงกว้างเมื่อลงถึงพื้น\nเมื่อ Xiao ใช้การโจมตีพุ่งลงจากอากาศ จะไม่ได้รับความเสียหายเมื่อลงถึงพื้น",
+      "vi": "<color=#FFD780FF>Tấn Công Thường</color>\nThực hiện tối đa 6 lần đánh liên tiếp.\n\n<color=#FFD780FF>Trọng Kích</color>\nTiêu hao thể lực nhất định để tấn công hướng lên trên.\n\n<color=#FFD780FF>Tấn Công Khi Đáp</color>\nĐáp xuống đất từ trên không, tấn công kẻ địch trên đường và gây sát thương phạm vi khi chạm đất.\nKhi Xiao tiến hành tấn công khi đáp, sẽ không phải chịu sát thương rơi."
+    },
+    "imgid": "s_263101"
+  },
+  {
+    "title": {
+      "zhs": "风轮两立",
+      "zht": "風輪兩立",
+      "jp": "風輪両立",
+      "ko": "풍륜양립",
+      "en": "Lemniscatic Wind Cycling",
+      "de": "Doppeltes Windrad",
+      "es": "Ciclón de viento lemniscático",
+      "fr": "Cycle du vent lemniscatique",
+      "pt": "Vento Lemniscático",
+      "ru": "Лемниската ветра",
+      "id": "Lemniscatic Wind Cycling",
+      "th": "Lemniscatic Wind Cycling",
+      "vi": "Đôi Bánh Xe Gió"
+    },
+    "description": {
+      "zhs": "疾速突进，对路径上的敌人造成<color=#80FFD7FF>风元素伤害</color>。\n可以在空中施放。\n初始拥有2次可使用次数。\n\n<i>在他乡的传说里，世界会被两大风轮碾碎。魈的枪术已臻化境，来回之间仿佛两座风轮同时撕裂敌人。</i>",
+      "zht": "疾速突進，對路徑上的敵人造成<color=#80FFD7FF>風元素傷害</color>。\n可以在空中施放。\n初始擁有兩次可使用次數。\n\n<i>在他鄉的傳說裡，世界會被兩大風輪碾碎。魈的槍術已臻化境，來回之間仿佛兩座風輪同時撕裂敵人。</i>",
+      "jp": "疾速突進し、経路上の敵に<color=#80FFD7FF>風元素ダメージ</color>を与える。\n空中での発動が可能。\n初期使用可能回数2回。\n\n<i>異郷の伝説では、世界は二つの大きな風輪によって破壊されるという。魈の槍術はすでに神の域に達し、まるで二つの風輪のように敵を切り裂く。</i>",
+      "ko": "아주 빠르게 돌진하여 경로상의 적에게 <color=#80FFD7FF>바람 원소 피해</color>를 준다.\n공중에서 발동 가능.\n초기 사용 가능 횟수: 2회\n\n<i>타국에선 세계가 두 개의 거대한 풍륜에 의해 파괴될 것이라는 전설이 있다. 소(魈)의 창술은 절정에 이르러 마치 두 개의 풍륜이 동시에 적을 찢어 버리는 것처럼 보인다</i>",
+      "en": "Xiao lunges forward, dealing <color=#80FFD7FF>Anemo DMG</color> to opponents in his path.\nCan be used in mid-air.\nStarts with 2 charges.\n\n<i>According to the legends of another land, the world will someday be crushed by two great wind wheels. Xiao's mastery over polearms is transcendent, ripping his foes apart like those legendary wind wheels.</i>",
+      "de": "Sticht mit hoher Geschwindigkeit nach vorn und fügt den Gegnern in der Bahn <color=#80FFD7FF>Anemo-Schaden</color> zu.\nKann in der Luft angewendet werden.\nKann anfänglich 2-mal angewendet werden.\n\n<i>In den Legenden fremder Länder würde die Welt von zwei riesigen Windrädern zermalmt werden. Xiao hat den Umgang mit der Lanze bereits perfektioniert und zerschneidet seine Gegner wie die beiden Windräder.</i>",
+      "es": "Xiao se lanza hacia adelante e inflige <color=#80FFD7FF>Daño Anemo</color> a todos los enemigos que se crucen en su camino.\nPuede activarse en el aire y empieza con un total de 2 cargas.\n\n<i>Cuentan las leyendas de otra tierra que el mundo será aplastado por dos grandes ruedas de viento. El dominio con la lanza de Xiao le permite destrozar a sus enemigos igual que las legendarias ruedas de viento.</i>",
+      "fr": "Xiao se précipite vers l'avant, infligeant des <color=#80FFD7FF>DGT Anémo</color> aux ennemis sur sa route.\nFonctionne aussi dans les airs.\nXiao commence avec 2 charges.\n\n<i>La légende d'un lointain pays raconte qu'un jour, le monde périra entre deux roues à aubes. La maîtrise totale de la lance permet à Xiao d'écraser ses ennemis, à l'image des roues légendaires écrasant le monde.</i>",
+      "pt": "Xiao avança, causando <color=#80FFD7FF>Dano Anemo</color> aos inimigos em seu caminho.\nPode ser usado no meio do ar.\nInicia com 2 cargas.\n\n<i>Segundo as lendas de outra terra, o mundo será um dia esmagado por duas grandes rodas de vento. O domínio de Xiao sobre as lanças é transcendente, destruindo seus inimigos como aquelas lendárias rodas de vento.</i>",
+      "ru": "Сяо совершает выпад вперёд, нанося <color=#80FFD7FF>Анемо урон</color> врагам на пути.\nМожно совершить в воздухе.\nИзначально имеет два заряда.\n\n<i>В легендах из далёких земель говорится, что в конце концов мир будет раздроблен двумя ветряными колёсами. Мастерство владения древковым оружием Сяо позволяет ему дробить врагов, словно те два колеса.</i>",
+      "id": "Xiao menerjang ke depan dan mengakibatkan <color=#80FFD7FF>Anemo DMG</color> pada musuh di jalurnya.\nDapat digunakan di udara.\nMemiliki 2 kali penggunaan (charge) dari awal.\n\n<i>Menurut legenda dari dataran lain, dunia ini suatu hari akan dihancurkan oleh dua roda angin raksasa. Keahlian Xiao dalam menggunakan tombak tiada duanya, dan dapat menebas musuh seperti dua roda angin raksasa di legenda tersebut.</i>",
+      "th": "พุ่งไปข้างหน้าอย่างรวดเร็วเพื่อสร้าง <color=#80FFD7FF>ความเสียหายลม</color>แก่ศัตรูที่อยู่ในเส้นทาง\nสามารถใช้กลางอากาศได้\nตอนเริ่มจะสามารถใช้ได้ 2 ครั้ง\n\n<i>ในตำนานที่บ้านเกิดของเขา โลกได้ถูกโจมตีด้วยวงล้อพายุ Xiao นั้นได้สำเร็จวิชาการใช้หอก โดยเขาสามารถฟาดฟันศัตรูได้ราวกับ กงล้อพายุในตำนานนั่น</i>",
+      "vi": "Lao đến cực nhanh, gây <color=#80FFD7FF>Sát Thương Nguyên Tố Phong</color> cho kẻ địch trên đường.\nCó thể thi triển trên không trung.\nBan đầu có 2 lần sử dụng.\n\n<i>Theo truyền thuyết của nơi nào đó, thế giới sẽ bị nghiền nát bởi hai bánh xe gió. Thương pháp của Xiao đã đạt trình độ xuất thần nhập quỷ, đi lại giống như hai cỗ bánh xe gió xé nát phe địch.</i>"
+    },
+    "imgid": "s_263201"
+  },
+  {
+    "title": {
+      "zhs": "靖妖傩舞",
+      "zht": "靖妖儺舞",
+      "jp": "靖妖儺舞",
+      "ko": "나자의 춤",
+      "en": "Bane of All Evil",
+      "de": "Geistervertreibung",
+      "es": "Azote de todos los males",
+      "fr": "Fléau du mal",
+      "pt": "Dança Nuo da Conquista do Mal",
+      "ru": "Истребление всего зла",
+      "id": "Bane of All Evil",
+      "th": "Bane of All Evil",
+      "vi": "Vũ Điệu Trừ Yêu"
+    },
+    "description": {
+      "zhs": "展现数千年前令神魔精妖睹之胆颤的夜叉傩面。\n\n<color=#FFD780FF>夜叉傩面</color>\n·大幅提升魈的跳跃能力；\n·提高攻击范围与攻击伤害；\n·将攻击伤害转为<color=#80FFD7FF>风元素伤害</color>，该元素转化无法被附魔覆盖。\n\n在这个状态下，魈会持续损失生命值。\n效果将在魈退场时解除。\n\n<i>戴上降魔的傩面，现出令诸恶胆寒，除尽妖魔奸邪的「护法夜叉」之姿。获得强大的力量，也会引导出巨大的痛苦。其式既名「靖妖傩舞」。</i>",
+      "zht": "展現數千年前令神魔精妖睹之膽顫的夜叉儺面。\n\n<color=#FFD780FF>夜叉儺面</color>\n·大幅提升魈的跳躍能力；\n·提高攻擊範圍與攻擊傷害；\n·將攻擊傷害轉為<color=#80FFD7FF>風元素傷害</color>，該元素轉化無法被附魔覆蓋。\n\n在這個狀態下，魈會持續損失生命值。\n效果將在魈退場時解除。\n\n<i>戴上降魔的儺面，現出令諸惡膽寒，除盡妖魔奸邪的「護法夜叉」之姿。獲得強大的力量，也會引導出巨大的痛苦。其式既名「靖妖儺舞」。</i>",
+      "jp": "数千年前に妖魔たちに恐れられた夜叉の儺面を見せる。\n\n<color=#FFD780FF>夜叉の儺面</color>\n·魈のジャンプ力が大幅にアップする。\n·攻撃範囲が広がり、与えるダメージがアップする。\n·攻撃ダメージは<color=#80FFD7FF>風元素ダメージ</color>となり、元素付与によって他の元素に変化することはない。\n\nこの状態の魈は、HPが持続的に減少する。\nこの効果は魈が退場する時に解除される。\n\n<i>降魔の儺面を被り、邪悪を脅かせ、妖魔を滅する「護法夜叉」の姿を現す。強大な力を手に入れる分、巨大な痛みを背負う式、その名は「靖妖儺舞」。</i>",
+      "ko": "수천 년 전 악마와 요괴들을 두려움에 떨게 했던 야차의 가면을 착용한다.\n\n<color=#FFD780FF>야차의 가면</color>\n·소의 점프력이 대폭 상승한다.\n·공격 범위와 가하는 피해가 증가한다.\n·공격은 <color=#80FFD7FF>바람 원소 피해</color>로 전환되며, 해당 원소 전환은 다른 원소 부여 효과로 대체될 수 없다.\n\n해당 상태일 때 소는 HP를 지속해서 잃는다.\n해당 효과는 소가 퇴장할 때 사라진다.\n\n<i>항마의 가면을 쓰면 요마를 소멸시키는 잔인한 「호법야차」가 나타난다. 강한 힘을 얻었으나, 큰 고통도 함께 따라올지니 그 이름은 「나자의 춤」이다</i>",
+      "en": "Xiao dons the Yaksha Mask that set gods and demons trembling millennia ago.\n\n<color=#FFD780FF>Yaksha's Mask</color>\n·Greatly increases Xiao's jumping ability.\n·Increases his attack AoE and attack DMG.\n·Converts attack DMG into <color=#80FFD7FF>Anemo DMG</color>, which cannot be overridden by any other elemental infusion.\n\nIn this state, Xiao will continuously lose HP.\nThe effects of this skill end when Xiao leaves the field.\n\n<i>Donning the Mask of the Yaksha, Xiao takes the terrifying, demon-conquering form of the Vigilant Yaksha. But this great power has also brought him great suffering. Some call him \"The Bane of All Evil.\"</i>",
+      "de": "Setzt die Yaksha-Maske auf, die Götter und Monster schon vor Jahrtausenden gleichermaßen in Angst und Schrecken versetzt hat.\n\n<color=#FFD780FF>Yaksha-Maske</color>\n· Erhöht Xiaos Sprungkraft enorm.\n· Vergrößert den Angriffsradius und erhöht den verursachten Schaden.\n· Wandelt den verursachten Schaden in <color=#80FFD7FF>Anemo-Schaden</color> um. Diese Elementarumwandlung kann nicht von anderen Elementen überdeckt werden.\n\nXiao verbraucht in diesem Zustand fortlaufend LP.\nEffekt erlischt, wenn Xiao ausgewechselt wird.\n\n<i>Xiao setzt die Maske eines Dämons auf und nimmt die Gestalt des „Schützenden Yaksha“ an, der das Böse erstarren lässt und Geistwesen vertreibt. Er erhält damit große Kraft, aber auch große Schmerzen. Dies wird als „Geistervertreibung“ bezeichnet.</i>",
+      "es": "Xiao se pone la máscara de Yaksha que aterrorizó tanto a los demonios como a los arcontes hace miles de años.\n\n<color=#FFD780FF>Máscara de Yaksha</color>\n·Mejora la capacidad de salto de Xiao.\n·Mientras dura la habilidad, aumenta el alcance y el daño de los ataques de Xiao.\n·Convierte su daño de ataque en <color=#80FFD7FF>Daño Anemo</color>. Este cambio elemental no puede sustituirse imbuyéndose de otro elemento.\nEstar en esta forma consume la Vida de Xiao de manera continua.\n\n<i>Xiao se pone una máscara y adopta la forma del Guardián Yaksha para aterrorizar a todos los males y eliminar a los monstruos y espíritus del mundo. Sin embargo, un gran poder conlleva un gran dolor. Algunos lo llaman el “Azote de todos los males”.</i>",
+      "fr": "Xiao revêt le Masque du Yaksha, qui, il y a bien longtemps, fit trembler dieux et démons.\n\n<color=#FFD780FF>Masque du Yaksha</color>\n· Améliore considérablement la capacité de saut de Xiao.\n· Augmente la portée et les DGT d'attaque.\n· Les DGT d'attaque sont convertis en <color=#80FFD7FF>DGT Anémo</color> ne pouvant pas être enchantés.\n\nCet effet consomme des PV de façon continue.\n\nL'état prend fin lorsque Xiao quitte le champ de bataille.\n\n<i>En revêtant le Masque du Yaksha, Xiao prend la forme terrifiante du Gardien Yaksha Dompteur de démons. Mais un tel pouvoir a un prix ; aussi l'appelle-t-on : le Fléau du mal.</i>",
+      "pt": "Xiao veste a Máscara Yaksha, que há milênios, pôs deuses e demônios a tremer.\n\n<color=#FFD780FF>Máscara Yaksha</color>\n·Aumenta consideravelmente a capacidade de salto de Xiao.\n·Aumenta a AdE de seu Ataque e aumenta seu Dano.\n·Converte o Dano do seu Ataque em <color=#80FFD7FF>Dano Anemo</color>, que não pode ser anulado por nenhuma outra infusão elemental.\n\nNesse estado, Xiao perderá Vida continuamente.\nOs efeitos dessa habilidade terminam quando Xiao deixa o campo.\n\n<i>Colocando a máscara Yaksha, Xiao se transforma no Conquistador de Demônios. Mas esse grande poder também lhe trouxe grande sofrimento. Alguns lhe chamam de \"A Ruína de Todos os Males\".</i>",
+      "ru": "Сяо надевает маску Якса, заставлявшую трепетать от страха богов и демонов тысячи лет назад.\n\n<color=#FFD780FF>Маска Якса:</color>\n· Значительно усиливает прыжки Сяо;\n· Увеличивает радиус и урон его атак;\n· Конвертирует урон от атак в <color=#80FFD7FF>Анемо урон</color>, этот эффект не может быть отменён какой-либо элементальной инфузией.\n\nНаходясь в этой форме, Сяо периодически теряет HP.\nЭффекты этого навыка заканчиваются, когда Сяо покидает поле боя.\n\n<i>Надевая маску Якса, Сяо превращается в ужасающую форму бдительного Якса, истребляющего демонов. Однако великая сила требует огромных жертв. Люди прозвали его борьбу истребление всего зла.</i>",
+      "id": "Xiao mengenakan Yaksha Mask yang ditakuti oleh para iblis dan juga Archon pada ribuan tahun lalu.\n\n<color=#FFD780FF>Yaksha Mask</color>\n·Meningkatkan kekuatan melompat Xiao secara drastis.\n·Meningkatkan DMG dan area serangan.\n·Mengonversi DMG serangan menjadi <color=#80FFD7FF>Anemo DMG</color> yang tidak dapat ditimpa oleh Elemental Infusion lainnya.\n\nDalam status ini, Xiao akan terus kehilangan HP.\nEfek ini akan hilang saat Xiao keluar dari medan pertempuran.\n\n<i>Saat mengenakan topeng Yaksha-nya, Xiao berubah wujud menjadi Vigilant Yaksha — sang penakluk iblis yang ditakuti. Kekuatan yang sangat besar harus dibayar dengan rasa sakit yang sama besarnya. Dia juga disebut sebagai \"The Bane of All Evil.\"</i>",
+      "th": "Xiao สวมหน้ากากยักษาที่ สร้างความหวาดหวั่นให้แก่เหล่าเทพ และปีศาจเมื่อหลายพันปีก่อน\n\n<color=#FFD780FF>Yaksha's Mask</color>\n·เพิ่มความสามารถในการกระโดดให้แก่ Xiao ขึ้นอย่างมาก;\n·เพิ่มระยะและความเสียหายของการโจมตี;\n·เปลี่ยนความเสียหายของการโจมตีเป็น<color=#80FFD7FF>ความเสียหายลม</color> โดยที่ไม่สามารถแทนที่ด้วยการแปลงของธาตุอื่น ๆ ได้\n\nภายใต้สภาวะนี้ Xiao จะสูญเสียพลังชีวิตของเขาอย่างต่อเนื่อง\nเอฟเฟกต์จะหมดไปเมื่อ Xiao ออกจากการต่อสู้\n\n<i>สวมหน้ากากของยักษา ปรากฏตัวในอิริยาบถของ \"ยักษาผู้พิทักษ์\" ที่ทำให้ปีศาจร้ายและวิญญาณชั่วต้องหวาดหวั่น อย่างไรก็ตามพลังที่ยิ่งใหญ่นั้น ก็มาพร้อมกับความเจ็บปวดที่ร้ายแรง ท่านี้ถูกเรียกว่า \"ระบำพิชิตมาร\"</i>",
+      "vi": "Phơi bày Mặt Nạ Dạ Xoa mà hàng nghìn năm trước đã khiến yêu ma quỷ quái run sợ.\n\n<color=#FFD780FF>Mặt Nạ Dạ Xoa</color>\n·Tăng khả năng nhảy của Xiao; \n·Tăng phạm vi tấn công và sát thương; \n·Chuyển sát thương thành <color=#80FFD7FF>Sát Thương Nguyên Tố Phong</color>, chuyển hóa nguyên tố này không thể bị đính kèm thay thế.\n\nỞ trạng thái này, Xiao sẽ liên tục mất HP.\nHiệu quả sẽ mất khi Xiao rời trận.\n\n<i>Đeo lên mặt nạ Hàng Ma, Hộ Pháp Dạ Xoa xuất hiện khiến tất cả yêu ma run sợ, hàng ma diệt quái. Nhận được sức mạnh to lớn, cũng đem đến đau đớn cùng cực. Tên gọi là Vũ Điệu Trừ Yêu.</i>"
+    },
+    "imgid": "s_263901"
+  },
+  {
+    "title": {
+      "zhs": "降魔·平妖大圣",
+      "zht": "降魔·平妖大聖",
+      "jp": "降魔·平妖大聖",
+      "ko": "항마·평요대성",
+      "en": "Conqueror of Evil: Tamer of Demons",
+      "de": "Eroberung – Dämonenbändiger",
+      "es": "Conquista del mal: Domademonios",
+      "fr": "Dompteur de démons : Conquérant du mal",
+      "pt": "Conquistador do Mal - Domador de Demônios",
+      "ru": "Завоеватель зла: Усмиряющий демонов",
+      "id": "Conqueror of Evil: Tamer of Demons",
+      "th": "Conqueror of Evil: Tamer of Demons",
+      "vi": "Hàng Ma - Bình Yêu Đại Thánh"
+    },
+    "description": {
+      "zhs": "在<color=#FFD780FF>靖妖傩舞</color>状态下，魈造成的所有伤害提高5%。此后，在技能持续时间内，每经过3秒，造成的伤害再额外提高5%。\n至多获得25%伤害加成。",
+      "zht": "在<color=#FFD780FF>靖妖儺舞</color>狀態下，魈造成的所有傷害提高5%。此後，在技能持續時間內，每經過3秒，造成的傷害再額外提高5%。\n至多獲得25%傷害加成。",
+      "jp": "<color=#FFD780FF>靖妖儺舞</color>状態の時、魈の与える全ダメージ+5%。また、スキル継続中、3秒毎に与える全ダメージが更に+5%。\n最大25%まで。",
+      "ko": "<color=#FFD780FF>나자의 춤</color> 상태에서 소(魈)가 가하는 모든 피해가 5% 증가하고 이후 스킬 지속 시간 동안 3초가 지날 때마다 가하는 피해가 추가로 5% 증가한다.\n피해 보너스는 최대 25%까지 획득한다",
+      "en": "While under the effects of <color=#FFD780FF>Bane of All Evil</color>, all DMG dealt by Xiao increases by 5%. DMG increases by a further 5% for every 3s the ability persists.\nThe maximum DMG Bonus is 25%.",
+      "de": "Erhöht Xiaos gesamten Schaden im Zustand <color=#FFD780FF>Geistervertreibung</color> um 5 % und danach während der Dauer der Fähigkeit alle 3 s um zusätzliche 5 %.\nErhöht den Schaden dabei um bis zu 25 %.",
+      "es": "Al estar bajo los efectos de <color=#FFD780FF>Azote de todos los males</color>, el daño infligido por Xiao se incrementa en un 5%. Después, su daño continúa aumentando en un 5% cada 3 s hasta el fin de la habilidad.\nSolo se puede alcanzar un 25% de bono de daño máximo.",
+      "fr": "Xiao inflige 5 % de DGT supplémentaires tant que <color=#FFD780FF>Fléau du mal</color> est actif. Un cumul de 5 % de DGT supplémentaires est ensuite appliqué toutes les 3 s tant que dure la compétence.\nCumul max : 25 % de DGT supplémentaires.",
+      "pt": "Enquanto estiver sob efeito da <color=#FFD780FF>Dança Nuo da Conquista do Mal</color>, todos os Danos causado por Xiao aumentam em 5%. O Dano aumenta por mais 5% a cada 3 segundos em que a habilidade persistir.\nO Bônus máximo de Dano é de 25%.",
+      "ru": "При использовании навыка <color=#FFD780FF>Истребление всего зла</color> урон Сяо увеличивается на 5%. После этого его урон продолжает увеличиваться на 5% каждые 3 сек. до окончания действия навыка.\nМакс. увеличение урона - 25%.",
+      "id": "Meningkatkan 5% DMG Xiao saat berada dalam status <color=#FFD780FF>Bane of All Evil</color>. Selama durasi skill, DMG Xiao akan terus meningkat sebesar 5% setiap 3 detik.\nBatas maksimum peningkatan DMG adalah 25%.",
+      "th": "ภายใต้สภาวะของ <color=#FFD780FF>Bane of All Evil</color> ความเสียหายทั้งหมดที่ Xiao สร้างจะเพิ่มขึ้น 5% นอกจากนี้ ภายในช่วงเวลาต่อเนื่องของสกิล ความเสียหายที่สร้างจะเพิ่มขึ้นอีก 5% เมื่อเวลาผ่านไปทุก 3 วินาที\nโบนัสความเสียหายนี้จะเพิ่มได้มากสุดที่ 25%",
+      "vi": "Trong trạng thái <color=#FFD780FF>Vũ Điệu Trừ Yêu</color>, tất cả sát thương Xiao gây ra tăng 5%. Sau đó, trong thời gian duy trì của kỹ năng, mỗi 3s, sát thương gây ra sẽ tăng thêm 5%.\nTối đa nhận 25% sát thương tăng thêm."
+    },
+    "imgid": "p_262101"
+  },
+  {
+    "title": {
+      "zhs": "坏劫·国土碾尘",
+      "zht": "壞劫·國土碾塵",
+      "jp": "壊劫·国土砕き",
+      "ko": "괴겁·국토연진",
+      "en": "Dissolution Eon: Heaven Fall",
+      "de": "Untergang – Zermalmtes Land",
+      "es": "Desintegración: Caída celestial",
+      "fr": "Dissolution d'éon : Chute des cieux",
+      "pt": "Dissolução de Eon - Queda do Céu",
+      "ru": "Эра распада: Падение небес",
+      "id": "Dissolution Eon: Heaven Fall",
+      "th": "Dissolution Eon - Heaven Fall",
+      "vi": "Hoại Kiếp - Quốc Thổ"
+    },
+    "description": {
+      "zhs": "施放<color=#FFD780FF>风轮两立</color>会使之后7秒内的风轮两立造成的伤害提高15%。\n该效果持续7秒，最多叠加3次，叠加时刷新持续时间。",
+      "zht": "施放<color=#FFD780FF>風輪兩立</color>會使之後7秒內的風輪兩立造成的傷害提高15%。\n該效果持續7秒，最多疊加三次，疊加時重置持續時間。",
+      "jp": "<color=#FFD780FF>風輪両立</color>発動後の7秒間、風輪両立によるダメージ+15%。\n継続時間7秒、最大3重まで、重複で発動すると継続時間がリセットされる。",
+      "ko": "<color=#FFD780FF>풍륜양립</color> 발동 후 7초 동안 풍륜양립으로 가하는 피해가 15% 증가한다.\n지속시간:7초. 최대 중첩수:3회. 중첩 시 지속 시간이 갱신된다",
+      "en": "Using <color=#FFD780FF>Lemniscatic Wind Cycling</color> increases the DMG of subsequent uses of Lemniscatic Wind Cycling by 15%.\nThis effect lasts for 7s, and has a maximum of 3 stacks. Gaining a new stack refreshes the effect's duration.",
+      "de": "Erhöht den mit <color=#FFD780FF>Doppeltes Windrad</color> verursachten Schaden bei erneuter Anwendung von Doppeltes Windrad innerhalb von 7 s um 15 %.\nHält 7 s, 3-fach stapelbar, aktualisiert die Dauer beim Stapeln.",
+      "es": "Usar <color=#FFD780FF>Ciclón de viento lemniscático</color> aumenta en un 15% el daño infligido por los siguientes Ciclones de viento lemniscático durante 7 s.\nEste efecto puede acumularse un máximo de 3 veces y, cada vez que se obtenga una nueva carga, la duración de este efecto se reiniciará.",
+      "fr": "<color=#FFD780FF>Cycle du vent lemniscatique</color> inflige 15 % de DGT en plus lorsqu'il est relancé dans les 7 s.\nCet effet dure 7 s et peut être cumulé 3 fois au maximum. Le délai est réinitialisé à chaque nouveau cumul.",
+      "pt": "Ao liberar <color=#FFD780FF>Vento Lemniscático</color>, aumenta o Dano dos próximos usos em 15% por 7s.\nO efeito dura 7s e pode ser acumulado até 3 vezes. Ganhar um novo acúmulo atualiza a duração do efeito.",
+      "ru": "В течение 7 сек. после использование навыка <color=#FFD780FF>Лемниската ветра</color> увеличивает урон следующего использования навыка Лемниската ветра на 15%.\nЭффект длится 7 сек. и может складываться до трёх раз. Длительность обнуляется с каждым новым складыванием.",
+      "id": "Menggunakan <color=#FFD780FF>Lemniscatic Wind Cycling</color> akan meningkatkan 15% DMG Lemniscatic Wind Cycling selanjutnya selama 7 detik.\nEfek dapat ditumpuk hingga 3 lapis. Durasi akan diperbarui setiap mendapat tumpukan baru.",
+      "th": "การปล่อย <color=#FFD780FF>Lemniscatic Wind Cycling</color> จะทำให้การปล่อย Lemniscatic Wind Cycling ครั้งต่อไปภายในเวลา 7 วินาที สร้างความเสียหายเพิ่มขึ้น 15%\nเอฟเฟกต์นี้จะคงอยู่เป็นเวลา 7 วินาที โดยจะซ้อนทับกันได้มากสุด 3 ครั้ง และจะรีเฟรชระยะเวลาต่อเนื่อง เมื่อเกิดการซ้อนทับกัน",
+      "vi": "Sau khi thi triển <color=#FFD780FF>Đôi Bánh Xe Gió</color>, trong vòng 7s sau đó sẽ khiến cho sát thương của Đôi Bánh Xe Gió tăng 15%.\nHiệu quả kéo dài 7s, tối đa cộng dồn 3 lần, khi cộng dồn sẽ làm mới thời gian kéo dài."
+    },
+    "imgid": "p_262201"
+  },
+  {
+    "title": {
+      "zhs": "神通·空中自在法",
+      "zht": "神通·空中自在法",
+      "jp": "神通·空中自在法",
+      "ko": "신통·공중 유희",
+      "en": "Transcension: Gravity Defier",
+      "de": "Transzendenz – Schwerelosigkeit",
+      "es": "Trascendencia: Desafío a la gravedad",
+      "fr": "Transcendance : Contrôleur de gravité",
+      "pt": "Transcensão - Transgressão Gravitacional",
+      "ru": "Трансценденция: Отрицание гравитации",
+      "id": "Transcension: Gravity Defier",
+      "th": "Transcension - Gravity Defier",
+      "vi": "Thần Thông - Không Trung Tự Tại"
+    },
+    "description": {
+      "zhs": "队伍中自己的角色攀爬消耗的体力降低20%。\n无法与效果完全相同的固有天赋叠加。",
+      "zht": "隊伍中自己的角色攀爬消耗的體力降低20%。\n無法與效果完全相同的固有天賦疊加。",
+      "jp": "チーム内の自身のキャラクター全員が登りに消費するスタミナ-20%。\n同じ効果を持つ固有天賦との重ね掛け不可。",
+      "ko": "파티 내 자신의 캐릭터의 등반 시 소모하는 스태미나가 20% 감소한다.\n같은 효과의 고유 특성과 중첩되지 않는다",
+      "en": "Decreases climbing Stamina consumption for your own party members by 20%.\nNot stackable with Passive Talents that provide the exact same effects.",
+      "de": "Verringert die beim Klettern verbrauchte Ausdauer aller eigenen Truppenmitglieder um 20 %.\nNicht mit passiven Talenten mit völlig gleichen Effekten stapelbar.",
+      "es": "Disminuye en un 20% el Coste de Aguante al escalar de todos los miembros de tu equipo.\nNo se puede acumular con otros talentos pasivos que tengan los mismos efectos.",
+      "fr": "Réduit la consommation d'endurance de vos personnages dans l'équipe de 20 % lors de l'escalade.\nNe peut pas être cumulé avec d'autres aptitudes passives aux effets identiques.",
+      "pt": "Diminui o consumo de Stamina ao Escalar de todos os personagens da equipe em 20%.\nNão acumulável com Talentos Passivos que concedem exatamente os mesmos efeitos.",
+      "ru": "Уменьшает потребление выносливости активного персонажа во время карабканья на 20%.\nНе суммируется с пассивными талантами, дающими точно такие же эффекты.",
+      "id": "Mengurangi 20% konsumsi Stamina saat memanjat untuk anggota party sendiri.\nTidak dapat ditumpuk dengan Talenta Pasif dengan efek yang sama.",
+      "th": "ลดอัตราการเสียพลังกายจากการปีน ให้ตัวละครของตนเองที่อยู่ในทีมลง 20%\nไม่สามารถซ้อนทับพรสวรรค์ติดตัวที่เอฟเฟกต์เหมือนกันทุกประการได้",
+      "vi": "Giảm 20% tiêu hao thể lực khi leo trèo cho nhân vật trong đội của bản thân.\nKhông thể cộng dồn với buff Thiên Phú cố định có cùng hiệu quả."
+    },
+    "imgid": "p_262301"
+  }
+]

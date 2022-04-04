@@ -1,0 +1,200 @@
+[
+  {
+    "title": {
+      "zhs": "普通攻击·千金掷",
+      "zht": "普通攻擊·千金擲",
+      "jp": "通常攻撃·千金擲",
+      "ko": "일반 공격·천금투",
+      "en": "Normal Attack: Sparkling Scatter",
+      "de": "Standardangriff: Teure Geschosse",
+      "es": "Ataque Normal: Lanzamiento centelleante",
+      "fr": "Attaque normale : Géo-dispersion",
+      "pt": "Ataque Normal: Dispersão Espumante",
+      "ru": "Сверкающий дождь",
+      "id": "Sparkling Scatter",
+      "th": "โจมตีปกติ - Sparkling Scatter",
+      "vi": "Tấn Công Thường - Ngàn Vàng Lấp Lánh"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>普通攻击</color>\n发射宝石，造成<color=#FFE699FF>岩元素伤害</color>。\n命中时，赋予凝光一枚星璇。\n\n<color=#FFD780FF>重击</color>\n消耗体力，发射一颗巨型宝石，造成<color=#FFE699FF>岩元素伤害</color>。\n若凝光拥有星璇，施放重击时会将所有星璇一同发射，造成额外的伤害。\n\n<color=#FFD780FF>下落攻击</color>\n凝聚晶岩的力量，从空中下坠冲击地面，攻击下落路径上的敌人，并在落地时造成<color=#FFE699FF>岩元素范围伤害</color>。",
+      "zht": "<color=#FFD780FF>普通攻擊</color>\n發射寶石，造成<color=#FFE699FF>岩元素傷害</color>。\n命中時，賦予凝光一枚星璇。\n\n<color=#FFD780FF>重擊</color>\n消耗體力，發射一顆巨型寶石，造成<color=#FFE699FF>岩元素傷害</color>。\n若凝光擁有星璇，施放重擊時會將所有星璇一同發射，造成額外的傷害。\n\n<color=#FFD780FF>下落攻擊</color>\n凝聚晶岩的力量，從空中下墜衝擊地面，攻擊下落路徑上的敵人，並在落地時造成<color=#FFE699FF>岩元素範圍傷害</color>。",
+      "jp": "<color=#FFD780FF>通常攻撃</color>\n宝石を発射し、<color=#FFE699FF>岩元素ダメージ</color>を与える。\n命中した時、凝光に星璇を一枚付与する。\n\n<color=#FFD780FF>重撃</color>\nスタミナを消費して巨大な宝石を発射し、<color=#FFE699FF>岩元素ダメージ</color>を与える。\n凝光に星璇がついている状態下で重撃を行うと、全ての星璇を一斉に発射し、さらにダメージを与える。\n\n<color=#FFD780FF>落下攻撃</color>\n空中から晶岩の力を凝集しながら落下し、地面に衝撃を与える。経路上の敵を攻撃し、落下時に<color=#FFE699FF>岩元素範囲ダメージ</color>を与える。",
+      "ko": "<color=#FFD780FF>일반 공격</color>\n보석을 발사해 <color=#FFE699FF>바위 원소 피해</color>를 준다.\n명중 시 응광에게 별을 한 개 부여한다.\n\n<color=#FFD780FF>강공격</color>\n스태미나를 소모해 거대한 보석을 발사하여 <color=#FFE699FF>바위 원소 피해</color>를 준다.\n만약 응광이 별을 보유하고 있을 경우 강공격 발동 시 모든 별을 함께 발사해 추가 피해를 준다.\n\n<color=#FFD780FF>낙하 공격</color>\n공중에서 바위 결정의 힘을 모은 후 지면을 강타해 경로상의 적을 공격하고 착지 시 <color=#FFE699FF>바위 원소 범위 피해</color>를 준다",
+      "en": "<color=#FFD780FF>Normal Attack</color>\nShoots gems that deal <color=#FFE699FF>Geo DMG</color>.\nUpon hit, this grants Ningguang 1 Star Jade.\n\n<color=#FFD780FF>Charged Attack</color>\nConsumes a certain amount of stamina to fire off a giant gem that deals <color=#FFE699FF>Geo DMG</color>.\nIf Ningguang has any Star Jades, unleashing a Charged Attack will cause the Star Jades to be fired at the enemy as well, dealing additional DMG.\n\n<color=#FFD780FF>Plunging Attack</color>\nGathering the might of Geo, Ningguang plunges towards the ground from mid-air, damaging all opponents in her path. Deals <color=#FFE699FF>AoE Geo DMG</color> upon impact with the ground.",
+      "de": "<color=#FFD780FF>Standardangriff</color>\nVerschießt Edelsteine, die <color=#FFE699FF>Geo-Schaden</color> verursachen.\nGibt Ningguang bei Treffern eine Sternjade.\n\n<color=#FFD780FF>Heftiger Schlag</color>\nVerbraucht Ausdauer und wirft einen gewaltigen Edelstein, der <color=#FFE699FF>Geo-Schaden</color> verursacht.\nVerschießt während eines heftigen Schlags bei Vorhandensein von Sternjade die gesamte Sternjade und verursacht zusätzlichen Schaden.\n\n<color=#FFD780FF>Angriff aus dem Fall</color>\nKonzentriert die Kraft des Gesteins, schlägt beim Fallen aus der Luft auf den Boden, greift alle Gegner in der Bahn an und verursacht beim Aufkommen <color=#FFE699FF>Geo-Flächenschaden</color>.",
+      "es": "<color=#FFD780FF>Ataque Normal </color>\nDispara gemas que infligen <color=#FFE699FF>Daño Geo</color>.\nAl golpear, esto le otorga a Ninguang un jade estelar.\n\n<color=#FFD780FF>Ataque Cargado</color>\nConsume una cierta cantidad de Aguante para disparar una gema gigante que inflige <color=#FFE699FF>Daño Geo</color>.\nSi Ninguang tiene algún jade estelar, lanzar un Ataque Cargado también disparará el jade estelar contra el enemigo, infligiendo daño adicional.\n\n<color=#FFD780FF>Ataque Descendente</color>\nAl acumular poder Geo, Ninguang se lanza desde el aire para golpear el suelo, dañando a los enemigos cercanos e infligiendo <color=#FFE699FF>Daño Geo en el AdE</color> en el momento del impacto.",
+      "fr": "<color=#FFD780FF>Attaque normale</color>\nTire des gemmes qui infligent des <color=#FFE699FF>DGT Géo</color>.\nNingguang obtient un Jade d'étoile à chaque fois qu'une gemme touche un ennemi.\n\n<color=#FFD780FF>Attaque chargée</color>\nTire une gemme géante qui inflige des <color=#FFE699FF>DGT Géo</color>.\nSi Ningguang a obtenu des Jades d'étoile, l'attaque chargée les tire tous au même moment, infligeant des DGT supplémentaires.\n\n<color=#FFD780FF>Attaque plongeante</color>\nPlonge depuis les airs en concentrant ses pouvoirs Géo, infligeant des DGT aux ennemis en chemin et des <color=#FFE699FF>DGT Géo de zone</color> à l'impact.",
+      "pt": "<color=#FFD780FF>Ataque Normal</color>\nDispara gemas que causam <color=#FFE699FF>Dano Geo</color>.\nAo acertar, concede a Ningguang 1 Jade de Estrela.\n\n<color=#FFD780FF>Ataque Carregado</color>\nConsome uma certa quantidade de Stamina para disparar uma gema gigante que causa <color=#FFE699FF>Dano Geo</color>.\nSe Ningguang possui Jades Estelares, ao liberar um Ataque Carregado fará com que os Jades Estelares sejam disparados contra um inimigo também, causando Dano adicional.\n\n<color=#FFD780FF>Ataque Imersivo</color>\nReunindo o poder de Geo, Ningguang mergulha em direção ao solo no ar, causando Dano a todos os inimigos em seu caminho. Causa <color=#FFE699FF>Dano Geo AdE</color> com o impacto no solo.",
+      "ru": "<color=#FFD780FF>Обычная атака:</color>\nЗапускает в цель самоцветы, которые наносят <color=#FFE699FF>Гео урон</color>.\nПри попадании самоцветом даёт Нин Гуан один Звёздный нефрит.\n\n<color=#FFD780FF>Заряженная атака:</color>\nВыстреливает гигантским самоцветом, наносящим <color=#FFE699FF>Гео урон</color>, на который тратится определённое количество выносливости.\nЕсли Нин Гуан имеет Звёздный нефрит, то при выполнении заряженной атаки также выстреливает и им, нанося дополнительный урон.\n\n<color=#FFD780FF>Атака в падении:</color>\nНакопив энергию камня, стремительно падает на землю, атакуя всех врагов на пути. Приземлившись, наносит <color=#FFE699FF>Гео урон по площади</color>.",
+      "id": "<color=#FFD780FF>Normal Attack</color>\nMenembakkan batu mutiara yang mengakibatkan <color=#FFE699FF>Geo DMG</color>.\nSaat mengenai musuh, Ningguang mendapatkan 1 Star Jade.\n\n<color=#FFD780FF>Charged Attack</color>\nMengonsumsi sejumlah Stamina untuk menembakkan batu mutiara raksasa yang mengakibatkan <color=#FFE699FF>Geo DMG</color>.\nJika Ningguang memiliki Star Jade, melancarkan Charged Attack juga akan menembakkan Star Jade ke musuh untuk mengakibatkan DMG tambahan.\n\n<color=#FFD780FF>Plunging Attack</color>\nMengumpulkan kekuatan Geo dan menerjang tanah, mengakibatkan DMG pada musuh di jalur terjangan dan mengakibatkan <color=#FFE699FF>Geo DMG area</color> saat mendarat.",
+      "th": "<color=#FFD780FF>โจมตีปกติ</color>\nยิงอัญมณีออกมาเพื่อสร้าง <color=#FFE699FF>ความเสียหายหิน</color>\nเมื่อถูกเป้าหมายจะเป็นการมอบ Star Jade ให้แก่ Ningguang 1 ลูก\n\n<color=#FFD780FF>ชาร์จโจมตี</color>\nใช้พลังกายเพื่อยิงหินขนาดใหญ่ออกไป หนึ่งก้อนเพื่อสร้าง<color=#FFE699FF>ความเสียหายหิน</color>\nหาก Ningguang ครอบครอง Star Jade อยู่ เมื่อใช้ชาร์จโจมตีจะทำการปล่อย Star Jade ทั้งหมดที่มีอยู่ออกไปในทีเดียว เกิดเป็นความเสียหายเพิ่มเติม\n\n<color=#FFD780FF>โจมตีพุ่งลงจากอากาศ</color>\nรวบรวมพลังแห่งหินและกระโจนจาก กลางอากาศลงมายังพื้นดิน เพื่อโจมตีศัตรูที่อยู่ในเส้นทางการโจมตี โดยจะเกิดเป็น<color=#FFE699FF>ความเสียหายหินวงกว้าง</color> เมื่อลงถึงพื้น",
+      "vi": "<color=#FFD780FF>Tấn Công Thường</color>\nBắn ra bảo thạch, gây <color=#FFE699FF>Sát Thương Nguyên Tố Nham</color>.\nKhi trúng, ban cho Ningguang 1 Tinh Thạch.\n\n<color=#FFD780FF>Trọng Kích</color>\nTiêu hao thể lực, phóng ra 1 viên bảo thạch khổng lồ, gây <color=#FFE699FF>Sát Thương Nguyên Tố Nham</color>.\nNếu Ningguang có Tinh Thạch, khi thi triển Trọng Kích sẽ phóng ra tất cả Tinh Thạch cùng một lúc, gây thêm sát thương.\n\n<color=#FFD780FF>Tấn Công Khi Đáp</color>\nNgưng tụ sức mạnh nham thạch, tấn công từ trên không xuống đất, tấn công kẻ địch trên đường, gây <color=#FFE699FF>sát thương phạm vi Nguyên Tố Nham</color> khi chạm đất."
+    },
+    "imgid": "s_273101"
+  },
+  {
+    "title": {
+      "zhs": "璇玑屏",
+      "zht": "璇璣屏",
+      "jp": "璇璣屏",
+      "ko": "선기 병풍",
+      "en": "Jade Screen",
+      "de": "Jadeschirm",
+      "es": "Pantalla de jade",
+      "fr": "Paravent d'astrolabe",
+      "pt": "Tela de Jade",
+      "ru": "Нефритовая ширма",
+      "id": "Jade Screen",
+      "th": "Jade Screen",
+      "vi": "Vách Toàn Cơ"
+    },
+    "description": {
+      "zhs": "借由黄金、黑曜岩与强者的余裕，构建出坚固的璇玑屏，并造成<color=#FFE699FF>岩元素范围伤害</color>。\n\n<color=#FFD780FF>璇玑屏</color>\n·阻挡敌人发射的投射物；\n·耐久度按比例继承凝光的生命值上限。\n\n璇玑屏被视为<color=#FFE699FF>岩元素创造物</color>，可以阻挡部分攻击，不可攀爬。同时只能存在一个。\n\n<i>星罗棋布，璇玑合屏。</i>",
+      "zht": "借由黃金、黑曜岩與強者的餘裕，構建出堅固的璇璣屏，並造成<color=#FFE699FF>岩元素範圍傷害</color>。\n\n<color=#FFD780FF>璇璣屏</color>\n·阻擋敵人發射的投射物；\n·耐久度按比例繼承凝光的生命值上限。\n\n璇璣屏被視為<color=#FFE699FF>岩元素創造物</color>，可以阻擋部分攻擊，不可攀爬。同時只能存在一個。\n\n<i>星羅棋佈，璇璣合屏。</i>",
+      "jp": "黄金、黒曜岩、強者の余裕で璇璣屏を作り、<color=#FFE699FF>岩元素範囲ダメージ</color>を与える。\n\n<color=#FFD780FF>璇璣屏</color>\n·敵の投擲攻撃を防御する。\n·耐久度は凝光のHP上限によって決まる。\n\n璇璣屏は<color=#FFE699FF>岩元素創造物</color>と見なされ、一部の攻撃を防ぐことができるが、璇璣屏に登ることはできない。同時に最大1つまで存在可能。\n\n<i>星羅棋布、璇璣合屏。</i>",
+      "ko": "황금, 흑요암과 강자의 여유로 단단한 선기 병풍을 만들어내 <color=#FFE699FF>바위 원소 범위 피해</color>를 준다.\n\n<color=#FFD780FF>선기 병풍</color>\n·적이 발사하는 모든 투사체를 막아낸다.\n·선기 병풍은 응광의 HP 최대치를 일정 비율 계승한다.\n\n선기 병풍은 <color=#FFE699FF>바위 원소 창조물</color>로 간주되며 일부 공격을 막을 수 있고 등반할 수 없다. 선기 병풍은 동시에 1개만 존재할 수 있다.\n\n<i>별이 온 하늘에 총총히 널리고 선기가 합병한다</i>",
+      "en": "Ningguang creates a Jade Screen out of gold, obsidian and her great opulence, dealing <color=#FFE699FF>AoE Geo DMG</color>.\n\n<color=#FFD780FF>Jade Screen</color>\n·Blocks opponents' projectiles.\n·Endurance scales based on Ningguang's Max HP.\n\nJade Screen is considered a <color=#FFE699FF>Geo Construct</color> and can be used to block certain attacks, but cannot be climbed. Only one Jade Screen may exist at any one time.\n\n<i>The canvas of stars is written upon this jade screen.</i>",
+      "de": "Errichtet einen stabilen Jadeschirm aus Gold, Obsidian und dem Willen eines Kämpfers, der <color=#FFE699FF>Geo-Flächenschaden</color> verursacht.\n\n<color=#FFD780FF>Jadeschirm</color>\n· Hält gegnerische Geschosse ab.\n· Beständigkeit hängt von Ninguangs max. LP ab.\n\nDer Jadeschirm gilt als <color=#FFE699FF>Geo-Objekt</color>, hält einen Teil Angriffe ab und kann nicht erklommen werden. Zu einem Zeitpunkt kann nur ein Jadeschirm existieren.\n\n<i>Leuchtend wie die Sterne am Himmel, zusammengesetzt aus wertvoller Jade.</i>",
+      "es": "Ninguang crea una Pantalla de jade, oro y obsidiana de gran opulencia, infligiendo <color=#FFE699FF>Daño Geo en el AdE</color>.\n<color=#FFD780FF>Pantalla de jade</color>\n·Bloquea los proyectiles enemigos.\n·La resistencia de la pantalla es proporcional a la Vida Máx. de Ninguang.\n·La Pantalla de jade se considera una <color=#FFE699FF>creación Geo</color>, y puede ser usada para bloquear ciertos ataques, pero no se puede escalar. Solo puede existir una Pantalla de jade a la vez.\n\n<i>El lienzo de las estrellas está escrito en esta pantalla de jade.</i>",
+      "fr": "Ningguang puise dans son opulence pour créer un paravent d'or et d'obsidienne infligeant des <color=#FFE699FF>DGT Géo de zone</color>.\n\n<color=#FFD780FF>Paravent d'astrolabe</color>\n· Bloque les projectiles ennemis.\n· Les PV du paravent sont proportionnels aux PV max de Ningguang.\n\nLe paravent d'astrolabe est une <color=#FFE699FF>construction Géo</color> qui peut bloquer certaines attaques mais ne peut pas être escaladée. Il ne peut exister qu'un seul paravent à la fois.\n\n<i>Les étoiles sont dispersées dans le ciel nocturne, les pions sont prêts sur l'échiquier divin. Alors, le paravent d'astrolabe commence à s'étendre.</i>",
+      "pt": "Ningguang cria uma Tela de Jade a partir do ouro, obsidiana e sua grande opulência, infligindo <color=#FFE699FF>Dano Geo em uma AdE</color>.\n\n<color=#FFD780FF>Tela de Jade</color>\nBloqueia projéteis inimigos. \nResistência aumenta com base na Vida Máxima de Ningguang.\n\nTela de Jade é considerada uma <color=#FFE699FF>Construção Geo</color> e pode ser usada para bloquear alguns ataques, mas não pode ser escalada. Apenas uma Tela de Jade pode existir ao mesmo tempo.\n\n<i>A tela das estrelas está escrita sobre essa Tela de Jade.</i>",
+      "ru": "Нин Гуан создаёт роскошную Нефритовую ширму из обсидиана и золота, нанося при этом <color=#FFE699FF>Гео урон</color> по площади.\n\n<color=#FFD780FF>Нефритовая ширма:</color>\n· Блокирует вражеские снаряды;\n· Прочность зависит от макс. HP Нин Гуан;\n\nСчитается <color=#FFE699FF>Гео конструкцией</color>. Ширмой можно воспользоваться для защиты от вражеских атак, но на неё нельзя взобраться. Одновременно может существовать не больше одной Нефритовой ширмы.\n\n<i>Хоть звёзды и светят ярко, но загадки ночного неба так и останутся неразгаданными.</i>",
+      "id": "Ningguang membentuk sebuah perisai Geo yang terbuat dari emas, obsidian, dan kekayaannya untuk mengakibatkan <color=#FFE699FF>Geo DMG area</color>.\n\n<color=#FFD780FF>Jade Screen</color>\n·Menghalangi proyektil musuh.\n·HP Jade Screen mewarisi Max HP Ningguang berdasarkan persentase tertentu.\n\nJade Screen dianggap sebagai sebuah <color=#FFE699FF>Geo Construct</color> dan dapat digunakan untuk menghalang beberapa jenis serangan, tapi tidak dapat dipanjat. Ningguang hanya dapat memiliki satu Jade Screen di satu waktu.\n\n<i>Kanvas bintang-bintang terukir di atas layar giok ini.</i>",
+      "th": "Ningguang อาศัยทองคำ, หินภูเขาไฟ และความแข็งแกร่งอันล้นเหลือของเธอ สร้าง Jade Screen ขึ้นมา และสร้าง<color=#FFE699FF>ความเสียหายหินวงกว้าง</color>\n\n<color=#FFD780FF>Jade Screen</color>\n·กันสิ่งของที่ศัตรูโยนเข้ามาใส่;\n·อัตราส่วนความทนทานจะขึ้นกับ พลังชีวิตสูงสุดของ Ningguang\n\nJade Screen จะถูกถือว่าเป็น<color=#FFE699FF>วัตถุธาตุหิน</color> โดยจะสามารถกันการโจมตีได้ส่วนหนึ่ง และไม่สามารถปีนได้ ซึ่งในช่วงเวลาเดียวกันจะสามารถ มีได้เพียงหนึ่งอัน\n\n<i>กระจายไปทุกหนแห่งเฉกเช่นดวงดาวบนท้องฟ้า แล้วรวมตัวเป็นหมู่ดาว</i>",
+      "vi": "Dùng vàng và đá đen thừa chế tạo Vách Toàn Cơ kiên cố, và gây <color=#FFE699FF>Sát Thương Phạm Vi Nguyên Tố Nham</color>.\n\n<color=#FFD780FF>Vách Toàn Cơ</color>\n·Cản các vật địch ném ra;\n·Độ bền được kế thừa theo tỷ lệ giới hạn HP của Ningguang.\n\nVách Toàn Cơ được xem là <color=#FFE699FF>vật tạo ra Nguyên Tố Nham</color>, có thể ngăn chặn một phần tấn công, không thể leo trèo. Đồng thời chỉ có thể tồn tại 1 cái.\n\n<i>Những vì sao lấp lánh hợp thành Vách Toàn Cơ.</i>"
+    },
+    "imgid": "s_273201"
+  },
+  {
+    "title": {
+      "zhs": "天权崩玉",
+      "zht": "天權崩玉",
+      "jp": "天権崩玉",
+      "ko": "천권 붕옥",
+      "en": "Starshatter",
+      "de": "Sternensplitter",
+      "es": "Devastaestrellas",
+      "fr": "Éclatement des étoiles",
+      "pt": "Quebrador de Estrelas",
+      "ru": "Осколки звёзд",
+      "id": "Starshatter",
+      "th": "Starshatter",
+      "vi": "Thiên Quyền Băng Ngọc"
+    },
+    "description": {
+      "zhs": "凝光在身边凝聚诸多宝石，散之一瞬，自动索敌打击附近的敌人，造成大量<color=#FFE699FF>岩元素伤害</color>。\n施放天权崩玉时，如果附近有璇玑屏存在，璇玑屏将发射额外的宝石飞弹协同攻击。\n\n<i>星散玉崩，尽灭群丑。</i>",
+      "zht": "凝光在身邊凝聚諸多寶石，散之一瞬，自動索敵打擊附近的敵人，造成大量<color=#FFE699FF>岩元素傷害</color>。\n施放天權崩玉時，如果附近有璇璣屏存在，璇璣屏將發射額外的寶石飛彈協同攻擊。\n\n<i>星散玉崩，盡滅群醜。</i>",
+      "jp": "自身の周りに宝石を凝聚させ、それらを一気に放つ。自動索敵する宝石は周りの敵を攻撃し、大量の<color=#FFE699FF>岩元素ダメージ</color>を与える。\n周りに璇璣屏が存在する時に天権崩玉を発動すると、璇璣屏から追加で宝石が放たれ、敵を攻撃する。\n\n<i>星が散り、敵を滅ぼす。</i>",
+      "ko": "응광은 자신의 주변에 수많은 보석을 모았다가 순식간에 분산시켜 주변의 적을 추적해 대량의 <color=#FFE699FF>바위 원소 피해</color>를 준다.\n근처에 선기 병풍이 존재할 때 천권 붕옥을 발동하면 선기 병풍이 추가로 보석을 발사해 함께 공격한다.\n\n<i>별이 흩어지고 옥이 무너지면 악이 소멸할 것이다</i>",
+      "en": "Gathering a great number of gems, Ningguang scatters them all at once, sending homing projectiles at her opponents that deal massive <color=#FFE699FF>Geo DMG</color>.\nIf Starshatter is cast when a Jade Screen is nearby, the Jade Screen will fire additional gem projectiles at the same time.\n\n<i>Stars shatter. Silence falls.</i>",
+      "de": "Ningguang sammelt unzählige Edelsteine, die auf einen Schlag auf Gegner in der Umgebung zufliegen und hohen <color=#FFE699FF>Geo-Schaden</color> verursachen.\nLässt einen eventuell anwesenden Jadeschirm in der Nähe bei Anwendung von Sternensplitter zusätzlich viele kleine Edelsteine abschießen.\n\n<i>Die Sterne zerbrechen in Tausende Teile.</i>",
+      "es": "Ninguang reúne gemas a su alrededor y las destruye a la vez, repartiéndolas entre todos los enemigos cercanos e infligiendo <color=#FFE699FF>Daño Geo</color> masivo.\nSi Devastaestrellas se lanza cuando una Pantalla de jade está cerca, la Pantalla de jade disparará proyectiles de gemas adicionales al mismo tiempo.\n\n<i>Las estrellas caen. El silencio desciende.</i>",
+      "fr": "Ningguang fait tournoyer plusieurs jades précieux à tête chercheuse autour d'elle, qu'elle relâche tous en même temps, infligeant ainsi d'importants <color=#FFE699FF>DGT Géo</color>.\nSi le paravent d'astrolabe est actif lorsque cette attaque est exécutée, il l'accompagne de tirs de jade supplémentaires.\n\n<i>Éparses sont les ténèbres quand les étoiles sont éclatées.</i>",
+      "pt": "Recolhendo um grande número de gemas, Ningguang espalha todas de uma vez, enviando projéteis perseguidores em seus inimigos que causam <color=#FFE699FF>Dano Geo</color> massivo.\nSe o Quebrador de Estrelas é lançado enquanto a Tela de Jade está próxima, a Tela de Jade irá disparar projéteis de gemas perseguidoras adicionais ao mesmo tempo.\n\n<i>Estrelas quebram. O silêncio recai.</i>",
+      "ru": "Собрав большое количество самоцветов, Нин Гуан запускает их во врагов, нанося огромный <color=#FFE699FF>Гео урон</color>. Самоцветы сами находят свою цель.\nЕсли поблизости находится Нефритовая ширма, то она также запускает дополнительные самоцветы.\n\n<i>Звёзды гаснут. Наступает тишина.</i>",
+      "id": "Ningguang mengumpulkan batu mutiara di sekeliling dirinya dan menyebarkan semuanya sekaligus untuk dilontarkan ke musuh, mengakibatkan <color=#FFE699FF>Geo DMG</color> yang besar.\nJika Starshatter digunakan saat Jade Screen berada di dekatnya, Jade Screen juga akan menembakkan tambahan batu mutiara pada saat bersamaan.\n\n<i>Bintang-bintang terpecah, namun keheningan tidak terpecahkan.</i>",
+      "th": "Ningguang จะรวบรวมอัญมณีจำนวนมากจากรอบตัวขึ้นมา เพื่อปล่อยออกไปในทีเดียว ซึ่งจะพุ่งเข้าหาศัตรูโดยอัตโนมัติ เพื่อสร้าง<color=#FFE699FF>ความเสียหายหิน</color>อย่างรุนแรง\nในตอนที่ใช้ Starshatter หากบริเวณใกล้เคียงมี Jade Screen อยู่ Jade Screen จะปล่อยอัญมณี ออกมาโจมตีเพิ่มเติมพร้อมกัน\n\n<i>ดวงดาวแตกกระจายและร่วงหล่นอย่างเงียบ ๆ</i>",
+      "vi": "Ningguang ngưng tụ rất nhiều bảo thạch bên cạnh, rồi phát tán trong chớp mắt, tự tìm và tấn công địch xung quanh, gây lượng lớn <color=#FFE699FF>Sát Thương Nguyên Tố Nham</color>.\nKhi phóng Thiên Quyền Băng Ngọc, nếu xung quanh có Vách Toàn Cơ, Vách Toàn Cơ sẽ phóng thêm bảo thạch cùng tấn công.\n\n<i>Sao tản ngọc vỡ, phá hủy xấu xa.</i>"
+    },
+    "imgid": "s_273901"
+  },
+  {
+    "title": {
+      "zhs": "星移势转",
+      "zht": "星移勢轉",
+      "jp": "物換星移",
+      "ko": "전세역전",
+      "en": "Backup Plan",
+      "de": "Ausweichplan",
+      "es": "Plan B",
+      "fr": "Plan de reprise",
+      "pt": "Plano B",
+      "ru": "Запасной план",
+      "id": "Backup Plan",
+      "th": "Backup Plan",
+      "vi": "Vật Đổi Sao Dời"
+    },
+    "description": {
+      "zhs": "拥有星璇时，凝光的重击不会消耗体力。",
+      "zht": "擁有星璇時，凝光的重擊不會消耗體力。",
+      "jp": "星璇がついている間、凝光の重撃はスタミナを消費しない。",
+      "ko": "별을 보유할 시 응광의 강공격은 스태미나를 소모하지 않는다",
+      "en": "When Ningguang is in possession of Star Jades, her Charged Attack does not consume Stamina.",
+      "de": "Ningguang verbraucht bei Vorhandensein von Sternjade für die Anwendung heftiger Schläge keine Ausdauer.",
+      "es": "Cuando está en posesión de jades estelares, el Ataque Cargado de Ninguang no consume Aguante.",
+      "fr": "L'attaque chargée de Ningguang ne consomme pas d'endurance tant que celle-ci possède des Jades d'étoile.",
+      "pt": "Quando Ningguang estiver em posse das Jades Estelares, seu Ataque Carregado não consome Stamina.",
+      "ru": "При наличии у Нин Гуан Звёздного нефрита, её заряженная атака не потребляет выносливость.",
+      "id": "Charged Attack Ningguang tidak mengonsumsi Stamina saat Ningguang memiliki Star Jade.",
+      "th": "เมื่อมี Star Jade Ningguang จะชาร์จโจมตีโดยไม่ใช้พลังกาย",
+      "vi": "Khi có Tinh Thạch, trọng kích của Ningguang sẽ không tiêu hao thể lực."
+    },
+    "imgid": "p_272101"
+  },
+  {
+    "title": {
+      "zhs": "储之千日，用之一刻",
+      "zht": "儲之千日，用之一刻",
+      "jp": "備えあれば憂いなし",
+      "ko": "사전 준비",
+      "en": "Strategic Reserve",
+      "de": "Rücklagen für alle Fälle",
+      "es": "Reserva estratégica",
+      "fr": "Réserve stratégique",
+      "pt": "Reserva Estratégica",
+      "ru": "Стратегические запасы",
+      "id": "Strategic Reserve",
+      "th": "Strategic Reserve",
+      "vi": "Kiếm Củi Ba Năm Thiêu Một Giờ"
+    },
+    "description": {
+      "zhs": "穿过<color=#FFD780FF>璇玑屏</color>的角色会获得12%<color=#FFE699FF>岩元素伤害加成</color>，持续10秒。",
+      "zht": "穿過<color=#FFD780FF>璇璣屏</color>的角色會獲得12%<color=#FFE699FF>岩元素傷害加成</color>，持續10秒。",
+      "jp": "<color=#FFD780FF>璇璣屏</color>を突き抜けたキャラクターの<color=#FFE699FF>岩元素ダメージ</color>+12%、継続時間10秒。",
+      "ko": "<color=#FFD780FF>선기 병풍</color>을 통과하는 캐릭터는 <color=#FFE699FF>바위 원소 피해 보너스</color>를 12% 획득한다. 지속 시간: 10초",
+      "en": "A character that passes through the <color=#FFD780FF>Jade Screen</color> will gain a 12% <color=#FFE699FF>Geo DMG Bonus</color> for 10s.",
+      "de": "Erhöht den <color=#FFE699FF>Geo-Schaden</color> von Figuren, die den <color=#FFD780FF>Jadeschirm</color> durchdringen, 10 s lang um 12 %.",
+      "es": "Los personajes que pasen a través de la <color=#FFD780FF>Pantalla de jade</color> obtienen un 12% de <color=#FFE699FF>Bono de Daño Geo</color> durante 10 s.",
+      "fr": "Confère pendant 10 s un <color=#FFE699FF>bonus de DGT Géo</color> de 12 % aux personnages qui traversent le <color=#FFD780FF>Paravent d'astrolabe</color>.",
+      "pt": "Um personagem que passa pela <color=#FFD780FF>Tela de Jade</color> ganhará 12% de <color=#FFE699FF> Bônus de Dano GEO</color> por 10s.",
+      "ru": "Увеличивает <color=#FFE699FF>бонус Гео урона</color> прошедших сквозь <color=#FFD780FF>Нефритовую ширму</color> персонажей на 12% в течение 10 сек.",
+      "id": "Karakter yang melewati <color=#FFD780FF>Jade Screen</color> akan mendapatkan 12% <color=#FFE699FF>Geo DMG Bonus</color> selama 10 detik.",
+      "th": "ตัวละครที่ผ่าน <color=#FFD780FF>Jade Screen</color> จะได้รับ <color=#FFE699FF>โบนัสความเสียหายหิน</color> เพิ่ม 12% และมีเวลาต่อเนื่อง 10 วินาที",
+      "vi": "Nhân vật xuyên qua <color=#FFD780FF>Vách Toàn Cơ</color> sẽ nhận được 12% <color=#FFE699FF>buff sát thương Nguyên Tố Nham</color>, kéo dài 10s."
+    },
+    "imgid": "p_272201"
+  },
+  {
+    "title": {
+      "zhs": "奇石珠宝录",
+      "zht": "奇石珠寶錄",
+      "jp": "奇石宝物録",
+      "ko": "기석 보물록",
+      "en": "Trove of Marvelous Treasures",
+      "de": "Edelsteinhort",
+      "es": "Registro de tesoros maravillosos",
+      "fr": "Corne d'abondance",
+      "pt": "Registro dos Tesouros Maravilhosos",
+      "ru": "Рог изобилия",
+      "id": "Trove of Marvelous Treasures",
+      "th": "Trove of Marvelous Treasures",
+      "vi": "Bộ Sưu Tập Đá Quý"
+    },
+    "description": {
+      "zhs": "在小地图上显示周围能产出<color=#FFD780FF>锻造用矿石的矿脉</color>位置。",
+      "zht": "在小地圖上顯示周圍能產出<color=#FFD780FF>鍛造用礦石的礦脈</color>位置。",
+      "jp": "ミニマップで周囲の<color=#FFD780FF>鍛造に使われる鉱石の鉱脈</color>の位置を表示する。",
+      "ko": "미니맵에 주위의 <color=#FFD780FF>단조용 광석의 광맥</color> 위치가 나타난다",
+      "en": "Displays the location of nearby <color=#FFD780FF>ore veins used in forging</color> on the mini-map.",
+      "de": "Zeigt alle <color=#FFD780FF>Erzadern mit zum Schmieden geeignetem Erz</color> in der Nähe auf der Minikarte an.",
+      "es": "Muestra la ubicación de los <color=#FFD780FF>minerales utilizados para forjar</color> cercanos en el minimapa.",
+      "fr": "Affiche la localisation des <color=#FFD780FF>filons de minerai utilisables en forge</color> proches sur la carte.",
+      "pt": "Mostra a localização de <color=#FFD780FF>veias de minério utilizadas na forja</color> no mapa.",
+      "ru": "Отмечает на мини-карте ближайшую <color=#FFD780FF>используемую для ковки руду</color>.",
+      "id": "Memperlihatkan lokasi <color=#FFD780FF>tambang ore untuk Forge</color> di peta kecil.",
+      "th": "แสดงตำแหน่ง <color=#FFD780FF>สายแร่ของแร่ที่ใช้ในการหลอม</color> ที่อยู่รอบ ๆ ในมินิแมป",
+      "vi": "Hiển thị vị trí <color=#FFD780FF>mạch khoáng có thể sản xuất Quặng Đúc</color> trên bản đồ nhỏ."
+    },
+    "imgid": "p_272301"
+  }
+]
