@@ -73,9 +73,15 @@
 }
 
 .page-nav {
-    display: grid;
+    /*display: grid;
     grid-template-columns: 1fr 1fr;
-    grid-gap: 20px;
+    grid-gap: 20px;*/
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+    & > * { margin: 0 10px; flex-basis: auto;}
 
     a:hover { opacity: initial; }
 
@@ -84,7 +90,7 @@
         font-size: 24px;
         line-height: 149.5%;
         
-        padding: 0.2em 0;
+        padding: 0.2em 1em;
         margin: 0.4em 0;
         box-sizing: border-box;
         cursor: pointer;
