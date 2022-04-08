@@ -30,10 +30,10 @@ export default function CharacterListPage() {
 
   return (
     <div>
-      <header class="character-list-header">
+      <header className="character-list-header">
         <h1>Characters</h1>
         <input 
-          class="chara-search-bar" 
+          className="chara-search-bar" 
           placeholder="Search..." onChange={ searchName } 
         />
       </header>

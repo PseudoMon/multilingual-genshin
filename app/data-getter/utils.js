@@ -25,3 +25,11 @@ export async function getJsonFile(filepath) {
 
   return file
 }
+
+export async function getMiscText() {
+  const file = await getJsonFile(
+    path.join(dataPath, "misc.json")
+  )
+
+  return JSON.parse(file)
+}

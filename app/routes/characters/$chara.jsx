@@ -3,6 +3,7 @@ import { useState } from 'react'
 import LangPicker from '~/components/lang-picker'
 import charaPageStyles from '~/styles/charapage.css'
 import { getCharaGeneralData } from '~/data-getter/get-chara' 
+import { getMiscText } from '~/data-getter/utils'
 
 export function links() {
   return [{ rel: "stylesheet", href: charaPageStyles }]
@@ -11,11 +12,12 @@ export function links() {
 export async function loader({ params }) {
   const charaId = params.chara
   let charaData = await getCharaGeneralData(charaId)
-  return { charaId, charaData }
+  let miscText = await getMiscText() 
+  return { charaId, charaData, miscText }
 }
 
 export default function CharacterPage() {
-  const { charaId, charaData } = useLoaderData()
+  const { charaId, charaData, miscText } = useLoaderData()
   const [activeLang, setLang] = useState("en") 
 
   return (
@@ -37,13 +39,13 @@ export default function CharacterPage() {
 
          <div className="page-nav">
           <NavLink to="voices">
-            <button className="page-button">Voice Overs</button>
+            <button className="page-button">{ miscText["voices"][activeLang] }</button>
           </NavLink>
           <NavLink to="stories">
-            <button className="page-button">Story</button>
+            <button className="page-button">{ miscText["story"][activeLang] }</button>
           </NavLink>
           <NavLink to="talents">
-            <button className="page-button">Talents</button>
+            <button className="page-button">{ miscText["talents"][activeLang] }</button>
           </NavLink>
         </div>
       </section>
