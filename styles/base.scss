@@ -46,7 +46,7 @@ main {
 }
 
 a {
-    color:  var(--color-accent);
+    color:  var(--color-accentdark);
     text-decoration:  none;
 }
 
@@ -331,4 +331,9 @@ h2 {
             border-bottom: solid 4px var(--color-accent);
         }
     }
+}
+
+.error-page {
+    text-align: center;
+    margin-top: 50px;
 }
