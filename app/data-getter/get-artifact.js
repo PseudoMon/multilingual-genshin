@@ -10,18 +10,6 @@ export async function getAllArtifactSets() {
   )
 
   let setsData = JSON.parse(file)
-
-  // Check if an image with the id exists, otherwise, change it to default
-  let allArtifactImages = await fs.readdir(path.join(publicPath, "images", "artifacts"))
-  // Strip of extension
-  allArtifactImages = allArtifactImages.map(filename => filename.split(".")[0])
-
-  for (set of setsData) {
-    if (!allArtifactImages.includes(set['imgid'])) {
-      set['imgid'] = 'default'
-    }
-  }  
-
   
   return setsData
 }
@@ -32,17 +20,6 @@ export async function getArtifactSetData(setId) {
   )
 
   let setData = JSON.parse(file)
-
-  // Check if an image with the id exists, otherwise, change it to default
-  let allArtifactImages = await fs.readdir(path.join(publicPath, "images", "artifacts"))
-  // Strip of extension
-  allArtifactImages = allArtifactImages.map(filename => filename.split(".")[0])
-
-  for (piece of setData["pieces"]) {
-    if (!allArtifactImages.includes(piece["imgid"])) {
-      piece["imgid"] = "default"
-    }
-  }
 
   return setData
 }
