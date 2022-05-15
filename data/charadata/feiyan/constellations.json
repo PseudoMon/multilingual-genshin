@@ -1,0 +1,200 @@
+[
+  {
+    "title": {
+      "zhs": "占理不饶人",
+      "zht": "佔理不饒人",
+      "jp": "法からは逃れられない",
+      "ko": "법의 심판자",
+      "en": "The Law Knows No Kindness",
+      "de": "Rechthaberei",
+      "es": "Insisto, Señoría",
+      "fr": "Plaidoyer convaincant",
+      "pt": "A Lei Não Perdoa",
+      "ru": "Закон суров",
+      "id": "The Law Knows No Kindness",
+      "th": "The Law Knows No Kindness",
+      "vi": "Được Nước Làm Tới"
+    },
+    "description": {
+      "zhs": "烟绯进行重击时，每持有一枚丹火印，都会提高烟绯在咏唱期间的抗打断能力，并额外降低本次重击10%的体力消耗。",
+      "zht": "煙緋進行重擊時，每持有一枚丹火印，都會提高煙緋在詠唱期間的抗打斷能力，並額外降低本次重擊10%的體力消耗。",
+      "jp": "煙緋が丹火の印を1枚所持するごとに、重撃を詠唱している間の中断耐性がアップ、さらに重撃のスタミナ消費-10%。",
+      "ko": "연비가 강공격 시 단화인을 1개 보유할 때마다 영창 기간 동안 연비의 경직 저항력이 상승하고, 이번 강공격의 스태미나 소모가 추가로 10% 감소한다",
+      "en": "When Yanfei uses her Charged Attack, each existing Scarlet Seal additionally reduces the stamina cost of this Charged Attack by 10% and increases resistance against interruption during its release.",
+      "de": "Erhöht mit jedem flammenden Siegel Yanfeis Unterbrechungs-WDS beim Aufladen, wenn sie einen heftigen Schlag ausführt, und verringert den Ausdauerverbrauch bei dem heftigen Schlag.",
+      "es": "La RES a interrupción de Yanfei mientras canaliza un Ataque Cargado aumenta por cada sello escarlata que posea. Además, el Coste de Aguante de dicho Ataque Cargado se reduce en un 10% adicional por cada sello.",
+      "fr": "Lorsque Yanfei utilise une attaque chargée, chaque sceau écarlate existant réduit sa consommation d'endurance de 10 % supplémentaires et augmente la RÉS à l'interruption lors de son déclenchement.",
+      "pt": "Quando Yanfei realiza um Ataque Carregado, cada Insígnia de Chamas que ela possuir aumenta sua Resistência Contra Interrupção enquanto ataca, e também reduz o consumo de Stamina desse Ataque Carregado em 10%.",
+      "ru": "При проведении заряженной атаки каждая Багровая печать увеличивает сопротивление прерыванию во время чтения заклинания и снижает потребление выносливости этой заряженной атаки на 10%.",
+      "id": "Saat Yanfei menggunakan Charged Attack, setiap Scarlet Seal yang terkumpul akan mengurangi 10% konsumsi stamina Charged Attack dan meningkatkan ketahanan terhadap interupsi selama Charged Attack berlangsung.",
+      "th": "ขณะที่ Yanfei ชาร์จโจมตีแล้วมี Scarlet Seal ทุก ๆ หนึ่งอัน จะเพิ่มความต้านทานการหยุดชะงักระหว่างที่ Yanfei ร่าย และลดการใช้พลังกายของการชาร์จโจมตีครั้งนี้ลง 10%",
+      "vi": "Khi Yanfei thực hiện trọng kích, mỗi khi sở hữu 1 Đan Hỏa Ấn sẽ tăng khả năng kháng gián đoạn trong thời gian tụ lực, đồng thời giảm thêm thể lực tiêu hao bằng với 10% Trọng Kích của lần này."
+    },
+    "imgid": "constellation_1"
+  },
+  {
+    "title": {
+      "zhs": "最终解释权",
+      "zht": "最終解釋權",
+      "jp": "最終解釈権",
+      "ko": "최종 해석권",
+      "en": "Right of Final Interpretation",
+      "de": "Endgültige Auslegung vorbehalten",
+      "es": "Derecho de interpretación final",
+      "fr": "Verdict final",
+      "pt": "Direito de Interpretação Final",
+      "ru": "Право толкования",
+      "id": "Right of Final Interpretation",
+      "th": "Right of Final Interpretation",
+      "vi": "Quyền Giải Thích Cuối Cùng"
+    },
+    "description": {
+      "zhs": "烟绯的重击对于生命值低于50%的敌人，暴击率提高20%。",
+      "zht": "煙緋的重擊對於生命值低於50%的敵人，暴擊率提高20%。",
+      "jp": "煙緋の重撃がHP50%未満の敵に対して、会心率+20%。",
+      "ko": "연비가 강공격으로 HP 50% 미만의 적을 공격 시 치명타 확률이 20% 증가한다",
+      "en": "Increases Yanfei's Charged Attack CRIT Rate by 20% against enemies below 50% HP.",
+      "de": "Erhöht die KT bei Yanfeis heftigen Schlägen gegenüber Gegnern mit weniger als 50 % LP um 20 %.",
+      "es": "Aumenta en un 20% la Prob. CRIT del Ataque Cargado de Yanfei contra los enemigos con menos de un 50% de Vida.",
+      "fr": "Le taux CRIT des attaques chargées de Yanfei augmente de 20 % lorsqu'elles touchent des ennemis dont les PV sont inférieurs à 50 %.",
+      "pt": "A Taxa CRIT de Yanfei aumenta em 20% contra inimigos com menos de 50% de Vida.",
+      "ru": "Увеличивает на 20% шанс критического попадания заряженной атаки Янь Фэй против врагов с HP ниже 50%.",
+      "id": "Meningkatkan 20% CRIT Rate Charged Attack Yanfei terhadap musuh dengan HP kurang dari 50%.",
+      "th": "เมื่อ Yanfei ทำการชาร์จโจมตีใส่ศัตรูที่มีพลังชีวิตต่ำกว่า 50% อัตราคริจะเพิ่มขึ้น 20%",
+      "vi": "Khi Yanfei thi triển trọng kích lên kẻ địch có HP dưới 50%, tỷ lệ bạo kích tăng 20%."
+    },
+    "imgid": "constellation_2"
+  },
+  {
+    "title": {
+      "zhs": "真火炼宝印",
+      "zht": "真火煉寶印",
+      "jp": "真火の宝印",
+      "ko": "진리의 화염 인장",
+      "en": "Samadhi Fire-Forged",
+      "de": "Siegel in lodernder Flamme",
+      "es": "Sello pírico del samadhi",
+      "fr": "Mise sous scellés",
+      "pt": "Selado sobre Fogo",
+      "ru": "Печать истины",
+      "id": "Samadhi Fire-Forged",
+      "th": "Samadhi Fire-Forged",
+      "vi": "Chân Hỏa Luyện Bảo Ấn"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>丹书立约</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>丹書立約</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>丹書契約</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>단홍의 계약</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Signed Edict</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Pakt des Feuers</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Trato cerrado</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Pacte des flammes</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o nível da Habilidade <color=#FFD780FF>Édito Assinado</color> em 3.\nO nível máximo é 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Подписанный указ</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Signed Edict</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Signed Edict</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Sắc Lệnh Đã Ký</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_3"
+  },
+  {
+    "title": {
+      "zhs": "丹书金铁券",
+      "zht": "丹書金鐵券",
+      "jp": "丹書金鉄券",
+      "ko": "단서금철권",
+      "en": "Supreme Amnesty",
+      "de": "Eiserner Pakt",
+      "es": "Absolución",
+      "fr": "Droit commun",
+      "pt": "Boa Autoridade",
+      "ru": "Охранная грамота",
+      "id": "Supreme Amnesty",
+      "th": "Supreme Amnesty",
+      "vi": "Đan Thư Kim Thiết Quyển"
+    },
+    "description": {
+      "zhs": "施放<color=#FFD780FF>凭此结契</color>时：\n生成一个伤害吸收量等于生命值上限45%的护盾，持续15秒。\n该护盾对<color=#FF9999FF>火元素伤害</color>有250%的吸收效果。",
+      "zht": "施放<color=#FFD780FF>憑此結契</color>時：\n生成一個傷害吸收量等於生命值上限45%的護盾，持續15秒。\n該護盾對<color=#FF9999FF>火元素傷害</color>有250%的吸收效果。",
+      "jp": "<color=#FFD780FF>契約成立</color>を発動した時、下記の効果を発動する。\nダメージ吸収量がHP上限の45%に相当するシールドを生成する。持続時間15秒。\nこのシールドは<color=#FF9999FF>炎元素ダメージ</color>に対して250%の吸収効果がある。",
+      "ko": "<color=#FFD780FF>계약 성립</color> 발동 시:\nHP 최대치의 45%에 해당하는 피해를 흡수하는 보호막을 생성한다. 지속 시간: 15초.\\이 보호막은 <color=#FF9999FF>불 원소 피해</color>에 대해 250%의 흡수 효과가 있다",
+      "en": "When <color=#FFD780FF>Done Deal</color> is used:\nCreates a shield that absorbs up to 45% of Yanfei's Max HP for 15s.\nThis shield absorbs <color=#FF9999FF>Pyro DMG</color> 250% more effectively.",
+      "de": "Effekte bei Anwendung von <color=#FFD780FF>Pakt des flammenden Infernos</color>:\nErstellt einen Schutzschild, der Schaden in Höhe von 45 % der max. LP abhält, hält 15 s.\nHält bei <color=#FF9999FF>Pyro-Schaden</color> 250 % ab.",
+      "es": "Al utilizar <color=#FFD780FF>Contrato vinculante</color>, se crea un escudo que dura 15 s y que absorbe daño en una cantidad equivalente al 45% de la Vida Máx. de Yanfei.\nEl escudo tiene un 250% de eficiencia de absorción de <color=#FF9999FF>Daño Pyro</color>.",
+      "fr": "<color=#FFD780FF>Application des peines</color> confère les effets suivants :\nGénère un bouclier qui absorbe une quantité de DGT équivalant à 45 % des PV max et dure 15 s.\nLe bouclier est efficace à 250 % contre les <color=#FF9999FF>DGT Pyro</color>.",
+      "pt": "Ao lançar o <color=#FFD780FF>Contrato Vinculativo</color>:\nGera um Escudo que absorve Dano com base em 45% da Vida Máxima, com duração de 15s.\nEsse Escudo tem eficiência de 250% contra <color=#FF9999FF>Dano Pyro</color>.",
+      "ru": "При использовании таланта <color=#FFD780FF>По рукам</color>:\nСоздаёт щит, который в течение 15 сек. поглощает урон, равный 45% от макс. HP Янь Фэй.\n<color=#FF9999FF>Пиро урон</color> поглощается на 250% эффективнее.",
+      "id": "Saat <color=#FFD780FF>Done Deal</color> digunakan:\nMenciptakan perisai yang dapat menahan DMG hingga 45% dari Max HP Yanfei selama 15 detik.\nPerisai ini dapat menahan <color=#FF9999FF>Pyro DMG</color> 250% lebih efektif.",
+      "th": "เมื่อปล่อย <color=#FFD780FF>Done Deal</color>: \nจะสร้างโล่ดูดซับความเสียหาย เท่ากับ 45% ของพลังชีวิต 1 อัน ต่อเนื่อง 15 วินาที\nซึ่งโล่นี้มีเอฟเฟกต์ดูดซับ <color=#FF9999FF>ความเสียหายธาตุไฟ</color> 250%",
+      "vi": "Khi thi triển <color=#FFD780FF>Khế Ước Đã Định</color>:\nHình thành tấm khiên hấp thu sát thương tương đương với 45% giới hạn HP, kéo dài 15s.\nKhiên có hiệu quả hấp thụ 250% <color=#FF9999FF>sát thương Nguyên Tố Hỏa</color>."
+    },
+    "imgid": "constellation_4"
+  },
+  {
+    "title": {
+      "zhs": "遵法切结书",
+      "zht": "遵法切結書",
+      "jp": "遵法誓約書",
+      "ko": "준법 서약서",
+      "en": "Abiding Affidavit",
+      "de": "Eidesstattliche Versicherung",
+      "es": "Declaración jurada",
+      "fr": "Déclaration sous serment",
+      "pt": "Respeitando a Declaração Juramentada",
+      "ru": "Подчинение закону",
+      "id": "Abiding Affidavit",
+      "th": "Abiding Affidavit",
+      "vi": "Tuân Pháp Thiết Kết Thư"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>凭此结契</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>憑此結契</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>契約成立</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>계약 성립</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Done Deal</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Pakt des flammenden Infernos</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Contrato vinculante</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Application des peines</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o nível da Habilidade <color=#FFD780FF>Contrato Vinculativo</color> em 3.\nO nível máximo é 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>По рукам</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Done Deal</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลของสกิล <color=#FFD780FF>Done Deal</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Khế Ước Đã Định</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_5"
+  },
+  {
+    "title": {
+      "zhs": "是额外条款",
+      "zht": "是額外條款",
+      "jp": "追加条項だよ",
+      "ko": "추가 조항",
+      "en": "Extra Clause",
+      "de": "Extraklausel",
+      "es": "Cláusula adicional",
+      "fr": "Clause complémentaire",
+      "pt": "Uma Cláusula Adicional",
+      "ru": "Дополнительный пункт",
+      "id": "Extra Clause",
+      "th": "Extra Clause",
+      "vi": "Điều Khoản Đi Kèm"
+    },
+    "description": {
+      "zhs": "烟绯持有的丹火印最大数量增加一枚。",
+      "zht": "煙緋持有的丹火印最大數量增加一枚。",
+      "jp": "煙緋が所持できる丹火の印の最大枚数+1。",
+      "ko": "연비가 가질 수 있는 단화인의 최대 수량이 1개 증가한다",
+      "en": "Increases the maximum number of Scarlet Seals by 1.",
+      "de": "Erhöht die Höchstmenge an flammenden Siegeln um 1.",
+      "es": "Aumenta en 1 la cantidad máxima de sellos escarlatas que puede llevar Yanfei.",
+      "fr": "Augmente le nombre max de sceaux écarlates de 1.",
+      "pt": "Aumenta a capacidade máxima de Insígnia de Chamas que Yanfei pode ter em 1.",
+      "ru": "Увеличивает максимальное количество Багровых печатей на 1.",
+      "id": "Meningkatkan jumlah maksimum Scarlet Seal sebanyak 1.",
+      "th": "เพิ่มขีดจำกัดของ Scarlet Seal ของ Yanfei ขึ้น 1 อัน",
+      "vi": "Số lượng tối đa của Đan Hỏa Ấn mà Yanfei sở hữu tăng thêm 1."
+    },
+    "imgid": "constellation_6"
+  }
+]

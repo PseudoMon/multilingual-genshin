@@ -1,0 +1,200 @@
+[
+  {
+    "title": {
+      "zhs": "饮露",
+      "zht": "飲露",
+      "jp": "飲露",
+      "ko": "이슬 먹는 신수",
+      "en": "Dew-Drinker",
+      "de": "Geschmack des Taus",
+      "es": "Bebedora de rocío",
+      "fr": "Buveur de rosée",
+      "pt": "Bebedor de Orvalho",
+      "ru": "Жажда росы",
+      "id": "Dew-Drinker",
+      "th": "Dew-Drinker",
+      "vi": "Ẩm Lộ"
+    },
+    "description": {
+      "zhs": "二段蓄力重击的霜华矢或霜华绽发命中敌人时，会使敌人的<color=#99FFFFFF>冰元素抗性</color>降低15%，持续6秒；\n此外，命中时会为甘雨恢复2点元素能量。每次二段蓄力重击只能触发一次元素能量恢复效果，无论霜华矢或霜华绽发是否都命中目标。",
+      "zht": "二段蓄力重擊的霜華矢或霜華綻放命中敵人時，會使敵人的<color=#99FFFFFF>冰元素抗性</color>降低15%，持續6秒。\n此外，命中時會為甘雨恢復2點元素能量。每次二段蓄力重擊只能觸發一次元素能量恢復效果，無論霜華矢與霜華綻放是否都命中目標。",
+      "jp": "二段チャージ重撃の霜華の矢または霜華満開が命中した時、敵の<color=#99FFFFFF>氷元素耐性</color>-15%、継続時間6秒。\n命中時に甘雨の元素エネルギーを2回復。二段チャージの重撃による元素エネルギーの回復効果は、1回の重撃で1度のみ発動可能。",
+      "ko": "2단 차지 강공격의 서리꽃 화살 혹은 피어난 서리꽃에 명중된 적은 <color=#99FFFFFF>얼음 원소 내성</color>이 15% 감소한다. 지속 시간: 6초\n또한 명중 시 감우의 원소 에너지를 2pt 회복한다. 서리꽃 화살과 피어나는 서리꽃의 명중 여부와 상관없이, 2단 차지 강공격은 매번 원소 에너지 회복 효과를 1회만 발동한다",
+      "en": "Charge Level 2 Frostflake Arrows or Frostflake Arrow Blooms decrease opponents' <color=#99FFFFFF>Cryo RES</color> by 15% for 6s upon hit.\nA hit also regenerates 2 Energy for Ganyu. This effect can only occur once per Charge Level 2 Frostflake Arrow, regardless if Frostflake Arrow itself or its Bloom hits the target.",
+      "de": "Verringert den <color=#99FFFFFF>Kryo-WDS</color> von mit Frostblütenpfeilen von heftigen Schlägen beim Aufladen Phase 2 oder durch das Erblühen von Frostblüten getroffenen Gegnern 6 s lang um 15 %.\nStellt Ganyu bei Treffern außerdem 2 Punkte Elementarenergie wieder her. Stellt für jeden heftigen Schlag mit Aufladen Phase 2 nur einmal Elementarenergie wieder her, egal ob die Frostblütenpfeile oder das Erblühen der Frostblüten Ziele treffen oder nicht.",
+      "es": "Reduce en un 15% la <color=#99FFFFFF>RES Cryo</color> de los enemigos golpeados por una flecha helada de Carga 2 o una explosión de escarcha durante 6 s.\nAdemás, al golpear a un enemigo, Ganyu recupera 2 pts. de Energía Elemental. Este efecto solo puede activarse una vez por cada flecha helada de Carga 2, independientemente de que tanto dicha flecha helada como la explosión de escarcha golpeen al enemigo.",
+      "fr": "La <color=#99FFFFFF>RÉS Cryo</color> des ennemis touchés par une flèche de givre (attaque chargée) ou par la zone de givre qui en résulte est réduite de 15 % pendant 6 s.\nGanyu récupère de plus 2 pts d'énergie élémentaire lorsqu'elle touche. Ce dernier effet ne peut être déclenché qu'une fois par flèche de givre, même si la zone de givre et la flèche de givre touchent toutes les deux.",
+      "pt": "Receber Dano de uma Carga Nível 2 da Flecha Congelante ou da Explosão da Flecha Congelante diminui a <color=#99FFFFFF>RES Cryo</color> dos inimigos em 15% por 6s.\nUm golpe restaura 2 de Energia para Ganyu. Este efeito pode ocorrer apenas uma vez por Carga Nível 2 da Flecha Congelante, independentemente se a Flecha Congelante em si ou sua explosão acertar o alvo.",
+      "ru": "Попадание стрелой-снежинкой с уровнем заряда 2 или её цветением понижает <color=#99FFFFFF>Крио сопротивление</color> противников на 15% в течение 6 сек.;\nТакже попадание восстанавливает 2 ед. энергии Гань Юй. Каждое попадание заряженной атакой с уровнем заряда 2 может восстановить энергию только один раз, вне зависимости от того, было ли это попадание стрелой-снежинкой или её цветением.",
+      "id": "Mengurangi 15% <color=#99FFFFFF>Cryo RES</color> musuh yang terkena Frostflake Arrow Charge Tahap 2 atau Frostflake Arrow Bloom selama 6 detik.\nSerangan ini juga akan memulihkan 2 Energy Ganyu. Efek pemulihan Energy terpicu maksimum 1 kali dalam 1 serangan, tak peduli musuh terkena Frostflake Arrow Charge Tahap 2 atau ledakan Frostflake Arrow Bloom.",
+      "th": "เมื่อการชาร์จเลเวล 2 ของ Frostflake Arrow หรือ Frostflake Arrow Bloom โจมตีถูกศัตรู จะทำให้<color=#99FFFFFF>ความต้านทานน้ำแข็ง</color> ของศัตรูลดลง 15% เป็นเวลา 6 วินาที;\nนอกจากนี้เมื่อโจมตีถูกเป้าหมาย จะฟื้นฟูพลังงานธาตุให้แก่ Ganyu 2 หน่วย ซึ่งการชาร์จเลเวล 2 ของ Frostflake Arrow ในแต่ละครั้ง จะทำให้เกิดเอฟเฟกต์ฟื้นฟูพลังธาตุได้เพียงครั้งเดียวเท่านั้น ไม่ว่าจะเป็น Frostflake Arrow หรือ Frostflake Arrow Bloom ที่โจมตีถูกเป้าหมาย",
+      "vi": "Khi Cung Sương Hoa hoặc Sương Giá Tung Bay tụ lực trọng kích lần 2 trúng kẻ địch sẽ khiến địch bị giảm 15% <color=#99FFFFFF>Kháng Nguyên Tố Băng</color>, kéo dài 6s;\nNgoài ra, khi trúng sẽ hồi 2 điểm Năng Lượng Nguyên Tố cho Ganyu. Mỗi lần tụ lực trọng kích lần 2 chỉ có thể kích hoạt hiệu quả hồi Năng Lượng Nguyên Tố 1 lần, bất kể Cung Sương Hoa hoặc Sương Giá Tung Bay có trúng địch hay không."
+    },
+    "imgid": "constellation_1"
+  },
+  {
+    "title": {
+      "zhs": "获麟",
+      "zht": "獲麟",
+      "jp": "獲麟",
+      "ko": "획린(獲麟)",
+      "en": "The Auspicious",
+      "de": "Qilin-Jagd",
+      "es": "La auspiciosa",
+      "fr": "Auspices",
+      "pt": "O Auspicioso",
+      "ru": "Благополучие",
+      "id": "The Auspicious",
+      "th": "The Auspicious",
+      "vi": "Hoạch Lân"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>山泽麟迹</color>的可使用次数增加1次。",
+      "zht": "<color=#FFD780FF>山澤麟跡</color>的可使用次數增加一次。",
+      "jp": "<color=#FFD780FF>山沢麟跡</color>の使用可能回数+1。",
+      "ko": "<color=#FFD780FF>산과 강의 기린 흔적</color>의 사용 가능 횟수가 1회 증가한다",
+      "en": "<color=#FFD780FF>Trail of the Qilin</color> gains 1 additional charge.",
+      "de": "Ermöglicht 1 weitere Anwendung von <color=#FFD780FF>Spuren des Qilins</color>.",
+      "es": "Aumenta en 1 las cargas de <color=#FFD780FF>Senda de Chilin</color>.",
+      "fr": "Confère une charge supplémentaire à <color=#FFD780FF>Trace de Qilin</color>.",
+      "pt": "Os <color=#FFD780FF>Rastros de Qilin</color> aumentam 1 Carga Adicional.",
+      "ru": "Увеличивает количество зарядов навыка <color=#FFD780FF>След цилиня</color> на 1.",
+      "id": "Meningkatkan 1 charge <color=#FFD780FF>Trail of the Qilin</color>.",
+      "th": "จำนวนครั้งที่สามารถใช้ <color=#FFD780FF>Trail of the Qilin</color> ได้ เพิ่มขึ้น 1 ครั้ง",
+      "vi": "Số lần sử dụng <color=#FFD780FF>Sơn Trạch Lân Tích</color> tăng thêm 1."
+    },
+    "imgid": "constellation_2"
+  },
+  {
+    "title": {
+      "zhs": "云行",
+      "zht": "雲行",
+      "jp": "雲行",
+      "ko": "구름 여행",
+      "en": "Cloud-Strider",
+      "de": "Ziehende Wolken",
+      "es": "Jinete de las nubes",
+      "fr": "Mouvement des nuages",
+      "pt": "Itinerante das Nuvens",
+      "ru": "Облачные странствия",
+      "id": "Cloud-Strider",
+      "th": "Cloud-Strider",
+      "vi": "Vân Hành"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>降众天华</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>降眾天華</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>降衆天華</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>쏟아지는 천화</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Celestial Shower</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Bändigender Niederschlag</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Diluvio celestial</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Baptême céleste</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o nível da <color=#FFD780FF>Chuva Celestial</color> em 3.\nO nível máximo de elevação é 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Небесный дождь</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Celestial Shower</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Celestial Shower</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Thiên Hoa Hạ Phàm</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_3"
+  },
+  {
+    "title": {
+      "zhs": "西狩",
+      "zht": "西狩",
+      "jp": "西狩",
+      "ko": "서수(西狩)",
+      "en": "Westward Sojourn",
+      "de": "Aufbruch gen Westen",
+      "es": "Viaje al Oeste",
+      "fr": "Chasse vers l'ouest",
+      "pt": "Estadia no Oeste",
+      "ru": "Поход на Запад",
+      "id": "Westward Sojourn",
+      "th": "Westward Sojourn",
+      "vi": "Tây Thú"
+    },
+    "description": {
+      "zhs": "在<color=#FFD780FF>降众天华</color>的领域内，敌人受到的伤害会增加，这个效果会随时间逐步加强。\n受伤害加成初始为5%，每3秒提升5%，至多提升至25%。\n离开领域后，效果至多持续3秒。",
+      "zht": "在<color=#FFD780FF>降眾天華</color>的領域內，敵人受到的傷害會增加，這個效果會隨時間逐步加強。\n受傷害加成初始為5%，每3秒提升5%，至多提升至25%。\n離開領域後，效果至多持續3秒。",
+      "jp": "<color=#FFD780FF>降衆天華</color>エリア内、敵の受けるダメージがアップする。\n受けるダメージのアップ量は初期が5%、3秒毎に5%アップし、最大25%までアップできる。\n敵がエリアを出た後、エリアによる効果は3秒続く。",
+      "ko": "<color=#FFD780FF>쏟아지는 천화</color> 영역 내 적이 받는 피해가 증가한다. 해당 효과는 시간이 지날수록 점점 강해진다.\n초기 받는 피해 보너스: 5%, 이후 3초마다 5%씩 증가하며 최대 25%까지 상승한다.\n영역을 벗어나면 효과는 최대 3초 동안 유지된다",
+      "en": "Opponents standing within the AoE of <color=#FFD780FF>Celestial Shower</color> take increased DMG. This effect strengthens over time.\nIncreased DMG taken begins at 5% and increases by 5% every 3s, up to a maximum of 25%.\nThe effect lingers for 3s after the opponent leaves the AoE.",
+      "de": "Erhöht den Gegnern im Wirkungsbereich von <color=#FFD780FF>Bändigender Niederschlag</color> zugefügten Schaden fortlaufend.\nDer anfängliche SCH-Bonus beträgt 5 %, erhöht den Schaden alle 3 s um weitere 5 % auf bis zu 25 % SCH-Bonus.\nDer Effekt hält nach dem Verlassen des Wirkungsbereichs bis zu 3 s.",
+      "es": "Los enemigos que estén en el AdE de <color=#FFD780FF>Diluvio celestial</color> reciben daño adicional. Este efecto se fortalece con el tiempo.\nEl daño comienza con un 5% adicional, y aumenta en un 5% cada 3 s hasta un máximo de un 25%.\nEste efecto persiste durante 3 s después de que el enemigo se aleje del AdE de la habilidad.",
+      "fr": "Les DGT subis par les ennemis se trouvant dans la zone de <color=#FFD780FF>Baptême céleste</color> augmentent ; cet effet se cumule avec le temps.\nBonus de DGT initial : 5 %. Ce bonus augmente de 5 % toutes les 3 s (cumul max : 25 %).\nL'effet perdure pendant 3 s après avoir quitté la zone.",
+      "pt": "Os inimigos dentro da AdE da <color=#FFD780FF>Chuva Celestial</color> recebem Dano aumentado. Este efeito fica mais forte com o tempo.\nO Dano aumentado recebido começa em 5% e aumenta 5% a cada 3s, chegando no máximo a 25%.\nEste efeito permanece por 3s após o inimigo sair da AdE.",
+      "ru": "Увеличивает урон, получаемый врагами, находящимися в области навыка <color=#FFD780FF>Небесный дождь</color>. Этот эффект усиливается со временем.\nУвеличение урона начинается с 5% и увеличивается на 5% каждые 3 сек., до макс. 25%.\nЭффект продолжается ещё 3 сек. после того, как враг покидает зону действия навыка.",
+      "id": "Meningkatkan DMG yang diterima musuh saat mereka berada di dalam area <color=#FFD780FF>Celestial Shower</color>. Semakin lama musuh berada di dalam area, semakin besar efek peningkatan DMG.\nPeningkatan DMG mula-mula 5%, dan meningkat 5% setiap 3 detik, peningkatan DMG maksimum: 25%.\nEfek ini bertahan selama 3 detik setelah musuh meninggalkan area.",
+      "th": "ในพื้นที่ของ <color=#FFD780FF>Celestial Shower</color> ความเสียหายที่ศัตรูได้รับจะ เพิ่มขึ้น โดยเอฟเฟกต์นี้ จะเพิ่มความแรงขึ้นเรื่อย ๆ\nความเสียหายที่ได้รับจะเพิ่มขึ้น 5% ในตอนแรก จากนั้นจะ เพิ่มขึ้น 5% ในทุก 3 วินาที และเพิ่มมากสุดถึง 25%\nหลังออกจากพื้นที่ เอฟเฟกต์จะยังคงอยู่นานสุด ถึง 3 วินาที",
+      "vi": "Trong khu vực của <color=#FFD780FF>Thiên Hoa Hạ Phàm</color>, tăng sát thương kẻ địch phải chịu, hiệu quả này sẽ dần mạnh hơn theo thời gian.\nBan đầu lượng tăng sát thương phải chịu là 5%, mỗi 3s tăng 5%, tăng nhiều nhất đến 25%.\nSau khi rời khỏi khu vực, hiệu quả kéo dài nhiều nhất 3s."
+    },
+    "imgid": "constellation_4"
+  },
+  {
+    "title": {
+      "zhs": "折草",
+      "zht": "折草",
+      "jp": "折草",
+      "ko": "잡초 근절",
+      "en": "The Merciful",
+      "de": "Rasenstutzer",
+      "es": "La misericordiosa",
+      "fr": "Miséricorde",
+      "pt": "O Misericordioso",
+      "ru": "Милосердие",
+      "id": "The Merciful",
+      "th": "The Merciful",
+      "vi": "Trảm Thảo"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>山泽麟迹</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>山澤麟跡</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>山沢麟跡</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>산과 강의 기린 흔적</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Trail of the Qilin</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Spuren des Qilins</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Senda de Chilin</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Trace de Qilin</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o nível dos <color=#FFD780FF>Rastros de Qilin</color> em 3.\nO nível máximo de elevação é 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>След цилиня</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Trail of the Qilin</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Trail of the Qilin</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Sơn Trạch Lân Tích</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_5"
+  },
+  {
+    "title": {
+      "zhs": "履虫",
+      "zht": "履蟲",
+      "jp": "履虫",
+      "ko": "살생의 발걸음",
+      "en": "The Clement",
+      "de": "Nachsicht",
+      "es": "La clemente",
+      "fr": "Clémence",
+      "pt": "O Clemente",
+      "ru": "Сострадание",
+      "id": "The Clement",
+      "th": "The Clement",
+      "vi": "Lữ Trùng"
+    },
+    "description": {
+      "zhs": "施放<color=#FFD780FF>山泽麟迹</color>后30秒内的第一次霜华矢，无需蓄力即可施放。",
+      "zht": "施放<color=#FFD780FF>山澤麟跡</color>後30秒內的第一次霜華矢，無需蓄力即可施放。",
+      "jp": "<color=#FFD780FF>山沢麟跡</color>を発動すると、30秒以内に放つ最初の霜華の矢が、チャージせずに発動可能になる。",
+      "ko": "<color=#FFD780FF>산과 강의 기린 흔적</color> 발동 후 30초 안에 발동되는 첫 번째 서리꽃 화살은 차지 없이 발동할 수 있다",
+      "en": "Using <color=#FFD780FF>Trail of the Qilin</color> causes the next Frostflake Arrow shot within 30s to not require charging.",
+      "de": "Nach Anwendung von <color=#FFD780FF>Spuren des Qilins</color> wird 30 s lang keine Aufladung für den nächsten Frostblütenpfeil benötigt.",
+      "es": "Utilizar <color=#FFD780FF>Senda de Chilin</color> hace que durante 30 s no se requiera cargar la siguiente flecha helada.",
+      "fr": "La première flèche de givre libérée dans les 30 s suivant l'activation de <color=#FFD780FF>Trace de Qilin</color> ne requiert pas de charge.",
+      "pt": "Usando o <color=#FFD780FF>Rastros de Qilin</color> faz com que durante 30s seguintes a primeira Flecha Congelante não precise ser carregada.",
+      "ru": "Следующая стрела-снежинка в течение 30 сек. после активации навыка <color=#FFD780FF>След цилиня</color> не нуждается в зарядке.",
+      "id": "Menggunakan <color=#FFD780FF>Trail of the Qilin</color> akan menyebabkan Frostflake Arrow yang ditembakkan dalam waktu 30 detik ke depan tidak memerlukan Charge.",
+      "th": "ภายใน 30 วินาที หลังจากการใช้ <color=#FFD780FF>Trail of the Qilin</color> จะสามารถใช้ Frostflake Arrow ครั้งแรกได้เลย โดยไม่จำเป็นต้องชาร์จ",
+      "vi": "Trong vòng 30s sau khi thi triển <color=#FFD780FF>Sơn Trạch Lân Tích</color>, không cần tụ lực cũng có thể thi triển Cung Sương Hoa lần đầu."
+    },
+    "imgid": "constellation_6"
+  }
+]

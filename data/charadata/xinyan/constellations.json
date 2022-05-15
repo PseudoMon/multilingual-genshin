@@ -1,0 +1,200 @@
+[
+  {
+    "title": {
+      "zhs": "绝命的加速",
+      "zht": "絕命的加速",
+      "jp": "絶命の加速",
+      "ko": "절명의 가속",
+      "en": "Fatal Acceleration",
+      "de": "Tödliche Beschleunigung",
+      "es": "Aceleración letal",
+      "fr": "Accélération fatale",
+      "pt": "Aceleração Fatal",
+      "ru": "Фатальный разгон",
+      "id": "Fatal Acceleration",
+      "th": "Fatal Acceleration",
+      "vi": "Gia Tốc Của Tuyệt Mệnh"
+    },
+    "description": {
+      "zhs": "辛焱造成暴击后的5秒内，普通攻击和重击的攻击速度提升12%。\n该效果每5秒只能触发一次。",
+      "zht": "辛焱造成暴擊後的5秒內，普通攻擊和重擊的攻擊速度提升12%。\n該效果每5秒只能觸發一次。",
+      "jp": "会心攻撃が発生した5秒間、通常攻撃と重撃の攻撃速度+12%。\n5秒毎に1回のみ発動可能。",
+      "ko": "신염이 치명타를 입히면 5초 동안 일반 공격과 강공격의 공격 속도가 12% 증가한다.\n해당 효과는 5초마다 1회만 발동한다",
+      "en": "Upon scoring a CRIT Hit, increases ATK SPD of Xinyan's Normal and Charged Attacks by 12% for 5s.\nCan only occur once every 5s.",
+      "de": "Erhöht die Angriffs-GSW von Standardangriffen und heftigen Schlägen nach kritischen Treffern von Xinyan 5 s lang um 12 %.\n5 s Abklingzeit.",
+      "es": "Tras realizar un golpe CRIT, aumenta en un 12% la Vel. de Ataque de los Ataques Normales y Cargados de Xinyan durante 5 s.\nSolo puede ocurrir una vez cada 5 s.",
+      "fr": "La VIT des attaques normales et chargées de Xinyan augmente de 12 % pendant 5 s lorsque Xinyan inflige un coup CRIT.\nCet effet ne peut être déclenché qu'une fois toutes les 5 s.",
+      "pt": "5s após Xinyan causar um CRIT, a Vel. de ATQ do Ataque Normal e Ataque Carregado aumenta 12%.\nEsse efeito pode ocorrer apenas uma vez a cada 5 segundos.",
+      "ru": "При крит. попадании увеличивает скорость обычной и заряженной атаки Синь Янь на 12% в течение 5 сек.\nМожет возникнуть раз в 5 сек.",
+      "id": "Setelah melakukan serangan CRIT, meningkatkan ATK SPD dari Normal dan Charged Attack Xinyan sebesar 12% selama 5 detik.\nTerpicu setiap 5 detik.",
+      "th": "เมื่อ Xinyan โจมตีติดคริติคอล ความเร็วในการโจมตีปกติและชาร์จโจมตีจะเพิ่มขึ้น 12%\nเอฟเฟกต์นี้เกิดขึ้นได้หนึ่งครั้ง ในทุก 5 วินาที",
+      "vi": "Trong 5s sau khi Xinyan tạo thành bạo kích, tốc độ tấn công của tấn công thường và trọng kích tăng 12%.\nHiệu quả này mỗi 5s chỉ kích hoạt 1 lần."
+    },
+    "imgid": "constellation_1"
+  },
+  {
+    "title": {
+      "zhs": "开场即兴段",
+      "zht": "開場即興段",
+      "jp": "オープニング演出",
+      "ko": "오프닝 즉흥연주",
+      "en": "Impromptu Opening",
+      "de": "Explosive Stimmung",
+      "es": "Comienzo improvisado",
+      "fr": "Ouverture impromptue",
+      "pt": "Começo Improvisado",
+      "ru": "Выступление экспромтом",
+      "id": "Impromptu Opening",
+      "th": "Impromptu Opening",
+      "vi": "Khúc Ngẫu Hứng Mở Màn"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>叛逆刮弦</color>造成的物理伤害暴击率提升100%，并会在施放时形成三级护盾·舞遍节拍。",
+      "zht": "<color=#FFD780FF>叛逆刮弦</color>造成的物理傷害暴擊率提升100%，並會在施放時形成三級護盾·舞遍節拍。",
+      "jp": "<color=#FFD780FF>反逆の弾き</color>による物理ダメージの会心率+100%。さらに発動する時にLv.3シールド·舞のリズムを生成する。",
+      "ko": "<color=#FFD780FF>반항의 피치카토</color>로 가하는 물리 피해 치명타 확률이 100% 증가하고 발동 시 3급 보호막·댄스 리듬을 생성한다",
+      "en": "<color=#FFD780FF>Riff Revolution</color>'s Physical DMG has its CRIT Rate increased by 100%, and will form a shield at Shield Level 3: Rave when cast.",
+      "de": "Erhöht die KT von mit <color=#FFD780FF>Refrain der Rebellion</color> verursachtem physischen Schaden um 100 % und erstellt beim Auslösen Schild Stufe 3 – Abfeiern.",
+      "es": "La Prob. CRIT del Daño Físico de <color=#FFD780FF>Melodía de la rebelión</color> aumenta en un 100% y, al lanzar la habilidad, se creará un Escudo Niv. 3: Fiesta.",
+      "fr": "Le taux CRIT des DGT physiques de <color=#FFD780FF>Riff rebelle</color> augmente de 100 %. Un bouclier Niv.3 est de plus généré à l'activation.",
+      "pt": "Taxa CRIT de Dano Físico causado pela <color=#FFD780FF>Melodia da Rebelião</color> aumenta em 100%, e ao lançar, formará um escudo Nv.3: Rave.",
+      "ru": "Увеличивает шанс крит. попадания физ. уроном навыка <color=#FFD780FF>Струны протеста</color> на 100%, также при использовании навыка активирует щит 3 ур. - «Рейв».",
+      "id": "Meningkatkan 100% CRIT Rate serangan Physical DMG <color=#FFD780FF>Riff Revolution</color>, dan saat dilancarkan, akan membentuk Perisai Level 3: Rave.",
+      "th": "ความเสียหายกายภาพของ<color=#FFD780FF>Riff Revolution</color> จะมีอัตราคริเพิ่มขึ้น 100% และจะสร้างโล่เลเวล 3 - Rave",
+      "vi": "Tỉ lệ bạo kích của sát thương vật lý mà <color=#FFD780FF>Cung Đàn Ngỗ Ngược</color> gây ra tăng 100%, đồng thời khi thi triển sẽ hình thành Lớp Khiên Cấp 3 - Vũ Điệu Tiết Tấu."
+    },
+    "imgid": "constellation_2"
+  },
+  {
+    "title": {
+      "zhs": "摭分的指法",
+      "zht": "摭分的指法",
+      "jp": "摭分の運指",
+      "ko": "더블 스탑",
+      "en": "Double-Stop",
+      "de": "Doppelgriff",
+      "es": "Dobles cuerdas",
+      "fr": "Double corde",
+      "pt": "Duplo-Stop",
+      "ru": "Сложный аккорд",
+      "id": "Double-Stop",
+      "th": "Double-Stop",
+      "vi": "Phương Pháp Phân Giải"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>热情拂扫</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>熱情拂掃</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>情熱の薙ぎ払い</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>정열의 연주</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Sweeping Fervor</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Schlag in die Saiten</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Desenfreno</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Jeu fervent</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o nível da <color=#FFD780FF>Fervor Arrebatador</color> em 3.\nO nível máximo de elevação é 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Решительный жар</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Sweeping Fervor</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลของสกิล <color=#FFD780FF>Sweeping Fervor</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Khuấy Động Nhiệt Huyết</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_3"
+  },
+  {
+    "title": {
+      "zhs": "节奏的传染",
+      "zht": "節奏的傳染",
+      "jp": "リズムの伝染",
+      "ko": "리듬의 전염",
+      "en": "Wildfire Rhythm",
+      "de": "Ansteckender Rhythmus",
+      "es": "Ritmo contagioso",
+      "fr": "Rythme irrésistible",
+      "pt": "Ritmo Contagiante",
+      "ru": "Дикий ритм",
+      "id": "Wildfire Rhythm",
+      "th": "Wildfire Rhythm",
+      "vi": "Tiết Tấu Gây Nghiện"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>热情拂扫</color>的挥舞伤害，会使敌人的物理抗性降低15%，持续12秒。",
+      "zht": "<color=#FFD780FF>熱情拂掃</color>的揮舞傷害，會使敵人的物理抗性降低15%，持續12秒。",
+      "jp": "<color=#FFD780FF>情熱の薙ぎ払い</color>の振り回しダメージを受けた敵の物理耐性-15%、継続時間12秒。",
+      "ko": "<color=#FFD780FF>정열의 연주</color>의 휘두르기 피해는 적의 물리 내성을 15% 감소시킨다. 지속 시간: 12초",
+      "en": "<color=#FFD780FF>Sweeping Fervor</color>'s swing DMG decreases opponent's Physical RES by 15% for 12s.",
+      "de": "Der Schwungschaden von <color=#FFD780FF>Schlag in die Saiten</color> verringert den physischen WDS von Gegnern 12 s lang um 15 %.",
+      "es": "El daño de <color=#FFD780FF>Desenfreno</color> reduce en un 15% la RES Física de los enemigos durante 12 s.",
+      "fr": "La RÉS physique des ennemis touchés par Xinyan au début de <color=#FFD780FF>Jeu fervent</color> est réduite de 15 % pendant 12 s.",
+      "pt": "O Dano de Balanço de <color=#FFD780FF>Fervor Arrebatador</color> irá diminuir a RES Física do inimigo em 15% por 12s.",
+      "ru": "Попадание навыком <color=#FFD780FF>Решительный жар</color> понижает физ. сопротивление врага на 15% в течение 12 сек.",
+      "id": "Swing DMG <color=#FFD780FF>Sweeping Fervor</color> mengurangi Physical RES musuh sebesar 15% selama 12 detik.",
+      "th": "ความเสียหายจากการแกว่งของ <color=#FFD780FF>Sweeping Fervor</color> จะลดความต้านทานทางกายภาพของศัตรูลง 15% เป็นเวลา 12 วินาที",
+      "vi": "Sát thương từ vũ điệu hất tay <color=#FFD780FF>Khuấy Động Nhiệt Huyết</color> làm giảm 15% kháng sát thương vật lý của kẻ địch. kéo dài 12s."
+    },
+    "imgid": "constellation_4"
+  },
+  {
+    "title": {
+      "zhs": "返场的高呼",
+      "zht": "安可的高呼",
+      "jp": "アンコールの叫び",
+      "ko": "앵콜의 함성",
+      "en": "Screamin' for an Encore",
+      "de": "Euphorisches Publikum",
+      "es": "¡Otra canción!",
+      "fr": "Rappel fervent",
+      "pt": "Gritos de Bis",
+      "ru": "Крики «Браво!»",
+      "id": "Screamin' for an Encore",
+      "th": "Screamin' for an Encore",
+      "vi": "Tiếng Vọng Khi Quay Về"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>叛逆刮弦</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>叛逆刮弦</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>反逆の弾き</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>반항의 피치카토</color> 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Riff Revolution</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Refrain der Rebellion</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Melodía de la rebelión</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Riff rebelle</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o nível da <color=#FFD780FF>Melodia da Rebelião</color> em 3.\nO nível máximo de elevação é 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Струны протеста</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Riff Revolution</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลของสกิล <color=#FFD780FF>Riff Revolution</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Cung Đàn Ngỗ Ngược</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_5"
+  },
+  {
+    "title": {
+      "zhs": "地狱里摇摆",
+      "zht": "地獄裡搖擺",
+      "jp": "地獄のシェーク",
+      "ko": "지옥의 연주",
+      "en": "Rockin' in a Flaming World",
+      "de": "Tanz in der Hölle",
+      "es": "Rockeando en el infierno",
+      "fr": "Rock infernal",
+      "pt": "Rockeando no inferno",
+      "ru": "Адский рок-н-ролл",
+      "id": "Rockin' in a Flaming World",
+      "th": "Rockin' in a Flaming World",
+      "vi": "Khuấy Động Từ Địa Ngục"
+    },
+    "description": {
+      "zhs": "辛焱的重击的体力消耗降低30%；此外，进行重击时，将基于防御力的50%获得攻击力加成。",
+      "zht": "辛焱的重擊的體力消耗降低30%；此外，進行重擊時，將基於防禦力的50%獲得攻擊力加成。",
+      "jp": "辛炎の重撃スタミナ消費-30%。重撃を発動する時、辛炎の防御力50%分の攻撃力が増加する。",
+      "ko": "신염의 강공격의 스태미나 소모량이 30% 감소한다. 강공격 시 공격력 보너스를 방어력의 50%만큼 획득한다",
+      "en": "Decreases the Stamina Consumption of Xinyan's Charged Attacks by 30%. Additionally, Xinyan's Charged Attacks gain an ATK Bonus equal to 50% of her DEF.",
+      "de": "Verringert den Ausdauerverbrauch von Xinyan bei heftigen Schlägen um 30 % und erhöht bei heftigen Schlägen den ANG um 50 % VTD.",
+      "es": "El Coste de Aguante del Ataque Cargado de Xinyan se reduce en un 30%. Además, al realizar un Ataque Cargado, gana un 50% de la DEF como Bono de ATQ.",
+      "fr": "Réduit la consommation d'endurance des attaques chargées de Xinyan de 30 %. Xinyan obtient de plus un bonus d'ATQ équivalant à 50 % de sa DÉF lorsqu'elle exécute une attaque chargée.",
+      "pt": "Diminui o Consumo de Stamina do Ataque Carregado de Xinyan em 30%. Ao usar Ataques Carregados, Xinyan ganha um Bônus de Ataque baseado em 50% de sua defesa.",
+      "ru": "Уменьшает потребление выносливости заряженной атакой Синь Янь на 30%. Также при исполнении заряженной атаки Синь Янь получает бонус атаки равный 50% от её защиты.",
+      "id": "Mengurangi Konsumsi Stamina Charged Attack Xinyan sebesar 30%. Selain itu, Xinyan mendapatkan Bonus ATK sebesar 50% DEF saat melakukan Charged Attack.",
+      "th": "ลดการใช้พลังกายในการชาร์จโจมตีของ Xinyan ลง 30% และในขณะที่ชาร์จโจมตีจะเพิ่มพลังโจมตี 50% ของพลังป้องกัน",
+      "vi": "Xinyan giảm 30% tiêu hao thể lực khi dùng trọng kích; Đồng thời khi thi triển, tăng sức tấn công bằng 50% phòng ngự."
+    },
+    "imgid": "constellation_6"
+  }
+]

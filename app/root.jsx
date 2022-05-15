@@ -92,7 +92,7 @@ export function CatchBoundary() {
       </head>
       <body>
         <SiteHeader />
-        <main class="error-page">
+        <main className="error-page">
           <h1>
             {caught.status} {caught.statusText}
           </h1>

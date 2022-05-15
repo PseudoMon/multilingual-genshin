@@ -1,0 +1,200 @@
+[
+  {
+    "title": {
+      "zhs": "魔王武装·遏浪",
+      "zht": "魔王武裝·遏浪",
+      "jp": "魔王の武装·押波",
+      "ko": "마왕 무장·파도 억제",
+      "en": "Foul Legacy: Tide Withholder",
+      "de": "Dämonengewand – Wellenbrecher",
+      "es": "Legado del mal: Retención de la marea",
+      "fr": "Posture du démon : Vague au calme",
+      "pt": "Legado do Mal - Ondas Calmas",
+      "ru": "Форма духа: Останавливающий волну",
+      "id": "Foul Legacy: Tide Withholder",
+      "th": "Foul Legacy - Tide Withholder",
+      "vi": "Trang Phục Ma Vương - Ngăn Sóng"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>魔王武装·狂澜</color>的冷却时间降低20%。",
+      "zht": "<color=#FFD780FF>魔王武裝·狂瀾</color>的冷卻時間降低20%。",
+      "jp": "<color=#FFD780FF>魔王の武装·荒波</color>のクールタイム-20%。",
+      "ko": "<color=#FFD780FF>마왕 무장·광란</color>의 재사용 대기시간이 20% 감소한다",
+      "en": "Decreases the CD of <color=#FFD780FF>Foul Legacy: Raging Tide</color> by 20%",
+      "de": "Verkürzt die Abklingzeit für die Anwendung von <color=#FFD780FF>Dämonengewand – Stürmische Gezeiten</color> um 20 %.",
+      "es": "El TdE de <color=#FFD780FF>Legado del mal: Olas furiosas</color> se reduce en un 20%.",
+      "fr": "Réduit le TdR de <color=#FFD780FF>Posture du démon : Marée déchaînée</color> de 20 %.",
+      "pt": "Diminui a Recarga de <color=#FFD780FF>Legado do Mal - Ondas de Fúria</color> por 20%.",
+      "ru": "Уменьшает время отката навыка <color=#FFD780FF>Форма духа: Бушующие волны</color> на 20%.",
+      "id": "Mengurangi 20% CD <color=#FFD780FF>Foul Legacy: Raging Tide</color>.",
+      "th": "ลดเวลาคูลดาวน์ของ <color=#FFD780FF>Foul Legacy - Raging Tide</color> ลง 20%",
+      "vi": "Giảm 20% CD của <color=#FFD780FF>Trang Phục Ma Vương - Thủy Triều</color>."
+    },
+    "imgid": "constellation_1"
+  },
+  {
+    "title": {
+      "zhs": "魔王武装·暗流",
+      "zht": "魔王武裝·暗流",
+      "jp": "魔王の武装·暗流",
+      "ko": "마왕 무장·암류",
+      "en": "Foul Legacy: Understream",
+      "de": "Dämonengewand – Unterströmung",
+      "es": "Legado del mal: Trasfondo",
+      "fr": "Posture du démon : Courant souterrain",
+      "pt": "Legado do Mal - Submarino",
+      "ru": "Форма духа: Скрытое течение",
+      "id": "Foul Legacy: Understream",
+      "th": "Foul Legacy - Understream",
+      "vi": "Trang Phục Ma Vương - Sóng Ngầm"
+    },
+    "description": {
+      "zhs": "处于断流效果影响下的敌人被击败时，为达达利亚恢复4点元素能量。",
+      "zht": "處於斷流效果的影響下的敵人被擊敗時，達達利亞恢復4點元素能量。",
+      "jp": "断流効果の影響を受けた敵が倒されると、タルタリヤの元素エネルギーが4回復する。",
+      "ko": "단류 상태의 적 처치 시 타르탈리아는 원소 에너지를 4pt 회복한다",
+      "en": "When opponents affected by Riptide are defeated, Tartaglia regenerates 4 Elemental Energy.",
+      "de": "Stellt Tartaglia, wenn von Versiegen betroffene Gegner besiegt werden, 4 Punkte Elementarenergie wieder her.",
+      "es": "Cuando los enemigos afectados por obstrucción del flujo son derrotados, Tartaglia restaura 4 pts. de Energía Elemental.",
+      "fr": "Vaincre un ennemi affecté par Contre-courant restaure 4 pts d'énergie élémentaire à Tartaglia.",
+      "pt": "Quando os inimigos afetados pela Interceptação de Fluxo forem derrotados, Tartaglia ganha 4 de Energia Elemental.",
+      "ru": "Когда враги со статусом Отлив побеждены, Тарталья восстанавливает 4 ед. элементальной энергии.",
+      "id": "Saat musuh yang terkena efek Riptide dikalahkan, Tartaglia memulihkan 4 Energy.",
+      "th": "ฟื้นฟูพลังงานธาตุ 4 หน่วยให้ Tartaglia เมื่อศัตรูที่อยู่ภายใต้เอฟเฟกต์ Riptide ตาย",
+      "vi": "Khi kẻ địch bị đánh bại và chịu ảnh hưởng của hiệu ứng Đoạn Lưu, sẽ hồi phục 4 điểm Năng Lượng Nguyên Tố cho Tartaglia."
+    },
+    "imgid": "constellation_2"
+  },
+  {
+    "title": {
+      "zhs": "深渊之灾·纷争涡源",
+      "zht": "深淵之災·紛爭渦源",
+      "jp": "淵の災い·紛争の源",
+      "ko": "심연의 재앙·분쟁의 근원",
+      "en": "Abyssal Mayhem: Vortex of Turmoil",
+      "de": "Katastrophe des Abgrunds – Strudel der Zwietracht",
+      "es": "Calamidad del Abismo: Fuente del conflicto",
+      "fr": "Chaos de l'Abîme : Vortex d'agitation",
+      "pt": "Caos Abissal - Vórtice da Turbulência",
+      "ru": "Хаос бездны: Источник беспорядков",
+      "id": "Abyssal Mayhem: Vortex of Turmoil",
+      "th": "Abyssal Mayhem - Vortex of Turmoil",
+      "vi": "Tai Họa Vực Sâu - Nguồn Gốc Tranh Giành"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>魔王武装·狂澜</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>魔王武裝·狂瀾</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>魔王の武装·荒波</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>마왕 무장·광란</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Foul Legacy: Raging Tide</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Dämonengewand – Stürmische Gezeiten</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Legado del mal: Olas furiosas</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Posture du démon : Marée déchaînée</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o nível de <color=#FFD780FF>Legado do Mal - Ondas de Fúria</color> em 3.\nO nível máximo é Nv.15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Форма духа: Бушующие волны</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Foul Legacy: Raging Tide</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Foul Legacy - Raging Tide</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Trang Phục Ma Vương - Thủy Triều</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_3"
+  },
+  {
+    "title": {
+      "zhs": "深渊之灾·凝水盛放",
+      "zht": "深淵之災·凝水盛放",
+      "jp": "淵の災い·復水放流",
+      "ko": "심연의 재앙·차오르는 물",
+      "en": "Abyssal Mayhem: Hydrospout",
+      "de": "Katastrophe des Abgrunds – Sprudelndes Wasser",
+      "es": "Calamidad del Abismo: Hidrocontención",
+      "fr": "Chaos de l'Abîme : Fleur de l'eau condensée",
+      "pt": "Caos Abissal - Hydroexplosão",
+      "ru": "Хаос бездны: Гидро излив",
+      "id": "Abyssal Mayhem: Hydrospout",
+      "th": "Abyssal Mayhem - Hydrospout",
+      "vi": "Tai Họa Vực Sâu - Bắn Nước"
+    },
+    "description": {
+      "zhs": "每4秒，场上存在达达利亚自身施加的断流效果时，若达达利亚当前处于<color=#FFD780FF>魔王武装·狂澜</color>的近战状态，则触发断流·斩；否则，触发断流·闪。\n通过此命之座触发的断流·斩与断流·闪不受这两种断流各自的触发间隔限制，也不会影响其触发间隔。",
+      "zht": "每4秒，場上存在達達利亞自身施加的斷流效果時，若達達利亞當前處於<color=#FFD780FF>魔王武裝·狂瀾</color>的近戰狀態，則觸發斷流·斬；否則，觸發斷流·閃。\n通過此命之座觸發的斷流·斬與斷流·閃不受這兩種斷流各自的觸發間隔限制，也不會影響其觸發間隔。",
+      "jp": "4秒毎に、タルタリヤによって発動された断流効果がフィールドに存在する時、タルタリヤが<color=#FFD780FF>魔王の武装·荒波</color>の近接モードの場合、断流·斬を発動する。それ以外の場合、断流·閃を発動する。\nこの効果によって発動された断流·斬と断流·閃は、この二つのスキル本来の発動時間制限を受けない。また、本来のスキルへの発動時間制限にも影響を与えない。",
+      "ko": "4초마다 타르탈리아 자신이 부여한 단류 효과가 필드 위에 있을 때, 타르탈리아가 현재 <color=#FFD780FF>마왕 무장·광란</color>의 근접 상태라면 단류·참 혹은 단류·섬 을 발동한다.\n이 운명의 자리로 발동된 단류·참과 단류·섬은 각각의 발동 시간 간격에 제한을 받지 않고 영향도 주지 않는다",
+      "en": "If Tartaglia is in <color=#FFD780FF>Foul Legacy: Raging Tide</color>'s Melee Stance, triggers Riptide Slash against opponents on the field affected by Riptide every 4s, otherwise, triggers Riptide Flash.\nRiptide Slashes and Riptide Flashes triggered by this Constellation effect are not subject to the time intervals that would typically apply to these two Riptide effects, nor do they have any effect on those time intervals.",
+      "de": "Löst bei Anwesenheit des von Tartaglia verursachten Effekts Verisegen alle 4 s Versiegen – Hieb aus, wenn Tartaglia im Nahkampfmodus von <color=#FFD780FF>Dämonengewand – Stürmische Gezeiten</color> ist, löst andernfalls Versiegen – Blitz aus.\nVersiegen – Hieb und Versiegen – Blitz werden, wenn sie durch dieses Sternbild ausgelöst werden, nicht von der zeitlichen Beschränkung der beiden Zustände des Versiegens beeinflusst und wirken sich auch nicht auf die Zeitabstände zum Auslösen aus.",
+      "es": "Si Tartaglia está en la posición de combate cuerpo a cuerpo de <color=#FFD780FF>Legado del mal: Olas furiosas</color>, realizará Obstrucción del flujo: Corte cada 4 s contra los enemigos afectados por obstrucción del flujo. Si está en posición de combate a distancia, en su lugar, realizará Obstrucción del flujo: Destello.\nLa Obstrucción del flujo: Corte y Obstrucción del flujo: Destello desencadenadas mediante el efecto de esta constelación no están sujetas a los intervalos de tiempo que se les aplicaría normalmente, ni tampoco afectarán a los tiempos de dichas habilidades.",
+      "fr": "Lorsque Tartaglia est dans l'état de mêlée de <color=#FFD780FF>Posture du démon : Marée déchaînée</color>, un Contre-courant : Entaille est déclenché contre les ennemis affectés par l'effet Contre-courant toutes les 4 s ; sinon, il déclenche un Contre-courant : Flash.\nLes Contre-courant : Entaille et Contre-courant : Flash déclenchés par cette constellation ne sont pas influencés par les intervalles de déclenchement de ces deux effets Contre-courant, et n'affectent pas leur propre intervalle de déclenchement.",
+      "pt": "Quando Interceptação de Fluxo é infligida por Tartaglia a cada 4s, se Tartaglia estiver na posição corpo a corpo de <color=#FFD780FF>Legado do Mal - Ondas de Fúria</color> ativa Interceptação de Fluxo·Corte; caso contrário, ativa Dano da Interceptação de Fluxo·Instantâneo.\nA Interceptação de Fluxo·Corte e Interceptação de Fluxo·Instantâneo não têm limitações de intervalo de ativação e não são afetados por outro intervalo de ativação.",
+      "ru": "Когда Тарталья находится в стойке <color=#FFD780FF>Форма духа: Бушующие волны</color>, враги со статусом Отлив получают урон от эффекта Отлив-удар каждые 4 сек. В противном случае срабатывает эффект Отлив-вспышка.\nНа эффекты Отлив-удар и Отлив-вспышка, вызванные этим уровнем созвездия, не действуют их обычные ограничения длительности, также они не имеют никаких эффектов в этих временных промежутках.",
+      "id": "Bila ada musuh yang terkena efek Riptide milik Tartaglia dan Tartaglia sedang menggunakan mode jarak dekat dari <color=#FFD780FF>Foul Legacy: Raging Tide</color>, maka Tartaglia akan memicu Riptide Slash setiap 4 detik; bila tidak, akan memicu Riptide Flash.\nRiptide Slash dan Riptide Flash yang terpicu dari Konstelasi ini tidak dibatasi oleh jeda waktu masing-masing skill, juga tidak memengaruhi jeda waktu masing-masing skill.",
+      "th": "เมื่อมีการใช้เอฟเฟกต์ Riptide ของ Tartaglia ในการต่อสู้ หาก Tartaglia อยู่ในรูปแบบการต่อสู้ระยะประชิดของ <color=#FFD780FF>Foul Legacy - Raging Tide</color> จะปล่อย Riptide Slash ไม่เช่นนั้นก็จะปล่อย Riptide Flash ในทุก ๆ 4 วินาที \nRiptide Slash และ Riptide Flash ที่ปล่อยโดยกลุ่มดาว จะไม่ถูกจำกัดช่วงการปล่อยโดยเอฟเฟกต์ Riptide ของทั้งสอง และจะไม่มีผลต่อช่วงการปล่อยเอฟเฟกต์ดังกล่าว",
+      "vi": "Mỗi 4s, khi trong trận xuất hiện hiệu quả Đoạn Lưu do Tartaglia thi triển, nếu Tartaglia đang trong trạng thái cận chiến của <color=#FFD780FF>Trang Phục Ma Vương - Thủy Triều</color>, sẽ kích hoạt Đoạn Lưu - Chém; Nếu không Đoạn Lưu - Né sẽ được kích hoạt.\nĐoạn Lưu - Né và Đoạn Lưu - Chém được kích hoạt bằng cung mệnh này sẽ không bị giới hạn bởi thời gian kích hoạt của hai loại Đoạn Lưu này và cũng không ảnh hưởng đến thời gian kích hoạt của chúng."
+    },
+    "imgid": "constellation_4"
+  },
+  {
+    "title": {
+      "zhs": "极恶技·斩水斩雨",
+      "zht": "極惡技·斬水斬雨",
+      "jp": "極悪技·雨斬り",
+      "ko": "극악기·빗물 베기",
+      "en": "Havoc: Formless Blade",
+      "de": "Spezialangriff – Regenschlächter",
+      "es": "Caos: Corte líquido",
+      "fr": "Ravage : Lame sans forme",
+      "pt": "Devastação - Lâmina Sem Forma",
+      "ru": "Хаос: Бесформенный клинок",
+      "id": "Havoc: Formless Blade",
+      "th": "Havoc - Formless Blade",
+      "vi": "Kỹ Năng Thượng Thừa - Chém Nước Chặt Mưa"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>极恶技·尽灭闪</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>極惡技·盡滅閃</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>極悪技·尽滅閃</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>극악기·진멸섬</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Havoc: Obliteration</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Spezialangriff – Totale Vernichtung</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Caos: Obliteración</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Ravage : Oblitération</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o nível da <color=#FFD780FF>Devastação: Obliteração</color> em 3.\nO nível máximo de elevação é 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Хаос: Опустошение</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Havoc - Obliteration</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Havoc - Obliteration</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Kỹ Năng Thượng Thừa - Ánh Sáng Tận Diệt</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_5"
+  },
+  {
+    "title": {
+      "zhs": "极恶技·天使灭尽",
+      "zht": "極惡技·天使滅盡",
+      "jp": "極悪技·天使の滅び",
+      "ko": "극악기·천사멸진",
+      "en": "Havoc: Annihilation",
+      "de": "Spezialangriff – Komplette Auslöschung",
+      "es": "Caos: Extinción del ángel",
+      "fr": "Ravage : Annihilation",
+      "pt": "Devastação - Aniquilação",
+      "ru": "Хаос: Охота на ангелов",
+      "id": "Havoc: Annihilation",
+      "th": "Havoc - Annihilation",
+      "vi": "Kỹ Năng Thượng Thừa - Thiên Sứ Tai Ương"
+    },
+    "description": {
+      "zhs": "在近战状态下施放<color=#FFD780FF>极恶技·尽灭闪</color>时，清除<color=#FFD780FF>魔王武装·狂澜</color>的冷却时间。\n该效果会在回到远程状态后触发。",
+      "zht": "在近戰狀態下施放<color=#FFD780FF>極惡技·盡滅閃</color>時，清除<color=#FFD780FF>魔王武裝·狂瀾</color>的冷卻時間。\n該效果會在回到遠程狀態後觸發。",
+      "jp": "<color=#FFD780FF>極悪技·尽滅閃</color>発動時、<color=#FFD780FF>魔王の武装·荒波</color>のクールタイムをリセットする。\nこの効果は遠隔モードに戻った後に発動する。",
+      "ko": "근접 상태에서 <color=#FFD780FF>극악기·진멸섬</color> 발동 시 <color=#FFD780FF>마왕 무장·광란</color>의 재사용 대기시간이 초기화된다.\n해당 효과는 타르탈리아가 원거리 상태로 돌아간 후 발동한다",
+      "en": "When <color=#FFD780FF>Havoc: Obliteration</color> is cast in Melee Stance, the CD of <color=#FFD780FF>Foul Legacy: Raging Tide</color> is reset.\nThis effect will only take place once Tartaglia returns to his Ranged Stance.",
+      "de": "Überspringt die Abklingzeit von <color=#FFD780FF>Dämonengewand – Stürmische Gezeiten</color> bei Anwendung von <color=#FFD780FF>Spezialangriff – Totale Vernichtung</color> im Nahkampf.\nDieser Effekt wird nach dem Wechsel in den Fernkampf aktiv.",
+      "es": "En combate cuerpo a cuerpo, al lanzar <color=#FFD780FF>Caos: Obliteración</color>, el TdE de <color=#FFD780FF>Legado del Mal: Olas furiosas</color> termina inmediatamente.\nEl efecto tiene lugar una vez que Tartaglia vuelve a la posición de combate a distancia.",
+      "fr": "En état de mêlée, l'activation de <color=#FFD780FF>Ravage : Oblitération</color> supprime le TdR de <color=#FFD780FF>Posture du démon : Marée déchaînée</color>.\nCet effet se produit après le retour à l'état de distance.",
+      "pt": "Quando <color=#FFD780FF>Devastação: Obliteração</color> é lançada na Posição Corpo a Corpo, o Tempo de Recarga de <color=#FFD780FF>Legado do Mal - Ondas de Fúria</color> termina imediatamente.\nEsse efeito só acontecerá quando Tartaglia retornar à sua Posição à Distância.",
+      "ru": "При активации навыка <color=#FFD780FF>Хаос: Опустошение</color> обнуляется время отката навыка <color=#FFD780FF>Форма духа: Бушующие волны</color>.\nЭтот эффект срабатывает, только когда Тарталья возвращается в дальнюю стойку.",
+      "id": "Saat <color=#FFD780FF>Havoc: Obliteration</color> dilancarkan dalam keadaan mode jarak dekat, maka CD dari <color=#FFD780FF>Foul Legacy: Raging Tide</color> akan direset.\nEfek ini hanya akan terjadi begitu Tartaglia kembali ke mode jarak jauh.",
+      "th": "ภายใต้รูปแบบการต่อสู้ระยะประชิด เมื่อใช้ <color=#FFD780FF>Havoc - Obliteration</color> จะลบล้างเวลาคูลดาวน์ของ <color=#FFD780FF>Foul Legacy - Raging Tide</color>\nเอฟเฟกต์ดังกล่าวจะถูกปล่อย เมื่อกลับสู่รูปแบบการต่อสู้ระยะไกล",
+      "vi": "Khi thi triển <color=#FFD780FF>Kỹ Năng Thượng Thừa - Ánh Sáng Tận Diệt</color> trong trạng thái cận chiến, hủy CD của <color=#FFD780FF>Trang Phục Ma Vương - Thủy Triều</color>.\nHiệu quả này sẽ được kích hoạt khi anh quay trở lại trạng thái đánh xa."
+    },
+    "imgid": "constellation_6"
+  }
+]

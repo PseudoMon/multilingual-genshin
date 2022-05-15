@@ -1,0 +1,200 @@
+[
+  {
+    "title": {
+      "zhs": "岩者，六合引之为骨",
+      "zht": "岩者，六合引之為骨",
+      "jp": "岩、天下の骨なり",
+      "ko": "암석·천지의 기반",
+      "en": "Rock, the Backbone of Earth",
+      "de": "Skelett der Erde",
+      "es": "Roca, el núcleo de la Tierra",
+      "fr": "Roche, le squelette de la terre",
+      "pt": "Pedra, a Espinha Vertebral da Terra",
+      "ru": "На чём держится земля",
+      "id": "Rock, the Backbone of Earth",
+      "th": "Rock, the Backbone of Earth",
+      "vi": "Nham, Lục Hợp Dẫn Thành Cốt"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>地心</color>创造的岩脊至多可以同时存在2个。",
+      "zht": "<color=#FFD780FF>地心</color>創造的岩脊至多可以同時存在2個。",
+      "jp": "<color=#FFD780FF>地心</color>の岩柱が同時に最大2つまで存在可能になる。",
+      "ko": "<color=#FFD780FF>지핵</color>으로 만든 암주는 동시에 최대 2개 존재할 수 있다",
+      "en": "Increases the maximum number of Stone Steles created by <color=#FFD780FF>Dominus Lapidis</color> that may exist simultaneously to 2.",
+      "de": "Bis zu 2 Hügelkämme von <color=#FFD780FF>Dominus Lapidis</color> können gleichzeitig existieren.",
+      "es": "<color=#FFD780FF>Dominus lapidis</color> puede crear un máximo de 2 crestas de piedra al mismo tiempo.",
+      "fr": "2 Dorsales de <color=#FFD780FF>Dominus Lapidis</color> peuvent exister en même temps.",
+      "pt": "Aumenta o número máximo de Estelas de Pedra criadas pelo <color=#FFD780FF>Dominus Lapidis</color> que podem existir simultaneamente para 2.",
+      "ru": "Допускает одновременное существование двух Каменных стел навыка <color=#FFD780FF>Власть над камнем</color>.",
+      "id": "Jumlah Stone Stele yang dapat diciptakan oleh <color=#FFD780FF>Dominus Lapidis</color> meningkat menjadi 2.",
+      "th": "Stone Stele ที่ <color=#FFD780FF>Dominus Lapidis</color> สร้างขึ้น จะสามารถคงอยู่ได้มากสุด 2 แท่ง ในเวลาเดียวกัน",
+      "vi": "Vách đá tạo thành từ <color=#FFD780FF>Tâm Trái Đất</color> có thể tồn tại cùng lúc 2 cái."
+    },
+    "imgid": "constellation_1"
+  },
+  {
+    "title": {
+      "zhs": "石者，八荒韫玉而明",
+      "zht": "石者，八荒韞玉而明",
+      "jp": "石、玉の揺りかご",
+      "ko": "돌·옥으로 인해 빛나는 세상",
+      "en": "Stone, the Cradle of Jade",
+      "de": "Heimat der Jade",
+      "es": "Piedra, el origen del jade",
+      "fr": "Pierre, le berceau du jade",
+      "pt": "Pedra, a Vela de Jade",
+      "ru": "Колыбель нефрита",
+      "id": "Stone, the Cradle of Jade",
+      "th": "Stone, the Cradle of Jade",
+      "vi": "Thạch, Bát Hoang Ngọc Minh"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>天星</color>陨落时，会为附近的当前场上角色赋予玉璋护盾。",
+      "zht": "<color=#FFD780FF>天星</color>隕落時，會為附近當前場上的角色賦予玉璋護盾。",
+      "jp": "<color=#FFD780FF>天星</color>落下時、近くにいる出場中のキャラクターに玉璋シールドを付与する。",
+      "ko": "<color=#FFD780FF>천성</color>이 떨어질 때 근처에 있는 현재 캐릭터에게 옥홀 방패를 부여한다",
+      "en": "<color=#FFD780FF>Planet Befall</color> grants nearby characters on the field a Jade Shield when it descends.",
+      "de": "<color=#FFD780FF>Einstürzender Himmel</color> gibt aktuellen Figuren in der Nähe des Sturzes einen Jadeblock zum Schutz.",
+      "es": "Al caer <color=#FFD780FF>Lluvia estelar</color>, otorga un escudo de jade a los personajes en uso cercanos.",
+      "fr": "Les personnages déployés à proximité sont protégés par un bouclier de jade lors de <color=#FFD780FF>Chute de météore</color>.",
+      "pt": "Quando a <color=#FFD780FF>Chuva Estelar</color> cair, dará um Escudo de Jade para os personagens ao redor em campo próximos.",
+      "ru": "Навык <color=#FFD780FF>Падение кометы</color> накладывает Яшмовый щит на окружающих персонажей.",
+      "id": "Saat <color=#FFD780FF>Planet Befall</color> dilancarkan, sebuah Jade Shield akan tercipta untuk Karakter yang berada di dekatnya.",
+      "th": "เมื่อ <color=#FFD780FF>Planet Befall</color> ตกลงมา จะมอบ Jade Shield ให้กับตัวละครที่เข้าร่วมการต่อสู้ และอยู่ในบริเวณใกล้เคียงในขณะนั้น",
+      "vi": "Khi <color=#FFD780FF>Thiên Tinh</color> rơi xuống, các nhân vật trong trận hiện tại ở lân cận sẽ nhận được Khiên Ngọc bảo vệ."
+    },
+    "imgid": "constellation_2"
+  },
+  {
+    "title": {
+      "zhs": "圭璋，暝仍不移其晖",
+      "zht": "圭璋，暝仍不移其暉",
+      "jp": "圭璋、闇の中で輝く",
+      "ko": "옥그릇·저물어도 사라지지 않는 광채",
+      "en": "Jade, Shimmering through Darkness",
+      "de": "Funkelnd und doch dunkel",
+      "es": "Jade, el brillo del crepúsculo",
+      "fr": "Jade, brillant à travers les ténèbres",
+      "pt": "Jade, Cintilando na Escuridão",
+      "ru": "Яшмовый блеск",
+      "id": "Jade, Shimmering through Darkness",
+      "th": "Jade, Shimmering through Darkness",
+      "vi": "Khuê Chương, Khó Khăn Không Lùi Bước"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>地心</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>地心</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>地心</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>지핵</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Dominus Lapidis</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Dominus Lapidis</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Dominus lapidis</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Dominus Lapidis</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o nível do <color=#FFD780FF>Dominus Lapidis</color> em 3.\nO nível máximo de elevação é 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Власть над камнем</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Dominus Lapidis</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Dominus Lapidis</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Tâm Trái Đất</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_3"
+  },
+  {
+    "title": {
+      "zhs": "黄琮，破而不夺其坚",
+      "zht": "黃琮，破而不奪其堅",
+      "jp": "黄玉、破れぬ堅さ",
+      "ko": "옥홀·부서져도 건재한 견고함",
+      "en": "Topaz, Unbreakable and Fearless",
+      "de": "Gebrochen und doch hart",
+      "es": "Topacio, indestructible e intrépido",
+      "fr": "Topaze, incassable et intrépide",
+      "pt": "Topázio, Inquebrável e Destemido",
+      "ru": "Топаз, несломленный и бесстрашный",
+      "id": "Topaz, Unbreakable and Fearless",
+      "th": "Topaz, Unbreakable and Fearless",
+      "vi": "Hoàng Tông, Phá Nhưng Không Mất Kiên Cường"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>天星</color>的影响范围扩大20%。\n此外，天星的石化效果持续时间延长2秒。",
+      "zht": "<color=#FFD780FF>天星</color>的影響範圍擴大20%。\n此外，天星的石化效果持續時間延長2秒。",
+      "jp": "<color=#FFD780FF>天星</color>の影響範囲+20%。\nさらに天星の石化効果の継続時間+2秒。",
+      "ko": "<color=#FFD780FF>천성</color>의 영향 범위가 20% 증가한다.\n또한, 천성의 석화 효과 지속 시간이 2초 증가한다",
+      "en": "Increases <color=#FFD780FF>Planet Befall</color>'s AoE by 20% and increases the duration of Planet Befall's Petrification effect by 2s.",
+      "de": "Vergrößert den Wirkungsbereich von <color=#FFD780FF>Einstürzender Himmel</color> um 20 %.\nVerlängert den Effekt der Versteinerung von Einstürzender Himmel um 2 s.",
+      "es": "Aumenta el AdE de <color=#FFD780FF>Lluvia estelar</color> en un 20%.\nAdemás, aumenta en 2 s la duración de Petrificación de Lluvia estelar.",
+      "fr": "Augmente la zone d'effet de <color=#FFD780FF>Chute de météore</color> de 20 %.\nProlonge de plus la durée de la pétrification de 2 s.",
+      "pt": "Aumenta a AdE da <color=#FFD780FF>Chuva Estelar</color> em 20%.\nAlém disso, o efeito de Petrificação da Chuva Estelar é prolongado em 2s.",
+      "ru": "Увеличивает зону поражения навыка <color=#FFD780FF>Падение кометы</color> на 20%, также увеличивает длительность окаменения на 2 сек.",
+      "id": "Meningkatkan radius <color=#FFD780FF>Planet Befall</color> sebesar 20% dan meningkatkan durasi dari efek Petrification Planet Befall sebanyak 2 detik.",
+      "th": "พื้นที่ผลกระทบของ <color=#FFD780FF>Planet Befall</color> ขยายขึ้น 20%\nนอกจากนี้ เอฟเฟกต์กลายเป็นหินของ Planet Befall จะนานขึ้น 2 วินาที",
+      "vi": "Tăng 20% phạm vi ảnh hưởng của <color=#FFD780FF>Thiên Tinh</color>.\nĐồng thời hiệu quả Hóa Thạch của Thiên Tinh sẽ kéo dài thêm 2s."
+    },
+    "imgid": "constellation_4"
+  },
+  {
+    "title": {
+      "zhs": "苍璧，驱之长昭天理",
+      "zht": "蒼璧，驅之長昭天理",
+      "jp": "璧、天理を守る",
+      "ko": "푸른 규벽·천지의 이치",
+      "en": "Lazuli, Herald of the Order",
+      "de": "Verkünder der Ordnung",
+      "es": "Lapislázuli, el heraldo del orden",
+      "fr": "Lazulite, le héraut de l'ordre divin",
+      "pt": "Lazuli, Heraldo da Ordem",
+      "ru": "Лазурит, вестник порядка",
+      "id": "Lazuli, Herald of the Order!",
+      "th": "Lazuli, Herald of the Order",
+      "vi": "Thương Bích, Kiên Cường Như Lẽ Trời"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>天星</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>天星</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>天星</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>천성</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Planet Befall</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Einstürzender Himmel</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Lluvia estelar</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Chute de météore</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o nível da <color=#FFD780FF>Chuva Estelar</color> em 3.\nO nível máximo de elevação é 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Падение кометы</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Planet Befall</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Planet Befall</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Thiên Tinh</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_5"
+  },
+  {
+    "title": {
+      "zhs": "金玉，礼予天地四方",
+      "zht": "金玉，禮予天地四方",
+      "jp": "金、天地の恵み",
+      "ko": "금옥·천하에 주는 선물",
+      "en": "Chrysos, Bounty of Dominator",
+      "de": "Geschenk des Bodens",
+      "es": "Chrysos, la generosidad del dominador",
+      "fr": "Or, la générosité du dominateur",
+      "pt": "Chrysos, Recompensa do Dominador",
+      "ru": "Кризос, награда деспота",
+      "id": "Chrysos, Bounty of Dominator",
+      "th": "Chrysos, Bounty of Dominator",
+      "vi": "Thiên Ngọc, Lễ Thiên Địa Tứ Phương"
+    },
+    "description": {
+      "zhs": "玉璋护盾受到伤害时，将为当前角色恢复生命值，回复量为伤害的40%。\n单次回复量不超过当前角色最大生命值的8%。",
+      "zht": "玉璋護盾受到傷害時，將為當前角色恢復生命值，回復量為傷害的40%。\n單次回復量不超過該角色最大生命值的8%。",
+      "jp": "玉璋シールドがダメージを受けた時、そのダメージ量の40%分のHPを回復する。\n一回の回復上限はキャラクターのHP上限の8%。",
+      "ko": "옥홀 방패가 피해를 받을 경우, 받은 피해의 40%만큼 현재 캐릭터의 HP를 회복한다.\n단일 회복량은 현재 캐릭터 HP 최대치의 8%를 초과할 수 없다",
+      "en": "When the Jade Shield takes DMG, 40% of that incoming DMG is converted to HP for the current character.\nA single instance of regeneration cannot exceed 8% of that character's Max HP.",
+      "de": "Stellt der aktuellen Figur LP in Höhe von 40 % des Schadens wieder her, wenn der Jadeblock Schaden erleidet.\nDie bei jeder Heilung wiederhergestellten LP können 8 % der max. LP der Figur nicht übersteigen.",
+      "es": "Cuando el escudo de jade recibe daño, el 40% del daño recibido se convierte en Vida para el personaje en uso.\nNo se puede recuperar más del 8% de la Vida Máx. del personaje cada vez que se activa el efecto.",
+      "fr": "40 % des DGT subis par le bouclier de jade sont convertis en PV pour le personnage déployé.\nLa quantité de PV restaurés en une fois ne peut pas dépasser 8 % des PV max du personnage.",
+      "pt": "Quando o Escudo de Jade recebe dano, 40% do Dano recebido é convertido em Vida para o personagem atual.\nA regeneração não pode exceder 8% da Vida Máxima do personagem por vez.",
+      "ru": "Когда Яшмовый щит получает урон, 40% этого урона конвертируется в HP для активного персонажа.\nОдно восстановление не может превышать 8% от макс. HP персонажа.",
+      "id": "Saat Jade Shield aktif, 40% DMG yang diterima akan dikonversi menjadi pemulihan HP.\nJumlah pemulihan yang diterima dalam satu kali konversi tidak dapat melebihi 8% dari Max HP karakter tersebut.",
+      "th": "เมื่อ Jade Shield ได้รับความเสียหาย ตัวละครในขณะนั้นจะได้รับการฟื้นฟูพลังชีวิตเท่ากับ 40% ของความเสียหาย\nซึ่งปริมาณการฟื้นฟูในหนึ่งครั้ง จะไม่เกิน 8% ของพลังชีวิตสูงสุดของตัวละครในขณะนั้น",
+      "vi": "Khi Khiên Ngọc chịu sát thương, sẽ hồi HP cho nhân vật hiện tại, lượng hồi phục bằng 40% sát thương.\nLượng hồi phục của 1 lần không vượt quá 8% HP tối đa của nhân vật."
+    },
+    "imgid": "constellation_6"
+  }
+]

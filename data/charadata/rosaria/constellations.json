@@ -1,0 +1,200 @@
+[
+  {
+    "title": {
+      "zhs": "罪之导引",
+      "zht": "罪之導引",
+      "jp": "罪の導き",
+      "ko": "죄의 속삭임",
+      "en": "Unholy Revelation",
+      "de": "Lenkung der Sünden",
+      "es": "Guía de los pecadores",
+      "fr": "Guide du pécheur",
+      "pt": "Guia do Pecado",
+      "ru": "Откровения грешника",
+      "id": "Unholy Revelation",
+      "th": "Unholy Revelation",
+      "vi": "Nguồn Gốc Tội Lỗi"
+    },
+    "description": {
+      "zhs": "罗莎莉亚的攻击造成暴击后，自身攻击速度提升10%，普通攻击造成的伤害提升10%，持续4秒。",
+      "zht": "蘿莎莉亞的攻擊造成暴擊後，自身攻擊速度提升10%，普通攻擊造成的傷害提升10%，持續4秒。",
+      "jp": "ロサリアの攻撃で会心が発生すると、攻撃速度+10%、通常攻撃のダメージ+10%、継続時間4秒。",
+      "ko": "로자리아가 공격 시 치명타가 발생하면, 자신의 공격 속도가 10% 증가하고, 일반 공격으로 가하는 피해가 10% 증가한다. 지속시간: 4초",
+      "en": "When Rosaria deals a CRIT Hit, her ATK SPD increases by 10% and her Normal Attack DMG increases by 10% for 4s.",
+      "de": "Erhöht Rosarias Angriffs-GSW nach Auslösen eines KT mit einem ihrer Angriffe 4 s lang um 10 % und den mit Standardangriffen verursachten Schaden um 10 %.",
+      "es": "Cuando Rosaria asesta un golpe CRIT, su Vel. de Ataque y el daño de su Ataque Normal aumentan en un 10% durante 4 s.",
+      "fr": "Lorsque les attaques de Rosalia infligent un coup CRIT, sa VIT d'attaque et les DGT des attaques normales augmentent de 10 % pendant 4 s.",
+      "pt": "Depois do ataque de Rosaria causar Dano CRIT, sua Vel. de ATQ aumenta em 10% e o Dano do Ataque Normal aumenta em 10%. Esse efeito dura por 4s.",
+      "ru": "При критическом попадании скорость и урон обычной атаки Розарии повышается на 10% в течение 4 сек.",
+      "id": "Setelah Rosaria mengakibatkan serangan CRIT, ATK SPD dan DMG Normal Attack Rosaria meningkat 10% selama 4 detik.",
+      "th": "เมื่อการโจมตีของ Rosaria เกิดคริติคอล เธอจะมีความเร็วในการโจมตีเพิ่มขึ้น 10% และความเสียหายจากการโจมตีปกติเพิ่มขึ้น 10% เป็นเวลา 4 วินาที",
+      "vi": "Đòn tấn công của Rosaria sau khi tạo thành bạo kích sẽ tăng 10% tốc độ tấn công cho bản thân, sát thương tấn công thường tạo thành tăng 10%, kéo dài 4s."
+    },
+    "imgid": "constellation_1"
+  },
+  {
+    "title": {
+      "zhs": "无福之地",
+      "zht": "無福之地",
+      "jp": "無福の地",
+      "ko": "축복이 끊긴 땅",
+      "en": "Land Without Promise",
+      "de": "Land des Unheils",
+      "es": "Tierra de los herejes",
+      "fr": "Terre sacrée",
+      "pt": "Terra Profana",
+      "ru": "Несчастная земля",
+      "id": "Land Without Promise",
+      "th": "Land Without Promise",
+      "vi": "Vùng Đất Bất Hạnh"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>终命的圣礼</color>创造的冰枪持续时间延长4秒。",
+      "zht": "<color=#FFD780FF>終命的聖禮</color>創造的冰槍持續時間延長4秒。",
+      "jp": "<color=#FFD780FF>臨終の聖礼</color>で創られる氷槍の継続時間+4秒。",
+      "ko": "<color=#FFD780FF>죽음의 성례</color>로 생성된 얼음 창의 지속 시간이 4초 증가한다",
+      "en": "The duration of the Ice Lance created by <color=#FFD780FF>Rites of Termination</color> is increased by 4s.",
+      "de": "Verlängert die Wirkungsdauer der mit <color=#FFD780FF>Letzte Salbung</color> erschaffenen Eislanze um 4 s.",
+      "es": "Aumenta en 4 s la duración de la lanza helada creada mediante <color=#FFD780FF>Extremaunción</color>.",
+      "fr": "Prolonge la durée de la lance de glace de <color=#FFD780FF>Sacrement mortel</color> de 4 s.",
+      "pt": "O Dano causado pela Lança de Gelo de <color=#FFD780FF>Ritos de Terminação</color> é estendido em 4s.",
+      "ru": "Увеличивает длительность существования Ледяного копья навыка <color=#FFD780FF>Обряд кончины</color> на 4 сек.",
+      "id": "Durasi Ice Lance yang terbentuk dari Talenta <color=#FFD780FF>Rites of Termination</color> bertambah 4 detik.",
+      "th": "ช่วงเวลาคงอยู่ของหอกน้ำแข็งที่ <color=#FFD780FF>Rites of Termination</color> สร้างจะเพิ่มขึ้น 4 วินาที",
+      "vi": "Thời gian Thương Băng do <color=#FFD780FF>Thánh Lễ Cuối Cùng</color> tạo ra kéo dài thêm 4s"
+    },
+    "imgid": "constellation_2"
+  },
+  {
+    "title": {
+      "zhs": "告解之仪",
+      "zht": "告解之儀",
+      "jp": "懺悔の儀",
+      "ko": "고해의 의식",
+      "en": "The Wages of Sin",
+      "de": "Beichtritual",
+      "es": "Sacramento de la penitencia",
+      "fr": "Rite de confession",
+      "pt": "Ritual de Confissão",
+      "ru": "Таинство покаяния",
+      "id": "The Wages of Sin",
+      "th": "The Wages of Sin",
+      "vi": "Buổi Lễ Xưng Tội"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>噬罪的告解</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>噬罪的告解</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>罪喰いの懺悔</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>죄를 삼키는 고해</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Ravaging Confession</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Erschütterndes Geständnis</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Confesión impronunciable</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Confession des péchés</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o nível da habilidade <color=#FFD780FF>Confissão Desoladora</color> em 3.\nO nível máximo é 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Казнящая исповедь</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Ravaging Confession</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Ravaging Confession</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Lời Cáo Tội</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_3"
+  },
+  {
+    "title": {
+      "zhs": "苦痛恩典",
+      "zht": "苦痛恩典",
+      "jp": "苦痛の恩典",
+      "ko": "고통의 은혜",
+      "en": "Painful Grace",
+      "de": "Bittere Gnade",
+      "es": "Consagración del sufrimiento",
+      "fr": "Souffrance bénie",
+      "pt": "Graça do Sofrimento",
+      "ru": "Благодатные муки",
+      "id": "Painful Grace",
+      "th": "Painful Grace",
+      "vi": "Ân Điển Đau Khổ"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>噬罪的告解</color>造成暴击时，为罗莎莉亚自己恢复5点元素能量。\n每次噬罪的告解至多触发1次该效果。",
+      "zht": "<color=#FFD780FF>噬罪的告解</color>造成暴擊時，為蘿莎莉亞自己恢復5點元素能量。\n每次噬罪的告解至多觸發一次該效果。",
+      "jp": "<color=#FFD780FF>罪喰いの懺悔</color>で会心が発生すると、ロサリア自身の元素エネルギーが5回復する。\nこの効果は、1回の罪喰いの懺悔で1度のみ発動可能。",
+      "ko": "<color=#FFD780FF>죄를 삼키는 고해</color>로 치명타를 입히면, 로자리아 자신의 원소 에너지가 5pt 회복된다.\n죄를 삼키는 고해는 해당 효과를 매번 최대 1번 발동한다",
+      "en": "<color=#FFD780FF>Ravaging Confession</color>'s CRIT Hits regenerate 5 Energy for Rosaria.\nCan only be triggered once each time Ravaging Confession is cast.",
+      "de": "Stellt Rosaria beim Auslösen eines KT mit <color=#FFD780FF>Erschütterndes Geständnis</color> 5 punkte Elementarenergie wieder her.\nDieser Effekt kann pro Erschütterndes Geständnis nur 1-mal ausgelöst werden.",
+      "es": "Al asestar un golpe CRIT con <color=#FFD780FF>Confesión impronunciable</color>, Rosaria recupera 5 pts. de Energía Elemental.\nEste efecto solo puede activarse 1 vez con cada Confesión impronunciable.",
+      "fr": "Rosalia récupère 5 pts d'énergie élémentaire lorsque <color=#FFD780FF>Confession des péchés</color> inflige un coup CRIT.\nCet effet ne peut être déclenché qu'une fois par Confession des péchés.",
+      "pt": "Quando a habilidade <color=#FFD780FF>Confissão Desoladora</color> causa um golpe CRIT, Rosaria regenera 5 pontos de Energia Elemental.\nEsse efeito só pode ocorrer uma vez quando a Confissão Desoladora é lançada.",
+      "ru": "Крит. попадания навыка <color=#FFD780FF>Казнящая исповедь</color> восстанавливают 5 ед. энергии Розарии.\nМожет возникнуть не более 1 раза за каждое использование навыка Казнящая исповедь.",
+      "id": "Serangan CRIT <color=#FFD780FF>Ravaging Confession</color> memulihkan 5 Energy Rosaria.\nHanya dapat terpicu setiap Ravaging Confession dilancarkan.",
+      "th": "เมื่อ <color=#FFD780FF>Ravaging Confession</color> เกิดคริติคอล จะทำการฟื้นฟูพลังงานธาตุ 5 หน่วย ให้แก่ตัวของ Rosaria เอง\nRavaging Confession แต่ละครั้งจะสามารถปล่อยเอฟเฟกต์นี้ได้มากสุด 1 ครั้ง",
+      "vi": "Khi <color=#FFD780FF>Lời Cáo Tội</color> tạo thành bạo kích, hồi 5 điểm năng lượng nguyên tố cho bản thân Rosaria.\nMỗi lần Lời Cáo Tội nhiều nhất kích hoạt 1 lần hiệu quả này."
+    },
+    "imgid": "constellation_4"
+  },
+  {
+    "title": {
+      "zhs": "临终祈礼",
+      "zht": "臨終祈禮",
+      "jp": "臨終の祈り",
+      "ko": "종부성사",
+      "en": "Last Rites",
+      "de": "Letztes Gebet",
+      "es": "Oración final",
+      "fr": "Prière agonisante",
+      "pt": "Oração do Decesso",
+      "ru": "Предсмертная молитва",
+      "id": "Last Rites",
+      "th": "Last Rites",
+      "vi": "Lời Nguyện Lúc Lâm Chung"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>终命的圣礼</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>終命的聖禮</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>臨終の聖礼</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>죽음의 성례</color> 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Rites of Termination</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Letzte Salbung</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Extremaunción</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Sacrement mortel</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o nível da habilidade <color=#FFD780FF>Ritos de Terminação</color> em 3.\nO nível máximo é 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Обряд кончины</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Rites of Termination</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลของสกิล <color=#FFD780FF>Rites of Termination</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Thánh Lễ Cuối Cùng</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_5"
+  },
+  {
+    "title": {
+      "zhs": "代行裁判",
+      "zht": "代行裁判",
+      "jp": "代行裁判",
+      "ko": "재판의 대행인",
+      "en": "Divine Retribution",
+      "de": "Im Namen der Götter",
+      "es": "Juicio divino",
+      "fr": "Châtiment divin",
+      "pt": "Julgamento Divino",
+      "ru": "Божественный суд",
+      "id": "Divine Retribution",
+      "th": "Divine Retribution",
+      "vi": "Thay Trời Hành Đạo"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>终命的圣礼</color>的攻击会使敌人的物理抗性降低20%，持续10秒。",
+      "zht": "<color=#FFD780FF>終命的聖禮</color>的攻擊會使敵人的物理抗性降低20%，持續10秒。",
+      "jp": "<color=#FFD780FF>臨終の聖礼</color>の攻撃が敵に命中すると、敵の物理耐性-20%、継続時間10秒。",
+      "ko": "<color=#FFD780FF>죽음의 성례</color> 공격은 적의 물리 내성을 20% 감소시킨다. 지속 시간: 10초",
+      "en": "<color=#FFD780FF>Rites of Termination</color>'s attack decreases opponents' Physical RES by 20% for 10s.",
+      "de": "Verringert mit den Angriffen von <color=#FFD780FF>Letzte Salbung</color> den physischen WDS von Gegnern 10 s lang um 20 %.",
+      "es": "Atacar a un enemigo con <color=#FFD780FF>Extremaunción</color> reduce su RES Física en un 20% durante 10 s.",
+      "fr": "Les attaques de <color=#FFD780FF>Sacrement mortel</color> réduisent la RÉS physique des ennemis de 20 % pendant 10 s.",
+      "pt": "Os ataques de <color=#FFD780FF>Ritos de Terminação</color> reduzirão a RES Física dos Inimigos em 20% por 10s.",
+      "ru": "Атаки навыка <color=#FFD780FF>Обряд кончины</color> понижают физ. сопротивление врагов на 20% в течение 10 сек.",
+      "id": "Serangan dari <color=#FFD780FF>Rites of Termination</color> dapat mengurangi 20% Physical RES musuh selama 10 detik.",
+      "th": "การโจมตีของ <color=#FFD780FF>Rites of Termination</color> จะทำให้ความต้านทานกายภาพของศัตรูลดลง 20% เป็นเวลา 10 วินาที",
+      "vi": "Đòn tấn công của <color=#FFD780FF>Thánh Lễ Cuối Cùng</color> sẽ khiến kháng vật lý của địch giảm 20%, kéo dài 10s."
+    },
+    "imgid": "constellation_6"
+  }
+]

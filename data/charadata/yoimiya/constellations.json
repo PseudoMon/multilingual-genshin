@@ -1,0 +1,200 @@
+[
+  {
+    "title": {
+      "zhs": "赤玉琉金",
+      "zht": "赤玉琉金",
+      "jp": "紅玉の琉金",
+      "ko": "적옥의 유금",
+      "en": "Agate Ryuukin",
+      "de": "Ryuukin in Rot",
+      "es": "Cornalina dorada",
+      "fr": "Agate Ryuukin",
+      "pt": "Ágata Ryuukin",
+      "ru": "Агатовый рюкин",
+      "id": "Agate Ryuukin",
+      "th": "Agate Ryuukin",
+      "vi": "Xích Ngọc Lưu Kim"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>琉金云间草</color>的琉金火光持续时间延长4秒。\n此外，处于宵宫自己的琉金火光影响下的敌人在持续期间内被击败时，宵宫的攻击力提高20%，持续20秒。",
+      "zht": "<color=#FFD780FF>琉金雲間草</color>的琉金火光持續時間延長4秒。\n此外，處於宵宮自己的琉金火光影響下的敵人在持續期間內被擊敗時，宵宮的攻擊力提高20%，持續20秒。",
+      "jp": "<color=#FFD780FF>琉金の雲間草</color>の琉金の炎の継続時間+4秒。\nまた、宵宮自身が発動した琉金の炎の影響を受けた敵が継続時間内に倒されると、宵宮の攻撃力+20%、継続時間20秒。",
+      "ko": "<color=#FFD780FF>유금 운간초</color>의 유금화광 지속 시간이 4초 증가한다.\n요이미야의 유금화광 상태의 적이 효과 지속 시간 내에 처치되면, 요이미야의 공격력이 20% 증가한다. 지속 시간: 20초",
+      "en": "The Aurous Blaze created by <color=#FFD780FF>Ryuukin Saxifrage</color> lasts for an extra 4s.\nAdditionally, when an opponent affected by Aurous Blaze is defeated within its duration, Yoimiya's ATK is increased by 20% for 20s.",
+      "de": "Verlängert die Wirkungsdauer der Ryuukin-Lohe von <color=#FFD780FF>Ryuukin-Steinbrech</color> um 4 s.\nErhöht beim Besiegen von Yoimiyas eigener Ryuukin-Lohe betroffener Gegner während der Wirkungsdauer der Ryuukin-Lohe Yoimiyas ANG 20 s lang um 20 %.",
+      "es": "Aumenta en 4 s la duración de la ascua dorada aplicada mediante <color=#FFD780FF>Saxifraga de oro</color>.\nAdemás, cuando un enemigo afectado por ascua dorada es derrotado, el ATQ de Yoimiya aumenta en un 20% durante 20 s.",
+      "fr": "Prolonge la durée de la Flamme Ryuukin générée par <color=#FFD780FF>Saxifrage Ryuukin</color> de 4 s.\nDe plus, lorsqu'un ennemi affecté par Flamme Ryuukin est vaincu pendant la durée de l'effet, l'ATQ de Yoimiya augmente de 20 % pendant 20 s.",
+      "pt": "A Flama Dourada criada pela <color=#FFD780FF>Saxifraga Ryuukin</color> ganha um aumento de 4s de duração. \nAlém disso, quando um inimigo afetado pela Flama Dourada é derrotado, o ATQ da Yoimiya é aumentado em 20% por 20s.",
+      "ru": "Длительность Взрыва золотого сияния, вызванного навыком <color=#FFD780FF>Камнеломка Рюкин</color>, увеличена на 4 сек.\nТакже победа над противником, находящимся под эффектом Взрыва золотого сияния, во время длительности этого эффекта увеличивает силу атаки Ёимии на 20% в течение 20 сек.",
+      "id": "Durasi Aurous Blaze yang tercipta dari <color=#FFD780FF>Ryuukin Saxifrage</color> bertahan 4 detik lebih lama.\nSelain itu, jika musuh yang terkena efek Aurous Blaze dikalahkan selama durasi masih berlangsung, ATK Yoimiya akan meningkat 20% selama 20 detik.",
+      "th": "ช่วงเวลาต่อเนื่องของ Aurous Blaze ที่สร้างขึ้นโดย <color=#FFD780FF>Ryuukin Saxifrage</color> นานขึ้น 4 วินาที\nนอกจากนี้ เมื่อศัตรูที่อยู่ภายใต้ผลกระทบของ Aurous Blaze ที่สร้างขึ้นโดยตัวของ Yoimiya เองถูกจัดการภายในช่วงเวลาต่อเนื่อง พลังโจมตีของ Yoimiya จะเพิ่มขึ้น 20% เป็นเวลา 20 วินาที",
+      "vi": "Thời gian kéo dài Lưu Kim Hỏa Quang của <color=#FFD780FF>Cỏ Ryukin</color> tăng 4s.\nNgoài ra, khi kẻ địch chịu ảnh hưởng bởi Lưu Kim Hỏa Quang của Yoimiya bị hạ gục trong thời gian duy trì, tấn công của Yoimiya sẽ tăng 20%, kéo dài 20s."
+    },
+    "imgid": "constellation_1"
+  },
+  {
+    "title": {
+      "zhs": "万灯送火",
+      "zht": "萬燈送火",
+      "jp": "万燈の火",
+      "ko": "만등 점화",
+      "en": "A Procession of Bonfires",
+      "de": "Feuernder Umzug",
+      "es": "Procesión de las antorchas",
+      "fr": "Procession de feux de joie",
+      "pt": "Procissão de Fogueiras",
+      "ru": "Шествие тысячи огней",
+      "id": "A Procession of Bonfires",
+      "th": "A Procession of Bonfires",
+      "vi": "Biển Đèn Đưa Lửa"
+    },
+    "description": {
+      "zhs": "宵宫的<color=#FF9999FF>火元素伤害</color>造成暴击后的6秒内，宵宫获得25%<color=#FF9999FF>火元素伤害加成</color>。\n宵宫处于队伍后台时，同样能获得该效果。",
+      "zht": "宵宮的<color=#FF9999FF>火元素傷害</color>造成暴擊後的6秒內，宵宮獲得25%<color=#FF9999FF>火元素傷害加成</color>。\n宵宮處於隊伍後臺時，同樣能獲得該效果。",
+      "jp": "宵宮の<color=#FF9999FF>炎元素ダメージ</color>で会心が発生した後の6秒間、宵宮の<color=#FF9999FF>炎元素ダメージ</color>+25%。\n宵宮が待機している場合にも効果を発動できる。",
+      "ko": "요이미야의 <color=#FF9999FF>불 원소 피해</color>가 치명타를 입힌 후, 요이미야는 6초 동안 25%의 <color=#FF9999FF>불 원소 피해 보너스</color>를 획득한다.\n요이미야가 대기 상태일 때도 해당 효과를 획득할 수 있다",
+      "en": "When Yoimiya's <color=#FF9999FF>Pyro DMG</color> scores a CRIT Hit, Yoimiya will gain a 25% <color=#FF9999FF>Pyro DMG Bonus</color> for 6s.\nThis effect can be triggered even when Yoimiya is not the active character.",
+      "de": "Erhöht beim Verursachen von KT mit Yoimiyas <color=#FF9999FF>Pyro-Schaden</color> Yoimiyas <color=#FF9999FF>Pyro-Schaden</color> 6 s lang um 25 %.\nDer Effekt bleibt auch bestehen, wenn Yoimiya ausgewechselt wird.",
+      "es": "Cuando Yoimiya asesta un golpe CRIT de <color=#FF9999FF>Daño Pyro</color>, obtiene un 25% de <color=#FF9999FF>Bono de Daño Pyro</color> durante 6 s.\nSi Yoimiya está en tu equipo pero no en combate, podrá seguir recibiendo este bono.",
+      "fr": "Lorsque les <color=#FF9999FF>DGT Pyro</color> infligés par Yoimiya résultent en un coup CRIT, cette dernière obtient pendant 6 s un <color=#FF9999FF>bonus de DGT Pyro</color> de 25 %.\nCet effet s'applique également lorsque Yoimiya fait partie de l'équipe mais n'est pas déployée.",
+      "pt": "Dentro de 6s após Yoimiya causar CRIT com o <color=#FF9999FF>Dano Pyro</color>, Yoimiya obtém 25% de <color=#FF9999FF>Dano Pyro Adicional</color>.\nYoimiya pode obter esse efeito mesmo fora de campo.",
+      "ru": "Крит. попадание <color=#FF9999FF>Пиро уроном</color> Ёимии даёт ей 25% <color=#FF9999FF>бонус Пиро урона</color> на 6 сек.\nЭтот эффект может быть активирован, даже когда Ёимия не является активным персонажем.",
+      "id": "Saat <color=#FF9999FF>Pyro DMG</color> Yoimiya mengakibatkan serangan CRIT, Yoimiya akan mendapatkan 25% <color=#FF9999FF>Pyro DMG Bonus</color> selama 6 detik.\nEfek ini tetap dapat terpicu meskipun Yoimiya tidak berada di medan pertempuran.",
+      "th": "ภายใน 6 วินาที หลังจากที่ <color=#FF9999FF>ความเสียหายไฟ</color>ของ Yoimiya เกิดคริติคอล Yoimiya จะได้รับ <color=#FF9999FF>โบนัสความเสียหายไฟ</color> 25%\nเอฟเฟกต์ดังกล่าวยังคงเกิดขึ้น แม้ Yoimiya อยู่ในทีมแต่ไม่ได้เข้าร่วมการต่อสู้ก็ตาม",
+      "vi": "Trong vòng 6s sau khi <color=#FF9999FF>sát thương Nguyên Tố Hỏa</color> của Yoimiya gây ra bạo kích, Yoimiya sẽ nhận 25% <color=#FF9999FF>buff sát thương Nguyên Tố Hỏa</color>.\nKhi Yoimiya ở trong đội nhưng không ra trận cũng sẽ nhận hiệu quả này."
+    },
+    "imgid": "constellation_2"
+  },
+  {
+    "title": {
+      "zhs": "鼠火戏法",
+      "zht": "鼠火戲法",
+      "jp": "鼠花火の手品",
+      "ko": "쥐불놀이",
+      "en": "Trickster's Flare",
+      "de": "Unruhiges Flackern",
+      "es": "Llama de la astucia",
+      "fr": "Flammes ingénieuses",
+      "pt": "Chamas da Malandra",
+      "ru": "Пламя трюкача",
+      "id": "Trickster's Flare",
+      "th": "Trickster's Flare",
+      "vi": "Ảo Thuật Che Mắt"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>焰硝庭火舞</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>焰硝庭火舞</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>焔硝の庭火舞い</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>염초 정화(庭火)의 춤</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Niwabi Fire-Dance</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Niwabi-Feuertanz</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Danza de la pólvora</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Danse du feu « Niwabi »</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o nível da <color=#FFD780FF>Dança de Fogo Niwabi</color> em 3 níveis.\nSendo o nível máximo de elevação 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Огненный танец Ниваби</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Niwabi Fire-Dance</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Niwabi Fire-Dance</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Điệu Nhảy Niwabi Cháy Bỏng</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_3"
+  },
+  {
+    "title": {
+      "zhs": "花火职人心得",
+      "zht": "花火職人心得",
+      "jp": "花火職人の心得",
+      "ko": "폭죽장인의 깨달음",
+      "en": "Pyrotechnic Professional",
+      "de": "Versierte Pyrotechnik",
+      "es": "Conocimiento pirotécnico",
+      "fr": "Pro de la pyrotechnie",
+      "pt": "Profissional Pirotécnica",
+      "ru": "Профессиональный пиротехник",
+      "id": "Pyrotechnic Professional",
+      "th": "Pyrotechnic Professional",
+      "vi": "Chuyên Viên Pháo Hoa"
+    },
+    "description": {
+      "zhs": "宵宫自己的琉金火光发生爆炸时，<color=#FFD780FF>焰硝庭火舞</color>的冷却时间减少1.2秒。",
+      "zht": "宵宮自己的琉金火光發生爆炸時，<color=#FFD780FF>焰硝庭火舞</color>的冷卻時間減少1.2秒。",
+      "jp": "宵宮自身が発動した琉金の炎が爆発を起こすと、<color=#FFD780FF>焔硝の庭火舞い</color>のクールタイム-1.2秒。",
+      "ko": "요이미야 자신의 유금화광이 폭발할 때 <color=#FFD780FF>염초 정화(庭火)의 춤</color>의 재사용 대기시간이 1.2초 감소한다",
+      "en": "When Yoimiya's own Aurous Blaze triggers an explosion, <color=#FFD780FF>Niwabi Fire-Dance</color>'s CD is decreased by 1.2s.",
+      "de": "Verkürzt beim Explodieren der von Yoimiya selbst erschaffenen Ryuukin-Lohe die Abklingzeit von <color=#FFD780FF>Niwabi-Feuertanz</color> um 1.2 s.",
+      "es": "Cada explosión de ascua dorada de Yoimiya reduce en 1.2 s el TdE de <color=#FFD780FF>Danza de la pólvora</color>.",
+      "fr": "Réduit le TdR de <color=#FFD780FF>Danse du feu « Niwabi »</color> de 1,2 s lorsque Flamme Ryuukin de Yoimiya déclenche une explosion.",
+      "pt": "Quando a Flama Dourada da Yoimiya explode, restaura a Recarga da <color=#FFD780FF>Dança de Fogo Niwabi</color> em 1.2s.",
+      "ru": "Когда Взрыв золотого сияния Ёимии вызывает взрыв, время отката навыка <color=#FFD780FF>Огненный танец Ниваби</color> уменьшается на 1,2 сек.",
+      "id": "Saat Aurous Blaze milik Yoimiya sendiri memicu ledakan, CD <color=#FFD780FF>Niwabi Fire-Dance</color> akan berkurang 1,2 detik.",
+      "th": "เมื่อ Aurous Blaze ของตัว Yoimiya เองเกิดการระเบิด เวลาคูลดาวน์ของ <color=#FFD780FF>Niwabi Fire-Dance</color> จะลดลง 1.2 วินาที",
+      "vi": "Khi Lưu Kim Hỏa Quang của Yoimiya phát nổ, CD của <color=#FFD780FF>Điệu Nhảy Niwabi Cháy Bỏng</color> giảm 1.2s."
+    },
+    "imgid": "constellation_4"
+  },
+  {
+    "title": {
+      "zhs": "真夏宵祭锦绘",
+      "zht": "真夏宵祭錦繪",
+      "jp": "真夏の宵祭り錦絵",
+      "ko": "한여름의 전야제",
+      "en": "A Summer Festival's Eve",
+      "de": "Sommerlicher Festabend",
+      "es": "Noche del festival de verano",
+      "fr": "Nuit d'un festival d'été",
+      "pt": "Véspera de um Festival de Verão",
+      "ru": "Канун летнего фестиваля",
+      "id": "A Summer Festival's Eve",
+      "th": "A Summer Festival's Eve",
+      "vi": "Đêm Hội Mùa Hè"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>琉金云间草</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>琉金雲間草</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>琉金の雲間草</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>유금 운간초</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Ryuukin Saxifrage</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Ryuukin-Steinbrech</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Saxifraga de oro</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Saxifrage Ryuukin</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o nível da <color=#FFD780FF>Saxifraga Ryuukin</color> em 3 níveis.\nSendo o nível máximo de elevação 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Камнеломка Рюкин</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Ryuukin Saxifrage</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Ryuukin Saxifrage</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Cỏ Ryukin</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_5"
+  },
+  {
+    "title": {
+      "zhs": "长野原龙势流星群",
+      "zht": "長野原龍勢流星群",
+      "jp": "長野原龍勢流星群",
+      "ko": "나가노하라 유성군",
+      "en": "Naganohara Meteor Swarm",
+      "de": "Naganohara-Meteorstrom",
+      "es": "Lluvia de meteoros Naganohara",
+      "fr": "Pluie de météores de Naganohara",
+      "pt": "Chuva de Meteoros de Naganohara",
+      "ru": "Падающие звёзды Наганохары",
+      "id": "Naganohara Meteor Swarm",
+      "th": "Naganohara Meteor Swarm",
+      "vi": "Chòm Sao Băng Naganohara"
+    },
+    "description": {
+      "zhs": "在<color=#FFD780FF>焰硝庭火舞</color>的持续期间内，宵宫主动进行普通攻击时，有50%几率发射一枚额外的炽焰箭，造成原本60%的伤害。该伤害视为普通攻击伤害。",
+      "zht": "在<color=#FFD780FF>焰硝庭火舞</color>的持續期間內，宵宮主動進行普通攻擊時，有50%機率發射一枚額外的熾焰箭，造成原本60%的傷害。該傷害視為普通攻擊傷害。",
+      "jp": "<color=#FFD780FF>焔硝の庭火舞い</color>の継続時間中、宵宮自身の通常攻撃は50%の確率で熾焔の矢を1本追加で発射し、本来の60%分のダメージを与える。このダメージは通常攻撃ダメージとみなされる。",
+      "ko": "<color=#FFD780FF>염초 정화(庭火)의 춤</color> 지속 시간 동안 요이미야가 일반 공격을 사용하면, 50%의 확률로 염초 화살을 추가로 1발 더 발사해 기존 피해의 60%에 해당하는 피해를 준다. 해당 피해는 일반 공격 피해로 간주한다",
+      "en": "During <color=#FFD780FF>Niwabi Fire-Dance</color>, Yoimiya's Normal Attacks have a 50% chance of firing an extra Kindling Arrow that deals 60% of its original DMG. This DMG is considered Normal Attack DMG.",
+      "de": "Schießt bei aktiver Anwendung von Yoimiyas Standardangriffen während der Wirkungsdauer von <color=#FFD780FF>Niwabi-Feuertanz</color> mit einer Wahrscheinlichkeit von 50 % einen zusätzlichen entzündeten Pfeil ab und verursacht damit 60 % des eigentlichen Schadens. Dieser Schaden gilt als Standardangriffsschaden.",
+      "es": "Cuando Yoimiya realiza un Ataque Normal mientras <color=#FFD780FF>Danza de la pólvora</color> está activa, hay una probabilidad del 50% de disparar una flecha flamígera adicional, la cual inflige un 60% del daño original. Este daño se considera daño de Ataque Normal.",
+      "fr": "#Tant que <color=#FFD780FF>Danse du feu «{NON_BREAK_SPACE}Niwabi »</color> est active, les attaques normales de Yoimiya ont 50 % de chances de libérer une flèche enflammée supplémentaire qui inflige 60 % des DGT d'origine. Ces DGT sont considérés comme des DGT d'attaque normale.",
+      "pt": "Durante a <color=#FFD780FF>Dança de Fogo Niwabi</color>, os Ataques Normais de Yoimiya têm 50% de chance de disparar uma Flecha Ardente extra que causa 60% de seu Dano original. Este Dano é considerado Dano de Ataque Normal.",
+      "ru": "Во время действия навыка <color=#FFD780FF>Огненный танец Ниваби</color> обычные атаки Ёимии имеют 50% шанс пустить дополнительную зажигательную стрелу, которая наносит 60% от первоначального урона. Этот урон считается уроном обычной атаки.",
+      "id": "Selama durasi <color=#FFD780FF>Niwabi Fire-Dance</color>, Normal Attack Yoimiya memiliki 50% kemungkinan menembakkan Blazing Arrow tambahan yang mengakibatkan 60% DMG aslinya. DMG ini terhitung sebagai Normal Attack DMG.",
+      "th": "ภายในช่วงเวลาต่อเนื่องของ <color=#FFD780FF>Niwabi Fire-Dance</color> เมื่อ Yoimiya ใช้การโจมตีปกติ จะมีโอกาส 50% ที่จะยิง Blazing Arrow ที่สร้างความเสียหายเป็น 60% จากของเดิมเพิ่มอีกหนึ่งดอก โดยที่ความเสียหายนี้จะถูกมองว่าเป็นความเสียหายจากการโจมตีปกติ",
+      "vi": "Trong thời gian duy trì của <color=#FFD780FF>Điệu Nhảy Niwabi Cháy Bỏng</color>, khi Yoimiya chủ động thực hiện tấn công thường sẽ có 50% tỷ lệ bắn thêm 1 mũi tên lửa, gây sát thương bằng 60% sát thương ban đầu. Sát thương này xem như sát thương tấn công thường."
+    },
+    "imgid": "constellation_6"
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "title": {
+      "zhs": "飞身趟马",
+      "zht": "飛身趟馬",
+      "jp": "飛身趟馬",
+      "ko": "노련한 승마술",
+      "en": "Thespian Gallop",
+      "de": "Fliegender Gallopp",
+      "es": "Galope dramático",
+      "fr": "Galop vaudevillesque",
+      "pt": "Galope Veloz",
+      "ru": "Театральный галоп",
+      "id": "Thespian Gallop",
+      "th": "Thespian Gallop",
+      "vi": "Phi Thân Thang Mã"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>旋云开相</color>的冷却时间减少18%。",
+      "zht": "<color=#FFD780FF>旋雲開相</color>的冷卻時間減少18%。",
+      "jp": "<color=#FFD780FF>旋雲開相</color>のクールタイム-18%。",
+      "ko": "<color=#FFD780FF>선운개상</color>의 재사용 대기시간이 18% 감소한다",
+      "en": "<color=#FFD780FF>Opening Flourish's</color> CD is decreased by 18%.",
+      "de": "Verkürzt die Abklingzeit von <color=#FFD780FF>Wolkenöffnung</color> um 18 %.",
+      "es": "El TdE de <color=#FFD780FF>Disipadora de nimbos</color> se reduce en un 18%.",
+      "fr": "Réduit le TdR d'<color=#FFD780FF>Épanouissement ouvert</color> de 18 %.",
+      "pt": "O Tempo de Recarga de <color=#FFD780FF>Abertura Deslumbrante</color> é reduzido em 18%.",
+      "ru": "Уменьшает время отката навыка <color=#FFD780FF>Вихревое представление</color> на 18%.",
+      "id": "Mengurangi 18% CD <color=#FFD780FF>Opening Flourish</color>.",
+      "th": "ลดเวลาคูลดาวน์ของ <color=#FFD780FF>Opening Flourish</color> ลง 18%",
+      "vi": "<color=#FFD780FF>Toàn Vân Khai Tương</color> giảm 18% thời gian CD."
+    },
+    "imgid": "constellation_1"
+  },
+  {
+    "title": {
+      "zhs": "诸般切末",
+      "zht": "諸般切末",
+      "jp": "諸般切末",
+      "ko": "다양한 소품",
+      "en": "Myriad Mise-En-Scène",
+      "de": "Unzählige Requisiten",
+      "es": "Atrezo",
+      "fr": "Myriade d'accessoires",
+      "pt": "Miríade de Adereços",
+      "ru": "Мириады мизансцен",
+      "id": "Myriad Mise-En-Scène",
+      "th": "Myriad Mise-En-Scène",
+      "vi": "Chư Bàn Thiết Mạt"
+    },
+    "description": {
+      "zhs": "施放<color=#FFD780FF>破嶂见旌仪</color>后，附近队伍中所有角色普通攻击造成的伤害提升15%，持续12秒。",
+      "zht": "施放<color=#FFD780FF>破嶂見旌儀</color>後，附近隊伍中所有角色普通攻擊造成的傷害提升15%，持續12秒。",
+      "jp": "<color=#FFD780FF>破嶂の旌儀</color>発動後、周囲チーム全員の通常攻撃ダメージ+15%、継続時間12秒。",
+      "ko": "<color=#FFD780FF>「절벽을 깎는 깃발」</color> 발동 후, 주변의 파티 내 모든 캐릭터가 일반 공격으로 가하는 피해가 15% 증가한다. 지속 시간: 12초",
+      "en": "After <color=#FFD780FF>Cliffbreaker's Banner</color> is unleashed, all nearby party members' Normal Attack DMG is increased by 15% for 12s.",
+      "de": "Erhöht nach dem Auslösen von <color=#FFD780FF>Banner der brechenden Klippen</color> den mit Standardangriffen aller Truppenmitglieder verursachten Schaden 12 s lang um 15 %.",
+      "es": "Después de usar <color=#FFD780FF>Estandarte romperrocas</color>, el daño de los Ataques Normales de todos los miembros del equipo cercanos aumenta en un 15% durante 12 s.",
+      "fr": "Après avoir utilisé <color=#FFD780FF>Bannière de rupture des falaises</color>, les DGT des attaques normales de tous les personnages de l'équipe à proximité augmentent de 15 % pendant 12 s.",
+      "pt": "Quando a <color=#FFD780FF>Bandeira Quebra-Rochas</color> é usada, o Dano do Ataque Normal de todos os membros da equipe próximos é aumentado em 15% por 12s.",
+      "ru": "При применении <color=#FFD780FF>Стяга разрушителя скал</color> урон обычной атаки всех ближайших членов отряда увеличивается на 15% на 12 сек.",
+      "id": "Setelah melancarkan <color=#FFD780FF>Cliffbreaker's Banner</color>, DMG Normal Attack seluruh anggota party di sekitar meningkat 15% selama 12 detik.",
+      "th": "หลังจากใช้ <color=#FFD780FF>Cliffbreaker's Banner</color> การโจมตีปกติของตัวละครทั้งหมดในทีม ที่อยู่ในบริเวณใกล้เคียง จะสร้างความเสียหายเพิ่มขึ้น 15% เป็นเวลา 12 วินาที",
+      "vi": "Sau khi thi triển <color=#FFD780FF>Phá Chướng Kiến Tinh Nghi</color>, sát thương đánh thường tạo ra từ tất cả nhân vật trong đội gần đó tăng 15%, duy trì 12s."
+    },
+    "imgid": "constellation_2"
+  },
+  {
+    "title": {
+      "zhs": "牙纛探海",
+      "zht": "牙纛探海",
+      "jp": "牙纛探海",
+      "ko": "장군의 몸동작",
+      "en": "Seafaring General",
+      "de": "Flagge auf dem Mast",
+      "es": "Bandera marítima",
+      "fr": "Drapeau maritime",
+      "pt": "Bandeira Marítima",
+      "ru": "Морской поход",
+      "id": "Seafaring General",
+      "th": "Seafaring General",
+      "vi": "Nha Đạo Thám Hải"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>破嶂见旌仪</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>破嶂見旌儀</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>破嶂の旌儀</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>절벽을 깎는 깃발</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Cliffbreaker's Banner</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Banner der brechenden Klippen</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Estandarte romperrocas</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Bannière de rupture des falaises</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o nível de <color=#FFD780FF>Bandeira Quebra-rochas</color> em 3.\nNível máximo de elevação é 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Стяг разрушителя скал</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Cliffbreaker's Banner</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Cliffbreaker's Banner</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Phá Chướng Kiến Tinh Nghi</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_3"
+  },
+  {
+    "title": {
+      "zhs": "昇堂吊云",
+      "zht": "昇堂吊雲",
+      "jp": "昇堂吊雲",
+      "ko": "승당의 경지",
+      "en": "Flower and a Fighter",
+      "de": "Auf in die Wolken",
+      "es": "Pose bélica",
+      "fr": "Le tranchant d'une fleur",
+      "pt": "Flor e Lutadora",
+      "ru": "Цветок и воин",
+      "id": "Flower and a Fighter",
+      "th": "Flower and a Fighter",
+      "vi": "Thăng Đường Điếu Vân"
+    },
+    "description": {
+      "zhs": "云堇触发结晶反应后，防御力提升20%，持续12秒。",
+      "zht": "雲堇觸發結晶反應後，防禦力提升20%，持續12秒。",
+      "jp": "雲菫が結晶反応を起こすと防御力+20%、継続時間12秒。",
+      "ko": "운근이 결정 반응을 발동하면 방어력이 20% 증가한다. 지속 시간: 12초",
+      "en": "When Yun Jin triggers the Crystallize Reaction, her DEF is increased by 20% for 12s.",
+      "de": "Erhöht nach dem Auslösen der Reaktion Kristallisation durch Yun Jin die VTD 12 s lang um 20 %.",
+      "es": "Cuando Yun Jin causa una reacción de Cristalización, su DEF aumenta en un 20% durante 12 s.",
+      "fr": "#Lorsque Yun Jin déclenche une réaction de Cristallisation, sa DÉF augmente de 20 % pendant 12{NON_BREAK_SPACE}s.",
+      "pt": "Quando Yunjin desencadeia Cristalização, sua DEF aumenta 20% por 12s.",
+      "ru": "После того как Юнь Цзинь вызывает реакцию Кристалл, защита на 12 сек. возрастает на 20%.",
+      "id": "Setelah Yun Jin memicu reaksi Crystallize, DEF Yun Jin meningkat 20% selama 12 detik.",
+      "th": "หลังจาก Yun Jin ทำให้เกิดปฏิกิริยาการตกผลึก พลังป้องกันจะเพิ่มขึ้น 20% เป็นเวลา 12 วินาที",
+      "vi": "Sau khi Yun Jin kích hoạt phản ứng kết tinh, sức phòng ngự tăng 20%, duy trì 12s."
+    },
+    "imgid": "constellation_4"
+  },
+  {
+    "title": {
+      "zhs": "翘楚名坤",
+      "zht": "翹楚名坤",
+      "jp": "翹楚名坤",
+      "ko": "걸출한 명배우",
+      "en": "Famed Throughout the Land",
+      "de": "Überall bekannt",
+      "es": "Fama internacional",
+      "fr": "Célébrité à travers les terres",
+      "pt": "Fama Mundial",
+      "ru": "Мировая слава",
+      "id": "Famed Throughout the Land",
+      "th": "Famed Throughout the Land",
+      "vi": "Kiều Sở Danh Khôn"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>旋云开相</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>旋雲開相</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>旋雲開相</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>선운개상</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Opening Flourish</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Wolkenöffnung</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Disipadora de nimbos</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Épanouissement ouvert</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o nível de <color=#FFD780FF>Abertura Deslumbrante</color> em 3.\nNível máximo de elevação é 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Вихревое представление</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Opening Flourish</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Opening Flourish</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Toàn Vân Khai Tương</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_5"
+  },
+  {
+    "title": {
+      "zhs": "庄谐并举",
+      "zht": "莊諧並舉",
+      "jp": "荘諧併持",
+      "ko": "장엄하고 익살스러운 노랫소리",
+      "en": "Decorous Harmony",
+      "de": "Gemeinsame Unternehmung",
+      "es": "Armonía y decoro",
+      "fr": "Harmonie esthétique",
+      "pt": "Harmonia e Decoro",
+      "ru": "Гармоничное развитие",
+      "id": "Decorous Harmony",
+      "th": "Decorous Harmony",
+      "vi": "Trang Hài Tịnh Cử"
+    },
+    "description": {
+      "zhs": "处于<color=#FFD780FF>「飞云旗阵」</color>状态下的角色，普通攻击的攻击速度提升12%。",
+      "zht": "處於<color=#FFD780FF>「飛雲旗陣」</color>狀態下的角色，普通攻擊的攻擊速度提升12%。",
+      "jp": "<color=#FFD780FF>「飛雲旗陣」</color>状態のキャラクターの通常攻撃の攻撃速度+12%。",
+      "ko": "<color=#FFD780FF>「비운의 깃발」</color> 상태에 있는 캐릭터의 일반 공격 공격 속도가 12% 증가한다",
+      "en": "Characters under the effects of the <color=#FFD780FF>Flying Cloud Flag Formation</color> have their Normal ATK SPD increased by 12%.",
+      "de": "Erhöht die Angriffs-GSW mit Standardangriffen von Figuren im Zustand <color=#FFD780FF>Formation der Fliegenden Wolken</color> um 12 %.",
+      "es": "Aumenta en un 12% la Vel. de Ataque Normal de los personajes bajo los efectos de los <color=#FFD780FF>banderines de las nubes</color>.",
+      "fr": "Lorsqu'un personnage est affecté par une <color=#FFD780FF>formation de bannière de nuagerie</color>, la VIT d'attaque de ses attaques normales augmente de 12 %.",
+      "pt": "Personagens sob o efeito de <color=#FFD780FF>Formação da Bandeira das Nuvens</color> terão a Vel. de ATQ de seus Ataques Normais aumentada em 12%.",
+      "ru": "У персонажей в состоянии <color=#FFD780FF>Строй облачных флагов</color> скорость обычной атаки увеличивается на 12%.",
+      "id": "Meningkatkan 12% Normal ATK SPD Karakter yang berada dalam status <color=#FFD780FF>Flying Cloud Flag Formation</color>.",
+      "th": "ตัวละครที่อยู่ภายใต้สภาวะของ <color=#FFD780FF>Flying Cloud Flag Formation</color> ความเร็วของการโจมตีปกติจะเพิ่มขึ้น 12%",
+      "vi": "Nhân vật trong trạng thái <color=#FFD780FF>\"Phi Vân Kỳ Trận\"</color> sẽ tăng 12% tốc độ tấn công thường."
+    },
+    "imgid": "constellation_6"
+  }
+]

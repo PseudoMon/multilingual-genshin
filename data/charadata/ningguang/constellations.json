@@ -1,0 +1,200 @@
+[
+  {
+    "title": {
+      "zhs": "悬星尽散击云碎",
+      "zht": "懸星盡散擊雲碎",
+      "jp": "散る星の破片",
+      "ko": "부서지는 파편",
+      "en": "Piercing Fragments",
+      "de": "Berstende Splitter",
+      "es": "Fragmentos perforadores",
+      "fr": "Fragments perforants",
+      "pt": "Fragmentos Perfurantes",
+      "ru": "Пронзающие осколки",
+      "id": "Piercing Fragments",
+      "th": "Piercing Fragments",
+      "vi": "Huyền Tinh Tán Mây"
+    },
+    "description": {
+      "zhs": "普通攻击命中时，会造成范围伤害。",
+      "zht": "普通攻擊命中時，會造成範圍傷害。",
+      "jp": "通常攻撃が命中すると範囲ダメージを与える。",
+      "ko": "일반 공격 명중 시 범위 피해를 준다",
+      "en": "When a Normal Attack hits, it deals AoE DMG.",
+      "de": "Verursacht bei Treffern mit Standardangriffen Flächenschaden.",
+      "es": "Los Ataques Normales infligen daño en el AdE.",
+      "fr": "Les attaques normales qui touchent infligent des DGT de zone.",
+      "pt": "Ao acertar um Ataque Normal, causará Dano de AdE.",
+      "ru": "При попадании обычная атака наносит урон по площади.",
+      "id": "Saat Normal Attack mengenai musuh, mengakibatkan DMG Area.",
+      "th": "เมื่อโจมตีปกติถูกศัตรู จะทำให้ เกิดความเสียหายวงกว้าง",
+      "vi": "Khi tấn công thường đánh trúng kẻ địch, sẽ tạo ra sát thương phạm vi."
+    },
+    "imgid": "constellation_1"
+  },
+  {
+    "title": {
+      "zhs": "璇玑合璧镇昆仑",
+      "zht": "璇璣合璧鎮昆侖",
+      "jp": "璇璣、崑崙を鎮める",
+      "ko": "곤륜을 억누르는 선기",
+      "en": "Shock Effect",
+      "de": "Erschütterung",
+      "es": "Efecto choque",
+      "fr": "Effet de choc",
+      "pt": "Efeito de Choque",
+      "ru": "Шоковый эффект",
+      "id": "Shock Effect",
+      "th": "Shock Effect",
+      "vi": "Toàn Cơ Kết Hợp Trấn Côn Lôn"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>璇玑屏</color>碎裂时，会清除冷却时间。\n该效果每6秒只能触发一次。",
+      "zht": "<color=#FFD780FF>璇璣屏</color>碎裂時，會清除冷卻時間。\n該效果每6秒只能觸發一次。",
+      "jp": "<color=#FFD780FF>璇璣屏</color>が破裂した時、クールタイムがリセットする。\n6秒毎に1回のみ発動可能。",
+      "ko": "<color=#FFD780FF>선기 병풍</color> 파열 시 재사용 대기시간이 초기화된다.\n해당 효과는 6초마다 1회만 발동한다",
+      "en": "When <color=#FFD780FF>Jade Screen</color> is shattered, its CD will reset.\nCan occur once every 6s.",
+      "de": "Überspringt die Abklingzeit, wenn der <color=#FFD780FF>Jadeschirm</color> zerspringt.\n6 s Abklingzeit.",
+      "es": "Cuando la <color=#FFD780FF>Pantalla de jade</color> se desintegra, su TdE se elimina.\nSolo puede ocurrir una vez cada 6 s.",
+      "fr": "Le TdR de <color=#FFD780FF>Paravent d'astrolabe</color> est annulé lorsque ce dernier est brisé.\nCet effet peut être déclenché une fois toutes les 6 s.",
+      "pt": "Quando a <color=#FFD780FF>Tela de Jade</color> for quebrada, o tempo de recarga é redefinido.\nEste efeito pode ser ativado uma vez a cada 6s.",
+      "ru": "Разрушение <color=#FFD780FF>Нефритовой ширмы</color> сбрасывает время её отката.\nМожет возникнуть раз в 6 сек.",
+      "id": "Saat <color=#FFD780FF>Jade Screen</color> pecah, CD skill akan selesai.\nDapat terpicu setiap 6 detik.",
+      "th": "เมื่อ <color=#FFD780FF>Jade Screen</color> สลายไป จะทำการลบล้าง ช่วงเวลาคูลดาวน์\nซึ่งเอฟเฟกต์นี้จะเกิดขึ้น หนึ่งครั้งในทุก 6 วินาที",
+      "vi": "Khi <color=#FFD780FF>Vách Toàn Cơ</color> vỡ tan, sẽ xóa thời gian chờ.\nMỗi 6s mới thi triển hiệu quả 1 lần."
+    },
+    "imgid": "constellation_2"
+  },
+  {
+    "title": {
+      "zhs": "星罗宿列天权临",
+      "zht": "星羅宿列天權臨",
+      "jp": "森羅星列の囲い",
+      "ko": "천권 강림",
+      "en": "Majesty be the Array of Stars",
+      "de": "Anordnung der Sterne",
+      "es": "Su Majestad, el Equilibrio Celestial",
+      "fr": "Alignement des étoiles",
+      "pt": "Majestosa seja a Formação das Estrelas",
+      "ru": "Величественная россыпь звёзд",
+      "id": "Majesty be the Array of Stars",
+      "th": "Majesty be the Array of Stars",
+      "vi": "Liệt Thiên Quyền Lâm"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>天权崩玉</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>天權崩玉</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>天権崩玉</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>천권 붕옥</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Starshatter</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Sternensplitter</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Devastaestrellas</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Éclatement des étoiles</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o nível do <color=#FFD780FF>Quebrador de Estrelas</color> em 3. O nível máximo da elevação é 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Осколки звёзд</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Starshatter</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Starshatter</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Thiên Quyền Băng Ngọc</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_3"
+  },
+  {
+    "title": {
+      "zhs": "攻守易形著神机",
+      "zht": "攻守易形著神機",
+      "jp": "神機妙道の陣組み",
+      "ko": "공수전환",
+      "en": "Exquisite be the Jade, Outshining All Beneath",
+      "de": "Verteidigungsformation",
+      "es": "Excelente sea el jade, que eclipsa todo a sus pies",
+      "fr": "Exquis soit le Jade, éclatant de toutes parts",
+      "pt": "Requintado seja o Jade, brilhando por todo lado",
+      "ru": "Изысканный блеск нефрита",
+      "id": "Exquisite be the Jade, Outshining All Beneath",
+      "th": "Exquisite be the Jade, Outshining All the Beneath",
+      "vi": "Thần Cơ Công Thủ"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>璇玑屏</color>会使周围角色的所有元素抗性提升10%。",
+      "zht": "<color=#FFD780FF>璇璣屏</color>會使週圍角色的所有元素抗性提升10%。",
+      "jp": "<color=#FFD780FF>璇璣屏</color>付近のキャラクターの全元素耐性+10%。",
+      "ko": "<color=#FFD780FF>선기 병풍</color> 주변 캐릭터의 모든 원소 내성이 10% 증가한다",
+      "en": "<color=#FFD780FF>Jade Screen</color> increases nearby characters' Elemental RES by 10%.",
+      "de": "Erhöht den WDS der Figuren in der Umgebung gegen alle Elemente bei Anwendung von <color=#FFD780FF>Jadeschirm</color> um 10 %.",
+      "es": "<color=#FFD780FF>Pantalla de jade</color> aumenta la RES elemental de los personajes cercanos en un 10%.",
+      "fr": "<color=#FFD780FF>Paravent d'astrolabe</color> augmente les RÉS élémentaires des personnages à proximité de 10 %.",
+      "pt": "A <color=#FFD780FF>Tela de Jade</color> aumenta a RES Elemental dos personagens próximos em 10%.",
+      "ru": "Навык <color=#FFD780FF>Нефритовая ширма</color> повышает элементальное сопротивление окружающих персонажей на 10%.",
+      "id": "<color=#FFD780FF>Jade Screen</color> meningkatkan Elemental RES karakter di sekitar sebanyak 10%.",
+      "th": "<color=#FFD780FF>Jade Screen</color> จะเพิ่ม ความต้านทานธาตุทั้งหมด ของตัวละครที่อยู่โดยรอบขึ้น 10%",
+      "vi": "<color=#FFD780FF>Vách Toàn Cơ</color> sẽ tăng 10% kháng tất cả các nguyên tố xung quanh nhân vật."
+    },
+    "imgid": "constellation_4"
+  },
+  {
+    "title": {
+      "zhs": "琼屏千扇正天衡",
+      "zht": "瓊屏千扇正天衡",
+      "jp": "瓊屏と千扇の守り",
+      "ko": "천개의 선기 병풍",
+      "en": "Invincible be the Jade Screen",
+      "de": "Majestätischer Jadeschirm",
+      "es": "Invencible sea la pantalla de jade",
+      "fr": "Invincible soit le Paravent d'astrolabe",
+      "pt": "Invencível seja a Tela de Jade",
+      "ru": "Бессмертная нефритовая ширма",
+      "id": "Invincible be the Jade Screen",
+      "th": "Invincible be the Jade Screen",
+      "vi": "Thiên Phiến Chính Thiên Hoành"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>璇玑屏</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>璇璣屏</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>璇璣屏</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>선기 병풍</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Jade Screen</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Jadeschirm</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Pantalla de jade</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Paravent d'astrolabe</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o nível da <color=#FFD780FF>Tela de Jade</color> em 3.\nO nível máximo de elevação é 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Нефритовая ширма</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Jade Screen</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Jade Screen</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Vách Toàn Cơ</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_5"
+  },
+  {
+    "title": {
+      "zhs": "七星璨璨凝流光",
+      "zht": "七星璨璨凝流光",
+      "jp": "燦々たる七星",
+      "ko": "칠성의 아름답고 찬란한 빛",
+      "en": "Grandeur be the Seven Stars",
+      "de": "Leuchten der Sieben Sterne",
+      "es": "Grandiosas sean las Siete Estrellas",
+      "fr": "Grandeur soit les Sept Étoiles",
+      "pt": "Grandiosas sejam as Sete Estrelas",
+      "ru": "Грандиозность Цисин",
+      "id": "Grandeur be the Seven Stars",
+      "th": "Grandeur be the Seven Stars",
+      "vi": "Thất Tinh Lưu Quang"
+    },
+    "description": {
+      "zhs": "施放<color=#FFD780FF>天权崩玉</color>时，会为凝光生成七枚星璇。",
+      "zht": "施放<color=#FFD780FF>天權崩玉</color>時，會為凝光生成七枚星璇。",
+      "jp": "<color=#FFD780FF>天権崩玉</color>を放つ時、凝光に七枚の星璇を生成する。",
+      "ko": "<color=#FFD780FF>천권 붕옥</color> 발동 시 응광의 주변에 7개의 별이 생성된다",
+      "en": "When <color=#FFD780FF>Starshatter</color> is used, Ningguang gains 7 Star Jades.",
+      "de": "Erschafft bei Anwendung von <color=#FFD780FF>Sternensplitter</color> sieben Stück Sternjade für Ningguang.",
+      "es": "Al lanzar <color=#FFD780FF>Devastaestrellas</color>, Ninguang obtiene 7 jades estelares.",
+      "fr": "L'activation d'<color=#FFD780FF>Éclatement des étoiles</color> confère 7 Jades d'étoile à Ningguang.",
+      "pt": "Quando o <color=#FFD780FF>Quebrador de Estrelas</color> for usado, Ningguang ganha 7 Jades Estelares.",
+      "ru": "Активация навыка <color=#FFD780FF>Осколки звёзд</color> даёт Нин Гуан 7 камней Звёздного нефрита.",
+      "id": "Ningguang akan mendapatkan 7 Star Jade ketika <color=#FFD780FF>Starshatter</color> digunakan.",
+      "th": "เมื่อใช้ <color=#FFD780FF>Starshatter</color> จะสร้าง Star Jade ให้ Ningguang เจ็ดดวง",
+      "vi": "Khi thi triển <color=#FFD780FF>Thiên Quyền Băng Ngọc</color>, sẽ tạo ra 7 viên Tinh Thạch cho Ningguang."
+    },
+    "imgid": "constellation_6"
+  }
+]

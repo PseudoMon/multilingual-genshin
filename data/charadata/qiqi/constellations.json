@@ -1,0 +1,200 @@
+[
+  {
+    "title": {
+      "zhs": "寒苦回向",
+      "zht": "寒苦迴向",
+      "jp": "寒苦回向",
+      "ko": "한고의 회향",
+      "en": "Ascetics of Frost",
+      "de": "Winterliche Ernte",
+      "es": "Ascetismo de la escarcha",
+      "fr": "Ascèse du givre",
+      "pt": "Ascéticos do Gelo",
+      "ru": "Зима близко",
+      "id": "Ascetics of Frost",
+      "th": "Ascetics of Frost",
+      "vi": "Trở Lại Nghèo Khổ"
+    },
+    "description": {
+      "zhs": "寒病鬼差命中被度厄真符标记的敌人时，为七七恢复2点元素能量。",
+      "zht": "寒病鬼差命中被渡厄真符標記的敵人時，為七七恢復2點元素能量。",
+      "jp": "度厄のお札マークがついている敵に寒病鬼差が命中した時、七七の元素エネルギーを2回復する。",
+      "ko": "한병의 귀차의 공격이 도액 부적 표식이 있는 적을 명중 시 치치의 원소 에너지를 2pt 회복한다",
+      "en": "When the Herald of Frost hits an opponent marked by a Fortune-Preserving Talisman, Qiqi regenerates 2 Energy.",
+      "de": "Stellt Qiqi beim Treffen von mit dem Leidbefreiungs-Talisman markierten Gegnern mit Frostbringer 2 Punkte Elementarenergie wieder her.",
+      "es": "Qiqi regenera 2 pts. de Energía Elemental cuando el Heraldo de la escarcha golpea a un enemigo marcado por un talismán de conservación de la fortuna.",
+      "fr": "Qiqi récupère 2 pts d'énergie élémentaire à chaque fois que son Héraut de givre touche un ennemi marqué par un talisman.",
+      "pt": "Quando o Arauto da Floresta atinge um inimigo marcado pelo Talismã da Preservação da Fortuna, Qiqi regenera 2 de Energia.",
+      "ru": "Когда Вестник стужи попадает по цели, помеченной талисманом Фортуны, Ци Ци восстанавливает 2 ед. энергии.",
+      "id": "Saat Herald of Frost mengenai musuh yang ditandai oleh Fortune-Preserving Talisman, Qiqi mendapatkan 2 Energy.",
+      "th": "เมื่อ Herald of Frost โจมตีถูกศัตรูที่โดน Fortune-Preserving Talisman ทำสัญลักษณ์ จะเป็นการฟื้นฟูพลังงานธาตุให้แก่ Qiqi 2 หน่วย",
+      "vi": "Khi Hàn Bệnh Quỷ Sai đánh trúng kẻ địch đang bị Bùa Độ Ách Chân đánh dấu, sẽ hồi 2 điểm năng lượng nguyên tố cho Qiqi."
+    },
+    "imgid": "constellation_1"
+  },
+  {
+    "title": {
+      "zhs": "冰寒蚀骨",
+      "zht": "冰寒蝕骨",
+      "jp": "氷寒蝕骨",
+      "ko": "뼛속까지 스며드는 한기",
+      "en": "Frozen to the Bone",
+      "de": "Fröstelnde Glieder",
+      "es": "Frío polar",
+      "fr": "Gelé jusqu'à l'os",
+      "pt": "Congelando até os Ossos",
+      "ru": "Мороз до костей",
+      "id": "Frozen to the Bone",
+      "th": "Frozen to the Bone",
+      "vi": "Giá Rét Thấu Xương"
+    },
+    "description": {
+      "zhs": "对受到<color=#99FFFFFF>冰元素</color>影响的敌人，七七的普通攻击与重击造成的伤害提升15%。",
+      "zht": "對受到<color=#99FFFFFF>冰元素</color>影響的敵人，七七的普通攻擊與重擊造成的傷害提升15%。",
+      "jp": "<color=#99FFFFFF>氷元素</color>の影響を受けた敵に、七七の通常攻撃と重撃の与えるダメージ+15%。",
+      "ko": "<color=#99FFFFFF>얼음 원소</color>의 영향을 받은 적을 공격 시 치치가 일반 공격과 강공격으로 가하는 피해가 15% 증가한다",
+      "en": "Qiqi's Normal and Charge Attack DMG against opponents affected by <color=#99FFFFFF>Cryo</color> is increased by 15%.",
+      "de": "Erhöht den von <color=#99FFFFFF>Kryo</color>-Effekten betroffenen Gegnern mit Qiqis Standardangriffen und heftigen Schlägen zugefügten Schaden um 15 %.",
+      "es": "El daño del Ataque Normal y Cargado de Qiqi aumenta en un 15% contra enemigos afectados por <color=#99FFFFFF>Cryo</color>.",
+      "fr": "Les attaques normales et chargées de Qiqi infligent 15 % de DGT supplémentaires contre les ennemis affectés par <color=#99FFFFFF>Cryo</color>.",
+      "pt": "O Dano do Ataque Normal e Ataque Carregado de Qiqi contra os inimigos afetados por <color=#99FFFFFF>Cryo</color> aumentam 15%.",
+      "ru": "Увеличивает урон обычной и заряженной атаки Ци Ци по противникам с эффектом <color=#99FFFFFF>Крио</color> на 15%.",
+      "id": "Meningkatkan 15% Normal dan Charged Attack Qiqi terhadap musuh yang terpengaruh <color=#99FFFFFF>Cryo</color>.",
+      "th": "เมื่อเผชิญหน้ากับศัตรูที่ได้รับ ผลกระทบจาก <color=#99FFFFFF>ธาตุน้ำแข็ง</color> ความเสียหายของ การโจมตีปกติและชาร์จโจมตี ของ Qiqi จะเพิ่มขึ้น 15%",
+      "vi": "Đối với địch bị ảnh hưởng bởi <color=#99FFFFFF>Nguyên Tố Băng</color>, sát thương tấn công thường và trọng kích mà Qiqi gây ra tăng 15%."
+    },
+    "imgid": "constellation_2"
+  },
+  {
+    "title": {
+      "zhs": "升天宝诰",
+      "zht": "升天寶誥",
+      "jp": "昇天宝誥",
+      "ko": "승천 보고(宝诰)",
+      "en": "Ascendant Praise",
+      "de": "Lobpreisung des Himmels",
+      "es": "Mandato celestial",
+      "fr": "Louange vers le ciel",
+      "pt": "Elogio Ascendente",
+      "ru": "Хвала небесам",
+      "id": "Ascendant Praise",
+      "th": "Ascendant Praise",
+      "vi": "Thăng Thiên Bảo Cáo"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>仙法·救苦度厄</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>仙法·救苦渡厄</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>仙法·救苦度厄</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>선법·구고도액</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Adeptus Art: Preserver of Fortune</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Adeptenkunst – Befreiung vom Leid</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Magia Adeptus: Preservadora de la fortuna</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Arcane d'Adepte : Talisman sacré</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o Nível de <color=#FFD780FF>Arte do Adeptus: Preservador da Fortuna</color> em 3.\nPode ser elevado até Nv.15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Искусство Адепта: Хранитель Фортуны</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Adeptus Art: Preserver of Fortune</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Adeptus Art: Preserver of Fortune</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Tiên Pháp - Cứu Khổ Độ Ách</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_3"
+  },
+  {
+    "title": {
+      "zhs": "天威压众",
+      "zht": "天威壓眾",
+      "jp": "天威圧衆",
+      "ko": "중생을 압도하는 천위",
+      "en": "Divine Suppression",
+      "de": "Stärke des Himmels",
+      "es": "Supresión divina",
+      "fr": "Répression divine",
+      "pt": "Supressão Divina",
+      "ru": "Божественное подавление",
+      "id": "Divine Suppression",
+      "th": "Divine Suppression",
+      "vi": "Thiên Uy Áp Chúng"
+    },
+    "description": {
+      "zhs": "被度厄真符标记的目标，攻击力下降20%。",
+      "zht": "被渡厄真符標記的目標，攻擊力下降20%。",
+      "jp": "度厄のお札マークがついている敵の攻撃力-20%。",
+      "ko": "도액 부적 표식이 있는 적은 공격력이 20% 감소한다",
+      "en": "Targets marked by the Fortune-Preserving Talisman have their ATK decreased by 20%.",
+      "de": "Verringert den ANG von mit dem Leidbefreiungs-Talisman markierten Zielen um 20 %.",
+      "es": "Reduce en un 20% el ATQ de los objetivos marcados por el talismán de conservación de la fortuna.",
+      "fr": "L'ATQ des cibles marquées par un talisman est réduite de 20 %.",
+      "pt": "Os alvos marcados com o Talismã da Preservação da Fortuna terão seu ATQ reduzidos em 20%.",
+      "ru": "Уменьшает силу атаки врагов, помеченных талисманом Фортуны, на 20%.",
+      "id": "ATK dari musuh yang ditandai oleh Fortune-Preserving Talisman berkurang 20%.",
+      "th": "เป้าหมายที่ถูก Fortune-Preserving Talisman ทำสัญลักษณ์ที่แท้จริงไว้จะถูกลดพลังการโจมตีลง 20%",
+      "vi": "Mục tiêu bị Bùa Độ Ách Chân đánh dấu, lực tấn công giảm 20%."
+    },
+    "imgid": "constellation_4"
+  },
+  {
+    "title": {
+      "zhs": "红莲开绽",
+      "zht": "紅蓮開綻",
+      "jp": "紅蓮開花",
+      "ko": "피어난 홍련",
+      "en": "Crimson Lotus Bloom",
+      "de": "Blüte des roten Lotos",
+      "es": "Flor de loto carmesí",
+      "fr": "Éclosion du lotus rouge",
+      "pt": "Flor de Lótus Carmesim",
+      "ru": "Цветение красного лотоса",
+      "id": "Crimson Lotus Bloom",
+      "th": "Crimson Lotus Bloom",
+      "vi": "Sen Hồng Chớm Nở"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>仙法·寒病鬼差</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>仙法·寒病鬼差</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>仙法·寒病鬼差</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>선법·한병의 귀차</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Adeptus Art: Herald of Frost</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Adeptenkunst – Frostbringer</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Magia Adeptus: Heraldo de la escarcha</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Arcane d'Adepte : Héraut de givre</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o Nível de <color=#FFD780FF>Arauto da Floresta</color> em 3.\nPode ser elevado até Nv.15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Искусство Адепта: Вестник стужи</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Adeptus Art: Herald of Frost</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Adeptus Art: Herald of Frost</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Tiên Pháp - Hàn Bệnh Quỷ Sai</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_5"
+  },
+  {
+    "title": {
+      "zhs": "起死回骸",
+      "zht": "起死回骸",
+      "jp": "起死回骸",
+      "ko": "기사회해",
+      "en": "Rite of Resurrection",
+      "de": "Auferstehung",
+      "es": "Rito de la resurrección",
+      "fr": "Symbole de la renaissance",
+      "pt": "Ritual de Ressurreição",
+      "ru": "Возвращение к жизни",
+      "id": "Rite of Resurrection",
+      "th": "Rite of Resurrection",
+      "vi": "Khởi Tử Hồi Sinh"
+    },
+    "description": {
+      "zhs": "施放<color=#FFD780FF>仙法·救苦度厄</color>时，复苏附近队伍中所有倒下的角色，并将其生命值恢复至50%。\n该效果每15分钟只能触发一次。",
+      "zht": "施放<color=#FFD780FF>「仙法·救苦渡厄」</color>時，復甦附近隊伍中所有倒下的角色，並恢復其生命值至50%。\n該效果每15分鐘只能觸發一次。",
+      "jp": "<color=#FFD780FF>仙法·救苦度厄</color>を発動する時、近くにいるチーム内全ての戦闘不能状態のキャラクターを復活し、HPを50%まで回復させる。\nこの効果は15分毎に1回のみ発動可能。",
+      "ko": "<color=#FFD780FF>선법·구고도액</color> 발동 시 근처 파티 내 전투 불능이 된 모든 캐릭터를 부활시키고 HP를 50% 회복한다.\n해당 효과는 15분마다 1회만 발동한다",
+      "en": "Using <color=#FFD780FF>Adeptus Art: Preserver of Fortune</color> revives all fallen party members nearby and regenerates 50% of their HP.\nThis effect can only occur once every 15 mins.",
+      "de": "Belebt alle besiegten Figuren der Truppe in der Nähe bei Anwendung von <color=#FFD780FF>Adeptenkunst – Befreiung vom Leid</color> wieder und stellt ihnen LP auf bis zu 50 % ihrer max. LP wieder her.\n15 min Abklingzeit.",
+      "es": "Al lanzar la habilidad <color=#FFD780FF>Magia Adeptus: Preservadora de la fortuna</color>, revive a todos los miembros del equipo cercanos que han sido derrotados y regenera un 50% de su Vida.\nSolo puede ocurrir una vez cada 15 min.",
+      "fr": "L'activation d'<color=#FFD780FF>Arcane d'Adepte : Talisman sacré</color> réanime tous les personnages de l'équipe à proximité et restaure 50 % de leurs PV.\nCet effet peut être déclenché une fois toutes les 15 min.",
+      "pt": "Ao usar a <color=#FFD780FF>Arte do Adeptus: Preservador da Fortuna</color>, revive todos os personagens de equipe caídos ao redor e regenera 50% da Vida deles.\nEste efeito pode ocorrer apenas uma vez a cada 15 min.",
+      "ru": "Использование навыка <color=#FFD780FF>Искусство Адепта: Хранитель Фортуны</color> воскрешает ближайших павших персонажей вашего отряда и восстанавливает им 50% HP.\nМожет возникнуть раз в 15 мин.",
+      "id": "Menggunakan <color=#FFD780FF>Adeptus Art: Preserver of Fortune</color> akan menghidupkan kembali Karakter yang gugur di sekitar dan memulihkan 50% HP mereka.\nEfek ini terpicu setiap 15 menit.",
+      "th": "เมื่อใช้ <color=#FFD780FF>Adeptus Art: Preserver of Fortune</color> จะทำการฟื้นชีวิต ตัวละครทั้งหมดในทีมที่ หมดสติในบริเวณใกล้เคียง และฟื้นฟูพลังชีวิตให้ตัวละครดังกล่าว 50%\nเอฟเฟกต์นี้จะใช้ได้หนึ่งครั้งในทุก 15 นาที",
+      "vi": "Khi thi triển <color=#FFD780FF>Tiên Pháp - Cứu Khổ Độ Ách</color> hồi sinh và phục hồi 50% HP cho tất cả các nhân vật trong đội ngã xuống.\nHiệu quả này mỗi 15 phút chỉ thi triển 1 lần."
+    },
+    "imgid": "constellation_6"
+  }
+]

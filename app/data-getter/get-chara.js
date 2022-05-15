@@ -46,3 +46,11 @@ export async function getCharaTalents(charaId) {
   
   return JSON.parse(file)
 }
+
+export async function getCharaConstellations(charaId) {
+  const file = await getJsonFile(
+    path.join(dataPath, "charadata", charaId, "constellations.json")
+  )
+  
+  return JSON.parse(file)
+}

@@ -1,0 +1,200 @@
+[
+  {
+    "title": {
+      "zhs": "彩色歌谣",
+      "zht": "彩色歌謠",
+      "jp": "虹色の歌",
+      "ko": "무지개의 노래",
+      "en": "Gleeful Songs",
+      "de": "Bunte Ballade",
+      "es": "Canción de júbilo",
+      "fr": "Joyeuse ballade",
+      "pt": "Balada Alegre",
+      "ru": "Баллада счастья",
+      "id": "Gleeful Songs",
+      "th": "Gleeful Songs",
+      "vi": "Ca Dao Sắc Màu"
+    },
+    "description": {
+      "zhs": "芭芭拉每10秒恢复1点元素能量。",
+      "zht": "芭芭拉每10秒恢復1點元素能量。",
+      "jp": "10秒毎に元素エネルギーを1回復する。",
+      "ko": "바바라는 10초마다 원소 에너지를 1pt 회복한다",
+      "en": "Barbara regenerates 1 Energy every 10s.",
+      "de": "Stellt Barbara alle 10 s 1 Punkt Elementarenergie wieder her.",
+      "es": "Bárbara regenera 1 pt. de Energía Elemental cada 10 s.",
+      "fr": "Barbara récupère 1 pt d'énergie élémentaire toutes les 10 s.",
+      "pt": "Barbara regenera 1 de Energia a cada 10s.",
+      "ru": "Барбара каждые 10 сек. восстанавливает 1 ед. энергии.",
+      "id": "Memulihkan 1 Energy Barbara setiap 10 detik.",
+      "th": "Barbara จะฟื้นฟูพลังงานธาตุ 1 หน่วย ในทุก 10 วินาที",
+      "vi": "Cứ 10s sẽ hồi phục 1 điểm năng lượng Nguyên Tố cho Barbara."
+    },
+    "imgid": "constellation_1"
+  },
+  {
+    "title": {
+      "zhs": "元气迸发",
+      "zht": "元氣迸發",
+      "jp": "元気溌剌",
+      "ko": "원기 분출",
+      "en": "Vitality Burst",
+      "de": "Explosion der Lebenskraft",
+      "es": "Explosión de vitalidad",
+      "fr": "Éclat de vitalité",
+      "pt": "Explosão de Vitalidade",
+      "ru": "Прилив сил",
+      "id": "Vitality Burst",
+      "th": "Vitality Burst",
+      "vi": "Bùng Nổ Nguyên Khí"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>演唱，开始♪</color>的冷却时间降低15%；\n技能持续期间，当前场上自己的角色获得15%<color=#80C0FFFF>水元素伤害加成</color>。",
+      "zht": "<color=#FFD780FF>演唱，開始♪</color>的冷卻時間降低15%；\n技能持續期間，當前場上自己的角色獲得15%<color=#80C0FFFF>水元素傷害加成</color>。",
+      "jp": "<color=#FFD780FF>公演、開始♪</color>のクールタイム-15%。\nスキル継続中、出場している自身のキャラクターの与える<color=#80C0FFFF>水元素ダメージ</color>+15%。",
+      "ko": "<color=#FFD780FF>공연, 시작♪</color>의 재사용 대기시간이 15% 감소한다.\n스킬이 지속되는 동안 현재 필드 위에 있는 자신의 캐릭터는 <color=#80C0FFFF>물 원소 피해 보너스</color>를 15% 획득한다",
+      "en": "Decreases the CD of <color=#FFD780FF>Let the Show Begin♪</color> by 15%.\nDuring the ability's duration, your active character gains a 15% <color=#80C0FFFF>Hydro DMG Bonus</color>.",
+      "de": "Verkürzt die Abklingzeit von <color=#FFD780FF>Die Darbietung beginnt ♪</color> um 15 %.\nErhöht den <color=#80C0FFFF>Hydro-Schaden</color> der aktuellen eigenen Figur während der Wirkungsdauer der Fähigkeit um 15 %.",
+      "es": "Reduce en un 15% el TdE de <color=#FFD780FF>Que empiece el concierto ♪</color>.\nMientras esté activa la habilidad, el personaje en uso obtiene un 15% de <color=#80C0FFFF>Bono de Daño Hydro</color>.",
+      "fr": "Réduit le TdR de <color=#FFD780FF>C'est parti pour le show ♪</color> de 15 %.\nConfère un <color=#80C0FFFF>bonus de DGT Hydro de 15 %</color> au personnage déployé tant que la compétence est active.",
+      "pt": "Diminui a Recarga do <color=#FFD780FF>Que Comece o Espetáculo ♪</color> em 15%.\nDurante esta habilidade, o seu próprio personagem atual ganha 15% de <color=#80C0FFFF>Dano Hydro adicional</color>.",
+      "ru": "Уменьшает время отката навыка <color=#FFD780FF>Да начнётся шоу♪</color> на 15%;\nПока навык активен, ваш текущий персонаж получает 15% <color=#80C0FFFF>бонус Гидро урона</color>.",
+      "id": "Mengurangi 15% CD <color=#FFD780FF>Let the Show Begin♪</color>.\nSelama durasi skill, karakter saat ini akan mendapatkan 15% <color=#80C0FFFF>Hydro DMG Bonus</color>.",
+      "th": "ระยะเวลาคูลดาวน์ของ <color=#FFD780FF>Let the Show Begin♪</color> ลดลง 15%\nตลอดช่วงเวลาที่สกิลคงอยู่ ตัวละครของตนเองที่ต่อสู้อยู่จะได้รับ<color=#80C0FFFF>โบนัสความเสียหายน้ำ</color> 15%",
+      "vi": "CD của <color=#FFD780FF>Buổi Diễn,Bắt Đầu♪</color> giảm 15%;\nTrong thời gian kỹ năng tồn tại, <color=#80C0FFFF>sát thương Nguyên Tố Thủy</color> của nhân vật của bản thân trong trận hiện tại tăng 15%."
+    },
+    "imgid": "constellation_2"
+  },
+  {
+    "title": {
+      "zhs": "明日之星",
+      "zht": "明日之星",
+      "jp": "明日の星",
+      "ko": "내일의 스타",
+      "en": "Star of Tomorrow",
+      "de": "Stern von Morgen",
+      "es": "Estrella del mañana",
+      "fr": "Étoile du lendemain",
+      "pt": "Estrela de Amanhã",
+      "ru": "Утренняя звезда",
+      "id": "Star of Tomorrow",
+      "th": "Star of Tomorrow",
+      "vi": "Ngôi Sao Ngày Mai"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>闪耀奇迹♪</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>閃耀奇跡♪</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>シャイニングミラクル♪</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>빛나는 기적♪</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Shining Miracle♪</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Glitzerndes Wunder ♪</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Milagro brillante ♪</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Miracle brillant ♪</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o nível do <color=#FFD780FF>Milagre Brilhante ♪</color> em 3.\nO nível máximo de elevação é 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Чудесное сияние♪</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Shining Miracle♪</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Shining Miracle♪</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Kỳ Tích Vinh Diệu♪</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_3"
+  },
+  {
+    "title": {
+      "zhs": "努力即魔法",
+      "zht": "努力即魔法",
+      "jp": "努力が魔法なの",
+      "ko": "노력이 곧 마법",
+      "en": "Attentiveness be My Power",
+      "de": "Fleiß ist Magie",
+      "es": "El esfuerzo será mi magia",
+      "fr": "L'effort est la meilleure des magies",
+      "pt": "A Atenção é o Meu Poder",
+      "ru": "Магия усердия",
+      "id": "Attentiveness be My Power",
+      "th": "Attentiveness be My Power",
+      "vi": "Nỗ Lực Là Ma Thuật"
+    },
+    "description": {
+      "zhs": "芭芭拉使用重击时，每命中一个敌人，就恢复1点元素能量。\n通过这种方式，一次至多回复5点元素能量。",
+      "zht": "芭芭拉使用重擊時，每命中一個敵人，就恢復1點元素能量。\n透過這種方式，一次至多回復5點元素能量。",
+      "jp": "重撃が敵に命中する度に、バーバラの元素エネルギーが1回復する。\n一回で最大元素エネルギーが5まで回復できる。",
+      "ko": "바바라가 강공격 사용 시 적을 1명 명중할 때마다 원소 에너지를 1pt 회복한다.\n이러한 방식을 통해 한번에 원소 에너지를 최대 5pt까지 회복할 수 있다",
+      "en": "Every opponent Barbara hits with her Charged Attack regenerates 1 Energy for her.\nA maximum of 5 energy can be regenerated in this manner with any one Charged Attack.",
+      "de": "Stellt Barbara für jeden Treffer mit einem heftigen Schlag 1 Punkt Elementarenergie wieder her.\nAuf diese Weise können bis zu 5 Punkte Elementarenergie pro Schlag wiederhergestellt werden.",
+      "es": "Bárbara regenera 1 pt. de Energía Elemental por cada enemigo que golpee con su Ataque Cargado.\nSolo se puede regenerar un máximo de 5 pts. de Energía por Ataque Cargado.",
+      "fr": "À chaque ennemi touché par une attaque chargée, Barbara récupère 1 pt d'énergie élémentaire.\n5 pts d'énergie maximum peuvent être régénérés après chaque attaque chargée.",
+      "pt": "Sempre que os Ataques Carregados da Barbara acertarem um inimigo ela regenera 1 de Energia.\nÉ possível regenerar um máximo de 5 de Energia desta maneira por vez.",
+      "ru": "При каждом попадании заряженной атакой Барбара восстанавливает 1 единицу энергии.\nНе более 5 ед. энергии за раз.",
+      "id": "Setiap kali Barbara menyerang musuh dengan Charged Attack akan memulihkan 1 Energy.\nMaksimum 5 energy dapat dipulihkan dengan cara ini menggunakan salah satu Charged Attack.",
+      "th": "เมื่อ Barbara ชาร์จโจมตี จะฟื้นฟูพลังงานธาตุ 1 หน่วย ทุกครั้งที่โจมตีโดนศัตรูหนึ่งตัว\nโดย 1 ครั้งจะสามารถฟื้นฟู พลังงานธาตุได้มากสุดไม่เกิน 5 หน่วย",
+      "vi": "Khi Barbara dùng trọng kích, mỗi khi đánh trúng 1 kẻ địch, sẽ hồi phục 1 điểm năng lượng nguyên tố.\nTối đa hồi 5 điểm Năng Lượng Nguyên Tố."
+    },
+    "imgid": "constellation_4"
+  },
+  {
+    "title": {
+      "zhs": "纯真的羁绊",
+      "zht": "純真的羈絆",
+      "jp": "純真な絆",
+      "ko": "순수한 유대",
+      "en": "The Purest Companionship",
+      "de": "Wahre Freundschaft",
+      "es": "Vínculo de inocencia",
+      "fr": "Lien innocent",
+      "pt": "Vínculo de Inocência",
+      "ru": "Воля к жизни",
+      "id": "The Purest Companionship",
+      "th": "The Purest Companionship",
+      "vi": "Liên Kết Thuần Khiết"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>演唱，开始♪</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>演唱，開始♪</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>公演、開始♪</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>공연, 시작♪</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Let the Show Begin♪</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Die Darbietung beginnt ♪</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Que empiece el concierto ♪</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>C'est parti pour le show ♪</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o nível do <color=#FFD780FF>Que Comece o Espetáculo♪</color> em 3.\nO nível máximo de elevação é 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Да начнётся шоу♪</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Let the Show Begin♪</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Let the Show Begin♪</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Buổi Diễn,Bắt Đầu♪</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_5"
+  },
+  {
+    "title": {
+      "zhs": "将一切美好献给你",
+      "zht": "將一切美好獻給你",
+      "jp": "美しいものをあなたに",
+      "ko": "이 세상의 아름다움을 당신에게",
+      "en": "Dedicating Everything to You",
+      "de": "Nur das Beste für dich",
+      "es": "Dedicándotelo todo",
+      "fr": "Toujours le meilleur pour vous",
+      "pt": "Dedicando Tudo para Você",
+      "ru": "В твою честь",
+      "id": "Dedicating Everything to You",
+      "th": "Dedicating Everything to You",
+      "vi": "Dành Cho Em Thứ Tốt Đẹp Nhất"
+    },
+    "description": {
+      "zhs": "芭芭拉处于队伍后台时，队伍中自己的角色倒下时，则立即：\n·复苏该角色；\n·将该角色生命值恢复至100%。\n该效果每15分钟只能触发一次。",
+      "zht": "芭芭拉處於隊伍後台時，隊伍中自己的角色倒下時，則立即：\n·復甦該角色；\n·將該角色生命值恢復至100%。\n該效果每15分鐘只能觸發一次。",
+      "jp": "バーバラ待機中に出場している自身のキャラクターが戦闘不能になると、下記の効果が発動される。\n·戦闘不能になったキャラクターを復活させる。\n·該当キャラクターのHPが100%回復される。\nこの効果は15分毎に1回のみ発動可能。",
+      "ko": "바바라가 대기 상태일 때 파티 내 자신의 캐릭터가 전투불능이 되면 즉시:\n·해당 캐릭터를 부활시키고\n·해당 캐릭터의 HP를 100% 회복한다.\n해당 효과는 15분마다 1회만 발동한다",
+      "en": "When Barbara is in the party but not on the field, and one of your own party members falls:\n·Automatically revives the fallen character.\n·Fully restores the revived character's HP to 100%.\nThis effect can only occur once every 15 mins.",
+      "de": "Effekte, wenn Barbara inaktiv in der Truppe ist und die eigene Figur in der Truppe besiegt wird:\n· Belebt die aktuelle Figur wieder.\n· Stellt dieser Figur 100 % LP wieder her.\n15 min Abklingzeit.",
+      "es": "Si un miembro de tu equipo ha sido derrotado cuando Bárbara está en tu equipo pero no en combate:\n·El personaje revive automáticamente.\n·Su vida se restaura en un 100%.\nEste efecto solo puede ocurrir una vez cada 15 min.",
+      "fr": "Si Barbara fait partie de l'équipe mais n'est pas déployée, et qu'un de vos personnages dans l'équipe est vaincu :\n· Barbara le réanime immédiatement.\n· Les PV de ce personnage sont restaurés à 100 %.\nCet effet peut être déclenché une fois toutes les 15 min.",
+      "pt": "Quando a Barbara não estiver no campo de batalha e o próprio personagem da equipe for abatido:\nRevive automaticamente este personagem.\nRegenera totalmente a Vida deste personagem até 100%.\nEste efeito pode ser ativado uma vez a cada 15 mins.",
+      "ru": "Когда член отряда Барбары погибает, и она не находится на поле боя:\nАвтоматически воскрешает павшего персонажа вашего отряда;\nВосстанавливает его HP до 100%.\nМожет возникнуть раз в 15 мин.",
+      "id": "Ketika Barbara berada di dalam party namun sedang tidak bertempur, dan salah seorang anggota party gugur:\nSecara otomatis akan menghidupkan kembali Karakter gugur tersebut;\n·Dan memulihkan HP Karakter tersebut hingga 100%.\nEfek ini dapat terpicu setiap 15 menit.",
+      "th": "เมื่อ Barbara อยู่แนวหลังของทีม หากตัวละครของตนเองในทีมหมดสติ ทันใดนั้นจะทำการ\n·ฟื้นชีวิตตัวละครดังกล่าว;\n·ฟื้นฟูพลังชีวิตให้ตัวละครดังกล่าว 100%\nเอฟเฟกต์นี้จะสามารถใช้ได้ หนึ่งครั้งในทุก 15 นาที",
+      "vi": "Khi Barbara ở trạng thái chờ, nếu có nhân vật của bản thân trong đội ngã xuống sẽ lập tức:\nHồi sinh nhân vật đó;\nHồi phục 100% HP cho nhân vật.\nHiệu quả này mỗi 15 phút chỉ thi triển một lần."
+    },
+    "imgid": "constellation_6"
+  }
+]

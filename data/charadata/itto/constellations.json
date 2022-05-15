@@ -1,0 +1,200 @@
+[
+  {
+    "title": {
+      "zhs": "倘若不知，我讲你听",
+      "zht": "倘若不知，我講你聽",
+      "jp": "知らぬなら、聞かせてやろう",
+      "ko": "모른다면 내가 들려주지",
+      "en": "Stay a While and Listen Up",
+      "de": "Hör gut zu!",
+      "es": "Calla y escucha",
+      "fr": "Du calme et on écoute !",
+      "pt": "Fique um Tempo e Escute",
+      "ru": "Слушай мой наказ",
+      "id": "Stay a While and Listen Up",
+      "th": "Stay a While and Listen Up",
+      "vi": "Đứng Lại, Ta Nói Cho Nghe"
+    },
+    "description": {
+      "zhs": "施放<color=#FFD780FF>最恶鬼王·一斗轰临！！</color>后，荒泷一斗获得2层「乱神之怪力」效果。1秒后，荒泷一斗每0.5秒再获得1层「乱神之怪力」效果，持续1.5秒。",
+      "zht": "施放<color=#FFD780FF>最惡鬼王·一斗轟臨！！</color>後，荒瀧一斗獲得2層「亂神之怪力」效果。1秒後，荒瀧一斗每0.5秒再獲得1層「亂神之怪力」效果，持續1.5秒。",
+      "jp": "<color=#FFD780FF>最凶鬼王·一斗轟臨！！</color>発動後、荒瀧一斗は「乱神の怪力」効果を2層獲得する。発動1秒後、1.5秒の間、荒瀧一斗は0.5秒毎に「乱神の怪力」効果をさらに1層獲得する。",
+      "ko": "<color=#FFD780FF>최흉의 귀왕·이토 강림!!</color> 발동 후 아라타키 이토는 「난신의 괴력」 효과를 2스택 획득한다. 1초 후 아라타키 이토는 0.5초마다 「난신의 괴력」 효과를 1스택 획득한다. 지속 시간: 1.5초",
+      "en": "After using <color=#FFD780FF>Royal Descent: Behold, Itto the Evil!</color>, Arataki Itto gains 2 stacks of Superlative Superstrength. After 1s, Itto will gain 1 stack of Superlative Superstrength every 0.5s for 1.5s.",
+      "de": "Verleiht Arataki Itto nach Anwendung von <color=#FFD780FF>Schrecklicher Oni-König – Itto bricht vor!</color> 2 Stapelungen des Effekts „superstarke Superkraft“. Verleiht Arataki Itto 1 s später 1,5 s lang alle 0,5 s jeweils 1 Stapelung des Effekts „superstarke Superkraft“.",
+      "es": "Al realizar <color=#FFD780FF>Rey oni maligno: ¡Itto contra todos!</color>, Arataki Itto obtiene 2 cargas de fuerza sobrenatural. 1 s después, obtiene una carga cada 0.5 s durante 1.5 s.",
+      "fr": "Après avoir utilisé <color=#FFD780FF>Roi oni maléfique : Avènement d'Itto</color>, Arataki Itto gagne 2 cumuls de Mégaforce superlative. Après 1 s, Itto gagne 1 cumul de Mégaforce superlative toutes les 0,5 s pendant 1,5 s.",
+      "pt": "Ao lançar <color=#FFD780FF>Descendência Real: Contemplem, Itto o Maligno!</color>, Arataki Itto obtém 2 cargas de Superforça Superlativa. Após 1s, Arataki Itto obtém outra carga de Superforça Superlativa a cada 0,5s, durante 1,5s.",
+      "ru": "При запуске <color=#FFD780FF>Явления короля: Итто Жестокий!</color> Аратаки Итто получает 2 ур. Невероятной силы. Через 1 сек. после запуска Аратаки Итто начинает получать по 1 ур. Невероятной силы каждые 0,5 сек. в течение 1,5 сек.",
+      "id": "Setelah melancarkan <color=#FFD780FF>Royal Descent: Behold, Itto the Evil!</color>, Arataki Itto akan mendapatkan 2 lapis efek Superlative Superstrength. Setelah 1 detik, Itto akan mendapatkan 1 lapis Superlative Superstrength setiap 0,5 detik, dan berlangsung selama 1,5 detik.",
+      "th": "หลังจากใช้ <color=#FFD780FF>Royal Descent: Behold, Itto the Evil!</color> Arataki Itto จะได้รับเอฟเฟกต์ \"Superlative Superstrength\" 2 ชั้น และ 1 วินาที หลังจากนั้น ในทุก 0.5 วินาที Arataki Itto จะได้รับเอฟเฟกต์ \"Superlative Superstrength\" อีก 1 ชั้น เป็นเวลา 1.5 วินาที",
+      "vi": "Sau khi thi triển <color=#FFD780FF>Siêu Cấp Quỷ Vương - Itto Giáng Lâm!</color>, Arataki Itto nhận 2 tầng hiệu ứng \"Quỷ Lực Vô Song\". Sau 1s, Arataki Itto mỗi 0.5s sẽ nhận thêm 1 tầng \"Quỷ Lực Vô Song\", duy trì 1.5s."
+    },
+    "imgid": "constellation_1"
+  },
+  {
+    "title": {
+      "zhs": "纠集众人，斗倒御岳",
+      "zht": "糾集眾人，鬥倒御岳",
+      "jp": "衆よ集いて、山岳倒し",
+      "ko": "모두의 힘을 모아, 산을 무너뜨려라",
+      "en": "Gather 'Round, It's a Brawl!",
+      "de": "Sieh gut her!",
+      "es": "¡Todos contra todos!",
+      "fr": "Baston générale !",
+      "pt": "Juntem-se Hora da Briga!",
+      "ru": "Все в круг для драки!",
+      "id": "Gather 'Round, It's a Brawl!",
+      "th": "Gather 'Round, It's a Brawl!",
+      "vi": "Gọi Anh Em, Đánh Hội Đồng"
+    },
+    "description": {
+      "zhs": "施放<color=#FFD780FF>最恶鬼王·一斗轰临！！</color>后，队伍中每个元素类型为<color=#FFE699FF>岩元素</color>的角色，都将使其冷却时间减少1.5秒，使荒泷一斗的元素能量恢复6点。\n通过这种方式，至多减少4.5秒冷却时间，恢复18点元素能量。",
+      "zht": "施放<color=#FFD780FF>最惡鬼王·一斗轟臨！！</color>後，隊伍中每個元素類型為<color=#FFE699FF>岩元素</color>的角色，都將使其冷卻時間減少1.5秒，使荒瀧一斗的元素能量恢復6點。\n依此方式，至多減少4.5秒冷卻時間，恢復18點元素能量。",
+      "jp": "<color=#FFD780FF>最凶鬼王·一斗轟臨！！</color>を発動した後、チーム内に<color=#FFE699FF>岩元素</color>タイプキャラクターが1人いる毎に、クールタイム-1.5秒、荒瀧一斗の元素エネルギーを6ポイント回復する。\nこの方式で短縮できるクールタイムは4.5秒までとなり、回復できる元素エネルギーは18ポイントまでとなる。",
+      "ko": "<color=#FFD780FF>최흉의 귀왕·이토 강림!!</color> 발동 후, 파티 내 원소 타입이 <color=#FFE699FF>바위 원소</color>인 캐릭터가 1명 존재할 때마다 해당 스킬의 재사용 대기시간이 1.5초씩 감소하며, 아라타키 이토의 원소 에너지를 6pt씩 회복한다.\n해당 방식으로 재사용 대기시간을 최대 4.5초 감소시킬 수 있고, 원소 에너지를 최대 18pt 회복할 수 있다",
+      "en": "After using <color=#FFD780FF>Royal Descent: Behold, Itto the Evil!</color>, each party member whose Element is <color=#FFE699FF>Geo</color> will decrease that skill's CD by 1.5s and restore 6 Energy to Arataki Itto.\nCD can be decreased by up to 4.5s in this manner. Max 18 Energy can be restored in this manner.",
+      "de": "Verkürzt die Abklingzeit von <color=#FFD780FF>Schrecklicher Oni-König – Itto bricht vor!</color> nach dem Auslösen dieser Fähigkeit für jede Figur in der Truppe, die die <color=#FFE699FF>Geo-Kraft</color> beherrscht, um 1,5 s und stellt Arataki Itto 6 Punkte Elementarenergie wieder her.\nVerkürzt die Abklingzeit auf diese Weise um bis zu 4,5 s und stellt bis zu 18 Punkte Elementarenergie wieder her.",
+      "es": "Tras realizar <color=#FFD780FF>Rey oni maligno: ¡Itto contra todos!</color>, por cada personaje <color=#FFE699FF>Geo</color> que haya en el equipo, el TdE de dicha habilidad se reduce en 1.5 s y se regeneran 6 pts. de Energía Elemental para Arataki Itto.\nComo máximo, este TdE se puede reducir en 4.5 s y se pueden regenerar 18 pts. de Energía de esta manera.",
+      "fr": "Après avoir utilisé <color=#FFD780FF>Roi oni maléfique : Avènement d'Itto</color>, chaque personnage de l'équipe de type <color=#FFE699FF>Géo</color> permet de diminuer le TdR de cette aptitude de 1,5 s et de restaurer l'énergie élémentaire d'Arataki Itto de 6 pts.\nLe TdR peut être diminué d'un maximum de 4,5 s et l'énergie élémentaire peut être restaurée d'un maximum de 18 pts de cette manière.",
+      "pt": "Após usar <color=#FFD780FF>Descendência Real: Contemplem, Itto o Maligno!</color>, cada membro da equipe cujo elemento seja <color=#FFE699FF>Geo</color> irá diminuir o Tempo de Recarga desta habilidade em 1.5s e restaurar 6 de Energia Elemental para Arataki Itto.\nUm máximo de 4.5s do Tempo de Recarga pode ser reduzido e 18 de Energia restaurada desta maneira.",
+      "ru": "После активации навыка <color=#FFD780FF>Явление короля: Итто Жестокий!</color> за каждого члена отряда с элементом <color=#FFE699FF>Гео</color> время отката навыка уменьшается на 1,5 сек., а Аратаки Итто восстанавливает 6 ед. элементальной энергии.\nЭтим способом можно снизить откат не более чем на 4,5 сек. и восстановить не более 18 ед. энергии.",
+      "id": "Setelah melancarkan <color=#FFD780FF>Royal Descent: Behold, Itto the Evil!</color>, CD skill ini akan berkurang 1,5 detik untuk setiap Karakter <color=#FFE699FF>Geo</color> yang ada di dalam party, dan akan memulihkan 6 Energy Arataki Itto.\nDengan cara ini, CD dapat berkurang maksimum hingga 4,5 detik, dan Energy dapat pulih maksimum hingga 18 Energy.",
+      "th": "หลังจากใช้ <color=#FFD780FF>Royal Descent: Behold, Itto the Evil!</color> ตัวละครแต่ละตัวในทีมที่มีชนิดของธาตุเป็น<color=#FFE699FF>ธาตุหิน</color> จะทำให้ช่วงเวลาคูลดาวน์ของมันลดลง 1.5 วินาที และฟื้นฟูพลังงานธาตุของ Arataki Itto ขึ้น 6 หน่วย\nด้วยวิธีนี้ จะสามารถลดเวลาคูลดาวน์ได้มากสุด 4.5 วินาที และฟื้นฟูพลังงานธาตุได้มากสุด 18 หน่วย",
+      "vi": "Sau khi thi triển <color=#FFD780FF>Siêu Cấp Quỷ Vương - Itto Giáng Lâm!</color>, trong đội cứ mỗi nhân vật có thuộc tính nguyên tố là <color=#FFE699FF>Nham</color>, đều sẽ khiến Itto giảm 1.5s CD kỹ năng nộ, đồng thời khiến Arataki Itto hồi phục 6 điểm năng lượng nguyên tố.\nThông qua cách này, tối đa giảm 4.5s CD và hồi phục 18 điểm năng lượng nguyên tố."
+    },
+    "imgid": "constellation_2"
+  },
+  {
+    "title": {
+      "zhs": "水陆自在，牛王同行",
+      "zht": "水陸自在，牛王同行",
+      "jp": "牛王跨げば、水陸自在",
+      "ko": "우왕과 함께라면 땅과 물에서도 자유롭다",
+      "en": "Horns Lowered, Coming Through",
+      "de": "Bulle im Anmarsch",
+      "es": "¡El toro por los cuernos!",
+      "fr": "#Le taureau par les cornes{NON_BREAK_SPACE}!",
+      "pt": "Lá Vem o Touro!",
+      "ru": "Быка за рога",
+      "id": "Horns Lowered, Coming Through",
+      "th": "Horns Lowered, Coming Through",
+      "vi": "Có Ta Ở Đây, Đừng Sợ"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>魔杀绝技·赤牛发破！</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>魔殺絕技·赤牛發破！</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>魔殺絶技·岩牛発破！</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>마살 절기·적우발파!</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Masatsu Zetsugi: Akaushi Burst!</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Masatsu Zetsugi – Akaushi-Wurf!</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Exterminio del mal: ¡Embestida taurina!</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Zetsugi anti-démon : Catapultage d'akaushi</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o nível da <color=#FFD780FF>Masatsu Zetsugi: Explosão Akaushi!</color> em 3.\nO nível máximo de elevação é 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Масацу дзэцуги: Взрыв акауси!</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Masatsu Zetsugi: Akaushi Burst!</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Masatsu Zetsugi: Akaushi Burst!</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Tuyệt Kỹ Masatsu - Akaushi Công Phá!</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_3"
+  },
+  {
+    "title": {
+      "zhs": "奉行牢狱，茶饭之所",
+      "zht": "奉行牢獄，茶飯之所",
+      "jp": "奉行牢獄、御食事処",
+      "ko": "봉행 감옥은 식사하는 곳",
+      "en": "Jailhouse Bread and Butter",
+      "de": "Brot und Wasser",
+      "es": "La cárcel es mi casa",
+      "fr": "Au pain sec et à l'eau !",
+      "pt": "Cárcere Privado",
+      "ru": "Тюремное угощение",
+      "id": "Jailhouse Bread and Butter",
+      "th": "Jailhouse Bread and Butter",
+      "vi": "Cơm Nước Trại Giam Ngon Thật!"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>最恶鬼王·一斗轰临！！</color>施加的「怒目鬼王」状态结束后，附近的队伍中所有角色的防御力提升20%，攻击力提升20%，持续10秒。",
+      "zht": "<color=#FFD780FF>最惡鬼王·一斗轟臨！！</color>施加的「怒目鬼王」狀態結束後，附近的隊伍中所有角色的防禦力提升20%，攻擊力提升20%，持續10秒。",
+      "jp": "<color=#FFD780FF>最凶鬼王·一斗轟臨！！</color>による「憤怒の鬼王」状態が終了すると、周囲のチーム全員の防御力+20%、攻撃力+20%、継続時間10秒。",
+      "ko": "<color=#FFD780FF>최흉의 귀왕·이토 강림!!</color>으로 부여된 「분노의 귀왕」 상태가 끝나면 주변의 파티 내 모든 캐릭터의 방어력이 20%, 공격력이 20% 증가한다. 지속 시간: 10초",
+      "en": "When the Raging Oni King state caused by <color=#FFD780FF>Royal Descent: Behold, Itto the Evil!</color> ends, all nearby party members gain 20% DEF and 20% ATK for 10s.",
+      "de": "Erhöht nach dem Ende des durch <color=#FFD780FF>Schrecklicher Oni-König – Itto bricht vor!</color> entstandenen Zustands „wütender Oni-König“ die VTD aller Truppenmitglieder in der Nähe 10 s lang um 20 % und ihren ANG um 20 %.",
+      "es": "Al terminar la duración del estado de rey oni enfurecido de <color=#FFD780FF>Rey oni maligno: ¡Itto contra todos!</color>, la DEF y el ATQ de todos los miembros del equipo cercanos aumentan en un 20% durante 10 s.",
+      "fr": "#Lorsque l'état de Roi oni courroucé accordé par <color=#FFD780FF>Roi oni maléfique : Avènement d'Itto</color> prend fin, la DÉF et l'ATQ de tous les personnages de l'équipe à proximité augmentent de 20{NON_BREAK_SPACE}% pendant 10{NON_BREAK_SPACE}s.",
+      "pt": "Depois que o \"Rei Oni Furioso\" aplicado pela <color=#FFD780FF>Descendência Real: Contemplem, Itto o Maligno!</color> terminar, a DEF e o ATQ de todos os personagens da equipe que se encontrarem próximos aumentará em 20% durante 10 segundos.",
+      "ru": "После окончания действия статуса Яростный король óни от навыка <color=#FFD780FF>Явление короля: Итто Жестокий!</color> на 10 сек. у всех членов отряда поблизости защита повышается на 20%, атака также повышается на 20%.",
+      "id": "Setelah status Raging Oni King yang didapatkan dari <color=#FFD780FF>Royal Descent: Behold, Itto the Evil!</color> berakhir, DEF dan ATK seluruh anggota party di sekitar meningkat 20% selama 10 detik.",
+      "th": "หลังจากสถานะ \"Raging Oni King\" ที่เกิดจาก <color=#FFD780FF>Royal Descent: Behold, Itto the Evil!</color> สิ้นสุดลง ตัวละครทั้งหมดในทีม ที่อยู่ในบริเวณใกล้เคียง จะมีพลังป้องกันเพิ่มขึ้น 20% พลังโจมตีเพิ่มขึ้น 20% เป็นเวลา 10 วินาที",
+      "vi": "Sau khi kết thúc trạng thái \"Nộ Mục Quỷ Vương\" của kỹ năng <color=#FFD780FF>Siêu Cấp Quỷ Vương - Itto Giáng Lâm!</color>, sức phòng ngự của tất cả nhân vật trong đội gần đó tăng 20%, sức tấn công tăng 20%, duy trì 10s."
+    },
+    "imgid": "constellation_4"
+  },
+  {
+    "title": {
+      "zhs": "十年花坂，皆知我名",
+      "zht": "十年花坂，皆知我名",
+      "jp": "花坂十年、轟く我が名",
+      "ko": "하나미자카에서 10년, 모두가 내 이름을 알지",
+      "en": "10 Years of Hanamizaka Fame",
+      "de": "Jahrzente des Ruhms in Hanamizaka",
+      "es": "Los envidiosos dirán que no soy famoso",
+      "fr": "Une décennie de renommée à Hanamizaka",
+      "pt": "10 Anos de Fama de Hanamizaka",
+      "ru": "10 лет славы Ханамидзаки",
+      "id": "10 Years of Hanamizaka Fame",
+      "th": "10 Years of Hanamizaka Fame",
+      "vi": "Mười Năm Vang Danh Hanamizaka"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>最恶鬼王·一斗轰临！！</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>最惡鬼王·一斗轟臨！！</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>最凶鬼王·一斗轟臨！！</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>최흉의 귀왕·이토 강림!!</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Royal Descent: Behold, Itto the Evil!</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Schrecklicher Oni-König – Itto bricht vor!</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Rey oni maligno: ¡Itto contra todos!</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Roi oni maléfique : Avènement d'Itto</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o nível da <color=#FFD780FF>Descendência Real: Contemplem, Itto o Maligno!</color> em 3.\nO nível máximo de elevação é 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Явление короля: Итто Жестокий!</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Royal Descent: Behold, Itto the Evil!</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Royal Descent: Behold, Itto the Evil!</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Siêu Cấp Quỷ Vương - Itto Giáng Lâm!</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_5"
+  },
+  {
+    "title": {
+      "zhs": "在下荒泷一斗是也",
+      "zht": "在下荒瀧一斗是也",
+      "jp": "傾奇の張本、荒瀧一斗",
+      "ko": "이 몸이 바로 아라타키 이토다",
+      "en": "Arataki Itto, Present!",
+      "de": "Arataki Itto, höchstpersönlich!",
+      "es": "Ante ustedes, ¡Arataki Itto!",
+      "fr": "#Arataki Itto, présent{NON_BREAK_SPACE}!",
+      "pt": "Arataki Itto, Presente!",
+      "ru": "Аратаки Итто к вашим услугам!",
+      "id": "Arataki Itto, Present!",
+      "th": "Arataki Itto, Present!",
+      "vi": "Bổn Đại Gia Là Arataki Itto"
+    },
+    "description": {
+      "zhs": "荒泷一斗的重击的暴击伤害提高70%；此外，施展「荒泷逆袈裟」时，有50%的几率不消耗「乱神之怪力」。",
+      "zht": "荒瀧一斗的重擊的暴擊傷害提高70%；此外，施展「荒瀧逆袈裟」時，有50%的機率不消耗「亂神之怪力」。",
+      "jp": "荒瀧一斗の重撃の会心ダメージ+70%。また、「荒瀧逆袈裟」を発動する時、50%の確率で「乱神の怪力」が消費されなくなる。",
+      "ko": "아라타키 이토의 강공격 치명타 피해가 70% 증가한다. 또한, 「아라타키 케사기리」 발동 시 50% 확률로 「난신의 괴력」을 소모하지 않는다",
+      "en": "Arataki Itto's Charged Attacks deal +70% Crit DMG. Additionally, when he uses Arataki Kesagiri, he has a 50% chance to not consume stacks of Superlative Superstrength.",
+      "de": "Erhöht den KSCH von heftigen Schlägen von Arataki Itto um 70 %. Verbraucht außerdem bei Anwendung von „Arataki Kesagiri“ mit einer Wahrscheinlichkeit von 50 % keine „superstarke Superkraft“.",
+      "es": "Aumenta en un 70% el Daño CRIT del Ataque Cargado de Arataki Itto. Además, al ejecutar golpes de espada kesagiri, hay un 50% de probabilidad de no consumir cargas de fuerza sobrenatural.",
+      "fr": "Les DGT CRIT des attaques chargées d'Arataki Itto augmentent de 70 %. De plus, lorsqu'il utilise une série de kesa giri d'Arataki, il a 50 % de chances de ne pas consommer de Mégaforce superlative.",
+      "pt": "Os Ataques Carregados de Arataki Itto causam 70% a mais de Dano CRIT. Além disso, quando ele usa Arataki Kesagiri, ele tem 50% de chance de não consumir cargas de Superforça Superlativa.",
+      "ru": "Крит. урон заряженных атак Аратаки Итто повышается на 70%. С вероятностью 50% запуск Аратаки кэсагири не расходует Невероятную силу.",
+      "id": "Meningkatkan 70% Crit DMG untuk Charged Attack Arataki Itto. Selain itu, saat melancarkan Arataki Kesagiri, Itto memiliki 50% kemungkinan untuk tidak mengonsumsi lapisan Superlative Superstrength.",
+      "th": "ความแรงคริของชาร์จโจมตีของ Arataki Itto เพิ่มขึ้น 70%; นอกจากนี้เมื่อใช้ \"Arataki Kesagiri\" จะมีโอกาส 50% ที่จะไม่ใช้ Superlative Superstrength",
+      "vi": "Tăng 70% sát thương bạo kích của trọng kích của Arataki Itto; Ngoài ra, khi thi triển \"Arataki Kesagiri\" sẽ có 50% xác suất không tiêu hao \"Quỷ Lực Vô Song\"."
+    },
+    "imgid": "constellation_6"
+  }
+]

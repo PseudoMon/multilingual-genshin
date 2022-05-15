@@ -47,6 +47,9 @@ export default function CharacterPage() {
           <NavLink to="talents">
             <button className="page-button">{ miscText["talents"][activeLang] }</button>
           </NavLink>
+          <NavLink to="constellations">
+            <button className="page-button">{ miscText["constellations"][activeLang] }</button>
+          </NavLink>
         </div>
       </section>
 

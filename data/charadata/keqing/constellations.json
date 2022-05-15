@@ -1,0 +1,200 @@
+[
+  {
+    "title": {
+      "zhs": "雷厉",
+      "zht": "雷厲",
+      "jp": "迅雷",
+      "ko": "계뢰",
+      "en": "Thundering Might",
+      "de": "Donnernde Gewalt",
+      "es": "Fuerza atronadora",
+      "fr": "Force foudroyante",
+      "pt": "Poder Trovejante",
+      "ru": "Громовая мощь",
+      "id": "Thundering Might",
+      "th": "Thundering Might",
+      "vi": "Sấm Sét Trừng Phạt"
+    },
+    "description": {
+      "zhs": "雷楔存在期间再次施放<color=#FFD780FF>星斗归位</color>时，在刻晴消失与出现的位置造成50%攻击力的<color=#FFACFFFF>雷元素范围伤害</color>。",
+      "zht": "雷楔存在期間再次施放<color=#FFD780FF>星斗歸位</color>時，在刻晴消失與出現的位置造成50%攻擊力的<color=#FFACFFFF>雷元素範圍傷害</color>。",
+      "jp": "雷楔継続中に再び<color=#FFD780FF>星辰帰位</color>を発動すると、刻晴は消失位置と出現位置に攻撃力50%分の<color=#FFACFFFF>雷元素範囲ダメージ</color>を与える。",
+      "ko": "뇌설이 존재하는 동안 다시 <color=#FFD780FF>성신 회귀</color>를 발동하면, 각청이 사라지고 나타나는 위치에 공격력 50%의 <color=#FFACFFFF>번개 원소 범위 피해</color>를 준다",
+      "en": "Recasting <color=#FFD780FF>Stellar Restoration</color> while a Lightning Stiletto is present causes Keqing to deal 50% of her ATK as <color=#FFACFFFF>AoE Electro DMG</color> at the start point and terminus of her Blink.",
+      "de": "Verursacht bei erneuter Anwendung von <color=#FFD780FF>Rückkehr der Sterne</color> während der Wirkungsdauer eines Donnerkeils an den Stellen des Verschwindens und Auftauchens von Keqing <color=#FFACFFFF>Elektro-Flächenschaden</color> in Höhe von 50 % ANG.",
+      "es": "Usar <color=#FFD780FF>Retorno estelar</color> mientras está presente una cuña relámpago hace que Keching inflija un 50% de su ATQ como <color=#FFACFFFF>Daño Electro en el AdE</color> en el punto de inicio y de reaparición.",
+      "fr": "Lorsque Keqing libère de nouveau <color=#FFD780FF>Retour des étoiles</color> lorsqu'une Lame de foudre est active, elle inflige des <color=#FFACFFFF>DGT Électro de zone</color> équivalant à 50 % de son ATQ aux endroits où elle disparaît puis réapparaît.",
+      "pt": "Relançar <color=#FFD780FF>Restauração Estelar</color> enquanto um Stiletto de Relâmpago está presente faz com que Keqing cause 50% do seu ATQ como <color=#FFACFFFF>Dano Electro em uma AdE</color> na localização inicial e final de seu Teleporte.",
+      "ru": "При повторной активации навыка <color=#FFD780FF>Возвращение звезды</color>, когда на поле боя есть Громовой стилет, Кэ Цин в начальной и конечной точке своей телепортации наносит <color=#FFACFFFF>Электро урон по площади</color>, равный 50% от её силы атаки.",
+      "id": "Saat Lightning Stiletto masih ada, dan <color=#FFD780FF>Stellar Restoration</color> diluncurkan kembali, akan menyebabkan 50% dari ATK Keqing menjadi <color=#FFACFFFF>Electro DMG area</color> pada titik awal dan titik akhir Blink.",
+      "th": "เมื่อใช้ <color=#FFD780FF>Stellar Restoration</color> อีกครั้งระหว่างช่วงเวลาของ Lightning Stiletto จะสร้าง<color=#FFACFFFF>ความเสียหายไฟฟ้าวงกว้าง</color> 50% ของพลังโจมตี ในตำแหน่งที่ Keqing หายไปและปรากฏตัวขึ้น",
+      "vi": "Ở thời gian Đá Lôi tồn tại, khi thi triển <color=#FFD780FF>Tinh Đẩu Quy Vị</color> lần nữa, ở nơi Keqing biến mất và xuất hiện gây ra <color=#FFACFFFF>sát thương phạm vi Nguyên Tố Lôi</color> bằng 50% tấn công"
+    },
+    "imgid": "constellation_1"
+  },
+  {
+    "title": {
+      "zhs": "苛捐",
+      "zht": "苛捐",
+      "jp": "苛捐",
+      "ko": "가연",
+      "en": "Keen Extraction",
+      "de": "Steuererhöhung",
+      "es": "Impuestos desorbitantes",
+      "fr": "Taxation sévère",
+      "pt": "Extração Afiada",
+      "ru": "Тяжёлые налоги",
+      "id": "Keen Extraction",
+      "th": "Keen Extraction",
+      "vi": "Nghiêm Nghị Hà Khắc"
+    },
+    "description": {
+      "zhs": "刻晴普通攻击与重击命中受到<color=#FFACFFFF>雷元素</color>影响的敌人时，有50%几率产生一个元素微粒。\n该效果每5秒只能触发一次。",
+      "zht": "刻晴普通攻擊與重擊命中受到<color=#FFACFFFF>雷元素</color>影響的敵人時，有50%的機率產生一個元素微粒。\n該效果每5秒只能觸發一次。",
+      "jp": "刻晴の通常攻撃と重撃が<color=#FFACFFFF>雷元素</color>の影響を受けた敵に命中した時、50%の確率で元素粒子を1個生成する。\n5秒毎に1回のみ発動可能。",
+      "ko": "각청의 일반 공격과 강공격이 <color=#FFACFFFF>번개 원소</color> 영향을 받은 적을 명중하면, 50%의 확률로 원소 입자가 생성된다.\n해당 효과는 5초마다 1회만 발동한다",
+      "en": "When Keqing's Normal and Charged Attacks hit opponents affected by <color=#FFACFFFF>Electro</color>, they have a 50% chance of producing an Elemental Particle.\nThis effect can only occur once every 5s.",
+      "de": "Erschafft beim Treffen von <color=#FFACFFFF>Elektro</color>-Effekten betroffener Gegner mit Standardangriffen und heftigen Schlägen mit einer Wahrscheinlichkeit von 50 % ein Elementarteilchen.\n5 s Abklingzeit.",
+      "es": "Cuando los Ataques Normales y Cargados de Keching golpean a enemigos afectados por <color=#FFACFFFF>Electro</color>, hay una probabilidad del 50% de crear una partícula elemental.\nEste efecto solo puede ocurrir una vez cada 5 s.",
+      "fr": "Les attaques normales et chargées de Keqing touchant un ennemi affecté par l'élément <color=#FFACFFFF>Électro</color> ont 50 % de chances de générer une particule élémentaire.\nCet effet peut être déclenché une fois toutes les 5 s.",
+      "pt": "Quando Ataques Normais e Carregados da Keqing acertam inimigos afetados por <color=#FFACFFFF>Electro</color> eles têm 50% de chance de produzir uma Partícula Elemental.\nEsse efeito pode ocorrer apenas uma vez a cada 5 segundos.",
+      "ru": "Попадания Кэ Цин по врагу с эффектом <color=#FFACFFFF>Электро</color> имеют 50% шанс создать элементальную частицу.\nМожет возникнуть раз в 5 сек.",
+      "id": "Saat Normal dan Charged Attack Keqing mengenai musuh yang terkena efek <color=#FFACFFFF>Electro</color>, memiliki 50% persentase untuk menghasilkan Elemental Particle.\nEfek ini terpicu setiap 5 detik",
+      "th": "เมื่อ Keqing โจมตีปกติและ ชาร์จโจมตีถูกศัตรูที่ได้รับ ผลกระทบของ<color=#FFACFFFF>ธาตุไฟฟ้า</color> มีโอกาส 50% ที่จะสร้างอณูธาตุ 1 ลูก เอฟเฟกต์นี้เกิดขึ้นได้หนึ่งครั้ง ในทุก 5 วินาที",
+      "vi": "Khi Keqing tấn công thường và trọng kích trúng kẻ địch bị ảnh hưởng bởi <color=#FFACFFFF>Nguyên Tố Lôi</color>, có tỷ lệ 50% tạo 1 Nguyên Tố Hạt Nhân.\nMỗi 5s mới có hiệu quả một lần."
+    },
+    "imgid": "constellation_2"
+  },
+  {
+    "title": {
+      "zhs": "登楼",
+      "zht": "登樓",
+      "jp": "登楼",
+      "ko": "등루",
+      "en": "Foreseen Reformation",
+      "de": "Turmbesteigung",
+      "es": "Reforma anticipada",
+      "fr": "Formation anticipée",
+      "pt": "Reforma Prevista",
+      "ru": "Верх иерархии",
+      "id": "Foreseen Reformation",
+      "th": "Foreseen Reformation",
+      "vi": "Trèo Tháp"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>天街巡游</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>天街巡遊</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>天街巡遊</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>천가 순유</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Starward Sword</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Himmelswanderung</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Paseo celestial</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Promenade céleste</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o nível da <color=#FFD780FF>Passeio Celestial</color> em 3.\nO nível máximo de elevação é 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Меч небесного тракта</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Starward Sword</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลของสกิล <color=#FFD780FF>Starward Sword</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Tuần Du Thiên Nhai</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_3"
+  },
+  {
+    "title": {
+      "zhs": "调律",
+      "zht": "調律",
+      "jp": "調律",
+      "ko": "조율",
+      "en": "Attunement",
+      "de": "Abstimmung",
+      "es": "Sintonización",
+      "fr": "Syntonie",
+      "pt": "Sintonia",
+      "ru": "Настройка инструмента",
+      "id": "Attunement",
+      "th": "Attunement",
+      "vi": "Điều Luật"
+    },
+    "description": {
+      "zhs": "刻晴触发<color=#FFACFFFF>雷元素相关反应</color>后的10秒内，攻击力提升25%。",
+      "zht": "刻晴觸發<color=#FFACFFFF>雷元素相關反應</color>後的10秒內，攻擊力提升25%。",
+      "jp": "刻晴が<color=#FFACFFFF>雷元素の関連反応</color>を起こした10秒間、攻撃力+25%。",
+      "ko": "각청이 <color=#FFACFFFF>번개 원소 관련 반응</color>을 발동한 뒤 10초 동안 공격력이 25% 증가한다",
+      "en": "For 10s after Keqing triggers an <color=#FFACFFFF>Electro-related Elemental Reaction</color>, her ATK is increased by 25%.",
+      "de": "Erhöht Keqings ANG nach Auslösen von <color=#FFACFFFF>Elektro-Reaktionen</color> 10 s lang um 25 %.",
+      "es": "Cuando Keching causa una <color=#FFACFFFF>Reacción Elemental con Electro</color>, su ATQ aumenta en un 25% durante 10 s.",
+      "fr": "Lorsque Keqing déclenche une <color=#FFACFFFF>réaction liée à l'élément Électro</color>, son ATQ augmente de 25 % pendant 10 s.",
+      "pt": "Por 10 segundos após Keqing acionar uma <color=#FFACFFFF>Reação Elemental relacionada com Electro</color>, seu ATQ é aumentado em 25%.",
+      "ru": "При вызове <color=#FFACFFFF>Электро реакций</color> Кэ Цин увеличивает силу атаки на 25% в течение 10 сек.",
+      "id": "ATK Keqing meningkat 25% setelah Keqing memicu <color=#FFACFFFF>Reaksi Elemental yang berhubungan dengan elemen Electro</color> selama 10 detik.",
+      "th": "ภายใน 10 วินาทีหลังจาก Keqing ทำให้เกิด<color=#FFACFFFF>ปฏิกิริยาที่ เกี่ยวข้องกับธาตุไฟฟ้า</color> เพิ่มพลังโจมตีขึ้น 25%",
+      "vi": "Trong vòng 10s sau khi Keqing kích hoạt <color=#FFACFFFF>phản ứng Nguyên Tố Lôi</color>, lực tấn công tăng 25%."
+    },
+    "imgid": "constellation_4"
+  },
+  {
+    "title": {
+      "zhs": "移灯",
+      "zht": "移燈",
+      "jp": "移燈",
+      "ko": "이등",
+      "en": "Beckoning Stars",
+      "de": "Treibende Lichter",
+      "es": "Luces viajeras",
+      "fr": "Lueur mouvante",
+      "pt": "Estrelas Viajantes",
+      "ru": "Мановение звёзд",
+      "id": "Beckoning Stars",
+      "th": "Beckoning Stars",
+      "vi": "Đèn Di Chuyển"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>星斗归位</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>星斗歸位</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>星辰帰位</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>성신 회귀</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Stellar Restoration</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Rückkehr der Sterne</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Retorno estelar</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Retour des étoiles</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o nível da <color=#FFD780FF>Restauração Estelar</color> em 3.\nO nível máximo de elevação é 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Возвращение звезды</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Stellar Restoration</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลของสกิล <color=#FFD780FF>Stellar Restoration</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Tinh Đẩu Quy Vị</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_5"
+  },
+  {
+    "title": {
+      "zhs": "廉贞",
+      "zht": "廉貞",
+      "jp": "廉貞",
+      "ko": "염정",
+      "en": "Tenacious Star",
+      "de": "Störrischer Stern",
+      "es": "Estrella tenaz",
+      "fr": "Étoile tenace",
+      "pt": "Estrela Tenaz",
+      "ru": "Упорная звезда",
+      "id": "Tenacious Star",
+      "th": "Tenacious Star",
+      "vi": "Sao Liêm Trinh"
+    },
+    "description": {
+      "zhs": "进行普通攻击、重击、施放元素战技或元素爆发时，刻晴获得6%<color=#FFACFFFF>雷元素伤害加成</color>，持续8秒。\n由普通攻击、重击、元素战技或元素爆发引起的效果分别独立存在。",
+      "zht": "進行普通攻擊、重擊、施放元素戰技或元素爆發時，刻晴獲得6%<color=#FFACFFFF>雷元素傷害加成</color>，持續8秒。\n由普通攻擊、重擊、元素戰技或元素爆發引起的效果分別獨立存在。",
+      "jp": "通常攻撃、重撃、元素スキルまたは元素爆発を発動する時、刻晴の与える<color=#FFACFFFF>雷元素ダメージ</color>+6%、継続時間8秒。\n通常攻撃、重撃、元素スキルまたは元素爆発の発動による効果はそれぞれ別々でカウントされる。",
+      "ko": "일반 공격, 강공격, 원소전투 스킬 혹은 원소폭발 사용 시, 각청은 <color=#FFACFFFF>번개 원소 피해 보너스</color>를 6% 획득한다. 지속 시간: 8초.\n일반 공격, 강공격, 원소전투 스킬 혹은 원소폭발로 인한 효과는 각각 따로 존재한다",
+      "en": "When initiating a Normal Attack, a Charged Attack, Elemental Skill or Elemental Burst, Keqing gains a 6% <color=#FFACFFFF>Electro DMG Bonus</color> for 8s.\nEffects triggered by Normal Attacks, Charged Attacks, Elemental Skills and Elemental Bursts are considered independent entities.",
+      "de": "Erhöht Keqings <color=#FFACFFFF>Elektro-Schaden</color> bei Anwendung von Standardangriffen, heftigen Schlägen, Elementarfähigkeiten und Spezialfähigkeit 8 s lang um 6 %.\nDie Effekte für Standardangriffe, heftige Schläge, Elementarfähigkeiten und Spezialfähigkeit existieren unabhängig voneinander.",
+      "es": "Al hacer un Ataque Normal, un Ataque Cargado, una Habilidad Elemental o una Habilidad Definitiva, Keching obtiene un 6% de <color=#FFACFFFF>Bono de Daño Electro</color> durante 8 s.\nLos efectos activados por Ataques Normales, Ataques Cargados, Habilidades Elementales y Habilidades Definitivas serán independientes unos de otros.",
+      "fr": "Les attaques normales, attaques chargées, compétences élémentaires et déchaînements élémentaires de Keqing lui confèrent un <color=#FFACFFFF>bonus de DGT Électro de 6 % pendant 8 s.</color> Les effets déclenchés sont différents selon le type d'attaque.",
+      "pt": "Ao iniciar um Ataque Normal, um Ataque Carregado, uma Habilidade Elemental ou um Supremo, Keqing ganha 6% de <color=#FFACFFFF>Bônus de Dano Electro</color> por 8 segundos.\nEfeitos ativados por Ataques Normais, Ataques Carregados, Habilidades Elementais e Supremos são considerados entidades independentes.",
+      "ru": "При выполнении обычной или заряженной атаки, либо при активации элементального навыка или взрыва стихии Кэ Цин получает 6% <color=#FFACFFFF>бонус Электро урона</color> на 8 сек.\nЭффекты, вызванные обычной атакой, заряженной атакой, элементным навыком или взрывом стихии, существуют отдельно друг от друга.",
+      "id": "Saat memulai Normal Attack, Charged Attack, Elemental Skill atau Elemental Burst, Keqing mendapatkan 6% <color=#FFACFFFF>Electro DMG Bonus</color> selama 8 detik.\nEfek yang terpicu oleh Normal Attack, Charged Attack, Elemental Skill dan Elemental Burst aktif secara independen.",
+      "th": "เมื่อโจมตีปกติ, ชาร์จโจมตี, ใช้สกิลธาตุ หรือปล่อยท่าไม้ตาย Keqing จะได้รับ<color=#FFACFFFF>โบนัสความเสียหายไฟฟ้า</color> 6% เป็นเวลา 8 วินาที\nเอฟเฟกต์ที่เกิดจากโจมตีปกติ, ชาร์จโจมตี, ใช้สกิลธาตุ หรือปล่อยท่าไม้ตาย จะถูกคำนวณแยกกัน",
+      "vi": "Khi tấn công thường, trọng kích, thi triển kỹ năng nguyên tố hoặc kỹ năng nộ, Keqing sẽ nhận 6% <color=#FFACFFFF>buff sát thương Nguyên Tố Lôi</color>, kéo dài 8s.\nHiệu quả xuất phát từ tấn công thường, trọng kích, kỹ năng nguyên tố hoặc kỹ năng nộ tồn tại độc lập với nhau."
+    },
+    "imgid": "constellation_6"
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "title": {
+      "zhs": "支援就交给我吧",
+      "zht": "支援就交給我吧",
+      "jp": "支援はお任せください",
+      "ko": "지원은 저한테 맡기세요",
+      "en": "I Got Your Back",
+      "de": "Fürsorgliche Unterstützung",
+      "es": "Yo te cubro",
+      "fr": "J'assure vos arrières",
+      "pt": "Estou na sua Retaguarda",
+      "ru": "Я прикрою!",
+      "id": "I Got Your Back",
+      "th": "I Got Your Back",
+      "vi": "Chi viện cứ giao cho tôi"
+    },
+    "description": {
+      "zhs": "同时处于<color=#FFD780FF>大扫除</color>与<color=#FFD780FF>护心铠</color>状态时，护心铠的生命值回复效果触发几率提升至100%。",
+      "zht": "同時處於<color=#FFD780FF>大掃除</color>與<color=#FFD780FF>護心鎧</color>狀態時，護心鎧的生命值回復效果觸發機率提升至100%。",
+      "jp": "同時に<color=#FFD780FF>大掃除</color>と<color=#FFD780FF>護心鎧</color>状態にいる時、護心鎧のHP回復効果の発動率が100%になる。",
+      "ko": "<color=#FFD780FF>대청소</color>와 <color=#FFD780FF>호심경</color>이 동시에 발동된 상태일 때 호심경의 HP 회복 효과 발동 확률이 100%까지 증가한다",
+      "en": "While <color=#FFD780FF>Sweeping Time</color> and <color=#FFD780FF>Breastplate</color> are both in effect, the chance of Breastplate's healing effects activating is increased to 100%.",
+      "de": "Löst den Heileffekt von Brustpanzer mit einer Wahrscheinlichkeit von 100 % aus, wenn sowohl <color=#FFD780FF>Großreinigung</color> als auch <color=#FFD780FF>Brustpanzer</color> aktiv sind.",
+      "es": "Al atacar estando al mismo tiempo bajo los efectos de <color=#FFD780FF>Hora de limpiar</color> y <color=#FFD780FF>Guardiana del corazón</color>, la probabilidad de restaurar Vida de Guardiana del corazón será del 100%.",
+      "fr": "L'effet de restauration des PV d'Armure de cœur a 100 % de chances d'être déclenché lorsque <color=#FFD780FF>Grand ménage</color> et <color=#FFD780FF>Armure de cœur</color> sont actifs en même temps.",
+      "pt": "Enquanto ambos <color=#FFD780FF>Grande Limpeza</color> e <color=#FFD780FF>Guardião do Coração</color> estiverem em efeito, a chance de ativação de cura do Guardião do Coração aumenta em 100%.",
+      "ru": "Одновременное использование навыков <color=#FFD780FF>Генеральная уборка</color> и <color=#FFD780FF>Бронефартук</color> повышает шанс активации лечащей способности навыка Бронефартук на 100%.",
+      "id": "Saat <color=#FFD780FF>Sweeping Time</color> dan <color=#FFD780FF>Breastplate</color> aktif bersamaan, serangan memiliki 100% persentase untuk memicu efek pemulihan.",
+      "th": "ในขณะที่อยู่ในสภาวะของ <color=#FFD780FF>Sweeping Time</color> และ <color=#FFD780FF>Breastplate</color> เอฟเฟกต์การคืนพลังชีวิตของ Breastplate จะมีโอกาสเกิด 100%",
+      "vi": "Khi cùng ở trạng thái <color=#FFD780FF>Quét Sạch</color> và <color=#FFD780FF>Giáp Hộ Tâm</color>, kích hoạt hiệu quả hồi HP của Giáp Hộ Tâm tăng lên 100%."
+    },
+    "imgid": "constellation_1"
+  },
+  {
+    "title": {
+      "zhs": "旋风女仆",
+      "zht": "旋風女僕",
+      "jp": "旋風のメイド",
+      "ko": "선풍의 메이드",
+      "en": "Combat Maid",
+      "de": "Wirbelnde Magd",
+      "es": "Torbellino de la criada",
+      "fr": "Servante de tourbillon",
+      "pt": "Empregada do Redemoinho",
+      "ru": "Горничная на ветру",
+      "id": "Combat Maid",
+      "th": "Combat Maid",
+      "vi": "Hầu Gái Lốc Xoáy"
+    },
+    "description": {
+      "zhs": "诺艾尔的重击的体力消耗降低20%，伤害提升15%。",
+      "zht": "諾艾爾的重擊的體力消耗降低20%，傷害提升15%。",
+      "jp": "ノエルの重撃スタミナ消費-20%、与えるダメージ+15%。",
+      "ko": "노엘의 강공격 스태미나 소모량이 20% 감소하고 피해가 15% 증가한다",
+      "en": "Decreases the Stamina Consumption of Noelle's Charged Attacks by 20% and increases her Charged Attack DMG by 15%.",
+      "de": "Verringert Noelles Ausdauerverbrauch für heftige Schläge um 20 % und erhöht den Schaden um 15 %.",
+      "es": "Reduce en un 20% el coste de Aguante del Ataque Cargado de Noelle, y aumenta en un 15% el daño infligido con dicho ataque.",
+      "fr": "Les attaques chargées de Noëlle consomment 20 % d'endurance en moins et infligent 15 % de DGT supplémentaires.",
+      "pt": "Diminui o Consumo de Stamina dos Ataques Carregados de Noelle em 20% e aumenta o Dano do seu Ataque Carregado em 15%.",
+      "ru": "Уменьшает потребление выносливости заряженной атаки Ноэлль на 20%, а также увеличивает урон на 15%.",
+      "id": "Mengurangi 20% konsumsi stamina Charged Attack dan meningkatkan 15% DMG Charged Attack Noelle.",
+      "th": "ลดการใช้พลังงานการชาร์จ โจมตีของ Noelle ลง 20% และเพิ่มความเสียหายขึ้น 15%",
+      "vi": "Thể lực mà trọng kích của Noelle tiêu hao sẽ giảm 20%, sát thương tăng 15%."
+    },
+    "imgid": "constellation_2"
+  },
+  {
+    "title": {
+      "zhs": "女仆不会受伤",
+      "zht": "女僕不會受傷",
+      "jp": "怪我はしません",
+      "ko": "메이드는 다치지 않아요",
+      "en": "Invulnerable Maid",
+      "de": "Unverletzliche Magd",
+      "es": "Sin un rasguño",
+      "fr": "La servante ne sera jamais blessée",
+      "pt": "Empregada Invulnerável",
+      "ru": "Неуязвимая горничная",
+      "id": "Invulnerable Maid",
+      "th": "Invulnerable Maid",
+      "vi": "Hầu Gái Không Đau"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>护心铠</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>護心鎧</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>護心鎧</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>호심경</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Breastplate</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Brustpanzer</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Guardiana del corazón</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Armure de cœur</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o nível do <color=#FFD780FF>Guardião do Coração</color> em 3.\nO nível máximo de elevação é 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Бронефартук</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Breastplate</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Breastplate</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Giáp Hộ Tâm</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_3"
+  },
+  {
+    "title": {
+      "zhs": "之后会扫干净的",
+      "zht": "之後會掃乾淨的",
+      "jp": "綺麗にしますから",
+      "ko": "나중에 청소할게요",
+      "en": "To Be Cleaned",
+      "de": "Zur Säuberung vorgesehen",
+      "es": "Limpieza obligada",
+      "fr": "Je vais nettoyer après",
+      "pt": "A Ser Limpo",
+      "ru": "Всё будет чисто",
+      "id": "To Be Cleaned",
+      "th": "To Be Cleaned",
+      "vi": "Sẽ Dọn Dẹp Sạch Sẽ"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>护心铠</color>在效果结束时，或因伤害破碎时，会对周围的敌人造成400%攻击力的<color=#FFE699FF>岩元素伤害</color>。",
+      "zht": "<color=#FFD780FF>護心鎧</color>在效果結束時，或因傷害破碎時，會對周圍的敵人造成400%攻擊力的<color=#FFE699FF>岩元素傷害</color>。",
+      "jp": "<color=#FFD780FF>護心鎧</color>効果終了時、またはダメージによって破壊された時、周囲の敵に攻撃力400%分の<color=#FFE699FF>岩元素ダメージ</color>を与える。",
+      "ko": "<color=#FFD780FF>호심경</color> 효과가 종료되거나 피해를 받아 파괴되면 주변의 적에게 공격력 400%의 <color=#FFE699FF>바위 원소 피해</color>를 준다",
+      "en": "When <color=#FFD780FF>Breastplate</color>'s duration expires or it is destroyed by DMG, it will deal 400% ATK of <color=#FFE699FF>Geo DMG</color> to surrounding opponents.",
+      "de": "Fügt Gegnern in der Umgebung nach dem Ende des Effekts von <color=#FFD780FF>Brustpanzer</color> oder nach Zerstörung des Schildes <color=#FFE699FF>Geo-Schaden</color> in Höhe von 400 % ANG zu.",
+      "es": "Cuando termina la duración de <color=#FFD780FF>Guardiana del corazón</color> o el escudo se rompe debido al daño, inflige un 400% de <color=#FFE699FF>Daño Geo</color> a los enemigos cercanos.",
+      "fr": "<color=#FFD780FF>Armure de cœur</color> inflige une quantité de <color=#FFE699FF>DGT Géo</color> équivalant à 400 % de l'ATQ aux ennemis proches lorsqu'elle prend fin ou que l'armure est détruite.",
+      "pt": "Quando o <color=#FFD780FF>Guardião do Coração</color> termina ou se rompe, causa 400% de ATQ como <color=#FFE699FF>Dano Geo</color> aos inimigos ao redor.",
+      "ru": "Если оканчивается действие щита навыка <color=#FFD780FF>Бронефартук</color> или щит оказывается разрушен, то окружающим врагам наносится <color=#FFE699FF>Гео урон</color>, равный 400% от силы атаки.",
+      "id": "<color=#FFD780FF>Breastplate</color> mengakibatkan <color=#FFE699FF>Geo DMG</color> sebesar 400% ATK ke musuh di sekitar saat hancur atau saat durasi selesai.",
+      "th": "เมื่อเอฟเฟกต์ของ <color=#FFD780FF>Breastplate</color> จบลงหรือได้รับความเสียหาย จนสลายไป จะสร้าง <color=#FFE699FF>ความเสียหายหิน</color> เป็น 400% ของพลังโจมตี กับศัตรูโดยรอบ",
+      "vi": "Khi hiệu quả <color=#FFD780FF>Giáp Hộ Tâm</color> kết thúc hoặc do sát thương đánh vỡ, sẽ tạo thành <color=#FFE699FF>sát thương Nguyên Tố Nham</color> với lực tấn công 400% cho kẻ địch xung quanh."
+    },
+    "imgid": "constellation_4"
+  },
+  {
+    "title": {
+      "zhs": "骑士团扫除专家",
+      "zht": "騎士團掃除專家",
+      "jp": "騎士団の掃除達人",
+      "ko": "기사단 청소 전문가",
+      "en": "Favonius Sweeper Master",
+      "de": "Säuberungsexpertin des Ordens",
+      "es": "Experta en limpieza",
+      "fr": "Maîtresse de ménage",
+      "pt": "Governanta de Favonius",
+      "ru": "Рыцарь метлы и щётки",
+      "id": "Favonius Sweeper Master",
+      "th": "Favonius Sweeper Master",
+      "vi": "Chuyên Gia Quét Dọn Đội Kỵ Sĩ"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>大扫除</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>大掃除</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>大掃除</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>대청소</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Sweeping Time</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Großreinigung</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Hora de limpiar</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Grand ménage</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o nível da <color=#FFD780FF>Grande Limpeza</color> em 3.\nO nível máximo de elevação é 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Генеральная уборка</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Sweeping Time</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Sweeping Time</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Quét Sạch</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_5"
+  },
+  {
+    "title": {
+      "zhs": "要一尘不染才行",
+      "zht": "要一塵不染才行",
+      "jp": "埃は許しません",
+      "ko": "티끌 하나도 용서할 수 없어",
+      "en": "Must Be Spotless",
+      "de": "Putzfimmel",
+      "es": "Debe quedar impoluto",
+      "fr": "Aucune poussière",
+      "pt": "Deve Ser Impecável",
+      "ru": "Пятновыводитель",
+      "id": "Must Be Spotless",
+      "th": "Must Be Spotless",
+      "vi": "Phải Sạch Bong Kin Kít"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>大扫除</color>额外提高诺艾尔防御力50%的攻击力；\n此外，在技能持续时间内，每打倒1个敌人，其持续时间将延长1秒，最多不会超过10秒。",
+      "zht": "<color=#FFD780FF>大掃除</color>額外提高諾艾爾防禦力50%的攻擊力；\n此外，在技能持續時間內，每打倒1個敵人，其持續時間將延長1秒，最多不會超過10秒。",
+      "jp": "<color=#FFD780FF>大掃除</color>発動で、ノエルの防御力50%分の攻撃力を追加でアップする。\nスキル継続中、敵1体倒す度に継続時間+1秒。最大10秒まで。",
+      "ko": "<color=#FFD780FF>대청소</color> 발동 시 추가로 노엘 방어력의 50%만큼 공격력이 증가한다.\n이외에도 스킬 지속 시간 내에 적 1기를 처치할 때마다 지속 시간이 1초 늘어난다. 최대 지속 시간: 10초",
+      "en": "<color=#FFD780FF>Sweeping Time</color> increases Noelle's ATK by an additional 50% of her DEF.\nAdditionally, every opponent defeated during the skill's duration adds 1s to the duration, up to 10s.",
+      "de": "<color=#FFD780FF>Großreinigung</color> erhöht den ANG zusätzlich um 50 % der VTD von Noelle.\nVerlängert die Wirkungsdauer für jeden während der Dauer besiegten Gegner um 1 s und insgesamt um bis zu 10 s.",
+      "es": "<color=#FFD780FF>Hora de limpiar</color> aumenta el ATQ de Noelle en un 50% adicional de su DEF.\nAdemás, mientras dure la habilidad, su duración se extenderá en 1 s por cada enemigo derrotado (máx. 10 s).",
+      "fr": "<color=#FFD780FF>Grand ménage</color> fait bénéficier Noëlle d'un bonus supplémentaire d'ATQ à hauteur de 50 % de sa DÉF.\nDe plus, chaque ennemi vaincu pendant que la compétence est active prolonge sa durée de 1 s (10 s max).",
+      "pt": "A <color=#FFD780FF>Grande Limpeza</color> aumenta o ATQ de Noelle em um adicional de 50% de sua DEF.\nDurante esta habilidade, adiciona 1s de tempo de duração para cada oponente derrotado, até 10s.",
+      "ru": "Навык <color=#FFD780FF>Генеральная уборка</color> увеличивает силу атаки на дополнительные 50% от защиты Ноэлль.\nТакже каждый побеждённый враг добавляет 1 сек. к длительности навыка, пока он активен. Макс. 10 сек.",
+      "id": "<color=#FFD780FF>Sweeping Time</color> meningkatkan ATK Noelle dengan tambahan 50% dari DEF Noelle.\nDurasi skill meningkat 1 detik setiap mengalahkan musuh saat skill masih aktif, hingga 10 detik.",
+      "th": "<color=#FFD780FF>Sweeping Time</color> จะเสริมพลังโจมตีให้ Noelle เป็น 50% ของพลังป้องกัน;\nนอกจากนี้ในช่วงเวลาที่สกิลคงอยู่ ทุกครั้งที่โค่นศัตรูลงได้ 1 ตัว การคงอยู่จะนานขึ้น 1 วินาที โดยสูงสุดไม่เกิน 10 วินาที",
+      "vi": "<color=#FFD780FF>Quét Sạch</color> tăng thêm sức tấn công tương đương 50% phòng ngự của Noelle.\nNgoài ra, trong thời gian duy trì mỗi lần đánh bại 1 kẻ địch, thời gian sẽ kéo dài thêm 1s, tối đa 10s."
+    },
+    "imgid": "constellation_6"
+  }
+]

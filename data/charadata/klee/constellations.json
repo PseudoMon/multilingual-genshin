@@ -1,0 +1,200 @@
+[
+  {
+    "title": {
+      "zhs": "连环轰隆",
+      "zht": "連環轟隆",
+      "jp": "ゴロゴロコンボ",
+      "ko": "연쇄 폭발",
+      "en": "Chained Reactions",
+      "de": "Kettenreaktion",
+      "es": "Explosión en cadena",
+      "fr": "Bombardement continu",
+      "pt": "Explosão em Cadeia",
+      "ru": "Цепные реакции",
+      "id": "Chained Reaction",
+      "th": "Chained Reactions",
+      "vi": "Vụ Nổ Liên Hoàn"
+    },
+    "description": {
+      "zhs": "攻击与施放技能时，有几率召唤火花轰击敌人，造成相当于<color=#FFD780FF>轰轰火花</color>攻击伤害120%的伤害。",
+      "zht": "攻擊與施放技能時，有機率召喚火花轟擊敵人，造成相當於<color=#FFD780FF>轟轟火花</color>攻擊傷害120%的傷害。",
+      "jp": "攻撃やスキル発動時、一定の確率で花火を召喚して敵を攻撃し、<color=#FFD780FF>ドッカン花火</color>の攻撃力120%分のダメージを与える。",
+      "ko": "공격과 스킬 발동 시 일정 확률로 불꽃을 소환해 적을 폭격하여 <color=#FFD780FF>쾅쾅 불꽃</color>으로 가하는 피해의 120%만큼 피해를 준다",
+      "en": "Attacks and Skills have a certain chance to summon sparks that bombard opponents, dealing DMG equal to 120% of <color=#FFD780FF>Sparks 'n' Splash</color>'s DMG.",
+      "de": "Erschafft beim Angriff und beim Einsetzen von Fähigkeiten mit gewisser Wahrscheinlichkeit Funken, die Gegner angreifen und Schaden in Höhe von 120 % des Schadens von <color=#FFD780FF>Funkelfunken</color> verursachen.",
+      "es": "Al atacar o usar una habilidad, hay una probabilidad de invocar chispas que atacan al enemigo, las cuales infligen daño equivalente al 120% del daño de <color=#FFD780FF>Chispas explosivas</color>.",
+      "fr": "Les attaques et compétences ont une chance de générer des étincelles qui bombardent les ennemis, infligeant 120 % des DGT de <color=#FFD780FF>Fleur bombardier</color>.",
+      "pt": "Ataques e Habilidades possuem certa chance de invocar faíscas que bombardeiam o inimigo, causando Dano igual a 120% das <color=#FFD780FF>Faíscas Explosivas</color>.",
+      "ru": "Исполнение атак и навыков имеет шанс забросать врагов искрами, нанося урон, равный 120% от урона навыка <color=#FFD780FF>Грохот и искры</color>.",
+      "id": "Saat melancarkan serangan atau skill, Klee memiliki kemungkinan untuk menimbulkan percikan api yang mengakibatkan DMG sebesar 120% dari DMG <color=#FFD780FF>Sparks 'n' Splash</color> pada musuh.",
+      "th": "เมื่อโจมตีและใช้สกิล จะมีโอกาสที่จะเรียกประกายไฟ เพื่อระดมโจมตีใส่ศัตรู สร้างความเสียหายเทียบเท่ากับ 120% ของความเสียหายของ <color=#FFD780FF>Sparks 'n' Splash</color>",
+      "vi": "Khi tấn công và thi triển kỹ năng, có tỷ lệ triệu hồi tia lửa tấn công kẻ địch, gây sát thương tương đương với 120% sát thương của <color=#FFD780FF>Tia Lửa Mãnh Liệt</color>."
+    },
+    "imgid": "constellation_1"
+  },
+  {
+    "title": {
+      "zhs": "破破弹片",
+      "zht": "破破彈片",
+      "jp": "弾丸の破片",
+      "ko": "퍄퍄 포탄 파편",
+      "en": "Explosive Frags",
+      "de": "Splitterbombe",
+      "es": "Fragmentos de metralla",
+      "fr": "Éclats de bombe",
+      "pt": "Fragmentos Explosivos",
+      "ru": "Осколочные мины",
+      "id": "Explosive Frags",
+      "th": "Explosive Frags",
+      "vi": "Mảnh Đạn Vỡ Vụn"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>蹦蹦炸弹</color>的诡雷会使敌人的防御力降低23%，持续10秒。",
+      "zht": "<color=#FFD780FF>蹦蹦炸彈</color>的詭雷會使敵人的防禦力降低23%，持續10秒。",
+      "jp": "<color=#FFD780FF>ボンボン爆弾</color>のブービートラップのダメージを受けた敵の防御力-23%、継続時間10秒。",
+      "ko": "<color=#FFD780FF>통통 폭탄</color>의 부비트랩은 적의 방어력을 23% 감소시킨다. 지속 시간: 10초",
+      "en": "Being hit by <color=#FFD780FF>Jumpy Dumpty</color>'s mines decreases opponents' DEF by 23% for 10s.",
+      "de": "Die Sprengfallen von <color=#FFD780FF>Bimm-Bamm-Bombe</color> verringern die VTD von Gegnern 10 s lang um 23 %.",
+      "es": "Las minas de <color=#FFD780FF>Bomba saltarina</color> reducen la DEF de los enemigos en un 23% durante 10 s.",
+      "fr": "Les mines de <color=#FFD780FF>Bombe rebondissante</color> réduisent la DÉF des ennemis de 23 % pendant 10 s.",
+      "pt": "Ao ser atingido pelas minas da <color=#FFD780FF>Bomba Saltitante</color>, diminui a DEF do inimigo em 23% por 10s.",
+      "ru": "Мины навыка <color=#FFD780FF>Прыг-скок бомба</color> уменьшают защиту коснувшихся их врагов на 23% в течение 10 сек.",
+      "id": "DEF musuh berkurang 23% selama 10 detik saat terkena ranjau dari <color=#FFD780FF>Jumpy Dumpty</color>.",
+      "th": "กับระเบิดของ <color=#FFD780FF>Jumpy Dumpty</color> จะทำให้พลังป้องกันของศัตรู ลดลง 23% เป็นเวลา 10 วินาที",
+      "vi": "Quỷ Lôi của <color=#FFD780FF>Bom Nảy</color> sẽ làm giảm 23% phòng ngự của kẻ địch, kéo dài 10s."
+    },
+    "imgid": "constellation_2"
+  },
+  {
+    "title": {
+      "zhs": "可莉特调",
+      "zht": "可莉特調",
+      "jp": "クレー特製",
+      "ko": "클레 특제",
+      "en": "Exquisite Compound",
+      "de": "Klees Sonderanfertigung",
+      "es": "Mezcla especial de Klee",
+      "fr": "Réglage spécial de Klee",
+      "pt": "Coquetel Especial de Klee",
+      "ru": "Фирменный ингредиент",
+      "id": "Exquisite Compound",
+      "th": "Exquisite Compound",
+      "vi": "Đặc Chế Klee"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>蹦蹦炸弹</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>蹦蹦炸彈</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>ボンボン爆弾</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>통통 폭탄</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Jumpy Dumpty</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Bimm-Bamm-Bombe</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Bomba saltarina</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Bombe rebondissante</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o nível da <color=#FFD780FF>Bomba Saltitante</color> em 3.\nO nível máximo de elevação é 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Прыг-скок бомба</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Jumpy Dumpty</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Jumpy Dumpty</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Bom Nảy</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_3"
+  },
+  {
+    "title": {
+      "zhs": "一触即发",
+      "zht": "一觸即發",
+      "jp": "一触即発",
+      "ko": "일촉즉발",
+      "en": "Sparkly Explosion",
+      "de": "Manuelle Explosion",
+      "es": "¡Bomba va!",
+      "fr": "Tout est prêt",
+      "pt": "Coelho Ativado",
+      "ru": "Взрывоопасно",
+      "id": "Sparkly Explosion",
+      "th": "Sparkly Explosion",
+      "vi": "Thỏ Xông Lên"
+    },
+    "description": {
+      "zhs": "如果在<color=#FFD780FF>轰轰火花</color>持续期间内退场，会引发爆炸，造成555%攻击力的<color=#FF9999FF>火元素范围伤害</color>。",
+      "zht": "如果在<color=#FFD780FF>轟轟火花</color>持續期間內退場，會引發爆炸，造成555%攻擊力的<color=#FF9999FF>火元素範圍傷害</color>。",
+      "jp": "<color=#FFD780FF>ドッカン花火</color>継続中にキャラクターを切り替えると、爆発が発生し、攻撃力555%分の<color=#FF9999FF>炎元素範囲ダメージ</color>を与える。",
+      "ko": "<color=#FFD780FF>쾅쾅 불꽃</color>이 지속되는 동안 퇴장하면 폭발을 일으켜 공격력 555%의 <color=#FF9999FF>불 원소 범위 피해</color>를 준다",
+      "en": "If Klee leaves the field during the duration of <color=#FFD780FF>Sparks 'n' Splash</color>, her departure triggers an explosion that deals 555% of her ATK as <color=#FF9999FF>AoE Pyro DMG</color>.",
+      "de": "Löst beim Auswechseln der Figur während der Wirkungsdauer von <color=#FFD780FF>Funkelfunken</color> eine Explosion aus, die <color=#FF9999FF>Pyro-Flächenschaden</color> in Höhe von 555 % ANG verursacht.",
+      "es": "Si Klee se retira de combate mientras la habilidad <color=#FFD780FF>Chispas explosivas</color> está activa, creará una explosión que inflige un 555% de <color=#FF9999FF>Daño Pyro en el AdE</color>.",
+      "fr": "Une explosion se produit lorsque Klee quitte le champ de bataille tant que <color=#FFD780FF>Fleur bombardier</color> est active. Cette explosion inflige 555 % de l'ATQ en <color=#FF9999FF>DGT Pyro de zone</color>.",
+      "pt": "Se Klee deixa o campo de batalha durante as <color=#FFD780FF>Faíscas Explosivas</color>, a sua partida ativa uma explosão que causa 555% do seu ATQ como <color=#FF9999FF>Dano Pyro em uma AdE</color>.",
+      "ru": "Если Кли покидает поле боя во время навыка <color=#FFD780FF>Грохот и искры</color>, активируется взрыв, который наносит 555% её силы атаки в качестве <color=#FF9999FF>Пиро урона по площади</color>.",
+      "id": "Jika Klee meninggalkan medan pertempuran saat <color=#FFD780FF>Sparks 'n' Splash</color> sedang berlangsung, kepergian Klee akan memicu ledakan yang mengakibatkan <color=#FF9999FF>Pyro DMG Area</color> sebesar 555% ATK.",
+      "th": "หากออกจากการต่อสู้ระหว่าง ช่วงเวลาต่อเนื่องของ <color=#FFD780FF>Sparks 'n' Splash</color> จะทำให้เกิดการระเบิดสร้าง <color=#FF9999FF>ความเสียหายไฟวงกว้าง</color> เป็น 555% ของพลังโจมตี",
+      "vi": "Nếu rời khỏi trận trong thời gian <color=#FFD780FF>Tia Lửa Mãnh Liệt</color> đang tồn tại, sẽ tạo ra vụ nổ, gây <color=#FF9999FF>Sát Thương Phạm Vi Nguyên Tố Hỏa</color> với 555% lực tấn công."
+    },
+    "imgid": "constellation_4"
+  },
+  {
+    "title": {
+      "zhs": "轰击之星",
+      "zht": "轟擊之星",
+      "jp": "轟撃の星",
+      "ko": "포격 천재",
+      "en": "Nova Burst",
+      "de": "Explodierender Stern",
+      "es": "Estrella de los bombardeos",
+      "fr": "Bombardement d'étoiles",
+      "pt": "Estrela dos Bombardeios",
+      "ru": "Сверхновая звезда",
+      "id": "Nova Burst",
+      "th": "Nova Burst",
+      "vi": "Ngôi Sao Ném Bom"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>轰轰火花</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>轟轟火花</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>ドッカン花火</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>쾅쾅 불꽃</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Sparks 'n' Splash</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Funkelfunken</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Chispas explosivas</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Fleur bombardier</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o nível das <color=#FFD780FF>Faíscas Explosivas</color> em 3.\nO nível máximo de elevação é 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Грохот и искры</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Sparks 'n' Splash</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Sparks 'n' Splash</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Tia Lửa Mãnh Liệt</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_5"
+  },
+  {
+    "title": {
+      "zhs": "火力全开",
+      "zht": "火力全開",
+      "jp": "火力全開",
+      "ko": "화력 전개",
+      "en": "Blazing Delight",
+      "de": "Feuer frei!",
+      "es": "¡Klee a la carga!",
+      "fr": "À tout feu",
+      "pt": "Fogo Aberto",
+      "ru": "Пламенный восторг",
+      "id": "Blazing Delight",
+      "th": "Blazing Delight",
+      "vi": "Toàn Bộ Hỏa Lực"
+    },
+    "description": {
+      "zhs": "在<color=#FFD780FF>轰轰火花</color>的状态下，可莉每3秒会为队伍中所有角色（不包括可莉自己）恢复3点元素能量；\n施放<color=#FFD780FF>轰轰火花</color>后的25秒内，队伍中所有角色获得10%<color=#FF9999FF>火元素伤害加成</color>。",
+      "zht": "在<color=#FFD780FF>轟轟火花</color>的狀態下，可莉每3秒會為隊伍中所有角色（不包括可莉自身）恢復3點元素能量；\n施放<color=#FFD780FF>轟轟火花</color>後的25秒內，隊伍中所有角色獲得10%<color=#FF9999FF>火元素傷害加成</color>。",
+      "jp": "<color=#FFD780FF>ドッカン花火</color>状態中、クレーは3秒毎にチーム全員（クレー自身を除く）の元素エネルギーを3回復する。\n<color=#FFD780FF>ドッカン花火</color>発動後25秒間、チーム全員の<color=#FF9999FF>炎元素ダメージ</color>+10%。",
+      "ko": "<color=#FFD780FF>쾅쾅 불꽃</color> 상태에서 클레는 3초마다 파티 내 모든 캐릭터(클레 자신을 포함하지 않음)의 원소 에너지 3pt를 지속해서 회복시킨다.\n<color=#FFD780FF>쾅쾅 불꽃</color> 발동 후 25초 동안 파티 내 모든 캐릭터는 <color=#FF9999FF>불 원소 피해 보너스</color>를 10% 획득한다",
+      "en": "While under the effects of <color=#FFD780FF>Sparks 'n' Splash</color>, Klee will regenerate 3 Energy for all members of the party (excluding Klee) every 3s.\nWhen <color=#FFD780FF>Sparks 'n' Splash</color> is used, all party members will gain a 10% <color=#FF9999FF>Pyro DMG Bonus</color> for 25s.",
+      "de": "Klee stellt allen Truppenmitgliedern (außer sich selbst) während der Wirkungsdauer von <color=#FFD780FF>Funkelfunken</color> alle 3 s 3 Punkte Elementarenergie wieder her.\nErhöht den <color=#FF9999FF>Pyro-Schaden</color> aller Truppenmitglieder nach Anwenden von <color=#FFD780FF>Funkelfunken</color> 25 s lang um 10 %.",
+      "es": "Mientras las <color=#FFD780FF>Chispas explosivas</color> estén activas, Klee hará que todos los miembros del equipo (a excepción de Klee) recuperen 3 pts. de Energía Elemental cada 3 s.\nDespués de activar <color=#FFD780FF>Chispas explosivas</color>, todos los miembros del equipo reciben un 10% de <color=#FF9999FF>Bono de Daño Pyro</color> durante 25 s.",
+      "fr": "Klee restaure 3 pts d'énergie élémentaire à tous les membres de l'équipe (à l'exception de Klee) toutes les 3 s tant que <color=#FFD780FF>Fleur bombardier</color> est active.\nL'activation de <color=#FFD780FF>Fleur bombardier</color> confère un bonus de <color=#FF9999FF>DGT Pyro</color> de 10 % pendant 25 s à tous les membres de l'équipe.",
+      "pt": "Enquanto sob o efeito de <color=#FFD780FF>Faíscas Explosivas</color>, Klee regenera 3 de Energia para todos os membros da equipe (exceto Klee) a cada 3s.\nQuando <color=#FFD780FF>Faíscas Explosivas</color> for usado, todos os membros do grupo ganharão 10% de <color=#FF9999FF>Bônus de Dano Pyro</color> por 25s.",
+      "ru": "Когда навык <color=#FFD780FF>Грохот и искры</color> активен, Кли каждые 3 сек. восстанавливает 3 ед. элементальной энергии другим членам отряда.\nАктивация навыка <color=#FFD780FF>Грохот и искры</color> даёт всем членам отряда 10% <color=#FF9999FF>бонус Пиро урона</color> на 25 сек.",
+      "id": "Saat <color=#FFD780FF>Sparks 'n' Splash</color> aktif, Klee akan memulihkan 3 Energy setiap 3 detik untuk semua anggota party (tidak termasuk Klee sendiri).\nSetelah melancarkan <color=#FFD780FF>Sparks 'n' Splash</color>, seluruh anggota party mendapatkan 10% <color=#FF9999FF>Pyro DMG Bonus</color> selama 25 detik.",
+      "th": "ภายใต้สภาวะของ <color=#FFD780FF>Sparks 'n' Splash</color> ในทุก 3 วินาที Klee จะฟื้นฟูพลังงานธาตุ 3 หน่วย ให้แก่ตัวละครทั้งหมดในทีม (ไม่รวมตัวของ Klee เอง);\nหลังจากใช้ <color=#FFD780FF>Sparks 'n' Splash</color> ตัวละครทั้งหมดในทีมจะได้รับ <color=#FF9999FF>โบนัสความเสียหายไฟ</color> 10% เป็นเวลา 25 วินาที",
+      "vi": "Trong trạng thái <color=#FFD780FF>Tia Lửa Mãnh Liệt</color>, cứ mỗi 3s Klee sẽ hồi phục 3 điểm Năng Lượng Nguyên Tố cho tất cả nhân vật trong đội (Không bao gồm bản thân Klee);\nTrong 25s sau khi phóng <color=#FFD780FF>Tia Lửa Mãnh Liệt</color>, tất cả nhân vật trong đội nhận được 10% <color=#FF9999FF>Buff Sát Thương Nguyên Tố Hỏa</color>."
+    },
+    "imgid": "constellation_6"
+  }
+]

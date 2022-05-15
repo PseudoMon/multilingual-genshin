@@ -25,14 +25,14 @@ function processDesc(oriDesc) {
   return newDesc
 }
 
-export default function CharaTalentCard({ talent, lang }) {
+export default function CharaTalentCard({ talent, lang, imgfile }) {
   const [descOpen, setDescOpen] = useState(false)
   const formattedDesc = processDesc(talent.description[lang])
 
   return (
     <div className="talent">
       <div className="talent-img-container">
-        <img src={ `/images/charaskills/${talent['imgid']}.png` } />
+        <img src={ `/images/charaskills/${imgfile}` } />
       </div>
 
       <h2 className="talent-name" onClick={ () => setDescOpen(!descOpen) }>

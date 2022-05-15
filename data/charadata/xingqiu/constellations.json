@@ -1,0 +1,200 @@
+[
+  {
+    "title": {
+      "zhs": "重帘留香",
+      "zht": "重簾留香",
+      "jp": "すだれの残香",
+      "ko": "장막의 잔향",
+      "en": "The Scent Remained",
+      "de": "Nachgeschmack",
+      "es": "Lluvia sobre mojado",
+      "fr": "Parfum persistant",
+      "pt": "O Aroma Remanescente",
+      "ru": "Запах дождя по утрам",
+      "id": "The Scent Remained",
+      "th": "The Scent Remained",
+      "vi": "Mùi Hương Vương Vấn"
+    },
+    "description": {
+      "zhs": "雨帘剑的最大数量增加1柄。",
+      "zht": "雨簾劍的最大數量增加1柄。",
+      "jp": "雨すだれの剣の最大本数+1。",
+      "ko": "우렴검의 최대 수량이 1개 증가한다",
+      "en": "Increases the maximum number of Rain Swords by 1.",
+      "de": "Erhöht die Höchstmenge an Regenschwertern um 1.",
+      "es": "Aumenta en 1 la cantidad máxima de espadas de lluvia.",
+      "fr": "Augmente le nombre max d'épées de pluie de 1.",
+      "pt": "Aumenta o número máximo de Chuva das Espadas em 1.",
+      "ru": "Увеличивает макс. количество Мечей дождя на 1.",
+      "id": "Meningkatkan 1 jumlah maksimum Rain Sword",
+      "th": "จำนวนมากสุดของ Rain Sword เพิ่มขึ้น 1 เล่ม",
+      "vi": "Số lượng tối đa của Vũ Liêm Kiếm tăng thêm 1."
+    },
+    "imgid": "constellation_1"
+  },
+  {
+    "title": {
+      "zhs": "天青现虹",
+      "zht": "天青現虹",
+      "jp": "青空の虹",
+      "ko": "맑은 하늘의 무지개",
+      "en": "Rainbow Upon the Azure Sky",
+      "de": "Klarer Himmel",
+      "es": "Arcoíris brillante",
+      "fr": "Arc-en-ciel sur le ciel d'azur",
+      "pt": "Arco-Íris Acima do Céu Azul",
+      "ru": "Радужное небо",
+      "id": "Rainbow Upon the Azure Sky",
+      "th": "Rainbow Upon the Azure Sky",
+      "vi": "Cầu Vồng Trời Xanh"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>古华剑·裁雨留虹</color>的持续时间延长3秒；\n此外，受到剑雨攻击的敌人，<color=#80C0FFFF>水元素抗性</color>降低15%，持续4秒。",
+      "zht": "<color=#FFD780FF>古華劍·裁雨留虹</color>的持續時間延長3秒；\n此外，受到劍雨攻擊的敵人，<color=#80C0FFFF>水元素抗性</color>降低15%，持續4秒。",
+      "jp": "<color=#FFD780FF>古華剣·裁雨留虹</color>の継続時間+3秒。\nその他、剣雨攻撃を受けた敵の<color=#80C0FFFF>水元素耐性</color>-15%、継続時間4秒。",
+      "ko": "<color=#FFD780FF>고화검·재우유홍</color>의 지속시간이 3초 증가한다.\n검의 비의 공격을 받은 적은 <color=#80C0FFFF>물 원소 내성</color>이 15% 감소한다. 지속 시간: 4초",
+      "en": "Extends the duration of <color=#FFD780FF>Guhua Sword: Raincutter</color> by 3s.\nDecreases the <color=#80C0FFFF>Hydro RES</color> of opponents hit by sword rain attacks by 15% for 4s.",
+      "de": "Verlängert die Dauer von <color=#FFD780FF>Guhua-Schwert – Regen und Bogen</color> um 3 s.\nVerringert außerdem den <color=#80C0FFFF>Hydro-WDS</color> von mit Schwertregen angegriffenen Gegnern 4 s lang um 15 %.",
+      "es": "Extiende la duración de <color=#FFD780FF>Espada Guhua: Sable de lluvia</color> en 3 s y reduce en un 15% la <color=#80C0FFFF>RES Hydro</color> de los enemigos golpeados por la lluvia de espadas durante 4 s.",
+      "fr": "Prolonge la durée d'<color=#FFD780FF>Épée Guhua : Pluie et arc-en-ciel</color> de 3 s.\nDe plus, les épées de pluie réduisent la <color=#80C0FFFF>RÉS Hydro</color> des ennemis qu'elles touchent de 15 % pendant 4 s.",
+      "pt": "Estende a duração da <color=#FFD780FF>Espada de Guhua - Retalhador de Chuva</color> por 3 segundos.\nReduz a <color=#80C0FFFF>RES Hydro</color> dos inimigos golpeados pelos ataques do retalhador de chuva em 15% por 4 segundos.",
+      "ru": "Увеличивает длительность навыка <color=#FFD780FF>Гухуа: Радужная стойка</color> на 3 сек;\nПонижает на 15% <color=#80C0FFFF>Гидро сопротивление</color> противников, получивших урон от Мечей Дождя, на 4 сек.",
+      "id": "Memperpanjang 3 detik durasi <color=#FFD780FF>Guhua Sword: Raincutter</color>.\ndan mengurangi 15% <color=#80C0FFFF>Hydro RES</color> musuh yang terkena serangan Sword Rain selama 4 detik.",
+      "th": "ระยะเวลาคงอยู่ของ <color=#FFD780FF>Guhua Sword · Raincutter</color> นานขึ้น 3 วินาที;\nนอกจากนี้ศัตรูที่ถูกฝนดาบ โจมตีจะถูกลด <color=#80C0FFFF>ความต้านทานน้ำ</color> ลง 15% เป็นเวลา 4 วินาที",
+      "vi": "Kéo dài thời gian <color=#FFD780FF>Cổ Hoa Kiếm - Tài Vũ Lưu Hồng</color> thêm 3s;\nNgoài ra, kẻ địch chịu sát thương từ Mưa Kiếm giảm 15% kháng <color=#80C0FFFF>sát thương Nguyên Tố Thủy</color>, kéo dài 4s."
+    },
+    "imgid": "constellation_2"
+  },
+  {
+    "title": {
+      "zhs": "织诗成锦",
+      "zht": "織詩成錦",
+      "jp": "詩の錦",
+      "ko": "시로 짠 비단",
+      "en": "Weaver of Verses",
+      "de": "Reimemacher",
+      "es": "Tejedor de versos",
+      "fr": "Tisseuse de vers",
+      "pt": "Tecedor de Versos",
+      "ru": "Стихоплетение",
+      "id": "Weaver of Verses",
+      "th": "Weaver of Verses",
+      "vi": "Dệt Thơ Thành Lụa"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>古华剑·裁雨留虹</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>古華劍·裁雨留虹</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>古華剣·裁雨留虹</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>고화검·재우유홍</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Guhua Sword: Raincutter</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Guhua-Schwert – Regen und Bogen</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Espada Guhua: Sable de lluvia</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Épée Guhua - Pluie et arc-en-ciel</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o Nível de <color=#FFD780FF>Guhua: Retalhador de Chuva</color> em 3.\nPode ser elevado até Nv.15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Гухуа: Радужная стойка</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Guhua Sword: Raincutter</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Guhua Sword · Raincutter</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Cổ Hoa Kiếm - Tài Vũ Lưu Hồng</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_3"
+  },
+  {
+    "title": {
+      "zhs": "孤舟斩蛟",
+      "zht": "孤舟斬蛟",
+      "jp": "孤舟斬蛟",
+      "ko": "교룡 베기",
+      "en": "Evilsoother",
+      "de": "Vernichter des Bösen",
+      "es": "Pacificador del mal",
+      "fr": "Conquérant du dragon",
+      "pt": "Abrandamento do Mal",
+      "ru": "Укротитель зла",
+      "id": "Evilsoother",
+      "th": "Evilsoother",
+      "vi": "Cô Châu Trảm Giao"
+    },
+    "description": {
+      "zhs": "在<color=#FFD780FF>古华剑·裁雨留虹</color>效果持续期间，<color=#FFD780FF>古华剑·画雨笼山</color>造成的伤害提升50%。",
+      "zht": "在<color=#FFD780FF>古華劍·裁雨留虹</color>效果持續期間，<color=#FFD780FF>古華劍·畫雨籠山</color>造成的傷害提升50%。",
+      "jp": "<color=#FFD780FF>古華剣·裁雨留虹</color>継続中、<color=#FFD780FF>古華剣·画雨籠山</color>の与えるダメージ+50%。",
+      "ko": "<color=#FFD780FF>고화검·재우유홍</color> 효과가 지속되는 동안 <color=#FFD780FF>고화검·화우농산</color>으로 가하는 피해가 50% 증가한다",
+      "en": "Throughout the duration of <color=#FFD780FF>Guhua Sword: Raincutter</color>, the DMG dealt by <color=#FFD780FF>Guhua Sword: Fatal Rainscreen</color> is increased by 50%.",
+      "de": "Erhöht den mit <color=#FFD780FF>Guhua-Schwert – Wolkenbruch</color> verursachten Schaden während der Wirkungsdauer von <color=#FFD780FF>Guhua-Schwert – Regen und Bogen</color> um 50 %.",
+      "es": "A lo largo de la duración de <color=#FFD780FF>Espada Guhua: Sable de lluvia</color>, el daño infligido por <color=#FFD780FF>Espada Guhua: Lluvia torrencial mortal</color> aumenta en un 50%.",
+      "fr": "Pendant la durée d'<color=#FFD780FF>Épée Guhua : Pluie et arc-en-ciel</color>, les DGT infligés par l'<color=#FFD780FF>Épée Guhua : Pluie battante</color> augmentent de 50 %.",
+      "pt": "Ao longo da duração da <color=#FFD780FF>Espada de Guhua - Retalhador de Chuva</color>, o Dano causado por <color=#FFD780FF>Espada de Guhua - Chuva Torrencial</color> é aumentado em 50%.",
+      "ru": "Увеличивает урон навыка <color=#FFD780FF>Гухуа: Завеса дождя</color> на 50% во время действия навыка <color=#FFD780FF>Гухуа: Радужная стойка</color>.",
+      "id": "Pada durasi <color=#FFD780FF>Guhua Sword: Raincutter</color>, DMG yang dihasilkan oleh <color=#FFD780FF>Guhua Sword: Fatal Rainscreen</color> meningkat 50%.",
+      "th": "ในระยะเวลาคงอยู่ของ <color=#FFD780FF>Guhua Sword · Raincutter</color> ความเสียหายที่สร้างขึ้นจาก <color=#FFD780FF>Guhua Sword · Fatal Rainscreen</color> เพิ่มขึ้น 50%",
+      "vi": "Trong thời gian <color=#FFD780FF>Cổ Hoa Kiếm - Tài Vũ Lưu Hồng</color> còn hiệu lực, sát thương <color=#FFD780FF>Cổ Hoa Kiếm - Họa Vũ Lung Sơn</color> gây ra tăng 50%."
+    },
+    "imgid": "constellation_4"
+  },
+  {
+    "title": {
+      "zhs": "雨深闭门",
+      "zht": "雨深閉門",
+      "jp": "雨深閉門",
+      "ko": "우심폐문",
+      "en": "Embrace of Rain",
+      "de": "Tanz im Regen",
+      "es": "Baile bajo la lluvia",
+      "fr": "Embrassement de pluie",
+      "pt": "Abrace a Chuva",
+      "ru": "Объятья дождя",
+      "id": "Embrace of Rain",
+      "th": "Embrace of Rain",
+      "vi": "Đóng Cửa Trong Mưa"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>古华剑·画雨笼山</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>古華劍·畫雨籠山</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>古華剣·画雨籠山</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>고화검·화우농산</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Guhua Sword: Fatal Rainscreen</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Guhua-Schwert – Wolkenbruchn</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Espada Guhua: Lluvia torrencial mortal</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Épée Guhua : Pluie battante</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o Nível da <color=#FFD780FF>Espada de Guhua - Chuva Torrencial</color> em 3.\nPode ser elevado até Nv.15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Гухуа: Завеса дождя</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Guhua Sword: Fatal Rainscreen</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Guhua Sword · Fatal Rainscreen</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Cổ Hoa Kiếm - Họa Vũ Lung Sơn</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_5"
+  },
+  {
+    "title": {
+      "zhs": "万文集此",
+      "zht": "萬文集此",
+      "jp": "万文ここにあり",
+      "ko": "만문 집결",
+      "en": "Hence, Call Them My Own Verses",
+      "de": "Gesammelte Werke",
+      "es": "Colección de poesía",
+      "fr": "Rassemblement d'articles",
+      "pt": "Coleção de Poemas",
+      "ru": "Собрание сочинений",
+      "id": "Hence, Call Them My Own Verses",
+      "th": "Hence, Call Them My Own Verses",
+      "vi": "Sách Đều Ở Đây"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>古华剑·裁雨留虹</color>每发动2次剑雨攻击，就大幅增强下一次剑雨攻击，并在命中敌人时为行秋恢复3点元素能量。",
+      "zht": "<color=#FFD780FF>古華劍·裁雨留虹</color>每發動兩次劍雨攻擊，就大幅增強下一次劍雨攻擊，並在命中敵人時為行秋恢復3點元素能量。",
+      "jp": "<color=#FFD780FF>古華剣·裁雨留虹</color>が剣雨攻撃を2回発動する度に、次の剣雨攻撃が大幅に強化され、敵に命中する時行秋の元素エネルギーを3回復する。",
+      "ko": "<color=#FFD780FF>고화검·재우유홍</color> 검의 비 공격을 2회 발동할 때마다 다음 검의 비 공격을 대폭 강화하고 적을 명중 시 행추의 원소 에너지를 3pt 회복한다",
+      "en": "Activating 2 of <color=#FFD780FF>Guhua Sword: Raincutter</color>'s sword rain attacks greatly enhances the third sword rain attack. On hit, the third sword rain attack also regenerates 3 Energy for Xingqiu.",
+      "de": "Verstärkt jeden dritten Schwertregenangriff von <color=#FFD780FF>Guhua-Schwert – Regen und Bogen</color> enorm und stellt Xingqiu bei einem Treffer damit 3 Punkte Elementarenergie wieder her.",
+      "es": "Con cada 2 ataques de lluvia de espadas de <color=#FFD780FF>Espada Guhua: Sable de lluvia</color>, el daño de la siguiente lluvia de espadas aumentará considerablemente. Además, Xingchiu recupera 3 pts. de Energía Elemental cada vez que ataca a sus enemigos con una lluvia de espadas.",
+      "fr": "Les DGT du déluge d'épées d'<color=#FFD780FF>Épée Guhua : Pluie et arc-en-ciel</color> augmentent considérablement tous les 2 pluies d'épées ; Xingqiu récupère de plus 3 pts d'énergie élémentaire.",
+      "pt": "A cada 2 golpes da <color=#FFD780FF>Espada de Guhua - Retalhador de Chuva</color> o ataque da chuva de espadas aumenta drasticamente o Dano do terceiro golpe, e ao atingir um inimigo, o terceiro golpe de chuva de espadas de Xingqiu regenerará 3 de Energia.",
+      "ru": "Каждые две атаки Мечей Дождя навыка <color=#FFD780FF>Гухуа: Радужная стойка</color> увеличивают урон следующей атаки Мечей Дождя. При попадании атаки Мечей Дождя восстанавливают 3 ед. энергии Син Цю.",
+      "id": "Mengaktifkan 2 dari <color=#FFD780FF>Guhua Sword: Raincutter</color> Sword Rain akan meningkatkan DMG ketiganya. Xingqiu akan mendapatkan 3 Energy saat Sword Rain mengenai musuh.",
+      "th": "ทุกการปล่อยการโจมตีด้วยฝนดาบ 2 ครั้ง <color=#FFD780FF>Guhua Sword · Raincutter</color> จะเพิ่มความเสียหายของ ฝนดาบครั้งต่อไปขึ้นใน ปริมาณมาก และฟื้นฟูพลังงานธาตุของ Xingqiu ขึ้น 3 หน่วยในตอนที่โจมตีโดนศัตรู",
+      "vi": "Mỗi khi <color=#FFD780FF>Cổ Hoa Kiếm - Tài Vũ Lưu Hồng</color> phát động 2 lần mưa kiếm, sẽ tăng sát thương của lần mưa kiếm tiếp theo, đồng thời khi đánh trúng địch sẽ hồi phục 3 điểm Năng Lượng Nguyên Tố cho Xingqiu."
+    },
+    "imgid": "constellation_6"
+  }
+]

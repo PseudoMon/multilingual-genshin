@@ -1,0 +1,200 @@
+[
+  {
+    "title": {
+      "zhs": "沉没的预言",
+      "zht": "沉沒的預言",
+      "jp": "沈没の預言",
+      "ko": "침몰한 예언",
+      "en": "Prophecy of Submersion",
+      "de": "Prophezeiung des Untergangs",
+      "es": "Profecía de sumersión",
+      "fr": "Prophétie immersive",
+      "pt": "Profecia da Submersão",
+      "ru": "Пророчество потопа",
+      "id": "Prophecy of Submersion",
+      "th": "Prophecy of Submersion",
+      "vi": "Tiên Tri Chìm Đắm"
+    },
+    "description": {
+      "zhs": "队伍中自己的角色攻击命中处于星异状态下的敌人后的8秒内，<color=#80C0FFFF>水元素相关反应</color>的效果提升：\n·感电反应造成的伤害提升15%，蒸发反应造成的伤害提升15%，水元素扩散反应造成的伤害提升15%；\n·冻结反应的持续时间延长15%。",
+      "zht": "隊伍中自己的角色攻擊命中處於星異狀態下的敵人後的8秒內，自己的角色所造成的<color=#80C0FFFF>水元素</color>相關反應效果提升：\n·感電反應造成的傷害提升15%，蒸發反應造成的傷害提升15%，水元素擴散反應造成的傷害提升15%；\n·凍結反應的持續時間延長15%。",
+      "jp": "チーム内の自身のキャラクターの攻撃が星異状態の敵に命中した後の8秒間、<color=#80C0FFFF>水元素の関連反応</color>の効果が強化される。\n·感電反応ダメージ+15%、蒸発反応ダメージ+15%、水元素の拡散反応によるダメージ+15%。\n·凍結反応の継続時間+15%。",
+      "ko": "파티 내 자신의 캐릭터가 성이 상태의 적을 명중하면 8초 동안 <color=#80C0FFFF>물 원소 관련 반응</color>의 효과가 상승한다:\n·감전 반응으로 가하는 피해+15%, 증발 반응으로 가하는 피해+15%, 물 원소 확산 반응으로 가하는 피해+15%\n·빙결 반응 지속 시간+15%",
+      "en": "When any of your own party members hits an opponent affected by an Omen, the effects of <color=#80C0FFFF>Hydro-related Elemental Reactions</color> are enhanced for 8s:\n·Electro-Charged DMG increases by 15%.\n·Vaporize DMG increases by 15%.\n·Hydro Swirl DMG increases by 15%.\n·Frozen duration is extended by 15%.",
+      "de": "Verstärkt den Effekt von <color=#80C0FFFF>Hydro-Elementarreaktionen</color>, wenn eine eigene Figur in der Truppe Gegner im Zustand Omen trifft, 8 s lang:\n· Erhöht den mit der Reaktion Unter Strom verursachten Schaden um 15 %, den mit der Reaktion Verdampfen verursachten Schaden um 15 % und den mit der Reaktion Hydro-Verwirbelung verursachten Schaden um 15 %.\n· Verlängert die Wirkungsdauer von Gefroren um 15 %.",
+      "es": "Cuando un personaje de tu equipo ataca a un enemigo afectado por un presagio, los efectos de las <color=#80C0FFFF>Reacciones Elementales con Hydro</color> se potencian durante 8 s:\n·Aumenta en un 15% el daño de Electrocargado, Vaporización y Torbellino Hydro.\n·Aumenta en un 15% la duración de Congelado en enemigos.",
+      "fr": "Les effets des <color=#80C0FFFF>réactions liées à l'élément Hydro</color> sont renforcés pendant 8 s lorsque l'attaque de vos personnages dans l'équipe touche un ennemi marqué par un présage :\n· Les DGT d'Électrocution, d'Évaporation, de Dispersion Hydro augmentent de 15 %.\n· La durée de Gel augmente de 15 %.",
+      "pt": "Os efeitos de <color=#80C0FFFF>Reações Elementais relacionadas a Hydro</color> agora são aprimorados por 8 segundos depois que o seu próprio personagem de equipe atingir um inimigo afetado por um Presságio:\n Dano Eletricamente Carregado é aumentado em 15%.\n Dano de Vaporizar é aumentado em 15%.\n Dano de Redemoinho é aumentado em 15%.\nA duração em que os inimigos ficam Congelados é aumentada em 15%.",
+      "ru": "Попадания персонажа из вашего отряда по противнику со статусом Омен на 8 сек. усиливают эффекты <color=#80C0FFFF>Гидро реакций</color>:\n· Увеличивает урон реакций Заряжен, Пар и Гидро рассеивание на 15%;\n· Увеличивает длительность реакции Заморозка на 15%.",
+      "id": "Efek <color=#80C0FFFF>Reaksi Elemental yang berhubungan dengan elemen Hydro</color> akan ditingkatkan selama 8 detik setelah karakter dalam party sendiri menyerang musuh yang terkena efek Omen:\n·DMG Electro Charged meningkat 15%.\n·DMG Vaporize meningkat 15%.\n·DMG Hydro Swirl meningkat 15%.\n·Durasi musuh yang terkena Frozen meningkat 15%.",
+      "th": "ภายใน 8 วินาที หลังจากที่ตัวละครของตนเองในทีมโจมตีถูกศัตรู ที่อยู่ภายใต้สภาวะ Omen เอฟเฟกต์ของ <color=#80C0FFFF>ปฏิกิริยาที่เกี่ยวข้องกับธาตุน้ำ</color> จะเพิ่มสูงขึ้น:\nความเสียหายที่เกิดจาก การชาร์จไฟฟ้าเพิ่มขึ้น 15% ความเสียหายที่เกิดจาก การระเหยเพิ่มขึ้น 15% ความเสียหายที่เกิดจาก การกระจายเพิ่มขึ้น 15% \nระยะเวลาต่อเนื่องของ การแช่แข็งเพิ่มขึ้น 15%",
+      "vi": "Trong vòng 8s sau khi nhân vật của bản thân trong đội tấn công địch ở trạng thái Tinh Dị, sẽ tăng hiệu quả <color=#80C0FFFF>phản ứng với Nguyên Tố Thủy</color>:\n·Tăng 15% sát thương phản ứng Điện Cảm gây ra, tăng 15% sát thương phản ứng Bốc Hơi gây ra, tăng 15% sát thương phản ứng khuếch tán Nguyên Tố Thủy gây ra.\n·Thời gian duy trì phản ứng đóng băng kéo dài 15%."
+    },
+    "imgid": "constellation_1"
+  },
+  {
+    "title": {
+      "zhs": "星月的连珠",
+      "zht": "星月的連珠",
+      "jp": "星月の連珠",
+      "ko": "성월의 연주",
+      "en": "Lunar Chain",
+      "de": "Sternenkette",
+      "es": "Cadena lunar",
+      "fr": "Chaîne lunaire",
+      "pt": "Corrente Lunar",
+      "ru": "Лунная цепь",
+      "id": "Lunar Chain",
+      "th": "Lunar Chain",
+      "vi": "Tinh Nguyệt Liên Châu"
+    },
+    "description": {
+      "zhs": "普通攻击命中时，有20%的几率自动施放一次重击。\n该效果每5秒只能触发一次。",
+      "zht": "普通攻擊命中時，有20%的機率自動施放一次重擊。\n該效果每5秒只能觸發一次。",
+      "jp": "通常攻撃が命中した時、20%の確率で自動的に重撃を発動する。\n5秒毎に1回のみ発動可能。",
+      "ko": "일반 공격 명중 시 20%의 확률로 강공격을 1회 추가 발동한다.\n해당 효과는 5초마다 1회만 발동한다",
+      "en": "When a Normal Attack hits, there is a 20% chance that it will be automatically followed by a Charged Attack.\nThis effect can only occur once every 5s.",
+      "de": "Löst bei Treffern mit Standardangriffen mit einer Wahrscheinlichkeit von 20 % automatisch einen heftigen Schlag aus.\n5 s Abklingzeit.",
+      "es": "Al golpear con un Ataque Normal, hay un 20% de probabilidad de que vaya seguido automáticamente por un Ataque Cargado.\nEste efecto solo puede ocurrir una vez cada 5 s.",
+      "fr": "Les attaques normales ont 20 % de chances d'être suivies par une attaque chargée.\nCet effet peut être déclenché une fois toutes les 5 s.",
+      "pt": "Quando um Ataque Normal acerta, existem 20% de chance que ele será automaticamente seguido de um Ataque Carregado.\nEsse efeito pode ocorrer apenas uma vez a cada 5 segundos.",
+      "ru": "Попадания обычной атакой имеют 20% шанс автоматически активировать заряженную атаку.\nМожет возникнуть раз в 5 сек.",
+      "id": "Saat Normal Attack mengenai musuh, memiliki 20% persentase untuk melancarkan Charged Attack.\nDapat terpicu setiap 5 detik.",
+      "th": "เมื่อโจมตีปกติถูกศัตรู จะมีโอกาส 20 % ที่จะปล่อย การชาร์จโจมตีหนึ่งครั้ง\nเอฟเฟกต์นี้จะเกิดขึ้นได้ หนึ่งครั้งในทุก 5 วิ",
+      "vi": "Khi tấn công thường đánh trúng có 20% tỷ lệ tự động thi triển trọng kích 1 lần.\nHiệu quả này mỗi 5s chỉ kích hoạt 1 lần."
+    },
+    "imgid": "constellation_2"
+  },
+  {
+    "title": {
+      "zhs": "不休的天象",
+      "zht": "不休的天象",
+      "jp": "果てしない天象",
+      "ko": "멈추지 않는 천상",
+      "en": "Restless Revolution",
+      "de": "Im ewigen Umlauf",
+      "es": "Revolución incesante",
+      "fr": "Révolution éternelle",
+      "pt": "Revolução Incessante",
+      "ru": "Бесконечное вращение планет",
+      "id": "Restless Revolution",
+      "th": "Restless Revolution",
+      "vi": "Thiên Văn Trường Tồn"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>星命定轨</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>星命定軌</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>星命定軌</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>별의 운명</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Stellaris Phantasm</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Vorbestimmte Laufbahn</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Órbita divina</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Voie divine</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o nível da <color=#FFD780FF>Órbita Divina</color> em 3.\nO nível máximo de elevação é 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Звёздный фантазм</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Stellaris Phantasm</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลของสกิล <color=#FFD780FF>Stellaris Phantasm</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Quỹ Đạo Tinh Mệnh</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_3"
+  },
+  {
+    "title": {
+      "zhs": "灭绝的预言",
+      "zht": "滅絕的預言",
+      "jp": "絶滅の預言",
+      "ko": "절멸의 예언",
+      "en": "Prophecy of Oblivion",
+      "de": "Prophezeiung der Ausrottung",
+      "es": "Profecía del fin",
+      "fr": "Prophétie de la fin",
+      "pt": "Profecia do Fim",
+      "ru": "Пророчество забвения",
+      "id": "Prophecy of Oblivion",
+      "th": "Prophecy of Oblivion",
+      "vi": "Tiên Tri Diệt Chủng"
+    },
+    "description": {
+      "zhs": "队伍中所有角色攻击处于星异状态下的敌人时，暴击率提升15%。",
+      "zht": "隊伍中所有角色攻擊處於星異狀態下的敵人時，暴擊率提升15%。",
+      "jp": "チーム内の自身のキャラクターが星異状態の敵を攻撃する時、会心率+15%。",
+      "ko": "파티 내 모든 캐릭터가 성이 상태의 적을 공격 시 치명타 확률이 15% 증가한다",
+      "en": "When any party member attacks an opponent affected by an Omen, their CRIT Rate is increased by 15%.",
+      "de": "Erhöht die KT bei Angriffen aller Truppenmitglieder auf Gegner im Zustand Omen um 15 %.",
+      "es": "Cuando cualquier miembro del equipo ataca a un enemigo afectado por un presagio, la Prob. CRIT de ese personaje aumenta en un 15%.",
+      "fr": "Augmente le taux CRIT de 15 % lorsque vos personnages dans l'équipe attaquent un ennemi marqué par un présage.",
+      "pt": "Quando todos os personagens na equipe atacarem um inimigo afetado pelo status do Presságio, sua Taxa Crítica é aumentada em 15%.",
+      "ru": "Попадания любого члена вашего отряда по врагу со статусом Омен увеличивают шанс крит. попадания на 15%.",
+      "id": "Saat anggota party menyerang musuh yang terkena efek Omen, CRIT Rate akan meningkat 15%.",
+      "th": "เมื่อตัวละครใดก็ตามในทีม โจมตีศัตรูที่อยู่ภายใต้สภาวะ Omen การโจมตีนั้นจะมีอัตราคริเพิ่มขึ้น 15%",
+      "vi": "Khi tất cả nhân vật trong đội tấn công địch ở trạng thái Tinh Dị, tỷ lệ bạo kích tăng 15%."
+    },
+    "imgid": "constellation_4"
+  },
+  {
+    "title": {
+      "zhs": "命运的嘲弄",
+      "zht": "命運的嘲弄",
+      "jp": "運命の愚弄",
+      "ko": "운명의 우롱",
+      "en": "Mockery of Fortuna",
+      "de": "Verspottung des Schicksals",
+      "es": "Burla del destino",
+      "fr": "Un tour du destin",
+      "pt": "Zombaria da Fortuna",
+      "ru": "Насмешка судьбы",
+      "id": "Mockery of Fortuna",
+      "th": "Mockery of Fortuna",
+      "vi": "Số Phận Trêu Ngươi"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>水中幻愿</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>水中幻願</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>水中幻願</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>수중 환원</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Mirror Reflection of Doom</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Trugbilder im Wasser</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Espejismo del agua</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Mirage aqueux</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o nível da <color=#FFD780FF>Água Ilusória</color> em 3.\nO nível máximo de elevação é 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Отражение фатума</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Mirror Reflection of Doom</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลของสกิล <color=#FFD780FF>Mirror Reflection of Doom</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Ảo Vọng Dưới Nước</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_5"
+  },
+  {
+    "title": {
+      "zhs": "厄运的修辞",
+      "zht": "厄運的修辭",
+      "jp": "災厄の修辞",
+      "ko": "악운의 수식",
+      "en": "Rhetorics of Calamitas",
+      "de": "Rhetorik des Unglücks",
+      "es": "Retórica de la calamidad",
+      "fr": "Rhétorique de l'adversité",
+      "pt": "Retórica da Calamidade",
+      "ru": "Риторика катаклизма",
+      "id": "Rhetorics of Calamitas",
+      "th": "Rhetorics of Calamitas",
+      "vi": "Tình Cảnh Đen Đủi"
+    },
+    "description": {
+      "zhs": "进入<color=#FFD780FF>虚实流动</color>状态后，每移动1秒，莫娜的下一次重击伤害就增加60%，\n通过这种方式至多可以获得180%重击伤害加成，该效果至多持续8秒。",
+      "zht": "進入<color=#FFD780FF>虛實流動</color>狀態後，每移動1秒，莫娜的下一次重擊傷害就增加60%，\n透過這種方式至多可以獲得180%重擊傷害加成，該效果至多持續8秒。",
+      "jp": "モナが<color=#FFD780FF>虚実流動</color>状態に入った後、1秒移動する毎に、次の重撃ダメージ+60%。\n最大180%まで、継続時間8秒。",
+      "ko": "<color=#FFD780FF>흐르는 허와 실</color> 상태에 진입 후 1초 이동할 때마다 모나의 다음 강공격 피해가 60% 증가한다.\n이러한 방식으로 강공격 피해가 최대 180%까지 증가할 수 있다. 최대 지속 시간: 8초",
+      "en": "Upon entering <color=#FFD780FF>Illusory Torrent</color>, Mona gains a 60% increase to the DMG of her next Charged Attack per second of movement.\nA maximum DMG Bonus of 180% can be achieved in this manner. The effect lasts for no more than 8s.",
+      "de": "Erhöht den Schaden des nächsten heftigen Schlags für jede Sekunde, die sich Mona im Zustand <color=#FFD780FF>Irreführende Strömung</color> bewegt, um 60 %.\nAuf diese Weise kann der Schaden heftiger Schläge um bis zu 180 % erhöht werden und hält bis zu 8 s lang.",
+      "es": "Al entrar en <color=#FFD780FF>Torrente ilusorio</color>, Mona obtiene un aumento del 60% de daño en su próximo Ataque Cargado por cada segundo que se mueve.\nEl máximo bono de daño que se puede alcanzar es del 180%. Este efecto solo puede durar un máximo de 8 s.",
+      "fr": "Dans l'état <color=#FFD780FF>Vicissitude</color>, Mona obtient un bonus de 60 % DGT pour sa prochaine attaque chargée à chaque seconde passée à se déplacer.\nCet effet peut être cumulé 3 fois maximum (bonus de 180 %) et dure 8 s.",
+      "pt": "Ao entrar em <color=#FFD780FF>Vicissitude</color>, Mona ganha um aumento de 60% de Dano em seu próximo Ataque Carregado por segundo.\nUm máximo de 180% de Dano adicional pode ser atingido desta maneira, e este efeito dura por não mais que 8 segundos.",
+      "ru": "Каждая секунда движения в форме навыка <color=#FFD780FF>Иллюзорный поток</color> увеличивает урон следующей заряженной атаки Моны на 60%.\nТаким способом можно получить не более 180% бонуса урона заряженной атаки. Длится не более 8 сек.",
+      "id": "Saat dalam kondisi <color=#FFD780FF>Illusory Torrent</color> setiap 1 detik gerakan, Charged Attack Mona meningkat 60%,\nBonus DMG sampai 180% bertahan selama 8 detik.",
+      "th": "หลังจากเข้าสู่สภาวะ <color=#FFD780FF>Illusory Torrent</color> ความเสียหายจาก การชาร์จโจมตีของ Mona ครั้งต่อไปจะเพิ่มขึ้น 60% ทุก 1 วินาที\nด้วยวิธีนี้จะเพิ่มความเสียหาย ชาร์จโจมตีได้สูงสุด 180% เอฟเฟกต์นี้จะคงอยู่ได้สูงสุด 8 วินาที",
+      "vi": "Sau khi vào trạng thái <color=#FFD780FF>Dòng Chảy Ảo</color>, mỗi 1s di chuyển, sát thương trọng kích ở lần sau của Mona tăng 60%,\nTối đa có thể nhận buff sát thương trọng kích 180%, hiệu quả kéo dài 8s."
+    },
+    "imgid": "constellation_6"
+  }
+]

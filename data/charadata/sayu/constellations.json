@@ -1,0 +1,200 @@
+[
+  {
+    "title": {
+      "zhs": "一心二用之术",
+      "zht": "一心二用之術",
+      "jp": "一心二用の術",
+      "ko": "일타이피 술법",
+      "en": "Multi-Task no Jutsu",
+      "de": "Konzentrationstechnik",
+      "es": "Técnica multitarea",
+      "fr": "Technique multitâche",
+      "pt": "Técnica de Multitarefa",
+      "ru": "Дзюцу многозадачности",
+      "id": "Multi-Task no Jutsu",
+      "th": "Multi-Task no Jutsu",
+      "vi": "Nhất Tâm Nhị Dụng Thuật"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>呜呼流·影貉缭乱</color>的不倒貉貉的行动将忽视生命值限制，能同时攻击附近的敌人并为角色恢复生命值。",
+      "zht": "<color=#FFD780FF>嗚呼流·影貉繚亂</color>的不倒貉貉的行動將忽視生命值限制，能同時攻擊附近的敵人並為角色恢復生命值。",
+      "jp": "<color=#FFD780FF>嗚呼流·影貉繚乱</color>のむじむじだるまは、キャラクターのHPを無視し、周囲の敵への攻撃とキャラクターへのHP回復行動の2つを同時に行う。",
+      "ko": "<color=#FFD780FF>유후류·너구리 분신술</color>의 너구리 오뚝이는 HP 제한을 받지 않고 주변의 적을 공격하면서 캐릭터의 HP를 회복한다",
+      "en": "The Muji-Muji Daruma created by <color=#FFD780FF>Yoohoo Art: Mujina Flurry</color> will ignore HP limits and can simultaneously attack nearby opponents and heal characters.",
+      "de": "Der Mujimuji-Daruma von <color=#FFD780FF>Juhu-Stil – Mujina-Wirrsal</color> ignoriert die LP-Beschränkungen und kann somit gleichzeitig Gegner in der Nähe angreifen und die LP von Figuren wiederherstellen.",
+      "es": "Las acciones del tejón daruma invocado con <color=#FFD780FF>Técnica “¡Yujuuu!”: Frenesí tejón</color> ya no están limitadas por la Vida de los personajes, sino que atacará a los enemigos cercanos y, al mismo tiempo, curará a los miembros del equipo.",
+      "fr": "Le Daruma Muji-muji invoqué par <color=#FFD780FF>École Yoohoo : Bourrasque du mujina</color> ignore les limites de PV et peut attaquer les ennemis proches et soigner les personnages en même temps.",
+      "pt": "O Daruma Muji-Muji criado por <color=#FFD780FF>Arte Yoohoo: Agitação Mujina</color> ignora os limites de Vida e pode simultaneamente atacar inimigos próximos e curar personagens.",
+      "ru": "Призванный навыком <color=#FFD780FF>Искусство Юху: Сумасшествие Мудзина</color> Мудзи-Мудзи Дарума будет игнорировать ограничения HP и сможет одновременно атаковать окружающих врагов и лечить персонажей.",
+      "id": "Muji-Muji Daruma yang diciptakan oleh <color=#FFD780FF>Yoohoo Art: Mujina Flurry</color> akan mengabaikan batas HP dan bisa menyerang musuh terdekat serta memulihkan HP Karakter secara bersamaan.",
+      "th": "Muji-Muji Daruma ที่ถูกสร้างโดย <color=#FFD780FF>Yoohoo Art: Mujina Flurry</color> จะมองข้ามข้อจำกัดของพลังชีวิต โดยจะโจมตีศัตรูที่อยู่ใกล้ และฟื้นฟูพลังชีวิตให้แก่ตัวละครในเวลาเดียวกัน",
+      "vi": "Hành động của Muji-Muji Daruma <color=#FFD780FF>Trường Phái Yoohoo - Mujina Bối Rối</color> sẽ bỏ qua hạn chế về HP, có thể cùng lúc tấn công kẻ địch ở gần và hồi HP cho nhân vật."
+    },
+    "imgid": "constellation_1"
+  },
+  {
+    "title": {
+      "zhs": "理清逃跑路线",
+      "zht": "理清逃跑路線",
+      "jp": "逃げ道確保",
+      "ko": "도주노선 확보",
+      "en": "Egress Prep",
+      "de": "Fluchtweg",
+      "es": "¡Fuera de mi camino!",
+      "fr": "Hors de mon chemin !",
+      "pt": "Fora do Meu Caminho!",
+      "ru": "Подготовка к побегу",
+      "id": "Egress Prep",
+      "th": "Egress Prep",
+      "vi": "Mở Đường Thoát Thân"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>呜呼流·风隐急进</color>获得如下效果：\n·点按施放时，风风轮舞踢造成的伤害提高3.3%；\n·处于长按施放后的风风轮状态下时，每0.5秒，就会使这次施展的风风轮舞踢造成的伤害提高3.3%。通过这种方式，风风轮舞踢造成的伤害至多可以提高66%。",
+      "zht": "<color=#FFD780FF>嗚呼流·風隱急進</color>獲得如下效果：\n·點按施放時，風風輪舞踢造成的傷害提高3.3%。\n·處於長按施放後的風風輪狀態下時，每0.5秒，就會使這次施展的風風輪舞踢造成的傷害提高3.3%。透過這種方式，風風輪舞踢造成的傷害至多可以提高66%。",
+      "jp": "<color=#FFD780FF>嗚呼流·風隠急進</color>で下記効果を獲得する。\n·一回押し時の風々輪·旋舞蹴のダメージ+3.3%。\n·長押しの風々輪状態では、0.5秒毎に風々輪·旋舞蹴のダメージ+3.3%。この方式でアップできる風々輪·旋舞蹴のダメージは66%まで。",
+      "ko": "<color=#FFD780FF>유후류·풍은 돌진</color>으로 아래의 효과를 획득한다:\n·짧은 터치 시 풍풍륜 발차기가 가하는 피해가 3.3% 증가한다.\n·홀드하여 풍풍륜 상태에 진입하면 0.5초마다 해당 풍풍륜 발차기가 가하는 피해가 3.3% 증가한다. 해당 방식으로 풍풍륜 발차기가 가하는 피해는 최대 66% 증가한다",
+      "en": "#<color=#FFD780FF>Yoohoo Art: Fuuin Dash</color> gains the following effects:\n·DMG of Fuufuu Whirlwind Kick in {LAYOUT_MOBILE#Tapping}{LAYOUT_PC#Press}{LAYOUT_PS#Press} Mode increased by 3.3%.\n·Every 0.5s in the Fuufuu Windwheel state will increase the DMG of this Fuufuu Whirlwind Kick by 3.3%. The maximum DMG increase possible through this method is 66%.",
+      "de": "Gewährt <color=#FFD780FF>Juhu-Stil – Fuuin-Stoß</color> folgende Effekte:\n· Erhöht den mit dem Fuufuu-Windradtritt beim Drücken verursachten Schaden um 3,3 %.\n· Erhöht den mit dem Fuufuu-Windradtritt im Fuufuu-Windradmodus beim Gedrückthalten verursachten Schaden für dieses Mal alle 0,5 s um 3,3 %. Erhöhung des mit dem Fuufuu-Windraftritt verursachten Schadens um bis zu 66 % auf diese Weise möglich.",
+      "es": "#<color=#FFD780FF>Técnica “¡Yujuuu!”: Colisión de viento</color> obtiene los siguientes efectos:\n·Aumenta en un 3.3% el daño de la tornadopatada al {LAYOUT_MOBILE#tocar una vez}{LAYOUT_PC#pulsar una vez}{LAYOUT_PS#pulsar una vez}.\n·Al mantener pulsado para transformarse en una rueda de viento, el daño de la siguiente tornadopatada aumenta en un 3.3% cada 0.5 s. El daño máximo de la tornadopatada alcanzado de esta manera solo podrá ser del 66%.",
+      "fr": "<color=#FFD780FF>École Yoohoo : Course Fuuin</color> obtient les effets suivants :\n· Les DGT infligés par le coup de pied Fuufuu après un appui simple augmentent de 3,3 % ;\n· Les DGT infligés par le coup de pied Fuufuu après un appui long augmentent de 3,3 % toutes les 0,5 s passées en tourbillon Fuufuu, jusqu'à un max de 66 %.",
+      "pt": "<color=#FFD780FF>Arte Yoohoo: Ataque Fuuin</color> obtém os seguintes efeitos:\n·Quando pressiona para lançar, o Dano causado por Chute da Roda Fuufuu aumenta 3.3%;\n·A cada 0.5s no estado da Roda Fuufuu aumenta o Dano de Chute da Roda Fuufuu por 3.3%. O aumento máximo de Dano através deste método é 66%.",
+      "ru": "Навык <color=#FFD780FF>Искусство Юху: Рывок Фуин</color> получает следующие эффекты:\n· Урон от Удара вихря Фуфу в режиме быстрого нажатия увеличен на 3,3%.\n· Каждые 0,5 сек., проведённые в состоянии Ветряного колеса Фуфу, увеличивают урон этого Удара вихря Фуфу на 3,3% до макс. 66% урона.",
+      "id": "<color=#FFD780FF>Yoohoo Art: Fuuin Dash</color> mendapatkan efek berikut:\n·DMG dari Mode Tekan Fuufuu Whirlwind Kick meningkat 3,3%.\n·Saat Mode Tahan dikerahkan, dan berada dalam status FuuFuu Windwheel, DMG dari Fuufuu Whirlwind Kick kali tersebut meningkat 3,3% setiap 0,5 detik. DMG tambahan maksimum yang bisa didapat dari metode ini adalah 66%.",
+      "th": "#<color=#FFD780FF>Yoohoo Art: Fuuin Dash</color> จะได้รับเอฟเฟกต์ดังต่อไปนี้:\n·เมื่อปล่อยด้วยการ{LAYOUT_MOBILE#แตะ}{LAYOUT_PC#กด}{LAYOUT_PS#กด} Fuufuu Whirlwind Kick จะสร้างความเสียหายเพิ่มขึ้น 3.3%;\n·เมื่อ{LAYOUT_MOBILE#แตะค้าง}{LAYOUT_PC#กดค้าง}{LAYOUT_PS#กดค้าง} ทุก ๆ 0.5 วินาที ที่อยู่ในสภาวะ Fuufuu Windwheel จะทำให้ Fuufuu Whirlwind Kick ของการปล่อยครั้งนี้สร้างความเสียหายเพิ่มขึ้น 3.3% โดยที่ Fuufuu Whirlwind Kick จะสามารถเพิ่มความเสียหายด้วยวิธีนี้ได้มากสุด 66%",
+      "vi": "<color=#FFD780FF>Trường Phái Yoohoo - Fuuin Lăn Tròn</color> nhận hiệu quả sau:\n·Khi nhấn thi triển, sát thương Cú Đá Lốc Xoáy gây ra sẽ tăng 3.3%;\n·Khi ở trạng thái bánh xe gió sau khi nhấn giữ thi triển, mỗi 0.5s sẽ tăng 3.3% sát thương Cú Đá Lốc Xoáy gây ra lần này. Bằng cách này, sát thương do Cú Đá Lốc Xoáy gây ra có thể tăng tối đa đến 66%."
+    },
+    "imgid": "constellation_2"
+  },
+  {
+    "title": {
+      "zhs": "都交给分身吧",
+      "zht": "都交給分身吧",
+      "jp": "分身に任せる",
+      "ko": "분신에게 맡겨",
+      "en": "Eh, the Bunshin Can Handle It",
+      "de": "Ein Fall für Doppelgänger",
+      "es": "Déjaselo al tejón",
+      "fr": "Bah, le clone s'en occupe...",
+      "pt": "Deixe para o Bunshin",
+      "ru": "Бунсин с этим справится",
+      "id": "Eh, the Bunshin Can Handle It",
+      "th": "Eh, the Bunshin Can Handle It",
+      "vi": "Hãy Giao Cho Phân Thân"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>呜呼流·影貉缭乱</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>嗚呼流·影貉繚亂</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>嗚呼流·影貉繚乱</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>유후류·너구리 분신술</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Yoohoo Art: Mujina Flurry</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Juhu-Stil – Mujina-Wirrsal</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Técnica “¡Yujuuu!”: Frenesí tejón</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>École Yoohoo : Bourrasque du mujina</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o nível da <color=#FFD780FF>Arte Yoohoo: Agitação Mujina</color> em 3 níveis.\nO nível máximo de elevação é 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Искусство Юху: Сумасшествие Мудзина</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Yoohoo Art: Mujina Flurry</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Yoohoo Art: Mujina Flurry</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Trường Phái Yoohoo - Mujina Bối Rối</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_3"
+  },
+  {
+    "title": {
+      "zhs": "偷懒的新方法",
+      "zht": "偷懒的新方法",
+      "jp": "新しいサボる方法",
+      "ko": "새로운 농땡이 방법",
+      "en": "Skiving: New and Improved",
+      "de": "Profischwänzen",
+      "es": "Holgazanería innovadora",
+      "fr": "Paresse revue et améliorée",
+      "pt": "Novo Método de Ser Preguiçosa",
+      "ru": "Новая форма лени",
+      "id": "Skiving: New and Improved",
+      "th": "Skiving: New and Improved",
+      "vi": "Cách Lười Biếng Mới Mẻ"
+    },
+    "description": {
+      "zhs": "早柚在场上触发扩散反应时，将恢复1.2点元素能量。\n该效果每2秒只能触发一次。",
+      "zht": "早柚在場上觸發擴散反應時，將恢復1.2點元素能量。\n該效果每2秒只能觸發一次。",
+      "jp": "早柚がフィールド上で拡散反応を起こした時、元素エネルギーを1.2ポイント回復する。\nこの効果は2秒毎に1回のみ発動可能。",
+      "ko": "사유가 필드에서 확산 반응을 일으키면, 원소 에너지를 1.2pt 회복한다\n해당 효과는 2초마다 1회만 발동한다",
+      "en": "Sayu recovers 1.2 Energy when she triggers a Swirl reaction.\nThis effect occurs once every 2s.",
+      "de": "Stellt 1,2 Punkte Elementarenergie wieder her, wenn Sayu auf dem Schlachtfeld eine Verwirbelung auslöst.\n2 s Abklingzeit.",
+      "es": "Cuando Sayu causa una reacción de Torbellino, recupera 1.2 pts. de Energía Elemental.\nEsto puede ocurrir una vez cada 2 s.",
+      "fr": "Sayu récupère 1,2 pts d'énergie élémentaire lorsqu'elle déclenche une Dispersion sur le champ de bataille.\nCet effet peut être déclenché une fois toutes les 2 s.",
+      "pt": "Sayu regenera 1.2 de Energia quando ela desencadeia uma reação de Redemoinho.\nEste efeito ocorre uma vez a cada 2s.",
+      "ru": "Когда Саю, будучи активным персонажем, вызывает реакцию Рассеивание, она восстанавливает 1,2 ед. энергии.\nЭтот эффект может возникнуть раз в 2 сек.",
+      "id": "Setiap kali Sayu memicu reaksi Swirl, 1,2 Energy terpulihkan.\nDapat terpicu setiap 2 detik.",
+      "th": "เมื่อ Sayu ทำให้เกิดปฏิกิริยาการกระจาย จะฟื้นฟูพลังงานธาตุ 1.2 หน่วย\nเอฟเฟกต์นี้สามารถเกิดขึ้นได้มากสุดหนึ่งครั้ง ในทุก 2 วินาที",
+      "vi": "Khi Sayu kích hoạt phản ứng khuếch tán trong trận sẽ hồi 1.2 Năng Lượng Nguyên Tố.\nHiệu quả này mỗi 2s chỉ kích hoạt 1 lần."
+    },
+    "imgid": "constellation_4"
+  },
+  {
+    "title": {
+      "zhs": "快是第一奥义",
+      "zht": "快是第一奧義",
+      "jp": "素早さ最優先",
+      "ko": "속도가 생명",
+      "en": "Speed Comes First",
+      "de": "Schneller ist besser",
+      "es": "La velocidad es lo primero",
+      "fr": "La vitesse avant tout",
+      "pt": "A Velocidade Vem Primeiro",
+      "ru": "Скорость важнее всего",
+      "id": "Speed Comes First",
+      "th": "Speed Comes First",
+      "vi": "Tốc Độ Là Tiên Quyết"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>呜呼流·风隐急进</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>嗚呼流·風隱急進</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>嗚呼流·風隠急進</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>유후류·풍은 돌진</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Yoohoo Art: Fuuin Dash</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Juhu-Stil – Fuuin-Stoß</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Técnica “¡Yujuuu!”: Colisión de viento</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>École Yoohoo : Course Fuuin</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o nível da <color=#FFD780FF>Arte Yoohoo: Ataque Fuuin</color> em 3 níveis. \nO nível máximo de elevação é 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Искусство Юху: Рывок Фуин</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Yoohoo Art: Fuuin Dash</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Yoohoo Art: Fuuin Dash</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Trường Phái Yoohoo - Fuuin Lăn Tròn</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_5"
+  },
+  {
+    "title": {
+      "zhs": "呼呼大睡时间",
+      "zht": "呼呼大睡時間",
+      "jp": "ぐーたら寝る時間",
+      "ko": "쿨쿨 잘 시간",
+      "en": "Sleep O'Clock",
+      "de": "Schlafenszeit",
+      "es": "Cinco minutos más...",
+      "fr": "C'est l'heure d'un bon dodo",
+      "pt": "Só Mais Cinco Minutinhos",
+      "ru": "Время поспать",
+      "id": "Sleep O'Clock",
+      "th": "Sleep O'Clock",
+      "vi": "Thời Gian Ngủ Khò"
+    },
+    "description": {
+      "zhs": "早柚自己通过<color=#FFD780FF>呜呼流·影貉缭乱</color>召唤的不倒貉貉的攻击与回复量，受益于早柚的元素精通。早柚的每点元素精通，能产生如下效果：\n·使不倒貉貉的攻击额外造成0.2%攻击力的伤害。通过这种方式至多额外造成400%攻击力的伤害；\n·使不倒貉貉的回复量提高3点。通过这种方式，至多提高6000点回复量。",
+      "zht": "早柚自己透過<color=#FFD780FF>嗚呼流·影貉繚亂</color>召喚的不倒貉貉的攻擊與回復量，受益於早柚的元素精通。早柚的每點元素精通，能產生如下效果：\n·使不倒貉貉的攻擊額外造成0.2%攻擊力的傷害。透過這種方式至多額外造成400%攻擊力的傷害；\n·使不倒貉貉的回復量提高3點。透過這種方式，至多提高6000點回復量。",
+      "jp": "早柚自身の<color=#FFD780FF>嗚呼流·影貉繚乱</color>によって召喚されたむじむじだるまの攻撃力と回復量は、早柚の元素熟知によって決まる。早柚の元素熟知の数値が1につき、下記効果が発動する。\n·むじむじだるまのダメージは攻撃力0.2%分アップする。この方式でアップできるダメージは攻撃力400%分まで。\n·むじむじだるまによるHP回復量+3。この方式でアップできる回復量は6000まで。",
+      "ko": "사유 자신의 <color=#FFD780FF>유후류·너구리 분신술</color>을 통해 소환한 너구리 오뚝이의 공격력과 회복량은 사유의 원소 마스터리의 영향을 받는다. 사유의 원소 마스터리 1pt당 아래의 효과를 가진다:\n·너구리 오뚝이가 공격력 0.2%의 피해를 추가로 가한다. 해당 방식으로 최대 공격력 400%의 피해를 추가로 줄 수 있다.\n·너구리 오뚝이의 회복량이 3pt 증가한다. 해당 방식으로 회복량을 최대 6000pt까지 증가할 수 있다",
+      "en": "The Muji-Muji Daruma created by Sayu's <color=#FFD780FF>Yoohoo Art: Mujina Flurry</color> will now also benefit from her Elemental Mastery. Each point of Sayu's Elemental Mastery will produce the following effects:\n·Increases the damage dealt by the Muji-Muji Daruma's attacks by 0.2% ATK. A maximum of 400% ATK can be gained via this method.\n·Increases the HP restored by the Muji-Muji Daruma by 3. A maximum of 6,000 additional HP can be restored in this manner.",
+      "de": "Erhöht den ANG und die Heilung des von Sayu selbst mit <color=#FFD780FF>Juhu-Stil – Mujina-Wirrsal</color> beschworenen Mujimuji-Daruma basierend auf Sayus Elementarkunde. Löst für jeden einzelnen Punkt Elementarkunde folgende Boni aus:\n· Erhöht den mit Angriffen von Mujimuji-Daruma verursachten Schaden zusätzlich um 0,2 % ANG. Zusätzlicher Schaden in Höhe von bis zu 400 % ANG auf diese Weise möglich.\n· Erhöht die Heilung von Mujimuji-Daruma um 3 LP. Zusätzliche Heilung von bis zu 6.000 LP auf diese Weise möglich.",
+      "es": "El ATQ y la curación del tejón daruma invocado por Sayu mediante <color=#FFD780FF>Técnica “¡Yujuuu!”: Frenesí tejón</color> aumentan en proporción a su Maestría Elemental. Cada punto de Maestría Elemental de Sayu produce los siguientes efectos:\n·El daño infligido por el tejón daruma aumenta en un 0.2% adicional del ATQ. Solo se puede infligir un máximo de 400% de daño adicional de esta manera.\n·Aumenta en 3 pts. la cantidad de Vida que cura el tejón. Solo se puede curar un máximo de 6000 pts. de Vida de esta manera.",
+      "fr": "Les attaques et les soins du Daruma Muji-muji invoqué par Sayu lors d'<color=#FFD780FF>École Yoohoo : Bourrasque du mujina</color> augmentent avec le Niv. de maîtrise élémentaire de Sayu. Chaque pt de maîtrise élémentaire de Sayu confère les effets suivants :\n· Augmente les DGT infligés par les attaques du Daruma Muji-muji de 0,2 % de l'ATQ, jusqu'à 400 % de l'ATQ max ;\n· Augmente de 3 les PV soignés par le Daruma Muji-muji, jusqu'à 6 000 PV max.",
+      "pt": "O Ataque e Recuperação de Daruma Muji-Muji criado por <color=#FFD780FF>Arte Yoohoo: Agitação Mujina</color> de Sayu agora beneficiam também de sua Proficiência Elemental. Cada ponto de Proficiência Elemental irá produzir os seguintes efeitos:\n·Aumenta o dano causado pelos Ataques de Muji-Muji Daruma em 0.2% de ATQ. Um máximo de 400% de ATQ pode ser obtido através desse método;\n·A quantidade de HP restaurada por Muji-Muji Daruma é aumentada em 3. Um máximo de 6000 HP pode ser restaurado desse forma.",
+      "ru": "Призванный навыком Саю <color=#FFD780FF>Искусство Юху: Сумасшествие Мудзина</color> Мудзи-Мудзи Дарума теперь будет получать выгоду от её мастерства стихий. Каждая единица мастерства стихий Саю даёт следующие эффекты:\n· Увеличивает урон, наносимый атаками Мудзи-Мудзи Дарумы, на 0,2% от силы атаки до макс. 400%.\n· Увеличивает количество HP, восстанавливаемое Мудзи-Мудзи Дарумой, на 3 ед. до макс. 6000 ед.",
+      "id": "ATK dan Pemulihan HP dari Muji-Muji Daruma yang diciptakan dengan <color=#FFD780FF>Yoohoo Art: Mujina Flurry</color> milik Sayu juga akan bertambah sesuai Elemental Mastery Sayu. Setiap poin Elemental Mastery yang dimiliki Sayu akan memberikan efek berikut:\n·Muji-Muji Daruma mengakibatkan DMG tambahan sebesar 0,2% ATK. DMG tambahan maksimum yang dapat diperoleh dari metode ini adalah 400% ATK.\n·Meningkatkan jumlah HP yang dipulihkan oleh Muji-Muji Daruma sebanyak 3 HP. Efek pemulihan tambahan yang dapat diperoleh dari metode ini adalah 6.000 HP.",
+      "th": "การโจมตีและการฟื้นฟูของ Muji-Muji Daruma ที่สร้างขึ้นโดย <color=#FFD780FF>Yoohoo Art: Mujina Flurry</color> ของ Sayu จะได้รับผลจากความชำนาญธาตุของเธอด้วย โดยค่าความชำนาญธาตุแต่ละหน่วยของเธอ จะทำให้เกิดเอฟเฟกต์ดังนี้:\n·การโจมตีของ Muji-Muji Daruma จะสร้างความเสียหายเพิ่มเติม 0.2% ของพลังโจมตี โดยสามารถสร้างความเสียหายเพิ่มเติมด้วยวิธีนี้ได้มากสุด 400% ของพลังโจมตี;\n·เพิ่มปริมาณการฟื้นฟูของ Muji-Muji Daruma ขึ้น 3 หน่วย โดยจะสามารถเพิ่มปริมาณการฟื้นฟูด้วยวิธีนี้ได้มากสุด 6,000 หน่วย",
+      "vi": "Tấn công và lượng hồi phục của Muji-Muji Daruma được Sayu triệu hồi thông qua <color=#FFD780FF>Trường Phái Yoohoo - Mujina Bối Rối</color> phụ thuộc vào Tinh Thông Nguyên Tố của Sayu. Mỗi điểm Tinh Thông Nguyên Tố của Sayu có thể sinh ra hiệu quả sau:\n·Khiến tấn công của Muji-Muji Daruma gây thêm sát thương bằng 0.2% tấn công. Bằng cách này, tối đa có thể gây thêm sát thương bằng 400% tấn công;\n·Lượng hồi phục của Muji-Muji Daruma tăng 3 điểm. Bằng cách này, tối đa tăng 6000 điểm hồi phục."
+    },
+    "imgid": "constellation_6"
+  }
+]

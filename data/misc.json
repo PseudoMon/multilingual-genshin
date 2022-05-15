@@ -43,5 +43,20 @@
     "id": "Kisah",
     "th": "เนื้อเรื่อง",
     "vi": "Câu Chuyện"
+  },
+  "constellations": {
+    "zhs": "命之座",
+    "zht": "命之座",
+    "jp": "命ノ星座",
+    "ko": "운명의 자리",
+    "en": "Constellations",
+    "de": "Sternbilder",
+    "es": "Constelaciones",
+    "fr": "Constellations",
+    "pt": "Constelação",
+    "ru": "Созвездия",
+    "id": "Konstelasi",
+    "th": "กลุ่มดาว",
+    "vi": "Cung Mệnh"
   }
 }

@@ -1,0 +1,200 @@
+[
+  {
+    "title": {
+      "zhs": "坏劫·毁坏三界",
+      "zht": "壞劫·毀壞三界",
+      "jp": "壊劫·三界破壊",
+      "ko": "괴겁·삼계 파멸",
+      "en": "Dissolution Eon: Destroyer of Worlds",
+      "de": "Untergang – Zerstörung der Welten",
+      "es": "Desintegración: Destructor de mundos",
+      "fr": "Dissolution d'éon : Destructeur de mondes",
+      "pt": "Dissolução de Eon - Destruidor de Mundos",
+      "ru": "Эра распада: Сокрушитель миров",
+      "id": "Dissolution Eon: Destroyer of Worlds",
+      "th": "Dissolution Eon - Destroyer of Worlds",
+      "vi": "Hoại Kiếp - Hủy Hoại Tam Giới"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>风轮两立</color>的可使用次数增加1次。",
+      "zht": "<color=#FFD780FF>風輪兩立</color>的可使用次數增加一次。",
+      "jp": "<color=#FFD780FF>風輪両立</color>の使用可能回数+1。",
+      "ko": "<color=#FFD780FF>풍륜양립</color>의 사용 가능 횟수가 1회 증가한다",
+      "en": "Increases <color=#FFD780FF>Lemniscatic Wind Cycling</color>'s charges by 1.",
+      "de": "Ermöglicht 1 weitere Anwendung von <color=#FFD780FF>Doppeltes Windrad</color>.",
+      "es": "Aumenta las cargas de <color=#FFD780FF>Ciclón de viento lemniscático</color> en 1.",
+      "fr": "Confère une charge supplémentaire pour <color=#FFD780FF>Cycle du vent lemniscatique</color>.",
+      "pt": "Aumenta a carga do <color=#FFD780FF>Vento Lemniscático</color> em 1.",
+      "ru": "Увеличивает количество зарядов навыка <color=#FFD780FF>Лемниската ветра</color> на 1.",
+      "id": "Meningkatkan 1 charge <color=#FFD780FF>Lemniscatic Wind Cycling</color>.",
+      "th": "จำนวนครั้งที่สามารถใช้ <color=#FFD780FF>Lemniscatic Wind Cycling</color> ได้ เพิ่มขึ้น 1 ครั้ง",
+      "vi": "Số lần dùng <color=#FFD780FF>Đôi Bánh Xe Gió</color> tăng thêm 1."
+    },
+    "imgid": "constellation_1"
+  },
+  {
+    "title": {
+      "zhs": "空劫·虚空华开敷变",
+      "zht": "空劫·虛空華開敷變",
+      "jp": "空劫·虚空開敷の変",
+      "ko": "공겁·피어난 공허의 꽃",
+      "en": "Annihilation Eon: Blossom of Kaleidos",
+      "de": "Vernichtung – Ausweitung der Leere",
+      "es": "Aniquilación: Flor de Kaleidos",
+      "fr": "Annihilation d'éon : Fleur du kaléidoscope",
+      "pt": "Aniquilação de Eon - Flor de Kaleidos",
+      "ru": "Эра истребления: Расцвет Калейдоса",
+      "id": "Annihilation Eon: Blossom of Kaleidos",
+      "th": "Annihilation Eon - Blossom of Kaleidos",
+      "vi": "Không Kiếp - Hư Không Hoa Khai"
+    },
+    "description": {
+      "zhs": "处于队伍后台时，魈自己的元素充能效率提高25%。",
+      "zht": "處於隊伍後台時，魈自身的元素充能效率提高25%。",
+      "jp": "フィールド上にいない時、魈自身の元素チャージ効率+25%。",
+      "ko": "대기 상태일 때 소 자신의 원소 충전 효율이 25% 상승한다",
+      "en": "When in the party and not on the field, Xiao's Energy Recharge is increased by 25%.",
+      "de": "Erhöht Xiaos Aufladerate, wenn er inaktiv in der Truppe ist, um 25 %.",
+      "es": "Cuando Xiao está en tu equipo pero no en combate, su Recarga de Energía aumenta en un 25%.",
+      "fr": "La recharge d'énergie de Xiao augmente de 25 % lorsqu'il fait partie de l'équipe mais n'est pas déployé.",
+      "pt": "Quando Xiao estiver na equipe, mas não em campo, a Recarga da Energia de Xiao é aumentada em 25%.",
+      "ru": "Когда Сяо в отряде, но не является активным персонажем, его энергия восстанавливается на 25% быстрее.",
+      "id": "Ketika Xiao berada di dalam party namun tidak sedang bertempur, Energy Recharge Xiao meningkat 25%.",
+      "th": "เมื่ออยู่ในทีมแต่ไม่ได้เข้าร่วมการต่อสู้ ประสิทธิภาพการฟื้นฟูพลังงานธาตุของ Xiao จะเพิ่มขึ้น 25%",
+      "vi": "Khi ở trong đội nhưng không ra trận, hiệu quả nạp nguyên tố của Xiao sẽ tăng 25%."
+    },
+    "imgid": "constellation_2"
+  },
+  {
+    "title": {
+      "zhs": "降魔·忿怒显相",
+      "zht": "降魔·忿怒顯相",
+      "jp": "降魔·憤怒の相",
+      "ko": "항마·분노의 형상",
+      "en": "Conqueror of Evil: Wrath Deity",
+      "de": "Eroberung – Ausdruck des Zorns",
+      "es": "Conquista del mal: Deidad de la ira",
+      "fr": "Dompteur de démons : Déité de la colère",
+      "pt": "Conquistador do Mal · Deidade da Ira",
+      "ru": "Завоеватель зла: Бог гнева",
+      "id": "Conqueror of Evil: Wrath Deity",
+      "th": "Conqueror of Evil - Wrath Deity",
+      "vi": "Hàng Ma - Phẫn Nộ Hiện Rõ"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>风轮两立</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>風輪兩立</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>風輪両立</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>풍륜양립</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Lemniscatic Wind Cycling</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Doppeltes Windrad</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Ciclón de viento lemniscático</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Cycle du vent lemniscatique</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o nível do <color=#FFD780FF>Vento Lemniscático</color> em 3.\nO nível máximo de elevação é 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Лемниската ветра</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Lemniscatic Wind Cycling</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Lemniscatic Wind Cycling</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Đôi Bánh Xe Gió</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_3"
+  },
+  {
+    "title": {
+      "zhs": "神通·诸苦灭尽",
+      "zht": "神通·諸苦滅盡",
+      "jp": "神通·諸苦滅尽",
+      "ko": "신통·사라진 고통",
+      "en": "Transcension: Extinction of Suffering",
+      "de": "Transzendenz – Auslöschung des Leids",
+      "es": "Trascendencia: Fin del sufrimiento",
+      "fr": "Transcendance : Extinction de la souffrance",
+      "pt": "Transcensão - Extinção do Sofrimento",
+      "ru": "Трансценденция: Исчезновение страданий",
+      "id": "Transcension: Extinction of Suffering",
+      "th": "Transcension - Extinction of Suffering",
+      "vi": "Thần Thông - Chư Khổ Diệt Tận"
+    },
+    "description": {
+      "zhs": "魈的生命值低于50%时，获得100%防御力提升。",
+      "zht": "魈的生命值低於50%時，獲得100%防禦力提升。",
+      "jp": "魈のHPが50%未満の時、防御力+100%。",
+      "ko": "소의 HP가 50% 미만일 때 방어력이 100% 상승한다",
+      "en": "When Xiao's HP falls below 50%, he gains a 100% DEF Bonus.",
+      "de": "Erhöht Xiaos VTD bei weniger als 50 % LP um 100 %.",
+      "es": "Cuando la Vida de Xiao cae por debajo del 50%, obtiene un 100% de Bono de DEF.",
+      "fr": "Xiao bénéficie d'un bonus de DÉF de 100 % quand ses PV sont inférieurs à 50 %.",
+      "pt": "Quando a Vida de Xiao for menor que 50%, ele ganha 100% de Bônus de DEF.",
+      "ru": "Когда HP Сяо опускается ниже 50%, его защита увеличивается на 100%.",
+      "id": "Saat HP Xiao kurang dari 50%, DEF Xiao meningkat 100%.",
+      "th": "เมื่อพลังชีวิตของ Xiao ต่ำกว่า 50% พลังป้องกันจะเพิ่มขึ้น 100%",
+      "vi": "Khi HP của Xiao dưới 50%, tăng 100% phòng ngự."
+    },
+    "imgid": "constellation_4"
+  },
+  {
+    "title": {
+      "zhs": "成劫·无明增长",
+      "zht": "成劫·無明增長",
+      "jp": "成劫·無明増長",
+      "ko": "성겁·늘어나는 번뇌",
+      "en": "Evolution Eon: Origin of Ignorance",
+      "de": "Evolution – Ausbreitung der Unwissenheit",
+      "es": "Evolución: Origen de la ignorancia",
+      "fr": "Évolution d'éon : Origine de l'ignorance",
+      "pt": "Evolução de Eon - Origem da Ignorância",
+      "ru": "Эра эволюции: Истоки невежества",
+      "id": "Evolution Eon: Origin of Ignorance",
+      "th": "Evolution Eon - Origin of Ignorance",
+      "vi": "Thành Kiếp - Vô Minh Tăng Trưởng"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>靖妖傩舞</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>靖妖儺舞</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>靖妖儺舞</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>나자의 춤</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Bane of All Evil</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Geistervertreibung</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Azote de todos los males</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Fléau du mal</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o nível da <color=#FFD780FF>Dança Nuo da Conquista do Mal</color> em 3.\nO nível máximo de elevação é 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Истребление всего зла</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Bane of All Evil</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Bane of All Evil</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Vũ Điệu Trừ Yêu</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_5"
+  },
+  {
+    "title": {
+      "zhs": "降魔·护法夜叉",
+      "zht": "降魔·護法夜叉",
+      "jp": "降魔·護法夜叉",
+      "ko": "항마·호법야차",
+      "en": "Conqueror of Evil: Guardian Yaksha",
+      "de": "Eroberung – Schutz des Yaksha",
+      "es": "Conquista del mal: Guardián Yaksha",
+      "fr": "Dompteur de démons : Gardien Yaksha",
+      "pt": "Conquistador do Mal - Guardião Yaksha",
+      "ru": "Завоеватель зла: Защитник Якса",
+      "id": "Conqueror of Evil: Guardian Yaksha",
+      "th": "Conqueror of Evil - Guardian Yaksha",
+      "vi": "Hàng Ma - Hộ Pháp Dạ Xoa"
+    },
+    "description": {
+      "zhs": "在<color=#FFD780FF>靖妖傩舞</color>状态下，下落攻击命中至少2个敌人时，<color=#FFD780FF>风轮两立</color>立刻获得1次可使用次数，并且在接下来1秒内，可以无视冷却时间施放风轮两立。",
+      "zht": "在<color=#FFD780FF>靖妖儺舞</color>狀態下，下落攻擊命中至少2個敵人時，<color=#FFD780FF>風輪兩立</color>立刻獲得1次可使用次數，並且在接下來1秒內，可以無視冷卻時間施放風輪兩立。",
+      "jp": "<color=#FFD780FF>靖妖儺舞</color>状態の時、落下攻撃が2体以上の敵に命中すると、<color=#FFD780FF>風輪両立</color>の使用可能回数+1。その後の1秒間以内は、クールタイム関係なく風輪両立を発動できる。",
+      "ko": "<color=#FFD780FF>나자의 춤</color> 상태에서 낙하 공격으로 최소 2명의 적을 명중하면 즉시 <color=#FFD780FF>풍륜양립</color> 사용 가능 횟수를 1회 획득하며, 1초 동안 재사용 대기시간에 상관없이 풍륜양립을 발동할 수 있다",
+      "en": "While under the effects of <color=#FFD780FF>Bane of All Evil</color>, hitting at least 2 opponents with Xiao's Plunging Attack will immediately grant him 1 charge of <color=#FFD780FF>Lemniscatic Wind Cycling</color>, and for the next 1s, he may use Lemniscatic Wind Cycling while ignoring its CD.",
+      "de": "Ermöglicht beim Treffen von mindestens 2 Gegnern mit einem Angriff aus dem Fall unter Anwendung von <color=#FFD780FF>Geistervertreibung</color> sofort 1 Anwendung von <color=#FFD780FF>Doppeltes Windrad</color>, das innerhalb der folgenden s trotz Abklingzeit angewendet werden kann.",
+      "es": "Mientras Xiao está bajo los efectos de <color=#FFD780FF>Azote de todos los males</color>, golpear a 2 o más enemigos con Ataque Descendente otorga a <color=#FFD780FF>Ciclón de viento lemniscático</color> 1 carga adicional y elimina su TdE durante 1 s.",
+      "fr": "Lorsque <color=#FFD780FF>Fléau du mal</color> est actif, les attaques plongeantes touchant au moins 2 ennemis confèrent immédiatement une charge de <color=#FFD780FF>Cycle du vent lemniscatique</color> supplémentaire, qui peut être activée dans la seconde qui suit, même s'il n'est pas entièrement rechargé.",
+      "pt": "Enquanto sob o efeito da <color=#FFD780FF>Dança Nuo da Conquista do Mal</color>, acertar pelo menos 2 inimigos com o ataque imersivo de Xiao irá imediatamente conceder a ele 1 carga de <color=#FFD780FF>Vento Lemniscático</color>, e durante o próximo 1 segundo, ele poderá usar Vento Lemniscático ignorando seu tempo de recarga.",
+      "ru": "Попадание атакой в падении по двум и более врагам в форме навыка <color=#FFD780FF>Истребление всего зла</color> добавляет один заряд навыку <color=#FFD780FF>Лемниската ветра</color>, после чего в течение 1 сек. его можно активировать, игнорируя время отката.",
+      "id": "Selama berada dalam status <color=#FFD780FF>Bane of All Evil</color>, Xiao akan mendapatkan 1 charge <color=#FFD780FF>Lemniscatic Wind Cycling</color> saat menyerang 2 musuh atau lebih dengan Plunging Attack. Selain itu, Xiao bisa menggunakan Lemniscatic Wind Cycling terus-menerus tanpa memedulikan waktu CD selama 1 detik berikutnya.",
+      "th": "ภายใต้สภาวะของ <color=#FFD780FF>Bane of All Evil</color> เมื่อการโจมตีพุ่งลงจากอากาศถูกศัตรูอย่างน้อย 2 ตัว จะได้รับจำนวนการใช้ <color=#FFD780FF>Lemniscatic Wind Cycling</color> เพิ่มขึ้น 1 ครั้ง โดยทันที และจะได้รับการยกเว้นช่วงเวลาคูลดาวน์ ของ Lemniscatic Wind Cycling เป็นเวลา 1 วินาที หลังจากนั้น",
+      "vi": "Trong trạng thái <color=#FFD780FF>Vũ Điệu Trừ Yêu</color>, khi tấn công khi đáp đánh trúng ít nhất 2 kẻ địch, <color=#FFD780FF>Đôi Bánh Xe Gió</color> lập tức nhận được 1 lần sử dụng, và trong 1s tiếp theo, có thể bỏ qua CD thi triển Đôi Bánh Xe Gió."
+    },
+    "imgid": "constellation_6"
+  }
+]

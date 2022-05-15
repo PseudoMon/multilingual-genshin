@@ -1,0 +1,200 @@
+[
+  {
+    "title": {
+      "zhs": "决水于溪",
+      "zht": "決水於溪",
+      "jp": "水を渓に決する",
+      "ko": "물의 흐름",
+      "en": "At Water's Edge",
+      "de": "Am Rande des Flusses",
+      "es": "Los límites del agua",
+      "fr": "Au bord de l'eau",
+      "pt": "À Beira da Água",
+      "ru": "У края воды",
+      "id": "At Water's Edge",
+      "th": "At Water's Edge",
+      "vi": "Vệt Nước Sắc Bén"
+    },
+    "description": {
+      "zhs": "处于<color=#FFD780FF>海人化羽</color>的仪来羽衣状态下时，珊瑚宫心海普通攻击的最后一击会额外释放一只游鱼，造成相当于珊瑚宫心海生命值上限30%的<color=#80C0FFFF>水元素伤害</color>。\n该伤害不被视为普通攻击伤害。",
+      "zht": "處於<color=#FFD780FF>海人化羽</color>的儀來羽衣狀態下時，珊瑚宮心海普通攻擊的最後一擊會額外釋放一隻游魚，造成相當於珊瑚宮心海生命值上限30%的<color=#80C0FFFF>水元素傷害</color>。\n該傷害不被視為普通攻擊傷害。",
+      "jp": "<color=#FFD780FF>海人の羽衣</color>による「儀来羽衣」状態の時、珊瑚宮心海の通常攻撃の最後の一撃は追加で遊魚を一匹召喚し、珊瑚宮心海のHP上限30%分の<color=#80C0FFFF>水元素ダメージ</color>を与える。\nこのダメージは通常攻撃ダメージとみなされない。",
+      "ko": "<color=#FFD780FF>해인화우(海人化羽)</color>의 의식의 날개옷 상태에서 산고노미야 코코미 일반 공격의 마지막 일격에 헤엄치는 물고기 1마리를 추가로 방출하고, 산고노미야 코코미 HP 최대치 30%에 해당하는 <color=#80C0FFFF>물 원소 피해</color>를 준다.\n해당 피해는 일반 공격 피해로 간주하지 않는다",
+      "en": "While donning the Ceremonial Garment created by <color=#FFD780FF>Nereid's Ascension</color>, the final Normal Attack in Sangonomiya Kokomi's combo will unleash a swimming fish to deal 30% of her Max HP as <color=#80C0FFFF>Hydro DMG</color>.\nThis DMG is not considered Normal Attack DMG.",
+      "de": "Entfesselt im Zustand Rituelles Federkleid von <color=#FFD780FF>Nereidenaufstieg</color> mit dem letzten Angriff der Standardangriffe von Sangonomiya Kokomi einen schwimmenden Fisch, der <color=#80C0FFFF>Hydro-Schaden</color> in Höhe von 30 % der max. LP von Sangonomiya Kokomi verursacht.\nDieser Schaden gilt nicht als Schaden von Standardangriffen.",
+      "es": "Mientras está bajo los efectos del manto ceremonial de <color=#FFD780FF>Encarnación de las nereidas</color>, el último golpe del Ataque Normal de Sangonomiya Kokomi liberará un pez nadador adicional que inflige una cantidad de <color=#80C0FFFF>Daño Hydro</color> equivalente al 30% de la Vida Máx. de Kokomi.\nEste daño no se considera daño de Ataque Normal.",
+      "fr": "Lorsque Kokomi revêt la parure cérémoniale créée par <color=#FFD780FF>Ascension de la néréide</color>, la dernière attaque normale de son combo libère un poisson qui inflige des <color=#80C0FFFF>DGT Hydro</color> équivalant à 30 % de ses PV max.\nCes DGT ne sont pas considérés comme des DGT d'attaque normale.",
+      "pt": "Enquanto vestindo a Vestimenta Cerimonial criada pela <color=#FFD780FF>Cerimônia Kaijin</color>, o Ataque Normal final na combinação de Sangonomiya Kokomi liberará um peixe nadador para causar 30% de sua Vida Máxima como <color=#80C0FFFF>Dano Hydro</color>.\nEste Dano não é considerado como Dano de Ataque Normal.",
+      "ru": "Когда Сангономия Кокоми облачена в Церемониальное одеяние навыка <color=#FFD780FF>Вознесение нереиды</color>, последний удар её обычной атаки создаёт плавающую рыбу, которая наносит <color=#80C0FFFF>Гидро урон</color>, равный 30% от её макс. HP.\nЭтот урон не считается уроном обычной атаки.",
+      "id": "Saat mengenakan Ceremonial Garment dari skill <color=#FFD780FF>Nereid's Ascension</color>, serangan terakhir dari kombo Normal Attack Sangonomiya Kokomi akan memunculkan seekor ikan yang berenang dan mengakibatkan <color=#80C0FFFF>Hydro DMG</color> sebesar 30% dari Max HP Kokomi.\nDMG ini tidak dianggap sebagai DMG Normal Attack.",
+      "th": "เมื่ออยู่ในสภาวะ Ceremonial Garment ของ <color=#FFD780FF>Nereid's Ascension</color> การโจมตีปกติครั้งสุดท้ายของ Sangonomiya Kokomi จะปล่อยปลาออกมาเพิ่มอีกหนึ่งตัว เพื่อสร้าง<color=#80C0FFFF>ความเสียหายน้ำ</color>เท่ากับ 30% ของพลังชีวิตสูงสุดของ Sangonomiya Kokomi\nความเสียหายนี้จะไม่ถูกนับว่าเป็นความเสียหายของการโจมตีปกติ",
+      "vi": "Khi trong trạng thái Lễ Phục Nghi Thức của <color=#FFD780FF>Nghi Lễ Nereid</color>, đòn tấn công thường cuối cùng của Sangonomiya Kokomi sẽ tạo ra một con cá, gây <color=#80C0FFFF>Sát Thương Nguyên Tố Thủy</color> bằng 30% giới hạn HP của Sangonomiya Kokomi.\nSát thương này không được tính là sát thương tấn công thường."
+    },
+    "imgid": "constellation_1"
+  },
+  {
+    "title": {
+      "zhs": "波起云海",
+      "zht": "波起雲海",
+      "jp": "雲海の波立ち",
+      "ko": "일렁이는 운해",
+      "en": "The Clouds Like Waves Rippling",
+      "de": "Wellen des Wolkenmeers",
+      "es": "Oleaje de nubes",
+      "fr": "Nuages comme des vagues ondulantes",
+      "pt": "Nuvens como Ondas Ondulantes",
+      "ru": "Волны моря облаков",
+      "id": "The Clouds Like Waves Rippling",
+      "th": "The Clouds Like Waves Rippling",
+      "vi": "Sóng Cuộn Dâng Trào"
+    },
+    "description": {
+      "zhs": "基于珊瑚宫心海的生命值上限，珊瑚宫心海对生命值低于或等于50%的角色，通过以下途径进行治疗的回复量获得提升：\n·<color=#FFD780FF>海月之誓</color>的化海月：生命值上限的4.5%\n·<color=#FFD780FF>海人化羽</color>的普通攻击与重击：生命值上限的0.6%。",
+      "zht": "基於珊瑚宮心海的生命值上限，珊瑚宮心海對生命值低於或等於50%的角色，透過以下途徑進行治療的回復量獲得提升：\n·<color=#FFD780FF>海月之誓</color>的化海月：生命值上限的4.5%\n·<color=#FFD780FF>海人化羽</color>的普通攻擊與重擊：生命值上限的0.6%。",
+      "jp": "珊瑚宮心海のHP上限を基準に、HP50%以下のキャラクターに対し、下記方式による回復量がアップする。\n·<color=#FFD780FF>海月の誓い</color>の化海月：HP上限の4.5%\n·<color=#FFD780FF>海人の羽衣</color>の通常攻撃と重撃：HP上限の0.6%。",
+      "ko": "산고노미야 코코미의 HP 최대치에 기반하여 HP 50% 이하의 캐릭터에 대해 다음과 같은 방식으로 치유하는 회복량이 증가한다:\n·<color=#FFD780FF>해파리의 서약</color>의 환영 해파리: HP 최대치의 4.5%\n·<color=#FFD780FF>해인화우(海人化羽)</color>의 일반 공격 및 강공격: HP 최대치의 0.6%",
+      "en": "Sangonomiya Kokomi gains the following Healing Bonuses with regard to characters with 50% or less HP via the following methods:\n·<color=#FFD780FF>Kurage's Oath</color> Bake-Kurage: 4.5% of Kokomi's Max HP.\n·<color=#FFD780FF>Nereid's Ascension</color> Normal and Charged Attacks: 0.6% of Kokomi's Max HP.",
+      "de": "Gewährt Sangonomiya Kokomi Heilungsboni in Bezug auf Figuren mit 50 % oder weiniger LP basierend auf ihren max. LP auf folgende Art und Weise:\n· Durch „Bakekurage“ von <color=#FFD780FF>Eid des Kurage</color>: 4,5 % der max. LP\n· Durch Standardangriffe und heftige Schläge von <color=#FFD780FF>Nereidenaufstieg</color>: 0,6 % der max. LP.",
+      "es": "Sangonomiya Kokomi obtiene los siguientes aumentos de curación para los personajes con un 50% de Vida o menos a través de las siguientes formas:\n·Aumenta la curación de la medusa de <color=#FFD780FF>Juramento de la medusa</color> en una cantidad adicional en proporción al 4.5% de la Vida Máx. de Kokomi.\n·Aumenta la curación de los Ataques Normales y Cargados realizados bajo los efectos de <color=#FFD780FF>Encarnación de las nereidas</color> en una cantidad adicional en proporción al 0.6% de la Vida Máx. de Kokomi.",
+      "fr": "Lorsque Kokomi soigne des personnages dont les PV sont inférieurs ou égaux à 50 %, elle bénéficie d'un bonus de soin en fonction de la méthode utilisée :\n\n· Méduse fantôme de <color=#FFD780FF>Serment de Kurage</color> : augmentation équivalant à 4,5 % des PV max de Kokomi.\n· Attaque normale ou chargée sous l'effet d'<color=#FFD780FF>Ascension de la néréide</color> : augmentation équivalant à 0,6 % des PV max de Kokomi.",
+      "pt": "Sangonomiya Kokomi ganha os seguintes Bônus de Cura em relação a personagens com 50% ou menos de Vida através dos seguintes métodos:\n<color=#FFD780FF>Juramento Kurage</color> Bake-Kurage: 4.5% da Vida Máxima.\n<color=#FFD780FF>Cerimônia Kaijin</color> Ataques Normais e Carregados: 0.6% da Vida Máxima.",
+      "ru": "Сангономия Кокоми получает следующие бонусы лечения по отношению к персонажам, HP которых равно или меньше 50%:\n· Бакэ-курагэ навыка <color=#FFD780FF>Клятва курагэ</color>: 4,5% от макс. HP.\n· Обычные и заряженные атаки навыка <color=#FFD780FF>Вознесение нереиды</color>: 0,6% от макс. HP.",
+      "id": "Saat memulihkan Karakter dengan HP kurang dari 50% dengan cara-cara di bawah, Sangonomiya Kokomi akan mendapatkan bonus pemulihan berdasarkan Max HP dirinya:\n·Bake-Kurage dari <color=#FFD780FF>Kurage's Oath</color>: 4,5% dari Max HP Kokomi.\n·Normal dan Charged Attack <color=#FFD780FF>Nereid's Ascension</color>: 0,6% dari Max HP Kokomi.",
+      "th": "ปริมาณการฟื้นฟูพลังชีวิตของ Sangonomiya Kokomi ที่มีต่อตัวละครที่มีพลังชีวิตต่ำกว่าหรือเท่ากับ 50% จะเพิ่มขึ้นโดยขึ้นกับพลังชีวิตสูงสุดของเธอเอง ผ่านทางช่องทางต่อไปนี้:\n·Bake-Kurage ของ <color=#FFD780FF>Kurage's Oath</color>: 4.5% ของพลังชีวิตสูงสุด\n·การโจมตีปกติและชาร์จโจมตีของ <color=#FFD780FF>Nereid's Ascension</color>: 0.6% ของพลังชีวิตสูงสุด",
+      "vi": "Dựa vào giới hạn HP của Sangonomiya Kokomi để tăng lượng trị liệu cho nhân vật có lượng HP bằng hoặc thấp hơn 50% như sau:\n·Vầng Trăng Biển của <color=#FFD780FF>Lời Thề Ánh Trăng Biển</color>: 4.5% giới hạn HP.\n·Tấn công thường và trọng kích của <color=#FFD780FF>Nghi Lễ Nereid</color>: 0.6% giới hạn HP."
+    },
+    "imgid": "constellation_2"
+  },
+  {
+    "title": {
+      "zhs": "海渚月舟",
+      "zht": "海渚月舟",
+      "jp": "月舟霧渚",
+      "ko": "해변의 달빛 배",
+      "en": "The Moon, A Ship O'er the Seas",
+      "de": "Mondschiff auf den Meeren",
+      "es": "Luna del océano",
+      "fr": "La lune, navire des mers",
+      "pt": "A Lua, Um Navio Sobre os Mares",
+      "ru": "Лунный челн средь вод",
+      "id": "The Moon, A Ship O'er the Seas",
+      "th": "The Moon, A Ship O'er the Seas",
+      "vi": "Con Thuyền Dưới Ánh Trăng"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>海人化羽</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>海人化羽</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>海人の羽衣</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>해인화우(海人化羽)</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Nereid's Ascension</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Nereidenaufstieg</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Encarnación de las nereidas</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Ascension de la néréide</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o Nível de <color=#FFD780FF>Cerimônia Kaijin</color> em 3.\nO nível máximo de elevação é 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Вознесение нереиды</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Nereid's Ascension</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Nereid's Ascension</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Nghi Lễ Nereid</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_3"
+  },
+  {
+    "title": {
+      "zhs": "月摄千川",
+      "zht": "月攝千川",
+      "jp": "月に摂す千の川",
+      "ko": "물을 보살피는 달",
+      "en": "The Moon Overlooks the Waters",
+      "de": "Mond über den Strömen",
+      "es": "Observadora de las aguas",
+      "fr": "La lune surplombe les eaux",
+      "pt": "A Lua Contempla as Águas",
+      "ru": "Луна взирает на ручьи",
+      "id": "The Moon Overlooks the Waters",
+      "th": "The Moon Overlooks the Waters",
+      "vi": "Vầng Trăng Ngắm Biển"
+    },
+    "description": {
+      "zhs": "处于<color=#FFD780FF>海人化羽</color>的仪来羽衣状态下时，珊瑚宫心海普通攻击的攻击速度提升10%，并会在普通攻击命中敌人时，恢复0.8点元素能量。\n该效果每0.2秒至多触发一次。",
+      "zht": "處於<color=#FFD780FF>海人化羽</color>的儀來羽衣狀態下時，珊瑚宮心海普通攻擊的攻擊速度提升10%，並會在普通攻擊命中敵人時，恢復0.8點元素能量。\n該效果每0.2秒至多觸發一次。",
+      "jp": "<color=#FFD780FF>海人の羽衣</color>による儀来羽衣状態の時、珊瑚宮心海の通常攻撃の攻撃速度+10%。そして通常攻撃が敵に命中すると、元素エネルギーを0.8ポイント回復する。\nこの効果は0.2秒毎に1回のみ発動可能。",
+      "ko": "<color=#FFD780FF>해인화우(海人化羽)</color>의 의식의 날개옷 상태에서 산고노미야 코코미의 일반 공격 속도가 10% 증가하고, 일반 공격으로 적 명중 시 원소 에너지를 0.8pt 회복한다.\n해당 효과는 0.2초마다 1회 발동한다",
+      "en": "While donning the Ceremonial Garment created by <color=#FFD780FF>Nereid's Ascension</color>, Sangonomiya Kokomi's Normal Attack SPD is increased by 10%, and Normal Attacks that hit opponents will restore 0.8 Energy for her.\nThis effect can occur once every 0.2s.",
+      "de": "Erhöht die Angriffsgeschwindigkeit der Standardangriffe von Sangonomiya Kokomi im Zustand Rituelles Federkleid von <color=#FFD780FF>Nereidenaufstieg</color> um 10 % und stellt 0,8 Punkt Elementarenergie wieder, wenn die Standardangriffe Gegener treffen.\n0,2 s Abklingzeit.",
+      "es": "Mientras está bajo los efectos del manto ceremonial de <color=#FFD780FF>Encarnación de las nereidas</color>, la Vel. de Ataque Normal de Sangonomiya Kokomi aumenta en un 10% y recupera 0.8 pts. de Energía Elemental cada vez que golpea a un enemigo con un Ataque Normal.\nEste efecto solo puede ocurrir una vez cada 0.2 s.",
+      "fr": "Lorsque Kokomi revêt la parure cérémoniale créée par <color=#FFD780FF>Ascension de la néréide</color>, la VIT d'attaque de ses attaques normales augmente de 10 %, et toute attaque normale touchant un ennemi lui permet de restaurer son énergie élémentaire de 0,8 pt.\nCet effet peut être déclenché une fois toutes les 0,2 s.",
+      "pt": "Enquanto vestindo a Vestimenta Cerimonial criada pela <color=#FFD780FF>Cerimônia Kaijin</color>, a Vel. de ATQ dos Ataques Normais de Sangonomiya Kokomi é aumentado em 10%, e Ataques Normais que acertarem os oponentes recuperarão 0.8 de Energia para si mesma.\nEste efeito pode ocorrer apenas uma vez a cada 0.2s.",
+      "ru": "Когда Сангономия Кокоми облачена в Церемониальное одеяние навыка <color=#FFD780FF>Вознесение нереиды</color>, скорость её обычной атаки увеличивается на 10%, а попадания обычной атакой восстанавливают ей 0,8 ед. энергии.\nЭтот эффект может возникнуть только раз в 0,2 сек.",
+      "id": "Saat mengenakan Ceremonial Garment dari skill <color=#FFD780FF>Nereid's Ascension</color>, Normal Attack SPD Sangonomiya Kokomi meningkat 10% dan Normal Attack yang mengenai musuh akan memulihkan 0,8 Energy.\nEfek ini dapat terpicu setiap 0,2 detik.",
+      "th": "เมื่ออยู่ในสภาวะ Ceremonial Garment ของ <color=#FFD780FF>Nereid's Ascension</color> ความเร็วการโจมตีปกติของ Sangonomiya Kokomi จะเพิ่มขึ้น 10% และจะฟื้นฟูพลังงานธาตุ 0.8 หน่วย เมื่อการโจมตีปกติถูกศัตรู\nเอฟเฟกต์นี้จะเกิดขึ้นได้มากสุดหนึ่งครั้ง ในทุก 0.2 วินาที",
+      "vi": "Khi trong trạng thái Lễ Phục Nghi Thức của <color=#FFD780FF>Nghi Lễ Nereid</color>, tốc độ tấn công thường của Sangonomiya Kokomi tăng 10%, đồng thời khi tấn công thường trúng kẻ địch sẽ hồi phục 0.8 Năng Lượng Nguyên Tố.\nHiệu quả này mỗi 0.2s tối đa kích hoạt một lần."
+    },
+    "imgid": "constellation_4"
+  },
+  {
+    "title": {
+      "zhs": "百川集海",
+      "zht": "百川集海",
+      "jp": "百川集海",
+      "ko": "백천귀해",
+      "en": "All Streams Flow to the Sea",
+      "de": "Alle Ströme fließen ins Meer",
+      "es": "Convergencia hacia los mares",
+      "fr": "Tous les ruisseaux coulent vers la mer",
+      "pt": "Todos os Rios Fluem para o Mar",
+      "ru": "Все реки впадают в море",
+      "id": "All Streams Flow to the Sea",
+      "th": "All Streams Flow to the Sea",
+      "vi": "Nước Tụ Về Nguồn"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>海月之誓</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>海月之誓</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>海月の誓い</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>해파리의 서약</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Kurage's Oath</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Eid des Kurage</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Juramento de la medusa</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Serment de Kurage</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o Nível de <color=#FFD780FF>Juramento Kurage</color> em 3.\nO nível máximo de elevação é 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Клятва курагэ</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Kurage's Oath</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Kurage's Oath</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Lời Thề Ánh Trăng Biển</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_5"
+  },
+  {
+    "title": {
+      "zhs": "珊瑚一心",
+      "zht": "珊瑚一心",
+      "jp": "珊瑚一心",
+      "ko": "산호 일심",
+      "en": "Sango Isshin",
+      "de": "Sango Isshin",
+      "es": "Corazón del coral",
+      "fr": "Sango Isshin",
+      "pt": "Sango Isshin",
+      "ru": "Санго иссин",
+      "id": "Sango Isshin",
+      "th": "Sango Isshin",
+      "vi": "Trái Tim San Hô"
+    },
+    "description": {
+      "zhs": "处于<color=#FFD780FF>海人化羽</color>的仪来羽衣状态下时，珊瑚宫心海的普通攻击和重击对生命值高于或等于80%的角色进行治疗时，将获得40%<color=#80C0FFFF>水元素伤害加成</color>，持续4秒。",
+      "zht": "處於<color=#FFD780FF>海人化羽</color>的儀來羽衣狀態下時，珊瑚宮心海的普通攻擊和重擊對生命值高於或等於80%的角色進行治療時，將獲得40%<color=#80C0FFFF>水元素傷害加成</color>，持續4秒。",
+      "jp": "<color=#FFD780FF>海人の羽衣</color>による儀来羽衣状態の時、珊瑚宮心海の通常攻撃または重撃でHP80%以上のキャラクターに治療を行うと、<color=#80C0FFFF>水元素ダメージ</color>+40%、継続時間4秒。",
+      "ko": "산고노미야 코코미가 <color=#FFD780FF>해인화우(海人化羽)</color>의 의식의 날개옷 상태에서 일반 공격과 강공격으로 HP가 80% 이상인 캐릭터를 치유 시, <color=#80C0FFFF>물 원소 피해 보너스</color>를 40% 획득한다. 지속 시간: 4초",
+      "en": "While donning the Ceremonial Garment created by <color=#FFD780FF>Nereid's Ascension</color>, Sangonomiya Kokomi gains a 40% <color=#80C0FFFF>Hydro DMG Bonus</color> for 4s when her Normal and Charged Attacks heal, or would heal, any party member with 80% or more HP.",
+      "de": "Gewährt Sangonomiya Kokomi im Zustand Rituelles Federkleid von <color=#FFD780FF>Nereidenaufstieg</color> 4 s lang einen <color=#80C0FFFF>Hydro-SCH-Bonus</color> von 40 %, wenn die Standardangriffe und heftigen Schläge von Sangonomiya Kokomi Figuren mit 80 % oder mehr LP heilen.",
+      "es": "Mientras está bajo los efectos del manto ceremonial de <color=#FFD780FF>Encarnación de las nereidas</color>, cuando Sangonomiya Kokomi realiza un Ataque Normal o Cargado que tiene efectos curativos con el fin de curar a un personaje con un 80% o más de Vida, obtiene un 40% de <color=#80C0FFFF>Bono de Daño Hydro</color> durante 4 s.",
+      "fr": "Lorsque Kokomi revêt la parure cérémoniale créée par <color=#FFD780FF>Ascension de la néréide</color>, elle bénéficie d'un <color=#80C0FFFF>bonus de DGT Hydro</color> de 40 % pendant 4 s après avoir effectué un soin sur un personnage dont les PV sont supérieurs à 80 % grâce à son attaque normale ou chargée.",
+      "pt": "Enquanto vestindo a Vestimenta Cerimonial criada pela <color=#FFD780FF>Cerimônia Kaijin</color>, Sangonomiya Kokomi ganha 40% de <color=#80C0FFFF>Bônus de Dano Hydro</color> por 4s depois que seu Ataque Normal ou Carregado curar um personagem com 80% ou mais de Vida.",
+      "ru": "Когда Сангономия Кокоми облачена в Церемониальное одеяние навыка <color=#FFD780FF>Вознесение нереиды</color>, она получает 40% <color=#80C0FFFF>бонус Гидро урона</color> на 4 сек. после того, как её обычные или заряженные атаки лечат персонажа с HP, равным или выше 80%.",
+      "id": "Saat mengenakan Ceremonial Garment dari skill <color=#FFD780FF>Nereid's Ascension</color>, dan ketika Normal atau Charged Attack Sangonomiya Kokomi melakukan pemulihan atau berusaha memulihkan HP Karakter di dalam party dengan HP 80% atau lebih, maka Sangonomiya Kokomi akan mendapatkan 40% <color=#80C0FFFF>Hydro DMG Bonus</color> selama 4 detik.",
+      "th": "เมื่ออยู่ในสภาวะ Ceremonial Garment ของ <color=#FFD780FF>Nereid's Ascension</color> เมื่อการโจมตีปกติหรือชาร์จโจมตีของ Sangonomiya Kokomi ทำการรักษาตัวละครที่มีพลังชีวิตเท่ากับ 80% หรือมากกว่าแล้ว จะได้รับ<color=#80C0FFFF>โบนัสความเสียหายน้ำ</color> 40% เป็นเวลา 4 วินาที",
+      "vi": "Khi trong trạng thái Lễ Phục Nghi Thức của <color=#FFD780FF>Nghi Lễ Nereid</color>, lúc đòn tấn công thường và trọng kích của Sangonomiya Kokomi trị liệu cho nhân vật có HP từ 80% trở lên, sẽ nhận 40% <color=#80C0FFFF>buff sát thương Nguyên Tố Thủy</color>, kéo dài 4s."
+    },
+    "imgid": "constellation_6"
+  }
+]

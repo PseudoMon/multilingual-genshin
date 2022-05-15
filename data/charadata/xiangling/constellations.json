@@ -1,0 +1,200 @@
+[
+  {
+    "title": {
+      "zhs": "外酥里嫩",
+      "zht": "外酥裡嫩",
+      "jp": "外カリ中フワ",
+      "ko": "겉은 바삭, 속은 촉촉",
+      "en": "Crispy Outside, Tender Inside",
+      "de": "Außen knusprig, innen zart",
+      "es": "Crujiente por fuera, tierno por dentro",
+      "fr": "Croustillant à l'extérieur, tendre à l'intérieur",
+      "pt": "Crocante por Fora, Macio por Dentro",
+      "ru": "Внешность обманчива",
+      "id": "Crispy Outside, Tender Inside",
+      "th": "Crispy Outside, Tender Inside",
+      "vi": "Ngoài Giòn Trong Mềm"
+    },
+    "description": {
+      "zhs": "受到锅巴攻击的敌人，<color=#FF9999FF>火元素抗性</color>降低15%，持续6秒。",
+      "zht": "受到鍋巴攻擊的敵人，<color=#FF9999FF>火元素抗性</color>降低15%，持續6秒。",
+      "jp": "グゥオパァーに攻撃された敵の<color=#FF9999FF>炎元素耐性</color>-15%、継続時間6秒。",
+      "ko": "누룽지의 공격에 피격된 적은 <color=#FF9999FF>불 원소 내성</color>이 15% 감소한다. 지속 시간: 6초",
+      "en": "Opponents hit by Guoba's attacks have their <color=#FF9999FF>Pyro RES</color> reduced by 15% for 6s.",
+      "de": "Verringert den <color=#FF9999FF>Pyro-WDS</color> der von Guoba getroffenen Gegner 6 s lang um 15 %.",
+      "es": "Reduce la <color=#FF9999FF>RES Pyro</color> de los enemigos atacados por Guoba en un 15% durante 6 s.",
+      "fr": "La <color=#FF9999FF>RÉS Pyro</color> des ennemis touchés par Gooba est réduite de 15 % pendant 6 s.",
+      "pt": "Inimigos atingidos pelos ataques de Guoba têm sua <color=#FF9999FF>RES Pyro</color> reduzida em 15% por 6s.",
+      "ru": "Попадания атакой Гобы понижают <color=#FF9999FF>Пиро сопротивление</color> врагов на 15% в течение 6 сек.",
+      "id": "Saat Guoba Attack mengenai musuh, akan mengurangi 15% <color=#FF9999FF>Pyro RES</color> mereka selama 6 detik.",
+      "th": "ศัตรูที่ถูก Guoba โจมตีจะถูกลด<color=#FF9999FF>ต้านทานไฟ</color>ลง 15% เป็นเวลา 6 วินาที",
+      "vi": "Địch bị Guoba tấn công <color=#FF9999FF>kháng Nguyên Tố Hỏa</color> giảm 15%, kéo dài 6s."
+    },
+    "imgid": "constellation_1"
+  },
+  {
+    "title": {
+      "zhs": "大火宽油",
+      "zht": "大火寬油",
+      "jp": "強火と油",
+      "ko": "큰불에 기름 붓기",
+      "en": "Oil Meets Fire",
+      "de": "Öl auf Feuer",
+      "es": "Aceite y fuego",
+      "fr": "L'huile sur le feu",
+      "pt": "Esquentar o Óleo",
+      "ru": "Масло в огонь",
+      "id": "Oil Meets Fire",
+      "th": "Oil Meets Fire",
+      "vi": "Thêm Dầu Vào Lửa"
+    },
+    "description": {
+      "zhs": "普通攻击的最后一击会对敌人施加持续2秒的内爆效果，持续时间结束时会发生爆炸，造成75%攻击力的<color=#FF9999FF>火元素范围伤害</color>。",
+      "zht": "普通攻擊的最後一擊會對敵人施加持續2秒的內爆效果，持續時間結束時會發生爆炸，造成75%攻擊力的<color=#FF9999FF>火元素範圍傷害</color>。",
+      "jp": "通常攻撃の最後の1撃で敵に2秒継続する爆縮効果を与える。効果終了時に爆発し、敵に攻撃力75%分の<color=#FF9999FF>炎元素範囲ダメージ</color>を与える。",
+      "ko": "일반 공격의 최후의 일격은 적에게 2초 동안 지속적인 내폭 효과를 부여한다. 효과 종료 시 폭발하여 주변의 적에게 공격력 75%의 <color=#FF9999FF>불 원소 범위 피해</color>를 준다",
+      "en": "The last attack in a Normal Attack sequence applies the Implode status onto the opponent for 2s. An explosion will occur once this duration ends, dealing 75% of Xiangling's ATK as <color=#FF9999FF>AoE Pyro DMG</color>.",
+      "de": "Fügt Gegnern mit dem letzten Schlag des Standardangriffs 2 s lang den Effekt „Implosion“ zu. Die Implosion tritt am Ende der Wirkungsdauer in Kraft und verursacht <color=#FF9999FF>Pyro-Flächenschaden</color> in Höhe von 75 % ANG.",
+      "es": "El último golpe del Ataque Normal aplica sobre el enemigo un estado de implosión durante 2 s. Tras ese tiempo, el enemigo explotará, infligiendo un 75% de <color=#FF9999FF>Daño Pyro en el AdE</color>.",
+      "fr": "Le dernier coup d'attaque normale inflige pendant 2 s un effet d'implosion aux ennemis. Au bout de ce délai, ils explosent, infligeant des <color=#FF9999FF>DGT Pyro de zone</color> équivalant à 75 % de l'ATQ.",
+      "pt": "O golpe final de um combo de Ataque Normal aplica o efeito Implosão nos inimigos por 2 segundos. Uma explosão irá ocorrer quando essa duração acabar, causando 75% do ATQ de Xiangling como <color=#FF9999FF>Dano Pyro em uma AdE</color>.",
+      "ru": "Последний удар обычной атаки накладывает на врага статус Возгорание на 2 сек. По истечении этого времени происходит взрыв, который наносит <color=#FF9999FF>Пиро урон по площади</color>, равный 75% от силы атаки Сян Лин.",
+      "id": "Serangan terakhir dari Normal Attack mengakibatkan Implode pada musuh selama 2 detik. Saat durasi Implode selesai, menimbulkan ledakan yang mengakibatkan 75% dari ATK Xiangling sebagai <color=#FF9999FF>Pyro DMG area</color>.",
+      "th": "การโจมตีครั้งสุดท้ายของ โจมตีปกติจะทำให้เกิดเอฟเฟกต์ ระเบิดภายในใส่ศัตรูเป็นเวลา 2 วินาที โดยหลังจากช่วงเวลาต่อเนื่อง สิ้นสุดลงจะเกิดการระเบิด สร้าง<color=#FF9999FF>ความเสียหายไฟวงกว้าง</color> เป็น 75% ของพลังโจมตี",
+      "vi": "Đòn tấn công thường cuối cùng có hiệu quả khiến kẻ địch nổ tung trong vòng 2s, khi kết thúc sẽ gây ra vụ nổ, tạo thành 75% <color=#FF9999FF>sát thương phạm vi Nguyên Tố Hoả </color>."
+    },
+    "imgid": "constellation_2"
+  },
+  {
+    "title": {
+      "zhs": "武火急烹",
+      "zht": "武火急烹",
+      "jp": "武火調理",
+      "ko": "센 불로 조리하기",
+      "en": "Deepfry",
+      "de": "Scharf angebraten",
+      "es": "Que quede bien frito",
+      "fr": "Sauté profond",
+      "pt": "Bem Passado",
+      "ru": "Жарка в масле",
+      "id": "Deepfry",
+      "th": "Deepfry",
+      "vi": "Nấu Ăn Cấp Bách"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>旋火轮</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>旋火輪</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>旋火輪</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>화륜</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Pyronado</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Feuerrad</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Pyronado</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Pyrotation</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o nível do <color=#FFD780FF>Pyronado</color> em 3.\nO nível máximo de elevação é 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Огневихрь</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Pyronado</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Pyronado</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Bánh Xe Lửa</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_3"
+  },
+  {
+    "title": {
+      "zhs": "文火慢煨",
+      "zht": "文火慢煨",
+      "jp": "弱火でじっくり",
+      "ko": "약불로 천천히 삶기",
+      "en": "Slowbake",
+      "de": "Langsam gegart",
+      "es": "A fuego lento",
+      "fr": "Douce cuisine",
+      "pt": "Assando Devagar",
+      "ru": "На маленьком огне",
+      "id": "Slowbake",
+      "th": "Slowbake",
+      "vi": "Hầm Lửa Nhỏ"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>旋火轮</color>的持续时间延长40%。",
+      "zht": "<color=#FFD780FF>旋火輪</color>的持續時間延長40%。",
+      "jp": "<color=#FFD780FF>旋火輪</color>の継続時間+40%。",
+      "ko": "<color=#FFD780FF>화륜</color>의 지속 시간을 40% 연장한다",
+      "en": "<color=#FFD780FF>Pyronado</color>'s duration is increased by 40%.",
+      "de": "Verlängert die Dauer von <color=#FFD780FF>Feuerrad</color> um 40 %.",
+      "es": "Aumenta en un 40% la duración de <color=#FFD780FF>Pyronado</color>.",
+      "fr": "Prolonge la durée de <color=#FFD780FF>Pyrotation</color> de 40 %.",
+      "pt": "Aumenta a duração do <color=#FFD780FF>Pyronado</color> em 40%.",
+      "ru": "Увеличивает длительность навыка <color=#FFD780FF>Огневихрь</color> на 40%.",
+      "id": "Meningkatkan 40% durasi <color=#FFD780FF>Pyronado</color>.",
+      "th": "เพิ่มระยะเวลาต่อเนื่องของ <color=#FFD780FF>Pyronado</color> 40%",
+      "vi": "Thời gian kéo dài <color=#FFD780FF>Bánh Xe Lửa</color> tăng 40%."
+    },
+    "imgid": "constellation_4"
+  },
+  {
+    "title": {
+      "zhs": "锅巴凶猛",
+      "zht": "鍋巴兇猛",
+      "jp": "凶猛なグゥオパァー",
+      "ko": "흉폭한 누룽지",
+      "en": "Guoba Mad",
+      "de": "Guoba sauer",
+      "es": "Guoba furioso",
+      "fr": "Colère de Gooba",
+      "pt": "Guoba Furioso",
+      "ru": "Гоба зол",
+      "id": "Guoba Mad",
+      "th": "Guoba Mad",
+      "vi": "Guoba Hung Dữ"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>锅巴出击</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>鍋巴出擊</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>グゥオパァー出撃</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>누룽지 출격</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Guoba Attack</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Guoba, erscheine!</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Ataque de Guoba</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Attaque Gooba</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o nível do <color=#FFD780FF>Ataque de Guoba</color> em 3.\nO nível máximo de elevação é 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Атака Гобы</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Guoba Attack</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Guoba Attack</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Guoba Xuất Kích</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_5"
+  },
+  {
+    "title": {
+      "zhs": "大龙卷旋火轮",
+      "zht": "大龍捲旋火輪",
+      "jp": "竜巻旋火輪",
+      "ko": "토네이도 화륜",
+      "en": "Condensed Pyronado",
+      "de": "Feuertornado",
+      "es": "Pyronado condensado",
+      "fr": "Pyrotation condensée",
+      "pt": "Pyronado Condensado",
+      "ru": "Усиленный огневихрь",
+      "id": "Condensed Pyronado",
+      "th": "Condensed Pyronado",
+      "vi": "Bánh Xe Lửa Rồng Cuộn"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>旋火轮</color>持续期间，队伍中所有角色获得15%<color=#FF9999FF>火元素伤害加成</color>。",
+      "zht": "<color=#FFD780FF>旋火輪</color>持續期間，隊伍中所有角色獲得15%<color=#FF9999FF>火元素傷害加成</color>。",
+      "jp": "<color=#FFD780FF>旋火輪</color>継続中、チーム全員の<color=#FF9999FF>炎元素ダメージ</color>+15%。",
+      "ko": "<color=#FFD780FF>화륜</color>이 지속되는 동안 파티 내 모든 캐릭터는 <color=#FF9999FF>불 원소 피해 보너스</color>를 15% 획득한다",
+      "en": "For the duration of <color=#FFD780FF>Pyronado</color>, all party members receive a 15% <color=#FF9999FF>Pyro DMG Bonus</color>.",
+      "de": "Erhöht den <color=#FF9999FF>Pyro-Schaden</color> aller Truppenmitglieder während der Wirkungsdauer von <color=#FFD780FF>Feuerrad</color> um 15 %.",
+      "es": "Mientras <color=#FFD780FF>Pyronado</color> esté activo, todos los miembros del equipo obtienen un 15% de <color=#FF9999FF>Bono de Daño Pyro</color>.",
+      "fr": "Les <color=#FF9999FF>DGT Pyro</color> de tous les personnages de l'équipe augmentent de 15 % tant que <color=#FFD780FF>Pyrotation</color> est active.",
+      "pt": "Durante a duração do <color=#FFD780FF>Pyronado</color>, todos os membros da equipe recebem 15% de <color=#FF9999FF>Bônus de Dano Pyro</color>.",
+      "ru": "При активном <color=#FFD780FF>Огневихре</color> все члены отряда получают 15% <color=#FF9999FF>бонус Пиро урона</color>.",
+      "id": "Saat <color=#FFD780FF>Pyronado</color> aktif, seluruh anggota party menerima peningkatan 15% <color=#FF9999FF>Pyro DMG Bonus</color>.",
+      "th": "ตลอดช่วงเวลาต่อเนื่องของ <color=#FFD780FF>Pyronado</color> ตัวละครทั้งทีม จะได้รับ<color=#FF9999FF>โบนัสความเสียหายไฟ</color> เพิ่ม 15%",
+      "vi": "Trong thời gian <color=#FFD780FF>Bánh Xe Lửa</color> tồn tại, tất cả thành viên trong đội tăng 15% <color=#FF9999FF>sát thương Nguyên Tố Hoả</color>."
+    },
+    "imgid": "constellation_6"
+  }
+]

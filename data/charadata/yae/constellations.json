@@ -1,0 +1,200 @@
+[
+  {
+    "title": {
+      "zhs": "野狐供真篇",
+      "zht": "野狐供真篇",
+      "jp": "野狐供真編",
+      "ko": "여우의 제물",
+      "en": "Yakan Offering",
+      "de": "Yakan-Opfer",
+      "es": "Ofrenda de los yako",
+      "fr": "Offrande des yakan",
+      "pt": "Oferenda Yakan",
+      "ru": "Подношения яко",
+      "id": "Yakan Offering",
+      "th": "Yakan Offering",
+      "vi": "Biên Niên Sử Hồ Ly"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>大密法·天狐显真</color>每引发一次天狐霆雷，都会为八重神子自己恢复8点元素能量。",
+      "zht": "<color=#FFD780FF>大密法·天狐顯真</color>每引發一次天狐霆雷，都會為八重神子自己恢復8點元素能量。",
+      "jp": "<color=#FFD780FF>大密法·天狐顕現</color>で天狐雷霆を1回発生させるたびに、八重神子自身の元素エネルギーを8ポイント回復する。",
+      "ko": "<color=#FFD780FF>대비법·천호(天狐) 현신</color>으로 천호 뇌정을 1회 발동할 때마다 야에 미코 자신의 원소 에너지를 8pt 회복한다",
+      "en": "Each time <color=#FFD780FF>Great Secret Art: Tenko Kenshin</color> activates a Tenko Thunderbolt, Yae Miko will restore 8 Elemental Energy for herself.",
+      "de": "Stellt Yae Miko selbst bei jedem Tenko-Blitzschlag von <color=#FFD780FF>Große Geheimkunst – Tenko Kenshin</color> 8 Punkte Elementarenergie wieder her.",
+      "es": "Yae Miko recupera 8 pts. de Energía elemental por cada relámpago de Kitsune Celestial desencadenado con <color=#FFD780FF>Técnica secreta suprema: Encarnación de Kitsune Celestial</color>.",
+      "fr": "Lorsque <color=#FFD780FF>Technique secrète : Incarnation de tenko</color> déclenche un éclair de tenko, Yae Miko récupère 8 pts d'énergie élémentaire.",
+      "pt": "Cada vez que <color=#FFD780FF>Grande Arte Secreta: Tenko Kenshin</color> desencadeia Relâmpago de Kitsune Celestial, Yae Miko regenera para ela mesma 8 pontos de Energia Elemental.",
+      "ru": "При каждой активации удара молнии Небесной кицунэ навыком <color=#FFD780FF>Великое тайное искусство: Тэнко кэнсин</color> Яэ Мико восстанавливает себе 8 ед. элементальной энергии.",
+      "id": "Setiap kali <color=#FFD780FF>Great Secret Art: Tenko Kenshin</color> mengaktifkan Tenko Thunderbolt, Yae Miko akan memulihkan 8 Energy untuk dirinya sendiri.",
+      "th": "ฟื้นฟูพลังงานธาตุ 8 หน่วย ให้แก่ตัวของ Yae Miko เอง ในแต่ละครั้งที่ <color=#FFD780FF>Great Secret Art: Tenko Kenshin</color> ทำให้เกิด Tenko Thunderbolt",
+      "vi": "<color=#FFD780FF>Đại Bí Pháp - Tenko Kenshin</color> mỗi khi kích hoạt 1 lần Thiên Hồ Lôi Đình, đều sẽ hồi 8 điểm năng lượng nguyên tố cho bản thân Yae Miko."
+    },
+    "imgid": "constellation_1"
+  },
+  {
+    "title": {
+      "zhs": "望月吼哕声",
+      "zht": "歲月吼噦聲",
+      "jp": "望月之吼噦",
+      "ko": "달을 향한 포효",
+      "en": "Fox's Mooncall",
+      "de": "Mondgesang der Kitsune",
+      "es": "Aullido lunar",
+      "fr": "Glapissement sous la lune",
+      "pt": "Uivos ao Luar",
+      "ru": "Лунный зов лисы",
+      "id": "Fox's Mooncall",
+      "th": "Fox's Mooncall",
+      "vi": "Tiếng Gọi Đêm Trăng"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>杀生樱</color>创造时的初始位阶提升至贰阶，位阶上限提升至肆阶，攻击范围提升60%。",
+      "zht": "<color=#FFD780FF>殺生櫻</color>創造時的初始位階提升至貳階，位階上限提升至肆階，攻擊範圍提升60%。",
+      "jp": "<color=#FFD780FF>殺生櫻</color>の創造時の初期階位を弐、最大階位を肆にアップ、攻撃範囲+60%。",
+      "ko": "<color=#FFD780FF>살생앵</color>이 생성될 때의 초기 등급이 2단계까지 상승하며, 등급 최대치가 4단계까지 상승한다. 공격 범위가 60% 증가한다",
+      "en": "<color=#FFD780FF>Sesshou Sakura</color> start at Level 2 when created, their max level is increased to 4, and their attack range is increased by 60%.",
+      "de": "<color=#FFD780FF>Sesshou-Sakura</color> haben bei der Entstehung anfänglich Stufe 2 und können höchstens Stufe 4 erreichen. Außerdem wird ihr Angriffsradius um 60 % erhöht.",
+      "es": "Al ser creados, los <color=#FFD780FF>cerezos aniquiladores</color> comienzan con nivel 2, pueden aumentarse hasta nivel 4 y su alcance de ataque aumenta en un 60%.",
+      "fr": "Les <color=#FFD780FF>sakura dévastateurs</color> commencent au Niv.2 et peuvent monter jusqu'au Niv.4, et leur portée d'attaque augmente de 60 %.",
+      "pt": "<color=#FFD780FF>Sesshou Sakura</color> inicia no Nível 2 quando é criada. O nível máximo é aumentado para 4, e a AdE de seu ataque aumenta em 60%.",
+      "ru": "<color=#FFD780FF>Сакура сэссё</color> создаётся уже 2-го уровня. Максимальный уровень повышен до 4, а радиус её атак увеличен на 60%.",
+      "id": "Level awal <color=#FFD780FF>Sesshou Sakura</color> yang tercipta meningkat menjadi level 2. Level tertinggi yang bisa dicapai menjadi level 4 dan jangkauan serangan meningkat 60%.",
+      "th": "เมื่อสร้าง <color=#FFD780FF>Sesshou Sakura</color> ระดับเริ่มต้นจะถูกเพิ่มขึ้นเป็นระดับ 2 และระดับสูงสุดจะถูกเพิ่มขึ้นเป็นระดับ 4 ขอบเขตการโจมตีเพิ่มขึ้น 60%",
+      "vi": "Cấp bậc ban đầu của <color=#FFD780FF>Sesshou Sakura</color> khi vừa được tạo ra sẽ tăng ngay đến bậc 2, tối đa có thể tăng đến bậc 4, phạm vi tấn công tăng 60%."
+    },
+    "imgid": "constellation_2"
+  },
+  {
+    "title": {
+      "zhs": "七段妙变化",
+      "zht": "七段妙變化",
+      "jp": "七化けの段",
+      "ko": "신묘한 7단 변화",
+      "en": "The Seven Glamours",
+      "de": "Sieben wunderbare Variationen",
+      "es": "Heptatransformación",
+      "fr": "Les sept glamours",
+      "pt": "Sete Transformações",
+      "ru": "Семь чудесных превращений",
+      "id": "The Seven Glamours",
+      "th": "The Seven Glamours",
+      "vi": "Thất Diệu Biến Hóa"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>野干役咒·杀生樱</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>野干役咒·殺生櫻</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>野干役呪·殺生櫻</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>야칸의 소환·살생앵</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Yakan Evocation: Sesshou Sakura</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Yakan-Kriegszauber – Sesshou-Sakura</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Maleficio yako: Cerezo kitsune aniquilador</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Évocation des yakan : Sakura dévastateur</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o nível de <color=#FFD780FF>Evocação Yakan: Sesshou Sakura</color> em 3.\nNível máximo é 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Проклятие якан: Сакура сэссё</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Yakan Evocation: Sesshou Sakura</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Yakan Evocation: Sesshou Sakura</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Thần Chú Yakan - Sesshou Sakura</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_3"
+  },
+  {
+    "title": {
+      "zhs": "绯樱引雷章",
+      "zht": "緋櫻引雷章",
+      "jp": "緋櫻誘雷章",
+      "ko": "벚꽃이 불러온 뇌장",
+      "en": "Sakura Channeling",
+      "de": "Rosarote Blitzleiter",
+      "es": "Cerezo de la tormenta",
+      "fr": "Canalisation de sakura",
+      "pt": "Canalização da Sakura",
+      "ru": "Молния алой вишни",
+      "id": "Sakura Channeling",
+      "th": "Sakura Channeling",
+      "vi": "Anh Đào Dẫn Lôi Chương"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>杀生樱</color>的落雷命中敌人后，队伍中附近的所有角色获得20%<color=#FFACFFFF>雷元素伤害加成</color>，持续5秒。",
+      "zht": "<color=#FFD780FF>殺生櫻</color>的落雷命中敵人後，隊伍中附近的所有角色獲得20%<color=#FFACFFFF>雷元素傷害加成</color>，持續5秒。",
+      "jp": "<color=#FFD780FF>殺生櫻</color>の落雷が敵に命中すると、周囲のチーム全員の<color=#FFACFFFF>雷元素ダメージ</color>+20%、継続時間5秒。",
+      "ko": "<color=#FFD780FF>살생앵</color>의 낙뢰가 적을 명중하면, 근처 파티 내 모든 캐릭터가 <color=#FFACFFFF>번개 원소 피해 보너스</color>를 20% 획득한다. 지속 시간: 5초",
+      "en": "When <color=#FFD780FF>Sesshou Sakura</color> lightning hits opponents, the <color=#FFACFFFF>Electro DMG Bonus</color> of all nearby party members is increased by 20% for 5s.",
+      "de": "Erhöht beim Treffen von Gegnern mit den Blitzschlägen von <color=#FFD780FF>Sesshou-Sakura</color> den <color=#FFACFFFF>Elektro-Schaden</color> aller Truppenmitglieder in der Nähe 5 s lang um 20 %.",
+      "es": "Cuando el rayo de un <color=#FFD780FF>cerezo kitsune</color> golpea a un enemigo, todos los miembros del equipo cercanos obtienen un 20% de <color=#FFACFFFF>Bono de Daño Electro</color> durante 5 s.",
+      "fr": "Lorsque l'éclair d'un <color=#FFD780FF>sakura dévastateur</color> touche un ennemi, tous les membres de l'équipe à proximité obtiennent un <color=#FFACFFFF>bonus de DGT Électro</color> de 20 % pendant 5 s.",
+      "pt": "Depois de o raio de <color=#FFD780FF>Sesshou Sakura</color> atingir os inimigos, todos os personagens próximos da equipe obterão 20% de <color=#FFACFFFF>Bônus de Dano Electro</color> por 5s.",
+      "ru": "Попадание по врагу ударом молнии <color=#FFD780FF>Сакуры сэссё</color> наделяет всех персонажей поблизости 20% <color=#FFACFFFF>бонусом Электро урона</color> длительностью 5 сек.",
+      "id": "Setelah sambaran petir <color=#FFD780FF>Sesshou Sakura</color> mengenai musuh, <color=#FFACFFFF>Electro DMG Bonus</color> seluruh anggota party di sekitar meningkat 20% selama 5 detik.",
+      "th": "หลังจากที่สายฟ้าของ <color=#FFD780FF>Sesshou Sakura</color> ฟาดลงมาถูกศัตรู ตัวละครทั้งหมดในทีม ที่อยู่ในบริเวณใกล้เคียง จะได้รับ<color=#FFACFFFF>โบนัสความเสียหายไฟฟ้า</color> 20% เป็นเวลา 5 วินาที",
+      "vi": "Sau khi sấm sét của <color=#FFD780FF>Sesshou Sakura</color> đánh trúng kẻ địch, tất cả nhân vật trong đội ở gần sẽ nhận được 20% <color=#FFACFFFF>Buff Sát Thương Nguyên Tố Lôi</color>, duy trì 5s."
+    },
+    "imgid": "constellation_4"
+  },
+  {
+    "title": {
+      "zhs": "暴恶嗤笑面",
+      "zht": "暴惡嗤笑面",
+      "jp": "暴悪嗤笑面",
+      "ko": "폭악 조소의 가면",
+      "en": "Mischievous Teasing",
+      "de": "Unerbitterlicher Spott",
+      "es": "Burla despiadada",
+      "fr": "Moquerie implacable",
+      "pt": "Escárnio Implacável",
+      "ru": "Бесконечные насмешки",
+      "id": "Mischievous Teasing",
+      "th": "Mischievous Teasing",
+      "vi": "Giễu Cợt Nham Hiểm"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>大密法·天狐显真</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>大密法·天狐顯真</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>大密法·天狐顕現</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>대비법·천호(天狐)현신</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Great Secret Art: Tenko Kenshin</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Große Geheimkunst – Tenko Kenshin</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Técnica secreta suprema: Encarnación de Kitsune Celestial</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Technique secrète : Incarnation de tenko</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o nível de <color=#FFD780FF>Grande Arte Secreta: Tenko Kenshin</color> em 3.\nNível máximo é 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Великое тайное искусство: Тэнко кэнсин</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Great Secret Art: Tenko Kenshin</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Great Secret Art: Tenko Kenshin</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Đại Bí Pháp - Tenko Kenshin</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_5"
+  },
+  {
+    "title": {
+      "zhs": "大杀生咒禁",
+      "zht": "大殺生咒禁",
+      "jp": "大殺生呪禁",
+      "ko": "대살생의 저주",
+      "en": "Forbidden Art: Daisesshou",
+      "de": "Daisesshou-Fluch",
+      "es": "Técnica prohibida: Masacre",
+      "fr": "Art tabou : Daisesshou",
+      "pt": "Técnica Proibida: Massacre",
+      "ru": "Запрещённое искусство: Дайсэссё",
+      "id": "Forbidden Art: Daisesshou",
+      "th": "Forbidden Art: Daisesshou",
+      "vi": "Cấm Thuật Daisesshou"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>杀生樱</color>在攻击时无视敌人60%的防御力。",
+      "zht": "<color=#FFD780FF>殺生櫻</color>在攻擊時無視敵人60%的防禦力。",
+      "jp": "<color=#FFD780FF>殺生櫻</color>が攻撃する際、敵の防御力の60%を無視する。",
+      "ko": "<color=#FFD780FF>살생앵</color> 공격이 적의 방어력을 60% 무시한다",
+      "en": "<color=#FFD780FF>The Sesshou Sakura's</color> attacks will ignore 60% of the opponents' DEF.",
+      "de": "<color=#FFD780FF>Sesshou-Sakura</color> ignorieren beim Angriff 60 % der VTD des Gegners.",
+      "es": "Los ataques de los <color=#FFD780FF>cerezos kitsune</color> ignoran un 60% de la DEF del enemigo.",
+      "fr": "Les attaques des <color=#FFD780FF>sakura dévastateurs</color> ignorent 60 % de la DÉF de l'ennemi.",
+      "pt": "Quando a <color=#FFD780FF>Sesshou Sakura</color> ataca os inimigos, ignora 60% de sua DEF.",
+      "ru": "Атаки <color=#FFD780FF>Сакур сэссё</color> игнорируют 60% от защиты противника.",
+      "id": "Serangan <color=#FFD780FF>Sesshou Sakura</color> mengabaikan 60% DEF musuh.",
+      "th": "ในตอนที่ <color=#FFD780FF>Sesshou Sakura</color> โจมตีจะไม่สนใจพลังป้องกัน 60% ของศัตรู",
+      "vi": "<color=#FFD780FF>Sesshou Sakura</color> khi tấn công sẽ bỏ qua 60% phòng ngự của kẻ địch."
+    },
+    "imgid": "constellation_6"
+  }
+]

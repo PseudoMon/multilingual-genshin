@@ -1,0 +1,200 @@
+[
+  {
+    "title": {
+      "zhs": "释凌咏冰",
+      "zht": "釋淩詠冰",
+      "jp": "釈凌詠氷",
+      "ko": "얼음의 노래",
+      "en": "Ice Unleashed",
+      "de": "Gesang der Eiszapfen",
+      "es": "Ventisca desatada",
+      "fr": "Glace déchaînée",
+      "pt": "Nevasca Desencadeada",
+      "ru": "Вольные льды",
+      "id": "Ice Unleashed",
+      "th": "Ice Unleashed",
+      "vi": "Phóng Thích Đao Băng"
+    },
+    "description": {
+      "zhs": "普通攻击的最后一击会向前方释放三道冰之刃，每道冰之刃对沿途的敌人造成重云50%攻击力的<color=#99FFFFFF>冰元素伤害</color>。",
+      "zht": "普通攻擊的最後一擊會向前方釋放三道冰之刃，每道冰之刃對沿途的敵人造成重雲50%攻擊力的<color=#99FFFFFF>冰元素傷害</color>。",
+      "jp": "通常攻撃の最後の一撃が前方に3つの氷の刃を放ち、経路上の敵に重雲の攻撃力50%分の<color=#99FFFFFF>氷元素ダメージ</color>を与える。",
+      "ko": "일반 공격의 마지막 일격은 전방을 향해 얼음 칼날을 3개 날리고 칼날마다 경로상의 적에게 중운 공격력 50%의 <color=#99FFFFFF>얼음 원소 피해</color>를 준다",
+      "en": "The last attack of Chongyun's Normal Attack combo releases 3 ice blades. Each blade deals 50% of Chongyun's ATK as <color=#99FFFFFF>Cryo DMG</color> to all opponents in its path.",
+      "de": "Schlägt beim letzten Schlag des Standardangriffs mit drei Eisklingen nach vorn, von denen jede Klinge Gegnern in ihrer Bahn <color=#99FFFFFF>Kryo-Schaden</color> in Höhe von 50 % von Chongyuns ANG zufügt.",
+      "es": "El último Ataque Normal de la secuencia de Chongyun lanza 3 cuchillas de hielo. Cada cuchilla inflige el 50% del ATQ de Chongyun como <color=#99FFFFFF>Daño Cryo</color> a todos los enemigos que se atraviesen.",
+      "fr": "Le dernier coup d'attaque normale libère 3 lames de glace vers l'avant ; chacune inflige une quantité de <color=#99FFFFFF>DGT Cryo</color> équivalant à 50 % de l'ATQ de Chongyun.",
+      "pt": "O último ataque do combo de Ataques Normais do Chongyun libera 3 lâminas de gelo. Cada lâmina inflige 50% do ATQ de Chongyun como <color=#99FFFFFF>Dano Cryo</color> a todos os inimigos em seu caminho.",
+      "ru": "Последний удар обычной атаки Чун Юня выпускает 3 ледяных клинка. Каждый клинок наносит <color=#99FFFFFF>Крио урон</color>, равный 50% от силы атаки Чун Юня.",
+      "id": "Serangan terakhir kombo Normal Attack Chongyun akan menghasilkan 3 pedang es. Setiap pedang membuat 50% dari ATK Chongyun menjadi <color=#99FFFFFF>Cryo DMG</color> kepada semua musuh di jalurnya.",
+      "th": "ครั้งสุดท้ายของการโจมตีปกติ จะทำการปล่อยมีดน้ำแข็ง สามเล่มไปข้างหน้า โดยมีดแต่จะเล่มจะสร้าง <color=#99FFFFFF>ความเสียหายน้ำแข็ง</color> เป็น 50% ของพลังการโจมตีของ Chongyun แก่ศัตรูที่อยู่ในเส้นทาง",
+      "vi": "Lần đánh cuối trong tấn công thường sẽ phóng ra 3 đạo băng đao về phía trước, mỗi đao băng sẽ gây ra <color=#99FFFFFF>sát thương Nguyên Tố Băng</color> bằng tấn công 50% của Chongyun cho kẻ địch trên đường đi."
+    },
+    "imgid": "constellation_1"
+  },
+  {
+    "title": {
+      "zhs": "周天运转",
+      "zht": "周天運轉",
+      "jp": "周天の回転",
+      "ko": "주천 운기",
+      "en": "Atmospheric Revolution",
+      "de": "Bewegungen des Sternenzelts",
+      "es": "Revolución atmosférica",
+      "fr": "Révolution astrale",
+      "pt": "Revolução Atmosférica",
+      "ru": "Циркуляция воздуха",
+      "id": "Atmospheric Revolution",
+      "th": "Atmospheric Revolution",
+      "vi": "Nghịch Chuyển Đất Trời"
+    },
+    "description": {
+      "zhs": "在<color=#FFD780FF>灵刃·重华叠霜</color>领域内施放的元素战技与元素爆发的冷却时间减少15%。",
+      "zht": "在<color=#FFD780FF>靈刃·重華疊霜</color>領域內施放的元素戰技與元素爆發的冷卻時間減少15%。",
+      "jp": "<color=#FFD780FF>霊刃·重華積霜</color>エリア内で発動した元素スキルと元素爆発のクールタイム-15%。",
+      "ko": "<color=#FFD780FF>영도·중첩의 서리</color> 영역 내에서 발동된 원소전투 스킬과 원소폭발의 재사용 대기시간이 15% 감소한다",
+      "en": "Elemental Skills and Elemental Bursts cast within the Frost Field created by <color=#FFD780FF>Spirit Blade: Chonghua's Layered Frost</color> have their CD time decreased by 15%.",
+      "de": "Verringert die Abklingzeit von im Wirkungsbereich von <color=#FFD780FF>Seelenklinge – Schichtfrost</color> angewendeten Elementarfähigkeiten und Spezialfähigkeiten um 15 %.",
+      "es": "El TdE de las Habilidades Elementales y Definitivas lanzadas dentro del área de escarcha creado por <color=#FFD780FF>Filo espiritual: Estratos de escarcha Chonghua</color> se reduce en un 15%.",
+      "fr": "Lancer une compétence ou un déchaînement élémentaires dans le champ de <color=#FFD780FF>Lame de l'esprit : Givre superposé</color> réduit leur TdR de 15 %.",
+      "pt": "Habilidades Elementais e Supremos lançados dentro do Campo criado pela <color=#FFD780FF>Lâmina Espiritual - Geada de Chongyun</color> têm seu Tempo de Recarga reduzido em 15%.",
+      "ru": "Уменьшает время отката элементальных навыков и взрывов стихии, активированных в области навыка <color=#FFD780FF>Духовное лезвие: Холод Чунхуа</color>, на 15%.",
+      "id": "CD Elemental Skill dan Elemental Burst yang digunakan di dalam Frost Field yang dibuat oleh <color=#FFD780FF>Spirit Blade: Chonghua's Layered Frost</color> berkurang 15%.",
+      "th": "ช่วงเวลาคูลดาวน์เมื่อใช้สกิลธาตุและท่าไม้ตาย ภายในพื้นที่ของ <color=#FFD780FF>Spirit Blade - Chonghua's Layered Frost</color> จะลดลง 15%",
+      "vi": "CD của kỹ năng nguyên tố và kỹ năng nộ khi thi triển trong khu vực <color=#FFD780FF>Linh Đao - Sương Bạc Trùng Điệp</color> giảm 15%"
+    },
+    "imgid": "constellation_2"
+  },
+  {
+    "title": {
+      "zhs": "云尽光生",
+      "zht": "雲盡光生",
+      "jp": "雲の果てに光あり",
+      "ko": "구름이 걷히고 빛이 든다",
+      "en": "Cloudburst",
+      "de": "Aufklaren des Himmels",
+      "es": "Cirro-explosión",
+      "fr": "Étincellement des nuages",
+      "pt": "Explosão de Nuvens",
+      "ru": "Облачный раскат",
+      "id": "Cloudburst",
+      "th": "Cloudburst",
+      "vi": "Vân Tận Quang Sinh"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>灵刃·云开星落</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>靈刃·雲開星落</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>霊刃·雲開星落</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>영도·떨어지는 별</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Spirit Blade: Cloud-parting Star</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Seelenklinge – Wolken teilender Stern</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Filo espiritual: Estrella cortanubes</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Lame de l'esprit : Chute d'étoiles</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o nível da <color=#FFD780FF>Lâmina Espiritual - Estrela Cadente</color> em 3.\nO nível máximo de elevação é 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Духовное лезвие: Падение с небес</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Spirit Blade: Cloud-parting Star</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Spirit Blade - Cloud-parting Star</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Linh Đao - Vân Khai Tinh Lạc</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_3"
+  },
+  {
+    "title": {
+      "zhs": "浮云霜天",
+      "zht": "浮雲霜天",
+      "jp": "浮雲霜天",
+      "ko": "구름이 떠다니는 서리 하늘",
+      "en": "Frozen Skies",
+      "de": "Gefrorene Wolken",
+      "es": "Cielos congelados",
+      "fr": "Cieux givrés",
+      "pt": "Céus Congelados",
+      "ru": "Замёрзшие небеса",
+      "id": "Frozen Skies",
+      "th": "Frozen Skies",
+      "vi": "Phù Vân Sương Thiên"
+    },
+    "description": {
+      "zhs": "重云的所有攻击命中受到<color=#99FFFFFF>冰元素</color>影响的敌人时，自身将恢复1点元素能量。\n该效果每2秒最多触发一次。",
+      "zht": "重雲的所有攻擊命中受到<color=#99FFFFFF>冰元素</color>影響的敵人時，自身將恢復1點元素能量。\n該效果每2秒最多觸發一次。",
+      "jp": "重雲の攻撃が<color=#99FFFFFF>氷元素</color>の影響を受けた敵に命中した時、自身の元素エネルギーを1回復する。\nこの効果は2秒毎に1回のみ発動可能。",
+      "ko": "중운의 모든 공격이 <color=#99FFFFFF>얼음 원소</color>의 영향을 받은 적을 명중하면 자신의 원소 에너지를 1pt 회복한다.\n해당 효과는 2초마다 1번 발동한다",
+      "en": "Chongyun regenerates 1 Energy every time he hits an opponent affected by <color=#99FFFFFF>Cryo</color>.\nThis effect can only occur once every 2s.",
+      "de": "Stellt beim Treffen von <color=#99FFFFFF>Kryo</color>-Effekten betroffener Gegner mit allen Angriffen von Chongyun 1 Punkt Elementarenergie wieder her.\n2 s Abklingzeit.",
+      "es": "Chongyun regenera 1 punto de Energía cada vez que golpea a un enemigo afectado por <color=#99FFFFFF>Cryo</color>.\nEste efecto solo puede ocurrir una vez cada 2 s.",
+      "fr": "Chongyun récupère 1 pt d'énergie à chaque fois qu'il touche un ennemi affecté par <color=#99FFFFFF>Cryo</color>.\nCet effet peut être déclenché toutes les 2 s.",
+      "pt": "Chongyun regenera 1 de Energia sempre que ele acerta um inimigo afetado por <color=#99FFFFFF>Cryo</color>.\nEsse efeito pode ocorrer apenas uma vez a cada 2 segundos.",
+      "ru": "При попадании по врагу с эффектом <color=#99FFFFFF>Крио</color> Чун Юнь восстанавливает 1 ед. энергии.\nМожет возникнуть раз в 2 сек.",
+      "id": "Chongyun mendapatkan 1 Energy setiap kali memukul musuh yang terkena efek <color=#99FFFFFF>Cryo</color>.\nEfek ini terpicu setiap 2 detik.",
+      "th": "เมื่อ Chongyun โจมตีถูกศัตรูที่ได้รับผลกระทบจาก <color=#99FFFFFF>ธาตุน้ำแข็ง</color> จะได้รับการฟื้นฟูพลังธาตุ 1 หน่วย\nเอฟเฟกต์นี้จะใช้ได้หนึ่งครั้งในทุก 2 วินาที",
+      "vi": "Khi Chongyun tấn công địch bị <color=#99FFFFFF>Nguyên Tố Băng</color> ảnh hưởng, bản thân sẽ được hồi 1 điểm Năng Lượng Nguyên Tố.\nHiệu quả này tối đa mỗi 2s thi triển một lần."
+    },
+    "imgid": "constellation_4"
+  },
+  {
+    "title": {
+      "zhs": "真道正理",
+      "zht": "真道正理",
+      "jp": "真道の正理",
+      "ko": "참된 도리와 이치",
+      "en": "The True Path",
+      "de": "Die eine Wahrheit",
+      "es": "El verdadero camino",
+      "fr": "La Voie",
+      "pt": "O Verdadeiro Caminho",
+      "ru": "Истинный порядок вещей",
+      "id": "The True Path",
+      "th": "The True Path",
+      "vi": "Chính Đạo Chân Lý"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>灵刃·重华叠霜</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>靈刃·重華疊霜</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>霊刃·重華積霜</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>영도·중첩의 서리</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Spirit Blade: Chonghua's Layered Frost</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Seelenklinge – Schichtfrost</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Filo espiritual: Estratos de escarcha Chonghua</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Lame de l'esprit : Givre superposé</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o nível da <color=#FFD780FF>Lâmina Espiritual - Geada de Chongyun</color> em 3.\nO nível máximo de elevação é Nv.15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Духовное лезвие: Холод Чунхуа</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Spirit Blade: Chonghua's Layered Frost</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Spirit Blade - Chonghua's Layered Frost</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Linh Đao - Sương Bạc Trùng Điệp</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_5"
+  },
+  {
+    "title": {
+      "zhs": "四灵捧圣",
+      "zht": "四靈捧聖",
+      "jp": "四霊の捧げ",
+      "ko": "성인을 받드는 네 개의 령",
+      "en": "Rally of Four Blades",
+      "de": "Gepriesene Seelen",
+      "es": "Ofrenda de los Cuatro Espíritus",
+      "fr": "Rassemblement des Quatres lames",
+      "pt": "Reforço das Quatro Lâminas",
+      "ru": "Молитва четырём духам",
+      "id": "Rally of Four Blades",
+      "th": "Rally of Four Blades",
+      "vi": "Tứ Linh Bổng Thánh"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>灵刃·云开星落</color>对生命值百分比低于重云的敌人造成伤害时，伤害提升15%；\n此外，施放时，会召唤一柄额外的灵刃。",
+      "zht": "<color=#FFD780FF>靈刃·雲開星落</color>對生命值百分比低於重雲的敵人造成傷害時，傷害提升15%；\n此外，施放時，會召喚一柄額外的靈刃。",
+      "jp": "HPの割合が重雲より低い敵に<color=#FFD780FF>霊刃·雲開星落</color>が命中した時、ダメージ+15%。\nまた、スキル発動時さらに追加で霊刃を1本を召喚する。",
+      "ko": "<color=#FFD780FF>영도·떨어지는 별</color>이 HP 백분율이 중운보다 낮은 적을 공격 시 가하는 피해가 15% 증가한다.\n또한 발동 시 영도를 추가로 1자루 소환한다",
+      "en": "<color=#FFD780FF>Spirit Blade: Cloud-parting Star</color> deals 15% more DMG to opponents with a lower percentage of their Max HP remaining than Chongyun.\nThis skill will also summon 1 additional spirit blade.",
+      "de": "Erhöht den Schaden von <color=#FFD780FF>Seelenklinge – Wolken teilender Stern</color> gegenüber Gegnern mit geringerem LP-Anteil als Chongyun um 15 %.\nBeschwört bei Anwendung der Fähigkeit außerdem eine weitere Seelenklinge.",
+      "es": "<color=#FFD780FF>Filo espiritual: Estrella cortanubes</color> inflige un 15% más de daño a los enemigos con un porcentaje de Vida restante más bajo que el de Chongyun.\nEsta habilidad también invocará un filo espiritual adicional.",
+      "fr": "<color=#FFD780FF>Lame de l'esprit : Chute d'étoiles</color> inflige 15 % de DGT supplémentaires aux ennemis dont les PV sont inférieurs à ceux de Chongyun.\nDe plus, une lame supplémentaire est générée à l'activation de la compétence.",
+      "pt": "A <color=#FFD780FF>Lâmina Espiritual - Estrela Cadente</color> inflige 15% a mais de Dano em inimigos com uma baixa porcentagem de sua Vida Máxima restante menor que a de Chongyun.\nEssa Habilidade também irá evocar uma lâmina espiritual adicional.",
+      "ru": "Увеличивает урон навыка <color=#FFD780FF>Духовное лезвие: Падение с небес</color> на 15% по врагам, HP которых меньше HP Чун Юня;\nТакже активация этого навыка призывает одно дополнительное Духовное лезвие.",
+      "id": "<color=#FFD780FF>Spirit Blade: Cloud-parting Star</color> mengakibatkan 15% DMG lebih banyak kepada musuh dengan persentase sisa HP lebih rendah dari Chongyun.\nSkill ini juga akan memanggil 1 spirit blade tambahan.",
+      "th": "เมื่อ <color=#FFD780FF>Spirit Blade - Cloud-parting Star</color> สร้างความเสียหายแก่ศัตรูที่มีเปอร์เซ็นต์พลังชีวิตต่ำกว่า Chongyun ความเสียหายจะเพิ่มขึ้น 15%;\nนอกจากนี้ในตอนที่ใช้งาน จะเรียกใบมีดวิญญาณเพิ่มขึ้นมาอีกหนึ่งเล่ม",
+      "vi": "<color=#FFD780FF>Linh Đao - Vân Khai Tinh Lạc</color> khi gây sát thương cho kẻ địch có tỷ lệ HP thấp hơn Chongyun, sát thương tăng 15%;\nNgoài ra, khi thi triển sẽ triệu hồi thêm một linh đao."
+    },
+    "imgid": "constellation_6"
+  }
+]

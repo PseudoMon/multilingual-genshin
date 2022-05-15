@@ -1,0 +1,200 @@
+[
+  {
+    "title": {
+      "zhs": "弦发的苍风",
+      "zht": "弦發的蒼風",
+      "jp": "矢先の蒼風",
+      "ko": "쏘아 올린 창풍",
+      "en": "Splitting Gales",
+      "de": "Gespaltener Hagel",
+      "es": "Vendaval feroz",
+      "fr": "Vent violent fractionné",
+      "pt": "Vento Dividido",
+      "ru": "Дробящий шторм",
+      "id": "Splitting Gales",
+      "th": "Splitting Gales",
+      "vi": "Mũi Tên Gió"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>瞄准射击</color>会额外发射两枚分裂箭，分别造成原本33%的伤害。",
+      "zht": "<color=#FFD780FF>瞄準射擊</color>會額外發射兩枚分裂箭，分別造成原本33%的傷害。",
+      "jp": "<color=#FFD780FF>狙い撃ち</color>する時、分裂した矢を追加で2本放つ。それぞれ元の矢の33%のダメージを与える。",
+      "ko": "<color=#FFD780FF>조준 사격</color> 시 추가로 두 발의 분열된 화살을 발사한다. 각각 기존 화살의 33% 피해를 준다",
+      "en": "Fires 2 additional arrows per <color=#FFD780FF>Aimed Shot</color>, each dealing 33% of the original arrow's DMG.",
+      "de": "Schießt mit einem <color=#FFD780FF>gezielten Schuss</color> zwei zusätzliche Pfeile ab, die jeweils 33 % des ursprünglichen Schadens verursachen.",
+      "es": "Dispara 2 flechas adicionales por cada <color=#FFD780FF>Disparo Preciso</color>. Cada una inflige un 33% del daño de la flecha original.",
+      "fr": "Le <color=#FFD780FF>tir visé</color> tire 2 flèches supplémentaires, chacune infligeant 33 % des DGT de la flèche d'origine.",
+      "pt": "Dispara 2 flechas adicionais por cada <color=#FFD780FF>Disparo com Mira</color>, cada flecha causa 33% do Dano original da flecha.",
+      "ru": "Каждый <color=#FFD780FF>прицельный выстрел</color> пускает две дополнительные стрелы. Каждая дополнительная стрела наносит 33% от урона первой стрелы.",
+      "id": "Menembakkan 2 anak panah tambahan setiap <color=#FFD780FF>Serangan Membidik</color>, yang masing-masing mengakibatkan 33% DMG dari panah utama.",
+      "th": "เมื่อ<color=#FFD780FF>เล็งโจมตี</color> จะทำการยิงลูกศรแยกเพิ่มเติมอีกสองลูก โดยที่แต่ละลูก จะทำให้เกิดความเสียหาย 33% ของความเสียหายเดิม",
+      "vi": "<color=#FFD780FF>Ngắm bắn</color> sẽ phóng thêm 2 mũi tên, lần lượt gây sát thương bằng 33% sát thương gốc."
+    },
+    "imgid": "constellation_1"
+  },
+  {
+    "title": {
+      "zhs": "眷恋的泠风",
+      "zht": "眷戀的泠風",
+      "jp": "恋い焦がれるそよ風",
+      "ko": "그리운 찬 바람",
+      "en": "Breeze of Reminiscence",
+      "de": "Brise der Sehnsucht",
+      "es": "Brisa de reminiscencia",
+      "fr": "Bise de réminiscence",
+      "pt": "Brisa da Reminiscência",
+      "ru": "Бриз воспоминаний",
+      "id": "Breeze of Reminiscence",
+      "th": "Breeze of Reminiscence",
+      "vi": "Tình Yêu Gió Lạnh"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>高天之歌</color>会使敌人的<color=#80FFD7FF>风元素抗性</color>与物理抗性降低12%，持续10秒。\n被<color=#FFD780FF>高天之歌</color>击飞的敌人在落地前，<color=#80FFD7FF>风元素抗性</color>与物理抗性额外降低12%。",
+      "zht": "<color=#FFD780FF>高天之歌</color>會使敵人的<color=#80FFD7FF>風元素抗性</color>與物理抗性降低12%，持續10秒。\n被<color=#FFD780FF>高天之歌</color>擊飛的敵人在落地前，<color=#80FFD7FF>風元素抗性</color>與物理抗性額外降低12%。",
+      "jp": "<color=#FFD780FF>高天の歌</color>発動後、敵の<color=#80FFD7FF>風元素耐性</color>と物理耐性-12%、継続時間10秒。\n<color=#FFD780FF>高天の歌</color>によってノックバックされた敵が着地するまで、<color=#80FFD7FF>風元素耐性</color>と物理耐性が更に-12%。",
+      "ko": "<color=#FFD780FF>높은 하늘의 노래</color>는 적의 <color=#80FFD7FF>바람 원소 내성</color>과 물리 내성을 12% 감소시킨다. 지속 시간: 10초.\n<color=#FFD780FF>높은 하늘의 노래</color>에 의해 공중에 띄워진 적은 땅에 닿기 전에 <color=#80FFD7FF>바람 원소 내성</color>과 물리 내성이 추가로 12% 감소한다",
+      "en": "<color=#FFD780FF>Skyward Sonnet</color> decreases opponents' <color=#80FFD7FF>Anemo RES</color> and Physical RES by 12% for 10s.\nOpponents launched by <color=#FFD780FF>Skyward Sonnet</color> suffer an additional 12% <color=#80FFD7FF>Anemo RES</color> and Physical RES decrease while airborne.",
+      "de": "<color=#FFD780FF>Sonett vom Himmel</color> verringert den <color=#80FFD7FF>Anemo-WDS</color> sowie den physischen Widerstand von Gegnern 10 s lang um 12 %.\nVerringert den <color=#80FFD7FF>Anemo-WDS</color> sowie den physischen Widerstand von <color=#FFD780FF>Sonett vom Himmel</color> weggeschleuderter Gegner vor dem Aufprall auf dem Boden zusätzlich um 12 %.",
+      "es": "<color=#FFD780FF>Sonata celestial</color> reduce la <color=#80FFD7FF>RES Anemo</color> y la RES Física del enemigo en un 12% durante 10 s.\nLos enemigos lanzados al aire por <color=#FFD780FF>Sonata celestial</color> sufren una reducción adicional del 12% de <color=#80FFD7FF>RES Anemo</color> y de RES física.",
+      "fr": "<color=#FFD780FF>Sonnet des Vents célestes</color> réduit la <color=#80FFD7FF>RÉS Anémo</color> et la RÉS physique des ennemis de 12 % pendant 10 s.\nLa <color=#80FFD7FF>RÉS Anémo</color> et la RÉS physique des ennemis projetés en l'air par <color=#FFD780FF>Sonnet des Vents célestes</color> sont réduites de 12 % tant qu'ils sont en l'air.",
+      "pt": "<color=#FFD780FF>Sonata Celestial</color> diminui a <color=#80FFD7FF>RES Anemo</color> e RES Física do inimigo em 12% por 10s.\nOs inimigos lançados pela <color=#FFD780FF>Sonata Celestial</color> sofrem uma penalidade adicional de <color=#80FFD7FF>RES Anemo</color> de 12% e RES física quando estiverem no ar.",
+      "ru": "Использование навыка <color=#FFD780FF>Небесная поэзия</color> уменьшает <color=#80FFD7FF>Анемо</color> и физ. сопротивление противников на 12% в течение 10 сек.\nТакже временно понижает <color=#80FFD7FF>Анемо</color> и физ. сопротивление противников, подкинутых в воздух этим навыком, на 12%.",
+      "id": "<color=#FFD780FF>Skyward Sonnet</color> mengurangi 12% <color=#80FFD7FF>Anemo RES</color> dan Physical RES musuh selama 10 detik.\n<color=#80FFD7FF>Anemo RES</color> dan Physical RES musuh yang terhempas oleh <color=#FFD780FF>Skyward Sonnet</color> berkurang lagi 12% saat di udara.",
+      "th": "<color=#FFD780FF>Skyward Sonnet</color> จะทำให้<color=#80FFD7FF>ความต้านทานลม</color>และ ความต้านทานทางกายภาพ ของศัตรูลดลง 12% เป็นเวลา 10 วินาที\nช่วงเวลาก่อนที่ศัตรูซึ่งถูก <color=#FFD780FF>Skyward Sonnet</color> พัดให้ลอยร่วงลงสู่พื้น <color=#80FFD7FF>ความต้านทานลม</color>และความต้านทานกายภาพจะลดเพิ่มอีก 12%",
+      "vi": "<color=#FFD780FF>Bài Ca Trời Cao</color> sẽ khiến <color=#80FFD7FF>kháng Nguyên Tố Phong</color> và kháng vật lý của địch giảm 12%, kéo dài 10s.\nĐịch bị <color=#FFD780FF>Bài Ca Trời Cao</color> đánh bay trước khi rơi xuống đất, <color=#80FFD7FF>kháng Nguyên Tố Phong</color> và kháng vật lý giảm thêm 12%."
+    },
+    "imgid": "constellation_2"
+  },
+  {
+    "title": {
+      "zhs": "千风的诗篇",
+      "zht": "千風的詩篇",
+      "jp": "千の風の詩",
+      "ko": "천풍의 시",
+      "en": "Ode to Thousand Winds",
+      "de": "Ode an die Tausend Winde",
+      "es": "Oda a los Mil Vientos",
+      "fr": "L'Ode aux mille vents",
+      "pt": "Ode aos Ventos Milenares",
+      "ru": "Ода тысяче ветров",
+      "id": "Ode to Thousand Winds",
+      "th": "Ode to Thousand Winds",
+      "vi": "Tập Thơ Thiên Phong"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>风神之诗</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>風神之詩</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>風神の詩</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>바람신의 시</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Wind's Grand Ode</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Ode vom Anemo-Archon</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Gran Oda del Viento</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Ode au Vent</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o nível do <color=#FFD780FF>Grande Ode do Vento</color> em 3.\nO nível máximo de elevação é 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Великая ода ветру</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Wind's Grand Ode</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Wind's Grand Ode</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Bài Thơ Thần Gió</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_3"
+  },
+  {
+    "title": {
+      "zhs": "自由的凛风",
+      "zht": "自由的凜風",
+      "jp": "自由の凛風",
+      "ko": "자유의 찬 바람",
+      "en": "Hurricane of Freedom",
+      "de": "Gewitter der Freiheit",
+      "es": "Huracán de la libertad",
+      "fr": "Vent glacial de liberté",
+      "pt": "Furacão da Liberdade",
+      "ru": "Ветер свободы",
+      "id": "Hurricane of Freedom",
+      "th": "Hurricane of Freedom",
+      "vi": "Cơn Gió Tự Do"
+    },
+    "description": {
+      "zhs": "温迪获取元素晶球或元素微粒后，获得25%<color=#80FFD7FF>风元素伤害加成</color>，持续10秒。",
+      "zht": "溫迪獲得元素晶球或元素微粒後，獲得25%<color=#80FFD7FF>風元素傷害加成</color>，持續10秒。",
+      "jp": "ウェンティが元素オーブまたは元素粒子を獲得した時、<color=#80FFD7FF>風元素ダメージ</color>+25%、継続時間10秒。",
+      "ko": "벤티가 원소 구슬 혹은 원소 입자를 획득 후 <color=#80FFD7FF>바람 원소 피해 보너스</color>를 25% 획득한다. 지속 시간: 10초",
+      "en": "When Venti picks up an Elemental Orb or Particle, he receives a 25% <color=#80FFD7FF>Anemo DMG Bonus</color> for 10s.",
+      "de": "Erhöht den <color=#80FFD7FF>Anemo-Schaden</color>, wenn Venti Elementarkristalle oder Elementarteilchen erhält, 10 s lang um 25 %.",
+      "es": "Venti obtiene un 25% de <color=#80FFD7FF>Bono de Daño Anemo</color> durante 10 s tras recoger un orbe o una partícula elemental.",
+      "fr": "Venti inflige 25 % de <color=#80FFD7FF>DGT Anémo</color> supplémentaires pendant 10 s lorsqu'il obtient un orbe ou une particule élémentaire.",
+      "pt": "Quando Venti obtém um Orbe ou uma Partícula Elemental, ele recebe 25% de <color=#80FFD7FF>Dano Anemo Bônus</color> por 10s.",
+      "ru": "Подобранные Венти элементальные сферы и частицы дают ему 25% <color=#80FFD7FF>бонус Анемо урона</color> в течение 10 сек.",
+      "id": "Saat Venti mengambil sebuah Elemental Orb atau Particle, dia akan menerima 25% <color=#80FFD7FF>Anemo DMG Bonus</color> selama 10 detik.",
+      "th": "เมื่อ Venti ได้รับลูกแก้วธาตุ หรืออณูธาตุแล้ว จะได้รับ <color=#80FFD7FF>โบนัสความเสียหายลม</color> 25% เป็นเวลา 10 วินาที",
+      "vi": "Sau khi Venti nhận Nguyên Tố Tinh Cầu hoặc Nguyên Tố Hạt Nhân, sẽ nhận được 25% <color=#80FFD7FF>Buff Sát Thương Nguyên Tố Phong</color>, kéo dài 10s."
+    },
+    "imgid": "constellation_4"
+  },
+  {
+    "title": {
+      "zhs": "高天的协奏",
+      "zht": "高天的協奏",
+      "jp": "高天の協奏",
+      "ko": "높은 하늘의 협주",
+      "en": "Concerto dal Cielo",
+      "de": "Concerto dal Cielo",
+      "es": "Concierto celestial",
+      "fr": "Concerto céleste",
+      "pt": "Concerto Celestial",
+      "ru": "Небесная гармония",
+      "id": "Concerto dal Cielo",
+      "th": "Concerto dal Cielo",
+      "vi": "Hợp Tấu Trời Cao"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>高天之歌</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>高天之歌</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>高天の歌</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>높은 하늘의 노래</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Skyward Sonnet</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Sonett vom Himmel</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Sonata celestial</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Sonnet des Vents célestes</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o nível da <color=#FFD780FF>Sonata Celestial</color> em 3.\nO nível máximo de elevação é 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Небесная поэзия</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Skyward Sonnet</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Skyward Sonnet</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Bài Ca Trời Cao</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_5"
+  },
+  {
+    "title": {
+      "zhs": "抗争的暴风",
+      "zht": "抗爭的暴風",
+      "jp": "抗争の暴風",
+      "ko": "투쟁의 폭풍",
+      "en": "Storm of Defiance",
+      "de": "Sturm des Widerstands",
+      "es": "Tormenta de la rebelión",
+      "fr": "Tempête de résistance",
+      "pt": "Tempestade do Desafio",
+      "ru": "Шторм непокорности",
+      "id": "Storm of Defiance",
+      "th": "Storm of Defiance",
+      "vi": "Bão Chiến Tranh"
+    },
+    "description": {
+      "zhs": "受<color=#FFD780FF>风神之诗</color>伤害的敌人，<color=#80FFD7FF>风元素抗性</color>降低20%；\n若产生了元素转化，则使转换的元素抗性也降低20%。",
+      "zht": "受<color=#FFD780FF>風神之詩</color>傷害的敵人，<color=#80FFD7FF>風元素抗性</color>降低20%；\n若產生了元素轉化，則使轉換的元素抗性也降低20%。",
+      "jp": "<color=#FFD780FF>風神の詩</color>のダメージを受けた敵の<color=#80FFD7FF>風元素耐性</color>-20%。\n元素変化があった場合、変化した元素の耐性も-20%。",
+      "ko": "<color=#FFD780FF>바람신의 시</color>에 피격된 적은 <color=#80FFD7FF>바람 원소 내성</color>이 20% 감소한다.\n원소 전환이 발생할 경우 해당 원소 내성도 20% 감소한다",
+      "en": "Targets who take DMG from <color=#FFD780FF>Wind's Grand Ode</color> have their <color=#80FFD7FF>Anemo RES</color> decreased by 20%.\nIf an Elemental Absorption occurred, then their RES towards the corresponding Element is also decreased by 20%.",
+      "de": "Verringert den <color=#80FFD7FF>Anemo-WDS</color> von Zielen, denen mit <color=#FFD780FF>Ode vom Anemo-Archon</color> Schaden zugefügt wird, um 20 %.\nVerringert bei Elementarumwandlung den entsprechenden Elementar-WDS auch um 20 %.",
+      "es": "La RES Anemo de los enemigos se reduce en un 20% cuando reciben daño de <color=#FFD780FF>Gran Oda del Viento</color>.\nSi ocurre un cambio elemental durante <color=#80FFD7FF>Gran Oda del Viento</color>, su RES Elemental al nuevo elemento se reducirá en un 20%.",
+      "fr": "La <color=#80FFD7FF>RÉS Anémo</color> des ennemis touchés par <color=#FFD780FF>Ode au Vent</color> est réduite de 20 %.\nEn cas d'absorption élémentaire, leur RÉS à l'élément correspondant est également réduite de 20 %.",
+      "pt": "Alvos que levarem Dano da <color=#FFD780FF>Grande Ode do Vento</color> terão sua <color=#80FFD7FF>RES Anemo</color> reduzida em 20%.\nSe uma Absorção Elemental ocorrer, então sua RES ao Elemento correspondente também é reduzida em 20%.",
+      "ru": "Понижает <color=#80FFD7FF>Анемо сопротивление</color> противников, получивших урон от навыка <color=#FFD780FF>Великая ода ветру</color>, на 20%.\nЕсли произошло Поглощение стихии, то также понижает сопротивление к поглощённому элементу на 20%.",
+      "id": "Musuh yang menerima DMG dari <color=#FFD780FF>Wind's Grand Ode</color> akan mendapat pengurangan <color=#80FFD7FF>Anemo RES</color> sebanyak 20%.\nJika Elemental Absorption muncul, maka RES terhadap elemen yang bersangkutan juga berkurang 20%.",
+      "th": "ศัตรูที่ได้รับความเสียหายจาก <color=#FFD780FF>Wind's Grand Ode</color> จะถูกลด <color=#80FFD7FF>ความต้านทานลม</color> ลง 20%;\nหากเกิดการเปลี่ยนแปลงธาตุ ความต้านทานธาตุที่เปลี่ยน จะลดลงด้วย 20%",
+      "vi": "Kẻ địch bị <color=#FFD780FF>Bài Thơ Thần Gió</color> sát thương, <color=#80FFD7FF>kháng Nguyên Tố Phong</color> giảm 20%.\nNếu chuyển hoá nguyên tố xảy ra, sẽ giảm 20% kháng nguyên tố đã chuyển."
+    },
+    "imgid": "constellation_6"
+  }
+]

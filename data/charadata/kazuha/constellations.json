@@ -1,0 +1,200 @@
+[
+  {
+    "title": {
+      "zhs": "千山红遍",
+      "zht": "千山紅遍",
+      "jp": "千山紅葉",
+      "ko": "붉게 물든 산",
+      "en": "Scarlet Hills",
+      "de": "Rot bedeckte Hügel",
+      "es": "Rubor de las montañas",
+      "fr": "Montagnes écarlates",
+      "pt": "Cordilheiras Avermelhadas",
+      "ru": "Алые холмы",
+      "id": "Scarlet Hills",
+      "th": "Scarlet Hills",
+      "vi": "Sắc Đỏ Vạn Dặm"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>千早振</color>的冷却时间减少10%。\n施放<color=#FFD780FF>万叶之一刀</color>时，重置<color=#FFD780FF>千早振</color>的冷却时间。",
+      "zht": "<color=#FFD780FF>千早振</color>的冷卻時間減少10%。\n施放<color=#FFD780FF>萬葉之一刀</color>時，重置<color=#FFD780FF>千早振</color>的冷卻時間。",
+      "jp": "<color=#FFD780FF>千早振る</color>のクールタイム-10%。\n<color=#FFD780FF>万葉の一刀</color>を発動した時、<color=#FFD780FF>千早振る</color>のクールタイムがリセットされる。",
+      "ko": "<color=#FFD780FF>치하야부루</color>의 재사용 대기시간이 10% 감소한다.\n<color=#FFD780FF>카즈하의 일도</color>를 발동하면 <color=#FFD780FF>치하야부루</color>의 재사용 대기시간이 초기화된다",
+      "en": "Decreases <color=#FFD780FF>Chihayaburu</color>'s CD by 10%.\nUsing <color=#FFD780FF>Kazuha Slash</color> resets the CD of <color=#FFD780FF>Chihayaburu</color>.",
+      "de": "Verkürzt die Abklingzeit von <color=#FFD780FF>Chihayaburu</color> um 10 %.\nÜberspringt bei Anwendung von <color=#FFD780FF>Kazuha-Schlag</color> die Abklingzeit von <color=#FFD780FF>Chihayaburu</color>.",
+      "es": "Reduce en un 10% el TdE de <color=#FFD780FF>Vehemencia estremecedora</color>.\nAdemás, el TdE de esta habilidad se reiniciará al usar <color=#FFD780FF>Filo de las diez mil hojas</color>.",
+      "fr": "Réduit le TdR de <color=#FFD780FF>Véhémence divine</color> de 10 %.\n<color=#FFD780FF>Coupure de mille feuilles</color> réinitialise le TdR de <color=#FFD780FF>Véhémence divine</color> lorsqu'elle est activée.",
+      "pt": "Reduz o Tempo de Recarga de <color=#FFD780FF>Chihayaburu</color> em 10%.\nAo lançar <color=#FFD780FF>Lâmina de Kazuha</color>, redefine o Tempo de Recarga de <color=#FFD780FF>Chihayaburu</color>.",
+      "ru": "Уменьшает время отката навыка <color=#FFD780FF>Тихаяфуру</color> на 10%, также использование навыка <color=#FFD780FF>Удар Кадзухи</color> полностью сбрасывает его время отката.",
+      "id": "Mengurangi 10% CD <color=#FFD780FF>Chihayaburu</color>.\nMenggunakan <color=#FFD780FF>Kazuha Slash</color> akan langsung menyelesaikan CD <color=#FFD780FF>Chihayaburu</color>.",
+      "th": "ลดเวลาคูลดาวน์ของสกิล <color=#FFD780FF>Chihayaburu</color> ลง 10%\nและเมื่อใช้สกิล <color=#FFD780FF>Kazuha Slash</color> จะรีเซ็ตเวลาคูลดาวน์ของสกิล <color=#FFD780FF>Chihayaburu</color>",
+      "vi": "Thời gian CD <color=#FFD780FF>Chihayaburu</color> giảm 10%.\nKhi thi triển <color=#FFD780FF>Kazuha Nhất Đao Trảm</color>, làm mới thời gian CD <color=#FFD780FF>Chihayaburu</color>."
+    },
+    "imgid": "constellation_1"
+  },
+  {
+    "title": {
+      "zhs": "山岚残芯",
+      "zht": "山嵐殘芯",
+      "jp": "山嵐残心",
+      "ko": "산바람의 잔심",
+      "en": "Yamaarashi Tailwind",
+      "de": "Yamaarashi-Rückenwind",
+      "es": "Viento en las colinas",
+      "fr": "Zanshin des montagnes cruelles",
+      "pt": "Vento das Montanhas",
+      "ru": "Ветер ямаараси",
+      "id": "Yamaarashi Tailwind",
+      "th": "Yamaarashi Tailwind",
+      "vi": "Bão Tố Yamaarashi"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>万叶之一刀</color>的流风秋野具有以下效果：\n·持续期间内，枫原万叶自己的元素精通提升200点；\n·其中的场上角色的元素精通提升200点。\n\n该命之座提供的元素精通提升效果无法叠加。",
+      "zht": "<color=#FFD780FF>萬葉之一刀</color>的流風秋野具有以下效果：\n·持續期間內，楓原萬葉自身的元素精通提升200點；\n·其中的場上角色在此期間的元素精通提升200點。\n\n該命之座提供的元素精通提升效果無法疊加。",
+      "jp": "<color=#FFD780FF>万葉の一刀</color>の流風秋野で下記の効果を発動する。\n·継続時間内、楓原万葉自身の元素熟知+200。\n·流風秋野の中にいるフィールド上キャラクターの元素熟知+200。\n\nこの命ノ星座による元素熟知アップ効果は重ね掛けできない。",
+      "ko": "<color=#FFD780FF>카즈하의 일도</color> 바람 부는 가을 들판의 효과:\n·지속 시간 내에 카에데하라 카즈하의 원소 마스터리가 200pt 증가한다.\n·필드 상의 캐릭터 원소 마스터리가 200pt 증가한다.\n\n해당 운명의 자리로 인한 원소 마스터리 버프 효과는 중첩되지 않는다",
+      "en": "The Autumn Whirlwind field created by <color=#FFD780FF>Kazuha Slash</color> has the following effects:\n· Increases Kaedehara Kazuha's own Elemental Mastery by 200.\n· Increases the Elemental Mastery of characters within the field by 200.\n\nThe Elemental Mastery-increasing effects of this Constellation do not stack.",
+      "de": "Das wirbelnde Herbstfeld von <color=#FFD780FF>Kazuha-Schlag</color> hat den folgenden Effekt:\n· Erhöht während der Wirkungsdauer die Elementarkunde von Kaedehara Kazuha um 200 Punkte.\n· Erhöht die Elementarkunde aktueller Figuren um 200 Punkte.\n\nDie Elementarkunde-Bonuseffekte dieses Sternbilds können nicht gestapelt werden.",
+      "es": "Dentro del área de viento del otoño creada mediante <color=#FFD780FF>Filo de las diez mil hojas</color> ocurren los siguientes efectos:\n·Mientras dure el área, la Maestría Elemental de Kaedehara Kazuha aumenta 200 pts.\n·La Maestría Elemental de los personajes dentro del área de viento del otoño aumenta 200 pts.\n\nLos efectos de incremento de Maestría Elemental que proporciona esta constelación no son acumulables.",
+      "fr": "Le champ de Vent d'automne créé par <color=#FFD780FF>Coupure de mille feuilles</color> a les effets suivants :\n· Tant qu'il est actif, la maîtrise élémentaire de Kazuha est augmentée de 200 pts.\n· La maîtrise élémentaire des personnages déployés dans le champ est augmentée de 200 pts.\n\nLes effets d'augmentation de maîtrise élémentaire de cette constellation ne se cumulent pas.",
+      "pt": "O campo de Redemoinho do Outono criado por <color=#FFD780FF>Lâmina de Kazuha</color> tem as seguintes propriedades:\n·Aumenta a Proficiência Elemental de Kaedehara Kazuha em 200;\n·Aumenta a Proficiência Elemental dos personagens no campo em 200.\n\nOs efeitos de aumento de Proficiência Elemental desta Constelação não se acumulam.",
+      "ru": "Поле Осеннего вихря, созданное навыком <color=#FFD780FF>Удар Кадзухи</color>, имеет следующие свойства:\n· Увеличивает мастерство стихий Кадзухи на 200 ед.\n· Увеличивает мастерство стихий персонажей внутри поля на 200 ед.\n\nЭффекты увеличения мастерства стихий этого созвездия не складываются.",
+      "id": "Area Autumn Whirlwind yang dibuat oleh <color=#FFD780FF>Kazuha Slash</color> memiliki efek berikut:\n· Meningkatkan 200 Elemental Mastery Kaedehara Kazuha.\n· Meningkatkan 200 Elemental Mastery Karakter di dalam area.\n\nEfek peningkatan Elemental Mastery dari Konstelasi ini tidak bisa ditumpuk.",
+      "th": "Autumn Whirlwind ของสกิล <color=#FFD780FF>Kazuha Slash</color> มีเอฟเฟกต์ดังต่อไปนี้:\n·ภายในระยะเวลาต่อเนื่อง ความชำนาญธาตุของตัว Kaedehara Kazuha เองจะเพิ่มขึ้น 200 หน่วย;\n·ความชำนาญธาตุของตัวละครที่เข้าร่วมการต่อสู้และอยู่ในพื้นที่จะเพิ่มขึ้น 200 หน่วย\n\nเอฟเฟกต์การเพิ่มความชำนาญธาตุของกลุ่มดาวดังกล่าวจะไม่ซ้อนทับกัน",
+      "vi": "Một Khắc Gió Thu của <color=#FFD780FF>Kazuha Nhất Đao Trảm</color> có hiệu quả sau:\n·Trong thời gian duy trì, Tinh Thông Nguyên Tố của Kaedehara Kazuha tăng 200 điểm;\n·Tinh Thông Nguyên Tố của nhân vật ra trận tăng 200 điểm.\n\nHiệu quả tăng Tinh Thông Nguyên Tố mà Cung Mệnh này mang đến sẽ không thể cộng dồn."
+    },
+    "imgid": "constellation_2"
+  },
+  {
+    "title": {
+      "zhs": "枫袖奇谭",
+      "zht": "楓袖奇譚",
+      "jp": "楓袖奇譚",
+      "ko": "단풍 소매 기담",
+      "en": "Maple Monogatari",
+      "de": "Ahorn-Monogatari",
+      "es": "Leyenda de los arces",
+      "fr": "Mystère d'érable",
+      "pt": "Bordo Monogatari",
+      "ru": "Кленовая легенда",
+      "id": "Maple Monogatari",
+      "th": "Maple Monogatari",
+      "vi": "Phong Tụ Kỳ Đàm"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>千早振</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>千早振</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>千早振る</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>치하야부루</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Chihayaburu</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Chihayaburu</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Vehemencia estremecedora</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Véhémence divine</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o nível do <color=#FFD780FF>Chihayaburu</color> em 3.\nO nível máximo de elevação é 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Тихаяфуру</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Chihayaburu</color>. Maksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลของสกิล <color=#FFD780FF>Chihayaburu</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Chihayaburu</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_3"
+  },
+  {
+    "title": {
+      "zhs": "大空幻法",
+      "zht": "大空幻法",
+      "jp": "大空幻法",
+      "ko": "대공환법",
+      "en": "Oozora Genpou",
+      "de": "Oozora Genpou",
+      "es": "Ilusión de la nada",
+      "fr": "Illusion du néant",
+      "pt": "Magia Ilusória",
+      "ru": "Одзора гэмпо",
+      "id": "Oozora Genpou",
+      "th": "Oozora Genpou",
+      "vi": "Oozora Genpou"
+    },
+    "description": {
+      "zhs": "当枫原万叶的元素能量低于45点时，具有如下效果：\n·点按、长按施放<color=#FFD780FF>千早振</color>时，将分别为枫原万叶恢复3、4点元素能量；\n·处于滑翔状态下时，每秒为枫原万叶恢复2点元素能量。",
+      "zht": "當楓原萬葉的元素能量低於45點時，具有如下效果：\n·點按及長按施放<color=#FFD780FF>千早振</color>時，將分別為楓原萬葉恢復3點及4點的元素能量；\n·處於滑翔狀態下時，每秒為楓原萬葉恢復2點元素能量。",
+      "jp": "楓原万葉の元素エネルギーが45以下の時、下記の効果を獲得する。\n·一回押し/長押しで<color=#FFD780FF>千早振る</color>を発動した時、元素エネルギーを3/4回復する。\n·滑翔状態の時、1秒毎に元素エネルギーを2回復する。",
+      "ko": "카에데하라 카즈하의 원소 에너지가 45pt이하일 경우 아래와 같은 효과가 있다:\n·짧은 터치와 홀드로 <color=#FFD780FF>치하야부루</color>를 발동할 시 카에데하라 카즈하의 원소 에너지는 각각 3, 4pt가 회복된다.\n·카에데하라 카즈하는 활강 상태일 때 원소 에너지를 1초마다 2pt씩 회복한다",
+      "en": "#When Kaedehara Kazuha's Energy is lower than 45, he obtains the following effects:\n·{LAYOUT_MOBILE#Tapping}{LAYOUT_PC#Pressing}{LAYOUT_PS#Pressing} or Holding <color=#FFD780FF>Chihayaburu</color> regenerates 3 or 4 Energy for Kaedehara Kazuha, respectively.\n·When gliding, Kaedehara Kazuha regenerates 2 Energy per second.",
+      "de": "Löst für Kaedehara Kazuha bei weniger als 45 Punkten Elementarenergie folgende Effekte aus:\n· Drücke oder halte <color=#FFD780FF>Chihayaburu</color> gedrückt, um Kaedehara Kazuha 3 bzw. 4 Punkte Elementarenergie wiederherzustellen.\n· Stellt Kaedehara Kazuha beim Gleiten 2 Punkte Elementarenergie pro s wieder her.",
+      "es": "#Cuando la Energía Elemental de Kaedehara Kazuha está por debajo de 45 pts., obtiene los siguientes efectos:\n·Al {LAYOUT_MOBILE#tocar una vez}{LAYOUT_PC#pulsar una vez}{LAYOUT_PS#pulsar una vez} <color=#FFD780FF>Vehemencia estremecedora</color>, recupera 3 pts. de energía. Al mantener pulsado, recupera 4 pts.\n·Mientras vuela, Kazuha recupera 2 pts. de Energía Elemental por segundo.",
+      "fr": "#Quand l'énergie élémentaire de Kazuha tombe en dessous de 45 pts, il obtient les effets suivants :\n· {LAYOUT_MOBILE#Toucher}{LAYOUT_PC#Cliquer}{LAYOUT_PS#Appuyer} simplement ou longuement pour utiliser <color=#FFD780FF>Véhémence divine</color> restaure l'énergie élémentaire de Kazuha de 3 ou 4 pts, respectivement.\n· Planer restaure l'énergie élémentaire de Kazuha de 2 pts toutes les secondes.",
+      "pt": "Quando a Energia Elemental de Kaedehara Kazuha está em menos que 45, ele possui os seguintes efeitos: \n·Ao Pressionar e Manter Pressionado <color=#FFD780FF>Chihayaburu</color>, ele recupera 3 e 4 de Energia Elemental respectivamente;\n·Kaedehara Kazuha recupera 2 pontos de Energia Elemental por cada segundo que passa Planando.",
+      "ru": "Когда энергия Кадзухи падает ниже 45 ед., он получает следующие эффекты:\n· Быстрое и долгое нажатие навыка <color=#FFD780FF>Тихаяфуру</color> восстанавливает 3 и 4 ед. энергии Кадзухи соответственно.\n· Полёт на планере восстанавливает 2 ед. энергии Кадзухи в сек.",
+      "id": "Saat Energy Kaedehara Kazuha kurang dari 45, Kazuha akan mendapatkan efek berikut:\n·Menekan atau Menahan skill <color=#FFD780FF>Chihayaburu</color> akan memulihkan 3 atau 4 Energy Kaedehara Kazuha;\n·Memulihkan 2 Energy Kaedehara Kazuha setiap detik saat sedang meluncur.",
+      "th": "#เมื่อพลังงานธาตุของ Kaedehara Kazuha ต่ำกว่า 45 หน่วย จะมีเอฟเฟกต์ดังนี้:\nเมื่อใช้สกิล <color=#FFD780FF>Chihayaburu</color> โดยการ{LAYOUT_MOBILE#แตะ}{LAYOUT_PC#กด}{LAYOUT_PS#กด} หรือ {LAYOUT_MOBILE#แตะค้าง}{LAYOUT_PC#กดค้าง}{LAYOUT_PS#กดค้าง} จะฟื้นฟูพลังงานธาตุ 3 และ 4 หน่วยให้กับ Kaedehara Kazuha ตามลำดับ;\n·เมื่ออยู่ในสภาวะการบินร่อน จะฟื้นฟูพลังงานธาตุให้กับ Kaedehara Kazuha 2 หน่วยต่อวินาที",
+      "vi": "Khi năng lượng nguyên tố của Kaedehara Kazuha thấp hơn 45 sẽ có những hiệu ứng sau:\n·Nhấn, nhấn giữ thi triển <color=#FFD780FF>Chihayaburu</color> sẽ hồi phục cho Kazuha lần lượt 3, 4 năng lượng nguyên tố;\n·Khi trong trạng thái lượn, mỗi giây sẽ giúp Kazuha hồi phục 2 năng lượng nguyên tố."
+    },
+    "imgid": "constellation_4"
+  },
+  {
+    "title": {
+      "zhs": "万世之集",
+      "zht": "萬世之集",
+      "jp": "万世集",
+      "ko": "만세집",
+      "en": "Wisdom of Bansei",
+      "de": "Weisheit von Bansei",
+      "es": "Sabiduría eterna",
+      "fr": "Collection ancestrale",
+      "pt": "Sabedoria de Bansei",
+      "ru": "Мудрость веков",
+      "id": "Wisdom of Bansei",
+      "th": "Wisdom of Bansei",
+      "vi": "Trí Tuệ Bansei"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>万叶之一刀</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>萬葉之一刀</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>万葉の一刀</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>카즈하의 일도</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Kazuha Slash</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Kazuha-Schlag</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Filo de las diez mil hojas</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Coupure de mille feuilles</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o nível da Habilidade <color=#FFD780FF>Lâmina de Kazuha</color> em 3.\nO nível máximo de elevação é 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Удар Кадзухи</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Kazuha Slash</color>. Maksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลของสกิล <color=#FFD780FF>Kazuha Slash</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Kazuha Nhất Đao Trảm</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_5"
+  },
+  {
+    "title": {
+      "zhs": "血赤叶红",
+      "zht": "血赤葉紅",
+      "jp": "血赤の紅葉",
+      "ko": "심홍의 단풍",
+      "en": "Crimson Momiji",
+      "de": "Momiji-Jagd",
+      "es": "Hojas escarlata",
+      "fr": "Pétales écarlates",
+      "pt": "Momiji Escarlate",
+      "ru": "Багровые листья",
+      "id": "Crimson Momiji",
+      "th": "Crimson Momiji",
+      "vi": "Lá Phong Đỏ Thẫm"
+    },
+    "description": {
+      "zhs": "枫原万叶施放<color=#FFD780FF>千早振</color>或<color=#FFD780FF>万叶之一刀</color>后的5秒内，获得<color=#80FFD7FF>风元素附魔</color>，并且枫原万叶的每点元素精通，都会使他的普通攻击、重击、下落攻击造成的伤害提高0.2%。",
+      "zht": "楓原萬葉施放<color=#FFD780FF>千早振</color>或<color=#FFD780FF>萬葉之一刀</color>後的5秒內，獲得<color=#80FFD7FF>風元素附魔</color>，並且楓原萬葉的每點元素精通，都會使他的普通攻擊、重擊、下落攻擊造成的傷害提高0.2%。",
+      "jp": "楓原万葉が<color=#FFD780FF>千早振る</color>または<color=#FFD780FF>万葉の一刀</color>を発動した後の5秒間、<color=#80FFD7FF>風元素付与</color>を獲得する、また楓原万葉の元素熟知の数値が1につき、自身の通常攻撃、重撃、落下攻撃のダメージ+0.2%。",
+      "ko": "카에데하라 카즈하가 <color=#FFD780FF>치하야부루</color> 혹은 <color=#FFD780FF>카즈하의 일도</color>를 발동한 후 5초 동안 <color=#80FFD7FF>바람 원소 부여 효과</color>를 얻는다. 또한 카에데하라 카즈하의 원소 마스터리 포인트로 일반 공격, 강공격, 낙하 공격이 가하는 피해가 0.2% 증가한다",
+      "en": "After using <color=#FFD780FF>Chihayaburu</color> or <color=#FFD780FF>Kazuha Slash</color>, Kaedehara Kazuha gains an <color=#80FFD7FF>Anemo Infusion</color> for 5s. Additionally, each point of Elemental Mastery will increase the DMG dealt by Kaedehara Kazuha's Normal, Charged, and Plunging Attack by 0.2%.",
+      "de": "Verleiht Kaedehara Kazuha bei der Anwendung von <color=#FFD780FF>Chihayaburu</color> oder <color=#FFD780FF>Kazuha-Schlag</color> 5 s lang die <color=#80FFD7FF>Anemo</color>-Kraft. Erhöht Kaedehara Kazuhas mit Standardangriffen, heftigen Schlägen und Angriffen aus dem Fall verursachten Schaden um 0,2 % pro Punkt Elementarkunde.",
+      "es": "Tras utilizar <color=#FFD780FF>Vehemencia estremecedora</color> o <color=#FFD780FF>Filo de las diez mil hojas</color>, Kazuha se <color=#80FFD7FF>imbuye del elemento Anemo</color> durante 5 s. Además, el daño que inflige con sus Ataques Normales, Cargados y Descendentes aumenta en un 0.2% por cada punto de Maestría Elemental que tenga.",
+      "fr": "Kazuha bénéficie d'un <color=#80FFD7FF>enchantement Anémo</color> pendant 5 s après avoir utilisé <color=#FFD780FF>Véhémence divine</color> ou <color=#FFD780FF>Coupure de mille feuilles</color>. De plus, chaque point de maîtrise élémentaire de Kazuha augmente les DGT infligés par son attaque normale, son attaque chargée et son attaque plongeante de 0,2 %.",
+      "pt": "Nos 5 segundos após Kaedehara Kazuha lançar <color=#FFD780FF>Chihayaburu</color> ou <color=#FFD780FF>Lâmina de Kazuha</color>, ele obtém <color=#80FFD7FF>Encantamento Anemo</color>. Cada ponto da Proficiência Elemental de Kaedehara Kazuha será utilizado nos seus Ataques Normais, Ataques Carregados, Ataques Imersivos e Ataque Imersivo - Ranzan Aéreo, causando um Aumento de Dano de 0.2%.",
+      "ru": "Использование навыков <color=#FFD780FF>Тихаяфуру</color> и <color=#FFD780FF>Удар Кадзухи</color> наделяет оружие Кадзухи <color=#80FFD7FF>инфузией Анемо</color> на 5 сек. А также каждая единица мастерства стихий Кадзухи увеличивает на 0,2% урон, наносимый его обычной атакой, заряженной атакой и атакой в падении.",
+      "id": "Kaedehara Kazuha akan mendapatkan <color=#80FFD7FF>Anemo Infusion</color> selama 5 detik setelah menggunakan <color=#FFD780FF>Chihayaburu</color> atau <color=#FFD780FF>Kazuha Slash</color>. Sebagai tambahan, setiap poin Elemental Mastery Kaedehara Kazuha akan meningkatkan 0,2% DMG Normal, Charged, dan Plunging Attack Kaedehara Kazuha.",
+      "th": "ภายใน 5 วินาที หลังจาก Kaedehara Kazuha ใช้สกิล <color=#FFD780FF>Chihayaburu</color> หรือ <color=#FFD780FF>Kazuha Slash</color> จะได้รับ<color=#80FFD7FF>พลังแห่งธาตุลม</color> และความชำนาญธาตุแต่ละหน่วยของ Kaedehara Kazuha จะทำให้ความเสียหายจากการโจมตีปกติ, ชาร์จโจมตี และโจมตีพุ่งลงจากอากาศของเขาเพิ่มขึ้น 0.2%",
+      "vi": "Trong 5s sau khi Kazuha thi triển <color=#FFD780FF>Chihayaburu</color> hoặc <color=#FFD780FF>Kazuha Nhất Đao Trảm</color> sẽ nhận được <color=#80FFD7FF>đính kèm nguyên tố Phong</color>, hơn nữa mỗi điểm tinh thông nguyên tố của Kazuha sẽ khiến sát thương tạo thành từ đánh thường, trọng kích, tấn công khi đáp của anh ấy tăng 0.2%."
+    },
+    "imgid": "constellation_6"
+  }
+]

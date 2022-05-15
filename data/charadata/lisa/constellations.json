@@ -1,0 +1,200 @@
+[
+  {
+    "title": {
+      "zhs": "无限的电回路",
+      "zht": "無限的電迴路",
+      "jp": "無限の電気回路",
+      "ko": "무한의 전기회로",
+      "en": "Infinite Circuit",
+      "de": "Unendlicher Schaltkreis",
+      "es": "Circuito infinito",
+      "fr": "Circuit infini",
+      "pt": "Circuito Infinito",
+      "ru": "Замыкание цепи",
+      "id": "Infinite Circuit",
+      "th": "Infinite Circuit",
+      "vi": "Đường Điện Vô Hạn"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>苍雷</color>长按时，每个命中的敌人都会为丽莎恢复2点元素能量。\n通过这种方式，一次至多回复10点元素能量。",
+      "zht": "<color=#FFD780FF>蒼雷</color>長按時，每個命中的敵人都會為麗莎恢復2點元素能量。\n透過這種方式，一次至多回復10點元素能量。",
+      "jp": "<color=#FFD780FF>蒼雷</color>を長押しで発動した後、敵に命中する度にリサの元素エネルギーが2回復する。\n一回で最大10まで回復可能。",
+      "ko": "<color=#FFD780FF>창뢰</color>를 길게 터치하면 적에게 명중할 때마다 리사의 원소 에너지를 2pt 회복한다.\n이러한 방식을 통해 한번에 원소 에너지를 최대 10pt까지 회복할 수 있다",
+      "en": "Lisa regenerates 2 Energy for every opponent hit while holding <color=#FFD780FF>Violet Arc</color>.\nA maximum of 10 Energy can be regenerated in this manner at any one time.",
+      "de": "Stellt Lisa beim Gedrückthalten von <color=#FFD780FF>Lila Lichtbogen</color> 2 Punkte Elementarenergie für jeden getroffenen Gegner wieder her.\nInsgesamt können auf diese Weise bis zu 10 Punkte Elementarenergie pro Anwendung wiederhergestellt werden.",
+      "es": "Al mantener pulsado <color=#FFD780FF>Arco violeta</color>, Lisa recupera 2 pts. de Energía Elemental por cada enemigo golpeado.\nSolo se puede regenerar un máximo de 10 pts. de energía de esta manera.",
+      "fr": "Lisa regagne 2 pts d'énergie par ennemi touché tant qu'<color=#FFD780FF>Arc fulminant</color> reste activé.\nJusqu'à 10 pts d'énergie élémentaire peuvent être restaurés de cette manière.",
+      "pt": "Lisa regenera 2 de Energia para cada oponente atingido ao manter o <color=#FFD780FF>Arco Violeta</color> pressionado.\nÉ possível regenerar um máximo de 10 de Energia desta maneira por vez.",
+      "ru": "За каждое попадание долгим нажатием навыка <color=#FFD780FF>Пурпурная дуга</color> Лиза восстанавливает 2 ед. энергии.\nНе более 10 ед. энергии за раз.",
+      "id": "Saat menahan <color=#FFD780FF>Violet Arc</color>, memulihkan 2 Energy Lisa untuk setiap musuh yang terkena serang.\nPaling banyak dapat memulihkan 10 Energy dengan cara ini setiap kalinya.",
+      "th": "#เมื่อ{LAYOUT_MOBILE#แตะ}{LAYOUT_PC#กด}{LAYOUT_PS#กด} <color=#FFD780FF>Violet Arc</color> ค้างจนเต็มแล้วปล่อย ศัตรูแต่ละตัวที่โดนการโจมตี จะทำให้ Lisa ฟื้นฟูพลังงานขึ้น 2 หน่วย\nด้วยวิธีนี้จะสามารถฟื้นฟู พลังงานธาตุได้มากสุดถึง 10 หน่วย",
+      "vi": "Khi nhấn giữ <color=#FFD780FF>Sấm Giội</color>, mỗi khi đánh trúng địch sẽ hồi phục 2 điểm năng lượng Nguyên Tố cho Lisa.\nTối đa hồi phục 10 điểm Năng Lượng Nguyên Tố mỗi lần."
+    },
+    "imgid": "constellation_1"
+  },
+  {
+    "title": {
+      "zhs": "空间电势结界",
+      "zht": "空間電勢結界",
+      "jp": "空間電位の結界",
+      "ko": "공간 전위 결계",
+      "en": "Electromagnetic Field",
+      "de": "Elektrisierter Raum",
+      "es": "Campo electromagnético",
+      "fr": "Champ électromagnétique",
+      "pt": "Campo Eletromagnético",
+      "ru": "Электромагнитное поле",
+      "id": "Electromagnetic Field",
+      "th": "Electromagnetic Field",
+      "vi": "Kết Giới Lưới Điện"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>苍雷</color>长按时，具有如下效果：\n·防御力提升25%；\n·提高丽莎的抗打断能力。",
+      "zht": "<color=#FFD780FF>蒼雷</color>長按時，具有如下效果：\n·防禦力提升25%；\n·提高麗莎的抗打斷能力。",
+      "jp": "<color=#FFD780FF>蒼雷</color>長押し時に下記の効果が付与される。\n·防御力+25%。\n·リサの中断耐性をアップする。",
+      "ko": "<color=#FFD780FF>창뢰</color>를 길게 누르면 아래의 효과가 발동한다:\n·방어력+25%\n·리사의 경직 저항력 상승",
+      "en": "Holding <color=#FFD780FF>Violet Arc</color> has the following effects:\n·Increases DEF by 25%.\n·Increases Lisa's resistance to interruption.",
+      "de": "Effekte beim Gedrückthalten von <color=#FFD780FF>Lila Lichtbogen</color>:\n· Erhöht die VTD um 25 %.\n· Erhöht Lisas Unterbrechungs-WDS.",
+      "es": "Al mantener pulsado, <color=#FFD780FF>Arco violeta</color> tiene los siguientes efectos:\n·Aumenta en un 25% la DEF.\n·Aumenta la RES a interrupción de Lisa.",
+      "fr": "<color=#FFD780FF>Arc fulminant</color> confère les effets suivants tant qu'il reste activé :\n· DÉF augmentée de 25 %.\n· Augmente la RÉS à l'interruption de Lisa.",
+      "pt": "Mantendo pressionado o <color=#FFD780FF>Arco Violeta</color> possui os seguintes efeitos:\nAumenta a DEF em 25%\nAumenta a RES a interrupção de Lisa.",
+      "ru": "Долгое нажатие навыка <color=#FFD780FF>Пурпурная дуга</color> даёт следующие эффекты:\n· Увеличивает защиту на 25%.\n· Повышает устойчивость Лизы к прерыванию.",
+      "id": "Menahan <color=#FFD780FF>Violet Arc</color> memberikan efek berikut:\n·Meningkatkan 25% DEF.\n·Meningkatkan daya tahan Lisa terhadap gangguan.",
+      "th": "#เมื่อ{LAYOUT_MOBILE#แตะ}{LAYOUT_PC#กด}{LAYOUT_PS#กด} <color=#FFD780FF>Violet Arc</color> ค้าง จะเกิดเอฟเฟกต์ดังนี้: พลังป้องกันเพิ่มขึ้น 25%;\n·ความสามารถในการต้านทานการหยุดชะงักของ Lisa จะเพิ่มขึ้น",
+      "vi": "Khi nhấn giữ <color=#FFD780FF>Sấm Giội</color>, có hiệu quả như sau:\nPhòng ngự tăng 25%;\nTăng khả năng kháng gián đoạn của Lisa."
+    },
+    "imgid": "constellation_2"
+  },
+  {
+    "title": {
+      "zhs": "谐振的雷光",
+      "zht": "諧振的雷光",
+      "jp": "共振の雷光",
+      "ko": "공명의 뇌광",
+      "en": "Resonant Thunder",
+      "de": "Resonanzdonner",
+      "es": "Trueno resonante",
+      "fr": "Tonnerre résonant",
+      "pt": "Relâmpago Ressonante",
+      "ru": "Резонанс цепи",
+      "id": "Resonant Thunder",
+      "th": "Resonant Thunder",
+      "vi": "Sấm Sét Cộng Hưởng"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>蔷薇的雷光</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>薔薇的雷光</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>薔薇の雷光</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>장미의 뇌광</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Lightning Rose</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Rosenblitz</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Rayo de la rosa</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Rose de foudre</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o nível da <color=#FFD780FF>Rosa do Relâmpago</color> em 3.\nO nível máximo de elevação é 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Громовая роза</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Lightning Rose</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Lightning Rose</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Tường Vi Sấm Sét</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_3"
+  },
+  {
+    "title": {
+      "zhs": "如雨的电浆",
+      "zht": "如雨的電漿",
+      "jp": "雨の如くプラズマ",
+      "ko": "비처럼 내리는 플라즈마",
+      "en": "Plasma Eruption",
+      "de": "Plasmaregen",
+      "es": "Erupción de plasma",
+      "fr": "Éruption de plasma",
+      "pt": "Erupção de Plasma",
+      "ru": "Извержение плазмы",
+      "id": "Plasma Eruption",
+      "th": "Plasma Eruption",
+      "vi": "Dòng Điện Như Mưa"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>蔷薇的雷光</color>攻击时，放出的闪电增加至1~3道。",
+      "zht": "<color=#FFD780FF>薔薇的雷光</color>攻擊時，放出的閃電增加至1-3道。",
+      "jp": "<color=#FFD780FF>薔薇の雷光</color>が攻撃する時、放つ稲妻が1~3本に増加する。",
+      "ko": "<color=#FFD780FF>장미의 뇌광</color> 발동 시 방출하는 번개가 1~3개까지 증가한다",
+      "en": "Increases the number of lightning bolts released by <color=#FFD780FF>Lightning Rose</color> by 1-3.",
+      "de": "Erschafft beim Angriff mit <color=#FFD780FF>Rosenblitz</color>1 bis 3 Kettenblitze.",
+      "es": "Aumenta el número de rayos lanzados por <color=#FFD780FF>Rayo de la rosa</color> de 1 a 3.",
+      "fr": "<color=#FFD780FF>Rose de foudre</color> libère 1 à 3 décharges supplémentaires.",
+      "pt": "Aumenta o número de raios lançados pela <color=#FFD780FF>Rosa do Relâmpago</color> em 1 a 3.",
+      "ru": "Увеличивает количество ударов молнии навыка <color=#FFD780FF>Громовая роза</color> до 1-3.",
+      "id": "Meningkatkan jumlah petir yang dilepaskan oleh <color=#FFD780FF>Lightning Rose</color> sebanyak 1-3.",
+      "th": "เมื่อโจมตีโดย <color=#FFD780FF>Lightning Rose</color> การปล่อยสายฟ้าจะเพิ่มเป็น 1~3 สาย",
+      "vi": "Khi <color=#FFD780FF>Tường Vi Sấm Sét</color> tấn công, sét bắn ra sẽ tăng từ 1-3 tia."
+    },
+    "imgid": "constellation_4"
+  },
+  {
+    "title": {
+      "zhs": "等离态的落雷",
+      "zht": "等離態的落雷",
+      "jp": "プラズマ落雷",
+      "ko": "플라즈마 낙뢰",
+      "en": "Electrocute",
+      "de": "Plasmaschnee",
+      "es": "Electrocución",
+      "fr": "Électrification",
+      "pt": "Eletrocutar",
+      "ru": "Электро казнь",
+      "id": "Electrocute",
+      "th": "Electrocute",
+      "vi": "Sét Đồng Phân"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>苍雷</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>蒼雷</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>蒼雷</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>창뢰</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Violet Arc</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Lila Lichtbogen</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Arco violeta</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Arc fulminant</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o nível do <color=#FFD780FF>Arco Violeta</color> em 3.\nO nível máximo de elevação é 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Пурпурная дуга</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Violet Arc</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Violet Arc</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Sấm Giội</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_5"
+  },
+  {
+    "title": {
+      "zhs": "脉冲的魔女",
+      "zht": "脈衝的魔女",
+      "jp": "パルスの魔女",
+      "ko": "펄스의 마녀",
+      "en": "Pulsating Witch",
+      "de": "Pulsierende Hexe",
+      "es": "Bruja palpitante",
+      "fr": "Sorcière de pulse",
+      "pt": "Bruxa Pulsante",
+      "ru": "Импульс ведьмы",
+      "id": "Pulsating Witch",
+      "th": "Pulsating Witch",
+      "vi": "Rung Động Của Ma Nữ"
+    },
+    "description": {
+      "zhs": "丽莎登场时，对附近的敌人施加3层<color=#FFD780FF>苍雷</color>的引雷效果。\n该效果每5秒只能触发一次。",
+      "zht": "麗莎登場時，對附近的敵人施加3層<color=#FFD780FF>蒼雷</color>的引雷效果。\n該效果每5秒只能觸發一次。",
+      "jp": "登場時、周囲の敵に<color=#FFD780FF>蒼雷</color>の誘雷効果を3重付与する。\nこの効果は5秒毎に1回のみ発動可能。",
+      "ko": "리사가 등장할 때 주변의 적에게 <color=#FFD780FF>창뢰</color>의 전기 전도 효과를 3스택 쌓는다.\n해당 효과는 5초마다 1회만 발동한다",
+      "en": "When Lisa takes the field, she applies 3 stacks of <color=#FFD780FF>Violet Arc</color>'s Conductive status onto nearby opponents.\nThis effect can only occur once every 5s.",
+      "de": "Fügt Gegnern in der Umgebung beim Einwechseln von Lisa den 3-fachen Effekt Blitzleiter von <color=#FFD780FF>Lila Lichtbogen</color> zu.\n5 s Abklingzeit",
+      "es": "Al cambiar a Lisa, los enemigos cercanos acumulan 3 cargas de conducción de <color=#FFD780FF>Arco violeta</color>.\nEste efecto puede ocurrir una vez cada 5 s.",
+      "fr": "Lisa inflige 3 cumuls de l'effet Conductivité d'<color=#FFD780FF>Arc fulminant</color> aux ennemis proches lorsqu'elle est déployée au combat.\ncet effet peut être déclenché une fois toutes les 5 s.",
+      "pt": "Quando a Lisa entra em campo, ela aplica 3 cargas do estado de Condução do <color=#FFD780FF>Arco Violeta</color> nos inimigos ao redor.\nEste efeito pode ser ativado uma vez a cada 5s.",
+      "ru": "При переключении на Лизу накладывает на окружающих врагов 3 статуса Проводник навыка <color=#FFD780FF>Пурпурная дуга</color>.\nМожет возникнуть раз в 5 сек.",
+      "id": "Saat berganti karakter ke Lisa, Lisa akan memberikan 3 lapis status Conductive dari skill <color=#FFD780FF>Violet Arc</color> kepada musuh di sekitar.\nEfek ini dapat terpicu setiap 5 detik.",
+      "th": "เมื่อ Lisa เข้าสู่การต่อสู้ จะทำให้เกิดเอฟเฟกต์นำไฟฟ้าของ <color=#FFD780FF>Violet Arc</color> 3 ชั้น แก่ศัตรูในบริเวณใกล้เคียง\nเอฟเฟกต์นี้จะเกิดขึ้นได้ 1 ครั้ง ในทุก 5 วินาที",
+      "vi": "Khi Lisa tham chiến, tạo thêm 3 lớp dẫn điện của <color=#FFD780FF>Sấm Giội</color>với địch ở gần.\nHiệu quả này 5s xuất hiện 1 lần."
+    },
+    "imgid": "constellation_6"
+  }
+]

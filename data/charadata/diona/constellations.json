@@ -1,0 +1,200 @@
+[
+  {
+    "title": {
+      "zhs": "特调的余韵",
+      "zht": "特調的餘韻",
+      "jp": "特製の余韻",
+      "ko": "칵테일의 여운",
+      "en": "A Lingering Flavor",
+      "de": "Empfehlung des Hauses",
+      "es": "Cóctel de la casa",
+      "fr": "Cocktail maison",
+      "pt": "Coquetel da Casa",
+      "ru": "Затяжное послевкусие",
+      "id": "A Lingering Flavor",
+      "th": "A Lingering Flavor",
+      "vi": "Dư Âm Đặc Chế"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>最烈特调</color>的效果结束时，为迪奥娜恢复15点元素能量。",
+      "zht": "<color=#FFD780FF>最烈特調</color>的效果結束時，為迪奧娜恢復15點元素能量。",
+      "jp": "<color=#FFD780FF>特製スピリッツ</color>の効果終了時、ディオナの元素エネルギーを15回復する。",
+      "ko": "<color=#FFD780FF>특제 칵테일</color>의 효과 종료 후 디오나의 원소 에너지를 15pt 회복한다",
+      "en": "Regenerates 15 Energy for Diona after the effects of <color=#FFD780FF>Signature Mix</color> end.",
+      "de": "Stellt Diona am Ende des Effekts von <color=#FFD780FF>Eisgekühlter Branntwein</color> 15 Punkte Elementarenergie wieder her.",
+      "es": "Cuando termina el efecto de <color=#FFD780FF>Cóctel asesino</color>, Diona recupera 15 pts. de Energía Elemental.",
+      "fr": "Diona récupère 15 pts d'énergie élémentaire à la fin de <color=#FFD780FF>Cuvée spéciale</color>.",
+      "pt": "Regenera 15 de Energia para Diona depois dos efeitos de <color=#FFD780FF>Coquetel Assassino</color> terminarem.",
+      "ru": "После окончания эффектов навыка <color=#FFD780FF>Авторский коктейль</color> восстанавливает Дионе 15 ед. энергии.",
+      "id": "Memulihkan 15 Energy Diona setelah efek <color=#FFD780FF>Signature Mix</color> berakhir.",
+      "th": "เมื่อเอฟเฟกต์ของ <color=#FFD780FF>Signature Mix</color> สิ้นสุดลง จะฟื้นฟูพลังงานธาตุให้ Diona 15 หน่วย",
+      "vi": "Khi kết thúc hiệu quả <color=#FFD780FF>Đặc Chế Mãnh Liệt</color>, Diona được hồi 15 điểm Năng Lượng Nguyên Tố."
+    },
+    "imgid": "constellation_1"
+  },
+  {
+    "title": {
+      "zhs": "猫爪冰摇",
+      "zht": "貓爪冰搖",
+      "jp": "クールキャッツクロー",
+      "ko": "꽁꽁젤리 쉐이큰",
+      "en": "Shaken, Not Purred",
+      "de": "Eiskalte Pfoten",
+      "es": "Ronroneo glacial",
+      "fr": "On the rocks",
+      "pt": "Garra de Gato Tremendo de Frio",
+      "ru": "Взболтать, но не мурлыкать",
+      "id": "Shaken, Not Purred",
+      "th": "Shaken, Not Purred",
+      "vi": "Vuốt Mèo Lắc Đá"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>猫爪冻冻</color>造成的伤害提高15%，护盾的伤害吸收量提高15%；\n此外，命中时，将为附近的当前其他场上角色生成一个伤害吸收量为<color=#FFD780FF>猫爪冻冻</color>50%的护盾，持续5秒。",
+      "zht": "<color=#FFD780FF>貓爪凍凍</color>造成的傷害提高15%，護盾的傷害吸收量提高15%；\n此外，命中時，將為附近的其他場上角色製造一個傷害吸收量為<color=#FFD780FF>貓爪凍凍</color>50%的護盾，持續5秒。",
+      "jp": "<color=#FFD780FF>フリーズキャッツクロー</color>によるダメージ+15%、シールドのダメージ吸収量+15%。\n命中時、近くに出場している他のキャラクターに<color=#FFD780FF>フリーズキャッツクロー</color>50%分のダメージを吸収するシールドを付与する、継続時間5秒。",
+      "ko": "<color=#FFD780FF>꽁꽁젤리</color>로 가하는 피해가 15% 증가하고 보호막 피해 흡수량이 15% 증가한다.\n또한 꽁꽁젤리 명중 시 필드 주변의 다른 캐릭터에게도 피해 흡수량이 <color=#FFD780FF>꽁꽁젤리</color>의 50%인 보호막이 생성된다. 지속 시간: 5초",
+      "en": "Increases <color=#FFD780FF>Icy Paws</color>' DMG by 15%, and increases its shield's DMG Absorption by 15%.\nAdditionally, when paws hit their targets, creates a shield for other nearby characters on the field with 50% of the <color=#FFD780FF>Icy Paws</color> shield's DMG Absorption for 5s.",
+      "de": "Erhöht den mit <color=#FFD780FF>Eistatzen</color> verursachten Schaden um 15 % und den mit Schilden abzuhaltenden Schaden um 15 %.\nErstellt anderen aktuellen Figuren in der Nähe außerdem bei Treffern einen Schutzschild, der Schaden in Höhe von 50 % von <color=#FFD780FF>Eistatzen</color> abhält, hält 5 s.",
+      "es": "Aumenta en un 15% el daño de <color=#FFD780FF>Zarpazo helado</color> y en un 15% la absorción de daño del escudo.\nAdemás, al golpear a un enemigo, crea para el resto de personajes cercanos un escudo que absorbe hasta un 50% del daño de <color=#FFD780FF>Zarpazo helado</color> durante 5 s.",
+      "fr": "Les DGT infligés par <color=#FFD780FF>Griffes Cryo</color> augmentent de 15 %, et le bouclier absorbe 15 % de DGT en plus.\nDe plus, lorsque la compétence touche, elle confère aux personnages déployés à proximité un bouclier pendant 5 s, dont le pouvoir absorbant équivaut à la moitié de celui de <color=#FFD780FF>Griffes Cryo</color>.",
+      "pt": "Aumenta o dano da <color=#FFD780FF>Garra de Gato Gelada</color> em 15%, e aumenta a Absorção de Dano do escudo em 15%. Quando a habilidade atinge um alvo, cria um escudo para outros personagens nos arredores que absorve até 50% do dano <color=#FFD780FF>Garra de Gato Gelada</color> por 5s.",
+      "ru": "Увеличивает урон и поглощение щита навыка <color=#FFD780FF>Морозные коготочки</color> на 15%.\nТакже при попадании навык создаёт другим находящимся неподалёку персонажам на 5 сек. щит, поглощение урона которого составляет 50% от поглощения щита навыка <color=#FFD780FF>Морозные коготочки</color>.",
+      "id": "Meningkatkan 15% DMG <color=#FFD780FF>Icy Paws</color>, dan meningkatkan 15% kemampuan menahan DMG;\nSelain itu, ketika skill ini mengenai musuh, akan menciptakan sebuah perisai untuk karakter lain di sekitarnya yang dapat menahan hingga 50% dari penahanan DMG perisai <color=#FFD780FF>Icy Paws</color> selama 5 detik.",
+      "th": "<color=#FFD780FF>Icy Paws</color> สร้างความเสียหายเพิ่มขึ้น 15% ปริมาณการดูดซับความเสียหายของโล่ป้องกันเพิ่มขึ้น 15%;\nนอกจากนี้ เมื่อสกิลนี้โจมตีถูกเป้าหมาย จะสร้างโล่ป้องกันให้ตัวละครตัวอื่นที่ต่อสู้อยู่ โดยจะมีปริมาณการดูดซับความเสียหาย 50% ของ <color=#FFD780FF>Icy Paws</color> เป็นเวลา 5 วินาที",
+      "vi": "Sát thương gây ra bởi <color=#FFD780FF>Móng Mèo Lạnh Giá</color> tăng 15%, khả năng hấp thụ sát thương của lớp khiên tăng 15%;\nNgoài ra, khi đánh trúng sẽ tạo thành lớp khiên cho các nhân vật trên trận khác hiện ở gần có khả năng hấp thụ sát thương bằng 50% <color=#FFD780FF>Móng Mèo Lạnh Giá</color> và kéo dài 5s."
+    },
+    "imgid": "constellation_2"
+  },
+  {
+    "title": {
+      "zhs": "还、还要续杯？",
+      "zht": "還、還要續杯？",
+      "jp": "お、おかわり？",
+      "ko": "한, 한 잔 더?",
+      "en": "A—Another Round?",
+      "de": "Einer geht noch!",
+      "es": "¿O-otra copa más?",
+      "fr": "Un dernier pour la route",
+      "pt": "Q-quer outro copo?",
+      "ru": "Ещё стаканчик?",
+      "id": "A—Another Round?",
+      "th": "A—Another Round?",
+      "vi": "Vẫn Muốn Thêm Một Ly?"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>最烈特调</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>最烈特調</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>特製スピリッツ</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>특제 칵테일</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Signature Mix</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Eisgekühlter Branntwein</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Cóctel asesino</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Cuvée spéciale</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o nível do <color=#FFD780FF>Coquetel Assassino</color> em 3.\nO nível máximo de elevação é 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Авторский коктейль</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Signature Mix</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลของสกิล <color=#FFD780FF>Signature Mix</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Đặc Chế Mãnh Liệt</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_3"
+  },
+  {
+    "title": {
+      "zhs": "「酒业杀手」",
+      "zht": "「酒業殺手」",
+      "jp": "「酒造業キラー」",
+      "ko": "주류업 킬러",
+      "en": "Wine Industry Slayer",
+      "de": "„Schrecken der Getränkewirtschaft“",
+      "es": "Asesina de la industria del vino",
+      "fr": "Mixologie",
+      "pt": "\"Assassina da indústria do vinho\"",
+      "ru": "Конец винной индустрии",
+      "id": "Wine Industry Slayer",
+      "th": "Wine Industry Slayer",
+      "vi": "[Sát Thủ Ngành Rượu]"
+    },
+    "description": {
+      "zhs": "在<color=#FFD780FF>最烈特调</color>的领域内，迪奥娜的瞄准射击的所需的蓄力时间减少60%。",
+      "zht": "在<color=#FFD780FF>最烈特調</color>的領域內，迪奧娜的瞄準射擊的所需的蓄力時間減少60%。",
+      "jp": "<color=#FFD780FF>特製スピリッツ</color>のエリアにいる時、ディオナの狙い撃ちのチャージ時間-60%。",
+      "ko": "<color=#FFD780FF>특제 칵테일</color> 영역 내에서 디오나의 조준 사격 차지 시간이 60% 감소한다",
+      "en": "Within the radius of <color=#FFD780FF>Signature Mix</color>, Diona's charge time for aimed shots is reduced by 60%",
+      "de": "Verringert die Aufladezeit für Dionas gezielte Schüsse im Feld von <color=#FFD780FF>Eisgekühlter Branntwein</color> um 60 %.",
+      "es": "Dentro del área de <color=#FFD780FF>Cóctel asesino</color>, el tiempo de carga de Disparo Preciso de Diona se reduce en un 60%.",
+      "fr": "Le temps de charge du tir visé de Diona est réduit de 60 % lorsqu'elle se trouve dans le champ de vapeur d'alcool de <color=#FFD780FF>Cuvée spéciale</color>.",
+      "pt": "Na AdE do <color=#FFD780FF>Coquetel Assassino</color>, o tempo do Disparo com Mira de Diona é reduzido em 60%.",
+      "ru": "Нахождение в области навыка <color=#FFD780FF>Авторский коктейль</color> уменьшает время зарядки выстрела Дионы на 60%.",
+      "id": "Dalam area <color=#FFD780FF>Signature Mix</color>, waktu bagi Diona untuk melakukan Serangan Membidik berkurang 60%.",
+      "th": "ภายในพื้นที่ของ <color=#FFD780FF>Signature Mix</color> การเล็งโจมตีของ Diona จะใช้เวลาชาร์จน้อยลง 60%",
+      "vi": "Khi ở trong khu vực <color=#FFD780FF>Đặc Chế Mãnh Liệt</color>, thời gian tụ lực cần khi ngắm bắn của Diona giảm 60%."
+    },
+    "imgid": "constellation_4"
+  },
+  {
+    "title": {
+      "zhs": "双份加冰",
+      "zht": "雙份加冰",
+      "jp": "エクストラアイス",
+      "ko": "투 샷, 더블 아이스",
+      "en": "Double Shot, On The Rocks",
+      "de": "Doppelt auf Eis",
+      "es": "¡Doble de hielo!",
+      "fr": "Un double avec glaçons",
+      "pt": "Dose dupla com gelo",
+      "ru": "Двойной шот со льдом",
+      "id": "Double Shot, On The Rocks",
+      "th": "Double Shot, On The Rocks",
+      "vi": "Hai Cốc Thêm Đá"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>猫爪冻冻</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>貓爪凍凍</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>フリーズキャッツクロー</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>꽁꽁젤리</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Icy Paws</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Eistatzen</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Zarpazo helado</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Griffes Cryo</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o nível da <color=#FFD780FF>Garra de Gato Gelada</color> em 3.\nO nível máximo de elevação é 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Морозные коготочки</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Icy Paws</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลของสกิล <color=#FFD780FF>Icy Paws</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Móng Mèo Lạnh Giá</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_5"
+  },
+  {
+    "title": {
+      "zhs": "猫尾打烊之时",
+      "zht": "貓尾打烊之時",
+      "jp": "キャッツテールが閉店の時",
+      "ko": "캣테일 마감시간",
+      "en": "Cat's Tail Closing Time",
+      "de": "Vorzeitiger Feierabend",
+      "es": "Hora de cerrar",
+      "fr": "Dernière tournée",
+      "pt": "Encerrando o Expediente na Cauda do Gato",
+      "ru": "Мы закрываемся!",
+      "id": "Cat's Tail Closing Time",
+      "th": "Cat's Tail Closing Time",
+      "vi": "Khi Quán Đuôi Mèo Đóng Cửa"
+    },
+    "description": {
+      "zhs": "处在<color=#FFD780FF>最烈特调</color>领域内的角色，依据生命值获得如下效果：\n·生命值低于或等于50%时，受治疗加成提升30%；\n·生命值高于50%时，元素精通提升200。",
+      "zht": "處在<color=#FFD780FF>最烈特調</color>領域內的角色，依據生命值獲得如下效果：\n·生命值低於或等於50%時，受治療加成提升30%；\n·生命值高於50%時，元素精通提升200。",
+      "jp": "<color=#FFD780FF>特製スピリッツ</color>のエリアにいるキャラクターは自身の現在HPによって下記の効果を獲得する。\n·HPが50%以下の時、受ける治療効果+30%。\n·HPが50%を超えている時、元素熟知+200。",
+      "ko": "<color=#FFD780FF>특제 칵테일</color> 영역 내의 캐릭터는 HP에 따라 아래의 효과를 갖는다:\n·HP 50% 이하 - 받는 치유 보너스+ 30%\n·HP 50% 초과 - 원소 마스터리+200pt",
+      "en": "Characters within <color=#FFD780FF>Signature Mix</color>'s radius will gain the following effects based on their HP amounts:\n·Increases Incoming Healing Bonus by 30% when HP falls below or is equal to 50%.\n·Elemental Mastery increased by 200 when HP is above 50%.",
+      "de": "Verleiht Figuren im Feld von <color=#FFD780FF>Eisgekühlter Branntwein</color> je nach ihren LP folgende Effekte:\n· Erhöht den passiven Heilungsbonus bei bis zu 50 % LP um 30 %.\n· Erhöht die Elementarkunde bei mehr als 50 % LP um 200 Punkte.",
+      "es": "Los personajes que estén dentro del área de <color=#FFD780FF>Cóctel asesino</color> obtienen uno de los siguientes efectos dependiendo de su Vida:\n·Si su Vida es igual o inferior al 50%, aumenta su Bono de Curación recibida en un 30%.\n·Si su vida es superior al 50%, aumenta la Maestría Elemental en 200 pts.",
+      "fr": "Les personnages se trouvant dans le champ d'alcool de <color=#FFD780FF>Cuvée spéciale</color> bénéficient des effets suivants selon les PV qu'il leur reste :\n· Bonus de 30 % de soins reçus si les PV sont inférieurs ou égaux à 50 %.\n· Maîtrise élémentaire augmentée de 200 si les PV sont supérieurs à 50 %.",
+      "pt": "Os personagens dentro da AdE do <color=#FFD780FF>Coquetel Assassino</color> de acordo com a Vida obtém o seguinte efeito:\nQuando a Vida é igual ou inferior a 50%, o Bônus de Cura Recebida aumenta 30%;\nQuando a Vida é superior a 50%, a Proficiência Elemental aumenta 200.",
+      "ru": "Персонажи, находящиеся в области навыка <color=#FFD780FF>Авторский коктейль</color>, получают следующие эффекты, зависящие от их HP:\n· При HP равном или ниже 50% увеличивает бонус получаемого лечения на 30%.\n· При HP выше 50% увеличивает мастерство стихий на 200 ед.",
+      "id": "Karakter dalam area <color=#FFD780FF>Signature Mix</color> akan mendapatkan efek berikut berdasarkan jumlah HP mereka:\n·Meningkatkan 30% Bonus Pemulihan HP saat HP sama dengan atau kurang dari 50%.\n·Elemental Mastery +200 ketika HP di atas 50%.",
+      "th": "ตัวละครที่อยู่ในพื้นที่ของ <color=#FFD780FF>Signature Mix</color> จะได้รับเอฟเฟกต์ต่อไปนี้ โดยขึ้นอยู่กับพลังชีวิตของพวกเขา:\n·เมื่อพลังชีวิตต่ำกว่า 50% จะได้รับปริมาณการรักษา เพิ่มขึ้น 30%;\n·เมื่อพลังชีวิตสูงกว่า 50% ความชำนาญธาตุจะเพิ่มขึ้น 200 หน่วย",
+      "vi": "Khi ở trong khu vực <color=#FFD780FF>Đặc Chế Mãnh Liệt</color> sẽ nhận được các hiệu quả dưới đây tùy theo HP nhân vật:\n·HP thấp hơn hoặc bằng 50%, tăng nhận trị liệu 30%; \n·Khi HP cao hơn 50%, Tinh Thông Nguyên Tố tăng 200."
+    },
+    "imgid": "constellation_6"
+  }
+]

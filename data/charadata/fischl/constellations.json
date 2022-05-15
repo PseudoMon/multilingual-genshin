@@ -1,0 +1,200 @@
+[
+  {
+    "title": {
+      "zhs": "幽邃鸦眼",
+      "zht": "幽邃鴉眼",
+      "jp": "幽邃な鴉の目",
+      "ko": "그윽한 까마귀 눈",
+      "en": "Gaze of the Deep",
+      "de": "Blick aus der Finsternis",
+      "es": "Ojo de cuervo penetrante",
+      "fr": "Œil du corbeau obscur",
+      "pt": "Olhar das Profundezas",
+      "ru": "Глаза ворона",
+      "id": "Gaze of the Deep",
+      "th": "Gaze of the Deep",
+      "vi": "Mắt Quạ Huyền Bí"
+    },
+    "description": {
+      "zhs": "奥兹不在战场上时，也会透过鸦眼守望菲谢尔。在菲谢尔对敌人进行普通攻击时，奥兹会通过鸦眼协同攻击，造成22%攻击力的伤害。",
+      "zht": "奧茲不在戰場上時，也會透過鴉眼守望菲謝爾。在菲謝爾對敵人進行普通攻擊時，奧茲會通過鴉眼協力攻擊，造成22%攻擊力的傷害。",
+      "jp": "オズが戦場にいない時も、鴉の目を通してフィッシュルを守る。フィッシュルが敵に通常攻撃する時、オズは鴉の目を通して攻撃し、攻撃力22%分のダメージを与える。",
+      "ko": "오즈가 필드에 존재하지 않을 때는 까마귀 눈으로 피슬을 지켜준다. 피슬이 적에게 일반 공격을 가할 시 오즈는 까마귀 눈을 통해 함께 공격해 공격력 22%의 피해를 준다",
+      "en": "Even when Oz is not present in combat, he can still watch over Fischl through his raven eyes. When Fischl performs a Normal Attack against an opponent, Oz fires a joint attack, dealing DMG equal to 22% of Fischl's ATK.",
+      "de": "Oz wacht mithilfe der Krähenaugen über Fischl, selbst wenn er nicht anwesend ist. Oz greift über seine Krähenaugen an, wenn Fischl Gegner mit ihrem Standardangriff angreift, und verursacht Schaden in Höhe von 22 % ANG.",
+      "es": "Cuando Oz no está en el campo de batalla, seguirá vigilando a Fischl a través de su ojo de cuervo. Cuando Fischl ataca a un enemigo con Ataque Normal, Oz atacará simultáneamente con su ojo e infligirá un 22% de daño.",
+      "fr": "Oz garde toujours un œil de corbeau sur Fischl, même quand il ne l'accompagne pas au combat : les attaques normales de Fischl infligent un bonus de DGT équivalant à 22 % de l'ATQ.",
+      "pt": "Mesmo que Oz não esteja presente no combate, ele ainda pode proteger Fischl através de seus Olhos de Corvo. Quando Fishl ataca um inimigo, Oz atacará simultaneamente, causando 22% de Dano de ATQ.",
+      "ru": "Будучи вне битвы, Оз продолжает присматривать за Фишль. Когда Фишль атакует врага, Оз проводит совместную с ней атаку, нанося 22% урона от силы атаки Фишль.",
+      "id": "Saat Oz tidak di dalam medan pertarungan, dia masih tetap bisa melindungi Fischl melalui mata burung gagak. Saat Fischl menyerang musuh dengan Normal Attack, Oz melancarkan serangan melalui mata burung gagak yang mengakibatkan DMG sebesar 22% ATK.",
+      "th": "ช่วงที่ Oz ไม่อยู่ในการต่อสู้นั้น จะยังคงคอยเฝ้ามอง Fischl ผ่านทางดวงตาของอีกา โดยเมื่อ Fischl ทำการโจมตีปกติใส่ศัตรูแล้ว Oz จะช่วยเสริมการโจมตี ผ่านทางดวงตาอีกา สร้างความเสียหายเป็น 22% ของพลังโจมตี",
+      "vi": "Oz vẫn luôn theo dõi bảo vệ cho Fischl mặc dù không ở trên chiến trường. Khi Fischl tấn công thường với kẻ địch, Oz sẽ hỗ trợ tấn công qua mắt quạ và tạo ra sát thương bằng 22% tấn công."
+    },
+    "imgid": "constellation_1"
+  },
+  {
+    "title": {
+      "zhs": "圣裁影羽",
+      "zht": "聖裁影羽",
+      "jp": "聖裁の羽根",
+      "ko": "신성한 판결의 그림자 깃털",
+      "en": "Devourer of All Sins",
+      "de": "Federn der Vollstreckung",
+      "es": "Devorador de pecados",
+      "fr": "Plume de jugement",
+      "pt": "Devorador de Todos os Pecados",
+      "ru": "Перо осуждения",
+      "id": "Devourer of All Sins",
+      "th": "Devourer of All-Sins",
+      "vi": "Đôi Cánh Phán Quyết"
+    },
+    "description": {
+      "zhs": "施放<color=#FFD780FF>夜巡影翼</color>时，能额外造成200%攻击力的伤害，并使影响范围扩大50%。",
+      "zht": "施放<color=#FFD780FF>夜巡影翼</color>時，能額外造成200%攻擊力的傷害，並使影響範圍擴大50%。",
+      "jp": "<color=#FFD780FF>夜巡りの翼</color>発動時、攻撃力200%分の追加ダメージを与える、さらに影響範囲+50%。",
+      "ko": "<color=#FFD780FF>밤을 순찰하는 그림자 날개</color> 발동 시 추가적으로 공격력 200%의 피해를 주고 영향 범위가 50% 확대된다",
+      "en": "When <color=#FFD780FF>Nightrider</color> is used, it deals an additional 200% ATK as DMG, and its AoE is increased by 50%.",
+      "de": "Verursacht bei Anwendung von <color=#FFD780FF>Schutz der Dunkelheit</color> zusätzlich Schaden in Höhe von 200 % ANG und vergrößert den Wirkungsbereich um 50 %.",
+      "es": "<color=#FFD780FF>Vigía de la noche</color> inflige un 200% de daño adicional, y su AdE aumenta en un 50%.",
+      "fr": "<color=#FFD780FF>Ailes de surveillance nocturne</color> inflige un bonus de DGT équivalant à 200 % de l'ATQ ; la zone d'effet augmente de 50 %.",
+      "pt": "Quando as <color=#FFD780FF>Asas da Vigilância Noturna</color> são usadas, causa um adicional de 200% de ATQ como Dano e a sua AdE é aumentada em 50%.",
+      "ru": "Активация навыка <color=#FFD780FF>Тень расправленных крыльев</color> наносит 200% урона, а его зона поражения увеличивается на 50%.",
+      "id": "Menggunakan <color=#FFD780FF>Nightrider</color> akan mengakibatkan serangan tambahan sebesar 200% ATK, dan meningkatkan 50% area serangan.",
+      "th": "เมื่อใช้ <color=#FFD780FF>Nightrider</color> จะสามารถสร้างความเสียหาย เพิ่มเติมอีก 200% ของพลังโจมตีและเพิ่มพื้นที่ ที่ได้รับผลขึ้น 50%",
+      "vi": "Khi thi triển <color=#FFD780FF>Cánh Chim Đêm</color>, có thể gây thêm sát thương bằng 200% tấn công, phạm vi ảnh hưởng tăng 50%."
+    },
+    "imgid": "constellation_2"
+  },
+  {
+    "title": {
+      "zhs": "渊色黑翼",
+      "zht": "淵色黑翼",
+      "jp": "黒き翼",
+      "ko": "심연색의 검은 날개",
+      "en": "Wings of Nightmare",
+      "de": "Tiefschwarze Flügel",
+      "es": "Alas sombrías",
+      "fr": "Ailes noires de l'Abîme",
+      "pt": "Asas do Pesadelo",
+      "ru": "Крылья цвета бездны",
+      "id": "Wings of Nightmare",
+      "th": "Wings of Nightmare",
+      "vi": "Đôi Cánh Đen Huyền"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>夜巡影翼</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>夜巡影翼</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>夜巡りの翼</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>밤을 순찰하는 그림자 날개</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Nightrider</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Schutz der Dunkelheit</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Vigía de la noche</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Ailes de surveillance nocturne</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o nível das <color=#FFD780FF>Asas da Vigilância Noturna</color> em 3.\nO nível máximo de elevação é 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Тень расправленных крыльев</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Nightrider</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Nightrider</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Cánh Chim Đêm</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_3"
+  },
+  {
+    "title": {
+      "zhs": "皇女幻绮谭",
+      "zht": "皇女幻綺譚",
+      "jp": "皇女綺譚集",
+      "ko": "황녀의 환상 이야기",
+      "en": "Her Pilgrimage of Bleak",
+      "de": "Fantastereien der Prinzessin",
+      "es": "Fantasía de la princesa",
+      "fr": "Les fantasmes de la princesse",
+      "pt": "Fantasia da Rainha",
+      "ru": "Принцесса иллюзий",
+      "id": "Her Pilgrimage of Bleak",
+      "th": "Her Pilgrimage of Bleak",
+      "vi": "Truyền Thuyết Công Chúa Huyền Bí"
+    },
+    "description": {
+      "zhs": "施放<color=#FFD780FF>至夜幻现</color>时，会对周围的敌人造成222%攻击力的<color=#FFACFFFF>雷元素伤害</color>；\n技能效果结束时，会为菲谢尔恢复20%生命值。",
+      "zht": "施放<color=#FFD780FF>至夜幻現</color>時，會對周圍的敵人造成222%攻擊力的<color=#FFACFFFF>雷元素傷害</color>；\n技能效果結束時，會為菲謝爾恢復20%生命值。",
+      "jp": "<color=#FFD780FF>夜の幻現</color>発動時、周囲の敵に攻撃力222%分の<color=#FFACFFFF>雷元素ダメージ</color>を与える。\nスキル終了時、フィッシュルのHPを20%回復する。",
+      "ko": "<color=#FFD780FF>암야의 환상</color> 발동 시 주변의 적에게 공격력 222%의 <color=#FFACFFFF>번개 원소 피해</color>를 준다.\n스킬 효과가 사라지면 피슬의 HP를 20% 회복한다",
+      "en": "When <color=#FFD780FF>Midnight Phantasmagoria</color> is used, it deals 222% of ATK as <color=#FFACFFFF>Electro DMG</color> to surrounding opponents.\nWhen the skill duration ends, Fischl regenerates 20% of her HP.",
+      "de": "Fügt allen Gegnern in der Umgebung bei Anwendung von <color=#FFD780FF>Mitternachtstraum</color> <color=#FFACFFFF>Elektro-Schaden</color> in Höhe von 222 % ANG zu.\nStellt Fischl nach Ablauf der Dauer des Effekts 20 % LP wieder her.",
+      "es": "Al lanzar <color=#FFD780FF>Ilusión nocturna</color>, inflige un 222% de daño de ATQ como <color=#FFACFFFF>Daño Electro</color> a los enemigos cercanos.\nCuando termina la duración de la habilidad, Fischl recupera el 20% de su Vida.",
+      "fr": "<color=#FFD780FF>Incarnation de la nuit</color> inflige un bonus de <color=#FFACFFFF>DGT Électro</color> équivalant à 222 % de l'ATQ aux ennemis proches.\nFischl récupère 20 % de PV à la fin de la compétence.",
+      "pt": "Quando <color=#FFD780FF>Ilusão Noturna</color> é usada, causa 222% de ATQ como <color=#FFACFFFF>Dano Electro</color> nos inimigos próximos.\nQuando a habilidade termina, Fischl regenera 20% de sua Vida.",
+      "ru": "При активации навыка <color=#FFD780FF>Ночная иллюзия</color> наносит 222% атаки в виде <color=#FFACFFFF>Электро урона</color> окружающим врагам.\nПо окончании навыка Фишль восстанавливает 20% HP.",
+      "id": "Saat menggunakan <color=#FFD780FF>Midnight Phantasmagoria</color>, mengakibatkan <color=#FFACFFFF>Electro DMG</color> ke musuh di sekitar sebesar 222% ATK ke musuh di sekitar.\nSaat skill berakhir, memulihkan 20% HP Fischl.",
+      "th": "เมื่อใช้ <color=#FFD780FF>Midnight Phantasmagoria</color> จะสร้าง<color=#FFACFFFF>ความเสียหายไฟฟ้า</color>แก่ศัตรูโดยรอบเป็น 222% ของพลังโจมตี;\nFischl จะได้รับการฟื้นฟู พลังชีวิต 20% เมื่อเอฟเฟกต์ของสกิลจบลง",
+      "vi": "Khi thi triển <color=#FFD780FF>Ảo Ảnh Bóng Đêm</color> sẽ tạo ra 222% <color=#FFACFFFF>sát thương Nguyên Tố Lôi</color> cho kẻ địch xung quanh;\nKhi hiệu quả kỹ năng kết thúc, sẽ hồi phục 20% HP cho Fischl."
+    },
+    "imgid": "constellation_4"
+  },
+  {
+    "title": {
+      "zhs": "至夜默示录",
+      "zht": "至夜默示錄",
+      "jp": "夜の黙示録",
+      "ko": "암야 묵시록",
+      "en": "Against the Fleeing Light",
+      "de": "Offenbarung der Nacht",
+      "es": "Noche silenciosa",
+      "fr": "Apocalypse de la nuit",
+      "pt": "Noite Silenciosa",
+      "ru": "Полуночный апокалипсис",
+      "id": "Against the Fleeing Light",
+      "th": "Against the Fleeing Light",
+      "vi": "Ghi Chú Khải Huyền"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>至夜幻现</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>至夜幻現</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>夜の幻現</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>암야의 환상</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Midnight Phantasmagoria</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Mitternachtstraum</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Ilusión nocturna</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Incarnation de la nuit</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o nível da <color=#FFD780FF>Ilusão Noturna</color> em 3.\nO nível máximo de elevação é 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Ночная иллюзия</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Midnight Phantasmagoria</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Midnight Phantasmagoria</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Ảo Ảnh Bóng Đêm</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_5"
+  },
+  {
+    "title": {
+      "zhs": "永夜之禽",
+      "zht": "永夜之禽",
+      "jp": "永夜の禽",
+      "ko": "영야의 금수",
+      "en": "Evernight Raven",
+      "de": "Vogel der ewigen Nacht",
+      "es": "Ave de la Noche Eterna",
+      "fr": "Oiseau de la nuit éternelle",
+      "pt": "Corvo da Noite Eterna",
+      "ru": "Птица вечной ночи",
+      "id": "Evernight Raven",
+      "th": "Evernight Raven",
+      "vi": "Quạ Bóng Đêm"
+    },
+    "description": {
+      "zhs": "奥兹的存在时间延长2秒。此外，奥兹会协同当前场上自己的角色一起攻击，造成菲谢尔30%攻击力的<color=#FFACFFFF>雷元素伤害</color>。",
+      "zht": "奧茲的存在時間延長2秒。此外，奧茲會隨當前場上自己的角色一起攻擊，造成菲謝爾30%攻擊力的<color=#FFACFFFF>雷元素</color>傷害。",
+      "jp": "オズの存在時間+2秒。オズは出場している自身のキャラクターと共に攻撃し、攻撃力30%分の<color=#FFACFFFF>雷元素ダメージ</color>を与える。",
+      "ko": "오즈의 존재 시간을 2초 연장한다. 또한 오즈가 현재 필드 위에 있는 자신의 캐릭터와 함께 공격하여 피슬 공격력 30%의 <color=#FFACFFFF>번개 원소 피해</color>를 준다",
+      "en": "Extends the duration of Oz's presence on the field by 2s. Additionally, Oz performs joint attacks with your active character when present, dealing 30% of Fischl's ATK as <color=#FFACFFFF>Electro DMG</color>.",
+      "de": "Verlängert die Dauer des Vorhandenseins von Oz um 2 s, greift gemeinsam mit der aktuellen eigenen Figur an und verursacht <color=#FFACFFFF>Elektro-Schaden</color> in Höhe von 30 % von Fischls ANG.",
+      "es": "Aumenta la duración de la invocación de Oz en 2 s. Mientras Oz esté presente, atacará junto a tu personaje en uso, e infligirá un 30% del ATQ de Fischl como <color=#FFACFFFF>Daño Electro</color>.",
+      "fr": "Prolonge la durée d'Oz de 2 s. De plus, Oz attaque aux côtés de votre personnage déployé, infligeant des <color=#FFACFFFF>DGT Électro</color> équivalant à 30 % de l'ATQ de Fischl.",
+      "pt": "Aumenta a duração da evocação de Oz por 2 segundos. Adicionalmente, Oz ataca juntamente com o seu próprio personagem quando presente, causando 30% do ATQ de Fischl como <color=#FFACFFFF>Dano Electro</color>.",
+      "ru": "Увеличивает длительность пребывания Оза на поле боя на 2 сек. Оз атакует вместе с вашим активным персонажем, нанося <color=#FFACFFFF>Электро урон</color>, равный 30% от силы атаки Фишль.",
+      "id": "Meningkatkan durasi pemanggilan Oz selama 2 detik, selama durasi, Oz menyerang bersama dengan karakter yang sedang bertarung, mengakibatkan 30% ATK Fischl sebagai <color=#FFACFFFF>Electro DMG</color>.",
+      "th": "เพิ่มระยะเวลาการคงอยู่ของ Oz ขึ้น 2 วินาที โดย Oz จะทำการโจมตีร่วมกันกับ ตัวละครของตนเองที่ต่อสู้อยู่ในขณะนั้นและสร้าง <color=#FFACFFFF>ความเสียหายไฟฟ้า</color> 30% ของพลังโจมตีของ Fischl",
+      "vi": "Thời gian Oz tồn tại kéo dài thêm 2s. Ngoài ra,Oz kết hợp với nhân vật của bản thân trong trận hiện tại cùng tấn công, gây <color=#FFACFFFF>sát thương Nguyên Tố Lôi</color> bằng 30% tấn công của Fischl."
+    },
+    "imgid": "constellation_6"
+  }
+]

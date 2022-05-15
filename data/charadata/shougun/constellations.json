@@ -1,0 +1,200 @@
+[
+  {
+    "title": {
+      "zhs": "恶曜卜词",
+      "zht": "惡曜卜詞",
+      "jp": "悪曜の呪詛",
+      "ko": "악요 명문(銘文)",
+      "en": "Ominous Inscription",
+      "de": "Unheilvolles Omen",
+      "es": "Inscripción ominosa",
+      "fr": "Inscription menaçante",
+      "pt": "Inscrição Ameaçadora",
+      "ru": "Зловещая надпись",
+      "id": "Ominous Inscription",
+      "th": "Ominous Inscription",
+      "vi": "Lời Tiên Tri Đen Tối"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>诸愿百眼之轮</color>能更加迅速地积攒愿力。元素类型为<color=#FFACFFFF>雷元素</color>的角色施放元素爆发后，积攒的愿力提升80%；其他元素类型的角色施放元素爆发后，积攒的愿力提升20%",
+      "zht": "<color=#FFD780FF>諸願百眼之輪</color>能更加迅速地累積願力。元素類型為<color=#FFACFFFF>雷元素</color>的角色施放元素爆發後，累積的願力提升80%；其他元素類型的角色施放元素爆發後，累積的願力提升20%",
+      "jp": "<color=#FFD780FF>諸願百目の輪</color>の願力をより早く蓄積できるようになる。<color=#FFACFFFF>雷元素</color>タイプのキャラクターによる元素爆発が蓄積する願力+80%。他の元素タイプのキャラクターによる元素爆発が蓄積する願力+20%。",
+      "ko": "<color=#FFD780FF>염원이 깃든 백안지륜</color>이 더욱 빠르게 원력을 축적한다. 원소 타입이 <color=#FFACFFFF>번개 원소</color>인 캐릭터가 원소폭발을 발동하면, 축적한 원력이 80% 증가하고, 기타 원소 타입의 캐릭터가 원소폭발을 발동하면 축적한 원력이 20% 증가한다",
+      "en": "<color=#FFD780FF>Chakra Desiderata</color> will gather Resolve even faster. When <color=#FFACFFFF>Electro</color> characters use their Elemental Bursts, the Resolve gained is increased by 80%. When characters of other Elemental Types use their Elemental Bursts, the Resolve gained is increased by 20%.",
+      "de": "<color=#FFD780FF>Charkra-Desiderate</color> kann Entschlusskraft noch schneller sammeln. Wenn <color=#FFACFFFF>Elektro</color>-Figuren ihre Spezialfähigkeiten verwenden, wird die gewonnene Entschlusskraft um 80 % erhöht. Wenn Figuren anderer Elementartypen ihre Spezialfähigkeiten verwenden, wird die gewonnene Entschlossenheit um 20 % erhöht.",
+      "es": "<color=#FFD780FF>Rueda de la ambición</color> acumula cargas de ambición más rápidamente. Las cargas acumuladas con la Habilidad Definitiva de los personajes de tipo elemental <color=#FFACFFFF>Electro</color> aumentan en un 80%, y las de los personajes del resto de los tipos elementales aumentan en un 20%.",
+      "fr": "<color=#FFD780FF>Chakra Desiderata</color> accumule de la résolution encore plus rapidement. Quand un personnage <color=#FFACFFFF>Électro</color> utilise un déchaînement élémentaire, le gain de résolution augmente de 80 % ; quand un personnage d'un autre type élémentaire utilise un déchaînement élémentaire, le gain de résolution augmente de 20 %.",
+      "pt": "<color=#FFD780FF>Shogan Byakugen no Rin</color> acumulará Determinação ainda mais rápido. Quando personagens <color=#FFACFFFF>Electro</color> usarem seus Supremos, o ganho de Determinação é aumentado em 80%. Quando personagens de outros Tipos Elementais usam seus Supremos, o ganho de Determinação é aumentado em 20%.",
+      "ru": "<color=#FFD780FF>Чакра вожделения</color> набирает Решимость ещё быстрее. Когда <color=#FFACFFFF>Электро</color> персонажи используют свой взрыв стихии, получаемая Решимость увеличивается на 80%. Когда персонажи других элементальных типов используют свой взрыв стихии, получаемая Решимость увеличивается на 20%.",
+      "id": "<color=#FFD780FF>Chakra Desiderata</color> dapat mengumpulkan Resolve dengan lebih cepat. Setelah Karakter dengan elemen <color=#FFACFFFF>Electro</color> melancarkan Elemental Burst, jumlah Resolve yang didapatkan akan meningkat 80%. Setelah Karakter dengan elemen lain melancarkan Elemental Burst, jumlah Resolve yang didapatkan akan meningkat 20%.",
+      "th": "<color=#FFD780FF>Chakra Desiderata</color> จะสามารถรวบรวม Resolve ได้เร็วยิ่งขึ้น โดยหลังจากตัวละครที่มีประเภทธาตุเป็น<color=#FFACFFFF>ธาตุไฟฟ้า</color>ใช้ท่าไม้ตาย จำนวน Resolve ที่ได้รับจะเพิ่มขึ้น 80% และหลังจากตัวละครที่มีประเภทธาตุเป็นธาตุอื่นใช้ท่าไม้ตาย จำนวน Resolve ที่ได้รับจะเพิ่มขึ้น 20%",
+      "vi": "<color=#FFD780FF>Ước Nguyện Chakra</color> có thể tích tụ Ý Lực nhanh hơn. Nhân vật <color=#FFACFFFF>Nguyên Tố Lôi</color> sau khi thi triển Kỹ Năng Nộ sẽ tăng 80% tích lũy Ý Lực; nhân vật nguyên tố khác sau khi thi triển Kỹ Năng Nộ sẽ tăng 20% tích lũy Ý Lực."
+    },
+    "imgid": "constellation_1"
+  },
+  {
+    "title": {
+      "zhs": "斩铁断金",
+      "zht": "斬鐵斷金",
+      "jp": "斬鉄断金",
+      "ko": "강철 절단",
+      "en": "Steelbreaker",
+      "de": "Stahlbrecher",
+      "es": "Asoladora del acero",
+      "fr": "Brise-acier",
+      "pt": "Quebra-Aço",
+      "ru": "Разрушитель стали",
+      "id": "Steelbreaker",
+      "th": "Steelbreaker",
+      "vi": "Càn Quét Thiên Hạ"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>奥义·梦想真说</color>的梦想一刀与梦想一心状态下的雷电将军的攻击将无视敌人60%的防御力。",
+      "zht": "<color=#FFD780FF>奧義·夢想真說</color>的夢想一刀與夢想一心狀態下的雷電將軍的攻擊將無視敵人60%的防禦力。",
+      "jp": "<color=#FFD780FF>奥義·夢想真説</color>の夢想の一太刀と夢想の一心状態下の雷電将軍による攻撃は敵の防御力60%を無視する。",
+      "ko": "<color=#FFD780FF>오의·몽상진설</color>의 몽상의 일태도와 몽상의 일심 상태에서 라이덴 쇼군의 공격은 적의 방어력 60%를 무시한다",
+      "en": "While using Musou no Hitotachi and in the Musou Isshin state applied by <color=#FFD780FF>Secret Art: Musou Shinsetsu</color>, the Raiden Shogun's attacks ignore 60% of opponents' DEF.",
+      "de": "Wenn Shougun Raiden Musou no Hitotachi einsetzt und durch <color=#FFD780FF>Geheime Kunst – Musou Shinsetsu</color> in den Zustand Musou Isshin versetzt wird, ignorieren die Angriffe von Shougun Raiden 60 % der VTD von Gegnern.",
+      "es": "Tanto el corte onírico de <color=#FFD780FF>Técnica secreta: Verdad onírica</color> como los ataques realizados por la Shogun Raiden bajo el estado de mente onírica ignoran el 60% de la DEF de los enemigos.",
+      "fr": "Lorsqu'elles bénéficient de l'état d'Harmonie d'idéal accordé par <color=#FFD780FF>Art secret : Dogme d'idéal</color>, les attaques de la Shogun Raiden ignorent 60 % de la DÉF des ennemis.",
+      "pt": "Sob o efeito de Musou no Hitotachi e no estado Musou Isshin, os ataques da Shogun Raiden, aplicados pela <color=#FFD780FF>Arte Secreta: Musou Shinsetsu</color>, ignoram 60% da DEF dos oponentes.",
+      "ru": "Атаки сёгуна Райдэн в состоянии Мусо иссин навыка <color=#FFD780FF>Тайное искусство: Мусо синсэцу</color> и Мусо но хитотати игнорируют 60% от защиты противника.",
+      "id": "Saat menggunakan Musou no Hitotachi dan berada dalam status Musou Isshin yang diperoleh dari skill <color=#FFD780FF>Secret Art: Musou Shinsetsu</color>, serangan Raiden Shogun akan mengabaikan 60% DEF musuh.",
+      "th": "การโจมตีของโชกุน Raiden ที่อยู่ภายใต้สภาวะ Musou no Hitotachi และ Musou Isshin ของ <color=#FFD780FF>Secret Art: Musou Shinsetsu</color> จะไม่สนใจพลังป้องกัน 60% ของศัตรู",
+      "vi": "Khi trong trạng thái Mộng Tưởng Nhất Đao và Mộng Tưởng Nhất Tâm của <color=#FFD780FF>Bí Kỹ - Mộng Tưởng Chân Thuyết</color>, tấn công của Raiden Shogun sẽ bỏ qua 60% phòng ngự của địch."
+    },
+    "imgid": "constellation_2"
+  },
+  {
+    "title": {
+      "zhs": "真影旧事",
+      "zht": "真影舊事",
+      "jp": "眞影旧事",
+      "ko": "진영의 과거",
+      "en": "Shinkage Bygones",
+      "de": "Shinkage-Geschichten",
+      "es": "Reflejo del pasado",
+      "fr": "Shinkage du passé",
+      "pt": "Passado do Shinkage",
+      "ru": "Синкагэ минувших дней",
+      "id": "Shinkage Bygones",
+      "th": "Shinkage Bygones",
+      "vi": "Chuyện Xưa Kể Lại"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>奥义·梦想真说</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>奧義·夢想真說</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>奥義·夢想真説</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>오의·몽상진설</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Secret Art: Musou Shinsetsu</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Geheime Kunst – Musou Shinsetsu</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Técnica secreta: Verdad onírica</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Art secret : Dogme d'idéal</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o Nível de <color=#FFD780FF>Arte Secreta: Musou Shinsetsu</color> em 3.\nO nível máximo de elevação é 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Тайное искусство: Мусо синсэцу</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Secret Art: Musou Shinsetsu</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Secret Art: Musou Shinsetsu</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Bí Kỹ - Mộng Tưởng Chân Thuyết</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_3"
+  },
+  {
+    "title": {
+      "zhs": "誓奉常道",
+      "zht": "誓奉常道",
+      "jp": "常道への誓い",
+      "ko": "진리의 맹세",
+      "en": "Pledge of Propriety",
+      "de": "Gelöbnis des Anstands",
+      "es": "Ofrenda de la eternidad",
+      "fr": "Serment de droiture",
+      "pt": "Juramento de Decoro",
+      "ru": "Клятва истинности",
+      "id": "Pledge of Propriety",
+      "th": "Pledge of Propriety",
+      "vi": "Thờ Phụng Lẽ Phải"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>奥义·梦想真说</color>施加的<color=#FFD780FF>梦想一心</color>状态结束后，附近的队伍中所有角色（不包括雷电将军自己）的攻击力提升30%，持续10秒。",
+      "zht": "<color=#FFD780FF>奧義·夢想真說</color>施加的<color=#FFD780FF>夢想一心</color>狀態結束後，附近的隊伍中所有角色（不包括雷電將軍自己）的攻擊力提升30%，持續10秒。",
+      "jp": "<color=#FFD780FF>奥義·夢想真説</color>による<color=#FFD780FF>夢想の一心</color>状態終了後、周囲のチーム全員（雷電将軍自身を除く）の攻撃力+30%、持続時間10秒。",
+      "ko": "<color=#FFD780FF>오의·몽상진설</color>이 부여하는 <color=#FFD780FF>몽상의 일심</color> 상태가 끝난 후, 파티 내 모든 캐릭터(라이덴 쇼군 자신을 포함하지 않음)의 공격력이 30% 증가한다. 지속 시간: 10초",
+      "en": "When the <color=#FFD780FF>Musou Isshin</color> state applied by <color=#FFD780FF>Secret Art: Musou Shinsetsu</color> expires, all nearby party members (excluding the Raiden Shogun) gain 30% bonus ATK for 10s.",
+      "de": "Erhöht nach dem Ende des Zustands <color=#FFD780FF>Musou Isshin</color> von <color=#FFD780FF>Geheime Kunst – Musou Shinsetsu</color> den ANG aller Truppenmitglieder in der Nähe außer Shougun Raiden selbst 10 s lang um 30 %.",
+      "es": "Al terminar la duración de <color=#FFD780FF>mente onírica</color> activada mediante <color=#FFD780FF>Técnica secreta: Verdad onírica</color>, el ATQ de todos los miembros del equipo cercanos (a excepción de la Shogun Raiden) aumenta en un 30% durante 10 s.",
+      "fr": "Lorsque l'état d'<color=#FFD780FF>Harmonie d'idéal</color> accordé par <color=#FFD780FF>Art secret : Dogme d'idéal</color> prend fin, l'ATQ de tous les membres de l'équipe à proximité (hormis la Shogun Raiden) augmente de 30 % pendant 10 s.",
+      "pt": "Quando o estado de <color=#FFD780FF>Musou Isshin</color> aplicado pela <color=#FFD780FF>Arte Secreta: Musou Shinsetsu</color> expira, todos os membros da equipe próximos (exceto a Shogun Raiden) ganham 30% de Bônus de ATQ por 10s.",
+      "ru": "Когда состояние <color=#FFD780FF>Мусо иссин</color> навыка <color=#FFD780FF>Тайное искусство: Мусо синсэцу</color> заканчивается, все окружающие члены отряда (кроме сёгуна Райдэн) получают 30% бонус силы атаки на 10 сек.",
+      "id": "Setelah status <color=#FFD780FF>Musou Isshin</color> yang diperoleh dari <color=#FFD780FF>Secret Art: Musou Shinsetsu</color> berakhir, seluruh anggota party di sekitar (kecuali Raiden Shogun sendiri) mendapatkan 30% bonus ATK selama 10 detik.",
+      "th": "หลังจากที่สถานะ <color=#FFD780FF>Musou Isshin</color> ที่ปล่อยโดย <color=#FFD780FF>Secret Art: Musou Shinsetsu</color> สิ้นสุดลง พลังโจมตีของตัวละครทั้งหมดในทีมที่อยู่ในบริเวณใกล้เคียง (ไม่รวมตัวของโชกุน Raiden เอง) จะเพิ่มขึ้น 30% เป็นเวลา 10 วินาที",
+      "vi": "<color=#FFD780FF>Mộng Tưởng Nhất Tâm</color> của <color=#FFD780FF>Bí Kỹ - Mộng Tưởng Chân Thuyết</color> sau khi kết thúc, tất cả nhân vật trong đội gần đó (Không bao gồm Raiden Shogun) sẽ tăng 30% tấn công, duy trì 10s."
+    },
+    "imgid": "constellation_4"
+  },
+  {
+    "title": {
+      "zhs": "凶将显形",
+      "zht": "凶將顯形",
+      "jp": "凶将の顕現",
+      "ko": "쇼군의 현형",
+      "en": "Shogun's Descent",
+      "de": "Erscheinen des Unheils",
+      "es": "Descenso de la Shogun",
+      "fr": "Apparition de la Shogun",
+      "pt": "Descendência Shogun",
+      "ru": "Нисхождение сёгуна",
+      "id": "Shogun's Descent",
+      "th": "Shogun's Descent",
+      "vi": "Shogun Giáng Lâm"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>神变·恶曜开眼</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>神變·惡曜開眼</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>神変·悪曜開眼</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>초월·악요개안</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Transcendence: Baleful Omen</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Wunder – Unheilvoller Blick</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Trascendencia: Presagio maligno</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Transcendance : Présage funeste</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o Nível de <color=#FFD780FF>Milagre: Luz Maligna</color> em 3.\nO nível máximo de elevação é 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Превосходство: Зловещее знамение</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Transcendence: Baleful Omen</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Transcendence: Baleful Omen</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Thần Biến - Ánh Chớp Tà Ác</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_5"
+  },
+  {
+    "title": {
+      "zhs": "负愿前行",
+      "zht": "負願前行",
+      "jp": "願いの代行者",
+      "ko": "염원의 대행인",
+      "en": "Wishbearer",
+      "de": "Wunschträgerin",
+      "es": "Portadora de deseos",
+      "fr": "Porteur de souhaits",
+      "pt": "Portadora de Desejos",
+      "ru": "Хранитель желаний",
+      "id": "Wishbearer",
+      "th": "Wishbearer",
+      "vi": "Kế Thừa Ước Nguyện"
+    },
+    "description": {
+      "zhs": "处于<color=#FFD780FF>奥义·梦想真说</color>施加的<color=#FFD780FF>梦想一心</color>状态下时，雷电将军的元素爆发伤害命中敌人时，使附近的队伍中所有角色（不包括雷电将军自己）元素爆发的冷却时间缩短1秒。\n该效果每1秒至多触发一次，在持续期间内至多触发5次。",
+      "zht": "處於<color=#FFD780FF>奧義·夢想真說</color>施加的<color=#FFD780FF>夢想一心</color>狀態下時，雷電將軍的元素爆發傷害命中敵人時，使附近的隊伍中所有角色（不包括雷電將軍自己）元素爆發的冷卻時間縮短1秒。\n該效果每1秒至多觸發一次，在持續期間內至多觸發5次。",
+      "jp": "<color=#FFD780FF>奥義·夢想真説</color>による<color=#FFD780FF>夢想の一心</color>状態の時、雷電将軍の元素爆発ダメージが敵に命中すると、周囲のチーム全員（雷電将軍自身を除く）の元素爆発のクールタイム-1秒。\nこの効果は1秒毎に1回のみ発動可能で、継続時間内に最大5回まで発動できる。",
+      "ko": "<color=#FFD780FF>오의·몽상진설</color>이 부여하는 <color=#FFD780FF>몽상의 일심</color> 상태에서 라이덴 쇼군의 원소폭발이 적을 명중하면, 라이덴 쇼군을 제외한 근처 파티 내 모든 캐릭터의 원소폭발 재사용 대기시간이 1초 감소한다.\n해당 효과는 1초마다 1회 발동하며, 지속 시간 동안 최대 5번 발동한다",
+      "en": "While in the <color=#FFD780FF>Musou Isshin</color> state applied by <color=#FFD780FF>Secret Art: Musou Shinsetsu</color>, attacks by the Raiden Shogun that are considered part of her Elemental Burst will decrease all nearby party members' (not including the Raiden Shogun herself) Elemental Burst CD by 1s when they hit opponents.\nThis effect can trigger once every 1s and can trigger a total of 5 times during Musou Isshin's duration.",
+      "de": "Verringert im Zustand <color=#FFD780FF>Musou Isshin</color> von <color=#FFD780FF>Geheime Kunst – Musou Shinsetsu</color> die Abklingzeit der Spezialfähigkeiten aller Truppenmitglieder in der Nähe (außer Shougun Raiden selbst) um 1 s, wenn die Angriffe mit Spezialfähigkeitsschaden von Shougun Raiden Gegner treffen.\n1 s Abklingzeit, 5-mal während der Wirkungsdauer des Zustands auslösbar.",
+      "es": "Cuando la Shogun Raiden está bajo los efectos de <color=#FFD780FF>mente onírica</color> activados mediante <color=#FFD780FF>Técnica secreta: Verdad onírica</color>, los ataques que realice ella y que se consideren daño de Habilidad Definitiva reducen en 1 s el TdE de la Habilidad Definitiva de todos los miembros del equipo cercanos (a excepción de la Shogun Raiden).\nEste efecto solo puede ocurrir una vez cada 1 s y activarse un máximo de 5 veces mientras dure este estado.",
+      "fr": "Lorsqu'elles bénéficient de l'état d'<color=#FFD780FF>Harmonie d'idéal</color> accordé par <color=#FFD780FF>Art secret : Dogme d'idéal</color>, les attaques de la Shogun Raiden qui sont considérées comme faisant partie de son déchaînement élémentaire diminuent le TdR des déchaînements élémentaires de tous les membres de l'équipe à proximité (hormis la Shogun Raiden) de 1 s.\nCet effet peut être déclenché une fois toutes les secondes, et un maximum de 5 fois pendant la durée de cet état.",
+      "pt": "Durante o estado de <color=#FFD780FF>Musou Isshin</color> aplicado pela <color=#FFD780FF>Arte Secreta: Musou Shinsetsu</color>, quando o Supremo da Shogun Raiden atinge um inimigo irá reduzir o Tempo de Recarga do Supremo de todos os membros de equipe próximos em 1s (exceto o da própria Shogun Raiden).\nEste efeito pode ser desencadeado uma vez a cada 1s, e pode ser desencadeado em um total de 5 vezes durante a duração deste estado.",
+      "ru": "В состоянии <color=#FFD780FF>Мусо иссин</color> навыка <color=#FFD780FF>Тайное искусство: Мусо синсэцу</color> атаки сёгуна Райдэн, урон которых считается уроном взрыва стихии, при попадании уменьшают время отката взрывов стихии всех окружающих членов отряда (кроме самого сёгуна Райдэн) уменьшается на 1 сек.\nЭтот эффект может активироваться только раз в 1 сек. до 5 раз за время действия состояния Мусо иссин.",
+      "id": "Saat berada dalam status <color=#FFD780FF>Musou Isshin</color> yang diperoleh dari <color=#FFD780FF>Secret Art: Musou Shinsetsu</color>, DMG Elemental Burst Raiden Shogun yang mengenai musuh akan mengurangi 1 detik CD Elemental Burst seluruh anggota party di sekitar (kecuali Raiden Shogun sendiri).\nEfek ini dapat terpicu setiap 1 detik, dan dapat terpicu maksimum 5 kali selama durasi status.",
+      "th": "เมื่ออยู่ภายใต้สถานะ <color=#FFD780FF>Musou Isshin</color> ที่ปล่อยโดย <color=#FFD780FF>Secret Art: Musou Shinsetsu</color> เมื่อท่าไม้ตายของโชกุน Raiden ถูกศัตรู จะทำให้ช่วงเวลาคูลดาวน์ของท่าไม้ตาย ของตัวละครทั้งหมดในทีม (ไม่รวมตัวของโชกุน Raiden เอง) ที่อยู่ในบริเวณใกล้เคียงลดลง 1 วินาที\nเอฟเฟกต์ดังกล่าวสามารถเกิดขึ้นได้มากสุดหนึ่งครั้ง ในทุก 1 วินาที และภายในช่วงเวลาต่อเนื่อง จะสามารถเกิดขึ้นได้มากสุด 5 ครั้ง",
+      "vi": "Khi trong trạng thái <color=#FFD780FF>Mộng Tưởng Nhất Tâm</color> của <color=#FFD780FF>Bí Kỹ - Mộng Tưởng Chân Thuyết</color>, sát thương Kỹ Năng Nộ của Raiden Shogun trúng kẻ địch sẽ giảm 1s CD Kỹ Năng Nộ của tất cả nhân vật trong đội ở gần đó (Không bao gồm Raiden Shogun).\nHiệu quả này mỗi giây tối đa kích hoạt 1 lần, trong thời gian duy trì tối đa kích hoạt 5 lần."
+    },
+    "imgid": "constellation_6"
+  }
+]

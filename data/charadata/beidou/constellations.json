@@ -1,0 +1,200 @@
+[
+  {
+    "title": {
+      "zhs": "鱼龙沉四方",
+      "zht": "魚龍沉四方",
+      "jp": "四方に沈む魚龍",
+      "ko": "사방으로 잠긴 어룡",
+      "en": "Sea Beast's Scourge",
+      "de": "Untergang der Ungeheuer",
+      "es": "Cazadora de ictiosaurios",
+      "fr": "Fléau des monstres marins",
+      "pt": "Flagelo da Fera do Mar",
+      "ru": "Хищник морей",
+      "id": "Sea Beast's Scourge",
+      "th": "Sea Beast's Scourge",
+      "vi": "Ngư Long Trầm Tứ Phương"
+    },
+    "description": {
+      "zhs": "施放<color=#FFD780FF>斫雷</color>时：\n生成一个伤害吸收量等于生命值上限16%的护盾，持续15秒。\n该护盾对<color=#FFACFFFF>雷元素伤害</color>有250%的吸收效果。",
+      "zht": "施放<color=#FFD780FF>斫雷</color>時：\n產生一個傷害吸收量等於生命值上限16%的護盾，持續15秒。\n該護盾對<color=#FFACFFFF>雷元素傷害</color>有250%的吸收效果。",
+      "jp": "<color=#FFD780FF>雷斫り</color>を発動した時、下記の効果が発動される。\nダメージ吸収量がHP上限の16%に値するシールドを生成する。持続時間15秒。\nこのシールドは<color=#FFACFFFF>雷元素ダメージ</color>に対して250%の吸収効果がある。",
+      "ko": "<color=#FFD780FF>작뢰</color> 발동 시:\nHP 최대치의 16%에 해당하는 피해를 흡수하는 보호막을 생성한다. 지속 시간: 15초.\n 이 보호막은 <color=#FFACFFFF>번개 원소 피해</color>에 대해 250%의 흡수 효과가 있다",
+      "en": "When <color=#FFD780FF>Stormbreaker</color> is used:\nCreates a shield that absorbs up to 16% of Beidou's Max HP for 15s.\nThis shield absorbs <color=#FFACFFFF>Electro DMG</color> 250% more effectively.",
+      "de": "Effekte bei Anwendung von <color=#FFD780FF>Blitzbrecher</color>:\nErstellt einen Schutzschild, der Schaden in Höhe von 16 % der max. LP abhält, hält 15 s.\nHält bei <color=#FFACFFFF>Elektro-Schaden</color> 250 % ab.",
+      "es": "Al activar <color=#FFD780FF>Quebrantatormentas</color>, crea un escudo que absorbe daño en una cantidad equivalente al 16% de la Vida Máx. de Beidou durante 15 s.\nEl escudo tiene un 250% de eficiencia de absorción de <color=#FFACFFFF>Daño Electro</color>.",
+      "fr": "L'activation de <color=#FFD780FF>Brisure d'orage</color> confère les effets suivants :\nGénère un bouclier qui absorbe une quantité de DGT équivalant à 16 % des PV max et dure 15 s.\nLe bouclier est efficace à 250 % contre les <color=#FFACFFFF>DGT Électro</color>.",
+      "pt": "Quando o <color=#FFD780FF>Quebrador de Tempestades</color> é usado:\nCria um escudo que absorve até 16% de Dano baseado na Vida Máxima de Beidou por 15 segundos.\nEsse escudo absorve 250% do <color=#FFACFFFF>Dano Electro</color> mais eficientemente.",
+      "ru": "При использовании таланта <color=#FFD780FF>Крушитель бури</color>:\nСоздаёт щит, который в течение 15 сек. поглощает урон, равный 16% от макс. HP Бэй Доу.\n<color=#FFACFFFF>Электро урон</color> поглощается на 250% эффективнее.",
+      "id": "Saat <color=#FFD780FF>Stormbreaker</color> digunakan:\nMembentuk perisai yang menahan DMG sebesar 16% dari Max HP Beidou selama 15 detik.\nPerisai ini juga menahan <color=#FFACFFFF>Electro DMG</color> 250% lebih efektif.",
+      "th": "เมื่อใช้ <color=#FFD780FF>Stormbreaker</color>:\nจะสร้างโล่ที่สามารถดูดซับ ความเสียหายได้ 16% ของพลังชีวิตสูงสุด เป็นเวลา 15 วินาที\nโล่ป้องกันนี้จะมีเอฟเฟกต์ การดูดซับ<color=#FFACFFFF>ความเสียหายไฟฟ้า</color> 250%",
+      "vi": "Khi thi triển <color=#FFD780FF>Chước Lôi</color>: \nHình thành tấm khiên hấp thu sát thương tương đương với 16% giới hạn HP, kéo dài 15s.\nKhiên có hiệu quả hấp thụ 250% <color=#FFACFFFF>sát thương Nguyên Tố Lôi</color>."
+    },
+    "imgid": "constellation_1"
+  },
+  {
+    "title": {
+      "zhs": "赫赫雷涌起",
+      "zht": "赫赫雷湧起",
+      "jp": "沸き上がる雷",
+      "ko": "솟아오르는 천둥번개",
+      "en": "Upon the Turbulent Sea, the Thunder Arises",
+      "de": "Aufziehendes Unwetter",
+      "es": "Tormenta sobre el mar turbulento",
+      "fr": "Sur la mer turbulente, le tonnerre gronde",
+      "pt": "Sobre o Mar Turbulento, o Trovão Surge",
+      "ru": "Гроза морей",
+      "id": "Upon the Turbulent Sea, the Thunder Arises",
+      "th": "Upon the Turbulent Sea, the Thunder Arises",
+      "vi": "Tia Sét Chói Lọi"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>斫雷</color>的闪雷能额外弹跳2个敌人。",
+      "zht": "<color=#FFD780FF>斫雷</color>的閃雷能額外彈跳2個敵人。",
+      "jp": "<color=#FFD780FF>雷斫り</color>の稲妻が2体の敵を追加で攻撃可能になる。",
+      "ko": "<color=#FFD780FF>작뢰</color>의 체인 라이트닝이 추가로 2명의 적에게 튕긴다",
+      "en": "<color=#FFD780FF>Stormbreaker</color>'s arc lightning can jump to 2 additional targets.",
+      "de": "Kettenblitze von <color=#FFD780FF>Blitzbrecher</color> springen auf 2 zusätzliche Gegner über.",
+      "es": "Los rayos de <color=#FFD780FF>Quebrantatormentas</color> rebotan a 2 objetivos adicionales.",
+      "fr": "Les décharges de <color=#FFD780FF>Brisure d'orage</color> se propagent à 2 ennemis supplémentaires.",
+      "pt": "O Arco Relâmpago do <color=#FFD780FF>Quebrador de Tempestades</color> pode rebater em 2 alvos adicionais.",
+      "ru": "Цепная молния навыка <color=#FFD780FF>Крушитель бури</color> может перепрыгнуть на двух дополнительных врагов.",
+      "id": "Sambaran listrik <color=#FFD780FF>Stormbreaker</color> menyambar 2 musuh lebih banyak.",
+      "th": "สายฟ้าของ <color=#FFD780FF>Stormbreaker</color> สามารถดีดศัตรูเพิ่มได้อีก 2 ตัว",
+      "vi": "Sấm sét của <color=#FFD780FF>Chước Lôi</color> có thể đánh bật thêm 2 kẻ địch."
+    },
+    "imgid": "constellation_2"
+  },
+  {
+    "title": {
+      "zhs": "潮奔蓦引电",
+      "zht": "潮奔驀引電",
+      "jp": "雷引きの潮",
+      "ko": "조류발전",
+      "en": "Summoner of Storm",
+      "de": "Spontane Induktion",
+      "es": "Invocadora de la tormenta",
+      "fr": "Invocateur de tonnerre",
+      "pt": "Invocadora da Tempestade",
+      "ru": "Призыв бури",
+      "id": "Summoner of Storm",
+      "th": "Summoner of Storm",
+      "vi": "Thủy Triều Dẫn Điện"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>捉浪</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>捉浪</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>浪追い</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>파도잡이</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Tidecaller</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Wellenfänger</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Invocadora de mareas</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Invocation des marées</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o nível da <color=#FFD780FF>Invocadora da Maré</color> em 3.\nO nível máximo de elevação é 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Призыв волны</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Tidecaller</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Tidecaller</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Bắt Sóng</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_3"
+  },
+  {
+    "title": {
+      "zhs": "牵星觅乡岸",
+      "zht": "牽星覓鄉岸",
+      "jp": "星に導かれた岸線",
+      "ko": "별을 따라 찾은 고향의 땅",
+      "en": "Stunning Revenge",
+      "de": "Überwältigender Gegenschlag",
+      "es": "Venganza súbita",
+      "fr": "Vengeance étonnante",
+      "pt": "Vingança Impressionante",
+      "ru": "Оглушающая месть",
+      "id": "Stunning Revenge",
+      "th": "Stunning Revenge",
+      "vi": "Sao Trời Dẫn Lối"
+    },
+    "description": {
+      "zhs": "受到攻击后的10秒内，北斗的普通攻击附带20%额外<color=#FFACFFFF>雷元素伤害</color>。",
+      "zht": "受到攻擊後的10秒內，北斗的普通攻擊附帶20%額外<color=#FFACFFFF>雷元素傷害</color>。",
+      "jp": "攻撃を受けた後の10秒間、北斗の通常攻撃に追加で20%の<color=#FFACFFFF>雷元素ダメージ</color>が付与される。",
+      "ko": "피격 후 10초 동안 북두의 일반 공격에 20%의 <color=#FFACFFFF>번개 원소 피해</color>가 추가된다",
+      "en": "Upon being attacked, Beidou's Normal Attacks gain an additional instance of 20% <color=#FFACFFFF>Electro DMG</color> for 10s.",
+      "de": "Beidous Standardangriffe verursachen nach dem Erleiden von Angriffen 10 s lang zusätzlich 20 % <color=#FFACFFFF>Elektro-SCH</color>.",
+      "es": "Tras ser atacada, los Ataques Normales de Beidou obtienen un 20% de <color=#FFACFFFF>Daño Electro</color> adicional durante 10 s.",
+      "fr": "Après avoir subi une attaque, les attaques normales de Beidou infligent 20 % de <color=#FFACFFFF>DGT Électro</color> supplémentaires pendant 10 s.",
+      "pt": "Após ser atacada, os Ataques Normais de Beidou ganham 20% de <color=#FFACFFFF>Dano Electro</color> adicional por 10s.",
+      "ru": "После полученного удара обычные атаки Бэй Доу наносят дополнительные 20% <color=#FFACFFFF>Электро урона</color> в течение 10 сек.",
+      "id": "Setelah terkena serangan, Normal Attack Beidou memperoleh 20% <color=#FFACFFFF>Electro DMG</color> tambahan selama 10 detik.",
+      "th": "ภายใน 10 วินาที หลังจากถูกโจมตี โจมตีปกติของ Beidou จะแนบ<color=#FFACFFFF>ความเสียหายไฟฟ้า</color>เพิ่มไปด้วย 20%",
+      "vi": "Trong vòng 10s sau khi bị tấn công, tấn công thường của Beidou tăng thêm 20% <color=#FFACFFFF>sát thương Nguyên Tố Lôi</color>."
+    },
+    "imgid": "constellation_4"
+  },
+  {
+    "title": {
+      "zhs": "踏浪霞连阶",
+      "zht": "踏浪霞連階",
+      "jp": "白波に映る霞光",
+      "ko": "파도를 비추는 노을빛",
+      "en": "Crimson Tidewalker",
+      "de": "Gezeitenwanderer",
+      "es": "Caminante de mareas carmesí",
+      "fr": "Marcheur de marée écarlate",
+      "pt": "Caminhante da Maré Carmesim",
+      "ru": "Алые паруса на горизонте",
+      "id": "Crimson Tidewalker",
+      "th": "Crimson Tidewalker",
+      "vi": "Đạp Lãng Liên Cấp"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>斫雷</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>斫雷</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>雷斫り</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>작뢰</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Stormbreaker</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Blitzbrecher</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Quebrantatormentas</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Brisure d'orage</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o nível do <color=#FFD780FF>Quebrador de Tempestades</color> em 3.\nO nível máximo de elevação é 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Крушитель бури</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Stormbreaker</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Stormbreaker</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Chước Lôi</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_5"
+  },
+  {
+    "title": {
+      "zhs": "北斗祓幽孽",
+      "zht": "北斗祓幽孽",
+      "jp": "北斗の祓い",
+      "ko": "북두의 귀신 퇴치",
+      "en": "Bane of Evil",
+      "de": "Schrecken des Bösen",
+      "es": "Flagelo del mal",
+      "fr": "Chancre du mal",
+      "pt": "Destruição do Mal",
+      "ru": "Погибель порока",
+      "id": "Bane of Evil",
+      "th": "Bane of Evil",
+      "vi": "Beidou Diệt Ác"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>斫雷</color>持续期间，周围敌人的<color=#FFACFFFF>雷元素抗性</color>降低15%。",
+      "zht": "<color=#FFD780FF>斫雷</color>持續期間，周圍敵人的<color=#FFACFFFF>雷元素抗性</color>降低15%。",
+      "jp": "<color=#FFD780FF>雷斫り</color>継続中、周囲の敵の<color=#FFACFFFF>雷元素耐性</color>-15%。",
+      "ko": "<color=#FFD780FF>작뢰</color>가 지속되는 동안 주변의 적의 <color=#FFACFFFF>번개 원소 내성</color>이 15% 감소한다",
+      "en": "During the duration of <color=#FFD780FF>Stormbreaker</color>, the <color=#FFACFFFF>Electro RES</color> of surrounding opponents is decreased by 15%.",
+      "de": "Verringert während der Wirkungsdauer von <color=#FFD780FF>Blitzbrecher</color> den <color=#FFACFFFF>Elektro-WDS</color> von Gegnern in der Umgebung um 15 %.",
+      "es": "Mientras esté activa la habilidad <color=#FFD780FF>Quebrantatormentas</color>, la <color=#FFACFFFF>RES Electro</color> de los enemigos cercanos se reduce en un 15%.",
+      "fr": "La <color=#FFACFFFF>RÉS Électro</color> des ennemis proches est réduite de 15 % tant que <color=#FFD780FF>Brisure d'orage</color> est actif.",
+      "pt": "Ao longo da duração do <color=#FFD780FF>Quebrador de Tempestades</color>, a <color=#FFACFFFF>RES Electro</color> dos inimigos próximos é diminuída em 15%.",
+      "ru": "На время действия навыка <color=#FFD780FF>Крушитель бури</color> <color=#FFACFFFF>Электро сопротивление</color> окружающих врагов понижается на 15%.",
+      "id": "Selama durasi <color=#FFD780FF>Stormbreaker</color>, <color=#FFACFFFF>Electro RES</color> musuh di sekitar berkurang 15%.",
+      "th": "ช่วงเวลาของ <color=#FFD780FF>Stormbreaker</color> <color=#FFACFFFF>ความต้านทานไฟฟ้า</color>ของ ศัตรูโดยรอบจะลดลง 15%",
+      "vi": "Trong thời gian <color=#FFD780FF>Chước Lôi</color> tồn tại, <color=#FFACFFFF>kháng Nguyên Tố Lôi</color> của địch xung quanh giảm 15%."
+    },
+    "imgid": "constellation_6"
+  }
+]

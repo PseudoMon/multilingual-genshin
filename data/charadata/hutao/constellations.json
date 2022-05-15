@@ -1,0 +1,200 @@
+[
+  {
+    "title": {
+      "zhs": "赤团开时斜飞去",
+      "zht": "赤團開時斜飛去",
+      "jp": "朱色の花束",
+      "ko": "진홍의 꽃다발",
+      "en": "Crimson Bouquet",
+      "de": "Roter Flug",
+      "es": "Florecimiento carmesí",
+      "fr": "Bouquet écarlate",
+      "pt": "Buquê Carmesim",
+      "ru": "Алый букет",
+      "id": "Crimson Bouquet",
+      "th": "Crimson Bouqet",
+      "vi": "Cánh Bướm Bay Nghiêng Về Chân Trời"
+    },
+    "description": {
+      "zhs": "处于<color=#FFD780FF>蝶引来生</color>施加的<color=#FFD780FF>彼岸蝶舞</color>状态下时，胡桃的重击不会消耗体力。",
+      "zht": "處於<color=#FFD780FF>蝶引來生</color>施加的<color=#FFD780FF>彼岸蝶舞</color>狀態時，胡桃的重擊不會消耗體力。",
+      "jp": "<color=#FFD780FF>蝶導来世</color>による<color=#FFD780FF>冥蝶の舞</color>状態の時、胡桃の重撃はスタミナを消費しない。",
+      "ko": "<color=#FFD780FF>나비의 서</color>가 부여한 <color=#FFD780FF>피안접무</color> 상태일 때, 호두의 강공격은 스태미나를 소모하지 않는다",
+      "en": "While in a <color=#FFD780FF>Paramita Papilio</color> state activated by <color=#FFD780FF>Guide to Afterlife</color>, Hu Tao's Charge Attacks do not consume Stamina.",
+      "de": "Verbraucht im Zustand <color=#FFD780FF>Paramita-Schmetterlingstanz</color> von <color=#FFD780FF>Geleit ins Jenseits</color> keine Ausdauer für Hu Taos heftige Schläge.",
+      "es": "Al estar bajo los efectos de <color=#FFD780FF>mariposa excelsa</color> aplicados por <color=#FFD780FF>Guía hacia el más allá</color>, el Ataque Cargado de Hu Tao no consumirá Aguante.",
+      "fr": "Les attaques chargées de Hu Tao ne consomment pas d'endurance tant qu'elle se trouve dans l'état <color=#FFD780FF>Paramita Papilio</color> conféré par <color=#FFD780FF>Chaperon de la renaissance</color>.",
+      "pt": "Sob o estado de <color=#FFD780FF>Dança de Borboleta</color> aplicado por <color=#FFD780FF>Guia do Além</color>, o Ataque Carregado de Hutao não consome Stamina.",
+      "ru": "Заряженные атаки Ху Тао перестают потреблять выносливость в состоянии <color=#FFD780FF>Танец бабочки</color> навыка <color=#FFD780FF>Путеводитель по загробной жизни</color>.",
+      "id": "Saat kondisi <color=#FFD780FF>Paramita Papilio</color> diaktifkan oleh <color=#FFD780FF>Guide to Afterlife</color>, Charge Attack Hu Tao tidak akan mengonsumsi Stamina.",
+      "th": "เมื่ออยู่ในสภาวะของ <color=#FFD780FF>Paramita Papilio</color> ที่เกิดขึ้นโดย <color=#FFD780FF>Guide to Afterlife</color> ชาร์จโจมตีของ Hu Tao จะไม่ใช้พลังกาย",
+      "vi": "Khi ở trạng thái <color=#FFD780FF>Bỉ Ngạn Điệp Vũ</color> mà <color=#FFD780FF>Điệp Dẫn Lai Sinh</color> mang đến, trọng kích của Hu Tao sẽ không tiêu hao thể lực."
+    },
+    "imgid": "constellation_1"
+  },
+  {
+    "title": {
+      "zhs": "最不安神晴又复雨",
+      "zht": "最不安神晴又復雨",
+      "jp": "晴れのち雨",
+      "ko": "비처럼 내리는 불안",
+      "en": "Ominous Rainfall",
+      "de": "Wetterwechsel",
+      "es": "Mal presagio",
+      "fr": "Sombres auspices",
+      "pt": "Mau Presságio",
+      "ru": "Зловещий дождь",
+      "id": "Ominous Rainfall",
+      "th": "Ominous Rainfall",
+      "vi": "Mưa Về Bất An"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>血梅香</color>造成的伤害提高，提高值相当于效果附加时胡桃生命值上限的10%。\n此外，<color=#FFD780FF>安神秘法</color>会为命中的敌人施加<color=#FFD780FF>血梅香</color>效果。",
+      "zht": "<color=#FFD780FF>血梅香</color>造成的傷害提高，提高值相當於效果附加時胡桃生命值上限的10%。\n此外，<color=#FFD780FF>安神秘法</color>會對命中的敵人施加<color=#FFD780FF>血梅香</color>效果。",
+      "jp": "<color=#FFD780FF>血梅香</color>のダメージ量が胡桃のHP上限の10%分アップする。\nまた、<color=#FFD780FF>安神秘法</color>は命中した敵に<color=#FFD780FF>血梅香</color>効果を与える。",
+      "ko": "<color=#FFD780FF>혈매향</color>이 가하는 피해가 증가한다. 피해 증가량은 효과 부여 시, 호두 HP 최대치의 10%이다.\n또한 <color=#FFD780FF>평안의 서</color>는 명중 시 적에게 <color=#FFD780FF>혈매향</color> 효과를 부여한다",
+      "en": "Increases the <color=#FFD780FF>Blood Blossom</color> DMG by an amount equal to 10% of Hu Tao's Max HP at the time the effect is applied.\nAdditionally, <color=#FFD780FF>Spirit Soother</color> will also apply the <color=#FFD780FF>Blood Blossom</color> effect.",
+      "de": "Erhöht den mit <color=#FFD780FF>Blutblüten</color> verursachten Schaden um 10 % von Hu Taos max. LP beim Auslösen des Effekts.\nFügt mit <color=#FFD780FF>Geheime Kunst der Besänftigung</color> getroffenen Gegnern den Effekt <color=#FFD780FF>Blutblüten</color> zu.",
+      "es": "Aumenta el daño infligido por <color=#FFD780FF>pétalos sangrientos</color> en una cantidad equivalente al 10% de la Vida Máx. que tenía Hu Tao al aplicar dicho efecto.\nAdemás, <color=#FFD780FF>Calma de los espíritus</color> aplicará sobre los enemigos atacados el efecto de <color=#FFD780FF>pétalos sangrientos</color>.",
+      "fr": "<color=#FFD780FF>Bourgeon de prune</color> inflige un bonus de DGT équivalant à 10 % des PV max de Hu Tao lorsqu'elle bénéficie de l'effet.\n<color=#FFD780FF>Apaisement divin</color> applique de plus l'effet <color=#FFD780FF>Bourgeon de prune</color> lorsqu'il touche.",
+      "pt": "<color=#FFD780FF>Pétalas Sangrentas</color> causa Dano adicional equivalente a 10% da Vida Máxima de Hutao.\nAlém disso, <color=#FFD780FF>Pacificadora de Espíritos</color> pode aplicar efeito de <color=#FFD780FF>Pétalas Sangrentas</color> aos inimigos acertados.",
+      "ru": "Увеличивает урон <color=#FFD780FF>Кровавого цветка</color> на 10% от макс. HP Ху Тао на момент наложения эффекта.\nНавык <color=#FFD780FF>Упокоение духов</color> также накладывает эффект <color=#FFD780FF>Кровавого цветка</color>.",
+      "id": "Meningkatkan DMG <color=#FFD780FF>Blood Blossom</color> sebesar 10% Max HP Hu Tao ketika efek diterapkan.\nSelain itu, <color=#FFD780FF>Spirit Soother</color> juga menyebabkan efek <color=#FFD780FF>Blood Blossom</color> saat mengenai musuh.",
+      "th": "<color=#FFD780FF>Blood Blossom</color> สร้างความเสียหายสูงขึ้น โดยปริมาณความเสียหายที่เพิ่มจะเท่ากับ 10% ของพลังชีวิตสูงสุดของ Hu Tao เมื่อเอฟเฟกต์ถูกใช้งาน\nนอกจากนี้ <color=#FFD780FF>Spirit Soother</color> จะปล่อยเอฟเฟกต์ <color=#FFD780FF>Blood Blossom</color> ใส่ศัตรูที่ถูกโจมตีด้วย",
+      "vi": "Tăng sát thương <color=#FFD780FF>Huyết Mai Hương</color> gây ra, mức tăng tương đương với 10% giới hạn HP của Hu Tao khi hiệu quả này diễn ra.\nNgoài ra, <color=#FFD780FF>An Thần Bí Pháp</color> sẽ gây thêm hiệu quả <color=#FFD780FF>Huyết Mai Hương</color> cho kẻ địch bị đánh trúng."
+    },
+    "imgid": "constellation_2"
+  },
+  {
+    "title": {
+      "zhs": "逗留采血色",
+      "zht": "逗留採血色",
+      "jp": "血色の儀",
+      "ko": "적색 피의 의식",
+      "en": "Lingering Carmine",
+      "de": "Aderlass",
+      "es": "Persistencia escarlata",
+      "fr": "Rituel du sang",
+      "pt": "Ritual de Sangria",
+      "ru": "Плавный кармин",
+      "id": "Lingering Carmine",
+      "th": "Lingering Carmine",
+      "vi": "Huyết Sắc Vấn Vương"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>蝶引来生</color>的技能等级提升3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>蝶引來生</color>的技能等級提升3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>蝶導来世</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>나비의 서</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Guide to Afterlife</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Geleit ins Jenseits</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Guía hacia el más allá</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Chaperon de la renaissance</color> +3.\nNiveau max : 15",
+      "pt": "O nível de Habilidade <color=#FFD780FF>Guia do Além</color> aumenta em 3 níveis.\nPode ser aumentado até 15 níveis.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Путеводитель по загробной жизни</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Guide to Afterlife</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Guide to Afterlife</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Điệp Dẫn Lai Sinh</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_3"
+  },
+  {
+    "title": {
+      "zhs": "伴君眠花房",
+      "zht": "伴君眠花房",
+      "jp": "花室の添い寝",
+      "ko": "영원한 안식의 정원",
+      "en": "Garden of Eternal Rest",
+      "de": "Bettung zur ewigen Ruhe",
+      "es": "Jardín del reposo eterno",
+      "fr": "Jardin du repos éternel",
+      "pt": "Jardim do Descanso Eterno",
+      "ru": "Сады вечного покоя",
+      "id": "Garden of Eternal Rest",
+      "th": "Garden of Eternal Rest",
+      "vi": "Hoa Phòng Bầu Bạn"
+    },
+    "description": {
+      "zhs": "处于胡桃自己施加的<color=#FFD780FF>血梅香</color>状态影响下的敌人被击败时，附近的队伍中所有角色（不包括胡桃自己）的暴击率提高12%，持续15秒。",
+      "zht": "處於胡桃自己施加的<color=#FFD780FF>血梅香</color>狀態影響下的敵人被擊敗時，附近的隊伍中所有角色（不包括胡桃自己）的暴擊率提高12%，持續15秒。",
+      "jp": "胡桃自ら与えた<color=#FFD780FF>血梅香</color>状態の敵が倒されると、周囲のチーム全員（胡桃自身を除く）の会心率+12%、継続時間15秒。",
+      "ko": "호두가 부여한 <color=#FFD780FF>혈매향</color> 효과 상태의 적 처치 시, 주변의 파티 내 캐릭터(호두 자신은 제외)의 치명타 확률이 12% 증가한다. 지속 시간: 15초",
+      "en": "Upon defeating an enemy affected by a <color=#FFD780FF>Blood Blossom</color> that Hu Tao applied herself, all nearby allies in the party (excluding Hu Tao herself) will have their CRIT Rate increased by 12% for 15s.",
+      "de": "Erhöht beim Besiegen von durch Hu Tao selbst ausgelöste <color=#FFD780FF>Blutblüten</color> betroffener Gegner die KT aller Truppenmitglieder (außer Hu Tao selbst) in der Nähe 15 s lang um 12 %.",
+      "es": "Al derrotar a un enemigo que está bajo los efectos de <color=#FFD780FF>pétalos sangrientos</color> aplicados por Hu Tao, la Prob. CRIT de todos los miembros del equipo (a excepción de Hu Tao) aumenta en un 12% durante 15 s.",
+      "fr": "Lorsqu'un ennemi affecté par <color=#FFD780FF>Bourgeon de prune</color> est vaincu, le taux CRT de tous les personnages de l'équipe proches (à l'exception de Hu Tao) augmente de 12 % pendant 15 s.",
+      "pt": "Quando os inimigos sob estado de <color=#FFD780FF>Pétalas Sangrentas</color> aplicado por Hutao forem derrotados, a Taxa CRIT de todos os aliados (menos Hutao) ao redor aumenta em 12% por 15s.",
+      "ru": "После победы над противником, находящимся под эффектом <color=#FFD780FF>Кровавого цветка</color>, наложенным самой Ху Тао, шанс крит. попадания всех окружающих членов отряда (кроме самой Ху Тао) увеличивается на 12% в течение 15 сек.",
+      "id": "Saat musuh yang terkena efek <color=#FFD780FF>Blood Blossom</color> yang disebabkan oleh Hu Tao sendiri dikalahkan, akan meningkatkan 12% CRIT Rate seluruh anggota party yang ada di sekitar (tidak termasuk Hu Tao sendiri) selama 15 detik.",
+      "th": "เมื่อศัตรูที่ได้รับผลกระทบของ <color=#FFD780FF>Blood Blossom</color> ที่ตัวของ Hu Tao เป็นผู้สร้างขึ้นเองพ่ายแพ้ ตัวละครทั้งหมดในทีม (ไม่รวมตัวของ Hu Tao เอง) ที่อยู่ในบริเวณใกล้เคียง จะได้รับอัตราคริเพิ่มขึ้น 12% เป็นเวลา 15 วินาที",
+      "vi": "Khi kẻ địch bị ảnh hưởng bởi trạng thái <color=#FFD780FF>Huyết Mai Hương</color> của Hu Tao bị đánh bại, tất cả nhân vật trong đội ở gần (Không bao gồm Hu Tao) sẽ tăng 12% tỷ lệ bạo kích, kéo dài 15s."
+    },
+    "imgid": "constellation_4"
+  },
+  {
+    "title": {
+      "zhs": "无可奈何燃花作香",
+      "zht": "無可奈何燃花作香",
+      "jp": "漂う花の香り",
+      "ko": "꽃잎 향초의 기도",
+      "en": "Floral Incense",
+      "de": "Blumenräucherwerk",
+      "es": "Ofrenda de incienso",
+      "fr": "Encens floral",
+      "pt": "Incenso de Flores",
+      "ru": "Цветочные благовония",
+      "id": "Floral Incense",
+      "th": "Floral Incense",
+      "vi": "Đốt Hoa Làm Hương"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>安神秘法</color>的技能等级提升3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>安神秘法</color>的技能等級提升3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>安神秘法</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>평안의 서</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Spirit Soother</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Geheime Kunst der Besänftigung</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Calma de los espíritus</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Apaisement divin</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o nível do <color=#FFD780FF>Pacificadora de Espíritos</color> em 3 níveis.\nO nível máximo de elevação é 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Упокоение духов</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Spirit Soother</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Spirit Soother</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>An Thần Bí Pháp</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_5"
+  },
+  {
+    "title": {
+      "zhs": "幽蝶能留一缕芳",
+      "zht": "幽蝶能留一縷芳",
+      "jp": "冥蝶の抱擁",
+      "ko": "나비 잔향",
+      "en": "Butterfly's Embrace",
+      "de": "Schmetterlingsduft",
+      "es": "Último suspiro",
+      "fr": "L'envol du papillon",
+      "pt": "Abraço das Borboletas",
+      "ru": "Объятья бабочки",
+      "id": "Butterfly's Embrace",
+      "th": "Butterfly's Embrace",
+      "vi": "U Điệp Lưu Lại Một Chút Hương"
+    },
+    "description": {
+      "zhs": "胡桃的生命值降至25%以下，或承受足以使她倒下的伤害时触发：\n此次伤害不会使胡桃倒下，并在接下来的10秒内，胡桃的所有元素抗性和物理抗性提高200%，暴击率提高100%，并极大地提高抗打断能力。\n这个效果在胡桃生命值为1时会自动触发。\n该效果每60秒只能触发一次。",
+      "zht": "胡桃的生命值降至25%以下，或承受足以使她倒下的傷害時觸發：\n此次傷害不會使胡桃倒下，並在接下來的10秒內，胡桃的所有元素抗性和物理抗性提高200%，暴擊率提高100%，並大幅提高抗打斷能力。\n這個效果在胡桃生命值為1時會自動觸發。\n該效果每60秒只能觸發一次。",
+      "jp": "胡桃のHPが25%以下、または戦闘不能に至るダメージを受けた時に発動：\nこのダメージで胡桃が戦闘不能になることはない。また、次の10秒間、胡桃の全元素耐性及び物理耐性+200%、会心率+100%、中断耐性大幅アップ。\nこの効果は胡桃のHPが1の時に自動で発動される。\n60秒毎に1回のみ発動可能。",
+      "ko": "호두의 HP가 25% 이하로 떨어지거나 전투 불능이 될 정도의 피해를 입으면 아래 효과가 발동된다:\n호두는 해당 피해로 전투 불능 상태에 빠지지 않고 다음 10초 동안 호두의 모든 원소 내성과 물리 내성이 200% 증가한다. 동시에 치명타 확률이 100% 증가하고, 경직 저항력이 대폭 상승한다.\n해당 효과는 호두의 HP가 1일 때 자동으로 발동된다.\n해당 효과는 60초마다 1회만 발동한다",
+      "en": "Triggers when Hu Tao's HP drops below 25%, or when she suffers a lethal strike:\nHu Tao will not fall as a result of the DMG sustained. Additionally, for the next 10s, all of her Elemental and Physical RES is increased by 200%, her CRIT Rate is increased by 100%, and her resistance to interruption is greatly increased.\nThis effect triggers automatically when Hu Tao has 1 HP left.\nCan only occur once every 60s.",
+      "de": "Löst folgenden Effekt aus, wenn Hu Taos LP unter 25 % fallen oder sie Schaden erleidet, der sie besiegen würde:\nVermeidet, dass dieser Schaden Hu Tao besiegt, und erhöht Hu Taos WDS gegen alle Elemente sowie ihren physischen WDS 10 s lang um 200 % und ihre KT um 100 %. Erhöht ihren Unterbrechungs-WDS außerdem enorm.\nDieser Effekt wird automatisch ausgelöst, wenn Hu Tao nur noch 1 LP hat.\n60 s Abklingzeit.",
+      "es": "Cuando la Vida de Hu Tao esté por debajo del 25% o cuando vaya a recibir una cantidad de daño suficiente como para ser derrotada, esta habilidad se activará y tendrá los siguientes efectos:\n·Dicho daño no hará que Hu Tao sea derrotada, y durante 10 s aumentará en un 200% todas sus RES Elementales y su RES Física, así como su Prob. CRIT en un 100%. Además, su RES a interrupción se incrementará en gran medida.\n·Este efecto se activará automáticamente cuando Hu Tao tenga 1 pt. de Vida.\nSolo puede ocurrir una vez cada 60 s.",
+      "fr": "Lorsque les PV de Hu Tao passent sous le seuil des 25 % ou lorsqu'elle subit assez de DGT pour être vaincue :\nHu Tao n'est pas vaincue cette fois-ci. Pendant les 10 s qui suivent, ses RÉS élémentaires et physique augmentent de 200 %, son taux CRIT augmente de 100 %, et sa RÉS à l'interruption augmente considérablement.\nCet effet se déclenche automatiquement lorsqu'il ne reste qu'1 PV à Hu Tao.\nCet effet peut être déclenché une fois toutes les 60 s.",
+      "pt": "O efeito será ativado quando a Vida de Hutao for inferior a 25%, ou o Dano recebido for suficiente para derrotá-la.\nO Dano recebido não irá derrubar Hutao, e nos primeiros 10s, a RES Elemental e RES Física irão aumentar em 200%, entretanto, a Taxa CRIT aumenta em 100%, e a sua Resistência contra Interrupção aumenta significativamente.\nO efeito será ativado automaticamente quando a Vida for 1.\nO efeito apenas pode ser ativado a cada 60s.",
+      "ru": "Активируется, когда HP Ху Тао опускается ниже 25% или когда она получает летальный урон:\nХу Тао не погибает от полученного урона. Напротив, на следующие 10 сек. все её элементальные сопротивления и физическое сопротивление повышаются на 200%, её шанс крит. попадания увеличивается на 100%, а также сильно повышается её сопротивление к прерыванию.\nЭтот эффект активируется автоматически, когда у Ху Тао остаётся 1 HP.\nМожет возникнуть раз в 60 сек.",
+      "id": "Efek ini akan terpicu saat HP Hu Tao berada di bawah 25% atau terkena serangan mematikan:\nHu Tao tidak akan gugur saat terkena serangan tersebut. Selama 10 detik ke depan, meningkatkan 200% Elemental dan Physical RES, meningkatkan 100% CRIT Rate dan meningkatkan ketahanan Hu Tao terhadap interupsi secara signifikan.\nEfek ini akan terpicu otomatis saat HP Hu Tao tersisa 1.\nHanya dapat terpicu setiap 60 detik.",
+      "th": "เกิดขึ้นเมื่อพลังชีวิตของ Hu Tao ลดลงจนถึงต่ำกว่า 25% หรือได้รับความเสียหายจากการโจมตีที่รุนแรงพอที่จะทำให้หมดสติ:\nความเสียหายในครั้งนี้จะไม่ทำให้เธอหมดสติ และภายในเวลา 10 วินาที หลังจากนั้น ความต้านทานธาตุทุกชนิดและความต้านทานกายภาพของ Hu Tao จะเพิ่มขึ้น 200%, อัตราคริจะเพิ่มขึ้น 100% และความสามารถในการต้านทานการหยุดชะงักจะเพิ่มสูงขึ้นอย่างมาก\nเอฟเฟกต์นี้จะเกิดขึ้นโดยอัตโนมัติเมื่อ Hu Tao มีพลังชีวิตเหลือ 1\nเอฟเฟกต์นี้สามารถใช้ได้หนึ่งครั้งในทุก 60 วินาที",
+      "vi": "Khi HP của Hu Tao giảm xuống dưới 25% hoặc chịu sát thương đủ để khiến cô ấy ngã xuống, sẽ kích hoạt:\nSát thương lần này sẽ không đánh gục Hu Tao, và trong 10s kế tiếp, tất cả Kháng Nguyên Tố và Kháng Vật Lý của Hu Tao sẽ tăng 200%, tỷ lệ bạo kích tăng 100% và khả năng kháng gián đoạn tăng mạnh.\nHiệu quả này sẽ tự động kích hoạt khi HP của Hu Tao còn 1.\nMỗi 60s chỉ kích hoạt 1 lần."
+    },
+    "imgid": "constellation_6"
+  }
+]

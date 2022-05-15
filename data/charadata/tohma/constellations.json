@@ -1,0 +1,200 @@
+[
+  {
+    "title": {
+      "zhs": "同袍的义理",
+      "zht": "同袍的義理",
+      "jp": "同袍の義理",
+      "ko": "전우의 의리",
+      "en": "A Comrade's Duty",
+      "de": "Kameradschaftliche Pflichten",
+      "es": "El deber de un compañero",
+      "fr": "Devoir de camarade",
+      "pt": "O Dever de Um Amigo",
+      "ru": "Долг друга",
+      "id": "A Comrade's Duty",
+      "th": "A Comrade's Duty",
+      "vi": "Nghĩa Vụ Của Đồng Bào"
+    },
+    "description": {
+      "zhs": "处于托马自己的<color=#FFD780FF>烈烧佑命护盾</color>庇护下的角色（除了托马自己）受到攻击时，托马自己的<color=#FFD780FF>烈烧佑命之侍护</color>的冷却时间减少3秒，<color=#FFD780FF>真红炽火之大铠</color>的冷却时间减少3秒。\n该效果每20秒至多触发一次。",
+      "zht": "處於托馬自身的<color=#FFD780FF>烈燒佑命護盾</color>庇護下的角色（除了托馬自身）受到攻擊時，托馬自身的<color=#FFD780FF>烈燒佑命之侍護</color>的冷卻時間減少3秒，<color=#FFD780FF>真紅熾火之大鎧</color>的冷卻時間減少3秒。\n該效果每20秒至多觸發一次。",
+      "jp": "トーマ自身の<color=#FFD780FF>烈炎侍立シールド</color>に守られたキャラクター（トーマ自身を除く）が攻撃を受けた時、トーマ自身の<color=#FFD780FF>烈炎侍立</color>のクールタイム-3秒、<color=#FFD780FF>真紅熾炎の大鎧</color>のクールタイム-3秒。\nこの効果は20秒毎に1回のみ発動可能。",
+      "ko": "토마 자신을 제외하고 토마의 <color=#FFD780FF>타오르는 우명의 방패</color>의 보호를 받는 캐릭터가 공격을 받으면, 토마의 <color=#FFD780FF>타오르는 우명의 보호</color>와 <color=#FFD780FF>진홍 열화의 오오요로이</color>의 재사용 대기시간이 3초 감소한다.\n해당 효과는 20초마다 최대 1회 발동한다",
+      "en": "When a character protected by Thoma's own <color=#FFD780FF>Blazing Barrier</color> (Thoma excluded) is attacked, Thoma's own <color=#FFD780FF>Blazing Blessing</color> CD is decreased by 3s, while his own <color=#FFD780FF>Crimson Ooyoroi</color>'s CD is decreased by 3s.\nThis effect can be triggered once every 20s.",
+      "de": "Verkürzt beim Schützen vor Angriffen durch <color=#FFD780FF>Schild des lodernden Segens</color> für Figuren außer Thoma die Abklingzeit von Thomas eigenem <color=#FFD780FF>Lodernder Segen</color> um 3 s und die Abklingzeit von <color=#FFD780FF>Rote Ooyoroi</color> um 3 s.\n20 s Abklingzeit.",
+      "es": "Cuando los personajes que estén bajo la protección de un <color=#FFD780FF>escudo llameante</color> (a excepción de Thoma) reciben un ataque, tanto el TdE de <color=#FFD780FF>Bendición incandescente</color> como el de <color=#FFD780FF>Armadura calcinante</color> se reducen en 3 s.\nEste efecto solo puede ocurrir una vez cada 20 s.",
+      "fr": "Lorsqu'un personnage protégé par la <color=#FFD780FF>barrière brûlante</color> de Thomas subit une attaque (Thomas excepté), les TdR de <color=#FFD780FF>Bénédiction flamboyante</color> et d'<color=#FFD780FF>O-yoroi écarlate</color> de Thomas diminuent de 3 s.\nCet effet peut être déclenché une fois toutes les 20 s.",
+      "pt": "Quando uma <color=#FFD780FF>Barreira Flamejante</color> levar Dano em qualquer personagem que não seja o Thoma, então a própria <color=#FFD780FF>Proteção das Chamas do Destino</color> dele irá diminuir seu Tempo de Recarga em 3s, enquanto que sua própria <color=#FFD780FF>Grande Armadura Flamejante</color> tem seu Tempo de Recarga reduzido em 3s.\nEste efeito pode ser desencadeado uma vez a cada 20s.",
+      "ru": "Когда персонаж под защитой <color=#FFD780FF>Пылающего щита</color> Томы, но кроме него самого, получает удар, время отката <color=#FFD780FF>Пылающего покрова</color> и <color=#FFD780FF>Багрового оёроя</color> Томы уменьшается на 3 сек.\nЭтот эффект может возникнуть раз в 20 сек.",
+      "id": "Saat Karakter yang dilindungi oleh <color=#FFD780FF>Blazing Barrier</color> milik Thoma (kecuali Thoma sendiri) terkena serangan, maka CD <color=#FFD780FF>Blazing Blessing</color> Thoma akan berkurang 3 detik, dan CD <color=#FFD780FF>Crimson Ooyoroi</color> Thoma juga berkurang 3 detik.\nEfek ini dapat terpicu setiap 20 detik.",
+      "th": "เมื่อตัวละครที่ได้รับการปกป้องจาก <color=#FFD780FF>Blazing Barrier</color> ของตัว Thoma เองถูกโจมตี ช่วงเวลาคูลดาวน์ของ <color=#FFD780FF>Blazing Blessing</color> ของตัว Thoma เองจะลดลง 3 วินาที และช่วงเวลาคูลดาวน์ของ <color=#FFD780FF>Crismon Ooyoroi</color> ของตัว Thoma เองจะลดลง 3 วินาที\nเอฟเฟกต์นี้จะเกิดขึ้นได้มากสุดหนึ่งครั้ง ในทุก 20 วินาที",
+      "vi": "Khi nhân vật (Ngoại trừ bản thân Thoma) được bảo vệ bởi <color=#FFD780FF>Khiên Lửa Hộ Mệnh</color> của Thoma bị tấn công, sẽ giảm 3 giây CD <color=#FFD780FF>Liệt Hỏa Hộ Mệnh</color>, giảm 3 giây CD <color=#FFD780FF>Chiến Giáp Rực Cháy</color> của Thoma.\nHiệu quả này mỗi 20 giây tối đa kích hoạt 1 lần."
+    },
+    "imgid": "constellation_1"
+  },
+  {
+    "title": {
+      "zhs": "僚佐的才巧",
+      "zht": "僚佐的才巧",
+      "jp": "官吏の才知",
+      "ko": "보좌관의 재주",
+      "en": "A Subordinate's Skills",
+      "de": "Beflissener Assistent",
+      "es": "Hábil sirviente",
+      "fr": "Compétences de subordonné",
+      "pt": "Servente Hábil",
+      "ru": "Проницательность слуги",
+      "id": "A Subordinate's Skills",
+      "th": "A Subordinate's Skills",
+      "vi": "Tài Cán Của Trợ Thủ"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>真红炽火之大铠</color>的持续时间延长3秒。",
+      "zht": "<color=#FFD780FF>真紅熾火之大鎧</color>的持續時間延長3秒。",
+      "jp": "<color=#FFD780FF>真紅熾炎の大鎧</color>の継続時間+3秒。",
+      "ko": "<color=#FFD780FF>진홍 열화의 오오요로이</color>의 지속 시간이 3초 증가한다",
+      "en": "<color=#FFD780FF>Crimson Ooyoroi</color>'s duration is increased by 3s.",
+      "de": "Verlängert die Dauer von <color=#FFD780FF>Rote Ooyoroi</color> um 3 s.",
+      "es": "Aumenta en 3 s la duración de <color=#FFD780FF>Armadura calcinante</color>.",
+      "fr": "Prolonge la durée d'<color=#FFD780FF>O-yoroi écarlate</color> de 3 s.",
+      "pt": "Aumenta a duração da <color=#FFD780FF>Grande Armadura Flamejante</color> em 3s.",
+      "ru": "Длительность <color=#FFD780FF>Багрового оёроя</color> увеличивается на 3 сек.",
+      "id": "Durasi <color=#FFD780FF>Crimson Ooyoroi</color> bertambah 3 detik.",
+      "th": "ช่วงเวลาต่อเนื่องของ <color=#FFD780FF>Crimson Ooyoroi</color> เพิ่มขึ้น 3 วินาที",
+      "vi": "Thời gian duy trì <color=#FFD780FF>Chiến Giáp Rực Cháy</color> kéo dài thêm 3 giây."
+    },
+    "imgid": "constellation_2"
+  },
+  {
+    "title": {
+      "zhs": "御敌的执定",
+      "zht": "禦敵的執定",
+      "jp": "揺るがぬ用心",
+      "ko": "항거의 결의",
+      "en": "Fortified Resolve",
+      "de": "Bestimmtheit vor dem Feind",
+      "es": "Voluntad protectora",
+      "fr": "Résolution à toute épreuve",
+      "pt": "Vontade Resoluta",
+      "ru": "Твёрдая решимость",
+      "id": "Fortified Resolve",
+      "th": "Fortified Resolve",
+      "vi": "Định Luật Của Chiến Đấu"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>烈烧佑命之侍护</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>烈燒佑命之侍護</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>烈炎侍立</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>타오르는 우명의 보호</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Blazing Blessing</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Lodernder Segen</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Bendición incandescente</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Bénédiction flamboyante</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o Nível da <color=#FFD780FF>Proteção das Chamas do Destino</color> em 3.\nO Nível máximo de elevação é 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Пылающий покров</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Blazing Blessing</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Blazing Blessing</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Liệt Hỏa Hộ Mệnh</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_3"
+  },
+  {
+    "title": {
+      "zhs": "用臣的久计",
+      "zht": "用臣的久計",
+      "jp": "家臣の方策",
+      "ko": "가신의 오랜 계획",
+      "en": "Long-Term Planning",
+      "de": "Längerfristige Planung",
+      "es": "Plan de servicio",
+      "fr": "Planification à long terme",
+      "pt": "Plano a Longo Prazo",
+      "ru": "Долгосрочный план",
+      "id": "Long-Term Planning",
+      "th": "Long-Term Planning",
+      "vi": "Mưu Kế Của Gia Thần"
+    },
+    "description": {
+      "zhs": "施放<color=#FFD780FF>真红炽火之大铠</color>后，为托马恢复15点元素能量。",
+      "zht": "施放<color=#FFD780FF>真紅熾火之大鎧</color>後，為托馬恢復15點元素能量。",
+      "jp": "<color=#FFD780FF>真紅熾炎の大鎧</color>を発動すると、トーマの元素エネルギーを15ポイント回復する。",
+      "ko": "<color=#FFD780FF>진홍 열화의 오오요로이</color> 발동 후, 토마의 원소 에너지를 15pt 회복한다",
+      "en": "After using <color=#FFD780FF>Crimson Ooyoroi</color>, 15 Energy will be restored to Thoma.",
+      "de": "Stellt Thoma nach Anwendung von <color=#FFD780FF>Rote Ooyoroi</color> 15 Punkte Elementarenergie wieder her.",
+      "es": "Al realizar <color=#FFD780FF>Armadura calcinante</color>, Thoma recupera 15 pts. de Energía Elemental.",
+      "fr": "Après avoir utilisé <color=#FFD780FF>O-yoroi écarlate</color>, Thomas récupère 15 pts d'énergie élémentaire.",
+      "pt": "Após lançar <color=#FFD780FF>Grande Armadura Flamejante</color>, Thoma regenerará 15 pontos de Energia Elemental.",
+      "ru": "Использование навыка <color=#FFD780FF>Багровый оёрой</color> восстанавливает 15 ед. энергии Томы.",
+      "id": "Memulihkan 15 Energy Thoma setelah menggunakan <color=#FFD780FF>Crimson Ooyoroi</color>.",
+      "th": "หลังจากปล่อย <color=#FFD780FF>Crimson Ooyoroi</color> จะทำการฟื้นฟูพลังงานธาตุให้ Thoma 15 หน่วย",
+      "vi": "Sau khi thi triển <color=#FFD780FF>Chiến Giáp Rực Cháy</color> sẽ hồi 15 điểm Năng Lượng Nguyên Tố cho Thoma."
+    },
+    "imgid": "constellation_4"
+  },
+  {
+    "title": {
+      "zhs": "野火的豪烈",
+      "zht": "野火的豪烈",
+      "jp": "烈々たる野火",
+      "ko": "맹렬한 들불",
+      "en": "Raging Wildfire",
+      "de": "Weitreichende Flammen",
+      "es": "Fuego incontrolado",
+      "fr": "Feu incontrôlable",
+      "pt": "Fogo Incontrolável",
+      "ru": "Бушующий пожар",
+      "id": "Raging Wildfire",
+      "th": "Raging Wildfire",
+      "vi": "Sức Nóng Của Lửa Đỏ"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>真红炽火之大铠</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>真紅熾火之大鎧</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>真紅熾炎の大鎧</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>진홍 열화의 오오요로이</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Crimson Ooyoroi</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Rote Ooyoroi</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Armadura calcinante</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>O-yoroi écarlate</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o nível da <color=#FFD780FF>Grande Armadura Flamejante</color> em 3.\nO nível máximo de elevação é 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Багровый оёрой</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Crimson Ooyoroi</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Crimson Ooyoroi</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Chiến Giáp Rực Cháy</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_5"
+  },
+  {
+    "title": {
+      "zhs": "炽烧的至心",
+      "zht": "熾燒的至心",
+      "jp": "燃え立つ誠心",
+      "ko": "불타오르는 진심",
+      "en": "Burning Heart",
+      "de": "Brennendes Herz",
+      "es": "Corazón fervoroso",
+      "fr": "Cœur brûlant",
+      "pt": "Coração Fervoroso",
+      "ru": "Горячее сердце",
+      "id": "Burning Heart",
+      "th": "Burning Heart",
+      "vi": "Trái Tim Của Nhiệt Huyết"
+    },
+    "description": {
+      "zhs": "获取或刷新<color=#FFD780FF>烈烧佑命护盾</color>时，队伍中所有角色的普通攻击，重击与下落攻击造成的伤害提升15%，持续6秒。",
+      "zht": "獲得或重置<color=#FFD780FF>烈燒佑命護盾</color>時，隊伍中所有角色的普通攻擊，重擊與下落攻擊造成的傷害提升15%，持續6秒。",
+      "jp": "<color=#FFD780FF>烈炎侍立シールド</color>を獲得または更新した時、チーム全員の通常攻撃、重撃及び落下攻撃ダメージ+15%、継続時間6秒。",
+      "ko": "<color=#FFD780FF>타오르는 우명의 방패</color> 획득 또는 갱신 시, 파티 내 모든 캐릭터의 일반 공격, 강공격, 낙하 공격으로 가하는 피해가 15% 증가한다. 지속 시간: 6초",
+      "en": "When a <color=#FFD780FF>Blazing Barrier</color> is obtained or refreshed, the DMG dealt by all party members' Normal, Charged, and Plunging Attacks is increased by 15% for 6s.",
+      "de": "Erhöht beim Erhalten oder Aktualisieren von <color=#FFD780FF>Schild des lodernden Segens</color> den mit Standardangriffen, heftigen Schlägen und Angriffen aus dem Fall aller Truppenmitglieder verursachten Schaden 6 s lang um 15 %.",
+      "es": "Al obtener un <color=#FFD780FF>escudo llameante</color> o reiniciar su duración, el daño de los Ataques Normales, Cargados y Descendentes de todos los miembros del equipo aumenta en un 15% durante 6 s.",
+      "fr": "Lorsqu'une <color=#FFD780FF>barrière brûlante</color> est obtenue ou actualisée, les DGT des attaques normales, chargées et plongeantes de tous les personnages de l'équipe augmentent de 15 % pendant 6 s.",
+      "pt": "Quando uma <color=#FFD780FF>Barreira Flamejante</color> é obtida ou acumulada o Dano causado por Ataques Normais, Carregados e Imersivos de todos os membros da equipe é aumentado em 15% por 6s.",
+      "ru": "При получении или обновлении <color=#FFD780FF>Пылающего щита</color> урон обычных атак, заряженных атак и атак в падении всех членов отряда на 6 сек. повышается на 15%.",
+      "id": "Saat mendapatkan atau memperbarui <color=#FFD780FF>Blazing Barrier</color>, DMG Normal, Charged, dan Plunging Attack yang diakibatkan semua anggota party akan meningkat 15% selama 6 detik.",
+      "th": "เมื่อได้รับหรือรีเฟรช <color=#FFD780FF>Blazing Barrier</color> การโจมตีปกติ, ชาร์จโจมตี และโจมตีพุ่งลงจากอากาศ ของตัวละครทั้งหมดในทีม จะสร้างความเสียหายเพิ่มขึ้น 15% เป็นเวลา 6 วินาที",
+      "vi": "Khi nhận hoặc làm mới <color=#FFD780FF>Khiên Lửa Hộ Mệnh</color>, sát thương gây ra bởi tấn công thường, trọng kích, tấn công khi đáp của tất cả nhân vật trong đội tăng 15%, duy trì 6 giây."
+    },
+    "imgid": "constellation_6"
+  }
+]

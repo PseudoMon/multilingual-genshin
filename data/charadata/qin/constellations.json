@@ -1,0 +1,200 @@
+[
+  {
+    "title": {
+      "zhs": "流转剑脊的暴风",
+      "zht": "流轉劍脊的暴風",
+      "jp": "剣脊に流れる暴風",
+      "ko": "검척에 흐르는 폭풍",
+      "en": "Spiraling Tempest",
+      "de": "Sturm der wirbelnden Klingen",
+      "es": "Espiral de tempestad",
+      "fr": "Tourmente tranchante",
+      "pt": "Tempestade Espiral",
+      "ru": "Растущий ураган",
+      "id": "Spiraling Tempest",
+      "th": "Spiraling Tempest",
+      "vi": "Cơn Bão Gió Lốc"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>风压剑</color>长按超过1秒后，提升牵引速度，并使造成的伤害提升40%。",
+      "zht": "<color=#FFD780FF>風壓劍</color>長按超過1秒後，提升牽引速度，並使造成的傷害提升40%。",
+      "jp": "<color=#FFD780FF>風圧剣</color>の長押しが1秒以上の時、吸い寄せる速度がアップし、与えるダメージ+40%。",
+      "ko": "<color=#FFD780FF>풍압검</color>을 1초 이상 홀드하면 끌어당기는 속도가 상승하고 가하는 피해가 40% 증가한다",
+      "en": "Increases the pulling speed of <color=#FFD780FF>Gale Blade</color> after holding for more than 1s, and increases the DMG dealt by 40%.",
+      "de": "Erhöht die Anziehungsgeschwindigkeit der Fähigkeit <color=#FFD780FF>Luftdruckschwert</color> bei Gedrückthalten von mehr als 1 s und erhöht den verursachten Schaden um 40 %.",
+      "es": "Aumenta la velocidad de atracción de <color=#FFD780FF>Filo de ventisca</color> al mantener pulsado durante más de 1 s, y aumenta el daño que inflige en un 40%.",
+      "fr": "La VIT d'attraction et les DGT infligés par <color=#FFD780FF>Épée de tourbillon</color> augmentent de 40 % lorsque la compétence reste activée plus d'une seconde.",
+      "pt": "Aumenta a velocidade da <color=#FFD780FF>sucção da Espada do Temporal</color> após manter pressionado por mais de 1s e aumenta o dano causado em 40%.",
+      "ru": "Увеличивает скорость притягивания навыка <color=#FFD780FF>Клинок ветра</color> после его удерживания более 1 сек, а также увеличивает урон навыка на 40%.",
+      "id": "Meningkatkan kecepatan menarik <color=#FFD780FF>Gale Blade</color> setelah ditahan lebih dari 1 detik, dan meningkatkan 40% DMG yang diakibatkan.",
+      "th": "#เมื่อ{LAYOUT_MOBILE#แตะ}{LAYOUT_PC#กด}{LAYOUT_PS#กด} <color=#FFD780FF>Gale Blade</color> ค้างไว้เกิน 1 วินาที ความเร็วในการดึงดูดจะเพิ่มขึ้นและสร้างความเสียหายเพิ่มขึ้น 40%",
+      "vi": "Nhấn giữ <color=#FFD780FF>Gió Cuộn Kiếm</color> trong hơn 1s để tăng tốc độ kéo, sát thương tạo thành cũng tăng 40%."
+    },
+    "imgid": "constellation_1"
+  },
+  {
+    "title": {
+      "zhs": "守护众人的坚盾",
+      "zht": "守護眾人的堅盾",
+      "jp": "人々を守る盾",
+      "ko": "모든 이를 수호하는 방패",
+      "en": "People's Aegis",
+      "de": "Schild des Volkes",
+      "es": "Escudo del pueblo",
+      "fr": "Égide du peuple",
+      "pt": "Égide do Povo",
+      "ru": "Братский щит",
+      "id": "People's Aegis",
+      "th": "People's Aegis",
+      "vi": "Lá Khiên Bảo Vệ"
+    },
+    "description": {
+      "zhs": "琴获得元素晶球或元素微粒时，队伍中所有角色获得15%攻击速度和15%移动速度提升，持续15秒。",
+      "zht": "琴獲得元素晶球或元素微粒時，隊伍中所有角色獲得15%攻擊速度和15%移動速度提升，持續15秒。",
+      "jp": "ジンが元素オーブまたは元素粒子を獲得した時、チームにいる全てのキャラクターの移動速度+15%、攻撃速度+15%、継続時間15秒。",
+      "ko": "진이 원소 구슬 혹은 원소 입자 획득 시 파티 내 모든 캐릭터의 공격속도와 이동속도가 15% 증가한다. 지속 시간: 15초",
+      "en": "When Jean picks up an Elemental Orb/Particle, all party members have their Movement SPD and ATK SPD increased by 15% for 15s.",
+      "de": "Erhöht die Angriffs- und Bewegungs-GSW aller Truppenmitglieder, wenn Jean Elementarkristalle oder Elementarteilchen erhält, 15 s lang um je 15 %.",
+      "es": "Cuando Jean recoge un orbe o partícula elemental, aumenta la Vel. de Ataque y la Vel. Movimiento de todos los miembros del equipo en un 15% durante 15 s.",
+      "fr": "La VIT de déplacement et d'attaque de tous les personnages de l'équipe augmente de 15 % pendant 15 s lorsque Jean obtient un orbe ou une particule élémentaire.",
+      "pt": "Quando a Jean pega um Orbe/Partícula Elemental, todos os membros terão sua Veloc. Mov. e VEL de ATQ aumentados em 15% por 15s.",
+      "ru": "Когда Джинн получает Элементальную сферу или частицу, увеличивает скорость передвижения и атаки всех членов отряда на 15% в течение 15 сек.",
+      "id": "Meningkatkan 15% Movement SPD dan ATK SPD seluruh anggota party selama 15 detik saat Jean mengambil Elemental Orb atau Particle.",
+      "th": "เมื่อ Jean ได้รับลูกแก้วธาตุ หรืออณูธาตุ ตัวละครทั้งทีม จะได้รับความเร็วในการโจมตี เพิ่ม 15% และความเร็วในการเคลื่อนที่ เพิ่ม 15% เป็นเวลา 15 วินาที",
+      "vi": "Khi Jean nhận được Nguyên Tố Tinh Cầu hoặc Nguyên Tố Hạt Nhân, tất cả nhân vật trong đội tăng 15% tốc độ tấn công và 15% tốc độ di chuyển, kéo dài 15s."
+    },
+    "imgid": "constellation_2"
+  },
+  {
+    "title": {
+      "zhs": "西风吹拂之时",
+      "zht": "西風吹拂之時",
+      "jp": "西風が吹く時",
+      "ko": "서풍이 스칠 무렵",
+      "en": "When the West Wind Arises",
+      "de": "Wehen des Westwinds",
+      "es": "Cuando sopla el viento del oeste",
+      "fr": "Lorsque le vent d'ouest souffle",
+      "pt": "Quando o Vento do Oeste Sopra",
+      "ru": "Куда дует ветер",
+      "id": "When the West Wind Arises",
+      "th": "When the West Wind Arises",
+      "vi": "Khi Gió Tây Về"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>蒲公英之风</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>蒲公英之風</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>蒲公英の風</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>민들레 바람</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Dandelion Breeze</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Löwenzahnbrise</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Brisa de Dandelion</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Brise de pissenlit</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o nível da <color=#FFD780FF>Brisa de Dandelion</color> em 3.\nO nível máximo de elevação é 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Одуванчиковый бриз</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Dandelion Breeze</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Dandelion Breeze</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Gió Bồ Công Anh</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_3"
+  },
+  {
+    "title": {
+      "zhs": "蒲公英的国土",
+      "zht": "蒲公英的國土",
+      "jp": "蒲公英の国土",
+      "ko": "민들레의 국토",
+      "en": "Lands of Dandelion",
+      "de": "Reich des Löwenzahns",
+      "es": "Reino de Dandelion",
+      "fr": "Territoire des pissenlits",
+      "pt": "Terra dos Dandelions",
+      "ru": "Королевство Одуванчиков",
+      "id": "Lands of Dandelion",
+      "th": "Lands of Dandelion",
+      "vi": "Lãnh Thổ Bồ Công Anh"
+    },
+    "description": {
+      "zhs": "在<color=#FFD780FF>蒲公英之风</color>的领域内，所有敌人的<color=#80FFD7FF>风元素抗性</color>下降40%。",
+      "zht": "在<color=#FFD780FF>蒲公英之風</color>的領域內，所有敵人的<color=#80FFD7FF>風元素抗性</color>下降40%。",
+      "jp": "<color=#FFD780FF>蒲公英の風</color>のエリア内にいるすべての敵の<color=#80FFD7FF>風元素耐性</color>-40%。",
+      "ko": "<color=#FFD780FF>민들레 바람</color> 영역 내에서 모든 적의 <color=#80FFD7FF>바람 원소 내성</color>이 40% 감소한다",
+      "en": "Within the Field created by <color=#FFD780FF>Dandelion Breeze</color>, all opponents have their <color=#80FFD7FF>Anemo RES</color> decreased by 40%.",
+      "de": "Verringert den <color=#80FFD7FF>Anemo-WDS</color> aller Gegner im Wirkungsbereich von <color=#FFD780FF>Löwenzahnbrise</color> um 40 %.",
+      "es": "La <color=#80FFD7FF>RES Anemo</color> de todos los enemigos dentro del área de <color=#FFD780FF>Brisa de Dandelion</color> disminuye en un 40%.",
+      "fr": "La <color=#80FFD7FF>RÉS Anémo</color> des ennemis à l'intérieur du champ de <color=#FFD780FF>Brise de pissenlit</color> est réduite de 40 %.",
+      "pt": "Dentro do Campo criado pela <color=#FFD780FF>Brisa de Dandelion</color>, todos os inimigos têm sua <color=#80FFD7FF>RES Anemo</color> diminuída em 40%.",
+      "ru": "Понижает <color=#80FFD7FF>Анемо сопротивление</color> противников, находящихся в поле навыка <color=#FFD780FF>Одуванчиковый бриз</color>, на 40%.",
+      "id": "Mengurangi 40% <color=#80FFD7FF>Anemo RES</color> musuh yang berada di dalam lingkup area <color=#FFD780FF>Dandelion Breeze</color>.",
+      "th": "ภายในพื้นที่ของ <color=#FFD780FF>Dandelion Breeze</color> <color=#80FFD7FF> ความต้านทานลม</color> ของศัตรูทั้งหมดลดลง 40%",
+      "vi": "Trong vùng đất <color=#FFD780FF>Gió Bồ Công Anh</color>, <color=#80FFD7FF>Kháng Nguyên Tố Phong</color> của địch giảm 40%."
+    },
+    "imgid": "constellation_4"
+  },
+  {
+    "title": {
+      "zhs": "须臾一瞬的烈风",
+      "zht": "須臾一瞬的烈風",
+      "jp": "しばしの烈風",
+      "ko": "삽시간의 열풍",
+      "en": "Outbursting Gust",
+      "de": "Plötzlicher Windstoß",
+      "es": "Ráfaga explosiva",
+      "fr": "Le moment du vent violent",
+      "pt": "Rajada Explosiva",
+      "ru": "Шквальный ветер",
+      "id": "Outbursting Gust",
+      "th": "Outbursting Gust",
+      "vi": "Ngọn Gió Mạnh Thổi Qua"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>风压剑</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>風壓劍</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>風圧剣</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>풍압검</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Gale Blade</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Luftdruckschwert</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Filo de ventisca</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Épée de tourbillon</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o nível da <color=#FFD780FF>Espada do Temporal</color> em 3.\nO nível máximo de elevação é 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Клинок ветра</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Gale Blade</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Gale Blade</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Gió Cuộn Kiếm</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_5"
+  },
+  {
+    "title": {
+      "zhs": "恩眷万民的狮牙",
+      "zht": "恩眷萬民的獅牙",
+      "jp": "民を眷顧する獅子の牙",
+      "ko": "만민을 보살피는 사자의 이빨",
+      "en": "Lion's Fang, Fair Protector of Mondstadt",
+      "de": "Löwenzahn, Beschützer des Volkes",
+      "es": "Diente de León, fiel protectora de Mondstadt",
+      "fr": "Croc de Lion, le protecteur de Mondstadt",
+      "pt": "Presa do Leão, Protetor de Mondstadt",
+      "ru": "Рыцарь Львиный клык",
+      "id": "Lion's Fang, Fair Protector of Mondstadt",
+      "th": "Lion's Fang, Fair Protector of Mondstadt",
+      "vi": "Nanh Sư Tử Chăm Lo Muôn Dân!"
+    },
+    "description": {
+      "zhs": "在<color=#FFD780FF>蒲公英之风</color>的领域内，角色受到的伤害降低35%。\n离开领域后，这个效果会在承受3次攻击或10秒后消失。",
+      "zht": "在<color=#FFD780FF>蒲公英之風</color>的領域內，角色受到的傷害降低35%。\n離開領域後，這個效果會在承受3次攻擊或10秒後消失。",
+      "jp": "<color=#FFD780FF>蒲公英の風</color>のエリア内にいるキャラクターの受けるダメージ-35%。\nエリアから出た後、この効果は攻撃を3回受け、または10秒間経つとクリアされる。",
+      "ko": "<color=#FFD780FF>민들레 바람</color> 영역 내에서 캐릭터가 받는 피해가 35% 감소한다.\n영역을 벗어난 후 해당 효과는 3번 피격 혹은 10초 후 사라진다",
+      "en": "Incoming DMG is decreased by 35% within the Field created by <color=#FFD780FF>Dandelion Breeze</color>. Upon leaving the Dandelion Field, this effect lasts for 3 attacks or 10s.",
+      "de": "Verringert den im Wirkungsbereich von <color=#FFD780FF>Löwenzahnbrise</color> erlittenen Schaden um 35 %.\nDieser Effekt hält nach Verlassen dieses Bereichs noch für 3 erlittene Angriffe oder 10 s.",
+      "es": "Dentro del campo de <color=#FFD780FF>Brisa de Dandelion</color>, el daño recibido disminuye en un 35%. Al salir de él, el efecto dura 3 ataques más o 10 s.",
+      "fr": "Les DGT subis par les personnages dans le champ de <color=#FFD780FF>Brise de pissenlit</color> sont réduits de 35 %.\nAprès avoir quitté le champ, cet effet disparaît après avoir subi 3 attaques ou dans les 10 s.",
+      "pt": "Dano recebido é reduzido em 35% dentro da Área criada por <color=#FFD780FF>Brisa de Dandelion</color>. Após sair do Campo de Dandelion, este efeito dura por 3 ataques ou 10 segundos.",
+      "ru": "Уменьшает получаемый в поле навыка <color=#FFD780FF>Одуванчиковый бриз</color> урон на 35%.\nПосле ухода из поля одуванчиков данный эффект длится ещё 3 атаки или 10 сек.",
+      "id": "Mengurangi 35% DMG yang diterima saat berada di dalam <color=#FFD780FF>Dandelion Breeze</color>. Efek ini masih bertahan selama 3 serangan atau 10 detik setelah meninggalkan lingkup area skill.",
+      "th": "ภายในพื้นที่ของ <color=#FFD780FF>Dandelion Breeze</color> ความเสียหาย ที่ตัวละครได้รับจะลดลง 35%\nหลังออกจากพื้นที่แล้ว เอฟเฟกต์นี้จะหายไปหลังจาก ถูกโจมตีครบ 3 ครั้ง หรือเวลาผ่านไป 10 วินาที",
+      "vi": "Trong <color=#FFD780FF>Gió Bồ Công Anh</color> sát thương phải nhận giảm 35%.\nRời khỏi vùng đất, hiệu quả này sẽ biến mất sau 3 lần tấn công hoặc sau 10S."
+    },
+    "imgid": "constellation_6"
+  }
+]

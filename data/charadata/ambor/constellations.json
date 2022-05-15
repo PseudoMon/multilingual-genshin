@@ -1,0 +1,200 @@
+[
+  {
+    "title": {
+      "zhs": "一箭双丘丘！",
+      "zht": "一箭雙丘丘！",
+      "jp": "一挙双擒！",
+      "ko": "일석이츄츄!",
+      "en": "One Arrow to Rule Them All",
+      "de": "Zwei auf einen Streich!",
+      "es": "¡Una flecha para gobernarlos a todos!",
+      "fr": "Une flèche suffit !",
+      "pt": "Uma Flecha para Todos Governar",
+      "ru": "Двух зайцев...",
+      "id": "One Arrow to Rule Them All",
+      "th": "One Arrow to Rule Them All",
+      "vi": "Bắn Một Được Hai Hilichurl!"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>瞄准射击</color>时，会连续射出2支箭。第二支箭能造成原本20%的伤害。",
+      "zht": "<color=#FFD780FF>瞄準射擊</color>時，會連續射出兩支箭。第二支箭能造成原本20%的傷害。",
+      "jp": "<color=#FFD780FF>狙い撃ち</color>する時、矢を連続で2本放つ。2本目の矢は元の矢の20%のダメージを与える。",
+      "ko": "<color=#FFD780FF>조준 사격</color> 시 연속으로 2개의 화살을 쏜다. 두 번째 화살로 가하는 피해는 첫 번째 화살의 20%이다",
+      "en": "Fires 2 arrows per <color=#FFD780FF>Aimed Shot</color>. The second arrow deals 20% of the first arrow's DMG.",
+      "de": "Schießt nach dem <color=#FFD780FF>Zielen</color> 2 Pfeile ab und verursacht mit dem zweiten Schaden in Höhe von 20 % des ersten Pfeils.",
+      "es": "Lanza 2 flechas por cada <color=#FFD780FF>Disparo Preciso</color>. La segunda flecha inflige un 20% del daño de la primera flecha.",
+      "fr": "Tire 2 flèches consécutives à chaque <color=#FFD780FF>tir visé</color>. La seconde flèche inflige 20 % des DGT de la première.",
+      "pt": "Dispara 2 flechas a cada <color=#FFD780FF>Disparo com Mira</color>. A segunda flecha causa 20% do Dano da primeira flecha.",
+      "ru": "Во время <color=#FFD780FF>прицельной стрельбы</color> выпускает по две стрелы за выстрел. Вторая стрела наносит 20% от урона первой стрелы.",
+      "id": "Menembakkan 2 anak panah setiap <color=#FFD780FF>Serangan Membidik</color>. Anak panah kedua mengakibatkan DMG sebesar 20% dari DMG anak panah pertama.",
+      "th": "เมื่อ<color=#FFD780FF>เล็งโจมตี</color> จะยิงธนูออกไป 2 ดอก โดยที่ธนูดอกที่ 2 จะสร้างความเสียหายเท่ากับ 20% ของดอกแรก",
+      "vi": "Khi <color=#FFD780FF>ngắm bắn</color>, sẽ bắn ra 2 mũi tên liên tiếp. Mũi tên thứ hai tạo ra 20% sát thương so với sát thương gốc."
+    },
+    "imgid": "constellation_1"
+  },
+  {
+    "title": {
+      "zhs": "一触即发",
+      "zht": "一觸即發",
+      "jp": "一触即発",
+      "ko": "일촉즉발",
+      "en": "Bunny Triggered",
+      "de": "Manuelle Explosion",
+      "es": "Lanzamiento de Barón Bunny",
+      "fr": "Tout est prêt",
+      "pt": "Coelho Ativado",
+      "ru": "Зайчик активирован",
+      "id": "Bunny Triggered",
+      "th": "Bunny Triggered",
+      "vi": "Thỏ Xông Lên"
+    },
+    "description": {
+      "zhs": "兔兔伯爵进行了全新改良！蓄力完成的瞄准射击命中兔兔伯爵脚部时，能直接引爆兔兔伯爵…\n通过这种方式主动引爆兔兔伯爵时，会额外造成200%伤害。",
+      "zht": "兔兔伯爵進行了全新改良！蓄力完成的瞄準射擊命中兔兔伯爵腳部時，能直接引爆兔兔伯爵…\n透過這種方式主動引爆兔兔伯爵時，會額外造成200%傷害。",
+      "jp": "ウサギ伯爵が改良された！フルチャージの狙い撃ちがウサギ伯爵の足に命中するとウサギ伯爵を直接起爆させることができる。\nこの方法で自らウサギ伯爵を起爆した場合、追加で200%のダメージを与える。",
+      "ko": "토끼 백작 완전 업그레이드! 풀차지의 조준 사격을 토끼 백작의 발에 명중하면 토끼 백작을 바로 폭발시킬 수 있다….\n이러한 방식으로 폭발시키면 200%의 추가 피해를 준다",
+      "en": "Baron Bunny, new and improved! Hitting Baron Bunny's foot with a fully-charged Aimed Shot manually detonates it.\nExplosion via manual detonation deals 200% additional DMG.",
+      "de": "Graf von Hoppel, vollständig überarbeitet! Lässt Graf von Hoppel bei einem Treffer auf die Füße mit einem voll aufgeladenen gezielten Schuss explodieren.\nVerursacht bei manueller Explosion auf diese Weise 200 % zusätzlichen Schaden.",
+      "es": "¡Un nuevo y mejorado Barón Bunny! Atacarle a los pies con un Disparo Preciso cargado hace que detone inmediatamente.\nExplotarlo de esta manera hará que inflija un 200% de daño adicional.",
+      "fr": "Une toute nouvelle modification du Baron Lapinou ! Un tir visé à pleine charge aux pieds du Baron Lapinou, et ce dernier explose directement...\nCe type d'explosion inflige 200 % de DGT supplémentaires.",
+      "pt": "Barão Coelho, novo e melhorado! Atingir o pé do Barão Coelho com um Tiro com Mira completamente carregado irá manualmente detoná-lo.\nExplosões feitas de maneira manual causam 200% de Dano adicional.",
+      "ru": "Барон Зайчик, свежий и навороченный! Попадание по его ногам полностью заряженным прицельным выстрелом заставляет его моментально взорваться.\nТакой взрыв наносит дополнительные 200% урона.",
+      "id": "Baron Bunny, kini hadir lebih fantastis! Menyerang kakinya dengan Serangan Membidik penuh akan meledakkan Baron Bunny secara manual.\nLedakan manual mengakibatkan 200% DMG tambahan.",
+      "th": "Baron Bunny ได้ทำการปรับปรุงใหม่! เมื่อชาร์จให้เต็มและเล็งยิงไปที่บริเวณเท้าของ Baron Bunny จะทำให้เกิดการระเบิดทันที...\nเมื่อทำให้ Baron Bunny เกิดการระเบิดด้วยวิธีนี้ จะสร้างความเสียหายเพิ่มเติม 200%",
+      "vi": "Bá Tước Thỏ bản cải tiến! Khi hoàn thành tụ lực ngắm bắn trúng chân Bá Tước Thỏ, sẽ gây nổ ngay.\nChủ động làm nổ Bá Tước Thỏ, sẽ gây thêm 200% sát thương."
+    },
+    "imgid": "constellation_2"
+  },
+  {
+    "title": {
+      "zhs": "烧起来啦！",
+      "zht": "燒起來啦！",
+      "jp": "燃やせ！",
+      "ko": "타오르기 시작했어!",
+      "en": "It Burns!",
+      "de": "Das wird brennen!",
+      "es": "¡Quémalo todo!",
+      "fr": "Ça brûle !",
+      "pt": "Isso, Queima!",
+      "ru": "Оно горит!",
+      "id": "It Burns!",
+      "th": "It Burns!",
+      "vi": "Cháy Lên Nào!"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>箭雨</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>箭雨</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>矢の雨</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>화살비</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Fiery Rain</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Pfeilregen</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Lluvia ardiente</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Pluie de flèches</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o nível da <color=#FFD780FF>Chuva Ardente</color> em 3.\nO nível máximo de elevação é 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Огненный дождь</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Fiery Rain</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Fiery Rain</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Mưa Tên</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_3"
+  },
+  {
+    "title": {
+      "zhs": "才不是普通的布偶",
+      "zht": "才不是普通的布偶",
+      "jp": "ただの人形じゃない",
+      "ko": "보통 봉제 인형일 리가 없잖아",
+      "en": "It's Not Just Any Doll...",
+      "de": "Nicht einfach nur eine Puppe",
+      "es": "No es un muñeco cualquiera...",
+      "fr": "Ce n'est pas n'importe quelle poupée...",
+      "pt": "Não É Uma Boneca Qualquer...",
+      "ru": "Это не просто кукла",
+      "id": "It's Not Just Any Doll...",
+      "th": "It's Not Just Any Doll...",
+      "vi": "Không Phải Con Rối Thường"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>爆弹玩偶</color>的冷却时间减少20%，并增加1次可使用次数。",
+      "zht": "<color=#FFD780FF>爆彈玩偶</color>的冷卻時間減少20%，並增加1次可使用次數。",
+      "jp": "<color=#FFD780FF>爆弾人形</color>のクールタイム-20%、使用可能回数+1。",
+      "ko": "<color=#FFD780FF>폭탄 인형</color>의 재사용 대기시간이 20% 감소하고 사용 가능 횟수가 1회 추가된다",
+      "en": "Decreases <color=#FFD780FF>Explosive Puppet</color>'s CD by 20%. Adds 1 additional charge.",
+      "de": "Verkürzt die Abklingzeit von <color=#FFD780FF>Sprengpuppe</color> um 20 % und ermöglicht 1 weitere Anwendung.",
+      "es": "Reduce el TdE de <color=#FFD780FF>Marioneta explosiva</color> en un 20%, y puede ser utilizada 1 vez más.",
+      "fr": "Réduit le TdR de <color=#FFD780FF>Poupée explosive</color> de 20 % et permet de l'utiliser 1 fois supplémentaire.",
+      "pt": "Diminui o Tempo de Recarga da <color=#FFD780FF>Marionete Explosiva</color> em 20% e adiciona 1 carga adicional.",
+      "ru": "Уменьшает время отката навыка <color=#FFD780FF>Барон Зайчик</color> на 20%. Также даёт одну дополнительную куклу.",
+      "id": "Mengurangi 20% CD <color=#FFD780FF>Explosive Puppet</color>. Serta menambah 1 kali jumlah penggunaan.",
+      "th": "ลดเวลาคูลดาวน์ของ <color=#FFD780FF>Explosive Puppet</color> ลง 20% และเพิ่มจำนวนการใช้ 1 ครั้ง",
+      "vi": "CD của <color=#FFD780FF>Con Rối Nổ</color> giảm 20%, và tăng thêm 1 lần sử dụng."
+    },
+    "imgid": "constellation_4"
+  },
+  {
+    "title": {
+      "zhs": "是兔兔伯爵！",
+      "zht": "是兔兔伯爵！",
+      "jp": "ウサギ伯爵だよ！",
+      "ko": "토끼 백작이야!",
+      "en": "It's Baron Bunny!",
+      "de": "Häschen hüpf!",
+      "es": "¡Es Barón Bunny!",
+      "fr": "Baron Lapinou !",
+      "pt": "É o Barão Coelho!",
+      "ru": "Взрывная кукла!",
+      "id": "It's Baron Bunny!",
+      "th": "It's Baron Bunny!",
+      "vi": "Là Bá Tước Thỏ!"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>爆弹玩偶</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>爆彈玩偶</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>爆弾人形</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>폭탄 인형</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Explosive Puppet</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Sprengpuppe</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Marioneta explosiva</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Poupée explosive</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o nível da <color=#FFD780FF>Marionete Explosiva</color> em 3.\nO nível máximo de elevação é 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Барон Зайчик</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Explosive Puppet</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Explosive Puppet</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Con Rối Nổ</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_5"
+  },
+  {
+    "title": {
+      "zhs": "疾如野火",
+      "zht": "疾如野火",
+      "jp": "野火の如く",
+      "ko": "맹렬한 불길",
+      "en": "Wildfire",
+      "de": "Wildes Feuer",
+      "es": "Fuego salvaje",
+      "fr": "Feu sauvage",
+      "pt": "Fogo Vivo",
+      "ru": "Горящие пятки",
+      "id": "Wildfire",
+      "th": "Wildfire",
+      "vi": "Nhanh Như Lửa"
+    },
+    "description": {
+      "zhs": "使用<color=#FFD780FF>箭雨</color>后的10秒内，队伍中所有角色的移动速度提升15%，攻击力提升15%。",
+      "zht": "使用<color=#FFD780FF>箭雨</color>後的10秒內，隊伍中所有角色的移動速度提升15%，攻擊力提升15%。",
+      "jp": "<color=#FFD780FF>矢の雨</color>を発動した10秒間、チーム全員の移動速度+15%、攻撃力+15%。",
+      "ko": "<color=#FFD780FF>화살비</color> 발동 후 10초 동안 파티 내 모든 캐릭터의 이동속도가 15%, 공격력이 15% 증가한다",
+      "en": "<color=#FFD780FF>Fiery Rain</color> increases all party members' Movement SPD by 15% and ATK by 15% for 10s.",
+      "de": "Erhöht die Bewegungs-GSW aller Truppenmitglieder bei Anwendung von <color=#FFD780FF>Pfeilregen</color> 10 s lang um 15 % und den ANG um 15 %.",
+      "es": "<color=#FFD780FF>Lluvia ardiente</color> aumenta la Vel. Movimiento de todos los miembros del equipo en un 15% y su ATQ en un 15% durante 10 s.",
+      "fr": "<color=#FFD780FF>Pluie de flèches</color> augmente la VIT de déplacement de tous les personnages de l'équipe de 15 % et leur ATQ de 15 % pendant 10 s.",
+      "pt": "A <color=#FFD780FF>Chuva Ardente</color> aumenta a Veloc. Mov. da equipe toda em 15% e o ATQ em 15% por 10s.",
+      "ru": "Использование навыка <color=#FFD780FF>Огненный дождь</color> увеличивает скорость передвижения всех членов отряда и их атаку на 15% в течение 10 сек.",
+      "id": "<color=#FFD780FF>Fiery Rain</color> meningkatkan 15% Movement SPD dan 15% ATK seluruh anggota party selama 10 detik.",
+      "th": "ภายใน 10 วินาทีหลังจากที่ใช้ <color=#FFD780FF>Fiery Rain</color> ความเร็วใน การเคลื่อนที่ของตัวละครทั้งหมดในทีมจะเพิ่มขึ้น 15% และ พลังโจมตีเพิ่มขึ้น 15%",
+      "vi": "Sau khi sử dụng <color=#FFD780FF>Mưa Tên</color>, 10s tiếp theo tăng 15% tốc độ di chuyển của tất cả thành viên trong đội, tấn công tăng 15%."
+    },
+    "imgid": "constellation_6"
+  }
+]

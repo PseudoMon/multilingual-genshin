@@ -12,18 +12,22 @@ export async function loader({ params }) {
   const charaId = params.chara
   const talents = await getCharaTalents(charaId)
 
-  return { talents }
+  return { talents, charaId }
 }
 
 export default function TalentsPage() {
   const { activeLang } = useOutletContext()
-  const { talents } = useLoaderData()
+  const { talents, charaId } = useLoaderData()
 
   return (
     <ul>
-      { talents.map(talent => (
+      { talents.map((talent, talenti) => (
         <li key={ talent.title["en"] }>
-          <CharaTalentCard talent={ talent } lang={ activeLang }/>
+          <CharaTalentCard 
+            talent={ talent } 
+            lang={ activeLang } 
+            imgfile={ `${charaId}/talent_${talenti}.webp` }
+          />
         </li>
       )) }
     </ul>

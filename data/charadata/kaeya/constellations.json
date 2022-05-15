@@ -1,0 +1,200 @@
+[
+  {
+    "title": {
+      "zhs": "卓越的血脉",
+      "zht": "卓越的血脈",
+      "jp": "優れた血筋",
+      "ko": "걸출한 혈통",
+      "en": "Excellent Blood",
+      "de": "Brillantes Blut",
+      "es": "Sangre excelente",
+      "fr": "Lignée de l'excellence",
+      "pt": "Sangue Excelente",
+      "ru": "Изморозь",
+      "id": "Excellent Blood",
+      "th": "Excellent Blood",
+      "vi": "Huyết Mạch Ưu Việt"
+    },
+    "description": {
+      "zhs": "对受到<color=#99FFFFFF>冰元素</color>影响的敌人，凯亚的普通攻击与重击暴击率提升15%。",
+      "zht": "對受到<color=#99FFFFFF>冰元素</color>影響的敵人，凱亞的普通攻擊與重擊的暴擊率提升15%。",
+      "jp": "<color=#99FFFFFF>氷元素</color>の影響を受けた敵に対して、ガイアの通常攻撃と重撃の会心率+15%。",
+      "ko": "<color=#99FFFFFF>얼음 원소</color>의 영향을 받은 적을 공격 시 일반 공격과 강공격의 치명타 확률이 15% 증가한다",
+      "en": "The CRIT Rate of Kaeya's Normal and Charge Attacks against opponents affected by <color=#99FFFFFF>Cryo</color> is increased by 15%.",
+      "de": "Erhöht die KT von Kaeyas Standardangriffen und heftigen Schlägen gegenüber von <color=#99FFFFFF>Kryo</color>-Effekten betroffenen Gegnern um 15 %.",
+      "es": "La Prob. CRIT del Ataque Normal y Cargado de Kaeya aumentan en un 15% contra enemigos afectados por <color=#99FFFFFF>Cryo</color>.",
+      "fr": "Le taux CRIT des attaques normales et chargées de Kaeya contre les ennemis affectés par <color=#99FFFFFF>Cryo</color> augmente de 15 %.",
+      "pt": "A Taxa Crítica do Ataque Normal e Ataque Carregado de Kaeya contra os inimigos afetados por <color=#99FFFFFF>Cryo</color> aumentam em 15%.",
+      "ru": "Увеличивает шанс крит. попадания обычной и заряженной атаки Кэйи по противникам с эффектом <color=#99FFFFFF>Крио</color> на 15%.",
+      "id": "CRIT Rate dari Normal dan Charged Attack milik Kaeya terhadap musuh yang terkena efek <color=#99FFFFFF>Cryo</color> meningkat sebesar 15%.",
+      "th": "เมื่อเผชิญหน้ากับศัตรูที่ได้รับ ผลกระทบจาก <color=#99FFFFFF>ธาตุน้ำแข็ง</color> อัตราคริของการโจมตีปกติ และชาร์จโจมตีของ Kaeya จะเพิ่มขึ้น 15%",
+      "vi": "Đối với địch bị ảnh hưởng bởi <color=#99FFFFFF>Nguyên Tố Băng</color>, tấn công thường và tỷ lệ trọng kích bạo kích của Kaeya tăng 15%."
+    },
+    "imgid": "constellation_1"
+  },
+  {
+    "title": {
+      "zhs": "无尽的霜舞",
+      "zht": "無盡的霜舞",
+      "jp": "無尽なる霜舞",
+      "ko": "끝없는 서리춤",
+      "en": "Never-Ending Performance",
+      "de": "Endlose Vorführung",
+      "es": "Actuación eterna",
+      "fr": "Danse givrée éternelle",
+      "pt": "Apresentação Eterna",
+      "ru": "Бесконечный вальс",
+      "id": "Never-Ending Performance",
+      "th": "Never-ending Performance",
+      "vi": "Vũ Điệu Trắng Vô Tận"
+    },
+    "description": {
+      "zhs": "在<color=#FFD780FF>凛冽轮舞</color>的持续时间内击败敌人时，持续时间延长2.5秒，最多不会超过15秒。",
+      "zht": "在<color=#FFD780FF>凜冽輪舞</color>的持續時間內擊敗敵人時，持續時間延長2.5秒，最多不會超過15秒。",
+      "jp": "<color=#FFD780FF>凛冽なる輪舞</color>継続中に敵を撃破した時、継続時間+2.5秒。最大15秒まで。",
+      "ko": "<color=#FFD780FF>살을 에는 윤무</color>의 지속 시간 내에 적을 처치할 시 지속 시간이 2.5초 연장된다. 최대 지속 시간: 15초",
+      "en": "Every time <color=#FFD780FF>Glacial Waltz</color> defeats an opponent during its duration, its duration is increased by 2.5s, up to a maximum of 15s.",
+      "de": "Verlängert die Dauer von <color=#FFD780FF>Kreis aus Eis</color> beim Besiegen von Gegnern während der Wirkungsdauer dieser Fähigkeit um 2,5 s und insgesamt um bis zu 15 s.",
+      "es": "Al derrotar a un enemigo con <color=#FFD780FF>Vals gélido</color>, aumenta su duración en 2.5 s hasta un máximo de 15 s.",
+      "fr": "Chaque ennemi éliminé pendant la durée de <color=#FFD780FF>Valse glaciale</color> prolonge la durée de la compétence de 2,5 s. Cumul max : 15 s.",
+      "pt": "Cada <color=#FFD780FF>Valsa Glacial</color> que derrotar um inimigo aumenta sua duração em 2.5s por 15s.",
+      "ru": "Каждый побеждённый во время длительности навыка <color=#FFD780FF>Ледниковый вальс</color> враг увеличивает его длительность на 2,5 сек. Макс. 15 сек.",
+      "id": "Setiap kali sebuah musuh dikalahkan dalam durasi <color=#FFD780FF>Glacial Waltz</color>, durasinya meningkat 2,5 detik, sampai maksimum 15 detik.",
+      "th": "ในช่วงเวลาที่ใช้ <color=#FFD780FF>Glacial Waltz</color> เมื่อกำจัดศัตรู ระยะเวลาต่อเนื่องของมัน จะเพิ่มขึ้น 2.5 วินาที และเพิ่มได้มากสุดไม่เกิน 15 วินาที",
+      "vi": "Trong thời gian có <color=#FFD780FF>Vũ Điệu Băng Giá</color>, nếu đánh bại địch sẽ cộng thêm 2,5s, tối đa 15s."
+    },
+    "imgid": "constellation_2"
+  },
+  {
+    "title": {
+      "zhs": "凛冽的冰戏",
+      "zht": "凜冽的冰戲",
+      "jp": "凛冽なる戯れ",
+      "ko": "살을 에는 얼음놀이",
+      "en": "Dance of Frost",
+      "de": "Bitterkaltes Schauspiel",
+      "es": "Baile de escarcha",
+      "fr": "Ébats glacials",
+      "pt": "Dança do Gelo",
+      "ru": "Танец холода",
+      "id": "Dance of Frost",
+      "th": "Dance of Frost",
+      "vi": "Vở Kịch Băng Giá"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>霜袭</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>霜襲</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>霜の襲撃</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>서리 엄습</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Frostgnaw</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Kälteatem</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Golpe de escarcha</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Attaque givrée</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o nível do <color=#FFD780FF>Mordida Congelante</color> em 3.\nO nível máximo de elevação é 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Выпад холода</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Frostgnaw</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Frostgnaw</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Tuyết Tập Kích</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_3"
+  },
+  {
+    "title": {
+      "zhs": "极寒的轻吻",
+      "zht": "極寒的輕吻",
+      "jp": "極寒の口付け",
+      "ko": "차가운 키스",
+      "en": "Frozen Kiss",
+      "de": "Eiskalter Kuss",
+      "es": "Beso congelado",
+      "fr": "Baiser glacé",
+      "pt": "Beijo Congelante",
+      "ru": "Поцелуй холода",
+      "id": "Frozen Kiss",
+      "th": "Frozen Kiss",
+      "vi": "Nụ Hôn Giá Lạnh"
+    },
+    "description": {
+      "zhs": "凯亚的生命值低于20%时自动触发：\n生成一个伤害吸收量等于生命值上限30%的护盾，持续20秒。\n该护盾对<color=#99FFFFFF>冰元素伤害</color>有250%的吸收效果。\n该效果每60秒只能触发一次。",
+      "zht": "凱亞的生命值低於20%時自動觸發：\n產生一個傷害吸收量等於生命值上限30%的護盾，持續20秒。\n該護盾對<color=#99FFFFFF>冰元素傷害</color>有250%的吸收效果。\n該效果每60秒只能觸發一次。",
+      "jp": "ガイアのHPが20%未満の時、下記の効果が発動される。\nダメージ吸収量がHP上限の30%に値するシールドを生成する。持続時間20秒。\nこのシールドは<color=#99FFFFFF>氷元素ダメージ</color>に対して250%の吸収効果がある。\nこの効果は60秒毎に1回のみ発動可能。",
+      "ko": "케이아의 HP가 20% 미만일 때 자동으로 발동한다:\nHP 최대치의 30%에 해당하는 피해를 흡수하는 보호막을 생성한다. 지속 시간: 20초.\n이 보호막은 <color=#99FFFFFF>얼음 원소 피해</color>에 대해 250%의 흡수 효과가 있다.\n해당 효과는 60초마다 1회만 발동한다",
+      "en": "Triggers automatically when Kaeya's HP falls below 20%:\nCreates a shield that absorbs damage equal to 30% of Kaeya's Max HP. Lasts for 20s.\nThis shield absorbs <color=#99FFFFFF>Cryo DMG</color> with 250% efficiency.\nCan only occur once every 60s.",
+      "de": "Wird automatisch ausgelöst, wenn Kaeya weniger als 20 % LP hat:\nErschafft einen Schutzschild mit einer Stärke von 30 % der max. LP, hält 20 s.\nHält bei <color=#99FFFFFF>Kryo-Schaden</color> 250 % ab.\n60 s Abklingzeit.",
+      "es": "Cuando la Vida de Kaeya cae por debajo del 20%:\n·Genera un escudo que absorbe daño igual al 30% de su Vida Máx. durante 20 s.\n·El escudo tiene un efecto de absorción de 250% de <color=#99FFFFFF>Daño Cryo</color>.\nSolo puede ocurrir una vez cada 60 s.",
+      "fr": "Kaeya génère un bouclier lorsque ses PV sont inférieurs à 20 %.\nLe bouclier absorbe une quantité de DGT équivalant à 30 % des PV max et dure 20 s.\nLe bouclier est efficace à 250 % contre les <color=#99FFFFFF>DGT Cryo</color>.\nCet effet peut être déclenché une fois toutes les 60 s.",
+      "pt": "Ativa automaticamente quando a Vida de Kaeya cai para menos de 20%.\nCria um escudo que absorve Dano igual a 30% da Vida Máxima de Kaeya. Dura 20 segundos.\nEsse escudo absorve 250% do <color=#99FFFFFF>Dano Cryo</color> mais eficientemente. Pode ocorrer apenas uma vez a cada 60 segundos.",
+      "ru": "Активируется, когда HP Кэйи падает ниже 20%:\nСоздаёт щит, в течение 20 сек. поглощающий урон, равный 30% от макс. HP Кэйи.\n<color=#99FFFFFF>Крио урон</color> поглощается на 250% эффективнее.\nМожет возникнуть раз в 60 сек.",
+      "id": "Terpicu secara otomatis saat HP Kaeya kurang dari 20%:\nMembuat perisai yang menahan DMG setara dengan 30% Max HP Kaeya. Berlangsung selama 20 detik.\nPerisai ini menahan <color=#99FFFFFF>Cryo DMG</color> dengan efisiensi 250%.\nTerpicu setiap 60 detik.",
+      "th": "เมื่อพลังชีวิตของ Kaeya ต่ำกว่า 20% :\nจะสร้างโล่ที่สามารถ ดูดซับความเสียหายได้ 30% ของพลังชีวิตสูงสุดเป็นเวลา 20 วินาที\nโล่ป้องกันนี้มีเอฟเฟกต์การดูดซับ<color=#99FFFFFF>ความเสียหายน้ำแข็ง</color> 250%\nเอฟเฟกต์นี้สามารถใช้ได้ หนึ่งครั้งในทุก 60 วินาที",
+      "vi": "Tự động kích hoạt khi HP của Kaeya dưới 20%.\nTạo thành khiên hấp thụ sát thương bằng 30% giới hạn HP, kéo dài 20s.\nKhiên có hiệu quả hấp thu 250% <color=#99FFFFFF>sát thương Nguyên Tố Băng</color>.\nHiệu quả này mỗi 60s chỉ thi triển 1 lần."
+    },
+    "imgid": "constellation_4"
+  },
+  {
+    "title": {
+      "zhs": "至冷的拥抱",
+      "zht": "至冷的擁抱",
+      "jp": "冷たい抱擁",
+      "ko": "차가운 포옹",
+      "en": "Frostbiting Embrace",
+      "de": "Frostige Umarmung",
+      "es": "Abrazo helado",
+      "fr": "Étreinte glaciale",
+      "pt": "Abraço Congelante",
+      "ru": "Объятья холода",
+      "id": "Frostbiting Embrace",
+      "th": "Frostbiting Embrace",
+      "vi": "Cái Ôm Lạnh Giá"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>凛冽轮舞</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>凜冽輪舞</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>凛冽なる輪舞</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>살을 에는 윤무</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Glacial Waltz</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Kreis aus Eis</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Vals gélido</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Valse glaciale</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o nível do <color=#FFD780FF>Valsa Glacial</color> em 3.\nO nível máximo de elevação é 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Ледниковый вальс</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Glacial Waltz</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Glacial Waltz</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Vũ Điệu Băng Giá</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_5"
+  },
+  {
+    "title": {
+      "zhs": "轮旋的冰凌",
+      "zht": "輪旋的冰淩",
+      "jp": "輪旋の氷",
+      "ko": "회전하는 얼음",
+      "en": "Glacial Whirlwind",
+      "de": "Kreisender Eiszapfen",
+      "es": "Torbellino helado",
+      "fr": "Tourbillon glacial",
+      "pt": "Redemoinho Glacial",
+      "ru": "Ледниковый вихрь",
+      "id": "Glacial Whirlwind",
+      "th": "Glacial Whirlwind",
+      "vi": "Vòng Tròn Băng Giá"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>凛冽轮舞</color>会产生一个额外的寒冰之棱，并在施放时返还15点元素能量。",
+      "zht": "<color=#FFD780FF>凜冽輪舞</color>會產生一個額外的寒冰之棱，並在施放時歸還15點元素能量。",
+      "jp": "<color=#FFD780FF>凛冽なる輪舞</color>の氷柱が1本追加され、発動時に元素エネルギーが15回復する。",
+      "ko": "<color=#FFD780FF>살을 에는 윤무</color>의 얼음 기둥 1개가 추가로 생성되고 발동 시 원소 에너지를 15pt 반환한다",
+      "en": "<color=#FFD780FF>Glacial Waltz</color> will generate 1 additional icicle, and will regenerate 15 Energy when cast.",
+      "de": "<color=#FFD780FF>Kreis aus Eis</color> erschafft einen zusätzlichen Eiszapfen und gibt bei Anwendung 15 Punkte Elementarenergie zurück.",
+      "es": "<color=#FFD780FF>Vals gélido</color> produce 1 carámbano adicional y regenera 15 pts. de Energía Elemental al ser lanzado.",
+      "fr": "Génère une stalactite supplémentaire pendant <color=#FFD780FF>Valse glaciale</color> et restaure 15 pts d'énergie élémentaire.",
+      "pt": "A <color=#FFD780FF>Valsa Glacial</color> irá gerar 1 Ponta de Gelo adicional, e irá retornar 15 de Energia quando lançada.",
+      "ru": "Использование навыка <color=#FFD780FF>Ледниковый вальс</color> создаёт одну дополнительную льдинку, и при активации восстанавливает 15 ед. энергии.",
+      "id": "<color=#FFD780FF>Glacial Waltz</color> mengeluarkan 1 es tambahan, dan memulihkan 15 Energy saat skill digunakan.",
+      "th": "<color=#FFD780FF>Glacial Waltz</color> จะสร้างคมมีดน้ำแข็งเพิ่มขึ้นมาหนึ่งเล่ม และในตอนที่ใช้งาน จะคืนพลังงานธาตุ 15 หน่วย",
+      "vi": "<color=#FFD780FF>Vũ Điệu Băng Giá</color> sẽ tạo ra thêm 1 nhũ băng lạnh giá, đồng thời hồi 15 điểm Năng Lượng Nguyên Tố khi thi triển."
+    },
+    "imgid": "constellation_6"
+  }
+]

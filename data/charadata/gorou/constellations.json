@@ -1,0 +1,200 @@
+[
+  {
+    "title": {
+      "zhs": "犬奔·疾如风",
+      "zht": "犬奔·疾如風",
+      "jp": "犬瞬·疾きこと風の如く",
+      "ko": "달리는 강아지·바람처럼 빠르게",
+      "en": "Rushing Hound: Swift as the Wind",
+      "de": "Laufender Hund – Schnell wie der Wind",
+      "es": "Velocidad de sabueso: Raudo como el viento",
+      "fr": "Vivacité canine : Célérité du vent",
+      "pt": "Pegureiro Veloz: Rápido como o Vento",
+      "ru": "Бег собаки: Скорость ветра",
+      "id": "Rushing Hound: Swift as the Wind",
+      "th": "Rushing Hound: Swift as the Wind",
+      "vi": "Chạy: Nhanh Nhẹn Như Gió"
+    },
+    "description": {
+      "zhs": "处于五郎自己的<color=#FFD780FF>大将旗指物</color>或<color=#FFD780FF>大将威仪</color>领域中的当前场上角色（除了五郎自己）对敌人造成岩元素伤害后，五郎自己的<color=#FFD780FF>犬坂吠吠方圆阵</color>冷却时间减少2秒。\n该效果每10秒至多触发一次。",
+      "zht": "處於五郎自己的<color=#FFD780FF>大將旗指物</color>或<color=#FFD780FF>大將威儀</color>領域中的目前場上角色（除了五郎自己）對敵人造成岩元素傷害後，五郎自己的<color=#FFD780FF>犬坂吠吠方圓陣</color>冷卻時間減少2秒。\n該效果每10秒至多觸發一次。",
+      "jp": "ゴロー自身による<color=#FFD780FF>大将の旗指物</color>または<color=#FFD780FF>大将威儀</color>の領域にいるフィールド上キャラクター（ゴロー自身を除く）が敵に岩元素ダメージを与えると、ゴロー自身の<color=#FFD780FF>犬坂の遠吠え方円陣</color>のクールタイム-2秒。\nこの効果は10秒毎に1回のみ発動可能。",
+      "ko": "고로가 생성한 <color=#FFD780FF>대장의 깃발</color> 혹은 <color=#FFD780FF>대장의 위용</color> 영역 안에 있는 필드 위 캐릭터(고로 자신을 제외)가 적에게 바위 원소 피해를 가하면, 고로의 <color=#FFD780FF>이누자카 멍멍 방원진</color> 재사용 대기시간이 2초 감소한다.\n해당 효과는 10초마다 최대 1번 발동된다",
+      "en": "When characters (other than Gorou) within the AoE of Gorou's <color=#FFD780FF>General's War Banner</color> or <color=#FFD780FF>General's Glory</color> deal Geo DMG to opponents, the CD of Gorou's <color=#FFD780FF>Inuzaka All-Round Defense</color> is decreased by 2s.\nThis effect can occur once every 10s.",
+      "de": "Verkürzt, wenn aktuelle Figuren (außer Gorou selbst) im Wirkungsbereich von Gorous <color=#FFD780FF>Generalbanner</color> oder <color=#FFD780FF>Würde des Generals</color> Gegnern Geo-Schaden zufügen, die Abklingzeit von Gorous <color=#FFD780FF>Inuzuka-Allzweckaufstellung</color> um 2 s.\n10 s Abklingzeit.",
+      "es": "Cuando el personaje en uso (a excepción de Gorou) inflige Daño Geo contra un enemigo mientras está dentro de las áreas del <color=#FFD780FF>estandarte del general</color> o de <color=#FFD780FF>gloria del general</color>, el TdE de <color=#FFD780FF>Defensa integral canina</color> de Gorou se reduce en 2 s.\nEste efecto solo puede ocurrir una vez cada 10 s.",
+      "fr": "Lorsqu'un personnage déployé (autre que Gorou) dans la zone d'effet de la <color=#FFD780FF>bannière de général</color> ou du champ de <color=#FFD780FF>prestige de général</color> créés par Gorou inflige des DGT Géo à un ennemi, le TdR de <color=#FFD780FF>Défense intégrale d'Inuzaka</color> de Gorou diminue de 2 s.\nCet effet peut être déclenché une fois toutes les 10 s.",
+      "pt": "Quando um personagem (que não seja o Gorou) causar Dano Geo dentro da AdE do <color=#FFD780FF>Estandarte do General</color> ou da <color=#FFD780FF>Glória do General</color> criado por Gorou, o Tempo de Recarga da <color=#FFD780FF>Defesa Concentrada Inuzaka</color> de Gorou é reduzido em 2s.\nEste efeito pode ocorrer uma vez a cada 10s.",
+      "ru": "Когда активный персонаж (не Горо), находясь под действием созданного самим Горо <color=#FFD780FF>Боевого штандарта генерала</color> или области <color=#FFD780FF>Влияния генерала</color>, наносит Гео урон врагу, время отката <color=#FFD780FF>Всесторонней защиты Инудзаки</color> Горо снижается на 2 сек.\nЭффект возникает раз в 10 сек.",
+      "id": "Setelah Karakter aktif (selain Gorou sendiri) mengakibatkan Geo DMG saat berada dalam Area <color=#FFD780FF>General's War-Banner</color> atau <color=#FFD780FF>General's Glory</color> ciptaan Gorou sendiri, durasi CD <color=#FFD780FF>Inuzaka All-Round Defense</color> milik Gorou akan berkurang 2 detik.\nEfek ini dapat terpicu setiap 10 detik.",
+      "th": "หลังจากที่ตัวละคร (นอกจากตัวของ Gorou เอง) ที่อยู่ในพื้นที่ของ <color=#FFD780FF>General's War-Banner</color> หรือ <color=#FFD780FF>General's Glory</color> ของตัวของ Gorou เอง สร้างความเสียหายหินแก่ศัตรู ช่วงเวลาคูลดาวน์ของ <color=#FFD780FF>Inuzaka All-Round Defense</color> ของตัวของ Gorou เอง จะลดลง 2 วินาที\nเอฟเฟกต์นี้จะเกิดขึ้นได้มากสุดหนึ่งครั้ง ในทุก 10 วินาที",
+      "vi": "Khi nhân vật trong trận hiện tại (trừ Gorou) đứng trong khu vực <color=#FFD780FF>Đại Tướng Chiến Kỳ</color> hoặc <color=#FFD780FF>Uy Nghi Đại Tướng</color> gây Sát Thương Nguyên Tố Nham cho kẻ địch, sẽ giảm 2s CD kỹ năng <color=#FFD780FF>Trận Hình Phòng Thủ - Inuzaka</color> của Gorou.\nHiệu quả này mỗi 10s tối đa kích hoạt 1 lần."
+    },
+    "imgid": "constellation_1"
+  },
+  {
+    "title": {
+      "zhs": "犬坐·稳如钟",
+      "zht": "犬坐·穩如鐘",
+      "jp": "犬座·確固たること鐘の如く",
+      "ko": "앉은 강아지·종처럼 굳건하게",
+      "en": "Sitting Hound: Steady as a Clock",
+      "de": "Sitzender Hund – Verlässlich wie eine Uhr",
+      "es": "Tranquilidad de sabueso: Firme como la roca",
+      "fr": "Repos canin : Aplomb du temps",
+      "pt": "Pegureiro Sentado: Firme Feito a Rocha",
+      "ru": "Ожидание собаки: Точность часов",
+      "id": "Sitting Hound: Steady as a Clock",
+      "th": "Sitting Hound: Steady as a Clock",
+      "vi": "Ngồi: Vững Vàng Như Chuông"
+    },
+    "description": {
+      "zhs": "在<color=#FFD780FF>大将威仪</color>的持续期间，附近的当前场上角色获取结晶反应产生的晶片后，五郎自己的大将威仪的持续时间延长1秒。\n该效果每0.1秒至多触发一次，至多通过这种方式延长3秒持续时间。",
+      "zht": "在<color=#FFD780FF>大將威儀</color>的持續期間，附近的目前場上角色獲得結晶反應產生的晶片後，五郎自己的大將威儀的持續時間延長1秒。\n該效果每0.1秒至多觸發一次，至多依此方式延長3秒持續時間。",
+      "jp": "<color=#FFD780FF>大将威儀</color>の持続時間内、近くのフィールド上キャラクターが結晶反応による結晶の欠片を獲得すると、ゴロー自身の大将威儀の継続時間+1秒。\n0.1秒毎に1回のみ発動可能、この方式で最大3秒まで延長できる。",
+      "ko": "<color=#FFD780FF>대장의 위용</color> 지속 시간 동안, 주변 필드 위 캐릭터가 결정 반응으로 생성된 결정 조각을 획득하면 고로가 펼친 대장의 위용 스킬의 지속 시간이 1초 증가한다.\n해당 효과는 0.1초마다 최대 1회 발동 가능하며, 해당 방식으로 지속 시간을 최대 3초 늘릴 수 있다",
+      "en": "While <color=#FFD780FF>General's Glory</color> is in effect, its duration is extended by 1s when a nearby active character obtains an Elemental Shard from a Crystallize reaction. \nThis effect can occur once every 0.1s. Max extension is 3s.",
+      "de": "Verlängert die Wirkungsdauer von Gorous <color=#FFD780FF>Würde des Generals</color> beim Erhalten von durch Kristallisationsreaktionen entstehenden Splittern durch aktuelle Figuren in der Nähe während der Wirkungsdauer von Würde des Generals um 1 s.\n0,1 s Abklingzeit, verlängert die Wirkungsdauer auf diese Weise um bis zu 3 s.",
+      "es": "Cuando un personaje en uso cercano obtiene un fragmento creado con Cristalización mientras <color=#FFD780FF>gloria del general</color> está activa, la duración de sus efectos se prolonga en 1 s.\nEsto solo puede ocurrir una vez cada 0.1 s y solo se puede prolongar un máximo de 3 s de esta manera.",
+      "fr": "Lorsqu'un personnage déployé à proximité obtient un fragment élémentaire généré par une réaction de Cristallisation alors qu'un <color=#FFD780FF>prestige de général</color> est actif, la durée du prestige de général de Gorou augmente de 1 s.\nCet effet peut être déclenché une fois toutes les 0,1 s, et sa durée peut être prolongée de 3 s max de cette manière.",
+      "pt": "Quando um personagem próximo ganha um Fragmento de Cristal da Reação de Cristalização criado enquanto a <color=#FFD780FF>Glória do General</color> está ativa, a duração da Glória do General do próprio Gorou é aumentada em 1s.\nIsso só pode ocorrer uma vez a cada 0.1s e sua duração só pode ser prolongada por um máximo de 3s.",
+      "ru": "Если активный персонаж поблизости во время действия <color=#FFD780FF>Влияния генерала</color> получает созданный реакцией Кристалл элементальный осколок, то длительность Влияния генерала Горо увеличивается на 1 сек.\nЭффект может возникнуть раз в 0,1 сек. Нельзя увеличить длительность больше чем на 3 сек.",
+      "id": "Selama durasi <color=#FFD780FF>General's Glory</color> berlangsung, setelah Karakter aktif di sekitar memperoleh Elemental Shard dari reaksi Crystallize, maka durasi General's Glory milik Gorou sendiri akan bertambah 1 detik.\nEfek ini dapat terpicu setiap 0,1 detik dan durasi General's Glory dapat bertambah hingga 3 detik dengan cara ini.",
+      "th": "ภายในระยะเวลาต่อเนื่องของ <color=#FFD780FF>General's Glory</color> หลังจากที่ตัวละครที่เข้าร่วมการต่อสู้ในขณะนั้นและอยู่ในบริเวณใกล้เคียง ได้รับเศษเสี้ยวที่เกิดจากปฏิกิริยาการตกผลึก ช่วงเวลาต่อเนื่องของ General's Glory ของตัวของ Gorou เองจะยาวนานขึ้น 1 วินาที\nเอฟเฟกต์นี้จะเกิดขึ้นได้มากสุดหนึ่งครั้ง ในทุก 0.1 วินาที และจะสามารถยืดระยะเวลาของช่วงเวลาต่อเนื่องด้วยวิธีนี้ได้มากสุด 3 วินาที",
+      "vi": "Trong thời gian duy trì <color=#FFD780FF>Uy Nghi Đại Tướng</color>, sau khi nhân vật trong trận gần đó nhận mảnh kết tinh tạo ra từ phản ứng kết tinh, thì Uy Nghi Đại Tướng của Gorou sẽ kéo dài thêm 1s.\nHiệu quả này mỗi 0.1s tối đa kích hoạt 1 lần, tối đa kéo dài thêm 3s bằng cách này."
+    },
+    "imgid": "constellation_2"
+  },
+  {
+    "title": {
+      "zhs": "犬爪·势如火",
+      "zht": "犬爪·勢如火",
+      "jp": "犬爪·圧すること火の如く",
+      "ko": "강아지 발·불길처럼 맹렬하게",
+      "en": "Mauling Hound: Fierce as Fire",
+      "de": "Bellender Hund – Fauchend wie Feuer",
+      "es": "Zarpas de sabueso: Feroz como el fuego",
+      "fr": "Griffe canine : Frénésie du feu",
+      "pt": "Pegureiro Feroz: Feroz como o Fogo",
+      "ru": "Укус собаки: Ярость огня",
+      "id": "Mauling Hound: Fierce as Fire",
+      "th": "Mauling Hound: Fierce as Fire",
+      "vi": "Cào: Dữ Dội Như Lửa"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>犬坂吠吠方圆阵</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>犬坂吠吠方圓陣</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>犬坂の遠吠え方円陣</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>이누자카 멍멍 방원진</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Inuzaka All-Round Defense</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Inuzuka-Allzweckaufstellung</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Defensa integral canina</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Défense intégrale d'Inuzaka</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o nível da <color=#FFD780FF>Defesa Concentrada Inuzaka</color> em 3.\nO nível máximo de elevação é 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Всесторонняя защита Инудзаки</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Inuzaka All-Round Defense</color>.\nMaksimum: Lv.15.",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Inuzaka All-Round Defense</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Trận Hình Phòng Thủ - Inuzaka</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_3"
+  },
+  {
+    "title": {
+      "zhs": "犬舐·温如水",
+      "zht": "犬舐·溫如水",
+      "jp": "犬舌·優しきこと水の如く",
+      "ko": "강아지 핥기·물처럼 부드럽게",
+      "en": "Lapping Hound: Warm as Water",
+      "de": "Schleckender Hund – Warm wie Wasser",
+      "es": "Lametón de sabueso: Cálido como el agua",
+      "fr": "Léchouille canine : Bonté de l'eau",
+      "pt": "Pegureiro Bebedor: Quente como a água",
+      "ru": "Забота собаки: Нежность воды",
+      "id": "Lapping Hound: Warm as Water",
+      "th": "Lapping Hound: Warm as Water",
+      "vi": "Liếm: Ấm Áp Như Nước"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>大将威仪</color>在具有「难破」或「摧碎」的效果时，每1.5秒，为领域内的当前场上角色恢复生命值，回复量相当于五郎自己防御力的50%。",
+      "zht": "<color=#FFD780FF>大將威儀</color>在具有「難破」或「摧碎」的效果時，每1.5秒，為領域內的目前場上角色恢復生命值，回復量相當於五郎自己防禦力的50%。",
+      "jp": "<color=#FFD780FF>大将威儀</color>が「破耐」または「粉砕」効果を持つ時、1.5秒毎に領域内のフィールド上キャラクターのHPを回復する。回復量はゴロー自身の防御力50%分に相当する。",
+      "ko": "<color=#FFD780FF>대장의 위용</color> 스킬이 「불락」 혹은 「분쇄」 효과를 지닐 시, 1.5초마다 영역 안에 있는 필드 위 캐릭터의 HP를 고로 방어력의 50%만큼 회복한다",
+      "en": "When <color=#FFD780FF>General's Glory</color> is in the \"Impregnable\" or \"Crunch\" states, it will also heal active characters within its AoE by 50% of Gorou's own DEF every 1.5s.",
+      "de": "Stellt, wenn die Effekte „Unbeirrbarkeit“ oder „Trümmer“ für <color=#FFD780FF>Würde des Generals</color> aktiv sind, allen aktuellen Figuren im Wirkungsbereich alle 1,5 s LP in Höhe von 50 % von Gorous VTD wieder her.",
+      "es": "Cuando el área de <color=#FFD780FF>gloria del general</color> posee los efectos de Inquebrantabilidad o Fragmentación, los personajes en uso que se encuentren dentro de ella recuperan Vida cada 1.5 s en una cantidad equivalente al 50% de la DEF de Gorou.",
+      "fr": "#Lorsque le <color=#FFD780FF>prestige de général</color> est en état d'imprenabilité ou de fracas, il restaure également les PV du personnage déployé dans la zone d'effet toutes les 1,5{NON_BREAK_SPACE}s d'une valeur équivalant à 50{NON_BREAK_SPACE}% de la DÉF de Gorou.",
+      "pt": "Quando <color=#FFD780FF>Glória do General</color> está nos estados de \"Robusto\" ou \"Inquebrável\", ela também curará o personagem ativo dentro de sua AdE a cada 1,5s por 50% da DEF de Gorou.",
+      "ru": "У активного персонажа в области <color=#FFD780FF>Влияния генерала</color> при наличии эффектов Крепость или Ярость каждые 1,5 сек. восстанавливается HP в размере 50% защиты самого Горо.",
+      "id": "Saat <color=#FFD780FF>General's Glory</color> berada dalam status \"Impregnable\" atau \"Crunch\", HP Karakter aktif yang berada di dalam area General's Glory akan dipulihkan sebesar 50% DEF Gorou sendiri setiap 1,5 detik.",
+      "th": "เมื่อ <color=#FFD780FF>General's Glory</color> มีเอฟเฟกต์ \"Impregnable\" หรือ \"Crunch\" อยู่ ในทุก 1.5 วินาที จะทำการฟื้นฟูพลังชีวิตให้แก่ตัวละครที่อยู่ในพื้นที่ โดยที่ปริมาณการฟื้นฟู จะเป็น 50% ของพลังป้องกันของ Gorou เอง",
+      "vi": "<color=#FFD780FF>Uy Nghi Đại Tướng</color> khi có hiệu quả \"Trụ Vững\" hoặc \"Phá Hủy\", mỗi 1.5s sẽ hồi phục HP cho nhân vật trong khu vực, lượng hồi phục tương đương 50% phòng ngự của bản thân Gorou."
+    },
+    "imgid": "constellation_4"
+  },
+  {
+    "title": {
+      "zhs": "犬突·动如雷",
+      "zht": "犬突·動如雷",
+      "jp": "犬突·動くこと雷の如く",
+      "ko": "강아지 돌진·움직임은 번개처럼",
+      "en": "Striking Hound: Thunderous Force",
+      "de": "Aufspringender Hund – Aufgebracht wie Donner",
+      "es": "Arremetida de sabueso: Potente como el rayo",
+      "fr": "Frappe canine : Élan du tonnerre",
+      "pt": "Pegureiro Atacante: Força Trovejante",
+      "ru": "Удар собаки: Сила грома",
+      "id": "Striking Hound: Thunderous Force",
+      "th": "Striking Hound: Thunderous Force",
+      "vi": "Cắn: Kinh Động Như Sấm"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>兽牙逐突形胜战法</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>獸牙逐突形勝戰法</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>獣牙突撃陣形戦法</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>야수 이빨 돌격형 승전법</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Juuga: Forward Unto Victory</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Juuga – Vorwärts zum Sieg</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Colmillo de la victoria</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Crocs bestiaux : Vers la victoire</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o nível do <color=#FFD780FF>Juuga: Para a Vitória</color> em 3.\nO nível máximo de elevação é 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Дзюга: Вперёд к победе</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Juuga: Forward Unto Victory</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Juuga: Forward Unto Victory</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Chiến Pháp Đột Kích - Juuga</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_5"
+  },
+  {
+    "title": {
+      "zhs": "犬勇·忠如山",
+      "zht": "犬勇·忠如山",
+      "jp": "犬勇·忠に厚きこと山の如く",
+      "ko": "용맹한 강아지·산처럼 충성스럽게",
+      "en": "Valiant Hound: Mountainous Fealty",
+      "de": "Mutiger Hund – Treu wie Berg",
+      "es": "Valentía de sabueso: Fiel como un perro",
+      "fr": "Vaillance canine : Fidélité de la terre",
+      "pt": "Pegureiro Valente: Lealdade Montanhosa",
+      "ru": "Доблесть собаки: Надёжность гор",
+      "id": "Valiant Hound: Mountainous Fealty",
+      "th": "Valiant Hound: Mountainous Fealty",
+      "vi": "Dũng: Trung Nghĩa Như Núi"
+    },
+    "description": {
+      "zhs": "施放<color=#FFD780FF>犬坂吠吠方圆阵</color>或<color=#FFD780FF>兽牙逐突形胜战法</color>后的12秒内，依据施放时的领域等级，提高附近的队伍中所有角色<color=#FFE699FF>岩元素伤害</color>的暴击伤害：\n·「坚牢」：提高10%；\n·「难破」：提高20%；\n·「摧碎」：提高40%。\n\n该效果无法叠加，以后生效的为准。",
+      "zht": "施放<color=#FFD780FF>犬坂吠吠方圓陣</color>或<color=#FFD780FF>獸牙逐突形勝戰法</color>後的12秒內，依據施放時的領域等級，提高附近的隊伍中所有角色<color=#FFE699FF>岩元素傷害</color>的暴擊傷害：\n·「堅牢」：提高10%；\n·「難破」：提高20%；\n·「摧碎」：提高40%。\n\n該效果無法疊加，以後生效的為準。",
+      "jp": "<color=#FFD780FF>犬坂の遠吠え方円陣</color>または<color=#FFD780FF>獣牙突撃陣形戦法</color>発動後の12秒間、発動時の領域状態に基づき、周囲チーム全員の<color=#FFE699FF>岩元素ダメージ</color>の会心ダメージをアップする。\n·「堅牢」：10%アップ。\n·「破耐」：20%アップ。\n·「粉砕」：40%アップ。\n\nこの効果は重ね掛けできず、最後に発動したものが反映される。",
+      "ko": "<color=#FFD780FF>이누자카 멍멍 방원진</color> 혹은 <color=#FFD780FF>야수 이빨 돌격형 승전법</color> 발동 후 12초간 발동한 영역의 레벨에 따라 주변 파티 내 모든 캐릭터의 <color=#FFE699FF>바위 원소 피해</color> 치명타 피해를 증가시킨다:\n·「견고」: 10% 증가\n·「불락」: 20% 증가\n·「분쇄」: 40% 증가\n\n해당 효과는 중첩되지 않으며 나중에 발동한 것을 기준으로 한다",
+      "en": "For 12s after using <color=#FFD780FF>Inuzaka All-Round Defense</color> or <color=#FFD780FF>Juuga: Forward Unto Victory</color>, increases the CRIT DMG of all nearby party members' <color=#FFE699FF>Geo DMG</color> based on the buff level of the skill's field at the time of use:\n· \"Standing Firm\": +10%\n· \"Impregnable\": +20%\n· \"Crunch\": +40%\n\nThis effect cannot stack and will take reference from the last instance of the effect that is triggered.",
+      "de": "Erhöht bei Anwendung von <color=#FFD780FF>Inuzuka-Allzweckaufstellung</color> oder <color=#FFD780FF>Juuga – Vorwärts zum Sieg</color> den KSCH des <color=#FFE699FF>Geo-Schadens</color> aller Truppenmitglieder in der Nähe gemäß der Stufe des Wirkungsbereichs zur Zeit der Anwendung 12 s lang:\n· „Zähigkeit“: 10 % Bonus\n· „Unbeirrbarkeit“: 20 % Bonus\n· „Trümmer“: 40 % Bonus\n\nDieser Effekt ist nicht stapelbar und richtet sich nach dem zuletzt in Kraft getretenen Effekt.",
+      "es": "Tras usar <color=#FFD780FF>Defensa integral canina</color> o <color=#FFD780FF>Colmillo de la victoria</color>, aumenta el <color=#FFE699FF>Daño CRIT Geo</color> de todos los miembros del equipo cercanos durante 12 s según el nivel del área creada.\n·Robustez: aumenta en un 10%.\n·Inquebrantabilidad: aumenta en un 20%.\n·Fragmentación: aumenta en un 40%.\n\nEste efecto no se puede acumular, sino que será determinado en función de la última bonificación que surtió efecto.",
+      "fr": "#Pendant 12 s après <color=#FFD780FF>Défense intégrale d'Inuzaka</color> ou <color=#FFD780FF>Crocs bestiaux : Vers la victoire</color>, les DGT CRIT des <color=#FFE699FF>DGT Géo</color> de tous les personnages de l'équipe à proximité augmentent en fonction du niveau du champ au moment de l'utilisation de la compétence{NON_BREAK_SPACE}:\n· Pied ferme : +10 %.\n· Imprenabilité : +20 %.\n· Fracas : +40 %.\n\nCet effet ne se cumule pas, et la dernière augmentation déclenchée sera la référence pour l'effet.",
+      "pt": "Dentro de 12 segundos após lançar a <color=#FFD780FF>Defesa Concentrada Inuzaka</color> ou <color=#FFD780FF>Juuga: Para a Vitória</color>, de acordo com o nível da área no momento do lançamento, o Dano CRIT de <color=#FFE699FF>Dano Geo</color> de todos os personagens da equipe que se encontrarem próximos, será aumentado: \nRobusto: aumentado em 10%; Inquebrável: aumentado em 20%; Destruidor: aumentado em 40%.\n\nEsse efeito não pode ser acumulado, mas será determinado com base no último efeito desencadeado.",
+      "ru": "В течение 12 сек. после запуска <color=#FFD780FF>Всесторонней защиты Инудзаки</color> или <color=#FFD780FF>Дзюга: Вперёд к победе</color> у всех членов отряда поблизости увеличивается крит. <color=#FFE699FF>Гео урон</color> в соответствии с уровнем области:\n· Стойкость - на 10%;\n· Крепость - на 20%;\n· Ярость - на 40%.\n\nЭффект не складывается, действует последний сработавший эффект.",
+      "id": "Dalam 12 detik setelah menggunakan <color=#FFD780FF>Inuzaka All-Round Defense</color> atau <color=#FFD780FF>Juuga: Forward Unto Victory</color>, Gorou akan meningkatkan CRIT DMG untuk <color=#FFE699FF>Geo DMG</color> milik seluruh anggota party di sekitar sesuai dengan level area Gorou saat skill ini dilancarkan:\n·Standing Firm: Meningkatkan 10%.\n·Impregnable: Meningkatkan 20%.\n·Crunch: Meningkatkan 40%.\n\nEfek ini tidak bisa ditumpuk, yang terhitung adalah yang terakhir kali aktif.",
+      "th": "ภายใน 12 วินาที หลังจากปล่อย <color=#FFD780FF>Inuzaka All-Round Defense</color> หรือ <color=#FFD780FF>Juuga: Forward Unto Victory</color> จะเพิ่มความแรงคริของ<color=#FFE699FF>ความเสียหายหิน</color> ของตัวละครทั้งหมดในทีมที่อยู่ในบริเวณใกล้เคียง โดยขึ้นกับเลเวลของพื้นที่ในตอนที่ปล่อย:\n·\"Standing Firm\": เพิ่ม 10%;\n·\"Impregnable\": เพิ่ม 20%;\n·\"Crunch\": เพิ่ม 40%\n\nเอฟเฟกต์นี้ไม่สามารถซ้อนทับกันได้ โดยจะอ้างอิงจากเอฟเฟกต์ที่เกิดขึ้นล่าสุดเป็นหลัก",
+      "vi": "Trong 12s sau khi thi triển <color=#FFD780FF>Trận Hình Phòng Thủ - Inuzaka</color> hoặc <color=#FFD780FF>Chiến Pháp Đột Kích - Juuga</color>, dựa vào cấp độ khu vực lúc thi triển để tăng <color=#FFE699FF>Sát Thương Bạo Kích Nguyên Tố Nham</color> cho toàn bộ nhân vật trong đội ở gần:\n·\"Kiên Cố\": Tăng 10%;\n·\"Trụ Vững\": Tăng 20%;\n·\"Phá Hủy\": Tăng 40%.\n\nHiệu quả này không thể cộng dồn, lấy hiệu ứng sau cùng làm chuẩn."
+    },
+    "imgid": "constellation_6"
+  }
+]

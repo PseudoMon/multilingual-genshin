@@ -1,0 +1,200 @@
+[
+  {
+    "title": {
+      "zhs": "堆叠真空域",
+      "zht": "堆疊真空域",
+      "jp": "積み上げ真空域",
+      "ko": "쌓아 올린 진공 영역",
+      "en": "Clustered Vacuum Field",
+      "de": "Gebündeltes Vakuumfeld",
+      "es": "Cúmulo de campo de vacío",
+      "fr": "Champ du néant",
+      "pt": "Campo de Vácuo Acumulado",
+      "ru": "Кластерное вакуумное поле",
+      "id": "Clustered Vacuum Field",
+      "th": "Clustered Vacuum Field",
+      "vi": "Vùng Chân Không"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>风灵作成·陆叁零捌</color>的可使用次数增加1次。",
+      "zht": "<color=#FFD780FF>風靈作成·陸參零捌</color>的可使用次數增加一次。",
+      "jp": "<color=#FFD780FF>風霊作成·六三〇八</color>の使用可能回数+1。",
+      "ko": "<color=#FFD780FF>풍령 작성·육삼공팔</color>의 사용 가능 횟수가 1회 증가한다",
+      "en": "<color=#FFD780FF>Astable Anemohypostasis Creation - 6308</color> gains 1 additional charge.",
+      "de": "Ermöglicht 1 weitere Anwendung von <color=#FFD780FF>Windseelenschaffung – Experiment 6308</color>.",
+      "es": "Aumenta en 1 las cargas de <color=#FFD780FF>Creación del espíritu del viento: Experimento 6308</color>.",
+      "fr": "Confère une charge supplémentaire à <color=#FFD780FF>Esprit du vent : Sujet 6308</color>.",
+      "pt": "<color=#FFD780FF>Criação do Espírito do Vento: Experimento 6308</color> ganha 1 carga adicional.",
+      "ru": "Увеличивает количество зарядов навыка <color=#FFD780FF>Эксперимент №6308</color> на 1.",
+      "id": "Meningkatkan 1 charge <color=#FFD780FF>Astable Anemohypostasis Creation - 6308</color>.",
+      "th": "เพิ่มจำนวนการใช้ <color=#FFD780FF>Astable Anemohypostasis Creation - 6308</color> ขึ้น 1 ครั้ง",
+      "vi": "Số lần sử dụng <color=#FFD780FF>Gió Thần Sáng Tạo 6308</color> tăng thêm 1."
+    },
+    "imgid": "constellation_1"
+  },
+  {
+    "title": {
+      "zhs": "不羁型贝特",
+      "zht": "不羈型貝特",
+      "jp": "不羈型ベト",
+      "ko": "불속박형 베트",
+      "en": "Beth: Unbound Form",
+      "de": "Beth – Ungezügelt",
+      "es": "Bett: Forma no consolidada",
+      "fr": "Bett : Forme éthérée",
+      "pt": "Beth - Forma Não-Consolidada",
+      "ru": "Бет: Свободная форма",
+      "id": "Beth: Unbound Form",
+      "th": "Beth - Unbound Form",
+      "vi": "Beth Ngỗ Ngược"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>禁·风灵作成·柒伍同构贰型</color>的技能持续时间延长2秒。",
+      "zht": "<color=#FFD780FF>禁·風靈作成·柒伍同構貳型</color>的技能持續時間延長2秒。",
+      "jp": "<color=#FFD780FF>禁·風霊作成·七五同構弐型</color>のスキル継続時間+2秒。",
+      "ko": "<color=#FFD780FF>금기·풍령 작성·칠오 동구 이형</color>의 스킬 지속 시간을 2초 연장한다",
+      "en": "The duration of <color=#FFD780FF>Forbidden Creation - Isomer 75 / Type II</color> is increased by 2s.",
+      "de": "Verlängert die Wirkungsdauer von <color=#FFD780FF>Verbotene Windseelenschaffung – Isomorpher Typ 75-II</color> um 2 s.",
+      "es": "Aumenta en 2 s la duración de <color=#FFD780FF>Creación prohibida del espíritu del viento: Isomorfo 75 tipo II</color>.",
+      "fr": "Prolonge la durée d'<color=#FFD780FF>Esprit du vent : Isomorphe 75 Type II</color> de 2 s.",
+      "pt": "A duração da <color=#FFD780FF>Criação Proibida do Espírito do Vento: Isomórfico-75 Tipo II</color> é aumentada em 2 segundos.",
+      "ru": "Увеличивает длительность навыка <color=#FFD780FF>Запретно! Изомер 75 / Тип II</color> на 2 сек.",
+      "id": "Durasi <color=#FFD780FF>Forbidden Creation - Isomer 75 / Type II</color> bertambah 2 detik.",
+      "th": "เพิ่มระยะเวลา <color=#FFD780FF>Forbidden Creation - Isomer 75 / Type II</color> ขึ้น 2 วินาที",
+      "vi": "Thời gian kéo dài <color=#FFD780FF>Cấm-Gió Thần Sáng Tạo-75 Loại 2</color> tăng 2s."
+    },
+    "imgid": "constellation_2"
+  },
+  {
+    "title": {
+      "zhs": "零失误少女",
+      "zht": "零失誤少女",
+      "jp": "ゼロミス少女",
+      "ko": "실수하지 않는 소녀",
+      "en": "Flawless Alchemistress",
+      "de": "Bestnote",
+      "es": "Alquimista infalible",
+      "fr": "Zéro défaut",
+      "pt": "Alquimista Perfeita",
+      "ru": "Безупречный алхимик",
+      "id": "Flawless Alchemistress",
+      "th": "Flawless Achemistress",
+      "vi": "Thiếu Nữ Hoàn Hảo"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>风灵作成·陆叁零捌</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>風靈作成·陸參零捌</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>風霊作成·六三〇八</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>풍령 작성·육삼공팔</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Astable Anemohypostasis Creation - 6308</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Windseelenschaffung – Experiment 6308</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Creación del espíritu del viento: Experimento 6308</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Esprit du vent : Sujet 6308</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o nível da <color=#FFD780FF>Criação do Espírito do Vento: Experimento 6308</color> em 3.\nO nível máximo de elevação é 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Эксперимент №6308</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Astable Anemohypostasis Creation - 6308</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลของสกิล <color=#FFD780FF>Astable Anemohypostasis Creation - 6308</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Gió Thần Sáng Tạo 6308</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_3"
+  },
+  {
+    "title": {
+      "zhs": "炼金的偏执",
+      "zht": "煉金的偏執",
+      "jp": "錬金の偏執",
+      "ko": "연금의 편집증",
+      "en": "Alchemania",
+      "de": "Besessenheit",
+      "es": "Alquemanía",
+      "fr": "Alchémania",
+      "pt": "Alquimania",
+      "ru": "Мания алхимии",
+      "id": "Alchemania",
+      "th": "Alchemania",
+      "vi": "Ảo Tưởng Giả Kim"
+    },
+    "description": {
+      "zhs": "砂糖的普通攻击或者重击累计命中敌人7次，<color=#FFD780FF>风灵作成·陆叁零捌</color>的冷却时间就会随机减少1-7秒。\n每0.1秒至多计数一次。",
+      "zht": "砂糖的普通攻擊或者重擊累計命中敵人7次，<color=#FFD780FF>風靈作成·陸參零捌</color>的冷卻時間就會隨機減少1-7秒。\n每0.1秒至多計數一次。",
+      "jp": "スクロースの通常攻撃または重撃が敵に累計7回命中すると、<color=#FFD780FF>風霊作成·六三〇八</color>のクールタイムがランダムに1~7秒減少する。\n0.1秒毎に1回のみカウント可能。",
+      "ko": "설탕의 일반 공격 혹은 강공격이 적에게 누적 7회 명중하면, <color=#FFD780FF>풍령 작성·육삼공팔</color>의 재사용 대기시간이 랜덤으로 1~7초 감소한다.\n0.1초마다 최대 1회 카운트된다",
+      "en": "Sucrose will reduce the CD of <color=#FFD780FF>Astable Anemohypostasis Creation - 6308</color> by 1-7s for every 7 Normal or Charged Attack hits she scores against opponents.\nOne hit may be counted every 0.1s.",
+      "de": "Verkürzt die Abklingzeit von <color=#FFD780FF>Windseelenschaffung – Experiment 6308</color> alle 7 Standardangriffe oder heftige Schläge, die Saccharose bei Gegnern erzielt, zufällig um 1 bis 7 s.\nEin Treffer kann alle 0,1 s gezählt werden.",
+      "es": "Por cada 7 veces consecutivas que Sacarosa golpee a un enemigo con sus Ataques Normales o Cargados, el TdE de <color=#FFD780FF>Creación del espíritu del viento: Experimento 6308</color> se reduce entre 1 y 7 s.\nComo máximo, cada golpe solo puede ocurrir una vez cada 0.1 s.",
+      "fr": "Sucrose réduit le TdR d'<color=#FFD780FF>Esprit du vent : Sujet 6308</color> de 1 à 7 s tous les 7 coups d'attaque normale ou chargée qu'elle inflige à un ennemi.\nUn coup peut être compté toutes les 0,1 s.",
+      "pt": "Quando os Ataques Normais e Ataques Carregados de Sucrose atingirem o inimigo cumulativamente sete vezes, o Tempo de Recarga de <color=#FFD780FF>Criação do Espírito do Vento: Experimento 6308</color> será reduzido entre 1-7s.\nÉ possível acumular uma vez a cada 0.1s.",
+      "ru": "Сахароза уменьшает время отката навыка <color=#FFD780FF>Эксперимент №6308</color> на 1-7 сек. за каждые 7 попаданий обычной или заряженной атакой по противникам.\nОдно попадание может засчитываться каждые 0,1 сек.",
+      "id": "Saat Normal Attack atau Charged Attack Sucrose mengenai musuh 7 kali, maka CD skill <color=#FFD780FF>Astable Anemohypostasis Creation - 6308</color> akan berkurang 1-7 detik secara acak.\nSerangan Sucrose dapat dihitung sebagai 1 kali setiap 0,1 detik.",
+      "th": "เมื่อการโจมตีปกติหรือชาร์จโจมตีของ Sucrose ถูกศัตรูทุก ๆ 7 ครั้ง จะสุ่มลดเวลาคูลดาวน์ของ <color=#FFD780FF>Astable Anemohypostasis Creation - 6308</color> ลง 1-7 วินาที\nซึ่งเอฟเฟกต์นี้จะเกิดขึ้นมากสุดหนึ่งครั้ง ในทุก 0.1 วินาที",
+      "vi": "Tấn công thường hoặc trọng kích của Sucrose tích lũy đánh trúng kẻ địch 7 lần, CD của <color=#FFD780FF>Gió Thần Sáng Tạo 6308</color> sẽ giảm ngẫu nhiên 1-7s.\nMỗi 0.1s tối đa tính 1 lần."
+    },
+    "imgid": "constellation_4"
+  },
+  {
+    "title": {
+      "zhs": "认真普通瓶",
+      "zht": "認真普通瓶",
+      "jp": "真面目な普通瓶",
+      "ko": "진지한 보통병",
+      "en": "Caution: Standard Flask",
+      "de": "Gewissenhaftes Handwerk",
+      "es": "Precaución: Frasco ordinario",
+      "fr": "Flasque standard",
+      "pt": "Atenção: Frasco Comum",
+      "ru": "Внимание: обычная колба",
+      "id": "Caution: Standard Flask",
+      "th": "Caution: Standard Flask",
+      "vi": "Bình Chăm Chỉ"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>禁·风灵作成·柒伍同构贰型</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>禁·風靈作成·柒伍同構貳型</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>禁·風霊作成·七五同構弐型</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>금기·풍령 작성·칠오 동구 이형</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Forbidden Creation - Isomer 75 / Type II</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Verbotene Windseelenschaffung – Isomorpher Typ 75-II</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Creación prohibida del espíritu del viento: Isomorfo 75 tipo II</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Esprit du vent : Isomorphe 75 Type II</color> +3\nNiveau max : 15",
+      "pt": "Aumenta o Nível da <color=#FFD780FF>Criação Proibida do Espírito do Vento: Isomórfico-75 Tipo II</color> em 3.\nO nível máximo de elevação é 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Запретно! Изомер 75 / Тип II</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Forbidden Creation - Isomer 75 / Type II</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลของสกิล <color=#FFD780FF>Forbidden Creation - Isomer 75 / Type II</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Cấm-Gió Thần Sáng Tạo-75 Loại 2</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_5"
+  },
+  {
+    "title": {
+      "zhs": "混元熵增论",
+      "zht": "混元熵增論",
+      "jp": "混元熵增論",
+      "ko": "혼돈의 엔트로피",
+      "en": "Chaotic Entropy",
+      "de": "Chaotische Entropie",
+      "es": "Entropía caótica",
+      "fr": "Théorie de l'entropie",
+      "pt": "Entropia Caótica",
+      "ru": "Энтропия хаоса",
+      "id": "Chaotic Entropy",
+      "th": "Chaotic Entropy",
+      "vi": "Thuyết Hỗn Loạn"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>禁·风灵作成·柒伍同构贰型</color>如果发生了元素转化，则使队伍中所有角色在技能持续时间内获得20%的对应元素伤害加成。",
+      "zht": "<color=#FFD780FF>禁·風靈作成·柒伍同構貳型</color>如果發生了元素轉化，則使隊伍中所有角色在技能持續時間內獲得20%的對應元素傷害加成。",
+      "jp": "<color=#FFD780FF>禁·風霊作成·七五同構弐型</color>に元素変化が起きた時、スキル継続中チーム全員の該当元素ダメージ+20%。",
+      "ko": "<color=#FFD780FF>금기·풍령 작성·칠오 동구 이형</color>이 원소 전환이 발생하면 파티 내 모든 캐릭터는 스킬이 지속하는 동안 대응하는 원소 피해 보너스를 20% 획득한다",
+      "en": "If <color=#FFD780FF>Forbidden Creation - Isomer 75 / Type II</color> triggers an Elemental Absorption, all party members gain a 20% Elemental DMG Bonus for the corresponding absorbed element during its duration.",
+      "de": "Erhöht den jeweiligen Elementar-SCH aller Truppenmitglieder bei einer Elementarumwandlung von <color=#FFD780FF>Verbotene Windseelenschaffung – Isomorpher Typ 75-II</color> während der Wirkungsdauer der Fähigkeit um 20 %.",
+      "es": "Si <color=#FFD780FF>Creación prohibida del espíritu del viento: Isomorfo 75 tipo II</color> desencadena un cambio elemental, todos los miembros del equipo obtienen un 20% de Bono de Daño Elemental del elemento al que se cambió mientras dure la habilidad.",
+      "fr": "En cas d'absorption élémentaire, <color=#FFD780FF>Esprit du vent : Isomorphe 75 Type II</color> confère à tous les personnages de l'équipe un bonus de DGT élémentaires de 20 % pour l'élément absorbé tant que la compétence est active.",
+      "pt": "Se <color=#FFD780FF>Criação Proibida do Espírito do Vento: Isomórfico-75 Tipo II</color> aciona uma Absorção Elemental, todos os membros de equipe ganham 20% de Bônus de Dano Elemental para o elemento correspondente absorvido enquanto a habilidade estiver em duração.",
+      "ru": "Если навык <color=#FFD780FF>Запретно! Изомер 75 / Тип II</color> активировал поглощение стихий, все члены отряда получают 20% бонус урона соответствующего элемента на время действия навыка.",
+      "id": "Jika <color=#FFD780FF>Forbidden Creation - Isomer 75 / Type II</color> memicu Elemental Absorption, seluruh anggota party mendapatkan 20% Elemental DMG Bonus untuk elemen sesuai yang diserap selama durasinya.",
+      "th": "หาก <color=#FFD780FF>Forbidden Creation - Isomer 75 / Type II</color> ทำให้เกิดการเปลี่ยนแปลงธาตุ ในช่วงระยะเวลาต่อเนื่องของ สกิล ตัวละครทั้งหมดในทีม จะได้รับโบนัสความเสียหายของธาตุที่เกี่ยวข้อง 20%",
+      "vi": "Nếu <color=#FFD780FF>Cấm-Gió Thần Sáng Tạo-75 Loại 2</color> xảy ra chuyển hóa nguyên tố thì tất cả đội sẽ nhận buff sát thương nguyên tố 20% trong khoảng thời gian kĩ năng duy trì."
+    },
+    "imgid": "constellation_6"
+  }
+]

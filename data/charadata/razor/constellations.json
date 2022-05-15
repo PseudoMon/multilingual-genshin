@@ -1,0 +1,200 @@
+[
+  {
+    "title": {
+      "zhs": "狼性",
+      "zht": "狼性",
+      "jp": "狼の性",
+      "ko": "늑대의 본성",
+      "en": "Wolf's Instinct",
+      "de": "Wolfsinstinkte",
+      "es": "Naturaleza del lobo",
+      "fr": "Nature du loup",
+      "pt": "Natureza do Lobo",
+      "ru": "Волчья натура",
+      "id": "Wolf's Instinct",
+      "th": "Wolf's Instinct",
+      "vi": "Bản Chất Của Sói"
+    },
+    "description": {
+      "zhs": "雷泽获取元素晶球或元素微粒后的8秒内，造成的伤害提高10%。",
+      "zht": "雷澤獲得元素晶球或元素微粒後的8秒內，造成的傷害提高10%。",
+      "jp": "レザーが元素オーブまたは元素粒子を獲得した8秒間、与えるダメージ+10%。",
+      "ko": "레이저가 원소 구슬 혹은 원소 입자 획득 후 8초 동안 가하는 피해가 10% 증가한다",
+      "en": "Picking up an Elemental Orb or Particle increases Razor's DMG by 10% for 8s.",
+      "de": "Erhöht den von Razor verursachten Schaden beim Erhalten von Elementarkristallen oder Elementarteilchen 8 s lang um 10 %.",
+      "es": "Recoger un orbe o partícula elemental aumenta el Daño de Razor en un 10% durante 8 s.",
+      "fr": "Razor inflige 10 % de DGT supplémentaires pendant 8 s lorsqu'il obtient un orbe ou une particule élémentaire.",
+      "pt": "Ao obter um Orbe Elemental ou Partícula Elemental, aumenta o Dano de Razor em 10% por 8s.",
+      "ru": "Подобранные элементальные сферы или частицы увеличивают урон Рэйзора на 10% в течение 8 сек.",
+      "id": "Saat mengambil Elemental Orb atau Particle, meningkatkan 10% DMG Razor selama 8 detik.",
+      "th": "หลังจากเก็บลูกแก้วธาตุ หรืออณูธาตุ จะเพิ่มความเสียหายที่สร้างได้ ของ Razor ขึ้น 10% เป็นเวลา 8 วินาที",
+      "vi": "8s sau khi Razor nhận được Nguyên Tố tinh cầu hoặc Nguyên Tố hạt nhân, sát thương tạo thành sẽ tăng 10%."
+    },
+    "imgid": "constellation_1"
+  },
+  {
+    "title": {
+      "zhs": "压制",
+      "zht": "壓制",
+      "jp": "制圧",
+      "ko": "진압",
+      "en": "Suppression",
+      "de": "Einschüchtern",
+      "es": "Represión",
+      "fr": "Répression",
+      "pt": "Supressão",
+      "ru": "Подавление",
+      "id": "Suppression",
+      "th": "Suppression",
+      "vi": "Áp Chế"
+    },
+    "description": {
+      "zhs": "雷泽攻击生命值低于30%的敌人时，暴击率提高10%。",
+      "zht": "雷澤攻擊生命值低於30%的敵人時，暴擊率提高10%。",
+      "jp": "HPが30%以下の敵を攻撃する時、会心率+10%。",
+      "ko": "레이저가 HP 30% 미만의 적을 공격 시 치명타 확률이 10% 증가한다",
+      "en": "Increases CRIT Rate against opponents with less than 30% HP by 10%.",
+      "de": "Erhöht die KT, wenn Razor Gegner mit weniger als 30 % LP angreift, um 10 %.",
+      "es": "La Prob. CRIT de Razor aumenta en un 10% contra enemigos con menos del 30% de Vida.",
+      "fr": "Le taux CRIT de Razor augmente de 10 % quand il attaque des ennemis dont les PV sont inférieurs à 30 %.",
+      "pt": "Aumenta a Taxa Crítica contra inimigos com menos de 30% de Vida em 10%.",
+      "ru": "Увеличивает шанс крит. попадания Рэйзора против врагов с HP ниже 30% на 10%.",
+      "id": "Meningkatkan 10% CRIT Rate Razor terhadap musuh dengan HP kurang dari 30%.",
+      "th": "เมื่อ Razor โจมตีศัตรูที่มีพลังชีวิตต่ำกว่า 30% อัตราคริจะเพิ่มขึ้น 10%",
+      "vi": "Khi Razor tấn công địch có HP dưới 30%, tỷ lệ bạo kích tăng 10%."
+    },
+    "imgid": "constellation_2"
+  },
+  {
+    "title": {
+      "zhs": "兽魂",
+      "zht": "獸魂",
+      "jp": "獣の魂",
+      "ko": "야수의 혼",
+      "en": "Soul Companion",
+      "de": "Tierische Seele",
+      "es": "Alma de la bestia",
+      "fr": "Âme de loup",
+      "pt": "Espírito Animal",
+      "ru": "Родственная душа",
+      "id": "Soul Companion",
+      "th": "Soul Companion",
+      "vi": "Hồn Thú"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>雷牙</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>雷牙</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>雷牙</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>뇌아</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Lightning Fang</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Blitzklauen</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Colmillo relámpago</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Croc éclair</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o nível do <color=#FFD780FF>Dente de Relâmpago</color> em 3.\nO nível máximo de elevação é 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Громовой клык</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Lightning Fang</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Lightning Fang</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Răng Sét</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_3"
+  },
+  {
+    "title": {
+      "zhs": "撕咬",
+      "zht": "撕咬",
+      "jp": "噛みつく",
+      "ko": "물어뜯기",
+      "en": "Bite",
+      "de": "Biss",
+      "es": "Mordisco",
+      "fr": "Morsure",
+      "pt": "Mordida",
+      "ru": "Укус",
+      "id": "Bite",
+      "th": "Bite",
+      "vi": "Cắn Xé"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>利爪与苍雷</color>点按时，会使命中的敌人防御力降低15%，持续7秒。",
+      "zht": "<color=#FFD780FF>利爪與蒼雷</color>點按時，會使命中的敵人防禦力降低15%，持續7秒。",
+      "jp": "<color=#FFD780FF>鋭い爪と蒼雷</color>の一回押しで攻撃した時、命中した敵の防御力-15%、継続時間7秒。",
+      "ko": "<color=#FFD780FF>날카로운 발톱과 창뢰</color>를 짧게 터치하면 명중한 적의 방어력이 15% 감소한다. 지속 시간: 7초",
+      "en": "#When casting <color=#FFD780FF>Claw and Thunder</color> ({LAYOUT_MOBILE#Tap}{LAYOUT_PC#Press}{LAYOUT_PS#Press}), opponents hit will have their DEF decreased by 15% for 7s.",
+      "de": "Verringert die VTD getroffener Gegner bei Anwendung von <color=#FFD780FF>Klauen und Donner</color> 7 s lang um 15 %.",
+      "es": "#Al {LAYOUT_MOBILE#tocar una vez}{LAYOUT_PC#pulsar una vez}{LAYOUT_PS#pulsar una vez} <color=#FFD780FF>Garra y trueno</color>, reduce la DEF de los enemigos golpeados en un 15% durante 7 s.",
+      "fr": "L'appui simple de <color=#FFD780FF>Griffe et Tonnerre</color> réduit la DÉF des cibles de 15 % pendant 7 s.",
+      "pt": "Ao pressionar para lançar a <color=#FFD780FF>Garra e Trovão</color>, diminui a DEF dos inimigos acertados em 15% por 7s.",
+      "ru": "При попадании быстрое нажатие навыка <color=#FFD780FF>Гром и Когти</color> понижает защиту противника на 15% в течение 7 сек.",
+      "id": "Saat <color=#FFD780FF>Claw and Thunder</color> ditekan, DEF musuh yang terkena akan berkurang 15% selama 7 detik.",
+      "th": "#เมื่อ{LAYOUT_MOBILE#แตะ}{LAYOUT_PC#กด}{LAYOUT_PS#กด} <color=#FFD780FF>Claw and Thunder</color> จะทำให้พลังป้องกันของศัตรูที่ถูกโจมตีลดลง 15% เป็นเวลา 7 วินาที",
+      "vi": "Khi nhấn <color=#FFD780FF>Vuốt Và Sấm</color>, làm cho phòng ngự của địch bị đánh trúng giảm 15%, kéo dài 7s."
+    },
+    "imgid": "constellation_4"
+  },
+  {
+    "title": {
+      "zhs": "利爪",
+      "zht": "利爪",
+      "jp": "鋭い爪",
+      "ko": "날카로운 발톱",
+      "en": "Sharpened Claws",
+      "de": "Scharfe Klauen",
+      "es": "Garras afiladas",
+      "fr": "Griffes tranchantes",
+      "pt": "Garras Afiadas",
+      "ru": "Заточенные когти",
+      "id": "Sharpened Claws",
+      "th": "Sharpened Claws",
+      "vi": "Móng Vuốt"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>利爪与苍雷</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>利爪與蒼雷</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>鋭い爪と蒼雷</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>날카로운 발톱과 창뢰</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Claw and Thunder</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Klauen und Donner</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Garra y trueno</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Griffe et tonnerre</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o nível da <color=#FFD780FF>Garra e Trovão</color> em 3.\nO nível máximo de elevação é 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Гром и когти</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Claw and Thunder</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Claw and Thunder</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Vuốt Và Sấm</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_5"
+  },
+  {
+    "title": {
+      "zhs": "天狼",
+      "zht": "天狼",
+      "jp": "天狼",
+      "ko": "천랑",
+      "en": "Lupus Fulguris",
+      "de": "Lupus Fulguris",
+      "es": "Lupus fulguris",
+      "fr": "Lupus Fulguris",
+      "pt": "Lupus Fulguris",
+      "ru": "Звезда Сириус",
+      "id": "Lupus Fulguris",
+      "th": "Lupus Fulguris",
+      "vi": "Thiên Lang"
+    },
+    "description": {
+      "zhs": "每10秒，雷泽的大剑将自动充能，使下一次普通攻击引发落雷，造成100%攻击力的<color=#FFACFFFF>雷元素伤害</color>。\n不处于<color=#FFD780FF>雷牙</color>状态下时，若落雷击中敌人，会为雷泽积攒一个<color=#FFD780FF>利爪与苍雷</color>的雷之印。",
+      "zht": "每10秒，雷澤的大劍將自動充能，使下一次普通攻擊引發落雷，造成100%攻擊力的<color=#FFACFFFF>雷元素傷害</color>。\n不處於<color=#FFD780FF>雷牙</color>狀態下時，若落雷擊中敵人，會為雷澤累積一個<color=#FFD780FF>利爪與蒼雷</color>的雷之印。",
+      "jp": "10秒毎に、レザーの大剣が自動的にエネルギーを溜め、次の通常攻撃に落雷を引き起こし、攻撃力100%分の<color=#FFACFFFF>雷元素ダメージ</color>を与える。\n<color=#FFD780FF>雷牙</color>状態でない時、落雷が敵に命中すると、レザーに<color=#FFD780FF>鋭い爪と蒼雷</color>の雷の印を1重付与する。",
+      "ko": "10초마다 레이저의 대검이 자동으로 충전되어 다음 일반 공격 시 낙뢰가 발생해 공격력 100%의 <color=#FFACFFFF>번개 원소 피해</color>를 가한다.\n<color=#FFD780FF>뇌아</color> 상태가 아닐 경우 낙뢰가 적에게 명중하면 레이저는 <color=#FFD780FF>날카로운 발톱과 창뢰</color>의 번개의 인장을 1개 획득한다",
+      "en": "Every 10s, Razor's sword charges up, causing the next Normal Attack to release lightning that deals 100% of Razor's ATK as <color=#FFACFFFF>Electro DMG</color>.\nWhen Razor is not using <color=#FFD780FF>Lightning Fang</color>, a lightning strike on an opponent will grant Razor an Electro Sigil for <color=#FFD780FF>Claw and Thunder</color>.",
+      "de": "Razors Großschwert lädt sich alle 10 s auf, elektrisiert den nächsten Standardangriff und verursacht damit <color=#FFACFFFF>Elektro-Schaden</color> in Höhe von 100 % ANG.\nSammelt ohne den Zustand <color=#FFD780FF>Blitzklauen</color> bei einem Treffer mit dem elektrisierten Angriff ein Elektro-Siegel für Razors <color=#FFD780FF>Klauen und Donner</color>.",
+      "es": "La espada de Razor se carga de electricidad cada 10 s, lo que hace que su próximo Ataque Normal libere un rayo que inflige un 100% del ATQ como <color=#FFACFFFF>Daño Electro</color>.\nCuando no está bajo los efectos de <color=#FFD780FF>Colmillo relámpago</color>, cada rayo añade 1 insignia Electro a <color=#FFD780FF>Garra y trueno</color>.",
+      "fr": "Toutes les 10 s, l'arme de Razor se charge d'énergie électrique pour infliger lors de la prochaine attaque normale des <color=#FFACFFFF>DGT Électro</color> équivalant à 100 % de l'ATQ.\nChaque ennemi touché confère à Razor un sceau Électro de <color=#FFD780FF>Griffe et tonnerre</color> tant que <color=#FFD780FF>Croc éclair</color> n'est pas actif.",
+      "pt": "A cada 10s, a espada de Razor recarrega, fazendo com que o próximo Ataque Normal libere um relâmpago que causa 100% de <color=#FFACFFFF>Dano Electro</color> do ATQ de Razor.\nQuando Razor não estiver usando o <color=#FFD780FF>Dente de Relâmpago</color>, um golpe de relâmpago contra o inimigo concederá um Selo Electro a Razor pela <color=#FFD780FF>Garra e Trovão</color>.",
+      "ru": "Каждые 10 сек. меч Рэйзора заряжается молнией, которая высвобождается при следующей обычной атаке и наносит <color=#FFACFFFF>Электро урон</color>, равный 100% от силы атаки Рэйзора.\nЕсли Рэйзор не находится под действием навыка <color=#FFD780FF>Громовой клык</color>, каждое попадание молнией по врагу даёт ему символ Электро навыка <color=#FFD780FF>Гром и когти</color>.",
+      "id": "Setiap 10 detik, pedang Razor mengumpulkan kekuatan secara otomatis, membuat Normal Attack berikutnya melepaskan serangan listrik, mengakibatkan 100% dari ATK Razor sebagai <color=#FFACFFFF>Electro DMG</color>.\nSaat Razor tidak menggunakan <color=#FFD780FF>Lightning Fang</color>, sambaran petir pada musuh akan memberikan Razor sebuah Electro Sigil untuk <color=#FFD780FF>Claw and Thunder</color>.",
+      "th": "ทุก 10 วินาที ดาบใหญ่ของ Razor จะทำการชาร์จตัวเอง โดยจะทำให้เกิดสายฟ้าฟาดในการโจมตีปกติครั้งต่อไป สร้าง<color=#FFACFFFF>ความเสียหายไฟฟ้า</color>เป็น 100% ของพลังการโจมตี\nในตอนที่ไม่อยู่ในสภาวะ <color=#FFD780FF>Lightning Fang</color> หากสายฟ้าโจมตีถูกศัตรู จะทำการรวบรวมลูกแก้วไฟฟ้าของ <color=#FFD780FF>Claw and Thunder</color> ให้ Razor หนึ่งลูก",
+      "vi": "Mỗi 10s, kiếm của Razor sẽ tự động nạp, tấn công thường sau đó sẽ gây ra sấm sét, tạo ra 100% tấn công <color=#FFACFFFF>sát thương Nguyên Tố Lôi</color>. Khi không ở trong trạng thái <color=#FFD780FF>Răng Sét</color>, nếu sét đánh trúng địch, sẽ tích luỹ cho Razor 1 Ấn Lôi <color=#FFD780FF>Vuốt Và Sấm</color>."
+    },
+    "imgid": "constellation_6"
+  }
+]

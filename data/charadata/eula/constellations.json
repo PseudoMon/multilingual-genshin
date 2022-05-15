@@ -1,0 +1,200 @@
+[
+  {
+    "title": {
+      "zhs": "光潮的幻象",
+      "zht": "光潮的幻象",
+      "jp": "潮の幻像",
+      "ko": "빛의 환상",
+      "en": "Tidal Illusion",
+      "de": "Illusion der Lichtwelle",
+      "es": "Ilusión de la marea",
+      "fr": "Illusion des marées",
+      "pt": "Ilusão da Maré de Luz",
+      "ru": "Иллюзия прибоя",
+      "id": "Tidal Illusion",
+      "th": "Tidal Illusion",
+      "vi": "Ảo Ảnh Của Sóng"
+    },
+    "description": {
+      "zhs": "消耗<color=#FFD780FF>冰潮的涡旋</color>的冷酷之心效果后，优菈的物理伤害加成提高30%，持续6秒，\n每消耗一层冷酷之心，都会使这个效果的持续时间延长6秒，最多不会超过18秒。",
+      "zht": "消耗<color=#FFD780FF>冰潮的渦漩</color>的冷酷之心效果後，優菈的物理傷害加成提高30%，持續6秒。\n每消耗一層冷酷之心，都會使這個效果的持續時間延長6秒，最多不超過18秒。",
+      "jp": "<color=#FFD780FF>氷潮の渦</color>の冷酷な心を消費するとエウルアの物理ダメージ+30%、継続時間6秒。\n冷酷な心を1つ消費するたびに、この効果の継続時間+6秒、最大18秒まで。",
+      "ko": "<color=#FFD780FF>얼음 파도의 와류</color>의 냉혹한 마음 효과를 소모하면, 유라의 물리 피해 보너스가 30% 증가한다. 지속 시간: 6초.\n냉혹한 마음을 1스택 소모할 때마다 해당 효과의 지속 시간이 6초 증가하며, 최대 18초까지 증가한다",
+      "en": "Every time <color=#FFD780FF>Icetide Vortex</color>'s Grimheart stacks are consumed, Eula's Physical DMG is increased by 30% for 6s.\nEach stack consumed will increase the duration of this effect by 6s up to a maximum of 18s.",
+      "de": "Erhöht Eulas Bonus für physischen SCH 6 s lang um 30 %, sobald <color=#FFD780FF>Eisiger Strudel</color> den Effekt Kaltes Herz aufbraucht.\nJede verbrauchte Stapelung von Kaltes Herz verlängert die Dauer des Bonus um 6 s und insgesamt um bis zu 18 s.",
+      "es": "Tras consumir las cargas de corazón impasible de <color=#FFD780FF>Vórtice helado</color>, Eula obtiene un 30% de Bono de Daño Físico durante 6 s.\nCada vez que se consuma una carga de corazón impasible, este efecto se prolongará durante 6 s más hasta un máximo de 18 s.",
+      "fr": "À chaque fois qu'une charge de Cœur de glace de <color=#FFD780FF>Vortex des mers glacées</color> est consommée, Eula gagne un bonus de DGT physiques de 30 % pendant 6 s.\nChaque charge de Cœur de glace consommée prolonge la durée de l'effet de 6 s, jusqu'à un maximum de 18 s.",
+      "pt": "Após consumir o efeito de Coração Impassível de <color=#FFD780FF>Vórtice Gelado</color>, o Dano Adicional do Dano Físico de Eula aumenta em 30% por 6s.\nSempre que consumir uma carga de Coração Impassível essa duração de efeito prolongará 6s, no máximo não pode exceder os 18s.",
+      "ru": "Когда Эола тратит Холодное сердце во время <color=#FFD780FF>Ледяного прибоя</color> её бонус физического урона увеличивается на 30% в течение 6 сек.\nКаждое потраченное Холодное сердце увеличивает длительность эффекта на 6 сек. Длительность не может превышать 18 сек.",
+      "id": "Setiap kali lapisan Grimheart dari <color=#FFD780FF>Icetide Vortex</color> dikonsumsi, Physical DMG Eula akan meningkat 30% selama 6 detik.\nSetiap lapis yang terkonsumsi akan meningkatkan durasi efek ini sebanyak 6 detik, hingga maksimum 18 detik.",
+      "th": "หลังจากใช้เอฟเฟกต์ Grimheart ของ <color=#FFD780FF>Icetide Vortex</color> โบนัสความเสียหายกายภาพของ Eula จะเพิ่มขึ้น 30% เป็นเวลา 6 วินาที\nทุกการใช้ Grimheart 1 ชั้น จะเป็นการเพิ่มระยะเวลาต่อเนื่องของเอฟเฟกต์นี้ 6 วินาที โดยจะเพิ่มได้มากสุดไม่เกิน 18 วินาที",
+      "vi": "Sau khi tiêu hao hiệu quả Trái Tim Băng Giá của <color=#FFD780FF>Lốc Xoáy Băng Hàn</color>, buff sát thương vật lý của Eula tăng 30%, kéo dài 6s.\nMỗi khi tiêu hao 1 tầng Trái Tim Băng Giá đều khiến hiệu ứng này kéo dài thêm 6s, tối đa không vượt quá 18s."
+    },
+    "imgid": "constellation_1"
+  },
+  {
+    "title": {
+      "zhs": "海沫的少女",
+      "zht": "海沫的少女",
+      "jp": "波花の淑女",
+      "ko": "물보라 소녀",
+      "en": "Lady of Seafoam",
+      "de": "Mädchen des Meeresschaums",
+      "es": "Hija del mar",
+      "fr": "Fille d'écume de mer",
+      "pt": "Garota da Espuma do Mar",
+      "ru": "Дева морской пены",
+      "id": "Lady of Seafoam",
+      "th": "Lady of Seafoam",
+      "vi": "Thiếu Nữ Của Bọt Biển"
+    },
+    "description": {
+      "zhs": "缩短<color=#FFD780FF>冰潮的涡旋</color>长按的冷却时间，使其降低至与点按的冷却时间相同。",
+      "zht": "縮短<color=#FFD780FF>冰潮的渦漩</color>長按的冷卻時間，使其降低至與點按的冷卻時間相同。",
+      "jp": "<color=#FFD780FF>氷潮の渦</color>の長押しのクールタイムを短縮し、一回押しと同じクールタイムにする。",
+      "ko": "<color=#FFD780FF>얼음 파도의 와류</color>의 홀드 재사용 대기시간이 짧은 터치 재사용 대기시간과 같아질 만큼 감소한다",
+      "en": "#Decreases the CD of <color=#FFD780FF>Icetide Vortex</color>'s Holding Mode, rendering it identical to {LAYOUT_MOBILE#Tapping}{LAYOUT_PC#Press}{LAYOUT_PS#Press} CD.",
+      "de": "Verringert die Abklingzeit für Gedrückthalten von <color=#FFD780FF>Eisiger Strudel</color>, sodass sie ebenso lang wie die bei normalem Drücken ist.",
+      "es": "#Reduce el TdE de mantener pulsado <color=#FFD780FF>Vórtice helado</color> hasta ser el mismo que el de {LAYOUT_MOBILE#tocar una vez}{LAYOUT_PC#pulsar una vez}{LAYOUT_PS#pulsar una vez}.",
+      "fr": "Réduit le TdR de l'appui long de <color=#FFD780FF>Vortex des mers glacées</color> pour correspondre à celui de l'appui simple.",
+      "pt": "Diminui o tempo de recarga ao manter pressionado <color=#FFD780FF>Vórtice Gelado</color>, tornando esse tempo igual ao tempo de recarga de pressionar.",
+      "ru": "Уменьшает время отката заряженного режима <color=#FFD780FF>Ледяного прибоя</color>, делая его равным времени отката незаряженного варианта.",
+      "id": "Mengurangi CD dari Mode Tahan <color=#FFD780FF>Icetide Vortex</color>, membuatnya sama dengan CD Mode Tekan.",
+      "th": "#ลดเวลาคูลดาวน์ของการ{LAYOUT_MOBILE#แตะค้าง}{LAYOUT_PC#กดค้าง}{LAYOUT_PS#กดค้าง}ของ <color=#FFD780FF>Icetide Vortex</color> ลง เท่ากับการคูลดาวน์ของการ{LAYOUT_MOBILE#แตะ}{LAYOUT_PC#กด}{LAYOUT_PS#กด}",
+      "vi": "Rút ngắn CD khi nhấn giữ <color=#FFD780FF>Lốc Xoáy Băng Hàn</color>, khiến CD giảm xuống bằng với nhấn buông."
+    },
+    "imgid": "constellation_2"
+  },
+  {
+    "title": {
+      "zhs": "劳伦斯的血脉",
+      "zht": "勞倫斯的血脈",
+      "jp": "ローレンスの血統",
+      "ko": "로렌스의 혈통",
+      "en": "Lawrence Pedigree",
+      "de": "Blut des Lawrence-Klans",
+      "es": "Sangre Lawrence",
+      "fr": "Le sang des Lawrence",
+      "pt": "Sangue de Lawrence",
+      "ru": "Кровь Лоуренсов",
+      "id": "Lawrence Pedigree",
+      "th": "Lawrence Pedigree",
+      "vi": "Huyết Mạch Của Lawrence"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>凝浪之光剑</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>凝浪之光劍</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>氷浪の光剣</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>파도를 얼리는 광검</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Glacial Illumination</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Schwert der Brandung</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Fulgor glacial</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Lame de fond</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o nível da Habilidade <color=#FFD780FF>Espada das Ondas Congeladas</color> em 3.\nO nível máximo de aumento é 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Сумеречный меч</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Glacial Illumination</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลของสกิล <color=#FFD780FF>Glacial Illumination</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Thanh Kiếm Sóng Nước</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_3"
+  },
+  {
+    "title": {
+      "zhs": "自卑者的逞强",
+      "zht": "自卑者的逞強",
+      "jp": "劣等感との戦い",
+      "ko": "열등감 속 고집",
+      "en": "The Obstinacy of One's Inferiors",
+      "de": "Kampf gegen Minderwertigkeitsgefühle",
+      "es": "Obstinación de los plebeyos",
+      "fr": "Émergence de la plèbe",
+      "pt": "A Obstinação da Sensação de Inferioridade",
+      "ru": "Упрямство толпы",
+      "id": "The Obstinacy of One's Inferiors",
+      "th": "The Obstinacy of One's Inferiors",
+      "vi": "Sức Mạnh Của Kẻ Tự Ti"
+    },
+    "description": {
+      "zhs": "对生命值低于50%的敌人，光降之剑造成的伤害提高25%。",
+      "zht": "對生命值低於50%的敵人，光降之劍造成的傷害提高25%。",
+      "jp": "HP50%未満の敵に対する光臨の剣のダメージ+25%。",
+      "ko": "HP가 50% 미만인 적에게 빛의 검으로 가하는 피해가 25% 증가한다",
+      "en": "Lightfall Swords deal 25% increased DMG against opponents with less than 50% HP.",
+      "de": "Erhöht den Gegnern mit weniger als 50 % LP mit Schwert des Lichtfalls zugefügten Schaden um 25 %.",
+      "es": "Aumenta en un 25% el daño que inflige la espada luminosa contra los enemigos con menos de un 50% de Vida.",
+      "fr": "Augmente de 25 % les DGT infligés par l'épée de lumière aux ennemis dont les PV sont inférieurs à 50 %.",
+      "pt": "A Espada Luminosa tem um aumento de 25% de Dano contra inimigos com menos de 50% de Vida.",
+      "ru": "Меч света наносит на 25% больше урона против врагов с HP ниже 50%.",
+      "id": "Meningkatkan 25% DMG Lightfall Sword terhadap musuh dengan HP kurang dari 50%.",
+      "th": "Lightfall Sword สร้างความเสียหายเพิ่มขึ้น 25% แก่ศัตรูที่มีพลังชีวิตต่ำกว่า 50%",
+      "vi": "Đối với địch có HP dưới 50%, sát thương tạo thành của Kiếm Ánh Sáng tăng 25%."
+    },
+    "imgid": "constellation_4"
+  },
+  {
+    "title": {
+      "zhs": "骑士的素质",
+      "zht": "騎士的素質",
+      "jp": "騎士の素質",
+      "ko": "기사의 소양",
+      "en": "Chivalric Quality",
+      "de": "Qualitäten eines Ritters",
+      "es": "Virtud de caballera",
+      "fr": "Honneur de la chevalerie",
+      "pt": "Qualidade de Cavaleira",
+      "ru": "Рыцарская суть",
+      "id": "Chivalric Quality",
+      "th": "Chivalric Quality",
+      "vi": "Tố Chất Kỵ Sĩ"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>冰潮的涡旋</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>冰潮的渦漩</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>氷潮の渦</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>얼음 파도의 와류</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Icetide Vortex</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Eisiger Strudel</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Vórtice helado</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Vortex des mers glacées</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o nível da Habilidade <color=#FFD780FF>Vórtice Gelado</color> em 3.\nO nível máximo de aumento é 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Ледяной прибой</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Icetide Vortex</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลของสกิล <color=#FFD780FF>Icetide Vortex</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Lốc Xoáy Băng Hàn</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_5"
+  },
+  {
+    "title": {
+      "zhs": "高贵者的义务",
+      "zht": "高貴者的義務",
+      "jp": "高貴なる者の義務",
+      "ko": "고귀한 자의 의무",
+      "en": "Noble Obligation",
+      "de": "Pflichten der Adeligen",
+      "es": "Deber aristocrático",
+      "fr": "Obligations aristocratiques",
+      "pt": "Obrigações Aristocráticas",
+      "ru": "Долг благородных",
+      "id": "Noble Obligation",
+      "th": "Noble Obligation",
+      "vi": "Nghĩa Vụ Cao Quý"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>凝浪之光剑</color>创造的光降之剑立即获得5层能量。普通攻击、元素战技或元素爆发造成伤害使其积蓄能量层数时，有50%的概率额外获得一层。",
+      "zht": "<color=#FFD780FF>凝浪之光劍</color>創造的光降之劍立即獲得五層能量。普通攻擊、元素戰技或元素爆發造成傷害使其積蓄能量層數時，有50%的機率額外獲得一層。",
+      "jp": "<color=#FFD780FF>氷浪の光剣</color>で創造した光臨の剣は、直ちにエネルギーを5つ獲得する。通常攻撃、元素スキルまたは元素爆発によりエネルギーを獲得する際、50%の確率でさらに1つ獲得する。",
+      "ko": "<color=#FFD780FF>파도를 얼리는 광검</color>에 의해 생성된 빛의 검은 즉시 에너지를 5스택 획득한다. 일반 공격, 원소전투 스킬, 혹은 원소폭발로 적에게 피해를 줘서 에너지 스택을 쌓으면 50%의 확률로 1스택이 더 쌓인다",
+      "en": "Lightfall Swords created by <color=#FFD780FF>Glacial Illumination</color> start with 5 stacks of energy. Normal Attacks, Elemental Skills, and Elemental Bursts have a 50% chance to grant the Lightfall Sword an additional stack of energy.",
+      "de": "Das mit <color=#FFD780FF>Schwert der Brandung</color> erstellte Schwert des Lichtfalls erhält sofort 5 Stapelungen Energie und bei Verursachen von Schaden durch Standardangriffe, Elementarfähigkeiten oder Spezialfähigkeiten mit einer Wahrscheinlichkeit von 50 % eine zusätzliche Stapelung.",
+      "es": "Otorga inmediatamente 5 cargas de energía a la espada luminosa creada mediante <color=#FFD780FF>Fulgor glacial</color>. Además, al usar Ataques Normales, la Habilidad Elemental o la Habilidad Definitiva para acumular cargas, hay una probabilidad del 50% de que la espada luminosa obtenga una carga adicional.",
+      "fr": "Confère immédiatement 5 charges d'énergie à l'épée de lumière créée par <color=#FFD780FF>Lame de fond</color>. De plus, lorsque vous utilisez des attaques normales, la compétence ou le déchaînement élémentaire pour cumuler des charges, vous avez 50 % de chances de gagner une charge supplémentaire.",
+      "pt": "A Espada Luminosa criada pela <color=#FFD780FF>Espada das Ondas Congeladas</color> faz obter imediatamente 5 acúmulos de Energia. Quando os Ataques Normais, Habilidades Elementais ou Supremos causam Dano, seus acúmulos tem uma chance de 50% de obter um acúmulo de Energia adicional.",
+      "ru": "Меч света, который создаёт талант <color=#FFD780FF>Сумеречный меч</color> сразу получает 5 единиц энергии. Когда обычная атака, элементальный навык или взрыв стихии даёт Мечу света энергию, у него есть 50% шанс дополнительно получить ещё одну единицу энергии.",
+      "id": "Lightfall Sword yang tercipta dari <color=#FFD780FF>Glacial Illumination</color> langsung memperoleh 5 lapis energi. Saat DMG yang diakibatkan Normal Attack, Elemental Skill, dan Elemental Burst mengakumulasi lapisan energi, Lightfall Sword memiliki 50% kemungkinan untuk memperoleh 1 lapis energi tambahan.",
+      "th": "Lightfall Sword ที่สร้างขึ้นโดย <color=#FFD780FF>Glacial Illumination</color> จะได้รับพลังงาน 5 ชั้น โดยทันที และเมื่อความเสียหายของการโจมตีปกติ สกิลธาตุ หรือท่าไม้ตายทำให้เกิดการสะสมชั้นพลังงาน จะมีโอกาส 50% ที่จะได้รับพลังงานเพิ่ม 1 ชั้น",
+      "vi": "Kiếm Ánh Sáng được tạo ra từ <color=#FFD780FF>Thanh Kiếm Sóng Nước</color> nhận ngay 5 tầng năng lượng. Khi tấn công thường, Kỹ Năng Nguyên Tố hoặc Kỹ Năng Nộ gây sát thương khiến nó tích tụ số tầng năng lượng, sẽ có 50% tỷ lệ nhận thêm 1 tầng."
+    },
+    "imgid": "constellation_6"
+  }
+]

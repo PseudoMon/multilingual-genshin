@@ -1,0 +1,200 @@
+[
+  {
+    "title": {
+      "zhs": "冒险憧憬",
+      "zht": "冒險憧憬",
+      "jp": "冒険の憧れ",
+      "ko": "모험 동경",
+      "en": "Grand Expectation",
+      "de": "Lust auf Abenteuer",
+      "es": "Visión de aventura",
+      "fr": "Perspective de voyage",
+      "pt": "Grande Expectativa",
+      "ru": "Мечты о приключениях",
+      "id": "Grand Expectation",
+      "th": "Grand Expectation",
+      "vi": "Tầm Nhìn Phiêu Lưu"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>美妙旅程</color>的攻击力提升效果不再有生命值限制，数值上追加班尼特基础攻击力的20%。",
+      "zht": "<color=#FFD780FF>「美妙旅程」</color>的攻擊力提升效果不再有生命值限制，並且該效果在數值上追加班尼特基礎攻擊力的20%。",
+      "jp": "<color=#FFD780FF>素晴らしい旅</color>の攻撃力アップ効果のHPによる制限がなくなり、更にベネットの基礎攻撃力の20%に当たる数値を追加する。",
+      "ko": "<color=#FFD780FF>아름다운 여정</color>의 공격력 증가 효과는 더이상 HP의 제한을 받지 않고 공격력 수치에 베넷 기초 공격력의 20%가 추가된다",
+      "en": "<color=#FFD780FF>Fantastic Voyage</color>'s ATK increase no longer has an HP restriction, and gains an additional 20% of Bennett's Base ATK.",
+      "de": "Hebt die LP-Beschränkung für die ANG-Erhöhung von <color=#FFD780FF>Fantastische Reise</color> auf und erhöht den Wert um 20 % von Bennetts Basis-ANG.",
+      "es": "El aumento de ATQ de <color=#FFD780FF>Aventura maravillosa</color> ya no se ve restringido por la cantidad de Vida, y aumenta en un 20% adicional en proporción al ATQ Básico de Bennett.",
+      "fr": "Le bonus d'ATQ conféré par <color=#FFD780FF>Merveilleux voyage</color> n'est plus soumis à la restriction de PV, et augmente numériquement l'ATQ de base de Bennett de 20 %.",
+      "pt": "O aumento do ATQ da <color=#FFD780FF>Viagem Fantástica</color> não possui mais restrição de Vida, e aumenta numericamente 20% do ATQ Básico de Bennett.",
+      "ru": "Увеличение силы атаки навыка <color=#FFD780FF>Волнительное приключение</color> больше не имеет ограничений по HP, также навык получает дополнительные 20% базовой атаки Беннета.",
+      "id": "Efek peningkatan ATK dari <color=#FFD780FF>Fantastic Voyage</color> tidak lagi dibatasi HP, dan memiliki 20% ATK lebih besar.",
+      "th": "ผลของพลังโจมตีของ <color=#FFD780FF>Fantastic Voyage</color> ที่เพิ่มขึ้นจะไม่ถูกจำกัดโดย ปริมาณพลังชีวิตอีกต่อไป และจะเพิ่มขึ้นอีก 20% จากพลังโจมตีพื้นฐานของ Bennett",
+      "vi": "Buff hiệu quả tấn công của <color=#FFD780FF>Hành Trình Kỳ Diệu</color> sẽ không bị giới hạn bởi HP, tăng thêm 20% tấn công cơ bản của Bennett vào chỉ số."
+    },
+    "imgid": "constellation_1"
+  },
+  {
+    "title": {
+      "zhs": "踏破绝境",
+      "zht": "踏破絕境",
+      "jp": "絶境踏破",
+      "ko": "궁지 돌파",
+      "en": "Impasse Conqueror",
+      "de": "Flucht aus der Trostlosigkeit",
+      "es": "Huida desesperada",
+      "fr": "Brise-désespoir",
+      "pt": "Escape da Desolação",
+      "ru": "Тупиковая ситуация",
+      "id": "Impasse Conqueror",
+      "th": "Impasse Conqueror",
+      "vi": "Vượt Qua Nghịch Cảnh"
+    },
+    "description": {
+      "zhs": "班尼特的生命值低于70%时，元素充能效率提高30%。",
+      "zht": "班尼特的生命值低於70%時，元素充能效率提高30%。",
+      "jp": "ベネットのHPが70%以下になると、元素チャージ効率+30%。",
+      "ko": "베넷의 HP가 70% 미만일 때 원소 충전 효율이 30% 상승한다",
+      "en": "When Bennett's HP falls below 70%, his Energy Recharge is increased by 30%.",
+      "de": "Erhöht die Aufladerate, wenn Bennett weniger als 70 % LP hat, um 30 %.",
+      "es": "Aumenta la Recarga de Energía de Bennett en un 30% cuando su Vida es inferior al 70%.",
+      "fr": "La recharge d'énergie de Bennett augmente de 30 % lorsque ses PV sont inférieurs à 70 %.",
+      "pt": "Quando a Vida de Bennett cair abaixo de 70%, a Recarga da sua Energia é aumentada em 30%.",
+      "ru": "Увеличивает восстановление энергии Беннета на 30%, когда его HP падает ниже 70%.",
+      "id": "Saat HP Bennett kurang dari 70%, meningkatkan 30% Energy Recharge.",
+      "th": "เมื่อพลังชีวิตของ Bennett ต่ำกว่า 70% จะเพิ่มประสิทธิภาพการฟื้นฟูพลังงานขึ้น 30%",
+      "vi": "Khi HP của Bennett dưới 70%, tăng 30% hiệu quả nạp Nguyên Tố."
+    },
+    "imgid": "constellation_2"
+  },
+  {
+    "title": {
+      "zhs": "火热激情",
+      "zht": "火熱激情",
+      "jp": "炎のような情熱",
+      "ko": "타오르는 열정",
+      "en": "Unstoppable Fervor",
+      "de": "Inbrunst",
+      "es": "Pasión ardiente",
+      "fr": "Passion ardente",
+      "pt": "Paixão Ardente",
+      "ru": "Горячая страсть",
+      "id": "Unstoppable Fervor",
+      "th": "Unstoppable Fervor",
+      "vi": "Đam Mê Rực Cháy"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>热情过载</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>熱情超載</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>溢れる情熱</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>열정 과부하</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Passion Overload</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Überschwänglichkeit</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Sobrecarga de pasión</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Surpassion</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o nível da <color=#FFD780FF>Sobrecarga de Paixão</color> em 3.\nO nível máximo de elevação é 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Чрезмерные стремления</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Passion Overload</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Passion Overload</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Nhiệt Tình Quá Độ</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_3"
+  },
+  {
+    "title": {
+      "zhs": "热情不灭",
+      "zht": "熱情不滅",
+      "jp": "消えない情熱",
+      "ko": "사그러들지 않는 열정",
+      "en": "Unexpected Odyssey",
+      "de": "Unerschütterlichkeit",
+      "es": "Calidez inagotable",
+      "fr": "Enthousiasme éternel",
+      "pt": "Odisseia Inesperada",
+      "ru": "Несгораемая решительность",
+      "id": "Unexpected Odyssey",
+      "th": "Unexpected Odyssey",
+      "vi": "Nhiệt Huyết Bất Diệt"
+    },
+    "description": {
+      "zhs": "施放一段蓄力的<color=#FFD780FF>热情过载</color>时，在技能第二段攻击中进行普通攻击，可以施放额外的追击。\n追击的伤害等同于第二段攻击的135%。",
+      "zht": "施放一段蓄力的<color=#FFD780FF>熱情超載</color>時，在技能第二段攻擊中進行普通攻擊，可以施放額外的追擊。\n追擊的傷害等同於第二段攻擊的135%。",
+      "jp": "1段チャージ<color=#FFD780FF>溢れる情熱</color>を発動する時、二段目攻撃中に通常攻撃をすると追加攻撃を発動できる。\n二段目攻撃の135%の追加ダメージを与える。",
+      "ko": "1단 차지로 <color=#FFD780FF>열정 과부하</color> 발동 시 스킬의 2단 공격 중 일반 공격을 발동하면 추가 공격을 할 수 있다.\n추가 공격 피해는 2단 공격의 135%이다",
+      "en": "Using a Normal Attack when executing the second attack of <color=#FFD780FF>Passion Overload</color>'s Charge Level 1 allows an additional attack to be performed.\nThis additional attack does 135% of the second attack's DMG.",
+      "de": "Startet einen zusätzlichen Angriff, wenn nach Aufladephase 1 von <color=#FFD780FF>Überschwänglichkeit</color> bei Aufladephase 2 ein Standardangriff angewendet wird.\nDer Schaden dieses Angriffs entspricht 135 % ANG von Phase 2.",
+      "es": "Usar un Ataque Normal al ejecutar el segundo ataque de <color=#FFD780FF>Sobrecarga de pasión</color>: Carga 1 permite realizar un ataque adicional.\nEste ataque adicional es equivalente al 135% del daño del segundo ataque.",
+      "fr": "L'utilisation d'une attaque normale lors de l'exécution de la deuxième attaque du niveau 1 de charge de <color=#FFD780FF>Surpassion</color> permet d'effectuer une attaque supplémentaire.\nCelle-ci inflige 135 % des DGT de la deuxième attaque.",
+      "pt": "Usar um Ataque Normal ao executar um segundo ataque de Carga Nível 1 da <color=#FFD780FF>Sobrecarga da Paixão</color> permite realizar um ataque adicional.\nEsse ataque adicional causa 135% do Dano do segundo ataque.",
+      "ru": "Использование обычной атаки во время второго удара уровня заряда 1 навыка <color=#FFD780FF>Чрезмерные стремления</color> позволяет совершить дополнительную атаку.\nЭта атака наносит урон, равный 135% урона второго удара.",
+      "id": "Mendapatkan serangan tambahan dengan menggunakan Normal Attack saat Bennett melakukan serangan kedua dari skill <color=#FFD780FF>Passion Overload</color> Charge Level 1.\nSerangan tambahan menghasilkan 135% dari DMG serangan kedua.",
+      "th": "เมื่อปล่อยการชาร์จโจมตี ขั้นหนึ่งของ <color=#FFD780FF>Passion Overload</color> การโจมตีขั้นสองของสกิล จะเป็นการโจมตีปกติ และสามารถทำการโจมตี ต่อเนื่องได้ \nความเสียหายจาก การโจมตีต่อเนื่องเป็น 135% ของการโจมตีขั้นสอง",
+      "vi": "Khi thi triển <color=#FFD780FF>Nhiệt Tình Quá Độ</color> tụ lực lần 1, sẽ tấn công thường trong lúc tấn công kỹ năng lần 2, kèm theo truy kích.\nSát thương truy kích bằng 135% của tấn công lần 2."
+    },
+    "imgid": "constellation_4"
+  },
+  {
+    "title": {
+      "zhs": "开拓的心魂",
+      "zht": "開拓的心魂",
+      "jp": "開拓の心意気",
+      "ko": "넓어진 마음",
+      "en": "True Explorer",
+      "de": "Entdeckergeist",
+      "es": "Explorador verdadero",
+      "fr": "Ouverture d'âme",
+      "pt": "O Verdadeiro Explorador",
+      "ru": "Душа первооткрывателя",
+      "id": "True Explorer",
+      "th": "True Explorer",
+      "vi": "Mở Rộng Tâm Hồn"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>美妙旅程</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>美妙旅程</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>素晴らしい旅</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>아름다운 여정</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Fantastic Voyage</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Fantastische Reise</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Aventura maravillosa</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Merveilleux voyage</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o nível da <color=#FFD780FF>Viagem Fantástica</color> em 3.\nO nível máximo de elevação é 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Волнительное приключение</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Fantastic Voyage</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Fantastic Voyage</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Hành Trình Kỳ Diệu</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_5"
+  },
+  {
+    "title": {
+      "zhs": "烈火与勇气",
+      "zht": "烈火與勇氣",
+      "jp": "烈火と勇気",
+      "ko": "열화와 용기",
+      "en": "Fire Ventures with Me",
+      "de": "Feuer in meiner Brust",
+      "es": "Fuego y coraje",
+      "fr": "Feu et courage",
+      "pt": "Fogo e Coragem",
+      "ru": "Пылкая храбрость",
+      "id": "Fire Ventures with Me",
+      "th": "Fire Ventures with Me",
+      "vi": "Lửa Và Can Đảm"
+    },
+    "description": {
+      "zhs": "处在<color=#FFD780FF>美妙旅程</color>领域内的队伍中当前场上单手剑、双手剑、长柄武器角色获得15%<color=#FF9999FF>火元素伤害加成</color>，并获得<color=#FF9999FF>火元素附魔</color>。",
+      "zht": "處於<color=#FFD780FF>美妙旅程</color>領域內，且持單手劍、雙手劍、長柄武器的隊伍中的場上角色獲得15%<color=#FF9999FF>火元素傷害加成</color>，並獲得<color=#FF9999FF>火元素傷害</color>。",
+      "jp": "<color=#FFD780FF>素晴らしい旅</color>エリア内にいる片手剣、両手剣、長柄武器キャラクターの<color=#FF9999FF>炎元素ダメージ</color>+15%、さらに<color=#FF9999FF>炎元素付与</color>状態を獲得する。",
+      "ko": "<color=#FFD780FF>아름다운 여정</color> 영역 내에 있는 한손검, 양손검, 장병기 무기 캐릭터는 <color=#FF9999FF>불 원소 피해 보너스</color>를 15% 획득하고 <color=#FF9999FF>불 원소 부여</color> 효과를 얻는다",
+      "en": "Sword, Claymore, or Polearm-wielding characters inside <color=#FFD780FF>Fantastic Voyage</color>'s radius gain a 15% <color=#FF9999FF>Pyro DMG Bonus</color> and their weapons are infused with <color=#FF9999FF>Pyro</color>.",
+      "de": "Erhöht den <color=#FF9999FF>Pyro-Schaden</color> der aktuellen Figuren in der Truppe mit Einhändern, Zweihändern und Stangenwaffen im Wirkungsbereich von <color=#FFD780FF>Fantastische Reise</color> um 15 % und verleiht ihnen die <color=#FF9999FF>Pyro-Kraft</color>.",
+      "es": "Si los personajes en uso utilizan espada ligera, mandoble o lanza y se encuentran en el AdE de <color=#FFD780FF>Aventura maravillosa</color>, dichos personajes obtendrán un 15% de <color=#FF9999FF>Bono de Daño Pyro</color>. Además, serán <color=#FF9999FF>imbuidos del elemento Pyro</color>.",
+      "fr": "Le champ de <color=#FFD780FF>Merveilleux voyage</color> confère à tous les personnages de l'équipe déployés et maniant une épée à une ou deux mains ou une arme d'hast qui s'y trouvent un <color=#FF9999FF>bonus de DGT Pyro</color> de 15 %, ainsi qu'un <color=#FF9999FF>enchantement Pyro</color>.",
+      "pt": "<color=#FFD780FF>Viagem Fantástica</color> concede 15% de <color=#FF9999FF>Bônus de Dano Pyro</color> aos membros do grupo dentro da AdE. Além disso, personagens que usam Espadas, Espadões e Lanças recebem um <color=#FF9999FF>Encantamento Pyro</color>.",
+      "ru": "Активные члены отряда в области навыка <color=#FFD780FF>Волнительное приключение</color>, экипированные одноручным мечом, двуручным мечом или древковым оружием, получают 15% <color=#FF9999FF>бонус Пиро урона</color>, а их оружие наделяется <color=#FF9999FF>инфузией Пиро</color>.",
+      "id": "Memberikan 15% <color=#FF9999FF>Pyro DMG Bonus</color> dan <color=#FF9999FF>Pyro Infusion</color> pada karakter yang menggunakan Sword, Claymore dan Polearm di dalam radius <color=#FFD780FF>Fantastic Voyage</color>.",
+      "th": "ตัวละครในทีมที่เข้าสู่การต่อสู้ในขณะนั้นที่ใช้อาวุธดาบ, ดาบใหญ่, หอก ที่อยู่ในพื้นที่ของ <color=#FFD780FF>Fantastic Voyage</color> จะได้รับ <color=#FF9999FF>โบนัสความเสียหายไฟ</color> 15% และจะได้รับ<color=#FF9999FF>พลังแห่งไฟ</color>",
+      "vi": "Nhân vật sử dụng kiếm đơn, trọng kiếm, vũ khí cán dài trong đội hiện đang trong trận ở khu vực <color=#FFD780FF>Hành Trình Kỳ Diệu</color> được nhận 15% <color=#FF9999FF>tăng sát thương Nguyên Tố Hỏa</color> và nhận <color=#FF9999FF>Nguyên Tố Hỏa đính kèm</color>."
+    },
+    "imgid": "constellation_6"
+  }
+]

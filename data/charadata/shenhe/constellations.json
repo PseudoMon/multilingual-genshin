@@ -1,0 +1,200 @@
+[
+  {
+    "title": {
+      "zhs": "心斋",
+      "zht": "心齋",
+      "jp": "心斎",
+      "ko": "심재",
+      "en": "Clarity of Heart",
+      "de": "Klarheiten im Herzen",
+      "es": "Corazón puro",
+      "fr": "Clarté du cœur",
+      "pt": "Clareza do Coração",
+      "ru": "Душевная чистота",
+      "id": "Clarity of Heart",
+      "th": "Clarity of Heart",
+      "vi": "Tâm Trai"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>仰灵威召将役咒</color>的可使用次数增加1次。",
+      "zht": "<color=#FFD780FF>仰靈威召將役咒</color>的可使用次數增加1次。",
+      "jp": "<color=#FFD780FF>仰霊威召将役呪</color>の使用可能回数+1。",
+      "ko": "<color=#FFD780FF>위령 소환 구사술</color>의 사용 가능 횟수가 1회 증가한다",
+      "en": "<color=#FFD780FF>Spring Spirit Summoning</color> can be used 1 more time.",
+      "de": "Ermöglicht 1 weitere Anwendung von <color=#FFD780FF>Mantra der Geisterbeschwörung</color>.",
+      "es": "<color=#FFD780FF>Espíritu exorcizador</color> se puede usar una vez más.",
+      "fr": "Confère une charge supplémentaire pour <color=#FFD780FF>Invocation d'esprit printanier</color>.",
+      "pt": "<color=#FFD780FF>Invocação Espiritual</color> pode ser utilizada mais uma vez.",
+      "ru": "Увеличивает количество зарядов навыка <color=#FFD780FF>Призыв духа</color> на 1.",
+      "id": "Jumlah penggunaan <color=#FFD780FF>Spring Spirit Summoning</color> bertambah 1 kali.",
+      "th": "จำนวนครั้งที่สามารถใช้ <color=#FFD780FF>Spring Spirit Summoning</color> ได้ เพิ่มขึ้น 1 ครั้ง",
+      "vi": "Số lần sử dụng của <color=#FFD780FF>Triệu Tướng Dịch Chú</color> tăng thêm 1"
+    },
+    "imgid": "constellation_1"
+  },
+  {
+    "title": {
+      "zhs": "定蒙",
+      "zht": "定蒙",
+      "jp": "定蒙",
+      "ko": "정몽",
+      "en": "Centered Spirit",
+      "de": "Fixierung des Geistes",
+      "es": "Concentración espiritual",
+      "fr": "Esprit centré",
+      "pt": "Espírito Centrado",
+      "ru": "Духовная концентрация",
+      "id": "Centered Spirit",
+      "th": "Centered Spirit",
+      "vi": "Định Mông"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>神女遣灵真诀</color>的持续时间延长6秒。领域中的当前场上角色，<color=#99FFFFFF>冰元素伤害</color>的暴击伤害提高15%。",
+      "zht": "<color=#FFD780FF>神女遣靈真訣</color>的持續時間延長6秒。領域中的目前場上角色，<color=#99FFFFFF>冰元素傷害</color>的暴擊傷害提高15%。",
+      "jp": "<color=#FFD780FF>神女遣霊真訣</color>の継続時間+6秒。領域内フィールド上キャラクターが与える<color=#99FFFFFF>氷元素ダメージ</color>の会心ダメージ+15%。",
+      "ko": "<color=#FFD780FF>신녀 강령 비결</color>의 지속 시간이 6초 증가한다. 영역 내에 있는 필드 위 캐릭터의 <color=#99FFFFFF>얼음 원소 피해</color>의 치명타 피해가 15% 증가한다",
+      "en": "<color=#FFD780FF>Divine Maiden's Deliverance</color> lasts for 6 seconds longer. Active characters within the skill's field deal 15% increased <color=#99FFFFFF>Cryo</color> CRIT DMG.",
+      "de": "Verlängert die Wirkungsdauer von <color=#FFD780FF>Geisterbefehligung der göttlichen Jungfrau</color> um 6 s. Erhöht KSCH des <color=#99FFFFFF>Kryo-Schadens</color> aktueller Figuren im Wirkungsbereich um 15 %.",
+      "es": "Aumenta en 6 s la duración de <color=#FFD780FF>Encantamiento de la damisela divina</color>. Además, cuando un personaje en uso está en el área de la habilidad, el Daño CRIT de los ataques que infligen <color=#99FFFFFF>Daño Cryo</color> aumenta en un 15%.",
+      "fr": "Prolonge la durée de <color=#FFD780FF>Délivrance de la demoiselle divine</color> de 6 s. De plus, les DGT CRIT des <color=#99FFFFFF>DGT Cryo</color> du personnage déployé dans le champ augmentent de 15 %.",
+      "pt": "Prolonga a duração de <color=#FFD780FF>Encantamento da Donzela Divina</color> em 6s. Personagens ativos na AdE da Habilidade infligem 15% a mais de <color=#99FFFFFF>Dano Cryo</color> CRIT.",
+      "ru": "Длительность эффекта навыка <color=#FFD780FF>Таинство освобождения</color> увеличивается на 6 сек. Активные члены отряда, находящиеся в области навыка, наносят на 15% больше крит. <color=#99FFFFFF>Крио урона</color>.",
+      "id": "Durasi <color=#FFD780FF>Divine Maiden's Deliverance</color> diperpanjang 6 detik. CRIT DMG dari <color=#99FFFFFF>Cryo DMG</color> untuk Karakter aktif yang berada di dalam area meningkat 15%.",
+      "th": "ช่วงเวลาต่อเนื่องของ <color=#FFD780FF>Divine Maiden's Deliverance</color> ยาวนานขึ้น 6 วินาที และความแรงคริของ<color=#99FFFFFF>ความเสียหายน้ำแข็ง</color> ของตัวละครที่เข้าร่วมการต่อสู้ในขณะนั้นและอยู่ในพื้นที่เพิ่มขึ้น 15%",
+      "vi": "Thời gian duy trì của <color=#FFD780FF>Thần Nữ Khiển Linh Quyết</color> kéo dài thêm 6s. Nhân vật trong trận hiện tại đang trong vùng ảnh hưởng sẽ tăng 15% sát thương bạo kích của <color=#99FFFFFF>Sát Thương Nguyên Tố Băng</color>."
+    },
+    "imgid": "constellation_2"
+  },
+  {
+    "title": {
+      "zhs": "潜虚",
+      "zht": "潛虛",
+      "jp": "潜虚",
+      "ko": "잠허",
+      "en": "Seclusion",
+      "de": "Zurückgezogenheit",
+      "es": "Reclusión",
+      "fr": "Isolement",
+      "pt": "Reclusão",
+      "ru": "Уход от мира",
+      "id": "Seclusion",
+      "th": "Seclusion",
+      "vi": "Tiềm Hư"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>仰灵威召将役咒</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>仰靈威召將役咒</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>仰霊威召将役呪</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>위령 소환 구사술</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Spring Spirit Summoning</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Mantra der Geisterbeschwörung</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Espíritu exorcizador</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Invocation d'esprit printanier</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o nível de <color=#FFD780FF>Invocação Espiritual</color> em 3.\nNível máximo é 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Призыв духа</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Spring Spirit Summoning</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Spring Spirit Summoning</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Triệu Tướng Dịch Chú</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_3"
+  },
+  {
+    "title": {
+      "zhs": "洞观",
+      "zht": "洞觀",
+      "jp": "洞観",
+      "ko": "통관",
+      "en": "Insight",
+      "de": "Durchdringender Blick",
+      "es": "Clarividencia",
+      "fr": "Clairvoyance",
+      "pt": "Clarividência",
+      "ru": "Прозрение",
+      "id": "Insight",
+      "th": "Insight",
+      "vi": "Quan Sát"
+    },
+    "description": {
+      "zhs": "处于申鹤自己施加的<color=#FFD780FF>「冰翎」</color>状态下的角色，触发「冰翎」的伤害增加时，申鹤将获得一层「霜霄诀」：\n·申鹤施放<color=#FFD780FF>仰灵威召将役咒</color>时，将清除所有「霜霄诀」，并根据清除的层数，每层使本次仰灵威召将役咒造成的伤害提高5%；\n·该效果至多叠加50次，持续60秒。",
+      "zht": "處於申鶴自己施加的<color=#FFD780FF>「冰翎」</color>狀態下的角色，觸發「冰翎」的傷害增加時，申鶴將獲得一層「霜霄訣」：\n·申鶴施放<color=#FFD780FF>仰靈威召將役咒</color>時，將清除所有「霜霄訣」，並根據清除的層數，每層使本次仰靈威召將役咒造成的傷害提高5%；\n·該效果至多疊加50次，持續60秒。",
+      "jp": "申鶴自身によって<color=#FFD780FF>「氷翎」</color>効果を付与されたキャラクターが、「氷翎」のダメージアップ効果を発動すると、申鶴は「霜霄訣」を1層獲得する。\n申鶴が<color=#FFD780FF>仰霊威召将役呪</color>を発動した時、「霜霄訣」をすべて消費する。消費した層数1につき、その時発動した仰霊威召将役呪のダメージ+5%。この効果は最大50回まで重ね掛け可能、継続時間60秒。",
+      "ko": "신학이 부여한 <color=#FFD780FF>「얼음의 깃」</color> 상태인 캐릭터가 「얼음의 깃」의 피해 증가 효과 발동 시, 신학이 「서리의 주문」을 1스택 획득한다.\n·신학이 <color=#FFD780FF>위령 소환 구사술</color> 발동 시 모든 「서리의 주문」이 사라지고, 사라진 스택에 따라 1스택당 위령 소환 구사술이 가하는 피해가 5% 증가한다.\n·최대 중첩수: 50회. 지속 시간: 60초",
+      "en": "When characters under the effect of <color=#FFD780FF>Icy Quill</color> applied by Shenhe trigger its DMG Bonus effects, Shenhe will gain a Skyfrost Mantra stack:\n· When Shenhe uses <color=#FFD780FF>Spring Spirit Summoning</color>, she will consume all stacks of Skyfrost Mantra, increasing the DMG of that Spring Spirit Summoning by 5% for each stack consumed.\n· Max 50 stacks. Stacks last for 60s.",
+      "de": "Verleiht Shenhe beim Auslösen des Schadensbonus von „Eisfeder“ durch Figuren im von Shenhe selbst verliehenen Zustand <color=#FFD780FF>Eisfeder</color> eine Stapelung „Frosthimmelmantra“:\n· Entfernt beim Auslösen von <color=#FFD780FF>Mantra der Geisterbeschwörung</color> durch Shenhe alle Stapelungen von Frosthimmelmantra und erhöht den mit diesem Mantra der Geisterbeschwörung verursachten Schaden je nach der Menge an entfernten Stapelungen um 5 %.\n· Dieser Effekt ist 50-fach stapelbar und hält 60 s.",
+      "es": "Cuando un personaje afectado por la <color=#FFD780FF>pluma glacial</color> de Shenhe activa el aumento de daño de la pluma, Shenhe obtiene una carga de “mantra de la escarcha”.\n·Al lanzar <color=#FFD780FF>Espíritu exorcizador</color>, se consumirán todas las cargas del mantra de la escarcha y el daño infligido con Espíritu exorcizador aumentará en un 5% por cada carga consumida.\n·Este efecto puede acumularse hasta 50 veces y su duración es de 60 s.",
+      "fr": "Lorsqu'un personnage affecté par le <color=#FFD780FF>pennage glacé</color> de Shenhe déclenche l'effet de bonus de DGT de la flèche, Shenhe obtient 1 cumul de Mantra de givre :\n· Lorsque Shenhe utilise <color=#FFD780FF>Invocation d'esprit printanier</color>, tous les cumuls de Mantra de givre sont consommés pour augmenter les DGT infligés par cette invocation d'esprit printanier de 5 % pour chaque cumul consommé.\n· Cet effet peut être cumulé 50 fois maximum et dure 60 s.",
+      "pt": "Personagens que estejam sob o efeito de <color=#FFD780FF>Pena Gelada</color> de Shenhe farão com que, ao desencadearem o Dano Bônus de Pena Gelada, Shenhe obtenha uma carga de Firmamento Gelado:\n· Quando Shenhe lançar <color=#FFD780FF>Invocação Espiritual</color>, ela consumirá todos os Firmamentos Gelados, e de acordo com as cargas eliminadas, aumentará o Dano de Invocação Espiritual em 5% por cada carga consumida;\n· Esse efeito pode ser acumulado em até 50 vezes por 60s.",
+      "ru": "Когда персонажи под действием вызванного Шэнь Хэ эффекта <color=#FFD780FF>Ледяное перо</color> запускают бонусы урона Ледяного пера, Шэнь Хэ получает один уровень эффекта Мантра морозных небес:\n· Когда Шэнь Хэ использует навык <color=#FFD780FF>Призыв духа</color>, эффект Мантра морозных небес сбрасывается, а урон от использования навыка Призыв духа в этот раз увеличивается на 5% за каждый из накопленных уровней эффекта Мантра морозных небес.\n· Может складываться до 50 раз, длится 60 сек.",
+      "id": "Saat Karakter yang berada dalam status <color=#FFD780FF>Icy Quill</color> dari Shenhe sendiri memicu Bonus DMG dari Icy Quill, Shenhe akan mendapatkan 1 lapis Skyfrost Mantra:\n·Saat Shenhe melancarkan <color=#FFD780FF>Spring Spirit Summoning</color>, dia akan mengonsumsi semua lapisan Skyfrost Mantra dan meningkatkan DMG yang diakibatkan oleh Spring Spirit Summoning sebesar 5% untuk setiap lapisan yang dikonsumsi.\n·Efek ini dapat ditumpuk hingga 50 lapis dan berlangsung selama 60 detik.",
+      "th": "ตัวละครที่อยู่ภายใต้สภาวะของ <color=#FFD780FF>\"Icy Quill\"</color> ที่ปล่อยโดยตัวของ Shenhe เอง เมื่อทำให้เกิดโบนัสความเสียหายของ \"Icy Quill\" Shenhe จะได้รับ \"Skyfrost Mantra\" หนึ่งชั้น:\n·เมื่อ Shenhe ใช้ <color=#FFD780FF>Spring Spirit Summoning</color> จะใช้ Skyfrost Mantra ที่มีอยู่ทั้งหมด โดยแต่ละชั้นที่ถูกใช้ จะทำให้ความเสียหายที่ Spring Spirit Summoning ในครั้งนี้สร้างเพิ่มขึ้น 5%;\n·เอฟเฟกต์นี้จะซ้อนทับกันได้มากสุด 50 ครั้ง และคงอยู่เป็นเวลา 60 วินาที",
+      "vi": "Nhân vật trong trạng thái <color=#FFD780FF>\"Băng Linh\"</color> của Shenhe, khi kích hoạt tăng sát thương từ \"Băng Linh\" sẽ khiến Shenhe nhận 1 tầng \"Sương Tiêu Quyết\":\n·Shenhe khi thi triển <color=#FFD780FF>Triệu Tướng Dịch Chú</color> sẽ xóa bỏ tất cả \"Sương Tiêu Quyết\", đồng thời căn cứ vào số tầng xóa bỏ, mỗi tầng tăng 5% sát thương cho Triệu Tướng Dịch Chú lần này;\n·Hiệu quả này tối đa cộng dồn 50 lần, duy trì 60s."
+    },
+    "imgid": "constellation_4"
+  },
+  {
+    "title": {
+      "zhs": "化神",
+      "zht": "化神",
+      "jp": "化神",
+      "ko": "화신",
+      "en": "Divine Attainment",
+      "de": "Erlangung von Göttlichkeit",
+      "es": "Divinización",
+      "fr": "Divinisation",
+      "pt": "Divinização",
+      "ru": "Обретение божественности",
+      "id": "Divine Attainment",
+      "th": "Divine Attainment",
+      "vi": "Hóa Thần"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>神女遣灵真诀</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>神女遣靈真訣</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>神女遣霊真訣</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>신녀 강령 비결</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Divine Maiden's Deliverance</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Geisterbefehligung der göttlichen Jungfrau</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Encantamiento de la damisela divina</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Délivrance de la demoiselle divine</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o nível de <color=#FFD780FF>Encantamento da Donzela Divina</color> em 3.\nNível máximo de elevação é 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Таинство освобождения</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Divine Maiden's Deliverance</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Divine Maiden's Deliverance</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Thần Nữ Khiển Linh Quyết</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_5"
+  },
+  {
+    "title": {
+      "zhs": "忘玄",
+      "zht": "忘玄",
+      "jp": "忘玄",
+      "ko": "망현",
+      "en": "Mystical Abandon",
+      "de": "Mystische Verlassenheit",
+      "es": "Abandono místico",
+      "fr": "Abandon mystique",
+      "pt": "Abandono Místico",
+      "ru": "Забытое таинство",
+      "id": "Mystical Abandon",
+      "th": "Mystical Abandon",
+      "vi": "Vong Huyền"
+    },
+    "description": {
+      "zhs": "角色通过普通攻击伤害与重击伤害触发<color=#FFD780FF>「冰翎」</color>的效果时，将不再会减少「冰翎」的生效次数。",
+      "zht": "角色透過普通攻擊傷害與重擊傷害觸發<color=#FFD780FF>「冰翎」</color>的效果時，將不再會減少「冰翎」的生效次數。",
+      "jp": "キャラクターが通常攻撃および重撃で<color=#FFD780FF>「氷翎」</color>効果を発動した時、「氷翎」の発動回数が消費されなくなる。",
+      "ko": "캐릭터가 일반 공격 피해와 강공격 피해로 <color=#FFD780FF>「얼음의 깃」</color> 효과를 발동하면, 「얼음의 깃」의 효과 발동 횟수가 차감되지 않는다",
+      "en": "When characters trigger <color=#FFD780FF>Icy Quill</color>'s effects using Normal and Charged Attack DMG, it does not count toward the Trigger Quota.",
+      "de": "Verringert beim Auslösen von <color=#FFD780FF>Eisfeder</color> mit dem Schaden von Standardangriffen und heftigen Schlägen von Figuren keine Stapelungen von Eisfeder mehr.",
+      "es": "Cuando un personaje activa los efectos de la <color=#FFD780FF>pluma glacial</color> infligiendo daño con un Ataque Normal o Cargado, no se consumirán cargas de la pluma.",
+      "fr": "Lorsqu'un personnage déclenche les effets d'un <color=#FFD780FF>pennage glacé</color> avec les DGT d'une attaque normale ou chargée, aucun cumul n'est consommé.",
+      "pt": "Quando personagens desencadeiam os efeitos de <color=#FFD780FF>Pena Gelada</color> com Ataques Normais e Ataques Carregados, as cargas de Pena Gelada não serão consumidas.",
+      "ru": "Когда персонажи вызывают эффект <color=#FFD780FF>Ледяное перо</color> нанесением урона обычной или заряженной атакой, количество действующих уровней эффекта Ледяное перо не уменьшается.",
+      "id": "Saat Karakter memicu efek <color=#FFD780FF>Icy Quill</color> melalui DMG Normal Attack dan Charged Attack, jumlah lapisan Icy Quill tidak akan berkurang.",
+      "th": "เมื่อตัวละครทำให้เกิดเอฟเฟกต์ของ <color=#FFD780FF>Icy Quill</color> ผ่านความเสียหายของการโจมตีปกติ และความเสียหายของการชาร์จโจมตี จะไม่ลดจำนวนชั้นเอฟเฟกต์ของ Icy Quill",
+      "vi": "Khi nhân vật kích hoạt hiệu quả <color=#FFD780FF>\"Băng Linh\"</color> bằng sát thương tấn công thường và sát thương trọng kích, sẽ không còn giảm số lần kích hoạt \"Băng Linh\" nữa."
+    },
+    "imgid": "constellation_6"
+  }
+]
