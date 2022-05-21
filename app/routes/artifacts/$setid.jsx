@@ -21,7 +21,7 @@ export default function ArtifactSetPage() {
         
         <img src={ `/images/artifacts/${ setData['pieces'][0]['imgid'] }.png` }/>
         <h1 className="set-name">
-          <span>{ setData['name'][activeLang]}</span>
+          { setData['name'][activeLang]}
         </h1>
 
         { setData['descriptions'].map((desc, index) => (

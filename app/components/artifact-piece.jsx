@@ -5,12 +5,12 @@ export default function ArtifactPiece({ miscData, piece, activeLang }) {
 
   return (
     <li key="{ piece['name']['en'] }">
-      <img src={ `/images/artifacts/${ piece['imgid']}.png` } />
-      
-      <div class="piece-baseinfo">
-        <h2 class="piece-name">
+      <div class="dataline-card">
+        <h1 class="header">
           { piece['name'][activeLang] }
-        </h2>
+        </h1>
+
+        <img src={ `/images/artifacts/${ piece['imgid']}.png` } />
         <h3 class="piece-type">
           { miscData['piecetypes'][piece['type']][activeLang] }
         </h3>

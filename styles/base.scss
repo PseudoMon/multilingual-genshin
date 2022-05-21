@@ -33,8 +33,11 @@ body {
     background-color: var(--color-bg);
     color: var(--color-text);
 
-    font-size: 1.125rem; /*18px with a standard 16px base font */ 
-    line-height: 1.5;
+    //font-size: 1.125rem; /*18px with a standard 16px base font */ 
+    // line-height: 1.5;
+
+    font-size: 1rem;
+    line-height: 1.6;
     font-weight: 500;
 
     @media (min-width: 1000px) {
