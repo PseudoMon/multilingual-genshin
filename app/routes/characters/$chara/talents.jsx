@@ -1,12 +1,6 @@
 import { useOutletContext, useLoaderData } from 'remix'
 import { getCharaTalents } from '~/data-getter/get-chara'
 import CharaTalentCard from '~/components/chara-talent-card'
-import charaTalentsStyles from '~/styles/charatalents.css'
-
-export function links() {
-  return [{ rel: "stylesheet", href: charaTalentsStyles }]
-}
-
 
 export async function loader({ params }) {
   const charaId = params.chara

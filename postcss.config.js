@@ -1,4 +1,5 @@
 module.exports = (ctx) => ({
+  parser: "postcss-scss",
   plugins: {
     'autoprefixer': ctx.env === 'production' ? {} : false,
     'postcss-nested': {},

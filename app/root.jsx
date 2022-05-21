@@ -23,6 +23,21 @@ export function meta() {
   };
 }
 
+const fonts = {
+  "Montserrat": [400, 500, 600],
+  "Signika": [400, 500, 600],
+  "Oxygen": [400],
+}
+
+const weightsToString = (weights) => (weights.join(";"))
+
+const fontsHref =
+ "https://fonts.googleapis.com/css2?" + 
+  Object.entries(fonts)
+    .map(font => `family=${font[0]}:wght@${weightsToString(font[1])}`)
+    .join("&") +
+  "&display=swap"
+
 export function links() {
   return [
     { 
@@ -31,7 +46,7 @@ export function links() {
     },
     {
       rel: "stylesheet",
-      href: "https://fonts.googleapis.com/css2?family=Signika:wght@400;500;600&display=swap"
+      href: fontsHref,
     },
     { rel: "stylesheet", href: normalizeStyles },
     { rel: "stylesheet", href: baseStyles },

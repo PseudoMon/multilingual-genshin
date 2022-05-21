@@ -38,7 +38,7 @@ export default function CharaTalentCard({ talent, lang, imgfile }) {
       <h2 className="talent-name" onClick={ () => setDescOpen(!descOpen) }>
         <span>{ talent.title[lang] }</span>
         <svg width="32px" height="32px">        
-          <image href="https://icongr.am/fontawesome/chevron-circle-down.svg?size=32&color=131114" />    
+          <image href="https://icongr.am/fontawesome/chevron-circle-down.svg?size=32&color=FEFFF0" />    
         </svg>
       </h2>
 

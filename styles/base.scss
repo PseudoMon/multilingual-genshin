@@ -19,6 +19,13 @@
 
     --color-semitext: var(--color-color); /* sorta like text, but for bg */
     --color-semibg: var(--color-textbg); /* sorta like bg but for text */
+
+    /* New book brown color */
+    --font-main: "Montserrat";
+    --color-bg: #FEFFF0;
+    --color-darkoverlay: #7E5A1A;
+    --color-overlay: #423723;
+    --color-textbg: #FEFFF0;
 }
 
 body {
@@ -28,10 +35,11 @@ body {
 
     font-size: 1.125rem; /*18px with a standard 16px base font */ 
     line-height: 1.5;
+    font-weight: 500;
 
     @media (min-width: 1000px) {
         /* I'm sorry I just really like big text */
-        font-size: 1.25rem; /* 20px */
+        font-size: 1.125rem; /* 20px */
     }
 }
 
@@ -336,4 +344,65 @@ h2 {
 .error-page {
     text-align: center;
     margin-top: 50px;
+}
+
+.dataline-card {
+    clear: both;
+
+    .header {
+        font-size: 1.5rem;
+        line-height: 30px;
+        padding: 0.5em 1em;
+        border-radius: 0px;
+        background-color: var(--color-overlay);
+        color: var(--color-bg);
+        box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.20);
+
+        position: relative;
+        z-index: 2;
+        margin-left: 12px;
+        margin-right: 12px;
+
+        display: flex;
+        justify-content: space-between;
+
+        cursor:  pointer;
+
+        @media (max-width: 720px) {
+            font-size: 1.2rem;
+        }
+    }
+
+    .content {
+        box-sizing: border-box;
+        border-radius: 30px;
+        padding: 1.3em 2.2em 0.8em 2.2em;
+        background-color: var(--color-textbg);
+
+        white-space: pre-line;
+        margin-top: -1em;
+    }
+
+    .subheader {
+        display: inline-block;
+        font-size: 1em;
+        color: var(--color-semibg);
+        background-color: var(--color-darkoverlay);
+        border-radius: 10px;
+
+        margin-top: 0;
+        margin-left: 10%;
+        margin-bottom: 0;
+        padding: 18px 0.8em 0.5em 0.8em;
+
+        position: relative;
+        top: -10px;
+    }
+}
+
+
+.datalines {
+    & > * {
+        margin-bottom: 20px;
+    }
 }

@@ -12,7 +12,7 @@ export default function CharaDatalineCard({ dataline, lang }) {
       >
         <span>{ dataline.title[lang] }</span>
         <svg width="32px" height="32px">        
-          <image href="https://icongr.am/fontawesome/chevron-circle-down.svg?size=32&color=131114" />    
+          <image href="https://icongr.am/fontawesome/chevron-circle-down.svg?size=32&color=FEFFF0" />    
         </svg>
       </div>
       
