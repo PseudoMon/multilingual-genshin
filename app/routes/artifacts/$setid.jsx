@@ -24,13 +24,18 @@ export default function ArtifactSetPage() {
     <article className="artifact-main">
       <section className="sidebar">
         
-        <img src={ `/images/artifacts/${ setData['pieces'][0]['imgid'] }.png` }/>
+        <img 
+          src={ `/images/artifacts/${ setData['pieces'][0]['imgid'] }.png` }
+          onError={e => {
+            e.currentTarget.src = `/images/artifacts/default.png`
+          }} 
+        />
         <h1 className="set-name">
           { setData['name'][activeLang]}
         </h1>
 
         { setData['descriptions'].map((desc, index) => (
-          <div class="description">
+          <div className="description" key={index}>
             <h2 className="desc-title">
               { miscData["setterm"][activeLang].replace("{0}", setData["SetNeedNum"][index]).replace("{1}", "") }</h2>
             <p>{ desc[activeLang] }</p>

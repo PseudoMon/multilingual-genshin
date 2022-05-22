@@ -39,7 +39,9 @@ export default function ArtifactSetListPage() {
             <a href={ `/artifacts/${artifact['SetId']}` }>
               <img
                 src={ `/images/artifacts/${artifact['imgid']}.png` } 
-                onError={ e => { e.target.src="/images/default.png" } } 
+                onError={e => {
+                  e.currentTarget.src = `/images/artifacts/default.png`
+                }} 
               />
               <span>{ artifact["name"][activeLang] }</span>
             </a>
