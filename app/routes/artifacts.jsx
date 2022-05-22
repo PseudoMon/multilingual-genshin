@@ -7,7 +7,7 @@ export function links() {
 }
 
 
-export default function CharactersPage() {
+export default function ArtifactsPage() {
 
   return (
     <main>

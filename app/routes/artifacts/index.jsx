@@ -2,7 +2,7 @@ import { useState } from 'react'
 import { useLoaderData, Link } from 'remix'
 import { getAllArtifactSets } from '~/data-getter/get-artifact'
 import LangPicker from '~/components/lang-picker'
-import { useMultilingualSearch } from '~/hooks/useSearch'
+import { useMultilingualSearch } from '~/utility/useSearch'
 
 export async function loader() {
   return { allData: await getAllArtifactSets() }

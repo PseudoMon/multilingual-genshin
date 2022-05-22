@@ -2,7 +2,7 @@ import { useState } from 'react'
 import { Link, useLoaderData } from 'remix'
 import { getAllCharaGeneralData } from '~/data-getter/get-chara'
 import LangPicker from '~/components/lang-picker'
-import { useMultilingualSearch } from '~/hooks/useSearch'
+import { useMultilingualSearch } from '~/utility/useSearch'
 
 export async function loader() {
   return { allData: await getAllCharaGeneralData() }

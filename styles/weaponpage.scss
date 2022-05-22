@@ -1,0 +1,28 @@
+.main-page .sidebar {
+    & > * { text-align: left; }
+    img {
+        text-align: left;
+        width: 200px;
+        background-color: var(--color-softbg);
+        border-radius: 30px;
+    }
+
+    .weapon-name {
+        font-size: 1.8rem;
+        font-weight: 500;
+        margin-bottom: 0.5em;
+        line-height: 1.2em;
+    }
+
+    h2 { margin: 0; }
+    .star-ranking { 
+        font-size: 1.2rem; 
+        color: #9973B4; 
+        margin-bottom: 0.4em; 
+    }
+    .weapon-type {
+        font-size: 1.2rem; 
+        color: var(--color-darkoverlay);
+    }
+
+}

@@ -26,7 +26,7 @@ export default function CharacterPage() {
       activeLang={ activeLang } 
       setLang={(lang) => setLang(lang)} 
     />
-    <article className="character-main">
+    <article className="main-page character-main">
       <section className="sidebar">
 
         <div className="character-profile">

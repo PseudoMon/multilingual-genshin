@@ -1,33 +1,6 @@
 .character-main {
-    display: grid;
-    grid-template-columns: 376px 1fr;
-    grid-gap: 42px;
-    padding: 0 20px;
-
-    @media (max-width: 1000px) {
-        grid-template-columns: 1fr;
-        grid-gap: 1em;
-        max-width: 600px;
-        margin: 0 auto;
-        padding: 0;
-    }
-
-    ul {
-        list-style: none;
-        padding-left: 0;
-    }
-
     .sidebar {
-        align-self: start;
-        top: 0;
-
-        background-color: var(--color-textbg);
-        // border-radius: 30px;
-        padding: 20px 35px;
-
-        text-align: center;
-
-        .character-name { margin: 0; text-align: left; }
+        .character-name { margin: 0; text-align: left; font-weight: 500; }
         .character-title { margin-bottom: 0; margin-top: 0; text-align: left;}
         .character-name span {
             background: var(--color-semitext);
@@ -54,10 +27,8 @@
             font-weight: 600;
             font-size: 24px;
             line-height: 100.5%;
-            // max-width: 60%;
 
             display: inline-block;
-            // padding: 0.5em 0.6em;
 
             @media(max-width: 600px) {
                 font-size: 18px;
@@ -66,7 +37,6 @@
 
         .character-description {
             text-align: left;
-            // padding: 0 2em;
         }
 
         a:hover {
