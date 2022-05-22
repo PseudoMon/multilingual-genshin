@@ -10,7 +10,12 @@ export default function ArtifactPiece({ miscData, piece, activeLang }) {
           { piece['name'][activeLang] }
         </h1>
 
-        <img src={ `/images/artifacts/${ piece['imgid']}.png` } />
+        <img 
+          src={ `/images/artifacts/${ piece['imgid']}.png` } 
+          onError={e => {
+            e.currentTarget.src = `/images/artifacts/default.png`
+          }} 
+        />
         <h3 class="piece-type">
           { miscData['piecetypes'][piece['type']][activeLang] }
         </h3>
