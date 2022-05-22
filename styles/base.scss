@@ -310,10 +310,10 @@ h2 {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    font-size: 1.3rem;
+    font-size: 1.2rem;
 
     @media(max-width: 600px) {
-        font-size: 1.2rem;
+        font-size: 1rem;
     }
 
     margin-top: 0;
@@ -356,7 +356,6 @@ h2 {
         font-size: 1.5rem;
         line-height: 30px;
         padding: 0.5em 1em;
-        border-radius: 0px;
         background-color: var(--color-overlay);
         color: var(--color-bg);
         box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.20);
@@ -378,9 +377,9 @@ h2 {
 
     .content {
         box-sizing: border-box;
-        border-radius: 30px;
         padding: 1.3em 2.2em 0.8em 2.2em;
         background-color: var(--color-textbg);
+        box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.20);
 
         white-space: pre-line;
         margin-top: -1em;

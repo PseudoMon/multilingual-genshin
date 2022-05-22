@@ -1,11 +1,15 @@
 .character-main {
     display: grid;
     grid-template-columns: 376px 1fr;
-    grid-gap: 62px;
+    grid-gap: 42px;
+    padding: 0 20px;
 
     @media (max-width: 1000px) {
         grid-template-columns: 1fr;
         grid-gap: 1em;
+        max-width: 600px;
+        margin: 0 auto;
+        padding: 0;
     }
 
     ul {

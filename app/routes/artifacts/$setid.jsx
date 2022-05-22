@@ -16,6 +16,11 @@ export default function ArtifactSetPage() {
   const [activeLang, setLang] = useState('en')
 
   return (
+    <>
+    <LangPicker 
+      activeLang={ activeLang } 
+      setLang={(lang) => setLang(lang)} 
+    />
     <article className="artifact-main">
       <section className="sidebar">
         
@@ -34,11 +39,6 @@ export default function ArtifactSetPage() {
       </section>
 
       <section className="main-content">
-        <LangPicker 
-          activeLang={ activeLang } 
-          setLang={(lang) => setLang(lang)} 
-        />
-
         <ul className="artifact-pieces">
           { setData['pieces'].map(piece => (
             <ArtifactPiece
@@ -51,5 +51,6 @@ export default function ArtifactSetPage() {
         </ul>
       </section>
     </article>
+    </>
   )
 }

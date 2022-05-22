@@ -21,6 +21,11 @@ export default function CharacterPage() {
   const [activeLang, setLang] = useState("en") 
 
   return (
+    <>
+    <LangPicker 
+      activeLang={ activeLang } 
+      setLang={(lang) => setLang(lang)} 
+    />
     <article className="character-main">
       <section className="sidebar">
 
@@ -54,13 +59,9 @@ export default function CharacterPage() {
       </section>
 
       <section className="main-content">
-        <LangPicker 
-          activeLang={ activeLang } 
-          setLang={(lang) => setLang(lang)} 
-        />
-
         <Outlet context={{ activeLang }} />
       </section>
     </article>
+    </>
   )
 }
