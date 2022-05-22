@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { useLoaderData } from 'remix'
+import { useLoaderData, Link } from 'remix'
 import { getAllArtifactSets } from '~/data-getter/get-artifact'
 import LangPicker from '~/components/lang-picker'
 import { useMultilingualSearch } from '~/hooks/useSearch'
@@ -36,7 +36,7 @@ export default function ArtifactSetListPage() {
       <ul className="artifact-list">
         { shownData.map(artifact => 
           <li key={ artifact["SetId"] }>
-            <a href={ `/artifacts/${artifact['SetId']}` }>
+            <Link to={ `/artifacts/${artifact['SetId']}` }>
               <img
                 src={ `/images/artifacts/${artifact['imgid']}.png` } 
                 onError={e => {
@@ -44,7 +44,7 @@ export default function ArtifactSetListPage() {
                 }} 
               />
               <span>{ artifact["name"][activeLang] }</span>
-            </a>
+            </Link>
           </li>
         ) }
       </ul>
