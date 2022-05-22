@@ -2,6 +2,7 @@ import { useState } from 'react'
 import { Link, useLoaderData } from 'remix'
 import { getAllCharaGeneralData } from '~/data-getter/get-chara'
 import LangPicker from '~/components/lang-picker'
+import { useMultilingualSearch } from '~/hooks/useSearch'
 
 export async function loader() {
   return { allData: await getAllCharaGeneralData() }
@@ -11,30 +12,19 @@ export default function CharacterListPage() {
   const { allData } = useLoaderData()
   const [shownData, setShownData] = useState(allData)
   const [activeLang, setLang] = useState("en") 
+  const searchName = useMultilingualSearch()
 
-  const searchName = (e) => {
-    const target = e.target.value.toLowerCase()
-    const filteredData = allData.filter(data => {
-
-      for (let lang in data.name) {
-        if (data.name[lang].toLowerCase().includes(target)) {
-          return true
-        }
-      }
-
-      return false
-    })
-
+  const handleSearchName = (e) => {
+    const filteredData = searchName(allData, "name", e.target.value)
     setShownData(filteredData)
   }
 
   return (
     <div>
-      <header className="character-list-header">
+      <header className="listpage-header">
         <h1>Characters</h1>
         <input 
-          className="chara-search-bar" 
-          placeholder="Search..." onChange={ searchName } 
+          placeholder="Search..." onChange={ handleSearchName } 
         />
       </header>
 

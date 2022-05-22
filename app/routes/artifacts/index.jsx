@@ -2,6 +2,7 @@ import { useState } from 'react'
 import { useLoaderData } from 'remix'
 import { getAllArtifactSets } from '~/data-getter/get-artifact'
 import LangPicker from '~/components/lang-picker'
+import { useMultilingualSearch } from '~/hooks/useSearch'
 
 export async function loader() {
   return { allData: await getAllArtifactSets() }
@@ -9,21 +10,22 @@ export async function loader() {
 
 export default function ArtifactSetListPage() {
   const { allData } = useLoaderData()
+  const [shownData, setShownData] = useState(allData)
   const [activeLang, setLang] = useState("en") 
+  const searchName = useMultilingualSearch()
 
-  function searchName() {
-    //TODO
-    return
+  const handleSearchName = (e) => {
+    const filteredData = searchName(allData, "name", e.target.value)
+    setShownData(filteredData)
   }
 
   return (
     <div>
-      <header className="artifact-list-header">
+      <header className="listpage-header">
         <h1>Artifacts</h1>
-  {/*      <input 
-          className="artifact-search-bar" 
-          placeholder="Search..." onChange={ searchName } 
-        />*/}
+        <input 
+          placeholder="Search..." onChange={ handleSearchName } 
+        />
       </header>
 
       <LangPicker 
@@ -32,7 +34,7 @@ export default function ArtifactSetListPage() {
       />
 
       <ul className="artifact-list">
-        { allData.map(artifact => 
+        { shownData.map(artifact => 
           <li key={ artifact["SetId"] }>
             <a href={ `/artifacts/${artifact['SetId']}` }>
               <img
