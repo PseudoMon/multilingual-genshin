@@ -1,5 +1,6 @@
 import { useState } from 'react'
 import { processLoreText } from '~/utility/processText'
+import ArrowDown from '~/components/icons/arrow-down'
 
 export default function ArtifactPiece({ miscData, piece, activeLang }) {
   const [loreIsOpen, setLoreOpenState] = useState(false)
@@ -29,9 +30,7 @@ export default function ArtifactPiece({ miscData, piece, activeLang }) {
           className="lore-button"
         >
           <span>Lore</span>
-          <svg width="32px" height="32px">        
-            <image href="https://icongr.am/fontawesome/chevron-circle-down.svg?size=32&color=131114" />    
-          </svg>
+          <ArrowDown />
         </button>
       </div>
 

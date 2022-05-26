@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import ArrowDown from '~/components/icons/arrow-down'
 
 export default function CharaDatalineCard({ dataline, lang }) {
   const [isOpen, setOpenState] = useState(false)
@@ -11,9 +12,7 @@ export default function CharaDatalineCard({ dataline, lang }) {
         onClick={() => setOpenState(!isOpen)}
       >
         <span>{ dataline.title[lang] }</span>
-        <svg width="32px" height="32px">        
-          <image href="https://icongr.am/fontawesome/chevron-circle-down.svg?size=32&color=FEFFF0" />    
-        </svg>
+        <ArrowDown />
       </div>
       
       {

@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import { processColorText, processLoreText } from '~/utility/processText'
-//TODO
+import ArrowDown from '~/components/icons/arrow-down'
 
 export default function WeaponDatalineCard({ dataline, lang, isLore, refineLevel }) {
   const [isOpen, setOpenState] = useState(false)
@@ -32,9 +32,7 @@ export default function WeaponDatalineCard({ dataline, lang, isLore, refineLevel
         onClick={() => setOpenState(!isOpen)}
       >
         <span>{ getTitle() }</span>
-        <svg width="32px" height="32px">        
-          <image href="https://icongr.am/fontawesome/chevron-circle-down.svg?size=32&color=FEFFF0" />    
-        </svg>
+        <ArrowDown />
       </div>
       
       {
