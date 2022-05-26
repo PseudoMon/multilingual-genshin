@@ -1,0 +1,52 @@
+{
+  "id": 12201,
+  "type": "claymore",
+  "rank": 2,
+  "name": {
+    "zhs": "佣兵重剑",
+    "zht": "傭兵重劍",
+    "jp": "傭兵の重剣",
+    "ko": "용병 중검",
+    "en": "Old Merc's Pal",
+    "de": "Söldnerzweihänder",
+    "es": "Espada del Mercenario",
+    "fr": "Lame du mercenaire",
+    "pt": "Espada do Mercenário",
+    "ru": "Лучший друг наёмника",
+    "id": "Old Merc's Pal",
+    "th": "Old Merc's Pal",
+    "vi": "Kiếm Dụng Binh"
+  },
+  "description": {
+    "zhs": "沉重坚实的古旧大剑，饱经战火与岁月的洗练。",
+    "zht": "沉重堅實的古舊大劍，飽經戰火與歲月的洗鍊。",
+    "jp": "重くてしっかりしている古い大剣、戦火と歳月の洗練を経た優れもの。",
+    "ko": "수많은 전쟁과 오랜 세월을 견뎌낸 무겁고 단단한 대검",
+    "en": "A battle-tested greatsword that has seen better days and worse.",
+    "de": "Ein altes, schweres, aber stabiles Großschwert, das schon viele Jahre und Kämpfe überstanden hat.",
+    "es": "Una gran espada antigua y pesada que ha vivido innumerables batallas.",
+    "fr": "Un espadon qui a fait des ravages sur bien des champs de bataille. Il a vu des jours meilleurs, mais aussi bien pires.",
+    "pt": "Uma grande espada testada em batalhas, passou por muitos momentos árduos.",
+    "ru": "Этот меч, испытанный битвой, видал лучшие дни... и худшие тоже.",
+    "id": "Pedang besar kuno yang telah diuji oleh waktu, telah melalui api dan badai perang yang tak terhitung jumlahnya.",
+    "th": "ดาบใหญ่ที่ผ่านการใช้งานมาอย่างยาวนาน ทั้งวันที่ดีและร้ายปะปนเป็นแรมปี",
+    "vi": "Kiếm cổ rất nặng và kiên cố, được tôi luyện qua năm tháng và chiến tranh."
+  },
+  "lore": {
+    "zhs": "\n他总会提起自己年轻时的冒险经历，\n都是令人生厌的老掉牙的夸张故事。\n但这把老旧的大剑似乎在无声地说，\n「是有点夸张没错。但当时我也在」",
+    "zht": "\n他總會提起自己年輕時的冒險經歷，\n都是令人生厭的老掉牙的誇張故事。\n但這把老舊的大劍似乎在無聲地說，\n「是有點誇張沒錯。但當時我也在」",
+    "jp": "\n彼はいつも自分の若い頃の冒険話をしたがる。\nどれも大袈裟で陳腐な話だ。\nだが、この使い古された大剣はまるでこう言っているようだった。\n「私もその場にいたが、流石にそれは言い過ぎだ」",
+    "ko": "\n그는 항상 자신의 젊은 시절 모험 이야기를 언급한다.\n모두 과장된 진부한 이야기다.\n하지만 이 오래된 대검은 소리 없이 이렇게 말하고 있는 것만 같다.\n「살짝 과장되긴 했지만, 그땐 나도 있었어」",
+    "en": "\nHe would often mention the experiences that he had in his youth as an adventurer.\nThey were always the same old long-winded, annoying tall tales.\nBut this old greatsword seems to silently say,\n\"Well, it is a bit over the top, yes. But I was there too, you know.\"",
+    "de": "\nEr spricht immer von den Abenteuern, die er in seiner Jugend erlebt hat,\njedoch sind das alles uralte und übertriebene Geschichten.\nAber dieses alte Großschwert scheint ohne Stimme sagen zu wollen:\n„Ja, sie sind ein wenig übertrieben. Aber auch ich habe sie erlebt.“",
+    "es": "\nÉl siempre está hablando de las aventuras que vivió en su juventud.\nEsas historias tan viejas y exageradas.\nEsta vieja espada parece estar diciendo tácitamente:\n“Sí, son un poco exageradas. Pero yo también las viví”.",
+    "fr": "\nIl raconte souvent les aventures qu'il a vécues dans sa jeunesse ;\nmême si ce ne sont que de vieillies histoires très exagérées...\nMais cette vieille épée semble dire silencieusement :\n« Oui, il exagère un peu... Mais, moi aussi, j'étais là à l'époque. »",
+    "pt": "\nEle sempre menciona suas aventuras de quando era jovem,\nmas todas são histórias antigas, chatas e exageradas.\nMas este velho Espadão parece estar falando silenciosamente,\n\"Pode parecer um pouco exagerado. Mas eu estava lá naquela época\".",
+    "ru": "\nОн постоянно рассказывал о приключениях своей молодости.\nДурацкие старческие истории, полные вранья.\nНо этот старомодный меч будто говорит:\n«Конечно, немного приврал, но ведь и я там был».",
+    "id": "\nDia selalu berbicara tentang petualangan masa mudanya,\nItu semua cerita kuno membosankan yang dilebih-lebihkan.\nTapi pedang tua ini sepertinya sedang berbisik,\n\"Ini agak dibesar-besarkan. Tapi aku memang ada di sana saat itu.\"",
+    "th": "\nเขามักจะพูดถึงการผจญภัยในวัยเยาว์ของเขา\nมันล้วนแต่เป็นเรื่องเก่า ๆ ที่น่าเบื่อและเวอร์เกินจริงทั้งนั้น\nแต่ดาบใหญ่เก่า ๆ เล่มนี้ดูเหมือนจะพูดอย่างเงียบ ๆ ว่า\n\"มันอาจฟังดูเวอร์เกินไปหน่อย แต่ตอนนั้นฉันก็อยู่ที่นั่นด้วยนะ\"",
+    "vi": "\nAnh ta thường nhắc về những mạo hiểm đã trải qua của thời trai trẻ, \nĐều là những câu chuyện cười rụng răng nhàm chán.\nNhưng thanh kiếm cũ kỹ này dường như đang nói thầm, \n\"Đúng là nói hơi quá, nhưng lúc đó cũng có ta ở đó\""
+  },
+  "internal_name": "Claymore_Oyaji",
+  "imgid": "claymore/oyaji"
+}

@@ -1,0 +1,86 @@
+{
+  "id": 15415,
+  "type": "bow",
+  "rank": 4,
+  "name": {
+    "zhs": "掠食者",
+    "zht": "掠食者",
+    "jp": "プレデター",
+    "ko": "포식자",
+    "en": "Predator",
+    "de": "Raubtier",
+    "es": "Depredador",
+    "fr": "Predator",
+    "pt": "Predador",
+    "ru": "Хищник",
+    "id": "Predator",
+    "th": "Predator",
+    "vi": "Kẻ Săn Mồi"
+  },
+  "description": {
+    "zhs": "设计风格相当独特的弓，应该不属于这个世界。",
+    "zht": "設計風格相當獨特的弓，應該不屬於這個世界。",
+    "jp": "ユニークなデザインの弓。恐らくこの世界のものではない。",
+    "ko": "아주 독특한 스타일의 활. 이 세계의 활은 아닌 듯싶다",
+    "en": "A uniquely-designed bow. This should not belong in this world.",
+    "de": "Ein Bogen von außergewöhnlicher Machart. Er scheint nicht von dieser Welt zu sein.",
+    "es": "Un arco con un diseño único que no debe de pertenecer a este mundo.",
+    "fr": "Un arc à la conception unique. Il ne doit probablement pas appartenir à ce monde.",
+    "pt": "Um arco com um design único. Isto não deve pertencer a este mundo.",
+    "ru": "Конструкция этого лука абсолютно уникальна, словно бы он не принадлежит этому миру.",
+    "id": "Busur dengan desain unik. Seharusnya senjata ini bukan berasal dari dunia ini.",
+    "th": "ธนูที่มีสไตล์การออกแบบที่ค่อนข้างเป็นเอกลักษณ์ ดูแล้วไม่น่าจะเป็นสิ่งของของโลกใบนี้",
+    "vi": "Chiếc cung với phong cách thiết kế đặc biệt, có vẻ như không thuộc về thế giới này."
+  },
+  "lore": {
+    "zhs": "\n接受委托的铁匠问过为什么要把这件订单做成这样，以及为什么要叫这个名字。\n得到的答复有点复杂：又是什么布满世界的机械野兽啊，又是什么长柄武器没有覆盖指令的。\n\n但是铁匠一下子就明白了。原来这把弓就是猎杀强大机械野兽的神兵利器，因此它就是那个世界的顶级掠食者。\n\n但是奇怪的少女纠正说不是。\n单纯是因为这个世界用弓箭狩猎，居然可以收获兽肉。她准备接下来就去抓林猪。",
+    "zht": "\n接受委託的鐵匠問過為什麼要把這件訂單做成這樣，以及為什麼要叫這個名字。\n得到的答覆有點複雜：又是什麼佈滿世界的機械野獸啊，又是什麼長柄武器沒有覆蓋指令的。\n\n但是鐵匠一下子就明白了。原來這把弓就是獵殺強大機械野獸的神兵利器，因此它就是那個世界的頂級掠食者。\n\n但是奇怪的少女糾正說不是。\n單純是因為這個世界用弓箭狩獵，居然可以收穫獸肉。她準備接下來就去抓林豬。",
+    "jp": "\n依頼を受けた鍛冶屋に、このような作りとこのような名前にする理由を聞かれた。\nその答えはかなり複雑なものだった。世界に満ちた機械獣だの、長柄武器はオーバーライドコードがないだの。\n\nしかし鍛冶屋はすぐに理解した。つまりこの弓は、強大な機械生物を狩って殺すための強力な武器であり、その世界最強のプレデターだったわけだ。\n\nしかし、不思議な少女は彼を訂正した。\n単純に、この世界では弓矢で獣肉を獲得できるようなのだ。次はこれを使って、イノシシを狩ると彼女は考えた。",
+    "ko": "\n의뢰를 받은 대장장이는 왜 이런 주문을 했는지, 왜 이 이름을 원하는지 물었다\n돌아온 대답은 조금 복잡했다. 온 세상에 깔린 기계 야수라든지, 무슨 장병기가 피복 지령이 없다든지\n\n하지만 대장장이는 단번에 깨달았다. 이 활은 강력한 기계 야수를 사냥하는 엄청난 무기였기에, 그 세계의 최상위 포식자와도 같았던 것이다\n\n하지만 이상한 소녀는 아니라며 정정했다\n단순히 이 세계는 활로 사냥을 해서 짐승고기를 얻을 수 있다는 것 때문이라고 했다. 그녀는 앞으로 숲멧돼지를 잡을 생각이라고 한다",
+    "en": "\nThe blacksmith who accepted the commission asked why this order had to be made this way and why it had to be named like this.\nThe answer was rather complicated: something about machine beasts that roamed all over the world, and something about polearms not having override codes.\n\nThe blacksmith understood quickly enough, though. So this bow was some powerful weapon used to hunt and kill these mighty machine creatures, and so it was the apex predator of that world.\n\nBut the strange girl corrected him.\nShe was just going to use this to hunt wild boars next, since it appeared that in this world, using bows and arrows to hunt would actually allow one to harvest Raw Meat.",
+    "de": "\nDer Schmied, der die Mission erhielt, hatte gefragt, warum der Bogen so gemacht wurde, wie er jetzt war und warum sie so genannt wurde.\nDie Antwort war etwas kompliziert, gemischt mit Wahnaussagen wie „in dieser Welt, die unzähnlige mechanische Ungetüme durchziehen“, oder „eine dieser Stangenwaffen, die keine Überdeckungs-Befehle haben“.\n\nAber der Schmied verstand sofort, was damit gemeint ist. Es stellte sich heraus, dass der Bogen eine göttliche Waffe für die Jagd auf mächtige mechanische Bestien war, und als solche war er die Nummer eins dieser Welt.\n\nAber das seltsame junge Mädchen korrigierte ihn und sagte, dass es nicht so war, was er gedacht hat.\nEinfach, weil sie mit Pfeil und Bogen in dieser Welt tatsächlich Tierfleisch ernten kann. Als nächstes wollte sie die Waldschweine jagen.",
+    "es": "\nEl herrero que aceptó el encargo preguntó por qué había que hacer este pedido de esta manera y por qué había que nombrar así a esa arma.\nLa respuesta fue bastante complicada: que si las bestias mecánicas vagan por todo el mundo, que si las lanzas no tienen códigos de anulación...\n\nSin embargo, el herrero lo entendió rápidamente. Así que este arco era un arma poderosa que se utilizaba para cazar y matar a estas poderosas criaturas mecánicas, y por lo tanto era el depredador supremo de ese mundo.\n\nPero la extraña chica le corrigió.\nElla iba a usar esto para cazar jabalíes, ya que parecía que en este mundo, usar el arco y las flechas para cazar realmente era una forma de obtener carne cruda.",
+    "fr": "\nLe forgeron qui accepta la mission demanda pourquoi cette commande avait été faite de cette manière et pourquoi elle devait porter ce nom.\nLa réponse était quelque peu compliquée : une histoire de bêtes mécaniques qui parcouraient le monde et quelque chose à propos du fait que les armes d'hast ne disposaient pas de codes de piratage.\n\nLe forgeron comprit rapidement. Cet arc était une arme puissante capable de chasser et de tuer ces créatures mécaniques qui étaient les grands prédateurs de ce monde.\n\nMais l'étrange jeune fille le corrigea.\nElle allait l'utiliser pour chasser le sanglier, puisqu'il semblait que l'utilisation d'un arc dans ce monde lui permettrait d'obtenir de la viande crue.",
+    "pt": "\nO ferreiro que aceitou a encomenda perguntou porque é que esta encomenda tinha que ser feita desta forma e porque tinha que ter este nome.\nA resposta foi muito complicada: algo sobre feras de máquinas que vagavam pelo mundo todo, e algo sobre lanças não terem códigos de substituição.\n\nMas o ferreiro entendeu rapidamente. Então este arco foi uma arma poderosa usada para caçar e matar tais poderosas criaturas de máquinas, e por isso foi o predador daquele mundo.\n\nMas a garota estranha o corrigiu.\nEla só iria usar para caçar javalis, já que parecia que neste mundo, usando arcos e flechas para caçar realmente permitiria a coleta de carne crua.",
+    "ru": "\nПринявший заказ кузнец спросил, почему у этого оружия такие конструкция и название.\nОн получил довольно загадочный ответ: «В моём мире много механических зверей, а копьё плохо слушается команд».\n\nКузнец понял, в чём дело. Этот лук - волшебное оружие для охоты на механических существ, а потому он по праву заслуживает звание высшего хищника того мира.\n\nНо странная девушка поправила:\n«Просто с помощью этого лука можно поохотиться и добыть мясо. Как раз сейчас я отправляюсь за лесным кабаном».",
+    "id": "\nPandai besi yang menerima komisi ini bertanya mengapa pesanan ini harus dibuat seperti ini dan mengapa benda itu harus dinamai begini.\nJawabannya agak rumit: sesuatu tentang monster mesin yang berkeliaran di seluruh dunia, dan sesuatu tentang tombak yang tidak memiliki kode tumpang tindih.\n\nNamun, pandai besi itu cukup cepat mengerti. Jadi busur ini adalah senjata ampuh yang digunakan untuk berburu dan membunuh makhluk mesin yang perkasa, karenanya busur ini adalah pemangsa puncak dari dunia itu.\n\nTapi gadis aneh itu mengoreksinya dengan mengatakan bukan.\nDia hanya akan menggunakan ini untuk berburu Boar selanjutnya, karena tampaknya di dunia ini, berburu menggunakan busur dan anak panah hanya akan memungkinkan seseorang untuk mendapatkan Raw Meat.",
+    "th": "\nช่างตีเหล็กที่รับคำขอเคยถามว่าทำไมคำสั่งซื้อนี้ต้องทำแบบนั้น และทำไมจะต้องเรียกชื่อนี้ด้วย\nคำตอบที่ได้รับนั้นค่อนข้างซับซ้อน: เกี่ยวกับสิ่งมีชีวิตจักรกลที่มีอยู่ทั่วโลก และพูดถึงหอกที่ไม่มีคำสั่งผูกมัดอะไรนี่แหละ\n\nแต่ช่างตีเหล็กก็เข้าใจได้อย่างรวดเร็ว ที่แท้ธนูคันนี้ก็เป็นอาวุธพิเศษที่ใช้ในการล่า และฆ่าสิ่งมีชีวิตจักรกลอันทรงพลัง ดังนั้นมันจึงเป็นสุดยอดนักล่าของโลกใบนั้น\n\nแต่หญิงสาวแปลกหน้ากลับบอกว่าไม่ใช่แบบนั้น\nเป็นเพราะโลกใบนี้ใช้ธนูในการล่าสัตว์เพื่อให้ได้เนื้อมา ต่อไปเธอก็จะใช้ธนูนี้ในการล่าหมูป่าเช่นกัน",
+    "vi": "\nThợ rèn nhận được ủy thác đã hỏi đơn hàng vì sao phải làm thành như vậy, với tại sao lại gọi tên này.\nĐáp án nhận được có chút phức tạp: nào là dã thú máy móc trên khắp thế giới, nào là vũ khí cán dài không có chỉ lệnh.\n\nNhưng thợ rèn đã hiểu. Thì ra cây cung này là thần binh lợi khí dùng để săn bắt dã thú máy móc, từ đó nó sẽ trở thành kẻ ăn thịt cao cấp của thế giới đó.\n\nNhưng thiếu nữ kỳ lạ nói không phải.\nĐơn giản bởi vì thế giới này dùng cung tên săn bắn, cũng có thể thu hoạch được thịt rừng. Cô ấy tiếp theo sẽ bắt heo rừng. "
+  },
+  "effects": [
+    {
+      "name": {
+        "zhs": "强力攻击",
+        "zht": "強力攻擊",
+        "jp": "強打",
+        "ko": "강력한 공격",
+        "en": "Strong Strike",
+        "de": "Wuchtangriff",
+        "es": "Golpe contundente",
+        "fr": "Frappe puissante",
+        "pt": "Ataque Poderoso",
+        "ru": "Сильная атака",
+        "id": "Strong Strike",
+        "th": "Strong Strike",
+        "vi": "Tấn Công Mạnh Mẽ"
+      },
+      "description": {
+        "zhs": "<color=#99FFFFFF>仅在以下平台生效：</color>\\n<color=#99FFFFFF>\"PlayStation Network\"</color>\\n对敌人造成冰元素伤害后，普通攻击与重击造成的伤害提高10%，该效果持续6秒，至多叠加2次；此外，埃洛伊装备掠食者时，攻击力提升66点。",
+        "zht": "<color=#99FFFFFF>僅在以下平臺生效：</color>\\n<color=#99FFFFFF>\"PlayStation Network\"</color>\\n對敵人造成冰元素傷害後，普通攻擊與重擊造成的傷害提高10%，該效果持續6秒，至多疊加2次；此外，亞蘿伊裝備掠食者時，攻擊力提升66點。",
+        "jp": "<color=#99FFFFFF>以下のプラットフォームでのみ有効です。</color>\\n<color=#99FFFFFF>\"PlayStation Network\"</color>\\n敵に氷元素ダメージを与えた後、通常攻撃と重撃ダメージ+10%、継続時間6秒、最大2重まで。また、アーロイがプレデターを装備している場合、攻撃力+66。",
+        "ko": "<color=#99FFFFFF>다음 플랫폼에서만 적용:</color>\\n<color=#99FFFFFF>\"PlayStation Network\"</color>\\n적에게 얼음 원소 피해를 준 후, 일반 공격과 강공격으로 가하는 피해가 10% 증가한다. 지속 시간: 6초, 최대 중첩수: 2회. 또한, 에일로이가 포식자를 장착할 때 공격력이 66pt 증가한다",
+        "en": "<color=#99FFFFFF>Effective only on the following platform: </color>\\n<color=#99FFFFFF>\"PlayStation Network\"</color>\\nDealing Cryo DMG to opponents increases this character's Normal and Charged Attack DMG by 10% for 6s. This effect can have a maximum of 2 stacks. Additionally, when Aloy equips Predator, ATK is increased by 66.",
+        "de": "<color=#99FFFFFF>Nur für Spieler auf folgender Plattform wirksam:</color>\\n<color=#99FFFFFF>„PlayStation Network“</color>\\nErhöht nach dem Treffen von Gegnern mit Kryo-Schaden den mit Standardangriffen und heftigen Schlägen verursachten Schaden 6 s lang um 10 %, 2-fach stapelbar. Erhöht Aloys ANG beim Anlegen von Raubtier zusätzlich um 66 Punkte.",
+        "es": "<color=#99FFFFFF>Solo disponible en las siguientes plataformas:</color>\\n<color=#99FFFFFF>“PlayStation Network”</color>.\\nTras infligir Daño Cryo a los enemigos, el daño de los Ataques Normales y Cargados aumenta en un 10% durante 6 s. Puede acumularse hasta 2 veces. Además, cuando Aloy equipa el arma Depredador, su ATQ aumenta en 66 pts.",
+        "fr": "<color=#99FFFFFF>Uniquement pour les joueurs sur :</color>\\n<color=#99FFFFFF>« PlayStation Network »</color>\\nAprès avoir infligé des DGT Cryo aux ennemis, les DGT infligés par les attaques normales et chargées augmentent de 10 % pendant 6 s. Cet effet peut être cumulé 2 fois maximum. De plus, lorsqu'Aloy équipe le Predator, son ATQ augmente de 66 pts.",
+        "pt": "<color=#99FFFFFF>Efetivo apenas para jogadores da seguinte plataforma:</color>\\n<color=#99FFFFFF>\"PlayStation Network\"</color>\\nCausar Dano cryo aos oponentes aumenta o Dano do Ataque Normal e Carregado do personagem em 10% por 6s. Este efeito pode ter no máximo 2 acúmulos. Adicionalmente, quando Aloy equipa o Predador, o ATQ é aumentado em 66.",
+        "ru": "<color=#99FFFFFF>Действует только для игроков</color>\\n<color=#99FFFFFF>\"PlayStation Network\".</color>\\nНанесённый противникам Крио урон повышает урон обычной и заряженной атаки персонажа на 10% в течение 6 сек. Эффект может складываться до 2 раз. Кроме этого, когда Хищником экипирована Элой, сила атаки повышается на 66 ед.",
+        "id": "<color=#99FFFFFF>Berlaku khusus untuk pemain di: </color>\\n<color=#99FFFFFF>\"PlayStation Network\"</color>\\nSaat mengakibatkan Cryo DMG pada musuh, maka DMG Normal dan Charged Attack dari Karakter tersebut akan meningkat 10% selama 6 detik, dapat ditumpuk sampai 2 lapis. Selain itu, jika Aloy yang mengenakan Predator, ATK-nya akan meningkat sebesar 66.",
+        "th": "<color=#99FFFFFF>มีผลเมื่อเล่นบนแพลตฟอร์มต่อไปนี้เท่านั้น:</color>\\n<color=#99FFFFFF>\"PlayStation Network\"</color>\\nหลังจากที่สร้างความเสียหายน้ำแข็งแก่ศัตรู ความเสียหายการโจมตีปกติและชาร์จโจมตีจะเพิ่มขึ้น 10% โดยที่เอฟเฟกต์นี้จะคงอยู่เป็นเวลา 6 วินาที และซ้อนทับกันได้มากสุด 2 ครั้ง; นอกจากนี้เมื่อ Aloy เป็นผู้ใช้ Predator พลังโจมตีจะเพิ่มขึ้น 66 หน่วย",
+        "vi": "<color=#99FFFFFF>Chỉ có hiệu lực trong:</color>\\n<color=#99FFFFFF>\"PlayStation Network\"</color>\\nSau khi gây Sát Thương Nguyên Tố Băng lên kẻ địch, tăng 10% sát thương tấn công thường và trọng kích gây ra, hiệu quả duy trì 6 giây, tối đa cộng dồn 2 lần; Ngoài ra, khi Aloy trang bị \"Kẻ Săn Mồi\", tấn công tăng 66 điểm."
+      }
+    }
+  ],
+  "internal_name": "Bow_Predator",
+  "imgid": "bow/predator"
+}

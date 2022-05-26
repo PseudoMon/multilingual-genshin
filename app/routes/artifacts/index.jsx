@@ -20,7 +20,7 @@ export default function ArtifactSetListPage() {
   }
 
   return (
-    <div>
+    <>
       <header className="listpage-header">
         <h1>Artifacts</h1>
         <input 
@@ -48,6 +48,6 @@ export default function ArtifactSetListPage() {
           </li>
         ) }
       </ul>
-    </div>
+    </>
   )
 }

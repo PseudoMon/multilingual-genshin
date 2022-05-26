@@ -1,0 +1,52 @@
+{
+  "id": 13201,
+  "type": "polearm",
+  "rank": 2,
+  "name": {
+    "zhs": "铁尖枪",
+    "zht": "鐵尖槍",
+    "jp": "鉄尖槍",
+    "ko": "철촉창",
+    "en": "Iron Point",
+    "de": "Eisenlanze",
+    "es": "Punta de Hierro",
+    "fr": "Pointe de fer",
+    "pt": "Ponta de Ferro",
+    "ru": "Железный наконечник",
+    "id": "Iron Point",
+    "th": "Iron Point",
+    "vi": "Thương Sắt"
+  },
+  "description": {
+    "zhs": "一头有尖，可攻可守的护身武器。在旅者当中十分流行。",
+    "zht": "一頭有尖，可攻可守的護身武器。在旅者之間十分流行。",
+    "jp": "片方が尖っている、攻撃も防御もできる護身用武器。旅人の間で流行っているもの。",
+    "ko": "한 쪽이 날카로운 공수를 겸비한 호신용 무기. 여행자들 사이에서 매우 유행하고 있다",
+    "en": "Sharp and pointy at one end, it is a balanced weapon that is quite popular among travelers.",
+    "de": "Spitz an einem Ende, geeignet für Angriff und Verteidigung. Äußerst beliebt bei Reisenden.",
+    "es": "Aguda y puntiaguda en un extremo, es un arma muy equilibrada. Popular entre los viajeros.",
+    "fr": "Pointue à l'extrémité, cette épée convient aussi à l'attaque qu'à la défense et est très prisée des voyageurs.",
+    "pt": "Afiada e pontiaguda em sua extremidade, é uma arma balanceada e bastante popular entre os viajantes.",
+    "ru": "Прекрасно сбалансированное оружие, заострённое с одной стороны. Популярно среди путешественников.",
+    "id": "Mata pedangnya sangat tajam, sebuah senjata dengan keseimbangan yang baik, senjata ini populer di kalangan para petualang.",
+    "th": "อาวุธปลายแหลมด้านเดียว เป็นอาวุธที่สมดุลและเป็นที่นิยมในหมู่นักเดินทาง",
+    "vi": "Một đầu nhọn, là vũ khí hộ thân có thể công thủ. Rất thịnh hành trong giới lữ hành."
+  },
+  "lore": {
+    "zhs": "\n散发着些许威严感的简陋兵器。\n对于有着应当守护的事物的人，\n或是除却己身一无所有的旅者，\n再简陋的武器都能发挥十倍的力量吧。",
+    "zht": "\n散發著些許威嚴感的簡陋兵器。\n對於有著應當守護的事物的人，\n或是除卻己身一無所有的旅者，\n再簡陋的武器都能發揮十倍的力量吧。",
+    "jp": "\nほぼ迫力を感じさせないみすぼらしい武器。\n守るべきものがある人や、\n己の身一つしか持たない旅人にとっては、\nそんな武器でも、十二分に力を発揮できるだろう。",
+    "ko": "\n위압감을 살짝 발산하는 초라한 무기.\n지켜야 할 것이 있는 사람이나,\n가진 게 몸 하나 밖에 없는 여행자에겐\n아무리 초라한 무기도 충분히 그 힘을 발휘할 수 있다.",
+    "en": "\nA simple weapon that exudes a certain austerity.\nFor those who defend that which they must protect,\nOr a traveler with naught to their name but themselves,\nEven the most mundane of weapons might be ten times as powerful as it seems.",
+    "de": "\nEine einfache und vulgäre Waffe, die ein gewisses Gefühl der Autorität vermittelt.\nFür diejenigen, die materiellen Besitz zu verteidigen hatten,\noder für Reisende, die nur das besitzen, was sie mit sich führen,\nkönnen selbst die einfachsten Waffen die Stärke eines jeden erheblich steigern.",
+    "es": "\nUn arma sencilla y vulgar que da cierta sensación de autoridad.\nPara quienes tienen posesiones materiales que defender,\no para los viajeros que solo poseen lo que llevan encima,\nhasta la más sencilla de las armas puede incrementar enormemente su fuerza.",
+    "fr": "\nCette arme simple dégage un certain sentiment d'autorité.\nPour ceux qui ont quelque chose à protéger,\nou pour les voyageurs à qui il ne reste que la vie,\nmême l'arme la plus simple peut paraître dix fois plus puissante qu'elle n'en a l'air.",
+    "pt": "\nUma arma que emite uma pequena sensação de dignidade.\nPara aqueles que possuem algo para proteger,\nou para os viajantes que não possuem nada a não ser a si mesmo,\nAté as armas mais simples podem exibir uma enorme força.",
+    "ru": "\nПримитивное оружие. Выглядит не очень угрожающе.\nДля человека с соответствующей бронёй\nили для путника, у которого ничего и нет,\nдаже более примитивное оружие и то будет выглядеть более внушительно.",
+    "id": "\nSenjata sederhana yang memancarkan keagungan.\nBagi mereka yang memiliki sesuatu untuk dijaga,\nAtau lepaskan senjata itu dan menjadi pengembara dengan tangan kosong,\nTidak peduli seberapa sederhana senjata itu, itu bisa membuatnya sepuluh kali lebih kuat.",
+    "th": "\nอาวุธเรียบง่ายที่แฝงด้วยความสง่า\nสำหรับผู้ที่ต้องการปกป้องสิ่งสำคัญ\nหรือสำหรับนักเดินทางผู้มีเพียงชื่อของตนเท่านั้น\nไม่ว่าอาวุธจะเรียบง่ายเพียงใด ก็อาจทรงพลังได้มากกว่าเดิมเป็นสิบเท่า",
+    "vi": "\nPhát tán những binh khí thô sơ nhưng trông có vẻ uy nghiêm.\nĐối với những người có thứ cần bảo vệ, \nHoặc là trút bỏ đi thân phận lữ khách tay trắng của mình, \nVũ khí có thô sơ đi chăng nữa cũng có thể phát huy sức mạnh gấp mười lần."
+  },
+  "internal_name": "Pole_Rod",
+  "imgid": "pole/rod"
+}

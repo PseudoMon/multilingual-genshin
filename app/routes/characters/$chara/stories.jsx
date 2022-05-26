@@ -16,10 +16,12 @@ export default function VoicePage() {
   return (
     <ul className="datalines">
       { stories.map(line => (
-        <li key={ line.title["en"] }><CharaDatalineCard 
-          dataline={ line } 
-          lang={ activeLang }
-        /></li>
+        <li key={ line.title["en"] }>
+          <CharaDatalineCard 
+            dataline={ line } 
+            lang={ activeLang }
+          />
+        </li>
       )) }
     </ul>
   )

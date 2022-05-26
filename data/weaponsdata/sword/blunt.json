@@ -1,0 +1,52 @@
+{
+  "id": 11101,
+  "type": "sword",
+  "rank": 1,
+  "name": {
+    "zhs": "无锋剑",
+    "zht": "無鋒劍",
+    "jp": "無鋒の剣",
+    "ko": "무인검",
+    "en": "Dull Blade",
+    "de": "Stumpfes Schwert",
+    "es": "Hoja Desafilada",
+    "fr": "Épée émoussée",
+    "pt": "Lâmina Sem Fio",
+    "ru": "Тупой меч",
+    "id": "Dull Blade",
+    "th": "Dull Blade",
+    "vi": "Vô Phong Kiếm"
+  },
+  "description": {
+    "zhs": "少年人的梦想、踏上旅途的兴奋——如果这两种珍贵的品质还不够锋利，那就用勇气补足吧。",
+    "zht": "少年人的夢想、踏上旅途的興奮——如果這兩種珍貴的特質還不夠鋒利，那就用勇氣補足吧。",
+    "jp": "少年の夢、旅に出る興奮——この2つでも物足りないなら、勇気も入れてみよう。",
+    "ko": "젊은이의 꿈, 여정에 오른 흥분——이 두 가지의 소중한 자질이 아직 부족하다면 용기로 때우자",
+    "en": "Youthful dreams and the thrill of adventure. If this isn't enough, then make it up with valiance.",
+    "de": "Die Träume eines Abenteurers und der Enthusiasmus bei der Reise sind zwei wertvolle Dinge, die das Schwert aber auch nicht schärfer machen. Mach es einfach mit Mut wieder wett!",
+    "es": "Si tus sueños de la juventud y la emoción de la aventura no son suficientes, ¡compleméntalos con valentía!",
+    "fr": "Si les rêves de jeunesse et la soif d'aventure ne suffisent pas, compensez avec beaucoup de courage.",
+    "pt": "Sonhos de juventude e muita aventura. Se isso não for suficiente, então use a coragem para compensar.",
+    "ru": "Юношеские мечты и жажда приключений, приправленные отвагой.",
+    "id": "Mimpi masa muda dan semangat petualang, kalau dua hal itu tidak cukup tajam, tambahkanlah keberanian!",
+    "th": "ฝันในวัยเยาว์กับการผจญภัย อันน่าตื่นเต้น หากมันยังไม่พอ ก็เพิ่มความกล้าเข้าไปด้วยสิ",
+    "vi": "Là ước mơ và khát vọng của những thiếu niên, nếu hai phẩm chất đáng quý này vẫn không đủ, vậy thì thêm chút dũng khí nào."
+  },
+  "lore": {
+    "zhs": "\n旅途中总是充满了相遇与别离。\n始终不会抛弃旅人的忠实旅伴，\n恐怕只有长剑与远行的梦想了。",
+    "zht": "\n旅途中總是充滿了相遇與別離。\n始終不會拋棄旅人的忠實旅伴，\n恐怕只有長劍與遠行的夢想了。",
+    "jp": "\n旅路は出会いと別れで溢れている。\n最後まで旅人と歩み続けてくれるのは、\n剣と遠い夢しかないだろう。",
+    "ko": "\n여행은 늘 만남과 이별로 가득하다.\n여행자와 끝까지 함께하는 동반자는\n오직 검과 머나먼 꿈밖에 없을 것이다.",
+    "en": "\nTravels are full of meetings and partings.\nPerhaps the only trusty and inseparable companions of a Traveler,\nAre the sword in their hand and the dream in their heart.",
+    "de": "\nReisen sind voll von Begegnungen und Abschieden.\nWahrscheinlich sind immer noch die treusten Begleiter eines Reisenden\ndas Schwert in der Hand und der Traum im Herzen.",
+    "es": "\nEl camino siempre está repleto de encuentros y despedidas.\nLos únicos que nunca abandonan al viajero\nson sus sueños y su espada.",
+    "fr": "\nLa route est pleine de rencontres et d'adieux.\nPeut-être que les seuls vrais compagnons du voyageur\nsont son épée et son rêve.",
+    "pt": "\nAs jornadas sempre estão repletas de novos encontros e despedidas.\nO companheiro leal do Viajante que nunca o abandona,\nTemo que só reste o sonho da espada longa e da viagem longínqua.",
+    "ru": "\nПолон путь встреч и прощаний,\nИ верные спутники мои -\nЛишь меч и мечта.",
+    "id": "\nDalam sebuah perjalanan selalu ada pertemuan dan perpisahan.\nTidak akan pernah meninggalkan teman perjalanan setia para pengembara,\nTakutnya hanya ada mimpi dari pedang dan perjalanan yang panjang.",
+    "th": "\nการเดินทางเต็มไปด้วยการพบและการพลัดพราก\nบางทีคู่หูที่ไว้ใจได้ในการเดินทาง\nอาจมีเพียงดาบที่ถืออยู่ และความฝันในใจเท่านั้น",
+    "vi": "\nSuốt đường đi là những khoảnh khắc tương phùng rồi ly biệt.\nNgười bạn đồng hành trung thành không hề bỏ rơi lữ khách, \nE rằng chỉ là mộng tưởng của trường kiếm và viễn hành."
+  },
+  "internal_name": "Sword_Blunt",
+  "imgid": "sword/blunt"
+}

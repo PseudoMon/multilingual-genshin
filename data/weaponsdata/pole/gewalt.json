@@ -1,0 +1,52 @@
+{
+  "id": 13101,
+  "type": "polearm",
+  "rank": 1,
+  "name": {
+    "zhs": "新手长枪",
+    "zht": "新手長槍",
+    "jp": "新米の長槍",
+    "ko": "초보자의 장창",
+    "en": "Beginner's Protector",
+    "de": "Anfängerlanze",
+    "es": "Lanza del Principiante",
+    "fr": "Lance du débutant",
+    "pt": "Protetor de Iniciante",
+    "ru": "Копьё новичка",
+    "id": "Beginner's Protector",
+    "th": "Beginner's Protector",
+    "vi": "Thương Tân Thủ"
+  },
+  "description": {
+    "zhs": "笔直得像旗杆一般的长枪，挥舞起来颇具气势。足以应付大多数情况。",
+    "zht": "筆直得像旗杆一般的長槍，揮舞起來頗具氣勢。足以應付大多數情況。",
+    "jp": "旗竿のように真っすぐで、舞うと勢いがある。多くの状況に対応できる。",
+    "ko": "깃대처럼 곧은 창은 휘두를 때 자못 기세가 있다. 이 창으로 능히 대부분의 상황에 대응할 수 있다",
+    "en": "A polearm as straight as a flag pole. Well suited to most combat situations, it has an imposing presence when swung.",
+    "de": "Eine Lanze so gerade wie ein Fahnenmast. In der Luft gewirbelt schindet sie ordentlich Eindruck und lässt sich in den meisten Situationen anwenden.",
+    "es": "Una arma tan recta como el asta de una bandera y adecuada para la mayoría de las situaciones. Quien la porte sentirá una gran magnificencia al blandirla.",
+    "fr": "Une lance droite comme un mât, idéale en situation de combat. Elle dégage une présence imposante.",
+    "pt": "Uma arma tão reta quanto uma haste de bandeira. Adequado para a maioria das situações, parece imponente quando é balançada.",
+    "ru": "Обычное копьё. Прямое, как флагшток. Одним его взмахом можно разрешить большинство споров.",
+    "id": "Sebuah polearm yang sangat lurus seperti sebuah tiang bendera. Cocok digunakan di berbagai situasi.",
+    "th": "หอกที่เหมือนเสาธง ใช้งานได้กับหลายสถานการณ์ รู้สึกประทับใจทุกครั้งเมื่อได้เหวี่ยงมัน",
+    "vi": "Thương dài như cột cờ, có một khí thế kiên cường. Có thể ứng phó với nhiều tình huống."
+  },
+  "lore": {
+    "zhs": "\n在过去的蒙德，长枪是被贵族禁止的兵器。\n表面上说，剑术才是高尚之人的武术修为，\n据说实际是因为长枪可以填补训练的差距，\n让缺乏兵器与练习的平民拥有抗争的武装。",
+    "zht": "\n在過去的蒙德，長槍是被貴族禁止的兵器。\n表面上說，劍術才是高尚之人的武術修為，\n據說實際是因為長槍可以填補訓練的差距，\n讓缺乏兵器與練習的平民擁有抗爭的武裝。",
+    "jp": "\nモンドでは昔、槍を持つ事は貴族によって禁止されていた。\n表向きでは、剣術こそが高貴な嗜みであるためだと言われていたが、\n実際は、多くの鍛錬をせずとも扱える槍を\n平民の手に渡らないようにし、反乱を防ぐのが理由であった。",
+    "ko": "\n과거 몬드에서 창은 귀족들이 금지하는 무기였다.\n겉으로는 검술이야말로 고귀한 무술 수행이라고 했지만,\n사실 창은 훈련의 차이를 좁힐 수 있어서\n무기와 훈련이 부족한 평민들이 귀족들에게 저항하는 걸 막기 위함이었다.",
+    "en": "\nIn old Mondstadt, spear arts were forbidden by the nobility.\nOstensibly, they claimed that only the sword was worthy of noble stock,\nBut they say that in reality, it was because the length of polearms could bridge the gaps in training,\nWhich might grant the unarmed and unschooled commoners a weapon with which to resist.",
+    "de": "\nIn der Vergangenheit verboten die Aristokraten von Mondstadt den Gebrauch von Speeren.\nDer offizielle Grund war, dass das Schwert die edlere Waffe sei,\naber in Wirklichkeit lag es daran, dass die Speere ohne Training eingesetzt werden konnten\nund so zur Waffe der Bauern ohne Schwert und Training wurden.",
+    "es": "\nEn el pasado, los nobles de Mondstadt prohibieron el uso de las lanzas.\nLa razón oficial fue que la espada es un arma más noble,\npero, en realidad, se debió a que las lanzas pueden usarse sin necesidad de entrenar,\nPor ello, se convirtió en el arma de los campesinos que no tenían espadas ni habían recibido entrenamiento militar.",
+    "fr": "\nDans le passé, la noblesse de Mondstadt interdisait l'utilisation des lances.\nLa raison officielle était qu'il s'agit d'une arme noble...\nMais c'était en fait parce que les lances pouvaient être maniées plus facilement sans entraînement,\ndevenant ainsi l'arme de prédilection des paysans ne pouvant pas bénéficier de formation armée.",
+    "pt": "\nNa Mondstadt de antigamente, os nobres proibiram o uso de lanças.\nAparentemente, a esgrima é a arte marcial dos nobres,\nna verdade é porque as lanças podem preencher as deficiências do treinamento,\nque permitiam as pessoas comuns que não tinham armas e experiência pudessem resistir.",
+    "ru": "\nРаньше в Мондштадте копья были запрещены аристократами.\nОни говорили, что достойно сражаться только мечом,\nно на самом деле причина была в том, что копьё скрывает разницу в подготовке.\nЭто идеальное оружие для необученных людей без средств.",
+    "id": "\nDulu, tombak adalah senjata yang dilarang oleh para bangsawan.\nMereka berkata bahwa ilmu pedang adalah seni bela diri bagi mereka yang berkultivasi tinggi,\nDikatakan bahwa sebenarnya karena senjata yang panjang dapat mengatasi celah dalam latihan,\nDan itu bisa membuat warga sipil yang tidak memiliki senjata dan latihan bisa memiliki perlawanan dengan senjata itu.",
+    "th": "\nใน Mondstadt ยุคเก่า หอกเป็นอาวุธต้องห้ามโดยชนชั้นสูง\nดูผิวเผินแล้ว ดาบถึงจะเป็นอาวุธที่คู่ควรกับผู้ที่สูงส่ง\nแต่ในความเป็นจริงแล้ว หอกมันสามารถเติมเต็มช่องว่างระหว่างการฝึกอาวุธ\nซึ่งจะทำให้คนทั่วไปที่ไร้ซึ่งอาวุธและการฝึกฝน สามารถมีเครื่องมือที่จะใช้ในการต่อต้านได้",
+    "vi": "\nMondstadt trước đây, trường thương là binh khí bị quý tộc cấm dùng.\nHọ cho rằng, kiếm thuật mới là võ thuật dành cho những người cao sang tu luyện, \nNghe nói thực ra là vì trường thương có thể bù lại chênh lệch tập luyện, \nKhiến cho những dân thường thiếu binh khí và ít luyện tập, có vũ trang để chống chọi."
+  },
+  "internal_name": "Pole_Gewalt",
+  "imgid": "pole/gewalt"
+}

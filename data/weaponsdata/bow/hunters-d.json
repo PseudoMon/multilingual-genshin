@@ -1,0 +1,52 @@
+{
+  "id": 15504,
+  "type": "bow",
+  "rank": 5,
+  "name": {
+    "zhs": "",
+    "zht": "昆吾墜龍",
+    "jp": "昆吾の堕龍",
+    "ko": "곤오추룡",
+    "en": "Kunwu's Wyrmbane",
+    "de": "Kunwus Drachenschlächter",
+    "es": "Cazador de Dragones de Kunwu",
+    "fr": "Wyrmbane de Kunwu",
+    "pt": "Caça-Dragões de Kunwu",
+    "ru": "Убийца Драконов Кунву",
+    "id": "Kunwu's Wyrmbane",
+    "th": "Kunwu's Wyrmbane",
+    "vi": "Rồng Kunwu"
+  },
+  "description": {
+    "zhs": "",
+    "zht": "名匠昆吾以辰筋做的大弓，其勁可以殲龍。釋弦時，其勢如雷。",
+    "jp": "名匠昆吾が龍の筋を使って作った大弓、龍さえも殺せる強さがある。矢を放つ時、雷のような勢いがある。",
+    "ko": "용을 죽일 수 있는 힘을 가지고 있는 큰 활. 활시위를 놓을 때의 기세는 벼락과도 같다",
+    "en": "A greatbow made from dragon vein. It is so powerful that it could slay a dragon. A nocked arrow fires with the force of thunder.",
+    "de": "Ein großer Bogen aus der Meisterschmiede Kunwu mit der Stärke, einen Drachen zu töten. Lässt man die Sehne los, zischen die Pfeile wie Blitze davon.",
+    "es": "Un gran arco tan poderoso que podría matar a un dragón. O eso se dice. Las flechas dispara contienen la fuerza del trueno.",
+    "fr": "Un grand arc en veine de dragon fait par le maître forgeron Kunwu. Il est si puissant qu'il peut même tuer un dragon. Lorsque une flèche est tirée de l'arc, elle sort avec la force du tonnerre.",
+    "pt": "Um grande arco feito de veias de dragão. É tão poderoso que poderia matar um dragão. A flecha disparada tem a força de um trovão.",
+    "ru": "Большой лук, сделанный из драконьей жилы. Из него можно даже убить дракона. Стрелы, выпущенные из этого лука, приобретают силу грома.",
+    "id": "Busur besar yang terbuat dari nadi naga. Memiliki kekuatan yang luar biasa dan dapat membunuh naga, panah yang ditembakkan busur ini melesat bagaikan sambaran petir.",
+    "th": "สุดยอดธนูที่ทำมาจากเส้นเลือดของมังกร มันทรงพลังมากจนสามารถฆ่ามังกรได้ และว่ากันว่า ลูกธนูที่ถูกขึ้นลำนั้นจะยิงออกมาด้วยพลังราวกับสายฟ้าฟาดเลยทีเดียว",
+    "vi": "Đại cung được thợ thủ công Kunwu làm từ gân cốt, có thể tiêu diệt cả rồng. Khi bắn ra khí thế như sấm sét."
+  },
+  "lore": {
+    "zhs": "",
+    "zht": "",
+    "jp": "",
+    "ko": "",
+    "en": "",
+    "de": "",
+    "es": "",
+    "fr": "",
+    "pt": "",
+    "ru": "",
+    "id": "",
+    "th": "",
+    "vi": ""
+  },
+  "internal_name": "Bow_Hunters-d",
+  "imgid": "bow/hunters-d"
+}

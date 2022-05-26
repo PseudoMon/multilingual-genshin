@@ -17,12 +17,81 @@
     h2 { margin: 0; }
     .star-ranking { 
         font-size: 1.2rem; 
-        color: #9973B4; 
         margin-bottom: 0.4em; 
+
+        &.three {
+            color: #5390b6;
+        }
+
+        &.four {
+            color: #9973B4; 
+        }
+
+        &.five {
+            color: #f6bb2f;
+        }
     }
+
+
     .weapon-type {
         font-size: 1.2rem; 
         color: var(--color-darkoverlay);
     }
+}
 
+.main-page .dataline-card.lore .header {
+    background-color: var(--color-accent);
+    color: var(--color-text);
+}
+
+.weapons-list {
+    list-style: none;
+    padding-left: 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+
+    box-sizing: border-box;
+    margin: 0 auto;
+
+    @media (max-width: 500px) {
+        grid-template-columns: 1fr 1fr;
+    }
+
+    img {
+        max-width: 100%;
+    }
+
+     & > * {
+        display: flex;
+        align-items: stretch;
+    }
+
+    li a {
+        width: 100%;
+        min-height: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        opacity: 0.8;
+        background-color: var(--color-softbg);
+
+        &:hover {
+            opacity: 1.0;
+        }
+    }
+
+    li span {
+        flex-grow: 1;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        color: var(--color-bg);
+        box-sizing: border-box;
+        background: var(--color-overlay);
+        padding: 0.5em 1em;
+        text-align: center;
+        justify-self: end;
+        width: 100%;
+    }
 }

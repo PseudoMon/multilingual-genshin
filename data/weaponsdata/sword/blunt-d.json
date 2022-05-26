@@ -1,0 +1,52 @@
+{
+  "id": 11506,
+  "type": "sword",
+  "rank": 5,
+  "name": {
+    "zhs": "",
+    "zht": "磐岩結綠",
+    "jp": "磐岩の緑",
+    "ko": "이끼 대검",
+    "en": "Primordial Jade Cutter",
+    "de": "Moosgrüner Fels",
+    "es": "Cortador de Jade Primordial",
+    "fr": "Coupeur de jade primordial",
+    "pt": "Cortador de Jade Primordial",
+    "ru": "Древний Нефритовый Резак",
+    "id": "Primordial Jade Cutter",
+    "th": "Primordial Jade Cutter",
+    "vi": "Nham Kết Lục"
+  },
+  "description": {
+    "zhs": "",
+    "zht": "苔蘚染綠的岩刀，受了岩之神的勸誡與祝福後變得如翠玉般透徹。",
+    "jp": "コケで緑に染まった岩刀、岩の神の助言と祝福を受けた後、翠玉のように透き通る形になった。",
+    "ko": "이끼가 파릇파릇한 바위칼은 바위의 신의 훈계와 축복을 받아 옥처럼 투명해졌다",
+    "en": "A great claymore that was once covered in moss, but turned crystal clear after both blessed and admonished by the Geo Archon.",
+    "de": "Ein vom Moos grün gefärbtes Schwert aus Stein, das vom Gott des Gesteins gesegnet wurde und dadurch so scharf schneidet wie geschliffene Jade.",
+    "es": "Un gran claymore cubierto de musgo que fue bendecido y aprobado por el Dios de la Roca. Su aspecto aburrido y pesado esconde su letalidad.",
+    "fr": "Une épée de roche qui était autrefois recouverte de mousses, mais il devient limpide comme le jade vert après avoir été bénie et persuadée par l'Archon Anémo.",
+    "pt": "Um grande claymore que já foi coberto de musgo, mas ficou cristalino depois de ser abençoado e admoestado pelo Arconte Geo.",
+    "ru": "Огромный двуручный меч, который когда-то был покрыт мхом, но стал кристально чистым после благословения и увещевания архонтом земли.",
+    "id": "Pedang besar yang sebelumnya tertutup oleh lumut, tetapi kini bersinar kembali dengan jernih setelah diberkati dan ditegur oleh Dewa Tanah.",
+    "th": "ดาบหินที่เต็มไปด้วยตะไคร่น้ำ กลายเป็นสวยใสราวกับหยกหลังจากได้รับคำแนะนำและพรจาก the God of Earth",
+    "vi": "Thanh đao bị rêu phong bám phủ, sau khi nhận được sự chúc phúc và khuyên giải của Nham Thần thì trở nên trong xanh như ngọc."
+  },
+  "lore": {
+    "zhs": "测试 \n",
+    "zht": "測試\n",
+    "jp": "テスト\n",
+    "ko": "테스트\n",
+    "en": "Test\n",
+    "de": "Test\n",
+    "es": "Prueba\n",
+    "fr": "Test\n",
+    "pt": "Teste\n",
+    "ru": "Тест\n",
+    "id": "Ujian\n",
+    "th": "ทดสอบ \n",
+    "vi": "Thử nghiệm\n"
+  },
+  "internal_name": "Sword_Blunt-d",
+  "imgid": "sword/blunt-d"
+}

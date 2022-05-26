@@ -1,0 +1,52 @@
+{
+  "id": 15506,
+  "type": "bow",
+  "rank": 5,
+  "name": {
+    "zhs": "",
+    "zht": "破鏡",
+    "jp": "壊れた鏡",
+    "ko": "부서진 거울",
+    "en": "Mirror Breaker",
+    "de": "Zerbrochener Spiegel",
+    "es": "Espejo Roto",
+    "fr": "Briseur de mirroire",
+    "pt": "Quebrador de Espelhos",
+    "ru": "Разбитое зеркало",
+    "id": "Mirror Breaker",
+    "th": "Mirror Breaker",
+    "vi": "Gương Vỡ"
+  },
+  "description": {
+    "zhs": "",
+    "zht": "遠古的天外征服者在震撼天地的戰鬥中落下的武器碎片。曾經擁有熄滅月光的力量。",
+    "jp": "古代の天外征服者が天地を揺るがす戦いで落とした武器の破片、月の光を消せるほどの力があるらしい。",
+    "ko": "고대의 정복자가 천지를 뒤흔들던 전투 중에 떨어뜨린 무기의 파편. 달빛을 소멸하는 힘을 지니고 있었다",
+    "en": "A weapon fragment from the epic battle waged by ancient extraterrestrial conquerors. It once had the power to extinguish moonlight.",
+    "de": "Das Fragment einer Waffe, zurückgeblieben aus dem Kampf der Eroberer über den Himmeln vor langer, langer Zeit. Einst hatte es die Kraft, das Mondlicht zu verdunkeln.",
+    "es": "Un fragmento de arma de la épica batalla librada por antiguos conquistadores de otro mundo. Alguna vez tuvo el poder de extinguir la luz de la luna.",
+    "fr": "Un fragment d'arme laissé par un conquérant extraterrestre dans une bataille épique. Il avait autrefois le pouvoir d'éteindre le clair de lune.",
+    "pt": "Um fragmento de arma da batalha épica travada pelos antigos conquistadores extraterrestres. Ele já teve o poder de extinguir o luar.",
+    "ru": "Часть оружия, использовавшегося в эпических битвах между межзвёздными завоевателями. Когда-то она обладала силой, способной погасить лунный свет.",
+    "id": "Pecahan senjata yang berasal dari perang yang dipelopori oleh para penguasa luar angkasa kuno. Memiliki kekuatan yang dapat memadamkan cahaya bulan.",
+    "th": "ชิ้นส่วนอาวุธจากมหากาพย์การต่อสู้ยืดเยื้อโดยผู้พิชิตนอกโลกโบราณ ครั้งหนึ่งมันมีพลังถึงขั้นดับแสงจันทร์ได้เลยทีเดียว",
+    "vi": "Mảnh vũ khí rơi ra trong cuộc chiến đấu kinh thiên động địa của người chinh phục thiên ngoại viễn cổ. Từng có sức mạnh làm tắt cả mặt trăng."
+  },
+  "lore": {
+    "zhs": "测试 \n",
+    "zht": "測試\n",
+    "jp": "テスト\n",
+    "ko": "테스트\n",
+    "en": "Test\n",
+    "de": "Test\n",
+    "es": "Prueba\n",
+    "fr": "Test\n",
+    "pt": "Teste\n",
+    "ru": "Тест\n",
+    "id": "Ujian\n",
+    "th": "ทดสอบ \n",
+    "vi": "Thử nghiệm\n"
+  },
+  "internal_name": "Bow_Hunters-d-d-d",
+  "imgid": "bow/hunters-d-d-d"
+}

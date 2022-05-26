@@ -1,0 +1,52 @@
+{
+  "id": 12506,
+  "type": "claymore",
+  "rank": 5,
+  "name": {
+    "zhs": "",
+    "zht": "異史",
+    "jp": "異史",
+    "ko": "괴사",
+    "en": "The Other Side",
+    "de": "Anderer Verlauf",
+    "es": "Historia Diferente",
+    "fr": "Histoire secondaire",
+    "pt": "O Outro Lado",
+    "ru": "Другая Сторона",
+    "id": "Historia Diferente",
+    "th": "The Other Side",
+    "vi": "Dị Sử"
+  },
+  "description": {
+    "zhs": "",
+    "zht": "是最初的仙人與最後的仙獸的故事的另一個結局，是雙方和解的橋樑與脊柱。無鋒而有力。",
+    "jp": "最初の仙人と最後の仙獣の物語のもう一つのエンディング、双方を和解に運ぶ懸け橋と柱である。峰はないが、力がある。",
+    "ko": "최초의 선인과 최후의 신수의 이야기의 또 다른 결말로 양자간 화해의 징검다리이다. 날은 없지만 힘차다",
+    "en": "The alternative ending to the story between the first adeptus and the last illuminated beast. It was the bridge on which a mutual compromise was reached. It's blunt but powerful.",
+    "de": "Ein anderes Ende für die Geschichte des ersten Adepten und der letzten göttlichen Bestie, eine Brücke zur Aussöhnung zwischen den beiden. Es ist zwar nicht scharf, aber dennoch mächtig.",
+    "es": "Era el final alternativo de la historia entre la primera deidad y la última bestia divina. Fue el puente sobre el cual se alcanzó un compromiso mutuo. No tiene filo pero es muy poderoso.",
+    "fr": "Une épée sans lame mais puissante qui décrit l'autre fin de l'histoire entre le premier adepte et le dernier monstre divin. Elle est le pont qui signifie leur réconciliation.",
+    "pt": "O final alternativo da história entre o primeiro Adeptus e a última Besta Divina. Foi a ponte sobre a qual foi alcançado um compromisso mútuo. Não tem fio, mas é poderoso.",
+    "ru": "Альтернативный конец истории первого Адепта и последнего божественного зверя. Это мост, на котором был достигнут компромисс. Он тупой, но мощный.",
+    "id": "Akhir kisah yang berbeda dari cerita antara adeptus pertama dan hewan suci terakhir. Merupakan jembatan yang terbangun dari kesepakatan yang disetujui. Tidak tajam tetapi memiliki kekuatan yang besar.",
+    "th": "เป็นเรื่องราวตอนจบที่สามารถเลือกได้ระหว่างจุดเริ่มต้นของเซียนหรือจุดจบของอสูรร้าย มันเป็นสะพานที่แสดงถึงการประนีประนอมซึ่งกันและกัน มันไม่มีคมแต่กลับทรงพลัง",
+    "vi": "Là một kết cuộc khác của tiên nhân đầu tiên với tiên thú cuối cùng, là cầu nối và xương sống của hai bên. Không sắc bén nhưng lại có sức mạnh."
+  },
+  "lore": {
+    "zhs": "测试 \n",
+    "zht": "測試\n",
+    "jp": "テスト\n",
+    "ko": "테스트\n",
+    "en": "Test\n",
+    "de": "Test\n",
+    "es": "Prueba\n",
+    "fr": "Test\n",
+    "pt": "Teste\n",
+    "ru": "Тест\n",
+    "id": "Ujian\n",
+    "th": "ทดสอบ \n",
+    "vi": "Thử nghiệm\n"
+  },
+  "internal_name": "Claymore_Aniki-d-d",
+  "imgid": "claymore/aniki-d-d"
+}

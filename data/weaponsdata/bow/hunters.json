@@ -1,0 +1,52 @@
+{
+  "id": 15101,
+  "type": "bow",
+  "rank": 1,
+  "name": {
+    "zhs": "猎弓",
+    "zht": "獵弓",
+    "jp": "狩猟弓",
+    "ko": "사냥활",
+    "en": "Hunter's Bow",
+    "de": "Jagdbogen",
+    "es": "Arco del Cazador",
+    "fr": "Arc de chasse",
+    "pt": "Arco do Caçador",
+    "ru": "Лук охотника",
+    "id": "Hunter's Bow",
+    "th": "Hunter's Bow",
+    "vi": "Cung Săn Bắn"
+  },
+  "description": {
+    "zhs": "猎手演奏的音乐由两种音色组成。弓弦颤动的声音，和羽箭破空的低啸。",
+    "zht": "獵手演奏的音樂由兩種音色組成：弓弦顫抖的聲音，和羽箭破空的低嘯。",
+    "jp": "狩人が奏でる音楽は二つの音色で構成される。弦が震える音と矢が空気を破る唸り声である。",
+    "ko": "사냥꾼이 연주하는 곡은 두 개의 멜로디로 이루어졌다. 하나는 활시위를 튕기는 소리고 다른 하나는 화살이 공기를 가르는 소리이다",
+    "en": "A hunter's music consists of but two sounds: the twang of the bowstring and the whoosh of soaring arrows.",
+    "de": "Die von Jägern gespielte Musik besteht aus zwei Klängen: dem Spannen des Bogens und dem Sausen der Pfeile.",
+    "es": "La música de un cazador consta de dos sonidos: el de la tensión de la cuerda del arco y el silbido de las flechas que vuelan.",
+    "fr": "La musique jouée par les chasseurs combine deux mélodies : la tension de l'arc et le sifflement des flèches.",
+    "pt": "A melodia de um caçador consiste em dois tipos de sons: o som do tensionamento da corda do seu arco e o som da flecha atravessando o ar.",
+    "ru": "Музыка охотника состоит всего лишь из двух нот: натягивания тетивы и свиста спущенной стрелы.",
+    "id": "Bagi seorang pemburu, lagu terindah adalah suara tali busur yang ditariknya, dan suara anak panah yang melaju dengan kencang.",
+    "th": "เสียงดนตรีของนักล่ามีอยู่เพียง สองเสียง เสียงดีดของคันธนู และเสียงแหวกอากาศ ของลูกธนู",
+    "vi": "Âm nhạc mà người thợ săn biểu diễn được tạo thành từ hai loại âm sắc. Âm thanh từ cung và tiếng phát ra của tên khi bay."
+  },
+  "lore": {
+    "zhs": "\n传说过去在蒙德，曾经有利用弓弦奏乐，\n或者说利用乐器的琴弦放箭的流浪乐手。\n但那只不过是遥远古代的民间传说罢了。",
+    "zht": "\n傳說過去在蒙德，曾經有利用弓弦奏樂，\n或者說利用樂器的琴弦放箭的流浪樂手。\n但那只不過是遙遠古代的民間傳說罷了。",
+    "jp": "\n言い伝えによると昔、モンドでは弓の弦を楽器として奏でていたと言う。\nまた、琴の弦で矢を射る吟遊詩人もいたらしい。\nだが、どちらも所詮古い民間の言い伝えに過ぎない。",
+    "ko": "\n과거 몬드는 활시위를 악기로 사용했다고 전해진다.\n어쩌면 악기의 현을 활시위로 사용한 음유시인이 있을 수도 있다.\n하지만 이건 아주 오래전부터 전해내려오는 이야기일 뿐이다.",
+    "en": "\nLegend has it that Mondstadt once played host to one who made music on bowstrings—\nOr perhaps it might be more fitting to say that this wandering musician used an instrument's strings to fire arrows.\nBut this is naught but an old folk legend.",
+    "de": "\nDie Legende besagt, dass in Mondstadt die Bespannung von Bögen in der Vergangenheit zum Musizieren verwendet wurde\nund dass reisende Musiker die Saiten ihrer Instrumente benutzten, um Pfeile zu verschießen.\nAber dies sind einfach uralte Geschichten.",
+    "es": "\nCuenta la leyenda que en Mondstadt, antiguamente, se utilizaban las cuerdas de los arcos para tocar música,\ny que los músicos ambulantes usaban las cuerdas de sus instrumentos para lanzar flechas.\nPero eso simplemente son historias antiguas.",
+    "fr": "\nLa légende raconte qu'à Mondstadt passa autrefois un barde itinérant qui jouait sa musique sur la corde des arcs.\nOu plutôt, il serait plus exact de dire que le musicien errant utilisait les cordes de son instrument pour tirer des flèches.\nMais ce n'est là qu'une ancienne légende...",
+    "pt": "\nDiz a lenda que no passado, em Mondstadt, se usavam as cordas de arcos para fazer música, \nOu como um músico andarilho que usa as cordas dos instrumentos para disparar flechas.\nMas isso é só um conto folclórico daquela época antiga.",
+    "ru": "\nГоворят, раньше в Мондштадте был бродячий музыкант.\nОн то ли играл на тетиве лука, то ли пускал стрелы своей лютней.\nНо это всего лишь стародавнее предание.",
+    "id": "\nLegenda mengatakan bahwa di Mondstadt, tali busur digunakan untuk bermain musik,\nAtau musisi pengembara yang menggunakan senar alat musik untuk menembakkan anak panahnya.\nTapi itu tidak lebih dari cerita rakyat zaman kuno.",
+    "th": "\nตำนานเล่าว่า Mondstadt ในอดีต เคยใช้ธนูเพื่อบรรเลงเสียงเพลง\nหรือควรพูดว่า นักดนตรีพเนจรใช้สายเครื่องดนตรีเพื่อยิงธนู\nแต่นั่นมันก็เป็นเพียงเรื่องเล่าในตำนานพื้นบ้านเท่านั้นแหละ",
+    "vi": "\nTheo truyền thuyết trước đây, Mondstadt đã từng dùng cung nỏ tấu nhạc, \nHoặc những nhạc sĩ lang thang dùng dây đàn bắn tên.\nNhưng đó chỉ là truyền thuyết từ lâu đời."
+  },
+  "internal_name": "Bow_Hunters",
+  "imgid": "bow/hunters"
+}

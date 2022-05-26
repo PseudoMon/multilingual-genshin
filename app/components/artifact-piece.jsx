@@ -1,12 +1,13 @@
 import { useState } from 'react'
+import { processLoreText } from '~/utility/processText'
 
 export default function ArtifactPiece({ miscData, piece, activeLang }) {
   const [loreIsOpen, setLoreOpenState] = useState(false)
 
   return (
     <li key="{ piece['name']['en'] }">
-      <div class="dataline-card">
-        <h1 class="header">
+      <div className="dataline-card">
+        <h1 className="header">
           { piece['name'][activeLang] }
         </h1>
 
@@ -16,16 +17,16 @@ export default function ArtifactPiece({ miscData, piece, activeLang }) {
             e.currentTarget.src = `/images/artifacts/default.png`
           }} 
         />
-        <h3 class="piece-type">
+        <h3 className="piece-type">
           { miscData['piecetypes'][piece['type']][activeLang] }
         </h3>
-        <p class="piece-description">
+        <p className="piece-description">
           { piece['description'][activeLang] }
         </p>
 
         <button 
           onClick={ () => setLoreOpenState(!loreIsOpen) }
-          class="lore-button"
+          className="lore-button"
         >
           <span>Lore</span>
           <svg width="32px" height="32px">        
@@ -35,9 +36,8 @@ export default function ArtifactPiece({ miscData, piece, activeLang }) {
       </div>
 
       { loreIsOpen ? (
-        <div class="piece-lore">
-          <p>{ piece['lore'][activeLang].replace("\n", "") }</p>
-          { /* All lore text has a trailing new line at the beginning for some reason. We need to get rid of that. */}
+        <div className="piece-lore">
+          <p>{ processLoreText(piece['lore'][activeLang]) }</p>
         </div>
       ) : null }
     </li>

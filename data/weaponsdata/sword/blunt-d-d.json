@@ -1,0 +1,52 @@
+{
+  "id": 11507,
+  "type": "sword",
+  "rank": 5,
+  "name": {
+    "zhs": "",
+    "zht": "憑虛",
+    "jp": "虚構",
+    "ko": "공허한 운명",
+    "en": "One Side",
+    "de": "Gefäß der Leere",
+    "es": "Destino Vacío",
+    "fr": "Destin du néant",
+    "pt": "Um Lado",
+    "ru": "Одна Сторона",
+    "id": "One Side",
+    "th": "One Side",
+    "vi": "Hư Vô"
+  },
+  "description": {
+    "zhs": "",
+    "zht": "最初用兵器彌補失去的力量的仙人所使用的劍。斬殺過無數的妖魔，最終也終結了過去的同族。",
+    "jp": "兵器で失った力を補おうとする仙人が使っていた剣。無数の妖魔を殺し、最終的に過去の同族をも殺した。",
+    "ko": "최초에 선인은 잃어버린 힘을 이 검으로 메꿨다고 한다. 수많은 요괴를 참살하고, 결국에는 과거의 동족들도 멸망시켰다고 한다",
+    "en": "The sword first used by an adeptus to make up for the powers he had lost. It has slain countless demons, as well as his own.",
+    "de": "Das Schwert eines Adepten, der damit den Verlust seiner Kräfte ausgleichen wollte. Unzählige Dämonen hat er damit getötet, letzten Endes aber auch Mitglieder seines eigenen Volks.",
+    "es": "La espada utilizada por primera vez por una deidad para compensar los poderes que había perdido. Ha matado a innumerables demonios, así como a los suyos.",
+    "fr": "Une épée qui a été initialement conçue pour compenser un dieu qui a perdu tout son pouvoir. Cette épée a tué d'innombrables monstres mais a finalement mis fin à son propre clan familial.",
+    "pt": "A espada usada pela primeira vez por um Adeptus para compensar os poderes que ele havia perdido. Ele derrotou inúmeros demônios, assim como os seus próprios.",
+    "ru": "Меч Адепта, который пытался с его помощью восполнить утраченные силы. Он убил бесчисленное множество демонов, даже своих собственных.",
+    "id": "Pedang yang semula digunakan oleh seorang adeptus untuk menutupi kelemahannya setelah dia kehilangan kekuatan. Telah membunuh iblis yang tak terhitung jumlahnya, termasuk iblis dalam dirinya sendiri.",
+    "th": "ดาบที่เคยถูกใช้โดยเซียนเพื่อเสริมพลังในส่วนที่สูญเสียไปของเขา เข่นฆ่าศัตรูมาแล้วนับไม่ถ้วน เช่นเดียวกับเผ่าพันธุ์ของตน",
+    "vi": "Thanh kiếm ban đầu được tiên nhân dùng để bổ sung cho sức mạnh bị mất. Đã giết vô số yêu ma, cuối cùng cũng kết liễu người cùng tộc."
+  },
+  "lore": {
+    "zhs": "测试 \n",
+    "zht": "測試\n",
+    "jp": "テスト\n",
+    "ko": "테스트\n",
+    "en": "Test\n",
+    "de": "Test\n",
+    "es": "Prueba\n",
+    "fr": "Test\n",
+    "pt": "Teste\n",
+    "ru": "Тест\n",
+    "id": "Ujian\n",
+    "th": "ทดสอบ \n",
+    "vi": "Thử nghiệm\n"
+  },
+  "internal_name": "Sword_Blunt-d-d",
+  "imgid": "sword/blunt-d-d"
+}

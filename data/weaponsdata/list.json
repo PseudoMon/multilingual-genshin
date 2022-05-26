@@ -1,0 +1,2902 @@
+[
+  {
+    "url": "sword/blunt",
+    "type": "sword",
+    "rank": 1,
+    "name": {
+      "zhs": "无锋剑",
+      "zht": "無鋒劍",
+      "jp": "無鋒の剣",
+      "ko": "무인검",
+      "en": "Dull Blade",
+      "de": "Stumpfes Schwert",
+      "es": "Hoja Desafilada",
+      "fr": "Épée émoussée",
+      "pt": "Lâmina Sem Fio",
+      "ru": "Тупой меч",
+      "id": "Dull Blade",
+      "th": "Dull Blade",
+      "vi": "Vô Phong Kiếm"
+    }
+  },
+  {
+    "url": "sword/silver",
+    "type": "sword",
+    "rank": 2,
+    "name": {
+      "zhs": "银剑",
+      "zht": "銀劍",
+      "jp": "銀の剣",
+      "ko": "실버 소드",
+      "en": "Silver Sword",
+      "de": "Silberschwert",
+      "es": "Espada Plateada",
+      "fr": "Épée en argent",
+      "pt": "Espada de Prata",
+      "ru": "Серебряный меч",
+      "id": "Silver Sword",
+      "th": "Silver Sword",
+      "vi": "Kiếm Bạc"
+    }
+  },
+  {
+    "url": "sword/steel",
+    "type": "sword",
+    "rank": 3,
+    "name": {
+      "zhs": "冷刃",
+      "zht": "冷刃",
+      "jp": "冷刃",
+      "ko": "차가운 칼날",
+      "en": "Cool Steel",
+      "de": "Kühle Klinge",
+      "es": "Hoja Fría",
+      "fr": "Lame froide",
+      "pt": "Lâmina Fria",
+      "ru": "Холодное лезвие",
+      "id": "Cool Steel",
+      "th": "Cool Steel",
+      "vi": "Lãnh Nhẫn"
+    }
+  },
+  {
+    "url": "sword/dawn",
+    "type": "sword",
+    "rank": 3,
+    "name": {
+      "zhs": "黎明神剑",
+      "zht": "黎明神劍",
+      "jp": "黎明の神剣",
+      "ko": "여명신검",
+      "en": "Harbinger of Dawn",
+      "de": "Schwert der Dämmerung",
+      "es": "Espada del Alba",
+      "fr": "Messager de l'Aube",
+      "pt": "Prenúncio do Alvorecer",
+      "ru": "Предвестник зари",
+      "id": "Harbinger of Dawn",
+      "th": "Harbinger of Dawn",
+      "vi": "Thần Kiếm Lê Minh"
+    }
+  },
+  {
+    "url": "sword/traveler",
+    "type": "sword",
+    "rank": 3,
+    "name": {
+      "zhs": "旅行剑",
+      "zht": "旅行劍",
+      "jp": "旅道の剣",
+      "ko": "여행자의 검",
+      "en": "Traveler's Handy Sword",
+      "de": "Reiseschwert",
+      "es": "Espada del Viajero",
+      "fr": "Épée du voyageur",
+      "pt": "Espada do Viajante",
+      "ru": "Меч путешественника",
+      "id": "Traveler's Handy Sword",
+      "th": "Traveler's Handy Sword",
+      "vi": "Kiếm Lữ Hành"
+    }
+  },
+  {
+    "url": "sword/darker",
+    "type": "sword",
+    "rank": 3,
+    "name": {
+      "zhs": "暗铁剑",
+      "zht": "暗鐵劍",
+      "jp": "暗鉄剣",
+      "ko": "암철검",
+      "en": "Dark Iron Sword",
+      "de": "Dunkles Eisenschwert",
+      "es": "Espada de Hierro Oscuro",
+      "fr": "Épée en fer noir",
+      "pt": "Espada de Ferro Negro",
+      "ru": "Тёмный железный меч",
+      "id": "Dark Iron Sword",
+      "th": "Dark Iron Sword",
+      "vi": "Kiếm Sắt Đen"
+    }
+  },
+  {
+    "url": "sword/sashimi",
+    "type": "sword",
+    "rank": 3,
+    "name": {
+      "zhs": "吃虎鱼刀",
+      "zht": "吃虎魚刀",
+      "jp": "チ虎魚の刀",
+      "ko": "흘호 생선회칼",
+      "en": "Fillet Blade",
+      "de": "Filetiermesser",
+      "es": "Hoja de Filetear",
+      "fr": "Couteau à filets",
+      "pt": "Lâmina de Filés",
+      "ru": "Филейный нож",
+      "id": "Fillet Blade",
+      "th": "Fillet Blade",
+      "vi": "Đao Săn Cá"
+    }
+  },
+  {
+    "url": "sword/mitsurugi",
+    "type": "sword",
+    "rank": 3,
+    "name": {
+      "zhs": "飞天御剑",
+      "zht": "飛天御劍",
+      "jp": "飛天御剣",
+      "ko": "비천어검",
+      "en": "Skyrider Sword",
+      "de": "Himmelsflug-Schwert",
+      "es": "Espada Surcacielos",
+      "fr": "Épée céleste",
+      "pt": "Espada do Cavaleiro do Céu",
+      "ru": "Меч небесного всадника",
+      "id": "Skyrider Sword",
+      "th": "Skyrider Sword",
+      "vi": "Kiếm Phi Thiên"
+    }
+  },
+  {
+    "url": "sword/zephyrus",
+    "type": "sword",
+    "rank": 4,
+    "name": {
+      "zhs": "西风剑",
+      "zht": "西風劍",
+      "jp": "西風剣",
+      "ko": "페보니우스 검",
+      "en": "Favonius Sword",
+      "de": "Favonius-Schwert",
+      "es": "Espada de Favonius",
+      "fr": "Épée de Favonius",
+      "pt": "Espada de Favonius",
+      "ru": "Меч Фавония",
+      "id": "Favonius Sword",
+      "th": "Favonius Sword",
+      "vi": "Tây Phong Kiếm"
+    }
+  },
+  {
+    "url": "sword/troupe",
+    "type": "sword",
+    "rank": 4,
+    "name": {
+      "zhs": "笛剑",
+      "zht": "笛劍",
+      "jp": "笛の剣",
+      "ko": "피리검",
+      "en": "The Flute",
+      "de": "Flöte",
+      "es": "Flauta",
+      "fr": "Flûte",
+      "pt": "A Flauta",
+      "ru": "Меч-флейта",
+      "id": "The Flute",
+      "th": "The Flute",
+      "vi": "Kiếm Sáo"
+    }
+  },
+  {
+    "url": "sword/fossil",
+    "type": "sword",
+    "rank": 4,
+    "name": {
+      "zhs": "祭礼剑",
+      "zht": "祭禮劍",
+      "jp": "祭礼の剣",
+      "ko": "제례검",
+      "en": "Sacrificial Sword",
+      "de": "Opferschwert",
+      "es": "Espada de Sacrificio",
+      "fr": "Épée rituelle",
+      "pt": "Espada do Sacrifício",
+      "ru": "Церемониальный меч",
+      "id": "Sacrificial Sword",
+      "th": "Sacrificial Sword",
+      "vi": "Kiếm Tế Lễ"
+    }
+  },
+  {
+    "url": "sword/theocrat",
+    "type": "sword",
+    "rank": 4,
+    "name": {
+      "zhs": "宗室长剑",
+      "zht": "宗室長劍",
+      "jp": "旧貴族長剣",
+      "ko": "왕실의 장검",
+      "en": "Royal Longsword",
+      "de": "Königliches Langschwert",
+      "es": "Espada Real Larga",
+      "fr": "Épée longue royale",
+      "pt": "Espada Longa Real",
+      "ru": "Меч аристократов",
+      "id": "Royal Longsword",
+      "th": "Royal Longsword",
+      "vi": "Trường Kiếm Tông Thất"
+    }
+  },
+  {
+    "url": "sword/rockkiller",
+    "type": "sword",
+    "rank": 4,
+    "name": {
+      "zhs": "匣里龙吟",
+      "zht": "匣裡龍吟",
+      "jp": "匣中龍吟",
+      "ko": "용의 포효",
+      "en": "Lion's Roar",
+      "de": "Drachenschrei",
+      "es": "Rugido del León",
+      "fr": "Rugissement du Lion",
+      "pt": "Rugido do Leão",
+      "ru": "Драконий рык",
+      "id": "Lion's Roar",
+      "th": "Lion's Roar",
+      "vi": "Tiếng Hét Của Rồng"
+    }
+  },
+  {
+    "url": "sword/proto",
+    "type": "sword",
+    "rank": 4,
+    "name": {
+      "zhs": "试作斩岩",
+      "zht": "試作斬岩",
+      "jp": "斬岩·試作",
+      "ko": "참암 프로토타입",
+      "en": "Prototype Rancour",
+      "de": "Steinschneider-Prototyp",
+      "es": "Prototipo Rencor",
+      "fr": "Tailleur de pierre (prototype)",
+      "pt": "Protótipo Rancor",
+      "ru": "Прототип: Злоба",
+      "id": "Prototype Rancour",
+      "th": "Prototype Rancour",
+      "vi": "Mẫu Trảm Nham"
+    }
+  },
+  {
+    "url": "sword/exotic",
+    "type": "sword",
+    "rank": 4,
+    "name": {
+      "zhs": "铁蜂刺",
+      "zht": "鐵蜂刺",
+      "jp": "鉄蜂の刺し",
+      "ko": "강철 벌침",
+      "en": "Iron Sting",
+      "de": "Eisenstich",
+      "es": "Espina de Hierro",
+      "fr": "Piqûre de fer",
+      "pt": "Espinho de Ferro",
+      "ru": "Стальное жало",
+      "id": "Iron Sting",
+      "th": "Iron Sting",
+      "vi": "Thiết Phong Kích"
+    }
+  },
+  {
+    "url": "sword/blackrock",
+    "type": "sword",
+    "rank": 4,
+    "name": {
+      "zhs": "黑岩长剑",
+      "zht": "黑岩長劍",
+      "jp": "黒岩の長剣",
+      "ko": "흑암 장검",
+      "en": "Blackcliff Longsword",
+      "de": "Schwarzstein-Langschwert",
+      "es": "Espada Larga del Peñasco Oscuro",
+      "fr": "Épée longue de Rochenoire",
+      "pt": "Espada do Penhasco Obscuro",
+      "ru": "Черногорский длинный меч",
+      "id": "Blackcliff Longsword",
+      "th": "Blackcliff Longsword",
+      "vi": "Hắc Nham Trường Kiếm"
+    }
+  },
+  {
+    "url": "sword/bloodstained",
+    "type": "sword",
+    "rank": 4,
+    "name": {
+      "zhs": "黑剑",
+      "zht": "黑劍",
+      "jp": "黒剣",
+      "ko": "칠흑검",
+      "en": "The Black Sword",
+      "de": "Schwarzes Schwert",
+      "es": "Espada Negra",
+      "fr": "Épée noire",
+      "pt": "Espada Negra",
+      "ru": "Чёрный меч",
+      "id": "The Black Sword",
+      "th": "The Black Sword",
+      "vi": "Kiếm Đen"
+    }
+  },
+  {
+    "url": "sword/outlaw",
+    "type": "sword",
+    "rank": 4,
+    "name": {
+      "zhs": "暗巷闪光",
+      "zht": "暗巷閃光",
+      "jp": "ダークアレイの閃光",
+      "ko": "뒷골목의 섬광",
+      "en": "The Alley Flash",
+      "de": "Gassenleuchte",
+      "es": "Destello en la Oscuridad",
+      "fr": "Éclair des impasses",
+      "pt": "Brilho do Beco",
+      "ru": "Вспышка во тьме",
+      "id": "The Alley Flash",
+      "th": "The Alley Flash",
+      "vi": "Tia Sáng Nơi Hẻm Tối"
+    }
+  },
+  {
+    "url": "sword/psalmus",
+    "type": "sword",
+    "rank": 4,
+    "name": {
+      "zhs": "降临之剑",
+      "zht": "降臨之劍",
+      "jp": "降臨の剣",
+      "ko": "강림의 검",
+      "en": "Sword of Descension",
+      "de": "Schwert der Niederkunft",
+      "es": "Espada del Descenso",
+      "fr": "Épée de la descente",
+      "pt": "Espada do Advento",
+      "ru": "Меч нисхождения",
+      "id": "Sword of Descension",
+      "th": "Sword of Descension",
+      "vi": "Kiếm Giáng Lâm"
+    }
+  },
+  {
+    "url": "sword/magnum",
+    "type": "sword",
+    "rank": 4,
+    "name": {
+      "zhs": "腐殖之剑",
+      "zht": "腐殖之劍",
+      "jp": "腐植の剣",
+      "ko": "부식의 검",
+      "en": "Festering Desire",
+      "de": "Schwert der Verderbnis",
+      "es": "Deseo Ponzoñoso",
+      "fr": "Croc suppurant",
+      "pt": "Espada Pútrida",
+      "ru": "Осквернённое желание",
+      "id": "Festering Desire",
+      "th": "Festering Desire",
+      "vi": "Răng Nanh Rỉ Sét"
+    }
+  },
+  {
+    "url": "sword/bakufu",
+    "type": "sword",
+    "rank": 4,
+    "name": {
+      "zhs": "天目影打刀",
+      "zht": "天目影打刀",
+      "jp": "天目影打",
+      "ko": "아메노마 카게우치가타나",
+      "en": "Amenoma Kageuchi",
+      "de": "Amenoma Kageuchi",
+      "es": "Espada Amenoma Gemela",
+      "fr": "Lame kageuchi d'Amenoma",
+      "pt": "Lâmina Amenoma Kageuta",
+      "ru": "Амэнома Кагэути",
+      "id": "Amenoma Kageuchi",
+      "th": "Amenoma Kageuchi",
+      "vi": "Đoản Đao Amenoma"
+    }
+  },
+  {
+    "url": "sword/opus",
+    "type": "sword",
+    "rank": 4,
+    "name": {
+      "zhs": "辰砂之纺锤",
+      "zht": "辰砂之紡錘",
+      "jp": "シナバースピンドル",
+      "ko": "진사의 방추",
+      "en": "Cinnabar Spindle",
+      "de": "Zinnoberspindel",
+      "es": "Huso de Cinabrio",
+      "fr": "Fuseau de cinabre",
+      "pt": "Haste de Cinábrio",
+      "ru": "Киноварное веретено",
+      "id": "Cinnabar Spindle",
+      "th": "Cinnabar Spindle",
+      "vi": "Con Thoi Chu Sa"
+    }
+  },
+  {
+    "url": "sword/falcon",
+    "type": "sword",
+    "rank": 5,
+    "name": {
+      "zhs": "风鹰剑",
+      "zht": "風鷹劍",
+      "jp": "風鷹剣",
+      "ko": "매의 검",
+      "en": "Aquila Favonia",
+      "de": "Windfalke",
+      "es": "Aquila Favonia",
+      "fr": "Épée du faucon",
+      "pt": "Falcão",
+      "ru": "Меч Сокола",
+      "id": "Aquila Favonia",
+      "th": "Aquila Favonia",
+      "vi": "Phong Ưng Kiếm"
+    }
+  },
+  {
+    "url": "sword/dvalin",
+    "type": "sword",
+    "rank": 5,
+    "name": {
+      "zhs": "天空之刃",
+      "zht": "天空之刃",
+      "jp": "天空の刃",
+      "ko": "천공의 검",
+      "en": "Skyward Blade",
+      "de": "Himmelsklinge",
+      "es": "Hoja Afilada Celestial",
+      "fr": "Lame de la Voûte d'Azur",
+      "pt": "Espada Celestial",
+      "ru": "Небесный меч",
+      "id": "Skyward Blade",
+      "th": "Skyward Blade",
+      "vi": "Thiên Không Kiếm"
+    }
+  },
+  {
+    "url": "sword/widsith",
+    "type": "sword",
+    "rank": 5,
+    "name": {
+      "zhs": "苍古自由之誓",
+      "zht": "蒼古自由之誓",
+      "jp": "蒼古なる自由への誓い",
+      "ko": "오래된 자유의 서약",
+      "en": "Freedom-Sworn",
+      "de": "Blasser Schwur der Freiheit",
+      "es": "Juramento por la Libertad",
+      "fr": "Serment de la liberté",
+      "pt": "Juramento pela Liberdade",
+      "ru": "Клятва свободы",
+      "id": "Freedom-Sworn",
+      "th": "Freedom-Sworn",
+      "vi": "Lời Thề Tự Do Cổ Xưa"
+    }
+  },
+  {
+    "url": "sword/kunwu",
+    "type": "sword",
+    "rank": 5,
+    "name": {
+      "zhs": "斫峰之刃",
+      "zht": "斫峰之刃",
+      "jp": "斬山の刃",
+      "ko": "참봉의 칼날",
+      "en": "Summit Shaper",
+      "de": "Gipfelbrecher",
+      "es": "Rompemontañas",
+      "fr": "Tranche-sommets",
+      "pt": "Cortador de Montanhas",
+      "ru": "Кромсатель пиков",
+      "id": "Summit Shaper",
+      "th": "Summit Shaper",
+      "vi": "Kiếm Chước Phong"
+    }
+  },
+  {
+    "url": "sword/morax",
+    "type": "sword",
+    "rank": 5,
+    "name": {
+      "zhs": "磐岩结绿",
+      "zht": "磐岩結綠",
+      "jp": "磐岩結緑",
+      "ko": "반암결록",
+      "en": "Primordial Jade Cutter",
+      "de": "Moosgrüner Fels",
+      "es": "Cortador de Jade Primordial",
+      "fr": "Coupeur de jade primordial",
+      "pt": "Cortador de Jade Primordial",
+      "ru": "Драгоценный омут",
+      "id": "Primordial Jade Cutter",
+      "th": "Primordial Jade Cutter",
+      "vi": "Bàn Nham Kết Lục"
+    }
+  },
+  {
+    "url": "sword/blunt-d",
+    "type": "sword",
+    "rank": 5,
+    "name": {
+      "zhs": "",
+      "zht": "磐岩結綠",
+      "jp": "磐岩の緑",
+      "ko": "이끼 대검",
+      "en": "Primordial Jade Cutter",
+      "de": "Moosgrüner Fels",
+      "es": "Cortador de Jade Primordial",
+      "fr": "Coupeur de jade primordial",
+      "pt": "Cortador de Jade Primordial",
+      "ru": "Древний Нефритовый Резак",
+      "id": "Primordial Jade Cutter",
+      "th": "Primordial Jade Cutter",
+      "vi": "Nham Kết Lục"
+    }
+  },
+  {
+    "url": "sword/blunt-d-d",
+    "type": "sword",
+    "rank": 5,
+    "name": {
+      "zhs": "",
+      "zht": "憑虛",
+      "jp": "虚構",
+      "ko": "공허한 운명",
+      "en": "One Side",
+      "de": "Gefäß der Leere",
+      "es": "Destino Vacío",
+      "fr": "Destin du néant",
+      "pt": "Um Lado",
+      "ru": "Одна Сторона",
+      "id": "One Side",
+      "th": "One Side",
+      "vi": "Hư Vô"
+    }
+  },
+  {
+    "url": "sword/narukami",
+    "type": "sword",
+    "rank": 5,
+    "name": {
+      "zhs": "雾切之回光",
+      "zht": "霧切之回光",
+      "jp": "霧切の廻光",
+      "ko": "안개를 가르는 회광",
+      "en": "Mistsplitter Reforged",
+      "de": "Widerschein des Nebelsplitters",
+      "es": "Reflejo de las Tinieblas",
+      "fr": "Reflet de tranche-brume",
+      "pt": "Cortadora da Neblina Reforjada",
+      "ru": "Рассекающий туман",
+      "id": "Mistsplitter Reforged",
+      "th": "Mistsplitter Reforged",
+      "vi": "Ánh Sáng Đêm Sương Mù"
+    }
+  },
+  {
+    "url": "sword/amenoma",
+    "type": "sword",
+    "rank": 5,
+    "name": {
+      "zhs": "波乱月白经津",
+      "zht": "波亂月白經津",
+      "jp": "波乱月白経津",
+      "ko": "하란 월백의 후츠",
+      "en": "Haran Geppaku Futsu",
+      "de": "Haran Geppaku Futsu",
+      "es": "Luna Ondulante de Futsu",
+      "fr": "Lune ondulante de Futsu",
+      "pt": "Maremoto da Lua de Futsu",
+      "ru": "Харан гэппаку фуцу",
+      "id": "Haran Geppaku Futsu",
+      "th": "Haran Geppaku Futsu",
+      "vi": "Haran Geppaku Futsu"
+    }
+  },
+  {
+    "url": "claymore/aniki",
+    "type": "claymore",
+    "rank": 1,
+    "name": {
+      "zhs": "训练大剑",
+      "zht": "訓練大劍",
+      "jp": "訓練用大剣",
+      "ko": "훈련용 대검",
+      "en": "Waster Greatsword",
+      "de": "Übungsgroßschwert",
+      "es": "Gran Espada del Guerrero",
+      "fr": "Épée d'entraînement",
+      "pt": "Espadão do Julgamento",
+      "ru": "Двуручный меч богатыря",
+      "id": "Waster Greatsword",
+      "th": "Waster Greatsword",
+      "vi": "Kiếm Huấn Luyện"
+    }
+  },
+  {
+    "url": "claymore/oyaji",
+    "type": "claymore",
+    "rank": 2,
+    "name": {
+      "zhs": "佣兵重剑",
+      "zht": "傭兵重劍",
+      "jp": "傭兵の重剣",
+      "ko": "용병 중검",
+      "en": "Old Merc's Pal",
+      "de": "Söldnerzweihänder",
+      "es": "Espada del Mercenario",
+      "fr": "Lame du mercenaire",
+      "pt": "Espada do Mercenário",
+      "ru": "Лучший друг наёмника",
+      "id": "Old Merc's Pal",
+      "th": "Old Merc's Pal",
+      "vi": "Kiếm Dụng Binh"
+    }
+  },
+  {
+    "url": "claymore/glaive",
+    "type": "claymore",
+    "rank": 3,
+    "name": {
+      "zhs": "铁影阔剑",
+      "zht": "鐵影闊劍",
+      "jp": "鉄影段平",
+      "ko": "강철의 그림자",
+      "en": "Ferrous Shadow",
+      "de": "Eiserner Schatten",
+      "es": "Sombra Férrea",
+      "fr": "Ombre ferreuse",
+      "pt": "Sombra de Ferro",
+      "ru": "Металлическая тень",
+      "id": "Ferrous Shadow",
+      "th": "Ferrous Shadow",
+      "vi": "Kiếm Thiết Ảnh"
+    }
+  },
+  {
+    "url": "claymore/siegfry",
+    "type": "claymore",
+    "rank": 3,
+    "name": {
+      "zhs": "沐浴龙血的剑",
+      "zht": "沐浴龍血的劍",
+      "jp": "龍血を浴びた剣",
+      "ko": "드래곤 블러드 소드",
+      "en": "Bloodtainted Greatsword",
+      "de": "Drachenblutschwert",
+      "es": "Gran Espada Sangrienta",
+      "fr": "Épée sanglante",
+      "pt": "Espadão Sangrento",
+      "ru": "Меч драконьей крови",
+      "id": "Bloodtainted Greatsword",
+      "th": "Bloodtainted Greatsword",
+      "vi": "Kiếm Huyết Rồng"
+    }
+  },
+  {
+    "url": "claymore/tin",
+    "type": "claymore",
+    "rank": 3,
+    "name": {
+      "zhs": "白铁大剑",
+      "zht": "白鐵大劍",
+      "jp": "白鉄の大剣",
+      "ko": "백철 대검",
+      "en": "White Iron Greatsword",
+      "de": "Weißes Eisengroßschwert",
+      "es": "Espada de Hierro Blanco",
+      "fr": "Grande épée en fer blanc",
+      "pt": "Espadão de Ferro Branco",
+      "ru": "Меч из белого железа",
+      "id": "White Iron Greatsword",
+      "th": "White Iron Greatsword",
+      "vi": "Kiếm Bạch Thiết"
+    }
+  },
+  {
+    "url": "claymore/quartz",
+    "type": "claymore",
+    "rank": 3,
+    "name": {
+      "zhs": "石英大剑",
+      "zht": "石英大劍",
+      "jp": "石英大剣",
+      "ko": "석영대검",
+      "en": "Quartz",
+      "de": "Quarzgroßschwert",
+      "es": "Espada de Cuarzo",
+      "fr": "Grande épée en quartz",
+      "pt": "Quartzo",
+      "ru": "Кварц",
+      "id": "Quartz",
+      "th": "Quartz",
+      "vi": "Kiếm Thạch Anh"
+    }
+  },
+  {
+    "url": "claymore/reasoning",
+    "type": "claymore",
+    "rank": 3,
+    "name": {
+      "zhs": "以理服人",
+      "zht": "以理服人",
+      "jp": "理屈責め",
+      "ko": "훌륭한 대화수단",
+      "en": "Debate Club",
+      "de": "Schlagfestes Argument",
+      "es": "Garrote del Debate",
+      "fr": "Épée de la raison",
+      "pt": "Porrete da Razão",
+      "ru": "Дубина переговоров",
+      "id": "Debate Club",
+      "th": "Debate Club",
+      "vi": "Gậy Thu Phục"
+    }
+  },
+  {
+    "url": "claymore/mitsurugi",
+    "type": "claymore",
+    "rank": 3,
+    "name": {
+      "zhs": "飞天大御剑",
+      "zht": "飛天大御劍",
+      "jp": "飛天大御剣",
+      "ko": "비천대어검",
+      "en": "Skyrider Greatsword",
+      "de": "Himmelsflug-Großschwert",
+      "es": "Gran Espada Surcacielos",
+      "fr": "Grande épée céleste",
+      "pt": "Espadão do Cavaleiro do Céu",
+      "ru": "Большой меч небесного всадника",
+      "id": "Skyrider Greatsword",
+      "th": "Skyrider Greatsword",
+      "vi": "Đại Kiếm Phi Thiên"
+    }
+  },
+  {
+    "url": "claymore/zephyrus",
+    "type": "claymore",
+    "rank": 4,
+    "name": {
+      "zhs": "西风大剑",
+      "zht": "西風大劍",
+      "jp": "西風大剣",
+      "ko": "페보니우스 대검",
+      "en": "Favonius Greatsword",
+      "de": "Favonius-Großschwert",
+      "es": "Gran Espada de Favonius",
+      "fr": "Espadon de Favonius",
+      "pt": "Espadão de Favonius",
+      "ru": "Двуручный меч Фавония",
+      "id": "Favonius Greatsword",
+      "th": "Favonius Greatsword",
+      "vi": "Đại Kiếm Tây Phong"
+    }
+  },
+  {
+    "url": "claymore/troupe",
+    "type": "claymore",
+    "rank": 4,
+    "name": {
+      "zhs": "钟剑",
+      "zht": "鐘劍",
+      "jp": "鐘の剣",
+      "ko": "시간의 검",
+      "en": "The Bell",
+      "de": "Glocke",
+      "es": "Espada del Tiempo",
+      "fr": "Épée-horloge",
+      "pt": "O Sino",
+      "ru": "Меч-колокол",
+      "id": "The Bell",
+      "th": "The Bell",
+      "vi": "Kiếm Chuông"
+    }
+  },
+  {
+    "url": "claymore/fossil",
+    "type": "claymore",
+    "rank": 4,
+    "name": {
+      "zhs": "祭礼大剑",
+      "zht": "祭禮大劍",
+      "jp": "祭礼の大剣",
+      "ko": "제례 대검",
+      "en": "Sacrificial Greatsword",
+      "de": "Opfergroßschwert",
+      "es": "Gran Espada de Sacrificio",
+      "fr": "Espadon rituel",
+      "pt": "Espadão do Sacrifício",
+      "ru": "Церемониальный двуручный меч",
+      "id": "Sacrificial Greatsword",
+      "th": "Sacrificial Greatsword",
+      "vi": "Đại Kiếm Tế Lễ"
+    }
+  },
+  {
+    "url": "claymore/theocrat",
+    "type": "claymore",
+    "rank": 4,
+    "name": {
+      "zhs": "宗室大剑",
+      "zht": "宗室大劍",
+      "jp": "旧貴族大剣",
+      "ko": "왕실의 대검",
+      "en": "Royal Greatsword",
+      "de": "Königliches Großschwert",
+      "es": "Gran Espada Real",
+      "fr": "Espadon royal",
+      "pt": "Espadão Real",
+      "ru": "Королевский двуручный меч",
+      "id": "Royal Greatsword",
+      "th": "Royal Greatsword",
+      "vi": "Đại Kiếm Tông Thất"
+    }
+  },
+  {
+    "url": "claymore/perdue",
+    "type": "claymore",
+    "rank": 4,
+    "name": {
+      "zhs": "雨裁",
+      "zht": "雨裁",
+      "jp": "雨裁",
+      "ko": "빗물 베기",
+      "en": "Rainslasher",
+      "de": "Regenschnitter",
+      "es": "Segadora de la Lluvia",
+      "fr": "Fluorescence",
+      "pt": "Segadeira da Chuva",
+      "ru": "Дождерез",
+      "id": "Rainslasher",
+      "th": "Rainslasher",
+      "vi": "Vũ Tài"
+    }
+  },
+  {
+    "url": "claymore/proto",
+    "type": "claymore",
+    "rank": 4,
+    "name": {
+      "zhs": "试作古华",
+      "zht": "試作古華",
+      "jp": "古華·試作",
+      "ko": "고화 프로토타입",
+      "en": "Prototype Archaic",
+      "de": "Guhua-Prototyp",
+      "es": "Prototipo Arcaico",
+      "fr": "Espadon (prototype)",
+      "pt": "Protótipo Arcaico",
+      "ru": "Прототип: Архаичный",
+      "id": "Prototype Archaic",
+      "th": "Prototype Archaic",
+      "vi": "Mẫu Cổ Hoa"
+    }
+  },
+  {
+    "url": "claymore/exotic",
+    "type": "claymore",
+    "rank": 4,
+    "name": {
+      "zhs": "白影剑",
+      "zht": "白影劍",
+      "jp": "白影の剣",
+      "ko": "백영검",
+      "en": "Whiteblind",
+      "de": "Weißer Schatten",
+      "es": "Sombra Blanca",
+      "fr": "Ombre immaculée",
+      "pt": "Sombra Branca",
+      "ru": "Белая тень",
+      "id": "Whiteblind",
+      "th": "Whiteblind",
+      "vi": "Kiếm Bạch Ảnh"
+    }
+  },
+  {
+    "url": "claymore/blackrock",
+    "type": "claymore",
+    "rank": 4,
+    "name": {
+      "zhs": "黑岩斩刀",
+      "zht": "黑岩斬刀",
+      "jp": "黒岩の斬刀",
+      "ko": "흑암참도",
+      "en": "Blackcliff Slasher",
+      "de": "Schwarzstein-Schneide",
+      "es": "Gran Hoja del Peñasco Oscuro",
+      "fr": "Trancheuse de Rochenoire",
+      "pt": "Foice do Penhasco Obscuro",
+      "ru": "Черногорская бритва",
+      "id": "Blackcliff Slasher",
+      "th": "Blackcliff Slasher",
+      "vi": "Hắc Nham Trảm Đao"
+    }
+  },
+  {
+    "url": "claymore/kione",
+    "type": "claymore",
+    "rank": 4,
+    "name": {
+      "zhs": "螭骨剑",
+      "zht": "螭骨劍",
+      "jp": "螭龍の剣",
+      "ko": "이무기 검",
+      "en": "Serpent Spine",
+      "de": "Knochenschwert",
+      "es": "Médula de la Serpiente Marina",
+      "fr": "Ossature du dragon",
+      "pt": "Espinha Dorsal da Serpente",
+      "ru": "Меч драконьей кости",
+      "id": "Serpent Spine",
+      "th": "Serpent Spine",
+      "vi": "Kiếm Li Cốt"
+    }
+  },
+  {
+    "url": "claymore/lapis",
+    "type": "claymore",
+    "rank": 4,
+    "name": {
+      "zhs": "千岩古剑",
+      "zht": "千岩古劍",
+      "jp": "千岩古剣",
+      "ko": "천암고검",
+      "en": "Lithic Blade",
+      "de": "Antikes Millelithenschwert",
+      "es": "Espada Lítica",
+      "fr": "Épée antique des Millelithes",
+      "pt": "Espada Antiga de Millelith",
+      "ru": "Каменный меч",
+      "id": "Lithic Blade",
+      "th": "Lithic Blade",
+      "vi": "Thiên Nham Cổ Kiếm"
+    }
+  },
+  {
+    "url": "claymore/dragonfell",
+    "type": "claymore",
+    "rank": 4,
+    "name": {
+      "zhs": "雪葬的星银",
+      "zht": "雪葬的星銀",
+      "jp": "雪葬の星銀",
+      "ko": "설장의 성은",
+      "en": "Snow-Tombed Starsilver",
+      "de": "Unter Schnee begrabenes Sternsilber",
+      "es": "Argento Estelar de las Nieves",
+      "fr": "Tombe-neige en argétoile",
+      "pt": "Estrela de Prata Enterrada na Neve",
+      "ru": "Заснеженное звёздное серебро",
+      "id": "Snow-Tombed Starsilver",
+      "th": "Snow-Tombed Starsilver",
+      "vi": "Tuyết Vùi Tinh Ngân"
+    }
+  },
+  {
+    "url": "claymore/millenniatuna",
+    "type": "claymore",
+    "rank": 4,
+    "name": {
+      "zhs": "衔珠海皇",
+      "zht": "銜珠海皇",
+      "jp": "銜玉の海皇",
+      "ko": "진주를 문 해황",
+      "en": "Luxurious Sea-Lord",
+      "de": "Luxuriöser Seekönig",
+      "es": "Rey de los Mares",
+      "fr": "Illustre seigneur des mers",
+      "pt": "Lorde do Mar Luxuoso",
+      "ru": "Благодатный владыка вод",
+      "id": "Luxurious Sea-Lord",
+      "th": "Luxurious Sea-Lord",
+      "vi": "Vua Biển Hàng Hiệu"
+    }
+  },
+  {
+    "url": "claymore/bakufu",
+    "type": "claymore",
+    "rank": 4,
+    "name": {
+      "zhs": "桂木斩长正",
+      "zht": "桂木斬長正",
+      "jp": "桂木斬長正",
+      "ko": "카츠라기를 벤 나가마사",
+      "en": "Katsuragikiri Nagamasa",
+      "de": "Katsuragikiri Nagamasa",
+      "es": "Asesinato de Katsuragi",
+      "fr": "Espadon de Nagamasa",
+      "pt": "Espada Grande de Katsuragi",
+      "ru": "Кацурагикири Нагамаса",
+      "id": "Katsuragikiri Nagamasa",
+      "th": "Katsuragikiri Nagamasa",
+      "vi": "Trường Đao Katsuragi"
+    }
+  },
+  {
+    "url": "claymore/maria",
+    "type": "claymore",
+    "rank": 4,
+    "name": {
+      "zhs": "恶王丸",
+      "zht": "惡王丸",
+      "jp": "惡王丸",
+      "ko": "아쿠오마루",
+      "en": "Akuoumaru",
+      "de": "Akuoumaru",
+      "es": "Rey del Mal",
+      "fr": "Akuoumaru",
+      "pt": "Akuoumaru",
+      "ru": "Акуомару",
+      "id": "Akuoumaru",
+      "th": "Akuoumaru",
+      "vi": "Akuoumaru"
+    }
+  },
+  {
+    "url": "claymore/dvalin",
+    "type": "claymore",
+    "rank": 5,
+    "name": {
+      "zhs": "天空之傲",
+      "zht": "天空之傲",
+      "jp": "天空の傲",
+      "ko": "천공의 긍지",
+      "en": "Skyward Pride",
+      "de": "Stolz des Himmels",
+      "es": "Orgullo Celestial",
+      "fr": "Fierté de la Voûte d'Azur",
+      "pt": "Orgulho Celestial",
+      "ru": "Небесное величие",
+      "id": "Skyward Pride",
+      "th": "Skyward Pride",
+      "vi": "Thiên Không Kiêu Ngạo"
+    }
+  },
+  {
+    "url": "claymore/wolfmound",
+    "type": "claymore",
+    "rank": 5,
+    "name": {
+      "zhs": "狼的末路",
+      "zht": "狼的末路",
+      "jp": "狼の末路",
+      "ko": "늑대의 말로",
+      "en": "Wolf's Gravestone",
+      "de": "Wolfsgrab",
+      "es": "Lápida del Lobo",
+      "fr": "Mort-du-loup",
+      "pt": "Túmulo do Lobo",
+      "ru": "Волчья погибель",
+      "id": "Wolf's Gravestone",
+      "th": "Wolf's Gravestone",
+      "vi": "Đường Cùng Của Sói"
+    }
+  },
+  {
+    "url": "claymore/widsith",
+    "type": "claymore",
+    "rank": 5,
+    "name": {
+      "zhs": "松籁响起之时",
+      "zht": "松籟響起之時",
+      "jp": "松韻の響く頃",
+      "ko": "송뢰가 울릴 무렵",
+      "en": "Song of Broken Pines",
+      "de": "Kiefernklang",
+      "es": "Oda de los Pinos",
+      "fr": "Ode au chant du vent",
+      "pt": "Canção dos Pinhos",
+      "ru": "Песнь разбитых сосен",
+      "id": "Song of Broken Pines",
+      "th": "Song of Broken Pines",
+      "vi": "Tiếng Gió Trong Rừng Thông"
+    }
+  },
+  {
+    "url": "claymore/kunwu",
+    "type": "claymore",
+    "rank": 5,
+    "name": {
+      "zhs": "无工之剑",
+      "zht": "無工之劍",
+      "jp": "無工の剣",
+      "ko": "무공의 검",
+      "en": "The Unforged",
+      "de": "Grobes Schwert",
+      "es": "Espada de la Desidia",
+      "fr": "Lame brute",
+      "pt": "Espada Áspera",
+      "ru": "Некованый",
+      "id": "The Unforged",
+      "th": "The Unforged",
+      "vi": "Kiếm Vô Công"
+    }
+  },
+  {
+    "url": "claymore/aniki-d",
+    "type": "claymore",
+    "rank": 5,
+    "name": {
+      "zhs": "",
+      "zht": "砥厄魚",
+      "jp": "美玉魚",
+      "ko": "고래 비녀",
+      "en": "Primordial Jade Greatsword",
+      "de": "Urzeitliches Jadeschwert",
+      "es": "Espada de Jade Inicial",
+      "fr": "Grande épée de jade primordial",
+      "pt": "Espada de Jade Primordial",
+      "ru": "Древний Нефритовый Двуручный Меч",
+      "id": "Primordial Jade Greatsword",
+      "th": "Primordial Jade Greatsword",
+      "vi": "Đề Ách Ngư"
+    }
+  },
+  {
+    "url": "claymore/aniki-d-d",
+    "type": "claymore",
+    "rank": 5,
+    "name": {
+      "zhs": "",
+      "zht": "異史",
+      "jp": "異史",
+      "ko": "괴사",
+      "en": "The Other Side",
+      "de": "Anderer Verlauf",
+      "es": "Historia Diferente",
+      "fr": "Histoire secondaire",
+      "pt": "O Outro Lado",
+      "ru": "Другая Сторона",
+      "id": "Historia Diferente",
+      "th": "The Other Side",
+      "vi": "Dị Sử"
+    }
+  },
+  {
+    "url": "claymore/itadorimaru",
+    "type": "claymore",
+    "rank": 5,
+    "name": {
+      "zhs": "赤角石溃杵",
+      "zht": "赤角石潰杵",
+      "jp": "赤角石塵滅砕",
+      "ko": "쇄석의 붉은 뿔",
+      "en": "Redhorn Stonethresher",
+      "de": "Rothorn-Steinbrecher",
+      "es": "Espadón Cornirrojo",
+      "fr": "Brise-pierre de corne rouge",
+      "pt": "Chifres Vermelhos Destruidores de Pedras",
+      "ru": "Краснорогий камнеруб",
+      "id": "Redhorn Stonethresher",
+      "th": "Redhorn Stonethresher",
+      "vi": "Xích Giác Phá Thạch Đao"
+    }
+  },
+  {
+    "url": "pole/gewalt",
+    "type": "polearm",
+    "rank": 1,
+    "name": {
+      "zhs": "新手长枪",
+      "zht": "新手長槍",
+      "jp": "新米の長槍",
+      "ko": "초보자의 장창",
+      "en": "Beginner's Protector",
+      "de": "Anfängerlanze",
+      "es": "Lanza del Principiante",
+      "fr": "Lance du débutant",
+      "pt": "Protetor de Iniciante",
+      "ru": "Копьё новичка",
+      "id": "Beginner's Protector",
+      "th": "Beginner's Protector",
+      "vi": "Thương Tân Thủ"
+    }
+  },
+  {
+    "url": "pole/rod",
+    "type": "polearm",
+    "rank": 2,
+    "name": {
+      "zhs": "铁尖枪",
+      "zht": "鐵尖槍",
+      "jp": "鉄尖槍",
+      "ko": "철촉창",
+      "en": "Iron Point",
+      "de": "Eisenlanze",
+      "es": "Punta de Hierro",
+      "fr": "Pointe de fer",
+      "pt": "Ponta de Ferro",
+      "ru": "Железный наконечник",
+      "id": "Iron Point",
+      "th": "Iron Point",
+      "vi": "Thương Sắt"
+    }
+  },
+  {
+    "url": "pole/ruby",
+    "type": "polearm",
+    "rank": 3,
+    "name": {
+      "zhs": "白缨枪",
+      "zht": "白纓槍",
+      "jp": "白纓槍",
+      "ko": "백술창",
+      "en": "White Tassel",
+      "de": "Weiße Quaste",
+      "es": "Borla Blanca",
+      "fr": "Pampille blanche",
+      "pt": "Borla Branca",
+      "ru": "Белая кисть",
+      "id": "White Tassel",
+      "th": "White Tassel",
+      "vi": "Thương Bạch Anh"
+    }
+  },
+  {
+    "url": "pole/halberd",
+    "type": "polearm",
+    "rank": 3,
+    "name": {
+      "zhs": "钺矛",
+      "zht": "鉞矛",
+      "jp": "鉾槍",
+      "ko": "미늘창",
+      "en": "Halberd",
+      "de": "Hellebarde",
+      "es": "Alabarda",
+      "fr": "Hallebarde",
+      "pt": "Alabarda",
+      "ru": "Алебарда Миллелита",
+      "id": "Halberd",
+      "th": "Halberd",
+      "vi": "Thuẫn Kích"
+    }
+  },
+  {
+    "url": "pole/noire",
+    "type": "polearm",
+    "rank": 3,
+    "name": {
+      "zhs": "黑缨枪",
+      "zht": "黑纓槍",
+      "jp": "黒纓槍",
+      "ko": "흑술창",
+      "en": "Black Tassel",
+      "de": "Schwarze Quaste",
+      "es": "Borla Negra",
+      "fr": "Pampille noire",
+      "pt": "Borla Preta",
+      "ru": "Чёрная кисть",
+      "id": "Black Tassel",
+      "th": "Black Tassel",
+      "vi": "Hắc Anh Thương"
+    }
+  },
+  {
+    "url": "pole/flagpole",
+    "type": "polearm",
+    "rank": 3,
+    "name": {
+      "zhs": "「旗杆」",
+      "zht": "「旗桿」",
+      "jp": "「旗竿」",
+      "ko": "「깃대」",
+      "en": "The Flagstaff",
+      "de": "Fahnenmast",
+      "es": "Asta de Bandera",
+      "fr": "La hampe",
+      "pt": "Mastro da Bandeira",
+      "ru": "Флагшток",
+      "id": "The Flagstaff",
+      "th": "The Flagstaff",
+      "vi": "Cột Cờ"
+    }
+  },
+  {
+    "url": "pole/stardust",
+    "type": "polearm",
+    "rank": 4,
+    "name": {
+      "zhs": "匣里灭辰",
+      "zht": "匣裡滅辰",
+      "jp": "匣中滅龍",
+      "ko": "용학살창",
+      "en": "Dragon's Bane",
+      "de": "Drachenschreck",
+      "es": "Perdición del Dragón",
+      "fr": "Fléau du dragon",
+      "pt": "Perdição do Dragão",
+      "ru": "Гроза драконов",
+      "id": "Dragon's Bane",
+      "th": "Dragon's Bane",
+      "vi": "Tai Ương Của Rồng"
+    }
+  },
+  {
+    "url": "pole/proto",
+    "type": "polearm",
+    "rank": 4,
+    "name": {
+      "zhs": "试作星镰",
+      "zht": "試作星鐮",
+      "jp": "星鎌·試作",
+      "ko": "별의 낫 프로토타입",
+      "en": "Prototype Starglitter",
+      "de": "Sternsichel-Prototyp",
+      "es": "Prototipo Estelar",
+      "fr": "Guisarme stellaire (prototype)",
+      "pt": "Protótipo Estelar",
+      "ru": "Прототип: Звёздный блеск",
+      "id": "Prototype Starglitter",
+      "th": "Prototype Starglitter",
+      "vi": "Mẫu Tinh Liêm"
+    }
+  },
+  {
+    "url": "pole/exotic",
+    "type": "polearm",
+    "rank": 4,
+    "name": {
+      "zhs": "流月针",
+      "zht": "流月針",
+      "jp": "流月の針",
+      "ko": "유월창",
+      "en": "Crescent Pike",
+      "de": "Mondpike",
+      "es": "Pica Luna Creciente",
+      "fr": "Pique du croissant de lune",
+      "pt": "Pique Crescente",
+      "ru": "Пика полумесяца",
+      "id": "Crescent Pike",
+      "th": "Crescent Pike",
+      "vi": "Lưu Nguyệt Châm"
+    }
+  },
+  {
+    "url": "pole/blackrock",
+    "type": "polearm",
+    "rank": 4,
+    "name": {
+      "zhs": "黑岩刺枪",
+      "zht": "黑岩刺槍",
+      "jp": "黒岩の突槍",
+      "ko": "흑암창",
+      "en": "Blackcliff Pole",
+      "de": "Schwarzsteinlanze",
+      "es": "Lanza del Peñasco Oscuro",
+      "fr": "Lance de Rochenoire",
+      "pt": "Lança do Penhasco Obscuro",
+      "ru": "Черногорская пика",
+      "id": "Blackcliff Pole",
+      "th": "Blackcliff Pole",
+      "vi": "Thương Hắc Nham"
+    }
+  },
+  {
+    "url": "pole/gladiator",
+    "type": "polearm",
+    "rank": 4,
+    "name": {
+      "zhs": "决斗之枪",
+      "zht": "決鬥之槍",
+      "jp": "死闘の槍",
+      "ko": "결투의 창",
+      "en": "Deathmatch",
+      "de": "Duelllanze",
+      "es": "Lanza del Duelo",
+      "fr": "Scion de la victoire",
+      "pt": "Lança do Duelo",
+      "ru": "Смертельный бой",
+      "id": "Deathmatch",
+      "th": "Deathmatch",
+      "vi": "Thương Quyết Chiến"
+    }
+  },
+  {
+    "url": "pole/lapis",
+    "type": "polearm",
+    "rank": 4,
+    "name": {
+      "zhs": "千岩长枪",
+      "zht": "千岩長槍",
+      "jp": "千岩長槍",
+      "ko": "천암장창",
+      "en": "Lithic Spear",
+      "de": "Millelithenlanze",
+      "es": "Lanza Lítica",
+      "fr": "Lance des Millelithes",
+      "pt": "Lança de Millelith",
+      "ru": "Каменное копьё",
+      "id": "Lithic Spear",
+      "th": "Lithic Spear",
+      "vi": "Thương Thiên Nham"
+    }
+  },
+  {
+    "url": "pole/zephyrus",
+    "type": "polearm",
+    "rank": 4,
+    "name": {
+      "zhs": "西风长枪",
+      "zht": "西風長槍",
+      "jp": "西風長槍",
+      "ko": "페보니우스 장창",
+      "en": "Favonius Lance",
+      "de": "Favonius-Lanze",
+      "es": "Lanza de Favonius",
+      "fr": "Lance de Favonius",
+      "pt": "Lança de Favonius",
+      "ru": "Копьё Фавония",
+      "id": "Favonius Lance",
+      "th": "Favonius Lance",
+      "vi": "Thương Tây Phong"
+    }
+  },
+  {
+    "url": "pole/theocrat",
+    "type": "polearm",
+    "rank": 4,
+    "name": {
+      "zhs": "宗室猎枪",
+      "zht": "宗室獵槍",
+      "jp": "旧貴族猟槍",
+      "ko": "왕실의 장창",
+      "en": "Royal Spear",
+      "de": "Königlicher Jagdspeer",
+      "es": "Lanza de Caza Real",
+      "fr": "Lance de chasse royale",
+      "pt": "Lança de Caça Real",
+      "ru": "Королевское копьё",
+      "id": "Royal Spear",
+      "th": "Royal Spear",
+      "vi": "Thương Săn Tông Thất"
+    }
+  },
+  {
+    "url": "pole/everfrost",
+    "type": "polearm",
+    "rank": 4,
+    "name": {
+      "zhs": "龙脊长枪",
+      "zht": "龍脊長槍",
+      "jp": "ドラゴンスピア",
+      "ko": "용의 척추",
+      "en": "Dragonspine Spear",
+      "de": "Drachengratspeer",
+      "es": "Lanza de Espinadragón",
+      "fr": "Lance Dosdragon",
+      "pt": "Lança da Espinha do Dragão",
+      "ru": "Копьё Драконьего хребта",
+      "id": "Dragonspine Spear",
+      "th": "Dragonspine Spear",
+      "vi": "Thương Long Tích"
+    }
+  },
+  {
+    "url": "pole/bakufu",
+    "type": "polearm",
+    "rank": 4,
+    "name": {
+      "zhs": "喜多院十文字",
+      "zht": "喜多院十文字",
+      "jp": "喜多院十文字槍",
+      "ko": "키타인 십자창",
+      "en": "Kitain Cross Spear",
+      "de": "Kitain-Kreuzlanze",
+      "es": "Cruz de Kitain",
+      "fr": "Lance en croix de Kitain",
+      "pt": "Lança Cruzada de Kitain",
+      "ru": "Крест-копьё Китаин",
+      "id": "Kitain Cross Spear",
+      "th": "Kitain Cross Spear",
+      "vi": "Giáo Thập Tự Kitain"
+    }
+  },
+  {
+    "url": "pole/mori",
+    "type": "polearm",
+    "rank": 4,
+    "name": {
+      "zhs": "「渔获」",
+      "zht": "「漁獲」",
+      "jp": "「漁獲」",
+      "ko": "「어획」",
+      "en": "\"The Catch\"",
+      "de": "„Der Fang“",
+      "es": "La Captura",
+      "fr": "« La prise »",
+      "pt": "\"A Fisgada\"",
+      "ru": "«Улов»",
+      "id": "\"The Catch\"",
+      "th": "\"The Catch\"",
+      "vi": "Lao Xiên Cá"
+    }
+  },
+  {
+    "url": "pole/maria",
+    "type": "polearm",
+    "rank": 4,
+    "name": {
+      "zhs": "断浪长鳍",
+      "zht": "斷浪長鰭",
+      "jp": "斬波のひれ長",
+      "ko": "파도 베는 지느러미",
+      "en": "Wavebreaker's Fin",
+      "de": "Wellenbrecherflosse",
+      "es": "Aleta Cortaolas",
+      "fr": "Aileron de brise-vagues",
+      "pt": "Barbatana do Quebra Ondas",
+      "ru": "Режущий волны плавник",
+      "id": "Wavebreaker's Fin",
+      "th": "Wavebreaker's Fin",
+      "vi": "Vây Cá Chẻ Sóng"
+    }
+  },
+  {
+    "url": "pole/homa",
+    "type": "polearm",
+    "rank": 5,
+    "name": {
+      "zhs": "护摩之杖",
+      "zht": "護摩之杖",
+      "jp": "護摩の杖",
+      "ko": "호마의 지팡이",
+      "en": "Staff of Homa",
+      "de": "Homa-Stab",
+      "es": "Báculo de Homa",
+      "fr": "Bâton de Homa",
+      "pt": "Báculo de Homa",
+      "ru": "Посох Хомы",
+      "id": "Staff of Homa",
+      "th": "Staff of Homa",
+      "vi": "Trượng Hộ Ma"
+    }
+  },
+  {
+    "url": "pole/dvalin",
+    "type": "polearm",
+    "rank": 5,
+    "name": {
+      "zhs": "天空之脊",
+      "zht": "天空之脊",
+      "jp": "天空の脊",
+      "ko": "천공의 마루",
+      "en": "Skyward Spine",
+      "de": "Himmelsgrat",
+      "es": "Púa Celestial",
+      "fr": "Berge de la Voûte d'Azur",
+      "pt": "Espinha Celestial",
+      "ru": "Небесная ось",
+      "id": "Skyward Spine",
+      "th": "Skyward Spine",
+      "vi": "Xương Sống Thiên Không"
+    }
+  },
+  {
+    "url": "pole/kunwu",
+    "type": "polearm",
+    "rank": 5,
+    "name": {
+      "zhs": "贯虹之槊",
+      "zht": "貫虹之槊",
+      "jp": "破天の槍",
+      "ko": "관홍의 창",
+      "en": "Vortex Vanquisher",
+      "de": "Regenbogenstecher",
+      "es": "Lanza Perforanubes",
+      "fr": "Perceur prismatique",
+      "pt": "Perfuradora Prismática",
+      "ru": "Покоритель вихря",
+      "id": "Vortex Vanquisher",
+      "th": "Vortex Vanquisher",
+      "vi": "Giáo Nịnh Thần"
+    }
+  },
+  {
+    "url": "pole/morax",
+    "type": "polearm",
+    "rank": 5,
+    "name": {
+      "zhs": "和璞鸢",
+      "zht": "和璞鳶",
+      "jp": "和璞鳶",
+      "ko": "화박연",
+      "en": "Primordial Jade Winged-Spear",
+      "de": "Urzeitlicher Jadespeer",
+      "es": "Halcón de Jade",
+      "fr": "Lance de jade ailée",
+      "pt": "Lança de Jade Primitiva",
+      "ru": "Нефритовый коршун",
+      "id": "Primordial Jade Winged-Spear",
+      "th": "Primordial Jade Winged-Spear",
+      "vi": "Hòa Phác Diên"
+    }
+  },
+  {
+    "url": "pole/gewalt-d",
+    "type": "polearm",
+    "rank": 5,
+    "name": {
+      "zhs": "",
+      "zht": "弑主",
+      "jp": "レジサイド",
+      "ko": "주신 학살창",
+      "en": "Deicide",
+      "de": "Göttermörder",
+      "es": "Cazador de Dioses",
+      "fr": "Déicide",
+      "pt": "Deicida",
+      "ru": "Богоубийство",
+      "id": "Deicide",
+      "th": "Deicide",
+      "vi": "Sát Chủ"
+    }
+  },
+  {
+    "url": "pole/santika",
+    "type": "polearm",
+    "rank": 5,
+    "name": {
+      "zhs": "息灾",
+      "zht": "息災",
+      "jp": "息災",
+      "ko": "식재",
+      "en": "Calamity Queller",
+      "de": "Ende des Unheils",
+      "es": "Pacificadora del Desastre",
+      "fr": "Étouffeur de calamités",
+      "pt": "Subjugadora de Calamidades",
+      "ru": "Усмиритель бед",
+      "id": "Calamity Queller",
+      "th": "Calamity Queller",
+      "vi": "Hủy Diệt"
+    }
+  },
+  {
+    "url": "pole/narukami",
+    "type": "polearm",
+    "rank": 5,
+    "name": {
+      "zhs": "薙草之稻光",
+      "zht": "薙草之稻光",
+      "jp": "草薙の稲光",
+      "ko": "예초의 번개",
+      "en": "Engulfing Lightning",
+      "de": "Grasschnittstrahl",
+      "es": "Luz del Segador",
+      "fr": "Lumière du faucheur",
+      "pt": "Luz do Cortador de Grama",
+      "ru": "Сияющая жатва",
+      "id": "Engulfing Lightning",
+      "th": "Engulfing Lightning",
+      "vi": "Đoạn Thảo Trường Đao"
+    }
+  },
+  {
+    "url": "catalyst/apprentice",
+    "type": "catalyst",
+    "rank": 1,
+    "name": {
+      "zhs": "学徒笔记",
+      "zht": "學徒筆記",
+      "jp": "生徒ノート",
+      "ko": "학도의 노트",
+      "en": "Apprentice's Notes",
+      "de": "Aufzeichnungen eines Lehrlings",
+      "es": "Apuntes del Aprendiz",
+      "fr": "Notes de l'apprenti",
+      "pt": "Anotações do Aprendiz",
+      "ru": "Записи ученика",
+      "id": "Apprentice's Notes",
+      "th": "Apprentice's Notes",
+      "vi": "Nhật Ký Học Sinh"
+    }
+  },
+  {
+    "url": "catalyst/pocket",
+    "type": "catalyst",
+    "rank": 2,
+    "name": {
+      "zhs": "口袋魔导书",
+      "zht": "口袋魔導書",
+      "jp": "ポケット魔導書",
+      "ko": "포켓 주술서",
+      "en": "Pocket Grimoire",
+      "de": "Taschenzauberbuch",
+      "es": "Grimorio de Bolsillo",
+      "fr": "Grimoire de poche",
+      "pt": "Grimório de Bolso",
+      "ru": "Карманный гримуар",
+      "id": "Pocket Grimoire",
+      "th": "Pocket Grimoire",
+      "vi": "Số Tay Ma Pháp"
+    }
+  },
+  {
+    "url": "catalyst/intro",
+    "type": "catalyst",
+    "rank": 3,
+    "name": {
+      "zhs": "魔导绪论",
+      "zht": "魔導緒論",
+      "jp": "魔導緒論",
+      "ko": "마도 서론",
+      "en": "Magic Guide",
+      "de": "Magieführer",
+      "es": "Guía Mágica",
+      "fr": "Guide de magie",
+      "pt": "Guia de Magia",
+      "ru": "Руководство по магии",
+      "id": "Magic Guide",
+      "th": "Magic Guide",
+      "vi": "Tóm Tắt Ma Pháp"
+    }
+  },
+  {
+    "url": "catalyst/pulpfic",
+    "type": "catalyst",
+    "rank": 3,
+    "name": {
+      "zhs": "讨龙英杰谭",
+      "zht": "討龍英傑譚",
+      "jp": "龍殺しの英傑譚",
+      "ko": "드래곤 슬레이어 영웅담",
+      "en": "Thrilling Tales of Dragon Slayers",
+      "de": "Von den Heldentaten der Drachenbezwinger",
+      "es": "Cuentos de Cazadores de Dragones",
+      "fr": "Histoire des chasseurs de dragon",
+      "pt": "Histórias Extraordinárias de Caçadores de Dragões",
+      "ru": "Эпос о драконоборцах",
+      "id": "Thrilling Tales of Dragon Slayers",
+      "th": "Thrilling Tales of Dragon Slayers",
+      "vi": "Câu Chuyện Diệt Rồng"
+    }
+  },
+  {
+    "url": "catalyst/lightnov",
+    "type": "catalyst",
+    "rank": 3,
+    "name": {
+      "zhs": "异世界行记",
+      "zht": "異世界行記",
+      "jp": "異世界旅行記",
+      "ko": "이세계 여행기",
+      "en": "Otherworldly Story",
+      "de": "Geschichten einer anderen Welt",
+      "es": "Historias de Otros Mundos",
+      "fr": "Conte d'un autre monde",
+      "pt": "Histórias de Outros Mundos",
+      "ru": "Потусторонняя история",
+      "id": "Otherworldly Story",
+      "th": "Otherworldly Story",
+      "vi": "Tiểu Thuyết Dị Giới"
+    }
+  },
+  {
+    "url": "catalyst/jade",
+    "type": "catalyst",
+    "rank": 3,
+    "name": {
+      "zhs": "翡玉法球",
+      "zht": "翡玉法球",
+      "jp": "翡玉法珠",
+      "ko": "비취 오브",
+      "en": "Emerald Orb",
+      "de": "Jadekugel",
+      "es": "Orbe Esmeralda",
+      "fr": "Orbe jadien",
+      "pt": "Orbe de Esmeralda",
+      "ru": "Изумрудный шар",
+      "id": "Emerald Orb",
+      "th": "Emerald Orb",
+      "vi": "Quả Cầu Ngọc"
+    }
+  },
+  {
+    "url": "catalyst/phoney",
+    "type": "catalyst",
+    "rank": 3,
+    "name": {
+      "zhs": "甲级宝珏",
+      "zht": "甲級寶玨",
+      "jp": "特級の宝玉",
+      "ko": "1급 보옥",
+      "en": "Twin Nephrite",
+      "de": "Zwillingsnephrit",
+      "es": "Nefrita Gemela",
+      "fr": "Néphrite jumelle",
+      "pt": "Nefrita Gêmea",
+      "ru": "Парный нефрит",
+      "id": "Twin Nephrite",
+      "th": "Twin Nephrite",
+      "vi": "Ngọc Sinh Đôi"
+    }
+  },
+  {
+    "url": "catalyst/amber",
+    "type": "catalyst",
+    "rank": 3,
+    "name": {
+      "zhs": "琥珀玥",
+      "zht": "琥珀玥",
+      "jp": "琥珀の玥",
+      "ko": "호박월",
+      "en": "Amber Bead",
+      "de": "Bernsteinkatalysator",
+      "es": "Catalizador de Ámbar",
+      "fr": "Catalyseur en ambre",
+      "pt": "Catalisador de Âmbar",
+      "ru": "Янтарная жемчужина",
+      "id": "Amber Bead",
+      "th": "Amber Bead",
+      "vi": "Hổ Phách Nguyệt"
+    }
+  },
+  {
+    "url": "catalyst/zephyrus",
+    "type": "catalyst",
+    "rank": 4,
+    "name": {
+      "zhs": "西风秘典",
+      "zht": "西風秘典",
+      "jp": "西風秘典",
+      "ko": "페보니우스 비전",
+      "en": "Favonius Codex",
+      "de": "Favonius-Kodex",
+      "es": "Códice de Favonius",
+      "fr": "Code de Favonius",
+      "pt": "Codex de Favonius",
+      "ru": "Кодекс Фавония",
+      "id": "Favonius Codex",
+      "th": "Favonius Codex",
+      "vi": "Tây Phong Mật Điển"
+    }
+  },
+  {
+    "url": "catalyst/troupe",
+    "type": "catalyst",
+    "rank": 4,
+    "name": {
+      "zhs": "流浪乐章",
+      "zht": "流浪樂章",
+      "jp": "流浪楽章",
+      "ko": "음유시인의 악장",
+      "en": "The Widsith",
+      "de": "Landstreichernoten",
+      "es": "Sinfonía de los Merodeadores",
+      "fr": "Mouvement vagabond",
+      "pt": "Sinfonia dos Indolentes",
+      "ru": "Песнь странника",
+      "id": "The Widsith",
+      "th": "The Widsith",
+      "vi": "Chương Nhạc Lang Thang"
+    }
+  },
+  {
+    "url": "catalyst/fossil",
+    "type": "catalyst",
+    "rank": 4,
+    "name": {
+      "zhs": "祭礼残章",
+      "zht": "祭禮殘章",
+      "jp": "祭礼の断片",
+      "ko": "제례의 악장",
+      "en": "Sacrificial Fragments",
+      "de": "Opferrituale",
+      "es": "Memorias de Sacrificios",
+      "fr": "Mémoires de rituels",
+      "pt": "Memórias de Sacrifício",
+      "ru": "Церемониальные мемуары",
+      "id": "Sacrificial Fragments",
+      "th": "Sacrificial Fragments",
+      "vi": "Mảnh Chương Tế Lễ"
+    }
+  },
+  {
+    "url": "catalyst/theocrat",
+    "type": "catalyst",
+    "rank": 4,
+    "name": {
+      "zhs": "宗室秘法录",
+      "zht": "宗室秘法錄",
+      "jp": "旧貴族秘法録",
+      "ko": "왕실의 비전록",
+      "en": "Royal Grimoire",
+      "de": "Königliches Zauberbuch",
+      "es": "Grimorio Real",
+      "fr": "Grimoire royal",
+      "pt": "Grimório Real",
+      "ru": "Королевский гримуар",
+      "id": "Royal Grimoire",
+      "th": "Royal Grimoire",
+      "vi": "Mật Pháp Tông Thất"
+    }
+  },
+  {
+    "url": "catalyst/resurrection",
+    "type": "catalyst",
+    "rank": 4,
+    "name": {
+      "zhs": "匣里日月",
+      "zht": "匣裡日月",
+      "jp": "匣中日月",
+      "ko": "일월의 정수",
+      "en": "Solar Pearl",
+      "de": "Sonne und Mond",
+      "es": "Perla Solar",
+      "fr": "Perle solaire",
+      "pt": "Pérola Solar",
+      "ru": "Солнечная жемчужина",
+      "id": "Solar Pearl",
+      "th": "Solar Pearl",
+      "vi": "Nhật Nguyệt Hạp"
+    }
+  },
+  {
+    "url": "catalyst/proto",
+    "type": "catalyst",
+    "rank": 4,
+    "name": {
+      "zhs": "试作金珀",
+      "zht": "試作金珀",
+      "jp": "金珀·試作",
+      "ko": "황금 호박 프로토타입",
+      "en": "Prototype Amber",
+      "de": "Bernstein-Prototyp",
+      "es": "Prototipo Ámbar",
+      "fr": "Malice (prototype)",
+      "pt": "Protótipo Âmbar",
+      "ru": "Прототип: Янтарь",
+      "id": "Prototype Amber",
+      "th": "Prototype Amber",
+      "vi": "Mẫu Kim Phách"
+    }
+  },
+  {
+    "url": "catalyst/exotic",
+    "type": "catalyst",
+    "rank": 4,
+    "name": {
+      "zhs": "万国诸海图谱",
+      "zht": "萬國諸海圖譜",
+      "jp": "万国諸海の図譜",
+      "ko": "만국 항해용해도",
+      "en": "Mappa Mare",
+      "de": "Illustrationen von Landen und Wassern",
+      "es": "Carta Náutica",
+      "fr": "Atlas des terres et des mers",
+      "pt": "Mappa Mare",
+      "ru": "Морской атлас",
+      "id": "Mappa Mare",
+      "th": "Mappa Mare",
+      "vi": "Hải Đồ Vạn Quốc"
+    }
+  },
+  {
+    "url": "catalyst/blackrock",
+    "type": "catalyst",
+    "rank": 4,
+    "name": {
+      "zhs": "黑岩绯玉",
+      "zht": "黑岩緋玉",
+      "jp": "黒岩の緋玉",
+      "ko": "흑암 홍옥",
+      "en": "Blackcliff Agate",
+      "de": "Schwarzstein-Achat",
+      "es": "Ágata del Peñasco Oscuro",
+      "fr": "Agate de Rochenoire",
+      "pt": "Ágata do Penhasco Obscuro",
+      "ru": "Черногорский агат",
+      "id": "Blackcliff Amulet",
+      "th": "Blackcliff Agate",
+      "vi": "Hắc Nham Phỉ Ngọc"
+    }
+  },
+  {
+    "url": "catalyst/truelens",
+    "type": "catalyst",
+    "rank": 4,
+    "name": {
+      "zhs": "昭心",
+      "zht": "昭心",
+      "jp": "昭心",
+      "ko": "소심",
+      "en": "Eye of Perception",
+      "de": "Herzensblick",
+      "es": "Ojo de la Perspicacia",
+      "fr": "Œil de la perception",
+      "pt": "Olho da Percepção",
+      "ru": "Око сознания",
+      "id": "Eye of Perception",
+      "th": "Eye of Perception",
+      "vi": "Chiêu Tâm"
+    }
+  },
+  {
+    "url": "catalyst/outlaw",
+    "type": "catalyst",
+    "rank": 4,
+    "name": {
+      "zhs": "暗巷的酒与诗",
+      "zht": "暗巷的酒與詩",
+      "jp": "ダークアレイの酒と詩",
+      "ko": "뒷골목의 술과 시",
+      "en": "Wine and Song",
+      "de": "Wein und Gesang in den Gassen",
+      "es": "Vino y Poesía",
+      "fr": "Vins et chants",
+      "pt": "Vinho e Música",
+      "ru": "Вино и песни",
+      "id": "Wine and Song",
+      "th": "Wine and Song",
+      "vi": "Rượu Và Thơ Nơi Hẻm Tối"
+    }
+  },
+  {
+    "url": "catalyst/everfrost",
+    "type": "catalyst",
+    "rank": 4,
+    "name": {
+      "zhs": "忍冬之果",
+      "zht": "忍冬之果",
+      "jp": "冬忍びの実",
+      "ko": "인동의 열매",
+      "en": "Frostbearer",
+      "de": "Permafrostfrucht",
+      "es": "Frío Eterno",
+      "fr": "Fruit du permafrost",
+      "pt": "Fruto do Sabugueiro",
+      "ru": "Плод вечной мерзлоты",
+      "id": "Frostbearer",
+      "th": "Frostbearer",
+      "vi": "Trái Chịu Lạnh"
+    }
+  },
+  {
+    "url": "catalyst/ludiharpastum",
+    "type": "catalyst",
+    "rank": 4,
+    "name": {
+      "zhs": "嘟嘟可故事集",
+      "zht": "嘟嘟可故事集",
+      "jp": "ドドコの物語",
+      "ko": "도도코 이야기집",
+      "en": "Dodoco Tales",
+      "de": "Dodoco-Geschichten",
+      "es": "Cuentos de Dodoco",
+      "fr": "Contes de Dodoco",
+      "pt": "Contos de Dodoco",
+      "ru": "Истории Додоко",
+      "id": "Dodoco Tales",
+      "th": "Dodoco Tales",
+      "vi": "Tuyển tập các câu chuyện về Dodoco"
+    }
+  },
+  {
+    "url": "catalyst/bakufu",
+    "type": "catalyst",
+    "rank": 4,
+    "name": {
+      "zhs": "白辰之环",
+      "zht": "白辰之環",
+      "jp": "白辰の輪",
+      "ko": "하쿠신의 고리",
+      "en": "Hakushin Ring",
+      "de": "Hakushin-Ring",
+      "es": "Anillo de Hakushin",
+      "fr": "Anneau des Hakushin",
+      "pt": "Anel de Hakushin",
+      "ru": "Кольцо Хакусин",
+      "id": "Hakushin Ring",
+      "th": "Hakushin Ring",
+      "vi": "Vòng Bạch Thần"
+    }
+  },
+  {
+    "url": "catalyst/jyanome",
+    "type": "catalyst",
+    "rank": 4,
+    "name": {
+      "zhs": "证誓之明瞳",
+      "zht": "證誓之明瞳",
+      "jp": "誓いの明瞳",
+      "ko": "맹세의 눈동자",
+      "en": "Oathsworn Eye",
+      "de": "Auge des Gelöbnisses",
+      "es": "Ojo del Juramento",
+      "fr": "Œil d'assermentation",
+      "pt": "Olho do Juramento",
+      "ru": "Око клятвы",
+      "id": "Oathsworn Eye",
+      "th": "Oathsworn Eye",
+      "vi": "Con Ngươi Tuyên Thệ"
+    }
+  },
+  {
+    "url": "catalyst/dvalin",
+    "type": "catalyst",
+    "rank": 5,
+    "name": {
+      "zhs": "天空之卷",
+      "zht": "天空之卷",
+      "jp": "天空の巻",
+      "ko": "천공의 두루마리",
+      "en": "Skyward Atlas",
+      "de": "Himmelsatlas",
+      "es": "Pergamino Celestial",
+      "fr": "Atlas de la Voûte d'Azur",
+      "pt": "Atlas Celestial",
+      "ru": "Небесный атлас",
+      "id": "Skyward Atlas",
+      "th": "Skyward Atlas",
+      "vi": "Quyển Thiên Không"
+    }
+  },
+  {
+    "url": "catalyst/fourwinds",
+    "type": "catalyst",
+    "rank": 5,
+    "name": {
+      "zhs": "四风原典",
+      "zht": "四風原典",
+      "jp": "四風原典",
+      "ko": "사풍 원서",
+      "en": "Lost Prayer to the Sacred Winds",
+      "de": "Gebete der Vier Winde",
+      "es": "Oración Perdida a los Vientos Sagrados",
+      "fr": "L'origine des Quatre Vents",
+      "pt": "Oração Perdida aos Ventos Sagrados",
+      "ru": "Молитва святым ветрам",
+      "id": "Lost Prayer to the Sacred Winds",
+      "th": "Lost Prayer to the Sacred Winds",
+      "vi": "Điển Tích Tây Phong"
+    }
+  },
+  {
+    "url": "catalyst/apprentice-d",
+    "type": "catalyst",
+    "rank": 5,
+    "name": {
+      "zhs": "",
+      "zht": "散佚的敘事詩",
+      "jp": "散逸した叙事詩",
+      "ko": "산실된 서사시",
+      "en": "Lost Ballade",
+      "de": "Ballade des Verlusts",
+      "es": "Balada Perdida",
+      "fr": "Ballade perdue",
+      "pt": "Poema Perdido",
+      "ru": "Утерянная Баллада",
+      "id": "Lost Ballade",
+      "th": "Lost Ballade",
+      "vi": "Bài Thơ Kể Chuyện"
+    }
+  },
+  {
+    "url": "catalyst/kunwu",
+    "type": "catalyst",
+    "rank": 5,
+    "name": {
+      "zhs": "尘世之锁",
+      "zht": "塵世之鎖",
+      "jp": "浮世の錠",
+      "ko": "속세의 자물쇠",
+      "en": "Memory of Dust",
+      "de": "Ketten des Diesseits",
+      "es": "Candado Terrenal",
+      "fr": "Chaînes mortelles",
+      "pt": "Memória da Poeira",
+      "ru": "Память о пыли",
+      "id": "Memory of Dust",
+      "th": "Memory of Dust",
+      "vi": "Khóa Trần Thế"
+    }
+  },
+  {
+    "url": "catalyst/apprentice-d-d",
+    "type": "catalyst",
+    "rank": 5,
+    "name": {
+      "zhs": "",
+      "zht": "定土玉圭",
+      "jp": "土定の玉",
+      "ko": "정토옥규",
+      "en": "Primordial Jade Regalia",
+      "de": "Urzeitliche Jadeinsignien",
+      "es": "Regalia de Jade Primordial",
+      "fr": "Tablette de jade primordial",
+      "pt": "Presente de Jade Primordial",
+      "ru": "Древняя Нефритовая Регалия",
+      "id": "Primordial Jade Regalia",
+      "th": "Primordial Jade Regalia",
+      "vi": "Ngọc Định Thổ"
+    }
+  },
+  {
+    "url": "catalyst/kaleido",
+    "type": "catalyst",
+    "rank": 5,
+    "name": {
+      "zhs": "不灭月华",
+      "zht": "不滅月華",
+      "jp": "不滅の月華",
+      "ko": "불멸의 달빛",
+      "en": "Everlasting Moonglow",
+      "de": "Ewiger Mondschein",
+      "es": "Luna Inalterable",
+      "fr": "Lueur de la lune éternelle",
+      "pt": "Fumetsu Gekka",
+      "ru": "Вечное лунное сияние",
+      "id": "Everlasting Moonglow",
+      "th": "Everlasting Moonglow",
+      "vi": "Vầng Trăng Bất Diệt"
+    }
+  },
+  {
+    "url": "catalyst/narukami",
+    "type": "catalyst",
+    "rank": 5,
+    "name": {
+      "zhs": "神乐之真意",
+      "zht": "神樂之真意",
+      "jp": "神楽の真意",
+      "ko": "카구라의 진의",
+      "en": "Kagura's Verity",
+      "de": "Kaguras Wahrheit",
+      "es": "Axioma de la Kagura",
+      "fr": "Vérité de Kagura",
+      "pt": "Prova de Kagura",
+      "ru": "Истина кагура",
+      "id": "Kagura's Verity",
+      "th": "Kagura's Verity",
+      "vi": "Chân Ý Của Kagura"
+    }
+  },
+  {
+    "url": "bow/hunters",
+    "type": "bow",
+    "rank": 1,
+    "name": {
+      "zhs": "猎弓",
+      "zht": "獵弓",
+      "jp": "狩猟弓",
+      "ko": "사냥활",
+      "en": "Hunter's Bow",
+      "de": "Jagdbogen",
+      "es": "Arco del Cazador",
+      "fr": "Arc de chasse",
+      "pt": "Arco do Caçador",
+      "ru": "Лук охотника",
+      "id": "Hunter's Bow",
+      "th": "Hunter's Bow",
+      "vi": "Cung Săn Bắn"
+    }
+  },
+  {
+    "url": "bow/old",
+    "type": "bow",
+    "rank": 2,
+    "name": {
+      "zhs": "历练的猎弓",
+      "zht": "歷練的獵弓",
+      "jp": "歴戦の狩猟弓",
+      "ko": "노련의 사냥활",
+      "en": "Seasoned Hunter's Bow",
+      "de": "Alter Jagdbogen",
+      "es": "Arco del Cazador Estacional",
+      "fr": "Arc de chasse aguerri",
+      "pt": "Arco do Caçador Experiente",
+      "ru": "Лук опытного охотника",
+      "id": "Seasoned Hunter's Bow",
+      "th": "Seasoned Hunter's Bow",
+      "vi": "Cung Săn Bắn Tôi Luyện"
+    }
+  },
+  {
+    "url": "bow/crowfeather",
+    "type": "bow",
+    "rank": 3,
+    "name": {
+      "zhs": "鸦羽弓",
+      "zht": "鴉羽弓",
+      "jp": "鴉羽の弓",
+      "ko": "까마귀깃 활",
+      "en": "Raven Bow",
+      "de": "Rabenbogen",
+      "es": "Arco de Cuervo",
+      "fr": "Arc du corbeau",
+      "pt": "Arco de Corvo",
+      "ru": "Лук ворона",
+      "id": "Raven Bow",
+      "th": "Raven Bow",
+      "vi": "Cung Lông Vịt"
+    }
+  },
+  {
+    "url": "bow/arjuna",
+    "type": "bow",
+    "rank": 3,
+    "name": {
+      "zhs": "神射手之誓",
+      "zht": "神射手之誓",
+      "jp": "シャープシューターの誓い",
+      "ko": "신궁의 서약",
+      "en": "Sharpshooter's Oath",
+      "de": "Eid des Scharfschützen",
+      "es": "Juramento del Arquero",
+      "fr": "Serment de l'archer",
+      "pt": "Juramento de Sagitário",
+      "ru": "Клятва стрелка",
+      "id": "Sharpshooter's Oath",
+      "th": "Sharpshooter's Oath",
+      "vi": "Lời Thề Xạ Thủ Thần"
+    }
+  },
+  {
+    "url": "bow/curve",
+    "type": "bow",
+    "rank": 3,
+    "name": {
+      "zhs": "反曲弓",
+      "zht": "反曲弓",
+      "jp": "リカーブボウ",
+      "ko": "곡궁",
+      "en": "Recurve Bow",
+      "de": "Reflexbogen",
+      "es": "Arco Recurvo",
+      "fr": "Arc courbé",
+      "pt": "Arco Recurvado",
+      "ru": "Изогнутый лук",
+      "id": "Recurve Bow",
+      "th": "Recurve Bow",
+      "vi": "Cung Phản Khúc"
+    }
+  },
+  {
+    "url": "bow/sling",
+    "type": "bow",
+    "rank": 3,
+    "name": {
+      "zhs": "弹弓",
+      "zht": "彈弓",
+      "jp": "弾弓",
+      "ko": "탄궁",
+      "en": "Slingshot",
+      "de": "Steinschleuder",
+      "es": "Tirachinas",
+      "fr": "Lance-pierres",
+      "pt": "Estilingue",
+      "ru": "Рогатка",
+      "id": "Slingshot",
+      "th": "Slingshot",
+      "vi": "Nỏ Kéo"
+    }
+  },
+  {
+    "url": "bow/msg",
+    "type": "bow",
+    "rank": 3,
+    "name": {
+      "zhs": "信使",
+      "zht": "信使",
+      "jp": "文使い",
+      "ko": "전령",
+      "en": "Messenger",
+      "de": "Überbringer",
+      "es": "Mensajero",
+      "fr": "Messager",
+      "pt": "Mensageiro",
+      "ru": "Посыльный",
+      "id": "Messenger",
+      "th": "Messenger",
+      "vi": "Tín Sứ"
+    }
+  },
+  {
+    "url": "bow/hardwood",
+    "type": "bow",
+    "rank": 3,
+    "name": {
+      "zhs": "黑檀弓",
+      "zht": "黑檀弓",
+      "jp": "黒檀の弓",
+      "ko": "흑단궁",
+      "en": "Ebony Bow",
+      "de": "Ebenholzbogen",
+      "es": "Arco de Ébano",
+      "fr": "Arc en ébène",
+      "pt": "Arco de Ébano",
+      "ru": "Эбеновый лук",
+      "id": "Ebony Bow",
+      "th": "Ebony Bow",
+      "vi": "Cung Hắc Đàn"
+    }
+  },
+  {
+    "url": "bow/zephyrus",
+    "type": "bow",
+    "rank": 4,
+    "name": {
+      "zhs": "西风猎弓",
+      "zht": "西風獵弓",
+      "jp": "西風猟弓",
+      "ko": "페보니우스 활",
+      "en": "Favonius Warbow",
+      "de": "Favonius-Jagdbogen",
+      "es": "Arco de Favonius",
+      "fr": "Arc de chasse de Favonius",
+      "pt": "Arco de Guerra de Favonius",
+      "ru": "Боевой лук Фавония",
+      "id": "Favonius Warbow",
+      "th": "Favonius Warbow",
+      "vi": "Cung Tây Phong"
+    }
+  },
+  {
+    "url": "bow/troupe",
+    "type": "bow",
+    "rank": 4,
+    "name": {
+      "zhs": "绝弦",
+      "zht": "絕弦",
+      "jp": "絶弦",
+      "ko": "절현",
+      "en": "The Stringless",
+      "de": "Der Sehnenlose",
+      "es": "Último Acorde",
+      "fr": "Dernière corde",
+      "pt": "Último Acorde",
+      "ru": "Бесструнный",
+      "id": "The Stringless",
+      "th": "The Stringless",
+      "vi": "Tuyệt Huyền"
+    }
+  },
+  {
+    "url": "bow/fossil",
+    "type": "bow",
+    "rank": 4,
+    "name": {
+      "zhs": "祭礼弓",
+      "zht": "祭禮弓",
+      "jp": "祭礼の弓",
+      "ko": "제례활",
+      "en": "Sacrificial Bow",
+      "de": "Opferbogen",
+      "es": "Arco del Sacrificio",
+      "fr": "Arc rituel",
+      "pt": "Arco do Sacrifício",
+      "ru": "Церемониальный лук",
+      "id": "Sacrificial Bow",
+      "th": "Sacrificial Bow",
+      "vi": "Cung Tế Lễ"
+    }
+  },
+  {
+    "url": "bow/theocrat",
+    "type": "bow",
+    "rank": 4,
+    "name": {
+      "zhs": "宗室长弓",
+      "zht": "宗室長弓",
+      "jp": "旧貴族長弓",
+      "ko": "왕실의 장궁",
+      "en": "Royal Bow",
+      "de": "Königlicher Langbogen",
+      "es": "Arco Real",
+      "fr": "Arc royal",
+      "pt": "Arco Real",
+      "ru": "Королевский лук",
+      "id": "Royal Bow",
+      "th": "Royal Bow",
+      "vi": "Trường Cung Tông Thất"
+    }
+  },
+  {
+    "url": "bow/recluse",
+    "type": "bow",
+    "rank": 4,
+    "name": {
+      "zhs": "弓藏",
+      "zht": "弓藏",
+      "jp": "弓蔵",
+      "ko": "녹슨 활",
+      "en": "Rust",
+      "de": "Rostiger Bogen",
+      "es": "Herrumbre",
+      "fr": "Arc rouillé",
+      "pt": "Arco Enferrujado",
+      "ru": "Ржавый лук",
+      "id": "Rust",
+      "th": "Rust",
+      "vi": "Cung Rỉ Sét"
+    }
+  },
+  {
+    "url": "bow/proto",
+    "type": "bow",
+    "rank": 4,
+    "name": {
+      "zhs": "试作澹月",
+      "zht": "試作澹月",
+      "jp": "澹月·試作",
+      "ko": "담월 프로토타입",
+      "en": "Prototype Crescent",
+      "de": "Mondschein-Prototyp",
+      "es": "Prototipo Luz de Luna",
+      "fr": "Lune paisible (prototype)",
+      "pt": "Protótipo da Luz Lunar Pálida",
+      "ru": "Прототип: Полумесяц",
+      "id": "Prototype Crescent",
+      "th": "Prototype Crescent",
+      "vi": "Mẫu Đạm Nguyệt"
+    }
+  },
+  {
+    "url": "bow/exotic",
+    "type": "bow",
+    "rank": 4,
+    "name": {
+      "zhs": "钢轮弓",
+      "zht": "鋼輪弓",
+      "jp": "リングボウ",
+      "ko": "강철궁",
+      "en": "Compound Bow",
+      "de": "Compoundbogen",
+      "es": "Arco Compuesto",
+      "fr": "Arc à poulies",
+      "pt": "Arco Composto",
+      "ru": "Составной лук",
+      "id": "Compound Bow",
+      "th": "Compound Bow",
+      "vi": "Cung Thép"
+    }
+  },
+  {
+    "url": "bow/blackrock",
+    "type": "bow",
+    "rank": 4,
+    "name": {
+      "zhs": "黑岩战弓",
+      "zht": "黑岩戰弓",
+      "jp": "黒岩の戦弓",
+      "ko": "흑암 배틀 보우",
+      "en": "Blackcliff Warbow",
+      "de": "Schwarzstein-Kriegsbogen",
+      "es": "Arco del Peñasco Oscuro",
+      "fr": "Arc de guerre de Rochenoire",
+      "pt": "Arco do Penhasco Obscuro",
+      "ru": "Черногорский боевой лук",
+      "id": "Blackcliff Warbow",
+      "th": "Blackcliff Warbow",
+      "vi": "Cung Hắc Nham"
+    }
+  },
+  {
+    "url": "bow/viridescent",
+    "type": "bow",
+    "rank": 4,
+    "name": {
+      "zhs": "苍翠猎弓",
+      "zht": "蒼翠獵弓",
+      "jp": "蒼翠の狩猟弓",
+      "ko": "청록의 사냥활",
+      "en": "The Viridescent Hunt",
+      "de": "Grasgrüner Jagdbogen",
+      "es": "Arco de la Cazadora Esmeralda",
+      "fr": "Arc de chasse verdoyant",
+      "pt": "Arco Esmeralda do Caçador",
+      "ru": "Зелёный лук",
+      "id": "The Viridescent Hunt",
+      "th": "The Viridescent Hunt",
+      "vi": "Cung Sắc Xanh"
+    }
+  },
+  {
+    "url": "bow/outlaw",
+    "type": "bow",
+    "rank": 4,
+    "name": {
+      "zhs": "暗巷猎手",
+      "zht": "暗巷獵手",
+      "jp": "ダークアレイの狩人",
+      "ko": "뒷골목 사냥꾼",
+      "en": "Alley Hunter",
+      "de": "Gassenjäger",
+      "es": "Cazador del Callejón",
+      "fr": "Traqueur des impasses",
+      "pt": "Caçador do Beco",
+      "ru": "Охотник во тьме",
+      "id": "Alley Hunter",
+      "th": "Alley Hunter",
+      "vi": "Thợ Săn Hẻm Tối"
+    }
+  },
+  {
+    "url": "bow/nachtblind",
+    "type": "bow",
+    "rank": 4,
+    "name": {
+      "zhs": "幽夜华尔兹",
+      "zht": "幽夜華爾滋",
+      "jp": "幽夜のワルツ",
+      "ko": "유야의 왈츠",
+      "en": "Mitternachts Waltz",
+      "de": "Mitternachtswalzer",
+      "es": "Vals Nocturno",
+      "fr": "Valse nocturne",
+      "pt": "Valsa do Crepúsculo",
+      "ru": "Вальс Нирваны Ночи",
+      "id": "Mitternachts Waltz",
+      "th": "Mitternachts Waltz",
+      "vi": "Điệu Van Ban Đêm"
+    }
+  },
+  {
+    "url": "bow/fleurfair",
+    "type": "bow",
+    "rank": 4,
+    "name": {
+      "zhs": "风花之颂",
+      "zht": "風花之頌",
+      "jp": "風花の頌歌",
+      "ko": "바람 꽃의 노래",
+      "en": "Windblume Ode",
+      "de": "Windblumenode",
+      "es": "Oda a las Flores de Viento",
+      "fr": "Ode aux alizées",
+      "pt": "Ode à Brisa Florescente",
+      "ru": "Ода анемонии",
+      "id": "Windblume Ode",
+      "th": "Windblume Ode",
+      "vi": "Bài Ca Hoa Gió"
+    }
+  },
+  {
+    "url": "bow/bakufu",
+    "type": "bow",
+    "rank": 4,
+    "name": {
+      "zhs": "破魔之弓",
+      "zht": "破魔之弓",
+      "jp": "破魔の弓",
+      "ko": "파마궁",
+      "en": "Hamayumi",
+      "de": "Hamayumi",
+      "es": "Masacrademonios",
+      "fr": "Arc d'exorcisme",
+      "pt": "Arco Quebra-Demônios",
+      "ru": "Хамаюми",
+      "id": "Hamayumi",
+      "th": "Hamayumi",
+      "vi": "Cung Trừ Ma"
+    }
+  },
+  {
+    "url": "bow/predator",
+    "type": "bow",
+    "rank": 4,
+    "name": {
+      "zhs": "掠食者",
+      "zht": "掠食者",
+      "jp": "プレデター",
+      "ko": "포식자",
+      "en": "Predator",
+      "de": "Raubtier",
+      "es": "Depredador",
+      "fr": "Predator",
+      "pt": "Predador",
+      "ru": "Хищник",
+      "id": "Predator",
+      "th": "Predator",
+      "vi": "Kẻ Săn Mồi"
+    }
+  },
+  {
+    "url": "bow/maria",
+    "type": "bow",
+    "rank": 4,
+    "name": {
+      "zhs": "曚云之月",
+      "zht": "曚雲之月",
+      "jp": "曚雲の月",
+      "ko": "모운의 달",
+      "en": "Mouun's Moon",
+      "de": "Mouun-Mond",
+      "es": "Luna de Mouun",
+      "fr": "Lune de Mouun",
+      "pt": "Lua de Mouun",
+      "ru": "Луна Моун",
+      "id": "Mouun's Moon",
+      "th": "Mouun's Moon",
+      "vi": "Ánh Trăng Mouun"
+    }
+  },
+  {
+    "url": "bow/dvalin",
+    "type": "bow",
+    "rank": 5,
+    "name": {
+      "zhs": "天空之翼",
+      "zht": "天空之翼",
+      "jp": "天空の翼",
+      "ko": "천공의 날개",
+      "en": "Skyward Harp",
+      "de": "Himmelsflügel",
+      "es": "Alas Celestiales",
+      "fr": "Ailes de la Voûte d'Azur",
+      "pt": "Harpa Celestial",
+      "ru": "Небесное крыло",
+      "id": "Skyward Harp",
+      "th": "Skyward Harp",
+      "vi": "Cánh Thiên Không"
+    }
+  },
+  {
+    "url": "bow/amos",
+    "type": "bow",
+    "rank": 5,
+    "name": {
+      "zhs": "阿莫斯之弓",
+      "zht": "阿莫斯之弓",
+      "jp": "アモスの弓",
+      "ko": "아모스의 활",
+      "en": "Amos' Bow",
+      "de": "Amos’ Bogen",
+      "es": "Arco de Amos",
+      "fr": "Arc d'Amos",
+      "pt": "Arco de Amos",
+      "ru": "Лук Амоса",
+      "id": "Amos' Bow",
+      "th": "Amos' Bow",
+      "vi": "Cung Amos"
+    }
+  },
+  {
+    "url": "bow/widsith",
+    "type": "bow",
+    "rank": 5,
+    "name": {
+      "zhs": "终末嗟叹之诗",
+      "zht": "終末嗟嘆之詩",
+      "jp": "終焉を嘆く詩",
+      "ko": "종말 탄식의 노래",
+      "en": "Elegy for the End",
+      "de": "Letzter Seufzer",
+      "es": "Elegía del Fin",
+      "fr": "Ultime soupir",
+      "pt": "Elegia do Suspiro Final",
+      "ru": "Элегия погибели",
+      "id": "Elegy for the End",
+      "th": "Elegy for the End",
+      "vi": "Tiếng Thở Dài Vô Tận"
+    }
+  },
+  {
+    "url": "bow/hunters-d",
+    "type": "bow",
+    "rank": 5,
+    "name": {
+      "zhs": "",
+      "zht": "昆吾墜龍",
+      "jp": "昆吾の堕龍",
+      "ko": "곤오추룡",
+      "en": "Kunwu's Wyrmbane",
+      "de": "Kunwus Drachenschlächter",
+      "es": "Cazador de Dragones de Kunwu",
+      "fr": "Wyrmbane de Kunwu",
+      "pt": "Caça-Dragões de Kunwu",
+      "ru": "Убийца Драконов Кунву",
+      "id": "Kunwu's Wyrmbane",
+      "th": "Kunwu's Wyrmbane",
+      "vi": "Rồng Kunwu"
+    }
+  },
+  {
+    "url": "bow/hunters-d-d",
+    "type": "bow",
+    "rank": 5,
+    "name": {
+      "zhs": "",
+      "zht": "懸黎千鈞",
+      "jp": "高価なオーブ",
+      "ko": "현려천균",
+      "en": "Primordial Jade Vista",
+      "de": "Urzeitlicher Jadebogen",
+      "es": "Vista de Jade Primordial",
+      "fr": "Vue de jade primordial",
+      "pt": "Vista da Jade Primordial",
+      "ru": "Древняя Нефритовая Виста",
+      "id": "Primordial Jade Vista",
+      "th": "Primordial Jade Vista",
+      "vi": "Cung Huyền Lê"
+    }
+  },
+  {
+    "url": "bow/hunters-d-d-d",
+    "type": "bow",
+    "rank": 5,
+    "name": {
+      "zhs": "",
+      "zht": "破鏡",
+      "jp": "壊れた鏡",
+      "ko": "부서진 거울",
+      "en": "Mirror Breaker",
+      "de": "Zerbrochener Spiegel",
+      "es": "Espejo Roto",
+      "fr": "Briseur de mirroire",
+      "pt": "Quebrador de Espelhos",
+      "ru": "Разбитое зеркало",
+      "id": "Mirror Breaker",
+      "th": "Mirror Breaker",
+      "vi": "Gương Vỡ"
+    }
+  },
+  {
+    "url": "bow/worldbane",
+    "type": "bow",
+    "rank": 5,
+    "name": {
+      "zhs": "冬极白星",
+      "zht": "冬極白星",
+      "jp": "冬極の白星",
+      "ko": "극지의 별",
+      "en": "Polar Star",
+      "de": "Polarstern",
+      "es": "Estrella Invernal",
+      "fr": "Étoile polaire",
+      "pt": "Estrela Invernal",
+      "ru": "Полярная звезда",
+      "id": "Polar Star",
+      "th": "Polar Star",
+      "vi": "Ngôi Sao Cực Đông"
+    }
+  },
+  {
+    "url": "bow/narukami",
+    "type": "bow",
+    "rank": 5,
+    "name": {
+      "zhs": "飞雷之弦振",
+      "zht": "飛雷之弦振",
+      "jp": "飛雷の鳴弦",
+      "ko": "비뢰의 고동",
+      "en": "Thundering Pulse",
+      "de": "Donnerpuls",
+      "es": "Agitador del Relámpago",
+      "fr": "Pulsation du tonnerre",
+      "pt": "Agitação Trovejante",
+      "ru": "Громовой пульс",
+      "id": "Thundering Pulse",
+      "th": "Thundering Pulse",
+      "vi": "Sấm Sét Rung Động"
+    }
+  }
+]

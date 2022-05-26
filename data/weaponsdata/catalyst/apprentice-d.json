@@ -1,0 +1,52 @@
+{
+  "id": 14503,
+  "type": "catalyst",
+  "rank": 5,
+  "name": {
+    "zhs": "",
+    "zht": "散佚的敘事詩",
+    "jp": "散逸した叙事詩",
+    "ko": "산실된 서사시",
+    "en": "Lost Ballade",
+    "de": "Ballade des Verlusts",
+    "es": "Balada Perdida",
+    "fr": "Ballade perdue",
+    "pt": "Poema Perdido",
+    "ru": "Утерянная Баллада",
+    "id": "Lost Ballade",
+    "th": "Lost Ballade",
+    "vi": "Bài Thơ Kể Chuyện"
+  },
+  "description": {
+    "zhs": "",
+    "zht": "傳說中，追隨風之神的詩人踏遍了一千世界。歌集中記載了諸多奇景，飽含偉力。這些斷章有些丟失了，有些被忘記。人們只能從片段裡拼湊出偉大的冒險。",
+    "jp": "伝説では、風の神を追随する詩人が千の世界を踏破したらしい。その歌集には様々な奇景が記載されていて、偉大な力が含まれている。一部の断章がなくなって、忘れ去られたため、人々は残った断片から偉大な冒険を繋ぎ合わせるしかない。",
+    "ko": "전설에 의하면 바람의 신을 추종하던 시인이 전 세계를 모두 둘러보며 만들었다던 시가집. 시가집에는 수많은 기이한 경치들이 기록되어 있어서 거대한 힘을 품고 있다. 몇몇 악장이 유실되어 있어서 일부 내용만을 추려 위대한 모험기를 만들었다",
+    "en": "Legend has it that the bard who walked with the God of Winds has seen a thousand worlds. The Ballade keeps a record of many wonders, and grand powers. Some segments were lost, others, forgotten. We are only able to piece together his grand adventure from the remaining segments.",
+    "de": "Der Legende zufolge besuchte der Dichter, der dem Gott des Windes folgte, eintausend Welten. Die überlieferten Lieder zeugen von den vielen Wundern, die er erlebte. Jedoch sind davon viele verloren oder vergessen worden. Heute kann man nur noch die verbliebenen Teile zusammensetzen, um die großen Abenteuer auch nur annähernd nachvollziehen zu können.",
+    "es": "La leyenda dice que el bardo que caminó con el Dios de los vientos ha visto mil mundos. La Balada guarda un registro de muchas maravillas y grandes poderes. Algunos fragmentos se perdieron, otros, se olvidaron. Solo podemos reconstruir su gran aventura de los fragmentos que quedan.",
+    "fr": "La légende dit qu'un barde avait parcouru des milliers de mondes en suivant l'Achon Anémo. Son anthologie a décrit plein de merveilleux paysages étranges et de magnifiques pouvoirs. Mais, certains poèmes ont été perdus et certains autres ont été oubliés par des gens. On ne peut reconstituer sa grande aventure qu'avec les fragments restants.",
+    "pt": "Diz a lenda que o bardo que andou com o Deus dos Ventos viu milhares de mundos. Os poemas mantém um registro de muitas maravilhas e grandes poderes. Alguns segmentos foram perdidos, outros esquecidos. Só conseguimos reunir sua grande aventura dos demais segmentos.",
+    "ru": "Легенды гласят, что бард, который ходил с архонтом ветра, повидал тысячи миров. Баллада хранит истории о чудесах и космических силах. Некоторые её части были утеряны, другие – забыты. Мы только можем догадываться, какие истории об их путешествиях хранят страницы, которые уже не вернуть.",
+    "id": "Menurut legenda, penyair yang berjalan bersama Archon Anemo telah melihat ribuan dunia. Balada ini mencatat banyak keajaiban dan kekuatan-kekuatan yang besar. Beberapa halamannya telah hilang, terlupakan. Hanya sebagian dari petualangannya yang berhasil dirangkum kembali.",
+    "th": "ในตำนานเล่าว่านักกวีที่ติดตามเทพแห่งลม เดินทางผ่านโลกนับพัน บทกวีได้บันทึกสิ่งมหัศจรรย์ไว้มากมายและเต็มไปด้วยพลังอันยิ่งใหญ่ บางส่วนของบทเหล่านั้นได้หายไปและบางส่วนถูกลืมเลือน ผู้คนสามารถรับรู้ถึงการผจญภัยอันยิ่งใหญ่ได้เพียงจากชิ้นส่วนเท่านั้น",
+    "vi": "Trong truyền thuyết, nhà thơ đi theo Phong Thần từng đi khắp ngàn thế giới. Trong những tập thơ ghi chép rất nhiều cảnh lạ. Những chương này có cái bị mất, có cái bị lãng quên. Người dân chỉ có thể ghép lại hành trình mạo hiểm vĩ đại từ những mảnh thơ còn sót lại."
+  },
+  "lore": {
+    "zhs": "",
+    "zht": "",
+    "jp": "",
+    "ko": "",
+    "en": "",
+    "de": "",
+    "es": "",
+    "fr": "",
+    "pt": "",
+    "ru": "",
+    "id": "",
+    "th": "",
+    "vi": ""
+  },
+  "internal_name": "Catalyst_Apprentice-d",
+  "imgid": "catalyst/apprentice-d"
+}

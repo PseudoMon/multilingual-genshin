@@ -1,0 +1,52 @@
+{
+  "id": 15201,
+  "type": "bow",
+  "rank": 2,
+  "name": {
+    "zhs": "历练的猎弓",
+    "zht": "歷練的獵弓",
+    "jp": "歴戦の狩猟弓",
+    "ko": "노련의 사냥활",
+    "en": "Seasoned Hunter's Bow",
+    "de": "Alter Jagdbogen",
+    "es": "Arco del Cazador Estacional",
+    "fr": "Arc de chasse aguerri",
+    "pt": "Arco do Caçador Experiente",
+    "ru": "Лук опытного охотника",
+    "id": "Seasoned Hunter's Bow",
+    "th": "Seasoned Hunter's Bow",
+    "vi": "Cung Săn Bắn Tôi Luyện"
+  },
+  "description": {
+    "zhs": "饱经磨炼又精心护养的弓，经历了漫长的岁月。仿佛会主动配合射手的动作一般好使。",
+    "zht": "飽經磨煉又精心護養的弓。經歷了漫長的歲月，彷彿會主動配合射手的動作一般好用。",
+    "jp": "長い年月の中で、経験と手入れを重ねたもの。射手の動きに合わせてくれる使いやすい弓。",
+    "ko": "아주 오랜 세월 많은 시련을 겪은 정성을 들여 관리 보수한 활. 마치 오래전부터 궁수와 파트너였던 것처럼 사용하기 편리하다",
+    "en": "A bow that has been well-polished by time and meticulously cared for by its owner. It feels almost like an extension of the archer's arm.",
+    "de": "Ein in die Jahre gekommener, aber gut gepflegter Bogen. Er funktioniert so gut, dass es sich anfühlt, als arbeite der Bogen mit dem Schützen zusammen.",
+    "es": "Un arco viejo pero bien conservado. Podría ser considerado una extensión del brazo del arquero cuando se utiliza.",
+    "fr": "Un arc ancien, mais bien entretenu. Il ne fait qu'un avec l'archer qui le tend.",
+    "pt": "Um arco antigo, mas bem conservado. Pode ser considerado a extensão do braço de um arqueiro quando é utilizado.",
+    "ru": "Ухоженный лук, полированный временем. Продолжение руки лучника.",
+    "id": "Busur yang terasah dengan baik oleh waktu dan tangan pemburu. Terasa seperti kepanjangan tangan dari seorang pemburu handal.",
+    "th": "คันธนูที่สร้างขึ้นอย่างประณีตด้วยเวลา และดูแลรักษาด้วยมือ ให้ความรู้สึกดั่งเป็นส่วนหนึ่งของแขนของนักธนูเอง",
+    "vi": "Cung được tôi luyện kỹ và bảo dưỡng tốt, trải qua năm tháng dài, dường như đã tự biết phối hợp với người thợ săn."
+  },
+  "lore": {
+    "zhs": "\n猎手要永远处于下风处；避免直立行走在山脊上。\n无论狩猎的对象是野兽，是魔物或是恶人都一样。",
+    "zht": "\n獵手要永遠處於下風處；避免直立行走在山脊上。\n無論狩獵的對象是野獸，是魔物或是惡人都一樣。",
+    "jp": "\n狩人は山の背に立つ事を避け、風下に身を置かなければならない。\nそれは獲物が野獣でも魔物でも極悪人でも同じ事だ。",
+    "ko": "\n사냥꾼은 바람을 등져선 안 되고 산등성이를 서서 걷는 걸 피해야 한다.\n사냥감이 야수든 마물이든 아니면 악인이든 모두 같다.",
+    "en": "\nA hunter must always be downwind, and must never walk upright on a mountain's ridge.\nIt matters not if their target is beast, monster or the wicked — this method remains the same.",
+    "de": "\nEin Jäger sollte in erhöhten Lagen immer gegen den Wind gehen und möglichst gehockt laufen.\nEs spielt dabei keine Rolle, ob man ein wildes Tier, einen Dämon oder einen Schurken jagt.",
+    "es": "\nUn cazador debe caminar siempre en contra del viento y agazaparse cuando esté en zonas elevadas.\nNo importa si está cazando un animal salvaje, un demonio o un villano.",
+    "fr": "\nUn chasseur doit toujours marcher contre le vent, et éviter de se relever s'il se trouve dans une zone élevée.\nLa méthode reste la même, peu importe qu'il chasse un animal sauvage, un démon ou un malandrin.",
+    "pt": "\nO caçador sempre estará numa posição desfavorável, evitando andar ereto nas montanhas.\nNão importa se o alvo da caça é uma besta, um demônio ou uma pessoa má, todos são iguais.",
+    "ru": "\nОхотник никогда не идёт за ветром и не ходит по вершинам холмов.\nИ неважно охотится ли он на зверя, монстра или человека.",
+    "id": "\nPemburu harus berdiri di tempat yang berangin. Hindari berdiri tegak saat mendaki di lereng gunung.\nTidak peduli apakah mangsanya adalah binatang buas, monster atau orang jahat.",
+    "th": "\nนายพรานจะต้องอยู่ใต้ลมเสมอ และจะต้องไม่เดินตัวตรงเมื่ออยู่บนสันเขา\nไม่ว่าเหยื่อจะเป็นมอนสเตอร์ ปีศาจ หรือคนชั่ว一 ต่างก็ต้องใช้วิธีนี้ทั้งนั้น",
+    "vi": "\nThợ săn phải đứng ở nơi có gió. Tránh đứng thẳng khi trèo trên sườn núi.\nCho dù con mồi là dã thú, ma vật hay ác nhân."
+  },
+  "internal_name": "Bow_Old",
+  "imgid": "bow/old"
+}

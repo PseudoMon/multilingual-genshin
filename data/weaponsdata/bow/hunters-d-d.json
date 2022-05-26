@@ -1,0 +1,52 @@
+{
+  "id": 15505,
+  "type": "bow",
+  "rank": 5,
+  "name": {
+    "zhs": "",
+    "zht": "懸黎千鈞",
+    "jp": "高価なオーブ",
+    "ko": "현려천균",
+    "en": "Primordial Jade Vista",
+    "de": "Urzeitlicher Jadebogen",
+    "es": "Vista de Jade Primordial",
+    "fr": "Vue de jade primordial",
+    "pt": "Vista da Jade Primordial",
+    "ru": "Древняя Нефритовая Виста",
+    "id": "Primordial Jade Vista",
+    "th": "Primordial Jade Vista",
+    "vi": "Cung Huyền Lê"
+  },
+  "description": {
+    "zhs": "",
+    "zht": "遠古寶玉造的，能守護一國的勁弓，以匯聚一線的翠光為幻造的弦。",
+    "jp": "上古の宝玉で作られた、一国を守れる弓。一線に集まる光は幻造の弦になる。",
+    "ko": "고대 보옥으로 만들어진 일국을 수호할 수 있는 강한 활. 푸른빛 줄기가 모여 활시위가 됐다",
+    "en": "A strong bow that was made from ancient jade, with a bowstring made from a single beam of converging light. Possesses enough power to protect a kingdom.",
+    "de": "Ein aus uralter Jade gefertigter Bogen zum Schutz eines ganzen Reiches. Die Sehne besteht aus einem gebündelten Lichtstrahl.",
+    "es": "Un gran arco hecho de un ámbar antiguo completo. Su superficie está enteramente cubierta de tallados que muestran el amor que los dioses tenían hacia el hombre, y cómo el hombre adoraba a los dioses.",
+    "fr": "Un arc puissant fait de jade antique qui peut protéger un pays. Sa corde est juste consendée par une lumière verte émeraude.",
+    "pt": "Um arco forte feito de jade antigo, com uma corda feita de um único feixe de luz convergente. Possui poder suficiente para proteger um reino.",
+    "ru": "Лук, сделанный из древнего нефрита, с тетивой, сделанной луча сходящегося света. Обладает достаточной силой для защиты целого королевства.",
+    "id": "Sebuah busur kuat yang tubuhnya terbuat dari giok kuno, dan benangnya dari sekumparan cahaya yang terpusat menjadi satu garis. Memiliki kekuatan yang dapat melindungi kerajaan.",
+    "th": "คันธนูที่แข็งแกร่งที่ทำจากหยกโบราณด้วยสายที่ทำจากลำแสงของแสงที่บรรจบกันในเส้นเดียว มีพลังมากพอที่จะปกป้องอาณาจักรหนึ่งได้",
+    "vi": "Tạo ra từ bảo ngọc viễn cổ, có thể bảo vệ một đất nước, dây cung tạo ra từ ánh sáng tập hợp lại."
+  },
+  "lore": {
+    "zhs": "",
+    "zht": "",
+    "jp": "",
+    "ko": "",
+    "en": "",
+    "de": "",
+    "es": "",
+    "fr": "",
+    "pt": "",
+    "ru": "",
+    "id": "",
+    "th": "",
+    "vi": ""
+  },
+  "internal_name": "Bow_Hunters-d-d",
+  "imgid": "bow/hunters-d-d"
+}

@@ -1,0 +1,52 @@
+{
+  "id": 11201,
+  "type": "sword",
+  "rank": 2,
+  "name": {
+    "zhs": "银剑",
+    "zht": "銀劍",
+    "jp": "銀の剣",
+    "ko": "실버 소드",
+    "en": "Silver Sword",
+    "de": "Silberschwert",
+    "es": "Espada Plateada",
+    "fr": "Épée en argent",
+    "pt": "Espada de Prata",
+    "ru": "Серебряный меч",
+    "id": "Silver Sword",
+    "th": "Silver Sword",
+    "vi": "Kiếm Bạc"
+  },
+  "description": {
+    "zhs": "能退魔的银剑。大家都知道，其实用料是银合金而不是纯银。",
+    "zht": "能退魔的銀劍。大家都知道，其實用料是銀合金而不是純銀。",
+    "jp": "退魔の力を持つ銀の剣。素材は純銀ではなく銀合金であることは誰もが知っている。",
+    "ko": "퇴마에 사용되는 실버 소드. 모두가 알다시피 원재료는 순은이 아니라 은 합금이다",
+    "en": "A sword for exorcising demons. Everyone knows it's made of a silver alloy, not pure silver.",
+    "de": "Ein Schwert aus Silber, mit dem man Dämonen vertreiben kann. Aber eigentlich weiß jeder, dass so ein Schwert nicht aus reinem Silber besteht, sondern lediglich aus einer Legierung.",
+    "es": "Una espada para ahuyentar a los demonios. Todo el mundo sabe que está hecha de una aleación de plata, no de plata pura.",
+    "fr": "Une épée faite pour chasser les démons. Par contre, tout le monde sait qu'elle a été forgée avec un alliage d'argent et non avec de l'argent pur.",
+    "pt": "Uma espada para afastar os demônios. Todos sabem que ela é feita de liga de prata e não de prata pura.",
+    "ru": "Говорят, что этот меч может изгонять демонов, но всем известно, что он сделан не из настоящего серебра.",
+    "id": "Pedang perak yang ditakuti iblis. Tapi semua orang tahu, sebenarnya ini bukan perak murni, melainkan perak campuran.",
+    "th": "ดาบที่ใช้ไล่ปีศาจร้าย ทุกคนต่างรู้ดีว่ามันทำมาจากอัลลอย ไม่ใช่เงินแท้ ๆ สักหน่อย",
+    "vi": "Kiếm bạc có thể đánh lùi ma quỷ. Nhưng mọi người đều biết kỳ thực nguyên liệu là hợp kim bạc chứ không phải bạc nguyên chất."
+  },
+  "lore": {
+    "zhs": "\n与民间信仰相悖，银其实不具有退魔的功效。\n心无杂念的执剑旅人，才是斩妖除魔的关键。",
+    "zht": "\n與民間信仰相悖，銀其實不具有退魔的功效。\n心無雜念的執劍旅人，才是斬妖除魔的關鍵。",
+    "jp": "\n一般的な言い伝えと違って、実は銀の退魔の力は大きくない。\n剣を持った迷いのない旅人こそ、魔を退ける要になる。",
+    "ko": "\n민간 신앙과는 달리 은은 퇴마의 힘을 가지고 있지 않다.\n아무 상념 없이 검을 든 여행자야말로 요마를 배어낼 수 있다.",
+    "en": "\nDespite how the folk belief would have it, silver does not actually have any special ability to exorcise.\nIt is the pure heart of the wandering exorcist that is the true bane of evil.",
+    "de": "\nIm Gegensatz zum Volksglauben, besitzt Silber keine natürlichen Eigenschaften, mit denen man Dämonen schaden kann.\nEs ist das reine Herz des Reisenden mit seinem Schwert, die der wahre Fluch des Bösen sind.",
+    "es": "\nAl contrario de lo que afirma la creencia popular, en realidad la plata no ahuyenta a los demonios.\nUn viajero armado y sin dejarse llevar por las distracciones es la clave para acabar con el mal.",
+    "fr": "\nContrairement à la croyance populaire, l'argent est inutile pour repousser les démons.\nSeule la lame de l'exorciste itinérant est le vrai fléau du mal.",
+    "pt": "\nAo contrário da crença popular, a prata não tem o poder de afastar demônios.\nO Viajante não tinha pensamentos que o distraíam, estava focado em cortar o ponto mágico da bruxa.",
+    "ru": "\nПоверье, что злые духи боятся серебра, - чепуха.\nИзгонит зло лишь меч, чистое сердце и крепкая рука.",
+    "id": "\nBertentangan dengan kepercayaan rakyat, perak sebenarnya tidak berpengaruh pada iblis.\nPengembara yang mempunyai pedang yang tidak memiliki pikiran jahat dan bersih adalah kunci untuk membunuh iblis.",
+    "th": "\nไม่ว่าคนทั่วไปจะมีความเชื่อยังไง แต่จริง ๆ แล้วแร่เงินไม่สามารถขับไล่ปีศาจได้\nนักเดินทางที่ถือดาบด้วยจิตใจที่บริสุทธิ์ คือกุญแจสำคัญในการกำจัดปีศาจ",
+    "vi": "\nTrái ngược với tín ngưỡng của dân gian, Bạc thực ra không có công hiệu trừ ma.\nLữ khách tay cầm kiếm lòng không vướng bận, đó chính là mấu chốt của trảm yêu trừ ma."
+  },
+  "internal_name": "Sword_Silver",
+  "imgid": "sword/silver"
+}

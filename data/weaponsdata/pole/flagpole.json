@@ -1,0 +1,200 @@
+{
+  "id": 13304,
+  "type": "polearm",
+  "rank": 3,
+  "name": {
+    "zhs": "「旗杆」",
+    "zht": "「旗桿」",
+    "jp": "「旗竿」",
+    "ko": "「깃대」",
+    "en": "The Flagstaff",
+    "de": "Fahnenmast",
+    "es": "Asta de Bandera",
+    "fr": "La hampe",
+    "pt": "Mastro da Bandeira",
+    "ru": "Флагшток",
+    "id": "The Flagstaff",
+    "th": "The Flagstaff",
+    "vi": "Cột Cờ"
+  },
+  "description": {
+    "zhs": "备用",
+    "zht": "備用",
+    "jp": "予備用",
+    "ko": "백업",
+    "en": "Reserve",
+    "de": "Reserve",
+    "es": "Reservar",
+    "fr": "Réserve",
+    "pt": "Reserva",
+    "ru": "Зарезервировано",
+    "id": "Cadangan",
+    "th": "สำรอง",
+    "vi": "Dự Phòng"
+  },
+  "lore": {},
+  "effects": [
+    {
+      "name": {
+        "zhs": "待定",
+        "zht": "待定",
+        "jp": "未定",
+        "ko": "보류",
+        "en": "TBD",
+        "de": "In Bearbeitung",
+        "es": "Por determinar",
+        "fr": "En attente",
+        "pt": "A Definir",
+        "ru": "Не утверждено",
+        "id": "TBA",
+        "th": "TBD",
+        "vi": "Chờ"
+      },
+      "description": {
+        "zhs": "击败敌人时，恢复<color=#99FFFFFF>8%</color>生命值。",
+        "zht": "擊敗敵人時，恢復<color=#99FFFFFF>8%</color>生命值。",
+        "jp": "敵を倒したとき、HPを<color=#99FFFFFF>8%</color>回復する。",
+        "ko": "적을 처치하면 HP를 <color=#99FFFFFF>8%</color> 회복한다",
+        "en": "Defeating an opponent restores <color=#99FFFFFF>8%</color> HP.",
+        "de": "Stellt beim Besiegen eines Gegners <color=#99FFFFFF>8 %</color> LP wieder her.",
+        "es": "Restaura un <color=#99FFFFFF>8%</color> de Vida tras derrotar a un enemigo.",
+        "fr": "Restaure <color=#99FFFFFF>8 %</color> des PV après la défaite d'un ennemi.",
+        "pt": "Derrotar um oponente recupera <color=#99FFFFFF>8%</color> da Vida.",
+        "ru": "Победа над противником восстанавливает <color=#99FFFFFF>8%</color> HP.",
+        "id": "Memulihkan <color=#99FFFFFF>8%</color> HP saat mengalahkan satu musuh.",
+        "th": "เมื่อกำจัดศัตรูได้จะฟื้นฟูพลังชีวิตขึ้น <color=#99FFFFFF>8%</color>",
+        "vi": "Khi đánh bại kẻ địch, hồi <color=#99FFFFFF>8%</color> HP."
+      }
+    },
+    {
+      "name": {
+        "zhs": "待定",
+        "zht": "待定",
+        "jp": "未定",
+        "ko": "보류",
+        "en": "TBD",
+        "de": "In Bearbeitung",
+        "es": "Por determinar",
+        "fr": "En attente",
+        "pt": "A Definir",
+        "ru": "Не утверждено",
+        "id": "TBA",
+        "th": "TBD",
+        "vi": "Chờ"
+      },
+      "description": {
+        "zhs": "击败敌人时，恢复<color=#99FFFFFF>10%</color>生命值。",
+        "zht": "擊敗敵人時，恢復<color=#99FFFFFF>10%</color>生命值。",
+        "jp": "敵を倒したとき、HPを<color=#99FFFFFF>10%</color>回復する。",
+        "ko": "적을 처치하면 HP를 <color=#99FFFFFF>10%</color> 회복한다",
+        "en": "Defeating an opponent restores <color=#99FFFFFF>10%</color> HP.",
+        "de": "Stellt beim Besiegen eines Gegners <color=#99FFFFFF>10 %</color> LP wieder her.",
+        "es": "Restaura un <color=#99FFFFFF>10%</color> de Vida tras derrotar a un enemigo.",
+        "fr": "Restaure <color=#99FFFFFF>10 %</color> des PV après la défaite d'un ennemi.",
+        "pt": "Derrotar um oponente recupera <color=#99FFFFFF>10%</color> da Vida.",
+        "ru": "Победа над противником восстанавливает <color=#99FFFFFF>10%</color> HP.",
+        "id": "Memulihkan <color=#99FFFFFF>10%</color> HP saat mengalahkan satu musuh.",
+        "th": "เมื่อกำจัดศัตรูได้จะฟื้นฟูพลังชีวิตขึ้น <color=#99FFFFFF>10%</color>",
+        "vi": "Khi đánh bại kẻ địch, hồi <color=#99FFFFFF>10%</color>HP"
+      }
+    },
+    {
+      "name": {
+        "zhs": "待定",
+        "zht": "待定",
+        "jp": "未定",
+        "ko": "보류",
+        "en": "TBD",
+        "de": "In Bearbeitung",
+        "es": "Por determinar",
+        "fr": "En attente",
+        "pt": "A Definir",
+        "ru": "Не утверждено",
+        "id": "TBA",
+        "th": "TBD",
+        "vi": "Chờ"
+      },
+      "description": {
+        "zhs": "击败敌人时，恢复<color=#99FFFFFF>12%</color>生命值。",
+        "zht": "擊敗敵人時，恢復<color=#99FFFFFF>12%</color>生命值。",
+        "jp": "敵を倒したとき、HPを<color=#99FFFFFF>12%</color>回復する。",
+        "ko": "적을 처치하면 HP를 <color=#99FFFFFF>12%</color> 회복한다",
+        "en": "Defeating an opponent restores <color=#99FFFFFF>12%</color> HP.",
+        "de": "Stellt beim Besiegen eines Gegners <color=#99FFFFFF>12 %</color> LP wieder her.",
+        "es": "Restaura un <color=#99FFFFFF>12%</color> de Vida tras derrotar a un enemigo.",
+        "fr": "Restaure <color=#99FFFFFF>12 %</color> des PV après la défaite d'un ennemi.",
+        "pt": "Derrotar um oponente recupera <color=#99FFFFFF>12%</color> da Vida.",
+        "ru": "Победа над противником восстанавливает <color=#99FFFFFF>12%</color> HP.",
+        "id": "Memulihkan <color=#99FFFFFF>12%</color> HP saat mengalahkan satu musuh.",
+        "th": "เมื่อกำจัดศัตรูได้จะฟื้นฟูพลังชีวิตขึ้น <color=#99FFFFFF>12%</color>",
+        "vi": "Khi đánh bại kẻ địch, hồi <color=#99FFFFFF>12%</color>HP"
+      }
+    },
+    {
+      "name": {
+        "zhs": "待定",
+        "zht": "待定",
+        "jp": "未定",
+        "ko": "보류",
+        "en": "TBD",
+        "de": "In Bearbeitung",
+        "es": "Por determinar",
+        "fr": "En attente",
+        "pt": "A Definir",
+        "ru": "Не утверждено",
+        "id": "TBA",
+        "th": "TBD",
+        "vi": "Chờ"
+      },
+      "description": {
+        "zhs": "击败敌人时，恢复<color=#99FFFFFF>14%</color>生命值。",
+        "zht": "擊敗敵人時，恢復<color=#99FFFFFF>14%</color>生命值。",
+        "jp": "敵を倒したとき、HPを<color=#99FFFFFF>14%</color>回復する。",
+        "ko": "적을 처치하면 HP를 <color=#99FFFFFF>14%</color> 회복한다",
+        "en": "Defeating an opponent restores <color=#99FFFFFF>14%</color> HP.",
+        "de": "Stellt beim Besiegen eines Gegners <color=#99FFFFFF>14 %</color> LP wieder her.",
+        "es": "Restaura un <color=#99FFFFFF>14%</color> de Vida tras derrotar a un enemigo.",
+        "fr": "Restaure <color=#99FFFFFF>14 %</color> des PV après la défaite d'un ennemi.",
+        "pt": "Derrotar um oponente recupera <color=#99FFFFFF>14%</color> da Vida.",
+        "ru": "Победа над противником восстанавливает <color=#99FFFFFF>14%</color> HP.",
+        "id": "Memulihkan <color=#99FFFFFF>14%</color> HP saat mengalahkan satu musuh.",
+        "th": "เมื่อกำจัดศัตรูได้จะฟื้นฟูพลังชีวิตขึ้น <color=#99FFFFFF>14%</color>",
+        "vi": "Khi đánh bại kẻ địch, hồi <color=#99FFFFFF>14%</color>HP"
+      }
+    },
+    {
+      "name": {
+        "zhs": "待定",
+        "zht": "待定",
+        "jp": "未定",
+        "ko": "보류",
+        "en": "TBD",
+        "de": "In Bearbeitung",
+        "es": "Por determinar",
+        "fr": "En attente",
+        "pt": "A Definir",
+        "ru": "Не утверждено",
+        "id": "TBA",
+        "th": "TBD",
+        "vi": "Chờ"
+      },
+      "description": {
+        "zhs": "击败敌人时，恢复<color=#99FFFFFF>16%</color>生命值。",
+        "zht": "擊敗敵人時，恢復<color=#99FFFFFF>16%</color>生命值。",
+        "jp": "敵を倒したとき、HPを<color=#99FFFFFF>16%</color>回復する。",
+        "ko": "적을 처치하면 HP를 <color=#99FFFFFF>16%</color> 회복한다",
+        "en": "Defeating an opponent restores <color=#99FFFFFF>16%</color> HP.",
+        "de": "Stellt beim Besiegen eines Gegners <color=#99FFFFFF>16 %</color> LP wieder her.",
+        "es": "Restaura un <color=#99FFFFFF>16%</color> de Vida tras derrotar a un enemigo.",
+        "fr": "Restaure <color=#99FFFFFF>16 %</color> des PV après la défaite d'un ennemi.",
+        "pt": "Derrotar um oponente recupera <color=#99FFFFFF>16%</color> da Vida.",
+        "ru": "Победа над противником восстанавливает <color=#99FFFFFF>16%</color> HP.",
+        "id": "Memulihkan <color=#99FFFFFF>16%</color> HP saat mengalahkan satu musuh.",
+        "th": "เมื่อกำจัดศัตรูได้จะฟื้นฟูพลังชีวิตขึ้น <color=#99FFFFFF>16%</color>",
+        "vi": "Khi đánh bại kẻ địch, hồi <color=#99FFFFFF>16%</color>HP"
+      }
+    }
+  ],
+  "internal_name": "Pole_Flagpole",
+  "imgid": "pole/flagpole"
+}

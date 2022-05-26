@@ -1,0 +1,52 @@
+{
+  "id": 13506,
+  "type": "polearm",
+  "rank": 5,
+  "name": {
+    "zhs": "",
+    "zht": "弑主",
+    "jp": "レジサイド",
+    "ko": "주신 학살창",
+    "en": "Deicide",
+    "de": "Göttermörder",
+    "es": "Cazador de Dioses",
+    "fr": "Déicide",
+    "pt": "Deicida",
+    "ru": "Богоубийство",
+    "id": "Deicide",
+    "th": "Deicide",
+    "vi": "Sát Chủ"
+  },
+  "description": {
+    "zhs": "",
+    "zht": "曾經用來殺死魔神的長槍。其中飽含思念與決意，以及在此之上，能殺死魔神的巨大力量。",
+    "jp": "かつて魔神殺しに使われた長槍。中には思いと決意、そしてそれ以上に魔神をも殺せる巨大な力が秘められている。",
+    "ko": "마신을 무찌를 때 사용되었던 창. 그리움과 결의, 그리고 마신을 죽일 수 있는 거대한 힘이 들어있다",
+    "en": "A weapon that was once used to kill an archon. It's a weapon of sheer will, with power that rivals that of the gods.",
+    "de": "Mit dieser Lanze wurden selbst Archonten getötet. Sie steckt voller Willenskraft und der Macht, gegen Archonten anzukommen.",
+    "es": "La lanza que una vez se usó para matar a un dios. Es un arma de pura voluntad, con un poder que rivaliza con el de los dioses.",
+    "fr": "Une lance qui a été utilisée pour tuer un dieu. Elle est imprégnée de volonté et de détermination à partir desquelles elle a puisé sa force pour vaincre la divinité.",
+    "pt": "Uma arma que foi usada para derrotar um Arconte. Carrega consigo grande vontade e determinação, com poder que rivaliza com o dos Arcontes.",
+    "ru": "Этим оружием когда-то убили самого Архонта. Оружие чистой силы воли, обладающее мощью, равной Архонтам.",
+    "id": "Sebuah tombak yang konon pernah digunakan untuk membunuh seorang dewa. Kekuatan senjata ini seakan memiliki kesadaran sendiri, dan kekuatannya sebanding dengan kekuatan dewa.",
+    "th": "อาวุธที่ครั้งหนึ่งเคยใช้สังหารเทพมาแล้ว มันเปี่ยมไปด้วยความมุ่งมั่นแท้จริง ด้วยพลังที่ทัดเทียมได้กับเหล่าเทพเจ้า",
+    "vi": "Thương từng giết chết ma thần. Trong đó ẩn giấu ước niệm và ý nguyện, và cả sức mạnh đối kháng ma thần."
+  },
+  "lore": {
+    "zhs": "\n\n",
+    "zht": "\n\n",
+    "jp": "\n\n",
+    "ko": "\n\n",
+    "en": "\n\n",
+    "de": "\n\n",
+    "es": "\n\n",
+    "fr": "\n\n",
+    "pt": "\n\n",
+    "ru": "\n\n",
+    "id": "\n\n",
+    "th": "\n\n",
+    "vi": "\n\n"
+  },
+  "internal_name": "Pole_Gewalt-d",
+  "imgid": "pole/gewalt-d"
+}

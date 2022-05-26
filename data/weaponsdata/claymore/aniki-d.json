@@ -1,0 +1,52 @@
+{
+  "id": 12505,
+  "type": "claymore",
+  "rank": 5,
+  "name": {
+    "zhs": "",
+    "zht": "砥厄魚",
+    "jp": "美玉魚",
+    "ko": "고래 비녀",
+    "en": "Primordial Jade Greatsword",
+    "de": "Urzeitliches Jadeschwert",
+    "es": "Espada de Jade Inicial",
+    "fr": "Grande épée de jade primordial",
+    "pt": "Espada de Jade Primordial",
+    "ru": "Древний Нефритовый Двуручный Меч",
+    "id": "Primordial Jade Greatsword",
+    "th": "Primordial Jade Greatsword",
+    "vi": "Đề Ách Ngư"
+  },
+  "description": {
+    "zhs": "",
+    "zht": "曾屬於魔神的玉璋。一度被擲入漆黑的海洋，以鎮服滔天的滄波。",
+    "jp": "かつて魔神に所有された美玉、一度荒波を静まらせるために漆黒の海に投げられた。",
+    "ko": "마신이 들고 있던 옥홀. 칠흑 같던 바다에 던져져 하늘을 뒤덮을 듯한 파도를 굴복시킨 적이 있다",
+    "en": "A jade greatsword that once belonged to an Archon, and cast into the depths of the ocean to calm a monstrous storm.",
+    "de": "Ein Stück Jade, das einem Archon gehörte. Als er es in die dunklen Tiefes des Meeres warf, erhoben sich monströse Wellen.",
+    "es": "Una horquilla que se transformó en una ballena que le hacía compañía a los dioses. Ahora tiene el tamaño de una gran espada común.",
+    "fr": "Une grande épée en jade ayant utilisée par l'Archon pour les sacrifices. Elle était jetée dans les profondeurs de la mer pour calmer une tempête monstrueuse.",
+    "pt": "Um espadão de jade que pertenceu a um Arconte e lançado nas profundezas do oceano para acalmar uma tempestade monstruosa.",
+    "ru": "Нефритовый меч, который когда-то принадлежал архонту. Он был брошен в глубины океана, чтобы утихомирить чудовищный шторм.",
+    "id": "Sebuah batu giok milik Archon yang dilemparkan ke kedalaman lautan untuk menenangkan gemuruh badai yang mematikan.",
+    "th": "แผ่นหยกที่ครั้งหนึ่งเคยเป็นของเทพ ถูกโยนลงไปในทะเลอันมืดมิดเพื่อสงบพายุที่รุนแรง",
+    "vi": "Từng là miếng ngọc bội thuộc về ma thần. Từng bị ném vào vùng biển đen tối để trấn áp những cơn sóng dữ tợn."
+  },
+  "lore": {
+    "zhs": "",
+    "zht": "",
+    "jp": "",
+    "ko": "",
+    "en": "",
+    "de": "",
+    "es": "",
+    "fr": "",
+    "pt": "",
+    "ru": "",
+    "id": "",
+    "th": "",
+    "vi": ""
+  },
+  "internal_name": "Claymore_Aniki-d",
+  "imgid": "claymore/aniki-d"
+}

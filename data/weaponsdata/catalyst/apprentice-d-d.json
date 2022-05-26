@@ -1,0 +1,52 @@
+{
+  "id": 14505,
+  "type": "catalyst",
+  "rank": 5,
+  "name": {
+    "zhs": "",
+    "zht": "定土玉圭",
+    "jp": "土定の玉",
+    "ko": "정토옥규",
+    "en": "Primordial Jade Regalia",
+    "de": "Urzeitliche Jadeinsignien",
+    "es": "Regalia de Jade Primordial",
+    "fr": "Tablette de jade primordial",
+    "pt": "Presente de Jade Primordial",
+    "ru": "Древняя Нефритовая Регалия",
+    "id": "Primordial Jade Regalia",
+    "th": "Primordial Jade Regalia",
+    "vi": "Ngọc Định Thổ"
+  },
+  "description": {
+    "zhs": "",
+    "zht": "紀念於山之際海之濱尋得安身之地的古代寶玉。如今仍隱隱散發古老的力量，守護國土安寧。",
+    "jp": "山の際と海の浜で居場所を見つけたことを記念するために作られた古代の宝玉。今でも古の力を放ち、国家の平和を守っている。",
+    "ko": "산의 변두리와 바다의 가장 자리에서 삶의 터전을 마련한 걸 기리기 위해 만들어진 보옥. 현재까지도 오래된 힘을 은연히 발산하며 이 땅을 수호하고 있다",
+    "en": "An ancient gem that symbolizes the will of an ancient people who sought a promised land. It still gently emanates a mysterious ancient power that protects the land.",
+    "de": "Ein uralter Edelstein, der für die lange Suche nach einer Heimat steht. Noch heute verströmt er eine seine alte Kraft zum Schutz dieser Heimat.",
+    "es": "Una piedra preciosa que fue testigo del nacimiento de una gran ciudad. Ahora emana de ella ligeramente el poder de los dioses.",
+    "fr": "Une ancienne gemme commémorative qui symbolise la volonté d'un ancien peuple qui avait enfin trouvé leur espèce de paradis. Aujourd'hui, cette gemme émane encore un pouvoir de l'ancien époque et protège toujours la paix de la terre.",
+    "pt": "Uma joia antiga que simboliza a vontade de um povo antigo que buscava uma terra prometida. Ainda emana gentilmente um misterioso poder antigo que protege a terra.",
+    "ru": "Древний драгоценный камень, символизирующий волю древнего народа, искавшего землю обетованную. Он все ещё излучает таинственную древнюю силу, которая защищает мир.",
+    "id": "Sebuah mutiara kuno yang melambangkan kehendak dari manusia-manusia zaman dulu yang mendambakan tanah perjanjian. Dari dalamnya masih terpancar kekuatan kuno yang melindungi tanah ini.",
+    "th": "อัญมณีโบราณที่แสดงถึงเจตจำนงของคนโบราณที่แสวงหาดินแดนแห่งพันธสัญญา มันยังคงแผ่พลังโบราณลึกลับที่ปกป้องดินแดนเล็ดลอดออกมา",
+    "vi": "Bảo ngọc cổ đại để kỷ niệm ranh giới giữa núi và biển. Đến nay vẫn tỏa ra sức mạnh cổ xưa, bảo vệ quốc thổ yên bình."
+  },
+  "lore": {
+    "zhs": "",
+    "zht": "",
+    "jp": "",
+    "ko": "",
+    "en": "",
+    "de": "",
+    "es": "",
+    "fr": "",
+    "pt": "",
+    "ru": "",
+    "id": "",
+    "th": "",
+    "vi": ""
+  },
+  "internal_name": "Catalyst_Apprentice-d-d",
+  "imgid": "catalyst/apprentice-d-d"
+}

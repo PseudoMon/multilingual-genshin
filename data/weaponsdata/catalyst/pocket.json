@@ -1,0 +1,52 @@
+{
+  "id": 14201,
+  "type": "catalyst",
+  "rank": 2,
+  "name": {
+    "zhs": "口袋魔导书",
+    "zht": "口袋魔導書",
+    "jp": "ポケット魔導書",
+    "ko": "포켓 주술서",
+    "en": "Pocket Grimoire",
+    "de": "Taschenzauberbuch",
+    "es": "Grimorio de Bolsillo",
+    "fr": "Grimoire de poche",
+    "pt": "Grimório de Bolso",
+    "ru": "Карманный гримуар",
+    "id": "Pocket Grimoire",
+    "th": "Pocket Grimoire",
+    "vi": "Số Tay Ma Pháp"
+  },
+  "description": {
+    "zhs": "精心编纂，只留下考试重点的魔导参考小册。",
+    "zht": "精心編纂，只留下考試重點的魔導參考小冊。",
+    "jp": "よくまとめられており、テストの要点だけが残された魔導参考ノート。",
+    "ko": "정성스레 편찬한 졸업 고사 요점만 적혀있는 마법 참고 서적",
+    "en": "A carefully compiled notebook featuring the essentials needed to pass a magic exam.",
+    "de": "Ein gewissenhaft verfasstes Büchlein mit Hinweisen zu Prüfungsinhalten der Magie.",
+    "es": "Un cuaderno que recoge con todo detalle anotaciones muy útiles para los exámenes de magia.",
+    "fr": "Un petit carnet rempli de notes concernant un examen de magie.",
+    "pt": "Um caderno cuidadosamente compilado com os elementos essenciais necessários para passar em um exame de mágica.",
+    "ru": "Тетрадь с конспектами по магическим дисциплинам, написанная аккуратным почерком.",
+    "id": "Buku catatan yang disusun dengan hati-hati, berisi hal-hal penting yang berguna untuk lulus ujian sihir.",
+    "th": "หนังสือที่รวบรวมข้อมูลที่เฉพาะเจาะจงซึ่งเหลือเพียงคู่มือเวทมนตร์สำหรับอ้างอิงที่มุ่งเน้นไปที่เนื้อหาหลักของการสอบเท่านั้น",
+    "vi": "Là cuốn sách được biên soạn cẩn thận, chỉ để tham khảo hướng dẫn ma thuật trong các đợt khảo thí trọng điểm."
+  },
+  "lore": {
+    "zhs": "\n在学徒当中流行的魔导辅导书，可以装在口袋里的尺寸。\n略去了教科书中冗长的原理与习题，只留下会考的内容。\n目前因为《魔导绪论》第十二版的改动而变得不合时宜。",
+    "zht": "\n在學徒當中流行的魔導輔導書，可以裝在口袋裡的尺寸。\n略去了教科書中冗長的原理與習題，只留下會考的內容。\n目前因為《魔導緒論》第十二版的改動而變得不合時宜。",
+    "jp": "\n生徒達の間で流行っている魔術指導書。ポケットに入れられるサイズだ。\n教科書に書かれた長ったらしい原理と練習問題を省き、テストに出る内容だけが取り纏められている。\nだが『魔導諸論』第十二版の改変により、現時点では使い物にならないようだ。",
+    "ko": "\n학도들 사이에서 유행하는 마법 지도서. 주머니에 넣을 수 있는 크기다.\n교과서에 적힌 장황한 원리와 연습문제를 빼고 시험에 나올 내용만 정리되어 있다.\n《마도 서론》 제22판의 개정으로 인해 현시점에는 쓸모가 없게 됐다.",
+    "en": "\nA manual on magic that is popular amongst students, it is portable enough to fit into one's pocket.\nIt has been stripped of the lengthy descriptions of principles and voluminous exercises. All that is left now is exam content.\nCurrently obsolete due to the revisions made in the 12th edition of the Magic Guide.",
+    "de": "\nDas während des Trainings verwendete Zauberbuch ist so klein, dass es gut in jedermans Tasche passt.\nDie langen Erklärungen und Übungen sind herausgenommen worden und es bleibt nur der Inhalt, der in der Prüfung bewertet wird.\nNach den Änderungen, die an der 12. Version des „Magieführers“ vorgenommen wurden, gilt er nun als veraltet.",
+    "es": "\nEste grimorio, utilizado durante el aprendizaje, es tan pequeño que cabe en el bolsillo.\nEn él, se han eliminado las largas explicaciones y los ejercicios, y solo queda el contenido que se evalúa en el examen.\nAhora ha quedado obsoleto, tras los cambios realizados en la 12.ª versión de la «Guía Mágica».",
+    "fr": "\nCe grimoire est populaire auprès des apprentis magiciens, car il est suffisamment petit pour tenir en poche.\nLes longues explications et les exercices circonvolus en ont été retirés, et il ne reste que le contenu testé en examen.\nIl est cependant devenu obsolète après les modifications apportées à la 12e édition du « Guide de magie ».",
+    "pt": "\nO Grimório popular entre os aprendizes tem um tamanho ideal para ser colocado no bolso.\nEle omitiu as teorias e exercícios dos livros maçudos e manteve apenas o conteúdo de teste.\nAgora saiu de moda porque foi lançada a 12.ª versão do Guia Mágico.",
+    "ru": "\nПопулярный самоучитель по магии в карманном формате.\nВ нём сжато даётся только то, что спрашивается на экзамене.\nСейчас устарело из-за выхода 12-го издания «Руководства по магии».",
+    "id": "\nBuku panduan ajaib yang populer di kalangan para pelajar, bisa masuk ke dalam saku.\nPrinsip dan latihan yang panjang dalam buku teks sudah dihilangkan, dan hanya isi ujian yang tersisa.\nSaat ini, buku itu telah menjadi ketinggalan zaman karena perubahan pada edisi kedua belas dari \"Pengantar Panduan Sulap\".",
+    "th": "\nหนังสือคู่มือเวทมนตร์ยอดนิยมในหมู่เด็กฝึกงาน มีขนาดเล็กพอที่จะพกใส่ในกระเป๋าได้\nคำอธิบายและแบบฝึกหัดยืดยาวถูกตัดทิ้งไปจนหมด เหลือเพียงเนื้อหาของข้อสอบเท่านั้น\nปัจจุบันมันล้าสมัยไปแล้วเพราะมีการเปลี่ยนแปลงเนื้อหาใน Magic Guide ฉบับที่ 12",
+    "vi": "\nSách phụ đạo ma đạo lưu hành trong giới học trò, vừa đủ nhét vào trong túi.\nLược bỏ bớt những nguyên lý và tiêu đề không cần thiết, chỉ để lại nội dung quan trọng.\nHiện tại vì bản thứ 12 \"Tóm Tắt Ma Pháp\" được cải biên không hợp thời."
+  },
+  "internal_name": "Catalyst_Pocket",
+  "imgid": "catalyst/pocket"
+}

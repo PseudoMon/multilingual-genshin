@@ -1,0 +1,52 @@
+{
+  "id": 14101,
+  "type": "catalyst",
+  "rank": 1,
+  "name": {
+    "zhs": "学徒笔记",
+    "zht": "學徒筆記",
+    "jp": "生徒ノート",
+    "ko": "학도의 노트",
+    "en": "Apprentice's Notes",
+    "de": "Aufzeichnungen eines Lehrlings",
+    "es": "Apuntes del Aprendiz",
+    "fr": "Notes de l'apprenti",
+    "pt": "Anotações do Aprendiz",
+    "ru": "Записи ученика",
+    "id": "Apprentice's Notes",
+    "th": "Apprentice's Notes",
+    "vi": "Nhật Ký Học Sinh"
+  },
+  "description": {
+    "zhs": "某个优等生留下的学习笔记，娟秀的字迹非常好看。记录了不少实用的咒语。",
+    "zht": "某個優等生留下的學習筆記，娟秀的字跡非常好看。記錄了不少實用的咒語。",
+    "jp": "ある優等生が残したノート。字がとても綺麗。実用性のあるまじないがたくさん記されている。",
+    "ko": "어느 우등생이 남긴 학습노트, 아담한 글씨가 매우 아름답다. 실용적인 주문이 적지 않게 기록되어 있다",
+    "en": "Notes left behind by a top student. Many useful spells are listed, and the handwriting is beautiful.",
+    "de": "Die Aufzeichnungen eines sehr begabten Schülers. Die Handschrift ist wunderschön und gibt so einige nützliche Zaubersprüche wieder.",
+    "es": "Notas escritas por un estudiante brillante. Dejó anotados muchos hechizos útiles. Su letra es hermosa.",
+    "fr": "Des notes laissées par un élève brillant contenant des sortilèges efficaces, rédigés dans une belle écriture.",
+    "pt": "Notas deixadas por um estudante brilhante que deixou uma lista de magias muito úteis. Sua caligrafia é muito bonita.",
+    "ru": "Конспекты, оставленные лучшим учеником класса, содержат много полезных заклинаний. Написано прекрасным почерком.",
+    "id": "Catatan milik salah satu murid terbaik, di dalamnya terdapat berbagai sihir yang sangat berguna, dan tulisan tangannya sangat indah.",
+    "th": "ข้อความที่ทิ้งไว้โดย ยอดนักเรียนคนหนึ่ง ซึ่งเป็นรายชื่อเวทมนตร์ ที่มีประโยชน์ เขียนด้วยลายมือ ที่สวยงาม",
+    "vi": "Tập sách được một học sinh ưu tú lưu lại, nét chữ rất đẹp. Ghi chép nhiều bùa chú hữu ích."
+  },
+  "lore": {
+    "zhs": "\n用字句记录了学习、实验笔记与咒语，\n用字句之间的空白记录了学徒的努力。",
+    "zht": "\n用字句記錄了學習、實驗筆記與咒語，\n用字句之間的空白記錄了學徒的努力。",
+    "jp": "\n文字を使って学んだ事、実験結果、呪文を記録した。\n文字と文字の間にある空白に、生徒の努力を記録した。",
+    "ko": "\n문자로 학습, 실험 필기, 주문을 기록했다.\n문자 사이의 공백과 함께 학도의 노력을 기록했다.",
+    "en": "\nWith words, this book records learning, experiments, and incantations.\nWith the spaces between words, it records a student's striving.",
+    "de": "\nStudien, Forschungen und Beschwörungen werden mit Worten aufgezeichnet,\ndie Leerzeichen zwischen den Wörtern sind ein Beweis für die Bemühungen des Jüngers.",
+    "es": "\nLos estudios, las investigaciones y los encantamientos se registran mediante palabras.\nLos espacios en blanco que quedan entre las palabras son la prueba del esfuerzo del discípulo que las escribió.",
+    "fr": "\nLes mots et les phrases traduisent les études, les notes et les enchantements ;\nles espaces vides entre ces mots traduisent les efforts de l'apprenti.",
+    "pt": "\nEscreva o que estudou, tome nota dos experimentos e dos feitiços,\nuse o espaço em branco entre as palavras para fazer anotações.",
+    "ru": "\nЗнания, результаты опытов и заклинания пишут буквами,\nусердность ученика пишут между букв.",
+    "id": "\nAku menggunakan banyak kata dan kalimat untuk mencatat setiap pembelajaran, catatan percobaan dan mantra,\nDan juga menggunakan ruang di antara kata-kata untuk mencatat usaha para murid.",
+    "th": "\nใช้อักษรบันทึกการเรียนรู้ การทดลอง และคาถา\nใช้ช่องว่างระหว่างอักษร บันทึกความพยายามของผู้เรียน",
+    "vi": "\nDùng câu chữ ghi chép lại bút tích và thần chú đã học và thực nghiệm, \nGhi chép nỗ lực của học trò vào khoảng trắng giữa các câu chữ."
+  },
+  "internal_name": "Catalyst_Apprentice",
+  "imgid": "catalyst/apprentice"
+}

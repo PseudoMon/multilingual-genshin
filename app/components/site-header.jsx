@@ -9,6 +9,7 @@ export default function SiteHeader() {
           <li><NavLink to="/">Home</NavLink></li>
           <li><NavLink to="/characters">Characters</NavLink></li>
           <li><NavLink to="/artifacts">Artifacts</NavLink></li>
+          <li><NavLink to="/weapons">Weapons</NavLink></li>
         </ul>
       </nav>
     </header>
