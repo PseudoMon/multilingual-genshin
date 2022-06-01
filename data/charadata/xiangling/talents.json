@@ -12,7 +12,7 @@
       "pt": "Ataque Normal: Pastelaria Kung Fu",
       "ru": "Кунг-Тесто",
       "id": "Pastry Kung Fu",
-      "th": "โจมตีปกติ - Dough-Fu",
+      "th": "โจมตีปกติ: Dough-Fu",
       "vi": "Tấn Công Thường: Tài Nghệ Làm Bánh"
     },
     "description": {
@@ -29,8 +29,7 @@
       "id": "<color=#FFD780FF>Normal Attack</color>\nMelancarkan hingga 5 serangan berturut-turut.\n\n<color=#FFD780FF>Charged Attack</color>\nMengonsumsi sejumlah Stamina untuk menerjang ke depan, mengakibatkan DMG pada musuh di jalurnya.\n\n<color=#FFD780FF>Plunging Attack</color>\nMenerjang dari udara untuk menghantam tanah, mengakibatkan DMG pada musuh di jalur terjangan dan mengakibatkan DMG area saat mendarat.",
       "th": "<color=#FFD780FF>โจมตีปกติ</color>\nโจมตีต่อเนื่องมากสุดห้าครั้ง\n\n<color=#FFD780FF>ชาร์จโจมตี</color>\nกินพลังกายปริมาณหนึ่งเพื่อ พุ่งไปข้างหน้าและสร้างความเสียหาย แก่ศัตรูที่อยู่ในเส้นทาง\n\n<color=#FFD780FF>โจมตีพุ่งลงจากอากาศ</color>\nกระโจนจากกลางอากาศลงมายังพื้นดิน เพื่อโจมตีศัตรูที่อยู่ในเส้นทางการโจมตี โดยจะสร้างความเสียหายวงกว้างเมื่อลงถึงพื้น",
       "vi": "<color=#FFD780FF>Tấn Công Thường</color>\nThực hiện tối đa 5 lần đánh liên tiếp.\n\n<color=#FFD780FF>Trọng Kích</color>\nTiêu hao thể lực nhất định, xông về phía trước, gây sát thương cho địch trên đường đi.\n\n<color=#FFD780FF>Tấn Công Khi Đáp</color>\nĐáp xuống đất từ trên không, tấn công kẻ địch trên đường và gây sát thương phạm vi khi chạm đất."
-    },
-    "imgid": "s_233101"
+    }
   },
   {
     "title": {
@@ -62,8 +61,7 @@
       "id": "Memanggil Guoba si Panda. Guoba terus menghembuskan api ke musuh, mengakibatkan <color=#FF9999FF>Pyro DMG area</color>.\n\n<i>Guoba suka makan yang pedas-pedas. Masalahnya, perutnya tidak tahan.</i>",
       "th": "เรียก Guoba จอมพ่นไฟออกมา โดยระหว่างช่วงเวลาที่คงอยู่จะพ่นไฟ ใส่ศัตรูอย่างต่อเนื่องและสร้าง <color=#FF9999FF>ความเสียหายไฟวงกว้าง</color>\n\n<i>Guoba นั้นชอบกินของเผ็ดเป็นอย่างมาก แต่ท้องของเขาดันรับไม่ไหวสักเท่าไหร่</i>",
       "vi": "Triệu hồi Guoba phun lửa, trong thời gian tồn tại, không ngừng phun lửa vào địch, gây <color=#FF9999FF>Sát Thương Phạm Vi Nguyên Tố Hỏa</color>.\n\n<i>Guoba thích ăn thực phẩm cay. Nhưng lại chịu không nổi thực phẩm cay như vậy.</i>"
-    },
-    "imgid": "s_233201"
+    }
   },
   {
     "title": {
@@ -95,8 +93,7 @@
       "id": "Xiangling menunjukkan keahilannya dengan api dan tombak, dia membuat Pyronado yang berputar di sekitarnya.\nPyrnado akan bergerak mengikuti karaktermu selama durasinya dan mengakibatkan <color=#FF9999FF>Pyro DMG</color> ke semua musuh di jalurnya.\n\n<i>Tidak akan pernah ada panas yang cukup. Tidak pernah.</i>",
       "th": "อาศัยทักษะหอกชั้นยอดเพื่อหมุนรอบตัว อย่างรวดเร็วจนเกิดเป็นวงล้อเพลิง Pyronado\nภายในช่วงเวลาต่อเนื่อง Pyronado จะเคลื่อนที่ไปพร้อมกับตัวละคร โดยจะทำให้เกิด<color=#FF9999FF>ความเสียหายไฟ</color>แก่ศัตรูที่อยู่ในเส้นทาง\n\n<i>พลังไฟนั้นไม่เคยพอ ไม่เคยพอเลยจริง ๆ</i>",
       "vi": "Với kỹ năng tinh tế điều khiển lửa và thương, vung ra Bánh Xe Lửa xoay tròn quanh mình.\nTrong thời gian tồn tại, Bánh Xe Lửa sẽ đi theo nhân vật, gây cho địch trên đường <color=#FF9999FF>Sát Thương Nguyên Tố Hỏa</color>.\n\n<i>Hỏa lực vĩnh viễn không đủ. Vĩnh viễn không đủ.</i>"
-    },
-    "imgid": "s_233901"
+    }
   },
   {
     "title": {
@@ -128,8 +125,7 @@
       "id": "Meningkatkan 20% jarak semburan api Guoba.",
       "th": "เพิ่มระยะการพ่นไฟของ Guoba ขึ้น 20%",
       "vi": "Cự ly Guoba phun lửa tăng 20%."
-    },
-    "imgid": "p_232101"
+    }
   },
   {
     "title": {
@@ -161,8 +157,7 @@
       "id": "Saat durasi skill <color=#FFD780FF>Guoba Attack</color> selesai, Guoba akan meninggalkan sebuah cabai di lantai. Mengambil cabai tersebut meningkatkan 10% ATK selama 10 detik.",
       "th": "เมื่อผลของ <color=#FFD780FF>Guoba Attack</color> จบลง Guoba จะทิ้งพริกไว้ตรงจุดที่หายตัว การเก็บพริกขึ้นมาจะเพิ่มพลังโจมตีขึ้น 10% เป็นเวลา 10 วิ",
       "vi": "Khi hiệu quả của <color=#FFD780FF>Guoba Xuất Kích</color> kết thúc, nơi Guoba biến mất sẽ bỏ lại quả ớt. Thu thập ớt sẽ tăng 10% tấn công, kéo dài 10s."
-    },
-    "imgid": "p_232201"
+    }
   },
   {
     "title": {
@@ -194,7 +189,6 @@
       "id": "Saat masakan jenis penyerangan dimasak dengan sempurna, terdapat 12% kemungkinan mendapatkan hasil 2 kali lipat.",
       "th": "เมื่อปรุงอาหารประเภทโจมตีได้ ระดับสมบูรณ์ จะมีโอกาส 12% ที่จะได้รับผลผลิตเพิ่มเป็น 2 เท่า",
       "vi": "Nấu hoàn mỹ món ăn thuộc loại tấn công, có tỷ lệ 12% x2 sản lượng."
-    },
-    "imgid": "p_232301"
+    }
   }
 ]

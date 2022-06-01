@@ -12,7 +12,7 @@
       "pt": "Ataque Normal: Pontaria",
       "ru": "Первоклассный стрелок",
       "id": "Normal Attack: Sharpshooter",
-      "th": "โจมตีปกติ - Sharpshooter",
+      "th": "โจมตีปกติ: Sharpshooter",
       "vi": "Tấn Công Thường: Xạ Thủ Thần"
     },
     "description": {
@@ -29,8 +29,7 @@
       "id": "<color=#FFD780FF>Normal Attack</color>\nMelancarkan hingga 5 serangan berturut-turut menggunakan busur.\n\n<color=#FFD780FF>Charged Attack</color>\nMelancarkan sebuah <color=#FFD780FF>Serangan Membidik</color> yang lebih akurat untuk mengakibatkan DMG lebih besar.\nSaat membidik, api akan berkumpul di ujung anak panah. Panah dengan api yang terkumpul penuh akan mengakibatkan <color=#FF9999FF>Pyro DMG</color>.\n\n<color=#FFD780FF>Plunging Attack</color>\nMelancarkan hujan panah dari udara dan menerjang tanah dengan kecepatan tinggi, mengakibatkan DMG area saat mendarat.",
       "th": "<color=#FFD780FF>โจมตีปกติ</color>\nยิงธนูโจมตีอย่างต่อเนื่องมากสุดห้าครั้ง\n\n<color=#FFD780FF>ชาร์จโจมตี</color>\nการ<color=#FFD780FF>เล็งโจมตี</color>สร้างความเสียหายเพิ่มขึ้น และแม่นยำยิ่งขึ้น\nเมื่อเล็งโจมตีจะทำการรวบรวมไฟ ไว้บนหัวลูกศรอย่างต่อเนื่อง ซึ่งลูกศรที่รวบรวมไฟเต็มที่แล้ว จะทำให้เกิด<color=#FF9999FF>ความเสียหายไฟ</color>\n\n<color=#FFD780FF>โจมตีพุ่งลงจากอากาศ</color>\nปล่อยฝนธนูจากกลางอากาศ และพุ่งลงมายังพื้นดินอย่างรวดเร็ว โดยจะสร้างความเสียหายวงกว้างเมื่อลงถึงพื้น",
       "vi": "<color=#FFD780FF>Tấn Công Thường</color>\nThực hiện tối đa 5 lần bắn tên liên tiếp.\n\n<color=#FFD780FF>Trọng Kích</color>\nSát thương càng cao, <color=#FFD780FF>ngắm bắn</color> càng chuẩn.\nKhi ngắm bắn, ngọn lửa sẽ tích tụ trên mũi tên. Mũi tên đầy lửa sẽ gây <color=#FF9999FF>Sát Thương Nguyên Tố Hỏa</color>.\n\n<color=#FFD780FF>Tấn Công Khi Đáp</color>\nBắn mưa tên liên tiếp xuống mặt đất, gây sát thương phạm vi khi chạm đất."
-    },
-    "imgid": "s_213101"
+    }
   },
   {
     "title": {
@@ -62,8 +61,7 @@
       "id": "Serahkan kepada Baron Bunny yang selalu dapat diandalkan.\n\n<color=#FFD780FF>Baron Bunny</color>\n·Terus mengejek musuh untuk mengalihkan serangan mereka.\n·HP Baron Bunny mewarisi Max HP Amber berdasarkan persentase tertentu.\n·Saat meledak atau saat durasi skill habis, Baron Bunny meledak dan mengakibatkan <color=#FF9999FF>Pyro DMG area</color>.\n\n<color=#FFD780FF>Tahan</color>\nAtur arah lemparan Baron Bunny.\nSemakin lama tombolnya ditahan, semakin jauh lemparannya.\n\n<i>Baron Bunny datang dari keluarga dengan garis keturunan yang sangat panjang, tapi Amber sudah berhenti menghitungnya sejak Baron Bunny ke-893.</i>",
       "th": "#โปรดวางใจให้ Baron Bunny เข้าร่วมการต่อสู้\n\n<color=#FFD780FF>Baron Bunny</color>\n·จะยั่วยุศัตรูโดยรอบและดึงดูดการโจมตีทั้งหมด;\n·อัตราส่วนความทนทานจะขึ้นกับ พลังชีวิตสูงสุดของ Amber\n·เมื่อถูกทำลายหรือหมดเวลา จะระเบิดอย่างรุนแรงสร้าง <color=#FF9999FF>ความเสียหายไฟวงกว้าง</color>\n\n<color=#FFD780FF>{LAYOUT_MOBILE#แตะค้าง}{LAYOUT_PC#กดค้าง}{LAYOUT_PS#กดค้าง}</color>\nปรับตำแหน่งที่วาง\nระยะของการวางจะขึ้นอยู่กับช่วงเวลา ของการ{LAYOUT_MOBILE#แตะค้าง}{LAYOUT_PC#กดค้าง}{LAYOUT_PS#กดค้าง}\n\n<i>Baron Bunny นั้นมีประวัติศาสตร์ครอบครัวที่ยาวนาน แต่นับจากปี 893 เป็นต้นมานั้น Amber ก็ได้เลิกนับไปเรียบร้อยแล้ว</i>",
       "vi": "Mời Bá Tước Thỏ ra trận.\n\n<color=#FFD780FF>Bá Tước Thỏ</color>\n·Khiêu khích địch xung quanh, thu hút hỏa lực;\n·Độ bền sẽ kế thừa giới hạn HP của Amber theo tỷ lệ nhất định;\n·Nếu bị hủy diệt hoặc hết thời gian, Bá Tước Thỏ sẽ nổ, gây <color=#FF9999FF>Sát Thương Phạm Vi Nguyên Tố Hỏa</color>.\n\n<color=#FFD780FF>Nhấn Giữ</color>\nĐiều chỉnh hướng ném.\nKhoảng cách ném sẽ tăng theo thời gian nhấn giữ.\n\n<i>Bá tước thỏ có dòng dõi lâu đời. Nhưng bắt đầu từ đời thỏ thứ 893, Amber đã ngừng tính số.</i>"
-    },
-    "imgid": "s_213201"
+    }
   },
   {
     "title": {
@@ -95,8 +93,7 @@
       "id": "Menembakkan hujan panah yang mengakibatkan <color=#FF9999FF>Pyro DMG area</color>.\n\n<i>Semangat Amber benar-benar membara.</i>",
       "th": "ยิงธนูไฟออกไป สร้าง <color=#FF9999FF>ความเสียหายไฟวงกว้าง</color>อย่างต่อเนื่อง\n\n<i>ว่ากันว่า Amber นั้นเป็นเด็กหญิง ที่มาพร้อมกับเจตนารมณ์อันร้อนแรง</i>",
       "vi": "Bắn ra cơn mưa tên lửa, duy trì gây <color=#FF9999FF>Sát Thương Phạm Vi Nguyên Tố Hỏa</color>.\n\n<i>Trái tim tràn đầy nhiệt huyết của Amber thật sự nóng bỏng.</i>"
-    },
-    "imgid": "s_213901"
+    }
   },
   {
     "title": {
@@ -128,8 +125,7 @@
       "id": "Meningkatkan 10% CRIT Rate skill<color=#FFD780FF>Fiery Rain</color> dan memperluas area skill tersebut sebesar 30%.",
       "th": "เพิ่มอัตราคริของ <color=#FFD780FF>Fiery Rain</color> ขึ้น 10% และเพิ่มพื้นที่ที่ได้รับผลขึ้น 30%",
       "vi": "Tỷ lệ bạo kích <color=#FFD780FF>Mưa Tên</color> tăng 10%, phạm vi ảnh hưởng tăng 30%."
-    },
-    "imgid": "p_212101"
+    }
   },
   {
     "title": {
@@ -161,8 +157,7 @@
       "id": "Meningkatkan 15% ATK selama 10 detik saat Serangan Membidik mengenai titik lemah musuh.",
       "th": "เมื่อเล็งโจมตีโดนจุดอ่อนของเป้าหมาย พลังโจมตีจะเพิ่มขึ้น 15% เป็นเวลา 10 วินาที",
       "vi": "Khi ngắm bắn trúng nhược điểm, tấn công tăng 15%, kéo dài 10s."
-    },
-    "imgid": "p_212201"
+    }
   },
   {
     "title": {
@@ -194,7 +189,6 @@
       "id": "Mengurangi 20% konsumsi Stamina karakter sendiri saat terbang.\nEfek tidak dapat ditumpuk dengan Talenta Pasif lain yang memiliki efek yang sama.",
       "th": "ลดอัตราการเสียพลังกายจากการร่อนเวหา ให้ตัวละครของตนเองที่อยู่ในทีมลง 20%\nไม่สามารถซ้อนทับพรสวรรค์ติดตัวที่เอฟเฟกต์เหมือนกันทุกประการได้",
       "vi": "Giảm 20% tiêu hao thể lực nhân vật của bản thân trong đội khi bay lượn.\nĐối với buff Thiên Phú cố định có hiệu quả hoàn toàn giống sẽ không thể cộng dồn."
-    },
-    "imgid": "p_212301"
+    }
   }
 ]

@@ -55,7 +55,7 @@
       "ko": "<color=#FFD780FF>살생앵</color>이 생성될 때의 초기 등급이 2단계까지 상승하며, 등급 최대치가 4단계까지 상승한다. 공격 범위가 60% 증가한다",
       "en": "<color=#FFD780FF>Sesshou Sakura</color> start at Level 2 when created, their max level is increased to 4, and their attack range is increased by 60%.",
       "de": "<color=#FFD780FF>Sesshou-Sakura</color> haben bei der Entstehung anfänglich Stufe 2 und können höchstens Stufe 4 erreichen. Außerdem wird ihr Angriffsradius um 60 % erhöht.",
-      "es": "Al ser creados, los <color=#FFD780FF>cerezos aniquiladores</color> comienzan con nivel 2, pueden aumentarse hasta nivel 4 y su alcance de ataque aumenta en un 60%.",
+      "es": "Al ser creados, los <color=#FFD780FF>cerezos kitsune</color> comienzan con nivel 2, pueden aumentarse hasta nivel 4 y su alcance de ataque aumenta en un 60%.",
       "fr": "Les <color=#FFD780FF>sakura dévastateurs</color> commencent au Niv.2 et peuvent monter jusqu'au Niv.4, et leur portée d'attaque augmente de 60 %.",
       "pt": "<color=#FFD780FF>Sesshou Sakura</color> inicia no Nível 2 quando é criada. O nível máximo é aumentado para 4, e a AdE de seu ataque aumenta em 60%.",
       "ru": "<color=#FFD780FF>Сакура сэссё</color> создаётся уже 2-го уровня. Максимальный уровень повышен до 4, а радиус её атак увеличен на 60%.",
@@ -93,7 +93,7 @@
       "pt": "Aumenta o nível de <color=#FFD780FF>Evocação Yakan: Sesshou Sakura</color> em 3.\nNível máximo é 15.",
       "ru": "Увеличивает уровень навыка <color=#FFD780FF>Проклятие якан: Сакура сэссё</color> на 3.\nМакс. уровень: 15",
       "id": "Meningkatkan 3 level <color=#FFD780FF>Yakan Evocation: Sesshou Sakura</color>.\nMaksimum: Lv. 15.",
-      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Yakan Evocation: Sesshou Sakura</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Yakan Evocation: Sesshou Sakura</color> ขึ้น 3 ระดับ\nเพิ่มได้สูงสุดถึงระดับ 15",
       "vi": "Cấp kỹ năng <color=#FFD780FF>Thần Chú Yakan - Sesshou Sakura</color> +3.\nTăng tối đa đến cấp 15."
     },
     "imgid": "constellation_3"
@@ -122,7 +122,7 @@
       "en": "When <color=#FFD780FF>Sesshou Sakura</color> lightning hits opponents, the <color=#FFACFFFF>Electro DMG Bonus</color> of all nearby party members is increased by 20% for 5s.",
       "de": "Erhöht beim Treffen von Gegnern mit den Blitzschlägen von <color=#FFD780FF>Sesshou-Sakura</color> den <color=#FFACFFFF>Elektro-Schaden</color> aller Truppenmitglieder in der Nähe 5 s lang um 20 %.",
       "es": "Cuando el rayo de un <color=#FFD780FF>cerezo kitsune</color> golpea a un enemigo, todos los miembros del equipo cercanos obtienen un 20% de <color=#FFACFFFF>Bono de Daño Electro</color> durante 5 s.",
-      "fr": "Lorsque l'éclair d'un <color=#FFD780FF>sakura dévastateur</color> touche un ennemi, tous les membres de l'équipe à proximité obtiennent un <color=#FFACFFFF>bonus de DGT Électro</color> de 20 % pendant 5 s.",
+      "fr": "Lorsque l'éclair d'un <color=#FFD780FF>sakura dévastateur</color> a touché un ennemi, tous les membres de l'équipe à proximité obtiennent un <color=#FFACFFFF>bonus de DGT Électro</color> de 20 % pendant 5 s.",
       "pt": "Depois de o raio de <color=#FFD780FF>Sesshou Sakura</color> atingir os inimigos, todos os personagens próximos da equipe obterão 20% de <color=#FFACFFFF>Bônus de Dano Electro</color> por 5s.",
       "ru": "Попадание по врагу ударом молнии <color=#FFD780FF>Сакуры сэссё</color> наделяет всех персонажей поблизости 20% <color=#FFACFFFF>бонусом Электро урона</color> длительностью 5 сек.",
       "id": "Setelah sambaran petir <color=#FFD780FF>Sesshou Sakura</color> mengenai musuh, <color=#FFACFFFF>Electro DMG Bonus</color> seluruh anggota party di sekitar meningkat 20% selama 5 detik.",
@@ -159,7 +159,7 @@
       "pt": "Aumenta o nível de <color=#FFD780FF>Grande Arte Secreta: Tenko Kenshin</color> em 3.\nNível máximo é 15.",
       "ru": "Увеличивает уровень навыка <color=#FFD780FF>Великое тайное искусство: Тэнко кэнсин</color> на 3.\nМакс. уровень: 15",
       "id": "Meningkatkan 3 level <color=#FFD780FF>Great Secret Art: Tenko Kenshin</color>.\nMaksimum: Lv. 15.",
-      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Great Secret Art: Tenko Kenshin</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Great Secret Art: Tenko Kenshin</color> ขึ้น 3 ระดับ\nเพิ่มได้สูงสุดถึงระดับ 15",
       "vi": "Cấp kỹ năng <color=#FFD780FF>Đại Bí Pháp - Tenko Kenshin</color> +3.\nTăng tối đa đến cấp 15."
     },
     "imgid": "constellation_5"

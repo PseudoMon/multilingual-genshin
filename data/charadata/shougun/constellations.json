@@ -57,7 +57,7 @@
       "de": "Wenn Shougun Raiden Musou no Hitotachi einsetzt und durch <color=#FFD780FF>Geheime Kunst – Musou Shinsetsu</color> in den Zustand Musou Isshin versetzt wird, ignorieren die Angriffe von Shougun Raiden 60 % der VTD von Gegnern.",
       "es": "Tanto el corte onírico de <color=#FFD780FF>Técnica secreta: Verdad onírica</color> como los ataques realizados por la Shogun Raiden bajo el estado de mente onírica ignoran el 60% de la DEF de los enemigos.",
       "fr": "Lorsqu'elles bénéficient de l'état d'Harmonie d'idéal accordé par <color=#FFD780FF>Art secret : Dogme d'idéal</color>, les attaques de la Shogun Raiden ignorent 60 % de la DÉF des ennemis.",
-      "pt": "Sob o efeito de Musou no Hitotachi e no estado Musou Isshin, os ataques da Shogun Raiden, aplicados pela <color=#FFD780FF>Arte Secreta: Musou Shinsetsu</color>, ignoram 60% da DEF dos oponentes.",
+      "pt": "Sob o estado de Musou no Hitotachi e Musou Isshin, os ataques da Shogun Raiden, aplicados pela <color=#FFD780FF>Arte Secreta: Musou Shinsetsu</color>, ignoram 60% da DEF dos oponentes.",
       "ru": "Атаки сёгуна Райдэн в состоянии Мусо иссин навыка <color=#FFD780FF>Тайное искусство: Мусо синсэцу</color> и Мусо но хитотати игнорируют 60% от защиты противника.",
       "id": "Saat menggunakan Musou no Hitotachi dan berada dalam status Musou Isshin yang diperoleh dari skill <color=#FFD780FF>Secret Art: Musou Shinsetsu</color>, serangan Raiden Shogun akan mengabaikan 60% DEF musuh.",
       "th": "การโจมตีของโชกุน Raiden ที่อยู่ภายใต้สภาวะ Musou no Hitotachi และ Musou Isshin ของ <color=#FFD780FF>Secret Art: Musou Shinsetsu</color> จะไม่สนใจพลังป้องกัน 60% ของศัตรู",
@@ -93,7 +93,7 @@
       "pt": "Aumenta o Nível de <color=#FFD780FF>Arte Secreta: Musou Shinsetsu</color> em 3.\nO nível máximo de elevação é 15.",
       "ru": "Увеличивает уровень навыка <color=#FFD780FF>Тайное искусство: Мусо синсэцу</color> на 3.\nМакс. уровень: 15",
       "id": "Meningkatkan 3 level <color=#FFD780FF>Secret Art: Musou Shinsetsu</color>.\nMaksimum: Lv. 15.",
-      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Secret Art: Musou Shinsetsu</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Secret Art: Musou Shinsetsu</color> ขึ้น 3 ระดับ\nเพิ่มได้สูงสุดถึงระดับ 15",
       "vi": "Cấp kỹ năng <color=#FFD780FF>Bí Kỹ - Mộng Tưởng Chân Thuyết</color> +3.\nTăng tối đa đến cấp 15."
     },
     "imgid": "constellation_3"
@@ -159,7 +159,7 @@
       "pt": "Aumenta o Nível de <color=#FFD780FF>Milagre: Luz Maligna</color> em 3.\nO nível máximo de elevação é 15.",
       "ru": "Увеличивает уровень навыка <color=#FFD780FF>Превосходство: Зловещее знамение</color> на 3.\nМакс. уровень: 15",
       "id": "Meningkatkan 3 level <color=#FFD780FF>Transcendence: Baleful Omen</color>.\nMaksimum: Lv. 15.",
-      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Transcendence: Baleful Omen</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Transcendence: Baleful Omen</color> ขึ้น 3 ระดับ\nเพิ่มได้สูงสุดถึงระดับ 15",
       "vi": "Cấp kỹ năng <color=#FFD780FF>Thần Biến - Ánh Chớp Tà Ác</color> +3.\nTăng tối đa đến cấp 15."
     },
     "imgid": "constellation_5"
@@ -190,7 +190,7 @@
       "es": "Cuando la Shogun Raiden está bajo los efectos de <color=#FFD780FF>mente onírica</color> activados mediante <color=#FFD780FF>Técnica secreta: Verdad onírica</color>, los ataques que realice ella y que se consideren daño de Habilidad Definitiva reducen en 1 s el TdE de la Habilidad Definitiva de todos los miembros del equipo cercanos (a excepción de la Shogun Raiden).\nEste efecto solo puede ocurrir una vez cada 1 s y activarse un máximo de 5 veces mientras dure este estado.",
       "fr": "Lorsqu'elles bénéficient de l'état d'<color=#FFD780FF>Harmonie d'idéal</color> accordé par <color=#FFD780FF>Art secret : Dogme d'idéal</color>, les attaques de la Shogun Raiden qui sont considérées comme faisant partie de son déchaînement élémentaire diminuent le TdR des déchaînements élémentaires de tous les membres de l'équipe à proximité (hormis la Shogun Raiden) de 1 s.\nCet effet peut être déclenché une fois toutes les secondes, et un maximum de 5 fois pendant la durée de cet état.",
       "pt": "Durante o estado de <color=#FFD780FF>Musou Isshin</color> aplicado pela <color=#FFD780FF>Arte Secreta: Musou Shinsetsu</color>, quando o Supremo da Shogun Raiden atinge um inimigo irá reduzir o Tempo de Recarga do Supremo de todos os membros de equipe próximos em 1s (exceto o da própria Shogun Raiden).\nEste efeito pode ser desencadeado uma vez a cada 1s, e pode ser desencadeado em um total de 5 vezes durante a duração deste estado.",
-      "ru": "В состоянии <color=#FFD780FF>Мусо иссин</color> навыка <color=#FFD780FF>Тайное искусство: Мусо синсэцу</color> атаки сёгуна Райдэн, урон которых считается уроном взрыва стихии, при попадании уменьшают время отката взрывов стихии всех окружающих членов отряда (кроме самого сёгуна Райдэн) уменьшается на 1 сек.\nЭтот эффект может активироваться только раз в 1 сек. до 5 раз за время действия состояния Мусо иссин.",
+      "ru": "В состоянии <color=#FFD780FF>Мусо иссин</color> навыка <color=#FFD780FF>Тайное искусство: Мусо синсэцу</color> атаки сёгуна Райдэн, урон которых считается уроном взрыва стихии, при попадании уменьшают время отката взрывов стихии всех окружающих членов отряда (кроме самого сёгуна Райдэн) на 1 сек.\nЭтот эффект может активироваться только раз в 1 сек. до 5 раз за время действия состояния Мусо иссин.",
       "id": "Saat berada dalam status <color=#FFD780FF>Musou Isshin</color> yang diperoleh dari <color=#FFD780FF>Secret Art: Musou Shinsetsu</color>, DMG Elemental Burst Raiden Shogun yang mengenai musuh akan mengurangi 1 detik CD Elemental Burst seluruh anggota party di sekitar (kecuali Raiden Shogun sendiri).\nEfek ini dapat terpicu setiap 1 detik, dan dapat terpicu maksimum 5 kali selama durasi status.",
       "th": "เมื่ออยู่ภายใต้สถานะ <color=#FFD780FF>Musou Isshin</color> ที่ปล่อยโดย <color=#FFD780FF>Secret Art: Musou Shinsetsu</color> เมื่อท่าไม้ตายของโชกุน Raiden ถูกศัตรู จะทำให้ช่วงเวลาคูลดาวน์ของท่าไม้ตาย ของตัวละครทั้งหมดในทีม (ไม่รวมตัวของโชกุน Raiden เอง) ที่อยู่ในบริเวณใกล้เคียงลดลง 1 วินาที\nเอฟเฟกต์ดังกล่าวสามารถเกิดขึ้นได้มากสุดหนึ่งครั้ง ในทุก 1 วินาที และภายในช่วงเวลาต่อเนื่อง จะสามารถเกิดขึ้นได้มากสุด 5 ครั้ง",
       "vi": "Khi trong trạng thái <color=#FFD780FF>Mộng Tưởng Nhất Tâm</color> của <color=#FFD780FF>Bí Kỹ - Mộng Tưởng Chân Thuyết</color>, sát thương Kỹ Năng Nộ của Raiden Shogun trúng kẻ địch sẽ giảm 1s CD Kỹ Năng Nộ của tất cả nhân vật trong đội ở gần đó (Không bao gồm Raiden Shogun).\nHiệu quả này mỗi giây tối đa kích hoạt 1 lần, trong thời gian duy trì tối đa kích hoạt 5 lần."

@@ -2640,6 +2640,26 @@
     }
   },
   {
+    "url": "bow/fallensun",
+    "type": "bow",
+    "rank": 4,
+    "name": {
+      "zhs": "落霞",
+      "zht": "落霞",
+      "jp": "落霞",
+      "ko": "노을",
+      "en": "Fading Twilight",
+      "de": "Ausklingende Dämmerung",
+      "es": "Desvanecimiento del Crepúsculo",
+      "fr": "Crépuscule couchant",
+      "pt": "Crepúsculo Desvanecido",
+      "ru": "Гаснущие сумерки",
+      "id": "Fading Twilight",
+      "th": "Fading Twilight",
+      "vi": "Lạc Hà"
+    }
+  },
+  {
     "url": "bow/nachtblind",
     "type": "bow",
     "rank": 4,
@@ -2877,6 +2897,26 @@
       "id": "Polar Star",
       "th": "Polar Star",
       "vi": "Ngôi Sao Cực Đông"
+    }
+  },
+  {
+    "url": "bow/kirin",
+    "type": "bow",
+    "rank": 5,
+    "name": {
+      "zhs": "若水",
+      "zht": "若水",
+      "jp": "若水",
+      "ko": "약수",
+      "en": "Aqua Simulacra",
+      "de": "Aqua Simulacra",
+      "es": "Aqua Simulacra",
+      "fr": "Simulacre d'eau",
+      "pt": "Aqua Simulacra",
+      "ru": "Аква симулякрум",
+      "id": "Aqua Simulacra",
+      "th": "Aqua Simulacra",
+      "vi": "Nhược Thủy"
     }
   },
   {

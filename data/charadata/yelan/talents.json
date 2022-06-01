@@ -1,0 +1,194 @@
+[
+  {
+    "title": {
+      "zhs": "普通攻击·潜形隐曜弓",
+      "zht": "普通攻擊·潛形隱曜弓",
+      "jp": "通常攻撃·匿影隠曜の弓",
+      "ko": "일반 공격·빛을 감춘 활",
+      "en": "Normal Attack: Stealthy Bowshot",
+      "de": "Standardangriff: Bogen der Unterströmung",
+      "es": "Ataque Normal: Flecha subrepticia",
+      "fr": "Attaque normale : Sagette furtive",
+      "pt": "Ataque Normal: Flecha Oculta",
+      "ru": "Незаметная стрела",
+      "id": "Normal Attack: Stealthy Bowshot",
+      "th": "โจมตีปกติ: Stealthy Bowshot",
+      "vi": "Tấn Công Thường - Mũi Tên Lén Lút"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>普通攻击</color>\n进行至多四段的连续弓箭射击。\n\n<color=#FFD780FF>重击</color>\n进行伤害更高、更为精准的<color=#FFD780FF>瞄准射击</color>。\n瞄准时，流水会在箭矢上持续积聚。聚满了激流的箭矢会造成<color=#80C0FFFF>水元素伤害</color>。\n\n<color=#FFD780FF>破局</color>\n脱离战斗状态5秒后，夜兰将获得「破局」状态，使下一次满蓄力瞄准射击所需的蓄力时间减少80%，并将在满蓄力时转为发射「破局矢」。破局矢将基于夜兰的生命值上限造成<color=#80C0FFFF>水元素范围伤害</color>。\n\n<color=#FFD780FF>下落攻击</color>\n从空中射出箭雨，并迅速下坠冲击地面，在落地时造成范围伤害。",
+      "zht": "<color=#FFD780FF>普通攻擊</color>\n進行至多四段的連續弓箭射擊。\n\n<color=#FFD780FF>重擊</color>\n進行傷害更高、更為精準的<color=#FFD780FF>瞄準射擊</color>。\n瞄準時，流水會在箭矢上持續積聚。聚滿了激流的箭矢會造成<color=#80C0FFFF>水元素傷害</color>。\n\n<color=#FFD780FF>破局</color>\n脫離戰鬥狀態5秒後，夜蘭將獲得「破局」狀態，使下一次滿蓄力瞄準射擊所需的蓄力時間減少80%，並將在滿蓄力時改為發射「破局矢」，破局矢將根據夜蘭的生命值上限造成<color=#80C0FFFF>水元素範圍傷害</color>。\n\n<color=#FFD780FF>下落攻擊</color>\n從空中射出箭雨，並迅速下墜衝擊地面，在落地時造成範圍傷害。",
+      "jp": "<color=#FFD780FF>通常攻撃</color>\n最大4段の連続射撃を行う。\n\n<color=#FFD780FF>重撃</color>\nダメージがより高く、より精確な<color=#FFD780FF>狙い撃ち</color>を発動する。\n照準時、流水を矢先に凝集させ、激流に満ちた矢で敵に<color=#80C0FFFF>水元素ダメージ</color>を与える。\n\n<color=#FFD780FF>打破</color>\n戦闘状態が解除されてから5秒経過すると「打破」状態に入り、次のフルチャージ狙い撃ちのチャージ時間-80%、かつフルチャージ時に「打破の矢」を放ち、夜蘭のHP上限を基準に<color=#80C0FFFF>水元素範囲ダメージ</color>を与える。\n\n<color=#FFD780FF>落下攻撃</color>\n空中から矢の雨を放ち、凄まじいスピードで落下し地面に衝撃を与え、落下時に範囲ダメージを与える。",
+      "ko": "<color=#FFD780FF>일반 공격</color>\n활로 최대 4번 공격한다.\n\n<color=#FFD780FF>강공격</color>\n더 강력하고 정확한 <color=#FFD780FF>조준 사격</color>을 한다.\n조준 시 흐르는 물이 화살 촉에 모이고, 격류가 가득 찬 화살은 <color=#80C0FFFF>물 원소 피해</color>를 준다.\n\n<color=#FFD780FF>타파</color>\n전투 이탈 후 5초 뒤 야란이 「타파」 상태를 획득해, 다음 풀차지 조준 사격에 필요한 차지 시간이 80% 감소한다. 또한 풀차지로 「타파의 화살」 발사 시, 야란의 HP 최대치에 따라 <color=#80C0FFFF>물 원소 범위 피해</color>를 준다.\n\n<color=#FFD780FF>낙하 공격</color>\n공중에서 화살비를 쏜 후 빠른 속도로 땅에 착지한다. 착지 시 범위 피해를 준다",
+      "en": "<color=#FFD780FF>Normal Attack</color>\nPerforms up to 4 consecutive shots with a bow.\n\n<color=#FFD780FF>Charged Attack</color>\nPerform a more precise <color=#FFD780FF>Aimed Shot</color> with increased DMG.\nWhile aiming, flowing water will accumulate on the arrowhead. A fully charged torrential arrow will deal <color=#80C0FFFF>Hydro DMG</color>.\n\n<color=#FFD780FF>Breakthrough</color>\nYelan will enter a \"Breakthrough\" state after spending 5s out of combat, which will cause her next Charged Aimed Shot to have 80% decreased charge time, and once charged, she can fire a \"Breakthrough Barb\" that will deal <color=#80C0FFFF>AoE Hydro DMG</color> based on Yelan's Max HP.\n\n<color=#FFD780FF>Plunging Attack</color>\nFires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.",
+      "de": "<color=#FFD780FF>Standardangriff</color>\nFührt bis zu 4 Pfeilschüsse hintereinander aus.\n\n<color=#FFD780FF>Heftiger Schlag</color>\nFührt einen <color=#FFD780FF>gezielten Schuss</color> mit höherem Schaden und höherer Genauigkeit aus.\nKonzentriert das fließende Wasser während des Zielens an der Pfeilspitze, die voll aufgeladen <color=#80C0FFFF>Hydro-Schaden</color> verursacht.\n\n<color=#FFD780FF>Durchstoß</color>\n5 s nach dem Verlassen des Kampfes erhält Yelan den Zustand „Durchstoß“, der die Aufladedauer beim nächsten voll aufgeladenen gezielten Schuss um 80 % verringert und den Pfeil beim Schießen des voll aufgeladenen Schusses in einen „Durchstoßpfeil“ verwandelt, der basierend auf Yelans max. LP <color=#80C0FFFF>Hydro-Flächenschaden</color> verursacht.\n\n<color=#FFD780FF>Angriff aus dem Fall</color>\nSchießt in der Luft einen Pfeilregen ab, trifft schnell auf dem Boden auf und verursacht dort Flächenschaden.",
+      "es": "<color=#FFD780FF>Ataque Normal</color>\nRealiza hasta 4 disparos consecutivos con arco.\n\n<color=#FFD780FF>Ataque Cargado</color>\nRealiza un <color=#FFD780FF>Disparo Preciso</color> que inflige mayor daño y tiene mayor precisión.\nAl apuntar, un flujo de agua se acumulará en la punta de la flecha. Una flecha torrencial totalmente cargada infligirá <color=#80C0FFFF>Daño Hydro</color>.\n\n<color=#FFD780FF>Irrupción</color>\nCuando el equipo está 5 s fuera de combate, Yelan entra en el estado de “irrupción”, en el que el tiempo de carga de su siguiente Disparo Preciso totalmente cargado se reduce en un 80%. Una vez cargado, el disparo se convertirá en una flecha irruptora que inflige <color=#80C0FFFF>Daño Hydro en el AdE</color> en proporción a la Vida Máx. de Yelan.\n\n<color=#FFD780FF>Ataque Descendente</color>\nDispara una lluvia de flechas desde el aire mientras desciende rápidamente, infligiendo Daño en el AdE al impactar contra el suelo.",
+      "fr": "#<color=#FFD780FF>Attaque normale</color>\nEnchaîne jusqu'à 4 tirs consécutifs.\n\n<color=#FFD780FF>Attaque chargée</color>\nEffectue un <color=#FFD780FF>tir visé</color> plus précis infligeant davantage de DGT.\nLors de la visée, la flèche se charge de flux d'eau, infligeant des <color=#80C0FFFF>DGT Hydro</color> quand elle est complètement chargée.\n\n<color=#FFD780FF>Percée</color>\nSi l'équipe est hors combat pendant 5{NON_BREAK_SPACE}s, Yelan entre dans un état de Percée permettant de diminuer le temps de charge de son prochain tir visé de 80{NON_BREAK_SPACE}%, et une fois le tir complètement chargé, elle peut tirer une flèche perçante qui inflige des <color=#80C0FFFF>DGT Hydro de zone</color> selon ses PV max.\n\n<color=#FFD780FF>Attaque plongeante</color>\nTire une pluie de flèches depuis les airs et plonge au sol, infligeant des DGT de zone à l'impact.",
+      "pt": "<color=#FFD780FF>Ataque Normal</color>\nRealiza até quatro disparos consecutivos com o arco.\n\n<color=#FFD780FF>Ataque Carregado</color>\nRealiza um <color=#FFD780FF>disparo com mira</color> de maior dano e precisão.\nAo mirar, o fluxo de água acumulará continuamente na ponta da flecha. Quando a flecha estiver totalmente carregada com esse fluxo torrencial, infligirá <color=#80C0FFFF>Dano Hydro</color>.\n<color=#FFD780FF>Ruptura</color>\nDepois de 5s fora do campo de batalha, Yelan entra no estado \"Ruptura\", no qual o carregamento de seu próximo Disparo com Mira terá seu tempo necessário reduzido em 80%, e quando estiver totalmente carregado, ela disparará a sua \"Flecha da Ruptura\", que infligirá <color=#80C0FFFF>Dano Hydro em AdE</color> baseado em sua Vida Máxima.\n\n<color=#FFD780FF>Ataque Imersivo</color>\nDispara uma chuva de flechas em pleno ar antes de atingir o chão, infligindo Dano em uma AdE durante o impacto.",
+      "ru": "<color=#FFD780FF>Обычная атака</color>\nДо четырёх выстрелов из лука подряд.\n\n<color=#FFD780FF>Заряженная атака</color>\nБолее меткий <color=#FFD780FF>прицельный выстрел</color> с увеличенным уроном.\nВо время прицеливания наконечник стрелы заряжается водным потоком. Полностью заряженная стрела наносит <color=#80C0FFFF>Гидро урон</color>.\n<color=#FFD780FF>Прорыв</color>\nЧерез 5 сек. вне боя Е Лань входит в состояние Прорыва, которое сокращает время зарядки её следующего полностью заряженного прицельного выстрела на 80%. После полной зарядки она выстрелит Прорывной стрелой, которая наносит <color=#80C0FFFF>Гидро урон по площади</color>, зависящий от макс. HP Е Лань.\n\n<color=#FFD780FF>Атака в падении</color>\nВыпускает град стрел в воздухе, которые при приземлении персонажа наносят урон по площади.",
+      "id": "<color=#FFD780FF>Normal Attack</color>\nMelancarkan hingga 4 serangan berturut-turut menggunakan busur.\n\n<color=#FFD780FF>Charged Attack</color>\nMelancarkan sebuah <color=#FFD780FF>Serangan Membidik</color> yang lebih akurat untuk mengakibatkan DMG lebih besar.\nSaat membidik, air yang mengalir akan berkumpul di ujung anak panah. Setelah terkumpul penuh, anak panah yang diluncurkan akan mengakibatkan <color=#80C0FFFF>Hydro DMG</color>.\n\n<color=#FFD780FF>Breakthrough</color>\nSetelah keluar dari medan tempur selama 5 detik Yelan akan memasuki kondisi \"Breakthrough\", dalam kondisi ini waktu charge untuk Serangan Membidik-nya akan berkurang 80% dan saat dilancarkan, Yelan akan menembakkan \"Breakthrough Barb\" yang mengakibatkan <color=#80C0FFFF>Hydro DMG Area</color> berdasarkan Max HP Yelan.\n\n<color=#FFD780FF>Plunging Attack</color>\nMelancarkan hujan panah dari udara dan menerjang tanah dengan kecepatan tinggi, mengakibatkan DMG Area saat mendarat.",
+      "th": "<color=#FFD780FF>โจมตีปกติ</color>\nยิงธนูโจมตีอย่างต่อเนื่องมากสุด 4 ครั้ง\n\n<color=#FFD780FF>ชาร์จโจมตี</color>\nการ<color=#FFD780FF>เล็งโจมตี</color>สร้างความเสียหายเพิ่มขึ้น และแม่นยำยิ่งขึ้น\nเมื่อเล็งโจมตีจะทำการรวบรวมกระแสน้ำไว้บนหัวลูกศร ซึ่งลูกศรที่รวบรวมกระแสน้ำจนเต็ม จะทำให้เกิด<color=#80C0FFFF>ความเสียหายน้ำ</color>\n\n<color=#FFD780FF>Breakthrough</color>\nหลังออกจากสถานะต่อสู้ 5 วินาที Yelan จะได้รับสถานะ \"Breakthrough\" ซึ่งจะทำให้ช่วงเวลาที่ต้องใช้ในการชาร์จให้เต็ม เพื่อเล็งโจมตีครั้งต่อไปลดลง 80% และจะทำให้การชาร์จที่เต็มแล้วเปลี่ยนเป็นการยิง \"Breakthrough Barb\" ออกไป โดยที่ Breakthrough Barb จะสร้าง<color=#80C0FFFF>ความเสียหายน้ำวงกว้าง</color>ที่มีความแรงขึ้นกับพลังชีวิตสูงสุดของ Yelan\n\n<color=#FFD780FF>โจมตีพุ่งลงจากอากาศ</color>\nปล่อยฝนธนูจากกลางอากาศ และพุ่งลงมายังพื้นดินอย่างรวดเร็ว โดยจะสร้างความเสียหายวงกว้างเมื่อลงถึงพื้น",
+      "vi": "<color=#FFD780FF>Tấn Công Thường</color>\nThực hiện tối đa 4 lần bắn tên liên tiếp.\n\n<color=#FFD780FF>Trọng Kích</color>\n<color=#FFD780FF>Ngắm bắn</color> gây sát thương cao hơn và chính xác hơn.\nKhi ngắm bắn, thủy lưu sẽ tích tụ liên tục trên mũi tên. Mũi tên tích đầy thủy lưu sẽ gây <color=#80C0FFFF>Sát Thương Nguyên Tố Thủy</color>.\n\n<color=#FFD780FF>Phá Trận</color>\nSau khi rời khỏi chiến đấu 5s, Yelan sẽ nhận được trạng thái \"Phá Trận\", thời gian tụ lực ngắm bắn lần sau giảm 80%, đồng thời sẽ bắn ra \"Mũi Tên Phá Trận\", gây <color=#80C0FFFF>Sát Thương Phạm Vi Nguyên Tố Thủy</color> dựa trên giới hạn HP của Yelan.\n\n<color=#FFD780FF>Tấn Công Khi Đáp</color>\nBắn mưa tên liên tiếp xuống mặt đất, đồng thời lao nhanh xuống đất và gây sát thương phạm vi khi chạm đất."
+    }
+  },
+  {
+    "title": {
+      "zhs": "萦络纵命索",
+      "zht": "縈絡縱命索",
+      "jp": "絡み合う命の糸",
+      "ko": "뒤얽힌 생명줄",
+      "en": "Lingering Lifeline",
+      "de": "Seil der Todesbotin",
+      "es": "Atadura salvavidas",
+      "fr": "Ligne vitale persistante",
+      "pt": "Rede da Vida Salvadora",
+      "ru": "Переплетённая нить жизни",
+      "id": "Lingering Lifeline",
+      "th": "Lingering Lifeline",
+      "vi": "Dây Sinh Mệnh Quanh Quẩn"
+    },
+    "description": {
+      "zhs": "牵引「络命丝」疾走，缠络标记途径的敌人。\n疾走结束时，「络命丝」将会爆发，基于夜兰的生命值上限，对标记的敌人造成<color=#80C0FFFF>水元素伤害</color>。\n\n<color=#FFD780FF>点按</color>\n快速向前疾走一段距离。\n\n<color=#FFD780FF>长按</color>\n持续疾走，并在该状态下提高夜兰的抗打断能力。\n期间，夜兰可以控制疾走的方向，并能通过再次施放技能，提前结束疾走状态。\n\n此外，「络命丝」爆发时，依照标记敌人的数量，夜兰将有概率获得「破局」状态：每个标记的敌人能使概率提升34%。\n\n<i>直到她钩指扯线，恶党贼寇之辈、阴谋诡计之徒才会发现，自己已是在劫难逃。</i>",
+      "zht": "牽引「絡命絲」疾走，纏絡標記途徑的敵人。\n疾走結束時，「絡命絲」將會爆發，基於夜蘭的生命值上限，對標記的敵人造成<color=#80C0FFFF>水元素傷害</color>。\n\n<color=#FFD780FF>點按</color>\n快速向前疾走一段距離。\n\n<color=#FFD780FF>長按</color>\n持續疾走，並在該狀態下提高夜蘭的抗打斷能力。\n期間，夜蘭可以控制疾走的方向，並能透過再次施放技能，提前結束疾走狀態。\n\n此外，「絡命絲」爆發時，依照標記敵人的數量，夜蘭將有機率獲得「破局」狀態：每個標記的敵人能使機率提升34%。\n\n<i>直到她勾指扯線，惡黨賊寇之輩、陰謀詭計之徒才會發現，自己已是在劫難逃。</i>",
+      "jp": "「命の糸」を引きながら疾走し、経路上の敵を絡めてマークする。\n疾走終了時、「命の糸」は爆発し、夜蘭のHP上限を基準に<color=#80C0FFFF>水元素ダメージ</color>をマークした敵に与える。\n\n<color=#FFD780FF>一回押し</color>\n驚異的なスピードで疾走し、前方へと一定距離移動する。\n\n<color=#FFD780FF>長押し</color>\n疾走を続け、かつ本状態中は中断耐性をアップさせる。\n継続時間中、夜蘭は進行方向を変えることができる。再び発動すると疾走状態を早期に終了できる。\n\nまた、「命の糸」が爆発する際、マークした敵1体につき、夜蘭が「打破」状態に入る確率が34%アップする。\n\n<i>彼女が糸に指を掛け、それを引いた時、陰謀を企てる悪党や賊たちは、初めて自分の定められた運命に気付く。</i>",
+      "ko": "「생명의 실」을 이끌고 질주해 경로에 있는 적을 옭아맨다.\n질주가 끝나면 「생명의 실」이 폭발하며 야란의 HP 최대치에 따라 표시된 적에게 <color=#80C0FFFF>물 원소 피해</color>를 준다.\n\n<color=#FFD780FF>짧은 터치</color>\n빠르게 전방으로 일정 거리를 질주한다.\n\n<color=#FFD780FF>홀드</color>\n계속 질주한다, 해당 상태의 야란의 경직 저항력이 상승한다.\n발동하는 동안 야란은 대시 방향을 제어할 수 있으며 다시 스킬을 시전해 질주 상태를 조기 종료할 수 있다.\n\n또한, 「생명의 실」 폭발 시, 표시된 적의 수량에 따라 야란이 일정 확률로 「타파」 상태를 획득한다: 표시된 적마다 획득 확률이 34% 증가한다.\n\n<i>그녀가 손가락으로 실을 잡아당기는 순간, 악당과 도적들, 음모를 꾸민 자들은 이미 도망갈 수 없음을 깨닫게 될 것이다</i>",
+      "en": "Fires off a Lifeline that allows her to move rapidly, entangling and marking opponents along its path.\nWhen this rapid movement ends, the Lifeline will explode, dealing <color=#80C0FFFF>Hydro DMG</color> to the marked opponents based on Yelan's Max HP.\n\n<color=#FFD780FF>Tap</color>\nMoves a certain distance forward swiftly.\n\n<color=#FFD780FF>Hold</color>\nEngages in continuous, swift movement, during which Yelan's resistance to interruption is increased.\nDuring this time, Yelan can control this rapid movement and end it by using this Skill again.\n\nAdditionally, each opponent marked by the Lifeline when it explodes grants Yelan a 34% chance to reset her Breakthrough state.\n\n<i>Not until she begins to tug on the strings do evildoers, crooks, and scheming villains alike know that there is no escape.</i>",
+      "de": "Yelan bewegt sich schnell mit ihrem „todbringenden Seil“ in der Hand, das alle Gegner in ihrer Bahn verknüpft und markiert.\nNach der schnellen Bewegung explodiert das „todbringende Seil“, wobei es den markierten Gegnern <color=#80C0FFFF>Hydro-Schaden</color> basierend auf Yelans max. LP zufügt.\n\n<color=#FFD780FF>Einmaliges Drücken</color>\nBewegt sich schnell ein Stück nach vorn.\n\n<color=#FFD780FF>Gedrückt halten</color>\nBewegt sich schnell und fortlaufend und erhöht in diesem Zustand Yelans Unterbrechungs-WDS.\nWährend dieser Zeit kann Yelan die Richtung ihrer Bewegung steuern und diesen Zustand durch erneutes Auslösen der Fähigkeit vorzeitig beenden.\n\nDarüber hinaus erhält Yelan bei der Explosion des „todbringenden Seils“ mit gewisser Wahrscheinlichkeit gemäß der Anzahl der markierten Gegner den Zustand „Durchstoß“: Erhöht für jeden markierten Gegner die Wahrscheinlichkeit um 34 %.\n\n<i>Erst in dem Moment, wenn sie mit ihrem Finger das Seil zieht, sind sich die skrupellosen Banditen und listigen Übeltäter bewusst, dass sie sich in dem Netz der Todesbotin verfangen haben.</i>",
+      "es": "#Saca una cuerda salvavidas y corre a gran velocidad para atársela a los enemigos a su paso y marcarlos.\nAl terminar el movimiento, la cuerda explotará para infligir <color=#80C0FFFF>Daño Hydro</color> contra los enemigos marcados en proporción a la Vida Máx. de Yelan.\n\n<color=#FFD780FF>{LAYOUT_MOBILE#Un toque}{LAYOUT_PC#Pulsar una vez}{LAYOUT_PS#Pulsar una vez}</color>\nRecorre rápidamente cierta distancia hacia delante.\n\n<color=#FFD780FF>Mantener pulsado</color>\nCorre continuamente a gran velocidad. En este estado, la RES a interrupción de Yelan aumenta.\nMientras lo hace, Yelan puede controlar la dirección en la que esprinta y, al volver a {LAYOUT_MOBILE#tocar una vez}{LAYOUT_PC#pulsar una vez}{LAYOUT_PS#pulsar una vez} la habilidad, terminará de correr.\n\nAdemás, cuando la cuerda salvavidas explota, por cada enemigo marcado aumentará en un 34% la probabilidad de que Yelan entre en el estado de irrupción.\n\n<i>Cuando tira de los hilos es cuando los bandidos, malhechores y conspiradores se dan cuenta de que, por el bien de sus vidas, deben huir.</i>",
+      "fr": "Tire une ligne vitale et court à grande vitesse, enchevêtrant et marquant les ennemis sur son chemin.\nÀ la fin du déplacement, la ligne vitale explose, infligeant des <color=#80C0FFFF>DGT Hydro</color> aux ennemis marqués selon les PV max de Yelan.\n\n<color=#FFD780FF>Appui simple</color>\nAvance rapidement sur une certaine distance.\n\n<color=#FFD780FF>Appui long</color>\nAvance rapidement de façon continue, tout en augmentant la RÉS à l'interruption de Yelan pendant son mouvement.\nPendant ce déplacement, Yelan peut contrôler la direction de sa course et peut s'arrêter en utilisant à nouveau la compétence.\n\nDe plus, chaque ennemi marqué par la ligne vitale lorsqu'elle explose accorde à Yelan 34 % de chances d'obtenir un état de Percée.\n\n<i>Ce n'est que lorsqu'elle commence à tirer sur la corde que les malfaiteurs, les escrocs et les tricheurs se rendent compte qu'il n'y a pas d'échappatoire...</i>",
+      "pt": "Tira seu \"Fio da Vida\" e corre, marcando os inimigos no caminho.\nQuando termina de correr, o \"Fio da Vida\" explodirá e infligirá <color=#80C0FFFF>Dano Hydro</color> contra os inimigos marcados baseado na Vida Máxima de Yelan.\n\n<color=#FFD780FF>Pressionar</color>\nCorre uma certa distância para frente rapidamente.\n\n<color=#FFD780FF>Manter Pressionado</color>\nCorre continuamente e aumenta a Resistência Contra Interrupção de Yelan enquanto estiver nesse estado.\nNesse período, Yelan poderá controlar a direção que corre. Lançar sua habilidade mais uma vez fará com que sua corrida termine.\n\nAlém disso, quando o \"Fio da Vida\" explode, Yelan possui uma chance de obter o efeito \"Ruptura\" de acordo com o número de inimigos marcados: cada inimigo marcado aumenta essa chance em 34%.\n\n<i>Quando ela captura com seus fios, os grupos de malfeitores e os discípulos de artimanhas conspiratórias serão todos descobertos, e todos sabem que não há mais escapatória</i>.",
+      "ru": "Быстро движется и стреляет Нитью жизни, которая запутывает и отмечает противников на своём пути.\nПосле окончания движения Нить жизни взрывается, нанося отмеченным противникам <color=#80C0FFFF>Гидро урон</color>, который зависит от макс. HP Е Лань. \n\n<color=#FFD780FF>Быстрое нажатие</color>\nБыстро продвигается вперёд на определённое расстояние.\n\n<color=#FFD780FF>Долгое нажатие</color>\nСтремительно движется некоторое время, а её сопротивление прерыванию в этом состоянии повышается.\nЕ Лань может контролировать направление движения. При повторном использовании навыка движение прекращается.\n\nКаждый противник, отмеченный Нитью жизни, даёт Е Лань 34% шанс на получение Прорыва при взрыве.\n\n<i>Только когда она начинает дёргать за ниточки, коварные злодеи и подлые разбойники понимают, что спасения нет.</i>",
+      "id": "Menembakkan Lifeline yang menariknya dengan cepat, menjerat dan menandai musuh di sepanjang jalurnya\nSaat gerakannya yang cepat berakhir, Lifeline akan meledak, mengakibatkan <color=#80C0FFFF>Hydro DMG</color> pada musuh yang telah ditandai berdasarkan Max HP Yelan.\n\n<color=#FFD780FF>Tekan</color>\nPindah maju ke depan dalam jarak tertentu dengan cepat.\n\n<color=#FFD780FF>Tahan</color>\nPindah maju ke depan dengan cepat secara terus menerus. Selama Yelan melakukan gerakan tersebut, ketahanannya terhadap interupsi akan meningkat.\nSelama waktu tersebut juga, Yelan dapat mengontrol arah sprint-nya dan mengakhiri gerakan cepatnya dengan menggunakan Skill ini lagi.\n\nLalu, setiap musuh yang ditandai oleh Lifeline dan meledak, akan memberikan 34% kesempatan pada Yelan untuk memasuki kembali kondisi Breakthrough.\n\n<i>Di saat Yelan mulai menarik benangnya, maka pada saat itulah para pelaku kejahatan, penjahat kejam, dan penjahat licik akhirnya tahu bahwa mereka tidak punya jalan keluar untuk kabur.</i>",
+      "th": "#ลาก \"Lifeline\" ออกมาและเคลื่อนที่อย่างรวดเร็ว เพื่อพัวพันและทำสัญลักษณ์ใส่ศัตรูที่อยู่ในเส้นทาง\nเมื่อการเคลื่อนที่อย่างรวดเร็วสิ้นสุดลง Lifeline จะระเบิด และสร้าง<color=#80C0FFFF>ความเสียหายน้ำ</color>โดยขึ้นกับค่าพลังชีวิตสูงสุดของ Yelan แก่ศัตรูที่ถูกทำสัญลักษณ์\n\n<color=#FFD780FF>{LAYOUT_MOBILE#แตะ}{LAYOUT_PC#กด}{LAYOUT_PS#กด}</color>\nเคลื่อนที่ไปข้างหน้าเป็นระยะทางประมาณหนึ่งอย่างรวดเร็ว\n\n<color=#FFD780FF>{LAYOUT_MOBILE#แตะค้าง}{LAYOUT_PC#กดค้าง}{LAYOUT_PS#กดค้าง}</color>\nเคลื่อนที่อย่างรวดเร็วและต่อเนื่อง โดยภายใต้สภาวะนี้ ความสามารถในการต้านทานการหยุดชะงักของ Yelan จะเพิ่มขึ้น\nระหว่างช่วงเวลานี้ Yelan สามารถควบคุมทิศทางในการเคลื่อนที่อย่างรวดเร็ว และจะสามารถหยุดสถานะการเคลื่อนที่อย่างรวดเร็วล่วงหน้าได้ ด้วยการใช้สกิลนี้อีกครั้ง\n\nนอกจากนี้ เมื่อ Lifeline ระเบิด Yelan จะมีโอกาสที่จะได้รับสถานะ Breakthrough โดยจะขึ้นอยู่กับจำนวนของศัตรูที่ถูกทำสัญลักษณ์: ศัตรูแต่ละตัวที่ถูกทำสัญลักษณ์ จะสามารถเพิ่มโอกาสขึ้นได้ 34%\n\n<i>จนกระทั่งเธอเกี่ยวนิ้วและดึงสายเอ็น เหล่าวายร้ายและผู้สมรู้ร่วมคิดจึงตระหนักได้ว่า ไม่เหลือหนทางให้หนีอีกต่อไปแล้ว</i>",
+      "vi": "Kéo theo \"Lạc Mệnh Tơ\" di chuyển, đánh dấu kẻ địch trên đường.\nSau khi kết thúc di chuyển, \"Lạc Mệnh Tơ\" sẽ phát nổ, gây <color=#80C0FFFF>Sát Thương Nguyên Tố Thủy</color> lên kẻ địch đã đánh dấu dựa trên giới hạn HP của Yelan.\n\n<color=#FFD780FF>Nhấn</color>\nDi chuyển nhanh về phía trước.\n\n<color=#FFD780FF>Nhấn giữ</color>\nDi chuyển liên tục, tăng kháng gián đoạn cho Yelan trong trạng thái này.\nTrong lúc đó, Yelan có thể điều khiển hướng di chuyển, đồng thời có thể thi triển kỹ năng lần nữa để kết thúc sớm trạng thái này.\n\nNgoài ra, khi \"Lạc Mệnh Tơ\" phát nổ sẽ căn cứ vào số lượng kẻ địch bị đánh dấu mà Yelan có tỉ lệ nhận trạng thái \"Phá Trận\" khác nhau: Mỗi kẻ địch đánh dấu sẽ khiến tỉ lệ tăng 34%.\n\n<i>Cho đến khi giật dây thì những kẻ thủ ác mới biết được bản thân khó mà thoát được.</i>"
+    }
+  },
+  {
+    "title": {
+      "zhs": "渊图玲珑骰",
+      "zht": "淵圖玲瓏骰",
+      "jp": "深謀玲瓏賽",
+      "ko": "심오하고 영롱한 주사위",
+      "en": "Depth-Clarion Dice",
+      "de": "Würfel des Strategems",
+      "es": "Dado clarividente",
+      "fr": "Dé exquis des profondeurs",
+      "pt": "Dado das Profundezas Claras",
+      "ru": "Изысканные игральные кости",
+      "id": "Depth-Clarion Dice",
+      "th": "Depth-Clarion Dice",
+      "vi": "Xúc Xắc Toan Tính"
+    },
+    "description": {
+      "zhs": "造成<color=#80C0FFFF>水元素范围伤害</color>，并凝聚出「玄掷玲珑」，协助进行战斗。\n\n<color=#FFD780FF>玄掷玲珑</color>\n将跟随角色，并在以下情况下，进行协同攻击，基于夜兰的生命值上限造成<color=#80C0FFFF>水元素伤害</color>：\n·队伍中自己的当前场上角色进行普通攻击时，每1秒至多触发一次；\n·夜兰自己的「络命丝」爆发并命中敌人时，将进行一次协同攻击。\n\n<i>「嗜赌可不行哦。作为大庄家，我拿比大小来比喻一下吧。你用一个骰子，怎么赢得过我的七个骰子呢？」</i>",
+      "zht": "造成<color=#80C0FFFF>水元素範圍傷害</color>，並凝聚出「玄擲玲瓏」，協助進行戰鬥。\n\n<color=#FFD780FF>玄擲玲瓏</color>\n將跟隨角色，並在以下情況下，進行協同攻擊，基於夜蘭的生命值上限造成<color=#80C0FFFF>水元素傷害</color>：\n·隊伍中自己的目前場上角色進行普通攻擊時，每1秒至多觸發一次；\n·夜蘭自己的「絡命絲」爆發並命中敵人時，將進行一次協同攻擊。\n\n<i>「嗜賭可不行哦。作為大莊家，我拿比大小來比喻一下吧。你用一個骰子，怎麼贏得過我的七個骰子呢？」</i>",
+      "jp": "<color=#80C0FFFF>水元素範囲ダメージ</color>を与えた後、「玲瓏一擲」を凝集させて戦闘を支援する。\n\n<color=#FFD780FF>玲瓏一擲</color>\nキャラクターに追従し、以下の状況で夜蘭のHP上限を基準に<color=#80C0FFFF>水元素ダメージ</color>の連携攻撃を発動する。\n·フィールド上でチーム内の自身キャラクターが通常攻撃を行う時、1秒につき1回発動する。\n·夜蘭自身が放った「命の糸」が爆発して敵に命中した時、連携攻撃を1回発動する。\n\n<i>「賭け事ばかりしていてはダメよ。胴元として、数の大小でそれを説明してあげるわ。サイコロを1つしか持たない君が、どうやって私が持つ7つのサイコロに勝つのかしら？」</i>",
+      "ko": "<color=#80C0FFFF>물 원소 범위 피해</color>를 주고 「던져진 영롱」을 생성해 함께 전투에 나선다.\n\n<color=#FFD780FF>던져진 영롱</color>\n캐릭터를 따라다니며 다음 상황에서 협동 공격을 펼친다. 야란의 HP 최대치에 따라 <color=#80C0FFFF>물 원소 피해</color>를 준다:\n·파티 내 자신의 현재 필드 위 캐릭터가 일반 공격을 가하면 1초마다 최대 1회 발동한다.\n·야란 자신의 「생명의 실」이 폭발해 적에게 명중하면 협동 공격을 1회 가한다.\n\n<i>「도박에 빠지면 곤란하지. 선을 잡은 자로서 비유를 하자면, 네 주사위 하나로 내가 가진 주사위 일곱 개를 이길 리가 없잖아?」</i>",
+      "en": "Deals <color=#80C0FFFF>AoE Hydro DMG</color> and creates an \"Exquisite Throw,\" which aids her in battle.\n\n<color=#FFD780FF>Exquisite Throw</color>\nFollows the character around and will initiate a coordinated attack under the following circumstances, dealing <color=#80C0FFFF>Hydro DMG</color> based on Yelan's Max HP:\n·Can occur once every second when your active character uses a Normal Attack.\n·Will occur each time Yelan's Lifeline explodes and hits opponents.\n\n<i>\"A gambling addiction is going to do you no good. I mean, let me just do the math for you as the dealer. What do you think your odds of beating me are, when I have seven dice and you, only one?\"</i>",
+      "de": "Verursacht <color=#80C0FFFF>Hydro-Flächenschaden</color> und beschwört einen „Würfel der Mystik“, der beim Kampf Unterstützung leistet.\n\n<color=#FFD780FF>Würfel der Mystik</color>\nFolgt der Figur auf Schritt und Tritt und führt unter folgenden Umständen abgestimmte Angriffe aus, die basierend auf Yelans max. LP <color=#80C0FFFF>Hydro-Schaden</color> verursachen: \n· Wenn eigene aktuelle Truppenmitglieder Standardangriffe ausführen, 1 s Abklingzeit.\n· Wenn Yelans „todbringendes Seil“ explodiert und dabei Gegner trifft.\n\n<i>„Also hör zu, Spieler gewinnen nie und Gewinner spielen nie. Lass es mich so ausdrücken: Als Bankhalterin habe ich sieben Würfel, während du nur einen hast. Wie könntest du dann eine höhere Punktzahl gegen mich würfeln? Das Haus gewinnt immer.“</i>",
+      "es": "Inflige <color=#80C0FFFF>Daño Hydro en el AdE</color> y crea un dado intrincado que la asiste en combate.\n\n<color=#FFD780FF>Dado intrincado</color>\nSigue al personaje y ejecuta un ataque coordinado que inflige <color=#80C0FFFF>Daño Hydro</color> en proporción a la Vida Máx. de Yelan en las siguientes situaciones:\n·Cuando tu personaje en uso ejecuta un Ataque Normal. El ataque coordinado liberado de esta manera solo se podrá activar una vez por segundo.\n·Cuando la explosión de la cuerda salvavidas de Yelan golpea a un enemigo.\n\n<i>La adicción a los juegos de apuestas es lo peor que puede existir. Mira, deja que yo, como crupier, haga las cuentas: ¿cuánta probabilidad crees que tienes de ganarme si yo tengo siete dados y tú solo uno?</i>",
+      "fr": "Inflige des <color=#80C0FFFF>DGT Hydro de zone</color> et crée un dé exquis pour aider en combat.\n\n<color=#FFD780FF>Dé exquis</color>\nSuit le personnage et déclenche une attaque coordonnée dans les circonstances suivantes, infligeant des <color=#80C0FFFF>DGT Hydro</color> selon les PV max de Yelan :\n· Chaque fois qu'un personnage déployé utilise une attaque normale, cet effet pouvant être déclenché une fois toutes les secondes.\n· Chaque fois que la ligne vitale de Yelan explose et touche des ennemis.\n\n<i>« Devenir accro au jeu ne vous fera aucun bien... Je veux dire, je suis la croupière, alors faites le calcul : selon vous, quelles sont vos chances de me battre, alors que j'ai sept dés et que vous n'en avez qu'un seul ? »</i>",
+      "pt": "Inflige <color=#80C0FFFF>Dano Hydro em AdE</color> e lança um \"Dado Misterioso\" que ajuda na batalha.\n\n<color=#FFD780FF>Dado Misterioso</color>\nSegue o personagem e, nas circunstâncias específicas abaixo, realiza Ataques Coordenados que infligem <color=#80C0FFFF>Dano Hydro</color> baseados na Vida Máxima de Yelan:\n· Pode ser desencadeado uma vez por segundo quando o personagem ativo de sua equipe realizar um Ataque Normal;\n· Quando o \"Fio da Vida\" de Yelan explodir e atingir os inimigos, realizará um Ataque Coordenado.\n\n<i>\"Não é bom ser um viciado em apostas. Eu sou uma banqueira de apostas, deixe-me comparar: você tem um dado, como poderia vencer os meus sete?\"</i>.",
+      "ru": "Наносит <color=#80C0FFFF>Гидро урон по площади</color> и создаёт Изысканный бросок, который помогает в битве. \n\n<color=#FFD780FF>Изысканный бросок</color>\nСледует за персонажем и при совместной атаке наносит <color=#80C0FFFF>Гидро урон</color>, зависящий от макс. HP Е Лань. Совершает совместную атаку в следующих ситуациях:\n· Когда собственный активный персонаж совершает обычную атаку. Может возникать раз в секунду.\n· Когда собственная Нить жизни Е Лань взрывается и попадает по противнику.\n\n<i>«Зависимость от азартных игр не приведёт ни к чему хорошему. Давай я поясню тебе расклад? Как думаешь, каковы твои шансы победить, когда у меня семь игральных кубиков, а у тебя только один?»</i>",
+      "id": "Mengakibatkan <color=#80C0FFFF>Hydro DMG Area</color> dan membuat \"Exquisite Throw\" yang bisa membantunya dalam pertempuran.\n\n<color=#FFD780FF>Exquisite Throw</color>\nMengikuti Karakter dan akan memulai serangan terkoordinasi dalam situasi berikut, mengakibatkan <color=#80C0FFFF>Hydro DMG</color> berdasarkan Max HP Yelan:\n·Dapat terpicu sekali dalam setiap detik saat Karakter aktif menggunakan Normal Attack.\n·Akan muncul setiap kali Lifeline milik Yelan meledak dan mengenai musuh.\n\n<i>\"Kecanduan judi itu tidak bagus untukmu. Biar kuhitungkan untukmu ya. Menurutmu, apa kamu punya peluang untuk mengalahkanku, di saat aku punya tujuh dadu dan kamu cuma satu?\"</i>",
+      "th": "สร้าง<color=#80C0FFFF>ความเสียหายน้ำวงกว้าง</color> และรวบรวม Exquisite Throw ขึ้นมาเพื่อช่วยในการต่อสู้\n\n<color=#FFD780FF>Exquisite Throw</color>\nจะเคลื่อนที่ตามตัวละคร และโจมตีสนับสนุนเพื่อสร้าง<color=#80C0FFFF>ความเสียหายน้ำ</color> โดยขึ้นกับพลังชีวิตสูงสุดของ Yelan เมื่ออยู่ในสถานการณ์ดังต่อไปนี้:\n·จะเกิดขึ้น 1 ครั้ง ในทุก 1 วินาที เมื่อตัวละครในทีมของตัวเอง ที่เข้าร่วมการต่อสู้ในขณะนั้นใช้การโจมตีปกติ;\n·จะทำการโจมตีสนับสนุน 1 ครั้ง เมื่อ Lifeline ของ Yelan ระเบิดถูกศัตรู\n\n<i>\"ติดพนันน่ะไม่ดีหรอกนะ ในฐานะเจ้ามือใหญ่ ฉันจะเปรียบเทียบอัตราส่วนให้เห็นภาพละกัน คุณมีลูกเต๋าอยู่หนึ่งลูก จะมาเอาชนะฉันที่มีอยู่ตั้งเจ็ดลูกได้ยังไงกัน?\"</i>",
+      "vi": "#Gây <color=#80C0FFFF>Sát Thương Phạm Vi Nguyên Tố Thủy</color> và tạo ra \"Xúc Xắc Tinh Tế\" để hỗ trợ chiến đấu.\n\n<color=#FFD780FF>Xúc Xắc Tinh Tế</color>\nĐi theo nhân vật và sẽ hỗ trợ tấn công kẻ địch trong những trường hợp sau, gây <color=#80C0FFFF>Sát Thương Nguyên Tố Thủy</color> dựa theo giới hạn HP của Yelan:\n·Nhân vật của bản thân trong trận hiện tại tấn công thường, mỗi 1s tối đa kích hoạt một lần;\n·\"Lạc Mệnh Tơ\" của Yelan khi phát nổ trúng kẻ địch sẽ hỗ trợ tấn công một lần.\n\n<i>\"Nghiện cờ bạc là không tốt đâu. Thân là nhà cái, để tôi làm một ví dụ nhỏ cho xem. {F#Cô}{M#Cậu} dùng một hột xúc xắc, làm sao thắng được bảy hột xúc xắc của tôi chứ?\"</i>"
+    }
+  },
+  {
+    "title": {
+      "zhs": "猜先有方",
+      "zht": "猜先有方",
+      "jp": "先後の決め手",
+      "ko": "선공의 묘수",
+      "en": "Turn Control",
+      "de": "Beste Gewinnstrategie",
+      "es": "Control estratégico",
+      "fr": "Contrôle stratégique",
+      "pt": "Estratégia Controlada",
+      "ru": "Перехват инициативы",
+      "id": "Turn Control",
+      "th": "Turn Control",
+      "vi": "Nắm Thế Chủ Động"
+    },
+    "description": {
+      "zhs": "队伍存在1/2/3/4种元素类型的角色时，夜兰的生命值上限提升6%/12%/18%/30%。",
+      "zht": "隊伍存在1/2/3/4種元素類型的角色時，夜蘭的生命值上限提升6%/12%/18%/30%。",
+      "jp": "チーム内キャラクターの元素タイプが1/2/3/4種類の時、夜蘭自身のHP上限+6%/12%/18%/30%。",
+      "ko": "파티 내 1/2/3/4가지 원소 타입의 캐릭터 존재 시, 야란의 HP 최대치가 각각 6%/12%/18%/30%만큼 증가한다",
+      "en": "When the party has 1/2/3/4 Elemental Types, Yelan's Max HP is increased by 6%/12%/18%/30%.",
+      "de": "Erhöht die max. LP von Yelan bei Truppenmitgliedern mit 1/2/3/4 verschiedenen Elementartypen zusätzlich um 6/12/18/30 %.",
+      "es": "Cuando en el equipo haya 1/2/3/4 personajes de tipos elementales distintos, la Vida Máx. de Yelan aumenta en un 6/12/18/30% respectivamente.",
+      "fr": "#Si l'équipe comprend des personnages de 1/2/3/4 types élémentaires, les PV max de Yelan augmentent de 6 %/12{NON_BREAK_SPACE}%/18 %/30 %.",
+      "pt": "Quando há 1/2/3/4 personagens de tipos elementais diferentes, a Vida Máxima de Yelan aumenta 6%/12%/18%/30% respectivamente.",
+      "ru": "Если в отряде 1/2/3/4 типа элементов, макс. HP Е Лань увеличивается на 6%/12%/18%/30% соответственно.",
+      "id": "Saat party memiliki 1/2/3/4 Tipe Elemental, Max HP Yelan meningkat sebesar 6%/12%/18%/30%.",
+      "th": "เมื่อในทีมมีประเภทธาตุของตัวละคร 1/2/3/4 ประเภท พลังชีวิตสูงสุดของ Yelan จะเพิ่มขึ้น 6%/12%/18%/30%",
+      "vi": "Trong đội có 1/2/3/4 loại nguyên tố, giới hạn HP của Yelan sẽ tăng 6%/12%/18%/30%."
+    }
+  },
+  {
+    "title": {
+      "zhs": "妙转随心",
+      "zht": "妙轉隨心",
+      "jp": "気随気儘",
+      "ko": "마음 가는 대로",
+      "en": "Adapt With Ease",
+      "de": "Glückswürfel",
+      "es": "Adaptación maestra",
+      "fr": "Adaptation aisée",
+      "pt": "Adaptação Esperta",
+      "ru": "Лёгкая приспособляемость",
+      "id": "Adapt With Ease",
+      "th": "Adapt With Ease",
+      "vi": "Thích Nghi Dễ Dàng"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>「玄掷玲珑」</color>存在期间，能使队伍中自己的当前场上角色造成的伤害提高1%，并且每1秒进一步提高3.5%，至多使角色造成的伤害提高50%。\n效果存在期间重新施放渊图玲珑骰，将移除原有的上述效果。",
+      "zht": "<color=#FFD780FF>「玄擲玲瓏」</color>存在期間，能使隊伍中自己的目前場上角色造成的傷害提高1%，並且每1秒進一步提高3.5%，至多使角色造成的傷害提高50%。\n若於該效果生效期間重新施放淵圖玲瓏骰，則將移除原有的上述效果。",
+      "jp": "<color=#FFD780FF>「玲瓏一擲」</color>継続時間中、フィールド上にいるチーム内の自身キャラクターの与えるダメージ+1%、1秒毎に3.5%アップする。最大で50%までアップする。\n継続時間中、深謀玲瓏賽を再発動すると、既存の上記効果が先にクリアされる。",
+      "ko": "<color=#FFD780FF>「던져진 영롱」</color>이 존재하는 동안 파티 내 필드 위에 있는 자신의 캐릭터가 가하는 피해가 1% 증가하고, 1초마다 3.5%만큼 추가로 증가한다. 최대 50%까지 증가할 수 있다.\n해당 효과가 존재하는 동안 심오하고 영롱한 주사위를 다시 발동 시, 원래 존재하던 효과가 소멸한다",
+      "en": "So long as an <color=#FFD780FF>Exquisite Throw</color> is in play, your own active character deals 1% more DMG. This increases by a further 3.5% DMG every second. The maximum increase to DMG dealt is 50%.\nThe pre-existing effect will be dispelled if Depth-Clarion Dice is recast during its duration.",
+      "de": "Erhöht den von eigenen aktuellen Truppenmitgliedern während der Wirkungsdauer von <color=#FFD780FF>„Würfel der Mystik“</color> verursachten Schaden um 1 % und danach alle 1 s um 3,5 %, insgesamt um bis zu 50 %.\nErneutes Aktivieren von Würfel des Strategems innerhalb der Laufzeit des oben beschriebenen Effekts entfernt diesen.",
+      "es": "Mientras el <color=#FFD780FF>dado intrincado</color> esté activo, el daño de tu personaje en uso aumenta en un 1%, e irá aumentando en un 3.5% adicional por segundo hasta un máximo de un 50%.\nSi vuelves a usar Dado clarividente mientras el dado intrincado está activo, el efecto anterior se disipará.",
+      "fr": "#Tant qu'un <color=#FFD780FF>dé exquis</color> est en combat, les DGT infligés par le personnage déployé augmentent de 1 %, puis de 3,5{NON_BREAK_SPACE}% supplémentaires toutes les secondes. Les DGT peuvent être augmentés jusqu'à 50 % maximum de cette manière.\nUtiliser à nouveau Dé exquis des profondeurs pendant la durée de l'effet décrit ci-dessus dissipera ce dernier.",
+      "pt": "Enquanto o <color=#FFD780FF>Dado Misterioso</color> existir, aumenta o Dano do personagem ativo no campo de batalha em 1%, e a cada 1s aumenta em 3.5%. Permite aumentar o Dano infligido pelo personagem em até 50%.\nSe Dado das Profundezas Claras for lançado novamente enquanto o efeito estiver ativo, esse efeito original será eliminado.",
+      "ru": "Пока активен <color=#FFD780FF>Изысканный бросок</color>, урон, наносимый своим активным персонажем, увеличивается на 1% и продолжает увеличиваться на 3,5% каждую сек. Максимальное увеличение наносимого урона - 50%.\nПока эффект действует, повторная активация Изысканных игральных костей прервёт его.",
+      "id": "Selama <color=#FFD780FF>Exquisite Throw</color> masih berjalan, maka Karakter aktif akan mengakibatkan 1% DMG lebih besar. Peningkatakan ini berlangsung sebanyak 3,5% DMG setiap detik. Maksimum peningkatan DMG sampai 50%.\nJika Depth-Clarion Dice dilancarkan lagi saat durasinya masih berlangsung maka efek yang sudah ada sebelumnya akan hilang.",
+      "th": "ตลอดช่วงเวลาคงอยู่ของ <color=#FFD780FF>Exquisite Throw</color> จะทำให้ตัวละครของตนเอง ที่เข้าร่วมการต่อสู้ในขณะนั้น สร้างความเสียหายเพิ่มขึ้น 1% และจะเพิ่มขึ้นอีก 3.5% ในทุก 1 วินาที โดยจะเพิ่มความเสียหายที่ตัวละครสร้างได้มากสุดถึง 50%\nระหว่างช่วงเวลาคงอยู่ของเอฟเฟกต์ เอฟเฟกต์ที่กล่าวถึงข้างต้นจะหายไปเมื่อปล่อย Depth-Clarion Dice อีกครั้ง",
+      "vi": "Trong thời gian <color=#FFD780FF>Xúc Xắc Tinh Tế</color> tồn tại, có thể khiến nhân vật trong trận hiện tại của bản thân tăng 1% sát thương gây ra, đồng thời mỗi 1s tăng thêm 3.5%, tối đa khiến sát thương của nhân vật gây ra tăng 50%.\nTrong thời gian hiệu lực, nếu sử dụng Xúc Xắc Toan Tính lần nữa sẽ xóa hiệu quả kể trên."
+    }
+  },
+  {
+    "title": {
+      "zhs": "长考一着",
+      "zht": "長考一著",
+      "jp": "長考一手",
+      "ko": "장고 후의 한 수",
+      "en": "Necessary Calculation",
+      "de": "Lange Überlegung",
+      "es": "Jugada táctica",
+      "fr": "Longue considération",
+      "pt": "Longa Consideração",
+      "ru": "Необходимый расчёт",
+      "id": "Necessary Calculation",
+      "th": "Necessary Calculation",
+      "vi": "Cân Nhắc Lâu Dài"
+    },
+    "description": {
+      "zhs": "在璃月执行时长为20小时的探索派遣任务时，获得的奖励增加25%。",
+      "zht": "在璃月執行時長為20小時的探索派遣任務時，獲得的獎勵增加25%。",
+      "jp": "璃月で20時間かかる探索任務を完了した時、獲得する報酬+25%。",
+      "ko": "리월에서 20시간의 탐사 파견 임무 수행 시 획득하는 보상이 25% 증가한다",
+      "en": "Gains 25% more rewards when dispatched on a Liyue Expedition for 20 hours.",
+      "de": "Bringt bei 20-stündigen Erkundungsentsendungen in Liyue 25 % mehr Belohnungen.",
+      "es": "Aumenta en un 25% las recompensas de las expediciones de 20 h en Liyue.",
+      "fr": "Augmente les récompenses d'une expédition de 20 h à Liyue de 25 %.",
+      "pt": "Ganha 25% recompensas a mais quando enviada numa Expedição em Liyue por 20 horas.",
+      "ru": "На 25% увеличивает награду экспедиций в Ли Юэ длительностью 20 ч.",
+      "id": "Ketika dikirim untuk melakukan ekspedisi di Liyue selama 20 jam, hadiah yang didapatkan akan bertambah 25%.",
+      "th": "เมื่อทำคำขอการออกสำรวจของ Liyue ที่ใช้เวลา 20 ชั่วโมง รางวัลที่ได้รับจะเพิ่มขึ้น 25%",
+      "vi": "Khi làm nhiệm vụ Phái Đi Thám Hiểm có thời gian là 20 giờ ở Liyue, phần thưởng nhận được tăng 25%."
+    }
+  }
+]

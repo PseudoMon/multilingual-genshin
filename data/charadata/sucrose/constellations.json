@@ -45,7 +45,7 @@
       "pt": "Beth - Forma Não-Consolidada",
       "ru": "Бет: Свободная форма",
       "id": "Beth: Unbound Form",
-      "th": "Beth - Unbound Form",
+      "th": "Beth: Unbound Form",
       "vi": "Beth Ngỗ Ngược"
     },
     "description": {
@@ -93,7 +93,7 @@
       "pt": "Aumenta o nível da <color=#FFD780FF>Criação do Espírito do Vento: Experimento 6308</color> em 3.\nO nível máximo de elevação é 15.",
       "ru": "Увеличивает уровень навыка <color=#FFD780FF>Эксперимент №6308</color> на 3.\nМакс. уровень: 15",
       "id": "Meningkatkan 3 level <color=#FFD780FF>Astable Anemohypostasis Creation - 6308</color>.\nMaksimum: Lv. 15.",
-      "th": "เพิ่มเลเวลของสกิล <color=#FFD780FF>Astable Anemohypostasis Creation - 6308</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "th": "เพิ่มเลเวลของสกิล <color=#FFD780FF>Astable Anemohypostasis Creation - 6308</color> ขึ้น 3 ระดับ\nเพิ่มได้สูงสุดถึงระดับ 15",
       "vi": "Cấp kỹ năng <color=#FFD780FF>Gió Thần Sáng Tạo 6308</color> +3.\nTăng tối đa đến cấp 15."
     },
     "imgid": "constellation_3"
@@ -159,7 +159,7 @@
       "pt": "Aumenta o Nível da <color=#FFD780FF>Criação Proibida do Espírito do Vento: Isomórfico-75 Tipo II</color> em 3.\nO nível máximo de elevação é 15.",
       "ru": "Увеличивает уровень навыка <color=#FFD780FF>Запретно! Изомер 75 / Тип II</color> на 3.\nМакс. уровень: 15",
       "id": "Meningkatkan 3 level <color=#FFD780FF>Forbidden Creation - Isomer 75 / Type II</color>.\nMaksimum: Lv. 15.",
-      "th": "เพิ่มเลเวลของสกิล <color=#FFD780FF>Forbidden Creation - Isomer 75 / Type II</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "th": "เพิ่มเลเวลของสกิล <color=#FFD780FF>Forbidden Creation - Isomer 75 / Type II</color> ขึ้น 3 ระดับ\nเพิ่มได้สูงสุดถึงระดับ 15",
       "vi": "Cấp kỹ năng <color=#FFD780FF>Cấm-Gió Thần Sáng Tạo-75 Loại 2</color> +3.\nTăng tối đa đến cấp 15."
     },
     "imgid": "constellation_5"

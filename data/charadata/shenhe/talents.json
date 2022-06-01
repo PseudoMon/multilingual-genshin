@@ -12,7 +12,7 @@
       "pt": "Ataque Normal: Perfuradora do Amanhecer",
       "ru": "Пронзая звёзды",
       "id": "Normal Attack: Dawnstar Piercer",
-      "th": "โจมตีปกติ - Dawnstar Piercer",
+      "th": "โจมตีปกติ: Dawnstar Piercer",
       "vi": "Tấn Công Thường - Đạp Thần Nhiếp Đấu"
     },
     "description": {
@@ -29,8 +29,7 @@
       "id": "<color=#FFD780FF>Normal Attack</color>\nMelancarkan hingga 5 serangan tombak berturut-turut.\n\n<color=#FFD780FF>Charged Attack</color>\nMengonsumsi sejumlah Stamina untuk menerjang ke depan, mengakibatkan DMG pada musuh di jalurnya.\n\n<color=#FFD780FF>Plunging Attack</color>\nMenerjang dari udara untuk menghantam tanah, mengakibatkan DMG pada musuh di jalur terjangan dan mengakibatkan DMG area saat mendarat.",
       "th": "<color=#FFD780FF>โจมตีปกติ</color>\nโจมตีต่อเนื่องมากสุดห้าครั้ง\n\n<color=#FFD780FF>ชาร์จโจมตี</color>\nใช้พลังกายปริมาณหนึ่งเพื่อ พุ่งไปข้างหน้าและสร้างความเสียหาย แก่ศัตรูที่อยู่ในเส้นทาง\n\n<color=#FFD780FF>โจมตีพุ่งลงจากอากาศ</color>\nกระโจนจากกลางอากาศลงมายังพื้นดิน เพื่อโจมตีศัตรูที่อยู่ในเส้นทางการโจมตี โดยจะสร้างความเสียหายวงกว้างเมื่อลงถึงพื้น",
       "vi": "<color=#FFD780FF>Tấn Công Thường</color>\nThực hiện tối đa 5 lần đánh liên tiếp.\n\n<color=#FFD780FF>Trọng Kích</color>\nTiêu hao thể lực nhất định, xông về phía trước, gây sát thương cho địch trên đường đi.\n\n<color=#FFD780FF>Tấn Công Khi Đáp</color>\nĐáp xuống đất từ trên không, tấn công kẻ địch trên đường và gây sát thương phạm vi khi chạm đất."
-    },
-    "imgid": "s_633101"
+    }
   },
   {
     "title": {
@@ -62,8 +61,7 @@
       "id": "Memadatkan embun beku perak untuk mengusir semua iblis.\nMemberikan efek \"Icy Quill\" pada seluruh anggota party di sekitar dan mengakibatkan <color=#99FFFFFF>Cryo DMG</color> berdasarkan cara skill dilancarkan, yaitu ditekan atau ditahan.\n\n<color=#FFD780FF>Mode Tekan</color>\nMenerjang ke arah depan bersama \"Talisman Spirit\" dan mengakibatkan <color=#99FFFFFF>Cryo DMG</color> pada musuh yang berada di jalur serangan.\n\n<color=#FFD780FF>Mode Tahan</color>\nMemerintahkan Talisman Spirit untuk mengakibatkan <color=#99FFFFFF>Cryo DMG Area</color>.\n\n<color=#FFD780FF>Icy Quill</color>\nSaat Normal Attack, Charged Attack, Plunging Attack, Elemental Skill, dan Elemental Burst mengakibatkan <color=#99FFFFFF>Cryo DMG</color> kepada musuh, DMG yang diakibatkan akan meningkat sesuai dengan ATK Shenhe saat ini.\n\nEfek Icy Quill akan hilang setelah durasinya berakhir atau lapisannya terkonsumsi dalam jumlah tertentu. Icy Quill yang dilancarkan dengan Mode Tahan akan memiliki durasi lebih lama dan jumlah lapisan lebih banyak.\nSaat satu serangan <color=#99FFFFFF>Cryo DMG</color> mengenai beberapa musuh secara bersamaan, jumlah lapisan Icy Quill yang dikonsumsi akan disesuaikan dengan jumlah musuh yang terkena serangan. Efek dan jumlah lapisan Icy Quill untuk setiap Karakter dalam party akan dihitung secara terpisah.\n\n<i>\"Kekuatan roh bukanlah suatu kepalsuan. Gadis suci ini telah diperintahkan untuk segera bergegas!\"</i>",
       "th": "#น้ำค้างแข็งสีเงินที่ก่อตัวรวมกัน จะกำจัดสิ่งชั่วร้ายทั้งปวงให้สิ้น\nมอบเอฟเฟกต์ Icy Quill ให้แก่ตัวละครในทีมทั้งหมดที่อยู่ในบริเวณใกล้เคียง และสร้าง<color=#99FFFFFF>ความเสียหายน้ำแข็ง</color>ที่แตกต่างกัน โดยขึ้นกับการ{LAYOUT_MOBILE#แตะ}{LAYOUT_PC#กด}{LAYOUT_PS#กด}หรือ{LAYOUT_MOBILE#แตะค้าง}{LAYOUT_PC#กดค้าง}{LAYOUT_PS#กดค้าง}\n\n<color=#FFD780FF>{LAYOUT_MOBILE#แตะ}{LAYOUT_PC#กด}{LAYOUT_PS#กด}</color>\nพุ่งไปข้างหน้าพร้อมกันกับ Talisman Spirit เพื่อสร้าง<color=#99FFFFFF>ความเสียหายน้ำแข็ง</color>แก่ศัตรูที่อยู่ในเส้นทาง\n\n<color=#FFD780FF>{LAYOUT_MOBILE#แตะค้าง}{LAYOUT_PC#กดค้าง}{LAYOUT_PS#กดค้าง}</color>\nสั่งให้ Talisman Spirit สร้าง<color=#99FFFFFF>ความเสียหายน้ำแข็งวงกว้าง</color>\n\n<color=#FFD780FF>Icy Quill</color>\nเมื่อความเสียหายของการโจมตีปกติ, ชาร์จโจมตี, โจมตีพุ่งลงจากอากาศ, สกิลธาตุ และท่าไม้ตายสร้าง<color=#99FFFFFF>ความเสียหายน้ำแข็ง</color>แก่ศัตรู จะเพิ่มความเสียหายที่สร้าง โดยขึ้นกับพลังโจมตีในขณะนั้นของตัว Shenhe เอง\n\nเอฟเฟกต์ Icy Quill จะหายไปหลังจากสิ้นสุดช่วงเวลาต่อเนื่อง หรือเกิดเอฟเฟกต์ขึ้นจนครบจำนวนครั้งที่กำหนด โดยที่เมื่อเทียบกับการ{LAYOUT_MOBILE#แตะ}{LAYOUT_PC#กด}{LAYOUT_PS#กด}แล้ว Icy Quill ของการ{LAYOUT_MOBILE#แตะค้าง}{LAYOUT_PC#กดค้าง}{LAYOUT_PS#กดค้าง} จะมีช่วงเวลาต่อเนื่องที่ยาวนานกว่า และมีจำนวนครั้งการเกิดที่มากกว่า\nเมื่อ<color=#99FFFFFF>ความเสียหายน้ำแข็ง</color>ถูกศัตรูหลายตัวในครั้งเดียว จะใช้จำนวนชั้นเอฟเฟกต์ที่มีโดยขึ้นกับจำนวนของศัตรูที่ถูกโจมตี; จำนวนครั้งการเกิดเอฟเฟกต์ของตัวละครแต่ละตัวในทีมที่มี Icy Quill จะคิดแยกกัน\n\n<i>\"จิตวิญญาณไม่มีวันโป้ปด เทพธิดาได้มีคำสั่ง จงเร่งรุดไปที่เครื่องรางนั้นเถิด!\"</i>",
       "vi": "Ngưng tụ sương lộ, đẩy lui tà ma.\nThêm hiệu quả \"Băng Linh\" cho tất cả nhân vật trong đội gần đó, đồng thời gây <color=#99FFFFFF>Sát Thương Nguyên Tố Băng</color> khác nhau dựa theo cơ chế nhấn, nhấn giữ.\n\n<color=#FFD780FF>Nhấn</color>\nĐột kích về phía trước cùng \"Lục Linh\", gây <color=#99FFFFFF>Sát Thương Nguyên Tố Băng</color> cho kẻ địch trên đường.\n\n<color=#FFD780FF>Nhấn giữ</color>\nHiệu lệnh \"Lục Linh\", gây <color=#99FFFFFF>Sát Thương Phạm Vi Nguyên Tố Băng</color>.\n\n<color=#FFD780FF>Băng Linh</color>\nKhi sát thương tấn công thường, trọng kích, tấn công khi đáp, kỹ năng nguyên tố và kỹ năng nộ gây <color=#99FFFFFF>Sát Thương Nguyên Tố Băng</color> cho kẻ địch, sẽ tăng sát thương dựa vào sức tấn công hiện tại của Shenhe.\n\nHiệu quả \"Băng Linh\" sẽ biến mất khi hết thời gian duy trì hoặc đạt số lần kích hoạt nhất định. \"Băng Linh\" khi nhấn giữ sẽ có thời gian duy trì và số lần hiệu lực nhiều hơn so với nhấn.\nKhi trong 1 lần <color=#99FFFFFF>Sát Thương Nguyên Tố Băng</color> trúng cùng lúc nhiều kẻ địch, sẽ căn cứ vào số lượng kẻ địch trúng đòn để tiêu hao số lần hiệu lực; Số lần hiệu lực \"Băng Linh\" của mỗi nhân vật trong đội sẽ tính độc lập với nhau.\n\n<i>\"Linh uy phi hư，dịch hữu bách công. Thần nữ có lệnh, mau chóng có mặt. Nhiếp!\"</i>"
-    },
-    "imgid": "s_633201"
+    }
   },
   {
     "title": {
@@ -95,8 +93,7 @@
       "id": "Melepaskan kekuatan Talisman Spirit, membiarkannya bergerak bebas di dunia ini, dan mengakibatkan <color=#99FFFFFF>Cryo DMG Area</color>.\nTalisman Spirit akan menciptakan sebuah area yang mengurangi <color=#99FFFFFF>Cryo RES</color> dan Physical RES musuh yang berada di dalamnya. Selama durasinya, area ini terus mengakibatkan <color=#99FFFFFF>Cryo DMG</color> kepada musuh yang berada di dalamnya.\n\n<i>\"Jalan Adeptus tidaklah didasarkan pada sesuatu yang abstrak dan misterius. Hanya dengan mengamati perubahan di langit dan bumi, dan memahami hukum sebab akibat di dunia ini, barulah kebenaran dapat dipahami.\"</i>",
       "th": "ปลดปล่อยพลังของ Talisman Spirit และบังคับมันให้โลดแล่นไปในโลกกว้าง และสร้าง<color=#99FFFFFF>ความเสียหายน้ำแข็งวงกว้าง</color>\nTalisman Spirit จะสร้างพื้นที่ขึ้นมา เพื่อทำให้<color=#99FFFFFF>ความต้านทานน้ำแข็ง</color>และความต้านทานกายภาพของศัตรูที่อยู่ข้างในลดลง และสร้าง<color=#99FFFFFF>ความเสียหายน้ำแข็ง</color>อย่างต่อเนื่องแก่ศัตรูที่อยู่ในนั้น\n\n<i>\"วิถีแห่งเซียนนั้นไม่ได้พิสูจน์ได้ด้วยจินตนาการและความลึกลับ มีเพียงการสังเกตการเปลี่ยนแปลงของฟ้าและดิน และเข้าใจถึงสาเหตุและผลกระทบของโลกเท่านั้น จึงจะสามารถตระหนักถึงแก่นแท้ได้อย่างแท้จริง\"</i>",
       "vi": "Giải phóng sức mạnh \"Lục Linh\", hiệu lệnh rong ruổi thế gian, gây <color=#99FFFFFF>Sát Thương Phạm Vi Nguyên Tố Băng</color>.\n\"Lục Linh\" sẽ ngưng kết thành vùng hiệu ứng, giảm Kháng Vật Lý và <color=#99FFFFFF>Kháng Nguyên Tố Băng</color> của kẻ địch bên trong, đồng thời gây <color=#99FFFFFF>Sát Thương Nguyên Tố Băng</color> liên tục cho kẻ địch trong vùng ảnh hưởng.\n\n<i>\"Tiên đạo pháp môn không phải hư ảo, chỉ khi nhìn thấu thiên địa vạn hóa, hiểu rõ nhân quả hồng trần thì mới có thể lĩnh ngộ được bổn chân.\"</i>"
-    },
-    "imgid": "s_633901"
+    }
   },
   {
     "title": {
@@ -128,8 +125,7 @@
       "id": "Karakter aktif yang berada di dalam area <color=#FFD780FF>Divine Maiden's Deliverance</color> akan mendapatkan 15% <color=#99FFFFFF>Cryo DMG Bonus</color>.",
       "th": "ตัวละครที่เข้าร่วมการต่อสู้ในขณะนั้น และอยู่ในพื้นที่ของ <color=#FFD780FF>Divine Maiden's Deliverance</color> จะได้รับ<color=#99FFFFFF>โบนัสความเสียหายน้ำแข็ง</color>เพิ่มขึ้น 15%",
       "vi": "Nhân vật trong trận hiện tại đang trong vùng hiệu ứng của <color=#FFD780FF>Thần Nữ Khiển Linh Quyết</color>, sẽ tăng 15% <color=#99FFFFFF>BUFF Sát Thương Nguyên Tố Băng</color>."
-    },
-    "imgid": "p_632101"
+    }
   },
   {
     "title": {
@@ -161,8 +157,7 @@
       "id": "Setelah Shenhe melancarkan <color=#FFD780FF>Spring Spirit Summoning</color>, anggota party di sekitar akan mendapatkan efek berikut:\n·Mode Tekan: Meningkatkan 15% DMG Elemental Skill dan Elemental Burst selama 10 detik.\n·Mode Tahan: Meningkatkan 15% DMG Normal Attack, Charged Attack, dan Plunging Attack selama 15 detik.",
       "th": "#หลังจากที่ Shenhe ใช้ <color=#FFD780FF>Spring Spirit Summoning</color> จะทำให้ตัวละครทั้งหมดในทีม ที่อยู่ในบริเวณใกล้เคียง ได้รับเอฟเฟกต์ดังต่อไปนี้:\n·{LAYOUT_MOBILE#แตะ}{LAYOUT_PC#กด}{LAYOUT_PS#กด}: ความเสียหายที่สกิลธาตุ และท่าไม้ตายสร้างเพิ่มขึ้น 15% เป็นเวลา 10 วินาที;\n·{LAYOUT_MOBILE#แตะค้าง}{LAYOUT_PC#กดค้าง}{LAYOUT_PS#กดค้าง}: การโจมตีปกติ, การชาร์จโจมตี และการโจมตีพุ่งลงจากอากาศ สร้างความเสียหายเพิ่มขึ้น 15% เป็นเวลา 15 วินาที",
       "vi": "Shenhe sau khi thi triển <color=#FFD780FF>Triệu Tướng Dịch Chú</color>, tất cả nhân vật trong đội gần đó sẽ nhận hiệu ứng sau:\n·Nhấn: Sát thương Kỹ Năng Nguyên Tố và Kỹ Năng Nộ tăng 15%, duy trì 10s;\n·Nhấn giữ: Sát thương tấn công thường, trọng kích, tấn công khi đáp tăng 15%, duy trì 15s."
-    },
-    "imgid": "p_632201"
+    }
   },
   {
     "title": {
@@ -194,7 +189,6 @@
       "id": "Ketika dikirim untuk melakukan ekspedisi di Liyue selama 20 jam, hadiah yang didapatkan akan bertambah 25%.",
       "th": "เมื่อทำคำขอการออกสำรวจของ Liyue ที่ใช้เวลา 20 ชั่วโมง รางวัลที่ได้รับจะเพิ่มขึ้น 25%",
       "vi": "Khi làm nhiệm vụ Phái Đi Thám Hiểm có thời gian là 20 giờ ở Liyue, phần thưởng nhận được tăng 25%."
-    },
-    "imgid": "p_632301"
+    }
   }
 ]

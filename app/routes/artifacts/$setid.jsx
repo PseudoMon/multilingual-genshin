@@ -37,7 +37,7 @@ export default function ArtifactSetPage() {
         { setData['descriptions'].map((desc, index) => (
           <div className="description" key={index}>
             <h2 className="desc-title">
-              { miscData["setterm"][activeLang].replace("{0}", setData["SetNeedNum"][index]).replace("{1}", "") }</h2>
+              { miscData["setterm"][activeLang].replace("{0}", setData["setNeedNum"][index]).replace("{1}", "") }</h2>
             <p>{ desc[activeLang] }</p>
           </div>
         )) }

@@ -1,0 +1,200 @@
+[
+  {
+    "title": {
+      "zhs": "与谋者，以局入局",
+      "zht": "與謀者，以局入局",
+      "jp": "共謀する者、以局征局",
+      "ko": "승부에 뛰어든 공모자",
+      "en": "Enter the Plotters",
+      "de": "Falle in der Falle",
+      "es": "Trampa anticonspiradores",
+      "fr": "Tricheur en jeu",
+      "pt": "Entram os Trapaceadores",
+      "ru": "Игра с мошенниками",
+      "id": "Enter the Plotters",
+      "th": "Enter the Plotters",
+      "vi": "Kẻ Toan Tính, Lâm Trận Cẩn Thận"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>萦络纵命索</color>的可使用次数增加1次。",
+      "zht": "<color=#FFD780FF>縈絡縱命索</color>的可使用次數增加1次。",
+      "jp": "<color=#FFD780FF>絡み合う命の糸</color>の使用可能回数+1。",
+      "ko": "<color=#FFD780FF>뒤얽힌 생명줄</color>의 사용 가능 횟수가 1회 증가한다",
+      "en": "<color=#FFD780FF>Lingering Lifeline</color> gains 1 additional charge.",
+      "de": "Ermöglicht 1 weitere Anwendung von <color=#FFD780FF>Seil der Todesbotin</color>.",
+      "es": "Aumenta en 1 las cargas de <color=#FFD780FF>Atadura salvavidas</color>.",
+      "fr": "Confère une charge supplémentaire pour <color=#FFD780FF>Ligne vitale persistante</color>.",
+      "pt": "<color=#FFD780FF>Rede da Vida Salvadora</color> pode ser utilizada mais uma vez.",
+      "ru": "Увеличивает количество зарядов навыка <color=#FFD780FF>Переплетённая нить жизни</color> на 1.",
+      "id": "<color=#FFD780FF>Lingering Lifeline</color> mendapatkan 1 charge tambahan.",
+      "th": "จำนวนครั้งที่สามารถใช้ <color=#FFD780FF>Lingering Lifeline</color> ได้ เพิ่มขึ้น 1 ครั้ง",
+      "vi": "Tăng 1 lần sử dụng cho <color=#FFD780FF>Dây Sinh Mệnh Quanh Quẩn</color>."
+    },
+    "imgid": "constellation_1"
+  },
+  {
+    "title": {
+      "zhs": "入彀者，多多益善",
+      "zht": "入彀者，多多益善",
+      "jp": "罠に陥る者、多々益善",
+      "ko": "올가미에 걸린 적",
+      "en": "Taking All Comers",
+      "de": "Viel hilft viel",
+      "es": "Aprisionamiento masivo",
+      "fr": "Offert par la maison",
+      "pt": "Quanto Mais Pessoas, Melhor",
+      "ru": "Принимаем всех желающих",
+      "id": "Taking All Comers",
+      "th": "Taking All Comers",
+      "vi": "Kẻ Nhập Cuộc, Càng Đông Càng Tốt"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>「玄掷玲珑」</color>协同攻击时，会发射一枚额外的水箭，造成相当于夜兰生命值上限14%的水元素伤害。\n该效果每1.8秒至多触发一次。",
+      "zht": "<color=#FFD780FF>「玄擲玲瓏」</color>協同攻擊時，會發射一枚額外的水箭，造成相當於夜蘭生命值上限14%的水元素傷害。\n該效果每1.8秒至多觸發一次。",
+      "jp": "<color=#FFD780FF>「玲瓏一擲」</color>による連携攻撃を行った時、追加で水の矢を1本発射し、夜蘭のHP上限の14%に相当する水元素ダメージを与える。\n1.8秒毎に1回のみ発動可能。",
+      "ko": "<color=#FFD780FF>「던져진 영롱」</color> 협동 공격 시 추가로 화살 한 발을 발사해 야란 HP 최대치의 14%에 해당하는 물 원소 피해를 준다.\n해당 효과는 1.8초마다 최대 1회 발동한다",
+      "en": "When <color=#FFD780FF>Exquisite Throw</color> conducts a coordinated attack, it will fire an additional water arrow that will deal 14% of Yelan's Max HP as Hydro DMG.\nThis effect can trigger once every 1.8s.",
+      "de": "Schießt beim abgestimmten Angriff von <color=#FFD780FF>„Würfel der Mystik“</color> einen zusätzlichen Wasserpfeil ab, der Hydro-Schaden in Höhe von 14 % der max. LP von Yelan verursacht.\n1,8 s Abklingzeit.",
+      "es": "Cuando el <color=#FFD780FF>dado intrincado</color> activa un ataque coordinado, lanzará una flecha Hydro adicional que inflige Daño Hydro equivalente al 14% de la Vida Máx. de Yelan.\nEsto solo puede ocurrir una vez cada 1.8 s.",
+      "fr": "Lorsqu'un <color=#FFD780FF>dé exquis</color> déclenche une attaque coordonnée, une flèche d'eau supplémentaire est envoyée pour infliger des DGT Hydro équivalant à 14 % des PV max de Yelan.\nCet effet peut être déclenché une fois toutes les 1,8 s.",
+      "pt": "Quando <color=#FFD780FF>Dado Misterioso</color> faz um Ataque Coordenado, será disparada uma flecha d'água adicional, infligindo Dano Hydro equivalente a 14% da Vida Máxima de Yelan.\nEsse efeito pode ocorrer até uma vez a cada 1.8s.",
+      "ru": "Когда <color=#FFD780FF>Изысканный бросок</color> проводит совместную атаку, то запускает дополнительную водяную стрелу, которая наносит Гидро урон в 14% макс. HP Е Лань.\nЭффект может возникнуть один раз в 1,8 сек.",
+      "id": "Saat <color=#FFD780FF>Exquisite Throw</color> menghasilkan serangan terkoordinasi, akan menghasilkan pula panah air tambahan yang menjadikan 14% Max HP Yelan sebagai Hydro DMG.\nEfek ini terpicu setiap 1,8 detik.",
+      "th": "ในตอนที่ <color=#FFD780FF>Exquisite Throw</color> ทำการโจมตีสนับสนุน จะยิงลูกศรน้ำออกมาเพิ่ม 1 ดอก สร้างความเสียหายน้ำเป็น 14% ของพลังชีวิตสูงสุดของ Yelan\nในทุก 1.8 วินาที เอฟเฟกต์นี้จะเกิดขึ้นได้มากสุด 1 ครั้ง",
+      "vi": "<color=#FFD780FF>\"Xúc Xắc Tinh Tế\"</color> khi hỗ trợ tấn công sẽ bắn thêm một mũi tên nước, gây lượng Sát Thương Nguyên Tố Thủy tương ứng với 14% giới hạn HP của Yelan.\nHiệu quả này mỗi 1.8s tối đa kích hoạt một lần."
+    },
+    "imgid": "constellation_2"
+  },
+  {
+    "title": {
+      "zhs": "晃盅者，琼畟药骰",
+      "zht": "晃盅者，瓊稷藥骰",
+      "jp": "壺振り師、賽子詭計",
+      "ko": "노름꾼의 주사위",
+      "en": "Beware the Trickster's Dice",
+      "de": "Gezinkter Würfel",
+      "es": "Dado trucado",
+      "fr": "Dé pipé",
+      "pt": "Dado Viciado",
+      "ru": "Остерегайся мошенников",
+      "id": "Beware the Trickster's Dice",
+      "th": "Beware the Trickster's Dice",
+      "vi": "Kẻ Nâng Ly, Cẩn Thận Chiêu Trò"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>渊图玲珑骰</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>淵圖玲瓏骰</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>深謀玲瓏賽</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>심오하고 영롱한 주사위</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Depth-Clarion Dice</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Würfel des Strategems</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Dado clarividente</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Dé exquis des profondeurs</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o nível de <color=#FFD780FF>Dado das Profundezas Claras</color> em 3.\nO nível máximo de elevação é 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Изысканные игральные кости</color> на 3.\nМакс. уровень: 15.",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Depth-Clarion Dice</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Depth-Clarion Dice</color> ขึ้น 3 ระดับ\nเพิ่มได้สูงสุดถึงระดับ 15",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Xúc Xắc Toan Tính</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_3"
+  },
+  {
+    "title": {
+      "zhs": "诓惑者，接树移花",
+      "zht": "誆惑者，接樹移花",
+      "jp": "騙し取る者、移花接木",
+      "ko": "이화접목의 현혹술",
+      "en": "Bait-and-Switch",
+      "de": "Täuschung des Schwindlers",
+      "es": "Intercambio encubierto",
+      "fr": "Tour de passe-passe",
+      "pt": "Blefe e Reviravolta",
+      "ru": "Заманить и подменить",
+      "id": "Bait-and-Switch",
+      "th": "Bait-and-Switch",
+      "vi": "Kẻ Giảo Hoạt, Đánh Lận Con Đen"
+    },
+    "description": {
+      "zhs": "依照<color=#FFD780FF>「络命丝」</color>标记敌人的数量，每次标记将在爆发时使队伍中所有角色的生命值上限提升10%，持续25秒。通过这种方式，生命值上限至多获得40%提升。",
+      "zht": "依照<color=#FFD780FF>「絡命絲」</color>標記敵人的數量，每次標記將在爆發時使隊伍中所有角色的生命值上限提升10%，持續25秒。依此方式，生命值上限至多獲得40%提升。",
+      "jp": "<color=#FFD780FF>「命の糸」</color>が爆発した時、マークした敵1体につき、チーム全員のHP上限+10%、継続時間25秒。この方式でアップできるHP上限は最大40%まで。",
+      "ko": "<color=#FFD780FF>「생명의 실」</color>이 표시한 적의 수량에 따라, 표식이 폭발할 때마다 파티 내 모든 캐릭터의 HP 최대치가 10% 증가한다. 지속 시간: 25초. 해당 방식으로 HP 최대치가 최대 40%까지 증가한다",
+      "en": "Increases all party members' Max HP by 10% for 25s for every opponent marked by <color=#FFD780FF>Lifeline</color> when the Lifeline explodes. A maximum increase of 40% Max HP can be attained in this manner.",
+      "de": "Erhöht für jeden von dem <color=#FFD780FF>„todbringenden Seil“</color> markierten Gegner bei der Explosion die max. LP aller Truppenmitglieder 25 s lang um 10 %. Auf diese Weise können die max. LP um bis zu 40 % erhöht werden.",
+      "es": "Por cada enemigo marcado con la <color=#FFD780FF>cuerda salvavidas</color>, la explosión de cada marca aumenta la Vida Máx. de todos los miembros del equipo en un 10% durante 25 s. La Vida Máx. solo podrá aumentar hasta un máximo del 40% de esta manera.",
+      "fr": "Augmente les PV max de tous les personnages de l'équipe de 10 % pendant 25 s pour chaque ennemi marqué par la <color=#FFD780FF>ligne vitale</color> lorsqu'elle explose. Les PV max peuvent être augmentés jusqu'à 40 % de cette manière.",
+      "pt": "De acordo com a quantidade de inimigos marcados por <color=#FFD780FF>Fio da Vida</color>, a explosão de cada marca aumentará a Vida Máxima de todos os membros da equipe em 10% por 25s. É possível no máximo obter 40% de aumento da Vida Máxima desta forma.",
+      "ru": "После взрыва <color=#FFD780FF>Нити жизни</color> на 25 сек. увеличивает макс. HP всех членов отряда на 10% за каждого противника, отмеченного ею. Максимальное увеличение HP - 40%.",
+      "id": "Meningkatkan Max HP semua anggota party sebesar 10% selama 25 detik untuk setiap musuh yang ditandai oleh <color=#FFD780FF>Lifeline</color> saat Lifeline tersebut meledak. Peningkatan Max HP yang bisa didapatkan dengan cara ini maksimum 40%.",
+      "th": "ตามจำนวนของศัตรูที่ถูก <color=#FFD780FF>Lifeline</color> ทำสัญลักษณ์ ในแต่ละครั้งที่สัญลักษณ์ระเบิด จะทำให้พลังชีวิตสูงสุดของตัวละครทั้งหมดในทีมเพิ่มขึ้น 10% เป็นเวลา 25 วินาที โดยจะสามารถเพิ่มพลังชีวิตสูงสุดด้วยวิธีนี้ได้มากสุด 40%",
+      "vi": "Dựa theo số lượng kẻ địch mà <color=#FFD780FF>\"Lạc Mệnh Tơ\"</color> đánh dấu, mỗi dấu ấn khi phát nổ sẽ tăng 10% giới hạn HP cho toàn bộ nhân vật trong đội, duy trì 25s. Thông qua cách này, giới hạn HP tăng thêm tối đa tăng đến 40%."
+    },
+    "imgid": "constellation_4"
+  },
+  {
+    "title": {
+      "zhs": "坐庄者，三仙戏法",
+      "zht": "坐莊者，三仙戲法",
+      "jp": "胴元になる者、三仙奇術",
+      "ko": "눈보다 빠른 손",
+      "en": "Dealer's Sleight",
+      "de": "Tricks des Bankhalters",
+      "es": "Artificio de crupier",
+      "fr": "Dextérité de la croupière",
+      "pt": "Prestidigitação da Banca",
+      "ru": "Ловкость дилера",
+      "id": "Dealer's Sleight",
+      "th": "Dealer's Sleight",
+      "vi": "Kẻ Làm Cái, Biến Hóa Ảo Diệu"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>萦络纵命索</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>縈絡縱命索</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>絡み合う命の糸</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>뒤얽힌 생명줄</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Lingering Lifeline</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Seil der Todesbotin</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Atadura salvavidas</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Ligne vitale persistante</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o nível de <color=#FFD780FF>Rede da Vida Salvadora</color> em 3.\nO nível máximo de elevação é 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Переплетённая нить жизни</color> на 3.\nМакс. уровень: 15.",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Lingering Lifeline</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Lingering Lifeline</color> ขึ้น 3 ระดับ\nเพิ่มได้สูงสุดถึงระดับ 15",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Dây Sinh Mệnh Quanh Quẩn</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_5"
+  },
+  {
+    "title": {
+      "zhs": "取胜者，大小通吃",
+      "zht": "取勝者，大小通吃",
+      "jp": "勝ち得る者、独り勝ち",
+      "ko": "승자의 독식",
+      "en": "Winner Takes All",
+      "de": "Alles dem Gewinner",
+      "es": "Mano ganadora",
+      "fr": "Tout pour le vainqueur",
+      "pt": "Vencedor Leva Tudo",
+      "ru": "Победитель получает всё",
+      "id": "Winner Take All",
+      "th": "Winner Take All",
+      "vi": "Kẻ Thắng Cuộc, Gom Sạch Tất Cả"
+    },
+    "description": {
+      "zhs": "施放<color=#FFD780FF>渊图玲珑骰</color>后，夜兰将进入「运筹帷幄」状态：\n夜兰的普通攻击将转为发射特殊的「破局矢」。这种箭矢具有与破局矢近似的特性，造成的伤害视为重击伤害，能造成破局矢156%的伤害。\n\n「运筹帷幄」状态至多持续20秒，将在夜兰发射5枚箭矢后移除。",
+      "zht": "施放<color=#FFD780FF>淵圖玲瓏骰</color>後，夜蘭將進入「運籌帷幄」狀態：\n夜蘭的普通攻擊將轉為發射特殊的「破局矢」。這種箭矢具有與破局矢近似的特性，造成的傷害視為重擊傷害，能造成破局矢156%的傷害。\n\n「運籌帷幄」狀態至多持續20秒，將在夜蘭發射5枚箭矢後移除。",
+      "jp": "<color=#FFD780FF>深謀玲瓏賽</color>を発動後、夜蘭は「権謀術数」状態に入る。\n通常攻撃は特殊な「打破の矢」に変化する。この矢は打破の矢に近い特性を持ち、与えるダメージは打破の矢の156%、かつ重撃ダメージとみなされる。\n\n「権謀術数」状態の継続時間は最大20秒となり、5本の矢が発射されると終了する。",
+      "ko": "<color=#FFD780FF>심오하고 영롱한 주사위</color>를 시전하면 야란이 「전략 설계」상태에 진입한다:\n야란의 일반 공격이 특수한 「타파의 화살」을 발사로 전환된다. 이 화살은 「타파의 화살」과 비슷한 특성을 지니며 해당 피해는 강공격 피해로 간주, 타파의 화살의 156%에 해당하는 피해를 가한다.\n\n「전략 설계」 상태는 최대 20초 동안 지속되며, 야란이 화살 5발을 발사한 후 사라진다",
+      "en": "After using <color=#FFD780FF>Depth-Clarion Dice</color>, Yelan will enter the Mastermind state.\nIn this state, all of Yelan's Normal Attacks will be special Breakthrough Barbs. These Breakthrough Barbs will have similar abilities to normal ones and the DMG dealt will be considered Charged Attack DMG, dealing 156% of a normal Breakthrough Barb's DMG.\n\nThe Mastermind state lasts 20s and will be cleared after Yelan fires 5 arrows.",
+      "de": "Verleiht Yelan nach dem Auslösen des <color=#FFD780FF>Würfels des Strategems</color> den Zustand „Gewinnstrategie“:\nYelans Standardangriffe verwandeln sich in spezielle „Durchstoßpfeile“. Diese Pfeile verfügen über ähnliche Eigenschaften wie normale „Durchstoßpfeile“. Ihr Schaden wird als Schaden heftiger Schläge betrachtet und sie verursachen 156 % des Schadens von normalen „Durchstoßpfeilen“.\n\nDer Zustand „Gewinnstrategie“ hält bis zu 20 s und erlischt, nachdem Yelan 5 Pfeile abgeschossen hat.",
+      "es": "Tras usar <color=#FFD780FF>Dado clarividente</color>, Yelan entra en el estado de “planificación táctica”.\nEn este estado, sus Ataques Normales se convierten en flechas irruptoras especiales con unas características similares a las de las flechas irruptoras normales y que infligen un 156% de su daño original. Este daño es considerado daño de Ataque Cargado.\n\nEl estado de planificación táctica dura un máximo de 20 s y se anulará después de que Yelan haya disparado 5 flechas.",
+      "fr": "#Après avoir utilisé <color=#FFD780FF>Dé exquis des profondeurs</color>, Yelan entre dans un état de Stratège.\nSes attaques normales deviennent alors des flèches perçantes spéciales. Ces flèches possèdent les mêmes capacités que les flèches perçantes normales, et les DGT qu'elles infligent sont considérés comme des DGT d'attaque chargée infligeant 156{NON_BREAK_SPACE}% des DGT des flèches perçantes normales.\n\nL'état de Stratège dure 20 s maximum ou est annulé après avoir tiré 5 flèches.",
+      "pt": "Depois de lançar <color=#FFD780FF>Dado das Profundezas Claras</color>, Yelan entra no estado \"Mestra Estrategista\":\nOs Ataques Normais de Yelan serão convertidos em \"Flechas da Ruptura\" especiais. Essas flechas possuem as características similares à \"Flecha da Ruptura\", e seu Dano infligido será considerado como Dano de Ataque Carregado, infligindo 156% do Dano da Flecha da Ruptura normal.\n\nO estado \"Mestra Estrategista\" dura 20s e será eliminado quando Yelan disparar 5 flechas.",
+      "ru": "После использования навыка <color=#FFD780FF>Изысканные игральные кости</color> Е Лань войдёт в состояние Стратега.\nВ этом состоянии все обычные атаки Е Лань становятся особыми Прорывными стрелами. Эти стрелы обладают схожими характеристиками с обычными Прорывными стрелами, наносимый ими урон считается уроном заряженной атаки и составляет 156% от обычного урона Прорывных стрел.\n\nСостояние Стратега исчезнет через 20 сек. или после 5 выпущенных стрел.",
+      "id": "Setelah menggunakan <color=#FFD780FF>Depth-Clarion Dice</color>, Yelan akan memasuki kondisi Mastermind.\nDalam kondisi ini, semua Normal Attack Yelan akan menjadi Breakthrough Barb spesial. Breakthrough Barb ini akan memiliki semua kemampuan Breakthrough Barb biasa dan DMG yang diakibatkan akan dianggap sebagai DMG Charged Attack, mengakibatkan 156% dari DMG Breakthrough Barb normal.\n\nKondisi Mastermind berlangsung selama 20 detik dan akan berakhir setelah Yelan menembakkan 5 anak panah.",
+      "th": "หลังจากใช้ <color=#FFD780FF>Depth-Clarion Dice</color> Yelan จะเข้าสู่สถานะ Mastermind:\nการโจมตีปกติของ Yelan จะเปลี่ยนเป็นการยิง Breakthrough Barb ที่มีความพิเศษ ซึ่งลูกศรแบบนี้ จะมีคุณลักษณะที่คล้ายกับ Breakthrough Barb โดยความเสียหายที่สร้าง จะถูกมองว่าเป็นความเสียหายของการชาร์จโจมตี ซึ่งสามารถสร้างความเสียหายเป็น 156% ของความเสียหายของ Breakthrough Barb ปกติ\n\nสถานะ Mastermind จะคงอยู่ได้นานสุด 20 วินาที และจะหายไปเมื่อ Yelan ยิงลูกศรออกไป 5 ดอก",
+      "vi": "Sau khi thi triển <color=#FFD780FF>Xúc Xắc Toan Tính</color>, Yelan sẽ vào trạng thái \"Bàn Luận Chiến Lược\":\nTấn công thường của Yelan sẽ chuyển thành \"Mũi Tên Phá Trận\" đặc biệt. Mũi tên này có đặc tính tương tự với Mũi Tên Phá Trận, sát thương gây ra được tính là sát thương trọng kích, gây ra 156% sát thương so với Mũi Tên Phá Trận.\n\nTrạng thái \"Bàn Luận Chiến Lược\" tồn tại tối đa 20s và sẽ biến mất khi Yelan bắn ra 5 mũi tên."
+    },
+    "imgid": "constellation_6"
+  }
+]

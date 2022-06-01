@@ -1,0 +1,200 @@
+[
+  {
+    "title": {
+      "zhs": "割舍怜悯之心",
+      "zht": "割捨憐憫之心",
+      "jp": "捨て去りし憐憫の心",
+      "ko": "연민을 떨쳐내는 마음",
+      "en": "To Cloister Compassion",
+      "de": "Verzicht auf Mitleid",
+      "es": "Reniego de la compasión",
+      "fr": "Pour cloîtrer la compassion",
+      "pt": "Compaixão Renegada",
+      "ru": "Отказ от сострадания",
+      "id": "To Cloister Compassion",
+      "th": "To Cloister Compassion",
+      "vi": "Từ Bỏ Thương Hại"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>御咏鸣神刈山祭</color>的影响范围提升50%。",
+      "zht": "<color=#FFD780FF>御詠鳴神刈山祭</color>的影響範圍提升50%。",
+      "jp": "<color=#FFD780FF>御詠鳴神刈山祭</color>の影響範囲+50%。",
+      "ko": "<color=#FFD780FF>교에 나루카미 카리야마 의식</color>의 영향 범위가 50% 증가한다",
+      "en": "<color=#FFD780FF>Gyoei Narukami Kariyama Rite</color>'s AoE is increased by 50%.",
+      "de": "Vergrößert den Wirkungsbereich von <color=#FFD780FF>Gyoei-Narukami-Kariyama-Ritual</color> um 50 %.",
+      "es": "Aumenta en un 50% el AdE de <color=#FFD780FF>Eleusinia de Narukami</color>.",
+      "fr": "La zone d'effet de <color=#FFD780FF>Rituel des semoirs de Narukami</color> augmente de 50 %.",
+      "pt": "Aumenta a AdE de <color=#FFD780FF>Ritual Semeador Narukami</color> em 50%.",
+      "ru": "Зона поражения навыка <color=#FFD780FF>Обряд Гёэй Наруками Карияма</color> увеличивается на 50%.",
+      "id": "Meningkatkan 50% area serangan <color=#FFD780FF>Gyoei Narukami Kariyama Rite</color>.",
+      "th": "พื้นที่ผลกระทบของ <color=#FFD780FF>Gyoei Narukami Kariyama Rite</color> เพิ่มขึ้น 50%",
+      "vi": "Phạm vi ảnh hưởng của <color=#FFD780FF>Nghi Lễ Gyoei Narukami Kariyama</color> tăng 50%."
+    },
+    "imgid": "constellation_1"
+  },
+  {
+    "title": {
+      "zhs": "割舍侥幸之心",
+      "zht": "割捨僥倖之心",
+      "jp": "捨て去りし僥倖の心",
+      "ko": "요행을 떨쳐내는 마음",
+      "en": "To Forsake Fortune",
+      "de": "Verzicht auf Trägheit",
+      "es": "Reniego de la fortuna",
+      "fr": "Pour renier la fortune",
+      "pt": "Fortuna Renegada",
+      "ru": "Отказ от удачи",
+      "id": "To Forsake Fortune",
+      "th": "To Forsake Fortune",
+      "vi": "Từ Bỏ Thời Vận"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>越祓草轮</color>的持续时间延长3秒。",
+      "zht": "<color=#FFD780FF>越祓草輪</color>的持續時間延長3秒。",
+      "jp": "<color=#FFD780FF>越祓草輪</color>の継続時間+3秒。",
+      "ko": "<color=#FFD780FF>제액의 륜</color>의 지속 시간을 3초 연장한다",
+      "en": "<color=#FFD780FF>Grass Ring of Sanctification</color>'s duration is increased by 3s.",
+      "de": "Verlängert die Wirkungsdauer des <color=#FFD780FF>Grasrings</color> um 3 s.",
+      "es": "Aumenta en 3 s la duración del <color=#FFD780FF>anillo purificador</color>.",
+      "fr": "La durée des <color=#FFD780FF>anneaux d'herbes de consécration</color> augmente de 3 s.",
+      "pt": "Aumenta a duração do <color=#FFD780FF>Anel de Grama Santificada</color> em 3s.",
+      "ru": "Длительность <color=#FFD780FF>Травяного кольца освящения</color> увеличивается на 3 сек.",
+      "id": "Meningkatkan 3 detik durasi <color=#FFD780FF>Grass Ring of Santification</color>",
+      "th": "ช่วงเวลาต่อเนื่องของ <color=#FFD780FF>Grass Ring of Santification</color> เพิ่มขึ้น 3 วินาที",
+      "vi": "Thời gian duy trì của <color=#FFD780FF>Vòng Cỏ Thánh Hóa</color> tăng 3s."
+    },
+    "imgid": "constellation_2"
+  },
+  {
+    "title": {
+      "zhs": "割舍痛苦之心",
+      "zht": "割捨痛苦之心",
+      "jp": "捨て去りし苦痛の心",
+      "ko": "고통을 떨쳐내는 마음",
+      "en": "To Sequester Sorrow",
+      "de": "Verzicht auf Empfindlichkeit",
+      "es": "Reniego del sufrimiento",
+      "fr": "Pour séquestrer le chagrin",
+      "pt": "Dor Renegada",
+      "ru": "Отказ от страданий",
+      "id": "To Sequester Sorrow",
+      "th": "To Sequester Sorrow",
+      "vi": "Từ Bỏ Khổ Đau"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>越祓雷草之轮</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>越祓雷草之輪</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>越祓雷草の輪</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>제액의 뇌초지륜</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Sanctifying Ring</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Grasring der Reinigung</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Anillo purificador herboatronador</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Anneau de consécration</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o nível de <color=#FFD780FF>Anel Santificador</color> em 3.\nO nível máximo de elevação é 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Освящающее кольцо</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Sanctifying Ring</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Sanctifying Ring</color> ขึ้น 3 ระดับ\nเพิ่มได้สูงสุดถึงระดับ 15",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Vòng Cỏ Sấm Thánh Hóa</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_3"
+  },
+  {
+    "title": {
+      "zhs": "割舍封闭之心",
+      "zht": "割捨封閉之心",
+      "jp": "捨て去りし閉鎖の心",
+      "ko": "단절을 떨쳐내는 마음",
+      "en": "To Sever Sealing",
+      "de": "Verzicht auf Verschlossenheit",
+      "es": "Reniego de la reclusión",
+      "fr": "Pour rompre le scellement",
+      "pt": "Reclusão Renegada",
+      "ru": "Отказ от затворничества",
+      "id": "To Sever Sealing",
+      "th": "To Sever Sealing",
+      "vi": "Từ Bỏ Phong Bế"
+    },
+    "description": {
+      "zhs": "处于久岐忍自己的<color=#FFD780FF>越祓草轮</color>状态下的角色，在普通攻击、重击或下落攻击命中敌人时，雷草标将落在敌人所在的位置，基于久岐忍生命值上限的9.7%，造成<color=#FFACFFFF>雷元素范围伤害</color>。\n该效果每5秒至多触发一次。",
+      "zht": "處於久岐忍自己的<color=#FFD780FF>越祓草輪</color>狀態下的角色，在普通攻擊、重擊或下落攻擊命中敵人時，雷草標將落在敵人所在的位置，基於久岐忍生命值上限的9.7%，造成<color=#FFACFFFF>雷元素範圍傷害</color>。\n該效果每5秒至多觸發一次。",
+      "jp": "久岐忍自身の<color=#FFD780FF>越祓草輪</color>を受けたキャラクターの通常攻撃、重撃、落下攻撃が敵に命中すると、雷草が敵の位置に落ち、久岐忍のHP上限の9.7%を基準に<color=#FFACFFFF>雷元素範囲ダメージ</color>を与える。\n5秒毎に1回のみ発動可能。",
+      "ko": "쿠키 시노부 <color=#FFD780FF>제액의 륜</color> 상태인 캐릭터의 일반 공격, 강공격, 낙하 공격이 적에게 명중 시, 적의 위치에 번개풀이 떨어져 쿠키 시노부 HP 최대치의 9.7%에 해당하는 <color=#FFACFFFF>번개 원소 범위 피해</color>를 준다.\n해당 효과는 5초마다 최대 1회 발동한다",
+      "en": "When the Normal, Charged, or Plunging Attacks of the character affected by Shinobu's <color=#FFD780FF>Grass Ring of Sanctification</color> hit opponents, a Thundergrass Mark will land on the opponent's position and deal <color=#FFACFFFF>AoE Electro DMG</color> based on 9.7% of Shinobu's Max HP.\nThis effect can occur once every 5s.",
+      "de": "Wenn Figuren im Zustand <color=#FFD780FF>Grasring</color> von Kuki Shinobu Gegner mit Standardangriffen, heftigen Schlägen oder Angriffen aus dem Fall treffen, fällt eine Donnergras-Markierung an der Stelle der getroffenen Gegner herab und verursacht <color=#FFACFFFF>Elektro-Flächenschaden</color> in Höhe von 9,7 % von Kuki Shinobus max. LP.\n5 s Abklingzeit.",
+      "es": "Cuando un personaje bajo los efectos del <color=#FFD780FF>anillo purificador</color> de Kuki Shinobu golpea a un enemigo con un Ataque Normal, Cargado o Descendente, una marca herboatronadora caerá en la ubicación del enemigo e infligirá <color=#FFACFFFF>Daño Electro en el AdE</color> en proporción al 9.7% de la Vida Máx. de Kuki Shinobu.\nEste efecto puede ocurrir una vez cada 5 s.",
+      "fr": "Lorsqu'une attaque normale, chargée ou plongeante d'un personnage affecté par un <color=#FFD780FF>anneau d'herbes de consécration</color> de Kuki Shinobu touche un ennemi, une marque d'herbes tonitruantes est apposée à l'emplacement de l'ennemi pour infliger des <color=#FFACFFFF>DGT Électro de zone</color> d'une valeur équivalant à 9,7 % des PV max de Shinobu.\nCet effet peut être déclenché une fois toutes les 5 s.",
+      "pt": "Quando o personagem está no estado de <color=#FFD780FF>Anel de Grama Santificada</color> de Kuki Shinobu e seu Ataque Normal, Ataque Carregado ou Ataque Imersivo atinge o inimigo, uma marca de Grama dos Trovões cairá na posição do adversário, e infligirá <color=#FFACFFFF>Dano Electro em AdE</color> baseado em 9.7% da Vida Máxima de Kuki Shinobu.\nEsse efeito pode ocorrer até uma vez a cada 5s.",
+      "ru": "Когда обычные атаки, заряженные атаки и атаки в падении персонажей под действием <color=#FFD780FF>Травяного кольца освящения</color> Синобу попадают по противникам, на их позиции появляется Метка громовой травы, наносящая <color=#FFACFFFF>Электро урон по площади</color>, который составляет 9,7% от макс. HP Синобу.\nЭффект может возникнуть один раз в 5 сек.",
+      "id": "Saat Normal, Charged, atau Plunging Attack dari Karakter yang terpengaruh oleh <color=#FFD780FF>Grass Ring of Sanctification</color> milik Shinobu memukul musuh, maka Thundergrass Mark akan muncul di posisi musuh dan mengakibatkan <color=#FFACFFFF>Electro DMG Area</color> berdasarkan 9,7% Max HP Shinobu.\nEfek ini dapat terpicu setiap 5 detik.",
+      "th": "เมื่อตัวละครที่อยู่ภายใต้สถานะ <color=#FFD780FF>Grass Ring of Sanctification</color> ของ Shinobu ใช้การโจมตีปกติ, การชาร์จโจมตี และการโจมตีพุ่งลงจากอากาศถูกศัตรู ตรา Thundergrass Mark จะร่วงหล่นลงมายังตำแหน่งของศัตรู และสร้าง<color=#FFACFFFF>ความเสียหายไฟฟ้าวงกว้าง</color> เป็น 9.7% ของพลังชีวิตสูงสุดของ Shinobu\nเอฟเฟกต์นี้จะเกิดขึ้นได้มากสุด 1 ครั้ง ในทุก 5 วินาที",
+      "vi": "Nhân vật trong trạng thái <color=#FFD780FF>Vòng Cỏ Thánh Hóa</color> của Shinobu khi tấn công thường, trọng kích hoặc tấn công khi đáp trúng kẻ địch, Lôi Thảo Ấn sẽ giáng xuống vị trí của kẻ địch, gây <color=#FFACFFFF>Sát Thương Phạm Vi Nguyên Tố Lôi</color> bằng 9.7% giới hạn HP của Shinobu.\nHiệu quả này mỗi 5s tối đa kích hoạt một lần."
+    },
+    "imgid": "constellation_4"
+  },
+  {
+    "title": {
+      "zhs": "割舍逢迎之心",
+      "zht": "割捨逢迎之心",
+      "jp": "捨て去りし阿諛の心",
+      "ko": "영합을 떨쳐내는 마음",
+      "en": "To Cease Courtesies",
+      "de": "Verzicht auf Anbiederung",
+      "es": "Reniego de la adulación",
+      "fr": "Pour cesser les courtoisies",
+      "pt": "Sem Cortesia",
+      "ru": "Отказ от любезностей",
+      "id": "To Cease Courtesies",
+      "th": "To Cease Courtesies",
+      "vi": "Từ Bỏ Xu Nịnh"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>御咏鸣神刈山祭</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>御詠鳴神刈山祭</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>御詠鳴神刈山祭</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>교에 나루카미 카리야마 의식</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Gyoei Narukami Kariyama Rite</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Gyoei-Narukami-Kariyama-Ritual</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Eleusinia de Narukami</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Rituel des semoirs de Narukami</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o nível de <color=#FFD780FF>Ritual Semeador Narukami</color> em 3.\nO nível máximo de elevação é 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Обряд Гёэй Наруками Карияма</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Gyoei Narukami Kariyama Rite</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Gyoei Narukami Kariyama Rite</color> ขึ้น 3 ระดับ\nเพิ่มได้สูงสุดถึงระดับ 15",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Nghi Lễ Gyoei Narukami Kariyama</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_5"
+  },
+  {
+    "title": {
+      "zhs": "割舍软弱之心",
+      "zht": "割捨軟弱之心",
+      "jp": "捨て去りし軟弱な心",
+      "ko": "나약을 떨쳐내는 마음",
+      "en": "To Ward Weakness",
+      "de": "Verzicht auf Weichheit",
+      "es": "Reniego de la debilidad",
+      "fr": "Pour parer à la faiblesse",
+      "pt": "Evitando a Fraqueza",
+      "ru": "Отказ от слабости",
+      "id": "To Ward Weakness",
+      "th": "To Ward Weakness",
+      "vi": "Từ Bỏ Nhu Nhược"
+    },
+    "description": {
+      "zhs": "久岐忍承受足以使她倒下的伤害时，此次伤害不会使她倒下，这个效果在久岐忍生命值为1时会自动触发，该效果每60秒只能触发一次。\n久岐忍生命值降至25%以下时，会提升自身150点精通，持续15秒，该效果每60秒只能触发一次。",
+      "zht": "久岐忍承受足以使她倒下的傷害時，該次傷害不會使她倒下。這個效果在久岐忍生命值為1時會自動觸發，每60秒只能觸發一次。\n久岐忍生命值降至25%以下時，會提升自身150點精通，持續15秒，該效果每60秒只能觸發一次。",
+      "jp": "久岐忍が戦闘不能に至るダメージを受けた時、このダメージで戦闘不能にならない。この効果は久岐忍のHPが1の時に自動で発動され、60秒毎に1回のみ発動できる。\nまた、久岐忍のHPが25%以下になると15秒間、自身の元素熟知+150、60秒毎に1回のみ発動できる。",
+      "ko": "쿠키 시노부가 전투 불능 상태에 빠질 정도의 피해를 받아도 해당 공격으로 전투 불능 상태에 빠지지 않는다. 해당 효과는 쿠키 시노부의 HP가 1일 때 자동으로 발동하며 60초마다 최대 1회 발동한다.\n쿠키 시노부의 HP가 25% 이하로 감소하면 15초 동안 원소 마스터리가 150pt 증가한다. 해당 효과는 60초마다 최대 1회 발동한다",
+      "en": "When Kuki Shinobu takes lethal DMG, this instance of DMG will not take her down. This effect will automatically trigger when her HP reaches 1 and will trigger once every 60s.\nWhen Shinobu's HP drops below 25%, she will gain 150 Elemental Mastery for 15s. This effect will trigger once every 60s.",
+      "de": "Vermeidet, wenn Kuki Shinobu Schaden erleidet, der sie besiegen würde, dass dieser Schaden sie besiegt. Dieser Effekt wird automatisch ausgelöst, wenn Kuki Shinobu nur noch 1 LP hat. 60 s Abklingzeit.\nErhöht, wenn Kuki Shinobus LP unter 25 % fallen, ihre Elementarkunde 15 s lang um 150 Punkte. 60 s Abklingzeit.",
+      "es": "Cuando Kuki Shinobu recibe una cantidad de daño suficiente como para ser derrotada, dicho daño no hará que sea derrotada. Este efecto se activará automáticamente cuando Kuki Shinobu tenga 1 pt. de Vida, y solo podrá ocurrir una vez cada 60 s.\nCuando la Vida de Kuki Shinobu sea inferior al 25%, su Maestría Elemental aumenta en 150 pts. durante 15 s, lo cual solo puede ocurrir una vez cada 60 s.",
+      "fr": "Lorsque Kuki Shinobu subit des DGT mortels, elle n'est pas vaincue cette fois-ci. Cet effet se déclenche automatiquement lorsque Kuki Shinobu a 1 PV et peut être déclenché une fois toutes les 60 s.\nLorsque les PV de Kuki Shinobu passent sous le seuil des 25 %, sa maîtrise élémentaire augmente de 150 pts pendant 15 s. Cet effet peut être déclenché une fois toutes les 60 s.",
+      "pt": "Quando Kuki Shinobu sofre Dano que pode derrotá-la, esse Dano não a derrotará. Esse efeito será desencadeado automaticamente quando sua Vida atingir 1, e pode ocorrer uma vez a cada 60s.\nQuando a Vida de Kuki Shinobu for inferior a 25%, aumentará sua Proficiência Elemental em 150 pontos por 15s. Esse efeito pode ocorrer uma vez a cada 60s.",
+      "ru": "Когда Куки Синобу получает летальный урон, то не погибает от него. Этот эффект активируется автоматически, когда у Куки Синобу остаётся 1 HP. Может возникнуть раз в 60 сек.\nКогда HP Куки Синобу опускается до 25% или ниже, её мастерство стихий увеличивается на 150 ед. на 15 сек. Эффект может возникнуть раз в 60 сек.",
+      "id": "Saat Kuki Shinobu menerima DMG mematikan, DMG tersebut tidak akan membuatnya gugur. Efek ini terpicu secara otomatis saat HP-nya mencapai 1 dan dapat terpicu setiap 60 detik.\nSaat HP Shinobu turun sampai di bawah 25%, Shinobu akan mendapatkan 150 Elemental Mastery selama 15 detik. Efek ini terpicu setiap 60 detik.",
+      "th": "เมื่อ Kuki Shinobu ได้รับความเสียหายมากพอที่จะทำให้เธอหมดสติ ความเสียหายในครั้งนี้ จะไม่ทำให้เธอหมดสติ โดยที่เอฟเฟกต์นี้ จะเกิดขึ้นโดยอัตโนมัติเมื่อพลังชีวิตของ Kuki Shinobu เหลือ 1 และในทุก 60 วินาที จะเกิดขึ้นได้เพียงหนึ่งครั้ง\nเมื่อพลังชีวิตของ Kuki Shinobu ลดลงต่ำกว่า 25% จะเพิ่มความชำนาญธาตุของตนเองขึ้น 150 หน่วย เป็นเวลา 15 วินาที ซึ่งในทุก 60 วินาที เอฟเฟกต์นี้จะเกิดขึ้นได้เพียงหนึ่งครั้ง",
+      "vi": "Kuki Shinobu sau khi nhận sát thương chí tử sẽ không gục ngã, hiệu ứng này sẽ tự động kích hoạt khi HP của Shinobu giảm còn 1, mỗi 60s tối đa kích hoạt một lần.\nKhi HP của Shinobu giảm đến dưới 25% sẽ tăng 150 điểm tinh thông cho bản thân, duy trì 15s, hiệu quả này mỗi 60s tối đa kích hoạt một lần."
+    },
+    "imgid": "constellation_6"
+  }
+]

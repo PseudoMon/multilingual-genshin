@@ -29,8 +29,7 @@
       "id": "<color=#FFD780FF>Normal Attack</color>\nMelancarkan hingga 5 tebasan pedang berturut-turut.\n\n<color=#FFD780FF>Charged Attack</color>\nMengonsumsi sejumlah Stamina untuk melancarkan dua tebasan pedang ke depan.\n\n<color=#FFD780FF>Plunging Attack</color>\nMenerjang dari udara untuk menghantam tanah, mengakibatkan DMG pada musuh di jalur terjangan dan mengakibatkan DMG area saat mendarat.",
       "th": "<color=#FFD780FF>โจมตีปกติ</color>\nโจมตีด้วยดาบต่อเนื่องมากสุดห้าครั้ง\n\n<color=#FFD780FF>ชาร์จโจมตี</color>\nใช้พลังกายส่วนหนึ่ง เพื่อปลดปล่อยการโจมตีด้วยดาบ ออกไปข้างหน้าสองครั้งอย่างรวดเร็ว\n\n<color=#FFD780FF>โจมตีพุ่งลงจากอากาศ</color>\nกระโจนจากกลางอากาศลงมายังพื้นดิน เพื่อโจมตีศัตรูที่อยู่ในเส้นทางการโจมตี โดยจะสร้างความเสียหายวงกว้างเมื่อลงถึงพื้น",
       "vi": "<color=#FFD780FF>Tấn Công Thường</color>\nThực hiện tối đa 5 lần đánh kiếm liên tiếp.\n\n<color=#FFD780FF>Trọng Kích</color>\nTiêu hao thể lực nhất định, đánh ra hai kiếm về phía trước trong chớp mắt.\n\n<color=#FFD780FF>Tấn Công Khi Đáp</color>\nĐáp xuống đất từ trên không, tấn công kẻ địch trên đường và gây sát thương phạm vi khi chạm đất."
-    },
-    "imgid": "s_383101"
+    }
   },
   {
     "title": {
@@ -62,8 +61,7 @@
       "id": "Albedo menciptakan Solar Isotoma yang mengakibatkan <color=#FFE699FF>Geo DMG area</color>.\n\n<color=#FFD780FF>Solar Isotoma</color>\nMempunyai efek sebagai berikut:\n·Saat musuh yang berada dalam area Solar Isotoma menerima DMG, Solar Isotoma akan menghasilkan Transient Blossom yang mengakibatkan <color=#FFE699FF>Geo DMG area</color>. DMG yang diakibatkan akan berdasarkan pada DEF Albedo.\n·Transient Blossom hanya dapat muncul setiap 2 detik.\n·Saat Karakter berada di atas Solar Isotoma, Solar Isotoma akan mengakumulasi kekuatan Geo dan mengangkat Karakter ke atas platform kristal. Hanya bisa terdapat satu platform kristal dalam waktu bersamaan.\n·Hanya bisa terdapat satu Solar Isotoma yang diciptakan Albedo di waktu yang bersamaan. Solar Isotoma dianggap sebagai <color=#FFE699FF>Geo Construct</color>.\n\n<color=#FFD780FF>Tahan</color>\nUntuk mengatur lokasi skill.\n\n<i>Bunga Geo ini mempunyai ciri khas yang mencerminkan tujuan utama ilmu alkimia: Lahir dari bumi dan naik ke langit, untuk menjadi matahari.</i>",
       "th": "#ใช้วิชาแปรธาตุสร้าง Solar Isotoma เพื่อทำให้เกิด<color=#FFE699FF>ความเสียหายหินเป็นวงกว้าง</color>\n\n<color=#FFD780FF>Solar Isotoma</color>\nมีคุณสมบัติพิเศษดังต่อไปนี้:\n·เมื่อศัตรูได้รับความเสียหายภายในพื้นที่ที่มี Solar Isotoma เป็นศูนย์กลาง จากนั้น Solar Isotoma จะสร้าง Transient Blossom ที่จะทำให้เกิด<color=#FFE699FF>ความเสียหายหินวงกว้าง</color> โดยความเสียหายที่สร้าง จะขึ้นอยู่กับพลังป้องกันของ Albedo\n·ในทุก 2 วินาที จะสามารถทำให้เกิด Transient Blossom ได้เพียงครั้งเดียวเท่านั้น\n·เมื่อตัวละครอยู่ในพื้นที่ของ Solar Isotoma แล้ว Solar Isotoma จะรวบรวมพลังธาตุหินและทำให้เกิดเป็นแท่นคริสตัลที่ยกตัวละครให้สูงขึ้น โดยจะสามารถมีแท่นคริสตัลพร้อมกันได้เพียงแท่นเดียวเท่านั้น\n·ในช่วงเวลาเดียวกัน จะสามารถมี Solar Isotoma ที่ถูกสร้างขึ้นโดยตัวของ Albedo เองได้เพียงอันเดียวเท่านั้น และจะถูกมองว่าเป็น<color=#FFE699FF>วัตถุธาตุหิน</color>\n\n<color=#FFD780FF>{LAYOUT_MOBILE#แตะค้าง}{LAYOUT_PC#กดค้าง}{LAYOUT_PS#กดค้าง}</color>\nสามารถปรับตำแหน่งการเกิดเอฟเฟกต์ของสกิลได้\n\n<i>ดอกไม้หินชนิดนี้มีคุณลักษณะพิเศษที่ไม่ธรรมดา ซึ่งสอดคล้องกับจุดประสงค์ของการเล่นแร่แปรธาตุ ถือกำเนิดขึ้นมาจากพื้นดิน แต่หวังเสมอว่าจะได้ขึ้นไปบนท้องฟ้า และกลายเป็นดวงตะวัน</i>",
       "vi": "Luyện thành Hoa Mặt Trời, gây <color=#FFE699FF>sát thương phạm vi Nguyên Tố Nham</color>.\n\n<color=#FFD780FF>Hoa Mặt Trời</color>\nCó những đặc tính sau:\n·Lấy Hoa Mặt Trời làm tâm, khi địch nằm trong khu vực nhận sát thương, Hoa Mặt Trời sẽ sinh ra Hoa Khoảnh Khắc, bung nở gây <color=#FFE699FF>sát thương phạm vi Nguyên Tố Nham</color>, sát thương tính theo phòng ngự của Albedo.\n·Mỗi 2 giây chỉ có thể sinh ra 1 Hoa Khoảnh Khắc.\n·Khi nhân vật đứng trên Hoa Mặt Trời sẽ ngưng tụ sức mạnh Nguyên Tố Nham, hình thành đài thủy tinh nâng nhân vật lên. Cùng lúc chỉ tồn tại 1 đài thủy tinh.\n·Cùng lúc chỉ có thể tồn tại 1 Hoa Mặt Trời do Albedo tạo ra, Hoa Mặt Trời được coi như <color=#FFE699FF>vật tạo Nguyên Tố Nham</color>.\n\n<color=#FFD780FF>Nhấn giữ</color>\nCó thể điều chỉnh vị trí hiệu lực của kỹ năng.\n\n<i>Loại Nham hoa này có đặc tính kỳ lạ, cũng giống như thuật giả kim, sinh ra từ mặt đất nhưng lại luôn hy vọng vươn cao lên trời, hóa thành vầng thái dương.</i>"
-    },
-    "imgid": "s_383201"
+    }
   },
   {
     "title": {
@@ -95,8 +93,7 @@
       "id": "Di bawah perintah Albedo, kristal Geo melonjak dan meledak, mengakibatkan <color=#FFE699FF>Geo DMG area</color> di hadapan Albedo.\nJika Solar Isotoma yang dibuat oleh Albedo sendiri ada di sekitarnya, maka 7 Fatal Blossom akan muncul di area sekitar Solar Isotoma dan menyebabkan ledakan yang mengakibatkan <color=#FFE699FF>Geo DMG area</color>.\n\nDMG Tectonic Tide dan DMG Fatal Blossom tidak akan menghasilkan Transient Blossom.\n\n<i>Di bawah perintah Kreideprinz, gelombang tektonik penciptaan akan menghasilkan kehidupan.</i>",
       "th": "คริสตัลหินที่ปะทุขึ้นภายใต้คำสั่งของ Albedo จะทำให้เกิด <color=#FFE699FF>ความเสียหายหินเป็นวงกว้าง</color> ขึ้นที่ด้านหน้าของ Albedo\nหากมี Solar Isotoma ที่สร้างขึ้นโดยตัวของ Albedo อยู่ จะสร้าง Fatal Blossoms ขึ้น 7 ดอก ภายในพื้นที่ของ Solar Isotoma โดยจะเบ่งบานขึ้นมาอย่างรุนแรงและทำให้เกิด<color=#FFE699FF>ความเสียหายหินวงกว้าง</color>\n\nความเสียหายท่าไม้ตายและความเสียหายของ Fatal Blossom จะไม่ทำให้เกิด Transient Blossoms\n\n<i>ด้วยคำสั่งของ Kreideprinz คลื่นแห่งวัตถุของพื้นโลกจะปะทุขึ้นมา</i>",
       "vi": "Dưới chỉ huy của Albedo, nham tinh bùng nổ, gây <color=#FFE699FF>sát thương phạm vi Nguyên Tố Nham</color> về phía trước.\nKhi trong trận có tồn tại Hoa Mặt Trời do Albedo tạo ra, sẽ nở bung 7 đóa Hoa Sinh Tử trong khu vực của Hoa Mặt Trời, nở rộ rực rỡ đồng thời gây <color=#FFE699FF>sát thương phạm vi Nguyên Tố Nham</color>.\n\nSát thương bạo phát và sát thương của Hoa Sinh Tử sẽ không tạo thành Hoa Khoảnh Khắc.\n\n<i>Dưới mệnh lệnh của Kreideprinz, dòng thủy triều của địa chất cuồn cuộn dâng trào.</i>"
-    },
-    "imgid": "s_383901"
+    }
   },
   {
     "title": {
@@ -128,8 +125,7 @@
       "id": "Transient Blossom yang muncul karena <color=#FFD780FF>Abiogenesis: Solar Isotoma</color> mengakibatkan 25% DMG lebih besar kepada musuh dengan HP kurang dari 50%.",
       "th": "Transient Blossom ที่เกิดจาก <color=#FFD780FF>Abiogenesis: Solar Isotoma</color> จะสร้างความเสียหายแก่ศัตรูที่มีพลังชีวิตต่ำกว่า 50% เพิ่มขึ้น 25%",
       "vi": "Hoa Khoảnh Khắc sinh ra từ <color=#FFD780FF>Thuật Sáng Thế - Chế Tạo Mặt Trời</color> sát thương gây cho kẻ địch có HP dưới 50% sẽ tăng 25%."
-    },
-    "imgid": "p_382101"
+    }
   },
   {
     "title": {
@@ -161,8 +157,7 @@
       "id": "<color=#FFD780FF>Rite of Progeniture: Tectonic Tide</color> akan meningkatkan 125 Elemental Mastery bagi anggota party di sekitarnya selama 10 detik.",
       "th": "เมื่อใช้ <color=#FFD780FF>Rite of Progeniture: Tectonic Tide</color> จะเพิ่มความชำนาญธาตุให้แก่ตัวละครในทีมที่อยู่ใกล้ขึ้น 125 หน่วย เป็นเวลา 10 วินาที",
       "vi": "Khi thi triển <color=#FFD780FF>Chiêu Giáng Sinh - Sóng Vỗ Đại Lục</color> sẽ tăng 125 điểm Tinh Thông Nguyên Tố cho thành viên trong đội ở gần, kéo dài 10s."
-    },
-    "imgid": "p_382201"
+    }
   },
   {
     "title": {
@@ -194,7 +189,6 @@
       "id": "Saat membuat Material Ascension Senjata, memiliki 10% kemungkinan untuk mendapatkan hasil 2 kali lipat.",
       "th": "เมื่อสร้างวัสดุเลื่อนขั้นอาวุธ จะมีโอกาส 10% ที่จะได้รับผลผลิตเพิ่มเป็น 2 เท่า",
       "vi": "Khi ghép nguyên liệu đột phá vũ khí sẽ có 10% tỷ lệ nhận x2 thành phẩm."
-    },
-    "imgid": "p_382301"
+    }
   }
 ]

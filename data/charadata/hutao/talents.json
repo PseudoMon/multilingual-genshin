@@ -12,7 +12,7 @@
       "pt": "Ataque Normal: Lança Secreta de Wangsheng",
       "ru": "Скрытое копьё «Ваншэн»",
       "id": "Normal Attack: Secret Spear of Wangsheng",
-      "th": "โจมตีปกติ - Secret Spear of Wangsheng",
+      "th": "โจมตีปกติ: Secret Spear of Wangsheng",
       "vi": "Tấn Công Thường - Thương Pháp Bí Truyền Vãng Sinh"
     },
     "description": {
@@ -29,8 +29,7 @@
       "id": "<color=#FFD780FF>Normal Attack</color>\nMelancarkan hingga 6 serangan berturut-turut.\n\n<color=#FFD780FF>Charged Attack</color>\nMengonsumsi sejumlah Stamina untuk menerjang ke depan, mengakibatkan DMG pada musuh di jalur terjangan.\n\n<color=#FFD780FF>Plunging Attack</color>\nMenerjang dari udara untuk menghantam tanah, mengakibatkan DMG pada musuh di jalur terjangan dan mengakibatkan DMG area saat mendarat.",
       "th": "<color=#FFD780FF>โจมตีปกติ</color>\nโจมตีต่อเนื่องมากสุดหกครั้ง\n\n<color=#FFD780FF>ชาร์จโจมตี</color>\nกินพลังกายปริมาณหนึ่งเพื่อ พุ่งไปข้างหน้าและสร้างความเสียหาย แก่ศัตรูที่อยู่ในเส้นทาง\n\n<color=#FFD780FF>โจมตีพุ่งลงจากอากาศ</color>\nกระโจนจากกลางอากาศลงมายังพื้นดิน เพื่อโจมตีศัตรูที่อยู่ในเส้นทางการโจมตี โดยจะสร้างความเสียหายวงกว้างเมื่อลงถึงพื้น",
       "vi": "<color=#FFD780FF>Tấn Công Thường</color>\nThực hiện tối đa 6 lần đánh liên tiếp.\n\n<color=#FFD780FF>Trọng Kích</color>\nTiêu hao thể lực nhất định, xông về phía trước, gây sát thương cho địch trên đường đi.\n\n<color=#FFD780FF>Tấn Công Khi Đáp</color>\nĐáp xuống đất từ trên không, tấn công kẻ địch trên đường và gây sát thương phạm vi khi chạm đất."
-    },
-    "imgid": "s_463101"
+    }
   },
   {
     "title": {
@@ -62,8 +61,7 @@
       "id": "Hanya kobaran api tak terpadamkan yang dapat membersihkan ketidakmurnian dunia ini.\nHu Tao mengonsumsi sejumlah HP untuk menyerang dan menghempas musuh di sekitar, kemudian masuk ke dalam kondisi Paramita Papilio.\n\n<color=#FFD780FF>Paramita Papilio</color>\n·Kondisi ini meningkatkan ATK Hu Tao berdasarkan Max HP. Tambahan bonus ATK tidak dapat melebihi 400% Base ATK Hu Tao.\n·Mengonversi DMG serangan menjadi <color=#FF9999FF>Pyro DMG</color>, konversi ini tidak dapat ditimpa oleh Elemental Infusion lainnya.\n·Musuh yang terkena Charged Attack akan terkena efek Blood Blossom.\n·Meningkatkan ketahanan Hu Tao terhadap interupsi.\n\n<color=#FFD780FF>Blood Blossom</color>\nMusuh yang terkena efek Blood Blossom akan menerima <color=#FF9999FF>Pyro DMG</color> setiap 4 detik. DMG yang diakibatkan akan dihitung sebagai Elemental Skill DMG.\nSetiap musuh hanya dapat dipengaruhi oleh satu efek Blood Blossom dalam satu waktu, dan durasi waktunya hanya bisa diperbarui oleh Hu Tao sendiri.\n\n<color=#FFD780FF>Paramita Papilio</color> berhenti saat durasi waktunya berakhir, atau saat Hu Tao telah meninggalkan medan pertempuran/gugur.\n\n<i>Teknik Secret Spear Hu Tao didasarkan pada beberapa aturan, di mana aturan yang pertama adalah: \"Tombak membuka jalan menuju akhirat, dan kupu-kupu menjembatani dunia sekarang dan dunia berikutnya.\"</i>",
       "th": "มีเพียงเปลวไฟอันเป็นนิรันดร์เท่านั้นที่จะสามารถชำระล้างสิ่งที่ไม่บริสุทธิ์ในโลกได้\nHu Tao จะใช้พลังชีวิตบางส่วนเพื่อโจมตีศัตรูที่อยู่รอบตัวและเข้าสู่สภาวะ Paramita Papilio\n\n<color=#FFD780FF>Paramita Papilio</color>\n·เพิ่มพลังโจมตีของ Hu Tao โดยขึ้นอยู่กับพลังชีวิตสูงสุดของ Hu Tao ในตอนที่เข้าสู่สภาวะนี้ โดยพลังโจมตีที่เพิ่มขึ้นด้วยวิธีนี้ จะไม่เกิน 400% ของพลังโจมตีพื้นฐานของ Hu Tao;\n·เปลี่ยนความเสียหายของการโจมตีเป็น<color=#FF9999FF>ความเสียหายไฟ</color> ซึ่งการเปลี่ยนแปลงธาตุนี้ไม่สามารถแทนที่ด้วยการแปลงของธาตุอื่นได้;\n·ชาร์จโจมตีจะทำให้ศัตรูที่ถูกโจมตีติดเอฟเฟกต์ Blood Blossom;\n·เพิ่มความสามารถในการต้านทานการหยุดชะงักของ Hu Tao\n\n<color=#FFD780FF>Blood Blossom</color>\nศัตรูที่ได้รับผลกระทบของ Blood Blossom จะได้รับ<color=#FF9999FF>ความเสียหายไฟ</color>ในทุก 4 วินาที ซึ่งความเสียหายนี้ จะถูกมองว่าเป็นความเสียหายของสกิลธาตุ\nศัตรูหนึ่งตัวจะสามารถติดเอฟเฟกต์ Blood Blossom ได้เพียงหนึ่งครั้งในช่วงเวลาเดียวกันเท่านั้น และสามารถถูกรีเฟรชเวลาต่อเนื่องได้โดยตัวของ Hu Tao เองเท่านั้น\n\n<color=#FFD780FF>Paramita Papilio</color> จะหายไปเมื่อหมดช่วงเวลาต่อเนื่อง หรือเมื่อ Hu Tao ออกจากการต่อสู้หรือหมดสติ\n\n<i>วิชาหอกที่ Hu Tao ได้รับสืบทอดมา เริ่มต้นด้วยคำพูดที่ว่า: \"คมหอกเปิดประตูสู่ยมโลก ผีเสื้อเชื่อมโยงชีวิตหลังความตาย\"</i>",
       "vi": "Chỉ có ngọn lửa bất diệt mới có thể gột rửa những thứ ô uế trên thế gian.\nHu Tao tiêu hao một phần HP đánh lui kẻ địch xung quanh, bước vào trạng thái \"Bỉ Ngạn Điệp Vũ\".\n\n<color=#FFD780FF>Bỉ Ngạn Điệp Vũ</color>\n·Sức tấn công của Hu Tao sẽ tăng lên dựa theo giới hạn HP khi vào trạng thái này, tấn công tăng lên bằng cách này không được vượt quá 400% tấn công cơ bản của Hu Tao.\n·Chuyển sát thương tấn công thành <color=#FF9999FF>sát thương Nguyên Tố Hỏa</color>, nguyên tố chuyển hóa này không thể bị đính kèm thay thế;\n·Trọng kích sẽ tăng thêm hiệu quả Huyết Mai Hương cho kẻ địch bị đánh trúng.\n·Tăng khả năng kháng gián đoạn của Hu Tao.\n\n<color=#FFD780FF>Huyết Mai Hương</color>\nKẻ địch ở trạng thái Huyết Mai Hương, mỗi 4 giây sẽ chịu <color=#FF9999FF>sát thương Nguyên Tố Hỏa</color> 1 lần. Sát thương này được xem là sát thương kỹ năng Nguyên Tố.\nCùng một mục tiêu chỉ được tồn tại 1 hiệu quả Huyết Mai Hương, và chỉ có bản thân Hu Tao được làm mới thời gian kéo dài.\n\n<color=#FFD780FF>Bỉ Ngạn Điệp Vũ</color> sẽ được giải trừ khi kết thúc thời gian duy trì kỹ năng, Hu Tao rời trận hoặc bị đánh bại.\n\n<i>Câu đầu tiên trong khẩu quyết của phương pháp bí truyền mà Hu Tao học được là: \"Thương trấn Hoàng Tuyền Lộ, bướm bay Cầu Lai Thế.\"</i>"
-    },
-    "imgid": "s_463201"
+    }
   },
   {
     "title": {
@@ -95,8 +93,7 @@
       "id": "Memerintahkan roh yang membara untuk menyerang dan mengakibatkan <color=#FF9999FF>Pyro DMG</color> pada area yang besar.\nSaat memukul musuh, akan memulihkan HP berdasarkan persentase Max HP Hu Tao. Efek ini dapat terpicu ke 5 musuh berbeda.\nJika HP Hu Tao sama dengan atau kurang dari 50% saat skill ini mengenai musuh, maka DMG dan pemulihan HP akan meningkat.\n\n<i>Aktivitas supernatural dari roh-roh yang telah meninggalkan dunia ini adalah kecemasan terbesar Wangsheng Funeral Parlor. Tetapi kegiatan kremasi selalu bisa meredakan kecemasan Hu Tao, dan semakin cemas Hu Tao, semakin kuat juga api kremasi yang dia gunakan.</i>",
       "th": "ควบคุมจิตวิญญาณแห่งเปลวเพลิงเพื่อสร้าง<color=#FF9999FF>ความเสียหายไฟ</color>วงกว้าง\nเมื่อโจมตีถูกศัตรู จะเป็นการฟื้นฟูพลังชีวิตให้ Hu Tao โดยที่ปริมาณการฟื้นฟูจะขึ้นอยู่กับพลังชีวิตสูงสุดของ Hu Tao ซึ่งเอฟเฟกต์นี้จะเกิดผลกับศัตรูที่ถูกโจมตีได้มากสุด 5 ตัว\nหากใช้สกิลโจมตีถูกศัตรูในตอนที่พลังชีวิตของ Hu Tao ต่ำกว่าหรือเท่ากับ 50% ปริมาณความเสียหายที่สร้างและปริมาณการรักษาจะสูงขึ้น\n\n<i>หากสิ่งที่ล่วงลับไปแล้วยังคงออกมาป้วนเปี้ยน เช่นนั้นจะทำให้ทางโถงแห่งการเกิดใหม่ Wangsheng เป็นกังวลอย่างมาก ซึ่งการฌาปนกิจนั้นเป็นวิธีที่ดีที่สุดในการทำให้จิตใจของ Hu Tao สงบลงได้ ยิ่งเธอกังวลมากเท่าไหร่ พลังแห่งไฟก็จะยิ่งแข็งแกร่งขึ้นเท่านั้น</i>",
       "vi": "Vung linh hồn rực lửa, gây <color=#FF9999FF>sát thương Nguyên Tố Hỏa</color> phạm vi lớn.\nKhi trúng kẻ địch, sẽ hồi HP cho Hu Tao dựa theo giới hạn HP của Hu Tao. Hiệu quả này có hiệu lực với tối đa 5 kẻ địch bị đánh trúng.\nNếu HP của Hu Tao thấp hơn hoặc bằng 50% khi bị kỹ năng đánh trúng thì sẽ gây ra sát thương và lượng trị liệu cao hơn.\n\n<i>Thứ đã rời khỏi trần thế nếu vẫn còn tự do đi lại, sẽ khiến Vãng Sinh Đường vô cùng lo lắng. Hỏa táng là cách giúp Hu Tao yên tâm nhất. Hơn nữa, cô ấy càng lo thì lửa sẽ càng lớn.</i>"
-    },
-    "imgid": "s_463901"
+    }
   },
   {
     "title": {
@@ -128,8 +125,7 @@
       "id": "Saat kondisi <color=#FFD780FF>Paramita Papilio</color> yang diaktifkan oleh <color=#FFD780FF>Guide to Afterlife</color> telah berakhir, akan meningkatkan 12% CRIT Rate seluruh anggota party (tidak termasuk Hu Tao sendiri) selama 8 detik.",
       "th": "หลังจากสภาวะของ <color=#FFD780FF>Paramita Papilio</color> ที่เกิดขึ้นโดย <color=#FFD780FF>Guide to Afterlife</color> สิ้นสุดลง อัตราคริของตัวละครทั้งหมดในทีม (ไม่รวมตัวของ Hu Tao เอง) จะเพิ่มขึ้น 12% เป็นเวลา 8 วินาที",
       "vi": "Sau khi trạng thái <color=#FFD780FF>Bỉ Ngạn Điệp Vũ</color> mà <color=#FFD780FF>Điệp Dẫn Lai Sinh</color> tạo ra kết thúc, tỷ lệ bạo kích của tất cả nhân vật trong đội (Không bao gồm Hu Tao) tăng 12%, duy trì 8s."
-    },
-    "imgid": "p_462101"
+    }
   },
   {
     "title": {
@@ -161,8 +157,7 @@
       "id": "Saat HP Hu Tao kurang dari atau sama dengan 50%, maka Hu Tao akan memperoleh 33% <color=#FF9999FF>Pyro DMG Bonus</color>.",
       "th": "เมื่อพลังชีวิตของ Hu Tao ต่ำกว่าหรือเท่ากับ 50% จะได้รับ<color=#FF9999FF>โบนัสความเสียหายไฟ</color> 33%",
       "vi": "Khi HP của Hu Tao dưới hoặc bằng 50% sẽ nhận được 33% <color=#FF9999FF>buff sát thương Nguyên Tố Hỏa</color>."
-    },
-    "imgid": "p_462201"
+    }
   },
   {
     "title": {
@@ -194,7 +189,6 @@
       "id": "Saat Hu Tao memasak makanan dengan sempurna, terdapat 18% kemungkinan mendapatkan hasil tambahan makanan \"Suspicious\" dari jenis makanan yang sama.",
       "th": "เมื่อปรุงอาหารได้ระดับสมบูรณ์ จะมีโอกาส 18% ที่จะได้รับอาหารประเภทเดียวกันในระดับ \"รสประหลาด\" เพิ่มหนึ่งจาน",
       "vi": "Khi nấu hoàn mỹ món ăn có 18% cơ hội nhận thêm 1 món cùng loại với phẩm chất \"kỳ lạ\"."
-    },
-    "imgid": "p_462301"
+    }
   }
 ]

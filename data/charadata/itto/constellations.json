@@ -42,7 +42,7 @@
       "de": "Sieh gut her!",
       "es": "¡Todos contra todos!",
       "fr": "Baston générale !",
-      "pt": "Juntem-se Hora da Briga!",
+      "pt": "Juntem-se, Hora da Briga!",
       "ru": "Все в круг для драки!",
       "id": "Gather 'Round, It's a Brawl!",
       "th": "Gather 'Round, It's a Brawl!",
@@ -93,7 +93,7 @@
       "pt": "Aumenta o nível da <color=#FFD780FF>Masatsu Zetsugi: Explosão Akaushi!</color> em 3.\nO nível máximo de elevação é 15.",
       "ru": "Увеличивает уровень навыка <color=#FFD780FF>Масацу дзэцуги: Взрыв акауси!</color> на 3.\nМакс. уровень: 15",
       "id": "Meningkatkan 3 level <color=#FFD780FF>Masatsu Zetsugi: Akaushi Burst!</color>.\nMaksimum: Lv. 15.",
-      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Masatsu Zetsugi: Akaushi Burst!</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Masatsu Zetsugi: Akaushi Burst!</color> ขึ้น 3 ระดับ\nเพิ่มได้สูงสุดถึงระดับ 15",
       "vi": "Cấp kỹ năng <color=#FFD780FF>Tuyệt Kỹ Masatsu - Akaushi Công Phá!</color> +3.\nTăng tối đa đến cấp 15."
     },
     "imgid": "constellation_3"
@@ -159,7 +159,7 @@
       "pt": "Aumenta o nível da <color=#FFD780FF>Descendência Real: Contemplem, Itto o Maligno!</color> em 3.\nO nível máximo de elevação é 15.",
       "ru": "Увеличивает уровень навыка <color=#FFD780FF>Явление короля: Итто Жестокий!</color> на 3.\nМакс. уровень: 15",
       "id": "Meningkatkan 3 level <color=#FFD780FF>Royal Descent: Behold, Itto the Evil!</color>.\nMaksimum: Lv. 15.",
-      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Royal Descent: Behold, Itto the Evil!</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Royal Descent: Behold, Itto the Evil!</color> ขึ้น 3 ระดับ\nเพิ่มได้สูงสุดถึงระดับ 15",
       "vi": "Cấp kỹ năng <color=#FFD780FF>Siêu Cấp Quỷ Vương - Itto Giáng Lâm!</color> +3.\nTăng tối đa đến cấp 15."
     },
     "imgid": "constellation_5"

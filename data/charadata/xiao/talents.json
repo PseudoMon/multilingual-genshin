@@ -12,7 +12,7 @@
       "pt": "Ataque Normal: Impulso do Redemoinho",
       "ru": "Вихревой удар",
       "id": "Normal Attack: Whirlwind Thrust",
-      "th": "โจมตีปกติ - Whirlwind Thrust",
+      "th": "โจมตีปกติ: Whirlwind Thrust",
       "vi": "Tấn Công Thường - Cuốn Quét Bụi Trần"
     },
     "description": {
@@ -29,8 +29,7 @@
       "id": "<color=#FFD780FF>Normal Attack</color>\nMelancarkan hingga 6 serangan tombak berturut-turut.\n\n<color=#FFD780FF>Charged Attack</color>\nMengonsumsi sejumlah Stamina untuk melakukan serangan ke arah atas.\n\n<color=#FFD780FF>Plunging Attack</color>\nMenerjang dari udara untuk menghantam tanah, mengakibatkan DMG pada musuh di jalur terjangan dan mengakibatkan DMG area saat mendarat.\nSaat melakukan Plunging Attack, Xiao tidak akan terkena DMG karena terjatuh dari ketinggian.",
       "th": "<color=#FFD780FF>โจมตีปกติ</color>\nโจมตีด้วยหอกต่อเนื่องมากสุดหกครั้ง\n\n<color=#FFD780FF>ชาร์จโจมตี</color>\nใช้พลังกายส่วนหนึ่งเพื่อทำการโจมตีงัดขึ้นด้านบน\n\n<color=#FFD780FF>โจมตีพุ่งลงจากอากาศ</color>\nกระโจนจากกลางอากาศลงมายังพื้นดิน เพื่อโจมตีศัตรูที่อยู่ในเส้นทางการโจมตี โดยจะสร้างความเสียหายวงกว้างเมื่อลงถึงพื้น\nเมื่อ Xiao ใช้การโจมตีพุ่งลงจากอากาศ จะไม่ได้รับความเสียหายเมื่อลงถึงพื้น",
       "vi": "<color=#FFD780FF>Tấn Công Thường</color>\nThực hiện tối đa 6 lần đánh liên tiếp.\n\n<color=#FFD780FF>Trọng Kích</color>\nTiêu hao thể lực nhất định để tấn công hướng lên trên.\n\n<color=#FFD780FF>Tấn Công Khi Đáp</color>\nĐáp xuống đất từ trên không, tấn công kẻ địch trên đường và gây sát thương phạm vi khi chạm đất.\nKhi Xiao tiến hành tấn công khi đáp, sẽ không phải chịu sát thương rơi."
-    },
-    "imgid": "s_263101"
+    }
   },
   {
     "title": {
@@ -62,8 +61,7 @@
       "id": "Xiao menerjang ke depan dan mengakibatkan <color=#80FFD7FF>Anemo DMG</color> pada musuh di jalurnya.\nDapat digunakan di udara.\nMemiliki 2 kali penggunaan (charge) dari awal.\n\n<i>Menurut legenda dari dataran lain, dunia ini suatu hari akan dihancurkan oleh dua roda angin raksasa. Keahlian Xiao dalam menggunakan tombak tiada duanya, dan dapat menebas musuh seperti dua roda angin raksasa di legenda tersebut.</i>",
       "th": "พุ่งไปข้างหน้าอย่างรวดเร็วเพื่อสร้าง <color=#80FFD7FF>ความเสียหายลม</color>แก่ศัตรูที่อยู่ในเส้นทาง\nสามารถใช้กลางอากาศได้\nตอนเริ่มจะสามารถใช้ได้ 2 ครั้ง\n\n<i>ในตำนานที่บ้านเกิดของเขา โลกได้ถูกโจมตีด้วยวงล้อพายุ Xiao นั้นได้สำเร็จวิชาการใช้หอก โดยเขาสามารถฟาดฟันศัตรูได้ราวกับ กงล้อพายุในตำนานนั่น</i>",
       "vi": "Lao đến cực nhanh, gây <color=#80FFD7FF>Sát Thương Nguyên Tố Phong</color> cho kẻ địch trên đường.\nCó thể thi triển trên không trung.\nBan đầu có 2 lần sử dụng.\n\n<i>Theo truyền thuyết của nơi nào đó, thế giới sẽ bị nghiền nát bởi hai bánh xe gió. Thương pháp của Xiao đã đạt trình độ xuất thần nhập quỷ, đi lại giống như hai cỗ bánh xe gió xé nát phe địch.</i>"
-    },
-    "imgid": "s_263201"
+    }
   },
   {
     "title": {
@@ -95,8 +93,7 @@
       "id": "Xiao mengenakan Yaksha Mask yang ditakuti oleh para iblis dan juga Archon pada ribuan tahun lalu.\n\n<color=#FFD780FF>Yaksha Mask</color>\n·Meningkatkan kekuatan melompat Xiao secara drastis.\n·Meningkatkan DMG dan area serangan.\n·Mengonversi DMG serangan menjadi <color=#80FFD7FF>Anemo DMG</color> yang tidak dapat ditimpa oleh Elemental Infusion lainnya.\n\nDalam status ini, Xiao akan terus kehilangan HP.\nEfek ini akan hilang saat Xiao keluar dari medan pertempuran.\n\n<i>Saat mengenakan topeng Yaksha-nya, Xiao berubah wujud menjadi Vigilant Yaksha — sang penakluk iblis yang ditakuti. Kekuatan yang sangat besar harus dibayar dengan rasa sakit yang sama besarnya. Dia juga disebut sebagai \"The Bane of All Evil.\"</i>",
       "th": "Xiao สวมหน้ากากยักษาที่ สร้างความหวาดหวั่นให้แก่เหล่าเทพ และปีศาจเมื่อหลายพันปีก่อน\n\n<color=#FFD780FF>Yaksha's Mask</color>\n·เพิ่มความสามารถในการกระโดดให้แก่ Xiao ขึ้นอย่างมาก;\n·เพิ่มระยะและความเสียหายของการโจมตี;\n·เปลี่ยนความเสียหายของการโจมตีเป็น<color=#80FFD7FF>ความเสียหายลม</color> โดยที่ไม่สามารถแทนที่ด้วยการแปลงของธาตุอื่น ๆ ได้\n\nภายใต้สภาวะนี้ Xiao จะสูญเสียพลังชีวิตของเขาอย่างต่อเนื่อง\nเอฟเฟกต์จะหมดไปเมื่อ Xiao ออกจากการต่อสู้\n\n<i>สวมหน้ากากของยักษา ปรากฏตัวในอิริยาบถของ \"ยักษาผู้พิทักษ์\" ที่ทำให้ปีศาจร้ายและวิญญาณชั่วต้องหวาดหวั่น อย่างไรก็ตามพลังที่ยิ่งใหญ่นั้น ก็มาพร้อมกับความเจ็บปวดที่ร้ายแรง ท่านี้ถูกเรียกว่า \"ระบำพิชิตมาร\"</i>",
       "vi": "Phơi bày Mặt Nạ Dạ Xoa mà hàng nghìn năm trước đã khiến yêu ma quỷ quái run sợ.\n\n<color=#FFD780FF>Mặt Nạ Dạ Xoa</color>\n·Tăng khả năng nhảy của Xiao; \n·Tăng phạm vi tấn công và sát thương; \n·Chuyển sát thương thành <color=#80FFD7FF>Sát Thương Nguyên Tố Phong</color>, chuyển hóa nguyên tố này không thể bị đính kèm thay thế.\n\nỞ trạng thái này, Xiao sẽ liên tục mất HP.\nHiệu quả sẽ mất khi Xiao rời trận.\n\n<i>Đeo lên mặt nạ Hàng Ma, Hộ Pháp Dạ Xoa xuất hiện khiến tất cả yêu ma run sợ, hàng ma diệt quái. Nhận được sức mạnh to lớn, cũng đem đến đau đớn cùng cực. Tên gọi là Vũ Điệu Trừ Yêu.</i>"
-    },
-    "imgid": "s_263901"
+    }
   },
   {
     "title": {
@@ -128,8 +125,7 @@
       "id": "Meningkatkan 5% DMG Xiao saat berada dalam status <color=#FFD780FF>Bane of All Evil</color>. Selama durasi skill, DMG Xiao akan terus meningkat sebesar 5% setiap 3 detik.\nBatas maksimum peningkatan DMG adalah 25%.",
       "th": "ภายใต้สภาวะของ <color=#FFD780FF>Bane of All Evil</color> ความเสียหายทั้งหมดที่ Xiao สร้างจะเพิ่มขึ้น 5% นอกจากนี้ ภายในช่วงเวลาต่อเนื่องของสกิล ความเสียหายที่สร้างจะเพิ่มขึ้นอีก 5% เมื่อเวลาผ่านไปทุก 3 วินาที\nโบนัสความเสียหายนี้จะเพิ่มได้มากสุดที่ 25%",
       "vi": "Trong trạng thái <color=#FFD780FF>Vũ Điệu Trừ Yêu</color>, tất cả sát thương Xiao gây ra tăng 5%. Sau đó, trong thời gian duy trì của kỹ năng, mỗi 3s, sát thương gây ra sẽ tăng thêm 5%.\nTối đa nhận 25% sát thương tăng thêm."
-    },
-    "imgid": "p_262101"
+    }
   },
   {
     "title": {
@@ -144,7 +140,7 @@
       "pt": "Dissolução de Eon - Queda do Céu",
       "ru": "Эра распада: Падение небес",
       "id": "Dissolution Eon: Heaven Fall",
-      "th": "Dissolution Eon - Heaven Fall",
+      "th": "Dissolution Eon: Heaven Fall",
       "vi": "Hoại Kiếp - Quốc Thổ"
     },
     "description": {
@@ -161,8 +157,7 @@
       "id": "Menggunakan <color=#FFD780FF>Lemniscatic Wind Cycling</color> akan meningkatkan 15% DMG Lemniscatic Wind Cycling selanjutnya selama 7 detik.\nEfek dapat ditumpuk hingga 3 lapis. Durasi akan diperbarui setiap mendapat tumpukan baru.",
       "th": "การปล่อย <color=#FFD780FF>Lemniscatic Wind Cycling</color> จะทำให้การปล่อย Lemniscatic Wind Cycling ครั้งต่อไปภายในเวลา 7 วินาที สร้างความเสียหายเพิ่มขึ้น 15%\nเอฟเฟกต์นี้จะคงอยู่เป็นเวลา 7 วินาที โดยจะซ้อนทับกันได้มากสุด 3 ครั้ง และจะรีเฟรชระยะเวลาต่อเนื่อง เมื่อเกิดการซ้อนทับกัน",
       "vi": "Sau khi thi triển <color=#FFD780FF>Đôi Bánh Xe Gió</color>, trong vòng 7s sau đó sẽ khiến cho sát thương của Đôi Bánh Xe Gió tăng 15%.\nHiệu quả kéo dài 7s, tối đa cộng dồn 3 lần, khi cộng dồn sẽ làm mới thời gian kéo dài."
-    },
-    "imgid": "p_262201"
+    }
   },
   {
     "title": {
@@ -177,7 +172,7 @@
       "pt": "Transcensão - Transgressão Gravitacional",
       "ru": "Трансценденция: Отрицание гравитации",
       "id": "Transcension: Gravity Defier",
-      "th": "Transcension - Gravity Defier",
+      "th": "Transcension: Gravity Defier",
       "vi": "Thần Thông - Không Trung Tự Tại"
     },
     "description": {
@@ -194,7 +189,6 @@
       "id": "Mengurangi 20% konsumsi Stamina saat memanjat untuk anggota party sendiri.\nTidak dapat ditumpuk dengan Talenta Pasif dengan efek yang sama.",
       "th": "ลดอัตราการเสียพลังกายจากการปีน ให้ตัวละครของตนเองที่อยู่ในทีมลง 20%\nไม่สามารถซ้อนทับพรสวรรค์ติดตัวที่เอฟเฟกต์เหมือนกันทุกประการได้",
       "vi": "Giảm 20% tiêu hao thể lực khi leo trèo cho nhân vật trong đội của bản thân.\nKhông thể cộng dồn với buff Thiên Phú cố định có cùng hiệu quả."
-    },
-    "imgid": "p_262301"
+    }
   }
 ]

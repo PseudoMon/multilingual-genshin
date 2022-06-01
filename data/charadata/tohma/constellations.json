@@ -93,7 +93,7 @@
       "pt": "Aumenta o Nível da <color=#FFD780FF>Proteção das Chamas do Destino</color> em 3.\nO Nível máximo de elevação é 15.",
       "ru": "Увеличивает уровень навыка <color=#FFD780FF>Пылающий покров</color> на 3.\nМакс. уровень: 15",
       "id": "Meningkatkan 3 level <color=#FFD780FF>Blazing Blessing</color>.\nMaksimum: Lv. 15.",
-      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Blazing Blessing</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Blazing Blessing</color> ขึ้น 3 ระดับ\nเพิ่มได้สูงสุดถึงระดับ 15",
       "vi": "Cấp kỹ năng <color=#FFD780FF>Liệt Hỏa Hộ Mệnh</color> +3.\nTăng tối đa đến cấp 15."
     },
     "imgid": "constellation_3"
@@ -159,7 +159,7 @@
       "pt": "Aumenta o nível da <color=#FFD780FF>Grande Armadura Flamejante</color> em 3.\nO nível máximo de elevação é 15.",
       "ru": "Увеличивает уровень навыка <color=#FFD780FF>Багровый оёрой</color> на 3.\nМакс. уровень: 15",
       "id": "Meningkatkan 3 level <color=#FFD780FF>Crimson Ooyoroi</color>.\nMaksimum: Lv. 15.",
-      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Crimson Ooyoroi</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Crimson Ooyoroi</color> ขึ้น 3 ระดับ\nเพิ่มได้สูงสุดถึงระดับ 15",
       "vi": "Cấp kỹ năng <color=#FFD780FF>Chiến Giáp Rực Cháy</color> +3.\nTăng tối đa đến cấp 15."
     },
     "imgid": "constellation_5"
@@ -188,7 +188,7 @@
       "en": "When a <color=#FFD780FF>Blazing Barrier</color> is obtained or refreshed, the DMG dealt by all party members' Normal, Charged, and Plunging Attacks is increased by 15% for 6s.",
       "de": "Erhöht beim Erhalten oder Aktualisieren von <color=#FFD780FF>Schild des lodernden Segens</color> den mit Standardangriffen, heftigen Schlägen und Angriffen aus dem Fall aller Truppenmitglieder verursachten Schaden 6 s lang um 15 %.",
       "es": "Al obtener un <color=#FFD780FF>escudo llameante</color> o reiniciar su duración, el daño de los Ataques Normales, Cargados y Descendentes de todos los miembros del equipo aumenta en un 15% durante 6 s.",
-      "fr": "Lorsqu'une <color=#FFD780FF>barrière brûlante</color> est obtenue ou actualisée, les DGT des attaques normales, chargées et plongeantes de tous les personnages de l'équipe augmentent de 15 % pendant 6 s.",
+      "fr": "Lorsqu'une <color=#FFD780FF>barrière brûlante</color> est obtenue ou réinitialisée, les DGT des attaques normales, chargées et plongeantes de tous les personnages de l'équipe augmentent de 15 % pendant 6 s.",
       "pt": "Quando uma <color=#FFD780FF>Barreira Flamejante</color> é obtida ou acumulada o Dano causado por Ataques Normais, Carregados e Imersivos de todos os membros da equipe é aumentado em 15% por 6s.",
       "ru": "При получении или обновлении <color=#FFD780FF>Пылающего щита</color> урон обычных атак, заряженных атак и атак в падении всех членов отряда на 6 сек. повышается на 15%.",
       "id": "Saat mendapatkan atau memperbarui <color=#FFD780FF>Blazing Barrier</color>, DMG Normal, Charged, dan Plunging Attack yang diakibatkan semua anggota party akan meningkat 15% selama 6 detik.",

@@ -12,7 +12,7 @@
       "pt": "Ataque Normal: Kitsune Devora-pecados",
       "ru": "Пожирающая грехи кицунэ",
       "id": "Normal Attack: Spiritfox Sin-Eater",
-      "th": "โจมตีปกติ - Spiritfox Sin-Eater",
+      "th": "โจมตีปกติ: Spiritfox Sin-Eater",
       "vi": "Tấn Công Thường - Hồ Linh Thực Tội Thức"
     },
     "description": {
@@ -29,8 +29,7 @@
       "id": "<color=#FFD780FF>Normal Attack</color>\nMemanggil roh kitsune untuk melancarkan hingga 3 serangan yang mengakibatkan <color=#FFACFFFF>Electro DMG</color>.\n\n<color=#FFD780FF>Charged Attack</color>\nMengonsumsi sejumlah Stamina dan mengakibatkan <color=#FFACFFFF>Electro DMG area</color> setelah jeda singkat.\n\n<color=#FFD780FF>Plunging Attack</color>\nMengumpulkan kekuatan gemuruh dan menerjang tanah, mengakibatkan DMG pada musuh di jalur terjangan dan mengakibatkan <color=#FFACFFFF>Electro DMG area</color> saat mendarat.",
       "th": "<color=#FFD780FF>โจมตีปกติ</color>\nเรียกวิญญาณจิ้งจอกออกมา ทำการโจมตีต่อเนื่องมากสุดสามครั้ง เพื่อสร้าง<color=#FFACFFFF>ความเสียหายไฟฟ้า</color>\n\n<color=#FFD780FF>ชาร์จโจมตี</color>\nใช้พลังกายบางส่วน โดยหลังจากร่ายเสร็จจะสร้าง<color=#FFACFFFF>ความเสียหายไฟฟ้าวงกว้าง</color>\n\n<color=#FFD780FF>โจมตีพุ่งลงจากอากาศ</color>\nรวบรวมพลังแห่งสายฟ้า กระโจนจากกลางอากาศลงมายังพื้นดิน เพื่อโจมตีศัตรูที่อยู่ในเส้นทางการโจมตี โดยจะสร้าง<color=#FFACFFFF>ความเสียหายไฟฟ้าวงกว้าง</color>เมื่อลงถึงพื้น",
       "vi": "<color=#FFD780FF>Tấn Công Thường</color>\nTriệu hồi linh hồn hồ ly, thực hiện tối đa 3 lần tấn công, gây <color=#FFACFFFF>Sát Thương Nguyên Tố Lôi</color>.\n\n<color=#FFD780FF>Trọng Kích</color>\nTiêu hao thể lực nhất định, tụ lực và gây <color=#FFACFFFF>Sát Thương Phạm Vi Nguyên Tố Lôi</color>.\n\n<color=#FFD780FF>Tấn Công Khi Đáp</color>\nNgưng tụ sức mạnh lôi đình, từ trên không lao xuống mặt đất, tấn công kẻ địch trên đường, gây <color=#FFACFFFF>Sát Thương Phạm Vi Nguyên Tố Lôi</color> khi chạm đất."
-    },
-    "imgid": "s_583101"
+    }
   },
   {
     "title": {
@@ -62,8 +61,7 @@
       "id": "Bagi Yae, urusan yang tidak penting bisa diselesaikan dengan menggunakan roh kitsune, sehingga dia sendiri tidak perlu turun tangan.\nBergerak cepat dan meninggalkan sebuah Sesshou Sakura.\n\n<color=#FFD780FF>Sesshou Sakura</color>\nMemiliki karakteristik sebagai berikut:\n·Menyerang musuh yang ada di sekitar dengan sambaran petir secara berkala, mengakibatkan <color=#FFACFFFF>Electro DMG</color>.\n·Ketika ada Sesshou Sakura lain yang berdekatan, levelnya akan meningkat dan DMG yang diakibatkan juga turut meningkat.\n\nMemiliki jumlah penggunaan 3 kali.\nMaksimum dapat meninggalkan 3 Sesshou Sakura di waktu yang sama. Level awal dari setiap Sesshou Sakura adalah 1, dan levelnya dapat ditingkatkan hingga level 3. Jika ada dua Sesshou Sakura yang diciptakan terlalu berdekatan, maka Sesshou Sakura yang diciptakan lebih dulu akan hancur.\n\n<i>\"Roh kitsune yang dikurung di pepohonan adalah roh para yakan yang jatuh ke dalam godaan dan hidup dengan memangsa manusia. Kasta mereka berada dua tingkat di bawah Sky Kitsune, jadi kurasa ... tidak masalah kan kalau aku suruh-suruh mereka mengerjakan urusanku? Nah, sistem kasta seperti ini bukan untuk ditiru manusia yah, tidak boleh ... Tapi soal siapa yang lebih tinggi kastanya di antara kitsune dan manusia ... Hehehe, siapa ya ...?\"</i>",
       "th": "สำหรับ Yae แล้ว เรื่องยุ่งยากที่สามารถจัดการได้ โดยใช้เพียงแค่เหล่าวิญญาณนั้น ไม่จำเป็นต้องลงมือลงแรงด้วยตัวเองอย่างแน่นอน\nเคลื่อนที่อย่างรวดเร็ว และทิ้ง Sesshou Sakura ไว้เบื้องหลัง\n\n<color=#FFD780FF>Sesshou Sakura</color>\nมีคุณลักษณะพิเศษดังต่อไปนี้:\n·ปล่อยสายฟ้าฟาดลงมายังศัตรูที่อยู่โดยรอบหนึ่งตัวเป็นระยะ ๆ เพื่อสร้าง<color=#FFACFFFF>ความเสียหายไฟฟ้า</color>;\n·เมื่อมี Sesshou Sakura อันอื่นอยู่ในบริเวณใกล้เคียง จะเพิ่มระดับของมันขึ้น และทำให้ความเสียหายของการโจมตีที่กล่าวข้างต้นเพิ่มสูงขึ้น\n\nสามารถใช้ได้ 3 ครั้ง\nในช่วงเวลาเดียวกัน จะสามารถมี Sesshou Sakura ได้มากสุด 3 อัน โดยที่ระดับแรกในตอนเริ่มสร้างของ Sesshou Sakura จะเป็นระดับ 1 และจะเพิ่มได้มากสุดถึงระดับ 3 ซึ่งหากตำแหน่งที่สร้างอยู่ใกล้กับ Sesshou Sakura ที่มีอยู่ก่อนหน้ามากจนเกินไป จะทำลาย Sesshou Sakura ที่มีอยู่\n\n<i>\"วิญญาณจิ้งจอกที่สิงสถิตอยู่ในกิ่งไม้ล้วนตกต่ำกลายเป็นภูตผี Yakan ที่ทำร้ายมนุษย์ โดยลำดับขั้นของ Yakan นั้นจะต่ำกว่าพวกเราจิ้งจอกฟ้าอยู่สองระดับ ซึ่งทำให้การเรียกใช้งานนั้นเป็นเรื่องง่ายแสนง่าย แต่ระดับของพวกเราจิ้งจอกนั้นแสนมากมายและซับซ้อน มนุษย์อย่างพวกเธออย่าได้เป็นแบบนี้เชียวล่ะ ส่วนเรื่องที่เธอถามว่าระหว่างจิ้งจอกกับมนุษย์ใครอยู่สูงกว่ากัน หึหึ...\"</i>",
       "vi": "Đối với Yae mà nói, những phiền phức mà chỉ cần triệu hồi tinh linh là đã giải quyết được, thì đương nhiên sẽ không cần tự mình nhúng tay vào.\nDi chuyển nhanh và để lại một \"Sesshou Sakura\".\n\n<color=#FFD780FF>Sesshou Sakura</color>\nCó đặc tính sau:\n·Cứ cách một thời gian sẽ giáng sét xuống 1 kẻ địch ở xung quanh, gây <color=#FFACFFFF>Sát Thương Nguyên Tố Lôi</color>;\n·Khi gần đó có Sesshou Sakura khác, sẽ tăng bậc cho chúng để tăng sát thương của đòn tấn công nêu trên.\n\nCó thể sử dụng 3 lần.\nTối đa tồn tại cùng lúc 3 Sesshou Sakura, Sesshou Sakura khi vừa khởi tạo sẽ có bậc 1, tối đa tăng đến bậc 3. Nếu vị trí khởi tạo có cự ly quá gần với Sesshou Sakura đã có, sẽ tiêu hủy Sesshou Sakura đã có.\n\n<i>\"Các tinh linh hồ ly bị phong ấn trong cành cây đều là những yakan chuyên làm hại con người. Yakan thấp hơn thiên hồ chúng tôi hai bậc, vì vậy, tôi có thể ra lệnh cho chúng thoải mái. Hồ ly tuy chia thành ba sáu chín bậc, nhưng con người đừng nên học theo nhé, còn về việc con người và hồ ly ai có cấp bậc cao hơn sao? Hờ hờ...\"</i>"
-    },
-    "imgid": "s_583201"
+    }
   },
   {
     "title": {
@@ -95,8 +93,7 @@
       "id": "Salah satu cerita rakyat Inazuma disebut \"kitsunetsuki\", dan yang paling spesial di antaranya adalah kisah tentang Sky Kitsune yang turun menghanguskan musuh-musuh Kuil Agung Narukami dalam bentuk sambaran petir, mengakibatkan <color=#FFACFFFF>Electro DMG area</color>.\nSaat melancarkan skill ini, Yae Miko akan membuka Sesshou Sakura yang ada di dekatnya, menghancurkan wujud luarnya, dan mengubahnya menjadi Tenko Thunderbolt yang turun dari langit, dan mengakibatkan <color=#FFACFFFF>Electro DMG area</color>. Setiap Sesshou Sakura yang dihancurkan dengan cara ini akan membuat satu Tenko Thunderbolt.\n\n<i>Yae hanya akan mengeluarkan \"wujud\" Sky Kitsune-nya di saat-saat tertentu seperti ini dan mengendalikan petir tersebut. Tidak ada seorang pun yang hidup setelah melihat ekor sang Nona Guuji ... Jadi ingat ya, Nona Yae tidak punya ekor.</i>",
       "th": "ในนิทานพื้นบ้านของชาว Inazuma มีคำกล่าวถึง \"Kitsunetsuki\" หรือการสำแดงพลังของจิ้งจอก (Kitsune) ท่ามกลางหมู่นั้น การสำแดงของ \"จิ้งจอกฟ้า\" ที่ค่อนข้างพิเศษกว่า ซึ่งจะร่วงหล่นลงสู่ร่างกายศัตรูของศาลเจ้า Grand Narukami ในรูปแบบของสายฟ้า โดยสายฟ้าที่ฟาดลงมา จะทำให้เกิด<color=#FFACFFFF>ความเสียหายไฟฟ้าวงกว้าง</color>\nเมื่อใช้สกิลนี้ Yae Miko จะทำการปลดปล่อย Sesshou Sakura ที่อยู่ในบริเวณใกล้เคียง ทำลายรูปร่างภายนอกของพวกมัน แล้วเปลี่ยนเป็นสายฟ้า Tenko Thunderbolt ฟาดลงมา เพื่อสร้าง<color=#FFACFFFF>ความเสียหายไฟฟ้าวงกว้าง</color> โดยที่การทำลาย Sesshou Sakura แต่ละอันด้วยวิธีนี้ จะทำให้เกิดสายฟ้า Tenko Thunderbolt ฟาดลงมาหนึ่งครั้ง\n\n<i>มีเพียงช่วงเวลานี้เท่านั้น ที่ Yae จะต้องเปิดเผยตัวตนของจิ้งจอกฟ้าเพื่อสั่งการสายฟ้า ส่วนเจ้าพวกที่ได้เห็นหางของท่าน Guuji นั้น ต่างก็ไม่เหลือแม้เพียงฝุ่นธุลี ด้วยเหตุนี้ จงจำไว้ให้ขึ้นใจว่า ท่าน Yae น่ะไม่มีหางหรอกนะ</i>",
       "vi": "Trong dân gian Inazuma có nhắc đến khái niệm \"kitsunetsuki\", hay có thể hiểu là chứng nhận của hồ ly. Trong đó, của \"Thiên Hồ\" là tương đối đặc biệt, có thể dùng lôi đình để giáng xuống người kẻ địch của Đền Narukami. Giáng sấm sét xuống, gây <color=#FFACFFFF>Sát Thương Phạm Vi Nguyên Tố Lôi</color>.\nKhi thi triển, Yae Miko sẽ giải phóng Sesshou Sakura ở gần đó, phá hủy hình thái của chúng và hóa thành Thiên Hồ Lôi Đình giáng xuống, gây <color=#FFACFFFF>Sát Thương Phạm Vi Nguyên Tố Lôi</color>. Mỗi lần phá hủy 1 Sesshou Sakura bằng cách này sẽ giáng xuống 1 tia Thiên Hồ Lôi Đình.\n\n<i>Vào lúc này, Yae cần để lộ ra chứng nhận thiên hồ để hiệu lệnh lôi đình. Nhưng những kẻ đã nhìn thấy đại nhân Guuji để lộ chiếc đuôi đều đã tan biến không còn lại gì dù chỉ là hạt bụi. Cho nên, hãy nhớ cho kỹ nhé - Yae đại nhân không hề có đuôi.</i>"
-    },
-    "imgid": "s_583901"
+    }
   },
   {
     "title": {
@@ -128,8 +125,7 @@
       "id": "Saat melancarkan <color=#FFD780FF>Great Secret Art: Tenko Kenshin</color>, setiap kali menghancurkan sebuah Sesshou Sakura akan me-reset cooldown <color=#FFD780FF>Yakan Evocation: Sesshou Sakura</color> satu kali.",
       "th": "เมื่อใช้ <color=#FFD780FF>Great Secret Art: Tenko Kenshin</color> ในตอนที่ Sesshou Sakura แต่ละอันถูกทำลาย จะรีเซ็ตเวลาคูลดาวน์ของ <color=#FFD780FF>Yakan Evocation: Sesshou Sakura</color> 1 ครั้ง",
       "vi": "Khi thi triển <color=#FFD780FF>Đại Bí Pháp - Tenko Kenshin</color>, mỗi lần phá hủy một Sesshou Sakura sẽ làm mới một lần CD kỹ năng <color=#FFD780FF>Thần Chú Yakan - Sesshou Sakura</color>."
-    },
-    "imgid": "p_582101"
+    }
   },
   {
     "title": {
@@ -161,8 +157,7 @@
       "id": "Setiap poin Elemental Mastery yang dimiliki Yae Miko akan meningkatkan DMG yang diakibatkan <color=#FFD780FF>Sesshou Sakura</color> sebanyak 0,15%.",
       "th": "ความชำนาญธาตุแต่ละหน่วยของ Yae Miko จะทำให้ <color=#FFD780FF>Sesshou Sakura</color> สร้างความเสียหายเพิ่มขึ้น 0.15%",
       "vi": "Mỗi 1 điểm Tinh Thông Nguyên Tố của Yae Miko có thể tăng 0.15% sát thương do <color=#FFD780FF>Sesshou Sakura</color> gây ra."
-    },
-    "imgid": "p_582201"
+    }
   },
   {
     "title": {
@@ -194,7 +189,6 @@
       "id": "Memberikan 25% peluang mendapat 1 tambahan Material Talenta acak yang sewilayah saat craft. Level dan material yang dibutuhkannya sama.",
       "th": "เมื่อสร้างวัสดุพรสวรรค์ของตัวละคร มีโอกาส 25% ที่จะสุ่มได้วัสดุพรสวรรค์ชนิดอื่นในพื้นที่เดียวกันอีก 1 ชิ้น โดยจะมีระดับเท่ากันกับระดับของวัสดุที่ใช้ในการสร้าง",
       "vi": "Khi ghép nguyên liệu thiên phú nhân vật, có tỷ lệ 25% sản sinh thêm 1 nguyên liệu thiên phú ngẫu nhiên khác của cùng khu vực, cấp bậc giống với nguyên liệu khi ghép."
-    },
-    "imgid": "p_582301"
+    }
   }
 ]

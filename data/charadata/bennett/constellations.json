@@ -93,7 +93,7 @@
       "pt": "Aumenta o nível da <color=#FFD780FF>Sobrecarga de Paixão</color> em 3.\nO nível máximo de elevação é 15.",
       "ru": "Увеличивает уровень навыка <color=#FFD780FF>Чрезмерные стремления</color> на 3.\nМакс. уровень: 15",
       "id": "Meningkatkan 3 level <color=#FFD780FF>Passion Overload</color>.\nMaksimum: Lv. 15.",
-      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Passion Overload</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Passion Overload</color> ขึ้น 3 ระดับ\nเพิ่มได้สูงสุดถึงระดับ 15",
       "vi": "Cấp kỹ năng <color=#FFD780FF>Nhiệt Tình Quá Độ</color> +3.\nTăng tối đa đến cấp 15."
     },
     "imgid": "constellation_3"
@@ -159,7 +159,7 @@
       "pt": "Aumenta o nível da <color=#FFD780FF>Viagem Fantástica</color> em 3.\nO nível máximo de elevação é 15.",
       "ru": "Увеличивает уровень навыка <color=#FFD780FF>Волнительное приключение</color> на 3.\nМакс. уровень: 15",
       "id": "Meningkatkan 3 level <color=#FFD780FF>Fantastic Voyage</color>.\nMaksimum: Lv. 15.",
-      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Fantastic Voyage</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Fantastic Voyage</color> ขึ้น 3 ระดับ\nเพิ่มได้สูงสุดถึงระดับ 15",
       "vi": "Cấp kỹ năng <color=#FFD780FF>Hành Trình Kỳ Diệu</color> +3.\nTăng tối đa đến cấp 15."
     },
     "imgid": "constellation_5"
@@ -170,7 +170,7 @@
       "zht": "烈火與勇氣",
       "jp": "烈火と勇気",
       "ko": "열화와 용기",
-      "en": "Fire Ventures with Me",
+      "en": "Fire Ventures With Me",
       "de": "Feuer in meiner Brust",
       "es": "Fuego y coraje",
       "fr": "Feu et courage",

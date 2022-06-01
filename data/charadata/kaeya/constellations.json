@@ -93,7 +93,7 @@
       "pt": "Aumenta o nível do <color=#FFD780FF>Mordida Congelante</color> em 3.\nO nível máximo de elevação é 15.",
       "ru": "Увеличивает уровень навыка <color=#FFD780FF>Выпад холода</color> на 3.\nМакс. уровень: 15",
       "id": "Meningkatkan 3 level <color=#FFD780FF>Frostgnaw</color>.\nMaksimum: Lv. 15.",
-      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Frostgnaw</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Frostgnaw</color> ขึ้น 3 ระดับ\nเพิ่มได้สูงสุดถึงระดับ 15",
       "vi": "Cấp kỹ năng <color=#FFD780FF>Tuyết Tập Kích</color> +3.\nTăng tối đa đến cấp 15."
     },
     "imgid": "constellation_3"
@@ -159,7 +159,7 @@
       "pt": "Aumenta o nível do <color=#FFD780FF>Valsa Glacial</color> em 3.\nO nível máximo de elevação é 15.",
       "ru": "Увеличивает уровень навыка <color=#FFD780FF>Ледниковый вальс</color> на 3.\nМакс. уровень: 15",
       "id": "Meningkatkan 3 level <color=#FFD780FF>Glacial Waltz</color>.\nMaksimum: Lv. 15.",
-      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Glacial Waltz</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Glacial Waltz</color> ขึ้น 3 ระดับ\nเพิ่มได้สูงสุดถึงระดับ 15",
       "vi": "Cấp kỹ năng <color=#FFD780FF>Vũ Điệu Băng Giá</color> +3.\nTăng tối đa đến cấp 15."
     },
     "imgid": "constellation_5"
@@ -167,7 +167,7 @@
   {
     "title": {
       "zhs": "轮旋的冰凌",
-      "zht": "輪旋的冰淩",
+      "zht": "輪旋的冰凌",
       "jp": "輪旋の氷",
       "ko": "회전하는 얼음",
       "en": "Glacial Whirlwind",

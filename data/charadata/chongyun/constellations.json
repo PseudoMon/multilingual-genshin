@@ -2,7 +2,7 @@
   {
     "title": {
       "zhs": "释凌咏冰",
-      "zht": "釋淩詠冰",
+      "zht": "釋凌詠冰",
       "jp": "釈凌詠氷",
       "ko": "얼음의 노래",
       "en": "Ice Unleashed",
@@ -60,7 +60,7 @@
       "pt": "Habilidades Elementais e Supremos lançados dentro do Campo criado pela <color=#FFD780FF>Lâmina Espiritual - Geada de Chongyun</color> têm seu Tempo de Recarga reduzido em 15%.",
       "ru": "Уменьшает время отката элементальных навыков и взрывов стихии, активированных в области навыка <color=#FFD780FF>Духовное лезвие: Холод Чунхуа</color>, на 15%.",
       "id": "CD Elemental Skill dan Elemental Burst yang digunakan di dalam Frost Field yang dibuat oleh <color=#FFD780FF>Spirit Blade: Chonghua's Layered Frost</color> berkurang 15%.",
-      "th": "ช่วงเวลาคูลดาวน์เมื่อใช้สกิลธาตุและท่าไม้ตาย ภายในพื้นที่ของ <color=#FFD780FF>Spirit Blade - Chonghua's Layered Frost</color> จะลดลง 15%",
+      "th": "ช่วงเวลาคูลดาวน์เมื่อใช้สกิลธาตุและท่าไม้ตาย ภายในพื้นที่ของ <color=#FFD780FF>Spirit Blade: Chonghua's Layered Frost</color> จะลดลง 15%",
       "vi": "CD của kỹ năng nguyên tố và kỹ năng nộ khi thi triển trong khu vực <color=#FFD780FF>Linh Đao - Sương Bạc Trùng Điệp</color> giảm 15%"
     },
     "imgid": "constellation_2"
@@ -86,14 +86,14 @@
       "zht": "<color=#FFD780FF>靈刃·雲開星落</color>的技能等級提高3級。\n至多提升至15級。",
       "jp": "<color=#FFD780FF>霊刃·雲開星落</color>のスキルLv.+3。\n最大Lv.15まで。",
       "ko": "<color=#FFD780FF>영도·떨어지는 별</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
-      "en": "Increases the Level of <color=#FFD780FF>Spirit Blade: Cloud-parting Star</color> by 3.\nMaximum upgrade level is 15.",
+      "en": "Increases the Level of <color=#FFD780FF>Spirit Blade: Cloud-Parting Star</color> by 3.\nMaximum upgrade level is 15.",
       "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Seelenklinge – Wolken teilender Stern</color> um 3.\nHöchststufe 15.",
       "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Filo espiritual: Estrella cortanubes</color> +3.\nPuede ser aumentado hasta Niv. 15.",
       "fr": "Niveau d'aptitude <color=#FFD780FF>Lame de l'esprit : Chute d'étoiles</color> +3.\nNiveau max : 15",
       "pt": "Aumenta o nível da <color=#FFD780FF>Lâmina Espiritual - Estrela Cadente</color> em 3.\nO nível máximo de elevação é 15.",
       "ru": "Увеличивает уровень навыка <color=#FFD780FF>Духовное лезвие: Падение с небес</color> на 3.\nМакс. уровень: 15",
       "id": "Meningkatkan 3 level <color=#FFD780FF>Spirit Blade: Cloud-parting Star</color>.\nMaksimum: Lv. 15.",
-      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Spirit Blade - Cloud-parting Star</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Spirit Blade: Cloud-parting Star</color> ขึ้น 3 ระดับ\nเพิ่มได้สูงสุดถึงระดับ 15",
       "vi": "Cấp kỹ năng <color=#FFD780FF>Linh Đao - Vân Khai Tinh Lạc</color> +3.\nTăng tối đa đến cấp 15."
     },
     "imgid": "constellation_3"
@@ -159,7 +159,7 @@
       "pt": "Aumenta o nível da <color=#FFD780FF>Lâmina Espiritual - Geada de Chongyun</color> em 3.\nO nível máximo de elevação é Nv.15.",
       "ru": "Увеличивает уровень навыка <color=#FFD780FF>Духовное лезвие: Холод Чунхуа</color> на 3.\nМакс. уровень: 15",
       "id": "Meningkatkan 3 level <color=#FFD780FF>Spirit Blade: Chonghua's Layered Frost</color>.\nMaksimum: Lv. 15.",
-      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Spirit Blade - Chonghua's Layered Frost</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Spirit Blade - Chonghua's Layered Frost</color> ขึ้น 3 ระดับ\nเพิ่มได้สูงสุดถึงระดับ 15",
       "vi": "Cấp kỹ năng <color=#FFD780FF>Linh Đao - Sương Bạc Trùng Điệp</color> +3.\nTăng tối đa đến cấp 15."
     },
     "imgid": "constellation_5"
@@ -185,14 +185,14 @@
       "zht": "<color=#FFD780FF>靈刃·雲開星落</color>對生命值百分比低於重雲的敵人造成傷害時，傷害提升15%；\n此外，施放時，會召喚一柄額外的靈刃。",
       "jp": "HPの割合が重雲より低い敵に<color=#FFD780FF>霊刃·雲開星落</color>が命中した時、ダメージ+15%。\nまた、スキル発動時さらに追加で霊刃を1本を召喚する。",
       "ko": "<color=#FFD780FF>영도·떨어지는 별</color>이 HP 백분율이 중운보다 낮은 적을 공격 시 가하는 피해가 15% 증가한다.\n또한 발동 시 영도를 추가로 1자루 소환한다",
-      "en": "<color=#FFD780FF>Spirit Blade: Cloud-parting Star</color> deals 15% more DMG to opponents with a lower percentage of their Max HP remaining than Chongyun.\nThis skill will also summon 1 additional spirit blade.",
+      "en": "<color=#FFD780FF>Spirit Blade: Cloud-Parting Star</color> deals 15% more DMG to opponents with a lower percentage of their Max HP remaining than Chongyun.\nThis skill will also summon 1 additional spirit blade.",
       "de": "Erhöht den Schaden von <color=#FFD780FF>Seelenklinge – Wolken teilender Stern</color> gegenüber Gegnern mit geringerem LP-Anteil als Chongyun um 15 %.\nBeschwört bei Anwendung der Fähigkeit außerdem eine weitere Seelenklinge.",
       "es": "<color=#FFD780FF>Filo espiritual: Estrella cortanubes</color> inflige un 15% más de daño a los enemigos con un porcentaje de Vida restante más bajo que el de Chongyun.\nEsta habilidad también invocará un filo espiritual adicional.",
       "fr": "<color=#FFD780FF>Lame de l'esprit : Chute d'étoiles</color> inflige 15 % de DGT supplémentaires aux ennemis dont les PV sont inférieurs à ceux de Chongyun.\nDe plus, une lame supplémentaire est générée à l'activation de la compétence.",
       "pt": "A <color=#FFD780FF>Lâmina Espiritual - Estrela Cadente</color> inflige 15% a mais de Dano em inimigos com uma baixa porcentagem de sua Vida Máxima restante menor que a de Chongyun.\nEssa Habilidade também irá evocar uma lâmina espiritual adicional.",
       "ru": "Увеличивает урон навыка <color=#FFD780FF>Духовное лезвие: Падение с небес</color> на 15% по врагам, HP которых меньше HP Чун Юня;\nТакже активация этого навыка призывает одно дополнительное Духовное лезвие.",
       "id": "<color=#FFD780FF>Spirit Blade: Cloud-parting Star</color> mengakibatkan 15% DMG lebih banyak kepada musuh dengan persentase sisa HP lebih rendah dari Chongyun.\nSkill ini juga akan memanggil 1 spirit blade tambahan.",
-      "th": "เมื่อ <color=#FFD780FF>Spirit Blade - Cloud-parting Star</color> สร้างความเสียหายแก่ศัตรูที่มีเปอร์เซ็นต์พลังชีวิตต่ำกว่า Chongyun ความเสียหายจะเพิ่มขึ้น 15%;\nนอกจากนี้ในตอนที่ใช้งาน จะเรียกใบมีดวิญญาณเพิ่มขึ้นมาอีกหนึ่งเล่ม",
+      "th": "เมื่อ <color=#FFD780FF>Spirit Blade: Cloud-parting Star</color> สร้างความเสียหายแก่ศัตรูที่มีเปอร์เซ็นต์พลังชีวิตต่ำกว่า Chongyun ความเสียหายจะเพิ่มขึ้น 15%;\nนอกจากนี้ในตอนที่ใช้งาน จะเรียกใบมีดวิญญาณเพิ่มขึ้นมาอีกหนึ่งเล่ม",
       "vi": "<color=#FFD780FF>Linh Đao - Vân Khai Tinh Lạc</color> khi gây sát thương cho kẻ địch có tỷ lệ HP thấp hơn Chongyun, sát thương tăng 15%;\nNgoài ra, khi thi triển sẽ triệu hồi thêm một linh đao."
     },
     "imgid": "constellation_6"

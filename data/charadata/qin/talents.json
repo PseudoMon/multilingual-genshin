@@ -12,7 +12,7 @@
       "pt": "Ataque Normal: Técnica de Favonius",
       "ru": "Фехтовальный стиль Фавония",
       "id": "Favonius Bladework",
-      "th": "โจมตีปกติ - Favonius Bladework",
+      "th": "โจมตีปกติ: Favonius Bladework",
       "vi": "Tấn Công Thường - Tây Phong Kiếm Thuật"
     },
     "description": {
@@ -29,8 +29,7 @@
       "id": "<color=#FFD780FF>Normal Attack</color>\nMelancarkan hingga 5 serangan berturut-turut.\n\n<color=#FFD780FF>Charged Attack</color>\nMengonsumsi sejumlah Stamina untuk melancarkan serangan yang menghempas musuh ke udara dengan kekuatan angin.\nMusuh yang terhempas akan terjatuh perlahan untuk sementara waktu.\n\n<color=#FFD780FF>Plunging Attack</color>\nMenerjang dari udara untuk menghantam tanah, mengakibatkan DMG pada musuh di jalur terjangan dan mengakibatkan DMG area saat mendarat.",
       "th": "<color=#FFD780FF>โจมตีปกติ</color>\nใช้ดาบโจมตีต่อเนื่องมากสุดห้าครั้ง\n\n<color=#FFD780FF>ชาร์จโจมตี</color>\nใช้พลังกายส่วนนึงเพื่อปลดปล่อย พลังลมใส่ศัตรูที่เลือก\nศัตรูที่ถูกซัดกระเด็นจะค่อย ๆ ตกลงพื้นอย่างช้า ๆ\n\n<color=#FFD780FF>โจมตีพุ่งลงจากอากาศ</color>\nกระโจนจากกลางอากาศลงมายังพื้นดิน เพื่อโจมตีศัตรูที่อยู่ในเส้นทางการโจมตี โดยจะสร้างความเสียหายวงกว้างเมื่อลงถึงพื้น",
       "vi": "<color=#FFD780FF>Tấn Công Thường</color>\nThực hiện tối đa 5 lần đánh kiếm liên tiếp.\n\n<color=#FFD780FF>Trọng Kích</color>\nTiêu hao thể lực nhất định, đánh một đòn tràn đầy sức mạnh của gió.\nĐịch bị đánh bay sẽ rơi chậm trong thời gian ngắn.\n\n<color=#FFD780FF>Tấn Công Khi Đáp</color>\nĐáp xuống đất từ trên không, tấn công kẻ địch trên đường và gây sát thương phạm vi khi chạm đất."
-    },
-    "imgid": "s_33101"
+    }
   },
   {
     "title": {
@@ -62,8 +61,7 @@
       "id": "Jean mengerahkan badai kecil dengan memusatkan kekuatan angin di bilah pedangnya untuk menghempas musuh ke arah yang dia tunjuk. Mengakibatkan <color=#80FFD7FF>Anemo DMG</color> yang besar.\n\n<color=#FFD780FF>Tahan</color>\nDengan terus mengonsumsi Stamina, Jean dapat mengarahkan badai tersebut, yang menarik musuh dan obyek di sekitar ke depannya.\nArahnya dapat disesuaikan.\nKarakter tidak dapat bergerak selama durasi skill.\n\n<i>Yang mengikuti Jean, pelindung berhati emas, adalah angin penjaga yang bisa menghalau bahaya dari rekan-rekannya.</i>",
       "th": "#รวบรวมสายลมที่ไร้ซึ่งรูปร่างไว้ที่ดาบและปล่อยพายุขนาดเล็กออกมาเพื่อสร้าง <color=#80FFD7FF>ความเสียหายลม</color>ในปริมาณมาก\n\n<color=#FFD780FF>{LAYOUT_MOBILE#แตะค้าง}{LAYOUT_PC#กดค้าง}{LAYOUT_PS#กดค้าง}</color>\nดึงดูดศัตรูและวัตถุที่อยู่ในบริเวณรอบ ๆ เข้ามายังข้างหน้า โดยแลกกับการใช้พลังกายไปเรื่อย ๆ\nสามารถปรับเปลี่ยนทิศทางได้\nระหว่างช่วงเวลาที่ใช้สกิลตัวละคร จะไม่สามารถขยับตัวได้\n\n<i>สิ่งที่ร่วมทางมากับ Jean ผู้มีหัวใจแห่งการปกป้อง ก็คือสายลมแห่งการคุ้มครองที่ปัดเป่าสิ่งอันตรายให้ไกลห่างจากพวกพ้องออกไป</i>",
       "vi": "Hội tụ sức mạnh của gió vô hình lên kiếm, thi triển cơn bão nhỏ, đánh bay địch ở hướng ngắm bắn, gây lượng lớn <color=#80FFD7FF>Sát Thương Nguyên Tố Phong</color>.\n\n<color=#FFD780FF>Nhấn Giữ</color>\nTiếp tục tiêu hao thể lực để trả giá, tạo lốc xoáy kéo địch và vật thể xung quanh đến trước mặt.\nCó thể điều chỉnh phương hướng.\nTrong khi sử dụng kỹ năng không thể di chuyển.\n\n<i>Đồng hành cùng với Jean, là cơn gió bảo vệ đồng đội khỏi nguy hiểm.</i>"
-    },
-    "imgid": "s_33201"
+    }
   },
   {
     "title": {
@@ -95,8 +93,7 @@
       "id": "Dengan memanggil perlindungan dari angin, Jean dapat menciptakan Dandelion Field yang menghempas musuh di sekitar dan mengakibatkan <color=#80FFD7FF>Anemo DMG</color>.\nDi saat yang sama, sejumlah besar HP untuk semua anggota party akan pulih secara langsung. Jumlah HP yang dipulihkan bergantung dari ATK Jean.\n\n<color=#FFD780FF>Dandelion Field</color>\n·Memulihkan HP karakter yang berada di dalam lingkup area secara berkelanjutan.\n·Memengaruhi musuh yang berada di dalam lingkup area dengan elemen <color=#80FFD7FF>Anemo</color> secara berkelanjutan.\n·Mengakibatkan <color=#80FFD7FF>Anemo DMG</color> kepada musuh yang memasuki atau keluar dari Dandelion Field.\n\n<i>Berkat Anemo bagaikan dandelion yang terbang ke seluruh pelosok dunia. Inilah fondasi prinsip dan pendirian Jean.</i>",
       "th": "เรียกการปกป้องของสายลม Dandelion Field ที่เต็มไปด้วย คลื่นลมขึ้นมาเพื่อโจมตีศัตรูโดยรอบ และสร้าง<color=#80FFD7FF>ความเสียหายลม</color>\nขณะเดียวกันจะทำการฟื้นฟูพลังชีวิต ปริมาณมากให้ตัวละครทั้งหมดในทีม โดยปริมาณที่ฟื้นฟูจะขึ้นอยู่กับ พลังโจมตีของ Jean\n\n<color=#FFD780FF>Dandelion Field</color>\n·ฟื้นฟูพลังชีวิตให้ตัวละครที่อยู่ในพื้นที่ อย่างต่อเนื่อง;\nทำให้ตัวละครที่อยู่ในพื้นที่ได้รับ<color=#80FFD7FF>ผลกระทบจากธาตุลม</color>อย่างต่อเนื่อง\n·สร้าง<color=#80FFD7FF>ความเสียหายลม</color>ให้แก่ศัตรู ที่เข้าออกพื้นที่\n\n<i>ความสง่างามของสายลมเปรียบเสมือน ทุ่งแดนดิไลออนที่แผ่กระจายไปทั่วโลก นี่คือรากฐานและความตั้งใจของ Jean ผู้พิทักษ์</i>",
       "vi": "Bảo hộ triệu hồi gió, tạo ra Vùng Đất Bồ Công Anh hỗn loạn, đánh lui địch xung quanh và gây <color=#80FFD7FF>Sát Thương Nguyên Tố Phong</color>.\nĐồng thời hồi nhanh lượng lớn HP cho tất cả nhân vật trong đội, lượng hồi được hưởng từ tấn công của Jean.\n\n<color=#FFD780FF>Vùng Đất Bồ Công Anh</color>\n·Duy trì hồi phục HP cho nhân vật trong đó;\n·Khiến nhân vật trong đó tiếp tục chịu <color=#80FFD7FF>ảnh hưởng Nguyên Tố Phong</color>;\n·Đối với địch ra vào khu vực, gây <color=#80FFD7FF>Sát Thương Nguyên Tố Phong</color>.\n\n<i>Ân trạch của gió như bồ công anh trải rộng, là căn nguyên và lòng tốt của sự thủ hộ từ Jean.</i>"
-    },
-    "imgid": "s_33901"
+    }
   },
   {
     "title": {
@@ -128,8 +125,7 @@
       "id": "Saat Normal Attack Jean mengenai musuh, memiliki 50% kemungkinan untuk memulihkan HP seluruh anggota party sebesar 15% ATK Jean.",
       "th": "เมื่อการโจมตีปกติของ Jean ถูกเป้าหมาย จะมีโอกาส 50% ที่จะฟื้นฟูพลังชีวิต ให้แก่สมาชิกทั้งหมดในทีมขึ้น 15% ของพลังโจมตีของ Jean",
       "vi": "Khi tấn công thường của Jean đánh trúng, có 50% tỷ lệ hồi HP bằng với 15% tấn công của Jean cho tất cả thành viên đội."
-    },
-    "imgid": "p_32101"
+    }
   },
   {
     "title": {
@@ -161,8 +157,7 @@
       "id": "Menggunakan <color=#FFD780FF>Dandelion Breeze</color> akan memulihkan 20% Energy.",
       "th": "หลังจากใช้ <color=#FFD780FF>Dandelion Breeze</color> จะฟื้นฟูพลังงานธาตุ 20%",
       "vi": "Sau khi sử dụng <color=#FFD780FF>Gió Bồ Công Anh</color>, sẽ hồi phục 20% Năng Lượng Nguyên Tố"
-    },
-    "imgid": "p_32201"
+    }
   },
   {
     "title": {
@@ -194,7 +189,6 @@
       "id": "Saat masakan jenis pemulihan dimasak dengan sempurna, memiliki 12% kemungkinan mendapatkan hasil 2 kali lipat.",
       "th": "เมื่อปรุงอาหารประเภทฟื้นฟูได้ ระดับสมบูรณ์ จะมีโอกาส 12% ที่จะได้รับผลผลิตเพิ่มเป็น 2 เท่า",
       "vi": "Nấu hoàn mỹ món ăn thuộc loại hồi phục, có tỷ lệ 12% x2 sản lượng."
-    },
-    "imgid": "p_32301"
+    }
   }
 ]

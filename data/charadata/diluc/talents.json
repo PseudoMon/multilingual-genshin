@@ -12,7 +12,7 @@
       "pt": "Ataque Normal: Espada Temperada",
       "ru": "Закалённый меч",
       "id": "Normal Attack: Tempered Sword",
-      "th": "โจมตีปกติ - Tempered Sword",
+      "th": "โจมตีปกติ: Tempered Sword",
       "vi": "Tấn Công Thường: Kiếm Tôi Luyện"
     },
     "description": {
@@ -29,8 +29,7 @@
       "id": "<color=#FFD780FF>Normal Attack</color>\nMelancarkan hingga 4 serangan berturut-turut.\n\n<color=#FFD780FF>Charged Attack</color>\nTerus menguras Stamina untuk melancarkan tebasan berkelanjutan.\nDiakhiri dengan sebuah tebasan yang kuat.\n\n<color=#FFD780FF>Plunging Attack</color>\nMenerjang dari udara untuk menghantam tanah, menyerang semua musuh di jalurnya dan mengakibatkan DMG area saat mendarat.",
       "th": "<color=#FFD780FF>โจมตีปกติ</color>\nฟาดฟันต่อเนื่องมากสุดสี่ครั้ง\n\n<color=#FFD780FF>ชาร์จโจมตี</color>\nใช้พลังกายต่อเนื่อง เพื่อฟันโจมตีติดต่อกันอย่างรวดเร็ว\nเมื่อชาร์จโจมตีสิ้นสุดลง จะทำการฟันอย่างรุนแรงเพิ่มอีกหนึ่งครั้ง\n\n<color=#FFD780FF>โจมตีพุ่งลงจากอากาศ</color>\nกระโจนจากกลางอากาศลงมายังพื้นดิน เพื่อโจมตีศัตรูที่อยู่ในเส้นทางการโจมตี โดยจะสร้างความเสียหายวงกว้างเมื่อลงถึงพื้น",
       "vi": "<color=#FFD780FF>Tấn Công Thường</color>\nThực hiện tối đa 4 lần chém liên tiếp.\n\n<color=#FFD780FF>Trọng Kích</color>\nTiêu hao thể lực liên tục để chém nhanh liên tiếp.\nSau khi Trọng Kích kết thúc, sẽ bổ một nhát cực mạnh.\n\n<color=#FFD780FF>Tấn Công Khi Đáp</color>\nĐáp xuống đất từ trên không, tấn công kẻ địch trên đường và gây sát thương phạm vi khi chạm đất."
-    },
-    "imgid": "s_163101"
+    }
   },
   {
     "title": {
@@ -62,8 +61,7 @@
       "id": "Melancarkan tebasan ke arah depan yang mengakibatkan <color=#FF9999FF>Pyro DMG</color>.\n\nSkill ini dapat digunakan 3 kali berturut-turut. Memasuki CD jika tidak digunakan lagi dalam waktu singkat.\n\n<i>Pedang ini mewakili nilai-nilai yang dijunjung Diluc: Keadilan, keberanian, dan kewajiban.</i>",
       "th": "กวัดแกว่งดาบขนาดใหญ่เพื่อฟาดฟันสิ่งที่อยู่ตรงหน้า สร้าง<color=#FF9999FF>ความเสียหายไฟ</color>\n\nสามารถทำได้ 3 ครั้งติดต่อกัน จากนั้นจะเข้าสู่ช่วงเวลาคูลดาวน์\n\n<i>สิ่งที่บ่งบอกถึงตัวตนของ Diluc นั้นคือ ความยุติธรรม, ความกล้า และความรับผิดชอบ</i>",
       "vi": "Vung kiếm chém về phía trước, gây <color=#FF9999FF>Sát Thương Nguyên Tố Hỏa</color>.\n\nCó thể thi triển liên tiếp 3 lần.\nNếu trong thời gian ngắn không thi triển, sẽ vào trạng thái chờ.\n\n<i>Tượng trưng cho chính nghĩa, can đảm và trách nhiệm của Diluc.</i>"
-    },
-    "imgid": "s_163201"
+    }
   },
   {
     "title": {
@@ -95,8 +93,7 @@
       "id": "Mengerahkan kekuatan Pyro untuk menghempas musuh di sekitar, mengakibatkan <color=#FF9999FF>Pyro DMG</color>. Setelahnya, mengumpulkan elemen Pyro di ujung senjata dan memanggil seekor burung Phoenix yang terbang melaju, mengakibatkan <color=#FF9999FF>Pyro DMG</color> ke semua musuh di jalurnya dan mengakibatkan <color=#FF9999FF>Pyro DMG area</color>.\nKobaran api yang tersisa pada pedang Diluc memberikan <color=#FF9999FF>Pyro Infusion</color> pada serangan Diluc.\n\n<i>Satu-satunya alasan untuk berjalan dalam kegelapan adalah untuk membuatnya terang. Lihatlah, cahaya yang lari di tengah kegelapan malam adalah pemberita fajar yang akan datang.</i>",
       "th": "ระเบิดพลังงานไฟอันร้อนแรงออกมา เพื่อโจมตีศัตรูโดยรอบให้ถอยกลับไป เกิดเป็น<color=#FF9999FF>ความเสียหายธาตุไฟ</color> หลังจากนั้นจะรวบรวมไฟไว้บนอาวุธและ ปล่อยวิหคเพลิงออกไปยังข้างหน้า เพื่อสร้าง<color=#FF9999FF>ความเสียหายธาตุไฟ</color> ปริมาณมากแก่ศัตรูที่อยู่ในเส้นทาง โดยวิหคเพลิงจะระเบิดที่ปลายทาง และเกิดเป็น<color=#FF9999FF>ความเสียหายไฟวงกว้าง</color>อย่างรุนแรง\nเปลวไฟอันร้อนแรงที่ควบแน่นอยู่บนอาวุธ จะมอบ<color=#FF9999FF>พลังแห่งไฟ</color>ให้แก่ Diluc\n\n<i>เหตุผลที่เดินในความมืด ก็เพื่อปลดปล่อยแสงสว่าง มองไปยังแสงไฟท่ามกลางความมืดที่อยู่ไกลออกไป นั่นคือสิ่งที่บอกว่ารุ่งสางกำลังจะมาถึง</i>",
       "vi": "Bùng cháy sức mạnh lửa, đánh lui địch xung quanh, gây <color=#FF9999FF>Sát Thương Nguyên Tố Hỏa</color>. Sau đó ngưng tụ lửa lên vũ khí, vung ra chim lửa bay về phía trước, gây cho địch trên đường lượng lớn <color=#FF9999FF>Sát Thương Nguyên Tố Hỏa</color> đồng thời ở điểm đến cuối cùng của chim lửa gây lượng lớn <color=#FF9999FF>Sát Thương Phạm Vi Nguyên Tố Hỏa</color>.\nNgọn lửa trên vũ khí khiến Diluc nhận được <color=#FF9999FF>Nguyên Tố Hỏa đính kèm</color>.\n\n<i>Bước đi trong bóng tối là để mang lại ánh sáng. Nhìn vào ánh sáng xa xăm tỏa ra trong màn đêm tĩnh lặng, là điềm báo bình minh sẽ đến.</i>"
-    },
-    "imgid": "s_163901"
+    }
   },
   {
     "title": {
@@ -128,8 +125,7 @@
       "id": "Mengurangi 50% konsumsi Stamina Charged Attack Diluc, dan meningkatkan durasi maksimum selama 3 detik.",
       "th": "การชาร์จโจมตีของ Diluc ใช้พลังกายลดลง 50% และเพิ่มระยะเวลาต่อเนื่องขึ้น 3 วินาที",
       "vi": "Thể lực trọng kích Diluc tiêu hao giảm 50%, tăng thời gian tối đa thêm 3s."
-    },
-    "imgid": "p_162101"
+    }
   },
   {
     "title": {
@@ -161,8 +157,7 @@
       "id": "<color=#FF9999FF>Pyro Infusion</color> yang didapat dari skill <color=#FFD780FF>Dawn</color> bertahan 4 detik lebih lama. Diluc juga mendapatkan 20% <color=#FF9999FF>Pyro DMG Bonus</color> selama efek berlangsung.",
       "th": "ช่วงเวลาคงอยู่ของ<color=#FF9999FF>พลังแห่งไฟ</color>ที่ได้จาก <color=#FFD780FF>Dawn</color> เพิ่มขึ้น 4 วินาที; นอกจากนี้ระหว่างช่วงเวลาที่เอฟเฟกต์คงอยู่ Diluc จะได้รับ<color=#FF9999FF>โบนัสความเสียหายไฟ</color>เพิ่ม 20%",
       "vi": "Kéo dài 4s thời gian <color=#FFD780FF>Nguyên Tố Hỏa đính kèm</color> mà <color=#FF9999FF>Lê Minh</color> mang đến. Ngoài ra, trong thời gian còn hiệu lực, Diluc nhận 20% <color=#FF9999FF>buff sát thương Nguyên Tố Hỏa</color>."
-    },
-    "imgid": "p_162201"
+    }
   },
   {
     "title": {
@@ -194,7 +189,6 @@
       "id": "Mengembalikan 15% jumlah Ore yang digunakan saat membuat senjata tipe Claymore.",
       "th": "เมื่อสร้างอาวุธประเภทดาบใหญ่ จะได้รับแร่ที่ใช้ในการหลอมคืน 15%",
       "vi": "Khi rèn vũ khí dạng Trọng Kiếm, hoàn trả 15% khoáng thạch tiêu hao."
-    },
-    "imgid": "p_162301"
+    }
   }
 ]

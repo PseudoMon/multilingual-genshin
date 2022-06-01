@@ -12,7 +12,7 @@
       "pt": "Ataque Normal: Lança Eclesiástica",
       "ru": "Копьё церкви",
       "id": "Normal Attack: Spear of the Church",
-      "th": "โจมตีปกติ - Spear of the Church",
+      "th": "โจมตีปกติ: Spear of the Church",
       "vi": "Tấn công thường - Thương Thuật Giáo Hội"
     },
     "description": {
@@ -29,8 +29,7 @@
       "id": "<color=#FFD780FF>Normal Attack</color>\nMelancarkan hingga 5 serangan berturut-turut.\n\n<color=#FFD780FF>Charged Attack</color>\nMengonsumsi sejumlah Stamina untuk menerjang ke depan, mengakibatkan DMG pada musuh di jalur terjangan.\n\n<color=#FFD780FF>Plunging Attack</color>\nMenerjang dari udara untuk menghantam tanah, mengakibatkan DMG pada musuh di jalur terjangan dan mengakibatkan DMG area saat mendarat.",
       "th": "<color=#FFD780FF>โจมตีปกติ</color>\nโจมตีต่อเนื่องมากสุดห้าครั้ง\n\n<color=#FFD780FF>ชาร์จโจมตี</color>\nกินพลังกายปริมาณหนึ่งเพื่อ พุ่งไปข้างหน้าและสร้างความเสียหาย แก่ศัตรูที่อยู่ในเส้นทาง\n\n<color=#FFD780FF>โจมตีพุ่งลงจากอากาศ</color>\nกระโจนจากกลางอากาศลงมายังพื้นดิน เพื่อโจมตีศัตรูที่อยู่ในเส้นทางการโจมตี โดยจะสร้างความเสียหายวงกว้างเมื่อลงถึงพื้น",
       "vi": "<color=#FFD780FF>Tấn Công Thường</color>\nThực hiện tối đa 5 lần đánh liên tiếp.\n\n<color=#FFD780FF>Trọng Kích</color>\nTiêu hao thể lực nhất định, xông về phía trước, gây sát thương cho địch trên đường đi.\n\n<color=#FFD780FF>Tấn Công Khi Đáp</color>\nĐáp xuống đất từ trên không, tấn công kẻ địch trên đường và gây sát thương phạm vi khi chạm đất."
-    },
-    "imgid": "s_453101"
+    }
   },
   {
     "title": {
@@ -62,8 +61,7 @@
       "id": "Rosaria bergerak dengan cepat, muncul di belakang musuh, lalu menusuk dan menebas dengan polearm, mengakibatkan <color=#99FFFFFF>Cryo DMG</color>.\nTalenta ini tidak dapat digunakan untuk bergerak ke belakang musuh yang bertubuh lebih besar.\n\n<i>Mereka yang mengaku dosa pada Suster Rosaria tidak akan mendapat pengampunan. Sebaliknya, para pendosa akan menerima hukuman dingin yang menusuk tulang, masing-masing sebanding dengan berat dosa yang mereka lakukan.</i>",
       "th": "Rosaria เคลื่อนที่ไปด้านหลังศัตรูอย่างรวดเร็ว จากนั้นจึงใช้หอกแทงและฟาดฟันศัตรู เพื่อสร้าง<color=#99FFFFFF>ความเสียหายน้ำแข็ง</color>\nไม่สามารถใช้สกิลการเคลื่อนที่อย่างรวดเร็วนี้ เพื่อเคลื่อนย้ายไปด้านหลังศัตรูที่มีขนาดใหญ่กว่าได้\n\n<i>คำสารภาพบาปต่อซิสเตอร์ Rosaria นั้นจะไม่ได้รับการให้อภัย ในทางตรงกันข้าม ยิ่งบาปหนาเท่าไหร่ ความหนาวเย็นแห่งการลงทัณฑ์ ก็จะยิ่งเสียดแทงลึกเข้ากระดูกมากขึ้นเท่านั้น</i>",
       "vi": "Rosaria nhanh chóng di chuyển đến phía sau kẻ địch, dùng thương để đâm xuyên và chém, gây <color=#99FFFFFF>Sát Thương Nguyên Tố Băng</color>.\nKhông thể di chuyển nhanh đến phía sau kẻ địch có thể hình lớn.\n\n<i>Lời thú tội với nữ tu Rosaria sẽ không được tha thứ. Ngược lại, tội càng nặng thì hình phạt càng giá lạnh.</i>"
-    },
-    "imgid": "s_453201"
+    }
   },
   {
     "title": {
@@ -95,8 +93,7 @@
       "id": "Doa khas Rosaria. Setelah mengayunkan senjatanya untuk menebas musuh di sekitar, dia akan melancarkan Ice Lance yang menghantam tanah. Kedua aksi tersebut mengakibatkan <color=#99FFFFFF>Cryo DMG</color>.\nSaat Talenta ini aktif, Ice Lance akan mengeluarkan hawa dingin secara berkala, mengakibatkan <color=#99FFFFFF>Cryo DMG</color> pada musuh di sekitar.\n\n<i> Penghakiman adalah pekerjaan yang merepotkan. Kusarankan sebaiknya kita lewatkan saja, dan langsung masuk ke tahap terakhir! Rosaria bukan seseorang yang taat pada Dewa Anemo, karena itu, menurut Rosaria, penghakiman adalah pekerjaan yang mudah.</i>",
       "th": "นี่คือพิธีสวดมนต์ฉบับพิเศษของ Rosaria โดยหลังจากใช้อาวุธฟาดฟันศัตรูที่อยู่รอบตัวแล้ว จะเรียกหอกน้ำแข็งออกมา เพื่อแทงลงพื้น สร้าง<color=#99FFFFFF>ความเสียหายน้ำแข็ง</color> แยกออกเป็นสองช่วง\nภายในช่วงเวลาต่อเนื่องของหอกน้ำแข็ง จะปล่อยไอเย็นเป็นระยะ ๆ เพื่อสร้าง<color=#99FFFFFF>ความเสียหายน้ำแข็ง</color>ให้กับศัตรูที่อยู่ในบริเวณใกล้เคียง\n\n<i>การพิพากษานั้นช่างเป็นเรื่องที่ยุ่งยาก ดังนั้นจงก้าวข้ามการพิพากษา และทำการสวดอ้อนวอนครั้งสุดท้ายเถอะ การที่ Rosaria นั้น ไม่เคยเชื่อในเทพเจ้าแห่งสายลม นั่นทำให้เรื่องนี้ง่ายขึ้นเป็นพิเศษ</i>",
       "vi": "Đây là nghi thức riêng của Rosaria. Vung vũ khí lên quét sạch kẻ địch, sau đó ngưng tụ hàn băng găm vào mặt đất, gây <color=#99FFFFFF>Sát Thương Nguyên Tố Băng</color>.\nKhi băng thương tồn tại, nó sẽ liên tục phát ra hơi lạnh, gây <color=#99FFFFFF>Sát Thương Nguyên Tố Băng</color> cho kẻ địch gần đó.\n\n<i>Quá trình phán xử rất phiền phức, vì vậy cứ trực tiếp thực thi buổi lễ cho cái chết thôi. Rosaria vốn không tin vào Phong Thần nên vấn đề này rất dễ dàng với cô ấy.</i>"
-    },
-    "imgid": "s_453901"
+    }
   },
   {
     "title": {
@@ -128,8 +125,7 @@
       "id": "Saat Rosaria menyerang musuh dari belakang menggunakan <color=#FFD780FF>Ravaging Confession</color>, akan meningkatkan 12% CRIT Rate Rosaria selama 5 detik.",
       "th": "เมื่อ <color=#FFD780FF>Ravaging Confession</color> โจมตีจากด้านหลังของเป้าหมาย อัตราคริของ Rosaria จะเพิ่มขึ้น 12% เป็นเวลา 5 วินาที",
       "vi": "Khi <color=#FFD780FF>Lời Cáo Tội</color> tấn công từ phía sau của mục tiêu, tỷ lệ bạo kích của Rosaria tăng 12%, kéo dài 5s."
-    },
-    "imgid": "p_452101"
+    }
   },
   {
     "title": {
@@ -161,8 +157,7 @@
       "id": "Melancarkan <color=#FFD780FF>Rites of Termination</color> akan meningkatkan CRIT Rate seluruh anggota party di sekitar (tidak termasuk Rosaria sendiri) sebesar 15% dari CRIT Rate Rosaria selama 10 detik.\nBonus CRIT Rate yang didapat dari Talenta ini tidak dapat melebihi 15%.",
       "th": "เมื่อปล่อย <color=#FFD780FF>Rites of Termination</color> จะเพิ่มอัตราคริให้แก่ตัวละครทั้งหมดในทีม (ไม่รวมตัวของ Rosaria เอง) ที่อยู่ในบริเวณใกล้เคียงขึ้น 15% ของอัตราคริของเธอ เป็นเวลา 10 วินาที\nอัตราคริที่เพิ่มขึ้นด้วยวิธีนี้จะไม่เกิน 15%",
       "vi": "Khi thi triển <color=#FFD780FF>Thánh Lễ Cuối Cùng</color>, dựa trên 15% tỷ lệ bạo kích của bản thân, tăng tỷ lệ bạo kích cho tất cả các nhân vật trong đội ở gần (không bao gồm Rosaria), kéo dài 10s.\nTỷ lệ bạo kích tăng thêm bằng cách này không thể vượt quá 15%."
-    },
-    "imgid": "p_452201"
+    }
   },
   {
     "title": {
@@ -194,7 +189,6 @@
       "id": "Saat malam hari (18:00 — 6:00), meningkatkan 10% Movement SPD anggota party sendiri.\nEfek ini tidak aktif dalam Domain, Trounce Domain, atau Spiral Abyss. Efek ini tidak dapat ditumpuk dengan Talenta Pasif lain dengan efek yang sama.",
       "th": "ในตอนกลางคืน (18:00 น. - 6:00 น.) ความเร็วการเคลื่อนที่ของตัวละครในทีมของตัวเองจะเพิ่มขึ้น 10%\nเอฟเฟกต์ดังกล่าวจะไร้ผลเมื่ออยู่ในดันเจี้ยน, Trounce Domain, Spiral Abyss และไม่สามารถซ้อนทับกับพรสวรรค์ติดตัวที่มีเอฟเฟกต์แบบเดียวกันได้",
       "vi": "Buổi tối (18h đến 6h), tốc độ di chuyển của nhân vật trong đội của bản thân tăng 10%.\nHiệu quả này vô hiệu trong Bí Cảnh, Vùng Đất Thảo Phạt, La Hoàn Thâm Cảnh, không thể cộng dồn với thiên phú cố định có hiệu quả tương đồng."
-    },
-    "imgid": "p_452301"
+    }
   }
 ]

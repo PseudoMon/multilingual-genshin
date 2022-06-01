@@ -29,8 +29,7 @@
       "id": "<color=#FFD780FF>Normal Attack</color>\nMelancarkan hingga 3 serangan beruntun dalam wujud ikan yang berenang dan mengakibatkan <color=#80C0FFFF>Hydro DMG</color>.\n\n<color=#FFD780FF>Charged Attack</color>\nMengonsumsi sejumlah Stamina untuk mengakibatkan <color=#80C0FFFF>Hydro DMG area</color> setelah jeda singkat.\n\n<color=#FFD780FF>Plunging Attack</color>\nMengumpulkan kekuatan Hydro dan menghantam ke tanah dari udara, menyerang musuh di jalur terjangan dan mengakibatkan <color=#80C0FFFF>Hydro DMG Area</color> saat mendarat.",
       "th": "<color=#FFD780FF>โจมตีปกติ</color>\nปล่อยการโจมตีที่มีรูปร่างของปลา ซึ่งเกิดจากธาตุน้ำต่อเนื่องมากสุดสามครั้ง เพื่อสร้าง<color=#80C0FFFF>ความเสียหายน้ำ</color>\n\n<color=#FFD780FF>ชาร์จโจมตี</color>\nใช้พลังกายบางส่วน โดยหลังจากร่ายเวทเสร็จ จะทำให้เกิด<color=#80C0FFFF>ความเสียหายน้ำวงกว้าง</color>\n\n<color=#FFD780FF>โจมตีพุ่งลงจากอากาศ</color>\nรวบรวมพลังแห่งธาตุน้ำ กระโจนจากกลางอากาศลงมายังพื้นดิน เพื่อโจมตีศัตรูที่อยู่ในเส้นทางการโจมตี โดยจะสร้าง<color=#80C0FFFF>ความเสียหายน้ำวงกว้าง</color> เมื่อลงถึงพื้น",
       "vi": "<color=#FFD780FF>Tấn Công Thường</color>\nDùng cá tạo thành bởi nước để thực hiện tối đa 3 lần tấn công, gây <color=#80C0FFFF>Sát Thương Nguyên Tố Thủy</color>.\n\n<color=#FFD780FF>Trọng Kích</color>\nTiêu hao thể lực nhất định, sau khi tụ lực, gây <color=#80C0FFFF>Sát Thương Phạm Vi Nguyên Tố Thủy</color>.\n\n<color=#FFD780FF>Tấn Công Khi Đáp</color>\nNgưng tụ sức mạnh nguyên tố Thủy, từ trên trời tấn công xuống mặt đất, tấn công kẻ địch trên đường đi, gây <color=#80C0FFFF>sát thương phạm vi Nguyên Tố Thủy</color> khi chạm đất."
-    },
-    "imgid": "s_543101"
+    }
   },
   {
     "title": {
@@ -62,8 +61,7 @@
       "id": "Memanggil \"Bake-Kurage\" yang tercipta dari air untuk menyembuhkan rekan.\nKetika melancarkan skill ini, Sangonomiya Kokomi akan terkena status <color=#80C0FFFF>Wet</color>.\n\n<color=#FFD780FF>Bake-Kurage</color>\nSetiap beberapa saat, Bake-Kurage akan mengakibatkan <color=#80C0FFFF>Hydro DMG</color> pada musuh di sekitar dan memulihkan HP Karakter yang berada di medan pertempuran. Jumlah HP yang dipulihkan dihitung berdasarkan Max HP Sangonomiya Kokomi.\n\n<i>Kokomi sewaktu-waktu perlu mengisi ulang \"energi\" demi mempertahankan kinerja yang sempurna.</i>",
       "th": "เรียก \"Bake-Kurage\" สิ่งมีชีวิตที่สร้างขึ้นจากน้ำซึ่งสามารถฟื้นฟูพลังชีวิตพวกพ้องได้ออกมา\nทันทีที่ปลดปล่อยสกิล จะทำให้ Sangonomiya Kokomi อยู่ในสถานะ<color=#80C0FFFF>เปียกชุ่ม</color>\n\n<color=#FFD780FF>Bake-Kurage</color>\nสร้าง<color=#80C0FFFF>ความเสียหายน้ำ</color>แก่ศัตรูที่อยู่โดยรอบ พร้อมฟื้นฟูพลังชีวิตของตัวละครที่เข้าร่วมการต่อสู้ตรงบริเวณใกล้เคียงในขณะนั้นเป็นระยะ ๆ โดยที่ปริมาณการฟื้นฟูจะขึ้นอยู่กับพลังชีวิตสูงสุดของ Sangonomiya Kokomi\n\n<i>เพื่อรักษาสภาพการทำงานที่สมบูรณ์แบบ Kokomi จำเป็นต้องเติม \"พลังงาน\" ของตัวเองให้ทันเวลา</i>",
       "vi": "Triệu hồi \"Vầng Trăng Biển\" chữa trị cho đồng đội.\nKhi thi triển sẽ khiến Sangonomiya Kokomi vào trạng thái <color=#80C0FFFF>Ẩm Ướt</color>.\n\n<color=#FFD780FF>Vầng Trăng Biển</color>\nCứ cách một khoảng thời gian sẽ gây <color=#80C0FFFF>Sát Thương Nguyên Tố Thủy</color> cho kẻ địch xung quanh và hồi HP cho nhân vật đang trong trận ở xung quanh, lượng hồi phục dựa vào giới hạn HP của Sangonomiya Kokomi.\n\n<i>Để đảm bảo trạng thái tốt nhất cho công việc, Kokomi cần bổ sung \"năng lượng\" kịp thời.</i>"
-    },
-    "imgid": "s_543201"
+    }
   },
   {
     "title": {
@@ -85,7 +83,7 @@
       "zhs": "请降海祇的力量，对周围的敌人造成<color=#80C0FFFF>水元素伤害</color>，并披上珊瑚宫之水汇聚而成的「仪来羽衣」。\n\n<color=#FFD780FF>仪来羽衣</color>\n·增加珊瑚宫心海的普通攻击，重击以及元素战技的「化海月」造成的伤害，增加值基于珊瑚宫心海的生命值上限；\n·普通攻击和重击命中敌人时，为队伍中附近的所有角色恢复生命值，回复量受益于珊瑚宫心海的生命值上限；\n·提升珊瑚宫心海的抗打断能力，并使她能在水面上移动。\n\n效果将在珊瑚宫心海退场时解除。\n\n<i>萦绕在周身的清光化为羽衣，辉映着珊瑚宫大人的堂堂之姿。</i>",
       "zht": "請降海祇的力量，對周圍的敵人造成<color=#80C0FFFF>水元素傷害</color>，並披上珊瑚宮之水匯聚而成的「儀來羽衣」。\n\n<color=#FFD780FF>儀來羽衣</color>\n·增加珊瑚宮心海的普通攻擊，重擊以及元素戰技的「化海月」造成的傷害，增加值基於珊瑚宮心海的生命值上限；\n·普通攻擊和重擊命中敵人時，為隊伍中附近的所有角色恢復生命值，回復量受益於珊瑚宮心海的生命值上限；\n·提升珊瑚宮心海的抗打斷能力，並使她能在水面上移動。\n\n效果將在珊瑚宮心海退場時解除。\n\n<i>縈繞在身邊的清光化為羽衣，輝映著珊瑚宮大人的堂堂之姿。</i>",
       "jp": "海祇の力を降臨させ、周囲の敵に<color=#80C0FFFF>水元素ダメージ</color>を与え、珊瑚宮の水を凝縮してできた「儀来羽衣」を羽織る。\n\n<color=#FFD780FF>儀来羽衣</color>\n·珊瑚宮心海の通常攻撃、重撃、及び元素スキルの「化海月」によるダメージをアップさせる。ダメージアップ量は珊瑚宮心海のHP上限によって決まる。\n·通常攻撃と重撃が敵に命中すると、周囲のチーム全員のHPを回復する。HP回復量は珊瑚宮心海のHP上限によって決まる。\n·珊瑚宮心海の中断耐性をアップさせ、水面上での移動を可能にする。\n\n効果は珊瑚宮心海が退場する時に解除される。\n\n<i>彼女を包む透き通った光は羽衣に変化し、珊瑚宮様の華麗なる姿を映し出す。</i>",
-      "ko": "와타츠미의 힘을 빌려 주변의 적에게 <color=#80C0FFFF>물 원소 피해</color>를 주고, 산호궁의 물이 모여 만들어진 「의식의 날개옷」을 걸친다.\n\n<color=#FFD780FF>의식의 날개옷</color>\n·산고노미야 코코미의 일반 공격, 강공격 및 원소전투 스킬의 「환영 해파리」가 가하는 피해가 증가하고, 증가치는 코코미 HP 최대치에 기반한다.\n·일반 공격와 강공격이 적을 명중하면 근처에 있는 파티 내 모든 캐릭터의 HP를 회복하고, 회복량은 코코미 최대 HP의 영향을 받는다.\n·산고노미야 코코미의 경직 저항력이 증가하고 그녀가 물 위에서 이동할 수 있게 한다.\n\n효과는 코코미가 퇴장하면 사라진다.\n\n<i>몸을 둘러싼 빛은 날개옷이 되어 산고노미야 님의 뛰어난 자태를 비추리</i>",
+      "ko": "와타츠미의 힘을 빌려 주변의 적에게 <color=#80C0FFFF>물 원소 피해</color>를 주고, 산호궁의 물이 모여 만들어진 「의식의 날개옷」을 걸친다.\n\n<color=#FFD780FF>의식의 날개옷</color>\n·산고노미야 코코미의 일반 공격, 강공격 및 원소전투 스킬의 「환영 해파리」가 가하는 피해가 증가하고, 증가치는 코코미 HP 최대치에 기반한다.\n·일반 공격과 강공격이 적을 명중하면 근처에 있는 파티 내 모든 캐릭터의 HP를 회복하고, 회복량은 코코미 최대 HP의 영향을 받는다.\n·산고노미야 코코미의 경직 저항력이 증가하고 그녀가 물 위에서 이동할 수 있게 한다.\n\n효과는 코코미가 퇴장하면 사라진다.\n\n<i>몸을 둘러싼 빛은 날개옷이 되어 산고노미야 님의 뛰어난 자태를 비추리</i>",
       "en": "Summons the might of Watatsumi, dealing <color=#80C0FFFF>Hydro DMG</color> to surrounding opponents, before robing Kokomi in a Ceremonial Garment made from the flowing waters of Sangonomiya.\n\n<color=#FFD780FF>Ceremonial Garment</color>\n·Sangonomiya Kokomi's Normal Attack, Charged Attack and Bake-Kurage DMG are increased based on her Max HP.\n·When her Normal and Charged Attacks hit opponents, Kokomi will restore HP for all nearby party members, and the amount restored is based on her Max HP.\n·Increases Sangonomiya Kokomi's resistance to interruption and allows her to walk on the water's surface.\n\nThese effects will be cleared once Sangonomiya Kokomi leaves the field.\n\n<i>Clear light coalesces into robes around Her Excellency, Sangonomiya Kokomi, reflecting her magnificent form.</i>",
       "de": "Stellt die Macht der Watatsumi zur Schau und fügt Gegnern in der Umgebung <color=#80C0FFFF>Hydro-Schaden</color> zu. Hüllt Kokomi daraufhin in ein „Rituelles Federkleid“ aus dem fließenden Wasser von Sangonomiya.\n\n<color=#FFD780FF>Rituelles Federkleid</color>\n· Erhöht den mit Sangonomiya Kokomis Standardangriffen, heftigen Schlägen und dem „Bakekurage“ ihrer Elementarfähigkeit verursachten Schaden basierend auf ihren max. LP.\n· Stellt allen Truppenmitgliedern in der Nähe beim Treffen von Gegnern mit Standardangriffen und heftigen Schlägen LP basierend auf Sangonomiya Kokomis max. LP wieder her.\n· Erhöht Sangonomiya Kokomis Unterbrechungs-WDS und ermöglicht es ihr, sich auf Wasseroberflächen zu bewegen.\n\nEffekt erlischt, wenn Sangonomiya Kokomi ausgewechselt wird.\n\n<i>Ein Federkleid hellen Lichts legt sich auf den Körper Ihrer Exzellenz, Sangonomiya Kokomi, und reflektiert ihre glänzende Gestalt.</i>",
       "es": "Hace descender el poder de Watatsumi para infligir <color=#80C0FFFF>Daño Hydro</color> contra los enemigos cercanos y cubrirse con un manto ceremonial hecho con las aguas de Sangonomiya.\n\n<color=#FFD780FF>Manto ceremonial</color>\n·Aumenta tanto el daño del Ataque Normal y Cargado de Sangonomiya Kokomi como el que inflige la medusa en proporción a su Vida Máx.\n·Al golpear a un enemigo con un Ataque Normal o Cargado, regenera Vida para todos los miembros del equipo cercanos en función de la Vida Máx. de Kokomi.\n·Aumenta la RES a interrupción de Sangonomiya Kokomi y le permite moverse sobre el agua.\n\nEstos efectos desaparecerán cuando Kokomi sea retirada de combate.\n\n<i>Una luz cristalina envuelve a Su Excelencia, Sangonomiya Kokomi, para reflejar su magnificencia.</i>",
@@ -95,8 +93,7 @@
       "id": "Memanggil kekuatan Watatsumi dan mengakibatkan <color=#80C0FFFF>Hydro DMG</color> pada musuh di sekitar, kemudian menyelimuti Kokomi dengan Ceremonial Garment yang tercipta dari aliran air Sangonomiya.\n\n<color=#FFD780FF>Ceremonial Garment</color>\n·Meningkatkan DMG Normal dan Charged Attack, serta DMG Bake-Kurage berdasarkan Max HP Sangonomiya Kokomi.\n·Saat Normal dan Charged Attack mengenai musuh, Sangonomiya Kokomi akan memulihkan HP seluruh anggota party yang berada di sekitar berdasarkan Max HP miliknya.\n·Meningkatkan ketahanan Sangonomiya Kokomi terhadap interupsi dan membuat Kokomi dapat berjalan di atas permukaan air.\n\nEfek ini akan hilang jika Kokomi meninggalkan medan pertempuran.\n\n<i>Kilauan cahaya berkumpul membentuk jubah, yang menunjukkan keagungan rupa Yang Mulia, Sangonomiya Kokomi.</i>",
       "th": "อัญเชิญพลังของ Watatsumi เพื่อสร้าง<color=#80C0FFFF>ความเสียหายน้ำ</color>แก่ศัตรูที่อยู่โดยรอบ และคลุมตัวของ Kokomi ด้วย \"Ceremonial Garment\" ที่รวบรวมขึ้นจากน้ำ\n\n<color=#FFD780FF>Ceremonial Garment</color>\n·เพิ่มความเสียหายของการโจมตีปกติ, ชาร์จโจมตี และ Bake-Kurage ให้สูงขึ้น โดยปริมาณที่เพิ่มจะขึ้นอยู่กับพลังชีวิตสูงสุดของ Sangonomiya Kokomi;\n·เมื่อการโจมตีปกติหรือชาร์จโจมตีถูกศัตรู จะทำการฟื้นฟูพลังชีวิตของตัวละครทั้งหมดในทีมที่อยู่ในบริเวณใกล้เคียง ซึ่งปริมาณการฟื้นฟูจะขึ้นอยู่กับพลังชีวิตสูงสุดของ Sangonomiya Kokomi;\n·เพิ่มความสามารถในการต้านทานการหยุดชะงักของ Sangonomiya Kokomi และทำให้เธอสามารถเคลื่อนที่บนน้ำได้\n\nเอฟเฟกต์จะหายไปเมื่อ Sangonomiya Kokomi ออกจากการต่อสู้\n\n<i>ประกายแสงอันเจิดจ้าที่โอบล้อมอยู่รอบตัวราวกับผ้าคลุม สะท้อนถึงรูปลักษณ์อันสง่างามของนายท่าน Sangonomiya Kokomi</i>",
       "vi": "Triệu hồi sức mạnh của Watatsumi, gây <color=#80C0FFFF>Sát Thương Nguyên Tố Thủy</color> cho kẻ địch xung quanh, đồng thời giúp Kokomi khoác lên \"Lễ Phục Nghi Thức\" được ngưng tụ từ nước của Sangonomiya.\n\n<color=#FFD780FF>Lễ Phục Nghi Thức</color>\n·Giúp Sangonomiya Kokomi tăng sát thương tấn công thường, trọng kích và sát thương do kỹ năng nguyên tố \"Vầng Trăng Biển\" gây ra, mức gia tăng sẽ dựa vào giới hạn HP của Kokomi;\n·Khi tấn công thường và trọng kích trúng kẻ địch sẽ hồi HP cho tất cả nhân vật trong đội gần đó, lượng hồi phục sẽ dựa vào giới hạn HP của Kokomi;\n·Tăng khả năng kháng gián đoạn của Sangonomiya Kokomi, đồng thời khiến cô ấy có thể di chuyển trên mặt nước.\n\nHiệu quả sẽ mất khi Sangonomiya Kokomi rời trận.\n\n<i>Ánh sáng xung quanh tạo thành lễ phục khoác lên người Sangonomiya Kokomi, tô điểm thêm vẻ đẹp tuyệt mỹ của đại nhân.</i>"
-    },
-    "imgid": "s_543901"
+    }
   },
   {
     "title": {
@@ -128,8 +125,7 @@
       "id": "Saat Kokomi melancarkan <color=#FFD780FF>Nereid's Ascension</color>, jika Bake-Kurage milik Sangonomiya Kokomi sendiri masih berada di medan pertempuran, durasi Bake-Kurage tersebut akan diperbarui.",
       "th": "เมื่อใช้ <color=#FFD780FF>Nereid's Ascension</color> หากมี Bake-Kurage ที่เป็นของ Sangonomiya Kokomi เองอยู่ในการต่อสู้ จะรีเซ็ตช่วงเวลาคงอยู่ของ Bake-Kurage",
       "vi": "Khi thi triển <color=#FFD780FF>Nghi Lễ Nereid</color>, nếu trong trận có Vầng Trăng Biển của Sangonomiya Kokomi thì sẽ tái lập thời gian tồn tại của Vầng Trăng Biển."
-    },
-    "imgid": "p_542101"
+    }
   },
   {
     "title": {
@@ -161,8 +157,7 @@
       "id": "Saat mengenakan Ceremonial Garment dari skill <color=#FFD780FF>Nereid's Ascension</color>, Bonus DMG Normal dan Charged Attack yang didapatkan Sangonomiya Kokomi berdasarkan Max HP-nya akan meningkat lagi sebesar 15% dari Healing Bonus Kokomi.",
       "th": "เมื่ออยู่ในสภาวะ Ceremonial Garment ของ <color=#FFD780FF>Nereid's Ascension</color> โบนัสความเสียหายที่เกิดจากการโจมตีปกติและชาร์จโจมตีของ Sangonomiya Kokomi ซึ่งขึ้นกับพลังชีวิตสูงสุดของเธอเองจะเพิ่มขึ้นอีก ซึ่งปริมาณที่เพิ่มขึ้นจะเท่ากับ 15% ของโบนัสการรักษาของเธอ",
       "vi": "Khi trong trạng thái Lễ Phục Nghi Thức của <color=#FFD780FF>Nghi Lễ Nereid</color>, tăng sát thương tấn công thường và trọng kích của Sangonomiya Kokomi dựa vào giới hạn HP, mức độ tăng thêm tương đương 15% lượng tăng trị liệu."
-    },
-    "imgid": "p_542201"
+    }
   },
   {
     "title": {
@@ -194,8 +189,7 @@
       "id": "Mengurangi 20% konsumsi Stamina Karakter party sendiri saat berenang.\nEfek tidak dapat ditumpuk dengan Talenta Pasif lain yang efeknya sama persis.",
       "th": "ลดอัตราการเสียพลังกายจากการว่ายน้ำ ให้ตัวละครของตนเองที่อยู่ในทีมลง 20%\nไม่สามารถซ้อนทับพรสวรรค์ติดตัวที่เอฟเฟกต์เหมือนกันทุกประการได้",
       "vi": "Giảm 20% tiêu hao thể lực khi bơi cho nhân vật trong đội của bản thân.\nKhông thể cộng dồn với Thiên Phú cố định có cùng hiệu quả."
-    },
-    "imgid": "p_542301"
+    }
   },
   {
     "title": {
@@ -227,7 +221,6 @@
       "id": "Meningkatkan 25% Healing Bonus Sangonomiya Kokomi, tetapi CRIT Rate Kokomi berkurang 100%.",
       "th": "เพิ่มโบนัสการรักษาของ Sangonomiya Kokomi ขึ้น 25% และลดอัตราคริลง 100%",
       "vi": "Mức trị liệu của Sangonomiya Kokomi tăng 25%, tỷ lệ bạo kích giảm 100%."
-    },
-    "imgid": "p_542501"
+    }
   }
 ]

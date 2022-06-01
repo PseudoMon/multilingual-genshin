@@ -12,7 +12,7 @@
       "pt": "Ataque Normal: Técnica de Espada de Favonius - Empregada",
       "ru": "Фехтовальный стиль Фавония: Горничная",
       "id": "Normal Attack: Favonius Bladework - Maid",
-      "th": "โจมตีปกติ - Favonius Bladework · Maid",
+      "th": "โจมตีปกติ: Favonius Bladework - Maid",
       "vi": "Tấn Công Thường: Tây Phong Kiếm Thuật - Hầu Gái"
     },
     "description": {
@@ -29,8 +29,7 @@
       "id": "<color=#FFD780FF>Normal Attack</color> Melancarkan hingga 4 tebasan berturut-turut.\n\n<color=#FFD780FF>Charged Attack</color>\nTerus menguras Stamina untuk melancarkan serangan berputar yang mengakibatkan DMG ke musuh di sekitar.\nDiakhiri dengan sebuah tebasan yang kuat.\n\n<color=#FFD780FF>Plunging Attack</color>\nMenerjang dari udara untuk menghantam tanah, mengakibatkan DMG pada musuh di jalur terjangan dan mengakibatkan DMG area saat mendarat.",
       "th": "<color=#FFD780FF>โจมตีปกติ</color>\nฟาดฟันต่อเนื่องมากสุดสี่ครั้ง\n\n<color=#FFD780FF>ชาร์จโจมตี</color>\nใช้พลังกายอย่างต่อเนื่องเพื่อหมุนโจมตีศัตรูรอบตัวด้วยดาบขนาดใหญ่\nเมื่อหยุดหมุนจะทำการฟันเพิ่มอย่างรุนแรงอีกหนึ่งครั้ง\n\n<color=#FFD780FF>โจมตีพุ่งลงจากอากาศ</color>\nกระโจนจากกลางอากาศลงมายังพื้นดิน เพื่อโจมตีศัตรูที่อยู่ในเส้นทางการโจมตี โดยจะสร้างความเสียหายวงกว้างเมื่อลงถึงพื้น",
       "vi": "<color=#FFD780FF>Tấn Công Thường</color>\nThực hiện tối đa 4 lần chém liên tiếp.\n\n<color=#FFD780FF>Trọng Kích</color>\nTiêu hao thể lực để xoay kiếm tấn công địch xung quanh.\nKhi ngừng quay, sẽ bổ một nhát cực mạnh.\n\n<color=#FFD780FF>Tấn Công Khi Đáp</color>\nĐáp xuống đất từ trên không, tấn công kẻ địch trên đường và gây sát thương phạm vi khi chạm đất."
-    },
-    "imgid": "s_343101"
+    }
   },
   {
     "title": {
@@ -62,8 +61,7 @@
       "id": "Menciptakan zirah batu yang mengakibatkan <color=#FFE699FF>Geo DMG</color> pada musuh di sekitar dan membentuk perisai. DMG yang ditahan perisai berdasarkan DEF Noelle.\nPerisainya memiliki ciri-ciri berikut:\n·Saat Normal dan Charged Attack Noelle mengenai target, berkemungkinan memulihkan HP untuk semua karakter.\n·Memiliki 150% Efisiensi Penahanan DMG terhadap semua Elemental dan Physical DMG.\n\nJumlah HP yang dipulihkan meningkat berdasarkan DEF Noelle.\n\n<i>Noelle adalah seorang pelayan yang sangat sigap, dan juga seorang Knight yang sangat gagah.</i>",
       "th": "เรียกเกราะหินออกมาเพื่อสร้าง <color=#FFE699FF>ความเสียหายหิน</color> แก่ศัตรูโดยรอบ และสร้างโล่ขึ้นมา เพื่อดูดซับความเสียหาย เท่ากับพลังป้องกันของ Noelle\nโล่ป้องกันจะมีเอฟเฟกต์ดังนี้:\n·เมื่อการโจมตีปกติหรือชาร์จโจมตีของ Noelle โดนเป้าหมาย จะทำให้มีโอกาสฟื้นฟูพลังชีวิต ให้แก่ตัวละครทั้งหมดในทีม\n·มีเอฟเฟกต์การดูดซับความเสียหายธาตุทุกประเภทและความเสียหายกายภาพ 150%\n\nเมื่อเกิดเอฟเฟกต์การรักษา ปริมาณการรักษาจะขึ้นอยู่กับพลังป้องกันของ Noelle\n\n<i>Noelle นั้นไม่เพียงจะเป็นสาวใช้ แต่เธอยังเป็นอัศวินผู้มีความพยายาม อีกด้วย</i>",
       "vi": "Gọi ra giáp Nham bảo vệ bản thân, gây <color=#FFE699FF>sát thương Nguyên Tố Nham</color> cho kẻ địch xung quanh và hình thành khiên, lượng sát thương hấp thu dựa theo phòng ngự của Noelle.\nHiệu quả khiên:\n·Khi tấn công thường và trọng kích của Noelle đánh trúng kẻ địch đều có tỷ lệ hồi phục HP cho tất cả các nhân vật trong đội;\nCó hiệu quả hấp thụ 150% tất cả sát thương nguyên tố và sát thương vật lý.\n\nLượng trị liệu dựa trên phòng ngự của Noelle.\n\n<i>Noelle tuy là hầu gái nhưng cũng là một kỵ sĩ kiên cường.</i>"
-    },
-    "imgid": "s_343201"
+    }
   },
   {
     "title": {
@@ -95,8 +93,7 @@
       "id": "Mengumpulkan kekuatan Geo di sekitar senjatanya, Noelle menghantam musuh di sekitarnya dengan serangan dalam area besar, mengakibatkan <color=#FFE699FF>Geo DMG</color>.\nSetelahnya, Noelle mendapatkan efek berikut:\n·Serangan area yang lebih besar.\n·Mengonversi serangan menjadi <color=#FFE699FF>Geo DMG</color>, konversi ini tidak bisa ditimpa oleh Elemental Infusion lainnya.\n·Peningkatan ATK yang meningkat berdasarkan DEF dia.\n\n<i>Terkadang, bukan hanya debu yang harus dibersihkan...</i>",
       "th": "รวบรวมพลังแห่งหินไว้บนอาวุธและระเบิดพลังใส่ศัตรูทั้งหมดที่อยู่รอบ ๆ กลายเป็นการโจมตีวงกว้างหนึ่งครั้งเพื่อสร้าง<color=#FFE699FF>ความเสียหายหิน</color>\nหลังจากนั้นจะได้รับเอฟเฟกต์ดังนี้:\n·เพิ่มอาณาเขตการโจมตีของ Noelle \n·เปลี่ยนความเสียหายของการโจมตีเป็น<color=#FFE699FF>ความเสียหายหิน</color> โดยที่ไม่สามารถแทนที่ด้วยการแปลงของธาตุอื่นได้;\n·เพิ่มพลังโจมตีตามพลังป้องกันของ Noelle\n\n<i>สิ่งที่จำเป็นต้องปัดกวาด บางครั้งก็ไม่ได้มีแค่ฝุ่นเท่านั้น...</i>",
       "vi": "Ngưng tụ sức mạnh của đá lên vũ khí, càn quét phạm vi lớn đối với địch xung quanh, gây <color=#FFE699FF>sát thương nguyên tố Nham</color>.\nSau đó nhận hiệu quả như sau:\n·Tăng phạm vi tấn công của Noelle;\n·Chuyển hóa sát thương tấn công thành <color=#FFE699FF>sát thương nguyên tố Nham</color>, chuyển hóa Nguyên Tố này không thể bị đính kèm thay thế;\n·Dựa trên phòng ngự của Noelle, tăng tấn công.\n\n<i>Đôi lúc không chỉ có bụi bẩn mới cần quét dọn...</i>"
-    },
-    "imgid": "s_343901"
+    }
   },
   {
     "title": {
@@ -128,8 +125,7 @@
       "id": "Saat Noelle berada dalam party, tetapi tidak sedang bertarung, skill ini akan terpicu secara otomatis ketika HP karakter yang sedang digunakan kurang dari 30%:\nKarakter tersebut akan mendapatkan perisai yang dapat menahan DMG sebesar 400% dari DEF Noelle selama 20 detik.\nPerisai ini memiliki bonus 150% efektivitas Penahanan DMG untuk semua Elemental dan Physical DMG.\nEfek ini dapat terpicu setiap 60 detik.",
       "th": "เมื่อ Noelle อยู่ในแนวหลังของทีม และตัวละครของตนเองที่เข้าต่อสู้ในขณะนั้นมีพลังชีวิตต่ำกว่า 30% สกิลต่อไปนี้จะถูกปล่อยออกมาโดยอัตโนมัติ:\nสร้างโล่ป้องกันให้ตัวละครของตนเองที่เข้าต่อสู้ในขณะนั้น โดยโล่จะดูดซับความเสียหายได้เท่ากับ 400% ของพลังป้องกันของ Noelle ซึ่งจะคงอยู่ได้ 20 วินาที\nมีเอฟเฟกต์การดูดซับความเสียหายธาตุทุกประเภทและความเสียหายกายภาพ 150%\nเอฟเฟกต์นี้เกิดขึ้นได้เพียงหนึ่งครั้ง ในทุก 60 วินาที",
       "vi": "Nếu Noelle ở trạng thái chờ mà nhân vật của bản thân đang chiến đấu có HP thấp hơn 30% sẽ tự động kích hoạt:\nTạo ra khiên có thể hấp thu sát thương tương đương 400% phòng ngự của Noelle cho nhân vật của bản thân trong trận hiện tại, duy trì 20s.\n·Có hiệu quả hấp thụ 150% tất cả sát thương nguyên tố và sát thương vật lý.\nHiệu quả này mỗi 60s chỉ kích hoạt 1 lần."
-    },
-    "imgid": "p_342101"
+    }
   },
   {
     "title": {
@@ -161,8 +157,7 @@
       "id": "Saat Normal Attack atau Charged Attack Noelle mengenai musuh 4 kali, CD skill <color=#FFD780FF>Breastplate</color> akan berkurang 1 detik.\nSerangan Noelle dapat dihitung sebagai 1 kali setiap 0,1 detik.",
       "th": "เมื่อการโจมตีปกติหรือการชาร์จโจมตีของ Noelle ถูกศัตรูทุก ๆ 4 ครั้ง จะเป็นการลดเวลาคูลดาวน์ของ <color=#FFD780FF>Breastplate</color> ลง 1 วินาที\nซึ่งเอฟเฟกต์นี้จะเกิดขึ้นมากสุดหนึ่งครั้ง ในทุก 0.1 วินาที",
       "vi": "Tấn công thường hoặc trọng kích của Noelle tích lũy đánh trúng kẻ địch 4 lần sẽ giảm 1s CD của <color=#FFD780FF>Giáp Hộ Tâm</color>.\nMỗi 0.1s tối đa tính 1 lần."
-    },
-    "imgid": "p_342201"
+    }
   },
   {
     "title": {
@@ -194,7 +189,6 @@
       "id": "Saat masakan jenis pertahanan dimasak dengan sempurna, terdapat 12% kemungkinan mendapatkan hasil 2 kali lipat.",
       "th": "เมื่อปรุงอาหารประเภทป้องกันได้ระดับ สมบูรณ์ จะมีโอกาส 12% ที่จะได้รับผลผลิตเพิ่มเป็น 2 เท่า",
       "vi": "Nấu hoàn mỹ món ăn thuộc loại phòng ngự, có tỷ lệ 12% x2 sản lượng."
-    },
-    "imgid": "p_342301"
+    }
   }
 ]

@@ -35,8 +35,8 @@ export default function ArtifactSetListPage() {
 
       <ul className="artifact-list">
         { shownData.map(artifact => 
-          <li key={ artifact["SetId"] }>
-            <Link to={ `/artifacts/${artifact['SetId']}` }>
+          <li key={ artifact["setId"] }>
+            <Link to={ `/artifacts/${artifact['setId']}` }>
               <img
                 src={ `/images/artifacts/${artifact['imgid']}.png` } 
                 onError={e => {

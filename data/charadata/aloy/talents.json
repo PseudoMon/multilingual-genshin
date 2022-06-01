@@ -21,7 +21,7 @@
       "jp": "<color=#FFD780FF>通常攻撃</color>\n最大4段の連続射撃を行う。\n\n<color=#FFD780FF>重撃</color>\nダメージがより高く、より精確な<color=#FFD780FF>狙い撃ち</color>を発動する。\n照準時、氷霜の寒気が矢先に付着する。寒気に満ちた矢は敵に<color=#99FFFFFF>氷元素ダメージ</color>を与える。\n\n<color=#FFD780FF>落下攻撃</color>\n空中から矢の雨を放ち、凄まじいスピードで落下し地面に衝撃を与え、落下時に範囲ダメージを与える。",
       "ko": "<color=#FFD780FF>일반 공격</color>\n활로 최대 4번 공격한다.\n\n<color=#FFD780FF>강공격</color>\n피해가 더 크고 정확한 <color=#FFD780FF>조준 사격</color>을 한다.\n조준 시 얼음 서리가 내뿜는 한기가 화살 촉에 모이고, 한기가 가득 찬 화살은 <color=#99FFFFFF>얼음 원소 피해</color>를 준다.\n\n<color=#FFD780FF>낙하 공격</color>\n공중에서 화살비를 쏜 후 빠른 속도로 땅에 착지한다. 착지 시 범위 피해를 준다",
       "en": "<color=#FFD780FF>Normal Attack</color>\nPerform up to 4 consecutive shots with a bow.\n\n<color=#FFD780FF>Charged Attack</color>\nPerform a more precise <color=#FFD780FF>Aimed Shot</color> with increased DMG.\nWhile aiming, biting frost will accumulate on the arrowhead. A fully charged frost arrow will deal <color=#99FFFFFF>Cryo DMG</color>.\n\n<color=#FFD780FF>Plunging Attack</color>\nFires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.",
-      "de": "<color=#FFD780FF>Standardangriff</color>\nFührt bis zu 4 Pfeilschüsse aus.\n\n<color=#FFD780FF>Heftiger Schlag</color>\nFührt einen <color=#FFD780FF>gezielten Schuss</color> mit höherem Schaden und höherer Genauigkeit aus.\nKonzentriert die eisige Kälte während des Zielens an der Pfeilspitze, die voll aufgeladen <color=#99FFFFFF>Kryo-Schaden</color> verursacht.\n\n<color=#FFD780FF>Angriff aus dem Fall</color>\nSchießt in der Luft einen Pfeilregen ab, trifft schnell auf dem Boden auf und verursacht dort Flächenschaden.",
+      "de": "<color=#FFD780FF>Standardangriff</color>\nFührt bis zu 4 Pfeilschüsse hintereinander aus.\n\n<color=#FFD780FF>Heftiger Schlag</color>\nFührt einen <color=#FFD780FF>gezielten Schuss</color> mit höherem Schaden und höherer Genauigkeit aus.\nKonzentriert die eisige Kälte während des Zielens an der Pfeilspitze, die voll aufgeladen <color=#99FFFFFF>Kryo-Schaden</color> verursacht.\n\n<color=#FFD780FF>Angriff aus dem Fall</color>\nSchießt in der Luft einen Pfeilregen ab, trifft schnell auf dem Boden auf und verursacht dort Flächenschaden.",
       "es": "<color=#FFD780FF>Ataque Normal</color>\nRealiza hasta 4 disparos consecutivos con arco.\n\n<color=#FFD780FF>Ataque Cargado</color>\nRealiza un <color=#FFD780FF>Disparo Preciso</color> que inflige mayor daño y tiene mayor precisión.\nAl apuntar, crea una escarcha que acumula frío en la punta de la flecha. Cuando el frío se acumula por completo, la flecha inflige <color=#99FFFFFF>Daño Cryo</color> al impactar contra el enemigo.\n\n<color=#FFD780FF>Ataque Descendente</color>\nDispara una lluvia de flechas desde el aire mientras desciende rápidamente, infligiendo Daño en el AdE al impactar contra el suelo.",
       "fr": "<color=#FFD780FF>Attaque normale</color>\nEnchaîne jusqu'à 4 tirs consécutifs.\n\n<color=#FFD780FF>Attaque chargée</color>\nEffectue un <color=#FFD780FF>tir visé</color> plus précis infligeant davantage de DGT.\nLors de la visée, la flèche se charge en élément Cryo, infligeant d'importants <color=#99FFFFFF>DGT Cryo</color> quand elle est complètement chargée.\n\n<color=#FFD780FF>Attaque plongeante</color>\nTire une pluie de flèches depuis les airs et plonge au sol, infligeant des DGT de zone à l'impact.",
       "pt": "<color=#FFD780FF>Ataque Normal</color>\nRealiza até 4 disparos consecutivos com o arco.\n\n<color=#FFD780FF>Ataque Carregado</color>\nRealiza um ataque <color=#FFD780FF>Disparo com Mira</color> mais preciso e com mais dano.\nEnquanto mira, gelo será acumulado na flecha. Uma flecha totalmente carregada causará <color=#99FFFFFF>Dano Cryo</color>.\n\n<color=#FFD780FF>Ataque Imersivo</color>\nDispara uma chuva de flechas no ar antes de cair e impactar o chão, causando Dano AdE no impacto.",
@@ -29,8 +29,7 @@
       "id": "<color=#FFD780FF>Normal Attack</color>\nMelancarkan hingga 4 serangan berturut-turut menggunakan busur.\n\n<color=#FFD780FF>Charged Attack</color>\nMengerahkan sebuah <color=#FFD780FF>Serangan Membidik</color> yang lebih akurat untuk mengakibatkan DMG lebih besar.\nSaat membidik, es akan berkumpul di ujung anak panah. Panah dengan energi es yang terkumpul penuh akan mengakibatkan <color=#99FFFFFF>Cryo DMG</color>.\n\n<color=#FFD780FF>Plunging Attack</color>\nMelancarkan hujan panah dari udara dan menerjang tanah dengan kecepatan tinggi, mengakibatkan DMG area saat mendarat.",
       "th": "<color=#FFD780FF>โจมตีปกติ</color>\nยิงธนูโจมตีอย่างต่อเนื่องมากสุดสี่ครั้ง\n\n<color=#FFD780FF>ชาร์จโจมตี</color>\nการ<color=#FFD780FF>เล็งโจมตี</color>สร้างความเสียหายเพิ่มขึ้น และแม่นยำยิ่งขึ้น\nเมื่อเล็งโจมตี จะทำการรวบรวมไอเย็นสุดขั้วไว้ตรงหัวลูกศร โดยลูกธนูที่ชาร์จไอเย็นเต็มแล้วจะทำให้เกิด<color=#99FFFFFF>ความเสียหายน้ำแข็ง</color>\n\n<color=#FFD780FF>โจมตีพุ่งลงจากอากาศ</color>\nปล่อยฝนธนูจากกลางอากาศ และพุ่งลงมายังพื้นดินอย่างรวดเร็ว โดยจะสร้างความเสียหายวงกว้างเมื่อลงถึงพื้น",
       "vi": "<color=#FFD780FF>Tấn Công Thường</color>\nThực hiện tối đa 4 lần bắn tên liên tiếp.\n\n<color=#FFD780FF>Trọng Kích</color>\n<color=#FFD780FF>Ngắm bắn</color> chuẩn hơn, sát thương cao hơn.\nKhi ngắm bắn, hơi lạnh sẽ tích tụ trên mũi tên. Mũi tên mang đầy hơi lạnh sẽ gây <color=#99FFFFFF>Sát Thương Nguyên Tố Băng</color>.\n\n<color=#FFD780FF>Tấn Công Khi Đáp</color>\nBắn mưa tên liên tiếp xuống mặt đất, đồng thời lao nhanh xuống đất và gây sát thương phạm vi khi chạm đất."
-    },
-    "imgid": "s_623101"
+    }
   },
   {
     "title": {
@@ -62,8 +61,7 @@
       "id": "Aloy melemparkan sebuah Freeze Bomb ke arah target. Freeze Bomb ini akan meledak dan mengakibatkan <color=#99FFFFFF>Cryo DMG</color> saat mengenai target. Setelah meledak, Freeze Bomb akan pecah menjadi beberapa Chillwater Bomblet yang akan meledak dan mengakibatkan <color=#99FFFFFF>Cryo DMG</color> saat tersentuh musuh atau setelah jeda beberapa saat.\nSaat Freeze Bomb atau Chillwater Bomblet mengenai musuh, ATK musuh akan berkurang dan Aloy mendapatkan 1 lapisan Coil.\nAloy hanya bisa mendapatkan 1 lapisan Coil setiap 0,1 detik.\n\n<color=#FFD780FF>Coil</color>\n·Setiap lapisan Coil akan meningkatkan DMG Normal Attack Aloy.\n·Saat 4 lapisan Coil terkumpul, Aloy akan menghapus semua efek Coil lalu memasuki kondisi Rushing Ice yang meningkatkan DMG Normal Attack lebih besar lagi, serta mengubah DMG Normal Attack menjadi <color=#99FFFFFF>Cryo DMG</color>.\n\nAloy tidak bisa mendapatkan lapisan Coil baru saat berada dalam kondisi Rushing Ice.\nEfek Coil akan hilang dalam 30 detik setelah Aloy meninggalkan medan pertempuran.\n\n<i>Sudah kedinginan? Berarti kamu belum pernah pergi ke The Cut.</i>",
       "th": "โยน Freeze Bomb ไปทางเป้าหมายหนึ่งลูก โดยจะเกิดการระเบิดเมื่อถูกเป้าหมาย และสร้าง<color=#99FFFFFF>ความเสียหายน้ำแข็ง</color> ซึ่งหลังจากที่ระเบิดแล้ว Freeze Bomb จะแตกออกเป็น Chillwater Bomblet จำนวนมาก และจะระเบิดเมื่อถูกตัวศัตรูหรือผ่านไปชั่วระยะเวลาหนึ่งเพื่อสร้าง<color=#99FFFFFF>ความเสียหายน้ำแข็ง</color>\nหลังจากที่ Freeze Bomb หรือ Chillwater Bomblet ถูกศัตรู จะทำให้พลังการโจมตีของศัตรูลดลง และมอบเอฟเฟกต์ Coil ให้แก่ Aloy 1 ชั้น\nในทุก 0.1 วินาที จะได้รับเอฟเฟกต์ Coil มากสุด 1 ชั้น\n\n<color=#FFD780FF>Coil</color>\n·ความเสียหายของการโจมตีปกติของ Aloy จะเพิ่มขึ้นโดยขึ้นกับจำนวนชั้นที่มี;\n·เมื่อมี Coil 4 ชั้น Aloy จะลบเอฟเฟกต์ของ Coil ทั้งหมดที่มีและได้รับ Rushing Ice ซึ่งจะเพิ่มความเสียหายของการโจมตีปกติให้สูงขึ้นไปอีกขั้น และเปลี่ยนความเสียหายของการโจมตีปกติเป็น<color=#99FFFFFF>ความเสียหายน้ำแข็ง</color>\n\nเมื่ออยู่ภายใต้สภาวะของ Rushing Ice แล้ว Aloy จะไม่สามารถรับเอฟเฟกต์ Coil ได้อีก\nเอฟเฟกต์ Coil จะหายไปหลังออกจากการต่อสู้ 30 วินาที\n\n<i>ที่ The Cut น่ะ เย็นกว่านี้อีกเยอะเลยล่ะ</i>",
       "vi": "Ném một quả Bom Băng Giá về hướng mục tiêu, khi trúng sẽ kích nổ, gây <color=#99FFFFFF>Sát Thương Nguyên Tố Băng</color>. Bom Băng Giá khi nổ sẽ phân thành rất nhiều Bom Lạnh, kẻ địch dẫm phải hoặc sau một thời gian sẽ phát nổ, gây <color=#99FFFFFF>Sát Thương Nguyên Tố Băng</color>.\nBom Băng Giá hoặc Bom Lạnh khi trúng địch sẽ giảm sức tấn công của kẻ địch và cung cấp 1 tầng hiệu quả \"Dây Móc\" cho Aloy.\nMỗi 0.1s tối đa nhận 1 tầng hiệu quả Dây Móc.\n\n<color=#FFD780FF>Dây Móc</color>\n·Dựa theo số tầng để tăng sát thương tấn công thường của Aloy;\n·Khi có 4 tầng Dây Móc, Aloy sẽ xóa tất cả hiệu quả Dây Móc và nhận \"Hồ Băng\", tăng thêm sát thương tấn công thường, đồng thời chuyển sát thương tấn công thường thành <color=#99FFFFFF>Sát Thương Nguyên Tố Băng</color>.\n\nKhi trong trạng thái Hồ Băng, Aloy sẽ không thể nhận hiệu quả Dây Móc nữa.\nHiệu quả Dây Móc sẽ mất sau 30s thoát chiến đấu.\n\n<i>Đây mà là lạnh sao, vậy là chưa thấy qua The Cut rồi.</i>"
-    },
-    "imgid": "s_623201"
+    }
   },
   {
     "title": {
@@ -95,8 +93,7 @@
       "id": "Aloy melemparkan sebuah Power Cell yang berisi elemen Cryo ke arah target dan meledakkannya dengan anak panah, mengakibatkan <color=#99FFFFFF>Cryo DMG Area</color>.\n\n<i>Apakah \"Zero Dawn\" berarti harapan atau kepunahan sudah tidak penting lagi. Aloy sudah berhasil menyelamatkan dunianya, dan dunia ini sendiri memiliki para pahlawan yang akan melindunginya.</i>",
       "th": "โยน Power Cell ที่อัดแน่นไปด้วยธาตุน้ำแข็งไปยังเป้าหมาย และใช้ลูกธนูในการทำให้ระเบิด เกิดเป็น<color=#99FFFFFF>ความเสียหายน้ำแข็งวงกว้าง</color>\n\n<i>แท้จริงแล้วเศษเสี้ยวแห่งรุ่งอรุณ คือความหวังหรือการดับสูญนั้นไม่ใช่เรื่องสำคัญอีกต่อไป Aloy ได้ช่วยเหลือโลกใบนั้นของเธอไว้เรียบร้อยแล้ว ซึ่งโชคชะตาของโลกใบนั้น ก็มีผู้กล้าที่คอยเป็นห่วงเป็นใยของตัวมันเอง</i>",
       "vi": "Ném một Lõi Năng Lượng mang Nguyên Tố Băng vào hướng mục tiêu và dùng cung dẫn nổ, gây <color=#99FFFFFF>Sát Thương Phạm Vi Nguyên Tố Băng</color>.\n\n<i>Bản chất của \"Zero Dawn\" là hy vọng hay tuyệt vọng cũng không còn quan trọng nữa, Aloy đã giải cứu thế giới của mình. Còn vận mệnh của thế giới này sẽ có những anh hùng nơi đây lo toan.</i>"
-    },
-    "imgid": "s_623901"
+    }
   },
   {
     "title": {
@@ -128,8 +125,7 @@
       "id": "Saat Aloy mendapatkan efek <color=#FFD780FF>Coil</color> dari skill Frozen Wilds, ATK Aloy akan meningkat 16%, sedangkan ATK anggota party lainnya yang berada di sekitar akan meningkat 8%. Efek ini bertahan selama 10 detik.",
       "th": "เมื่อ Aloy ได้รับเอฟเฟกต์ Coil ของ <color=#FFD780FF>Frozen Wilds</color> พลังโจมตีของเธอจะเพิ่มขึ้น 16% และพลังโจมตีของตัวละครอื่น ๆ ในทีมที่อยู่ใกล้เคียงจะเพิ่มขึ้น 8% เป็นเวลา 10 วินาที",
       "vi": "Khi Aloy nhận được hiệu quả Dây Móc của <color=#FFD780FF>Băng Giá Hoang Dã</color>, sức tấn công của Aloy tăng 16%, sức tấn công của các nhân vật trong đội ở gần đó tăng 8%, duy trì 10s."
-    },
-    "imgid": "p_622101"
+    }
   },
   {
     "title": {
@@ -161,8 +157,7 @@
       "id": "Saat Aloy berada dalam status Rushing Ice dari skill <color=#FFD780FF>Frozen Wilds</color>, <color=#99FFFFFF>Cryo DMG Bonus</color> Aloy akan meningkat 3,5% setiap detik. Aloy bisa mendapatkan hingga 35% <color=#99FFFFFF>Cryo DMG Bonus</color> dengan cara ini.",
       "th": "เมื่อ Aloy อยู่ในสภาวะ Rushing Ice ของ <color=#FFD780FF>Frozen Wilds</color> ในทุก 1 วินาที <color=#99FFFFFF>โบนัสความเสียหายน้ำแข็ง</color>ของเธอจะเพิ่มขึ้น 3.5% โดยจะรับ<color=#99FFFFFF>โบนัสความเสียหายน้ำแข็ง</color>ด้วยวิธีนี้ได้มากสุดถึง 35%",
       "vi": "Khi Aloy trong trạng thái Hồ Băng của <color=#FFD780FF>Băng Giá Hoang Dã</color>, mỗi giây tăng 3.5% hiệu quả <color=#99FFFFFF>Tăng Sát Thương Nguyên Tố Băng</color>, tối đa tăng đến 35% <color=#99FFFFFF>Sát Thương Nguyên Tố Băng</color> bằng cách này."
-    },
-    "imgid": "p_622201"
+    }
   },
   {
     "title": {
@@ -194,7 +189,6 @@
       "id": "Saat Aloy berada dalam party, binatang kecil yang bisa menghasilkan Fowl, Raw Meat, atau Chilled Meat tidak mudah terkejut saat didekati anggota party.",
       "th": "ในขณะที่มี Aloy อยู่ในทีม เมื่อตัวละครในทีมของตนเองเข้าใกล้สิ่งมีชีวิตที่ให้ผลผลิตของ Fowl, Raw Meat, หรือ Chilled Meat จะทำให้พวกมันไหวตัวได้ยากขึ้น",
       "vi": "Khi có Aloy trong đội, nhân vật khi tiếp cận các động vật nhỏ tạo Thịt Rừng, Thịt Gia Cầm và Thịt Tươi Lạnh sẽ không làm kinh động đến chúng."
-    },
-    "imgid": "p_622301"
+    }
   }
 ]

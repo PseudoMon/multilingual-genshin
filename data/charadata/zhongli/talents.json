@@ -12,7 +12,7 @@
       "pt": "Ataque Normal: Chuva de Pedras",
       "ru": "Каменный дождь",
       "id": "Rain of Stone",
-      "th": "โจมตีปกติ - Rain of Stone",
+      "th": "โจมตีปกติ: Rain of Stone",
       "vi": "Tấn Công Thường - Mưa Đá"
     },
     "description": {
@@ -29,8 +29,7 @@
       "id": "<color=#FFD780FF>Normal Attack</color>\nMelancarkan hingga 6 serangan tombak beruntun.\n\n<color=#FFD780FF>Charged Attack</color>\nMengonsumsi sejumlah Stamina untuk menyerang maju, dan menyebabkan tombak batu berjatuhan di sepanjang jalur serangan.\n\n<color=#FFD780FF>Plunging Attack</color>\nMenerjang dari udara untuk menghantam tanah, mengakibatkan DMG pada musuh di jalur terjangan dan mengakibatkan DMG area saat mendarat.",
       "th": "<color=#FFD780FF>โจมตีปกติ</color>\nใช้หอกโจมตีต่อเนื่องมากสุดถึงหกครั้ง\n\n<color=#FFD780FF>ชาร์จโจมตี</color>\nใช้พลังกายส่วนหนึ่งเพื่อพุ่งไปข้างหน้า อย่างรวดเร็ว จากนั้นจะทิ้งหอกหินลงมา ยังเส้นทางที่เคลื่อนที่ และจุดสุดท้ายราวกับฝนกระหน่ำ\n\n<color=#FFD780FF>โจมตีพุ่งลงจากอากาศ</color>\nกระโจนจากกลางอากาศลงมายังพื้นดิน เพื่อโจมตีศัตรูที่อยู่ในเส้นทางการโจมตี โดยจะสร้างความเสียหายวงกว้างเมื่อลงถึงพื้น",
       "vi": "<color=#FFD780FF>Tấn Công Thường</color>\nThực hiện tối đa 6 lần đánh liên tiếp.\n\n<color=#FFD780FF>Trọng Kích</color>\nTiêu hao thể lực nhất định, lao nhanh về phía trước, ném thương đá trên đường đi và điểm cuối.\n\n<color=#FFD780FF>Tấn Công Khi Đáp</color>\nĐáp xuống đất từ trên không, tấn công kẻ địch trên đường, đồng thời gây sát thương phạm vi khi chạm đất."
-    },
-    "imgid": "s_303101"
+    }
   },
   {
     "title": {
@@ -62,8 +61,7 @@
       "id": "Gunung, tanah, batu, semuanya mengandung kekuatan Geo. Namun, cuma sedikit saja yang bisa mengerahkan kekuatan itu sesuai kehendaknya.\n\n<color=#FFD780FF>Tekan</color>\nMemerintahkan elemen Geo di permukaan tanah untuk berkumpul dan membentuk sebuah Stone Stele.\n\n<color=#FFD780FF>Tahan</color>\nMengakibatkan elemen Geo di sekitar meledak, menyebabkan efek berikut:\n·Bila jumlah Stone Stele yang terbentuk belum mencapai batas maksimum, Stone Stele akan terbentuk.\n·Menciptakan sebuah Jade Shield yang dapat menyerap DMG sesuai dengan Max HP Zhongli.\n·Mengakibatkan <color=#FFE699FF>Geo DMG Area.</color>\n·Bila di sekeliling karakter terdapat musuh dengan <color=#FFE699FF>elemen Geo</color>, maka Zhongli dapat mengonsumsi sejumlah besar <color=#FFE699FF>elemen Geo</color>, maksimum dari 2 musuh. Efek ini tidak mengakibatkan DMG.\n\n<color=#FFD780FF>Stone Stele</color>\nKetika terbentuk, pilar ini akan mengakibatkan <color=#FFE699FF>Geo DMG Area</color>.\nSelain itu, Stone Stele akan beresonansi dengan <color=#FFE699FF>Geo Construct</color> di sekitarnya, mengakibatkan <color=#FFE699FF>Geo DMG</color> ke musuh di sekitar.\nStone Stele terhitung sebagai <color=#FFE699FF>Geo Construct</color>, yang dapat digunakan untuk menghalangi serangan dan juga dapat dipanjat.\nAwalnya, Stone Stele yang diciptakan oleh Zhongli, hanya bisa ada satu dalam satu waktu.\n\n<color=#FFD780FF>Jade Shield</color>\nMemiliki bonus 150% efek penyerapan terhadap semua Elemental DMG dan Physical DMG.\nKarakter yang berada dalam perlindungan Jade Shield akan menyebabkan semua Elemental RES dan Physical RES musuh di area kecil sekitarnya berkurang 20%. Efek tersebut tidak dapat ditumpuk.\n\n<i>Seorang ahli batu sejati akan mampu mengukir giok dan membentuk emas.</i>",
       "th": "#แนวเทือกเขา, บนพื้นดิน, ช่องระหว่างหินขนาดใหญ่ ทั้งหมดนี้ล้วนเต็มไปด้วยพลังแห่งหิน แต่คนที่สามารถขับเคลื่อนพลังเหล่านี้ได้นั้นกลับมีน้อยและหาได้ยากมาก\n\n<color=#FFD780FF>{LAYOUT_MOBILE#แตะ}{LAYOUT_PC#กด}{LAYOUT_PS#กด}</color>\nเรียกธาตุหินที่อยู่บนพื้นโลกให้มารวมกันเพื่อสร้าง Stone Stele\n\n<color=#FFD780FF>{LAYOUT_MOBILE#แตะค้าง}{LAYOUT_PC#กดค้าง}{LAYOUT_PS#กดค้าง}</color>\nเรียกพลังแห่งธาตุหินที่อยู่รอบตัวให้ปะทุขึ้นมา เกิดเป็นเอฟเฟกต์ดังต่อไปนี้:\n·สร้าง Stone Stele หากจำนวนยังไม่ถึงขีดจำกัดสูงสุด;\n·สร้าง Jade Shield ขึ้นมา โดยจะมีปริมาณการดูดซับความเสียหายขึ้นกับพลังชีวิตสูงสุดของ Zhongli;\n·ทำให้เกิด<color=#FFE699FF>ความเสียหายหินวงกว้าง</color>;\n·หากมีเป้าหมายที่เป็น<color=#FFE699FF>ธาตุหิน</color>อยู่ในบริเวณใกล้ตัว จะดูด<color=#FFE699FF>ธาตุหิน</color>ปริมาณมากออกมาจากเป้าหมายมากสุด 2 เป้าหมาย ซึ่งเอฟเฟกต์นี้จะไม่ทำให้เกิดความเสียหาย\n\n<color=#FFD780FF>Stone Stele</color>\nทำให้เกิด<color=#FFE699FF>ความเสียหายหินวงกว้าง</color>ในตอนที่สร้าง\nนอกจากนี้ระหว่างช่วงเวลาที่คงอยู่ จะทำการปล่อยคลื่นประสานกับ<color=#FFE699FF>วัตถุธาตุหิน</color>ที่อยู่โดยรอบเป็นระยะ ๆ เพื่อสร้าง<color=#FFE699FF>ความเสียหายหิน</color>แก่ศัตรูที่อยู่โดยรอบ\nStone Stele นั้นถูกนับว่าเป็น<color=#FFE699FF>วัตถุธาตุหิน</color> ซึ่งใช้ป้องกันการโจมตีและใช้เพื่อปีนป่ายได้\nในตอนเริ่มแรก Stone Stele ที่สร้างขึ้นโดยตัวของ Zhongli เองนั้น สามารถมีได้เพียงอันเดียวในช่วงเวลาเดียวกันเท่านั้น\n\n<color=#FFD780FF>Jade Shield</color>\nมีเอฟเฟกต์การดูดซับความเสียหายธาตุทุกประเภทและความเสียหายกายภาพ 150%\nตัวละครที่ได้รับการป้องกันจาก Jade Shield จะลดความต้านทานธาตุทั้งหมด และความต้านทานกายภาพของศัตรูที่อยู่ใกล้เคียงในพื้นที่วงแคบลง 20% โดยที่เอฟเฟกต์นี้ จะไม่สามารถซ้อนทับได้\n\n<i>ถึงจะเป็นหินแต่ก็สามารถสลักหยกหรือขึ้นรูปทองคำได้ หากทำอย่างต่อเนื่อง</i>",
       "vi": "Trong rặng núi, trên mặt đất, giữa những tảng đá đều chất chứa sức mạnh của nham. Nhưng rất ít người có thể điều khiển được sức mạnh này.\n\n<color=#FFD780FF>Nhấn</color>\nRa lệnh cho các nguyên tố Nham trên mặt đất tụ hợp lại, kết thành vách đá.\n\n<color=#FFD780FF>Nhấn Giữ</color>\nLệnh cho nguyên tố Nham xung quanh phát nổ, gây hiệu quả như sau:\n·Nếu số lượng vách đá chưa đạt giới hạn, thì sẽ tạo ra vách đá;\n·Tạo ra Khiên Ngọc, lượng hấp thu sát thương phụ thuộc vào giới hạn HP của Zhongli;\n·Gây <color=#FFE699FF>Sát Thương Phạm Vi Nguyên Tố Nham</color>;\n·Nếu bên cạnh có mục tiêu <color=#FFE699FF>Nguyên Tố Nham</color>, sẽ tiêu hao lượng lớn <color=#FFE699FF>Nguyên Tố Nham</color> của tối đa 2 mục tiêu. Hiệu quả này sẽ không gây sát thương.\n\n<color=#FFD780FF>Vách Đá</color>\nKhi tạo vách đá sẽ gây <color=#FFE699FF>Sát Thương Phạm Vi Nguyên Tố Nham</color>.\nNgoài ra, trong thời gian vách đá tồn tại, thỉnh thoảng sẽ tạo thành cộng hưởng với <color=#FFE699FF>tạo vật Nguyên Tố Nham</color> khác ở xung quanh, gây <color=#FFE699FF>sát thương Nguyên Tố Nham</color> cho kẻ địch xung quanh.\nVách đá được xem là <color=#FFE699FF>tạo vật Nguyên Tố Nham</color>, có thể ngăn chặn tấn công, có thể leo trèo.\nBan đầu chỉ được tồn tại đồng thời 1 vách đá duy nhất do Zhongli tạo ra.\n\n<color=#FFD780FF>Khiên Ngọc</color>\nCó hiệu quả hấp thu 150% tất cả sát thương nguyên tố và sát thương vật lý.\nNhân vật đang được Khiên Ngọc bảo vệ, sẽ khiến cho kẻ địch trong phạm vi nhỏ bị giảm 20% tất cả kháng nguyên tố và kháng vật lý, hiệu quả này không được cộng dồn.\n\n<i>Đá kiên cố có thể đánh ngọc khắc vàng.</i>"
-    },
-    "imgid": "s_303201"
+    }
   },
   {
     "title": {
@@ -95,8 +93,7 @@
       "id": "Menjatuhkan sebuah meteor ke bumi, mengakibatkan <color=#FFE699FF>Geo DMG</color> yang besar serta menyebabkan efek <color=#FFE699FF>Petrification</color> kepada musuh di dalam area skill.\n\n<color=#FFD780FF>Petrification</color>\nMusuh yang terkena efek <color=#FFE699FF>Petrification</color> tidak dapat bergerak.\n\n<i>Bintang jatuh menghukum para pelaku yang berbuat curang dan tidak adil.</i>",
       "th": "เรียกดาวตกขนาดใหญ่ให้ร่วงลงมาเพื่อ สร้าง<color=#FFE699FF>ความเสียหายหิน</color>อย่างรุนแรง แก่ศัตรูที่อยู่ในบริเวณที่ตกใส่ และทำให้เกิด<color=#FFE699FF>การกลายเป็นหิน</color>\n\n<color=#FFD780FF>การกลายเป็นหิน</color>\nศัตรูที่อยู่ภายใต้สภาวะ<color=#FFE699FF>การกลายเป็นหิน</color>จะไม่สามารถขยับตัวได้\n\n<i>อุกกาบาตร่วงหล่นลงมาลงโทษ ความอยุติธรรม</i>",
       "vi": "Thiên thạch cực lớn rơi xuống, gây <color=#FFE699FF>Sát Thương Nguyên Tố Nham</color> cực lớn cho kẻ địch trong phạm vi rơi, và khiến địch <color=#FFE699FF>Hóa Thạch</color>.\n\n<color=#FFD780FF>Hóa Thạch</color>\nKẻ địch trong trạng thái <color=#FFE699FF>Hóa Thạch</color> không thể chuyển động.\n\n<i>Dùng ngôi sao trên cao soi sáng cho người đang mê muội.</i>"
-    },
-    "imgid": "s_303901"
+    }
   },
   {
     "title": {
@@ -128,8 +125,7 @@
       "id": "Jade Shield akan menjadi lebih kuat setelah menerima DMG:\n·Meningkatkan 5% kekuatan perisai milik karakter yang dilindungi Jade Shield.\n·Efek ini dapat ditumpuk sebanyak 5 kali dan akan bertahan sampai Jade Shield hilang.",
       "th": "เมื่อ Jade Shield ได้รับความเสียหาย จะทำให้เกิดเอฟเฟกต์เสริมความแข็งแกร่ง:\n·ตัวละครที่ได้รับการป้องกันจาก Jade Shield จะเพิ่มประสิทธิภาพโล่ป้องกันขึ้น 5%;\n·เอฟเฟกต์นี้ซ้อนทับกันได้สูงสุด 5 ครั้ง และจะคงอยู่ไปจนกว่า Jade Shield จะหายไป",
       "vi": "Khi Khiên Ngọc chịu sát thương sẽ tạo ra hiệu quả kiên cố:\n·Nhân vật khi đang được Khiên Ngọc bảo vệ, hiệu quả khiên +5%.\n·Hiệu quả này tối đa cộng dồn 5 lần, duy trì đến khi Khiên Ngọc mất đi."
-    },
-    "imgid": "p_302101"
+    }
   },
   {
     "title": {
@@ -161,8 +157,7 @@
       "id": "Zhongli menghasilkan bonus DMG berdasarkan Max HP miliknya:\n·Meningkatkan DMG Normal Attack, Charged Attack, dan Plunging Attack sebesar 1,39% dari Max HP Zhongli.\n·Meningkatkan DMG <color=#FFD780FF>Dominus Lapidis</color> Stone Stele, resonansi, dan DMG tekan sebesar 1,9% Max HP Zhongli.\n·Meningkatkan DMG <color=#FFD780FF>Planet Befall</color> sebesar 33% Max HP Zhongli.",
       "th": "#การโจมตีของ Zhongli ต่อไปนี้ จะสร้างความเสียหายเพิ่มขึ้นตามพลังชีวิตสูงสุด:\n·เพิ่มความเสียหายของการโจมตีปกติ การชาร์จโจมตี และการโจมตีพุ่งลงจากอากาศขึ้น 1.39% ของพลังชีวิตสูงสุด\n·เพิ่มความเสียหายของ Stone Stele ของ <color=#FFD780FF>Dominus Lapidis</color>, ความเสียหายของการสอดประสาน และความเสียหายเมื่อ{LAYOUT_MOBILE#แตะค้าง}{LAYOUT_PC#กดค้าง}{LAYOUT_PS#กดค้าง}ขึ้น 1.9% ของพลังชีวิตสูงสุด\n·เพิ่มความเสียหายของ <color=#FFD780FF>Planet Befall</color> ขึ้น 33% ของพลังชีวิตสูงสุด",
       "vi": "Sát thương gây ra bởi những đòn tấn công dưới đây của Zhongli sẽ tăng tùy theo giới hạn HP:\n·Lượng tăng sát thương của tấn công thường, trọng kích và tấn công khi đáp: 1.39% giới hạn HP\n·Lượng tăng sát thương của nhấn giữ, sát thương cộng hưởng và Vách Đá của <color=#FFD780FF>Tâm Trái Đất</color>: 1.9% giới hạn HP\n·Lượng tăng sát thương của <color=#FFD780FF>Thiên Tinh</color>: 33% giới hạn HP"
-    },
-    "imgid": "p_302201"
+    }
   },
   {
     "title": {
@@ -194,7 +189,6 @@
       "id": "Mengembalikan 15% jumlah Ore yang digunakan saat membuat senjata tipe Polearm.",
       "th": "เมื่อสร้างอาวุธประเภทหอก จะได้รับแร่ที่ใช้ในการหลอมคืน 15%",
       "vi": "Khi rèn vũ khí cán dài, hoàn trả 15% Khoáng Thạch tiêu hao."
-    },
-    "imgid": "p_302301"
+    }
   }
 ]

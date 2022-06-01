@@ -12,7 +12,7 @@
       "pt": "Legado do Mal - Ondas Calmas",
       "ru": "Форма духа: Останавливающий волну",
       "id": "Foul Legacy: Tide Withholder",
-      "th": "Foul Legacy - Tide Withholder",
+      "th": "Foul Legacy: Tide Withholder",
       "vi": "Trang Phục Ma Vương - Ngăn Sóng"
     },
     "description": {
@@ -27,7 +27,7 @@
       "pt": "Diminui a Recarga de <color=#FFD780FF>Legado do Mal - Ondas de Fúria</color> por 20%.",
       "ru": "Уменьшает время отката навыка <color=#FFD780FF>Форма духа: Бушующие волны</color> на 20%.",
       "id": "Mengurangi 20% CD <color=#FFD780FF>Foul Legacy: Raging Tide</color>.",
-      "th": "ลดเวลาคูลดาวน์ของ <color=#FFD780FF>Foul Legacy - Raging Tide</color> ลง 20%",
+      "th": "ลดเวลาคูลดาวน์ของ <color=#FFD780FF>Foul Legacy: Raging Tide</color> ลง 20%",
       "vi": "Giảm 20% CD của <color=#FFD780FF>Trang Phục Ma Vương - Thủy Triều</color>."
     },
     "imgid": "constellation_1"
@@ -45,7 +45,7 @@
       "pt": "Legado do Mal - Submarino",
       "ru": "Форма духа: Скрытое течение",
       "id": "Foul Legacy: Understream",
-      "th": "Foul Legacy - Understream",
+      "th": "Foul Legacy: Understream",
       "vi": "Trang Phục Ma Vương - Sóng Ngầm"
     },
     "description": {
@@ -78,7 +78,7 @@
       "pt": "Caos Abissal - Vórtice da Turbulência",
       "ru": "Хаос бездны: Источник беспорядков",
       "id": "Abyssal Mayhem: Vortex of Turmoil",
-      "th": "Abyssal Mayhem - Vortex of Turmoil",
+      "th": "Abyssal Mayhem: Vortex of Turmoil",
       "vi": "Tai Họa Vực Sâu - Nguồn Gốc Tranh Giành"
     },
     "description": {
@@ -93,7 +93,7 @@
       "pt": "Aumenta o nível de <color=#FFD780FF>Legado do Mal - Ondas de Fúria</color> em 3.\nO nível máximo é Nv.15.",
       "ru": "Увеличивает уровень навыка <color=#FFD780FF>Форма духа: Бушующие волны</color> на 3.\nМакс. уровень: 15",
       "id": "Meningkatkan 3 level <color=#FFD780FF>Foul Legacy: Raging Tide</color>.\nMaksimum: Lv. 15.",
-      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Foul Legacy - Raging Tide</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Foul Legacy: Raging Tide</color> ขึ้น 3 ระดับ\nเพิ่มได้สูงสุดถึงระดับ 15",
       "vi": "Cấp kỹ năng <color=#FFD780FF>Trang Phục Ma Vương - Thủy Triều</color> +3.\nTăng tối đa đến cấp 15."
     },
     "imgid": "constellation_3"
@@ -111,7 +111,7 @@
       "pt": "Caos Abissal - Hydroexplosão",
       "ru": "Хаос бездны: Гидро излив",
       "id": "Abyssal Mayhem: Hydrospout",
-      "th": "Abyssal Mayhem - Hydrospout",
+      "th": "Abyssal Mayhem: Hydrospout",
       "vi": "Tai Họa Vực Sâu - Bắn Nước"
     },
     "description": {
@@ -126,7 +126,7 @@
       "pt": "Quando Interceptação de Fluxo é infligida por Tartaglia a cada 4s, se Tartaglia estiver na posição corpo a corpo de <color=#FFD780FF>Legado do Mal - Ondas de Fúria</color> ativa Interceptação de Fluxo·Corte; caso contrário, ativa Dano da Interceptação de Fluxo·Instantâneo.\nA Interceptação de Fluxo·Corte e Interceptação de Fluxo·Instantâneo não têm limitações de intervalo de ativação e não são afetados por outro intervalo de ativação.",
       "ru": "Когда Тарталья находится в стойке <color=#FFD780FF>Форма духа: Бушующие волны</color>, враги со статусом Отлив получают урон от эффекта Отлив-удар каждые 4 сек. В противном случае срабатывает эффект Отлив-вспышка.\nНа эффекты Отлив-удар и Отлив-вспышка, вызванные этим уровнем созвездия, не действуют их обычные ограничения длительности, также они не имеют никаких эффектов в этих временных промежутках.",
       "id": "Bila ada musuh yang terkena efek Riptide milik Tartaglia dan Tartaglia sedang menggunakan mode jarak dekat dari <color=#FFD780FF>Foul Legacy: Raging Tide</color>, maka Tartaglia akan memicu Riptide Slash setiap 4 detik; bila tidak, akan memicu Riptide Flash.\nRiptide Slash dan Riptide Flash yang terpicu dari Konstelasi ini tidak dibatasi oleh jeda waktu masing-masing skill, juga tidak memengaruhi jeda waktu masing-masing skill.",
-      "th": "เมื่อมีการใช้เอฟเฟกต์ Riptide ของ Tartaglia ในการต่อสู้ หาก Tartaglia อยู่ในรูปแบบการต่อสู้ระยะประชิดของ <color=#FFD780FF>Foul Legacy - Raging Tide</color> จะปล่อย Riptide Slash ไม่เช่นนั้นก็จะปล่อย Riptide Flash ในทุก ๆ 4 วินาที \nRiptide Slash และ Riptide Flash ที่ปล่อยโดยกลุ่มดาว จะไม่ถูกจำกัดช่วงการปล่อยโดยเอฟเฟกต์ Riptide ของทั้งสอง และจะไม่มีผลต่อช่วงการปล่อยเอฟเฟกต์ดังกล่าว",
+      "th": "เมื่อมีการใช้เอฟเฟกต์ Riptide ของ Tartaglia ในการต่อสู้ หาก Tartaglia อยู่ในรูปแบบการต่อสู้ระยะประชิดของ <color=#FFD780FF>Foul Legacy: Raging Tide</color> จะปล่อย Riptide Slash ไม่เช่นนั้นก็จะปล่อย Riptide Flash ในทุก ๆ 4 วินาที \nRiptide Slash และ Riptide Flash ที่ปล่อยโดยกลุ่มดาว จะไม่ถูกจำกัดช่วงการปล่อยโดยเอฟเฟกต์ Riptide ของทั้งสอง และจะไม่มีผลต่อช่วงการปล่อยเอฟเฟกต์ดังกล่าว",
       "vi": "Mỗi 4s, khi trong trận xuất hiện hiệu quả Đoạn Lưu do Tartaglia thi triển, nếu Tartaglia đang trong trạng thái cận chiến của <color=#FFD780FF>Trang Phục Ma Vương - Thủy Triều</color>, sẽ kích hoạt Đoạn Lưu - Chém; Nếu không Đoạn Lưu - Né sẽ được kích hoạt.\nĐoạn Lưu - Né và Đoạn Lưu - Chém được kích hoạt bằng cung mệnh này sẽ không bị giới hạn bởi thời gian kích hoạt của hai loại Đoạn Lưu này và cũng không ảnh hưởng đến thời gian kích hoạt của chúng."
     },
     "imgid": "constellation_4"
@@ -144,7 +144,7 @@
       "pt": "Devastação - Lâmina Sem Forma",
       "ru": "Хаос: Бесформенный клинок",
       "id": "Havoc: Formless Blade",
-      "th": "Havoc - Formless Blade",
+      "th": "Havoc: Formless Blade",
       "vi": "Kỹ Năng Thượng Thừa - Chém Nước Chặt Mưa"
     },
     "description": {
@@ -159,7 +159,7 @@
       "pt": "Aumenta o nível da <color=#FFD780FF>Devastação: Obliteração</color> em 3.\nO nível máximo de elevação é 15.",
       "ru": "Увеличивает уровень навыка <color=#FFD780FF>Хаос: Опустошение</color> на 3.\nМакс. уровень: 15",
       "id": "Meningkatkan 3 level <color=#FFD780FF>Havoc - Obliteration</color>.\nMaksimum: Lv. 15.",
-      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Havoc - Obliteration</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Havoc: Obliteration</color> ขึ้น 3 ระดับ\nเพิ่มได้สูงสุดถึงระดับ 15",
       "vi": "Cấp kỹ năng <color=#FFD780FF>Kỹ Năng Thượng Thừa - Ánh Sáng Tận Diệt</color> +3.\nTăng tối đa đến cấp 15."
     },
     "imgid": "constellation_5"
@@ -177,7 +177,7 @@
       "pt": "Devastação - Aniquilação",
       "ru": "Хаос: Охота на ангелов",
       "id": "Havoc: Annihilation",
-      "th": "Havoc - Annihilation",
+      "th": "Havoc: Annihilation",
       "vi": "Kỹ Năng Thượng Thừa - Thiên Sứ Tai Ương"
     },
     "description": {
@@ -192,7 +192,7 @@
       "pt": "Quando <color=#FFD780FF>Devastação: Obliteração</color> é lançada na Posição Corpo a Corpo, o Tempo de Recarga de <color=#FFD780FF>Legado do Mal - Ondas de Fúria</color> termina imediatamente.\nEsse efeito só acontecerá quando Tartaglia retornar à sua Posição à Distância.",
       "ru": "При активации навыка <color=#FFD780FF>Хаос: Опустошение</color> обнуляется время отката навыка <color=#FFD780FF>Форма духа: Бушующие волны</color>.\nЭтот эффект срабатывает, только когда Тарталья возвращается в дальнюю стойку.",
       "id": "Saat <color=#FFD780FF>Havoc: Obliteration</color> dilancarkan dalam keadaan mode jarak dekat, maka CD dari <color=#FFD780FF>Foul Legacy: Raging Tide</color> akan direset.\nEfek ini hanya akan terjadi begitu Tartaglia kembali ke mode jarak jauh.",
-      "th": "ภายใต้รูปแบบการต่อสู้ระยะประชิด เมื่อใช้ <color=#FFD780FF>Havoc - Obliteration</color> จะลบล้างเวลาคูลดาวน์ของ <color=#FFD780FF>Foul Legacy - Raging Tide</color>\nเอฟเฟกต์ดังกล่าวจะถูกปล่อย เมื่อกลับสู่รูปแบบการต่อสู้ระยะไกล",
+      "th": "ภายใต้รูปแบบการต่อสู้ระยะประชิด เมื่อใช้ <color=#FFD780FF>Havoc: Obliteration</color> จะลบล้างเวลาคูลดาวน์ของ <color=#FFD780FF>Foul Legacy: Raging Tide</color>\nเอฟเฟกต์ดังกล่าวจะถูกปล่อย เมื่อกลับสู่รูปแบบการต่อสู้ระยะไกล",
       "vi": "Khi thi triển <color=#FFD780FF>Kỹ Năng Thượng Thừa - Ánh Sáng Tận Diệt</color> trong trạng thái cận chiến, hủy CD của <color=#FFD780FF>Trang Phục Ma Vương - Thủy Triều</color>.\nHiệu quả này sẽ được kích hoạt khi anh quay trở lại trạng thái đánh xa."
     },
     "imgid": "constellation_6"

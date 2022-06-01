@@ -1,0 +1,62 @@
+{
+  "name": {
+    "zhs": "夜兰",
+    "zht": "夜蘭",
+    "jp": "夜蘭",
+    "ko": "야란",
+    "en": "Yelan",
+    "de": "Yelan",
+    "es": "Yelan",
+    "fr": "Yelan",
+    "pt": "Yelan",
+    "ru": "Е Лань",
+    "id": "Yelan",
+    "th": "Yelan",
+    "vi": "Yelan"
+  },
+  "title": {
+    "zhs": "兰生幽谷",
+    "zht": "蘭生幽谷",
+    "jp": "幽谷に咲く蘭",
+    "ko": "유곡에 피어난 난초",
+    "en": "Valley Orchid",
+    "de": "Orchidee im tiefen Tal",
+    "es": "La Orquídea del Valle",
+    "fr": "Orchidée de la vallée",
+    "pt": "Vale das Orquídeas",
+    "ru": "Орхидея долины",
+    "id": "Valley Orchid",
+    "th": "กล้วยไม้งามกลางหุบเขา",
+    "vi": "Lan Sinh U Cốc"
+  },
+  "description": {
+    "zhs": "自称供职于总务司的神秘人士，却又是总务司名录里的「不存在之人」。",
+    "zht": "自稱供職於總務司的神秘人士，卻又是總務司名錄裡的「不存在之人」。",
+    "jp": "総務司所属を称する謎の人物。しかし、総務司の名簿上では「存在しない人」となっている。",
+    "ko": "자신을 총무부 직원이라고 소개하지만 총무부 명단에는 「존재하지 않는」 의문의 인물",
+    "en": "A mysterious person who claims to work for the Ministry of Civil Affairs, but is a \"non-entity\" on the Ministry of Civil Affairs' list.",
+    "de": "Eine mysteriöse Person, die behauptet, für den Rat für Allgemeine Angelegenheiten zu arbeiten, aber auf der Liste des Rats für Allgemeine Angelegenheiten als „nicht existent“ geführt wird.",
+    "es": "Una misteriosa persona que dice trabajar para el Ministerio de Asuntos Civiles, pero que “no existe” según los registros del propio Ministerio.",
+    "fr": "Une mystérieuse personne qui prétend travailler pour le Bureau des affaires civiles. Cependant, elle n'apparaît nulle part dans leur registre.",
+    "pt": "Uma pessoa misteriosa que afirma trabalhar para o Ministério dos Assuntos Civis, mas \"não existe\" nos registros deles.",
+    "ru": "Таинственная девушка, утверждающая, что работает в Департаменте по делам граждан, но в списках Департамента её нет.",
+    "id": "Orang misterius yang mengaku bekerja di Bagian Urusan Sipil, tetapi \"tidak terdaftar\" di data Bagian Urusan Sipil.",
+    "th": "บุคคลลึกลับที่อ้างตัวว่าทำงานในฝ่ายกิจการทั่วไป แต่กลับเป็น \"บุคคลที่ไม่มีตัวตน\" ในรายชื่อพนักงานของฝ่ายกิจการทั่วไป",
+    "vi": "Nhân sĩ thần bí tự xưng làm việc cho Tổng Vụ, nhưng lại là \"người không tồn tại\" trong danh sách của Tổng Vụ."
+  },
+  "constellation": {
+    "zhs": "幽客座",
+    "zht": "幽客座",
+    "jp": "幽客座",
+    "ko": "유객(幽客)자리",
+    "en": "Umbrabilis Orchis",
+    "de": "Umbrabilis Orchis",
+    "es": "Umbrabilis Orchis",
+    "fr": "Umbrabilis Orchis",
+    "pt": "Umbrabilis Orchis",
+    "ru": "Призрачная орхидея",
+    "id": "Umbrabilis Orchis",
+    "th": "Umbrabilis Orchis",
+    "vi": "Cung U Khách"
+  }
+}

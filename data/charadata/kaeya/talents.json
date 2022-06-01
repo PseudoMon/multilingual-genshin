@@ -12,7 +12,7 @@
       "pt": "Ataque Normal: Lâmina Cerimonial",
       "ru": "Ритуальное фехтование",
       "id": "Ceremonial Bladework",
-      "th": "โจมตีปกติ - Ceremonial Bladework",
+      "th": "โจมตีปกติ: Ceremonial Bladework",
       "vi": "Tấn Công Thường: Nghi Lễ Kiếm Thuật"
     },
     "description": {
@@ -29,8 +29,7 @@
       "id": "<color=#FFD780FF>Normal Attack</color>\nMelancarkan hingga 5 serangan berturut-turut.\n\n<color=#FFD780FF>Charged Attack</color>\nMengonsumsi sejumlah Stamina untuk melancarkan dua tebasan pedang.\n\n<color=#FFD780FF>Plunging Attack</color>\nMenerjang dari udara untuk menghantam tanah, mengakibatkan DMG pada musuh di jalur terjangan dan mengakibatkan DMG area saat mendarat.",
       "th": "<color=#FFD780FF>โจมตีปกติ</color>\nโจมตีด้วยดาบต่อเนื่องมากสุดห้าครั้ง\n\n<color=#FFD780FF>ชาร์จโจมตี</color>\nใช้พลังกายส่วนหนึ่งเพื่อปลดปล่อยดาบ ออกไปข้างหน้าสองเล่มในช่วงเวลาสั้น ๆ\n\n<color=#FFD780FF>โจมตีพุ่งลงจากอากาศ</color>\nกระโจนจากกลางอากาศลงมายังพื้นดิน เพื่อโจมตีศัตรูที่อยู่ในเส้นทางการโจมตี โดยจะสร้างความเสียหายวงกว้างเมื่อลงถึงพื้น",
       "vi": "<color=#FFD780FF>Tấn Công Thường</color>\nThực hiện tối đa 5 lần đánh kiếm liên tiếp.\n\n<color=#FFD780FF>Trọng Kích</color>\nTiêu hao thể lực nhất định, đánh ra hai kiếm về phía trước trong chớp mắt.\n\n<color=#FFD780FF>Tấn Công Khi Đáp</color>\nĐáp xuống đất từ trên không, tấn công kẻ địch trên đường và gây sát thương phạm vi khi chạm đất."
-    },
-    "imgid": "s_153101"
+    }
   },
   {
     "title": {
@@ -62,8 +61,7 @@
       "id": "Mengerahkan sebuah ledakan dingin yang mengakibatkan <color=#99FFFFFF>Cryo DMG</color> ke musuh di depan Kaeya.\n\n<i>Kaeya tampaknya ramah, tapi sifatnya seperti es tak dapat dicairkan.</i>",
       "th": "ปล่อยไอเย็นจัดออกมาอย่างรวดเร็ว เพื่อสร้าง <color=#99FFFFFF>ความเสียหายน้ำแข็ง</color> แก่ศัตรูที่อยู่ข้างหน้า\n\n<i>ดูเหมือนจะเป็นคนกันเองแต่ Kaeya นั้นกลับเป็นคนที่เข้าหาได้ยาก</i>",
       "vi": "Nhanh chóng tỏa ra khí lạnh, gây cho địch phía trước <color=#99FFFFFF>Sát Thương Nguyên Tố Băng</color>.\n\n<i>Người có vẻ ngoài thân thiện như Kaeya lại là khối băng kiên cố không ai có thể làm tan chảy.</i>"
-    },
-    "imgid": "s_153201"
+    }
   },
   {
     "title": {
@@ -95,8 +93,7 @@
       "id": "Dengan menggabungkan es di udara, Kaeya membuat 3 pilar es di sekitar dia.\nPilar-pilar ini akan mengikuti karakter dan mengakibatkan <color=#99FFFFFF>Cryo DMG</color> ke musuh di jalurnya.\n\n<i>Senyum yang menawan, kata-kata ramah, dan embun beku tanpa ampun yang berada di balik itu semua... ini semua adalah senjata Kaeya.</i>",
       "th": "ควบแน่นน้ำแข็งขึ้นในอากาศ เรียกคมมีดน้ำแข็ง 3 เล่ม ออกมาหมุนรอบตัวเอง\nภายในช่วงเวลาคงอยู่ คมมีดน้ำแข็งจะเคลื่อนที่ตามตัวละคร ไปทุกที่และสร้าง <color=#99FFFFFF>ความเสียหายน้ำแข็ง</color> แก่ศัตรูที่อยู่ในเส้นทาง\n\n<i>การหัวเราะระรื่น, คำพูดที่ไพเราะ และความเยือกเย็นที่ถูกซ่อนอยู่ภายใน ทั้งหมดนั้นคืออาวุธของ Kaeya</i>",
       "vi": "Ngưng tự sương lạnh trong không khí, triệu hồi 3 nhũ băng lạnh giá xoay quanh người.\nTrong thời gian tồn tại, nhũ băng lạnh giá sẽ chuyển động theo nhân vật, gây cho địch trên đường <color=#99FFFFFF>Sát Thương Nguyên Tố Băng</color>.\n\n<i>Ẩn giấu dưới nụ cười thân thiện, lời nói hòa nhã, lại là sự băng giá vô tình, tất cả đều là vũ khí của Kaeya.</i>"
-    },
-    "imgid": "s_153901"
+    }
   },
   {
     "title": {
@@ -128,8 +125,7 @@
       "id": "Setiap kali skill <color=#FFD780FF>Frostgnaw</color> mengenai satu musuh, memulihkan HP Kaeya sebesar 15% ATK.",
       "th": "<color=#FFD780FF>Frostgnaw</color> แต่ละครั้งที่โดน Kaeya จะฟื้นฟูพลังชีวิต 15% ของพลังโจมตี",
       "vi": "<color=#FFD780FF>Tuyết Tập Kích</color> mỗi khi đánh trúng 1 đơn vị, sẽ hồi phục HP cho Kaeya tương đương 15% lực tấn công."
-    },
-    "imgid": "p_152101"
+    }
   },
   {
     "title": {
@@ -161,8 +157,7 @@
       "id": "Musuh yang terkena efek <color=#99FFFFFF>Frozen</color> dari skill <color=#FFD780FF>Frostgnaw</color> akan menjatuhkan Elemental Particle tambahan.\nMaksimum menjatuhkan 2 Elemental Particle tambahan setiap kalinya.",
       "th": "ศัตรูที่โดน<color=#99FFFFFF>แช่แข็ง</color>โดย <color=#FFD780FF>Frostgnaw</color> จะดรอปอณูธาตุเพิ่มเติม \nการโจมตีด้วย Frostgnaw ทุกครั้งที่โดนศัตรู จะสร้างอณูธาตุได้สูงสุด 2 อัน",
       "vi": "Khi <color=#FFD780FF>Tuyết Tập Kích</color> khiến địch bị <color=#99FFFFFF>đóng băng</color>, thì địch sẽ rơi ra Nguyên Tố Hạt Nhân.\nMột lần Tuyết Tập Kích tối đa sinh ra 2 Nguyên Tố Hạt Nhân."
-    },
-    "imgid": "p_152201"
+    }
   },
   {
     "title": {
@@ -194,7 +189,6 @@
       "id": "Mengurangi 20% konsumsi Stamina karakter sendiri saat berlari.\nEfek tidak dapat ditumpuk dengan Talenta Pasif lain yang memiliki efek yang sama.",
       "th": "ลดอัตราการเสียพลังกายจากการวิ่ง ให้ตัวละครของตนเองที่อยู่ในทีมลง 20%\nไม่สามารถซ้อนทับพรสวรรค์ติดตัวที่เอฟเฟกต์เหมือนกันทุกประการได้",
       "vi": "Giảm 20% tiêu hao thể lực khi xung kích cho nhân vật trong đội của bản thân.\nKhông thể cộng dồn với buff Thiên Phú cố định có cùng hiệu quả."
-    },
-    "imgid": "p_152301"
+    }
   }
 ]

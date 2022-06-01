@@ -12,7 +12,7 @@
       "pt": "Ataque Normal: Dança do Fogo",
       "ru": "Зажигательный танец",
       "id": "Normal Attack: Dance on Fire",
-      "th": "โจมตีปกติ - Dance on Fire",
+      "th": "โจมตีปกติ: Dance on Fire",
       "vi": "Tấn Công Thường - Viêm Vũ"
     },
     "description": {
@@ -29,8 +29,7 @@
       "id": "<color=#FFD780FF>Normal Attack</color> Melancarkan hingga 4 tebasan berturut-turut.\n\n<color=#FFD780FF>Charged Attack</color>\nTerus menguras Stamina untuk melancarkan serangan berputar yang mengakibatkan DMG ke musuh di sekitar.\nDiakhiri dengan sebuah tebasan yang kuat.\n\n<color=#FFD780FF>Plunging Attack</color>\nMenerjang dari udara untuk menghantam tanah, mengakibatkan DMG pada musuh di jalur terjangan dan mengakibatkan DMG area saat mendarat.",
       "th": "<color=#FFD780FF>โจมตีปกติ</color>\nฟาดฟันต่อเนื่องมากสุดสี่ครั้ง\n\n<color=#FFD780FF>ชาร์จโจมตี</color>\nใช้พลังกายอย่างต่อเนื่องเพื่อหมุนโจมตีศัตรูรอบตัวด้วยดาบขนาดใหญ่\nเมื่อหยุดหมุนจะทำการฟันเพิ่มอย่างรุนแรงอีกหนึ่งครั้ง\n\n<color=#FFD780FF>โจมตีพุ่งลงจากอากาศ</color>\nกระโจนจากกลางอากาศลงมายังพื้นดิน เพื่อโจมตีศัตรูที่อยู่ในเส้นทางการโจมตี โดยจะสร้างความเสียหายวงกว้างเมื่อลงถึงพื้น",
       "vi": "<color=#FFD780FF>Tấn Công Thường</color>\nThực hiện tối đa 4 lần chém liên tiếp.\n\n<color=#FFD780FF>Trọng Kích</color>\nTiêu hao thể lực để xoay kiếm tấn công địch xung quanh.\nKhi ngừng quay, sẽ bổ một nhát cực mạnh.\n\n<color=#FFD780FF>Tấn Công Khi Đáp</color>\nĐáp xuống đất từ trên không, tấn công kẻ địch trên đường và gây sát thương phạm vi khi chạm đất."
-    },
-    "imgid": "s_443101"
+    }
   },
   {
     "title": {
@@ -62,8 +61,7 @@
       "id": "Xinyan mengayunkan instrumennya, mengakibatkan <color=#FF9999FF>Pyro DMG</color> terhadap semua musuh di dekatnya, dan membentuk sebuah perisai yang terbuat dari hasrat pendengarnya.\nSkala penahanan DMG didasarkan pada DEF Xinyan dan jumlah musuh yang terkena skill ini.\n·Memukul 0-1 musuh memberikan Perisai Level 1: Ad Lib.\n· Memukul 2 musuh memberikan Perisai Level 2: Lead-In.\n· Memukul 3 musuh memberikan Perisai Level 3: Rave, yang juga akan mengakibatkan <color=#FF9999FF>Pyro DMG</color> secara berkala terhadap semua musuh di dekatnya.\n\nPerisai memiliki sifat khusus berikut:\n·Ketika dilancarkan, perisai memberikan efek <color=#FF9999FF>Pyro</color> untuk Xinyan.\n·Perisai memiliki 250% efisiensi menahan <color=#FF9999FF>Pyro DMG</color>.\n\n<i>Xinyan menegaskan bahwa pyrotechnics ini adalah puncak dari seni performatif, dan itu adalah fenomena fisik yang tidak ada kaitannya dengan Vision yang dia miliki.</i>",
       "th": "Xinyan กวัดแกว่งเครื่องดนตรี เกิดเป็น<color=#FF9999FF>ความเสียหายไฟ</color>แก่ศัตรูโดยรอบ และใช้ \"ความรุ่มร้อน\" ของ \"ผู้ชม\" ในการสร้างโล่ป้องกันขึ้นมา\nปริมาณการดูดซับความเสียหายของโล่จะขึ้นกับพลังป้องกันของ Xinyan และจำนวนศัตรูที่ถูกโจมตี:\n·โจมตีถูกศัตรู 0-1 ตัว: โล่เลเวล 1 - Ad Lib;\n·โจมตีถูกศัตรู 2 ตัว: โล่เลเวล 2 - Lead-In;\n·โจมตีถูกศัตรูตั้งแต่ 3 ตัวขึ้นไป: โล่เลเวล 3 - Rave โดยนอกจากจะดูดซับความเสียหายแล้ว ยังจะทำให้เกิด<color=#FF9999FF>ความเสียหายไฟ</color>แก่ศัตรูโดยรอบเป็นระยะ ๆ อีกด้วย\n\nโล่มีคุณลักษณะพิเศษดังนี้:\n·ในตอนที่ปล่อยออกมา จะทำให้ Xinyan<color=#FF9999FF> ติดธาตุไฟ</color>;\n·มีเอฟเฟกต์ดูดซับ<color=#FF9999FF>ความเสียหายไฟ</color> 250%\n\n<i>Xinyan ยืนยันว่าประกายไฟเหล่านี้เป็นเพียงทักษะการแสดงระดับสุดยอดเท่านั้น มันคือปรากฏการณ์ทางกายภาพที่ไม่เกี่ยวข้องกับวิชั่นเลยแม้แต่น้อย</i>",
       "vi": "Xinyan vung nhạc cụ gây <color=#FF9999FF>sát thương nguyên tố hỏa</color> cho kẻ địch xung quanh và hình thành khiên với sự cuồng nhiệt của khán giả.\nLượng hấp thụ sát thương của khiên được hưởng từ sức phòng thủ của Xinyan, và dựa trên số kẻ địch bị đánh trúng:\n·Chưa trúng hoặc trúng 1 địch: Khiên Cấp 1 - Nhịp Điệu Phân Tán.\n·Trúng 2 địch: Khiên Cấp 2 - Nhịp Điệu Mở Đầu.\n·Trúng từ 3 địch trở lên, sẽ tạo Khiên Cấp 3 - Nhịp Điệu Nhảy Múa. Ngoài việc hấp thụ sát thương còn gây <color=#FF9999FF>sát thương nguyên tố hỏa</color> cho kẻ địch xung quanh theo từng quãng.\n\nKhiên có đặc tính sau:\n·Khi thi triển sẽ tăng thêm cho Xinyan <color=#FF9999FF>nguyên tố hỏa kèm theo</color>.\n·Hấp thụ 250% <color=#FF9999FF>sát thương nguyên tố hỏa</color>.\n\n<i>Xinyan quả quyết những tia lửa này là sự biểu hiện của kỹ thuật trình diễn đỉnh cao, là hiện tượng vật lý, không liên quan đến Vision.</i>"
-    },
-    "imgid": "s_443201"
+    }
   },
   {
     "title": {
@@ -84,7 +82,7 @@
     "description": {
       "zhs": "迅速扫弦引发音波，击退敌人，对周围的敌人造成物理伤害，激起「舞台」上的氛围。\n因为氛围实在太过炙烈，所以会引起烈焰，对周围的敌人持续造成<color=#FF9999FF>火元素伤害</color>。\n\n<i>曾经辛焱每次演出结束都会来这么一出。后来不这么弄了倒不是因为危险。要是被喊了「安可」的话，她弄不出更炸裂的闭幕了。</i>",
       "zht": "迅速掃弦引發音波，擊退敵人，對周圍的敵人造成物理傷害，激起「舞臺」上的氛圍。\n因為氛圍實在太過炙烈，所以會引起烈焰，對周圍的敵人持續造成<color=#FF9999FF>火元素傷害</color>。\n\n<i>曾經辛焱每次演出結束都會來這麼一齣。後來不這麼弄了倒不是因為危險。要是被喊了「安可」的話，她弄不出更炸裂的閉幕了。</i>",
-      "jp": "弦を素早く弾き、音波を放出して敵をノックバックする。周囲の敵に物理ダメージを与え、「舞台」の雰囲気を盛り上げる。\n雰囲気が熱さが烈焔を引き起こし、周囲の敵に<color=#FF9999FF>炎元素ダメージ</color>を持続的に与える。\n\n<i>この演出はライブの終わりに必ずやる定番だったが、現在はもうやめている。その理由は安全面の考慮ではなく、もし「アンコール」をされたら、これ以上完璧なエンディングがないからである。</i>",
+      "jp": "弦を素早く弾き、音波を放出して敵をノックバックする。周囲の敵に物理ダメージを与え、「舞台」の雰囲気を盛り上げる。\n雰囲気が熱さと烈焔を引き起こし、周囲の敵に<color=#FF9999FF>炎元素ダメージ</color>を持続的に与える。\n\n<i>この演出はライブの終わりに必ずやる定番だったが、現在はもうやめている。その理由は安全面の考慮ではなく、もし「アンコール」をされたら、これ以上完璧なエンディングがないからである。</i>",
       "ko": "빠른 피치카토로 생긴 음파로 적을 넉백시키고 주변의 적에게 물리 피해를 주며 「무대」 분위기를 띄운다.\n뜨거운 분위기로 인해 생긴 화염은 주변의 적에게 <color=#FF9999FF>불 원소 지속 피해</color>를 준다.\n\n<i>신염은 공연이 끝날 때마다 이런 짓을 했다. 나중에 그만두게 된 이유는 관중들이 「앵콜」하면 이보다 더 멋진 엔딩을 만들 자신이 없었기 때문이다</i>",
       "en": "Strumming rapidly, Xinyan launches nearby opponents and deals Physical DMG to them, hyping up the crowd.\nThe sheer intensity of the atmosphere will cause explosions that deal <color=#FF9999FF>Pyro DMG</color> to nearby opponents.\n\n<i>Xinyan used to end all her performances with this move. She didn't stop because it was dangerous, however, but because she didn't have a more epic finale in case someone shouted \"Encore!\"</i>",
       "de": "Spielt harte Töne und erschafft Schallwellen, die Gegner zurückstoßen und Gegner in der Umgebung physischen Schaden zufügen, um Euphorie in der Menge auszulösen.\nBricht in Flammen aus, weil die Darbietung einfach zu heiß ist, und fügt Gegnern in der Umgebung fortlaufend <color=#FF9999FF>Pyro-Schaden</color> zu.\n\n<i>Früher hat Xinyan all ihre Auftritte auf diese Weise beendet. Später hat sie zwar damit aufgehört. Das lag aber nicht daran, dass es zu gefährlich war, sondern ihr fiel einfach nichts ein, was sie sonst bringen könnte, wenn jemand „Encore“ rufen sollte.</i>",
@@ -95,8 +93,7 @@
       "id": "Menggesek senarnya secara cepat dan menimbulkan bunyi kasar yang bisa menghempas musuh, serta mengakibatkan Physical DMG dan efek hipnotis terhadap mereka.\nIntensitas atmosfer yang tipis akan menyebabkan ledakan yang mengakibatkan <color=#FF9999FF>Pyro DMG</color> ke musuh di sekitarnya.\n\n<i>Xinyan biasa mengakhiri rangkaian penampilannya dengan gerakan ini. Dia tidak berhenti karena itu berbahaya, tapi karena dia tidak memiliki penyelesaian yang lebih epik daripada seseorang yang akan berteriak \"Encore!\" </i>",
       "th": "บรรเลงอย่างรวดเร็ว จนเกิดเป็นคลื่นเสียงกระแทกศัตรูให้ถอยกลับไป สร้างความเสียหายทางกายภาพให้แก่ศัตรูโดยรอบ และกระตุ้นให้เกิดบรรยากาศของ \"เวที\"\nเพราะว่าบรรยากาศบนเวทีนั้นช่างเร่าร้อนเหลือเกิน จึงทำให้เกิดไฟอันร้อนแรงและสร้าง<color=#FF9999FF>ความเสียหายไฟ</color>แก่ศัตรูโดยรอบอย่างต่อเนื่อง\n\n<i>ครั้งหนึ่ง Xinyan มักจะจบการแสดงของเธอด้วยท่านี้ ต่อมาที่เลิกทำไปก็ไม่ใช่ เพราะว่ามันอันตรายเกินไป แต่เป็นเพราะถ้าเกิดมีคนตะโกนขึ้นมาว่า เอาอีก ล่ะก็ แบบนั้นเธอก็ไม่รู้จะปิดการแสดง ด้วยระเบิดที่รุนแรงกว่านี้อีกได้ยังไงแล้ว</i>",
       "vi": "Lướt nhanh qua dây đàn phát ra sóng âm đánh lui kẻ địch, gây sát thương vật lý cho địch xung quanh và khơi dậy bầu không khí trên sân khấu.\nVì bầu không khí quá cháy bỏng, nên sẽ phát ra lửa, gây <color=#FF9999FF>sát thương nguyên tố hỏa</color> liên tục cho kẻ địch xung quanh.\n\n<i>Xưa kia mỗi lần diễn xong, Xinyan đều có màn kết như vậy. Sau này không làm vậy nữa, không phải do nguy hiểm, mà là vì, nếu như bị bắt phải \"diễn lại\", thì cô ấy không thể làm ra trận hạ màn bùng nổ hơn được.</i>"
-    },
-    "imgid": "s_443901"
+    }
   },
   {
     "title": {
@@ -104,7 +101,7 @@
       "zht": "「沒聽眾也要演奏…」",
       "jp": "「観客いなくても演奏するのだ…」",
       "ko": "「청중이 없어도 연주해야 돼…」",
-      "en": "\"The Show Goes On, Even Without An Audience...\"",
+      "en": "\"The Show Goes On, Even Without an Audience...\"",
       "de": "„Es geht auch ohne Publikum ...“",
       "es": "El espectáculo debe continuar",
       "fr": "« Le spectacle doit continuer, même sans audience... »",
@@ -128,8 +125,7 @@
       "id": "Mengurangi jumlah musuh yang harus diserang <color=#FFD780FF>Sweeping Fervor</color> untuk memicu setiap level perisai.\n·Perisai Level 2: syarat Lead-In dikurangi menjadi 1 musuh.\n·Perisai Level 3: syarat Rave dikurangi menjadi 2 musuh atau lebih.",
       "th": "ลดจำนวนศัตรูที่โล่ของ <color=#FFD780FF>Sweeping Fervor</color> ต้องโจมตีให้โดนลง:\n·โล่เลเวล 2 - Lead-In: โจมตีถูกศัตรู 1 ตัว;\n·โล่เลเวล 3 - Rave: โจมตีถูกศัตรู 2 ตัวขึ้นไป",
       "vi": "Giảm số lượng địch cần đánh trúng mà khiên <color=#FFD780FF>Khuấy Động Nhiệt Huyết</color> cần:\n·Khiên Cấp 2 - Nhịp Điệu Mở Đầu: Trúng 1 địch.\n·Khiên Cấp 3 - Nhịp Điệu Nhảy Múa: Trúng từ 2 địch trở lên."
-    },
-    "imgid": "p_442101"
+    }
   },
   {
     "title": {
@@ -161,8 +157,7 @@
       "id": "Meningkatkan 15% Physical DMG karakter yang dilindungi oleh perisai dari <color=#FFD780FF>Sweeping Fervor</color>.",
       "th": "ตัวละครที่อยู่ภายใต้การป้องกันของ <color=#FFD780FF>Sweeping Fervor</color> จะสร้างความเสียหายทางกายภาพ เพิ่มขึ้น 15%",
       "vi": "Nhân vật được bảo vệ bởi khiên <color=#FFD780FF>Khuấy Động Nhiệt Huyết</color> sẽ tăng 15% sát thương vật lý gây ra."
-    },
-    "imgid": "p_442201"
+    }
   },
   {
     "title": {
@@ -194,7 +189,6 @@
       "id": "Saat masakan jenis pertahanan dimasak dengan sempurna, terdapat 12% kemungkinan mendapatkan hasil 2 kali lipat.",
       "th": "เมื่อปรุงอาหารประเภทป้องกันได้ระดับ สมบูรณ์ จะมีโอกาส 12% ที่จะได้รับผลผลิตเพิ่มเป็น 2 เท่า",
       "vi": "Nấu hoàn mỹ món ăn thuộc loại phòng ngự, có tỷ lệ 12% x2 sản lượng."
-    },
-    "imgid": "p_442301"
+    }
   }
 ]

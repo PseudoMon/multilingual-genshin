@@ -1,0 +1,62 @@
+{
+  "name": {
+    "zhs": "久岐忍",
+    "zht": "久岐忍",
+    "jp": "久岐忍",
+    "ko": "쿠키 시노부",
+    "en": "Kuki Shinobu",
+    "de": "Kuki Shinobu",
+    "es": "Kuki Shinobu",
+    "fr": "Kuki Shinobu",
+    "pt": "Kuki Shinobu",
+    "ru": "Куки Синобу",
+    "id": "Kuki Shinobu",
+    "th": "Kuki Shinobu",
+    "vi": "Kuki Shinobu"
+  },
+  "title": {
+    "zhs": "烦恼刈除",
+    "zht": "煩惱刈除",
+    "jp": "煩悩刈除",
+    "ko": "번뇌의 제거자",
+    "en": "Mender of Tribulations",
+    "de": "Besänftigerin des Leids",
+    "es": "La Resolutora de Apuros",
+    "fr": "Réparatrice d'afflictions",
+    "pt": "Erradicadora das Preocupações",
+    "ru": "Избавительница",
+    "id": "Mender of Tribulations",
+    "th": "นักแก้ปัญหามือฉมัง",
+    "vi": "Gạt Bỏ Phiền Não"
+  },
+  "description": {
+    "zhs": "干练可靠的「荒泷派」的副手——特别注明：干练可靠形容的不是「荒泷派」而是副手。",
+    "zht": "幹練可靠的「荒瀧派」的副手——特別註明：幹練可靠形容的不是「荒瀧派」而是副手。",
+    "jp": "有能で信頼できる「荒瀧派」の二番手——注：「有能」と「信頼できる」は「荒瀧派」ではなく、二番手のことを表している。",
+    "ko": "노련하고 믿음직한 「아라타키파」의 조수 - 특별 설명: '노련하고 믿음직한'은 「아라타키파」가 아닌 조수를 형용하는 말이다",
+    "en": "The capable and reliable deputy leader of the \"Arataki Gang\" - Please note: capable and reliable are not appellations for the \"Arataki Gang,\" but for their deputy leader in specific.",
+    "de": "Die fähige und zuverlässige Stellvertreterin der „Arataki-Bande“. Beachte, dass diese Bezeichnungen nicht die Arataki-Bande an sich beschreiben, sondern allein ihre stellvertretende Anführerin.",
+    "es": "La hábil y confiable subjefa de la Banda de Arataki. Menos mal que está ella, si no, la Banda de Arataki no tendría nada de “hábil” y “confiable”.",
+    "fr": "La fiable et talentueuse cheffe adjointe du gang Arataki... Veuillez noter que ces adjectifs ne s'appliquent pas au gang Arataki à son ensemble, mais seulement à sa cheffe adjointe.",
+    "pt": "Uma talentosa e confiável ajudante da Gangue Arataki — Nota: Talentosa e confiável descreve a ajudante, mas não a Gangue Arataki.",
+    "ru": "Способная и надёжная помощница главаря банды Аратаки. Пожалуйста, обратите внимание, что «способная и надёжная» относится не к самой банде, а именно к помощнице главаря.",
+    "id": "Orang nomor dua di Geng Arataki yang hebat dan bisa diandalkan. Catatan: yang hebat dan bisa diandalkan itu si orang nomor duanya, bukan kelompoknya. Tolong jangan keliru.",
+    "th": "รองหัวหน้าผู้มีความสามารถ และเชื่อถือได้ของ \"แก๊ง Arataki\"... หมายเหตุพิเศษ: คนที่มีความสามารถ และเชื่อถือได้ไม่ใช่ \"แก๊ง Arataki\" แต่เป็นรองหัวหน้า",
+    "vi": "Trợ thủ của Bang Arataki có năng lực và đáng tin cậy. Lưu ý: Mô tả có năng lực và đáng tin cậy không phải là Bang Arataki mà là trợ thủ."
+  },
+  "constellation": {
+    "zhs": "烦恼刈座",
+    "zht": "煩惱刈座",
+    "jp": "煩悩刈座",
+    "ko": "번뇌제거자리",
+    "en": "Tribulatio Demptio",
+    "de": "Tribulatio Demptio",
+    "es": "Tribulatio Demptio",
+    "fr": "Tribulatio Demptio",
+    "pt": "Tribulatio Demptio",
+    "ru": "Приговор проблемам",
+    "id": "Tribulatio Demptio",
+    "th": "Tribulatio Demptio",
+    "vi": "Cung Phiền Não Ngải"
+  }
+}

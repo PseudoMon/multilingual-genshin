@@ -93,7 +93,7 @@
       "pt": "Aumenta o nível do <color=#FFD780FF>Milagre Brilhante ♪</color> em 3.\nO nível máximo de elevação é 15.",
       "ru": "Увеличивает уровень навыка <color=#FFD780FF>Чудесное сияние♪</color> на 3.\nМакс. уровень: 15",
       "id": "Meningkatkan 3 level <color=#FFD780FF>Shining Miracle♪</color>.\nMaksimum: Lv. 15.",
-      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Shining Miracle♪</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Shining Miracle♪</color> ขึ้น 3 ระดับ\nเพิ่มได้สูงสุดถึงระดับ 15",
       "vi": "Cấp kỹ năng <color=#FFD780FF>Kỳ Tích Vinh Diệu♪</color> +3.\nTăng tối đa đến cấp 15."
     },
     "imgid": "constellation_3"
@@ -159,7 +159,7 @@
       "pt": "Aumenta o nível do <color=#FFD780FF>Que Comece o Espetáculo♪</color> em 3.\nO nível máximo de elevação é 15.",
       "ru": "Увеличивает уровень навыка <color=#FFD780FF>Да начнётся шоу♪</color> на 3.\nМакс. уровень: 15",
       "id": "Meningkatkan 3 level <color=#FFD780FF>Let the Show Begin♪</color>.\nMaksimum: Lv. 15.",
-      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Let the Show Begin♪</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Let the Show Begin♪</color> ขึ้น 3 ระดับ\nเพิ่มได้สูงสุดถึงระดับ 15",
       "vi": "Cấp kỹ năng <color=#FFD780FF>Buổi Diễn,Bắt Đầu♪</color> +3.\nTăng tối đa đến cấp 15."
     },
     "imgid": "constellation_5"
@@ -183,7 +183,7 @@
     "description": {
       "zhs": "芭芭拉处于队伍后台时，队伍中自己的角色倒下时，则立即：\n·复苏该角色；\n·将该角色生命值恢复至100%。\n该效果每15分钟只能触发一次。",
       "zht": "芭芭拉處於隊伍後台時，隊伍中自己的角色倒下時，則立即：\n·復甦該角色；\n·將該角色生命值恢復至100%。\n該效果每15分鐘只能觸發一次。",
-      "jp": "バーバラ待機中に出場している自身のキャラクターが戦闘不能になると、下記の効果が発動される。\n·戦闘不能になったキャラクターを復活させる。\n·該当キャラクターのHPが100%回復される。\nこの効果は15分毎に1回のみ発動可能。",
+      "jp": "バーバラが待機中の時、出場している自身のキャラクターが戦闘不能になると、下記の効果が発動される。\n·戦闘不能になったキャラクターを復活させる。\n·該当キャラクターのHPが100%回復される。\nこの効果は15分毎に1回のみ発動可能。",
       "ko": "바바라가 대기 상태일 때 파티 내 자신의 캐릭터가 전투불능이 되면 즉시:\n·해당 캐릭터를 부활시키고\n·해당 캐릭터의 HP를 100% 회복한다.\n해당 효과는 15분마다 1회만 발동한다",
       "en": "When Barbara is in the party but not on the field, and one of your own party members falls:\n·Automatically revives the fallen character.\n·Fully restores the revived character's HP to 100%.\nThis effect can only occur once every 15 mins.",
       "de": "Effekte, wenn Barbara inaktiv in der Truppe ist und die eigene Figur in der Truppe besiegt wird:\n· Belebt die aktuelle Figur wieder.\n· Stellt dieser Figur 100 % LP wieder her.\n15 min Abklingzeit.",

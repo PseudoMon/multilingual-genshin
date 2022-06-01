@@ -695,10 +695,10 @@
       "en": "Welcome to Naganohara! My name is Yoimiya — just let me know if you need anything! We have Kushikatsu, Egg Roll... Wait, no, we're not a restaurant. We make fireworks! Like these, see? Sparkling, crackling, little fireworks~",
       "de": "Willkommen bei Naganoharas! Mein Name ist Yoimiya. Sag einfach Bescheid, wenn du etwas brauchst! Wir haben Kushikatsu, Eierrollen ... Warte, nein, wir sind kein Restaurant. Wir machen Feuerwerk! So wie die hier, siehst du? Funkelnde, knisternde, kleine Feuerwerkskörper ...",
       "es": "#¡Bienvenid{F#a}{M#o} a Naganohara! Me llamo Yoimiya. Si necesitas algo, ¡no dudes en decírmelo!\n\nTenemos brochetas, rollitos de huevo... Espera, que no somos un restaurante, ¡nos dedicamos a hacer fuegos artificiales! Como estos, ¿ves? Brillantes y chispeantes fuegos artificiales.",
-      "fr": "Bienvenue chez les Naganohara ! Je suis Yoimiya. Dites-moi si vous avez besoin de quelque chose !\n\nHum... Du kushikatsu et de l'omelette roulée... Stop ! Nous ne sommes pas un restaurant, mais des pyrotechniciens ! Oui, c'est ça... Nous fabriquons des feux d'artifice ! Ces choses qui éclatent dans le ciel et qui l'illumine...",
+      "fr": "Bienvenue chez les Naganohara ! Je suis Yoimiya. Dites-moi si vous avez besoin de quelque chose !\n\nHum... Du kushikatsu et de l'omelette roulée... Stop ! Nous ne sommes pas un restaurant, mais des pyrotechniciens ! Oui, c'est ça... Nous fabriquons des feux d'artifice ! Ces choses qui éclatent dans le ciel et qui l'illuminent...",
       "pt": "Boas-vindas a Naganohara! Meu nome é Yoimiya — me avise se precisar de alguma coisa!\n\nTemos Kushikatsu, crepe de ovo... Espere, não, isso não é um restaurante. Nós produzimos fogos de artifício! Como esses, viu? Pequenos fogos de artifício brilhantes e explosivos~",
       "ru": "Добро пожаловать в Наганохару! Меня зовут Ёимия. Если тебе что-то понадобится, просто дай мне знать!\n\nУ нас есть кусикацу, яичный рулет... Нет-нет, погоди, мы вовсе не ресторан. Мы создаём фейерверки! Как этот, видишь? Сверкающие, трескучие фейерверки!",
-      "id": "Selamat datang di Naganohara! Namaku Yoimiya — bilang padaku kalau perlu sesuatu! Kami punya Kushikatsu, Egg Roll... Eh, salah, kami bukan restoran. Kami bikin kembang api! Seperti ini, lihat kan? Berkilau dan berpijar, kembang api kecil yang lucu~",
+      "id": "Selamat datang di Naganohara! Namaku Yoimiya — bilang padaku kalau perlu sesuatu! Kami punya Kushikatsu, Egg Roll ... Eh, salah, kami bukan restoran. Kami bikin kembang api! Seperti ini, lihat kan? Berkilau dan berpijar, kembang api kecil yang lucu~",
       "th": "ยินดีต้อนรับสู่ \"Naganohara\"! ฉันชื่อ Yoimiya ถ้าต้องการอะไรล่ะก็ บอกฉันได้เลยนะ!\n\nเอ่อ...\"Kushikatsu\" กับ \"Egg Roll\"....ไม่ ๆ ร้านเราไม่ใช่ร้านอาหารนะ เป็นร้านทำดอกไม้ไฟต่างหาก! อืม ดอกไม้ไฟที่มันวิบ ๆ ๆ แล้วก็มีเสียงวี๊ดบูม ๆ~",
       "vi": "Chào mừng đến với \"Naganohara\"! Tôi tên là Yoimiya, cần gì hãy nói tôi biết nhé!\n\nHả...\"Xiên Que Thập Cẩm\", \"Trứng Cuộn\"?? Không không không, đây không phải là tiệm ăn, mà là tiệm pháo hoa đó! Uhm, nó đó, lấp la lấp lánh, bộp bộp bộp, chíu chíu, pháo hoa á!"
     }
@@ -716,7 +716,7 @@
       "pt": "Conversa: Fogos de Artifício",
       "ru": "Поболтаем: Фейерверки",
       "id": "Berbincang: Kembang Api",
-      "th": "แชท-ดอกไม้ไฟ",
+      "th": "แชท - ดอกไม้ไฟ",
       "vi": "Nói chuyện phiếm - Pháo Hoa"
     },
     "line": {
@@ -858,7 +858,7 @@
       "fr": "Haha ! Regardez-moi rouler cette boule de neige !",
       "pt": "Haha, vou fazer uma bola de neve... hoo!",
       "ru": "Погляди, я делаю снежок... Пиу!",
-      "id": "Haha, lihat aku bikin bola salju...",
+      "id": "Haha, lihat aku bikin bola salju ....",
       "th": "ฮ่า ๆ ดูก้อนหิมะที่ฉันปั้นสิ ฮู้วว",
       "vi": "Haha, xem tôi làm quả cầu tuyết nè, ném!"
     }
@@ -919,11 +919,11 @@
       "en": "The wind's so strong—! It's blowing my voice back at me—! Hahaha...",
       "de": "Der Wind ist so stark ... Er bläst meine Stimme zu mir zurück! Hahaha ...",
       "es": "¡Qué viento tan fuerte! ¡Ni siquiera me escucho a mí misma!",
-      "fr": "Le vent souffle si fort ! Il revoie ma voix !",
+      "fr": "Le vent souffle si fort ! Il renvoie ma voix !",
       "pt": "O vento está muito forte— Não consigo falar—!",
       "ru": "Ветер такой сильный! Я себя едва слышу!",
-      "id": "Anginnya kencang amat—! Suaraku tertiup balik ke arahku—! Hahaha...",
-      "th": "ลมพัดแรงจังเลยย เสียงโดนลมพัดไปหมดแล้วววว!!",
+      "id": "Anginnya kencang amat—! Suaraku tertiup balik ke arahku—! Hahaha ....",
+      "th": "ลมพัดแรงจังเลย เสียงโดนลมพัดไปหมดแล้วววว!!",
       "vi": "Gió lớn quá, âm thanh bị thổi ngược trở lại rồi!"
     }
   },
@@ -954,7 +954,7 @@
       "fr": "*bâille* Bonjour. L'air du matin est le plus frais. Respirez-le, ça vous rendra plus intelligent.",
       "pt": "Ah... *bocejo* Bom dia. O ar matinal é o mais fresco do dia. Venha, respire profundamente — é bom para o cérebro~",
       "ru": "Доброе утро. Какой же утром свежий воздух! Давай, сделай пару глубоких вдохов - это полезно для мозга!",
-      "id": "Ah... *hoam* Pagi. Udara pagi memang paling segar. Ayo, ambil napas dalam-dalam! Kamu bakal jadi lebih pintar~",
+      "id": "Ah ... *hoam* Pagi. Udara pagi memang paling segar. Ayo, ambil napas dalam-dalam! Kamu bakal jadi lebih pintar~",
       "th": "อ๊ะ อรุณสวัสดิ์ อากาศในตอนเช้าสดชื่นที่สุดเลย ถ้าสูดหายใจมากขึ้นอีกสักสองสามครั้งก็จะฉลาดขึ้นล่ะ",
       "vi": "Chào buổi sáng, thời tiết buổi sáng thật trong lành, hít nhiều vào sẽ trở nên thông minh đó."
     }
@@ -983,11 +983,11 @@
       "en": "Time for lunch! ... Oh my, it's an egg with a double yolk. What wonderful luck!",
       "de": "Zeit für das Mittagessen! Oh, es ist ein Ei mit doppeltem Dotter. Welch wunderbares Glück! Zwillinge!",
       "es": "¡Hora de la comida! Oh, por Los Siete, es un huevo con dos yemas, ¡qué suerte! ¡Son gemelos!",
-      "fr": "Eh bien, c'est l'heure de manger. Hé... les œufs d'aujourd'hui ont un double jaune. Héhé, c'est un signe de chance.",
+      "fr": "Eh bien, c'est l'heure de manger. Hé... Les œufs d'aujourd'hui ont un double jaune. Héhé, c'est un signe de chance.",
       "pt": "É hora do almoço! ...Oh céus, um ovo com gema dupla. Mas que sorte!",
       "ru": "Пора обедать! ...Ну и ну! Яйцо с двумя желтками! Это к удаче...",
       "id": "Waktunya makan siang! ...Astaga, kuning telurnya ada dua. Beruntung sekali, kembar nih!",
-      "th": "อื้ม ได้เวลากินข้าวเที่ยงแล้ว อุ๊ย...ไข่ไก่วันนี้เป็นไข่แฝดล่ะ ฮิฮิ โชคดีจัง",
+      "th": "อื้ม ได้เวลากินข้าวเที่ยงแล้ว อุ๊ย...ไข่ไก่วันนี้เป็นไข่แฝดด้วยล่ะ ฮิฮิ โชคดีจัง",
       "vi": "Ừm, đến giờ ăn trưa rồi, í...trứng gà hôm nay có hai lòng đỏ. Hihi, thật may mắn."
     }
   },
@@ -1018,7 +1018,7 @@
       "fr": "C'est le moment idéal pour essayer les feux d'artifice. Ils seront superbes, qu'ils explosent dans le ciel ou sur le sol. Héhé, je plaisante, je vais faire attention.",
       "pt": "Agora é o melhor momento para testar nossos fogos de artifício, embora eu tenha quase certeza de que eles ficariam tão bonitos explodindo no chão quanto no céu... Hehe, estou brincando, vou tomar cuidado com a segurança.",
       "ru": "Самое время проверить наши фейеверки. По правде говоря, зачем им куда-то взлетать, они и тут, на земле будут смотреться не хуже... Да шучу я, шучу. Я позабочусь о безопасности.",
-      "id": "Sekarang adalah waktu ideal buat tes kembang api, tapi aku yakin meledaknya akan tetap bagus mau di langit atau di tanah... Hehe, bercanda. aku tetap memperhatikan keselamatan kok.",
+      "id": "Sekarang adalah waktu ideal buat tes kembang api, tapi aku yakin meledaknya akan tetap bagus mau di langit atau di tanah ... Hehe, bercanda. aku tetap mengutamakan keselamatan kok.",
       "th": "ตอนนี้เป็นเวลาเหมาะที่สุดที่จะทดสอบดอกไม้ไฟ ไม่ว่าจะระเบิดบนฟ้าหรือว่าระเบิดบนดินก็สวยทั้งนั้น ฮี่ฮี่ ล้อเล่นน่า ฉันจะระวังให้มาก",
       "vi": "Giờ là lúc thích hợp nhất để thử hiệu quả của pháo hoa, nổ trên không trung hay dưới đất cũng đều rất đẹp. Hihi, đùa thôi, tôi sẽ chú ý an toàn."
     }
@@ -1034,7 +1034,7 @@
       "es": "Buenas noches... (II)",
       "fr": "La nuit...",
       "pt": "Boa noite...",
-      "ru": "Доброй ночи...",
+      "ru": "Спокойной ночи...",
       "id": "Selamat Tidur",
       "th": "ราตรีสวัสดิ์...",
       "vi": "Ngủ ngon..."
@@ -1050,8 +1050,8 @@
       "fr": "C'est l'heure du quiz ! Que ferez-vous après avoir regardé des feux d'artifice toute la journée ? La réponse est : regarder des feux d'artifice dans vos rêves, bien sûr ! Bonne nuit, à demain.",
       "pt": "Hora da pergunta! Então, o que devemos fazer depois de ver fogos de artifício durante um dia inteiro? Hehe, a resposta é... Ver fogos de artifício novamente nos nossos sonhos, claro! Boa noite. Até amanhã!",
       "ru": "Хочешь загадку? Что делать, если целый день любовался фейерверками? Правильный ответ - продолжать смотреть на них во сне, конечно же! Спокойной ночи. До завтра!",
-      "id": "Waktunya kuis! Apa yang kamu lakukan sehabis nonton kembang api seharian? Hehe, jawabannya adalah... nonton lagi di dalam mimpi! Selamat malam. Sampai besok!",
-      "th": "ช่วงเวลาคำถามมม! ขอถาม หลังจากดูดอกไม้ไฟมาทั้งวันแล้ว จะไปทำอะไรต่อ? ฮี่ฮี่ คำตอบก็คือ: ก็ไปดูดอกไม้ไฟฟต่อในความฝันน่ะสิ! ฝันดีน้า พรุ่งนี้เจอกัน",
+      "id": "Waktunya kuis! Apa yang kamu lakukan sehabis nonton kembang api seharian? Hehe, jawabannya adalah ... nonton lagi di dalam mimpi! Selamat malam. Sampai besok!",
+      "th": "ช่วงเวลาคำถามมมม! ขอถามว่า หลังจากดูดอกไม้ไฟมาทั้งวันแล้ว จะไปทำอะไรต่อ? ฮี่ฮี่ คำตอบก็คือ: ก็ไปดูดอกไม้ไฟต่อในความฝันน่ะสิ! ฝันดีน้า พรุ่งนี้เจอกัน",
       "vi": "Đặt câu hỏi: Sau khi xem pháo hoa thì phải làm gì? Hihi, câu trả lời được tiết lộ: Đương nhiên là xem pháo hoa trong mơ rồi! Chúc ngủ ngon, mai gặp lại."
     }
   },
@@ -1082,8 +1082,8 @@
       "fr": "Mon père est malentendant. Quand j'étais petite, il avait toujours le sourire, quoi que je lui dise. J'ai pensé que ça signifiait que mes paroles étaient bonnes, alors j'ai continué à parler et lui à me sourire. Ce n'est que bien plus tard que je me suis rendu compte qu'il riait parce qu'il n'entendait pas bien, mais... je continuerai à lui parler si ça le rend heureux.",
       "pt": "A audição do meu pai não é muito boa. Quando eu era mais nova, ele estava sempre sorrindo, não importa o que eu lhe dissesse, então eu pensei que tudo o que eu dizia estava certo. Aí continuei falando, e ele continuou sorrindo. Mais tarde, eu descobri que ele estava sorrindo porque não conseguia escutar muito bem, mas... Contanto que ele esteja realmente feliz, vou continuar falando com ele.",
       "ru": "Мой отец плохо слышит. Когда я была маленькой, то он всегда отвечал мне улыбкой, что бы я ни говорила, и поэтому я думала, что всё говорю правильно. Я продолжала говорить, а он продолжал улыбаться. Потом я узнала, что он улыбался потому, что плохо меня слышал, но я продолжаю говорить с ним, потому что это делает его по-настоящему счастливым.",
-      "id": "Pendengaran ayahku kurang. Waktu aku kecil, mau aku bilang apa pun, dia akan tersenyum. Kukira semuanya sudah benar, jadi aku terus saja ngomong, dia pun terus saja senyum. Belakangan, aku sadar bahwa dia senyum karena pendengarannya kurang jelas, tapi... asalkan dia senang, aku akan terus bicara dengannya.",
-      "th": "หูของพ่อไม่ค่อยดีเท่าไหร่ ตอนที่ฉันยังเด็กไม่ว่าจะคุยอะไรกับพ่อก็ตาม พ่อก็เอาแต่ยิ้มตลอด ฉันก็นึกว่าที่ฉันพูดไปน่ะถูกต้องทั้งหมด เพราะงั้นเลยพูดไม่หยุด เขาเองก็ยิ้มไม่หยุด หลังจากนั้นมาฉันถึงจะรู้ว่า ที่เขายิ้มก็เพราะว่าได้ยินไม่ชัด แต่...ถ้าพ่อมีความสุขล่ะก็ ฉันก็จะพูดให้พ่อฟังไปตลอดเลย",
+      "id": "Pendengaran ayahku kurang. Waktu aku kecil, mau aku bilang apa pun, dia akan tersenyum. Kukira semuanya sudah benar, jadi aku terus saja ngomong, dia pun terus saja senyum. Belakangan, aku sadar bahwa dia senyum karena pendengarannya kurang jelas, tapi ... asalkan dia senang, aku akan terus bicara dengannya.",
+      "th": "หูของพ่อไม่ค่อยดีเท่าไหร่ ตอนที่ฉันยังเด็กไม่ว่าจะคุยอะไรกับพ่อก็ตาม พ่อก็เอาแต่ยิ้มตลอด ฉันก็นึกว่าที่ฉันพูดไปน่ะถูกต้องทั้งหมด เพราะงั้นเลยพูดไม่หยุด เขาเองก็ยิ้มไม่หยุด หลังจากนั้นมาฉันถึงได้รู้ว่า ที่เขายิ้มก็เพราะว่าได้ยินไม่ชัด แต่...ถ้าพ่อมีความสุขล่ะก็ ฉันก็จะพูดให้พ่อฟังไปตลอดเลย",
       "vi": "Tai của cha tôi không được tốt lắm, lúc nhỏ dù tôi có nói gì với ông ấy, ông ấy cũng luôn mỉm cười, tôi nghĩ rằng tất cả những gì tôi nói là đúng, vì vậy tôi cứ nói, cứ nói, ông ấy thì cứ cười. Sau này tôi mới biết ông ấy cười vì nghe không rõ, nhưng...chỉ cần ông ấy thực sự hạnh phúc, thì tôi sẽ tiếp tục nói."
     }
   },
@@ -1100,7 +1100,7 @@
       "pt": "Sobre Yoimiya - Falar",
       "ru": "О Ёимии: Разговоры",
       "id": "Tentang Yoimiya: Berbicara",
-      "th": "เกี่ยวกับตัวของ Yoimiya เอง - จะว่าไป",
+      "th": "เกี่ยวกับตัวของ Yoimiya เอง - พูดคุย",
       "vi": "Về Yoimiya - Nói chuyện"
     },
     "line": {
@@ -1115,7 +1115,7 @@
       "pt": "Não me preocupo com a expressão \"quem muito fala, muito erra”. As emoções contidas nas palavras que as pessoas dizem não mentem. Desentendimentos que surgem ao dizer coisas erradas podem ser esclarecidos se continuarmos falando, mas, se você não disser nada, a outra pessoa não saberá o que você quer dizer, e não poderá se aproximar de você.",
       "ru": "Я не согласна с выражением «язык мой - враг мой». Чувства, которые стоят за словами, всегда искренни. Можно подобрать неправильные слова и вызвать недоразумение, но оно легко разрешится, если продолжить разговор. А замолчишь - и собеседник уже не узнает, что ты имел в виду, и вы не станете ближе.",
       "id": "Aku tidak pernah pusing soal peribahasa \"mulutmu harimaumu\". Perasaan yang ada di dalam perkataan tidak bisa berbohong. Salah paham yang muncul dari salah ucap, dapat diselesaikan jika kamu terus bicara. Kalau kamu diam saja, orang lain mana mungkin paham apa maksudmu, dan mereka pun jadi tidak bisa dekat denganmu.",
-      "th": "ฉันไม่ค่อยกังวลอะไรที่แบบ \"ปากพาซวย\" ซักเท่าไหร่ เพราะอารมณ์ที่สื่อออกมาจากภาษาที่พูดไม่มีหลอกใครได้ ถึงแม้ว่าจะพูดอะไรผิด และถูกเข้าใจผิดไป ก็แค่พยายามพูดให้มากขึ้นเพือแก้ไขปัญหาก็พอแล้ว แต่ถ้าไม่ยอมพูดอะไรเลยล่ะก็ อีกฝ่ายจะไม่เข้าใจความคิดของเธอหรอกนะ แล้วก็จะไม่มีโอกาสที่จะได้สนิทกับเธอด้วย",
+      "th": "ฉันไม่ค่อยกังวลอะไรที่แบบ \"ปากพาซวย\" ซักเท่าไหร่หรอก เพราะอารมณ์ที่สื่อออกมาจากภาษาที่พูดไม่สามารถหลอกใครได้ ถึงแม้ว่าจะพูดอะไรผิด และถูกเข้าใจผิดไป ก็แค่พยายามพูดให้มากขึ้นเพื่อแก้ไขปัญหาก็พอแล้ว แต่ถ้าไม่ยอมพูดอะไรเลยล่ะก็ อีกฝ่ายจะไม่เข้าใจความคิดของเธอหรอกนะ แล้วก็จะไม่มีโอกาสที่จะได้สนิทกับเธอด้วย",
       "vi": "Tôi không lo lắng chuyện \"họa từ miệng mà ra\", bởi vì cảm xúc chứa đựng trong ngôn ngữ không phải là lừa dối. Dù bạn có nói sai và bị hiểu lầm thì chỉ cần dùng thêm lời nói để giải quyết, nhưng nếu bạn không nói gì thì đối phương sẽ không thể hiểu được tâm ý của bạn, và sẽ không có cơ hội để đến gần bạn hơn."
     }
   },
@@ -1133,7 +1133,7 @@
       "ru": "О нас: Камень, ножницы, бумага",
       "id": "Tentang Kita: Batu, Gunting, Kertas",
       "th": "เกี่ยวกับเรา - เป่ายิ้งฉุบ",
-      "vi": "Về chúng tôi - Oẳn tù tì"
+      "vi": "Về chúng ta- Oẳn tù tì"
     },
     "line": {
       "zhs": "我们来玩石头剪刀布吧！听我口令：石头，剪刀，布！好欸，我赢了！我赢了！嗯？我没变啊，才不会变呢。",
@@ -1165,7 +1165,7 @@
       "ru": "О нас: Дружба",
       "id": "Tentang kita: Teman Perjalanan",
       "th": "เกี่ยวกับเรา - เพื่อนร่วมทาง",
-      "vi": "Về chúng tôi - Bạn đồng hành"
+      "vi": "Về chúng ta - Bạn đồng hành"
     },
     "line": {
       "zhs": "其实我不在意我要做什么事，我更在意的是和我一起做事的人。比如和你在一起，就算只是看看风景，踢踢罐子，我都很开心。因为，跟你说话怎么都说不腻嘛。",
@@ -1179,7 +1179,7 @@
       "pt": "Na verdade, o que eu faço não importa. O que importa são as pessoas com quem eu faço junto. Quando estou com você, até mesmo as atividades mais simples, como apreciar a paisagem ou chutar uma lata, me deixam muito feliz. Eu nunca me canso de falar com você.",
       "ru": "На самом деле не имеет значения, чем я занимаюсь. Важно то, с кем я это делаю. Когда я с тобой, то даже самые простые вещи приносят мне много радости - наблюдать за природой, пинать какую-нибудь жестянку. Просто мне никогда не надоедает болтать с тобой.",
       "id": "Bagiku, mau melakukan apa pun bukan masalah, yang penting adalah dengan siapa aku melakukannya. Kalau sama kamu, hal sepele seperti melihat-lihat pemandangan atau menendang-nendang toples saja jadi menyenangkan rasanya. Aku tidak akan pernah bosan ngobrol denganmu.",
-      "th": "อันที่จริง ฉันไม่สนใจว่าตัวเองต้องการทำอะไร ฉันสนใจคนที่อยู่กับฉันมากกว่า อย่างเช่น ตอนที่อยู่กับเธอ ต่อให้แค่ดูวิวทิวทัศน์ เตะกระป๋องเล่นก็ตาม ฉันก็มีความสุขหมดแหละ เพราะเมื่อได้คุยกับเธอยังไงก็ไม่เคยเบื่อเลย",
+      "th": "อันที่จริง ฉันไม่สนใจว่าตัวเองต้องการทำอะไร ฉันสนใจคนที่อยู่กับฉันมากกว่า อย่างเช่น ตอนที่อยู่กับเธอ ต่อให้แค่ดูวิวทิวทัศน์ หรือเตะกระป๋องเล่นก็ตาม ฉันก็มีความสุขหมดแหละ เพราะเมื่อได้คุยกับเธอยังไงก็ไม่เคยเบื่อเลย",
       "vi": "Thật ra tôi không quan tâm đến những gì tôi muốn làm, tôi quan tâm đến người làm cùng tôi hơn. Ví dụ như ở bên bạn, dù chỉ là ngắm cảnh và đá lon, tôi cũng đã thấy rất vui. Bởi vì tôi không bao giờ thấy chán khi nói chuyện với bạn."
     }
   },
@@ -1210,7 +1210,7 @@
       "fr": "Laissez-moi vous dire un secret : quand j'ai reçu mon œil divin, je m'en suis servi comme un silex pour allumer des feux d'artifice et faire bouillir de l'eau, puis je l'ai jeté dans le débarras en rentrant chez moi. Mon père l'a trouvé et m'a dit qu'il s'agissait d'un objet particulièrement précieux et que je devais en prendre soin. Haha... Heureusement qu'il n'a pas été saisi par l'Archon Électro.",
       "pt": "Vou contar um pequeno segredo para você. Quando recebi minha Visão pela primeira vez, eu usei-a como pedra de isqueiro para acender fogos de artifício e ferver água. Depois, voltei para casa, larguei-a na dispensa e me esqueci que tinha. No fim, foi meu pai que a encontrou e disse que era um item precioso que eu precisava proteger. Haha, pelo menos ela não foi levada de volta pela nossa querida Arconte.",
       "ru": "Хочешь, расскажу кое-что по секрету? Когда я только получила Глаз Бога, то использовала его как огниво, чтобы запускать фейерверки, а ещё... кипятила им воду. Потом и вовсе бросила его в кладовке и думать о нём забыла. Это мой отец в итоге нашёл его и объяснил мне, что это ценный артефакт, который необходимо бережно хранить. Ха-ха, хорошо хоть наш дорогой Архонт не забрал его обратно.",
-      "id": "Biar kuebri tahu kamu sebuah rahasia. Waktu baru dapat Vision, aku memakainya sebagai korek untuk menyalakan kembang api dan masak air, terus aku pulang, kusimpan di gudang, lalu lupa deh. Pada akhirnya, ayahku menemukannya dan dia bilang kalau itu barang berharga yang harus kusimpan baik-baik. Haha, untungnya Archon kita tercinta tidak menyitanya.",
+      "id": "Biar kuberi tahu kamu sebuah rahasia. Waktu baru dapat Vision, aku memakainya sebagai korek api untuk menyalakan kembang api dan masak air, terus aku pulang, kusimpan di gudang, lalu lupa deh. Pada akhirnya, ayahku menemukannya dan dia bilang kalau itu barang berharga yang harus kusimpan baik-baik. Haha, untungnya Archon kita tercinta tidak menyitanya lagi ya.",
       "th": "ฉันจะแอบบอกเธอเรื่องหนึ่ง ตอนที่ฉันเพิ่งได้ \"วิชั่น\" ฉันก็ใช้มันแทนหินเหล็กไฟ ทั้งจุดชนวนดอกไม้ไฟ จุดไฟต้มน้ำ แถมตอนกลับมาถึงบ้านก็โยนมันไว้ในห้องเก็บของไม่ได้สนใจอะไรมันเลย สุดท้ายเป็นพ่อที่รู้ว่ามันคืออะไรแล้วมาบอกฉันว่ามันมีค่ามาก ๆ ควรรักษาไว้ให้ดี แฮะแฮะ อ่า ต้องขอบคุณท่านเทพจริง ๆ ที่ไม่เอามันคืนไป",
       "vi": "Để tôi nói nhỏ cho bạn một chuyện, lúc tôi vừa có được Vision, tôi đã dùng nó như đá đánh lửa. Tôi dùng nó đốt pháo hoa, nấu nước, về tới nhà thì vứt vào kho không thèm quan tâm. Kết quả là cha tôi phát hiện và nói với tôi đây là vật rất quý, phải cất giữ cẩn thận. Ha ha...may mà chưa bị thần linh thu hồi lại."
     }
@@ -1242,8 +1242,8 @@
       "fr": "Le saviez-vous ? Beaucoup de feux d'artifice utilisés lors du Festival des lanternes de Liyue sont commandés chez nous. Je les confectionne selon la commande, puis je demande à Beidou de les livrer à Liyue par bateau. Je n'ai pas le droit d'exporter mes produits selon le décret de confinement, mais... un festival n'en est vraiment pas un sans feux d'artifice.",
       "pt": "Você sabia que os fogos de artifício usados durante o Ritual de Lanternas de Liyue foram comprados na nossa loja? Eu os produzi sob encomenda antes de pedir para Beidou entregá-los em Liyue. Exportações como essa não são permitidas pelo Decreto Sakoku, mas... Quem pode fazer um festival sem fogos de artifício?",
       "ru": "Ты знаешь, что многие из фейерверков, которые запускали во время Праздника морских фонарей в Ли Юэ, были куплены в нашей лавке? Я изготовила их на заказ, а потом попросила Бэй Доу доставить их в Ли Юэ. Указ Сакоку запрещает экспортировать такие товары, но... какой же праздник без фейерверков?",
-      "id": "Kamu tahu? Banyak kembang api yang dipakai selama Lantern Rite di Liyue itu dibeli dari toko kami. Aku membuatnya sesuai pesanan, lalu minta tolong Beidou untuk mengirimnya ke Liyue. Ekspor seperti ini tidak diperbolehkan di bawah Dekrit Sakoku, tapi... Bagaimana bisa ada festival tanpa kembang api?",
-      "th": "เธอรู้รึเปล่า? เทศกาล Lantern Rite ของ Liyue น่ะ สั่งทำมาจากร้านของฉันทั้งนั้นเลยนะ พอฉันทำตามคำสั่งซื้อเสร็จ ก็ไปให้พี่ Beidou ใช้เรือขนส่งไปยัง Liyue แต่เพราะมีกฎ Sakoku ความจริงฉันไม่ควรส่งของพวกนี้ออกไป แต่...ที่ ๆ มีงานเทศกาลจะขาดดอกไม้ไฟไปได้ยังไงล่ะ",
+      "id": "Kamu tahu tidak? Banyak kembang api yang dipakai selama Lantern Rite di Liyue itu dibeli dari toko kami. Aku membuatnya sesuai pesanan, lalu minta tolong Beidou untuk mengirimnya ke Liyue. Ekspor seperti ini tidak diperbolehkan di bawah Dekrit Sakoku, tapi ... Bagaimana bisa ada festival tanpa kembang api?",
+      "th": "เธอรู้รึเปล่า? ดอกไม้ไฟในเทศกาล Lantern Rite ของ Liyue น่ะ ส่วนใหญ่สั่งทำมาจากร้านของฉันทั้งนั้นเลยนะ พอฉันทำตามคำสั่งซื้อเสร็จ ก็ไปให้พี่ Beidou ใช้เรือขนส่งไปยัง Liyue แต่เพราะมีกฎ Sakoku ความจริงฉันไม่ควรส่งของพวกนี้ออกไป แต่...ที่ ๆ มีงานเทศกาลจะขาดดอกไม้ไฟไปได้ยังไงล่ะ",
       "vi": "Bạn biết không? Dịp Tết Hải Đăng ở Liyue, đa số pháo hoa đều đặt mua từ chỗ chúng tôi. Tôi sẽ làm theo yêu cầu, rồi tìm chị Beidou dùng thuyền chuyển đến Liyue. Tuy rằng theo quy định bế quan tỏa cảng, tôi không nên chuyển những thứ này ra ngoài, nhưng...nơi có lễ hội, thì nhất định không thể thiếu pháo hoa."
     }
   },
@@ -1275,7 +1275,7 @@
       "pt": "“Quando a última centelha dos fogos de artifício desaparecer no céu, ela se transformará em chuva e neve, e cairá novamente sobre a terra, nutrindo os campos e alimentando a humanidade, para que um dia possam ser disparados para o céu novamente e exibir toda a sua exuberância”. De todas as histórias que meu pai me contou, esta é minha favorita.",
       "ru": "«Когда последние искры фейерверков растворяются в небе, они превращаются в дождь и снег и вновь падают на землю, питая почву, насыщая человечество, чтобы в один прекрасный день им позволили снова взмыть в небеса и явить себя во всём своём великолепии». Из всех преданий, которые рассказывал мне отец, это моё любимое.",
       "id": "\"Ketika percikan terakhir kembang api di langit telah menghilang, mereka berubah menjadi hujan dan salju yang jatuh ke bumi, untuk menyuburkan tanah dan memelihara umat manusia, sehingga suatu hari nanti mereka dapat kembali lagi ke langit untuk menampilkan keagungan mereka.\" Dari sekian banyak cerita ayahku, ini yang paling aku suka.",
-      "th": "\"เมื่อแสงจากดอกไม้ไฟบนท้องฟ้าร่วงหล่นลง จะกลายเป็นสายฝน เป็นหิมะ และตกลงสู่พื้นอีกครั้ง เพื่อหล่อเลี้ยงดิน หล่อเลี้ยงมนุษย์ เพื่อกลับมาปรากฏขึ้นอีกครั้งอย่างงดงามบนท้องฟ้า\" ในบรรดาเรื่องเล่าต่างๆ ที่พ่อเล่าให้ฟัง นี่เป็นเรื่องโปรดของฉันเลยนะ",
+      "th": "\"เมื่อแสงจากดอกไม้ไฟบนท้องฟ้าร่วงหล่นลง จะกลายเป็นสายฝน เป็นหิมะ และตกลงสู่พื้นอีกครั้ง เพื่อหล่อเลี้ยงดิน หล่อเลี้ยงมนุษย์ เพื่อกลับมาปรากฏขึ้นอีกครั้งอย่างงดงามบนท้องฟ้า\" ในบรรดาเรื่องเล่าต่าง ๆ ที่พ่อเล่าให้ฟัง นี่เป็นเรื่องโปรดของฉันเลยนะ",
       "vi": "Pháo hoa được bắn lên không trung, lưu lại điểm sáng và rồi biến mất, sau đó sẽ biến thành mưa, sẽ biến thành tuyết, rơi trở lại mặt đất. Chúng bồi dưỡng đất đai, nuôi dưỡng nhân loại, chỉ để một lần nữa được đưa lên không trung, tái hiện khoảnh khắc huy hoàng. Trong những câu chuyện mà cha tôi kể, tôi thích nhất chuyện này."
     }
   },
@@ -1288,7 +1288,7 @@
       "en": "Something to Share: Spots of Light",
       "de": "Willst du mir etwas mitteilen? – Lichtfleck",
       "es": "¿Algo que decir? - Puntos de luz",
-      "fr": "Quelque chose à partager - Tâches lumineuses",
+      "fr": "Quelque chose à partager - Taches lumineuses",
       "pt": "Algo para Compartilhar: Ponto de Luz",
       "ru": "Душевные беседы: Островки света",
       "id": "Berbagi Cerita: Titik Cahaya",
@@ -1303,11 +1303,11 @@
       "en": "Did you ever try to step on a spot of light before as a child? You know, those patches on the ground created when the sunlight passes through the leaves. I once thought that it would disappear if I stepped on it, but it would always jump onto my foot instead. I tried and tried and tried, but I never succeeded... Quite the sore loser I was, then — sitting on a rock, sighing to myself and thinking, \"Ah, so there are things in this world that can't be stepped on...\"",
       "de": "Hast du als Kind schon einmal versucht, auf einen Lichtfleck zu treten? Du weißt schon, diese Flecken auf dem Boden, die entstehen, wenn das Sonnenlicht durch die Blätter fällt. Ich dachte einmal, dass er verschwinden würde, wenn ich darauf trete, aber stattdessen sprang er immer auf meinen Fuß. Ich habe es versucht und versucht und versucht, aber ich hatte nie Erfolg ... Damals war ich ein ziemlich schlechter Verlierer. Ich saß auf einem Felsen, seufzte vor mich hin und dachte: „Ach, es gibt also Dinge auf dieser Welt, auf die man nicht treten kann ...“",
       "es": "#¿Alguna vez has intentado pisar un punto de luz cuando eras pequeñ{F#a}{M#o}? Sí, esos puntitos que hay en el suelo creados por la luz del sol al atravesar las hojas de los árboles. Antes pensaba que, si los pisaba, desaparecerían, pero en su lugar aparecían encima de mis pies. Lo intenté una y otra vez sin éxito... Sentía tanta frustración que, entonces, me sentaba en una roca mientras suspiraba y pensaba: “Ah, o sea, que hay cosas en este mundo que no se pueden pisar...”.",
-      "fr": "Avez-vous déjà marché sur une tâche lumineuse quand vous étiez enfant ? Je parle de ces tâches qui apparaissent sur le sol avec la lumière du soleil qui passe à travers les feuilles des arbres. Je pensais qu'elles disparaîtraient si je marchais dessus, mais elles se déplaçaient toujours sur mes pieds. J'ai donc continué à marcher dessus pendant longtemps, en vain. Contrariée, je me suis assises sur un rocher en soupirant : « Il y existe quelque chose dans ce monde sur lequel personne ne peut marcher... »",
+      "fr": "Avez-vous déjà marché sur une tache lumineuse quand vous étiez enfant ? Je parle de ces taches qui apparaissent sur le sol avec la lumière du soleil qui passe à travers les feuilles des arbres. Je pensais qu'elles disparaîtraient si je marchais dessus, mais elles se déplaçaient toujours sur mes pieds. J'ai donc continué à marcher dessus pendant longtemps, en vain. Contrariée, je me suis assise sur un rocher en soupirant : « Il y existe quelque chose dans ce monde sur lequel personne ne peut marcher... »",
       "pt": "Você já pisou em pontos de luz quando era criança? Pontos de luz são aqueles círculos criados quando a luz do sol passa pelas folhas das árvores e chega até o chão. Antes, eu pensava que os pontos de luz desapareceriam se pisássemos neles, mas o ponto sempre aparecia sobre o meu pé. Eu tentava várias vezes, mas nunca conseguia... Na época, eu odiava perder — até que sentava em uma pedra, suspirava e pensava, \"Ah, então existem coisas nesse mundo em que não conseguimos pisar...\"",
       "ru": "Тебе в детстве случалось ступать на островки света? Я имею в виду пятна света, которые появляются там, где пробивающиеся сквозь листву лучи озаряют землю. Когда-то я думала, что они исчезнут, если на них наступить, но стоило мне попытаться это сделать, и они запрыгивали мне на ноги. Я пыталась наступать на них снова и снова, но ничего не получалось... Вконец рассердившись, я уселась на камень и, вздохнув, подумала: «В этом мире есть вещи, которые нельзя затоптать...»",
-      "id": "Apa kamu pernah coba injak titik cahaya waktu kecil dulu? Kamu tahu kan, bercak-bercak di tanah itu terjadi waktu sinar matahari melewati dedaunan. Aku pikir itu akan hilang jika aku injak, tetapi bercak itu akan selalu lompat ke atas kakiku. Aku coba, coba, dan terus mencoba, tapi selalu saja gagal... Aku jadi putus asa, lalu duduk di atas batu, mendesah sendiri dan berpikir, \"Ah, jadi ada ya hal-hal di dunia ini yang tidak bisa diinjak...\"",
-      "th": "ตอนเด็ก ๆ เธอเคยเหยียบจุดแสงที่อยู่บนพื้นไหม? จุดแสงที่ลอดผ่านลงมาจากหมู่แมกไม้ในวันที่แดดดี ฉันมักคิดว่ามันจะหายไปถ้าฉันเหยียบมัน แต่มันมักจะกระโดดขึ้นมาอยู่หลังเท้าฉัน ฉันก็พยายามเหยียบ เหยียบ เหยียบมัน พยายามอยู่นานก็ไร้ผล ตอนนั้นก็ได้แต่โมโห ฉันเลยนั่งลงบนก้อนหินแล้วถอนหายใจ \"เฮ้อ ที่แท้บนโลกใบนี้ก็ยังมีบางอย่างที่เหยียบไม่ได้...\"",
+      "id": "Apa kamu pernah coba injak titik cahaya waktu kecil dulu? Kamu tahu kan, bercak-bercak di tanah itu terjadi waktu sinar matahari melewati dedaunan. Aku pikir itu akan hilang jika aku injak, tetapi bercak itu akan selalu lompat ke atas kakiku. Aku coba, coba, dan terus mencoba, tapi selalu saja gagal ... Aku jadi putus asa, lalu duduk di atas batu, mendesah sendiri dan berpikir, \"Ah, jadi ada ya hal-hal di dunia ini yang tidak bisa diinjak ....\"",
+      "th": "ตอนเด็ก ๆ เธอเคยเหยียบจุดแสงที่อยู่บนพื้นไหม? จุดแสงที่ลอดผ่านลงมาจากหมู่แมกไม้ในวันที่แดดดี ฉันมักคิดว่ามันจะหายไปถ้าฉันเหยียบมัน แต่มันมักจะกระโดดขึ้นมาอยู่หลังเท้าฉัน แล้วฉันก็พยายามเหยียบ เหยียบ เหยียบมัน พยายามอยู่นานก็ไร้ผล ตอนนั้นก็ได้แต่โมโห ฉันเลยนั่งลงบนก้อนหินแล้วถอนหายใจ \"เฮ้อ ที่แท้บนโลกใบนี้ก็ยังมีบางอย่างที่เหยียบไม่ได้...\"",
       "vi": "Khi bạn còn nhỏ có từng đạp lên đốm sáng trên mặt đất không? Chính là lúc ánh mặt trời rực rỡ nhất, ánh sáng xuyên qua cành cây lưu lại những đốm sáng trên mặt đất. Vốn tưởng rằng đạp lên chúng sẽ biến mất, kết quả là nó nhảy lên chân, tôi cứ đạp, cứ đạp, thử mãi cũng không được. Lúc đó tôi rất không cam tâm, ngồi trên hòn đá than thở \"Haizz, trên thế giới này lại có thứ không thể đạp được sao...\""
     }
   },
@@ -1338,8 +1338,8 @@
       "fr": "Lors d'un festival d'été, alors que je regardais les enfants pêcher des poissons rouges, accroupie à côté d'eux, une idée m'est venue à l'esprit : « Et si je fabriquais un feu d'artifice qui puisse être déclenché sur l'eau ? » C'est ainsi que mes feux d'artifice de poissons rouges sont nés ! Ils nagent, émettent des lumières multicolores et crachent des bulles... Génial, pas vrai ? Je ne pensais pas pouvoir être capable de les fabriquer, mais la vie ne cesse jamais de vous surprendre.",
       "pt": "Um dia, enquanto me agachava ao lado de uma criança para vê-la pegar peixes dourados durante um festival de verão, me ocorreu uma ideia: será que eu consigo fazer fogos de artifício que explodem na superfície da água? Foi assim que nasceram os “Fogos de Artifício Peixe Dourado”! Eles nadam de um lado para o outro, emitem luzes de várias cores e podem até mesmo fazer bolhas! Nunca imaginei que isso realmente funcionaria, mas milagres acontecem.",
       "ru": "Как-то во время летнего праздника я присела рядом с детьми и наблюдала, как они ловят золотых рыбок. Вдруг меня посетила неожиданная мысль: «А что, если создать фейерверки, которые можно будет запускать на поверхности воды?». Так родился фейерверк «Золотые рыбки»! Он снуёт по воде вперёд-назад, выпускает разноцветные огни и даже пузырьки! Я и подумать не могла, что это и в самом деле сработает, но, видимо, в этом мире чудеса ещё случаются.",
-      "id": "Saat jongkok di sebelah anak-anak dan nonton mereka menangkap ikan emas di suatu festival musim panas, tiba-tiba aku kepikiran: bisa tidak ya aku bikin kembang api yang mampu meledak di permukaan air? Demikianlahlahir \"Kembang Api Ikan Emas\"! Mereka bisa berenang ke sana kemari, memancarkan sinar warna-warni, bahkan mengeluarkan gelembung! Aku tidak sangka itu bisa berhasil, tetapi sepertinya keajaiban itu memang ada ya.",
-      "th": "ครั้งหนึ่งในเทศกาลฤดูร้อน ฉันนั่งยอง ๆ ข้างๆกลุ่มเด็กน้อยที่กำลังช้อนปลาทองอยู่ อยู่ดี ๆ ก็นึกขึ้นมาได้ว่า มันเป็นไปได้ไหมนะที่เราจะสร้างดอกไม้ไฟที่สามารถจุดบนน้ำได้? จากนั้น \"ดอกไม้ไฟปลาทอง\" ก็ถือกำเนิดขึ้น! มันสามารถว่ายขึ้นลงลงบนผิวน้ำได้ มันสามารถปล่อยแสงหลากสีสัน และพ่นฟองออกมาได้ด้วย ไม่น่าเชื่อเลยล่ะสิ! ...ฉันเองก็ไม่คิดเหมือนกันว่าจะทำสำเร็จ แต่บนโลกใบนี้มีสิ่งน่าทึ่งอยู่มากมายนัก",
+      "id": "Saat jongkok di sebelah anak-anak dan nonton mereka menangkap ikan emas di suatu festival musim panas, tiba-tiba aku kepikiran: bisa tidak ya aku bikin kembang api yang mampu meledak di permukaan air? Demikianlahlahir \"Kembang Api Ikan Emas\" tercipta! Mereka bisa berenang ke sana kemari, memancarkan sinar warna-warni, bahkan mengeluarkan gelembung! Aku tidak sangka itu bisa berhasil, tetapi sepertinya keajaiban itu memang ada ya.",
+      "th": "ครั้งหนึ่งในเทศกาลฤดูร้อน ฉันนั่งยอง ๆ ข้าง ๆ กลุ่มเด็กน้อยที่กำลังช้อนปลาทองอยู่ อยู่ดี ๆ ก็นึกขึ้นมาได้ว่า มันเป็นไปได้ไหมนะที่เราจะสร้างดอกไม้ไฟที่สามารถจุดบนน้ำได้? จากนั้น \"ดอกไม้ไฟปลาทอง\" ก็ถือกำเนิดขึ้น! มันสามารถว่ายขึ้นลงบนผิวน้ำได้ สามารถปล่อยแสงหลากสีสัน และพ่นฟองออกมาได้ด้วย ไม่น่าเชื่อเลยล่ะสิ! ...ฉันเองก็ไม่คิดเหมือนกันว่าจะทำสำเร็จ แต่บนโลกใบนี้ยังมีสิ่งน่าทึ่งอยู่อีกมากมายเลย",
       "vi": "Có một ngày hè, tôi ngồi bên cạnh tụi nhóc xem chúng vớt cá, đột nhiên tôi nghĩ, có thể nào làm ra loại pháo hóa bắn trên nước không? Sau đó, Pháo Hoa Cá Vàng đã ra đời! Có thể bơi lội tung tăng trên mặt nước, phát ra ánh sáng lung linh, còn có thể phun ra bong bóng, rất thú vị phải không!...Tôi thật không nghĩ rằng mình có thể thành công, nhưng trên thế giới này đúng là có nhiều chuyện không thể ngờ được."
     }
   },
@@ -1366,12 +1366,12 @@
       "ko": "이나즈마를 쇄국한 후로, 폭죽은 다 북두 언니가 대신 운반해. 언니를 위해서 서프라이즈로 거대한 선박형 폭죽을 준비했어. 「남십자함대」가 떠나려고 준비할 때 폭죽이 선원들 앞에서 튀어나가 하늘로 솟구쳤지. 다들 깜짝 놀랐는데, 북두 언니는 서프라이즈는 놀래야 제맛이라고 하면서 좋은 아이디어라고 했어. 하하하",
       "en": "Beidou's been helping me ship my fireworks out ever since Inazuma was locked down. I prepared a huge boat-shaped firework just to surprise her — and when the Crux Fleet was about to leave, this firework went whoosh! Right in front of their eyes, straight into the sky. The sailors got such a huge fright — they thought one of their ships had somehow flown off! But Beidou liked that trick very much, saying that it was exactly what a pleasant surprise should be — very pleasant, and a surprise.",
       "de": "Beidou hat mir geholfen, meine Feuerwerkskörper auszuliefern, seit Inazuma abgeriegelt wurde. Ich habe ein riesiges Feuerwerk in Form eines Schiffes vorbereitet, nur um sie zu überraschen. Und als die Crux gerade auslaufen wollte, machte dieses Feuerwerk „wusch!“ direkt vor ihren Augen, direkt in den Himmel. Die Matrosen bekamen einen riesigen Schreck. Sie dachten, eines ihrer Schiffe sei irgendwie weggeflogen! Aber Beidou gefiel dieser Trick sehr gut, denn sie sagte, dass es genau das war, was eine gute Überraschung brauche. Es war richtig toll!",
-      "es": "Beidou me ha ayudado a exportar fuegos artificiales desde que cerraron Inazuma. Para darle una sorpresa, preparé un fuego artificial enorme en forma de barco y, cuando la Flota Crux estaba a punto de zarpar, ¡pum! salió volando delante de sus ojos. La tripulación se asustó muchísimos porque pensaron que uno de sus barcos había salido por los aires. Pero a Beidou le gustó mucho ese pequeño truco porque, según lo que dijo, así es como debe ser una sorpresa: agradable e inesperada.",
+      "es": "Beidou me ha ayudado a exportar fuegos artificiales desde que cerraron Inazuma. Para darle una sorpresa, preparé un fuego artificial enorme en forma de barco y, cuando la Flota Crux estaba a punto de zarpar, ¡pum! Salió volando delante de sus ojos. La tripulación se asustó muchísimo porque pensaron que uno de sus barcos había salido por los aires. Pero a Beidou le gustó mucho ese pequeño truco porque, según lo que dijo, así es como debe ser una sorpresa: agradable e inesperada.",
       "fr": "Beidou m'aide à livrer mes feux d'artifice depuis qu'Inazuma est confinée. Un jour, j'ai voulu lui faire une surprise, alors j'ai fabriqué un feu d'artifice en forme de bateau. Quand la Flotte du Crux s'apprêtait à larguer les amarres, il a filé vers le ciel. Les marins ont eu la peur de leur vie ! Ils avaient cru qu'un de leurs bateaux s'était envolé ! Mais Beidou a apprécié ce petit spectacle, en me disant qu'il avait tout d'une surprise agréable.",
       "pt": "Beidou está me ajudando a entregar meus fogos de artifício desde quando Inazuma se fechou. Eu preparei um fogo de artifício enorme no formato de um barco só para surpreendê-la — e, quando a Frota Crux estava prestes a partir, o fogo de artifício disparou bem na frente deles, direto para o céu. Os marinheiros se assustaram muito — eles pensaram que um de seus navio estava prestes a decolar! Mas Beidou gostou bastante do truque, dizendo que uma surpresa agradável deveria ser exatamente assim — agradável e surpreendente.",
       "ru": "Бэй Доу помогает мне вывозить фейерверки с тех самых пор, как Инадзума закрыла границы. Я создала громадный фейерверк в виде судна специально, чтобы удивить её. Когда флот Южного Креста уже собирался отчаливать, он взмыл в небо перед самыми их глазами! Матросы не на шутку перепугались - они решили, что одно из их судов каким-то чудом взлетело! Но Бэй Доу этот трюк очень понравился. Она сказала, что это было очень приятно и неожиданно - идеальный сюрприз.",
       "id": "Beidou membantuku mengirim kembang api sejak Inazuma ditutup. Aku menyiapkan kembang api berbentuk kapal besar untuk mengagetkannya, dan waktu Crux Fleet mau berangkat, kembang api nya WUUUSH! di depan mata mereka, meluncur ke langit. Para awak kapal jadi ketakutan, mereka kira ada kapal mereka yang meledak! Tapi Beidou malah suka sekali, dia bilang memang begitulah seharusnya sebuah kejutan: mengejutkan sekaligus menyenangkan.",
-      "th": "หลังจากที่ Inazuma ทำการปิดประเทศ ก็มีพี่ Beidou นี่แหละที่คอยช่วยฉันขนส่งดอกไม้ไฟ เพื่อทำให้พี่เค้าประหลาดใจ ฉันได้เตรียมดอกไม้ไฟรูปเรือขนาดมหึมาไว้ และในตอนที่ \"กองเรือ Crux\" เตรียมตัวออกจากท่า ดอกไม้ไฟอันนี้ก็ถูกจุดแล้วพุ่งไปข้างหน้าพวกเขา และบินตรงขึ้นไปบนท้องฟ้า ลูกเรือทุกคนต่างก็คิดว่าเรือของกองเรือบินไปโน่นแล้วและตกใจกันยกใหญ่ แต่พี่ Beidou ชอบความคิดนี้มาก ๆ เลยล่ะ เธอบอกฉันว่า น่าประหลาดใจมากจริง ๆ ทั้งน่าประหลาดใจแล้วก็น่าตกใจด้วย ฮ่าฮ่า",
+      "th": "หลังจากที่ Inazuma ทำการปิดประเทศ ก็มีพี่ Beidou นี่แหละที่คอยช่วยฉันขนส่งดอกไม้ไฟ เพื่อทำให้พี่เค้าประหลาดใจ ฉันได้เตรียมดอกไม้ไฟรูปเรือขนาดมหึมาไว้ และในตอนที่ \"กองเรือ Crux\" เตรียมตัวออกจากท่า ดอกไม้ไฟอันนี้ก็ถูกจุดแล้วพุ่งไปข้างหน้าพวกเขา และบินตรงขึ้นไปบนท้องฟ้า ลูกเรือทุกคนต่างก็คิดว่าเรือของกองเรือบินไปโน่นแล้ว จนพากันตกใจยกใหญ่ แต่พี่ Beidou ชอบความคิดนี้มาก ๆ เลยล่ะ เธอบอกฉันว่า น่าประหลาดใจมากจริง ๆ ทั้งน่าประหลาดใจแล้วก็น่าตกใจด้วย ฮ่าฮ่า",
       "vi": "Sau khi Inazuma bế quan tỏa cảng, đều do chị Beidou giúp tôi vận chuyển pháo hoa ra ngoài, để tạo bất ngờ cho chị ấy, tôi đã chuẩn bị pháo hoa hình con thuyền cực lớn. Khi Đội thuyền Nam Thập Tự chuẩn bị rời bến, pháo hoa này bắn ra ngay trước mắt họ, bay thẳng lên trời. Các thuyền viên đều tưởng rằng thuyền của mình đã bay lên, sợ phát khiếp, nhưng chị Beidou rất thích sáng kiến này. Chị ấy nói với tôi, đây đúng là vừa sợ vừa vui, haha."
     }
   },
@@ -1382,7 +1382,7 @@
       "jp": "雷電将軍について…",
       "ko": "라이덴 쇼군에 대해…",
       "en": "About the Raiden Shogun",
-      "de": "Über den Shougun Raiden ...",
+      "de": "Über Shougun Raiden ...",
       "es": "Sobre la Shogun Raiden...",
       "fr": "À propos de la Shogun Raiden...",
       "pt": "Sobre a Shogun Raiden...",
@@ -1403,7 +1403,7 @@
       "pt": "É provável que os fogos de artifício sejam a coisa mais distante da \"eternidade\" que a Shogun almeja. Ela provavelmente acha que a glória transiente desses artefatos não tem aplicações práticas em Inazuma. *Suspiro* Talvez aqueles que tenham a \"eternidade\" ao seu alcance nunca compreendam os fogos de artifício. É exatamente porque nós, como mortais, não passamos de sombras efêmeras que precisamos apreciar essas manifestações explosivas de beleza.",
       "ru": "Наверное, невозможно представить ничего более отдалённого от «вечности», к которой стремится сёгун, чем фейерверки. Полагаю, она считает, что их скоротечной красоте нет практического применения в Инадзуме. Вероятно, это одна из тех вещей, которые сложно понять тем, кто познал «вечность». А нам, смертным, просто необходимо почитать короткие мгновения красоты, ведь сама наша жизнь напоминает мимолетную тень.",
       "id": "Kembang api adalah sesuatu yang jauh sekali dari \"keabadian\" yang diidamkan sang Shogun. Dia mungkin merasa kalau ledakan cahaya yang sekejap saja itu sama sekali tidak ada artinya buat Inazuma. Haah, mungkin ini sulit dipahami oleh dia yang memegang \"keabadian\" di tangannya. Justru karena hidup manusia fana seperti kita ini singkat, kita harus menghargai keindahan yang hanya sekejap saja itu.",
-      "th": "ดอกไม้ไฟเป็นสิ่งที่ห่างไกลกับ \"นิรันดร์\" ที่ท่านโชกุนพยายามไขว่คว้าเหมือนฟ้ากับเหว ท่านโชกุนอาจจะคิดว่าแสงสว่างที่สดใสแค่ชั่วพริบตา มันไม่มีประโยชน์ใน Inazuma เอาซะเลย เฮ้อ คนที่ครอบครองความเป็นนิรันดร์คงไม่เข้าใจเรื่องพวกนี้หรอก ก็เพราะว่าเราเป็นแค่ \"คนธรรมดา\" เลยรู้ค่าของความงดงามที่อยู่เพียงช่วงเวลาสั้น ๆ ไงล่ะ",
+      "th": "ดอกไม้ไฟเป็นสิ่งที่ห่างไกลกับ \"นิรันดร์\" ที่ท่านโชกุนพยายามไขว่คว้าราวฟ้ากับเหว ท่านโชกุนอาจจะคิดว่าแสงสว่างที่สดใสแค่ชั่วพริบตา มันไม่มีประโยชน์ใน Inazuma เอาซะเลย เฮ้อ คนที่ครอบครองความเป็นนิรันดร์คงไม่เข้าใจเรื่องพวกนี้หรอก ก็เพราะว่าเราเป็นแค่ \"คนธรรมดา\" เลยรู้ค่าของความงดงามที่อยู่เพียงช่วงเวลาสั้น ๆ ไงล่ะ",
       "vi": "Pháo hoa là thứ cách xa nhất so với sự \"vĩnh hằng\" mà tướng quân theo đuổi, cô ấy có thể cảm thấy rằng sự hào nhoáng ngắn ngủi này không có ý nghĩa thực tế gì đối với Inazuma. Haizz, chắc đây là thứ mà người nắm giữ \"vĩnh hằng\" khó mà hiểu được, chính bởi vì chúng ta đều là \"con người ngắn ngủi\", mới càng muốn ghi nhớ những nét đẹp ngắn ngủi này."
     }
   },
@@ -1467,7 +1467,7 @@
       "pt": "Um dia, estávamos discutindo assuntos relacionados ao festival de verão até altas horas da noite. Estávamos extremamente cansadas, e eu convidei-a para um banho. Mas, quando soube que várias pessoas estariam tomando banho na mesma piscina, ela ficou vermelha na hora! Foi aí que eu aprendi que senhoritas da nobreza não usam banheiros públicos.",
       "ru": "Однажды мы обсуждали вопросы, связанные с праздником лета до поздней ночи. Поскольку мы очень утомились, мне показалось хорошей идеей сходить вместе в купальню. Когда она поняла, что ей предлагают искупаться в одном бассейне со множеством других людей, она тут же залилась румянцем. Оказалось, благородным леди нельзя ходить в общественные купальни.",
       "id": "Suatu ketika kami pernah membahas soal festival musim panas sampai larut malam. Lelah sekali rasanya, jadi kuajak dia pergi berendam untuk relaksasi. Waktu dia dengar kalau akan ada banyak orang lain yang juga berendam di pemandian yang sama, wajahnya merona merah dalam sekejap! Itulah pertama kalinya aku tahu kalau gadis bangsawan tidak boleh berendam di pemandian umum.",
-      "th": "มีอยู่ครั้งนึงที่เราคุยกันเรื่องงานเทศกาลจนดึก เราก็เหนื่อยกันทั้งคู่ ฉันก็เลยชวนเธอไปแช่น้ำร้อนเพื่อผ่อนคลาย แต่พอเธอได้ยินคำว่า \"แช่ออนเซน\" ที่ต้องมีคนหลาย ๆ คนไปแช่รวมกันในบ่อเดียว เธอก็หน้าแดงแป๊ดเลย ถึงตอนนั้นฉันถึงรู้ว่า คุณหนูใหญ่คงจะไม่เหมาะกับการแช่น้ำในที่สาธารณะสินะ",
+      "th": "มีอยู่ครั้งนึงที่เราคุยกันเรื่องงานเทศกาลจนดึก เราก็เหนื่อยกันทั้งคู่ ฉันก็เลยชวนเธอไปแช่น้ำร้อนเพื่อผ่อนคลาย แต่พอเธอได้ยินคำว่า \"แช่ออนเซน\" ที่ต้องมีคนหลาย ๆ คนไปแช่รวมกันในบ่อเดียวแล้ว เธอก็หน้าแดงแป๊ดเลย ถึงตอนนั้นฉันถึงรู้ว่า คุณหนูใหญ่คงจะไม่เหมาะกับการแช่น้ำในที่สาธารณะสินะ",
       "vi": "Có một lần bàn chuyện lễ hội mùa hè đến khuya, chúng tôi đều rất mệt, tôi bèn mời cô ấy đi tắm hồ thư giãn. Nhưng cô ấy nói \"Tắm Hồ\" là nhiều người ngâm trong cùng một hồ, và chợt đỏ mặt, lúc đó tôi mới ý thức được, đại tiểu thư không thể dùng phòng tắm công cộng được."
     }
   },
@@ -1498,7 +1498,7 @@
       "fr": "C'est un très bon orateur, chaque mot qui sort de sa bouche n'est jamais de trop. Parfois, ses phrases n'ont pas forcément de lien entre elles, mais on se rend compte progressivement que chacune est prononcée pour servir un objectif commun. C'est une approche assez... différente de la mienne. Je lui demande souvent son aide quand je rencontre des problèmes que je ne peux pas régler.",
       "pt": "Ele é bem falador, e acredita em cada palavra que diz. Às vezes, pode parecer que não há relação entre os assuntos mas, conforme ele continua, tudo converge perfeitamente em um único propósito. É... bem diferente da forma como eu faço as coisas. Eu peço ajuda para ele sempre que encontro um problema que não consigo decifrar.",
       "ru": "Он любит поговорить, но никогда и слова не скажет наобум. Иногда кажется, что между тем, что он говорит нет связи, но стоит ещё немного послушать, и всё складывается в единый замысел. Да... У нас совершенно разный подход к вещам. Когда у меня не получается решить какой-нибудь вопрос, я всегда зову его на помощь.",
-      "id": "Dia pintar bicara dan selalu punya pengertian di balik setiap ucapan yang keluar dari bibirnya. Awalnya memang terkesan tak jelas, tapi semakin dia bicara, semakin jelas apa tujuannya. Ini... beda sekali dengan caraku. Aku selalu minta bantuannya setiap ada masalah yang tidak bisa kuselesaikan.",
+      "id": "Dia pintar bicara dan selalu punya pengertian di balik setiap ucapan yang keluar dari bibirnya. Awalnya memang terkesan tak jelas, tapi semakin dia bicara, semakin jelas apa tujuannya. Ini ... beda sekali dengan caraku. Aku selalu minta bantuannya setiap ada masalah yang tidak bisa kuselesaikan.",
       "th": "เขาเป็นคนที่พูดเก่งมาก และถ้าเขาพูดออกมาก็แสดงว่าเขาต้องมีเหตุผลที่พูดอย่างงั้นแน่นอน แม้ว่าบางทีจะดูเหมือนไม่เกี่ยวกันเลยสักนิด แต่พอพูดอ้อมค้อมไปมา ก็จะมาจบลงที่จุดประสงค์ที่เขาต้องการอย่างอัศจรรย์ อืม... สรุปแล้วมันต่างจากสไตล์ฉันอย่างสิ้นเชิงเลยล่ะ เวลาฉันเจอเรื่องที่จัดการไม่ไหว ฉันก็จะขอให้เขาออกโรงช่วย",
       "vi": "Anh ấy là người rất giỏi ăn nói, những gì anh ấy nói ra nhất định đều có suy nghĩ riêng của anh. Tuy rằng trông có vẻ không có mối liên hệ gì, nhưng xoay vòng xoay vòng, cuối cùng sẽ chỉ về cùng một mục tiêu một cách rất khéo léo. Ừm...tóm lại hoàn toàn khác với phong cách của tôi, nếu gặp chuyện gì tôi không giải quyết được, sẽ nhờ anh ấy ra tay."
     }
@@ -1524,14 +1524,14 @@
       "zht": "有次神社祭典，綾華問我能不能為宮司大人準備玩樂用的煙花。可是…宮司大人不是要出席祭典，全程坐在神社裡嗎？然後我祭典的時候就一直看著她，想知道她要怎麼放煙花。我等啊等，等啊等，結果等來了綾華，說宮司大人特別滿意…欸？她已經放過了？難道，坐在裡面的不是她？",
       "jp": "いつやったか神社の祭りで、宮司様のために手持ち花火を用意してくれって綾華ちゃんに頼まれたことがあったんや…せやけど、宮司様って祭りに出席するさかい、神社の境内に座りっきりやろ？宮司様がどうやって花火で遊ぶのか気になって、祭り中ずっと観察しとったんや。ほなら綾華ちゃんがうちのとこにきて、「宮司様、とても満足されておりました」って言うて…えっ？もう花火で遊んだん？ってなって…もしかして、うちが見とったのは宮司様やあらへんかったのかな？",
       "ko": "신사 축제 때 아야카가 궁사님을 위해서 폭죽을 준비해줄 수 있냐고 했어. 근데… 궁사님은 축제에 나가서 처음부터 끝까지 신사에 앉아 계시잖아? 그래서 축제 때 대체 어떻게 폭죽을 터트리나 하고 계속 바라봤어. 기다리고 기다리던 끝에 아야카가 왔는데, 궁사님이 아주 만족하셨다는 거야… 엥? 이미 터트렸나? 설마 안에 앉아있는 사람은 궁사님이 아닌가?",
-      "en": "Ayaka once asked me during a ritual at the shrine if I could prepare some fireworks for the Lady Guuji's leisure. I thought to myself, \"isn't the Lady Guuji supposed to sit inside the shrine throughout the ritual?\" So I watched her the whole time during the ritual, wondering how she'd like to release the fireworks. I waited, and I waited, and then Ayaka came over at length to tell me that the Lady Guuji was most pleased. I mean, what? She'd already released the fireworks? Was the person sitting inside the shrine not her, then?",
+      "en": "Ayaka once asked me during a ritual at the shrine if I could prepare some fireworks for the Lady Guuji's leisure. I thought to myself, \"isn't the Lady Guuji supposed to sit inside the shrine throughout the ritual?\" So I watched her the whole time during the ritual, wondering how she'd like to release fireworks. I waited, and I waited, and then Ayaka came over at length to tell me that the Lady Guuji was most pleased. I mean, what? She'd already released the fireworks? Was the person sitting inside the shrine not her, then?",
       "de": "Ayaka fragte mich einmal während eines Rituals im Schrein, ob ich ein Feuerwerk für Frau Guuji vorbereiten könnte. Ich fragte mich, wie Frau Guuji während des Rituals im Schrein sitzen soll? Also beobachtete ich sie die ganze Zeit während des Rituals und fragte mich, wie sie wohl ein Feuerwerk anzünden würde. Ich wartete und wartete und dann kam Ayaka endlich zu mir, um mir zu sagen, dass Frau Guuji sehr erfreut war. Also was jetzt? Sie hatte das Feuerwerk schon angezündet? War die Person, die im Schrein saß, also nicht sie?",
       "es": "Una vez durante una ceremonia en un templo, Ayaka me preguntó si podía preparar unos fuegos artificiales para entretener a la Suma Sacerdotisa. Pensé: “¿No se supone que la Suma Sacerdotisa debe estar sentada dentro del santuario durante toda la ceremonia?”, así que la observé mientras me preguntaba cómo le gustaría que lanzara los fuegos artificiales. Esperé y esperé hasta que Ayaka me dijo que la Suma Sacerdotisa estaba encantada. ¿En serio? ¿Ya había lanzado los fuegos? Entonces, ¿no era ella la persona que estaba sentada en el templo?",
       "fr": "Lors d'un festival au sanctuaire, Ayaka m'a demandé si je pouvais préparer des feux d'artifice pour divertir la Guuji Yae. Mais... je croyais qu'elle devait rester à l'intérieur du sanctuaire pendant tout le festival ? Alors, je l'ai observée pendant tout le festival, en me demandant comment elle allait tirer les feux d'artifice. J'ai attendu, puis attendu, jusqu'à ce qu'Ayaka vienne me voir pour me dire que la Guuji Yae était très satisfaite de mon travail. Mais enfin, comment est-ce possible ? Qui était à l'intérieur du sanctuaire alors ?",
       "pt": "Em certa ocasião, Ayaka me perguntou, durante um ritual no santuário, se eu poderia preparar alguns fogos de artifício para divertir a Senhora Guuji. Pensei comigo mesma, \"a Senhora Guuji não deveria ficar sentada dentro do santuário durante todo o ritual?\". Então comecei a observá-la o tempo todo durante o ritual, me perguntando como ela faria para soltar os fogos de artifício. Eu esperei, esperei, até o momento quando Ayaka veio me dizer que a Senhora Guuji estava encantada. Quer dizer, como assim? Ela já tinha soltado os fogos de artifício? Será que a pessoa que estava sentada dentro do santuário era realmente ela?",
       "ru": "Однажды во время обряда в храме, Аяка попросила меня изготовить фейерверки, чтобы порадовать леди Гудзи. Я с удивлением подумала: «Разве леди Гудзи не должна находиться в храме во время обряда?». Пока она шла, я глаз с неё не спускала, гадая, как же она собирается запускать фейерверки. Я всё ждала и ждала, ждала и ждала, пока ко мне наконец не подошла Аяка, чтобы сказать, что леди Гудзи осталась очень довольна фейерверками. Когда же она успела их запустить? Или это не она всё время сидела в храме?",
-      "id": "Waktu itu ada festival di kuil, dan Ayaka tanya apa aku bisa buat kembang api untuk Nona Guuji. Lah, Nona Guuji bukannya duduk di dalam kuil selama festival berlangsung? Jadi aku terus mengawasi beliau selama festival berlangsung, sambil berpikir bagaimana caranya dia bakar kembang apinya. Aku tunggu, tunggu dan tunggu lagi, sampai akhirnya Ayaka datang dan bilang kalau Nona Guuji suka sekali dengan kembang apinya. Loh? Kapan dia bakar kembang api? Jadi orang yang di dalam kuil itu... siapa?",
-      "th": "ครั้งหนึ่งในงานเทศกาลศาลเจ้า Ayaka เคยถามฉันว่าฉันจะเตรียมดอกไม้ไฟให้ท่าน Guuji ชมหน่อยได้มั้ย แต่... ท่าน Guuji ต้องนั่งอยู่ในศาลเจ้าไปตลอดช่วงเวลาเทศกาลไม่ใช่เหรอ? ฉันคอยดูเธอตลอดช่วงเทศกาล และสงสัยว่าเธอจะจุดดอกไม้ไฟได้ยังไง ฉันรอ รอ รอ แล้วก็รอ และในที่สุด Ayaka ก็มาถึง แล้วบอกว่าท่าน Guuji พอใจมาก...เอ๊ะ? เธอจุดดอกไม้ไฟแล้วงั้นเหรอ? หรือว่าคนที่นั่งอยู่ข้างในจะไม่ใช่เธอ?",
+      "id": "Waktu itu ada festival di kuil, dan Ayaka tanya apa aku bisa buat kembang api untuk Nona Guuji. Lah, Nona Guuji bukannya duduk di dalam kuil selama festival berlangsung? Jadi aku terus mengawasi beliau selama festival berlangsung, sambil berpikir bagaimana caranya dia bakar kembang apinya. Aku tunggu, tunggu dan tunggu lagi, sampai akhirnya Ayaka datang dan bilang kalau Nona Guuji suka sekali dengan kembang apinya. Loh? Kapan dia bakar kembang api? Jadi orang yang di dalam kuil itu ... siapa?",
+      "th": "ครั้งหนึ่งในงานเทศกาลศาลเจ้า Ayaka เคยถามฉันว่า ฉันสามารถเตรียมดอกไม้ไฟให้ท่าน Guuji ชมหน่อยได้มั้ย แต่... ท่าน Guuji ต้องนั่งอยู่ในศาลเจ้าไปตลอดช่วงเวลาเทศกาลไม่ใช่เหรอ? ฉันคอยดูเธอตลอดช่วงเทศกาล และสงสัยว่าเธอจะจุดดอกไม้ไฟได้ยังไง ฉันรอ รอ รอ แล้วก็รอ และในที่สุด Ayaka ก็มาถึง แล้วบอกว่าท่าน Guuji พอใจมาก...เอ๊ะ? เธอจุดดอกไม้ไฟแล้วงั้นเหรอ? หรือว่าคนที่นั่งอยู่ข้างในจะไม่ใช่เธอ?",
       "vi": "Có một lần tế lễ đền thờ, Ayaka hỏi tôi có thể chuẩn bị pháo hoa cho Yae đại nhân giải trí không. Nhưng...Yae đại nhân không phải sẽ tham gia buổi lễ, và sẽ ngồi ở đền thờ suốt buổi hay sao? Sau đó lúc tế lễ tôi cứ nhìn cô ấy mãi, muốn biết cô ấy muốn bắn pháo hoa như thế nào. Tôi cứ chờ, chờ mãi, kết quả là Ayaka đến, nói là Yae đại nhân rất hài lòng...Ủa? Lẽ nào cô ấy bắn rồi? Lẽ nào người ngồi đó không phải cô ấy?"
     }
   },
@@ -1562,7 +1562,7 @@
       "fr": "Oh, lui. Il a l'air effrayant, mais les enfants l'adorent. À chaque fois que nous jouons avec eux, ça se termine par un petit défi entre lui et moi. Par exemple, manger un bol de ramen le plus rapidement possible ou des prunes salées sans faire de grimace. Les enfants essaient de deviner le gagnant et nous encouragent. Du coup, je ne peux pas me permettre de perdre, pas vrai ?",
       "pt": "Oh, sei que ele tem uma aparência assustadora, mas ele é muito popular com as crianças. Porém, ele às vezes é bastante competitivo. Sempre que brincamos com as crianças, a brincadeira se transforma rapidamente em uma competição entre nós. Por exemplo, bebemos uma tigela inteira de sopa de lámen de uma vez só, ou tentamos comer ameixas azedas sem fazer careta. As crianças torcem por nós dois, e tentam adivinhar quem será o vencedor. E, quando isso acontece... Bem, também não quero perder, né?",
       "ru": "Он может и выглядит устрашающе, но дети его очень любят. Впрочем, он обожает соревноваться. Каждый раз, когда мы играем с детьми, всё сводится к состязанию между мной и ним. Например, кто сможет за один присест приговорить тарелку рамэна или съесть кислую сливу и не скривиться. Дети подбадривают нас возгласами и пытаются угадать победителя. Разве могу я проиграть, когда такое дело?",
-      "id": "Oh, dia. Tampangnya seram, tapi dia populer di kalangan anak-anak. Dia sangat kompetitif loh. Setiap kali main sama anak-anak, akhirnya selalu jadi lomba antara aku dan dia. Misalnya, semangkuk kuah ramen kami habiskan sekali telan, atau makan buah plum tapi tak boleh ada ekspresi apa pun di muka. Anak-anak bersorak menyemangati kami sambil menebak siapa yang menang. Kalau kejadiannya begitu ya... aku mana boleh membiarkan dia menang, kan?",
+      "id": "Oh, dia. Tampangnya seram, tapi dia populer di kalangan anak-anak. Dia sangat kompetitif loh. Setiap kali main sama anak-anak, akhirnya selalu jadi lomba antara aku dan dia. Misalnya, semangkuk kuah ramen kami habiskan sekali telan, atau makan buah plum tapi tak boleh ada ekspresi apa pun di muka. Anak-anak bersorak menyemangati kami sambil menebak siapa yang menang. Kalau kejadiannya begitu ya ... aku mana boleh membiarkan dia menang, kan?",
       "th": "อ๋อ เขาน่ะเหรอ เธออย่าดูแต่ท่าทางภายนอกสุดโหดของเขานะ พวกเด็ก ๆ ชอบเขามากเลย แต่เขาเป็นคนชอบแข่งขันสุด ๆ ทุกครั้งที่เล่นกับเด็ก ๆ สุดท้ายก็จะกลายเป็นการประลองระหว่างฉันกับเขาตลอด เช่น แข่งกันดื่มน้ำซุปราเมนให้หมดรวดเดียว หรือแข่งกันกินของเปรี้ยวโดยไม่แสดงสีหน้า อะไรพวกนี้ พวกเด็ก ๆ ก็จะเดากันว่าใครจะเป็นคนชนะ แล้วก็ยืนเชียร์อยู่ข้างพวกเรา เฮ้อ แบบนี้ฉันก็ยอมแพ้ไม่ได้เหมือนกันใช่มั้ยล่ะ?",
       "vi": "À, anh ta sao. Đừng nhìn bộ dạng anh ta hung dữ, trẻ con rất thích anh ta đó. Nhưng mà anh ta rất hiếu thắng, mỗi lần chúng tôi chơi cùng đám trẻ, đến cuối cùng đều biến thành quyết đấu giữa tôi và anh ta, ví dụ như một hơi húp hết tô nước lèo, ăn mơ chua nhưng không để lộ biểu cảm, rồi bọn trẻ sẽ đoán xem ai thắng, còn đứng bên cạnh cổ vũ, ây da, như vậy tôi không được để thua, đúng không?"
     }
@@ -1580,7 +1580,7 @@
       "pt": "Sobre Arataki Itto: a Gangue de Arataki",
       "ru": "Об Аратаки Итто: Банда Аратаки",
       "id": "Tentang Arataki Itto: Kubu Arataki",
-      "th": "เกี่ยวกับ Arataki Itto - แก๊งของ Arataki",
+      "th": "เกี่ยวกับ Arataki Itto - แก๊ง Arataki",
       "vi": "Về Arataki Itto - Bang Phái"
     },
     "line": {
@@ -1595,7 +1595,7 @@
       "pt": "Gangue de Arataki? Oi!? Então ele não é apenas uma pessoa com demasiado tempo livre?",
       "ru": "Банда Аратаки? Надо же! Так он вовсе не бездельник?",
       "id": "Geng Arataki? Hah!? Jadi dia bukan cuma pengangguran banyak acara ya?",
-      "th": "แก๊งของ Arataki? เอ๋?! ที่แท้เขาก็ไม่ใช่พวกที่วัน ๆ ไม่ทำอะไรเหรอ?",
+      "th": "แก๊ง Arataki? เอ๋?! ที่แท้เขาก็ไม่ใช่พวกที่วัน ๆ ไม่ทำอะไรเหรอ?",
       "vi": "Bang Arataki? Ủa?! Hóa ra anh ta không phải người vô công rỗi nghề sao?"
     }
   },
@@ -1658,7 +1658,7 @@
       "fr": "À cause de problèmes liés à l'ordre public et aux risques d'incendie, je me fais souvent emmener devant la Commission administrative pour me faire réprimander. Kujou Sara est la plus rationnelle de tous ses membres. Elle écoute toujours ce que j'ai à dire avant de se prononcer. Si je n'ai vraiment rien fait de mal, elle reconnaît ma position, mais dans le cas contraire... je supplie Thomas de venir s'excuser pour moi, héhé.",
       "pt": "Devido a preocupações com a segurança pública e riscos de incêndio, normalmente sou obrigada a ir até a sede da Comissão Tenryou para levar sermão. Kujou Sara é provavelmente a mais razoável de todos eles. Pelo menos ela me escuta antes de julgar minhas ações. Se eu estiver certa, ela valida minha perspectiva, mas se eu estiver errada... Hehe, aí eu peço para Thoma vir e me ajudar a pedir desculpa para ela!",
       "ru": "Комиссия Тэнрё часто вызывает меня, чтобы зачитать лекцию по вопросам общественной защиты и противопожарной безопасности. Кудзё Сара, пожалуй, самая здравомыслящая из них. По крайней мере, она всегда готова меня выслушать прежде, чем сделать выводы. Если правда на моей стороне, она принимает мою точку зрения, а если нет... Хе-хе, тогда приходится привлекать Тому для извинений!",
-      "id": "Karena masalah keamanan dan risiko kebakaran, aku sering diboyong ke Tenryou Commission untuk diceramahi. Kujou Sara mungkin orang paling rasional yang ada di sana. Setidaknya dia tidak main hukum seenaknya sebelum dengar penjelasan. Kalau aku benar, dia akan maklum. Kalau aku salah... Hehe, aku akan minta Thoma datang dan bantu aku minta maaf!",
+      "id": "Karena masalah keamanan dan risiko kebakaran, aku sering diboyong ke Tenryou Commission untuk diceramahi. Kujou Sara mungkin orang paling rasional yang ada di sana. Setidaknya dia tidak main hukum seenaknya sebelum dengar penjelasan. Kalau aku benar, dia akan maklum. Kalau aku salah ... Hehe, aku akan minta Thoma datang dan bantu aku minta maaf!",
       "th": "เพราะปัญหาด้านความปลอดภัยและการป้องกันเพลิงไหม้ ฉันเลยต้องถูกจับไปนั่งอบรมที่สำนัก Tenryou เป็นประจำ ในบรรดาคนพวกนั้น Kujou Sara น่าจะเป็นคนที่มีเหตุผลที่สุด อย่างน้อยเธอจะฟังฉันอธิบายก่อนแล้วค่อยตัดสินว่าฉันถูกหรือผิด ถ้าฉันเป็นฝ่ายถูก เธอก็จะเห็นด้วยกับมุมมองของฉัน แล้วถ้าฉันผิด... ฮี่ฮี่ ฉันก็ต้องไปตาม Thoma มาช่วยฉันขอโทษเธอน่ะสิ",
       "vi": "Vì vấn đề trật tự trị an, mà tôi thường hay bị bắt đến chỗ của Hiệp Hội Tenryou để giáo huấn. Trong đám người đó, Kujou Sara là người hiểu lý lẽ nhất, chí ít thì cô ấy sẽ không phán đoán tôi đúng hay sai trước khi hiểu rõ tình hình. Nếu tôi đúng, cô ấy sẽ đồng ý với quan điểm của tôi, nếu tôi sai...Hi hi, vậy sẽ nhờ Thoma đi xin lỗi giúp tôi."
     }
@@ -1691,7 +1691,7 @@
       "pt": "Me avise quando você a encontrar, pode ser? Eu gostaria muito de levá-la a um dos festivais e apresentá-la a vários amigos novos. Ela sempre parece um pouco triste, mas se encontrar pessoas com quem possa sair, talvez se anime novamente!",
       "ru": "Скажи мне, если увидишь её. Мне бы очень хотелось сводить её на какой-нибудь праздник и познакомить с новыми друзьями. Она всегда выглядит смурной, но если ей будет с кем провести время, она наверняка воспрянет духом.",
       "id": "Kasih tahu aku kalau kamu ketemu dia, oke? Aku ingin sekali bawa dia ikut ke festival dan mengenalkan banyak teman baru padanya. Dia selalu kelihatan murung, tapi mungkin kalau ketemu teman baru yang bisa main sama-sama, dia akan jadi bersemangat!",
-      "th": "ถ้าได้เจอเธอก็อย่าลืมบอกฉันด้วยนะ ฉันอยากพาเธอไปเที่ยวในงานเทศกาล แล้วก็แนะนำให้เธอรู้จักกับเพื่อนใหม่ ๆ หลายคน ฉันคิดว่าเธอดูไม่ค่อยมีชีวิตชีวาเลย ถ้ามีคนที่เธอไปเล่นด้วยได้ล่ะก็ เธอน่าจะค่อย ๆ ร่าเริงขึ้นนะ",
+      "th": "ถ้าได้เจอเธอก็อย่าลืมบอกฉันด้วยนะ ฉันอยากพาเธอไปเที่ยวงานเทศกาลมาก ๆ เลย แล้วก็แนะนำให้เธอรู้จักกับเพื่อนใหม่ ๆ หลายคน ฉันว่าเธอดูไม่ค่อยมีชีวิตชีวาเลย ถ้ามีคนที่เธอไปเล่นด้วยได้ล่ะก็ เธอน่าจะค่อย ๆ ร่าเริงขึ้นนะ",
       "vi": "Nếu bạn gặp cô ấy, hãy nhớ nói với tôi. Tôi rất muốn dẫn cô ấy tham gia tế lễ, giới thiệu cho cô ấy thật nhiều bạn mới. Vì tôi thấy bình thường tinh thần cô ấy không được tốt, nếu có thể quen biết thêm bạn bè, chắc sẽ dần dần năng động lên."
     }
   },
@@ -1718,11 +1718,11 @@
       "ko": "몬드에 폭탄 제조를 잘하는 아이가 있다고? 사실 폭탄이랑 폭죽은 별 차이 없어. 그러니까, 이쪽 분야의 천재라는 거네? 한번 보고 싶다. 휴, 근데… 애들한테 폭탄은 위험하지 않아? 몬드 사람은 걱정도 안 하나?",
       "en": "Wait, you said there was a kid in Mondstadt who was good at making bombs?... Now, they aren't much different from fireworks. In other words, she might be a genius... Ohh, I'd love to meet her. *sigh* But isn't it dangerous to let children play with explosives? Don't the people of Mondstadt worry about that?",
       "de": "Warte, du sagtest, es gäbe ein Kind in Mondstadt, das gut darin war, Bomben zu bauen? ... Nun, Bomben sind nicht viel anders als Feuerwerkskörper. Mit anderen Worten, sie könnte ein Genie sein ... Ooh, ich würde sie gern kennenlernen. *seufz* Aber ist es nicht gefährlich, Kinder mit Sprengstoff spielen zu lassen? Machen sich die Leute in Mondstadt darüber keine Sorgen?",
-      "es": "Ah, ¿dices que en Mondstadt hay una niña a la que se le da muy bien hacer bombas? Bueno, las bombas no son muy distintas de los fuegos artificiales, así que podría ser una genio... Oh, me encantaría conocerla. *Suspira*, pero... ¿no es peligroso dejar que una niña juegue con explosivos? ¿No les preocupa eso a la gente de Mondstadt?",
+      "es": "Ah, ¿dices que en Mondstadt hay una niña a la que se le da muy bien hacer bombas? Bueno, las bombas no son muy distintas de los fuegos artificiales, así que podría ser una genio... Oh, me encantaría conocerla. *Suspira*, pero... ¿no es peligroso dejar que una niña juegue con explosivos? ¿No le preocupa eso a la gente de Mondstadt?",
       "fr": "Hmm ? Vous dites qu'il y a une petite fille à Mondstadt qui sait fabriquer des bombes ? Les bombes ne sont pas très différentes des feux d'artifice... En gros, elle pourrait être un génie en la matière ? J'aimerais pouvoir la rencontrer. *soupir* Hé, mais... c'est dangereux de laisser des enfants jouer avec des explosifs, non ? Les Mondstadtois ne s'en inquiètent pas ?",
       "pt": "Como é? Você disse que tem uma criança em Mondstadt com grande habilidade para produzir bombas? Bombas e foguetes não são muito diferentes. Em outras palavras, pode ser que ela seja uma gênio... Ah, eu adoraria conhecê-la. *Suspiro* Mas não é perigoso deixar uma criança brincar com explosivos? As pessoas de Mondstadt não se preocupam com ela?",
       "ru": "Хм! Говоришь, в Мондштадте есть маленькая девочка, которая отлично делает бомбы? Они не сильно отличаются от фейерверков, так что, возможно, у неё талант... С удовольствием бы с ней познакомилась. Но разве не опасно позволять детям играть со взрывчаткой? Жителей Мондштадта это не беспокоит?",
-      "id": "Eh? Kamu bilang ada anak kecil di Mondstadt yang bisa bikin bom? Bom tidak jauh beda dengan kembang api loh... yang artinya, dia itu jenius di bidangnya. Ah, aku jadi ingin ketemu. Tapi, kan bahaya kalau anak kecil main-main dengan bahan peledak? Apa orang Mondstadt tidak khawatir soal itu?",
+      "id": "Eh? Kamu bilang ada anak kecil di Mondstadt yang bisa bikin bom? Bom tidak jauh beda dengan kembang api loh ... yang artinya, dia itu jenius di bidangnya. Ah, aku jadi ingin ketemu. Tapi, kan bahaya kalau anak kecil main-main dengan bahan peledak? Apa orang Mondstadt tidak khawatir soal itu?",
       "th": "หืม? เธอพูดถึงเด็กสาวใน Mondstadt ที่เก่งเรื่องการทำระเบิดน่ะเหรอ? อืม จริง ๆ แล้วระเบิดกับดอกไม้ไฟก็ไม่ได้ต่างกันเท่าไหร่นะ นั่นก็หมายความว่า เธอมีพรสวรรค์ด้านนี้ด้วยใช่มั้ย? อยากเจอเธอสักครั้งจังเลย เฮ้อ แต่ว่า... การปล่อยให้เด็กตัวเล็ก ๆ เล่นกับระเบิดมันอันตรายไม่ใช่เหรอ? ชาว Mondstadt ไม่ห่วงเรื่องนี้เลยรึไง?",
       "vi": "Ừm? Bạn nói ở Mondstadt có một đứa trẻ rất giỏi chế tạo bom nổ? Ồ, bom và pháo hoa khác biệt không nhiều, cũng có nghĩa là cô bé là thiên tài về mặt này? Thật muốn được gặp mặt đó. Ây, nhưng mà...để một đứa trẻ chế tạo bom nổ không phải rất nguy hiểm sao? Người Mondstadt không lo lắng sao?"
     }
@@ -1755,7 +1755,7 @@
       "pt": "Posso contar uma história? Ok, ok. Sente-se aqui, e eu vou contar a história que mais me orgulha — a história da família Naganohara! É raro me ouvir falar sobre uma coisa tão séria assim, sabia?",
       "ru": "Хочешь расскажу кое-что? Хорошо, хорошо. Усаживайся здесь, а я расскажу тебе о том, чем горжусь больше всего - об истории семьи Наганохара! А я редко говорю о серьёзном, знаешь ли.",
       "id": "Kamu mau dengar cerita? Oke, oke. Duduklah, aku ceritakan kisah yang paling aku banggakan — kisah keluarga Naganohara! Aku jarang sekali loh cerita hal serius begini.",
-      "th": "อยากฟังฉันเล่าเรื่องเหรอ? ได้สิ ได้สิ นั่งลงตรงนี้นะ ฉันจะเล่าเรื่องของตระกูล Naganohara ที่ฉันสุดแสนจะภูมิใจให้ฟัง! เป็นเหัวข้อสุดจริงจังที่หาฟังได้ยากมากเลยนะ",
+      "th": "อยากฟังฉันเล่าเรื่องเหรอ? ได้สิ ได้สิ นั่งลงตรงนี้นะ ฉันจะเล่าเรื่องของตระกูล Naganohara ที่ฉันสุดแสนจะภูมิใจให้ฟัง! เป็นหัวข้อสุดจริงจังที่หาฟังได้ยากมากเลยนะ",
       "vi": "Muốn nghe tôi kể chuyện à? Được thôi được thôi, ngồi đây này, tôi kể bạn nghe về chuyện nhà Naganohara, chuyện mà tôi thấy tự hào nhất nhé! Đây là một đề tài nghiêm túc hiếm có đó."
     }
   },
@@ -1815,7 +1815,7 @@
       "en": "The loveliest fireworks go along with the most wondrous moments. Tiny little emotions that can easily slip away are captured within these fireworks and passed down in a different form. The notes we give our clients are like a key that awaits those who wish to open a gate to commemorate the past. We at Naganohara are the keepers of that gate.",
       "de": "Das schönste Feuerwerk geht mit den wundersamsten Momenten einher. Winzig kleine Emotionen, die leicht entgleiten können, werden in diesem Feuerwerk eingefangen und in einer anderen Form weitergegeben. Die Notizen, die wir unseren Kunden geben, sind wie ein Schlüssel, der auf diejenigen wartet, die ein Tor öffnen wollen, um sich an die Vergangenheit zu erinnern. Wir bei den Naganoharas sind die Hüter dieses Tores.",
       "es": "Los fuegos artificiales más bellos son ideales para los momentos más maravillosos. Los fuegos capturan una efímera emoción que se transmite de una forma distinta. Las notas que damos a nuestros clientes son como llaves que esperan a aquellos que desean abrir una puerta para conmemorar el pasado, y la familia Naganohara vigila esa puerta.",
-      "fr": "Les plus beaux feux d'artifice créent des instants inoubliables. Les émotions passagères sont immortalisées grâce aux feux d'artifice et se transmettent sous une autre forme. Les notes que nous donnons à nos clients sont des clés qui leur permet de commémorer leurs souvenirs heureux, dont nous sommes les gardiens.",
+      "fr": "Les plus beaux feux d'artifice créent des instants inoubliables. Les émotions passagères sont immortalisées grâce aux feux d'artifice et se transmettent sous une autre forme. Les notes que nous donnons à nos clients sont des clés qui leur permettent de commémorer leurs souvenirs heureux, dont nous sommes les gardiens.",
       "pt": "Os mais belos fogos de artifício estão ligados aos nossos momentos mais mágicos. Pequenas emoções, que poderiam facilmente desaparecer, são capturadas dentro desses fogos de artifício, e transmitidas de uma forma nova. Os registros que damos aos nossos clientes funcionam como uma chave, à espera daqueles que desejam abrir um portão para comemorar o passado. Nós, da família Naganohara, somos os guardiões desse portão.",
       "ru": "Самые прекрасные фейерверки сопровождают самые чудесные события. Неуловимые оттенки эмоций, которые так легко ускользают в небытие, запечатлеваются в наших фейерверках и передаются дальше в другом облике. Записки, которые мы оставляем нашим клиентам, подобны ключу к вратам, открыв которые можно отдать дань прошлому. Мы в Наганохаре - хранители этих врат.",
       "id": "Kembang api yang paling cantik menyertai momen-momen yang paling menakjubkan. Perasaan yang mudah dilupakan akan tetangkap oleh kembang api dan diperlihatkan dalam bentuk yang berbeda. Catatan yang kami berikan kepada klien kami ibarat kunci pintu kenangan yang menunggu untuk dibuka. Tugas kami di Naganohara menjaga pintu itu baik-baik.",
@@ -1850,8 +1850,8 @@
       "fr": "Lors du festival d'été, des histoires émouvantes naissent à chaque instant. Les personnes qui se sont rencontrées sous les feux d'artifice grandissent, mûrissent et finissent par vieillir. Quand ils tirent les mêmes feux d'artifice que lors de leur première rencontre, le ciel reflète le même paysage après tant d'années... Les feux d'artifice ne sont pas éternels, mais les merveilleuses émotions qui y sont associées devraient être aussi éternelles qu'Inazuma.",
       "pt": "Cada instante do festival de verão é um conto em movimento. Aqueles que se encontram sob as luzes dos fogos de artifício crescem, amadurecem e envelhecem. Quando soltam os mesmos fogos de artifício que haviam sido soltados no princípio, os céus refletem a mesma imagem de anos atrás... Os fogos de artifício não são eternos, mas eu acredito que as lindas emoções que se escondem por trás deles devem acompanhar Inazuma por toda eternidade.",
       "ru": "Каждое мгновение праздника лета порождает трогательные истории. Познакомившиеся при свете фейерверков люди вырастают, взрослеют и, рано или поздно, стареют. Запуская фейерверки, под вспышками которых они начинали свой путь, люди могут снова увидеть небо, каким оно было для них много лет назад... Фейерверки не вечные, но я думаю, что чудесные эмоции, которые они вызывают, заслуживают того, чтобы вместе с Инадзумой войти в вечность.",
-      "id": "Setiap momen di festival musim panas adalah suatu kisah yang menyentuh. Mereka yang bertemu di bawah cahaya kembang api tumbuh, dewasa, dan jadi tua. Saat mereka menyalakan kembang api yang sama, langit pun akan memantulkan pemandangan yang sama... Kembang api tidak abadi, tapi aku yakin kalau perasaan dan makna yang terkandung di dalamnya harus terus ada, bersama Inazuma menuju keabadian.",
-      "th": "ทุกช่วงเวลาของงานเทศกาลฤดูร้อนเป็นเหมือนเรื่องราวที่มีชีวิต ผู้คนที่พบกันใต้แสงดอกไม้ไฟจะค่อย ๆ เติบโต, เป็นผู้ใหญ่, และแก่ตัวลงในที่สุด เมื่อพวกเขาจุดดอกไม้ไฟที่พวกเขาเคยจุดในตอนแรก ผืนฟ้าจะยังคงฉายภาพในวันวานของพวกเขา... ถึงดอกไม้ไฟจะไม่ได้คงอยู่ชั่วนิรันดร์ แต่ความทรงจำแสนวิเศษที่ซ่อนอยู่ในดอกไม้ไฟพวกนี้ ฉันคิดว่ามันควรจะเดินเคียงข้าง Inazuma ไปสู่นิรันดร์",
+      "id": "Setiap momen di festival musim panas adalah suatu kisah yang menyentuh. Mereka yang bertemu di bawah cahaya kembang api tumbuh, dewasa, dan jadi tua. Saat mereka menyalakan kembang api yang sama, langit pun akan memantulkan pemandangan yang sama ... Kembang api tidak abadi, tapi aku yakin kalau perasaan dan makna yang terkandung di dalamnya harus terus ada, bersama Inazuma menuju keabadian.",
+      "th": "ทุกช่วงเวลาของงานเทศกาลฤดูร้อนเป็นเหมือนเรื่องราวที่มีชีวิต ผู้คนที่พบกันใต้แสงดอกไม้ไฟจะค่อย ๆ เติบโต, เป็นผู้ใหญ่ และแก่ตัวลงในที่สุด เมื่อพวกเขาจุดดอกไม้ไฟที่พวกเขาเคยจุดในตอนแรก ผืนฟ้าจะยังคงฉายภาพในวันวานของพวกเขา... ถึงดอกไม้ไฟจะไม่ได้คงอยู่ชั่วนิรันดร์ แต่ความทรงจำแสนวิเศษที่ซ่อนอยู่ในดอกไม้ไฟพวกนี้ ฉันคิดว่ามันน่าจะเดินเคียงข้าง Inazuma ไปสู่นิรันดร์",
       "vi": "Trong tế lễ mùa hè, mỗi một khắc đều nảy sinh ra những câu chuyện cảm động, dưới bầu trời pháo hoa con người làm quen nhau, họ dần dần lớn lên, trưởng thành, cuối cùng già đi. Khi họ bắn lên trời pháo hoa của năm ấy, trên bầu trời xuất hiện cảnh tượng giống y hệt như họ thấy vào năm xưa...Pháo hoa không phải vĩnh hằng, nhưng tình cảm diệu kỳ ẩn chứa trong pháo hoa, tôi nghĩ rằng nên cùng Inazuma hướng đến vĩnh hằng."
     }
   },
@@ -1879,7 +1879,7 @@
       "en": "I shan't tell the final tale, I think. Instead, let's watch the fireworks together in silence. You can record the beautiful scenery and all the things you wanna say down. Not that this is the end, of course. On the contrary, I believe that our story is only just beginning.",
       "de": "Ich werde die letzte Geschichte nicht erzählen, denke ich. Stattdessen wollen wir uns das Feuerwerk gemeinsam in Ruhe ansehen. Du kannst die schöne Szenerie und all die Dinge, die du sagen willst, aufzeichnen. Nicht, dass dies das Ende wäre, natürlich. Im Gegenteil, ich glaube, dass unsere Geschichte erst am Anfang steht.",
       "es": "#En vez de contarte una última historia, veamos junt{F#as}{M#os} los fuegos artificiales en silencio. Puedes grabar en tu memoria el paisaje y todas las cosas que quieras decir. Oh, no, este no es el fin de nada. Por el contrario, creo que nuestra historia no ha hecho más que empezar.",
-      "fr": "Je pense que je ne devrais pas te raconter la dernière histoire. À la place, j'aimerais regarder des feux d'artifice tranquillement avec vous pour m'imprégner de la beauté de cette nuit et de vos paroles. Ne vous méprenez pas : ce n'est la fin de notre histoire, mais plutôt son début.",
+      "fr": "Je pense que je ne devrais pas vous raconter la dernière histoire. À la place, j'aimerais regarder des feux d'artifice tranquillement avec vous pour m'imprégner de la beauté de cette nuit et de vos paroles. Ne vous méprenez pas : ce n'est pas la fin de notre histoire, mais plutôt son début.",
       "pt": "#Não contarei o final da história, eu acho. Em vez disso, vamos assistir os fogos de artifício junt{M#o}{F#a}s, em silêncio. Você pode escrever a respeito da beleza da paisagem e tudo o que você gostaria de dizer. Não que este seja o fim, é claro. Muito pelo contrário. Acredito que nossa história esteja apenas começando.",
       "ru": "Последнюю историю я, пожалуй, рассказывать не буду. Давай лучше полюбуемся фейерверками в тишине. О прекрасном пейзаже, что нас окружает, и обо всём том, что хочешь сказать, можешь записать на бумаге. Нет-нет, я не говорю, что на этом всё заканчивается. Напротив, я думаю, что это лишь начало нашей истории...",
       "id": "Kurasa aku tidak perlu menceritakan kisah yang terakhir. Mendingan kita sama-sama nonton kembang api, dengan tenang, dalam diam. Rekam pemandangan dan semua yang ingin kamu katakan. Ini bukan akhir, tapi sebaliknya. Aku percaya kalau kisah kita baru akan dimulai.",
@@ -1914,7 +1914,7 @@
       "fr": "Les feux d'artifice ! Ah, ça ne compte pas ? Eh bien, voyons, hum... c'est une question difficile... J'aime parler avec mes voisins de leurs vies familiales, aller aux festivals d'été avec les enfants, nager, cueillir des fruits sauvages... Je n'arrive pas à choisir mon passe-temps préféré... Oh, je sais ! En fin de compte, ce que j'aime, c'est de passer du temps avec tout le monde !",
       "pt": "Fogos de Artifício! Espera, isso não conta? Bem, então vou ter que pensar. Hmm... Esta é difícil. Gosto de conversar com meus vizinhos, gosto de ir aos festivais de verão com as crianças, de nadar, de colher frutas selvagens... Ah, não consigo decidir de qual dessas coisas eu gosto mais... Espera, já sei! Gosto de brincar com todo mundo!",
       "ru": "Фейерверки! Что, не считается? Тогда нужно подумать. Эм... Хороший вопрос. Мне нравится болтать с соседями, ходить с детьми на праздники, плавать, собирать дикие фрукты... Ох, не могу выбрать, что же мне нравится больше всего... Стой, я поняла! Я обожаю со всеми играть!",
-      "id": "Kembang api! Hah, itu tidak dihitung? Kalau begitu, aku pikir-pikir lagi. Ah... ini susah juga. Aku suka ngobrol dengan tetangga, suka pergi ke festival musim panas sama anak-anak, berenang, petik buah liar... aku bingung mana yang paling aku suka. Ah, aku tahu! Aku suka main dengan semua orang!",
+      "id": "Kembang api! Hah, itu tidak dihitung? Kalau begitu, aku pikir-pikir lagi. Ah ... ini susah juga. Aku suka ngobrol dengan tetangga, suka pergi ke festival musim panas sama anak-anak, berenang, petik buah liar ... aku bingung mana yang paling aku suka. Ah, aku tahu! Aku suka main dengan semua orang!",
       "th": "ดอกไม้ไฟ! หา? ไม่นับอันนี้เหรอ? งั้นฉันคิดดูก่อน เอ่อ... คำถามนี้ยากจัง ฉันชอบคุยกับเพื่อนบ้าน และฉันก็ชอบไปเที่ยวเล่น, ว่ายน้ำ และเก็บผลไม้ป่ากับเด็ก ๆ ในเทศกาลฤดูร้อน อ่า จะเลือกเรื่องไหนดีนะ...โอ้ รู้แล้ว! สิ่งที่ชอบคือการได้เล่นกับทุกคนไงล่ะ!",
       "vi": "Pháo hoa! A, cái này không tính sao? Vậy để tôi nghĩ xem, ưm...vấn đề này thật khó, tôi thích trò chuyện với hàng xóm, thích tham gia lễ hội mùa hè với trẻ con, bơi lội, hái quả dại, hình như không thể nào chọn ra một cái đặc biệt ra...À, tôi hiểu rồi, cái tôi thích, chính là chơi cùng mọi người."
     }
@@ -1978,7 +1978,7 @@
       "fr": "Le roman que je suivais depuis un bon moment vient de toucher à sa fin. L'héroïne perd la mémoire et le mariage prévu n'a pas lieu... C'est si triste, pourquoi ?!",
       "pt": "Hmm, o livro que eu estava lendo há muito tempo finalmente terminou. Mas a protagonista perdeu sua memória, e o casamento planejado não deu certo... Que triste...",
       "ru": "Я наконец дочитала очень длинный роман. Закончилось тем, что его героиня потеряла память, а свадьба расстроилась... Как грустно!",
-      "id": "Novel yang sudah lama aku baca akhirnya habis. Tapi tokoh utamanya kehilangan ingatan, lalu pernikahan yang sudah direncanakan pun jadi batal... sedih sekali...",
+      "id": "Novel yang sudah lama aku baca akhirnya habis. Tapi tokoh utamanya kehilangan ingatan, lalu pernikahan yang sudah direncanakan pun jadi batal ... sedih sekali ....",
       "th": "เอ่อ ฉันตามอ่านนิยายเรื่องนึงมาตั้งนาน แล้วพอถึงตอนจบ นางเอกความจำเสื่อม งานแต่งที่วางแผนไว้ก็ไม่ได้จัด... เศร้าชะมัด จบแบบนี้ได้ยังไงกัน!",
       "vi": "Ừm, tiểu thuyết mà tôi đang theo suốt một thời gian dài, cuối cùng đã đến hồi kết, kết quả là nhân vật nữ chính mất trí nhớ, không thể cử hành hôn lễ đã định trước đó...Thật là buồn, sao lại như vậy chứ!"
     }
@@ -1995,7 +1995,7 @@
       "fr": "Plats préférés...",
       "pt": "Comida favorita...",
       "ru": "Любимая еда...",
-      "id": "Makanan yang disukai",
+      "id": "Makanan Favorit",
       "th": "อาหารที่ชอบ...",
       "vi": "Món ăn yêu thích..."
     },
@@ -2011,7 +2011,7 @@
       "pt": "Gosto mais das sobremesas do que dos pratos principais. Eu sempre pulo de tenda em tenda durante os festivais, comendo o que encontro na frente. A propósito, você sabe fazer sobremesas? Eu troco os dangos que eu fiz com você. Pode ficar com esses grandões!",
       "ru": "Мне десерты нравятся больше всего. Во время праздников я всегда ем на ходу, переходя от палатки к палатке. А ты умеешь готовить вкусные десерты? Давай поменяемся - я тебе дам данго, которое сама сделала. Бери вот эти, они покрупнее.",
       "id": "Aku lebih suka makan camilan daripada makan berat. Waktu festival, aku suka jalan dari satu kios ke kios lainnya, makan sambil jalan-jalan. Ngomong-ngomong, apa kamu jago bikin camilan? Kutukar dengan dango buatanku. Ini, yang besar-besar buat kamu.",
-      "th": "ฉันชอบกินของว่างมากกว่าอาหารจานหลัก ทุกครั้งที่มีงานเทศกาลฉันจะชิมอาหารไล่ไปทีละร้าน ๆ จะกินจนกว่าจะยัดไม่ลง จริงสิ เธอทำของว่างเก่งรึเปล่า? ฉันขอแลกดังโงะที่ฉันทำไว้กับเธอนะ ฉันจะเลือกลูกใหญ่ ๆ ให้เลย",
+      "th": "ฉันชอบกินของว่างมากกว่าอาหารจานหลัก ทุกครั้งที่มีงานเทศกาลฉันจะไล่ชิมอาหารไปทีละร้าน ๆ จะกินจนกว่าจะยัดไม่ลง จริงสิ เธอทำของว่างเก่งรึเปล่า? ฉันขอแลกดังโงะที่ฉันทำไว้กับเธอนะ ฉันจะเลือกลูกใหญ่ ๆ ให้เลย",
       "vi": "So với món chính, thì tôi càng thích ăn điểm tâm hơn, mỗi dịp lễ, tôi đều sẽ đến từng quầy để ăn, đến khi nào ăn hết nổi mới thôi. Đúng rồi, bạn giỏi làm điểm tâm không? Tôi sẽ dùng Dango tôi làm để đổi với bạn, mấy cái lớn này đều cho bạn hết."
     }
   },
@@ -2027,7 +2027,7 @@
       "fr": "Plats détestés...",
       "pt": "Comida que detesta...",
       "ru": "Нелюбимая еда...",
-      "id": "Makanan yang tidak disukai",
+      "id": "Makanan yang Tidak Disukai",
       "th": "อาหารที่เกลียด...",
       "vi": "Món ăn ghét nhất..."
     },
@@ -2041,8 +2041,8 @@
       "es": "La leche. Hace que sienta fuegos artificiales en el estómago... *¡crac, bum!*. Pero sí puedo aguantar la comida hecha con leche. Debo de tener en el estómago un Seelie muy quisquilloso con la comida.",
       "fr": "Le lait. Quand j'en bois, c'est comme s'il y avait des feux d'artifice dans mon estomac. Mais je peux manger des aliments faits avec du lait pour une raison qui m'échappe. Peut-être que les fées dans mon ventre sont plus exigeantes que celles des autres ?",
       "pt": "O leite sempre me dá fogos de artifício no estômago — caboom! Mas, por algum motivo, consigo comer sobremesas feitas com leite sem problema algum. Talvez o pequeno Seelie que vive no meu estômago seja mais exigente do que os demais.",
-      "ru": "Молоко запускает настоящие фейерверки в моём желудке - брр-р, бабах! А вот блюда и десерты с добавлением молока таких проблем почему-то не вызывают. Наверное, фея, которая живёт у меня в животе, просто немного привередливая.",
-      "id": "...Susu tidak pernah gagal menyulut kembang api di dalam perutku — kreek, bum! Paham kan maksudnya? Tapi aku bisa makan masakan atau camilan yang terbuat dari susu. Hmm. Mungkin Seelie di perutku lebih pemilih ya.",
+      "ru": "Молоко запускает настоящие фейерверки в моём желудке - бр-р-р, бабах! А вот блюда и десерты с добавлением молока таких проблем почему-то не вызывают. Наверное, фея, которая живёт у меня в животе, просто немного привередливая.",
+      "id": "Susu tidak pernah gagal menyulut kembang api di dalam perutku — kreek, bum! Paham kan maksudnya? Tapi aku bisa makan masakan atau camilan yang terbuat dari susu. Hmm. Mungkin Seelie di perutku lebih pemilih ya.",
       "th": "นมวัว ดื่มนมวัวทีไรรู้สึกยังกับจุดดอกไม้ไฟอยู่ในท้องอย่างงั้นแหละ โป้งป้าง โป้งป้าง อยู่ในท้อง แต่ฉันกินอาหารหรือของว่างที่ใส่นมได้นะ ฉันก็ไม่รู้เหมือนกันว่าทำไม อาจเป็นเพราะว่า Seelie ที่อยู่ในท้องเป็นคนเลือกกินรึเปล่านะ?",
       "vi": "Sữa tươi. Uống sữa vào thì bụng như bắn pháo hoa ở trong đó vậy, bùm bùm bụp bụp. Nhưng mà cho sữa vào thức ăn hoặc làm điểm tâm thì tôi ăn được, tôi cũng không hiểu tại sao. Có lẽ tiểu tiên linh trong bụng hơi kén ăn?"
     }
@@ -2071,11 +2071,11 @@
       "en": "Birthdays are never occasions for yourself alone. Those who send you cakes, light candles, applaud, and cheer... They are all truly thankful that you were born into this world. That's why it must be a lively occasion, so that everyone can get their chance to thank you! Well then — happy birthday! Are you ready? I'm about to ignite the fireworks!",
       "de": "Geburtstage sind nie Anlässe für dich allein. Diejenigen, die dir Kuchen schicken, Kerzen anzünden, applaudieren und jubeln ... Sie alle sind aufrichtig dankbar, dass du auf diese Welt gekommen bist. Deshalb muss es ein lebendiger Anlass sein, damit jeder seine Chance bekommt, dir zu danken! Na dann, herzlichen Glückwunsch zum Geburtstag! Bist du bereit? Ich werde gleich das Feuerwerk zünden!",
       "es": "#Los cumpleaños nunca son ocasiones para estar solo. Las personas que te envían pasteles, prenden velas, te aplauden, te animan... Todas ellas están profundamente agradecidas de que nacieras. Por eso debe ser una ocasión feliz, para que todo el mundo pueda darte las gracias. Así que ¡feliz cumpleaños! ¿Estás list{F#a}{M#o} para unos fuegos artificiales?",
-      "fr": "#Les anniversaires ne sont jamais une fête pour vous seul. Les gens qui vous apportent un gâteau, en allument les bougies et vous souhaitent le meilleur sont véritablement heureux que vous existez. Il faut que l'ambiance soit bonne, pour que tout le monde ait l'occasion de vous remercier d'être dans leurs vies ! Alors, joyeux anniversaire ! {M#Prêt}{F#Prête} ? Je vais allumer les feux d'artifice !",
+      "fr": "#Les anniversaires ne sont jamais une fête pour vous seul. Les gens qui vous apportent un gâteau, en allument les bougies et vous souhaitent le meilleur sont véritablement heureux que vous existiez. Il faut que l'ambiance soit bonne, pour que tout le monde ait l'occasion de vous remercier d'être dans leurs vies ! Alors, joyeux anniversaire ! {M#Prêt}{F#Prête} ? Je vais allumer les feux d'artifice !",
       "pt": "#Os aniversários nunca são ocasiões que devemos comemorar sozinhos. Aqueles que nos mandam bolos, velas, aplaudem, cantam... Todos eles estão realmente felizes por termos vindo a este mundo. É por isso que o aniversário deve ser alegre, para que todos possam ter uma chance de nos agradecer! Neste caso — feliz aniversário! Preparad{M#o}{F#a}? Vou soltar fogos de artifício!",
       "ru": "День рождения - это не только твой праздник. Люди, которые дарят тебе торты, зажигают свечи, хлопают в ладоши, поздравляют тебя... Они действительно благодарны за то, что ты есть на свете. Поэтому отмечать этот день нужно весело и с гостями, чтобы у каждого была возможность выразить тебе свою благодарность! Так что с днём рождения тебя! Приготовься! Сейчас будет фейерверк!",
-      "id": "Ulang tahun itu bukan acara buat diri sendiri saja. Mereka yang kirim kue, menyalakan lilin, tepuk tangan, dan bersorak... Semuanya benar-benar bersyukur kamu dilahirkan ke dunia ini. Itu sebabnya acaranya harus meriah, sehingga semua punya kesempatan untuk bersyukur! Nah... selamat ulang tahun! Sudah siap? Aku nyalakan kembang apinya!",
-      "th": "วันเกิดไม่ใช่วันพิเศษของเธอคนเดียวหรอกนะ คนที่มอบเค้กให้เธอ, คนที่จุดเทียน, คนที่ปรบมือและร้องเชียร์ เป็นคนที่รู้สึกขอบคุณที่เธอเกิดมาบนโลกใบนี้ เพราะฉะนั้น ต้องคึกคักกันหน่อยถึงจะถูก ต้องให้โอกาสทุกคนมาขอบคุณเธอไงล่ะ! เพราะงั้น สุขสันต์วันเกิด! เตรียมตัวเสร็จรึยัง? ฉันจะจุดดอกไม้ไฟล่ะนะ!",
+      "id": "Ulang tahun itu bukan acara buat diri sendiri saja. Mereka yang kirim kue, menyalakan lilin, tepuk tangan, dan bersorak ... Semuanya benar-benar bersyukur kamu dilahirkan ke dunia ini. Itu sebabnya acaranya harus meriah, sehingga semua punya kesempatan untuk bersyukur! Nah ... selamat ulang tahun! Sudah siap? Aku nyalakan kembang apinya!",
+      "th": "วันเกิดไม่ใช่วันพิเศษของเธอคนเดียวหรอกนะ คนที่มอบเค้กให้เธอ, คนที่จุดเทียน, คนที่ปรบมือและร้องเชียร์ เป็นคนที่รู้สึกขอบคุณที่เธอเกิดมาบนโลกใบนี้ เพราะฉะนั้น ต้องคึกคักกันหน่อยสิถึงจะถูก ต้องให้โอกาสทุกคนมาขอบคุณเธอไงล่ะ! เพราะงั้น สุขสันต์วันเกิด! เตรียมตัวเสร็จรึยัง? ฉันจะจุดดอกไม้ไฟล่ะนะ!",
       "vi": "Sinh nhật không phải ngày lễ của riêng mình bạn đâu, những người tặng bánh kem, thắp nến, vỗ tay hoan hô cho bạn, đều là từ tận đáy lòng cảm tạ bạn đã đến với thế giới này. Cho nên, nhất định phải thật náo nhiệt mới được, để mọi người có cơ hội cảm ơn bạn! Vậy, sinh nhật vui vẻ! Chuẩn bị sẵn sàng chưa? Tôi bắn pháo hoa đây!"
     }
   },
@@ -2170,7 +2170,7 @@
       "fr": "Je ne pensais pas apprendre autant de techniques de combat avec vous, alors pourquoi ne pas me lancer à temps partiel comme aventurière en plus de mon activité de pyrotechnicienne, ou... devenir une héroïne ?",
       "pt": "Com todas as habilidades de combate que aprendi com você, talvez eu devesse ser uma aventureira também, além do meu trabalho diário produzindo fogos de artifício... ou será que eu deveria me tornar uma “heroína”?",
       "ru": "Я научилась у тебя стольким боевым навыкам, что мне уже можно подрабатывать искателем приключений, когда я не занята своей основной работой - изготовлением фейерверков... а может, мне и вовсе стать героем?",
-      "id": "Dengan semua ilmu tempur yang kupelajari darimu, aku harusnya ikutan jadi petualang, maskudku selain kerjaan sehari-hari membuat kembang api. Woohh... apa aku jadi pahlawan saja ya?",
+      "id": "Dengan semua ilmu tempur yang kupelajari darimu, aku harusnya ikutan jadi petualang, maskudku selain kerjaan sehari-hari membuat kembang api. Woohh ... apa aku jadi pahlawan saja ya?",
       "th": "ได้มีโอกาสเรียนทักษะการต่อสู้หลายอย่างจากเธอทั้งที นอกจากเป็นช่างดอกไม้ไฟแล้ว ฉันควรจะรับงานเสริมเป็นนักผจญภัย... หรือไม่ก็เป็น \"ฮีโร่\" ด้วยดีมั้ย?",
       "vi": "Khó có dịp học được nhiều kỹ năng chiến đấu từ bạn, hay là ngoài việc làm thợ pháo hoa ra, tôi kiêm thêm việc của Nhà Mạo Hiểm nhỉ, hoặc là... \"anh hùng\" cũng không tồi?"
     }

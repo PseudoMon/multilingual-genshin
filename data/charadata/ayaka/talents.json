@@ -12,7 +12,7 @@
       "pt": "Arte Kamisato: Naname",
       "ru": "Искусство Камисато: Нанамэ",
       "id": "Kamisato Art: Kabuki",
-      "th": "โจมตีปกติ - Kamisato Art: Kabuki",
+      "th": "โจมตีปกติ: Kamisato Art - Kabuki",
       "vi": "Tấn Công Thường - Trường Phái Kamisato: Naname"
     },
     "description": {
@@ -29,8 +29,7 @@
       "id": "<color=#FFD780FF>Normal Attack</color>\nMelancarkan maks. 5 tebasan pedang.\n\n<color=#FFD780FF>Charged Attack</color>\nMengonsumsi sejumlah Stamina untuk terus mengerahkan rentetan tebasan.\n\n<color=#FFD780FF>Plunging Attack</color>\nMenukik dari langit dan menghantam tanah, menyerang musuh di jalurnya dan mengakibatkan DMG Area saat mendarat.",
       "th": "<color=#FFD780FF>โจมตีปกติ</color>\nใช้ดาบโจมตีต่อเนื่องมากสุดห้าครั้ง\n\n<color=#FFD780FF>ชาร์จโจมตี</color>\nใช้พลังกายส่วนหนึ่งเพื่อปลดปล่อยคลื่นดาบผ่าอากาศออกมาโจมตีต่อเนื่อง\n\n<color=#FFD780FF>โจมตีพุ่งลงจากอากาศ</color>\nกระโจนจากกลางอากาศลงมายังพื้นดินเพื่อโจมตีศัตรูที่อยู่ในเส้นทางการโจมตี โดยจะสร้างความเสียหายวงกว้างเมื่อลงถึงพื้น",
       "vi": "<color=#FFD780FF>Tấn công thường</color>\nThực hiện tối đa 5 lần đánh kiếm liên tiếp.\n\n<color=#FFD780FF>Trọng Kích</color>\nTiêu hao thể lực nhất định, liên tiếp phóng ra kiếm gió ở chính giữa.\n\n<color=#FFD780FF>Tấn công khi đáp</color>\nĐáp xuống đất từ trên không, tấn công kẻ địch trên đường và gây sát thương phạm vi khi chạm đất."
-    },
-    "imgid": "s_23101"
+    }
   },
   {
     "title": {
@@ -62,8 +61,7 @@
       "id": "Memanggil dan menerbangkan bunga es ke arah musuh di sekitar untuk mengakibatkan <color=#99FFFFFF>Cryo DMG Area</color>.\n\n<i>\"Awan menyelimuti langit malam yang cerah diterangi rembulan. Rasa rindu yang timbul layaknya kabut, memenuhi hati seseorang dengan keinginan tuk' mengembara.\"</i>",
       "th": "เรียกดอกไม้น้ำแข็งที่เบ่งบานออกมา เพื่อโจมตีศัตรูที่อยู่โดยรอบให้กระเด็นและสร้าง<color=#99FFFFFF>ความเสียหายน้ำแข็งวงกว้าง</color>\n\n<i>\"หมู่เมฆกระจ่างใสในคืนเดือนหงาย ความมัวเมาเพ้อฝันดั่งสายหมอก เติมเต็มจิตใจที่ถูกกักขังด้วยความลุ่มหลงแห่งการเดินทาง\"</i>",
       "vi": "Đánh thức đóa hoa băng nở rộ, đánh bay kẻ địch bên cạnh và gây <color=#99FFFFFF>sát thương phạm vi Nguyên Tố Băng</color>.\n\n<i>\"Mây lãng đãng, trăng nhạt nhòa, sương mù mờ ảo, trái tim say đắm miền rong ruổi.\"</i>"
-    },
-    "imgid": "s_23201"
+    }
   },
   {
     "title": {
@@ -95,8 +93,7 @@
       "id": "<color=#FFD780FF>Alternate Sprint</color>\nAyaka mengonsumsi energi untuk bersembunyi di balik es dan salju yang mengikuti gerakannya.\n\nDalam status Senho, Ayaka akan bergerak dengan kecepatan tinggi di atas permukaan air.\nSaat Ayaka muncul kembali, efek berikut akan berlaku:\n·Melepaskan energi dingin yang menambahkan efek <color=#99FFFFFF>Cryo</color> kepada musuh di sekitar.\n·Energi dingin berkumpul di bilah pedang dan dalam waktu singkat membuat serangan Ayaka memperoleh infusi <color=#99FFFFFF>Cryo</color>.\n\n<i>\"Bulu-bulu basah yang indah menghilang dalam sekejap, sang bangau putih pun menapaki air tanpa cela.\"</i>",
       "th": "<color=#FFD780FF>Alternate Sprint</color>\nหลบเข้าไปในรอยแยกน้ำแข็งโดยแลกกับพลังกาย เปลี่ยนเป็นกระแสน้ำและเคลื่อนที่อย่างรวดเร็ว\n\nภายใต้สภาวะของ Senho จะทำให้ Ayaka สามารถเคลื่อนที่ได้อย่างรวดเร็วเหนือผิวน้ำ\nเมื่อ Senho สิ้นสุดลงและปรากฏตัว จะทำให้เกิดเอฟเฟกต์ดังนี้:\n·ปลดปล่อยพลังของน้ำแข็ง เพื่อทำให้ศัตรูโดยรอบติดสภาวะ<color=#99FFFFFF>ธาตุน้ำแข็ง</color>;\n·จะสะสมไอเย็นไว้ที่คมดาบ ซึ่งจะทำให้ Ayaka ได้รับ<color=#99FFFFFF>พลังแห่งน้ำแข็ง</color>ในช่วงเวลาสั้น ๆ\n\n<i>\"น้ำกระเซ็นลงบนขนนกและซึมหายวับไป กระเรียนขาวที่ย่ำอยู่เหนือน้ำจะบ่นอะไรได้?\"</i>",
       "vi": "<color=#FFD780FF>Thay thế xung kích</color>\nẨn vào vụn băng, tiêu hao thể lực để hóa thành dòng chảy cực nhanh.\n\nỞ trạng thái Senho, Kamisato Ayaka có thể di chuyển nhanh trên mặt nước.\nKhi dừng trạng thái Senho và hiện thân, sẽ sinh ra hiệu quả sau:\n·Thi triển sức mạnh hàn băng, <color=#99FFFFFF>đính kèm Nguyên Tố Băng</color> lên kẻ địch xung quanh;\n·Ngưng tụ khí lạnh trên kiếm, khiến Kamisato Ayaka nhận <color=#99FFFFFF>Nguyên Tố Băng đính kèm</color> trong thời gian ngắn.\n\n<i>\"Nước đọng trên cánh vụt tan biến, hạc trắng đạp nước oán hận chi?\"</i>"
-    },
-    "imgid": "s_23301"
+    }
   },
   {
     "title": {
@@ -128,8 +125,7 @@
       "id": "Memanggil es dengan ketenangan tanpa cela, lalu melepaskan Frostflake Seki no To yang terus bergerak maju.\n\n<color=#FFD780FF>Frostflake Seki no To</color>\n·Terus-menerus menebas musuh yang disentuhnya dengan angin dingin setajam pisau dan mengakibatkan <color=#99FFFFFF>Cryo DMG</color>;\n·Terbuka mekar setelah durasinya berakhir dan mengakibatkan <color=#99FFFFFF>Cryo DMG Area</color>.\n\n<i>\"Badai salju memenuhi pikiran sang bangau, sedang rasa iba yang berat membebani hatinya.\"</i>",
       "th": "รวบรวมน้ำค้างแข็งด้วยกระบวนท่าอันไร้ที่ติ ปล่อย Frostflake Seki no To ที่จะเคลื่อนที่ไปข้างหน้าอย่างต่อเนื่องออกมา\n\n<color=#FFD780FF>Frostflake Seki no To</color>\n·ฟาดฟันศัตรูที่สัมผัสโดนอย่างต่อเนื่อง ด้วยสายลมอันเย็นยะเยือกที่คมราวกับใบมีด เกิดเป็น<color=#99FFFFFF>ความเสียหายน้ำแข็ง</color>;\n·เบ่งบานเมื่อช่วงเวลาต่อเนื่องสิ้นสุดลง และสร้าง<color=#99FFFFFF>ความเสียหายน้ำแข็งวงกว้าง</color>\n\n<i>\"พายุหิมะปกคลุมความคิดของนกกระเรียน พอกพูนความสงสารที่หนักอึ้งอยู่ในใจ\"</i>",
       "vi": "Triệu hồi băng giá với dáng vẻ hoàn hảo, thi triển Cổng Băng Tuyết liên tục về phía trước.\n\n<color=#FFD780FF>Cổng Băng Tuyết</color>\n·Dùng gió tuyết sắc như đao nhọn chém liên tục vào kẻ địch tiếp xúc, gây <color=#99FFFFFF>sát thương Nguyên Tố Băng</color>;\n·Khi hết thời gian sẽ bung tỏa, gây <color=#99FFFFFF>sát thương phạm vi Nguyên Tố Băng</color>.\n\n<i>\"Tuyết phủ thân hạc, vùi lấp tâm tư, tận đáy lòng nặng trĩu nỗi bi ai.\"</i>"
-    },
-    "imgid": "s_23901"
+    }
   },
   {
     "title": {
@@ -161,8 +157,7 @@
       "id": "Setelah menggunakan <color=#FFD780FF>Kamisato Art: Hyouka</color>, meningkatkan 30% DMG Normal dan Charged Attack Kamisato Ayaka selama 6 detik.",
       "th": "ภายใน 6 วินาที หลังจากใช้ <color=#FFD780FF>Kamisato Art: Hyouka</color> การโจมตีปกติและชาร์จโจมตีของ Kamisato Ayaka จะสร้างความเสียหายเพิ่มขึ้น 30%",
       "vi": "Trong vòng 6s sau khi thi triển <color=#FFD780FF>Trường Phái Kamisato - Hyouka</color>, sát thương gây ra bởi tấn công thường và trọng kích của Kamisato Ayaka tăng 30%."
-    },
-    "imgid": "p_22101"
+    }
   },
   {
     "title": {
@@ -194,8 +189,7 @@
       "id": "Jika efek Cryo di akhir <color=#FFD780FF>Kamisato Art: Senho</color> mengenai musuh, Kamisato Ayaka akan mendapatkan efek berikut:\n·Memulihkan 10 Stamina\n·Mendapatkan 18% <color=#99FFFFFF>Cryo DMG Bonus</color> selama 10 detik.",
       "th": "เมื่อการโจมตีด้วยน้ำแข็งในตอนจบของ <color=#FFD780FF>Kamisato Art: Senho</color> ถูกศัตรู Kamisato Ayaka จะได้รับเอฟเฟกต์ดังนี้:\n·ฟื้นฟูพลังกาย 10 หน่วย;\n·ได้รับ<color=#99FFFFFF>โบนัสความเสียหายน้ำแข็ง</color> 18% เป็นเวลา 10 วินาที",
       "vi": "Khi <color=#FFD780FF>Trường Phái Kamisato - Senho</color> kết thúc sẽ thi triển hàn băng, nếu đánh trúng địch, Kamisato Ayaka sẽ nhận hiệu quả sau:\n·Hồi 10 điểm thể lực;\n·Nhận 18% <color=#99FFFFFF>buff sát thương Nguyên Tố Băng</color>, duy trì 10s."
-    },
-    "imgid": "p_22201"
+    }
   },
   {
     "title": {
@@ -227,7 +221,6 @@
       "id": "Saat membuat Material Ascension Senjata, memiliki 10% kemungkinan untuk mendapatkan hasil 2 kali lipat.",
       "th": "เมื่อสร้างวัสดุเลื่อนขั้นอาวุธ จะมีโอกาส 10% ที่จะได้รับผลผลิตเพิ่มขึ้น 2 เท่า",
       "vi": "Khi ghép nguyên liệu đột phá vũ khí sẽ có 10% tỷ lệ nhận x2 thành phẩm."
-    },
-    "imgid": "p_22301"
+    }
   }
 ]

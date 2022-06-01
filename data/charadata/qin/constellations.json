@@ -58,7 +58,7 @@
       "es": "Cuando Jean recoge un orbe o partícula elemental, aumenta la Vel. de Ataque y la Vel. Movimiento de todos los miembros del equipo en un 15% durante 15 s.",
       "fr": "La VIT de déplacement et d'attaque de tous les personnages de l'équipe augmente de 15 % pendant 15 s lorsque Jean obtient un orbe ou une particule élémentaire.",
       "pt": "Quando a Jean pega um Orbe/Partícula Elemental, todos os membros terão sua Veloc. Mov. e VEL de ATQ aumentados em 15% por 15s.",
-      "ru": "Когда Джинн получает Элементальную сферу или частицу, увеличивает скорость передвижения и атаки всех членов отряда на 15% в течение 15 сек.",
+      "ru": "Когда Джинн получает Элементальную сферу или частицу, скорость передвижения и скорость атаки всех членов отряда увеличивается на 15% в течение 15 сек.",
       "id": "Meningkatkan 15% Movement SPD dan ATK SPD seluruh anggota party selama 15 detik saat Jean mengambil Elemental Orb atau Particle.",
       "th": "เมื่อ Jean ได้รับลูกแก้วธาตุ หรืออณูธาตุ ตัวละครทั้งทีม จะได้รับความเร็วในการโจมตี เพิ่ม 15% และความเร็วในการเคลื่อนที่ เพิ่ม 15% เป็นเวลา 15 วินาที",
       "vi": "Khi Jean nhận được Nguyên Tố Tinh Cầu hoặc Nguyên Tố Hạt Nhân, tất cả nhân vật trong đội tăng 15% tốc độ tấn công và 15% tốc độ di chuyển, kéo dài 15s."
@@ -93,7 +93,7 @@
       "pt": "Aumenta o nível da <color=#FFD780FF>Brisa de Dandelion</color> em 3.\nO nível máximo de elevação é 15.",
       "ru": "Увеличивает уровень навыка <color=#FFD780FF>Одуванчиковый бриз</color> на 3.\nМакс. уровень: 15",
       "id": "Meningkatkan 3 level <color=#FFD780FF>Dandelion Breeze</color>.\nMaksimum: Lv. 15.",
-      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Dandelion Breeze</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Dandelion Breeze</color> ขึ้น 3 ระดับ\nเพิ่มได้สูงสุดถึงระดับ 15",
       "vi": "Cấp kỹ năng <color=#FFD780FF>Gió Bồ Công Anh</color> +3.\nTăng tối đa đến cấp 15."
     },
     "imgid": "constellation_3"
@@ -159,7 +159,7 @@
       "pt": "Aumenta o nível da <color=#FFD780FF>Espada do Temporal</color> em 3.\nO nível máximo de elevação é 15.",
       "ru": "Увеличивает уровень навыка <color=#FFD780FF>Клинок ветра</color> на 3.\nМакс. уровень: 15",
       "id": "Meningkatkan 3 level <color=#FFD780FF>Gale Blade</color>.\nMaksimum: Lv. 15.",
-      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Gale Blade</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Gale Blade</color> ขึ้น 3 ระดับ\nเพิ่มได้สูงสุดถึงระดับ 15",
       "vi": "Cấp kỹ năng <color=#FFD780FF>Gió Cuộn Kiếm</color> +3.\nTăng tối đa đến cấp 15."
     },
     "imgid": "constellation_5"

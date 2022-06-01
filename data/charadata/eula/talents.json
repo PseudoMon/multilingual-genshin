@@ -29,8 +29,7 @@
       "id": "<color=#FFD780FF>Normal Attack</color>\nMelancarkan hingga 5 tebasan berturut-turut.\n\n<color=#FFD780FF>Charged Attack</color>\nTerus menguras Stamina untuk melancarkan tebasan berkelanjutan secara cepat.\nCharged Attack akan diakhiri dengan sebuah tebasan yang lebih kuat.\n\n<color=#FFD780FF>Plunging Attack</color>\nMenerjang dari udara untuk menghantam tanah, menyerang semua musuh di jalurnya dan mengakibatkan DMG area saat mendarat.",
       "th": "<color=#FFD780FF>โจมตีปกติ</color>\nโจมตีต่อเนื่องมากสุดห้าครั้ง\n\n<color=#FFD780FF>ชาร์จโจมตี</color>\nใช้พลังกายต่อเนื่อง เพื่อฟันโจมตีติดต่อกันอย่างรวดเร็ว\nเมื่อชาร์จโจมตีสิ้นสุดลง จะทำการฟันอย่างรุนแรงเพิ่มอีกหนึ่งครั้ง\n\n<color=#FFD780FF>โจมตีพุ่งลงจากอากาศ</color>\nกระโจนจากกลางอากาศลงมายังพื้นดิน เพื่อโจมตีศัตรูที่อยู่ในเส้นทางการโจมตี โดยจะสร้างความเสียหายวงกว้างเมื่อลงถึงพื้น",
       "vi": "<color=#FFD780FF>Tấn Công Thường</color>\nThực hiện tối đa 5 lần chém liên tiếp.\n\n<color=#FFD780FF>Trọng Kích</color>\nDuy trì tiêu hao thể lực, chém nhanh liên tiếp.\nSau khi Trọng Kích kết thúc, sẽ bổ một nhát cực mạnh.\n\n<color=#FFD780FF>Tấn Công Khi Đáp</color>\nĐáp xuống đất từ trên không, tấn công kẻ địch trên đường, đồng thời gây sát thương phạm vi khi chạm đất."
-    },
-    "imgid": "s_513101"
+    }
   },
   {
     "title": {
@@ -62,8 +61,7 @@
       "id": "Es yang tajam, pedang yang lincah.\n\n<color=#FFD780FF>Tekan</color>\nMenebas dengan cepat dan mengakibatkan <color=#99FFFFFF>Cryo DMG</color>.\nSaat mengenai musuh, Eula akan mendapatkan satu lapis Grimheart yang bisa ditumpuk hingga 2 lapis. Lapisan ini hanya bisa ditumpuk setiap 0,3 detik.\n\n<color=#FFD780FF>Grimheart</color>\nMeningkatkan DEF dan ketahanan Eula terhadap interupsi.\n\n<color=#FFD780FF>Tahan</color>\nDengan mengonsumsi semua lapisan Grimheart yang ada, Eula menebas pedangnya ke arah depan dan mengakibatkan <color=#99FFFFFF>Cryo DMG area</color> pada musuh di hadapannya.\nJika Eula mengonsumsi lapisan Grimheart, musuh di sekitar akan mengalami penurunan Physical RES dan <color=#99FFFFFF>Cryo RES</color>.\nSetiap lapis Grimheart akan berubah menjadi Icewhirl Brand yang mengakibatkan <color=#99FFFFFF>Cryo DMG</color> pada musuh di sekitar.\n\n<i>\"Ombak-ombak pun bergulung, menelan mahkota para bangsawan. Setelah itu, setiap tetesan di antara gulungan ombak es akan memantulkan mahkota emas, dan setiap tetesan busa ombak akan memancarkan cahayanya.\"</i>",
       "th": "#ไอน้ำแข็งที่เย็นยะเยือก และระบำดาบที่รวดเร็ว\n\n<color=#FFD780FF>{LAYOUT_MOBILE#แตะ}{LAYOUT_PC#กด}{LAYOUT_PS#กด}</color>\nฟันอย่างรวดเร็วเพื่อสร้าง <color=#99FFFFFF>ความเสียหายน้ำแข็ง</color>\nเมื่อโจมตีถูกศัตรู ตัวของ Eula เองจะได้รับเอฟเฟกต์ Grimheart หนึ่งชั้น โดยจะซ้อนทับได้มากสุด 2 ครั้ง และเกิดขึ้นได้เพียง 1 ครั้ง ในทุก 0.3 วินาที\n\n<color=#FFD780FF>Grimheart</color>\nเพิ่มความต้านทานการหยุดชะงักและพลังป้องกันของ Eula\n\n<color=#FFD780FF>{LAYOUT_MOBILE#แตะค้าง}{LAYOUT_PC#กดค้าง}{LAYOUT_PS#กดค้าง}</color>\nใช้เอฟเฟกต์ Grimheart ทั้งหมดและฟาดฟันดาบใหญ่ไปข้างหน้า เพื่อสร้าง<color=#99FFFFFF>ความเสียหายน้ำแข็งวงกว้าง</color>ให้แก่ศัตรูที่อยู่ตรงหน้า\nหากใช้เอฟเฟกต์ Grimheart แล้ว จะทำให้ความต้านทานทางกายภาพและ <color=#99FFFFFF>ความต้านทานน้ำแข็ง</color> ของศัตรูที่อยู่รอบตัวลดลง\nGrimheart แต่ละชั้นที่ถูกใช้จะเปลี่ยนเป็นดาบวังวนน้ำแข็ง Icewhirl Brand หนึ่งเล่ม และสร้าง<color=#99FFFFFF>ความเสียหายน้ำแข็ง</color>ให้แก่ศัตรูที่อยู่ในบริเวณใกล้เคียง\n\n<i>\"เกลียวคลื่นที่หมุนวนกลืนกินมงกุฎอันสูงส่ง จากนั้นในทุกหยดของคลื่นความเย็น ต่างก็เปล่งประกายของมงกุฎสีทอง ฟองคลื่นในทุกอณู ต่างก็ส่องแสงระยิบระยับ\"</i>",
       "vi": "Cực hàn băng khí, cực tốc kiếm vũ.\n\n<color=#FFD780FF>Nhấn</color>\nTấn công nhanh, gây <color=#99FFFFFF>Sát Thương Nguyên Tố Băng</color>.\nKhi đánh trúng kẻ địch sẽ khiến Eula nhận được 1 tầng hiệu quả Trái Tim Băng Giá, tối đa cộng dồn 2 lần. Mỗi 0.3s chỉ kích hoạt 1 lần.\n\n<color=#FFD780FF>Trái Tim Băng Giá</color>\nTăng khả năng phòng thủ và kháng gián đoạn của Eula.\n\n<color=#FFD780FF>Nhấn giữ</color>\nTiêu hao tất cả hiệu quả Trái Tim Băng Giá và múa đại kiếm chém về phía trước, gây <color=#99FFFFFF>Sát Thương Nguyên Tố Băng diện rộng</color> cho địch phía trước.\nNếu tiêu hao hiệu quả Trái Tim Băng Giá, sẽ làm giảm Kháng Vật Lý và <color=#99FFFFFF>Kháng Nguyên Tố Băng</color> của kẻ địch bên cạnh.\nMỗi một tầng Trái Tim Băng Giá bị tiêu hao sẽ chuyển hóa thành 1 thanh Băng Vũ Kiếm, gây <color=#99FFFFFF>Sát Thương Nguyên Tố Băng</color> cho địch xung quanh.\n\n<i>\"Những con sóng cuộn trào nuốt chửng chiếc vương miện của quý tộc. Và mãi đến sau này, mỗi bọt nước giữa những con sóng băng giá lại phản chiếu ra một chiếc vương miện vàng, mỗi bọt nước đều tỏa sáng lấp lánh.\"</i>"
-    },
-    "imgid": "s_513201"
+    }
   },
   {
     "title": {
@@ -95,8 +93,7 @@
       "id": "Eula mengayunkan pedang besarnya dan mengakibatkan <color=#99FFFFFF>Cryo DMG</color> terhadap musuh di sekitar, serta menciptakan Lightfall Sword yang mengikutinya selama hingga 7 detik.\nSelama aktif, Lightfall Sword akan meningkatkan ketahanan Eula terhadap interupsi. Saat Normal Attack, Elemental Skill, dan Elemental Burst Eula mengakibatkan DMG terhadap musuh, energi Lightfall Sword akan terisi. 1 lapisan energi hanya dapat terisi setiap 0,1 detik.\nSetelah durasinya berakhir, Lightfall Sword akan meledak hebat dan mengakibatkan Physical DMG terhadap musuh di sekitarnya.\nDMG ini akan meningkat sesuai dengan jumlah lapisan energi yang berhasil dikumpulkan Lightfall Sword.\nLightfall Sword akan langsung meledak saat Eula meninggalkan medan pertempuran.\n\n<i>Mudah sekali bagi seseorang untuk tenggelam dalam arus ombak. Meski begitu, Eula lebih tertantang untuk membekukan arus yang datang.</i>",
       "th": "กวัดแกว่งดาบขนาดใหญ่อย่างรุนแรงเพื่อสร้าง<color=#99FFFFFF>ความเสียหายน้ำแข็ง</color>แก่ศัตรูที่อยู่โดยรอบ และสร้าง Lightfall Sword 1 เล่ม ที่สามารถคงอยู่ได้มากสุด 7 วินาที ออกมาติดตามตนเอง\nภายในระยะเวลาต่อเนื่อง Lightfall Sword จะเพิ่มความสามารถในการต้านทานการหยุดชะงักของตัว Eula เอง และเมื่อการโจมตีปกติ สกิลธาตุ หรือท่าไม้ตายของ Eula สร้างความเสียหายแก่ศัตรู จะสะสมพลังงานให้กับ Lightfall Sword ซึ่งทุก 0.1 วินาที จะสะสมพลังงานได้เพียงหนึ่งชั้นเท่านั้น\nหลังสิ้นสุดช่วงเวลาต่อเนื่อง Lightfall Sword จะตกลงมาและระเบิดอย่างรุนแรง สร้างความเสียหายกายภาพแก่ศัตรูที่อยู่โดยรอบ\nโดยความเสียหายนี้จะขึ้นอยู่กับชั้นพลังงานที่สะสมของ Lightfall Sword\nเมื่อ Eula ออกจากการต่อสู้ Lightfall Sword จะระเบิดโดยทันที\n\n<i>มันเป็นเรื่องง่ายที่จะจมดิ่งลงไป แต่ถึงอย่างไร เธอก็ยังคงคิดที่จะแช่แข็งกระแสน้ำที่จะมาถึงนี้</i>",
       "vi": "Múa đại kiếm gây <color=#99FFFFFF>Sát Thương Nguyên Tố Băng</color> cho kẻ địch xung quanh, đồng thời tạo ra Kiếm Ánh Sáng đi theo bản thân, tồn tại tối đa 7 giây.\nTrong thời gian duy trì, Kiếm Ánh Sáng sẽ tăng khả năng kháng gián đoạn của Eula; Đồng thời khi Eula gây sát thương cho kẻ địch bằng đánh thường, kỹ năng nguyên tố hoặc kỹ năng nộ đều sẽ tích lũy năng lượng cho thanh kiếm. Mỗi 0.1s chỉ có thể tích tụ 1 tầng năng lượng.\nSau khi kết thúc thời gian duy trì, thanh kiếm sẽ giáng xuống và nổ mạnh, gây sát thương vật lý cho kẻ địch xung quanh.\nSát thương sẽ chịu ảnh hưởng bởi số tầng tích tụ của Kiếm Ánh Sáng.\nKhi Eula rời trận, Kiếm Ánh Sáng sẽ nổ ngay lập tức.\n\n<i>Đắm chìm là chuyện dễ dàng. Nhưng cho dù thế, cô ấy vẫn muốn đóng băng ngọn sóng đang ập đến.</i>"
-    },
-    "imgid": "s_513901"
+    }
   },
   {
     "title": {
@@ -128,8 +125,7 @@
       "id": "Jika 2 lapis Grimheart dikonsumsi saat menggunakan Mode Tahan dari <color=#FFD780FF>Icetide Vortex</color>, sebuah Shattered Lightfall Sword akan terbentuk dan langsung meledak, mengakibatkan Physical DMG sebesar 50% dari DMG dasar Lightfall Sword yang terbentuk dari skill <color=#FFD780FF>Glacial Illumination</color>.",
       "th": "#เมื่อ{LAYOUT_MOBILE#แตะค้าง}{LAYOUT_PC#กดค้าง}{LAYOUT_PS#กดค้าง}เพื่อปล่อย <color=#FFD780FF>Icetide Vortex</color> หากใช้เอฟเฟกต์ Grimheart 2 ชั้น ในครั้งเดียว จะสร้าง Shattered Lightfall Sword ที่สามารถระเบิดได้ทันที โดยจะทำให้เกิดความเสียหายกายภาพเทียบเท่ากับ 50% ของความเสียหายพื้นฐานจาก Lightfall Sword ของ <color=#FFD780FF>Glacial Illumination</color>",
       "vi": "Khi nhấn giữ thi triển <color=#FFD780FF>Lốc Xoáy Băng Hàn</color>, nếu tiêu hao cùng một lúc 2 tầng hiệu quả Trái Tim Băng Giá, sẽ tạo ra Kiếm Ánh Sáng và phát nổ ngay lập tức, gây sát thương vật lý tương đương với 50% sát thương cơ bản Kiếm Ánh Sáng của <color=#FFD780FF>Thanh Kiếm Sóng Nước</color>."
-    },
-    "imgid": "p_512101"
+    }
   },
   {
     "title": {
@@ -161,8 +157,7 @@
       "id": "Menggunakan <color=#FFD780FF>Glacial Illumination</color> akan langsung menyelesaikan CD <color=#FFD780FF>Icetide Vortex</color> dan memberikan Eula satu lapis Grimheart.",
       "th": "เมื่อใช้ <color=#FFD780FF>Glacial Illumination</color> จะรีเซ็ตช่วงเวลาคูลดาวน์ของ <color=#FFD780FF>Icetide Vortex</color> และมอบเอฟเฟกต์ Grimheart ให้แก่ Eula หนึ่งชั้น",
       "vi": "Khi dùng <color=#FFD780FF>Thanh Kiếm Sóng Nước</color> sẽ làm mới CD của <color=#FFD780FF>Lốc Xoáy Băng Hàn</color>, đồng thời cung cấp cho Eula 1 tầng hiệu ứng Trái Tim Băng Giá."
-    },
-    "imgid": "p_512201"
+    }
   },
   {
     "title": {
@@ -194,7 +189,6 @@
       "id": "Saat membuat Material Talenta Karakter, Eula memiliki 10% kemungkinan untuk mendapatkan hasil 2 kali lipat.",
       "th": "เมื่อสร้างวัสดุพรสวรรค์ของตัวละคร จะมีโอกาส 10% ที่จะได้รับผลผลิตเพิ่มเป็น 2 เท่า",
       "vi": "Khi ghép nguyên liệu thiên phú nhân vật, có 10% nhận được x2 thành phẩm."
-    },
-    "imgid": "p_512301"
+    }
   }
 ]

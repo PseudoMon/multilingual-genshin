@@ -93,7 +93,7 @@
       "pt": "Aumenta o nível do <color=#FFD780FF>Coquetel Assassino</color> em 3.\nO nível máximo de elevação é 15.",
       "ru": "Увеличивает уровень навыка <color=#FFD780FF>Авторский коктейль</color> на 3.\nМакс. уровень: 15",
       "id": "Meningkatkan 3 level <color=#FFD780FF>Signature Mix</color>.\nMaksimum: Lv. 15.",
-      "th": "เพิ่มเลเวลของสกิล <color=#FFD780FF>Signature Mix</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "th": "เพิ่มเลเวลของสกิล <color=#FFD780FF>Signature Mix</color> ขึ้น 3 ระดับ\nเพิ่มได้สูงสุดถึงระดับ 15",
       "vi": "Cấp kỹ năng <color=#FFD780FF>Đặc Chế Mãnh Liệt</color> +3.\nTăng tối đa đến cấp 15."
     },
     "imgid": "constellation_3"
@@ -137,7 +137,7 @@
       "zht": "雙份加冰",
       "jp": "エクストラアイス",
       "ko": "투 샷, 더블 아이스",
-      "en": "Double Shot, On The Rocks",
+      "en": "Double Shot, on the Rocks",
       "de": "Doppelt auf Eis",
       "es": "¡Doble de hielo!",
       "fr": "Un double avec glaçons",
@@ -159,7 +159,7 @@
       "pt": "Aumenta o nível da <color=#FFD780FF>Garra de Gato Gelada</color> em 3.\nO nível máximo de elevação é 15.",
       "ru": "Увеличивает уровень навыка <color=#FFD780FF>Морозные коготочки</color> на 3.\nМакс. уровень: 15",
       "id": "Meningkatkan 3 level <color=#FFD780FF>Icy Paws</color>.\nMaksimum: Lv. 15.",
-      "th": "เพิ่มเลเวลของสกิล <color=#FFD780FF>Icy Paws</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "th": "เพิ่มเลเวลของสกิล <color=#FFD780FF>Icy Paws</color> ขึ้น 3 ระดับ\nเพิ่มได้สูงสุดถึงระดับ 15",
       "vi": "Cấp kỹ năng <color=#FFD780FF>Móng Mèo Lạnh Giá</color> +3.\nTăng tối đa đến cấp 15."
     },
     "imgid": "constellation_5"

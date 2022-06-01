@@ -1,14 +1,14 @@
 [
   {
-    "SetId": 10001,
-    "ContainsList": [
+    "setId": 10001,
+    "containsList": [
       51140,
       51120,
       51150,
       51110,
       51130
     ],
-    "SetNeedNum": [
+    "setNeedNum": [
       2,
       4
     ],
@@ -62,15 +62,15 @@
     "imgid": "resolution_of_sojourner_flower"
   },
   {
-    "SetId": 10002,
-    "ContainsList": [
+    "setId": 10002,
+    "containsList": [
       52140,
       52120,
       52150,
       52110,
       52130
     ],
-    "SetNeedNum": [
+    "setNeedNum": [
       2,
       4
     ],
@@ -124,15 +124,15 @@
     "imgid": "brave_heart_flower"
   },
   {
-    "SetId": 10003,
-    "ContainsList": [
+    "setId": 10003,
+    "containsList": [
       53140,
       53120,
       53150,
       53110,
       53130
     ],
-    "SetNeedNum": [
+    "setNeedNum": [
       2,
       4
     ],
@@ -186,15 +186,15 @@
     "imgid": "defenders_will_flower"
   },
   {
-    "SetId": 10004,
-    "ContainsList": [
+    "setId": 10004,
+    "containsList": [
       54140,
       54120,
       54150,
       54110,
       54130
     ],
-    "SetNeedNum": [
+    "setNeedNum": [
       2,
       4
     ],
@@ -248,15 +248,15 @@
     "imgid": "tiny_miracle_flower"
   },
   {
-    "SetId": 10005,
-    "ContainsList": [
+    "setId": 10005,
+    "containsList": [
       55140,
       55120,
       55150,
       55110,
       55130
     ],
-    "SetNeedNum": [
+    "setNeedNum": [
       2,
       4
     ],
@@ -310,15 +310,15 @@
     "imgid": "berserker_flower"
   },
   {
-    "SetId": 10006,
-    "ContainsList": [
+    "setId": 10006,
+    "containsList": [
       56140,
       56120,
       56150,
       56110,
       56130
     ],
-    "SetNeedNum": [
+    "setNeedNum": [
       2,
       4
     ],
@@ -372,15 +372,15 @@
     "imgid": "martial_artist_flower"
   },
   {
-    "SetId": 10007,
-    "ContainsList": [
+    "setId": 10007,
+    "containsList": [
       57140,
       57120,
       57150,
       57110,
       57130
     ],
-    "SetNeedNum": [
+    "setNeedNum": [
       2,
       4
     ],
@@ -434,15 +434,15 @@
     "imgid": "instructor_flower"
   },
   {
-    "SetId": 10008,
-    "ContainsList": [
+    "setId": 10008,
+    "containsList": [
       58240,
       58220,
       58250,
       58210,
       58230
     ],
-    "SetNeedNum": [
+    "setNeedNum": [
       2,
       4
     ],
@@ -496,15 +496,15 @@
     "imgid": "gambler_flower"
   },
   {
-    "SetId": 10009,
-    "ContainsList": [
+    "setId": 10009,
+    "containsList": [
       59140,
       59120,
       59150,
       59110,
       59130
     ],
-    "SetNeedNum": [
+    "setNeedNum": [
       2,
       4
     ],
@@ -558,15 +558,15 @@
     "imgid": "the_exile_flower"
   },
   {
-    "SetId": 10010,
-    "ContainsList": [
+    "setId": 10010,
+    "containsList": [
       60140,
       60120,
       60150,
       60110,
       60130
     ],
-    "SetNeedNum": [
+    "setNeedNum": [
       2,
       4
     ],
@@ -620,15 +620,15 @@
     "imgid": "adventurer_flower"
   },
   {
-    "SetId": 10011,
-    "ContainsList": [
+    "setId": 10011,
+    "containsList": [
       61140,
       61120,
       61150,
       61110,
       61130
     ],
-    "SetNeedNum": [
+    "setNeedNum": [
       2,
       4
     ],
@@ -682,15 +682,15 @@
     "imgid": "lucky_dog_flower"
   },
   {
-    "SetId": 10012,
-    "ContainsList": [
+    "setId": 10012,
+    "containsList": [
       62140,
       62120,
       62150,
       62110,
       62130
     ],
-    "SetNeedNum": [
+    "setNeedNum": [
       2,
       4
     ],
@@ -744,15 +744,15 @@
     "imgid": "scholar_flower"
   },
   {
-    "SetId": 10013,
-    "ContainsList": [
+    "setId": 10013,
+    "containsList": [
       63140,
       63120,
       63150,
       63110,
       63130
     ],
-    "SetNeedNum": [
+    "setNeedNum": [
       2,
       4
     ],
@@ -806,15 +806,15 @@
     "imgid": "traveling_doctor_flower"
   },
   {
-    "SetId": 14001,
-    "ContainsList": [
+    "setId": 14001,
+    "containsList": [
       71340,
       71320,
       71350,
       71310,
       71330
     ],
-    "SetNeedNum": [
+    "setNeedNum": [
       2,
       4
     ],
@@ -868,15 +868,15 @@
     "imgid": "blizzard_strayer_flower"
   },
   {
-    "SetId": 14002,
-    "ContainsList": [
+    "setId": 14002,
+    "containsList": [
       72340,
       72320,
       72350,
       72310,
       72330
     ],
-    "SetNeedNum": [
+    "setNeedNum": [
       2,
       4
     ],
@@ -930,15 +930,15 @@
     "imgid": "thundersoother_flower"
   },
   {
-    "SetId": 14003,
-    "ContainsList": [
+    "setId": 14003,
+    "containsList": [
       73340,
       73320,
       73350,
       73310,
       73330
     ],
-    "SetNeedNum": [
+    "setNeedNum": [
       2,
       4
     ],
@@ -992,15 +992,15 @@
     "imgid": "lavawalker_flower"
   },
   {
-    "SetId": 14004,
-    "ContainsList": [
+    "setId": 14004,
+    "containsList": [
       74340,
       74320,
       74350,
       74310,
       74330
     ],
-    "SetNeedNum": [
+    "setNeedNum": [
       2,
       4
     ],
@@ -1054,15 +1054,15 @@
     "imgid": "maiden_beloved_flower"
   },
   {
-    "SetId": 15001,
-    "ContainsList": [
+    "setId": 15001,
+    "containsList": [
       75340,
       75320,
       75350,
       75310,
       75330
     ],
-    "SetNeedNum": [
+    "setNeedNum": [
       2,
       4
     ],
@@ -1116,15 +1116,15 @@
     "imgid": "gladiators_finale_flower"
   },
   {
-    "SetId": 15002,
-    "ContainsList": [
+    "setId": 15002,
+    "containsList": [
       76340,
       76320,
       76350,
       76310,
       76330
     ],
-    "SetNeedNum": [
+    "setNeedNum": [
       2,
       4
     ],
@@ -1178,15 +1178,15 @@
     "imgid": "viridescent_venerer_flower"
   },
   {
-    "SetId": 15003,
-    "ContainsList": [
+    "setId": 15003,
+    "containsList": [
       77340,
       77320,
       77350,
       77310,
       77330
     ],
-    "SetNeedNum": [
+    "setNeedNum": [
       2,
       4
     ],
@@ -1240,15 +1240,15 @@
     "imgid": "wanderers_troupe_flower"
   },
   {
-    "SetId": 15004,
-    "ContainsList": [
+    "setId": 15004,
+    "containsList": [
       78340,
       78320,
       78350,
       78310,
       78330
     ],
-    "SetNeedNum": [
+    "setNeedNum": [
       2,
       4
     ],
@@ -1302,15 +1302,15 @@
     "imgid": "glacier_and_snowfield_flower"
   },
   {
-    "SetId": 15005,
-    "ContainsList": [
+    "setId": 15005,
+    "containsList": [
       79340,
       79320,
       79350,
       79310,
       79330
     ],
-    "SetNeedNum": [
+    "setNeedNum": [
       2,
       4
     ],
@@ -1364,15 +1364,15 @@
     "imgid": "thundering_fury_flower"
   },
   {
-    "SetId": 15006,
-    "ContainsList": [
+    "setId": 15006,
+    "containsList": [
       80340,
       80320,
       80350,
       80310,
       80330
     ],
-    "SetNeedNum": [
+    "setNeedNum": [
       2,
       4
     ],
@@ -1426,15 +1426,15 @@
     "imgid": "crimson_witch_of_flames_flower"
   },
   {
-    "SetId": 15007,
-    "ContainsList": [
+    "setId": 15007,
+    "containsList": [
       81340,
       81320,
       81350,
       81310,
       81330
     ],
-    "SetNeedNum": [
+    "setNeedNum": [
       2,
       4
     ],
@@ -1488,15 +1488,15 @@
     "imgid": "noblesse_oblige_flower"
   },
   {
-    "SetId": 15008,
-    "ContainsList": [
+    "setId": 15008,
+    "containsList": [
       82340,
       82320,
       82350,
       82310,
       82330
     ],
-    "SetNeedNum": [
+    "setNeedNum": [
       2,
       4
     ],
@@ -1550,11 +1550,11 @@
     "imgid": "bloodstained_chivalry_flower"
   },
   {
-    "SetId": 15009,
-    "ContainsList": [
+    "setId": 15009,
+    "containsList": [
       83330
     ],
-    "SetNeedNum": [
+    "setNeedNum": [
       1
     ],
     "name": {
@@ -1592,11 +1592,11 @@
     "imgid": "prayers_for_illumination_circlet"
   },
   {
-    "SetId": 15010,
-    "ContainsList": [
+    "setId": 15010,
+    "containsList": [
       84330
     ],
-    "SetNeedNum": [
+    "setNeedNum": [
       1
     ],
     "name": {
@@ -1634,11 +1634,11 @@
     "imgid": "prayers_for_destiny_circlet"
   },
   {
-    "SetId": 15011,
-    "ContainsList": [
+    "setId": 15011,
+    "containsList": [
       85330
     ],
-    "SetNeedNum": [
+    "setNeedNum": [
       1
     ],
     "name": {
@@ -1676,11 +1676,11 @@
     "imgid": "prayers_for_wisdom_circlet"
   },
   {
-    "SetId": 15012,
-    "ContainsList": [
+    "setId": 15012,
+    "containsList": [
       86330
     ],
-    "SetNeedNum": [
+    "setNeedNum": [
       1
     ],
     "name": {
@@ -1718,11 +1718,11 @@
     "imgid": "prayers_to_the_firmament_circlet"
   },
   {
-    "SetId": 15013,
-    "ContainsList": [
+    "setId": 15013,
+    "containsList": [
       87330
     ],
-    "SetNeedNum": [
+    "setNeedNum": [
       1
     ],
     "name": {
@@ -1760,15 +1760,15 @@
     "imgid": "prayers_to_springtime_circlet"
   },
   {
-    "SetId": 15014,
-    "ContainsList": [
+    "setId": 15014,
+    "containsList": [
       88340,
       88320,
       88350,
       88310,
       88330
     ],
-    "SetNeedNum": [
+    "setNeedNum": [
       2,
       4
     ],
@@ -1822,15 +1822,15 @@
     "imgid": "archaic_petra_flower"
   },
   {
-    "SetId": 15015,
-    "ContainsList": [
+    "setId": 15015,
+    "containsList": [
       89340,
       89320,
       89350,
       89310,
       89330
     ],
-    "SetNeedNum": [
+    "setNeedNum": [
       2,
       4
     ],
@@ -1884,15 +1884,15 @@
     "imgid": "retracing_bolide_flower"
   },
   {
-    "SetId": 15016,
-    "ContainsList": [
+    "setId": 15016,
+    "containsList": [
       90340,
       90320,
       90350,
       90310,
       90330
     ],
-    "SetNeedNum": [
+    "setNeedNum": [
       2,
       4
     ],
@@ -1946,15 +1946,15 @@
     "imgid": "heart_of_depth_flower"
   },
   {
-    "SetId": 15017,
-    "ContainsList": [
+    "setId": 15017,
+    "containsList": [
       91340,
       91320,
       91350,
       91310,
       91330
     ],
-    "SetNeedNum": [
+    "setNeedNum": [
       2,
       4
     ],
@@ -1997,7 +1997,7 @@
         "en": "When an Elemental Skill hits an opponent, the ATK of all nearby party members is increased by 20% and their Shield Strength is increased by 30% for 3s. This effect can be triggered once every 0.5s. This effect can still be triggered even when the character who is using this artifact set is not on the field.",
         "de": "Erhöht beim Treffen von Gegnern mit Elementarfähigkeiten den ANG aller Truppenmitglieder in der Nähe um 20 % sowie die Schildeffizienz um 30 %, hält 3 s, 0,5 s Abklingzeit. Die Figur mit diesem Artefaktset kann diesen Effekt auch auslösen, wenn sie inaktiv in der Truppe ist.",
         "es": "Cuando una Habilidad Elemental golpea a un enemigo, el ATQ de todos los personajes del equipo cercanos aumenta en un 20% y su Protección de Escudo aumenta en un 30% durante 3 s. Este efecto puede tener lugar cada 0.5 s y se activa incluso cuando el personaje que lleva equipado este conjunto de artefactos está en tu equipo pero no en combate.",
-        "fr": "Lorsqu'une compétence élémentaire touche un ennemi, l'ATQ de tous les personnages de l'équipe à proximité augmente de 20 % et la force de leur bouclier augmente de 30 % pendant 3 s. Cet effet peut être déclenché une fois toutes les 0,5 s, même si le personnage équipé de ce set d'artéfacts fait partie de l'équipe mais n'est pas déployé.",
+        "fr": "Lorsqu'une compétence élémentaire a touché un ennemi, l'ATQ de tous les personnages de l'équipe à proximité augmente de 20 % et la force de leur bouclier augmente de 30 % pendant 3 s. Cet effet peut être déclenché une fois toutes les 0,5 s, même si le personnage équipé de ce set d'artéfacts fait partie de l'équipe mais n'est pas déployé.",
         "pt": "Quando a Habilidade Elemental atinge um oponente, o ATQ de todos os membros da equipe próximos aumenta em 20% e sua Força do Escudo aumenta em 30% por 3s. Esse efeito pode ser ativado uma vez a cada 0,5s. Esse efeito ainda pode ser ativado mesmo quando o personagem que está usando esse conjunto de artefatos não está em campo.",
         "ru": "Когда элементальный навык попадает по врагам, атака всех находящихся поблизости персонажей в отряде, увеличивается на 20%, а прочность их щита увеличивается на 30%. Эффект длится 3 сек. и может возникнуть 1 раз в 0,5 сек. Этот эффект может быть активирован, даже если персонаж, экипированный этим набором артефактов, не находится на поле боя.",
         "id": "Saat Elemental Skill mengenai musuh, meningkatkan 20% ATK dan 30% kekuatan perisai seluruh anggota party di sekitar selama 3 detik. Efek ini hanya dapat terpicu setiap 0,5 detik. Efek tetap dapat terpicu meskipun Karakter yang mengenakan set Artefak ini tidak berada di medan pertempuran.",
@@ -2008,15 +2008,15 @@
     "imgid": "tenacity_of_the_millelith_flower"
   },
   {
-    "SetId": 15018,
-    "ContainsList": [
+    "setId": 15018,
+    "containsList": [
       92340,
       92320,
       92350,
       92310,
       92330
     ],
-    "SetNeedNum": [
+    "setNeedNum": [
       2,
       4
     ],
@@ -2059,7 +2059,7 @@
         "en": "When an Elemental Skill hits an opponent, ATK is increased by 9% for 7s. This effect stacks up to 2 times and can be triggered once every 0.3s. Once 2 stacks are reached, the 2-set effect is increased by 100%.",
         "de": "Erhöht den ANG beim Treffen von Gegnern mit Elementarfähigkeiten 7 s lang um 9 %, 2-fach stapelbar. 0,3 s Abklingzeit. Erhöht den Effekt des Sets mit 2 Teilen beim Erreichen des Limits von 2 Stapelungen um 100 %.",
         "es": "Al atacar a un enemigo con una Habilidad Elemental, el ATQ aumenta en un 9% durante 7 s. Este efecto puede acumularse hasta 2 veces y activarse cada 0.3 s. Al alcanzar 2 acumulaciones, el efecto de dos piezas del conjunto aumenta en un 100%.",
-        "fr": "Lorsqu'une compétence élémentaire touche un ennemi, l'ATQ augmente de 9 % pendant 7 s. Cet effet peut être cumulé 2 fois maximum et déclenché une fois toutes les 0,3 s. Une fois 2 cumuls atteints, l'effet du set de 2 pièces augmente de 100 %.",
+        "fr": "Lorsqu'une compétence élémentaire a touché un ennemi, l'ATQ augmente de 9 % pendant 7 s. Cet effet peut être cumulé 2 fois maximum et déclenché une fois toutes les 0,3 s. Une fois 2 cumuls atteints, l'effet du set de 2 pièces augmente de 100 %.",
         "pt": "Quando a Habilidade Elemental atinge um inimigo, o Ataque aumenta em 9% por 7s. Esse efeito acumula até 2 vezes e pode ser desencadeado uma vez a cada 0.3s. Quando se possui 2 acúmulos, o efeito do conjunto de 2 Artefatos é aumentado em 100%.",
         "ru": "Когда элементальный навык попадает по врагам, атака увеличивается на 9% в течение 7 сек. Эффект может складываться до 2 раз и возникнуть не чаще 1 раза за 0,3 сек. На 2 уровне складывания эффект набора из 2 вещей увеличивается на 100%.",
         "id": "Saat Elemental Skill mengenai musuh, meningkatkan 9% ATK selama 7 detik. Efek ini dapat ditumpuk hingga 2 lapis dan dapat terpicu setiap 0,3 detik. Setelah menumpuk 2 lapis, efek dari Set 2 Bagian akan meningkat 100%.",
@@ -2070,15 +2070,15 @@
     "imgid": "pale_flame_flower"
   },
   {
-    "SetId": 15019,
-    "ContainsList": [
+    "setId": 15019,
+    "containsList": [
       93442,
       93422,
       93452,
       93412,
       93432
     ],
-    "SetNeedNum": [
+    "setNeedNum": [
       2,
       4
     ],
@@ -2132,15 +2132,15 @@
     "imgid": "shimenawas_reminiscence_flower"
   },
   {
-    "SetId": 15020,
-    "ContainsList": [
+    "setId": 15020,
+    "containsList": [
       94442,
       94422,
       94452,
       94412,
       94432
     ],
-    "SetNeedNum": [
+    "setNeedNum": [
       2,
       4
     ],
@@ -2194,15 +2194,15 @@
     "imgid": "emblem_of_severed_fate_flower"
   },
   {
-    "SetId": 15021,
-    "ContainsList": [
+    "setId": 15021,
+    "containsList": [
       95442,
       95422,
       95452,
       95412,
       95432
     ],
-    "SetNeedNum": [
+    "setNeedNum": [
       2,
       4
     ],
@@ -2256,15 +2256,15 @@
     "imgid": "husk_of_opulent_dreams_flower"
   },
   {
-    "SetId": 15022,
-    "ContainsList": [
+    "setId": 15022,
+    "containsList": [
       96442,
       96422,
       96452,
       96412,
       96432
     ],
-    "SetNeedNum": [
+    "setNeedNum": [
       2,
       4
     ],
@@ -2318,15 +2318,15 @@
     "imgid": "ocean-hued_clam_flower"
   },
   {
-    "SetId": 15023,
-    "ContainsList": [
+    "setId": 15023,
+    "containsList": [
       97442,
       97422,
       97452,
       97412,
       97432
     ],
-    "SetNeedNum": [
+    "setNeedNum": [
       2,
       4
     ],
@@ -2380,15 +2380,15 @@
     "imgid": "vermillion_hereafter_flower"
   },
   {
-    "SetId": 15024,
-    "ContainsList": [
+    "setId": 15024,
+    "containsList": [
       98442,
       98422,
       98452,
       98412,
       98432
     ],
-    "SetNeedNum": [
+    "setNeedNum": [
       2,
       4
     ],
@@ -2435,7 +2435,7 @@
         "pt": "Quando o Ataque Normal atinge um inimigo, tem 36% de chance de ativar o Rito do Vale: o Ataque Normal aumenta o Dano e o valor de aumento é 70% do ATQ. Esse efeito desaparece nos 0.05s após o Ataque Normal causar dano. Quando o Ataque Normal não ativar o Rito do Vale, aumenta a probabilidade em 20% no próximo lançamento. Essa ativação pode ocorrer 1 vez a cada 0.2s.",
         "ru": "Попадания обычной атакой с 36% шансом активируют Ритуал долины: урон обычной атаки повышается на 70% от силы атаки. Через 0,05 сек. после нанесения урона обычной атакой эффект исчезает. Если обычной атаке не удалось активировать этот эффект, шанс его активации следующим попаданием возрастает на 20%. Шанс активации возникает не чаще одного раза в 0,2 сек.",
         "id": "Saat Normal Attack mengenai musuh, ada 36% kemungkinan akan memicu Valley Rite yang akan meningkatkan DMG Normal Attack sebesar 70% ATK. Efek akan hilang 0,05 detik setelah Normal Attack mengakibatkan DMG. Jika Normal Attack gagal memicu efek Valley Rite, maka kemungkinan Valley Rite akan terpicu pada serangan berikutnya meningkat 20%. Efek ini dapat terpicu maksimum sekali setiap 0,2 detik.",
-        "th": "เมื่อการโจมตีปกติถูกศัตรู จะมีโอกาส 36% ที่จะเกิด Valley Rite: โดยจะทำให้การโจมตีปกติสร้างความเสียหายเพิ่มขึ้น 70% ของพลังโจมตี ซึ่งเอฟเฟกต์นี้จะหายไปหลังจากที่การโจมตีปกติสร้างความเสียหาย 0.05 วินาที และหากการโจมตีปกติไม่ทำให้เกิด Valley Rite โอกาสการเกิดในครั้งต่อไปจะเพิ่มขึ้น 20%; จะมีคำนวณการเกิดเอฟเฟกต์ 1 ครั้ง ในทุก 0.2 วินาที",
+        "th": "เมื่อการโจมตีปกติถูกศัตรู จะมีโอกาส 36% ที่จะเกิด Valley Rite: โดยจะทำให้การโจมตีปกติสร้างความเสียหายเพิ่มขึ้น 70% ของพลังโจมตี ซึ่งเอฟเฟกต์นี้จะหายไปหลังจากที่การโจมตีปกติสร้างความเสียหาย 0.05 วินาที และหากการโจมตีปกติไม่ทำให้เกิด Valley Rite โอกาสการเกิดในครั้งต่อไปจะเพิ่มขึ้น 20%; จะคำนวณการเกิดเอฟเฟกต์ 1 ครั้ง ในทุก 0.2 วินาที",
         "vi": "Khi tấn công thường đánh trúng kẻ địch, sẽ có 36% tỷ lệ kích hoạt \"Nghi Lễ Vực Thẳm\": Tăng sát thương do tấn công thường gây ra, lượng tăng thêm bằng 70% tấn công; 0.05s sau khi tấn công thường gây ra sát thương, hiệu quả này sẽ biến mất. Khi tấn công thường chưa kích hoạt \"Nghi Lễ Vực Thẳm\", sẽ tăng 20% tỷ lệ kích hoạt lần sau, trong 0.2s tối đa kích hoạt 1 lần."
       }
     ],

@@ -12,7 +12,7 @@
       "pt": "Ataque Normal: Conquista do Oceano",
       "ru": "По волнам",
       "id": "Oceanborne",
-      "th": "โจมตีปกติ - Oceanborne",
+      "th": "โจมตีปกติ: Oceanborne",
       "vi": "Tấn Công Thường: Đại Dương"
     },
     "description": {
@@ -29,8 +29,7 @@
       "id": "<color=#FFD780FF>Normal Attack</color>\nMelancarkan hingga 5 serangan berturut-turut.\n\n<color=#FFD780FF>Charged Attack</color>\nTerus menguras Stamina untuk melancarkan tebasan berkelanjutan.\nDiakhiri dengan sebuah tebasan yang kuat.\n\n<color=#FFD780FF>Plunging Attack</color>\nMenerjang dari udara untuk menghantam tanah, menyerang semua musuh di jalurnya dan mengakibatkan DMG area saat mendarat.",
       "th": "<color=#FFD780FF>โจมตีปกติ</color>\nโจมตีต่อเนื่องมากสุดห้าครั้ง\n\n<color=#FFD780FF>ชาร์จโจมตี</color>\nใช้พลังกายต่อเนื่อง เพื่อฟันโจมตีติดต่อกันอย่างรวดเร็ว\nเมื่อชาร์จโจมตีสิ้นสุดลง จะทำการฟันอย่างรุนแรงเพิ่มอีกหนึ่งครั้ง\n\n<color=#FFD780FF>โจมตีพุ่งลงจากอากาศ</color>\nกระโจนจากกลางอากาศลงมายังพื้นดิน เพื่อโจมตีศัตรูที่อยู่ในเส้นทางการโจมตี โดยจะสร้างความเสียหายวงกว้างเมื่อลงถึงพื้น",
       "vi": "<color=#FFD780FF>Tấn Công Thường</color>\nThực hiện tối đa 5 lần chém liên tiếp.\n\n<color=#FFD780FF>Trọng Kích</color>\nDuy trì tiêu hao thể lực, chém nhanh liên tiếp.\nSau khi Trọng Kích kết thúc, sẽ bổ một nhát cực mạnh.\n\n<color=#FFD780FF>Tấn Công Khi Đáp</color>\nĐáp xuống đất từ trên không, tấn công kẻ địch trên đường, đồng thời gây sát thương phạm vi khi chạm đất."
-    },
-    "imgid": "s_243101"
+    }
   },
   {
     "title": {
@@ -62,8 +61,7 @@
       "id": "Tidak ada yang perlu dikhawatirkan. Jika ada yang mengangkat tangan melawan dia atau anak buahnya, dia akan membalasnya sepuluh kali lipat dengan pedang dan petir.\n\n<color=#FFD780FF>Tekan</color>\nDengan akumulasi listrik, Beidou mengayunkan pedangnya dengan garang, mengakibatkan <color=#FFACFFFF>Electro DMG</color>.\n\n<color=#FFD780FF>Tahan</color>\nMengangkat senjata dan menggunakannya sebagai perisai. Max DMG yang tertahan meningkat seiring dengan Max HP Beidou.\nSaat dilepas atau saat durasi skill selesai, menyerang dengan energi yang tersimpan di dalam pedang, mengakibatkan <color=#FFACFFFF>Electro DMG</color>.\nDMG serangan meningkat berdasarkan jumlah serangan yang diterima selama skill berlangsung. Bonus DMG akan tercapai saat skill terpicu dua kali.\nPerisainya memiliki efek berikut:\n·Memiliki 250% ketahanan terhadap <color=#FFACFFFF>Electro DMG</color>.\n·Memberikan <color=#FFACFFFF>elemen Electro</color> kepada Beidou saat skill diaktifkan.\n\n<i>Taklukkan deru lautan! Kendarai ombak dan terjanglah badai!</i>",
       "th": "#ไม่มีอะไรต้องเป็นห่วง หากมีใครกล้า ที่จะแตะต้องเธอหรือคนของเธอ ผู้นั้นจะต้องได้รับบทเรียนของสายฟ้า และดาบยักษ์คืนเป็นสิบเท่าอย่างแน่นอน\n\n<color=#FFD780FF>{LAYOUT_MOBILE#แตะ}{LAYOUT_PC#กด}{LAYOUT_PS#กด}</color>\nรวบรวมพลังไฟฟ้าและฟันออกไป ข้างหน้าอย่างรุนแรงด้วยดาบขนาดยักษ์ เกิดเป็น<color=#FFACFFFF>ความเสียหายไฟฟ้า</color>\n\n<color=#FFD780FF>{LAYOUT_MOBILE#แตะค้าง}{LAYOUT_PC#กดค้าง}{LAYOUT_PS#กดค้าง}</color>\nยกอาวุธขึ้นมาเป็นเกราะป้องกัน โดยปริมาณการดูดซับความเสียหายจะขึ้นอยู่กับพลังชีวิตสูงสุดของ Beidou\nเมื่อปลดสกิลออกหรือหมดช่วงเวลา ต่อเนื่อง จะทำการโจมตีด้วยดาบยักษ์ ที่เต็มไปด้วยพลังที่รวบรวมเอาไว้ เพื่อสร้าง<color=#FFACFFFF>ความเสียหายไฟฟ้า</color> ซึ่งความรุนแรงของความเสียหายที่สร้าง จะขึ้นอยู่กับจำนวนครั้งการโจมตีที่ได้รับขณะใช้สกิล โดยโบนัสความเสียหายสูงสุด จะเกิดขึ้นเมื่อปลดปล่อยเอฟเฟกต์นี้ 2 ครั้ง\nโล่ป้องกันจะมีเอฟเฟกต์ดังนี้:\n·มีเอฟเฟกต์การดูดซับ <color=#FFACFFFF>ความเสียหายไฟฟ้า</color> 250%;\n·ทันทีที่ปลดปล่อยออกไปจะเพิ่ม การ<color=#FFACFFFF>ติดสถานะธาตุไฟฟ้า</color>ให้แก่ Beidou\n\n<i>โอบล้อมด้วยทะเล ตามหาเกลียวคลื่นและสายฟ้า</i>",
       "vi": "Không có gì phải lo lắng. Nếu có ai dám ra tay với cô hoặc người của cô, thì sẽ phải trả giá gấp 10 lần bằng sấm sét và kiếm.\n\n<color=#FFD780FF>Nhấn</color>\nTích tụ sức mạnh sấm sét, chém mạnh kiếm lớn về phía trước, gây <color=#FFACFFFF>Sát Thương Nguyên Tố Lôi</color>.\n\n<color=#FFD780FF>Nhấn Giữ</color>\nNhấc vũ khí lên hình thành khiên, hấp thụ lượng sát thương căn cứ theo giới hạn HP của Beidou.\nSau khi thả giữ kỹ năng hoặc hết thời gian, sẽ vung kiếm giải phóng sức mạnh tích lũy để phản công, gây <color=#FFACFFFF>Sát Thương Nguyên Tố Lôi</color>. Dựa vào số lần bị tấn công trong thời gian kỹ năng, tăng sát thương tạo thành. Kích hoạt 2 lần sẽ đạt buff sát thương cao nhất.\nKhiên có hiệu quả như sau:\n·Đối với <color=#FFACFFFF>Sát Thương Nguyên Tố Lôi</color> có 250% hiệu quả hấp thu;\n·Khi thi triển, có thêm <color=#FFACFFFF>Nguyên Tố Lôi kèm theo</color> cho Beidou.\n\n<i>Thuyền Meo Meo đuổi theo sóng biển.</i>"
-    },
-    "imgid": "s_243201"
+    }
   },
   {
     "title": {
@@ -95,8 +93,7 @@
       "id": "Dengan memanggil kembali semangat tarung saat di tengah pertarungan sengit melawan Haishan, Beidou memanggil petir dan kekuatan yang luar biasa untuk menciptakan Thunderbeast's Targe di sekelilingnya, mengakibatkan <color=#FFACFFFF>Electro DMG</color> kepada musuh di sekitarnya.\n\n<color=#FFD780FF>Thunderbeast's Targe</color>\n·Saat Normal dan Charged Attack mengenai musuh, memanggil 1 sambaran petir yang dapat melompat di antara musuh, mengakibatkan <color=#FFACFFFF>Electro DMG</color>.\n·Meningkatkan ketahanan Beidou terhadap interupsi, dan mengurangi DMG yang diterima.\n\nSambaran petir terpicu maksimum 1 kali setiap detik.\n\n<i>Dengan gemuruh petir, Haishan pun ditaklukkan.</i>",
       "th": "ระลึกถึงการต่อสู้ของเธอกับอสูรยักษ์ Haishan เรียกความแข็งแกร่งดุจอสูร และพลังแห่งสายฟ้าออกมาเพื่อสร้าง Thunderbeast's Targe ล้อมรอบตัวเอง และสร้าง<color=#FFACFFFF>ความเสียหายไฟฟ้า</color>แก่ศัตรู ที่อยู่โดยรอบ\n\n<color=#FFD780FF>Thunderbeast's Targe</color>\n·เมื่อโจมตีปกติหรือชาร์จโจมตี ถูกเป้าหมายจะปลดปล่อยพลังไฟฟ้า และทำให้เกิดสายฟ้าวิ่งผ่านระหว่างศัตรู แต่ละตัวเพื่อสร้าง<color=#FFACFFFF>ความเสียหายไฟฟ้า</color>;\n·เพิ่มความสามารถในการต้านทาน การหยุดชะงักของตัวละครและลด ความเสียหายที่ได้รับลง\n\nทำให้เกิดสายฟ้าอย่างมาก 1 เส้น ในทุกหนึ่งวินาที\n\n<i>พลังของสายฟ้าฟาดผ่าทะเลและภูผา</i>",
       "vi": "Nhớ lại trận chiến diệt Cự Thú Hải Sơn, triệu hồi cự thú và sức mạnh lôi điện, tạo ra Khiên Lôi Thú bao quanh, đồng thời gây <color=#FFACFFFF>Sát Thương Nguyên Tố Lôi</color> cho kẻ địch xung quanh.\n\n<color=#FFD780FF>Khiên Lôi Thú</color>\n·Khi tấn công thường và trọng kích đánh trúng địch, giải phóng sức mạnh sấm sét, tạo 1 tia sét chạy giữa địch, gây <color=#FFACFFFF>Sát Thương Nguyên Tố Lôi</color>;\n·Tăng khả năng kháng gián đoạn của nhân vật và giảm sát thương phải chịu.\n\nMỗi giây tối đa kích hoạt 1 tia sét.\n\n<i>Sấm sét chói lọi, dời non lấp bể.</i>"
-    },
-    "imgid": "s_243901"
+    }
   },
   {
     "title": {
@@ -128,8 +125,7 @@
       "id": "Membalas serangan menggunakan <color=#FFD780FF>Tidecaller</color> tepat saat serangan mengenai karakter akan memberikan Bonus DMG maksimum.",
       "th": "เมื่อปล่อยการโจมตีกลับด้วย <color=#FFD780FF>Tidecaller</color> จะได้รับโบนัสความเสียหายสูงสุด",
       "vi": "Khi <color=#FFD780FF>Bắt Sóng</color> phản đòn vào đúng lúc nhân vật bị tấn công, sẽ có buff sát thương cao nhất."
-    },
-    "imgid": "p_242101"
+    }
   },
   {
     "title": {
@@ -161,8 +157,7 @@
       "id": "Selama 10 detik setelah menggunakan skill <color=#FFD780FF>Tidecaller</color> dengan Bonus DMG maksimum, Beidou akan mendapatkan efek:\n·Meningkatkan 15% DMG yang diakibatkan oleh Normal Attack dan Charged Attack. Meningkatkan 15% ATK SPD Normal Attack dan Charged Attack.\n·Mengurangi waktu persiapan Charged Attack secara pesat.",
       "th": "หลังจากปล่อย <color=#FFD780FF>Tidecaller</color> ที่มีโบนัสความเสียหายสูงสุด ภายใน 10 วินาที จะได้รับเอฟเฟกต์ดังนี้\n·การโจมตีปกติและชาร์จโจมตี สร้างความเสียหายเพิ่มขึ้น 15% และความเร็วในการโจมตีเพิ่มขึ้น 15%\n·ลดเวลาที่ต้องใช้ในการเตรียม ชาร์จโจมตีลงอย่างมาก",
       "vi": "Trong 10s sau khi thi triển <color=#FFD780FF>Bắt Sóng</color> có buff sát thương cao nhất, nhận được hiệu quả như sau:\nSát thương trọng kích và tấn công thường tạo thành tăng 15%, tốc độ tấn công tăng 15%;\nGiảm thời gian chuẩn bị cần thiết cho trọng kích."
-    },
-    "imgid": "p_242201"
+    }
   },
   {
     "title": {
@@ -190,11 +185,10 @@
       "es": "Disminuye en un 20% el Coste de Aguante al nadar de todos los miembros de tu equipo.\nNo se puede acumular con otros talentos pasivos que tengan los mismos efectos.",
       "fr": "Réduit la consommation d'endurance de vos personnages dans l'équipe de 20 % lors de la nage.\nNe peut pas être cumulé avec d'autres aptitudes passives aux effets identiques.",
       "pt": "Diminui o consumo de Stamina ao Nadar de todos os seus personagens em 20%.\nNão acumulável com Talentos Passivos que concedem exatamente os mesmos efeitos.",
-      "ru": "Уменьшает потребление выносливости активного персонажа во время плавания на 20%.\nНе суммируется с пассивными талантами, дающими точно такие же эффекты.",
+      "ru": "Уменьшает потребление выносливости собственных персонажей во время плавания на 20%.\nНе суммируется с пассивными талантами, дающими точно такие же эффекты.",
       "id": "Mengurangi 20% konsumsi Stamina Karakter sendiri saat berenang.\nEfek tidak dapat ditumpuk dengan Talenta Pasif lain dengan efek yang sama.",
       "th": "ลดอัตราการเสียพลังกายจากการว่ายน้ำ ให้ตัวละครของตนเองที่อยู่ในทีมลง 20%\nไม่สามารถซ้อนทับพรสวรรค์ติดตัวที่เอฟเฟกต์เหมือนกันทุกประการได้",
       "vi": "Giảm 20% tiêu hao thể lực khi bơi cho nhân vật trong đội của bản thân.\nKhông thể cộng dồn với buff Thiên Phú cố định có cùng hiệu quả."
-    },
-    "imgid": "p_242301"
+    }
   }
 ]

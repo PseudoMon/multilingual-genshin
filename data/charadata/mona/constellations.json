@@ -23,7 +23,7 @@
       "en": "When any of your own party members hits an opponent affected by an Omen, the effects of <color=#80C0FFFF>Hydro-related Elemental Reactions</color> are enhanced for 8s:\n·Electro-Charged DMG increases by 15%.\n·Vaporize DMG increases by 15%.\n·Hydro Swirl DMG increases by 15%.\n·Frozen duration is extended by 15%.",
       "de": "Verstärkt den Effekt von <color=#80C0FFFF>Hydro-Elementarreaktionen</color>, wenn eine eigene Figur in der Truppe Gegner im Zustand Omen trifft, 8 s lang:\n· Erhöht den mit der Reaktion Unter Strom verursachten Schaden um 15 %, den mit der Reaktion Verdampfen verursachten Schaden um 15 % und den mit der Reaktion Hydro-Verwirbelung verursachten Schaden um 15 %.\n· Verlängert die Wirkungsdauer von Gefroren um 15 %.",
       "es": "Cuando un personaje de tu equipo ataca a un enemigo afectado por un presagio, los efectos de las <color=#80C0FFFF>Reacciones Elementales con Hydro</color> se potencian durante 8 s:\n·Aumenta en un 15% el daño de Electrocargado, Vaporización y Torbellino Hydro.\n·Aumenta en un 15% la duración de Congelado en enemigos.",
-      "fr": "Les effets des <color=#80C0FFFF>réactions liées à l'élément Hydro</color> sont renforcés pendant 8 s lorsque l'attaque de vos personnages dans l'équipe touche un ennemi marqué par un présage :\n· Les DGT d'Électrocution, d'Évaporation, de Dispersion Hydro augmentent de 15 %.\n· La durée de Gel augmente de 15 %.",
+      "fr": "Les effets des <color=#80C0FFFF>réactions liées à l'élément Hydro</color> sont renforcés pendant 8 s lorsqu'une attaque de vos personnages dans l'équipe touche un ennemi marqué par un présage :\n· Les DGT d'Électrocution, d'Évaporation, de Dispersion Hydro augmentent de 15 %.\n· La durée de Gel augmente de 15 %.",
       "pt": "Os efeitos de <color=#80C0FFFF>Reações Elementais relacionadas a Hydro</color> agora são aprimorados por 8 segundos depois que o seu próprio personagem de equipe atingir um inimigo afetado por um Presságio:\n Dano Eletricamente Carregado é aumentado em 15%.\n Dano de Vaporizar é aumentado em 15%.\n Dano de Redemoinho é aumentado em 15%.\nA duração em que os inimigos ficam Congelados é aumentada em 15%.",
       "ru": "Попадания персонажа из вашего отряда по противнику со статусом Омен на 8 сек. усиливают эффекты <color=#80C0FFFF>Гидро реакций</color>:\n· Увеличивает урон реакций Заряжен, Пар и Гидро рассеивание на 15%;\n· Увеличивает длительность реакции Заморозка на 15%.",
       "id": "Efek <color=#80C0FFFF>Reaksi Elemental yang berhubungan dengan elemen Hydro</color> akan ditingkatkan selama 8 detik setelah karakter dalam party sendiri menyerang musuh yang terkena efek Omen:\n·DMG Electro Charged meningkat 15%.\n·DMG Vaporize meningkat 15%.\n·DMG Hydro Swirl meningkat 15%.\n·Durasi musuh yang terkena Frozen meningkat 15%.",
@@ -93,7 +93,7 @@
       "pt": "Aumenta o nível da <color=#FFD780FF>Órbita Divina</color> em 3.\nO nível máximo de elevação é 15.",
       "ru": "Увеличивает уровень навыка <color=#FFD780FF>Звёздный фантазм</color> на 3.\nМакс. уровень: 15",
       "id": "Meningkatkan 3 level <color=#FFD780FF>Stellaris Phantasm</color>.\nMaksimum: Lv. 15.",
-      "th": "เพิ่มเลเวลของสกิล <color=#FFD780FF>Stellaris Phantasm</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "th": "เพิ่มเลเวลของสกิล <color=#FFD780FF>Stellaris Phantasm</color> ขึ้น 3 ระดับ\nเพิ่มได้สูงสุดถึงระดับ 15",
       "vi": "Cấp kỹ năng <color=#FFD780FF>Quỹ Đạo Tinh Mệnh</color> +3.\nTăng tối đa đến cấp 15."
     },
     "imgid": "constellation_3"
@@ -159,7 +159,7 @@
       "pt": "Aumenta o nível da <color=#FFD780FF>Água Ilusória</color> em 3.\nO nível máximo de elevação é 15.",
       "ru": "Увеличивает уровень навыка <color=#FFD780FF>Отражение фатума</color> на 3.\nМакс. уровень: 15",
       "id": "Meningkatkan 3 level <color=#FFD780FF>Mirror Reflection of Doom</color>.\nMaksimum: Lv. 15.",
-      "th": "เพิ่มเลเวลของสกิล <color=#FFD780FF>Mirror Reflection of Doom</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "th": "เพิ่มเลเวลของสกิล <color=#FFD780FF>Mirror Reflection of Doom</color> ขึ้น 3 ระดับ\nเพิ่มได้สูงสุดถึงระดับ 15",
       "vi": "Cấp kỹ năng <color=#FFD780FF>Ảo Vọng Dưới Nước</color> +3.\nTăng tối đa đến cấp 15."
     },
     "imgid": "constellation_5"

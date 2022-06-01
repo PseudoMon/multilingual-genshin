@@ -12,7 +12,7 @@
       "pt": "Dissolução de Eon - Destruidor de Mundos",
       "ru": "Эра распада: Сокрушитель миров",
       "id": "Dissolution Eon: Destroyer of Worlds",
-      "th": "Dissolution Eon - Destroyer of Worlds",
+      "th": "Dissolution Eon: Destroyer of Worlds",
       "vi": "Hoại Kiếp - Hủy Hoại Tam Giới"
     },
     "description": {
@@ -45,7 +45,7 @@
       "pt": "Aniquilação de Eon - Flor de Kaleidos",
       "ru": "Эра истребления: Расцвет Калейдоса",
       "id": "Annihilation Eon: Blossom of Kaleidos",
-      "th": "Annihilation Eon - Blossom of Kaleidos",
+      "th": "Annihilation Eon: Blossom of Kaleidos",
       "vi": "Không Kiếp - Hư Không Hoa Khai"
     },
     "description": {
@@ -78,7 +78,7 @@
       "pt": "Conquistador do Mal · Deidade da Ira",
       "ru": "Завоеватель зла: Бог гнева",
       "id": "Conqueror of Evil: Wrath Deity",
-      "th": "Conqueror of Evil - Wrath Deity",
+      "th": "Conqueror of Evil: Wrath Deity",
       "vi": "Hàng Ma - Phẫn Nộ Hiện Rõ"
     },
     "description": {
@@ -93,7 +93,7 @@
       "pt": "Aumenta o nível do <color=#FFD780FF>Vento Lemniscático</color> em 3.\nO nível máximo de elevação é 15.",
       "ru": "Увеличивает уровень навыка <color=#FFD780FF>Лемниската ветра</color> на 3.\nМакс. уровень: 15",
       "id": "Meningkatkan 3 level <color=#FFD780FF>Lemniscatic Wind Cycling</color>.\nMaksimum: Lv. 15.",
-      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Lemniscatic Wind Cycling</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Lemniscatic Wind Cycling</color> ขึ้น 3 ระดับ\nเพิ่มได้สูงสุดถึงระดับ 15",
       "vi": "Cấp kỹ năng <color=#FFD780FF>Đôi Bánh Xe Gió</color> +3.\nTăng tối đa đến cấp 15."
     },
     "imgid": "constellation_3"
@@ -111,7 +111,7 @@
       "pt": "Transcensão - Extinção do Sofrimento",
       "ru": "Трансценденция: Исчезновение страданий",
       "id": "Transcension: Extinction of Suffering",
-      "th": "Transcension - Extinction of Suffering",
+      "th": "Transcension: Extinction of Suffering",
       "vi": "Thần Thông - Chư Khổ Diệt Tận"
     },
     "description": {
@@ -144,7 +144,7 @@
       "pt": "Evolução de Eon - Origem da Ignorância",
       "ru": "Эра эволюции: Истоки невежества",
       "id": "Evolution Eon: Origin of Ignorance",
-      "th": "Evolution Eon - Origin of Ignorance",
+      "th": "Evolution Eon: Origin of Ignorance",
       "vi": "Thành Kiếp - Vô Minh Tăng Trưởng"
     },
     "description": {
@@ -159,7 +159,7 @@
       "pt": "Aumenta o nível da <color=#FFD780FF>Dança Nuo da Conquista do Mal</color> em 3.\nO nível máximo de elevação é 15.",
       "ru": "Увеличивает уровень навыка <color=#FFD780FF>Истребление всего зла</color> на 3.\nМакс. уровень: 15",
       "id": "Meningkatkan 3 level <color=#FFD780FF>Bane of All Evil</color>.\nMaksimum: Lv. 15.",
-      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Bane of All Evil</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Bane of All Evil</color> ขึ้น 3 ระดับ\nเพิ่มได้สูงสุดถึงระดับ 15",
       "vi": "Cấp kỹ năng <color=#FFD780FF>Vũ Điệu Trừ Yêu</color> +3.\nTăng tối đa đến cấp 15."
     },
     "imgid": "constellation_5"
@@ -177,7 +177,7 @@
       "pt": "Conquistador do Mal - Guardião Yaksha",
       "ru": "Завоеватель зла: Защитник Якса",
       "id": "Conqueror of Evil: Guardian Yaksha",
-      "th": "Conqueror of Evil - Guardian Yaksha",
+      "th": "Conqueror of Evil: Guardian Yaksha",
       "vi": "Hàng Ma - Hộ Pháp Dạ Xoa"
     },
     "description": {

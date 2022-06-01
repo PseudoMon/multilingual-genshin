@@ -12,7 +12,7 @@
       "pt": "Ataque Normal: Estilo Guhua",
       "ru": "Стиль Гухуа",
       "id": "Normal Attack: Guhua Style",
-      "th": "โจมตีปกติ - Guhua Style",
+      "th": "โจมตีปกติ: Guhua Style",
       "vi": "Tấn Công Thường: Cổ Hoa Kiếm Pháp"
     },
     "description": {
@@ -29,8 +29,7 @@
       "id": "<color=#FFD780FF>Normal Attack</color>\nMelancarkan hingga 5 serangan berturut-turut.\n\n<color=#FFD780FF>Charged Attack</color>\nMengonsumsi sejumlah Stamina untuk melancarkan dua tebasan pedang.\n\n<color=#FFD780FF>Plunging Attack</color>\nMenerjang dari udara untuk menghantam tanah, mengakibatkan DMG pada musuh di jalur terjangan dan mengakibatkan DMG area saat mendarat.",
       "th": "<color=#FFD780FF>โจมตีปกติ</color>\nโจมตีด้วยดาบต่อเนื่องมากสุดห้าครั้ง\n\n<color=#FFD780FF>ชาร์จโจมตี</color>\nใช้พลังกายส่วนหนึ่งเพื่อปลดปล่อยดาบ ออกไปข้างหน้าสองเล่มในช่วงเวลาสั้น ๆ\n\n<color=#FFD780FF>โจมตีพุ่งลงจากอากาศ</color>\nกระโจนจากกลางอากาศลงมายังพื้นดิน เพื่อโจมตีศัตรูที่อยู่ในเส้นทางการโจมตี โดยจะสร้างความเสียหายวงกว้างเมื่อลงถึงพื้น",
       "vi": "<color=#FFD780FF>Tấn Công Thường</color>\nThực hiện tối đa 5 lần đánh kiếm liên tiếp.\n\n<color=#FFD780FF>Trọng Kích</color>\nTiêu hao thể lực nhất định, đánh ra hai kiếm về phía trước trong chớp mắt.\n\n<color=#FFD780FF>Tấn Công Khi Đáp</color>\nĐáp xuống đất từ trên không, tấn công kẻ địch trên đường và gây sát thương phạm vi khi chạm đất."
-    },
-    "imgid": "s_253101"
+    }
   },
   {
     "title": {
@@ -45,7 +44,7 @@
       "pt": "Espada de Guhua: Chuva Torrencial",
       "ru": "Гухуа: Завеса дождя",
       "id": "Guhua Sword: Fatal Rainscreen",
-      "th": "Guhua Sword · Fatal Rainscreen",
+      "th": "Guhua Sword: Fatal Rainscreen",
       "vi": "Cổ Hoa Kiếm - Họa Vũ Lung Sơn"
     },
     "description": {
@@ -62,8 +61,7 @@
       "id": "Xingqiu mengayunkan pedangnya dua kali, mengakibatkan <color=#80C0FFFF>Hydro DMG</color> kepada musuh di hadapannya. Pada saat bersamaan, skill ini akan menciptakan Rain Sword dalam jumlah maksimum yang akan mengitari karakter.\nRain Sword memiliki karakteristik berikut:\n·Saat karakter menerima DMG, Rain Sword akan hancur dan mengurangi DMG yang diterima;\n·Meningkatkan ketahanan karakter terhadap interupsi.\nSebanyak 20% dari <color=#80C0FFFF>Hydro DMG Bonus</color> milik Xingqiu akan dikonversi menjadi DMG Reduction tambahan untuk Rain Sword.\n\nJumlah maksimum DMG Reduction tambahan yang bisa didapatkan dengan cara ini adalah 24%.\nJumlah maksimum Rain Sword di awal adalah 3.\nMenggunakan skill ini akan mengenakan efek <color=#80C0FFFF>Wet</color> pada karakter.\n\n<i>\"Lebih mudah mengalahkan naga air daripada membelah air hujan.\"</i>",
       "th": "โจมตีฟันต่อเนื่องสองครั้ง สร้าง<color=#80C0FFFF>ความเสียหายน้ำ</color>แก่ศัตรูที่อยู่ตรงหน้า ขณะเดียวกันจะสร้าง Rain Sword จำนวนสูงสุดขึ้นมารอบ ๆ ตัวละครของตนเองที่เข้าต่อสู้ในขณะนั้น\nRain Sword มีคุณสมบัติดังนี้:\n·จะแตกเมื่อตัวละครได้รับความเสียหาย โดยจะลดความเสียหายที่ได้รับลง;\n·เพิ่มความสามารถใน การต้านทานการหยุดชะงักของตัวละคร\n20% ของ<color=#80C0FFFF>โบนัสความเสียหายน้ำ</color>ของ Xingqiu จะเปลี่ยนเป็นการลด ความเสียหายเพิ่มเติมของ Rain Swords\n\nลดความเสียหายเพิ่มเติมด้วยวิธีนี้ได้มากสุด 24%\nจำนวนมากสุดในตอนเริ่มของ Rain Sword คือ 3 เล่ม\nทันทีที่ปล่อยออกมาจะทำให้ตัวละครติดสถานะ<color=#80C0FFFF>เปียกชุ่ม</color>\n\n<i>\"มันง่ายกว่าที่จะฟันมังกรแทนที่จะผ่าสายฝน\"</i>",
       "vi": "Thi triển hai đợt kiếm, gây <color=#80C0FFFF>Sát Thương Nguyên Tố Thủy</color> cho địch phía trước. Đồng thời, tạo ra \"Vũ Liêm Kiếm\" với số lượng tối đa bay xung quanh nhân vật của bản thân trong trận hiện tại.\nĐặc tính:\n·Khi nhân vật chịu sát thương sẽ vỡ và giảm sát thương phải chịu; \n·Tăng khả năng kháng gián đoạn của nhân vật\n20% <color=#80C0FFFF>buff Sát Thương Nguyên Tố Thủy</color> của Xingqiu sẽ chuyển đổi thành giảm sát thương của Vũ Liêm Kiếm.\n\nThông qua cách này tối đa sẽ được 24% giảm sát thương thêm.\nSố lượng Vũ Liêm Kiếm ban đầu nhiều nhất là 3.\nTrong thời gian thi triển, tạo trạng thái <color=#80C0FFFF>Ẩm Ướt</color> cho nhân vật.\n\n<i>\"Giao Long dễ trảm, mưa rơi khó vẽ\".</i>"
-    },
-    "imgid": "s_253201"
+    }
   },
   {
     "title": {
@@ -78,7 +76,7 @@
       "pt": "Espada Guhua: Retalhador de Chuva",
       "ru": "Гухуа: Радужная стойка",
       "id": "Guhua Sword: Raincutter",
-      "th": "Guhua Sword · Raincutter",
+      "th": "Guhua Sword: Raincutter",
       "vi": "Cổ Hoa Kiếm - Tài Vũ Lưu Hồng"
     },
     "description": {
@@ -95,8 +93,7 @@
       "id": "Memulai Rainbow Bladework dan bertarung menggunakan hujanan pedang ilusi sambil menciptakan Rain Sword dalam jumlah maksimum.\n\n<color=#FFD780FF>Rainbow Bladework</color>\n·Normal Attack dari karakter yang sedang digunakan akan meluncurkan pedang air yang menyerang berturut-turut dan mengakibatkan <color=#80C0FFFF>Hydro DMG</color>;\n·Jumlah Rain Sword akan terus berada dalam jumlah maksimum selama durasi skill.\n\n<i>\"Way of the Rain Cutter\" adalah salah satu ilmu rahasia Klan Guhua.</i>",
       "th": "เปิดใช้ Rainbow Bladework ต่อสู้โดย ใช้ภาพมายาของฝนดาบและสร้าง Rain Sword จำนวนสูงสุดขึ้นมา\n\n<color=#FFD780FF>Rainbow Bladework</color>\n·เมื่อตัวละครของตนเองที่เข้าต่อสู้ในขณะนั้นโจมตีปกติ จะทำการโจมตีด้วยฝนดาบอย่างต่อเนื่อง สร้าง<color=#80C0FFFF>ความเสียหายน้ำ</color>;\n·จำนวนของ Rain Sword จะยังคงมีจำนวนสูงสุดตลอดระยะเวลาของสกิล\n\n<i>Way of the Rain Cutter หนึ่งในเคล็ดวิชาลับที่ไม่ได้ถูกสอนต่อกันมาของ Guhua</i>",
       "vi": "Thi triển thế kiếm cầu vồng, điều khiển ảo ảnh mưa kiếm để chiến đấu, tăng số lượng Vũ Liêm Kiếm lên mức cao nhất.\n\n<color=#FFD780FF>Kiếm Cầu Vồng</color>\n·Khi nhân vật của bản thân thi triển tấn công thường, tạo ra mưa kiếm kết hợp tấn công, gây <color=#80C0FFFF>Sát Thương Nguyên Tố Thủy</color>; \n·Số lượng Vũ Liêm Kiếm sẽ duy trì ở số lượng cao nhất.\n\n<i>[Tài Vũ Pháp] là một trong những bí kíp của phái Cổ Hoa.</i>"
-    },
-    "imgid": "s_253901"
+    }
   },
   {
     "title": {
@@ -128,8 +125,7 @@
       "id": "Saat sebuah Rain Sword hancur atau durasinya berakhir, memulihkan HP karakter saat ini sebesar 6% Max HP Xingqiu.",
       "th": "เมื่อ Rain Sword ถูกทำลายหรือหมดเวลาตัวละครในขณะนั้นจะได้รับการฟื้นฟูพลังชีวิต โดยจะมีปริมาณเท่ากับ 6% ของพลังชีวิตสูงสุดของ Xingqiu",
       "vi": "Vũ Liêm Kiếm bị phá vỡ hoặc hết thời gian, dựa trên 6% HP tối đa của Xingqiu, trị liệu HP cho nhân vật hiện tại."
-    },
-    "imgid": "p_252101"
+    }
   },
   {
     "title": {
@@ -161,8 +157,7 @@
       "id": "Xingqiu memperoleh 20% <color=#80C0FFFF>Hydro DMG Bonus</color>.",
       "th": "Xingqiu ได้รับ<color=#80C0FFFF>โบนัสความเสียหายน้ำ</color>เพิ่ม 20%",
       "vi": "Xingqiu nhận 20% <color=#80C0FFFF>buff sát thương Nguyên Tố Thủy</color>."
-    },
-    "imgid": "p_252201"
+    }
   },
   {
     "title": {
@@ -194,7 +189,6 @@
       "id": "Xingqiu memiliki 25% kemungkinan untuk mendapatkan kembali material yang digunakan untuk membuat Material Talenta Karakter.",
       "th": "เมื่อสร้างวัสดุพรสวรรค์ของตัวละคร จะมีโอกาส 25% ที่จะได้รับวัสดุส่วนหนึ่งที่ใช้ไปคืน",
       "vi": "Khi ghép nguyên liệu thiên phú nhân vật, có 25% tỷ lệ hoàn trả một phần nguyên liệu ghép."
-    },
-    "imgid": "p_252301"
+    }
   }
 ]

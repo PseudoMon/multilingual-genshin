@@ -12,7 +12,7 @@
       "pt": "Ataque Normal: Estilo de Yunlai",
       "ru": "Грозовое фехтование",
       "id": "Normal Attack: Yunlai Swordsmanship",
-      "th": "โจมตีปกติ - Yunlai Swordsmanship",
+      "th": "โจมตีปกติ: Yunlai Swordsmanship",
       "vi": "Tấn Công Thường - Vân Lai Kiếm Pháp"
     },
     "description": {
@@ -29,8 +29,7 @@
       "id": "<color=#FFD780FF>Normal Attack</color>\nMelancarkan hingga 5 serangan berturut-turut.\n\n<color=#FFD780FF>Charged Attack</color>\nMengonsumsi sejumlah Stamina untuk melancarkan dua tebasan pedang.\n\n<color=#FFD780FF>Plunging Attack</color>\nMenerjang dari udara untuk menghantam tanah, mengakibatkan DMG pada musuh di jalur terjangan dan mengakibatkan DMG area saat mendarat.",
       "th": "<color=#FFD780FF>โจมตีปกติ</color>\nโจมตีด้วยดาบต่อเนื่องมากสุดห้าครั้ง\n\n<color=#FFD780FF>ชาร์จโจมตี</color>\nใช้พลังกายส่วนหนึ่งเพื่อปลดปล่อยดาบ ออกไปข้างหน้าสองเล่มในช่วงเวลาสั้น ๆ\n\n<color=#FFD780FF>โจมตีพุ่งลงจากอากาศ</color>\nกระโจนจากกลางอากาศลงมายังพื้นดิน เพื่อโจมตีศัตรูที่อยู่ในเส้นทางการโจมตี โดยจะสร้างความเสียหายวงกว้างเมื่อลงถึงพื้น",
       "vi": "<color=#FFD780FF>Tấn Công Thường</color>\nThực hiện tối đa 5 lần đánh kiếm liên tiếp.\n\n<color=#FFD780FF>Trọng Kích</color>\nTiêu hao thể lực nhất định, đánh ra hai kiếm về phía trước trong chớp mắt.\n\n<color=#FFD780FF>Tấn Công Khi Đáp</color>\nĐáp xuống đất từ trên không, tấn công kẻ địch trên đường và gây sát thương phạm vi khi chạm đất."
-    },
-    "imgid": "s_423101"
+    }
   },
   {
     "title": {
@@ -62,8 +61,7 @@
       "id": "Dengan cepat menggunakan Lightning Stiletto untuk menghabisi musuh bagaikan kilat.\nSaat Stiletto mengenai musuh, mengakibatkan <color=#FFACFFFF>Electro DMG</color> kepada musuh dalam area yang kecil, dan menaruh Stiletto Mark di tempat.\n\n<color=#FFD780FF>Tahan</color>\nTahan untuk menyesuaikan arah ke mana Stiletto akan dilemparkan.\nStiletto yang dilemparkan oleh tipe serangan yang ditahan dapat ditangguhkan di udara, memungkinkan Keqing untuk melompat ke arah stiletto saat menggunakan Stellar Restoration untuk kedua kalinya.\n\n<color=#FFD780FF>Lightning Stiletto</color>\n·Jika Keqing menggunakan Stellar Restoration kembali atau menggunakan Charged Attack saat durasinya masih berlangsung, maka akan menghapus Stiletto Mark dan menghasilkan efek berbeda:\n·Jika dia menggunakan Stellar Restoration kembali, dia akan berpindah dengan cepat ke lokasi yang ditandai dan mengeluarkan satu serangan tebasan yang mengakibatkan <color=#FFACFFFF>Electro DMG area</color>. Saat berpindah menuju Stiletto yang dilemparkan dari serangan tahan, Keqing dapat mengabaikan hambatan yang ada.\n·Jika Keqing menggunakan Charged Attack, dia akan memicu beberapa tebasan petir di lokasi yang ditandai, mengakibatkan <color=#FFACFFFF>Electro DMG area</color>.\n\n<i>\"Manusia itu bagaikan ngengat, mengejar api tiada henti yang sering kali disebut sebagai Dewa atau Adeptus. Tapi api yang kumiliki di sini adalah milikku sendiri.\"</i>",
       "th": "#เรียกสายฟ้า Lightning Stiletto ออกมาอย่างรวดเร็วเพื่อทำลายล้างศัตรู\nเมื่อโจมตีโดนศัตรูจะทำให้เกิด <color=#FFACFFFF>ความเสียหายไฟฟ้า</color> ขึ้นกับศัตรูที่อยู่ในพื้นที่เล็ก ๆ และสร้างสัญลักษณ์ Stiletto Mark ลงบนจุดที่โดนโจมตี\n\n<color=#FFD780FF>{LAYOUT_MOBILE#แตะค้าง}{LAYOUT_PC#กดค้าง}{LAYOUT_PS#กดค้าง}</color>\n{LAYOUT_MOBILE#แตะค้าง}{LAYOUT_PC#กดค้าง}{LAYOUT_PS#กดค้าง}เพื่อปรับทิศทางของตำแหน่งที่ จะทำสัญลักษณ์ Stiletto\nสัญลักษณ์ Stiletto ที่ถูกโยนออกไปด้วย การแตะค้างจะสามารถหยุดค้างอยู่บน อากาศได้ และทำให้ Keqing สามารถ กระโดดไปหาได้เมื่อใช้ Stellar Restoration อีกครั้ง\n\n<color=#FFD780FF>Lightning Stiletto</color>\nระหว่างช่วงเวลาต่อเนื่องของ Lightning Stiletto เมื่อ Keqing ใช้ Stellar Restoration อีกครั้งหรือทำการชาร์จโจมตี จะเป็นการล้างสัญลักษณ์ Stiletto Mark และทำให้เกิดเอฟเฟกต์ที่แตกต่างกันขึ้น:\n·เมื่อใช้ Stellar Restoration อีกครั้ง เธอจะวาร์ปไปยังจุดที่ทำสัญลักษณ์ไว้ และทำการโจมตีเพื่อสร้าง <color=#FFACFFFF>ความเสียหายไฟฟ้าวงกว้าง</color> เมื่อวาร์ป ไปยังจุดที่แตะค้างเพื่อทำสัญลักษณ์ Stiletto ไว้ จะทำให้ Keqing สามารถกระโดดข้ามพื้นที่สิ่งกีดขวางได้;\n·เมื่อใช้ชาร์จโจมตี จะเป็นการดึงดูดสายฟ้าให้ฟาดลงมายังสัญลักษณ์ที่ทำไว้อย่างต่อเนื่องและ เกิดเป็น<color=#FFACFFFF>ความเสียหายไฟฟ้าวงกว้าง</color>\n\n<i>\"มนุษย์ก็เหมือนกับแมลงเม่า เอาแต่ไล่ตามแสงไฟที่เรียกว่า เทพเจ้าและเหล่าเซียน แต่แสงไฟนั่นเป็นสิ่งที่ฉันจุดขึ้นมาเอง\"</i>",
       "vi": "Giáng Đá Lôi nhanh như chớp, tiêu diệt kẻ địch.\nKhi Đá Lôi đánh trúng sẽ gây <color=#FFACFFFF>sát thương nguyên tố lôi</color> cho địch trong phạm vi nhỏ và để lại dấu ấn Đá Lôi ở nơi đó.\n\n<color=#FFD780FF>Nhấn giữ</color>\nNhấn giữ để điều chỉnh hướng giáng Đá Lôi.\nĐá Lôi được giáng xuống bằng cách nhấn giữ có thể lơ lửng trên không và khiến Keqing thi triển Tinh Đẩu Quy Vị lần nữa, vượt qua địa hình.\n\n<color=#FFD780FF>Đá Lôi</color>\nTrong thời gian Đá Lôi, Keqing thi triển Tinh Đẩu Quy Vị lần nữa hoặc trọng kích, sẽ xóa dấu ấn Đá Lôi và tạo ra hiệu quả khác nhau:\n·Khi thi triển Tinh Đẩu Quy Vị lần nữa, di chuyển đến nơi có dấu ấn thực hiện trảm kích 1 lần, gây <color=#FFACFFFF>sát thương phạm vi nguyên tố lôi</color>. Khi đến nơi nhấn giữ giáng Đá Lôi, có thể vượt qua chướng ngại của địa hình.\n·Khi thi triển trọng kích, ở nơi có dấu ấn sẽ giáng sét liên tục, gây <color=#FFACFFFF>sát thương phạm vi nguyên tố lôi</color> nhiều lần.\n\n<i>\"Chân dung là bướm đêm, cứ nhảy bổ vào ánh lửa gọi là thần tiên. Nhưng ánh sáng này của tôi là tự tôi thắp sáng\"</i>"
-    },
-    "imgid": "s_423201"
+    }
   },
   {
     "title": {
@@ -95,8 +93,7 @@
       "id": "Keqing melepaskan kekuatan petir, menghasilkan <color=#FFACFFFF>Electro DMG</color> pada area sekitar.\nLalu dia akan menyatu dengan bayangan pedangnya, menyerang dengan serangkaian pukulan petir kepada musuh di sekitarnya secara bersamaan yang menghasilkan beberapa <color=#FFACFFFF>Electro DMG</color>. Serangan terakhir menghasilkan <color=#FFACFFFF>Electro DMG area</color> yang luar biasa.\n\n<i>Teknik tercepat dalam ilmu pedang adalah harus cukup cepat sampai dapat memotong bintang-bintang</i>",
       "th": "ระเบิดพลังสายฟ้าออกมา ทำให้เกิด<color=#FFACFFFF>ความเสียหายไฟฟ้า</color>เป็นวงกว้าง\nจากนั้นหลบเข้าไปในเงาของดาบตัวเอง และโจมตีศัตรูรอบ ๆ อย่างรวดเร็วและต่อเนื่องเพื่อสร้าง <color=#FFACFFFF>ความเสียหายไฟฟ้า</color>หลายครั้ง และสร้าง<color=#FFACFFFF>ความเสียหายไฟฟ้าวงกว้าง</color> อย่างรุนแรงในการโจมตีครั้งสุดท้าย\n\n<i>หนึ่งในกระบวนท่าที่รวดเร็วที่สุดของ Keqing ซึ่งสามารถฟันดวงดาว ให้ร่วงหล่นได้</i>",
       "vi": "Dẫn nổ sức mạnh lôi điện, gây <color=#FFACFFFF>sát thương nguyên tố lôi</color> trong phạm vi.\nSau đó ẩn vào kiếm ảnh, gây liên trảm nhanh như sấm chớp cho kẻ địch xung quanh, gây nhiều lần <color=#FFACFFFF>sát thương nguyên tố lôi</color> và ở đòn cuối cùng, gây thêm <color=#FFACFFFF>sát thương phạm vi nguyên tố lôi</color>.\n\n<i>Chiêu nhanh nhất trong kiếm thuật có thể chém rơi tất cả ngôi sao trên trời.</i>"
-    },
-    "imgid": "s_423901"
+    }
   },
   {
     "title": {
@@ -128,8 +125,7 @@
       "id": "Setelah melancarkan <color=#FFD780FF>Stellar Restoration</color> untuk kedua kalinya saat Lightning Stiletto masih aktif, Keqing akan mendapatkan <color=#FFACFFFF>Electro Infusion</color> selama 5 detik.",
       "th": "ภายใน 5 วินาที หลังจากใช้ <color=#FFD780FF>Stellar Restoration</color> อีกครั้งระหว่างช่วงเวลาของ Lightning Stiletto จะทำให้ Keqing ได้รับ<color=#FFACFFFF>พลังแห่งไฟฟ้า</color>",
       "vi": "Ở thời gian Đá Lôi tồn tại, trong vòng 5s sau khi thi triển <color=#FFD780FF>Tinh Đẩu Quy Vị</color>, Keqing nhận <color=#FFACFFFF>Nguyên Tố Lôi đính kèm</color>."
-    },
-    "imgid": "p_422101"
+    }
   },
   {
     "title": {
@@ -161,8 +157,7 @@
       "id": "Meningkatkan 15% CRIT Rate dan Energy Recharge Keqing selama 8 detik ketika menggunakan skill <color=#FFD780FF>Starward Sword</color>.",
       "th": "เมื่อใช้ <color=#FFD780FF>Starward Sword</color> อัตราคริของ Keqing จะเพิ่มขึ้น 15% ประสิทธิภาพการฟื้นฟูพลังงานเพิ่มขึ้น 15% เป็นเวลา 8 วินาที",
       "vi": "Khi thi triển <color=#FFD780FF>Tuần Du Thiên Nhai</color>, tỷ lệ bạo kích của Keqing tăng 15%, hiệu quả nạp nguyên tố tăng 15%, duy trì 8s."
-    },
-    "imgid": "p_422201"
+    }
   },
   {
     "title": {
@@ -194,7 +189,6 @@
       "id": "Ketika dikirim untuk melakukan ekspedisi di Liyue, waktu yang dibutuhkan berkurang 25%.",
       "th": "เมื่อทำคำขอการออกสำรวจของ Liyue เวลาที่ใช้จะลดลง 25%",
       "vi": "Khi làm nhiệm vụ Phái Đi thám Hiểm ở Liyue, thời gian tiêu hao rút ngắn 25%."
-    },
-    "imgid": "p_422301"
+    }
   }
 ]

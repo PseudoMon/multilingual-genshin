@@ -12,7 +12,7 @@
       "pt": "Ataque Normal: Suspiro da Água",
       "ru": "Шёпот воды",
       "id": "Whisper of Water",
-      "th": "โจมตีปกติ - Whisper of Water",
+      "th": "โจมตีปกติ: Whisper of Water",
       "vi": "Tấn Công Thường: Giọng Ca Của Nước"
     },
     "description": {
@@ -29,8 +29,7 @@
       "id": "<color=#FFD780FF>Normal Attack</color>\nMelancarkan hingga 4 serangan air yang mengakibatkan <color=#80C0FFFF>Hydro DMG</color>.\n\n<color=#FFD780FF>Charged Attack</color>\nMengonsumsi sejumlah Stamina untuk mengakibatkan <color=#80C0FFFF>Hydro DMG area</color> setelah jeda singkat.\n\n<color=#FFD780FF>Plunging Attack</color>\nMengumpulkan kekuatan Hydro dan menerjang tanah, mengakibatkan DMG pada musuh di jalur terjangan dan mengakibatkan <color=#80C0FFFF>Hydro DMG area</color> saat mendarat.",
       "th": "<color=#FFD780FF>โจมตีปกติ</color>\nปล่อยการโจมตีน้ำต่อเนื่องมากสุดสี่ครั้ง เพื่อสร้าง<color=#80C0FFFF>ความเสียหายน้ำ</color>\n\n<color=#FFD780FF>ชาร์จโจมตี</color>\nใช้พลังกายบางส่วน โดยหลังจากร่ายเสร็จจะสร้าง <color=#80C0FFFF>ความเสียหายน้ำเป็นวงกว้าง</color>\n\n<color=#FFD780FF>โจมตีพุ่งลงจากอากาศ</color>\nรวบรวมพลังแห่งธาตุน้ำ กระโจนจากกลางอากาศลงมายังพื้นดิน เพื่อโจมตีศัตรูที่อยู่ในเส้นทางการโจมตี โดยจะสร้าง<color=#80C0FFFF>ความเสียหายน้ำวงกว้าง</color> เมื่อลงถึงพื้น",
       "vi": "<color=#FFD780FF>Tấn Công Thường</color>\nThực hiện tối đa 4 lần tấn công hoa nước, gây <color=#80C0FFFF>Sát Thương Nguyên Tố Thủy</color>.\n\n<color=#FFD780FF>Trọng Kích</color>\nTiêu hao thể lực nhất định, sau khi tụ lực, gây <color=#80C0FFFF>Sát Thương Phạm Vi Nguyên Tố Thủy</color>.\n\n<color=#FFD780FF>Tấn Công Khi Đáp</color>\nNgưng tụ sức mạnh nguyên tố Thủy, từ trên trời tấn công xuống mặt đất, tấn công kẻ địch trên đường đi, gây <color=#80C0FFFF>sát thương phạm vi Nguyên Tố Thủy</color> khi chạm đất."
-    },
-    "imgid": "s_143101"
+    }
   },
   {
     "title": {
@@ -62,8 +61,7 @@
       "id": "Memanggil tetesan air yang menyerupai not balok yang membentuk sebuah Melody Loop, mengakibatkan <color=#80C0FFFF>Hydro DMG</color> ke musuh di sekitar karakter dan memberikan efek <color=#80C0FFFF>Wet</color>.\n\n<color=#FFD780FF>Melody Loop</color>\n·Normal Attack Barbara dapat memulihkan HP seluruh anggota partymu dan karakter kawan di sekitar, jumlah HP yang dipulihkan berdasarkan pada Max HP Barbara;\n·Charged Attack Barbara memulihkan 4 kali lipat lebih banyak HP;\n·Memulihkan HP secara berkala untuk karakter sendiri yang sedang digunakan;\n·Memberikan efek <color=#80C0FFFF>Wet</color> kepada karakter dan musuh yang menyentuhnya.\n\n<i>Musik Barbara adalah sihir yang dapat menyembuhkan teman-temannya.</i>",
       "th": "เสียงร่ายที่ราวกับบทเพลง เรียกหยดน้ำออกมารวมตัวกลายเป็น วงแหวนดนตรีและสร้าง<color=#80C0FFFF>ความเสียหายน้ำ</color> แก่ศัตรูโดยรอบและทำให้ติดสถานะ <color=#80C0FFFF>เปียกชุ่ม</color>\n\n<color=#FFD780FF>วงแหวนดนตรี</color>\n·เมื่อการโจมตีปกติของ Barbara ถูกเป้าหมาย จะทำการฟื้นฟูพลังชีวิตให้แก่ตัวละคร ทั้งหมดในทีมรวมไปถึงตัวละครที่เป็น ฝ่ายเดียวกับตนเอง โดยปริมาณการฟื้นฟูจะขึ้นอยู่กับ พลังชีวิตสูงสุดของ Barbara;\n·เมื่อชาร์จโจมตีถูกเป้าหมายจะทำให้เกิด การฟื้นฟู 4 เท่า;\n·จะทำการฟื้นฟูพลังชีวิตให้แก่ตัวละครของตนเองที่เข้าต่อสู้ในขณะนั้นเป็นช่วง ๆ;\n·จะทำให้ตัวละครและศัตรูที่สัมผัสโดน ติดสถานะ<color=#80C0FFFF>เปียกชุ่ม</color>\n\n<i>บทเพลงของ Barbara คือเวทมนตร์ที่คอยรักษาทุก ๆ คน</i>",
       "vi": "Triệu hồi những giọt nước nhảy nhót như tiếng hát, tạo thành vòng âm thanh, gây cho địch xung quanh <color=#80C0FFFF>Sát Thương Nguyên Tố Thủy</color>, và thi triển trạng thái <color=#80C0FFFF>Ẩm Ướt</color>.\n\n<color=#FFD780FF>Vòng Âm Thanh</color>\n·Khi Barbara tấn công thường trúng địch, thì nhân vật của bản thân trong đội và các nhân vật cùng phe gần đó sẽ được hồi HP, lượng hồi phụ thuộc vào giới hạn HP của Barbara;\n·Khi trọng kích trúng, có thể hồi x4;\n·Mỗi một khoảng thời gian, sẽ hồi HP cho nhân vật của bản thân trong trận hiện tại;\n·Thi triển trạng thái <color=#80C0FFFF>Ẩm Ướt</color> cho nhân vật và địch có tiếp xúc.\n\n<i>Âm nhạc của Barbara là phép thuật trị liệu cho mọi người.</i>"
-    },
-    "imgid": "s_143201"
+    }
   },
   {
     "title": {
@@ -95,8 +93,7 @@
       "id": "Memulihkan HP karakter teman dan seluruh anggota party dalam jumlah besar, jumlah HP yang dipulihkan berdasarkan pada Max HP Barbara.\n\n<i>Keinginan Barbara untuk menyembuhkan adalah dorongan baginya untuk terus bertarung dan bernyanyi.</i>",
       "th": "ฟื้นฟูพลังชีวิตปริมาณมากให้แก่ ตัวละครฝ่ายเดียวกันที่อยู่ใกล้ และตัวละครของคุณในทีม โดยปริมาณการฟื้นฟูจะขึ้นอยู่กับพลังชีวิตสูงสุดของ Barbara\n\n<i>พลังที่คอยรักษาทุก ๆ คนตลอดการต่อสู้ ก็คือเสียงเพลงของ Barbara</i>",
       "vi": "Hồi lượng lớn HP cho các nhân vật của bản thân trong đội ở gần và tất cả nhân vật trong đội của bản thân, lượng hồi phụ thuộc vào giới hạn HP của Barbara.\n\n<i>Chữa lành trái tim cho mọi người là sức mạnh để Barbara chiến đấu và ca hát.</i>"
-    },
-    "imgid": "s_143901"
+    }
   },
   {
     "title": {
@@ -128,8 +125,7 @@
       "id": "Mengurangi 12% konsumsi Stamina karakter yang berada dalam Melody Loop dari skill <color=#FFD780FF>Let the Show Begin♪</color>.",
       "th": "เมื่อตัวละครใช้วงแหวนเพลง <color=#FFD780FF>Let the Show Begin♪</color> การใช้พลังกายจะลดลง 12%",
       "vi": "Khi nhân vật đang trong vòng âm thanh của <color=#FFD780FF>Buổi Diễn, Bắt Đầu♪</color>, giảm 12% thể lực tiêu hao."
-    },
-    "imgid": "p_142101"
+    }
   },
   {
     "title": {
@@ -161,8 +157,7 @@
       "id": "Setiap kali karakter yang sedang digunakan mengambil Elemental Orb/Particle, akan memperpanjang durasi Melody Loop dari skill <color=#FFD780FF>Let the Show Begin♪</color> selama 1 detik.\nPenambahan durasi maksimum adalah 5 detik.",
       "th": "เมื่อตัวละครของตนเอง ที่เข้าต่อสู้ในขณะนั้น ได้รับลูกแก้วธาตุหรืออณูธาตุ จะเพิ่มระยะเวลาของวงแหวนดนตรี <color=#FFD780FF>Let the Show Begin♪</color> ขึ้น 1 วินาที \nสามารถเพิ่มเวลาด้วยวิธีนี้ได้มากสุด 5 วินาที",
       "vi": "Khi nhân vật của bản thân trong trận hiện tại nhận được Nguyên Tố Tinh Cầu hoặc Nguyên Tố Hạt Nhân, vòng âm thanh của <color=#FFD780FF>Buổi Diễn,Bắt Đầu♪</color> sẽ kéo dài thêm 1s.\nBằng cách này có thể kéo dài nhiều nhất 5s."
-    },
-    "imgid": "p_142201"
+    }
   },
   {
     "title": {
@@ -194,7 +189,6 @@
       "id": "Saat masakan jenis pemulihan dimasak dengan sempurna, memiliki 12% kemungkinan mendapatkan hasil 2 kali lipat.",
       "th": "เมื่อปรุงอาหารประเภทฟื้นฟูได้ ระดับสมบูรณ์ จะมีโอกาส 12% ที่จะได้รับผลผลิตเพิ่มเป็น 2 เท่า",
       "vi": "Nấu hoàn mỹ món ăn thuộc loại hồi phục, có tỷ lệ 12% x2 sản lượng."
-    },
-    "imgid": "p_142301"
+    }
   }
 ]

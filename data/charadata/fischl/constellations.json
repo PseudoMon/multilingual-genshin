@@ -27,7 +27,7 @@
       "pt": "Mesmo que Oz não esteja presente no combate, ele ainda pode proteger Fischl através de seus Olhos de Corvo. Quando Fishl ataca um inimigo, Oz atacará simultaneamente, causando 22% de Dano de ATQ.",
       "ru": "Будучи вне битвы, Оз продолжает присматривать за Фишль. Когда Фишль атакует врага, Оз проводит совместную с ней атаку, нанося 22% урона от силы атаки Фишль.",
       "id": "Saat Oz tidak di dalam medan pertarungan, dia masih tetap bisa melindungi Fischl melalui mata burung gagak. Saat Fischl menyerang musuh dengan Normal Attack, Oz melancarkan serangan melalui mata burung gagak yang mengakibatkan DMG sebesar 22% ATK.",
-      "th": "ช่วงที่ Oz ไม่อยู่ในการต่อสู้นั้น จะยังคงคอยเฝ้ามอง Fischl ผ่านทางดวงตาของอีกา โดยเมื่อ Fischl ทำการโจมตีปกติใส่ศัตรูแล้ว Oz จะช่วยเสริมการโจมตี ผ่านทางดวงตาอีกา สร้างความเสียหายเป็น 22% ของพลังโจมตี",
+      "th": "ช่วงที่ Oz ไม่อยู่ในการต่อสู้นั้น จะยังคงคอยเฝ้ามอง Fischl ผ่านทางดวงตาของเรเวน โดยเมื่อ Fischl ทำการโจมตีปกติใส่ศัตรูแล้ว Oz จะช่วยเสริมการโจมตี ผ่านทางดวงตาเรเวน สร้างความเสียหายเป็น 22% ของพลังโจมตี",
       "vi": "Oz vẫn luôn theo dõi bảo vệ cho Fischl mặc dù không ở trên chiến trường. Khi Fischl tấn công thường với kẻ địch, Oz sẽ hỗ trợ tấn công qua mắt quạ và tạo ra sát thương bằng 22% tấn công."
     },
     "imgid": "constellation_1"
@@ -93,7 +93,7 @@
       "pt": "Aumenta o nível das <color=#FFD780FF>Asas da Vigilância Noturna</color> em 3.\nO nível máximo de elevação é 15.",
       "ru": "Увеличивает уровень навыка <color=#FFD780FF>Тень расправленных крыльев</color> на 3.\nМакс. уровень: 15",
       "id": "Meningkatkan 3 level <color=#FFD780FF>Nightrider</color>.\nMaksimum: Lv. 15.",
-      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Nightrider</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Nightrider</color> ขึ้น 3 ระดับ\nเพิ่มได้สูงสุดถึงระดับ 15",
       "vi": "Cấp kỹ năng <color=#FFD780FF>Cánh Chim Đêm</color> +3.\nTăng tối đa đến cấp 15."
     },
     "imgid": "constellation_3"
@@ -159,7 +159,7 @@
       "pt": "Aumenta o nível da <color=#FFD780FF>Ilusão Noturna</color> em 3.\nO nível máximo de elevação é 15.",
       "ru": "Увеличивает уровень навыка <color=#FFD780FF>Ночная иллюзия</color> на 3.\nМакс. уровень: 15",
       "id": "Meningkatkan 3 level <color=#FFD780FF>Midnight Phantasmagoria</color>.\nMaksimum: Lv. 15.",
-      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Midnight Phantasmagoria</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Midnight Phantasmagoria</color> ขึ้น 3 ระดับ\nเพิ่มได้สูงสุดถึงระดับ 15",
       "vi": "Cấp kỹ năng <color=#FFD780FF>Ảo Ảnh Bóng Đêm</color> +3.\nTăng tối đa đến cấp 15."
     },
     "imgid": "constellation_5"

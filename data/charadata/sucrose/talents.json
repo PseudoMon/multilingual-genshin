@@ -12,7 +12,7 @@
       "pt": "Ataque Normal: Criação do Espírito do Vento",
       "ru": "Базовая эссенция ветра",
       "id": "Normal Attack: Wind Spirit Creation",
-      "th": "โจมตีปกติ - Wind Spirit Creation",
+      "th": "โจมตีปกติ: Wind Spirit Creation",
       "vi": "Tấn Công Thường - Gió Thần Sáng Tạo"
     },
     "description": {
@@ -29,8 +29,7 @@
       "id": "<color=#FFD780FF>Normal Attack</color>\nMelancarkan hingga 4 serangan angin yang mengakibatkan <color=#80FFD7FF>Anemo DMG</color>.\n\n<color=#FFD780FF>Charged Attack</color>\nMengonsumsi sejumlah Stamina untuk mengakibatkan <color=#80FFD7FF>Anemo DMG area</color> setelah jeda singkat.\n\n<color=#FFD780FF>Plunging Attack</color>\nMengumpulkan kekuatan Anemo dan menerjang tanah, mengakibatkan DMG pada musuh di jalur terjangan dan mengakibatkan <color=#80FFD7FF>Anemo DMG area</color> saat mendarat.",
       "th": "<color=#FFD780FF>โจมตีปกติ</color>\nทำการโจมตีด้วย Wind Spirit ต่อเนื่องมากสุดสี่ครั้ง เกิดเป็น<color=#80FFD7FF>ความเสียหายลม</color>\n\n<color=#FFD780FF>ชาร์จโจมตี</color>\nใช้พลังกายบางส่วน หลังจากร่ายเสร็จ จะสร้าง<color=#80FFD7FF>ความเสียหายลมวงกว้าง</color>\n\n<color=#FFD780FF>โจมตีพุ่งลงจากอากาศ</color>\nรวบรวมพลังของจิตวิญญาณแห่ง สายลม กระโจนจากกลางอากาศลงมายังพื้นดิน เพื่อโจมตีศัตรูที่อยู่ในเส้นทางการโจมตี โดยจะสร้าง<color=#80FFD7FF>ความเสียหายลมวงกว้าง</color>เมื่อลงถึงพื้น",
       "vi": "<color=#FFD780FF>Tấn Công Thường</color>\nThực hiện tối đa 4 lần tấn công phong linh, gây <color=#80FFD7FF>Sát Thương Nguyên Tố Phong</color>.\n\n<color=#FFD780FF>Trọng Kích</color>\nTiêu hao thể lực nhất định, sau khi tụ lực, gây <color=#80FFD7FF>Sát Thương Phạm Vi Nguyên Tố Phong</color>.\n\n<color=#FFD780FF>Tấn Công Khi Đáp</color>\nNgưng tụ sức mạnh nguyên tố Phong, từ trên trời tấn công xuống mặt đất, tấn công kẻ địch trên đường, gây <color=#80FFD7FF>sát thương phạm vi nguyên tố Phong</color> khi chạm đất."
-    },
-    "imgid": "s_433101"
+    }
   },
   {
     "title": {
@@ -62,8 +61,7 @@
       "id": "Menciptakan Wind Spirit kecil yang menarik musuh dan obyek ke lokasi Wind Spirit sebelum menghempas musuh di area tersebut; juga mengakibatkan <color=#80FFD7FF>Anemo DMG</color>.\n\n<i>Ini sedikit memalukan, tetapi meskipun elemen kehidupan yang dilahirkan melalui prosedur ini menghilang dengan sangat cepat, mereka cukup berguna saat bertualang. Bahkan percobaan yang gagal pun dapat memiliki penggunaan yang praktis.</i>",
       "th": "เรียก Wind Spirit ขนาดเล็กออกมา โดยจะดึงดูดศัตรูและวัตถุให้เข้ามายังตำแหน่งของ Wind Spirit จากนั้นโจมตีศัตรูที่อยู่ในพื้นที่ให้ลอยขึ้น เพื่อสร้าง<color=#80FFD7FF>ความเสียหายลม</color>\n\n<i>พูดไปก็น่าอาย แม้ว่าสิ่งมีชีวิตซึ่งมีรูปแบบของธาตุที่เกิดขึ้นระหว่างการใช้สกิลจะสลายไปอย่าง รวดเร็ว แต่มันกลับมีประโยชน์มากเมื่อ ออกไปผจญภัย การทดลองที่ล้มเหลวก็สามารถทำให้เกิดสกิลที่มีประโยชน์ได้เหมือนกันนะ</i>",
       "vi": "Triệu hồi phong linh cỡ nhỏ, thu hút kẻ địch và các vật thể đến gần vị trí của phong linh, đánh bay kẻ địch trong phạm vi đồng thời tạo ra <color=#80FFD7FF>sát thương nguyên tố Phong</color>. \n\n<i>Nói ra thật ngại, tuy nguyên tố tan biến rất nhanh, nhưng kỹ năng này lại rất tiện lợi trong thám hiểm. Đây là một thí nghiệm thất bại nhưng lại thành công ở mặt khác</i>"
-    },
-    "imgid": "s_433201"
+    }
   },
   {
     "title": {
@@ -95,8 +93,7 @@
       "id": "Sucrose melemparkan sebuah ramuan yang menciptakan Large Wind Spirit.\nSelama ramuan itu ada, Large Wind Spirit akan terus-menerus menarik musuh dan obyek yang ada di sekitar, menghasilkan <color=#80FFD7FF>Anemo DMG</color>.\n\n<color=#FFD780FF>Elemental Absorption</color>\nKetika Wind Spirit bersentuhan dengan elemen<color=#80C0FFFF>Hydro</color>/<color=#FF9999FF>Pyro</color>/<color=#99FFFFFF>Cryo</color>/<color=#FFACFFFF>Electro</color>, maka akan mengakibatkan elemental DMG tambahan dari tipe tersebut.\nElemental Absorption hanya dapat muncul satu kali dalam sekali penggunaan.\n\n<i>Sucrose dulunya selalu memberikan nama kepada Anemo Hypostases miliknya. Namun mereka berkembang biak dengan cepat sampai melampaui Baron Bunny ke-893.</i>",
       "th": "Sucrose ขว้างส่วนผสมที่ไม่คงที่ออกมาซึ่งทำให้ เกิด Large Wind Spirit\nระหว่างช่วงเวลาที่คงอยู่ Large Wind Spirit จะดึงดูดศัตรูและวัตถุ ที่อยู่ในบริเวณใกล้เคียงให้เข้ามาอย่างต่อเนื่อง จากนั้นโจมตีศัตรูที่อยู่ในบริเวณใกล้เคียงให้ลอยขึ้น เพื่อสร้าง<color=#80FFD7FF>ความเสียหายลม</color>\n\n<color=#FFD780FF>การเปลี่ยนแปลงธาตุ</color>\nหาก Wind Spirit สัมผัสเข้ากับ<color=#80C0FFFF>ธาตุน้ำ</color>/<color=#FF9999FF>ธาตุไฟ</color>/<color=#99FFFFFF>ธาตุน้ำแข็ง</color>/<color=#FFACFFFF>ธาตุไฟฟ้า</color>ในระหว่างช่วงเวลาคงอยู่ของ สกิลจะทำให้ได้รับคุณลักษณะของธาตุนั้น ๆ ไปด้วยและสร้างความเสียหายของธาตุ ดังกล่าวเพิ่มเติม\nการเปลี่ยนแปลงธาตุในระหว่างช่วงเวลาต่อเนื่องของสกิลนั้นจะเกิดขึ้นได้เพียง ครั้งเดียว\n\n<i>ครั้งหนึ่ง Sucrose นั้นเคยอยากที่จะตั้งชื่อให้แก่ Anemo Hypostase ที่แปรปรวนทุกตัว แต่ว่าวงศ์ของพวกมันได้ก้าวข้าม Baron Bunny อันดับที่ 893 ไปแล้วอย่างรวดเร็ว</i>",
       "vi": "Sucrose ném một chiếc bình tạo ra một phong linh cỡ lớn.\nTrong thời gian tồn tại, phong linh cỡ lớn sẽ hút và đánh bay kẻ địch lẫn vật thể xung quanh, gây<color=#80FFD7FF>sát thương nguyên tố Phong</color>.\n\n<color=#FFD780FF>Chuyển hóa nguyên tố</color>\nNếu trong thời gian duy trì kỹ năng lốc xoáy có tiếp xúc <color=#80C0FFFF>Nguyên Tố Thủy</color>/<color=#FF9999FF>Nguyên Tố Hỏa</color>/<color=#99FFFFFF>Nguyên Tố Băng</color>/<color=#FFACFFFF>Nguyên Tố Lôi</color>, sẽ nhận được thuộc tính nguyên tố tương ứng, gây thêm sát thương kèm theo của nguyên tố đó.\nLoại chuyển hóa này chỉ phát sinh một lần trong thời gian duy trì kỹ năng.\n\n<i>Sucrose đôi khi cũng muốn đặt tên cho Phong Nguyên Bản. Nhưng số đời của chúng còn cao hơn Bá Tước Thỏ đến 893 đời.</i>"
-    },
-    "imgid": "s_433901"
+    }
   },
   {
     "title": {
@@ -126,10 +123,9 @@
       "pt": "Quando Sucrose ativa um efeito de Redemoinho, todos os personagens na equipe com o elemento correspondente (exceto Sucrose) possuem sua Proficiência Elemental aumentada em 50 por 8s.",
       "ru": "Вызванная Сахарозой реакция Рассеивание увеличивает мастерство соответствующего элемента остальных членов отряда (но не у Сахарозы) на 50 ед. в течение 8 сек.",
       "id": "Ketika Sucrose memicu Swirl, akan meningkatkan Elemental Mastery anggota party dengan tipe elemen yang sama (tidak termasuk Sucrose sendiri) sebesar 50, berlangsung selama 8 detik.",
-      "th": "เมื่อ Sucrose ทำให้เกิดปฏิกิริยาการกระจาย จะทำให้ตัวละครในทีมทั้งหมดที่เป็นธาตุเดียวกับธาตุที่ผสมกันจนเกิดการกระจายนั้น (ยกเว้น Sucrose) มีความชำนาญธาตุเพิ่มขึ้น 50 เป็นเวลา 8 วินาที",
+      "th": "เมื่อ Sucrose ทำให้เกิดปฏิกิริยาการกระจาย จะทำให้ตัวละครในทีมทั้งหมดที่เป็นธาตุเดียวกับธาตุที่ผสมกันจนเกิดการกระจายนั้น (ยกเว้น Sucrose) มีความชำนาญธาตุเพิ่มขึ้น 50 หน่วย เป็นเวลา 8 วินาที",
       "vi": "Khi Sucrose kích hoạt phản ứng khuếch tán sẽ tăng 50 tinh thông nguyên tố của tất cả nhân vật trong đội có loại nguyên tố tương ứng (không bao gồm bản thân Sucrose), duy trì 8s."
-    },
-    "imgid": "p_432101"
+    }
   },
   {
     "title": {
@@ -161,8 +157,7 @@
       "id": "Ketika skill <color=#FFD780FF>Astable Anemohypostasis Creation - 6308</color> atau <color=#FFD780FF>Forbidden Creation - Isomer 75 / Type II</color> mengenai musuh, akan meningkatkan Elemental Mastery seluruh anggota party (tidak termasuk Sucrose sendiri) sebanyak 20% dari Elemental Mastery Sucrose selama 8 detik.",
       "th": "เมื่อ <color=#FFD780FF>Astable Anemohypostasis Creation - 6308</color> หรือ <color=#FFD780FF>Forbidden Creation - Isomer 75 / Type II</color> โจมตีโดนศัตรู ความชำนาญธาตุของตัวละครในทีมทั้งหมด (ยกเว้น Sucrose) จะเพิ่มขึ้นอีก 20% ของความชำนาญธาตุของ Sucrose เป็นเวลา 8 วินาที",
       "vi": "Khi <color=#FFD780FF>Gió Thần Sáng Tạo 6308</color> hoặc <color=#FFD780FF>Cấm-Gió Thần Sáng Tạo-75 Loại 2</color> đánh trúng địch, tăng 20% tinh thông nguyên tố của Sucrose cho tất cả nhân vật trong đội (không bao gồm bản thân Sucrose), duy trì 8s."
-    },
-    "imgid": "p_432201"
+    }
   },
   {
     "title": {
@@ -194,7 +189,6 @@
       "id": "Saat Sucrose membuat Material Penguatan Senjata dan Karakter, memiliki 10% kemungkinan untuk mendapatkan hasil 2 kali lipat.",
       "th": "เมื่อสร้างวัสดุพัฒนาตัวละครและอาวุธ จะมีโอกาส 10% ที่จะได้รับผลผลิตเพิ่มเป็น 2 เท่า",
       "vi": "Khi ghép nguyên liệu bồi dưỡng nhân vật và vũ khí, có 10% tỷ lệ nhận x2 thành phẩm."
-    },
-    "imgid": "p_432301"
+    }
   }
 ]

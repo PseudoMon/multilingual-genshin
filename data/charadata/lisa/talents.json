@@ -12,7 +12,7 @@
       "pt": "Ataque Normal: Toque do Relâmpago",
       "ru": "Касание молнии",
       "id": "Lighting Touch",
-      "th": "โจมตีปกติ - Lightning Touch",
+      "th": "โจมตีปกติ: Lightning Touch",
       "vi": "Tấn Công Thường: Sấm Sét Cảm Ứng"
     },
     "description": {
@@ -29,8 +29,7 @@
       "id": "<color=#FFD780FF>Normal Attack</color>\nMelancarkan hingga 4 serangan listrik yang mengakibatkan <color=#FFACFFFF>Electro DMG</color>.\n\n<color=#FFD780FF>Charged Attack</color>\nMengonsumsi sejumlah Stamina dan mengakibatkan <color=#FFACFFFF>Electro DMG area</color> setelah jeda singkat.\n\n<color=#FFD780FF>Plunging Attack</color>\nMengumpulkan kekuatan Electro dan menerjang tanah, mengakibatkan DMG pada musuh di jalur terjangan dan mengakibatkan <color=#FFACFFFF>Electro DMG area</color> saat mendarat.",
       "th": "<color=#FFD780FF>โจมตีปกติ</color>\nทำการโจมตีด้วยสายฟ้ามากสุดสี่ครั้ง เพื่อสร้าง<color=#FFACFFFF>ความเสียหายไฟฟ้า</color>\n\n<color=#FFD780FF>ชาร์จโจมตี</color>\nใช้พลังกายบางส่วน โดยหลังจากร่ายเสร็จจะสร้าง <color=#FFACFFFF>ความเสียหายไฟฟ้าเป็นวงกว้าง</color>\n\n<color=#FFD780FF>โจมตีพุ่งลงจากอากาศ</color>\nรวบรวมพลังแห่งสายฟ้า กระโจนจากกลางอากาศลงมายังพื้นดิน เพื่อโจมตีศัตรูที่อยู่ในเส้นทางการโจมตี โดยจะสร้าง <color=#FFACFFFF>ความเสียหายไฟฟ้าวงกว้าง</color> เมื่อลงถึงพื้น",
       "vi": "<color=#FFD780FF>Tấn Công Thường</color>\nThực hiện tối đa 4 lần chích điện, gây <color=#FFACFFFF>Sát Thương Nguyên Tố Lôi</color>.\n\n<color=#FFD780FF>Trọng Kích</color>\nTiêu hao thể lực nhất định, sau khi tụ lực, gây <color=#FFACFFFF>Sát Thương Phạm Vi Nguyên Tố Lôi</color>.\n\n<color=#FFD780FF>Tấn Công Khi Đáp</color>\nNgưng tụ sức mạnh lôi điện, từ trên trời tấn công xuống mặt đất, tấn công kẻ địch trên đường, gây <color=#FFACFFFF>sát thương phạm vi Nguyên Tố Lôi</color> khi chạm đất."
-    },
-    "imgid": "s_43101"
+    }
   },
   {
     "title": {
@@ -62,8 +61,7 @@
       "id": "Menyalurkan kekuatan petir untuk menyapu bersih masalah yang merepotkan.\n\n<color=#FFD780FF>Tekan</color>\nMelancarkan sebuah bola listrik yang mengejar musuh.\nSaat mengenai musuh, mengakibatkan <color=#FFACFFFF>Electro DMG</color> dan memberikan satu lapis efek Conductive (hingga 3 lapis) ke musuh di dalam area kecil.\n\n<color=#FFD780FF>Tahan</color>\nSetelah waktu casting yang diperpanjang, memanggil petir dari langit untuk mengakibatkan <color=#FFACFFFF>Electro DMG</color> yang besar ke semua musuh di sekitar.\nMengakibatkan tambahan DMG yang besar ke musuh berdasarkan jumlah lapisan Conductive yang mereka miliki dan menghapusnya.\n\n<i>Warna Electro Purple adalah warna sang Rose Witch.</i>",
       "th": "#ชักนำพลังของสายฟ้าและกำจัดสิ่งน่ารำคาญให้สิ้นซาก\n\n<color=#FFD780FF>{LAYOUT_MOBILE#แตะ}{LAYOUT_PC#กด}{LAYOUT_PS#กด}</color>\nปล่อยลูกบอลสายฟ้าที่สามารถติดตามตัวศัตรูได้ออกมา\nเมื่อถูกเป้าหมายจะทำให้เกิด<color=#FFACFFFF>ความเสียหายไฟฟ้า</color>และทำให้เกิดสภาวะนำไฟฟ้าซ้อนทับกันมากสุดได้ 3 ชั้น\n\n<color=#FFD780FF>{LAYOUT_MOBILE#แตะค้าง}{LAYOUT_PC#กดค้าง}{LAYOUT_PS#กดค้าง}</color>\nหลังจากร่ายอย่างต่อเนื่องจะเรียกสายฟ้าให้ผ่าลงมาจากฟ้าและสร้าง<color=#FFACFFFF>ความเสียหายไฟฟ้า</color>ปริมาณมากแก่ศัตรูทุกตัวที่อยู่ใกล้เคียง\nสำหรับศัตรูที่อยู่ภายใต้สภาวะการนำไฟฟ้าจะสร้างความเสียหายเพิ่มเติมปริมาณมากโดยจะขึ้นอยู่กับจำนวนชั้นของการซ้อนทับและเอฟเฟกต์นำไฟฟ้า\n\n<i>สีของสายฟ้านั้นก็คือสีของ Witch of Purple Rose</i>",
       "vi": "Dẫn sức mạnh lôi điện, quét sạch những thứ gây rắc rối.\n\n<color=#FFD780FF>Nhấn</color>\nPhóng ra tia điện hình cầu có khả năng tự tìm địch.\nSau khi đánh trúng, tạo ra <color=#FFACFFFF>Sát Thương Nguyên Tố Lôi</color> cho mục tiêu, có thêm hiệu quả dẫn điện đối với địch trong phạm vi nhỏ, cộng dồn tối đa 3 tầng.\n\n<color=#FFD780FF>Nhấn Giữ</color>\nSau khi tụ lực, triệu hồi sấm sét từ trên trời xuống, tạo thành <color=#FFACFFFF>Sát Thương Nguyên Tố Lôi</color> đối với tất cả địch ở gần.\nNếu địch đang trong trạng thái dẫn điện, sẽ căn cứ theo số tầng cộng dồn mà gây thêm lượng lớn sát thương, và xóa hiệu quả dẫn điện.\n\n<i>Màu sắc của lôi điện là màu sắc đầy mê hoặc của ma nữ tường vi.</i>"
-    },
-    "imgid": "s_43201"
+    }
   },
   {
     "title": {
@@ -95,8 +93,7 @@
       "id": "Memanggil Lightning Rose yang mengerahkan sambaran petir dan menghempas musuh di sekitar untuk mengakibatkan <color=#FFACFFFF>Electro DMG</color>.\nLightning Rose akan terus memanggil petir untuk menghempas musuh dan mengakibatkan <color=#FFACFFFF>Electro DMG</color> selama ia tetap ada.\n\n<i>Hati-hati dengan duri mematikan dari mawar yang cantik.</i>",
       "th": "เรียก Lightning Rose ออกมาเพื่อปลดปล่อยพลังอันรุนแรงของสายฟ้า โจมตีศัตรูโดยรอบให้ถอยกลับไปและสร้าง<color=#FFACFFFF>ความเสียหายไฟฟ้า</color>\nภายในช่วงเวลาที่คงอยู่ Lightning Rose จะปล่อยสายฟ้าโจมตีใส่ศัตรูในบริเวณใกล้เคียงและทำให้เกิด<color=#FFACFFFF>ความเสียหายไฟฟ้า</color>\n\n<i>กุหลาบดอกนี้สวยงามอย่างไม่ต้องสงสัย แต่ก็มีหนามที่อันตรายถึงชีวิตเลยทีเดียว</i>",
       "vi": "Triệu hồi Tường Vi Sấm Sét, phóng ra sấm sét cường đại, đánh lui địch xung quanh và gây <color=#FFACFFFF>Sát Thương Nguyên Tố Lôi</color>.\nTrong thời gian tồn tại, Tường Vi Sấm Sét sẽ tiếp tục phóng điện công kích vào phạm vi công kích của địch, gây <color=#FFACFFFF>Sát Thương Nguyên Tố Lôi</color>.\n\n<i>Đóa tường vi này thật đẹp, nhưng lại có gai chết người.</i>"
-    },
-    "imgid": "s_43901"
+    }
   },
   {
     "title": {
@@ -128,8 +125,7 @@
       "id": "Charged Attack yang mengenai musuh akan menyebabkan status Conductive dari <color=#FFD780FF>Violet Arc</color> pada musuh.",
       "th": "เมื่อชาร์จโจมตีจะเพิ่มเอฟเฟกต์นำไฟฟ้า <color=#FFD780FF>Violet Arc </color>ให้แก่ศัตรู",
       "vi": "Khi trọng kích đánh trúng, sẽ kèm theo hiệu ứng dẫn điện của <color=#FFD780FF>Sấm Giội</color>."
-    },
-    "imgid": "p_42101"
+    }
   },
   {
     "title": {
@@ -161,8 +157,7 @@
       "id": "Saat mengenai musuh, <color=#FFD780FF>Lightning Rose</color> akan mengurangi 15% DEF musuh selama 10 detik.",
       "th": "เมื่อศัตรูได้รับการโจมตีจาก <color=#FFD780FF>Lightning Rose</color> พลังป้องกันจะลดลง 15% เป็นเวลา 10 วินาที",
       "vi": "Địch bị <color=#FFD780FF>Tường Vi Sấm Sét</color> tấn công, giảm phòng ngự 15%, kéo dài 10s."
-    },
-    "imgid": "p_42201"
+    }
   },
   {
     "title": {
@@ -194,7 +189,6 @@
       "id": "Lisa memiliki 20% kemungkinan mendapatkan kembali material yang digunakan saat membuat potion.",
       "th": "เมื่อทำน้ำยาโพชั่น จะมีโอกาส 20% ที่จะได้รับวัสดุที่ใช้ทำคืน",
       "vi": "Khi tạo ra thuốc, có tỷ lệ 20% hoàn trả một phần nguyên liệu ghép ra."
-    },
-    "imgid": "p_42301"
+    }
   }
 ]

@@ -93,7 +93,7 @@
       "pt": "Aumenta o nível de <color=#FFD780FF>Arte Kamisato: Beleza Refletida</color> em 3.\nO nível máximo de elevação é 15.",
       "ru": "Увеличивает уровень навыка <color=#FFD780FF>Искусство Камисато: Кёка</color> на 3.\nМакс. уровень: 15.",
       "id": "Meningkatkan 3 level <color=#FFD780FF>Kamisato Art: Kyouka</color>.\nMaksimum: Lv. 15.",
-      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Kamisato Art: Kyouka</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Kamisato Art: Kyouka</color> ขึ้น 3 ระดับ\nเพิ่มได้สูงสุดถึงระดับ 15",
       "vi": "Cấp kỹ năng <color=#FFD780FF>Trường Phái Kamisato - Kyouka</color> +3.\nTăng tối đa đến cấp 15."
     },
     "imgid": "constellation_3"
@@ -122,7 +122,7 @@
       "en": "After using <color=#FFD780FF>Kamisato Art: Suiyuu</color>, all nearby party members will have 15% increased Normal Attack SPD for 15s.",
       "de": "Erhöht nach dem Auslösen von <color=#FFD780FF>Kamisato-Stil – Suiyuu</color> die Angriffs-GSW der Standardangriffe aller Truppenmitglieder in der Nähe 15 s lang um 15 %.",
       "es": "Tras usar <color=#FFD780FF>Estilo Kamisato: Jardín ácueo</color>, la Vel. de Ataque Normal de los miembros del equipo cercanos aumenta en un 15% durante 15 s.",
-      "fr": "Après avoir utilisé <color=#FFD780FF>École Kamisato : Jardin d'eau</color>, la VIT d'attaque des attaques normales des personnages de l'équipe à proximité augmentent de 15 % pendant 15 s.",
+      "fr": "Après avoir utilisé <color=#FFD780FF>École Kamisato : Jardin d'eau</color>, la VIT d'attaque des attaques normales des personnages de l'équipe à proximité augmente de 15 % pendant 15 s.",
       "pt": "Ao usar <color=#FFD780FF>Arte Kamisato: Jardim Aquático</color>, os personagens próximos da equipe terão um aumento da Vel. de ATQ do Ataque Normal de 15% por 15s.",
       "ru": "После использования <color=#FFD780FF>Искусства Камисато: Суйю</color> скорость обычной атаки всех ближайших членов отряда повышается на 15% в течение 15 сек.",
       "id": "Setelah melancarkan <color=#FFD780FF>Kamisato Art: Suiyuu</color>, ATK SPD Normal Attack anggota party di sekitar akan meningkat 15% selama 15 detik.",
@@ -159,7 +159,7 @@
       "pt": "Aumenta o nível <color=#FFD780FF>Arte Kamisato: Jardim Aquático</color> em 3.\nO nível máximo de elevação é 15.",
       "ru": "Увеличивает уровень навыка <color=#FFD780FF>Искусство Камисато: Суйю</color> на 3.\nМакс. уровень: 15.",
       "id": "Meningkatkan 3 level <color=#FFD780FF>Kamisato Art: Suiyuu</color>.\nMaksimum: Lv. 15.",
-      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Kamisato Art: Suiyuu</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Kamisato Art: Suiyuu</color> ขึ้น 3 ระดับ\nเพิ่มได้สูงสุดถึงระดับ 15",
       "vi": "Cấp kỹ năng <color=#FFD780FF>Trường Phái Kamisato - Suiyuu</color> +3.\nTăng tối đa đến cấp 15."
     },
     "imgid": "constellation_5"
@@ -188,7 +188,7 @@
       "en": "After using <color=#FFD780FF>Kamisato Art: Kyouka</color>, Ayato's next Shunsuiken attack will create 2 extra Shunsuiken strikes when they hit opponents, each one dealing 450% of Ayato's ATK as DMG.\nBoth these Shunsuiken attacks will not be affected by Namisen.",
       "de": "Löst, wenn der nächste Angriff von Kamisato Ayato mit Shunsuiken nach Anwendung von <color=#FFD780FF>Kamisato-Stil – Kyouka</color> Gegner trifft, 2 weitere Shunsuiken-Angriffe aus, von denen jeder Schaden in Höhe von 450 % von Ayatos ANG zufügt.\nDiese beiden Shunsuiken-Angriffe erhalten keine Bonuseffekte von Namisen.",
       "es": "Tras usar <color=#FFD780FF>Estilo Kamisato: Belleza reflejada</color>, cuando Kamisato Ayato golpea a un enemigo con el siguiente ataque de hidroespada, se liberarán dos ataques de hidroespada adicionales que infligen cada uno un daño equivalente al 450% del ATQ de Kamisato Ayato.\nEstos dos ataques no pueden beneficiarse de los efectos de oleaje centelleante.",
-      "fr": "Après avoir utilisé <color=#FFD780FF>École Kamisato : Beauté réfléchie</color>, la prochaine attaque de Shunsuiken d'Ayato déclenchent 2 attaques supplémentaires de Shunsuiken en touchant un ennemi, chaque attaque supplémentaire infligeant des DGT d'une valeur équivalant à 450 % de l'ATQ d'Ayato.\nCes deux attaques supplémentaires ne seront pas affectées par l'effet de flash onduleux.",
+      "fr": "Après avoir utilisé <color=#FFD780FF>École Kamisato : Beauté réfléchie</color>, la prochaine attaque de Shunsuiken d'Ayato déclenche 2 attaques supplémentaires de Shunsuiken en touchant un ennemi, chaque attaque supplémentaire infligeant des DGT d'une valeur équivalant à 450 % de l'ATQ d'Ayato.\nCes deux attaques supplémentaires ne seront pas affectées par l'effet de flash onduleux.",
       "pt": "Depois de usar <color=#FFD780FF>Arte Kamisato: Beleza Refletida</color>, o próximo ataque de Espada Aquática de Kamisato Ayato que atingir um inimigo desencadeará dois ataques de Espadas Aquáticas adicionais, cada um infligindo Dano equivalente a 450% do Dano do Ataque de Kamisato Ayato.\nEstes dois ataques da Espada Aquática não receberão bônus de Onda Brilhante.",
       "ru": "После активации <color=#FFD780FF>Искусства Камисато: Кёка</color>, если следующая атака Сюнсуйкэн попадёт по врагу, Аято выполнит 2 дополнительные атаки Сюнсуйкэн, каждая из которых нанесёт 450% урона от его силы атаки.\nЭффект Намисэн на эти дополнительные атаки не распространяется.",
       "id": "Setelah menggunakan <color=#FFD780FF>Kamisato Art: Kyouka</color>, Serangan Shunsuiken milik Ayato selanjutnya akan membuat 2 serangan Shunsuiken tambahan saat mengenai musuh, setiap serangannya mengakibatkan DMG sebesar 450% ATK Ayato.\nKedua serangan Shunsuiken ini tidak akan terpengaruh oleh Namisen.",

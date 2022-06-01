@@ -26,8 +26,8 @@
       "fr": "« Qu'il pleuve ou qu'il vente, je me fraierai un chemin à la force de mon épée, pieds nus s'il le faut, vers ma patrie... » Mon nom est Kaedehara Kazuha, samouraï errant. Puisque nous sommes tous deux des voyageurs, faisons un bout de route ensemble.",
       "pt": "\"Na chuva e no vento, ando descalço com a minha espada\". O meu nome é Kaedehara Kazuha, um Ronin. Como ambos estamos a caminho, que tal nos agruparmos e avançarmos juntos?",
       "ru": "«Подхваченный ветром, омытый грозой, с мечом, хоть босой, но вернусь я домой». Меня зовут Каэдэхара Кадзуха. Я скиталец, странствующий по всему свету. Раз уж мы с тобой путешественники, давай я составлю тебе компанию.",
-      "id": "\"Meski angin dan hujan menerjangku, aku dan pedangku akan tetap pulang, meski harus berjalan kaki sekalipun\"... Namaku Kaedehara Kazuha, seseorang yang mengembara ke seluruh penjuru. Karena kita berdua sama-sama pengembara, ayo kita bertualang bersama.",
-      "th": "\"ท่ามกลางลมที่พัดไหวและสายฝน ถือดาบเดินกลับด้วยเท้าเปล่า\" ...ฉันชื่อ Kaedehara Kazuha เป็นซามูไรที่เดินทางไปทั่วโลก เนื่องจากเธอและฉัน พวกเราต่างอยู่บนเส้นทางการเดินทาง บนเส้นทางนี้พวกเราอาจจะได้เดินทางไปด้วยกัน",
+      "id": "\"Meski angin dan hujan menerjangku, aku dan pedangku akan tetap pulang, meski harus bertelanjang kaki sekalipun\" ... Namaku Kaedehara Kazuha, seseorang yang mengembara ke seluruh penjuru. Karena kita berdua sama-sama pengembara, ayo kita bertualang bersama.",
+      "th": "\"ท่ามกลางลมที่พัดไหวและสายฝน ถือดาบเดินกลับด้วยเท้าเปล่า\" ...ฉันชื่อ Kaedehara Kazuha เป็นผู้พเนจรที่เดินทางไปทั่วโลก เนื่องจากเธอและฉัน พวกเราต่างอยู่บนเส้นทางการเดินทาง บนเส้นทางนี้พวกเราอาจจะได้เดินทางไปด้วยกัน",
       "vi": "\"Bôn ba trong sương gió, chân trần mang đao trở về\"...tên của tôi là Kaedehara Kazuha, một Ronin phiêu bạt khắp nơi. Nếu chúng ta đều đang trên đường lữ hành, chi bằng kết bạn cùng đi một đoạn."
     }
   },
@@ -75,7 +75,7 @@
       "fr": "Bavardage - Musique",
       "pt": "Conversando - Instrumento de sopro",
       "ru": "Поболтаем: Мелодия",
-      "id": "Berbincang: Meniup Alat Musik",
+      "id": "Berbincang: Memainkan Nada",
       "th": "แชท - บรรเลง",
       "vi": "Nói chuyện phiếm - Thổi sáo"
     },
@@ -90,7 +90,7 @@
       "fr": "Il y a des feuilles partout – et je sais exactement quelle chanson jouer pour les accompagner, si le cœur vous en dit.",
       "pt": "Já que há uma folha em minha mão, posso tocar uma música para você.",
       "ru": "Кругом листва, а я как раз знаю подходящую мелодию. Хочешь, сыграю?",
-      "id": "Ada banyak dedaunan di sekitar kita, aku tahu lagu yang tepat untuk mengiringinya... Kalau kamu mau mendengarnya.",
+      "id": "Ada banyak dedaunan di sekitar kita, dan aku tahu lagu yang tepat untuk mengiringinya ... Kalau kamu mau mendengarnya.",
       "th": "ในมือฉันมีใบไม้อยู่ ฉันสามารถเป่าเป็นเพลงให้เธอฟังได้นะ",
       "vi": "Sẵn có lá cây trong tay, tôi có thể thổi cho bạn nghe một khúc."
     }
@@ -122,7 +122,7 @@
       "fr": "« Où que me portent mes pas, mes souvenirs sont avec moi... » Cette lame... C'est la seule connexion à mon pays natal qu'il me reste.",
       "pt": "Quando chove, eu penso em minha terra natal... Essa espada é minha única relação com ela.",
       "ru": "Куда бы не унесли меня ветра путешествий, память о доме остаётся со мной. Этот меч... единственное, что связывает меня с родиной.",
-      "id": "Kemana pun aku pergi, aku akan selalu mengingat kampung halamanku. Dan pedang ini... adalah satu-satunya benda yang mengingatkanku pada rumahku.",
+      "id": "Ke mana pun aku pergi, aku akan selalu mengingat kampung halamanku. Pedang ini ... adalah satu-satunya penghubung yang mengingatkanku pada kampung halamanku.",
       "th": "ท่ามกลางลมที่พัดไหวและสายฝน เมื่อเห็นสิ่งของต่าง ๆ พลันทำให้หวนคิดถึงบ้านเกิด ดาบเล่มนี้... เป็นสิ่งเดียวที่เชื่อมต่อระหว่างฉันกับบ้านเกิดของฉัน",
       "vi": "Bôn ba trong sương gió, nhìn vật nhớ cố hương, thanh đao này...là mối liên hệ duy nhất giữa tôi và quê hương."
     }
@@ -150,7 +150,7 @@
       "ko": "폭우 속을 거닐다 보면 정신이 맑아지지만, 비가 그치면 얼른 옷을 말리는 게 좋아",
       "en": "Taking a stroll in the middle of a downpour certainly rouses the spirit... but it's best to dry your clothes as soon as possible after the rain stops.",
       "de": "Ein Spaziergang mitten im Regen weckt sicherlich die Lebensgeister ... aber es ist am besten, wenn du deine Kleidung so schnell wie möglich trocknest, nachdem der Regen aufgehört hat.",
-      "es": "Caminar bajo la lluvia hace que sea más consciente de mi alrededor. Pero cuando para de llover, lo mejor es secar la ropa rápidamente.",
+      "es": "Pasear bajo la lluvia me levanta el ánimo. Pero cuando para de llover, lo mejor es secar la ropa rápidamente.",
       "fr": "Rien de tel que de se promener quand la pluie tombe à verse pour se réveiller l'esprit. Par contre, pensez à sécher vos vêtements sans attendre.",
       "pt": "Andar na chuva nos deixa mais acordados. Mas depois que a chuva para, é melhor secar a roupa o mais rápido possível.",
       "ru": "Прогулки под ливнем проясняют сознание. Но после дождя стоит побыстрее просушить одежду.",
@@ -187,7 +187,7 @@
       "pt": "Isso não é nada comparado as tempestades que encontrei no mar.",
       "ru": "В сравнении с теми грозами, которые я повидал в море, это ещё ничего.",
       "id": "Dibandingkan dengan badai petir di laut, ini masih termasuk kecil.",
-      "th": "เมื่อเทียบกับพายุฝนฟ้าคะนองที่พบขณะแล่นเรือในทะเล เรื่องนี้ถือว่าไม่เป็นปัญหาอะไรเลย",
+      "th": "เมื่อเทียบกับพายุฝนฟ้าคะนองที่พบขณะแล่นเรือในทะเล แค่นี้ถือว่าไม่เป็นปัญหาอะไรเลย",
       "vi": "So với bão táp gặp phải khi đi biển thì chuyện này có đáng là gì."
     }
   },
@@ -218,8 +218,8 @@
       "fr": "J'aime quand il neige. Le monde devient complètement silencieux... et je peux dormir sans être dérangé.",
       "pt": "Eu gosto quando neva, o mundo fica calmo, não há pessoas para perturbarem os meus sonhos.",
       "ru": "Обожаю снег. Всё затихает, и никто не потревожит мой сон.",
-      "id": "Aku suka waktu salju turun, rasanya dunia menjadi hening. Tidak ada yang bisa mengganggu tidurku.",
-      "th": "ฉันชอบตอนที่หิมะตก โลกต่างเงียบงันเมื่อหิมะตก ไม่มีใครมารบกวนความฝันของฉันได้",
+      "id": "Aku suka waktu salju turun, rasanya dunia menjadi sangat hening ... dan aku bisa tidur tanpa terusik.",
+      "th": "ฉันชอบตอนที่หิมะตก โลกหลังหิมะโปรยช่างเงียบสงบ ไม่มีใครมารบกวนความฝันของฉันได้",
       "vi": "Tôi thích tuyết, thế giới sau khi tuyết rơi rất yên tĩnh, không ai đến quấy rầy giấc mộng của tôi."
     }
   },
@@ -262,7 +262,7 @@
       "jp": "おはよう…",
       "ko": "아침 인사…",
       "en": "Good Morning",
-      "de": "Guten Morgen ...",
+      "de": "Guten Morgen.",
       "es": "Buenos días...",
       "fr": "Au réveil...",
       "pt": "Bom dia...",
@@ -278,7 +278,7 @@
       "ko": "아침의 새소리는 대자연의 선물이지. 출발하자! 우리의 여정도 시작하자고",
       "en": "The birdsong at daybreak is nature's gift to us. Let us go. Our journey begins anew.",
       "de": "Der Gesang der Vögel bei Tagesanbruch ist ein Geschenk der Natur an uns. Lass uns gehen. Unsere Reise beginnt von Neuem.",
-      "es": "El canto de los pájaros al amanecer es un regalo de la madre naturaleza. En marcha, nuestro viaje también empieza ahora.",
+      "es": "El canto de los pájaros al amanecer es un regalo de la madre naturaleza. En marcha, nuestro viaje empieza ahora.",
       "fr": "Le chant des oiseaux au petit matin est un don de la nature. Allez, partons. Notre voyage se poursuit.",
       "pt": "O canto dos pássaros ao amanhecer é um presente da mãe natureza. Vamos, nossa viagem começa agora.",
       "ru": "Пение птиц на рассвете - дар природы. Отправляемся в путь. Наше странствие начинается.",
@@ -294,7 +294,7 @@
       "jp": "こんにちは…",
       "ko": "점심 인사…",
       "en": "Good Afternoon",
-      "de": "Guten Tag ...",
+      "de": "Guten Tag.",
       "es": "Buenas tardes...",
       "fr": "À l'heure du déjeuner...",
       "pt": "Boa tarde...",
@@ -310,7 +310,7 @@
       "ko": "정오의 햇볕을 쬐고 있자면 잠이 온단 말이야. 잠깐 쉴까?",
       "en": "...The midday sun has a way of making one yearn for a moment of sleep. What say we find ourselves a place to rest?",
       "de": "Die Mittagssonne bringt einen dazu, dass man sich nach einem Moment Schlaf sehnt. Wie wäre es, wenn wir uns einen Platz zum Ausruhen suchen?",
-      "es": "El sol de esta hora del día hace que quiera dormir una siesta. ¿Vamos a buscar un lugar donde descansar?",
+      "es": "El sol del mediodía hace que quiera dormir un rato. ¿Vamos a buscar un lugar donde descansar?",
       "fr": "... Le soleil de l'après-midi a le don pour me donner envie de faire la sieste. Que diriez-vous qu'on trouve un endroit pour se reposer ?",
       "pt": "O sol do meio-dia deixa as pessoas com vontade de dormirem um pouco. O que você acha de procurarmos um local para descansar?",
       "ru": "Полуденное солнце навевает дрёму. Поищем место для привала?",
@@ -326,7 +326,7 @@
       "jp": "こんばんは…",
       "ko": "저녁 인사…",
       "en": "Good Evening",
-      "de": "Guten Abend ...",
+      "de": "Guten Abend.",
       "es": "Buenas noches... (I)",
       "fr": "Le soir...",
       "pt": "Saudações...",
@@ -342,12 +342,12 @@
       "ko": "고개를 들면 달이 보이고, 귓가엔 바람이 스치니. 수중에 술과 평온한 마음….\n\n아름다운 밤이야",
       "en": "I gaze up at the moon and lend my ear to the gentle breeze, with wine in my cup and peace in my heart... Have a wonderful evening.",
       "de": "Ich schaue hinauf zum Mond und leihe mein Ohr der sanften Brise, mit Wein in meinem Becher und Frieden in meinem Herzen ... Hab einen wunderbaren Abend.",
-      "es": "Alzo la mirada para contemplar la luna y presto atención a la suave brisa. Con una buena copa de vino y paz en el corazón... te deseo buenas noches.",
+      "es": "Alzo la mirada para contemplar la luna y presto atención a la suave brisa. Con una buena copa de vino y paz en el corazón, te deseo buenas noches.",
       "fr": "« Je contemple la lune et prête l'oreille à la douce brise, une coupe de vin à la main et en paix avec moi-même... »\n\nBonne soirée à vous.",
       "pt": "Levanto a cabeça e olho a lua, escuto a brisa. Tenho vinho em meu jarro, e meu coração está calmo...\n\nBoa noite.",
       "ru": "Я смотрю на луну и прислушиваюсь к ветру. В чаше вино, а на сердце покой... Чудесного тебе вечера.",
-      "id": "Kepalaku menengadah melihat bulan di langit malam, telingaku mendengar embusan angin sayup-sayup. Dengan secangkir anggur di tanganku, sebuah kedamaian di hatiku...\n\nSelamat malam.",
-      "th": "เงยหน้ามองจันทร์ ฟังเสียงสายลม มีเหล้าอยู่ในขวด จิตใจของฉันนั้นเงียบสงบ... \n\nสวัสดีตอนเย็นนะ",
+      "id": "Kepalaku menengadah melihat bulan di langit malam, telingaku mendengar embusan angin sayup-sayup. Dengan secangkir anggur di tanganku, sebuah kedamaian di hatiku ....\n\nSemoga malammu menyenangkan.",
+      "th": "เงยหน้ามองจันทร์ ฟังเสียงสายลม มีสาเกอยู่ในจอก จิตใจของฉันนั้นเงียบสงบ... \n\nสวัสดีตอนเย็นนะ",
       "vi": "Ngẩng đầu ngắm trăng, nghiêng tai nghe gió, trong bình đầy rượu, lòng ta thái bình...\n\nChào buổi tối!"
     }
   },
@@ -358,7 +358,7 @@
       "jp": "おやすみ…",
       "ko": "굿나잇…",
       "en": "Good Night",
-      "de": "Gute Nacht ...",
+      "de": "Gute Nacht.",
       "es": "Buenas noches... (II)",
       "fr": "La nuit...",
       "pt": "Boa Noite...",
@@ -374,11 +374,11 @@
       "ko": "바람이 멈췄어….\n\n조용해서 쉴 맛 나네. 내일 보자",
       "en": "The wind has ceased... The world is silent, so now is the best time to rest well. See you tomorrow.",
       "de": "Der Wind hat aufgehört ... Die Welt ist still, also ist jetzt die beste Zeit, um gut zu ruhen. Wir sehen uns morgen.",
-      "es": "El viento ha dejado de soplar...\n\nUn mundo en tranquilidad es perfecto para descansar. Hasta mañana.",
+      "es": "El viento ha dejado de soplar...\n\nUn mundo en silencio es perfecto para descansar. Hasta mañana.",
       "fr": "Le vent a cessé...\n\nLe monde est retombé dans le silence, c'est le meilleur moment pour se reposer. À demain.",
       "pt": "O vento parou...\n\nUm mundo calmo é ótimo para descansar. Até amanhã.",
       "ru": "Ветер затих... Замолчал мир. Сейчас лучшее время, чтобы как следует отдохнуть. До завтра.",
-      "id": "Anginnya sudah berhenti...\n\nDunia menjadi hening, ini adalah saat yang tepat untuk beristirahat. Sampai jumpa besok.",
+      "id": "Anginnya sudah berhenti ....\n\nDunia menjadi hening, ini adalah saat yang tepat untuk beristirahat. Sampai jumpa besok.",
       "th": "สายลมหยุดพัดไหวแล้ว... \n\nโลกที่เงียบสงบเหมาะสำหรับการพักผ่อนอย่างเต็มที่ เจอกันพรุ่งนี้นะ",
       "vi": "Gió ngừng rồi...\n\nThế giới yên tĩnh, rất thích hợp để nghỉ ngơi. Mai gặp nhé."
     }
@@ -406,12 +406,12 @@
       "ko": "사실 바다라고 밤마다 파도가 휘몰아치는 건 아니야. 날이 좋을 땐 찰랑이는 물결에 달빛이 비치고 배 주변에 고기떼도 모여들지. 뱃머리에 앉아서 먼 곳을 바라보면, 이 여정이 아주 값지다는 생각이 들어…. 선원들의 노랫소리가 너무 커서 아쉽긴하지만, 다들 잠도 안 자나?",
       "en": "In truth, not every night out at sea is filled with wind and waves. When the weather is clear, the moonlight flows over the rippling water, and schools of fish circle the ship's hull. At moments like that, when I look out into the distance from the prow, I feel like this journey is worth it... The only thing that takes away from that feeling is the sailors' singing. They're so loud... don't they need to sleep?",
       "de": "In Wahrheit ist nicht jede Nacht auf dem Meer mit Wind und Wellen gefüllt. Bei klarem Wetter fließt das Mondlicht über das kräuselnde Wasser und Fischschwärme umkreisen den Schiffsrumpf. In solchen Momenten, wenn ich vom Bug aus in die Ferne blicke, habe ich das Gefühl, dass sich diese Reise gelohnt hat ... Das Einzige, was mir dieses Gefühl nimmt, ist der Gesang der Matrosen. Sie sind so laut ... Müssen die nicht schlafen?",
-      "es": "En realidad, no todas las noches hay tormenta en el mar. Cuando el cielo está despejado, la luz de la luna se refleja sobre la ondeante superficie marina y los peces nadan a su aire alrededor de los barcos. Entonces, me siento en la proa del barco para contemplar el horizonte y siento que el viaje vale la pena... Lo único que arruina el ambiente son las ruidosas canciones de los demás marineros. ¿Es que nunca duermen?",
+      "es": "En realidad, no todas las noches hay fuertes vientos y olas en el mar. Cuando el cielo está despejado, la luz de la luna se refleja sobre la ondeante superficie marina y los peces nadan a su aire alrededor de los barcos. Entonces, contemplo el horizonte desde la proa del barco y siento que el viaje vale la pena... Lo único que arruina el ambiente son las ruidosas canciones de los demás marineros. Qué ruidosos son... ¿Es que no necesitan dormir?",
       "fr": "À dire vrai, toutes les nuits passées en mer ne sont pas que vent et vagues, loin de là. Lorsque le temps est dégagé, la lune se reflète sur les flots, et des bancs de poissons viennent danser autour de la coque. C'est dans ces moments-là, quand je regarde au loin depuis la proue, que je trouve que tout ça en valait la peine... Dommage que les marins chantent si fort, par contre... Ils ne dorment donc jamais ?",
       "pt": "Na verdade, o mar nem sempre está cheio de tempestades. Quando o tempo está bom, o luar é refletido na superfície do mar, e os peixes se reúnem ao redor do navio. Eu me sento na proa, observando ao longe, e fico pensando que toda a minha viagem valeu a pena... Só que os cantos dos marinheiros são realmente barulhentos... Será que eles não precisam dormir?",
       "ru": "Вообще, не каждую ночь на море волны и ветер. В ясную погоду луна освещает водную рябь, а косяки рыб кружат близ корабля. В такие мгновения, когда я сижу на носу и смотрю вдаль, чувствую, что это странствие того стоило... Жаль только, что матросы орут свои песни. Разве им не нужно спать?",
-      "id": "Sebenarnya, laut tidak selalu dipenuhi angin dan ombak setiap malam. Waktu cuacanya cerah, cahaya bulan bersinar terang di atas permukaan laut, dan ikan-ikan berenang mengitari kapal. Di saat seperti itu, aku akan melihat ke kejauhan dari haluan kapal, dan aku berpikir... perjalanan ini benar-benar berharga. Tapi ada hal yang merenggut semua keindahan ini, yaitu nyanyian para awak kapal. Mereka berisik sekali, apa mereka tidak butuh tidur?",
-      "th": "ในความเป็นจริงทะเลไม่ได้เต็มไปด้วยลมและคลื่นทุกค่ำคืน เมื่ออากาศแจ่มใสแสงจันทร์จะสะท้อนบนท้องทะเลที่สั่นไหว และฝูงปลาก็จะแหวกว่ายติดตามเรือไปด้วย เมื่อนั่งบนหัวเรือและมองไปไกล ๆ ฉันคิดว่าการเดินทางครั้งนี้คุ้มค่ามากเลยล่ะ... สิ่งเดียวที่น่าเสียใจคือเสียงร้องของลูกเรือที่มีเสียงดังเกินไป พวกเขาไม่ต้องนอนพักผ่อนกันบ้างเหรอ?",
+      "id": "Sebenarnya, laut tidak selalu dipenuhi angin dan ombak setiap malam. Waktu cuacanya cerah, cahaya bulan bersinar terang di atas permukaan laut, dan ikan-ikan berenang mengitari kapal. Di saat seperti itu, aku akan melihat ke kejauhan dari haluan kapal, dan aku berpikir ... perjalanan ini benar-benar berharga. Satu-satunya hal yang merenggut semua keindahan ini, yaitu nyanyian para awak kapal. Mereka berisik sekali, apa mereka tidak butuh tidur?",
+      "th": "ในความเป็นจริงทะเลไม่ได้เต็มไปด้วยลมและคลื่นทุกค่ำคืน ยามอากาศแจ่มใส แสงจันทร์จะสะท้อนบนท้องทะเลที่สั่นไหว และฝูงปลาก็จะแหวกว่ายติดตามเรือไปด้วย เมื่อนั่งบนหัวเรือและมองไปไกล ๆ ฉันคิดว่าการเดินทางครั้งนี้คุ้มค่ามากเลยล่ะ... สิ่งเดียวที่น่าเสียดายคือเสียงร้องเพลงของลูกเรือจะดังเกินไปแล้ว พวกเขาไม่ต้องนอนพักผ่อนกันบ้างเหรอ?",
       "vi": "Thực ra đại dương không phải đêm nào cũng đầy sóng gió. Khi thời tiết trong xanh, ánh trăng soi chiếu xuống mặt biển lăn tăn, đàn cá nhởn nhơ bơi quanh thuyền. Tôi ngồi ở mũi thuyền nhìn về nơi xa xăm, cảm thấy chuyến đi này thật xứng đáng...Điều đáng tiếc duy nhất là tiếng hát của các thủy thủ quá ồn, họ không cần ngủ sao?"
     }
   },
@@ -423,13 +423,13 @@
       "ko": "카에데하라 카즈하 자신에 대해·귀족 무사",
       "en": "About Kaedehara Kazuha: Samurai Nobility",
       "de": "Über Kaedehara Kazuha — Samurai-Adel",
-      "es": "Sobre Kaedehara Kazuha - Samurái de la nobleza",
+      "es": "Sobre Kaedehara Kazuha - Samuráis nobles",
       "fr": "À propos de Kaedehara Kazuha - Noblesse samouraï",
       "pt": "Sobre Kaedehara Kazuha - Samurai Nobre",
       "ru": "О Кадзухе: Самурайское благородство",
-      "id": "Tentang Kaedehara Kazuha Sendiri: Klan Samurai",
+      "id": "Tentang Kaedehara Kazuha Sendiri: Bangsawan Samurai",
       "th": "เกี่ยวกับตัวของ Kaedehara Kazuha เอง - ซามูไรชนชั้นสูง",
-      "vi": "Về bản thân Kaedehara Kazuha - samurai quý tộc"
+      "vi": "Về bản thân Kaedehara Kazuha - Samurai quý tộc"
     },
     "line": {
       "zhs": "枫原家曾经也是有名的武士门第，可惜传承到我这里时，除了贵族的名号外已经别无长物。不过对我来说倒也足够了，武士不需要富足的生活，我们需要的是诗歌、美酒与手中的刀。",
@@ -438,12 +438,12 @@
       "ko": "카에데하라 가문도 예전엔 엄청 유명한 무사 집안이야. 아쉽게도 지금은 귀족이라는 껍데기만 남고 몹시 가난해졌지만…. 그래도 난 만족해. 무사한테 필요한 건 부귀한 삶이 아닌 시와 술 그리고 검이니까",
       "en": "The Kaedehara Clan was once a famed samurai clan. It's a pity that by the time the noble name passed to me, the title itself was all that was left. But it is enough for me. A samurai has no need of a lavish life — we find all that we need in wine, song, and the blade in our hands.",
       "de": "Der Kaedehara-Klan war einst ein berühmter Samurai-Klan. Es ist schade, dass zu der Zeit, als der adlige Name auf mich überging, nur noch der Titel selbst übrig war. Aber für mich ist es genug. Ein Samurai braucht kein üppiges Leben. Wir finden alles, was wir brauchen, in Wein, Gesang und der Klinge in unseren Händen.",
-      "es": "Los Kaedehara éramos un conocido clan de samuráis, pero cuando la herencia recayó sobre mí, ya no nos quedaba nada aparte de nuestro estatus aristocrático. Pero para mí es suficiente. Los samuráis no necesitamos una vida con lujos, solo necesitamos la poesía, el vino y una espada.",
+      "es": "Los Kaedehara éramos un conocido clan de samuráis. Por desgracia, cuando yo heredé el noble apellido familiar, ya no nos quedaba nada aparte de un simple título. Pero para mí es suficiente. Los samuráis no necesitamos una vida con lujos, solo necesitamos la poesía, el vino y una espada en mano.",
       "fr": "Le Clan Kaedehara était autrefois une célèbre famille de samouraïs. Mais le nom est tout ce dont j'ai hérité. Ça me suffit. Un samouraï n'a nul besoin de mener une vie de luxe – tout ce dont il a besoin, c'est de vin, de chants et d'une lame.",
       "pt": "A família Kaedehara era uma família de Samurais ilustres. É uma pena que quando eu passei a ser o patriarca da família, o que restava era apenas um título e mais nada. Mas isso para mim era suficiente, pois para um Samurai como eu, a vida material não era o que buscava. O que eu queria era poesia, vinho e a espada na minha mão.",
       "ru": "Когда-то клан Каэдэхара был знаменитым самурайским кланом. Жаль, что по наследию мне не досталось ничего, кроме титула. Но мне довольно и этого. Самураю нужна не роскошная жизнь, а поэзия, вино и меч.",
       "id": "Klan Kaedehara dulunya adalah klan samurai yang sangat terkenal. Sayang sekali saat klan ini diturunkan padaku, yang tersisa hanyalah nama klan tersebut. Tapi bagiku itu sudah cukup. Seorang samurai tidak butuh hidup mewah - semua yang kita butuhkan adalah anggur, lagu, dan pedang di tangan kita.",
-      "th": "ตระกูล Kaedehara เคยเป็นตระกูลซามูไรที่มีชื่อเสียง แต่เมื่อสืบทอดมาถึงฉันก็ไม่มีอะไรอีกแล้วนอกจากชื่อของชนชั้นสูง แต่นั่นก็เพียงพอแล้วสำหรับฉัน ซามูไรไม่ได้ต้องการชีวิตที่รุ่งเรือง สิ่งที่เราต้องการคือบทกวี สุราเลิศรสและดาบในมือ",
+      "th": "ตระกูล Kaedehara เคยเป็นตระกูลซามูไรที่มีชื่อเสียง แต่เมื่อสืบทอดมาถึงฉันก็ไม่มีอะไรอีกแล้วนอกจากชื่อของชนชั้นสูง แต่นั่นก็เพียงพอแล้วสำหรับฉัน ซามูไรไม่ได้ต้องการชีวิตที่รุ่งเรือง สิ่งที่เราต้องการคือบทกวี สาเกเลิศรส และดาบในมือ",
       "vi": "Nhà Kaedehara đã từng là dòng dõi samurai nổi tiếng, đáng tiếc khi truyền đến tôi, ngoài danh hiệu quý tộc thì chẳng còn gì cả. Nhưng như vậy cũng đã đủ với tôi rồi, samurai không cần cuộc sống giàu sang, cái chúng tôi cần chính là thơ ca, rượu ngon và thanh đao trong tay."
     }
   },
@@ -454,7 +454,7 @@
       "jp": "出航について…",
       "ko": "우리에 대해·출항",
       "en": "About Us: Going Out to Sea",
-      "de": "Über uns —  Aufs Meer hinausfahren",
+      "de": "Über uns — Aufs Meer hinausfahren",
       "es": "Sobre nosotros - Viaje marítimo",
       "fr": "À propos de nous - Départ en mer",
       "pt": "Sobre nós - Sair para o mar",
@@ -470,7 +470,7 @@
       "ko": "날 좋을 때 바다로 나가보지 않을래?",
       "en": "What say you join me out at sea someday when the weather's fine?",
       "de": "Was hältst du davon, wenn du mich eines Tages bei schönem Wetter auf das Meer begleitest?",
-      "es": "Esperemos a que haga buen tiempo y embarquémonos en un viaje por el mar.",
+      "es": "¿Qué te parece si zarpas conmigo a la mar cuando haga buen tiempo?",
       "fr": "Que diriez-vous de partir faire un tour en mer quand il fera beau ?",
       "pt": "Quando encontrarmos um tempo bom, que tal navegarmos?",
       "ru": "Выйдем вместе в море, когда выдастся погожий денёк?",
@@ -534,12 +534,12 @@
       "ko": "내가 볼 때 신의 눈은 힘을 「증명」하는 거지, 힘의 「원천」이 아니야. 신의 눈은 계속 나아가고자 하는 인간의 소망을 상징하지만, 우리 무사들의 저력은 바로 손에 쥔 검이라고",
       "en": "As I see it, a Vision is the proof of one's strength, not the source of it. It symbolizes the mortal desire to always keep moving forward, but in this endeavor, we samurai place our faith in our blades alone.",
       "de": "So wie ich es sehe, ist ein Göttliches Auge der Beweis für die eigene Stärke, nicht die Quelle derselben. Sie symbolisiert den sterblichen Wunsch, immer weiter voranzukommen, aber in diesem Bestreben vertrauen wir Samurai allein auf unsere Klingen.",
-      "es": "En mi opinión, una Visión es la demostración de tu fuerza, no la fuente. Las Visiones simbolizan el deseo mortal de seguir avanzando, pero en ese camino, los samuráis depositamos toda nuestra confianza en nuestras espadas.",
+      "es": "En mi opinión, una Visión es la demostración de tu fuerza, no la fuente. Simboliza el deseo mortal de seguir avanzando, pero en ese camino, los samuráis depositamos toda nuestra confianza en nuestras espadas.",
       "fr": "Pour moi, un œil divin est la preuve de la force de son possesseur, et non sa source. Il symbolise le désir mortel de toujours aller de l'avant... Mais nous les samouraïs préférons pour ce faire placer notre foi dans notre lame, et en rien d'autre.",
       "pt": "Ao meu ver, a Visão é um \"reconhecimento\" de poder, em vez da \"origem\" do poder. A Visão representa o desejo de seguir em frente das pessoas mortais, e o nosso suporte é sempre a espada na nossa mão.",
       "ru": "Мне видится, что Глаз Бога - доказательство силы, а не её источник. Он символизирует волю смертных идти вперёд, а самураи в этих устремлениях полагаются на свои клинки.",
       "id": "Menurutku, Vision adalah \"bukti\" dari kekuatan seseorang, bukan \"sumber\" kekuatan seseorang. Vision melambangkan keinginan manusia untuk terus maju. Tapi bagi samurai seperti kami, kami hanya memercayai pedang kami sendiri.",
-      "th": "ในความคิดของฉัน วิชั่นคือ \"หลักฐาน\" ของพลัง ไม่ใช่ \"แหล่งที่มา\" ของพลัง วิชั่นเป็นสัญลักษณ์ของความปรารถนาของมนุษย์ที่จะก้าวไปข้างหน้า ส่วนความมั่นใจของซามูไรก็คือดาบที่พวกเราถืออยู่ในมือ",
+      "th": "ในความคิดของฉัน วิชั่นคือ \"หลักฐาน\" ของพลัง ไม่ใช่ \"แหล่งที่มา\" ของพลัง วิชั่นเป็นสัญลักษณ์ความปรารถนาของมนุษย์ที่จะก้าวไปข้างหน้า ส่วนความมั่นใจของซามูไรก็คือดาบที่พวกเราถืออยู่ในมือ",
       "vi": "Theo tôi thấy thì Vision là \"minh chứng\" cho sức mạnh, chứ không phải \"cội nguồn\" của sức mạnh. Vision tượng trưng cho nguyện vọng luôn tiến lên của người phàm, còn sức mạnh của samurai chúng tôi luôn là thanh đao trong tay."
     }
   },
@@ -566,11 +566,11 @@
       "ko": "검도를 배우고 싶다면, 흠… 이걸 받아. 내가 방금 만든 죽도인데, 이걸 사용하면 우리 둘 다 다칠 일 없을 거야",
       "en": "Ah, you'd like to learn the art of the sword? Let me see... Alright — here, take this. It's a bamboo blade I just made. With these, we can practice sparring without having to worry about getting injured.",
       "de": "Ah, du möchtest die Kunst des Schwertes erlernen? Lass mich mal sehen ... In Ordnung, hier, nimm das. Das ist eine Bambusklinge, die ich gerade geschnitzt habe. Damit können wir den Kampf üben, ohne uns Sorgen machen zu müssen, verletzt zu werden.",
-      "es": "¿Quieres aprender el arte de la espada? Veamos... Toma, es una espada de bambú que acabo de hacer. Si las usamos para entrenar, nadie resultará herido.",
+      "es": "¿Quieres aprender el arte de la espada? Veamos... Bien, toma, es una espada de bambú que acabo de hacer. Con esto, podemos practicar sin preocuparnos de que nadie resulte herido.",
       "fr": "Vous voulez apprendre le kendo – l'art de l'épée ? Voyons voir... Bien – prenez ceci. C'est une lame de bambou que je viens de fabriquer. Idéale pour s'entraîner sans se blesser.",
       "pt": "Se você quiser aprender técnicas de espada... Então, tome isto! É uma espada de bambu feita por mim mesmo. Se lutarmos com ela, ninguém irá se ferir.",
       "ru": "О, ты хочешь научиться искусству фехтования? Посмотрим... Вот, возьми. Это один из бамбуковых мечей, которые я только что сделал. С ними мы сможем потренироваться без опасений, что кто-нибудь поранится.",
-      "id": "Ah, kamu ingin belajar ilmu pedang? Biar kucarikan... ini dia, ambil pedang bambu yang baru kubuat ini. Dengan pedang ini, kita bisa berlatih tanpa perlu takut terluka.",
+      "id": "Ah, kamu ingin belajar ilmu pedang? Biar kucarikan dulu ... ini dia, ambil pedang bambu yang baru kubuat ini. Dengan pedang ini, kita bisa berlatih tanpa perlu takut terluka.",
       "th": "ถ้าเธออยากเรียนวิชาดาบละก็... ฉันคิดแป๊บนึงนะ เอานี่ไปละกัน ดาบไม้ไผ่ที่ฉันเพิ่งทำเสร็จน่ะ ถ้าเราใช้มันในการประลอง พวกเราก็จะไม่ได้รับบาดเจ็บ",
       "vi": "Nếu muốn học kiếm đạo...để tôi suy nghĩ, cầm cái này đi, đây là đao trúc mà tôi vừa làm xong. Nếu dùng nó để luyện tập, chúng ta sẽ không bị thương."
     }
@@ -589,7 +589,7 @@
       "ru": "Давай поделимся: Кленовые листья",
       "id": "Berbagi Cerita: Daun Maple",
       "th": "ต้องการจะแชร์อะไร - ใบเมเปิล",
-      "vi": "Có gì muốn chia sẻ không - Đao trúc - Lá phong"
+      "vi": "Có gì muốn chia sẻ không - Lá phong"
     },
     "line": {
       "zhs": "「深山踏红叶，耳畔闻鹿鸣」…我很喜欢枫叶，可惜枫叶红时总多离别。",
@@ -598,11 +598,11 @@
       "ko": "「깊은 산 속 떨어진 단풍을 밟으니 서글픈 사슴의 울음이 들려오네」…. 난 단풍이 좋아. 하지만 단풍이 붉게 물들 때면 항상 이별이 오곤 하지",
       "en": "\"On this mountain path, where the red leaves lifeless lie... My heart calls for a companion, echoing the deer's cry...\" Hm... I do love maple leaves, but it is a shame that so many goodbyes seem to happen when they turn red.",
       "de": "„Auf diesem Bergpfad, wo rote Blätter leblos liegen ... Mein Herz ruft nach einem Gefährten, der den Ruf des Rehs widerhallt ...“ Hm ... Ich liebe Ahornblätter, aber es ist eine Schande, dass so viele Abschiede zu passieren scheinen, wenn sie rot werden.",
-      "es": "“En este camino montañoso, donde descansan las hojas escarlata, mi corazón suplica un compañero, como la llamada de un ciervo”... Me encantan las hojas de los arces, pero es una pena que ocurran tantas despedidas cuando se tornan rojas.",
+      "es": "“En este camino montañoso, donde descansan las hojas escarlata, mi corazón suplica un compañero como si de un ciervo gritando se tratara”... Me encantan las hojas de los arces, pero es una pena que ocurran tantas despedidas cuando se tornan rojas.",
       "fr": "« Les feuilles rouges m'accompagnent sur ce sentier de montagne... Un compagnon mon cœur espère, se faisant l'écho du cri du cerf... » Hmm... J'aime beaucoup les feuilles d'érable, quel dommage que tellement d'adieux se fassent quand elles prennent leur couleur rouge.",
       "pt": "\"Nas profundezas das montanhas, escuto os gritos dos cervos\"... Eu gosto muito de folhas de bordos, mas quando elas ficarem vermelhas, é o momento de se despedir.",
       "ru": "«Горная тропка укрыта листами цвета огня, клич печальный оленя доносят ветра до меня» ...Я очень люблю кленовые листья. Печально, что случается так много прощаний, когда они становятся красными.",
-      "id": "\"Di gunung ini, dedaunan merah berguguran tak bernyawa... Hatiku pedih, bagai tangisan seekor rusa...\" *huff* Aku sangat menyukai daun maple, tapi sayangnya saat daun ini memerah, seperti melambangkan banyak sekali perpisahan.",
+      "id": "\"Di gunung ini, dedaunan merah berguguran tak bernyawa ... Hatiku pedih, bagai tangisan seekor rusa ....\" *huff* Aku sangat menyukai daun maple, tapi sayangnya saat daun ini memerah, seperti melambangkan banyak sekali perpisahan.",
       "th": "\"ย่ำใบไม้สีแดงในหุบเขา เสียงกวางร้องก้องในใบหู\"... ฉันชอบใบเมเปิลมากเลยล่ะ แต่น่าเสียดายที่พอมันเปลี่ยนเป็นสีแดงแล้วมักจะมีการพลัดพรากเกิดขึ้นเสมอ",
       "vi": "\"Núi non giẫm lá đỏ, tai vẳng tiếng nai kêu\"...Tôi rất thích lá phong, nhưng đáng tiếc, khi lá phong nhuốm đỏ cũng là lúc phải chia lìa."
     }
@@ -634,7 +634,7 @@
       "fr": "Adieu, chers goélands, calmez vos cris. À compter de ce jour, je suis un vagabond à nouveau.",
       "pt": "Gaivotas, não gritem, a partir de hoje eu também sou alguém que está à deriva.",
       "ru": "Не кричите, чайки! Отныне я вновь странник.",
-      "id": "Para burung camar, berhentilah berkicau... Mulai hari ini, aku juga akan pergi merantau.",
+      "id": "Para burung camar, berhentilah berkicau ... Mulai hari ini, aku juga akan pergi merantau.",
       "th": "อย่าร้องไห้ไปเลยเจ้านกนางนวล นับตั้งแต่วันนี้ไป ฉันก็เป็นผู้พเนจรเหมือนกันแล้วนะ",
       "vi": "Hải âu đừng gọi nữa, từ hôm nay, tôi cũng là một kẻ phiêu bạt rồi."
     }
@@ -691,15 +691,15 @@
       "zhs": "我在被通缉的那段时间里，反抗军给了我许多帮助。那时候我与五郎只有短暂的接触，但我对他的印象很深刻。他是那种有话就说的直性子，与部下同甘共苦，为朋友两肋插刀，与我很合得来。",
       "zht": "我在被通緝的那段時間裡，反抗軍給了我許多幫助。那時候我與五郎只有短暫的接觸，但我對他的印像很深刻。他是那種有話就說的直性子，與部下同甘共苦，為朋友兩肋插刀，與我很合得來。",
       "jp": "拙者が指名手配されていた時、抵抗軍が拙者を助けてくれたのでござる。ゴローとはその時の短い付き合いであったが、彼のことは深く印象に残っている。彼は言いたいことを真っ直ぐに言う性格で、部下と共に喜びや悲しみを分かち合い、友のために犠牲をいとわない。だから拙者は、彼とは気が合うのでござるよ。",
-      "ko": "내가 지명 수배로 쫒기고 있을 때 반란군의 도움을 많이 받았어. 고로와는 그때 잠깐 봤는데도 기억이 강렬하게 남았지. 할 말은 하는 성격에 기쁠 때나 괴로울 때나 부하들과 함께하고, 친구를 위해서 어떤 위험이든 무릅쓰는데 나랑 아주 잘 맞더라고",
+      "ko": "내가 지명 수배로 쫒기고 있을 때 저항군의 도움을 많이 받았어. 고로와는 그때 잠깐 봤는데도 기억이 강렬하게 남았지. 할 말은 하는 성격에 기쁠 때나 괴로울 때나 부하들과 함께하고, 친구를 위해서 어떤 위험이든 무릅쓰는데 나랑 아주 잘 맞더라고",
       "en": "When I was a wanted man, the resistance gave me a lot of help. The time I spent with Gorou was brief, but he left a deep impression on me. He's the type of person who says whatever's on his mind. He shares the highs and lows of his subordinates, and is never afraid to draw his sword for the sake of a friend. That's the kind of person I can really get along with.",
       "de": "Als ich ein gesuchter Mann war, gab mir der Widerstand viel Hilfe. Die Zeit, die ich mit Gorou verbracht habe, war kurz, aber er hat einen tiefen Eindruck bei mir hinterlassen. Er ist der Typ Mensch, der alles sagt, was ihm auf dem Herzen liegt. Er teilt die Höhen und Tiefen seiner Untergebenen und hat nie Angst, sein Schwert für einen Freund zu ziehen. Das ist die Art von Person, mit der ich wirklich gut auskommen kann.",
-      "es": "Cuando ordenaron mi arresto, el ejército de resistencia me ayudó mucho. En aquel momento, Gorou y yo solo habíamos hablado un par de veces, pero me causó una muy buena impresión. Es una de esas personas muy directas. No le importa sufrir junto a sus soldados y está dispuesto a sacrificar su vida por sus amigos. Me llevo muy bien con él.",
+      "es": "Cuando ordenaron mi arresto, el ejército de resistencia me ayudó mucho. En aquel momento, Gorou y yo solo habíamos hablado un par de veces, pero me causó una muy buena impresión. Es una de esas personas muy directas. No le importa sufrir junto a sus soldados y está dispuesto a sacrificar su vida por sus amigos. Es el tipo de persona con la que me puedo llevar bien.",
       "fr": "La résistance m'a énormément aidé quand j'étais recherché. Je n'ai pas passé longtemps aux côtés de Gorou, mais l'homme m'a laissé une impression durable. C'est le genre de personne à dire ce qu'il pense. Il partage les hauts et les bas de ses subordonnés, et ne renâcle jamais à dégainer son arme pour aider un ami en difficulté. Le genre d'homme avec qui je m'entends parfaitement.",
       "pt": "Durante aquele período de ser procurado, os soldados rebeldes me ajudaram bastante. Naquela época, mesmo que só tivesse ficado com Gorou por pouco tempo, fiquei bem impressionado com ele. Ele era uma pessoa muito direta, sempre disposto a ajudar seus homens e amigos. Éramos bons amigos.",
       "ru": "Когда я был в розыске, сопротивление много мне помогало. Знакомство с генералом Горо было мимолётным, но он произвёл на меня неизгладимое впечатление. Он говорит всё, как на духу. Он переносит радости и невзгоды вместе с подчинёнными и готов отдать жизнь ради друзей. Мы с ним отлично поладили.",
-      "id": "Saat aku masih menjadi buronan, pasukan perlawanan banyak membantuku. Waktu yang kulewatkan bersama Gorou tidak panjang, tapi dia sangat berkesan bagiku. Dia tipe orang yang mengatakan apa pun yang ada di pikirannya. Dia selalu berbagi suka dan duka bersama dengan anak buahnya, dan dia tidak pernah takut menghunuskan pedangnya demi membela teman. Aku benar-benar bisa akur dengan tipe orang seperti Gorou.",
-      "th": "ในตอนที่ฉันถูกล่าตัว กองทัพกบฏได้ให้ความช่วยเหลือหลายอย่างกับฉัน ตอนนั้นฉันได้ใช้เวลากับ Gorou แค่ช่วงสั้น ๆ แต่ฉันประทับใจในตัวเขามากเลย เขาเป็นคนตรงไปตรงมา และร่วมทุกข์ร่วมสุขกับผู้ใต้บังคับบัญชา เขาไม่เคยกลัวที่จะต้องต่อสู้เพื่อเพื่อนของเขา ซึ่งเข้ากับฉันได้ดีเลยล่ะ",
+      "id": "Saat aku masih menjadi buronan, Pasukan Pemberontak banyak membantuku. Waktu yang kulewatkan bersama Gorou tidak panjang, tapi dia sangat berkesan bagiku. Dia tipe orang yang mengatakan apa pun yang ada di pikirannya. Dia selalu berbagi suka dan duka bersama dengan anak buahnya, dan dia tidak pernah takut menghunuskan pedangnya demi membela teman. Aku benar-benar bisa akur dengan tipe orang seperti Gorou.",
+      "th": "ในตอนที่ฉันถูกล่าตัว กองทัพต่อต้านได้ให้ความช่วยเหลือหลายอย่างกับฉัน ตอนนั้นฉันได้ใช้เวลากับ Gorou แค่ช่วงสั้น ๆ แต่ฉันประทับใจในตัวเขามากเลย เขาเป็นคนตรงไปตรงมา และร่วมทุกข์ร่วมสุขกับผู้ใต้บังคับบัญชา เขาไม่เคยกลัวที่จะต้องต่อสู้เพื่อเพื่อนของเขา ซึ่งเข้ากับฉันได้ดีเลยล่ะ",
       "vi": "Trong thời gian tôi bị truy nã, quân kháng chiến đã giúp đỡ tôi rất nhiều. Lúc đó tôi chỉ gặp Gorou một thời gian ngắn, nhưng lại có ấn tượng vô cùng sâu đậm với anh ấy. Anh ấy là người thẳng tính, có gì nói đó, đồng cam cộng khổ với cấp dưới, rút đao tương trợ cho bạn bè, rất hợp với tôi."
     }
   },
@@ -710,13 +710,13 @@
       "jp": "九条裟羅について·態度",
       "ko": "쿠죠 사라에 대해·태도…",
       "en": "About Kujou Sara",
-      "de": "Über Kujou Sara ...",
+      "de": "Über Kujou Sara – Einstellung",
       "es": "Sobre Kujou Sara - Actitud",
-      "fr": "À propos de Kujou Sara...",
+      "fr": "À propos de Kujou Sara - Attitude",
       "pt": "Sobre Kujou Sara - Atitude...",
       "ru": "О Кудзё Сара: Отношение...",
       "id": "Tentang Kujou Sara: Sifat",
-      "th": "เกี่ยวกับ Kujo Sara - ทัศนคติ...",
+      "th": "เกี่ยวกับ Kujou Sara - ทัศนคติ...",
       "vi": "Về Kujou Sara - Thái độ..."
     },
     "line": {
@@ -726,7 +726,7 @@
       "ko": "어전시합에서 내 친구를 이기다니, 실력만큼은 인정해. 하지만 그런 힘으로 앞잡이 짓이나 하며 쿠죠군을 선동해 「신의 눈」을 회수하는 건 절대 용서 못 해",
       "en": "She defeated my friend in a duel before the throne, which I accept as proof of her great strength. But she uses that strength to serve as an oppressor's lackey, leading the Kujou Clan's troops to relentlessly seek out and confiscate Visions. This... I cannot forgive.",
       "de": "Sie besiegte meinen Freund in einem Duell vor dem Thron, was ich als Beweis für ihre große Stärke akzeptiere. Aber sie nutzt diese Stärke, um als Lakai eines Unterdrückers zu dienen. Sie führt die Truppen des Kujou-Klans an, um unerbittlich nach Göttlichen Augen zu suchen und sie zu beschlagnahmen. Das ... kann ich nicht verzeihen.",
-      "es": "Ella derrotó a mi amigo en el duelo ante el trono, así que reconozco su fuerza. Pero jamás podré perdonarla por ponerse al servicio del mal y liderar las tropas de la familia Kujou para confiscar Visiones.",
+      "es": "Ella derrotó a mi amigo en el duelo ante el trono, así que reconozco su fuerza. Pero que use esa fuerza para ser una lacaya al servicio de los opresores y para liderar a las tropas del clan Kujou a que confisquen Visiones implacablemente... Eso no puedo perdonarlo.",
       "fr": "Elle a vaincu mon ami devant le trône, ce qui est la preuve d'une grande force. Mais elle utilise cette force au service de l'oppresseur, dirigeant les troupes du Clan Kujou dans la recherche et l'appropriation des yeux divins... Et ça, je ne peux lui pardonner.",
       "pt": "Ela conseguiu derrotar meu amigo no Duelo Imperial, eu reconheço o seu poder. Mas ela esmagava todas as ordens e levou Tropas de Kujou recuperar Visões. É um erro que eu nunca consigo perdoar.",
       "ru": "Она нанесла моему другу поражение на дворцовой дуэли, и я признаю её силу. Но она использует эту силу, чтобы выполнять грязную работу своей хозяйки, беспрестанно бросая войска клана Кудзё на поиски и изъятие Глаз Бога. Этого я простить не могу.",
@@ -747,8 +747,8 @@
       "fr": "À propos de Kujou Sara - Changement de perspective",
       "pt": "Sobre Kujou Sara - Mudança de opinião",
       "ru": "О Кудзё Сара: Новые взгляды...",
-      "id": "Tentang Kujou Sara: Perubahan Pandangan",
-      "th": "เกี่ยวกับ Kujo Sara - ความเปลี่ยนแปลง...",
+      "id": "Tentang Kujou Sara: Mengubah Pandangan",
+      "th": "เกี่ยวกับ Kujou Sara - ความเปลี่ยนแปลง...",
       "vi": "Về Kujou Sara - Thay đổi cách nhìn..."
     },
     "line": {
@@ -758,12 +758,12 @@
       "ko": "그렇구나, 그녀도 자신만의 신념은 있는 모양이네. 다만 소란이 잠잠해진 뒤에도 「쿠죠」 가문이 예전처럼 번성할 수 있을진 의문이야",
       "en": "I see... So she does have her own ideals that she is fighting for. But I have to wonder: can the Kujou family flourish as they did before once this storm has passed?",
       "de": "Ich verstehe ... Also hat sie doch ihre eigenen Ideale, für die sie kämpft. Aber ich muss mich fragen: Kann die Kujou-Familie wieder so aufblühen wie früher, wenn dieser Sturm vorbei ist?",
-      "es": "Ya veo... Así que ella también tiene unos ideales por los que seguir luchando... Lo que no sé es si la familia Kujou podrá seguir manteniendo su esplendor una vez que escampe la tormenta.",
+      "es": "Ya veo... Así que ella también tiene unos ideales por los que seguir luchando... Lo que no sé es si el clan Kujou podrá seguir manteniendo su esplendor una vez que escampe la tormenta.",
       "fr": "Je vois... Alors elle-même poursuit ses propres idéaux. Mais la question se pose : le Clan Kujou pourra-t-il retrouver sa gloire passée quand cette tempête aura pris fin ?",
       "pt": "Ah, entendi. Então, ao que parece, ela também tem seus próprios princípios. Só que não sabemos se a prosperidade de Kujou ainda permanecerá ou não depois de um caos desses.",
       "ru": "Вот как... Оказывается, у неё есть свои идеалы, за которые она сражается. Любопытно, сможет ли клан Кудзё после этих смутных времён вернуться к былому процветанию?",
-      "id": "Ternyata begitu... Jadi dia sendiri punya prinsip yang dia ingin dia perjuangkan. Tapi aku jadi penasaran, apakah Klan Kujou dapat makmur seperti dulu lagi, setelah badai ini berlalu?",
-      "th": "ที่แท้ก็เป็นอย่างนี้ ดูเหมือนว่าเธอเองก็ต่อสู้เพื่อความเชื่อของตัวเอง ฉันไม่รู้ว่าหลังจากความวุ่นวายนี้สงบลงแล้ว ตระกูล Kujou จะรุ่งเรืองต่อไปได้รึเปล่า",
+      "id": "Ternyata begitu ... Jadi dia sendiri punya prinsip yang dia ingin dia perjuangkan. Tapi aku jadi penasaran, apakah Klan Kujou dapat makmur seperti dulu lagi, setelah badai ini berlalu?",
+      "th": "ที่แท้ก็เป็นอย่างนี้นี่เอง ดูเหมือนว่าเธอเองก็ต่อสู้เพื่อความเชื่อของตัวเอง ฉันไม่รู้ว่าหลังจากความวุ่นวายนี้สงบลงแล้ว ตระกูล Kujou จะรุ่งเรืองต่อไปได้รึเปล่า",
       "vi": "Thì ra là vậy. xem ra cô ta cũng có niềm tin kiên định của riêng mình. Chỉ là, không biết sau khi phong ba lắng xuống, gia tộc \"Kujou\" còn có thể kéo dài sự hưng thịnh như đã từng không."
     }
   },
@@ -794,8 +794,8 @@
       "fr": "Je me suis souvent posé cette question depuis que j'ai quitté Inazuma. Est-ce que j'en veux à la Shogun Raiden à cause de ce qui s'est passé lors du duel ? Parce qu'elle a infligé le coup fatal à mon ami ?\n\nJ'y ai réfléchi longtemps, et je crois que la réponse est non. Mon ami a connu une mort honorable dans ce duel, et la conduite de la Shogun était justifiée. Non, ce qui me déplaît est le décret de saisie visant à confisquer les yeux divins qu'elle a émis. Nul n'a le droit de dépouiller un autre de ses rêves et de ses espoirs – pas même un dieu.",
       "pt": "Após ter saído de Inazuma, muitas vezes eu me pergunto se a minha insatisfação contra a Shogun Raiden era por causa daquele Duelo Imperial ou por causa daquele golpe ao meu amigo.\n\nFiquei pensando por muito tempo, e as ambas hipóteses não estavam certas. O meu amigo morreu com dignidade no campo de duelo, e o golpe de Shogun Raiden não fez a mínima diferença. A minha insatisfação era contra a Caça à Visão. Ninguém está autorizado a estragar os desejos dos outros, incluindo os deuses!",
       "ru": "С тех пор как я покинул Инадзуму, я часто задавался вопросом: не из-за той дворцовой дуэли ненавижу ли я сёгуна Райдэн? Не из-за смертельного удара, который она нанесла моему другу? Я долго об этом размышлял, и пришёл к выводу, что нет. Мой друг принял благородную смерть в дуэли, и в действиях сёгуна не было несправедливости. Моё негодование вызвано Охотой на Глаза Бога. Никто не смеет лишать другого человека надежды и мечтаний. Даже божество.",
-      "id": "Aku sudah sering menanyakan hal ini pada diriku sendiri setelah pergi dari Inazuma. Apakah aku membenci Raiden Shogun karena apa yang terjadi di duel itu? Karena dia yang menghabisi nyawa temanku? Aku sudah memikirkan hal ini lama sekali, dan jawabannya adalah tidak. Temanku mati dengan terhormat di duel tersebut, dan aku bisa mengerti tindakan yang dilakukan Raiden Shogun. Tapi aku membenci Raiden Shogun karena Dekrit Perburuan Vision yang dia keluarkan. Tidak ada seorang pun yang berhak merampas harapan dan mimpi orang lain - bahkan dewa sekalipun.",
-      "th": "หลังออกมาจาก Inazuma ฉันได้ถามตัวเองหลายครั้งว่า ความหมางใจที่ฉันมีต่อโชกุน Raiden นั้นเป็นเพราะเธอปลิดชีพเพื่อนของฉันด้วยคมดาบในการประลองรึเปล่า?\n\nฉันคิดอยู่นานมาก และฉันรู้สึกว่าไม่ใช่เพราะเรื่องนั้น เพื่อนของฉันเสียชีวิตในการประลองอย่างสมเกียรติ และคมดาบของโชกุน Raiden ก็ไม่ได้มีความผิด สิ่งที่ทำให้ฉันไม่พอใจ น่าจะมาจาก \"คำสั่งล่าวิชั่น\" ไม่มีใครมีสิทธิ์พรากความหวังและความฝันของผู้อื่นไป ต่อให้เป็น \"เทพเจ้า\" ก็ตาม",
+      "id": "Aku sudah sering menanyakan hal ini pada diriku sendiri setelah pergi dari Inazuma. Apakah aku membenci Raiden Shogun karena apa yang terjadi di duel itu? Karena dia yang menghabisi nyawa temanku? Aku sudah memikirkan hal ini lama sekali, dan jawabannya adalah tidak. Temanku mati dengan terhormat di duel tersebut, dan aku bisa mengerti tindakan yang dilakukan Raiden Shogun. Tapi aku membenci Raiden Shogun karena Dekrit Perburuan Vision yang dia berlakukan. Tidak ada seorang pun yang berhak merampas harapan dan mimpi orang lain - bahkan dewa sekalipun.",
+      "th": "หลังออกมาจาก Inazuma ฉันได้ถามตัวเองหลายครั้งว่า ความหมางใจที่ฉันมีต่อโชกุน Raiden นั้นเป็นเพราะเธอปลิดชีพเพื่อนของฉันด้วยคมดาบในการประลองรึเปล่า?\n\nฉันคิดอยู่นานมาก และฉันรู้สึกว่าไม่ใช่เพราะเรื่องนั้น เพื่อนของฉันเสียชีวิตในการประลองอย่างสมเกียรติ และคมดาบของโชกุน Raiden ก็ไม่ได้มีความผิด สิ่งที่ทำให้ฉันไม่พอใจ ต้นเหตุมาจาก \"คำสั่งล่าวิชั่น\" ไม่มีใครมีสิทธิ์พรากความหวังและความฝันของผู้อื่นไป ต่อให้เป็น \"เทพเจ้า\" ก็ตาม",
       "vi": "Sau khi rời khỏi Inazuma, tôi đã nhiều lần tự vấn, sự bất mãn của tôi đối với Raiden Shogun có phải bắt nguồn từ trận Ngự Tiền Quyết Đấu ấy, có phải bắt nguồn từ nhát đao mà cô ta đã để lại cho người bạn cũ?\n\nTôi đã nghĩ rất lâu, và cảm thấy rằng không phải. Bạn của tôi đã chết một cách quang minh chính đại trên đấu trường, nhát đao của Raiden Shogun cũng không có gì không thỏa đáng. Sự bất mãn ấy xuất phát từ lệnh \"Truy Lùng Vision\". Không ai có tư cách tước đoạt nguyện vọng của người khác, dù cho có là \"Thần\" cũng không được."
     }
   },
@@ -822,12 +822,12 @@
       "ko": "이나즈마에 사는 사람이라면 「백로공주」라는 이름은 다들 들어봤을 거야. 카미사토 가문의 아가씨인데 그야말로 완벽하다고 할 수 있지. 개인적인 친분은 없어. 그녀는 지금의 이나즈마를 어떻게 생각하려나",
       "en": "I'm sure everyone living in Inazuma has heard of the \"Shirasagi Himegimi.\" The lady of the Kamisato Clan is as perfect as a person can be, though our paths have seldom crossed. I wonder what she thinks of the state of Inazuma today?",
       "de": "Ich bin mir sicher, dass jeder, der in Inazuma lebt, von der „Shirasagi Himegimi“ gehört hat. Die Prinzessin des Kamisato-Klans ist so perfekt, wie ein Mensch nur sein kann, obwohl sich unsere Wege nur selten gekreuzt haben. Ich frage mich, was sie über den Zustand von Inazuma heute denkt?",
-      "es": "Todo habitante de Inazuma ha escuchado alguna vez el nombre de “Princesa Garza”. La hija de los Kamisato es una persona prácticamente perfecta, aunque nuestros caminos rara vez se han cruzado. No sé cuál será su opinión sobre la actual Inazuma.",
+      "es": "Todo habitante de Inazuma ha escuchado alguna vez el nombre de “Princesa Garza”. La señorita del clan Kamisato es una persona prácticamente perfecta, aunque nuestros caminos rara vez se han cruzado. No sé cuál será su opinión sobre la actual Inazuma.",
       "fr": "Je suis sûr que tous ceux habitant à Inazuma ont déjà entendu parler de la Shirasagi Himegimi. Cette dame du Clan Kamisato est une personne pour ainsi dire presque parfaite, mais nos chemins se sont rarement croisés. Je me demande ce qu'elle pense d'Inazuma de nos jours.",
       "pt": "Os moradores de Inazuma devem estar bem familiarizados com o nome \"Shirasagi Himegimi\". Ela é a filha da família Kamisato. Não sou muito próximo dela, e não faço ideia do que ela acha de Inazuma agora.",
       "ru": "Уверен, все в Инадзуме слышали имя «Сирасаги Химэгими». Старшая дочь клана Камисато близка к совершенству, хоть и наши пути не пересекались. Интересно, какого она мнения о сегодняшней Инадзуме?",
       "id": "Kurasa semua orang yang tinggal di Inazuma pernah mendengar tentang \"Shirasagi Himegimi\". Putri tertua dari Klan Kamisato adalah seseorang yang sangat sempurna, meskipun aku belum pernah bertemu dengannya. Kira-kira apa pendapatnya tentang kondisi Inazuma sekarang ya?",
-      "th": "ทุกคนที่อาศัยอยู่ในเมือง Inazuma น่าจะเคยได้ยินชื่อของ Shirasagi Himegimi มาบ้างล่ะ บุตรสาวคนโตของตระกูล Kamisato เป็นคนที่แทบจะเรียกได้ว่าสมบูรณ์แบบ แต่ฉันเองก็ไม่ค่อยมีโอกาสได้เจอกับเธอ ไม่รู้ว่าเธอจะคิดยังไงกับสถานการณ์ของ Inazuma ในทุกวันนี้บ้าง",
+      "th": "ทุกคนที่อาศัยอยู่ในเมือง Inazuma น่าจะเคยได้ยินชื่อของ \"องค์หญิงกระเรียนขาว\" มาบ้างล่ะ บุตรสาวคนโตของตระกูล Kamisato เป็นคนที่แทบจะเรียกได้ว่าสมบูรณ์แบบ แต่ฉันเองก็ไม่ค่อยมีโอกาสได้เจอกับเธอ ไม่รู้ว่าเธอจะคิดยังไงกับสถานการณ์ของ Inazuma ในทุกวันนี้บ้าง",
       "vi": "Ai sống ở Inazuma chắc đều biết đến cái tên \"Shirasagi Himegimi\" này. Đại tiểu thư nhà Kamisato, gần như là một người hoàn mỹ, nhưng tôi chưa từng chạm mặt cô ấy, không biết cô ấy có suy nghĩ như thế nào về Inazuma hiện nay."
     }
   },
@@ -851,7 +851,7 @@
       "zhs": "上次她托大姐头把烟火运到璃月，还是我亲自去卸的货。好沉！除了她以外，应该没人能造出这么大的烟火了吧。",
       "zht": "上次她託大姐頭把煙火運到璃月，還是我親自去卸貨的。很沉！除了她以外，應該沒人能造出這麼大的煙火了吧。",
       "jp": "以前、彼女が姉君に頼んで花火を璃月まで運んだことがある。その時は拙者が荷を下ろした、が…大変重かったでござる！彼女以外に、あのような大きな花火を作れる者などいないであろう。",
-      "ko": "지난번에 요이미야가 누님한테 리월로 불꽃을 운반해달라고 했을 때 내가 직접 짐을 내렸었어. 얼마나 무겁던지! 그렇게 큰 불꽃을 만들 수 있는 사람은 요이미야가 유일할걸?",
+      "ko": "저번에 요이미야가 누님한테 리월로 불꽃을 운반해달라고 했을 때 내가 직접 짐을 내렸었어. 얼마나 무겁던지! 그렇게 큰 불꽃을 만들 수 있는 사람은 요이미야가 유일할걸?",
       "en": "The last time she commissioned Captain Beidou to ship fireworks to Liyue, I unloaded the shipment myself. They were so heavy! I doubt that anyone besides her could make such huge fireworks.",
       "de": "Das letzte Mal, als sie Kapitän Beidou beauftragte, Feuerwerkskörper nach Liyue zu verschiffen, habe ich die Ladung selbst ausgeladen. Sie waren so schwer! Ich bezweifle, dass irgendjemand außer ihr so ein riesiges Feuerwerk herstellen kann.",
       "es": "La última vez que ella le pidió a la Capitana Beidou que transportara unos fuegos artificiales hasta Liyue, al final fui yo quien acabó descargándolos en el puerto. ¡Pesaban muchísimo! No creo que nadie aparte de ella sea capaz de crear unos fuegos artificiales tan grandes.",
@@ -887,11 +887,11 @@
       "en": "During my time with the Resistance, there was no one among our ranks who wouldn't look up to Her Excellency. As someone with a great passion for military matters, victory at all costs isn't really part of her ethos. She'd always try to limit the casualties to the minimum while planning her next move. By some accounts, it also seems that she seeks to take charge of both internal and foreign affairs for Watatsumi Island. Wouldn't that be too much to expect of herself though?",
       "de": "Als ich im Widerstand war, war ich von gleichgesinnten Kameraden umgeben, die zu Ihrer Exzellenz aufschauten. Sie liebte ihre Truppen und kämpfte selten ohne Rücksicht auf Tod oder Verletzung, sondern siegte immer mit minimalem Aufhebens. Ich habe gehört, dass sie auch die Regierung und Diplomatie der Insel Watatsumi übernehmen musste. Wie bewerkstelligt sie das nur ...",
       "es": "Cuando estuve en el ejército de resistencia, no había nadie entre nuestras filas que no admirara a Su Excelencia. Como apasionada por los asuntos militares, en su ética no se contempla el vencer a toda costa. Siempre intentaba mantener las bajas al mínimo mientras planeaba su siguiente movimiento. Además, parece que quiere hacerse cargo de los asuntos internos y externos de la Isla Watatsumi. ¿Pero no sería eso ocuparse de demasiadas cosas ella sola?",
-      "fr": "Lors de mon temps passé avec la Résistance, tout le monde vouait une profonde admiration à son Altesse. Elle chérit ses soldats, et remporter la victoire à tout prix ne fait pas partie de ses principes. Elle s'efforce toujours de limiter les pertes lorsqu'elle planifie sa prochaine manœuvre. Il semblerait qu'elle soit également en charge de la politique intérieure et extérieure de l'Île de Watatsumi. Cela fait beaucoup de responsabilités pour une seule personne...",
+      "fr": "Lors de mon temps passé avec la Résistance, tout le monde vouait une profonde admiration à Son Altesse. Elle chérit ses soldats, et remporter la victoire à tout prix ne fait pas partie de ses principes. Elle s'efforce toujours de limiter les pertes lorsqu'elle planifie sa prochaine manœuvre. Il semblerait qu'elle soit également en charge de la politique intérieure et extérieure de l'Île de Watatsumi. Cela fait beaucoup de responsabilités pour une seule personne...",
       "pt": "Durante meu tempo com a Resistência, não havia ninguém entre nossos escalões que não admirasse Vossa Excelência. Como alguém com uma grande paixão por assuntos militares, a vitória a todo custo não faz realmente parte de sua ética. Ela sempre tentaria limitar as baixas ao mínimo enquanto planejava seu próximo passo. Por alguns relatos, parece também que ela procura se encarregar dos assuntos internos e externos da Ilha Watatsumi. Mas isso não seria esperar muito de si mesma?",
       "ru": "Когда я был в сопротивлении, меня окружали бойцы, которые равнялись на госпожу Сангономию. Она любит своих солдат, редко вступает в кровопролитные бои и всегда побеждает с минимальными потерями. Я слышал, что ей также пришлось возглавить правительство и взять на себя внешние связи острова Ватацуми. Она очень занята...",
-      "id": "Waktu aku bergabung dengan Pasukan Pemberontak, semua rekan-rekanku sangat menghormati Yang Mulia Sangonomiya. Sebagai seseorang yang sangat mendalami dunia militer, dia tidak setuju dengan prinsip \"menang dengan menghalalkan segala cara\". Dia akan selalu berusaha meminimalisir jumlah korban sambil memikirkan langkah selanjutnya. Dengar-dengar, dia mengurus bagian internal maupun eksternal di Pulau Watatsumi... Apa dia tidak terlalu sibuk mengurus semuanya?",
-      "th": "ตอนที่ฉันก่อกบฏต่อกองทัพ สหายรอบตัวฉันต่างก็ชื่นชมท่าน Sangonomiya มาก เธอเป็นคนที่หวงแหนกองกำลังทหารของตัวเองมาก มักจะหลีกเลี่ยงการทำสงครามด้วยวิธีที่ต้องมีการสูญเสียชีวิต และบาดเจ็บ ทั้งยังสามารถเอาชนะด้วยวิธีที่ต้นทุนที่ต่ำที่สุด ยังได้ยินมาอีกว่าเธอต้องรับผิดชอบงานราชการ และการทูตของเกาะ Watatsumi อีกด้วย ช่างงานเยอะดีจริง ๆ...",
+      "id": "Waktu aku bergabung dengan Pasukan Pemberontak, semua rekan-rekanku sangat menghormati Yang Mulia Sangonomiya. Sebagai seseorang yang sangat mendalami dunia militer, dia tidak setuju dengan prinsip \"menang dengan menghalalkan segala cara\". Dia akan selalu berusaha meminimalisir jumlah korban sambil memikirkan langkah selanjutnya. Dengar-dengar, dia mengurus bagian internal maupun eksternal di Pulau Watatsumi ... Apa dia tidak terlalu sibuk mengurus semuanya?",
+      "th": "ตอนที่ฉันอยู่ในกองทัพต่อต้าน สหายรอบตัวฉันต่างก็ชื่นชมท่าน Sangonomiya มาก เธอเป็นคนที่หวงแหนกองกำลังทหารของตัวเองมาก น้อยครั้งนักที่จะใช้วิธีที่ต้องมีการสูญเสียหรือการบาดเจ็บ ทั้งยังสามารถเอาชนะด้วยวิธีที่ต้นทุนที่ต่ำที่สุด มิหนำซ้ำยังได้ยินมาอีกว่าเธอต้องรับผิดชอบงานราชการ และการทูตของเกาะ Watatsumi อีกด้วย เธอจะทำทั้งหมดนั่นไหวจริง ๆ เหรอ...",
       "vi": "Lúc tôi còn ở trong Quân Kháng Chiến, những đồng đội bên cạnh không ai là không kính trọng Sangonomiya đại nhân. Cô ấy luôn hạn chế thương vong ở mức thấp nhất trong những lần vạch kế hoạch của mình, chiến thắng bằng mọi giá không phải là phong cách của cô ấy. Nghe nói cô ấy còn phụ trách cả việc đối nội và đối ngoại của Đảo Watatsumi, như vậy không phải là quá bận rộn sao..."
     }
   },
@@ -954,8 +954,8 @@
       "fr": "J'ai un excellent sens de l'ouïe. Mes oreilles sont capables de capter toutes sortes de sons : le vent passant à travers les falaises, les nuages se dispersant, les renards mastiquant des pommes dans la forêt, les crabes faisant des bulles... C'est là un don de la nature, qui me permet de sentir le danger avant qu'il ne soit proche.",
       "pt": "A minha habilidade de audição é bastante sensível, e consigo ouvir todos os tipos de sons, por exemplo, o som do vento soprando na floresta, o som das nuvens se espalhando, raposas mordendo maçãs e o dos caranguejos fazendo bolhinhas... Sou abençoado pelos deuses e sempre consigo pressentir o perigo se aproximando.",
       "ru": "У меня очень острый слух. Я слышу, как несётся по горам ветер, как расходятся облака, как в лесу грызут яблоки лисята, как крабы выдувают пузырьки... Это дар природы. Он позволяет мне почуять опасность задолго до её наступления.",
-      "id": "Indra pendengaranku sangat tajam. Telingaku bisa mendengar berbagai macam suara: angin yang berembus di antara pegunungan, suara awan menyebar, suara rubah yang sedang makan apel di hutan, suara kepiting membuat gelembung... Ini adalah berkah dari alam, aku jadi bisa merasakan adanya bahaya dari kejauhan.",
-      "th": "หูของฉันไวมาก สามารถได้ยินเสียงทุกชนิด ไม่ว่าจะเป็นเสียงลมพัดผ่านเนินเขา, เสียงเมฆกระจายตัว, เสียงจิ้งจอกตัวน้อยที่กำลังแทะแอปเปิ้ล, เสียงปูที่กำลังพ่นฟอง... นี่คือพรจากธรรมชาติที่ทำให้ฉันรู้อันตรายล่วงหน้าได้เสมอ",
+      "id": "Indera pendengaranku sangat tajam. Telingaku bisa mendengar berbagai macam suara: angin yang berembus di antara pegunungan, suara awan menyebar, suara rubah yang sedang makan apel di hutan, suara kepiting membuat gelembung ... Ini adalah berkah dari alam, aku jadi bisa merasakan adanya bahaya dari kejauhan.",
+      "th": "หูของฉันไวมาก สามารถได้ยินเสียงทุกชนิด ไม่ว่าจะเป็นเสียงลมพัดผ่านเนินเขา เสียงเมฆกระจายตัว เสียงจิ้งจอกตัวน้อยที่กำลังแทะแอปเปิ้ล เสียงปูที่กำลังพ่นฟอง... นี่คือพรจากธรรมชาติที่ทำให้ฉันรู้อันตรายล่วงหน้าได้เสมอ",
       "vi": "Tai của tôi rất nhạy cảm, có thể nghe được rất nhiều loại âm thanh. Ví dụ như âm thanh của gió thổi qua từng ngọn núi, âm thanh của mây tan, âm thanh của hồ ly nhai táo trong rừng, âm thanh cua nhổ bong bóng...đây là sự quan tâm của vạn vật tự nhiên đối với tôi, để tôi luôn phát hiện được nguy hiểm trước khi ập đến."
     }
   },
@@ -983,11 +983,11 @@
       "en": "I used to love the rain when I was small. The sound of it would lull me into a peaceful sleep. But since I've grown older, my feelings have become more... complicated. I still like to listen to the rain today, but whenever I see the storm clouds start to gather, my heart sinks and I can't help but wonder: \"Hm... will some nice person let me stay the night today?\" Listening to the rain in drenched clothes is hardly peaceful — hehe... nothing can be when you're constantly interrupting yourself by sneezing.",
       "de": "Als ich klein war, habe ich den Regen geliebt. Sein Geräusch hat mich in einen friedlichen Schlaf gewiegt. Aber seit ich älter geworden bin, sind meine Gefühle komplizierter geworden ... Heute höre ich immer noch gerne dem Regen zu, aber wenn ich sehe, wie sich die Gewitterwolken zusammenziehen, sinkt mein Herz und ich kann nicht anders, als mich zu fragen: „Hm ... wird mich heute ein netter Mensch über Nacht bleiben lassen?“ Dem Regen in durchnässten Klamotten zuzuhören ist kaum friedlich. Hehe ... Nichts kann das sein, wenn man sich ständig durch Niesen unterbricht.",
       "es": "Me gustaba mucho la lluvia cuando era pequeño. Su sonido era como una canción que me ayudaba a dormir. Pero ahora que soy mayor, tengo sentimientos... encontrados con la lluvia. Aunque me sigue gustando escucharla, cada vez que veo unas nubes oscuras, mi corazón se entristece y no puedo evitar preguntarme: “¿Podré encontrar a alguien de buen corazón que me deje pasar la noche en su casa?”. Escuchar la lluvia con toda la ropa mojada no es para nada relajante. Nada puede serlo cuando tus estornudos arruinan la atmósfera.",
-      "fr": "J'adorais la pluie quand j'étais petit, avec son son si particulier qui me poussait dans un sommeil paisible. Mais maintenant que je suis plus âgé, mes sentiments sont devenus plus... complexes. J'apprécie toujours écouter la pluie, mais je ne peux m'empêcher à chaque fois que je vois les nuages de tempête s'accumuler de sentir l'inquiétude me gagner. Quelqu'un aura-t-il la bonté de m'offrir un toit aujourd'hui ? Difficile d'apprécier la musique de la pluie quand on est trempé de pied en cap, et qu'on passe son temps à éternuer, héhé...",
+      "fr": "J'adorais la pluie quand j'étais petit, avec son son si particulier qui me poussait dans un sommeil paisible. Mais maintenant que je suis plus âgé, mes sentiments sont devenus plus... complexes. J'apprécie toujours d'écouter la pluie, mais je ne peux m'empêcher à chaque fois que je vois les nuages de tempête s'accumuler de sentir l'inquiétude me gagner. Quelqu'un aura-t-il la bonté de m'offrir un toit aujourd'hui ? Difficile d'apprécier la musique de la pluie quand on est trempé de pied en cap, et qu'on passe son temps à éternuer, héhé...",
       "pt": "Quando era criança, gostava muito dos dias de chuva, pois o som da chuva sempre me proporcionava um sono profundo. Mas depois de crescer, o meu sentimento pela chuva ficou mais confuso... Embora goste de ouvir o som da chuva, todas as vezes que vejo nuvens escuras, não deixo de suspirar: \"Será que hoje vou conseguir arranjar um lugar para dormir?\" Com a roupa molhada, a minha audição da chuva era sempre interrompida por um espirro.",
       "ru": "В детстве я обожал дождь. Звуки его убаюкивали меня, погружая в беспечный сон. А теперь, когда я вырос, мои чувства стали... неоднозначными. Мне, конечно же, нравится слушать дождь, но когда надвигаются тёмные тучи, я не могу не посетовать: «Найдётся ли сегодня добрый человек, который приютит меня на ночь?» Слушать дождь в мокрой одежде не очень приятно. Особенно портит настроение насморк.",
-      "id": "Aku sangat menyukai hujan sewaktu aku kecil. Suara hujan selalu bisa membuatku tertidur lelap. Tetapi sejak aku bertumbuh besar, perasaanku menjadi semakin.. rumit. Aku masih suka mendengar suara hujan, tetapi setiap kali aku melihat awan gelap berkumpul, hatiku menjadi berat dan aku berpikir: \"Hmm, apakah ada orang baik hati yang mau mengizinkanku menginap malam ini?\" Mendengar suara hujan saat pakaianmu basah kuyup sama sekali tidak menenangkan. Yah, tidak ada hal yang menenangkan kalau kamu tidak bisa berhenti bersin.",
-      "th": "ตอนเด็ก ๆ ฉันชอบฝนมากเลยล่ะ เสียงที่ดังซ่าซ่าสามารถทำให้ฉันหลับฝันอย่างสงบได้ แต่พอฉันโตขึ้น ความรู้สึกของฉันที่มีต่อฝนก็ซับซ้อนขึ้นมาก... แม้ฉันจะยังชอบฟังฝนอยู่ แต่ทุกครั้งที่ฉันเห็นเมฆดำฉันก็อดไม่ได้ที่จะถอนหายใจ \"วันนี้จะหาคนใจดีให้ที่พักพิงกับฉันได้รึเปล่านะ\" อีกอย่างการฟังเสียงฝนขณะสวมเสื้อผ้าเปียก จะถูกขัดจังหวะด้วยเสียงจามตลอดเลย",
+      "id": "Aku sangat menyukai hujan sewaktu aku kecil. Suara hujan selalu bisa membuatku tertidur lelap. Tetapi sejak aku bertumbuh besar, perasaanku menjadi semakin rumit. Aku masih suka mendengar suara hujan, tetapi setiap kali aku melihat awan gelap berkumpul, hatiku menjadi berat dan aku berpikir, \"Hmm, adakah orang baik hati yang sudi mengizinkanku menginap malam ini?\" Mendengar suara hujan saat pakaianmu basah kuyup sama sekali tidak menenangkan. Yah, tidak ada hal yang menenangkan kalau kamu tidak bisa berhenti bersin.",
+      "th": "ตอนเด็ก ๆ ฉันชอบฝนมากเลยล่ะ เสียงที่ดังซ่าซ่าสามารถทำให้ฉันหลับฝันอย่างสงบได้ แต่พอฉันโตขึ้น ความรู้สึกของฉันที่มีต่อฝนก็ซับซ้อนขึ้นมาก... แม้ฉันจะยังชอบฟังเสียงฝนอยู่ แต่ทุกครั้งที่ฉันเห็นเมฆดำฉันก็อดไม่ได้ที่จะถอนหายใจ \"วันนี้จะหาคนใจดีให้ที่พักพิงกับฉันได้รึเปล่านะ\" อีกอย่างการฟังเสียงฝนขณะสวมเสื้อผ้าเปียก จะถูกขัดจังหวะด้วยเสียงจามตลอดเลย",
       "vi": "Lúc nhỏ tôi rất thích mưa, âm thanh tí tách ấy khiến người ta dễ có được giấc mơ an lành. Nhưng sau khi trưởng thành, cảm giác về mưa lại trở nên phức tạp hơn nhiều...Tuy vẫn thích nghe mưa đấy, nhưng mỗi khi nhìn thấy mây đen, lại không thể không cảm thán \"Hôm nay có thể tìm được người nào tốt bụng cho tôi tá túc không đây?\". Mặc chiếc áo ướt sũng nghe mưa luôn bị tiếng hắt xì làm gián đoạn cảm xúc."
     }
   },
@@ -1018,7 +1018,7 @@
       "fr": "Je ne reste jamais longtemps au même endroit. Il me faut bouger si je ne veux pas perdre ma connexion à la nature et à la lame que je manie. Je veux voyager loin et rencontrer toutes sortes de personnes tant que j'en suis encore capable.",
       "pt": "Eu não fico em um único lugar por muito tempo, porque isso só me afasta da natureza e faz a lâmina da minha espada perder seu fio. Agora que ainda consigo ir mais longe, espero que possa ir para vários lugares e encontrar pessoas diferentes.",
       "ru": "Я никогда не задерживаюсь подолгу в одном и том же месте. Если задержусь, ослабнет моя связь с природой, а меч затупится. Я, пока могу, буду плавать в дальние края и встречать разных людей.",
-      "id": "Aku tidak pernah menetap terlalu lama di satu tempat. Hidup yang stagnan akan menumpulkan hubunganku dengan alam dan pedangku. Selagi aku masih bisa, aku ingin berkelana ke seluruh penjuru dunia dan bertemu dengan berbagai jenis orang.",
+      "id": "Aku tidak pernah menetap terlalu lama di satu tempat. Hidup yang stagnan akan menumpulkan hubunganku dengan alam dan pedangku. Selagi aku masih bisa, aku ingin berkelana ke seluruh penjuru dunia dan bertemu dengan bermacam-macam tipe orang.",
       "th": "ฉันจะไม่อยู่ที่ใดที่หนึ่งนานเกินไป เพราะการอยู่กับที่นานเกินไปจะทำให้เกิดช่องว่างระหว่างฉันกับ \"ธรรมชาติ\" และมันจะทำให้ดาบในมือของฉันทื่อลง ในขณะที่ฉันยังสามารถล่องเรือได้ ฉันหวังว่าฉันจะได้ไปที่ต่าง ๆ และพบกับผู้คนที่หลากหลาย",
       "vi": "Tôi thường không dừng chân ở một nơi quá lâu, vì sẽ khiến tôi bị ngăn cách với \"tự nhiên\", cũng như khiến thanh đao trong tay tôi không còn sắc bén. Nhân lúc tôi vẫn còn có thể đi xa, tôi hi vọng mình có thể đến thật nhiều nơi khác nhau, gặp được thật nhiều người."
     }
@@ -1051,7 +1051,7 @@
       "pt": "Não se preocupe! Mesmo que um dia a gente se separe, nos encontraremos em um outro canto do mundo novamente. O destino não separa as pessoas com tanta facilidade.",
       "ru": "Не переживай. Если однажды наши пути разойдутся, мы обязательно встретимся вновь в каком-нибудь уголке мира. Не так-то просто разделить людей, связанных судьбой.",
       "id": "Jangan khawatir, meskipun suatu hari kita akan berpisah, aku yakin kita akan bertemu lagi di suatu tempat di dunia. Takdir yang mempertemukan orang tidak bisa dipatahkan semudah itu.",
-      "th": "ไม่ต้องกังวลหรอก แม้ว่าวันหนึ่งเราจะไปต่างสถานที่กัน แต่ “พรหมลิขิต” ระหว่างคนสองคนมันไม่ใช่สิ่งที่จะขาดจากกันได้ง่าย ๆ",
+      "th": "ไม่ต้องกังวลหรอก แม้ว่าวันหนึ่งเราจะต้องแยกย้ายไปกันคนละที่ แต่จะต้องได้พบกันอีกที่ไหนสักแห่งบนโลกนี้แน่ เพราะ \"พรหมลิขิต\" ระหว่างคนสองคนมันไม่ใช่สิ่งที่จะขาดจากกันได้ง่าย ๆ หรอกนะ",
       "vi": "Không cần lo lắng, cho dù một ngày nào đó chúng ta sẽ đến những nơi khác nhau, cũng sẽ gặp lại nhau lần nữa ở một nơi nào đó trên thế giới. \"Duyên\" giữa người với người không phải là thứ dễ dàng bị cắt đứt như thế."
     }
   },
@@ -1114,8 +1114,8 @@
       "fr": "Les bruits de la nature deviennent de véritables clameurs quand le temps est à la tempête, et ils sont à mes oreilles comme un bourdonnement continu. Si par malheur cela arrive pendant la nuit, alors je passe mon temps à me tourner et me retourner sans pouvoir trouver le sommeil. Je ne vous parle pas des maux de tête...",
       "pt": "Cada vez que uma tempestade se aproxima, o som da natureza fica mais ruidoso, e meus ouvidos sentem o barulho. Se for durante a noite, até causa uma dor de cabeça que me impede de dormir.",
       "ru": "Пред бурей звуки природы превращаются в гомон. У меня самого начинает жужжать в ушах. Ночью же я ворочаюсь и никак не могу уснуть. Это ещё та головная боль...",
-      "id": "Suara di alam menjadi suara yang tercampur aduk saat badai datang. Saat ini terjadi, telingaku jadi berdengung terus-menerus. Kalau terjadi di malam hari, aku tidak akan bisa tidur semalaman. Benar-benar membuatku sakit kepala...",
-      "th": "เมื่อใดก็ตามที่มีพายุ เสียงของ \"ธรรมชาติ\" จะดังกระหึ่มในหูของฉัน ถ้าเป็นตอนกลางคืนมันจะทำให้ปวดหัวนิดหน่อย เพราะนอนไม่หลับทั้งคืน",
+      "id": "Suara di alam menjadi suara yang tercampur aduk saat badai datang. Saat ini terjadi, telingaku jadi berdengung terus-menerus. Kalau terjadi di malam hari, aku tidak akan bisa tidur semalaman. Benar-benar membuatku sakit kepala ....",
+      "th": "เมื่อใดก็ตามที่มีพายุ เสียงของ \"ธรรมชาติ\" จะดังกระหึ่มในหูของฉัน ถ้าเป็นตอนกลางคืน มันจะดังตลอดจนทำให้นอนหลับไม่ลง ช่างน่าปวดหัวซะจริง",
       "vi": "Mỗi khi bão sắp đến, âm thanh của \"tự nhiên\" sẽ trở nên ầm ĩ, khiến tai của tôi cũng ù đi. Nếu là buổi tối, sẽ bị giày vò rất lâu mà vẫn không ngủ được, khiến tôi hơi nhức đầu."
     }
   },
@@ -1126,12 +1126,12 @@
       "jp": "好きな食べ物…",
       "ko": "좋아하는 음식…",
       "en": "Favorite Food",
-      "de": "Sein Lieblingsessen ...",
+      "de": "Was er so mag ...",
       "es": "Comida que más le gusta...",
       "fr": "Plats préférés...",
       "pt": "Comida favorita...",
       "ru": "Любимая еда...",
-      "id": "Makanan favorit",
+      "id": "Makanan Favorit",
       "th": "อาหารที่ชอบ...",
       "vi": "Món ăn yêu thích..."
     },
@@ -1146,7 +1146,7 @@
       "fr": "La nourriture la plus facile à obtenir en mer est, bien sûr, le poisson. Il va donc sans dire que l'aventurier qui prend la mer doit savoir comment cuisiner un bon repas à base de poisson... Si l'occasion se présente, j'aimerais vous faire goûter les plats que je sais faire.",
       "pt": "Ao navegar no mar, o ingrediente que podemos conseguir com mais facilidade é o peixe. Como fazer bem o peixe é o que mais nos preocupamos. Se você puder, gostaria de convidar você para provar a minha comida.",
       "ru": "Еда, которую проще всего добыть в плавании - рыба. Каждый морской странник должен уделить особое внимание тому, как приготовить рыбное блюдо вкусно. При случае мне хотелось бы угостить тебя моими творениями.",
-      "id": "Sumber makanan yang paling mudah didapatkan di laut, jelas adalah ikan. Jadi setiap petualang yang menghabiskan waktu di laut harus tahu cara memasak hidangan ikan yang lezat... Kalau ada kesempatan, aku ingin kamu mencoba masakan buatanku.",
+      "id": "Sumber makanan yang paling mudah didapatkan di laut, jelas adalah ikan. Jadi setiap petualang yang menghabiskan waktu di laut harus tahu cara memasak hidangan ikan yang lezat ... Kalau ada kesempatan, aku ingin kamu mencoba masakan buatanku.",
       "th": "เมื่อล่องเรือในทะเล วัตถุดิบที่หาได้ง่ายที่สุดคือปลา วิธีทำปลาให้อร่อยเป็นสิ่งที่นักผจญภัยแห่งท้องทะเลต้องคำนึงถึง ถ้ามีโอกาสฉันก็อยากให้เธอชิมฝีมือของฉันเหมือนกัน",
       "vi": "Khi đi biển, nguyên liệu dễ tìm thấy nhất chính là thịt cá. Làm sao để làm được cá ngon là vấn đề đáng để mỗi nhà mạo hiểm phải suy nghĩ. Nếu có cơ hội, tôi cũng muốn cho bạn nếm thử tay nghề của tôi."
     }
@@ -1163,7 +1163,7 @@
       "fr": "Plats détestés...",
       "pt": "Comida que detesta...",
       "ru": "Нелюбимая еда...",
-      "id": "Makanan yang tidak kamu suka",
+      "id": "Makanan yang Tidak Disukai",
       "th": "อาหารที่เกลียด...",
       "vi": "Món ăn ghét nhất..."
     },
@@ -1180,7 +1180,7 @@
       "ru": "Мне не нравится еда, приготовленная абы как. По-моему, даже самую обычную рыбу при запекании следует доводить до совершенства. Трапезой должно наслаждаться. Разве можно довольствоваться чем попало?",
       "id": "Aku tidak begitu menyukai makanan yang dicampur secara buru-buru tanpa dipikirkan dengan baik. Menurutku, kalau makananmu hanya seekor ikan, kamu harus memanggangnya sampai sempurna. Memakan sesuatu seharusnya adalah sebuah kegiatan yang menyenangkan, mana boleh kita melakukannya dengan seenaknya saja?",
       "th": "สำหรับฉัน ฉันไม่ชอบอาหารดิบเอาเสียเลย ในความคิดของฉัน ต่อให้เป็นปลาธรรมดาก็ยังต้องย่างให้ดีถึงจะอร่อย การกินอาหารควรจะมีความสุขทั้งกายและใจ จะให้ทำแบบลวก ๆ ได้ยังไงกัน?",
-      "vi": "Tôi thì không thích cái món ăn đơn sơ này cho lắm. Theo tôi thì dù là một con cá bình thường cũng phải nướng cho thật ngon mới được, ăn uống là chuyện làm người ta vui vẻ, sao có thể qua loa được chứ?"
+      "vi": "Tôi thì không thích những món ăn đơn sơ cho lắm. Theo tôi thì dù là một con cá bình thường cũng phải nướng cho thật ngon mới được, ăn uống là chuyện làm người ta vui vẻ, sao có thể qua loa được chứ?"
     }
   },
   {
@@ -1205,13 +1205,13 @@
       "jp": "ふぁ…誕生日だと知って、新しい詩歌を書いたでござるよ。ただあまり心得がなく、何日もかけて途中までしか思いつかなかった。とりあえず、これをお主に贈ろう。\n\n「歳月や、雲の赴く、誕生日」…ん、待った、何か思いついたでござる。続きは…「祝いの日には、異郷の友と」、どうであろうか？\n\n誕生日おめでとう、今日は一緒に甘味でも食べにゆこうではないか。",
       "ko": "하암… 오늘이 네 생일이란 걸 알고 특별히 시를 한 수 지었는데, 재능이 없어서 며칠 밤을 생각했는데도 두 줄밖에 못 썼지 뭐야.\n\n일단 읊어줄게. 「세월이 흘러 해가 바뀌고, 학과 구름이 생일을 축하해주네」…. 어, 잠깐 조용히 해봐. 영감이 떠올랐어. 마지막은… 「타향에 옛 벗이 있네」, 어때?\n\n생일 축하해. 같이… 간식 먹으러 가자",
       "en": "I heard it was your birthday, so I wrote a haiku for you. Unfortunately, I'm not the most talented in this area, and after trying for several evenings, I was still only able to come up with the first two lines... I guess I'll just share what I've got so far, then. \"Sun and moon rejoice / Birds of dawn sing songs anew\"... Wait, don't say a word, I think the final line is coming to me... Yes, how about.... \"Far from home, with you.\" Anyway, Happy Birthday. Let's go and get you some cake, shall we?",
-      "de": "Ich habe gehört, dass du Geburtstag hast, also habe ich ein Haiku für dich geschrieben. Leider bin ich nicht der Talentierteste auf diesem Gebiet und nach mehreren Abenden des Probierens habe ich nur die ersten beiden Zeilen hinbekommen ... Ich denke, ich werde dann einfach teilen, was ich bis jetzt habe. „Sonne und Mond jubeln. Vögel der Morgendämmerung singen Lieder neu“ ... Warte, sag kein Wort, ich glaube, die letzte Zeile kommt zu mir ... Ja, wie wäre es mit ... „Weit weg von zu Hause, mit dir“. Wie auch immer, alles Gute zum Geburtstag. Lass uns gehen und dir etwas Kuchen holen. Was meinst du?",
+      "de": "Ich habe gehört, dass du Geburtstag hast, also habe ich ein Haiku für dich geschrieben. Leider bin ich nicht der Talentierteste auf diesem Gebiet und nach mehreren Abenden des Probierens habe ich nur die ersten beiden Zeilen hinbekommen ... Ich denke, ich werde dann einfach teilen, was ich bis jetzt habe.\n\n„Sonne und Mond jubeln. Vögel der Morgendämmerung singen Lieder neu“ ... Warte, sag kein Wort, ich glaube, die letzte Zeile kommt zu mir ... Ja, wie wäre es mit ... „Weit weg von zu Hause, mit dir“.\n\nWie auch immer, alles Gute zum Geburtstag. Lass uns gehen und dir etwas Kuchen holen. Was meinst du?",
       "es": "*Ejem*, al saber que hoy era tu cumpleaños, escribí un haiku para ti. No soy el mejor poeta, así que solo se me ocurrieron estos dos versos después de varias noches. Toma, te lo regalo.\n\n“Astros brillantes\n\nGrullas en nubes nacen”\n\n... Espera, espera, no digas nada aún, me ha venido la inspiración. El último verso... “Lejos contigo”. ¿Qué te parece?\n\nEn fin, feliz cumpleaños. Hoy podríamos ir a... comer un pastel, ¿quieres?",
-      "fr": "Ah... J'ai entendu dire que c'était votre anniversaire, et j'ai composé un haïku à votre attention. Malheureusement, je suis loin d'être le plus doué dans ce domaine, et après plusieurs soirs à faire de mon mieux, je n'ai réussi à composer que les deux premiers vers... J'imagine qu'il ne me reste qu'à les partager avec vous. « Sourient la lune et le soleil/Chante l'oiseau du matin »... Attendez, ne dites rien, je crois que le dernier vers me vient... Oui, pourquoi pas... « Amis lointains. » Enfin, quoiqu'il en soit, joyeux anniversaire ! Allons donc trouver un gâteau pour fêter ça.",
+      "fr": "Ah... J'ai entendu dire que c'était votre anniversaire, et j'ai composé un haïku à votre attention. Malheureusement, je suis loin d'être le plus doué dans ce domaine, et après plusieurs soirs à faire de mon mieux, je n'ai réussi à composer que les deux premiers vers... J'imagine qu'il ne me reste qu'à les partager avec vous. « Sourient la lune et le soleil/Chante l'oiseau du matin »... Attendez, ne dites rien, je crois que le dernier vers me vient... Oui, pourquoi pas... « Amis lointains. » Enfin, quoi qu'il en soit, joyeux anniversaire ! Allons donc trouver un gâteau pour fêter ça.",
       "pt": "Haha... Ao saber que hoje é o seu aniversário, fiz uma nova poesia para você. Perdoe-me por não conseguir completá-la, estava com pouca inspiração.\n\n\"O passar do tempo até mudou a lua e o sol, e todas as garças de volta às nuvens, celebrando o seu aniversário...\" Ei! Espere um pouco. Tenho uma ideia!! O último verso seria... \"Na terra minha, haverá sempre amigos de coração.\" O que você acha?\n\nFeliz aniversário! Que tal comermos um doce?",
       "ru": "Ах... Я узнал, что у тебя сегодня день рождения, и написал тебе хайку. К сожалению, оно не блещет. За несколько вечеров я сочинил только две строки. Их я тебе сначала и зачитаю.\n\n\n\nРассвет пылает.\n\nИдём под небом чужим\n\n\n\n...Постой, ничего не говори, ко мне пришло вдохновение.\n\n\n\nСо старым другом.\n\n\n\nЧто скажешь? С днём рождения. Поедим сегодня... чего-нибудь сладкого.",
-      "id": "Ah, kudengar kamu berulang tahun hari ini, jadi aku menuliskan sebuah puisi untukmu. Tapi sayangnya, aku tidak begitu pandai di bidang ini. Akhirnya setelah aku mencoba berhari-hari, aku berhasil membuat dua bait pertama... Mungkin kubacakan dulu saja bait yang sudah kubuat ya. \"Matahari dan bulan bergembira / Burung fajar berkicau seakan menjamu\"... Tunggu, jangan bilang apa-apa dulu, sepertinya aku tahu bagaimana melanjutkannya... Ya, bagaimana kalau... \"Jauh dari rumah, tapi bersama denganmu.\" Selamat ulang Tahun ya. Ayo kita beli kue untukmu?",
-      "th": "*หาว*... ได้ยินว่าวันนี้เป็นวันเกิดของเธอ ฉันเลยแต่งกลอนบทใหม่ให้เธอโดยเฉพาะ น่าเสียดายที่แต่งไม่ค่อยเก่ง นอนคิดตั้งหลายคืนก็เขียนได้แค่สองประโยคแรก เดี๋ยวจะอ่านให้เธอฟังก่อนแล้วกัน\n\n\"แสงแห่งคืนวันผันเปลี่ยน นกกระเรียนหวนคืนสู่เมฆา\"... เดี๋ยวก่อนนะ อย่าเพิ่งพูดอะไร ฉันเพิ่งได้รับแรงบันดาลใจ ประโยคสุดท้าย... \"โชคชะตานำพาให้เราพบกันในต่างแดน\" เป็นไง?\n\nสุขสันต์วันเกิดนะ วันนี้เราไป... กินของหวานด้วยกันเถอะ",
+      "id": "Ah, kudengar kamu berulang tahun hari ini, jadi aku menuliskan sebuah puisi untukmu. Tapi sayangnya, aku tidak begitu pandai di bidang ini. Akhirnya setelah aku mencoba berhari-hari, aku berhasil membuat dua bait pertama ... Mungkin kubacakan dulu saja bait yang sudah kubuat ya. \"Matahari dan bulan bergembira, burung fajar berkicau seakan menjamu\" ... Tunggu, jangan bilang apa-apa dulu, sepertinya aku tahu bagaimana melanjutkannya ... Ya, bagaimana kalau ... \"Jauh dari rumah, tapi bersama denganmu.\" Selamat ulang Tahun ya. Ayo kita beli kue untukmu?",
+      "th": "ฮ่ะ ๆ... ได้ยินว่าวันนี้เป็นวันเกิดของเธอ ฉันเลยแต่งกลอนบทใหม่ให้เธอโดยเฉพาะ น่าเสียดายที่แต่งไม่ค่อยเก่ง นอนคิดตั้งหลายคืนก็เขียนได้แค่สองประโยคแรก เดี๋ยวจะอ่านให้เธอฟังก่อนแล้วกัน\n\n\"แสงแห่งคืนวันผันเปลี่ยน นกกระเรียนหวนคืนสู่เมฆา\"... เดี๋ยวก่อนนะ อย่าเพิ่งพูดอะไร ฉันเพิ่งได้แรงบันดาลใจ ประโยคสุดท้าย... \"โชคชะตานำพาให้เราพบกันในต่างแดน\" เป็นไง?\n\nสุขสันต์วันเกิดนะ วันนี้เราไป... กินของหวานด้วยกันเถอะ",
       "vi": "Ha...được biết hôm nay là sinh nhật của bạn nên tôi đã viết một bài thơ mới. Chỉ tiếc là tài nghệ có hạn, mấy đêm rồi chỉ nghĩ ra được hai câu, thôi thì tặng cho bạn trước vậy.\n\n\"Mặt trời và mặt trăng hân hoan, chim hạc bay về đón nắng mới\"...này chờ đã, đừng nói gì hết, tôi có ý tưởng rồi. Câu cuối cùng...\"Nơi đất khách gặp bạn cũ\", thế nào?\n\nSinh nhật vui vẻ, hôm nay cùng đi...ăn đồ ngọt đi."
     }
   },
@@ -1242,7 +1242,7 @@
       "fr": "Ma lame est plus acérée.",
       "pt": "Essa espada está ainda mais afiada.",
       "ru": "Мой клинок становится острее.",
-      "id": "Mata pedangku, semakin tajam.",
+      "id": "Pedangku, sudah semakin tajam.",
       "th": "ดาบเล่มนี้คมขึ้นกว่าเดิมแล้วสินะ",
       "vi": "Thanh đao này sắc bén hơn rồi."
     }
@@ -1274,7 +1274,7 @@
       "fr": "Le bruit de la neige atterrissant sur le sol est si faible qu'il n'existe pour ainsi dire pas... Mais maintenant que mes sens sont plus affûtés, je devrais arriver à le discerner.",
       "pt": "O som da neve caindo no chão é tão leve que não se pode ouvir... Mas eu agora posso.",
       "ru": "Снежинки падают на землю так тихо, почти неслышно... Но теперь мои чувства как никогда остры, и я смогу услышать и это.",
-      "id": "Suara salju yang jatuh ke tanah hampir tidak terdengar sama sekali... Tapi sekarang semua indraku lebih tajam dari biasanya, kurasa aku bisa mendengar suara salju itu.",
+      "id": "Suara salju yang jatuh ke tanah hampir tidak terdengar sama sekali ... Tapi sekarang semua inderaku lebih tajam dari biasanya, kurasa aku bisa mendengar suara salju itu.",
       "th": "เสียงหิมะที่ตกกระทบผืนดินมันเบาจนแทบไม่ได้ยิน... แต่ในตอนนี้ ฉันน่าจะได้ยินมันแล้วล่ะ",
       "vi": "Âm thanh của tuyết rơi xuống đất nhỏ đến mức không thể nghe thấy...nhưng tôi bây giờ chắc có thể nghe được rồi."
     }
@@ -1338,7 +1338,7 @@
       "fr": "Les problèmes sont le lot commun de ceux qui parcourent le monde. Mais depuis que je vous connais, ma maîtrise des arts martiaux et ma force de caractère se sont affirmées. Je suis sûr que maintenant, aller de l'avant va être chose beaucoup plus aisée.",
       "pt": "Andando nesse mundo, é natural se deparar com dificuldades. Ao encontrar você evoluí bastante, tanto a nível de habilidades de luta quanto a nível de autoconhecimento. Acho que a minha vida pela frente será mais tranquila.",
       "ru": "Когда странствуешь по свету, огорчения и невзгоды непременно будут ходить за тобой. Вот только мне кажется, что после знакомства с тобой и мой дух, и боевые навыки выросли. Уверен, отныне в моей жизни будет ещё больше свободы.",
-      "id": "Saat seseorang sedang berkeliling dunia, rasa sedih dan frustasi pasti senantiasa menemani. Tapi aku merasa aku sudah bertumbuh banyak sejak aku bertemu denganmu, baik dalam bela diri maupun dalam karakterku. Aku yakin kalau hidupku akan jadi lebih tenang mulai saat ini.",
+      "id": "Saat seseorang sedang berkeliling dunia, rasa sedih dan frustasi pasti senantiasa menemani. Tapi aku merasa aku sudah bertumbuh banyak sejak bertemu denganmu, baik dalam ilmu bela diri maupun dalam karakterku. Aku yakin kalau hidupku akan jadi lebih tenang mulai saat ini.",
       "th": "เมื่อท่องไปในโลก ความกังวลหลายรูปแบบก็จะติดตามตัวเราไปอย่างหลีกเลี่ยงไม่ได้ แต่พอฉันได้เจอกับเธอ ฉันก็ได้เติบโตขึ้นมาก ไม่ว่าจะเป็นด้านศิลปะการต่อสู้หรือว่าจะเป็นจิตใจของฉันก็ตาม ฉันเชื่อว่านับจากวันนี้ไป ชีวิตฉันจะเป็นอิสระกว่าเดิม",
       "vi": "Sống trên đời này, rồi cũng sẽ gặp đủ loại phiền não, nhưng tôi nhận ra rằng, mình đã trưởng thành từ lúc gặp được bạn, cho dù về mặt võ nghệ hay nội tâm cũng vậy. Chắc hẳn sau này sẽ càng tự do tự tại hơn."
     }
@@ -1401,9 +1401,9 @@
       "es": "¡Ja!",
       "fr": "Hé !",
       "pt": "Hee!",
-      "ru": "Хии!",
+      "ru": "Хи-и!",
       "id": "Hee!",
-      "th": "แหะ!",
+      "th": "ฮ่า!",
       "vi": "Hee!"
     }
   },
@@ -1466,7 +1466,7 @@
       "fr": "Le vent m'emmène.",
       "pt": "Junto com o vento.",
       "ru": "Лечу, оседлав ветер!",
-      "id": "Pergi menuju angin",
+      "id": "Masuklah ke pusaran angin.",
       "th": "ต้านแรงลม",
       "vi": "Cưỡi gió đi cùng."
     }
@@ -1495,11 +1495,11 @@
       "en": "The wind knows me.",
       "de": "Der Wind kennt mich.",
       "es": "El viento me conoce.",
-      "fr": "Le vent me connait.",
+      "fr": "Le vent me connaît.",
       "pt": "O vento me conhece.",
       "ru": "Ветер меня знает.",
       "id": "Angin memahamiku.",
-      "th": "เจตจำนงของลมเหนือ",
+      "th": "เจตจำนงของสายลม",
       "vi": "Ngọn gió hiểu lòng ta."
     }
   },
@@ -1530,7 +1530,7 @@
       "fr": "En harmonie avec la nature !",
       "pt": "Comunhão com a natureza!",
       "ru": "Мы с природой едины!",
-      "id": "Menyatu dengan alam!",
+      "id": "Menyatulah dengan alam!",
       "th": "เป็นหนึ่งเดียวกับธรรมชาติ!",
       "vi": "Về với tự nhiên!"
     }
@@ -1562,8 +1562,8 @@
       "fr": "Les nuages cachent... le chant de l'oiseau !",
       "pt": "As nuvens ocultam... o chamado dos pássaros!",
       "ru": "Облака скрылись... Зов птицы!",
-      "id": "Awan sembunyikan... kicauan burung!",
-      "th": "เมฆหลบลี้...ห่านป่าร่ำร้อง!",
+      "id": "Awan sembunyikan ... kicauan burung!",
+      "th": "เมฆหลบลี้... ห่านป่าร่ำร้อง!",
       "vi": "Mây mù...nhạn kêu!"
     }
   },
@@ -1594,7 +1594,7 @@
       "fr": "Avec le mouvement du vent et des nuages.",
       "pt": "Em comunhão com o vento e as nuvens.",
       "ru": "Едины с ветром и облаками!",
-      "id": "Menyatu dengan angin dan awan.",
+      "id": "Menyatulah dengan angin dan awan.",
       "th": "ลอยไปกับสายลม",
       "vi": "Gió đi cùng mây."
     }
@@ -1626,7 +1626,7 @@
       "fr": "Feuilles virevoltantes... Embellissez la nuit !",
       "pt": "Folhas caídas... adornam minhas noites.",
       "ru": "Падшие листья... украшают полог ночи.",
-      "id": "Daun jatuh... menghiasi malamku.",
+      "id": "Gugurlah dedaunan ... hiasi malamku.",
       "th": "น่าเสียดาย ใบไม้ที่ร่วงหล่น",
       "vi": "Than ôi, lá rụng trôi dạt."
     }
@@ -1690,7 +1690,7 @@
       "fr": "Suivez la direction du vent.",
       "pt": "O vento diz que o caminho é por aqui.",
       "ru": "Ветер указывает путь.",
-      "id": "Angin berkata demikian.",
+      "id": "Kan kuikuti arus anginnya.",
       "th": "ให้สายลมนำทาง",
       "vi": "Thuận theo hướng gió."
     }
@@ -1818,8 +1818,8 @@
       "fr": "Eh bien, pas mal...",
       "pt": "Huh, nada mau...",
       "ru": "Ха, недурно.",
-      "id": "Heh, tidak buruk...",
-      "th": "อู้ว ฝีมือไม่เลว...",
+      "id": "Heh, boleh juga ....",
+      "th": "ฟู่ว ฝีมือไม่เลว...",
       "vi": "Phù, có chút năng lực đấy..."
     }
   },
@@ -1914,7 +1914,7 @@
       "fr": "J'ai un profond regret...",
       "pt": "Tantos arrependimentos...",
       "ru": "Столько сожалений...",
-      "id": "Begitu banyak penyesalan...",
+      "id": "Begitu banyak penyesalan ini ....",
       "th": "ความเสียใจทั้งหลาย...",
       "vi": "Thật đáng tiếc..."
     }
@@ -1946,7 +1946,7 @@
       "fr": "Plus jamais...",
       "pt": "Nunca... mais...",
       "ru": "Больше... никогда...",
-      "id": "Tidak akan pernah... lagi...",
+      "id": "Tidak akan pernah ... terulang ....",
       "th": "คราวหน้า... จะไม่เป็นอย่างงี้อีกแน่นอน...",
       "vi": "Lần sau...tuyệt đối sẽ không..."
     }
@@ -1978,7 +1978,7 @@
       "fr": "C'est fini...",
       "pt": "Este é... o fim...",
       "ru": "Это... конец...",
-      "id": "Inilah akhirnya...",
+      "id": "Inilah ... akhirnya ....",
       "th": "มันจบแล้วเหรอ...",
       "vi": "Kết thúc rồi sao..."
     }
@@ -2010,7 +2010,7 @@
       "fr": "Ce n'est... pas grave...",
       "pt": "Tudo... bem.",
       "ru": "Какая... мелочь.",
-      "id": "Tidak apa-apa...",
+      "id": "Tidak masalah ....",
       "th": "ไม่ต้อง... ห่วง",
       "vi": "Không...sao."
     }
@@ -2042,7 +2042,7 @@
       "fr": "Ça fait mal !",
       "pt": "Credo, pega leve!",
       "ru": "Эй, не так сильно!",
-      "id": "Ugh! Tidak terlalu sakit tuh!",
+      "id": "Aaah, sakit!",
       "th": "เจ็บจัง!",
       "vi": "Đau quá!"
     }
@@ -2106,7 +2106,7 @@
       "fr": "Allons-y.",
       "pt": "Beleza, vamos nessa.",
       "ru": "Ладно, пора в путь!",
-      "id": "Oke, ayo pergi.",
+      "id": "Oke, ayo kita berangkat.",
       "th": "ออกเดินทางกันได้แล้ว",
       "vi": "Xuất phát xuất phát."
     }

@@ -12,7 +12,7 @@
       "pt": "Ataque Normal: Flechas da Culpa",
       "ru": "Стрела возмездия",
       "id": "Normal Attack: Bolts of Downfall",
-      "th": "โจมตีปกติ - Bolts of Downfall",
+      "th": "โจมตีปกติ: Bolts of Downfall",
       "vi": "Tấn Công Thường - Mũi Tên Diệt Ác"
     },
     "description": {
@@ -29,8 +29,7 @@
       "id": "<color=#FFD780FF>Normal Attack</color>\nMelancarkan hingga 5 serangan berturut-turut menggunakan busur.\n\n<color=#FFD780FF>Charged Attack</color>\nMelancarkan sebuah <color=#FFD780FF>Serangan Membidik</color> yang lebih akurat untuk mengakibatkan DMG lebih besar. Saat membidik, jiwa petir hitam dari Immernachtreich akan menjawab panggilan Prinzessin dan kekuatannya berkumpul pada ujung anak panah. Saat terkumpul penuh, Rachsüchtig Blitz akan mengakibatkan <color=#FFACFFFF>Electro DMG</color>.\n\n<color=#FFD780FF>Plunging Attack</color>\nMelancarkan hujan panah dari udara dan menerjang tanah dengan kecepatan tinggi, mengakibatkan DMG area saat mendarat.",
       "th": "<color=#FFD780FF>โจมตีปกติ</color>\nยิงธนูโจมตีอย่างต่อเนื่องมากสุดห้าครั้ง\n\n<color=#FFD780FF>ชาร์จโจมตี</color>\nการ<color=#FFD780FF>เล็งโจมตี</color>สร้างความเสียหายเพิ่มขึ้น และแม่นยำยิ่งขึ้น\nเมื่อเล็งโจมตีวิญญาณแห่งสายฟ้า อันมืดมิดจากดินแดนแห่งราตรีบริสุทธิ์ จะรับฟังเสียงเรียกของเจ้าหญิง และเข้าสิงธนูเวท จากนั้นเมื่อรวบรวมเสร็จแล้ว ธนูเวทของเจ้าหญิงแห่งการลงทัณฑ์ จะสร้าง<color=#FFACFFFF>ความเสียหายไฟฟ้าเพิ่มเติม</color>\n\n<color=#FFD780FF>โจมตีพุ่งลงจากอากาศ</color>\nปล่อยฝนธนูจากกลางอากาศ และพุ่งลงมายังพื้นดินอย่างรวดเร็ว โดยจะสร้างความเสียหายวงกว้างเมื่อลงถึงพื้น",
       "vi": "<color=#FFD780FF>Tấn Công Thường</color>\nThực hiện tối đa 5 lần bắn tên liên tiếp.\n\n<color=#FFD780FF>Trọng Kích</color>\nSát thương càng cao, <color=#FFD780FF>ngắm bắn</color> càng chuẩn.\nKhi ngắm bắn, Tinh Linh Sấm Sét của vùng đất Đêm Niết Bàn sẽ nghe theo hiệu lệnh của công chúa mà bám trên mũi tên sấm sét. Mũi tên chứa đầy tia sét định tội sẽ gây thêm <color=#FFACFFFF>Sát Thương Nguyên Tố Lôi</color>.\n\n<color=#FFD780FF>Tấn Công Khi Đáp</color>\nBắn mưa tên liên tiếp xuống mặt đất, gây sát thương phạm vi khi chạm đất."
-    },
-    "imgid": "s_313101"
+    }
   },
   {
     "title": {
@@ -60,10 +59,9 @@
       "pt": "Evoca o Oz. O corvo da noite moldado pela escuridão e relâmpagos desce à terra, infligindo <color=#FFACFFFF>Dano Electro</color> em uma pequena AdE.\nAo longo da duração da habilidade, Oz irá continuamente atacar inimigos próximos com <color=#FFACFFFF>Bolas Eletrificantes</color>.\n\nMantenha pressionado para ajustar a localização de onde o Oz será evocado.\nPressione a qualquer momento ao longo da duração da habilidade para chamá-lo novamente para o lado de Fischl.\n\n<i>\"Meu tempo é muito precioso, e eu não o desperdiçarei com tipos como você... Vá Oz, recaia sobre eles, e traga-os até seu Relâmpago Vingativo, que dilacera a longa noite.\"</i>\n<i>—Flores para a Princesa Fischl Volume (IV) Adeus Frau Welt</i>",
       "ru": "Призывает Оза. Ночной ворон, сотканный из тьмы и молнии, спускается на землю и наносит <color=#FFACFFFF>Электро урон</color> в небольшом радиусе.\nПока навык активен, Оз будет атаковать ближайших врагов <color=#FFACFFFF>Электро снарядами</color>.\n\nУдерживайте, чтобы указать место, куда будет призван Оз.\nПока навык активен, нажмите снова, чтобы подозвать его к Фишль.\n\n<i>«- Я не собираюсь тратить своё драгоценное время на таких, как ты... Оз, обрушь же на них карающую молнию! Пусть она осветит вечную ночь!»</i> <i>(Цветы для принцессы Фишль. Глава 4: Прощание с Владычицей Мира)</i>",
       "id": "Memanggil Oz. Gagak malam yang tercipta dalam kegelapan dan halilintar turun ke bumi untuk mengakibatkan <color=#FFACFFFF>Electro DMG</color> dalam area kecil.\nSelama durasi skill, Oz akan terus menyerang musuh di sekitar dengan <color=#FFACFFFF>Freikugel</color>.\n\nTahan untuk mengatur lokasi di mana Oz akan dipanggil.\nTekan lagi sewaktu-waktu dalam durasi skill untuk memanggil Oz kembali ke sisi Fischl.\n\n<i>\"Waktu kita terlalu berharga untuk dihabiskan bersama orang sepertimu... Pergilah, Oz, datangi mereka, dan lepaskan Rachsüchtig Blitz milikmu yang membelah malam terhadap mereka.\"</i>\n<i>— Bunga untuk Putri Fischl (IV): Selamat Tinggal Frau Welt</i>",
-      "th": "#เรียก Oz ออกมา โดยเมื่ออีกาดำซึ่งประกอบไปด้วยเงามืด และสายฟ้าลงมายังโลกแล้ว จะทำให้เกิด<color=#FFACFFFF>ความเสียหายไฟฟ้า</color> ภายในพื้นที่เล็ก ๆ\nภายในช่วงเวลาที่คงอยู่ Oz จะโจมตีใส่ศัตรูที่อยู่ใกล้ด้วยการยิง <color=#FFACFFFF>Freikugel</color> อย่างต่อเนื่อง\n\nการ{LAYOUT_MOBILE#แตะค้าง}{LAYOUT_PC#กดค้าง}{LAYOUT_PS#กดค้าง}จะเป็นการปรับตำแหน่ง ที่จะเกิดเอฟเฟกต์ของสกิล\nเมื่อ{LAYOUT_MOBILE#แตะ}{LAYOUT_PC#กด}{LAYOUT_PS#กด}อีกครั้งในช่วงเวลาที่ Oz ยังคงอยู่จะเป็นการเรียกให้กลับมาอยู่ข้างกายอีกครั้ง\n\n<i>\"พลังของเจ้าหญิงผู้นี้นั้นมีค่ายิ่งนัก ไม่สมควรที่จะต้องมาสิ้นเปลืองกับ คนอย่างพวกเจ้า... Oz เจ้าช่วยเรียกสายฟ้าลงทัณฑ์ที่ฉีกท้องฟ้า ยามค่ำคืนได้นั่นลงมาแทนฉันทีสิ\"</i>\n<i>\"Fischl เจ้าหญิงแห่งความมืด-IV: บอกลาเลดี้ของโลก\"</i>",
+      "th": "#เรียก Oz ออกมา โดยเมื่อเรเวนซึ่งประกอบไปด้วยเงามืด และสายฟ้าลงมายังโลกแล้ว จะทำให้เกิด<color=#FFACFFFF>ความเสียหายไฟฟ้า</color> ภายในพื้นที่เล็ก ๆ\nภายในช่วงเวลาที่คงอยู่ Oz จะโจมตีใส่ศัตรูที่อยู่ใกล้ด้วยการยิง <color=#FFACFFFF>Freikugel</color> อย่างต่อเนื่อง\n\nการ{LAYOUT_MOBILE#แตะค้าง}{LAYOUT_PC#กดค้าง}{LAYOUT_PS#กดค้าง}จะเป็นการปรับตำแหน่ง ที่จะเกิดเอฟเฟกต์ของสกิล\nเมื่อ{LAYOUT_MOBILE#แตะ}{LAYOUT_PC#กด}{LAYOUT_PS#กด}อีกครั้งในช่วงเวลาที่ Oz ยังคงอยู่จะเป็นการเรียกให้กลับมาอยู่ข้างกายอีกครั้ง\n\n<i>\"พลังของเจ้าหญิงผู้นี้นั้นมีค่ายิ่งนัก ไม่สมควรที่จะต้องมาสิ้นเปลืองกับ คนอย่างพวกเจ้า... Oz เจ้าช่วยเรียกสายฟ้าลงทัณฑ์ที่ฉีกท้องฟ้า ยามค่ำคืนได้นั่นลงมาแทนฉันทีสิ\"</i>\n<i>\"Fischl เจ้าหญิงแห่งความมืด-IV: บอกลาเลดี้ของโลก\"</i>",
       "vi": "Triệu hồi Oz. Khi quạ đen do bóng đêm và sấm sét kết hợp được sinh ra, sẽ gây <color=#FFACFFFF>Sát Thương Nguyên Tố Lôi</color> phạm vi nhỏ.\nTrong thời gian tồn tại, Oz sẽ liên tục bắn <color=#FFACFFFF>Đạn Sấm Sét</color> tấn công địch xung quanh.\n\nNhấn giữ để điều chỉnh vị trí hiệu quả của kỹ năng.\nTrong thời gian Oz tồn tại, nhấn lần nữa có thể triệu hồi nó đến bên cạnh.\n\n<i>\"Sức mạnh của công chúa vốn là thứ đáng quý, không đáng để lãng phí trên người các người...Oz, hãy giúp ta giáng tia sét định tội, xé toạc màn đêm vĩnh hằng.\"</i>\n<i>——\"Cổ tích về công chúa Fischl IV 'Vĩnh biệt quý cô của thế giới.'\"</i>"
-    },
-    "imgid": "s_313201"
+    }
   },
   {
     "title": {
@@ -95,8 +93,7 @@
       "id": "Memanggil Oz untuk membentangkan kedua sayap kegelapan dan melindungi Fischl.\nMemiliki efek berikut selama durasi skill:\n·Fischl mengambil bentuk Oz, membuat kecepatan gerak dia meningkat drastis.\n·Menyerang musuh terdekat dengan menggunakan petir, menghasilkan <color=#FFACFFFF>Electro DMG</color> kepada musuh yang menyentuhnya. Setiap musuh hanya dapat tersambar satu kali.\n·Saat efeknya berakhir, Oz akan tetap berada di medan tempur dan menyerang musuh Prinzessin. Jika Oz sudah berada di medan tempur, maka akan memutar ulang durasi kehadirannya.\n\n<i>\"...dari segerombolan hewan buas yang mengikuti darah terkutuk, hanya Pangeran Nachtraben, yang telah menyaksikan kepunahan ribuan dunia, mengetahui kekuatannya yang sesungguhnya. Karena itu, sayap malam yang dia bentangkan adalah janji abadinya untuk selalu melindungi sang ratu.\"</i>\n<i>— Bunga untuk Putri Fischl (I): Akhir Waktu Zerzetsung.</i>",
       "th": "เรียก Oz ออกมา เพื่อกางปีกที่ทอด้วย ราตรีอันบริสุทธิ์และปกป้อง Fischl\nช่วงเวลาที่คงอยู่จะมีผลของเอฟเฟกต์ ดังนี้:\n·เคลื่อนไหวด้วยความเร็วสูงในรูปแบบ ของ Oz;\n·ปล่อยสายฟ้าฟาดลงมาใส่ศัตรูที่อยู่ใน บริเวณใกล้เคียง เกิดเป็น <color=#FFACFFFF>ความเสียหายไฟฟ้า</color> ซึ่งศัตรูแต่ละตัว จะได้รับความเสียหายจากสายฟ้าฟาด เพียงครั้งเดียวเท่านั้น;\n·เมื่อเอฟเฟกต์สิ้นสุดลง Oz จะยังคงอยู่ในการต่อสู้เพื่อคอยโจมตีศัตรูของเจ้าหญิง โดยหากว่า Oz อยู่ในการต่อสู้อยู่แล้ว ก็จะเป็นการรีเซ็ตช่วงเวลาการคงอยู่ของ Oz แทน\n\n<i>...ท่ามกลางเหล่าอสูรที่ติดตามโลหิตของ บาปที่สาปแช่งมานั้น มีเพียงเจ้าชาย Nachtraben ผู้ซึ่งได้เห็นการดับสูญ ของโลกนับพันมาแล้วเท่านั้นที่ สามารถเข้าใจถึงความสูงส่งของเธอได้ ดังนั้นมันจึงสยายปีกที่ถูกทอขึ้น จากความมืดคู่นั้นเข้าปกคลุมเจ้าหญิง และสาบานว่าจะปกป้องเธอ ไปตลอดกาล...</i>\n<i>\"Fischl เจ้าหญิงแห่งความมืด-I: บทสรุปแห่งวันโลกาวินาศ\"</i>",
       "vi": "Triệu hồi Oz, mở ra đôi cánh dệt từ bóng đêm thuần khiết, bảo vệ Fischl.\nTrong thời gian duy trì, hiệu quả như sau:\n·Di chuyển nhanh trong hình thái của Oz;\n·Đánh sét vào địch ở gần, gây <color=#FFACFFFF>Sát Thương Nguyên Tố Lôi</color>. Mỗi kẻ địch chỉ chịu 1 lần sát thương sét đánh;\n·Khi kết thúc hiệu quả, Oz sẽ dừng lại trên chiến trường, tấn công kẻ địch của công chúa. Nếu Oz đã có trong trận sẽ làm mới thời gian tồn tại của Oz.\n\n<i>...Trong số những con thú mang dòng máu định tội bị nguyền rủa, chỉ có Thân Vương Quạ Đêm - người đã chứng kiến sự tuyệt chủng của một ngàn thế giới mới có thể hiểu được sự cao cả của cô. Vì vậy nó dang rộng đôi cánh bóng đêm bao lấy công chúa cao quý, và nguyện thề trọn đời bảo vệ cô.</i>\n<i> \"Cổ tích về công chúa Fischl·I·'Về sự tan rã của ngày tận thế'\"</i>"
-    },
-    "imgid": "s_313901"
+    }
   },
   {
     "title": {
@@ -128,8 +125,7 @@
       "id": "Saat Fischl menembakkan Serangan Membidik yang telah di-Charge penuh ke arah Oz, Oz akan memanggil Thundering Retribution yang mengakibatkan <color=#FFACFFFF>Electro DMG area</color> sebesar 152.7% DMG panah.",
       "th": "เมื่อ Fischl ยิงธนูสายฟ้าไปถูกตัว Oz ด้วยการเล็งชาร์จแล้ว Oz จะสร้างสายฟ้าศักดิ์สิทธิ์ลงมาใส่ศัตรู ที่อยู่ในบริเวณใกล้เคียงเกิดเป็น <color=#FFACFFFF>ความเสียหายไฟฟ้าวงกว้าง</color> ซึ่งความเสียหายจะเท่ากับ 152.7% ของธนูสายฟ้า",
       "vi": "Khi Fischl dùng tụ lực ngắm bắn bắn trúng Oz, Oz sẽ giáng xuống Quả Báo Sấm Sét vào kẻ địch xung quanh, tạo thành <color=#FFACFFFF>sát thương phạm vi Nguyên Tố Lôi</color> tương đương với 152.7% sát thương khi bắn."
-    },
-    "imgid": "p_312101"
+    }
   },
   {
     "title": {
@@ -161,8 +157,7 @@
       "id": "Jika karakter yang sedang digunakan memicu <color=#FFACFFFF>Reaksi Elemental yang berhubungan dengan elemen Electro</color> pada saat Oz berada di medan tempur, musuh akan terkena Thundering Retribution yang mengakibatkan <color=#FFACFFFF>Electro DMG</color> sebesar 80% ATK Fischl.",
       "th": "เมื่อ Oz อยู่ในการต่อสู้ หากตัวละครของตนเองที่เข้าต่อสู้ในขณะนั้น โจมตีศัตรูและทำให้เกิด <color=#FFACFFFF>ปฏิกิริยาที่เกี่ยวข้องกับธาตุไฟฟ้า</color> จะสร้างสายฟ้าศักดิ์สิทธิ์ลงมาใส่ศัตรู ซึ่งจะทำให้เกิด<color=#FFACFFFF>ความเสียหายไฟฟ้า</color>เป็น 80% ของพลังโจมตีของ Fischl",
       "vi": "Khi Oz trong trận, nếu nhân vật của bản thân trong trận hiện tại tấn công địch kích hoạt <color=#FFACFFFF>phản ứng với Nguyên Tố Lôi</color>, thì sẽ giáng Quả Báo Sấm Sét, gây cho địch <color=#FFACFFFF>sát thương Nguyên Tố Lôi</color> bằng 80% lực tấn công Fischl."
-    },
-    "imgid": "p_312201"
+    }
   },
   {
     "title": {
@@ -194,7 +189,6 @@
       "id": "Ketika dikirim untuk melakukan ekspedisi di Mondstadt, waktu yang dibutuhkan berkurang 25%.",
       "th": "เมื่อทำคำขอการออกสำรวจของ Mondstadt เวลาที่ใช้จะลดลง 25%",
       "vi": "Khi làm nhiệm vụ Phái Đi thám Hiểm ở Mondstadt, thời gian tiêu hao rút ngắn 25%."
-    },
-    "imgid": "p_312301"
+    }
   }
 ]

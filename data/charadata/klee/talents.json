@@ -12,7 +12,7 @@
       "pt": "Ataque Normal: Kaboom!",
       "ru": "Бабах!",
       "id": "Normal Attack: Kaboom!",
-      "th": "โจมตีปกติ - Kaboom!",
+      "th": "โจมตีปกติ: Kaboom!",
       "vi": "Tấn Công Thường - Bằng Bằng"
     },
     "description": {
@@ -29,8 +29,7 @@
       "id": "<color=#FFD780FF>Normal Attack</color>\nMelempar benda yang akan meledak saat mengenai sesuatu! Melancarkan hingga 3 serangan ledakan yang mengakibatkan <color=#FF9999FF>Pyro DMG Area</color>.\n\n<color=#FFD780FF>Charged Attack</color>\nMengonsumsi sejumlah Stamina dan mengakibatkan <color=#FF9999FF>Pyro DMG Area</color> kepada musuh setelah jeda singkat.\n\n<color=#FFD780FF>Plunging Attack</color>\nMengumpulkan kekuatan Pyro dan menerjang tanah, mengakibatkan DMG pada musuh di jalur terjangan dan mengakibatkan <color=#FF9999FF>Pyro DMG Area</color> saat mendarat.",
       "th": "<color=#FFD780FF>โจมตีปกติ</color>\nโยนของดีที่จะระเบิดเมื่อมีสิ่งอื่น มากระแทกออกไป! ทำการระเบิดโจมตีมากสุดถึงสามครั้ง เกิดเป็น<color=#FF9999FF>ความเสียหายไฟวงกว้าง</color>\n\n<color=#FFD780FF>ชาร์จโจมตี</color>\nใช้พลังกายส่วนหนึ่ง โดยช่วงเวลาสั้น ๆ หลังจากร่ายเวทเสร็จ จะโจมตีศัตรูเพื่อสร้าง<color=#FF9999FF>ความเสียหายไฟวงกว้าง</color>\n\n<color=#FFD780FF>โจมตีพุ่งลงจากอากาศ</color>\nรวบรวมพลังไฟอันร้อนแรงและกระโจน จากกลางอากาศลงมายังพื้นดิน เพื่อโจมตีศัตรู ที่อยู่ในเส้นทางการโจมตี โดยจะสร้าง<color=#FF9999FF>ความเสียหายไฟวงกว้าง</color> เมื่อลงถึงพื้น",
       "vi": "<color=#FFD780FF>Tấn Công Thường</color>\nNém ra những thứ phát nổ khi va chạm! Tấn công nổ tối đa 3 lần, gây <color=#FF9999FF>Sát Thương Phạm Vi Nguyên Tố Hỏa</color>.\n\n<color=#FFD780FF>Trọng Kích</color>\nTiêu hao thể lực nhất định, sau khi tụ lực sẽ bắn phá kẻ địch, gây <color=#FF9999FF>Sát Thương Phạm Vi Nguyên Tố Hỏa</color>.\n\n<color=#FFD780FF>Tấn Công Khi Đáp</color>\nNgưng tụ sức mạnh của lửa, lao xuống mặt đất từ trên không, tấn công kẻ địch trên đường và gây <color=#FF9999FF>Sát Thương Phạm Vi Nguyên Tố Hỏa</color> khi chạm đất."
-    },
-    "imgid": "s_293101"
+    }
   },
   {
     "title": {
@@ -62,8 +61,7 @@
       "id": "Melemparkan bom Jumpy Dumpty yang membawa kesenangan tidak terbatas!\nSaat dilempar, Jumpy Dumpty dapat memantul tiga kali, setiap pantulannya akan meledak dan mengakibatkan <color=#FF9999FF>Pyro DMG Area</color>.\n\nPada pantulan ke-3, bomnya akan terbagi menjadi banyak ranjau.\nRanjau-ranjau ini akan meledak saat menyentuh musuh, atau setelah jeda waktu yang singkat, kemudian mengakibatkan <color=#FF9999FF>Pyro DMG Area</color>.\n\nDimulai dengan 2 kali jumlah penggunaan.\n\n<i>Jumpy Dumpty adalah teman baik Klee! Klee selalu tidak sabar untuk memperkenalkannya ke semua orang.</i>",
       "th": "โยน Jumpy Dumpty ที่จะนำพามาซึ่ง ความสนุกสุดเหวี่ยงออกไป!\nJumpy Dumpty จะเด้งติดต่อกันสามครั้ง โดยแต่ละครั้งล้วนสามารถทำให้เกิด การระเบิดได้ ซึ่งจะสร้าง<color=#FF9999FF>ความเสียหายไฟวงกว้าง</color>\n\nหลังจากการเด้งครั้งที่สาม จะแบ่งกลายเป็นกับระเบิดจำนวนมาก\nกับระเบิดจะระเบิดเมื่อมีศัตรูไปแตะโดน หรือเมื่อเวลาผ่านไปช่วงหนึ่ง และทำให้เกิด<color=#FF9999FF>ความเสียหายไฟวงกว้าง</color>\n\nในตอนเริ่มจะสามารถใช้ได้ 2 ครั้ง\n\n<i>Jumpy Dumpty คือ \"เพื่อนสนิท\" ของ Klee... ซึ่ง Klee นั้นมักจะอดใจไม่ไหว ที่จะแนะนำพวกเขาให้แก่คนอื่น ๆ เสมอ</i>",
       "vi": "Ném Bom Nảy mang đến niềm vui bất tận!\nBom Nảy sẽ nảy liên tiếp 3 lần, mỗi lần đều sẽ kích hoạt nổ, gây <color=#FF9999FF>Sát Thương Phạm Vi Nguyên Tố Hỏa</color>.\n\nSau khi nảy lần 3, sẽ tách thành nhiều Quỷ Lôi.\nQuỷ Lôi sẽ nổ sau một khoảng thời gian hoặc sau khi tiếp xúc kẻ địch, gây <color=#FF9999FF>Sát Thương Phạm Vi Nguyên Tố Hỏa</color>.\n\nBan đầu có 2 lần sử dụng.\n\n<i>Bom nảy là \"người bạn thân\" của Klee... Klee luôn muốn giới thiệu chúng với mọi người xung quanh.</i>"
-    },
-    "imgid": "s_293201"
+    }
   },
   {
     "title": {
@@ -95,8 +93,7 @@
       "id": "Kegembiraan Klee yang membara! Selama durasi skill, Sparks 'n' Splash yang muncul akan terus menyerang musuh-musuh di sekitar dan mengakibatkan <color=#FF9999FF>Pyro DMG Area</color>.\n\n<i>Para Knight meyakini kalau Klee pasti dilindungi sebuah bintang keberuntungan karena dia tidak pernah terluka karena bomnya sendiri ...</i>",
       "th": "Klee พร้อมลุย! ภายในช่วงเวลาต่อเนื่อง จะเรียก Sparks 'n' Splash ออกมา เพื่อโจมตีศัตรูที่อยู่ในบริเวณใกล้เคียงอย่างต่อเนื่อง และทำให้เกิด<color=#FF9999FF>ความเสียหายไฟวงกว้าง</color>\n\n<i>เหล่าคนในกองอัศวินนั้นเชื่อซะเหลือเกิน ว่าการที่ Klee ไม่เคยโดนระเบิด ของตัวเองเล่นงานเลยนั้น คงเป็นเพราะมีดวงดาวนำโชค คอยปกป้องเธออยู่แน่ ๆ...</i>",
       "vi": "Klee phát huy toàn bộ hỏa lực! Trong thời gian duy trì, liên tục triệu hồi Tia Lửa Mãnh Liệt tấn công kẻ địch lân cận, gây <color=#FF9999FF>Sát Thương Phạm Vi Nguyên Tố Hỏa</color>.\n\n<i>Người trong Đội Kỵ Sĩ tin rằng, Klee xưa nay chưa từng bị thương bởi thuốc nổ của mình nhất định là do ngôi sao may mắn nào đó luôn chiếu cố cô bé...</i>"
-    },
-    "imgid": "s_293901"
+    }
   },
   {
     "title": {
@@ -128,8 +125,7 @@
       "id": "Saat <color=#FFD780FF>Jumpy Dumpty</color> atau Normal Attack Klee mengakibatkan DMG, Klee memiliki 50% kemungkinan untuk mendapatkan Explosive Spark.\nExplosive Spark akan terkonsumsi saat Klee melancarkan Charged Attack dan membuatnya tidak mengonsumsi Stamina serta mengakibatkan 50% DMG lebih besar.",
       "th": "เมื่อ <color=#FFD780FF>Jumpy Dumpty</color> และการโจมตีปกติสร้างความเสียหาย จะมีโอกาส 50% ที่จะมอบ Explosive Spark ให้แก่ Klee หนึ่งดอก\nเมื่อชาร์จโจมตี Explosive Spark จะถูกใช้ ซึ่งทำให้การชาร์จโจมตีในครั้งนี้ไม่ใช้พลังกาย และสร้างความเสียหายเพิ่มขึ้น 50%",
       "vi": "Khi <color=#FFD780FF>Bom Nảy</color> và tấn công thường tạo thành sát thương, có tỷ lệ 50% tạo thành một đoá Hoa Tia Lửa cho Klee.\nThi triển trọng kích sẽ tiêu hao Hoa Tia Lửa, khiến lần trọng kích này không tiêu hao thể lực, đồng thời tăng 50% sát thương gây ra."
-    },
-    "imgid": "p_292101"
+    }
   },
   {
     "title": {
@@ -161,8 +157,7 @@
       "id": "Seluruh anggota party akan mendapatkan 2 Energy saat Charged Attack Klee mengakibatkan CRIT.",
       "th": "เมื่อชาร์จโจมตีของ Klee ติดคริติคอล จะฟื้นฟูพลังงานธาตุ 2 หน่วย ให้แก่ตัวละครทั้งหมดในทีม",
       "vi": "Trọng Kích của Klee sau khi gây ra bạo kích, hồi phục 2 điểm Năng Lượng Nguyên Tố cho tất cả các nhân vật trong đội."
-    },
-    "imgid": "p_292201"
+    }
   },
   {
     "title": {
@@ -194,7 +189,6 @@
       "id": "Memperlihatkan lokasi <color=#FFD780FF>produk khas Mondstadt</color> di sekitar pada mini-map.",
       "th": "แสดงตำแหน่งของ<color=#FFD780FF>ของพิเศษเฉพาะใน Mondstadt</color> ในมินิแมป",
       "vi": "Hiển thị vị trí <color=#FFD780FF>đặc sản khu vực Mondstadt</color> ở xung quanh trên bản đồ nhỏ."
-    },
-    "imgid": "p_292301"
+    }
   }
 ]

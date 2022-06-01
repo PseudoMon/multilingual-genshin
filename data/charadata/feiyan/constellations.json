@@ -93,7 +93,7 @@
       "pt": "Aumenta o nível da Habilidade <color=#FFD780FF>Édito Assinado</color> em 3.\nO nível máximo é 15.",
       "ru": "Увеличивает уровень навыка <color=#FFD780FF>Подписанный указ</color> на 3.\nМакс. уровень: 15",
       "id": "Meningkatkan 3 level <color=#FFD780FF>Signed Edict</color>.\nMaksimum: Lv. 15.",
-      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Signed Edict</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Signed Edict</color> ขึ้น 3 ระดับ\nเพิ่มได้สูงสุดถึงระดับ 15",
       "vi": "Cấp kỹ năng <color=#FFD780FF>Sắc Lệnh Đã Ký</color> +3.\nTăng tối đa đến cấp 15."
     },
     "imgid": "constellation_3"
@@ -118,7 +118,7 @@
       "zhs": "施放<color=#FFD780FF>凭此结契</color>时：\n生成一个伤害吸收量等于生命值上限45%的护盾，持续15秒。\n该护盾对<color=#FF9999FF>火元素伤害</color>有250%的吸收效果。",
       "zht": "施放<color=#FFD780FF>憑此結契</color>時：\n生成一個傷害吸收量等於生命值上限45%的護盾，持續15秒。\n該護盾對<color=#FF9999FF>火元素傷害</color>有250%的吸收效果。",
       "jp": "<color=#FFD780FF>契約成立</color>を発動した時、下記の効果を発動する。\nダメージ吸収量がHP上限の45%に相当するシールドを生成する。持続時間15秒。\nこのシールドは<color=#FF9999FF>炎元素ダメージ</color>に対して250%の吸収効果がある。",
-      "ko": "<color=#FFD780FF>계약 성립</color> 발동 시:\nHP 최대치의 45%에 해당하는 피해를 흡수하는 보호막을 생성한다. 지속 시간: 15초.\\이 보호막은 <color=#FF9999FF>불 원소 피해</color>에 대해 250%의 흡수 효과가 있다",
+      "ko": "<color=#FFD780FF>계약 성립</color> 발동 시:\nHP 최대치의 45%에 해당하는 피해를 흡수하는 보호막을 생성한다. 지속 시간: 15초.\n이 보호막은 <color=#FF9999FF>불 원소 피해</color>에 대해 250%의 흡수 효과가 있다",
       "en": "When <color=#FFD780FF>Done Deal</color> is used:\nCreates a shield that absorbs up to 45% of Yanfei's Max HP for 15s.\nThis shield absorbs <color=#FF9999FF>Pyro DMG</color> 250% more effectively.",
       "de": "Effekte bei Anwendung von <color=#FFD780FF>Pakt des flammenden Infernos</color>:\nErstellt einen Schutzschild, der Schaden in Höhe von 45 % der max. LP abhält, hält 15 s.\nHält bei <color=#FF9999FF>Pyro-Schaden</color> 250 % ab.",
       "es": "Al utilizar <color=#FFD780FF>Contrato vinculante</color>, se crea un escudo que dura 15 s y que absorbe daño en una cantidad equivalente al 45% de la Vida Máx. de Yanfei.\nEl escudo tiene un 250% de eficiencia de absorción de <color=#FF9999FF>Daño Pyro</color>.",
@@ -159,7 +159,7 @@
       "pt": "Aumenta o nível da Habilidade <color=#FFD780FF>Contrato Vinculativo</color> em 3.\nO nível máximo é 15.",
       "ru": "Увеличивает уровень навыка <color=#FFD780FF>По рукам</color> на 3.\nМакс. уровень: 15",
       "id": "Meningkatkan 3 level <color=#FFD780FF>Done Deal</color>.\nMaksimum: Lv. 15.",
-      "th": "เพิ่มเลเวลของสกิล <color=#FFD780FF>Done Deal</color> ขึ้น 3 ระดับ\nเพิ่มได้มากสุด 15 ระดับ",
+      "th": "เพิ่มเลเวลของสกิล <color=#FFD780FF>Done Deal</color> ขึ้น 3 ระดับ\nเพิ่มได้สูงสุดถึงระดับ 15",
       "vi": "Cấp kỹ năng <color=#FFD780FF>Khế Ước Đã Định</color> +3.\nTăng tối đa đến cấp 15."
     },
     "imgid": "constellation_5"

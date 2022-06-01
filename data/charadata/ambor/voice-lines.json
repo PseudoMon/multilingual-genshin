@@ -233,7 +233,7 @@
       "de": "Wie sonnig ...",
       "es": "Qué sol hace...",
       "fr": "Il fait bon dehors...",
-      "pt": "Quando faz sol...",
+      "pt": "Quando Faz Sol...",
       "ru": "Когда светит солнце...",
       "id": "Waktu Matahari Bersinar",
       "th": "แดดส่องดีจัง...",
@@ -347,7 +347,7 @@
       "pt": "Bom dia! Quer correr comigo?",
       "ru": "Доброе утро! Хочешь пойти на утреннюю пробежку вместе?",
       "id": "Selamat pagi! Mau lari pagi bersamaku?",
-      "th": "อรุณสวัสดิ์! จะไปวิ่งตอนเช้าซะหน่อยมั๊ยล่ะ?",
+      "th": "อรุณสวัสดิ์! จะไปวิ่งตอนเช้าซะหน่อยมั้ยล่ะ?",
       "vi": "Chào buổi sáng! Có muốn cùng chạy bộ không?"
     }
   },
@@ -379,7 +379,7 @@
       "pt": "Posso jantar com você?",
       "ru": "Можно пообедать вместе с тобой?",
       "id": "Bolehkah aku makan bersamamu?",
-      "th": "กินข้าวตอนเที่ยงด้วยได้มั๊ย?",
+      "th": "กินข้าวตอนเที่ยงด้วยได้มั้ย?",
       "vi": "Tôi có thể ăn trưa cùng bạn không?"
     }
   },
@@ -411,7 +411,7 @@
       "pt": "Já está escuro, posso acender uma tocha?",
       "ru": "Темнеет... Мне зажечь факел?",
       "id": "Hari sudah gelap, bagaimana kalau kunyalakan obor?",
-      "th": "ฟ้ามืดแล้ว ให้ฉันจุดคบเพลิงมั๊ย?",
+      "th": "ฟ้ามืดแล้ว ให้ฉันจุดคบเพลิงมั้ย?",
       "vi": "Trời tối rồi, có cần tôi đốt lửa không?"
     }
   },
@@ -521,7 +521,7 @@
       "de": "Über uns – Fliegen",
       "es": "#Sobre nosotr{F#as}{M#os} - Vuelo",
       "fr": "À propos de nous - Planage",
-      "pt": "Sobre nós - Planagem",
+      "pt": "Sobre Nós - Planagem",
       "ru": "О нас: Полёты",
       "id": "Tentang Kita: Meluncur",
       "th": "เกี่ยวกับเรา-เที่ยวบิน",
@@ -539,7 +539,7 @@
       "pt": "Quando estou te ensinando a planar, sinto que posso ir ainda mais rápido do que o normal... Huh? Do que você está rindo? Eu vou provar! Podemos fazer uma corrida - agora mesmo!",
       "ru": "Когда я учу тебя летать, сама чувствую, что могу лететь ещё быстрее... Что? Почему ты смеёшься? Я докажу это! Давай наперегонки, прямо сейчас!",
       "id": "Dengan mengajarimu terbang... saat terbang bersamamu, aku sendiri sepertinya bisa terbang lebih cepat dari biasanya... Hei, apa yang kamu tertawakan? Sini kubuktikan! Ayo kita balapan sekarang!",
-      "th": "ตอนที่สอนเธอบิน... ตอนที่บินกับเธอน่ะ เหมือนว่าฉันจะบินได้เร็วขึ้นเลยนะ... เห้ นี่เธอยิ้มอะไรอยู่น่ะ? มาแข่งกันมั๊ย! เริ่มตอนนี้เลย!",
+      "th": "ตอนที่สอนเธอบิน... ตอนที่บินกับเธอน่ะ เหมือนว่าฉันจะบินได้เร็วขึ้นเลยนะ... เห้ นี่เธอยิ้มอะไรอยู่น่ะ? มาแข่งกันมั้ย! เริ่มตอนนี้เลย!",
       "vi": "Khi bay cùng bạn... dạy bạn bay, hình như tôi cũng bay được nhanh hơn... Này, bạn cười gì đấy? Thi với tôi đi, ngay bây giờ!"
     }
   },
@@ -571,7 +571,7 @@
       "pt": "Minha Visão... É um sinal de que os Arcontes acreditam em mim. Sim, eu devo me tornar a melhor Aventureira que eu posso ser!",
       "ru": "Мой Глаз Бога - это знак того, что Архонты верят в меня. Да, я должна стать лучшим скаутом!",
       "id": "Vision... adalah bentuk kepercayaan Archon kepadaku. Jadi aku harus menjadi Outrider yang terbaik!",
-      "th": "\"วิชั่น\" คือการยอมรับของเทพที่มีต่อเราใช่มั๊ยล่ะ อืม ฉันจะต้องเป็นอัศวินลาดตระเวนที่สุดยอด ที่สุดให้ได้!",
+      "th": "\"วิชั่น\" คือการยอมรับของเทพที่มีต่อเราใช่มั้ยล่ะ อืม ฉันจะต้องเป็นอัศวินลาดตระเวนที่สุดยอด ที่สุดให้ได้!",
       "vi": "Vision\", là sự công nhận của Thần đối với tôi. Ừm, tôi phải trở thành Kỵ Sĩ Trinh Thám ưu tú nhất mới được!"
     }
   },
@@ -585,7 +585,7 @@
       "de": "Willst du mir etwas mitteilen?",
       "es": "¿Algo que decir?",
       "fr": "Quelque chose à partager ?",
-      "pt": "Algo a compartilhar...?",
+      "pt": "Algo para Compartilhar...?",
       "ru": "Давай поделимся...",
       "id": "Berbagi Cerita",
       "th": "ต้องการจะแชร์อะไร...",
@@ -795,7 +795,7 @@
       "pt": "... Estou um pouco inquieta do nada! Foi o Kaeya que te acompanhou? Ele te causou algum problema?",
       "ru": "#У меня странное предчувствие... Ты недавно общал{F#ась}{M#ся} с Кэйей? Он не досаждал тебе?",
       "id": "... Perasaanku jadi tidak enak! Kamu barusan bersama Kaeya, kan? Apakah dia menyusahkanmu?",
-      "th": "...ทำไมรู้สึกไม่ดียังไงก็ไม่รู้! เมื่อกี้ Kaeya มากับเธอใช่มั๊ย? เขาไม่ได้สร้างความลำบากอะไรให้ เธอใช่มั๊ย?",
+      "th": "...ทำไมรู้สึกไม่ดียังไงก็ไม่รู้! เมื่อกี้ Kaeya มากับเธอใช่มั้ย? เขาไม่ได้สร้างความลำบากอะไรให้ เธอใช่มั้ย?",
       "vi": "...Có cảm giác bất an! Lúc nãy Kaeya đi cùng bạn đúng không? Cậu ấy không gây rắc rối gì cho bạn chứ?"
     }
   },
@@ -859,7 +859,7 @@
       "pt": "Hum? Bennett... Me esse nome me parece familiar... Oh! Você se refere a um garoto ambicioso da Guilda de Aventureiros? Sim! Às vezes eu o vejo perto dos Domínios. Parece que ele é muito entusiasmado em procurar tesouros.",
       "ru": "Кто? Беннет? Хм... Кажется, я уже слышала это имя. Ах, точно! Это тот непоседливый парень из Гильдии искателей приключений! Я иногда натыкаюсь на него в своих патрулях. Кажется, он очень любит искать сокровища.",
       "id": "Hmm? Bennett... sepertinya pernah mendengarnya di suatu tempat... Oh! Maksudmu bocah antusias dari Adventurers' Guild, bukan?! Aku sering melihatnya di sekitar Domain, sepertinya dia sangat suka berburu harta karun.",
-      "th": "ฮืม? Bennett... เหมือนจะเคยได้ยินที่ไหนมาก่อนนะ... อ๊ะ! เธอหมายถึงเด็กหนุ่มเลือดร้อนของกิลด์นักผจญภัยนั่นใช่มั๊ย! อืม บางครั้งฉันก็เห็นเขาอยู่แถว ๆ ดันเจี้ยนเหมือนกันนะ รู้สึกว่าจะเป็นพวกที่ตื่นเต้นกับ การล่าสมบัติมากเลยล่ะ",
+      "th": "ฮืม? Bennett... เหมือนจะเคยได้ยินที่ไหนมาก่อนนะ... อ๊ะ! เธอหมายถึงเด็กหนุ่มเลือดร้อนของกิลด์นักผจญภัยนั่นใช่มั้ย! อืม บางครั้งฉันก็เห็นเขาอยู่แถว ๆ ดันเจี้ยนเหมือนกันนะ รู้สึกว่าจะเป็นพวกที่ตื่นเต้นกับ การล่าสมบัติมากเลยล่ะ",
       "vi": "Hửm? Bennett... hình như từng nghe ở đâu đó rồi... À! Người bạn nói là một chàng trai nhiệt huyết của Hiệp Hội Nhà Mạo Hiểm phải không! Có lúc tôi gặp cậu ấy ở gần Bí Cảnh, hình như cậu ấy rất đam mê với việc tìm kho báu."
     }
   },
@@ -1017,7 +1017,7 @@
       "es": "¿Sabías que soy una experta en cacería? ¿Quieres que te enseñe alguna de mis habilidades? O... ¿te gustaría que hiciéramos una pequeña competición?",
       "fr": "Je suis aussi douée pour la chasse ! Tu veux voir de quoi je suis capable ? Je sais, que dirais-tu d'un concours de chasse ?",
       "pt": "Eu sou muito boa em caçar! Quer ver? Ou... Quer competir comigo?",
-      "ru": "Я также хороший охотник! Хочешь посмотреть, на что я способна? А хочешь устроить охотничье состязание?",
+      "ru": "А я отличный охотник! Хочешь посмотреть, на что я способна? А хочешь устроить охотничье состязание?",
       "id": "Aku sangat ahli dalam berburu! Bagaimana jika aku memperlihatkan beberapa kemampuanku padamu? Atau... bagaimana jika kita tanding saja?",
       "th": "เรื่องการล่าสัตว์นี่ฉันก็เก่งไม่เบานะ! ว่ายังไง อยากเห็นฝีมือฉันมั้ยล่ะ? หรือว่า... จะแข่งล่าสัตว์กันหน่อยมั้ย?",
       "vi": "Tôi cũng rất giỏi săn bắn! Thế nào, muốn xem kỹ năng của tôi không? Hay là... muốn thi đấu?"
@@ -1049,7 +1049,7 @@
       "es": "¡Compartiré contigo mi gran secreto de Campeona de Vuelo! ¡Lo más importante que debes recordar es siempre tener valor!",
       "fr": "Laisse-moi te dire un secret en tant que championne de planage : l'important, c'est d'avoir le courage de se lancer !",
       "pt": "Então, posso compartilhar a minha experiência como a Campeã Voadora! O mais importante é a coragem!",
-      "ru": "А теперь я раскрою тебе самый главный секрет чемпиона полётов! Самое главное - это быть храбрым и не бояться делать шаг вперёд!",
+      "ru": "А теперь я раскрою тебе самый главный секрет чемпиона полётов! Самое главное - это быть храбрым!",
       "id": "Aku akan berbagi rahasia pengalaman Gliding Champion aku untukmu! Hal yang paling penting untuk diingat adalah memiliki keberanian!",
       "th": "ฉันจะแชร์ประสบการณ์แชมป์ การร่อนเวหาให้เธอละกัน! สิ่งที่สำคัญที่สุดก็คือความกล้า!",
       "vi": "Chia sẻ với bạn kinh nghiệm quán quân bay lượn của tôi nhé! Quan trọng nhất là phải đủ can đảm!"
@@ -1147,7 +1147,7 @@
       "pt": "Eu quero explorar um mundo mais longe, quero ir ao lugar onde acaba o céu! Você vai me acompanhar para sempre, não é?",
       "ru": "Я хочу увидеть другие миры, хочу знать, насколько велика вселенная! Ты же будешь со мной, да? Будешь?",
       "id": "Aku ingin menjelajahi dunia lain di luar, aku ingin pergi hingga ke ujung langit! Kamu akan terus menemaniku, kan?",
-      "th": "ฉันยังอยากจะไปยังโลกอื่นที่ไกล ออกไป ไปให้สุดเส้นขอบฟ้า! เธอเองก็จะไปด้วยกันใช่มั๊ย เนอะ ๆ?",
+      "th": "ฉันยังอยากจะไปยังโลกอื่นที่ไกล ออกไป ไปให้สุดเส้นขอบฟ้า! เธอเองก็จะไปด้วยกันใช่มั้ย เนอะ ๆ?",
       "vi": "Tôi còn muốn đến những thế giới xa hơn. Tôi muốn nhìn thấy chân trời! Bạn vẫn sẽ đi cùng tôi đúng không, đúng không?"
     }
   },
@@ -1211,7 +1211,7 @@
       "pt": "Uh... Você tem alguma ideia de como fazer a Torta da Lua mais saborosa?",
       "ru": "А ты знаешь, как печь вкусные лунные пироги?",
       "id": "Oh... Apakah kamu tahu cara membuat Moon Pie yang lezat?",
-      "th": "อืม... เธอรู้มั๊ย ว่าต้องทำยังไงถึงจะได้ พายพระจันทร์ที่อร่อยที่สุด?",
+      "th": "อืม... เธอรู้มั้ย ว่าต้องทำยังไงถึงจะได้ พายพระจันทร์ที่อร่อยที่สุด?",
       "vi": "Ừm... Bạn có biết làm cách nào để làm ra được một chiếc bánh trung thu ngon không?"
     }
   },
@@ -1225,7 +1225,7 @@
       "de": "Was sie so mag ...",
       "es": "Comida que más le gusta...",
       "fr": "Plats préférés...",
-      "pt": "Comida favorita...",
+      "pt": "Comida Favorita...",
       "ru": "Любимая еда...",
       "id": "Makanan favorit",
       "th": "อาหารที่ชอบ...",
@@ -1257,7 +1257,7 @@
       "de": "Was sie nicht mag ...",
       "es": "Comida que menos le gusta...",
       "fr": "Plats détestés...",
-      "pt": "Comida que detesta...",
+      "pt": "Comida que Odeia...",
       "ru": "Нелюбимая еда...",
       "id": "Makanan yang tidak kamu suka",
       "th": "อาหารที่เกลียด...",
@@ -1273,7 +1273,7 @@
       "es": "¡Puedo con cualquier cosa! Siempre que no sea un jugo de gancho de lobo helado... Puaj.",
       "fr": "Je peux tout supporter, tant que ce n'est pas du jus de baie à crochet !",
       "pt": "Eu aceito todas as bebidas, menos bebida de Gancho do Lobo.",
-      "ru": "Я могу вытерпеть всё что угодно, но только не сок из волчьих крюков... Фу...",
+      "ru": "Я могу вытерпеть всё что угодно, но только не холодный сок из волчьих крюков... Фу...",
       "id": "Selama itu bukan cold Wolfhook juice... Ugh... aku bisa mengatasi apa pun!",
       "th": "อะไรก็ได้ที่ไม่ใช่น้ำคั้น Wolfhook juice... แหวะ... อย่างอื่นฉันว่าฉันรับได้หมดแหละ!",
       "vi": "Chỉ cần không phải là nước trái cây quá lạnh... ừm... tôi đều có thể xử lý được!"
@@ -1446,7 +1446,7 @@
       "jp": "元素スキル·1",
       "ko": "원소전투 스킬·첫 번째",
       "en": "Elemental Skill: I",
-      "de": "Elementarfähigkeit – I",
+      "de": "Elementarfähigkeit I",
       "es": "Habilidad Elemental (I)",
       "fr": "Compétence élémentaire (1)",
       "pt": "Habilidade Elemental - I",
@@ -1478,7 +1478,7 @@
       "jp": "元素スキル·2",
       "ko": "원소전투 스킬·두 번째",
       "en": "Elemental Skill: II",
-      "de": "Elementarfähigkeit – II",
+      "de": "Elementarfähigkeit II",
       "es": "Habilidad Elemental (II)",
       "fr": "Compétence élémentaire (2)",
       "pt": "Habilidade Elemental - II",
@@ -1510,7 +1510,7 @@
       "jp": "元素スキル·3",
       "ko": "원소전투 스킬·세 번째",
       "en": "Elemental Skill: III",
-      "de": "Elementarfähigkeit – III",
+      "de": "Elementarfähigkeit III",
       "es": "Habilidad Elemental (III)",
       "fr": "Compétence élémentaire (3)",
       "pt": "Habilidade Elemental - III",
@@ -1561,7 +1561,7 @@
       "es": "¡Nadie se escapa de mí!",
       "fr": "Dans le mille !",
       "pt": "Ninguém escapa da minha mira!",
-      "ru": "Сто стрел - все в цель!",
+      "ru": "От моего взгляда не ускользнуть!",
       "id": "Tak ada yang bisa luput dari mataku!",
       "th": "ไม่รอดไปได้หรอก!",
       "vi": "Bách phát bách trúng!"
@@ -1929,7 +1929,7 @@
       "de": "Niedrige LP I",
       "es": "Vida baja (I)",
       "fr": "PV faibles (1)",
-      "pt": "Vida baixa - I",
+      "pt": "Vida Baixa - I",
       "ru": "Низкий уровень HP I",
       "id": "HP Rendah: I",
       "th": "ค่าพลังชีวิตต่ำ - 1",
@@ -1961,7 +1961,7 @@
       "de": "Niedrige LP II",
       "es": "Vida baja (II)",
       "fr": "PV faibles (2)",
-      "pt": "Vida baixa - II",
+      "pt": "Vida Baixa - II",
       "ru": "Низкий уровень HP II",
       "id": "HP Rendah: II",
       "th": "ค่าพลังชีวิตต่ำ - 2",
@@ -1993,7 +1993,7 @@
       "de": "Niedrige LP III",
       "es": "Vida baja (III)",
       "fr": "PV faibles (3)",
-      "pt": "Vida baixa - III",
+      "pt": "Vida Baixa - III",
       "ru": "Низкий уровень HP III",
       "id": "HP Rendah: III",
       "th": "ค่าพลังชีวิตต่ำ - 3",

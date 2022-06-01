@@ -12,7 +12,7 @@
       "pt": "Ataque Normal: Destino Desencapado",
       "ru": "Круги на воде",
       "id": "Normal Attack: Ripple of Fate",
-      "th": "โจมตีปกติ - Ripple of Fate",
+      "th": "โจมตีปกติ: Ripple of Fate",
       "vi": "Tấn Công Thường - Điểm Hóa Nhân Quả"
     },
     "description": {
@@ -29,8 +29,7 @@
       "id": "<color=#FFD780FF>Normal Attack</color>\nMelancarkan hingga 4 serangan air yang mengakibatkan <color=#80C0FFFF>Hydro DMG</color>.\n\n<color=#FFD780FF>Charged Attack</color>\nMengonsumsi sejumlah Stamina untuk mengakibatkan <color=#80C0FFFF>Hydro DMG area</color> setelah jeda singkat.\n\n<color=#FFD780FF>Plunging Attack</color>\nMengumpulkan kekuatan Hydro dan menerjang tanah, mengakibatkan DMG pada musuh di jalur terjangan dan mengakibatkan <color=#80C0FFFF>Hydro DMG area</color> saat mendarat.",
       "th": "<color=#FFD780FF>โจมตีปกติ</color>\nปล่อยการโจมตีน้ำต่อเนื่องมากสุดสี่ครั้ง เพื่อสร้าง<color=#80C0FFFF>ความเสียหายน้ำ</color>\n\n<color=#FFD780FF>ชาร์จโจมตี</color>\nใช้พลังกายบางส่วน โดยหลังจากร่ายเสร็จจะสร้าง <color=#80C0FFFF>ความเสียหายน้ำเป็นวงกว้าง</color>\n\n<color=#FFD780FF>โจมตีพุ่งลงจากอากาศ</color>\nรวบรวมพลังแห่งธาตุน้ำ กระโจนจากกลางอากาศลงมายังพื้นดิน เพื่อโจมตีศัตรูที่อยู่ในเส้นทางการโจมตี โดยจะสร้าง<color=#80C0FFFF>ความเสียหายน้ำวงกว้าง</color> เมื่อลงถึงพื้น",
       "vi": "<color=#FFD780FF>Tấn Công Thường</color>\nThực hiện tối đa 4 lần tấn công hoa nước, gây <color=#80C0FFFF>Sát Thương Nguyên Tố Thủy</color>.\n\n<color=#FFD780FF>Trọng Kích</color>\nTiêu hao thể lực nhất định, sau khi tụ lực, gây <color=#80C0FFFF>Sát Thương Phạm Vi Nguyên Tố Thủy</color>.\n\n<color=#FFD780FF>Tấn Công Khi Đáp</color>\nNgưng tụ sức mạnh nguyên tố Thủy, từ trên trời tấn công xuống mặt đất, tấn công kẻ địch trên đường đi, gây <color=#80C0FFFF>sát thương phạm vi Nguyên Tố Thủy</color> khi chạm đất."
-    },
-    "imgid": "s_413101"
+    }
   },
   {
     "title": {
@@ -62,8 +61,7 @@
       "id": "Menciptakan bayangan ilusi nasib dari bunga air.\n\n<color=#FFD780FF>Bayangan</color> tersebut mempunyai spesial efek seperti:\n·Terus-menerus menarik perhatian musuh di sekitar.\nTerus-menerus mengakibatkan <color=#80C0FFFF>Hydro DMG</color> kepada musuh di sekitar.\n·Saat durasinya habis, bayangan akan meledak, mengakibatkan <color=#80C0FFFF>Hydro DMG area</color>.\n\n<color=#FFD780FF>Tahan</color>\nManfaatkan arus air untuk bergerak mundur dengan cepat sebelum memanggil bayangan.\n\nHanya satu bayangan saja yang dapat dibuat oleh Mirror Reflection of Doom kapan pun juga.\n\n<i>Astrolog terampil selalu bermimpi untuk menggunakan faksimili diri untuk menangkal nasib buruk yang akan segera terjadi, tapi Mona harus menjadi yang pertama di seluruh Teyvat yang bisa membuat hal itu terjadi.</i>",
       "th": "#สร้างภาพลวงตาแห่งโชคชะตา Phantom ขึ้นจากการรวมตัวของน้ำ\n\n<color=#FFD780FF>Phantom</color>\nมีคุณลักษณะพิเศษดังนี้:\n·ยั่วยุและดึงดูดการโจมตีของศัตรูอย่างต่อเนื่อง;\n·สร้าง<color=#80C0FFFF>ความเสียหายน้ำ</color>แก่ศัตรูโดยรอบ อย่างต่อเนื่อง;\n·ภาพลวงตาจะระเบิดออกเมื่อช่วงเวลา ต่อเนื่องสิ้นสุดลง และทำให้เกิด<color=#80C0FFFF>ความเสียหายน้ำวงกว้าง</color>\n\n<color=#FFD780FF>{LAYOUT_MOBILE#แตะค้าง}{LAYOUT_PC#กดค้าง}{LAYOUT_PS#กดค้าง}</color>\nอาศัยพลังของกระแสน้ำเพื่อถอยมาด้านหลังอย่างรวดเร็ว และเรียกภาพลวงตา ออกมา\n\nซึ่งขณะเดียวกันในสนามรบจะสามารถ มีภาพลวงตาที่เกิดจาก Mirror Reflection of Doom ได้เพียงอันเดียวเท่านั้น\n\n<i>เหล่าโหรแห่งดวงดาวผู้เก่งกาจนั้น พยายามสร้างภาพลวงตาขึ้นมา เพื่อส่งผ่านเคราะห์ร้ายมาตั้งนานแล้ว แต่ Mona เป็นคนแรกใน Teyvat ที่สามารถหลอกล่อเคราะห์ร้าย ได้ถึงขนาดนี้</i>",
       "vi": "Hội tụ hoa nước hình thành ảo ảnh vận mệnh.\n\n<color=#FFD780FF>Hư Ảnh</color>\nCó đặc tính như sau:\n·Liên tục khiêu khích địch xung quanh, thu hút địch tấn công;\n·Gây <color=#80C0FFFF>Sát Thương Nguyên Tố Thủy</color> liên tục cho địch ở gần;\n·Khi kết thúc, hư ảnh sẽ nổ tung, gây <color=#80C0FFFF>Sát Thương Phạm Vi Nguyên Tố Thủy</color>.\n\n<color=#FFD780FF>Nhấn giữ</color>\nMượn dòng thủy lưu lùi nhanh về phía sau và gọi Hư Ảnh.\n\nTrong trận chỉ có thể đồng thời tồn tại một Hư Ảnh được tạo ra từ nước,\n\n<i>Thuật sĩ chiêm tinh tinh vi luôn muốn tạo ra hư ảnh của bản thân để gánh lấy tai ương sắp ập đến. Ở Teyvat, chắc chỉ có Mona là người đầu tiên chế giễu tai ương như thế.</i>"
-    },
-    "imgid": "s_413201"
+    }
   },
   {
     "title": {
@@ -95,8 +93,7 @@
       "id": "<color=#FFD780FF>Alternate Sprint</color>\nMona menyembunyikan dirinya di dalam arus air, mengonsumsi sejumlah Stamina untuk bergerak cepat.\n\nSaat berada di bawah pengaruh efek Illusory Torrent, Mona dapat bergerak dengan kecepatan tinggi di air.\nSaat dia muncul kembali, akan menyebabkan efek <color=#80C0FFFF>Wet</color> kepada musuh di sekitarnya.\n\n<i>Ini adalah hal yang bisa dilakukan oleh Mona, namun gurunya tidak bisa melakukannya. Yah, namun demikian gurunya juga tidak akan mempelajari lebih lanjut mengenai Hydro Vision...</i>",
       "th": "<color=#FFD780FF>Alternate Sprint</color>\nแทรกตัวหลบเข้าไปในกระแสน้ำ และเคลื่อนที่อย่างรวดเร็วโดยแลกกับ การใช้พลังกาย\n\nภายใต้สภาวะเอฟเฟกต์ของ Illusory Torrent... Mona จะสามารถเคลื่อนที่ บนผิวน้ำได้อย่างรวดเร็ว\nเมื่อ Illusory Torrent สิ้นสุด และปรากฏตัวออกมา จะทำให้ ศัตรูที่อยู่รอบ ๆ อยู่ในสภาวะ<color=#80C0FFFF>เปียกชุ่ม</color>\n\n<i>นี่เป็นเรื่องที่ Mona สามารถทำได้ แต่อาจารย์ของเธอนั้นกลับล้มเหลว ถึงจะไม่เกี่ยวกับวิชั่น แต่ยังไงอาจารย์ของเธอก็ไม่ได้ถูก บังคับให้เรียนทักษะเหล่านี้อยู่ดี</i>",
       "vi": "<color=#FFD780FF>Thay thế xung kích</color>\nẨn vào dòng nước, trả giá bằng tiêu hao thể lực, hóa thành dòng chảy cực nhanh.\n\nỞ trạng thái dòng chảy ảo, Mona có thể di chuyển nhanh trên mặt nước.\nKhi kết thúc dòng chảy ảo và hiện thân, sẽ thi triển trạng thái <color=#80C0FFFF>Ẩm Ướt</color> cho địch xung quanh.\n\n<i>Đây là việc mà Mona làm được nhưng thầy của cô không thể làm. Nó chẳng liên quan đến Vision Nguyên Tố Thủy gì cả, vì dẫu sao thì thầy của cô cũng không bị ép phải học kỹ năng này.</i>"
-    },
-    "imgid": "s_413301"
+    }
   },
   {
     "title": {
@@ -128,8 +125,7 @@
       "id": "Mona menciptakan gelombang air yang memantulkan cahaya langit penuh bintang, menyebabkan efek Illusory Bubble pada musuh dalam area yang besar.\n\n<color=#FFD780FF>Illusory Bubble</color>\nMengurung musuh di dalam gelembung bintang dan menyebabkan efek <color=#80C0FFFF>Wet</color>. Musuh yang lebih lemah akan terkurung dan tidak bisa bergerak.\nSaat musuh dalam gelembung terkena DMG, akan muncul efek berikut:\n·Menyebabkan efek Omen pada musuh, yang akan meningkatkan DMG yang diterima, dan juga meningkatkan DMG serangan yang memicu efek ini;\n·Illusory Bubble akan pecah dan mengakibatkan <color=#80C0FFFF>Hydro DMG</color>.\n\n<color=#FFD780FF>Omen</color>\nMeningkatkan DMG yang diterima musuh selama durasi Omen.\n\n<i>Sejak pertama kali para dewa menulusuri cahaya di langit dengan mata mereka, di situlah lahirnya sebuah \"takdir\".</i>",
       "th": "รวบรวมคลื่นน้ำอันใสสะอาด และเป็นประกาย สะท้อนเป็นภาพมายา แห่งดวงดาว จากนั้นทำให้ศัตรูติดสถานะ Illusory Bubble เป็นวงกว้าง\n\n<color=#FFD780FF>Illusory Bubble</color>\nกักขังศัตรูด้วยฟองอากาศแห่งโชคชะตา เพิ่มสถานะ<color=#80C0FFFF>เปียกชุ่ม</color> ศัตรูที่ค่อนข้างอ่อนแอ จะถูกกักขังด้วย ฟองอากาศ Illusory Bubble และไม่สามารถขยับได้\nเมื่อศัตรูที่อยู่ภายใต้ผลกระทบของ Illusory Bubble ได้รับความเสียหาย จะเกิดเอฟเฟกต์ดังนี้:\n·เพิ่มเอฟเฟกต์โบนัสความเสียหาย Omen แก่ศัตรู และเพิ่มความเสียหายจากการโจมตีครั้งนี้;\n·เอฟเฟกต์ Illusory Bubble จะหายไป และ<color=#80C0FFFF>สร้างความเสียหายน้ำ</color>เพิ่ม 1 ครั้ง\n\n<color=#FFD780FF>Omen</color>\nภายในช่วงระยะเวลาต่อเนื่อง ความเสียหายที่ได้รับจะเพิ่มขึ้น\n\n<i>ตั้งแต่ที่ดวงตาของเทพเจ้านั้น เริ่มที่จะดึงดูดแสงสว่างบนท้องฟ้า โชคชะตาจึงถูกเรียกว่า โชคชะตาเป็นต้นมา</i>",
       "vi": "Sóng nước ngưng tụ phản chiếu tinh không hư ảo, thi triển trạng thái Bóng Nước cho địch trong phạm vi lớn.\n\n<color=#FFD780FF>Bóng Nước</color>\nDùng bong bóng bao lấy kẻ địch, thi triển trạng thái <color=#80C0FFFF>Ẩm Ướt</color>, giam cầm kẻ yếu đuối trong bóng nước.\nKẻ địch trong trạng thái Bóng Nước chịu phải sát thương sẽ có hiệu ứng sau:\n·Tạo ra thêm hiệu quả buff sát thương của Tinh Dị cho địch, tăng sát thương phải chịu ở lần này;\n·Xóa hiệu ứng Bóng Nước và gây thêm một lần <color=#80C0FFFF>sát thương Nguyên Tố Thủy</color>.\n\n<color=#FFD780FF>Tinh Dị</color>\nTrong thời gian duy trì, tăng sát thương chịu phải.\n\n<i>Khi ánh mắt của Thần bắt đầu dẫn dắt ánh sáng trên bầu trời, thì kể từ đó vận mệnh đã được gọi tên là vận mệnh.</i>"
-    },
-    "imgid": "s_413901"
+    }
   },
   {
     "title": {
@@ -161,8 +157,7 @@
       "id": "Jika ada musuh di sekitar, Mona akan menciptakan sebuah bayangan setelah menggunakan <color=#FFD780FF>Illusory Torrent</color> selama 2 detik.\nBayangan yang dibuat dengan cara ini dapat bertahan selama 2 detik, dan DMG ledakannya setara dengan 50% DMG <color=#FFD780FF>Mirror Reflection of Doom</color>.",
       "th": "2 วินาที หลังจากเข้าสู่สภาวะของ <color=#FFD780FF>Illusory Torrent</color> หากมีศัตรูอยู่ในบริเวณรอบตัว จะทำการสร้างภาพลวงตา Phantom ออกมา 1 ตน\nPhantom ที่เกิดขึ้นด้วยวิธีนี้จะคงอยู่ เป็นเวลา 2 วินาที และสร้างความเสียหาย เมื่อแตกกระจายเท่ากับ 50% ของความเสียหายของ <color=#FFD780FF>Mirror Reflection of Doom</color>",
       "vi": "Sau khi vào trạng thái <color=#FFD780FF>dòng chảy ảo</color> 2s, nếu xung quanh có kẻ địch sẽ tự động ngưng tụ thành một ảo ảnh.\nẢo ảnh sinh ra theo cách này sẽ duy trì 2s, sát thương vỡ ra bằng 50% sát thương của <color=#FFD780FF>Ảo Vọng Dưới Nước</color>."
-    },
-    "imgid": "p_412101"
+    }
   },
   {
     "title": {
@@ -194,8 +189,7 @@
       "id": "Meningkatkan <color=#80C0FFFF>Hydro DMG Bonus</color> Mona sebesar 20% dari Energy Recharge.",
       "th": "เพิ่ม<color=#80C0FFFF>โบนัสความเสียหายน้ำ</color>ของ Mona ขึ้น โดยระดับที่เพิ่มจะเท่ากับ 20% ของประสิทธิภาพการฟื้นฟูพลังงาน ของเธอ",
       "vi": "Tăng thêm <color=#80C0FFFF>buff sát thương Nguyên Tố Thủy</color> của Mona, mức tăng bằng 20% hiệu quả nạp nguyên tố của Mona."
-    },
-    "imgid": "p_412201"
+    }
   },
   {
     "title": {
@@ -227,7 +221,6 @@
       "id": "Mona memiliki 25% kemungkinan untuk mendapatkan kembali material yang digunakan saat membuat Material Ascension Senjata.",
       "th": "เมื่อสร้างวัสดุเลื่อนขั้นอาวุธ จะมีโอกาส 25% ที่จะได้รับวัสดุส่วนหนึ่งที่ใช้ไปคืน",
       "vi": "Khi ghép nguyên liệu đột phá vũ khí, có tỷ lệ 25% hoàn trả một phần nguyên liệu ghép."
-    },
-    "imgid": "p_412301"
+    }
   }
 ]

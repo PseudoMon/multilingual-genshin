@@ -12,7 +12,7 @@
       "pt": "Ataque Normal: Disparo Liutian",
       "ru": "Небесная стрела",
       "id": "Normal Attack: Liutian Archery",
-      "th": "โจมตีปกติ - Liutian Archery",
+      "th": "โจมตีปกติ: Liutian Archery",
       "vi": "Tấn Công Thường - Lưu Thiên Xạ Thuật"
     },
     "description": {
@@ -29,8 +29,7 @@
       "id": "<color=#FFD780FF>Normal Attack</color>\nMelancarkan hingga 6 serangan berturut-turut dengan busur.\n\n<color=#FFD780FF>Charged Attack</color>\nMelancarkan sebuah <color=#FFD780FF>Serangan Membidik</color> yang lebih akurat untuk mengakibatkan DMG lebih besar.\nSaat membidik, es akan berkumpul di ujung anak panah. Memiliki efek yang berbeda tergantung dari lama serangannya ditahan:\n·Charge Tahap 1: Menembakkan panah es yang mengakibatkan <color=#99FFFFFF>Cryo DMG</color>.\n·Charge Tahap 2: Menembakkan Frostflake Arrow yang mengakibatkan <color=#99FFFFFF>Cryo DMG</color>. Frostflake Arrow akan mengembang setelah mengenai target untuk mengakibatkan <color=#99FFFFFF>Cryo DMG area</color>.\n\n<color=#FFD780FF>Plunging Attack</color>\nMelancarkan hujan panah dari udara dan menerjang tanah dengan kecepatan tinggi, mengakibatkan DMG area saat mendarat.",
       "th": "<color=#FFD780FF>โจมตีปกติ</color>\nยิงธนูโจมตีต่อเนื่องมากสุดถึงหกครั้ง\n\n<color=#FFD780FF>ชาร์จโจมตี</color>\nการ<color=#FFD780FF>เล็งโจมตี</color>จะสร้างความเสียหายเพิ่มขึ้น และแม่นยำยิ่งขึ้น\nเมื่อเล็งโจมตี ไอแห่งความเย็นจะถูกรวบรวม บนหัวของลูกศรและยิงออกไป โดยเอฟเฟกต์ที่เกิดจะแตกต่างกันไป ตามช่วงเวลาที่เล็งชาร์จดังนี้:\n·ชาร์จระดับ 1: ยิงธนูที่มีไอเย็น สร้าง<color=#99FFFFFF>ความเสียหายน้ำแข็ง</color>；\n·ชาร์จระดับ 2: ยิงธนู Frostflake Arrow สร้าง<color=#99FFFFFF>ความเสียหายน้ำแข็ง</color> หลังยิงถูกเป้าหมายจะบานออกเป็น Frostflake Arrow Bloom และสร้าง <color=#99FFFFFF>ความเสียหายน้ำแข็งวงกว้าง</color>อีกครั้ง\n\n<color=#FFD780FF>โจมตีพุ่งลงจากอากาศ</color>\nปล่อยฝนธนูจากกลางอากาศและพุ่ง ลงมายังพื้นดินเพื่อโจมตีอย่างรวดเร็ว โดยจะสร้างความเสียหายวงกว้างเมื่อลง ถึงพื้น",
       "vi": "<color=#FFD780FF>Tấn Công Thường</color>\nLiên tục bắn tên, tối đa 6 lần.\n\n<color=#FFD780FF>Trọng kích</color>\nCó thể <color=#FFD780FF>ngắm bắn</color> chính xác hơn, sát thương cao hơn.\nKhi ngắm bắn, dòng không khí lạnh sẽ ngưng tụ liên tục trên mũi tên và bắn ra cùng lúc tấn công. Căn cứ thời gian tụ lực dài hay ngắn sẽ gây ra hiệu quả khác nhau:\n·Tụ lực lần 1: Bắn mũi tên có khí lạnh gây <color=#99FFFFFF>sát thương Nguyên Tố Băng</color>;\n·Tụ lực lần 2: Bắn Cung Sương Hoa gây <color=#99FFFFFF>sát thương Nguyên Tố Băng</color>; sau khi bắn trúng, sương giá tung bay, gây thêm <color=#99FFFFFF>Sát Thương Phạm Vi Nguyên Tố Băng</color>.\n\n<color=#FFD780FF>Tấn Công Khi Đáp</color>\nBắn mưa tên từ trên không, đồng thời lao nhanh xuống mặt đất, gây sát thương phạm vi khi chạm đất."
-    },
-    "imgid": "s_373101"
+    }
   },
   {
     "title": {
@@ -62,8 +61,7 @@
       "id": "Dengan meninggalkan sebuah Ice Lotus, Ganyu meloncat mundur dengan cepat, membuang semua ketidakmurnian dan mengakibatkan <color=#99FFFFFF>Cryo DMG area</color>.\n\n<color=#FFD780FF>Ice Lotus</color>\n·Terus menarik perhatian musuh di sekitar untuk menyerangnya.\n·HP Ice Lotus mewarisi Max HP Ganyu berdasarkan persentase tertentu.\n·Saat dihancurkan atau durasinya berakhir, Ice Lotus akan mengembang dengan hebat dan mengakibatkan <color=#99FFFFFF>Cryo DMG area</color>.\n\n<i>\"Kamu melihatku? Pasti salah, aku sedang lembur saat itu.\"</i>",
       "th": "Ganyu ทิ้ง Ice Lotus ไว้ดอกหนึ่ง แล้วพุ่งตัวถอยหลังอย่างรวดเร็ว เพื่อออกห่างจากสิ่งชั่วร้ายทั้งปวง และสร้าง<color=#99FFFFFF>ความเสียหายน้ำแข็งวงกว้าง</color>\n\n<color=#FFD780FF>Ice Lotus</color>\n·จะยั่วยุศัตรูที่อยู่โดยรอบ และดึงดูดการโจมตีของศัตรู;\n·ระดับความทนทาน จะขึ้นกับอัตราส่วนพลังชีวิตสูงสุดที่ได้รับสืบทอดมาจาก Ganyu\n·เมื่อถูกทำลาย หรือสิ้นสุดช่วงเวลาต่อเนื่อง จะบานออกอย่างเต็มที่ และทำให้เกิด<color=#99FFFFFF>ความเสียหายน้ำแข็งวงกว้าง</color>\n\n<i>\"คุณบอกว่าเห็นฉันงั้นเหรอ? คิดไปเองรึเปล่า ตอนนั้นฉันทำงานล่วงเวลาอยู่นะ\"</i>",
       "vi": "Ganyu để lại một đóa sen băng rồi lùi nhanh về phía sau, tránh xa tất cả yêu ma, gây <color=#99FFFFFF>Sát Thương Phạm Vi Nguyên Tố Băng</color>.\n\n<color=#FFD780FF>Băng Liên</color>\n·Liên tục khiêu khích kẻ địch xung quanh, thu hút địch tấn công;\n·Độ bền sẽ kế thừa căn cứ theo tỷ lệ giới hạn HP của Ganyu;\n·Khi bị phá hủy hoặc hết thời gian sẽ nở rộ, gây <color=#99FFFFFF>Sát Thương Phạm Vi Nguyên Tố Băng</color>.\n\n<i>\"Bạn nhìn thấy tôi à? Chắc chỉ là ảo giác thôi, lúc đó tôi đang tăng ca mà.\"</i>"
-    },
-    "imgid": "s_373201"
+    }
   },
   {
     "title": {
@@ -95,8 +93,7 @@
       "id": "Mengumpulkan es dan salju di udara untuk memanggil Sacred Cryo Pearl yang membasmi iblis.\nSelama durasi skill, Sacred Cryo Pearl akan terus menjatuhkan bongkahan es yang mengenai musuh dalam area dan mengakibatkan <color=#99FFFFFF>Cryo DMG</color>.\n\n<i>Ganyu tentunya dapat membuat hujan manis, tapi terhadap iblis dan monster, hujannya menjadi salju yang dingin dan pahit.</i>",
       "th": "ควบแน่นน้ำแข็งขึ้นในอากาศ เพื่อเรียก Sacred Cryo Pearl ที่ขับไล่สิ่งชั่วร้ายออกมา\nภายในช่วงเวลาคงอยู่ Sacred Cryo Pearl จะปล่อยสะเก็ดน้ำแข็งลงมาอย่างต่อเนื่อง เพื่อโจมตีศัตรูที่อยู่ในพื้นที่ และสร้าง<color=#99FFFFFF>ความเสียหายน้ำแข็ง</color>\n\n<i>Ganyu สามารถสร้างหยาดฝนแสนหวาน ได้ตามใจชอบ แต่สำหรับเหล่าปีศาจร้าย ฝนเหล่านี้จะกลายเป็นหิมะที่ขม และหนาวเหน็บ</i>",
       "vi": "Ngưng tụ sương tuyết trong không khí, triệu hồi Linh Châu Băng diệt ma.\nTrong thời gian tồn tại, Linh Châu Băng sẽ không ngừng giáng Nhũ Băng xuống, tấn công kẻ địch trong phạm vi, gây <color=#99FFFFFF>Sát Thương Nguyên Tố Băng</color>.\n\n<i>Đương nhiên Ganyu có thể giáng cơn mưa mát lành xuống, nhưng đối với tà ma ngoại đạo, những thứ này đều sẽ hóa thành bông tuyết khổ đau.</i>"
-    },
-    "imgid": "s_373901"
+    }
   },
   {
     "title": {
@@ -128,8 +125,7 @@
       "id": "Setelah menembakkan sebuah Frostflake Arrow, meningkatkan 20% CRIT Rate dari Frostflake Arrow berikutnya serta efek ledakan yang disebabkan olehnya selama 5 detik.",
       "th": "ภายใน 5 วินาที หลังจากยิง Frostflake Arrow จะทำให้ Frostflake Arrow ที่ยิงในครั้งต่อไป และการเบ่งบานที่เกิดขึ้นจาก Frostflake Arrow เหล่านั้นมีอัตราคริเพิ่มขึ้น 20%",
       "vi": "Trong vòng 5s sau khi Cung Sương Hoa bắn ra, sẽ khiến cho Cung Sương Hoa được bắn ra tiếp theo và Sương Giá Tung Bay được tạo ra từ những Cung Sương Hoa này tăng 20% tỷ lệ bạo kích."
-    },
-    "imgid": "p_372101"
+    }
   },
   {
     "title": {
@@ -137,7 +133,7 @@
       "zht": "天地交泰",
       "jp": "天地安泰",
       "ko": "천지교태",
-      "en": "Harmony between Heaven and Earth",
+      "en": "Harmony Between Heaven and Earth",
       "de": "Frieden zwischen Himmel und Erde",
       "es": "Armonía entre el Cielo y la Tierra",
       "fr": "Harmonie du ciel et de la terre",
@@ -161,8 +157,7 @@
       "id": "<color=#FFD780FF>Celestial Shower</color> memberikan 20% <color=#99FFFFFF>Cryo DMG Bonus</color> kepada anggota party yang berada di dalam lingkup areanya.",
       "th": "ตัวละครในทีมที่เข้าร่วมการต่อสู้ในขณะนั้น และอยู่ในพื้นที่ของ <color=#FFD780FF>Celestial Shower</color> จะได้รับ<color=#99FFFFFF>โบนัสความเสียหายน้ำแข็ง</color> 20%",
       "vi": "Nhân vật trong đội đang trong trận ở khu vực <color=#FFD780FF>Thiên Hoa Hạ Phàm</color> sẽ nhận 20% <color=#99FFFFFF>tăng sát thương Nguyên Tố Băng</color>."
-    },
-    "imgid": "p_372201"
+    }
   },
   {
     "title": {
@@ -194,7 +189,6 @@
       "id": "Mengembalikan 15% jumlah Ore yang digunakan saat membuat senjata tipe Bow.",
       "th": "เมื่อสร้างอาวุธประเภทธนู จะได้รับแร่ที่ใช้ในการหลอมคืน 15%",
       "vi": "Khi rèn vũ khí loại cung, hoàn trả 15% Khoáng Thạch tiêu hao."
-    },
-    "imgid": "p_372301"
+    }
   }
 ]

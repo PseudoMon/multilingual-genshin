@@ -1,0 +1,194 @@
+[
+  {
+    "title": {
+      "zhs": "普通攻击·忍流飞刃斩",
+      "zht": "普通攻擊·忍流飛刃斬",
+      "jp": "通常攻撃·忍流飛刃斬り",
+      "ko": "일반 공격·시노부류 비인참",
+      "en": "Normal Attack: Shinobu's Shadowsword",
+      "de": "Standardangriff: Shinobus fliegender Schwerthieb",
+      "es": "Ataque Normal: Corte alado Shinobu",
+      "fr": "Attaque normale : Lame volante",
+      "pt": "Ataque Normal: Lâmina Escondida de Shinobu",
+      "ru": "Теневой меч Синобу",
+      "id": "Normal Attack: Shinobu's Shadowsword",
+      "th": "โจมตีปกติ: Shinobu's Shadowsword",
+      "vi": "Tấn Công Thường - Lưỡi Kiếm Shinobu"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>普通攻击</color>\n进行至多四段的连续剑击。\n\n<color=#FFD780FF>重击</color>\n消耗一定体力，瞬间向前方挥出两剑。\n\n<color=#FFD780FF>下落攻击</color>\n从空中下坠冲击地面，攻击下落路径上的敌人，并在落地时造成范围伤害。",
+      "zht": "<color=#FFD780FF>普通攻擊</color>\n進行至多四段的連續劍擊。\n\n<color=#FFD780FF>重擊</color>\n消耗一定體力，瞬間向前方揮出兩劍。\n\n<color=#FFD780FF>下落攻擊</color>\n從空中下墜衝擊地面，攻擊下落路徑上的敵人，並在落地時造成範圍傷害。",
+      "jp": "<color=#FFD780FF>通常攻撃</color>\n剣による最大4段の連続攻撃を行う。\n\n<color=#FFD780FF>重撃</color>\n一定のスタミナを消費し、前方に斬撃を2回放つ。\n\n<color=#FFD780FF>落下攻撃</color>\n空中から落下し地面に衝撃を与える。経路上の敵を攻撃し、落下時に範囲ダメージを与える。",
+      "ko": "<color=#FFD780FF>일반 공격</color>\n검으로 최대 4번 공격한다.\n\n<color=#FFD780FF>강공격</color>\n일정 스태미나를 소모해 순간적으로 전방을 향해 검을 2번 휘두른다.\n\n<color=#FFD780FF>낙하 공격</color>\n공중에서 땅을 내려찍어 경로상의 적을 공격하고, 착지 시 범위 피해를 준다",
+      "en": "<color=#FFD780FF>Normal Attack</color>\nPerform up to 4 rapid strikes.\n\n<color=#FFD780FF>Charged Attack</color>\nConsumes a certain amount of Stamina to unleash 2 rapid sword strikes.\n\n<color=#FFD780FF>Plunging Attack</color>\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+      "de": "<color=#FFD780FF>Standardangriff</color>\nFührt bis zu 4 Schwerthiebe hintereinander aus.\n\n<color=#FFD780FF>Heftiger Schlag</color>\nVerbraucht eine gewisse Menge Ausdauer und schwingt das Schwert zweimal schnell nach vorn.\n\n<color=#FFD780FF>Angriff aus dem Fall</color>\nSchlägt beim Fallen aus der Luft auf den Boden, greift alle Gegner in der Bahn an und verursacht beim Aufkommen Flächenschaden.",
+      "es": "<color=#FFD780FF>Ataque Normal</color>\nRealiza hasta 4 ataques rápidos.\n\n<color=#FFD780FF>Ataque Cargado</color>\nConsume una cierta cantidad de Aguante para lanzar un golpe de espada cruzado.\n\n<color=#FFD780FF>Ataque Descendente</color>\nSe lanza desde el aire para golpear el suelo, dañando a los enemigos cercanos e infligiendo Daño en el AdE en el momento del impacto.",
+      "fr": "<color=#FFD780FF>Attaque normale</color>\nEnchaîne jusqu'à 4 coups d'épée.\n\n<color=#FFD780FF>Attaque chargée</color>\nConsomme de l'endurance pour déclencher deux coups d'épée rapides.\n\n<color=#FFD780FF>Attaque plongeante</color>\nPlonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis en chemin et des DGT de zone à l'impact.",
+      "pt": "<color=#FFD780FF>Ataque Normal</color>\nRealiza até 4 golpes rápidos.\n\n<color=#FFD780FF>Ataque Carregado</color>\nConsome uma certa quantidade de Stamina para desferir 2 golpes rápidos com a espada.\n\n<color=#FFD780FF>Ataque Imersivo</color>\nMergulha em pleno ar para golpear o chão, causando Dano aos inimigos ao longo do caminho e infligindo Dano em uma AdE durante o impacto.",
+      "ru": "<color=#FFD780FF>Обычная атака:</color>\nДо четырёх быстрых ударов мечом.\n\n<color=#FFD780FF>Заряженная атака:</color>\nТратит определённое количество выносливости на два быстрых взмаха мечом.\n\n<color=#FFD780FF>Атака в падении:</color>\nСтремительно падает на землю, атакуя всех врагов на пути. Приземлившись, наносит урон по площади.",
+      "id": "<color=#FFD780FF>Normal Attack</color>\nMelancarkan hingga 4 serangan berturut-turut.\n\n<color=#FFD780FF>Charged Attack</color>\nMengonsumsi sejumlah Stamina untuk melancarkan dua tebasan pedang.\n\n<color=#FFD780FF>Plunging Attack</color>\nMenerjang dari udara untuk menghantam tanah, mengakibatkan DMG pada musuh di jalur terjangan dan mengakibatkan DMG area saat mendarat.",
+      "th": "<color=#FFD780FF>โจมตีปกติ</color>\nโจมตีด้วยดาบต่อเนื่องมากสุด 4 ครั้ง\n\n<color=#FFD780FF>ชาร์จโจมตี</color>\nใช้พลังกายส่วนหนึ่งเพื่อฟาดฟันดาบ ออกไปข้างหน้า 2 ครั้ง ในช่วงเวลาสั้น ๆ\n\n<color=#FFD780FF>โจมตีพุ่งลงจากอากาศ</color>\nกระโจนจากกลางอากาศลงมายังพื้นดิน เพื่อโจมตีศัตรูที่อยู่ในเส้นทางการโจมตี โดยจะสร้างความเสียหายวงกว้างเมื่อลงถึงพื้น",
+      "vi": "<color=#FFD780FF>Tấn Công Thường</color>\nThực hiện tối đa 4 lần đánh kiếm liên tiếp.\n\n<color=#FFD780FF>Trọng Kích</color>\nTiêu hao thể lực nhất định, đánh ra hai kiếm về phía trước trong chớp mắt.\n\n<color=#FFD780FF>Tấn Công Khi Đáp</color>\nĐáp xuống đất từ trên không, tấn công kẻ địch trên đường và gây sát thương phạm vi khi chạm đất."
+    }
+  },
+  {
+    "title": {
+      "zhs": "越祓雷草之轮",
+      "zht": "越祓雷草之輪",
+      "jp": "越祓雷草の輪",
+      "ko": "제액의 뇌초지륜",
+      "en": "Sanctifying Ring",
+      "de": "Grasring der Reinigung",
+      "es": "Anillo purificador herboatronador",
+      "fr": "Anneau de consécration",
+      "pt": "Anel Santificador",
+      "ru": "Освящающее кольцо",
+      "id": "Sanctifying Ring",
+      "th": "Sanctifying Ring",
+      "vi": "Vòng Cỏ Sấm Thánh Hóa"
+    },
+    "description": {
+      "zhs": "编结越祓草轮，消耗一部分生命值，对周围的敌人造成<color=#FFACFFFF>雷元素伤害</color>。\n\n<color=#FFD780FF>越祓草轮</color>\n将跟随当前场上角色。每1.5秒，对周围的敌人造成<color=#FFACFFFF>雷元素伤害</color>，并为范围内的当前场上角色恢复生命值，回复量受益于久岐忍的生命值上限。\n\n施放该技能所消耗的生命值，至多使久岐忍的生命值降低至20%。\n\n<i>鸣草结环，系于腰际，以驱邪祟。</i>",
+      "zht": "編結越祓草輪，消耗一部分生命值，對周圍的敵人造成<color=#FFACFFFF>雷元素傷害</color>。\n\n<color=#FFD780FF>越祓草輪</color>\n將跟隨目前場上角色。每1.5秒，對周圍的敵人造成<color=#FFACFFFF>雷元素傷害</color>，並為範圍內的目前場上角色恢復生命值，回復量受益於久岐忍的生命值上限。\n\n施放該技能所消耗的生命值，至多使久岐忍的生命值降低至20%。\n\n<i>鳴草結環，繫於腰際，以驅邪祟。</i>",
+      "jp": "越祓草輪を編み、一定のHPを消費して周囲の敵に<color=#FFACFFFF>雷元素ダメージ</color>を与える。\n\n<color=#FFD780FF>越祓草輪</color>\nフィールド上のキャラクターと共に移動する。1.5秒毎に周囲の敵に<color=#FFACFFFF>雷元素ダメージ</color>を与え、範囲内のフィールド上キャラクターのHPを回復する。回復量は久岐忍のHP上限によって決まる。\n\nスキル発動によるHP消費によって、久岐忍の残りHPが20%を下回ることはない。\n\n<i>腰に鳴草の輪を結び、邪祟を祓わん。</i>",
+      "ko": "제액의 륜을 만들어 HP 일부를 소모해 주변의 적에게 <color=#FFACFFFF>번개 원소 피해</color>를 준다.\n\n<color=#FFD780FF>제액의 륜</color>\n현재 필드 위 캐릭터를 따라다니며 1.5초 마다 주변의 적에게 <color=#FFACFFFF>번개 원소 피해</color>를 주고, 현재 범위 내에 있는 필드 위 캐릭터의 HP를 회복한다. 회복량은 쿠키 시노부 HP 최대치의 영향을 받는다.\n\n해당 스킬 사용으로 쿠키 시노부 HP의 20%까지만 소모된다.\n\n<i>울림풀을 묶어 허리에 차면 사악한 기운을 물리칠 수 있어</i>",
+      "en": "Creates a Grass Ring of Sanctification at the cost of part of her HP, dealing <color=#FFACFFFF>Electro DMG</color> to nearby opponents.\n\n<color=#FFD780FF>Grass Ring of Sanctification</color>\nFollows your current active character around. Deals <color=#FFACFFFF>Electro DMG</color> to nearby opponents every 1.5s and restores HP for active character(s) within the ring's AoE based on Kuki Shinobu's Max HP.\n\nThe HP consumption from using this skill can only bring her to 20% HP.\n\n\"<i>Band the Naku Weed into a loop about your waist, and it shall exorcise evil.</i>\"",
+      "de": "Flechtet auf Kosten eines Teils der eigenen LP einen Grasring, der Gegnern in der Umgebung <color=#FFACFFFF>Elektro-Schaden</color> zufügt.\n\n<color=#FFD780FF>Grasring</color>\nFolgt der aktuellen Figur, fügt Gegnern in der Umgebung alle 1,5 s <color=#FFACFFFF>Elektro-Schaden</color> zu und stellt basierend auf Kuki Shinobus max. LP den aktuellen Figuren LP wieder her.\n\nVerringert Kuki Shinobus LP beim Auslösen dieser Fähigkeit höchstens auf 20 %.\n\n<i>Flechte einen Ring aus Naku-Kraut und trage ihn an der Taille, um böse Geister zu vertreiben.</i>",
+      "es": "Consume una parte de la Vida del personaje para crear un anillo purificador que inflige <color=#FFACFFFF>Daño Electro</color> a los enemigos cercanos.\n\n<color=#FFD780FF>Anillo purificador</color>\nAcompaña al personaje en uso para infligir <color=#FFACFFFF>Daño Electro</color> cada 1.5 s contra los enemigos de alrededor y regenerar Vida a los personajes en uso que estén en el AdE del anillo. La cantidad de Vida regenerada varía en función de la Vida Máx. de Kuki Shinobu.\n\nLa Vida consumida para usar esta habilidad no reducirá la Vida actual de Kuki Shinobu por debajo del 20%.\n\n<i>Un anillo de percibetormentas se forma en su cintura para expulsar la energía impura.</i>",
+      "fr": "#Sacrifie une partie des PV pour créer un anneau d'herbes de consécration qui inflige des <color=#FFACFFFF>DGT Électro</color> aux ennemis proches.\n\n<color=#FFD780FF>Anneau d'herbes de consécration</color>\nSuit le personnage déployé pour infliger des <color=#FFACFFFF>DGT Électro</color> aux ennemis proches et restaurer les PV des personnages déployés à portée d'une valeur proportionnelle aux PV max de Kuki Shinobu, ces deux effets se déclenchant une fois toutes les 1,5{NON_BREAK_SPACE}s.\n\nLe sacrifice de PV de cette compétence ne fera pas tomber les PV de Kuki Shinobu en dessous de 20 %.\n\n<i>Enroulez les herbes à sanglots autour de votre taille et ça exorcisera le mal !</i>",
+      "pt": "Cria um Anel de Grama Santificada que consome parte da Vida para infligir <color=#FFACFFFF>Dano Electro</color> contra os inimigos ao redor.\n\n<color=#FFD780FF>Anel de Grama Santificada</color>.\nSegue o personagem ativo no campo de batalha. A cada 1.5s inflige <color=#FFACFFFF>Dano Electro</color> contra os inimigos ao redor e regenera Vida para personagens dentro da AdE do anel no campo de batalha. A quantidade de Vida restaurada é baseada na Vida Máxima de Kuki Shinobu.\n\nA Vida consumida para usar essa habilidade não reduzirá a Vida atual de Kuki Shinobu para menos de 20%.\n\n<i>Amarre a Erva Naku na sua cintura que ela exorcizará o mal</i>.",
+      "ru": "Жертвует частью HP и создаёт Травяное кольцо освящения, нанося <color=#FFACFFFF>Электро урон</color> ближайшим противникам.\n\n<color=#FFD780FF>Травяное кольцо освящения</color>\nСледует за активным персонажем. Каждые 1,5 сек. наносит <color=#FFACFFFF>Электро урон</color> окружающим противникам и восстанавливает HP активному персонажу в зоне действия. Количество восстановленного HP зависит от макс. HP Куки Синобу.\n\nИспользование навыка не может опустить HP Синобу ниже 20%.\n\n<i>«Завяжи траву наку вокруг талии, и она отгонит зло».</i>",
+      "id": "Menciptakan Grass Ring of Sanctification dengan mengorbankan sebagian dari HP-nya, mengakibatkan <color=#FFACFFFF>Electro DMG</color> kepada musuh di sekitarnya.\n\n<color=#FFD780FF>Grass Ring of Sanctification</color>\nMengikuti Karakter aktif. Mengakibatkan <color=#FFACFFFF>Electro DMG</color> kepada musuh di sekitar setiap 1,5 detik dan memulihkan HP Karakter aktif di dalam Area efeknya berdasarkan Max HP Kuki Shinobu.\n\nHP yang terkonsumsi akibat penggunaan skill ini akan mengurangi HP Shinobu sampai batas 20% maksimum.\n\n<i>Ikat Naku Weed secara melingkar di pinggangmu, dan itu bisa membantumu mengusir roh jahat.</i>",
+      "th": "สร้าง Grass Ring of Sanctification ขึ้นมา โดยแลกเปลี่ยนกับพลังชีวิตส่วนหนึ่ง เพื่อสร้าง<color=#FFACFFFF>ความเสียหายไฟฟ้า</color>แก่ศัตรูที่อยู่โดยรอบ\n\n<color=#FFD780FF>Grass Ring of Sanctification</color>\nจะเคลื่อนที่ตามตัวละครที่เข้าร่วมการต่อสู้ในขณะนั้น โดยที่ทุก 1.5 วินาที จะสร้าง<color=#FFACFFFF>ความเสียหายไฟฟ้า</color>แก่ศัตรูที่อยู่โดยรอบ และฟื้นฟูพลังชีวิตของตัวละครที่เข้าร่วมการต่อสู้ในขณะนั้นที่อยู่ในพื้นที่ ซึ่งปริมาณการฟื้นฟู จะขึ้นอยู่กับพลังชีวิตสูงสุดของ Kuki Shinobu\n\nพลังชีวิตที่ถูกใช้ไปในการปล่อยสกิลนี้ จะทำให้พลังชีวิตของ Kuki Shinobu ลดลงต่ำสุดถึง 20% เท่านั้น\n\n<i>ทำ Naku Weed เป็นวง แล้วเอามาคาดตรงช่วงเอว เพื่อขับไล่สิ่งชั่วร้าย</i>",
+      "vi": "Kết Vòng Cỏ Thánh Hóa, tiêu hao một lượng HP để gây <color=#FFACFFFF>Sát Thương Nguyên Tố Lôi</color> cho kẻ địch xung quanh.\n\n<color=#FFD780FF>Vòng Cỏ Thánh Hóa</color>\nSẽ đi theo nhân vật trong trận. Mỗi 1.5s sẽ gây <color=#FFACFFFF>Sát Thương Nguyên Tố Lôi</color> cho kẻ địch xung quanh, đồng thời hồi phục HP cho nhân vật đang chiến đấu trong đó, lượng hồi phục sẽ căn cứ vào giới hạn HP của Kuki Shinobu.\n\nLượng HP tiêu hao để thi triển kỹ năng này tối đa chỉ khiến HP của Kuki Shinobu giảm đến 20%\n\n<i>Vòng cỏ Naku kết bên hông, có tác dụng xua đuổi tà ma.</i>"
+    }
+  },
+  {
+    "title": {
+      "zhs": "御咏鸣神刈山祭",
+      "zht": "御詠鳴神刈山祭",
+      "jp": "御詠鳴神刈山祭",
+      "ko": "교에 나루카미 카리야마 의식",
+      "en": "Gyoei Narukami Kariyama Rite",
+      "de": "Gyoei-Narukami-Kariyama-Ritual",
+      "es": "Eleusinia de Narukami",
+      "fr": "Rituel des semoirs de Narukami",
+      "pt": "Ritual Semeador Narukami",
+      "ru": "Обряд Гёэй Наруками Карияма",
+      "id": "Gyoei Narukami Kariyama Rite",
+      "th": "Gyoei Narukami Kariyama Rite",
+      "vi": "Nghi Lễ Gyoei Narukami Kariyama"
+    },
+    "description": {
+      "zhs": "将退邪之刃刺入地面，在前方创造清净邪物的结界，基于久岐忍的生命值上限，对其中的敌人持续造成<color=#FFACFFFF>雷元素伤害</color>。\n施放时，若久岐忍的生命值低于或等于50%，结界的持续时间将会延长。\n\n<i>原本是用于割除杂草，祈祷来年丰收的祭祷之术，忍在结束巫女生涯后，也并未将此忘记。</i>",
+      "zht": "將退邪之刃刺入地面，在前方創造清淨邪物的結界，基於久岐忍的生命值上限，對其中的敵人持續造成<color=#FFACFFFF>雷元素傷害</color>。\n施放時，若久岐忍的生命值低於或等於50%，則結界的持續時間將會延長。\n\n<i>原本是用於割除雜草，祈禱來年豐收的祭禱之術，忍在結束巫女生涯後，也並未將此忘記。</i>",
+      "jp": "退邪の刃を地面に突き刺し、邪悪なるものを祓う結界を前方に張って、その中にいる敵に<color=#FFACFFFF>雷元素ダメージ</color>を継続的に与える。ダメージ量は久岐忍のHP上限によって決まる。\n発動時、久岐忍のHPが50%以下の際、結界の継続時間が延びる。\n\n<i>元々は雑草を刈り、来年の豊作を祈るための祈祷術である。忍は巫女をやめた後も、この術を忘れなかった。</i>",
+      "ko": "퇴마의 칼날을 지면에 꽂아 전방에 있는 요괴를 처단하는 결계를 생성한다. 쿠키 시노부의 HP 최대치에 따라 결계 안의 적에게 지속적으로 <color=#FFACFFFF>번개 원소 피해</color>를 준다.\n발동 시 쿠키 시노부의 HP가 50% 이하일 경우 결계 지속 시간이 연장된다.\n\n<i>원래는 잡초를 베고 풍작을 기원하는 제사 술법이었다. 시노부는 무녀 생활을 그만두고도 이 술법을 기억하고 있다</i>",
+      "en": "Stabs an evil-excoriating blade into the ground, creating a field that cleanses the area of all that is foul, dealing continuous <color=#FFACFFFF>Electro DMG</color> to opponents within its AoE based on Shinobu's Max HP.\nIf Shinobu's HP is less than or equal to 50% when this skill is used, the field will last longer.\n\n<i>This was originally a technique used in weeding and in ritual prayers for the yearly harvest, but Shinobu has not forgotten it, though her life as a shrine maiden may have ended.</i>",
+      "de": "Stößt die Klinge der Geistervertreibung in den Boden und erschafft vor sich eine Barriere, die das Böse beseitigt und Gegnern darin basierend auf Kuki Shinobus max. LP fortlaufend <color=#FFACFFFF>Elektro-Schaden</color> zufügt.\nVerlängert die Wirkungsdauer der Barriere, wenn Kuki Shinobu beim Auslösen der Fähigkeit nicht mehr als 50 % LP hat.\n\n<i>Ursprünglich war es nur eine rituelle Gebetstechnik, mit der man von den Göttern die Ausrottung des Unkrauts und eine gute Ernte im nächsten Jahr erbittet. Nachdem Shinobu ihre Karriere als Schreinjungfer beendet hatte, hat sie diese Technik jedoch nicht in die Mottenkiste gepackt, sondern setzt sie weiterhin für das Wohl der anderen ein.</i>",
+      "es": "Clava una espada exorcizante en el suelo para crear frente a sí misma una barrera purificadora, la cual inflige <color=#FFACFFFF>Daño Electro</color> de forma continua en función de la Vida Máx. de Kuki Shinobu contra los enemigos que se encuentren en el AdE de la barrera.\nSi al usar esta habilidad la Vida de Kuki Shinobu es igual o inferior al 50%, la duración de la barrera será mayor.\n\n<i>Tradicionalmente, esta técnica se usaba para desbrozar, y también, en ciertos rituales como plegaria de abundancia para las cosechas venideras. Sin embargo, Shinobu no la ha olvidado, ni siquiera tras haber dejado atrás su vida como miko.</i>",
+      "fr": "Enfonce une lame d'adjuration dans le sol pour créer une barrière qui purifie la zone de tout ce qui est malsain, infligeant de façon continue des <color=#FFACFFFF>DGT Électro</color> aux ennemis à l'intérieur selon les PV max de Kuki Shinobu.\nSi les PV de Shinobu sont inférieurs ou égaux à 50 % lors de l'utilisation de cette compétence, la barrière dure plus longtemps.\n\n<i>C'était à l'origine une technique utilisée pour le désherbage et les prières rituelles en vue des récoltes annuelles, mais Shinobu ne l'a pas oubliée, même si sa vie de prêtresse du sanctuaire est déjà derrière elle.</i>",
+      "pt": "Crava uma lâmina expurgadora do mal no chão, criando uma barreira purificadora do mal em frente, infligindo <color=#FFACFFFF>Dano Electro</color> contínuo contra os inimigos dentro dela baseado na Vida Máxima de Kuki Shinobu.\nAo lançar essa habilidade, se a Vida de Kuki Shinobu for menor ou igual a 50%, a duração da barreira será prolongada.\n\n<i>Originalmente isso era uma técnica usada em capina e em rituais para colheitas anuais. Apesar de sua vida como sacerdotisa ter acabado, Shinobu não esqueceu disso.</i>",
+      "ru": "Вонзает в землю изгоняющий зло клинок, создавая очищающий барьер, который непрерывно наносит <color=#FFACFFFF>Электро урон</color>, зависящий от макс. HP Синобу.\nЕсли у Синобу осталось не более 50% HP при активации навыка, то барьер продержится дольше. \n\n<i>Первоначально этот навык использовался при прополке и в ежегодных ритуальных молитвах за урожай, но Синобу не забыла его, пусть её жизнь в качестве жрицы и осталась позади.</i>",
+      "id": "Menancapkan pedang pengusir roh jahat di tanah, dan membuat perisai yang membersihkan area yang kotor, mengakibatkan <color=#FFACFFFF>Electro DMG</color> secara berkelanjutan kepada musuh di dalam Area efeknya berdasarkan Max HP Kuki Shinobu.\nJika HP Shinobu kurang atau berada pada 50% saat skill ini digunakan, perisai akan bertahan lebih lama.\n\n<i>Sebenarnya ini teknik yang digunakan saat menyiangi rumput dan ritual doa saat panen, dan walaupun hari-harinya sebagai miko telah berakhir tapi Shinobu tidak pernah lupa dengan teknik ini.</i>",
+      "th": "ปักดาบปราบความชั่วร้ายลงบนพื้นดิน และสร้างเขตแดนชำระล้างสิ่งชั่วร้ายขึ้นมาตรงเบื้องหน้า เพื่อสร้าง<color=#FFACFFFF>ความเสียหายไฟฟ้า</color>แก่ศัตรูที่อยู่ในพื้นที่อย่างต่อเนื่อง โดยขึ้นกับพลังชีวิตสูงสุดของ Kuki Shinobu\nเมื่อใช้สกิล หากพลังชีวิตของ Shinobu ต่ำกว่าหรือเท่ากับ 50% ช่วงเวลาคงอยู่ของเขตแดนจะยาวนานขึ้น\n\n<i>แต่เดิมเป็นศาสตร์ที่ใช้เพื่อถางวัชพืช และประกอบพิธีกรรมในการอธิษฐานขอผลผลิตในแต่ละปี ซึ่ง Shinobu ไม่ได้ลืมเลือนมันไป แม้จะยุติชีวิตการเป็นมิโกะแล้วก็ตาม</i>",
+      "vi": "Cắm thanh kiếm đuổi tà xuống đất, tạo kết giới thanh tẩy tà ma ở phía trước, căn cứ vào giới hạn HP của Kuki Shinobu để liên tục gây <color=#FFACFFFF>Sát Thương Nguyên Tố Lôi</color> cho kẻ địch trong đó.\nKhi thi triển, nếu HP của Shinobu thấp hơn hoặc bằng 50% sẽ tăng thời gian tồn tại của kết giới.\n\n<i>Đây vốn chỉ là kỹ thuật cắt cỏ dại để cầu cho năm sau bội thu, nhưng Shinobu cũng không hề quên, dù cho cuộc đời làm pháp sư của cô đã kết thúc.</i>"
+    }
+  },
+  {
+    "title": {
+      "zhs": "破笼之志",
+      "zht": "破籠之志",
+      "jp": "檻を破る志",
+      "ko": "우리를 부수는 의지",
+      "en": "Breaking Free",
+      "de": "Wille zur Freiheit",
+      "es": "Designio liberador",
+      "fr": "Désir libérateur",
+      "pt": "Ambição Libertadora",
+      "ru": "Освобождение",
+      "id": "Breaking Free",
+      "th": "Breaking Free",
+      "vi": "Ý Chí Đột Phá"
+    },
+    "description": {
+      "zhs": "久岐忍的生命值不高于50%时，治疗加成提升15%。",
+      "zht": "久岐忍的生命值不高於50%時，治療加成提升15%。",
+      "jp": "久岐忍のHPが50%以下の時、与える治療効果+15%。",
+      "ko": "쿠키 시노부의 HP가 50% 미만일 때, 치유 보너스가 15% 증가한다",
+      "en": "When Shinobu's HP is not higher than 50%, her Healing Bonus is increased by 15%.",
+      "de": "Erhöht, wenn Kuki Shinobus LP nicht höher als 50 % sind, ihren Heilungsbonus um 15 %.",
+      "es": "Cuando la Vida de Kuki Shinobu sea igual o inferior al 50%, su Bono de Curación aumenta en un 15%.",
+      "fr": "Augmente le bonus de soins de 15 % quand les PV de Kuki Shinobu sont inférieurs ou égaux à 50 %.",
+      "pt": "Quando a Vida de Kuki Shinobu não for superior a 50%, o Bônus de Cura é aumentado em 15%.",
+      "ru": "Бонус лечения увеличивается на 15%, когда HP Куки Синобу не превышает 50%.",
+      "id": "Saat HP Shinobu tidak lebih dari 50%, maka bonus pemulihannya meningkat 15%.",
+      "th": "ในตอนที่พลังชีวิตของ Kuki Shinobu ไม่เกิน 50% โบนัสการรักษาจะเพิ่มขึ้น 15%",
+      "vi": "Khi HP của Shinobu không cao hơn 50%, lượng trị liệu tăng 15%."
+    }
+  },
+  {
+    "title": {
+      "zhs": "安心之所",
+      "zht": "安心之所",
+      "jp": "安心の処",
+      "ko": "안식처",
+      "en": "Heart's Repose",
+      "de": "Ruheplatz des Herzens",
+      "es": "Retiro espiritual",
+      "fr": "Quiétude du cœur",
+      "pt": "Local da Calma",
+      "ru": "Спокойствие духа",
+      "id": "Heart's Repose",
+      "th": "Heart's Repose",
+      "vi": "Nơi An Lòng"
+    },
+    "description": {
+      "zhs": "基于久岐忍的元素精通，<color=#FFD780FF>越祓雷草之轮</color>获得以下提升：\n·治疗量提升值：元素精通的75%；\n·伤害提升值：元素精通的25%。",
+      "zht": "基於久岐忍的元素精通，<color=#FFD780FF>越祓雷草之輪</color>獲得以下提升：\n·治療量提升值：元素精通的75%；\n·傷害提升值：元素精通的25%。",
+      "jp": "久岐忍の元素熟知を基準に、<color=#FFD780FF>越祓雷草の輪</color>は以下の強化を得る。\n·アップする治療量：元素熟知の75%。\n·アップするダメージ量：元素熟知の25%。",
+      "ko": "쿠키 시노부의 원소 마스터리에 따라 <color=#FFD780FF>제액의 뇌초지륜</color>이 다음 효과를 획득한다.\n·치유량 증가: 원소 마스터리의 75%\n·피해량 증가: 원소 마스터리의 25%",
+      "en": "<color=#FFD780FF>Sanctifying Ring</color>'s abilities will be boosted based on Shinobu's Elemental Mastery:\n·Healing amount will be increased by 75% of Elemental Mastery.\n·DMG dealt is increased by 25% of Elemental Mastery.",
+      "de": "Verleiht <color=#FFD780FF>Grasring der Reinigung</color> basierend auf Kuki Shinobus Elementarkunde folgende Boni:\n· Heilungsbonus: 75 % der Elementarkunde\n· Schadensbonus: 25 % der Elementarkunde",
+      "es": "<color=#FFD780FF>Anillo purificador herboatronador</color> recibe las siguientes bonificaciones en función de la Maestría Elemental de Kuki Shinobu:\n·Aumenta la curación en una cantidad equivalente al 75% de su Maestría Elemental.\n·Aumenta el daño infligido en una cantidad equivalente al 25% de su Maestría Elemental.",
+      "fr": "L'effet d'<color=#FFD780FF>Anneau de consécration</color> s'améliore selon la maîtrise élémentaire de Kuki Shinobu :\n· Augmente les soins de 75 % de sa maîtrise.\n· Augmente les DGT de 25 % de sa maîtrise.",
+      "pt": "<color=#FFD780FF>Anel Santificador</color> obtém os seguintes bônus baseados na Proficiência Elemental de Kuki Shinobu:\n· Aumento de Cura baseado em 75% da Proficiência Elemental;\n· Aumento de Dano baseado em 25% da Proficiência Elemental.",
+      "ru": "Характеристики <color=#FFD780FF>Освящающего кольца</color> улучшаются в зависимости от мастерства стихий Синобу:\n· Лечение увеличивается на 75% от мастерства стихий.\n· Урон увеличивается на 25% от мастерства стихий.",
+      "id": "Kemampuan <color=#FFD780FF>Sanctifying Ring</color> akan menguat berdasarkan Elemental Mastery milik Kuki Shinobu:\n·Jumlah pemulihan akan meningkat sebesar 75% dari Elemental Mastery:\n·DMG yang diakibatkan akan meningkat sebesar 25% dari Elemental Mastery.",
+      "th": "<color=#FFD780FF>Sanctifying Ring</color> จะได้รับโบนัสดังต่อไปนี้ โดยขึ้นกับความชำนาญธาตุของ Shinobu:\n· ปริมาณการรักษาเพิ่มขึ้น: 75% ของความชำนาญธาตุ;\n· สร้างความเสียหายเพิ่มขึ้น: 25% ของความชำนาญธาตุ",
+      "vi": "<color=#FFD780FF>Vòng Cỏ Sấm Thánh Hóa</color> sẽ tăng sức mạnh dựa vào Tinh Thông Nguyên Tố của Shinobu:\n·Tăng lượng trị liệu dựa trên 75% Tinh Thông Nguyên Tố;\n·Tăng sát thương dựa trên 25% Tinh Thông Nguyên Tố."
+    }
+  },
+  {
+    "title": {
+      "zhs": "久时的祝祷",
+      "zht": "久時的祝禱",
+      "jp": "永き刻の祈り",
+      "ko": "오랜 기도",
+      "en": "Protracted Prayers",
+      "de": "Langwierige Gebete",
+      "es": "Plegaria perpetua",
+      "fr": "Prière prolongée",
+      "pt": "Rezas Prolongadas",
+      "ru": "Затянувшаяся молитва",
+      "id": "Protracted Prayers",
+      "th": "Protracted Prayers",
+      "vi": "Lời Cầu Nguyện Lâu Dài"
+    },
+    "description": {
+      "zhs": "在稻妻执行时长为20小时的探索派遣任务时，获得的奖励增加25%。",
+      "zht": "在稻妻執行時長為20小時的探索派遣任務時，獲得的獎勵增加25%。",
+      "jp": "稲妻で20時間かかる探索任務を完了した時、獲得する報酬+25%。",
+      "ko": "이나즈마에서 20시간의 탐사 파견 임무 수행 시 획득하는 보상이 25% 증가한다",
+      "en": "Gains 25% more rewards when dispatched on an Inazuma Expedition for 20 hours.",
+      "de": "Bringt bei 20-stündigen Erkundungsentsendungen in Inazuma 25 % mehr Belohnungen.",
+      "es": "Aumenta en un 25% las recompensas de las expediciones de 20 h en Inazuma.",
+      "fr": "Augmente les récompenses d'une expédition de 20 h à Inazuma de 25 %.",
+      "pt": "Ganha 25% de recompensas a mais quando enviada numa Expedição em Inazuma por 20 horas.",
+      "ru": "На 25% увеличивает награду экспедиций в Инадзуме длительностью 20 ч.",
+      "id": "Ketika dikirim untuk melakukan ekspedisi di Inazuma selama 20 jam, hadiah yang didapatkan akan bertambah 25%.",
+      "th": "เมื่อทำคำขอการออกสำรวจของ Inazuma ที่ใช้เวลา 20 ชั่วโมง รางวัลที่ได้รับจะเพิ่มขึ้น 25%",
+      "vi": "Khi làm nhiệm vụ Phái Đi Thám Hiểm có thời gian là 20 giờ ở Inazuma, phần thưởng nhận được tăng 25%."
+    }
+  }
+]

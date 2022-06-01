@@ -12,7 +12,7 @@
       "pt": "Ataque Normal: Desgraça dos Demônios",
       "ru": "Искоренение зла",
       "id": "Normal Attack: Demonbane",
-      "th": "โจมตีปกติ - Demonbane",
+      "th": "โจมตีปกติ: Demonbane",
       "vi": "Tấn Công Thường - Bốn Cách Diệt Tà"
     },
     "description": {
@@ -29,8 +29,7 @@
       "id": "<color=#FFD780FF>Normal Attack</color> Melancarkan hingga 4 tebasan berturut-turut.\n\n<color=#FFD780FF>Charged Attack</color>\nTerus menguras Stamina untuk melancarkan serangan berputar yang mengakibatkan DMG ke musuh di sekitar.\nDiakhiri dengan sebuah tebasan yang kuat.\n\n<color=#FFD780FF>Plunging Attack</color>\nMenerjang dari udara untuk menghantam tanah, mengakibatkan DMG pada musuh di jalur terjangan dan mengakibatkan DMG area saat mendarat.",
       "th": "<color=#FFD780FF>โจมตีปกติ</color>\nฟาดฟันต่อเนื่องมากสุดสี่ครั้ง\n\n<color=#FFD780FF>ชาร์จโจมตี</color>\nใช้พลังกายอย่างต่อเนื่องเพื่อหมุนโจมตีศัตรูรอบตัวด้วยดาบขนาดใหญ่\nเมื่อหยุดหมุนจะทำการฟันเพิ่มอย่างรุนแรงอีกหนึ่งครั้ง\n\n<color=#FFD780FF>โจมตีพุ่งลงจากอากาศ</color>\nกระโจนจากกลางอากาศลงมายังพื้นดิน เพื่อโจมตีศัตรูที่อยู่ในเส้นทางการโจมตี โดยจะสร้างความเสียหายวงกว้างเมื่อลงถึงพื้น",
       "vi": "<color=#FFD780FF>Tấn Công Thường</color>\nThực hiện tối đa 4 lần chém liên tiếp.\n\n<color=#FFD780FF>Trọng Kích</color>\nTiêu hao thể lực để xoay kiếm tấn công địch xung quanh.\nKhi ngừng quay, sẽ bổ một nhát cực mạnh.\n\n<color=#FFD780FF>Tấn Công Khi Đáp</color>\nĐáp xuống đất từ trên không, tấn công kẻ địch trên đường và gây sát thương phạm vi khi chạm đất."
-    },
-    "imgid": "s_363101"
+    }
   },
   {
     "title": {
@@ -45,7 +44,7 @@
       "pt": "Lâmina Espiritual - Geada de Chongyun",
       "ru": "Духовное лезвие: Холод Чунхуа",
       "id": "Spirit Blade: Chonghua's Layered Frost",
-      "th": "Spirit Blade - Chonghua's Layered Frost",
+      "th": "Spirit Blade: Chonghua's Layered Frost",
       "vi": "Linh Đao - Sương Bạc Trùng Điệp"
     },
     "description": {
@@ -62,8 +61,7 @@
       "id": "Chongyun menghantam tanah dengan pedangnya dan mengakibatkan ledakan Cryo dalam area melingkar di depannya, mengakibatkan <color=#99FFFFFF>Cryo DMG</color>.\nSetelah jeda singkat, udara dingin yang diciptakan oleh ledakan Cryo akan bersatu menjadi sebuah Chonghua Frost Field, dan karakter lain yang menggunakan Sword, Claymore, dan Polearm akan menerima <color=#99FFFFFF>Cryo Infusion</color>.\n\n<i>\"Dengan bunyi sejernih kristal, dan semua menjadi sunyi. Sungai tidak bergerak, dan awan-awan penuh dengan es. Gerbang altar terbuka, dan kejahatan dimusnahkan.\"</i>",
       "th": "Chongyun ฟันดาบใหญ่ลงไปที่พื้น สร้างระเบิดน้ำแข็งในรัศมีพื้นที่วงกว้างด้านหน้าของเขา และสร้าง <color=#99FFFFFF>ความเสียหายน้ำแข็ง</color>ให้กับศัตรู\nจากนั้นไม่นาน ระเบิดน้ำแข็ง จะทำให้เกิดไอเย็นและรวมตัวกันเป็นพื้นที่ Chonghua Frost Field โดยที่ตัวละครที่ใช้ดาบ, ดาบใหญ่ หรือหอกภายในนั้น จะได้รับ<color=#99FFFFFF>พลังแห่งน้ำแข็ง</color>\n\n<i>\"เมื่อ Linlang ส่งเสียง, ทุกสรรพสิ่งเงียบพลัน, แม่น้ำหยุดไหล,เมฆหนักไปด้วยเกล็ดหิมะ, เมื่อประตูแท่นบูชาเปิด, เหล่าวิญญาณร้ายหนีหาย\"</i>",
       "vi": "Chongyun vung cự kiếm đập mạnh xuống mặt đất, gây ra vụ nổ băng ở phạm vi hình tròn phía trước và gây cho địch <color=#99FFFFFF>sát thương Nguyên Tố Băng</color>.\nSau khi gây ngưng trệ ngắn hạn, hàn khí tích tụ thành khu vực Sương Bạc Trùng Điệp, khiến cho nhân vật dùng kiếm đơn, đại kiếm, vũ khí cán dài nhận <color=#99FFFFFF>Nguyên Tố Băng đính kèm</color>.\n\n<i>\"Ngọc vỡ chấn động, bốn bề im ắng. Sông nước bất động, mây trời ngưng tụ. Lập đàn thi pháp, tà ác rút lui.\"</i>"
-    },
-    "imgid": "s_363201"
+    }
   },
   {
     "title": {
@@ -78,12 +76,12 @@
       "pt": "Lâmina Espiritual - Estrela Cadente",
       "ru": "Духовное лезвие: Падение с небес",
       "id": "Spirit Blade: Cloud-parting Star",
-      "th": "Spirit Blade - Cloud-parting Star",
+      "th": "Spirit Blade: Cloud-Parting Star",
       "vi": "Linh Đao - Vân Khai Tinh Lạc"
     },
     "description": {
       "zhs": "重云结印，在前方半空中连续召唤出三柄巨大灵刃，短时间内依次落向地面并爆裂。\n灵刃爆裂时，会造成<color=#99FFFFFF>冰元素范围伤害</color>，并击飞敌人。\n\n<i>「卓剑天地动，冰凌霜寒生。如律令！」</i>",
-      "zht": "重雲結印，在前方半空中連續召喚出三柄巨大靈刃，短時間內依次落向地面並爆裂。\n靈刃爆裂時，會造成<color=#99FFFFFF>冰元素範圍傷害</color>，並擊飛敵人。\n\n<i>「卓劍天地動，冰淩霜寒生。如律令！」</i>",
+      "zht": "重雲結印，在前方半空中連續召喚出三柄巨大靈刃，短時間內依次落向地面並爆裂。\n靈刃爆裂時，會造成<color=#99FFFFFF>冰元素範圍傷害</color>，並擊飛敵人。\n\n<i>「卓劍天地動，冰凌霜寒生。如律令！」</i>",
       "jp": "印を結び、前方の空中に3本の巨大霊刃を召喚する。霊刃は短時間内に1本ずつ地面に落ちて爆裂する。\n霊刃が爆裂する時、<color=#99FFFFFF>氷元素範囲ダメージ</color>を与え、敵を吹き飛ばす。\n\n<i>「卓越した剣が天地を行き交い、寒光がつららとなる。如律令！」</i>",
       "ko": "중운이 결인하니 전방의 허공에서 연속으로 소환된 3개의 거대한 영도가 순서대로 땅에 떨어지면서 폭발한다.\n영도 폭렬 시 <color=#99FFFFFF>얼음 원소 범위 피해</color>를 주고 적을 공중에 띄운다.\n\n<i>「검에 천지가 요동치고, 얼음에 서리가 피어난다. 여율령!」</i>",
       "en": "Performing the secret hand seals, Chongyun summons 3 giant spirit blades in mid-air that fall to the earth one by one after a short delay, exploding as they hit the ground.\nWhen the spirit blades explode, they will deal <color=#99FFFFFF>AoE Cryo DMG</color> and launch opponents.\n\n<i>\"As ice doth give the biting frost birth, My transcendent blade shakes heaven and earth. Heed my summons and come hence!\"</i>",
@@ -95,8 +93,7 @@
       "id": "Melepas segel, Chongyun memanggil 3 pedang raksasa di tengah udara yang jatuh ke tanah dan meledak satu per satu setelah jeda pendek.\nPedangnya mengakibatkan <color=#99FFFFFF>Cryo DMG area</color> dan menghempas musuh saat meledak.\n\n<i>\"Seiring dengan es yang melahirkan dingin membeku, pedangku menggetarkan langit dan bumi. Dengarkan panggilanku, wahai pedang jiwa!\"</i>",
       "th": "Chongyun ปิดผนึกลับ และเรียก ดาบวิญญาณ Spirit Blade ขนาดมหึมา 3 เล่ม ออกมาจากกลางอากาศ ด้านหน้าของเขา ในเวลาอันสั้น มันจะหล่นลงสู่พื้นทีละเล่มและ จะระเบิดเมื่อสัมผัสกับพื้น\nเมื่อ Spirit Blade ระเบิด จะสร้าง <color=#99FFFFFF>ความเสียหายน้ำแข็งวงกว้าง</color> และพุ่งไปโจมตีศัตรู\n\n<i>\"ฤทธิ์ดาบสะเทือนพสุธา เรียกเกล็ดหิมะขึ้นมา ดุจวาจาสิทธิ์!\"</i>",
       "vi": "Chongyun kết ấn, triệu hồi liên tục ba thanh linh kiếm ở khoảng không phía trước, rồi lần lượt rơi xuống mặt đất và nổ tung.\nKhi linh kiếm nổ sẽ gây <color=#99FFFFFF>sát thương phạm vi nguyên tố băng</color> đồng thời đánh bay kẻ địch.\n\n<i>\"Trác kiếm thiên địa động, băng lăng sương hàn sinh. Như luật lệnh!\"</i>"
-    },
-    "imgid": "s_363901"
+    }
   },
   {
     "title": {
@@ -126,10 +123,9 @@
       "pt": "Os personagens que usam Espada, Espadão e Lança dentro do campo criado pela <color=#FFD780FF>Lâmina do Espírito - Geada de Chongyun</color> terão a Vel. de ATQ Normal aumentada em 8%.",
       "ru": "Увеличивает скорость обычной атаки одноручным, двуручным и древковым оружием в области навыка <color=#FFD780FF>Духовное лезвие: Холод Чунхуа</color> на 8%.",
       "id": "Meningkatkan 8% Normal ATK SPD karakter yang bertarung menggunakan Sword, Claymore, atau Polearm di dalam area <color=#FFD780FF>Spirit Blade: Chonghua's Layered Frost</color>.",
-      "th": "ตัวละครทั้งหมดที่ใช้อาวุธดาบ, ดาบใหญ่และหอกที่อยู่ในพื้นที่ของ <color=#FFD780FF>Spirit Blade - Chonghua's Layered Frost</color> ความเร็วในการโจมตีปกติจะเพิ่มขึ้น 8%",
+      "th": "ตัวละครทั้งหมดที่ใช้อาวุธดาบ, ดาบใหญ่และหอกที่อยู่ในพื้นที่ของ <color=#FFD780FF>Spirit Blade: Chonghua's Layered Frost</color> ความเร็วในการโจมตีปกติจะเพิ่มขึ้น 8%",
       "vi": "Tất cả nhân vật dùng kiếm đơn, trọng kiếm, vũ khí cán dài đứng trong <color=#FFD780FF>Linh Đao - Sương Bạc Trùng Điệp</color> tăng 8% tốc độ tấn công của các đòn tấn công thường."
-    },
-    "imgid": "p_362101"
+    }
   },
   {
     "title": {
@@ -159,10 +155,9 @@
       "pt": "Quando a área criada pela <color=#FFD780FF>Lâmina Espiritual - Geada de Chongyun</color> dissipa, outra lâmina do espírito será evocada para atacar inimigos próximos, infligindo 100% de Dano da habilidade Geada de Chongyun como <color=#99FFFFFF>Dano Cryo em uma AdE</color>. Inimigos golpeados por essa lâmina terá sua <color=#99FFFFFF>RES Cryo</color> diminuída em 10% por 8 segundos.",
       "ru": "После исчезновения области <color=#FFD780FF>Холода Чунхуа</color> призывает Духовное лезвие, которое наносит 100% урона навыка Духовное лезвие: Холод Чунхуа в качестве <color=#99FFFFFF>Крио урона по площади</color>. Понижает <color=#99FFFFFF>Крио сопротивление</color> врагов, получивших урон от Духовного лезвия, на 10% в течение 8 сек.",
       "id": "Setelah area dari <color=#FFD780FF>Spirit Blade: Chonghua's Layered Frost</color> menghilang, sebilah Spirit Blade baru akan muncul dan menyerang musuh di dekatnya, mengakibatkan <color=#99FFFFFF>Cryo DMG area</color> sebesar 100% DMG Skill Chonghua's Layered Frost. Serangan ini juga akan mengurangi 10% <color=#99FFFFFF>Cryo RES</color> musuh selama 8 detik.",
-      "th": "เมื่อพื้นที่ <color=#FFD780FF>Spirit Blade - Chonghua's Layered Frost</color> สลายไป จะเรียก Spirit Blade ออกมาเพิ่มหนึ่งเล่ม เพื่อโจมตีศัตรูโดยอัตโนมัติ โดยจะสร้าง<color=#99FFFFFF>ความเสียหายน้ำแข็งวงกว้าง</color> เป็น 100% ของความเสียหายสกิล Spirit Blade - Chonghua's Layered Frost ซึ่งศัตรูที่ถูกโจมตีจะถูกลด <color=#99FFFFFF>ความต้านทานน้ำแข็ง</color>ลง 10% เป็นเวลา 8 วินาที",
+      "th": "เมื่อพื้นที่ <color=#FFD780FF>Spirit Blade: Chonghua's Layered Frost</color> สลายไป จะเรียก Spirit Blade ออกมาเพิ่มหนึ่งเล่ม เพื่อโจมตีศัตรูที่อยู่ใกล้โดยอัตโนมัติ โดยจะสร้าง<color=#99FFFFFF>ความเสียหายน้ำแข็งวงกว้าง</color>เป็น 100% ของความเสียหายสกิล Spirit Blade: Chonghua's Layered Frost ซึ่งศัตรูที่ถูกโจมตี จะถูกลด<color=#99FFFFFF>ความต้านทานน้ำแข็ง</color>ลง 10% เป็นเวลา 8 วินาที",
       "vi": "Khi khu vực <color=#FFD780FF>Linh Đao - Sương Bạc Trùng Điệp</color> biến mất, sẽ gọi ra 1 thanh Linh Đao tự động tấn công địch xung quanh, tạo thành 100% <color=#99FFFFFF>sát thương phạm vi Nguyên Tố Băng</color> tương đương với kỹ năng sát thương của Linh Đao - Sương Bạc Trùng Điệp. Địch bị đánh trúng <color=#99FFFFFF>kháng Nguyên Tố Băng</color> giảm 10%, kéo dài 8s."
-    },
-    "imgid": "p_362201"
+    }
   },
   {
     "title": {
@@ -194,7 +189,6 @@
       "id": "Ketika dikirim untuk melakukan ekspedisi di Liyue, waktu yang dibutuhkan berkurang 25%.",
       "th": "เมื่อทำคำขอการออกสำรวจของ Liyue เวลาที่ใช้จะลดลง 25%",
       "vi": "Khi làm nhiệm vụ Phái Đi thám Hiểm ở Liyue, thời gian tiêu hao rút ngắn 25%."
-    },
-    "imgid": "p_362301"
+    }
   }
 ]

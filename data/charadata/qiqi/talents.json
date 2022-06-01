@@ -12,7 +12,7 @@
       "pt": "Ataque Normal: Arte da Espada Antiga",
       "ru": "Облачный меч",
       "id": "Normal Attack: Ancient Sword Art",
-      "th": "โจมตีปกติ - Ancient Sword Art",
+      "th": "โจมตีปกติ: Ancient Sword Art",
       "vi": "Tấn Công Thường - Vân Lai Cổ Kiếm Pháp"
     },
     "description": {
@@ -29,8 +29,7 @@
       "id": "<color=#FFD780FF>Normal Attack</color>\nMelancarkan hingga 5 serangan berturut-turut.\n\n<color=#FFD780FF>Charged Attack</color>\nMengonsumsi sejumlah Stamina untuk melancarkan dua tebasan pedang.\n\n<color=#FFD780FF>Plunging Attack</color>\nMenerjang dari udara untuk menghantam tanah, mengakibatkan DMG pada musuh di jalur terjangan dan mengakibatkan DMG area saat mendarat.",
       "th": "<color=#FFD780FF>โจมตีปกติ</color>\nโจมตีด้วยดาบต่อเนื่องมากสุดห้าครั้ง\n\n<color=#FFD780FF>ชาร์จโจมตี</color>\nใช้พลังกายส่วนหนึ่งเพื่อปลดปล่อยดาบ ออกไปข้างหน้าสองเล่มในช่วงเวลาสั้น ๆ\n\n<color=#FFD780FF>โจมตีพุ่งลงจากอากาศ</color>\nกระโจนจากกลางอากาศลงมายังพื้นดิน เพื่อโจมตีศัตรูที่อยู่ในเส้นทางการโจมตี โดยจะสร้างความเสียหายวงกว้างเมื่อลงถึงพื้น",
       "vi": "<color=#FFD780FF>Tấn Công Thường</color>\nThực hiện tối đa 5 lần đánh kiếm liên tiếp.\n\n<color=#FFD780FF>Trọng Kích</color>\nTiêu hao thể lực nhất định, đánh ra hai kiếm về phía trước trong chớp mắt.\n\n<color=#FFD780FF>Tấn Công Khi Đáp</color>\nĐáp xuống đất từ trên không, tấn công kẻ địch trên đường và gây sát thương phạm vi khi chạm đất."
-    },
-    "imgid": "s_353101"
+    }
   },
   {
     "title": {
@@ -62,8 +61,7 @@
       "id": "Qiqi memanggil Herald of Frost dengan menggunakan Icevein Talisman dan mengakibatkan <color=#99FFFFFF>Cryo DMG</color> ke musuh di sekitarnya.\n\n<color=#FFD780FF>Herald of Frost</color>\n·Saat Normal Attack atau Charged Attack Qiqi mengenai musuh, Qiqi akan memulihkan HP anggota party dan karakter teman lainnya. Jumlah HP yang disembuhkan ditentukan berdasarkan ATK Qiqi;\n·Setiap beberapa saat, Herald of Frost juga akan memulihkan HP karakter yang sedang digunakan;\n·Mengikuti gerakan karakter dan mengakibatkan <color=#99FFFFFF>Cryo DMG</color> kepada musuh yang dilewati.\n\n<i>Aku menggunakan ini supaya tidak busuk... Eh, aku sedang bicara soal bahan-bahan Dr. Bai.</i>",
       "th": "ใช้เครื่องราง Icevein Talisman เพื่อเรียก Herald of Frost ออกมา และสร้าง <color=#99FFFFFF>ความเสียหายน้ำแข็ง</color>ให้กับศัตรูโดยรอบ\n\n<color=#FFD780FF>Herald of Frost</color>\n·เมื่อการโจมตีปกติหรือชาร์จโจมตีของ Qiqi โดนเป้าหมาย จะทำการฟื้นฟูพลังชีวิตให้แก่ตัวละครของคุณทั้งหมดในทีม รวมถึงตัวละครฝ่ายเดียวกันที่อยู่ใกล้ โดยปริมาณการฟื้นฟูจะขึ้นอยู่กับ พลังโจมตีของ Qiqi\n·จะทำการฟื้นฟูพลังชีวิตให้แก่ตัวละครของตนเองที่เข้าต่อสู้ในขณะนั้นเป็นช่วง ๆ\n·เคลื่อนที่ไปพร้อมกับตัวละคร เพื่อสร้าง<color=#99FFFFFF>ความเสียหายน้ำแข็ง</color> แก่ศัตรูที่อยู่ในเส้นทาง\n\n<i>\"ฉันใช้สิ่งนี้เพื่อป้องกันอุณหภูมิสูงขึ้นและ ป้องกันการเน่าเปื่อย... อื้อ ใช่ ฉันพูดถึงวัตถุดิบยาแสนแพงของ คุณ Bai\"</i>",
       "vi": "Băng huyết hóa bùa chú, triệu hồi Hàn Bệnh Quỷ Sai, đồng thời gây <color=#99FFFFFF>sát thương Nguyên Tố Băng</color> cho địch xung quanh.\n\n<color=#FFD780FF>Hàn Bệnh Quỷ Sai</color>\n·Khi tấn công thường và trọng kích của Qiqi đánh trúng địch, sẽ hồi HP cho tất cả nhân vật của bản thân trong đội và đồng đội ở gần, lượng hồi phục dựa trên sức tấn công của Qiqi;\n·Cứ cách một khoảng thời gian sẽ hồi HP cho nhân vật của bản thân trong đội trong trận hiện tại;\n·Khi nhân vật hành động, gây <color=#99FFFFFF>sát thương nguyên tố Băng</color> cho kẻ địch trên đường đi.\n\n<i>\"Cái này dùng để ngăn thối rữa khi nhiệt độ lên cao... Ừm, ý tôi là số thảo dược quý của ngài Bai đó.\"</i>"
-    },
-    "imgid": "s_353201"
+    }
   },
   {
     "title": {
@@ -95,8 +93,7 @@
       "id": "Qiqi mengerahkan kekuatan Adeptus yang disegel di dalam tubuhnya dan menandai musuh di sekitar dengan jimat keberuntungan yang mengakibatkan <color=#99FFFFFF>Cryo DMG</color>.\n\n<color=#FFD780FF>Fortune-Preserving Talisman</color>\nSaat musuh yang telah ditandai menerima DMG, maka karakter yang mengakibatkan DMG tersebut akan menerima pemulihan HP.\n\n<i>\"Aku adalah Penjaga Keberuntungan, sang Gadis Kebangkitan.\"</i>\n<i>—Qiqi tidak ingat kata-kata ini.</i>",
       "th": "Qiqi ปลดปล่อยพลังแห่งเซียนที่ผนึกไว้ ในร่างของเธอ ทำสัญลักษณ์ Fortune-Preserving Talisman บนศัตรูที่อยู่ใกล้เคียง และสร้าง <color=#99FFFFFF>ความเสียหายน้ำแข็ง</color>\n\n<color=#FFD780FF>Fortune-Preserving Talisman</color>\nเมื่อศัตรูที่ได้รับผลกระทบของ Fortune-Preserving Talisman ได้รับความเสียหาย จะทำการฟื้นฟูพลังชีวิตให้แก่ตัวละคร ที่สร้างความเสียหาย\n\n<i>\"ชื่อจริงของฉันคือ ผู้พิทักษ์จากความชั่วร้าย เด็กผู้ไม่มีวันตาย\"</i>\n<i> - Qiqi จำคำพูดพวกนี้ไม่ได้แล้ว</i>",
       "vi": "Tiên lực phong ấn bên trong người Qiqi, dùng Bùa Độ Ách Chân đánh dấu kẻ địch xung quanh và gây <color=#99FFFFFF>sát thương nguyên tố Băng</color>.\n\n<color=#FFD780FF>Bùa Độ Ách Chân</color>\nKhi địch bị ảnh hưởng bởi Bùa Độ Ách Chân chịu sát thương, sẽ hồi HP cho nhân vật gây sát thương.\n\n<i>\"Tên thật, cứu khổ độ ách chân quân, cải tử hoàn hài đồng tử\"</i>\n<i>Qiqi không tài nào nhớ nổi câu này.</i>"
-    },
-    "imgid": "s_353901"
+    }
   },
   {
     "title": {
@@ -128,8 +125,7 @@
       "id": "Meningkatkan 20% Bonus Pemulihan karakter selama 8 detik saat karakter dalam efek <color=#FFD780FF>Adeptus Art: Herald of Frost</color> memicu reaksi elemental.",
       "th": "เมื่อตัวละครที่อยู่ภายใต้สภาวะ <color=#FFD780FF>Adeptus Art: Herald of Frost</color> ทำให้เกิดปฏิกิริยาทางธาตุขึ้น โบนัสการถูกรักษาจะเพิ่มขึ้น 20% เป็นเวลา 8 วินาที",
       "vi": "Khi nhân vật kích hoạt phản ứng nguyên tố trong <color=#FFD780FF>Tiên Pháp - Hàn Bệnh Quỷ Sai</color>, tăng nhận trị liệu 20%, kéo dài 8s."
-    },
-    "imgid": "p_352101"
+    }
   },
   {
     "title": {
@@ -161,8 +157,7 @@
       "id": "Saat Qiqi menyerang musuh dengan Normal dan Charged Attack, Qiqi memiliki 50% kemungkinan untuk memberikan Fortune-Preserving Talisman kepada musuh selama 6 detik. Efek ini dapat terpicu setiap 30 detik.",
       "th": "เมื่อ Qiqi โจมตีปกติหรือชาร์จโจมตีถูกศัตรู มีโอกาส 50% ที่จะใช้ Fortune-Preserving Talisman กับศัตรูเป็นเวลา 6 วินาที เอฟเฟกต์นี้จะเกิดขึ้นได้หนึ่งครั้งในทุก 30 วินาที",
       "vi": "Khi tấn công thường và trọng kích của Qiqi đánh trúng địch, có 50% cơ hội để thêm cho mỗi kẻ địch một tấm Bùa Độ Ách Chân, kéo dài 6s. Hiệu quả này mỗi 30s chỉ kích hoạt 1 lần."
-    },
-    "imgid": "p_352201"
+    }
   },
   {
     "title": {
@@ -194,7 +189,6 @@
       "id": "Memperlihatkan lokasi <color=#FFD780FF>produk khas Liyue</color> di sekitar pada mini-map.",
       "th": "แสดงตำแหน่งของ<color=#FFD780FF>ของพิเศษเฉพาะใน Liyue</color> ในมินิแมป",
       "vi": "Hiển thị <color=#FFD780FF>đặc sản khu vực Liyue</color> trên bản đồ nhỏ."
-    },
-    "imgid": "p_352301"
+    }
   }
 ]
