@@ -1,0 +1,200 @@
+[
+  {
+    "title": {
+      "zhs": "称名少年事件簿",
+      "zht": "稱名少年事件簿",
+      "jp": "通称少年事件簿",
+      "ko": "소년 사건부",
+      "en": "Named Juvenile Casebook",
+      "de": "Fallakte eines berüchtigten jungen Mannes",
+      "es": "Los casos de Shikanoin",
+      "fr": "Justice juvénile",
+      "pt": "Justiça Juvenil",
+      "ru": "Журнал дел молодого сыщика",
+      "id": "Named Juvenile Casebook",
+      "th": "Named Juvenile Casebook",
+      "vi": "Tư Liệu Thiếu Niên"
+    },
+    "description": {
+      "zhs": "鹿野院平藏登场后的5秒内，普通攻击的攻击速度提升15%，并获得1层<color=#FFD780FF>勠心拳</color>的「变格」效果，该效果每10秒最多触发一次。",
+      "zht": "鹿野院平藏登場後的5秒內，普通攻擊的攻擊速度提升15%，並獲得1層<color=#FFD780FF>勠心拳</color>的「變格」效果，該效果每10秒最多觸發一次。",
+      "jp": "鹿野院平蔵が登場してから5秒間、通常攻撃の攻撃速度+15%、また<color=#FFD780FF>戮心拳</color>の「変格」効果を1層獲得する。この効果は10秒毎に1回のみ発動可能。",
+      "ko": "시카노인 헤이조 등장 후 5초 동안 일반 공격의 공격 속도가 15% 증가하고 <color=#FFD780FF>쇄심권</color>의 「변격」 효과 1스택을 획득한다. 해당 효과는 10초마다 최대 1회 발동한다",
+      "en": "For 5s after Shikanoin Heizou takes the field, his Normal Attack SPD is increased by 15%. He also gains 1 Declension stack for <color=#FFD780FF>Heartstopper Strike</color>. This effect can be triggered once every 10s.",
+      "de": "Erhöht die Angriffs-GSW von Standardangriffen nach dem Einwechseln von Shikanoin Heizou 5 s lang um 15 % und verleiht ihm 1 Stapelung des Effekts „Deklination“ für die <color=#FFD780FF>Faust der Brüderlichkeit</color>, 10 s Abklingzeit.",
+      "es": "Al entrar en el campo de batalla, la Vel. del Ataque Normal de Shikanoin Heizou aumenta en un 15% durante 5 s, y además obtiene 1 carga de decantación para <color=#FFD780FF>Puñetazo cardiaco</color>. Esto solo puede ocurrir una vez cada 10 s.",
+      "fr": "#Pendant les 5 s qui suivent l'arrivée de Shikanoin Heizou sur le terrain, la VIT d'attaque de ses attaques normales augmente de 15 % et il obtient 1 cumul de Détection pour <color=#FFD780FF>Poing d'arrêt cardiaque</color>. Cet effet peut être déclenché une fois toutes les 10{NON_BREAK_SPACE}s.",
+      "pt": "Nos 5s após Shikanoin Heizou ficar ativo no campo de batalha, a Vel. de ATQ do Ataque Normal aumenta 15% e obtém um acúmulo do efeito \"Declinação\" de <color=#FFD780FF>Soco Cardíaco</color>. Esse efeito pode ser desencadeado uma vez a cada 10s.",
+      "ru": "На 5 сек. после вступления в бой скорость обычной атаки Сиканоина Хэйдзо увеличивается на 15%. Также он получает 1 уровень эффекта Отклонения <color=#FFD780FF>Убиения сердца</color>. Эффект может возникнуть один раз в 10 сек.",
+      "id": "Setelah Shikanoin Heizou berada di medan tempur selama 5 detik, Normal Attack SPD-nya akan meningkat 15%. Lalu akan mendapatkan 1 lapis efek Declension dari <color=#FFD780FF>Heartstopper Strike</color>. Efek dapat terpicu setiap 10 detik.",
+      "th": "ภายใน 5 วินาที หลังจากที่ Shikanoin Heizou เข้าสู่การต่อสู้ ความเร็วของการโจมตีปกติจะเพิ่มขึ้น 15% และจะได้รับเอฟเฟกต์ Declension ของ <color=#FFD780FF>Heartstopper Strike</color> 1 ชั้น โดยที่ทุก 10 วินาที เอฟเฟกต์นี้จะเกิดขึ้นได้มากสุด 1 ครั้ง",
+      "vi": "Trong 5s sau khi Shikanoin Heizou ra trận, tốc độ tấn công thường tăng 15%, đồng thời nhận 1 tầng hiệu ứng \"Biến Cách\" của <color=#FFD780FF>Lục Tâm Quyền</color>. Hiệu quả này mỗi 10s tối đa kích hoạt một lần."
+    },
+    "imgid": "constellation_1"
+  },
+  {
+    "title": {
+      "zhs": "殊解诸因探案集",
+      "zht": "殊解諸因探案集",
+      "jp": "真相究明捜査集",
+      "ko": "진상 조사 사건집",
+      "en": "Investigative Collection",
+      "de": "Aufdeckung der Hintergründe",
+      "es": "Canon Shikanoiniano",
+      "fr": "Recueil d'enquêtes",
+      "pt": "Coleção Investigativa",
+      "ru": "Подборка расследований",
+      "id": "Investigative Collection",
+      "th": "Investigative Collection",
+      "vi": "Tập Án Chuyên Biệt"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>聚风蹴</color>产生的缉拿风穴的牵引效果获得提升，并将持续时间延长至1秒。",
+      "zht": "<color=#FFD780FF>聚風蹴</color>產生的緝拿風穴牽引效果提升，且持續時間延長至1秒。",
+      "jp": "<color=#FFD780FF>廻風蹴</color>で生成した捕縛の風穴による引き寄せ効果が強化され、継続時間が延長され1秒になる。",
+      "ko": "<color=#FFD780FF>선풍각</color>에 의해 생성된 포박의 풍혈의 끌어당기는 효과가 강화되고, 지속 시간이 1초까지 증가한다",
+      "en": "The pull effect of the Arresting Windtunnel created by <color=#FFD780FF>Windmuster Kick</color> is enhanced, and its duration is increased to 1s.",
+      "de": "Verstärkt den Anziehungseffekt des Windlochs, das durch <color=#FFD780FF>Tritt des konzentrierten Winds</color> ausgelöst wird, und verlängert die Dauer des Effekts auf 1 s.",
+      "es": "Mejora el efecto de atracción del túnel de viento apresador creado con <color=#FFD780FF>Patada huracanada</color> y aumenta a 1 s su duración.",
+      "fr": "L'effet d'attraction du tunnel de vent créé par <color=#FFD780FF>Coup de pied ouragan</color> est amélioré, et sa durée augmente à 1 s.",
+      "pt": "O efeito de atração Túnel de Vento Repreendedor gerado por <color=#FFD780FF>Chute Turbilhão</color> é aumentado, e sua duração é prolongada para 1s.",
+      "ru": "Усиливается притяжение Ураганного туннеля, создаваемого <color=#FFD780FF>Ураганным ударом</color>, длительность увеличивается до 1 сек.",
+      "id": "Efek tarikan dari Arresting Windtunnel yang diciptakan oleh <color=#FFD780FF>Windmuster Kick</color> menjadi semakin kuat dan durasinya bertambah menjadi 1 detik.",
+      "th": "เอฟเฟกต์ดึงดูดของ Arresting Windtunnel ที่เกิดจาก <color=#FFD780FF>Windmuster Kick</color> จะได้รับการเสริมพลัง และเพิ่มช่วงเวลาต่อเนื่องเป็น 1 วินาที",
+      "vi": "Tăng cường sức hút Hang Gió của <color=#FFD780FF>Tụ Phong Cước</color>, thời gian duy trì kéo dài đến 1s."
+    },
+    "imgid": "constellation_2"
+  },
+  {
+    "title": {
+      "zhs": "暗文隐语谜题册",
+      "zht": "暗文隱語謎題冊",
+      "jp": "暗号隠語難問集",
+      "ko": "은밀한 수수께끼 모음집",
+      "en": "Esoteric Puzzle Book",
+      "de": "Rätselheft",
+      "es": "Acertijo inextricable",
+      "fr": "Énigme inextricable",
+      "pt": "Livro de Quebra-Cabeças Inextricáveis",
+      "ru": "Книга таинственных загадок",
+      "id": "Esoteric Puzzle Book",
+      "th": "Esoteric Puzzle Book",
+      "vi": "Sổ Tay Giải Mã"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>勠心拳</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>勠心拳</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>戮心拳</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>쇄심권</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Heartstopper Strike</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Faust der Brüderlichkeit</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Puñetazo cardiaco</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Poing d'arrêt cardiaque</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o nível de <color=#FFD780FF>Soco Cardíaco</color> em 3.\nO nível máximo de elevação é 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Убиение сердца</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Heartstopper Strike</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Heartstopper Strike</color> ขึ้น 3 ระดับ\nเพิ่มได้สูงสุดถึงระดับ 15",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Lục Tâm Quyền</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_3"
+  },
+  {
+    "title": {
+      "zhs": "虚言假说百物语",
+      "zht": "虛言假說百物語",
+      "jp": "荒唐無稽百物語",
+      "ko": "황당무계한 모노가타리",
+      "en": "Tome of Lies",
+      "de": "Stoff, aus dem Lügen gemacht sind",
+      "es": "Colección de calumnias",
+      "fr": "Collection de calomnies",
+      "pt": "Coletânea de Calúnias",
+      "ru": "Сборник пустословия",
+      "id": "Tome of Lies",
+      "th": "Tome of Lies",
+      "vi": "Tuyển Tập Dối Trá"
+    },
+    "description": {
+      "zhs": "在一次<color=#FFD780FF>聚风蹴</color>中，「聚风真眼」在第一次爆发后，将为鹿野院平藏恢复9点元素能量，此后每次爆发，都将分别为鹿野院平藏额外恢复1.5点元素能量，\n一次<color=#FFD780FF>聚风蹴</color>，至多通过这种方式为鹿野院平藏恢复13.5点元素能量。",
+      "zht": "在一次<color=#FFD780FF>聚風蹴</color>中，「聚風真眼」在第一次爆發後，將為鹿野院平藏恢復9點元素能量，此後每次爆發，都將分別為鹿野院平藏額外恢復1.5點元素能量，\n一次<color=#FFD780FF>聚風蹴</color>，至多依此方式為鹿野院平藏恢復13.5點元素能量。",
+      "jp": "一回の<color=#FFD780FF>廻風蹴</color>で発生した「廻風真眼」が初めて爆発する時、鹿野院平蔵自身の元素エネルギーを9回復する。その後、爆発するたびに追加で元素エネルギーを1.5回復する。\nこの方法により一回の<color=#FFD780FF>廻風蹴</color>で回復できる元素エネルギーは、最大13.5まで。",
+      "ko": "첫 번째 <color=#FFD780FF>선풍각</color> 발동 중, 「선풍진안」이 첫 폭발을 일으키면 시카노인 헤이조의 원소 에너지가 9pt 회복된다. 이후 폭발할 때마다 시카노인 헤이조의 원소 에너지가 추가로 1.5pt 씩 회복된다.\n첫 번째 <color=#FFD780FF>선풍각</color> 발동 중, 해당 방식으로 시카노인 헤이조의 원소 에너지를 최대 13.5pt 회복할 수 있다",
+      "en": "The first Windmuster Iris explosion in each <color=#FFD780FF>Windmuster Kick</color> will regenerate 9 Elemental Energy for Shikanoin Heizou. Every subsequent explosion in that Windmuster Kick will each regenerate an additional 1.5 Energy for Heizou.\nOne <color=#FFD780FF>Windmuster Kick</color> can regenerate a total of 13.5 Energy for Heizou in this manner.",
+      "de": "Stellt Shikanoin Heizou bei der jeweils ersten Explosion des „Auges des konzentrierten Winds“ von jedem <color=#FFD780FF>Tritt des konzentrierten Winds</color> 9 Punkte Elementarenergie und bei jeder weiteren Explosion zusätzlich 1,5 Punkte Elementarenergie wieder her.\nBis zu 13,5 Punkte Elementarenergie auf diese Weise pro <color=#FFD780FF>Tritt des konzentrierten Winds</color> für Shikanoin Heizou zu erhalten.",
+      "es": "La primera explosión del ojo del tifón de una <color=#FFD780FF>Patada huracanada</color> regenera 9 pts. de Energía Elemental para Shikanoin Heizou. Después, cada explosión regenera 1.5 pts. de Energía adicionales.\nUna <color=#FFD780FF>Patada huracanada</color> solo podrá regenerar un máximo de 13.5 pts. de Energía Elemental para Shikanoin Heizou de esta manera.",
+      "fr": "Après l'explosion du premier œil du cyclone de chaque <color=#FFD780FF>Coup de pied ouragan</color>, Shikanoin Heizou récupère 9 pts d'énergie élémentaire, tandis que chaque explosion suivante lui permet d'en récupérer 1,5 pts supplémentaires.\nUn maximum de 13,5 pts d'énergie élémentaire peut être restauré de cette manière pour chaque <color=#FFD780FF>Coup de pied ouragan</color>.",
+      "pt": "A primeira explosão de \"Olho do Furacão\" de <color=#FFD780FF>Chute Turbilhão</color> regenerará 9 pontos de Energia Elemental para Shikanoin Heizou. Toda explosão seguinte regenerará 1.5 de Energia Elemental adicional para Shikanoin Heizou.\nUm <color=#FFD780FF>Chute Turbilhão</color> pode regenerar até 13.5 de Energia Elemental para Shikanoin Heizou desta forma.",
+      "ru": "Первый взрыв Ока урагана в каждом <color=#FFD780FF>Ураганном ударе</color> восстанавливает Сиканоину Хэйдзо 9 ед. элементальной энергии. Каждый последующий взрыв восстанавливает дополнительные 1,5 ед. энергии Хэйдзо.\nОдин <color=#FFD780FF>Ураганный удар</color> может таким образом восстановить до 13,5 ед. энергии Хэйдзо.",
+      "id": "Ledakan Windmuster Iris pertama di setiap <color=#FFD780FF>Windmuster Kick</color> akan memulihkan 9 Elemental Energy Shikanoin Heizou. Setiap ledakan berikutnya dalam Windmuster Kick tersebut masing-masing akan memulihkan 1,5 Energy tambahan untuk Heizou.\nSatu kali <color=#FFD780FF>Windmuster Kick</color> hanya dapat memulihkan maksimum hingga 13,5 Energy Heizou dengan cara ini.",
+      "th": "ใน <color=#FFD780FF>Windmuster Kick</color> แต่ละครั้ง หลังจากที่ Windmuster Iris ระเบิดเป็นครั้งแรก จะฟื้นฟูพลังงานธาตุให้ Shikanoin Heizou 9 หน่วย และการระเบิดทุกครั้งหลังจากนั้น จะฟื้นฟูพลังงานธาตุให้ Shikanoin Heizou เพิ่มอีกครั้งละ 1.5 หน่วย\n<color=#FFD780FF>Windmuster Kick</color> แต่ละครั้ง จะสามารถฟื้นฟูพลังงานธาตุให้ Shikanoin Heizou ด้วยวิธีนี้ได้มากสุด 13.5 หน่วย",
+      "vi": "Trong một lần thi triển <color=#FFD780FF>Tụ Phong Cước</color>, \"Tụ Phong Nhãn\" lần đầu phát nổ sẽ hồi cho Shikanoin Heizou 9 điểm Năng Lượng Nguyên Tố, sau đó mỗi lần phát nổ sẽ hồi phục thêm 1.5 điểm Năng Lượng Nguyên Tố cho Heizou.\nTrong một lần <color=#FFD780FF>Tụ Phong Cước</color>, tối đa hồi phục cho Heizou 13.5 điểm Năng Lượng Nguyên Tố bằng cách này."
+    },
+    "imgid": "constellation_4"
+  },
+  {
+    "title": {
+      "zhs": "禁室密所大图鉴",
+      "zht": "禁室密所大圖鑑",
+      "jp": "屏禁密室大図鑑",
+      "ko": "밀실 대도감",
+      "en": "Secret Archive",
+      "de": "Geheimarchiv",
+      "es": "Secrétdex",
+      "fr": "Archives secrètes",
+      "pt": "Arquivo Secreto",
+      "ru": "Архив запретного зала",
+      "id": "Secret Archive",
+      "th": "Secret Archive",
+      "vi": "Kho Tàng Bí Mật"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>聚风蹴</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>聚風蹴</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>廻風蹴</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>선풍각</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Windmuster Kick</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Tritt des konzentrierten Winds</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Patada huracanada</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Coup de pied ouragan</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o nível de <color=#FFD780FF>Chute Turbilhão</color> em 3.\nO nível máximo de elevação é 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Ураганный удар</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Windmuster Kick</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Windmuster Kick</color> ขึ้น 3 ระดับ\nเพิ่มได้สูงสุดถึงระดับ 15",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Tụ Phong Cước</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_5"
+  },
+  {
+    "title": {
+      "zhs": "奇想天开捕物帐",
+      "zht": "奇想天開捕物帳",
+      "jp": "奇想天外捕物帳",
+      "ko": "기상천외 사건 기록부",
+      "en": "Curious Casefiles",
+      "de": "Verblüffende Festnahme",
+      "es": "Detective Heizou",
+      "fr": "Dossier étrange",
+      "pt": "Casos Curiosos",
+      "ru": "Опись престранных улик",
+      "id": "Curious Casefiles",
+      "th": "Curious Casefiles",
+      "vi": "Hồ Sơ Hão Huyền"
+    },
+    "description": {
+      "zhs": "施放<color=#FFD780FF>勠心拳</color>时，每层「变格」都将为本次勠心拳提升4%暴击率。拥有「正论」时，本次勠心拳的暴击伤害将提升32%。",
+      "zht": "施放<color=#FFD780FF>勠心拳</color>時，每層「變格」都將為本次勠心拳提升4%暴擊率。擁有「正論」時，本次勠心拳的暴擊傷害將提升32%。",
+      "jp": "<color=#FFD780FF>戮心拳</color>を発動する時、戮心拳の会心率が「変格」の層数ごとに4%アップする。「正論」効果が付与されている場合、戮心拳の会心ダメージは32%アップする。",
+      "ko": "<color=#FFD780FF>쇄심권</color>을 발동 시, 「변격」 1스택 당 이번 쇄심권의 치명타 확률이 4% 증가한다. 「정론」 보유 시, 이번 쇄심권의 치명타 피해가 32% 증가한다",
+      "en": "Each Declension stack will increase the CRIT Rate of the <color=#FFD780FF>Heartstopper Strike</color> unleashed by 4%. When Heizou possesses Conviction, this Heartstopper Strike's CRIT DMG is increased by 32%.",
+      "de": "Erhöht beim Auslösen der <color=#FFD780FF>Faust der Brüderlichkeit</color> die KT dabei für jede Stapelung „Deklination“ um 4 %. Erhöht bei Vorhandensein von „Urteilsspruch“ für Faust der Brüderlichkeit den KSCH der Faust der Brüderlichkeit dieses Mal um 32 %.",
+      "es": "Al usar <color=#FFD780FF>Puñetazo cardiaco</color>, cada carga de decantación aumenta en un 4% la Prob. CRIT del puñetazo. Al estar bajo los efectos de “convicción”, el Daño CRIT del puñetazo cardiaco aumenta en un 32%.",
+      "fr": "Chaque cumul de Détection augmente le taux CRIT de <color=#FFD780FF>Poing d'arrêt cardiaque</color> de 4 %. Sous l'effet de Conviction, les DGT CRIT du Poing d'arrêt cardiaque augmentent de 32 %.",
+      "pt": "Ao lançar <color=#FFD780FF>Soco Cardíaco</color>, cada acúmulo de \"Declinação\" aumentará 4% da Taxa CRIT do Soco Cardíaco atual. Quando possuir \"Convicção\", o Dano CRIT desse Soco Cardíaco aumentará em 32%.",
+      "ru": "Каждый уровень Отклонения повышает шанс крит. попадания активируемого удара <color=#FFD780FF>Убиения сердца</color> на 4%. Когда Хэйдзо обладает Верным мнением, шанс крит. попадания этого удара Убиения сердца увеличивается на 32%.",
+      "id": "Setiap lapis Declension akan meningkatkan CRIT Rate <color=#FFD780FF>Heartstopper Strike</color> yang dilancarkan sebesar 4%. Saat Heizou memiliki Conviction, maka akan meningkatkan 32% CRIT DMG dari Heartstoppper Strike.",
+      "th": "เมื่อใช้ <color=#FFD780FF>Heartstopper Strike</color> แต่ละชั้นของ Declension จะเพิ่มอัตราคริให้ Heartstopper Strike ในครั้งนั้นขึ้น 4% และเมื่อมี Conviction ความแรงคริของ Heartstopper Strike ในครั้งนั้นจะเพิ่มขึ้น 32%",
+      "vi": "Khi thi triển <color=#FFD780FF>Lục Tâm Quyền</color>, mỗi tầng \"Biến Cách\" sẽ tăng 4% tỉ lệ bạo kích cho Lục Tâm Quyền lần đó. Khi có hiệu ứng \"Phán Quyết\", sát thương bạo kích của Lục Tâm Quyền lần đó tăng 32%."
+    },
+    "imgid": "constellation_6"
+  }
+]

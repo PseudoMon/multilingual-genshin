@@ -1,0 +1,62 @@
+{
+  "name": {
+    "zhs": "鹿野院平藏",
+    "zht": "鹿野院平藏",
+    "jp": "鹿野院平蔵",
+    "ko": "시카노인 헤이조",
+    "en": "Shikanoin Heizou",
+    "de": "Shikanoin Heizou",
+    "es": "Shikanoin Heizou",
+    "fr": "Shikanoin Heizou",
+    "pt": "Shikanoin Heizou",
+    "ru": "Хэйдзо",
+    "id": "Shikanoin Heizou",
+    "th": "Shikanoin Heizou",
+    "vi": "Shikanoin Heizou"
+  },
+  "title": {
+    "zhs": "心朝乂安",
+    "zht": "心朝乂安",
+    "jp": "乂安を願う者",
+    "ko": "태평을 향한 마음",
+    "en": "Analytical Harmony",
+    "de": "Mitfühlender Analytiker",
+    "es": "El Detective de la Armonía",
+    "fr": "Harmonie analytique",
+    "pt": "Mente Condizente",
+    "ru": "Невозмутимое спокойствие",
+    "id": "Analytical Harmony",
+    "th": "สงบจิตผสานเชาวน์",
+    "vi": "Con Tim Giao Hòa"
+  },
+  "description": {
+    "zhs": "天领奉行的天才少年侦探，直觉敏锐，心思玲珑。",
+    "zht": "天領奉行的天才少年偵探，直覺敏銳，心思玲瓏。",
+    "jp": "天領奉行の天才少年探偵。直感が鋭く、洞察力に優れている。",
+    "ko": "텐료 봉행의 천재 소년 탐정. 예민한 직감에 맑은 마음을 가지고 있다",
+    "en": "A young prodigy detective from the Tenryou Commission. His senses are sharp and his thoughts are clear.",
+    "de": "Der begnadete junge Detektiv der Tenryou-Verwaltung, ausgestattet mit scharfem Instinkt und wachem Geist.",
+    "es": "El joven y talentoso detective de la Comisión Tenryou. Intuitivo, sagaz y muy inteligente.",
+    "fr": "Un jeune détective prodige de la Commission administrative, aux sens aiguisés et aux pensées claires.",
+    "pt": "Um jovem e talentoso detetive da Comissão Tenryou. Tem uma intuição astuta e aguçada.",
+    "ru": "Талантливый молодой детектив из комиссии Тэнрё. Отличается ясным умом и острым восприятием.",
+    "id": "Seorang detektif jenius dari Tenryou Commission. Mempunyai intuisi yang kuat dan pemikiran yang tajam.",
+    "th": "นักสืบหนุ่มอัจฉริยะของสำนัก Tenryou ผู้มาพร้อมกับสัญชาตญาณที่เฉียบแหลม และจิตใจที่งดงาม",
+    "vi": "Thám tử thiếu niên thiên tài của Hiệp Hội Tenryou, trực giác nhạy bén, tư duy sắc sảo."
+  },
+  "constellation": {
+    "zhs": "幼鹿座",
+    "zht": "幼鹿座",
+    "jp": "子鹿座",
+    "ko": "새끼사슴자리",
+    "en": "Cervus Minor",
+    "de": "Cervus Minor",
+    "es": "Cervus Minor",
+    "fr": "Cervus Minor",
+    "pt": "Cervus Minor",
+    "ru": "Малый Олень",
+    "id": "Cervus Minor",
+    "th": "Cervus Minor",
+    "vi": "Cung Ấu Lộc"
+  }
+}

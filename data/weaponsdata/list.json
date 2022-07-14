@@ -440,6 +440,86 @@
     }
   },
   {
+    "url": "sword/youtou",
+    "type": "sword",
+    "rank": 4,
+    "name": {
+      "zhs": "笼钓瓶一心",
+      "zht": "籠釣瓶一心",
+      "jp": "籠釣瓶一心",
+      "ko": "카고츠루베 잇신",
+      "en": "Kagotsurube Isshin",
+      "de": "Kagotsurube Isshin",
+      "es": "Kagotsurube Isshin",
+      "fr": "Kagotsurube Isshin",
+      "pt": "Kagotsurube Isshin",
+      "ru": "Кагоцурубэ Иссин",
+      "id": "Kagotsurube Isshin",
+      "th": "Kagotsurube Isshin",
+      "vi": "Kagotsurube Isshin"
+    }
+  },
+  {
+    "url": "sword/youtouenchanted",
+    "type": "sword",
+    "rank": 4,
+    "name": {
+      "zhs": "「一心传」名刀",
+      "zht": "「一心傳」名刀",
+      "jp": "「一心伝」名刀",
+      "ko": "「잇신의 기술」 명검",
+      "en": "Prized Isshin Blade",
+      "de": "Berühmtes Schwert der „Isshin-Schule“",
+      "es": "Espada Egregia de Isshin",
+      "fr": "Chef d'œuvre Isshin",
+      "pt": "Espada Famosa da \"Arte Isshin\"",
+      "ru": "Легендарный клинок Иссин",
+      "id": "Prized Isshin Blade",
+      "th": "ดาบเลื่องชื่อ \"Isshin Art\"",
+      "vi": "Danh Đao \"Trường Phái Isshin\""
+    }
+  },
+  {
+    "url": "sword/youtoushattered",
+    "type": "sword",
+    "rank": 4,
+    "name": {
+      "zhs": "「一心传」名刀",
+      "zht": "「一心傳」名刀",
+      "jp": "「一心伝」名刀",
+      "ko": "「잇신의 기술」 명검",
+      "en": "Prized Isshin Blade",
+      "de": "Berühmtes Schwert der „Isshin-Schule“",
+      "es": "Espada Egregia de Isshin",
+      "fr": "Chef d'œuvre Isshin",
+      "pt": "Espada Famosa da \"Arte Isshin\"",
+      "ru": "Легендарный клинок Иссин",
+      "id": "Prized Isshin Blade",
+      "th": "ดาบเลื่องชื่อ \"Isshin Art\"",
+      "vi": "Danh Đao \"Trường Phái Isshin\""
+    }
+  },
+  {
+    "url": "sword/youtouenchanted-d",
+    "type": "sword",
+    "rank": 4,
+    "name": {
+      "zhs": "「一心传」名刀",
+      "zht": "「一心傳」名刀",
+      "jp": "「一心伝」名刀",
+      "ko": "「잇신의 기술」 명검",
+      "en": "Prized Isshin Blade",
+      "de": "Berühmtes Schwert der „Isshin-Schule“",
+      "es": "Espada Egregia de Isshin",
+      "fr": "Chef d'œuvre Isshin",
+      "pt": "Espada Famosa da \"Arte Isshin\"",
+      "ru": "Легендарный клинок Иссин",
+      "id": "Prized Isshin Blade",
+      "th": "ดาบเลื่องชื่อ \"Isshin Art\"",
+      "vi": "Danh Đao \"Trường Phái Isshin\""
+    }
+  },
+  {
     "url": "sword/falcon",
     "type": "sword",
     "rank": 5,
@@ -544,7 +624,6 @@
     "type": "sword",
     "rank": 5,
     "name": {
-      "zhs": "",
       "zht": "磐岩結綠",
       "jp": "磐岩の緑",
       "ko": "이끼 대검",
@@ -564,7 +643,6 @@
     "type": "sword",
     "rank": 5,
     "name": {
-      "zhs": "",
       "zht": "憑虛",
       "jp": "虚構",
       "ko": "공허한 운명",
@@ -752,7 +830,7 @@
       "de": "Schlagfestes Argument",
       "es": "Garrote del Debate",
       "fr": "Épée de la raison",
-      "pt": "Porrete da Razão",
+      "pt": "Pacifista",
       "ru": "Дубина переговоров",
       "id": "Debate Club",
       "th": "Debate Club",
@@ -1144,7 +1222,6 @@
     "type": "claymore",
     "rank": 5,
     "name": {
-      "zhs": "",
       "zht": "砥厄魚",
       "jp": "美玉魚",
       "ko": "고래 비녀",
@@ -1164,7 +1241,6 @@
     "type": "claymore",
     "rank": 5,
     "name": {
-      "zhs": "",
       "zht": "異史",
       "jp": "異史",
       "ko": "괴사",
@@ -1644,7 +1720,6 @@
     "type": "polearm",
     "rank": 5,
     "name": {
-      "zhs": "",
       "zht": "弑主",
       "jp": "レジサイド",
       "ko": "주신 학살창",
@@ -2184,7 +2259,6 @@
     "type": "catalyst",
     "rank": 5,
     "name": {
-      "zhs": "",
       "zht": "散佚的敘事詩",
       "jp": "散逸した叙事詩",
       "ko": "산실된 서사시",
@@ -2224,7 +2298,6 @@
     "type": "catalyst",
     "rank": 5,
     "name": {
-      "zhs": "",
       "zht": "定土玉圭",
       "jp": "土定の玉",
       "ko": "정토옥규",
@@ -2824,7 +2897,6 @@
     "type": "bow",
     "rank": 5,
     "name": {
-      "zhs": "",
       "zht": "昆吾墜龍",
       "jp": "昆吾の堕龍",
       "ko": "곤오추룡",
@@ -2844,7 +2916,6 @@
     "type": "bow",
     "rank": 5,
     "name": {
-      "zhs": "",
       "zht": "懸黎千鈞",
       "jp": "高価なオーブ",
       "ko": "현려천균",
@@ -2864,7 +2935,6 @@
     "type": "bow",
     "rank": 5,
     "name": {
-      "zhs": "",
       "zht": "破鏡",
       "jp": "壊れた鏡",
       "ko": "부서진 거울",

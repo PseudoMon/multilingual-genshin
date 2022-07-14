@@ -28,7 +28,7 @@
       "ru": "#Я номер одиннадцать из Предвестников Фатуи, Чайльд Тарталья. А ты... Ха, ты т{F#a}{M#от}, кто притягивает неприятности. Я люблю таких! Думаю, мы поладим, да?",
       "id": "Aku adalah Harbinger ke-11 dari Fatui, Childe, aku juga dikenal dengan nama Tartaglia. Kamu —— sepertinya adalah seseorang yang bisa menimbulkan perselisihan juga, senang bertemu denganmu. Kita harus rukun-rukun, ya?",
       "th": "ฉันคือ Tartaglia ผู้บริหารอันดับที่สิบเอ็ดของ Fatui มีฉายาว่า \"Childe\" ส่วนคุณ—— ฮ่า คุณก็เป็นคนที่ก่อให้เกิดความขัดแย้งได้เหมือนกัน เยี่ยมไปเลย เราน่าจะเข้ากันได้ดีใช่มั้ยล่ะ?",
-      "vi": "Tôi là quan chấp hành thứ 11 của Fatui, Childe Tartaglia. Còn bạn là người tạo ra chiến tranh. Thật là thú vị. Chúng ta rất hợp nhau đó?"
+      "vi": "#Tôi là quan chấp hành thứ 11 của Fatui, Childe Tartaglia. Còn {F#cô}{M#cậu}... Ha, là người có thể tạo ra tranh chấp. Thật là thú vị. Chúng ta chắc rất hợp nhau nhỉ?"
     }
   },
   {
@@ -124,7 +124,7 @@
       "ru": "Как думаешь, чем заняты остальные Предвестники? А ну их, наверняка увлечены своими таинственными «грандиозными планами».",
       "id": "Para Harbinger yang lain sedang sibuk apa sih? Hmmm, sudahlah, pasti mereka sedang mempersiapkan \"rencana besar\" mereka.",
       "th": "ไม่รู้ว่าผู้บริหารคนอื่นกำลังทำอะไรกันอยู่? อ่า ช่างเหอะ คงจะกำลังคิด \"แผนการใหญ่\" อยู่แหงเลย",
-      "vi": "Không biết các quan chấp hành khác đang làm gì? Thôi kệ vậy, chắc lại là kế hoạch vĩ đại nào đó."
+      "vi": "Không biết các quan chấp hành khác đang làm gì nhỉ? Thôi kệ vậy, chắc lại là \"kế hoạch vĩ đại\" quái lạ nào đó."
     }
   },
   {
@@ -188,7 +188,7 @@
       "ru": "Идеальная погода для рыбалки! Шум дождевых капель, ударяющихся о поверхность воды, пугает рыбу, но вот после дождя они все твои.",
       "id": "Suara tetesan air hujan akan menakuti ikan-ikan. Sebaliknya, waktu hujan reda adalah saat yang tepat untuk memancing ikan.",
       "th": "เสียงฝนที่กระทบกับน้ำจะทำให้ปลาตกใจ ถ้าเทียบกันแล้ว ตกปลาหลังฝนหยุดจะดีกว่านะ",
-      "vi": "Tiếng mưa rơi sẽ làm cá hoảng loạn. Vậy thì, sau cơn mưa đi câu là thích hợp nhất."
+      "vi": "Tiếng mưa rơi trên mặt nước sẽ làm cá hoảng loạn. So ra thì, sau cơn mưa đi câu là thích hợp nhất."
     }
   },
   {
@@ -252,7 +252,7 @@
       "ru": "Как хорошо, когда много снега! Он укрывает землю от горизонта до горизонта, и она становится чиста, как лунный свет. Идеальный пейзаж для хорошего кровопролития.",
       "id": "Salju yang begitu indah! Semuanya tertutupi oleh salju yang sama putihnya dengan cahaya bulan, panggung yang sangat cocok untuk sebuah pertumpahan darah.",
       "th": "หิมะเต็มไปหมดเลย! พื้นดินสะอาดเหมือนแสงจันทร์ ฉากแบบนี้สิถึงจะเหมาะกับการนองเลือด",
-      "vi": "Nhiều tuyết quá đi! Cả một vùng trời đâu cũng là tuyết, nếu máu rơi trên võ đài sẽ có màu bắt mắt lắm đây."
+      "vi": "Nhiều tuyết quá đi! Trời đất cũng trong trẻo như ánh trăng vậy, nếu máu rơi trên võ đài như thế này sẽ có màu bắt mắt lắm đây."
     }
   },
   {
@@ -380,7 +380,7 @@
       "ru": "Хэй, дружище! Я вижу, тебе не терпится отправиться в путь.",
       "id": "Hei, partner! Kamu kelihatan bersemangat hari ini.",
       "th": "เฮ้ เพื่อนยาก! วันนี้อารมณ์ดีเหมือนกันนี่",
-      "vi": "Yo, anh bạn! Hôm nay có tinh thần tốt đó."
+      "vi": "#Yo, {F#cô}{M#anh} bạn! Hôm nay có tinh thần tốt đó."
     }
   },
   {
@@ -412,7 +412,7 @@
       "ru": "Прекрасно выглядишь! Поделишься секретом?",
       "id": "Kamu kelihatan segar sekali, apa rahasiamu?",
       "th": "ดูเหมือนเธอจะอารมณ์ดีอยู่นะ อยากมาแลกเปลี่ยนวิชากับฉันมั้ย?",
-      "vi": "Hôm nay trông bạn rất có tinh thần, muốn thử sức với tôi không?"
+      "vi": "#Hôm nay trông {F#cô}{M#cậu} rất có tinh thần, muốn thử sức với tôi không?"
     }
   },
   {
@@ -508,7 +508,7 @@
       "ru": "Воин всегда должен быть готов встретить любой вызов с мечом в руке. И победа, и поражение - это бесценный жизненный опыт.",
       "id": "Seorang petarung harus selalu siap menghadapi segala tantangan dengan pedangnya. Kalah atau menang, yang terpenting adalah mendapatkan pengalaman yang baru.",
       "th": "นักรบต้องพร้อมเสมอที่จะเผชิญกับความท้าทายใด ๆ ด้วยดาบของเขา ไม่ว่าจะแพ้หรือชนะ มันก็เป็นประสบการณ์อันล้ำค่าที่ไม่อาจทดแทนได้",
-      "vi": "Là một võ sĩ, bạn phải luôn thử thách bản thân mình với lưỡi kiếm. Dù thắng hay bại thì đó cũng là một trải nghiệm quý giá không gì thay thế được."
+      "vi": "Là một chiến sĩ, phải luôn đặt tinh thần khiêu chiến lên trên mũi kiếm. Dù thắng hay bại thì đó cũng là một trải nghiệm quý giá không gì thay thế được."
     }
   },
   {
@@ -540,7 +540,7 @@
       "ru": "Думаю, другие Предвестники знают, что мы с тобой сотрудничаем. Ох, я бы посмотрел на выражения их лиц, ха-ха!",
       "id": "Kurasa anggota Eleven Harbingers lain sudah tahu tentang kerja samaku denganmu. Heh, aku benar-benar ingin melihat ekspresi muka mereka, hahaha.",
       "th": "เรื่องที่ฉันร่วมมือกับคุณ ตอนนี้พวกผู้บริหารน่าจะรู้กันหมดแล้วล่ะ ฮึ อยากจะเห็นสีหน้าของพวกนั้นจริง ๆ เลย ฮ่าฮ่าฮ่า",
-      "vi": "Việc đi cùng bạn đã bị lan truyền đến các quan chấp hành khác rồi. Hừm, thật muốn nhìn vẻ mặt của bọn họ, haha."
+      "vi": "#Việc đồng hành cùng {F#cô}{M#cậu} đã bị lan truyền đến các quan chấp hành khác rồi. Hừm, thật muốn nhìn vẻ mặt của bọn họ, haha."
     }
   },
   {
@@ -572,7 +572,7 @@
       "ru": "Владение луком даётся мне хуже всего. Именно поэтому я оттачиваю этот навык.",
       "id": "Sebenarnya busur adalah senjata yang paling tidak biasa kugunakan. Justru karena itu, aku semakin ingin menguasainya.",
       "th": "ธนูเป็นอาวุธที่ฉันใช้ไม่ถนัดที่สุด เพราะงั้นฉันถึงต้องใช้มันจนชำนาญไงล่ะ",
-      "vi": "Cung thực sự là một vũ khí khó sử dụng. Vì điều này, tôi phải quyết tâm chinh phục nó."
+      "vi": "Cung, thực ra là loại vũ khí không thuộc sở trường của tôi. Vì điều này, tôi càng phải quyết tâm chinh phục nó."
     }
   },
   {
@@ -604,7 +604,7 @@
       "ru": "У тебя нет Глаза Бога, но ты всё равно владеешь такой силой... Так интересно. Знаешь что, дружок? Не вздумай умирать до того, как достигнешь своего предела и мы вместе вступим в последний бой, ясно? Я тебе не позволю!",
       "id": "Tanpa Vision pun kamu bisa mengeluarkan kekuatan sehebat ini, aku benar-benar penasaran dengan kemampuanmu, sampai mana batas kekuatanmu. Yang terpenting kamu jangan sampai kalah sebelum mengerahkan seluruh tenagamu untuk melawanku, partner! Aku tidak akan mengizinkannya.",
       "th": "ถึงคุณจะไม่มีวิชั่นแต่ก็สามารถใช้พลังแบบนี้ได้ มันช่างน่าตื่นเต้นจริง ๆ ...ก่อนที่ความสามารถคุณจะถึงขีดสุด และวันแห่งการต่อสู้ระหว่างเรามาถึง คุณห้ามตายก่อนนะเพื่อน! ฉันไม่ยอมเด็ดขาด",
-      "vi": "Người không cần Vision mà vẫn có sức mạnh như vậy thì quả là đáng nể... Trước khi bạn đạt đến giới hạn của mình, hãy cùng tôi buông bỏ tất cả mọi thứ. Trước khi đấu một trận tử chiến, tuyệt đối không được gục ngã, đồng đội của tôi! Tôi sẽ không bao giờ cho phép bạn gục ngã."
+      "vi": "#Người không cần Vision mà vẫn có sức mạnh như vậy thì quả là đáng nể... Trước khi {F#cô}{M#cậu} đạt đến giới hạn của mình, hãy cùng tôi buông bỏ tất cả mọi thứ. Trước khi đấu một trận tử chiến, tuyệt đối không được gục ngã, đồng đội của tôi! Tôi sẽ không bao giờ cho phép {F#cô}{M#cậu} gục ngã."
     }
   },
   {
@@ -636,7 +636,7 @@
       "ru": "Друг мой, как насчёт того, чтобы вступить в Фатуи?.. Впрочем, не отвечай. С твоими возможностями мы вместе можем бросить вызов Предвестникам и победить. Такой шанс нельзя упускать, ха.",
       "id": "Partner, apakah kamu tertarik untuk bergabung dengan Fatui? Heh, lupakan saja perkataanku barusan. Dengan kekuatan kita berdua, kita bahkan bisa menantang Eleven Harbingers dan menang. Aku tidak akan melewatkan kesempatan ini.",
       "th": "เพื่อนยาก อยากเข้าร่วมกับ Fatui มั้ย? เอ่อ ถือซะว่าฉันไม่ได้พูด ด้วยสถานะของคุณตอนนี้ ถ้าร่วมมือกันล่ะก็ น่าจะโค่นพวกผู้บริหารทั้งหมดได้สบาย โอกาสงาม ๆ อย่างงี้ จะทิ้งมันไปง่าย ๆ ได้ไงกัน ฮ่า",
-      "vi": "Bạn có muốn gia nhập Fatui không? Hừm, coi như tôi chưa nói gì. Với thân phận của bạn, đi cùng với bạn, thậm chí lý do quang minh chính đại quyết chiến với các quan chấp hành khác cũng có rồi. Cơ hội tốt như vậy, thực sự không thể bỏ qua."
+      "vi": "#{F#Cô}{M#Cậu} có muốn gia nhập Fatui không? Hừm, coi như tôi chưa nói gì. Với thân phận của {F#cô}{M#cậu} hiện nay, đi cùng với {F#cô}{M#cậu}, thì ngay cả lý do quang minh chính đại để quyết chiến với các quan chấp hành khác cũng có rồi. Cơ hội tốt như vậy, thực sự không thể bỏ qua."
     }
   },
   {
@@ -732,7 +732,7 @@
       "ru": "Как-то раз я спустился в Бездну и взглянул в глаза огромному чудовищу. Сила его поразила меня до глубины души. Однажды я выйду с ним на честный бой и обезглавлю его, а ты, друг мой, станешь свидетелем моего триумфа!",
       "id": "Aku pernah berjelajah jauh ke dalam Abyss dan bertemu dengan monster raksasa yang buas. Aku tidak mengetahui namanya, tapi melihatnya saja sudah membuatku merinding hingga ke tulang-tulang. Tetapi suatu hari nanti, aku akan kembali kesana dan memenggal kepalanya. Saat hari itu tiba, kamu akan menjadi saksinya, partner!",
       "th": "ครั้งหนึ่งฉันเคยผจญภัยลึกลงไปในห้วงเหว และได้เผชิญหน้ากับสัตว์ร้ายตัวมหึมา ภาพของมันทำให้ฉันหนาวสะท้านไปถึงกระดูก จำคำพูดของฉันไว้นะ วันหนึ่งฉันจะกลับไปที่นั่น และตัดหัวสัตว์ร้ายมันซะ และคุณจะเป็นพยานให้ฉันเพื่อนยาก!",
-      "vi": "Tôi đã từng đối mặt với những con quái vật không lồ vô danh nơi vực sâu. Rồi sẽ có một ngày, tôi đường đường chính chính giết chết con quái vật đã khiến xương cốt của tôi đóng băng. Khi ấy phải mời bạn làm người làm chứng cho tôi, đồng đội!"
+      "vi": "#Tôi đã từng đối mặt với những con quái vật khổng lồ vô danh nơi vực sâu của thế giới. Rồi sẽ có một ngày, tôi đường đường chính chính trảm hạ con quái vật đã khiến xương cốt của tôi đóng băng. Khi ấy phải mời {F#cô}{M#cậu} làm người làm chứng cho tôi rồi, đồng đội!"
     }
   },
   {
@@ -764,7 +764,7 @@
       "ru": "Я так давно не видел Наставницу. Когда мы встретимся в следующий раз, надеюсь, что ей хотя бы придётся задействовать обе руки, чтобы одолеть меня...",
       "id": "Entah sudah berapa lama aku tidak bertemu dengan guru. Heh, aku hanya berharap saat kita berlatih bersama lagi, aku bisa memaksanya menggunakan kedua tangannya.",
       "th": "ไม่ได้เจออาจารย์มากี่ปีแล้วนะ? ฮึ่ม ครั้งต่อไปที่ฉันประลองกับเธอ ฉันหวังว่าอย่างน้อยจะบังคับให้เธอต้องใช้ทั้งสองมือในการสู้กับฉัน",
-      "vi": "Đã bao nhiêu năm rồi tôi không gặp sư phụ rồi? Hừm, lần sau cùng cô ấy so tài, tôi mong rằng ít nhất có thể ép cô ấy dùng hai tay để đối phó với tôi."
+      "vi": "Đã bao nhiêu năm tôi không gặp lại sư phụ rồi. Hừm, lần sau cùng cô ấy so tài, tôi mong rằng ít nhất có thể ép cô ấy dùng hai tay để đối phó với tôi."
     }
   },
   {
@@ -828,7 +828,7 @@
       "ru": "Как дела у господина Чжун Ли? Неплохо? Кажется, он хорошо адаптировался к жизни «простого смертного»... Возмутительно! Он обманул меня! Только хорошая дуэль сможет утолить моё негодование! \n\nЧто? Говоришь, я ему не ровня? Ха. Ха-ха-ха...",
       "id": "Katakan padaku, bagaimana kabar Tuan Zhongli akhir-akhir ini? Hmmm, cukup baik? Sepertinya dia sudah terbiasa hidup sebagai \"manusia biasa\". Huh... dia benar-benar telah berhasil menipuku mentah-mentah, aku tidak akan memaafkannya!\n\nApa maksudmu aku tidak bisa mengalahkannya? Hahaha...",
       "th": "Zhongli ช่วงนี้เป็นไงเหรอ? อืม... ก็ไม่แย่ใช่มั้ย? ดูท่าเขาคงจะคุ้นเคยกับการเป็น \"มนุษย์\" แล้วล่ะ บ้าเอ๊ย... ต้มฉันจนเปื่อยสนิท คงต้องสู้กับเขาดูสักตั้งถึงจะหายแค้น!\n\nว่าไงนะ... เธอบอกว่าฉันสู้เขาไม่ได้? ฮ่าฮ่าฮ่า...",
-      "vi": "Ngài Zhongli dạo này thế nào? Hmm... Không tệ? Có vẻ như anh ta đã quen với cuộc sống của một \"người phàm\" rồi. Chết tiệt... Anh ta dám dắt mũi tôi, chỉ có chiến đấu mới có thể khiến tôi vui vẻ trở lại!\n\nBạn nói... tôi không thể đánh bại anh ta? Hahaha..."
+      "vi": "#Ngài Zhongli dạo này thế nào? Hmm... Không tệ? Có vẻ như anh ta đã quen với cuộc sống của một \"người phàm\" rồi. Chết tiệt... Anh ta dám dắt mũi tôi, chỉ có chiến đấu mới có thể khiến tôi vui vẻ trở lại!\n\n{F#Cô}{M#Cậu} nói... tôi không thể đánh bại anh ta? Hahaha..."
     }
   },
   {
@@ -860,7 +860,7 @@
       "ru": "Её величество Царица - нежная натура. Но она была слишком добра, а потому ей пришлось измениться и стать холоднее. Она объявила войну всему свету лишь потому, что хочет добиться мира. И именно потому что она стала врагом для всех вокруг, я смог познакомиться с тобой.",
       "id": "Yang Mulia Tsaritsa sebenarnya adalah seseorang yang sangat lembut, terlalu lembut bahkan, maka dari itu dia harus menjadi lebih tegas. Dia harus berperang melawan seluruh dunia karena mimpinya untuk menciptakan kedamaian. Karena dia bermusuhan dengan seluruh dunia, kita baru bisa saling bertemu.",
       "th": "ราชินีเป็นคนที่อ่อนโยนมากจริงๆ แต่เป็นเพราะเธออ่อนโยนเกินไป จนต้องสร้างกำแพงเป็นคนเย็นชา เธอฝันอยากให้โลกนี้มีสันติภาพจึงต้องประกาศสงครามกับคนทั้งโลก แต่เพราะเธอเป็นศัตรูกับคนทั้งโลกฉันมีโอกาสพบคุณไงล่ะ",
-      "vi": "Nữ hoàng thực ra rất dịu dàng. Nhưng chính vì quá dịu dàng nên mới trở nên lạnh lùng. Chính vì giấc mơ hòa bình mà tuyên bố chiến tranh trên toàn thế giới. Cũng may, cô ấy là kẻ thù của thế giới tôi mới có cơ hội gặp được bạn."
+      "vi": "#Nữ hoàng thực ra rất dịu dàng. Nhưng chính vì quá dịu dàng nên mới trở nên lạnh lùng. Chính vì giấc mơ hòa bình mà tuyên chiến với cả thế giới. Cũng chính vì cô ấy là kẻ thù của thế giới, tôi mới có cơ hội gặp được {F#cô}{M#cậu}."
     }
   },
   {
@@ -893,6 +893,326 @@
       "id": "Varka? Saat membayangkan bisa bertarung dengan Knight terbaik Knights of Favonius, Varka sang Knight of Boreas saja, sudah membuatku bergetar karena kegembiraan. Sungguh luar biasa bisa hidup di dunia ini.",
       "th": "Varka เหรอ? หูว แค่คิดว่าสักวันฉันจะมีโอกาสต่อสู้กับยอดอัศวินของกองอัศวินแห่ง Favonius \"อัศวินแห่ง Boreas\" ในตำนาน ฉันก็ตื่นเต้นจนตัวสั่นแล้ว การมีชีวิตอยู่ในโลกนี้มันช่างวิเศษจริงๆ",
       "vi": "Varka ư? Hừm, nghĩ đến ngày có thể quyết đấu với người đứng đầu Đội Kỵ Sĩ Tây Phong - Kỵ Sĩ Bắc Phong trong truyền thuyết thì tôi lại run lên vì phấn khích. Có thể sống trong thế giới như vậy thật là tuyệt."
+    }
+  },
+  {
+    "title": {
+      "zhs": "关于「丑角」…",
+      "zht": "關於「丑角」…",
+      "jp": "「道化」について…",
+      "ko": "「페드롤리노」에 대해…",
+      "en": "About The Jester",
+      "de": "Über „Pierro“ ...",
+      "es": "Sobre El Bufón...",
+      "fr": "À propos de Pierro...",
+      "pt": "Sobre \"Pierro\"...",
+      "ru": "О Педролино...",
+      "id": "Tentang Jester",
+      "th": "เกี่ยวกับ The Jester...",
+      "vi": "Về \"Pierro\"..."
+    },
+    "line": {
+      "zhs": "他是愚人众最初的执行官，也是今日执行官们的领袖，只会在大场面出现。至于他的功绩…坦白说，我不关心。我效忠的对象是女皇大人。",
+      "zht": "他是愚人眾最初的執行官，也是今日執行官們的領袖，只會在大場面出現。至於他的功績…坦白說，我不關心。我效忠的對象是女皇大人。",
+      "jp": "彼はファデュイ最初の執行官で、今の執行官たちのリーダーでもある。ただ、重要な場面でしか姿を見せないんだ。彼の功績については…正直、興味がない。俺が忠誠を誓うのは女皇様だからね。",
+      "ko": "그는 우인단 최초의 집행관이자 오늘날 집행관들의 리더야. 주로 중요한 자리에서만 모습을 드러내지. 그의 업적은… 솔직히 관심 없어. 내 충심은 오로지 여왕님을 위한 거니까",
+      "en": "He was the first ever Fatui Harbinger, and today he is our leader. He only appears on important occasions. As for his accomplishments... To be honest, I don't really care. I owe my loyalty and devotion to the Tsaritsa, no one else.",
+      "de": "Er ist der erste unter den Elf der Fatui und ist der Anführer der heutigen Elf und wird nur bei großen Veranstaltungen auftreten. Was seine Erfolge angeht ... Ehrlich gesagt, ist es mir egal. Meine Loyalität gilt der Zarin.",
+      "es": "Fue el miembro original de Los Once, y es nuestro líder hoy en día. Solo aparece en ocasiones importantes. En cuanto a sus logros... Para ser honestos, me dan exactamente igual. Mi lealtad y devoción son para con la Zarina, y nadie más.",
+      "fr": "Il est le tout premier Exécuteur des Fatui, et aujourd'hui, c'est notre chef. Il n'apparaît que lors des grandes occasions. Quant à ce qu'il a accompli... Pour être honnête, je ne m'en soucie pas vraiment. Je dois ma loyauté ainsi que ma dévotion à la Tsarine et à personne d'autre.",
+      "pt": "Ele é o primeiro Mensageiro Fatui, e hoje é o nosso líder. Ele apenas aparece em ocasiões importantes. Quanto às suas conquistas... Para falar a verdade, não me importo, minha lealdade e devoção são exclusivas para a Tsaritsa, e mais ninguém.",
+      "ru": "Он самый первый Предвестник Фатуи и наш нынешний лидер. Он появляется только по особым случаям. Что касается его достижений... Честно говоря, мне всё равно. Я предан только Царице и никому другому.",
+      "id": "Dia adalah Fatui Harbinger yang pertama, dan sekarang dia juga adalah pemimpin kami. Dia hanya muncul di acara penting saja. Dan mengenai sepak terjangnya ... Sejujurnya, aku tidak peduli. Aku menyerahkan kesetiaan dan pengabdianku hanya kepada Tsaritsa, bukan kepada orang lain.",
+      "th": "เขาคือผู้บริหารคนแรกของ Fatui และยังเป็นผู้นำของเหล่าผู้บริหารในปัจจุบันด้วย จะปรากฏตัวเฉพาะในงานสำคัญเท่านั้น ส่วนผลงานของเขา... บอกตามตรงนะ ฉันไม่ได้สนใจน่ะ บุคคลที่ฉันภักดีด้วยมีเพียงองค์ราชินีเท่านั้น",
+      "vi": "Anh ta là vị quan chấp hành đầu tiên của Fatui, cũng là thủ lĩnh của chúng tôi, cho nên chỉ xuất hiện trong những dịp trọng đại. Còn về chiến tích của anh ta thì... tôi không quan tâm, người mà tôi thề sẽ trung thành là Nữ Hoàng."
+    }
+  },
+  {
+    "title": {
+      "zhs": "关于「队长」…",
+      "zht": "關於「隊長」…",
+      "jp": "「隊長」について…",
+      "ko": "「카피타노」에 대해…",
+      "en": "About The Captain",
+      "de": "Über „Capitano“ ...",
+      "es": "Sobre El Capitán...",
+      "fr": "À propos de Capitano...",
+      "pt": "Sobre Capitano...",
+      "ru": "О Капитане...",
+      "id": "Tentang Captain",
+      "th": "เกี่ยวกับ The Captain...",
+      "vi": "Về \"Capitano\""
+    },
+    "line": {
+      "zhs": "我曾见过他在战场上的模样，实在是过于强悍了。或许我的席位太靠后了吧，让他没有留意到我。但就算今天被他忽视，明天，我也会让他看到我的实力。",
+      "zht": "我曾見過他在戰場上的模樣，實在是過於強悍了。或許我的席位太靠後了吧，讓他沒有留意到我。但就算今天被他忽視，明天，我也會讓他看到我的實力。",
+      "jp": "昔、戦場で彼の戦いを見たことがある。その姿はあまりに勇猛なものだったよ。ただ俺の席は後ろすぎる、たぶん彼は俺のことに気付いていなかっただろう。けど、たとえ今日見向きされなくても、明日こそは、俺の実力を彼に見せてやりたい。",
+      "ko": "난 전장에서 그의 모습을 본 적 있어. 정말 더할 나위 없이 강했지. 내 순위가 너무 뒤쪽이라 날 주의 깊게 보지는 않은 모양이야. 비록 지금은 무시당해도, 언젠가 꼭 내 실력을 보여주겠어",
+      "en": "I've seen him in battle before, and oh what a sight it was. Perhaps I'm ranked too low for him to notice me right now. Well, he may not recognize my strengths yet, but one day, I'll show him what I'm made of.",
+      "de": "Ich habe ihn im Kampf gesehen und er ist einfach unglaublich stark. Vielleicht ist mein Platz zu weit hinten, so dass er mich nicht bemerkt hat. Aber selbst wenn er mich heute ignoriert, werde ich ihm morgen meine Stärke zeigen.",
+      "es": "Le he visto en batalla y, guau, da gusto verlo. Tal vez aún estoy muy por debajo de él como para que se fije en mí... Bueno, puede que aún no reconozca mi fuerza, pero algún día le enseñaré lo que valgo.",
+      "fr": "Je l'ai déjà vu au combat, et quel spectacle c'était. Je dois sans doute être de rang trop bas pour qu'il puisse me remarquer. Enfin bon, il ne reconnaît peut-être pas encore ma force, mais un jour, je lui montrerai de quoi je suis capable.",
+      "pt": "Eu o vi em batalha antes, e que vista. Eu estou numa posição muito baixa para que ele repare em mim agora. Ele talvez ainda não reconheça minha força, mas um dia, eu mostrarei para ele meu verdadeiro poder.",
+      "ru": "Я уже видел его в бою, и это было настоящее зрелище. Должно быть, я занимаю слишком низкое положение, чтобы он меня заметил. Он пока не признаёт мою силу, но однажды я покажу ему, на что способен.",
+      "id": "Aku pernah melihatnya di medan tempur, dan astaga dia benar-benar kuat sekali. Mungkin saat ini peringkatku masih terlalu rendah sehingga tidak layak untuk dihiraukan olehnya. Namun, walaupun dia masih belum menyadari kekuatanku hari ini, tapi suatu hari nanti dia pasti akan menyadari kekuatanku ini.",
+      "th": "ฉันเคยเห็นเขาตอนอยู่ในสนามรบมาก่อน เขาแข็งแกร่งมากจริง ๆ บางทีอาจเป็นเพราะอันดับของฉันอยู่รั้งท้ายเกินไป ทำให้เขาไม่ทันได้สังเกตเห็นฉัน แต่ถึงแม้วันนี้จะถูกเขามองข้าม แต่วันพรุ่งนี้ ฉันจะทำให้เขาเห็นความสามารถของฉันให้ได้",
+      "vi": "Tôi đã từng chứng kiến được dáng vẻ của anh ta trên chiến trường, thực sự quá dũng mãnh. Có lẽ do thứ hạng của tôi quá thấp nên anh ta không để ý đến tôi. Nhưng dù cho hôm nay bị ngó lơ thì ngày mai tôi cũng sẽ chứng minh cho anh ta thấy sức mạnh của mình."
+    }
+  },
+  {
+    "title": {
+      "zhs": "关于「博士」…",
+      "zht": "關於「博士」…",
+      "jp": "「博士」について…",
+      "ko": "「도토레」에 대해…",
+      "en": "About The Doctor",
+      "de": "Über „Il Dottore“ ...",
+      "es": "Sobre El Doctor...",
+      "fr": "À propos de Dottore...",
+      "pt": "Sobre Dottore...",
+      "ru": "О Дотторе...",
+      "id": "Tentang Dokter ....",
+      "th": "เกี่ยวกับ The Doctor...",
+      "vi": "Về \"Dottore\"..."
+    },
+    "line": {
+      "zhs": "听说他把不同年龄段的自己切片做成了义体，负责不同的任务。没办法，我的同僚都是些不太正常的人。反过来想想，要是某一天，我遇见了自己的义体…哈，肯定得和对方决出真正能活下去的那一个。",
+      "zht": "聽說他把不同年齡段的自己切片做成了義體，負責不同的任務。沒辦法，我的同僚都是些不太正常的人。反過來想想，要是某一天，我遇見了自己的義體…哈，肯定得和對方決出真正能活下去的那一個。",
+      "jp": "彼は年齢別に自分の義体を作って、様々な任務を担当させているらしい。しょうがないさ、俺の同僚はみんな変わり者ばかりだからね。でも、逆に考えよう、仮に俺が自分の義体と出会ったら…ハハッ、きっと生き残るほうを決めるために、そいつと戦うことになるよね。",
+      "ko": "그는 다른 나이대의 자신의 일부를 사이보그로 만들어 각기 다른 임무를 맡겼다고 해. 내 동료들은 모두 정상이 아닌 것 같아. 생각해 봤는데, 만일 어느 날 내가 내 사이보그를 만난다면… 하, 둘 중 누가 살아남을 자격이 있는지 결판을 내야겠지",
+      "en": "I heard that he took segments of himself at different ages, made prostheses out of them, and assigned different tasks to each one. I know... all my comrades are a little weird. Come to think of it, if I met my own prosthesis... Hah, we'd have to fight then and there to decide which one of us gets to survive.",
+      "de": "Man sagt, er habe sich nach verschiedenen Altersstufen aufgeteilt und diese Teile zu eigenständigen Wesen gemacht, um unterschiedliche Aufgaben zu übernehmen. Na ja, meine Kollegen sind nicht ganz normale Leute. Aber wenn ich eines Tages auf so ein Teil von mir treffen würde ... Ha, wir würden auf der Stelle kämpfen müssen, um zu entscheiden, wer von uns überleben darf.",
+      "es": "He oído que tomó partes de sí mismo a diferentes edades para hacer prototipos con ellos y asignó diferentes tareas a cada uno. Lo sé... Todos mis compañeros son un tanto excéntricos. Ahora que lo pienso, si me encontrara con un prototipo de mí mismo... ¡Ja! Tendríamos que luchar en el momento para decidir quién sobrevive.",
+      "fr": "J'ai entendu dire qu'il a pris des parties de lui-même à différents âges pour en faire des prothèses qui ont chacune un rôle particulier. Je sais, mes camarades sont un peu bizarres. Maintenant que j'y pense, si je rencontrais ma propre prothèse... Ha, il faudrait que je me batte avec elle pour décider de qui d'entre nous survivra.",
+      "pt": "Ouvi dizer que ele pegou segmentos de si mesmo em idades diferentes e fez próteses deles, e deu tarefas diferentes para cada uma delas. É, eu sei, todos os meus companheiros são meio esquisitos. Na verdade, se eu encontrasse com minha própria prótese... Haha, teríamos uma luta na hora para descobrir quem sobreviveria.",
+      "ru": "Я слышал, что он брал части себя в разном возрасте и превращал их в кибернетические аугментации, каждая из которых выполняла определенную роль. Я знаю, мои товарищи немного странные. Теперь, когда я думаю об этом, если бы я встретил свою собственную аугментацию... Ха, мне пришлось бы драться с ней, чтобы решить, кто из нас выживет.",
+      "id": "Kudengar dia membagi dirinya sendiri di usia yang berbeda-beda dan menciptakan sebuah tubuh tiruan untuk masing-masingnya, lalu memberi tugas yang berbeda-beda kepada mereka. Iya, aku tahu ... semua rekan kerjaku memang aneh dan unik. Tapi setelah kupikir-pikir lagi, kalau aku juga punya tiruan dari tubuhku sendiri ... Hah, pastinya kami bakal langsung bertarung untuk menentukan siapa yang paling kuat di antara kita berdua.",
+      "th": "ได้ยินมาว่าเขาแบ่งตนเองในแต่ละช่วงวัยออกเป็นส่วน ๆ และสร้างเป็นร่างเทียมขึ้นมา เพื่อรับผิดชอบภารกิจที่แตกต่างกันไป มันช่วยไม่ได้ล่ะนะ เพื่อนร่วมงานของฉันมีแต่พวกไม่ปกติกันทั้งนั้น พอมาคิดกลับกันแล้ว ถ้าวันนึงฉันได้เจอกับร่างเทียมของตัวเองละก็... ฮ่า ๆ คงต้องต่อสู้ตัดสินชะตากับอีกฝ่ายแล้วล่ะ ว่าใครกันแน่ที่สมควรมีชีวิตอยู่ต่อไป",
+      "vi": "Nghe nói anh ta đã tạo ra bản sao dựa vào từng độ tuổi khác nhau của mình để phụ trách các loại nhiệm vụ khác nhau. Hết cách rồi, đồng liêu của tôi đều là những người không bình thường như vậy đó. Nghĩ lại thì, nếu như có một ngày tôi gặp được bản sao của mình thì... haha, chắc sẽ xảy ra một trận chiến chấn động để quyết định ra người sống sót cuối cùng rồi."
+    }
+  },
+  {
+    "title": {
+      "zhs": "关于「少女」…",
+      "zht": "關於「少女」…",
+      "jp": "「少女」について…",
+      "ko": "「콜롬비나」에 대해…",
+      "en": "About Damselette",
+      "de": "Über „Columbina“ ...",
+      "es": "Sobre La Damisela...",
+      "fr": "À propos de Columbina...",
+      "pt": "Sobre \"Columbina\"...",
+      "ru": "О Коломбине...",
+      "id": "Tentang Damselette",
+      "th": "เกี่ยวกับ The Damselette...",
+      "vi": "Về \"Columbina\"..."
+    },
+    "line": {
+      "zhs": "愚人众执行官的席位是按照实力划分的，我不明白那个女孩为什么是「第三席」。有机会的话，我是想和排在我之前的执行官都比试一遍啦，但总有种不太想和她交手的感觉…不管怎么说，你也小心一点。",
+      "zht": "#愚人眾執行官的席位是按照實力劃分的，我不明白那個女孩為什麼是「第三席」。有機會的話，我是想和排在我之前的執行官都比試一遍啦，但總有種不太想和她交手的感覺…不管怎麼說，{F#妳}{M#你}也小心一點。",
+      "jp": "ファトゥスの席は実力によって決まる。けど、なんであの子が「第三位」にいるのかはよく分からないんだ。もし機会があったら、俺より前にいる執行官たちと一度戦ってみたいね。ただ、どうしてか彼女とはあまり戦う気が起きないんだ…とにかく、君も気を付けたほうがいい。",
+      "ko": "우인단 집행관 순위는 실력으로 정하는 건데, 어째서 그 여자아이가 「3위」인지 이해할 수 없어. 기회가 된다면 내 앞 순번 집행관들과 전부 붙어보고 싶은데, 그 애는 좀 꺼려진다랄까…. 어쨌든 너도 조심하는 게 좋을 거야",
+      "en": "The Fatui Harbingers are ranked by strength, and I have no idea why that girl is No. 3. I'd test my skills with every Harbinger who ranks above me if I had the chance, but when it comes to her... something just doesn't feel right. Anyway, you should be careful around her.",
+      "de": "Ich verstehe nicht, warum dieses Mädchen den „dritten Platz“ einnimmt, wenn die Plätze der Elf der Fatui nach der Stärke aufgeteilt sind. Wenn ich die Chance hätte, würde ich gern gegen alle vor mir platzierten der Elf kämpfen, aber ich möchte nicht gegen sie kämpfen ... Wie auch immer, du solltest vorsichtig sein.",
+      "es": "Los Once de los Fatui estamos clasificados por nuestra fuerza, pero no tengo ni idea de por qué ella es la tercera. Siempre que puedo, pongo a prueba mis habilidades con todos los heraldos que están por encima de mí, pero con ella... No sé, siento que hay algo que no encaja. Sea como sea, ten cuidado cuando esté cerca.",
+      "fr": "Les Exécuteurs des Fatui sont classés selon leur force, j'ignore pourquoi cette fille est numéro 3. Si j'en avais l'occasion, j'aimerais pouvoir me mesurer à tous les Exécuteurs qui sont d'un rang supérieur au mien, pourtant, je n'ai pas très envie de me confronter à elle... Il y a quelque chose qui cloche avec elle. Bref, tu devrais faire attention avec elle.",
+      "pt": "Os Mensageiros dos Fatui são classificados por força, e não tenho ideia porque aquela garota é a Terceira. Eu testaria minhas habilidades contra todos os Mensageiros acima de mim se tivesse a chance, mas quanto a ela... Algo não parece certo. De qualquer maneira, tenha cuidado com ela.",
+      "ru": "Предвестники Фатуи ранжированы по силе, и я понятия не имею, почему эта девочка занимает 3-е место. Будь у меня такая возможность, я бы хотел помериться силами с каждым Предвестником, который стоит выше меня, но не с ней... с ней что-то не так. С ней нужно быть очень осторожным.",
+      "id": "Peringkat dari Fatui Harbinger ditentukan dari kekuatannya, dan aku tidak mengerti kenapa gadis kecil itu ada di peringkat ketiga. Aku sangat ingin menjajal kemampuanku dengan para Harbinger yang ada di atasku kalau ada kesempatan, tapi kalau disuruh berhadapan dengan dia ... rasanya perasaanku jadi tak enak. Yah pokoknya kamu juga harus hati-hati kalau berhadapan dengannya.",
+      "th": "อันดับของผู้บริหาร Fatui นั้นแบ่งตามระดับความสามารถ ฉันไม่เข้าใจเลยว่าทำไมเด็กสาวคนนั้นถึงได้เป็น \"อันดับที่ 3\" ถ้ามีโอกาส ฉันก็อยากจะลองประมือกับพวกผู้บริหารที่อันดับสูงกว่าฉันสักครั้งล่ะนะ แต่ก็มักจะมีความรู้สึกที่ว่าไม่อยากจะประมือกับหล่อนสักเท่าไหร่... แต่ไม่ว่ายังไง เธอเองก็ระวังตัวด้วยนะ",
+      "vi": "#Thứ tự của quan chấp hành Fatui được xếp dựa vào thực lực, tôi không hiểu tại sao cô bé đó lại được xếp \"thứ 3\". Nếu có cơ hội thì tôi luôn muốn đấu thử với các quan chấp hành xếp trên tôi, nhưng vẫn có cảm giác không muốn đấu với cô bé đó lắm... Nói chung thì, {F#cô}{M#cậu} cũng cẩn thận chút nhé."
+    }
+  },
+  {
+    "title": {
+      "zhs": "关于「仆人」…",
+      "zht": "關於「僕人」…",
+      "jp": "「召使」について…",
+      "ko": "「아를레키노」에 대해…",
+      "en": "About The Knave",
+      "de": "Über „Arlecchino“ ...",
+      "es": "Sobre La Sota...",
+      "fr": "À propos d'Arlecchino...",
+      "pt": "Sobre Arlecchino...",
+      "ru": "Об Арлекине...",
+      "id": "Tentang Knave",
+      "th": "เกี่ยวกับ The Knave...",
+      "vi": "Về \"Arlecchino\"..."
+    },
+    "line": {
+      "zhs": "我不讨厌有自己打算的人。毕竟我加入愚人众，也是为了获得更多争斗的机会。但这个人，我不喜欢。如果背叛能够获得收益，她会毫不留情地向女皇大人挥剑。她的眼里只有疯狂。",
+      "zht": "我不討厭有自己打算的人。畢竟我加入愚人眾，也是為了獲得更多爭鬥的機會。但這個人，我不喜歡。如果背叛能夠獲得收益，她會毫不留情地向女皇大人揮劍。她的眼裡只有瘋狂。",
+      "jp": "打算的な人は別に嫌いじゃない。何しろ、俺がファデュイに入ったのだって、戦う機会がもっと欲しいからだ。けど、俺はどうしてもこいつのことが気に入らない。裏切ることで利益を手にできるのなら、彼女は躊躇なく女皇様に刃を向けるだろう。彼女の目には、狂気しかないからね。",
+      "ko": "난 꿍꿍이가 있는 사람이 싫지 않아. 어쨌든 나도 더 많은 전투를 원해서 우인단의 일원이 됐으니까. 하지만 그 사람은 싫어. 배신으로 이익을 얻을 수 있다면 가차 없이 여왕님께 검을 휘두를 사람이거든. 그녀의 눈엔 광기뿐이야",
+      "en": "Look, I've got nothing against people who have their own agendas — I myself joined the Fatui to get more experience in combat. But I don't like her at all. If she stood to benefit from betraying others, she'd turn against the Tsaritsa in a heartbeat. There isn't a sane bone in her body.",
+      "de": "Ich habe nichts gegen Leute, die ihre eigenen Pläne haben. Schließlich bin ich den Fatui beigetreten, um mehr Kampfmöglichkeiten zu bekommen. Aber diese Person mag ich nicht. Wenn Verrat Gewinne bringen könnte, würde sie ihr Schwert ohne Gnade gegen die Zarin schwingen. Sie hat nichts als Wahnsinn in ihren Augen.",
+      "es": "A ver, no tengo nada en contra de la gente que tiene su propia agenda; yo mismo me uní a los Fatui para adquirir más experiencia de combate. Pero ella no me agrada en absoluto. Si pudiera sacar beneficio traicionando a otras personas, ella se rebelaría contra la Zarina en un abrir y cerrar de ojos. No tiene ningún tipo de cordura.",
+      "fr": "Je n'ai rien contre les gens qui ont leurs propres idées. Après tout, si j'ai rejoint les Fatui, c'est bien parce que je voulais avoir plus d'occasions de me battre. Par contre, elle, je ne l'apprécie pas. Si la trahison pouvait lui apporter quelque avantage, elle n'aurait aucun scrupule à asséner un coup d'épée à Son Altesse la Tsarine. Elle n'est que folie.",
+      "pt": "Veja bem, eu não tenho nada contra as intenções de cada um. Eu me juntei aos Fatui para ter mais experiência de combate. Mas eu não gosto dela. Se ela ganhasse algo traindo os outros, trairia a Tsaritsa sem nem pensar. Ela é completamente louca.",
+      "ru": "Слушай, я ничего не имею против людей, которые преследуют свои собственные цели. Я сам вступил в Фатуи, чтобы получить больше боевого опыта. Но она мне совсем не нравится. Если бы предательство могло принести ей хоть какую-то выгоду, она бы в одно мгновение обернулась против Царицы. Она - чистое безумие.",
+      "id": "Aku tidak punya dendam apa-apa kepada orang-orang yang punya agenda tersendiri yang tersembunyi karena aku sendiri bergabung dengan Fatui supaya bisa dapat lebih banyak kesempatan untuk bertempur. Tapi aku tidak suka dengannya. Kalau dia bisa ambil untung dari mengkhianati seseorang, dia bahkan bisa saja mengkhianati Tsaritsa. Dia benar-benar tak waras.",
+      "th": "ฉันไม่ได้เกลียดคนที่มีแผนการของตัวเองหรอกนะ เพราะการที่ฉันเข้าร่วม Fatui ก็เพื่อให้ได้มีโอกาสต่อสู้มากขึ้น แต่ฉันไม่ชอบคนคนนี้เลย ถ้าการหักหลังทำให้ได้รับผลประโยชน์ หล่อนคงจะตวัดดาบไปทางองค์ราชินีอย่างไร้เยื่อใยเลย ในแววตาของหล่อนมีเพียงความบ้าคลั่งเท่านั้นแหละ",
+      "vi": "Tôi không ghét những người thích nghĩ cho bản thân, dẫu sao thì tôi gia nhập vào Fatui cũng là để có nhiều cơ hội chiến đấu hơn mà. Nhưng tôi không ưa cô ta. nếu việc phản bội mang đến lợi ích thì cô ta cũng sẽ không hề do dự mà vung kiếm về phía Nữ Hoàng. Trong mắt của cô ta chỉ có sự điên cuồng thôi."
+    }
+  },
+  {
+    "title": {
+      "zhs": "关于「公鸡」…",
+      "zht": "關於「公雞」…",
+      "jp": "「雄鶏」について…",
+      "ko": "「풀치넬라」에 대해…",
+      "en": "About The Rooster",
+      "de": "Über „Pulcinella“ ...",
+      "es": "Sobre El Gallo...",
+      "fr": "À propos de Pulcinella...",
+      "pt": "Sobre Pulcinella...",
+      "ru": "О Пульчинелле...",
+      "id": "Tentang Rooster",
+      "th": "เกี่ยวกับ The Rooster...",
+      "vi": "Về \"Pulcinella\"..."
+    },
+    "line": {
+      "zhs": "我不懂什么人情世故。但我知道，他是真心想要帮助我的。他看我的眼神，就像看待家人一样。哦，说到这个，冬妮娅和托克给我回信的时候，时常提到他送去家里的馅饼和礼物。在我暂别冬都期间，他确实按照约定，照顾好了我的家人们。",
+      "zht": "我不懂什麼人情世故。但我知道，他是真心想要幫助我的。他看我的眼神，就像看待家人一樣。哦，說到這個，冬妮婭和托克給我回信的時候，時常提到他送去家裡的餡餅和禮物。在我暫別冬都期間，他確實按照約定，照顧好了我的家人們。",
+      "jp": "俺は義理や人情といったものがよく分からない。けど、彼が本当に俺のことを助けたいと思っているのは知っている。俺を見る時の彼の眼差しは、まるで家族を見るもののようだよ。ああ、そういえば、トーニャとテウセルからの手紙には、彼がうちに送ってくれたパイやプレゼントのことがよく書いてある。どうやら、俺が冬国を離れている間、彼は約束通り、俺の家族の面倒をよく見てくれているみたいだ。",
+      "ko": "난 세상 물정을 잘 모르지만 그가 날 진심으로 돕고 싶어 한다는 것만은 알고 있어. 그는 마치 가족을 보듯이 날 보거든. 아, 말이 나와서 말인데, 토니아와 테우세르의 답신 중에, 그가 보낸 파이와 선물이 자주 언급되곤 해. 내가 잠시 겨울 나라를 떠난 동안, 약속대로 내 가족들을 챙겨준 모양이야",
+      "en": "I don't know what his motivations could be, but he seems genuine about wanting to help me. He treats me just like family. Oh, and speaking of family — Tonia and Teucer are always telling me about the pastries and other gifts he brings them when they write. So while I've been away from Snezhnaya, he's kept his promise to take care of my family.",
+      "de": "Ich kenne nicht so viel über die menschliche Freundlichkeit. Aber ich wusste, dass er mir aufrichtig helfen wollte. Er sah mich an, als ob ich zu seiner Familie gehörte. Apropos, als Tonia und Teucer mir zurückschrieben, erwähnten sie oft die Kuchen und Geschenke, die er geschickt hatte. Er hat sich, während ich weg bin, wie versprochen gut um meine Familie gekümmert.",
+      "es": "No sé cuál es su motivación, pero parece querer ayudarme genuinamente. Me trata como si fuera de su familia. Oh, hablando de familias, en las cartas que me escriben, Tonia y Teucer siempre me hablan de los dulces y otros regalos que él les lleva. Desde que me fui de Snezhnaya, ha cumplido su promesa de cuidar a mi familia.",
+      "fr": "Je ne sais pas quelles sont ses motivations, mais il semble sincèrement vouloir m'aider. Il me traite comme un membre de sa famille. Oh, en parlant de famille, Tonia et Teucer me parlent toujours dans leurs lettres des pâtisseries et autres cadeaux qu'il leur apporte. Cela montre qu'il a tenu sa promesse de prendre soin de ma famille alors que j'étais loin de Snezhnaya.",
+      "pt": "Eu não sei suas motivações, mas ele parece genuinamente querer me ajudar. Ele me trata como se fosse sua família. Oh, falando de família, Tonia e Teucer sempre estão me falando das comidas e outros presentes que ele traz quando escrevem para mim. Ele manteve sua promessa de cuidar de minha família enquanto estou longe de Snezhnaya.",
+      "ru": "Я не знаю, каковы его мотивы, но, похоже, он искренне хочет мне помочь. Он относится ко мне как к члену семьи. Кстати, о семье. Тоня и Тевкр рассказывают в своих письмах о пирожках и других подарках, которые он приносит им. Это говорит о том, что он сдержал своё обещание заботиться о моей семье во время моего отъезда.",
+      "id": "Aku tidak tahu apa tujuan dia yang sebenarnya, tapi dia terlihat tulus ingin membantuku. Dia memperlakukanku bagaikan keluarganya sendiri. Oh, ngomong-ngomong soal keluarga — Tonia dan Teucer selalu bilang padaku di dalam surat yang mereka tulis soal makanan dan hadiah lain yang diberikan oleh Rooster pada mereka. Jadi selama aku meninggalkan Snezhnaya, dia menepati janjinya untuk menjaga keluargaku.",
+      "th": "ฉันไม่เข้าใจเรื่องความสัมพันธ์ระหว่างผู้คนเท่าไหร่หรอกนะ แต่ฉันรู้ดี ว่าเขาอยากจะช่วยเหลือฉันจากใจจริง สายตาที่เขามองฉัน เหมือนกำลังมองคนในครอบครัวเลย อ๋อ พอพูดถึงเรื่องนี้ ตอนที่ Tonia กับ Teucer ตอบจดหมายฉัน มักจะพูดถึงพายและของขวัญที่เขาส่งไปที่บ้านอยู่เสมอ ในช่วงที่ฉันบอกลาแดนเหนือไป เขาก็ดูแลคนที่บ้านของฉันเป็นอย่างดี อย่างที่เคยสัญญาเอาไว้เลย",
+      "vi": "Tôi không hiểu thế nào là nhân tình thế thái, nhưng tôi biết là anh ta thật lòng muốn giúp tôi. Ánh mắt của anh ta nhìn tôi như thể là đang đối đãi với người nhà vậy. Ừm, nhắc lại thì, khi Tonia và Teucer gửi thư về cho tôi cũng có nhắc đến việc nhận được bánh và quà từ anh ta. Lúc tôi tạm rời khỏi Snezhnaya, anh ta cũng đã làm theo lời hứa, chăm sóc tốt cho người nhà của tôi."
+    }
+  },
+  {
+    "title": {
+      "zhs": "关于「木偶」…",
+      "zht": "關於「木偶」…",
+      "jp": "「傀儡」について…",
+      "ko": "「산드로네」에 대해…",
+      "en": "About Marionette",
+      "de": "Über „Sandrone“ ...",
+      "es": "Sobre La Títere...",
+      "fr": "À propos de Sandrone...",
+      "pt": "Sobre Sandrone...",
+      "ru": "О Сандроне...",
+      "id": "Tentang Marionette",
+      "th": "เกี่ยวกับ Marionette...",
+      "vi": "Về \"Sandrone\"..."
+    },
+    "line": {
+      "zhs": "好像是个埋头研究的人？我想想，那些机械是不是都跟她有关啊。总之，仅有几次的见面中，她一副想杀了我的眼神。可我完全不记得做过什么惹她生气的事。",
+      "zht": "好像是個埋頭研究的人？我想想，那些機械是不是都跟她有關啊。總之，僅有幾次的見面中，她一副想殺了我的眼神。可我完全不記得做過什麼惹她生氣的事。",
+      "jp": "研究に没頭している人らしい。ということは、あれらの機械も彼女と何か関係があるんだろうか。とにかく、彼女と会ったのはたった数回だけだというのに、いつも俺を殺したそうな目で見てくる。彼女を怒らせるようなことをした覚えは、まったくないんだけどね。",
+      "ko": "연구만 하는 사람 같던데? 생각해 보니 그 기계들은 모두 그녀와 관련된 게 아닐까 싶네. 아무튼, 별로 만난 적도 없는데 날 죽일 듯이 노려보더라. 내가 뭘 그렇게 화나게 했는진 나도 잘 모르겠어",
+      "en": "She always seems engrossed in her research. Hmm... I wonder if those machines have anything to do with her? Anyway, I've only met her a few times, but every time she looked like she wanted to murder me. I have no idea what I possibly could have done to annoy her, though.",
+      "de": "Scheint eine Person zu sein, die sich in der Forschung vergräbt? Mal sehen, ob diese ganzen Maschinen mit ihr zu tun haben. Na ja, bei den wenigen Begegnungen, die wir hatten, sah sie mich an, als wollte sie mich umbringen. Aber ich kann mich gar nicht mehr erinnern, dass ich sie irgendwie verärgert habe.",
+      "es": "Siempre parece estar muy ocupada investigando. Humm... Me pregunto si esas máquinas tendrán algo que ver con ella. El caso es que no nos hemos visto muchas veces, pero cuando lo hemos hecho, era como si quisiera asesinarme. No tengo ni idea de qué puedo haber hecho para enojarla.",
+      "fr": "Elle semble toujours absorbée par ses recherches. Hmm... Je me demande si ces machines ont quelque chose à voir avec elle ? En tout cas, je ne l'ai rencontrée que quelques fois, mais à chaque fois, on aurait dit qu'elle voulait me tuer. Je n'ai aucune idée de ce que j'ai pu faire pour l'énerver, cependant.",
+      "pt": "Ela sempre parece estar mergulhada em sua pesquisa. Hmm... Me pergunto se essas máquinas têm algo a ver com ela? Enfim, eu apenas a vi algumas vezes, mas em todas elas, ela parecia querer me matar. Não faço ideia do que fiz para deixá-la furiosa desse jeito.",
+      "ru": "Она всегда кажется поглощённой своими исследованиями. Хм... Интересно, эти машины как-то связаны с ней? В общем, я встречался с ней всего несколько раз, но каждый раз она смотрела на меня так, будто хотела меня убить. Я понятия не имею, что я сделал, чтобы разозлить её.",
+      "id": "Dia selalu berkutat di dalam penelitiannya. Hmm ... Aku penasaran, apa mesin-mesin itu ada hubungannya dengan dia? Yah pokoknya, aku juga cuma pernah beberapa kali saja bertemu dengannya, dan tiap kali bertemu dia seolah mau membunuhku. Jujur saja ya, aku sendiri juga tidak tahu kenapa.",
+      "th": "ดูเหมือนว่าจะเป็นพวกที่เอาแต่ก้มหน้าทำงานวิจัยนะ? ฉันขอคิดก่อน เครื่องกลพวกนั้นจะเกี่ยวข้องกับหล่อนทั้งหมดเลยมั้ยนะ สรุปก็คือ ถึงจะเคยเจอกันแค่ไม่กี่ครั้ง แต่สายตาหล่อนก็เหมือนอยากจะฆ่าฉันอยู่ตลอดเวลาเลย แต่ฉันกลับจำไม่ได้เลยสักนิดว่าเคยไปทำอะไรให้หล่อนโมโหมาก่อนรึเปล่า",
+      "vi": "Cô ta kiểu như rất say mê nghiên cứu vậy. Để tôi đoán xem, những cỗ máy đó đều liên quan đến cô ta đúng không? Nói chung thì chỉ trong vài lần gặp mặt mà vẻ mặt cô ta như muốn giết tôi luôn, nhưng tôi hoàn toàn không nhớ là đã đắc tội gì với cô ta."
+    }
+  },
+  {
+    "title": {
+      "zhs": "关于「富人」…",
+      "zht": "關於「富人」…",
+      "jp": "「富者」について…",
+      "ko": "「판탈로네」에 대해…",
+      "en": "About Regrator",
+      "de": "Über „Pantalone“ ...",
+      "es": "Sobre El Regatero...",
+      "fr": "À propos de Pantalone...",
+      "pt": "Sobre Regrator...",
+      "ru": "О Панталоне...",
+      "id": "Tentang Regrator ...",
+      "th": "เกี่ยวกับ Regrator...",
+      "vi": "Về \"Pantalone\"..."
+    },
+    "line": {
+      "zhs": "哦，那个满脑子「宏大计划」的野心家。他的那些理论，我半句都听不进去啊。总之，只要后备资金管够就好啦。",
+      "zht": "哦，那個滿腦子「宏大計畫」的野心家。他的那些理論，我半句都聽不進去啊。總之，只要儲備資金夠用就好啦。",
+      "jp": "ああ、「壮大な計画」ばかり考えているあの野心家のことか。彼の理論はまったくもって頭に入ってこないよ。とにかく、不測の事態に備えた資本が十分にあるならそれでいい。",
+      "ko": "아, 머릿속에 「방대한 계획」으로 가득 찬 그 야심가 말이군. 그의 이론들은 단 하나도 이해되지 않던데 말이야. 암튼, 예비 자금만 잘 관리해 주면 됐어",
+      "en": "Oh, now that guy has a head full of grandiose plans fueled by raw ambition. I don't understand a word he says once he starts talking about his theories... Eh, but as long as he keeps our cash reserves stocked up, I'm not complaining.",
+      "de": "Oh, dieser ehrgeizige Mann mit seinen „großen Plänen“. Ich kann mir keine seiner Theorien anhören. Wie auch immer, solange das Geld ausreicht, geht es mir gut.",
+      "es": "Oh, ese tipo tiene la cabeza llena de “planes grandiosos” avivados por su gran ambición. No entiendo ni una palabra de lo que dice cuando se pone a hablar de sus teorías. Bueno, mientras mantenga llenas nuestras reservas de dinero, yo no me quejo.",
+      "fr": "Oh, ce type est ambitieux, il a la tête pleine de plans grandioses. Je ne comprends pas un mot de ce qu'il dit quand il commence à parler de ses théories... Enfin, tant qu'il garde nos réserves d'argent bien remplies, je ne me plains pas.",
+      "pt": "Oh, esse cara tem uma mente repleta de esquemas megalomaníacos motivados pela sua própria ambição. Eu não entendo uma palavra sequer quando ele começa a falar de suas teorias... Mas se ele está mantendo nosso dinheiro guardado, não tenho do que reclamar.",
+      "ru": "О, этот парень амбициозен, а его голова полна «грандиозных планов». Я не понимаю ни слова, когда он начинает говорить о своих теориях... Пока он поддерживает наш резервный капитал в полном объёме, я не жалуюсь.",
+      "id": "Oh, dia itu pria yang punya banyak rencana dan ambisi besar di dalam pikirannya. Aku tidak mengerti sepatah kata pun yang dia bilang soal teorinya ... Eh, tapi selama dia terus menjaga agar kantong kita tetap aman, aku tidak akan protes.",
+      "th": "อ๋อ เจ้าคนทะเยอทะยานที่ในหัวมีแต่คำว่า \"แผนการสุดยิ่งใหญ่\" น่ะเหรอ ทฤษฎีพวกนั้นของเขา ฉันฟังไม่เข้าหูเลยสักคำ สรุปก็คือ ขอแค่มีทุนสำรองเพียงพอก็พอแล้วล่ะ",
+      "vi": "À, một người mang dã tâm với rất nhiều \"kế hoạch vĩ đại\" trong đầu. Những lý luận của anh ta tôi hoàn toàn nghe không vô. Nói chung thì chỉ cần anh ta quản lý tốt quỹ dự trữ của chúng tôi là được rồi."
+    }
+  },
+  {
+    "title": {
+      "zhs": "关于「女士」…",
+      "zht": "關於「女士」…",
+      "jp": "「淑女」について…",
+      "ko": "「시뇨라」에 대해…",
+      "en": "About The Fair Lady",
+      "de": "Über La Signora ...",
+      "es": "Sobre Signora...",
+      "fr": "À propos de Signora...",
+      "pt": "Sobre Signora...",
+      "ru": "О Синьоре...",
+      "id": "Tentang \"Signora\" ....",
+      "th": "เกี่ยวกับ The Fair Lady...",
+      "vi": "Về \"Signora\"..."
+    },
+    "line": {
+      "zhs": "我和她合不来，你是知道的。如今也不必评价她本人了吧。对于执行官而言，死期并不掌握在自己手上…不过，放心，我是无论如何，都会拼尽全力活下去的。",
+      "zht": "#我和她合不來，{F#妳}{M#你}是知道的。如今也不必評價她本人了吧。對於執行官而言，死期並不掌握在自己手上…不過，放心，我是無論如何，都會拼盡全力活下去的。",
+      "jp": "君も知っていると思うけど、俺は彼女と馬が合わないんだ。それに、今となっては、彼女のことを語る必要もないだろう。ファトゥスにとって、死期は自分で決められるようなものじゃない…でも安心してくれ、何があろうとも、俺は全力で生きていくから。",
+      "ko": "내가 그녀와 맞지 않는 건 너도 알고 있잖아. 이제 와서 그녀를 평가할 필요도 없겠지. 집행관은 자신의 목숨을 좌우할 수 없어…. 하지만 걱정 마, 나는 어떻게든 살아남을 거야",
+      "en": "I never got along with her, you know that. I guess there's not much more worth saying about her at this point. When you're a harbinger, you have to accept that death could come at any time... But don't worry about me. No matter what happens, I'll do whatever it takes to keep myself alive.",
+      "de": "Ich verstehe mich nicht mit ihr, du weißt es schon. Es ist nicht nötig, sie heutzutage persönlich zu bewerten, oder? Für die Elf liegt der Tod nicht in ihrer Hand ... Aber keine Sorge, ich werde mein Bestes tun, um zu überleben, egal was passiert.",
+      "es": "Ya sabes que nunca me llevé bien con ella, aunque supongo que a estas alturas no vale la pena decir mucho más al respecto. Cuando eres uno de Los Once, has de aceptar que la muerte puede llamar a tu puerta en cualquier momento. Pero no te preocupes por mí. Pase lo que pase, haré todo lo que pueda por seguir viviendo.",
+      "fr": "Je ne me suis jamais entendu avec elle, tu le sais bien. Je suppose qu'il n'y a pas grand-chose d'autre à dire sur elle à ce stade. Quand on est Exécuteur, on doit accepter que la mort puisse survenir à tout moment... Mais ne t'inquiète pas pour moi. Quoi qu'il arrive, je ferai tout ce qu'il faut pour rester en vie.",
+      "pt": "Eu nunca me dei bem com ela, você sabe disso. Acho que não há muito mais o que se dizer nesse ponto. Quando você é um Mensageiro, tem que aceitar que a morte sempre está lhe espreitando... Mas não se preocupe comigo, não importa o que aconteça, eu farei todo o necessário para ficar vivo.",
+      "ru": "Я никогда не ладил с ней, ты знаешь это. Думаю, на данный момент о ней больше нечего сказать. Когда ты Предвестник, приходится мириться с тем, что смерть может настигнуть в любой момент... Но не беспокойся обо мне. Что бы ни случилось, я сделаю всё возможное, чтобы остаться в живых.",
+      "id": "Aku tidak pernah bisa akrab dengannya, kamu sendiri juga tahu kan. Yah sepertinya sekarang sudah tidak ada gunanya lagi membicarakan dia. Saat kamu jadi harbinger, kamu harus terima kenyataan bahwa kematian bisa datang kapan saja ... Tapi jangan khawatirkan aku. Tidak peduli apa pun yang terjadi, aku pasti akan tetap bertahan hidup.",
+      "th": "ฉันเข้ากับหล่อนไม่ได้เลย เธอก็รู้ ถึงตอนนี้คงไม่จำเป็นต้องพูดถึงตัวหล่อนแล้วมั้ง สำหรับผู้บริหารแล้ว ความตายไม่ได้อยู่ในมือของตัวเองหรอก... แต่ว่า วางใจเถอะ ไม่ว่ายังไง ฉันก็จะพยายามสุดกำลังเพื่อมีชีวิตอยู่ต่อไปให้ได้",
+      "vi": "#Tôi với cô ta không hợp nhau, {F#cô}{M#cậu} biết mà. Đối với quan chấp hành mà nói, ngày chết sẽ không nằm trong tay bản thân... Nhưng yên tâm, tôi dù thế nào cũng sẽ dốc hết sức mình để sống sót."
+    }
+  },
+  {
+    "title": {
+      "zhs": "关于「散兵」…",
+      "zht": "關於「散兵」…",
+      "jp": "「散兵」について…",
+      "ko": "「스카라무슈」에 대해…",
+      "en": "About The Balladeer",
+      "de": "Über „Scaramouche“ ...",
+      "es": "Sobre El Baladista...",
+      "fr": "À propos de Scaramuccia...",
+      "pt": "Sobre Scaramouche...",
+      "ru": "О Скарамучче...",
+      "id": "Tentang Balladeer",
+      "th": "เกี่ยวกับ The Balladeer...",
+      "vi": "Về \"Scaramouche\"..."
+    },
+    "line": {
+      "zhs": "他带着「神之心」与我们失去了联络，后面才有了追回那颗心的行动。我倒是不介意去四处走走，说不定还能在哪儿和你偶遇？",
+      "zht": "#他帶著「神之心」與我們失去了聯絡，後面才有了追回那顆心的行動。我倒是不介意去四處走走，說不定還能在哪兒和{F#妳}{M#你}偶遇？",
+      "jp": "彼は「神の心」を手に入れた後、俺たちとの連絡を断ってしまってね。だから、その心を取り戻すために行動を開始した。俺は色んな場所を回るのは別に構わない。もしかすると、偶然どこかで君に会うかもしれないね。",
+      "ko": "그는 「신의 심장」을 가진 후로 우리와 연락이 끊겼어. 그래서 그 심장을 회수하는 작전이 있었던 거지. 난 여기저기 돌아다니는 것을 개의치 않거든. 어쩌면 어디선가 너와 우연히 만나게 될지도 모르고?",
+      "en": "After he took the Gnosis, we lost all contact with him. Now comes the task of trying to hunt it down and get it back... I actually don't mind it — it means I get to travel all over. Wonder if I'll run into you somewhere along the way?",
+      "de": "Nachdem er das „Göttliche Herz“ erhalten hatte, verloren wir jeden Kontakt zu ihm. Erst später kam es zu dem Einsatz, um dieses Herz zurückzuholen. Ich hätte nichts dagegen herumzugehen, vielleicht könnte ich dich sogar zufällig irgendwo treffen?",
+      "es": "Después de llevarse la Gnosis, perdimos todo contacto con él. Ahora tenemos la tarea de buscarla y recuperarla... En realidad, a mí me da igual, eso quiere decir que puedo viajar por todas partes. Me pregunto si me encontraré contigo a lo largo de ese viaje.",
+      "fr": "On a perdu contact avec lui depuis qu'il a emporté le Gnosis. Il va encore falloir qu'on le traque pour le récupérer. En vérité, ça ne me dérange pas, ça me permet de voyager partout. Je me demande si je te rencontrerai quelque part en chemin ?",
+      "pt": "Depois que ele levou a Gnosis, perdemos todo contato com ele. Agora temos que encontrá-lo e consegui-la de volta... Para falar a verdade, eu não me importo, posso viajar para todo lugar por causa disso. Será que nos encontraremos em algum lugar por aí?",
+      "ru": "Мы потеряли с ним связь, когда он завладел Сердцем Бога. Теперь нам предстоит найти его и вернуть. На самом деле я не против, это позволяет мне путешествовать по всему миру. Возможно, я встречу тебя где-нибудь по пути.",
+      "id": "Setelah dia mengambil Gnosis, dia memutuskan hubungan dengan kami semua. Sekarang turun perintah untuk memburunya demi mendapatkan kembali Gnosis tersebut ... Aku sebenarnya tidak keberatan sih — artinya aku bisa bepergian kemana-mana. Mungkin saja aku jadi ketemu kamu di tengah jalan, ya kan?",
+      "th": "เขาเอา \"โนซิส\" ไป แล้วก็ตัดขาดการติดต่อกับพวกเรา หลังจากนั้นถึงได้เริ่มมีการไล่ล่าเพื่อตามหาหัวใจดวงนั้นคืนมา ฉันไม่ถือสาเรื่องที่ต้องออกไปตามหาหรอกนะ เพราะไม่แน่ว่าอาจบังเอิญได้เจอกับเธอที่ไหนสักแห่งก็ได้?",
+      "vi": "#Hắn cầm theo Gnosis và cắt đứt liên lạc với chúng tôi, bởi vậy nên mới có chiến dịch thu hồi viên Gnosis đó. Tôi thì không ngại đi đây đi đó rồi, nói không chừng sẽ gặp lại {F#cô}{M#cậu} ở đâu đó thì sao?"
     }
   },
   {
@@ -1020,7 +1340,7 @@
       "ru": "#Дружище, помни: никогда не неси пафосную чушь в пылу сражения. Может быть, все эти выкрики типа «Я горю!» и кажутся кому-то вдохновляющими, но ведь пламя оставляет после себя лишь пепел. А мы с тобой этого не хотим. Ты долж{F#нa}{M#ен} жить во что бы то ни стало.",
       "id": "Hei, partner, camkan kata-kataku: jangan pernah mengucapkan kata-kata konyol seperti \"Aku sedang terbakar api semangat!\" untuk memotivasi dirimu saat bertarung. Lagi pula, kamu hanya akan menjadi debu bila kamu terbakar. Bagaimanapun juga yang terpenting adalah bertahan hidup.",
       "th": "เพื่อนยาก จำไว้นะ เวลาต่อสู้อย่าไปทำเรื่องโง่ ๆ อย่างตะโกนว่า \"ฉันติดไฟแล้ว\" ซะล่ะ เพราะถ้าติดไฟขึ้นมาจริงๆ ก็จะไหม้เป็นขี้เถ้าได้นะ แบบนี้ก็ไม่เหลืออะไรสักอย่าง ไม่ว่ายังไง คุณต้องอยู่รอดต่อไปนะ",
-      "vi": "Đồng đội, bạn đừng quên: Khi đánh nhau tuyệt đối không được dùng những lời nói ngu xuẩn như \"Cháy hết mình nào\" để cổ vũ bản thân. Suy cho cùng sau khi cháy hết mình sẽ chẳng còn lại gì ngoài tro tàn. Dù thế nào cũng phải sống sót đó."
+      "vi": "#Đồng đội, {F#cô}{M#cậu} đừng quên: Khi đánh nhau tuyệt đối không được dùng những lời nói ngu xuẩn như \"Cháy hết mình nào\" để cổ vũ bản thân. Suy cho cùng sau khi cháy hết mình sẽ chẳng còn lại gì ngoài tro tàn. Dù thế nào cũng phải sống sót đó."
     }
   },
   {
@@ -1052,7 +1372,7 @@
       "ru": "Время течёт быстро. Однажды ты увидишь, как я покоряю этот мир и троны богов рушатся от моих рук. А до того момента не вздумай умирать, друг!",
       "id": "Waktu berlalu dengan cepat. Suatu hari nanti, aku ingin kamu melihatku saat aku berhasil menguasai dunia ini, aku akan menginjakkan kaki di takhta para dewa. Hahaha, jangan sampai gugur sebelum saat itu tiba, partner!",
       "th": "เวลาผ่านไปเร็วชะมัด วันหนึ่งฉันอยากให้คุณเห็นด้วยตาของคุณเอง ว่าฉันครองโลกได้ยังไง และบัลลังก์ของเทพเจ้าจะมาอยู่ใต้เท้าฉันได้ยังไง ฮ่าฮ่า ก่อนจะถึงเวลานั้นคุณห้ามตายก่อนนะเพื่อน!",
-      "vi": "Thời gian trôi qua thật nhanh. Một ngày nào đó, tôi muốn bạn tận mắt chứng kiến cảnh tôi chinh phục thế giới, và cách tôi bước chân lên ngai vàng của thần linh. Haha, trước khi đến thời khắc đó, bạn không được gục ngã nhé!"
+      "vi": "#Thời gian trôi qua thật nhanh. Một ngày nào đó, tôi muốn {F#cô}{M#cậu} tận mắt chứng kiến cảnh tôi chinh phục thế giới, và cách tôi giẫm đạp lên ngai vàng của thần linh. Haha, trước khi đến thời khắc đó, {F#cô}{M#cậu} không được gục ngã nhé!"
     }
   },
   {
@@ -1116,7 +1436,7 @@
       "ru": "Хм. Что меня беспокоит? Ну... Знаешь, я слишком занят тем, что путешествую с тобой и убиваю могучих противников, мне некогда думать о таких скучных пустяках.",
       "id": "Hmmm? Binatang peliharaanku? Heh, aku selalu bertemu dengan lawan tangguh saat bertualang denganmu, aku tidak memiliki waktu luang untuk memikirkan masalah sepele seperti itu.",
       "th": "ฮะ? เรื่องกลุ้มใจ...เหอะ การเดินร่วมทางกับคุณ มักจะเจอศัตรูที่น่าสนใจประจำ ไม่มีเวลาไปคิดเรื่องไร้สาระน่าเบื่อพวกนั้นหรอก",
-      "vi": "Hửm? Những điều phiền muộn... Hừm, đi cùng bạn, luôn được gặp những kẻ thù mạnh đáng để thử thách, không có thời gian để nghĩ về những điều tầm thường và nhàm chán như vậy."
+      "vi": "#Hửm? Những điều phiền muộn... Hừm, đi cùng {F#cô}{M#cậu}, luôn được gặp những kẻ thù mạnh đáng để thử thách, không có thời gian để nghĩ về những điều tầm thường và nhàm chán như vậy."
     }
   },
   {
@@ -1180,7 +1500,103 @@
       "ru": "#Еда - это как оружие. Настоящий воин не может быть привередлив ни в выборе оружия, ни в выборе еды. Тебе тоже не стоит быть слишком разборчив{F#ой}{M#ым}.",
       "id": "Makanan dan senjata sebenarnya sama saja. Seorang petarung tidak boleh memilih-milih senjata, tidak boleh memilih-milih makanan. Kamu juga tidak boleh memilih-milih makanan.",
       "th": "อาหารก็เหมือนกับอาวุธ นักสู้ที่แท้จริงจะไม่เลือกอาวุธ และจะไม่เลือกกิน คุณเองก็อย่าเลือกกินนักเลยน่า",
-      "vi": "Thức ăn giống như vũ khí vậy. Một người lính thực sự sẽ không kén chọn vũ khí hay thức ăn. Bạn cũng đừng kén ăn đó."
+      "vi": "#Thức ăn giống như vũ khí vậy. Một người lính thực sự sẽ không kén chọn vũ khí hay thức ăn. {F#Cô}{M#Cậu} cũng đừng kén ăn đó."
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其一",
+      "zht": "收到贈禮·其一",
+      "jp": "贈り物を受け取る·1",
+      "ko": "선물 획득·첫 번째",
+      "en": "Receiving a Gift: I",
+      "de": "Geschenk erhalten I",
+      "es": "Al recibir un regalo (I)",
+      "fr": "Cadeau reçu (1)",
+      "pt": "Recebendo Presentes — I",
+      "ru": "Подарок I",
+      "id": "Menerima Hadiah: I",
+      "th": "ได้รับของขวัญ - 1",
+      "vi": "Nhận Được Quà I"
+    },
+    "line": {
+      "zhs": "只要吃到好吃的，心情就会十分舒畅。我该如何回报你呢？",
+      "zht": "#只要吃到好吃的，心情就會十分舒暢。我該如何回報{F#妳}{M#你}呢？",
+      "jp": "美味しいものを食べると、気分まで晴れやかになるね。…さて、君にどうお返ししたらいいかな？",
+      "ko": "맛있는 걸 먹으면 기분도 좋아지지. 어떻게 보답하면 좋을까?",
+      "en": "Eating delicious food really has a way of taking all your cares away. Now, how should I repay you?",
+      "de": "Wenn man gut isst, kann man wirklich gute Laune haben. Nun, wie soll ich es dir zurückzahlen?",
+      "es": "Comer algo delicioso siempre sirve para quitar las preocupaciones. ¿Cómo puedo agradecértelo?",
+      "fr": "Manger de bonnes choses ne manque jamais de me rendre très heureux. Comment puis-je te remercier ?",
+      "pt": "Quando a comida é deliciosa, seu coração se sente reconfortado. Como posso retribuir?",
+      "ru": "Вкусная еда помогает избавиться от всех забот. Итак, как мне отплатить тебе?",
+      "id": "Makan enak, hati senang, gundah pun hilang. Jadi, bagaimana aku harus membalas jasamu?",
+      "th": "แค่ได้กินของอร่อย ฉันก็รู้สึกผ่อนคลายขึ้นมากแล้วล่ะ ฉันควรจะตอบแทนเธอยังไงดีนะ?",
+      "vi": "#Chỉ cần ăn ngon thì tâm trạng sẽ tự nhiên thấy thoải mái. Tôi phải làm sao để báo đáp {F#cô}{M#cậu} nhỉ?"
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其二",
+      "zht": "收到贈禮·其二",
+      "jp": "贈り物を受け取る·2",
+      "ko": "선물 획득·두 번째",
+      "en": "Receiving a Gift: II",
+      "de": "Geschenk erhalten II",
+      "es": "Al recibir un regalo (II)",
+      "fr": "Cadeau reçu (2)",
+      "pt": "Recebendo Presentes — II",
+      "ru": "Подарок II",
+      "id": "Menerima Hadiah: II",
+      "th": "ได้รับของขวัญ - 2",
+      "vi": "Nhận Được Quà II"
+    },
+    "line": {
+      "zhs": "你的厨艺似乎长进了不少。难道你也在不断变强吗？",
+      "zht": "#{F#妳}{M#你}的廚藝似乎長進了不少。難道{F#妳}{M#你}也在不斷變強嗎？",
+      "jp": "料理の腕がだいぶ上がったようだね。腕っぷしも強くなってるのかな？",
+      "ko": "요리 실력이 많이 늘었네. 설마 너도 계속 강해지고 있는 거야?",
+      "en": "Your cooking skills seem to have improved quite a lot. Does that mean you're getting stronger all the time, too?",
+      "de": "Deine Kochkünste scheinen sich sehr verbessert zu haben. Wirst du auch stärker?",
+      "es": "Has mejorado mucho en la cocina. ¿Eso significa que también te has vuelto más fuerte?",
+      "fr": "#Tu t'es bien {M#amélioré}{F#améliorée} en cuisine. Tu te serais {M#entraîné}{F#entraînée} sans relâche pendant tout ce temps ?",
+      "pt": "Sua culinária parece ter melhorado bastante... Será que isso quer dizer que você está ficando mais forte o tempo inteiro?",
+      "ru": "Кажется, твои навыки готовки заметно улучшились. Значит, ты становишься сильнее с каждым днём?",
+      "id": "Sepertinya kemampuan memasakmu sudah jauh meningkat ya. Apa ini berarti kalau kamu memang selalu bertambah kuat selama ini?",
+      "th": "ฝีมือการทำอาหารของเธอพัฒนาขึ้นมากเลย นั่นหมายความว่าเธอกำลังแข็งแกร่งขึ้นเรื่อย ๆ ใช่มั้ย?",
+      "vi": "#Kỹ năng nấu nướng của {F#cô}{M#cậu} dường như đã tiến bộ rất nhiều. Lẽ nào {F#cô}{M#cậu} cũng đang không ngừng trở nên mạnh mẽ hơn sao?"
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其三",
+      "zht": "收到贈禮·其三",
+      "jp": "贈り物を受け取る·3",
+      "ko": "선물 획득·세 번째",
+      "en": "Receiving a Gift: III",
+      "de": "Geschenk erhalten III",
+      "es": "Al recibir un regalo (II)",
+      "fr": "Cadeau reçu (3)",
+      "pt": "Recebendo Presentes — III",
+      "ru": "Подарок III",
+      "id": "Menerima Hadiah: III",
+      "th": "ได้รับของขวัญ - 3",
+      "vi": "Nhận Được Quà III"
+    },
+    "line": {
+      "zhs": "真是出乎意料的口感，好…我就再试一次吧。",
+      "zht": "真是出乎意料的口感，好…我就再試一次吧。",
+      "jp": "想像をしてなかった口当たりだけど。うん…もう少し食べてみよう。",
+      "ko": "생각지도 못한 맛이야. 좋아… 다시 시도해 볼게",
+      "en": "Um, I'll admit the taste surprises me a little. Hmm? Okay... I'll try one more bite.",
+      "de": "Was für ein überraschender Geschmack, na ja ... Ich werde es einfach noch einmal probieren.",
+      "es": "Humm, admito que el sabor me sorprende un poco... ¿Eh? Está bien, lo probaré una vez más.",
+      "fr": "Le goût est assez inattendu... D'accord, j'en reprends pour réessayer.",
+      "pt": "Admito que esse gosto é uma surpresa para mim... Está bem, provarei mais uma vez.",
+      "ru": "Признаю, вкус меня немного удивляет. Хм, ладно... Попробую ещё немного.",
+      "id": "Uhm, aku harus jujur kalau rasa ini lumayan mengagetkan. Hmm? Oke ... aku coba satu lagi.",
+      "th": "เป็นรสชาติที่คาดไม่ถึงเลยจริง ๆ โอเค... ฉันจะลองชิมอีกครั้งแล้วกัน",
+      "vi": "Quả là một hương vị bất ngờ, à ừm... tôi sẽ thử lại xem."
     }
   },
   {
@@ -1308,7 +1724,7 @@
       "ru": "Неплохо! Спасибо за помощь, дружище, благодаря тебе я стал ещё на один шаг ближе к моей цели покорить мир. Даже сама Царица наверняка не предполагала, что я добьюсь таких успехов.",
       "id": "Bagus sekali! Terima kasih, partner. Kini aku selangkah lebih dekat menuju mimpiku untuk \"menaklukkan dunia\". Bahkan Tsaritsa sendiri tidak menduga bahwa aku dapat bertahan hingga sejauh ini.",
       "th": "สุดยอดไปเลย! ขอบใจมากเพื่อน เป้าหมายในการครองโลกของฉันใกล้เข้ามาทุกทีแล้ว แม้แต่ราชินี Tsaritsa เองก็คงคิดไม่ถึงว่าฉันจะเติบโตได้ขนาดนี้",
-      "vi": "Thực sự không tệ! Nhờ có bạn mà tôi đã tiến gần hơn một bước tới mục tiêu \"chinh phục thế giới\". Ngay cả Nữ Hoàng cũng không ngờ tôi có thể trở nên mạnh mẽ như vậy."
+      "vi": "#Thực sự không tệ! Nhờ có {F#cô}{M#cậu} mà tôi đã tiến gần hơn một bước tới mục tiêu \"chinh phục thế giới\". Ngay cả Nữ Hoàng cũng không ngờ tôi có thể trở nên mạnh mẽ như vậy."
     }
   },
   {
@@ -1340,7 +1756,7 @@
       "ru": "Дружище, не прекращай тренировки, ладно? Иначе с кем я буду сражаться насмерть, когда весь мир падёт к моим ногам? Ха-ха-ха!",
       "id": "Kamu juga harus terus melatih dirimu, partner! Kalau tidak, siapa yang bisa menjadi lawanku saat aku sudah berhasil mencapai puncak dunia ini? Hahaha.",
       "th": "เพื่อนยาก คุณเองก็ต้องฝึกฝนเหมือนกันนะ! ไม่อย่างงั้นเมื่อโลกทั้งใบอยู่ในมือฉัน แล้วใครจะมาประลองจนสิ้นลมกับฉันล่ะ? ฮ่าฮ่าฮ่า",
-      "vi": "Bạn cũng phải chăm chỉ lên mới được! Nếu không, ai sẽ là người quyết chiến với tôi, khi tôi trở thành người mạnh nhất thế giới cơ chứ? Hahaha."
+      "vi": "#{F#Cô}{M#Cậu} cũng phải chăm chỉ lên mới được! Nếu không, ai sẽ là người quyết chiến với tôi, khi tôi trở thành người mạnh nhất thế giới cơ chứ? Hahaha."
     }
   },
   {

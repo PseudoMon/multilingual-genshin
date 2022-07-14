@@ -1121,6 +1121,102 @@
   },
   {
     "title": {
+      "zhs": "收到赠礼·其一",
+      "zht": "收到贈禮·其一",
+      "jp": "贈り物を受け取る·1",
+      "ko": "선물 획득·첫 번째",
+      "en": "Receiving a Gift: I",
+      "de": "Geschenk erhalten I",
+      "es": "Al recibir un regalo (I)",
+      "fr": "Cadeau reçu (1)",
+      "pt": "Recebendo Presentes — I",
+      "ru": "Подарок I",
+      "id": "Menerima Hadiah: I",
+      "th": "ได้รับของขวัญ - 1",
+      "vi": "Nhận Được Quà I"
+    },
+    "line": {
+      "zhs": "味觉仿佛折射出了色彩…我想它是金色的。",
+      "zht": "味覺彷彿折射出了色彩…我想它是金色的。",
+      "jp": "味覚が色をまるで反射しているようだ…ふむ、これは黄金色だね。",
+      "ko": "맛에서 색채가 느껴져… 아마 금색 같아",
+      "en": "If flavors were colors... this one would be gold.",
+      "de": "Wenn der Geschmack eine Farbe hat ... muss es Gold sein.",
+      "es": "Si los sabores fueran colores... Este sería color oro.",
+      "fr": "S'il s'agissait d'une couleur, je dirais que c'est de l'or.",
+      "pt": "Se sabores fossem cores... Esse daqui seria dourado.",
+      "ru": "Если бы вкусы имели цвет... этот определённо был бы золотым.",
+      "id": "Jika rasa diibaratkan dengan warna ... ini bagaikan emas.",
+      "th": "หากรสชาติสามารถสะท้อนสีสันออกมาได้... ฉันว่ามันคงจะเป็นสีทองล่ะนะ",
+      "vi": "Hương vị dường như được phản ánh qua màu sắc... Tôi nghĩ đó là màu vàng."
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其二",
+      "zht": "收到贈禮·其二",
+      "jp": "贈り物を受け取る·2",
+      "ko": "선물 획득·두 번째",
+      "en": "Receiving a Gift: II",
+      "de": "Geschenk erhalten II",
+      "es": "Al recibir un regalo (II)",
+      "fr": "Cadeau reçu (2)",
+      "pt": "Recebendo Presentes — II",
+      "ru": "Подарок II",
+      "id": "Menerima Hadiah: II",
+      "th": "ได้รับของขวัญ - 2",
+      "vi": "Nhận Được Quà II"
+    },
+    "line": {
+      "zhs": "你似乎很愿意花时间在做菜上，所以才能做出这样的味道。",
+      "zht": "#{F#妳}{M#你}似乎很願意花時間在做菜上，所以才能做出這樣的味道。",
+      "jp": "キミは料理を作ることに時間をかけるようだ。だから、このような味が作れるのだろう。",
+      "ko": "이런 맛을 낼 수 있는 건, 네가 요리에 많은 시간을 할애해서 그런 거겠지?",
+      "en": "You're willing to spend so much time on improving your cooking, and that's precisely how you're able to make it taste so good.",
+      "de": "Es scheint, als hättest du viel Zeit damit verbracht, deine Kochkünste zu verbessern, und genau deshalb gelingt es dir, so köstliche Gerichte zuzubereiten.",
+      "es": "Lo más probable es que te haya llevado mucho tiempo cocinar este plato, y eso se aprecia en el sabor.",
+      "fr": "#Vous semblez très {M#enclin}{F#encline} à consacrer du temps à cuisiner, cela se ressent dans le goût de ce plat.",
+      "pt": "#Você está dispost{F#a}{M#o} a gastar tanto tempo melhorando sua culinária. É justamente por isso que você fez algo tão delicioso.",
+      "ru": "Ты тратишь много времени на улучшение своих кулинарных навыков. Именно поэтому тебе удаётся так вкусно готовить.",
+      "id": "Kamu bisa menciptakan rasa seenak ini karena kamu rela meluangkan waktu untuk terus menyempurnakan teknik memasakmu.",
+      "th": "เพราะเธอเต็มใจที่จะทุ่มเวลาไปกับการปรุงอาหาร มันจึงทำให้ได้รสชาติเช่นนี้ออกมาสินะ",
+      "vi": "Bạn có vẻ rất sẵn sàng dành thời gian cho việc nấu ăn, vì vậy mới có thể làm ra hương vị này."
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其三",
+      "zht": "收到贈禮·其三",
+      "jp": "贈り物を受け取る·3",
+      "ko": "선물 획득·세 번째",
+      "en": "Receiving a Gift: III",
+      "de": "Geschenk erhalten III",
+      "es": "Al recibir un regalo (II)",
+      "fr": "Cadeau reçu (3)",
+      "pt": "Recebendo Presentes — III",
+      "ru": "Подарок III",
+      "id": "Menerima Hadiah: III",
+      "th": "ได้รับของขวัญ - 3",
+      "vi": "Nhận Được Quà III"
+    },
+    "line": {
+      "zhs": "量有点大…要一起分享吗？",
+      "zht": "量有點大…要一起分享嗎？",
+      "jp": "量が少し多いようだ…キミも一緒に食べないかい？",
+      "ko": "양이 좀 많은데… 같이 먹을래?",
+      "en": "This is more than I can manage... maybe we could split it between us?",
+      "de": "Ein bisschen zu viel ... Willst du es teilen?",
+      "es": "Has hecho mucha cantidad... ¿Quieres que lo compartamos?",
+      "fr": "Cette portion est un peu trop grande pour moi... Ça vous dit de partager ?",
+      "pt": "Isso é mais do que eu costumo comer... Que tal dividirmos?",
+      "ru": "Боюсь, я столько не съем... Может, разделим пополам?",
+      "id": "Ini terlalu banyak untukku ... mau makan sama-sama?",
+      "th": "จานใหญ่ไปหน่อยนะ... เราแบ่งกันกินมั้ย?",
+      "vi": "Có vẻ hơi nhiều... bạn có muốn ăn chung không?"
+    }
+  },
+  {
+    "title": {
       "zhs": "生日…",
       "zht": "生日…",
       "jp": "誕生日…",
@@ -1682,7 +1778,7 @@
     "line": {
       "zhs": "尘归尘，土归土…",
       "zht": "塵歸塵，土歸土…",
-      "jp": "灰は灰に､塵は塵に…",
+      "jp": "灰は灰に、塵は塵に…",
       "ko": "다 부질없군…",
       "en": "Ashes to ashes, dust to dust...",
       "de": "Asche zu Asche, Staub zu Staub ...",

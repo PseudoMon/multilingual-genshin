@@ -139,7 +139,7 @@
       "fr": "Quand il pleut...",
       "pt": "Quando Está Chovendo...",
       "ru": "Когда идёт дождь...",
-      "id": "Ketika Hujan",
+      "id": "Waktu Hujan",
       "th": "ในเวลาที่ฝนตก...",
       "vi": "Khi trời mưa..."
     },
@@ -1213,6 +1213,102 @@
       "id": "Setelah cukup lama mengunyah ramuan obat, kamu hanya bisa merasakan kepahitannya ... Selama bertahun-tahun aku berlatih di bawah bimbingan Adeptus, aku harus pantang terhadap segala macam hal. Dan sampai akhirnya pada titik tertentu, aku menjadi terbiasa akan hal itu. Tetapi bagi Adeptus ... \"Kenikmatan dari dunia fana tidak menjadi halangan bagi Adeptus, oleh karena itu, kami dapat menikmati segala macam hidangan dengan sesuka hati\" ... Ini adalah kata-kata yang dikatakan oleh Master.",
       "th": "สมุนไพรที่พอเคี้ยวไปนาน ๆ แล้วเหลือแต่รสขมและฝาดน่ะ... จากการฝึกฝนมานานหลายปี ฉันชินกับกฎและข้อบัญญัติเหล่านี้ตั้งนานแล้วล่ะ เหล่าเซียนน่ะเหรอ? \"เซียนไม่มีทางถูกของธรรมดาทั่วไปในโลกมนุษย์ขัดขวางการฝึกฝนได้ ดังนั้นพวกเขาจึงสามารถกินอาหารได้ทุกชนิด\"... ที่คือสิ่งที่ท่านอาจารย์ของฉันกล่าวไว้",
       "vi": "Thảo dược nhai quá lâu chỉ còn lại vị đắng và vị chát... Tu hành nhiều năm, tôi sớm đã quen với những giới luật thanh quy này. Các tiên nhân sao? \"Tiên nhân sẽ không bị những thứ phàm tục của nhân gian ngăn cản việc tu hành, nên có thể thoải mái ăn đủ thứ món.\"... Đây là lời mà sư phụ đã nói."
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其一",
+      "zht": "收到贈禮·其一",
+      "jp": "贈り物を受け取る·1",
+      "ko": "선물 획득·첫 번째",
+      "en": "Receiving a Gift: I",
+      "de": "Geschenk erhalten I",
+      "es": "Al recibir un regalo (I)",
+      "fr": "Cadeau reçu (1)",
+      "pt": "Recebendo Presentes — I",
+      "ru": "Подарок I",
+      "id": "Menerima Hadiah: I",
+      "th": "ได้รับของขวัญ - 1",
+      "vi": "Nhận Được Quà I"
+    },
+    "line": {
+      "zhs": "这般滋味…真的是我能够享受的吗？",
+      "zht": "這般滋味…真的是我能夠享受的嗎？",
+      "jp": "このような味…我が食してもよいのだろうか…？",
+      "ko": "이 맛을… 내가 즐겨도 되는 걸까?",
+      "en": "Mmm, this taste... Is it really meant for me?",
+      "de": "Ist das wirklich etwas, das ich genießen darf?",
+      "es": "Este sabor... ¿De verdad puedo comerlo?",
+      "fr": "Cette saveur... Est-ce que je suis vraiment digne de l'apprécier ?",
+      "pt": "Esse gosto... Isso é realmente para mim?",
+      "ru": "Этот вкус... Это правда для меня?",
+      "id": "Mmm, rasa ini ... Apa rasa seenak ini benar-benar buatku?",
+      "th": "รสชาติแบบนี้... เป็นสิ่งที่ฉันสามารถดื่มด่ำกับมันได้จริง ๆ เหรอ?",
+      "vi": "Hương vị này... thực sự là dành cho tôi sao?"
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其二",
+      "zht": "收到贈禮·其二",
+      "jp": "贈り物を受け取る·2",
+      "ko": "선물 획득·두 번째",
+      "en": "Receiving a Gift: II",
+      "de": "Geschenk erhalten II",
+      "es": "Al recibir un regalo (II)",
+      "fr": "Cadeau reçu (2)",
+      "pt": "Recebendo Presentes — II",
+      "ru": "Подарок II",
+      "id": "Menerima Hadiah: II",
+      "th": "ได้รับของขวัญ - 2",
+      "vi": "Nhận Được Quà II"
+    },
+    "line": {
+      "zhs": "你做的饭菜，确实美味。无法割舍。",
+      "zht": "#{F#妳}{M#你}做的飯菜，確實美味。無法割捨。",
+      "jp": "主が作った料理、確かに美味だな。手放すことができぬ。",
+      "ko": "네가 만든 음식은 정말 맛있어. 차마 포기할 수가 없네",
+      "en": "The food you cook is indisputably delicious. I can't refuse it.",
+      "de": "Deine Küche ist wirklich köstlich. Ich kann mich nicht von ihr trennen.",
+      "es": "Tus platos son realmente deliciosos. Eso es innegable.",
+      "fr": "Votre cuisine est exquise. Je ne pourrai pas m'en passer.",
+      "pt": "Sua comida é ótima. Não posso recusar.",
+      "ru": "Твои блюда, бесспорно, вкусны. Не могу отрицать.",
+      "id": "Makanan buatanmu benar-benar enak. Aku tidak bisa menolaknya.",
+      "th": "อาหารที่เธอทำอร่อยมากซะจนปฏิเสธไม่ได้เลยจริง ๆ",
+      "vi": "Món ăn bạn làm thực sự rất ngon. Không thể từ chối."
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其三",
+      "zht": "收到贈禮·其三",
+      "jp": "贈り物を受け取る·3",
+      "ko": "선물 획득·세 번째",
+      "en": "Receiving a Gift: III",
+      "de": "Geschenk erhalten III",
+      "es": "Al recibir un regalo (II)",
+      "fr": "Cadeau reçu (3)",
+      "pt": "Recebendo Presentes — III",
+      "ru": "Подарок III",
+      "id": "Menerima Hadiah: III",
+      "th": "ได้รับของขวัญ - 3",
+      "vi": "Nhận Được Quà III"
+    },
+    "line": {
+      "zhs": "也好。这样的味道，我早就熟悉了。",
+      "zht": "也好。這樣的味道，我早就熟悉了。",
+      "jp": "構わぬ。この類の味は、もうとっくに慣れている。",
+      "ko": "괜찮아, 이런 맛은 익숙하거든",
+      "en": "No matter. I'm used to this kind of flavor, after all.",
+      "de": "Und gut. Ein solcher Geschmack ist mir schon lange vertraut.",
+      "es": "No pasa nada. Ya estoy acostumbrada a estos sabores.",
+      "fr": "Ça passe. Je suis habituée à ce genre de saveurs de toute façon.",
+      "pt": "Não importa. Estou acostumada a esse sabor.",
+      "ru": "Неважно. В конце концов, я привыкла к такому вкусу.",
+      "id": "Tidak apa. Dari dulu aku sudah terbiasa dengan rasa seperti ini.",
+      "th": "ก็ดี ฉันคุ้นเคยกับรสชาติแบบนี้แล้วล่ะ",
+      "vi": "Cũng được. Hương vị này tôi đã sớm quen thuộc."
     }
   },
   {

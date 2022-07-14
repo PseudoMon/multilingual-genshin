@@ -1,0 +1,72 @@
+{
+  "id": 11420,
+  "type": "sword",
+  "rank": 4,
+  "name": {
+    "zhs": "「一心传」名刀",
+    "zht": "「一心傳」名刀",
+    "jp": "「一心伝」名刀",
+    "ko": "「잇신의 기술」 명검",
+    "en": "Prized Isshin Blade",
+    "de": "Berühmtes Schwert der „Isshin-Schule“",
+    "es": "Espada Egregia de Isshin",
+    "fr": "Chef d'œuvre Isshin",
+    "pt": "Espada Famosa da \"Arte Isshin\"",
+    "ru": "Легендарный клинок Иссин",
+    "id": "Prized Isshin Blade",
+    "th": "ดาบเลื่องชื่อ \"Isshin Art\"",
+    "vi": "Danh Đao \"Trường Phái Isshin\""
+  },
+  "description": {
+    "zhs": "破损不堪的妖刀暴露出真实的样貌，它的先天禀赋早已在漫长的旅途中消磨殆尽。",
+    "zht": "破損不堪的妖刀暴露出真實的樣貌，它的先天稟賦早已在漫長的旅途中消磨殆盡。",
+    "jp": "ボロボロになった妖刀は真実の姿を露わにする。生まれ持っての才能も長旅の間に擦り減り、尽きてしまった。",
+    "ko": "형편없이 파손된 요도(妖刀)가 그 실체를 여실히 드러내고 있다. 검에 깃들어 있던 선천적 능력은 이미 기나긴 여정에 소모되어 사라진 지 오래다",
+    "en": "The battered cursed blade shows its true form. Yet any innate endowment it might have had has been ground to dust during its journey.",
+    "de": "Die schwer beschädigte Klinge offenbart ihr wahres Antlitz, doch die ihr seit jeher innewohnenden Kräfte sind auf ihrer langen Reise verloren gegangen.",
+    "es": "El verdadero aspecto de la espada maldita y dañada. Sus dotes naturales han desaparecido a lo largo de su viaje.",
+    "fr": "Cette lame maudite aguerrie affiche sa véritable forme. Pourtant, tout talent inné qu'elle aurait pu posséder a été réduit en poussières au cours de son périple.",
+    "pt": "A lâmina amaldiçoada mostrou sua verdadeira forma. No entanto, seus talentos naturais foram reduzidos ao longo de sua jornada.",
+    "ru": "Проклятый клинок, усыпанный сколами и зазубринами, обнажил свою истинную форму. Долгие странствия давно стёрли его врождённые силы в пыль.",
+    "id": "Pedang terkutuk yang sudah usang menunjukkan bentuk aslinya. Namun anugerah bawaan apa pun yang mungkin dimilikinya sebelumnya, kini telah pupus selama perjalanannya.",
+    "th": "ดาบปีศาจที่สึกกร่อนจนเผยให้เห็นรูปลักษณ์ที่แท้จริงของมัน พรสวรรค์โดยกำเนิดของมันนั้น ได้เสื่อมหายไปแล้วท่ามกลางการเดินทางที่แสนยาวนาน",
+    "vi": "Bộ dạng thật sự của thanh yêu đao, tố chất bẩm sinh của nó sớm đã bị mai một trong chuyến hành trình dài."
+  },
+  "lore": {},
+  "effects": [
+    {
+      "name": {
+        "zhs": "徊徊切舍刀",
+        "zht": "徊徊切舍刀",
+        "jp": "徊·切捨刀",
+        "ko": "배회하는 칼날",
+        "en": "Wandering Striker",
+        "de": "Ziellose Klinge",
+        "es": "Espadachín errante",
+        "fr": "Épéiste errant",
+        "pt": "Lâmina Andarilha",
+        "ru": "Блуждающий клинок",
+        "id": "Wandering Striker",
+        "th": "Wandering Striker",
+        "vi": "Lưỡi Đao Lang Thang"
+      },
+      "description": {
+        "zhs": "普通攻击、重击或下落攻击命中敌人时，将释放祟灵，造成180%攻击力的范围伤害。该效果每8秒最多触发一次；装备该武器的角色造成的伤害降低50%。",
+        "zht": "普通攻擊、重擊或下落攻擊命中敵人時，將釋放祟靈，造成180%攻擊力的範圍傷害。該效果每8秒最多觸發一次；裝備該武器的角色造成的傷害降低50%。",
+        "jp": "通常攻撃、重撃、落下攻撃が敵に命中すると怨霊を放ち、攻撃力の180%の範囲ダメージを与える。この効果は8秒毎に1回のみ発動可能。この武器を装備したキャラクターの与えるダメージ-50%。",
+        "ko": "일반 공격, 강공격, 낙하 공격이 적에게 명중 시, 원령을 발동해 공격력의 180%에 해당하는 범위 피해를 준다. 해당 효과는 8초마다 최대 1회 발동한다. 해당 무기를 장착한 캐릭터가 가하는 피해가 50% 감소한다",
+        "en": "When a Normal, Charged, or Plunging Attack hits an opponent, it will release an Accursed Spirit, dealing AoE DMG equal to 180% of ATK. This effect can be triggered once every 8s. The DMG done by this weapon's wielder is decreased by 50%.",
+        "de": "Entfesselt beim Treffen von Gegnern mit Standardangriffen, heftigen Schlägen oder Angriffen aus dem Fall einen bösen Geist, der Flächenschaden in Höhe von 180 % ANG verursacht. 8 s Abklingzeit. Verringert den von der mit dieser Waffe ausgerüsteten Figur verursachten Schaden um 50 %.",
+        "es": "Al golpear a un enemigo con un Ataque Normal, Cargado o Descendente, se libera un espíritu maldito que inflige un Daño en el AdE equivalente al 180% del ATQ. Este efecto solo se puede activar una vez cada 8 s. El daño que inflige el personaje que lleva esta arma equipada se reduce en un 50%.",
+        "fr": "Lorsqu'une attaque normale, chargée ou plongeante touche un ennemi, elle libère un esprit maudit, infligeant des DGT de zone équivalant à 180 % de l'ATQ. Cet effet peut être déclenché une fois toutes les 8 s. Les DGT infligés par le personnage équipé de l'arme sont réduits de 50 %.",
+        "pt": "Quando um Ataque Normal, Carregado ou Imersivo atinge um oponente, ele libera um Espírito Maléfico, infligindo Dano em AdE equivalente a 180% do ATQ. Este efeito pode ocorrer uma vez a cada 8s. O Dano infligido pelo personagem com esta arma equipada será reduzido em 50%.",
+        "ru": "Попадания обычной атакой, заряженной атакой или атакой в падении выпускают Проклятого духа, нанося урон по площади, равный 180% от силы атаки. Этот эффект может возникнуть раз в 8 сек. Экипированный этим оружием персонаж наносит на 50% меньше урона.",
+        "id": "Saat Normal, Charged, atau Plunging Attack mengenai musuh, akan melepaskan Accursed Spirit yang mengakibatkan DMG Area setara dengan 180% ATK. Efek ini terpicu setiap 8 detik. DMG yang diakibatkan oleh Karakter pengguna senjata ini berkurang sebesar 50%.",
+        "th": "เมื่อการโจมตีปกติ การชาร์จโจมตี และการโจมตีพุ่งลงจากอากาศถูกศัตรู จะปล่อย Accursed Spirit ออกมา เพื่อสร้างความเสียหายวงกว้างเป็น 180% ของพลังโจมตี โดยที่ทุก 8 วินาที เอฟเฟกต์นี้จะเกิดขึ้นได้มากสุด 1 ครั้ง และตัวละครที่ใช้อาวุธนี้ จะสร้างความเสียหายลดลง 50%",
+        "vi": "Tấn công thường, trọng kích hoặc tấn công khi đáp trúng kẻ địch sẽ kích hoạt Oán Linh, gây 180% sát thương diện rộng. Hiệu quả này mỗi 8s tối đa kích hoạt một lần. Sát thương gây ra của nhân vật trang bị vũ khí này giảm 50%."
+      }
+    }
+  ],
+  "internal_name": "Sword_YoutouShattered",
+  "imgid": "sword/youtoushattered"
+}

@@ -1049,7 +1049,7 @@
       "es": "Me paso el día haciendo tareas triviales, pero mientras le sirva en sus aventuras o le facilite las cosas de alguna manera, yo estaré contenta. Cada vez que usted me da las gracias, siento que lo que hago tiene sentido, por insignificante que parezca.",
       "fr": "Je passe toutes mes journées à m'occuper des problèmes les plus banals, mais si ça peut t'aider dans ton aventure ou te faciliter la vie ne serait-ce qu'un peu, alors je ne pourrais pas être plus heureuse. C'est parce qu'à chaque fois qu'on me remercie, ça me donne l'impression que mon travail a au moins du sens, aussi insignifiantes que mes tâches puissent paraître.",
       "pt": "Passo todos os meus dias lidando com o mais trivial dos assuntos, mas desde que isso o ajude em sua aventura, ou facilite sua vida de alguma forma pequena, eu não poderia estar mais feliz. Isso porque cada vez que recebo um agradecimento, isso me faz sentir que meu trabalho pelo menos tem algum significado, não importa o quão insignificante ele pareça.",
-      "ru": "Каждый день я выполняю самые пустяковые дела, но если это хоть немного облегчит ваше путешествие или вашу жизнь, то я очень рада... Ведь каждая ваша благодарность придаёт моей работе ценность, какой бы пустяковой она ни казалась.",
+      "ru": "Каждый день я выполняю самые мелкие дела, но если это хоть немного облегчит ваше путешествие или вашу жизнь, то я очень рада... Ведь каждая ваша благодарность придаёт моей работе ценность, какой бы пустяковой она ни казалась.",
       "id": "Apa yang aku lakukan setiap hari adalah hal-hal sepele, tetapi selama hal-hal kecil ini dapat membantu kamu dalam petualangan dan hidup, aku akan sangat bahagia ... Karena rasa berterima kasihmu akan membuatku merasa usahaku sedikit bermakna.",
       "th": "สิ่งที่ฉันทำทุกวันเป็นเรื่องเล็ก ๆ น้อย ๆ แต่ตราบใดที่เรื่องเล็กน้อยเหล่านี้ สามารถช่วยคุณในการผจญภัยและ ทำให้ชีวิตของคุณสะดวกขึ้น ฉันก็มีความสุขมากแล้วล่ะ... เพราะคำขอบคุณของคุณทำให้ฉันรู้สึกว่าสิ่งเล็ก ๆ น้อย ๆ เหล่านี้มีความหมาย",
       "vi": "Hàng ngày tôi đều làm những việc lặt vặt, nhưng nếu chuyện nhỏ đó giúp được công việc mạo hiểm, cuộc sống của bạn thì tôi cũng rất vui... Nhờ có lời cảm ơn của bạn, nó sẽ giúp tôi cảm thấy những việc nhỏ nhặt ấy có ý nghĩa riêng của nó."
@@ -1213,6 +1213,102 @@
       "id": "Aku tidak pilih-pilih makanan. Tapi ada satu hal yang tidak kusukai. Semua makanan yang dihidangkan di perjamuan harus aku cicipi satu per satu. Tapi setiap gigitan demi gigitan membuatku merasa sangat berdosa.",
       "th": "ฉันไม่เรื่องมากเรื่องกิน! แต่มีเรื่องนึงที่ทำให้ฉันปวดหัว... อาหารในงานเลี้ยงไงล่ะ ในฐานะสาวใช้ฉันต้องชิมอาหาร ทุกจานด้วยตัวเอง แต่กินเยอะขนาดนี้... เฮ้อ รู้สึกผิดชะมัด",
       "vi": "Tôi không kén ăn! Nhưng có một chuyện khiến tôi luôn đau đầu... Đó là bàn ăn trên bữa tiệc. Là một người hầu gái, mọi món ăn đều phải được bản thân nêm nếm trước. Nhưng mà cứ một miếng một miếng một... Thì thật khủng khiếp."
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其一",
+      "zht": "收到贈禮·其一",
+      "jp": "贈り物を受け取る·1",
+      "ko": "선물 획득·첫 번째",
+      "en": "Receiving a Gift: I",
+      "de": "Geschenk erhalten I",
+      "es": "Al recibir un regalo (I)",
+      "fr": "Cadeau reçu (1)",
+      "pt": "Recebendo Presentes — I",
+      "ru": "Подарок I",
+      "id": "Menerima Hadiah: I",
+      "th": "ได้รับของขวัญ - 1",
+      "vi": "Nhận Được Quà I"
+    },
+    "line": {
+      "zhs": "能把普通的菜肴做得那么好吃…我对你的钦佩，又多了一些！",
+      "zht": "#能把普通的菜餚做得那麼好吃…我對{F#妳}{M#你}的欽佩，又多了一些！",
+      "jp": "よく見るお料理なのに、こんなに美味しく作れるなんて…あなたを尊敬するところが、また増えてしまいましたね！",
+      "ko": "평범한 요리를 이렇게 맛있게 만드시다니, 선배님을 더 존경하게 됐어요!",
+      "en": "How can you make such a simple dish taste so good? My admiration towards you just keeps growing!",
+      "de": "Die Fähigkeit, gewöhnliche Gerichte so gut schmecken zu lassen ... Meine Bewunderung für dich ist gerade noch ein bisschen größer geworden!",
+      "es": "#Ha llevado un plato tan común como este a otro nivel. ¡Ahora {F#la}{M#lo} admiro todavía más!",
+      "fr": "Tu arrives à transformer un plat aussi ordinaire en un véritable délice... L'admiration que j'ai pour toi ne finit pas de grandir !",
+      "pt": "Como você consegue fazer um prato simples ter um sabor tão delicioso? Minha admiração por você não para de crescer.",
+      "ru": "Как у тебя получается сделать такое простое блюдо настолько вкусным? Я не перестаю тобой восхищаться!",
+      "id": "Kok bisa sih makanan yang biasa saja jadi seenak ini? ... aku semakin kagum padamu!",
+      "th": "สามารถปรุงรสอาหารธรรมดาได้อร่อยขนาดนี้... ฉันรู้สึกชื่นชมคุณมากกว่าเดิมเสียอีก!",
+      "vi": "Có thể biến những nguyên liệu bình thường như vậy thành món ngon... tôi lại khâm phục bạn thêm rồi!"
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其二",
+      "zht": "收到贈禮·其二",
+      "jp": "贈り物を受け取る·2",
+      "ko": "선물 획득·두 번째",
+      "en": "Receiving a Gift: II",
+      "de": "Geschenk erhalten II",
+      "es": "Al recibir un regalo (II)",
+      "fr": "Cadeau reçu (2)",
+      "pt": "Recebendo Presentes — II",
+      "ru": "Подарок II",
+      "id": "Menerima Hadiah: II",
+      "th": "ได้รับของขวัญ - 2",
+      "vi": "Nhận Được Quà II"
+    },
+    "line": {
+      "zhs": "味道真好。我也要向你学习！再怎么说，这也是女仆的职责…",
+      "zht": "#味道真好。我也要向{F#妳}{M#你}學習！再怎麼說，這也是女僕的職責…",
+      "jp": "なんて美味しいのでしょう。私も見習わなければなりませんね！お料理もメイドの務めですから…",
+      "ko": "정말 맛있네요. 저도 배우고 싶어요! 이것도 메이드의 일이니까요…",
+      "en": "This tastes wonderful! Uh, would you mind teaching me how to make this? After all, it is my duty as a maid...",
+      "de": "Was für ein großartiger Geschmack. Ich muss auch von dir lernen! Es ist die Pflicht einer Magd ...",
+      "es": "Está muy rico. ¡Quiero que me enseñe a cocinarlo! Al fin y al cabo, es mi deber como criada.",
+      "fr": "C'est un délice. Je dois apprendre de toi ! Quoi qu'il en soit, la cuisine est aussi le travail d'une servante...",
+      "pt": "Isso tem um gosto ótimo. Por favor, me ensine a fazer isso! Afinal, isso é meu dever como Empregada...",
+      "ru": "Вкус просто невероятный! Пожалуйста, научи меня готовить. Всё же я горничная, и готовка - моя обязанность...",
+      "id": "Enak sekali! Boleh tidak ajari aku bagaimana cara buatnya? Masak kan termasuk tanggung jawab seorang pelayan ....",
+      "th": "รสชาติดีจริง ๆ ฉันเองก็อยากเรียนรู้กับคุณเหมือนกัน! ไม่ว่ายังไง นี่ก็เป็นหน้าที่ของสาวใช้เช่นกัน...",
+      "vi": "Hương vị rất tuyệt. Tôi cũng muốn học hỏi từ bạn! Dù sao, đây cũng là trách nhiệm của một hầu gái..."
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其三",
+      "zht": "收到贈禮·其三",
+      "jp": "贈り物を受け取る·3",
+      "ko": "선물 획득·세 번째",
+      "en": "Receiving a Gift: III",
+      "de": "Geschenk erhalten III",
+      "es": "Al recibir un regalo (II)",
+      "fr": "Cadeau reçu (3)",
+      "pt": "Recebendo Presentes — III",
+      "ru": "Подарок III",
+      "id": "Menerima Hadiah: III",
+      "th": "ได้รับของขวัญ - 3",
+      "vi": "Nhận Được Quà III"
+    },
+    "line": {
+      "zhs": "热量…会不会已经超过一整天的份额了…",
+      "zht": "熱量…會不會已經超過一整天的份額了…",
+      "jp": "カロリーが…一日に必要な量を超えているのではないでしょうか…",
+      "ko": "칼로리가… 이미 하루 치를 초과한 것 같아요…",
+      "en": "Hmm... This is more than I normally eat in a whole day...",
+      "de": "Die Kalorien ... Wäre das nicht mehr als ein ganzer Tagesbedarf ...",
+      "es": "Humm... Esto es más de lo que suelo comer en un día entero...",
+      "fr": "Toutes ces calories... Est-ce que ça dépassera mes apports journaliers ?",
+      "pt": "Hmm... Isso é mais do que eu costumo comer em um dia...",
+      "ru": "Хм... Я обычно и за целый день столько не съедаю...",
+      "id": "Wah, ini sudah melebihi jatah makanku untuk satu hari ....",
+      "th": "แคลอรี... สูงเกินกำหนดในหนึ่งวันหรือเปล่านะ...",
+      "vi": "Lượng calo... có khi nào đã vượt quá mức cho phép của một ngày rồi không..."
     }
   },
   {

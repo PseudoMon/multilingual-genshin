@@ -1217,6 +1217,102 @@
   },
   {
     "title": {
+      "zhs": "收到赠礼·其一",
+      "zht": "收到贈禮·其一",
+      "jp": "贈り物を受け取る·1",
+      "ko": "선물 획득·첫 번째",
+      "en": "Receiving a Gift: I",
+      "de": "Geschenk erhalten I",
+      "es": "Al recibir un regalo (I)",
+      "fr": "Cadeau reçu (1)",
+      "pt": "Recebendo Presentes — I",
+      "ru": "Подарок I",
+      "id": "Menerima Hadiah: I",
+      "th": "ได้รับของขวัญ - 1",
+      "vi": "Nhận Được Quà I"
+    },
+    "line": {
+      "zhs": "好味道，我喜欢！有米饭吗，帮忙添两碗？",
+      "zht": "好味道，我喜歡！有米飯嗎，幫忙添兩碗？",
+      "jp": "美味いな、気に入ったぜ！白米はあるか？二杯頼む！",
+      "ko": "맛있어, 내가 좋아하는 맛이야! 밥 있어? 두 그릇만 더 줄래?",
+      "en": "Tastes good, I like it! Mind giving me a bowl of rice with this?",
+      "de": "Lecker, ich mag das! Kannst du mir eine Schale Reis auffüllen?",
+      "es": "¡Sabe bien, me gusta! ¿Os importaría darme un cuenco de arroz?",
+      "fr": "C'est super bon, j'adore ! T'as du riz ? Je peux en avoir deux bols ?",
+      "pt": "Que gostinho bom, adorei! Você poderia me dar uma tigela de arroz para acompanhar?",
+      "ru": "Очень вкусно, мне нравится! А рис есть? Можно мне две пиалы?",
+      "id": "Ini enak, aku suka! Sekalian minta semangkuk nasi dong, gimana?",
+      "th": "รสชาติดี ฉันชอบ! มีข้าวมั้ย ช่วยตักให้ฉันสักชามสองชามสิ",
+      "vi": "Hương vị tuyệt đấy, tôi rất thích! Bạn có cơm không, cho tôi thêm hai bát nhé!"
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其二",
+      "zht": "收到贈禮·其二",
+      "jp": "贈り物を受け取る·2",
+      "ko": "선물 획득·두 번째",
+      "en": "Receiving a Gift: II",
+      "de": "Geschenk erhalten II",
+      "es": "Al recibir un regalo (II)",
+      "fr": "Cadeau reçu (2)",
+      "pt": "Recebendo Presentes — II",
+      "ru": "Подарок II",
+      "id": "Menerima Hadiah: II",
+      "th": "ได้รับของขวัญ - 2",
+      "vi": "Nhận Được Quà II"
+    },
+    "line": {
+      "zhs": "你的手艺真不错，让人心情也变得不一样了。",
+      "zht": "#{F#妳}{M#你}的手藝真不錯，讓人心情也變得不一樣了。",
+      "jp": "実に良い腕だ。気分も上がってきたぜ。",
+      "ko": "솜씨가 훌륭한데? 먹으면 기분이 좋아질 정도야",
+      "en": "Your cooking skills aren't bad at all, eating your food has me in a good mood.",
+      "de": "Du bist ein so guter Koch und dein Gericht macht einen Unterschied in der Stimmung!",
+      "es": "Tenéis muy buena mano en la cocina. Comer vuestra comida me pone de buen humor.",
+      "fr": "Tu te débrouilles vraiment bien. Ta cuisine a le pouvoir de mettre les gens de bonne humeur.",
+      "pt": "Suas habilidades culinárias são boas, comer sua comida me deixa de bom humor.",
+      "ru": "Ты здорово готовишь. Твоя стряпня поднимает мне настроение.",
+      "id": "Keterampilan memasakmu benar-benar boleh juga, dan memakannya membuat suasana hatiku jadi baik.",
+      "th": "ฝีมือของเธอไม่เลวเลยจริง ๆ ทำให้อารมณ์ดีได้เลยล่ะ",
+      "vi": "Tài nghệ của bạn quả thực không tồi, khiến tâm trạng của tôi cũng trở nên khác biệt."
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其三",
+      "zht": "收到贈禮·其三",
+      "jp": "贈り物を受け取る·3",
+      "ko": "선물 획득·세 번째",
+      "en": "Receiving a Gift: III",
+      "de": "Geschenk erhalten III",
+      "es": "Al recibir un regalo (II)",
+      "fr": "Cadeau reçu (3)",
+      "pt": "Recebendo Presentes — III",
+      "ru": "Подарок III",
+      "id": "Menerima Hadiah: III",
+      "th": "ได้รับของขวัญ - 3",
+      "vi": "Nhận Được Quà III"
+    },
+    "line": {
+      "zhs": "菜是好菜，这就够了。",
+      "zht": "菜是好菜，這就夠了。",
+      "jp": "料理自体は悪くない、それで十分だろ。",
+      "ko": "재료는 좋네, 그럼 됐어",
+      "en": "You know, at the end of the day, food is food, and that's fine by me.",
+      "de": "Die Zutaten sind gut und das ist wichtig.",
+      "es": "Bueno, al final, la comida es comida, no pasa nada.",
+      "fr": "Il n'y a pas de mauvaise nourriture au bout du compte pour moi.",
+      "pt": "Toda comida é boa comida, e isso é suficiente.",
+      "ru": "Знаешь, по большому счёту, еда есть еда, и меня это устраивает.",
+      "id": "Ya sudahlah, yang penting ada makanan. Aku oke-oke saja.",
+      "th": "เป็นอาหารจานดี แค่นั้นก็พอแล้วล่ะ",
+      "vi": "Thức ăn cũng ổn, vậy là đủ."
+    }
+  },
+  {
+    "title": {
       "zhs": "生日…",
       "zht": "生日…",
       "jp": "誕生日…",

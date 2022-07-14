@@ -121,7 +121,7 @@
       "es": "Aunque los barcos están hechos para navegar, siempre hacen una parada en los puertos. Por ello, Liyue es el lugar al que llega toda la riqueza.",
       "fr": "Les navires servent au transport de marchandises, et ceux qui passent à Liyue ont tendance à y rester amarrés un moment. Ceci explique entre autres la richesse du port.",
       "pt": "Barcos são feitos para transportar mercadorias, e aqueles que vem para Liyue tendem a ficar um pouco, por isso é onde muitas coisas vêm para ficar.",
-      "ru": "Корабли созданы, чтобы перевозить товары по морям. Они с удовольствием причаливают к гавани Ли Юэ. Поэтому здесь оседают богатства.",
+      "ru": "Корабли созданы, чтобы перевозить товары по морям. Они с удовольствием бросают якорь в гавани Ли Юэ. Поэтому здесь оседают богатства.",
       "id": "Perahu dibuat untuk mengirim muatan, dan semuanya berlabuh ketika tiba di dermaga. Oleh karena itu, Liyue menjadi tempat berkumpulnya berbagai macam harta benda.",
       "th": "เรือที่ถูกสร้างขึ้นเพื่อการ \"สัญจร\" ก็จะมาทอดสมออยู่ที่ท่าเรือเช่นกัน ดังนั้น Liyue จึงเป็นสถานที่ที่ความมั่งคั่ง \"พอกพูน\"",
       "vi": "Con tàu được làm ra để \"lưu thông\" trên biển lớn, khi gặp bến cảng cũng sẽ dừng lại. Chính vì vậy, Liyue là nơi \"ngưng tụ\" của tất cả tài nguyên."
@@ -203,7 +203,7 @@
       "fr": "Quand il neige...",
       "pt": "Quando Está Nevando...",
       "ru": "Когда идёт снег...",
-      "id": "Ketika Turun Salju",
+      "id": "Waktu Turun Salju",
       "th": "ในเวลาที่หิมะตก...",
       "vi": "Khi tuyết rơi..."
     },
@@ -793,7 +793,7 @@
       "es": "¿Todavía no ha salido de Liyue ese caballero de Snezhnaya? Está bien. Si te da problemas, llámame y yo me haré cargo.",
       "fr": "Ce vaurien de Snezhnaya n'a pas encore quitté Liyue ? Peu importe. Dites-moi si jamais il vous cherche des noises. Je réglerai le problème.",
       "pt": "Aquele malandro de Snezhnaya ainda não saiu de Liyue? Não importa, apenas me diga se ele lhe causar algum problema. Resolverei isso imediatamente.",
-      "ru": "Тот пройдоха из Снежной ещё не покинул Ли Юэ? Ничего страшного. Если он будет докучать тебе, позови меня, я с ним справлюсь.",
+      "ru": "Тот пройдоха из Снежной ещё не покинул Ли Юэ? Ничего страшного. Если он будет докучать, позови меня, я с ним справлюсь.",
       "id": "Berandalan dari Snezhnaya itu masih belum pergi juga dari Liyue? Sudah, beri tahu saja aku kalau dia cari gara-gara lagi denganmu. Aku yang akan membereskannya.",
       "th": "เจ้าตัวร้ายจาก Snezhnaya ยังไม่ไปจาก Liyue อีกหรอ? ไม่เป็นไรหรอก ถ้าหมอนั่นสร้างปัญหาให้คุณ ฉันจะจัดการเอง",
       "vi": "Chiến binh từ Snezhnaya đó, vẫn chưa rời Liyue sao? Không thành vấn đề, nếu anh ta làm phiền bạn, bạn có thể gọi tôi đến ứng phó."
@@ -849,7 +849,7 @@
     },
     "line": {
       "zhs": "璃月这个国度的繁荣，靠得绝不仅是「岩王帝君」的神谕，而是无数响应「契约」的岩神子民。在这之中，甘雨已是就职时间最长的一位了。关于她的往事…我怕她怪罪，让她自己和你说吧。",
-      "zht": "#璃月這個國度的繁榮，靠得絕不僅是「岩王帝君」的神諭，而是無數響應「契約」的岩神子民。在這之中，甘雨已是就職時間最長的一位了。關於她的往事…我怕她怪罪，讓她自己和{F#妳}{M#你}說吧。",
+      "zht": "#璃月這個國度的繁榮，靠的絕不僅是「岩王帝君」的神諭，而是無數響應「契約」的岩神子民。在這之中，甘雨已是就職時間最長的一位了。關於她的往事…我怕她怪罪，讓她自己和{F#妳}{M#你}說吧。",
       "jp": "璃月の繁栄は「岩王帝君」のお告げのおかげだけではなく、「契約」に応えた無数の岩神の民のおかげだ。その中で、最も長く職務についたのが甘雨だ。彼女の過去に関しては…ハハッ、彼女の気を悪くしたくないからな、彼女本人に聞いてくれ。",
       "ko": "리월의 번영은 절대 「암왕제군」의 신탁에 의해서만 완성된 게 아니다. 「계약」에 응답한 무수한 바위 신의 백성들이 있었기에 가능했지. 그중에서도 감우는 취임한 지 가장 오래됐어. 그녀의 과거라면… 그녀가 날 원망할 수도 있으니, 가서 직접 물어보게",
       "en": "Liyue's prosperity has not merely been built on Rex Lapis' oracles or wisdom. It is also thanks to the countless servants of the Geo Archon who have honored their end of the contract. Of them, Ganyu is the one who has served for the longest time. If you want to know about her past... You should ask her about it. I fear my wording would not be delicate enough to receive her approval.",
@@ -1081,7 +1081,7 @@
       "es": "¿Has oído hablar del “Patrono de los contratos”?\n\nSu memoria es impresionante. Nunca olvida el nombre de cada uno de sus adversarios, o el día en que cada barco ha zarpado del puerto de Liyue desde que construyeron los astilleros. Solo una persona con una memoria así es capaz de memorizar un contrato entero.\n\nSin embargo, una buena memoria también trae consigo amarguras.",
       "fr": "Le Dieu des contrats... En avez-vous entendu parler ?\n\nSa mémoire est sans égale. Il se rappelle du nom de chaque personne qu'il croise, et de la date à laquelle chacun des navires amarrés à Liyue prend la mer. Après tout, mieux vaut avoir une bonne mémoire quand on vit par les contrats. Cela étant, tous les souvenirs ne sont pas forcément de bons souvenirs...",
       "pt": "O Deus dos Contratos. Ouviu falar nele?\n\nEle tem uma memória incrível. Ele lembra o nome de todas as pessoas que encontrou, e a data que cada barco construído em Liyue partiu. Afinal, só assim ele poderia lembrar todos os contratos que tem. Mas nem toda memória é alegre...",
-      "ru": "#Ты слышал{F#а}, что говорят о боге контрактов? \n\nУ него прекрасная память. Он помнит имя каждого соперника и даты спуска на воду всех созданных на верфи Ли Юэ кораблей. В конце концов только обладатель такой памяти может хранить в ней весь контракт до последней буквы. \n\nНо... не все воспоминания приносят радость.",
+      "ru": "#Ты слышал{F#а}, что говорят о боге контрактов? \n\nУ него прекрасная память. Он помнит имя каждого соперника и даты спуска на воду всех созданных на верфи Ли Юэ кораблей. В конце концов только обладатель такой памяти может хранить в ней все контракты до последней буквы. \n\nНо... не все воспоминания приносят радость.",
       "id": "Dewa Kontrak, apa kamu sudah pernah dengar tentang dirinya?\n\nIngatannya sangat bagus. Dia ingat nama semua orang yang pernah dia temui, dan dia juga ingat tanggal berapa semua kapal yang dibuat di Liyue pergi berlayar. Daya ingat yang sedemikian kuatnya itulah yang membuat dia mampu mengingat semua kontrak yang ada di tangannya.\n\nMeski begitu, bukan berarti semua yang ada di ingatannya itu adalah kenangan yang membawa kebahagiaan ....",
       "th": "เคยได้ยินเรื่องของ \"เทพแห่งพันธสัญญา\" มั้ย? เขามีความจำเป็นเลิศ ชื่อของคู่ต่อสู้แต่ละคน และวันที่เรือแต่ละลำที่สร้างโดยอู่ต่อเรือใน Liyue ออกทะเลเป็นครั้งแรก เขาไม่เคยลืม เพราะมีเพียงความทรงจำชั้นยอดเช่นนี้เท่านั้น ถึงจะสามารถจำ \"สัญญา\" ทั้งหมดได้ \n\nอย่างไรก็ตามบางครั้งความจำดีเกินไปก็ไม่ใช่เรื่องดีเท่าไร",
       "vi": "Nghe đến nguồn gốc của \"Thần Khế Ước\" chưa?\n\nNgài ấy có một trí nhớ vô cùng tốt có thể nhớ tên của từng kẻ địch, nhớ ngày ra khơi của tất cả các con thuyền được tạo ra kể từ khi cảng Liyue được xây dựng. Phải có trí nhớ như vậy mới có thể nhớ được tất cả khế ước.\n\nNhưng mà trí nhớ tốt đôi khi lại khiến con người ta không vui."
@@ -1245,6 +1245,102 @@
       "id": "Aku tidak suka makanan laut. Melihatnya saja sudah membuatku ingat dengan ... tekstur berlendir dan bau amis yang tidak bisa hilang. Semua itu karena ...\n\nAh, ceritanya panjang, jadi anggap saja alasannya adalah karena daya ingatku terlalu bagus.",
       "th": "ฉันไม่ชอบอาหารทะเล แค่เห็นอาหารทะเลฉันก็จะคิดถึง... จะพูดไงดีล่ะ สัมผัสลื่น ๆ กลิ่นคาวที่ล้างยังไงก็ล้างไม่หมด อ่า ส่วนสาเหตุที่ฉันไม่ชอบมัน...\n\nเฮ้อ... พูดแล้วเรื่องยาว เพราะความจำของฉันดีเกินไปน่ะ",
       "vi": "Tôi không thích hải sản. Chỉ cần nhìn thấy hải sản là sẽ nghĩ ngay đến...nói thế nào nhỉ, cái cảm giác trơn trượt và mùi tanh không thể nào rửa sạch ấy. À, lý do ư...\n\nĐó là một câu chuyện dài, cứ xem như tại trí nhớ tôi quá tốt đi."
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其一",
+      "zht": "收到贈禮·其一",
+      "jp": "贈り物を受け取る·1",
+      "ko": "선물 획득·첫 번째",
+      "en": "Receiving a Gift: I",
+      "de": "Geschenk erhalten I",
+      "es": "Al recibir un regalo (I)",
+      "fr": "Cadeau reçu (1)",
+      "pt": "Recebendo Presentes — I",
+      "ru": "Подарок I",
+      "id": "Menerima Hadiah: I",
+      "th": "ได้รับของขวัญ - 1",
+      "vi": "Nhận Được Quà I"
+    },
+    "line": {
+      "zhs": "用料讲究，做法地道。属实不易。",
+      "zht": "用料講究，做法道地。屬實不易。",
+      "jp": "本格的な調理法で、素材にまでこだわっている。大したものだ。",
+      "ko": "재료도 신경 써서 골랐고 조리법도 제대로야. 대단하군",
+      "en": "The finest ingredients cooked with true expertise. This is no small feat.",
+      "de": "Die Zutaten sind exquisit und die Zubereitung ist authentisch. Das ist nicht einfach.",
+      "es": "#Los ingredientes más exquisitos cocinados por {F#una auténtica experta}{M#un auténtico experto}. Es, sin duda, una gran hazaña.",
+      "fr": "Les ingrédients ont été choisis avec soin et la recette parfaitement exécutée. Ce n'est pas une mince affaire.",
+      "pt": "Os ingredientes requintados foram preparados com grande perícia. Não é fácil alcançar isso.",
+      "ru": "Лучшие ингредиенты, приготовленные с истинным профессионализмом. Настоящий кулинарный подвиг.",
+      "id": "Bahan paling berkualitas, diolah dengan keahlian yang sejati. Ini bukan sembarangan.",
+      "th": "วัตถุดิบชั้นเยี่ยม วิธีการปรุงพิถีพิถัน ไม่ง่ายเลยจริง ๆ",
+      "vi": "Dùng nguyên liệu rất tinh tế, chế biến tỉ mỉ. Quả không đơn giản."
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其二",
+      "zht": "收到贈禮·其二",
+      "jp": "贈り物を受け取る·2",
+      "ko": "선물 획득·두 번째",
+      "en": "Receiving a Gift: II",
+      "de": "Geschenk erhalten II",
+      "es": "Al recibir un regalo (II)",
+      "fr": "Cadeau reçu (2)",
+      "pt": "Recebendo Presentes — II",
+      "ru": "Подарок II",
+      "id": "Menerima Hadiah: II",
+      "th": "ได้รับของขวัญ - 2",
+      "vi": "Nhận Được Quà II"
+    },
+    "line": {
+      "zhs": "烹饪是一件饶有趣味的事，想来对你而言也是如此。",
+      "zht": "#烹飪是一件饒有趣味的事，想來對{F#妳}{M#你}而言也是如此。",
+      "jp": "料理とは、実に趣のあるもの。それはお前にとっても同じことだろう。",
+      "ko": "요리는 아주 재밌는 일이야. 너도 그렇게 느낄 테지",
+      "en": "The art of gastronomy is a fascinating one. That it appeals to you comes as no surprise.",
+      "de": "Kochen macht Spaß und ist interessant. Ich denke, das gilt auch für dich.",
+      "es": "La cocina es un arte fascinante, aunque supongo que eso ya lo sabías muy bien.",
+      "fr": "La cuisine est une activité pleine d'intérêt. Je pense que vous êtes d'accord avec cela.",
+      "pt": "A gastronomia é algo muito interessante. Estou surpreso que ela também chama sua atenção.",
+      "ru": "Искусство гастрономии невероятно увлекательно. Неудивительно, что тебе нравится.",
+      "id": "Dunia kuliner memanglah menarik hati. Tidak heran kamu menyukainya.",
+      "th": "การทำอาหารเป็นเรื่องที่สนุกอย่างหนึ่ง เห็นทีจะเป็นจริงสำหรับเธอเช่นกัน",
+      "vi": "Nấu ăn là việc rất thú vị, và nó lại càng đúng với bạn."
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其三",
+      "zht": "收到贈禮·其三",
+      "jp": "贈り物を受け取る·3",
+      "ko": "선물 획득·세 번째",
+      "en": "Receiving a Gift: III",
+      "de": "Geschenk erhalten III",
+      "es": "Al recibir un regalo (II)",
+      "fr": "Cadeau reçu (3)",
+      "pt": "Recebendo Presentes — III",
+      "ru": "Подарок III",
+      "id": "Menerima Hadiah: III",
+      "th": "ได้รับของขวัญ - 3",
+      "vi": "Nhận Được Quà III"
+    },
+    "line": {
+      "zhs": "既有闲暇，不如找一处庭院，和你说一段故事吧。",
+      "zht": "#既有閒暇，不如找一處庭院，和{F#妳}{M#你}說一段故事吧。",
+      "jp": "時間があれば、どこかの庭園でお前に物語を聞かせてやろう。",
+      "ko": "시간도 많은데, 정원에서 내 이야기나 듣지 않겠나?",
+      "en": "Since you seem to have some time on your hands, why don't we find a quiet place and I'll share one of my stories with you.",
+      "de": "Wenn du etwas Zeit hast, warum suchen wir uns nicht einen Innenhof und ich erzähle dir eine Geschichte?",
+      "es": "Ya que pareces tener tiempo, ¿por qué no vamos a un lugar tranquilo y te cuento una de mis historias?",
+      "fr": "Vous semblez avoir du temps libre. Pourquoi ne pas trouver un endroit pour s'installer ? Je souhaiterais vous raconter une histoire.",
+      "pt": "Como você parece estar livre, que tal irmos para um local calmo? Poderei lhe contar mais uma de minhas histórias para você.",
+      "ru": "Раз у тебя столько свободного времени, давай лучше найдём тихое местечко, и я расскажу тебе одну из своих историй.",
+      "id": "Karena kamu senggang, lebih baik kita cari tempat sepi saja dan biarkan aku bercerita.",
+      "th": "ถ้าเธอมีเวลาว่าง งั้นไปหาที่เงียบ ๆ ให้ฉันเล่าเรื่องราวให้ฟังสักเรื่องดีกว่า",
+      "vi": "Nếu có thời gian rảnh rỗi, chi bằng tìm một khoảng sân, tôi muốn kể cho bạn nghe một câu chuyện."
     }
   },
   {

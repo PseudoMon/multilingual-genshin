@@ -763,7 +763,7 @@
       "pt": "A capitã da Frota Crux - uma mulher formidável, de fato. Certa vez, ela prometeu me levar para o oceano para dar uma olhada na tempestade que isola Inazuma do mundo exterior. É uma pena que até hoje eu nunca tive a chance de aceitar a oferta dela...",
       "ru": "Капитан Южного Креста - действительно грозная женщина. Однажды она пообещала вывезти меня в открытый океан, чтобы взглянуть на грозу, отделяющую Инадзуму от внешнего мира. Жаль, что у меня пока не получилось принять её предложение...",
       "id": "Kapten Crux Fleet, seorang wanita yang luar biasa. Dia pernah janji mau bawa aku ke laut untuk melihat badai petir yang memisahkan Inazuma dari dunia luar. Sayangnya, sampai hari ini aku belum sempat menerima ajakannya itu ....",
-      "th": "นายหญิงของกองทัพเรือ \"Crux\" ช่างเป็นคนที่กระฉับกระเฉงซะจริง ๆ เลยนะ ครั้งหนึ่งเธอเคยสัญญาว่าจะพาฉันไปที่ทะเลอันไกลโพ้นเพื่อดูว่าพายุฝนฟ้าคะนองเป็นอย่างไร แต่น่าเสียดายที่ฉันยังไม่มีโอกาสได้ออกไปดู...",
+      "th": "นายหญิงของกองเรือ \"Crux\" ช่างเป็นคนที่กระฉับกระเฉงซะจริง ๆ เลยนะ ครั้งหนึ่งเธอเคยสัญญาว่าจะพาฉันไปที่ทะเลอันไกลโพ้นเพื่อดูว่าพายุฝนฟ้าคะนองเป็นอย่างไร แต่น่าเสียดายที่ฉันยังไม่มีโอกาสได้ออกไปดู...",
       "vi": "Chị đại của đội thuyền \"Nam Thập Tự\" quả là một người hào sảng. Cô ấy từng hứa đưa tôi đi đến nơi biển xa để xem thử bão sét phong tỏa mọi thứ là như thế nào. Tiếc là đến giờ tôi vẫn chưa có cơ hội xem thử..."
     }
   },
@@ -1341,6 +1341,102 @@
       "id": "Kalau makanan sih, aku apa juga doyan, tapi, kalau minuman ... Aku tidak kuat minum alkohol. Jangan tertawa, dan betul sekali pikiranmu, orang Mondstadt macam apa yang tidak becus minum. Tapi kan ... kebanyakan minum juga tidak baik. Tidak bisa minum itu bagus juga kan.",
       "th": "ถ้าในส่วนของอาหารก็ไม่มีอะไรมาก แต่ถ้านับเรื่องเครื่องดื่มด้วยล่ะก็... ฉันดื่มไม่ค่อยเก่งเท่าไหร่ อย่าหัวเราะสิ ฉันก็คิดนะว่าฉันใช่คน Mondstadt แน่เหรอ แต่ว่า... ถ้าดื่มมากเกินไปก็จะส่งผลเสียต่อร่างกายนะ ดังนั้น การไม่ดื่มจึงถือเป็นเรื่องดีนะ",
       "vi": "Nhìn chung thì không có món ăn mà tôi ghét, nhưng thức uống thì tôi không thể uống rượu. Haha, tôi cũng đang nghi ngờ xem bản thân có phải là người Mondstadt không đây. Nhưng mà... uống rượu có hại cho sức khỏe lắm, không uống được cũng là chuyện tốt mà."
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其一",
+      "zht": "收到贈禮·其一",
+      "jp": "贈り物を受け取る·1",
+      "ko": "선물 획득·첫 번째",
+      "en": "Receiving a Gift: I",
+      "de": "Geschenk erhalten I",
+      "es": "Al recibir un regalo (I)",
+      "fr": "Cadeau reçu (1)",
+      "pt": "Recebendo Presentes — I",
+      "ru": "Подарок I",
+      "id": "Menerima Hadiah: I",
+      "th": "ได้รับของขวัญ - 1",
+      "vi": "Nhận Được Quà I"
+    },
+    "line": {
+      "zhs": "好香！我还想再添一碗米饭！",
+      "zht": "好香！我還想再添一碗米飯！",
+      "jp": "うーん、いい匂いだ！ご飯をおかわりしてもいいかな！",
+      "ko": "너무 맛있어! 밥 한 공기 더 먹을래!",
+      "en": "Delicious! Could I get another bowl of rice?",
+      "de": "Es riecht so gut! Ich möchte noch eine Schüssel Reis!",
+      "es": "¡Qué rico! ¡Quiero otro cuenco de arroz!",
+      "fr": "C'est succulent ! Je voudrais un autre bol de riz !",
+      "pt": "Que delícia! Quero mais uma tigela de arroz!",
+      "ru": "Вкусно! Можно мне ещё пиалу риса?",
+      "id": "Enak! Aku boleh tambah nasinya?",
+      "th": "อร่อย! ฉันอยากจะเบิ้ลข้าวอีกชามเลย!",
+      "vi": "Thơm quá! Tôi muốn ăn thêm một bát cơm!"
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其二",
+      "zht": "收到贈禮·其二",
+      "jp": "贈り物を受け取る·2",
+      "ko": "선물 획득·두 번째",
+      "en": "Receiving a Gift: II",
+      "de": "Geschenk erhalten II",
+      "es": "Al recibir un regalo (II)",
+      "fr": "Cadeau reçu (2)",
+      "pt": "Recebendo Presentes — II",
+      "ru": "Подарок II",
+      "id": "Menerima Hadiah: II",
+      "th": "ได้รับของขวัญ - 2",
+      "vi": "Nhận Được Quà II"
+    },
+    "line": {
+      "zhs": "你还有时间吗？和我一起分享厨艺心得吧！",
+      "zht": "#{F#妳}{M#你}還有時間嗎？和我一起分享廚藝心得吧！",
+      "jp": "まだ時間はあるかい？料理の真髄を語り合おう！",
+      "ko": "지금 시간 있어? 서로 요리에 대한 노하우를 공유하자!",
+      "en": "Um, are you free right now? Would you mind sharing some of your cooking tips with me?",
+      "de": "Hast du noch Zeit? Teil deine Kochtipps mit mir!",
+      "es": "¿Tienes tiempo? ¿Por qué no compartes conmigo tus secretos culinarios?",
+      "fr": "Vous avez un peu de temps ? Discutons de nos techniques de cuisine !",
+      "pt": "Você está livre agora? Que tal dividir seus conhecimentos culinários comigo?",
+      "ru": "У тебя есть минутка? Не поделишься со мной своими кулинарными секретами?",
+      "id": "Um, kamu lagi senggang? Boleh bagi-bagi tips masakmu?",
+      "th": "เธอยังพอมีเวลามั้ย? ช่วยแบ่งปันเคล็ดลับการทำอาหารให้ฉันหน่อยสิ!",
+      "vi": "Bạn vẫn còn thời gian chứ? Mau cùng tôi chia sẻ kinh nghiệm nấu ăn nào!"
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其三",
+      "zht": "收到贈禮·其三",
+      "jp": "贈り物を受け取る·3",
+      "ko": "선물 획득·세 번째",
+      "en": "Receiving a Gift: III",
+      "de": "Geschenk erhalten III",
+      "es": "Al recibir un regalo (II)",
+      "fr": "Cadeau reçu (3)",
+      "pt": "Recebendo Presentes — III",
+      "ru": "Подарок III",
+      "id": "Menerima Hadiah: III",
+      "th": "ได้รับของขวัญ - 3",
+      "vi": "Nhận Được Quà III"
+    },
+    "line": {
+      "zhs": "没怎么尝试过的味道…虽然也不坏吧。",
+      "zht": "沒怎麼嘗試過的味道…雖然也不壞吧。",
+      "jp": "あまり…食べたことのない味だね…悪くはないけど…",
+      "ko": "별로 안 먹어 본 맛이지만… 그렇게 나쁘진 않아",
+      "en": "I don't think I've ever tasted anything like this... Oh, it's not too bad, though.",
+      "de": "Ich habe noch nicht viel von dem Geschmack probiert ... Aber ich denke, er ist nicht schlecht.",
+      "es": "Nunca antes había probado este sabor... Aunque tampoco es que esté malo.",
+      "fr": "Je n'ai jamais rien goûté de tel... Mais ce n'est pas mauvais.",
+      "pt": "Eu acho que nunca provei algo assim... Mas não está tão ruim.",
+      "ru": "Не думаю, что когда-либо пробовал такое... Но всё не так уж и плохо.",
+      "id": "Sepertinya aku belum pernah coba rasa yang seperti ini ... yah, bukan tidak enak juga sih.",
+      "th": "ฉันไม่เคยได้ลิ้มรสแบบนี้มาก่อน... ก็ไม่แย่แหละมั้งนะ",
+      "vi": "Tôi chưa từng thử qua hương vị như thế này... mặc dù cũng không quá tệ."
     }
   },
   {

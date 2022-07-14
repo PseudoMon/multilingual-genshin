@@ -898,7 +898,7 @@
   {
     "title": {
       "zhs": "想要了解重云·其二",
-      "zht": "想要瞭解重云·其二",
+      "zht": "想要瞭解重雲·其二",
       "jp": "重雲を知る·2",
       "ko": "중운에 대해 알기·두 번째",
       "en": "More About Chongyun: II",
@@ -930,7 +930,7 @@
   {
     "title": {
       "zhs": "想要了解重云·其三",
-      "zht": "想要瞭解重云·其三",
+      "zht": "想要瞭解重雲·其三",
       "jp": "重雲を知る·3",
       "ko": "중운에 대해 알기·세 번째",
       "en": "More About Chongyun: III",
@@ -962,7 +962,7 @@
   {
     "title": {
       "zhs": "想要了解重云·其四",
-      "zht": "想要瞭解重云·其四",
+      "zht": "想要瞭解重雲·其四",
       "jp": "重雲を知る·4",
       "ko": "중운에 대해 알기·네 번째",
       "en": "More About Chongyun: IV",
@@ -994,7 +994,7 @@
   {
     "title": {
       "zhs": "想要了解重云·其五",
-      "zht": "想要瞭解重云·其五",
+      "zht": "想要瞭解重雲·其五",
       "jp": "重雲を知る·5",
       "ko": "중운에 대해 알기·다섯 번째",
       "en": "More About Chongyun: V",
@@ -1026,7 +1026,7 @@
   {
     "title": {
       "zhs": "重云的爱好…",
-      "zht": "重云的愛好…",
+      "zht": "重雲的愛好…",
       "jp": "重雲の趣味…",
       "ko": "중운의 취미...",
       "en": "Chongyun's Hobbies...",
@@ -1058,7 +1058,7 @@
   {
     "title": {
       "zhs": "重云的烦恼…",
-      "zht": "重云的煩惱…",
+      "zht": "重雲的煩惱…",
       "jp": "重雲の悩み…",
       "ko": "중운의 고민...",
       "en": "Chongyun's Troubles...",
@@ -1149,6 +1149,102 @@
       "id": "Pokoknya apa pun yang pedas dan panas, tidak boleh. Membayangkan Jueyun Chili saja sudah bisa bikin aku kepanasan.",
       "th": "อาหารที่เผ็ดและร้อนจะเข้าปากฉัน ไม่ได้เด็ดขาด ยิ่งถ้าเป็นเมนูที่ใส่พริก Jueyun Chili ด้วยล่ะก็... แค่คิดก็กลัวแล้ว",
       "vi": "Mọi món đồ ăn cay và nóng tôi đều không ăn. Thực sự nghĩ đến món có liên quan đến Ớt Tuyệt Vân là đã sởn gai ốc rồi."
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其一",
+      "zht": "收到贈禮·其一",
+      "jp": "贈り物を受け取る·1",
+      "ko": "선물 획득·첫 번째",
+      "en": "Receiving a Gift: I",
+      "de": "Geschenk erhalten I",
+      "es": "Al recibir un regalo (I)",
+      "fr": "Cadeau reçu (1)",
+      "pt": "Recebendo Presentes — I",
+      "ru": "Подарок I",
+      "id": "Menerima Hadiah: I",
+      "th": "ได้รับของขวัญ - 1",
+      "vi": "Nhận Được Quà I"
+    },
+    "line": {
+      "zhs": "口感凉爽，正合我意！我要多留一些，等到修行完毕后再来享用。",
+      "zht": "口感涼爽，正合我意！我要多留一些，等到修行完畢後再來享用。",
+      "jp": "ヒンヤリとした口当たりだな、気に入った！うん、残りは修行を終えてからいただくとしよう。",
+      "ko": "식감이 시원한 게 내 스타일이야! 조금 아껴뒀다가 수련이 끝나면 또 먹어야겠어",
+      "en": "Cold dishes are just to my liking! I'll save some for after my training.",
+      "de": "Kühl am Gaumen, genau das, was ich wollte! Ich werde noch etwas aufheben, um es zu genießen, wenn ich mit meiner Übung fertig bin.",
+      "es": "¡Qué frescura! Justo como a mí me gusta. Guárdame un poco, me lo comeré cuando acabe de entrenar.",
+      "fr": "La fraîcheur en bouche est parfaite ! Je dois en garder un peu pour savourer ça à la fin de mon entraînement.",
+      "pt": "Adoro pratos frios! Guardarei um pouco para depois de meu treinamento.",
+      "ru": "Холодные блюда как раз по мне! Съем после тренировки.",
+      "id": "Aku memang doyan yang dingin-dingin! Aku mau simpan sebagian buat dimakan setelah latihan ya.",
+      "th": "รสชาติเย็นสบายสดชื่นอย่างที่ฉันชอบเลย! ฉันจะเก็บบางส่วนไว้กินหลังฝึกฝนเสร็จสักหน่อย",
+      "vi": "Hương vị thanh mát, rất hợp ý tôi! Tôi muốn giữ thêm một ít, đợi sau khi tu luyện xong mới thưởng thức."
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其二",
+      "zht": "收到贈禮·其二",
+      "jp": "贈り物を受け取る·2",
+      "ko": "선물 획득·두 번째",
+      "en": "Receiving a Gift: II",
+      "de": "Geschenk erhalten II",
+      "es": "Al recibir un regalo (II)",
+      "fr": "Cadeau reçu (2)",
+      "pt": "Recebendo Presentes — II",
+      "ru": "Подарок II",
+      "id": "Menerima Hadiah: II",
+      "th": "ได้รับของขวัญ - 2",
+      "vi": "Nhận Được Quà II"
+    },
+    "line": {
+      "zhs": "不好意思啊。明明是你的一片心意，我却只能放凉再吃…",
+      "zht": "#不好意思啊。明明是{F#妳}{M#你}的一片心意，我卻只能放涼再吃…",
+      "jp": "すまない。せっかく作ってくれたというのに、ぼくは冷ましてからじゃないと食べられないんだ…",
+      "ko": "미안, 네가 정성 들여 만들어줬는데 식혀 먹을 수밖에 없어서…",
+      "en": "I'm sorry, I know you mean well, but I really need to wait for it to cool off before I eat it.",
+      "de": "Es tut mir leid. Ich musste sie abkühlen lassen, bevor ich sie aß ...",
+      "es": "Lo siento mucho. Te has esforzado mucho en hacerlo, pero solo puedo comerlo si está frío...",
+      "fr": "Désolé... Tu t'es donné la peine de préparer ce plat pour moi, mais je ne peux le manger que s'il est froid...",
+      "pt": "Me desculpe, eu sei que você tem boas intenções, mas realmente preciso esperar esfriar para poder comer...",
+      "ru": "#Прости, понимаю, ты хотел{F#a} как лучше, но мне придётся подождать, чтобы блюдо остыло, прежде чем его есть...",
+      "id": "Maaf yah. Padahal kamu sudah repot-repot masak, tapi aku harus tunggu biar dingin dulu ....",
+      "th": "ขอโทษนะ เธออุตส่าห์ตั้งใจทำมาแท้ ๆ แต่ฉันกลับต้องปล่อยให้มันเย็นแล้วค่อยกิน...",
+      "vi": "Thật xin lỗi. Rõ ràng đó là tình cảm của bạn, nhưng tôi lại chỉ có thể để nguội rồi mới ăn..."
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其三",
+      "zht": "收到贈禮·其三",
+      "jp": "贈り物を受け取る·3",
+      "ko": "선물 획득·세 번째",
+      "en": "Receiving a Gift: III",
+      "de": "Geschenk erhalten III",
+      "es": "Al recibir un regalo (II)",
+      "fr": "Cadeau reçu (3)",
+      "pt": "Recebendo Presentes — III",
+      "ru": "Подарок III",
+      "id": "Menerima Hadiah: III",
+      "th": "ได้รับของขวัญ - 3",
+      "vi": "Nhận Được Quà III"
+    },
+    "line": {
+      "zhs": "糟糕！这味道是…绝云椒椒？",
+      "zht": "糟糕！這味道是…絕雲椒椒？",
+      "jp": "しまった！この味は…絶雲の唐辛子か！？",
+      "ko": "이런! 설마 이 맛은… 절운고추?",
+      "en": "Oh no! Did you put Jueyun Chilies in this?",
+      "de": "Sind das ... Jueyun-Peperoni?",
+      "es": "¡Vaya! Este sabor es... Oh, no, ¡chile de Jueyun!",
+      "fr": "Oh non ! Est-ce du piment de Jueyun que je sens là ?",
+      "pt": "Oh, não! Você colocou Pimentas de Jueyun aqui?",
+      "ru": "#О нет! Ты добавил{F#a} заоблачный перчик?",
+      "id": "Gawat! Ini ada Jueyun Chili-nya ya???",
+      "th": "แย่ละ! รสชาตินี้มัน... Jueyun Chili?",
+      "vi": "Gay rồi! Đây là vị... Ớt Tuyệt Vân?"
     }
   },
   {

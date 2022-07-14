@@ -1265,7 +1265,7 @@
     },
     "line": {
       "zhs": "天清海阔，皓月凌空，此情此景，正适合作诗一首。",
-      "zht": "天清海闊，皓月淩空，此情此景，正適合作詩一首。",
+      "zht": "天清海闊，皓月凌空，此情此景，正適合作詩一首。",
       "jp": "雲一つない空と、月光に満ちた夜空！こんな絶景、詩を作るにはぴったりね！",
       "ko": "맑은 하늘, 광활한 바다, 밝은 달이 떠 있는 이 경치엔 시 한 수 읊기 딱이지!",
       "en": "A bright moon aloft amid the vast, clear skies... Moments like these are just perfect for writing poetry.",
@@ -1373,6 +1373,102 @@
       "id": "Qingxin Slime Condensate ... Huek ... Ini sih Xiangling balas dendam namanya ....",
       "th": "ดอก Qingxin ผัด Slime Condensate... อ่าา...นี่ Xiangling แก้แค้นฉันเหรอ?",
       "vi": "Thanh Tâm xào Dịch Slime ...Oẹ...Xiangling đang báo thù tôi sao?"
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其一",
+      "zht": "收到贈禮·其一",
+      "jp": "贈り物を受け取る·1",
+      "ko": "선물 획득·첫 번째",
+      "en": "Receiving a Gift: I",
+      "de": "Geschenk erhalten I",
+      "es": "Al recibir un regalo (I)",
+      "fr": "Cadeau reçu (1)",
+      "pt": "Recebendo Presentes — I",
+      "ru": "Подарок I",
+      "id": "Menerima Hadiah: I",
+      "th": "ได้รับของขวัญ - 1",
+      "vi": "Nhận Được Quà I"
+    },
+    "line": {
+      "zhs": "甚好甚好。本堂主现在就来为这道菜肴题诗一首——",
+      "zht": "甚好甚好。本堂主現在就來為這道菜餚題詩一首——",
+      "jp": "よしよし。堂主である私が、この料理に詩を一編書いてあげる——",
+      "ko": "좋아 좋아. 이 당주님이 이 요리를 위해 시를 한 수 지어주지——",
+      "en": "Splendid, splendid! Now, allow me to compose a poem in loving memory of this dish.",
+      "de": "Sehr gut, sehr gut. Ich werde jetzt ein Gedicht auf dieses Gericht schreiben ...",
+      "es": "¡Increíble, fantástico! Permíteme componer un poema en conmemoración de este plato.",
+      "fr": "Délicieux. Je vais composer un poème pour ce plat dès cet instant !",
+      "pt": "Ótimo, ótimo! Agora eu farei um poema para lembrar deste prato...",
+      "ru": "Замечательно! Замечательно! А теперь позволь мне сочинить стихотворение в память об этом блюде.",
+      "id": "Hebat, hebat sekali! Sekarang, izinkan aku merangkai satu bait puisi untuk mengenang makanan ini.",
+      "th": "ดีมาก ๆ เดี๋ยวหัวหน้าโถงฯ คนนี้จะแต่งกลอนให้อาหารจานนี้สักบท...",
+      "vi": "Rất tốt, rất tốt. Bổn đường chủ sẽ viết một bài thơ về món ăn này..."
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其二",
+      "zht": "收到贈禮·其二",
+      "jp": "贈り物を受け取る·2",
+      "ko": "선물 획득·두 번째",
+      "en": "Receiving a Gift: II",
+      "de": "Geschenk erhalten II",
+      "es": "Al recibir un regalo (II)",
+      "fr": "Cadeau reçu (2)",
+      "pt": "Recebendo Presentes — II",
+      "ru": "Подарок II",
+      "id": "Menerima Hadiah: II",
+      "th": "ได้รับของขวัญ - 2",
+      "vi": "Nhận Được Quà II"
+    },
+    "line": {
+      "zhs": "真不用我来帮忙吗？做一道送一道哦！",
+      "zht": "真不用我來幫忙嗎？做一道送一道喔！",
+      "jp": "手伝わなくていいの？一皿作ったら、私がもう一皿おまけで作ってあげるよ！",
+      "ko": "정말 내가 안 도와줘도 돼? 하나 만들면 하나를 더 준다고~",
+      "en": "Sure you don't want my help? C'mon, it's a great deal: cook twice the amount in the same time!",
+      "de": "Bist du sicher, dass ich dir nicht helfen soll? Mache eins und erhalte eins gratis!",
+      "es": "¿Seguro que no quieres mi ayuda? ¡Con lo bien que te vendría! Podríamos cocinar el doble de cantidad en el mismo tiempo.",
+      "fr": "Vous n'avez vraiment pas besoin de mon aide ? Un plat offert pour un plat cuisiné !",
+      "pt": "Você tem certeza que não quer minha ajuda? Você poderia cozinhar o dobro ao mesmo tempo!",
+      "ru": "Тебе точно не нужна моя помощь? Отличная ведь сделка! В два раза больше еды за то же время!",
+      "id": "Yakin tidak mau bantuanku? Ayolah, kesempatan bagus loh. Bisa masak dua kali lipat di waktu yang sama!",
+      "th": "เธอไม่ต้องการให้ฉันช่วยจริง ๆ เหรอ? เหมือนกับทำหนึ่งจานได้อีกหนึ่งจานเลยนะ",
+      "vi": "Thực sự không cần tôi giúp đỡ sao? Làm một món tặng một món nhé!"
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其三",
+      "zht": "收到贈禮·其三",
+      "jp": "贈り物を受け取る·3",
+      "ko": "선물 획득·세 번째",
+      "en": "Receiving a Gift: III",
+      "de": "Geschenk erhalten III",
+      "es": "Al recibir un regalo (II)",
+      "fr": "Cadeau reçu (3)",
+      "pt": "Recebendo Presentes — III",
+      "ru": "Подарок III",
+      "id": "Menerima Hadiah: III",
+      "th": "ได้รับของขวัญ - 3",
+      "vi": "Nhận Được Quà III"
+    },
+    "line": {
+      "zhs": "噫…这是什么东西呀？",
+      "zht": "噫…這是什麼東西呀？",
+      "jp": "うぇ…これ何？",
+      "ko": "으익… 이게 뭐야?",
+      "en": "Ugh, I declare this dish dead, rest in peace.",
+      "de": "Tja ... Was ist das?",
+      "es": "Ehmm... Declaro muerto a este plato. Descanse en paz.",
+      "fr": "Hé... C'est quoi ce truc ?",
+      "pt": "Argh, o que é isso?",
+      "ru": "Фу... Объявляю это блюдо мёртвым. Да покоится оно с миром.",
+      "id": "Uhhh, dengan ini kunyatakan bahwa makanan ini sudah meninggal. RIP.",
+      "th": "อึ๋ย... นี่มันอะไรเนี่ย?",
+      "vi": "Úi... đây là thứ gì vậy?"
     }
   },
   {

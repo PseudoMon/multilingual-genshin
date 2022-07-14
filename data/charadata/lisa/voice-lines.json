@@ -1044,12 +1044,12 @@
       "zht": "#什麼？想學習須彌教令院的魔法？可對現在的{F#妳}{M#你}來說，負擔會有些重…啊？至少想學會入門的知識？那先看完這本《緒論》吧，也就800多頁而已。",
       "jp": "ん？スメール教令院の魔法を勉強したいの？でも今のあなたでは少し荷が重いわ…えっ？入門知識だけでも？じゃあ、この『序論』を読んでみましょう。大丈夫よ、800ページくらいしかないから。",
       "ko": "뭐라고? 수메르 마법을 배우고 싶다고? 지금 너한텐 좀 무리일 텐데…. 음, 최소한 입문 지식은 익히고 싶다고? 그럼 먼저 이 《서론》을 봐, 800페이지밖에 안 돼",
-      "en": "What's that? You want to learn some Sumeru Academia magic? I'm afraid it might be a bit too much for you to handle right now... Hmm, though I suppose it can't hurt to teach you some of the basics. Here, start by reading the beginner's guide, it's only 800 pages or so.",
+      "en": "What's that? You want to learn some Sumeru Akademiya magic? I'm afraid it might be a bit too much for you to handle right now... Hmm, though I suppose it can't hurt to teach you some of the basics. Here, start by reading the beginner's guide, it's only 800 pages or so.",
       "de": "Was möchtest du? Die Magie der Sumeru-Akademie lernen? Das ist für den Anfang vielleicht ein bisschen zu schwere Kost. Obwohl so ein wenig Basiswissen ja nicht schaden kann. Hier bitte, lies erstmal die Einführung, es sind nur so um die achthundert Seiten.",
       "es": "¿Qué? ¿Quieres aprender algo de magia de la Academia de Sumeru? Me temo que ahora mismo sería demasiado complicado para ti... Aunque supongo que podría enseñarte lo más básico. Toma, comienza por leer la «Guía para principiantes». Es muy corta, solo unas 800 páginas.",
       "fr": "Pardon ? Tu voudrais apprendre la magie enseignée à l'Académie de Sumeru ? Ce serait un peu difficile pour toi... Si tu insistes, commence par cette introduction de 800 pages seulement.",
       "pt": "O quê? Você quer aprender magia de Academia de Sumeru? Talvez seja um pouco difícil para você agora. Você quer aprender pelo menos conhecimento básico? Ok, bom! Então leia primeiro esta \"Guia\", que contém apenas 800 páginas.",
-      "ru": "Что? Ты хочешь обучиться магии академии Сумеру? Боюсь, пока что она тебе не по силам... Хотя, я думаю, знать некоторые основы тебе не повредит. Вот, начни с этой книжки для начинающих, тут всего восемьсот страниц.",
+      "ru": "Что? Ты хочешь обучиться магии Академии Сумеру? Боюсь, пока что она тебе не по силам... Хотя, я думаю, знать некоторые основы тебе не повредит. Вот, начни с этой книжки для начинающих, тут всего восемьсот страниц.",
       "id": "Apa? Ingin belajar ilmu sihir Sumeru Academia? Tapi mungkin kamu akan menanggung beban yang lebih berat karenanya, bagaimana? Atau kamu cukup tahu sedikit dulu saja tentang dasar-dasarnya? Kalau mau, silakan kamu baca dulu buku \"Magic Guide\" ini, hanya terdapat sekitar 800 halaman saja.",
       "th": "ว่าไงนะ? อยากเรียนรู้เวทมนตร์ของสถาบัน Sumeru? ฉันเกรงว่าตอนนี้มันน่าจะหนักไป สำหรับเธอนะ... หา? อยากเรียนรู้วิชาพื้นฐานก็ได้ งั้นเหรอ? งั้นอ่าน \"บทนำ\" เล่มนี้ให้จบก่อนสิ มีแค่ 800 หน้าเอง",
       "vi": "Gì cơ? Muốn học ma thuật của Giáo Viện Sumeru? Nhưng đối với cưng bây giờ có chút nặng nề... Hả? Muốn học những kiến thức sơ đẳng? Vậy trước tiên hãy đọc hết cuốn \"Tóm Tắt\" này đi, chỉ có hơn 800 trang thôi."
@@ -1213,6 +1213,102 @@
       "id": "Aku punya fobia terhadap labu , dan festival panen musim gugur tahunan terlalu menyiksaku. Ah, apakah bisa labu dimushnahkan dari dunia ini?",
       "th": "ฉันกลัวฟักทอง และเทศกาลเก็บเกี่ยวฤดูใบไม้ร่วง ก็เป็นสิ่งที่ทรมานเกินไปสำหรับฉัน อ๊า ถ้าจะกำจัดฟักทองให้หมดไป จากโลกจะเวอร์เกินไปไหม?",
       "vi": "Chị có nỗi ám ảnh với bí ngô, ngày hội thu hoạch hàng năm đều là sự giày vò đối với chị. Ôi, có nên dứt khoát loại bỏ loài bí ngô này không nhỉ?"
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其一",
+      "zht": "收到贈禮·其一",
+      "jp": "贈り物を受け取る·1",
+      "ko": "선물 획득·첫 번째",
+      "en": "Receiving a Gift: I",
+      "de": "Geschenk erhalten I",
+      "es": "Al recibir un regalo (I)",
+      "fr": "Cadeau reçu (1)",
+      "pt": "Recebendo Presentes — I",
+      "ru": "Подарок I",
+      "id": "Menerima Hadiah: I",
+      "th": "ได้รับของขวัญ - 1",
+      "vi": "Nhận Được Quà I"
+    },
+    "line": {
+      "zhs": "真贴心呢，小可爱。姐姐我很满意哦。",
+      "zht": "真貼心呢，小可愛。姐姐我很滿意喔。",
+      "jp": "可愛い子ちゃんって本当に優しいのね。お姉さん、大満足よ。",
+      "ko": "신경 많이 썼구나, 귀염둥이. 아주 만족해",
+      "en": "Oh aren't you just the sweetest? Thanks, cutie, you just made my day.",
+      "de": "#Das ist süß, {F#meine Süße}{M#mein Süßer}. Ich bin sehr zufrieden damit.",
+      "es": "¡Qué dulce eres! Gracias, cariño, me acabas de alegrar el día.",
+      "fr": "Que c'est attentionné de ta part, mon petit chou. Je suis très satisfaite.",
+      "pt": "#Que atencioso da sua parte, querid{F#a}{M#o}. Estou muito contente.",
+      "ru": "О, это так мило с твоей стороны. Спасибо, милашка, я очень довольна.",
+      "id": "Perhatian sekali kamu, manisku. Kak Lisa jadi senang.",
+      "th": "ช่างเอาใจใส่จริง ๆ เลยนะ เจ้าตัวน้อย พี่สาวพอใจมากเลยล่ะจ้ะ",
+      "vi": "Bé cưng chu đáo quá. Chị rất hài lòng."
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其二",
+      "zht": "收到贈禮·其二",
+      "jp": "贈り物を受け取る·2",
+      "ko": "선물 획득·두 번째",
+      "en": "Receiving a Gift: II",
+      "de": "Geschenk erhalten II",
+      "es": "Al recibir un regalo (II)",
+      "fr": "Cadeau reçu (2)",
+      "pt": "Recebendo Presentes — II",
+      "ru": "Подарок II",
+      "id": "Menerima Hadiah: II",
+      "th": "ได้รับของขวัญ - 2",
+      "vi": "Nhận Được Quà II"
+    },
+    "line": {
+      "zhs": "呵呵，你很擅长做这些呢。",
+      "zht": "#呵呵，{F#妳}{M#你}很擅長做這些呢。",
+      "jp": "うふふっ、こういうの得意みたいね。",
+      "ko": "후후, 이런 거에 완전 소질 있구나",
+      "en": "Hehe, you've really got a knack for this, haven't you?",
+      "de": "Hehe, das kannst du also gut.",
+      "es": "Jeje, se te da muy bien cocinar, ¿eh?",
+      "fr": "Héhé, tu t'en sors très bien.",
+      "pt": "Hehe, você realmente tem jeito para isso, não é?",
+      "ru": "Хе-хе, а ты умеешь готовить.",
+      "id": "Hehe, kamu pandai sekali soal beginian yah.",
+      "th": "ฮ่าฮ่า เธอเก่งเรื่องพวกนี้มากเลยนะ",
+      "vi": "Haha, cưng rất giỏi làm những việc này nhỉ."
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其三",
+      "zht": "收到贈禮·其三",
+      "jp": "贈り物を受け取る·3",
+      "ko": "선물 획득·세 번째",
+      "en": "Receiving a Gift: III",
+      "de": "Geschenk erhalten III",
+      "es": "Al recibir un regalo (II)",
+      "fr": "Cadeau reçu (3)",
+      "pt": "Recebendo Presentes — III",
+      "ru": "Подарок III",
+      "id": "Menerima Hadiah: III",
+      "th": "ได้รับของขวัญ - 3",
+      "vi": "Nhận Được Quà III"
+    },
+    "line": {
+      "zhs": "哎呀…这可真是…",
+      "zht": "哎呀…這可真是…",
+      "jp": "あらあら…これって…",
+      "ko": "이야… 이건 정말…",
+      "en": "Oh my... This is really... hmm...",
+      "de": "Oh ... Das ist wirklich ...",
+      "es": "Oh, vaya... Esto es verdaderamente... Humm...",
+      "fr": "Hum... C'est...",
+      "pt": "Oh... Isso é...",
+      "ru": "Ой... Это действительно... хм...",
+      "id": "Wah, aduh ... kalau yang ini sih benar-benar ....",
+      "th": "โอ้คุณพระ... นี่มัน...",
+      "vi": "Ấy.. thật là..."
     }
   },
   {

@@ -857,7 +857,7 @@
       "es": "Como su asistente, aprendo mucho todos los días. Lo importante no es su conocimiento, sino su forma de pensar única. No importa cuán compleja sea la tarea en cuestión, su forma de pensar garantiza que llegue al fondo de las cosas y que pueda explicarlo con lujo de detalle. Sus metodologías son impresionantes... Para mí, es ahí donde la alquimia se encuentra con el arte.",
       "fr": "J'en apprends tous les jours en étant son assistante. Sa façon de penser est ce qui le démarque des autres plutôt que ses connaissances. Peu importe la difficulté de ce qu'on lui demande, Albedo fait toujours en sorte de fournir un travail impeccable grâce à une méthodologie efficace. C'est du grand art pour moi...",
       "pt": "Posso aprender muita coisa com ele como uma auxiliar. O mais importante não é o conhecimento, mas a maneira de pensar. Não importa o quão complicado seja a questão, ele consegue resolvê-la, passo a passo, um por um. Isso para mim é incrível, é arte, na verdade...",
-      "ru": "Как его ассистент я каждый день многому учусь. Главное даже не знания, а гениальный образ мышления. Любую сложнейшую задачу он кропотливо раскладывает по полочкам, а потом раз - и решил. Именно здесь алхимия встречается и искусством.",
+      "ru": "Как его ассистент, я каждый день многому учусь. Главное даже не знания, а гениальный образ мышления. Любую сложнейшую задачу он кропотливо раскладывает по полочкам, а потом раз - и решил. Именно здесь алхимия встречается и искусством.",
       "id": "Aku belajar banyak hal saat menjadi asistennya. Kunci penting dalam penelitian bukanlah pengetahuan, tetapi adalah cara berpikirnya yang \"jenius\". Pertanyaan sesulit apa pun bisa dia jelaskan dengan terperinci, dan diselesaikannya secara bertahap. Mungkin inilah seni di dunia alkimia.",
       "th": "ในฐานะผู้ช่วยของเขา ฉันสามารถเรียนรู้สิ่งใหม่ ๆ ได้มากขึ้นทุกวัน สิ่งสำคัญไม่ได้อยู่ที่ความรู้ แต่เป็นวิธีการคิดแบบ \"อัจฉริยะ\" ไม่ว่าปัญหาจะซับซ้อนเพียงใดเขา สามารถหยุดพัก และแก้ปัญหาได้ทีละข้อ ในความคิดของฉัน นั่นคือศิลปะ แขนงหนึ่ง...",
       "vi": "Là trợ lý của anh ấy, mỗi ngày đều học được rất nhiều điều. Trọng tâm không phải là kiến thức, mà là phương pháp tư duy \"thiên tài\", bất kể vấn đề có phức tạp đến đâu, anh ấy luôn có thể giải quyết từng chút một. Theo tôi, đo chính là nghệ thuật..."
@@ -1277,6 +1277,102 @@
       "id": "Sejak mengerti banyak hal dalam \"bio-alkimia\", aku tidak berani makan jamur lagi. Kamu tahu, tidak? Jamur tumbuh pada apa pun yang sudah mati. Dan sifat jamur ini membuat aku kepikiran hal lain yang mirip. Lalu seleraku pun hilang... Ugh...",
       "th": "หลังจากรู้เรื่อง \"การแปรธาตุชีวภาพ\" ต่าง ๆ แล้ว ฉันก็ไม่ค่อยจะกินเห็ด...เธอเองก็น่าจะรู้ใช่มั้ย? ว่าเห็ดเติบโตบนสิ่งมีชีวิตที่ตายไป แล้ว พอคิดถึงสิ่งอื่น ๆ ที่มีชนิดเดียวกัน ฉัน ฉันก็ไม่อยากจะกินแล้ว...แหวะ...",
       "vi": "Sau khi biết những kiến thức về \"Giả Kim Sinh Vật\", tôi đã không ăn nấm nữa... Chắc bạn cũng biết chứ? Nấm mọc trên những sinh vật đã chết. Liên tưởng đến những thứ cùng loại khác, tôi, khẩu vị của tôi lại... oẹ..."
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其一",
+      "zht": "收到贈禮·其一",
+      "jp": "贈り物を受け取る·1",
+      "ko": "선물 획득·첫 번째",
+      "en": "Receiving a Gift: I",
+      "de": "Geschenk erhalten I",
+      "es": "Al recibir un regalo (I)",
+      "fr": "Cadeau reçu (1)",
+      "pt": "Recebendo Presentes — I",
+      "ru": "Подарок I",
+      "id": "Menerima Hadiah: I",
+      "th": "ได้รับของขวัญ - 1",
+      "vi": "Nhận Được Quà I"
+    },
+    "line": {
+      "zhs": "好吃！啊…趁着现在状态最好，赶紧把研究做完…",
+      "zht": "好吃！啊…趁著現在狀態最好，趕緊把研究做完…",
+      "jp": "美味しい！あっ…調子がいいうちに、早く研究を終わらせないと…",
+      "ko": "맛있어요! 아… 지금처럼 컨디션이 좋을 때 빨리 연구를 끝내야겠어요…",
+      "en": "So delectable! Time to finish my research now that I feel at my best!",
+      "de": "Lecker! Aah ... Ich sollte die Forschung erledigen, während ich in bester Form bin ...",
+      "es": "¡Está delicioso! Debería aprovechar este momento para terminar la investigación...",
+      "fr": "C'est bon ! Ah... Je devrais en profiter pour terminer mes recherches...",
+      "pt": "Que delícia! Vou aproveitar que estou de bom humor para terminar minha pesquisa...",
+      "ru": "Восхитительно! Чувствую себя как никогда лучше. Пора закончить мои исследования!",
+      "id": "Enak! Aku harus cepat-cepat selesaikan penelitianku, mumpung lagi semangat!",
+      "th": "อร่อย! อ๊ะ... ต้องรีบใช้โอกาสที่กำลังรู้สึกดีทำวิจัยให้เสร็จ...",
+      "vi": "Rất ngon! Ah... phải nhân lúc đang ở trạng thái tốt nhất để hoàn thành việc nghiên cứu mới được..."
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其二",
+      "zht": "收到贈禮·其二",
+      "jp": "贈り物を受け取る·2",
+      "ko": "선물 획득·두 번째",
+      "en": "Receiving a Gift: II",
+      "de": "Geschenk erhalten II",
+      "es": "Al recibir un regalo (II)",
+      "fr": "Cadeau reçu (2)",
+      "pt": "Recebendo Presentes — II",
+      "ru": "Подарок II",
+      "id": "Menerima Hadiah: II",
+      "th": "ได้รับของขวัญ - 2",
+      "vi": "Nhận Được Quà II"
+    },
+    "line": {
+      "zhs": "比我做的营养餐好吃了不少。嗯，我也算改善伙食了。",
+      "zht": "比我做的營養餐好吃了不少。嗯，我也算改善伙食了。",
+      "jp": "私が栄養価を考えて作った食事よりずっと美味しい。うん、これなら私も食生活を改善できるかも。",
+      "ko": "제가 만든 건강식보다 훨씬 낫네요. 음, 덕분에 잘 먹었어요",
+      "en": "I must admit, this tastes a lot better than my healthy meals. Time for me to make some modifications to my diet.",
+      "de": "Das ist viel besser als die nahrhaften Mahlzeiten, die ich zubereite. Nun, ich habe auch eine bessere Ernährung jetzt.",
+      "es": "Mucho mejor que mis comidas saludables. Hora de hacer algunas modificaciones a mi dieta.",
+      "fr": "Je dois admettre que ça a bien meilleur goût que mes repas habituels. Il est temps pour moi de faire quelques modifications à mon régime alimentaire.",
+      "pt": "Devo admitir que isso tem um gosto melhor que minhas refeições saudáveis. Acho que é hora de fazer algumas modificações em minha dieta.",
+      "ru": "Должна признать, это гораздо вкуснее моих сбалансированных блюд. Пора пересмотреть питание.",
+      "id": "Wah, jauh lebih enak dari makanan sehat buatanku. Saatnya aku mengubah menu makananku.",
+      "th": "อร่อยกว่าอาหารเพื่อสุขภาพที่ฉันทำเยอะเลย อืม ถึงเวลาที่ฉันจะต้องปรับเปลี่ยนอาหารของฉันบ้างแล้วล่ะ",
+      "vi": "Ngon hơn nhiều so với bữa ăn dinh dưỡng mà tôi tự làm. Ừm, cũng coi như là bữa ăn phụ."
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其三",
+      "zht": "收到贈禮·其三",
+      "jp": "贈り物を受け取る·3",
+      "ko": "선물 획득·세 번째",
+      "en": "Receiving a Gift: III",
+      "de": "Geschenk erhalten III",
+      "es": "Al recibir un regalo (II)",
+      "fr": "Cadeau reçu (3)",
+      "pt": "Recebendo Presentes — III",
+      "ru": "Подарок III",
+      "id": "Menerima Hadiah: III",
+      "th": "ได้รับของขวัญ - 3",
+      "vi": "Nhận Được Quà III"
+    },
+    "line": {
+      "zhs": "对不起。我对这道菜，还是有点…",
+      "zht": "對不起。我對這道菜，還是有點…",
+      "jp": "ごめんなさい。やっぱりこの料理は、ちょっと…",
+      "ko": "죄송하지만, 저한테 이 요리는 조금…",
+      "en": "Sorry, I have some... reservations about this dish.",
+      "de": "Entschuldigung. Ich bin immer noch ein wenig ...",
+      "es": "Lo siento, es que este sabor...",
+      "fr": "Désolée, mais ce plat...",
+      "pt": "Me desculpe. Mas, esse prato...",
+      "ru": "Прости, но вкус у этого блюда...",
+      "id": "Maaf ya. Aku ... kurang cocok dengan makanan ini .",
+      "th": "ขอโทษนะ อาหารจานนี้มันค่อนข้าง...",
+      "vi": "Xin lỗi, với món ăn này, tôi vẫn có chút..."
     }
   },
   {

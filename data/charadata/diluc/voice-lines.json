@@ -28,7 +28,7 @@
       "ru": "Дилюк, из Мондштадта. Я не люблю пустые разговоры. Дай знать, если понадобится помощь.",
       "id": "Diluc dari kota Mondstadt, datang sesuai perjanjian. Beri tahu aku kalau kamu ingin melakukan sesuatu yang besar. Jujur, aku merasa sedikit tertarik.",
       "th": "Diluc แห่ง Mondstadt ไม่สนใจในการพูดคุยไร้สาระ แต่ถ้าอยากจะทำเรื่องที่ยิ่งใหญ่ ฉันก็พอจะสนใจอยู่บ้าง",
-      "vi": "Diluc của thành Mondstadt, đến đây theo lời mời. Nói chuyện phiếm thì thứ lỗi tôi không tiếp, nhưng nếu bạn muốn làm chuyện lớn, thì tôi rất có hứng thú."
+      "vi": "#Diluc của thành Mondstadt, đến đây theo lời mời. Nói chuyện phiếm thì thứ lỗi tôi không tiếp, nhưng nếu {F#cô}{M#cậu} muốn làm chuyện lớn, thì tôi rất có hứng thú."
     }
   },
   {
@@ -44,7 +44,7 @@
       "pt": "Bate-papo - Relaxamento",
       "ru": "Поболтаем: Отдых",
       "id": "Berbincang: Santai",
-      "th": "แชท-ผ่อนคลาย",
+      "th": "แชท - ผ่อนคลาย",
       "vi": "Nói chuyện phiếm - Thảnh thơi"
     },
     "line": {
@@ -76,7 +76,7 @@
       "pt": "Conversa - Cavaleiros de Favonius",
       "ru": "Поболтаем: Ордо Фавониус",
       "id": "Berbincang: Knights of Favonius",
-      "th": "แชท-กองอัศวิน",
+      "th": "แชท - กองอัศวิน",
       "vi": "Nói chuyện phiếm - Đội Kỵ Sĩ"
     },
     "line": {
@@ -92,7 +92,7 @@
       "ru": "В следующий раз тебе бы следовало взять с собой рыцарей Ордо Фавониус.",
       "id": "Seharusnya para Knight itu yang menemanimu.",
       "th": "ครั้งหน้าน่าจะให้พวกอัศวินแห่ง Favonius มากับเธอแทนนะ",
-      "vi": "Nên để người của Đội Kỵ Sĩ đi cùng bạn."
+      "vi": "#Nên để người của Đội Kỵ Sĩ đi cùng {F#cô}{M#cậu}."
     }
   },
   {
@@ -108,7 +108,7 @@
       "pt": "Bate-papo - Guilda",
       "ru": "Поболтаем: Гильдия",
       "id": "Berbincang: Karavan",
-      "th": "แชท-กิลด์",
+      "th": "แชท - กิลด์",
       "vi": "Nói chuyện phiếm - Hiệp hội"
     },
     "line": {
@@ -124,7 +124,103 @@
       "ru": "У меня ещё много дел в гильдии. Отдохни, пока я буду с ними разбираться.",
       "id": "Masih ada banyak urusan di guild, kamu istirahat dulu saja di sini, biar aku pergi dulu.",
       "th": "ในกิลด์ยังมีเรื่องที่ต้องทำ อีกเยอะเลย เธอพักอยู่ที่นี่ก่อนแล้วกัน ฉันจะกลับไปดูสักหน่อย",
-      "vi": "Trong hiệp hội vẫn còn rất nhiều việc, hay là bạn ở đây nghỉ ngơi, tôi quay về xem sao."
+      "vi": "#Trong hiệp hội vẫn còn rất nhiều việc, hay là {F#cô}{M#cậu} ở đây nghỉ ngơi, tôi quay về xem sao."
+    }
+  },
+  {
+    "title": {
+      "zhs": "闲聊·准备",
+      "zht": "閒聊·準備",
+      "jp": "世間話·準備",
+      "ko": "잡담·준비",
+      "en": "Chat: Preparation",
+      "de": "Gespräch – Vorbereitung",
+      "es": "Charla - Preparación",
+      "fr": "Bavardage - Préparation",
+      "pt": "Conversa: Preparação",
+      "ru": "Поболтаем: Подготовка",
+      "id": "Berbincang: Persiapan",
+      "th": "แชท - เตรียมพร้อม",
+      "vi": "Nói chuyện phiếm - Chuẩn Bị"
+    },
+    "line": {
+      "zhs": "提前做好准备，先于对方进攻吧。",
+      "zht": "提前做好準備，先於對方進攻吧。",
+      "jp": "事前に準備をし、先んじて攻撃をしかけるべきだ。",
+      "ko": "미리 준비해서 상대보다 먼저 공격하자고",
+      "en": "We should prepare while we can, then make a preemptive strike against the enemy.",
+      "de": "Bereite dich gut vor und greife an, bevor dein Gegner es tut.",
+      "es": "Preparémonos mientras podamos y lancemos una ofensiva anticipada contra el enemigo.",
+      "fr": "On devrait commencer par se préparer, puis attaquer contre l'ennemi en premier.",
+      "pt": "Devemos nos preparar enquanto podemos, e então fazermos um ataque preventivo contra nosso inimigo.",
+      "ru": "Подготовься заранее и нанеси упреждающий удар по врагу.",
+      "id": "Kita harus bersiap dahulu selama kita bisa, lalu menyerang musuh duluan.",
+      "th": "เตรียมตัวล่วงหน้า และชิงลงมือก่อนอีกฝ่าย",
+      "vi": "Chuẩn bị đầy đủ rồi đánh phủ đầu kẻ địch nào."
+    }
+  },
+  {
+    "title": {
+      "zhs": "闲聊·计划",
+      "zht": "閒聊·計畫",
+      "jp": "世間話·計画",
+      "ko": "잡담·계획",
+      "en": "Chat: Planning",
+      "de": "Gespräch – Pläne",
+      "es": "Charla - Planificación",
+      "fr": "Bavardage - Planification",
+      "pt": "Bate-papo — Plano",
+      "ru": "Поболтаем: Планирование",
+      "id": "Berbincang: Rencana",
+      "th": "แชท - แผนการ",
+      "vi": "Nói chuyện phiếm - Kế Hoạch"
+    },
+    "line": {
+      "zhs": "休息时，也可以思考接下来的计划。",
+      "zht": "休息時，也可以思考接下來的計畫。",
+      "jp": "休息時に、次の計画を練ろう。",
+      "ko": "휴식을 취할 때 앞으로의 계획을 고민해 볼 수 있어",
+      "en": "Let's take a moment to rest and plan our next move.",
+      "de": "In der Pause kann man auch über seine nächsten Pläne nachdenken.",
+      "es": "Tomémonos un momento para descansar y planear nuestro próximo movimiento.",
+      "fr": "Prenons un moment pour nous reposer et planifier notre prochain mouvement.",
+      "pt": "Vamos descansar e planejar nosso próximo movimento.",
+      "ru": "Давай передохнём и спланируем наш следующий шаг.",
+      "id": "Ayo kita istirahat dulu sambil merencanakan langkah kita berikutnya.",
+      "th": "เวลาพัก ก็เอาเวลามาวางแผนในขั้นต่อไปได้นะ",
+      "vi": "Khi nghỉ ngơi cũng có thể suy nghĩ về kế hoạch tiếp theo."
+    }
+  },
+  {
+    "title": {
+      "zhs": "闲聊·提醒",
+      "zht": "閒聊·提醒",
+      "jp": "世間話·注意",
+      "ko": "잡담·당부",
+      "en": "Chat: Warning",
+      "de": "Gespräch – Hinweis",
+      "es": "Charla - Aviso",
+      "fr": "Bavardage - Rappel",
+      "pt": "Bate-papo — Atenção",
+      "ru": "Поболтаем: Предупреждение",
+      "id": "Berbincang: Peringatan",
+      "th": "แชท - เตือน",
+      "vi": "Nói chuyện phiếm - Nhắc Nhở"
+    },
+    "line": {
+      "zhs": "任何行动难免都有风险，你要多加小心。",
+      "zht": "#任何行動難免都有風險，{F#妳}{M#你}要多加小心。",
+      "jp": "如何なる行動にもリスクはつきものだ。君も気を付けたほうがいい。",
+      "ko": "모든 행동에는 위험이 뒤따르는 법. 반드시 조심해야 해",
+      "en": "Every course of action has its risks. Be careful.",
+      "de": "Jede Aktion ist zwangsläufig mit Risiken verbunden. Daher musst du besonders vorsichtig sein.",
+      "es": "Toda acción conlleva un riesgo. Ten cuidado.",
+      "fr": "Chaque opération comporte sa part de risque. Tu dois redoubler de prudence.",
+      "pt": "Toda operação possui seus riscos. Tenha cuidado.",
+      "ru": "У каждого действия есть свои риски. Нельзя забывать об осторожности.",
+      "id": "Walaupun memang setiap perbuatan ada risikonya, kita harus tetap berhati=hati.",
+      "th": "ทุกย่างก้าวล้วนมีความเสี่ยงเสมอ เธอต้องระวังตัวให้ดีนะ",
+      "vi": "Bất kỳ hành động nào cũng đều có rủi ro, cho nên phải cẩn thận hơn."
     }
   },
   {
@@ -140,7 +236,7 @@
       "pt": "Quando chove - Guarda-chuva",
       "ru": "Когда идёт дождь: Зонт",
       "id": "Saat Hujan: Payung",
-      "th": "ในเวลาที่ฝนตก-ร่ม",
+      "th": "ในเวลาที่ฝนตก - ร่ม",
       "vi": "Khi trời mưa - Ô"
     },
     "line": {
@@ -156,7 +252,7 @@
       "ru": "Мне не нужен зонт. Если нужен тебе - не стесняйся.",
       "id": "Aku tidak perlu payung, kamu pakai saja kalau kamu butuh.",
       "th": "ฉันไม่เอาร่ม เธอจะใช้ก็ใช้เถอะ",
-      "vi": "Tôi không dùng ô, bạn cứ tự nhiên."
+      "vi": "#Tôi không dùng ô, {F#cô}{M#cậu} cứ tự nhiên."
     }
   },
   {
@@ -172,7 +268,7 @@
       "pt": "Quando está chovendo - Limpeza",
       "ru": "Когда идёт дождь: Очищение",
       "id": "Saat Hujan: Bersih-bersih",
-      "th": "ในเวลาที่ฝนตก-ชะล้าง",
+      "th": "ในเวลาที่ฝนตก - ชะล้าง",
       "vi": "Khi trời mưa - Gội sạch"
     },
     "line": {
@@ -220,7 +316,7 @@
       "ru": "Неважно, какова погода. Главное - придерживаться своей дороги.",
       "id": "Selama kamu benar-benar yakin dengan jalanmu sendiri, kamu tidak perlu khawatir dengan rintangan apa pun.",
       "th": "ขอเพียงแค่ยึดมั่นในแนวทางของ ตัวเอง อากาศจะเป็นยังไงก็ช่างมัน",
-      "vi": "Miễn là bạn vững tin vào con đường của bản thân, thì trời mưa hay nắng cũng không thành vấn đề."
+      "vi": "#Miễn là {F#cô}{M#cậu} vững tin vào con đường của bản thân, thì trời mưa hay nắng cũng không thành vấn đề."
     }
   },
   {
@@ -380,7 +476,7 @@
       "ru": "До встречи. Я прослежу, чтобы по дороге домой с тобой ничего не случилось.",
       "id": "Ya, sampai jumpa. Biar kuantarkan ke depan.",
       "th": "อืม ไว้เจอกัน ฉันจะยืนส่งจากตรงนี้แล้วกัน เดินทางปลอดภัยนะ",
-      "vi": "Ừm, hẹn gặp lại. Tôi sẽ dõi theo bạn từ phía sau."
+      "vi": "#Ừm, hẹn gặp lại. Tôi sẽ dõi theo {F#cô}{M#cậu} từ phía sau."
     }
   },
   {
@@ -428,7 +524,7 @@
       "pt": "Sobre Nós - Necessidades",
       "ru": "О нас: Потребности",
       "id": "Tentang Kita: Keperluan",
-      "th": "เกี่ยวกับเรา-ความต้องการ",
+      "th": "เกี่ยวกับเรา - ความต้องการ",
       "vi": "Về chúng tôi - Nhu cầu"
     },
     "line": {
@@ -460,7 +556,7 @@
       "pt": "Sobre Nós - Prova",
       "ru": "О нас: Доказательства",
       "id": "Tentang kami: Bukti",
-      "th": "เกี่ยวกับเรา-การรับรอง",
+      "th": "เกี่ยวกับเรา - การรับรอง",
       "vi": "Về chúng tôi - Chứng minh"
     },
     "line": {
@@ -476,7 +572,7 @@
       "ru": "#Ты доказал{F#а} свою решимость. Теперь настала моя очередь.",
       "id": "Kamu sudah menyampaikan apa yang menjadi tekadmu. Sekarang, giliran kamu yang menyaksikan tekad yang akan kuucapkan ini.",
       "th": "เธอได้พิสูจน์ความมุ่งมั่นของตัวเองแล้ว งั้นฉันก็ให้เธอได้เห็นความตั้งใจของฉันบ้าง",
-      "vi": "Bạn đã chứng minh được lòng quyết tâm của mình. Vậy thì hãy để tôi chứng minh ý chí của mình cho bạn thấy."
+      "vi": "#{F#Cô}{M#Cậu} đã chứng minh được lòng quyết tâm của mình. Vậy thì hãy để tôi chứng minh ý chí của mình cho {F#cô}{M#cậu} thấy."
     }
   },
   {
@@ -652,7 +748,7 @@
       "pt": "Sobre Jean - Inimigos",
       "ru": "О Джинн: Враги",
       "id": "Tentang Jean: Musuh",
-      "th": "เกี่ยวกับ Jean-ศัตรู",
+      "th": "เกี่ยวกับ Jean - ศัตรู",
       "vi": "Về Jean - Kẻ địch"
     },
     "line": {
@@ -684,7 +780,7 @@
       "pt": "Sobre Jean - Responsabilidades",
       "ru": "О Джинн: Обязанности",
       "id": "Tentang Jean: Tanggung Jawab",
-      "th": "เกี่ยวกับ Jean-หน้าที่",
+      "th": "เกี่ยวกับ Jean - หน้าที่",
       "vi": "Về Jean - Chức trách"
     },
     "line": {
@@ -892,7 +988,7 @@
       "ru": "Что? Ордо Фавониус? Хм... Мне нечего сказать. У нас с ними просто разные взгляды и всё.",
       "id": "Hmm, kamu bertanya tentang Knights of Favonius? Umm... tidak ada yang perlu dibicarakan, panggilan hidup mereka berbeda.",
       "th": "อืม กองอัศวินงั้นเหรอ? เชอะ... ไม่มีอะไรให้พูดถึงนักหรอก ก็แค่เลือกเดินคนละเส้นทางแค่นั้น",
-      "vi": "Ừm, bạn hỏi Đội Kỵ Sĩ? Hừm... không có gì để nói, chỉ là không cùng định hướng mà thôi."
+      "vi": "#Ừm, {F#cô}{M#cậu} hỏi Đội Kỵ Sĩ? Hừm... không có gì để nói, chỉ là không cùng định hướng mà thôi."
     }
   },
   {
@@ -988,7 +1084,7 @@
       "ru": "Неплохо. Ты постоянно удивляешь меня, будь то битва или шахматы. Хм... Работа с тобой пробуждает во мне чувство новизны, поэтому... Я бы хотел и дальше сопровождать тебя, партнёр.",
       "id": "Kamu boleh juga. Baik bermain catur maupun bertempur, kemampuanmu sangat mengesankan. Hmm, kerja sama semacam ini juga merupakan hal baru bagiku... Kalau begitu, mulai dari sekarang, ayo pergi bersama-sama, partner.",
       "th": "เธอนี่ไม่เลวเลยนะ ไม่ว่าจะเป็นการเล่นหมากรุกหรือ การต่อสู้ ก็น่าดึงดูดทั้งนั้นเลย อืม... การร่วมมืออย่างนี้สำหรับฉันแล้วก็ถือว่าแปลกใหม่เหมือนกัน... งั้นวันหลังก็มาร่วมทางกันอีกนะ \"เพื่อน\"",
-      "vi": "Bạn rất khá. Bất kể là chơi cờ hay chiến đấu, đều thể hiện một cách rất ấn tượng. Không... kiểu hợp tác này thực sự rất mới lạ... vậy thì, sau này cùng đống hành nhé, \"đồng đội\"."
+      "vi": "#{F#Cô}{M#Cậu} rất khá. Bất kể là chơi cờ hay chiến đấu, đều thể hiện một cách rất ấn tượng. Không... kiểu hợp tác này thực sự rất mới lạ... vậy thì, sau này cùng đồng hành nhé, \"đồng đội\"."
     }
   },
   {
@@ -1084,7 +1180,7 @@
       "ru": "Хочешь знать, что в моём бокале? Это виноградный сок, мой любимый напиток.",
       "id": "Kamu tanya aku apa anggur yang ada di gelas? Itu hanya jus anggur, aku biasanya minum ini.",
       "th": "ถามถึงเครื่องดื่มในแก้วฉันเหรอ? ก็แค่น้ำองุ่นน่ะ ฉันก็ดื่มอยู่เป็นประจำนั่นแหละ",
-      "vi": "Bạn hỏi tôi trong ly là loại rượu gì? Chỉ là nước nho mà thôi, tôi thường uống thứ này."
+      "vi": "#{F#Cô}{M#Cậu} hỏi tôi trong ly là loại rượu gì? Chỉ là nước nho mà thôi, tôi thường uống thứ này."
     }
   },
   {
@@ -1101,7 +1197,7 @@
       "ru": "Нелюбимая еда...",
       "id": "Makanan yang tidak kamu suka",
       "th": "อาหารที่เกลียด...",
-      "vi": "Món ăn ghét..."
+      "vi": "Món ăn chán ghét..."
     },
     "line": {
       "zhs": "我不喜欢酒。没什么…我不喜欢酒的口感。",
@@ -1117,6 +1213,102 @@
       "id": "Aku tidak suka anggur. Bukan apa-apa... hanya tidak suka aromanya.",
       "th": "ฉันไม่ชอบดื่มเหล้า ไม่มีอะไรหรอก... ไม่ชอบรสชาติของมันน่ะ",
       "vi": "Tôi không thích rượu. Không có gì... tôi chỉ là không thích vị của rượu."
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其一",
+      "zht": "收到贈禮·其一",
+      "jp": "贈り物を受け取る·1",
+      "ko": "선물 획득·첫 번째",
+      "en": "Receiving a Gift: I",
+      "de": "Geschenk erhalten I",
+      "es": "Al recibir un regalo (I)",
+      "fr": "Cadeau reçu (1)",
+      "pt": "Recebendo Presentes — I",
+      "ru": "Подарок I",
+      "id": "Menerima Hadiah: I",
+      "th": "ได้รับของขวัญ - 1",
+      "vi": "Nhận Được Quà I"
+    },
+    "line": {
+      "zhs": "很精致。风味令人难忘。",
+      "zht": "很精緻。風味令人難忘。",
+      "jp": "とてもよくできている。忘れられない味だ。",
+      "ko": "정교한 요리군. 계속 생각날 맛이야",
+      "en": "Exquisite. Unforgettable flavors.",
+      "de": "Es ist exquisit. Der Geschmack ist unvergesslich.",
+      "es": "Excelente. Tiene un sabor inolvidable.",
+      "fr": "C'est excellent. Je n'oublierai pas le goût de ce plat.",
+      "pt": "Requintado. Tem um sabor inesquecível.",
+      "ru": "Изысканно. Незабываемый аромат.",
+      "id": "Ah, enak sekali. Benar-benar rasa yang tak akan terlupakan.",
+      "th": "พิถีพิถันมาก รสชาติยากที่จะลืมเลือน",
+      "vi": "Rất tinh tế. Hương vị đậm đà khó quên."
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其二",
+      "zht": "收到贈禮·其二",
+      "jp": "贈り物を受け取る·2",
+      "ko": "선물 획득·두 번째",
+      "en": "Receiving a Gift: II",
+      "de": "Geschenk erhalten II",
+      "es": "Al recibir un regalo (II)",
+      "fr": "Cadeau reçu (2)",
+      "pt": "Recebendo Presentes — II",
+      "ru": "Подарок II",
+      "id": "Menerima Hadiah: II",
+      "th": "ได้รับของขวัญ - 2",
+      "vi": "Nhận Được Quà II"
+    },
+    "line": {
+      "zhs": "能品尝出厨师的专注。不错的菜肴。",
+      "zht": "能品嚐出廚師的專注。不錯的菜餚。",
+      "jp": "調理した者のこだわりを感じる。悪くない一品だ。",
+      "ko": "요리사의 노력이 느껴져. 나쁘지 않아",
+      "en": "I can see the chef put their heart into this one. A fine dish.",
+      "de": "Man schmeckt, worauf der Chefkoch Wert legt. Schönes Gericht.",
+      "es": "Se nota la dedicación con la que lo preparaste. Un plato muy bueno.",
+      "fr": "Je peux sentir vos efforts. C'est pas mal.",
+      "pt": "#Posso sentir que {M#o}{F#a} chef colocou sua alma no preparo desta comida. É um belo prato.",
+      "ru": "Вижу, что шеф-повар вложил всю душу. Прекрасное блюдо.",
+      "id": "Aku jamin kokinya memasak pakai hati. Makanan yang enak.",
+      "th": "ฉันสัมผัสได้ถึงความใส่ใจของเชฟ เป็นอาหารที่ไม่เลวเลย",
+      "vi": "Có thể cảm nhận được sự chuyên tâm của đầu bếp. Món ăn rất tuyệt."
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其三",
+      "zht": "收到贈禮·其三",
+      "jp": "贈り物を受け取る·3",
+      "ko": "선물 획득·세 번째",
+      "en": "Receiving a Gift: III",
+      "de": "Geschenk erhalten III",
+      "es": "Al recibir un regalo (II)",
+      "fr": "Cadeau reçu (3)",
+      "pt": "Recebendo Presentes — III",
+      "ru": "Подарок III",
+      "id": "Menerima Hadiah: III",
+      "th": "ได้รับของขวัญ - 3",
+      "vi": "Nhận Được Quà III"
+    },
+    "line": {
+      "zhs": "…谢谢。",
+      "zht": "…謝謝。",
+      "jp": "…ありがとう。",
+      "ko": "…고마워",
+      "en": "...Thanks",
+      "de": "... Danke.",
+      "es": "Gracias.",
+      "fr": "... Merci.",
+      "pt": "... Obrigado.",
+      "ru": "...Спасибо.",
+      "id": "Terima kasih.",
+      "th": "...ขอบคุณ",
+      "vi": "Cảm ơn!"
     }
   },
   {
@@ -1148,7 +1340,7 @@
       "ru": "С днём рождения. Это очень важный день для тебя. Расскажи мне, чего ты желаешь? Если в моих силах даровать тебе это, то я обязательно над этим подумаю.",
       "id": "Selamat ulang tahun! Ini adalah hari penting untukmu. Sebutkan saja harapanmu. Kalau sekiranya memungkinkan, aku akan membantumu meraihnya.",
       "th": "สุขสันต์วันเกิด นี่เป็นวันสำคัญของเธอ อยากจะได้อะไรล่ะ? ถ้ามันไม่เกินกำลังของฉันล่ะก็ ฉันอาจจะเก็บไปพิจารณาก็ได้",
-      "vi": "Chúc mừng sinh nhật, đây là ngày quan trọng thuộc về bạn. Hãy nói ra tâm nguyện của bạn. Tôi sẽ xem xét, nếu nó trong phạm vi năng lực của mình."
+      "vi": "#Chúc mừng sinh nhật, đây là ngày quan trọng thuộc về {F#cô}{M#cậu}. Hãy nói ra tâm nguyện của {F#cô}{M#cậu}. Tôi sẽ xem xét, nếu nó trong phạm vi năng lực của mình."
     }
   },
   {
@@ -1276,7 +1468,7 @@
       "ru": "Раньше я был уверен, что для того, чтобы искоренить зло, мне придётся погрузиться во тьму одному. Но путешествуя с тобой, я понимаю, что ошибался. Друг... Прими мою благодарность.",
       "id": "Aku kira-untuk menghapus kejahatan, aku harus berjalan sendirian di malam yang panjang. Tetapi kegigihanmu membuatku sadar kalau aku sudah salah lagi. \"Sahabat\", aku berterima kasih padamu.",
       "th": "ฉันเคยคิดว่า... ถ้าจะกวาดล้างความชั่วร้ายล่ะก็ ฉันจะต้องก้าวเดินไปเพียงลำพัง ท่ามกลางความมืดที่แสนยาวนาน\n\nแต่ความมุ่งมั่นของเธอ ก็ทำให้ฉันได้รู้ว่าฉันผิดอีกแล้ว ฉันต้องขอขอบคุณเธอมากเลยนะ \"เพื่อน\"",
-      "vi": "Tôi vốn cho rằng... nếu muốn tiêu diệt tà ác, tôi phải tự mình bước đi trong bóng đêm dài.\n\nNhưng sự kiên trì của bạn khiến tôi nhận ra rằng mình đã sai. \"Người bạn đồng hành\", cảm ơn bạn."
+      "vi": "#Tôi vốn cho rằng... nếu muốn tiêu diệt tà ác, tôi phải tự mình bước đi trong bóng đêm dài.\n\nNhưng sự kiên trì của {F#cô}{M#cậu} khiến tôi nhận ra rằng mình đã sai. \"Người bạn đồng hành\", cảm ơn {F#cô}{M#cậu}."
     }
   },
   {
@@ -1377,6 +1569,102 @@
   },
   {
     "title": {
+      "zhs": "元素战技·其一",
+      "zht": "元素戰技·其一",
+      "jp": "元素スキル·1",
+      "ko": "원소전투 스킬·첫 번째",
+      "en": "Elemental Skill: I",
+      "de": "Elementarfähigkeit I",
+      "es": "Habilidad Elemental (I)",
+      "fr": "Compétence élémentaire (1)",
+      "pt": "Habilidade Elemental - I",
+      "ru": "Элементальный навык I",
+      "id": "Elemental Skill: I",
+      "th": "สกิลธาตุ - 1",
+      "vi": "Kỹ Năng Nguyên Tố I"
+    },
+    "line": {
+      "zhs": "呵。",
+      "zht": "呵。",
+      "jp": "へっ！",
+      "ko": "흥",
+      "en": "Huh!",
+      "de": "Ho.",
+      "es": "¡Hum!",
+      "fr": "Ah.",
+      "pt": "Ah.",
+      "ru": "Ух!",
+      "id": "Ah.",
+      "th": "หึ",
+      "vi": "Ah."
+    }
+  },
+  {
+    "title": {
+      "zhs": "元素战技·其二",
+      "zht": "元素戰技·其二",
+      "jp": "元素スキル·2",
+      "ko": "원소전투 스킬·두 번째",
+      "en": "Elemental Skill: II",
+      "de": "Elementarfähigkeit II",
+      "es": "Habilidad Elemental (II)",
+      "fr": "Compétence élémentaire (2)",
+      "pt": "Habilidade Elemental - II",
+      "ru": "Элементальный навык II",
+      "id": "Elemental Skill: II",
+      "th": "สกิลธาตุ - 2",
+      "vi": "Kỹ Năng Nguyên Tố II"
+    },
+    "line": {
+      "zhs": "哈。",
+      "zht": "哈。",
+      "jp": "はぁっ！",
+      "ko": "하",
+      "en": "Hyah!",
+      "de": "Ha.",
+      "es": "¡Ja!",
+      "fr": "Ha.",
+      "pt": "Ha!",
+      "ru": "Ха.",
+      "id": "Ha.",
+      "th": "ฮ่า",
+      "vi": "Ha."
+    }
+  },
+  {
+    "title": {
+      "zhs": "元素战技·其三",
+      "zht": "元素戰技·其三",
+      "jp": "元素スキル·3",
+      "ko": "원소전투 스킬·세 번째",
+      "en": "Elemental Skill: III",
+      "de": "Elementarfähigkeit III",
+      "es": "Habilidad Elemental (III)",
+      "fr": "Compétence élémentaire (3)",
+      "pt": "Habilidade Elemental - III",
+      "ru": "Элементальный навык III",
+      "id": "Elemental Skill: III",
+      "th": "สกิลธาตุ - 3",
+      "vi": "Kỹ Năng Nguyên Tố III"
+    },
+    "line": {
+      "zhs": "哈！——",
+      "zht": "哈！——",
+      "jp": "てあっ！",
+      "ko": "찻!——",
+      "en": "Haah!—",
+      "de": "Ha!",
+      "es": "¡¡Ja!!",
+      "fr": "Ha !",
+      "pt": "Há!",
+      "ru": "Ха!",
+      "id": "Ha!",
+      "th": "ฮ่า!",
+      "vi": "Ha!"
+    }
+  },
+  {
+    "title": {
       "zhs": "元素爆发·其一",
       "zht": "元素爆發·其一",
       "jp": "元素爆発·1",
@@ -1469,6 +1757,102 @@
       "id": "Waktunya 'tuk penghakiman!",
       "th": "ลงทัณฑ์!",
       "vi": "Đến lúc... phán quyết!"
+    }
+  },
+  {
+    "title": {
+      "zhs": "元素爆发·其一",
+      "zht": "元素爆發·其一",
+      "jp": "元素爆発·1",
+      "ko": "원소폭발·첫 번째",
+      "en": "Elemental Burst: I",
+      "de": "Spezialfähigkeit I",
+      "es": "Habilidad Definitiva (I)",
+      "fr": "Déchaînement élémentaire (1)",
+      "pt": "Supremo - I",
+      "ru": "Взрыв стихии I",
+      "id": "Elemental Burst: I",
+      "th": "ท่าไม้ตาย - 1",
+      "vi": "Kỹ Năng Nộ I"
+    },
+    "line": {
+      "zhs": "在此——清算！",
+      "zht": "在此——清算！",
+      "jp": "今ここに——清算す！",
+      "ko": "이곳에서——청산한다!",
+      "en": "Flames, purge!",
+      "de": "Jetzt wird abgerechnet!",
+      "es": "¡Fuego purgador!",
+      "fr": "Flammes purgatrices !",
+      "pt": "Chamas, purguem!",
+      "ru": "Пламя, очисти!",
+      "id": "Api, bersihkanlah!",
+      "th": "ปิดบัญชี ณ บัดดล!",
+      "vi": "Dọn sạch! Tất cả!"
+    }
+  },
+  {
+    "title": {
+      "zhs": "元素爆发·其二",
+      "zht": "元素爆發·其二",
+      "jp": "元素爆発·2",
+      "ko": "원소폭발·두 번째",
+      "en": "Elemental Burst: II",
+      "de": "Spezialfähigkeit II",
+      "es": "Habilidad Definitiva (II)",
+      "fr": "Déchaînement élémentaire (2)",
+      "pt": "Supremo - II",
+      "ru": "Взрыв стихии II",
+      "id": "Elemental Burst: II",
+      "th": "ท่าไม้ตาย - 2",
+      "vi": "Kỹ Năng Nộ II"
+    },
+    "line": {
+      "zhs": "烈焰——燃毁！",
+      "zht": "烈焰——燃毀！",
+      "jp": "烈炎——一切を焼尽せよ！",
+      "ko": "화염이여——불살라라!",
+      "en": "Lay waste to the wicked!",
+      "de": "Läuternde Flammen!",
+      "es": "¡Asolaré el mal!",
+      "fr": "Que les flammes anéantissent tout !",
+      "pt": "Que as chamas consumam o mal!",
+      "ru": "Уничтожить нечестивых!",
+      "id": "Yang jahat, binasalah!",
+      "th": "เปลวเพลิง เผาผลาญ!",
+      "vi": "Lửa đỏ! Thiêu Đốt!"
+    }
+  },
+  {
+    "title": {
+      "zhs": "元素爆发·其三",
+      "zht": "元素爆發·其三",
+      "jp": "元素爆発·3",
+      "ko": "원소폭발·세 번째",
+      "en": "Elemental Burst: III",
+      "de": "Spezialfähigkeit III",
+      "es": "Habilidad Definitiva (III)",
+      "fr": "Déchaînement élémentaire (3)",
+      "pt": "Supremo - III",
+      "ru": "Взрыв стихии III",
+      "id": "Elemental Burst: III",
+      "th": "ท่าไม้ตาย - 3",
+      "vi": "Kỹ Năng Nộ III"
+    },
+    "line": {
+      "zhs": "破晓——将至！",
+      "zht": "破曉——將至！",
+      "jp": "暁よ——ここに！",
+      "ko": "여명이여——강림하라!",
+      "en": "Dawn, break forth!",
+      "de": "Die Dämmerung bricht an!",
+      "es": "¡Aquí llega el amanecer!",
+      "fr": "Que l'aube arrive !",
+      "pt": "Alvorada, chegue!",
+      "ru": "Рассвет, прорвись!",
+      "id": "Senja, datanglah!",
+      "th": "รุ่งอรุณ ย่างกราย!",
+      "vi": "Bình minh! Hiển hiện!"
     }
   },
   {

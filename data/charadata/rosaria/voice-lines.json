@@ -1249,6 +1249,102 @@
   },
   {
     "title": {
+      "zhs": "收到赠礼·其一",
+      "zht": "收到贈禮·其一",
+      "jp": "贈り物を受け取る·1",
+      "ko": "선물 획득·첫 번째",
+      "en": "Receiving a Gift: I",
+      "de": "Geschenk erhalten I",
+      "es": "Al recibir un regalo (I)",
+      "fr": "Cadeau reçu (1)",
+      "pt": "Recebendo Presentes — I",
+      "ru": "Подарок I",
+      "id": "Menerima Hadiah: I",
+      "th": "ได้รับของขวัญ - 1",
+      "vi": "Nhận Được Quà I"
+    },
+    "line": {
+      "zhs": "看来这方面，我们品味相投。",
+      "zht": "看來這方面，我們品味相投。",
+      "jp": "どうやら、私たちって好みが合うみたいね。",
+      "ko": "우린 입맛이 비슷한 거 같네",
+      "en": "It seems that our tastes are aligned when it comes to food.",
+      "de": "Es scheint, dass wir im Geschmack ähnliche Vorlieben haben.",
+      "es": "Parece que tenemos gustos parecidos en cuanto a la comida.",
+      "fr": "On dirait que nos goûts s'accordent.",
+      "pt": "Parece que nossos gostos culinários são similares.",
+      "ru": "Кажется, в еде наши вкусы совпадают.",
+      "id": "Sepertinya selera kita sama kalau soal makanan.",
+      "th": "ดูเหมือนเราจะมีรสนิยมด้านนี้คล้ายกันนะ",
+      "vi": "Xem ra chúng ta có cùng sở thích đấy."
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其二",
+      "zht": "收到贈禮·其二",
+      "jp": "贈り物を受け取る·2",
+      "ko": "선물 획득·두 번째",
+      "en": "Receiving a Gift: II",
+      "de": "Geschenk erhalten II",
+      "es": "Al recibir un regalo (II)",
+      "fr": "Cadeau reçu (2)",
+      "pt": "Recebendo Presentes — II",
+      "ru": "Подарок II",
+      "id": "Menerima Hadiah: II",
+      "th": "ได้รับของขวัญ - 2",
+      "vi": "Nhận Được Quà II"
+    },
+    "line": {
+      "zhs": "至少能填饱肚子。",
+      "zht": "至少能填飽肚子。",
+      "jp": "少なくとも、お腹は満たせるわね。",
+      "ko": "배는 채울 수 있겠어",
+      "en": "At least I'll be able to eat my fill with this.",
+      "de": "Zumindest füllt es den Magen.",
+      "es": "Al menos me servirá para llenar el estómago.",
+      "fr": "C'est rassasiant, au moins.",
+      "pt": "Pelo menos dá para matar a fome.",
+      "ru": "По крайней мере, я смогу наесться.",
+      "id": "Setidaknya bisa mengenyangkan lah.",
+      "th": "อย่างน้อยก็ช่วยให้อิ่มท้อง",
+      "vi": "Ít nhất cũng có thể no bụng."
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其三",
+      "zht": "收到贈禮·其三",
+      "jp": "贈り物を受け取る·3",
+      "ko": "선물 획득·세 번째",
+      "en": "Receiving a Gift: III",
+      "de": "Geschenk erhalten III",
+      "es": "Al recibir un regalo (II)",
+      "fr": "Cadeau reçu (3)",
+      "pt": "Recebendo Presentes — III",
+      "ru": "Подарок III",
+      "id": "Menerima Hadiah: III",
+      "th": "ได้รับของขวัญ - 3",
+      "vi": "Nhận Được Quà III"
+    },
+    "line": {
+      "zhs": "你对这种食物很感兴趣吗？",
+      "zht": "#{F#妳}{M#你}對這種食物很感興趣嗎？",
+      "jp": "君、こういう食べ物に興味があるの？",
+      "ko": "너 이런 음식에 관심 있어?",
+      "en": "Do you really like this food?",
+      "de": "Bist du an diesen Lebensmitteln interessiert?",
+      "es": "¿De verdad te gusta esta comida?",
+      "fr": "Vous aimez ce genre de plat ?",
+      "pt": "Você gosta mesmo de comidas assim?",
+      "ru": "Тебе правда нравится эта еда?",
+      "id": "Kamu benar-benar suka makanan begini?",
+      "th": "เธอชอบอาหารแบบนี้มากมั้ย?",
+      "vi": "Bạn rất thích loại thực phẩm này sao?"
+    }
+  },
+  {
+    "title": {
       "zhs": "生日…",
       "zht": "生日…",
       "jp": "誕生日…",

@@ -139,7 +139,7 @@
       "fr": "Quand il pleut...",
       "pt": "Quando Está Chovendo...",
       "ru": "Когда идёт дождь...",
-      "id": "Ketika Hujan",
+      "id": "Waktu Hujan",
       "th": "ในเวลาที่ฝนตก...",
       "vi": "Khi trời mưa..."
     },
@@ -235,7 +235,7 @@
       "fr": "Quand il neige...",
       "pt": "Quando Está Nevando...",
       "ru": "Когда идёт снег...",
-      "id": "Ketika Turun Salju",
+      "id": "Waktu Turun Salju",
       "th": "ในเวลาที่หิมะตก...",
       "vi": "Khi tuyết rơi..."
     },
@@ -761,7 +761,7 @@
       "es": "¿Beidou? No tengo una relación de amistad con ella. Pero puedo asegurarte que el monstruo marino Haishan existió de verdad. Como humana que es, el hecho de haberlo derrotado es prueba de su fuerza.",
       "fr": "Beidou ? Je n'ai rien à faire avec elle. Mais le léviathan existe. En tant que simple humaine, elle a prouvé sa force en terrassant « Haishan ».",
       "pt": "Beidou? Eu não tenho nada a ver com ela. Embora exista algo como um leviatã. Como mera humana, ela provou seu poder ao derrotar Haishan.",
-      "ru": "Бэй Доу? У меня с ней никаких отношений. Но морские чудовища - существуют. И она сильна для обычного человека, если смогла одолеть Хай Шаня.",
+      "ru": "Бэй Доу? У меня с ней нет никаких отношений. Но морские чудовища - существуют. И она сильна для обычного человека, если смогла одолеть Хай Шаня.",
       "id": "Beidou? Aku tidak punya urusan apa-apa dengannya. Walaupun memang ada makhluk yang bernama leviathan. Sebagai seorang manusia, dia sudah membuktikan kekuatannya dengan mengalahkan Haishan.",
       "th": "Beidou? ฉันไม่ได้สนิทกับเธอ แต่ว่ามีเรื่องของอสูรยักษ์ใต้ทะเลจริง ๆ ในฐานะมนุษย์ที่สามารถปราบ \"Haishan\" ได้ ความแข็งแกร่งของเธอนั้นสมควรได้รับการยอมรับ",
       "vi": "Beidou à? Tôi và cô ấy không có quan hệ gì. Nhưng, đúng là có chuyện quái vật biển sâu. Là con người mà có thể đánh bại \"Hải Sơn\", năng lực của cô ấy xứng đáng được công nhận."
@@ -1228,7 +1228,7 @@
       "pt": "Comida que mais gosta - Recordações",
       "ru": "Любимое блюдо: Воспоминания",
       "id": "Makanan Favorit: Kenangan",
-      "th": "อาหารที่ชอบ - เรียกความจำ",
+      "th": "อาหารที่ชอบ - ในความทรงจำ",
       "vi": "Món ăn yêu thích - Hồi ức"
     },
     "line": {
@@ -1277,6 +1277,102 @@
       "id": "Hah? Aku harus taruh daging ke dalam bungkus kulitnya sendiri? Habis itu ... baru boleh dimakan? Manusia zaman sekarang tidak tahu apa yang mereka lakukan.",
       "th": "จะให้ฉันห่อเนื้อด้วยแผ่นแป้ง? แล้วก็... กินทั้งสองอย่างพร้อมกัน? ยุ่งยากชะมัด มนุษย์ทุกวันนี้ไม่รู้ตัวเลยว่าพวกเขากำลังทำอะไรอยู่",
       "vi": "Muốn tôi tự tay gói thịt vào bánh nướng? A... sau đó... cùng ăn? Ha... phiền phức. Loài người bây giờ đúng là càng ngày càng thiếu kiến thức."
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其一",
+      "zht": "收到贈禮·其一",
+      "jp": "贈り物を受け取る·1",
+      "ko": "선물 획득·첫 번째",
+      "en": "Receiving a Gift: I",
+      "de": "Geschenk erhalten I",
+      "es": "Al recibir un regalo (I)",
+      "fr": "Cadeau reçu (1)",
+      "pt": "Recebendo Presentes — I",
+      "ru": "Подарок I",
+      "id": "Menerima Hadiah: I",
+      "th": "ได้รับของขวัญ - 1",
+      "vi": "Nhận Được Quà I"
+    },
+    "line": {
+      "zhs": "嗯，不错…为什么要盯着我看。",
+      "zht": "嗯，不錯…為什麼要盯著我看。",
+      "jp": "うむ、悪くない…ん？なぜ我をじっと見ている。",
+      "ko": "음, 나쁘지 않아…. 왜 그렇게 쳐다봐?",
+      "en": "Mm... Not bad... Why are you staring at me?",
+      "de": "Hmmm, schön ... Warum starrst du mich an?",
+      "es": "Humm, no está mal, pero... ¿por qué me miras tanto?",
+      "fr": "Pas mal... Pourquoi me fixez-vous du regard ?",
+      "pt": "Hmm, nada mal... Por que você está me olhando?",
+      "ru": "Хм... Неплохо... Что ты так смотришь?",
+      "id": "Hmm, lumayan. Kenapa melihatku terus?",
+      "th": "อื้ม ไม่เลว... ทำไมต้องจ้องฉันด้วยล่ะ",
+      "vi": "Ừm, không tồi... sao cứ nhìn tôi mãi thế?"
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其二",
+      "zht": "收到贈禮·其二",
+      "jp": "贈り物を受け取る·2",
+      "ko": "선물 획득·두 번째",
+      "en": "Receiving a Gift: II",
+      "de": "Geschenk erhalten II",
+      "es": "Al recibir un regalo (II)",
+      "fr": "Cadeau reçu (2)",
+      "pt": "Recebendo Presentes — II",
+      "ru": "Подарок II",
+      "id": "Menerima Hadiah: II",
+      "th": "ได้รับของขวัญ - 2",
+      "vi": "Nhận Được Quà II"
+    },
+    "line": {
+      "zhs": "不用麻烦。",
+      "zht": "不用麻煩。",
+      "jp": "もう充分だ。",
+      "ko": "난 괜찮으니까 신경 써줄 필요 없어",
+      "en": "No need.",
+      "de": "Nicht nötig.",
+      "es": "No hacía falta.",
+      "fr": "Ne vous embêtez pas.",
+      "pt": "Não precisa se incomodar.",
+      "ru": "Не стоило.",
+      "id": "Tidak deh.",
+      "th": "ไม่จำเป็นต้องลำบาก",
+      "vi": "Không cần đâu."
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其三",
+      "zht": "收到贈禮·其三",
+      "jp": "贈り物を受け取る·3",
+      "ko": "선물 획득·세 번째",
+      "en": "Receiving a Gift: III",
+      "de": "Geschenk erhalten III",
+      "es": "Al recibir un regalo (II)",
+      "fr": "Cadeau reçu (3)",
+      "pt": "Recebendo Presentes — III",
+      "ru": "Подарок III",
+      "id": "Menerima Hadiah: III",
+      "th": "ได้รับของขวัญ - 3",
+      "vi": "Nhận Được Quà III"
+    },
+    "line": {
+      "zhs": "下次做点别的吧。",
+      "zht": "下次做點別的吧。",
+      "jp": "次は別のものを作るといい。",
+      "ko": "다음엔 다른 걸 만들어 봐",
+      "en": "Try something else next time.",
+      "de": "Mach das nächste Mal etwas anderes.",
+      "es": "Mejor haz otra cosa la próxima vez.",
+      "fr": "Cuisinez autre chose la prochaine fois.",
+      "pt": "Próxima vez tente outra coisa.",
+      "ru": "В следующий раз попробуй что-нибудь другое.",
+      "id": "Lain kali coba masak yang lain.",
+      "th": "คราวหน้าลองทำอย่างอื่นละกัน",
+      "vi": "Lần sau làm thêm món khác nhé."
     }
   },
   {

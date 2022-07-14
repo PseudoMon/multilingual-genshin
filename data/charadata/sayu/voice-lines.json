@@ -25,7 +25,7 @@
       "es": "¡Adióóós!",
       "fr": "À plus...",
       "pt": "Tchau!",
-      "ru": "Я ушла...",
+      "ru": "Пока!",
       "id": "Sampai jumpa!",
       "th": "ขอตัวล่ะนะ... อืม",
       "vi": "Đi thôi...Bye."
@@ -2077,6 +2077,102 @@
       "id": "Kamu tidak boleh memilih-milih makan kalau kamu mau tumbuh tinggi! Omong-omong, tinggi badanku tidak bertambah akhir-akhir ini — apa karena sayuran yang kumakan belum cukup banyak? Tapi salad tidak terlalu mengenyangkan dan kadang rasanya benar-benar pahit... *huff*",
       "th": "ถ้าอยากสูงล่ะก็ จะเอาแต่เลือกกินไม่ได้! จะว่าไปช่วงนี้ดูเหมือนส่วนสูงจะเท่าเดิมเลยแฮะ หรือจะเป็นเพราะกินผักน้อยเกินไป แต่สลัดน่ะ กินยังไงก็ไม่อิ่มจริง ๆ นี่นา แถมยังขมด้วย เฮ้อ...",
       "vi": "Muốn cao thì không được kén ăn! Nói chứ chiều cao gần đây hình như cũng không thay đổi, có phải là vì ăn ít rau không, nhưng mà ăn gỏi không no được, lại còn đắng nữa, huhu"
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其一",
+      "zht": "收到贈禮·其一",
+      "jp": "贈り物を受け取る·1",
+      "ko": "선물 획득·첫 번째",
+      "en": "Receiving a Gift: I",
+      "de": "Geschenk erhalten I",
+      "es": "Al recibir un regalo (I)",
+      "fr": "Cadeau reçu (1)",
+      "pt": "Recebendo Presentes — I",
+      "ru": "Подарок I",
+      "id": "Menerima Hadiah: I",
+      "th": "ได้รับของขวัญ - 1",
+      "vi": "Nhận Được Quà I"
+    },
+    "line": {
+      "zhs": "肚子好饱。这下可以安心睡觉啦。",
+      "zht": "肚子好飽。這下可以安心睡覺啦。",
+      "jp": "お腹いっぱい。これで安心して眠れる。",
+      "ko": "배가 빵빵해. 이제 안심하고 잘 수 있겠어",
+      "en": "I'm soooo full, time for a nap...",
+      "de": "Ich bin so satt. Jetzt kann ich in Ruhe schlafen.",
+      "es": "Estoy a punto de explotar. Seguro que duermo genial esta noche.",
+      "fr": "J'ai l'estomac plein. Je vais pouvoir dormir comme un loir.",
+      "pt": "Estou cheia, é hora de um cochilo...",
+      "ru": "Ну вот, поели, теперь можно и поспать...",
+      "id": "Duh, kenyaaang sekali. Waktunya tidur siang ....",
+      "th": "อิ่มมากเลย แบบนี้คงหลับสบายแล้วสิ",
+      "vi": "Tôi no rồi, bây giờ có thể yên tâm đi ngủ rồi..."
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其二",
+      "zht": "收到贈禮·其二",
+      "jp": "贈り物を受け取る·2",
+      "ko": "선물 획득·두 번째",
+      "en": "Receiving a Gift: II",
+      "de": "Geschenk erhalten II",
+      "es": "Al recibir un regalo (II)",
+      "fr": "Cadeau reçu (2)",
+      "pt": "Recebendo Presentes — II",
+      "ru": "Подарок II",
+      "id": "Menerima Hadiah: II",
+      "th": "ได้รับของขวัญ - 2",
+      "vi": "Nhận Được Quà II"
+    },
+    "line": {
+      "zhs": "吃着吃着…就困了。",
+      "zht": "吃著吃著…就睏了。",
+      "jp": "食べているうちに…眠くなってきちゃった。",
+      "ko": "먹다 보니… 졸려",
+      "en": "If you eat enough of this... it makes you really sleepy.",
+      "de": "Nun bin ich satt und müde ...",
+      "es": "Con tanto comer, me entró sueño.",
+      "fr": "J'ai tellement mangé que j'en suis fatiguée...",
+      "pt": "Comer muito disso me deixa com sono...",
+      "ru": "Поешь этого... и точно захочется спать.",
+      "id": "Kalau makan ini kebanyakan ... nanti bisa ngantuk banget loh.",
+      "th": "กินไปกินมา... ก็ง่วงซะแล้ว",
+      "vi": "Ăn nhiều rồi... liền cảm thấy buồn ngủ."
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其三",
+      "zht": "收到贈禮·其三",
+      "jp": "贈り物を受け取る·3",
+      "ko": "선물 획득·세 번째",
+      "en": "Receiving a Gift: III",
+      "de": "Geschenk erhalten III",
+      "es": "Al recibir un regalo (II)",
+      "fr": "Cadeau reçu (3)",
+      "pt": "Recebendo Presentes — III",
+      "ru": "Подарок III",
+      "id": "Menerima Hadiah: III",
+      "th": "ได้รับของขวัญ - 3",
+      "vi": "Nhận Được Quà III"
+    },
+    "line": {
+      "zhs": "要想个办法…逃走。",
+      "zht": "要想個辦法…逃走。",
+      "jp": "何とかして…逃げないと。",
+      "ko": "도망갈 방법을… 생각해야겠어",
+      "en": "Uh oh... Need an escape plan.",
+      "de": "Es muss einen Weg geben, um zu ... verschwinden.",
+      "es": "Oh, oh... Necesito un plan de huida.",
+      "fr": "Je dois trouver un moyen... de m'échapper.",
+      "pt": "Oh, não... Preciso de um plano de fuga...",
+      "ru": "О нет... Нужен план побега.",
+      "id": "Oh ow ... harus cari cara buat kabur.",
+      "th": "ต้องหาวิธี... หนี",
+      "vi": "Phải nghĩ cách... chuồn thôi."
     }
   },
   {

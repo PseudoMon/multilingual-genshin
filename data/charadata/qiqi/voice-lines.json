@@ -1121,6 +1121,102 @@
   },
   {
     "title": {
+      "zhs": "收到赠礼·其一",
+      "zht": "收到贈禮·其一",
+      "jp": "贈り物を受け取る·1",
+      "ko": "선물 획득·첫 번째",
+      "en": "Receiving a Gift: I",
+      "de": "Geschenk erhalten I",
+      "es": "Al recibir un regalo (I)",
+      "fr": "Cadeau reçu (1)",
+      "pt": "Recebendo Presentes — I",
+      "ru": "Подарок I",
+      "id": "Menerima Hadiah: I",
+      "th": "ได้รับของขวัญ - 1",
+      "vi": "Nhận Được Quà I"
+    },
+    "line": {
+      "zhs": "凉凉的，很喜欢。虽然没有味道…",
+      "zht": "涼涼的，很喜歡。雖然沒有味道…",
+      "jp": "冷たい、好き。味、わからないけど…",
+      "ko": "차가워서 맘에 들어요. 아무 맛도 안 나지만…",
+      "en": "Cold. I like it. But, no flavor...",
+      "de": "Kalt. Das gefällt mir, obwohl es nicht gewürzt ist ...",
+      "es": "Está frío. Me gusta. Pero no sabe a nada...",
+      "fr": "C'est froid, j'aime bien... Même si ça n'a aucun goût...",
+      "pt": "Frio, gosto muito. Mas, não tem sabor...",
+      "ru": "Холодненькое. Нравится. Но вкуса нет...",
+      "id": "Dingin. Suka. Tapi tawar.",
+      "th": "เย็น ๆ แบบนี้ ชอบมาก ถึงแม้จะไม่มีรสชาติก็เถอะ...",
+      "vi": "Lạnh lạnh, thích lắm. Tuy không có vị gì..."
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其二",
+      "zht": "收到贈禮·其二",
+      "jp": "贈り物を受け取る·2",
+      "ko": "선물 획득·두 번째",
+      "en": "Receiving a Gift: II",
+      "de": "Geschenk erhalten II",
+      "es": "Al recibir un regalo (II)",
+      "fr": "Cadeau reçu (2)",
+      "pt": "Recebendo Presentes — II",
+      "ru": "Подарок II",
+      "id": "Menerima Hadiah: II",
+      "th": "ได้รับของขวัญ - 2",
+      "vi": "Nhận Được Quà II"
+    },
+    "line": {
+      "zhs": "唔…",
+      "zht": "唔…",
+      "jp": "えっと…",
+      "ko": "음…",
+      "en": "Huh...",
+      "de": "Hmm ...",
+      "es": "Eh...",
+      "fr": "Hmm...",
+      "pt": "Ooh...",
+      "ru": "Эм...",
+      "id": "Hmm ....",
+      "th": "เอ่อ...",
+      "vi": "Ừm..."
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其三",
+      "zht": "收到贈禮·其三",
+      "jp": "贈り物を受け取る·3",
+      "ko": "선물 획득·세 번째",
+      "en": "Receiving a Gift: III",
+      "de": "Geschenk erhalten III",
+      "es": "Al recibir un regalo (II)",
+      "fr": "Cadeau reçu (3)",
+      "pt": "Recebendo Presentes — III",
+      "ru": "Подарок III",
+      "id": "Menerima Hadiah: III",
+      "th": "ได้รับของขวัญ - 3",
+      "vi": "Nhận Được Quà III"
+    },
+    "line": {
+      "zhs": "有点烫…",
+      "zht": "有點燙…",
+      "jp": "ちょっと、熱い…",
+      "ko": "조금 뜨거워요…",
+      "en": "It's burning my tongue...",
+      "de": "Ein wenig heiß ...",
+      "es": "Quema un poco...",
+      "fr": "Ça brûle un peu...",
+      "pt": "Está um pouco quente...",
+      "ru": "Язык горит...",
+      "id": "Panas, sampai bakar lidahku ....",
+      "th": "ร้อนจัง...",
+      "vi": "Hơi nóng..."
+    }
+  },
+  {
+    "title": {
       "zhs": "生日…",
       "zht": "生日…",
       "jp": "誕生日…",

@@ -2049,6 +2049,102 @@
   },
   {
     "title": {
+      "zhs": "收到赠礼·其一",
+      "zht": "收到贈禮·其一",
+      "jp": "贈り物を受け取る·1",
+      "ko": "선물 획득·첫 번째",
+      "en": "Receiving a Gift: I",
+      "de": "Geschenk erhalten I",
+      "es": "Al recibir un regalo (I)",
+      "fr": "Cadeau reçu (1)",
+      "pt": "Recebendo Presentes — I",
+      "ru": "Подарок I",
+      "id": "Menerima Hadiah: I",
+      "th": "ได้รับของขวัญ - 1",
+      "vi": "Nhận Được Quà I"
+    },
+    "line": {
+      "zhs": "哇，你做点心的手艺很不一般啊！去祭典上摆摊的话，肯定会成为最热门的那一个吧！",
+      "zht": "#哇，{F#妳}{M#你}做點心的手藝很不一般啊！去祭典上擺攤的話，肯定會成為最熱門的那一個吧！",
+      "jp": "わぁ、あんた甘味を作るんが上手いんやな！祭りの屋台で出したら、絶対いっちゃん人気でると思うで！",
+      "ko": "와! 너 디저트 만드는 솜씨가 보통이 아니구나! 축제에서 팔면 분명 제일 인기 많을 거야!",
+      "en": "Wow, you've got a real knack for making tasty treats! You should totally set up a stall at a festival some time, oh it'd be a hit for sure!",
+      "de": "Oh, du bist sehr gut in der Zubereitung von Süßigkeiten! Ich bin mir sicher, dass es der beliebteste Stand sein wird, wenn du auf das Fest gehst und einen Stand aufbaust!",
+      "es": "¡Vaya! ¡Qué mano tienes para la cocina! Si montaras un puesto durante un festival, ¡sería el más popular de todos!",
+      "fr": "Ouah, vous êtes balèze en cuisine, vous ! Je suis sûre que vous feriez un malheur si vous teniez un étal en plein festival !",
+      "pt": "#Uau, você é ótim{F#a}{M#o} na cozinha! Você deveria abrir um estande no festival, seria um sucesso!",
+      "ru": "Ого, да у тебя настоящий талант готовить вкусные угощения! Тебе обязательно нужно открыть собственный киоск на фестивале. От клиентов отбоя не будет!",
+      "id": "Wah! Ternyata kamu bakat memasak ya! Kalau kamu buka kios waktu festival, pasti laku keras deh!",
+      "th": "ว้าว ฝีมือการทำขนมของเธอไม่ธรรมดาเลยนะเนี่ย! ถ้าไปตั้งร้านในงานเทศกาล จะต้องเป็นร้านยอดนิยมอย่างแน่นอน!",
+      "vi": "Chà, kỹ năng làm điểm tâm của bạn quả không tầm thường! Nếu mở gian hàng trong lễ hội, nhất định sẽ trở thành quầy hàng đông khách nhất!"
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其二",
+      "zht": "收到贈禮·其二",
+      "jp": "贈り物を受け取る·2",
+      "ko": "선물 획득·두 번째",
+      "en": "Receiving a Gift: II",
+      "de": "Geschenk erhalten II",
+      "es": "Al recibir un regalo (II)",
+      "fr": "Cadeau reçu (2)",
+      "pt": "Recebendo Presentes — II",
+      "ru": "Подарок II",
+      "id": "Menerima Hadiah: II",
+      "th": "ได้รับของขวัญ - 2",
+      "vi": "Nhận Được Quà II"
+    },
+    "line": {
+      "zhs": "吃到了好吃的东西，人就会变得很有精神。一有精神，就想开始讲故事。嗯，我来挑个故事吧！",
+      "zht": "吃到了好吃的東西，人就會變得很有精神。一有精神，就想開始講故事。嗯，我來挑個故事吧！",
+      "jp": "うまいもん食べたら、元気が出るもんや。そんで元気が出たら、次は物語を語りとうなる。ほな、ええ物語、選んどくな！",
+      "ko": "맛있는 걸 먹으면 기운이 나고, 기운이 나면 얘기하고 싶어지지. 응, 내가 이야기 하나 들려줄게!",
+      "en": "Good food really perks you up, and puts you in the mood to share some stories. Ooh, actually I got a good one, you've gotta hear this one...!",
+      "de": "Die Leckereien macht richtig munter. Und sobald ich erfrischt bin, möchte ich ein paar Geschichten erzählen. Nun, lass mich eine Geschichte auswählen!",
+      "es": "Todos estamos más animados cuando comemos algo delicioso. Y cuando estamos animados, no dejamos de hablar. ¡Ya sé, te contaré una historia!",
+      "fr": "#On se sent revigoré après avoir mangé un bon plat. Ce n'est qu'en étant en forme qu'on commence à raconter des histoires. Bien, je me lance en premier{NON_BREAK_SPACE}!",
+      "pt": "Comida boa anima as pessoas, e quando as pessoas estão animadas, elas começam a falar. Oh, eu tenho uma história para contar!",
+      "ru": "Хорошая еда поднимает настроение, сразу тянет рассказывать истории. Кстати, я тут вспомнила одну неплохую, ну-ка послушай!..",
+      "id": "Makanan enak benar-benar bisa membuat semangat nih, dan aku juga jadi mau cerita-cerita yang menarik. Ooh, ada nih satu cerita yang bagus, kamu harus dengar cerita ini ...!",
+      "th": "พอได้กินของอร่อย ก็จะทำให้กระฉับกระเฉงขึ้น และพอมีแรง ก็เริ่มอยากเล่าเรื่องแล้วแฮะ อืม... ฉันจะเลือกมาเล่าสักเรื่องก็แล้วกัน!",
+      "vi": "Được ăn món ăn ngon, khiến cơ thể trở nên tràn đầy năng lượng. Bây giờ, tôi muốn kể một câu chuyện. hmm, kể chuyện gì được nhỉ!"
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其三",
+      "zht": "收到贈禮·其三",
+      "jp": "贈り物を受け取る·3",
+      "ko": "선물 획득·세 번째",
+      "en": "Receiving a Gift: III",
+      "de": "Geschenk erhalten III",
+      "es": "Al recibir un regalo (II)",
+      "fr": "Cadeau reçu (3)",
+      "pt": "Recebendo Presentes — III",
+      "ru": "Подарок III",
+      "id": "Menerima Hadiah: III",
+      "th": "ได้รับของขวัญ - 3",
+      "vi": "Nhận Được Quà III"
+    },
+    "line": {
+      "zhs": "哎呀，肚子里面好像有飘浮灵在上下闹腾…这不应该呀…",
+      "zht": "哎呀，肚子裡面好像有飄浮靈在上下鬧騰…這不應該呀…",
+      "jp": "んん？なんや、お腹でフライムがはしゃいどるみたいやな…さすがに、それはないと思うんやけど…",
+      "ko": "이런, 떠도는 정령이 배 속을 마구 돌아다니는 것 같아… 대체 왜지…?",
+      "en": "Urgh, it feels like there's a Specter swirling around in my stomach... That can't be ideal.",
+      "de": "Ups, es scheint, als würden in meinem Magen Gespenst auf und ab gehen ... Das ist nicht richtig ...",
+      "es": "Ay... Parece como si me hubiera comido un Espectro... No me encuentro bien...",
+      "fr": "Ah, on dirait qu'un Spectre est en train de tourbillonner dans mon estomac... Ça ne va pas...",
+      "pt": "Argh, sinto como se tivesse um Espectro dentro do meu estômago... Isso não é bom...",
+      "ru": "Ух, у меня словно призрак в животе завёлся... Так не должно быть...",
+      "id": "Aduh, rasanya seperti ada Specter yang bikin ribut di dalam perutku ... kok begini ya ....",
+      "th": "โอ๊ย ๆ ท้องของฉันเหมือนมี Specter ลอยเด้งอยู่ข้างในเลย... ไม่ควรเป็นแบบนี้ซิ...",
+      "vi": "Úi, trong bụng tôi như thể đang có một bóng ma đang bay lên bay xuống... sao lại thế nhỉ..."
+    }
+  },
+  {
+    "title": {
       "zhs": "生日…",
       "zht": "生日…",
       "jp": "誕生日…",

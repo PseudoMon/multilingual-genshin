@@ -659,7 +659,7 @@
       "zhs": "试问，常说「禅茶一味」，又说「剑禅一如」，那么剑和茶，又是什么关系呢？",
       "zht": "試問，常說「禪茶一味」，又說「劍禪一如」，那麼劍和茶，又是什麼關係呢？",
       "jp": "よく「茶禅一味」、「剣禅一如」と言いますが、刀とお茶にどのような関係があるのでしょうか？",
-      "ko": "질문하나 할게요. 흔히 「선차일미(禪茶一味)」, 「검선일여(劍禪一如)」라고 하던데. 검과 차는 어떤 관계인가요?",
+      "ko": "질문하나 할게요. 흔히 「선차일미(禪茶一味)」, 「검선일여(劍禪一如)」라고 하던데. 검과 차는 어떤 관계인가요?",
       "en": "It is said that \"the flavor of Zen is that of tea,\" and it is also said that \"the power of Zen is that of the blade.\" One might then ask: What does that say about the relationship between tea and the blade?",
       "de": "Es wird gesagt, dass „der Geschmack des Zen der des Tees ist“, und es wird auch gesagt, dass „die Kraft des Zen die der Klinge ist.“ Man könnte dann fragen: Was sagt das über die Beziehung zwischen Tee und der Klinge aus?",
       "es": "Dicen que “la meditación y el té tienen el mismo sabor”, y que “la meditación y la espada son igual de poderosas”. Por ello, uno podría preguntarse: “Entonces, ¿qué relación hay entre el té y la espada?”",
@@ -1309,6 +1309,102 @@
       "id": "Aku menghindari lemak dan organ hewan secara total. Makanan-makanan itu tidak akan menjadi pilihan pertamaku.",
       "th": "ถึงแม้ว่าจะไม่ถึงขั้นกินไม่ได้ แต่สำหรับฉันแล้ว ของกินอย่างไขมันหรือเครื่องในของสัตว์มันออกจะ...",
       "vi": "Tuy không phải là không thể ăn, nhưng tôi không thích ăn mỡ động vật hoặc nội tạng..."
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其一",
+      "zht": "收到贈禮·其一",
+      "jp": "贈り物を受け取る·1",
+      "ko": "선물 획득·첫 번째",
+      "en": "Receiving a Gift: I",
+      "de": "Geschenk erhalten I",
+      "es": "Al recibir un regalo (I)",
+      "fr": "Cadeau reçu (1)",
+      "pt": "Recebendo Presentes — I",
+      "ru": "Подарок I",
+      "id": "Menerima Hadiah: I",
+      "th": "ได้รับของขวัญ - 1",
+      "vi": "Nhận Được Quà I"
+    },
+    "line": {
+      "zhs": "嗯…我真是太幸福了…",
+      "zht": "嗯…我真是太幸福了…",
+      "jp": "ふふっ…私は本当に幸せ者ですね…",
+      "ko": "음… 저 정말 행복해요…",
+      "en": "Mmm... Yes, I am truly fortunate...",
+      "de": "Hmmm ... Ich bin so glücklich ...",
+      "es": "Humm... ¡Qué afortunada soy!",
+      "fr": "Quel bonheur...",
+      "pt": "Hmmm... Sim, me sinto muito feliz...",
+      "ru": "Мм... Я так счастлива...",
+      "id": "Ya, aku benar-benar beruntung ....",
+      "th": "อื้ม... มีความสุขจังเลย...",
+      "vi": "Hm... tôi hạnh phúc quá..."
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其二",
+      "zht": "收到贈禮·其二",
+      "jp": "贈り物を受け取る·2",
+      "ko": "선물 획득·두 번째",
+      "en": "Receiving a Gift: II",
+      "de": "Geschenk erhalten II",
+      "es": "Al recibir un regalo (II)",
+      "fr": "Cadeau reçu (2)",
+      "pt": "Recebendo Presentes — II",
+      "ru": "Подарок II",
+      "id": "Menerima Hadiah: II",
+      "th": "ได้รับของขวัญ - 2",
+      "vi": "Nhận Được Quà II"
+    },
+    "line": {
+      "zhs": "谢谢你让我有机会尝试这道菜，我会把它的味道记在心里的。",
+      "zht": "#謝謝{F#妳}{M#你}讓我有機會嘗試這道菜，我會把它的味道記在心裡的。",
+      "jp": "このような料理を味わわせていただき、ありがとうございます。この味を心に留めておきます。",
+      "ko": "이런 요리를 맛볼 기회를 주셔서 감사해요. 이 맛은 평생 기억할게요",
+      "en": "Thank you for the opportunity to try this dish. I will always savor it.",
+      "de": "Danke, dass du mir die Gelegenheit gegeben hast, dieses Gericht zu probieren, ich werde seinen Geschmack in Erinnerung behalten.",
+      "es": "Gracias por dejarme probar este plato. Nunca olvidaré su sabor.",
+      "fr": "Merci à vous de me faire goûter votre cuisine, je me souviendrai de sa saveur.",
+      "pt": "Obrigada pela oportunidade de provar o prato. Sempre lembrarei do seu gosto.",
+      "ru": "#Спасибо, что дал{F#a} мне попробовать это блюдо. Я никогда не забуду его вкус.",
+      "id": "Terima kasih sudah memberiku kesempatan untuk mencobanya. Aku akan selalu mengingat rasa ini.",
+      "th": "ขอบคุณที่เธอให้โอกาสฉันได้ชิมอาหารจานนี้นะ ฉันจะจดจำรสชาติของมันเอาไว้ในใจของฉันเลย",
+      "vi": "Cảm ơn bạn đã cho tôi cơ hội để thử món ăn này, tôi sẽ ghi nhớ hương vị của nó."
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其三",
+      "zht": "收到贈禮·其三",
+      "jp": "贈り物を受け取る·3",
+      "ko": "선물 획득·세 번째",
+      "en": "Receiving a Gift: III",
+      "de": "Geschenk erhalten III",
+      "es": "Al recibir un regalo (II)",
+      "fr": "Cadeau reçu (3)",
+      "pt": "Recebendo Presentes — III",
+      "ru": "Подарок III",
+      "id": "Menerima Hadiah: III",
+      "th": "ได้รับของขวัญ - 3",
+      "vi": "Nhận Được Quà III"
+    },
+    "line": {
+      "zhs": "啊…稍微有点油腻了呢。",
+      "zht": "啊…稍微有點油膩了呢。",
+      "jp": "おや…少し油が多いようですね。",
+      "ko": "아… 조금 기름지네요",
+      "en": "Hmm... It's a bit greasy for my taste.",
+      "de": "Ah ... Leicht fettig.",
+      "es": "Oh... este plato es un poco grasiento para mi gusto.",
+      "fr": "Ah, c'est un peu gras...",
+      "pt": "Hmm... É um pouco gorduroso para o meu gosto.",
+      "ru": "Ох... Это блюдо для меня тяжеловато.",
+      "id": "Hmm, ini agak terlalu berminyak buatku.",
+      "th": "เอ่อ... มันค่อนข้างจะมีรสชาติมันเลี่ยนไปสักหน่อยน่ะ",
+      "vi": "A... món này hơi nhiều dầu mỡ."
     }
   },
   {

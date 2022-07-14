@@ -1249,6 +1249,102 @@
   },
   {
     "title": {
+      "zhs": "收到赠礼·其一",
+      "zht": "收到贈禮·其一",
+      "jp": "贈り物を受け取る·1",
+      "ko": "선물 획득·첫 번째",
+      "en": "Receiving a Gift: I",
+      "de": "Geschenk erhalten I",
+      "es": "Al recibir un regalo (I)",
+      "fr": "Cadeau reçu (1)",
+      "pt": "Recebendo Presentes — I",
+      "ru": "Подарок I",
+      "id": "Menerima Hadiah: I",
+      "th": "ได้รับของขวัญ - 1",
+      "vi": "Nhận Được Quà I"
+    },
+    "line": {
+      "zhs": "啊，好满足！明天也会有吧？后天也会有吧？",
+      "zht": "啊，好滿足！明天也會有吧？後天也會有吧？",
+      "jp": "ふぅ、満足、満足！明日もあるんだよね？それから明後日も！",
+      "ko": "아, 대만족이야! 내일도 해줄 거지? 모레도 해줄 거지?",
+      "en": "Ahh, quite delightful! So... could I get the same again tomorrow? ...And maybe the day after that?",
+      "de": "Mhm, ich bin so zufrieden! Morgen wird es auch einmal geben, oder? Übermorgen auch, oder?",
+      "es": "Ahh, ¡está delicioso! Entonces, ¿puedes hacerme lo mismo para mañana? ¿Y tal vez también para pasado mañana?",
+      "fr": "Ah, c'était vraiment bon ! Tu m'en feras encore demain ? Et après-demain aussi ?",
+      "pt": "Ah, muito gostoso! Amanhã... você pode preparar esse prato para mim novamente?... E depois de amanhã?",
+      "ru": "Ах, просто восхитительно! А можно повторить завтра? И послезавтра?..",
+      "id": "Ah, puas sekali! Kira-kira ... besok ada ginian lagi tidak? Terus sekalian ... lusa juga?",
+      "th": "อื้ม หนำใจมากเลย! พรุ่งนี้จะมีอีกมั้ย? แล้ววันมะรืนจะมีอีกรึเปล่า?",
+      "vi": "Ah, thật hài lòng! Ngày mai cũng có chứ? Ngày mốt cũng có phải không?"
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其二",
+      "zht": "收到贈禮·其二",
+      "jp": "贈り物を受け取る·2",
+      "ko": "선물 획득·두 번째",
+      "en": "Receiving a Gift: II",
+      "de": "Geschenk erhalten II",
+      "es": "Al recibir un regalo (II)",
+      "fr": "Cadeau reçu (2)",
+      "pt": "Recebendo Presentes — II",
+      "ru": "Подарок II",
+      "id": "Menerima Hadiah: II",
+      "th": "ได้รับของขวัญ - 2",
+      "vi": "Nhận Được Quà II"
+    },
+    "line": {
+      "zhs": "呼，好饱，连餐后水果都要吃不下了…",
+      "zht": "呼，好飽，連餐後水果都要吃不下了…",
+      "jp": "ふぅ、お腹いっぱい。食後のフルーツも食べられそうにないや…",
+      "ko": "후, 배불러라. 과일도 못 먹겠어…",
+      "en": "Oof, I'm so full... I'll have to pass on the post-meal fruits this time...",
+      "de": "Puh, ich bin so satt, dass ich nicht mal mehr das Obst nach dem Essen essen kann ...",
+      "es": "¡Uff! Estoy lleno, no me queda sitio ni para la fruta del postre...",
+      "fr": "Pfiou, je suis rassasié. Je n'ai même plus de place pour un fruit en dessert...",
+      "pt": "Uff, estou tão cheio. Não tenho nem espaço para as frutas de sobremesa...",
+      "ru": "Ох, как же я объелся... Придётся в этот раз обойтись без фруктов...",
+      "id": "Fiuh, kenyangnya! Aku sudah tidak kuat lagi buat makan hidangan buah pencuci mulutnya kali ini ....",
+      "th": "เฮ้อ อิ่มจัง แม้แต่ผลไม้หลังอาหารก็กินไม่ลงแล้วล่ะ...",
+      "vi": "Phù, no quá, đến trái cây tráng miệng tôi cũng không ăn nổi nữa rồi..."
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其三",
+      "zht": "收到贈禮·其三",
+      "jp": "贈り物を受け取る·3",
+      "ko": "선물 획득·세 번째",
+      "en": "Receiving a Gift: III",
+      "de": "Geschenk erhalten III",
+      "es": "Al recibir un regalo (II)",
+      "fr": "Cadeau reçu (3)",
+      "pt": "Recebendo Presentes — III",
+      "ru": "Подарок III",
+      "id": "Menerima Hadiah: III",
+      "th": "ได้รับของขวัญ - 3",
+      "vi": "Nhận Được Quà III"
+    },
+    "line": {
+      "zhs": "竟然是连我都应付不来的食物。唔…这下可难办了。",
+      "zht": "竟然是連我都應付不來的食物。唔…這下可難辦了。",
+      "jp": "このボクですら苦手な料理だなんて。うぅ…困っちゃったな。",
+      "ko": "나조차도 먹기 힘든 음식이라니. 음… 이것 참 곤란한걸",
+      "en": "I can't believe it, but I don't think I can stomach this... Oh boy... What a predicament.",
+      "de": "Überraschenderweise war es ein Gericht, das selbst ich nicht ertragen konnte. Nun ... Das ist eine schwierige Frage.",
+      "es": "No me lo creo ni yo, pero no creo que pueda con esto... Ay... qué dilema.",
+      "fr": "Je n'arrive pas à le croire, mais je pense que je ne vais pas y arriver... Oh là là... Quelle situation fâcheuse.",
+      "pt": "Afinal acho que não gosto desse tipo de comida... Hmm... Que situação difícil.",
+      "ru": "Поверить не могу, но, кажется, я не смогу это переварить. Ох, какая неприятная ситуация...",
+      "id": "Uh, oh ... Sulit dipercaya, tapi aku sungguh tidak sanggup menyantap makanan ini. Uhhh teman, gimana dong?",
+      "th": "เป็นอาหารที่แม้แต่ฉันก็รับมือไม่ไหว ฮืม... ยากแล้วล่ะ",
+      "vi": "Món ăn mà ngay cả tôi cũng không giải quyết được. Hmm... Vậy thì khó giải quyết rồi đây."
+    }
+  },
+  {
+    "title": {
       "zhs": "生日…",
       "zht": "生日…",
       "jp": "誕生日…",

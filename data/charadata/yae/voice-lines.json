@@ -43,7 +43,7 @@
       "fr": "Bavardage - Écriture",
       "pt": "Bate-papo - Criatividade ao Escrever",
       "ru": "Поболтаем: Литературное творчество",
-      "id": "Berbincang: Tulisan Kreatif",
+      "id": "Mengobrol: Tulisan Kreatif",
       "th": "แชท - สร้างสรรค์งานเขียน",
       "vi": "Nói chuyện phiếm - Sáng Tác"
     },
@@ -75,7 +75,7 @@
       "fr": "Bavardage - Récits",
       "pt": "Bate-papo - Histórias",
       "ru": "Поболтаем: Истории",
-      "id": "Berbincang: Cerita",
+      "id": "Mengobrol: Cerita",
       "th": "แชท - เนื้อเรื่อง",
       "vi": "Nói chuyện phiếm - Câu Chuyện"
     },
@@ -107,7 +107,7 @@
       "fr": "Bavardage - Le monde des mortels",
       "pt": "Bate-papo - Mundo Mortal",
       "ru": "Поболтаем: Бренный мир",
-      "id": "Berbincang: Dunia Manusia",
+      "id": "Mengobrol: Dunia Manusia",
       "th": "แชท - แดนมนุษย์",
       "vi": "Nói chuyện phiếm - Trần Thế"
     },
@@ -246,8 +246,8 @@
       "ko": "좋은 아침. 기운이 없어 보이네. 어제 잘 못 잤어? 어머, 설마 간밤에 나쁜 짓이라도 하러 갔다 왔니?",
       "en": "Morning. You look awfully drowsy, didn't you sleep well? Tsk-tsk, come on then, what is it? What mischief were you up to last night, hmm?",
       "de": "Morgen, hmm? Warum siehst du so müde aus? Hast du nicht gut geschlafen? Ah, du warst gestern Abend sehr beschäftigt, oder?",
-      "es": "#Buenos días. Te veo muy adormilad{F#a}{M#o}, ¿acaso no dormiste bien? *Tch*, vamos, confiesa, ¿qué travesuras estuviste haciendo anoche, eh?",
-      "fr": "#Bonjour, tu as l'air {M#tout endormi}{F#toute endormie}. Tu n'as pas passé une bonne nuit{NON_BREAK_SPACE}? Tss, allez, dis-moi{NON_BREAK_SPACE}? Qu'est-ce que tu as fait la nuit dernière, hmm{NON_BREAK_SPACE}?",
+      "es": "#Buenos días. Te veo muy adormilad{F#a}{M#o}. ¿Acaso no dormiste bien? *Tch*, vamos, confiesa, ¿qué travesuras estuviste haciendo anoche, eh?",
+      "fr": "#Bonjour, tu as l'air {M#tout endormi}{F#tout endormie}. Tu n'as pas passé une bonne nuit{NON_BREAK_SPACE}? Tss, allez, dis-moi{NON_BREAK_SPACE}? Qu'est-ce que tu as fait la nuit dernière, hmm{NON_BREAK_SPACE}?",
       "pt": "#Bom dia. Você parece bem sonolent{F#a}{M#o}, não dormiu bem? Tsc-tsc, o que você andou fazendo ontem à noite?",
       "ru": "#Утречка. Ты ужасно сонн{F#ая}{M#ый}, ты плохо спал{F#а}? В чём дело? Творил{F#а} пакости прошлой ночью?",
       "id": "Pagi. Kamu kelihatannya ngantuk sekali, tidurmu kurang nyenyak ya? Ck, ck, ck kenapa bisa begitu? Kamu bikin ulah apa lagi tadi malam, hmm?",
@@ -283,7 +283,7 @@
       "pt": "Hmm... Urgh, que dor de cabeça. O que devo comer para o almoço? Não quero Tofu Frito novamente, prefiro comer algo mais leve hoje. Já sei! Faz um tempo que não vejo a garota da Comissão Yashiro, vou pedir para ela nos preparar algo para comer.",
       "ru": "Хм... Как же сложно. Что бы съесть на обед? Только не жареный тофу, хочу чего-нибудь полегче. А, знаю. Давненько я не видела ту девочку из комиссии Ясиро. Давай попросим её приготовить для нас что-нибудь.",
       "id": "Hmm ... aku jadi pusing. Makan apa ya nanti siang? Aku tidak mau makan tahu goreng lagi, hari ini ingin yang tidak asin. Ah, benar juga. Sudah lama tidak lihat si anak gadis Yashiro Commission. Kita ke sana yuk, minta dia bikin makanan.",
-      "th": "เฮ้อ~ ปวดหัวจริง ๆ เที่ยงนี้จะกินอะไรดีนะ? เต้าหู้ทอดก็กินจนเบื่อล่ะ อยากกินอะไรที่รสชาติอ่อน ๆ หน่อย จะว่าไปแล้ว ฉันไม่เจอสาวน้อยจากสำนัก Yashiro ตั้งนานแล้ว งั้นเรากินขนมหวานที่เธอทำกันดีมั้ย",
+      "th": "เฮ้อ~ ปวดหัวจริง ๆ เที่ยงนี้จะกินอะไรดีนะ? เต้าหู้ทอดก็กินจนเบื่อละ อยากกินอะไรที่รสชาติอ่อน ๆ หน่อย จะว่าไปแล้ว ฉันไม่เจอสาวน้อยจากสำนัก Yashiro ตั้งนานแล้ว งั้นเราไปกินขนมหวานที่เธอทำกันดีมั้ย",
       "vi": "Chậc... nhức đầu quá, trưa nay ăn gì nhỉ? Đậu phụ rán thì ngán rồi, muốn ăn cái gì đó thanh đạm. Nói ra thì đã lâu rồi không gặp tiểu cô nương của Hiệp Hội Yashiro, hay là chúng ta đi ăn điểm tâm của cô ta làm nhé."
     }
   },
@@ -374,7 +374,7 @@
       "ko": "영원이란 건 지금 갖고 있는 걸 잃지 않는 거야. 다른 관점으로 보면, 더 많은 걸 손에 넣을 가능성도 포기하는 셈이지. 하지만 세상일이 다 그렇듯이, 모든 걸 손에 넣을 순 없어",
       "en": "Eternity means never having to let go of what you already have. But on the other hand, it also means giving up on all other possibilities. That's just the way of the world... No one can have everything.",
       "de": "Ewigkeit bedeutet, dass du nie auf das verzichten musst, was du schon hast. Aber auf der anderen Seite bedeutet es auch, dass du alle anderen Möglichkeiten aufgibst. So ist die Regel der Welt ... Keiner kann alles haben.",
-      "es": "La eternidad es no tener que soltar lo que ya tienes. Pero, por otro lado, también es renunciar a otras posibilidades. Así es como funciona el mundo... No se puede tenerlo todo.",
+      "es": "La eternidad significa no tener que dejar atrás lo que ya tienes. Pero, por otro lado, tienes que renunciar a otras posibilidades. Así es como funciona el mundo... No se puede tenerlo todo.",
       "fr": "L'éternité signifie ne jamais devoir abandonner ce qu'on a. Mais d'un autre côté, cela signifie aussi renoncer à toutes les autres possibilités. C'est comme ça que fonctionne le monde... On ne peut pas tout avoir.",
       "pt": "Eternidade significa nunca soltar o que você já tem. Mas, por outro lado, também significa renunciar a todas as outras possibilidades. É simplesmente assim que o mundo funciona... Não tem como se ter tudo.",
       "ru": "Вечность означает, что никогда не придётся расставаться с тем, что мы имеем. Но, с другой стороны, это также означает отказ от возможности получить что-то новое. Так уж устроен мир... Нельзя получить всё и сразу.",
@@ -436,13 +436,13 @@
       "zht": "#無聊，這本也無聊透頂…啊呀，這些人都是為了什麼才成為作家的。欸，對了，不如{F#妳}{M#你}把自己的經歷寫下來投給八重堂吧，感覺一定能給我一點樂…一定能大受歡迎吧。",
       "jp": "つまらぬ、この本もあの本も、実につまらぬ。はぁ…こやつらは一体どのようにして作家になったのじゃ。そうじゃ、汝の経歴を書き下ろし、八重堂に送ってみてはどうじゃ？きっと妾が楽し…きっとみなに大受けするじゃろう。",
       "ko": "재미없어. 이 책도 따분하기 그지없군. 휴, 이 사람들은 대체 왜 작가가 된 거야? 참, 네 경험을 써서 야에 출판사에 투고해 볼래? 나도 재미 좀 볼… 분명 잘 팔리겠지",
-      "en": "Boring. Utterly boring... Ugh, what could have possibly persuaded these people to become authors? Say, why don't you write out your story and submit it to Yae Publishing House? I'm sure that would keep me amused— Ahem, I'm sure it would be a best-seller.",
+      "en": "Boring. Utterly boring... Ugh, what could have possibly persuaded these people to become authors? Say, why don't you write out your story and submit it to Yae Publishing House? I'm sure that would keep me amused— Ahem, I mean, I'm sure it would be a best-seller.",
       "de": "Langweilig, völlig langweilig ... Ts, was hat diese Leute bloß dazu bewogen, Schriftsteller zu werden? Sag mal, warum schreibst du nicht deine Geschichte auf und schickst sie an das Verlagshaus Yae? Ich bin mir sicher, dass es mich amüsieren würde ... Es muss ein großer Hit sein.",
       "es": "Qué aburrido... ¡Esto es verdaderamente aburrido! Arg, ¿qué es lo que motivó a estas personas a convertirse en escritores? Oye, ¿por qué no escribes tu propia historia y se la entregas a la Editorial Yae? Seguro que me entretendrí... *Ejem*, ¡seguro que sería un éxito en ventas!",
-      "fr": "Ennuyeux. Ennuyeux à mourir... Qu'est-ce qui a bien pu donner l'idée à ces gens d'écrire ? Dis, tu ne voudrais pas écrire ton histoire et l'envoyer à la Chambre Yae ? Je suis sûre que ça pourrait me... hum, que ça pourrait plaire à beaucoup de monde.",
+      "fr": "Ennuyeux. Ennuyeux à mourir... Qu'est-ce qui a bien pu donner l'idée à ces gens d'écrire ? Dis, tu ne voudrais pas écrire ton histoire et l'envoyer à la Chambre Yae ? Je suis sûre que ça pourrait me... Hum, que ça pourrait plaire à beaucoup de monde.",
       "pt": "Entediante. Extremamente entediante... Urg, o que poderia ter motivado essas pessoas se tornaram autores? Diga-me, por que você não escreve sua própria história e envia para a Editora Yae? Tenho certeza de que me deixaria entreti— *Cof*, digo, certamente venderia muito.",
       "ru": "Скучно. И тут тоже тоска зелёная... С чего эти люди решили стать писателями? Слушай, почему бы тебе не написать рассказ и не отправить его в издательский дом Яэ? Уверена, меня бы это позабавило... Кхм, точнее, я уверена, что это был бы бестселлер.",
-      "id": "Membosankan. Benar-benar membosankan ... Aih, kenapa sih orang-orang ini bisa mau jadi penulis? Coba, kenapa kamu tidak menulis dan mengirimkan ceritamu sendiri ke Yae Publishing House? Aku yakin itu akan jadi hiburan— *Ahem* Maksudnya, aku yakin bakal laku keras.",
+      "id": "Membosankan. Benar-benar membosankan ... Aih, kenapa sih orang-orang ini bisa mau jadi penulis? Coba, kenapa kamu tidak menulis dan mengirimkan ceritamu sendiri ke Yae Publishing House? Aku yakin itu akan jadi hiburan— *ehem* Maksudnya, aku yakin bakal laku keras.",
       "th": "น่าเบื่อ หนังสือเล่มนี้น่าเบื่อมากเลย... เฮ้อ อะไรชักจูงให้คนพวกนี้มาเป็นนักเขียนกันนะ อ้อ จริงสิ งั้นเธอลองเขียนประสบการณ์ของตัวเองส่งไปที่สำนักพิมพ์ Yae ดีมั้ย ฉันมั่นใจว่านั่นจะทำให้ฉันหายเบื่... อะแฮ่ม จะต้องเป็นที่นิยมแน่ ๆ",
       "vi": "Vô vị, quyển này cũng chán ngắt... Hừ, không biết mấy tên tác giả này đang làm gì nữa. À đúng rồi, hay là cưng viết những trải nghiệm của cưng ra sách rồi nộp cho tôi nhé, tôi cảm thấy vụ này khá thú vị đó... Nhất định sẽ bán chạy như tôm tươi."
     }
@@ -465,17 +465,17 @@
     },
     "line": {
       "zhs": "将自己封闭起来，或许会更快地遭受「磨损」。只有自己的世界，无他人作镜以对映，可是很可怕的事…你我共处之时，重要的就是互相观照哦。",
-      "zht": "#將自己封閉起來，或許會更快地遭受「磨損」。只有自己的世界，無他人作鏡以對映，可是很可怕的事…{F#妳}{M#你}我共處之時，重要的就是互相觀照哦。",
+      "zht": "#將自己封閉起來，或許會更快地遭受「磨損」。只有自己的世界，無他人作鏡以對映，可是很可怕的事…{F#妳}{M#你}我共處之時，重要的就是互相關照哦。",
       "jp": "己を閉じ込めれば、「摩耗」を早めてしまうやもしれぬ。自分一人しかおらぬ世界で、その目に誰も映さぬのは実に恐ろしいことじゃ…じゃから、汝と妾が一緒にいる時は、互いをその眼に映し合うのを忘れてはならぬぞ。",
       "ko": "자신을 가두면 더 빠르게 「마모」될지도 몰라. 거울로 삼을 수 있는 사람 하나 없이 혼자만 있는 세계가 얼마나 끔찍한데… 우리가 함께 있을 때 서로를 비춰주는 건 아주 중요한 일이야",
       "en": "Sealing yourself away from the rest of the world may only serve to accelerate the effects of erosion... Imagine, a world consisting of you and you alone, with no one else to reflect you back at yourself... how awful that would be. Whenever we are together, it is vital that we always shine a light for each other, okay? It's rather difficult to remain enlightened in the dark.",
       "de": "Wenn du dich vom Rest der Welt abschottest, kann das die Erosion nur noch beschleunigen. Stell dir eine Welt vor, die nur aus dir und dir allein besteht, ohne jemanden, der dir dein Wesen aufzeigt. Wie furchtbar wäre das ... Deswegen ist es wichtig, wenn wir zusammen sind und uns immer gegenseitig aufeinander aufmerksam machen.",
-      "es": "#Tal vez, aislarte del resto del mundo solo acelera los efectos de la erosión... Imagínate un mundo en el que estás tú sol{F#a}{M#o}, sin nadie en quien poder reflejarte... Eso sería algo horrible. Siempre que estemos junt{F#as}{M#os}, es importante que {F#una}{M#uno} sea la luz {F#de la otra}{M#del otro}, ¿de acuerdo? Es muy complicado ver con claridad en la oscuridad.",
+      "es": "#Tal vez, aislarte del resto del mundo solo acelera los efectos de la erosión... Imagínate un mundo en el que estás tú sol{F#a}{M#o}, sin nadie en quien poder reflejarte... Sería algo horrible. Siempre que estemos junt{F#as}{M#os}, es importante que {F#una}{M#uno} sea la luz {F#de la otra}{M#del otro}, ¿de acuerdo? Es muy complicado ver con claridad en la oscuridad.",
       "fr": "#S'isoler du monde ne peut qu'accélérer les effets de l'érosion... Imagine, un monde où tu serais {M#seul}{F#seule}, sans personne d'autre pour te permettre d'avoir une vision de toi-même... Ce serait vraiment horrible. Chaque fois qu'on est {M#réunis}{F#réunies}, il est essentiel qu'on se donne nos avis l'{M#un}{F#une} sur l'autre, d'accord ? C'est très difficile de garder un point de vue objectif quand on reste dans le noir.",
       "pt": "#Trancafiar-se longe do resto do mundo talvez apenas sirva para acelerar os efeitos da erosão... Imagine, um mundo que só existe você e nada além, sem nada para fazer você refletir sobre si mesmo... que horrível isso deve ser. Sempre que estivermos junt{M#o}{F#a}s, é importante sermos a luz {M#um do outro}{F#uma da outra}, tudo bem? É bem difícil ver claramente na escuridão.",
       "ru": "Изолирование себя от остального мира может только ускорить эрозию... Представь себе мир, где есть только ты, и никто не может послужить тебе «зеркалом», отражающим твои черты... Как это было бы ужасно. Мы вместе, и жизненно важно, чтобы мы служили друг другу путеводным светом. Довольно трудно оставаться просветлёнными в темноте.",
       "id": "Menyegel dirimu sendiri dari seisi dunia hanya akan mempercepat efek erosi ... Bayangkan, sebuah dunia yang di dalamnya cuma ada kamu sendiri, tanpa orang lain untuk merefleksikan dirimu ... ngeri sekali kan. Setiap kali kita bersama, sangat penting bagi kita untuk selalu menyinari satu sama lain, oke? Sulit untuk tetap mencerahkan diri di dalam kegelapan.",
-      "th": "การปิดกั้นตัวเอง อาจเป็นวิธีทำให้ตัวเอง \"สึกกร่อน\" ที่เร็วที่สุด โลกที่มีแค่ตัวเราเอง โดยไม่มีใครเป็นกระจกสะท้อนตัวเรากลับมา เป็นสิ่งที่น่ากลัวมากเหลือเกิน... เมื่อฉันและเธออยู่ด้วยกัน สิ่งสำคัญที่สุดนั้น คือช่วยสะท้อนตัวตนของกันและกันออกมาให้อีกฝ่ายได้เห็น",
+      "th": "การปิดกั้นตัวเอง อาจทำให้ตัวเอง \"สึกกร่อน\" ได้เร็วยิ่งกว่า โลกที่มีแค่ตัวเราเอง โดยไม่มีใครเป็นกระจกสะท้อนตัวเรากลับมา เป็นสิ่งที่น่ากลัวมากเหลือเกิน... เมื่อฉันและเธออยู่ด้วยกัน สิ่งสำคัญที่สุดนั้น คือการช่วยสะท้อนตัวตนของกันและกันออกมาให้อีกฝ่ายได้เห็น",
       "vi": "Giam cầm chính mình có lẽ là cách làm cho bản thân bị \"mài mòn\" nhanh nhất. Chỉ ở trong thế giới của mình, không có người khác để làm gương phản chiếu là một chuyện rất đáng sợ... Khi tôi và cưng ở bên nhau, điều quan trọng nhất là phải biết chăm sóc lẫn nhau đó."
     }
   },
@@ -507,7 +507,7 @@
       "pt": "Você está dizendo que... gosta de como eu visto minha Visão? Você certamente tem bom gosto para tesouros inestimáveis. Bem, aposto que você quer tocá-la, não é mesmo?",
       "ru": "#Говоришь... тебе нравится, как я ношу свой Глаз Бога? У тебя намётанный глаз. Держу пари, ты бы хотел{F#a} его погладить.",
       "id": "Kamu bilang ... kamu suka dengan caraku mengenakan Vision milikku? Kamu memang jagonya lihat harta ya. Nah, aku yakin kamu juga ingin coba mengelusnya.",
-      "th": "เธอบอกว่า... เธอชอบที่ฉันใส่ \"วิชั่น\" ใช่มั้ย? ตาถึงจริง ๆ เลยนะ งั้น...อยากลองจับดูหน่อยมั้ย?",
+      "th": "เธอบอกว่า... เธอชอบวิธีที่ฉันใส่ \"วิชั่น\" เป็นเครื่องประดับงั้นเหรอ? ตาถึงจริง ๆ เลยนะ งั้น...อยากลองจับดูหน่อยมั้ยล่ะ?",
       "vi": "Thích cách mà tôi đeo Vision sao? Có gu đấy, vậy... muốn sờ thử không?"
     }
   },
@@ -539,7 +539,7 @@
       "pt": "#Aqueça o óleo em uma frigideira em fogo médio. Adicione o tofu e reduza as chamas para fogo baixo. Cozinhe até ficar dourado, retire, então sirva ainda quente. Aí está, Tofu Frito. Não tem nada mais gostoso no mundo. Bem, eu te contei como fazer, não foi? Por que ainda está parad{M#o}{F#a} aqui?",
       "ru": "#Нагрей масло в кастрюле на среднем огне. Добавь тофу и уменьши огонь. Обжаривай до золотисто-коричневого цвета, вынь его, затем подавай горячим. Готово, жареный тофу. В этом мире нет ничего вкуснее. Ну, я же рассказала тебе рецепт? Тогда почему ты ещё не начал{F#a} готовить?",
       "id": "Panaskan minyak dalam wajan pakai api agak besar, masukkan tahu, lalu kecilkan api. Goreng sampai warnanya jadi kuning keemasan, angkat, lalu sajikan selagi hangat. Selesai deh, tahu goreng, alias Fried Tofu. Tidak ada lagi yang lebih enak di dunia ini. Nah, aku sudah ajari kamu cara buatnya, kan? Terus kenapa masih berdiri saja di sana?",
-      "th": "เมื่อน้ำมันเริ่มเดือด ให้ใส่เต้าหู้ลงไป แล้วหรี่ไฟลงเป็นไฟอ่อน ทอดจนเป็นสีเหลืองทองค่อยตักออกมาเสิร์ฟแบบร้อน ๆ ในโลกนี้ไม่มีอะไรที่อร่อยไปกว่าเต้าหู้ทอดอีกแล้ว เอ๋ ฉันบอกวิธีทำให้เธอไปหมดแล้ว ทำไมเธอถึงยังยืนอยู่ตรงนี้ล่ะ?",
+      "th": "เมื่อน้ำมันเริ่มเดือด ให้ใส่เต้าหู้ลงไป แล้วหรี่ไฟลงเป็นไฟอ่อน ทอดจนเป็นสีเหลืองทองค่อยตักออกมาเสิร์ฟแบบร้อน ๆ ในโลกนี้ไม่มีอะไรที่อร่อยไปกว่าเต้าหู้ทอดอีกแล้ว เอ๋ ฉันบอกวิธีทำให้เธอไปหมดแล้ว ทำไมเธอถึงยังมัวมายืนอยู่ตรงนี้อยู่อีกล่ะ?",
       "vi": "Đợi dầu sôi đến tám phần, thả trôi đậu phụ vào đó, rồi chỉnh lửa nhỏ lại, đợi vàng đều các mặt thì gắp ra. Nóng hổi giòn giòn, trên thế gian này còn gì tuyệt hơn chứ. Hửm, tôi đã nói cách làm ra rồi đấy, còn đứng ngây ra đó làm gì?"
     }
   },
@@ -571,7 +571,7 @@
       "pt": "Embora de vez em quando eu me canse de vê-la — não posso exatamente evitar isso no Grande Santuário Narukami, afinal de contas — meu destino está intimamente entrelaçado com a Sakura Sagrada.",
       "ru": "Хоть иногда я немного устаю от её вида, - ведь, в конце концов, я не могу избежать встречи с ней в Великом храме Наруками, - моя судьба тесно связана со Священной сакурой.",
       "id": "Meskipun kadang-kadang aku bosan melihatnya— karena mau bagaimana lagi, di Kuil Agung Narukami benda itu pasti kelihatan kan— Tapi, takdirku terjalin erat dengan pohon Sacred Sakura.",
-      "th": "เพราะตอนอยู่ที่ศาลเจ้า Grand Narukami แค่เงยหน้าขึ้นมอง ฉันก็เห็นมันได้ทุกวัน บางทีฉันก็รู้สึกเบื่อเหมือนกัน แต่ Sacred Sakura กลายเป็นสิ่งที่เกี่ยวพันกับโชคชะตาของชีวิตฉันแล้วล่ะ",
+      "th": "เพราะตอนอยู่ที่ศาลเจ้า Grand Narukami แค่เงยหน้าขึ้นมอง ฉันก็เห็นมันได้ทุกวัน บางทีฉันก็รู้สึกเบื่อเหมือนกัน แต่ Sacred Sakura ได้กลายเป็นสิ่งที่เกี่ยวพันกับโชคชะตาของชีวิตฉันไปแล้วล่ะ",
       "vi": "Tuy rằng ở Đền Narukami ngày nào ngẩng đầu lên cũng thấy được, đôi lúc cũng cảm thấy nhàm chán. Nhưng cây Anh Đào Thần đó dù sao cũng là vật gắn kết trong vận mệnh của tôi rồi."
     }
   },
@@ -603,7 +603,7 @@
       "pt": "Se trancar no Plano da Eutimia quando ela obviamente queria estar fora dele — é puramente cárcere privado intencional... Por outro lado, também é uma teimosia fofinha, não acha?",
       "ru": "Запираться в Царстве эвтюмии, когда она явно хочет выйти - это просто умышленное самоистязание, серьёзно... С другой стороны, пусть она и упрямая, но при этом довольно милая, тебе не кажется?",
       "id": "Mengunci dirinya sendiri di Plane of Euthymia ketika sebenarnya jelas-jelas dia ingin keluar— itu sih sengaja menyiksa diri namanya ... Tapi kalau dilihat dari sisi yang berbeda, dia itu keras kepala tapi lucu kan. Setuju tidak?",
-      "th": "เห็นได้ชัดเลยว่าเธออยากจะออกมา แต่กลับขังตัวเองไว้ในดินแดนแห่งใจที่บริสุทธิ์ เป็นการทรมานตัวเองชัด ๆ เลย... แต่ถ้ามองในมุมกลับกัน ก็น่ารักดีใช่มั้ยล่ะ",
+      "th": "เห็นได้ชัดเลยว่าเธออยากจะออกมา แต่กลับเอาแต่ขังตัวเองไว้ในดินแดนแห่งใจที่บริสุทธิ์ เป็นการทรมานตัวเองชัด ๆ เลย... แต่ถ้ามองในมุมกลับกัน มันก็น่ารักดีใช่มั้ยล่ะ",
       "vi": "Rõ ràng là muốn ra ngoài, nhưng lại cứ tự nhốt mình lại, đúng là thích tự làm khổ mình mà... Nhưng nhìn từ góc độ khác thì đó cũng là nét đáng yêu đúng không!"
     }
   },
@@ -635,7 +635,7 @@
       "pt": "#O malandrinho da Comissão Yashiro... ele sempre foi imprevisível, até mesmo quando criança. Não se deixe enganar pelo seu sorriso acolhedor. Não tem como saber que tipos de planos diabólicos está se passando pela sua cabeça — é realmente irritante... O que você quer dizer com \"astuto feito uma raposa\"? Hnf, se você está tentando insinuar que eu e ele somos a mesma coisa, você está completamente enganad{M#o}{F#a}.",
       "ru": "Подлец из Ясиро... Он всегда был непредсказуемым, даже в детстве. Не поддавайся его тёплой улыбке. Неизвестно, какой коварный план зреет у него в голове. Это просто сводит с ума... Что ты имеешь в виду, говоря «хитрый, как лиса»? Хм, если ты пытаешься намекнуть, что мы с ним в чём-то похожи, то сильно ошибаешься.",
       "id": "Si berandalan Yashiro ya ... dia memang susah ditebak, bahkan sudah sedari kecil dulu. Hati-hati dengan senyum manisnya. Tidak ada yang tahu rencana licik apa yang sedang dia pikirkan dalam kepalanya, benar-benar menjengkelkan ... Apa maksudnya \"cerdik seperti rubah\"? Heh, kalau kamu mau bilang dia mirip sama aku, kamu salah besar.",
-      "th": "เจ้าคนของสำนัก Yashiro นั่น เป็นคนคาดเดาไม่ได้ตั้งแต่เด็ก อย่าไปหลงรอยยิ้มอันอบอุ่นของเขาเข้าล่ะ เพราะไม่รู้ว่าเขาวางแผนอะไรไว้ในใจรึเปล่า น่าโมโหซะจริง... ฮึ ฉันไม่ใช่คนแบบเดียวกับเขา จะมาพูดว่าแบบเดียวกันได้ไง",
+      "th": "เจ้าคนของสำนัก Yashiro นั่น เป็นคนที่คาดเดาไม่ได้ตั้งแต่เด็กแล้ว อย่าไปหลงกลรอยยิ้มอันอบอุ่นของเขาเข้าล่ะ เพราะไม่รู้ว่าเขาจะวางแผนอะไรไว้ในใจบ้าง ไม่ชอบใจเอาซะเลย... ฮึ ฉันไม่ใช่คนแบบเดียวกับเขาสักหน่อย จะมาบอกว่าเป็นพวกเดียวกันได้ยังไง",
       "vi": "Tên tiểu tử của Hiệp Hội Yashiro đó sao, từ nhỏ đã không an phận rồi, đừng để điệu cười của hắn đánh lừa, không ai biết trong thâm tâm của hắn mưu tính chuyện gì đâu, khó ưa... Hứ, tôi với hắn không cùng một kiểu người, nên cũng chả có gì hay ho để nói cả."
     }
   },
@@ -667,7 +667,7 @@
       "pt": "Eu gosto muito da senhorita da Comissão Yashiro. Ela lida muito bem com todos os assuntos que se apresentam a ela. Infelizmente, na maior parte do tempo é um trabalho ingrato. Uma pena. Se ela não fosse integrante do Clã Kamisato, eu a teria trazido para a Editora Yae há muito tempo.",
       "ru": "Мне и правда очень нравится эта девочка из комиссии Ясиро. Она ловко справляется со всеми трудностями, с которыми сталкивается. К сожалению, зачастую это неблагодарная работа. Жаль. Если бы она не была из клана Камисато, я бы уже давно забрала её в издательский дом Яэ.",
       "id": "Ah, aku memang sayang sekali sama si anak gadis Yashiro Commission. Dia cekatan dalam menangani segala macam urusan. Sayangnya, tidak banyak yang tahu kalau dia kerja keras, kasihan ya. Kalau dia bukan anggota Klan Kamisato, aku pasti sudah tarik dia ke Yae Publishing House dari dulu.",
-      "th": "ฉันชอบสาวน้อยของสำนัก Yashiro มาก ๆ เลย เธอจัดการทุกเรื่องได้อย่างเรียบร้อย แต่สำนัก Yashiro มักจะทำเป็นไม่เห็นคุณค่าของเธอเสมอ น่าสงสารจริง ๆ ถ้าเธอไม่ได้เป็นคนของตระกูล Kamisato นะ ฉันดึงตัวเธอมาที่สำนักพิมพ์ Yae ตั้งนานแล้วล่ะ",
+      "th": "ฉันชอบสาวน้อยของสำนัก Yashiro มาก ๆ เลย เธอจัดการทุกเรื่องได้อย่างเป็นระเบียบเรียบร้อย แต่อยู่ในสำนัก Yashiro เธอมักจะได้ทำแต่งานที่เปลืองแรงโดยเปล่าประโยชน์อยู่เสมอ น่าสงสารจริง ๆ ถ้าเธอไม่ได้เป็นคนของตระกูล Kamisato นะ ฉันคงดึงตัวเธอมาที่สำนักพิมพ์ Yae ตั้งนานแล้วล่ะ",
       "vi": "Tôi rất thích tiểu cô nương của Hiệp Hội Yashiro đó, làm việc gì cũng rất nề nếp. Nhưng mà Hiệp Hội Yashiro lại luôn làm những việc phí công vô ích, đáng thương. Nếu cô ấy không phải là người của nhà Kamisato là tôi đã lôi kéo về Nhà Xuất Bản Yae rồi."
     }
   },
@@ -699,7 +699,7 @@
       "pt": "Não é a tengu mais inteligente de todas — ela certamente não puxou a mente brilhante do seu papai tengu, isso é certeza. *Suspira* Como posso dizer? Acho que ser direta sem poupar palavras tem suas vantagens... mas eu certamente espero que da próxima vez que ela venha visitar o santuário, ela fique calada. Eu tenho coisas melhores para fazer da vida do que ficar respondendo suas perguntas incessantes sobre a Ei.",
       "ru": "Не самая сообразительная тэнгу в лесу. Она не унаследовала блестящий ум папочки, это точно. Эх, как бы это сказать? Я полагаю, что прямота и отсутствие такта имеют свои преимущества... Но я очень надеюсь, что в следующий раз, когда она посетит храм, то будет держаться подальше. У меня есть дела поважнее, чем отвечать на её непрекращающиеся вопросы об Эи.",
       "id": "Dia bukan tengu yang paling pintar di gunung, otak cerdik papa tengu tidak turun ke dia. Gimana yah ngomongnya? Bicara blak-blakan tanpa basa-basi berlebihan memang ada bagusnya, tapi kuharap kali berikutnya dia ke kuil, dia tidak ganggu aku terus. Aku banyak urusan, mana bisa buang waktu buat jawab pertanyaan dia tentang Ei terus.",
-      "th": "ไม้โง่ ๆ ท่อนนี้ สู้ไม่ได้กับความฉลาดของพ่อเท็งงุของเธอเลย... เอ จะว่ายังไงดี ถึงแม้ว่าการเป็นคนตรงไปตรงมาจะเป็นข้อดี แต่ฉันหวังว่าครั้งต่อไปเธอจะไม่ขวางทางฉันที่ศาลเจ้า และถามเรื่อง Ei อีกนะ",
+      "th": "ไม้โง่ ๆ ท่อนนี้น่ะนะ สู้ไม่ได้กับความเฉลียวฉลาดของพ่อเท็งงุของเธอเลยสักนิด... เฮ้อ จะว่ายังไงดีล่ะ ถึงแม้ว่าการเป็นคนตรงไปตรงมาก็มีข้อดีอยู่เหมือนกัน แต่ฉันก็หวังว่าครั้งหน้าเธอจะไม่มาตามราวีฉันที่ศาลเจ้า แล้วเอาแต่ถามเกี่ยวกับเรื่องของ Ei อีกนะ",
       "vi": "Khúc gỗ ngốc nghếch đó sao, thua xa người cha Tengu đầu óc nhạy bén của cô ta... Ây da, nói sao nhỉ, tuy rằng ngay thẳng chính trực cũng có điểm tốt của nó, nhưng mà hy vọng lần sau đừng có đến đền thần chặn đường tôi mà truy hỏi chuyện của Ei nữa."
     }
   },
@@ -731,7 +731,7 @@
       "pt": "Os fogos de artifício dos Naganohara certamente valem a espera todos os anos. Dizem por aí que ela recentemente criou o maior rebuliço dentre a Comissão Tenryou ao soltar fogos por toda a parte. Heh, tenho certeza que os membros do Clã Kujou ficaram vermelhos de raiva... uma pena que não pude estar lá para ver por mim mesma.",
       "ru": "Фейерверки Наганохары стоят того, чтобы ждать их каждый год. Ходят слухи, что недавно она вызвала настоящий переполох в комиссии Тэнрё, устроив большой фейерверк. Хех, уверена, что члены клана Кудзё просто побагровели от ярости... Жаль, что мне не удалось увидеть это своими глазами.",
       "id": "Kembang api buatan Naganohara memang layak dinantikan setiap tahun. Kabarnya, baru-baru ini dia bikin keributan di Tenryou Commission dengan cara menyalakan kembang api di semua tempat. Heh, aku yakin muka para anggota Klan Kujou jadi merah semua karena menahan marah ... dan sayangnya aku tidak bisa saksikan langsung.",
-      "th": "ดอกไม้ไฟของ Naganohara เป็นหนึ่งในของหายากที่คุ้มค่าแก่การรอคอยในทุกปี ว่ากันว่าหลายวันก่อนเธอยังสร้างความวุ่นวายให้กับสำนัก Tenryou ซะยกใหญ่ โดยการเที่ยวจุดดอกไม้ไฟไปทั่วทุกที่ ฮึ ฉันว่าพวกคนของตระกูล Kujou คงจะโกรธจนหน้าดำหน้าแดงแน่ น่าเสียดายจริง ๆ ที่ฉันไม่ได้เห็นฉากนั้นกับตาตัวเอง",
+      "th": "ดอกไม้ไฟของ Naganohara เป็นหนึ่งในของหายากที่คุ้มค่าแก่การรอคอยในทุกปี ว่ากันว่าหลายวันก่อนเธอได้สร้างความวุ่นวายให้กับสำนัก Tenryou ซะยกใหญ่ โดยการเที่ยวจุดดอกไม้ไฟไปทั่วทุกที่ ฮึ ฉันว่าพวกคนของตระกูล Kujou คงจะโกรธจนหน้าดำหน้าแดงแน่ น่าเสียดายจริง ๆ ที่ฉันไม่ได้เห็นฉากนั้นกับตาตัวเอง",
       "vi": "Pháo hoa của Naganohara à, cũng là một trong những thứ hiếm hoi đáng để chờ đợi hàng năm. Nghe nói dạo trước cô ấy còn đại náo Hiệp Hội Tenryou, bắn pháo hoa ở khắp nơi nữa. Hơ, người của nhà Kujou chắc là tức tới xanh mặt luôn, thật đáng tiếc quá, không được tận mắt chứng kiến cảnh đó."
     }
   },
@@ -795,7 +795,7 @@
       "pt": "Essas Sacerdotisas Divinas parecem estar ficando cada vez mais fofas a cada geração. Me pergunto como ela deve parecer enquanto executa a Dança Divina da Paz... talvez até mesmo pequenos cardumes dancem em volta dela enquanto ela rodopia. Se ela estiver em algum momento procurando uma sacerdotisa experiente para aprender, eu ficaria mais do que feliz de compartilhar algumas dicas com ela... Hehe, desde que ela me peça com jeitinho, é claro.",
       "ru": "Божественные жрицы, кажется, становятся всё симпатичнее с каждым поколением. Интересно, как она выглядит, исполняя танец Божественного покоя... Возможно, когда она крутится вокруг своей оси, рядом даже появляются маленькие косяки рыб. Если ей когда-нибудь понадобится более опытная жрица, у которой можно было бы поучиться, я с радостью поделюсь с ней знаниями... Хе-хе, если она, конечно, вежливо меня попросит.",
       "id": "Pemimpin Suci mereka semakin ke sini semakin imut loh. Aku jadi penasaran dia bakal seperti apa kalau menarikan tarian kagura ... Mungkin sekumpulan ikan kecil akan mengitarinya saat dia berputar. Kalau dia mau belajar dari miko yang lebih berpengalaman, aku akan dengan senang hati berbagi tips dengannya ... Hehe, asal dia sopan saja mintanya.",
-      "th": "มิโกะเดี๋ยวนี้ น่ารักขึ้นเรื่อย ๆ เลยนะ ไม่รู้ว่าตอนที่เธอแสดงการรำคางุระจะเป็นยังไงนะ บางทีฝูงปลาก็หมุนตามเธอด้วย แค่เธอยินดีเรียกฉันว่าพี่มิโกะ ฮิฮิ ฉันก็ยินดีที่จะแบ่งปันประสบการณ์ให้อยู่แล้ว",
+      "th": "มิโกะเดี๋ยวนี้ น่ารักขึ้นเรื่อย ๆ เลยนะ ไม่รู้ว่าตอนที่เธอแสดงการรำคางุระจะเป็นยังไงนะ บางทีฝูงปลาอาจจะหมุนตามเธอไปด้วยก็ได้ละมั้ง ขอแค่เธอยินดีเรียกฉันว่าพี่มิโกะสักคำ ฮิฮิ... ฉันก็ยินดีที่จะแบ่งปันประสบการณ์ให้อยู่แล้วล่ะ",
       "vi": "Pháp sư ngày nay càng ngày càng dễ thương. Không biết cô bé đó nhảy Vũ Điệu Thái Bình sẽ ra sao nhỉ, nói không chừng sẽ có đàn cá bơi xung quanh đó. Nhưng mà chỉ cần cô ấy chịu gọi một tiếng chị Miko, hơ hơ... tôi sẽ đồng ý chia sẻ một số kinh nghiệm của mình."
     }
   },
@@ -822,12 +822,12 @@
       "ko": "그때부터 그게 골치 아프다고 생각했어. 하지만 그녀는 자기가 만든 것이니 건드리고 싶지 않다고 했지. 이렇게 될 줄 알았다면 그때 몰래 처리해버릴걸. 지금? 하하… 지금은 너무 늦었어",
       "en": "I thought it was a disaster waiting to happen at the time, but she insisted that she wasn't going to lift a finger against the object of her own creation. Had I known how things would unfold, I would have simply disposed of it without her knowing. Hmm? What about now? Hehe... Well, we're no longer waiting for the disaster to happen, are we?",
       "de": "Ich dachte damals schon, dass es ein Problem war, aber sie sagte, sie wolle es nicht zerstören, weil es ihre eigene Kreation war. Wenn ich gewusst hätte, dass es so sein würde, hätte ich es genauso gut loswerden können, ohne es ihr zu sagen. Jetzt? Nun ... jetzt ist die Situation heikel geworden.",
-      "es": "En aquel entonces, pensé que sería un desastre que podría ocurrir en cualquier momento, pero ella insistió en que no iba a mover un dedo contra el objeto que ella misma creó. De haber sabido cómo irían las cosas, me habría deshecho de él sin que ella lo supiera. ¿Eh? ¿Que qué va a pasar ahora? Jeje, bueno, ya no estamos esperando a que ocurra un desastre, ¿no?",
+      "es": "En aquel entonces, pensé que sería un desastre que podría ocurrir en cualquier momento, pero ella insistió en que no iba a mover un dedo contra el objeto que ella misma había creado. De haber sabido cómo irían las cosas, me habría deshecho de él sin que lo supiera. ¿Eh? ¿Que qué va a pasar ahora? Jeje, bueno, ya no estamos esperando a que ocurra un desastre, ¿no?",
       "fr": "Je pensais qu'on courait droit à la catastrophe, mais elle a insisté sur le fait qu'elle n'allait pas lever le petit doigt contre l'objet de sa création. Si j'avais su comment ça allait se passer, je m'en serais débarrassée dans son dos. Hmm ? Et maintenant ? Héhé... Eh bien, on n'attend plus de catastrophe, n'est-ce pas ?",
       "pt": "Na época, achei que era um desastre prestes a acontecer, mas ela insistiu que ela não iria levantar um só dedo contra os objetos de sua própria criação. Se eu soubesse como as coisas teriam se desenrolado, eu teria simplesmente me livrado sem ela saber. Hmmm? E quanto a agora? Hehe... bem, não estamos mais esperando por um desastre acontecer, não é mesmo?",
       "ru": "Я ещё тогда думала, что из-за него могут возникнуть проблемы. Но она настаивала, что и пальцем не шевельнёт против своего собственного творения. Если бы я знала, как всё обернётся, я бы просто избавилась от него без её ведома. Хм? А что сейчас? Ну, сейчас проблемы уже возникли.",
       "id": "Waktu itu aku sudah tahu kalau ini bencana yang tinggal tunggu waktu saja, tapi dia tetap tidak mau menyentuh buatannya itu. Kalau saja aku tahu perkembangannya jadi seperti ini, mungkin dulu sudah kubuang saja dia diam-diam. Hmm ... kalau sekarang? Hehe ... yah, kita sudah bukan lagi menunggu bencananya kejadian kan.",
-      "th": "ตอนนั้นฉันคิดว่านั่นเป็นปัญหาอย่างหนึ่ง แต่เธอกลับบอกว่ามันเป็นสิ่งที่เธอสร้างขึ้นและเธอไม่ต้องการปล่อยมันไป ถ้ารู้ว่ามันจะเป็นแบบนี้ตั้งแต่แรก สู้ฉันจัดการโดยไม่บอกเธอจะยังดีเสียกว่า แล้วตอนนี้ล่ะ? ฮึ...ตอนนี้ กลายเป็นปัญหาซะแล้วไง",
+      "th": "ตอนนั้นฉันก็คิดอยู่แล้วว่ามันจะต้องเป็นปัญหาแน่ แต่เธอกลับบอกว่ามันเป็นสิ่งที่เธอสร้างขึ้นและเธอไม่อยากลงมือกับมัน ถ้ารู้ว่ามันจะเป็นแบบนี้ตั้งแต่แรก สู้ฉันจัดการโดยไม่บอกเธอยังจะดีเสียกว่า แล้วตอนนี้ล่ะ? ฮึ...ตอนนี้ ก็ได้กลายเป็นปัญหาเข้าแล้วไง",
       "vi": "Tôi đã sớm cảm thấy hắn là một mối nguy rồi, nhưng cô ấy bảo dù sao cũng là tạo vật do mình làm ra, không nỡ ra tay. Biết trước như vậy thì khi đó tôi đã lén lén xử hắn luôn rồi. Giờ sao? Hờ... giờ thì phiền phức hơn nhiều rồi."
     }
   },
@@ -854,12 +854,12 @@
       "ko": "아~ 오니족의 그 이상한 녀석? 하, 쿠죠 가문에 말썽을 많이 피웠다고 들었어. 텐료 봉행이 풍기를 해친다는 이유로 그가 거리에 적은 글을 지우려고 했지만, 내가 사람을 시켜서 남겨뒀어. 후후, 그렇게 재밌는 녀석은 요즘 보기 드물잖아",
       "en": "Ah, the oddball oni. Heh, I hear that he's been quite a pain for the Kujou Clan. The Tenryou Commission wanted to remove his messages on the bulletin board, claiming that they were \"harmful to public order.\" I made quite sure they stayed put, haha. He's an entertaining character... you don't often see oni like him in this day and age.",
       "de": "Oh, ja. Dieser seltsame Oni. Ich habe gehört, dass er eine lange Geschichte mit dem Kujou-Klan hat. Die Tenryou-Verwaltung wollte seine Nachrichten am Schwarzen Brett wegwischen, weil sie angeblich die öffentliche Ordnung gestört haben. Ich war es, die es geschafft hat, sie aufzuhalten. Hehe, einen interessanten Oni wie ihn sieht man heutzutage nicht mehr oft.",
-      "es": "Ah, el oni excéntrico. Escuché que le ha causado bastantes problemas al clan Kujou. La Comisión Tenryou quiso quitar sus mensajes de su tablón de anuncios porque “alteraban el orden público”. Yo me aseguré de que esos mensajes se mantuvieran ahí, jaja. Es un oni muy divertido. En estos tiempos, ya no se ven muchos como él.",
+      "es": "Ah, el oni excéntrico. Escuché que le ha causado bastantes problemas al clan Kujou. La Comisión Tenryou quiso quitar sus mensajes del tablón de anuncios porque “alteraban el orden público”. Yo me aseguré de que esos mensajes se mantuvieran ahí, jaja. Es un oni muy divertido. En estos tiempos, ya no se ven muchos como él.",
       "fr": "Ah, l'Oni excentrique. J'ai entendu dire qu'il avait causé pas mal de problèmes au Clan Kujou. La Commission administrative a voulu supprimer ses messages sur les panneaux, en prétendant qu'ils étaient « nuisibles à l'ordre public ». J'ai fait en sorte qu'ils restent, haha. C'est un personnage divertissant... Ce n'est pas tous les jours qu'on voit des Oni comme lui.",
       "pt": "Ah, o oni com uns parafusos a menos. Heh, ouvir dizer que tem sido bem problemático para o Clã Kujou. A Comissão Tenryou quis remover as mensagens dele do quadro de avisos, dizendo que eram \"perigosas para a ordem pública\". Fiz questão de fazer com que ficassem lá, haha. Ele é um sujeito interessante... não se costuma mais ver oni como ele hoje em dia.",
       "ru": "Ах, чудак-óни. Хех, я слышала, что он доставил много неприятностей клану Кудзё. Комиссия Тэнрё хотела снять его сообщения с доски объявлений, утверждая, что они «наносят ущерб общественному порядку». Я позаботилась о том, чтобы они остались нетронутыми, ха-ха. Он такой забавный... В наши дни нечасто встретишь таких óни, как он.",
       "id": "Ah, si oni antik ya. Hehe, kudengar dia suka sekali bikin kesal Klan Kujou. Tenryou Commission ingin mencabut pesan-pesannya dari papan buletin, karena semuanya \"membahayakan ketertiban umum\". Dan akulah yang memastikan supaya pesan tersebut tetap nempel di sana, haha. Dia punya pribadi yang menarik ... zaman sekarang sudah jarang ada oni seperti dia.",
-      "th": "เขาอะนะ เป็นแค่คนประหลาดเผ่าโอนิ ฮึ ได้ยินมาว่าเขาสร้างปัญหาให้ตระกูล Kujou ไม่น้อยเลย คนของสำนัก Tenryou ต้องการลบข้อความของเขาบนกระดานข่าวตามท้องถนนเพราะทำลายศีลธรรมอันดีงาม ฉันเลยสั่งให้คนไปเก็บมา เหอะ โอนิน้อยที่น่าสนใจขนาดนี้ นานทีปีหนจะเจอสักคนนะ",
+      "th": "เขาน่ะเหรอ เจ้าคนประหลาดของเผ่าโอนิ ฮึ ได้ยินมาว่าเขาสร้างปัญหาให้ตระกูล Kujou ไม่น้อยเลย คนของสำนัก Tenryou ต้องการลบข้อความของเขาบนกระดานข่าวสารตามท้องถนนเพราะมันทำลายภูมิทัศน์อันงดงาม ฉันเลยสั่งให้คนไปเก็บมา ฮึ โอนิน้อยที่น่าสนใจขนาดนี้ นานทีปีหนจะเจอสักคนนะ",
       "vi": "Tên nhóc Oni đó sao, ừm, nghe nói hắn thích kiếm chuyện với nhà Kujou lắm. Người của Hiệp Hội Tenryou hay lấy lý do giữ gìn thuần phong mỹ tục mà xóa đi những tin nhắn mà hắn viết, là tôi đã sai người đi giữ lại đó. Chậc, tên tiểu quỷ thú vị như vậy càng ngày càng hiếm thấy rồi."
     }
   },
@@ -891,7 +891,7 @@
       "pt": "Ele certamente tem uma cauda bonita. Embora... a minha seja mais fofinha. Hehe...",
       "ru": "У него красивый хвост. Правда... мой всё же мягче.",
       "id": "Ekornya memang cantik kan. Tapi ... punyaku lebih lembut loh.",
-      "th": "หางของ Gorou มีสีที่สวยงามมาก แต่...หางของฉันนุ่มกว่า ฮี่ฮี่...",
+      "th": "หางของ Gorou มีสีที่สวยงามมาก แต่...หางของฉันนุ่มกว่านะ ฮึ...",
       "vi": "Màu đuôi của Gorou đúng là rất đẹp đúng không, nhưng mà... của tôi êm hơn. Hứ..."
     }
   },
@@ -923,7 +923,7 @@
       "pt": "#Ah sim, a pequena ninja... se tem algo que ela consegue fazer é ficar escondida. Kano Nana constantemente reclama dela para mim. Aparentemente, ela agora passa tanto tempo dela procurando pela Sayu que ela mal tem tempo de ler. Se você me perguntar, eu diria que a Sayu tem {M#um aliado secreto}{F#uma aliada secreta} que ajuda ela a se esconder o tempo inteiro...",
       "ru": "Ах да, маленькая ниндзя... Если что она и умеет, так это прятаться. Кано Нана постоянно жалуется мне на это. Она тратит так много времени на поиски Саю, что у неё почти не остаётся времени на чтение. Как по мне, то у Саю есть тайный союзник, который всё время помогает ей скрыться...",
       "id": "Ah, si ninja cilik ... Kalau tanya apa yang mahir sekali dia lakukan, maka jawabannya adalah bersembunyi. Kano Nana terus menerus mengeluh tentang hal itu. Sepertinya, dia sekarang menghabiskan sebagian besar waktunya untuk mencari Sayu, sampai tidak ada waktu buat duduk baca buku. Kalau kata aku sih, Sayu pasti punya teman rahasia yang bantu dia sembunyi setiap waktu ....",
-      "th": "เจ้าตัวเล็กนี่ซ่อนตัวเก่งทีเดียว Kano Nana มักจะบ่นกับฉันว่าเธอต้องใช้เวลาตั้งนานในการตามหาเธอ จนแทบจะไม่มีเวลาอ่านนิยายเลย ฉันว่านะ หรือบางทีอาจจะมีคนคอยช่วยเหลือ Sayu อยู่ก็ได้",
+      "th": "เจ้าตัวเล็กนี่ซ่อนตัวเก่งทีเดียว Kano Nana มักจะบ่นกับฉันว่าเธอต้องใช้เวลาตั้งนานในการตามหาเธอ จนแทบจะไม่มีเวลาอ่านนิยายเลย ฉันว่านะ หรือบางทีอาจจะมีคนคอยแอบช่วยเหลือ Sayu จากในเงามืดอยู่ก็ได้?",
       "vi": "Đứa nhóc này rất biết cách lẩn trốn đấy, Kano Nana thường hay than phiền với tôi, rằng thời gian đi tìm nó càng ngày càng nhiều, làm cho không còn thời gian để đọc tiểu thuyết luôn. Để tôi đoán xem, có người đang âm thầm giúp nó, đúng chứ?"
     }
   },
@@ -955,7 +955,7 @@
       "pt": "Ouvi muito sobre a irmãzinha da Miyuki. Pessoinha interessante, dizem. Embora ela tenha vindo de uma família de sacerdotisas, ela tomou seu próprio rumo na vida — experimentou diferentes tipos de coisas, estudou fora em Liyue, até mesmo acabou se juntando à Gangue Arataki... Garota fascinante. Talvez eu deva pedir a Miyuki para nos apresentar. Sim, isso vai funcionar — Miyuki jamais sonharia em recusar um pedido meu.",
       "ru": "Я много слышала о младшей сестре Миюки. Интересная девочка. Хотя она и происходит из семьи жриц, но не пошла по их стопам, а попробовала свои силы во многих различных профессиях, училась в Ли Юэ и даже присоединилась к банде Аратаки... Очаровательно. Возможно, мне стоит попросить Миюки представить меня. Да, Миюки и в голову не придёт отказать мне в просьбе.",
       "id": "Aku lumayan sering dengar cerita tentang adik perempuannya Miyuki. Katanya sih orangnya unik. Dia berasal dari keluarga miko, tapi memilih hidup dengan caranya sendiri — mencoba segala bidang, belajar di Liyue, bahkan akhirnya gabung dengan Geng Arataki ... Gadis yang menarik. Mungkin aku harus minta Miyuki kenalkan kami. Ya, dia bisa itu. Miyuki mana berani menolak permintaanku.",
-      "th": "ได้ยินมาว่าน้องสาวคนนี้ของ Miyuki เป็นตัวของตัวเองมาก แม้ว่าจะมาจากครอบครัวมิโกะ แต่เธอนั้นห่างไกลจากศาลเจ้ามาก และยังเรียนรู้งานฝีมือมากมาย ถึงขนาดไปเรียนต่อที่ Liyue และสุดท้ายเธอก็เข้าร่วมกับแก๊ง Arataki... หญิงสาวที่น่าสนใจขนาดนี้ คงต้องให้ Miyuki ช่วยแนะนำให้สักหน่อยแล้วล่ะ อืม Miyuki ไม่มีวันปฏิเสธฉันอย่างแน่นอน",
+      "th": "ได้ยินมาว่าน้องสาวคนนี้ของ Miyuki เป็นตัวของตัวเองมาก แม้ว่าจะมาจากตระกูลของมิโกะ แต่เธอกลับทำตัวห่างเหินกับศาลเจ้ามาก และยังเรียนรู้งานฝีมือมากมาย ถึงขนาดไปเรียนต่อที่ Liyue ด้วย และสุดท้าย เธอก็เข้าร่วมกับแก๊ง Arataki... เด็กสาวที่น่าสนใจขนาดนี้ คงต้องให้ Miyuki ช่วยแนะนำให้สักหน่อยแล้วล่ะ อืม Miyuki ไม่มีทางปฏิเสธฉันหรอก",
       "vi": "Nghe nói người em gái này của Miyuki rất có cá tính, tuy rằng xuất thân từ gia đình có truyền thống pháp sư, nhưng lại rời bỏ đền thần, đi học rất nhiều môn thủ nghệ, thậm chí còn đến Liyue du học nữa, cuối cùng gia nhập vào Bang Arataki... Một cô gái thú vị như vậy, phải bảo Miyuki giới thiệu mới được, ừm, Miyuki chắc chắn sẽ không từ chối tôi đâu."
     }
   },
@@ -979,7 +979,7 @@
       "zhs": "想知道更多我的事？也不是不行，不过世事都讲究一个互惠互利，想了解我，就拿你自己的事来交换如何？",
       "zht": "#想知道更多我的事？也不是不行，不過世事都講究一個互惠互利，想瞭解我，就拿{F#妳}{M#你}自己的事來交換如何？",
       "jp": "妾のことがもっと知りたいと？断りはせぬが、相互利益を重んじるのが世の常というもの。妾を知りたいのなら、汝のことと交換するのはどうじゃ？",
-      "ko": "나에 대해 더 많이 알고 싶다고? 안 될 건 없지만, 오는 게 있으면 가는 것도 있어야지. 날 알고 싶으면, 너에 대한 걸로 교환하는 게 어때?",
+      "ko": "나에 대해 더 많이 알고 싶다고? 안 될 건 없지만, 오는 게 있으면 가는 것도 있어야지. 나에 대해 알고 싶다면, 너의 이야기로 교환하는 게 어때?",
       "en": "Oh? You'd like to know more about me? I'm willing to tell, but what will I gain in exchange, hmm? It has to be a fair trade. So you tell me all about you, and I'll tell you all about me. Deal?",
       "de": "Du möchtest mehr über mich wissen? Ich bin bereit, es dir zu sagen, aber was bekomme ich im Gegenzug dafür? In dieser Welt geht es immer um gegenseitigen Nutzen. Du erzählst mir also alles über dich und ich erzähle dir alles über mich. Abgemacht?",
       "es": "¿Eh? ¿Quieres saber más sobre mí? No tengo ningún problema en contarte cosas, pero ¿qué obtengo yo a cambio? ¿Eh? Tiene que ser un trato justo, así que tú me contarás todo sobre ti y yo te contaré todo sobre mí. ¿Tenemos un trato?",
@@ -1019,7 +1019,7 @@
       "pt": "A Kitsune Saiguu disse que ela iria sair em uma longa jornada, e nunca mais retornou desde então. *Suspira* Naquele momento, eu não estava nem um pouco a fim de me encarregar de cuidar do Grande Santuário Narukami. Então, ela me disse que como uma Guuji, eu poderia comer quantos Tofus Fritos eu quisesse. Como se isso fosse uma razão convincente... Aquela mulher falou tanta besteira, honestamente, ela conseguia ser tão insuportável...",
       "ru": "Кицунэ Сайгу сказала, что отправляется в долгое путешествие и с тех пор так и не вернулась. Эх, тогда я совсем не хотела брать на себя бремя управления Великим храмом Наруками. Поэтому она сказала мне, что как Гудзи я смогу съесть столько жареного тофу, сколько захочу. Что за нелепый аргумент... Честно говоря, она несла столько чепухи, что порой была просто невыносима...",
       "id": "Dulu Kitsune Saiguu bilang kalau dia mau melakukan perjalanan jauh, dan sampai sekarang pun masih belum kebali. *huff* Saat itu, aku tidak tertarik sedikit pun untuk memikul beban mengurus Kuil Agung Narukami. Terus dia bilang padaku bahwa kalau sudah jadi Guuji, aku bisa makan tahu goreng sepuasnya. Dia sangka alasan macam itu sudah cukup buat membujuk aku ... Wanita itu memang terlalu banyak omong, jujur kadang aku tidak tahan menghadapinya ....",
-      "th": "ท่าน Kitsune Saiguu บอกว่าเธอกำลังจะเดินทางไกล และจะไม่กลับมาอีก เฮ้อ ตอนนั้นฉันไม่อยากรับภาระจัดการปัญหาของศาลเจ้า Grand Narukami เลย เธอจึงบอกกับฉันว่า ถ้าฉันยอมเป็น Guuji แห่งศาลเจ้าละก็ จะสามารถกินเต้าหู้ทอดได้มากเท่าที่ต้องการได้ เธอยกเหตุผลไร้สาระอะไรไม่รู้มาหว่านล้อมฉัน ช่างเป็นผู้หญิงที่น่าปวดหัวจริง ๆ...",
+      "th": "ท่าน Kitsune Saiguu บอกว่าเธอจะออกเดินทางไกล แล้วก็ไม่กลับมาอีกเลย เฮ้อ ตอนนั้นฉันไม่อยากรับภาระจัดการปัญหาของศาลเจ้า Grand Narukami เลย เธอจึงบอกกับฉันว่า ถ้าฉันยอมเป็น Guuji แห่งศาลเจ้าละก็ จะสามารถกินเต้าหู้ทอดได้มากเท่าที่ต้องการได้ เธอยกเหตุผลไร้สาระอะไรก็ไม่รู้มาหว่านล้อมฉัน จู้จี้จุกจิก ช่างเป็นผู้หญิงที่น่าปวดหัวจริง ๆ...",
       "vi": "Kitsune Saiguu đại nhân sao, cô ấy nói là đi xa một chuyến, rồi từ đó không trở về nữa. Haiz, tôi lúc đó không muốn tiếp quản chuyện của Đền Narukami, cô ấy liền nói với tôi, bảo rằng chỉ cần tôi đảm nhiệm chức vị Guuji là sẽ được ăn đậu phụ rán thoải mái. Hứ, cái lý do ngu ngốc gì chứ, thật phiền phức chết được..."
     }
   },
@@ -1044,7 +1044,7 @@
       "zht": "#最開始建立八重堂的動機當然是為了看有趣的小說，不過到後來樂趣就變成看那些小說家殫精竭慮的樣子了。呵，{F#妳}{M#你}永遠想不出來那些人在拖稿的時候說出的理由，哎呀，比他們自己寫的小說要有趣多了。",
       "jp": "八重堂を立ち上げた当初の動機は、面白い小説を読むためじゃった。じゃが次第に、小説家の疲弊していく姿を見るのが楽しくなってのう…あやつらが締め切りを先延ばしにしようと言ってくるときの言い訳は、汝では到底思いつかぬものじゃろうな。何よりそれは、あやつらが書く小説よりも遥かに面白いものなんじゃ。",
       "ko": "처음 야에 출판사를 세운 이유는 재밌는 소설을 보기 위해서였어. 나중엔 소설가들이 아등바등하는 걸 지켜보는 재미로 변했지만…. 넌 그들이 원고를 미룰 때 어떤 변명을 하는지 상상도 못 할 거야. 자기들이 쓰는 소설보다 재밌다니까?",
-      "en": "I decided to found Yae Publishing House simply because I wished read more interesting light novels, that's all. But, it turns out that seeing frazzled authors scraping the bottom of their barrel in a desperate attempt to get their novels finished is where the real amusement comes from. You wouldn't believe some of the excuses they come up with when they're trying to get a deadline extension. Oh, so much more creative than the novels themselves.",
+      "en": "I decided to found Yae Publishing House simply because I wished to read more interesting light novels, that's all. But, it turns out that seeing frazzled authors scraping the bottom of their barrel in a desperate attempt to get their novels finished is where the real amusement comes from. You wouldn't believe some of the excuses they come up with when they're trying to get a deadline extension. Oh, so much more creative than the novels themselves.",
       "de": "Die Motivation für die Gründung vom Verlagshaus Yae war anfangs natürlich, interessante Romane zu lesen, aber dann wurde es immer lustiger, den Autoren dabei zuzusehen, wie sie sich verausgabten. Hehe, du kannst dir gar nicht vorstellen, was für Gründe diese Leute anführen, wenn sie die Fristen nicht einhalten können, und siehe da, es macht viel mehr Spaß als die Romane, die sie schreiben.",
       "es": "Decidí crear la Editorial Yae simplemente porque quería leer novelas ligeras más interesantes, eso es todo. Pero resulta que la verdadera diversión es ver a los escritores exhaustos devanarse los sesos con tal de terminar de escribir sus novelas. No te puedes ni imaginar las excusas que se les ocurren para conseguir que les posponga la fecha de entrega. Oh, son mucho más creativas que sus propias novelas.",
       "fr": "J'ai décidé de fonder la Chambre Yae pour m'assurer la lecture de romans légers divertissants. Mais il se trouve que c'est de voir des auteurs épuisés essayer désespérément de pondre un roman que vient l'amusement. Tu n'as pas idée du genre d'excuses qu'ils me servent quand ils ont besoin d'une extension de délai. Oh, alors là d'un coup, ils sont créatifs, beaucoup plus que dans leurs romans...",
@@ -1083,7 +1083,7 @@
       "pt": "Até mesmo seres sobrenaturais eventualmente morrem, inclusive os deuses. É uma grande pena quando seus contos são perdidos no tempo junto com elas, para nunca mais serem lembradas. O problema é, apenas aqueles com talento de primeira classe em escrever estão qualificados para colocar essas histórias no papel. Se não houver talento qualificado de escrita no mundo, devemos cultivá-la... sim, escritores nativos é o que precisamos, capazes de adequadamente capturar essas histórias com a palavra escrita.",
       "ru": "Даже сверхъестественные существа в конце концов умирают, включая Архонтов. Ужасно обидно, когда их истории теряются во времени вместе с ними, так что их больше никогда не вспомнят. Но, чтобы перенести эти истории на бумагу, нужны первоклассные сочинители с отточенным стилем. И раз уж в мире не хватает таких писателей, значит нужно их вырастить... вырастить писателей, которые смогут изложить эти истории.",
       "id": "Bahkan makhluk supranatural pun pada akhirnya akan musnah, termasuk para dewa. Sayang sekali kalau kisah mereka hilang seiring dengan kepergiannya, dan tidak pernah dikenang lagi. Masalahnya, hanya orang-orang dengan keterampilan menulis dan mengarang yang sangat hebat saja yang mampu merangkum semua kisah itu ke dalam tulisan. Kalau di dunia ini tidak ada penulis bisa seperti itu, maka kita sendirilah yang yang harus membina mereka ... Ya, penulis yang kita didik sendirilah yang mampu merangkum semuanya itu sesuai dengan kemauan kita.",
-      "th": "ไม่ว่าอย่างไร เทพอสูรนั้นต่างก็มีช่วงเวลาของการดับสูญ ถ้าหากเรื่องราวของพวกเขาสูญหายไปตามกาลเวลาและไม่มีใครจดจำได้อีก เช่นนั้นคงจะน่าเสียดายมาก และผู้ที่มีคุณสมบัติที่จะเขียนเรื่องราวของพวกเขาได้ จะต้องมีทักษะการเขียนและสำนวนที่ยอดเยี่ยม... หากโลกนี้ไม่มีคนแบบนี้ งั้นเราก็ต้องฝึก...ฝึกฝนนักเขียนที่สามารถเขียนเรื่องราวแบบนั้นได้ออกมา",
+      "th": "ไม่ว่าอย่างไร เทพอสูรนั้นต่างก็มีช่วงเวลาของการดับสูญ ถ้าหากเรื่องราวของพวกเขาสูญหายไปตามกาลเวลาและไม่มีใครจดจำได้อีก เช่นนั้นคงจะน่าเสียดายมาก และผู้ที่มีคุณสมบัติที่จะเขียนเรื่องราวของพวกเขาได้ จะต้องมีทักษะการเขียนและสำนวนที่ยอดเยี่ยม... หากโลกนี้ไม่มีคนแบบนี้ งั้นเราก็ต้องฝึกออกมา... ฝึกฝนนักเขียนที่สามารถเขียนเรื่องราวแบบนั้นได้ออกมา",
       "vi": "Dù thế nào thì ma thần cũng sẽ có ngày chết đi, nếu như câu chuyện của họ cũng sẽ tan biến theo thời gian thì thật đáng tiếc. Hơn nữa, người có tư cách viết câu chuyện của họ cũng phải có tài nghệ văn chương thượng thừa... Nếu như trên thế gian này không có người như vậy thì cứ đào tạo... phải đào tạo ra một tác giả có thể viết những câu chuyện này mới thôi."
     }
   },
@@ -1111,11 +1111,11 @@
       "en": "Though I'm an avid reader of novels written by others, I've yet to pick up the pen myself. Writing a novel is quite an undertaking, after all. But, if there comes a day when you reach the end of your adventure and want somebody to record it — and if I happen to have the time when that day comes... We'll see.",
       "de": "Außerdem habe ich selbst noch nie einen Roman geschrieben, obwohl ich viele andere gelesen habe. Aber wenn dein Abenteuer vorbei ist und du möchtest, dass jemand deine Geschichte aufzeichnet, und ich dann Zeit habe ...",
       "es": "Aunque soy una ávida lectora de las novelas de otros, aún tengo pendiente tomar una pluma y ponerme a escribir. Después de todo, escribir una novela es una tarea ardua, pero si llega el día en el que alcanzas el fin de tu aventura, quieres que alguien la registre y yo estoy disponible... Bueno, ya veremos.",
-      "fr": "J'ai beau être une lectrice passionnée quand il s'agit des œuvres des autres, je n'ai encore jamais pris la plume. Écrire un roman, c'est tout un art. Mais, si un jour tu arrives au bout de ton aventure et que tu cherches quelqu'un pour en témoigner et qu'il se trouve que j'ai du temps à ce moment-là, alors... On verra.",
+      "fr": "J'ai beau être une lectrice passionnée quand il s'agit des œuvres des autres, je n'ai encore jamais pris la plume. Écrire un roman, c'est tout un art. Mais, si un jour, tu arrives au bout de ton aventure et que tu cherches quelqu'un pour en témoigner et qu'il se trouve que j'ai du temps à ce moment-là, alors... On verra.",
       "pt": "Embora eu seja uma ávida leitora de romances escritos pelos outros, ainda não peguei na caneta por mim mesma. Escrever um romance é uma grande empreitada, afinal de contas. Mas, se houver um dia em que você chegue ao fim de suas aventuras e precisar de alguém para registrá-las — e se por algum acaso eu tiver tempo quando este dia chegar... veremos.",
       "ru": "Хотя я заядлая читательница романов, написанных другими, самой мне ещё не довелось взяться за перо. Всё-таки написание романа - довольно сложное дело. Но если настанет день, когда ты достигнешь конца своего приключения и захочешь, чтобы кто-нибудь описал его, и если у меня будет время, когда этот день наступит... Посмотрим.",
       "id": "Aku memang suka baca novel karangan orang lain, tapi aku belum pernah menulis sendiri. Menulis novel kan tidak segampang itu juga. Tapi, nanti tiba hari akhir petualanganmu, dan kamu butuh orang untuk merangkum semuanya ke dalam tulisan ... dan tentu saja kalau di hari itu aku ada waktu ... Lihat nanti saja lah.",
-      "th": "จะว่าไปแล้ว ถึงแม้ว่าฉันจะอ่านนิยายที่คนอื่นเขียนมามาก แต่ฉันยังไม่เคยลงมือเขียนเองเลยสักครั้ง ก็การเขียนนิยายเป็นเรื่องที่วุ่นวายนี่นา แต่ถ้าการผจญภัยของเธอสิ้นสุดลง และต้องการให้ใครสักคนบันทึกเรื่องราวนั้นไว้ ประจวบเหมาะที่ฉันมีเวลาว่างด้วยละก็...",
+      "th": "จะว่าไปแล้ว ถึงแม้ว่าฉันจะอ่านนิยายที่คนอื่นเขียนมามาก แต่ฉันยังไม่เคยลงมือเขียนเองเลยสักครั้ง ก็การเขียนนิยายเป็นเรื่องยุ่งยากนี่นา แต่ถ้าการผจญภัยของเธอสิ้นสุดลง แล้วต้องการให้ใครสักคนบันทึกเรื่องราวนั้นไว้ และประจวบเหมาะว่าฉันมีเวลาว่างด้วยละก็...",
       "vi": "Kể ra thì tuy tôi thích đọc tiểu thuyết, nhưng lại chưa từng sáng tác qua, dẫu sao thì viết tiểu thuyết cũng là một chuyện phiền phức mà. Nhưng nói gì thì nói, nếu như chuyến hành trình của cưng kết thúc, muốn có người kể lại câu chuyện của cưng, và nếu trùng hợp lúc đó tôi đang rảnh thì..."
     }
   },
@@ -1249,6 +1249,102 @@
   },
   {
     "title": {
+      "zhs": "收到赠礼·其一",
+      "zht": "收到贈禮·其一",
+      "jp": "贈り物を受け取る·1",
+      "ko": "선물 획득·첫 번째",
+      "en": "Receiving a Gift: I",
+      "de": "Geschenk erhalten I",
+      "es": "Al recibir un regalo (I)",
+      "fr": "Cadeau reçu (1)",
+      "pt": "Recebendo Presentes — I",
+      "ru": "Подарок I",
+      "id": "Menerima Hadiah: I",
+      "th": "ได้รับของขวัญ - 1",
+      "vi": "Nhận Được Quà I"
+    },
+    "line": {
+      "zhs": "哎呀，小家伙，你对我的口味了解得很清楚嘛。",
+      "zht": "#哎呀，小傢伙，{F#妳}{M#你}對我的口味瞭解得很清楚嘛。",
+      "jp": "ほう…童よ、妾の好みをよく知っておるようじゃな。",
+      "ko": "어머, 꼬마야, 내 취향을 잘 알고 있네?",
+      "en": "My, my! You really know what appeals to my tastes, don't you.",
+      "de": "#Meine Güte, Kleine{M#r}, du kennst meinen Geschmack gut.",
+      "es": "#¡Vaya, vaya! Parece que sabes muy bien lo que me gusta, querid{F#a}{M#o}.",
+      "fr": "#Tu connais vraiment bien mes goûts, {M#mon petit}{F#ma petite}.",
+      "pt": "Oh, jovem, você sabe bem o que eu gosto...",
+      "ru": "Ого! А ты и вправду знаешь, что мне нравится!",
+      "id": "Wah, wah, wah. Kamu ini benar-benar paling tahu seleraku ya.",
+      "th": "โอ๊ะ เจ้าตัวเล็ก เธอนี่รู้รสชาติที่ฉันชอบจริง ๆ เลยนะ",
+      "vi": "Ái chà, cưng biết rõ khẩu vị của tôi nhỉ."
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其二",
+      "zht": "收到贈禮·其二",
+      "jp": "贈り物を受け取る·2",
+      "ko": "선물 획득·두 번째",
+      "en": "Receiving a Gift: II",
+      "de": "Geschenk erhalten II",
+      "es": "Al recibir un regalo (II)",
+      "fr": "Cadeau reçu (2)",
+      "pt": "Recebendo Presentes — II",
+      "ru": "Подарок II",
+      "id": "Menerima Hadiah: II",
+      "th": "ได้รับของขวัญ - 2",
+      "vi": "Nhận Được Quà II"
+    },
+    "line": {
+      "zhs": "既然是你亲手做的，我就尝尝看吧，呵呵…",
+      "zht": "#既然是{F#妳}{M#你}親手做的，我就嚐嚐看吧，呵呵…",
+      "jp": "汝の手作りならば、口にしてみるか。ふふっ…",
+      "ko": "네가 직접 만든 거니까 한번 먹어봐야겠어, 후후…",
+      "en": "Since you've made it yourself, I guess having a little taste is the least I can do, haha...",
+      "de": "Da du es selbst gemacht hast, werde ich es probieren ...",
+      "es": "Ya que lo preparaste tú, lo menos que puedo hacer es probarlo, jaja.",
+      "fr": "Je vais y goûter puisque c'est toi qui l'as fait, haha...",
+      "pt": "#Já que você mesm{F#a}{M#o} fez, acho que provar é o mínimo que posso fazer, haha...",
+      "ru": "#Раз уж ты сам{F#a} это приготовил{F#a}, попробовать - меньшее, что я могу сделать, ха-ха...",
+      "id": "Karena kamu yang membuatnya sendiri, kurasa tidak mungkin aku hanya mencicipinya sedikit saja, haha ....",
+      "th": "ในเมื่อเธอทำเองกับมือ งั้นฉันจะลองชิมดูหน่อยก็แล้วกัน หึหึ...",
+      "vi": "Đã là do chính tay cưng làm, vậy tôi sẽ thử xem sao, hehe..."
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其三",
+      "zht": "收到贈禮·其三",
+      "jp": "贈り物を受け取る·3",
+      "ko": "선물 획득·세 번째",
+      "en": "Receiving a Gift: III",
+      "de": "Geschenk erhalten III",
+      "es": "Al recibir un regalo (II)",
+      "fr": "Cadeau reçu (3)",
+      "pt": "Recebendo Presentes — III",
+      "ru": "Подарок III",
+      "id": "Menerima Hadiah: III",
+      "th": "ได้รับของขวัญ - 3",
+      "vi": "Nhận Được Quà III"
+    },
+    "line": {
+      "zhs": "怎么说呢…小家伙，需要努力的地方还有不少哦？",
+      "zht": "怎麼說呢…小傢伙，需要努力的地方還有不少喔？",
+      "jp": "まったく…童よ、まだまだ努力が必要じゃな。",
+      "ko": "흠… 꼬마야, 좀 더 분발해야겠는걸?",
+      "en": "How should I put this... There's so much room for improvement that the only way is up.",
+      "de": "Was soll ich sagen ... Es gibt noch viel zu verbessern, nicht wahr?",
+      "es": "A ver cómo lo digo... Tienes tanto margen de mejora que solo podrías seguir mejorando.",
+      "fr": "#Hum... Disons que tu as encore un long chemin à faire, {M#mon petit}{F#ma petite}.",
+      "pt": "Como posso dizer... ainda tem muito o que melhorar.",
+      "ru": "Как бы выразиться... На фоне этого любые старания будут прогрессом.",
+      "id": "Ah, bagaimana bilangnya ya ... Banyak yang bisa diperbaiki lagi, hampir semuanya sih.",
+      "th": "จะว่ายังไงดีละ... เจ้าตัวเล็ก เธอยังต้องพยายามอีกมากนะ",
+      "vi": "Nói sao nhỉ... cưng à, vẫn còn phải cố gắng rất nhiều đó."
+    }
+  },
+  {
+    "title": {
       "zhs": "生辰…",
       "zht": "生辰…",
       "jp": "誕生日…",
@@ -1275,7 +1371,7 @@
       "pt": "#Ah, então hoje é seu aniversário...\n\n\"Em sua cerimônia de contagem de anos, eu encarrego meu povo de que assegurem que você definitivamente encontre o que deseja, e aquilo que seu coração buscar, você receberá. Continue pur{F#a}{M#o} de coração e verdadeir{F#a}{M#o} em espírito, e a proteção deles será concedida a você.\" Pronto, aí está. Que tudo corra bem em seu ano a se seguir, e que seus desejos se realizem. Acabamos?",
       "ru": "Ах, так сегодня твой день рождения... «В этот торжественный день годовщины твоего рождения я поручаю своему роду позаботиться о том, чтобы то, что ты ищешь, обязательно нашлось, а то, что ты жаждешь, обязательно было тобой получено. Пусть сердце твоё остаётся чистым, а дух - стойким, и тогда их защита всегда будет с тобой». Как-то так. Пусть следующий год будет удачным, а все твои желания исполнятся. Ну, мы закончили?",
       "id": "Ah, jadi hari ini hari ulang tahunmu ya ... \n\n\"Dalam hari peringatan perhitungan usiamu, demikian kuperintahkan kepada kaumku: carilah dan kamu akan menemukan, mintalah maka kamu akan menerima. Jagalah kekudusan dan kemurnian, dan kiranya perlindungan mereka selalu besertamu\". Begitulah, semoga semuanya lancar dan semoga keinginanmu terkabul. Sudah? Cukup?",
-      "th": "วันนี้เป็นวันเกิดของเธอ...\n\n\"เนื่องในโอกาสฉลองวันเกิด ด้วยนามของฉัน ฉันขอให้เธอสมหวังดั่งคำขอ สมใจดั่งความปรารถนา ขอให้ได้รับความคุ้มครองจากเทพเจ้าด้วยใจบริสุทธิ์\" เอาล่ะ เอาแค่นี้ละกัน ขอให้ปีนี้มีแต่สิ่งดี ๆ และสมหวังทุกอย่างนะ",
+      "th": "วันนี้เป็นวันเกิดของเธอเหรอ...\n\n\"เนื่องในโอกาสฉลองวันเกิด ด้วยนามของฉัน ฉันขอให้เธอสมหวังดั่งคำขอ สมใจดั่งความปรารถนา ขอให้ได้รับความคุ้มครองจากเทพเจ้าด้วยใจบริสุทธิ์\" เอาล่ะ เอาแค่นี้ละกัน ขอให้ปีนี้มีแต่สิ่งดี ๆ และสมหวังทุกประการนะ",
       "vi": "Hôm nay là sinh nhật của cưng à...\n\n\"Lễ mừng tuổi mới, hãy nghe lệnh ta, gặp được những gì mà người đó thỉnh cầu, thực hiện được những gì mà người đó mong ước, chính tâm hướng thần, cầu mong phù hộ.\" Xong rồi, chỉ vậy thôi. Chúc cưng năm nay mọi thứ thuận lợi, được như mong ước."
     }
   },
@@ -1307,7 +1403,7 @@
       "pt": "Durante o treinamento para me tornar uma sacerdotisa, o título de \"Chokkai\" é lhe dado quando você completa os estudos requisitados e pode corretamente recitar cerimônias. Isso deve ser bem direto para humanos, mas é algo muito difícil para uma kitsune... somos apenas raposas, afinal de contas.",
       "ru": "При обучении жриц титул «тёккай» присваивается после того, как ученица завершила учёбу и может правильно петь во время церемоний. Это может быть очень просто для людей, но это самый трудный шаг для кицунэ... В конце концов, мы всего лишь лисы.",
       "id": "Saat berlatih untuk jadi miko, gelar \"Chokkai\" diberikan setelah belajar sampai mampu membaca mantra untuk upacara dengan benar. Hal ini mungkin sangat mudah bagi manusia, tapi sangat sulit bagi kitsune ... Bagaimanapun juga, kami kan cuma rubah.",
-      "th": "หลังจากฝึกฝนขั้นตอนเพื่อเป็นมิโกะเสร็จสิ้น จนสามารถสวดมนต์ทำพิธีได้อย่างถูกต้องแล้วจะได้รับการขนานนามว่า \"Chokkai\" ซึ่งมันเป็นเรื่องง่ายดายสำหรับมนุษย์มาก แต่สำหรับจิ้งจอกแล้วนี่เป็นขั้นตอนที่ยากลำบากมากที่สุด... ก็เพราะเป็นจิ้งจอกนี่นา",
+      "th": "หลังจากฝึกฝนขั้นตอนเพื่อเป็นมิโกะเสร็จสิ้น จนสามารถสวดมนต์ทำพิธีได้อย่างถูกต้องแล้ว จะได้รับการขนานนามว่า \"Chokkai\" ซึ่งมันเป็นเรื่องง่ายดายสำหรับมนุษย์มาก แต่สำหรับจิ้งจอกแล้วนี่เป็นขั้นตอนที่ยากลำบากมากที่สุด... ก็เพราะเป็นจิ้งจอกนี่นา",
       "vi": "Trong các cấp bậc tu hành của pháp sư, sau khi tốt nghiệp, có thể đọc tế ngôn một cách chính xác thì gọi là \"Chokkai\". Đối với con người mà nói thì rất tiện, nhưng đối với tộc hồ ly thì lại là bước khó khăn nhất... dù sao cũng là hồ ly mà."
     }
   },
@@ -1339,7 +1435,7 @@
       "pt": "O treinamento necessário para se tornar uma assistente de Guuji, ou no caso \"Seikai\", é realmente muito difícil. Você precisa respeitar uma infinidade de restrições severas... existe apenas uma forma de conseguir lidar com tudo isso: faça um lanchinho durante a noite, e tenha certeza de que ninguém te descubra.",
       "ru": "Обучение, которое необходимо пройти для того, чтобы стать помощницей Гудзи, или «сэйкай», очень трудное. Приходится соблюдать множество жёстких ограничений... Есть только один способ пройти через это: есть ночью, убедившись, что никто тебя не поймает.",
       "id": "Latihan yang diperlukan untuk menjadi Asisten Guuji atau \"Seikai\", lebih sulit. Ada segudang pantangan yang harus dipatuhi ... Satu-satunya jalan untuk melewati tahap ini adalah: makan pas tengah malam, dan jangan sampai ketahuan.",
-      "th": "การฝึกฝนในการเป็นรักษาการณ์ Guuji หรือที่เรียกว่า \"Seikai\" นั้นยากลำบากมาก ต้องอดทนต่อข้อปฏิบัติที่เข้มงวดมากมาย มีทางเดียวที่จะผ่านมันไปได้ นั่นคือการแอบกินในตอนกลางคืน และห้ามถูกจับได้เด็ดขาด",
+      "th": "การฝึกฝนในการเป็นรักษาการ Guuji หรือที่เรียกว่า \"Seikai\" นั้นยากลำบากมาก ต้องอดทนต่อข้อปฏิบัติที่เข้มงวดมากมาย มีทางเดียวที่จะผ่านมันไปได้ นั่นคือห้ามโดนจับได้ตอนแอบกินอาหารในตอนกลางคืนเด็ดขาด",
       "vi": "Trở thành Guuji đại diện, cũng chính là tu luyện ở cấp \"Seikai\", rất gian khổ, phải chịu rất nhiều giới luật thanh quy, bí quyết của tu hành chỉ có một, chính là tối tối lén đi ăn đừng để bị ai phát hiện."
     }
   },
@@ -1403,7 +1499,7 @@
       "pt": "Ao longo da história, apenas a Guuji do Grande Santuário Narukami alcançou a classificação de \"Joukai\". É um título honorífico, que não está relacionado as capacidades do que o detém. Mas é claro, se eu fosse me declarar a Joukai mais poderosa da história, eu não vejo exatamente o que teria de errado nisso.",
       "ru": "На протяжении всей истории только Гудзи Великого храма Наруками носили звание «дзёкай». Это почетное звание, не связанное со способностями обладателя. Но я не вижу ничего дурного в том, чтобы объявить себя самым могущественным дзёкаем в истории.",
       "id": "Sepanjang sejarah, hanya Guuji dari Kuil Agung Narukami bisa disebut \"Joukai.\" Itu cuma gelar kehormatan yang tidak berkaitan dengan kemampuan. Tapi tentu saja, kalau misalnya aku menyatakan diri sebagai Joukai terkuat sepanjang sejarah, yang tidak salah juga kan.",
-      "th": "ในอดีตจะมีเพียง Guuji ของศาลเจ้า Grand Narukami เท่านั้นที่จะมีขั้น \"Joukai\" ซึ่งจะคล้ายกับตำแหน่งกิตติมศักดิ์ที่ไม่เกี่ยวกับความสามารถของผู้ถือครอง แต่ถ้าฉันต้องประกาศตัวว่าเป็น Joukai ที่แข็งแกร่งที่สุด ก็ใช่ว่าจะเป็นไปไม่ได้",
+      "th": "ในอดีตจะมีเพียง Guuji ของศาลเจ้า Grand Narukami เท่านั้นที่จะมีขั้น \"Joukai\" ซึ่งจะคล้ายกับตำแหน่งกิตติมศักดิ์ที่ไม่เกี่ยวกับความสามารถของผู้ถือครอง แต่ถ้าฉันต้องประกาศตัวว่าเป็น Joukai ที่แข็งแกร่งที่สุด ก็ใช่ว่าจะทำไม่ได้หรอกนะ",
       "vi": "\"Joukai\" của Đền Narukami trước giờ chỉ có Guuji của Đền Narukami là đạt được, chỉ một vị trí này thôi. \"Joukai\" chỉ là một thứ tương tự như chức danh vinh dự, không có quan hệ gì với thực lực, nhưng nếu như tôi tự xưng bản thân là \"Joukai\" mạnh nhất thì cũng không gì là không được."
     }
   },
@@ -1751,7 +1847,7 @@
       "en": "Go on. Open it up, show me what's inside.",
       "de": "Komm schon, mach auf und zeig es mir.",
       "es": "Vamos, ábrelo. Enséñame qué hay dentro.",
-      "fr": "Allez. Ouvrez-le, montre-moi ce qu'il y a dedans.",
+      "fr": "Allez. Ouvre-le, et montre-moi ce qu'il y a dedans.",
       "pt": "Vamos lá. Abra, mostre-me o que tem dentro.",
       "ru": "Быстрее, открой его, покажи, что внутри.",
       "id": "Ayo. Buka, terus kasih lihat aku apa yang ada di dalamnya.",

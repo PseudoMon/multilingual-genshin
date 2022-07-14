@@ -139,7 +139,7 @@
       "fr": "Quand il pleut...",
       "pt": "Quando Está Chovendo...",
       "ru": "Когда идёт дождь...",
-      "id": "Ketika Hujan",
+      "id": "Waktu Hujan",
       "th": "ในเวลาที่ฝนตก...",
       "vi": "Khi trời mưa..."
     },
@@ -1245,6 +1245,102 @@
       "id": "Ah, aku benci kepiting Mondstadt! Aku benci mereka! Aku mau pergi keluar dan main. Aku enggak mau kalau cuma duduk di sini dan mengupas cangkang kepiting ....",
       "th": "หนูไม่ชอบปูของ Mondstadt...ปูอะไรก็ไม่ชอบทั้งนั้น... Klee จะออกไปเล่น... ไม่อยากมานั่งแกะปูอยู่ที่โต๊ะอาหารแบบนี้...",
       "vi": "Ghét cua của Mondstadt... Tất cả loại cua đều đáng ghét... Klee muốn đi chơi... Không muốn ngồi bên bàn ăn từ từ bóc vỏ cua..."
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其一",
+      "zht": "收到贈禮·其一",
+      "jp": "贈り物を受け取る·1",
+      "ko": "선물 획득·첫 번째",
+      "en": "Receiving a Gift: I",
+      "de": "Geschenk erhalten I",
+      "es": "Al recibir un regalo (I)",
+      "fr": "Cadeau reçu (1)",
+      "pt": "Recebendo Presentes — I",
+      "ru": "Подарок I",
+      "id": "Menerima Hadiah: I",
+      "th": "ได้รับของขวัญ - 1",
+      "vi": "Nhận Được Quà I"
+    },
+    "line": {
+      "zhs": "好香好香！可莉已经吃到吃不下啦…",
+      "zht": "好香好香！可莉已經吃到吃不下啦…",
+      "jp": "わぁ、いい匂い！でもクレー、お腹いっぱいでもう食べられない…",
+      "ko": "완전 맛있어! 클레는 배불러서 더 이상 못 먹겠어…",
+      "en": "Yummy, yummy! Oof, I'm so full...",
+      "de": "Es riecht so gut! Ooh, ich bin so satt ...",
+      "es": "¡Qué rico está! Uff, estoy llena...",
+      "fr": "Ouah, ça sent trop bon ! Je n'ai plus de place dans mon estomac...",
+      "pt": "Que delicioso! Klee está prestes a explodir de tão cheia...",
+      "ru": "Вкуснятина! Вкуснятина! Ох, Кли уже объелась...",
+      "id": "Enak, enyaaak! Klee kenyaaang~",
+      "th": "อร่อยจังเลย อร่อยม้ากมาก! Klee กินจนยัดไม่ลงแล้วล่ะ...",
+      "vi": "Wa, thơm quá thơm quá! Klee no bụng đến nỗi ăn không nổi nữa rồi..."
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其二",
+      "zht": "收到贈禮·其二",
+      "jp": "贈り物を受け取る·2",
+      "ko": "선물 획득·두 번째",
+      "en": "Receiving a Gift: II",
+      "de": "Geschenk erhalten II",
+      "es": "Al recibir un regalo (II)",
+      "fr": "Cadeau reçu (2)",
+      "pt": "Recebendo Presentes — II",
+      "ru": "Подарок II",
+      "id": "Menerima Hadiah: II",
+      "th": "ได้รับของขวัญ - 2",
+      "vi": "Nhận Được Quà II"
+    },
+    "line": {
+      "zhs": "今天也吃到了好吃的东西，可莉好开心！谢谢你！",
+      "zht": "#今天也吃到了好吃的東西，可莉好開心！謝謝{F#妳}{M#你}！",
+      "jp": "今日のごはんも美味しかった。クレー、とっても幸せだよ！ありがとう！",
+      "ko": "오늘도 맛있는 요리를 먹을 수 있어서 클레는 너무 행복해! 고마워!",
+      "en": "Yay, I got to eat something tasty today. I'm so happy! Thank you!",
+      "de": "Ich hatte heute auch ein köstliches Essen, ich war so glücklich! Ich danke dir!",
+      "es": "¡Bien! ¡Hoy volví a comer algo rico! ¡Gracias!",
+      "fr": "Je suis super contente de pouvoir manger de bonnes choses aujourd'hui aussi ! Merci !",
+      "pt": "Estou tão feliz por ter comido algo tão delicioso hoje! Obrigada!",
+      "ru": "Ура! Я поем вкусненького! Я так рада! Спасибо!",
+      "id": "Yeay, hari ini Klee makan enak lagi! Senangnya! Makasih ya!",
+      "th": "วันนี้ได้กินของอร่อยด้วย Klee มีความสุขมาก! ขอบคุณมากนะ!",
+      "vi": "#Hôm nay cũng được ăn món ngon, Klee rất vui! Cảm ơn {F#chị}{M#anh}!"
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其三",
+      "zht": "收到贈禮·其三",
+      "jp": "贈り物を受け取る·3",
+      "ko": "선물 획득·세 번째",
+      "en": "Receiving a Gift: III",
+      "de": "Geschenk erhalten III",
+      "es": "Al recibir un regalo (II)",
+      "fr": "Cadeau reçu (3)",
+      "pt": "Recebendo Presentes — III",
+      "ru": "Подарок III",
+      "id": "Menerima Hadiah: III",
+      "th": "ได้รับของขวัญ - 3",
+      "vi": "Nhận Được Quà III"
+    },
+    "line": {
+      "zhs": "看上去很好吃，但吃起来不太方便…嘿嘿，你来帮帮可莉好不好！",
+      "zht": "#看起來很好吃，但吃起來不太方便…嘿嘿，{F#妳}{M#你}來幫幫可莉好不好！",
+      "jp": "お、美味しそうだけど、食べるのがちょっと大変かも…えへへ、クレーを助けてくれる？",
+      "ko": "맛있어 보이긴 하는데 먹기 좀 불편할 것 같네…. 클레 대신 먹어주면 안 돼?",
+      "en": "It looks yummy, but it's kinda hard work to eat... Hee-hee, how about you help me? Pretty please!",
+      "de": "Es sieht köstlich aus, aber es ist nicht ganz einfach zu essen ... Kannst du mir bitte helfen?",
+      "es": "Tiene buena pinta, pero cuesta comerlo... Jeje, ¿y si me ayudas? ¡Porfa!",
+      "fr": "Ça avait l'air délicieux, mais c'est différent en bouche... Héhé, tu dois m'aider à terminer !",
+      "pt": "Parece delicioso, mas é difícil de comer... Hehe, pode me dar uma ajuda? Por favor!",
+      "ru": "Выглядит вкусненько, но на вкус... Хи-хи, может, поможешь мне? Ну пожалуйста!",
+      "id": "Kelihatannya sih enak, tapi kayaknya bakalan lama nih dimakannya ... Hehehe, gimana kalau kakak bantuin aku? Ayo mau dong!",
+      "th": "ดูหน้าตาน่าอร่อยนะ แต่กินลำบากจัง... ฮี่ฮี่ พี่มาช่วย Klee หน่อยได้ป่าว!",
+      "vi": "#Trông có vẻ ngon, nhưng ăn thì không tiện lắm... Hì hì, {F#chị}{M#anh} giúp Klee được không?"
     }
   },
   {

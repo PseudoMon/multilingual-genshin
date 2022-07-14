@@ -139,7 +139,7 @@
       "fr": "Quand il pleut...",
       "pt": "Quando Está Chovendo...",
       "ru": "Когда идёт дождь...",
-      "id": "Ketika Hujan",
+      "id": "Waktu Hujan",
       "th": "ในเวลาที่ฝนตก...",
       "vi": "Khi trời mưa..."
     },
@@ -203,7 +203,7 @@
       "fr": "Quand il neige...",
       "pt": "Quando Está Nevando...",
       "ru": "Когда идёт снег...",
-      "id": "Ketika Turun Salju",
+      "id": "Waktu Turun Salju",
       "th": "ในเวลาที่หิมะตก...",
       "vi": "Khi tuyết rơi..."
     },
@@ -1277,6 +1277,102 @@
       "id": "Aku bisa makan apa saja kecuali bawang bombai. Suatu ketika, divisi logistik menyertakan bawang giling ke dalam makananku, dan aku langsung muntah di depan semua orang, di meja makan pula ... *huff* Memalukan sekali. Petugas divisi logistik juga jadi merasa sangat tidak enak karena hal itu.",
       "th": "ฉันกินอะไรก็ได้ทั้งนั้นยกเว้นหัวหอม มีอยู่ครั้งนึง ทหารฝ่ายขนส่งดันใส่หัวหอมสับลงไปในอาหาร ทำเอาฉันร้องไห้คาโต๊ะอาหารเลย...อ่า เป็นอะไรที่น่าอายชะมัด! งานนี้เล่นเอาทหารฝ่ายขนส่งรู้สึกผิดไปเลย",
       "vi": "Phần lớn món ăn tôi đều ăn được, nhưng hành tây là một ngoại lệ. Có một lần, quân hậu cần đã cho thêm hành tây vào thức ăn, làm tôi khóc ròng ngay trên bàn ăn...Ôi, lần đó thật là mất mặt! Làm cho quân hậu cần cũng cảm thấy áy náy."
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其一",
+      "zht": "收到贈禮·其一",
+      "jp": "贈り物を受け取る·1",
+      "ko": "선물 획득·첫 번째",
+      "en": "Receiving a Gift: I",
+      "de": "Geschenk erhalten I",
+      "es": "Al recibir un regalo (I)",
+      "fr": "Cadeau reçu (1)",
+      "pt": "Recebendo Presentes — I",
+      "ru": "Подарок I",
+      "id": "Menerima Hadiah: I",
+      "th": "ได้รับของขวัญ - 1",
+      "vi": "Nhận Được Quà I"
+    },
+    "line": {
+      "zhs": "这种甜味，完全无法抵抗！",
+      "zht": "這種甜味，完全無法抵抗！",
+      "jp": "この甘味、なんてたまらないんだ！",
+      "ko": "이 달콤한 맛은 정말 참을 수 없어!",
+      "en": "Mm! I become powerless in the face of sweets!",
+      "de": "Diese Süße ist einfach unwiderstehlich!",
+      "es": "¡Este sabor dulce es mi favorito!",
+      "fr": "Je ne peux pas résister à cette saveur !",
+      "pt": "Hmm! Não resisto a pratos com um toque doce!",
+      "ru": "Перед этой сладостью невозможно устоять!",
+      "id": "Mmm! Aku paling tidak kuat sama yang manis-manis!",
+      "th": "รสหวานแบบนี้ ไม่อาจต้านทานได้เลยจริง ๆ!",
+      "vi": "Vị ngọt này không thể nào cưỡng lại được!"
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其二",
+      "zht": "收到贈禮·其二",
+      "jp": "贈り物を受け取る·2",
+      "ko": "선물 획득·두 번째",
+      "en": "Receiving a Gift: II",
+      "de": "Geschenk erhalten II",
+      "es": "Al recibir un regalo (II)",
+      "fr": "Cadeau reçu (2)",
+      "pt": "Recebendo Presentes — II",
+      "ru": "Подарок II",
+      "id": "Menerima Hadiah: II",
+      "th": "ได้รับของขวัญ - 2",
+      "vi": "Nhận Được Quà II"
+    },
+    "line": {
+      "zhs": "哦！心中气势大增！有什么需要我帮忙的吗！",
+      "zht": "喔！心中氣勢大增！有什麼需要我幫忙的嗎！",
+      "jp": "おお！心に活力がみなぎってきた！俺に手伝えることはないか！",
+      "ko": "오! 사기가 마구 오르는걸! 내가 도울 만한 일 있어?",
+      "en": "Oh, I feel invigorated! Is there anything I can help you with?",
+      "de": "Oh! Mein Geist ist so voller Energie! Kann ich etwas für dich tun?",
+      "es": "¡Ahora estoy de mucho mejor humor! ¿Hay algo en lo que pueda ayudarte?",
+      "fr": "J'ai repris du poil de la bête ! Je peux vous aider à faire quelque chose ?",
+      "pt": "Oh, me sinto revigorado! Posso ajudar você com algo?",
+      "ru": "Я чувствую прилив сил! Могу я чем-нибудь помочь?",
+      "id": "Oh, aku langsung jadi semangat! Ada yang bisa kubantu?!",
+      "th": "โอ้! แรงใจของฉันเพิ่มขึ้นเยอะเลย! มีอะไรให้ฉันช่วยมั้ย!",
+      "vi": "Wa! Khí thế trong lòng không ngừng tăng lên! Có chuyện gì cần tôi giúp đỡ không?"
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其三",
+      "zht": "收到贈禮·其三",
+      "jp": "贈り物を受け取る·3",
+      "ko": "선물 획득·세 번째",
+      "en": "Receiving a Gift: III",
+      "de": "Geschenk erhalten III",
+      "es": "Al recibir un regalo (II)",
+      "fr": "Cadeau reçu (3)",
+      "pt": "Recebendo Presentes — III",
+      "ru": "Подарок III",
+      "id": "Menerima Hadiah: III",
+      "th": "ได้รับของขวัญ - 3",
+      "vi": "Nhận Được Quà III"
+    },
+    "line": {
+      "zhs": "比想象中的还要辛辣…呜，我…我有些力不从心了。",
+      "zht": "比想像中的還要辛辣…嗚，我…我有些力不從心了。",
+      "jp": "思ったより辛いな…うぅ、俺にはちょっと無理かもしれない。",
+      "ko": "생각보다 맵네… 우으, 나… 나 몸에 힘이 안 들어가",
+      "en": "It's a little spicier than I expected... *sniff* I—I don't think I can keep going.",
+      "de": "Es ist schärfer als erwartet ... Oh, ich ... ich bin ein bisschen überwältigt.",
+      "es": "Está más picante de lo que esperaba... Vaya... N-no estoy acostumbrado.",
+      "fr": "C'est plus épicé que je le pensais... Ouh, je... Je ne pense pas que je vais y arriver.",
+      "pt": "É um pouco mais apimentado do que eu esperava... Eu... Eu acho que não aguento.",
+      "ru": "Немного острее, чем я ожидал... Не думаю, что смогу доесть.",
+      "id": "Lebih pedas dari dugaanku ... Duh, se-sepertinya aku sudah enggak kuat deh.",
+      "th": "เผ็ดกว่าที่คิดไว้อีกแฮะ... ฮึก ฉะ...ฉันคงไม่ไหวแล้วล่ะ",
+      "vi": "Nó cay hơn tôi nghĩ... hic, tôi... tôi quả thực lực bất tòng tâm."
     }
   },
   {

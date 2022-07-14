@@ -107,7 +107,7 @@
       "fr": "Bavardage - Identités",
       "pt": "Bate-papo - Identidade",
       "ru": "Поболтаем: Личность",
-      "id": "Mengorbrol: Identitas",
+      "id": "Mengobrol: Identitas",
       "th": "แชท - ตัวตน",
       "vi": "Nói chuyện phiếm - Thân Phận"
     },
@@ -434,7 +434,7 @@
     "line": {
       "zhs": "七星对璃月各地的情况了如指掌，但总有一些情报需要通过特殊手段去收集。我算是这方面的行家，所以这类差事基本被我包揽了。",
       "zht": "七星對璃月各地的情況瞭若指掌，但總有一些情報需要透過特殊手段去收集。我算是這方面的行家，所以這類差事基本被我包攬了。",
-      "jp": "七星は璃月各地の状況をすべて把握しているけど、時には特殊な手段で集めなけきゃならない情報もある。私はその筋のプロだから、そういったことは基本的に私が請け負うのよ。",
+      "jp": "七星は璃月各地の状況をすべて把握しているけど、時には特殊な手段で集めなきゃならない情報もある。私はその筋のプロだから、そういったことは基本的に私が請け負うのよ。",
       "ko": "칠성은 리월 각지의 상황을 손금 보듯 꿰고 있어. 하지만 가끔 특별한 방법으로 정보를 수집해야 할 때도 있지. 난 그 분야에서 나름 프로니까 그런 일은 거의 내가 맡는 편이야",
       "en": "The Qixing know Liyue like the back of their hands. But there's certain information out there that can only be obtained using more specialized methods. That's my area of expertise, so I generally take care of all those assignments myself.",
       "de": "Die Qixing wissen über die Zustände in ganz Liyue bestens Bescheid, aber es ist immer wieder nötig, einige Informationen auf spezielle Art und Weise zu beschaffen. Ich bin Expertin in diesem Gebiet, deshalb kümmere fast ausschließlich ich mich um diese Dinge.",
@@ -1241,7 +1241,7 @@
       "es": "Me gusta moler los chiles de Jueyun secos y los estambres de campanita de cristal hasta convertirlos en polvo, mezclarlos con algunas hojas de té blanco Yunlai y luego preparar una tetera bien cargada. Tiene una fragancia muy potente que te enamora al instante. Prefiero este tipo de bebidas con un regusto duradero a cosas como el café y los licores.",
       "fr": "J'aime me préparer une bonne tasse de thé en moulant des piments de Jueyun et du muguet bleu en poudre puis en les mélangeant avec des feuilles de thé blanc Yunlai. C'est une préparation au parfum très puissant qui vous fait instantanément succomber à son charme. Je préfère les boissons de ce type au café et aux alcools, car elles ont un arrière-goût persistant.",
       "pt": "Eu gosto de moer Pimentas de Jueyun secas e estames de Violetas até virarem pó, misturá-las com algumas Folhas de Chá Branco Yunlai, e então preparar um bule de chá forte. Tem uma fragrância poderosa que faz com que você se apaixone instantaneamente por ele. Prefiro bebidas como esta, com um sabor duradouro do que coisas como café e álcool.",
-      "ru": "Мне нравится измельчать сушёный заоблачный перчик и стеклянные колокольчики, затем смешивать их с чайными листьями и заваривать крепкий чай. Он обладает сильным ароматом, который ни за что не оставляет равнодушным. Я предпочитаю этот напиток кофе или алкоголю.",
+      "ru": "Мне нравится измельчать сушёный заоблачный перчик и стеклянные колокольчики, затем смешивать их с чайными листьями и заваривать крепкий чай. Он обладает сильным ароматом, который никого не оставит равнодушным. Я предпочитаю этот напиток кофе или алкоголю.",
       "id": "Haluskan Jueyun Chili kering dan benang sari Violetgrass, lalu campurkan ke dalam Yunlai White Tea. Seduh, dan aroma teh yang dihasilkan akan sangat memabukkan. Aku lebih suka minuman yang rasanya tahan lama begini dibanding misalnya kopi atau arak.",
       "th": "บด Jueyun Chili ตากแห้ง กับเกสรของ Violetgrass ให้เป็นผงละเอียด แล้วนำไปผสมให้เข้ากันกับชาขาว Yunlai กาน้ำชาที่เดือดปุด ๆ ส่งกลิ่นหอมเข้มข้นไปทั่ว กลิ่นของมันจะต้องทำให้คุณมัวเมาได้แน่นอน ถ้าเทียบกับกาแฟ และเหล้าแล้ว ฉันชอบเครื่องดื่มประเภทที่มีรสชาติหลงเหลือในลำคอมากกว่า",
       "vi": "#Xay nhuyễn Ớt Tuyệt Vân khô và nhụy hoa của Túi Lưu Ly thành bột, trộn đều trong trà Vân Lai, tạo thành một bình trà ướp gia vị, hương thơm ngào ngạt của nó chắc chắn sẽ làm {F#cô}{M#cậu} say đắm. Tôi thích loại thức uống này hơn là cà phê hoặc rượu mạnh."
@@ -1277,6 +1277,102 @@
       "id": "Waspadalah terhadap makanan manis. Rasa puas yang timbul setelah makan ... dapat melemahkan tekad dan membuat orang lengah. Makan sedikit saja sudah bisa bikin ketagihan, apalagi kalau dimakan terus menerus untuk jangka waktu yang lama. Orang yang tadinya waspada juga akan berubah jadi agak bodoh dan mudah lengah.",
       "th": "สำหรับของหวาน ฉันคงต้องระวังไว้สักหน่อย เพราะความพึงพอใจอย่างแรงกล้าแบบนั้น... จะทำให้ความมุ่งมั่นของเราอ่อนแอลง และขาดความระมัดระวังในที่สุด แค่กินไปเพียงสองสามครั้งก็อาจทำให้ติดใจได้ คนที่กินของหวานมาเป็นเวลานาน อาจจะกลายเป็นคนเฉื่อยชาโดยไม่รู้ตัวก็ได้",
       "vi": "Tôi rất cảnh giác đồ ngọt. Cảm giác thỏa mãn mãnh liệt đó... sẽ làm giảm ý chí của tôi, khiến tôi lơ là cảnh giác. Chỉ ăn vài lần là có nguy cơ thèm ngọt nữa. Những người ăn đồ ngọt trong thời gian dài có thể sẽ bất giác trở nên ù lì."
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其一",
+      "zht": "收到贈禮·其一",
+      "jp": "贈り物を受け取る·1",
+      "ko": "선물 획득·첫 번째",
+      "en": "Receiving a Gift: I",
+      "de": "Geschenk erhalten I",
+      "es": "Al recibir un regalo (I)",
+      "fr": "Cadeau reçu (1)",
+      "pt": "Recebendo Presentes — I",
+      "ru": "Подарок I",
+      "id": "Menerima Hadiah: I",
+      "th": "ได้รับของขวัญ - 1",
+      "vi": "Nhận Được Quà I"
+    },
+    "line": {
+      "zhs": "嗯，手艺不错，差点就要被你贿赂成功了。",
+      "zht": "#嗯，手藝不錯，差點就要被{F#妳}{M#你}賄賂成功了。",
+      "jp": "うん、良い腕ね。あとちょっとで、君からの賄賂に同意するところだったわ。",
+      "ko": "음, 솜씨가 제법인데? 하마터면 이 뇌물에 넘어갈 뻔했어",
+      "en": "Hm, not bad. Almost good enough to bribe me with.",
+      "de": "Hm, nicht schlecht. Fast gut genug, um mich damit zu bestechen.",
+      "es": "Mmm, no está nada mal. Casi es lo suficientemente bueno como para sobornarme.",
+      "fr": "Hmm, pas mal. C'est presque assez bon pour me soudoyer...",
+      "pt": "Hmm, sua técnica é boa. Foi quase o suficiente para me subornar.",
+      "ru": "Хм, неплохо. Почти достаточно, чтобы меня подкупить.",
+      "id": "Hmm, lumayan juga. Sogokanmu hampir saja berhasil.",
+      "th": "อืม ฝีมือไม่เลว เกือบจะโดนเธอซื้อสำเร็จแล้วนะเนี่ย",
+      "vi": "#Ừm, tay nghề không tệ, suýt chút nữa là bị {F#cô}{M#cậu} mua chuộc rồi đấy."
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其二",
+      "zht": "收到贈禮·其二",
+      "jp": "贈り物を受け取る·2",
+      "ko": "선물 획득·두 번째",
+      "en": "Receiving a Gift: II",
+      "de": "Geschenk erhalten II",
+      "es": "Al recibir un regalo (II)",
+      "fr": "Cadeau reçu (2)",
+      "pt": "Recebendo Presentes — II",
+      "ru": "Подарок II",
+      "id": "Menerima Hadiah: II",
+      "th": "ได้รับของขวัญ - 2",
+      "vi": "Nhận Được Quà II"
+    },
+    "line": {
+      "zhs": "吃惯辣味之后，其他菜总觉得不够劲。没办法啊。",
+      "zht": "吃慣辣味之後，其他菜總覺得不夠勁。沒辦法啊。",
+      "jp": "辛いものに慣れると、他の料理が物足りないと思っちゃうの。仕方ないことよ。",
+      "ko": "매운맛에 익숙해진 뒤로 다른 요리는 뭔가 부족한 느낌이야. 어쩔 수 없지",
+      "en": "Once you get accustomed to spicy food, everything else tastes bland. That's just the way it is.",
+      "de": "Wenn man sich erst einmal an scharfes Essen gewöhnt hat, schmeckt alles andere fade. Das kann man nicht ändern.",
+      "es": "Pero una vez que te acostumbras a la comida picante, el resto de platos te parecen insulsos. Así funcionan las cosas.",
+      "fr": "Une fois qu'on s'est habitué à la nourriture épicée, tout le reste est plutôt fade. C'est la vie.",
+      "pt": "Depois que você se acostuma à comida apimentada, todo o resto não parece ter o mesmo impacto. Não tem jeito.",
+      "ru": "Когда привыкнешь к острой еде, всё остальное кажется пресным. Ничего не поделать.",
+      "id": "Setelah biasa makan makanan yang pedas, makanan lainnya terasa tawar. Memang akan begitu.",
+      "th": "พอชินกับรสเผ็ดแล้ว ก็รู้สึกว่าอาหารรสชาติอื่นมันจืดชืดไปเลย ช่วยไม่ได้ล่ะนะ",
+      "vi": "Quen ăn cay rồi nên những món khác cứ thấy không đủ vị. Thật không còn cách nào khác."
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其三",
+      "zht": "收到贈禮·其三",
+      "jp": "贈り物を受け取る·3",
+      "ko": "선물 획득·세 번째",
+      "en": "Receiving a Gift: III",
+      "de": "Geschenk erhalten III",
+      "es": "Al recibir un regalo (II)",
+      "fr": "Cadeau reçu (3)",
+      "pt": "Recebendo Presentes — III",
+      "ru": "Подарок III",
+      "id": "Menerima Hadiah: III",
+      "th": "ได้รับของขวัญ - 3",
+      "vi": "Nhận Được Quà III"
+    },
+    "line": {
+      "zhs": "投个骰子吧？点数比我小的话…就你来吃？",
+      "zht": "#投個骰子吧？點數比我小的話…就{F#妳}{M#你}來吃？",
+      "jp": "この賽を投げてみない？私より目が小さかったら…君が食べるってのはどう？",
+      "ko": "주사위 한번 던져 볼래? 나보다 작은 숫자가 나오면… 네가 먹는 걸로?",
+      "en": "Shall we roll some dice? Whoever gets the lowest number... gets to eat it.",
+      "de": "Sollen wir würfeln? Wer die niedrigere Zahl hat, muss es essen.",
+      "es": "¿Y si nos lo jugamos a los dados? Quien saque menos puntos, se lo come. ¿De acuerdo?",
+      "fr": "Et si on jetait les dés ? Celui qui fait le plus petit nombre... peut le manger.",
+      "pt": "Que tal jogarmos o dado? Se o número que você tirar for menor que o meu, você terá que comer, que tal?",
+      "ru": "Бросим кости? Кто выкинет меньше... Тот и съест.",
+      "id": "Bagaimana kalau melempar dadu? Siapa pun yang dapat angka lebih kecil harus memakannya.",
+      "th": "งั้นเรามาทอยลูกเต๋าเอามั้ยล่ะ? ถ้าแต้มน้อยกว่าฉันละก็... เธอต้องเป็นคนกินนะ?",
+      "vi": "#Ném xúc xắc chứ? Số nút nhỏ hơn tôi thì {F#cô}{M#cậu} ăn nhé?"
     }
   },
   {

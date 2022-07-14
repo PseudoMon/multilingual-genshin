@@ -27,7 +27,7 @@
       "pt": "Eu sou a Keqing, Yuheng dos Qixing de Liyue. Já chegou a hora de resolução, e as regras de milhares anos serão alteradas! Este momento histórico, você quer testemunhar comigo?",
       "ru": "#Я Кэ Цин, Нефритовое Равновесие группировки Цисин в Ли Юэ. Настало время перемен, и тысячелетний порядок скоро будет переписан. Ты соглас{M#ен}{F#на} стать свидетелем этого исторического момента вместе со мной?",
       "id": "Namaku Keqing, aku \"Yuheng\" dari Liyue Qixing. Era perubahan akan segera dimulai. Hukum yang telah berlangsung selama ribuan tahun akan ditulis kembali. Mari kita saksikan momen bersejarah ini bersama-sama.",
-      "th": "ฉันคือ Keqing \"Yuheng\" แห่ง Liyue Qixing โอกาสแห่งการเปลี่ยนแปลงได้ มาถึงแล้ว กฎระเบียบที่ยึดถือมานับพันปีจะถูกแก้ไข เธออยากจะร่วมเป็นสักขีพยาน ในช่วงเวลาแห่งประวัติศาสตร์นี้ ด้วยกันกับฉันมั้ย?",
+      "th": "ฉันคือ Keqing \"Yuheng\" แห่ง Liyue Qixing โอกาสแห่งการเปลี่ยนแปลงได้มาถึงแล้ว กฎระเบียบที่ยึดถือมานับพันปีจะถูกแก้ไข เธออยากจะร่วมเป็นสักขีพยานในช่วงเวลาแห่งประวัติศาสตร์นี้ด้วยกันกับฉันมั้ย?",
       "vi": "Tôi là Keqing, \"Ngọc Hành\" của Thất Tinh Liyue. Thời cơ thay đổi đã đến rồi, trật tự được lưu giữ hàng ngàn năm nay sắp được thay đổi. Bạn có muốn cùng tôi chứng kiến khoảnh khắc lịch sử này không?"
     }
   },
@@ -43,8 +43,8 @@
       "fr": "Bavardage - Retard",
       "pt": "Bate-papo - Atrasos",
       "ru": "Поболтаем: Опоздания",
-      "id": "Berbincang: Penundaan",
-      "th": "แชท-ล่าช้า",
+      "id": "Mengobrol: Penundaan",
+      "th": "แชท - ล่าช้า",
       "vi": "Nói chuyện phiếm - Lỡ Mất"
     },
     "line": {
@@ -55,7 +55,7 @@
       "en": "Come on. Enough procrastinating. Let's go.",
       "de": "Vertrödeln wir keine Zeit. Sonst kommen wir nie weiter.",
       "es": "No procrastines tanto, o no acabarás lo que tienes que hacer.",
-      "fr": "#Ne trainons pas ou nous ne pourrons pas terminer ce que nous sommes {M#venus}{F#venues} faire.",
+      "fr": "#Ne traînons pas ou nous ne pourrons pas terminer ce que nous sommes {M#venus}{F#venues} faire.",
       "pt": "Com tantas interrupções, é muito difícil acabar a tempo.",
       "ru": "Ну же, хватит тянуть время. Пойдём.",
       "id": "Sudah, jangan menunda-nunda lagi. Urusanku masih banyak.",
@@ -75,8 +75,8 @@
       "fr": "Bavardage - Détente",
       "pt": "Bate-papo - Relaxamento",
       "ru": "Поболтаем: Отдых",
-      "id": "Berbincang: Santai",
-      "th": "แชท-ผ่อนคลาย",
+      "id": "Mengobrol: Santai",
+      "th": "แชท - ผ่อนคลาย",
       "vi": "Nói chuyện phiếm - Thảnh thơi"
     },
     "line": {
@@ -91,7 +91,7 @@
       "pt": "Não é ruim ter um equilíbrio entre trabalhar e descansar. Mas não relaxe demais!",
       "ru": "Я согласна, что делу время, а потехе час, но час - это многовато.",
       "id": "Menyeimbangkan waktu kerja dan istirahat memang bagus, tapi jangan sampai terlalu santai dalam hidup.",
-      "th": "ทำงานและพักผ่อนให้สมดุลเป็น อะไรที่ไม่เลวเลย แต่ก็อย่าพักผ่อนจนเกินไป",
+      "th": "ทำงานและพักผ่อนให้สมดุลเป็นอะไรที่ไม่เลวเลย แต่ก็อย่าพักผ่อนจนเกินไป",
       "vi": "Kết hợp làm việc và nghỉ ngơi là rất tốt, nhưng cũng đừng thoải mái quá."
     }
   },
@@ -107,8 +107,8 @@
       "fr": "Bavardage - Occasions",
       "pt": "Bate-papo - Oportunidade",
       "ru": "Поболтаем: Возможность",
-      "id": "Berbincang: Kesempatan",
-      "th": "แชท-โอกาส",
+      "id": "Mengobrol: Kesempatan",
+      "th": "แชท - โอกาส",
       "vi": "Nói chuyện phiếm - Cơ hội"
     },
     "line": {
@@ -123,7 +123,7 @@
       "pt": "Quer nas aventuras, quer nos negócios, as oportunidades se deslizam entre os dedos com muita facilidade.",
       "ru": "Неважно, в приключениях или в бизнесе - благоприятная возможность мимолётна.",
       "id": "Baik dalam petualangan ataupun dalam berdagang, sebuah kesempatan bisa hilang seketika kalau kamu melewatkannya.",
-      "th": "ไม่ว่าจะเป็นการผจญภัยหรือ ทำธุรกิจ โอกาสล้วนมาเพียงแค่วูบเดียว เท่านั้น",
+      "th": "ไม่ว่าจะเป็นการผจญภัยหรือ ทำธุรกิจ โอกาสล้วนมาเพียงแค่วูบเดียวเท่านั้น",
       "vi": "Bất kể là thám hiểm hay làm ăn, thứ hiếm có khó gặp nhất chính là cơ hội."
     }
   },
@@ -150,7 +150,7 @@
       "ko": "비가 많이 오네… 이러다 늦겠어. 그래서 말인데 사람들은 어째서 어제 해야 할 일을 오늘로 미루는 거야?",
       "en": "Quite a downpour... Nothing will get done until it clears. Let this be a lesson to those who yesterday said, \"I'll do it tomorrow.\"",
       "de": "Es schüttet ja heftig! Da bekommt man nichts fertig! Das sollte denen eine Lehre sein, die gestern noch alles auf den nächsten Tag verschieben wollten.",
-      "es": "Con esta lluvia, tendremos que posponer algunas cosas. Que esto sirva de lección para todos aquellos que dicen “lo haré mañana”.",
+      "es": "Con esta lluvia, tendremos que posponer algunos asuntos. Que esto sirva de lección para todos aquellos que dicen “lo haré mañana”.",
       "fr": "Quel déluge... On ne peut rien faire jusqu'à ce que la pluie cesse. Que cela serve de leçon à tous ceux qui remettent tout au lendemain.",
       "pt": "Está chovendo muito... Eles deviam ter acabado o trabalho ontem, mas por que é que deixaram para hoje?",
       "ru": "Какой сильный дождь... Все дела встанут до тех пор, пока небо не прояснится. Пусть это будет уроком для тех, кто о вчерашней работе сказал: «Сделаю её завтра».",
@@ -187,7 +187,7 @@
       "pt": "É um pouco assustador nos dias de relâmpagos e trovões. Mas não se preocupe, o Porto de Liyue tem um sistema de primeira qualidade contra trovões e incêndios.",
       "ru": "Гром и молния, конечно, пугают, но в гавани Ли Юэ стоит лучшая защита от молний и пожаров. Беспокоиться не о чем.",
       "id": "Petir dan guntur memang menakutkan, tapi jangan khawatir, sistem pertahanan bencana badai dan api Liyue tidak ada duanya.",
-      "th": "ถึงแม้ฟ้าผ่าฟ้าร้องจะทำให้คนตกใจ แต่การป้องกันฟ้าผ่าป้อมปราการ ของ Liyue นั้นไม่ต้องเป็นห่วงเลยล่ะ",
+      "th": "ถึงแม้ฟ้าผ่าฟ้าร้องจะทำให้คนตกใจ แต่การป้องกันฟ้าผ่าหรือเพลิงไหม้ของ Liyue นั้นเป็นที่หนึ่งอยู่แล้ว หายห่วงได้เลย",
       "vi": "Mặc dù sấm sét có chút đáng sợ, nhưng việc chống sét chống cháy ở cảng Liyue là số một, đừng lo lắng."
     }
   },
@@ -251,7 +251,7 @@
       "pt": "Ah! O tempo está ótimo, entretanto, também acabei o trabalho. Que tal irmos às compras?",
       "ru": "Ах... Такая хорошая погода, и как раз все дела доделали... Не хочешь прогуляться?",
       "id": "Wah, cuacanya bagus sekali, dan kebetulan pekerjaan hari ini juga sudah selesai. Bagaimana kalau kita berkeliling sebentar?",
-      "th": "อ่า...อากาศดีซะขนาดนี้ งานก็จะเสร็จแล้ว หรือว่า...จะไปเดินเที่ยวดีนะ?",
+      "th": "อ่า...อากาศดีซะขนาดนี้ งานก็จะเสร็จแล้ว หรือว่า... จะไปเดินเที่ยวดีนะ?",
       "vi": "Ôi... thời tiết thật đẹp, công việc cũng vừa hoàn thành, có muốn... đi dạo phố không?"
     }
   },
@@ -278,7 +278,7 @@
       "ko": "좋은 아침. 아침 컨디션은 하루의 기분을 결정하니까 피곤하더라도 정신 차리라구!",
       "en": "Morning. Time to set the tone for the rest of the day, so if you're still feeling sleepy, shake it off!",
       "de": "Guten Morgen! Deine Einstellung so früh bestimmt den gesamten Ablauf des Tages. Also vergiss deine Müdigkeit und bereite dich auf die Arbeit vor!",
-      "es": "Buenos días. Tu humor el resto del día dependerá del que tengas por la mañana, así que ¡vamos, arriba esos ánimos!",
+      "es": "Buenos días. Tu humor el resto del día dependerá del que tengas por la mañana, así que vamos, ¡arriba esos ánimos!",
       "fr": "Bonjour, le matin donne le ton du reste de la journée. Il faut se défaire de la fatigue et que ça saute !",
       "pt": "Bom dia! A atitude de manhã é fundamental para um dia inteiro. Portanto, se ainda estiver com sono, tem que se esforçar para se animar!",
       "ru": "Доброе утро. Надо задать тон всему дню, так что скорее стряхни оставшуюся дремоту!",
@@ -310,7 +310,7 @@
       "ko": "난 점심에도 쉬지 않아. 하지만 너는 피곤하면 가서 쉬어도 돼. 내가 3분 후에 깨워줄게",
       "en": "I'm not in the habit of napping at noon, but don't let that stop you if you're feeling tired. I'll give you a wake-up call in, say, three minutes' time.",
       "de": "Ich habe nicht die Gewohnheit, mittags eine Pause zu machen. Wenn du müde bist, ruh dich nur aus. Ich werde dich in drei Minuten rufen.",
-      "es": "#No tengo costumbre de dormir la siesta, pero si tú estás cansad{F#a}{M#o}, hazlo. Te despertaré en tres minutos.",
+      "es": "#No tengo costumbre de dormir la siesta, pero si estás cansad{F#a}{M#o}, hazlo. Te despertaré en tres minutos.",
       "fr": "#Je n'ai pas l'habitude de faire la sieste après le déjeuner, mais ne vous retenez pas pour moi si vous êtes {M#fatigué}{F#fatiguée}. Je vous réveille dans trois minutes.",
       "pt": "Não tenho hábito de fazer sesta, mas se você estiver com sono, vá lá descansar um pouco. Vou te acordar daqui a três minutos.",
       "ru": "#Я не сплю после обеда, но если ты устал{F#a}, то иди вздремни. Я разбужу тебя через три минуты.",
@@ -347,7 +347,7 @@
       "pt": "As luzes estão acesas ao anoitecer. Hum, que noite pacífica e tranquila!",
       "ru": "Наступает ночь - зажигаются огни. Ах... Ещё один спокойный день подходит к концу.",
       "id": "Matahari mulai terbenam, lampu-lampu pun mulai menyala. Seperti biasa, hari ini juga hari yang damai dan tenteram.",
-      "th": "พอตกกลางคืน ไฟก็สว่างขึ้น อืม...ช่างเป็นอีกคืนที่สงบสุข",
+      "th": "พอตกกลางคืน ไฟก็สว่างขึ้น อืม... ช่างเป็นอีกคืนที่สงบสุข",
       "vi": "Màn đêm buông xuống, đèn cũng vừa lên. Ừm... lại là một ngày an lành bình yên."
     }
   },
@@ -379,7 +379,7 @@
       "pt": "Bons sonhos! Eu? Eu ainda não vou dormir, tenho uns assuntos para tratar.",
       "ru": "Приятных снов. Я? ...Мне ещё надо сделать десяток дел. Сейчас доделаю и пойду спать.",
       "id": "Selamat tidur. Aku? Aku masih punya banyak urusan yang harus ditangani. Aku akan beristirahat setelah menyelesaikannya.",
-      "th": "ฝันดีนะ ฉันเหรอ?...อืม ยังมีเรื่องที่ต้องจัดการอยู่ ทำเสร็จก็จะได้พักแล้วล่ะ",
+      "th": "ฝันดีนะ ฉันเหรอ?... อืม ยังมีเรื่องที่ต้องจัดการอยู่ ทำเสร็จก็จะได้พักแล้วล่ะ",
       "vi": "Chúc bạn có giấc mơ đẹp. Tôi sao?... Ừm, còn một số việc cần phải xử lý, làm xong là có thể nghỉ ngơi rồi."
     }
   },
@@ -396,7 +396,7 @@
       "pt": "Sobre Keqing - Idealismo",
       "ru": "О Кэ Цин: Убеждения",
       "id": "Tentang Keqing: Idealisme",
-      "th": "เกี่ยวกับตัว Keqing เอง-ความคิด",
+      "th": "เกี่ยวกับตัว Keqing เอง - ความคิด",
       "vi": "Về Bản Thân Keqing - Ý Niệm"
     },
     "line": {
@@ -411,7 +411,7 @@
       "pt": "Se você se sente convencido de algo, deve expressar sua opinião e fazer algo a respeito. Essa é a minha filosofia de vida.",
       "ru": "Если ты в чём-то уверен, то нужно громко об этом заявить и начать действовать - это мой жизненный принцип.",
       "id": "Kalau kamu merasa benar, kamu harus berani mengatakannya dengan nyaring dan melakukannya dengan percaya diri. Ini adalah prinsip hidup yang kupakai selama ini.",
-      "th": "ถ้ารู้สึกว่าตัวเองถูกก็ต้องพูด ออกมา การกระทำที่หนักแน่นและเด็ดเดี่ยว คือแนวทางการใช้ชีวิตที่ฉันยึดถือ มาตลอด",
+      "th": "ถ้ารู้สึกว่าตัวเองถูก ก็ต้องพูดออกมา การกระทำที่หนักแน่นและเด็ดเดี่ยว คือแนวทางการใช้ชีวิตที่ฉันยึดถือมาตลอด",
       "vi": "Nếu cảm thấy mình đúng, thì phải lớn tiếng nói ra và hành động một cách kiên quyết... Đây chính là lý tưởng sống mà tôi luôn thực hiện."
     }
   },
@@ -428,7 +428,7 @@
       "pt": "Sobre Keqing - Trabalho",
       "ru": "О Кэ Цин: Должность",
       "id": "Tentang Keqing: Pekerjaan",
-      "th": "เกี่ยวกับตัว Keqing เอง-หน้าที่",
+      "th": "เกี่ยวกับตัว Keqing เอง - หน้าที่",
       "vi": "Về Bản Thân Keqing - Chức Trách"
     },
     "line": {
@@ -443,7 +443,7 @@
       "pt": "O conteúdo do meu trabalho é gerenciamento de terra e construção. O nosso Liyue é vasto geograficamente e rico em recursos naturais. Se nós não tivermos uma visão estratégica ou desvalorizarmos o gerenciamento adequado, não tem como resistir aos riscos.",
       "ru": "Моя работа - управление недвижимостью и строительством. Конечно, Ли Юэ велик и богат ресурсами, но если гнаться за сиюминутной выгодой без рационального планирования, то беды не избежать.",
       "id": "Pekerjaanku adalah mengurus tanah dan kontruksi di Liyue. Liyue memang punya lahan dan sumber daya yang berlimpah. Namun kalau pembangunannya tidak direncanakan dengan baik dan hanya mementingkan keuntungan jangka pendek, risikonya sangat tinggi.",
-      "th": "หน้าที่ของฉันคือดูแลด้านที่ดินและ การก่อสร้าง Liyue นั้นกว้างใหญ่ ทรัพยากรธรรมชาติอุดมสมบูรณ์ แต่ถ้าขาดการวางแผนที่เหมาะสม เอาแต่มองถึงผลประโยชน์ ก็ไม่มีทางที่จะต้านความเสี่ยงได้",
+      "th": "หน้าที่ของฉันคือดูแลด้านที่ดินและการก่อสร้าง Liyue นั้นกว้างใหญ่ ทรัพยากรธรรมชาติอุดมสมบูรณ์ แต่ถ้าขาดการวางแผนที่เหมาะสม เอาแต่มองถึงผลประโยชน์ ก็ไม่มีทางที่จะต้านความเสี่ยงได้",
       "vi": "Công việc của tôi là quản lý đất đai và xây dựng, Liyue có diện tích lãnh thổ rộng lớn và các sản vật phong phú, nhưng nếu thiếu đi quy hoạch hợp lý, chỉ chú trọng những lợi ích trước mắt thì không thể phòng chống các rủi ro."
     }
   },
@@ -460,7 +460,7 @@
       "pt": "Sobre Keqing - Ceticismo",
       "ru": "О Кэ Цин: Сомнения",
       "id": "Tentang Keqing: Kecurigaan",
-      "th": "เกี่ยวกับตัว Keqing เอง-สงสัย",
+      "th": "เกี่ยวกับตัว Keqing เอง - สงสัย",
       "vi": "Về Bản Thân Keqing - Nghi Ngờ"
     },
     "line": {
@@ -475,7 +475,7 @@
       "pt": "Na sua opinião, o que é mais importante para sustentar milhares anos de história de Liyue? \n\n...Rex Lapis? ...Eu não acho, porque sobrevivemos por conta do nosso esforço, então somos nós que sustentamos a história. O Rex Lapis é arrogante, e queria interferir tudo. Mas, não acredito que ele sabe tudo.",
       "ru": "Как ты думаешь, как Ли Юэ просуществовал тысячу лет?\n\n...Властелин Камня?.. Я так не думаю. Мы, смертные, упорно трудимся, чтобы выжить, а он просто сходит с небес и везде суёт свой нос. Хм, грубовато получилось. Но разве он всеведущ?",
       "id": "Menurutmu, apa hal penting yang membuat Liyue bisa bertahan selama ribuan tahun? Rex Lapis? Aku tidak merasa begitu. Karena hanya kita para manusia yang harus berusaha agar bisa betahan hidup. Dia yang berada di atas malah mau ikut campur. Huh, apa dia benar-benar mengerti penderitaan manusia?",
-      "th": "เธอว่าสิ่งที่สำคัญที่สุดในการประคับประคอง Liyue มานับพันปีนั้นคืออะไร?\n\n...ราชาแห่งหิน? ...ฉันไม่ได้รู้สึกว่าเป็นเพราะอาศัย ความพยายามถึงอยู่รอดได้ ที่สุดแล้วคือมนุษย์เราต่างหาก ผู้ที่อยู่บนสวรรค์กลับเข้ามายุ่งในทุกสิ่ง ฮึ พูดกันตามตรงนะ เขารู้เรื่องไปซะหมดจริง ๆ เหรอ?",
+      "th": "เธอว่าสิ่งที่สำคัญที่สุดในการประคับประคอง Liyue มานับพันปีนั้นคืออะไร?\n\n...ราชาแห่งหิน? ...แต่ฉันไม่ได้รู้สึกอย่างนั้น เพราะมนุษย์อย่างพวกเราน่ะ ต้องอาศัยความพยายามถึงจะอยู่รอดได้ ผู้ที่อยู่บนสวรรค์อันสูงส่งกลับเข้ามายุ่มย่ามไปซะทุกสิ่ง ฮึ พูดตามตรงเลยนะ เขาจะรู้ไปหมดทุกเรื่องจริง ๆ น่ะเหรอ?",
       "vi": "Theo bạn, điều quan trọng đã chống đỡ cho Liyue vượt qua hàng ngàn năm nay là gì? \n\n...Đế Quân?...Tôi không nghĩ vậy, bởi phải dựa vào sự cố gắng mới có thể tồn tại, chung quy là do con người chúng ta. Ngài ấy luôn ngồi ở phía trên đó, lại muốn can dự vào mọi chuyện. Hừ, nói câu khó nghe, ngài ấy thực sự hiểu hết tất cả sao?"
     }
   },
@@ -492,7 +492,7 @@
       "pt": "Sobre Keqing - Autorreflexão",
       "ru": "О Кэ Цин: Переосмысление",
       "id": "Tentang Keqing: Introspeksi",
-      "th": "เกี่ยวกับตัว Keqing เอง-คิดทบทวน",
+      "th": "เกี่ยวกับตัว Keqing เอง - คิดทบทวน",
       "vi": "Về Bản Thân Keqing - Suy Tư"
     },
     "line": {
@@ -520,11 +520,11 @@
       "en": "About Us: Pursuing",
       "de": "Über uns – Verfolgung",
       "es": "#Sobre nosotr{F#as}{M#os} - Búsqueda",
-      "fr": "À propos de nous - Traque",
+      "fr": "À propos de nous - Réflexion",
       "pt": "Sobre Nós - Perseguição",
       "ru": "О нас: Стремления",
       "id": "Tentang kita: Mengejar",
-      "th": "เกี่ยวกับเรา-สืบหา",
+      "th": "เกี่ยวกับเรา - สืบหา",
       "vi": "Về Chúng Tôi - Tìm Kiếm"
     },
     "line": {
@@ -534,12 +534,12 @@
       "ko": "나는 네가 맘에 들어. 신명을 마주하고도 맹목적으로 신뢰하거나 따르지 않잖아. 그리고 항상 독립적인 사고로 의문을 제기하고, 답을 찾기 위해 끊임없이 노력하지. 쑥스러워하지 마, 그게 올바른 태도니까. 신은 실수하지 않는다고 누가 장담할 수 있겠어?",
       "en": "You know why I like you? It's because you don't believe something just because it was said by a god. You make up your own mind. You ask the questions everyone else is too cowardly to ask, and when you don't get an answer, you keep looking till you find one. Oh don't worry — your way is definitely the right way. Who says gods don't make mistakes, anyway?",
       "de": "Ich finde, du machst das wirklich gut. Selbst im Angesicht der Götter folgst du nicht blind, sondern benutzt Köpfchen. Wenn du eine Frage hast, stellst du sie und forderst eine Antwort ein. Du brauchst dich nicht zu schämen, du machst das richtig so. Wer könnte schon behaupten, dass Götter alles richtig machen?",
-      "es": "¿Sabes por qué me agradas? Porque no crees en algo solo porque lo dijera un dios, sino que tomas tus propias decisiones. Haces las preguntas que al resto les da miedo hacer y, cuando no obtienes la respuesta que buscabas, sigues buscando hasta encontrarla. Oh, no te preocupes, tu camino es el correcto. Además, ¿quién dice que los dioses no cometen también errores?",
+      "es": "¿Sabes por qué me agradas? Porque no crees en algo solo porque lo dijera un dios, sino que tomas tus propias decisiones. Haces las preguntas que al resto le da miedo hacer y, cuando no obtienes la respuesta que buscabas, sigues buscando hasta encontrarla. Oh, no te preocupes, tu camino es el correcto. Además, ¿quién dice que los dioses no cometen también errores?",
       "fr": "Je vous apprécie beaucoup. Vous ne buvez pas les paroles de n'importe qui, même celles d'un dieu, avant de vous faire votre propre idée et vous ne craignez pas de poser les questions qui dérangent. Lorsque vous n'obtenez pas de réponses satisfaisantes, vous les cherchez par vous-même... Je pense que votre façon de penser est la meilleure. Qui a dit que les dieux ne pouvaient pas se tromper ?",
       "pt": "Eu te admiro. Você não acredita em deuses cegamente, levanta perguntas quando tem dúvida, persegue o caminho todo para encontrar a resposta certa. É uma atitude certa, não há garantia de que todos os deuses são certos.",
       "ru": "#Знаешь, что мне в тебе нравится? Даже пред лицом божества ты не впадаешь в пиетизм и не следуешь слепо за ним, а продолжаешь мыслить, смело задавать вопросы, и, не получив ответа, сам{F#a} отправляешься в поиск. Не надо смущаться. Так и надо поступать, ведь нет никакой гарантии, что боги не могут ошибаться.",
       "id": "Aku sangat mengagumi. Kamu tidak memercayai sesuatu hanya karena orang lain memercayainya. Kamu punya cara berpikir tersendiri. Saat ada yang tidak dimengerti, kamu akan bertanya tanpa gentar, dan kalau tidak ada jawabannya, kamu akan mencari jawabannya sampai dapat. Ini adalah sikap yang benar dalam menghadapi masalah. Siapa bilang Dewa tidak akan membuat kesalahan? Iya, kan?",
-      "th": "ฉันชื่นชมเธอนะ ต่อหน้าเทพแต่ไม่ศรัทธาอย่าง งมงาย ไม่เชื่ออย่างหลับหูหลับตา ยึดมั่นในความคิดของตัวเอง มีคำถามก็กล้าที่จะถามออกมา ถ้าไม่มีคำตอบก็ตามเสาะหา อย่ารู้สึกไม่ดีเลยนะ นี่คือทัศนคติที่ถูกต้อง และที่สำคัญใครจะรับประกันได้ว่า เทพจะไม่เคยทำผิด?",
+      "th": "ฉันชื่นชมเธอนะ แม้อยู่ต่อหน้าเทพก็ไม่ศรัทธาอย่างงมงาย ไม่เชื่ออย่างหลับหูหลับตา ยึดมั่นในความคิดของตัวเอง มีคำถามก็กล้าที่จะถามออกมา ถ้าไม่มีคำตอบก็ตามเสาะหา อย่ารู้สึกไม่ดีเลยนะ นี่คือทัศนคติที่ถูกต้อง และที่สำคัญใครจะรับประกันได้ว่า เทพจะไม่เคยทำผิด?",
       "vi": "Tôi rất ngưỡng mộ bạn. Đối mặt với các vị thần mà vẫn không mê tín, không mù quáng, luôn suy nghĩ một cách độc lập, có vấn đề thì mạnh dạn hỏi, chưa có đáp án thì sẽ tiếp tục truy tìm. Đừng ngần ngại, đây mới là thái độ đúng đắn, ai có thể đảm bảo rằng là thần thì sẽ không phạm sai lầm chứ?"
     }
   },
@@ -556,7 +556,7 @@
       "pt": "Sobre Nós - Tentativa",
       "ru": "О нас: Пробы",
       "id": "Tentang kita: Mencoba",
-      "th": "เกี่ยวกับเรา-ทดลอง",
+      "th": "เกี่ยวกับเรา - ทดลอง",
       "vi": "Về Chúng Tôi - Thử"
     },
     "line": {
@@ -588,7 +588,7 @@
       "pt": "Sobre Nós - Encorajamento",
       "ru": "О нас: Стимул",
       "id": "Tentang kita: Semangat",
-      "th": "เกี่ยวกับเรา-กำลังใจ",
+      "th": "เกี่ยวกับเรา - กำลังใจ",
       "vi": "Về Chúng Tôi - Ủng Hộ"
     },
     "line": {
@@ -598,12 +598,12 @@
       "ko": "옛날엔 내가 너무 순진했지. 암왕제군님과 동등한 위치에 서려고 하다니, 애초에… 내게 그런 자격이 있긴 한 걸까? 어? 음… 네 말이 맞아. 분명 다른 일엔 자신감이 넘치는데 왜 이 일로 고민하고 있는지 모르겠어. 여기서 이렇게 의기소침해 있느니 차라리 더 많은 것을 배워 그를 따라잡기 위해 노력하겠어!",
       "en": "I used to be so naive. I genuinely believed I was on a par with Rex Lapis... Seems I really overestimated myself. Hmm? Yes... You're right! I have plenty of self-confidence in other areas, so why not in this? ...I can catch up with him — I WILL catch up with him! I just need to keep my chin up, keep trying, and keep learning!",
       "de": "Ich habe mich früher wirklich selbst überschätzt und dachte, auf der selben Ebene wie Rex Lapis zu sein. Dabei ... Hm, du meinst, ich könnte es tatsächlich schaffen? Ich? ... Du hast recht, mir fehlt es sonst auch nicht an Selbstvertrauen. Warum sollte ich mich jetzt aufhalten lassen? Ich muss mich einfach nur genug anstrengen!",
-      "es": "Antes era tan ingenua... Realmente creía que estaba a la par con Rex Lapis... Parece que me sobrevaloré a mí misma. ¿Eh? Sí, tienes razón. Si tengo tanta confianza en mí misma con otras cosas, ¿por qué con esto no? Puedo alcanzar su nivel, ¡lo alcanzaré! ¡Solo debo ir con la cabeza bien alta, seguir intentándolo y seguir aprendiendo!",
+      "es": "Antes era tan ingenua... Realmente creía que estaba a la par con Rex Lapis... Parece que me sobrevaloré a mí misma. ¿Eh? Sí, tienes razón. Si tengo tanta confianza en mí misma con otras cosas, ¿por qué con esto no? Puedo alcanzar su nivel, ¡lo alcanzaré! ¡Solo debo mantener la cabeza bien alta, seguir intentándolo y seguir aprendiendo!",
       "fr": "J'étais bien trop naïve autrefois. Je croyais vraiment pouvoir discuter en égale avec le Souverain de la Roche... Je me surestimais grandement. Hmm ? Oui... Vous avez raison, je ne manque pas de confiance dans d'autres domaines, alors pourquoi pas dans ce cas ? ... J'atteindrai son niveau un jour – je le SAIS ! Il suffit que je m'attelle à la tâche, et que je continue à m'améliorer !",
       "pt": "#Antigamente eu era muito ingênua. Achava que estava a altura de Rex Lapis... Mas será que eu realmente tenho essa capacidade? Hã? Oh, você está cert{F#a}{M#o}, eu claramente sou muito auto-confiante com outras coisas, por que ficaria nervosa com algo assim? Ao invés de ficar aqui insatisfeita, eu deveria me esforçar para alcançar ele!",
       "ru": "Раньше во мне было слишком много наивности. Мне казалось, что я могу быть на равных с Властелином, но... так ли это? ...А? Да... Ты говоришь верно. Мне хватает уверенности в себе в других областях, так зачем беспокоиться об этой. Вместо того чтобы распускать нюни, надо больше учиться и больше работать. Я ещё поравняюсь с ним!",
       "id": "Aku dulu sangat naif. Aku bahkan benar-benar percaya kalau diriku setara dengan Rex Lapis ... Sepertinya aku hanya melebih-lebihkan diriku sendiri. Hmm? Kamu benar! Aku memiliki banyak kepercayaan diri di bidang lain, jadi kenapa yang ini tidak? Aku pasti bisa menyusulnya — AKU AKAN menyusulnya! Aku hanya perlu untuk tetap percaya diri, terus mencoba, dan terus belajar!",
-      "th": "ในอดีตน่ะ ฉันไร้เดียงสามาก อยากจะเทียบกับราชาแห่งหิน ฉัน...มีสิทธิ์แบบนั้นด้วยรึไง? ...เอ่? อืม... เธอพูดถูก เรื่องอื่นฉันยังมีความมั่นใจเลย ทำไมต้องมากลุ้มใจ เพราะเรื่องแบบนี้ด้วย แทนที่จะมาเศร้าซึมอยู่ที่นี่ สู้หาความรู้เพิ่มเติม พยายามตามเขาให้ทันดีกว่า!",
+      "th": "ในอดีตน่ะ ฉันไร้เดียงสามาก อยากจะเทียบกับราชาแห่งหิน ฉัน...มีสิทธิ์แบบนั้นด้วยรึไง? ...เอ่? อืม... เธอพูดถูก เรื่องอื่นฉันยังมีความมั่นใจเลย ทำไมต้องมากลุ้มใจเพราะเรื่องแบบนี้ด้วย แทนที่จะมาเศร้าซึมอยู่ที่นี่ สู้หาความรู้เพิ่มเติม พยายามตามเขาให้ทันดีกว่า!",
       "vi": "Trước đây tôi quá ngây thơ. Muốn được ngang hàng với Đế Quân, tôi... thực sự có tư cách đó không?...Hả? Ừm... bạn nói đúng, rõ ràng là tôi rất tự tin vào những việc khác, tại sao tôi lại buồn phiền vì chuyện này nhỉ. Thay vì ở đây chán nản ủ rũ, sao không học hỏi nhiều hơn, cố gắng đuổi kịp ngài ấy!"
     }
   },
@@ -620,7 +620,7 @@
       "pt": "Sobre a Visão - Ceticismo",
       "ru": "О Глазе Бога: Сомнения",
       "id": "Tentang Vision: Kecurigaan",
-      "th": "เกี่ยวกับ \"วิชั่น\"-สงสัย",
+      "th": "เกี่ยวกับ \"วิชั่น\" - สงสัย",
       "vi": "Về Vision - Nghi Ngờ"
     },
     "line": {
@@ -635,7 +635,7 @@
       "pt": "Dizem que a Visão é o reconhecimento dos Arcontes! Eu não preciso disso! Foi o meu trabalho duro que deu frutos, não foi a ajuda dos Arcontes.",
       "ru": "Все говорят, что Глаз Бога - это признание божеств. Если это так, то он мне не нужен, и я считаю это оскорблением! Получается, всё, что я достигла, было благодаря их помощи. Но я всего достигла сама и боги здесь совершенно ни при чём!",
       "id": "Kalau memang \"Vision\" adalah bentuk pengakuan dari Dewa, aku tidak merasa aku memerlukannya. Sebenarnya, mungkin aku sedikit kesal! Sama seperti pencapaian yang kulakukan selama ini, aku melakukannya dengan usahaku sendiri, tapi seakan-akan semua ini karena berkat dari Dewa. Jelas-jelas ini berkat kerja kerasku, tidak ada hubungannya dengan Dewa sama sekali.",
-      "th": "ว่ากันว่า \"วิชั่น\" นั้นเป็นสิ่งที่มอบให้กับผู้ที่ได้รับการยอมรับจากเทพเจ้า ซึ่งฉันไม่ต้องการสิ่งนี้ พูดแล้วฉันยังโมโหอยู่นิด ๆ น่ะเนี่ย! เหมือนกับผลงานของฉัน ที่ตลอดมาต้องคอยขอบคุณพลัง ของเทพเจ้า ทั้ง ๆ ที่เป็นผลงานของตัวฉันเองแท้ ๆ ไม่เกี่ยวอะไรกับเทพสักนิด",
+      "th": "ว่ากันว่า \"วิชั่น\" นั้นเป็นสิ่งที่มอบให้กับผู้ที่ได้รับการยอมรับจากเทพเจ้า ซึ่งฉันไม่ต้องการสิ่งนี้ พูดแล้วฉันยังโมโหอยู่นิด ๆ นะเนี่ย! เหมือนกับผลงานของฉันที่ทำตลอดมาต้องคอยขอบคุณพลังของเทพเจ้า ทั้ง ๆ ที่เป็นผลงานของตัวฉันเองแท้ ๆ ไม่เกี่ยวอะไรกับเทพเลยสักนิด",
       "vi": "Mọi người đều nói rằng Vision chính là sự chấp nhận của thần, tôi không cần thứ đồ đó. Phải nói rằng tôi vẫn còn có chút tức giận nè! Giống như thành quả công việc của tôi luôn phải nhờ vào sức mạnh của thần vậy. Rõ ràng là công sức của chính bản thân tôi, chẳng liên quan gì đến thần cả."
     }
   },
@@ -652,7 +652,7 @@
       "pt": "Sobre a Visão - Reflexão",
       "ru": "О Глазе Бога: Переосмысление",
       "id": "Tentang Vision: Introspeksi",
-      "th": "เกี่ยวกับ \"วิชั่น\"-คิดทบทวน",
+      "th": "เกี่ยวกับ \"วิชั่น\" - คิดทบทวน",
       "vi": "Về Vision - Suy Tư"
     },
     "line": {
@@ -662,12 +662,12 @@
       "ko": "암왕제군께선 내 비범한 힘으로 사람들을 이끌길 바라신 거야. 근데 그렇게 기대하지 않아도 난 잘 해낼 수 있다고. 두고 봐, 절대 실망시키지 않을 테니",
       "en": "Oh, so... Rex Lapis wanted me to have power beyond the average mortal so that I can be a great leader? Huh... I like to think I'd do an admirable job even without his blessing! Yeah, I'll show him... I won't give him any reason to be disappointed with me...",
       "de": "Rex Lapis wollte also, dass ich mehr Möglichkeiten bekomme als andere Menschen, um ein guter Anführer zu werden ... Selbst ohne seine Unterstützung wäre ich bestimmt dazu in der Lage! Wartet nur, ich werde es alles beweisen!",
-      "es": "Oh, entonces... ¿Rex Lapis quería que tuviera un poder más fuerte que el resto de los mortales para ser una buena líder? Humm... Bueno, ¡podría hacer un buen trabajo incluso sin su bendición! Sí, se lo demostraré para que no tenga ninguna razón por la que estar decepcionado conmigo.",
+      "es": "Oh, entonces... ¿Rex Lapis quería que tuviera un poder más fuerte que el resto de los mortales para ser una buena líder? Humm... Bueno, ¡podría hacer un buen trabajo incluso sin su bendición! Sí, se lo demostraré para que no tenga ninguna razón por la que sentirse decepcionado conmigo.",
       "fr": "Apparemment, le Souverain de la Roche souhaitait me faire don d'un pouvoir pour que je devienne une dirigeante digne de ce nom ? Personnellement, je pense que je me serais très bien débrouillée sans son aide ! Je vais lui montrer de quoi je suis capable ! Il ne sera pas déçu, croyez-moi !",
       "pt": "Afinal... o Rex Lapis queria que eu liderasse o povo com um poder incomparável. Eu faria bem o meu trabalho mesmo sem esse reconhecimento! Isso, vou mostrar a ele... Não vou dar nenhum motivo para ele se desapontar...",
       "ru": "Получается... Властелин Камня хотел дать мне силу, недоступную обычным людям, чтобы я вела их за собой. Хм... Как будто я и без его благословения не справилась бы! Я покажу ему... Я ни за что его не подведу!",
       "id": "Oh, jadi... Rex Lapis ingin aku menggunakan kemampuan yang melebihi manusia untuk menjadi pemimpin? Huh, kalaupun aku tidak diberkati dia, aku tetap bisa melakukan pekerjaanku dengan baik! Lihat saja nanti! Aku tidak akan membuat dia kecewa!",
-      "th": "ที่แท้...ราชาแห่งหินก็อยากให้ฉัน ใช้พลังที่เกินกว่าคนธรรมดาทั่วไปนี้ นำพาทุกคนสินะ ฮึ ต่อให้ไม่มีการยอมรับนี้ ฉันก็สามารถทำงานออกมาได้ดี! รอ...รอดูไว้เถอะ! ฉันจะไม่ทำให้เขาผิดหวัง!",
+      "th": "ที่แท้...ราชาแห่งหินก็อยากให้ฉันใช้พลังที่เกินกว่าคนธรรมดาทั่วไปนี้นำพาทุกคนสินะ ฮึ ต่อให้ไม่มีการยอมรับนี้ ฉันก็สามารถทำงานออกมาได้ดี! รอ...รอดูไว้เถอะ! ฉันจะไม่ทำให้เขาผิดหวัง!",
       "vi": "Hoá ra... Đế Quân muốn tôi sử dụng sức mạnh hơn người này để lãnh đạo mọi người. Hừ, ngay cả không có thứ này, tôi cũng có thể làm tốt công việc! Đợi... hãy đợi đấy! Tôi sẽ không để ngài ấy thất vọng!"
     }
   },
@@ -684,7 +684,7 @@
       "pt": "Algo para compartilhar - Proposta",
       "ru": "Давай поделимся: Инициатива",
       "id": "Berbagi Cerita: Inisiatif",
-      "th": "ต้องการจะแชร์อะไร-เสนอความเห็น",
+      "th": "ต้องการจะแชร์อะไร - เสนอความเห็น",
       "vi": "Có gì muốn chia sẻ - Sáng Kiến"
     },
     "line": {
@@ -694,12 +694,12 @@
       "ko": "난 「리월 칠성」의 업무 말고도 공익적인 일에도 힘쓰고 있어. 대부분은 반응이 괜찮았는데 「하루에 한 시간씩 더 일하자」라는 제안은 많이들 반대하더라구…. 에휴, 생각이 너무 앞서나갔나, 다음엔 30분씩 더 일하자고 제안해봐야겠어",
       "en": "In addition to my work with the Liyue Qixing, I do a lot of work for the public, too. Mostly the feedback is positive, but whenever I propose something like adding an extra hour to the workday, I come up against very strong resistance... I'm too forward-thinking, I suppose. Maybe I should start with a half hour instead?",
       "de": "Von meiner Arbeit bei den Qixing von Liyue abgesehen leiste ich auch viel im öffentlichen Leben. Meistens bekomme ich positive Rückmeldungen. Wenn ich aber etwas vorschlage, wie zum Beispiel eine Arbeitsstunde pro Tag hinzuzufügen, stoße ich meist auf Widerstand ... Vielleicht vertragen die Leute nicht so viele Veränderungen auf einmal. Ich sollte mit einer halben Stunde anfangen.",
-      "es": "Además de mi trabajo con las Siete Estrellas de Liyue, también hago mucho por el bienestar de la población. En general, siempre obtengo comentarios positivos, pero cada vez que propongo algo, como agregar una hora extra a la jornada laboral, veo que la gente se opone... Supongo que soy una persona adelantada a su tiempo. ¿Quizás debería comenzar con media hora en vez de una?",
+      "es": "Además de mi trabajo con las Siete Estrellas de Liyue, también hago mucho por el bienestar de la población. En general, siempre obtengo comentarios positivos, pero cada vez que propongo algo, como agregar una hora extra a la jornada laboral, veo que la gente se opone... Supongo que soy una persona adelantada a su tiempo. Quizás debería comenzar con media hora en vez de una.",
       "fr": "En dehors de mon travail pour les Sept Étoiles, je m'implique aussi dans l'intérêt général de Liyue. Les Liyuéens sont généralement contents de mon travail, mais ma proposition de rajouter une heure de travail lors des jours ouvrables a suscité un tollé... Je suis sans doute trop visionnaire. J'aurais peut-être dû suggérer une demi-heure ?",
       "pt": "Além das tarefas dos Qixing de Liyue, faço muitos trabalhos voluntários também, e a maioria dos feedbacks é positiva. Mas tais propostas como \"trabalhar mais uma hora\" não estão correndo muito bem! Na próxima vez, vai ser só \"meia hora\".",
       "ru": "Кроме работы в Цисин я ещё занимаюсь общественными делами. Обычно реакция очень положительная, но когда я предлагаю что-то типа увеличения рабочего дня на один час, то сталкиваюсь с заметным сопротивлением. Хм... Возможно, я бегу впереди повозки. Попробую предложить увеличение на полчаса...",
       "id": "Selain pekerjaan dengan Liyue Qixing, aku juga melakukan banyak kegiatan amal. Dan respon dari mereka sangat bagus. Tapi setiap kali aku mencoba mengajukan rencana penambahan satu jam kerja setiap hari, banyak sekali orang yang memprotes. Mungkin aku berpikir terlalu maju. Lain kali aku akan mencoba menggantikannya menjadi setengah jam.",
-      "th": "นอกจากงานของ \"Liyue Qixing\" แล้ว ฉันก็ทำสิ่งที่เป็นประโยชน์ต่อผู้อื่น ด้วย ซึ่งผลตอบรับส่วนใหญ่ก็ไม่แย่เลย แต่การเสนอความเห็นอย่าง \"ทำงานเกินมาอีกหนึ่งชั่วโมงต่อวัน\" นั้นกลับได้รับการต่อต้านไม่น้อยเลย...เอ่ ดูเหมือนความคิดคงจะล้ำหน้าเกิน ไปหน่อย ไม่อย่างนั้นครั้งต่อไป ลองเปลี่ยนเป็นเสนอให้ทำงานเกิน มาอีกครึ่งชั่วโมงก็แล้วกัน",
+      "th": "นอกจากงานของ \"Liyue Qixing\" แล้ว ฉันก็ทำสิ่งที่เป็นประโยชน์ต่อผู้อื่น ด้วย ซึ่งผลตอบรับส่วนใหญ่ก็ไม่แย่เลย แต่การเสนอความเห็นอย่าง \"ทำงานเกินมาอีกหนึ่งชั่วโมงต่อวัน\" นั้นกลับได้รับการต่อต้านไม่น้อยเลย...เอ่ ดูเหมือนความคิดคงจะล้ำหน้าเกินไปหน่อย ไม่อย่างนั้นครั้งต่อไป ลองเปลี่ยนเป็นเสนอให้ทำงานเกินมาอีกครึ่งชั่วโมงก็แล้วกัน",
       "vi": "Ngoài công việc của Thất Tinh Liyue, tôi còn làm rất nhiều việc công ích, hầu hết đều có phản hồi rất tốt. Nhưng những kiến nghị kiểu như \"mỗi ngày làm thêm một giờ\", đều gặp phải rất nhiều sự phản đối... Haiz, xem ra ý tưởng đã hơi đi trước thời đại, hay là lần tới hãy thử đổi thành nửa giờ xem sao."
     }
   },
@@ -716,7 +716,7 @@
       "pt": "Algo para compartilhar - Lembrança",
       "ru": "Давай поделимся: Сувенир",
       "id": "Berbagi Cerita: Suvenir",
-      "th": "ต้องการจะแชร์อะไร-ของที่ระลึก",
+      "th": "ต้องการจะแชร์อะไร - ของที่ระลึก",
       "vi": "Có gì muốn chia sẻ - Vật Kỷ Niệm"
     },
     "line": {
@@ -731,7 +731,7 @@
       "pt": "As lembranças de Rex Lapis? Não me diga que acha que o meu quarto está cheio das coisas desse gênero? Já não sou criança! Embora... eu realmente tenha alguns bonecos de Rex Lapis. Mas... mas apenas servem como lembretes, e não tem nada ver com a admiração.",
       "ru": "Фигурки Гео Архонта? Не думаешь ли ты, что у меня вся спальня ими завалена? Я же не ребёнок! Хотя... Ну да, недавно я купила парочку фигурок Властелина, но... но это просто напоминание самой себе! Не имеет никакого отношения к вере и поклонению!",
       "id": "Koleksi barang-barang Rex Lapis? Kamu pikir kamarku penuh dengan barang seperti itu? Aku sudah bukan anak kecil lagi! Tapi... eh, aku memang baru membeli beberapa patung Rex Lapis... Tapi semua itu hanya untuk dijadikan sebagai pengingatku saja! Aku bukan mengagumi atau mengidolakannya!",
-      "th": "ของที่ระลึกของราชาแห่งหิน? เธอคงไม่คิดว่าในห้องของฉัน จะมีแต่ของแบบนี้หรอกนะ? ฉันไม่ใช่เด็กสาวแล้วนะ! ถึงแม้...เอ่อ ถึงแม้จะซื้อรูปปั้นของราชาแห่งหินมาใหม่หลายอัน ตะ แต่พวกนี้ซื้อเพื่อเอาไว้เตือนตัวเองหรอก! ไม่ได้เกี่ยวกับความศรัทธา หรือเคารพอะไรทั้งนั้น!",
+      "th": "ของที่ระลึกของราชาแห่งหิน? เธอคงไม่คิดว่าในห้องของฉัน จะมีแต่ของแบบนี้หรอกนะ? ฉันไม่ใช่เด็กสาวแล้วนะ! ถึงแม้...เอ่อ ถึงแม้จะซื้อรูปปั้นของราชาแห่งหินมาใหม่หลายอัน ตะ แต่พวกนี้ซื้อเพื่อเอาไว้เตือนตัวเองหรอก! ไม่ได้เกี่ยวกับความศรัทธาหรือเคารพอะไรทั้งนั้น!",
       "vi": "Quà lưu niệm về Đế Quân? Bạn sẽ không cho rằng, trong phòng của tôi đều là mấy thứ đồ đó chứ? Tôi đã không còn là cô bé nữa rồi! Mặc dù... ờ, đúng là đã mua vài con rối Đế Quân bằng đất sét, nhưng... nhưng chúng đều được sử dụng để nhắc nhở bản thân! Không liên quan đến chuyện sùng bái, ngưỡng mộ gì cả!"
     }
   },
@@ -759,11 +759,11 @@
       "en": "I once heard a Mondstadt fable about courage being what it takes for birds to learn to fly. But I think that you must first possess a yearning for the boundless skies before you would have any inclination, let alone the courage, to spread your wings and try to fly. For me, Liyue is that boundless sky.",
       "de": "Ich habe mal eine Geschichte aus Mondstadt gehört, in der es darum geht, wie die Vögel das Fliegen erlernten. Zunächst einmal muss man aber eine gewisse Sehnsucht nach dem Himmel verspüren, um überhaupt den Anreiz zum Fliegen zu haben. Für mich ist Liyue dieser Himmel.",
       "es": "Una vez escuché una fábula de Mondstadt sobre cómo el valor fue lo que hizo que los pájaros volaran. En mi opinión, antes de tener la motivación y el valor de abrir sus alas, primero deberían sentir un enorme deseo por surcar el vasto cielo. En mi caso, ese “vasto cielo” que me motiva a seguir es Liyue.",
-      "fr": "Un jour, on m'a raconté une histoire mondstadtoise qui parlait d'oiseaux devant faire preuve de courage pour voler. Je pense qu'il faut vouloir voler dans le ciel à tout prix avant d'avoir la motivation et le courage de déployer vos ailes. Pour moi, Liyue représente ce ciel...",
+      "fr": "Un jour, on m'a raconté une histoire mondstadtoise qui parlait d'oiseaux devant faire preuve de courage pour voler. Je pense qu'il faut vouloir voler dans le ciel à tout prix avant d'avoir la motivation et le courage de déployer ses ailes. Pour moi, Liyue représente ce ciel...",
       "pt": "Uma lenda de Liyue diz: é a coragem que ensina os pássaros como se voa. Mas, deve ter primeiro um desejo para um céu mais vasto, daí vem a coragem de abrir as asas. Penso eu! Para mim, Liyue é aquele céu!",
       "ru": "Однажды я слышала мондштадтскую легенду о том, сколько храбрости нужно птенцам, чтобы научиться летать. Но мне кажется, что для начала у тебя должна быть страсть к небу, и только потом уже может появиться желание летать. Для меня Ли Юэ и есть это бескрайнее небо.",
       "id": "Aku pernah mendengar cerita yang sempat beredar di Mondstadt tentang seekor burung kecil yang belajar terbang. Tapi burung itu harus mempunyai kerinduan besar untuk menuju langit biru yang luas, agar bisa memberanikan diri untuk mengepakkan sayap dan terbang. Bagi aku, Liyue adalah langit biru itu.",
-      "th": "ฉันเคยได้ยินเรื่องเล่าต่อกันมาของ Mondstadt ว่าความกล้าหาญทำให้เจ้านกน้อย บินได้ แต่มันคงจะรู้ทิศทางที่จะบินในท้องฟ้าอันกว้างใหญ่ก่อน ถึงจะกล้ากางปีกบินล่ะมั้ง สำหรับฉันแล้ว Liyue ก็คือท้องฟ้าผืนนั้น",
+      "th": "ฉันเคยได้ยินเรื่องเล่าต่อกันมาของ Mondstadt ว่าความกล้าหาญทำให้เจ้านกน้อยบินได้ แต่มันคงจะรู้ทิศทางที่จะบินในท้องฟ้าอันกว้างใหญ่ก่อน ถึงจะกล้ากางปีกบินล่ะมั้ง สำหรับฉันแล้ว Liyue ก็คือท้องฟ้าผืนนั้น",
       "vi": "Tôi từng nghe một câu chuyện được lưu truyền ở Mondstadt: Dũng khí khiến chim biết bay. Nhưng mà, nên có niềm khao khát vô song về bầu trời rộng lớn trước, rồi mới có sự thôi thúc và dũng khí khiến chúng giương cánh. Đối với tôi mà nói thì Liyue chính là bầu trời xanh đó."
     }
   },
@@ -790,12 +790,12 @@
       "ko": "그 「왕생당」의 종려 씨? 박학다식하고 존경할만한 사람이긴 하지만, 사고방식이 너무 암왕제군을 빼닮았어…. 그가 뚜렷한 주관으로 내 곁에서 일해준다면 큰 도움이 될 텐데",
       "en": "The gentleman from the Wangsheng Funeral Parlor? Clearly, he's an extremely learned individual, and I do have a lot of respect for him. But his mindset is too traditional for me — he thinks in the same tired old terms as Rex Lapis did... If he were more of an original thinker, I'm sure he'd be a great asset to me in reaching my objectives.",
       "de": "Ach dieser Herr vom Bestattungsunternehmen Wangsheng? Er ist tatsächlich ausgesprochen gebildet und verdient Respekt. Leider ist er genauso altmodisch wie Rex Lapis in seiner Denkweise. Wenn er etwas eigenständigere Gedanken hätte, wäre er sicher zu gebrauchen. Schon sehr schade.",
-      "es": "¿El señor de la Funeraria El Camino? Claramente, es un individuo realmente sabio, por lo que tengo un gran respeto hacia él. Pero, para mí, su mentalidad es demasiado tradicional y parecida a la de Rex Lapis... Si tuviera sus propias ideas, estoy segura de que me sería de gran ayuda para alcanzar mis objetivos.",
+      "es": "¿El señor de la Funeraria El Camino? Claramente, es un individuo realmente sabio, por lo que siento un gran respeto hacia él. Pero, para mí, su mentalidad es demasiado tradicional y parecida a la de Rex Lapis... Si tuviera sus propias ideas, estoy segura de que me sería de gran ayuda para alcanzar mis objetivos.",
       "fr": "Celui qui travaille au Funérarium Wangsheng ? Il a l'air extrêmement érudit et j'ai un profond respect pour lui, mais je trouve sa mentalité un peu trop traditionnelle... Il a un peu la même façon de penser que le Souverain de la Roche. S'il était un peu moins conservateur dans ses idées, je l'aurais recruté immédiatement dans mon équipe.",
       "pt": "Aquele senhor da Funerária de Wangsheng é realmente sábio e inteligente, e eu admiro! Mas a maneira de pensar é muito parecida com a do Rex Lapis... Se ele tiver um pensamento mais crítico, gostaria de trabalhar com ele, e ele seria uma grande ajuda.",
       "ru": "Тот господин из ритуального бюро «Ваншэн»? Очевидно, он очень образованный человек, и я его за это уважаю. Но его мышление слишком традиционно, он думает так же, как Властелин Камня... Если бы он не был таким зашоренным, то от него было бы больше пользы.",
       "id": "Pria dari Wangsheng Funeral Parlor? Dia memang punya berpengetahuan luas dan sangat mengagumkan. Tapi pemikirannya terlalu kuno, terlalu sama dengan cara-cara Rex Lapis. Kalau dia bisa mempunyai pemikiran sendiri, aku yakin dia bisa menjadi asisten yang hebat dalam pekerjaan.",
-      "th": "คุณคนที่ \"โถงแห่งการเกิดใหม่ Wangsheng\" คนนั้นเป็นคนที่รอบรู้จริง ๆ ช่างน่านับถือนัก แต่แนวคิดของเขาช่างเหมือนกับท่านราชาแห่งหินซะจริง...หากเขากล้าแสดงความคิดเห็นมากกว่านี้ล่ะก็ ถ้าดึงเขามาทำงานกับฉัน คงช่วยได้มากแน่นอน",
+      "th": "คุณคนที่อยู่ \"โถงแห่งการเกิดใหม่ Wangsheng\" คนนั้นเป็นคนที่รอบรู้จริง ๆ ช่างน่านับถือนัก แต่แนวคิดของเขาช่างเหมือนกับท่านราชาแห่งหินซะจริง... หากเขากล้าแสดงความคิดเห็นมากกว่านี้ล่ะก็ ถ้าดึงเขามาทำงานกับฉันคงช่วยได้มากแน่นอน",
       "vi": "Vị tiên sinh ở Vãng Sinh Đường đó thực sự là người học rộng tài cao, khiến người khác phải kính phục, nhưng cách suy nghĩ của anh ấy giống hệt với Đế Quân... Nếu anh ấy có chủ kiến hơn, thì tuyển vào làm việc cho tôi, chắc chắn sẽ rất có ích."
     }
   },
@@ -823,11 +823,11 @@
       "en": "That captain is always flouting the rules, and her personality really rubs people the wrong way. That said, The Crux Fleet is indispensable to Liyue Harbor. It's a bit of an art, knowing when to enforce the rules and when it's in everyone's interests to be more lenient. Thing is, the Tianquan is supposed to be the one enforcing the rules, but she always seems to be too busy...",
       "de": "Dieser Kapitän hält sich in den seltensten Fällen an die Regeln. Obwohl sie einem häufig Kopfschmerzen bereitet, ist die Crux unabdingbar für den Hafen von Liyue. Es ist wirklich eine Kunst, die Wichtigkeit von Regeln abzuwägen, wenn es darum geht, seine Ziele zu erreichen. Der Tianquan sollte ja eigentlich dafür zuständig sein, die Gesetze durchzusetzen ... Aber sie scheint zu beschäftigt zu sein.",
       "es": "Esa capitana de barco siempre está incumpliendo las reglas con su molesta personalidad. Dicho esto, la Flota Crux Meridianam es indispensable para el puerto de Liyue. Saber cuándo hacer cumplir las reglas y cuándo ser más indulgente es casi un arte. Lo que ocurre es que quien debería hacer cumplir las reglas es el Equilibrio Celestial, pero siempre parece estar demasiado ocupada...",
-      "fr": "Elle n'a que faire des règlementations en vigueur et sa personnalité n'est pas tout à fait agréable. Cela dit, la Flotte du Crux est essentielle au Port de Liyue. C'est tout un art de savoir quel est le moment le plus propice pour faire appliquer la loi dans l'intérêt de tous. Hélas, ce travail appartient à la Megrez, mais elle semble occupée à faire autre chose ces temps-ci...",
+      "fr": "Elle n'a que faire des réglementations en vigueur et sa personnalité n'est pas tout à fait agréable. Cela dit, la Flotte du Crux est essentielle au Port de Liyue. C'est tout un art de savoir quel est le moment le plus propice pour faire appliquer la loi dans l'intérêt de tous. Hélas, ce travail appartient à la Megrez, mais elle semble occupée à faire autre chose ces temps-ci...",
       "pt": "Esta capitã sempre ignora as regras, é realmente uma dor de cabeça. Mas a sua Frota Crux é indispensável para Liyue. Também é uma arte balancear regras e benefícios. Só que dá muito trabalho para o responsável de lei, Tianquan.",
       "ru": "Этот капитан всегда идёт против правил, и характер у неё не подарок. Но её Южный Крест уже стал частью гавани Ли Юэ. Балансировать на грани закона - это тоже искусство. Вообще, следить за выполнением закона - это работа Воли Небес, но она, похоже, слишком занята.",
       "id": "Kapten kapal ini selalu melanggar aturan dan membuatku sakit kepala. Tapi Crux Fleet yang dipimpinnya punya peran yang penting untuk Liyue. Bisa dibilang ini sebuah seni. Kita harus tahu kapan waktunya menegakkan aturan, dan kapan waktunya mementingkan urusan publik. Masalahnya, Tianquan yang seharusnya bertugas menegakkan aturan belakangan ini terlalu sibuk...",
-      "th": "กัปตันท่านนี้มักจะมองข้ามกฎ ระเบียบ และมีนิสัยชวนให้ปวดหัว แต่สำหรับ Liyue แล้วกองทัพเรือ \"Crux\" ของเธอนั้นเป็นสิ่งที่ขาดไม่ได้เลย ทีเดียว การทำให้กฎและผลประโยชน์สมดุลกันถือเป็นศิลปะแขนงหนึ่ง อ่า แต่ \"Tianquan\" ผู้รับผิดชอบด้านกฎหมายคงมีเรื่องให้ทำแล้วล่ะ",
+      "th": "กัปตันท่านนี้มักจะมองข้ามกฎระเบียบ และมีนิสัยชวนให้ปวดหัว แต่สำหรับ Liyue แล้วกองเรือ \"Crux\" ของเธอนั้นเป็นสิ่งที่ขาดไม่ได้เลยทีเดียว การทำให้กฎและผลประโยชน์สมดุลกันถือเป็นศิลปะแขนงหนึ่ง อ่า แต่ \"Tianquan\" ผู้รับผิดชอบด้านกฎหมายคงมีเรื่องให้ทำแล้วล่ะ",
       "vi": "Vị thuyền trưởng này luôn coi thường các quy tắc, tính cách thật khiến người khác đau đầu. Nhưng đội thuyền Nam Thập Tự của cô ấy lại không thể thiếu đối với cảng Liyue. Làm thế nào để cân bằng giữa quy tắc và lợi ích cũng là một nghệ thuật. Ôi, chỉ có điều vị Thiên Quyền phụ trách pháp luật kia lại bận rộn rồi."
     }
   },
@@ -844,7 +844,7 @@
       "pt": "Sobre Ningguang - Conflito",
       "ru": "О Нин Гуан: Противоречия",
       "id": "Tentang Ningguang: Konflik",
-      "th": "เกี่ยวกับ Ningguang-ความขัดแย้ง",
+      "th": "เกี่ยวกับ Ningguang - ความขัดแย้ง",
       "vi": "Về Ningguang - Mâu Thuẫn"
     },
     "line": {
@@ -859,7 +859,7 @@
       "pt": "Embora sejamos colegas, temos características bem diferentes. Nos seus olhos, o Porto de Liyue é onde ela faz negócios. Ela pode fazer tudo para ganhar dinheiro. Isso me parece sem princípio! Ugh... ou isso é o princípio mesmo?",
       "ru": "Хотя мы и коллеги, но наши характеры абсолютно разные. Для неё гавань Ли Юэ - это всего лишь рынок, и она сделает что угодно, если это ей выгодно. Есть ли у неё хоть какие-то принципы? Хмм... всё ради выгоды?",
       "id": "Walaupun kami bekerja bersama, tapi sifat kami sangat berbeda. Di matanya, Liyue Harbor hanyalah ajang untuk berbisnis. Dia rela melakukan apa pun demi menghasilkan uang. Dia benar-benar tidak berprinsip, kan? Atau... apa membuat keuntungan adalah prinsip dia?",
-      "th": "ถึงแม้ฉันกับเธอจะเป็นเพื่อนร่วม งานกัน แต่นิสัยเข้ากันไม่ได้เลยจริง ๆ ในสายตาของเธอ Liyue ก็เป็นเหมือนที่ทำธุรกิจ เธอทำได้ทุกอย่างขอแค่เป็นเรื่องที่ หาเงินได้ นี่ไม่ใช่ไร้หลักการหรือไงกัน? เอ่อ...หรือจะบอกว่านี่ก็คือหลักการ ของเธอ?",
+      "th": "ถึงแม้ฉันกับเธอจะเป็นเพื่อนร่วมงานกัน แต่นิสัยเข้ากันไม่ได้เลยจริง ๆ ในสายตาของเธอ Liyue ก็เป็นเหมือนที่ทำธุรกิจ เธอทำได้ทุกอย่างขอแค่เป็นเรื่องที่หาเงินได้ นี่ไม่ใช่ไร้หลักการหรือไงกัน? เอ่อ...หรือจะบอกว่านี่ก็คือหลักการของเธอ?",
       "vi": "Mặc dù tôi và cô ấy là đồng nghiệp, nhưng tính cách không hợp nhau. Trong mắt cô ấy, cảng Liyue chỉ là nơi kinh doanh, chỉ cần có thể kiếm tiền, việc gì cô ấy cũng có thể làm. Đây chẳng phải là không có nguyên tắc rồi sao? Hừm... hay là đây chính là nguyên tắc của cô ấy?"
     }
   },
@@ -876,7 +876,7 @@
       "pt": "Sobre Ningguang - Cooperação",
       "ru": "О Нин Гуан: Сотрудничество",
       "id": "Tentang Ningguang: Kerja sama",
-      "th": "เกี่ยวกับ Ningguang-ความร่วมมือ",
+      "th": "เกี่ยวกับ Ningguang - ความร่วมมือ",
       "vi": "Về Ningguang - Hợp Tác"
     },
     "line": {
@@ -891,7 +891,7 @@
       "pt": "Depois da despedida do Rex Lapis, chegamos finalmente a um acordo depois de um processo duro. Admito que alguns comentários meus sobre ela não estão certos. Embora tenhamos valores diferentes, nesta situação, tenho que considerá-la como a minha companheira.",
       "ru": "Когда Властелин Камня покинул нас, мы стали намного ближе. Раньше я её сильно осуждала, да мы и сейчас во многом несогласны, но в нынешней ситуации она - мой союзник.",
       "id": "Setelah Rex Lapis pergi, kami akhirnya menemukan banyak kesamaan. Dulunya aku memang tidak begitu setuju dengan pendapatnya. Tapi sekarang, walaupun terkadang prinsip kami berbeda, aku masih tetap menganggapnya sebagai rekan seperjuangan.",
-      "th": "หลังจากที่ราชาแห่งหินจากไป ก็ยากมากที่ เราจะมีความเห็นตรงกัน แม้การวิจารณ์เธอของฉันในสมัยก่อน จะมีอคติอยู่บ้าง แต่ก็ไม่มีความเห็นที่ไม่ตรงกันเลย แต่ในตอนนี้คงทำได้แค่ มองว่าเธอคือเพื่อร่วมรบเท่านั้น",
+      "th": "หลังจากที่ราชาแห่งหินจากไป ในที่สุดเราก็ได้มีความเห็นที่ตรงกันได้สักที แม้สิ่งที่ฉันวิจารณ์เธอในสมัยก่อนจะมีอคติปนอยู่บ้าง และถึงแม้มุมมองจะแตกต่างกัน แต่จากสถานการณ์ในตอนนี้ คงทำได้แค่มองว่าเธอคือเพื่อนร่วมรบเท่านั้นล่ะ",
       "vi": "Sau khi Đế Quân rời đi, chúng tôi hiếm khi đạt được sự đồng thuận nhiều như vậy. Đánh giá của tôi về cô ấy trước đây đúng là có chút thiên vị. Mặc dù quan niệm về cơ bản là khác nhau, nhưng trong tình hình hiện tại, cũng chỉ có thể coi cô ấy là đồng đội thôi."
     }
   },
@@ -908,7 +908,7 @@
       "pt": "Sobre Ningguang - Trivialidades",
       "ru": "О Нин Гуан: Мелочи",
       "id": "Tentang Ningguang: Persoalan sepele",
-      "th": "เกี่ยวกับ Ningguang-เรื่องจุกจิก",
+      "th": "เกี่ยวกับ Ningguang - เรื่องจุกจิก",
       "vi": "Về Ningguang - Chuyện Vặt"
     },
     "line": {
@@ -921,7 +921,7 @@
       "es": "Dicho esto, pedí una luna de cerámica de Joyas Mingxing con tres meses de anticipación y, cuando por fin llegó el momento de recogerla, me dijeron que Ninguang había comprado las reservas de lunas de cerámica de los últimos meses, ¡y pagando el doble de su precio! ¡Lo sabía! Después de todo, ¡sigue siendo igual de insoportable!",
       "fr": "Je retire ce que j'ai dit ! J'avais commandé un croissant de lune à la Bijouterie Mingxing, il y a trois mois et quand je suis allée le chercher, on m'a informée que Ningguang avait acheté l'intégralité du stock de ces derniers mois en payant le double du prix ! *soupir* Bon sang, qu'est-ce qu'elle peut être énervante !",
       "pt": "É fácil de falar! A Lua Crescente da Joalheria Mingxing... Eu reservei com três meses de antecedência! Mas quando eu fui buscá-la, percebi que a Ningguang já tinha comprado todas as Luas Crescentes por um preço de duas vezes. Sabe, não aguento mais!",
-      "ru": "Кстати говоря! Три месяца назад я заказала лазурные полумесяцы в ювелирном доме Мин Син. А в итоге, когда я пришла за заказом, они сказали мне, что Нин Гуан заплатила двойную цену и выкупила все лазурные полумесяцы на пару месяцев вперёд! Терпеть её всё-таки не могу!",
+      "ru": "Кстати говоря! Три месяца назад я заказала лазурные полумесяцы в ювелирном доме «Минсин». А в итоге, когда я пришла за заказом, они сказали мне, что Нин Гуан заплатила двойную цену и выкупила все лазурные полумесяцы на пару месяцев вперёд! Терпеть её всё-таки не могу!",
       "id": "Aku sudah memesan Lucent Crescent di Mingxing Jewelry sejak 3 bulan lalu! Tapi waktu mau mengambilnya, mereka malah mengatakan bahwa Ningguang sudah memborong semua stok Lucent Crescent beberapa bulan ini dengan harga 2 kali lipat! Aku benar-benar tidak tahan dengannya!",
       "th": "ถึงจะพูดแบบนี้ก็เถอะ! ฉันสั่งจอง \"Lucent Crescent\" ของ Mingxing Jewelry ไว้ตั้งแต่สามเดือนก่อน! สุดท้ายตอนไปรับของถึงได้รู้ว่า หลายเดือนมานี้ Ningguang กว้านซื้อ \"Lucent Crescent\" ทั้งหมด ด้วยราคาที่สูงกว่าสองเท่าเลย! ฉันล่ะทนเธอไม่ไหวแล้ว!",
       "vi": "Nói thì như vậy! Tôi đã đặt Lưu Ly Tân Nguyệt của Minh Tinh Trai vào ba tháng trước! Kết quả là khi đi lấy hàng mới biết rằng Ningguang đã mua tất cả Lưu Ly Tân Nguyệt trong vài tháng qua với giá tiền gấp đôi! Tôi thực sự vẫn không thể chịu nổi cô ấy!"
@@ -955,7 +955,7 @@
       "pt": "Na verdade eu também estou interessada na sua música. Embora seja um pouco ruidosa relativamente comparada com a música tradicional, não me importo. Boa música deve se espalhar o máximo possível.",
       "ru": "Знаешь, мне нравится её рок. Слишком шумно с традиционной точки зрения, но мне всё равно. Хорошая музыка - это хорошая музыка. А хорошую музыку должно услышать как можно больше людей.",
       "id": "Aku sebenarnya tertarik dengan musik rocknya. Kalau dibandingkan dengan musik tradisional, musik rock memang terdengar lebih berisik, tapi aku tidak peduli itu. Musik yang enak didengar tetap enak didengar. Musik yang enak didengar harus didengarkan kepada banyak orang.",
-      "th": "จริง ๆ แล้วฉันสนใจใน \"ความร็อก\" ของเธอมาก ถ้ามองในมุมของวัฒนธรรมที่ สืบทอดกันมาแล้ว เธอนั้นช่างเอะอะมะเทิ่ง แต่ฉันไม่สนใจหรอก ไพเราะก็คือไพเราะ สิ่งที่เพราะก็ควรต้องส่งเสริม",
+      "th": "จริง ๆ แล้วฉันสนใจใน \"ความร็อก\" ของเธอมาก ถ้ามองในมุมของวัฒนธรรมที่สืบทอดกันมาแล้ว เธอนั้นช่างเอะอะมะเทิ่ง แต่ฉันไม่สนใจหรอก ไพเราะก็คือไพเราะ สิ่งที่เพราะก็ควรต้องส่งเสริม",
       "vi": "Thực ra tôi cũng rất có hứng thú với gu nhạc rock của cô ấy. Từ góc độ văn hoá truyền thống mà nói đúng là có chút ồn ào, nhưng tôi không quan tâm. Nghe hay là được, mà những thứ hay ho thì nên được phát triển."
     }
   },
@@ -987,7 +987,7 @@
       "pt": "Todo mundo tem fé nas habilidades médicas do Dr. Baizhu. Ele é a pessoa certa para recorrer quando você está doente. Oh... os rumores, o que você quer dizer? Tudo bem! Uma coisa é certa: o remédio dele é super amargo! Não apenas as crianças acham isso, também me deixou algumas memórias horríveis!",
       "ru": "Все верят в медицинское искусство господина Бай Чжу. Если заболел, то иди к нему - не ошибёшься. А... Ты о тех слухах? Единственное, что я знаю точно, так это то, что его лекарства ужасны на вкус. И не только дети так говорят. У меня с его лекарствами тоже связаны ужасные воспоминания.",
       "id": "Orang-orang sangat memercayai keterampilan medis Dr. Baizhu. Dia adalah orang yang bisa kamu cari bila kamu tidak tahu apa terjadi dengan tubuhmu. Oh, maksudmu rumor itu? Aku hanya tahu kalau obat yang dibuatnya pasti sangat pahit. Pahitnya tiada tara... Bukan hanya anak kecil yang merasa seperti itu. Aku juga merasa ngeri saat mengingatnya! Ih!",
-      "th": "ฝีมือการรักษาโรคของคุณ Baizhu ต่างได้รับการไว้ใจจากผู้คน ถ้ามีโรคอะไรที่มีความซับซ้อน ไปหาเขาล่ะก็ไม่มีผิดพลาดแน่นอน เธอว่า...ข่าวลือแปลก ๆ พวกนั้นจริงมั้ย? ฉันรู้แค่ว่ามีเรื่องหนึ่งเป็นเรื่องจริง ยาที่เขาจ่ายนั้นขมมาก ไม่ใช่แค่เด็ก ๆ ที่รู้สึกนะ ...ฉันก็ลืมไม่ลงเลยล่ะ",
+      "th": "ฝีมือการรักษาโรคของคุณ Baizhu ต่างได้รับการไว้ใจจากผู้คน ถ้ามีโรคอะไรที่มีความซับซ้อน ไปหาเขาละก็ไม่มีทางผิดพลาดแน่นอน เธอถามว่า... ข่าวลือแปลก ๆ พวกนั้นจริงมั้ยงั้นเหรอ? ฉันรู้แค่ว่ามีเรื่องนึงที่เป็นเรื่องจริง ยาที่เขาจ่ายน่ะขมมาก ไม่ใช่แค่เด็ก ๆ นะที่รู้สึกอย่างนั้น... ขนาดฉันเองก็ยังลืมไม่ลงเลยล่ะ",
       "vi": "Y thuật của Baizhu tiên sinh rất được người dân tin tưởng, nếu có bệnh gì khó chữa, đến tìm anh ấy chắc chắn là không sai. Bạn nói... những tin đồn kỳ lạ đó? Tôi chỉ biết có một việc là đúng, thuốc anh ấy kê thực sự rất đắng, không chỉ trẻ con cảm thấy vậy đâu... ngay cả tôi cũng có ấn tượng cực kỳ sâu sắc."
     }
   },
@@ -1019,7 +1019,7 @@
       "pt": "Sim, a promissora chef do Restaurante Wanmin... Sei que ela é talentosa e tudo mais, só acho que a técnica dela ainda não está muito estável. Eu estava querendo contratá-la para um pequeno banquete uma vez e dar a ela controle total sobre o menu... Mas depois de ter provado os seus pratos de lagarto e Slime, desisti dessa proposta!",
       "ru": "Ага, молодое дарование из ресторана «Народный выбор». Я понимаю, что она очень талантлива и всё такое, но иногда её блюда выходят за рамки здравого смысла. Как-то раз я хотела нанять её шеф-поваром на небольшой банкет, но, попробовав её блюда то ли с ящерицами, то ли со слаймами, я отказалась от этой идеи.",
       "id": "Kepala \"Wanmin Restaurant\" yang masih muda itu, aku tahu dia sangat berbakat, tetapi performanya masih tidak terlalu stabil. Dulu, aku sempat ingin memintanya untuk menyiapkan beberapa meja untuk perjamuan, tetapi setelah mencoba kadal dan slime buatannya terlebih dulu... aku langsung membatalkan ide itu.",
-      "th": "หัวหน้าเชฟของภัตตาคาร Wanmin คนนั้น ฉันรู้ว่าเธอมีความสามารถมากแต่ไม่ค่อยคงที่เท่าไหร่ เมื่อก่อนอยากจะให้เธอมาทำอาหาร ในงานเลี้ยงสักสองสามโต๊ะ แต่หลังจากได้ลองชิมอาหารที่ทำ จากกิ้งก่าและ Slime แล้วล่ะก็...ฉันก็เลิกล้มความคิด ไปเลย",
+      "th": "หัวหน้าเชฟของภัตตาคาร Wanmin คนนั้น ฉันรู้ว่าเธอมีความสามารถมากแต่ไม่ค่อยคงที่เท่าไหร่ เมื่อก่อนอยากจะให้เธอมาทำอาหารในงานเลี้ยงสักสองสามโต๊ะ แต่หลังจากได้ลองชิมอาหารที่ทำจากกิ้งก่าและ Slime แล้ว... ฉันก็เลิกล้มความคิดนั้นไปเลย",
       "vi": "Đầu bếp trẻ tuổi của Vạn Dân Đường, tôi biết cô ấy rất có tài năng, nhưng làm việc vẫn chưa thực sự ổn định. Trước đó tôi định tìm cô ấy để đặt vài bàn tiệc, nhưng sau khi thử món Rồng Đất còn có món Slime... tôi đã từ bỏ ý tưởng này."
     }
   },
@@ -1051,7 +1051,7 @@
       "pt": "Eu já ouvir dizer as histórias dele. Nascido numa família venerável, se apaixona por cavalheirismo. Eu o admiro por não ser preso pelos valores da sociedade, e por sempre fazer o que acha certo. Nem todo mundo tem essa coragem.",
       "ru": "Я слышала о нём. Он родился в богатой семье, но его не прельщал семейный бизнес, и поэтому он стал защитником справедливости. За это я его уважаю! Не каждый смог бы порвать с семейной традицией и отправиться навстречу своей мечте.",
       "id": "Aku pernah mendengar ceritanya, padahal jelas-jelas dia lahir di keluarga yang terpandang, tapi dia tidak tertarik untuk menjalankan bisnis keluarganya dan malah pergi keluar untuk memperjuangkan keadilan. Aku sangat mengaguminya, lagi pula sangat sedikit orang yang memiliki keberanian untuk mengesampingkan tradisi keluarganya dan berjuang keras melakukan apa yang menjadi panggilan hatinya.",
-      "th": "ฉันเคยได้ยินเรื่องของเขา เขาเกิดในครอบครัวที่มีชื่อเสียง แต่กลับไม่รักในกิจการของ ครอบครัว ชอบออกไปแสดงความกล้าหาญ ข้างนอก ฉันนับถือเขามาก กล้าทิ้งกรอบของครอบครัวไป และยึดมั่นในความคิดของตัวเอง เพื่อทำสิ่งที่ถูกต้อง ความกล้าหาญเด็ดเดี่ยวแบบนี้ไม่ใช่ว่าใครก็จะมีได้นะ",
+      "th": "ฉันเคยได้ยินเรื่องของเขานะ ทั้ง ๆ ที่เขาเกิดในครอบครัวที่มีชื่อเสียง แต่กลับไม่รักในกิจการของครอบครัว ชอบออกไปแสดงความกล้าหาญข้างนอก ฉันนับถือเขามาก กล้าทิ้งกรอบของครอบครัวไป และยึดมั่นในความคิดของตัวเองเพื่อทำสิ่งที่ถูกต้อง ความกล้าหาญเด็ดเดี่ยวแบบนี้ไม่ใช่ว่าใครก็จะมีได้นะ",
       "vi": "Tôi đã nghe chuyện về anh ấy, rõ ràng là được sinh ra trong một gia tộc cao quý, nhưng không kế thừa sự nghiệp của gia tộc mà lại thích ra ngoài hành hiệp trượng nghĩa. Tôi rất ngưỡng mộ anh ấy, suy cho cùng không phải ai cũng có thể dứt khoát gạt bỏ những quy định cứng nhắc của gia tộc sang một bên, và khăng khăng làm những chuyện mà mình cho là đúng."
     }
   },
@@ -1083,7 +1083,7 @@
       "pt": "Sinto que agora que vivemos na era do governo da humanidade, e é hora do lendário Adeptus Jovem se aliviar do fardo. Não precisamos mais de um guardião desse tipo, porque somos capazes de superar os desafios que enfrentamos com nossas próprias forças.",
       "ru": "Я думаю, что в век, когда люди стали править миром, настало время снять с молодого Адепта его обязательства. Людям уже не нужны такие защитники, мы можем справляться с проблемами своими силами.",
       "id": "Adeptus muda yang ada dalam legenda itu, sekarang ada di sebuah dunia yang dikuasai oleh manusia, karena itu seharusnya dia bisa melepaskan bebannya. Sekarang manusia tidak lagi membutuhkan perlindungan seperti itu, bahkan jika mereka menghadapi masalah yang sulit sekalipun, manusia memiliki kemampuan untuk mengatasi masalah itu sendiri.",
-      "th": "ในเมื่อโลกทุกวันนี้ถูกปกครองโดยมนุษย์ เซียนหนุ่มในตำนาน ก็น่าจะปล่อยวางภาระที่แบกไว้ได้แล้ว มนุษย์ไม่ได้ต้องการการปกป้องเช่นเดิมอีกต่อไป ต่อให้เราเจอปัญหาที่ยากลำบาก แต่เราก็สามารถจัดการเองได้",
+      "th": "ในเมื่อโลกทุกวันนี้ถูกปกครองโดยมนุษย์ เซียนหนุ่มในตำนาน ก็น่าจะปล่อยวางภาระที่แบกไว้ได้แล้ว มนุษย์ไม่ได้ต้องการการปกป้องเช่นเดิมอีกต่อไป ต่อให้เราเจอปัญหาที่ยากลำบาก พวกเราก็มีกำลังที่สามารถจัดการเองได้",
       "vi": "Tiên nhân trẻ tuổi trong truyền thuyết cũng nên buông bỏ gánh nặng của mình, vì hiện nay con người đã có thể tự cai trị thế giới của mình. Con người đã không cần sự bảo vệ như vậy nữa, ngay cả khi gặp phải vấn đề nan giải, chúng tôi cũng có khả năng tự mình giải quyết."
     }
   },
@@ -1100,7 +1100,7 @@
       "pt": "Sobre Ganyu - Ceticismo",
       "ru": "О Гань Юй: Сомнения",
       "id": "Tentang Ganyu: Kecurigaan",
-      "th": "เกี่ยวกับ Ganyu-สงสัย",
+      "th": "เกี่ยวกับ Ganyu - สงสัย",
       "vi": "Về Ganyu - Nghi Ngờ"
     },
     "line": {
@@ -1115,7 +1115,7 @@
       "pt": "Quem sabe o que o Rex Lapis fez para inspirar essa devoção cega da Ganyu... Mas a falta de pensamento crítico não deixa de ter suas vantagens. Ela sempre segue minhas instruções à risca, mesmo quando posso dizer que ela tem suas reservas. É uma boa atitude ser profissional desta forma.",
       "ru": "Не знаю, что Властелин Камня сделал, чтобы заслужить такую преданность от Гань Юй. Но у отсутствия собственного мнения тоже есть некоторые плюсы. На работе она исполняет мои поручения слово в слово, даже если заметно, что у неё есть возражения. Полезный навык для карьеры.",
       "id": "Aku tidak tahu apa yang dilakukan oleh Rex Lapis saat itu untuk membuat Ganyu begitu setia kepadanya. Namun, ketidakbebasan itu pun ternyata ada manfaatnya- setidaknya, dia tidak akan terlalu banyak protes walaupun kurang setuju terhadap suatu hal, dia juga akan melakukan apa yang aku katakan, sangat bisa diandalkan.",
-      "th": "ไม่รู้ว่าราชาแห่งหินไปทำอะไรถึงได้ทำให้ Ganyu จงรักภักดีกับเขาขนาดนั้น แต่การที่เชื่อคนอื่นแบบไม่ลืมหูลืม ตามันก็มีข้อดีอยู่นะ... อย่างน้อย เธอก็ทำตามคำสั่งฉันเสมอ ถึงแม้เธอใจจะไม่เห็นด้วยก็ตาม เป็นมืออาชีพจริง ๆ",
+      "th": "ไม่รู้ว่าราชาแห่งหินไปทำอะไรถึงได้ทำให้ Ganyu จงรักภักดีกับเขาขนาดนี้ แต่การเป็นคนไม่มีความเห็นอะไรมันก็มีข้อดีอยู่นะ... อย่างน้อย เธอก็ทำตามคำสั่งฉันเสมอ ถึงแม้เธอจะไม่ได้เต็มใจนักก็ตาม ช่างมีความเป็นมืออาชีพมากจริง ๆ",
       "vi": "Tôi cũng không biết năm đó Đế Quân đã làm gì mới có thể khiến Ganyu trung thành với ngài ấy như vậy. Có điều, không có chủ kiến cũng có cái tốt của không có chủ kiến... ít nhất thì ngay cả khi có sự bất mãn, cô ấy cũng sẽ làm theo những gì tôi nói, rất chuyên nghiệp."
     }
   },
@@ -1132,7 +1132,7 @@
       "pt": "Sobre Ganyu - Reflexão",
       "ru": "О Гань Юй: Переосмысление",
       "id": "Tentang Ganyu: Introspeksi",
-      "th": "เกี่ยวกับ Ganyu-คิดทบทวน",
+      "th": "เกี่ยวกับ Ganyu - คิดทบทวน",
       "vi": "Về Ganyu - Suy Tư"
     },
     "line": {
@@ -1146,8 +1146,8 @@
       "fr": "Récemment, je lui demande souvent son avis sur certaines choses dont je n'ai pas la moindre idée. De tous les Liyuéens, c'est de loin celle qui connaît le mieux le Souverain de la Roche. Je suis un peu gênée car j'avais l'habitude de le critiquer ouvertement devant elle, mais ça n'avait pas l'air de la déranger. Ça me rassure...",
       "pt": "Recentemente muitas coisas surgem das quais eu não tenho ideia, portanto, eu tenho pedido opiniões dela com muita frequência. De todos em Liyue, ela provavelmente é a mais familiar com o Rex Lapis. Heh... Eu me sinto um pouco estranha, porque eu costumava menosprezar abertamente o Rex Lapis na frente dela... Mas ela não parece se importar, então acho que não tenho nada para me preocupar...",
       "ru": "Последнее время появилось много проблем, в которых я не очень разбираюсь, и я стала часто спрашивать её совета. Ведь из всех жителей Ли Юэ она была ближе всего к Властелину Камня. Хех... А ведь раньше я открыто обличала Властелина прямо перед ней. Даже неудобно как-то. Но она, похоже, не в обиде, так что можно, наверное, не беспокоиться.",
-      "id": "Karena ada banyak hal akhir-akhir ini yang tidak bisa aku putuskan sendiri, aku sering meminta nasihat darinya, lagi pula, dia mungkin adalah orang di Liyue yang paling mengenal Rex. Hmm, kalau dipikir-pikir, aku agak malu dan tidak enak karena dulu cukup sering membicarakan kejelekan Rex di depannya, tetapi untungnya dia tidak tampak terlalu memasukannya ke hati. Ini membuatku sedikit lega...",
-      "th": "ช่วงนี้มีหลายอย่าง ที่ฉันไม่สามารถตัดสินใจได้ ฉันจึงมักจะไปขอคำแนะนำจากเธอบ่อยครั้ง ในเมือง Liyue นี้เธอน่าจะเป็นคนที่เข้าใจราชาแห่งหินได้ดีที่สุด เอิ่ม... จำได้ว่าก่อนหน้านี้ ฉันเคยพูดจาดูถูกราชาแห่งหิน ต่อหน้าเธอหลายครั้งเลย รู้สึกไม่ค่อยดีเลยแฮะ แต่เธอดูเหมือนจะไม่สนใจเท่าไร เรื่องนี้ทำให้ฉันรู้สึกโล่งใจได้หน่อยนึง...",
+      "id": "Karena ada banyak hal akhir-akhir ini yang tidak bisa aku putuskan sendiri, aku sering meminta nasihat darinya, lagi pula, dia mungkin adalah orang di Liyue yang paling mengenal Rex Lapis. Hmm, kalau dipikir-pikir, aku agak malu dan tidak enak karena dulu cukup sering membicarakan kejelekan Rex Lapis di depannya, tetapi untungnya dia tidak tampak terlalu memasukannya ke hati. Ini membuatku sedikit lega...",
+      "th": "ช่วงนี้มีเรื่องหลายอย่างที่ฉันไม่สามารถตัดสินใจได้ ฉันจึงมักจะไปขอคำแนะนำจากเธอบ่อยครั้ง ในเมือง Liyue นี้ เธอน่าจะเป็นคนที่เข้าใจราชาแห่งหินได้ดีที่สุด เอ่อ... จำได้ว่าก่อนหน้านี้ ฉันเคยพูดจาดูถูกราชาแห่งหินต่อหน้าเธอหลายครั้ง ก็เลยรู้สึกไม่ค่อยดีเท่าไหร่ แต่เธอก็ดูเหมือนจะไม่ได้ใส่ใจอะไร เรื่องนี้เลยทำให้ฉันรู้สึกโล่งใจขึ้นมาได้หน่อยนึง...",
       "vi": "Vì gần đây có rất nhiều việc không thể quyết định nên tôi thường đến hỏi ý kiến của cô ấy, suy cho cùng, ở Liyue cô ấy là người hiểu rõ Đế Quân nhất. Haiz, nhớ lại trước đây, vẫn có chút xấu hổ vì đã nói rất nhiều lời đắc tội Đế Quân trước mặt cô ấy, nhưng mà cô ấy có vẻ không bận tâm lắm, khiến tôi cảm thấy nhẹ nhõm..."
     }
   },
@@ -1158,7 +1158,7 @@
       "jp": "雲菫について…",
       "ko": "운근에 대해…",
       "en": "About Yun Jin",
-      "de": "Über Yunjin ...",
+      "de": "Über Yun Jin ...",
       "es": "Sobre Yun Jin...",
       "fr": "À propos de Yun Jin...",
       "pt": "Sobre Yunjin...",
@@ -1173,13 +1173,13 @@
       "jp": "もし和裕茶館の前を通るときに大勢の人が集まっていたら、それは雲菫が演出する舞台がやっている証拠よ。雲菫のためだけに茶館を買収しようと考える商人も少なくないの。",
       "ko": "화유다관 앞에 사람들이 몰려있다면 그건 운근이 공연을 하고 있다는 뜻이야. 많은 상인들이 운근을 위해서라면 찻집을 통째로라도 사겠다고 할 정도라니까",
       "en": "When you're passing by Heyu Tea House and have to squeeze your way through the biggest crowd you've seen in your life, that's when you know Yun Jin's on stage performing. There's not a merchant in Liyue who wouldn't buy up the place if they had the chance, and Yun Jin is the reason it would be worth every Mora.",
-      "de": "Wer schon einmal am Teehaus Heyu vorbeigegangen ist, wenn Menschenmassen Schlange stehen, wird auch Yunjin auf der Bühne singen gesehen haben. Viele Händler würden allein für sie das gesamte Teehaus aufkaufen, wenn sie nur könnten.",
+      "de": "Wer schon einmal am Teehaus Heyu vorbeigegangen ist, wenn Menschenmassen Schlange stehen, wird auch Yun Jin auf der Bühne singen gesehen haben. Viele Händler würden allein für sie das gesamte Teehaus aufkaufen, wenn sie nur könnten.",
       "es": "Si pasas por la Casa de Té Heyu y tienes que abrirte paso entre una enorme multitud, es porque Yun Jin está actuando. Si pudieran, muchos comerciantes estarían dispuestos a comprar la Casa de Té solamente por Yun Jin.",
       "fr": "Vous savez que Yun Jin est sur scène si vous devez passer une foule immense devant le Salon de thé Heyu. N'importe qui possédant les moyens nécessaires voudrait acquérir l'établissement rien que pour elle si l'occasion se présentait.",
       "pt": "Quando você passar pela Casa de Chá Heyu e ver uma multidão enorme, certamente a Yunjin deve estar no palco. Para todos os comerciantes, vale a pena comprar a Casa de Chá Heyu só por causa dela.",
       "ru": "#Если, проходя мимо чайного дома «Хэюй», ты увидел{F#а} огромную толпу, то это значит, что там выступает Юнь Цзинь. Многие торговцы считают, что ради неё можно было и весь чайный дом купить.",
       "id": "Kalau kamu melihat ada suatu kerumunan orang saat melewati Heyu Tea House, itu pastilah kerumunan orang yang sedang menyaksikan Yun Jin bernyanyi. Banyak pedagang yang rela merogoh koceknya dan membeli secangkir teh hanya untuk menonton pertunjukan itu.",
-      "th": "ตอนเดินผ่านโรงน้ำชา Heyu ถ้าต้องเบียดเสียดกับฝูงชนก็รู้ได้ เลยว่า Yun Jin กำลังแสดงอยู่บนเวที นักธุรกิจหลายคนต่างคิดว่าต่อให้ ต้องซื้อโรงน้ำชาทั้งโรง เพื่อ Yun Jin คนเดียวก็คุ้มค่า",
+      "th": "ตอนเดินผ่านโรงน้ำชา Heyu ถ้าต้องเบียดเสียดกับฝูงชนก็รู้ได้เลยว่า Yun Jin กำลังแสดงอยู่บนเวที นักธุรกิจหลายคนต่างก็คิดว่า ต่อให้ต้องซื้อโรงน้ำชาทั้งโรงเพื่อ Yun Jin คนเดียวก็คุ้มค่า",
       "vi": "Nếu Hòa Dụ Trà Quán bị biển người vây quanh, vậy chắc là Yun Jin đang biểu diễn đó. Rất nhiều thương nhân cho rằng, quán trà này đáng giá nhất vẫn là Yun Jin."
     }
   },
@@ -1210,8 +1210,8 @@
       "fr": "Depuis que le Souverain de la Roche nous a quittés, je réfléchis sans arrêt à l'avenir de Liyue. J'ai commencé à étudier le modèle de gouvernance des autres Archons en même temps que d'analyser le sien, et je dois admettre que j'ai du mal à voir comment les actions de Barbatos ont pu être bénéfiques pour Mondstadt... Ça me dépasse !",
       "pt": "Desde que o Rex Lapis nos deixou, a questão do futuro de Liyue está em minha mente constantemente. Além de revisar as suas próprias ações no passado, também estive pesquisando os modos de governança dos outros arcontes. O deus de Mondstadt é quem mais me desconcerta - como exatamente as suas ações contribuem para a longevidade de Mondstadt? Eu realmente não compreendo.",
       "ru": "После ухода Властелина Камня меня постоянно заботит вопрос будущего Ли Юэ. В дополнение к изучению его предыдущих действий я также рассмотрела методы правления других Архонтов. Больше всего меня озадачил Архонт Ветра. Разве его поступки могут положительно сказаться на долговечности Мондштадта?",
-      "id": "Setelah Rex Lapis pergi, aku terus berpikir akan bagaimanakah masa depan Liyue Harbor. Selain tetap meneruskan apa yang Rex sudah kerjakan sebelumnya, aku juga mempelajari cara Dewa lain untuk memerintah dunia. Namun, Mondstadt, negara tetangga itu, membuatku bingung... Seperti cara yang dilakukan oleh Archon Anemo itu apakah benar-benar bisa membuat Mondstadt bertahan lama?",
-      "th": "หลังจากราชาแห่งหินจากไป ฉันก็ได้แค่ครุ่นคิดว่า อนาคตของอ่าวท่าเรือ Liyue จะเป็นยังไงต่อไป นอกจากศึกษาวิธีการของราชาแห่งหินในอดีตแล้ว ฉันยังได้ศึกษารูปแบบการปกครองของเทพเจ้าตนอื่นอีกด้วย แต่ว่า ประเทศเพื่อนบ้านอย่าง Mondstadt ทำให้ฉันงงไปเลย... วิธีการปกครองแบบเทพแห่งลม จะทำให้เมือง Mondstadt อยู่อย่างมั่นคงยืนนานได้จริงเหรอ?",
+      "id": "Setelah Rex Lapis pergi, aku terus berpikir akan bagaimanakah masa depan Liyue Harbor. Selain tetap meneruskan apa yang Rex Lapis sudah kerjakan sebelumnya, aku juga mempelajari cara Dewa lain untuk memerintah dunia. Namun, Mondstadt, negara tetangga itu, membuatku bingung... Seperti cara yang dilakukan oleh Archon Anemo itu apakah benar-benar bisa membuat Mondstadt bertahan lama?",
+      "th": "หลังจากราชาแห่งหินจากไป ฉันก็ได้แค่ครุ่นคิดว่า อนาคตของท่าเรือ Liyue จะเป็นยังไงต่อไป นอกจากศึกษาวิธีการของราชาแห่งหินในอดีตแล้ว ฉันยังได้ศึกษารูปแบบการปกครองของเทพเจ้าตนอื่นอีกด้วย แต่ว่า ประเทศเพื่อนบ้านอย่าง Mondstadt ทำให้ฉันรู้สึกมึนงงมาก... วิธีการปกครองแบบเทพแห่งลม จะทำให้เมือง Mondstadt อยู่อย่างมั่นคงยืนนานได้จริง ๆ เหรอ?",
       "vi": "Sau khi Đế Quân rời đi, tôi vẫn luôn suy nghĩ về tương lai của cảng Liyue. Ngoài việc tham khảo cách làm việc trước đây của Đế Quân, tôi còn nghiên cứu thêm phương pháp cai trị của các vị thần khác. Nhưng mà đất nước láng giềng Mondstadt thực sự khiến tôi nghi hoặc... liệu cách làm của Phong Thần có thể khiến Mondstadt tồn tại và phát triển được không?"
     }
   },
@@ -1243,7 +1243,7 @@
       "pt": "Da maneira que eu vejo, a lei é um resumo de coisas feitas corretamente no passado. Entretanto, também deve ser constantemente adaptada e melhorada para satisfazer as necessidades do presente. Como Liyue está para testemunhar transformações radicais, talentos legais estão em alta demanda. Com uma assistente como Yanfei, eu poderia me poupar de muito trabalho.",
       "ru": "На мой взгляд, закон - это краткое изложение «правильных вещей» прошлого, но он также чувствителен ко времени и нуждается в постоянном уточнении и улучшении. Ли Юэ вот-вот претерпит радикальные изменения, а талантливых людей, которые знакомы с законом, трудно найти. Если госпожа Янь Фэй захочет стать моей помощницей, многие проблемы будут решены.",
       "id": "Menurutku, hukum adalah ringkasan dari hal-hal yang dilakukan dengan cara yang benar di masa lalu. Namun, hal itu juga harus terus disesuaikan dan ditingkatkan agar sesuai dengan kebutuhan saat ini. Mengingat Liyue akan menjalani transformasi radikal, sehingga hukum menjadi sangat dibutuhkan. Dengan asisten seperti Yanfei, aku bisa menyelamatkan diriku sendiri dari berbagai hal rumit.",
-      "th": "ในความคิดของฉัน กฎหมายเป็นบทสรุปของ \"สิ่งที่ถูกต้อง\" ในอดีต แต่ต้องคำนึงถึงระยะเวลามีผลและต้องมีการปรับปรุงอย่างต่อเนื่อง Liyue กำลังจะเผชิญหน้ากับการเปลี่ยนแปลงที่รุนแรง และคนที่คุ้นเคยกับกฎหมายนั้นหาได้ยาก หากคุณ Yanfei เต็มใจที่จะทำหน้าที่เป็นผู้ช่วยของฉัน ก็จะแก้ไขได้ปัญหาไม่น้อยเลยล่ะ",
+      "th": "ในความคิดของฉัน กฎหมายเป็นบทสรุปของ \"สิ่งที่ถูกต้อง\" ในอดีต แต่ต้องคำนึงถึงระยะเวลามีผล และต้องมีการปรับปรุงอย่างต่อเนื่องด้วย Liyue กำลังจะเผชิญหน้ากับการเปลี่ยนแปลงครั้งใหญ่ และคนที่คุ้นเคยกับกฎหมายนั้นหาได้ยาก หากคุณ Yanfei เต็มใจที่จะทำหน้าที่เป็นผู้ช่วยของฉันละก็ คงช่วยแก้ไขปัญหายุ่งยากไปได้ไม่น้อยเลยล่ะ",
       "vi": "Theo tôi thấy, pháp luật chính là sự tổng kết \"chính xác\" của quá khứ, nhưng cũng có thời hạn, cần phải liên tục hoàn thiện và cải tiến. Liyue sắp mở ra những thay đổi mạnh mẽ, nhân tài am hiểu luật pháp lại quá hiếm, nếu Yanfei đồng ý làm trợ thủ của tôi, có lẽ sẽ giải quyết được rất nhiều rắc rối."
     }
   },
@@ -1275,7 +1275,7 @@
       "pt": "Os ancestrais da Srta. Yelan costumavam servir os Qixing. Meu avô e a família dele tiveram colaborações acadêmicas no passado. No geral, ela é uma pessoa confiável, eficiente e fornece informações importantes para o Ministério dos Assuntos Civis. Entretanto, não sei exatamente como a Srta. Yelan consegue suas informações...",
       "ru": "Предки госпожи Е Лань служили Цисин. Мой дедушка в прошлом сотрудничал с её семьёй. В целом, она надёжна, эффективна и предоставляет важную информацию Департаменту по делам граждан. Однако я не могу с уверенностью сказать, как госпожа Е Лань на самом деле получает информацию...",
       "id": "Leluhur Nona Yelan bekerja untuk Qixing, dan kakekku juga memiliki hubungan kerja sama akademik dengan keluarganya. Secara umum, dia dapat diandalkan, efisien, dan selalu melaporkan informasi penting kepada Bagian Urusan Sipil dari waktu ke waktu. Tapi, aku tidak tahu dia dapat semua informasi itu dari mana.",
-      "th": "บรรพบุรุษของคุณ Yelan เคยทำงานให้กับ Qixing และคุณปู่ของฉันได้ร่วมมือทางวิชาการกับครอบครัวของเธอด้วย โดยรวมแล้ว เธอเป็นคนที่มีความน่าเชื่อถือ ทำงานได้หมดจดเรียบร้อย แถมยังให้ข้อมูลที่สำคัญกับฝ่ายกิจการทั่วไปบ่อย ๆ อีกด้วย ฉันเองก็ไม่รู้แน่ชัดว่าคุณ Yelan ได้ยินข้อมูลพวกนี้มาได้ยังไง",
+      "th": "บรรพบุรุษของคุณ Yelan เคยทำงานให้กับ Qixing และคุณปู่ของฉันก็เคยได้ร่วมมือทางวิชาการกับตระกูลของเธอด้วย โดยรวมแล้ว เธอเป็นคนที่มีความน่าเชื่อถือ ทำงานได้หมดจดเรียบร้อย แถมยังให้ข้อมูลที่สำคัญกับฝ่ายกิจการทั่วไปบ่อย ๆ อีกด้วย ฉันเองก็ไม่รู้แน่ชัดว่าคุณ Yelan ได้ยินข้อมูลพวกนี้มาได้ยังไง",
       "vi": "Tổ tông của tiểu thư Yelan từng làm việc cho Thất Tinh, ông nội tôi cũng từng hợp tác nghiên cứu học thuật với gia tộc của cô ấy. Nói chung thì cô ấy làm việc gọn gàng, rất đáng tin cậy, thường hay cung cấp tình báo quan trọng cho Tổng Vụ. Nhiều khi tôi cũng không hiểu, tiểu thư Yelan lấy những thông tin đó ở đâu nhỉ."
     }
   },
@@ -1307,7 +1307,7 @@
       "pt": "Vocês querem me conhecer melhor? Está bem! Então deixe-me primeiro contar os princípios do papel da Yuheng. Após dominar essas centenas de cláusulas, vocês poderão ter uma compreensão profunda dos meus sonhos.",
       "ru": "Хочешь узнать обо мне больше? Ладно. Для начала я расскажу тебе о работе Нефритового Равновесия. После того как ты ознакомишься с сотнями основных пунктов этой должности, мои идеалы предстанут перед тобой как на ладони!",
       "id": "Ingin kenal lebih jauh denganku? Oke, biar aku jelaskan dulu prinsip kerja seorang Yuheng. Kalau kamu sudah hapal sekian ratus kewajiban yang ditanggung oleh posisi itu, berarti kamu juga sudah tahu persis semua harapan dan impianku!",
-      "th": "อยากรู้จักฉันให้มากขึ้น? ได้สิ ฉันจะบอกคุณเกี่ยวกับหลักการ ทำงานของ \"Yuheng\" ก่อน และเมื่อคุณจดจำรายการสำคัญกว่าร้อยรายการได้แล้ว คุณจะเข้าใจความฝันของฉันอย่าง แน่นอน!",
+      "th": "อยากรู้จักฉันให้มากขึ้นเหรอ? ได้สิ ฉันจะบอกเธอเกี่ยวกับหลักการทำงานของ \"Yuheng\" ก่อน และเมื่อเธอจดจำรายการสำคัญกว่าร้อยรายการได้แล้ว เธอจะเข้าใจความฝันของฉันอย่างแน่นอน!",
       "vi": "Muốn biết rõ về tôi? Được thôi, vậy để tôi nói nguyên tắc làm việc của Ngọc Hành cho bạn nghe, khi nào bạn ghi nhớ được hơn một trăm mục chính, thì chắc chắn có thể hiểu rõ lý tưởng của tôi như lòng bàn tay!"
     }
   },
@@ -1339,7 +1339,7 @@
       "pt": "Nada existe de forma independente, e não há nada que você possa fazer para mudar isso. Então, quando uma coisa está atrasada, vários assuntos conectados estão afetados. É por isso que acredito firmemente que você nunca deve adiar até amanhã o que pode fazer hoje... Eu não sou uma pessoa impaciente, só que tudo não se pode atrasar.",
       "ru": "Ничто не существует отдельно от остального. Если станешь медлить с одним делом, пострадают другие, с ним связанные. Поэтому нельзя откладывать на завтра то, что можно сделать сегодня. А ещё я очень нетерпелива и не выношу проволочек.",
       "id": "Tidak ada satu pun yang bisa lepas dari keterkaitan. Jadi, ketika menunda sesuatu, kamu sama saja mengacaukan segala sesuatu yang berkaitan dengannya. Karena itu, aku memegang teguh prinsip \"urusan hari ini harus selesai hari ini\". Bukannya aku tidak sabaran, tapi segala urusan kan memang sebaiknya jangan ditunda-tunda.",
-      "th": "ไม่มีสิ่งไหนที่สามารถดำรงอยู่ได้ โดยอิสระโดยไม่เชื่อมต่อกับสิ่งอื่น เพราะฉะนั้นถ้าคุณมัวอ้อยอิ่งอยู่กับ เรื่องใดเรื่องหนึ่ง มันจะส่งผลกระทบที่เลวร้ายกับสิ่งที่เกี่ยวข้อง เพราะฉะนั้น \"เรื่องวันนี้ต้องจบวันนี้\" ไม่ใช่เพราะฉันใจร้อนนะ แต่เรื่องต่าง ๆ จะปล่อยให้ล่าช้าไม่ได้",
+      "th": "ไม่มีสิ่งไหนที่สามารถดำรงอยู่ได้อย่างอิสระโดยไม่เชื่อมต่อกับสิ่งอื่น เพราะฉะนั้นถ้าเธอมัวอ้อยอิ่งอยู่กับเรื่องใดเรื่องหนึ่ง มันจะส่งผลกระทบที่เลวร้ายกับสิ่งที่เกี่ยวข้อง ฉะนั้น \"เรื่องวันนี้ต้องจบวันนี้\" ไม่ใช่เพราะฉันใจร้อนนะ แต่เรื่องต่าง ๆ จะปล่อยให้ล่าช้าไม่ได้เด็ดขาด",
       "vi": "Mọi sự trên đời không có thứ gì tồn tại một cách độc lập mà không liên quan đến nhau, nếu như một sự việc bị trì hoãn, sẽ ảnh hưởng đến các sự việc còn lại. Vì vậy \"việc của hôm nay chớ để ngày mai\". Không phải tôi là người thiếu kiên nhẫn mà là công việc vốn không thể chờ đợi."
     }
   },
@@ -1366,12 +1366,12 @@
       "ko": "내 앞에서 너무 예의 차릴 필요 없어. 「옥형」은 그저 명색일 뿐이야. 네가 내 신분 때문에 하고 싶은 말을 담아두지 않았으면 좋겠어——직설적인 게 네 가장 큰 매력이거든",
       "en": "Never mince your words with me, okay? Yuheng's just a title. I'll not have you treading on eggshells around me just because of my status. Say what's on your mind, always — that's what makes you unique, and it's the thing I admire about you the most.",
       "de": "Keine übertriebene Höflichkeit! Yuheng ist doch nur ein Titel, der nichts über mich persönlich aussagt. Ich bewundere dich dafür, dass du aussprichst, was du denkst. Das macht dich zu etwas Besonderem und ist etwas, was ich sehr an dir schätze.",
-      "es": "#No tienes que ser tan formal conmigo, ¿de acuerdo? “Equilibrio Terrenal” es solo un título, no hace falta que andes con pies de plomo al hablar conmigo. Di lo que realmente piensas. Eso es lo que te hace únic{F#a}{M#o}, y lo que más admiro de ti.",
+      "es": "#No tienes que ser tan formal conmigo, ¿de acuerdo? “Equilibrio Terrenal” es solo un título, no hace falta que te andes con pies de plomo al hablar conmigo. Di lo que realmente piensas. Eso es lo que te hace únic{F#a}{M#o}, y lo que más admiro de ti.",
       "fr": "Ne mâchez pas vos mots avec moi, d'accord ? J'ai beau être l'Alioth, ce n'est qu'un titre, donc j'espère que vous ne prendrez pas de pincettes avec moi. Dites toujours ce que vous pensez ! Votre franchise est ce que j'apprécie le plus chez vous.",
       "pt": "#Fique à vontade, pode dizer tudo o que quiser, ok? Yuheng é apenas um título, não vou deixar você esconder as suas palavras por causa desse título. Diga sempre o que pensa - é isso que {F#a}{M#o} torna únic{F#a}{M#o}, e é o que mais admiro em você.",
       "ru": "Не нужно со мной любезничать. Нефритовое Равновесие - всего лишь титул, и ничего от меня скрывать не нужно. Всегда говори всё, как на духу - это твоя особая черта, которая восхищает меня больше всего.",
       "id": "Tolong jangan pernah basa-basi dan bermanis mulut kepadaku, oke? Yuheng itu cuma sekadar jabatan saja. Aku tidak suka kalau kamu terlalu berhati-hati dalam bertutur kata cuma karena kamu segan pada jabatanku. Tetaplah terus terang dan kemukakan pendapat apa adanya ... Sifat itulah yang membuat kamu beda dari yang lain, dan itu pula yang paling kukagumi dari dirimu.",
-      "th": "ไม่ต้องเกรงใจฉันขนาดนั้นหรอก Yuheng มันเป็นแค่ชื่อตำแหน่ง อย่าปิดบังความในใจที่อยากพูดไว้ เพียงเพราะสถานะของฉันเลย เพราะเอกลักษณ์ของคุณคือเป็นคนตรงไปตรงมาเสมอ นี่คือสิ่งที่ฉันชื่นชมที่สุดในตัวคุณ",
+      "th": "ไม่ต้องเกรงใจฉันขนาดนั้นหรอก Yuheng มันเป็นแค่ชื่อตำแหน่ง อย่าปิดบังความในใจที่อยากพูดไว้ เพียงเพราะสถานะของฉันเลย เพราะเอกลักษณ์ของเธอคือการเป็นคนตรงไปตรงมาเสมอ นี่คือสิ่งที่ฉันชื่นชมที่สุดในตัวของเธอเลยนะ",
       "vi": "Đừng khách sáo, Ngọc Hành nói cho cùng cũng chỉ là hư danh, tôi không muốn bạn vì thân phận của tôi mà che giấu đi những gì bạn muốn nói... vì vậy có gì thì cứ nói thẳng ra, đây mới là điểm khiến bạn trở nên độc đáo và cũng là điểm mà tôi đánh giá cao nhất."
     }
   },
@@ -1403,7 +1403,7 @@
       "pt": "#Já somos companheir{M#o}{F#a}s de viagem por muito tempo, e estou achando que você é a pessoa certa e imprescindível para o meu plano de Liyue novo. Por que é que está tão chocad{F#a}{M#o}?",
       "ru": "Мы пережили с тобой немало приключений, ведь так? Я всё больше склоняюсь к мысли, что ты человек моей мечты, и... А? Не стоит так удивляться. Ты неотъемлемая часть моей мечты о новом Ли Юэ.",
       "id": "Kita sudah cukup lama bertualang bersama ya? Semakin banyak waktu yang kuhabiskan sama kamu, semakin aku merasa kalau kamulah sosok yang ada di dalam impianku, dan— Eh? Kenapa kaget? Kamu memang sosok yang ada dalam impianku untuk membangun Liyue yang baru.",
-      "th": "เราร่วมผจญภัยด้วยกันมานาน เหมือนกันนะ ยิ่งอยู่นานฉันยิ่งรู้สึกว่าคุณคือคนในฝันของฉัน —— อ๊ะ? ตกใจขนาดนั้นเลยเหรอ? การที่จะสร้าง Liyue ในฝันของฉันให้สำเร็จ คุณคือบุคคลสำคัญที่ขาดไม่ได้ ยังไงล่ะ",
+      "th": "เราร่วมผจญภัยด้วยกันมานานเหมือนกันนะ ยิ่งนานวันฉันยิ่งรู้สึกว่าเธอคือคนในฝันของฉัน... อ๊ะ? ตกใจขนาดนั้นเลยเหรอ? ก็การที่จะสร้าง Liyue ในฝันของฉันให้สำเร็จ เธอคือบุคคลสำคัญที่ขาดไม่ได้เลยยังไงล่ะ",
       "vi": "Đã cùng bạn mạo hiểm một thời gian dài. Tôi càng lúc càng cảm thấy bạn là mẫu người lý tưởng của tôi.... Hả? Ngạc nhiên như vậy làm gì? Bạn thực sự không thể thiếu trong quá trình xây dựng một Liyue lý tưởng."
     }
   },
@@ -1431,11 +1431,11 @@
       "en": "\"The time has come for humanity to make its mark in the land of the Geo Archon\"... Turns out that was quite an ambitious statement after all. But I want you to make me a promise: come and visit when the new Liyue Harbor is born. I will show you around. After all the help and support you've given me along the way, you deserve to see Liyue reborn with your own eyes. I owe you that much.",
       "de": "„Möge die Menschheit ihren Teil dazu beitragen, das Land des Geo-Archons zu hüten.“ Es mag schwierig sein, aber ich verspreche dir, sobald das neue Zeitalter in Liyue beginnt, werde ich die Menschen in eine bessere Zukunft führen. Du wirst schon sehen. So viel schulde ich dir.",
       "es": "“Ha llegado el momento de que la humanidad deje su huella en la tierra de Rex Lapis”. Claro que no es algo fácil de conseguir, pero quiero que me prometas una cosa: que cuando nazca la nueva Liyue, vendrás a verme para que te muestre la ciudad. Estoy en deuda contigo por toda la ayuda y el apoyo que me has dado, por lo que mereces ver con tus propios ojos el renacer de Liyue.",
-      "fr": "Un jour, j'ai dit : « Le temps est venu pour l'humanité de s'affirmer sur les terres de l'Archon Anémo. » Ces paroles étaient trop ambitieuses, mais faites-moi une promesse : laissez-moi vous guider à travers le Port de Liyue quand il renaîtra. Vous méritez de le voir de vos propres yeux pour toute l'aide et le soutien que vous m'avez apportés pour réaliser ce rêve.",
+      "fr": "Un jour, j'ai dit : « Le temps est venu pour l'humanité de s'affirmer sur les terres de l'Archon Géo. » Ces paroles étaient trop ambitieuses, mais faites-moi une promesse : laissez-moi vous guider à travers le Port de Liyue quand il renaîtra. Vous méritez de le voir de vos propres yeux pour toute l'aide et le soutien que vous m'avez apportés pour réaliser ce rêve.",
       "pt": "\"Chegou a hora de humanidade deixar sua marca na terra do Arconte Geo...\" Acontece que, apesar de tudo, era uma afirmação bastante ambiciosa. Mas quero que você me faça uma promessa: venha visitar quando o novo porto de Liyue nascer, mostrarei como estará. Depois de toda a ajuda e apoio que você me deu ao longo do caminho, você merece ver Liyue renascer com os seus próprios olhos. Eu te devo muito isso.",
       "ru": "«Пришёл черёд человечества оставить свой след на земле Гео Архонта». Оказывается, сделать это совсем нелегко. Давай с тобой договоримся: когда в гавань Ли Юэ придёт новая эпоха, я всё там тебе покажу. После всей твоей поддержки и помощи ты заслуживаешь увидеть перемены собственными глазами.",
       "id": "\"Tiba saatnya bangsa manusia meninggalkan jejak di atas tanah Rex Lapis\". Mewujudkan kalimat itu ternyata tidak mudah. Tapi berjanjilah satu hal: datanglah berkunjung kalau Pelabuhan Liyue yang baru sudah berhasil dibangun nanti. Aku sendiri yang akan jadi pemandumu. Setelah semua yang kamu lakukan untuk mendukung aku, kamu jelas berhak untuk menyaksikan Liyue yang terlahir baru dengan matamu sendiri. Mau kan?",
-      "th": "\"อยากทิ้งร่องรอยความทรงจำของมนุษย์ไว้ในดินแดนของเทพเจ้า\" มันไม่ง่ายอย่างที่คิดเลยนะ แต่ฉันอยากจะสัญญากับคุณไว้ข้อหนึ่ง... เมื่อยุคใหม่ของอ่าวท่าเรือ Liyue ได้ถือกำเนิดขึ้น คุณจะต้องกลับมาเยี่ยมนะ ฉันจะพาคุณชมเอง ต้องให้คุณได้เห็นการเปลี่ยนแปลง นี้ด้วยตาคุณเอง ถึงจะไม่เสียแรงที่คุณคอยอยู่เคียงข้าง และสนับสนุนฉันมาตลอด",
+      "th": "\"อยากทิ้งร่องรอยความทรงจำของมนุษย์ไว้ในดินแดนของเทพเจ้า\" มันไม่ง่ายอย่างที่คิดเลยนะ แต่ฉันอยากจะสัญญากับเธอไว้ข้อหนึ่ง... เมื่อยุคใหม่ของท่าเรือ Liyue ได้ถือกำเนิดขึ้น เธอจะต้องกลับมาเยี่ยมนะ ฉันจะพาเธอชมเอง ต้องให้เธอได้เห็นการเปลี่ยนแปลงนี้ด้วยตาตัวเอง ถึงจะไม่เสียแรงที่เธอคอยอยู่เคียงข้าง และสนับสนุนฉันมาตลอด",
       "vi": "\"Muốn lưu lại dấu ấn của con người trên vùng đất của Đế Quân\", điều này thực sự không dễ dàng. Nhưng tôi muốn thoả thuận với bạn... khi thời đại mới của cảng Liyue hoàn thành, hãy đến xem, tôi sẽ dẫn đường cho bạn. Chỉ có cách để bạn chứng kiến sự thay da đổi thịt nơi đây, mới không phụ sự đồng hành và ủng hộ của bạn."
     }
   },
@@ -1467,7 +1467,7 @@
       "pt": "Tantos estilos, tantas texturas, tantas opções... Isso é consumismo! É algo irresistível.",
       "ru": "Сколько моделей, фасонов, какой широкий выбор... В этом и заключается непреодолимое очарование походов по магазинам!",
       "id": "Ah, perasaan yang muncul waktu dikasih lihat variasi model, tekstur, dan pilihan yang tidak ada habisnya ... Belanja, selalu bisa bikin hati riang gembira!",
-      "th": "หลายสไตล์ หลายวัสดุ หลายตัวเลือก... อ๊า นี่ก็คือการจับจ่ายใช้สอยไงล่ะ มันช่างมีเสน่ห์ที่เหลือเชื่อจริง ๆ",
+      "th": "หลายสไตล์ หลายวัสดุ หลายตัวเลือก... อ๊า นี่ก็คือการจับจ่ายใช้สอยไงล่ะ มันช่างมีเสน่ห์ที่น่าเหลือเชื่อจริง ๆ",
       "vi": "Nhiều kiểu dáng, nhiều tính chất, nhiều sự lựa chọn như vậy... À, đó chính là \"tiêu dùng\", thực là sự hấp dẫn khiến người ta không thể cưỡng lại."
     }
   },
@@ -1494,12 +1494,12 @@
       "ko": "리월 사람들의 생활 수준이 점점 좋아지고 있긴 하지만, 현실에 안주하고 놀고먹으려는 사람들도 점점 많아지고 있어. 휴, 「리월 칠성」이 게으른 사람들을 먹여 살리려고 복지에 힘쓰는 건 아닌데",
       "en": "It's great that the quality of life in Liyue is improving for everyone. But one downside is the growing number of people who are happy to reap the rewards without doing their fair share of the work. The Liyue Qixing did not put in all this effort to create a more prosperous society just so people like them can loaf around.",
       "de": "Das Leben in Liyue wird für alle stetig besser, das stimmt schon. Leider werden die Leute dabei immer fauler und nutzen die Vorteile dieses Lebens aus. Die Qixing von Liyue haben nicht so hart gearbeitet, damit die Menschen sich zurücklehnen und mit Wohlstand berieseln lassen können.",
-      "es": "Es una buena noticia que la calidad de vida esté mejorando para todos en Liyue. Pero, al mismo tiempo, cada vez hay más gente que se aprovecha del trabajo de otros sin hacer nada. Las Siete Estrellas no nos esforzamos en crear una sociedad más próspera para que personas como ésas estén todo el tiempo holgazaneando.",
+      "es": "Es una buena noticia que la calidad de vida esté mejorando para todos en Liyue. Pero, al mismo tiempo, cada vez hay más gente que se aprovecha del trabajo de otros sin hacer nada. Las Siete Estrellas no nos esforzamos en crear una sociedad más próspera para que personas como ésas estén holgazaneando todo el tiempo.",
       "fr": "La qualité de vie à Liyue ne cesse de s'améliorer pour tous. L'inconvénient est que le nombre de personnes qui profitent du labeur des autres augmente aussi. Les efforts des Sept Étoiles pour établir et maintenir une société prospère n'ont pas été faits pour que ce genre d'individus prolifère.",
       "pt": "A qualidade de vida em Liyue está cada vez melhor, é verdade, mas surgiram cada vez mais pessoas preguiçosas, e sem motivação para trabalhar. *Suspiro* Os Qixing de Liyue se dedicaram tanto para melhorar o bem-estar da sociedade, mas não para que pessoas preguiçosas vivessem assim.",
       "ru": "Я рада, что уровень жизни каждого в Ли Юэ становится всё лучше. Но становится больше и тех, кто ни к чему не стремится и хочет ничего не делать. Цисин привели общество к процветанию не для того, чтобы кормить кучку дармоедов.",
       "id": "Memang, taraf hidup penduduk Liyue semakin hari semakin meningkat. Tapi ada juga sisi negatifnya, yaitu semakin banyak kelas orang malas cuma mau menikmati hasilnya tanpa mau ikutan kerjanya. Liyue Qixing berusaha mati-matian untuk meningkatkan kesejahteraan masyarakat, bukan untuk menghidupi tipe orang tidak berguna macam ini.",
-      "th": "ชีวิตของผู้คนใน Liyue พัฒนาขึ้นเรื่อย ๆ มันก็ดีอยู่หรอก แต่ข้อเสียคือคนขี้เกียจกลับเพิ่ม มากขึ้นทุกวัน ฮึ Liyue Qixing ทำงานหนักเพื่อปรับปรุงสวัสดิการในสังคม ไม่ใช่เพราะจะเอามาเลี้ยงคนพวกนี้หรอกนะ",
+      "th": "ชีวิตของผู้คนใน Liyue พัฒนาขึ้นเรื่อย ๆ มันก็ดีอยู่หรอก แต่ข้อเสียคือคนขี้เกียจกลับเพิ่มมากขึ้นทุกวัน ฮึ Liyue Qixing ทำงานหนักเพื่อปรับปรุงสวัสดิการในสังคม ไม่ใช่เพราะจะเอามาเลี้ยงคนพวกนี้หรอกนะ",
       "vi": "Đúng là cuộc sống của người Liyue ngày càng tốt hơn, nhưng những kẻ không có chí tiến thủ, ham ăn lười làm mỗi lúc một nhiều. Haiz, Thất Tinh Liyue đang rất cố gắng để cải thiện phúc lợi xã hội, nhưng không phải để nuôi dưỡng đám người lười biếng này."
     }
   },
@@ -1563,8 +1563,104 @@
       "pt": "Cada prato tem o seu sabor ideal com a única maneira de cozinhar. Não aceito a segunda maneira, nem para provar. Tofu de Amêndoas salgado, Sopa de Lótus e Ovo doce... Estão fora da minha imaginação! Falta do mínimo de respeito pela comida.",
       "ru": "Каждое блюдо должно обладать своим вкусом. Любое отклонение от нормы я и пробовать не стану. Так что солёный миндальный тофу или сладкий яичный суп из лотоса - неразумный расход ингредиентов!",
       "id": "Segala jenis hidangan ada aturannya, dan semua punya rasa yang \"seharusnya\". Aku tidak akan coba makanan yang rasanya tidak sesuai. Misalnya Almond Tofu tapi asin, atau Lotus Seed and Bird Egg Soup tapi manis ... Buat aku sih, itu namanya buang-buang makanan!",
-      "th": "แต่ละเมนูมันมีรสชาติที่ควรจะเป็น ฉันยอมรับเมนูที่ปรุงแบบพิสดารไม่ได้เด็ดขาด ให้ลองชิมยังไม่เอาเลย อย่างเช่น Almond Tofu รสเค็ม, Lotus Seed and Bird Egg Soup รสหวานอะไรพวกนั้น... เสียของจริง ๆ เลย!",
+      "th": "แต่ละเมนูมันมีรสชาติที่ควรจะเป็น ฉันยอมรับเมนูที่ปรุงแบบพิสดารไม่ได้เด็ดขาด ให้ลองชิมยังไม่เอาเลย ก็อย่างเช่น Almond Tofu รสเค็ม, Lotus Seed and Bird Egg Soup รสหวานอะไรพวกนั้น... เสียของจริง ๆ เลย!",
       "vi": "Mỗi món ăn đều có hương vị lý tưởng nhất, tôi không thể tiếp nhận công thức nào khác, thử thôi cũng không được. Ví dụ như, món Đậu Hũ Hạnh Nhân mặn, món Canh Trứng Hạt Sen ngọt gì đó... đều là những thứ rất khủng khiếp!"
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其一",
+      "zht": "收到贈禮·其一",
+      "jp": "贈り物を受け取る·1",
+      "ko": "선물 획득·첫 번째",
+      "en": "Receiving a Gift: I",
+      "de": "Geschenk erhalten I",
+      "es": "Al recibir un regalo (I)",
+      "fr": "Cadeau reçu (1)",
+      "pt": "Recebendo Presentes — I",
+      "ru": "Подарок I",
+      "id": "Menerima Hadiah: I",
+      "th": "ได้รับของขวัญ - 1",
+      "vi": "Nhận Được Quà I"
+    },
+    "line": {
+      "zhs": "没错，正是我喜欢的。",
+      "zht": "沒錯，正是我喜歡的。",
+      "jp": "ええ、私の好物だわ。",
+      "ko": "좋아, 내 취향이랑 딱 맞아",
+      "en": "Yep, that's right. My favorite.",
+      "de": "Ja, genau sowas mag ich.",
+      "es": "Justo como a mí me gusta.",
+      "fr": "Parfait, comme j'aime.",
+      "pt": "Exatamente como eu gosto.",
+      "ru": "Да, это моё любимое.",
+      "id": "Yap, betul sekali. Ini makanan favoritku.",
+      "th": "ใช่เลย นี่แหละรสชาติที่ฉันชอบ",
+      "vi": "Đúng là món tôi thích."
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其二",
+      "zht": "收到贈禮·其二",
+      "jp": "贈り物を受け取る·2",
+      "ko": "선물 획득·두 번째",
+      "en": "Receiving a Gift: II",
+      "de": "Geschenk erhalten II",
+      "es": "Al recibir un regalo (II)",
+      "fr": "Cadeau reçu (2)",
+      "pt": "Recebendo Presentes — II",
+      "ru": "Подарок II",
+      "id": "Menerima Hadiah: II",
+      "th": "ได้รับของขวัญ - 2",
+      "vi": "Nhận Được Quà II"
+    },
+    "line": {
+      "zhs": "味道中规中矩，但你的努力值得肯定。",
+      "zht": "#味道中規中矩，但{F#妳}{M#你}的努力值得肯定。",
+      "jp": "味は普通だけど、君の努力は認めるわ。",
+      "ko": "맛은 평범하지만, 네 노력은 인정해 줄게",
+      "en": "The taste is fairly standard, but I can see you worked hard at it.",
+      "de": "Der Geschmack ist mäßig, aber du verdienst Anerkennung für deine Bemühungen.",
+      "es": "El sabor es aceptable, pero aprecio el esfuerzo.",
+      "fr": "Le goût de ce plat est banal, mais je prends note de vos efforts.",
+      "pt": "O sabor está aceitável, mas posso ver que você se esforçou bastante.",
+      "ru": "Вкус довольно обычный, но я вижу твои старания.",
+      "id": "Rasanya biasa saja, tapi yang penting kamu sudah berusaha semampunya.",
+      "th": "รสชาติก็พอใช้ได้แหละ แต่ฉันซาบซึ้งในความพยายามของเธอนะ",
+      "vi": "Hương vị có thể chấp nhận được, nhưng tôi đánh giá cao sự cố gắng của bạn."
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其三",
+      "zht": "收到贈禮·其三",
+      "jp": "贈り物を受け取る·3",
+      "ko": "선물 획득·세 번째",
+      "en": "Receiving a Gift: III",
+      "de": "Geschenk erhalten III",
+      "es": "Al recibir un regalo (II)",
+      "fr": "Cadeau reçu (3)",
+      "pt": "Recebendo Presentes — III",
+      "ru": "Подарок III",
+      "id": "Menerima Hadiah: III",
+      "th": "ได้รับของขวัญ - 3",
+      "vi": "Nhận Được Quà III"
+    },
+    "line": {
+      "zhs": "和理想中的味道有些差距…",
+      "zht": "和理想中的味道有些差距…",
+      "jp": "理想の味とは少し違うわね…",
+      "ko": "생각했던 맛이랑 좀 다르네…",
+      "en": "It seems quite a ways off from how it's supposed to taste...",
+      "de": "Ein bisschen anders als der ideale Geschmack ...",
+      "es": "Dista bastante de lo que esperaba.",
+      "fr": "La saveur de ce plat est loin d'être parfaite...",
+      "pt": "Parece bem distante de qual seu sabor deveria ser...",
+      "ru": "Кажется, вкус должен быть немного другим...",
+      "id": "Rasanya berbeda sekali dari bayanganku ....",
+      "th": "รสชาติต่างจากที่คิดไว้นิดหน่อย...",
+      "vi": "Hơi khác so với hương vị mà tôi nghĩ..."
     }
   },
   {
@@ -1590,12 +1686,12 @@
       "ko": "생일 축하해! 널 위해 특별한 선물을 준비했어. 이건 평범한 등불이 아니야. 약간의 번개 원소의 힘만 있다면 오랫동안 빛을 밝혀주지. 빛이 필요할 땐 이걸 써!",
       "en": "Happy birthday! I've got a very special gift for you. It might look like an ordinary old lantern, but this one runs on Electro energy and stays alight for a really long time. For those times when you need a little extra light in your life.",
       "de": "Herzlichen Glückwunsch zum Geburtstag! Ich habe etwas ganz Tolles für dich vorbereitet! Das sieht vielleicht aus wie eine stinknormale Laterne. Sie ist aber mit Elektro-Kraft erfüllt und strahlt deswegen sehr lange. Du kannst sie tragen, wenn du im Dunkeln unterwegs bist.",
-      "es": "¡Feliz cumpleaños! Tengo un regalo muy especial para ti. Puede que parezca una vieja linterna común y corriente, pero funciona con energía Electro y puede estar encendida durante mucho tiempo. Perfecta para esos momentos en los que necesitas un poco de luz en la vida, ¿no crees?",
+      "es": "¡Feliz cumpleaños! Tengo un regalo muy especial para ti. Puede que parezca una vieja linterna común y corriente, pero funciona con energía Electro y puede estar encendida durante mucho tiempo. Perfecta para esos momentos en los que necesitas un poco de luz en tu vida, ¿no crees?",
       "fr": "Joyeux anniversaire ! J'ai un petit cadeau à vous offrir. On dirait une lanterne ordinaire, mais celle-ci est alimentée par de l'énergie Électro et peut rester allumée pendant un moment. J'espère que sa lumière pourra vous guider lorsque vous en aurez besoin.",
       "pt": "Feliz Aniversário! Eu tenho um presente muito especial para você. Pode parecer uma lanterna muito comum, mas basta apenas um pouco de Electro, já pode permanecer acesa por muito tempo. Serve para aqueles momentos em que você precisa de um pouco de luz extra em sua vida.",
       "ru": "С днём рождения! Я приготовила для тебя особый подарок. В этой, казалось бы, обычной лампе заключён Электро, поэтому светить она может очень долго. Когда тебе понадобится, она развеет тьму.",
       "id": "Selamat ulang tahun! Aku punya kado istimewa buat kamu. Jangan salah, ini bukan lentera tua sembarangan. Yang satu ini pakai elemen Electro dan bisa nyala untuk waktu yang sangat lama. Ketika kamu perlu cahaya lebih di dalam hidup, pakai saja ini ya.",
-      "th": "สุขสันต์วันเกิดนะ! ฉันได้เตรียมของขวัญพิเศษไว้ให้คุณแล้ว อย่าคิดว่านี่เป็นเพียงโคมไฟเก่า ๆ ธรรมดา ตราบใดที่มีธาตุไฟฟ้าเพียงเล็กน้อย มันก็สามารถส่องสว่างได้เป็นเวลานานเลยล่ะ ใช้เมื่อคุณต้องการแสงสว่างในชีวิตนะ",
+      "th": "สุขสันต์วันเกิดนะ! ฉันได้เตรียมของขวัญพิเศษไว้ให้เธอแล้ว อย่าคิดว่านี่เป็นเพียงโคมไฟเก่า ๆ ธรรมดา ตราบใดที่มีธาตุไฟฟ้าเพียงเล็กน้อย มันก็สามารถส่องสว่างได้เป็นเวลานานเลยล่ะ เอาไว้ใช้ในเวลาที่เธอต้องการแสงสว่างนะ",
       "vi": "Sinh nhật vui vẻ! Tôi đã chuẩn bị một món quà đặc biệt dành cho bạn. Đừng nghĩ rằng đây chỉ là một chiếc đèn bình thường, chỉ cần có một chút sức mạnh Nguyên Tố Lôi, nó có thể toả sáng trong một thời gian dài. Hãy dùng đến nó khi bạn cần ánh sáng nhé."
     }
   },
@@ -1627,7 +1723,7 @@
       "pt": "Quando o seu coração está decidido em alguma coisa, você se aproxima de seu objetivo a cada dia que passa.",
       "ru": "Если твоё сердце к чему-то стремится, то ты становишься ближе к цели с каждым днём.",
       "id": "Pemilik hati yang tahu arah, adalah dia yang semakin hari semakin dekat dengan tujuan.",
-      "th": "แค่ตั้งเป้าหมายไว้ในใจ แล้วคุณจะสามารถเข้าใกล้มัน ได้มากขึ้นในแต่ละวัน",
+      "th": "แค่ตั้งเป้าหมายไว้ในใจ แล้วเธอจะสามารถเข้าใกล้มันได้มากขึ้นในแต่ละวัน",
       "vi": "Có chí hướng, ngày qua ngày, tất có đột phá."
     }
   },
@@ -1691,7 +1787,7 @@
       "pt": "\"As experiências de ontem se tornarão a força do amanhã\". E tudo isto, é o meu tesouro na jornada junto com você.",
       "ru": "«Пережитое нами вчера - наша сила сегодня». А больше всего я пережила именно с тобой.",
       "id": "\"Pengalaman kemarin adalah kemampuan hari ini\". Dan pengalaman itu, semuanya kulalui bersama kamu.",
-      "th": "\"ประสบการณ์ในวันวานจะเป็นพลังของวันพรุ่งนี้\" และนี่คือผลที่ได้ จากการเดินทางร่วมกับคุณ",
+      "th": "\"ประสบการณ์ในวันวานจะเป็นพลังของวันพรุ่งนี้\" และนี่คือผลที่ได้จากการเดินทางร่วมกับเธอ",
       "vi": "\"Kinh nghiệm của ngày hôm qua sẽ trở thành sức mạnh của ngày mai\". Và tất cả những điều này đều được thu hoạch từ việc đồng hành với bạn."
     }
   },
@@ -1718,12 +1814,12 @@
       "ko": "너와의 동행을 통해 많은 걸 배웠어. 내 이상을 이루는 그날이 왔을 때도… 너는, 내 옆에 있을까?",
       "en": "I feel I have grown immensely from my travels with you. If, one day, I finally manage to make my dreams a reality... I wonder, will you still be there by my side?",
       "de": "Wir haben so viel zusammen erlebt und dabei viel gelernt. Wirst du auch noch bei mir sein, wenn ich eines Tages meine Ziele erreicht habe?",
-      "es": "Siento que he crecido mucho viajando contigo. Si algún día logro hacer mis sueños realidad, ¿seguirás estando a mi lado?",
+      "es": "Siento que he crecido mucho viajando contigo. Si algún día logro hacer realidad mis sueños, ¿seguirás estando a mi lado?",
       "fr": "Je pense avoir énormément mûri en voyageant en votre compagnie. Seriez-vous à mes côtés jusqu'au jour où je réussirai à réaliser mes rêves ?",
       "pt": "Sinto que vivia a vida intensamente na minha viagem junto com você. Se, um dia, eu finalmente realizar os meus sonhos... Você ainda estará lá ao meu lado?",
       "ru": "По-моему, путешествуя с тобой, я многому научилась. Если я однажды смогу воплотить свои мечты в жизнь... Будешь ли ты со мной рядом?",
       "id": "Aku banyak belajar dan bertumbuh selama bersama dengan dirimu. Suatu hari nanti, ketika aku sudah berhasil mewujudkan impian dan cita-cita ... Apakah kamu masih akan terus ada di sisiku?",
-      "th": "ฉันได้รับประโยชน์มากมาย จากการเดินทางร่วมกับคุณ ถ้าสักวันหนึ่งฉันเดินไปถึงจุดหมายแล้ว... คุณยังจะอยู่เคียงข้างฉันมั้ย?",
+      "th": "ฉันได้รับประโยชน์มากมายจากการเดินทางร่วมกับเธอ ถ้าสักวันหนึ่งฉันเดินไปถึงจุดหมายแล้ว... เธอยังจะอยู่เคียงข้างฉันมั้ย?",
       "vi": "Có thể đồng hành cùng với bạn, tôi cảm thấy mình thu hoạch được rất nhiều điều có ích. Nếu có một ngày, tôi đạt tới đích của lý tưởng... bạn sẽ vẫn đồng hành cùng tôi chứ?"
     }
   },
@@ -1851,7 +1947,7 @@
       "pt": "Hah—!",
       "ru": "Хе-хе!",
       "id": "HA!",
-      "th": "ย๊าก - !",
+      "th": "ย๊าก...!",
       "vi": "Hah!"
     }
   },
@@ -2139,7 +2235,7 @@
       "pt": "Um passo para trás, dois para frente...",
       "ru": "Шаг назад, два вперёд...",
       "id": "Mundur satu langkah, maju dua langkah ....",
-      "th": "ถอยหลังหนึ่งก้าว สองก้าวไปข้างหน้า...",
+      "th": "การถอยคือเพื่อการเดินหน้า...",
       "vi": "Lấy lùi làm tiến..."
     }
   },
@@ -2235,7 +2331,7 @@
       "pt": "A ideia certa, no momento errado...",
       "ru": "Как не вовремя получилось...",
       "id": "Semua betul, tapi waktunya salah ....",
-      "th": "เวลา... ไม่ถูกต้อง",
+      "th": "จังหวะเวลา... ยังไม่ได้",
       "vi": "Thời cơ...không đúng."
     }
   },
@@ -2331,7 +2427,7 @@
       "pt": "Eita.",
       "ru": "Ух!",
       "id": "Cih.",
-      "th": "โอ๊ะ... น่ารังเกียจ",
+      "th": "หึ่ย... โมโหแล้วนะ",
       "vi": "Hừm...đáng ghét."
     }
   },
@@ -2491,7 +2587,7 @@
       "pt": "Vamos acabar com isso agora mesmo.",
       "ru": "Давай покончим с этим как можно скорее.",
       "id": "Ayo kita selesaikan dengan cepat.",
-      "th": "รีบสู้ให้จบไป",
+      "th": "รีบสู้ให้จบไปเถอะ",
       "vi": "Tốc chiến tốc quyết."
     }
   }

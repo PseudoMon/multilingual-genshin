@@ -897,6 +897,38 @@
   },
   {
     "title": {
+      "zhs": "关于鹿野院平藏…",
+      "zht": "關於鹿野院平藏…",
+      "jp": "鹿野院平蔵について…",
+      "ko": "시카노인 헤이조에 대해…",
+      "en": "About Shikanoin Heizou",
+      "de": "Über Shikanoin Heizou ...",
+      "es": "Sobre Shikanoin Heizou...",
+      "fr": "À propos de Shikanoin Heizou...",
+      "pt": "Sobre Shikanoin Heizou...",
+      "ru": "О Сиканоине Хэйдзо...",
+      "id": "Tentang Shikanoin Heizou",
+      "th": "เกี่ยวกับ Shikanoin Heizou...",
+      "vi": "Về Shikanoin Heizou..."
+    },
+    "line": {
+      "zhs": "别看我这位侦探朋友平日里潇洒随性，一旦他办起案子来，那些原本围绕在他身旁活泼灵动的风，就聚成了凌厉锐气。确实让人钦佩。",
+      "zht": "別看我這位偵探朋友平日裡瀟灑隨性，一旦他辦起案子來，那些原本圍繞在他身旁活潑靈動的風，就聚成了凌厲銳氣。確實讓人欽佩。",
+      "jp": "拙者の友人であるこの探偵は、普段は洒脱で気ままな振る舞いをしている。しかしいざ事件となると、彼の周りを取り巻いていた風は、鋭い気となって集まる。まったく、感心せずにはいられないでござるよ。",
+      "ko": "내 탐정 친구는 평소에는 소탈하고 즉흥적인 성격이지만, 사건을 처리할 때는 그를 둘러싸고 있던 활기 넘치는 바람조차 예리하고 날카로워진다니까. 정말 존경스러워",
+      "en": "Don't be deceived by his happy-go-lucky disposition. As soon as he gets working on a case, that restless energy he carries around turns into a razor-sharp focus. It's quite remarkable to witness.",
+      "de": "Dieser Detektivfreund von mir ist normalerweise locker und lässig, aber sobald er mit Fällen anfängt, hat sich der ursprünglich lebhafte und dynamische Wind um ihn herum zu einer rauen Schärfe verdichtet. Es ist wirklich bewundernswert.",
+      "es": "No te dejes engañar por actitud despreocupada e indiferente. Cuando trabaja en un caso, la energía que le rodea se convierte en ráfagas de aire que lo empujan hacia delante. Es algo digno de ver.",
+      "fr": "Ne vous laissez pas tromper par son tempérament joyeux et insouciant. Dès qu'il se met à travailler sur une affaire, cet air léger qui l'entoure se concentre et devient incisif. On ne peut s'empêcher d'être admiratif en voyant cela.",
+      "pt": "#Não seja enganad{F#a}{M#o} pela sua aparência alegre. Se ele começar a trabalhar em um caso, sua energia incansável se torna em uma concentração afiada como uma lâmina. É algo fascinante.",
+      "ru": "Пусть вас не обманывает его веселый нрав. Как только он берётся за дело, его неугомонная энергия превращается в острую сосредоточенность. Это достойно восхищения.",
+      "id": "Jangan tertipu dengan penampilan luarnya yang selalu ceria. Saat dia bekerja menangani kasus, dia akan terus bekerja tanpa kenal lelah dan aura di sekitarnya benar-benar memancarkan daya fokusnya yang luar biasa. Benar-benar menakjubkan.",
+      "th": "ปกติเห็นเพื่อนนักสืบท่านนี้ของฉันทำตัวเอ้อระเหยลอยชาย แต่ถ้าเขาได้สืบคดีขึ้นมาเมื่อไหร่ละก็ สายลมแห่งความชีวิตชีวาที่อยู่รอบตัวเขาก็จะเริ่มโหมกระหน่ำขึ้นมาทันทีเลยล่ะ ช่างน่าชื่นชมจริง ๆ",
+      "vi": "Đừng thấy anh bạn thám tử này thường ngày tính tình sảng khoái, một khi bắt tay điều tra vụ án, thì những ngọn gió hoạt bát linh động bình thường hay vây quanh anh ấy, sẽ tụ thành nhuệ khí sắc bén. Thật đáng khâm phục."
+    }
+  },
+  {
+    "title": {
       "zhs": "想要了解枫原万叶·其一",
       "zht": "想要了解楓原萬葉·其一",
       "jp": "楓原万葉を知る·1",
@@ -1180,7 +1212,103 @@
       "ru": "Мне не нравится еда, приготовленная абы как. По-моему, даже самую обычную рыбу при запекании следует доводить до совершенства. Трапезой должно наслаждаться. Разве можно довольствоваться чем попало?",
       "id": "Aku tidak begitu menyukai makanan yang dicampur secara buru-buru tanpa dipikirkan dengan baik. Menurutku, kalau makananmu hanya seekor ikan, kamu harus memanggangnya sampai sempurna. Memakan sesuatu seharusnya adalah sebuah kegiatan yang menyenangkan, mana boleh kita melakukannya dengan seenaknya saja?",
       "th": "สำหรับฉัน ฉันไม่ชอบอาหารดิบเอาเสียเลย ในความคิดของฉัน ต่อให้เป็นปลาธรรมดาก็ยังต้องย่างให้ดีถึงจะอร่อย การกินอาหารควรจะมีความสุขทั้งกายและใจ จะให้ทำแบบลวก ๆ ได้ยังไงกัน?",
-      "vi": "Tôi thì không thích những món ăn đơn sơ cho lắm. Theo tôi thì dù là một con cá bình thường cũng phải nướng cho thật ngon mới được, ăn uống là chuyện làm người ta vui vẻ, sao có thể qua loa được chứ?"
+      "vi": "Tôi thì không thích cái món ăn đơn sơ này cho lắm. Theo tôi thì dù là một con cá bình thường cũng phải nướng cho thật ngon mới được, ăn uống là chuyện làm người ta vui vẻ, sao có thể qua loa được chứ?"
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其一",
+      "zht": "收到贈禮·其一",
+      "jp": "贈り物を受け取る·1",
+      "ko": "선물 획득·첫 번째",
+      "en": "Receiving a Gift: I",
+      "de": "Geschenk erhalten I",
+      "es": "Al recibir un regalo (I)",
+      "fr": "Cadeau reçu (1)",
+      "pt": "Recebendo Presentes — I",
+      "ru": "Подарок I",
+      "id": "Menerima Hadiah: I",
+      "th": "ได้รับของขวัญ - 1",
+      "vi": "Nhận Được Quà I"
+    },
+    "line": {
+      "zhs": "能将鱼肉烹调出如此滋味，你的手艺当真了得。",
+      "zht": "#能將魚肉烹調出如此滋味，{F#妳}{M#你}的手藝當真了得。",
+      "jp": "うむ、魚をこうも美味しく調理するとは、お主の腕は相当なものでござるな。",
+      "ko": "생선으로 이런 맛을 낼 수 있다니, 솜씨가 대단하네",
+      "en": "That you can make fish taste as delicious as this is proof of your outstanding culinary prowess.",
+      "de": "Du bist wirklich gut darin, Fisch mit so viel Geschmack zuzubereiten.",
+      "es": "#Conseguiste sacarle todo el sabor al pescado. Eres realmente buen{F#a}{M#o} en esto.",
+      "fr": "Vous avez réussi à donner un tel goût au poisson, quel talent.",
+      "pt": "Fazer um peixe tão delicioso como esse é uma prova de sua habilidade culinária.",
+      "ru": "Способность сделать рыбу настолько вкусной является доказательством твоего выдающегося кулинарного мастерства.",
+      "id": "Kamu bisa membuat rasa ikan jadi seenak ini, benar-benar bukti nyata dari kemampuan memasakmu.",
+      "th": "ปรุงเนื้อปลาออกมาได้อร่อยขนาดนี้นี่ ฝีมือของเธอช่างน่าทึ่งจริง ๆ",
+      "vi": "Có thể nấu thịt cá ngon như vậy, tay nghề của bạn thực sự đáng gờm."
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其二",
+      "zht": "收到贈禮·其二",
+      "jp": "贈り物を受け取る·2",
+      "ko": "선물 획득·두 번째",
+      "en": "Receiving a Gift: II",
+      "de": "Geschenk erhalten II",
+      "es": "Al recibir un regalo (II)",
+      "fr": "Cadeau reçu (2)",
+      "pt": "Recebendo Presentes — II",
+      "ru": "Подарок II",
+      "id": "Menerima Hadiah: II",
+      "th": "ได้รับของขวัญ - 2",
+      "vi": "Nhận Được Quà II"
+    },
+    "line": {
+      "zhs": "你做的饭菜不仅能够饱腹，对我而言也是慰藉。",
+      "zht": "#{F#妳}{M#你}做的飯菜不僅能夠飽腹，對我而言也是慰藉。",
+      "jp": "お主の料理は腹を満たすだけでなく、拙者にとって心の安らぎでもある。",
+      "ko": "네 요리는 배를 채워줄 뿐 아니라 큰 위로가 되어주기도 해",
+      "en": "Your cooking not only fills the stomach, it also soothes my soul.",
+      "de": "Deine Küche ist nicht nur sättigend, sondern auch beruhigend für mich.",
+      "es": "Tus platos no solo me satisfacen, sino que también me reconfortan.",
+      "fr": "Vos plats sont rassasiants, mais je les trouve aussi réconfortants.",
+      "pt": "Sua comida não apenas enche o estômago, mas também acalma o espírito.",
+      "ru": "Твои блюда не только утоляют голод, но и успокаивают душу.",
+      "id": "Makanan buatanmu tidak hanya mengisi perut, tapi juga menenangkan hatiku.",
+      "th": "อาหารที่เธอทำไม่ได้แค่ช่วยให้อิ่มท้องเท่านั้นนะ แต่ยังช่วยปลอบประโลมฉันได้ด้วย",
+      "vi": "Món ăn bạn nấu không chỉ no bụng, mà còn là niềm an ủi đối với tôi nữa."
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其三",
+      "zht": "收到贈禮·其三",
+      "jp": "贈り物を受け取る·3",
+      "ko": "선물 획득·세 번째",
+      "en": "Receiving a Gift: III",
+      "de": "Geschenk erhalten III",
+      "es": "Al recibir un regalo (II)",
+      "fr": "Cadeau reçu (3)",
+      "pt": "Recebendo Presentes — III",
+      "ru": "Подарок III",
+      "id": "Menerima Hadiah: III",
+      "th": "ได้รับของขวัญ - 3",
+      "vi": "Nhận Được Quà III"
+    },
+    "line": {
+      "zhs": "要休息一下吗？内心疲惫的话，做出来的菜也会失去风味。",
+      "zht": "要休息一下嗎？內心疲憊的話，做出來的菜也會失去風味。",
+      "jp": "少し休んではどうでござるか？心が疲れていては、せっかくの料理も味が落ちてしまうであろう。",
+      "ko": "좀 쉴래? 마음이 힘들면 요리도 맛을 잃기 마련이야",
+      "en": "Perhaps you should get some rest? A weary mind is a recipe for flavorless food.",
+      "de": "Brauchst du eine Pause? Wenn du innerlich müde bist, verlieren die Gerichte, die du zubereitest, ihren Geschmack.",
+      "es": "#¿Necesitas descansar? Si estás cansad{F#a}{M#o}, afectará a la calidad de lo que cocinas.",
+      "fr": "#Besoin de vous reposer un peu ? Votre cuisine n'aura pas aussi bon goût si vous êtes {M#fatigué}{F#fatiguée}.",
+      "pt": "Talvez você devesse descansar? Uma mente dispersa só fará comida sem gosto.",
+      "ru": "Возможно, тебе стоит отдохнуть? Уставший повар готовит безвкусные блюда.",
+      "id": "Mungkin kamu butuh istirahat? Kalau hatimu lelah, masakanmu pun akan jadi tawar.",
+      "th": "พักผ่อนหน่อยมั้ย? หากเธอเหนื่อย อาหารที่เธอทำก็จะเสียรสชาติด้วยนะ",
+      "vi": "Muốn nghỉ ngơi một chút không? Nếu bạn mệt mỏi, các món ăn cũng sẽ mất đi hương vị."
     }
   },
   {

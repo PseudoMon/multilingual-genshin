@@ -343,7 +343,7 @@
       "en": "Good evening. You know, in Hanamizaka, the sight of the Sakura by night is quite splendid. I never tire of it.",
       "de": "Guten Abend. Ich möchte beiläufig erwähnen, dass die nächtlichen Kirschblüten in Hanamizaka ein seltener Anblick sind.",
       "es": "Buenas noches. ¿Sabes? Los cerezos de Hanamizaka son una visión espléndida por la noche. Nunca me canso de ella.",
-      "fr": "Bonsoir. Les cerisiers d'Hanamizaka sont splendides la nuit, je ne m'en lasse jamais.",
+      "fr": "Bonsoir. Les cerisiers de Hanamizaka sont splendides la nuit, je ne m'en lasse jamais.",
       "pt": "Olá. Só de passagem, em Hanamizaka, a vista da Sakura à noite é esplêndida. Nunca me canso de vê-la.",
       "ru": "Добрый вечер. Кстати, ночное цветение сакуры в Ханамидзаке - редкое зрелище.",
       "id": "Selamat malam. Kamu tahu? Pemandangan sakura mekar pada malam hari di Hanamizaka terlihat sangat indah. Aku tidak akan pernah bosan melihatnya.",
@@ -599,7 +599,7 @@
       "en": "During a previous assignment, a vendor in Hanamizaka gifted me a kind of spinning top called the \"Solo.\" It's a toy that you can play with when you're by yourself. I was quite taken with it, so I kept it. ...You want to play with it together? But that would defy the principle on which the Solo is based... Respectfully, I must decline.",
       "de": "Während meines letzten Auftrags schenkte mir ein Händler in Hanamizaka einen Kreisel namens „Einsame Freude“, ein Spielzeug, mit dem man sogar „allein spielen kann“, geschenkt und ich fand es interessant und behielt es bei mir. Du meinst ... du willst zusammen spielen. Das verstößt aber gegen die Regeln der „Einsamen Freude“. Bitte verzeih mir deshalb, dass ich ablehnen muss.",
       "es": "#Durante una misión, me regalaron un trompo en una tienda de Hanamizaka. Es un juguete con el que puede jugar una persona sola. Me gustó bastante, así que siempre lo llevo conmigo. ¿Qué? ¿Quieres que juguemos junt{F#as}{M#os}? Pero eso iría contra el propósito para el que este juguete fue creado... Lo siento, tengo que decir que no.",
-      "fr": "Lors d'une précédente mission, un marchand d'Hanamizaka me fit le cadeau d'une toupie, le genre de jouet avec lequel il est possible de s'amuser seul. J'ai trouvé l'idée intéressante et je l'ai donc conservé. Que dis-tu ? Jouer ensemble ? Mais, cela irait à l'encontre du but dans lequel ce jouet a été fabriqué. Je me dois de poliment refuser cette proposition.",
+      "fr": "Lors d'une précédente mission, un marchand de Hanamizaka me fit le cadeau d'une toupie, le genre de jouet avec lequel il est possible de s'amuser seul. J'ai trouvé l'idée intéressante et je l'ai donc conservé. Que dis-tu ? Jouer ensemble ? Mais, cela irait à l'encontre du but dans lequel ce jouet a été fabriqué. Je me dois de poliment refuser cette proposition.",
       "pt": "Durante uma missão anterior, um comerciante em Hanamizaka me deu um tipo de pião chamado de \"Diversão Solitária\". É um brinquedo que você pode usar enquanto está sozinho. Eu fiquei interessada nele, por isso o guardei...Você quer brincar junto comigo? Mas isso quebraria o princípio em que o Diversão Solitária é baseado... Respeitosamente recuso seu pedido.",
       "ru": "Во время моего последнего задания торговец в Ханамизаке подарил мне гироскоп под названием Ханамидзака, игрушку, с которой «можно играть одному». Я нашла её интересной и оставила у себя. Ты хочешь... поиграть вместе? Это противоречит принципу одиночной игры, поэтому, пожалуйста, позвольте мне отказаться.",
       "id": "Saat sedang menjalankan tugasku kemarin ini, seorang pedagang di Hanamizaka memberiku sejenis gasing bernama \"Solo\". Gasing itu sejenis mainan yang bisa dimainkan sendiri. Aku cukup tertarik, jadi kusimpan terus sampai sekarang. Kamu mau main bersama? Tapi berarti itu akan melanggar prinsip nama Solo ... Maaf, tapi aku harus menolak ajakanmu.",
@@ -1073,7 +1073,7 @@
     },
     "line": {
       "zhs": "我的生活还算简单，不用领队战斗时，我会准时在凌晨五点零五分起床，在庭院做五组深呼吸后走五圈，早饭习惯吃五口米饭…「五」是能为我带来幸运与胜利的数字，所以我会一直坚持「五」，请问你有什么异议吗？",
-      "zht": "#我的生活還算簡單，不用領隊戰鬥時，我會準時在淩晨五點零五分起床，在庭院做五組深呼吸後走五圈，早飯習慣吃五口米飯…「五」是能為我帶來幸運與勝利的數字，所以我會一直堅持「五」，請問{F#妳}{M#你}有什麼異議嗎？",
+      "zht": "#我的生活還算簡單，不用領隊戰鬥時，我會準時在凌晨五點零五分起床，在庭院做五組深呼吸後走五圈，早飯習慣吃五口米飯…「五」是能為我帶來幸運與勝利的數字，所以我會一直堅持「五」，請問{F#妳}{M#你}有什麼異議嗎？",
       "jp": "私の生活は単純なものだ。軍を率いて戦闘する必要がない時は、朝の5時5分ぴったりに起床し、中庭で深呼吸を5回行ってから5周走る。朝食はご飯を5口食べるのが私の習慣だ…「5」は私に幸運と勝利をもたらす数字。だから私はこれからも「5」にこだわり続ける。何か異論でも？",
       "ko": "내 생활은 비교적 단순한 편이야. 전투를 지휘하지 않을 땐 정확히 새벽 5시 5분에 일어나고, 나와서 심호흡 다섯 세트를 한 후에 정원 다섯 바퀴를 걸어. 아침밥은 딱 다섯 입만 먹고… 「5」는 나에게 행운과 승리를 가져다주는 숫자야. 그래서 난 무슨 일을 하든 「5」를 고수하고 있지. 무슨 문제라도?",
       "en": "I lead a relatively simple life when I'm not leading an army into battle. I always get out of bed at 5:05 on the dot. Then I go to the courtyard where I take five deep breaths before walking five laps around it. For breakfast, I typically eat five mouthfuls... Five is my lucky number, so I do things in fives. Do you have some objection to that?",
@@ -1309,6 +1309,102 @@
       "id": "Aku menghindari makanan manis, tapi bukan karena tidak suka. Kenapa? Karena makanan manis bisa menenangkan pikiran dan mendorong tubuh untuk istirahat, jadi kalau misalnya aku makan, mudah saja untuk ... Ehem, pada dasarnya, aku tidak boleh terlalu santai, itu saja. Jangan dibahas terus!",
       "th": "อาหารที่เกลียดงั้นเหรอ ปกติแล้วฉันจะเลี่ยงพวกของหวานน่ะ ทำไมน่ะเหรอ? เพราะการกินของหวานจะทำให้ทั้งร่างกายและจิตใจผ่อนคลาย พอกินเข้าไปแล้วก็จะ...อะแฮ่ม เอาเป็นว่า ฉันจะเลินเล่อไม่ได้เด็ดขาด พอแค่นี้แหละ ไม่ต้องถามต่อแล้ว!",
       "vi": "Món ăn ghét sao, có lẽ là đồ ngọt. Tại sao ư? Bởi vì ăn đồ ngọt vào sẽ khiến cả người thả lỏng, rất dễ... Thôi, dừng chủ đề này ở đây nhé!"
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其一",
+      "zht": "收到贈禮·其一",
+      "jp": "贈り物を受け取る·1",
+      "ko": "선물 획득·첫 번째",
+      "en": "Receiving a Gift: I",
+      "de": "Geschenk erhalten I",
+      "es": "Al recibir un regalo (I)",
+      "fr": "Cadeau reçu (1)",
+      "pt": "Recebendo Presentes — I",
+      "ru": "Подарок I",
+      "id": "Menerima Hadiah: I",
+      "th": "ได้รับของขวัญ - 1",
+      "vi": "Nhận Được Quà I"
+    },
+    "line": {
+      "zhs": "比饭团更美味的食物…值得记下它的名字。",
+      "zht": "比飯糰更美味的食物…值得記下它的名字。",
+      "jp": "おにぎりよりも美味な食べ物…その名を覚えておかなくては。",
+      "ko": "주먹밥보다 맛있는 요리야…. 이름을 기억해둬야겠군",
+      "en": "So, there is a dish that tastes even better than Onigiri? Then I shall be sure to remember its name.",
+      "de": "Ein Essen, das köstlicher ist als Onigiri ... Es lohnt sich, seinen Namen aufzuschreiben.",
+      "es": "Esto está mucho mejor que un onigiri... Voy a apuntar el nombre.",
+      "fr": "Un mets dont le goût arrive à détrôner celui des onigiris... Je dois retenir son nom.",
+      "pt": "Há um prato melhor que Onigiri? Se sim, ele merece ter o seu nome lembrado.",
+      "ru": "Что? Оказывается, существует блюдо вкуснее, чем онигири? Нужно обязательно запомнить его название.",
+      "id": "Ternyata ada yang lebih enak dari onigiri? Harus kucatat nama masakannya.",
+      "th": "เป็นอาหารที่อร่อยกว่า Onigiri ซะอีก... ควรค่าที่จะจดจำชื่อมันไว้",
+      "vi": "Món ăn ngon hơn cơm nắm rất nhiều... rất đáng để ghi nhớ tên của nó."
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其二",
+      "zht": "收到贈禮·其二",
+      "jp": "贈り物を受け取る·2",
+      "ko": "선물 획득·두 번째",
+      "en": "Receiving a Gift: II",
+      "de": "Geschenk erhalten II",
+      "es": "Al recibir un regalo (II)",
+      "fr": "Cadeau reçu (2)",
+      "pt": "Recebendo Presentes — II",
+      "ru": "Подарок II",
+      "id": "Menerima Hadiah: II",
+      "th": "ได้รับของขวัญ - 2",
+      "vi": "Nhận Được Quà II"
+    },
+    "line": {
+      "zhs": "我吃饱了。多谢款待。",
+      "zht": "我吃飽了。多謝款待。",
+      "jp": "満腹になった、馳走になったな。",
+      "ko": "배부르군. 대접해 줘서 고마워",
+      "en": "I have eaten my fill. Thank you for your hospitality.",
+      "de": "Vielen Dank für deine Gastfreundlichkeit.",
+      "es": "Estoy llena. Muchas gracias por la comida.",
+      "fr": "J'ai bien mangé. Merci beaucoup.",
+      "pt": "Eu estou cheia. Obrigada por sua hospitalidade.",
+      "ru": "Я наелась. Спасибо за гостеприимство.",
+      "id": "Aku sudah kenyang. Terima kasih banyak atas keramahanmu.",
+      "th": "ฉันอิ่มแล้วล่ะ ขอบคุณสำหรับการรับรองนะ",
+      "vi": "Tôi no rồi, cảm ơn đã chiêu đãi."
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其三",
+      "zht": "收到贈禮·其三",
+      "jp": "贈り物を受け取る·3",
+      "ko": "선물 획득·세 번째",
+      "en": "Receiving a Gift: III",
+      "de": "Geschenk erhalten III",
+      "es": "Al recibir un regalo (II)",
+      "fr": "Cadeau reçu (3)",
+      "pt": "Recebendo Presentes — III",
+      "ru": "Подарок III",
+      "id": "Menerima Hadiah: III",
+      "th": "ได้รับของขวัญ - 3",
+      "vi": "Nhận Được Quà III"
+    },
+    "line": {
+      "zhs": "甜点还是不必了…",
+      "zht": "甜點還是不必了…",
+      "jp": "甘味は遠慮しておく…",
+      "ko": "디저트는 사양하지…",
+      "en": "No need for dessert...",
+      "de": "Keine Nachspeise mehr ...",
+      "es": "No hacía falta que me sirvieras el postre...",
+      "fr": "Je n'avais pas besoin de dessert...",
+      "pt": "Não quero sobremesa...",
+      "ru": "Десерт не нужен...",
+      "id": "Makanan penutupnya tidak perlu ....",
+      "th": "ขนมหวานคงไม่ต้องแล้วล่ะ...",
+      "vi": "Không cần đồ ngọt tráng miệng..."
     }
   },
   {

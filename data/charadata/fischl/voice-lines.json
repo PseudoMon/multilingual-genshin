@@ -28,7 +28,7 @@
       "ru": "#<color=#37FFFF>Фишль:</color> Я Фишль, Принцесса осуждения, волею судьбы призванная в этот мир... Что? Ты тоже путешественн{F#ица}{M#ик} из другого мира? Что ж, хорошо, я милостиво позволю тебе путешествовать со мной. <color=#37FFFF>Оз:</color> Она имела в виду «Привет! Рада тебя видеть».",
       "id": "<color=#37FFFF>Fischl:</color> Aku, Fischl, Prinzessin der Verurteilung, turun ke bumi ini atas panggilan takdir dan - oh, jadi kamu juga pengembara dari dunia lain? Baiklah, aku memberimu izin untuk bertualang denganku.\n\n<color=#37FFFF>Oz:</color> Maksudnya adalah \"Senang bertemu denganmu.\"",
       "th": "<color=#37FFFF>Fischl:</color>ข้าคือเจ้าหญิงแห่ง การลงทัณฑ์ นามว่า Fischl โชคชะตาได้เรียกร้องให้ข้ามายัง ดินแดนแห่งนี้? เจ้าก็คือนักเดินทาง ที่มาจากต่างโลกใช่มั้ย...? ดีเลย ข้าอนุญาตให้เจ้าเดินทางไปกับข้าได้\n\n<color=#37FFFF>Oz:</color> นายหญิงหมายความว่า \"สวัสดี ยินดีที่ได้รู้จัก\" น่ะ",
-      "vi": "<color=#37FFFF>Fischl: </color>Tôi là Công Chúa Định Tội, tên thật là Fischl. Nhận lời triệu hồi của vận mệnh đến không gian này... A? Bạn cũng là nhà lữ hành đến từ thế giới khác? Vậy được rồi, bổn công chúa ân chuẩn cho bạn được đi cùng.\n\n<color=#37FFFF>Oz: </color>Ý của cô ấy là \"Xin chào, rất vui được làm quen\"."
+      "vi": "<color=#37FFFF>Fischl: </color>Ta là Công Chúa Định Tội, tên thật là Fischl. Nhận lời triệu hồi của vận mệnh đến không gian này... A? Ngươi cũng là nhà lữ hành đến từ thế giới khác? Vậy được rồi, bổn công chúa ân chuẩn cho ngươi được đi cùng.\n\n<color=#37FFFF>Oz: </color>Ý của cô ấy là \"Xin chào, rất vui được làm quen\"."
     }
   },
   {
@@ -60,7 +60,7 @@
       "ru": "Я слышала голоса судьбы, нашёптывавшие мне моё имя...",
       "id": "Aku mendengar suara takdir, menyebut namaku dengan lemah lembut...",
       "th": "ข้าได้ยินเสียงวิงวอนของโชคชะตา ที่เอ่ยนามของข้าด้วยเสียงกระซิบ อันแสนเบา...",
-      "vi": "Tôi nghe thấy tiếng thì thầm của vận mệnh, nó đang nhẹ nhàng gọi tên tôi."
+      "vi": "Ta nghe thấy tiếng thì thầm của vận mệnh, nó đang nhẹ nhàng gọi tên ta."
     }
   },
   {
@@ -124,7 +124,7 @@
       "ru": "<color=#37FFFF>Фишль:</color> Меня терзает беспокойство о свите, которую мне пришлось оставить... \n\n<color=#37FFFF>Оз:</color> Не стоит беспокоиться, миледи. С людьми из Гильдии искателей приключений всё будет в порядке.",
       "id": "<color=#37FFFF>Fischl:</color> Aku khawatir mengenai kesejahteraan rombonganku selama aku tidak ada...\n\n<color=#37FFFF>Oz:</color> Aku yakin orang-orang baik di Adventurers' Guild akan baik-baik saja, mein Fräulein.",
       "th": "<color=#37FFFF>Fischl:</color>ไม่รู้ว่าผู้ติดตามที่อยู่ห่างไกล เหล่านั้นจะ...\n\n<color=#37FFFF>Oz:</color>อย่าได้เป็นห่วงทุกคนใน กิลด์นักผจญภัยไปเลย",
-      "vi": "<color=#37FFFF>Fischl: </color>Những kẻ tùy tùng ở miền đất xa xôi không rõ...\n\n<color=#37FFFF>Oz: </color>Không cần lo lắng về những người trong Hiệp Hội Nhà Mạo Hiểm."
+      "vi": "<color=#37FFFF>Fischl: </color>Không biết những kẻ tùy tùng ở miền đất xa xôi...\n\n<color=#37FFFF>Oz: </color>Không cần lo lắng về những người trong Hiệp Hội Nhà Mạo Hiểm."
     }
   },
   {
@@ -249,10 +249,10 @@
       "es": "<color=#37FFFF>Fischl:</color> Oz, mi estimado acompañante...\n\n<color=#37FFFF>Oz:</color> ¿En qué está pensando?\n\n<color=#37FFFF>Fischl:</color> Su Majestad te ruega que despliegues tus benditas alas para borrar los cielos y sumergir al mundo en la noche eterna...\n\n<color=#37FFFF>Oz:</color> ¡Señorita! Si no trajo su sombrilla, es culpa suya.",
       "fr": "<color=#37FFFF>Fischl :</color> Ozzounet, mon familier chéri...\n\n<color=#37FFFF>Oz :</color> Ozzounet ?\n\n<color=#37FFFF>Fischl :</color> Je t'ordonne de déployer tes ailes bénies et de plonger les cieux dans l'obscurité la plus totale...\n\n<color=#37FFFF>Oz :</color> Vous ne pourrez pas me forcer à le faire !",
       "pt": "<color=#37FFFF>Fischl:</color> Ozzie, meu querido companheiro...\n\n<color=#37FFFF>Oz:</color> \"Ozzie?\" O que deu em você..?\n\n<color=#37FFFF>Fischl:</color> Sua Majestade suplica que você expanda suas asas abençoadas e, com elas, apague os céus, mergulhando o mundo na noite eterna...\n\n<color=#37FFFF>Oz:</color> Se você não trouxe seu guarda-sol com você, a culpa é toda sua, minha Princesa!",
-      "ru": "<color=#37FFFF>Фишль:</color> Оззи, мой милый фамильяр... \n\n<color=#37FFFF>Оз:</color> Оззи? Что происходит... \n\n<color=#37FFFF>Фишль:</color> Как принцесса, я приказываю тебе раскрыть свои благословенные крылья, дабы заслонить ими солнце и небеса, дабы вечная ночь опустилась на эти земли. \n\n<color=#37FFFF>Оз:</color> Если миледи не взяла с собой зонтик, то это только её вина!",
+      "ru": "<color=#37FFFF>Фишль:</color> Оззи, мой милый фамильяр... \n\n<color=#37FFFF>Оз:</color> Оззи? Что происходит?.. \n\n<color=#37FFFF>Фишль:</color> Как принцесса, я приказываю тебе раскрыть свои благословенные крылья, дабы заслонить ими солнце и небеса, дабы вечная ночь опустилась на эти земли. \n\n<color=#37FFFF>Оз:</color> Если миледи не взяла с собой зонтик, то это только её вина!",
       "id": "<color=#37FFFF>Fischl:</color> Ozzie, temanku...\n\n<color=#37FFFF>Oz:</color> \"Ozzie?\" Anda kenapa...\n\n<color=#37FFFF>Fischl:</color> Yang Mulia memintamu untuk membentangkan sayapmu, untuk menutupi surga, membawa dunia ke kegelapan malam abadi...\n\n<color=#37FFFF>Oz:</color> Tuan Putri tidak boleh memaksa orang lain!",
       "th": "<color=#37FFFF>Fischl:</color> Oz ครอบครัวของข้าน่ะ...\n\n<color=#37FFFF>Oz:</color> โอ้? ทำไมจู่ ๆ ถึง...\n\n<color=#37FFFF>Fischl:</color> ในนามของเจ้าหญิง จงใช้ปีกแห่งพรศักดิ์สิทธิ์ของเจ้า บดบังดวงอาทิตย์ดวงจันทร์และ ดวงดาวให้มืดมิดชั่วนิรันดร์เสียเถอะ\n\n<color=#37FFFF>Oz:</color> อย่าฝืนใจกันนักเลย!",
-      "vi": "<color=#37FFFF>Fischl: </color>Oz, người thân của tôi...\n\n<color=#37FFFF>Oz: </color>A? Sao lại đột nhiên...\n\n<color=#37FFFF>Fischl: </color>Nhân danh công chúa, nhân danh đôi cánh thần linh chúc phúc của ngươi, hãy che khuất mặt trời, mặt trăng và những ngôi sao kia, mang đến màn đêm vĩnh hằng.\n\n<color=#37FFFF>Oz: </color>Đừng làm khó người khác như vậy!"
+      "vi": "<color=#37FFFF>Fischl: </color>Oz, người thân của ta...\n\n<color=#37FFFF>Oz: </color>A? Sao lại đột nhiên...\n\n<color=#37FFFF>Fischl: </color>Nhân danh công chúa, nhân danh đôi cánh thần linh chúc phúc của ngươi, hãy che khuất mặt trời, mặt trăng và những ngôi sao kia, mang đến màn đêm vĩnh hằng.\n\n<color=#37FFFF>Oz: </color>Đừng làm khó người khác như vậy!"
     }
   },
   {
@@ -284,7 +284,7 @@
       "ru": "День и ночь - это лишь мираж. Тем не менее нити судьбы вновь привели тебя в объятия моей вечной ночи.",
       "id": "Siang dan malam, waktu dan ruang semua adalah gambaran ilusi belaka, tetapi ikatan nasib telah membawamu ke malam abadiku.",
       "th": "ทั้งกลางวันและกลางคืนล้วนเป็น ภาพลวงตา การผันเปลี่ยนของโชคชะตา ได้พาเจ้ามายังค่ำคืนชั่วนิรันดร์ ของข้าอีกครั้ง",
-      "vi": "Thời không ngày đêm đều là ảo ảnh, sợi dây vận mệnh lại một lần nữa đưa bạn đến Đêm Vĩnh Hằng của tôi."
+      "vi": "Thời không ngày đêm đều là ảo ảnh, sợi dây vận mệnh lại một lần nữa đưa ngươi đến đêm vĩnh hằng của ta."
     }
   },
   {
@@ -311,12 +311,12 @@
       "en": "<color=#37FFFF>Oz:</color> Good morning. Mein Fräulein heard you'd be dropping by, so she's preparing breakfast.\n\n<color=#37FFFF>Fischl:</color> Oz! ...Ahem. To what do I owe the pleasure?",
       "de": "<color=#37FFFF>Oz:</color> Guten Morgen! Die Prinzessin hat von Eurem Besuch gehört und bereitet Euch daher etwas Frühstück ...\n\n<color=#37FFFF>Fischl:</color> Oz! ... Ähem, womit kann ich dienen?",
       "es": "<color=#37FFFF>Oz:</color> Buenos días. La señorita escuchó que vendrías, así que está preparando el desayuno.\n\n<color=#37FFFF>Fischl:</color> ¡Oz! *Ejem* ¿En qué puedo servirte?",
-      "fr": "<color=#37FFFF>Oz : </color>Bonjour. Ma maîtresse est en train de préparer le petit déjeuner. Elle s'est mis à l'œuvre dès qu'elle a su que vous viendriez.\n\n<color=#37FFFF>Fischl : </color>Oz ! ... Ahem, quel honneur me vaut-il votre visite ?",
+      "fr": "<color=#37FFFF>Oz : </color>Bonjour. Ma maîtresse est en train de préparer le petit déjeuner. Elle s'est mise à l'œuvre dès qu'elle a su que vous viendriez.\n\n<color=#37FFFF>Fischl : </color>Oz ! ... Ahem, qu'est-ce qui me vaut l'honneur de votre visite ?",
       "pt": "<color=#37FFFF>Oz:</color> Bom dia! A Princesa do Pecado soube que você estaria vindo aqui e está preparando o café de manhã.\n\n<color=#37FFFF>Fischl:</color> Oz! ...Cof. Em que posso ajudar?",
       "ru": "<color=#37FFFF>Оз:</color> Доброе утро. Миледи знала, что вы придёте, а потому решила приготовить завтрак... <color=#37FFFF>Фишль:</color> Оз! ...Кхм. Так что привело тебя ко мне?",
       "id": "<color=#37FFFF>Oz:</color> Selamat pagi. Mein Fräulein sudah dengar bahwa kamu akan datang, jadi dia menyiapkan sarapan.\n\n<color=#37FFFF>Fischl:</color> Oz! ...Ehem, ada perlu apa?",
       "th": "<color=#37FFFF>Oz:</color> อรุณสวัสดิ์! ได้ยินว่าเธอจะมา คุณหนูเลยเตรียมอาหารเช้าเอาไว้...\n\n<color=#37FFFF>Fischl:</color> Oz!...อะแฮ่ม มีอะไรให้ช่วยงั้นรึ?",
-      "vi": "<color=#37FFFF>Oz: </color>Xin chào, nghe nói bạn sắp đến, tiểu thư đang chuẩn bị điểm tâm sáng...\n\n<color=#37FFFF>Fischl: </color>Oz!... Có việc gì?"
+      "vi": "#<color=#37FFFF>Oz: </color>Xin chào, nghe nói {F#cô}{M#cậu} sắp đến, tiểu thư đang chuẩn bị điểm tâm sáng...\n\n<color=#37FFFF>Fischl: </color>Oz!... Có việc gì?"
     }
   },
   {
@@ -412,7 +412,7 @@
       "ru": "<color=#37FFFF>Фишль:</color> Да будет глубоким и безмятежным твой сон, и пусть минуют тебя кошмары. В конце концов, разве смеют они посещать тех, кто благословлен Нирваной Ночи? <color=#37FFFF>Оз:</color> Миледи говорит, «Спокойной ночи».",
       "id": "<color=#37FFFF>Fischl:</color> Tidurmu akan nyenyak dan terbebas dari mimpi buruk! Karena tidak ada mimpi buruk yang berani mendekati mereka yang telah diberkati oleh Immernachtreich!\n\n<color=#37FFFF>Oz:</color> Maksudnya adalah \"selamat tidur.\"",
       "th": "<color=#37FFFF>Fischl:</color>การนอนหลับลึกจะทำให้หลับสบาย โดยไม่ฝันอะไร ทว่าฝันร้ายนั้นไม่กล้าย่างกรายเข้า ใกล้คนที่ได้รับพรจากดินแดนแห่ง ราตรีบริสุทธิ์หรอก...\n\n<color=#37FFFF>Oz:</color> คุณหนูหมายถึง \"ราตรีสวัสดิ์\" น่ะ",
-      "vi": "<color=#37FFFF>Fischl: </color>Giấc ngủ sâu của bạn sẽ bình an không mộng mị. Dẫu sao thì, làm gì có ác mộng nào dám xâm phạm đến người được chúc phúc thần thánh trên vùng đất Đêm Niết Bàn này...\n\n<color=#37FFFF>Oz: </color>Cô ấy nói \"Ngủ ngon\"."
+      "vi": "<color=#37FFFF>Fischl: </color>Giấc ngủ sâu của ngươi sẽ bình an không mộng mị. Dẫu sao thì, làm gì có ác mộng nào dám xâm phạm đến người được chúc phúc thần thánh trên Vương Đô U Ám này...\n\n<color=#37FFFF>Oz: </color>Cô ấy nói \"Ngủ ngon\"."
     }
   },
   {
@@ -444,7 +444,7 @@
       "ru": "<color=#37FFFF>Фишль:</color> Я? Хо-хо, запомни же, что я Фишль, Принцесса осуждения, хозяйка Нирваны Ночи, судья этого мира, назначающая ему наказание и вскрывающая правду! \n\n<color=#37FFFF>Оз:</color> Миледи - агент Гильдии искателей приключений. \n\n<color=#37FFFF>Фишль:</color> Это лишь один из моих титулов.",
       "id": "<color=#37FFFF>Fischl:</color> Aku? Hehehe. Ingatlah, bahwa aku, Fischl, adalah Prinzessin der Verurteilung, Penguasa Immernachtreich, hakim maha tahu dan terkemuka dari semua kejahatan dunia!\n\n<color=#37FFFF>Oz:</color> Dia adalah penyelidik dari Adventurers' Guild.\n\n<color=#37FFFF>Fischl:</color> Ehem. Itu hanyalah salah satu dari sekian banyak pekerjaanku!",
       "th": "<color=#37FFFF>Fischl:</color> ข้าเหรอ? หึ ๆ จำไว้ว่าข้าคือ Fischl เจ้าหญิงแห่งการลงทัณฑ์ ผู้เป็นเจ้าของดินแดนแห่งราตรีบริสุทธิ์ ผู้ตัดสินการลงโทษทั้งหมดในโลกนี้ และเป็นผู้ที่เข้าใจความจริงทั้งหมด ในโลกนี้อย่างถ่องแท้!\n\n<color=#37FFFF>Oz:</color>ก็คือพนักงานสืบสวนของกิลด์ นักผจญภัย\n\n<color=#37FFFF>Fischl:</color>...นั่นเป็นเพียงภาพผิวเผินเท่านั้น!",
-      "vi": "<color=#37FFFF>Fischl: </color>Tôi sao? Hừ, nhớ kỹ tôi là chủ nhân của vùng đất Đêm Niết Bàn, Công Chúa Định Tội Fischl, phán định tất cả sự trừng phạt trên thế giới này, thấu hiểu tất cả sự thật trên thế giới này.\n\n<color=#37FFFF>Oz: </color>Chính là nhân viên điều tra của Hiệp Hội Nhà Mạo Hiểm.\n\n<color=#37FFFF>Fischl: </color>...Đó chỉ là hình tượng bề nổi mà thôi!"
+      "vi": "<color=#37FFFF>Fischl: </color>Ta sao? Hừ, hãy nhớ kỹ ta là chủ nhân của Vương Đô U Ám, Công Chúa Định Tội Fischl, phán định tất cả sự trừng phạt trên thế giới này, thấu hiểu tất cả sự thật trên thế giới này.\n\n<color=#37FFFF>Oz: </color>Chính là nhân viên điều tra của Hiệp Hội Nhà Mạo Hiểm.\n\n<color=#37FFFF>Fischl: </color>...Đó chỉ là hình tượng bề nổi mà thôi!"
     }
   },
   {
@@ -508,7 +508,7 @@
       "ru": "У тебя обеспокоенный вид. Путешественник, не впадай в отчаяние. Моим левым глазом, Глазом правосудия, я вижу нити судьбы, и я сделаю всё, чтобы уберечь твою. И Оз, ворон, что видел нирвану тысячи миров, будет наблюдать за твоим путешествием. Если ночные чудовища этого мира захотят проникнуть в твои сны, то я, Принцесса осуждения, осыплю их градом стрел правосудия!",
       "id": "Kamu terlihat bermasalah...? Pengembara, jangan berkecil hari! Dengan mata kiriku, Auge der Verurteilung, yang sanggup melihat takdir, aku pasti akan menjagamu. Lalu Oz, gagak yang telah menyaksikan kehancurkan berbagai dunia, akan mengawasimu selama perjalananmu. Jika dunia ini, seperti binatang buas berkeliaran di malam hari, menghantui mimpimu, maka aku, Prinzessin der Verurteilung, akan menjatuhkannya dengan panah penghakiman!",
       "th": "ดูท่าทางเจ้ามีเรื่องกลุ้มใจงั้นรึ?... นักเดินทางเอ๋ยย อย่าหัวเสียไป เพราะข้าจะใช้ตาข้างซ้ายซึ่งเป็น \"ดวงตาแห่งบาป\" นี้ดูโชคชะตาของเจ้าให้เอง ส่วนดวงตาเรเวนของเจ้า Oz ที่เห็นการสูญพันธุ์ของโลกนับ พันนั้น ก็จะคอยเฝ้าดูการเดินทางของเจ้าด้วย! หากสัตว์ร้ายยามค่ำคืนของสิ่งที่ เรียกว่า \"โลก\" กำลังจ้องความฝันของเจ้า ข้าจะใช้ธนูนี้ยิงพิพากษามันเอง!",
-      "vi": "Hãy xem dáng vẻ phiền não của bạn kìa... Nhà lữ hành, không cần phải bối rối, tôi dùng mắt trái của mình, \"Con Mắt Định Tội\" có thể nhìn thấu sợi tơ nhân quả canh gác vận mệnh cho bạn, dùng đôi mắt quạ đã từng chứng kiến sự diệt vong hàng ngàn thế giới của Oz quan sát hành trình của bạn. Nếu như con hung thú gác đêm của cái nơi gọi là \"Thế Giới\" kia ngấp nghé giấc mơ của bạn, thì tôi sẽ dùng mũi tên định tội bắn nó rơi xuống!"
+      "vi": "Hãy xem dáng vẻ phiền não của ngươi kìa... Nhà lữ hành, không cần phải bối rối, ta dùng mắt trái của mình, \"Con Mắt Định Tội\" có thể nhìn thấu sợi tơ nhân quả canh gác vận mệnh cho ngươi, dùng đôi mắt quạ đã từng chứng kiến sự diệt vong hàng ngàn thế giới của Oz quan sát hành trình của ngươi. Nếu như con hung thú gác đêm của cái nơi gọi là \"Thế Giới\" kia ngấp nghé giấc mơ của ngươi, thì ta sẽ dùng mũi tên định tội bắn nó rơi xuống!"
     }
   },
   {
@@ -537,10 +537,10 @@
       "es": "#<color=#37FFFF>Fischl:</color> Oz, mi leal compañero... haber conocido a {F#esta viajera}{M#este viajero} procedente de otro mundo, igual que yo... Aunque el pecado corre por mis venas, tal vez el cruel destino se haya dignado a sonreírme por una vez. Si estoy destinada a permanecer aquí, en esta ineludible prisión que es la realidad, al menos...\n\n<color=#37FFFF>Oz:</color> Ah... Entiendo, señorita. Quiere decir que, pase lo que pase, {F#esta viajera}{M#este viajero} nunca la abandonará.",
       "fr": "#<color=#37FFFF>Fischl : </color> Oz, mon loyal serviteur... Je suis forte heureuse de ma rencontre avec {M#ce voyageur étranger}{F#cette voyageuse étrangère} à ce monde. Bien que le péché coule dans mes veines, le destin a daigné me sourire cette fois. Si je dois demeurer ici, dans cette prison sans issue qu'est la réalité, alors...\n\n<color=#37FFFF>Oz : </color> En effet, vous avez trouvé une personne qui restera à vos côtés quoi qu'il arrive...",
       "pt": "#<color=#37FFFF>Fischl:</color> Oz, meu leal companheiro. Deveríamos ter conhecido esta pessoa, uma pessoa que veio de outro mundo, assim como eu... Talvez até o destino cruel tenha se dignado a sorrir para mim, embora o pecado corra através de minhas veias. Se estou de fato destinada a permanecer aqui, nesta prisão inescapável que é a realidade, pelo menos—\n\n<color=#37FFFF>Oz:</color> Eu entendo, minha Princesa! Nest{M#e}{F#a} Viajante, a Princesa do Pecado encontrou alguém que nunca a abandonará.",
-      "ru": "#<color=#37FFFF>Фишль:</color> Оз, мой верный друг... Мы встретились с человеком, с путешественником, который так же, как и я, пришёл из другого мира... Возможно, жестокая судьба улыбается даже мне, той, в чьих жилах течёт грешная кровь... Даже если судьба моя - быть заключённой в этой реальности навсегда...\n\n<color=#37FFFF>Оз:</color> А, я понимаю, моя леди! В эт{F#ой}{M#ом} путешественн{F#ице}{M#ике} вы нашли человека, который не оставит вас.",
+      "ru": "#<color=#37FFFF>Фишль:</color> Оз, мой верный друг... Мы встретились с человеком, с путешественни{F#цей}{M#ком}, котор{F#ая}{M#ый} так же, как и я, приш{F#ла}{M#ёл} из другого мира... Возможно, жестокая судьба улыбается даже мне, той, в чьих жилах течёт грешная кровь... Даже если судьба моя - быть заключённой в этой реальности навсегда...\n\n<color=#37FFFF>Оз:</color> А, я понимаю, моя леди! В эт{F#ой}{M#ом} путешественн{F#ице}{M#ике} вы нашли человека, который не оставит вас.",
       "id": "<color=#37FFFF>Fischl:</color> Oz, temanku yang setia. Fakta bahwa kita diharuskan bertemu orang ini, seseorang yang berasal dari dunia lain sepertiku... Mungkin takdir yang kejam akhirnya tersenyum padaku, walaupun darah pendosa mengalir dalam nadiku. Jika aku memang ditakdirkan untuk berada di sini, dalam penjara yang tak terhindarkan bernama kenyataan ini, setidaknya -\n\n<color=#37FFFF>Oz:</color> Aku mengerti, mein Fräulein! Dalam diri pengembara ini, Fräulein telah menemukan seseorang yang tidak mungkin mengorbankan Fräulein.",
       "th": "<color=#37FFFF>Fischl:</color> Oz สหายผู้ซื่อสัตย์ของข้า...การได้พบ \"คน ๆ นั้น\" ผู้ที่ไม่ได้เป็นนักเดินทางของโลกนี้เช่นเดียวกับตัวข้า...แม้โชคชะตาจะ โหดร้ายแต่ก็ยังยิ้มให้ข้า แม้ว่าบาปนั้นจะอยู่ในเลือดเนื้อของข้า มันจะเป็นโชคชะตาของข้าเอง ซึ่งข้าไม่สามารถหลบหนี \"ความจริง\" นี้ได้...\n\n<color=#37FFFF>Oz:</color> เหอะ ๆ เข้าใจแล้ว นักเดินทางคนนั้นน่ะ ไม่ว่าจะเกิดอะไรขึ้น ก็ไม่มีทางทอดทิ้งคุณหนูหรอก",
-      "vi": "<color=#37FFFF>Fischl: </color>Oz, người bạn trung thành của tôi... Có thể gặp được \"người đó\", nhà lữ hành không thuộc về thế giới này giống như bổn công chúa... cho thấy ngay cả vận mệnh tàn khốc cũng nở nụ cười đối với huyết mạch chồng chất tội nghiệt của tôi. Cho dù là vận mệnh của tôi, thì tôi cũng không thể thoát khỏi được \"Hiện Thực\"...\n\n<color=#37FFFF>Oz: </color>Ha ha, tôi hiểu, nếu là người lữ hành đó, thì cho dù xảy ra chuyện gì, cũng sẽ không vứt bỏ tiểu thư đâu."
+      "vi": "<color=#37FFFF>Fischl: </color>Oz, người bạn trung thành của ta... Có thể gặp được \"người đó\", nhà lữ hành không thuộc về thế giới này giống như bổn công chúa... cho thấy ngay cả vận mệnh tàn khốc cũng nở nụ cười đối với huyết mạch chồng chất tội nghiệt của ta. Cho dù là vận mệnh của ta, là \"hiện thực\" mà ta không thể thoát ra được...\n\n<color=#37FFFF>Oz: </color>Ha ha, tôi hiểu, nếu là người lữ hành đó, thì cho dù xảy ra chuyện gì, cũng sẽ không vứt bỏ tiểu thư đâu."
     }
   },
   {
@@ -572,7 +572,7 @@
       "ru": "#<color=#37FFFF>Фишль:</color> Озвальдо Храфнавинс. Я, хозяйка Нирваны Ночи, Принцесса осуждения, призываю тебя быть готовым защитить путешественн{F#ицу}{M#ка} от превратностей {F#её}{M#его} судьбы и, в случае необходимости, отдать жизнь за то, чтобы вырвать {F#её}{M#его} из лап всепоглощающей тьмы!\n\n<color=#37FFFF>Оз: </color> Миледи, перестаньте распоряжаться моей жизнью, как вам вздумается!",
       "id": "<color=#37FFFF>Fischl:</color> Ozvaldo von Hrafnavines. Aku, Prinzessin der Verurteilung, penguasa Immernachtreich, dengan ini menyerukan kepadamu dengan menggunakan segala kekuatanmu untuk membebaskan pengembara ini dari cakar nasib yang akan berusaha mencelakainya di setiap kesempatan, dan untuk mempersiapkan dirimu jikalau dirimu diperlukan untuk melakukan pengorbanan dalam melaksanakan tugas yang mulia ini.\n\n<color=#37FFFF>Oz:</color>...Jangan biarkan aku mati begitu saja, mein Fräulein!",
       "th": "<color=#37FFFF>Fischl:</color> Ozvaldo Hrafnavins เพื่อข้า เพื่อจักรพรรดินีของดินแดนแห่ง ราตรีบริสุทธิ์ เจ้าหญิงแห่งการลงทัณฑ์ ขอให้เจ้าทุ่มเทอย่างสุดชีวิตเพื่อ คอยเฝ้าสังเกตโชคชะตาอันแสน โหดร้ายเถิด!\n\n<color=#37FFFF>Oz:</color> อย่าให้ข้าต้องไปตายเปล่านะ!",
-      "vi": "#<color=#37FFFF>Fischl: </color>Ozvaldo von Hrafnavines đã vì tôi, vì chúa tể Vùng Đất Đêm Niết Bàn, vì Công Chúa Định Tội mà đã làm tốt công tác giác ngộ, sẵn sàng hiến dâng sinh mạng, trấn giữ vận mệnh hỗn độn của {F#cô ấy}{M#anh ấy} nào!\n\n<color=#37FFFF>Oz: </color>Đừng có tùy tiện làm tôi mất mạng!"
+      "vi": "#<color=#37FFFF>Fischl: </color>Ozvaldo von Hrafnavines hãy vì ta, vì chúa tể Vương Đô U Ám, vì Công Chúa Định Tội mà làm tốt công tác giác ngộ, sẵn sàng hiến dâng sinh mạng, trấn giữ vận mệnh hỗn độn của {F#cô ấy}{M#anh ấy} nào!\n\n<color=#37FFFF>Oz: </color>Đừng có tùy tiện làm tôi mất mạng!"
     }
   },
   {
@@ -604,7 +604,7 @@
       "ru": "А? Тебя интересует мой «Мистический шар бездны»? Это регалия моего рода, которая свидетельствует о моём положении и служит для узнавания простолюдинами. Даже здесь, в этом запущенном мире регалия всегда может найти меня, ибо я носительница королевской крови и благородного духа. И связь нашу невозможно прервать...",
       "id": "Oh? Kamu ingin tahu mengenai Edelstein der Dunkelheit? Ini adalah pusaka kerajaan, ornamen upacara yang menampilkan keagungan Prinzessin der Verurteilung di hadapan yang tidak layak. Bahkan di sini, di dunia yang hampir musnah ini, aku telah dipersatukan kembali dengan pewarisku yang sah sebagai salah satu dari darah bangsawan dan roh yang mulia, karena keagungan seorang putri sejati akan sanggup menarik pusaka kerajaannya ke mana saja dia pergi...",
       "th": "ฮืม? Edelstein der Dunkelheit นี่ใช่หรือไม่ เป็นอาวุธของราชวงศ์ข้าเอง เอาไว้ใช้กับพวกคนที่หยาบคายต่อเจ้าหญิงแห่งการลงทัณฑ์น่ะ แม้ว่าต้องมาระเหเร่ร่อนอยู่ในโลกแห่งนี้ อาวุธของราชวงศ์ก็ยังติดตามสายเลือดแห่งราชวงศ์ และจิตวิญญาณอันสูงศักดิ์เพื่อตามหาข้าจนพบ นี่คงเป็นกรรมที่ตัดไม่ขาดล่ะมั้ง...",
-      "vi": "A? Viên \"Ngọc Bí Ẩn Màu Vực Sâu\" này sao? Đây là vương khí của gia tộc tôi, có thể bắt buộc những kẻ vô lễ thực hiện nghi thức đối với Công Chúa Định Tội. Dù lưu lạc đến thế giới hoang vu này, vương khí vẫn đi theo huyết thống hoàng tộc và linh hồn cao quý để tìm ra tôi, đây chính là nhân quả không thể cắt đứt được..."
+      "vi": "A? Viên \"Ngọc Bí Ẩn Màu Vực Sâu\" này sao? Đây là vương khí của gia tộc ta, có thể bắt buộc những kẻ vô lễ thực hiện nghi thức đối với Công Chúa Định Tội. Dù lưu lạc đến thế giới hoang vu này, vương khí vẫn đi theo huyết thống hoàng tộc và linh hồn cao quý để tìm ra ta, đây chính là nhân quả không thể cắt đứt được..."
     }
   },
   {
@@ -636,7 +636,7 @@
       "ru": "<color=#37FFFF>Фишль:</color> Согласно системе летоисчисления этого мира, мне уже больше трёх тысяч лет. Конечно, для меня, которая обозревает три тысячи вселенных, иллюзорное течение времени не имеет никакого значения. \n\n<color=#37FFFF>Оз:</color> Да будет так, моя леди. Вот только в этом мире ваши слова не убедят бармена: по местным меркам вы слишком юны, чтобы пить вино, и это не изменить.",
       "id": "<color=#37FFFF>Fischl:</color> Jika seseorang harus memperhitungkan waktu seperti dunia ini, aku, Fischl, telah melihat tiga ribu musim dingin. Bukan berarti perjalanan waktu khayalan memiliki pengaruh pada sesuatu sepertiku, yang telah melihat kausalitas dari tiga ribu alam semesta.\n\n<color=#37FFFF>Oz:</color> Walau demikian, mein Fräulein, Anda masih belum dianggap usia layak untuk minum di dunia ini, dan tidak ada bartender yang bisa dibujuk.",
       "th": "<color=#37FFFF>Fischl:</color> พูดถึง ตามปฏิทินของโลกนี้ข้ามีอายุ สามพันกว่าปีแล้ว แน่นอนว่าภาพลวงตาของกาลเวลาที่สามารถมองทะลุจักรวาลได้นั้นไม่ได้มีความหมายอะไรกับฉันเลย\n\n<color=#37FFFF>Oz:</color> คุณหนู โน้มน้าวใจบาร์เทนเดอร์ไม่ได้ ผลหรอกนะ อายุไม่ถึงก็ไม่สามารถดื่มเหล้าได้ อยู่ดีนั่นแหละ",
-      "vi": "<color=#37FFFF>Fischl: </color>Nói vậy thì, theo như lịch của thế giới này, tôi đã hơn ba ngàn tuổi rồi. Đương nhiên, ảo ảnh thời gian lưu chuyển đối với người có thể nhìn thấu nhân quả vũ trụ ba ngàn năm như tôi mà nói thì không có ý nghĩa gì.\n\n<color=#37FFFF>Oz: </color>Tiểu thư, chiêu này không lừa được bảo vệ quán rượu đâu, chưa đến tuổi uống rượu thì vẫn là chưa đến tuổi uống rượu."
+      "vi": "<color=#37FFFF>Fischl: </color>Nói vậy thì, theo như lịch của thế giới này, ta đã hơn ba ngàn tuổi rồi. Đương nhiên, ảo ảnh thời gian lưu chuyển đối với người có thể nhìn thấu nhân quả vũ trụ ba ngàn năm như ta mà nói thì không có ý nghĩa gì.\n\n<color=#37FFFF>Oz: </color>Tiểu thư, chiêu này không lừa được bảo vệ quán rượu đâu, chưa đến tuổi uống rượu thì vẫn là chưa đến tuổi uống rượu."
     }
   },
   {
@@ -668,7 +668,7 @@
       "ru": "Полное имя Оза - Озвальдо Храфнавинс. В мире, откуда пришла я, он владеет звёздами и небесами в трёх измерениях, и в тени чёрных крыльев его находят покой души погибших в сражениях смельчаков. Вырван будет язык того, кто неправильно произнесёт его имя... Но я принцесса, а ты человек, пользующийся моим расположением, поэтому мы с тобой можем позволить себе называть его «Оз».",
       "id": "Nama lengkap Oz adalah Ozvaldo von Hrafnavines, yang mendominasi bintang-bintang dan langit malam dari tiga alam semesta di \"dunia itu\", dan menaungi jiwa semua pahlawan yang mati dalam pertempuran dengan sayap-sayap bayangan. Ngomong-ngomong, seseorang harus dihukum jika salah menyebutkan namanya. Namun, karena aku adalah seorang putri dan kamu adalah salah satu favoritku, kamu bebas untuk memanggilnya, \"Oz.\"",
       "th": "ชื่อเต็ม ๆ ของ Oz คือ Ozvaldo Hrafnavins ที่โลกนั้น เขาได้ครอบครองทะเลแห่งดวงดาวและท้องฟ้ายามราตรีของจักรวาล ทั้งสาม โดยใช้เงามืดของปีกเพื่อบดบังวิญญาณของผู้กล้าทุกคนที่ตายไปใน สนามรบ บอกไว้ก่อนว่า ถ้าเรียกชื่อเขาผิดล่ะก็จะถูกลงโทษด้วยการตัดลิ้น แต่ข้าคือเจ้าหญิงส่วนเจ้าคือคนที่ ข้ายอมรับ ดังนั้นพวกเราสามารถเรียกเขาว่า Oz ได้",
-      "vi": "Tên đầy đủ của Oz là Ozvaldo von Hrafnavines, trong \"thế giới kia\" anh ta thống trị biển sao và trời đêm của ba vũ trụ, dùng đôi cánh bóng đêm che chở linh hồn của tất cả những dũng sĩ tử trận. Nhân tiện nhắc luôn, gọi sai tên của anh ấy sẽ bị phạt cắt lưỡi đấy. Nhưng tôi là công chúa, còn bạn là người mà tôi thừa nhận, nên chúng ta có thể tùy ý gọi anh ấy là Oz."
+      "vi": "Tên đầy đủ của Oz là Ozvaldo von Hrafnavines, trong \"thế giới kia\" anh ta thống trị biển sao và trời đêm của ba vũ trụ, dùng đôi cánh bóng đêm che chở linh hồn của tất cả những dũng sĩ tử trận. Nhân tiện nhắc luôn, gọi sai tên của anh ấy sẽ bị phạt cắt lưỡi đấy. Nhưng ta là công chúa, còn ngươi là người mà ta thừa nhận, nên chúng ta có thể tùy ý gọi anh ấy là Oz."
     }
   },
   {
@@ -700,7 +700,7 @@
       "ru": "<color=#37FFFF>Фишль:</color> А, тот мальчик, преследуемый злым роком... Ошибки быть не может: через Глаз правосудия я видела, как скорбит его сердце, отверженное этим миром... \n\n<color=#37FFFF>Оз:</color> Нельзя оставлять этого несчастного без присмотра.",
       "id": "<color=#37FFFF>Fischl:</color> Ah, pria bernasib malang itu... Auge der Verurteilung milikku telah melihat dengan sangat jelas bagaimana hatinya sakit saat ditinggalkan oleh dunia ini-\n\n<color=#37FFFF>Oz:</color> Seseorang harus menjaga pria malang itu.",
       "th": "<color=#37FFFF>Fischl:</color> เจ้าหนุ่มโชคร้ายคนนั้น...ไม่ผิดแน่นอน \"ดวงตาแห่งบาป\" ของฉันเคยเห็นเขาโศกเศร้าเพราะ ถูกโลกทอดทิ้ง...\n\n<color=#37FFFF>Oz:</color> จะไม่สนใจเจ้าหนุ่มผู้เคราะห์ร้ายคนนั้น ไม่ได้หรอกนะ",
-      "vi": "<color=#37FFFF>Fischl: </color>Người trẻ tuổi xúi quẩy đó sao... Không sai được đâu, \"Con Mắt Định Tội\" của tôi từng chứng kiến sự bi thương của cậu ta vì bị thế giới hắt hủi...\n\n<color=#37FFFF>Oz: </color>Tên xúi quẩy kia muốn bỏ mặc cũng không được."
+      "vi": "<color=#37FFFF>Fischl: </color>Người trẻ tuổi xúi quẩy đó sao... Không sai được đâu, \"Con Mắt Định Tội\" của ta từng chứng kiến sự bi thương của cậu ta vì bị thế giới hắt hủi...\n\n<color=#37FFFF>Oz: </color>Tên xúi quẩy kia muốn bỏ mặc cũng không được."
     }
   },
   {
@@ -764,7 +764,7 @@
       "ru": "<color=#37FFFF>Фишль:</color> Не разглядеть правды, не разобрать судьбу, из лжи и истины выткан гобелен его речей... Возможно, этот человек, как и я, несёт бремя видения сквозь судьбы... \n\n<color=#37FFFF>Оз:</color> А может, он и правда пират?",
       "id": "<color=#37FFFF>Fischl:</color> Sifatnya tidak jelas, nasibnya adalah misteri, dan pidatonya merupakan permadani yang menjengkelkan yang ditenun dari fakta dan fiksi... Mungkin dia dan aku berbagi pemandangan mistis yang sama...\n\n<color=#37FFFF>Oz:</color> Atau mungkin dia memang bajak laut asli...?",
       "th": "<color=#37FFFF>Fischl:</color> ความจริงที่ดูไม่ออก เหตุและผลที่แยกแยะไม่ได้ และคำพูดที่คลุมเครือ...คน ๆ นั้นอาจจะมีชะตาชีวิตเหมือนฉัน ที่ต้องคอยแบกรับ \"ดวงตาแห่งบาป\"...\n\n<color=#37FFFF>Oz:</color> หรือบางทีเขาอาจจะเป็นโจรสลัด อย่างลับ ๆ...?",
-      "vi": "<color=#37FFFF>Fischl: </color>Sự thật không thể nhìn thấu, nhân quả không thể phán định, những lời nói thật giả đan xen... Người đó có lẽ cũng giống tôi, gánh vác vận mệnh \"Ma Nhãn\"...\n\n<color=#37FFFF>Oz: </color>Cũng có thể là tên hải tặc lén lút..."
+      "vi": "<color=#37FFFF>Fischl: </color>Sự thật không thể nhìn thấu, nhân quả không thể phán định, những lời nói thật giả đan xen... Người đó có lẽ cũng giống ta, gánh vác vận mệnh \"Ma Nhãn\"...\n\n<color=#37FFFF>Oz: </color>Cũng có thể là tên hải tặc lén lút..."
     }
   },
   {
@@ -796,7 +796,7 @@
       "ru": "<color=#37FFFF>Фишль:</color> А, этот «великий астролог Мона»... Мона, которой однажды хватило тщеславия попытаться вызнать судьбу Принцессы осуждения! Она превратилась в трепещущую развалину, перерождённую и сломленную. \n\n<color=#37FFFF>Оз:</color> Бедняжка отчаянно пыталась не рассмеяться. И это было непросто.",
       "id": "<color=#37FFFF>Fischl:</color> Ah, ya, Mona, astrolog hebat itu... Mona, yang dengan kesombongannya pernah mencoba untuk meramalkan nasib dari Prinzessin der Verurteilung! Akhirnya dia hanya gemetar ketakutan.\n\n<color=#37FFFF>Oz:</color> *berbisik* Sebenarnya Mona gemetar karena menahan tawanya, itu benar-benar sulit.",
       "th": "<color=#37FFFF>Fischl:</color> อ่า ๆ Mona โหรแห่งดวงดาวผู้ยิ่งใหญ่คนนั้น...หึ เคยแอบดูชะตาชีวิตของข้า สุดท้ายกลับสั่นเทาด้วยความกลัว\n\n<color=#37FFFF>Oz:</color> ตอนนั้นดูเหมือนโหรแห่งดวงดาว จะพยายามกลั้นขำ ซึ่งไม่ง่ายเลย",
-      "vi": "<color=#37FFFF>Fischl: </color>A, vị \"thuật sĩ chiêm tinh vĩ đại Mona\" kia... Hừ, hắn từng muốn xem trộm vận mệnh của bản công chúa, kết quả là cả người run rẩy sợ hãi.\n\n<color=#37FFFF>Oz: </color>Lúc đó thuật sĩ chiêm tinh dường như đang cố gắng nhịn cười, thật không dễ dàng gì."
+      "vi": "<color=#37FFFF>Fischl: </color>A, vị \"thuật sĩ chiêm tinh vĩ đại Mona\" kia... Hừ, người này từng muốn xem trộm vận mệnh của bổn công chúa, kết quả là cả người run rẩy sợ hãi.\n\n<color=#37FFFF>Oz: </color>Lúc đó thuật sĩ chiêm tinh dường như đang cố gắng nhịn cười, thật không dễ dàng gì."
     }
   },
   {
@@ -828,7 +828,7 @@
       "ru": "<color=#37FFFF>Фишль:</color> Многие думают, что она благочестивая и преданная последовательница своего Анемо Архонта. \n\n<color=#37FFFF>Оз:</color> «Благочестивая», моя миледи? \n\n<color=#37FFFF>Фишль:</color> Именно. Однажды вечером я видела, как она сказала некому человеку: «Именем Барбатоса, пропади ты пропадом!» Не иначе как это была молитва.",
       "id": "<color=#37FFFF>Fischl:</color> Orang bilang Suster Rosaria adalah pengabdi Archon Anemo yang paling setia.\n\n<color=#37FFFF>Oz:</color>...\"Pengabdi setia,\" mein Fräulein?\n\n<color=#37FFFF>Fischl:</color> Benar! Suatu malam, aku mendengar dia memanggil nama Archon di hadapan orang lain: \"Atas nama Lord Bartabos, matilah!\" Seseorang mengira bahwa dia sedang memimpin doa.",
       "th": "<color=#37FFFF>Fischl:</color> เธอเหรอ? ดูเหมือนจะเป็นซิสเตอร์ที่จงรักภักดีต่อเทพแห่งลม\n\n<color=#37FFFF>Oz:</color> \"จงรัก\"? \"ภักดี\"?\n\n<color=#37FFFF>Fischl:</color> ใช่แล้ว มีอยู่คืนหนึ่งข้าได้ยินเธอพูดกับใครบางคนว่า \"ในนามของท่านบาโทบาสเทพแห่งลม จงตายซะเถอะ\" คำพูดแบบนี้ คงเป็นการอธิษฐานล่ะมั้ง",
-      "vi": "<color=#37FFFF>Fischl: </color>Cô ấy sao? Dường như là nữ tu trung thành sùng bái Phong Thần.\n\n<color=#37FFFF>Oz: </color>\"Sùng bái\"? \"Trung thành\"?\n\n<color=#37FFFF>Fischl: </color>Đúng vậy. Có hôm buổi tối tôi nhìn thấy cô ấy nói với người nào đó \"Nhân danh Phong Thần Barbatos, đi chết đi!\" Những lời như vậy, ắt hẳn là đang cầu xin rồi!"
+      "vi": "<color=#37FFFF>Fischl: </color>Cô ấy sao? Dường như là nữ tu trung thành sùng bái Phong Thần.\n\n<color=#37FFFF>Oz: </color>\"Sùng bái\"? \"Trung thành\"?\n\n<color=#37FFFF>Fischl: </color>Đúng vậy. Có hôm buổi tối ta nhìn thấy cô ấy nói với người nào đó \"Nhân danh Phong Thần Barbatos, đi chết đi!\" Những lời như vậy, ắt hẳn là đang cầu xin rồi!"
     }
   },
   {
@@ -860,7 +860,7 @@
       "ru": "Осудить виновных, благословить тех, кому благоволит судьба, собрать под крыльями Нирваны Ночи ставшие ненужными сны со всего мира - вот бремя Принцессы осуждения, вот её долг, и того никто не оспорит.",
       "id": "Untuk mengutuk yang bersalah, menguduskan yang adil, dan untuk menarik semua mimpi terbuang ke dalam pelukan Immernachtreich yang tak terbatas. Ini adalah misi dari Prinzessin der Verurteilung, dan tanggung jawabnya. Tidak ada yang dapat membantahnya.",
       "th": "เหอะ ๆ เพื่อประณามคนที่ควรถูกลงโทษ เพื่อโชคชะตาของผู้ที่ได้รับ พรศักดิ์สิทธิ์ และเพื่อรับความฝันที่ไม่ได้รับการ ยกโทษของโลกนี้ ในฐานะดินแดนแห่งราตรีบริสุทธิ์ที่ ไม่รู้จบ นี่ก็คือภารกิจอันแสนหนักหน่วงที่ เจ้าหญิงแห่งการลงทัณฑ์แบกรับ เอาไว้ ไม่ว่าใครก็อย่าได้กังขา",
-      "vi": "Hừ, định tội cho những kẻ xấu xa, chúc phúc cho những người được chọn, thu nhận tất cả những giấc mơ không được tha thứ về Vùng Đất Đêm Niết Bàn vô tận, đó chính là sứ mệnh nặng nề mà Công Chúa Định Tội phải gánh vác, không ai có quyền chất vấn."
+      "vi": "Hừ, định tội cho những kẻ xấu xa, chúc phúc cho những người được chọn, thu nhận tất cả những giấc mơ không được tha thứ về Vương Đô U Ám vô tận, đó chính là sứ mệnh nặng nề mà Công Chúa Định Tội phải gánh vác, không ai có quyền chất vấn."
     }
   },
   {
@@ -892,7 +892,7 @@
       "ru": "Мой левый глаз? Это - Глаз правосудия, который видит всю правду мира. Почему я скрываю его под повязкой... Хотелось бы тебе нести бремя всей правды этого мира? Это вызывает боль, и к тому же мир становится тусклым и бессмысленным, когда разделён на правду и ложь.",
       "id": "Mata kiriku? Ini adalah Auge der Verurteilung, yang dapat melihat kebenaran di dunia ini. Mengenai alasan kenapa aku menyembunyikannya... Apakah kamu rela menanggung semua beban dan rasa sakit yang ada di dunia ini? Terlebih lagi... dunia akan kehilangan banyak daya tariknya jika khayalan dan kepalsuannya dihilangkan sepenuhnya.",
       "th": "ตาข้างซ้ายของฉัน? ตาซ้ายของฉันคือ \"ดวงตาแห่งบาป\" ที่สามารถเผยความจริงทุกสิ่งของ โลกนี้ ส่วนที่ว่าทำไมถึงต้องปิดบังเอาไว้...เธอยินดีจะแบกรับการที่ได้เห็นความจริงทุกสิ่งของโลกนี้ ทั้งภาระและความเจ็บปวดมั้ยล่ะ? อีกทั้งความคิดเพ้อเจ้อและคำโกหกทั้งหมดของโลกนี้ ยิ่งเป็นเรื่องที่น่าเบื่อที่สุดเลยเหอะ ๆ",
-      "vi": "Con mắt trái của tôi? Con mắt trái của tôi là \"Con Mắt Định Tội\" có thể nhìn thấu tất cả chân tướng. Vì sao phải che nó lại à... Nhìn thấy tất cả gánh nặng và đau khổ của thế giới, bạn có muốn chịu đựng điều đó không? Hơn nữa, nhìn thấu hết tất cả những ý nghĩ xằng bậy và lời nói xấu xa trên thế giới là loại chuyện vô vị cỡ nào chứ!"
+      "vi": "Con mắt trái của ta? Con mắt trái của ta là \"Con Mắt Định Tội\" có thể nhìn thấu tất cả chân tướng. Vì sao phải che nó lại à... Nhìn thấy tất cả gánh nặng và đau khổ của thế giới, ngươi có muốn chịu đựng điều đó không? Hơn nữa, nhìn thấu hết tất cả những ý nghĩ xằng bậy và lời nói xấu xa trên thế giới là loại chuyện vô vị cỡ nào chứ!"
     }
   },
   {
@@ -924,7 +924,7 @@
       "ru": "<color=#37FFFF>Фишль:</color>Ужас Бури? Неужели никто не предполагал, что существо такой силы, сдерживаемое цепями, как домашняя зверюшка, однажды принесёт катастрофу этому миру? Ах, никчемные людишки из никчёмного мира... \n\n<color=#37FFFF>Оз:</color> Но разве миледи не заботилась о душах этих никчёмных людишек во время катастрофы? \n\n<color=#37FFFF>Фишль:</color> Ну, это потому что высшим долгом принцессы является защита душ простых смертных...",
       "id": "<color=#37FFFF>Fischl:</color> Stormterror? Hewan peliharaan yang dipelihara di istana tak disangka akan menyebabkan bencana di dunia ini.*huff* Yang menyedihkan adalah ketidakmampuan dunia ini...\n\n<color=#37FFFF>Oz:</color> Meski mein Fräulein berkata demikian, apakah Anda tidak khawatir akan keselamatan semua orang selama bencana tersebut?\n\n<color=#37FFFF>Fischl:</color> I-Itu karena Prinzessin der Verurteilung memiliki tugas mulia melindungi jiwa semua makhluk hidup...",
       "th": "<color=#37FFFF>Fischl:</color> Stormterror? สัตว์เลี้ยงของข้าที่ผูกเอาไว้ที่สวน ดอกไม้ในวัง คิดไม่ถึงว่าจะเป็นภัยต่อโลกนี้ได้ เหอะ เจ้าพวกไร้ประโยชน์...\n\n<color=#37FFFF>Oz:</color> ถึงแม้คุณหนูจะพูดแบบนี้ แต่ตอนนั้นเธอก็เป็นห่วงทุกคนมาก ๆ เลย\n\n<color=#37FFFF>Fischl:</color> นะ นั่นเป็นเพราะข้าเป็นเจ้าหญิง จึงมีหน้าที่ในการปกป้องจิตวิญญาณของสรรพสัตว์ทุกสิ่งบนโลกนี้...",
-      "vi": "<color=#37FFFF>Fischl: </color>Phong Ma Long? Thứ cấp bậc thú cưng mà bổn công chúa buộc trong vườn hoa cung điện, không ngờ lại có thể gây họa ở thế giới này. Hừ, một đám vô dụng...\n\n<color=#37FFFF>Oz: </color>Tuy tiểu như nói vậy, nhưng lúc đó không phải cũng rất lo lắng cho mọi người sao?\n\n<color=#37FFFF>Fischl: </color>Chuyện đó... do tôi là công chúa, phải gánh vác trách nhiệm cao quý bảo vệ tất cả linh hồn của chúng sinh, không phải sao..."
+      "vi": "<color=#37FFFF>Fischl: </color>Phong Ma Long? Thứ cấp bậc thú cưng mà bổn công chúa buộc trong vườn hoa cung điện, không ngờ lại có thể gây họa ở thế giới này. Hừ, một đám vô dụng...\n\n<color=#37FFFF>Oz: </color>Tuy tiểu như nói vậy, nhưng lúc đó không phải cũng rất lo lắng cho mọi người sao?\n\n<color=#37FFFF>Fischl: </color>Chuyện đó... do ta là công chúa, phải gánh vác trách nhiệm cao quý bảo vệ tất cả linh hồn của chúng sinh, không phải sao..."
     }
   },
   {
@@ -985,10 +985,10 @@
       "es": "¿Que por qué la Princesa del Juicio debe castigar a los pecadores? ¡Porque el pecado constituye un desafío del legítimo decreto del destino! Y, por supuesto, el destino es lo que te trajo aquí, así que... así que... el destino vio tu descenso a este mundo, el mismo destino que también vio cómo nuestros caminos se entrelazaban. Yo, Fischl, siempre te protegeré. Porque... ¡porque tal es el decreto del destino!",
       "fr": "#Pourquoi je punis les pécheurs ? P—Pour la simple et bonne raison que leur existence souille le destin ! C'est lui qui vous a {M#amené}{F#amenée} ici et c'est aussi grâce à lui que nos chemins ont eu la chance de se croiser... Moi, Fischl, jure d'assurer votre protection pour toujours... p—parce que le destin en a décidé ainsi !",
       "pt": "#Por que a Princesa do Pecado deve punir o pecado? Porque o pecado desafia o legítimo decreto do destino, é claro!... E, claro, o destino trouxe você aqui, então, então... Ahem! Foi o destino que viu a sua descida neste mundo, o destino que viu os nossos caminhos entrelaçados. Eu, Fischl, sempre {M#o}{F#a} protegerei. Porque... Porquê o destino me revelou que foi isso que foi decretado!",
-      "ru": "Почему я, принцесса, должна судить грешников? Конечно, потому что они идут против судьбы... В конце концов, судьба привела тебя сюда, в этот мир, судьба свела нас, сплела вместе наши пути. Я, Фишль, буду защищать тебя. Потому что... Потому что это предопределено судьбой!",
+      "ru": "Почему я, принцесса, должна судить грешников? Конечно, потому что они идут против судьбы... В конце концов, судьба привела тебя сюда, в этот мир, участь свела нас, сплела вместе наши пути. Я, Фишль, буду защищать тебя. Потому что... Потому что это предопределено судьбой!",
       "id": "Mengapa Prinzessin der Verurteilung harus menghukum dosa? Tentu saja karena dosa \"melanggar takdir\"! Bagaimanapun juga... takdirlah yang membawamu ke sini... takdir membawa dirimu dan diriku ke dunia ini... takdir yang membuat jalan kita saling terkait. Aku, Fischl, akan selalu melindungimu. Karena... karena takdir telah mengungkapkan kepadaku bahwa inilah yang telah ditetapkannya!",
       "th": "ทำไมถึงต้องเป็นเจ้าหญิงแห่งการลงทัณฑ์ แน่นอนว่าเป็นเพราะโชคชะตาไงเล่า...ในเมื่อโชคชะตาทำให้เจ้า...เข้ามาสู่โลกนี้ มันคือเหตุและผลที่เกี่ยวเนื่องกัน ขะ ข้าจะปกป้องเจ้า เพราะ เพราะนี่คือสิ่งที่โชคชะตาได้ถูก กำหนดเอาไว้!",
-      "vi": "Công chúa ta nên định tội thế nào, đương nhiên là \"phản nghịch vận mệnh\" rồi... Dù sao thì cũng chính là vận mệnh... đã đưa bạn đến thế giới này, khiến nhân quả đan xen, tôi sẽ bảo vệ bạn, đây chính là chuyện được ám chỉ trong vận mệnh!"
+      "vi": "Công chúa ta nên định tội thế nào, đương nhiên là \"phản nghịch vận mệnh\" rồi... Dù sao thì cũng chính là vận mệnh... đã đưa ngươi đến thế giới này, khiến nhân quả đan xen, ta sẽ bảo vệ ngươi, đây chính là chuyện được ám chỉ trong vận mệnh!"
     }
   },
   {
@@ -1084,7 +1084,7 @@
       "ru": "Что? Что в этом мире может волновать меня, Принцессу осуждения... Если ты действительно хочешь знать, я скажу: это люди, кто не может принять мою суть. Но в том нет трагедии: удел благородных особ - одиночество. И всё, что нужно - не потерять благородство души...",
       "id": "Apa hal-hal di dunia ini yang dapat mengganggu putri? Apa pun yang kukatakan, selalu ada seseorang yang tidak dapat menerima identitasku yang sebenarnya. Tapi tidak masalah, karena kesunyian adalah nasib bangsawan, selama aku tidak kehilangan hati yang mulia ini...",
       "th": "ฮืม? เรื่องอะไรในโลกจะทำให้ข้ากลุ้มใจ เหรอ...ถ้าจะต้องพูด นั่นก็คือมักจะมีคนที่ไม่ยอมรับตัวตนที่แท้จริงของฉัน แต่ไม่เป็นไร เพราะผู้สูงศักดิ์นั้นถูกกำหนดให้อยู่คนเดียวอยู่แล้ว ขอแค่ไม่สูญเสียจิตวิญญาณอันสูงส่งไป...",
-      "vi": "Hả? Trên thế gian này chuyện gì có thể khiến tôi khó chịu à... Nếu phải nói ra, thì đó chính là chuyện luôn có người không chịu tiếp nhận thân phận thật sự của tôi. Nhưng cũng đành thôi, người cao quý luôn phải chịu cô độc, nhưng tôi sẽ không đánh mất trái tim cao thượng của mình..."
+      "vi": "Hả? Trên thế gian này chuyện gì có thể khiến ta khó chịu à... Nếu phải nói ra, thì đó chính là chuyện luôn có người không chịu tiếp nhận thân phận thật sự của ta. Nhưng cũng đành thôi, người cao quý luôn phải chịu cô độc, nhưng ta sẽ không đánh mất trái tim cao thượng của mình..."
     }
   },
   {
@@ -1153,6 +1153,102 @@
   },
   {
     "title": {
+      "zhs": "收到赠礼·其一",
+      "zht": "收到贈禮·其一",
+      "jp": "贈り物を受け取る·1",
+      "ko": "선물 획득·첫 번째",
+      "en": "Receiving a Gift: I",
+      "de": "Geschenk erhalten I",
+      "es": "Al recibir un regalo (I)",
+      "fr": "Cadeau reçu (1)",
+      "pt": "Recebendo Presentes — I",
+      "ru": "Подарок I",
+      "id": "Menerima Hadiah: I",
+      "th": "ได้รับของขวัญ - 1",
+      "vi": "Nhận Được Quà I"
+    },
+    "line": {
+      "zhs": "<color=#37FFFF>菲谢尔：</color>此等珍馐，可纳于忘忧之御膳园中。\n\n<color=#37FFFF>奥兹：</color>小姐说，这就是她理想的美味。",
+      "zht": "<color=#37FFFF>菲謝爾：</color>此等珍饈，可納於忘憂之御膳園中。\n\n<color=#37FFFF>奧茲：</color>小姐說，這就是她理想的美味。",
+      "jp": "<color=#37FFFF>フィッシュル：</color>これほどの珍味であれば、忘憂の御膳園で出してもいいわね。\n\n<color=#37FFFF>オズ：</color>お嬢様は、「これこそ自分が求めていた料理だ」とおっしゃっています。",
+      "ko": "<color=#37FFFF>피슬:</color> 이 정도로 진귀한 요리는 망우의 수라간에 보내도 손색이 없을 것 같군\n\n<color=#37FFFF>오즈:</color> 아가씨께서 원하던 맛이라고 하십니다",
+      "en": "<color=#37FFFF>Fischl:</color> Such an exquisite delicacy is worthy of being served in the Garten Sanssouci.\n\n<color=#37FFFF>Oz:</color> Mein Fräulein says that she thoroughly enjoys your delicious cooking.",
+      "de": "<color=#37FFFF>Fischl:</color> Solche Köstlichkeiten können im Garten der Gelassenheit serviert werden.\n\n<color=#37FFFF>Oz:</color> Mein Fräulein sagte, dies sei ihre ideale Delikatesse.",
+      "es": "<color=#37FFFF>Fischl:</color> Un manjar tan exquisito es digno de ser servido en el Jardín del Desasosiego donde la Princesa degusta las comidas.\n\n<color=#37FFFF>Oz:</color> La señorita dice que “está disfrutando plenamente de este delicioso plato”.",
+      "fr": "<color=#37FFFF>Fischl :</color> Un mets aussi délicat est digne d'être servi dans le Jardin du sans-souci.\n\n<color=#37FFFF>Oz :</color> Ma maîtresse veut dire que ce plat a un goût qui lui sied parfaitement.",
+      "pt": "<color=#37FFFF>Fischl:</color>Uma iguaria tão refinada como esta é merecedora de ser servida nos ostentosos banquetes no Jardim Sanssouci da Princesa.\n\n<color=#37FFFF>Oz:</color>A Senhorita quer dizer que ela aprecia sua comida deliciosa.",
+      "ru": "<color=#37FFFF>Фишль:</color> Такое изысканное лакомство достойно того, чтобы его подали в королевском обеденном зале.\n\n<color=#37FFFF>Оз:</color> Миледи говорит, что ей очень нравятся твои блюда.",
+      "id": "<color=#37FFFF>Fischl:</color> Kelezatan hakiki yang layak disajikan di Garten Sanssouci.\n\n<color=#37FFFF>Oz:</color> Mein Fräulein bilang dia sangat menikmati masakanmu yang lezat ini.",
+      "th": "<color=#37FFFF>Fischl: </color>อาหารอันโอชะเช่นนี้คู่ควรที่จะเสิร์ฟในภัตตาคารหลวง Prinzessin\n\n<color=#37FFFF>Oz: </color>ท่านหญิงบอกว่านี่คือรสชาติอันโอชะในอุดมคติของเธอ",
+      "vi": "<color=#37FFFF>Fischl:</color> Những món ngon này, xứng đáng được phục vụ trong yến tiệc của Vườn Quên Sầu.\n\n<color=#37FFFF>Oz:</color> Tiểu thư nói, đấy chính là hương vị cô ấy yêu thích."
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其二",
+      "zht": "收到贈禮·其二",
+      "jp": "贈り物を受け取る·2",
+      "ko": "선물 획득·두 번째",
+      "en": "Receiving a Gift: II",
+      "de": "Geschenk erhalten II",
+      "es": "Al recibir un regalo (II)",
+      "fr": "Cadeau reçu (2)",
+      "pt": "Recebendo Presentes — II",
+      "ru": "Подарок II",
+      "id": "Menerima Hadiah: II",
+      "th": "ได้รับของขวัญ - 2",
+      "vi": "Nhận Được Quà II"
+    },
+    "line": {
+      "zhs": "<color=#37FFFF>菲谢尔：</color>为射落世界之兽，必须突破尘俗欲望，编织通向命运之间的道路。\n\n<color=#37FFFF>奥兹：</color>但刚才，小姐不是吃得很香吗？",
+      "zht": "<color=#37FFFF>菲謝爾：</color>為射落世界之獸，必須突破塵俗欲望，編織通向命運之間的道路。\n\n<color=#37FFFF>奧茲：</color>但剛才，小姐不是吃得很香嗎？",
+      "jp": "<color=#37FFFF>フィッシュル：</color>世界の獣を射落とすには、俗世の欲望を破り、運命の狭間へと繋がる道を紡がなければならない。\n\n<color=#37FFFF>オズ：</color>ですが、先ほどまでお嬢様はとても満足された表情で食べていらっしゃったかと？",
+      "ko": "<color=#37FFFF>피슬:</color> 세계의 야수를 물리치기 위해선 세속의 욕망을 떨쳐내고 운명으로 향하는 길을 엮어야 하지\n\n<color=#37FFFF>오즈:</color> 하지만 조금 전, 맛있게 드셨지 않습니까?",
+      "en": "<color=#37FFFF>Fischl:</color> To vanquish the Beast of the World, one must first rise above mundane desires, thus weaving the path that leads to destiny.\n\n<color=#37FFFF>Oz:</color> And yet, on this occasion, you appear to have eaten your fill, mein Fräulein.",
+      "de": "<color=#37FFFF>Fischl:</color> Um das Weltenmonster zu erlegen, muss man irdische Begierden durchbrechen und den Weg zwischen den Schicksalen ebnen.\n\n<color=#37FFFF>Oz:</color> Aber gerade eben ... Hat mein Fräulein da nicht gut gegessen?",
+      "es": "<color=#37FFFF>Fischl:</color> Para derrotar a la gran bestia de este mundo, uno ha de despojarse de sus mundanos deseos y entretejer su propio camino hacia el encuentro con el destino.\n\n<color=#37FFFF>Oz:</color> Y, aun así, señorita, parecía estar disfrutando de lo que comió.",
+      "fr": "<color=#37FFFF>Fischl :</color> Pour vaincre la Bête-monde, il faut d'abord s'élever au-dessus des désirs ordinaires, et ainsi tisser le chemin qui mène au destin.\n\n<color=#37FFFF>Oz :</color> Pourtant, vous aviez l'air de vous délecter de ce mets tout à l'heure ?",
+      "pt": "<color=#37FFFF>Fischl:</color>Aniquilar a Besta do Mundo requer ascender além dos desejos mundanos, tecendo o caminho rumo ao destino.\n\n<color=#37FFFF>Oz:</color>Entretanto, você parece ter comido além da conta, não é, Senhorita?",
+      "ru": "<color=#37FFFF>Фишль:</color> Чтобы победить мировое чудовище, нужно отринуть мирские желания и проложить путь к своей судьбе.\n\n<color=#37FFFF>Оз:</color> И всё же вы наелись досыта, миледи.",
+      "id": "<color=#37FFFF>Fischl:</color> Untuk bisa mengalahkan Beast of the World, seseorang harus terlebih dahulu mengatasi keinginan duniawi dan menenun jalan menuju takdir.\n\n<color=#37FFFF>Oz:</color> Tapi bukannya tadi Mein Fräulein makan dengan lahap?",
+      "th": "<color=#37FFFF>Fischl: </color>เพื่อปราบสัตว์เดรัจฉานในโลกหล้า เราต้องฝ่าฟันความปรารถนาทางโลกและถักทอเส้นทางระหว่างโชคชะตา\n\n<color=#37FFFF>Oz: </color>แต่เมื่อครู่ท่านหญิงก็กินอย่างเอร็ดอร่อยไม่ใช่เหรอ?",
+      "vi": "<color=#37FFFF>Fischl:</color> Để bắn hạ quái thú thế giới, cần phải phá bỏ dục vọng trần tục và dệt nên con đường dẫn đến vận mệnh.\n\n<color=#37FFFF>Oz:</color> Nhưng vừa rồi, tiểu thư không phải đã ăn uống rất ngon sao?"
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其三",
+      "zht": "收到贈禮·其三",
+      "jp": "贈り物を受け取る·3",
+      "ko": "선물 획득·세 번째",
+      "en": "Receiving a Gift: III",
+      "de": "Geschenk erhalten III",
+      "es": "Al recibir un regalo (II)",
+      "fr": "Cadeau reçu (3)",
+      "pt": "Recebendo Presentes — III",
+      "ru": "Подарок III",
+      "id": "Menerima Hadiah: III",
+      "th": "ได้รับของขวัญ - 3",
+      "vi": "Nhận Được Quà III"
+    },
+    "line": {
+      "zhs": "<color=#37FFFF>菲谢尔：</color>为何要将残破与毁灭，呈于本皇女面前？\n\n<color=#37FFFF>奥兹：</color>小姐不太喜欢这道菜肴，请你见谅。",
+      "zht": "#<color=#37FFFF>菲謝爾：</color>為何要將殘破與毀滅，呈於本皇女面前？\n\n<color=#37FFFF>奧茲：</color>小姐不太喜歡這道菜餚，請{F#妳}{M#你}見諒。",
+      "jp": "<color=#37FFFF>フィッシュル：</color>なぜ、このような破壊と滅亡の権化をわたくしの前に出したの？\n\n<color=#37FFFF>オズ：</color>お嬢様は、この料理がお気に召さないご様子。どうか、ご理解いただきますようお願いいたします。",
+      "ko": "<color=#37FFFF>피슬:</color> 어째서 황폐함과 파멸을 본 황녀 앞에 드러내는 거지?\n\n<color=#37FFFF>오즈:</color> 죄송하지만, 아가씨께서 이 요리는 별로라고 하십니다",
+      "en": "<color=#37FFFF>Fischl:</color> Why dost thou insist on raining down chaos and destruction in the presence of your Prinzessin?\n\n<color=#37FFFF>Oz:</color> Mein Fräulein does not care a great deal for this dish. My apologies.",
+      "de": "<color=#37FFFF>Fischl:</color> Warum präsentierst du die Trümmer und die Zerstörung vor der Exzellenz?\n\n<color=#37FFFF>Oz:</color> Mein Fräulein mag dieses Gericht nicht besonders, also verzeih bitte.",
+      "es": "<color=#37FFFF>Fischl:</color> ¿Por qué insistes en invocar el descenso del caos y la destrucción ante la presencia de tu Princesa?\n\n<color=#37FFFF>Oz:</color> Disculpa, a la señorita no le gustó demasiado este plato.",
+      "fr": "<color=#37FFFF>Fischl :</color> Vous osez présenter cette assiette en présence de votre princesse ?\n\n<color=#37FFFF>Oz :</color> Ma maîtresse n'apprécie pas vraiment ce plat, veuillez l'en excuser.",
+      "pt": "<color=#37FFFF>Fischl:</color>Por que insiste em despejar o caos e destruição perante a presença de mim, a Princesa?\n\n<color=#37FFFF>Oz:</color>A Senhorita não gosta desse prato. Sinto muito.",
+      "ru": "<color=#37FFFF>Фишль:</color> Ты осмеливаешься подавать принцессе это бедствие?!\n\n<color=#37FFFF>Оз:</color> Миледи не в восторге от этого блюда. Прошу прощения.",
+      "id": "<color=#37FFFF>Fischl:</color> Oh, mengapa kamu berani-beraninya menghujani piring yang penuh kekacauan ini ke hadapan sang Prinzessin?\n\n<color=#37FFFF>Oz:</color> Mein Fräulein kurang suka dengan hidangan ini, mohon dimaklumi ya.",
+      "th": "<color=#37FFFF>Fischl: </color>เหตุใดจึงต้องนำความพินาศและการทำลายล้างมาเสนอต่อหน้าข้าด้วย?\n\n<color=#37FFFF>Oz: </color>ท่านหญิงไม่ค่อยชอบอาหารจานนี้สักเท่าไหร่ ขออภัยด้วย",
+      "vi": "#<color=#37FFFF>Fischl:</color> Tại sao lại muốn đem sự đổ nát và hủy hoại đến trước mặt bổn công chúa?\n\n<color=#37FFFF>Oz:</color> Tiểu thư không thích món ăn này lắm, mong {F#cô}{M#cậu} thông cảm."
+    }
+  },
+  {
+    "title": {
       "zhs": "生日…",
       "zht": "生日…",
       "jp": "誕生日…",
@@ -1180,7 +1276,7 @@
       "ru": "#<color=#37FFFF>Фишль:</color> Ха-ха! Раз сегодня день, в который ты волею судьбы родил{F#aсь}{M#ся}, то я не могу стоять в стороне. Говори! Расскажи мне, что в своей короткой и скоротечной жизни, что в этом глухом, разлагающемся мире ты желаешь больше всего? Говори, да я услышу слова твои! Пусть даже...\n\n<color=#37FFFF>Оз:</color> Она говорит, «С днём рождения! Если хочешь, она...» \n\n<color=#37FFFF>Фишль:</color> Оз! Молчать!",
       "id": "<color=#37FFFF>Fischl:</color> Nah! Jika hari ini benar-benar adalah hari yang ditakdirkan untukmu, maka aku tidak bisa hanya duduk diam saja. Kamu akan mendapatkan perhatian penuh dariku. Bicaralah! Katakan kepadaku tentang keinginanmu, apa yang kamu dambakan dalam hidupmu yang singkat dan keras di dunia ini. Apa pun keinginanmu, meskipun mungkin—\n\n<color=#37FFFF>Oz:</color> Maksudnya, \"Selamat Ulang Tahun, dan jika kamu mau, dia bisa—\"\n\n<color=#37FFFF>Fischl:</color> Diam, Oz.",
       "th": "<color=#37FFFF>Fischl:</color> เหอะ ๆ ในเมื่อวันนี้เป็นวันที่โชคชะตา ของเจ้าได้กำหนดเอาไว้ เช่นนั้นข้าก็คงจะนิ่งดูดายไม่ได้ เอาล่ะ พูดสิ! การอยู่ในโลกที่แสนเสื่อมโทรม ด้วยชีวิตอันแสนสั้นของเจ้านั้น หากมีความปรารถนาอะไรที่ อยากจะให้เป็นจริง ก็จงพูดออกมาให้เจ้าหญิง รับฟังได้เลย! อืม...ถึงแม้ว่า...\n\n<color=#37FFFF>Oz:</color> เธอจะบอกว่า \"สุขสันต์วันเกิด ถ้าเธออยากได้ คุณหนูก็...\"\n\n<color=#37FFFF>Fischl:</color> Oz! พูดมากไปแล้วนะ!",
-      "vi": "<color=#37FFFF>Fischl: </color>Hừ, vì hôm nay là ngày bạn được vận mệnh lựa chọn, nên tôi cũng không thể ngồi yên mặc kệ. Nào, nói đi! Trong thế giới mục nát và tĩnh mịch này, trong cuộc sống nhỏ bé và ngắn ngủi của bạn, bạn muốn thực hiện nguyện vọng gì, chỉ cần nói ra cho bổn công chúa nghe hừ... cho dù là...\n\n<color=#37FFFF>Oz: </color>Cô ấy nói \"Sinh nhật vui vẻ! Nếu bạn muốn gì, cô ấy sẽ\"...\n\n<color=#37FFFF>Fischl: </color>Oz! Lắm lời!"
+      "vi": "#<color=#37FFFF>Fischl: </color>Hừ, vì hôm nay là ngày ngươi được vận mệnh lựa chọn, nên ta cũng không thể ngồi yên mặc kệ. Nào, nói đi! Trong thế giới mục nát và tĩnh mịch này, trong cuộc sống nhỏ bé và ngắn ngủi của ngươi, ngươi muốn thực hiện nguyện vọng gì, chỉ cần nói ra cho bổn công chúa nghe hừ... cho dù là...\n\n<color=#37FFFF>Oz: </color>Cô ấy nói \"Sinh nhật vui vẻ! Nếu {F#cô}{M#cậu} muốn gì, cô ấy sẽ\"...\n\n<color=#37FFFF>Fischl: </color>Oz! Lắm lời!"
     }
   },
   {
@@ -1212,7 +1308,7 @@
       "ru": "<color=#37FFFF>Фишль:</color> Мои стрелы воспевают моё священное имя, когда летят сквозь ночную тьму и молят о том, чтобы пурпурные молнии справедливой кары настигли врагов судьбы! \n\n<color=#37FFFF>Оз:</color> Ваши речи прекрасны, миледи! Быть может, ваши стрелы настигнут какого-нибудь голубя? Время ужина.",
       "id": "<color=#37FFFF>Fischl:</color> Panah ajaibku memanggil nama suciku saat melesat sepanjang malam, berdoalah agar kilat violet penghakiman akan menembak jatuh musuh takdir!\n\n<color=#37FFFF>Oz:</color> Cukup menginspirasi, mein Fräulein! Mempertimbangkan sudah hampir waktunya makan malam, mungkin Anda bisa menembakkan merpati saat Anda melakukannya?",
       "th": "<color=#37FFFF>Fischl:</color> ลูกศรเวทแห่งราตรีกาล... มันเรียกหานามแห่งพรศักดิ์สิทธิ์ ของข้า ขอให้สายฟ้าแห่งการแก้แค้น ฟาดไปที่ศัตรูแห่งโชคชะตา!\n\n<color=#37FFFF>Oz:</color> พูดถึงมื้อค่ำ ถ้ายิงนกพิราบได้ก็ยิ่งดีสินะ",
-      "vi": "<color=#37FFFF>Fischl: </color>Mũi tên ma lực của màn đêm... Nó đang gọi tên tôi, van cầu tia sét màu tím bắn rơi sinh mệnh kẻ địch!\n\n<color=#37FFFF>Oz: </color>Thật là vĩ đại, hãy nghĩ đến bữa tối, nếu có thể bắn rơi được chim bồ câu thì càng tốt."
+      "vi": "<color=#37FFFF>Fischl: </color>Mũi tên ma lực của màn đêm... Nó đang gọi tên ta, van cầu tia sét màu tím bắn rơi sinh mệnh kẻ địch!\n\n<color=#37FFFF>Oz: </color>Thật là vĩ đại, hãy nghĩ đến bữa tối, nếu có thể bắn rơi được chim bồ câu thì càng tốt."
     }
   },
   {
@@ -1241,7 +1337,7 @@
       "es": "<color=#37FFFF>Fischl:</color> De esta manera, podré hacer mejor alarde de mi autoridad como Princesa del Juicio y derrotar a ese enemigo del destino llamado “realidad”.\n\n<color=#37FFFF>Oz:</color> Y también le servirá de mucho en su trabajo en el Gremio de Aventureros, señorita.",
       "fr": "<color=#37FFFF>Fischl : </color> De cette manière, je pourrais asseoir mon autorité en tant que Princesse du châtiment et vaincre l'ennemi du destin qu'est la réalité.\n\n<color=#37FFFF>Oz :</color> Cela vous sera aussi d'une grande utilité pour votre travail au sein de la Guilde des aventuriers.",
       "pt": "<color=#37FFFF>Fischl:</color> Com isso, posso manifestar mais plenamente minha majestade como Princesa do Pecado, e derrotar aquela inimiga do destino chamada \"realidade\".\n\n<color=#37FFFF>Oz:</color> Hm. Também será útil em seu trabalho para a Guilda de Aventureiros, minha Princesa do Pecado.",
-      "ru": "<color=#37FFFF>Фишль:</color> Теперь я стала ещё ближе к тем силам, что подобает иметь Принцессе осуждения, и пусть трепещут противники судьбы, имя которой «Реальность». \n\n<color=#37FFFF>Оз:</color> Это будет полезно и в вашей работе в Гильдии искателей приключений, миледи.",
+      "ru": "<color=#37FFFF>Фишль:</color> Теперь я стала ещё ближе к тому величию, что подобает иметь Принцессе осуждения, и пусть трепещут противники судьбы, имя которой «Реальность». \n\n<color=#37FFFF>Оз:</color> Это будет полезно и в вашей работе в Гильдии искателей приключений, миледи.",
       "id": "<color=#37FFFF>Fischl:</color> Dengan ini, aku bisa lebih sepenuhnya memanifestasikan keagunganku sebagai Prinzessin der Verurteilung, dan mengalahkan musuh takdir bernama \"kenyataan\".\n\n<color=#37FFFF>Oz:</color> Ini juga akan sangat berguna dalam pekerjaan Anda untuk Adventurers' Guild, mein Fräulein.",
       "th": "<color=#37FFFF>Fischl:</color> การมีสิ่งนี้จะยิ่งช่วยเพิ่ม ความน่าเกรงขามของเจ้าหญิงแห่งการลงทัณฑ์ และเอาชนะศัตรูแห่งโชคชะตา ที่ชื่อว่า \"ความจริง\"\n\n<color=#37FFFF>Oz:</color> อืม ก็จะสามารถทำงานของกิลด์ ได้ดียิ่งขึ้นน่ะ",
       "vi": "<color=#37FFFF>Fischl: </color>Có được thứ này sẽ giúp tăng cường sự uy nghiêm của Công Chúa Định Tội, đánh bại kẻ địch của vận mệnh, kẻ được mệnh danh là \"Hiện Thực\".\n\n<color=#37FFFF>Oz: </color>Ừ, có thể hoàn thành công việc của hiệp hội tốt hơn rồi!"
@@ -1276,7 +1372,7 @@
       "ru": "Ликуйте! Ликуйте и содрогайтесь от страха! Почему? Потому что я, Принцесса осуждения, хозяйка Нирваны Ночи, уже взглянула левым глазом на вязь судьбы, что оплела вселенную, и увидела каждую повисшую осиротевшую нить!",
       "id": "Bersukacitalah! Gemetarlah dalam ketakutan! Jika kamu ingin bertanya dari mana munculnya panggilan untuk kegairahan dan kesengsaraan ini, ketahuilah bahwa aku, Prinzessin der Verurteilung, penguasa Immernachtreich, telah menggunakan mata kiri ini untuk melihat dengan jelas permadani takdir yang menganyam alam semesta!",
       "th": "ดีใจ! จนสั่นเทา! ถามว่าทำไมน่ะเหรอ เจ้าหญิงแห่งการลงทัณฑ์จาก ดินแดนแห่งราตรีบริสุทธิ์ ได้ใช้ตาข้างซ้ายมองโชคชะตาของ จักรวาลจนทะลุปรุโปร่ง แล้วน่ะสิ!",
-      "vi": "Hãy vui mừng đi! Hãy run rẩy đi! Nếu muốn hỏi tại sao, thì đó chính là Công Chúa Định Tội của Vùng Đất Đêm Niết Bàn đã dùng con mắt trái nhìn thấu sợi tơ vận mệnh của vũ trụ!"
+      "vi": "Hãy vui mừng đi! Hãy run rẩy đi! Nếu muốn hỏi tại sao, thì đó chính là Công Chúa Định Tội của Vương Đô U Ám đã dùng con mắt trái nhìn thấu sợi tơ vận mệnh của vũ trụ!"
     }
   },
   {
@@ -1308,7 +1404,7 @@
       "ru": "#Когда я пришла в этот мир, я потеряла часть сил, но теперь они полностью вернулись ко мне. Муа-ха-ха, близок час расплаты!.. О, не волнуйся. Даже в последние минуты, когда я призову на этот мир карающие молнии, с тобой ничего не случится. Потому что ты благословл{F#енa}{M#ён} мною, Принцессой осуждения Фишль.",
       "id": "Sepertinya aku sekarang telah mendapatkan kembali sebagian besar kekuatanku yang hilang dalam transisiku ke dunia ini. HAHAHA, hari penghakiman sudah dekat! Ah, jangan khawatir. Bahkan pada akhirnya, ketika aku menjatuhkan kilat penghakiman di dunia ini, kamu tidak akan celaka, karena kamu diberkati oleh Prinzessin.",
       "th": "พลังที่สูญหายไปเมื่อมา ถึงโลกนี้นั้น ดูเหมือนจะฟื้นฟูได้เกิน กว่าครึ่งแล้ว หึหึหึ เวลาแห่งการตัดสินกำลัง จะมาถึงแล้ว...อ่ะ ๆ ไม่ต้องกังวลไป แม้แต่ตอนที่ข้าใช้สายฟ้า แห่งการลงทัณฑ์เจ้าก็จะ ไม่เป็นอะไร เพราะเจ้าเป็นคนที่ได้รับ พรศักดิ์สิทธิ์ของข้ายังไงล่ะ",
-      "vi": "Sức mạnh bị mất đi khi đến thế giới này dường như đã hồi phục được hơn một nửa. Hừ, thời gian định tội sắp đến rồi... A, không cần lo lắng. Cho dù đến thời khắc cuối cùng, khi tôi dùng sấm sét giáng xuống thế giới này, thì tôi cũng sẽ không làm tổn thương bạn. Bởi vì bạn là người nhận được sự chúc phúc thánh thần của tôi."
+      "vi": "Sức mạnh bị mất đi khi đến thế giới này dường như đã hồi phục được hơn một nửa. Hừ, thời gian định tội sắp đến rồi... A, không cần lo lắng. Cho dù đến thời khắc cuối cùng, khi ta dùng sấm sét giáng xuống thế giới này, thì ta cũng sẽ không làm tổn thương ngươi. Bởi vì ngươi là người nhận được sự chúc phúc thánh thần của ta."
     }
   },
   {
@@ -1337,7 +1433,7 @@
       "es": "¡Decreto real!",
       "fr": "Au nom du châtiment !",
       "pt": "Por decreto real!",
-      "ru": "Именем короля!",
+      "ru": "Именем принцессы!",
       "id": "Kuhukum dengan putusan kerajaan!",
       "th": "ด้วยนามแห่งการลงทัณฑ์!",
       "vi": "Với danh nghĩa định tội!"
@@ -1721,7 +1817,7 @@
       "es": "¡Hum! ¿Ansías ser testigo de mi verídico poder?",
       "fr": "Hmph ! Il semblerait que je doive m'appliquer.",
       "pt": "Hmph! Quer conhecer o meu verdadeiro poder?",
-      "ru": "Пфф! Хотите узреть мою истинную мощь?",
+      "ru": "Ха! Хотите узреть мою истинную мощь?",
       "id": "Hmph! Apakah kamu ingin menyaksikan kekuatanku yang sebenarnya?",
       "th": "คงทำได้แค่เอาจริงอีกสักหน่อยแล้วล่ะ หึ",
       "vi": "Đành phải nghiêm túc một chút vậy, hừm."

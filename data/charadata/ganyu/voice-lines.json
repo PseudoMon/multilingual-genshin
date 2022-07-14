@@ -1377,6 +1377,102 @@
   },
   {
     "title": {
+      "zhs": "收到赠礼·其一",
+      "zht": "收到贈禮·其一",
+      "jp": "贈り物を受け取る·1",
+      "ko": "선물 획득·첫 번째",
+      "en": "Receiving a Gift: I",
+      "de": "Geschenk erhalten I",
+      "es": "Al recibir un regalo (I)",
+      "fr": "Cadeau reçu (1)",
+      "pt": "Recebendo Presentes — I",
+      "ru": "Подарок I",
+      "id": "Menerima Hadiah: I",
+      "th": "ได้รับของขวัญ - 1",
+      "vi": "Nhận Được Quà I"
+    },
+    "line": {
+      "zhs": "地道的美味佳肴…啊！我是不是已经吃多了？",
+      "zht": "道地的美味佳餚…啊！我是不是已經吃多了？",
+      "jp": "本格的なご馳走ですね…あっ！私、食べ過ぎてしまいましたか？",
+      "ko": "아주 제대로 된 요리네요…. 아! 제가 너무 많이 먹었나요?",
+      "en": "Such authentic delicacies... Oh no! I think I might have eaten too much...",
+      "de": "Authentisches und leckeres Essen ... Aah! Habe ich schon zu viel gegessen?",
+      "es": "¡Qué manjar! ¿No habré comido demasiado?",
+      "fr": "C'est un tel délice... Oh non ! Je crois que j'ai trop mangé...",
+      "pt": "Que comida autêntica... Oh, não! Será que eu comi demais?",
+      "ru": "Настоящий деликатес... О нет! Кажется, я съела слишком много...",
+      "id": "Masakan ini otentik dan enak sekali ... Ah! Sepertinya aku sudah makan kebanyakan ya ....",
+      "th": "เป็นของที่อร่อยจริงเชียว... โอ๊ะ! ฉันกินเยอะไปหรือเปล่านะ?",
+      "vi": "Quả là món ăn ngon... Ah! Có phải tôi đã ăn quá nhiều rồi không?"
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其二",
+      "zht": "收到贈禮·其二",
+      "jp": "贈り物を受け取る·2",
+      "ko": "선물 획득·두 번째",
+      "en": "Receiving a Gift: II",
+      "de": "Geschenk erhalten II",
+      "es": "Al recibir un regalo (II)",
+      "fr": "Cadeau reçu (2)",
+      "pt": "Recebendo Presentes — II",
+      "ru": "Подарок II",
+      "id": "Menerima Hadiah: II",
+      "th": "ได้รับของขวัญ - 2",
+      "vi": "Nhận Được Quà II"
+    },
+    "line": {
+      "zhs": "我在饮食方面还挺挑剔的，让你费心了…",
+      "zht": "#我在飲食方面還挺挑剔的，讓{F#妳}{M#你}費心了…",
+      "jp": "食事に関してはかなり気を遣っているため、あなたの手を煩わせてしまいましたね…",
+      "ko": "제가 먹는 거에 많이 까다로운 편인데, 정말 고생하셨어요…",
+      "en": "I'm somewhat of a picky eater, sorry you went to all this trouble...",
+      "de": "Ich bin ziemlich pingelig, wenn es ums Essen geht, also tut es mir leid, dass du Bemühungen hast ...",
+      "es": "Soy muy quisquillosa con la comida, siento las molestias causadas...",
+      "fr": "Je suis plutôt exigeante en matière de nourriture, excusez-moi...",
+      "pt": "Eu sou um pouco exigente, desculpe por ter lhe dado tanto trabalho...",
+      "ru": "Прости, я довольно привередлива в еде...",
+      "id": "Aku cukup pilih-pilih soal makanan, maaf jadi merepotkanmu ....",
+      "th": "ฉันค่อนข้างจู้จี้จุกจิกเรื่องกินน่ะ ทำให้เธอลำบากซะแล้ว...",
+      "vi": "Tôi khá kén chọn trong việc ăn uống, khiến bạn uổng công rồi..."
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其三",
+      "zht": "收到贈禮·其三",
+      "jp": "贈り物を受け取る·3",
+      "ko": "선물 획득·세 번째",
+      "en": "Receiving a Gift: III",
+      "de": "Geschenk erhalten III",
+      "es": "Al recibir un regalo (II)",
+      "fr": "Cadeau reçu (3)",
+      "pt": "Recebendo Presentes — III",
+      "ru": "Подарок III",
+      "id": "Menerima Hadiah: III",
+      "th": "ได้รับของขวัญ - 3",
+      "vi": "Nhận Được Quà III"
+    },
+    "line": {
+      "zhs": "我明白你的好意，但油荤…还是算了。",
+      "zht": "#我明白{F#妳}{M#你}的好意，但油葷…還是算了。",
+      "jp": "お気持ちは受け取りますが、お肉は…遠慮しておきます。",
+      "ko": "마음은 알겠어요. 하지만 기름진 음식은… 사양할게요",
+      "en": "I appreciate the thought, but... meat's not really my thing.",
+      "de": "Ich verstehe deine guten Absichten, aber Fleisch und Öl ... Vergessen wir das.",
+      "es": "Sé que tienes buenas intenciones, pero este trozo de carne grasienta... Bueno, da igual.",
+      "fr": "Votre intention est bonne, mais c'est de la viande... Tant pis.",
+      "pt": "Aprecio suas intenções, mas... realmente não gosto de carne.",
+      "ru": "Ценю твои намерения, но... мясо всё же не по мне.",
+      "id": "Niatmu aku terima, tapi ... aku tidak makan daging. Maaf ya.",
+      "th": "ฉันซาบซึ้งในน้ำใจของเธอนะ แต่พวกเนื้อมันเยิ้มล่ะก็... อย่าเลยดีกว่า",
+      "vi": "Tôi hiểu ý tốt của bạn, nhưng các món ăn dầu mỡ... thì tôi xin phép."
+    }
+  },
+  {
+    "title": {
       "zhs": "生日…",
       "zht": "生日…",
       "jp": "誕生日…",

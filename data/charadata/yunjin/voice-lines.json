@@ -171,7 +171,7 @@
       "fr": "Quand il neige...",
       "pt": "Quando Está Nevando...",
       "ru": "Когда идёт снег...",
-      "id": "Saat Salju Turun",
+      "id": "Waktu Turun Salju",
       "th": "ในเวลาที่หิมะตก...",
       "vi": "Khi tuyết rơi..."
     },
@@ -311,7 +311,7 @@
       "en": "Let's go listen to tonight's storytelling performance together. Liu Su's rendition of \"Ring of Raining Blades\" is most sublime!",
       "de": "Lasst uns heute Abend gemeinsam die Aufführung des Geschichtenerzählens anhören. Liu Sus Darbietung von „Schnitte im rauschenden Regen“ ist wirklich großartig!",
       "es": "Vayamos esta noche a escuchar al cuentacuentos. ¡La interpretación de «Lluvia de cuchillas» que hace Liu Su es absolutamente sublime!",
-      "fr": "#Allons écouter le conteur ce soir{NON_BREAK_SPACE}! L'interprétation des «{NON_BREAK_SPACE}Chroniques des Lames de Pluie{NON_BREAK_SPACE}» de Liu Su en vaut le détour{NON_BREAK_SPACE}!",
+      "fr": "#Allons écouter le conteur ce soir{NON_BREAK_SPACE}! L'interprétation des «{NON_BREAK_SPACE}Chroniques des lames de pluie{NON_BREAK_SPACE}» de Liu Su en vaut le détour{NON_BREAK_SPACE}!",
       "pt": "#Vamos ouvir junt{F#as}{M#os} a apresentação desta noite de contos. A interpretação de Liu Su da \"Chuva de Lâmina\" é fantástica!",
       "ru": "Давай сегодня сходим и послушаем рассказчиков. «Дождь клинков» в исполнении господина Лю Су неповторим.",
       "id": "Mari kita dengarkan bersama pertunjukan dongeng malam ini. Cara Liu Su membawakan \"Suara Hujan Pedang\" adalah yang paling indah!",
@@ -1149,6 +1149,102 @@
       "id": "Setiap hari selalu ... makan Stir-Fried Shrimp, lagi dan lagi. Entah bagaimana mereka memasaknya, rasanya selalu saja sama. Ugh, mengerikan! Aku benar-benar tidak tahan lagi ....",
       "th": "วัน ๆ ได้กินแต่ Stir-Fried Shrimp แต่ละวันก็มีอยู่แค่นี้... ไม่ว่าจะทำยังไงก็มีรสชาติแบบนั้นอยู่ดี ฉันกินจนเอียนแล้วล่ะ",
       "vi": "Ngày nào cũng là Tôm Nõn Xào, ngày nào cũng vậy... có làm thế nào thì cũng là mùi vị đó, tôi thật sự ăn tới ngán rồi."
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其一",
+      "zht": "收到贈禮·其一",
+      "jp": "贈り物を受け取る·1",
+      "ko": "선물 획득·첫 번째",
+      "en": "Receiving a Gift: I",
+      "de": "Geschenk erhalten I",
+      "es": "Al recibir un regalo (I)",
+      "fr": "Cadeau reçu (1)",
+      "pt": "Recebendo Presentes — I",
+      "ru": "Подарок I",
+      "id": "Menerima Hadiah: I",
+      "th": "ได้รับของขวัญ - 1",
+      "vi": "Nhận Được Quà I"
+    },
+    "line": {
+      "zhs": "美食，总会让人倍感幸福…可惜只能点到为止，不能再多吃了。",
+      "zht": "美食，總會讓人備感幸福…可惜只能點到為止，不能再多吃了。",
+      "jp": "美味しい料理は、いつも幸せな気分にしてくれます…ただ残念なことに、食事の制限があるためこれ以上は食べられませんが。",
+      "ko": "맛있는 요리를 먹으면 정말 행복해요…. 과식하면 안 되니까, 아쉽지만 그만 먹어야겠어요",
+      "en": "Mmm! There's no better feeling than indulging in your favorite food... It's a shame that I can only afford to have a little bite.",
+      "de": "Gutes Essen macht immer glücklich ... Leider kann man nur so viel essen und nicht mehr.",
+      "es": "La comida hace feliz a la gente... Es una pena que deba parar aquí, no puedo comer nada más.",
+      "fr": "Quel mets raffiné. La nourriture rend les gens heureux... Dommage que je doive m'arrêter là, je ne peux rien manger d'autre.",
+      "pt": "Hmm! Não há sensação melhor do que se deliciar com sua comida favorita... É uma pena que eu só posso comer um pouco...",
+      "ru": "Ммм! Нет ничего лучше, чем насладиться любимой едой... Жаль, что я могу позволить себе только маленький кусочек.",
+      "id": "Mmm! Tidak ada perasaan yang lebih menyenangkan daripada makan makanan kesukaan sendiri ... tapi sayang aku tidak boleh makan banyak-banyak.",
+      "th": "อาหารเลิศรสทำให้คนมีความสุขได้เสมอ... เสียดายที่กินได้แค่นี้ กินเยอะไปกว่านี้ไม่ได้แล้วล่ะ",
+      "vi": "Thức ăn ngon luôn có thể khiến con người ta cảm thấy vui vẻ hơn... Tiếc là tôi không thể ăn thêm được nữa."
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其二",
+      "zht": "收到贈禮·其二",
+      "jp": "贈り物を受け取る·2",
+      "ko": "선물 획득·두 번째",
+      "en": "Receiving a Gift: II",
+      "de": "Geschenk erhalten II",
+      "es": "Al recibir un regalo (II)",
+      "fr": "Cadeau reçu (2)",
+      "pt": "Recebendo Presentes — II",
+      "ru": "Подарок II",
+      "id": "Menerima Hadiah: II",
+      "th": "ได้รับของขวัญ - 2",
+      "vi": "Nhận Được Quà II"
+    },
+    "line": {
+      "zhs": "看着就很丰盛！稍等，我去找些饮品来，配着饭菜一起享用吧。",
+      "zht": "看著就很豐盛！稍等，我去找些飲品來，配著飯菜一起享用吧。",
+      "jp": "豪華な料理ですね！少しお待ちください、私が飲み物を持ってきます。料理と一緒にいただきましょう。",
+      "ko": "정말 푸짐하군요! 마실 걸 가져올 테니, 요리랑 같이 즐겨요",
+      "en": "Oh, what a magnificent feast! Wait a second, I'll grab us some drinks to accompany the meal.",
+      "de": "Das sieht köstlich aus! Einen Moment noch, während ich ein paar Getränke für das Essen besorge.",
+      "es": "¡Cuánta comida! Voy a traer algunas bebidas para acompañar.",
+      "fr": "Ça semble copieux ! Attends, je vais chercher des boissons pour accompagner ce plat.",
+      "pt": "Oh, que gosto magnífico! Espere, eu pegarei algumas bebidas para acompanhar a refeição.",
+      "ru": "Ох, настоящий пир! Подожди минутку, я принесу напитки!",
+      "id": "Wah, benar-benar makanan menakjubkan! Tunggu ya, kucari minuman yang cocok untuk dikombinasikan dengan makanan ini dulu.",
+      "th": "ดูอลังการมากเลย! รอเดี๋ยวนะ ฉันไปหาเครื่องดื่มมากินกับอาหารนี้สักหน่อยดีกว่า",
+      "vi": "Trông thật phong phú! Đợi chút, tôi đi tìm chút đồ uống để thưởng thức cùng món ăn."
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其三",
+      "zht": "收到贈禮·其三",
+      "jp": "贈り物を受け取る·3",
+      "ko": "선물 획득·세 번째",
+      "en": "Receiving a Gift: III",
+      "de": "Geschenk erhalten III",
+      "es": "Al recibir un regalo (II)",
+      "fr": "Cadeau reçu (3)",
+      "pt": "Recebendo Presentes — III",
+      "ru": "Подарок III",
+      "id": "Menerima Hadiah: III",
+      "th": "ได้รับของขวัญ - 3",
+      "vi": "Nhận Được Quà III"
+    },
+    "line": {
+      "zhs": "不好意思…这道菜肴呀，我是吃不了多少的。",
+      "zht": "不好意思…這道菜餚呀，我是吃不了多少的。",
+      "jp": "すみません…この料理は、あまり食べられそうにありません。",
+      "ko": "죄송하지만… 이 음식은 많이 못 먹겠어요",
+      "en": "I'm sorry... This meal isn't really agreeing with me.",
+      "de": "Tut mir leid ... Ich kann nicht viel von diesem Gericht essen.",
+      "es": "Lo siento mucho. Este plato... no es de mi agrado.",
+      "fr": "Désolée... Je ne peux pas beaucoup en manger.",
+      "pt": "Me desculpe... Mas não estou me dando bem com essa comida.",
+      "ru": "Прости... Эта еда мне не подходит.",
+      "id": "Maaf ya ... Makanan ini kurang cocok untukku.",
+      "th": "ขอโทษด้วยนะ... อาหารจานนี้ ฉันคงกินได้ไม่มากเท่าไหร่",
+      "vi": "Thực xin lỗi... Tôi không thể ăn món này nhiều."
     }
   },
   {

@@ -1121,6 +1121,102 @@
   },
   {
     "title": {
+      "zhs": "收到赠礼·其一",
+      "zht": "收到贈禮·其一",
+      "jp": "贈り物を受け取る·1",
+      "ko": "선물 획득·첫 번째",
+      "en": "Receiving a Gift: I",
+      "de": "Geschenk erhalten I",
+      "es": "Al recibir un regalo (I)",
+      "fr": "Cadeau reçu (1)",
+      "pt": "Recebendo Presentes — I",
+      "ru": "Подарок I",
+      "id": "Menerima Hadiah: I",
+      "th": "ได้รับของขวัญ - 1",
+      "vi": "Nhận Được Quà I"
+    },
+    "line": {
+      "zhs": "气味很香，味道一样好。喜欢。",
+      "zht": "氣味很香，味道一樣好。喜歡。",
+      "jp": "匂いがいい、味もいい。好き。",
+      "ko": "향도 좋고, 맛도 좋아. 마음에 들어",
+      "en": "Smells good, also tastes good, I like it.",
+      "de": "Riecht gut und schmeckt ebenso gut. Hat mir gefallen.",
+      "es": "Oler bien y saber bien. Me gusta.",
+      "fr": "Ça sent bon, c'est délicieux. J'aime.",
+      "pt": "Cheira bem, e o gosto é bom, gostei.",
+      "ru": "Запах хороший. Вкус хороший. Мне нравится.",
+      "id": "Wangi, enak, aku suka.",
+      "th": "กลิ่นหอม รสชาติก็ดี ฉันชอบ",
+      "vi": "Mùi thơm, hương vị cũng ngon. Rất thích."
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其二",
+      "zht": "收到贈禮·其二",
+      "jp": "贈り物を受け取る·2",
+      "ko": "선물 획득·두 번째",
+      "en": "Receiving a Gift: II",
+      "de": "Geschenk erhalten II",
+      "es": "Al recibir un regalo (II)",
+      "fr": "Cadeau reçu (2)",
+      "pt": "Recebendo Presentes — II",
+      "ru": "Подарок II",
+      "id": "Menerima Hadiah: II",
+      "th": "ได้รับของขวัญ - 2",
+      "vi": "Nhận Được Quà II"
+    },
+    "line": {
+      "zhs": "吃了有力气，很开心。",
+      "zht": "吃了有力氣，很開心。",
+      "jp": "食うと、力が出る、嬉しい。",
+      "ko": "먹으니까 기운 나. 행복해",
+      "en": "Eating this gives me energy, makes me happy.",
+      "de": "Dies zu essen, gibt mir Energie und macht mich glücklich.",
+      "es": "Comerlo darme fuerzas y estar feliz.",
+      "fr": "Manger donne des forces, je suis content.",
+      "pt": "Comer esse prato me deu energia e me deixou feliz.",
+      "ru": "Еда даёт энергию. Приносит счастье.",
+      "id": "Makan, tambah tenaga. Senang.",
+      "th": "กินแล้วมีพลัง ฉันมีความสุข",
+      "vi": "Ăn vào có sức. Rất vui."
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其三",
+      "zht": "收到贈禮·其三",
+      "jp": "贈り物を受け取る·3",
+      "ko": "선물 획득·세 번째",
+      "en": "Receiving a Gift: III",
+      "de": "Geschenk erhalten III",
+      "es": "Al recibir un regalo (II)",
+      "fr": "Cadeau reçu (3)",
+      "pt": "Recebendo Presentes — III",
+      "ru": "Подарок III",
+      "id": "Menerima Hadiah: III",
+      "th": "ได้รับของขวัญ - 3",
+      "vi": "Nhận Được Quà III"
+    },
+    "line": {
+      "zhs": "吃，不好。不吃，不好。有些难过。",
+      "zht": "吃，不好。不吃，不好。有些難過。",
+      "jp": "食う、よくない。食わない、よくない。少し悲しい。",
+      "ko": "먹는 것도 싫고, 안 먹는 것도 싫어. 좀 슬퍼졌어",
+      "en": "Eating it, bad. Not eating it, also bad. I'm a bit sad.",
+      "de": "Essen, nicht gut. Nicht essen, nicht gut. Etwas traurig.",
+      "es": "Comer, no bueno. No comer, no bueno. Razor triste...",
+      "fr": "Si je mange, pas bon. Si je ne mange pas, pas bon non plus. C'est triste.",
+      "pt": "Comer, não é bom. Não comer, também não é bom. Que triste.",
+      "ru": "Есть - плохо. Не есть - плохо. Грустно.",
+      "id": "Makan, salah. Tidak makan, salah juga. Sedih.",
+      "th": "กิน ไม่ดี ไม่กิน ก็ไม่ดี เศร้าจัง",
+      "vi": "Ăn, không ngon. Không ăn, không ngon. Hơi buồn."
+    }
+  },
+  {
+    "title": {
       "zhs": "生日…",
       "zht": "生日…",
       "jp": "誕生日…",

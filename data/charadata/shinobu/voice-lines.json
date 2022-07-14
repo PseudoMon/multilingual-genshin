@@ -1153,6 +1153,102 @@
   },
   {
     "title": {
+      "zhs": "收到赠礼·其一",
+      "zht": "收到贈禮·其一",
+      "jp": "贈り物を受け取る·1",
+      "ko": "선물 획득·첫 번째",
+      "en": "Receiving a Gift: I",
+      "de": "Geschenk erhalten I",
+      "es": "Al recibir un regalo (I)",
+      "fr": "Cadeau reçu (1)",
+      "pt": "Recebendo Presentes — I",
+      "ru": "Подарок I",
+      "id": "Menerima Hadiah: I",
+      "th": "ได้รับของขวัญ - 1",
+      "vi": "Nhận Được Quà I"
+    },
+    "line": {
+      "zhs": "真不简单。咳…我就再多吃一口。",
+      "zht": "真不簡單。咳…我就再多吃一口。",
+      "jp": "なかなかの腕前だ。こほん…もう一口いただこう。",
+      "ko": "제법이네. 크흠… 한 입만 더 먹을게",
+      "en": "This is truly exceptional. Ehem... I'll just have another bite.",
+      "de": "Das ist wirklich außergewöhnlich. Ähem ... Ich werde noch einen Bissen nehmen.",
+      "es": "¡Todo un manjar! *Ejem*... Le daré otro bocado.",
+      "fr": "C'est vraiment exceptionnel. Ahem... Je vais juste prendre une autre bouchée.",
+      "pt": "Muito requintado. *Cof*... Eu vou dar mais uma mordida.",
+      "ru": "Поистине исключительно. Я попробую ещё чуть-чуть.",
+      "id": "Ini benar-benar menakjubkan. Ehem ... Aku akan makan sesuap lagi.",
+      "th": "ไม่ธรรมดาเลยนะเนี่ย อะแฮ่ม... ฉันขอกินอีกสักคำก็แล้วกัน",
+      "vi": "Thật không đơn giản. Hừm... tôi ăn thêm nữa nhé."
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其二",
+      "zht": "收到贈禮·其二",
+      "jp": "贈り物を受け取る·2",
+      "ko": "선물 획득·두 번째",
+      "en": "Receiving a Gift: II",
+      "de": "Geschenk erhalten II",
+      "es": "Al recibir un regalo (II)",
+      "fr": "Cadeau reçu (2)",
+      "pt": "Recebendo Presentes — II",
+      "ru": "Подарок II",
+      "id": "Menerima Hadiah: II",
+      "th": "ได้รับของขวัญ - 2",
+      "vi": "Nhận Được Quà II"
+    },
+    "line": {
+      "zhs": "你做的？嗯…这种水平去考个厨师证应该绰绰有余。",
+      "zht": "#{F#妳}{M#你}做的？嗯…這種水準去考個廚師證應該綽綽有餘。",
+      "jp": "あんたが作ったのか？うん…この腕前なら料理人の資格を取るのに十分だろう。",
+      "ko": "네가 만들었어? 음… 이 정도 실력이면 요리사 자격증도 충분히 따겠네",
+      "en": "Did you make this? Hmm... you're more than qualified to be a chef.",
+      "de": "Hast du das gemacht? Hm ... Das ist mehr als genug, um ein Zertifikat als Koch zu bekommen.",
+      "es": "¿Lo has hecho tú? Bueno... debería ser más que suficiente para conseguir un certificado de chef.",
+      "fr": "#C'est toi qui as préparé ça ? Hmm... Tu as tout le talent requis pour être {M#chef}{F#cheffe}.",
+      "pt": "Foi você que fez? Uma habilidade como essa é mais do que suficiente para obter um título de chef.",
+      "ru": "#Ты сам{F#а} готовил{F#а}? Тебе можно смело становиться поваром.",
+      "id": "Kamu yang buat? Hmm ... Kamu sangat layak menjadi seorang koki.",
+      "th": "คุณทำเองเหรอ? อืม... ฝีมือขนาดนี้ไปสอบใบประกอบวิชาชีพเชฟได้สบาย ๆ เลยนะ",
+      "vi": "Của bạn làm sao? Ừm... có thể đi thi lấy bằng rồi đấy."
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其三",
+      "zht": "收到贈禮·其三",
+      "jp": "贈り物を受け取る·3",
+      "ko": "선물 획득·세 번째",
+      "en": "Receiving a Gift: III",
+      "de": "Geschenk erhalten III",
+      "es": "Al recibir un regalo (II)",
+      "fr": "Cadeau reçu (3)",
+      "pt": "Recebendo Presentes — III",
+      "ru": "Подарок III",
+      "id": "Menerima Hadiah: III",
+      "th": "ได้รับของขวัญ - 3",
+      "vi": "Nhận Được Quà III"
+    },
+    "line": {
+      "zhs": "我直说吧，你是不是放错调料了？",
+      "zht": "#我直說吧，{F#妳}{M#你}是不是放錯調味料了？",
+      "jp": "率直に言うけど、あんた、調味料を間違えたんじゃないか？",
+      "ko": "솔직히 물어볼게. 조미료 잘못 넣은 거 아니야?",
+      "en": "Honestly, did you use the wrong seasonings?",
+      "de": "Mal ehrlich, hast du die falschen Gewürze verwendet?",
+      "es": "Seré sincera. Me da la impresión de que te has equivocado con los condimentos.",
+      "fr": "#Franchement, tu t'es {M#trompé}{F#trompée} d'assaisonnement ?",
+      "pt": "Eu vou ser direta: você colocou o condimento errado?",
+      "ru": "#Прямо скажу, ты не те приправы положил{F#а}, что ли?",
+      "id": "Aku jujur saja ya, apa kamu salah taruh bumbu?",
+      "th": "ฉันขอพูดตามตรงก็แล้วกันนะ คุณใส่เครื่องปรุงผิดไปรึเปล่า?",
+      "vi": "Tôi hỏi thẳng nhé, bạn cho nhầm gia vị vào rồi đúng không?"
+    }
+  },
+  {
+    "title": {
       "zhs": "生日…",
       "zht": "生日…",
       "jp": "誕生日…",

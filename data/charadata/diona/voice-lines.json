@@ -44,7 +44,7 @@
       "pt": "Bate-papo - Relaxamento",
       "ru": "Поболтаем: Отдых",
       "id": "Berbincang: Santai",
-      "th": "แชท-ผ่อนคลาย",
+      "th": "แชท - ผ่อนคลาย",
       "vi": "Nói chuyện phiếm - Thảnh thơi"
     },
     "line": {
@@ -1145,7 +1145,7 @@
       "es": "¿Que cómo se convirtió la asesina de la industria del vino en la estrella de la Taberna Cola de Gato? ¿Me lo preguntas para reírte de mí? ¡Hum! ¡Eres mala persona! No te prepararé ninguna bebida nunca más, ni siquiera agua.",
       "fr": "« Comment celle qui veut mettre à bas l'industrie du vin est devenue la mascotte de La Queue de Chat ? » T—Tu demandes ça juste pour te moquer, c'est ça ? Tu es terrible ! Plus de boissons pour toi, même pas un verre d'eau ! Hmph !",
       "pt": "\"Como a Destruidora da Indústria do Vinho se tornou a mascote da Cauda do Gato..\"? Vo-Você está perguntando isso só para fazer graça de mim! Ohh, você é terrível! Eu NUNCA mais lhe darei uma bebida, nem mesmo um copo de água. Hunf!",
-      "ru": "#Ты спрашиваешь, как Конец винной индустрии превратилась в символ «Кошкиного хвоста»?.. Ты... Ты нарочно спрашиваешь, чтобы посмеяться, да?! Ах ты, негодяй{F#кa}! Не буду больше делать для тебя напитки, даже воды не дам!",
+      "ru": "#Ты спрашиваешь, как Конец винной индустрии превратилась в символ «Кошкиного хвоста»?.. Ты... Ты нарочно спрашиваешь, чтобы посмеяться, да?! Ах ты, негодяй{F#кa}! Не буду больше делать для тебя напитки, даже воды не дам! Пф-ф!",
       "id": "Kamu bingung kenapa Sang Penghancur Industri Anggur malah menjadi maskot Cat's Tail...? Kamu, kamu sengaja bertanya seperti itu untuk mempermalukanku ya?! Dasar jahat! Aku tidak akan memberikanmu minuman lagi, setetes air pun tidak!",
       "th": "เธอถามฉัน... ว่าทำไม Wine Industry Slayer ถึงกลายมาเป็นร้านเหล้า Cat's Tail ได้น่ะเหรอ...? ธะ เธอตั้งใจถามแบบนี้เพื่อเยาะเย้ยฉันสินะ! เชอะ เจ้าคนเลว! จะไม่ผสมเหล้าให้เธออีกแล้ว น้ำก็ไม่ให้ด้วย!",
       "vi": "Bạn muốn biết... tại sao biển hiệu \"Sát thủ ngành rượu\" lại biến thành \"Quán Rượu Đuôi Mèo\"...? Bạn, bạn cố ý hỏi như vậy, chính là muốn chê cười tôi hả. Hừ, xấu xa! Không pha đồ uống cho bạn nữa, nước cũng không cho!"
@@ -1341,6 +1341,102 @@
       "id": "Wortel, kentang, daun bawang, tomat... Aku tidak suka sayur-sayur ini. Lebih tepatnya, aku tidak suka semua sayur!",
       "th": "แครอท, มันฝรั่ง, หัวหอม, มะเขือเทศ... ฉันไม่ค่อยชอบรสชาติพวกนี้เท่าไหร่ ฉะ ฉันไม่ได้กินมังสวิรัตินะ!",
       "vi": "Cà rốt, khoai tây, hành tây, cà chua... tôi không thích những vị này. Tôi, tôi không phải là người ăn chay!"
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其一",
+      "zht": "收到贈禮·其一",
+      "jp": "贈り物を受け取る·1",
+      "ko": "선물 획득·첫 번째",
+      "en": "Receiving a Gift: I",
+      "de": "Geschenk erhalten I",
+      "es": "Al recibir un regalo (I)",
+      "fr": "Cadeau reçu (1)",
+      "pt": "Recebendo Presentes — I",
+      "ru": "Подарок I",
+      "id": "Menerima Hadiah: I",
+      "th": "ได้รับของขวัญ - 1",
+      "vi": "Nhận Được Quà I"
+    },
+    "line": {
+      "zhs": "好吃…我，我就随便问一下哦，下次还有吗？",
+      "zht": "好吃…我，我就隨便問一下喔，下次還有嗎？",
+      "jp": "美味しい…その、ただ聞いてみるだけだけど、また作ってくれる？",
+      "ko": "맛있다…. 그, 그냥 물어보는 건데, 다음에도 해줄 수 있어?",
+      "en": "Mmm! I just wanna ask you this... Will you bring more of it next time?",
+      "de": "Lecker! Ich frage nur ... Gibt es dies das nächste Mal auch?",
+      "es": "Qué rico... Oye, una pregunta. ¿Cocinarás para mí otra vez?",
+      "fr": "C'est bon... Je... Je demande juste comme ça, mais tu m'en referas une prochaine fois ?",
+      "pt": "Hmm, que delícia... Eu só quero fazer uma pergunta... Poderia trazer mais na próxima vez?",
+      "ru": "Как вкусно! Я... я хотела спросить... А ты потом принесёшь ещё немного?",
+      "id": "Enak ... A-Aku cuma iseng tanya yah, besok-besok kamu bakal bawa lagi enggak ya?",
+      "th": "อร่อย... ฉะ ฉันขอถามหน่อยสิ รอบหน้าจะมีอีกมั้ย?",
+      "vi": "Rất ngon... tôi, tôi muốn hỏi một câu, lần sau bạn sẽ lại nấu cho tôi nhé?"
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其二",
+      "zht": "收到贈禮·其二",
+      "jp": "贈り物を受け取る·2",
+      "ko": "선물 획득·두 번째",
+      "en": "Receiving a Gift: II",
+      "de": "Geschenk erhalten II",
+      "es": "Al recibir un regalo (II)",
+      "fr": "Cadeau reçu (2)",
+      "pt": "Recebendo Presentes — II",
+      "ru": "Подарок II",
+      "id": "Menerima Hadiah: II",
+      "th": "ได้รับของขวัญ - 2",
+      "vi": "Nhận Được Quà II"
+    },
+    "line": {
+      "zhs": "你可别指望我尝了点甜头，就会来蹭你…",
+      "zht": "#{F#妳}{M#你}可別指望我嚐了點甜頭，就會來蹭{F#妳}{M#你}…",
+      "jp": "美味しいものを食べさせてくれたからって、あたしがすりすりするとか思ってないよね…",
+      "ko": "네가 맛있는 것 좀 줬다고 내가 애교부릴 거란 생각은 마…",
+      "en": "I'll admit, that was pretty sweet... but that doesn't mean I haven't had sweeter.",
+      "de": "Du erwartest doch nicht, dass ich dich deswegen wie eine Katze streichle ...",
+      "es": "No te creas que, por darme comida, voy a dejar que me acaricies...",
+      "fr": "Ne crois pas pouvoir m'amadouer avec de la bonne nourriture...",
+      "pt": "Não pense que por me dar comida vou deixar você me acariciar...",
+      "ru": "Признаю, было довольно вкусно... Но не жди от меня дифирамбов.",
+      "id": "Kuakui, makanannya lumayan manis sih ... tapi bukan berarti aku belum pernah makan yang lebih enak.",
+      "th": "อย่าคิดว่าพอได้ชิมของอร่อยแล้ว ฉันจะหลงกลคุณนะ...",
+      "vi": "Bạn đừng tưởng rằng cho tôi nếm một chút ngọt ngào, là tôi liền đến cạ vào người bạn đấy..."
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其三",
+      "zht": "收到贈禮·其三",
+      "jp": "贈り物を受け取る·3",
+      "ko": "선물 획득·세 번째",
+      "en": "Receiving a Gift: III",
+      "de": "Geschenk erhalten III",
+      "es": "Al recibir un regalo (II)",
+      "fr": "Cadeau reçu (3)",
+      "pt": "Recebendo Presentes — III",
+      "ru": "Подарок III",
+      "id": "Menerima Hadiah: III",
+      "th": "ได้รับของขวัญ - 3",
+      "vi": "Nhận Được Quà III"
+    },
+    "line": {
+      "zhs": "喂…你是把我当成路边的野猫了吗！",
+      "zht": "#喂…{F#妳}{M#你}是把我當成路邊的野貓了嗎！",
+      "jp": "もう…あたしは道端の野良猫じゃにゃいんだからね！",
+      "ko": "이봐… 너 지금 날 길고양이 취급하는 거야?!",
+      "en": "Hey... What do you take me for, some sort of stray cat!?",
+      "de": "He ... Behandelst du mich wie eine wilde Katze am Straßenrand!?",
+      "es": "Oye, ¿me tomas por un gato abandonado o qué?",
+      "fr": "Je suis un chat de gouttière pour toi ou quoi ?!",
+      "pt": "Ei! O que você acha que eu sou? Uma gata de rua?!",
+      "ru": "Эй... Ты за кого меня держишь, за уличную кошку?!",
+      "id": "Heh, kamu kira aku ini kucing liar???",
+      "th": "เฮ้... คุณเห็นฉันเป็นแมวจรจัดข้างถนนรึไง!",
+      "vi": "Này... có phải bạn xem tôi là mèo hoang rồi không!"
     }
   },
   {

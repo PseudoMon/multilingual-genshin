@@ -1249,6 +1249,102 @@
   },
   {
     "title": {
+      "zhs": "收到赠礼·其一",
+      "zht": "收到贈禮·其一",
+      "jp": "贈り物を受け取る·1",
+      "ko": "선물 획득·첫 번째",
+      "en": "Receiving a Gift: I",
+      "de": "Geschenk erhalten I",
+      "es": "Al recibir un regalo (I)",
+      "fr": "Cadeau reçu (1)",
+      "pt": "Recebendo Presentes — I",
+      "ru": "Подарок I",
+      "id": "Menerima Hadiah: I",
+      "th": "ได้รับของขวัญ - 1",
+      "vi": "Nhận Được Quà I"
+    },
+    "line": {
+      "zhs": "哦！这味道好棒，看不出来，你真有两下子啊。",
+      "zht": "#喔！這味道好棒，看不出來，{F#妳}{M#你}真有兩下子啊。",
+      "jp": "ほう、実にいい味だ。お前にこんな特技があったとはな。",
+      "ko": "오! 맛있는데? 이런 실력이 있는지 몰랐어",
+      "en": "Ho! This is quite exceptional... You are full of surprises.",
+      "de": "Oh! Es schmeckt so gut. Ich wusste nicht, dass du so gut kochen kannst.",
+      "es": "#¡Vaya! Esto es excepcional. Estás llen{F#a}{M#o} de sorpresas.",
+      "fr": "Oh ! Quel délice ! On ne dirait pas, mais tu as plus d'un tour dans ton sac.",
+      "pt": "Oh! Estava excelente! Você é realmente uma caixinha de surpresas.",
+      "ru": "#Ого, исключительный вкус! Да ты {F#полна}{M#полон} сюрпризов.",
+      "id": "Waduh! Enak banget. Kamu memang penuh kejutan ya.",
+      "th": "อื้ม! รสชาติดีเลย คาดไม่ถึงเลย เธอนี่ไม่ธรรมดาเลยจริง ๆ",
+      "vi": "Wa! Hương vị thật tuyệt, có thể thấy bạn rất có bản lĩnh đấy!"
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其二",
+      "zht": "收到贈禮·其二",
+      "jp": "贈り物を受け取る·2",
+      "ko": "선물 획득·두 번째",
+      "en": "Receiving a Gift: II",
+      "de": "Geschenk erhalten II",
+      "es": "Al recibir un regalo (II)",
+      "fr": "Cadeau reçu (2)",
+      "pt": "Recebendo Presentes — II",
+      "ru": "Подарок II",
+      "id": "Menerima Hadiah: II",
+      "th": "ได้รับของขวัญ - 2",
+      "vi": "Nhận Được Quà II"
+    },
+    "line": {
+      "zhs": "配上美酒，会变得更美味吧。",
+      "zht": "配上美酒，會變得更美味吧。",
+      "jp": "美酒も一緒なら、もっと美味くなるだろう。",
+      "ko": "술이랑 같이 먹으면 더 맛있을 거야",
+      "en": "You should serve this with wine, it would really add the finishing touch.",
+      "de": "Mit einem guten Wein wird es noch köstlicher, oder?",
+      "es": "Deberías servir esto con vino, le daría el toque perfecto.",
+      "fr": "Ce serait parfait avec un bon vin.",
+      "pt": "Se acompanhássemos com um bom vinho, ficaria ainda melhor.",
+      "ru": "Стоит подавать с вином, будет ещё лучше.",
+      "id": "Makannya ini minumnya anggur, pasti mantap tuh.",
+      "th": "ถ้าทานคู่กับไวน์ ต้องอร่อยยิ่งขึ้นกว่านี้อีกแน่เลย",
+      "vi": "Kết hợp với rượu ngon sẽ càng ngon hơn nữa."
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其三",
+      "zht": "收到贈禮·其三",
+      "jp": "贈り物を受け取る·3",
+      "ko": "선물 획득·세 번째",
+      "en": "Receiving a Gift: III",
+      "de": "Geschenk erhalten III",
+      "es": "Al recibir un regalo (II)",
+      "fr": "Cadeau reçu (3)",
+      "pt": "Recebendo Presentes — III",
+      "ru": "Подарок III",
+      "id": "Menerima Hadiah: III",
+      "th": "ได้รับของขวัญ - 3",
+      "vi": "Nhận Được Quà III"
+    },
+    "line": {
+      "zhs": "放心，我只是吃得慢了一点，我会好好吃完的。",
+      "zht": "放心，我只是吃得慢了一點，我會好好吃完的。",
+      "jp": "心配するな、ゆっくりと食べたいだけだ。もちろん、最後まで食べるさ。",
+      "ko": "먹는 게 좀 느려서 그렇지, 다 먹을 테니까 걱정 마",
+      "en": "I'm just a slow eater... I'll finish it, don't worry.",
+      "de": "Keine Sorge, ich esse nur ein bisschen langsamer, ich werde es schon schaffen.",
+      "es": "#Como muy despacio... Pero me lo terminaré, tranquil{F#a}{M#o}.",
+      "fr": "Ne t'inquiète pas. Je suis un peu lent, mais je vais finir de tout manger.",
+      "pt": "Não se preocupe, só estou comendo devagar, mas vou acabar tudo.",
+      "ru": "Я просто медленно ем... Не волнуйся, я обязательно съем всё.",
+      "id": "Aku kalau makan memang pelan-pelan ... Tapi pasti nanti bakal kuhabiskan. Janji.",
+      "th": "ไม่ต้องห่วง ฉันแค่กินช้าเฉย ๆ เดี๋ยวฉันจะกินให้หมดเลย",
+      "vi": "Yên tâm, tôi chỉ ăn hơi chậm thôi, lát tôi sẽ vét sạch đĩa mà."
+    }
+  },
+  {
+    "title": {
       "zhs": "生日…",
       "zht": "生日…",
       "jp": "誕生日…",
@@ -1401,7 +1497,7 @@
       "es": "#En un principio, tú y yo solo éramos compañeros de viaje. Nunca pensé que me ayudarías a llegar hasta este punto... Te lo pagaré, puedes estar segur{F#a}{M#o}. Sigamos con nuestro viaje, soci{F#a}{M#o}. Aún nos queda mucho por recorrer.",
       "fr": "#Nous étions censés n'être que de simples partenaires de voyage, alors je n'aurais jamais pensé que tu m'aiderais à en arriver là, merci. Je me dois de faire de même pour toi... Continuons notre chemin ensemble, mon {M#ami}{F#amie}.",
       "pt": "#Éramos apenas companheiros, nunca imaginei que você me ajudaria a chegar a esse ponto... Eu tenho que te responder bem. Vamos continuar, grande amig{F#a}{M#o}! Ainda há muitas incertezas à nossa frente.",
-      "ru": "#Мы ведь просто начали вместе путешествовать. Никогда не думал, что буду благодарен тебе за то, что ты {M#привёл}{F#привела} меня к этому моменту. Я должен ответить тебе тем же. Продолжим наш путь, дружище. Впереди нас ждёт долгий путь.",
+      "ru": "#Мы ведь просто начали вместе путешествовать. Никогда не думал, что буду благодарен тебе за то, что ты {M#привёл}{F#привела} меня к этому моменту. Я должен ответить тебе тем же. Продолжим наш путь, дружище. Впереди нас ждёт долгая дорога.",
       "id": "Padahal awalnya kita hanya teman kerja, tapi aku tidak menyangka bahwa kamu akan melakukan semua ini untukku... Karena itu, aku harus membalas kebaikanmu. Ayo kita lanjutkan perjalanannya, sahabat. Sudah saatnya kini untuk serius.",
       "th": "#แต่เดิมก็แค่การร่วมทางไปด้วยกัน ไม่คิดว่า{F#เธอ}{M#นาย}จะยอมทำให้ฉันถึง ขนาดนี้นะเนี่ย... ดูแล้วฉันคงต้องหาทางตอบแทน {F#เธอ}{M#นาย}บ้างล่ะนะ ออกเดินทางต่อกันเถอะคู่หู ได้เวลาเอาจริงกันแล้ว",
       "vi": "Vốn chỉ là đồng hành, không ngờ bạn lại làm điều này cho tôi... xem ra tôi cũng phải báo đáp bạn thật tốt mới được. Hãy tiếp tục hành trình của chúng ta, bạn thân mến, đã đến lúc phải nghiêm túc rồi."

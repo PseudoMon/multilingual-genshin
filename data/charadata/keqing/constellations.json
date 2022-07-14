@@ -28,7 +28,7 @@
       "ru": "При повторной активации навыка <color=#FFD780FF>Возвращение звезды</color>, когда на поле боя есть Громовой стилет, Кэ Цин в начальной и конечной точке своей телепортации наносит <color=#FFACFFFF>Электро урон по площади</color>, равный 50% от её силы атаки.",
       "id": "Saat Lightning Stiletto masih ada, dan <color=#FFD780FF>Stellar Restoration</color> diluncurkan kembali, akan menyebabkan 50% dari ATK Keqing menjadi <color=#FFACFFFF>Electro DMG area</color> pada titik awal dan titik akhir Blink.",
       "th": "เมื่อใช้ <color=#FFD780FF>Stellar Restoration</color> อีกครั้งระหว่างช่วงเวลาของ Lightning Stiletto จะสร้าง<color=#FFACFFFF>ความเสียหายไฟฟ้าวงกว้าง</color> 50% ของพลังโจมตี ในตำแหน่งที่ Keqing หายไปและปรากฏตัวขึ้น",
-      "vi": "Ở thời gian Đá Lôi tồn tại, khi thi triển <color=#FFD780FF>Tinh Đẩu Quy Vị</color> lần nữa, ở nơi Keqing biến mất và xuất hiện gây ra <color=#FFACFFFF>sát thương phạm vi Nguyên Tố Lôi</color> bằng 50% tấn công"
+      "vi": "Trong thời gian Đá Lôi tồn tại, khi thi triển <color=#FFD780FF>Tinh Đẩu Quy Vị</color> lần nữa, ở nơi Keqing biến mất và xuất hiện gây ra <color=#FFACFFFF>sát thương phạm vi nguyên tố Lôi</color> bằng 50% tấn công."
     },
     "imgid": "constellation_1"
   },
@@ -61,7 +61,7 @@
       "ru": "Попадания Кэ Цин по врагу с эффектом <color=#FFACFFFF>Электро</color> имеют 50% шанс создать элементальную частицу.\nМожет возникнуть раз в 5 сек.",
       "id": "Saat Normal dan Charged Attack Keqing mengenai musuh yang terkena efek <color=#FFACFFFF>Electro</color>, memiliki 50% persentase untuk menghasilkan Elemental Particle.\nEfek ini terpicu setiap 5 detik",
       "th": "เมื่อ Keqing โจมตีปกติและ ชาร์จโจมตีถูกศัตรูที่ได้รับ ผลกระทบของ<color=#FFACFFFF>ธาตุไฟฟ้า</color> มีโอกาส 50% ที่จะสร้างอณูธาตุ 1 ลูก เอฟเฟกต์นี้เกิดขึ้นได้หนึ่งครั้ง ในทุก 5 วินาที",
-      "vi": "Khi Keqing tấn công thường và trọng kích trúng kẻ địch bị ảnh hưởng bởi <color=#FFACFFFF>Nguyên Tố Lôi</color>, có tỷ lệ 50% tạo 1 Nguyên Tố Hạt Nhân.\nMỗi 5s mới có hiệu quả một lần."
+      "vi": "Khi Keqing tấn công thường và trọng kích trúng kẻ địch bị ảnh hưởng bởi <color=#FFACFFFF>Nguyên Tố Lôi</color>, có tỷ lệ 50% tạo 1 Nguyên Tố Hạt Nhân.\nHiệu quả này mỗi 5s chỉ kích hoạt 1 lần."
     },
     "imgid": "constellation_2"
   },
@@ -125,8 +125,8 @@
       "fr": "Lorsque Keqing déclenche une <color=#FFACFFFF>réaction liée à l'élément Électro</color>, son ATQ augmente de 25 % pendant 10 s.",
       "pt": "Por 10 segundos após Keqing acionar uma <color=#FFACFFFF>Reação Elemental relacionada com Electro</color>, seu ATQ é aumentado em 25%.",
       "ru": "При вызове <color=#FFACFFFF>Электро реакций</color> Кэ Цин увеличивает силу атаки на 25% в течение 10 сек.",
-      "id": "ATK Keqing meningkat 25% setelah Keqing memicu <color=#FFACFFFF>Reaksi Elemental yang berhubungan dengan elemen Electro</color> selama 10 detik.",
-      "th": "ภายใน 10 วินาทีหลังจาก Keqing ทำให้เกิด<color=#FFACFFFF>ปฏิกิริยาที่ เกี่ยวข้องกับธาตุไฟฟ้า</color> เพิ่มพลังโจมตีขึ้น 25%",
+      "id": "Setelah Keqing memicu <color=#FFACFFFF>Reaksi Elemental yang berhubungan dengan elemen Electro</color>, ATK Keqing meningkat 25% selama 10 detik.",
+      "th": "ภายใน 10 วินาที หลังจาก Keqing ทำให้เกิด<color=#FFACFFFF>ปฏิกิริยาที่เกี่ยวข้องกับธาตุไฟฟ้า</color> พลังโจมตีจะเพิ่มขึ้น 25%",
       "vi": "Trong vòng 10s sau khi Keqing kích hoạt <color=#FFACFFFF>phản ứng Nguyên Tố Lôi</color>, lực tấn công tăng 25%."
     },
     "imgid": "constellation_4"
@@ -193,7 +193,7 @@
       "ru": "При выполнении обычной или заряженной атаки, либо при активации элементального навыка или взрыва стихии Кэ Цин получает 6% <color=#FFACFFFF>бонус Электро урона</color> на 8 сек.\nЭффекты, вызванные обычной атакой, заряженной атакой, элементным навыком или взрывом стихии, существуют отдельно друг от друга.",
       "id": "Saat memulai Normal Attack, Charged Attack, Elemental Skill atau Elemental Burst, Keqing mendapatkan 6% <color=#FFACFFFF>Electro DMG Bonus</color> selama 8 detik.\nEfek yang terpicu oleh Normal Attack, Charged Attack, Elemental Skill dan Elemental Burst aktif secara independen.",
       "th": "เมื่อโจมตีปกติ, ชาร์จโจมตี, ใช้สกิลธาตุ หรือปล่อยท่าไม้ตาย Keqing จะได้รับ<color=#FFACFFFF>โบนัสความเสียหายไฟฟ้า</color> 6% เป็นเวลา 8 วินาที\nเอฟเฟกต์ที่เกิดจากโจมตีปกติ, ชาร์จโจมตี, ใช้สกิลธาตุ หรือปล่อยท่าไม้ตาย จะถูกคำนวณแยกกัน",
-      "vi": "Khi tấn công thường, trọng kích, thi triển kỹ năng nguyên tố hoặc kỹ năng nộ, Keqing sẽ nhận 6% <color=#FFACFFFF>buff sát thương Nguyên Tố Lôi</color>, kéo dài 8s.\nHiệu quả xuất phát từ tấn công thường, trọng kích, kỹ năng nguyên tố hoặc kỹ năng nộ tồn tại độc lập với nhau."
+      "vi": "Khi tấn công thường, trọng kích, thi triển kỹ năng nguyên tố hoặc kỹ năng nộ, Keqing sẽ nhận 6% <color=#FFACFFFF>buff sát thương nguyên tố Lôi</color>, kéo dài 8s.\nHiệu quả xuất phát từ tấn công thường, trọng kích, kỹ năng nguyên tố hoặc kỹ năng nộ tồn tại độc lập với nhau."
     },
     "imgid": "constellation_6"
   }

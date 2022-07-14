@@ -139,7 +139,7 @@
       "fr": "Quand il pleut...",
       "pt": "Quando Está Chovendo...",
       "ru": "Когда идёт дождь...",
-      "id": "Ketika Hujan",
+      "id": "Waktu Hujan",
       "th": "ในเวลาที่ฝนตก...",
       "vi": "Khi trời mưa..."
     },
@@ -203,7 +203,7 @@
       "fr": "Quand il neige...",
       "pt": "Quando Está Nevando...",
       "ru": "Когда идёт снег...",
-      "id": "Ketika Turun Salju",
+      "id": "Waktu Turun Salju",
       "th": "ในเวลาที่หิมะตก...",
       "vi": "Khi tuyết rơi..."
     },
@@ -1277,6 +1277,198 @@
       "id": "Pertanyaan konyol. Hanya ada 2 macam makanan — makanan yang harus dikonsumsi untuk menyehatkan tubuh dan makanan yang merusak tubuh.",
       "th": "ช่างเป็นคำถามที่โง่เขลา มันก็มีแค่อาหารที่เป็นประโยชน์ต่อร่างกาย กับอาหารที่เป็นโทษต่อร่างกายก็เท่านั้น",
       "vi": "Câu hỏi ngu ngốc. Chỉ có món cần ăn để duy trì dinh dưỡng và món ăn có hại cho cơ thể thôi."
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其一",
+      "zht": "收到贈禮·其一",
+      "jp": "贈り物を受け取る·1",
+      "ko": "선물 획득·첫 번째",
+      "en": "Receiving a Gift: I",
+      "de": "Geschenk erhalten I",
+      "es": "Al recibir un regalo (I)",
+      "fr": "Cadeau reçu (1)",
+      "pt": "Recebendo Presentes — I",
+      "ru": "Подарок I",
+      "id": "Menerima Hadiah: I",
+      "th": "ได้รับของขวัญ - 1",
+      "vi": "Nhận Được Quà I"
+    },
+    "line": {
+      "zhs": "熟悉的味道。不坏。",
+      "zht": "熟悉的味道。不壞。",
+      "jp": "よく知っている味です。悪くありません。",
+      "ko": "익숙한 맛이야. 나쁘지 않군",
+      "en": "A familiar flavor... Acceptable.",
+      "de": "Ein vertrauter Geschmack. Nicht schlecht.",
+      "es": "Un sabor muy familiar. No está mal.",
+      "fr": "C'est une saveur qui m'est familière. Pas mal.",
+      "pt": "Hmm, um sabor familiar. Aceitável.",
+      "ru": "Знакомый вкус... Приемлемо.",
+      "id": "Rasanya tidak asing. Boleh juga.",
+      "th": "รสชาติที่คุ้นเคย ไม่เลว",
+      "vi": "Hương vị quen thuộc. Không tệ."
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其二",
+      "zht": "收到贈禮·其二",
+      "jp": "贈り物を受け取る·2",
+      "ko": "선물 획득·두 번째",
+      "en": "Receiving a Gift: II",
+      "de": "Geschenk erhalten II",
+      "es": "Al recibir un regalo (II)",
+      "fr": "Cadeau reçu (2)",
+      "pt": "Recebendo Presentes — II",
+      "ru": "Подарок II",
+      "id": "Menerima Hadiah: II",
+      "th": "ได้รับของขวัญ - 2",
+      "vi": "Nhận Được Quà II"
+    },
+    "line": {
+      "zhs": "放在这里吧，我会尝的。",
+      "zht": "放在這裡吧，我會嚐的。",
+      "jp": "後ほど食べますので、そこに置いておいてください。",
+      "ko": "이곳에 둬, 먹어볼게",
+      "en": "Leave it here, and I shall sample it.",
+      "de": "Lass es hier, ich werde es probieren.",
+      "es": "Déjalo ahí, ya lo probaré.",
+      "fr": "Pose ça ici, je vais goûter.",
+      "pt": "Deixe aqui, eu provarei.",
+      "ru": "Оставь здесь. Я попробую позже.",
+      "id": "Taruh saja di sini, nanti kucoba.",
+      "th": "วางไว้ตรงนั้นแหละ เดี๋ยวฉันชิมเอง",
+      "vi": "Để đây đi. Tôi sẽ nếm thử."
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其三",
+      "zht": "收到贈禮·其三",
+      "jp": "贈り物を受け取る·3",
+      "ko": "선물 획득·세 번째",
+      "en": "Receiving a Gift: III",
+      "de": "Geschenk erhalten III",
+      "es": "Al recibir un regalo (II)",
+      "fr": "Cadeau reçu (3)",
+      "pt": "Recebendo Presentes — III",
+      "ru": "Подарок III",
+      "id": "Menerima Hadiah: III",
+      "th": "ได้รับของขวัญ - 3",
+      "vi": "Nhận Được Quà III"
+    },
+    "line": {
+      "zhs": "会损害身体机能，拿走。",
+      "zht": "會損害身體機能，拿走。",
+      "jp": "体の機能に支障が生じます、下げてください。",
+      "ko": "신체 기능이 저하 되니, 도로 가져가도록 해",
+      "en": "Consuming this would be physically detrimental. Remove it from my presence.",
+      "de": "Es kann die Körperfunktionen beeinträchtigen. Entferne es aus meiner Gegenwart.",
+      "es": "Podría dañar mis funciones corporales. Llévatelo.",
+      "fr": "Ce plat pourrait endommager le fonctionnement de mon organisme, reprends-le.",
+      "pt": "Consumir isso seria prejudicial. Tire daqui.",
+      "ru": "Потребление этого блюда ухудшит физическое самочувствие. Убери его.",
+      "id": "Makanan ini bisa merusak fungsi tubuhku. Bawa pergi dari hadapanku.",
+      "th": "มันจะทำลายการทำงานของร่างกาย เอาออกไปซะ",
+      "vi": "Sẽ làm hỏng các chức năng của cơ thể, mang đi đi."
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其四",
+      "zht": "收到贈禮·其四",
+      "jp": "贈り物を受け取る·4",
+      "ko": "선물 획득·네 번째",
+      "en": "Receiving a Gift: IV",
+      "de": "Geschenk erhalten IV",
+      "es": "Al recibir un regalo (IV)",
+      "fr": "Cadeau reçu (4)",
+      "pt": "Recebendo Presentes — IV",
+      "ru": "Подарок IV",
+      "id": "Menerima Hadiah: IV",
+      "th": "ได้รับของขวัญ - 4",
+      "vi": "Nhận Được Quà IV"
+    },
+    "line": {
+      "zhs": "好吃。心情也放松了不少，谢谢你。",
+      "zht": "#好吃。心情也放鬆了不少，謝謝{F#妳}{M#你}。",
+      "jp": "美味しいですね。心も穏やかになっていくのを感じます、ありがとうございます。",
+      "ko": "맛있네. 기분도 많이 좋아졌어, 고마워",
+      "en": "Delicious. I feel much better after that. Thank you.",
+      "de": "Köstlich. Und die Stimmung ist viel entspannter, danke.",
+      "es": "Está bueno y ahora me siento mejor. Muchas gracias.",
+      "fr": "C'est un plat délicieux. Je me sens aussi plus détendue grâce à lui, merci.",
+      "pt": "Delicioso. Me sinto melhor. Obrigada.",
+      "ru": "Вкусно. Теперь я чувствую себя намного лучше, спасибо.",
+      "id": "Lezat. Aku sudah merasa jauh lebih baik sekarang. Terima kasih ya.",
+      "th": "อร่อยดี ผ่อนคลายอารมณ์ขึ้นเยอะเลย ขอบคุณนะ",
+      "vi": "Rất ngon. Tâm tình cũng thả lỏng hơn nhiều rồi. Cảm ơn bạn."
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其五",
+      "zht": "收到贈禮·其五",
+      "jp": "贈り物を受け取る·5",
+      "ko": "선물 획득·다섯 번째",
+      "en": "Receiving a Gift: V",
+      "de": "Geschenk erhalten V",
+      "es": "Al recibir un regalo (V)",
+      "fr": "Cadeau reçu (5)",
+      "pt": "Recebendo Presentes — V",
+      "ru": "Подарок V",
+      "id": "Menerima Hadiah: V",
+      "th": "ได้รับของขวัญ - 5",
+      "vi": "Nhận Được Quà V"
+    },
+    "line": {
+      "zhs": "看起来不错，是怎么做出来的？",
+      "zht": "看起來不錯，是怎麼做出來的？",
+      "jp": "見栄えは悪くないようですね。どうやって作ったのでしょう？",
+      "ko": "괜찮아 보이네, 어떻게 만든 거야?",
+      "en": "Doesn't look too bad, how did you make it?",
+      "de": "Sieht gut aus. Wie wurde es hergestellt?",
+      "es": "Tiene buena pinta, ¿cómo lo has hecho?",
+      "fr": "Ça m'a l'air délicieux, comment as-tu fait ?",
+      "pt": "Tem uma boa aparência, como você fez?",
+      "ru": "#Выглядит неплохо. Как ты это приготовил{F#а}?",
+      "id": "Kelihatannya enak, bagaimana caramu membuatnya?",
+      "th": "ดูหน้าตาไม่เลวเลยนะ เธอทำออกมาได้ยังไงเหรอ?",
+      "vi": "Trông có vẻ rất ngon, bạn đã làm như thế nào vậy?"
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其六",
+      "zht": "收到贈禮·其六",
+      "jp": "贈り物を受け取る·6",
+      "ko": "선물 획득·여섯 번째",
+      "en": "Receiving a Gift: VI",
+      "de": "Geschenk erhalten VI",
+      "es": "Al recibir un regalo (VI)",
+      "fr": "Cadeau reçu (6)",
+      "pt": "Recebendo Presentes — VI",
+      "ru": "Подарок VI",
+      "id": "Menerima Hadiah: VI",
+      "th": "ได้รับของขวัญ - 6",
+      "vi": "Nhận Được Quà VI"
+    },
+    "line": {
+      "zhs": "恕我谢绝。",
+      "zht": "恕我謝絕。",
+      "jp": "すみませんが、お断りいたします。",
+      "ko": "미안, 사양할게",
+      "en": "Allow me to decline.",
+      "de": "Danke, nein.",
+      "es": "Con todo el respeto, pero no.",
+      "fr": "Excuse-moi, mais je dois refuser.",
+      "pt": "Terei que recusar.",
+      "ru": "Позволь мне отказаться.",
+      "id": "Aku harus menolaknya.",
+      "th": "ขออภัยที่ต้องปฏิเสธ",
+      "vi": "Cho phép tôi từ chối."
     }
   },
   {

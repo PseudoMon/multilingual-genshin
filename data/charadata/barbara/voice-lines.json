@@ -1185,6 +1185,102 @@
   },
   {
     "title": {
+      "zhs": "收到赠礼·其一",
+      "zht": "收到贈禮·其一",
+      "jp": "贈り物を受け取る·1",
+      "ko": "선물 획득·첫 번째",
+      "en": "Receiving a Gift: I",
+      "de": "Geschenk erhalten I",
+      "es": "Al recibir un regalo (I)",
+      "fr": "Cadeau reçu (1)",
+      "pt": "Recebendo Presentes — I",
+      "ru": "Подарок I",
+      "id": "Menerima Hadiah: I",
+      "th": "ได้รับของขวัญ - 1",
+      "vi": "Nhận Được Quà I"
+    },
+    "line": {
+      "zhs": "很少吃到那么合我口味的菜肴。今天是幸运日呢！",
+      "zht": "很少吃到那麼合我口味的菜餚。今天是幸運日呢！",
+      "jp": "こんなに私好みの料理には、そう出会えないかも。今日はラッキーデーだね！",
+      "ko": "제 입에 이렇게 잘 맞는 요리는 흔치 않은데. 오늘은 행운의 날인가 봐요!",
+      "en": "It's a rare pleasure to eat food that suits my tastes so well. Today is a blessed day!",
+      "de": "Es ist selten, dass ein Gericht meinen Geschmack so gut trifft. Heute ist ein Glückstag!",
+      "es": "No siempre encuentro platos que se adapten a mis gustos. ¡Hoy debe de ser mi día de suerte!",
+      "fr": "C'est rare de pouvoir manger quelque chose qui me plaise autant. J'ai de la chance aujourd'hui !",
+      "pt": "Raramente tenho a chance de provar comida que se adéque tanto ao meu paladar. Hoje é meu dia de sorte!",
+      "ru": "Отведать блюдо, которое приходится мне по вкусу - удовольствие редкое. Сегодня мой счастливый день!",
+      "id": "Jarang sekali ada makanan yang bisa cocok sama seleraku. Hari ini benar-benar beruntung!",
+      "th": "น้อยครั้งที่ฉันจะได้กินอาหารที่ถูกปากแบบนี้ วันนี้เป็นวันที่โชคดีจังเลย!",
+      "vi": "Tôi rất ít khi ăn được những món hợp với khẩu vị của mình như vậy. Hôm nay quả là may mắn!"
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其二",
+      "zht": "收到贈禮·其二",
+      "jp": "贈り物を受け取る·2",
+      "ko": "선물 획득·두 번째",
+      "en": "Receiving a Gift: II",
+      "de": "Geschenk erhalten II",
+      "es": "Al recibir un regalo (II)",
+      "fr": "Cadeau reçu (2)",
+      "pt": "Recebendo Presentes — II",
+      "ru": "Подарок II",
+      "id": "Menerima Hadiah: II",
+      "th": "ได้รับของขวัญ - 2",
+      "vi": "Nhận Được Quà II"
+    },
+    "line": {
+      "zhs": "谢谢你特意做的这些，这次，是被你治愈了。",
+      "zht": "#謝謝{F#妳}{M#你}特意做的這些，這次，是被{F#妳}{M#你}治癒了。",
+      "jp": "作ってくれてありがとう。今回はあなたに癒されたね。",
+      "ko": "특별히 요리해 주셔서 감사해요. 이번엔 제가 여행자님께 치유받았어요",
+      "en": "Thank you for cooking these for me. This time around, you are the one healing me!",
+      "de": "Danke, dass du das gemacht hast, dieses Mal wurde ich von dir geheilt.",
+      "es": "Gracias por preparar esto para mí. Esta vez, fuiste tú quien me curó.",
+      "fr": "Merci de vous être donné la peine de me cuisiner ce plat. Cette fois, c'est vous qui m'avez remise sur pied !",
+      "pt": "Obrigada por preparar esses pratos para mim. Dessa vez, foi você quem me curou.",
+      "ru": "#Спасибо, что приготовил{F#a} это специально для меня. В этот раз ты помогаешь мне исцелиться!",
+      "id": "Terima kasih ya sudah repot-repot masak ini. Kali ini, kamu loh yang menyembuhkanku.",
+      "th": "ขอบคุณที่ตั้งใจทำของพวกนี้นะ ครั้งนี้ เธอเป็นคนรักษาฉันล่ะ",
+      "vi": "Cám ơn bạn đã làm những món này cho tôi nhé."
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其三",
+      "zht": "收到贈禮·其三",
+      "jp": "贈り物を受け取る·3",
+      "ko": "선물 획득·세 번째",
+      "en": "Receiving a Gift: III",
+      "de": "Geschenk erhalten III",
+      "es": "Al recibir un regalo (II)",
+      "fr": "Cadeau reçu (3)",
+      "pt": "Recebendo Presentes — III",
+      "ru": "Подарок III",
+      "id": "Menerima Hadiah: III",
+      "th": "ได้รับของขวัญ - 3",
+      "vi": "Nhận Được Quà III"
+    },
+    "line": {
+      "zhs": "不，不好…",
+      "zht": "不、不好…",
+      "jp": "ご、ごめんなさい…",
+      "ko": "아니, 별로예요…",
+      "en": "Oh, uh, oh dear...",
+      "de": "Nicht gut ...",
+      "es": "Oh, oh, por Barbatos...",
+      "fr": "Je... Je ne me sens pas bien...",
+      "pt": "Ahm, não está...",
+      "ru": "Ой-ой...",
+      "id": "O-Oh, astaga ....",
+      "th": "มะ ไม่นะ...",
+      "vi": "Không, không ngon..."
+    }
+  },
+  {
+    "title": {
       "zhs": "生日…",
       "zht": "生日…",
       "jp": "誕生日…",

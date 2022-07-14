@@ -1,0 +1,72 @@
+{
+  "id": 11421,
+  "type": "sword",
+  "rank": 4,
+  "name": {
+    "zhs": "「一心传」名刀",
+    "zht": "「一心傳」名刀",
+    "jp": "「一心伝」名刀",
+    "ko": "「잇신의 기술」 명검",
+    "en": "Prized Isshin Blade",
+    "de": "Berühmtes Schwert der „Isshin-Schule“",
+    "es": "Espada Egregia de Isshin",
+    "fr": "Chef d'œuvre Isshin",
+    "pt": "Espada Famosa da \"Arte Isshin\"",
+    "ru": "Легендарный клинок Иссин",
+    "id": "Prized Isshin Blade",
+    "th": "ดาบเลื่องชื่อ \"Isshin Art\"",
+    "vi": "Danh Đao \"Trường Phái Isshin\""
+  },
+  "description": {
+    "zhs": "萦绕着不祥紫气的诡异妖刀，其中蕴藏的邪力与戾气都有所减弱。",
+    "zht": "縈繞著不祥紫氣的詭異妖刀，其中蘊藏的邪力與戾氣都有所減弱。",
+    "jp": "不吉な紫の気配を纏う不気味な妖刀。中に秘められた邪悪な力は弱まり、凶暴さも減った。",
+    "ko": "불길한 보라색 기운이 감도는 괴이한 요도(妖刀). 검에 숨겨진 사악한 힘과 포악함이 일부 약화되었다",
+    "en": "An ominous purple aura clings to this bizarre blade. Its wicked aura and hostility have both decreased greatly.",
+    "de": "Ein von einer unheilvollen purpurnen Aura umhülltes, trügerisches Schwert, dessen innere boshafte Macht deutlich abgeschwächt wurde.",
+    "es": "Una espada demoniaca envuelta en una ominosa niebla púrpura. Su aura maligna y su animosidad están algo debilitadas.",
+    "fr": "Une aura violette inquiétante s'accroche sur cette lame bizarre, dont le caractère maléfique et l'hostilité ont cependant considérablement diminué.",
+    "pt": "Uma lâmina estranha envolta por uma aura roxa. Sua aura maligna e animosidade tem diminuído bastante.",
+    "ru": "Зловещая пурпурная аура окружает этот диковинный меч. Скрывающаяся в нём коварная мощь и жестокость уже не так сильны, как когда-то.",
+    "id": "Aura ungu yang tidak menyenangkan menyelimuti benda ini. Auranya yang jahat dan mencekam kini sudah berkurang drastis.",
+    "th": "ดาบปีศาจประหลาดที่ห่อหุ้มไปด้วยออร่าสีม่วงซึ่งเต็มไปด้วยลางร้าย พลังชั่วร้ายและความเกลียดชังที่มีอยู่ภายในได้อ่อนแอลงไปบ้างแล้ว",
+    "vi": "Yêu đao chứa đựng tà khí, sức mạnh và ác tính trong đó đã có phần suy giảm."
+  },
+  "lore": {},
+  "effects": [
+    {
+      "name": {
+        "zhs": "徊徊切舍刀",
+        "zht": "徊徊切舍刀",
+        "jp": "徊·切捨刀",
+        "ko": "배회하는 칼날",
+        "en": "Wandering Striker",
+        "de": "Ziellose Klinge",
+        "es": "Espadachín errante",
+        "fr": "Épéiste errant",
+        "pt": "Lâmina Andarilha",
+        "ru": "Блуждающий клинок",
+        "id": "Wandering Striker",
+        "th": "Wandering Striker",
+        "vi": "Lưỡi Đao Lang Thang"
+      },
+      "description": {
+        "zhs": "普通攻击、重击或下落攻击命中敌人时，将释放祟灵，造成180%攻击力的范围伤害，并且恢复等同于攻击力100%的生命值。该效果每8秒至多触发一次；装备该武器的角色造成的伤害降低50%。",
+        "zht": "普通攻擊、重擊或下落攻擊命中敵人時，將釋放祟靈，造成180%攻擊力的範圍傷害，並且恢復等同於攻擊力100%的生命值。該效果每8秒至多觸發一次；裝備該武器的角色造成的傷害降低50%。",
+        "jp": "通常攻撃、重撃、落下攻撃が敵に命中すると怨霊を放ち、攻撃力の180%の範囲ダメージを与える。また、攻撃力の100%分のHPを回復する。この効果は8秒毎に1回のみ発動可能。この武器を装備したキャラクターの与えるダメージ-50%。",
+        "ko": "일반 공격, 강공격, 낙하 공격이 적에게 명중 시, 원령을 발동해 공격력의 180%에 해당하는 범위 피해를 주고, 공격력의 100%에 해당하는 HP를 회복한다. 해당 효과는 8초마다 최대 1회 발동한다. 해당 무기를 장착한 캐릭터가 가하는 피해가 50% 감소한다",
+        "en": "When a Normal, Charged, or Plunging Attack hits an opponent, it will release an Accursed Spirit, dealing AoE DMG equal to 180% of ATK and restoring 100% of ATK as HP. This effect can be triggered once every 8s. The DMG done by this weapon's wielder is decreased by 50%.",
+        "de": "Entfesselt beim Treffen von Gegnern mit Standardangriffen, heftigen Schlägen oder Angriffen aus dem Fall einen bösen Geist, der Flächenschaden in Höhe von 180 % ANG verursacht. Stellt dabei LP in Höhe von 100 % ANG wieder her. 8 s Abklingzeit. Verringert den von der mit dieser Waffe ausgerüsteten Figur verursachten Schaden um 50 %.",
+        "es": "Al golpear a un enemigo con un Ataque Normal, Cargado o Descendente, se libera un espíritu maldito que inflige un Daño en el AdE equivalente al 180% del ATQ y regenera una cantidad de Vida equivalente al 100% del ATQ. Este efecto solo se puede activar una vez cada 8 s. El daño que inflige el personaje que lleva esta arma equipada se reduce en un 50%.",
+        "fr": "Lorsqu'une attaque normale, chargée ou plongeante touche un ennemi, elle libère un esprit maudit, infligeant des DGT de zone équivalant à 180 % de l'ATQ et restaurant les PV d'une valeur équivalant à 100 % de l'ATQ. Cet effet peut être déclenché une fois toutes les 8 s. Les DGT infligés par le personnage équipé de l'arme sont réduits de 50 %.",
+        "pt": "Quando um Ataque Normal, Carregado ou Imersivo atinge um oponente, ele libera um Espírito Maléfico, infligindo um Dano em AdE equivalente a 180% do ATQ e regenerando Vida equivalente a 100% do ATQ. Este efeito pode ocorrer uma vez a cada 8s. O Dano infligido pelo personagem com esta arma equipada será reduzido em 50%.",
+        "ru": "Попадания обычной атакой, заряженной атакой или атакой в падении выпускают Проклятого духа, нанося урон по площади, равный 180% от силы атаки, а также восстанавливают HP, равное 100% от силы атаки. Этот эффект может возникнуть раз в 8 сек. Экипированный этим оружием персонаж наносит на 50% меньше урона.",
+        "id": "Saat Normal, Charged, atau Plunging Attack mengenai musuh, akan melepaskan Accursed Spirit yang mengakibatkan DMG Area setara dengan 180% ATK dan memulihkan HP sebesar 100% ATK. Efek ini terpicu setiap 8 detik. DMG yang diakibatkan oleh Karakter pengguna senjata ini berkurang sebesar 50%.",
+        "th": "เมื่อการโจมตีปกติ การชาร์จโจมตี และการโจมตีพุ่งลงจากอากาศถูกศัตรู จะปล่อย Accursed Spirit ออกมา เพื่อสร้างความเสียหายวงกว้างเป็น 180% ของพลังโจมตี และฟื้นฟูพลังชีวิต 100% ของพลังโจมตี โดยที่ทุก 8 วินาที เอฟเฟกต์นี้จะเกิดขึ้นได้มากสุด 1 ครั้ง และตัวละครที่ใช้อาวุธนี้ จะสร้างความเสียหายลดลง 50%",
+        "vi": "Tấn công thường, trọng kích hoặc tấn công khi đáp trúng kẻ địch sẽ kích hoạt Oán Linh, gây 180% sát thương diện rộng, đồng thời hồi phục lượng HP bằng 100% tấn công. Hiệu quả này mỗi 8s tối đa kích hoạt một lần. Sát thương gây ra của nhân vật trang bị vũ khí này giảm 50%."
+      }
+    }
+  ],
+  "internal_name": "Sword_YoutouEnchanted-d",
+  "imgid": "sword/youtouenchanted-d"
+}

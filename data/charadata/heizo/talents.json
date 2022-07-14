@@ -1,0 +1,194 @@
+[
+  {
+    "title": {
+      "zhs": "普通攻击·不动流格斗术",
+      "zht": "普通攻擊·不動流格鬥術",
+      "jp": "通常攻撃·不動流格闘術",
+      "ko": "일반 공격·부동류 격투술",
+      "en": "Normal Attack: Fudou Style Martial Arts",
+      "de": "Standardangriff: Kampf im Fudou-Stil",
+      "es": "Ataque Normal: Artes marciales Fudou",
+      "fr": "Attaque normale : Arts martiaux style Fudou",
+      "pt": "Ataque Normal: Arte Marcial Fudou",
+      "ru": "Боевой стиль Фудо",
+      "id": "Normal Attack: Fudou Style Martial Arts",
+      "th": "โจมตีปกติ: Fudou Style Martial Arts",
+      "vi": "Tấn Công Thường - Võ Thuật Fudou"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>普通攻击</color>\n以强风加持的招式与敌人格斗，进行至多五段的攻击，造成<color=#80FFD7FF>风元素伤害</color>。\n\n<color=#FFD780FF>重击</color>\n消耗一定体力，使出扬尘踢，造成<color=#80FFD7FF>风元素伤害</color>。\n\n<color=#FFD780FF>下落攻击</color>\n凝聚强风的力量，从空中下坠冲击地面，攻击下落路径上的敌人，并在落地时造成<color=#80FFD7FF>风元素范围伤害</color>。",
+      "zht": "<color=#FFD780FF>普通攻擊</color>\n以強風加持的招式與敵人格鬥，進行至多五段的攻擊，造成<color=#80FFD7FF>風元素傷害</color>。\n\n<color=#FFD780FF>重擊</color>\n消耗一定體力，使出揚塵踢，造成<color=#80FFD7FF>風元素傷害</color>。\n\n<color=#FFD780FF>下落攻擊</color>\n凝聚強風的力量，從空中下墜衝擊地面，攻擊下落路徑上的敵人，並在落地時造成<color=#80FFD7FF>風元素範圍傷害</color>。",
+      "jp": "<color=#FFD780FF>通常攻撃</color>\n強風が宿る強力な技で敵と格闘する。最大5段の連続攻撃を行い、<color=#80FFD7FF>風元素ダメージ</color>を与える。\n\n<color=#FFD780FF>重撃</color>\n一定のスタミナを消費して砂撒脚を繰り出し、敵に<color=#80FFD7FF>風元素ダメージ</color>を与える。\n\n<color=#FFD780FF>落下攻撃</color>\n空中から強風の力を凝集しながら落下し、地面に衝撃を与える。経路上の敵を攻撃し、落下時に<color=#80FFD7FF>風元素範囲ダメージ</color>を与える。",
+      "ko": "<color=#FFD780FF>일반 공격</color>\n강풍의 힘을 받아 적과 격투를 펼친다. 최대 5번 공격해 <color=#80FFD7FF>바람 원소 피해</color>를 준다.\n\n<color=#FFD780FF>강공격</color>\n일정 스태미나를 소모해 먼지바람을 일으키는 발차기를 시전해 <color=#80FFD7FF>바람 원소 피해</color>를 준다.\n\n<color=#FFD780FF>낙하 공격</color>\n공중에서 땅을 내려찍어 경로상의 적을 공격하고 착지 시 <color=#80FFD7FF>바람 원소 범위 피해</color>를 준다",
+      "en": "<color=#FFD780FF>Normal Attack</color>\nPerforms up to 5 fisticuffs empowered by a mighty wind, dealing <color=#80FFD7FF>Anemo DMG</color>.\n\n<color=#FFD780FF>Charged Attack</color>\nConsumes a certain amount of Stamina and performs a sweeping kick that deals <color=#80FFD7FF>Anemo DMG</color>.\n\n<color=#FFD780FF>Plunging Attack</color>\nCalling upon the surging wind, Heizou plunges towards the ground from mid-air, damaging all opponents in his path. Deals <color=#80FFD7FF>AoE Anemo DMG</color> upon impact with the ground.",
+      "de": "<color=#FFD780FF>Standardangriff</color>\nKämpft mit der Kraft eines starken Windes gegen den Feind, führt bis zu 5 Angriffe aus und verursacht <color=#80FFD7FF>Anemo-Schaden</color>.\n\n<color=#FFD780FF>Heftiger Schlag</color>\nVerbraucht eine gewisse Menge Ausdauer und verursacht mit einem über das Feld fegenden Tritt <color=#80FFD7FF>Anemo-Schaden</color>.\n\n<color=#FFD780FF>Angriff aus dem Fall</color>\nKonzentriert die Kraft des starken Windes, schlägt beim Fallen aus der Luft auf den Boden, greift alle Gegner in der Bahn an und verursacht beim Aufkommen <color=#80FFD7FF>Anemo-Flächenschaden</color>.",
+      "es": "<color=#FFD780FF>Ataque Normal</color>\nEjecuta hasta 5 golpes marciales fortalecidos con el poder del viento para infligir <color=#80FFD7FF>Daño Anemo</color>.\n\n<color=#FFD780FF>Ataque Cargado</color>\nConsume una cierta cantidad de Aguante para ejecutar una patada que levanta polvo e inflige <color=#80FFD7FF>Daño Anemo</color> después de un corto tiempo de lanzamiento.\n\n<color=#FFD780FF>Ataque Descendente</color>\nConcentra el poder del viento para lanzarse desde el aire y golpear el suelo, dañando a todos los enemigos cercanos e infligiendo <color=#80FFD7FF>Daño Anemo en el AdE</color> en el momento del impacto.",
+      "fr": "<color=#FFD780FF>Attaque normale</color>\nEnchaîne jusqu'à 5 coups de poing renforcés par un vent puissant, qui infligent des <color=#80FFD7FF>DGT Anémo</color>.\n\n<color=#FFD780FF>Attaque chargée</color>\nConsomme de l'endurance pour exécuter un balayage qui inflige des <color=#80FFD7FF>DGT Anémo</color>.\n\n<color=#FFD780FF>Attaque plongeante</color>\nPlonge depuis les airs en concentrant ses pouvoirs Anémo, infligeant des DGT aux ennemis en chemin et des <color=#80FFD7FF>DGT Anémo de zone</color> à l'impact.",
+      "pt": "<color=#FFD780FF>Ataque Normal</color>\nRealiza até 5 ataques de punhos de vento, infligindo <color=#80FFD7FF>Dano Anemo</color>.\n\n<color=#FFD780FF>Ataque Carregado</color>\nConsome uma certa quantidade de Stamina que inflige <color=#80FFD7FF>Dano Anemo em uma AdE</color> com um chute de varredura.\n\n<color=#FFD780FF>Ataque Imersivo</color>\nConvoca o poder do vento para si, Heizou mergulha ao chão em pleno ar, infligindo Dano a todos os inimigos em seu caminho. Inflige <color=#80FFD7FF>Dano Anemo em uma AdE</color> ao atingir o chão.",
+      "ru": "<color=#FFD780FF>Обычная атака:</color>\nДо пяти усиленных могучим ветром ударов, которые наносят <color=#80FFD7FF>Анемо урон</color>.\n\n<color=#FFD780FF>Заряженная атака:</color>\nТратит некоторое количество выносливости на стремительный удар, наносящий <color=#80FFD7FF>Анемо урон</color>.\n\n<color=#FFD780FF>Атака в падении:</color>\nНакопив энергию сильного ветра, Хэйдзо стремительно падает на землю, атакуя всех врагов на пути. Приземлившись, наносит <color=#80FFD7FF>Анемо урон по площади</color>.",
+      "id": "<color=#FFD780FF>Normal Attack</color>\nMelancarkan hingga 5 serangan tinju yang diperkuat oleh angin, mengakibatkan <color=#80FFD7FF>Anemo DMG</color>.\n\n<color=#FFD780FF>Charged Attack</color>\nMengonsumsi sejumlah Stamina untuk mengakibatkan tendangan yang mengakibatkan <color=#80FFD7FF>Anemo DMG Area</color>.\n\n<color=#FFD780FF>Plunging Attack</color>\nMengumpulkan kekuatan Anemo, Heizou menerjang tanah, mengakibatkan DMG pada musuh di jalur terjangan dan mengakibatkan <color=#80FFD7FF>Anemo DMG Area</color> saat mendarat.",
+      "th": "<color=#FFD780FF>โจมตีปกติ</color>\nต่อสู้กับศัตรูด้วยท่วงท่าที่ได้รับการสนับสนุนจากสายลมที่โหมกระหน่ำ ทำการโจมตีต่อเนื่องมากสุด 5 ครั้ง เพื่อสร้าง<color=#80FFD7FF>ความเสียหายลม</color>\n\n<color=#FFD780FF>ชาร์จโจมตี</color>\nใช้พลังกายบางส่วน เพื่อใช้ท่าเตะและสร้าง<color=#80FFD7FF>ความเสียหายลม</color>\n\n<color=#FFD780FF>โจมตีพุ่งลงจากอากาศ</color>\nรวบรวมพลังของสายลมที่รุนแรง กระโจนจากกลางอากาศลงมายังพื้นดิน เพื่อโจมตีศัตรูที่อยู่ในเส้นทางการโจมตี โดยจะสร้าง<color=#80FFD7FF>ความเสียหายลมวงกว้าง</color>เมื่อลงถึงพื้น",
+      "vi": "<color=#FFD780FF>Tấn Công Thường</color>\nTấn công kẻ địch với sức mạnh gió bão, thực hiện tối đa 5 lần tấn công, gây <color=#80FFD7FF>Sát Thương Nguyên Tố Phong</color>.\n\n<color=#FFD780FF>Trọng Kích</color>\nTiêu hao thể lực nhất định, thi triển đá quét gây <color=#80FFD7FF>Sát Thương Nguyên Tố Phong</color>.\n\n<color=#FFD780FF>Tấn Công Khi Đáp</color>\nNgưng tụ sức mạnh nguyên tố Phong, từ trên trời tấn công xuống mặt đất, tấn công kẻ địch trên đường, gây <color=#80FFD7FF>sát thương phạm vi nguyên tố Phong</color> khi chạm đất."
+    }
+  },
+  {
+    "title": {
+      "zhs": "勠心拳",
+      "zht": "勠心拳",
+      "jp": "戮心拳",
+      "ko": "쇄심권",
+      "en": "Heartstopper Strike",
+      "de": "Faust der Brüderlichkeit",
+      "es": "Puñetazo cardiaco",
+      "fr": "Poing d'arrêt cardiaque",
+      "pt": "Soco Cardíaco",
+      "ru": "Убиение сердца",
+      "id": "Heartstopper Strike",
+      "th": "Heartstopper Strike",
+      "vi": "Lục Tâm Quyền"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>点按</color>\n驱使疾风，向前打出勠心拳，造成<color=#80FFD7FF>风元素伤害</color>。\n\n<color=#FFD780FF>长按</color>\n积蓄力量，以施展更为强大的拳势。蓄力期间，将持续获得能提升勠心拳威力的「变格」效果；松开技能或蓄力结束时，会向前打出勠心拳，造成<color=#80FFD7FF>风元素伤害</color>。\n\n<color=#FFD780FF>变格</color>\n提升下一次勠心拳造成的伤害，至多叠加4层。\n拥有4层「变格」时，将产生「正论」效果，使下一次勠心拳造成的伤害将进一步提高，并拥有更大的影响范围。\n\n<i>看似只是简单的蓄力冲拳，但是包含了平藏想要令罪人们乖乖认罪忏悔的心意。</i>",
+      "zht": "<color=#FFD780FF>點按</color>\n驅使疾風，向前打出勠心拳，造成<color=#80FFD7FF>風元素傷害</color>。\n\n<color=#FFD780FF>長按</color>\n積蓄力量，以施展更為強大的拳勢。蓄力期間，將持續獲得能提升勠心拳威力的「變格」效果；鬆開技能或蓄力結束時，會向前打出勠心拳，造成<color=#80FFD7FF>風元素傷害</color>。\n\n<color=#FFD780FF>變格</color>\n提升下一次勠心拳造成的傷害，至多疊加4層。\n擁有4層「變格」時，將產生「正論」效果，使下一次勠心拳造成的傷害將進一步提高，並擁有更大的影響範圍。\n\n<i>看似只是簡單的蓄力衝拳，但是包含了平藏想要令罪人們乖乖認罪懺悔的心意。</i>",
+      "jp": "<color=#FFD780FF>一回押し</color>\n疾風を駆使して戮心拳を前方に打ち出し、<color=#80FFD7FF>風元素ダメージ</color>を与える。\n\n<color=#FFD780FF>長押し</color>\n力を溜めて、より強力な一撃を繰り出す。溜めている間、戮心拳の威力をアップする「変格」効果を継続的に得る。元素スキルボタンを離した時、または力を溜め終わった時、前方に戮心拳を打ち出し、<color=#80FFD7FF>風元素ダメージ</color>を与える。\n\n<color=#FFD780FF>変格</color>\n次の戮心拳のダメージをアップさせる、最大4層まで。\n「変格」効果を4層まで重ねると、「正論」効果が生み出され、次の戮心拳の与えるダメージがさらにアップし、影響範囲がより広くなる。\n\n<i>ただの力を込めた一撃にしか見えないが、犯人に罪を告白させ、悔い改めさせようという平蔵の思いが込められている。</i>",
+      "ko": "<color=#FFD780FF>짧은 터치</color>\n질풍을 휘둘러 전방에 쇄심권을 시전해 <color=#80FFD7FF>바람 원소 피해</color>를 준다.\n\n<color=#FFD780FF>홀드</color>\n힘을 모아 더욱 강력한 권법을 펼친다. 차지 기간 동안 쇄심권의 위력을 강화시키는 「변격」 효과를 지속적으로 획득한다. 스킬 버튼에서 손을 떼거나 차지가 종료되면 전방으로 쇄심권을 발동해 <color=#80FFD7FF>바람 원소 피해</color>를 준다.\n\n<color=#FFD780FF>변격</color>\n다음 쇄심권으로 가하는 피해가 증가한다. 최대 중첩수: 4스택.\n4스택의 「변격」 보유 시, 「정론」 효과가 발생해 다음 쇄심권으로 가하는 피해가 다시 한번 증가하고 더 큰 영향 범위를 가지게 된다.\n\n<i>그저 힘을 모은 일격처럼 보이지만, 그 안에는 평소 죄를 저지른 자들이 참회하길 바라는 헤이조의 마음이 담겨 있다</i>",
+      "en": "<color=#FFD780FF>Tap</color>\nWields the swift winds to launch a Heartstopper Strike that deals <color=#80FFD7FF>Anemo DMG</color>.\n\n<color=#FFD780FF>Hold</color>\nCharges energy to unleash an even stronger blow. He will obtain the Declension effect while charging, which will increase the power of the Heartstopper Strike. When the skill button is released or the skill finishes charging, he will strike forward, dealing <color=#80FFD7FF>Anemo DMG</color>.\n\n<color=#FFD780FF>Declension</color>\nIncreases the power of the next Heartstopper Strike. Max 4 stacks.\nWhen you possess 4 Declension stacks, the Conviction effect will be produced, which will cause the next Hearstopper Strike to be even stronger and have a larger AoE.\n\n<i>This seemingly ordinary strike contains Heizou's desire for criminals to honestly confess and repent.</i>",
+      "de": "<color=#FFD780FF>Drücken</color>\nNutzt den schnellen Wind und schlägt mit der Faust der Brüderlichkeit zu, um <color=#80FFD7FF>Anemo-Schaden</color> zu verursachen.\n\n<color=#FFD780FF>Gedrückt halten</color>\nSammelt Kraft, um einen noch stärkeren Schlag auszuführen und erhält während des Aufladens fortlaufend den Effekt „Deklination“, der die Stärke der Faust der Brüderlichkeit erhöhen kann. Löst beim Loslassen der Taste oder am Ende des Aufladens die Faust der Brüderlichkeit aus und verursacht nach vorn gerichteten <color=#80FFD7FF>Anemo-Schaden</color>.\n\n<color=#FFD780FF>Deklination</color>\nErhöht den mit der nächsten Faust der Brüderlichkeit verursachten Schaden, 4-fach stapelbar.\nErschafft bei 4 Stapelungen „Deklination“ den Effekt „Urteilsspruch“, der den mit der nächsten Faust der Brüderlichkeit verursachten Schaden weiter erhöht und ihm einen größeren Wirkungsbereich verleiht.\n\n<i>In diesem augenscheinlich so gewöhnlichen und doch kraftvollen Schlag steckt Heizous Wunsch, dass Verbrecher gestehen und Buße tun.</i>",
+      "es": "#<color=#FFD780FF>{LAYOUT_MOBILE#Un toque}{LAYOUT_PC#Pulsar una vez}{LAYOUT_PS#Pulsar una vez}</color>\nCrea una ráfaga de viento para ejecutar un puñetazo cardiaco que inflige <color=#80FFD7FF>Daño Anemo</color>.\n\n<color=#FFD780FF>Mantener pulsado</color>\nAcumula fuerza para ejecutar un puñetazo aún más poderoso. Durante el tiempo de carga, obtiene el efecto de “decantación”, el cual aumenta continuamente la fuerza del puñetazo cardiaco. Al dejar de pulsar la habilidad o cuando termine su tiempo de carga, ejecuta un puñetazo cardiaco hacia delante que inflige <color=#80FFD7FF>Daño Anemo</color>.\n\n<color=#FFD780FF>Decantación</color>\nAumenta el daño infligido por el puñetazo cardiaco. Este efecto puede acumularse hasta 4 veces.\nAl tener 4 cargas de decantación, se crea el efecto de “convicción”, el cual aumenta aún más el daño y el AdE del puñetazo cardiaco.\n\n<i>A simple vista, puede parecer un simple puñetazo, pero en realidad refleja la insistencia de Heizou en que los delincuentes admitan su culpa y confiesen.</i>",
+      "fr": "<color=#FFD780FF>Appui simple</color>\nContrôle les rafales de vent pour déclencher un Poing d'arrêt cardiaque qui inflige des <color=#80FFD7FF>DGT Anémo</color>.\n\n<color=#FFD780FF>Appui long</color>\nCharge de l'énergie pour déclencher un coup de poing encore plus puissant. L'effet Détection est obtenu pendant la charge, permettant d'augmenter la puissance du Poing d'arrêt cardiaque. Lorsque vous relâchez la compétence ou que sa charge est complète, vous frappez en avant pour infliger des <color=#80FFD7FF>DGT Anémo</color>.\n\n<color=#FFD780FF>Détection</color>\nAugmente les DGT du prochain Poing d'arrêt cardiaque. Cet effet peut être cumulé 4 fois maximum.\nAvec 4 cumuls de Détection, vous obtenez un effet de Conviction, permettant au prochain Poing d'arrêt cardiaque d'être encore plus puissant et d'avoir une zone d'effet plus grande.\n\n<i>Ce coup apparemment ordinaire contient le désir de Heizou de pousser les criminels à se confesser et à se repentir honnêtement.</i>",
+      "pt": "<color=#FFD780FF>Pressionar</color>\nUsa o vento para realizar o Soco Cardíaco que inflige <color=#80FFD7FF>Dano Anemo</color>.\n\n<color=#FFD780FF>Manter Pressionado</color>\nAcumula poder e desfere um soco ainda mais forte. Enquanto carrega, obterá o efeito \"Declinação\" que fortalece o Soco Cardíaco: Ao lançar a Habilidade ou quando a habilidade terminar de carregar, desferirá um Soco Cardíaco que inflige <color=#80FFD7FF>Dano Anemo</color>.\n\n<color=#FFD780FF>Declinação</color>\nAumenta o Dano infligido do próximo Soco Cardíaco e acumula até 4 vezes.\nQuando possuir 4 acúmulos de \"Declinação\", gerará o efeito \"Convicção\", que aumentará o Dano infligido pelo próximo Soco Cardíaco e aumentará sua AdE.\n\n<i>Esse soco aparentemente simples contém o desejo de Heizou para que os criminosos honestamente confessem e se arrependam.</i>",
+      "ru": "<color=#FFD780FF>Быстрое нажатие</color>\nНаправляя порыв ветра, совершает удар Убиения сердца, который наносит <color=#80FFD7FF>Анемо урон</color>.\n\n<color=#FFD780FF>Долгое нажатие</color>\nЗаряжается и наносит ещё более сильный удар. Во время зарядки получает эффект Отклонения, который усиливает удар Убиения сердца. Когда кнопка навыка отпущена или закончена зарядка, совершает удар Убиения сердца вперёд, нанося <color=#80FFD7FF>Анемо урон</color>.\n\n<color=#FFD780FF>Отклонение</color>\nУвеличивает урон последующего удара Убиения сердца. Эффект может складываться до 4 раз.\nНа 4 уровне складывания Отклонения появится эффект Верного мнения, который делает урон последующего удара Убиения сердца ещё выше и увеличивает зону поражения.\n\n<i>Этот, казалось бы, незамысловатый прямой удар воплощает стремление Хэйдзо заставить преступников искренне признать свою вину и покаяться.</i>",
+      "id": "<color=#FFD780FF>Tekan</color>\nMenggunakan angin kencang untuk meluncurkan Heartstopper Strike yang mengakibatkan <color=#80FFD7FF>Anemo DMG</color>.\n\n<color=#FFD780FF>Tahan</color>\nMengisi energi untuk melepaskan pukulan yang lebih kuat. Heizou akan mengdapatkan efek Declension saat sedang mengisi energi, efek tersebut akan meningkatkan kekuatan Heartstopper Strike. Saat tombol skill dilepaskan atau saat skill sudah selesai mengisi energi, Heizou akan maju menerjang ke depan dan mengakibatkan <color=#80FFD7FF>Anemo DMG</color>.\n\n<color=#FFD780FF>Declension</color>\nMeningkatkan kekuatan Heartstopper Strike berikutnya. Maks. 4 lapis.\nSaat mempunyai 4 lapis Declension, akan tercipta lapisan Conviction yang akan mengakibatkan Hearstopper Strike berikutnya menjadi lebih kuat lagi dan mempunyai Area efek yang lebih besar.\n\n<i>Sekilas jurus ini memang terlihat seperti pukulan tinju biasa namun di dalamnya terkandung niat tulus Heizou yang berharap agar para kriminal dapat jujur mengakui kesalahannya dan bertobat.</i>",
+      "th": "#<color=#FFD780FF>{LAYOUT_MOBILE#แตะ}{LAYOUT_PC#กด}{LAYOUT_PS#กด}</color>\nควบคุมพลังของสายลมที่รุนแรง เพื่อปล่อย Heartstopper Strike ไปข้างหน้า และสร้าง<color=#80FFD7FF>ความเสียหายลม</color>\n\n<color=#FFD780FF>{LAYOUT_MOBILE#แตะค้าง}{LAYOUT_PC#กดค้าง}{LAYOUT_PS#กดค้าง}</color>\nรวบรวมพลังเพื่อปลดปล่อยหมัดที่ทรงพลังยิ่งขึ้น โดยระหว่างที่รวบรวมพลัง จะได้รับเอฟเฟกต์ Declension ที่สามารถเสริมพลังของ Heartstopper Strike ได้ ซึ่งเมื่อปล่อยสกิลหรือสิ้นสุดช่วงเวลาการชาร์จ จะปล่อย Heartstopper Strike ออกไปข้างหน้าเพื่อสร้าง<color=#80FFD7FF>ความเสียหายลม</color>\n\n<color=#FFD780FF>Declension</color>\nเพิ่มความเสียหายของ Heartstopper Strike ครั้งต่อไป โดยจะซ้อนทับได้มากสุด 4 ชั้น\nเมื่อมี Declension 4 ชั้น จะทำให้เกิดเอฟเฟกต์ Conviction ซึ่งจะทำให้ Hearstopper Strike ครั้งต่อไปรุนแรงขึ้นไปอีกขั้น และมีพื้นที่ผลกระทบที่กว้างมากขึ้น\n\n<i>มองดูเหมือนจะเป็นเพียงแค่หมัดธรรมดา แต่ก็อัดแน่นไปด้วยความตั้งใจของ Heizou ที่จะทำให้คนบาปสารภาพความผิด และสำนึกผิดอย่างเชื่อฟัง</i>",
+      "vi": "<color=#FFD780FF>Nhấn</color>\nTụ gió và đánh ra Lục Tâm Quyền về phía trước, gây <color=#80FFD7FF>Sát Thương Nguyên Tố Phong</color>.\n\n<color=#FFD780FF>Nhấn Giữ</color>\nTụ lực để thi triển đòn đánh mạnh mẽ hơn. Trong thời gian tụ lực sẽ nhận được hiệu quả \"Biến Cách\" để tăng uy lực cho Lục Tâm Quyền; Khi thả kỹ năng hoặc tụ lực kết thúc sẽ đánh ra Lục Tâm Quyền về phía trước, gây <color=#80FFD7FF>Sát Thương Nguyên Tố Phong</color>.\n\n<color=#FFD780FF>Biến Cách</color>\nTăng sát thương cho Lục Tâm Quyền tiếp theo, tối đa cộng dồn 4 tầng.\nKhi có 4 tầng \"Biến Cách\" sẽ sản sinh hiệu ứng \"Phán Quyết\", tăng thêm sát thương và phạm vi ảnh hưởng của Lục Tâm Quyền lần sau.\n\n<i>Trông thì có vẻ như chỉ là một cú đấm bình thường, nhưng trong đó chất chứa thành ý muốn kẻ phạm tội phải ăn năn hối lỗi.</i>"
+    }
+  },
+  {
+    "title": {
+      "zhs": "聚风蹴",
+      "zht": "聚風蹴",
+      "jp": "廻風蹴",
+      "ko": "선풍각",
+      "en": "Windmuster Kick",
+      "de": "Tritt des konzentrierten Winds",
+      "es": "Patada huracanada",
+      "fr": "Coup de pied ouragan",
+      "pt": "Chute Turbilhão",
+      "ru": "Ураганный удар",
+      "id": "Windmuster Kick",
+      "th": "Windmuster Kick",
+      "vi": "Tụ Phong Cước"
+    },
+    "description": {
+      "zhs": "腾跃至空中，向敌人踢出不动流·真空弹。不动流·真空弹将在命中时炸裂，产生缉拿风穴，牵引附近的物体与敌人，造成<color=#80FFD7FF>风元素范围伤害</color>。\n不动流·真空弹命中处于<color=#80C0FFFF>水元素</color>/<color=#FF9999FF>火元素</color>/<color=#99FFFFFF>冰元素</color>/<color=#FFACFFFF>雷元素</color>附着下的敌人时，会为这些敌人施加「聚风真眼」效果，该效果会在片刻后爆发消失，并造成对应元素属性的范围伤害。\n不动流·真空弹至多对4名命中的敌人施加「聚风真眼」；敌人无法同时处于多种元素属性的「聚风真眼」状态下。\n\n<i>将风元素聚集一处并踢出的独特招式，往往能在罪人暴露、四处逃窜之时，稳当踢中其后背。</i>",
+      "zht": "騰躍至空中，向敵人踢出不動流·真空彈。不動流·真空彈將在命中時炸裂，產生緝拿風穴，牽引附近的物體與敵人，造成<color=#80FFD7FF>風元素範圍傷害</color>。\n不動流·真空彈命中處於<color=#80C0FFFF>水元素</color>/<color=#FF9999FF>火元素</color>/<color=#99FFFFFF>冰元素</color>/<color=#FFACFFFF>雷元素</color>附著下的敵人時，會為這些敵人施加「聚風真眼」效果，該效果會在片刻後爆發消失，並造成對應元素屬性的範圍傷害。\n不動流·真空彈至多對4名命中的敵人施加「聚風真眼」；敵人無法同時處於多種元素屬性的「聚風真眼」狀態下。\n\n<i>將風元素聚集一處並踢出的獨特招式，往往能在罪人暴露、四處逃竄之時，穩當踢中其後背。</i>",
+      "jp": "空に跳ね上がり、不動流·真空弾を敵に蹴りつける。着弾時に爆発し、捕縛の風穴を生成する。近くの物体と敵を引き寄せ、<color=#80FFD7FF>風元素範囲ダメージ</color>を与える。\n不動流·真空弾が<color=#80C0FFFF>水元素</color>/<color=#FF9999FF>炎元素</color>/<color=#99FFFFFF>氷元素</color>/<color=#FFACFFFF>雷元素</color>付着状態の敵に命中すると、敵に「廻風真眼」効果を与える。この効果はしばらくすると爆発して消え去るが、その際敵に付着していた元素の範囲ダメージを与える。\n不動流·真空弾は最大4体の敵に「廻風真眼」効果を付与できる。また、1体の敵が同時に複数の元素による「廻風真眼」効果を受けることはない。\n\n<i>風元素を一ヶ所に集めて蹴り出す独特な技は、犯行がバレた犯人が逃げ出しても、その背中にしっかり命中する。</i>",
+      "ko": "공중으로 뛰어오르며 발로 부동류·진공탄을 차 공격한다. 부동류·진공탄이 적에게 명중 시, 폭발하며 포박의 풍혈을 생성해 주변의 적과 물체에게 <color=#80FFD7FF>바람 원소 범위 피해</color>를 준다.\n부동류·진공탄이 <color=#80C0FFFF>물 원소</color>/<color=#FF9999FF>불 원소</color>/<color=#99FFFFFF>얼음 원소</color>/<color=#FFACFFFF>번개 원소</color>를 부착한 적에게 명중하면 해당 적에게 「선풍진안」 효과를 부여한다. 해당 효과는 잠시 후 폭발하며 사라지고 상응하는 원소 속성의 범위 피해를 준다.\n부동류·진공탄은 최대 4명의 적에게 「선풍진안」 효과를 부여할 수 있으며, 적에게 동시에 여러 원소 속성의 「선풍진안」 효과를 부여할 수 없다.\n\n<i>바람 원소를 한곳에 모은 다음 발로 차서 공격하는 독특한 기술. 보통 범행이 드러나 도망가는 범인의 등 뒤를 공격할 때 사용한다</i>",
+      "en": "Leaps into the air and uses the Fudou Style Vacuum Slugger and kicks his opponent. The Vacuum Slugger will explode upon hit and create an Arresting Windtunnel that pulls in nearby objects and opponents, dealing <color=#80FFD7FF>AoE Anemo DMG</color>.\nWhen Vacuum Slugger hits opponents affected by <color=#80C0FFFF>Hydro</color>/<color=#FF9999FF>Pyro</color>/<color=#99FFFFFF>Cryo</color>/<color=#FFACFFFF>Electro</color>, these opponents will be afflicted with Windmuster Iris. This Windmuster Iris will explode after a moment and dissipate, dealing AoE DMG of the corresponding aforementioned elemental type.\nVacuum Slugger can afflict a maximum of 4 opponents with the Windmuster Iris. A single opponent cannot be under the effect of Windmuster Irises of different elements at the same time.\n\n<i>A unique technique that gathers Anemo in one place before unleashing it all in one kick. Is always there in a pinch to land on some criminal's fleeing back.</i>",
+      "de": "Springt in die Luft und führt den Vakuumtritt des Fudou-Stils aus, der beim Treffen eine Explosion auslöst und ein Windloch erschafft, in das Objekte sowie Gegner in der Nähe gezogen werden. Verursacht <color=#80FFD7FF>Anemo-Flächenschaden</color>.\nFügt, wenn die mit dem Vakuumtritt des Fudou-Stils getroffenen Gegner von <color=#80C0FFFF>Hydro</color>-, <color=#FF9999FF>Pyro</color>-, <color=#99FFFFFF>Kryo</color>- oder <color=#FFACFFFF>Elektro</color>-Kraft betroffen sind, diesen Gegnern den Effekt „Auge des konzentrierten Winds“ zu, der nach kurzer Zeit mit einer Explosion erlischt und damit Flächenschaden des jeweiligen Elements verursacht.\nDer Vakuumtritt des Fudou-Stils verleiht bis zu 4 getroffenen Gegnern den Effekt „Auge des konzentrierten Winds“. Diese Gegner können zu einem Zeitpunkt nur dem Effekt „Auge des konzentrierten Winds“ eines einzigen Elements ausgesetzt sein.\n\n<i>Eine einzigartige Technik, bei der die Anemo-Kraft an einer Stelle konzentriert wird, bevor sie mit einem Tritt entfesselt wird, immer zur Stelle, wenn ein Verbrecher auf der Flucht gefasst werden muss.</i>",
+      "es": "Salta y le da una patada a una bomba de vacío de técnica Fudou que, al golpear al enemigo, explota, crea un túnel de viento apresador que atrae a los objetos y enemigos cercanos e inflige <color=#80FFD7FF>Daño Anemo en el AdE</color>.\nCuando la bomba de vacío golpea a un enemigo afectado por <color=#80C0FFFF>Hydro</color>/<color=#FF9999FF>Pyro</color>/<color=#99FFFFFF>Cryo</color>/<color=#FFACFFFF>Electro</color>, aplicará sobre él el efecto de “ojo del tifón”, el cual explotará y desaparecerá para infligir Daño en el AdE del elemento correspondiente.\nLa bomba de vacío de técnica Fudou solo podrá aplicar el ojo del tifón sobre un máximo de 4 enemigos golpeados, y cada enemigo no podrá ser afectado por un ojo del tifón de varios elementos distintos al mismo tiempo.\n\n<i>Heizou canaliza el elemento Anemo para ejecutar este movimiento especial, con el cual da una patada por la espalda a los delincuentes cuando los descubre o cuando intentan huir.</i>",
+      "fr": "S'élance dans les airs et utilise la bombe du vide du style Fudou pour donner un coup de pied à son ennemi. La bombe du vide explose à l'impact et crée ensuite un tunnel de vent qui attire les objets et les ennemis à proximité, infligeant des <color=#80FFD7FF>DGT Anémo de zone</color>.\nLorsque la bombe du vide du style Fudou touche un ennemi affecté par l'élément <color=#80C0FFFF>Hydro</color>/<color=#FF9999FF>Pyro</color>/<color=#99FFFFFF>Cryo</color>/<color=#FFACFFFF>Électro</color>, ce dernier est affligé d'un œil du cyclone qui explose après un moment en infligeant des DGT de zone de l'élément correspondant.\nLa bombe du vide du style Fudou peut affecter un maximum de 4 ennemis avec un œil du cyclone, mais un même ennemi ne peut pas subir l'effet de plusieurs yeux du cyclone de différents éléments en même temps.\n\n<i>Cette technique unique canalise l'élément Anémo en un seul endroit avant de tout déchaîner d'un seul coup. Un atout toujours disponible pour corriger tout criminel qui s'enfuit !</i>",
+      "pt": "Salta no ar e usa a Bomba de Vácuo Fudou para chutar seus inimigos explosivamente. Ao atingir os inimigos, a Bomba de Vácuo Fudou gerará um Túnel de Vento Repreendedor que atrairá inimigos e objetos próximos, infligindo <color=#80FFD7FF>Dano Anemo em AdE</color>.\nQuando a Bomba de Vácuo Fudou atinge inimigos afetados por <color=#80C0FFFF>Hydro</color>/<color=#FF9999FF>Pyro</color>/<color=#99FFFFFF>Cryo</color>/<color=#FFACFFFF>Electro</color>, esses inimigos serão afetados pelo efeito \"Olho do Furacão\". Esse efeito explodirá após um breve momento e infligirá Dano em AdE do tipo elemental correspondente.\nBomba de Vácuo Fudou pode atingir até 4 inimigos com Olho do Furacão; os inimigos não poderão estar sob a influência de Olhos do Furacão de elementos diferentes simultaneamente.\n\n<i>Uma técnica que reúne Anemo em um local antes de desferi-lo em um único chute. Sempre está presente para chutar as costas de algum criminoso fugitivo.</i>",
+      "ru": "Взмывает в воздух и совершает взрывной удар Снаряда пустоты стиля Фудо. Снаряд пустоты при попадании взрывается и создаёт Ураганный туннель, притягивающий предметы и противников поблизости, а также наносит <color=#80FFD7FF>Анемо урон по площади</color>.\nПри попадании по противникам под воздействием <color=#80C0FFFF>Гидро</color>/<color=#FF9999FF>Пиро</color>/<color=#99FFFFFF>Крио</color>/<color=#FFACFFFF>Электро</color> Снаряд пустоты стиля Фудо накладывает на них Око урагана, которое вскоре взрывается и наносит урон по площади соответствующей стихией.\nСнаряд пустоты стиля Фудо может наложить Око урагана максимум на 4 поражённых им противников. Один и тот же противник не может одновременно находиться под воздействием Ока урагана разных стихий.\n\n<i>Уникальный приём, который собирает мощь Анемо в одном ударе. Он поражает преступников всякий раз, когда те после разоблачения всё ещё пытаются улизнуть.</i>",
+      "id": "Melompat ke udara dan menandang Fudou Style Vacuum Slugger ke arah lawan. Saat mengenai musuh, Fudou Style Vacuum Slugger akan menciptakan area berangin yang menarik objek dan musuh di sekitar, lalu mengakibatkan <color=#80FFD7FF>Anemo DMG Area</color>.\nSaat Vacuum Slugger mengenai musuh yang terkena efek <color=#80C0FFFF>Hydro</color>/<color=#FF9999FF>Pyro</color>/<color=#99FFFFFF>Cryo</color>/<color=#FFACFFFF>Electro</color>, maka musuh trsebut akan terkena Windmuster Iris yang akan meledak setelah beberapa saat dan mengakibatkan DMG Area dari tipe elemen yang disebutkan sebelumnya.\nVacuum Slugger dapat memukul maks. 4 musuh dengan menggunakan Windmuster Iris. Musuh tidak bisa terpengaruh efek Windmuster Iris dari elemen berbeda dalam waktu yang bersamaan.\n\n<i>Teknik unik mengumpulkan Anemo di satu tempat sebelum akhirnya dilepaskan dalam satu tendangan. Tendangan ini selalu siap dalam keadaan darurat kapan pun juga untuk mendarat di punggung para kriminal yang berani melarikan diri.</i>",
+      "th": "กระโดดขึ้นไปกลางอากาศ และใช้ท่าเตะ Fudou Style Vacuum Slugger ใส่ศัตรู โดยในตอนที่ Fudou Style Vacuum Slugger ระเบิดเมื่อถูกเป้าหมาย จะก่อให้เกิด Arresting Windtunnel ซึ่งจะดึงดูดวัตถุและศัตรูที่อยู่ในบริเวณใกล้เคียงให้เข้าไป เกิดเป็น<color=#80FFD7FF>ความเสียหายลมวงกว้าง</color>\nเมื่อ Vacuum Slugger ถูกศัตรูที่ติดสถานะ <color=#80C0FFFF>ธาตุน้ำ</color>/<color=#FF9999FF>ธาตุไฟ</color>/<color=#99FFFFFF>ธาตุน้ำแข็ง</color>/<color=#FFACFFFF>ธาตุไฟฟ้า</color> ศัตรูเหล่านี้จะถูกเอฟเฟกต์ \"Windmuster Iris\" ซึ่งจะระเบิดไม่นานหลังจากนั้นและหายไป พร้อมทำให้เกิดความเสียหายของธาตุที่เกี่ยวข้องเป็นวงกว้าง\nVacuum Slugger จะทำให้เกิดเอฟเฟกต์ \"Windmuster Iris\" แก่ศัตรูที่ถูกโจมตีได้มากสุด 4 ตัว โดยตัวศัตรูจะไม่สามารถอยู่ในสถานะ \"Windmuster Iris\" ของคุณลักษณะธาตุหลายอย่างพร้อมกันได้\n\n<i>การเคลื่อนไหวเฉพาะตัวที่รวบรวมธาตุลมไว้ที่จุดเดียวและเตะออกไป ซึ่งมักจะเตะไปโดนแผ่นหลังของผู้กระทำผิดที่ถูกเปิดเผยตัวและกำลังวิ่งหนีกระเจิดกระเจิงเสมอ</i>",
+      "vi": "Nhảy lên và tung Trường Phái Fudou - Đạn Chân Không về phía kẻ địch, khi trúng sẽ phát nổ, tạo ra Hang Gió để hút lấy vật thể và kẻ địch xung quanh, gây <color=#80FFD7FF>Sát Thương Phạm Vi Nguyên Tố Phong</color>.\nTrường Phái Fudou - Đạn Chân Không khi đánh trúng kẻ địch đính kèm <color=#80C0FFFF>Nguyên Tố Thủy</color>/<color=#FF9999FF>Nguyên Tố Hỏa</color>/<color=#99FFFFFF>Nguyên Tố Băng</color>/<color=#FFACFFFF>Nguyên Tố Lôi</color> sẽ kích hoạt hiệu ứng \"Tụ Phong Nhãn\", hiệu ứng này sẽ phát nổ trong giây lát và gây sát thương phạm vi của thuộc tính nguyên tố tương ứng.\nTrường Phái Fudou - Đạn Chân Không tối đa gây \"Tụ Phong Nhãn\" cho 4 kẻ địch trúng phải; Kẻ địch sẽ không thể ở trong trạng thái \"Tụ Phong Nhãn\" của nhiều loại nguyên tố cùng một lúc.\n\n<i>Tích tụ nguyên tố Phong và đá chúng đi là chiêu thức đặc biệt, sẽ luôn đá trúng kẻ địch khi chúng cố chạy trốn.</i>"
+    }
+  },
+  {
+    "title": {
+      "zhs": "反论稽古",
+      "zht": "反論稽古",
+      "jp": "反論稽古",
+      "ko": "반론의 고찰",
+      "en": "Paradoxical Practice",
+      "de": "Unterricht der Ablehnung",
+      "es": "Práctica paradójica",
+      "fr": "Pratique paradoxale",
+      "pt": "Prática Paradoxal",
+      "ru": "Парадоксальное учение",
+      "id": "Paradoxical Practice",
+      "th": "Paradoxical Practice",
+      "vi": "Kinh Nghiệm Phản Biện"
+    },
+    "description": {
+      "zhs": "鹿野院平藏在场上触发扩散反应时，将获得1层<color=#FFD780FF>勠心拳</color>的「变格」效果，该效果每0.1秒至多触发一次。",
+      "zht": "鹿野院平藏在場上觸發擴散反應時，將獲得1層<color=#FFD780FF>勠心拳</color>的「變格」效果，該效果每0.1秒至多觸發一次。",
+      "jp": "鹿野院平蔵がフィールド上で拡散反応を起こした時、<color=#FFD780FF>戮心拳</color>の「変格」効果を1層獲得する。この効果は0.1秒毎に1回のみ発動可能。",
+      "ko": "시카노인 헤이조가 필드에서 확산 반응을 일으키면 <color=#FFD780FF>쇄심권</color>의 「변격」 효과를 1스택 획득한다. 해당 효과는 0.1초마다 최대 1회 발동된다",
+      "en": "When Shikanoin Heizou activates a Swirl reaction while on the field, he will gain 1 Declension stack for <color=#FFD780FF>Heartstopper Strike</color>. This effect can be triggered once every 0.1s.",
+      "de": "Shikanoin Heizou erhält beim Auslösen einer Verwirbelung auf dem Feld eine Stapelung des Effekts „Deklination“ für die <color=#FFD780FF>Faust der Brüderlichkeit</color>, 0,1 s Abklingzeit.",
+      "es": "Cuando Shikanoin Heizou causa una reacción de Torbellino mientras está en uso, obtiene 1 carga de decantación para <color=#FFD780FF>Puñetazo cardiaco</color>. Esto solo puede ocurrir una vez cada 0.1 s.",
+      "fr": "Lorsque Shikanoin Heizou déclenche une réaction de Dispersion sur le champ de bataille, il obtient 1 cumul de Détection pour <color=#FFD780FF>Poing d'arrêt cardiaque</color>. Cet effet peut être déclenché une fois toutes les 0,1 s.",
+      "pt": "Quando Shikanoin Heizou está ativo no campo de batalha e desencadeia a reação de Redemoinho, ele obtém um acúmulo do efeito \"Declinação\" de <color=#FFD780FF>Soco Cardíaco</color>. Esse efeito pode ser desencadeado uma vez por 0.1 segundo.",
+      "ru": "Когда Сиканоин Хэйдзо, будучи активным персонажем, вызывает реакцию Рассеивания, он получает 1 уровень эффекта Отклонения <color=#FFD780FF>Убиения сердца</color>. Эффект может возникнуть один раз в 0,1 сек.",
+      "id": "Saat Shikanoin Heizou mengaktifkan reaksi Swirl saat dalam medan tempur, dia akan mendapatkan 1 lapis Declension untuk <color=#FFD780FF>Heartstopper Strike</color>. Efek ini terpicu setiap 0,1 detik.",
+      "th": "เมื่อ Shikanoin Heizou ทำให้เกิดปฏิกิริยาการกระจาย จะได้รับเอฟเฟกต์ Declension ของ <color=#FFD780FF>Heartstopper Strike</color> 1 ชั้น โดยที่ทุก 0.1 วินาที เอฟเฟกต์นี้จะสามารถเกิดขึ้นได้มากสุด 1 ครั้ง",
+      "vi": "Shikanoin Heizou khi kích hoạt phản ứng khuếch tán sẽ nhận 1 tầng \"Biến Cách\" của <color=#FFD780FF>Lục Tâm Quyền</color>, hiệu quả này mỗi 0.1s tối đa kích hoạt một lần."
+    }
+  },
+  {
+    "title": {
+      "zhs": "因由勘破",
+      "zht": "因由勘破",
+      "jp": "因由勘破",
+      "ko": "원인 간파",
+      "en": "Penetrative Reasoning",
+      "de": "Durchschauen der Motive",
+      "es": "Razonamiento penetrante",
+      "fr": "Raisonnement indéniable",
+      "pt": "Razão Penetradora",
+      "ru": "Пробивная аргументация",
+      "id": "Penetrative Reasoning",
+      "th": "Penetrative Reasoning",
+      "vi": "Nhìn Thấu Nguyên Do"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>勠心拳</color>命中敌人后，队伍中所有角色（不包括鹿野院平藏自己）的元素精通提升80点，持续10秒。",
+      "zht": "<color=#FFD780FF>勠心拳</color>命中敵人後，隊伍中所有角色（不包括鹿野院平藏自己）的元素精通提升80點，持續10秒。",
+      "jp": "<color=#FFD780FF>戮心拳</color>が敵に命中すると、チーム全員（鹿野院平蔵自身を除く）の元素熟知+80、継続時間10秒。",
+      "ko": "<color=#FFD780FF>쇄심권</color>이 적에게 명중한 후, 파티 내 모든 캐릭터(시카노인 헤이조 제외)의 원소 마스터리가 80pt 증가한다. 지속 시간: 10초",
+      "en": "After Shikanoin Heizou's <color=#FFD780FF>Heartstopper Strike</color> hits an opponent, increases all party members' (excluding Shikanoin Heizou) Elemental Mastery by 80 for 10s.",
+      "de": "Erhöht beim Treffen von Gegnern mit der <color=#FFD780FF>Faust der Brüderlichkeit</color> die Elementarkunde aller Truppenmitglieder (außer Shikanoin Heizou selbst) 10 s lang um 80 Punkte.",
+      "es": "Al golpear a un enemigo con <color=#FFD780FF>Puñetazo cardiaco</color>, la Maestría Elemental de todos los miembros del equipo (a excepción de Shikanoin Heizou) aumenta en 80 pts. durante 10 s.",
+      "fr": "Lorsque <color=#FFD780FF>Poing d'arrêt cardiaque</color> a touché un ennemi, la maîtrise élémentaire de tous les personnages de l'équipe (hormis Shikanoin Heizou) augmente de 80 pts pendant 10 s.",
+      "pt": "Quando <color=#FFD780FF>Soco Cardíaco</color> atinge o inimigo, aumenta a Proficiência Elemental em 80 pontos para todos os membros da equipe (não inclui Shikanoin Heizou) por 10s.",
+      "ru": "<color=#FFD780FF>Убиение сердца</color> после попадания по противнику увеличивает мастерство стихий всех членов отряда (кроме самого Хэйдзо) на 80 ед. на 10 сек.",
+      "id": "Setelah <color=#FFD780FF>Heartstopper Strike</color> milik Shikanoin Heizou mengenai musuh, maka akan meningkatkan Elemental Mastery seluruh anggota party (tidak termasuk Shikanoin Heizou) sebesar 80 selama 10 detik.",
+      "th": "หลังจากที่ <color=#FFD780FF>Heartstopper Strike</color> ถูกเป้าหมาย ความชำนาญธาตุของตัวละครทั้งหมดในทีม (ไม่รวมตัวของ Shikanoin Heizou เอง) จะเพิ่มขึ้น 80 หน่วย เป็นเวลา 10 วินาที",
+      "vi": "<color=#FFD780FF>Lục Tâm Quyền</color> khi đánh trúng kẻ địch, tất cả nhân vật trong đội (Không bao gồm bản thân Heizou) tăng 80 Tinh Thông Nguyên Tố, duy trì 10s."
+    }
+  },
+  {
+    "title": {
+      "zhs": "在罪之先",
+      "zht": "在罪之先",
+      "jp": "罪より前に",
+      "ko": "범인보다 한발 먼저",
+      "en": "Pre-Existing Guilt",
+      "de": "Verbrechen zuvorkommen",
+      "es": "Un paso adelante",
+      "fr": "Culpabilité préexistante",
+      "pt": "Culpa Pré-Existente",
+      "ru": "Предшествующая вина",
+      "id": "Pre-Existing Guilt",
+      "th": "Pre-Existing Guilt",
+      "vi": "Có Tội Từ Trước"
+    },
+    "description": {
+      "zhs": "队伍中自己的角色冲刺消耗的体力降低20%。\n无法与效果完全相同的固有天赋叠加。",
+      "zht": "隊伍中自己的角色衝刺消耗的體力降低20%。\n無法與效果完全相同的固有天賦疊加。",
+      "jp": "チーム内の自身のキャラクター全員がダッシュに消費するスタミナ-20%。\n同じ効果を持つ固有天賦との重ね掛け不可。",
+      "ko": "파티 내 자신의 캐릭터의 대시 시 소모하는 스태미나가 20% 감소한다.\n같은 효과의 고유 특성과 중첩되지 않는다",
+      "en": "Decreases sprinting Stamina consumption for your own party members by 20%.\nNot stackable with Passive Talents that provide the exact same effects.",
+      "de": "Verringert die beim Rennen verbrauchte Ausdauer aller eigenen Truppenmitglieder um 20 %.\nNicht mit passiven Talenten mit völlig gleichen Effekten stapelbar.",
+      "es": "Disminuye en un 20% el Coste de Aguante al esprintar de todos los miembros de tu equipo.\nNo se puede acumular con otros talentos pasivos que tengan los mismos efectos.",
+      "fr": "Réduit la consommation d'endurance des personnages de l'équipe de 20 % lors du sprint.\nNe peut pas être cumulé avec d'autres aptitudes passives aux effets identiques.",
+      "pt": "Diminui o consumo de Stamina ao correr de todos os seus membros da equipe em 20%.\nNão acumulável com Talentos Passivos que concedem exatamente os mesmos efeitos.",
+      "ru": "Уменьшает потребление выносливости активного персонажа во время спринта на 20%.\nНе суммируется с пассивными талантами, дающими точно такие же эффекты.",
+      "id": "Mengurangi 20% konsumsi Stamina Karakter sendiri saat berlari.\nEfek tidak dapat ditumpuk dengan Talenta Pasif lain yang memiliki efek yang sama.",
+      "th": "ลดอัตราการเสียพลังกายจากการวิ่ง ให้ตัวละครของตนเองที่อยู่ในทีมลง 20%\nไม่สามารถซ้อนทับพรสวรรค์ติดตัวที่เอฟเฟกต์เหมือนกันทุกประการได้",
+      "vi": "Giảm 20% tiêu hao thể lực khi xung kích cho nhân vật của bản thân trong đội.\nKhông thể cộng dồn với buff Thiên Phú cố định có cùng hiệu quả."
+    }
+  }
+]

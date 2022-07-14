@@ -1239,7 +1239,7 @@
       "en": "Variety is the spice of life. In that sense, the Milk Tea Medley they started serving over in Hanamizaka recently isn't half bad. You should try it sometime. Other than that... I don't have any particular preferences when it comes to the food I eat on a daily basis. I have dedicated staff to arrange my daily meal plan, and whatever they serve, I eat.",
       "de": "Neue Dinge können Frische in einen langweiligen Alltag bringen. Das neue Milchteesortiment in Hanamizaka ist sehr gut, das solltest du auch probieren. Allerdings habe ich keine Vorliebe für tägliche Mahlzeiten. Ich habe einen speziellen Untergebenen, der meine täglichen Mahlzeiten plant. Ich esse alles, was mir serviert wird.",
       "es": "La variedad es lo que da sabor a la vida. En ese sentido, el té con leche mixto que han empezado a vender hace poco en Hanamizaka no está del todo mal. Deberías probarlo alguna vez. No tengo ninguna preferencia en cuanto a lo que como a diario. Tengo personal dedicado a organizar mis comidas diarias, así que como lo que me sirven.",
-      "fr": "Les choses novatrices sont un vrai bol de fraîcheur dans une vie monotone. Le nouvel assortiment de thé au lait d'Hanamizaka n'est vraiment pas mauvais, vous devriez l'essayer. En dehors de ça... je n'ai pas de préférence en ce qui concerne les plats du quotidien. Tous mes repas sont planifiés par mes subordonnés, alors je mange tout ce que l'on me sert.",
+      "fr": "Les choses novatrices sont un vrai bol de fraîcheur dans une vie monotone. Le nouvel assortiment de thé au lait de Hanamizaka n'est vraiment pas mauvais, vous devriez l'essayer. En dehors de ça... je n'ai pas de préférence en ce qui concerne les plats du quotidien. Tous mes repas sont planifiés par mes subordonnés, alors je mange tout ce que l'on me sert.",
       "pt": "A variedade é o que dá sabor à vida. Neste caso, o chá com leite que começaram a servir em Hanamizaka recentemente não é nada mal. Você deveria experimentar. Além disso... eu não diria que tenho nenhuma preferência em particular quando se trata de comida que como diariamente. Tenho uma equipe de funcionários dedicados em planejar o que como diariamente, e seja lá o que servirem, eu como.",
       "ru": "Новизна вносит разнообразие в скучную повседневность. Новый чай с молоком, который продают в Ханамидзаке, не так уж и плох. Тебе стоит попробовать. А так... У меня нет особых предпочтений в ежедневной пище. Мои слуги занимаются моим питанием, и всё, что они подают, я ем.",
       "id": "Variasi adalah bumbu kehidupan. Oh ya, Milk Tea Medley yang baru-baru ini mulai dijual di Hanamizaka lumayan juga. Kapan-kapan kamu harus coba. Selain itu .... Tidak ada preferensi khusus untuk makananku sehari-hari. Sudah ada bawahan yang mengatur makananku setiap harinya, dan apa pun yang mereka sajikan, aku makan.",
@@ -1309,6 +1309,102 @@
       "id": "Hmm ... sepertinya aku salah pakai antara garam dan gula. Mizu Manjuu yang gurih ya, hmm .... Boleh lah. Biar Thoma saja yang makan.",
       "th": "...อา น้ำตาลกับเกลือสลับกันอีกแล้ว Mizu Manjuu แบบเค็ม... อืม ได้แหละ ให้ Thoma กินละกัน",
       "vi": "...Chà, lộn đường với muối rồi. Bánh bao nước vị mặn sao... cũng được, mang cho Thoma ăn."
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其一",
+      "zht": "收到贈禮·其一",
+      "jp": "贈り物を受け取る·1",
+      "ko": "선물 획득·첫 번째",
+      "en": "Receiving a Gift: I",
+      "de": "Geschenk erhalten I",
+      "es": "Al recibir un regalo (I)",
+      "fr": "Cadeau reçu (1)",
+      "pt": "Recebendo Presentes — I",
+      "ru": "Подарок I",
+      "id": "Menerima Hadiah: I",
+      "th": "ได้รับของขวัญ - 1",
+      "vi": "Nhận Được Quà I"
+    },
+    "line": {
+      "zhs": "挺新奇的滋味。呵呵，很符合我的要求…",
+      "zht": "挺新奇的滋味。呵呵，很符合我的要求…",
+      "jp": "斬新な味ですね。ふふっ、気に入りました…",
+      "ko": "색다른 맛이군요. 하하, 제가 원하던 맛이에요…",
+      "en": "Very novel indeed. Haha, it meets my requirements perfectly...",
+      "de": "Ein ganz neuer Geschmack. Oh, das ist ganz nach meiner Vorstellung ...",
+      "es": "Muy novedoso. Jaja, cumple a la perfección con mis expectativas.",
+      "fr": "C'est très novateur en effet. Haha, cela répond parfaitement à mes exigences...",
+      "pt": "Hmm, muito inovador. Haha, atende a meus requisitos perfeitamente...",
+      "ru": "Действительно очень необычно. Ха-ха, это полностью соответствует моим требованиям...",
+      "id": "Rasa yang benar-benar baru. Haha, sesuai keinginanku.",
+      "th": "เป็นรสชาติที่ค่อนข้างแปลกใหม่ หึหึ ถูกปากฉันมากเลย...",
+      "vi": "Hương vị rất mới lạ. Haha, rất hợp với khẩu vị của tôi đấy..."
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其二",
+      "zht": "收到贈禮·其二",
+      "jp": "贈り物を受け取る·2",
+      "ko": "선물 획득·두 번째",
+      "en": "Receiving a Gift: II",
+      "de": "Geschenk erhalten II",
+      "es": "Al recibir un regalo (II)",
+      "fr": "Cadeau reçu (2)",
+      "pt": "Recebendo Presentes — II",
+      "ru": "Подарок II",
+      "id": "Menerima Hadiah: II",
+      "th": "ได้รับของขวัญ - 2",
+      "vi": "Nhận Được Quà II"
+    },
+    "line": {
+      "zhs": "原来如此。你对这道菜的理解是这样的…",
+      "zht": "#原來如此。{F#妳}{M#你}對這道菜的理解是這樣的…",
+      "jp": "なるほど。貴方はこの料理に対して、そのような理解をされているのですね…",
+      "ko": "그랬군요. 이 요리를 이렇게 이해하셨다니…",
+      "en": "I see. So this is your take on this dish...",
+      "de": "Ach so,. Hier ist also deine Meinung zu diesem Gericht ...",
+      "es": "Ya veo. Así que esta es tu interpretación de este plato...",
+      "fr": "Je vois. Alors c'est ça votre interprétation de ce plat...",
+      "pt": "Entendo... Então essa é a sua abordagem neste tipo de prato...",
+      "ru": "Ясно. Так вот как ты видишь это блюдо...",
+      "id": "Ah. Ternyata begini ya pemahamanmu tentang hidangan ini ....",
+      "th": "อย่างนี้นี่เอง นี่คือความเข้าใจของคุณที่มีต่อจานนี้สินะ...",
+      "vi": "#Hóa ra {F#cô}{M#cậu} hiểu biết về món ăn này như vậy..."
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其三",
+      "zht": "收到贈禮·其三",
+      "jp": "贈り物を受け取る·3",
+      "ko": "선물 획득·세 번째",
+      "en": "Receiving a Gift: III",
+      "de": "Geschenk erhalten III",
+      "es": "Al recibir un regalo (II)",
+      "fr": "Cadeau reçu (3)",
+      "pt": "Recebendo Presentes — III",
+      "ru": "Подарок III",
+      "id": "Menerima Hadiah: III",
+      "th": "ได้รับของขวัญ - 3",
+      "vi": "Nhận Được Quà III"
+    },
+    "line": {
+      "zhs": "给你个建议，下次把这道菜加进火锅游戏里吧。",
+      "zht": "#給{F#妳}{M#你}個建議，下次把這道菜加進火鍋遊戲裡吧。",
+      "jp": "一つ提案があります。今度この料理を「鍋遊び」に入れましょう。",
+      "ko": "제안 하나 드리자면, 다음번엔 이 요리를 전골 게임에 추가하는 게 어떨까요?",
+      "en": "Here's a suggestion: Try using this dish in the hot pot game next time you play.",
+      "de": "Ein Vorschlag für dich: Nimm dieses Gericht das nächste Mal in dein Feuertopfspiel auf.",
+      "es": "Una sugerencia: prueba a utilizar este plato la próxima vez que juegues al juego de shabu shabu.",
+      "fr": "Voilà une suggestion : pourquoi ne pas utiliser ce plat au jeu de la marmite la prochaine fois ?",
+      "pt": "Deixe-me lhe dar uma sugestão: tente usar esse prato no próximo jogo de shabu-shabu que você jogar.",
+      "ru": "Дам тебе совет: попробуй использовать это блюдо при следующей игре в сябу-сябу.",
+      "id": "Ini saran saja, tapi kamu boleh coba masukkan hidangan ini ke permainan tantangan hot pot berikutnya.",
+      "th": "ฉันขอแนะนำอย่างหนึ่ง คราวหน้าก็เพิ่มเมนูนี้ลงในเกมหม้อไฟด้วยสิ",
+      "vi": "Một gợi ý hay đấy, thử dùng món này cho trò chơi nấu lẩu lần sau nhé."
     }
   },
   {

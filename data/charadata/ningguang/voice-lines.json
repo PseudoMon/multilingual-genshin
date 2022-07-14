@@ -26,7 +26,7 @@
       "fr": "Je suis la Megrez des Sept Étoiles, Ningguang. Faisons affaire : soyez mon garde du corps, et moi je vous apprends comment avoir toujours un coup d'avance à Liyue.",
       "pt": "Eu sou a Ningguang, Tianquan de Qixing. Deseja fazer negócios? Você será meu guarda-costas pessoal e eu lhe mostrarei como obter sucesso em Liyue.",
       "ru": "Я госпожа Нин Гуан, Воля Небес группировки Цисин. Хочешь торговать? Будь моим телохранителем, а я покажу тебе, как превзойти всех в Ли Юэ.",
-      "id": "Aku Ningguang, Tianquan dari Qixing. Apa kamu ingin bertransaksi? Kamu bisa menjadi pengawalku dan akan kutunjukkan cara agar kamu bisa sukses di Liyue.",
+      "id": "Aku Ningguang, Tianquan Qixing. Mau buat kesepakatan denganku? Kamu bisa jadi pengawalku dan akan kuajarkan kiat-kiat agar bisa sukses di Liyue.",
       "th": "ฉันคือ Ningguang Tianquan แห่ง Qixing อยากจะแลกเปลี่ยนมั้ย? เธอมาเป็นบอดี้การ์ดส่วนตัวของฉัน ส่วนฉันก็จะสอนเทคนิคที่ทำให้ เหนือกว่าคนอื่น ๆ ใน Liyue ให้",
       "vi": "Tôi là Thiên Quyền của Thất Tinh, Ningguang. Muốn thực hiện giao dịch à? Bạn đến làm thị vệ thân cận của tôi, còn tôi, sẽ dạy bạn kỹ xảo vượt trội ở Liyue."
     }
@@ -122,7 +122,7 @@
       "fr": "Nous devrions chercher de nouveaux investissements. L'argent ne pousse pas sur les arbres.",
       "pt": "Busque novos investimentos. Afinal de contas, Mora não cresce em árvores.",
       "ru": "Нам следует найти новый объект для инвестиций. В конце концов моры много не бывает.",
-      "id": "Kita harus mencari investasi yang baru. Bagaimanapun juga, Mora tidak bisa tumbuh sendiri.",
+      "id": "Harus tanam modal di bidang baru lagi. Mora tidak tumbuh di pohon.",
       "th": "มองหาการลงทุนใหม่ ๆ เถอะ Mora ไม่ได้งอกบนต้นไม้นะ",
       "vi": "Hãy tìm khoản đầu tư mới. Cho dù thế nào, cũng chẳng ai chê Mora nhiều đâu."
     }
@@ -346,7 +346,7 @@
       "fr": "Le salon de thé est plein ? Soit, allons à la Chambre de Jade... si vous en avez les moyens.",
       "pt": "A Casa do Chá já está com tudo cheio? Então, venha sentar-se na Câmara de Jade... Se tiver dinheiro suficiente, é claro.",
       "ru": "В чайном домике нет мест? Тогда пойдём в Нефритовый дворец... Если ты можешь себе это позволить.",
-      "id": "Sudah tidak ada tempat kosong di Tea House? Baiklah, ayo kita duduk di Jade Chamber saja... jika kamu mampu membayar biayanya.",
+      "id": "Sudah tidak ada tempat kosong di kedai? Baik, kita duduk di Jade Chamber saja ... kalau kamu mampu.",
       "th": "โรงน้ำชาโต๊ะเต็มแล้วเหรอ? งั้นไปนั่งที่ Jade Chamber กันเถอะ ขอแค่...เธอจ่ายไหวนะ",
       "vi": "Quán trà đã đầy khách? Vậy thì đến Quần Ngọc Các đi. Chỉ cần... bạn trả nổi là được."
     }
@@ -819,7 +819,7 @@
       "zhs": "「万民堂」的小丫头…总是把对我的猜疑写在脸上。呵，要是让她知道了，这些年来我对「万民堂」的资助…她会露出怎样的表情来呢？",
       "zht": "「萬民堂」的小丫頭…總是把對我的猜疑寫在臉上。呵，要是讓她知道了，這些年來我對「萬民堂」的資助…她會露出怎樣的表情來呢？",
       "jp": "「万民堂」の小娘ね…いつも私を疑っているのは顔を見れば分かるわ。ふふっ、ここ数年私が「万民堂」に送った資金援助の額をあの子が知ったら、どんな顔するんでしょうね？",
-      "ko": "「만민당」의 그 여자아이… 얼굴에 날 경게한다고 써 있어. 훗, 그 아이가 요 몇 년 내가 「만민당」한 후원을 안다면… 어떤 표정을 지을까?",
+      "ko": "「만민당」의 그 여자아이… 얼굴에 날 경계한다고 쓰여 있어. 훗, 그 아이가 요 몇 년 내가 「만민당」에 한 후원을 안다면… 어떤 표정을 지을까?",
       "en": "That girl from Wanmin Restaurant... Her suspicion towards me is always written all over her face... Hehe, I wonder what face she would make if only she knew how much I helped finance that restaurant...",
       "de": "Dieses Mädchen vom Restaurant Wanmin ... wie misstrauisch sie mir gegenüber steht. Wenn sie nur wüsste, wie sehr ich das Restaurant in den letzten Jahren finanziell unterstützt habe ... Was für ein Gesicht sie dann wohl machen würde?",
       "es": "Esa chica del Restaurante Wanmin... Veo en su rostro que no se fía de mí... ¡Ja! Me pregunto qué cara pondría si supiera todo lo que ayudé con la financiación de su restaurante...",
@@ -1373,6 +1373,102 @@
       "id": "Aku kenal orang yang selalu pesan Golden Crab setiap kali dia makan. Mewah dan mahal, tapi yang seperti itu aku sedikit pun tidak tertarik. Kalau kamu pernah terpikir untuk mengajakku makan malam seperti itu, tidak usah. Mending langsung kasih Mora-nya saja sekalian.",
       "th": "ทุกครั้งที่มีงานเลี้ยงฉันมักจะเห็นคนสั่งอาหารหรูแสนแพงอย่าง Golden Crab แต่ฉันก็ไม่ได้รู้สึกดีหรอกนะ ถ้าจะใช้เมนูพวกนี้มาเอาใจฉัน ทีหลังเอา Mora มาให้ฉันเลยจะดีกว่า",
       "vi": "Tôi từng thấy có người mỗi lần ăn tiệc đều gọi Cua Hoàng Kim, món này trông có vẻ rất sang trọng nhưng tôi chẳng có cảm giác gì. Nếu bạn muốn dùng yến tiệc như vậy mời tôi, thì chi bằng trực tiếp đưa Mora cho tôi là được."
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其一",
+      "zht": "收到贈禮·其一",
+      "jp": "贈り物を受け取る·1",
+      "ko": "선물 획득·첫 번째",
+      "en": "Receiving a Gift: I",
+      "de": "Geschenk erhalten I",
+      "es": "Al recibir un regalo (I)",
+      "fr": "Cadeau reçu (1)",
+      "pt": "Recebendo Presentes — I",
+      "ru": "Подарок I",
+      "id": "Menerima Hadiah: I",
+      "th": "ได้รับของขวัญ - 1",
+      "vi": "Nhận Được Quà I"
+    },
+    "line": {
+      "zhs": "不错。你总能出乎我的意料。",
+      "zht": "#不錯。{F#妳}{M#你}總能出乎我的意料。",
+      "jp": "悪くないわ。あなたっていつも、私の予想を超えてくるのね。",
+      "ko": "훌륭해, 넌 항상 내 예상을 뒤엎는군",
+      "en": "Mmm... You have surpassed my expectations, again.",
+      "de": "Sehr schön. Du übertriffst immer meine Erwartungen.",
+      "es": "Mmm... Una vez más, has superado con creces mis expectativas.",
+      "fr": "Pas mal. Vous dépassez sans cesse mes attentes.",
+      "pt": "Muito bom. Você sempre me surpreende.",
+      "ru": "#Неплохо. Ты снова {F#превзошла}{M#превзошёл} мои ожидания.",
+      "id": "Hmm. Kamu selalu bisa mengejutkanku.",
+      "th": "ไม่เลวนี่ เธอทำให้ฉันประหลาดใจได้เสมอ",
+      "vi": "Không tệ. Bạn đúng là khiến tôi phải bất ngờ đấy."
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其二",
+      "zht": "收到贈禮·其二",
+      "jp": "贈り物を受け取る·2",
+      "ko": "선물 획득·두 번째",
+      "en": "Receiving a Gift: II",
+      "de": "Geschenk erhalten II",
+      "es": "Al recibir un regalo (II)",
+      "fr": "Cadeau reçu (2)",
+      "pt": "Recebendo Presentes — II",
+      "ru": "Подарок II",
+      "id": "Menerima Hadiah: II",
+      "th": "ได้รับของขวัญ - 2",
+      "vi": "Nhận Được Quà II"
+    },
+    "line": {
+      "zhs": "有时，没有把握关键要素，就等于徒劳无功…能明白么？",
+      "zht": "有時，沒有把握關鍵要素，就等於徒勞無功…能明白嗎？",
+      "jp": "肝心な要素を掴めていなければ、せっかくの努力も水の泡よ…分かる？",
+      "ko": "핵심을 파악하지 못한다면 다 무용지물이 되는 수 있어… 무슨 말인지 알겠니?",
+      "en": "With some things, if you haven't grasped the essentials, all the hard work in the world can go to waste... Know what I mean?",
+      "de": "Manchmal ist es eine Übung in Vergeblichkeit, wenn man die Schlüsselelemente nicht begreift ... Kannst du das verstehen?",
+      "es": "Con algunas cosas, si no dominas los fundamentos, tu trabajo podría no servir de nada por mucho que te esfuerces. ¿Entiendes lo que quiero decir?",
+      "fr": "Parfois, il arrive qu'une démarche échoue si on ne parvient pas à saisir un élément crucial... Vous comprenez ?",
+      "pt": "Às vezes, não entender os elementos-chave é o mesmo que desperdiçar seus esforços... Entende?",
+      "ru": "Иногда, если не понимаешь основы, то вся работа становится бесполезной... Понимаешь, о чём я?",
+      "id": "Terkadang, seluruh pekerjaan kita bisa jadi sia-sia kalau kita tidak memahami dasar-dasarnya ... Kamu bisa menangkap maksudku, kan?",
+      "th": "บางครั้งการไม่เข้าใจส่วนสำคัญ ก็เท่ากับว่าความพยายามทั้งหมดนั้นสูญเปล่า... เธอพอเข้าใจมั้ย?",
+      "vi": "Đôi khi, nếu không nắm bắt được yếu tố then chốt, thì chẳng khác nào tốn công vô ích... bạn hiểu chứ?"
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其三",
+      "zht": "收到贈禮·其三",
+      "jp": "贈り物を受け取る·3",
+      "ko": "선물 획득·세 번째",
+      "en": "Receiving a Gift: III",
+      "de": "Geschenk erhalten III",
+      "es": "Al recibir un regalo (II)",
+      "fr": "Cadeau reçu (3)",
+      "pt": "Recebendo Presentes — III",
+      "ru": "Подарок III",
+      "id": "Menerima Hadiah: III",
+      "th": "ได้รับของขวัญ - 3",
+      "vi": "Nhận Được Quà III"
+    },
+    "line": {
+      "zhs": "心意我领了。",
+      "zht": "心意我領了。",
+      "jp": "気持ちは受け取っておくわ。",
+      "ko": "마음만 받을게",
+      "en": "Ugh... It's the thought that counts.",
+      "de": "Danke trotzdem für deine Mühen.",
+      "es": "Oh... Bueno, lo que cuenta es la intención.",
+      "fr": "J'apprécie l'intention.",
+      "pt": "O que vale é a intenção.",
+      "ru": "Я ценю твои намерения.",
+      "id": "Ugh, yang penting kamu punya niatnya.",
+      "th": "ฉันจะรับความหวังดีของเธอไว้นะ",
+      "vi": "Tấm lòng của bạn tôi xin nhận."
     }
   },
   {

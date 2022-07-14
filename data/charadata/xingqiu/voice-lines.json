@@ -377,7 +377,7 @@
       "es": "No me encuentro con apetito para comer arroz en el almuerzo. Me deleitaré con algo de repostería. Si como mientras estudio, ¡mi padre y mi hermano nunca me descubrirán! Oh, ¿quieres venir conmigo? Bueno... Mientras no se te caiga la comida en los libros, supongo que está bien.",
       "fr": "Je n'ai guère envie de prendre un repas trop lourd. Plutôt quelques snacks... Tant que je mange à l'étude, mon frère comme mon père n'en sauront rien ! Oh, vous voulez vous joindre à moi ? Ma foi... Tant que vous faites attention aux miettes sur les ouvrages, pourquoi pas ?",
       "pt": "Não quero arroz, só quero comer petiscos. Podemos comer no quarto de estudo, assim eles não vão saber... Você quer ir comigo?... Contanto que evite derrubar migalhas nos livros.",
-      "ru": "Я не хочется плотно есть в обед . Предпочитаю сладкую выпечку. Всё равно, пока я обедаю в библиотеке за чтением, ни отец, ни старший брат не знают, что я ем... А? Хочешь присоединиться? Прошу. Только не кроши на книги, пожалуйста.",
+      "ru": "Мне не хочется плотно есть в обед. Предпочитаю сладкую выпечку. Всё равно, пока я обедаю в библиотеке за чтением, ни отец, ни старший брат не знают, что я ем... А? Хочешь присоединиться? Прошу. Только не кроши на книги, пожалуйста.",
       "id": "Untuk makan siang, aku tidak ingin makan nasi, aku ingin makan kue. Selama aku makan di ruang belajar, ayah dan kakakku tidak akan tahu... eh? Kamu ingin bergabung denganku? Hm... baiklah asalkan jangan sampai menjatuhkan makanan ke atas buku.",
       "th": "อาหารกลางวันฉันไม่ค่อยอยาก กินข้าวเท่าไหร่ อยากกินขนมมากกว่า แอบกินในห้องหนังสือแค่นี้พ่อกับพี่ก็ไม่รู้แล้ว...อืม? อยากไปด้วยกันมั้ย? อืม...ขอแค่เธอไม่ทำขนมหก เลอะเทอะใส่หนังสือก็พอ",
       "vi": "Không muốn ăn cơm trưa, muốn ăn điểm tâm cơ. Mình định ăn tại phòng, chẳng biết phụ thân và huynh trưởng...? Muốn ăn cùng không? Ừm... Chỉ cần bạn đừng làm rơi mảnh vụn vào sách vở là được."
@@ -1341,6 +1341,102 @@
       "id": "Aku benci wortel. Waktu kecil, ibu sering menumbuk wortel ... Urk, memikirkannya saja sudah bikin mual.",
       "th": "ฉันไม่ชอบแครอทเลย ตอนเด็ก ๆ แม่ชอบเอาแครอทมาบดละเอียดแล้วทำเป็น...อย่าให้ฉันพูดต่อเลยนะ แค่คิดถึงรสชาตินั้นก็...",
       "vi": "Tôi rất ghét cà rốt, lúc nhỏ mẹ tôi thường nghiền cà rốt để làm... đừng để tôi nói tiếp. Ngay cả trong ký ức, mùi vị đó cũng..."
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其一",
+      "zht": "收到贈禮·其一",
+      "jp": "贈り物を受け取る·1",
+      "ko": "선물 획득·첫 번째",
+      "en": "Receiving a Gift: I",
+      "de": "Geschenk erhalten I",
+      "es": "Al recibir un regalo (I)",
+      "fr": "Cadeau reçu (1)",
+      "pt": "Recebendo Presentes — I",
+      "ru": "Подарок I",
+      "id": "Menerima Hadiah: I",
+      "th": "ได้รับของขวัญ - 1",
+      "vi": "Nhận Được Quà I"
+    },
+    "line": {
+      "zhs": "此等美食，吃过一次就再难忘怀了啊。",
+      "zht": "此等美食，吃過一次就再難忘懷了啊。",
+      "jp": "一度食べたら忘れられない、それほどの美味だ。",
+      "ko": "이렇게 맛있는 요리는 한번 먹으면 평생 잊지 못할 거야",
+      "en": "I need only sample this delight but once for its aroma to remain forever in my memory.",
+      "de": "Das ist die Art von Essen, die man nicht mehr vergisst, wenn man sie einmal gegessen hat.",
+      "es": "Solo me hace falta probar este manjar una vez para poder recordar su aroma por siempre.",
+      "fr": "C'est un plat qui restera gravé dans mes souvenirs.",
+      "pt": "Este é o tipo de comida que você só precisa comer uma vez na vida para nunca esquecer o sabor.",
+      "ru": "Стоит лишь раз попробовать, и уже не забудешь этот вкус никогда.",
+      "id": "Hanya perlu sekali saja menyantap kenikmatan ini dan rasanya akan terus bersarang di dalam ingatanku.",
+      "th": "อาหารรสเลิศเช่นนี้ ได้ชิมเพียงครั้งเดียวก็ยากที่จะลืมเลือนตลอดกาล",
+      "vi": "Món ngon như vậy, ăn một lần sẽ nhớ mãi."
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其二",
+      "zht": "收到贈禮·其二",
+      "jp": "贈り物を受け取る·2",
+      "ko": "선물 획득·두 번째",
+      "en": "Receiving a Gift: II",
+      "de": "Geschenk erhalten II",
+      "es": "Al recibir un regalo (II)",
+      "fr": "Cadeau reçu (2)",
+      "pt": "Recebendo Presentes — II",
+      "ru": "Подарок II",
+      "id": "Menerima Hadiah: II",
+      "th": "ได้รับของขวัญ - 2",
+      "vi": "Nhận Được Quà II"
+    },
+    "line": {
+      "zhs": "既然你有这份手艺，不如我们开个路边餐馆，如何？",
+      "zht": "#既然{F#妳}{M#你}有這份手藝，不如我們開個路邊餐館，如何？",
+      "jp": "それほどの腕があるなら、一緒に露店でも開いてみないかい？",
+      "ko": "이 정도 솜씨면 거리에 식당 하나 차려도 될 것 같은데, 어때?",
+      "en": "With cooking skills as good as yours, it'd be a waste not to open a restaurant, wouldn't you agree?",
+      "de": "Wie wäre es, wenn wir ein Restaurant am Straßenrand eröffnen würden?",
+      "es": "Ya que se te da tan bien cocinar, sería un despropósito que no abrieras un restaurante, ¿no crees?",
+      "fr": "#Puisque tu es aussi {M#talentueux}{F#talentueuse} aux fourneaux, que dirais-tu d'ouvrir un restaurant ensemble ?",
+      "pt": "Com dotes culinários como o seu, seria uma pena não abrir seu próprio restaurante, não acha?",
+      "ru": "С такими отличными кулинарными навыками стоило бы открыть собственный ресторан, как думаешь?",
+      "id": "Dengan kemampuan memasak sepertimu, apa tidak lebih baik kita buka restoran saja, kamu setuju?",
+      "th": "ในเมื่อเธอมีฝีมือขนาดนี้ งั้นเรามาเปิดร้านอาหารข้างทางกันดีมั้ย?",
+      "vi": "Bạn có tay nghề như vậy, hay là chúng ta mở quán ăn ven đường đi, bạn thấy sao?"
+    }
+  },
+  {
+    "title": {
+      "zhs": "收到赠礼·其三",
+      "zht": "收到贈禮·其三",
+      "jp": "贈り物を受け取る·3",
+      "ko": "선물 획득·세 번째",
+      "en": "Receiving a Gift: III",
+      "de": "Geschenk erhalten III",
+      "es": "Al recibir un regalo (II)",
+      "fr": "Cadeau reçu (3)",
+      "pt": "Recebendo Presentes — III",
+      "ru": "Подарок III",
+      "id": "Menerima Hadiah: III",
+      "th": "ได้รับของขวัญ - 3",
+      "vi": "Nhận Được Quà III"
+    },
+    "line": {
+      "zhs": "你吃你吃，不必客气。",
+      "zht": "#{F#妳}{M#你}吃{F#妳}{M#你}吃，不必客氣。",
+      "jp": "どうぞ、君が食べてくれ。なに、遠慮することはない。",
+      "ko": "아냐 난 괜찮으니까, 사양 말고 어서 먹어",
+      "en": "I couldn't possibly. But please, you eat your fill. I insist.",
+      "de": "Probiere es auch mal. „Leckeres Essen“ sollte man mit Freunden teilen.",
+      "es": "No puedo con esto... Pero, por favor, tú come, insisto.",
+      "fr": "Mange, je t'en prie. Pas de manières entre nous.",
+      "pt": "Coma, coma. Não faça cerimônia.",
+      "ru": "Я не могу. Но ты угощайся, не стесняйся.",
+      "id": "Maaf, aku sepertinya tidak bisa. Kamu saja yang makan, makan sampai kenyang. Aku memaksamu nih.",
+      "th": "เธอกินเลย ๆ ไม่ต้องเกรงใจ",
+      "vi": "Bạn ăn đi, không cần khách sáo."
     }
   },
   {
