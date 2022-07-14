@@ -33,7 +33,7 @@ export default function ArtifactSetPage() {
       setLang={(lang) => setLang(lang)} 
     />
     <article className="main-page">
-      <section class="sidebar">
+      <section className="sidebar">
         <img 
           src={`/images/weapons/${weaponData['imgid']}.webp`} 
           onError={e => {
@@ -57,16 +57,19 @@ export default function ArtifactSetPage() {
 
       <section>
         <ul className="datalines">
-          <li key="lore">
-            <WeaponDatalineCard 
-              dataline={{ 
-                name: "Lore", 
-                description: weaponData['lore'],
-              }}
-              lang={activeLang}
-              isLore={true}
-            />
-          </li>
+          {weaponData['lore'] && Object.keys(weaponData['lore']).length > 0 ?
+            <li key="lore">
+              <WeaponDatalineCard 
+                dataline={{ 
+                  name: "Lore", 
+                  description: weaponData['lore'],
+                }}
+                lang={activeLang}
+                isLore={true}
+              />
+            </li>
+          : null}
+          
           {weaponData['effects'] ?
             weaponData['effects'].map((effect,index) => (
               <li key={`r${index + 1}`}>
