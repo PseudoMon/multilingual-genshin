@@ -23,7 +23,7 @@
       "en": "Hello, Traveler. Call me Yelan. I think you may need my help, and I just so happen to be interested in some information you have. In other words — you scratch my back, I'll scratch yours.",
       "de": "#Hallo Reisende{M#r}, du kannst mich Yelan nennen. Ich frage mich, ob du vielleicht meine Hilfe brauchst, ich interessiere mich auch sehr für das, was du mir mitteilen kannst. Kurzum, lass uns freundschaftlich miteinander umgehen, einander helfen.",
       "es": "#Hola viajer{F#a}{M#o}. Llámame Yelan. Creo que puedes necesitar mi ayuda, y resulta que estoy interesada en cierta información que tienes. En otras palabras, si nos ayudamos mutuamente, podríamos llegar a ser aliad{F#as}{M#os}, y quién sabe...",
-      "fr": "#Bonjour, {M#voyageur}{F#voyageuse}. Vous pouvez m'appeler Yelan. Je pense que vous allez avoir besoin de mon aide, et, par chance, il se trouve que vous possédez des renseignements qui m'intéressent. Pour le dire autrement, soyons {M#amis}{F#amies} et entraidons-nous.",
+      "fr": "#Bonjour {M#voyageur}{F#voyageuse}. Vous pouvez m'appeler Yelan. Je pense que vous allez avoir besoin de mon aide, et, par chance, il se trouve que vous possédez des renseignements qui m'intéressent. Pour le dire autrement, soyons {M#amis}{F#amies} et entraidons-nous.",
       "pt": "Olá, Viajante. Me chame de Yelan. Acredito que você possa precisar de minha ajuda, e acontece que estou interessada em uma informação que você possui. Em outras palavras — uma mão lava a outra.",
       "ru": "#Здравствуй, путешественни{F#ца}{M#к}. Зови меня Е Лань. Кажется, тебе нужна моя помощь, а мне как раз требуется кое-какая информация, которой ты располагаешь. Словом, давай выручим друг друга.",
       "id": "Halo, Pengembara. Panggil saja aku Yelan. Aku rasa kamu perlu bantuanku, dan aku sendiri juga perlu info yang kamu punya. Intinya, ayo kita bina hubungan yang baik satu sama lain.",
@@ -139,7 +139,7 @@
       "fr": "Quand il pleut...",
       "pt": "Quando Está Chovendo...",
       "ru": "Когда идёт дождь...",
-      "id": "Ketika Hujan Turun",
+      "id": "Ketika Turun Hujan",
       "th": "ในเวลาที่ฝนตก...",
       "vi": "Khi trời mưa..."
     },
@@ -683,7 +683,7 @@
       "fr": "Détails intéressants...",
       "pt": "Coisas Interessantes...",
       "ru": "Интересные вещи...",
-      "id": "Cerita yang Menarik",
+      "id": "Kisah Menarik",
       "th": "ข้อมูลที่น่าสนใจ...",
       "vi": "Những kiến thức thú vị..."
     },
@@ -1051,7 +1051,7 @@
       "pt": "A troca de informações sempre foi uma via de mão dupla, então imagino que posso te contar algo sobre meu passado. Graças às conexões de minha família, aprendi algumas habilidades úteis dos batedores dos Millelith desde cedo. Embora existam coisas agindo contra você a cada passo que você der quando estiver coletando informações, desde que eu me mantenha viva, sempre sairei como vitoriosa no fim das contas...",
       "ru": "Обмен информацией должен быть взаимным, так что я расскажу тебе немного о своём прошлом. Благодаря связям моей семьи, я довольно рано научилась некоторым полезным навыкам у Миллелитов. Хотя собирать информацию довольно сложно, пока я жива, я всегда побеждаю...",
       "id": "Asas pertukaran yang setimpal juga berlaku untuk pertukaran informasi, jadi kurasa tidak apa berbagi sedikit cerita tentang masa laluku padamu. Berkat koneksi keluarga, aku berkesempatan untuk belajar dari para penyelidik Millelith dari usia yang terbilang cukup muda. Mengumpulkan intel dan informasi memang sulit dan banyak halangannya, tapi selama nyawa ini masih melekat, itu berarti aku masih menang ....",
-      "th": "การแลกเปลี่ยนข้อมูลเป็นเรื่องของความเท่าเทียมกัน เล่าเรื่องราวในอดีตของฉันให้เธอฟังสักหน่อยก็คงไม่เป็นไร ต้องขอบคุณตระกูลที่ทำให้ฉันได้เรียนรู้ทักษะบางอย่างจากหน่วยสอดแนมของกองทหาร Millelith และได้เข้าสู่วงการนี้ตั้งแต่เนิ่น แม้ว่ากระบวนการรวบรวมข่าวกรองจะถูกขัดขวางในหลาย ๆ ด้าน แต่ตราบใดที่ฉันยังไม่ตาย ผู้ชนะคนสุดท้ายก็คือฉันเสมอ...",
+      "th": "การแลกเปลี่ยนข้อมูลเป็นเรื่องของความเท่าเทียมกัน เล่าเรื่องราวในอดีตของฉันให้เธอฟังสักหน่อยก็คงไม่เป็นไร ต้องขอบคุณตระกูลที่ทำให้ฉันได้เรียนรู้ทักษะบางอย่างจากหน่วยสอดแนมของกองทหาร Millelith และได้เข้าสู่วงการนี้ตั้งแต่เนิ่น ๆ แม้ว่ากระบวนการรวบรวมข่าวกรองจะถูกขัดขวางในหลาย ๆ ด้าน แต่ตราบใดที่ฉันยังไม่ตาย ผู้ชนะคนสุดท้ายก็คือฉันเสมอ...",
       "vi": "#Việc trao đổi tình báo đòi hỏi sự bình đẳng, cho nên nói vài chuyện trước đây cho {F#cô}{M#cậu} nghe cũng không sao. Nhờ phúc của gia tộc mà tôi học được vài món nghề của trinh sát Thiên Nham Quân, từ đó vào nghề sớm. Tuy việc thu thập tình báo luôn gặp nguy hiểm, nhưng chỉ cần không bị mất mạng thì người thắng cuộc cuối cùng sẽ luôn là tôi..."
     }
   },
@@ -1351,7 +1351,7 @@
       "ko": "선물 획득·세 번째",
       "en": "Receiving a Gift: III",
       "de": "Geschenk erhalten III",
-      "es": "Al recibir un regalo (II)",
+      "es": "Al recibir un regalo (III)",
       "fr": "Cadeau reçu (3)",
       "pt": "Recebendo Presentes — III",
       "ru": "Подарок III",
@@ -1499,7 +1499,7 @@
       "pt": "Encontrar a verdade pode parecer simples, mas exige perseverança para continuar seguindo o rastro das pistas e é precisa força para segui-las profundamente a um território perigoso.",
       "ru": "Поиск истины может показаться простым, но требуется настойчивость, чтобы идти по следу, и сила, чтобы проникнуть вглубь опасной территории.",
       "id": "Menyelidiki kebenaran terkesan sederhana, padahal perlu ketekunan untuk terus mengikuti petunjuk dan perlu nyali dan kekuatan untuk terjun menghadapi marabahaya.",
-      "th": "สืบแสวงหา \"ความจริง\" ฟังดูเหมือนง่ายนะ แต่ที่จริงแล้วต้องใช้ความอุตสาหะในการกัดเงื่อนงำไว้แน่นเป็นเวลานานเลยล่ะ และยังต้องมีพลังที่จะเจาะลึกเข้าไปในความอันตรายได้ด้วย",
+      "th": "สืบแสวงหา \"ความจริง\" ฟังดูเหมือนง่ายนะ แต่ที่จริงแล้วต้องใช้ความอุตสาหะในการติดตามเงื่อนงำเป็นเวลานาน และยังต้องมีพลังที่จะติดตามลึกเข้าไปในอันตรายได้ด้วย",
       "vi": "Điều tra \"chân tướng\" nghe thì đơn giản, nhưng thực tế cần phải kiên trì trong một thời gian dài, và cũng cần phải có thực lực để đối đầu với nguy hiểm nữa."
     }
   },
@@ -1949,6 +1949,70 @@
       "id": "Faktor yang di luar perhitungan ....",
       "th": "มีตัวแปรใหม่อีกแล้วสินะ...",
       "vi": "Biến số mới..."
+    }
+  },
+  {
+    "title": {
+      "zhs": "同伴生命值低·其一",
+      "zht": "同伴生命值低·其一",
+      "jp": "仲間HP低下·1",
+      "ko": "동료 HP 감소·첫 번째",
+      "en": "Ally at Low HP: I",
+      "de": "Verbündeter hat niedrige LP I",
+      "es": "Aliado con vida baja (I)",
+      "fr": "Compagnon avec PV faibles (1)",
+      "pt": "Aliado com Vida baixa: I",
+      "ru": "Низкий уровень HP компаньона I",
+      "id": "HP Rekan Rendah: I",
+      "th": "ค่าพลังชีวิตของเพื่อนต่ำ - 1",
+      "vi": "HP Đồng Hành Thấp I"
+    },
+    "line": {
+      "zhs": "点到为止，你退下。",
+      "zht": "點到為止，你退下。",
+      "jp": "そこまで、君は下がっていて。",
+      "ko": "거기까지. 이만 물러서",
+      "en": "Get back, I'll finish this job.",
+      "de": "Das reicht, tritt zurück.",
+      "es": "Hasta aquí has llegado, ahora es mi turno.",
+      "fr": "Partez, je vais finir le travail.",
+      "pt": "Volte, eu vou terminar este trabalho.",
+      "ru": "Хватит, отойдите.",
+      "id": "Mundur, akan kuselesaikan hal ini.",
+      "th": "พอแล้วล่ะ เธอถอยไปก่อน",
+      "vi": "Đến đây được rồi, lui lại đi."
+    }
+  },
+  {
+    "title": {
+      "zhs": "同伴生命值低·其二",
+      "zht": "同伴生命值低·其二",
+      "jp": "仲間HP低下·2",
+      "ko": "동료 HP 감소·두 번째",
+      "en": "Ally at Low HP: II",
+      "de": "Verbündeter hat niedrige LP II",
+      "es": "Aliado con vida baja (II)",
+      "fr": "Compagnon avec PV faibles (2)",
+      "pt": "Aliado com Vida baixa: II",
+      "ru": "Низкий уровень HP компаньона II",
+      "id": "HP Rekan Rendah: II",
+      "th": "ค่าพลังชีวิตของเพื่อนต่ำ - 2",
+      "vi": "HP Đồng Hành Thấp II"
+    },
+    "line": {
+      "zhs": "残局，让我来吧。",
+      "zht": "殘局，讓我來吧。",
+      "jp": "後始末は、私に任せなさい。",
+      "ko": "마무리는 나한테 맡겨",
+      "en": "You're running cold, allow me.",
+      "de": "Den Rest übernehme ich.",
+      "es": "Te tienen en jaque, yo me ocupo.",
+      "fr": "Vous êtes dans une impasse, permettez-moi de vous aider.",
+      "pt": "Você está encurralado, deixe comigo.",
+      "ru": "Об остальном позабочусь я.",
+      "id": "Kamu kelihatan tegang, biar aku saja.",
+      "th": "ถึงช่วงรุกฆาตแล้ว ให้ฉันจัดการเอง",
+      "vi": "Tàn cuộc, cứ để tôi."
     }
   },
   {

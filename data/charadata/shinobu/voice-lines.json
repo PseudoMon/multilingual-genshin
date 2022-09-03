@@ -139,7 +139,7 @@
       "fr": "Quand il pleut...",
       "pt": "Quando Está Chovendo...",
       "ru": "Когда идёт дождь...",
-      "id": "Ketika Hujan Turun",
+      "id": "Ketika Turun Hujan",
       "th": "ในเวลาที่ฝนตก...",
       "vi": "Khi trời mưa..."
     },
@@ -629,7 +629,7 @@
       "jp": "私が荒瀧派の「派中法度」を定めた以上、あいつらは法度に従って行動すべきだ。うん？なんで私の言うことを聞いてくれるのかって？それは、私のほうがあいつらより説得力があるからだ。私の言葉と拳には、それなりの重みがあるということだな。",
       "ko": "내가 아라타키파의 「법도」를 만든 이상 다들 법도에 따라 행동해야 돼. 응? 그들이 순순히 말을 듣는 이유가 뭐냐고? 그야 녀석들보다는 내가 훨씬 설득력 있으니까. 내 말과 주먹은 꽤 힘이 있는 편이거든",
       "en": "I came up with the Gang Bylaws so everyone would have a set of guidelines to follow. Huh? Why are they willing to follow my rules? Because both my words and my fists are very persuasive.",
-      "de": "Ich habe die „Bandensatzung“ der Arataki-Bande festgelegt, daher sollten sie sich sorgsam an dieses Regelwerk halten. Wie? Du möchtest wissen, warum sie bereit sind, sich meinen Regel zu unterwerfen? Weil meine Worte und meine Fäuste sehr überzeugend sind.",
+      "de": "Ich habe die „Bandensatzung“ der Arataki-Bande festgelegt, daher sollten sie sich sorgsam an dieses Regelwerk halten. Wie? Du möchtest wissen, warum sie bereit sind, sich meinen Regeln zu unterwerfen? Weil meine Worte und meine Fäuste sehr überzeugend sind.",
       "es": "Se me ocurrió la idea del Código de la Banda para que todos tuvieran una serie de pautas que seguir. ¿Eh? ¿Que por qué están dispuestos a seguir mis reglas? Porque tanto mis palabras como mis puñetazos son muy persuasivos.",
       "fr": "J'ai défini le credo du gang pour que tout le monde ait des règles à suivre. Comment ? Pourquoi ils sont d'accord pour suivre mes règles ? Eh bien, il se trouve que poings sont tout aussi persuasifs que mes arguments.",
       "pt": "Eu inventei as Regras da Gangue para que todos tenham um conjunto de diretrizes a seguir. Hã? Por que eles estão dispostos a acatar minhas regras? Porque minhas palavras e meus punhos são bastante persuasivos.",
@@ -651,7 +651,7 @@
       "fr": "Détails intéressants...",
       "pt": "Coisas Interessantes...",
       "ru": "Интересные вещи...",
-      "id": "Cerita yang Menarik",
+      "id": "Kisah Menarik",
       "th": "ข้อมูลที่น่าสนใจ...",
       "vi": "Những kiến thức thú vị..."
     },
@@ -827,7 +827,7 @@
       "pt": "Na época, briguei com minha família e quis fugir para o lugar mais longe possível. Então fui estudar direito em Liyue e, graças a essa experiência, pude conhecer Yanfei. Ela é uma verdadeira enciclopédia jurídica ambulante. Hein? E eu? Eu tenho o diploma, mas a advocacia é bastante restritiva... Não é uma área que me agrade.",
       "ru": "В то время я поссорилась со своей семьёй и хотела убежать как можно дальше. Так что я отправилась в Ли Юэ изучать юриспруденцию, и благодаря этому мне посчастливилось познакомиться с наставницей Янь Фэй. Она буквально ходячая энциклопедия права. А? Я? У меня есть сертификат, но здесь слишком много ограничений... Не самая удачная сфера занятости.",
       "id": "Ketika itu, aku sedang tidak akur dengan keluarga, dan aku cuma ingin satu hal: jauh-jauh dari mereka. Itulah kenapa aku lari ke Liyue dan belajar hukum di sana. Aku beruntung bisa kenal dengan seniorku, Kak Yanfei. Kalau urusan hukum sih, dia itu sama saja kitab berjalan. Aku? Ah, aku memang sudah disertifikasi sebagai praktisi hukum, tapi pekerjaan seperti itu banyak pantangannya. Kurasa aku belum cocok kerja begitu.",
-      "th": "ตอนนั้นที่ทะเลาะกับคนที่บ้าน ก็คิดแค่ว่าอยากจะหนีไปให้ไกล ๆ เลยหนีไปเรียนกฎหมายที่ Liyue ด้วยเหตุนี้ ก็เลยโชคดีได้รู้จักกับศิษย์พี่หญิง Yanfei ในส่วนของการเป็นที่ปรึกษาด้านกฎหมาย เธอเป็นเหมือนพจนานุกรมเดินได้เลยล่ะ ฉันเหรอ? ก็มีใบอนุญาตประกอบวิชาชีพอยู่หรอก แต่อาชีพนี้มีข้อผูกมัดอยู่ไม่น้อย เลยไม่ใช่สิ่งที่เหมาะกับฉันที่สุดน่ะ",
+      "th": "ตอนนั้นที่ทะเลาะกับคนที่บ้าน ก็คิดแค่ว่าอยากจะหนีไปให้ไกล ๆ เลยหนีไปเรียนกฎหมายที่ Liyue ด้วยเหตุนี้ ก็เลยโชคดีได้รู้จักกับศิษย์พี่หญิง Yanfei ในส่วนของการเป็นที่ปรึกษาด้านกฎหมาย เธอเป็นเหมือนประมวลกฎหมายเดินได้เลยล่ะ ฉันเหรอ? ก็มีใบอนุญาตประกอบวิชาชีพอยู่หรอก แต่อาชีพนี้มีข้อผูกมัดอยู่ไม่น้อย เลยไม่ใช่สิ่งที่เหมาะกับฉันที่สุดน่ะ",
       "vi": "Lúc cãi nhau với gia đình, tôi chỉ muốn đi càng xa càng tốt, thế là tôi đã đến Liyue để học luật pháp. Cũng nhờ vậy mà tôi mới quen biết được sư tỷ Yanfei. Về mảng luật thì cô ấy đúng là quyển từ điển sống vậy. Còn tôi sao? Chứng chỉ thì có đó, nhưng nghề này nhiều ràng buộc quá, không thích hợp với tôi lắm."
     }
   },
@@ -1015,7 +1015,7 @@
       "en": "It's my own decision to stay in the Arataki Gang. It can be pretty annoying having to clean up their mess all the time, but in return, they treat me with a sincerity that is irreplaceable... They always save the best things for me and never leave me feeling down. When I announced my decision to stay in the gang, they all cheered for me. I know outsiders don't think very highly of the Arataki Gang, and the members themselves don't really care what others think. But, I still want to strive to change the impression we leave. I might complain about them from time to time as my family, but I'll never let anyone badmouth them.",
       "de": "In der Arataki-Bande zu bleiben, ist meine freie Entscheidung. Manchmal macht es mich schon wütend, mich um ihre Scherereien zu kümmern, aber dafür behandeln sie mich mit unersetzlicher Ehrlichkeit. Die besten Dinge überlassen sie zuerst immer mir, noch nie haben sie mich im Stich gelassen. Nachdem ich eine Entscheidung verkünde, klatschen und pfeifen sie laut ... Ich weiß, viele andere haben keine gute Meinung von der Arataki-Bande und das macht den Mitgliedern auch nichts aus, aber ich bin sehr eifrig dabei, diesen Eindruck zu ändern. Wenn ich mich manchmal über sie als meine „Familie“ aufrege, ist das in Ordnung, aber ich will nicht, dass andere schlecht über sie reden müssen.",
       "es": "Permanecer en la Banda de Arataki es decisión propia. Puede ser bastante molesto tener que arreglar sus meteduras de pata todo el tiempo, pero a cambio, me tratan con una sinceridad que es insustituible... Siempre guardan las mejores cosas para mí y nunca dejan que me desanime. Cuando anuncié mi decisión de quedarme en la Banda, todos lo celebraron con aplausos y silbidos. Sé que los de fuera no tienen muy buena opinión de la Banda de Arataki, y a los propios miembros ni siquiera les importa lo que piensen los demás. Pero, aun así, quiero esforzarme por cambiar la impresión que causamos. Puede que, igual que mi familia, me queje de ciertas cosas de vez en cuando, pero nunca dejaré que nadie hable mal de ellos.",
-      "fr": "C'est moi qui ai décidé de rester dans le gang Arataki. C'est peut-être agaçant de devoir réparer leur bazar tout le temps, mais en retour, ils me traitent avec une sincérité qui est irremplaçable... Ils gardent toujours les meilleures choses pour moi et ne cherchent jamais à me décourager. Quand j'ai annoncé ma décision de rester dans le gang, ils m'ont tous acclamée. Je sais que les gens n'ont pas une très haute opinion du gang Arataki, et que les membres eux-mêmes ne se soucient pas vraiment de ce que les autres pensent. Mais, je veux quand même m'efforcer de changer l'image qu'on donne de nous. Ils sont comme une famille pour moi, donc même s'il arrive que je me plaigne d'eux de temps en temps, je ne laisserai jamais personne les dénigrer.",
+      "fr": "C'est moi qui ai décidé de rester dans le gang Arataki. C'est peut-être agaçant de devoir réparer leur bazar tout le temps, mais en retour, ils me traitent avec une sincérité qui est irremplaçable... Ils gardent toujours les meilleures choses pour moi et ne cherchent jamais à me décourager. Quand j'ai annoncé ma décision de rester dans le gang, ils m'ont tous acclamée. Je sais que les gens n'ont pas une très haute opinion du gang Arataki, et que les membres eux-mêmes ne se soucient pas vraiment de ce que les autres pensent. Mais je veux quand même m'efforcer de changer l'image qu'on donne de nous. Ils sont comme une famille pour moi, donc même s'il arrive que je me plaigne d'eux de temps en temps, je ne laisserai jamais personne les dénigrer.",
       "pt": "Eu mesma escolhi ficar com a Gangue Arataki. Resolver seus problemas pode ser bastante chato, mas em troca eles me tratam com uma sinceridade insubstituível... Eles sempre guardam o melhor para mim e nunca me decepcionam. Quando anunciei minha decisão de permanecer na gangue, todos ficaram muito felizes. Eu sei que os de fora não têm uma opinião muito boa sobre a Gangue Arataki, e os próprios membros da gangue não se importam com o que pensam deles. Mas, ainda quero me esforçar para mudar a impressão que deixamos. Posso reclamar deles como se fossem minha família de vez em quando, mas nunca deixarei ninguém falar mal deles.",
       "ru": "Я сама решила остаться в банде Аратаки. Решать их проблемы бывает довольно раздражающе, но взамен они относятся ко мне с незаменимой искренностью. Они всегда приберегают для меня всё самое лучшее и никогда не оставляют меня в унынии. Когда я объявила о своём решении остаться в банде, все очень обрадовались. Знаю, что другие не очень высокого мнения о банде Аратаки, а самим членам банды на самом деле всё равно, что о них думают. Но я всё ещё хочу изменить впечатление, которое мы оставляем. Я могу время от времени жаловаться на них как на свою семью, но я никогда никому не позволю ругать их.",
       "id": "Aku memilih untuk tetap tinggal sebagai anggota geng. Membereskan hasil keonaran mereka memang bikin sebal, tapi mereka semua adalah pribadi yang hatinya tulus dan jujur. Semua yang terbaik mereka berikan padaku, tidak pernah membuatku kecewa. Saat aku bilang bahwa aku akan tetap berada di geng, mereka bertepuk tangan dan bersorak-sorai. Aku tahu Geng Arataki dipandang sebelah mata oleh orang-orang, tapi anggota kami juga tidak peduli akan hal itu. Aku tetap ingin berusaha agar pandangan orang terhadap kami bisa berubah. Kenapa, karena waktu mengurus \"keluarga\", kamu pasti banyak mengeluh, tapi kamu tidak akan suka kalau orang lain yang menjelekkan mereka.",
@@ -1113,7 +1113,7 @@
       "es": "Incluso después de comer algo realmente saciante, como ramen o gyozas, siempre quiero terminar mi comida con un pequeño cuenco de arroz. El arroz es delicioso, eso es todo. ¿Hay algún problema con eso?",
       "fr": "Même après avoir mangé quelque chose de très nourrissant comme des ramen ou des gyozas, j'ai toujours envie de terminer mon repas avec un petit bol de riz. Le riz, c'est délicieux, un point c'est tout. Il y a un problème ?",
       "pt": "Mesmo que eu tenha acabado de comer uma refeição pesada, como macarrão ou gyoza, ainda quero terminar a refeição com uma tigela de arroz. O arroz é delicioso, só isso. Qual é o problema?",
-      "ru": "Даже если съём что-то сытное, вроде рамэна или гёдза, то всё равно хочу закончить трапезу плошкой риса. Рис очень вкусный, вот и всё. Какие-то проблемы?",
+      "ru": "Даже если съем что-то сытное, вроде рамэна или гёдза, то всё равно хочу закончить трапезу плошкой риса. Рис очень вкусный, вот и всё. Какие-то проблемы?",
       "id": "Habis makan ramen atau pangsit yang enak sekali pun, kan ada yang kurang yah kalau belum makan nasi, barang semangkuk kecil saja. Nasi itu enak, tidak bisa diganggu gugat. Setuju?",
       "th": "ถึงจะเพิ่งกินของหนัก ๆ อย่างราเมนหรือเกี๊ยวซ่าไป แต่สุดท้ายก็อยากปิดท้ายด้วยข้าวสวยชามเล็ก ๆ สักชามอยู่ดี ก็เพราะข้าวสวยอร่อยยังไงล่ะ ไม่มีเหตุผลอื่นหรอก มีปัญหารึไง?",
       "vi": "Dù là mới ăn những món chắc bụng như mì hay sủi cảo thì tôi vẫn muốn kết thúc bữa ăn bằng một chén cơm nhỏ. Chỉ vì cơm ngon, không có nguyên nhân gì khác, có vấn đề gì không?"
@@ -1223,7 +1223,7 @@
       "ko": "선물 획득·세 번째",
       "en": "Receiving a Gift: III",
       "de": "Geschenk erhalten III",
-      "es": "Al recibir un regalo (II)",
+      "es": "Al recibir un regalo (III)",
       "fr": "Cadeau reçu (3)",
       "pt": "Recebendo Presentes — III",
       "ru": "Подарок III",
@@ -1789,6 +1789,70 @@
       "id": "Oke, sekarang giliranku ....",
       "th": "เฮอะ ถึงทีฉันแล้ว...",
       "vi": "Hừ, đến lượt ta..."
+    }
+  },
+  {
+    "title": {
+      "zhs": "同伴生命值低·其一",
+      "zht": "同伴生命值低·其一",
+      "jp": "仲間HP低下·1",
+      "ko": "동료 HP 감소·첫 번째",
+      "en": "Ally at Low HP: I",
+      "de": "Verbündeter hat niedrige LP I",
+      "es": "Aliado con vida baja (I)",
+      "fr": "Compagnon avec PV faibles (1)",
+      "pt": "Aliado com Vida baixa: I",
+      "ru": "Низкий уровень HP компаньона I",
+      "id": "HP Rekan Rendah: I",
+      "th": "ค่าพลังชีวิตของเพื่อนต่ำ - 1",
+      "vi": "HP Đồng Hành Thấp I"
+    },
+    "line": {
+      "zhs": "我来善后。",
+      "zht": "我來善後。",
+      "jp": "後始末は私がやる。",
+      "ko": "뒷수습은 내가 하지",
+      "en": "I'll clean this up.",
+      "de": "Lass mich es fertig machen.",
+      "es": "Me encargaré del trabajo de limpieza.",
+      "fr": "Je vais faire le ménage.",
+      "pt": "Eu cuido disso.",
+      "ru": "Я обо всём позабочусь.",
+      "id": "Biar aku yang bereskan.",
+      "th": "ฉันเก็บกวาดเอง",
+      "vi": "Để tôi thu dọn."
+    }
+  },
+  {
+    "title": {
+      "zhs": "同伴生命值低·其二",
+      "zht": "同伴生命值低·其二",
+      "jp": "仲間HP低下·2",
+      "ko": "동료 HP 감소·두 번째",
+      "en": "Ally at Low HP: II",
+      "de": "Verbündeter hat niedrige LP II",
+      "es": "Aliado con vida baja (II)",
+      "fr": "Compagnon avec PV faibles (2)",
+      "pt": "Aliado com Vida baixa: II",
+      "ru": "Низкий уровень HP компаньона II",
+      "id": "HP Rekan Rendah: II",
+      "th": "ค่าพลังชีวิตของเพื่อนต่ำ - 2",
+      "vi": "HP Đồng Hành Thấp II"
+    },
+    "line": {
+      "zhs": "行了交给我，别硬撑。",
+      "zht": "行了交給我，別硬撐。",
+      "jp": "無理はせず、私に任せろ。",
+      "ko": "됐어, 무리하지 말고 나한테 맡겨",
+      "en": "I'm qualified to handle this.",
+      "de": "Also gut, überlass es mir, zwinge dich nicht.",
+      "es": "Está bien, déjame a mí y no te fuerces.",
+      "fr": "Je peux m'en occuper.",
+      "pt": "Eu posso cuidar disso.",
+      "ru": "Отдохни, а я тут со всем разберусь.",
+      "id": "Aku punya kualifikasi untuk menyelesaikan ini.",
+      "th": "ถ้าไม่ไหวก็ปล่อยให้ฉันจัดการ อย่าฝืนต่อไปเลย",
+      "vi": "Được rồi, cứ để tôi, đừng cố chấp."
     }
   },
   {

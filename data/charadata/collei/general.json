@@ -1,0 +1,62 @@
+{
+  "name": {
+    "zhs": "柯莱",
+    "zht": "柯萊",
+    "jp": "コレイ",
+    "ko": "콜레이",
+    "en": "Collei",
+    "de": "Collei",
+    "es": "Collei",
+    "fr": "Collei",
+    "pt": "Collei",
+    "ru": "Коллеи",
+    "id": "Collei",
+    "th": "Collei",
+    "vi": "Collei"
+  },
+  "title": {
+    "zhs": "萃念初蘖",
+    "zht": "萃念初櫱",
+    "jp": "純真を抱く萌蘖",
+    "ko": "다시 움튼 새싹",
+    "en": "Sprout of Rebirth",
+    "de": "Taufrisches Keimblatt",
+    "es": "La Promesa en Flor",
+    "fr": "Germe de renaissance",
+    "pt": "Broto de Renascimento",
+    "ru": "Росток возрождения",
+    "id": "Sprout of Rebirth",
+    "th": "ต้นกล้าเมื่อคราแรกแย้ม",
+    "vi": "Mầm Non Tái Sinh"
+  },
+  "description": {
+    "zhs": "活跃于道成林的见习巡林员，热情的言行背后是一颗依旧稍显内向的心。",
+    "zht": "活躍於道成林的見習巡林員，熱情的言行背後是一顆依舊稍顯內向的心。",
+    "jp": "アビディアの森で活躍する見習いレンジャー。親切な言動の裏には、少し内向的な性格が隠されている。",
+    "ko": "아비디야 숲에서 활약하는 숲의 견습 순찰자. 열정적인 겉모습 뒤에 조금은 내성적인 성격이 숨겨져 있다",
+    "en": "A trainee ranger active in Avidya Forest. Behind her enthusiastic words and actions hides a slightly introverted personality.",
+    "de": "Eine auszubildende Waldhüterin vom Avidya-Wald. Hinter ihren leidenschaftlichen Worten und Taten verbirgt sich eine eher introvertierte Persönlichkeit.",
+    "es": "Una guardabosques en prácticas que suele rondar por el Bosque Avidya. Detrás de su apasionado carácter se esconde una personalidad más bien introvertida.",
+    "fr": "Une garde forestière en formation active dans la Forêt d'Avidya. Derrière ses paroles et ses actions enthousiastes se cache une personnalité légèrement introvertie.",
+    "pt": "Uma Guarda-Florestal em Treinamento que patrulha a Floresta Avidya. Por trás de seu entusiasmo, encontra-se uma personalidade bastante introvertida.",
+    "ru": "Стажёр Лесного дозора в лесу Авидья. За её энергичной речью и действиями скрывается довольно закрытая личность.",
+    "id": "Seorang Penjaga Hutan Pemula yang aktif di Hutan Avidya. Tutur kata dan perbuatannya sangat lembut, namun kepribadiannya sedikit tertutup.",
+    "th": "เจ้าหน้าที่พิทักษ์ป่าฝึกหัดที่ทำงานอยู่ใน Avidya Forest เบื้องหลังคำพูด และการกระทำอันแสนใส่ใจ คือหัวใจที่ถูกเก็บงำซ่อนไว้",
+    "vi": "Kiểm lâm tập sự nhiệt tình của Rừng Avidya, nhưng đằng sau sự nhiệt tình đó là một trái tim hướng nội đau buồn."
+  },
+  "constellation": {
+    "zhs": "薮猫座",
+    "zht": "藪貓座",
+    "jp": "サーバル座",
+    "ko": "서발자리",
+    "en": "Leptailurus Cervarius",
+    "de": "Leptailurus Cervarius",
+    "es": "Leptailurus Cervarius",
+    "fr": "Leptailurus Cervarius",
+    "pt": "Leptailurus Cervarius",
+    "ru": "Сервал",
+    "id": "Leptailurus Cervarius",
+    "th": "Leptailurus Cervarius",
+    "vi": "Cung Tẩu Miêu"
+  }
+}

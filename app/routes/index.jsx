@@ -8,7 +8,7 @@ export default function Index() {
         <p>This is a sister-site to <a href="https://pradewata.netlify.app">Pradewata</a>, a project aiming to retranslate Genshin Impact into Indonesian that retains personality from the source text.  </p>
         <p>All text data in this website are taken from <a href="https://github.com/Dimbreath/GenshinData">Dimbreath's repository</a>, which contain data from the live version of Genshin Impact. Images come from various sources. Feel free to peruse the source code <a href="https://github.com/PseudoMon/multilingual-genshin/">on GitHub</a>.</p>
 
-        <p><i>Currently contain data up to Genshin Version 2.8</i></p>
+        <p><i>Currently contain data up to Genshin Version 3.0</i></p>
       </div>
 
       <div>

@@ -11,7 +11,7 @@
       "fr": "Première rencontre...",
       "pt": "Olá...",
       "ru": "Привет...",
-      "id": "Halo...",
+      "id": "Halo",
       "th": "พบกันครั้งแรก...",
       "vi": "Lần đầu gặp mặt..."
     },
@@ -139,7 +139,7 @@
       "fr": "Quand il pleut...",
       "pt": "Quando Está Chovendo...",
       "ru": "Когда идёт дождь...",
-      "id": "Waktu Hujan",
+      "id": "Ketika Turun Hujan",
       "th": "ในเวลาที่ฝนตก...",
       "vi": "Khi trời mưa..."
     },
@@ -171,7 +171,7 @@
       "fr": "Après la pluie...",
       "pt": "Depois da Chuva...",
       "ru": "После дождя...",
-      "id": "Sehabis Hujan",
+      "id": "Setelah Hujan",
       "th": "ฟ้าหลังฝน...",
       "vi": "Sau cơn mưa trời lại sáng..."
     },
@@ -587,7 +587,7 @@
       "fr": "Détails intéressants...",
       "pt": "Coisas Interessantes...",
       "ru": "Интересные вещи...",
-      "id": "Cerita Menarik",
+      "id": "Kisah Menarik",
       "th": "ข้อมูลที่น่าสนใจ...",
       "vi": "Những kiến thức thú vị..."
     },
@@ -1287,7 +1287,7 @@
       "ko": "선물 획득·세 번째",
       "en": "Receiving a Gift: III",
       "de": "Geschenk erhalten III",
-      "es": "Al recibir un regalo (II)",
+      "es": "Al recibir un regalo (III)",
       "fr": "Cadeau reçu (3)",
       "pt": "Recebendo Presentes — III",
       "ru": "Подарок III",
@@ -1670,7 +1670,7 @@
       "jp": "元素爆発·1",
       "ko": "원소폭발·첫 번째",
       "en": "Elemental Burst: I",
-      "de": "Spezialfähigkeit – I",
+      "de": "Spezialfähigkeit I",
       "es": "Habilidad Definitiva (I)",
       "fr": "Déchaînement élémentaire (1)",
       "pt": "Supremo - I",
@@ -1702,7 +1702,7 @@
       "jp": "元素爆発·2",
       "ko": "원소폭발·두 번째",
       "en": "Elemental Burst: II",
-      "de": "Spezialfähigkeit – II",
+      "de": "Spezialfähigkeit II",
       "es": "Habilidad Definitiva (II)",
       "fr": "Déchaînement élémentaire (2)",
       "pt": "Supremo - II",
@@ -1734,7 +1734,7 @@
       "jp": "元素爆発·3",
       "ko": "원소폭발·세 번째",
       "en": "Elemental Burst: III",
-      "de": "Spezialfähigkeit – III",
+      "de": "Spezialfähigkeit III",
       "es": "Habilidad Definitiva (III)",
       "fr": "Déchaînement élémentaire (3)",
       "pt": "Supremo - III",
@@ -1949,6 +1949,70 @@
       "id": "Aku akan menghabisi mereka!",
       "th": "ต้อง...กำจัดให้สิ้นซาก!",
       "vi": "Cần phải... tiêu diệt!"
+    }
+  },
+  {
+    "title": {
+      "zhs": "同伴生命值低·其一",
+      "zht": "同伴生命值低·其一",
+      "jp": "仲間HP低下·1",
+      "ko": "동료 HP 감소·첫 번째",
+      "en": "Ally at Low HP: I",
+      "de": "Verbündeter hat niedrige LP I",
+      "es": "Aliado con vida baja (I)",
+      "fr": "Compagnon avec PV faibles (1)",
+      "pt": "Aliado com Vida baixa: I",
+      "ru": "Низкий уровень HP компаньона I",
+      "id": "HP Rekan Rendah: I",
+      "th": "ค่าพลังชีวิตของเพื่อนต่ำ - 1",
+      "vi": "HP Đồng Hành Thấp I"
+    },
+    "line": {
+      "zhs": "不必勉强。",
+      "zht": "不必勉強。",
+      "jp": "無理はするな。",
+      "ko": "무리할 필요 없어",
+      "en": "Don't push yourself.",
+      "de": "Zwinge dich nicht.",
+      "es": "No te fuerces.",
+      "fr": "Pas besoin d'aller aussi loin.",
+      "pt": "Não se force.",
+      "ru": "Не нужно заходить так далеко.",
+      "id": "Tidak usah memaksakan diri.",
+      "th": "ไม่จำเป็นต้องฝืน",
+      "vi": "Không cần phải miễn cưỡng."
+    }
+  },
+  {
+    "title": {
+      "zhs": "同伴生命值低·其二",
+      "zht": "同伴生命值低·其二",
+      "jp": "仲間HP低下·2",
+      "ko": "동료 HP 감소·두 번째",
+      "en": "Ally at Low HP: II",
+      "de": "Verbündeter hat niedrige LP II",
+      "es": "Aliado con vida baja (II)",
+      "fr": "Compagnon avec PV faibles (2)",
+      "pt": "Aliado com Vida baixa: II",
+      "ru": "Низкий уровень HP компаньона II",
+      "id": "HP Rekan Rendah: II",
+      "th": "ค่าพลังชีวิตของเพื่อนต่ำ - 2",
+      "vi": "HP Đồng Hành Thấp II"
+    },
+    "line": {
+      "zhs": "我来了结。",
+      "zht": "我來了結。",
+      "jp": "我が終結させる。",
+      "ko": "내가 끝내지",
+      "en": "Allow me to finish this.",
+      "de": "Lass mich es beenden.",
+      "es": "Pondré fin a esto.",
+      "fr": "Je vais en finir avec ça.",
+      "pt": "Porei um fim nisso.",
+      "ru": "Позвольте мне закончить.",
+      "id": "Biar aku yang selesaikan.",
+      "th": "ฉันจะจบให้เอง",
+      "vi": "Để tôi kết thúc chuyện này."
     }
   },
   {

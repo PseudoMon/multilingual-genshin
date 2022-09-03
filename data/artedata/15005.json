@@ -35,19 +35,19 @@
       "vi": "Nhận 15% buff sát thương nguyên tố Lôi"
     },
     {
-      "zhs": "超载、感电、超导反应造成的伤害提升40%。触发这些元素反应时，元素战技冷却时间减少1秒。该效果每0.8秒最多触发一次。",
-      "zht": "超載、感電、超導反應造成的傷害提升40%。觸發這些元素反應時，元素戰技冷卻時間減少1秒。該效果每0.8秒最多觸發一次。",
-      "jp": "過負荷、感電、超電導反応によるダメージ+40%。それらの元素反応を起こすと、元素スキルのクールタイム-1秒。0.8秒毎に最大1回のみ発動可能。",
-      "ko": "과부하, 감전, 초전도 반응이 주는 피해가 40% 증가한다. 해당 원소 반응 발동 시 원소전투 스킬의 재사용 대기시간이 1초 줄어든다. 해당 효과는 0.8초마다 1번 발동한다",
-      "en": "Increases damage caused by Overloaded, Electro-Charged and Superconduct by 40%. Triggering such effects decreases Elemental Skill CD by 1s. Can only occur once every 0.8s.",
-      "de": "Erhöht den mit den Effekten „Überladen“, „Unter Strom“ und „Supraleiter“ verursachten Schaden um 40 %. Verringert die Abklingzeit der Elementarfähigkeit beim Auslösen dieser Elementareffekte um 1 s. 0,8 s Abklingzeit.",
-      "es": "Aumenta el daño infligido por Sobrecarga, Electrocargado y Superconductor en un 40%. Al activar alguna de estas reacciones, disminuye en 1 s el TdE de la Habilidad Elemental. Solo puede ocurrir una vez cada 0.8 s.",
-      "fr": "Augmente les DGT infligés par Surcharge, Électrocution et Supraconduction de 40 %. Lorsque vous déclenchez ces réactions élémentaires, le TdR de la compétence élémentaire est réduit de 1 s. Cet effet peut être déclenché une fois toutes les 0,8 s.",
-      "pt": "Aumenta o Dano causado pela Sobrecarga, Eletricamente Carregado e Supercondutor em 40%. Ao ativar estes efeitos, diminui a Recarga da Habilidade Elemental em 1s. Pode ser ativado uma vez a cada 0.8s.",
-      "ru": "Увеличивает урон статусов Перегрузка, Заряжен и Сверхпроводник на 40%. Наложение этих статусов уменьшает время отката элементального навыка на 1 сек. Может возникнуть раз в 0,8 сек.",
-      "id": "Meningkatkan 40% DMG yang diakibatkan Overloaded, Electro-Charged, dan Superconduct. Memicu efek-efek tersebut mengurangi 1 detik CD Elemental Skill. Dapat terpicu setiap 0,8 detik.",
-      "th": "ความเสียหายโอเวอร์โหลด, ชาร์จไฟฟ้า, นำไฟฟ้าเพิ่มขึ้น 40% เมื่อเกิดปฏิกิริยาเหล่านี้ สกิลธาตุจะลดระยะเวลาคูลดาวน์ลง 1 วินาที ซึ่งเอฟเฟกต์นี้จะเกิดขึ้นหนึ่งครั้งในทุก 0.8 วินาที",
-      "vi": "Sát thương phản ứng quá tải, điện cảm, siêu dẫn tăng 40%. Khi kích hoạt những phản ứng nguyên tố này, CD kỹ năng nguyên tố giảm 1s. Hiệu quả này mỗi 0.8s thi triển nhiều nhất một lần."
+      "zhs": "超载、感电、超导、超绽放反应造成的伤害提升40%，超激化反应带来的伤害提升提高20%。触发上述元素反应或原激化反应时，元素战技冷却时间减少1秒。该效果每0.8秒最多触发一次。",
+      "zht": "超載、感電、超導、超綻放反應造成的傷害提升40%，超激化反應帶來的傷害提升提高20%。觸發上述元素反應或原激化反應時，元素戰技冷卻時間減少1秒。該效果每0.8秒最多觸發一次。",
+      "jp": "過負荷、感電、超電導、超開花反応によるダメージ+40%、超激化反応によるダメージアップ効果+20%。上記元素反応または原激化反応を起こすと、元素スキルのクールタイム-1秒。0.8秒毎に最大1回のみ発動可能。",
+      "ko": "과부하, 감전, 초전도, 만개 반응이 가하는 피해가 40% 증가하고 촉진 반응이 주는 피해가 20% 증가한다. 위와 같은 원소 반응 또는 활성화 반응 발동 시, 원소전투 스킬의 재사용 대기시간이 1초 줄어든다. 해당 효과는 0.8초마다 최대 1회 발동한다",
+      "en": "Increases DMG caused by Overloaded, Electro-Charged, Superconduct, and Hyperbloom by 40%, and the DMG Bonus conferred by Aggravate is increased by 20%. When Quicken or the aforementioned Elemental Reactions are triggered, Elemental Skill CD is decreased by 1s. Can only occur once every 0.8s.",
+      "de": "Erhöht den mit den Reaktionen „Überladen“, „Unter Strom“, „Supraleiter“ und „Supraspross“ verursachten Schaden um 40 %. Erhöht den Effekt des ANG-Bonus der Reaktion „Suprawuchs“ um 20 %. Verkürzt die Abklingzeit der Elementarfähigkeit beim Auslösen dieser Elementarreaktionen und der Reaktion „Urwuchs“ um 1 s. 0,8 s Abklingzeit.",
+      "es": "Aumenta en un 40% el daño infligido por Sobrecarga, Electrocargado, Superconductor y Sobreflorecimiento, y aumenta en un 20% el bono de daño generado por Intensificación. Al causar una de estas reacciones o una reacción de Aceleración, el TdE de la Habilidad Elemental se reduce en 1 s. Solo puede ocurrir una vez cada 0.8 s.",
+      "fr": "Augmente les DGT infligés par Surcharge, Électrocution, Supraconduction et Exubérance de 40 % et le bonus de DGT accordée par Suractivation de 20 %. Au déclenchement de ces réactions élémentaires ou d'une réaction de Stimulation, le TdR de la compétence élémentaire est réduit de 1 s. Cet effet peut être déclenché une fois toutes les 0,8 s.",
+      "pt": "Aumenta o Dano causado por Sobrecarga, Eletricamente Carregado, Supercondutor e Superflorescimento em 40%, e o Bônus de Dano causado pela Intensificação é aumentado em 20%. Quando Aceleração ou as outras reações elementais mencionadas anteriormente são desencadeadas, o Tempo de Recarga das Habilidades Elementais é reduzido em 1s. Podendo acontecer apenas uma vez a cada 0.8s.",
+      "ru": "Увеличивает урон реакций Перегрузка, Заряжен, Сверхпроводник и Вегетация на 40%. Урон от реакции Обострение увеличивается на 20%. При активации этих реакций, а также реакции Стимуляция, время отката элементального навыка уменьшается на 1 сек. Эффект может возникнуть не чаще 1 раза за 0.8 сек.",
+      "id": "Meningkatkan 40% DMG yang diakibatkan Overloaded, Electro-Charged, Superconduct, dan Hyperbloom. Meningkatkan 20% DMG yang diakibatkan Aggravate. Saat memicu reaksi-reaksi elemental di atas atau reaksi Quicken, akan mengurangi 1 detik CD Elemental Skill. Efek ini terpicu setiap 0,8 detik.",
+      "th": "ปฏิกิริยาโอเวอร์โหลด, ชาร์จไฟฟ้า, นำไฟฟ้า และไฮเปอร์บลูม สร้างความเสียหายเพิ่มขึ้น 40% และความเสียหายจากปฏิกิริยาบีบอัดเพิ่มขึ้น 20% โดยในตอนที่เกิดปฏิกิริยาข้างต้นหรือปฏิกิริยาปลุกเร้า ช่วงเวลาคูลดาวน์ของสกิลธาตุจะลดลง 1 วินาที ในทุก 0.8 วินาที เอฟเฟกต์นี้จะเกิดขึ้นได้มากสุดหนึ่งครั้ง",
+      "vi": "Sát thương tạo thành từ phản ứng Quá Tải, Điện Cảm, Siêu Dẫn, Nở Rộ tăng 40%; sát thương từ phản ứng Tăng Cường tăng 20%. Khi kích hoạt phản ứng Sinh Trưởng hoặc những phản ứng nêu trên, CD Kỹ Năng Nguyên Tố giảm 1s. Hiệu quả này mỗi 0.8s tối đa kích hoạt một lần."
     }
   ],
   "imgid": "thundering_fury_flower",

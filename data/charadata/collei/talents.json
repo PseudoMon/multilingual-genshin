@@ -1,0 +1,194 @@
+[
+  {
+    "title": {
+      "zhs": "普通攻击·祈颂射艺",
+      "zht": "普通攻擊·祈頌射藝",
+      "jp": "通常攻撃·祈りの射技",
+      "ko": "일반 공격·기원 사격술",
+      "en": "Normal Attack: Supplicant's Bowmanship",
+      "de": "Standardangriff: Der Anbeterin Schießkunst",
+      "es": "Ataque Normal: Elogio de la arquería",
+      "fr": "Attaque normale : Archerie de l'implorant",
+      "pt": "Ataque Normal: Homenagem ao Tiro com Arco",
+      "ru": "Лук молельщицы",
+      "id": "Normal Attack: Supplicant's Bowmanship",
+      "th": "โจมตีปกติ: Supplicant's Bowmanship",
+      "vi": "Tấn Công Thường - Mũi Tên Chúc Tụng"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>普通攻击</color>\n进行至多四段的连续弓箭射击。\n\n<color=#FFD780FF>重击</color>\n进行伤害更高、更为精准的<color=#FFD780FF>瞄准射击</color>。\n瞄准时，草元素会凭附在箭矢上。聚满了草元素的箭矢会造成<color=#99FF88FF>草元素伤害</color>。\n\n<color=#FFD780FF>下落攻击</color>\n从空中射出箭雨，并迅速下坠冲击地面，在落地时造成范围伤害。",
+      "zht": "<color=#FFD780FF>普通攻擊</color>\n進行至多四段的連續弓箭射擊。\n\n<color=#FFD780FF>重擊</color>\n進行傷害更高、更為精準的<color=#FFD780FF>瞄準射擊</color>。\n瞄準時，草元素會憑附在箭矢上。聚滿了草元素的箭矢會造成<color=#99FF88FF>草元素傷害</color>。\n\n<color=#FFD780FF>下落攻擊</color>\n從空中射出箭雨，並迅速下墜衝擊地面，在落地時造成範圍傷害。",
+      "jp": "<color=#FFD780FF>通常攻撃</color>\n最大4段の連続射撃を行う。\n\n<color=#FFD780FF>重撃</color>\nダメージがより高く、より精確な<color=#FFD780FF>狙い撃ち</color>を発動する。\n照準時、草元素が矢先に付着する。草元素に満ちた矢は敵に<color=#99FF88FF>草元素ダメージ</color>を与える。\n\n<color=#FFD780FF>落下攻撃</color>\n空中から矢の雨を放ち、凄まじいスピードで落下し地面に衝撃を与え、落下時に範囲ダメージを与える。",
+      "ko": "<color=#FFD780FF>일반 공격</color>\n활로 최대 4번 공격한다.\n\n<color=#FFD780FF>강공격</color>\n더 강력하고 정확한 <color=#FFD780FF>조준 사격</color>을 한다.\n조준 시 풀 원소가 화살촉에 모이고, 풀 원소가 가득 찬 화살은 <color=#99FF88FF>풀 원소 피해</color>를 준다.\n\n<color=#FFD780FF>낙하 공격</color>\n공중에서 화살비를 쏜 후 빠른 속도로 땅에 착지한다. 착지 시 범위 피해를 준다",
+      "en": "<color=#FFD780FF>Normal Attack</color>\nPerform up to 4 consecutive shots with a bow.\n\n<color=#FFD780FF>Charged Attack</color>\nPerform a more precise <color=#FFD780FF>Aimed Shot</color> with increased DMG.\nWhile aiming, Dendro energy will accumulate on the arrowhead. A fully charged arrow will deal <color=#99FF88FF>Dendro DMG</color>.\n\n<color=#FFD780FF>Plunging Attack</color>\nFires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.",
+      "de": "<color=#FFD780FF>Standardangriff</color>\nFührt bis zu 4 Pfeilschüsse hintereinander aus.\n\n<color=#FFD780FF>Heftiger Schlag</color>\nFührt einen <color=#FFD780FF>gezielten Schuss</color> mit höherem Schaden und höherer Genauigkeit aus.\nKonzentriert die Dendro-Kraft während des Zielens an der Pfeilspitze, die voll aufgeladen <color=#99FF88FF>Dendro-Schaden</color> verursacht.\n\n<color=#FFD780FF>Angriff aus dem Fall</color>\nSchießt in der Luft einen Pfeilregen ab, trifft schnell auf dem Boden auf und verursacht dort Flächenschaden.",
+      "es": "<color=#FFD780FF>Ataque Normal</color>\nRealiza hasta 4 disparos consecutivos con arco.\n\n<color=#FFD780FF>Ataque Cargado</color>\nRealiza un <color=#FFD780FF>Disparo Preciso</color> que inflige mayor daño y tiene mayor precisión.\nAl apuntar, la flecha se imbuirá del elemento Dendro y, cuando esté completamente cargada, infligirá <color=#99FF88FF>Daño Dendro</color> al dispararla.\n\n<color=#FFD780FF>Ataque Descendente</color>\nDispara una lluvia de flechas desde el aire mientras desciende rápidamente, infligiendo Daño en el AdE al impactar contra el suelo.",
+      "fr": "<color=#FFD780FF>Attaque normale</color>\nEnchaîne jusqu'à 4 tirs consécutifs.\n\n<color=#FFD780FF>Attaque chargée</color>\nEffectue un <color=#FFD780FF>tir visé</color> plus précis infligeant davantage de DGT.\nLors de la visée, la flèche se charge en élément Dendro, infligeant d'importants <color=#99FF88FF>DGT Dendro</color> quand elle est complètement chargée.\n\n<color=#FFD780FF>Attaque plongeante</color>\nTire une pluie de flèches depuis les airs et plonge au sol, infligeant des DGT de zone à l'impact.",
+      "pt": "<color=#FFD780FF>Ataque Normal</color>\nRealiza até 4 disparos consecutivos com o arco.\n\n<color=#FFD780FF>Ataque Carregado</color>\nRealiza um <color=#FFD780FF>Disparo com Mira</color> mais preciso e com mais dano.\nEnquanto mira, elemento Dendro irá acumular na ponta da flecha. Uma flecha completamente carregada irá causar <color=#99FF88FF>Dano Dendro</color>.\n\n<color=#FFD780FF>Ataque Imersivo</color>\nDispara uma chuva de flechas do ar antes de cair e impactar o chão, causando Dano em uma AdE no impacto.",
+      "ru": "<color=#FFD780FF>Обычная атака:</color>\nДо четырёх выстрелов из лука.\n<color=#FFD780FF>Заряженная атака:</color>\nБолее меткий <color=#FFD780FF>прицельный выстрел</color> с увеличенным уроном.\nВо время прицеливания наконечник стрелы заряжается стихией Дендро. Полностью заряженная стрела наносит <color=#99FF88FF>Дендро урон</color>.\n\n<color=#FFD780FF>Атака в падении:</color>\nВыпускает град стрел в воздухе, которые при приземлении персонажа наносят урон по площади.",
+      "id": "<color=#FFD780FF>Normal Attack</color>\nMelancarkan hingga 4 serangan berturut-turut menggunakan busur.\n\n<color=#FFD780FF>Charged Attack</color>\nMengerahkan sebuah <color=#FFD780FF>Serangan Membidik</color> yang lebih akurat untuk mengakibatkan DMG lebih besar.\nSaat membidik, elemen Dendro akan berkumpul di ujung anak panah. Panah dengan elemen Dendro yang terkumpul penuh akan mengakibatkan <color=#99FF88FF>Dendro DMG</color>.\n\n<color=#FFD780FF>Plunging Attack</color>\nMelancarkan hujan panah dari udara dan menerjang tanah dengan kecepatan tinggi, mengakibatkan DMG area saat mendarat.",
+      "th": "<color=#FFD780FF>โจมตีปกติ</color>\nยิงธนูโจมตีอย่างต่อเนื่องมากสุด 4 ครั้ง\n\n<color=#FFD780FF>ชาร์จโจมตี</color>\nการ<color=#FFD780FF>เล็งโจมตี</color>สร้างความเสียหายเพิ่มขึ้น และแม่นยำยิ่งขึ้น\nเมื่อเล็งโจมตี จะทำการรวบรวมธาตุไม้ไว้ตรงหัวลูกศร โดยลูกธนูที่ชาร์จธาตุไม้เต็มแล้ว จะทำให้เกิด<color=#99FF88FF>ความเสียหายไม้</color>\n\n<color=#FFD780FF>โจมตีพุ่งลงจากอากาศ</color>\nปล่อยฝนธนูจากกลางอากาศ และพุ่งลงมายังพื้นดินอย่างรวดเร็ว โดยจะสร้างความเสียหายวงกว้างเมื่อลงถึงพื้น",
+      "vi": "<color=#FFD780FF>Tấn Công Thường</color>\nThực hiện tối đa 4 lần bắn tên liên tiếp.\n\n<color=#FFD780FF>Trọng Kích</color>\n<color=#FFD780FF>Ngắm bắn</color> chuẩn hơn, sát thương cao hơn.\nKhi ngắm bắn, nguyên tố Thảo sẽ tích tụ trên mũi tên. Mũi tên mang nguyên tố Thảo sẽ gây <color=#99FF88FF>Sát Thương Nguyên Tố Thảo</color>.\n\n<color=#FFD780FF>Tấn Công Khi Đáp</color>\nBắn mưa tên liên tiếp xuống mặt đất, đồng thời lao nhanh xuống đất và gây sát thương phạm vi khi chạm đất."
+    }
+  },
+  {
+    "title": {
+      "zhs": "拂花偈叶",
+      "zht": "拂花偈葉",
+      "jp": "花触葉讃",
+      "ko": "스쳐 지나가는 풀잎",
+      "en": "Floral Brush",
+      "de": "Der Kämpferin Laub",
+      "es": "Caricia de las flores",
+      "fr": "Brosse florale",
+      "pt": "Carícia das Flores",
+      "ru": "Сметающие цветы",
+      "id": "Floral Brush",
+      "th": "Floral Brush",
+      "vi": "Xua Hoa Quét Lá"
+    },
+    "description": {
+      "zhs": "投掷飞叶轮，对触及的目标各造成一次<color=#99FF88FF>草元素伤害</color>。\n飞叶轮将在投掷一定时间后返回，再次造成<color=#99FF88FF>草元素伤害</color>。\n\n<i>柯莱对付那些狂躁不安的野兽用的可靠小道具。被这东西敲过几下后，一般都会再度变得温顺起来。对于那些不怀好意的恶徒也同样好使。</i>",
+      "zht": "投擲飛葉輪，對觸及的目標各造成一次<color=#99FF88FF>草元素傷害</color>。\n飛葉輪將在投擲一定時間後返回，再次造成<color=#99FF88FF>草元素傷害</color>。\n\n<i>柯萊對付那些狂躁不安的野獸所使用的可靠小道具。被這東西敲過幾下後，通常都會再度變得溫順起來。對於那些不懷好意的惡徒也同樣好用。</i>",
+      "jp": "リーフブーメランを投げ、命中したターゲットに1回ずつ<color=#99FF88FF>草元素ダメージ</color>を与える。\n投げられたリーフブーメランは一定時間後に戻り、再び<color=#99FF88FF>草元素ダメージ</color>を与える。\n\n<i>興奮した野獣を相手にする時に使える信頼の置けるアイテム。これが当たると、大抵は大人しい状態に戻る。また、悪巧みする悪党相手にも効果は抜群。</i>",
+      "ko": "부메랑을 던져 부메랑에 맞은 목표에게 1회의 <color=#99FF88FF>풀 원소 피해</color>를 준다.\n일정 시간이 지난 후, 던졌던 부메랑이 되돌아오며 다시 한 번 <color=#99FF88FF>풀 원소 피해</color>를 준다.\n\n<i>콜레이가 난폭한 야수를 처리할 때 믿고 사용하는 간편 아이템. 이걸로 몇 대 맞으면 대부분 온순하게 변한다. 악의를 품고 있는 악당들에게 사용해도 효과가 있다</i>",
+      "en": "Throws out a Floral Ring that deals 1 instance of <color=#99FF88FF>Dendro DMG</color> to targets it comes into contact with.\nThe Floral Ring will return after a set time, dealing <color=#99FF88FF>Dendro DMG</color> once again.\n\n<i>This is Collei's go-to gadget for dealing with unruly wild beasts. A few good thwacks from this tool will generally improve their behavior. This same principle works just as well on evildoers.</i>",
+      "de": "Wirft das fliegende Laubrad aus, das jedem getroffenen Ziel 1-mal <color=#99FF88FF>Dendro-Schaden</color> zufügt.\nDas Rad kehrt nach einer gewissen Zeit zurück und verursacht erneut <color=#99FF88FF>Dendro-Schaden</color>.\n\n<i>Ein zuverlässiges Hilfsmittel, das Collei benutzt, um mit unruhigen Monstern fertig zu werden. Nach ein paar Schlägen mit diesem Gegenstand werden sie normalerweise wieder ruhig und gefügig. Funktioniert auch gut gegen Schurken mit bösen Absichten.</i>",
+      "es": "Lanza un bumerán foliáceo que inflige un golpe de <color=#99FF88FF>Daño Dendro</color> contra los objetivos con los que colisiona.\nUn tiempo después de haberlo lanzado, el bumerán regresa e inflige otro golpe de <color=#99FF88FF>Daño Dendro</color>.\n\n<i>Esta es la herramienta que usa Collei para enfrentarse a las bestias más agresivas. Tras golpearlas con ella varias veces, las bestias suelen volverse dóciles, y lo mismo ocurre con aquellos que solo guardan malas intenciones.</i>",
+      "fr": "Lance un anneau floral qui inflige une fois des <color=#99FF88FF>DGT Dendro</color> aux cibles touchées.\nL'anneau floral revient ensuite après un certain temps, infligeant une nouvelle fois des <color=#99FF88FF>DGT Dendro</color>.\n\n<i>C'est le gadget incontournable de Collei pour faire face aux bêtes sauvages indisciplinées : quelques petits coups bien placés avec cet instrument améliorent généralement leur comportement. Évidemment, ce même principe fonctionne tout aussi bien sur les malfaiteurs...</i>",
+      "pt": "Lança um Bumerangue Floral que inflige 1 golpe de <color=#99FF88FF>Dano Dendro</color> contra os oponentes atingidos.\nO Bumerangue Floral retornará depois de um tempo, infligindo <color=#99FF88FF>Dano Dendro</color> novamente.\n\n<i>Essa é a melhor ferramenta de escolha da Collei para lidar com bestas selvagens. Só alguns golpes com essa ferramenta normalmente melhoram o comportamento delas. Esse mesmo princípio funciona muito bem com aqueles mal-intencionados.</i>",
+      "ru": "Бросает Цветочное кольцо, которое наносит однократный <color=#99FF88FF>Дендро урон</color> врагам, с которыми оно соприкоснулось.\nЦветочное кольцо через некоторое время возвращается и наносит <color=#99FF88FF>Дендро урон</color> ещё раз.\n\n<i>Надёжный инструмент, который помогает Коллеи утихомиривать яростных зверей. После парочки ударов даже самые неистовые из них приходят в полное спокойствие. Он так же хорошо работает и для недружелюбно настроенных людей.</i>",
+      "id": "Melemparkan Floral Ring yang mengakibatkan 1 kali <color=#99FF88FF>Dendro DMG</color> pada target yang terkena.\nFloral Ring akan kembali setelah dilemparkan dalam kurun waktu tertentu, dan akan mengakibatkan <color=#99FF88FF>Dendro DMG</color> lagi.\n\n<i>Ini adalah peralatan yang digunakan Collei untuk menghadapi hewan-hewan yang buas. Setelah hewan-hewan itu dipukul dengan alat ini beberapa kali, biasanya mereka akan kembali menjadi jinak. Prinsip ini juga bisa diterapkan terhadap para orang-orang jahat.</i>",
+      "th": "โยน Floral Ring ออกไป เพื่อสร้าง<color=#99FF88FF>ความเสียหายไม้</color> 1 ครั้ง แก่เป้าหมายแต่ละตัวที่สัมผัสโดน\nFloral Ring จะกลับมาหลังจากเวลาผ่านไปช่วงหนึ่ง และสร้าง<color=#99FF88FF>ความเสียหายไม้</color>อีกครั้ง\n\n<i>เครื่องมือเล็ก ๆ น้อย ๆ ที่เชื่อถือได้ที่ Collei ใช้รับมือกับสัตว์ร้ายเหล่านั้น หลังจากโดนสิ่งนี้ไปสองสามครั้ง โดยทั่วไปก็มักจะกลับมาสงบเสงี่ยมอีกครั้ง กับเหล่าพวกตัวร้ายที่มีเจตนาไม่ดีเอง ก็ใช้ได้ดีไม่แพ้กัน</i>",
+      "vi": "Ném Phi Diệp Luân, gây một lần <color=#99FF88FF>Sát Thương Nguyên Tố Thảo</color> cho mỗi mục tiêu trúng phải.\nPhi Diệp Luân sẽ quay về sau một quãng thời gian, gây thêm một lần <color=#99FF88FF>Sát Thương Nguyên Tố Thảo</color>.\n\n<i>Món đạo cụ nhỏ mà Collei dùng để đối phó với dã thú. Sau khi bị món này gõ cho vài cái thì chúng sẽ trở nên ngoan ngoãn hơn. Ngoài ra cũng khá là hữu dụng khi đối phó với những kẻ không có ý tốt.</i>"
+    }
+  },
+  {
+    "title": {
+      "zhs": "猫猫秘宝",
+      "zht": "貓貓秘寶",
+      "jp": "ニャンコトレジャー",
+      "ko": "냥냥 비책",
+      "en": "Trump-Card Kitty",
+      "de": "Geheimer Katzenschatz",
+      "es": "Secreto miauravilloso",
+      "fr": "Atout félin",
+      "pt": "Segredo Miauvilhoso",
+      "ru": "Кошачье сокровище",
+      "id": "Trump-Card Kitty",
+      "th": "Trump-Card Kitty",
+      "vi": "Báu Vật Meo Meo"
+    },
+    "description": {
+      "zhs": "请可靠的柯里安巴上阵帮忙。\n投掷柯里安巴玩偶，爆发时造成<color=#99FF88FF>草元素范围伤害</color>，并产生柯里安巴领域。柯里安巴会在领域中不断跃动，造成<color=#99FF88FF>草元素范围伤害</color>。\n\n<i>「怎么样，很厉害吧！…哎？你问柯里安巴的名字是怎么来的？呜，这、这个…」</i>",
+      "zht": "#請可靠的柯里安巴上陣幫忙。\n投擲柯里安巴玩偶，爆發時造成<color=#99FF88FF>草元素範圍傷害</color>，並產生柯里安巴領域。柯里安巴會在領域中不斷躍動，造成<color=#99FF88FF>草元素範圍傷害</color>。\n\n<i>「怎麼樣，很厲害吧！…欸？{F#妳}{M#你}問柯里安巴的名字是怎麼來的？嗚，這、這個…」</i>",
+      "jp": "頼もしいコレアンバーの助けを呼ぶ。\nコレアンバー人形を投げ、爆発時に<color=#99FF88FF>草元素範囲ダメージ</color>を与え、コレアンバー領域を生成する。コレアンバーは領域内でジャンプし続け、<color=#99FF88FF>草元素範囲ダメージ</color>を与える。\n\n<i>「どう、すごいだろ？…えっ？コレアンバーの名前の由来が知りたい？うーん、そ、それは…」</i>",
+      "ko": "믿음직한 콜린엔바가 전투를 도와준다.\n콜린엔바 인형을 던지면 폭발 시 <color=#99FF88FF>풀 원소 범위 피해</color>를 주고 콜린엔바 영역을 생성한다. 콜린엔바는 영역 내에서 끊임없이 도약하며 <color=#99FF88FF>풀 원소 범위 피해</color>를 준다.\n\n<i>「어때, 정말 대단하지? …엥? 콜린엔바 이름의 유래가 궁금하다고? 윽, 그, 그건…」</i>",
+      "en": "Trusty Cuilein-Anbar comes to save the day!\nThrows the doll named Cuilein-Anbar, causing an explosion that deals <color=#99FF88FF>AoE Dendro DMG</color>, creating a Cuilein-Anbar Zone. Cuilein-Anbar will bounce around within this zone, dealing <color=#99FF88FF>AoE Dendro DMG</color>.\n\n<i>\"Pretty impressive, huh? ... Eh? You want to know how I came up with the name Cuilein-Anbar? Uh, well, I...\"</i>",
+      "de": "Nimmt im Kampf die Hilfe des verlässlichen Cuilein-Anbar in Anspruch.\nWirft eine Cuilein-Anbar-Puppe, die bei ihrer Explosion <color=#99FF88FF>Dendro-Flächenschaden</color> verursacht und ein Cuilein-Anbar-Feld erzeugt. Cuilein-Anbar springt immer wieder auf diesem Feld herum und verursacht <color=#99FF88FF>Dendro-Flächenschaden</color>.\n\n<i>„Krass, oder? ... Oh, woher der Name Cuilein-Anbar kommt, fragst du dich? Hmm, das, äh ...“</i>",
+      "es": "¡Colleámbar al rescate!\nLanza al muñeco Colleámbar, el cual explota para infligir <color=#99FF88FF>Daño Dendro en el AdE</color> y crear un área de Colleámbar. Dentro de esta área, Colleámbar saltará constantemente para infligir <color=#99FF88FF>Daño Dendro en el AdE</color>.\n\n<i>¿Qué te parece Colleámbar? Es genial, ¿verdad? ¿Eh? ¿Que por qué se llama así? P-pues...</i>",
+      "fr": "Le fidèle Cuilein-Anbar arrive pour apporter son aide !\nLance une poupée nommée Cuilein-Anbar, provoquant une explosion qui inflige des <color=#99FF88FF>DGT Dendro de zone</color> tout en créant un territoire de Cuilein-Anbar. Cuilein-Anbar bondira alors sans cesse dans son territoire, infligeant des <color=#99FF88FF>DGT Dendro de zone</color>.\n\n<i>« Pas mal, hein ? ... Hein ? D'où est-ce que j'ai sorti le nom de Cuilein-Anbar ? Euh, eh bien, je... »</i>",
+      "pt": "A confiável Collambei chega para salvar o dia!\nLança a boneca chamada Collambei, causando uma explosão que inflige <color=#99FF88FF>Dano Dendro em uma AdE</color> e criando uma Zona Collambei. Collambei irá saltar constantemente dentro desta zona, infligindo <color=#99FF88FF>Dano Dendro em uma AdE</color>.\n\n<i>\"Incrível, não é? ...Huh? Você quer saber de onde tirei o nome Collambei? Uh, bem, eu...\"</i>",
+      "ru": "Надёжнейший Куйлейн-Анбар спешит на помощь!\nБросает куклу по имени Куйлейн-Анбар, взрыв которой наносит <color=#99FF88FF>Дендро урон по площади</color>, и создаёт зону Куйлейн-Анбара. Куйлейн-Анбар беспрестанно прыгает внутри неё, нанося <color=#99FF88FF>Дендро урон по площади</color>.\n\n<i>«Круто, да? ...А? Как я придумала это имя, \"Куйлейн-Анбар\"? Эм, ну, я...»</i>",
+      "id": "Mengundang Cuilein-Anbar yang bisa diandalkan untuk membantu di medan pertempuran.\nMelemparkan boneka Cuilein-Anbar yang saat meledak akan mengakibatkan <color=#99FF88FF>Dendro DMG Area</color> dan akan menghasilkan Zona Cuilein-Anbar. Cuilein-Anbar akan terus memantul-mantul di dalam areanya dan mengakibatkan <color=#99FF88FF>Dendro DMG Area</color>.\n\n<i>\"Bagaimana? Hebat, kan! ... Apa? Dari mana asal nama Cuilein-Anbar? Anu, ini ... eh ....\"</i>",
+      "th": "Cuilein-Anbar ที่ไว้ใจได้ มาช่วยแล้ว!\nโยนตุ๊กตา Cuilein-Anbar ที่เมื่อระเบิดจะสร้าง<color=#99FF88FF>ความเสียหายไม้วงกว้าง</color>ออกไป และสร้าง Cuilein-Anbar Zone ขึ้นมา จากนั้น Cuilein-Anbar จะกระเด้งไปมาอยู่ในพื้นที่อย่างต่อเนื่อง เพื่อสร้าง<color=#99FF88FF>ความเสียหายไม้วงกว้าง</color>\n\n<i>\"เป็นไง เจ๋งไปเลยใช่มั้ย!... เอ๋ ถามว่าทำไมถึงชื่อ Cuilein-Anbar งั้นเหรอ? เอ่อ ระ...เรื่องนั้น...\"</i>",
+      "vi": "Mời Cuilein-Anbar ra trận giúp sức.\nNém món đồ chơi Cuilein-Anbar ra, khi nổ sẽ gây <color=#99FF88FF>Sát Thương Phạm Vi Nguyên Tố Thảo</color>, đồng thời tạo ra Khu Vực Cuilein-Anbar. Cuilein-Anbar sẽ liên tục nhảy nhót trong khu vực đó, gây <color=#99FF88FF>Sát Thương Phạm Vi Nguyên Tố Thảo</color>.\n\n<i>\"Thế nào, rất lợi hại đúng không? Hử? Tên của nó từ đâu mà ra hả? Cái, cái này...\"</i>"
+    }
+  },
+  {
+    "title": {
+      "zhs": "飞叶迴斜",
+      "zht": "飛葉迴斜",
+      "jp": "フライリーフワインダー",
+      "ko": "되돌아오는 잎새",
+      "en": "Floral Sidewinder",
+      "de": "Wiederkehr des fliegenden Laubs",
+      "es": "Retorno foliáceo",
+      "fr": "Retour folié",
+      "pt": "Retorno Floral",
+      "ru": "Возвращение цветов",
+      "id": "Floral Sidewinder",
+      "th": "Floral Sidewinder",
+      "vi": "Lá Khẽ Bay Nghiêng"
+    },
+    "description": {
+      "zhs": "在<color=#FFD780FF>飞叶轮</color>返回前，如果队伍中自己的角色触发了燃烧、原激化、超激化、蔓激化、绽放、超绽放或烈绽放反应，则会在返回时为角色赋予「新叶」状态，持续对身边的敌人造成相当于柯莱攻击力40%的<color=#99FF88FF>草元素伤害</color>，持续3秒。\n新叶效果持续期间再次产生新叶效果时，将移除原有的效果。新叶效果造成的伤害视为元素战技伤害。",
+      "zht": "在<color=#FFD780FF>飛葉輪</color>返回前，如果隊伍中自己的角色觸發了燃燒、原激化、超激化、蔓激化、綻放、超綻放或烈綻放反應，則會在返回時為角色賦予「新葉」狀態，持續對身邊的敵人造成相當於柯萊攻擊力40%的<color=#99FF88FF>草元素傷害</color>，持續3秒。\n新葉效果持續期間再次產生新葉效果時，將移除原有的效果。新葉效果造成的傷害視為元素戰技傷害。",
+      "jp": "<color=#FFD780FF>リーフブーメラン</color>が戻ってくる前に、チーム内の自身キャラクターが燃焼、原激化、超激化、草激化、開花、超開花、または烈開花反応を起こすと、戻ってきた時に「芽生え」状態をキャラクターに付与し、持続的に周囲の敵にコレイの攻撃力40%分の<color=#99FF88FF>草元素ダメージ</color>を与える、継続時間3秒。\n芽生え状態中に再度獲得すると、既存の芽生え状態が先にクリアされる。このダメージは元素スキルダメージと見なされる。",
+      "ko": "<color=#FFD780FF>부메랑</color>이 되돌아오기 전 파티 내 자신의 캐릭터가 연소, 활성, 촉진, 발산, 개화, 만개 혹은 발화 반응 발동 시, 부메랑이 되돌아오면서 캐릭터에게 「신엽」 상태를 부여하고 지속해서 자신의 주변에 있는 적에게 콜레이 공격력의 40%에 해당하는 <color=#99FF88FF>풀 원소 피해</color>를 준다. 지속 시간: 3초.\n신엽 효과의 지속 시간 동안 새로운 신엽 효과가 생성되면 원래 있던 효과는 사라진다. 신엽 효과가 가하는 피해는 원소전투 스킬 피해로 취급한다",
+      "en": "If one of your party members has triggered Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, or Burgeon reactions before the <color=#FFD780FF>Floral Ring</color> returns, it will grant the character the Sprout effect upon return, which will continuously deal <color=#99FF88FF>Dendro DMG</color> equivalent to 40% of Collei's ATK to nearby opponents for 3s.\nIf another Sprout effect is triggered during its initial duration, the initial effect will be removed. DMG dealt by Sprout is considered Elemental Skill DMG.",
+      "de": "Verleiht der Figur bei der Rückkehr des <color=#FFD780FF>fliegenden Laubrads</color> den Effekt „Jungtrieb“, der 3 s lang den Gegnern in der Nähe fortlaufend <color=#99FF88FF>Dendro-Schaden</color> in Höhe von 40 % von Colleis ANG zufügt, wenn eine eigene Figur in der Truppe vor der Rückkehr des <color=#FFD780FF>fliegenden Laubrads</color> Reaktionen wie „In Flammen“, „Urwuchs“, „Suprawuchs“, „Rankenwuchs“, „Sprießen“, „Supraspross“ oder „Flammenspross“ ausgelöst hat.\nWenn während der Dauer des Effekts ein weiterer „Jungtrieb“ erzeugt wird, wird er den bestehenden ersetzen. Der vom Jungtrieb-Effekt verursachte Schaden gilt als Elementarfähigkeitsschaden.",
+      "es": "Si algún personaje de tu equipo causa una reacción de Quemadura, Aceleración, Intensificación, Propagación, Florecimiento, Sobreflorecimiento o Crepitar antes de que el <color=#FFD780FF>bumerán foliáceo</color> regrese, al regresar otorga al personaje el estado de “germinación”, el cual inflige continuamente <color=#99FF88FF>Daño Dendro</color> contra los enemigos cercanos en una cantidad equivalente al 40% del ATQ de Collei durante 3 s.\nSi otro efecto de germinación se activa antes de que concluya, se eliminará el efecto anterior. El daño infligido por germinación se considera daño de Habilidad Elemental.",
+      "fr": "Si un membre de votre équipe déclenche une réaction de Brûlure, de Stimulation, de Suractivation, de Propagation, de Fleurissement, d'Exubérance ou de Bourgeonnement avant le retour de l'<color=#FFD780FF>anneau floral </color>, le personnage obtient l'effet Germe au retour de l'anneau, ce qui inflige de façon continue aux ennemis proches des <color=#99FF88FF>DGT Dendro</color> d'une valeur équivalant à 40 % de l'ATQ de Collei pendant 3 s.\nSi un nouvel effet Germe est déclenché pendant la durée d'un effet Germe existant, l'effet d'origine est supprimé. Les DGT infligés par l'effet Germe sont considérés comme étant des DGT de compétence élémentaire.",
+      "pt": "Se antes do <color=#FFD780FF>Bumerangue Floral</color> retornar um dos membros da equipe desencadear a reação elemental de Queimaduras, Aceleração, Intensificação, Propagação, Florescimento, Superflorescimento ou Germinação, concederá ao personagem o estado \"Brotar\", que infligirá <color=#99FF88FF>Dano Dendro</color> continuamente contra os inimigos próximos equivalente a 40% do ATQ de Collei por 3s.\nDesencadear um novo efeito \"Brotar\" na duração do efeito \"Brotar\" existente anulará o efeito original. O Dano infligido pelo efeito \"Brotar\" é considerado Dano de Habilidade Elemental.",
+      "ru": "Свой персонаж, который до возвращения <color=#FFD780FF>Цветочного кольца</color> вызвал Горение, Стимуляцию, Обострение, Разрастание, Бутонизацию, Вегетацию или Цветение, по его возвращении получит Росток. Во время его действия враги поблизости будут получать продолжительный <color=#99FF88FF>Дендро урон</color>, равный 40% от силы атаки Коллеи. Эффект длится 3 сек.\nПри повторной активации Ростка существующий эффект снимается. Нанесённый Ростком урон считается уроном элементального навыка.",
+      "id": "Sebelum <color=#FFD780FF>Floral Ring</color> kembali, jika ada Karakter di dalam party yang memicu reaksi Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, atau Burgeon, akan memberikan status \"Sprout\" untuk Karakter, yang akan mengakibatkan <color=#99FF88FF>Dendro DMG</color> secara terus-menerus kepada musuh di sekitar sebesar 40% dari ATK Collei selama 3 detik.\nJika efek Sprout terpicu lagi selama durasinya masih berlangsung, maka efek yang awal akan dihapus. DMG yang diakibatkan oleh efek Sprout akan dianggap sebagai DMG Elemental Skill.",
+      "th": "ก่อนที่ <color=#FFD780FF>Floral Ring</color> จะย้อนกลับมา หากตัวละครในทีมของตัวเองทำให้เกิดปฏิกิริยาติดไฟ, ปลุกเร้า, บีบอัด, แพร่ขยาย, งอกเงย, ไฮเปอร์บลูม หรือเบ่งบาน จะมอบเอฟเฟกต์ Sprout ให้แก่ตัวละครในตอนที่กลับมา ซึ่งจะสร้าง<color=#99FF88FF>ความเสียหายไม้</color>เป็น 40% ของพลังโจมตีของ Collei แก่ศัตรูที่อยู่รอบตัวอย่างต่อเนื่อง เป็นเวลา 3 วินาที\nหากเกิดเอฟเฟกต์ Sprout ขึ้นซ้ำอีกครั้งในระหว่างช่วงเวลาต่อเนื่อง เอฟเฟกต์เดิมที่มีอยู่จะถูกลบไป และความเสียหายที่เอฟเฟกต์ Sprout สร้าง จะถูกมองว่าเป็นความเสียหายของสกิลธาตุ",
+      "vi": "Trước khi <color=#FFD780FF>Phi Diệp Luân</color> quay về, nếu nhân vật của bản thân trong đội kích hoạt phản ứng Thiêu Đốt, Sinh Trưởng, Tăng Cường, Lan Tràn, Sum Suê, Nở Rộ hoặc Bung Tỏa thì sẽ cung cấp cho nhân vật trạng thái \"Lá Mới\" khi Phi Diệp Luân quay về, liên tục gây cho kẻ địch xung quanh một lượng <color=#99FF88FF>Sát Thương Nguyên Tố Thảo</color> bằng 40% tấn công của Collei, duy trì 3s.\nTrong thời gian duy trì hiệu ứng Lá Mới nếu như nhận lại hiệu ứng trùng lặp sẽ hủy hiệu ứng trước đó. Sát thương hiệu ứng Lá Mới gây ra được tính là sát thương Kỹ Năng Nguyên Tố."
+    }
+  },
+  {
+    "title": {
+      "zhs": "徐如旷林",
+      "zht": "徐如曠林",
+      "jp": "徐かなること森の如く",
+      "ko": "숲의 나른함",
+      "en": "The Languid Wood",
+      "de": "Gemächliche Stille im Wald",
+      "es": "Quietud del bosque",
+      "fr": "Bois de langueur",
+      "pt": "Quietude da Floresta",
+      "ru": "Безмолвная чаща",
+      "id": "The Languid Wood",
+      "th": "The Languid Wood",
+      "vi": "Rừng Rộng Gió Thoảng"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>柯里安巴领域</color>中的角色触发燃烧、原激化、超激化、蔓激化、绽放、超绽放或烈绽放反应时，将使领域的持续时间延长1秒。\n一次<color=#FFD780FF>猫猫秘宝</color>中，至多通过这种方式延长3次持续时间。",
+      "zht": "<color=#FFD780FF>柯里安巴領域</color>中的角色觸發燃燒、原激化、超激化、蔓激化、綻放、超綻放或烈綻放反應時，將使領域的持續時間延長1秒。\n一次<color=#FFD780FF>貓貓秘寶</color>中，至多依此方式延長3次持續時間。",
+      "jp": "<color=#FFD780FF>コレアンバー領域</color>内のキャラクターが燃焼、原激化、超激化、草激化、開花、超開花、または烈開花反応を起こすと、領域の継続時間+1秒。\nこの方式では<color=#FFD780FF>ニャンコトレジャー</color>1回につき、継続時間を最大3回まで延長できる。",
+      "ko": "<color=#FFD780FF>콜린엔바 영역</color> 내의 캐릭터가 연소, 활성, 촉진, 발산, 개화, 만개 혹은 발화 반응 발동 시 영역의 지속 시간이 1초 연장된다.\n<color=#FFD780FF>냥냥 비책</color> 1회 발동 중, 해당 방식으로 최대 3회까지 지속 시간이 연장된다",
+      "en": "When a character within the <color=#FFD780FF>Cuilein-Anbar Zone</color> triggers Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, or Burgeon reactions, the Zone's duration will be increased by 1s.\nA single <color=#FFD780FF>Trump-Card Kitty</color> can be extended by up to 3s.",
+      "de": "Verlängert die Dauer des Felds um 1 s, wenn eine Figur im <color=#FFD780FF>Cuilein-Anbar-Feld</color> Reaktionen wie „In Flammen“, „Urwuchs“, „Suprawuchs“, „Rankenwuchs“, „Sprießen“, „Supraspross“ oder „Flammenspross“ auslöst.\nDie Dauer pro Auslösung von <color=#FFD780FF>Geheimer Katzenschatz</color> kann auf diese Weise um bis zu 3 s verlängert werden.",
+      "es": "Cuando un personaje dentro del <color=#FFD780FF>área de Colleámbar</color> causa una reacción de Quemadura, Aceleración, Intensificación, Propagación, Florecimiento, Sobreflorecimiento o Crepitar, la duración de dicha área aumenta en 1 s.\nEsta duración solo se puede aumentar un máximo de 3 veces de esta manera por cada vez que se use <color=#FFD780FF>Secreto miauravilloso</color>.",
+      "fr": "Si un personnage dans le <color=#FFD780FF>territoire de Cuilein-Anbar</color> déclenche une réaction de Brûlure, de Stimulation, de Suractivation, de Propagation, de Fleurissement, d'Exubérance ou de Bourgeonnement, la durée du territoire est prolongée de 1 s.\nLors d'une même utilisation d'<color=#FFD780FF>Atout félin</color>, cette durée peut être prolongée un maximum de 3 fois de cette manière.",
+      "pt": "Quando um personagem dentro da <color=#FFD780FF>Zona Collambei</color> desencadeia uma reação elemental de Queimaduras, Aceleração, Intensificação, Propagação, Florescimento, Superflorescimento ou Germinação, a duração da área será prolongada em 1s.\nÉ possível prolongar a duração até 3 vezes desta maneira em um uso de <color=#FFD780FF>Segredo Miauvilhoso</color>.",
+      "ru": "Когда персонаж в <color=#FFD780FF>зоне Куйлейн-Анбара</color> активирует реакцию Горение, Стимуляция, Обострение, Разрастание, Бутонизация, Вегетация или Цветение, длительность зоны увеличивается на 1 сек.\nДлительность одного и того же <color=#FFD780FF>Кошачьего сокровища</color> можно увеличить этим способом до 3 раз.",
+      "id": "Saat Karakter yang berada di dalam <color=#FFD780FF>Zona Cuilein-Anbar</color> memicu efek Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, atau Burgeon, maka durasi area akan diperpanjang 1 detik.\nDalam 1 kali <color=#FFD780FF>Trump-Card Kitty</color>, perpanjangan durasi yang bisa didapatkan dengan cara ini maksimum sebanyak 3 kali.",
+      "th": "เมื่อตัวละครที่อยู่ใน <color=#FFD780FF>Cuilein-Anbar Zone</color> ทำให้เกิดปฏิกิริยาติดไฟ, ปลุกเร้า, บีบอัด, แพร่ขยาย, งอกเงย, ไฮเปอร์บลูม หรือเบ่งบาน จะทำให้ช่วงเวลาต่อเนื่องของพื้นที่ยาวนานขึ้น 1 วินาที\n<color=#FFD780FF>Trump-Card Kitty</color> หนึ่งครั้ง จะสามารถเพิ่มช่วงเวลาต่อเนื่องด้วยวิธีนี้ได้มากสุด 3 ครั้ง",
+      "vi": "Nhân vật trong <color=#FFD780FF>Khu Vực Cuilein-Anbar</color> khi kích hoạt phản ứng Thiêu Đốt, Sinh Trưởng, Tăng Cường, Lan Tràn, Sum Suê, Nở Rộ hoặc Bung Tỏa sẽ khiến cho khu vực này duy trì thêm 1s.\nTrong một lần <color=#FFD780FF>Báu Vật Meo Meo</color>, tối đa có thể kéo dài thời gian duy trì 3 lần thông qua cách này."
+    }
+  },
+  {
+    "title": {
+      "zhs": "「须弥飞行冠军」",
+      "zht": "「須彌飛行冠軍」",
+      "jp": "「スメールの飛行チャンピオン」",
+      "ko": "「수메르 비행 챔피언」",
+      "en": "Gliding Champion of Sumeru",
+      "de": "„Flugmeisterin von Sumeru“",
+      "es": "Campeona de Vuelo de Sumeru",
+      "fr": "Championne de planage de Sumeru",
+      "pt": "Campeã Voadora de Sumeru",
+      "ru": "Чемпион полётов Сумеру",
+      "id": "Gliding Champion of Sumeru",
+      "th": "Gliding Champion of Sumeru",
+      "vi": "Quán Quân Bay Lượn Sumeru"
+    },
+    "description": {
+      "zhs": "队伍中自己的角色滑翔消耗的体力降低20%。\n无法与效果完全相同的固有天赋叠加。",
+      "zht": "隊伍中自己的角色滑翔消耗的體力降低20%。\n無法與效果完全相同的固有天賦疊加。",
+      "jp": "チーム内の自身のキャラクター全員が滑翔に消費するスタミナ-20%。\n同じ効果を持つ固有天賦との重ね掛け不可。",
+      "ko": "파티 내 자신의 캐릭터의 활강 시 소모하는 스태미나가 20% 감소한다.\n같은 효과의 고유 특성과 중첩되지 않는다",
+      "en": "Decreases gliding Stamina consumption for your own party members by 20%.\nNot stackable with Passive Talents that provide the exact same effects.",
+      "de": "Verringert die beim Gleiten verbrauchte Ausdauer aller eigenen Truppenmitglieder um 20 %.\nNicht mit passiven Talenten mit völlig gleichen Effekten stapelbar.",
+      "es": "Disminuye en un 20% el Coste de Aguante al planear de todos los miembros de tu equipo.\nNo se puede acumular con otros talentos pasivos que tengan los mismos efectos.",
+      "fr": "Réduit la consommation d'endurance de vos personnages dans l'équipe de 20 % lors du planage.\nNe peut pas être cumulé avec d'autres aptitudes passives aux effets identiques.",
+      "pt": "Diminui o consumo de Stamina ao Planar de todos os seus personagens em 20%.\nNão acumulável com Talentos Passivos que concedem exatamente os mesmos efeitos.",
+      "ru": "Уменьшает потребление выносливости активного персонажа во время полёта на 20%.\nНе суммируется с пассивными талантами, дающими точно такие же эффекты.",
+      "id": "Mengurangi 20% konsumsi Stamina Karakter sendiri saat meluncur.\nEfek tidak dapat ditumpuk dengan Talenta Pasif lain yang memiliki efek yang sama persis.",
+      "th": "ลดอัตราการเสียพลังกายจากการร่อนเวหา ให้ตัวละครของตนเองที่อยู่ในทีมลง 20%\nไม่สามารถซ้อนทับพรสวรรค์ติดตัวที่เอฟเฟกต์เหมือนกันทุกประการได้",
+      "vi": "Giảm 20% tiêu hao thể lực nhân vật của bản thân trong đội khi bay lượn.\nKhông thể cộng dồn với buff Thiên Phú cố định có hiệu quả giống hoàn toàn."
+    }
+  }
+]

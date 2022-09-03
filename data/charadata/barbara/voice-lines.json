@@ -44,7 +44,7 @@
       "pt": "Bate-papo - Sonolência",
       "ru": "Поболтаем: Сон",
       "id": "Berbincang: Rasa Kantuk",
-      "th": "แชท-ง่วงนอน",
+      "th": "แชท - ง่วงนอน",
       "vi": "Nói chuyện phiếm - Buồn ngủ"
     },
     "line": {
@@ -76,7 +76,7 @@
       "pt": "Bate-papo - Ânimos",
       "ru": "Поболтаем: Энергичность",
       "id": "Berbincang: Dukungan",
-      "th": "แชท-กระตุ้น",
+      "th": "แชท - กระตุ้น",
       "vi": "Nói chuyện phiếm - Khích lệ"
     },
     "line": {
@@ -108,7 +108,7 @@
       "pt": "Bate-papo - Mantendo-se Informado",
       "ru": "Поболтаем: Секрет бодрости",
       "id": "Berbincang: Agar Tetap Segar",
-      "th": "แชท-เคล็ดลับความสดชื่น",
+      "th": "แชท - เคล็ดลับความสดชื่น",
       "vi": "Nói chuyện phiếm - Bí quyết tỉnh táo"
     },
     "line": {
@@ -139,7 +139,7 @@
       "fr": "Quand il pleut...",
       "pt": "Quando Está Chovendo...",
       "ru": "Когда идёт дождь...",
-      "id": "Waktu Hujan",
+      "id": "Ketika Turun Hujan",
       "th": "ในเวลาที่ฝนตก...",
       "vi": "Khi trời mưa..."
     },
@@ -171,7 +171,7 @@
       "fr": "Quand le tonnerre gronde...",
       "pt": "Quando Está Trovejando...",
       "ru": "Когда гремит гром...",
-      "id": "Waktu Petir Menyambar",
+      "id": "Ketika Petir Menyambar",
       "th": "ในเวลาที่ฟ้าผ่า...",
       "vi": "Khi có sấm sét..."
     },
@@ -203,7 +203,7 @@
       "fr": "Quand il neige...",
       "pt": "Quando Está Nevando...",
       "ru": "Когда идёт снег...",
-      "id": "Waktu Turun Salju",
+      "id": "Ketika Turun Salju",
       "th": "ในเวลาที่หิมะตก...",
       "vi": "Khi tuyết rơi..."
     },
@@ -235,7 +235,7 @@
       "fr": "Il fait bon dehors...",
       "pt": "Quando faz sol...",
       "ru": "Когда светит солнце...",
-      "id": "Waktu Matahari Bersinar",
+      "id": "Ketika Matahari Bersinar",
       "th": "แดดส่องดีจัง...",
       "vi": "Ánh nắng thật chan hòa..."
     },
@@ -267,7 +267,7 @@
       "fr": "Le vent souffle fort...",
       "pt": "A Ventania está chegando...",
       "ru": "Когда дует сильный ветер...",
-      "id": "Saat Angin Berembus",
+      "id": "Ketika Angin Berembus",
       "th": "ในเวลาที่ลมพัดแรง...",
       "vi": "Gió lớn quá..."
     },
@@ -587,7 +587,7 @@
       "fr": "Détails intéressants...",
       "pt": "Coisas Interessantes...",
       "ru": "Интересные вещи...",
-      "id": "Rumor yang menarik",
+      "id": "Kisah Menarik",
       "th": "ข้อมูลที่น่าสนใจ...",
       "vi": "Những kiến thức thú vị..."
     },
@@ -1131,7 +1131,7 @@
       "fr": "Plats préférés...",
       "pt": "Comida Favorita...",
       "ru": "Любимая еда...",
-      "id": "Makanan favorit",
+      "id": "Makanan Favorit",
       "th": "อาหารที่ชอบ...",
       "vi": "Món ăn yêu thích..."
     },
@@ -1255,7 +1255,7 @@
       "ko": "선물 획득·세 번째",
       "en": "Receiving a Gift: III",
       "de": "Geschenk erhalten III",
-      "es": "Al recibir un regalo (II)",
+      "es": "Al recibir un regalo (III)",
       "fr": "Cadeau reçu (3)",
       "pt": "Recebendo Presentes — III",
       "ru": "Подарок III",
@@ -1542,7 +1542,7 @@
       "jp": "元素爆発·1",
       "ko": "원소폭발·첫 번째",
       "en": "Elemental Burst: I",
-      "de": "Spezialfähigkeit – I",
+      "de": "Spezialfähigkeit I",
       "es": "Habilidad Definitiva (I)",
       "fr": "Déchaînement élémentaire (1)",
       "pt": "Supremo - I",
@@ -1574,7 +1574,7 @@
       "jp": "元素爆発·2",
       "ko": "원소폭발·두 번째",
       "en": "Elemental Burst: II",
-      "de": "Spezialfähigkeit – II",
+      "de": "Spezialfähigkeit II",
       "es": "Habilidad Definitiva (II)",
       "fr": "Déchaînement élémentaire (2)",
       "pt": "Supremo - II",
@@ -1606,7 +1606,7 @@
       "jp": "元素爆発·3",
       "ko": "원소폭발·세 번째",
       "en": "Elemental Burst: III",
-      "de": "Spezialfähigkeit – III",
+      "de": "Spezialfähigkeit III",
       "es": "Habilidad Definitiva (III)",
       "fr": "Déchaînement élémentaire (3)",
       "pt": "Supremo - III",
@@ -1917,6 +1917,70 @@
       "id": "Aku harus terus bertahan!",
       "th": "ต้องอดทนอีกนิด...",
       "vi": "Tôi sẽ kiên trì thêm tí nữa!"
+    }
+  },
+  {
+    "title": {
+      "zhs": "同伴生命值低·其一",
+      "zht": "同伴生命值低·其一",
+      "jp": "仲間HP低下·1",
+      "ko": "동료 HP 감소·첫 번째",
+      "en": "Ally at Low HP: I",
+      "de": "Verbündeter hat niedrige LP I",
+      "es": "Aliado con vida baja (I)",
+      "fr": "Compagnon avec PV faibles (1)",
+      "pt": "Aliado com Vida baixa: I",
+      "ru": "Низкий уровень HP компаньона I",
+      "id": "HP Rekan Rendah: I",
+      "th": "ค่าพลังชีวิตของเพื่อนต่ำ - 1",
+      "vi": "HP Đồng Hành Thấp I"
+    },
+    "line": {
+      "zhs": "我…不想看你受伤。",
+      "zht": "我…不想看你受傷。",
+      "jp": "私…あなたが傷つくのを見たくないよ。",
+      "ko": "당신이… 다치는 건 원치 않아요.",
+      "en": "I don't want to see you hurt...",
+      "de": "Ich will nicht, dass du verletzt wirst ...",
+      "es": "No quiero que te hagan daño...",
+      "fr": "Je ne veux pas vous voir blessé...",
+      "pt": "#Não quero te ver ferid{M#o}{F#a}...",
+      "ru": "Не хочу, чтобы тебе было больно...",
+      "id": "Aku tidak mau lihat kamu terluka ....",
+      "th": "ฉัน... ไม่อยากเห็นเธอเจ็บ",
+      "vi": "Tôi...không muốn thấy bạn bị thương."
+    }
+  },
+  {
+    "title": {
+      "zhs": "同伴生命值低·其二",
+      "zht": "同伴生命值低·其二",
+      "jp": "仲間HP低下·2",
+      "ko": "동료 HP 감소·두 번째",
+      "en": "Ally at Low HP: II",
+      "de": "Verbündeter hat niedrige LP II",
+      "es": "Aliado con vida baja (II)",
+      "fr": "Compagnon avec PV faibles (2)",
+      "pt": "Aliado com Vida baixa: II",
+      "ru": "Низкий уровень HP компаньона II",
+      "id": "HP Rekan Rendah: II",
+      "th": "ค่าพลังชีวิตของเพื่อนต่ำ - 2",
+      "vi": "HP Đồng Hành Thấp II"
+    },
+    "line": {
+      "zhs": "让我为你治疗，拜托了！",
+      "zht": "讓我為你治療，拜託了！",
+      "jp": "私に治療させて、お願い！",
+      "ko": "제가 치료하게 해주세요, 부탁이에요!",
+      "en": "Please, let me tend to your wounds!",
+      "de": "Bitte, lass mich deine Wunden behandeln!",
+      "es": "¡Deja que cure tus heridas!",
+      "fr": "Je vous en prie, laissez-moi soigner vos blessures !",
+      "pt": "Por favor, deixe-me cuidar de suas feridas!",
+      "ru": "Пожалуйста, позволь обработать твои раны!",
+      "id": "Biar kuobati luka-lukamu!",
+      "th": "ให้ฉันรักษาเธอเถอะนะ ขอร้องล่ะ!",
+      "vi": "Hãy để tôi chữa trị cho bạn, nha!"
     }
   },
   {

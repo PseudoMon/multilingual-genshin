@@ -178,7 +178,7 @@
     "description": {
       "zhs": "合成药剂时，有20%概率返还部分合成材料。",
       "zht": "合成藥劑時，有20%的機率歸還部分合成材料。",
-      "jp": "薬剤を合成する時、20%の確率で材料が返還される。",
+      "jp": "薬剤を合成する時、20%の確率で一部の材料が返還される。",
       "ko": "포션 합성 시 20%의 확률로 일부 합성 재료를 반환한다",
       "en": "When Lisa crafts a potion, she has a 20% chance to refund a portion of the crafting materials used.",
       "de": "Gibt beim Herstellen von Tränken mit einer Wahrscheinlichkeit von 20 % einen Teil der Materialien zurück.",

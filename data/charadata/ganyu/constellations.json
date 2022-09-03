@@ -27,7 +27,7 @@
       "pt": "Receber Dano de uma Carga Nível 2 da Flecha Congelante ou da Explosão da Flecha Congelante diminui a <color=#99FFFFFF>RES Cryo</color> dos inimigos em 15% por 6s.\nUm golpe restaura 2 de Energia para Ganyu. Este efeito pode ocorrer apenas uma vez por Carga Nível 2 da Flecha Congelante, independentemente se a Flecha Congelante em si ou sua explosão acertar o alvo.",
       "ru": "Попадание стрелой-снежинкой с уровнем заряда 2 или её цветением понижает <color=#99FFFFFF>Крио сопротивление</color> противников на 15% в течение 6 сек.;\nТакже попадание восстанавливает 2 ед. энергии Гань Юй. Каждое попадание заряженной атакой с уровнем заряда 2 может восстановить энергию только один раз, вне зависимости от того, было ли это попадание стрелой-снежинкой или её цветением.",
       "id": "Mengurangi 15% <color=#99FFFFFF>Cryo RES</color> musuh yang terkena Frostflake Arrow Charge Tahap 2 atau Frostflake Arrow Bloom selama 6 detik.\nSerangan ini juga akan memulihkan 2 Energy Ganyu. Efek pemulihan Energy terpicu maksimum 1 kali dalam 1 serangan, tak peduli musuh terkena Frostflake Arrow Charge Tahap 2 atau ledakan Frostflake Arrow Bloom.",
-      "th": "เมื่อการชาร์จเลเวล 2 ของ Frostflake Arrow หรือ Frostflake Arrow Bloom โจมตีถูกศัตรู จะทำให้<color=#99FFFFFF>ความต้านทานน้ำแข็ง</color> ของศัตรูลดลง 15% เป็นเวลา 6 วินาที;\nนอกจากนี้เมื่อโจมตีถูกเป้าหมาย จะฟื้นฟูพลังงานธาตุให้แก่ Ganyu 2 หน่วย ซึ่งการชาร์จเลเวล 2 ของ Frostflake Arrow ในแต่ละครั้ง จะทำให้เกิดเอฟเฟกต์ฟื้นฟูพลังธาตุได้เพียงครั้งเดียวเท่านั้น ไม่ว่าจะเป็น Frostflake Arrow หรือ Frostflake Arrow Bloom ที่โจมตีถูกเป้าหมาย",
+      "th": "เมื่อการชาร์จระดับ 2 ของ Frostflake Arrow หรือ Frostflake Arrow Bloom โจมตีถูกศัตรู จะทำให้<color=#99FFFFFF>ความต้านทานน้ำแข็ง</color> ของศัตรูลดลง 15% เป็นเวลา 6 วินาที;\nนอกจากนี้เมื่อโจมตีถูกเป้าหมาย จะฟื้นฟูพลังงานธาตุให้แก่ Ganyu 2 หน่วย ซึ่งการชาร์จเระดับ 2 ของ Frostflake Arrow ในแต่ละครั้ง จะทำให้เกิดเอฟเฟกต์ฟื้นฟูพลังธาตุได้เพียงครั้งเดียวเท่านั้น ไม่ว่าจะเป็น Frostflake Arrow หรือ Frostflake Arrow Bloom ที่โจมตีถูกเป้าหมาย",
       "vi": "Khi Cung Sương Hoa hoặc Sương Giá Tung Bay tụ lực trọng kích lần 2 trúng kẻ địch sẽ khiến địch bị giảm 15% <color=#99FFFFFF>Kháng Nguyên Tố Băng</color>, kéo dài 6s;\nNgoài ra, khi trúng sẽ hồi 2 điểm Năng Lượng Nguyên Tố cho Ganyu. Mỗi lần tụ lực trọng kích lần 2 chỉ có thể kích hoạt hiệu quả hồi Năng Lượng Nguyên Tố 1 lần, bất kể Cung Sương Hoa hoặc Sương Giá Tung Bay có trúng địch hay không."
     },
     "imgid": "constellation_1"
@@ -56,7 +56,7 @@
       "en": "<color=#FFD780FF>Trail of the Qilin</color> gains 1 additional charge.",
       "de": "Ermöglicht 1 weitere Anwendung von <color=#FFD780FF>Spuren des Qilins</color>.",
       "es": "Aumenta en 1 las cargas de <color=#FFD780FF>Senda de Chilin</color>.",
-      "fr": "Confère une charge supplémentaire à <color=#FFD780FF>Trace de Qilin</color>.",
+      "fr": "Confère une utilisation supplémentaire de <color=#FFD780FF>Trace de Qilin</color>.",
       "pt": "Os <color=#FFD780FF>Rastros de Qilin</color> aumentam 1 Carga Adicional.",
       "ru": "Увеличивает количество зарядов навыка <color=#FFD780FF>След цилиня</color> на 1.",
       "id": "Meningkatkan 1 charge <color=#FFD780FF>Trail of the Qilin</color>.",
@@ -126,7 +126,7 @@
       "pt": "Os inimigos dentro da AdE da <color=#FFD780FF>Chuva Celestial</color> recebem Dano aumentado. Este efeito fica mais forte com o tempo.\nO Dano aumentado recebido começa em 5% e aumenta 5% a cada 3s, chegando no máximo a 25%.\nEste efeito permanece por 3s após o inimigo sair da AdE.",
       "ru": "Увеличивает урон, получаемый врагами, находящимися в области навыка <color=#FFD780FF>Небесный дождь</color>. Этот эффект усиливается со временем.\nУвеличение урона начинается с 5% и увеличивается на 5% каждые 3 сек., до макс. 25%.\nЭффект продолжается ещё 3 сек. после того, как враг покидает зону действия навыка.",
       "id": "Meningkatkan DMG yang diterima musuh saat mereka berada di dalam area <color=#FFD780FF>Celestial Shower</color>. Semakin lama musuh berada di dalam area, semakin besar efek peningkatan DMG.\nPeningkatan DMG mula-mula 5%, dan meningkat 5% setiap 3 detik, peningkatan DMG maksimum: 25%.\nEfek ini bertahan selama 3 detik setelah musuh meninggalkan area.",
-      "th": "ในพื้นที่ของ <color=#FFD780FF>Celestial Shower</color> ความเสียหายที่ศัตรูได้รับจะ เพิ่มขึ้น โดยเอฟเฟกต์นี้ จะเพิ่มความแรงขึ้นเรื่อย ๆ\nความเสียหายที่ได้รับจะเพิ่มขึ้น 5% ในตอนแรก จากนั้นจะ เพิ่มขึ้น 5% ในทุก 3 วินาที และเพิ่มมากสุดถึง 25%\nหลังออกจากพื้นที่ เอฟเฟกต์จะยังคงอยู่นานสุด ถึง 3 วินาที",
+      "th": "ในพื้นที่ของ <color=#FFD780FF>Celestial Shower</color> ความเสียหายที่ศัตรูได้รับจะเพิ่มขึ้น โดยเอฟเฟกต์นี้จะเพิ่มความรุนแรงขึ้นเรื่อย ๆ เมื่อเวลาผ่านไป\nในตอนแรกความเสียหายที่ได้รับจะเพิ่มขึ้น 5% หลังจากนั้นจะเพิ่มขึ้น 5% ในทุก ๆ 3 วินาที โดยเพิ่มได้สูงสุดถึง 25%\nเมื่อศัตรูออกจากพื้นที่ เอฟเฟกต์นี้จะยังคงอยู่เป็นเวลา 3 วินาที",
       "vi": "Trong khu vực của <color=#FFD780FF>Thiên Hoa Hạ Phàm</color>, tăng sát thương kẻ địch phải chịu, hiệu quả này sẽ dần mạnh hơn theo thời gian.\nBan đầu lượng tăng sát thương phải chịu là 5%, mỗi 3s tăng 5%, tăng nhiều nhất đến 25%.\nSau khi rời khỏi khu vực, hiệu quả kéo dài nhiều nhất 3s."
     },
     "imgid": "constellation_4"

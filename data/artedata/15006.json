@@ -35,19 +35,19 @@
       "vi": "Nhận 15% buff sát thương nguyên tố Hỏa."
     },
     {
-      "zhs": "超载、燃烧反应造成的伤害提升40%，蒸发、融化反应的加成系数提高15%。施放元素战技后的10秒内，2件套的效果提高50%，该效果最多叠加3次。",
-      "zht": "超載、燃燒反應造成的傷害提升40%，蒸發、融化反應的加成係數提高15%。施放元素戰技後的10秒內，2件套的效果提高50%，該效果最多疊加三次。",
-      "jp": "過負荷、燃焼反応によるダメージ+40%。蒸発、溶解反応による加算効果+15%。元素スキルを発動した10秒間、2セットの効果+50%、最大3重まで。",
-      "ko": "과부하, 연소 반응이 적에게 주는 피해가 40% 증가하고 증발, 융해 반응의 보너스 계수가 15% 증가한다. 원소전투 스킬 발동 후 10초 동안 2세트의 효과가 50% 증가한다. 최대 중첩수: 3회",
-      "en": "Increases Overloaded and Burning DMG by 40%. Increases Vaporize and Melt DMG by 15%. Using Elemental Skill increases the 2-Piece Set Bonus by 50% of its starting value for 10s. Max 3 stacks.",
-      "de": "Erhöht den mit den Reaktionen „Überladen“ und „In Flammen“ verursachten Schaden um 40 % und den von den Reaktionen „Verdampfen“ und „Schmelzen“ betroffenen Gegnern zugefügten Schaden um 15 %. Erhöht den Effekt eines 2er-Sets bei Anwendung von Elementarfähigkeiten 10 s lang um 50 %, 3-fach stapelbar.",
-      "es": "Aumenta el daño causado por Sobrecarga y Quemadura en un 40%, y el de Vaporización y Derretido en un 15%. El uso de una Habilidad Elemental aumenta los efectos del conjunto de 2 piezas en un 50% durante 10 s. Puede acumularse hasta un máximo de 3 veces.",
-      "fr": "Augmente les DGT infligés par Surcharge et Brûlure de 40 % et ceux d'Évaporation et de Fonte de 15 %. L'utilisation d'une compétence élémentaire augmente pendant 10 s l'effet du set de 2 pièces de 50 %. Cet effet peut être cumulé 3 fois maximum.",
-      "pt": "Aumenta o dano causado por Sobrecarga e Queimadura em 40%, aumenta o dano causado pela Vaporização e Fusão em 15%. Ao usar a Habilidade Elemental aumenta os efeitos do Conjunto de 2 Peças em 50% por 10s. Pode acumular até 3x.",
-      "ru": "Увеличивает урон статусов Перегрузка и Горение на 40%, а урон статусов Пар и Таяние - на 15%. Использование элементального навыка увеличивает эффекты набора из двух вещей на 50% в течение 10 сек. Может складываться до 3 раз.",
-      "id": "Meningkatkan 40% DMG Overloaded dan Burning. Meningkatkan 15% DMG Vaporize dan Melt. Setelah menggunakan Elemental Skill, meningkatkan 50% efek 2-Piece Set selama 10 detik. Maksimum 3 lapis.",
-      "th": "ความเสียหายโอเวอร์โหลด, การติดไฟเพิ่มขึ้น 40% ความเสียหายระเหย, ละลายเพิ่มขึ้น 15% เอฟเฟกต์เซ็ต 2 ชิ้นเพิ่มขึ้น 50% ภายใน 10 วินาทีหลังจากการใช้สกิลธาตุ ซึ่งเอฟเฟกต์นี้จะซ้อนทับได้สูงสุด 3 ครั้ง",
-      "vi": "Sát thương phản ứng Quá Tải, Thiêu Đốt gây ra tăng 40%, phản ứng Bốc Hơi, Tan Chảy tăng hệ số buff 15%. 10s sau khi thi triển kỹ năng Nguyên Tố, hiệu quả của 2 món tăng 50%. Hiệu quả này tối đa cộng dồn 3 lần."
+      "zhs": "超载、燃烧、烈绽放反应造成的伤害提升40%，蒸发、融化反应的加成系数提高15%。施放元素战技后的10秒内，2件套的效果提高50%，该效果最多叠加3次。",
+      "zht": "超載、燃燒、烈綻放反應造成的傷害提升40%，蒸發、融化反應的加成係數提高15%。施放元素戰技後的10秒內，2件套裝的效果提高50%，該效果最多疊加3次。",
+      "jp": "過負荷、燃焼、烈開花反応によるダメージ+40%。蒸発、溶解反応による加算効果+15%。元素スキルを発動した10秒間、2セットの効果+50%、最大3重まで。",
+      "ko": "과부하, 연소, 발화 반응으로 가하는 피해가 40% 증가하고 증발, 융해 반응의 보너스 계수가 15% 증가한다. 원소전투 스킬 발동 후 10초 동안 2세트의 효과가 50% 증가한다. 최대 중첩수: 3회",
+      "en": "Increases Overloaded and Burning, and Burgeon DMG by 40%. Increases Vaporize and Melt DMG by 15%. Using Elemental Skill increases the 2-Piece Set Bonus by 50% of its starting value for 10s. Max 3 stacks.",
+      "de": "Erhöht den mit den Reaktionen „Überladen“, „In Flammen“ und „Flammenspross“ verursachten Schaden um 40 % und den den von den Reaktionen „Verdampfen“ und „Schmelzen“ betroffenen Gegnern zugefügten Schaden um 15 %. Erhöht den Effekt eines 2er-Sets bei Anwendung von Elementarfähigkeiten 10 s lang um 50 %, 3-fach stapelbar.",
+      "es": "Aumenta el daño causado por Sobrecarga, Quemadura y Crepitar en un 40%, y el de Vaporización y Derretido en un 15%. El uso de una Habilidad Elemental aumenta los efectos del conjunto de 2 piezas en un 50% durante 10 s. Puede acumularse hasta un máximo de 3 veces.",
+      "fr": "Augmente les DGT infligés par Surcharge, Brûlure et Bourgeonnement de 40 % et ceux d'Évaporation et de Fonte de 15 %. L'utilisation d'une compétence élémentaire augmente pendant 10 s l'effet du set de 2 pièces de 50 %. Cet effet peut être cumulé 3 fois maximum.",
+      "pt": "Aumenta o Dano causado por Sobrecarga, Queimaduras e Germinação em 40%. Aumenta o Dano causado por Vaporização e Fusão em 15%. Usar Habilidades Elementais aumenta o efeito de Bônus de Conjunto de 2 Peças em 50% do seu valor inicial por 10s. Máximo de 3 acúmulos.",
+      "ru": "Увеличивает урон реакций Перегрузка, Горение и Цветение на 40%, а урон реакций Пар и Таяние на 15%. Использование элементального навыка увеличивает эффект набора из 2 предметов на 50% на 10 сек. Может складываться до 3 раз.",
+      "id": "Meningkatkan 40% DMG Overloaded, Burning, dan Burgeon. Meningkatkan 15% DMG Vaporize dan Melt. Setelah menggunakan Elemental Skill, meningkatkan 50% efek Set 2 Bagian selama 10 detik. Maksimum 3 lapis.",
+      "th": "ปฏิกิริยาโอเวอร์โหลด, ติดไฟ และเบ่งบาน สร้างความเสียหายเพิ่มขึ้น 40% ปฏิกิริยาระเหย, ละลาย สร้างความเสียหายเพิ่มขึ้น 15% โดยที่ภายใน 10 วินาที หลังจากใช้สกิลธาตุ เอฟเฟกต์เซ็ต 2 ชิ้น จะเพิ่มขึ้น 50% ซึ่งเอฟเฟกต์นี้ จะซ้อนทับได้สูงสุด 3 ครั้ง",
+      "vi": "Sát thương phản ứng Quá Tải, Thiêu Đốt, Bung Tỏa gây ra tăng 40%, phản ứng Bốc Hơi, Tan Chảy tăng hệ số buff 15%. 10s sau khi thi triển kỹ năng Nguyên Tố, hiệu quả của 2 món tăng 50%. Hiệu quả này tối đa cộng dồn 3 lần."
     }
   ],
   "imgid": "crimson_witch_of_flames_flower",

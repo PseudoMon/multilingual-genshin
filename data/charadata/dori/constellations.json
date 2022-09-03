@@ -1,0 +1,200 @@
+[
+  {
+    "title": {
+      "zhs": "追加投资",
+      "zht": "追加投資",
+      "jp": "追加投資",
+      "ko": "추가 투자",
+      "en": "Additional Investment",
+      "de": "Zusatzinvestition",
+      "es": "Inversión adicional",
+      "fr": "Investissement supplémentaire",
+      "pt": "Investimento Adicional",
+      "ru": "Дополнительные вложения",
+      "id": "Additional Investment",
+      "th": "Additional Investment",
+      "vi": "Thêm Vốn Thêm Lời"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>断除烦恼炮</color>命中后产生的售后服务弹增加1枚。",
+      "zht": "<color=#FFD780FF>斷除煩惱炮</color>命中後產生的售後服務彈增加1枚。",
+      "jp": "<color=#FFD780FF>トラブルシューター砲</color>命中後に生成するアフターサービス弾+1発。",
+      "ko": "<color=#FFD780FF>번뇌 제거포</color> 명중 후 생성되는 A/S 포탄이 1개 증가한다",
+      "en": "The number of After-Sales Service Rounds created by <color=#FFD780FF>Troubleshooter Shots</color> is increased by 1.",
+      "de": "Erhöht die Anzahl der beim Treffen mit der <color=#FFD780FF>sorgenbefreienden Kanone</color> entstehenden Kundendienst-Kanonen um 1.",
+      "es": "El <color=#FFD780FF>cañonazo apaciguador</color> crea 1 bala posventa adicional.",
+      "fr": "Le nombre d'obus de S.A.V. créés après un <color=#FFD780FF>tir pacificateur</color> augmente de 1.",
+      "pt": "O número de Munições Pós-venda criadas pelo <color=#FFD780FF>Tiro Apaziguador</color> ao atingir os inimigos é aumentado em 1.",
+      "ru": "Увеличивает количество Снарядов гарантийного обслуживания, создаваемых <color=#FFD780FF>Устраняющими проблемы зарядами</color>, на 1.",
+      "id": "Jumlah After Sales Service Round yang diciptakan dari <color=#FFD780FF>Troubleshooter Shot</color> bertambah 1.",
+      "th": "จำนวน After-Sales Service Round ที่เกิดขึ้นหลังจาก <color=#FFD780FF>Troubleshooter Shot</color> ถูกเป้าหมาย เพิ่มขึ้น 1 อัน",
+      "vi": "<color=#FFD780FF>Pháo Cắt Đứt Phiền Não</color> khi bắn trúng kẻ địch sẽ sản sinh ra thêm 1 Tên Lửa Hậu Mãi."
+    },
+    "imgid": "constellation_1"
+  },
+  {
+    "title": {
+      "zhs": "特许经营",
+      "zht": "特許經營",
+      "jp": "スペシャルフランチャイズ",
+      "ko": "프랜차이즈 경영",
+      "en": "Special Franchise",
+      "de": "Sonderfranchise",
+      "es": "Franquicia singular",
+      "fr": "Franchise spéciale",
+      "pt": "Franquia Especial",
+      "ru": "Особая франшиза",
+      "id": "Special Franchise",
+      "th": "Special Franchise",
+      "vi": "Kinh Doanh Đặc Biệt"
+    },
+    "description": {
+      "zhs": "在战斗状态中，当<color=#FFD780FF>灯中幽精</color>为相连的角色进行治疗时，将从该角色处发射一枚镇灵炮，造成相当于多莉攻击力50%的伤害。",
+      "zht": "在戰鬥狀態中，當<color=#FFD780FF>燈中幽精</color>為相連的角色進行治療時，將從該角色處發射一枚鎮靈炮，造成相當於多莉攻擊力50%的傷害。",
+      "jp": "戦闘状態において、<color=#FFD780FF>ランプの精</color>がリンクしているキャラクターに治療を行う時、そのキャラクターからジンニー砲が発射され、ドリーの攻撃力50%分のダメージを与える。",
+      "ko": "전투 중 <color=#FFD780FF>램프의 정령</color>이 연결된 캐릭터를 치유 시, 해당 캐릭터의 위치에서 진령포를 발사해 도리 공격력의 50%에 해당하는 피해를 준다",
+      "en": "When you are in combat and the <color=#FFD780FF>Jinni</color> heals the character it is connected to, it will fire a Jinni Toop from that character's position that deals 50% of Dori's ATK DMG.",
+      "de": "Feuert während eines Kampfes von der Position der verbundenen Figur eine Dschinn-Kanone ab und verursacht Schaden in Höhe von 50 % ANG von Dori, wenn der <color=#FFD780FF>Flaschengeist</color> die mit ihm verbundene Figur heilt.",
+      "es": "Cuando estás en combate y el <color=#FFD780FF>genio de la lámpara</color> cura al personaje con el que está conectado, desde la ubicación de ese personaje se dispara un cañonazo de genio que inflige daño equivalente al 50% del ATQ de Dori.",
+      "fr": "En combat, lorsque le <color=#FFD780FF>djinn</color> soigne le personnage auquel il est relié, un tir djinn est déclenché à l'emplacement du personnage, infligeant des DGT équivalant à 50 % de l'ATQ de Dori.",
+      "pt": "Quando o <color=#FFD780FF>Gênio da Lâmpada</color> cura o personagem a que está conectado em batalha, ele disparará um Tiro Jinni da posição desse personagem que inflige Dano equivalente a 50% do ATQ da Dori.",
+      "ru": "В бою <color=#FFD780FF>джинн</color>, исцеляя связанного с ним персонажа, выстреливает с его позиции Зарядом джинна, который наносит урон размером 50% от силы атаки Дори.",
+      "id": "Saat berada dalam status pertempuran, saat <color=#FFD780FF>Jinni</color> memulihkan HP Karakter yang terhubung, maka akan menembakkan Jinni Toop dari posisi berdiri Karakter tersebut dan mengakibatkan DMG setara dengan 50% dari ATK Dori.",
+      "th": "ในขณะที่อยู่ในสถานะต่อสู้ เมื่อ <color=#FFD780FF>Jinni</color> ทำการรักษาตัวละครที่เชื่อมโยงอยู่ จะยิง Jinni Toop ออกมาจากตำแหน่งของตัวละครดังกล่าวหนึ่งลูก ซึ่งจะสร้างความเสียหายเป็น 50% ของพลังโจมตีของ Dori",
+      "vi": "Trong trạng thái chiến đấu, khi <color=#FFD780FF>Linh Hồn Đèn</color> trị liệu cho nhân vật được kết nối sẽ bắn Pháo Trấn Linh về phía đó, gây lượng sát thương bằng 50% tấn công của Dori."
+    },
+    "imgid": "constellation_2"
+  },
+  {
+    "title": {
+      "zhs": "百巧千奇",
+      "zht": "百巧千奇",
+      "jp": "百技千巧",
+      "ko": "셀 수 없는 기묘함",
+      "en": "Wonders Never Cease",
+      "de": "Wunder wie Wasserfälle",
+      "es": "Maravillas sinfín",
+      "fr": "Merveilles sans fin",
+      "pt": "Maravilhas Sem Fim",
+      "ru": "Непрекращающиеся чудеса",
+      "id": "Wonders Never Cease",
+      "th": "Wonders Never Cease",
+      "vi": "Muốn Gì Cũng Có"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>卡萨扎莱宫的无微不至</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>卡薩扎萊宮的無微不至</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>アルカサルザライの極上サービス</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>지극정성을 다하는 카자르자레궁</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Alcazarzaray's Exactitude</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Zuneigung von Alcazarzaray</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Meticulosidad de Alcazarzaray</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Méticulosité d'Alcazarzaray</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o nível da habilidade de <color=#FFD780FF>Meticulosidade de Alcazarzaray</color> em 3.\nO nível máximo de elevação é 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Дотошность Алькасар-сарая</color> на 3.\nМакс. уровень: 15.",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Alcazarzaray's Exactitude</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Alcazarzaray's Exactitude</color> ขึ้น 3 ระดับ\nเพิ่มได้สูงสุดถึงระดับ 15",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Alcazarzaray Tinh Xảo</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_3"
+  },
+  {
+    "title": {
+      "zhs": "酌盈剂虚",
+      "zht": "酌盈劑虛",
+      "jp": "益をとって損を補う",
+      "ko": "적자 보충",
+      "en": "Discretionary Supplement",
+      "de": "Zuschlag für Defizite",
+      "es": "Compensación de pérdidas",
+      "fr": "Supplément discrétionnaire",
+      "pt": "Suplemento Descritivo",
+      "ru": "Разумное распределение",
+      "id": "Discretionary Supplement",
+      "th": "Discretionary Supplement",
+      "vi": "Bổ Sung Tùy Ý"
+    },
+    "description": {
+      "zhs": "与<color=#FFD780FF>灯中幽精</color>相连的角色，依据当前的生命值与元素能量，获得以下提升：\n·生命值低于50%时，提升50%受治疗加成；\n·元素能量低于50%时，提升30%元素充能效率。",
+      "zht": "與<color=#FFD780FF>燈中幽精</color>相連的角色，依據當下的生命值與元素能量，獲得以下提升： \n生命值低於50%時，提升50%受治療加成； \n元素能量低於50%時，提升30%元素充能效率。",
+      "jp": "<color=#FFD780FF>ランプの精</color>とリンクしているキャラクターは、その時のHPと元素エネルギーに応じて、以下の強化効果を獲得する。\n·HPが50%未満の場合、受ける治療効果+50%。\n·元素エネルギーが50%未満の場合、元素チャージ効率+30%。",
+      "ko": "<color=#FFD780FF>램프의 정령</color>과 연결된 캐릭터의 현재 HP와 원소 에너지에 따라 아래의 효과를 획득한다:\n·HP 50% 이하일 때 받는 치유 보너스+50%\n·원소 에너지 50% 이하일 때 원소 충전 효율+30%",
+      "en": "The character connected to the <color=#FFD780FF>Jinni</color> will obtain the following buffs based on their current HP and Energy:\n·When their HP is lower than 50%, they gain 50% Incoming Healing Bonus.\n·When their Energy is less than 50%, they gain 30% Energy Recharge.",
+      "de": "Verleiht der Figur, die mit dem <color=#FFD780FF>Flaschengeist</color> verbunden ist, jeweils die folgenden Boni, je nach ihren aktuellen LP und ihrer Elementarenergie:\n· Erhöht den passiven Heilungsbonus um 50 %, wenn ihre LP weniger als 50 % betragen.\n· Erhöht ihre Aufladerate um 30 %, wenn ihre Elementarenergie weniger als 50 % beträgt.",
+      "es": "El personaje conectado con el <color=#FFD780FF>genio de la lámpara</color> obtiene las siguientes bonificaciones en función de su Vida y Energía Elemental actuales:\n·Cuando su Vida es inferior al 50%, la curación recibida aumenta en un 50%.\n·Cuando su Energía Elemental está por debajo del 50%, su Recarga de Energía aumenta en un 30%.",
+      "fr": "#Le personnage relié au <color=#FFD780FF>djinn</color> obtient les bonus suivants selon ses PV et son énergie élémentaire{NON_BREAK_SPACE}:\n· Bonus de soins reçus de 50 % si les PV sont inférieurs à 50 %.\n· Recharge d'énergie augmentée de 30 % si l'énergie élémentaire est inférieure à 50 %.",
+      "pt": "Os personagens conectados ao <color=#FFD780FF>Gênio da Lâmpada</color> irão obter os seguintes bônus baseado na sua Vida Atual e Energia Elemental:\n· Quando sua Vida está abaixo de 50% eles ganham 50% de Bônus de Cura.\n· Quando sua Energia Elemental está abaixo de 50%, eles ganham 30% de Recarga de Energia.",
+      "ru": "Персонаж, у которого установлена связь с <color=#FFD780FF>джинном</color>, в зависимости от текущего HP и энергии получает одно из следующих усилений:\n· Если осталось не более 50% HP, бонус получаемого лечения повышается на 50%.\n· Если осталось не более 50% энергии, восстановление энергии увеличивается на 30%.",
+      "id": "Karakter yang terhubung dengan <color=#FFD780FF>Jinni</color> akan mendapatkan buff berikut berdasarkan HP dan Energy sekarang:\n·Meningkatkan 50% Bonus Pemulihan saat HP kurang dari 50%;\n·Meningkatkan 30% Energy Recharge saat Energy kurang dari 50%.",
+      "th": "ตัวละครที่เชื่อมโยงกับ <color=#FFD780FF>Jinni</color> จะได้รับบัฟต่อไปนี้ โดยขึ้นกับค่าพลังชีวิตและพลังงานธาตุในขณะนั้น:\n·เมื่อค่าพลังชีวิตต่ำกว่า 50% โบนัสการรักษาที่ได้รับจะเพิ่มขึ้น 50%;\n·พลังงานธาตุต่ำกว่า 50% ประสิทธิภาพการฟื้นฟูพลังงานธาตุจะเพิ่มขึ้น 30%",
+      "vi": "Nhân vật liên kết với <color=#FFD780FF>Linh Hồn Đèn</color> sẽ căn cứ vào HP và Năng Lượng Nguyên Tố hiện tại để nhận được lợi ích sau:\n·Khi HP thấp hơn 50%, tăng 50% lượng trị liệu nhận được;\n·Khi Năng Lượng Nguyên Tố thấp hơn 50%, tăng 30% Hiệu Quả Nạp Nguyên Tố."
+    },
+    "imgid": "constellation_4"
+  },
+  {
+    "title": {
+      "zhs": "物超所值",
+      "zht": "物超所值",
+      "jp": "お値段以上",
+      "ko": "뛰어난 가성비",
+      "en": "Value for Mora",
+      "de": "Mehrwert für Mora",
+      "es": "Relación calidad-precio",
+      "fr": "Rapport qualité-mora",
+      "pt": "Qualidade e Preço",
+      "ru": "Оправданные затраты",
+      "id": "Value for Mora",
+      "th": "Value for Mora",
+      "vi": "Hàng Siêu Giá Trị"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>镇灵之灯·烦恼解决炮</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>鎮靈之燈·煩惱解決炮</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>ジンニーランプ·トラブルシューター</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>영혼을 달래는 램프·번뇌 해결포</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Spirit-Warding Lamp: Troubleshooter Cannon</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Lampe des Dschinns – Sorgenbefreiende Kanone</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Lámpara mágica: Cañonazo apaciguador</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Lampe de protection : Canon pacificateur</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o nível da habilidade da <color=#FFD780FF>Lâmpada da Proteção: Canhão Apaziguador</color> em 3.\nO nível máximo de elevação é 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Фонарь усмирения духов: Устраняющая проблемы пушка</color> на 3.\nМакс. уровень: 15.",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Spirit-Warding Lamp: Troubleshooter Cannon</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Spirit-Warding Lamp: Troubleshooter Cannon</color> ขึ้น 3 ระดับ\nเพิ่มได้สูงสุดถึงระดับ 15",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Đèn Trấn Linh - Pháo Giải Trừ Phiền Não</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_5"
+  },
+  {
+    "title": {
+      "zhs": "漫掷万镒",
+      "zht": "漫擲萬鎰",
+      "jp": "大金ばら撒き",
+      "ko": "오늘은 플렉스",
+      "en": "Sprinkling Weight",
+      "de": "Saus und Braus",
+      "es": "Peso ligero",
+      "fr": "Poids léger",
+      "pt": "Peso Leve",
+      "ru": "Расточая богатство",
+      "id": "Sprinkling Weight",
+      "th": "Sprinkling Weight",
+      "vi": "Sức Nặng Thương Hiệu"
+    },
+    "description": {
+      "zhs": "多莉施放<color=#FFD780FF>镇灵之灯·烦恼解决炮</color>后的3秒内，将获得以下效果：\n·<color=#FFACFFFF>雷元素附魔</color>；\n·普通攻击命中敌人时，为队伍中附近的所有角色恢复相当于多莉生命值上限4%的生命值，每0.1秒至多通过这种方式恢复一次生命值。",
+      "zht": "多莉施放<color=#FFD780FF>鎮靈之燈·煩惱解決炮</color>後的3秒內，將獲得以下效果：\n·<color=#FFACFFFF>雷元素附魔</color>；\n·普通攻擊命中敵人時，為隊伍中附近的所有角色恢復相當於多莉生命值上限4%的生命值，每0.1秒至多依此方式恢復一次生命值。",
+      "jp": "ドリーが<color=#FFD780FF>ジンニーランプ·トラブルシューター</color>を発動した後の3秒間、下記効果を獲得する。\n·<color=#FFACFFFF>雷元素付与</color>状態を獲得する。\n·通常攻撃が敵に命中すると、周囲のチーム全員のHPをドリーのHP上限4%分回復する。この方式でのHP回復は、0.1秒毎に1回のみ可能。",
+      "ko": "도리가 <color=#FFD780FF>영혼을 달래는 램프·번뇌 해결포</color> 발동 후 3초 동안 아래의 효과를 획득한다:\n·<color=#FFACFFFF>번개 원소 부여</color>\n·일반 공격이 적에게 명중 시, 근처에 있는 파티 내 모든 캐릭터의 HP가 도리 HP 최대치의 4%만큼 회복된다. 해당 방식을 통해 0.1초마다 HP를 최대 1회 회복한다",
+      "en": "Dori gains the following effects for 3s after using <color=#FFD780FF>Spirit-Warding Lamp: Troubleshooter Cannon</color>:\n·<color=#FFACFFFF>Electro Infusion</color>.\n·When Normal Attacks hit opponents, all nearby party members will heal HP equivalent to 4% of Dori's Max HP. This type of healing can occur once every 0.1s.",
+      "de": "Erhält innerhalb 3 s nach Anwenden der Fähigkeit <color=#FFD780FF>Lampe des Dschinns – Sorgenbefreiende Kanone</color> folgende Effekte:\n· Verleiht <color=#FFACFFFF>Elektro-Attribut</color>.\n· Stellt allen Truppenmitgliedern in der Nähe bei Treffern von Gegnern mit Standardangriffen LP in Höhe von 4 % der max. LP von Dori wieder her. 0,1 s Abklingzeit.",
+      "es": "Tras usar <color=#FFD780FF>Lámpara mágica: Cañonazo apaciguador</color>, Dori obtiene los siguientes efectos durante 3 s:\n·Se <color=#FFACFFFF>imbuye del elemento Electro</color>.\n·Al golpear a un enemigo con un Ataque Normal, regenera Vida para todos los miembros del equipo cercanos en una cantidad equivalente al 4% de la Vida Máx. de Dori. Solo se puede regenerar vida una vez cada 0.1 s de esta manera.",
+      "fr": "Après avoir utilisé <color=#FFD780FF>Lampe de protection : Canon pacificateur</color>, Dori obtient les effets suivants pendant 3 s :\n· <color=#FFACFFFF>Enchantement Électro</color>.\n· Si une attaque normale touche un ennemi, tous les personnages de l'équipe à proximité récupèrent des PV pour une valeur équivalant à 4 % des PV max de Dori. Les PV peuvent être restaurés une fois toutes les 0,1 s de cette manière.",
+      "pt": "Dori ganha os seguintes efeitos por 3s após usar <color=#FFD780FF>Lâmpada da Proteção: Canhão Apaziguador</color>:\n· <color=#FFACFFFF>Encantamento Electro</color>.\n· Quando Ataques Normais acertam os oponentes, todos os membros da equipe ao redor regenerarão Vida equivalente a 4% da Vida Máxima da Dori. Essa regeneração pode acontecer 1 vez a cada 0.1s.",
+      "ru": "На 3 сек. после активации навыка <color=#FFD780FF>Фонарь усмирения духов: Устраняющая проблемы пушка</color> Дори получает следующие эффекты:\n· <color=#FFACFFFF>Инфузия Электро</color>.\n· Попадания обычной атакой восстанавливают всем персонажам отряда поблизости HP, равное 4% от макс. HP Дори. Восстановить HP этим способом можно не чаще, чем раз в 0,1 сек.",
+      "id": "3 detik setelah melancarkan <color=#FFD780FF>Spirit-Warding Lamp: Troubleshooter Cannon</color>, Dori akan mendapatkan efek berikut:\n·<color=#FFACFFFF>Electro Infusion</color>;\nSaat Normal Attack mengenai musuh, memulihkan HP kepada seluruh anggota party di sekitar sebesar 4% Max HP Dori. Pemulihan HP dengan cara ini bisa terjadi setiap 0.1 detik sekali.",
+      "th": "หลังจากที่ Dori ใช้ <color=#FFD780FF>Spirit-Warding Lamp: Troubleshooter Cannon</color> ภายใน 3 วินาที จะได้รับเอฟเฟกต์ต่อไปนี้:\n·<color=#FFACFFFF>พลังแห่งไฟฟ้า</color>;\n·เมื่อการโจมตีปกติถูกศัตรู จะฟื้นฟูพลังชีวิต 4% ของพลังชีวิตสูงสุดของ Dori ให้แก่ตัวละครทั้งหมดในทีม ที่อยู่ในบริเวณใกล้เคียง โดยที่ทุก 0.1 วินาที จะฟื้นฟูพลังชีวิตด้วยวิธีนี้ได้มากสุดหนึ่งครั้ง",
+      "vi": "Trong 3s sau khi Dori thi triển <color=#FFD780FF>Đèn Trấn Linh - Pháo Giải Trừ Phiền Não</color> sẽ nhận được hiệu quả sau:\n·<color=#FFACFFFF>Đính kèm nguyên tố Lôi</color>;\n·Đánh thường trúng kẻ địch sẽ hồi phục cho tất cả thành viên trong đội gần đó một lượng HP bằng 4% HP tối đa của Dori. Mỗi 0.1s tối đa hồi phục một lần thông qua cách này."
+    },
+    "imgid": "constellation_6"
+  }
+]

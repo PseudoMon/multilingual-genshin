@@ -1,0 +1,200 @@
+[
+  {
+    "title": {
+      "zhs": "由根须断定肇始",
+      "zht": "由根鬚斷定肇始",
+      "jp": "根から判断する原初",
+      "ko": "뿌리에서 결정된 시작",
+      "en": "Beginnings Determined at the Roots",
+      "de": "Wurzeln bestimmen Anfänge",
+      "es": "Raíz primigenia",
+      "fr": "Début déterminé à la racine",
+      "pt": "Começos Determinados Pela Raiz",
+      "ru": "Побеги определяются корнями",
+      "id": "Beginnings Determined at the Roots",
+      "th": "Beginnings Determined at the Roots",
+      "vi": "Từ Gốc Rễ Định Ban Sơ"
+    },
+    "description": {
+      "zhs": "提纳里重击的暴击率提高15%。",
+      "zht": "提納里重擊的暴擊率提高15%。",
+      "jp": "ティナリの重撃の会心率+15%。",
+      "ko": "타이나리 강공격의 치명타 확률+15%",
+      "en": "Tighnari's Charged Attack CRIT Rate is increased by 15%.",
+      "de": "Erhöht die KT heftiger Schläge von Tighnari um 15 %.",
+      "es": "La Prob. CRIT del Ataque Cargado de Tignari aumenta en un 15%.",
+      "fr": "Le taux CRIT des attaques chargées de Tighnari augmente de 15 %.",
+      "pt": "A Taxa CRIT dos Ataques Carregados de Tighnari é aumentada em 15%.",
+      "ru": "Увеличивает шанс крит. попадания заряженной атакой Тигнари на 15%.",
+      "id": "Meningkatkan 15% CRIT Rate dari Charged Attack Tighnari.",
+      "th": "อัตราคริของการชาร์จโจมตีของ Tighnari เพิ่มขึ้น 15%",
+      "vi": "Tỉ lệ bạo kích từ trọng kích của Tighnari tăng 15%."
+    },
+    "imgid": "constellation_1"
+  },
+  {
+    "title": {
+      "zhs": "由茎干剖析来缘",
+      "zht": "由莖幹剖析來源",
+      "jp": "茎から分析する由来",
+      "ko": "줄기에서 발견된 기원",
+      "en": "Origins Known From the Stem",
+      "de": "Stämme verraten Herkünfte",
+      "es": "Tallo primordial",
+      "fr": "Origine connue dans la tige",
+      "pt": "Origens Conhecidas Pelo Caule",
+      "ru": "Истоки узнаются по стеблю",
+      "id": "Origins Known From the Stem",
+      "th": "Origins Known From the Stem",
+      "vi": "Từ Mầm Chồi Hiểu Ngọn Nguồn"
+    },
+    "description": {
+      "zhs": "当<color=#FFD780FF>识果种雷</color>的识蕴领域中存在敌人时，提纳里获得20%<color=#99FF88FF>草元素伤害加成</color>。\n识蕴领域持续时间结束或其中不存在敌人后，该效果至多持续6秒。",
+      "zht": "當<color=#FFD780FF>識果種雷</color>的識蘊領域中有敵人時，提納里獲得20%<color=#99FF88FF>草元素傷害加成</color>。\n識蘊領域持續時間結束或其中沒有敵人後，該效果至多持續6秒。",
+      "jp": "<color=#FFD780FF>識果榴弾</color>の識蘊の領域に敵がいる時、ティナリの<color=#99FF88FF>草元素ダメージ</color>+20%。\n識蘊の領域の継続時間終了、または敵がいなくなった後、この効果は最大で6秒間持続できる。",
+      "ko": "<color=#FFD780FF>식(識)의 열매</color>의 식온(識蘊)의 영역에 적이 존재할 시 타이나리가 20%의 <color=#99FF88FF>풀 원소 피해 보너스</color>를 획득한다.\n식온의 영역 지속 시간이 종료되거나 영역 내 적이 없으면 해당 효과는 최대 6초 지속된다",
+      "en": "When there are opponents within the Vijnana-Khanda Field created by <color=#FFD780FF>Vijnana-Phala Mine</color>, Tighnari gains 20% <color=#99FF88FF>Dendro DMG Bonus</color>.\nThe effect will last up to 6s if the field's duration ends or if it no longer has opponents within it.",
+      "de": "Verleiht Tighnari 20 % <color=#99FF88FF>Dendro-SCH-Bonus</color>, wenn sich Gegner im von <color=#FFD780FF>Vijnana-Phala-Mine</color> erzeugten Vijnana-Khanda-Feld befinden.\nDer Effekt hält bis zu 6 s an, nachdem die Dauer des Vijnana-Khanda-Felds endet oder sich keine Gegner mehr darin befinden.",
+      "es": "Si en el área vijñana de <color=#FFD780FF>Frutos del vijñana</color> hay algún enemigo, Tignari obtiene un 20% de <color=#99FF88FF>Bono de Daño Dendro</color>.\nEste efecto permanecerá hasta 6 s después de que termine la duración del área vijñana o cuando ya no haya enemigos en ella.",
+      "fr": "Lorsqu'un ennemi est dans le champ de vijnana-khanda créé par <color=#FFD780FF>Mine de vijnana-phala</color>, Tighnari obtient un <color=#99FF88FF>bonus de DGT Dendro</color> de 20 %.\nCet effet dure 6 s si la durée du champ de vijnana-khanda se termine ou s'il n'y a plus d'ennemis à l'intérieur.",
+      "pt": "Quando houverem oponentes dentro do Campo Vijnana-Khanda criado pela <color=#FFD780FF>Mina Vijnana-Phala</color>, Tighnari ganha 20% de <color=#99FF88FF>Bônus de Dano Dendro</color>.\nEsse efeito pode durar até 6s quando o Campo Vijnana-Khanda acabar ou quando não houverem inimigos dentro dele.",
+      "ru": "Когда в поле виджняны-кханды, созданном <color=#FFD780FF>Миной виджняны-пхалы</color>, находятся враги, Тигнари получает 20% <color=#99FF88FF>бонус Дендро урона</color>.\nЕсли время действия поля истечёт или в нём не останется врагов, эффект продлится ещё 6 сек.",
+      "id": "Saat ada musuh di dalam Vijnana-Khanda Field yang dihasilkan <color=#FFD780FF>Vijnana-Phala Mine</color>, Tighnari memperoleh 20% <color=#99FF88FF>Dendro DMG Bonus</color>.\nSetelah durasi aktif Vijnana-Khanda Field berakhir atau sudah tidak ada musuh di dalamnya, efek ini akan bertahan hingga 6 detik.",
+      "th": "เมื่อมีศัตรูอยู่ใน Vijnana-Khanda Field ของ <color=#FFD780FF>Vijnana-Phala Mine</color> Tighnari จะได้รับ<color=#99FF88FF>โบนัสความเสียหายไม้</color> 20%\nหลังจากที่ช่วงเวลาต่อเนื่องของ Vijnana-Khanda Field สิ้นสุดลง หรือไม่มีศัตรูอยู่ในพื้นที่แล้ว เอฟเฟกต์นี้จะคงอยู่ต่อไปได้นานสุดถึง 6 วินาที",
+      "vi": "Khi có kẻ địch trong Khu Vực Vijnana-Khanda từ kỹ năng <color=#FFD780FF>Hạt Giống Vijnana-Phala</color>, Tighnari nhận được 20%<color=#99FF88FF>Buff Sát Thương Nguyên Tố Thảo</color>.\nKhi Khu Vực Vijnana-Khanda kết thúc hoặc không còn kẻ địch, hiệu ứng này tối đa duy trì 6s."
+    },
+    "imgid": "constellation_2"
+  },
+  {
+    "title": {
+      "zhs": "由枝节知晓造化",
+      "zht": "由枝節知曉造化",
+      "jp": "枝から知る進化",
+      "ko": "가지에서 이해한 조화",
+      "en": "Fortunes Read Amongst the Branches",
+      "de": "Zweige kennen Schicksale",
+      "es": "Ramas creadoras",
+      "fr": "Destin lu parmi les branches",
+      "pt": "Ramos da Fortuna",
+      "ru": "По ветвям постигается сотворение",
+      "id": "Fortunes Read Amongst the Branches",
+      "th": "Fortunes Read Amongst the Branches",
+      "vi": "Từ Thân Nhánh Biết Vạn Vật"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>造生缠藤箭</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>造生纏藤箭</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>造生·蔓纏いの矢</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>뒤엉킨 덩굴 화살</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Fashioner's Tanglevine Shaft</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Des Erschaffers Schlingstängel-Pfeil</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Flecha enredadora artificial</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Flèche de liane artificielle</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o nível de habilidade da <color=#FFD780FF>Flecha Enraizadora Artificial</color> em 3.\nO nível máximo de elevação é 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Стрелы-лианы жизни</color> на 3.\nМакс. уровень: 15.",
+      "id": "Meningkatkan 3 level <color=#FFD780FF> Fashioner's Tanglevine Shaft</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Fashioner's Tanglevine Shaft</color> ขึ้น 3 ระดับ\nเพิ่มได้สูงสุดถึงระดับ 15",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Dây Leo Sinh Trưởng</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_3"
+  },
+  {
+    "title": {
+      "zhs": "由片叶管窥枯荣",
+      "zht": "由片葉管窺枯榮",
+      "jp": "葉から垣間見る盛衰",
+      "ko": "잎새에서 엿본 성쇠",
+      "en": "Withering Glimpsed in the Leaves",
+      "de": "Blätter bezeugen das Auf und Ab",
+      "es": "Hojas marchitas",
+      "fr": "Flétrissement entrevu grâce aux feuilles",
+      "pt": "Vislumbre das Folhas Murchas",
+      "ru": "В листьях является расцвет и увядание",
+      "id": "Withering Glimpsed in the Leaves",
+      "th": "Withering Glimpsed in the Leaves",
+      "vi": "Từ Phiến Lá Giải Thịnh Suy"
+    },
+    "description": {
+      "zhs": "施放<color=#FFD780FF>造生缠藤箭</color>时，队伍中附近的所有角色的元素精通提升60点，持续8秒。若造生缠藤箭触发了燃烧、绽放、原激化或蔓激化反应，元素精通将进一步提升60点，并刷新该状态的持续时间。",
+      "zht": "施放<color=#FFD780FF>造生纏藤箭</color>時，隊伍中附近的所有角色的元素精通提升60點，持續8秒。若造生纏藤箭觸發了燃燒、綻放、原激化或蔓激化反應，元素精通將進一步提升60點，並重置該狀態的持續時間。",
+      "jp": "<color=#FFD780FF>造生·蔓纏いの矢</color>を放つと、周囲のチーム全員の元素熟知+60、継続時間8秒。造生·蔓纏いの矢が燃焼、開花、原激化、または草激化反応を起こすと、元素熟知がさらに60アップし、継続時間がリセットされる。",
+      "ko": "<color=#FFD780FF>뒤엉킨 덩굴 화살</color> 발동 시, 근처에 있는 파티 내 모든 캐릭터의 원소 마스터리가 60pt 증가한다. 지속 시간: 8초. 엉클어진 덩굴 화살이 연소, 개화, 활성, 발산 반응 발동 시, 원소 마스터리가 추가로 60pt 증가하고 해당 상태의 지속 시간이 리셋된다",
+      "en": "When <color=#FFD780FF>Fashioner's Tanglevine Shaft</color> is unleashed, all nearby party members gain 60 Elemental Mastery for 8s. If the Fashioner's Tanglevine Shaft triggers a Burning, Bloom, Quicken, or Spread reaction, their Elemental Mastery will be further increased by 60. This latter case will also refresh the buff state's duration.",
+      "de": "Erhöht die Elementarkunde aller Truppenmitglieder in der Nähe beim Anwenden der Fähigkeit <color=#FFD780FF>Des Erschaffers Schlingstängel-Pfeil</color> 8 s lang um 60 Punkte. Wenn Des Erschaffers Schlingstängel-Pfeil Reaktionen wie „In Flammen“, „Sprießen“, „Urwuchs“ oder „Rankenwuchs“ auslöst, wird ihre Elementarkunde um weitere 60 Punkte erhöht. In letzterem Fall wird auch die Dauer dieses Bonus zurückgesetzt.",
+      "es": "Al usar <color=#FFD780FF>Flecha enredadora artificial</color>, la Maestría Elemental de todos los miembros del equipo cercanos aumenta en 60 pts. durante 8 s. Si esta habilidad causa una reacción de Quemadura, Florecimiento, Aceleración o Propagación, la Maestría Elemental aumenta en 60 pts. adicionales y se reinicia la duración de esta bonificación de estado.",
+      "fr": "Lorsque <color=#FFD780FF>Flèche de liane artificielle</color> est utilisée, la maîtrise élémentaire de tous les personnages de l'équipe à proximité augmente de 60 pts pendant 8 s. Si Flèche de liane artificielle déclenche une réaction de Brûlure, de Fleurissement, de Stimulation ou de Propagation, la maîtrise élémentaire augmente de 60 pts supplémentaires et la durée de l'effet est réinitialisée.",
+      "pt": "Quando <color=#FFD780FF>Flecha Enraizadora Artificial</color> é lançada, todos os membros da equipe ao redor ganham 60 de Proficiência Elemental por 8s. Se a Flecha Enraizadora Artificial causar uma reação Elemental de Queimaduras, Florescimento, Aceleração ou Propagação, sua Proficiência Elemental aumentará em mais 60 adicionais e também redefinirá a duração do bônus desse estado.",
+      "ru": "Активация навыка <color=#FFD780FF>Стрела-лиана жизни</color> увеличивает мастерство стихий всех членов отряда поблизости на 60 ед. на 8 сек. Если Стрела лианы жизни вызовет Горение, Бутонизацию, Стимуляцию или Разрастание, мастерство стихий увеличится ещё на 60 ед., а длительность эффекта обновится.",
+      "id": "Saat melancarkan <color=#FFD780FF>Fashioner's Tanglevine Shaft</color>, Elemental Mastery seluruh anggota party di sekitar akan meningkat 60 poin selama 8 detik. Jika Fashioner's Tanglevine Shaft memicu reaksi Burning, Bloom, Quicken, atau Spread, maka Elemental Mastery mereka akan mengalami peningkatan tambahan sebesar 60 poin dan akan memperbarui durasi berlangsungnya buff ini.",
+      "th": "เมื่อใช้ <color=#FFD780FF>Fashioner's Tanglevine Shaft</color> ความชำนาญธาตุของตัวละครทั้งหมดในทีม ที่อยู่ในบริเวณใกล้เคียง จะเพิ่มขึ้น 60 หน่วย เป็นเวลา 8 วินาที และหาก Fashioner's Tanglevine Shaft ทำให้เกิดปฏิกิริยาติดไฟ, งอกเงย, ปลุกเร้า หรือแพร่ขยาย ความชำนาญธาตุจะเพิ่มอีก 60 หน่วย และรีเฟรชช่วงเวลาต่อเนื่องของสภาวะดังกล่าว",
+      "vi": "Khi thi triển <color=#FFD780FF>Dây Leo Sinh Trưởng</color>, Tinh Thông Nguyên Tố của tất cả nhân vật trong đội gần đó tăng 60 điểm, duy trì 8s. Nếu Dây Leo Sinh Trưởng kích hoạt phản ứng Thiêu Đốt, Sum Suê, Sinh Trưởng hoặc Lan Tràn, Tinh Thông Nguyên Tố sẽ tăng thêm 60 điểm, đồng thời làm mới thời gian duy trì của trạng thái này."
+    },
+    "imgid": "constellation_4"
+  },
+  {
+    "title": {
+      "zhs": "由繁花明了悟觉",
+      "zht": "由繁花明瞭悟覺",
+      "jp": "花から知る覚悟",
+      "ko": "꽃잎에서 깨달은 사실",
+      "en": "Comprehension Amidst the Flowers",
+      "de": "Blüten hegen Einsichten",
+      "es": "Despertar de las flores",
+      "fr": "Compréhension au milieu des fleurs",
+      "pt": "Compreensão em Meio as Flores",
+      "ru": "Во цветении осмысливается истина",
+      "id": "Comprehension Amidst the Flowers",
+      "th": "Comprehension Amidst the Flowers",
+      "vi": "Từ Cánh Hoa Tìm Giác Ngộ"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>识果种雷</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>識果種雷</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>識果榴弾</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>식(識)의 열매</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Vijnana-Phala Mine</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Vijnana-Phala-Mine</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Frutos del vijñana</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Mine de vijnana-phala</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o nível da <color=#FFD780FF>Mina Vijnana-Phala</color> em 3.\nO nível máximo de elevação é 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Мина виджняны-пхалы</color> на 3.\nМакс. уровень: 15.",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Vijnana-Phala Mine</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Vijnana-Phala Mine</color> ขึ้น 3 ระดับ\nเพิ่มได้สูงสุดถึงระดับ 15",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Hạt Giống Vijnana-Phala</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_5"
+  },
+  {
+    "title": {
+      "zhs": "由硕实品论应果",
+      "zht": "由碩實品論應果",
+      "jp": "実から判断される因果",
+      "ko": "열매에서 내린 결론",
+      "en": "Karma Adjudged From the Leaden Fruit",
+      "de": "Früchte tragen Karma",
+      "es": "Fruto kármico",
+      "fr": "Karma jugé par les fruits",
+      "pt": "Frutos Cármicos",
+      "ru": "Плодом налитым определяется карма",
+      "id": "Karma Adjudged From the Leaden Fruit",
+      "th": "Karma Adjudged From the Leaden Fruit",
+      "vi": "Từ Cây Trái Luận Nhân Quả"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>花筥箭</color>所需的蓄力时间减少0.9秒，并在命中后能产生1枚额外的藏蕴花矢，能造成提纳里攻击力150%的伤害。",
+      "zht": "<color=#FFD780FF>花筥箭</color>所需的蓄力時間減少0.9秒，並在命中後能產生1枚額外的藏蘊花矢，能造成提納里攻擊力150%的傷害。",
+      "jp": "<color=#FFD780FF>花筐の矢</color>のチャージ時間-0.9秒、命中時に蔵蘊の花矢を1本追加で生成し、ティナリの攻撃力150%分のダメージを与える。",
+      "ko": "<color=#FFD780FF>화엽의 화살</color>의 차지 시간이 0.9초 감소하고, 명중 후 꽃을 품은 화살 1발이 추가로 생성되어 타이나리 공격력의 150%에 해당하는 피해를 준다",
+      "en": "<color=#FFD780FF>Wreath Arrow</color>'s charging time is decreased by 0.9s, and will produce 1 additional Clusterbloom Arrow upon hit. This arrow deals 150% of Tighnari's ATK as DMG.",
+      "de": "Verkürzt die Aufladezeit für <color=#FFD780FF>Blütenpfeil</color> um 0,9 s und erzeugt nach einem Treffer 1 weiteren Khanda-Blütenpfeil. Verursacht Schaden in Höhe von 150 % von Tighnaris ANG.",
+      "es": "El tiempo de carga de la <color=#FFD780FF>flecha floral</color> se reduce en 0.9 s y, al golpear al objetivo, crea una flecha de inflorescencia adicional que inflige daño equivalente al 150% del ATQ de Tignari.",
+      "fr": "Le temps de charge des <color=#FFD780FF>flèches florales</color> diminue de 0,9 s et 1 flèche fleuronnée supplémentaire est créée en touchant un ennemi, pouvant infliger des DGT équivalant à 150 % de l'ATQ de Tighnari.",
+      "pt": "O tempo de carga da <color=#FFD780FF>Flecha Floral</color> é reduzido em 0.9s, e irá produzir 1 Flecha Florescente adicional ao acertar um inimigo, infligindo Dano de 150% do ATQ de Tighnari.",
+      "ru": "Сокращает время заряда <color=#FFD780FF>стрелы-венца</color> на 0,9 сек. и при попадании создаёт 1 дополнительную стрелу соцветия. Эта стрела наносит 150% от силы атаки Тигнари.",
+      "id": "Waktu charge <color=#FFD780FF>Wreath Arrow</color> berkurang 0,9 detik dan akan menghasilkan 1 Clusterbloom Arrow tambahan setelah mengenai musuh, mengakibatkan DMG sebesar 150% ATK Tighnari.",
+      "th": "ช่วงเวลาที่ <color=#FFD780FF>Wreath Arrow</color> ต้องใช้ในการชาร์จลดลง 0.9 วินาที และหลังจากที่ถูกเป้าหมาย จะสามารถสร้าง Clusterbloom Arrow เพิ่มขึ้นมาอีก 1 ดอก ซึ่งจะสร้างความเสียหายเป็น 150% ของพลังโจมตีของ Tighnari",
+      "vi": "Thời gian tụ lực cần thiết của <color=#FFD780FF>Mũi Tên Hoa</color> giảm 0.9s, đồng thời khi đánh trúng kẻ địch sẽ sản sinh thêm 1 Mũi Tên Bung Tỏa, gây lượng sát thương bằng 150% tấn công của Tighnari."
+    },
+    "imgid": "constellation_6"
+  }
+]

@@ -44,7 +44,7 @@
       "pt": "Bate-papo - Em movimento",
       "ru": "Поболтаем: В путь",
       "id": "Berbincang: Melangkah",
-      "th": "แชท - -ขยับตัว",
+      "th": "แชท - ขยับตัว",
       "vi": "Nói chuyện phiếm - Hành Động"
     },
     "line": {
@@ -107,7 +107,7 @@
       "fr": "Quand il pleut...",
       "pt": "Quando Está Chovendo...",
       "ru": "Когда идёт дождь...",
-      "id": "Waktu Hujan",
+      "id": "Ketika Turun Hujan",
       "th": "ในเวลาที่ฝนตก...",
       "vi": "Khi trời mưa..."
     },
@@ -139,7 +139,7 @@
       "fr": "Après la pluie...",
       "pt": "Depois da Chuva...",
       "ru": "После дождя...",
-      "id": "Setelah hujan",
+      "id": "Setelah Hujan",
       "th": "ฟ้าหลังฝน...",
       "vi": "Sau cơn mưa trời lại sáng..."
     },
@@ -171,7 +171,7 @@
       "fr": "Quand il neige...",
       "pt": "Quando Está Nevando...",
       "ru": "Когда идёт снег...",
-      "id": "Waktu Turun Salju",
+      "id": "Ketika Turun Salju",
       "th": "ในเวลาที่หิมะตก...",
       "vi": "Khi tuyết rơi..."
     },
@@ -235,7 +235,7 @@
       "fr": "Le vent souffle fort...",
       "pt": "A Ventania Está Chegando...",
       "ru": "Когда дует сильный ветер...",
-      "id": "Saat Angin Berembus",
+      "id": "Ketika Angin Berembus",
       "th": "ในเวลาที่ลมพัดแรง...",
       "vi": "Gió lớn quá..."
     },
@@ -555,7 +555,7 @@
       "fr": "Détails intéressants...",
       "pt": "Coisas Interessantes...",
       "ru": "Интересные вещи...",
-      "id": "Cerita yang Menarik",
+      "id": "Kisah Menarik",
       "th": "ข้อมูลที่น่าสนใจ...",
       "vi": "Những kiến thức thú vị..."
     },
@@ -811,7 +811,7 @@
       "fr": "Plats préférés...",
       "pt": "Comida Favorita...",
       "ru": "Любимая еда...",
-      "id": "Makanan favorit",
+      "id": "Makanan Favorit",
       "th": "อาหารที่ชอบ...",
       "vi": "Món ăn yêu thích..."
     },
@@ -1126,7 +1126,7 @@
       "jp": "元素爆発·1",
       "ko": "원소폭발·첫 번째",
       "en": "Elemental Burst: I",
-      "de": "Spezialfähigkeit – I",
+      "de": "Spezialfähigkeit I",
       "es": "Habilidad Definitiva (I)",
       "fr": "Déchaînement élémentaire (1)",
       "pt": "Supremo - I",
@@ -1158,7 +1158,7 @@
       "jp": "元素爆発·2",
       "ko": "원소폭발·두 번째",
       "en": "Elemental Burst: II",
-      "de": "Spezialfähigkeit – II",
+      "de": "Spezialfähigkeit II",
       "es": "Habilidad Definitiva (II)",
       "fr": "Déchaînement élémentaire (2)",
       "pt": "Supremo - II",
@@ -1190,7 +1190,7 @@
       "jp": "元素爆発·3",
       "ko": "원소폭발·세 번째",
       "en": "Elemental Burst: III",
-      "de": "Spezialfähigkeit – III",
+      "de": "Spezialfähigkeit III",
       "es": "Habilidad Definitiva (III)",
       "fr": "Déchaînement élémentaire (3)",
       "pt": "Supremo - III",
@@ -1441,6 +1441,70 @@
   },
   {
     "title": {
+      "zhs": "同伴生命值低·其一",
+      "zht": "同伴生命值低·其一",
+      "jp": "仲間HP低下·1",
+      "ko": "동료 HP 감소·첫 번째",
+      "en": "Ally at Low HP: I",
+      "de": "Verbündeter hat niedrige LP I",
+      "es": "Aliado con vida baja (I)",
+      "fr": "Compagnon avec PV faibles (1)",
+      "pt": "Aliado com Vida baixa: I",
+      "ru": "Низкий уровень HP компаньона I",
+      "id": "HP Rekan Rendah: I",
+      "th": "ค่าพลังชีวิตของเพื่อนต่ำ - 1",
+      "vi": "HP Đồng Hành Thấp I"
+    },
+    "line": {
+      "zhs": "当心！",
+      "zht": "當心！",
+      "jp": "気をつけろ！",
+      "ko": "조심해!",
+      "en": "Watch out!",
+      "de": "Vorsicht!",
+      "es": "¡Cuidado!",
+      "fr": "Prudence !",
+      "pt": "Cuidado!",
+      "ru": "Осторожно!",
+      "id": "Hati-hati!",
+      "th": "ระวัง!",
+      "vi": "Cẩn thận!"
+    }
+  },
+  {
+    "title": {
+      "zhs": "同伴生命值低·其二",
+      "zht": "同伴生命值低·其二",
+      "jp": "仲間HP低下·2",
+      "ko": "동료 HP 감소·두 번째",
+      "en": "Ally at Low HP: II",
+      "de": "Verbündeter hat niedrige LP II",
+      "es": "Aliado con vida baja (II)",
+      "fr": "Compagnon avec PV faibles (2)",
+      "pt": "Aliado com Vida baixa: II",
+      "ru": "Низкий уровень HP компаньона II",
+      "id": "HP Rekan Rendah: II",
+      "th": "ค่าพลังชีวิตของเพื่อนต่ำ - 2",
+      "vi": "HP Đồng Hành Thấp II"
+    },
+    "line": {
+      "zhs": "别太冒进！",
+      "zht": "別太冒進！",
+      "jp": "無理をするな！",
+      "ko": "무모한 짓은 그만둬!",
+      "en": "Don't get reckless!",
+      "de": "Nicht zu voreilig!",
+      "es": "¡No te precipites!",
+      "fr": "Fais attention à toi !",
+      "pt": "Não se precipite!",
+      "ru": "Не будьте беспечны!",
+      "id": "Jangan ceroboh!",
+      "th": "อย่าวู่วามเข้าไปสิ!",
+      "vi": "Đừng quá khích!"
+    }
+  },
+  {
+    "title": {
       "zhs": "倒下·其一",
       "zht": "倒下·其一",
       "jp": "戦闘不能·1",
@@ -1537,8 +1601,8 @@
   },
   {
     "title": {
-      "zhs": "普通被击·其一",
-      "zht": "普通被擊·其一",
+      "zhs": "普通受击·其一",
+      "zht": "普通受擊·其一",
       "jp": "ダメージを受ける·1",
       "ko": "일반 피격·첫 번째",
       "en": "Light Hit Taken: I",
@@ -1569,8 +1633,8 @@
   },
   {
     "title": {
-      "zhs": "普通被击·其二",
-      "zht": "普通被擊·其二",
+      "zhs": "普通受击·其二",
+      "zht": "普通受擊·其二",
       "jp": "ダメージを受ける·2",
       "ko": "일반 피격·두 번째",
       "en": "Light Hit Taken: II",

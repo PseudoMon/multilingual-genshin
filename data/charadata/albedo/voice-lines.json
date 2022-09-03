@@ -139,7 +139,7 @@
       "fr": "Quand il pleut...",
       "pt": "Quando Está Chovendo...",
       "ru": "Когда идёт дождь...",
-      "id": "Waktu Hujan",
+      "id": "Ketika Turun Hujan",
       "th": "ในเวลาที่ฝนตก...",
       "vi": "Khi trời mưa..."
     },
@@ -171,7 +171,7 @@
       "fr": "Quand il neige...",
       "pt": "Quando Está Nevando...",
       "ru": "Когда идёт снег...",
-      "id": "Waktu Turun Salju",
+      "id": "Ketika Turun Salju",
       "th": "ในเวลาที่หิมะตก...",
       "vi": "Khi tuyết rơi..."
     },
@@ -203,7 +203,7 @@
       "fr": "Il fait bon dehors...",
       "pt": "Quando Faz Sol...",
       "ru": "Когда светит солнце...",
-      "id": "Waktu Matahari Bersinar",
+      "id": "Ketika Matahari Bersinar",
       "th": "แดดส่องดีจัง...",
       "vi": "Ánh nắng thật chan hòa..."
     },
@@ -555,7 +555,7 @@
       "fr": "Détails intéressants...",
       "pt": "Coisas Interessantes...",
       "ru": "Интересные вещи...",
-      "id": "Cerita yang Menarik",
+      "id": "Kisah Menarik",
       "th": "ข้อมูลที่น่าสนใจ...",
       "vi": "Những kiến thức thú vị..."
     },
@@ -1191,7 +1191,7 @@
       "ko": "선물 획득·세 번째",
       "en": "Receiving a Gift: III",
       "de": "Geschenk erhalten III",
-      "es": "Al recibir un regalo (II)",
+      "es": "Al recibir un regalo (III)",
       "fr": "Cadeau reçu (3)",
       "pt": "Recebendo Presentes — III",
       "ru": "Подарок III",
@@ -1478,7 +1478,7 @@
       "jp": "元素爆発·1",
       "ko": "원소폭발·첫 번째",
       "en": "Elemental Burst: I",
-      "de": "Spezialfähigkeit – I",
+      "de": "Spezialfähigkeit I",
       "es": "Habilidad Definitiva (I)",
       "fr": "Déchaînement élémentaire (1)",
       "pt": "Supremo - I",
@@ -1510,7 +1510,7 @@
       "jp": "元素爆発·2",
       "ko": "원소폭발·두 번째",
       "en": "Elemental Burst: II",
-      "de": "Spezialfähigkeit – II",
+      "de": "Spezialfähigkeit II",
       "es": "Habilidad Definitiva (II)",
       "fr": "Déchaînement élémentaire (2)",
       "pt": "Supremo - II",
@@ -1542,7 +1542,7 @@
       "jp": "元素爆発·3",
       "ko": "원소폭발·세 번째",
       "en": "Elemental Burst: III",
-      "de": "Spezialfähigkeit – III",
+      "de": "Spezialfähigkeit III",
       "es": "Habilidad Definitiva (III)",
       "fr": "Déchaînement élémentaire (3)",
       "pt": "Supremo - III",
@@ -1757,6 +1757,70 @@
       "id": "Waktunya strategi baru.",
       "th": "ต้องเปลี่ยนกลยุทธ์แล้วล่ะ",
       "vi": "Phải thay đổi chiến lược."
+    }
+  },
+  {
+    "title": {
+      "zhs": "同伴生命值低·其一",
+      "zht": "同伴生命值低·其一",
+      "jp": "仲間HP低下·1",
+      "ko": "동료 HP 감소·첫 번째",
+      "en": "Ally at Low HP: I",
+      "de": "Verbündeter hat niedrige LP I",
+      "es": "Aliado con vida baja (I)",
+      "fr": "Compagnon avec PV faibles (1)",
+      "pt": "Aliado com Vida baixa: I",
+      "ru": "Низкий уровень HP компаньона I",
+      "id": "HP Rekan Rendah: I",
+      "th": "ค่าพลังชีวิตของเพื่อนต่ำ - 1",
+      "vi": "HP Đồng Hành Thấp I"
+    },
+    "line": {
+      "zhs": "交给我吧。",
+      "zht": "交給我吧。",
+      "jp": "ボクに任せて。",
+      "ko": "내게 맡겨",
+      "en": "I'll take over from here.",
+      "de": "Ich übernehme das von hier an.",
+      "es": "Yo me encargo del resto.",
+      "fr": "Je vais prendre les choses en main.",
+      "pt": "Deixe comigo.",
+      "ru": "Дай мне попробовать!",
+      "id": "Gantian dulu.",
+      "th": "ให้ฉันจัดการเอง",
+      "vi": "Cứ giao cho tôi."
+    }
+  },
+  {
+    "title": {
+      "zhs": "同伴生命值低·其二",
+      "zht": "同伴生命值低·其二",
+      "jp": "仲間HP低下·2",
+      "ko": "동료 HP 감소·두 번째",
+      "en": "Ally at Low HP: II",
+      "de": "Verbündeter hat niedrige LP II",
+      "es": "Aliado con vida baja (II)",
+      "fr": "Compagnon avec PV faibles (2)",
+      "pt": "Aliado com Vida baixa: II",
+      "ru": "Низкий уровень HP компаньона II",
+      "id": "HP Rekan Rendah: II",
+      "th": "ค่าพลังชีวิตของเพื่อนต่ำ - 2",
+      "vi": "HP Đồng Hành Thấp II"
+    },
+    "line": {
+      "zhs": "换人，对你来说太危险了。",
+      "zht": "換人，對你來說太危險了。",
+      "jp": "変わって、キミには無理だよ。",
+      "ko": "나랑 바꾸자, 너무 위험해",
+      "en": "This is too dangerous for you.",
+      "de": "Zeit für eine Auswechslung. Das ist zu gefährlich für dich.",
+      "es": "Esto es demasiado peligroso para ti.",
+      "fr": "C'est trop dangereux pour vous.",
+      "pt": "É perigoso demais para você.",
+      "ru": "Это слишком опасно для тебя.",
+      "id": "Ini terlalu bahaya bagi kamu.",
+      "th": "เปลี่ยนคนเถอะ นี่มันอันตรายกับเธอเกินไปแล้ว",
+      "vi": "Đổi người, nguy hiểm cho bạn quá."
     }
   },
   {

@@ -1,0 +1,194 @@
+[
+  {
+    "title": {
+      "zhs": "普通攻击·妙显剑舞·改",
+      "zht": "普通攻擊·妙顯劍舞·改",
+      "jp": "通常攻撃·マーベラスソードダンス·改",
+      "ko": "일반 공격·오묘한 검무·개조",
+      "en": "Normal Attack: Marvelous Sword-Dance (Modified)",
+      "de": "Standardangriff: Himmlischer Schwerttanz – Abwechslung",
+      "es": "Ataque Normal: Danza de espadas fantástica (modificada)",
+      "fr": "Attaque normale : Valse des lames (modifiée)",
+      "pt": "Ataque Normal: Dança de Espadas Fantástica (Modificada)",
+      "ru": "Чарующий танец мечей",
+      "id": "Normal Attack: Marvelous Sword-Dance (Modified)",
+      "th": "โจมตีปกติ: Marvelous Sword-Dance (Modified)",
+      "vi": "Tấn Công Thường - Kiếm Vũ Kỳ Ảo (Cải Tiến)"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>普通攻击</color>\n进行至多三段的连续挥砍。\n\n<color=#FFD780FF>重击</color>\n持续消耗体力，旋转大剑攻击周围的敌人。\n停止旋转时，会进行一次格外有力的挥砍。\n\n<color=#FFD780FF>下落攻击</color>\n从空中下坠冲击地面，攻击下落路径上的敌人，并在落地时造成范围伤害。",
+      "zht": "<color=#FFD780FF>普通攻擊</color>\n進行至多三段的連續揮砍。\n\n<color=#FFD780FF>重擊</color>\n持續消耗體力，旋轉大劍攻擊周圍的敵人。\n停止旋轉時，會進行一次格外有力的揮砍。\n\n<color=#FFD780FF>下落攻擊</color>\n從空中下墜衝擊地面，攻擊下落路徑上的敵人，並在落地時造成範圍傷害。",
+      "jp": "<color=#FFD780FF>通常攻撃</color>\n最大3段の連続攻撃を行う。\n\n<color=#FFD780FF>重撃</color>\n持続的にスタミナを消費し、大剣を振り回して周囲の敵を攻撃する。\n重撃が終了した時に、さらに強力な攻撃を1回放つ。\n\n<color=#FFD780FF>落下攻撃</color>\n空中から落下し地面に衝撃を与える。経路上の敵を攻撃し、落下時に範囲ダメージを与える。",
+      "ko": "<color=#FFD780FF>일반 공격</color>\n검으로 최대 3번 공격한다.\n\n<color=#FFD780FF>강공격</color>\n스태미나를 지속해서 소모해 검을 휘두르며 주변의 적을 공격한다.\n회전 종료 시 추가로 한 번 더 강력하게 휘두른다.\n\n<color=#FFD780FF>낙하 공격</color>\n공중에서 땅을 내려찍어 경로상의 적을 공격하고 착지 시 범위 피해를 준다",
+      "en": "<color=#FFD780FF>Normal Attack</color>\nPerform up to 3 consecutive strikes.\n\n<color=#FFD780FF>Charged Attack</color>\nDrains Stamina over time to perform continuous spinning attacks against all nearby opponents.\nAt the end of the sequence, performs a more powerful slash. \n\n<color=#FFD780FF>Plunging Attack</color>\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+      "de": "<color=#FFD780FF>Standardangriff</color>\nFührt bis zu 3 Schwünge mit dem Schwert hintereinander aus.\n\n<color=#FFD780FF>Heftiger Schlag</color>\nVerbraucht fortlaufend Ausdauer, wirbelt das Großschwert und greift Gegner in der Umgebung an.\nSchwingt das Schwert am Ende mit besonders großer Wucht.\n\n<color=#FFD780FF>Angriff aus dem Fall</color>\nSchlägt beim Fallen aus der Luft auf den Boden, greift alle Gegner in der Bahn an und verursacht beim Aufkommen Flächenschaden.",
+      "es": "<color=#FFD780FF>Ataque Normal</color>\nRealiza hasta 3 tajos de espada consecutivos.\n\n<color=#FFD780FF>Ataque Cargado</color>\nConsume Aguante de manera constante para realizar golpes de espada giratorios contra los enemigos cercanos.\nAl final del Ataque Cargado, realizará un golpe de espada más poderoso.\n\n<color=#FFD780FF>Ataque Descendente</color>\nSe lanza desde el aire para golpear el suelo, dañando a los enemigos cercanos e infligiendo Daño en el AdE en el momento del impacto.",
+      "fr": "<color=#FFD780FF>Attaque normale</color>\nEnchaîne jusqu'à 3 coups d'épée.\n\n<color=#FFD780FF>Attaque chargée</color>\nExécute une succession d'attaques tournoyantes contre les ennemis proches ; cette attaque consomme de l'endurance de façon continue.\nL'attaque chargée se termine sur un coup puissant.\n\n<color=#FFD780FF>Attaque plongeante</color>\nPlonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis en chemin et des DGT de zone à l'impact.",
+      "pt": "<color=#FFD780FF>Ataque Normal</color>\nRealiza até 3 golpes consecutivos.\n\n<color=#FFD780FF>Ataque Carregado</color>\nDrena Stamina ao longo do tempo para realizar um ataque giratório contínuo contra todos os inimigos próximos.\nAo final da sequência, realiza um corte poderoso.\n\n<color=#FFD780FF>Ataque Imersivo</color>\nMergulha em pleno ar para golpear o chão, danificando inimigos em seu caminho e infligindo dano em uma AdE durante o impacto.",
+      "ru": "<color=#FFD780FF>Обычная атака:</color>\nДо трёх ударов мечом.\n\n<color=#FFD780FF>Заряженная атака:</color>\nВращающаяся атака по окружающим врагам, на которую непрерывно тратится выносливость.\nПосле вращения проводит дополнительную мощную атаку мечом.\n\n<color=#FFD780FF>Атака в падении:</color>\nСтремительно падает на землю, атакуя всех врагов на пути. Приземлившись, наносит урон по площади.",
+      "id": "<color=#FFD780FF>Normal Attack</color> Melancarkan hingga 3 tebasan berturut-turut.\n\n<color=#FFD780FF>Charged Attack</color>\nTerus menguras Stamina untuk melancarkan serangan berputar yang mengakibatkan DMG ke musuh di sekitar.\nSaat berhenti berputar, akan melancarkan sebuah tebasan yang sangat kuat.\n\n<color=#FFD780FF>Plunging Attack</color>\nMenerjang dari udara untuk menghantam tanah, mengakibatkan DMG pada musuh di jalur terjangan dan mengakibatkan DMG Area saat mendarat.",
+      "th": "<color=#FFD780FF>โจมตีปกติ</color>\nฟาดฟันต่อเนื่องมากสุด 3 ครั้ง\n\n<color=#FFD780FF>ชาร์จโจมตี</color>\nใช้พลังกายอย่างต่อเนื่อง เพื่อหมุนโจมตีศัตรูรอบตัวด้วยดาบขนาดใหญ่\nเมื่อหยุดหมุน จะทำการฟันเพิ่มอย่างรุนแรงอีก 1 ครั้ง\n\n<color=#FFD780FF>โจมตีพุ่งลงจากอากาศ</color>\nกระโจนจากกลางอากาศลงมายังพื้นดิน เพื่อโจมตีศัตรูที่อยู่ในเส้นทางการโจมตี โดยจะสร้างความเสียหายวงกว้างเมื่อลงถึงพื้น",
+      "vi": "<color=#FFD780FF>Tấn Công Thường</color>\nThực hiện tối đa 3 lần chém liên tiếp.\n\n<color=#FFD780FF>Trọng Kích</color>\nTiêu hao thể lực để xoay kiếm tấn công địch xung quanh.\nKhi ngừng quay, sẽ bổ một nhát cực mạnh.\n\n<color=#FFD780FF>Tấn Công Khi Đáp</color>\nĐáp xuống đất từ trên không, tấn công kẻ địch trên đường và gây sát thương phạm vi khi chạm đất."
+    }
+  },
+  {
+    "title": {
+      "zhs": "镇灵之灯·烦恼解决炮",
+      "zht": "鎮靈之燈·煩惱解決炮",
+      "jp": "ジンニーランプ·トラブルシューター",
+      "ko": "영혼을 달래는 램프·번뇌 해결포",
+      "en": "Spirit-Warding Lamp: Troubleshooter Cannon",
+      "de": "Lampe des Dschinns – Sorgenbefreiende Kanone",
+      "es": "Lámpara mágica: Cañonazo apaciguador",
+      "fr": "Lampe de protection : Canon pacificateur",
+      "pt": "Lâmpada da Proteção: Canhão Apaziguador",
+      "ru": "Фонарь усмирения духов: Устраняющая проблемы пушка",
+      "id": "Spirit-Warding Lamp: Troubleshooter Cannon",
+      "th": "Spirit-Warding Lamp: Troubleshooter Cannon",
+      "vi": "Đèn Trấn Linh - Pháo Giải Trừ Phiền Não"
+    },
+    "description": {
+      "zhs": "示意镇灵之灯向敌人发射断除烦恼炮，造成<color=#FFACFFFF>雷元素伤害</color>。\n断除烦恼炮命中后，将会产生2枚能自行追踪附近敌人的售后服务弹，造成<color=#FFACFFFF>雷元素伤害</color>。\n\n<i>据说，无论想要解决什么样的烦恼，只要出价足够合适，多莉都能办得到。</i>",
+      "zht": "示意鎮靈之燈向敵人發射斷除煩惱炮，造成<color=#FFACFFFF>雷元素傷害</color>。\n斷除煩惱炮命中後，將會產生2枚能自行追蹤附近敵人的售後服務彈，造成<color=#FFACFFFF>雷元素傷害</color>。\n\n<i>據說，無論想要解決什麼樣的煩惱，只要出價足夠合適，多莉都能辦得到。</i>",
+      "jp": "トラブルシューター砲を発射するようジンニーランプに合図を出し、<color=#FFACFFFF>雷元素ダメージ</color>を与える。\nトラブルシューター砲が命中すると、近くの敵を自動追尾するアフターサービス弾を2発生成し、<color=#FFACFFFF>雷元素ダメージ</color>を与える。\n\n<i>ドリーに十分な料金を支払えば、どんな悩みでも解決してくれるらしい。</i>",
+      "ko": "영혼을 달래는 램프를 꺼내 적에게 번뇌 제거포를 발사하고 <color=#FFACFFFF>번개 원소 피해</color>를 준다.\n번뇌 제거포가 명중 시 주변의 적을 자동 추적하는 A/S 포탄이 2개 생성되어 <color=#FFACFFFF>번개 원소 피해</color>를 준다.\n\n<i>적절한 대가만 지급하면, 그 어떤 번뇌라도 도리가 해결해 줄 것이다</i>",
+      "en": "Directs a Spirit-Warding Lamp to fire off a Troubleshooter Shot at opponents, dealing <color=#FFACFFFF>Electro DMG</color>.\nAfter the Troubleshooter Shot hits, it will create 2 After-Sales Service Rounds that will automatically track opponents and deal <color=#FFACFFFF>Electro DMG</color>.\n\n<i>It is said that Dori can fix any problem for you... for the right price.</i>",
+      "de": "Die Lampe feuert eine sorgenbefreiende Kanone auf Gegner ab und verursacht <color=#FFACFFFF>Elektro-Schaden</color>.\nTrifft die sorgenbefreiende Kanone, erzeugt sie 2 Kundendienst-Kanonen, die die Gegner automatisch verfolgen und <color=#FFACFFFF>Elektro-Schaden</color> verursachen.\n\n<i>Es heißt, dass Dori jede Sorge nehmen kann ... für den richtigen Preis.</i>",
+      "es": "Saca su lámpara mágica para lanzar contra los enemigos un cañonazo apaciguador que inflige <color=#FFACFFFF>Daño Electro</color>.\nAl golpear a un objetivo, el cañonazo crea dos balas posventa que persiguen por sí solas a los enemigos cercanos para infligirles <color=#FFACFFFF>Daño Electro</color>.\n\n<i>Dicen que Dori puede solucionar cualquier problema... por el precio indicado.</i>",
+      "fr": "Commande à une lampe de protection de déclencher un tir pacificateur sur les ennemis, infligeant des <color=#FFACFFFF>DGT Électro</color>.\nÀ l'impact, le tir pacificateur crée 2 obus de S.A.V. qui poursuivent automatiquement les ennemis pour infliger des <color=#FFACFFFF>DGT Électro</color>.\n\n<i>Il est dit que Dori peut résoudre n'importe lequel de vos problèmes... Pour un prix adéquat, bien sûr...</i>",
+      "pt": "Mira uma Lâmpada da Proteção contra os inimigos para disparar Tiros Apaziguadores, infligindo <color=#FFACFFFF>Dano Electro</color>.\nQuando os Tiros Apaziguadores acertam os oponentes, eles criam 2 Munições Pós-venda que perseguirão os oponentes próximos automaticamente, infligindo <color=#FFACFFFF>Dano Electro</color>.\n\n<i>Dizem que a Dori consegue resolver qualquer tipo de problema para você... pelo preço certo.</i>",
+      "ru": "Направляет Фонарь усмирения духов и выстреливает во врагов Устраняющим проблемы зарядом, нанося <color=#FFACFFFF>Электро урон</color>.\nПри попадании Устраняющий проблемы заряд создаёт 2 Снаряда гарантийного обслуживания, которые самостоятельно находят цели поблизости и наносят <color=#FFACFFFF>Электро урон</color>.\n\n<i>Говорят, Дори решит любую проблему... если ей достаточно заплатить.</i>",
+      "id": "Memerintahkan Spirit-Warding Lamp untuk menembakkan Troubleshooter Shot terhadap musuh, mengakibatkan <color=#FFACFFFF>Electro DMG</color>.\nSetelah Troubleshooter Shot mengenai target, akan menghasilkan 2 buah After-Sales Service Round yang akan otomatis mengikuti musuh di sekitar dan mengakibatkan <color=#FFACFFFF>Electro DMG</color>.\n\n<i>Konon katanya, Dori akan bisa menyelesaikan semua masalahmu ... asal harganya cocok.</i>",
+      "th": "เล็ง Spirit-Warding Lamp และยิง Troubleshooter Shot ใส่ศัตรู เพื่อสร้าง<color=#FFACFFFF>ความเสียหายไฟฟ้า</color>\nหลังจากที่ Troubleshooter Shot ถูกเป้าหมาย จะเกิด After-Sales Service Round ที่จะติดตามศัตรูที่อยู่ในบริเวณใกล้เคียงขึ้นมา 2 อัน ซึ่งจะทำให้เกิด<color=#FFACFFFF>ความเสียหายไฟฟ้า</color>\n\n<i>ว่ากันว่า ไม่ว่าเรื่องกลุ้มใจของคุณจะเป็นแบบไหน ขอเพียงเสนอราคาที่น่าพึงพอใจ แล้ว Dori ก็จะสามารถแก้ไขให้ได้ทั้งนั้น</i>",
+      "vi": "Điều khiển Đèn Trấn Linh bắn Pháo Cắt Đứt Phiền Não về phía kẻ địch, gây <color=#FFACFFFF>Sát Thương Nguyên Tố Lôi</color>.\nPháo Cắt Đứt Phiền Não sau khi trúng sẽ sản sinh 2 Tên Lửa Hậu Mãi đuổi theo kẻ địch gần đó, gây <color=#FFACFFFF>Sát Thương Nguyên Tố Lôi</color>.\n\n<i>Nghe nói, cho dù là giải quyết phiền phức gì đi nữa, chỉ cần giá cả hợp lý là Dori đều sẽ làm được.</i>"
+    }
+  },
+  {
+    "title": {
+      "zhs": "卡萨扎莱宫的无微不至",
+      "zht": "卡薩扎萊宮的無微不至",
+      "jp": "アルカサルザライの極上サービス",
+      "ko": "지극정성을 다하는 카자르자레궁",
+      "en": "Alcazarzaray's Exactitude",
+      "de": "Zuneigung von Alcazarzaray",
+      "es": "Meticulosidad de Alcazarzaray",
+      "fr": "Méticulosité d'Alcazarzaray",
+      "pt": "Meticulosidade de Alcazarzaray",
+      "ru": "Дотошность Алькасар-сарая",
+      "id": "Alcazarzaray's Exactitude",
+      "th": "Alcazarzaray's Exactitude",
+      "vi": "Alcazarzaray Tinh Xảo"
+    },
+    "description": {
+      "zhs": "召唤灯中幽精，为顾客提供形形色色的帮助。\n\n<color=#FFD780FF>灯中幽精</color>\n会与附近的角色相连。与灯中幽精相连的角色将会：\n·持续恢复生命值，回复量受益于多莉的生命值上限；\n·持续获得元素能量；\n·处于<color=#FFACFFFF>雷元素附着</color>状态下。\n\n此外，角色与灯中幽精之间的连接触碰敌人时，将每0.4秒对敌人造成一次<color=#FFACFFFF>雷元素伤害</color>。\n\n同时只能存在一个灯中幽精。\n\n<i>「嗯？客人是挑中了这盏灯吗？哎呀…您的品味还真好呢！只不过，这个可是无价之宝。就比如说，不管别人出多少摩拉，客人您也不会把您旁边那个小吉祥物卖出去吧？」</i>",
+      "zht": "召喚燈中幽精，為顧客提供形形色色的幫助。\n\n<color=#FFD780FF>燈中幽精</color>\n會與附近的角色相連。與燈中幽精相連的角色將會：\n·持續恢復生命值，回復量受益於多莉的生命值上限；\n·持續獲得元素能量；\n·處於<color=#FFACFFFF>雷元素附著</color>狀態下。\n\n此外，角色與燈中幽精之間的連結觸碰敵人時，將每0.4秒對敵人造成一次<color=#FFACFFFF>雷元素傷害</color>。\n\n同時只能存在一個燈中幽精。\n\n<i>「嗯？客人是挑中了這盞燈嗎？哎呀…您的品味還真好呢！只不過，這個可是無價之寶。就比如說，不管別人出多少摩拉，客人您也不會把您旁邊那個小吉祥物賣出去吧？」</i>",
+      "jp": "ランプの精を召喚し、お客様に様々なサポートを提供する。\n\n<color=#FFD780FF>ランプの精</color>\n近くにいるキャラクターとリンクする。ランプの精とリンクしたキャラクターに下記効果を与える。\n·持続的にHPを回復する。HPの回復量はドリーのHP上限によって決まる。\n·持続的に元素エネルギーを獲得する。\n·<color=#FFACFFFF>雷元素付着状態</color>になる。\n\nキャラクターとランプの精の間のリンクが敵に触れると、0.4秒毎に敵に<color=#FFACFFFF>雷元素ダメージ</color>を1回与える。\n\nランプの精は同時に最大1つまで存在可能。\n\n<i>「ん？お客様がこのランプを選んだのです？あらら…素晴らしいセンスですの！ただ、これはプライスレスなお宝でして。例えば、あなたの隣のマスコットも、いくらモラを出しても売りませんよね？」</i>",
+      "ko": "램프의 정령을 소환하여 손님에게 형형색색의 서비스를 제공한다.\n\n<color=#FFD780FF>램프의 정령</color>\n주변의 캐릭터와 연결된다. 램프의 정령과 연결된 캐릭터는 아래의 효과를 획득한다:\n·지속해서 HP를 회복하고 회복량은 도리 HP 최대치의 영향을 받는다.\n·지속적으로 원소 에너지를 획득한다.\n·<color=#FFACFFFF>번개 원소 부착</color> 상태가 된다.\n\n또한 캐릭터와 램프의 정령 사이에 있는 연결선에 적이 닿을 시 0.4초마다 적에게 1회의 <color=#FFACFFFF>번개 원소 피해</color>를 준다.\n\n램프의 정령은 동시에 1개만 존재할 수 있다.\n\n<i>「음? 이 램프를 골랐다고? 이야… 훌륭한 취향을 가지고 있네! 하지만 이 램프에는 값을 매길 수 없어. 아무리 많은 모라를 준다고 해도, 손님도 옆에 있는 그 마스코트를 절대 팔지 않을 거잖아?」</i>",
+      "en": "Summons forth the Jinni within the lamp to give the client various kinds of aid.\n\n<color=#FFD780FF>Jinni</color>\nConnects to a nearby character. The connected character will:\n· Continuously restore HP based on Dori's Max HP.\n· Continuously regenerate Energy.\n· Be affected by <color=#FFACFFFF>Electro</color>.\nWhen the connector between the Jinni and the character touches opponents, it will deal one instance of <color=#FFACFFFF>Electro DMG</color> to them every 0.4s.\n\nOnly one Jinni can exist at one time.\n\n<i>\"Hmm? You'll pick this lamp, will you? Oh my, you've got good taste! Unfortunately, there's no price on this treasure — comparable, I'd say, to how you will not sell that mascot by your side for any price in the world.\"</i>",
+      "de": "Beschwört den Flaschengeist herauf, um den Kunden verschiedenste Arten von Hilfe zu geben.\n\n<color=#FFD780FF>Flaschengeist</color>\nVerbindet sich mit der Figur in der Nähe:\n· Stellt der damit verbundenen Figur fortlaufend LP auf Basis von Doris max. LP wieder her.\n· Stellt dieser Figur fortlaufend Elementarenergie wieder her.\n· Verleiht dieser Figur das <color=#FFACFFFF>Elektro-Attribut</color>.\n\nBerührt das Verbindungsstück zwischen dem Flaschengeist und der Figur die Gegner, fügt es diesen alle 0,4 s 1-mal <color=#FFACFFFF>Elektro-Schaden</color> zu.\n\nGleichzeitig kann immer nur höchstens 1 Flaschengeist existieren.\n\n<i>„Hmm? Du willst diese Lampe? Dafür hast du aber einen richtig guten Geschmack! Leider ist sie unschätzbar und nicht zu verkaufen. Sagen wir mal so, du wirst das Maskottchen an deiner Seite auch um keinen Preis der Welt verkaufen, oder?“</i>",
+      "es": "#Invoca al genio de la lámpara para ofrecer todo tipo de asistencia a sus clientes.\n\n<color=#FFD780FF>Genio de la lámpara</color>\nSe conecta con un personaje cercano, el cual:\n·Recuperará Vida continuamente en función de la Vida Máx. de Dori.\n·Recuperará Energía Elemental continuamente.\n·Se <color=#FFACFFFF>imbuirá del elemento Electro</color>.\n\nAdemás, cuando el conector entre el personaje y el genio de la lámpara choca contra un enemigo, le inflige un golpe de <color=#FFACFFFF>Daño Electro</color> cada 0.4 s.\n\nSolo puede existir un genio de la lámpara a la vez.\n\n<i>Oh, así que quiere esta lámpara, ¿cierto, estimad{F#a}{M#o} client{F#a}{M#e}? Vaya, tiene usted muy buen gusto. Lamento decirle que su valor es incalculable. Seguro que usted tampoco vendería a su pequeña mascota ni por todo el dinero del mundo, ¿o me equivoco?</i>",
+      "fr": "Invoque le djinn à l'intérieur de la lampe pour accorder au client divers types d'aide.\n\n<color=#FFD780FF>Djinn</color>\nRelie un personnage proche, qui bénéficie alors des effets suivants :\n· Récupère des PV de façon continue selon les PV max de Dori.\n· Obtient continuellement de l'énergie élémentaire.\n· Est affecté par l'élément <color=#FFACFFFF>Électro</color>.\n\nLorsque le lien entre le djinn et le personnage touche un ennemi, il lui inflige des <color=#FFACFFFF>DGT Électro</color> une fois toutes les 0,4 s.\n\nIl ne peut exister qu'un seul djinn à la fois.\n\n<i>« Hmm ? Tu choisis cette lampe, c'est ça ? Waouh, bon goût ! Malheureusement, ce trésor n'a pas de prix... Je dirais que c'est comme cette mascotte qui traîne avec toi et que tu ne vendras jamais, même pour tous les moras du monde... »</i>",
+      "pt": "Invoca o Gênio da Lâmpada para oferecer todo tipo de assistência aos clientes.\n\n<color=#FFD780FF>Gênio da Lâmpada</color>\nSe conecta com um personagem próximo. O personagem conectado irá:\n· Regenerar Vida continuamente baseada na Vida Máxima de Dori;\n· Regenerar Energia Elemental continuamente.\n· <color=#FFACFFFF>Ficar afetado por Electro</color>.\n\nAlém disso, quando a conexão entre o Gênio da Lâmpada e o personagem tocam os inimigos, infligirá <color=#FFACFFFF>Dano Electro</color> contra eles uma vez a cada 0.4s.\n\nApenas um Gênio da Lâmpada pode existir por vez.\n\n<i>\"Hmm? Você vai escolher essa lâmpada? Caramba, você tem um bom gosto! Infelizmente, não há um preço para esse tesouro — é incalculável, eu diria. Afinal, você não venderia essa sua mascote que fica ao seu lado por nenhum preço no mundo.\"</i>",
+      "ru": "Призывает джинна, который оказывает клиентам всевозможную помощь.\n\n<color=#FFD780FF>Джинн</color>\nУстанавливает связь с персонажем поблизости:\n· Восстанавливает его HP пропорционально макс. HP Дори.\n· Регенерирует его энергию.\n· Имеет статус <color=#FFACFFFF>Электро</color>.\n\nКроме того, когда связь между джинном и персонажем касается противника, она каждые 0.4 сек. наносит ему однократный <color=#FFACFFFF>Электро урон</color>.\n\nОдновременно может существовать только один джинн.\n\n<i>«Вы выбираете эту лампу, хм? Ой, у вас замечательный вкус! Вот только лампа эта - бесценное сокровище. Разве вы стали бы, например, продавать свой талисман, сколько бы моры за него ни предложили, верно?»</i>",
+      "id": "Memanggil Jinni yang berada di dalam lampu dan menyediakan bantuan yang beragam kepada klien.\n\n<color=#FFD780FF>Lamp Spirit</color>\n\nAkan bisa terhubung dengan Karakter di sekitar. Karakter yang terhubung dengan Jinni akan:\n·Terus-menerus memulihkan HP berdasarkan Max HP Dori;\n·Terus menerus memulihkan Energy Karakter;\n·Berada dalam status <color=#FFACFFFF>terpengaruh oleh efek Electro</color>.\n\nSelain itu, saat penghubung antara Karakter dan Jinni menyentuh musuh, akan mengakibatkan satu kali <color=#FFACFFFF>Electro DMG</color> terhadap musuh setiap 0,4 detik.\n\nHanya satu Jinni yang bisa muncul dalam waktu bersamaan.\n\n<i>\"Eh? Anda yakin mau memilih lampu ini? Duh! Selera Anda tinggi sekali! Sayangnya, aku tidak bisa buka harga untuk benda berharga yang satu ini. Misalnya saja, Anda pasti tidak akan pernah bisa menjual maskot yang ada di sisi Anda, berapa pun Mora yang ditawarkan kepada Anda, benar seperti itu kan?\"</i>",
+      "th": "เรียก Jinni ในตะเกียงออกมา เพื่อให้ความช่วยเหลือลูกค้าในรูปแบบต่าง ๆ\n\n<color=#FFD780FF>Jinni</color>\nจะเชื่อมโยงกับตัวละครที่อยู่ในบริเวณใกล้เคียง ซึ่งตัวละครที่เชื่อมโยงกับ Jinni จะได้รับเอฟเฟกต์ดังนี้;\n·ฟื้นฟูพลังชีวิตอย่างต่อเนื่อง โดยที่ปริมาณการฟื้นฟู จะขึ้นกับพลังชีวิตสูงสุดของ Dori;\n·ได้รับพลังงานธาตุอย่างต่อเนื่อง;\n·อยู่ในสถานะ<color=#FFACFFFF>ติดธาตุไฟฟ้า</color>\n\nนอกจากนี้ เมื่อสิ่งที่เชื่อมโยงระหว่างตัวละครและ Jinni (Connector) สัมผัสถูกศัตรู ในทุก 0.4 วินาที จะสร้าง<color=#FFACFFFF>ความเสียหายไฟฟ้า</color>แก่ศัตรูหนึ่งครั้ง\n\nภายในช่วงเวลาเดียวกัน จะมี Jinni อยู่ได้เพียงอันเดียวเท่านั้น\n\n<i>\"อื๋อ? คุณลูกค้าเลือกตะเกียงอันนี้งั้นเหรอ? หืม... รสนิยมของคุณนี่ไม่เลวเลยนะเนี่ย! แต่ว่าเจ้านี่เป็นของล้ำค่าที่ไม่สามารถตีราคาได้หรอกนะ ก็เหมือนกับที่ ไม่ว่าคนอื่นจะให้ Mora เท่าไหร่ แต่คุณลูกค้าก็ยังไม่ยอมขายเจ้าตัวนำโชคที่อยู่ข้าง ๆ นั่นไปยังไงล่ะ\"</i>",
+      "vi": "Triệu hồi Linh Hồn Đèn để cung cấp các loại dịch vụ cho khách.\n\n<color=#FFD780FF>Linh Hồn Đèn</color>\nKết nối với nhân vật gần đó. Nhân vật kết nối với Linh Hồn Đèn sẽ:\n·Hồi phục HP liên tục, lượng hồi phục dựa vào giới hạn HP của Dori;\n·Liên tục nhận được Năng Lượng Nguyên Tố.\n·Vào trạng thái <color=#FFACFFFF>đính kèm nguyên tố Lôi</color>.\n\nNgoài ra, dây liên kết giữa Linh Hồn Đèn và nhân vật khi chạm phải kẻ địch, mỗi 0.4s sẽ gây 1 lần <color=#FFACFFFF>Sát Thương Nguyên Tố Lôi</color> cho kẻ địch.\n\nCùng lúc chỉ có thể tồn tại một Linh Hồn Đèn.\n\n<i>\"Hửm? Quý khách chọn ngọn đèn này sao? Ây dà... biết coi hàng đó! Nhưng mà, đây là báu vật vô giá. Hoặc có thể nói là, cho dù có trả bao nhiêu đi nữa thì quý khách cũng đâu có bán vật may mắn bay bay bên cạnh đâu đúng không?\"</i>"
+    }
+  },
+  {
+    "title": {
+      "zhs": "披沙沥金",
+      "zht": "批沙瀝金",
+      "jp": "ゴールドマイニング",
+      "ko": "황금을 찾는 눈",
+      "en": "An Eye for Gold",
+      "de": "Eine Antenne für Gold",
+      "es": "Buscando oro",
+      "fr": "Un œil d'or",
+      "pt": "Um Olho Para Ouro",
+      "ru": "Золото в песках",
+      "id": "An Eye for Gold",
+      "th": "An Eye for Gold",
+      "vi": "Đãi Cát Tìm Vàng"
+    },
+    "description": {
+      "zhs": "与<color=#FFD780FF>灯中幽精</color>相连的角色在触发感电、超导、超载、原激化、超激化、超绽放、雷元素扩散或雷元素结晶反应后，<color=#FFD780FF>镇灵之灯·烦恼解决炮</color>的冷却时间缩短1秒。\n该效果每3秒至多触发一次。",
+      "zht": "與<color=#FFD780FF>燈中幽精</color>相連的角色在觸發感電、超導、超載、原激化、超激化、超綻放、雷元素擴散或雷元素結晶反應後，<color=#FFD780FF>鎮靈之燈·煩惱解決炮</color>的冷卻時間縮短1秒。\n該效果每3秒至多觸發一次。",
+      "jp": "<color=#FFD780FF>ランプの精</color>とリンクしているキャラクターが感電、超電導、過負荷、原激化、超激化、超開花、雷元素拡散または雷元素結晶反応を起こすと、<color=#FFD780FF>ジンニーランプ·トラブルシューター</color>のクールタイム-1秒。\nこの効果は3秒毎に1回のみ発動可能。",
+      "ko": "<color=#FFD780FF>램프의 정령</color>과 연결된 캐릭터가 감전, 초전도, 과부하, 활성, 촉진, 만개, 번개 원소 확산 혹은 번개 원소 결정 반응을 발동하면 <color=#FFD780FF>영혼을 달래는 램프·번뇌 해결포</color>의 재사용 대기시간이 1초 줄어든다.\n해당 효과는 3초마다 최대 1회 발동한다",
+      "en": "After a character connected to the <color=#FFD780FF>Jinni</color> triggers an Electro-Charged, Superconduct, Overloaded, Quicken, Aggravate, Hyperbloom, or an Electro Swirl or Crystallize reaction, the CD of <color=#FFD780FF>Spirit-Warding Lamp: Troubleshooter Cannon</color> is decreased by 1s.\nThis effect can be triggered once every 3s.",
+      "de": "Verringert die Abklingzeit der Fähigkeit <color=#FFD780FF>Lampe des Dschinns – Sorgenbefreiende Kanone</color> um 1 s, wenn die mit dem <color=#FFD780FF>Flaschengeist</color> verbundene Figur Reaktionen wie „Unter Strom“, „Supraleiter“, „Überladen“, „Urwuchs“, „Suprawuchs“, „Supraspross“, „Elektro-Verwirbelung“ und „Kristallisation mit Elektro-Kraft“ ausgelöst hat.\n3 s Abklingzeit.",
+      "es": "Cuando el personaje conectado con el <color=#FFD780FF>genio de la lámpara</color> causa una reacción de Electrocargado, Superconductor, Sobrecarga, Aceleración, Intensificación, Sobreflorecimiento, Torbellino Electro o Cristalización Electro, el TdE de <color=#FFD780FF>Lámpara mágica: Cañonazo apaciguador</color> se reduce en 1 s.\nEste efecto solo puede ocurrir una vez cada 3 s.",
+      "fr": "Si le personnage relié au <color=#FFD780FF>djinn</color> a déclenché une réaction d'Électrocution, de Supraconduction, de Surcharge, de Stimulation, de Suractivation, d'Exubérance, de Dispersion Électro ou de Cristallisation Électro, le TdR de <color=#FFD780FF>Lampe de protection : Canon pacificateur</color> diminue de 1 s.\nCet effet peut être déclenché une fois toutes les 3 s.",
+      "pt": "Quando um personagem conectado ao <color=#FFD780FF>Gênio da Lâmpada</color> desencadear uma reação de Eletricamente Carregado, Supercondutor, Sobrecarga, Aceleração, Intensificação, Superflorescimento, Redemoinho Electro ou uma reação de Cristalização Electro, o Tempo de Recarga da <color=#FFD780FF>Lâmpada da Proteção: Canhão Apaziguador</color> é reduzido em 1s.\nEsse efeito pode ser desencadeado uma vez a cada 3s.",
+      "ru": "Когда персонаж, у которого установлена связь с <color=#FFD780FF>джинном</color>, вызывает реакции Заряжен, Сверхпроводник, Перегрузка, Стимуляция, Обострение, Вегетация, Электро Рассеивание или Электро Кристалл, откат навыка <color=#FFD780FF>Фонарь усмирения духов: Устраняющая проблемы пушка</color> уменьшается на 1 сек.\nЭффект может возникнуть раз в 3 сек.",
+      "id": "Setelah Karakter yang terhubung dengan <color=#FFD780FF>Jinni</color> memicu Electro-Charged, Superconduct, Overloaded, Quicken, Aggravate, Hyperbloom, atau reaksi Swirl atau Crystallize dari Electro, maka CD <color=#FFD780FF>Spirit-Warding Lamp: Troubleshooter Cannon</color> berkurang 1 detik.\n Efek ini dapat terpicu setiap 3 detik.",
+      "th": "หลังจากตัวละครที่เชื่อมโยงกับ <color=#FFD780FF>Jinni</color> ทำให้เกิดปฏิกิริยาชาร์จไฟฟ้า, นำไฟฟ้า, โอเวอร์โหลด, ปลุกเร้า, บีบอัด, ไฮเปอร์บลูม, การกระจายของธาตุไฟฟ้า หรือการตกผลึกของธาตุไฟฟ้า ช่วงเวลาคูลดาวน์ของ <color=#FFD780FF>Spirit-Warding Lamp: Troubleshooter Cannon</color> จะลดลง 1 วินาที\nในทุก 3 วินาที เอฟเฟกต์นี้จะเกิดขึ้นได้มากสุดหนึ่งครั้ง",
+      "vi": "Nhân vật kết nối với <color=#FFD780FF>Linh Hồn Đèn</color> khi kích hoạt phản ứng Điện Cảm, Siêu Dẫn, Quá Tải, Sinh Trưởng, Tăng Cường, Nở Rộ, Khuếch Tán nguyên tố Lôi hoặc Kết Tinh nguyên tố Lôi, CD của <color=#FFD780FF>Đèn Trấn Linh - Pháo Giải Trừ Phiền Não</color> sẽ rút ngắn 1s.\nHiệu quả này mỗi 3s tối đa kích hoạt một lần."
+    }
+  },
+  {
+    "title": {
+      "zhs": "利上加利",
+      "zht": "利上加利",
+      "jp": "砂だるま式利子",
+      "ko": "배가 되는 이익",
+      "en": "Compound Interest",
+      "de": "Zinseszinsen",
+      "es": "Interés compuesto",
+      "fr": "Intérêts composés",
+      "pt": "Interesse Composto",
+      "ru": "Сложные проценты",
+      "id": "Compound Interest",
+      "th": "Compound Interest",
+      "vi": "Lợi Chồng Lợi"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>镇灵之灯·烦恼解决炮</color>的断除烦恼炮或售后服务弹命中敌人时，基于多莉的元素充能效率，每100%为多莉恢复5点元素能量。\n每次施放镇灵之灯·烦恼解决炮只能通过这种方式恢复一次元素能量，并至多恢复15点元素能量。",
+      "zht": "<color=#FFD780FF>鎮靈之燈·煩惱解決炮</color>的斷除煩惱炮或售後服務彈命中敵人時，根據多莉的元素充能效率，每100%為多莉恢復5點元素能量。\n每次施放鎮靈之燈·煩惱解決炮只能依此方式恢復一次元素能量，並至多恢復15點元素能量。",
+      "jp": "<color=#FFD780FF>ジンニーランプ·トラブルシューター</color>のトラブルシューター砲またはアフターサービス弾が敵に命中すると、ドリーの元素チャージ効率を基準にし、その100%の元素チャージ効率毎にドリーの元素エネルギーを5回復する。\nジンニーランプ·トラブルシューター1回につき、元素エネルギーは1度だけ回復できる。回復量は最大15まで。",
+      "ko": "<color=#FFD780FF>영혼을 달래는 램프·번뇌 해결포</color>의 번뇌 제거포 또는 A/S 포탄이 적에게 명중 시, 도리의 원소 충전 효율에 기반하여 100%마다 도리의 원소 에너지가 5pt 회복된다.\n영혼을 달래는 램프·번뇌 해결포를 발동할 때마다 해당 방식으로 원소 에너지를 1회만 회복할 수 있으며, 최대 15pt의 원소 에너지를 회복한다",
+      "en": "When the Troubleshooter Shots or After-Sales Service Rounds from <color=#FFD780FF>Spirit-Warding Lamp: Troubleshooter Cannon</color> hit opponents, Dori will restore 5 Elemental Energy for every 100% Energy Recharge possessed.\nPer Spirit-Warding Lamp: Troubleshooter Cannon, only one instance of Energy restoration can be triggered and a maximum of 15 Energy can be restored this way.",
+      "de": "Stellt Dori pro 100 % Aufladerate, die sie besitzt, 5 Punkte Elementarenergie wieder her, wenn sorgenbefreiende Kanonen oder Kundendienst-Kanonen der Fähigkeit <color=#FFD780FF>Lampe des Dschinns – Sorgenbefreiende Kanone</color> Gegner treffen.\nBis zu 15 Punkte Elementarenergie können auf diese Weise höchstens einmal pro Lampe des Dschinns – Sorgenbefreiende Kanone wiederhergestellt werden.",
+      "es": "Al golpear a un enemigo con el cañonazo apaciguador o las balas posventa de <color=#FFD780FF>Lámpara mágica: Cañonazo apaciguador</color>, Dori recupera 5 pts. de Energía Elemental por cada 100% de su Recarga de Energía.\nSolo puede recuperar Energía Elemental una vez por cada uso de Lámpara mágica: Cañonazo apaciguador, y podrá recuperar un máximo de 15 pts.",
+      "fr": "Si le tir pacificateur ou les obus de S.A.V. de <color=#FFD780FF>Lampe de protection : Canon pacificateur</color> touche un ennemi, Dori restaure 5 pts d'énergie élémentaire tous les 100 % de recharge d'énergie qu'elle possède.\nPour chaque utilisation de Lampe de protection : Canon pacificateur, l'énergie élémentaire peut être restaurée une fois et d'un maximum de 15 pts de cette manière.",
+      "pt": "Quando os Tiros Apaziguadores ou Munições Pós-venda da <color=#FFD780FF>Lâmpada da Proteção: Canhão Apaziguador</color> acertam oponentes, Dori recuperará 5 de Energia Elemental para cada 100% de Recarga de Energia possuída.\nEm cada uso de Lâmpada da Proteção: Canhão Apaziguador, só é possível restaurar Energia Elemental uma vez desta maneira, e no máximo é possível restaurar 15 de Energia Elemental.",
+      "ru": "Попадания Устраняющих проблемы зарядов и Снарядов гарантийного обслуживания навыка <color=#FFD780FF>Фонарь усмирения духов: Устраняющая проблемы пушка</color> восстанавливают 5 ед. энергии Дори за каждые 100% от её значения восстановления энергии.\nКаждая активация навыка Фонарь усмирения духов: Устраняющая проблемы пушка может восстановить энергию таким способом только один раз. Восстанавливает до 15 ед. энергии.",
+      "id": "Saat Troubleshooter Shot atau After-Sales Service Round dari <color=#FFD780FF>Spirit-Warding Lamp: Troubleshooter Cannon</color> mengenai musuh, Dori akan memulihkan 5 Energy untuk setiap 100% Energy Recharge yang dimiliki Dori.\nUntuk setiap Spirit-Warding Lamp: Troubleshooter Cannon, hanya satu pemulihan Energi yang dapat terpicu dan maksimal 15 Energy yang bisa dipulihkan dengan cara ini.",
+      "th": "เมื่อ Troubleshooter Shot หรือ After-Sales Service Round ของ <color=#FFD780FF>Spirit-Warding Lamp: Troubleshooter Cannon</color> ถูกศัตรู ในทุก 100% ของประสิทธิภาพการฟื้นฟูพลังงานธาตุของ Dori จะฟื้นฟูพลังงานธาตุให้แก่ Dori 5 หน่วย\nในการปล่อย Spirit-Warding Lamp: Troubleshooter Cannon แต่ละครั้ง จะสามารถฟื้นฟูพลังงานธาตุด้วยวิธีนี้ได้เพียงครั้งเดียว และฟื้นฟูได้มากสุด 15 หน่วย",
+      "vi": "Pháo Cắt Đứt Phiền Não hoặc Tên Lửa Hậu Mãi của <color=#FFD780FF>Đèn Trấn Linh - Pháo Giải Trừ Phiền Não</color> khi trúng kẻ địch sẽ căn cứ vào mỗi 100% Hiệu Quả Nạp Nguyên Tố của Dori để hồi phục cho Dori 5 điểm Năng Lượng Nguyên Tố.\nMỗi lần thi triển Đèn Trấn Linh - Pháo Giải Trừ Phiền Não chỉ có thể hồi phục 1 lần Năng Lượng Nguyên Tố bằng cách này, và tối đa hồi phục 15 điểm Năng Lượng Nguyên Tố."
+    }
+  },
+  {
+    "title": {
+      "zhs": "意外订单",
+      "zht": "意外訂單",
+      "jp": "予期せぬオーダー",
+      "ko": "뜻밖의 주문",
+      "en": "Unexpected Order",
+      "de": "Unerwarteter Auftrag",
+      "es": "Venta inesperada",
+      "fr": "Commande inattendue",
+      "pt": "Venda Inesperada",
+      "ru": "Неожиданный заказ",
+      "id": "Unexpected Order",
+      "th": "Unexpected Order",
+      "vi": "Đơn Hàng Bất Ngờ"
+    },
+    "description": {
+      "zhs": "合成角色与武器培养素材时，有25%的概率返还部分合成材料。",
+      "zht": "合成角色與武器培養素材時，有25%的機率歸還部分合成材料。",
+      "jp": "キャラクターと武器の育成素材を合成する時、25%の確率で一部の材料が返還される。",
+      "ko": "캐릭터와 무기 육성 소재 합성 시 25%의 확률로 일부 합성 재료를 반환한다",
+      "en": "Has a 25% chance to recover some of the materials used when crafting Character and Weapon Materials.",
+      "de": "Gibt beim Zusammensetzen von Material zum Verstärken von Figuren und Waffen mit einer Wahrscheinlichkeit von 25 % einen Teil der Materialien zurück.",
+      "es": "Al crear materiales de mejora de personajes y de armas, hay una probabilidad del 25% de recuperar los materiales utilizados.",
+      "fr": "Le personnage a 25 % de chance de récupérer des matériaux de synthèse lors de la synthèse de matériaux d'amélioration de personnage ou d'arme.",
+      "pt": "Possui 25% de chance de devolver alguns dos materiais usados ao fabricar Materiais de Personagem e Arma.",
+      "ru": "При создании материалов персонажей и оружия имеет 25% шанс восстановить часть использованных материалов.",
+      "id": "Saat membuat Material Penguatan Senjata dan Karakter, memiliki 25% persentase untuk mendapatkan kembali sebagian material yang digunakan.",
+      "th": "เมื่อสร้างวัสดุยกระดับตัวละครและอาวุธ จะมีโอกาส 25% ที่จะได้รับวัตถุดิบบางส่วนที่ใช้สร้างคืน",
+      "vi": "Khi ghép nguyên liệu bồi dưỡng vũ khí và nhân vật, có 25% tỷ lệ hoàn trả một phần nguyên liệu ghép."
+    }
+  }
+]

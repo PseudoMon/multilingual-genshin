@@ -17,16 +17,16 @@
     },
     "line": {
       "zhs": "我的名字是阿斯托洛吉斯·莫娜·梅姬斯图斯，意为「伟大的占星术士莫娜」。如果想找我占卜，记住我的名字是最基本的尊重…而且要一次性全念对！",
-      "zht": "我的名字是阿斯托洛吉斯·莫娜·梅姬斯圖斯，意為「偉大的占星術士莫娜」。如果想找我占卜，記住我的名字是最基本的尊重…而且要一次性全念對！",
+      "zht": "我的名字是阿斯托洛吉斯·莫娜·梅姬斯圖斯，意為「偉大的占星術士莫娜」。如果想找我占卜，記住我的名字是最基本的尊重…而且要一次性全唸對！",
       "jp": "私の名前はアストローギスト·モナ·メギストス、「偉大なる占星術師モナ」っていう意味です。私に占って欲しいのなら、名前を覚えることが私に対する最低限のマナーですよ…一文字も間違えちゃだめですからね！",
       "ko": "내 이름은 아스트로지스트·모나·메기스토스, 「위대한 점성술사 모나」라는 뜻이야. 나한테 점괘를 보려면 내 이름쯤은 기억해 주는 게 기본적인 예의지… 그리고 막힘없이 한 번에 쭉 읊어야 해!",
       "en": "I am Astrologist Mona Megistus, meaning \"The Great Astrologist Mona.\" If it is divination you seek from me, then I ask you respect my name by learning it wholly, here and now.",
       "de": "Mein Name ist Astrologin Mona Megistus, ich bin die große Astrologin Mona, von der die ganze Welt weiß. Wenn ich dir eine Vorhersage machen soll, solltest du dir wenigstens meinen Namen merken. Außerdem musst du ihn komplett aussprechen!",
       "es": "Soy la Astróloga Mona Megistus, lo cual, al traducirlo, significa “la gran astróloga Mona”. Si quieres algo de mis poderes de adivinación, ten respeto por mí, apréndete mi nombre completo y ni se te ocurra pronunciarlo mal una vez.",
-      "fr": "Je suis l'Astromancienne Mona Megistus, ce qui signifie « la Grande Astromancienne Mona ». Si tu souhaites faire appel à mes services de divination, alors je te prie de respecter mon nom en le retenant dans son entier dès à présent.",
+      "fr": "Je suis l'astromancienne Mona Megistus, ce qui signifie « la grande astromancienne Mona ». Si tu souhaites faire appel à mes services de divination, alors je te prie de respecter mon nom en le retenant dans son entier dès à présent.",
       "pt": "O meu nome é Astrologist Mona Megistus, que significa \"Mona, A Grande Astróloga\". Se precisar do meu serviço de Previsões Astrológicas, lembrar meu nome é um sinal básico de respeito... E pronuncie tudo de uma só vez!",
       "ru": "Меня зовут Астрологист Мона Мегистус и это означает «великий астролог Мона». Если тебе нужны предсказания, то запомнить моё имя - это базовая вежливость... И надо произнести его с первой попытки!",
-      "id": "Namaku Astrologis Mona Megistus, artinya adalah \"Astrolog Hebat Mona\". Kalau kamu ingin memintaku meramal, kamu harus mengingat namaku baik-baik. Ini adalah suatu penghargaan. Dan kamu juga harus melafalkannya dengan benar!",
+      "id": "Namaku Astrologis Mona Megistus, artinya adalah \"Mona si Astrolog Hebat\". Kalau kamu ingin memintaku meramal, kamu harus mengingat namaku baik-baik. Ini adalah suatu penghargaan. Dan kamu juga harus melafalkannya dengan benar!",
       "th": "ชื่อของฉันคือ Astrologist Mona Megistus แปลว่า \"Mona โหรแห่งดวงดาวผู้ยิ่งใหญ่\" ถ้าอยากให้ฉันทำนายให้ การจำชื่อฉันให้ได้ก็ถือเป็น การแสดงความเคารพเบื้องต้น... แล้วก็ต้องพูดให้ถูก ในรอบเดียวด้วยนะ!",
       "vi": "Tên của tôi là Astrologist Mona Megistus, có nghĩa là \"Thuật sỹ chiêm tinh Mona vĩ đại\". Nếu muốn nhờ tôi xem bói, việc trước tiên là phải ghi nhớ tên, đó là phép lịch sự cơ bản đó... Hơn nữa phải đọc một lần không sai!"
     }
@@ -44,7 +44,7 @@
       "pt": "Bate-papo - Astrologia",
       "ru": "Поболтаем: Гадание",
       "id": "Berbincang: Astrologi",
-      "th": "แชท-ทำนาย",
+      "th": "แชท - ทำนาย",
       "vi": "Nói chuyện phiếm - Bói Toán"
     },
     "line": {
@@ -59,7 +59,7 @@
       "pt": "A adivinhação consiste em predizer com precisão o destino escrito de alguém. Dizer coisas supérfluas ou sem exatidão só leva a uma concepção errada.",
       "ru": "Суть гадания - верно предсказать уже установленную судьбу. Приукрашивание ведёт лишь к недопониманию.",
       "id": "Ramalan adalah menunjukkan nasib seseorang yang sudah ditentukan dengan tepat. Menuturkan ramalan dengan berlebihan akan menyebabkan kesalahpahaman.",
-      "th": "การทำนายคือการแสดงชะตาที่ถูกต้อง การเติมแต่งที่มากเกินไป จะทำให้ผู้คนเข้าใจผิดเท่านั้นเอง",
+      "th": "การทำนายคือการแสดงชะตาที่ถูกต้อง การเติมแต่งที่มากเกินไป มีแต่จะทำให้ผู้คนเข้าใจผิด",
       "vi": "Xem bói tức là tái hiện lại một cách chuẩn xác vận mệnh đã được định sẵn. Quá chau chuốt lời nói chỉ khiến con người ta hiểu nhầm."
     }
   },
@@ -76,7 +76,7 @@
       "pt": "Bate-papo - Vida",
       "ru": "Поболтаем: Жизнь",
       "id": "Berbincang: Kehidupan",
-      "th": "แชท-ชีวิต",
+      "th": "แชท - ชีวิต",
       "vi": "Nói chuyện phiếm - Cuộc Sống"
     },
     "line": {
@@ -91,7 +91,7 @@
       "pt": "Os astrólogos devem se livrar dos desejos materiais. Somente livrando-se da desordem, é possível ver o verdadeiro mundo ao seu redor.",
       "ru": "Астролог должен избавиться от мирских желаний. Только ведя простую жизнь, можно постичь суть мира.",
       "id": "Seorang astrolog harus membatasi dirinya dengan keinginan-keinginan duniawi. Mereka harus hidup sederhana agar bisa melihat kebenaran dunia.",
-      "th": "การจำกัดความต้องการ ทางวัตถุ เป็นส่วนหนึ่งของการฝึกฝนของ โหรแห่งดวงดาว การใช้ชีวิตอย่างเรียบง่าย จะทำให้เราเห็น ความจริงของโลก",
+      "th": "การจำกัดความต้องการทางวัตถุ เป็นส่วนหนึ่งในการฝึกฝนของโหรแห่งดวงดาว การใช้ชีวิตอย่างเรียบง่าย จะทำให้เราเห็นความจริงของโลก",
       "vi": "Kiềm chế lòng tham với vạn vật là một phần trên con đường tu luyện thuật sĩ, sống cuộc đời đơn giản mới có thể tìm hiểu được ý nghĩa đích thực của nó."
     }
   },
@@ -108,12 +108,12 @@
       "pt": "Bate-papo - Destino",
       "ru": "Поболтаем: Судьба",
       "id": "Berbincang: Takdir",
-      "th": "แชท-โชคชะตา",
+      "th": "แชท - โชคชะตา",
       "vi": "Nói chuyện phiếm - Vận Mệnh"
     },
     "line": {
       "zhs": "正是因为无法更改，无可违逆，只能接受，命运才会被称之为命运。",
-      "zht": "正是因為無法更改，無可違逆，只能接受，命運才會被稱之為命運。",
+      "zht": "正是因為無法更改、無可違逆，只能接受，命運才會被稱之為命運。",
       "jp": "変えられない、逆らえない、受け入れる以外何もできないのが運命の運命たる所以なのです。",
       "ko": "바꿀 수 없고, 거스를 수 없고, 받아들일 수밖에 없어서 운명인 거지",
       "en": "Fate is called as such, for it cannot be changed, nor can it be reversed. It can only but be accepted.",
@@ -150,7 +150,7 @@
       "ko": "이렇게 비가 많이 오면… 별빛도 안 보이고, 수점반도 흐릿해져",
       "en": "With rain this heavy, not only are the stars clouded, so too is my scryglass hazy.",
       "de": "Bei so viel Regen kann ich nicht nur die Sterne am Himmel nicht ordentlich betrachten, auch die Spiegelung im Wasser wird undeutlich.",
-      "es": "Con toda esta lluvia, no solo es imposible ver las estrellas, sino que tampoco puedo usar mis artilugios de adivinación.",
+      "es": "Con toda esta lluvia, no solo es imposible ver las estrellas, sino que tampoco puedo usar mi artilugio de adivinación.",
       "fr": "Avec cette pluie battante, non seulement je ne peux pas voir les étoiles, mais en plus mon disque d'eau est trouble.",
       "pt": "Com uma chuva tão forte, não apenas as estrelas ficam nubladas, mas minha luneta também.",
       "ru": "Какой сильный дождь... Не только звёзд не видно, но и вода вся рябью покрылась.",
@@ -219,7 +219,7 @@
       "pt": "As águas puras da neve derretida são ideais para a hidromancia.",
       "ru": "Чистая вода из растаявшего снега лучше всего подходит для гидромантии.",
       "id": "Kemurnian air dari salju yang mencair sangat cocok untuk dijadikan air untuk meramal.",
-      "th": "น้ำบริสุทธิ์ที่ได้จากหิมะละลาย เหมาะที่จะนำมาใช้ ในกระจกส่อง ดาวที่สุด",
+      "th": "น้ำบริสุทธิ์ที่ได้จากหิมะละลาย เหมาะที่จะนำมาใช้ในกระจกส่องดาวที่สุด",
       "vi": "Nước tan từ băng tuyết thuần khiết rất thích hợp với bàn bói nước."
     }
   },
@@ -273,7 +273,7 @@
     },
     "line": {
       "zhs": "你来得不巧，清晨的启明星刚刚消失了…早餐？我，我已经吃过了。",
-      "zht": "#{F#妳}{M#你}來得不巧，清晨的啟明星剛剛消失了…早餐？我，我已經吃過了。",
+      "zht": "#{F#妳}{M#你}來得不巧，清晨的啟明星剛剛消失了…早餐？我、我已經吃過了。",
       "jp": "タイミングが悪かったですね、明けの明星はついさっき消えたばかり…朝食？も、もう食べましたよ。",
       "ko": "타이밍이 안 좋네, 새벽의 계명성이 방금 막 사라졌거든…. 아침밥? 버, 벌써 먹었지",
       "en": "Your arrival is untimely. The morning star has just waned... Breakfast? No, I—I've already eaten.",
@@ -283,7 +283,7 @@
       "pt": "Sua vinda não é nenhuma surpresa. A estrela brilhante da noite acabou de ir embora... Café da manhã? Não, obrigada. Estou cheia já.",
       "ru": "#Ты {M#пришёл}{F#пришла} не вовремя, утренняя звезда только что пропала... Завтракать? Я уже позавтракала.",
       "id": "Kamu datang di waktu yang salah. Bintang pagi baru saja menghilang... Makan pagi? Tidak, A— aku sudah makan.",
-      "th": "คุณมาไม่ได้จังหวะ ดาวแห่งรุ่งอรุณเพิ่งจะหายไป... อาหารเช้า? ฉะ ฉันกินมาแล้ว",
+      "th": "เธอมาไม่ได้จังหวะซะเลย ดาวแห่งรุ่งอรุณเพิ่งจะหายไปเอง... อาหารเช้า? ฉะ ฉันกินมาแล้ว",
       "vi": "Bạn đến không đúng lúc rồi, ngôi sao bình mình vừa biến mất... Bữa sáng ư? Tôi, tôi đã ăn rồi."
     }
   },
@@ -375,11 +375,11 @@
       "en": "It's already so late, and I'm no further along on finishing tomorrow's astrology column. What? You're off to sleep? *sigh* I wish I could sleep now too...",
       "de": "Es ist schon so spät und ich habe mein Manuskript noch nicht fertig ... Was? Du willst schon schlafen? Hach ... Ich würde jetzt auch gern schlafen gehen.",
       "es": "Ya es demasiado tarde, no voy a poder terminar el artículo de astrología. ¿Qué? ¿Te vas a dormir? *Suspira*, a mí también me gustaría.",
-      "fr": "Il est déjà si tard et je n'ai pas avancé sur cet article d'astrologie pour demain. Quoi ? Tu pars te coucher ? *soupir* J'aimerais pouvoir aller me coucher aussi...",
+      "fr": "Il est déjà si tard et je n'ai pas avancé sur cet article d'astrologie pour demain. Quoi ? Tu pars te coucher ? *soupir* J'aimerais pouvoir dormir aussi...",
       "pt": "Já é muito tarde!? Ainda estou longe de acabar os artigos para a coluna... Você disse que está indo descansar? *Suspiro*... Eu também queria dormir...",
       "ru": "Уже так поздно, а я так и не написала колонку в завтрашнюю газету... Что? Спать идёшь? Эх... Тоже спать хочу...",
       "id": "Hari sudah mulai gelap, dan aku masih belum menyelesaikan laporan untuk besok... Apa? Kamu mau tidur? Huhu... Aku juga mau tidur...",
-      "th": "ดึกขนาดนี้แล้วเหรอ บทความของวันพรุ่งนี้ ยังไม่ได้เริ่ม เขียนเลย... ว่าไงนะ? คุณจะไปนอนแล้วเหรอ? ฮือ... ฉันก็อยากนอนเหมือนกัน...",
+      "th": "ดึกขนาดนี้แล้วเหรอ ยังไม่ได้เริ่มเขียนบทความที่ต้องส่งพรุ่งนี้เลย... ว่าไงนะ? เธอจะไปนอนแล้วเหรอ? ฮือ... ฉันก็อยากนอนเหมือนกัน...",
       "vi": "Đã muộn như vậy rồi, ngày mai là hạn chót của bản thảo mà chưa động tý gì...? Bạn muốn nghỉ ư? Huhu... Tôi cũng muốn đi ngủ..."
     }
   },
@@ -393,7 +393,7 @@
       "de": "Über Mona ...",
       "es": "Sobre Mona...",
       "fr": "À propos de Mona...",
-      "pt": "Sobre Ast Mona...",
+      "pt": "Sobre Mona...",
       "ru": "О Моне...",
       "id": "Tentang Mona sendiri",
       "th": "เกี่ยวกับ Mona เอง...",
@@ -411,7 +411,7 @@
       "pt": "O trabalho do astrólogo é mostrar às pessoas o que o destino lhes reserva, e é exatamente isso que eu faço. No entanto, sempre haverá aqueles que não conseguem aceitar o que lhes dizem.",
       "ru": "Работа астролога - показывать людям, что судьба для них приготовила. Этим я и занимаюсь. Но некоторые люди не желают принимать правду.",
       "id": "Pekerjaan seorang peramal adalah menunjukkan nasib yang harus ditempuh oleh seseorang. Dan aku juga begitu. Tapi tidak semua orang bisa menerima nasibnya.",
-      "th": "หน้าที่ของโหรคือการแสดงให้ผู้คน เห็นอย่างชัดเจนถึงชะตากรรมที่ พวกเขากำลังเผชิญ และนั่นก็คือสิ่งที่ฉันทำ... อย่างไรก็ตาม จะมีบางคนที่ ไม่เต็มใจยอมรับมันเสมอ",
+      "th": "หน้าที่ของโหรคือ การแสดงให้ผู้คนเห็นอย่างชัดเจน ถึงชะตากรรมที่พวกเขากำลังเผชิญ และนั่นก็คือสิ่งที่ฉันทำ... อย่างไรก็ตาม มักมีบางคนที่ไม่เต็มใจยอมรับมันเสมอ",
       "vi": "Công việc của thuật sĩ chiêm tinh đó là miêu tả vận mệnh mà con người sắp phải đối mặt, tôi cũng làm như vậy... Chỉ là mọi người không thích lắng nghe mà thôi."
     }
   },
@@ -428,7 +428,7 @@
       "pt": "Sobre Nós - Trabalho",
       "ru": "О нас: Работа",
       "id": "Tentang Kita: Pekerjaan",
-      "th": "เกี่ยวกับเรา-การทำงาน",
+      "th": "เกี่ยวกับเรา - การทำงาน",
       "vi": "Về chúng tôi - Làm Việc"
     },
     "line": {
@@ -439,11 +439,11 @@
       "en": "Why do I write reports rather than using my divination to earn Mora? I would never use hydromancy for the sake of Mora, nor did I learn hydromancy for that purpose.",
       "de": "Warum ich Kolumnen schreibe, anstatt mit Wahrsagerei mein Geld zu verdienen? Warum sollte ich das tun? Ich habe doch keine Hydromantie wegen der Mora gelernt!",
       "es": "¿Por qué escribo informes en vez de usar mi don para ganar Moras? Nunca usaría la hidromancia para un afán económico. No aprendí estas habilidades para eso.",
-      "fr": "Pourquoi j'écris des rapports au lieu d'utiliser l'hydromancie pour gagner des moras ? Je n'utiliserai jamais l'hydromancie pour obtenir des moras, et je ne l'ai pas apprise dans ce but.",
+      "fr": "Pourquoi j'écris des rapports au lieu d'utiliser l'hydromancie pour gagner des moras ? Je n'utiliserai jamais l'hydromancie de cette manière, et je ne l'ai pas apprise dans ce but.",
       "pt": "Por que escrevo relatórios, em vez de usar minha astrologia para ganhar Mora? Eu nunca usaria a hidromancia por motivo de Mora, nem aprendi a hidromancia para esse fim.",
       "ru": "Почему я веду колонку в газете, а не зарабатываю деньги гаданием? Я никогда не использовала гидромантию ради моры - не для этого я её изучала.",
       "id": "Kenapa aku harus menulis laporan dan tidak menggunakan kemampuan meramalku untuk menghasilkan Mora? Aku tidak akan menggunakan ilmu \"ramalan air\" untuk mendapatkan Mora. Ini bukan tujuan aku mempelajari \"ramalan air\".",
-      "th": "ทำไมต้องเขียนหนังสือแทนที่จะใช้ การทำนายเพื่อหาเงิน? ...ฉันจะไม่ยอมใช้ \"ศาสตร์แห่งดวงดาวน้ำ\" มาหาเงินเด็ดขาด... และฉันก็ไม่ได้เรียน \"ศาสตร์แห่งดวงดาวน้ำ\" เพราะเหตุนี้ด้วย",
+      "th": "ทำไมต้องเขียนบทความ แทนที่จะใช้การทำนายเพื่อหาเงิน? ...ฉันจะไม่ยอมใช้ \"ศาสตร์แห่งดวงดาวน้ำ\" มาหาเงินเด็ดขาด... และฉันก็ไม่ได้เรียน \"ศาสตร์แห่งดวงดาวน้ำ\" เพราะเหตุนี้ด้วย",
       "vi": "Vì sao không dùng bói toán để kiếm tiền mà phải viết bản thảo?... Tôi không muốn vì Mora mà sử dụng \"Thủy Chiêm Thuật\"... Tôi cũng không phải vì nó mà học \"Thủy Chiêm Thuật\"."
     }
   },
@@ -460,7 +460,7 @@
       "pt": "Sobre Nós - Meu Destino",
       "ru": "О нас: Моё предназначение",
       "id": "Tentang Kita: Takdirku",
-      "th": "เกี่ยวกับเรา-โชคชะตาของฉัน",
+      "th": "เกี่ยวกับเรา - โชคชะตาของฉัน",
       "vi": "Về chúng tôi - Vận Mệnh Của Tôi"
     },
     "line": {
@@ -475,14 +475,14 @@
       "pt": "Eu não sei. Apenas quando absolutamente necessário, o astrólogo faz previsões sobre o seu próprio destino. Os anciãos da minha arte advertiram contra isso, pois pode virar o destino sobre si mesmo, o que é incrivelmente perigoso.",
       "ru": "Не знаю. Астролог может предсказать свою судьбу только в случае крайней необходимости. Старуха говорила, что это может привести к противоречию в судьбе. Очень опасно.",
       "id": "Aku tidak tahu. Kecuali bila tidak ada pilihan lain lagi, peramal tidak akan meramalkan nasibnya sendiri. Wanita tua pernah memperingatkanku kalau tindakan ini akan mengubah nasib dan mencelakakan diri sendiri. Ini sangat berbahaya.",
-      "th": "ฉันไม่รู้หรอก โหรแห่งดวงดาวจะไม่ทำนายโชคชะตาของตนเอง เว้นแต่จะเป็นทางเลือกสุดท้าย ยายแก่เคยเตือนว่าพฤติกรรม แบบนี้อาจนำไปสู่ความขัดแย้งใน โชคชะตาซึ่งเป็นอันตรายมาก",
+      "th": "ฉันไม่รู้หรอก โหรแห่งดวงดาวจะไม่ทำนายโชคชะตาของตนเอง เว้นแต่จะเป็นทางเลือกสุดท้าย ยายแก่เคยเตือนว่าพฤติกรรม แบบนี้อาจนำไปสู่ความขัดแย้งในโชคชะตา ซึ่งเป็นอันตรายมาก",
       "vi": "Tôi cũng không biết. Trừ phi bất đắc dĩ, thuật sĩ chiêm tinh không bao giờ tự xem vận mệnh của mình. Lão bà bà trước kia từng nói, hành vi như vậy sẽ khiến vận mệnh xáo trộn, rất nguy hiểm."
     }
   },
   {
     "title": {
       "zhs": "关于我们· 你的命运",
-      "zht": "關於我們·妳的命運",
+      "zht": "#關於我們·{F#妳}{M#你}的命運",
       "jp": "あなたの運命について…",
       "ko": "우리에 대해·너의 운명",
       "en": "About Us: Your Fate",
@@ -492,12 +492,12 @@
       "pt": "Sobre Nós - Seu destino",
       "ru": "О нас: Твоя судьба",
       "id": "Tentang kita: Takdirmu",
-      "th": "เกี่ยวกับเรา-โชคชะตาของคุณ",
+      "th": "เกี่ยวกับเรา - โชคชะตาของคุณ",
       "vi": "Về chúng tôi - Vận Mệnh Của Bạn"
     },
     "line": {
       "zhs": "你不是这个世界的人，所以我无法准确地为你预言。我只能告诉你，你要走的路还远未到尽头。",
-      "zht": "#{F#妳}{M#你}不是這個世界的人，所以我無法準確地為你預言。我只能告訴{F#妳}{M#你}，{F#妳}{M#你}要走的路還遠未到盡頭。",
+      "zht": "#{F#妳}{M#你}不是這個世界的人，所以我無法準確地為{F#妳}{M#你}預言。我只能告訴{F#妳}{M#你}，{F#妳}{M#你}要走的路還遠未到盡頭。",
       "jp": "あなたはこの世界の人間じゃないから、正確な予言をしてあげることができません。唯一言えるのは、あなたが歩む道はまだまだ先が長いってことでしょうか。",
       "ko": "넌 이 세계 사람이 아니라서 정확히 예언해 줄 수 없어. 다만 네가 가야 할 길이 아직 멀었다는 것만은 알려줄게",
       "en": "As you are not from this world, I am unable to give you a prediction. All I can tell you is that your journey is far from over.",
@@ -507,7 +507,7 @@
       "pt": "Você não pertence a este mundo, portanto, não consigo fazer previsões para você. A única coisa que eu posso te contar é que a sua jornada está longe de terminar.",
       "ru": "Ты не из этого мира, поэтому я не могу предсказать твою судьбу. Но я знаю, что тебе предстоит ещё долгий путь.",
       "id": "Kamu bukan orang dari dunia ini, jadi aku tidak bisa meramalkan kamu dengan tepat. Aku hanya bisa mengatakan kalau perjalananmu masih panjang dan belum berakhir.",
-      "th": "คุณไม่ได้มาจากโลกนี้ ดังนั้นฉันจึงทำนายโชคชะตาให้คุณไม่ได้ ฉันบอกได้แค่ว่า การเดินทางของคุณยัง ห่างไกลจากจุดสิ้นสุดอยู่มาก",
+      "th": "เธอไม่ได้มาจากโลกนี้ ดังนั้นฉันจึงทำนายโชคชะตาให้เธอไม่ได้ ฉันบอกได้แค่ว่า การเดินทางของเธอยังห่างไกลจากจุดสิ้นสุดอยู่มาก",
       "vi": "Bạn không phải người thuộc thế giới này, vì thế rất khó để xem được chính xác. Tôi chỉ có thể nói cho bạn biết, con đường bạn sắp đi sẽ không bao giờ kết thúc."
     }
   },
@@ -524,22 +524,22 @@
       "pt": "Sobre a Visão... (Antipatia)",
       "ru": "Глаз Бога: Отрицание",
       "id": "Tentang Vision: Penolakan",
-      "th": "เกี่ยวกับ \"วิชั่น\" - ดูถูก",
+      "th": "เกี่ยวกับ \"วิชั่น\" - รังเกียจ",
       "vi": "Về Vision - Chê Bai"
     },
     "line": {
       "zhs": "我刚刚拿到「神之眼」的时候，那个老太婆还假模假样地说什么「愿你求真之心永在」。结果这东西在「水占术」上一点用场都派不上，只会糊我一身水…",
-      "zht": "我剛剛拿到「神之眼」的時候，那個老太婆還假模假樣地說什麼「願妳求真之心永在」。結果這東西在「水占術」上一點用場都派不上，只會糊我一身水…",
+      "zht": "我剛剛拿到「神之眼」的時候，那個老太婆還假模假樣地說什麼「願妳求真之心永在」。結果這東西在「水占術」上一點用場都派不上，只會濺我一身水…",
       "jp": "「神の目」を手に入れたばかりの頃、おばばが偉ぶって「真実を求める心があらんことを」って言ってました。結局「神の目」は「水占の術」の何の役にも立たなかったですし、ずぶ濡れになるだけでしたけど…",
       "ko": "내가 막 「신의 눈」을 얻었을 때, 그 할망구는 능청스럽게도 「진실을 추구하는 마음이 영원하길」이라고 말했었지. 그런데 몸에 물만 잔뜩 튀고 「수점술」에 아무 쓸모도 없더라고…",
       "en": "When I first received my Vision, the elderly woman that gave it to me, she put on this air and said \"May your heart of truth be with you.\" And yet this thing does nothing for my hydromancy, all it does is get me wet.",
       "de": "Als ich gerade das Göttliche Auge bekam, redete das alte Weib vollkommenen Unsinn und wünschte mir, dass mein „Herz immer nach der Wahrheit suchen möge“. Am Ende konnte ich das Göttliche Auge für meine Hydromantie gar nicht gebrauchen. Es macht mich nur immer völlig nass.",
       "es": "Cuando recibí mi Visión, esa vieja bruja me dijo: “Que tu corazón siempre esté contigo”. Y, aun así, este poder no me sirve de nada para la hidromancia. Solo me sirve para acabar empapada todo el tiempo.",
-      "fr": "Lorsque j'ai reçu mon œil divin, la vieille femme qui me l'a donné a pris un air solennel et m'a dit : « Que la soif de vérité puisse toujours guider ton cœur ». Mais cette chose ne m'aide pas du tout dans la pratique de l'hydromancie, tout ce qu'elle fait c'est me rendre trempée.",
-      "pt": "Quando recebi minha Visão pela primeira vez, a mulher idosa que me deu ela colocou-a no ar e disse: \"Que seu coração da verdade esteja com você\". E mesmo assim, esta coisa não faz nada pela minha hidromancia, tudo o que faz é me molhar.",
+      "fr": "Lorsque j'ai reçu mon œil divin, la vieille femme qui me l'a donné a pris un air solennel et m'a dit : « Que la soif de vérité puisse toujours guider ton cœur ». Mais cette chose ne m'aide pas du tout dans la pratique de l'hydromancie, tout ce qu'elle fait, c'est me tremper.",
+      "pt": "Quando recebi minha Visão pela primeira vez, a mulher idosa que me deu ela mudou o seu tom e disse: \"Que seu coração da verdade esteja com você\". E mesmo assim, esta coisa não faz nada pela minha hidromancia, tudo o que faz é me molhar.",
       "ru": "Когда я получила Глаз Бога, та старуха фальшиво так мне сказала: «Пусть вечно твоё сердце стремится к истине». В итоге эта штука оказалась абсолютно бесполезна для гидромантии, только водой меня окатило.",
       "id": "Saat aku baru mendapatkan Vision, wanita tua itu masih berkata dengan penuh wibawa: \"Semoga hatimu yang haus akan kebenaran tidak pernah sirna\". Kenyataannya, benda ini tidak berguna sekali, hanya bisa membuatku basah kuyup...",
-      "th": "ตอนที่ฉันได้รับ \"วิชั่น\" ยายแก่นั่นทำท่าขรึม แล้วพูดกับฉันว่า \"ขอให้หัวใจที่แสวงหาความจริง ของเธอคงอยู่ตลอดไป\" แต่คำพูดพวกนี้ไม่ได้มีประโยชน์ อะไรต่อศาสตร์แห่งดวงดาวน้ำเลย มันมีแต่จะสร้างความสับสนให้ฉัน เท่านั้น...",
+      "th": "ตอนที่ฉันได้รับ \"วิชั่น\" ยายแก่นั่นทำท่าขรึม แล้วพูดกับฉันว่า \"ขอให้หัวใจที่แสวงหาความจริงของเธอคงอยู่ตลอดไป\" แต่ของสิ่งนี้ไม่ได้มีประโยชน์อะไรต่อศาสตร์แห่งดวงดาวน้ำเลย มันมีแต่จะทำให้ฉันตัวเปียกไปหมดก็เท่านั้น...",
       "vi": "Khi tôi nhận được Vision lão bà bà đã thật thà nói \"hy vọng trái tim học hỏi, cầu tiến của con mãi trường tồn\". Kết quả là món đồ này không có tác dụng đối với \"Thủy Chiêm Thuật\", nó chỉ hiện lên ảo ảnh của tôi trên mặt nước mà thôi..."
     }
   },
@@ -568,10 +568,10 @@
       "de": "Aber na ja, ein nettes Spielzeug ist das Göttliche Auge ja schon. Es sieht ja auch ganz hübsch aus. Sonst hat mir das alte Weib ja auch nichts gegeben.",
       "es": "Dicho esto, no está mal tener una Visión como si fuera un accesorio. Después de todo, es la única herramienta de estudio útil que me dio esa miserable anciana. Fue un extraño acto de generosidad.",
       "fr": "Cela dit, ça ne fait pas de mal d'avoir un œil divin comme accessoire. Après tout, c'est le seul outil d'étude utile que cette vieille femme avare m'ait jamais donné, dans un élan de générosité rare.",
-      "pt": "Dito isto, uma Visão não faz mal em ter como um pequeno acessório. É, afinal, a única ferramenta de estudo útil que a senhora avarenta me deu, em um raro ato de generosidade.",
+      "pt": "Dito isto, não faz mal ter uma Visão como um pequeno acessório. É, afinal, a única ferramenta de estudo útil que a senhora avarenta me deu, em um raro ato de generosidade.",
       "ru": "Хотя в качестве брошки этот Глаз Бога вполне ничего. В конце концов, хоть раз эта жадная старуха дала мне что-то для учёбы.",
       "id": "Tapi tidak ada salahnya juga memasang Vision ini sebagai aksesoris. Ditambah lagi, benda ini bisa dibilang sebagai bentuk kemurahan hati yang langka dari wanita kikir itu.",
-      "th": "เฮ้อ... แต่ยังไงการห้อย \"วิชั่น\" ประดับไว้ก็ไม่ได้มีอะไรเสียหาย เพราะถึงยังไงนี่ก็เป็นของขวัญที่ ยายแก่ขี้เหนียวมอบให้ฉันเพื่อเป็น อุปกรณ์ช่วยสอน",
+      "th": "เฮ้อ... แต่ยังไงการห้อย \"วิชั่น\" ประดับไว้ก็ไม่ได้มีอะไรเสียหาย เพราะถึงยังไง นี่ก็เป็น \"อุปกรณ์การเรียน\" ที่ยายแก่ขี้เหนียวมอบให้ฉันทั้งที",
       "vi": "Thế nhưng coi Vision như là một món đồ trang sức cũng không tệ. Đây cũng là \"đạo cụ giảng dạy\" mà lão bà bà keo kiệt tặng cho tôi, đúng là chuyện xưa nay chưa từng có."
     }
   },
@@ -593,17 +593,17 @@
     },
     "line": {
       "zhs": "你听说过「命之座」吗？占星术士认为，「命之座」是「神之眼」持有者的命运在星空上的映射，过去，现在和未来，所有的一切都在其中昭示。",
-      "zht": "#{F#妳}{M#你}聽說過「命之座」嗎？占星術士認為，「命之座」是「神之眼」持有者的命運在星空上的映射，過去，現在和未來，所有的一切都在其中昭示。",
+      "zht": "#{F#妳}{M#你}聽說過「命之座」嗎？占星術士認為，「命之座」是「神之眼」持有者的命運在星空上的映射，過去、現在和未來，所有的一切都在其中昭示。",
       "jp": "「命ノ星座」って聞いたことありますか？「命ノ星座」は「神の目」の所有者の運命が星空に映った物、というのが占星術師の見解です。その者の過去、現在、未来、全てがその中にあるんですよ。",
       "ko": "「운명의 자리」라고 들어봤어? 점성술사는 별하늘에 비친 「신의 눈」을 가진 자의 운명이 바로 「운명의 자리」라고 생각해. 과거와 현재, 미래의 모든 것이 그 안에 보이지",
-      "en": "Do you know about constellations? Astrologers believe that the patterns of the stars map out the destinies of Vision bearers — past, present, and future, everything is written in the stars.",
+      "en": "Do you know about constellations? Astrologers believe that the patterns of the stars map out the destiny of Vision bearers — past, present, and future, everything is written in the stars.",
       "de": "Du kennst doch Sternbilder, oder? Astrologen gehen davon aus, dass Sternbilder wie die Karten des Schicksals für die Besitzer von Göttlichen Augen sind. Die Vergangenheit, Gegenwart und Zukunft können darin abgelesen werden.",
       "es": "¿Sabes de constelaciones? Los astrólogos creen que los patrones de las estrellas trazan el destino de los portadores de Visiones. El pasado, el presente y el futuro: todo está escrito en las estrellas.",
       "fr": "Tu connais les constellations ? Nous, astromanciens, pensons que le positionnement des étoiles guide le destin des détenteurs d'yeux divins. Que ce soit le passé, le présent ou le futur, tout est écrit dans les étoiles.",
       "pt": "Você conhece as constelações? Os astrólogos acreditam que os padrões das estrelas mapeiam os destinos dos portadores da Visão - passado, presente e futuro, tudo está escrito nas estrelas.",
       "ru": "#Ты слышал{F#a} о созвездиях? Астрологи считают, что в них отражаются судьбы тех, у кого есть Глаз Бога. Прошлое, настоящее, будущее - всё в них показано.",
       "id": "Apa kamu mendengar tentang \"Konstelasi\"? Para peramal percaya bahwa \"Konstelasi\" adalah cerminan dari takdir pemegang \"Vision\" di langit berbintang. Masa lalu, sekarang, dan masa depan semuanya dapat terungkap di dalamnya.",
-      "th": "คุณเคยได้ยินเกี่ยวกับกลุ่มดาวมั้ย? โหรแห่งดวงดาวเชื่อว่ากลุ่มดาว เป็นภาพสะท้อนโชคชะตาของ ผู้ถือครองวิชั่น อดีต ปัจจุบัน อนาคตล้วนถูกเขียนไว้บนนั้นแล้ว",
+      "th": "เธอเคยได้ยินเกี่ยวกับ \"กลุ่มดาว\" มั้ย? โหรแห่งดวงดาวเชื่อว่า กลุ่มดาวเป็นภาพสะท้อนโชคชะตาของผู้ถือครองวิชั่น อดีต ปัจจุบัน อนาคตล้วนถูกเขียนไว้บนนั้นแล้ว",
       "vi": "Bạn có biết \"Cung Mệnh\" không? Thuật sĩ chiêm tinh cho rằng, \"Cung Mệnh\" là sự phản chiếu vận mệnh của người nắm giữ Vision trên bầu trời. Thông qua nó ta có thể biết được toàn bộ quá khứ, hiện tại và tương lai."
     }
   },
@@ -625,17 +625,17 @@
     },
     "line": {
       "zhs": "欸——你身边带着的这个小家伙，到底来自哪里？无论我用什么方法，都没法找到一丝关于她命运的踪迹。\n\n…哈？你也不知道？",
-      "zht": "#欸——{F#妳}{M#你}身邊帶著的這個小傢伙，到底來自哪裡？無論我用什麼方法，都沒法找到一絲關於她命運的蹤跡。\n\n…哈？{F#妳}{M#你}也不知道？",
+      "zht": "#欸——{F#妳}{M#你}身邊帶著的這個小傢伙，到底來自哪裡？無論我用什麼方法，都沒辦法找到一絲關於她命運的蹤跡。\n\n…啊？{F#妳}{M#你}也不知道？",
       "jp": "あなたの隣にいるおチビちゃんは、一体どこから来たんでしょうか？どんな手段を用いても、その運命の片鱗すら見ることができません。\n\n…ええっ？あなたも知らないんですか？",
       "ko": "네 옆에 있는 이 녀석은 대체 어디서 온 거야? 어떤 방법을 써봐도 운명의 흔적조차 찾을 수가 없어… \n\n아? 너도 모른다고?",
-      "en": "This... travel companion of yours — do you know anything of her origins? No matter what, I cannot seem to discern a single shred of information regarding this floating fairy's fate. ...Oh? So you don't know where she comes from, either?",
+      "en": "This... travel companion of yours — do you know anything of her origins? No matter what, I cannot seem to discern a single shred of information regarding this floating fairy's fate.\n\n...Oh? So you don't know where she comes from, either?",
       "de": "He, ich muss dich einfach fragen. Deine lustige kleine Begleiterin ... Weißt du, wo sie herkommt? Egal, was ich anstelle, ich kann rein gar nichts erkennen, was mit ihrem Schicksal zu tun haben könnte.\n\nAh, du hast auch keine Ahnung?",
       "es": "Esa compañera de viaje que tienes... ¿Sabes algo de sus orígenes? No puedo vislumbrar nada sobre el destino de esa hada flotante... ¿Eh? ¿Tú tampoco sabes de dónde viene?",
       "fr": "Ce... compagnon d'aventure qui t'accompagne... Est-ce que tu sais d'où elle vient ? J'ai beau essayer, je n'arrive pas à discerner la moindre information concernant cette petite fée volante... Oh ? Tu n'en as pas la moindre idée non plus ?",
       "pt": "Esta... Companheira de viagem - você sabe alguma coisa sobre as origens dela? Não importa o quê, parece que não consigo discernir um único fragmento de informação a respeito do destino desta fada flutuante. \n\nOh? Então você também não sabe de onde ela vem?",
-      "ru": "А этот твой спутник, она откуда? Как я ни старалась, так и не нашла следов её судьбы.\n\n...А?! Ты тоже не знаешь?",
+      "ru": "А этот твой спутник, она откуда? Как я ни старалась, так и не нашла следов её судьбы. ...А?! Ты тоже не знаешь?",
       "id": "Eh, partner petualang kamu ini berasal dari mana? Aku sudah menggunakan segala macam cara, tapi aku tidak bisa membaca jejak-jejak nasibnya. Hah? Kamu juga tidak tahu?",
-      "th": "เอ๊ะ... เจ้าตัวน้อยที่คุณพกติดตัวนี้มาจาก ไหนกัน? ไม่ว่าฉันจะใช้วิธีไหน ฉันก็ไม่สามารถอ่านโชคชะตา ของเธอได้\n\n... หือ? คุณก็ไม่รู้หรอ?",
+      "th": "เอ๊ะ... เจ้าตัวน้อยที่อยู่ตัวติดกับเธอตลอดนี่มาจากไหนกัน? ไม่ว่าจะใช้วิธีไหน ฉันก็ไม่สามารถอ่านโชคชะตาของเจ้าตัวน้อยได้เลย\n\n... หือ? เธอก็ไม่รู้หรอ?",
       "vi": "Người cứ lượn lờ bên cạnh bạn đến từ đâu vậy? Cho dù có cố gắng thế nào đi chăng nữa, tôi cũng không nhìn được vận mệnh của cô ấy.\n\n... Hả? Bạn cũng không biết sao?"
     }
   },
@@ -667,7 +667,7 @@
       "pt": "Refere-se a Grande Mestre Intendente dos Cavaleiros de Favonius? Sua constelação é Leo Minor, o que representa força e responsabilidade assumida muito jovem... Embora a leoa tenha sido separada de seu orgulho por muito tempo, ela cresce de força em força, e chegará o dia em que ela estará pronta para voltar como sua gloriosa líder.",
       "ru": "Действующий магистр Ордо Фавониус? Она ещё слишком молода для той ответственности, что предначертана ей её созвездием, Благородной Львицей. Лев рано покинул прайд, но она ещё растёт и рано или поздно унаследует честь прайда.",
       "id": "Maksudmu Grand Master Knights of Favonius? Konstelasi dia adalah Leo Minor, mewakili kekuatan dan tanggung jawab yang harus ditanggung sejak usia dini. Meskipun \"sang pemimpin\" telah meninggalkan kawanannya cukup lama, tapi dia akan terus bertumbuh kuat. Akan tiba saatnya nanti dia siap menjadi pemimpin yang diagung-agungkan kawanannya.",
-      "th": "ผู้บัญชาการของกองอัศวินแห่ง Favonius คนนั้นน่ะเหรอ? กลุ่มดาวของเธอคือ Leo Minorหรือที่เรียกว่าสิงโตเล็ก เป็นสัญลักษณ์ของพลังอำนาจ และความรับผิดชอบที่ต้องแบกรับ ตั้งแต่อายุยังน้อย สิงโตที่ต้องจากฝูงไปตั้งแต่ยังเล็ก แต่เธอจะเติบโตขึ้นทุกวัน รอวันที่จะกลับมาอย่างภาคภูมิ ในฐานะจ่าฝูง",
+      "th": "รักษาการผู้บัญชาการของกองอัศวินแห่ง Favonius คนนั้นน่ะเหรอ? กลุ่มดาวของเธอคือ Leo Minor หรือที่เรียกว่าสิงโตเล็ก เป็นสัญลักษณ์ของพลังอำนาจ และความรับผิดชอบที่ต้องแบกรับตั้งแต่อายุยังน้อย สิงโตที่ต้องจากฝูงไปตั้งแต่ยังเล็ก แต่เธอจะเติบโตขึ้นทุกวัน จนกระทั่งสามารถกลับมาสืบทอดตำแหน่งจ่าฝูงอย่างภาคภูมิ",
       "vi": "Đó là Đội Trưởng Đại Diện của Đội Kỵ Sĩ Tây Phong? Cung Mệnh của cô ấy là Cung Ấu Sư tượng trưng cho sức mạnh và trách nhiệm phải gánh vác từ rất sớm. \"Ấu Sư\" sớm rời bỏ bầy đàn thế nên cô ấy sẽ tiếp tục lớn mạnh cho đến khi có thể kế thừa hoàn toàn vinh quang của chòm sao sư tử."
     }
   },
@@ -724,14 +724,14 @@
       "zht": "#{F#妳}{M#你}是說，艾莉絲的女兒啊。她住在西風騎士團，還有阿貝多照顧…怎麼說呢，唉…她的「命之座」不愧是象徵著幸運的「四葉草」啊，真羡慕…\n\n啊不過，要是我也有這麼好的運氣，首先就不會遇見那個老太婆了。",
       "jp": "アリスさんの娘のことですか？西風騎士団に住んでて、アルベドが彼女の面倒を見てるんですよね…なんというか、さすが幸運を象徴する「四つ葉座」、羨ましい限りです…\n\nあっでも、私が彼女のように幸運に恵まれてたら、まずあのおばばとは出会ってなかったでしょうね。",
       "ko": "앨리스 씨의 딸 말하는 거지? 그 애는 페보니우스 기사단에서 살면서 알베도의 보살핌도 받고 있지…글쎄, 역시 그녀의 「운명의 자리」답달까. 행운을 상징하는 「네 잎 클로버」거든. 부러워… \n\n아, 나한테도 그런 행운이 있었다면 그 할망구를 만나지 않았겠지",
-      "en": "Ah yes, Alice's daughter. She's in the custody of the Knights of Favonius, and Albedo looks after her too. She's blessed to have Trifolium as her constellation, which represents good luck. I'm slightly envious... *smirk* Although, if I'd been blessed with good luck, I suppose I never would have had the great honor of running into that old woman, would I...",
+      "en": "Ah yes, Alice's daughter. She's in the custody of the Knights of Favonius, and Albedo looks after her too. She's blessed to have Trifolium as her constellation, which represents good luck. I'm slightly envious... *smirk*\n\nAlthough, if I'd been blessed with good luck, I suppose I never would have had the great honor of running into that old woman, would I...",
       "de": "Du meinst wohl Alices Tochter. Sie wohnt beim Ordo Favonius und wird von Albedo umsorgt. Aber wen wundert’s? Ihr Sternbild ist Trifolium, das steht für Glück. Hach, wirklich beneidenswert ...\n\nWenn ich auch so viel Glück hätte, müsste ich dieses alte Weib sicher nie wiedersehen.",
       "es": "Ah sí, la hija de Alice. Está bajo la custodia de los Caballeros de Favonius, pero Albedo también cuida de ella. Fue bendecida con la constelación del Trifolium, lo que representa la buena suerte. Me da un poco de envidia... Aunque, si yo hubiera sido bendecida con buena suerte, supongo que nunca habría conocido a esa anciana, ¿no crees?",
       "fr": "Oui, la fille d'Alice. L'Ordre de Favonius s'occupe d'elle et Albedo aussi. Quelle chanceuse, sa constellation est le Trifolium ! Je suis jalouse...\n\nSi j'avais eu de la chance dans la vie, mon chemin n'aurait jamais croisé celui de la vieille...",
       "pt": "Ah sim, a filha da Alice. Ela está sob a custódia dos Cavaleiros de Favonius, e Albedo cuida dela também. Ela é abençoada por ter o Trifolium como sua constelação, o que representa boa sorte. Tenho um pouco de inveja... Hehehe. Embora, se eu tivesse sido abençoada com boa sorte, suponho que nunca teria tido a grande honra de encontrar aquela velha mulher, será...",
       "ru": "Ты о дочке Алисы? Она живёт в Ордо Фавониус и за ней приглядывает Альбедо... Как бы сказать... Созвездие Четырёхлистного Клевера не зря символизирует удачу. Я ей даже завидую... Хотя, если бы я была такой удачливой, то и старуху бы я, скорее всего, не встретила...",
       "id": "Maksudmu putri Alice? Dia tinggal di dalam markas Knights of Favonius dan dijaga Albedo. Bagaimana ya, hmm... \"Konstelasi\" dia adalah \"Trifolium\", pantas saja... Aku sedikit iri padanya... Kalau aku seberuntung dia, aku mungkin tidak akan pernah bertemu dengan wanita tua itu.",
-      "th": "คุณหมายถึงลูกสาวของ Alice ล่ะสิ เธออยู่ในความดูแลของกองอัศวิน แห่ง Favonius และ Albedo ก็ช่วยดูแลเธอด้วย... จะว่าไงดีล่ะ เอิ่ม... กลุ่มดาว Trifolium ไม่เสียแรงเลยที่เป็นรูปโคลเวอร์ สี่แฉกซึ่งเป็นสัญลักษณ์แห่ง ความโชคดี น่าอิจฉาจริง ๆ...\n\nจะว่าไป ถ้าฉันมีโชคที่ดีขนาดนั้น ฉันก็คงไม่ต้องเจอกับยายแก่นั่นตั้งแต่แรก",
+      "th": "หมายถึงลูกสาวของ Alice สินะ เธออยู่ในความดูแลของกองอัศวินแห่ง Favonius และ Albedo ก็ช่วยดูแลเธอด้วย... จะว่าไงดีล่ะ เอิ่ม... กลุ่มดาว Trifolium ไม่เสียแรงเลยที่เป็นรูปโคลเวอร์สี่แฉก ซึ่งเป็นสัญลักษณ์แห่งความโชคดี น่าอิจฉาจริง ๆ...\n\nจะว่าไป ถ้าฉันมีโชคที่ดีขนาดนั้น ฉันก็คงไม่ต้องเจอกับยายแก่นั่นตั้งแต่แรก",
       "vi": "Bạn nhắc đến con gái của Alice ư. Cô ấy sống ở Đội Kỵ Sĩ Tây Phong còn được Albedo chăm sóc... Nói thế nào nhỉ, ừm... Cung Mệnh của cô ấy không hổ danh là \"Tứ Diệp Thảo\" tượng trưng cho sự may mắn. Ngưỡng mộ quá đi...\n\nNếu vận mệnh của tôi cũng tốt như vậy thì tôi chẳng đến mức gặp phải lão bà bà đó."
     }
   },
@@ -761,9 +761,9 @@
       "es": "Diluc Ragnvindr... Su constelación, Noctua, representa el permanecer alerta en la oscuridad de la noche... Es un guardián solitario que anhela el esplendor del amanecer, pero está destinado a la oscura soledad de la noche... ¿O tal vez Noctua era la constelación que representa la riqueza?...",
       "fr": "Diluc Ragnvindr. Noctua, sa constellation, représente la vigilance d'un gardien solitaire dans les ténèbres de la nuit. Il est destiné à des jours solitaires jusqu'à l'arrivée de l'aube...\n\nHum, peut-être que je me suis trompée ? Noctua représente peut-être la richesse ?",
       "pt": "Diluc Ragnvindr. Sua constelação, Noctua, representa a vigilância na escuridão da noite. Um guardião solitário vigiando, desejando o esplendor do amanhecer, mas destinado à solidão nos dias escuros que precedem sua chegada. \n\n...Ou, espera, talvez Noctua seja a que está ligada à riqueza...?",
-      "ru": "Дилюк Рагнвиндр. Его созвездие, Мудрая Сова, символизирует бдительность в ночи. Как одинокий страж в дозоре, он жаждет яркую зарю, но предназначен тьме.\n\nПогоди-ка, или сова означает богатство?",
+      "ru": "Дилюк Рагнвиндр. Его созвездие, Мудрая Сова, символизирует бдительность в ночи. Как одинокий страж в дозоре, он жаждет яркую зарю, но предназначен тьме. Погоди-ка, или сова означает богатство?",
       "id": "Diluc Ragnvindr. \"Konstelasi\" dia adalah Noctua, mewakili kewaspadaan di tengah kegelapan malam dan kesendirian di tengah pengharapan. Sebelum fajar yang dinantikannya tiba, dia harus terus berjaga sendirian. Tunggu, apa \"Noctua\" mewakili kekayaan?",
-      "th": "Diluc Ragnvindr กลุ่มดาวของเขาคือ Noctua เป็นสัญลักษณ์ของผู้เฝ้าระวัง ยามราตรี ผู้พิทักษ์โดดเดี่ยว ผู้เฝ้าคอยให้ยามค่ำคืนมาถึง\n\nเดี๋ยวนะ Noctua ดูเหมือนจะเป็นสัญลักษณ์ของความมั่งคั่งด้วยใช่มั้ยนะ?",
+      "th": "Diluc Ragnvindr กลุ่มดาวของเขาคือ Noctua เป็นสัญลักษณ์ของผู้เฝ้าระวังยามราตรี และผู้พิทักษ์อันโดดเดี่ยว เขาถูกกำหนดให้ก้าวเดินอย่างโดดเดี่ยว จนกว่ารุ่งอรุณที่เขาเฝ้าคอยจะมาถึง\n\nเดี๋ยวนะ Noctua ดูเหมือนจะเป็นสัญลักษณ์ของความมั่งคั่งด้วยใช่มั้ยนะ?",
       "vi": "Diluc·Ragnvindr có Cung Mệnh là \"Dạ Hiêu\", tượng trưng cho sự cảnh giác trong bóng tối cũng như sự bảo vệ cô độc. Anh ấy sẽ luôn độc bước cho đến khi bản thân được công nhận.\n\nDạ Hiêu hình như còn tượng trưng cho sự giàu có?"
     }
   },
@@ -795,7 +795,7 @@
       "pt": "Ele é um Pavo Ocellus. Destinado à grandeza e à grandiosidade... E a esconder realidades desagradáveis por trás de uma camada de encanto e elegância. Ele acredita ter feito uma quebra limpa com seu passado, mas um dia o destino o alcançará. Quando isso acontecer, ele terá uma grande decisão a tomar.",
       "ru": "Кэйа Альберих? Созвездие Павлиньего Пера - символ величия, но прекрасная занавесь скрывает страшную правду. Он думает, что порвал с прошлым, но когда судьба нагонит его, ему придётся сделать выбор.",
       "id": "Kaeya Alberich? \"Konstelasi\" dia adalah \"Pavo Ocellus\". Mewakili kemegahan dan juga \"penyamaran yang indah\". Dia mengira dia sudah menghapus bersih masa lalunya, tapi saat hari itu tiba, dia harus membuat suatu keputusan besar yang mengubah hidupnya.",
-      "th": "Kaeya Alberich? กลุ่มดาว Pavo Ocellus ของเขาเป็นสัญลักษณ์แห่งความ ยิ่งใหญ่ และยังเป็นสัญลักษณ์ของ การปกปิดอันสง่างามอีกด้วย เขาคิดว่าเขาตัดขาดจากอดีตได้ โดยสิ้นเชิงแล้ว แต่สักวันโชคชะตาจะนำมันกลับมา อีกครั้ง และเมื่อถึงวันนั้น เขาจะต้องเป็นคนเลือกเอง",
+      "th": "Kaeya Alberich? กลุ่มดาว Pavo Ocellus ของเขา เป็นสัญลักษณ์แห่งความยิ่งใหญ่ และยังเป็นสัญลักษณ์ของ \"การปกปิดอันสง่างาม\" อีกด้วย เขาคิดว่าตัวเองตัดขาดจากอดีตได้โดยสิ้นเชิงแล้ว แต่สักวันโชคชะตาจะนำมันกลับมาอีกครั้ง และเมื่อถึงวันนั้น เขาจะต้องเป็นคนเลือกเอง",
       "vi": "Kaeya·Alberich là cung \"Khổng Tước Vũ\" tượng trưng cho sự cao quý, nhưng mà đó cũng là \"vỏ bọc hào nhoáng\" mà thôi. Anh ấy luôn cho rằng bản thân mình không còn liên quan đến quá khứ, thế nhưng ngày vận mệnh an bài rồi sẽ đến. Cuối cùng, anh vẫn phải đưa ra sự lựa chọn của mình."
     }
   },
@@ -823,11 +823,11 @@
       "en": "A Tempus Fugit... The constellation derives its name from the hourglass, and stands for knowledge and time — or rather, the trade-off between them. As each grain of sand falls down, a moment of time — of life, even, dies for good. To stop the unrelenting flow of sand, one would have to turn the hourglass on its side. But once the sand comes to rest, it remains motionless forever... Hmm, maybe 'becomes lazy' is more accurate than 'comes to rest,' in this case.",
       "de": "Für sie heißt es Tempus Fugit, das bedeutet, dass die Zeit vergeht. Wissen und Zeit sind Güter, die gegeneinander ausgetauscht werden müssen. Sobald ein Sandkorn der Sanduhr fällt, wird ein Stückchen Zeit, ja, ein Stückchen Leben für immer vergangen sein. Will man die Bewegung anhalten, muss man die Sanduhr schon auf die Seite legen. In diesem Fall scheint die Sanduhr längst auf der Seite eingeschlafen zu sein.",
       "es": "Es Tempus Fugit... El nombre de la constelación tiene relación con cómo mide el tiempo un reloj de arena, y representa el conocimiento y el tiempo, o más bien, el equilibrio entre ambos. A medida que cae cada grano de arena, un momento de tu vida muere para siempre. Para detener la implacable caída de los granos de arena, uno tendría que poner el reloj de lado. Pero una vez que la arena se detiene, permanece inmóvil para siempre... Bueno, en el caso de Lisa, la arena no se llega a detener por completo, sino que se vuelve una holgazana.",
-      "fr": "Sa constellation est le Tempus Fugit. Elle tient son nom du sablier et représente le temps et le savoir... ou plutôt un échange entre les deux. Chaque grain de sable qui tombe symbolise le temps d'une vie qui s'écoule. Afin d'arrêter le sable, il faut tourner le sablier à l'horizontale... Il cesse de s'écouler quand on le maintient dans cette position de repos. En gros, le sablier ne fait plus son travail...",
-      "pt": "Um Tempus Fugit... A constelação deriva seu nome da ampulheta, e representa o conhecimento e o tempo - ou melhor, o equilíbrio entre eles. À medida que cada grão de areia cai, um instante do tempo - da vida, inclusive, morre de vez. Para parar o fluxo incessante da areia, seria necessário virar a ampulheta de lado. Mas assim que a areia descansa, ela permanece imóvel para sempre. Hmm, talvez \"torna-se preguiçoso\" seja mais preciso do que \"vem para descansar\", neste caso.",
+      "fr": "Sa constellation est le Tempus Fugit. Elle tient son nom du sablier et représente le temps et le savoir... ou plutôt un échange entre les deux. Chaque grain de sable qui tombe symbolise le temps d'une vie qui s'écoule. Afin d'arrêter le sable, il faut tourner le sablier à l'horizontale... Le sable cesse de s'écouler quand on le maintient dans cette position de repos. En gros, l'objet ne fait plus son travail...",
+      "pt": "Um Tempus Fugit... A constelação deriva seu nome da ampulheta, e representa o conhecimento e o tempo - ou melhor, o equilíbrio entre eles. À medida que cada grão de areia cai, um instante do tempo - da vida, inclusive, morre de vez. Para parar o fluxo incessante da areia, seria necessário virar a ampulheta de lado. Mas assim que a areia descansa, ela permanece imóvel para sempre. Hmm, talvez \"se torna preguiçosa\" seja mais preciso do que \"descansa\", neste caso.",
       "ru": "Песочные Часы. Символ знания, времени и равноценного обмена. С каждой песчинкой время - можно даже сказать, жизнь - безвозвратно уходит. Остановить течение песка можно только положив часы на бок. Хмм... Короче, надо стать ленивым.",
       "id": "\"Konstelasi\" dia adalah \"Tempus Fugit\", mewakili pertukaran antara pengetahuan dengan waktu atau hal lain yang sebanding. Saat satu butir pasir terjatuh, waktu ataupun nyawa akan hilang dalam sekejap. Kalau ingin menghentikan bulir-bulir pasir itu jatuh, menghentikan pergerakannya selamanya, cara satu-satunya adalah jam pasir itu harus diletakkan secara mendatar. Haish, dengan kata lain adalah dia harus \"menjadi malas\".",
-      "th": "กลุ่มดาวของเธอคือ Tempus Fugit รูปร่างที่เหมือนนาฬิกาทรายเป็น สัญลักษณ์แห่งการแลกเปลี่ยน ความรู้ เวลา และความเท่าเทียม เมื่อเม็ดทรายร่วงหล่นลงมา เวลา...หรือชีวิตจะหายไปครู่หนึ่ง หากคุณต้องการหยุดยั้งทรายคุณ สามารถวางนาฬิกาทรายให้ราบ เพื่อไม่ให้มันไหลอีกต่อไป อืม... พูดง่าย ๆ ก็คือปล่อยให้ทราย \"ขี้เกียจ\" นั่นเอง",
+      "th": "กลุ่มดาวของเธอคือ Tempus Fugit รูปร่างที่เหมือนนาฬิกาทรายเป็น สัญลักษณ์แห่งการแลกเปลี่ยน ความรู้ เวลา และความเท่าเทียม เมื่อเม็ดทรายร่วงหล่นลงมา เวลา...หรือชีวิตจะหายไปครู่หนึ่ง หากต้องการหยุดยั้งการตกของเม็ดทราย คงทำได้เพียงวางนาฬิกาทรายในแนวนอน เพื่อไม่ให้ทรายไหลอีกต่อไป อืม... พูดง่าย ๆ ก็คือปล่อยให้ทราย \"ขี้เกียจ\" นั่นเอง",
       "vi": "\"Sa Lậu\" chính là Cung Mệnh của cô ấy, tượng trưng cho sự trao đổi công bằng giữa tri thức và thời gian. Một hạt cát rơi xuống, điều đó có nghĩa thời gian... Hay sinh mệnh bị rút ngắn. Nếu muốn ngăn chặn dòng chảy của cát, chỉ có thể đặt đồng hồ cát nằm ngang, chấm dứt mọi sự vận động của nó. Haizz... Nói đơn giản hơn là dùng pháp thuật để làm biếng đó."
     }
   },
@@ -849,17 +849,17 @@
     },
     "line": {
       "zhs": "温迪？那个成天无所事事的吟游诗人？咦，他有什么有趣的吗？我占卜看看…\n\n咦，水占盘怎么…什么也看不清，怎，怎么起风了，眼睛都睁不开了！我的帽子！衣服，衣服要被吹跑了！停下来！我不干了！我不干了！",
-      "zht": "溫迪？那個成天無所事事的吟遊詩人？咦，他有什麼有趣的嗎？我占卜看看…\n\n咦，水占盤怎麼…什麼也看不清，怎，怎麼起風了，眼睛都睜不開了！我的帽子！衣服，衣服要被吹跑了！停下來！我不幹了！我不幹了！",
+      "zht": "溫迪？那個成天無所事事的吟遊詩人？咦，他有什麼有趣的嗎？我占卜看看…\n\n咦，水占盤怎麼…什麼也看不清，怎、怎麼起風了，眼睛都睜不開了！我的帽子！衣服、衣服要被吹跑了！停下來！我不幹了！我不幹了！",
       "jp": "ウェンティ？あの毎日ダラけてる吟遊詩人のことですか？あの人に何か面白いことでも？ちょっと占ってみましょうか…\n\nあ、あれっ、水占の盤が…何も見えません。ど、どうして急に風が、目が開けてられません！私の帽子！ふ、服まで吹き飛ばされそうです！止めて！もうやめる、やめますからぁぁぁっ！",
       "ko": "벤티? 그 온종일 놀고먹는 음유시인? 그한테 뭐 재밌는 게 있겠어? 한번 점쳐볼게…\n\n어? 수점반이 왜…아무것도 안 보여. 바, 바람이 불어서 눈을 못 뜨겠어! 내 모자! 오, 옷이 날아가겠어! 멈춰! 안 해! 안 한다고!",
-      "en": "Venti? The bard that sits around doing nothing all day? What's so interesting about him? Sure, I guess I can take a look... Huh, that's weird, the scryglass, it's... I can't see a thing... this wind... I can't... open my eyes! No, my hat! Ah! My clothes, stop! The wind's going to strip all my clothes off! Make it stop, make it stop! ...Alright, alright! I'll never do this again!",
+      "en": "Venti? The bard that sits around doing nothing all day? What's so interesting about him? Sure, I guess I can take a look...\n\nHuh, that's weird, the scryglass, it's... I can't see a thing... this wind... I can't... open my eyes! No, my hat! Ah! My clothes, stop! The wind's going to strip all my clothes off! Make it stop, make it stop! ...Alright, alright! I'll never do this again!",
       "de": "Venti? Dieser Barde, der den lieben langen Tag nur herumhüpft und sonst nichts tut? Was soll mit dem schon sein? Aber ich kann ja mal einen Blick wagen ...\n\nHm, was soll das darstellen? Ich sehe kaum was ... dieser Wind ... Ah, meine Augen! Der Wind ist zu stark! Meine Mütze ... meine Kleidung! Haaalt! Ich hör ja schon auf!",
       "es": "¿Venti? ¿El bardo que no hace nada en todo el día? ¿Qué tiene de interesante una persona así? Bueno, supongo que puedo echar un vistazo a su...\n\n¿Eh? ¿Qué es esto? ¡No veo nada! ¡¿Cómo puede hacer este viento de repente?! ¡No puedo abrir los ojos! ¡Ah, mi sombrero! ¡Mi ropa! ¡Socorro, el viento va a arruinar mi ropa! ¡Para, por favor! ¡No volveré a hacerlo, lo juro!",
       "fr": "Venti ? Ce barde fainéant qui passe ses journées à flâner ? Je ne vois pas pourquoi il t'intéresse, mais soit, je vais lire son avenir... C'est bizarre, mon disque d'eau est flou... Ce vent est trop fort ! Mon chapeau ! Je vais m'envoler ! Stop ! J'arrête tout ! Je promets de ne plus jamais recommencer !",
       "pt": "Venti? O bardo que fica sentado sem fazer nada o dia todo? O que há de tão interessante nele? Claro, acho que posso dar uma olhada... Huh, isso é estranho, a luneta, está... Eu não consigo ver nada... Este vento... Eu não consigo... Abrir os olhos! Não, o meu chapéu! Ah! Minhas roupas, pare! O vento vai tirar todas as minhas roupas! Faça-o parar, faça-o parar! ...Está certo, está certo! Eu nunca mais farei isso!",
-      "ru": "Венти? Бард, который целыми днями ничего не делает? А он-то тебя чем заинтересовал? Ладно, я посмотрю...\n\nА?! В чаше... ничего не видно... и этот ветер... Я даже глаза открыть не могу! Моя шляпа! Мою одежду сейчас сдует! Хватит! Я больше не буду! Не буду!",
+      "ru": "Венти? Бард, который целыми днями ничего не делает? А он-то тебя чем заинтересовал? Ладно, я посмотрю... А?! В чаше... ничего не видно... и этот ветер... Я даже глаза открыть не могу! Моя шляпа! Мою одежду сейчас сдует! Хватит! Я больше не буду! Не буду!",
       "id": "Venti? Penyair yang tidak ada kerjaan itu? Apa yang menarik dari dia? Coba aku ramalkan... Huh, aneh sekali. Kenapa pantulan airnya menjadi buram? Kenapa tiba-tiba berangin? Aku, aku tidak bisa membuka mataku! Topiku! Bajuku, bajuku tertiup angin! Tolong hentikan! TOLONG! AKU AKAN HENTIKAN!",
-      "th": "Venti? กวีที่วัน ๆ ไม่ทำอะไรเลยน่ะเหรอ? หืม เขามีอะไรน่าสนใจ? หรือจะให้ฉันลองทำนายดู...\n\nเฮ้ทำไมกระจกส่องดาวถึงมองไม่ ชัดเลย... มองไม่เห็นอะไรเลย ทะ ทำไมลมพัดแรงอย่างงี้ ฉันลืมตาไม่ขึ้นแล้ว! หมวกของฉัน! เสื้อผ้า เสื้อผ้าจะถูกพัดปลิวแล้ว! หยุดนะ! ฉันไม่ดูแล้ว! ไม่ดูแล้ว!",
+      "th": "Venti? นักกวีพเนจรที่วัน ๆ ไม่ทำอะไรเลยน่ะเหรอ? หืม เขามีอะไรน่าสนใจ? หรือจะให้ฉันลองทำนายดู...\n\nเฮ้ ทำไมกระจกส่องดาวถึงมองไม่ชัดเลย... มองไม่เห็นอะไรเลย ทะ ทำไมลมพัดแรงอย่างงี้ ฉันลืมตาไม่ขึ้นแล้ว! หมวกของฉัน! เสื้อผ้า เสื้อผ้าจะถูกพัดปลิวแล้ว! หยุดนะ! ฉันไม่ดูแล้ว! ไม่ดูแล้ว!",
       "vi": "Venti ư? Có phải là nhà thơ lang thang không có việc gì để làm không? Haiz, anh ta có gì đáng để chú ý tới sao? Để tôi bốc một quẻ xem thế nào...\n\nÍ, bàn bói nước bị sao thế này... Tại sao không nhìn rõ được nhỉ, sao đột nhiên lại nổi gió khiến tôi không thể mở mắt ra nhìn! Á, mũ của tôi! Còn quần áo nữa, đều bị gió thổi bay mất rồi! Mau trả lại cho tôi! Hừm, thôi tôi không xem nữa đâu!"
     }
   },
@@ -876,7 +876,7 @@
       "pt": "Mais sobre Mona - I",
       "ru": "Узнать больше о Моне I",
       "id": "Mengenal Mona: I",
-      "th": "อยากรู้เกี่ยวกับ Mona-1",
+      "th": "อยากรู้เกี่ยวกับ Mona - 1",
       "vi": "Muốn tìm hiểu Mona - Điều thứ 1"
     },
     "line": {
@@ -886,12 +886,12 @@
       "ko": "수다 떨고 싶다고? 으음, 난 이렇게 시간 낭비하는 걸 좋아하지 않아. 그리고 아직 써야 할 원고가 많이 남았는걸… 음, 하지만 말동무가 너라면 안될 것도 없지. 하핫, 그냥 기분전환이라고 생각하자!",
       "en": "You want to chat... for fun? Oh... I don't usually have spare time for such activities, especially when I have so many columns left to write... Then again, since it's you, it might be worth it. Hehe, a change of pace once in a while isn't such a bad thing.",
       "de": "Wie? Du meinst einfach so quatschen? Also, normalerweise verschwende ich meine Zeit nicht gern und ich habe auch noch so viel zu schreiben ... Aber weil du es bist, warum nicht? Man kann ja auch mal seine Gewohnheiten anpassen.",
-      "es": "¿Quieres charlar... por diversión? Oh... generalmente no tengo tiempo libre para tales actividades, especialmente cuando me quedan tantos documentos por escribir... Pero, como eres tú, podría hacer una excepción. Jeje, un cambio de rutina de vez en cuando no es tan malo.",
+      "es": "¿Quieres charlar... por diversión? Oh... generalmente no tengo tiempo libre para tales actividades, especialmente cuando me quedan tantos artículos por escribir... Pero, como eres tú, podría hacer una excepción. Jeje, un cambio de rutina de vez en cuando no es tan malo.",
       "fr": "Tu veux discuter avec moi ? Je n'ai pas le loisir de faire ce genre de choses avec tous les articles que je dois écrire, mais je vais faire une exception pour toi. Ça ne me fera sans doute pas de mal.",
       "pt": "Você quer conversar... Por diversão? Oh... Normalmente não tenho tempo livre para tais atividades, especialmente quando ainda tenho tantas colunas para escrever... Mas, como é você, talvez valha a pena. Hehe, uma mudança de ritmo de vez em quando não é uma coisa tão ruim assim.",
       "ru": "То есть... хочешь просто поболтать? Хм, я обычно не трачу время на такое, да и свою колонку я ещё не дописала... Хотя с тобой можно и поговорить. Хе-хе, сменить обстановку, так сказать.",
       "id": "Maksudmu... Kamu ingin berbincang-bincang? Aduh, aku tidak pernah menghabiskan waktu untuk hal ini. Ditambah lagi, laporanku belum selesai. Tapi mungkin tidak masalah bila berbincang-bincang dengan kamu. Hehe, mungkin ini bisa mengubah suasana hatiku menjadi lebih baik.",
-      "th": "คุณต้องการคุย... เพื่อความสนุก? โอ้... ฉันไม่มีเวลาว่างสำหรับ เรื่องพวกนี้หรอก ฉันยังมีบทความที่ ต้องเขียนอีกเยอะเลย... อืม แต่ว่า ถ้าคุยกับคุณก็ไม่ใช่ว่าจะไม่ได้นะ... ฮ่า ๆ เปลี่ยนบรรยากาศบ้าง ก็ไม่ใช่เรื่อง เลวร้ายอะไร",
+      "th": "เธออยาก... ชวนคุยเรื่อยเปื่อย? โอ้ ฉันไม่มีเวลาว่างสำหรับเรื่องพวกนี้หรอก ฉันยังมีบทความที่ต้องเขียนอีกเยอะเลย... อืม แต่ว่าถ้าคู่สนทนาเป็นเธอก็ใช่ว่าจะไม่ได้นะ... ฮ่า ๆ เปลี่ยนบรรยากาศบ้าง ก็ไม่ใช่เรื่อง เลวร้ายอะไร",
       "vi": "Ý của bạn là... Muốn nói chuyện sao? Tôi rất ít khi lãng phí thời gian của mình, hơn nữa bản thảo còn chưa động được chữ nào... Uhm, nhưng mà nếu người cần nói chuyện là bạn thì không vấn đề. Haha, coi như là một cách thay đổi tâm trạng vậy."
     }
   },
@@ -908,12 +908,12 @@
       "pt": "Mais sobre Mona - II",
       "ru": "Узнать больше о Моне II",
       "id": "Mengenal Mona: II",
-      "th": "อยากรู้เกี่ยวกับ Mona-2",
+      "th": "อยากรู้เกี่ยวกับ Mona - 2",
       "vi": "Muốn tìm hiểu Mona - Điều thứ 2"
     },
     "line": {
       "zhs": "占卜的收入…？不要用钱财这种…「东西」来衡量占星术！你听好了，我的「水占术」可是这片提瓦特大陆上，唯一能窥探到真实命运的占卜术！无论是摩拉还是宝石，都无法用来称量「命运」！所以，不要再问这种蠢问题了！",
-      "zht": "占卜的收入…？不要用錢財這種…「東西」來衡量占星術！你聽好了，我的「水占術」可是這片提瓦特大陸上，唯一能窺探到真實命運的占卜術！無論是摩拉還是寶石，都無法用來稱量「命運」！所以，不要再問這種蠢問題了！",
+      "zht": "#占卜的收入…？不要用錢財這種…「東西」來衡量占星術！{F#妳}{M#你}聽好了，我的「水占術」可是這片提瓦特大陸上，唯一能窺探到真實命運的占卜術！無論是摩拉還是寶石，都無法用來秤量「命運」！所以，不要再問這種蠢問題了！",
       "jp": "占星術師としての収入…？お金のような…もので、占星術を語らないでください！よく聞きなさい、私の「水占の術」はこのテイワット大陸で、唯一真実の運命を覗ける占術です！モラだろうと宝石だろうと「運命」を計ることはできません！だから、もうそんな愚問二度としないでください！",
       "ko": "점괘로 벌어들이는 수입…? 감히 돈 같은 「그런」… 걸로! 점성술을 평가하려고 하다니, 잘 들어! 내 「수점술」은 이 티바트 대륙에서 진짜 운명을 엿볼 수 있는 유일한 점술이라구! 모라나 보석 따위론 「운명」의 가치를 잴 수 없어! 그러니까 이런 바보 같은 질문은 그만해!",
       "en": "Income? From astrology...? You can't use... things like Mora to determine the value of astrology! You need to understand: hydromancy is the one and only means of discerning people's true destiny in the whole of Teyvat! No matter how much Mora or gems you might have, the value of fate is quite simply incalculable! Perhaps not the smartest question you might have had for me...",
@@ -923,7 +923,7 @@
       "pt": "Renda? Da astrologia...? Você não pode usar... Coisas como Mora para determinar o valor da astrologia! Você precisa entender: A hidromancia é o único meio de discernir o verdadeiro destino das pessoas em todo Teyvat! Não importa quanto Mora ou pedras preciosas você possa ter, o valor do destino é simplesmente incalculável! Então pare de fazer perguntas tão estúpidas.",
       "ru": "Доход от гадания?.. Деньгами нельзя... Астрологию нельзя мерить вещами! Пойми, что моя гидромантия - единственный во всём Тейвате способ познать истинную судьбу! Ни морой, ни драгоценностями Судьбу не измерить! Так что не задавай больше дурацких вопросов!",
       "id": "Penghasilan dari ramalan...? Jangan gunakan \"benda\" seperti ... Mora untuk mengukur astrologi! Dengarkan baik-baik, \"ramalan air\" adalah satu-satunya metode ramalan di Teyvat ini yang dapat melihat takdir orang! Baik Mora maupun permata tidak dapat digunakan untuk menimbang \"takdir\"! Jadi, berhentilah mengajukan pertanyaan bodoh seperti itu!",
-      "th": "รายได้จากการทำนาย...? อย่าใช้ของอย่างนี้มาเป็นตัววัด ศาสตร์แห่งดวงดาวสิ! ตั้งใจฟังให้ดีนะ \"ศาสตร์แห่งดวงดาวน้ำ\" ของฉันเป็นวิธีการทำนายเดียวใน ทวีป Teyvat ที่สามารถเห็นโชคชะตาที่แท้จริงได้! Mora หรืออัญมณีไม่สามารถใช้กำหนด มูลค่าของ \"โชคชะตา\" ได้! ดังนั้นหยุดถามคำถามโง่ ๆ ได้แล้ว!",
+      "th": "รายได้จากการทำนาย...? อย่าใช้ของอย่างนี้มาเป็นตัววัดศาสตร์แห่งดวงดาวสิ! ตั้งใจฟังให้ดีนะ \"ศาสตร์แห่งดวงดาวน้ำ\" ของฉัน เป็นวิธีการทำนายเดียวในโลกแห่ง Teyvat ที่สามารถเห็นโชคชะตาที่แท้จริงได้! Mora หรืออัญมณีไม่สามารถใช้กำหนดมูลค่าของ \"โชคชะตา\" ได้! ดังนั้นหยุดถามคำถามโง่ ๆ ได้แล้ว!",
       "vi": "Thu nhập từ việc xem bói ư? Đừng có dùng tiền... để đo thuật chiêm tinh! Bạn hãy nghe cho rõ đây, \"Thủy Chiêm Thuật\" của tôi là phương pháp bói toán duy nhất trên đại lục Teyvat có thể nhìn rõ được số phận thực sự! Cho dù là Mora hay đá quý đều không thể đo lường được \"Cung Mệnh\"! Chính vì vậy đừng có hỏi những câu hỏi ngu ngốc như thế nữa!"
     }
   },
@@ -940,22 +940,22 @@
       "pt": "Mais sobre Mona - III",
       "ru": "Узнать больше о Моне III",
       "id": "Mengenal Mona: III",
-      "th": "อยากรู้เกี่ยวกับ Mona-3",
+      "th": "อยากรู้เกี่ยวกับ Mona - 3",
       "vi": "Muốn tìm hiểu Mona - Điều thứ 3"
     },
     "line": {
       "zhs": "我的占卜术？说了你也不明白，哼，不过…给你解释一下也不是不行。\n\n我使用的是「水占术」。是基由星空映射在水面上的幻象进行推演的占卜术，以水中幻相倒映虚假之天，以此来窥探着世界的真实。这是那个老太婆唯一一个正经的研究成果。",
-      "zht": "#我的占卜術？說了你也不明白，哼，不過…跟{F#妳}{M#你}解釋一下也不是不行。\n\n我使用的是「水占術」。是基於星空映射在水面上的幻象進行推演的占卜術，以水中幻相倒映虛假之天，以此來窺探著世界的真實。這是那個老太婆唯一一個正經的研究成果。",
+      "zht": "#我的占卜術？說了{F#妳}{M#你}也不明白，哼，不過…跟{F#妳}{M#你}解釋一下也不是不行。\n\n我使用的是「水占術」。是基於星空映射在水面上的幻象進行推演的占卜術，以水中幻相倒映虛假之天，以此來窺探著世界的真實。這是那個老太婆唯一一個正經的研究成果。",
       "jp": "私の占い術ですか？言っても分からないと思いますが。ふふん、まあ…少しくらい説明してあげなくもないです。\n\n私が使う「水占の術」は水面に映った星空の幻象に基づいて運命を導き出す占術です。水面に映った偽りの空を通して、世界の真実を覗きます。これはあのおばばが残した唯一のちゃんとした研究成果なんですよ。",
       "ko": "내 점술? 어차피 말해도 모를 걸? 흥, 하지만…설명 정도는 해줄 수 있지.\n\n내가 사용하는 「수점술」이란 건 수면에 비친 별하늘의 환상을 보고 추론하는 점술이야. 물속의 환상으로 거짓된 하늘을 비추어 세상의 진실을 엿보는 거지. 이건 그 할망구가 제대로 낸 유일한 연구 성과야",
       "en": "You want me to explain how astrology works? I'm not sure you'd understand even if I told you. But since you ask... The method I use is called hydromancy. The art of inferring fate from the illusory reflection of the stars on the water's surface. The inverted reflection in the water is an image of the heavens from within which the truth of our world can be observed. ...It is the one and only success story of that old lady's research endeavors.",
       "de": "Meine Astrologie? Ich glaub nicht, dass du es verstehen würdest ... Aber schaden wird es schon nicht.\n\nIch verwende Hydromantie, bei der man die Reflexion des Sternenhimmels auf einer Wasseroberfläche betrachtet, um sozusagen aus einer Illusion die Wahrheit über die Welt zu erfahren. Das ist aber auch die einzige Forschungsleistung, die das alte Weib erbracht hat.",
-      "es": "¿Quieres que te explique cómo funciona la astrología? No creo que lo entendieras aunque te lo dijese, pero ya que preguntaste... El método que uso se llama hidromancia, el arte de adivinar el destino a partir del reflejo ilusorio de las estrellas en la superficie del agua. El reflejo invertido en el agua es una imagen de los cielos, dentro de la cual se puede observar la verdad de nuestro mundo. Es el único caso de éxito de los esfuerzos de investigación de esa anciana.",
+      "es": "¿Quieres que te explique cómo funciona la astrología? No creo que lo entendieras aunque te lo dijese, pero ya que preguntaste... El método que uso se llama “hidromancia”, el arte de adivinar el destino a partir del reflejo ilusorio de las estrellas en la superficie del agua. El reflejo invertido en el agua es una imagen de los cielos, dentro de la cual se puede observar la verdad de nuestro mundo. Es el único caso de éxito de los esfuerzos de investigación de esa anciana.",
       "fr": "Tu veux connaître le fonctionnement de mon astromancie ? C'est compliqué, mais je vais faire de mon mieux pour t'expliquer... Je pratique l'hydromancie. Comme son nom l'indique, j'utilise la surface de l'eau pour observer les étoiles. Leur reflet inversé me dévoile la vérité cachée de notre monde... C'est la seule réussite de la vieille après toutes ces années de recherches.",
       "pt": "Você quer que eu explique como funciona a astrologia? Não tenho certeza se você entenderia mesmo que eu lhe dissesse. Mas já que você perguntou... O método que eu uso se chama hidromancia. A arte de inferir o destino a partir do reflexo ilusório das estrelas na superfície da água. O reflexo invertido na água é uma imagem dos céus a partir da qual a verdade do nosso mundo pode ser observada. ...É a única história de sucesso dos esforços de pesquisa daquela senhora idosa.",
-      "ru": "Гадание? Даже если объясню, всё равно не поймёшь. Хм, хотя... почему бы и не попробовать.\n\nМоя гидромантия основана на трактовании образа звёзд в воде. Лживое небо отражается в обманчивой воде и порождает истину мира. Это единственный достойный результат старухиных исследований.",
+      "ru": "Гадание? Даже если объясню, всё равно не поймёшь. Хм, хотя... почему бы и не попробовать. Моя гидромантия основана на трактовании образа звёзд в воде. Лживое небо отражается в обманчивой воде и порождает истину мира. Это единственный достойный результат старухиных исследований.",
       "id": "Kamu mau aku menjelaskan cara kerja ramalanku? Kalaupun aku menjelaskannya, kamu tidak akan mengerti. Tapi karena kamu bertanya, baiklah... Metode yang aku gunakan adalah \"ramalan air\". Sang peramal menyimpulkan takdir seseorang dari pantulan langit berbintang di atas permukaan air. Dari pantulan itu, terlihat ilusi langit yang palsu dan dari sanalah sang peramal dapat melihat realitas dunia. Ini adalah satu-satunya hasil penelitian yang sukses dari wanita tua itu.",
-      "th": "คุณต้องการให้ฉันอธิบายว่าศาสตร์แห่งดวงดาวทำงานอย่างไง? ถึงฉันจะบอกคุณแต่คุณก็ไม่เข้าใจ หรอก แต่ว่า... ยังไงฉันจะลองอธิบายให้ฟังนะ\n\nวิธีการที่ฉันใช้นั้นเรียกว่า \"ศาสตร์แห่งดวงดาวน้ำ\" เป็นศิลปะแห่งการทำนายโชคชะตา จากภาพสะท้อนของดวงดาว บนผิวน้ำ ภาพสะท้อนในน้ำเป็นภาพสะท้อน แห่งสวรรค์จากภายใน ซึ่งสามารถสังเกตความจริงของ โลกของเราได้... มันเป็นความสำเร็จเพียงหนึ่งเดียวจากการพยายามค้นคว้าของ ยายแก่คนนั้น",
+      "th": "การทำนายศาสตร์แห่งดวงดาวของฉัน? หึ ถึงจะบอกไป เธอก็ไม่เข้าใจหรอก แต่ว่า... ยังไงฉันจะลองอธิบายให้ฟังแล้วกัน\n\nวิธีการที่ฉันใช้นั้น เรียกว่า \"ศาสตร์แห่งดวงดาวน้ำ\" เป็นศิลปะแห่งการทำนายโชคชะตา จากภาพสะท้อนของดวงดาวบนผิวน้ำ ภาพที่สะท้อนในน้ำเป็นภาพสะท้อนจากการจำลองสวรรค์ ซึ่งสามารถใช้มองความจริงของโลกของเราได้... มันเป็นความสำเร็จเพียงหนึ่งเดียว จากการพยายามค้นคว้าของยายแก่คนนั้น",
       "vi": "Thuật bói toán của tôi sao? Có nói thì bạn cũng không thể hiểu được, hừm nhưng mà... Tôi sẽ giải thích một chút cho bạn.\n\nPhương pháp của tôi là \"Thủy Chiêm Thuật\", thuật bói toán được suy luận dựa trên ảo ảnh của bầu trời đầy sao phản chiếu trên mặt nước. Tức là sử dụng bầu trời được phản chiếu ngược trên mặt nước để nhìn thấy sự thật trong thế giới này. Đây có thể nói là kết quả nghiên cứu duy nhất có giá trị của lão bà bà đó."
     }
   },
@@ -972,7 +972,7 @@
       "pt": "Mais sobre Mona - IV",
       "ru": "Узнать больше о Моне IV",
       "id": "Mengenal Mona: IV",
-      "th": "อยากรู้เกี่ยวกับ Mona-4",
+      "th": "อยากรู้เกี่ยวกับ Mona - 4",
       "vi": "Muốn tìm hiểu Mona - Điều thứ 4"
     },
     "line": {
@@ -980,14 +980,14 @@
       "zht": "#阿斯托洛吉斯·莫娜·梅姬斯圖斯。這是那個老太婆之前和我一起定的名字，她說這名字的拼寫裡有一些她很喜歡的要素。哼，不過她有時會叫我「梅姬」，和常用的「莫娜」不一樣，更像是小名…喂！{F#妳}{M#你}不能這麼叫！很害羞的！早知道…早知道就不告訴{F#妳}{M#你}了！",
       "jp": "アストローギスト·モナ·メギストス、この名前はおばばと私が一緒に決めたんです。名前の綴りにはおばばの好きなものが含まれてるって聞きました。でもおばばってたまに私のこと「メギ」って呼ぶんですよ。「モナ」とは違って、なんか幼名みたいですよね…だから、あなたはその名前で呼ばないでくださいね！恥ずかしいですから！もう…教えなければよかったです！",
       "ko": "아스트로지스트·모나·메기스토스. 이건 전에 그 할망구랑 내가 함께 정한 이름이야. 그녀는 날 가끔 「메기」라고 불러. 자주 쓰는 「모나」와는 다르게 애칭 같은 느낌이랄까…야! 넌 그렇게 부르면 안 돼! 부끄럽단 말이야!…아, 괜히 알려줬어!",
-      "en": "Mona Megistus, the Astrologist — we came up with that name together, the old lady and me. She said it had a nice ring to it... But then she started calling me 'Meg' for short, which I hate, because obviously 'Mona' is already sufficient for a shorter name— No! You are NOT allowed to call me that, it's embarrassing! Gah! I knew I shouldn't have told you!",
+      "en": "Mona Megistus, the Astrologist — we came up with that name together, the old lady and me. She said it had a nice ring to it... But then she started calling me 'Meg' for short, which is obviously unnecessary, because clearly 'Mona' is already suffice for a shorter name— No! You are NOT allowed to call me that, it's embarrassing! Gah! I knew I shouldn't have told you!",
       "de": "Astrologin Mona Megistus, auf diesen Namen sind das alte Weib und ich gekommen. Sie mochte den Klang des Namens einfach sehr. Dann fing sie aber an, mich Meg zu nennen, obwohl Mona doch schon ein guter Name ist ... He! Jetzt fang du nicht auch damit an! Das ist peinlich! Wenn ich das gewusst hätte, hätte ich dir gar nichts erzählt!",
       "es": "Astróloga Mona Megistus. A mi maestra y a mí se nos ocurrió ese nombre juntas. Ella dijo que sonaba bien, pero luego comenzó a llamarme “Meg” para abreviarlo, lo cual detesto, porque obviamente “Mona” ya es un nombre suficientemente corto. ¡No, no puedes llamarme así! ¡Es vergonzoso! ¡Sabía que no debía decírtelo!",
-      "fr": "« Mona Megistus » – C'est un nom dont nous avions convenu ensemble, avec la vieille. Elle trouvait que ça sonnait bien. Hmph, mais elle a commencé à m'appeler « Meg » parce que c'était trop long. Je déteste ce surnom, comme si « Mona » n'était pas assez bien pour— Hé ! Je t'interdis de m'appeler comme ça ! Je savais que je n'aurais pas dû te raconter cette histoire !",
+      "fr": "« Mona Megistus » – C'est un nom dont nous avions convenu ensemble, avec la vieille. Elle trouvait que ça sonnait bien. Hmph, mais elle a commencé à m'appeler « Meg » parce que c'était trop long. Je déteste ce surnom, comme si « Mona » n'était pas assez bien pour... Hé ! Je t'interdis de m'appeler comme ça ! Je savais que je n'aurais pas dû te raconter cette histoire !",
       "pt": "Astrologist Mona Megistus, inventamos esse nome juntos, a velhinha e eu. Ela disse que soava bem... Mas então começou a me chamar de 'Meg', o que eu odeio, porque obviamente 'Mona' já é suficiente para um nome mais curto - Não! Você não está autorizado a me chamar assim. Que vergonha! Eu sabia que não deveria ter lhe contado!",
       "ru": "Астрологист Мона Мегистус - это имя мы придумали вместе со старухой. Она говорила, что в написании сокрыт хороший смысл. Но потом она стала называть меня «Мэгги», а это, в отличие от нормального «Мона», похоже на детское имя... Так! Нельзя меня так называть! Это неприлично! Если бы знала... никогда бы не рассказала!",
       "id": "Astrologis Mona Megistus. Nama ini dipikirkan wanita tua itu bersama denganku. Katanya, di dalamnya ada beberapa kata yang dia suka. Tapi dia sering memanggilku \"Meg\", dan aku membencinya. Berbeda dengan nama panggilanku \"Mona\"! HEI! Kamu tidak boleh memanggilku seperti itu! Ini sangat memalukan! Huh! Aku tidak seharusnya memberi tahu kamu!",
-      "th": "Astrologist Mona Megistus นี่เป็นชื่อที่ฉันร่วมกันตั้งกับ ยายแก่ เธอบอกว่าฟังดูเหมาะกับฉันดี ฮึ แต่เธอชอบเรียกฉันว่า \"Meg\" ชื่อเล่นแบบนี้ไม่น่าฟังเหมือนกับ Mona เลยสักนิดเดียว... เฮ้! อย่าเรียกฉันแบบนี้สิ! ฉันเขินนะ! ถ้ารู้แต่แรก... ถ้ารู้แต่แรกก็ไม่บอกเธอหรอก!",
+      "th": "Astrologist Mona Megistus นี่เป็นชื่อที่ฉันร่วมกันตั้งกับยายแก่ เธอบอกว่าฟังดูเหมาะกับฉันดี ฮึ แต่บางครั้งเธอก็ชอบเรียกฉันว่า \"Meg\" ฟังดูเป็นชื่อเล่นที่ต่างออกไปจาก \"Mona\" ที่ใช้บ่อย ๆ... เฮ้! อย่าเรียกฉันแบบนี้สิ! ฉันเขินนะ! ถ้ารู้แต่แรก... ถ้ารู้แต่แรกก็ไม่บอกเธอหรอก!",
       "vi": "Astrologist Mona Megistus là cái tên do tôi và lão bà bà cùng đặt, bà ấy nói trong cái tên của tôi hội tụ những thứ mà bà thích. Hừm, nhưng cũng có lúc bà ấy chỉ gọi tôi là Meg, cái tên này khác với Mona, nó giống như một biệt danh... Hừm! Bạn cũng không được gọi tôi như thế! Tôi xấu hổ lắm! Sớm biết như vậy thì... Tôi đã không kể cho bạn nghe!"
     }
   },
@@ -1004,7 +1004,7 @@
       "pt": "Mais sobre Mona - V",
       "ru": "Узнать больше о Моне V",
       "id": "Mengenal Mona: V",
-      "th": "อยากรู้เกี่ยวกับ Mona-5",
+      "th": "อยากรู้เกี่ยวกับ Mona - 5",
       "vi": "Muốn tìm hiểu Mona - Điều thứ 5"
     },
     "line": {
@@ -1017,9 +1017,9 @@
       "es": "La regla de oro que todos los adivinos siguen es: nunca ofrezcas consejos, solo declara los resultados de la adivinación. De lo contrario, corres el riesgo de que tu destino se enrede con el de la otra persona. Pero haré una excepción a la regla solo por ti, porque nuestros destinos se han entrelazado desde el principio.",
       "fr": "La règle d'or de tous les praticiens de la divination est de ne jamais donner de conseils à leurs clients. Il faut seulement s'en tenir à la prédiction pure et dure de leur destin. Sinon, leur destin et celui du client peuvent s'entremêler... Mais je fais une exception pour toi.\n\nParce que nos destins sont déjà liés depuis le début.",
       "pt": "A regra de ouro a que todos os adivinhos obedecem é: nunca ofereça conselhos. Apenas diga os resultados da adivinhação. Caso contrário, corre-se o risco de que seu destino se emaranhe com o de seu indivíduo. Mas para você, abrirei uma exceção a esta regra - porque nossos destinos estão entrelaçados desde o início.",
-      "ru": "У гадателей есть правило: излагать судьбу, не давать советов. Иначе можно запутаться в чужой судьбе. Но на тебя это правило уже не распространяется.\n\nНаши судьбы давно уже переплетены.",
+      "ru": "У гадателей есть правило: излагать судьбу, не давать советов. Иначе можно запутаться в чужой судьбе. Но на тебя это правило уже не распространяется. Наши судьбы давно уже переплетены.",
       "id": "Ada satu hal tabu yang tidak boleh dilanggar oleh seorang astrolog: Astrolog hanya boleh meramal dan tidak boleh mengajukan saran apa pun, agar tidak terlibat dalam \"nasib\" orang lain. Namun kalau kamu yang menjadi objek ramalanku, maka hal \"tabu\" ini tidak akan berlaku.\n\nSemua itu karena sejak awal \"nasib\" kita sudah menyatu.",
-      "th": "กฎที่นักทำนายดวงชะตาทุกคนต้องปฏิบัติตามคือ:บอกผลลัพธ์ของการทำนายเท่านั้น ห้ามให้คำแนะนำเด็ดขาด ไม่เช่นนั้นจะต้องเสี่ยงกับโชคชะตาที่ยุ่งเหยิง เพราะโชคชะตาของผู้อื่นจะมาเกี่ยวกันกับโชคชะตาของตัวเอง แต่สำหรับคุณฉันจะทำให้เป็น ข้อยกเว้นสำหรับกฎนี้\n\nเพราะโชคชะตาของเราผูกพันกัน ตั้งแต่ต้น",
+      "th": "กฎที่นักทำนายดวงชะตาทุกคนต้องปฏิบัติตามคือ: บอกผลลัพธ์ของการทำนายเท่านั้น ห้ามให้คำแนะนำเด็ดขาด ไม่เช่นนั้นจะต้องเสี่ยงกับโชคชะตาที่ยุ่งเหยิง เพราะโชคชะตาของผู้อื่นจะมาเกี่ยวกันกับโชคชะตาของตัวเอง แต่สำหรับเธอ \"กฎ\" ที่ว่าคงไม่เป็นอะไร\n\nเพราะโชคชะตาของเราผูกพันกันตั้งแต่ต้น",
       "vi": "Có một điều cấm kỵ mà nhà chiêm tinh không được làm đó là: Trong quá trình nhắc đến những lời tiên tri, không được phép đưa ra bất kỳ lời khuyên nào. Việc này để tránh bản thân bị kéo vào Cung Mệnh của người khác. Nhưng nếu người cần xem bói là bạn thì không phải để ý đến điều cấm kỵ đó đâu.\n\nBởi vì Cung Mệnh của hai ta đã sớm giao thoa vào nhau rồi."
     }
   },
@@ -1051,7 +1051,7 @@
       "pt": "O meu hobby? Observar estrelas! Neste mundo totalmente real em que vivemos, todos nós precisamos olhar para o céu de vez em quando e fixar o olhar nas estrelas, com um espírito de admiração... E ainda por cima, eu sou uma astróloga.",
       "ru": "Моё хобби? Смотреть на звёзды. В этом слишком реальном мире каждый должен иногда смотреть на звёзды. Не говоря уже о том, что я астролог.",
       "id": "Hobiku? Melihat bintang di langit. Di dunia yang begitu realistis ini, setiap orang perlu melihat bintang-bintang di langit. Ditambah lagi, aku adalah seorang astrolog.",
-      "th": "งานอดิเรกของฉัน? นั่งดูดาวไงล่ะ ในโลกแห่งความจริงอันโหดร้าย ทุกคนต้องมองขึ้นไปบนท้องฟ้า ที่เต็มไปด้วยดวงดาวเป็นครั้งคราว ยิ่งฉันเป็นโหรแห่งดวงดาว ยิ่งไม่ต้องพูดถึง",
+      "th": "งานอดิเรกของฉัน? นั่งดูดาวไงล่ะ ในโลกแห่งความจริงอันโหดร้าย ทุกคนต้องมองขึ้นไปบนท้องฟ้าที่เต็มไปด้วยดวงดาวเป็นครั้งคราวบ้างแหละ ยิ่งฉันเป็นโหรแห่งดวงดาว ยิ่งไม่ต้องพูดถึง",
       "vi": "Sở thích của tôi ư? Là ngắm bầu trời. Trong thế giới mà sự thật quá đỗi chân thực, mọi người đều cần ngước đầu nhìn trời sao, huống hồ một thuật sĩ chiêm tinh như tôi thì càng phải làm điều đó."
     }
   },
@@ -1079,11 +1079,11 @@
       "en": "*sigh* The equipment repair bill is due, and so is the final payment for that celestial globe I ordered... Also, I still need to renew my journal subscriptions, not to mention pay the rent... Hmm, which one to prioritize? ...Ah, I'll pay off the celestial globe first. If I leave it any longer, they'll sell out, and then I'll never get my hands on one...",
       "de": "Die Reparaturkosten und die Zahlung für die vorbestellte Planetenmaschine sind fällig. Die Forschungsmagazine müssen auch noch bezahlt werden und von der Miete für nächsten Monat will ich gar nicht erst anfangen ... Wofür geb ich als Erstes Geld aus? Am besten für die Planetenmaschine. Sonst kauft sie mir noch einer vor der Nase weg.",
       "es": "Tengo que pagar la factura por la reparación de mis artilugios y el pago final por el globo celeste que pedí... Además, todavía no he pagado mi suscripción a la revista, por no hablar del dinero del alquiler... Humm, ¿cuál debería priorizar? ¡Lo tengo! Primero pagaré el globo celeste, sería horrible que se vendieran todos y no pudiera comprar uno...",
-      "fr": "J'ai une facture de réparation d'équipement à payer, puis la dernière échéance de la sphère céleste que j'ai commandé, sans oublier les abonnements aux journaux et le loyer... Que régler en premier ? Bon, la sphère céleste est la plus importante, je ne pourrais plus jamais en obtenir sinon...",
+      "fr": "J'ai une facture de réparation d'équipement à payer, et aussi le paiement du globe céleste que j'ai commandé à compléter, sans oublier les abonnements de mes revues académiques et le loyer... Que régler en premier ? Bon, le globe céleste est plus important, je ne pourrais plus jamais en obtenir sinon...",
       "pt": "A conta de conserto do dispositivo está vencida, e também o pagamento final pelo globo celeste que eu pedi, o aluguel... Além disso, ainda preciso renovar a minha inscrição de um jornal acadêmico... Hmm, qual priorizar...? Ah, eu vou pagar primeiro o globo celeste, senão, eles se esgotarão e então nunca vou colocar minhas mãos em um...",
-      "ru": "Надо оплатить ремонт приборов, предоплату за небесный глобус внести, подписка на научный альманах заканчивается, за квартиру скоро платить... Что же важнее... Всё же за небесный глобус надо заплатить, а то, если раскупят, будет ужасно...",
+      "ru": "Надо оплатить ремонт приборов, предоплату за звёздный глобус внести, подписка на научный альманах заканчивается, за квартиру скоро платить... Что же важнее... Всё же за звёздный глобус надо заплатить, а то, если раскупят, будет ужасно...",
       "id": "Aku harus membayar uang perbaikan peralatan, melunasi uang pembelian globe astronomi, uang untuk berlangganan majalah, dan uang sewa untuk bulan depan... Mana yang harus kubayar dulu? Hm, ternyata benar... Aku lebih baik melunasi globe astronomi dulu. Kalau tidak, bisa diborong habis orang lain...",
-      "th": "ค่าซ่อมอุปกรณ์, ลูกโลกท้องฟ้าจำลองที่สั่งไปต้อง จ่ายงวดสุดท้ายแล้ว นิตยสารวิชาการที่สั่งไปก็ยัง ไม่ได้จ่าย และยังมีค่าเช่าบ้านเดือนถัดไปอีก... จ่ายอันไหนก่อนดีนะ? ยังไงก็... จ่ายค่าลูกโลกท้องฟ้าจำลอง ก่อนดีกว่า ไม่งั้นถ้าโดนคนอื่นซื้อตัดหน้าไปละ แย่เลย...",
+      "th": "ค่าซ่อมอุปกรณ์ ลูกโลกท้องฟ้าจำลองที่สั่งไปต้องจ่ายงวดสุดท้ายแล้ว นิตยสารวิชาการที่สั่งไปก็ยังไม่ได้จ่าย และยังมีค่าเช่าบ้านเดือนถัดไปอีก... จ่ายอันไหนก่อนดีนะ? ยังไงก็... จ่ายค่าลูกโลกท้องฟ้าจำลองก่อนดีกว่า ไม่งั้นถ้าโดนคนอื่นซื้อตัดหน้าไปละ แย่เลย...",
       "vi": "Phí bảo dưỡng dụng cụ, tiền đặt mua kính thiên văn phải thanh toán, tiền mua tạp chí học thuật còn chưa nộp, lại còn tiền thuê nhà hai tháng nữa chứ... Phải nộp tiền nào trước nhỉ. Nghĩ đi nghĩ lại, vẫn là... Kính thiên văn rồi, chẳng may họ bán hết rồi thì phải làm sao..."
     }
   },
@@ -1099,7 +1099,7 @@
       "fr": "Plats préférés...",
       "pt": "Comida Favorita...",
       "ru": "Любимая еда...",
-      "id": "Makanan favorit",
+      "id": "Makanan Favorit",
       "th": "อาหารที่ชอบ...",
       "vi": "Món ăn yêu thích..."
     },
@@ -1115,7 +1115,7 @@
       "pt": "Salada. A salada é, de longe, a melhor comida do mundo. Barata para comprar, fácil de preparar, enche e é a coisa mais conveniente quando se está trabalhando em uma coluna ou consertando algum equipamento - quero dizer, quem tem tempo para um jantar apropriado de qualquer maneira?",
       "ru": "Салат. Салат - это лучшая еда на свете. Стоит дёшево, готовить легко, живот набивает. Да и есть удобно, когда работаешь над колонкой или чинишь приборы. У кого вообще есть время на готовку?",
       "id": "Salad! Salad adalah makanan terbaik di dunia ini! Bahannya murah, mudah dibuat dan mengenyangkan. Dan itu bisa dimakan dengan cepat saat aku sibuk menulis laporan atau memperbaiki peralatan. Tidak semua orang punya banyak waktu untuk makan.",
-      "th": "สลัด สลัดเป็นอาหารที่ดีที่สุดในโลก วัตถุดิบมีราคาถูก ทำก็ง่าย กินก็อิ่ม และสะดวกในการกิน สามารถกินได้อย่างรวดเร็ว ในระหว่างที่เขียนบทความหรือซ่อม เครื่องมือ",
+      "th": "สลัด สลัดเป็นอาหารที่ดีที่สุดในโลก วัตถุดิบมีราคาถูก ทำก็ง่าย กินก็อิ่ม และสะดวกในการกิน สามารถกินได้อย่างรวดเร็วในระหว่างที่เขียนบทความหรือซ่อมเครื่องมือ",
       "vi": "Gỏi vẫn là món ăn ngon nhất thiên hạ. Vừa rẻ vừa dễ làm, mà lại dễ no nữa chứ. Mỗi khi viết bản thảo hay lúc sửa máy móc, ăn gỏi là nhanh nhất."
     }
   },
@@ -1223,7 +1223,7 @@
       "ko": "선물 획득·세 번째",
       "en": "Receiving a Gift: III",
       "de": "Geschenk erhalten III",
-      "es": "Al recibir un regalo (II)",
+      "es": "Al recibir un regalo (III)",
       "fr": "Cadeau reçu (3)",
       "pt": "Recebendo Presentes — III",
       "ru": "Подарок III",
@@ -1275,7 +1275,7 @@
       "pt": "Feliz aniversário. Aqui está meu presente para você - é uma bolsa contendo algumas palavras de conselho que podem te ajudar a passar por momentos difíceis. ... Não, não o abra ainda. Durante o próximo ano, esta bolsa se abrirá quando chegar o momento certo.",
       "ru": "С днём рождения. В этом мешочке - совет, который поможет в трудную минуту. Не открывай пока. В этом году он сам откроется в подходящий момент.",
       "id": "Selamat ulang tahun. Ini hadiah untukmu, didalamnya ada sebuah \"petunjuk\" yang akan membantumu mengatasi kesulitan. Jangan buka dulu sekarang, dalam tahun ini, akan ada waktunya kantong ini terbuka dengan sendirinya.",
-      "th": "สุขสันต์วันเกิด กระเป๋านี้ให้คุณนะ ข้างในมีคำแนะนำที่จะช่วยให้คุณ ข้ามผ่านช่วงเวลาที่ยากลำบากได้ ไม่ต้องรีบเปิดตอนนี้หรอก ภายในปีนี้กระเป๋าจะเปิดออกเอง เมื่อถึงเวลา",
+      "th": "สุขสันต์วันเกิด กระเป๋านี้ให้เธอนะ ข้างในมีคำแนะนำที่จะช่วยให้เธอข้ามผ่านช่วงเวลาที่ยากลำบากได้ ไม่ต้องรีบเปิดตอนนี้หรอก ภายในปีนี้กระเป๋าจะเปิดออกเองเมื่อถึงเวลา",
       "vi": "Chúc mừng sinh nhật. Cái túi này dành cho bạn, bên trong là lời \"góp ý\" khi cần thiết. Chớ có mở ra, một năm sau sẽ có cơ hội dùng đến nó đó."
     }
   },
@@ -1334,12 +1334,12 @@
       "ko": "…조금만 더 가면 세상의 진실을 찾을 수 있을까?",
       "en": "...One step closer. Maybe soon I shall finally uncover the truth of this world?",
       "de": "Und noch einen Schritt weiter. Bald wird sich mir die Wahrheit dieser Welt offenbaren!",
-      "es": "... Un paso mas cerca. ¿Quizás pronto descubra la verdad de este mundo?",
+      "es": "Un paso más cerca. ¿Quizás pronto descubra la verdad de este mundo?",
       "fr": "Je fais un pas de plus vers la vérité de ce monde. Que vais-je découvrir ?",
       "pt": "...Um passo mais perto. Talvez em breve eu finalmente descubra a verdade deste mundo?",
       "ru": "...Ещё ближе на шаг, где же истина мира?",
       "id": "... Satu langkah lagi. Apa aku akan segera menemukan kebenaran dunia?",
-      "th": "...ใกล้เข้าไปอีกขั้น จะสามารถเปิดเผยความจริงของ โลกนี้ได้รึเปล่านะ?",
+      "th": "...ใกล้เข้าไปอีกขั้น จะสามารถเปิดเผยความจริงของโลกนี้ได้รึเปล่านะ?",
       "vi": "...Tiến thêm một bước là tìm ra chân lý của thế giới sao?"
     }
   },
@@ -1403,7 +1403,7 @@
       "pt": "No reflexo da água, eu vejo a ascensão da estrela da manhã.",
       "ru": "В водном отражении восходит утренняя звезда.",
       "id": "Dalam pantulan air, aku melihat terbitnya bintang pagi.",
-      "th": "ในเงาสะท้อนของน้ำ ฉันเห็นดาวศุกร์ลอยขึ้นมา จากระลอกคลื่น",
+      "th": "ในเงาสะท้อนของน้ำ ฉันเห็นประกายพรึกลอยขึ้นมาจากระลอกคลื่น",
       "vi": "Bóng hình và làn sóng trên mặt nước phảng phất ngôi sao đang lên."
     }
   },
@@ -1510,7 +1510,7 @@
       "jp": "元素爆発·1",
       "ko": "원소폭발·첫 번째",
       "en": "Elemental Burst: I",
-      "de": "Spezialfähigkeit – I",
+      "de": "Spezialfähigkeit I",
       "es": "Habilidad Definitiva (I)",
       "fr": "Déchaînement élémentaire (1)",
       "pt": "Supremo - I",
@@ -1542,7 +1542,7 @@
       "jp": "元素爆発·2",
       "ko": "원소폭발·두 번째",
       "en": "Elemental Burst: II",
-      "de": "Spezialfähigkeit – II",
+      "de": "Spezialfähigkeit II",
       "es": "Habilidad Definitiva (II)",
       "fr": "Déchaînement élémentaire (2)",
       "pt": "Supremo - II",
@@ -1574,7 +1574,7 @@
       "jp": "元素爆発·3",
       "ko": "원소폭발·세 번째",
       "en": "Elemental Burst: III",
-      "de": "Spezialfähigkeit – III",
+      "de": "Spezialfähigkeit III",
       "es": "Habilidad Definitiva (III)",
       "fr": "Déchaînement élémentaire (3)",
       "pt": "Supremo - III",
@@ -1821,6 +1821,70 @@
       "id": "Ini belum diramalkan!",
       "th": "คิดไม่ถึง... ว่าจะเป็นแบบนี้!",
       "vi": "Vẫn chưa...suy tính đến đây!"
+    }
+  },
+  {
+    "title": {
+      "zhs": "同伴生命值低·其一",
+      "zht": "同伴生命值低·其一",
+      "jp": "仲間HP低下·1",
+      "ko": "동료 HP 감소·첫 번째",
+      "en": "Ally at Low HP: I",
+      "de": "Verbündeter hat niedrige LP I",
+      "es": "Aliado con vida baja (I)",
+      "fr": "Compagnon avec PV faibles (1)",
+      "pt": "Aliado com Vida baixa: I",
+      "ru": "Низкий уровень HP компаньона I",
+      "id": "HP Rekan Rendah: I",
+      "th": "ค่าพลังชีวิตของเพื่อนต่ำ - 1",
+      "vi": "HP Đồng Hành Thấp I"
+    },
+    "line": {
+      "zhs": "再硬撑，你就会倒下咯。",
+      "zht": "再硬撐，你就會倒下囉。",
+      "jp": "これ以上無理すると倒れてしまいます。",
+      "ko": "더 버텼다간 쓰러질 거야",
+      "en": "Do not tempt fate.",
+      "de": "Fordere das Schicksal nicht heraus.",
+      "es": "No tientes al destino.",
+      "fr": "Ne tentons pas la providence.",
+      "pt": "Não provoque o destino.",
+      "ru": "Не искушай судьбу.",
+      "id": "Jangan mencobai takdir.",
+      "th": "ถ้ายังฝืนต่อไป เธอจะไม่รอดแล้วนะ",
+      "vi": "Còn gắng gượng nữa là bạn sẽ ngã gục đó."
+    }
+  },
+  {
+    "title": {
+      "zhs": "同伴生命值低·其二",
+      "zht": "同伴生命值低·其二",
+      "jp": "仲間HP低下·2",
+      "ko": "동료 HP 감소·두 번째",
+      "en": "Ally at Low HP: II",
+      "de": "Verbündeter hat niedrige LP II",
+      "es": "Aliado con vida baja (II)",
+      "fr": "Compagnon avec PV faibles (2)",
+      "pt": "Aliado com Vida baixa: II",
+      "ru": "Низкий уровень HP компаньона II",
+      "id": "HP Rekan Rendah: II",
+      "th": "ค่าพลังชีวิตของเพื่อนต่ำ - 2",
+      "vi": "HP Đồng Hành Thấp II"
+    },
+    "line": {
+      "zhs": "你还没到命运的终点。",
+      "zht": "你還沒到命運的終點。",
+      "jp": "あなたの運命はまだ終わってません。",
+      "ko": "여긴 네 운명의 종착점이 아니야",
+      "en": "This is not your destiny.",
+      "de": "Dies ist noch nicht das Ende deines Schicksals.",
+      "es": "Este no es tu destino.",
+      "fr": "Ce n'est pas ton destin.",
+      "pt": "Este não é o seu destino.",
+      "ru": "Это не твой удел.",
+      "id": "Takdirmu bukan seperti ini.",
+      "th": "โชคชะตาของเธอยังไม่ถึงจุดจบ",
+      "vi": "Bạn vẫn chưa tới số."
     }
   },
   {

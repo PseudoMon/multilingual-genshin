@@ -32,7 +32,7 @@
   "description": {
     "zhs": "神秘的少女占星术士，声称自己是「伟大的占星术士莫娜」，拥有与名号相符的不俗实力，博学而高傲。",
     "zht": "神秘的少女占星術士，聲稱自己是「偉大的占星術士莫娜」，擁有與名號相符的不俗實力，博學而高傲。",
-    "jp": "謎の占星術師の少女、自分のことを「偉大なる占星術師モナ」と自称し、その肩書きに相応しい実力を持っている。博学であり高慢。",
+    "jp": "謎の占星術師の少女。自分のことを「偉大なる占星術師モナ」と自称するが、その肩書きに相応しい実力を持っている。博学で、高慢。",
     "ko": "신비로운 소녀 점성술사. 자칭 「위대한 점성술사 모나」. 명성에 걸맞은 뛰어난 실력을 가지고 있으며, 박학다식하나 거만하다",
     "en": "A mysterious young astrologer who proclaims herself to be \"Astrologist Mona Megistus,\" and who possesses abilities to match the title. Erudite, but prideful.",
     "de": "Eine geheimnisvolle Astrologin, die sich selbst als „Große Astrologin Mona“ bezeichnet. Doch nicht nur ihr Name macht einiges her. Ihre Stärke und ihr Wissen sind beeindruckend.",
@@ -40,8 +40,8 @@
     "fr": "Jeune astromancienne mystérieuse, Mona se surnomme elle-même « la grande astromancienne Mona », et fait preuve d'une force singulière et d'une érudition hors norme qui ne désavouent pas cette appellation.",
     "pt": "Uma jovem astróloga misteriosa que proclama a si mesma como a \"Grande Astróloga Mona Megistus\" e que possui as habilidades para o título. Uma pessoa erudita, mas orgulhosa.",
     "ru": "Таинственный молодой астролог, которая представляется как «великий астролог Мона Мегистус» и на самом деле достойна этого звания. Эрудирована и горделива.",
-    "id": "Seorang astrolog yang menyebut dirinya sendiri sebagai \"Astrologist Mona Megistus\", dan memiliki kemampuan yang sesuai dengan julukannya. Kepandaiannya setara dengan keangkuhannya.",
-    "th": "หญิงสาวลึกลับผู้เป็นโหรแห่งดวงดาว เรียกตัวเองว่า \"โหรแห่งดวงดาวผู้ยิ่งใหญ่ Mona\" มีความแข็งแกร่งอย่างล้นเหลือ ตามชื่อของเธอ ซึ่งมาพร้อมกับความรู้ และความภาคภูมิใจ",
+    "id": "Seorang astrolog yang menyebut dirinya sendiri sebagai \"Mona si Astrolog Hebat\", dan memiliki kemampuan yang sesuai dengan julukannya. Kepandaiannya setara dengan keangkuhannya.",
+    "th": "หญิงสาวลึกลับผู้เป็นโหรแห่งดวงดาว เรียกตัวเองว่า \"โหรแห่งดวงดาวผู้ยิ่งใหญ่ Mona\" มีความสามารถแข็งแกร่งสมชื่อ ทั้งเพรียบพร้อมด้วยความรู้ และเต็มเปี่ยมด้วยความภาคภูมิ",
     "vi": "Thuật sĩ thần bí, tự xưng là nhà chiêm tinh vĩ đại, có thực lực bất phàm, thông minh cao ngạo."
   },
   "constellation": {

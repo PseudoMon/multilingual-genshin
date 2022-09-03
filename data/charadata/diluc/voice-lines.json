@@ -26,8 +26,8 @@
       "fr": "Diluc de Mondstadt. Épargnez-moi tout bavardage inutile, mais faites-moi signe si vous souhaitez que je me charge de quelque chose pour vous.",
       "pt": "Diluc, de Mondstadt. Não estou interessado em bate-papo. Se você quiser fazer sucesso, me avise.",
       "ru": "Дилюк, из Мондштадта. Я не люблю пустые разговоры. Дай знать, если понадобится помощь.",
-      "id": "Diluc dari kota Mondstadt, datang sesuai perjanjian. Beri tahu aku kalau kamu ingin melakukan sesuatu yang besar. Jujur, aku merasa sedikit tertarik.",
-      "th": "Diluc แห่ง Mondstadt ไม่สนใจในการพูดคุยไร้สาระ แต่ถ้าอยากจะทำเรื่องที่ยิ่งใหญ่ ฉันก็พอจะสนใจอยู่บ้าง",
+      "id": "Aku Diluc dari Mondstadt. Tidak suka basa-basi. Kalau ada urusan yang harus diselesaikan, beri tahu saja aku.",
+      "th": "Diluc แห่ง Mondstadt มาตามคำสัญญา ขอไม่ร่วมพูดคุยเรื่องไร้สาระ แต่ถ้าอยากจะทำเรื่องที่ยิ่งใหญ่ ฉันก็พอจะสนใจอยู่บ้าง",
       "vi": "#Diluc của thành Mondstadt, đến đây theo lời mời. Nói chuyện phiếm thì thứ lỗi tôi không tiếp, nhưng nếu {F#cô}{M#cậu} muốn làm chuyện lớn, thì tôi rất có hứng thú."
     }
   },
@@ -90,7 +90,7 @@
       "fr": "Vous devriez vraiment amener quelques chevaliers de l'Ordre avec vous la prochaine fois.",
       "pt": "Você realmente deveria trazer os Cavaleiros de Favonius com você da próxima vez.",
       "ru": "В следующий раз тебе бы следовало взять с собой рыцарей Ордо Фавониус.",
-      "id": "Seharusnya para Knight itu yang menemanimu.",
+      "id": "Seharusnya kamu ajak mereka Knights of Favonius itu bepergian denganmu lain kali.",
       "th": "ครั้งหน้าน่าจะให้พวกอัศวินแห่ง Favonius มากับเธอแทนนะ",
       "vi": "#Nên để người của Đội Kỵ Sĩ đi cùng {F#cô}{M#cậu}."
     }
@@ -215,10 +215,10 @@
       "en": "Every course of action has its risks. Be careful.",
       "de": "Jede Aktion ist zwangsläufig mit Risiken verbunden. Daher musst du besonders vorsichtig sein.",
       "es": "Toda acción conlleva un riesgo. Ten cuidado.",
-      "fr": "Chaque opération comporte sa part de risque. Tu dois redoubler de prudence.",
+      "fr": "Chaque opération comporte sa part de risque. Il faut redoubler de prudence.",
       "pt": "Toda operação possui seus riscos. Tenha cuidado.",
       "ru": "У каждого действия есть свои риски. Нельзя забывать об осторожности.",
-      "id": "Walaupun memang setiap perbuatan ada risikonya, kita harus tetap berhati=hati.",
+      "id": "Walaupun memang setiap perbuatan ada risikonya, kita harus tetap berhati-hati.",
       "th": "ทุกย่างก้าวล้วนมีความเสี่ยงเสมอ เธอต้องระวังตัวให้ดีนะ",
       "vi": "Bất kỳ hành động nào cũng đều có rủi ro, cho nên phải cẩn thận hơn."
     }
@@ -347,7 +347,7 @@
       "pt": "Alguns usam o assobio do vento para abafar o som de seus crimes.",
       "ru": "За воем ветра можно скрыть звуки совершающегося преступления.",
       "id": "Suara angin yang memekakkan telinga ini bisa digunakan untuk menutupi jejak kejahatan.",
-      "th": "เสียงพัดหวิวของสายลมจะถูกนำ มาใช้เพื่อปกปิดร่องรอยของ ความชั่วร้าย",
+      "th": "เสียงพัดหวิวของสายลม จะถูกนำมาใช้เพื่อปกปิดร่องรอยของความชั่วร้าย",
       "vi": "Tiếng gió rít được dùng để che giấu dấu vết phạm tội."
     }
   },
@@ -374,7 +374,7 @@
       "ko": "인사치레는 관두고, 어젯밤 무사히 보냈으면 됐어",
       "en": "No need for small talk. All that matters is that you were safe last night.",
       "de": "Keine Zeit für Höflichkeiten. Hauptsache ist, dass letzte Nacht alles in Ordnung war.",
-      "es": "Saludos. Me alegro de que hayas dormido bien.",
+      "es": "Puedes ahorrarte las pleitesías. Me alegro de que hayas dormido bien.",
       "fr": "L'heure n'est pas au bavardage. Tout ce qui compte est que vous soyez hors de danger.",
       "pt": "Não há necessidade de conversa fiada. O que importa é que você estava seguro ontem à noite.",
       "ru": "Нет нужды в болтовне. Важно только то, что ночь прошла спокойно.",
@@ -410,7 +410,7 @@
       "fr": "Vous voulez jeter un œil à notre menu secret ?",
       "pt": "Você gostaria de provar o nosso menu secreto?",
       "ru": "Хочешь попробовать что-нибудь из нашего тайного меню?",
-      "id": "Apakah mau mencoba menu tersembunyi?",
+      "id": "Apakah mau mencoba menu rahasia?",
       "th": "อยากจะลองเมนูลับหน่อยมั้ยล่ะ?",
       "vi": "Có muốn thử thực đơn bí mật không?"
     }
@@ -502,12 +502,12 @@
       "ko": "「다크 히어로」 전설? 재미있는 전설이지",
       "en": "The legend of the \"Darknight Hero\"? An interesting rumor.",
       "de": "Die Legende vom „Helden der Nacht“? Das hört sich interessant an.",
-      "es": "¿La leyenda del “Héroe Oscuro”? Un rumor muy interesante...",
+      "es": "¿La leyenda del “Héroe Oscuro”? Qué rumor tan interesante...",
       "fr": "La légende du Héros de la Nuit ? Intéressant.",
       "pt": "A lenda do \"Herói Obscuro\"? Um boato interessante.",
       "ru": "Легенда о «Полуночном герое»? Интересно...",
       "id": "Legenda \"Darknight Hero\"? Rumor menarik.",
-      "th": "\"ตำนานของ Darknight Hero งั้นเหรอ? ก็เป็นเรื่องเล่าที่น่าสนใจดีนะ\"",
+      "th": "ตำนานของ \"Darknight Hero\" งั้นเหรอ? ก็เป็นเรื่องเล่าที่น่าสนใจดีนะ",
       "vi": "Truyền thuyết về \"Anh Hùng Bóng Đêm\" hả? Tin đồn thú vị."
     }
   },
@@ -538,7 +538,7 @@
       "fr": "Faites-moi savoir si vous avez besoin de quoi que ce soit. Pour les remboursements, il faudra s'adresser à Elzer.",
       "pt": "Se precisar de algo é só dizer. Para reembolsos, fale com Elzer.",
       "ru": "Дай знать, если тебе нужна помощь. За выплатами обращайся к Эльзеру.",
-      "id": "Katakan saja apa yang kamu butuhkan. Urusan biaya biar Elzer yang urus.",
+      "id": "Katakan saja apa yang kamu butuhkan. Urusan penggantian biaya biar Elzer yang urus.",
       "th": "มีอะไรก็ว่ามา ถ้าจะเบิกค่าใช้จ่ายก็ไปติดต่อ Elzer",
       "vi": "Cần gì thì cứ nói. Vấn đề chi phí thì hãy tìm Elzer."
     }
@@ -556,7 +556,7 @@
       "pt": "Sobre Nós - Prova",
       "ru": "О нас: Доказательства",
       "id": "Tentang kami: Bukti",
-      "th": "เกี่ยวกับเรา - การรับรอง",
+      "th": "เกี่ยวกับเรา - การพิสูจน์",
       "vi": "Về chúng tôi - Chứng minh"
     },
     "line": {
@@ -599,10 +599,10 @@
       "en": "Visions are a light in the sea of darkness that surrounds those who have lost their way. But for those who have faith, they are little more than badges of conviction.",
       "de": "Für diejenigen, die den Pfad vor Augen verloren haben, ist ein „Göttliches Auge“ ein Licht in der Dunkelheit. Für die jedoch, die erfüllt sind vom Glauben, für die ist es bloß ein Medaillon.",
       "es": "Las Visiones son como una luz que rodea a los que se han perdido en el mar de la oscuridad. Pero, para aquellos que tienen fe, no son más que una medalla sin significado.",
-      "fr": "L'œil divin est telle une lumière pour ceux qui ne distinguent pas le chemin ; mais pour ceux qui ont la foi, ce n'est rien de plus qu'une médaille à prendre ou à jeter.",
+      "fr": "L'œil divin est telle une lumière pour ceux qui ne distinguent pas le chemin. Mais pour ceux qui ont la foi, ce n'est rien de plus qu'une médaille à prendre ou à jeter.",
       "pt": "Para os que estão sem direção, a Visão pode ser uma estrela-guia. Mas para quem está com a fé firme, a Visão é apenas uma medalha ignorável.",
       "ru": "Глаз Бога - это свет в море тьмы, окружающей заблудшие души. Но для тех, кто имеет веру, Глаз Бога всего лишь символ признания.",
-      "id": "Bagi mereka yang tidak dapat melihat jalan di depan, \"Vision\" bisa menjadi sebuah pelita yang menerangi. Tetapi, bagi mereka yang memiliki keyakinan, vision hanya menjadi sebuah medali yang tidak terlalu diperlukan.",
+      "id": "Bagi mereka yang tidak dapat melihat jalan di depan, \"Vision\" bisa menjadi sebuah pelita yang menerangi. Tetapi, bagi mereka yang memiliki keyakinan, vision tidak lebih dari sebuah medali keyakinan saja.",
       "th": "สำหรับผู้ที่ไม่สามารถมองเห็นเส้น ทางข้างหน้าได้อย่างชัดเจน บางที \"วิชั่น\" อาจจะเป็นแสงสว่างจากเทพเจ้า แต่สำหรับคนที่มีความเชื่อมั่น มันก็เป็นเพียงเหรียญประดับที่จะมีหรือไม่มีก็ได้",
       "vi": "Đối với những người không thể nhìn thấy con đường phía trước mà nói, Vision có lẽ là ngọn đèn của thần. Nhưng đối với những người có niềm tin, nó chỉ là một huy chương có cũng được mà không có cũng chẳng sao."
     }
@@ -632,9 +632,9 @@
       "de": "Von Zeit zu Zeit helfe ich in der „Engelsgabe“ aus, weil Tavernen die Informationszentren einer Stadt sind.",
       "es": "De vez en cuando trabajo en la taberna El Obsequio del Ángel. Es conocida por ser el centro de información de Mondstadt.",
       "fr": "Je sers à boire au Cadeau de l'Ange parfois. On en apprend des choses dans les tavernes...",
-      "pt": "De vez em quando eu misturo as bebidas pessoalmente na Presentes dos Anjos, porque a Taverna é um lugar ideal para circulação das informações.",
+      "pt": "De vez em quando eu preparo as bebidas pessoalmente na Presentes dos Anjos, porque a Taverna é um lugar ideal para circulação das informações.",
       "ru": "Иногда я остаюсь поработать в «Доле ангелов». Именно в таверну стекаются все слухи Мондштадта.",
-      "id": "Aku kadang-kadang pergi ke \"Angel's Share\" untuk meracik anggur sendiri, karena Tavern adalah tempat berkumpulnya informasi.",
+      "id": "Aku kadang-kadang pergi ke \"Angel's Share\" untuk meracik anggur sendiri, karena Tavern adalah tempat berkumpulnya informasi di Mondstadt.",
       "th": "บางครั้งฉันก็จะไปที่ Angel's Share เพื่อทำเครื่องดื่มด้วยตัวเอง เพราะว่าร้านเหล้าน่ะเป็นสถานที่ที่ สามารถรวบรวมข่าวสารได้อย่างดี",
       "vi": "Thỉnh thoảng tôi sẽ đến Quà Tặng Của Thiên Sứ để tự pha rượu, bởi vì quán rượu chính là nơi tập trung thông tin tình báo."
     }
@@ -666,8 +666,8 @@
       "fr": "... C'est une chouette. Elle surveille sa proie depuis l'ombre de la nuit, attendant le moment idéal pour frapper... Une créature parfaite.",
       "pt": "É Noctua, um animal feroz, que vigia na escuridão, e ataca em um instante quando chegar a oportunidade, sem nenhuma falha.",
       "ru": "Что? А почему ты спрашиваешь? ...Это сова, тихо наблюдающая за своей добычей из темноты, выжидающая идеального момента для удара... Безупречно.",
-      "id": "...Itu burung hantu. Burung pemangsa yang mengawasi dan mengamati di dalam kegelapan, dia akan mengambil tindakan pada waktu yang paling tepat dan tanpa cacat.",
-      "th": "...นกฮูก ผู้เฝ้ามองในความมืด นกนักล่าที่จะลงมือล่าในจังหวะที่ เหมาะที่สุดเท่านั้น ไร้ซึ่งจุดอ่อนใด ๆ",
+      "id": "Hah? Kenapa kamu bertanya begitu? Jawabanku tentu burung hantu. Dia akan diam-diam mengawasi mangsanya dari kegelapan, lalu menunggu waktu yang pas untuk menyergapnya ... Sempurna.",
+      "th": "...นกฮูก ผู้เฝ้ามองในความมืด นกนักล่าผู้เฝ้าสังเกต จะลงมือในจังหวะที่เหมาะสมที่สุดเท่านั้น ไร้ซึ่งจุดอ่อนใด ๆ",
       "vi": "...Đó là cú đêm. Loài chim canh giữ và quan sát trong bóng tối, chỉ hành động vào thời điểm thích hợp nhất, không có bất kỳ sơ hở nào."
     }
   },
@@ -698,7 +698,7 @@
       "fr": "Kaeya ? On ne peut jamais vraiment se fier à tout ce qui sort de sa bouche.",
       "pt": "Kaeya? Você só pode confiar em metade do que ele diz... Na melhor das hipóteses.",
       "ru": "Кэйа? Ты можешь доверять ему только наполовину... И то в лучшем случае.",
-      "id": "Kaeya... kamu paling hanya boleh percaya setengah saja dari apa yang dikatakannya.",
+      "id": "Kaeya? Kamu paling bisa percaya setengah saja apa ucapannya ... itu pun maksimal.",
       "th": "Kaeya งั้นเหรอ... คำพูดของหมอนั่นน่ะ เชื่อได้แค่ครึ่งเดียวเท่านั้นแหละนะ",
       "vi": "Kaeya à... những điều hắn nói, chỉ có thể tin một nửa."
     }
@@ -762,8 +762,8 @@
       "fr": "Ne pas savoir différencier le futile de l'essentiel est la plus grande faiblesse de Jean.",
       "pt": "Questões triviais podem se tornar o maior inimigo de Jean.",
       "ru": "Бессмысленные поручения могут стать злейшим врагом Джинн.",
-      "id": "Masalah sepele yang tak berarti adalah musuh terbesar Jean.",
-      "th": "เรื่องเล็กน้อยไร้สาระคือศัตรูที่ ยิ่งใหญ่ที่สุดของ Jean",
+      "id": "Masalah sepele bisa jadi musuh terbesar Jean.",
+      "th": "เรื่องเล็กน้อยไร้สาระคือ ศัตรูที่ยิ่งใหญ่ที่สุดของ Jean",
       "vi": "Những chuyện vặt vãnh vô nghĩa là kẻ thù lớn nhất của Jean."
     }
   },
@@ -795,7 +795,7 @@
       "pt": "Seu senso de responsabilidade incomparável é a única razão pela qual ela ainda não encontrou seu verdadeiro chamado.",
       "ru": "Её несравненное чувство ответственности - единственная причина, по которой она до сих пор не нашла своего истинного призвания.",
       "id": "Rasa tanggung jawab Jean yang berlebihan adalah satu-satunya alasan mengapa dia masih belum menemukan panggilan sejatinya.",
-      "th": "ท้ายที่สุดแล้วความรู้สึกรับผิดชอบที่สูงเกินผู้อื่นของ Jean นั้นจะทำให้เธอมองไม่เห็นความรับ ผิดชอบที่แท้จริงของเธอ",
+      "th": "ท้ายที่สุดแล้ว ความรู้สึกรับผิดชอบที่สูงเกินผู้อื่นของ Jean นั้น จะทำให้เธอมองไม่เห็นความรับผิดชอบที่แท้จริงของตัวเอง",
       "vi": "Ý thức trách nhiệm không ai bì kịp của Jean, cuối cùng đã khiến cô ấy không thể nhìn rõ trách nhiệm thực sự của mình."
     }
   },
@@ -826,8 +826,8 @@
       "fr": "Les terres de Mondstadt sont déjà bénies par l'Archon Anémo. Nul besoin d'une astromancienne pour prédire les récoltes.",
       "pt": "O solo de Mondstadt é abençoado pelo Arconte Anemo, portanto, não é preciso prever a colheita por uma astróloga.",
       "ru": "По велению Анемо Архонта земля Мондштадта очень плодотворна. Я не вижу надобности в предсказаниях о хорошем урожае.",
-      "id": "Tanah Mondstadt dianugerahi dengan berkat dari Dewa angin, sehingga orang tidak perlu memanggil para peramal untuk memprediksi panen.",
-      "th": "Mondstadt คือดินแดนแห่งความกรุณาของ เทพแห่งสายลม คงไม่จำเป็นต้องอาศัยการทำนาย ผลการเก็บเกี่ยวของโหรแห่ง ดวงดาวหรอกมั้ง",
+      "id": "Tanah Mondstadt subur berkat anugerah dari Archon Anemo. Kurasa tidak perlu mengandalkan para peramal untuk memprediksi panen.",
+      "th": "Mondstadt คือดินแดนซึ่งอุดมไปด้วยความกรุณาของเทพแห่งสายลม คงไม่จำเป็นต้องอาศัยการทำนายเรื่องผลการเก็บเกี่ยวจากโหรแห่งดวงดาวหรอกมั้ง",
       "vi": "Vùng đất Mondstadt thấm đẫm ân trạch của Phong Thần, vì vậy không cần sự giúp đỡ của các nhà chiêm tinh để dự đoán vụ mùa nữa nhỉ."
     }
   },
@@ -852,14 +852,14 @@
       "zht": "迪奧娜對我的態度很是生硬，我也一直沒找到合適的機會交流。如果是涉及到家族恩怨的話…嗯？不是？只是單純地討厭酒？沒想到在這蒙德，也會有討厭酒的酒保啊。",
       "jp": "ディオナは僕に堅い態度を取る、それに僕自身も彼女と交流する機会に恵まれてこなかった。家族の恨みが…ん？違う？単に酒が嫌いだと？このモンドに酒の嫌いなバーテンダーがいるとはな。",
       "ko": "디오나가 퉁명하게 굴어서 말 붙일 기회를 잡지 못했어. 가족의 원한이 걸린 거라면…. 음, 아냐? 그냥 술이 싫은 거라고? 몬드에서 술을 싫어하는 바텐더가 있을 줄이야",
-      "en": "Diona's attitude towards me is... how should I put it? Rather rigid. I've yet to find the opportunity to speak with her properly. I'm not sure if its an issue with my family line or— Oh? It's not? She simply despises alcohol? Huh... I never thought I'd come across another bartender like myself in Mondstadt.",
+      "en": "Diona's attitude towards me is... how should I put it? Rather rigid. I've yet to find the opportunity to speak with her properly. I'm not sure if it's an issue with my family line or— Oh? It's not? She simply despises alcohol? Huh... I never thought I'd come across another bartender like myself in Mondstadt.",
       "de": "Diona war immer etwas grob zu mir und bisher war ich nicht in der Lage gewesen, die richtige Gelegenheit für ein Gespräch zu finden. Wenn es nun um eine Familienfehde geht ... Was? Nein? Hasst sie einfach nur Alkohol? Ich hätte nicht gedacht, dass es in dieser Stadt auch noch Schankdamen geben würde, die Alkohol hassen.",
       "es": "Diona es un poco dura conmigo. Todavía tengo que encontrar la oportunidad de hablar con ella. No estoy seguro de si tiene un problema con mis ancestros o... ¿Eh? ¿No es eso? ¿Dices que simplemente desprecia el alcohol? Humm... Nunca pensé que me encontraría con otro cantinero como yo en Mondstadt.",
       "fr": "Diona se comporte de façon très froide avec moi... Je n'ai jamais vraiment eu l'occasion de lui parler. Elle pourrait avoir un problème avec ma famille ou... Ah, c'est l'alcool qu'elle déteste ? Je n'aurais jamais pensé qu'il existait une barmaid qui détestait l'alcool à Mondstadt...",
       "pt": "A atitude da Diona em relação a mim é... Como devo dizer? Um pouco rígida. Ainda não encontrei a oportunidade de falar com ela corretamente. Não tenho certeza se é um problema com minha linhagem familiar ou... Oh? Não é? Ela simplesmente despreza o álcool? Nunca pensei que me encontraria com outra bartender como eu em Mondstadt.",
       "ru": "Отношение Дионы ко мне такое... Как бы это сказать? Довольно непреклонное. Я ещё не нашёл возможности поговорить с ней должным образом. Не уверен, не нравится ли ей моё семейное древо или... Что? Она просто презирает алкоголь? Ха... Никогда не думал, что встречу в Мондштадте другого бармена, похожего на меня.",
-      "id": "Sikap Diona kepadaku sangat dingin, aku pun tidak pernah menemukan kesempatan yang cocok untuk berkomunikasi dengannya. Kalau itu berhubungan dengan keluhan keluarga... Hmm? Maksudku... Hanya tidak menyukai anggur? Tidak diduga, ternyata di Mondstadt ada bartender yang tidak suka dengan anggur.",
-      "th": "Diona น่ะแข็งกร้าวกับฉันมาก และฉันก็ไม่รู้ว่าจะพูดคุยกับเธอตอนไหนดี ถ้ามันเป็นความข้องใจเกี่ยวกับตระกูลล่ะก็... หืม? ไม่ใช่งั้นเหรอ? แค่เกลียดเหล้าเท่านั้น? นึกไม่ถึงว่าที่ Mondstadt จะมีบาร์เทนเดอร์ที่ไม่ชอบเหล้าอยู่ ด้วยนะเนี่ย",
+      "id": "Sikap Diona kepadaku ... bagaimana aku harus menjelaskannya ya? Agak dingin. Aku pun tidak pernah menemukan kesempatan yang pas untuk berkomunikasi dengannya. Aku tidak yakin apa itu ada hubungannya dengan garis keturunan keluarganya, atau ... Hmm? Maksudku ... Dia tidak suka anggur? Tidak diduga, ternyata di Mondstadt ada juga bartender yang tidak suka dengan anggur.",
+      "th": "Diona น่ะแข็งกร้าวกับฉันมาก และฉันก็ไม่รู้ว่าจะพูดคุยกับเธอตอนไหนดี ถ้ามันเป็นความข้องใจเกี่ยวกับตระกูลล่ะก็... หืม? ไม่ใช่งั้นเหรอ? แค่เกลียดเหล้าเท่านั้น? นึกไม่ถึงว่าที่ Mondstadt จะมีบาร์เทนเดอร์ที่ไม่ชอบเหล้าอยู่ด้วย",
       "vi": "Thái độ của Diona với tôi rất gượng gạo, tôi vẫn chưa tìm được cơ hội thích hợp để nói chuyện. Nếu là liên quan đến ân oán gia tộc thì... Hả? Không phải? Chỉ đơn giản là ghét rượu? Thật không ngờ ở Mondstadt lại có người pha chế rượu ghét rượu."
     }
   },
@@ -890,8 +890,8 @@
       "fr": "Le Grand Maître... Bien que je comprenne sa position, je ne pourrais jamais approuver ses actions... Ahem, j'en ai trop dit. J'ai quitté l'Ordre de Favonius depuis longtemps, cela ne me concerne plus.",
       "pt": "Grande Mestre Varka... Enquanto eu entendo a sua posição, não consigo entender suas ações... Eu já falei demais. Há muito tempo que deixei de ser Cavaleiro de Favonius. Esqueça o que eu disse.",
       "ru": "Магистр Варка... Я понимаю его позицию, но его действия я одобрить не могу... Я сказал слишком много... Я уже давно покинул орден. Забудь, что я сказал.",
-      "id": "Grand Master Varka, aku paham posisinya, tapi aku tetap saja tidak bisa seirama dengan gayanya. Huh... maafkan, mulutku ini memang terlalu comel. Aku bukan lagi seorang Knights of Favonius, lupakan saja apa yang barusan kukatakan.",
-      "th": "ผู้บัญชาการ Varka... ก็พอจะเข้าใจจุดยืนของเขาได้นะ แต่ไม่มีทางเห็นด้วย กับวิธีการของเขาเลย เหอะ... พูดมากเกินไปแล้วสิ ฉันไม่ใช่กองอัศวินแห่ง Favonius แล้วนี่นะ ลืมเรื่องที่ฉันพูดซะเถอะนะ",
+      "id": "Grand Master Varka, aku paham posisinya, tapi aku tetap saja tidak bisa seirama dengan gayanya. Huh ... maafkan, mulutku ini memang terlalu comel. Aku bukan lagi seorang Knights of Favonius, lupakan saja apa yang barusan kukatakan.",
+      "th": "ผู้บัญชาการ Varka... ก็พอจะเข้าใจจุดยืนของเขาได้นะ แต่ไม่สามารถเห็นด้วยกับวิธีการของเขาได้เลย เหอะ... พูดมากเกินไปแล้วสิ ฉันไม่ใช่กองอัศวินแห่ง Favonius แล้วนี่นะ ลืมเรื่องที่ฉันพูดไปซะเถอะ",
       "vi": "Đại Đội Trưởng Varka, tôi có thể hiểu lập trường của anh ấy, nhưng không thể đồng ý với tác phong của anh ấy. Hừ... tôi nhiều lời rồi. Từ lâu tôi đã không còn là một kỵ sĩ Tây Phong, hãy quên những gì tôi nói đi."
     }
   },
@@ -919,10 +919,10 @@
       "en": "Ah, yes... I've heard about her. She has her own convictions. Her determination to liberate herself from the shackles of her clan is praiseworthy. But, she's... joined the Knights of Favonius.",
       "de": "Ich habe von ihr gehört. Sie hat ihr eigenes Ideal. Auch ihr Versuch, sich von den Fesseln ihrer Familie zu befreien, ist lobenswert. Doch sie ... schloss sich dem Ordo Favonius an.",
       "es": "He oído hablar de ella. Tiene sus propias ideas. Su determinación por liberar a su familia de las cadenas que la aprisionan es muy loable. Y, sin embargo... se unió a los Caballeros de Favonius.",
-      "fr": "J'en ai entendu parler. Une femme qui a ses convictions propres. Sa détermination à se libérer des chaînes de son clan est admirable. Mais... il a fallu qu'elle rejoigne les chevaliers de l'Ordre.",
+      "fr": "J'en ai entendu parler. Une femme qui a ses propres convictions. Sa détermination à se libérer des chaînes de son clan est admirable. Mais... il a fallu qu'elle rejoigne les chevaliers de l'Ordre.",
       "pt": "Ouvi falar sobre ela. Ela tem suas próprias convicções. Sua determinação para se libertar do seu clã é digna de elogios, mas... Ela se juntou aos Cavaleiros de Favonius...",
       "ru": "Я слышал о ней, и у неё есть свои убеждения. Желание вырваться из оков её клана также заслуживает похвалы. И все же она... Присоединилась к рыцарям Ордо Фавониус.",
-      "id": "Aku sudah dengar tentang dia. Dia punya masalahnya sendiri. Kegigihannya untuk membebaskan dirinya sendiri dari belenggu klannya layak untuk dipuji. Tapi, dia... bergabung dengan Knights of Favonius.",
+      "id": "Aku sudah dengar tentang dia. Dia punya masalahnya sendiri. Kegigihannya untuk membebaskan dirinya sendiri dari belenggu klannya layak untuk dipuji. Tapi, dia ... bergabung dengan Knights of Favonius.",
       "th": "ฉันเคยได้ยินเรื่องราวเกี่ยวกับเธอนะ เธอเป็นคนที่มีความคิดเป็นของตัวเอง และความพยายามเพื่อให้หลุดพ้นจากพันธนาการของตระกูลนั้นก็น่าชื่นชมเช่นกัน แต่เธอ...กลับเข้าร่วมกองอัศวินแห่ง Favonius",
       "vi": "Tôi đã từng nghe về cô ấy, cô ấy có quan niệm riêng của mình, nỗ lực thoát khỏi sự ràng buộc của gia tộc là chuyện đáng khen. Nhưng cô ấy... lại gia nhập Đội Kỵ Sĩ Tây Phong."
     }
@@ -955,7 +955,7 @@
       "pt": "Em que posso ajudar?",
       "ru": "Чем могу служить?",
       "id": "Apa yang sedang kamu lakukan?",
-      "th": "มีอะไรให้รับใช้?",
+      "th": "มีธุระอะไร?",
       "vi": "Có việc gì không?"
     }
   },
@@ -986,8 +986,8 @@
       "fr": "L'Ordre de Favonius ? Hmpf, je n'ai rien de bien à vous raconter à leur égard. Nous ne sommes pas sur la même longueur d'onde.",
       "pt": "Eh? Você está perguntando sobre os Cavaleiros de Favonius? Não tenho nada para dizer! Somos diferentes.",
       "ru": "Что? Ордо Фавониус? Хм... Мне нечего сказать. У нас с ними просто разные взгляды и всё.",
-      "id": "Hmm, kamu bertanya tentang Knights of Favonius? Umm... tidak ada yang perlu dibicarakan, panggilan hidup mereka berbeda.",
-      "th": "อืม กองอัศวินงั้นเหรอ? เชอะ... ไม่มีอะไรให้พูดถึงนักหรอก ก็แค่เลือกเดินคนละเส้นทางแค่นั้น",
+      "id": "Hmm, kamu bertanya tentang Knights of Favonius? Umm ... tidak ada yang perlu dibicarakan, pandangan hidupku dengan mereka berbeda.",
+      "th": "อืม กองอัศวินงั้นเหรอ? หึ... ไม่มีอะไรให้พูดถึงนักหรอก ก็แค่เลือกเดินคนละเส้นทางแค่นั้น",
       "vi": "#Ừm, {F#cô}{M#cậu} hỏi Đội Kỵ Sĩ? Hừm... không có gì để nói, chỉ là không cùng định hướng mà thôi."
     }
   },
@@ -1016,10 +1016,10 @@
       "de": "Es ist schon lange her, dass ich Schach mit jemandem außer meinem Haushälter gespielt habe. Ich habe genau jetzt einen Moment Zeit für eine Partie.",
       "es": "Ha pasado mucho tiempo desde que jugué al ajedrez con alguien que no sea mi mayordomo. Da la casualidad de que tengo tiempo libre ahora. ¿Querrías jugar una partida conmigo?",
       "fr": "Je n'ai pas joué aux échecs contre un adversaire autre que mon majordome depuis très longtemps. Voudriez-vous faire une partie ? C'est une opportunité qui ne se représentera pas de sitôt.",
-      "pt": "Faz muito tempo que não joguei xadrez com ninguém além do meu mordomo. Por acaso tenho um pouco de tempo. Gostaria de jogar uma partida?",
+      "pt": "Faz muito tempo que não jogo xadrez com ninguém além do meu mordomo. Por acaso tenho um pouco de tempo. Gostaria de jogar uma partida?",
       "ru": "Я давно не играл ни с кем в шахматы, кроме моего дворецкого. Как раз сейчас у меня выдалась свободная минутка. Хочешь сыграть со мной?",
       "id": "Sudah lama aku tidak bermain melawan orang lain selain kepala pelayan. Sulit sekali memiliki waktu senggang seperti ini, ayo kita mulai permainan caturnya.",
-      "th": "นอกจากพ่อบ้านแล้วฉันก็ไม่ได้เล่น หมากรุกกับใครมานานแล้วนะ โอกาสหายากอย่างนี้ จะมาลองเล่นกันหน่อยมั้ยล่ะ?",
+      "th": "นอกจากพ่อบ้าน ฉันก็ไม่ได้เล่นหมากรุกกับใครมานานแล้ว โอกาสหายากอย่างนี้ จะมาลองเล่นกันหน่อยมั้ยล่ะ?",
       "vi": "Lâu lắm rồi không chơi cờ với người khác ngoài quản gia rồi. Thật hiểm có khoảng thời gian rảnh này, hãy chơi với tôi một ván."
     }
   },
@@ -1048,9 +1048,9 @@
       "de": "Schachmatt. Puh, es ist nicht leicht, mich bis zu diesem Punkt zu drängen.",
       "es": "¡Jaque mate! Aun así, hace mucho que alguien me lo pone tan difícil en el ajedrez.",
       "fr": "Échec et mat. Peu nombreux sont ceux qui ont réussi à me mettre en difficulté de la sorte.",
-      "pt": "Xeque-mate! Você conseguiu me esforçar a este ponto! Você tem jeito para isso mesmo.",
+      "pt": "Xeque-mate! Você conseguiu me esforçar a este ponto! Você tem mesmo jeito para isso.",
       "ru": "Шах и мат! Давненько у меня не было такой интересной игры.",
-      "id": "*skak* Huh, hebat juga kamu bisa membuat posisiku terdesak seperti ini.",
+      "id": "Skakmat! Huh, sudah lama aku tidak pernah terdesak oleh orang lain seperti ini.",
       "th": "รุกฆาต!... หึ แต่ก็ไล่ต้อนฉันได้ขนาดนี้ ไม่เลวเหมือนกันนะ",
       "vi": "Chiếu tướng. Hừ, có thể chèn ép tôi đến mức này, thật không dễ dàng."
     }
@@ -1078,11 +1078,11 @@
       "ko": "자네 꽤 실력 있군. 체스도 그렇고, 함께하는 전투도 아주 믿음직해. 아니… 이런 협력관계는 나한테도 신기해…. 그럼 앞으로도 함께하지, 「친구」",
       "en": "Not bad. Be it chess or combat, you always seem to surprise me. Hm, working with you is quite the novelty. So... I look forward to continuing to work with you, partner.",
       "de": "Nicht schlecht. Egal ob beim Schach oder im Kampf, du hast immer noch ein Ass im Ärmel. Mit dir zusammenzuarbeiten, ist mal was ganz anderes. Also, ich freue mich auf unsere weitere Zusammenarbeit als „Partner“.",
-      "es": "#No está nada mal. Tú siempre me sorprendes, ya sea en el ajedrez o en el combate. Hum... trabajar contigo es toda una novedad. Espero seguir trabajando contigo, soci{F#a}{M#o}.",
+      "es": "#No está nada mal. Tú siempre me sorprendes, ya sea en el ajedrez o en el combate. Humm... Trabajar contigo es toda una novedad. Espero que sigamos trabajando juntos, soci{F#a}{M#o}.",
       "fr": "#Pas mal. Vous êtes toujours {M#plein}{F#pleine} de surprises, que ce soit aux échecs ou en combat. Ce genre de collaboration est assez nouveau pour moi, mais ce n'est pas pour me déplaire... Je compte désormais sur vous, {M#cher partenaire}{F#chère partenaire}.",
       "pt": "#Ainda bem. Independentemente de se tratar de xadrez ou combate, o seu comportamento é destacável! Esse tipo de... Cooperação, parece ser muito interessante... Espero que possamos continuar dessa maneira, {F#minha companheira}{M#meu companheiro}.",
       "ru": "Неплохо. Ты постоянно удивляешь меня, будь то битва или шахматы. Хм... Работа с тобой пробуждает во мне чувство новизны, поэтому... Я бы хотел и дальше сопровождать тебя, партнёр.",
-      "id": "Kamu boleh juga. Baik bermain catur maupun bertempur, kemampuanmu sangat mengesankan. Hmm, kerja sama semacam ini juga merupakan hal baru bagiku... Kalau begitu, mulai dari sekarang, ayo pergi bersama-sama, partner.",
+      "id": "Kamu boleh juga. Baik bermain catur maupun bertempur, kemampuanmu sangat mengesankan. Hmm, kerja sama semacam ini juga merupakan hal baru bagiku ... Kalau begitu, mulai dari sekarang, ayo pergi bersama-sama, partner.",
       "th": "เธอนี่ไม่เลวเลยนะ ไม่ว่าจะเป็นการเล่นหมากรุกหรือ การต่อสู้ ก็น่าดึงดูดทั้งนั้นเลย อืม... การร่วมมืออย่างนี้สำหรับฉันแล้วก็ถือว่าแปลกใหม่เหมือนกัน... งั้นวันหลังก็มาร่วมทางกันอีกนะ \"เพื่อน\"",
       "vi": "#{F#Cô}{M#Cậu} rất khá. Bất kể là chơi cờ hay chiến đấu, đều thể hiện một cách rất ấn tượng. Không... kiểu hợp tác này thực sự rất mới lạ... vậy thì, sau này cùng đồng hành nhé, \"đồng đội\"."
     }
@@ -1093,7 +1093,7 @@
       "zht": "迪盧克的愛好…",
       "jp": "ディルックの趣味…",
       "ko": "다이루크의 취미…",
-      "en": "Diluc's Hobbies...",
+      "en": "Diluc's Hobbies",
       "de": "Dilucs Hobbys ...",
       "es": "Aficiones de Diluc...",
       "fr": "Les loisirs de Diluc...",
@@ -1125,7 +1125,7 @@
       "zht": "迪盧克的煩惱…",
       "jp": "ディルックの悩み…",
       "ko": "다이루크의 고민…",
-      "en": "Diluc's Troubles...",
+      "en": "Diluc's Troubles",
       "de": "Dilucs Sorgen ...",
       "es": "Preocupaciones de Diluc...",
       "fr": "Les problèmes de Diluc...",
@@ -1163,7 +1163,7 @@
       "fr": "Plats préférés...",
       "pt": "Comida Favorita...",
       "ru": "Любимая еда...",
-      "id": "Makanan favorit",
+      "id": "Makanan Favorit",
       "th": "อาหารที่ชอบ...",
       "vi": "Món ăn yêu thích..."
     },
@@ -1174,7 +1174,7 @@
       "ko": "잔에 든 게 무슨 술이냐고? 포도 주스일세, 보통 이걸 마시지",
       "en": "You want to know what's in my glass? It's... grape juice. My drink of choice.",
       "de": "Du willst wissen, was in meinem Glas ist? Traubensaft, ich trinke meistens das.",
-      "es": "¿Quieres saber qué hay en mi vaso? Es... jugo de uva. Suelo beberlo mucho.",
+      "es": "¿Quieres saber qué hay en mi vaso? Es... jugo de uva, mi bebida predilecta.",
       "fr": "Ce qu'il y a dans mon verre ? Du simple jus de raisin, comme d'habitude.",
       "pt": "Você me perguntou o que estava dentro do meu copo? É apenas suco de uva... Eu costumo beber isso.",
       "ru": "Хочешь знать, что в моём бокале? Это виноградный сок, мой любимый напиток.",
@@ -1210,7 +1210,7 @@
       "fr": "Je ne bois pas de vin. Le goût de l'alcool ne m'est guère agréable, rien de plus.",
       "pt": "Eu não bebo vinho. O gosto do álcool não é agradável para mim, nada mais.",
       "ru": "Мне не нравится алкоголь... Просто не нравится ощущать его вкус.",
-      "id": "Aku tidak suka anggur. Bukan apa-apa... hanya tidak suka aromanya.",
+      "id": "Aku tidak suka anggur. Bukan apa-apa ... aku tidak suka rasanya sewaktu ada di mulutku ....",
       "th": "ฉันไม่ชอบดื่มเหล้า ไม่มีอะไรหรอก... ไม่ชอบรสชาติของมันน่ะ",
       "vi": "Tôi không thích rượu. Không có gì... tôi chỉ là không thích vị của rượu."
     }
@@ -1287,7 +1287,7 @@
       "ko": "선물 획득·세 번째",
       "en": "Receiving a Gift: III",
       "de": "Geschenk erhalten III",
-      "es": "Al recibir un regalo (II)",
+      "es": "Al recibir un regalo (III)",
       "fr": "Cadeau reçu (3)",
       "pt": "Recebendo Presentes — III",
       "ru": "Подарок III",
@@ -1300,7 +1300,7 @@
       "zht": "…謝謝。",
       "jp": "…ありがとう。",
       "ko": "…고마워",
-      "en": "...Thanks",
+      "en": "...Umm, thanks.",
       "de": "... Danke.",
       "es": "Gracias.",
       "fr": "... Merci.",
@@ -1335,7 +1335,7 @@
       "en": "Happy birthday. This is an important day for you. So tell me, what is it you wish for? If it is within my power to bestow it upon you, I will give it my consideration.",
       "de": "Alles Gute zum Geburtstag! Dies ist ein wichtiger Tag für dich. Sag, was wünschst du dir? Wenn ich es erfüllen kann, werde ich es tun.",
       "es": "Feliz cumpleaños. Este es un día importante para ti. Dime, ¿qué es lo que deseas? Te lo daré si está dentro de mi alcance.",
-      "fr": "Joyeux anniversaire. Aujourd'hui est un jour rien qu'à vous. Dites-moi ce que vous désirez et je réfléchirai si c'est en mon pouvoir.",
+      "fr": "Joyeux anniversaire. Aujourd'hui est un jour rien qu'à vous. Dites-moi ce que vous désirez et j'y réfléchirai, si c'est en mon pouvoir.",
       "pt": "Feliz aniversário. Este é um dia importante para você. Então me diga, o que você deseja? Se estiver ao meu alcance concedê-lo a você, eu o considerarei.",
       "ru": "С днём рождения. Это очень важный день для тебя. Расскажи мне, чего ты желаешь? Если в моих силах даровать тебе это, то я обязательно над этим подумаю.",
       "id": "Selamat ulang tahun! Ini adalah hari penting untukmu. Sebutkan saja harapanmu. Kalau sekiranya memungkinkan, aku akan membantumu meraihnya.",
@@ -1396,7 +1396,7 @@
       "zht": "前方會有什麼？我很少會思考這種問題。\n\n我必須前進，不論有誰阻擋在我面前。",
       "jp": "この先に何があるかなんて、あまり考えないんだ。\n\nたとえ、誰が僕の前に立ちはだかろうとも、僕は前へ進まなければならないから。",
       "ko": "나아가는 길에 뭐가 있냐고? 그런 건 별로 신경쓰지 않아.\n\n누가 앞을 가로막고 있다 해도 난 전진해야 돼",
-      "en": "What lies in wait for us? I rarely stop to think about it. No matter what dares to stand in my way, I must press forward.",
+      "en": "What lies in wait for us? I rarely stop to think about it.\n\nNo matter what dares to stand in my way, I must press forward.",
       "de": "Was auf uns wartet? Ich denke selten daran.\n\nEgal was in meinem Weg steht, ich muss es besiegen und weiter nach vorn streben.",
       "es": "¿Qué nos deparará el futuro? Rara vez me detengo a pensarlo. Sin embargo, debo seguir adelante, sea lo que sea lo que se interponga en mi camino.",
       "fr": "Que nous réserve le futur ? J'y pense peu. Car je dois continuer à avancer, quel que soit l'obstacle qui se dresse sur mon chemin.",
@@ -1428,14 +1428,14 @@
       "zht": "力量增強了…雖然還不夠，但終歸是在向前方探索。\n\n在「黎明」到來之前，必須有人稍微照亮「黑暗」…",
       "jp": "力が強くなった…だがまだ足りない、これだけでは力の探求に過ぎない。\n\n「黎明」が訪れる前に、「暗闇」を照らす人が必要なんだ…",
       "ko": "힘이 강해졌어…. 아직 부족하지만, 전방을 향한 탐색은 멈출 수 없어.\n\n「여명」이 오기 전 「어둠」을 조금이라도 밝힐 사람이 있어야 해",
-      "en": "I've become stronger... Though it is still not enough, I will always face the darkness. For dawn to come, there must be those who dare to pierce the darkness with their light.",
+      "en": "I've become stronger... Though it is still not enough, I will always face the darkness.\n\nFor dawn to come, there must be those who dare to pierce the darkness with their light.",
       "de": "Ich bin schon stärker geworden ... Das ist zwar noch nicht genug, aber es scheint bergauf zu gehen.\n\nBevor die Dämmerung kommt, muss jemand die Dunkelheit ein wenig erhellen ...",
       "es": "Me he vuelto más fuerte... Aunque aún no es suficiente, siempre seguiré hacia adelante.\n\nPara que amanezca, debe haber personas que se atrevan a iluminar la oscuridad.",
       "fr": "Je deviens plus fort... Pas encore assez, mais je ferai face aux ténèbres. Le monde a besoin de ceux capables de percer l'obscurité de leur lumière.",
       "pt": "Me tornei mais forte... Embora seja insuficiente, eu sempre enfrentarei a escuridão.\n\nPara o alvorecer que ainda não chegou, devem existir aqueles que ousam perfurar a escuridão com sua luz.",
       "ru": "Я стал сильнее... Но этого всё равно недостаточно. Чтобы столкнуться лицом к лицу с ужасами бездны и принести рассвет, кто-то должен пролить свет на кромешную тьму.",
-      "id": "Kekuatan telah meningkat... Meskipun masih belum cukup, namun akhirnya menjelajah juga ke depan.\n\nSebelum \"fajar\" menyingsing, harus ada seseorang yang menerangi sedikit \"kegelapan\"...",
-      "th": "แข็งแกร่งขึ้นแล้ว... ถึงจะยังไม่พอ แต่ยังไงก็ต้องสู้ต่อไป\n\nก่อนที่ \"รุ่งอรุณ\" จะมาถึง จะต้องมีใครซักคนที่ กล้าส่องแสงสว่างท่ามกลาง \"ความมืด\"...",
+      "id": "Kekuatan telah meningkat ... Meskipun masih belum cukup, tapi aku akan selalu menghadapi kegelapan.\n\nSebelum \"fajar\" menyingsing, harus ada seseorang yang menerangi sedikit \"kegelapan\" dengan sinarnya ....",
+      "th": "แข็งแกร่งขึ้นแล้ว... ถึงจะยังไม่พอ แต่ยังไงก็ต้องสู้ต่อไป\n\nก่อนที่ \"รุ่งอรุณ\" จะมาถึง จะต้องมีใครซักคนที่กล้าส่องแสงสว่างท่ามกลาง \"ความมืด\"...",
       "vi": "Sức mạnh đã tăng lên... mặc dù vẫn chưa đủ, nhưng cuối cùng vẫn đang bước về phía trước.\n\nTrước khi \"bình minh\" đến, cần phải có ai đó thắp sáng \"đêm tối\"..."
     }
   },
@@ -1464,9 +1464,9 @@
       "de": "Ich dachte immer, um Böses auszulöschen, müsste ich allein die Nacht durchstreifen.\n\nAber dank deiner Hartnäckigkeit habe ich wieder einmal mehr erfahren, dass ich Unrecht hatte. Danke mein Freund.",
       "es": "#Antes, creía que para acabar con el mal, tendría que caminar yo solo en la oscuridad. Sin embargo, al ver tu perseverancia, sé que estaba equivocado. Amig{F#a}{M#o}, te doy mi más sincero agradecimiento.",
       "fr": "Je croyais autrefois que combattre le mal était une tâche solitaire. Mais après vous avoir rencontré, j'ai compris que non. Merci.",
-      "pt": "Acreditava firmemente que tinha que andar sozinho na escuridão sempre para excluir todo o mal.\n\nMas a sua perseverança me fez entender que estava errado outra vez. Companheiro, te admiro e agradeço.",
+      "pt": "#Acreditava firmemente que tinha que andar sozinho na escuridão sempre para excluir todo o mal.\n\nMas a sua perseverança me fez entender que estava errado outra vez. Companheir{M#o}{F#a}, te admiro e agradeço.",
       "ru": "Раньше я был уверен, что для того, чтобы искоренить зло, мне придётся погрузиться во тьму одному. Но путешествуя с тобой, я понимаю, что ошибался. Друг... Прими мою благодарность.",
-      "id": "Aku kira-untuk menghapus kejahatan, aku harus berjalan sendirian di malam yang panjang. Tetapi kegigihanmu membuatku sadar kalau aku sudah salah lagi. \"Sahabat\", aku berterima kasih padamu.",
+      "id": "Dulu aku sempat mengira ... untuk menghapus kejahatan, aku harus berjalan sendirian dalam kegelapan. Tapi kegigihanmu membuatku sadar kalau itu salah. \"Teman\", aku berterima kasih padamu.",
       "th": "ฉันเคยคิดว่า... ถ้าจะกวาดล้างความชั่วร้ายล่ะก็ ฉันจะต้องก้าวเดินไปเพียงลำพัง ท่ามกลางความมืดที่แสนยาวนาน\n\nแต่ความมุ่งมั่นของเธอ ก็ทำให้ฉันได้รู้ว่าฉันผิดอีกแล้ว ฉันต้องขอขอบคุณเธอมากเลยนะ \"เพื่อน\"",
       "vi": "#Tôi vốn cho rằng... nếu muốn tiêu diệt tà ác, tôi phải tự mình bước đi trong bóng đêm dài.\n\nNhưng sự kiên trì của {F#cô}{M#cậu} khiến tôi nhận ra rằng mình đã sai. \"Người bạn đồng hành\", cảm ơn {F#cô}{M#cậu}."
     }
@@ -1498,8 +1498,8 @@
       "fr": "Hu !",
       "pt": "Huh!",
       "ru": "Ух!",
-      "id": "Huh!",
-      "th": "ฮะ",
+      "id": "Hmph!",
+      "th": "ฮึ่ม",
       "vi": "Huh!"
     }
   },
@@ -1586,16 +1586,16 @@
     "line": {
       "zhs": "呵。",
       "zht": "呵。",
-      "jp": "へっ！",
-      "ko": "흥",
+      "jp": "ふっ！",
+      "ko": "하앗!",
       "en": "Huh!",
       "de": "Ho.",
       "es": "¡Hum!",
       "fr": "Ah.",
       "pt": "Ah.",
       "ru": "Ух!",
-      "id": "Ah.",
-      "th": "หึ",
+      "id": "Hah!",
+      "th": "ฮึ่ม",
       "vi": "Ah."
     }
   },
@@ -1626,7 +1626,7 @@
       "fr": "Ha.",
       "pt": "Ha!",
       "ru": "Ха.",
-      "id": "Ha.",
+      "id": "Hyah!",
       "th": "ฮ่า",
       "vi": "Ha."
     }
@@ -1651,15 +1651,15 @@
       "zhs": "哈！——",
       "zht": "哈！——",
       "jp": "てあっ！",
-      "ko": "찻!——",
+      "ko": "촤앗!——",
       "en": "Haah!—",
       "de": "Ha!",
       "es": "¡¡Ja!!",
       "fr": "Ha !",
       "pt": "Há!",
       "ru": "Ха!",
-      "id": "Ha!",
-      "th": "ฮ่า!",
+      "id": "Haah!—",
+      "th": "ฮ่า!...",
       "vi": "Ha!"
     }
   },
@@ -2049,6 +2049,70 @@
   },
   {
     "title": {
+      "zhs": "同伴生命值低·其一",
+      "zht": "同伴生命值低·其一",
+      "jp": "仲間HP低下·1",
+      "ko": "동료 HP 감소·첫 번째",
+      "en": "Ally at Low HP: I",
+      "de": "Verbündeter hat niedrige LP I",
+      "es": "Aliado con vida baja (I)",
+      "fr": "Compagnon avec PV faibles (1)",
+      "pt": "Aliado com Vida baixa: I",
+      "ru": "Низкий уровень HP компаньона I",
+      "id": "HP Rekan Rendah: I",
+      "th": "ค่าพลังชีวิตของเพื่อนต่ำ - 1",
+      "vi": "HP Đồng Hành Thấp I"
+    },
+    "line": {
+      "zhs": "…当心点。",
+      "zht": "…小心點。",
+      "jp": "…気をつけてくれ。",
+      "ko": "…조심해",
+      "en": "Careful!",
+      "de": "Vorsicht!",
+      "es": "¡Cuidado!",
+      "fr": "Attention !",
+      "pt": "Cuidado!",
+      "ru": "Осторожно!",
+      "id": "Awas!",
+      "th": "...ระวังหน่อยสิ",
+      "vi": "...Cẩn thận một chút."
+    }
+  },
+  {
+    "title": {
+      "zhs": "同伴生命值低·其二",
+      "zht": "同伴生命值低·其二",
+      "jp": "仲間HP低下·2",
+      "ko": "동료 HP 감소·두 번째",
+      "en": "Ally at Low HP: II",
+      "de": "Verbündeter hat niedrige LP II",
+      "es": "Aliado con vida baja (II)",
+      "fr": "Compagnon avec PV faibles (2)",
+      "pt": "Aliado com Vida baixa: II",
+      "ru": "Низкий уровень HP компаньона II",
+      "id": "HP Rekan Rendah: II",
+      "th": "ค่าพลังชีวิตของเพื่อนต่ำ - 2",
+      "vi": "HP Đồng Hành Thấp II"
+    },
+    "line": {
+      "zhs": "状态不好就去休息。",
+      "zht": "狀態不好就去休息。",
+      "jp": "調子が悪いなら休んだ方がいい。",
+      "ko": "컨디션이 별로면 가서 쉬어도 돼",
+      "en": "Don't burn yourself out! Retreat!",
+      "de": "Nimm dir einfach eine kurze Pause!",
+      "es": "¡No te agotes! ¡Retírate!",
+      "fr": "Ne vous épuisez pas ! Reculez !",
+      "pt": "Não se esgote tanto! Recuar!",
+      "ru": "Не изнуряй себя! Отойди!",
+      "id": "Jangan memaksa! Mundur!",
+      "th": "ไม่ไหวก็ไปพักสิ",
+      "vi": "Không khỏe thì nghỉ ngơi đi."
+    }
+  },
+  {
+    "title": {
       "zhs": "倒下·其一",
       "zht": "倒下·其一",
       "jp": "戦闘不能·1",
@@ -2074,7 +2138,7 @@
       "fr": "Le plan... a mal tourné...",
       "pt": "O que fiz de errado...",
       "ru": "В чём была моя ошибка...",
-      "id": "Di mana letak kesalahanku...",
+      "id": "Di mana letak kesalahanku ....",
       "th": "ผิด...แผนงั้นรึ...",
       "vi": "Kế hoạch...bị lỗi sao..."
     }
@@ -2106,7 +2170,7 @@
       "fr": "Il n'y a pas d'excuses... pour la défaite...",
       "pt": "Não há desculpas... Para a derrota...",
       "ru": "Нельзя оправдать... поражение...",
-      "id": "Tidak ada alasan apa pun... untuk kekalahan...",
+      "id": "Tidak ada alasan apa pun ... untuk kekalahan ....",
       "th": "ไม่มีข้อแก้ตัว...สำหรับผู้แพ้...",
       "vi": "Kẻ thua...không được viện cớ..."
     }
@@ -2138,7 +2202,7 @@
       "fr": "Mes flammes ont été éteintes...",
       "pt": "Minha chama... Foi... Extinta...",
       "ru": "Мое пламя... потушено...",
-      "id": "Kobaran apiku... sudah... padam...",
+      "id": "Kobaran apiku ... sudah ... padam ....",
       "th": "จะดับมอดซะแล้วเหรอ...",
       "vi": "Lửa tắt rồi sao..."
     }
@@ -2202,7 +2266,7 @@
       "fr": "Allons-y.",
       "pt": "Vamos nessa.",
       "ru": "Вперёд.",
-      "id": "Ayo pergi.",
+      "id": "Ayo berangkat.",
       "th": "ไปกันเถอะ",
       "vi": "Đi thôi."
     }

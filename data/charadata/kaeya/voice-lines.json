@@ -44,7 +44,7 @@
       "pt": "Bate-papo - Nada para Fazer",
       "ru": "Поболтаем: Безделье",
       "id": "Berbincang: Tidak Ada Kerjaan",
-      "th": "แชท-ปล่อยเวลาทิ้งไป",
+      "th": "แชท - ปล่อยเวลาทิ้งไป",
       "vi": "Nói chuyện phiếm - Bất kể chuyện gì"
     },
     "line": {
@@ -76,7 +76,7 @@
       "pt": "Conversa - Cavaleiros de Favonius",
       "ru": "Поболтаем: Ордо Фавониус",
       "id": "Berbincang: Knights of Favonius",
-      "th": "แชท-กองอัศวิน",
+      "th": "แชท - กองอัศวิน",
       "vi": "Nói chuyện phiếm - Đội Kỵ Sĩ"
     },
     "line": {
@@ -108,7 +108,7 @@
       "pt": "Bate-papo - Preguiça",
       "ru": "Поболтаем: Лень",
       "id": "Berbincang: Kemalasan",
-      "th": "แชท-ประมาท",
+      "th": "แชท - ประมาท",
       "vi": "Nói chuyện phiếm - Lười nhác"
     },
     "line": {
@@ -139,7 +139,7 @@
       "fr": "Quand il pleut...",
       "pt": "Quando Está Chovendo...",
       "ru": "Когда идёт дождь...",
-      "id": "Waktu Hujan",
+      "id": "Ketika Turun Hujan",
       "th": "ในเวลาที่ฝนตก...",
       "vi": "Khi trời mưa..."
     },
@@ -539,7 +539,7 @@
       "pt": "Você gosta de vinho? O Vinho de Dandelion dá uma sensação especial. Ainda não tem idade suficiente para beber? Ok, então, prove a Sidra de Maçã de Mondstadt. Eu conheço um bar muito bom.",
       "ru": "Любишь вино? Очень рекомендую одуванчиковое... Ох, ты ещё ребёнок? Тогда тебе непременно нужно попробовать яблочный сидр, я знаю отличное место.",
       "id": "Apa kamu suka anggur? Rasa Dandelion Wine sangat istimewa. Eh, kenapa? Memangnya kamu belum cukup umur? Hehe, kalau begitu kamu coba cicipi saja Apple Cider khas Mondstadt. Aku tahu tempat yang cukup bagus di mana kita bisa mendapatkannya.",
-      "th": "ชอบดื่มเหล้ามั้ย? ไวน์แดนดิไลออนน่ะ ให้ความรู้สึกที่เยี่ยมมากเลย ว่าไงนะ? อายุไม่ถึงงั้นเหรอ? เหอะเหอะ งั้นลองดื่มน้ำแอปเปิ้ลแทนละกัน ฉันรู้จักร้านนึงไม่เลวเลย",
+      "th": "ชอบดื่มเหล้ามั้ย? ไวน์แดนดิไลออนน่ะ ให้ความรู้สึกที่เยี่ยมมากเลย ว่าไงนะ? อายุไม่ถึงงั้นเหรอ? เหอะเหอะ งั้นลองดื่มแอปเปิลไซเดอร์แทนละกัน ฉันรู้จักร้านนึงไม่เลวเลย",
       "vi": "Bạn thích rượu không? Hương vị của rượu bồ công anh rất đặc biệt. Cái gì? Vẫn chưa đến tuổi uống rượu? Haha, vậy thì hãy thử nước táo lên men của Mondstadt xem, tôi biết một tiệm cũng khá ổn."
     }
   },
@@ -555,7 +555,7 @@
       "fr": "Détails intéressants...",
       "pt": "Coisas Interessantes...",
       "ru": "Интересные вещи...",
-      "id": "Rumor yang menarik",
+      "id": "Kisah Menarik",
       "th": "ข้อมูลที่น่าสนใจ...",
       "vi": "Những kiến thức thú vị..."
     },
@@ -1138,7 +1138,7 @@
     "line": {
       "zhs": "品酒也是一种艺术，蒙德的酒是风神的恩赐，懂得好好品味才不会浪费了这份幸运。",
       "zht": "品酒也是一種藝術，蒙德的酒是風神的恩賜，懂得好好品味才不會浪費了這份幸運。",
-      "jp": "酒を味わうのも一種の芸術だ。モンドの酒は風の神の恵みなんだ。しっかり味あわなくちゃこの幸せがもったいないだろ。",
+      "jp": "酒を味わうのも一種の芸術だ。モンドの酒は風の神の恵みなんだ。しっかり味わわなくちゃ、この幸せがもったいないだろ。",
       "ko": "술을 음미하는 것은 예술이라고 할 수 있어, 몬드의 술은 바람의 신이 주신 선물이야. 제대로 음미할 수 있어야 이런 행운을 온전히 누릴 수 있어",
       "en": "Wine tasting is an art form. Mondstadt's wine is a gift from the Anemo Archon. It's only right that one should learn how to appreciate it.",
       "de": "Die Verkostung von Wein ist eine Kunstform, Mondstadts Wein ist ein Geschenk des Gottes des Windes. Es ist wichtig, etwas davon zu verstehen, damit man sein Glück nicht verschwendet.",
@@ -1195,7 +1195,7 @@
       "fr": "Plats préférés...",
       "pt": "Comida Favorita...",
       "ru": "Любимая еда...",
-      "id": "Makanan favorit",
+      "id": "Makanan Favorit",
       "th": "อาหารที่ชอบ...",
       "vi": "Món ăn yêu thích..."
     },
@@ -1319,7 +1319,7 @@
       "ko": "선물 획득·세 번째",
       "en": "Receiving a Gift: III",
       "de": "Geschenk erhalten III",
-      "es": "Al recibir un regalo (II)",
+      "es": "Al recibir un regalo (III)",
       "fr": "Cadeau reçu (3)",
       "pt": "Recebendo Presentes — III",
       "ru": "Подарок III",
@@ -1606,7 +1606,7 @@
       "jp": "元素爆発·1",
       "ko": "원소폭발·첫 번째",
       "en": "Elemental Burst: I",
-      "de": "Spezialfähigkeit – I",
+      "de": "Spezialfähigkeit I",
       "es": "Habilidad Definitiva (I)",
       "fr": "Déchaînement élémentaire (1)",
       "pt": "Supremo - I",
@@ -1638,7 +1638,7 @@
       "jp": "元素爆発·2",
       "ko": "원소폭발·두 번째",
       "en": "Elemental Burst: II",
-      "de": "Spezialfähigkeit – II",
+      "de": "Spezialfähigkeit II",
       "es": "Habilidad Definitiva (II)",
       "fr": "Déchaînement élémentaire (2)",
       "pt": "Supremo - II",
@@ -1670,7 +1670,7 @@
       "jp": "元素爆発·3",
       "ko": "원소폭발·세 번째",
       "en": "Elemental Burst: III",
-      "de": "Spezialfähigkeit – III",
+      "de": "Spezialfähigkeit III",
       "es": "Habilidad Definitiva (III)",
       "fr": "Déchaînement élémentaire (3)",
       "pt": "Supremo - III",
@@ -1981,6 +1981,70 @@
       "id": "Kamu sangat merepotkan...",
       "th": "เจ้าคนน่ารำคาญ...",
       "vi": "Thật phiền phức..."
+    }
+  },
+  {
+    "title": {
+      "zhs": "同伴生命值低·其一",
+      "zht": "同伴生命值低·其一",
+      "jp": "仲間HP低下·1",
+      "ko": "동료 HP 감소·첫 번째",
+      "en": "Ally at Low HP: I",
+      "de": "Verbündeter hat niedrige LP I",
+      "es": "Aliado con vida baja (I)",
+      "fr": "Compagnon avec PV faibles (1)",
+      "pt": "Aliado com Vida baixa: I",
+      "ru": "Низкий уровень HP компаньона I",
+      "id": "HP Rekan Rendah: I",
+      "th": "ค่าพลังชีวิตของเพื่อนต่ำ - 1",
+      "vi": "HP Đồng Hành Thấp I"
+    },
+    "line": {
+      "zhs": "让我帮你吧，记得欠我一个人情。",
+      "zht": "讓我幫你吧，記得欠我一個人情。",
+      "jp": "俺が手を貸すぜ。借りは返せよ。",
+      "ko": "내가 도와주지, 너 나한테 빚진 거야",
+      "en": "I'll help out, but you owe me.",
+      "de": "Ich werde dir helfen, aber dann schuldest du mir was.",
+      "es": "Te ayudaré, pero me debes una.",
+      "fr": "Je vais aider, mais tu m'en devras une.",
+      "pt": "Te ajudarei, mas você vai ficar me devendo.",
+      "ru": "Я помогу, но ты у меня в долгу.",
+      "id": "Biar kubantu, tapi sekarang kamu berutang padaku.",
+      "th": "ให้ฉันช่วยเธอเถอะ แต่จำไว้ว่าเธอติดค้างฉันอยู่ก็พอ",
+      "vi": "Để tôi giúp, xem như nợ tôi một lần đấy!"
+    }
+  },
+  {
+    "title": {
+      "zhs": "同伴生命值低·其二",
+      "zht": "同伴生命值低·其二",
+      "jp": "仲間HP低下·2",
+      "ko": "동료 HP 감소·두 번째",
+      "en": "Ally at Low HP: II",
+      "de": "Verbündeter hat niedrige LP II",
+      "es": "Aliado con vida baja (II)",
+      "fr": "Compagnon avec PV faibles (2)",
+      "pt": "Aliado com Vida baixa: II",
+      "ru": "Низкий уровень HP компаньона II",
+      "id": "HP Rekan Rendah: II",
+      "th": "ค่าพลังชีวิตของเพื่อนต่ำ - 2",
+      "vi": "HP Đồng Hành Thấp II"
+    },
+    "line": {
+      "zhs": "喂，命丢了可就不好玩了。",
+      "zht": "喂，命丟了可就不好玩了。",
+      "jp": "おい、命を落としたらつまんないぞ。",
+      "ko": "이봐, 죽으면 다 끝이라구",
+      "en": "Hey, don't die on me. That's no fun.",
+      "de": "He, stirb mir nicht weg. Das macht keinen Spaß.",
+      "es": "Ey, no te me mueras, eso no tendría gracia.",
+      "fr": "Hé, ne meurs pas comme ça. Ce ne serait pas drôle.",
+      "pt": "Ei, não morra agora. Isso não seria divertido.",
+      "ru": "Эй, не смей умирать. Так неинтересно.",
+      "id": "Hei, jangan mati begitu saja. Tidak seru ah.",
+      "th": "เฮ้ ถ้าตายขึ้นมาจริง ๆ มันก็ไม่สนุกแล้วนะ",
+      "vi": "Này, mất mạng là hết vui đó!"
     }
   },
   {

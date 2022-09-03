@@ -52,15 +52,15 @@
       "zhs": "琴获得元素晶球或元素微粒时，队伍中所有角色获得15%攻击速度和15%移动速度提升，持续15秒。",
       "zht": "琴獲得元素晶球或元素微粒時，隊伍中所有角色獲得15%攻擊速度和15%移動速度提升，持續15秒。",
       "jp": "ジンが元素オーブまたは元素粒子を獲得した時、チームにいる全てのキャラクターの移動速度+15%、攻撃速度+15%、継続時間15秒。",
-      "ko": "진이 원소 구슬 혹은 원소 입자 획득 시 파티 내 모든 캐릭터의 공격속도와 이동속도가 15% 증가한다. 지속 시간: 15초",
+      "ko": "진이 원소 구슬 혹은 원소 입자 획득 시 파티 내 모든 캐릭터의 공격 속도와 이동 속도가 15% 증가한다. 지속 시간: 15초",
       "en": "When Jean picks up an Elemental Orb/Particle, all party members have their Movement SPD and ATK SPD increased by 15% for 15s.",
       "de": "Erhöht die Angriffs- und Bewegungs-GSW aller Truppenmitglieder, wenn Jean Elementarkristalle oder Elementarteilchen erhält, 15 s lang um je 15 %.",
       "es": "Cuando Jean recoge un orbe o partícula elemental, aumenta la Vel. de Ataque y la Vel. Movimiento de todos los miembros del equipo en un 15% durante 15 s.",
       "fr": "La VIT de déplacement et d'attaque de tous les personnages de l'équipe augmente de 15 % pendant 15 s lorsque Jean obtient un orbe ou une particule élémentaire.",
       "pt": "Quando a Jean pega um Orbe/Partícula Elemental, todos os membros terão sua Veloc. Mov. e VEL de ATQ aumentados em 15% por 15s.",
-      "ru": "Когда Джинн получает Элементальную сферу или частицу, скорость передвижения и скорость атаки всех членов отряда увеличивается на 15% в течение 15 сек.",
+      "ru": "Когда Джинн получает элементальную сферу или частицу, скорость передвижения и скорость атаки всех членов отряда увеличивается на 15% в течение 15 сек.",
       "id": "Meningkatkan 15% Movement SPD dan ATK SPD seluruh anggota party selama 15 detik saat Jean mengambil Elemental Orb atau Particle.",
-      "th": "เมื่อ Jean ได้รับลูกแก้วธาตุ หรืออณูธาตุ ตัวละครทั้งทีม จะได้รับความเร็วในการโจมตี เพิ่ม 15% และความเร็วในการเคลื่อนที่ เพิ่ม 15% เป็นเวลา 15 วินาที",
+      "th": "เมื่อ Jean ได้รับลูกแก้วธาตุหรืออณูธาตุ ตัวละครทั้งทีมจะได้รับความเร็วในการโจมตีเพิ่ม 15% และความเร็วในการเคลื่อนที่เพิ่ม 15% เป็นเวลา 15 วินาที",
       "vi": "Khi Jean nhận được Nguyên Tố Tinh Cầu hoặc Nguyên Tố Hạt Nhân, tất cả nhân vật trong đội tăng 15% tốc độ tấn công và 15% tốc độ di chuyển, kéo dài 15s."
     },
     "imgid": "constellation_2"
@@ -126,7 +126,7 @@
       "pt": "Dentro do Campo criado pela <color=#FFD780FF>Brisa de Dandelion</color>, todos os inimigos têm sua <color=#80FFD7FF>RES Anemo</color> diminuída em 40%.",
       "ru": "Понижает <color=#80FFD7FF>Анемо сопротивление</color> противников, находящихся в поле навыка <color=#FFD780FF>Одуванчиковый бриз</color>, на 40%.",
       "id": "Mengurangi 40% <color=#80FFD7FF>Anemo RES</color> musuh yang berada di dalam lingkup area <color=#FFD780FF>Dandelion Breeze</color>.",
-      "th": "ภายในพื้นที่ของ <color=#FFD780FF>Dandelion Breeze</color> <color=#80FFD7FF> ความต้านทานลม</color> ของศัตรูทั้งหมดลดลง 40%",
+      "th": "ภายในพื้นที่ของ <color=#FFD780FF>Dandelion Breeze</color> <color=#80FFD7FF> ความต้านทานลม</color>ของศัตรูทั้งหมดลดลง 40%",
       "vi": "Trong vùng đất <color=#FFD780FF>Gió Bồ Công Anh</color>, <color=#80FFD7FF>Kháng Nguyên Tố Phong</color> của địch giảm 40%."
     },
     "imgid": "constellation_4"
@@ -188,11 +188,11 @@
       "en": "Incoming DMG is decreased by 35% within the Field created by <color=#FFD780FF>Dandelion Breeze</color>. Upon leaving the Dandelion Field, this effect lasts for 3 attacks or 10s.",
       "de": "Verringert den im Wirkungsbereich von <color=#FFD780FF>Löwenzahnbrise</color> erlittenen Schaden um 35 %.\nDieser Effekt hält nach Verlassen dieses Bereichs noch für 3 erlittene Angriffe oder 10 s.",
       "es": "Dentro del campo de <color=#FFD780FF>Brisa de Dandelion</color>, el daño recibido disminuye en un 35%. Al salir de él, el efecto dura 3 ataques más o 10 s.",
-      "fr": "Les DGT subis par les personnages dans le champ de <color=#FFD780FF>Brise de pissenlit</color> sont réduits de 35 %.\nAprès avoir quitté le champ, cet effet disparaît après avoir subi 3 attaques ou dans les 10 s.",
+      "fr": "Les DGT subis par les personnages dans le champ de <color=#FFD780FF>Brise de pissenlit</color> sont réduits de 35 %.\nAprès avoir quitté le champ, cet effet disparaît après avoir subi 3 attaques ou après 10 s.",
       "pt": "Dano recebido é reduzido em 35% dentro da Área criada por <color=#FFD780FF>Brisa de Dandelion</color>. Após sair do Campo de Dandelion, este efeito dura por 3 ataques ou 10 segundos.",
       "ru": "Уменьшает получаемый в поле навыка <color=#FFD780FF>Одуванчиковый бриз</color> урон на 35%.\nПосле ухода из поля одуванчиков данный эффект длится ещё 3 атаки или 10 сек.",
       "id": "Mengurangi 35% DMG yang diterima saat berada di dalam <color=#FFD780FF>Dandelion Breeze</color>. Efek ini masih bertahan selama 3 serangan atau 10 detik setelah meninggalkan lingkup area skill.",
-      "th": "ภายในพื้นที่ของ <color=#FFD780FF>Dandelion Breeze</color> ความเสียหาย ที่ตัวละครได้รับจะลดลง 35%\nหลังออกจากพื้นที่แล้ว เอฟเฟกต์นี้จะหายไปหลังจาก ถูกโจมตีครบ 3 ครั้ง หรือเวลาผ่านไป 10 วินาที",
+      "th": "ภายในพื้นที่ของ <color=#FFD780FF>Dandelion Breeze</color> ตัวละครจะได้รับความเสียหายลดลง 35%\nหลังออกจากพื้นที่แล้ว เอฟเฟกต์นี้จะหายไปหลังถูกโจมตีครบ 3 ครั้ง หรือเมื่อเวลาผ่านไป 10 วินาที",
       "vi": "Trong <color=#FFD780FF>Gió Bồ Công Anh</color> sát thương phải nhận giảm 35%.\nRời khỏi vùng đất, hiệu quả này sẽ biến mất sau 3 lần tấn công hoặc sau 10S."
     },
     "imgid": "constellation_6"

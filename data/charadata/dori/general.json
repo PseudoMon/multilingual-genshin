@@ -1,0 +1,62 @@
+{
+  "name": {
+    "zhs": "多莉",
+    "zht": "多莉",
+    "jp": "ドリー",
+    "ko": "도리",
+    "en": "Dori",
+    "de": "Dori",
+    "es": "Dori",
+    "fr": "Dori",
+    "pt": "Dori",
+    "ru": "Дори",
+    "id": "Dori",
+    "th": "Dori",
+    "vi": "Dori"
+  },
+  "title": {
+    "zhs": "梦园藏金",
+    "zht": "夢園藏金",
+    "jp": "夢の庭に隠せし財宝",
+    "ko": "꿈의 정원에 감춰진 보물",
+    "en": "Treasure of Dream Garden",
+    "de": "Schatz im Schlummerland",
+    "es": "La Magnate Acaudalada",
+    "fr": "Trésor du jardin onirique",
+    "pt": "Tesouro do Jardim dos Sonhos",
+    "ru": "Сокровище сада снов",
+    "id": "Treasure of Dream Garden",
+    "th": "ห้วงฝันมหาเงินตรา",
+    "vi": "Kho Báu Vườn Mơ"
+  },
+  "description": {
+    "zhs": "神出鬼没的旅行百货商人，最喜欢亮闪闪的摩拉。",
+    "zht": "神出鬼沒的旅行百貨商人，最喜歡閃亮亮的摩拉。",
+    "jp": "神出鬼没の旅商人。一番好きなものは、キラキラと輝くモラ。",
+    "ko": "신출귀몰한 여행 잡화 상인. 빛나는 모라를 가장 좋아한다",
+    "en": "An elusive merchant who has a fondness for glittering Mora.",
+    "de": "Eine geheimnisvolle Händlerin in Sumeru, die eine Vorliebe für glitzernde Mora hat.",
+    "es": "Una impredecible comerciante itinerante cuya mayor pasión es el Mora contante y sonante.",
+    "fr": "Une marchande ambulante avec un penchant pour les moras scintillants.",
+    "pt": "Uma comerciante viajante imprevisível, cuja maior paixão é a Mora brilhante.",
+    "ru": "Неуловимая негоциантка из Сумеру, которая больше всего любит блеск монет.",
+    "id": "Pedagang keliling yang sulit dipahami dan paling suka dengan Mora yang berkilauan.",
+    "th": "แม่ค้าเร่สารพัดผู้ลึกลับ สิ่งที่ชอบที่สุดก็คือประกายแวววับของ Mora",
+    "vi": "Thương nhân bách hóa xuất quỷ nhập thần, say mê những đồng Mora sáng loáng."
+  },
+  "constellation": {
+    "zhs": "神灯座",
+    "zht": "神燈座",
+    "jp": "ランプ座",
+    "ko": "요술램프자리",
+    "en": "Magicae Lucerna",
+    "de": "Magicae Lucerna",
+    "es": "Magicae Lucerna",
+    "fr": "Magicae Lucerna",
+    "pt": "Magicae Lucerna",
+    "ru": "Волшебная Лампа",
+    "id": "Magicae Lucerna",
+    "th": "Magicae Lucerna",
+    "vi": "Cung Thần Đăng"
+  }
+}

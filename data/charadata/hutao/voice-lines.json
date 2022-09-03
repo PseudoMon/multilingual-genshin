@@ -119,7 +119,7 @@
       "en": "When the sun's out, bathe in sunlight. But when the moon's out, bathe in moonlight~",
       "de": "*hust* Scheint die Sonne, bade ich im Sonnenlicht. Scheint der Mond, bade ich im Mondlicht.",
       "es": "*Ejem, ejem*... ♪ Si hay sol, yo tomo el sol. Si hay luna, yo tomo la luna. ♪",
-      "fr": "*Ahem* Le soleil est là, je bronze au soleil... La lune le remplace, je bronze à la lune... ♪",
+      "fr": "Ahem... Le soleil est là, je bronze au soleil... La lune le remplace, je bronze à la lune... ♪",
       "pt": "Quando o sol estiver brilhando, me banharei na luz dele. Quando a lua estiver brilhando, me banharei na luz dela.",
       "ru": "Вышло солнце - загорай на солнце. Вышла луна - нежься в лунном свете.",
       "id": "*uhuk*...Saat fajar menyingsing, aku bermandikan sinar mentari. Saat rembulan muncul, aku bermandikan sinar rembulan~",
@@ -139,7 +139,7 @@
       "fr": "Quand il pleut...",
       "pt": "Quando Está Chovendo...",
       "ru": "Когда идёт дождь...",
-      "id": "Waktu Hujan",
+      "id": "Ketika Turun Hujan",
       "th": "ในเวลาที่ฝนตก...",
       "vi": "Khi trời mưa..."
     },
@@ -171,7 +171,7 @@
       "fr": "Quand le tonnerre gronde...",
       "pt": "Quando Está Trovejando...",
       "ru": "Когда гремит гром...",
-      "id": "Waktu Petir Menyambar",
+      "id": "Ketika Petir Menyambar",
       "th": "ในเวลาที่ฟ้าผ่า...",
       "vi": "Khi có sấm sét..."
     },
@@ -203,7 +203,7 @@
       "fr": "Quand il neige...",
       "pt": "Quando Está Nevando...",
       "ru": "Когда идёт снег...",
-      "id": "Waktu Turun Salju",
+      "id": "Ketika Turun Salju",
       "th": "ในเวลาที่หิมะตก...",
       "vi": "Khi tuyết rơi..."
     },
@@ -267,7 +267,7 @@
       "fr": "Le vent souffle fort...",
       "pt": "A Ventania Está Chegando...",
       "ru": "Когда дует сильный ветер...",
-      "id": "Saat Angin Berembus",
+      "id": "Ketika Angin Berembus",
       "th": "ในเวลาที่ลมพัดแรง...",
       "vi": "Gió lớn quá..."
     },
@@ -683,7 +683,7 @@
       "fr": "Détails intéressants...",
       "pt": "Coisas Interessantes...",
       "ru": "Интересные вещи...",
-      "id": "Cerita yang Menarik",
+      "id": "Kisah Menarik",
       "th": "ข้อมูลที่น่าสนใจ...",
       "vi": "Những kiến thức thú vị..."
     },
@@ -1051,7 +1051,7 @@
       "pt": "#Yunjin é sempre tão graciosa em ocasiões formais, mas você ficaria surpres{M#o}{F#a} com o quão amigável ela é em particular! Fiz uma aposta com ela uma vez, e o perdedor teve que cantar uma música da escolha do vencedor. Minha nossa, eu gostaria que você pudesse ter ouvido sua versão operística do Hilitune!",
       "ru": "#Юнь Цзинь всегда выглядит такой грациозной на официальных мероприятиях, но ты будешь {M#удивлён}{F#удивлена}, какой дружелюбной она бывает наедине! Однажды я заключила с ней пари, что проигравший должен будет петь песни, выбранные победителем, в своём собственном стиле. Ох, как бы я хотела, чтобы ты услышал{F#а} её оперную версию Хилиады!",
       "id": "Yun Jin selalu tampil anggun di acara resmi, tapi kamu bakal kaget kalau tahu dia itu aslinya ramah sekali! Aku pernah taruhan dengannya dulu, dan yang kalah harus menyanyikan lagu pilihan yang menang dengan gaya mereka sendiri. Haiya, kamu harus dengar waktu dia nyanyi Hilitune versi opera!",
-      "th": "Yun Jin ตอนที่ออกงานน่ะดูสง่างามมากเลยใช่ม้า แต่ตอนที่อยู่กันเองเป็นส่วนตัวเธอเป็นมิตรมากเลยนะ! ฉันเคยเดิมพันกับเธอครั้งหนึ่ง แล้วผู้แพ้จะต้องร้องเพลงของผู้ชนะในสไตล์การร้องเพลงของตัวเอง ไอ๊หยา ๆ ฉันอยากให้เธอได้ฟังเวอร์ชั่นโอเปร่าของ Hilitune จัง!",
+      "th": "Yun Jin ตอนที่ออกงานน่ะดูสง่างามมากเลยใช่ม้า แต่ตอนที่อยู่กันเองเป็นส่วนตัวเธอเป็นมิตรมากเลยนะ! ฉันเคยเดิมพันกับเธอครั้งหนึ่ง แล้วผู้แพ้จะต้องร้องเพลงของผู้ชนะในสไตล์การร้องเพลงของตัวเอง ไอ๊หยา ๆ ฉันอยากให้เธอได้ฟังเวอร์ชันโอเปร่าของ Hilitune จัง!",
       "vi": "Yun Jin thường ngày rất nhã nhặn nên cũng dễ gần! Lần trước tôi có cược với cô ấy, người thua sẽ phải dùng cách hát của mình để hát lời nhạc của người thắng. Ây da, ca dao Hilichurl trong nền nhạc kịch, tôi muốn nghe lắm đó!"
     }
   },
@@ -1447,7 +1447,7 @@
       "ko": "선물 획득·세 번째",
       "en": "Receiving a Gift: III",
       "de": "Geschenk erhalten III",
-      "es": "Al recibir un regalo (II)",
+      "es": "Al recibir un regalo (III)",
       "fr": "Cadeau reçu (3)",
       "pt": "Recebendo Presentes — III",
       "ru": "Подарок III",
@@ -1734,7 +1734,7 @@
       "jp": "元素爆発·1",
       "ko": "원소폭발·첫 번째",
       "en": "Elemental Burst: I",
-      "de": "Spezialfähigkeit – I",
+      "de": "Spezialfähigkeit I",
       "es": "Habilidad Definitiva (I)",
       "fr": "Déchaînement élémentaire (1)",
       "pt": "Supremo - I",
@@ -1766,7 +1766,7 @@
       "jp": "元素爆発·2",
       "ko": "원소폭발·두 번째",
       "en": "Elemental Burst: II",
-      "de": "Spezialfähigkeit – II",
+      "de": "Spezialfähigkeit II",
       "es": "Habilidad Definitiva (II)",
       "fr": "Déchaînement élémentaire (2)",
       "pt": "Supremo - II",
@@ -1798,7 +1798,7 @@
       "jp": "元素爆発·3",
       "ko": "원소폭발·세 번째",
       "en": "Elemental Burst: III",
-      "de": "Spezialfähigkeit – III",
+      "de": "Spezialfähigkeit III",
       "es": "Habilidad Definitiva (III)",
       "fr": "Déchaînement élémentaire (3)",
       "pt": "Supremo - III",
@@ -2141,6 +2141,70 @@
       "id": "Celaka!",
       "th": "แย่แล้ว!",
       "vi": "Nguy to rồi!"
+    }
+  },
+  {
+    "title": {
+      "zhs": "同伴生命值低·其一",
+      "zht": "同伴生命值低·其一",
+      "jp": "仲間HP低下·1",
+      "ko": "동료 HP 감소·첫 번째",
+      "en": "Ally at Low HP: I",
+      "de": "Verbündeter hat niedrige LP I",
+      "es": "Aliado con vida baja (I)",
+      "fr": "Compagnon avec PV faibles (1)",
+      "pt": "Aliado com Vida baixa: I",
+      "ru": "Низкий уровень HP компаньона I",
+      "id": "HP Rekan Rendah: I",
+      "th": "ค่าพลังชีวิตของเพื่อนต่ำ - 1",
+      "vi": "HP Đồng Hành Thấp I"
+    },
+    "line": {
+      "zhs": "悠着点！",
+      "zht": "注意點！",
+      "jp": "落ち着いて！",
+      "ko": "살살해!",
+      "en": "Take it easy!",
+      "de": "Immer mit der Ruhe!",
+      "es": "¡Tómatelo con calma!",
+      "fr": "Allez-y doucement !",
+      "pt": "Vá com calma!",
+      "ru": "Полегче!",
+      "id": "Santai saja!",
+      "th": "เบา ๆ หน่อยเถอะ!",
+      "vi": "Thư giãn thôi!"
+    }
+  },
+  {
+    "title": {
+      "zhs": "同伴生命值低·其二",
+      "zht": "同伴生命值低·其二",
+      "jp": "仲間HP低下·2",
+      "ko": "동료 HP 감소·두 번째",
+      "en": "Ally at Low HP: II",
+      "de": "Verbündeter hat niedrige LP II",
+      "es": "Aliado con vida baja (II)",
+      "fr": "Compagnon avec PV faibles (2)",
+      "pt": "Aliado com Vida baixa: II",
+      "ru": "Низкий уровень HP компаньона II",
+      "id": "HP Rekan Rendah: II",
+      "th": "ค่าพลังชีวิตของเพื่อนต่ำ - 2",
+      "vi": "HP Đồng Hành Thấp II"
+    },
+    "line": {
+      "zhs": "放着我来！",
+      "zht": "放著我來！",
+      "jp": "私が！",
+      "ko": "내가 할게!",
+      "en": "Lemme have a go!",
+      "de": "Lass mich mal ran!",
+      "es": "¡Déjame intentarlo!",
+      "fr": "Laissez-moi essayer !",
+      "pt": "Deixe-me tentar!",
+      "ru": "Дай мне попробовать!",
+      "id": "Biar kucoba!",
+      "th": "ปล่อยให้ฉันลุยเอง!",
+      "vi": "Để đó tôi!"
     }
   },
   {

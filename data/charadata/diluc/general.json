@@ -19,7 +19,7 @@
     "zht": "晨曦的暗面",
     "jp": "アカツキの裏面",
     "ko": "새벽의 어둠",
-    "en": "The Dark Side of Dawn",
+    "en": "Dark Side of Dawn",
     "de": "Dunkle Seite der Dämmerung",
     "es": "El Amanecer Oscuro",
     "fr": "Ombre de l'Aurore",
@@ -32,16 +32,16 @@
   "description": {
     "zhs": "坐拥蒙德大半酒业的贵公子，财力、人望、能力都令人无法小觑。",
     "zht": "坐擁蒙德大半酒業的貴公子，財力、人望、能力都令人無法小覷。",
-    "jp": "モンドの半数以上の造酒業を掌握する貴公子、財力も人望も実力も見くびってはならない。",
+    "jp": "モンドの大半の酒造を掌握する貴公子。財力も人望も実力も、見くびってはならない。",
     "ko": "몬드 주류업의 대부분을 차지하고 있는 귀공자. 재력, 인망, 능력 모두 무시할 수 없다",
     "en": "The tycoon of a winery empire in Mondstadt, unmatched in every possible way.",
     "de": "Der reiche Junggeselle, der den größten Teil der Getränkewirtschaft in Mondstadt kontrolliert. Sein Reichtum, seine Eleganz und seine Fähigkeiten sind bewundernswert.",
     "es": "El magnate del imperio vinícola de Mondstadt, inigualable en todos los sentidos.",
-    "fr": "Un jeune noble possédant la plupart des entreprises du vin de Mondstadt ; nul ne saurait sous-estimer sa richesse, sa réputation et ses capacités.",
+    "fr": "Un jeune noble possédant la plupart des entreprises du vin de Mondstadt. Nul ne saurait sous-estimer sa richesse, sa réputation et ses capacités.",
     "pt": "O magnata do império de vinhedos em Mondstadt, inigualável em todos os sentidos.",
     "ru": "Магнат, построивший непревзойдённую винную империю в Мондштадте.",
     "id": "Pemilik dari kerajaan kilang anggur di Mondstadt, kekayaan, ketenaran, dan kekuatannya diakui oleh semua orang.",
-    "th": "เจ้าของกิจการโรงผลิตไวน์แห่ง อาณาจักรใน Mondstadt ไม่มีใครเทียบเคียงได้ในทุกทาง",
+    "th": "คุณชายสูงศักดิ์ผู้ครอบครองกิจการผลิตไวน์ใน Mondstadt ไปกว่าครึ่ง ไม่ว่าจะด้านกำลังทรัพย์ ชื่อเสียง หรือความสามารถ ก็ไม่มีใครเทียบเคียงได้ในสักทาง",
     "vi": "Là công tử nắm trong tay hơn một nửa ngành rượu Mondstadt, tài lực, danh vọng, năng lực đều khiến người khác không thể coi thường."
   },
   "constellation": {

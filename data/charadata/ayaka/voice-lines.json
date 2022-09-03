@@ -44,7 +44,7 @@
       "pt": "Conversa: Estabilidade",
       "ru": "Поболтаем: Стабильность",
       "id": "Berbincang: Stabil",
-      "th": "แชท-เสถียรภาพ",
+      "th": "แชท - เสถียรภาพ",
       "vi": "Nói chuyện phiếm - Yên ổn"
     },
     "line": {
@@ -76,7 +76,7 @@
       "pt": "Conversa - Espada",
       "ru": "Поболтаем: Меч",
       "id": "Berbincang: Pedang",
-      "th": "แชท-ดาบ",
+      "th": "แชท - ดาบ",
       "vi": "Nói chuyện phiếm - Kiếm"
     },
     "line": {
@@ -108,7 +108,7 @@
       "pt": "Conversa - Perdendo a Concentração",
       "ru": "Поболтаем: Отрешённость",
       "id": "Berbincang: Melamun",
-      "th": "แชท-เหม่อลอย",
+      "th": "แชท - เหม่อลอย",
       "vi": "Nói chuyện phiếm - Xuất thần"
     },
     "line": {
@@ -140,7 +140,7 @@
       "pt": "Conversa - Espada Famosa",
       "ru": "Поболтаем: Знаменитый меч",
       "id": "Berbincang: Pedang Terkenal",
-      "th": "แชท-ดาบที่มีชื่อเสียง",
+      "th": "แชท - ดาบที่มีชื่อเสียง",
       "vi": "Nói chuyện phiếm - Danh đao"
     },
     "line": {
@@ -171,7 +171,7 @@
       "fr": "Quand il pleut...",
       "pt": "Quando Está Chovendo...",
       "ru": "Когда идёт дождь...",
-      "id": "Waktu Hujan",
+      "id": "Ketika Turun Hujan",
       "th": "ในเวลาที่ฝนตก...",
       "vi": "Khi trời mưa..."
     },
@@ -203,7 +203,7 @@
       "fr": "Quand le tonnerre gronde...",
       "pt": "Quando Está Trovejando...",
       "ru": "Когда гремит гром...",
-      "id": "Waktu Petir Menyambar",
+      "id": "Ketika Petir Menyambar",
       "th": "ในเวลาที่ฟ้าผ่า...",
       "vi": "Khi có sấm sét..."
     },
@@ -235,7 +235,7 @@
       "fr": "Quand il neige...",
       "pt": "Quando Neva",
       "ru": "Когда идёт снег...",
-      "id": "Waktu Turun Salju",
+      "id": "Ketika Turun Salju",
       "th": "ในเวลาที่หิมะตก...",
       "vi": "Khi tuyết rơi..."
     },
@@ -267,7 +267,7 @@
       "fr": "Il fait bon dehors...",
       "pt": "Quando Sai o Sol...",
       "ru": "Когда светит солнце...",
-      "id": "Waktu Matahari Bersinar",
+      "id": "Ketika Matahari Bersinar",
       "th": "แดดส่องดีจัง...",
       "vi": "Ánh nắng thật chan hòa..."
     },
@@ -343,7 +343,7 @@
       "en": "Oh, good morning, Traveler. ...Whenever I see you in the morning, somehow, it makes me feel like... today is going to be a good day.",
       "de": "#Oh, guten Morgen, {F#Reisende}{M#Reisender}. Immer wenn ich dich morgens sehe, habe ich irgendwie das Gefühl ... dass heute ein guter Tag wird.",
       "es": "#Oh, buenos días, viajer{F#a}{M#o}. Siempre que nos vemos por la mañana, de alguna manera siento que va a ser un buen día.",
-      "fr": "#Bonjour, {M#voyageur}{F#voyageuse}. En vous voyant le matin comme ça, je ne peux m'empêcher de penser... que la journée sera bonne.",
+      "fr": "#Bonjour {M#voyageur}{F#voyageuse}. En vous voyant le matin comme ça, je ne peux m'empêcher de penser... que la journée sera bonne.",
       "pt": "Ah, bom dia, Viajante. ... Sempre que vejo você pela manhã, de alguma forma, eu sinto que... Hoje vai ser um dia bom.",
       "ru": "#О, доброе утро, путешественни{F#ца}{M#к}. Всякий раз, когда встречаю тебя утром, мне почему-то кажется, что нас ждёт хороший день.",
       "id": "Oh, selamat pagi, Pengembara ... Setiap kali melihatmu di pagi hari, entah kenapa membuatku merasa ... hari ini akan menjadi hari yang indah.",
@@ -555,7 +555,7 @@
       "fr": "À propos de nous - Salon de thé",
       "pt": "Sobre Nós: Casa de Chá",
       "ru": "О нас: Чайный дом",
-      "id": "Tentang Kita: Teahouse",
+      "id": "Tentang Kita: Kedai Teh",
       "th": "เกี่ยวกับพวกเรา: ร้านชา",
       "vi": "Về Chúng Ta - Phòng Trà"
     },
@@ -683,7 +683,7 @@
       "fr": "Détails intéressants...",
       "pt": "Coisas Interessantes...",
       "ru": "Интересные вещи...",
-      "id": "Rumor yang menarik",
+      "id": "Kisah Menarik",
       "th": "ข้อมูลที่น่าสนใจ...",
       "vi": "Những kiến thức thú vị..."
     },
@@ -791,7 +791,7 @@
       "en": "Mr. Shikanoin belongs to the Tenryou Commission, just like Miss Kujou. He is very... principled, sometimes even more determinedly so than Miss Kujou. The only thing is, when it comes to the question of which matters should be governed by his principles, I believe only Mr. Shikanoin himself knows the answer...",
       "de": "Herr Shikanoin gehört der Tenryou-Verwaltung an, genau wie Fräulein Kujou. Er ist sehr ... prinzipientreu, manchmal sogar noch entschiedener als Fräulein Kujou. Nur wenn es um die Frage geht, in welchen Angelegenheiten seine Prinzipien gelten sollen, kennt, glaube ich, nur Herr Shikanoin selbst die Antwort ...",
       "es": "Igual que la señorita Kujou, el señor Shikanoin pertenece a la Comisión Tenryou. Tiene sus propios... principios, y a veces es incluso más decidido que Kujou Sara. Sin embargo, solo él mismo sabe qué asuntos se rigen por esos principios.",
-      "fr": "M. Shikanoin ? Il fait aussi partie de la Commission administrative comme Mlle Kujou. C'est... aussi un homme avec de grands principes qui est encore plus extrême qu'elle dans leur application. Quant aux affaires qui devraient être gouvernées par ses principes... Je pense qu'il les connaît.",
+      "fr": "Monsieur Shikanoin ? Il fait aussi partie de la Commission administrative comme mademoiselle Kujou. C'est... aussi un homme avec de grands principes qui est encore plus extrême qu'elle dans leur application. Quant aux affaires qui devraient être gouvernées par ses principes... Je pense qu'il les connaît.",
       "pt": "O Sr. Shikanoin pertence à Comissão Tenryou, assim como a Srta. Kujou. Ele é muito... escrupuloso, às vezes de forma até mais determinada que a Srta. Kujou. O problema é que, quando se trata das questões que devem ser governadas pelos seus princípios, acredito que só o Sr. Shikanoin saiba a resposta.",
       "ru": "Господин Сиканоин, как и госпожа Кудзё, входит в комиссию Тэнрё. Он очень... принципиален, и зачастую действует гораздо решительнее госпожи Кудзё. Только вот ответ на вопрос о том, какие именно проблемы должны решаться с учётом его принципов, полагаю, знает один лишь господин Сиканоин...",
       "id": "Tuan Shikanoin adalah anggota Tenryou Commission, sama seperti Nona Kujou. Dia adalah orang yang berprinsip teguh, terkadang bahkan lebih tegar dari Nona Kujou. Tentang hal-hal apa saja yang harus diatur oleh prinsip-prinsipnya, kurasa hanya Tuan Shikanoin sendiri yang tahu jawabannya ....",
@@ -887,7 +887,7 @@
       "en": "To witness the Musou no Hitotachi and live to tell the tale is quite a remarkable feat. Even though I recognize her as our true deity with the power to change Inazuma's fate at will, if there is conflict between the two of you, then... I shall choose to side with you.",
       "de": "Das „Musou no Hitotachi“ miterlebt und überlebt zu haben, ist doch eine tolle Erfahrung, oder? Obwohl sie für mich ein wahrer Archon ist, der das Schicksal von Inazuma im Handumdrehen ändern kann, wäre ich auf deiner Seite, wenn es zu einem Konflikt mit dir kommen würde.",
       "es": "Ser testigo del Filo del pensamiento vacío y vivir para contarlo es una increíble hazaña. Aunque la reconozco como nuestra auténtica deidad capaz de cambiar el destino de Inazuma como desee, si hubiera algún conflicto entre ustedes dos... elegiría estar de tu lado.",
-      "fr": "Assister au Kendo d'insouciance et vivre pour en parler est un exploit. Bien que je reconnaisse son identité en tant que véritable divinité avec le pouvoir de décider du destin d'Inazuma, je serai prêtre à prendre votre position en cas de conflit avec elle.",
+      "fr": "Assister au Kendo d'insouciance et vivre pour en parler est un exploit. Bien que je reconnaisse son identité en tant que véritable divinité avec le pouvoir de décider du destin d'Inazuma, je serais prête à prendre votre parti en cas de conflit avec elle.",
       "pt": "Testemunhar o Musou no Hitotachi e viver para contar a história é um feito notável. Mesmo que eu a reconheça como nossa verdadeira divindade com o poder de mudar o destino de Inazuma à vontade, se houver conflito entre vocês dois, então... Eu escolho ficar ao seu lado.",
       "ru": "Быть свидетелем «Мусо но хитотати» и выжить - великий опыт, не так ли? Хотя для меня она - настоящее божество, которое может изменить судьбу Инадзумы в одно мгновение, если бы вы столкнулись, я была бы на твоей стороне.",
       "id": "Bisa menyaksikan Musou no Hitotachi dan masih bertahan hidup, bisa dibilang itu adalah pencapaian yang luar biasa. Walaupun bagiku, dia adalah dewa sejati yang sanggup mengubah nasib Inazuma dengan perintahnya, tapi seandainya terjadi konflik di antara kalian berdua ... aku pasti akan memihakmu.",
@@ -981,7 +981,7 @@
       "jp": "お祭りの開催は社奉行と巫女の役目ですが、あの花火師の方もお祭りの雰囲気に貢献しています。度重なる協同から、今ではお互いをよく知る関係になりました。\n\n…なんでしょう？治安と消防の問題？もちろん事前に対策を立てていますよ。そのような理由で花火が見られなくなってしまっては、皆さん残念がるでしょうから。",
       "ko": "축제를 운영하는 건 야시로 봉행과 무녀의 역할이지만, 그 폭죽 전문가도 축제를 떠들썩하게 만드는 데 일조한 셈이죠. 같이 일할 기회가 많아지다 보니 점점 친해졌어요.\n\n네? 치안과 소방 문제요? 사전 기획에 다 포함되어 있답니다. 이런 문제 때문에 불꽃놀이를 볼 수 없다면 사람들이 아쉬워할 거예요",
       "en": "The Yashiro Commission and the shrine maidens are responsible for festival affairs, and Yoimiya, as a fireworks expert, knows how to create an atmosphere. So we have become well acquainted with her over the years.\n\nHmm? Public order and fire prevention? We factor these concerns in well in advance during the planning stage. To deny people the chance to see fireworks simply for these reasons would leave them feeling very disappointed.",
-      "de": "Die Yashiro-Verwaltung und die Schreinjungfern sind für die Angelegenheiten des Festes zuständig und Yoiyima weiß als Feuerwerksexpertin, wie man eine Atmosphäre schafft. Wir haben uns also im Laufe der Jahre gut mit ihr angefreundet.\n\nHm? Öffentliche Ordnung und Feuerschutz? Wir berücksichtigen diese Belange schon im Vorfeld bei der Planung. Wenn wir den Leuten die Möglichkeit verwehren würden, ein Feuerwerk nur aus diesen Gründen zu sehen, würden sie sich sehr enttäuscht fühlen.",
+      "de": "Die Yashiro-Verwaltung und die Schreinjungfern sind für die Angelegenheiten des Festes zuständig und Yoimiya weiß als Feuerwerksexpertin, wie man eine Atmosphäre schafft. Wir haben uns also im Laufe der Jahre gut mit ihr angefreundet.\n\nHm? Öffentliche Ordnung und Feuerschutz? Wir berücksichtigen diese Belange schon im Vorfeld bei der Planung. Wenn wir den Leuten die Möglichkeit verwehren würden, ein Feuerwerk nur aus diesen Gründen zu sehen, würden sie sich sehr enttäuscht fühlen.",
       "es": "La Comisión Yashiro y las miko del santuario se encargan de organizar el festival, y Yoimiya, como experta pirotécnica, sabe cómo crear la atmósfera perfecta. De tanto colaborar, con el tiempo nos hemos conocido muy bien. ¿Eh? ¿El orden público y la prevención de incendios? Pensamos en esos asuntos durante la fase de planificación. Negar a la gente la posibilidad de ver los fuegos artificiales solo por eso les haría sentirse muy decepcionados.",
       "fr": "Il incombe à la Commission culturelle et aux prêtresses d'organiser les festivals. Yoimiya est une pyrotechnicienne qui sait comment mettre l'ambiance. J'ai appris à la connaître au fil de nos années de collaboration.\n\nHmm ? Les problèmes d'ordre et d'incendie ? Nous en tenons également compte au cours de la planification. Les gens seraient vraiment déçus de rater les feux d'artifice à cause de ça, pas vrai ?",
       "pt": "A Comissão Yashiro e as Sacerdotisas do santuário são responsáveis por assuntos do festival, e Yoiyima, como especialista em fogos de artifício, sabe como criar uma bela atmosfera. Então nós nos aproximamos bastante dela ao longo dos anos. Humm? Ordem pública e prevenção de incêndios? Levamos esses fatores em consideração bem no começo da etapa de planejamento. Seria uma enorme decepção se as pessoas não pudessem ver os fogos de artifício por motivos como esses.",
@@ -1259,7 +1259,7 @@
       "fr": "Plats préférés...",
       "pt": "Comida Favorita...",
       "ru": "Любимая еда...",
-      "id": "Makanan yang disukai",
+      "id": "Makanan Favorit",
       "th": "อาหารที่ชอบ...",
       "vi": "Món ăn yêu thích..."
     },
@@ -1383,7 +1383,7 @@
       "ko": "선물 획득·세 번째",
       "en": "Receiving a Gift: III",
       "de": "Geschenk erhalten III",
-      "es": "Al recibir un regalo (II)",
+      "es": "Al recibir un regalo (III)",
       "fr": "Cadeau reçu (3)",
       "pt": "Recebendo Presentes — III",
       "ru": "Подарок III",
@@ -1670,7 +1670,7 @@
       "jp": "元素爆発·1",
       "ko": "원소폭발·첫 번째",
       "en": "Elemental Burst: I",
-      "de": "Spezialfähigkeit – I",
+      "de": "Spezialfähigkeit I",
       "es": "Habilidad Definitiva (I)",
       "fr": "Déchaînement élémentaire (1)",
       "pt": "Supremo - I",
@@ -1702,7 +1702,7 @@
       "jp": "元素爆発·2",
       "ko": "원소폭발·두 번째",
       "en": "Elemental Burst: II",
-      "de": "Spezialfähigkeit – II",
+      "de": "Spezialfähigkeit II",
       "es": "Habilidad Definitiva (II)",
       "fr": "Déchaînement élémentaire (2)",
       "pt": "Supremo - II",
@@ -1734,7 +1734,7 @@
       "jp": "元素爆発·3",
       "ko": "원소폭발·세 번째",
       "en": "Elemental Burst: III",
-      "de": "Spezialfähigkeit – III",
+      "de": "Spezialfähigkeit III",
       "es": "Habilidad Definitiva (III)",
       "fr": "Déchaînement élémentaire (3)",
       "pt": "Supremo - III",
@@ -1949,6 +1949,70 @@
       "id": "Kita harus mengakhirinya!",
       "th": "ได้เวลาตัดสินแล้ว...",
       "vi": "Phải dứt khoát rồi..."
+    }
+  },
+  {
+    "title": {
+      "zhs": "同伴生命值低·其一",
+      "zht": "同伴生命值低·其一",
+      "jp": "仲間HP低下·1",
+      "ko": "동료 HP 감소·첫 번째",
+      "en": "Ally at Low HP: I",
+      "de": "Verbündeter hat niedrige LP I",
+      "es": "Aliado con vida baja (I)",
+      "fr": "Compagnon avec PV faibles (1)",
+      "pt": "Aliado com Vida baixa: I",
+      "ru": "Низкий уровень HP компаньона I",
+      "id": "HP Rekan Rendah: I",
+      "th": "ค่าพลังชีวิตของเพื่อนต่ำ - 1",
+      "vi": "HP Đồng Hành Thấp I"
+    },
+    "line": {
+      "zhs": "不可大意。",
+      "zht": "不可大意。",
+      "jp": "油断してはいけません。",
+      "ko": "방심하면 안 됩니다",
+      "en": "Do not overdo it.",
+      "de": "Sei auf der Hut!",
+      "es": "No te excedas.",
+      "fr": "N'en faites pas trop.",
+      "pt": "Não exagere.",
+      "ru": "Не переусердствуй.",
+      "id": "Jangan memaksa.",
+      "th": "จะประมาทไม่ได้นะ",
+      "vi": "Không được sơ suất."
+    }
+  },
+  {
+    "title": {
+      "zhs": "同伴生命值低·其二",
+      "zht": "同伴生命值低·其二",
+      "jp": "仲間HP低下·2",
+      "ko": "동료 HP 감소·두 번째",
+      "en": "Ally at Low HP: II",
+      "de": "Verbündeter hat niedrige LP II",
+      "es": "Aliado con vida baja (II)",
+      "fr": "Compagnon avec PV faibles (2)",
+      "pt": "Aliado com Vida baixa: II",
+      "ru": "Низкий уровень HP компаньона II",
+      "id": "HP Rekan Rendah: II",
+      "th": "ค่าพลังชีวิตของเพื่อนต่ำ - 2",
+      "vi": "HP Đồng Hành Thấp II"
+    },
+    "line": {
+      "zhs": "阁下务必小心。",
+      "zht": "閣下務必小心。",
+      "jp": "お気を付けください。",
+      "ko": "반드시 조심해 주세요",
+      "en": "Take care!",
+      "de": "Pass auf dich auf!",
+      "es": "¡Ten cuidado!",
+      "fr": "Faites attention !",
+      "pt": "Cuide-se!",
+      "ru": "Будь осторожней!",
+      "id": "Hati-hati ya!",
+      "th": "เธอต้องระวังตัวด้วยนะ",
+      "vi": "Các hạ phải cẩn thận."
     }
   },
   {

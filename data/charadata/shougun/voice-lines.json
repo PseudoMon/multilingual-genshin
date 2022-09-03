@@ -11,7 +11,7 @@
       "fr": "Première rencontre...",
       "pt": "Olá...",
       "ru": "Привет...",
-      "id": "Pertama Kali Bertemu",
+      "id": "Halo",
       "th": "พบกันครั้งแรก...",
       "vi": "Lần đầu gặp mặt..."
     },
@@ -139,7 +139,7 @@
       "fr": "Quand il pleut...",
       "pt": "Quando Está Chovendo...",
       "ru": "Когда идёт дождь...",
-      "id": "Waktu Hujan",
+      "id": "Ketika Turun Hujan",
       "th": "ในเวลาที่ฝนตก...",
       "vi": "Khi trời mưa..."
     },
@@ -203,7 +203,7 @@
       "fr": "Quand il neige...",
       "pt": "Quando Está Nevando...",
       "ru": "Когда идёт снег...",
-      "id": "Waktu Turun Salju",
+      "id": "Ketika Turun Salju",
       "th": "ในเวลาที่หิมะตก...",
       "vi": "Khi tuyết rơi..."
     },
@@ -1351,7 +1351,7 @@
       "ko": "선물 획득·세 번째",
       "en": "Receiving a Gift: III",
       "de": "Geschenk erhalten III",
-      "es": "Al recibir un regalo (II)",
+      "es": "Al recibir un regalo (III)",
       "fr": "Cadeau reçu (3)",
       "pt": "Recebendo Presentes — III",
       "ru": "Подарок III",
@@ -1766,7 +1766,7 @@
       "jp": "元素爆発·1",
       "ko": "원소폭발·첫 번째",
       "en": "Elemental Burst: I",
-      "de": "Spezialfähigkeit – I",
+      "de": "Spezialfähigkeit I",
       "es": "Habilidad Definitiva (I)",
       "fr": "Déchaînement élémentaire (1)",
       "pt": "Supremo - I",
@@ -1798,7 +1798,7 @@
       "jp": "元素爆発·2",
       "ko": "원소폭발·두 번째",
       "en": "Elemental Burst: II",
-      "de": "Spezialfähigkeit – II",
+      "de": "Spezialfähigkeit II",
       "es": "Habilidad Definitiva (II)",
       "fr": "Déchaînement élémentaire (2)",
       "pt": "Supremo - II",
@@ -1830,7 +1830,7 @@
       "jp": "元素爆発·3",
       "ko": "원소폭발·세 번째",
       "en": "Elemental Burst: III",
-      "de": "Spezialfähigkeit – III",
+      "de": "Spezialfähigkeit III",
       "es": "Habilidad Definitiva (III)",
       "fr": "Déchaînement élémentaire (3)",
       "pt": "Supremo - III",
@@ -2045,6 +2045,70 @@
       "id": "Hapuskan segala rintangan.",
       "th": "...ขจัดสิ่งกีดขวาง",
       "vi": "...Quét sạch chướng ngại."
+    }
+  },
+  {
+    "title": {
+      "zhs": "同伴生命值低·其一",
+      "zht": "同伴生命值低·其一",
+      "jp": "仲間HP低下·1",
+      "ko": "동료 HP 감소·첫 번째",
+      "en": "Ally at Low HP: I",
+      "de": "Verbündeter hat niedrige LP I",
+      "es": "Aliado con vida baja (I)",
+      "fr": "Compagnon avec PV faibles (1)",
+      "pt": "Aliado com Vida baixa: I",
+      "ru": "Низкий уровень HP компаньона I",
+      "id": "HP Rekan Rendah: I",
+      "th": "ค่าพลังชีวิตของเพื่อนต่ำ - 1",
+      "vi": "HP Đồng Hành Thấp I"
+    },
+    "line": {
+      "zhs": "至我后方待命。",
+      "zht": "至我後方待命。",
+      "jp": "私の後ろへ。",
+      "ko": "내 뒤에서 대기하도록",
+      "en": "Fall back and await my orders.",
+      "de": "Zieht euch zurück und wartet auf meine Befehle.",
+      "es": "Quédate detrás y espera órdenes.",
+      "fr": "Repliez-vous et attendez mes ordres.",
+      "pt": "Recuem e aguardem minhas ordens.",
+      "ru": "Отступи и жди моих указаний.",
+      "id": "Mundur dan tunggu perintah dariku.",
+      "th": "ไปยืนรอข้างหลังฉัน",
+      "vi": "Đứng đằng sau và chờ lệnh của tôi."
+    }
+  },
+  {
+    "title": {
+      "zhs": "同伴生命值低·其二",
+      "zht": "同伴生命值低·其二",
+      "jp": "仲間HP低下·2",
+      "ko": "동료 HP 감소·두 번째",
+      "en": "Ally at Low HP: II",
+      "de": "Verbündeter hat niedrige LP II",
+      "es": "Aliado con vida baja (II)",
+      "fr": "Compagnon avec PV faibles (2)",
+      "pt": "Aliado com Vida baixa: II",
+      "ru": "Низкий уровень HP компаньона II",
+      "id": "HP Rekan Rendah: II",
+      "th": "ค่าพลังชีวิตของเพื่อนต่ำ - 2",
+      "vi": "HP Đồng Hành Thấp II"
+    },
+    "line": {
+      "zhs": "退下。",
+      "zht": "退下。",
+      "jp": "下がりなさい。",
+      "ko": "물러나라",
+      "en": "Step aside.",
+      "de": "Halte dich zurück.",
+      "es": "A un lado.",
+      "fr": "Retirez-vous.",
+      "pt": "Parado.",
+      "ru": "Назад.",
+      "id": "Minggir.",
+      "th": "ถอยไป",
+      "vi": "Lui ra."
     }
   },
   {

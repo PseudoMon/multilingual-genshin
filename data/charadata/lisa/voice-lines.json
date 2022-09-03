@@ -44,7 +44,7 @@
       "pt": "Bate-papo - Chá da Tarde",
       "ru": "Поболтаем: Послеобеденный чай",
       "id": "Berbincang: Waktu Minum Teh",
-      "th": "แชท-น้ำชายามบ่าย",
+      "th": "แชท - น้ำชายามบ่าย",
       "vi": "Nói chuyện phiếm - Trà chiều"
     },
     "line": {
@@ -76,7 +76,7 @@
       "pt": "Bate-papo - Missão",
       "ru": "Поболтаем: Поручение",
       "id": "Berbincang: Misi",
-      "th": "แชท-หน้าที่",
+      "th": "แชท - หน้าที่",
       "vi": "Nói chuyện phiếm - Nhiệm vụ"
     },
     "line": {
@@ -108,7 +108,7 @@
       "pt": "Bate-papo - Não é recomendado sair",
       "ru": "Поболтаем: Из дома ни ногой",
       "id": "Berbincang: Malas Keluar",
-      "th": "แชท-ไม่ออกไปไหน",
+      "th": "แชท - ไม่ออกไปไหน",
       "vi": "Nói chuyện phiếm - Không thích hợp ra ngoài"
     },
     "line": {
@@ -139,7 +139,7 @@
       "fr": "Quand il pleut...",
       "pt": "Quando Está Chovendo...",
       "ru": "Когда идёт дождь...",
-      "id": "Waktu Hujan",
+      "id": "Ketika Turun Hujan",
       "th": "ในเวลาที่ฝนตก...",
       "vi": "Khi trời mưa..."
     },
@@ -171,7 +171,7 @@
       "fr": "Quand le tonnerre gronde...",
       "pt": "Quando Está Trovejando...",
       "ru": "Когда гремит гром...",
-      "id": "Waktu Petir Menyambar",
+      "id": "Ketika Petir Menyambar",
       "th": "ในเวลาที่ฟ้าผ่า...",
       "vi": "Khi có sấm sét..."
     },
@@ -555,7 +555,7 @@
       "fr": "Détails intéressants...",
       "pt": "Coisas Interessantes...",
       "ru": "Интересные вещи...",
-      "id": "Rumor yang menarik",
+      "id": "Kisah Menarik",
       "th": "ข้อมูลที่น่าสนใจ...",
       "vi": "Những kiến thức thú vị..."
     },
@@ -1050,7 +1050,7 @@
       "fr": "Pardon ? Tu voudrais apprendre la magie enseignée à l'Académie de Sumeru ? Ce serait un peu difficile pour toi... Si tu insistes, commence par cette introduction de 800 pages seulement.",
       "pt": "O quê? Você quer aprender magia de Academia de Sumeru? Talvez seja um pouco difícil para você agora. Você quer aprender pelo menos conhecimento básico? Ok, bom! Então leia primeiro esta \"Guia\", que contém apenas 800 páginas.",
       "ru": "Что? Ты хочешь обучиться магии Академии Сумеру? Боюсь, пока что она тебе не по силам... Хотя, я думаю, знать некоторые основы тебе не повредит. Вот, начни с этой книжки для начинающих, тут всего восемьсот страниц.",
-      "id": "Apa? Ingin belajar ilmu sihir Sumeru Academia? Tapi mungkin kamu akan menanggung beban yang lebih berat karenanya, bagaimana? Atau kamu cukup tahu sedikit dulu saja tentang dasar-dasarnya? Kalau mau, silakan kamu baca dulu buku \"Magic Guide\" ini, hanya terdapat sekitar 800 halaman saja.",
+      "id": "Apa? Ingin belajar ilmu sihir Sumeru Akademiya? Tapi mungkin kamu akan menanggung beban yang lebih berat karenanya, bagaimana? Atau kamu cukup tahu sedikit dulu saja tentang dasar-dasarnya? Kalau mau, silakan kamu baca dulu buku \"Magic Guide\" ini, hanya terdapat sekitar 800 halaman saja.",
       "th": "ว่าไงนะ? อยากเรียนรู้เวทมนตร์ของสถาบัน Sumeru? ฉันเกรงว่าตอนนี้มันน่าจะหนักไป สำหรับเธอนะ... หา? อยากเรียนรู้วิชาพื้นฐานก็ได้ งั้นเหรอ? งั้นอ่าน \"บทนำ\" เล่มนี้ให้จบก่อนสิ มีแค่ 800 หน้าเอง",
       "vi": "Gì cơ? Muốn học ma thuật của Giáo Viện Sumeru? Nhưng đối với cưng bây giờ có chút nặng nề... Hả? Muốn học những kiến thức sơ đẳng? Vậy trước tiên hãy đọc hết cuốn \"Tóm Tắt\" này đi, chỉ có hơn 800 trang thôi."
     }
@@ -1163,7 +1163,7 @@
       "fr": "Plats préférés...",
       "pt": "Comida Favorita...",
       "ru": "Любимая еда...",
-      "id": "Makanan favorit",
+      "id": "Makanan Favorit",
       "th": "อาหารที่ชอบ...",
       "vi": "Món ăn yêu thích..."
     },
@@ -1287,7 +1287,7 @@
       "ko": "선물 획득·세 번째",
       "en": "Receiving a Gift: III",
       "de": "Geschenk erhalten III",
-      "es": "Al recibir un regalo (II)",
+      "es": "Al recibir un regalo (III)",
       "fr": "Cadeau reçu (3)",
       "pt": "Recebendo Presentes — III",
       "ru": "Подарок III",
@@ -1670,7 +1670,7 @@
       "jp": "元素爆発·1",
       "ko": "원소폭발·첫 번째",
       "en": "Elemental Burst: I",
-      "de": "Spezialfähigkeit – I",
+      "de": "Spezialfähigkeit I",
       "es": "Habilidad Definitiva (I)",
       "fr": "Déchaînement élémentaire (1)",
       "pt": "Supremo - I",
@@ -1702,7 +1702,7 @@
       "jp": "元素爆発·2",
       "ko": "원소폭발·두 번째",
       "en": "Elemental Burst: II",
-      "de": "Spezialfähigkeit – II",
+      "de": "Spezialfähigkeit II",
       "es": "Habilidad Definitiva (II)",
       "fr": "Déchaînement élémentaire (2)",
       "pt": "Supremo - II",
@@ -1734,7 +1734,7 @@
       "jp": "元素爆発·3",
       "ko": "원소폭발·세 번째",
       "en": "Elemental Burst: III",
-      "de": "Spezialfähigkeit – III",
+      "de": "Spezialfähigkeit III",
       "es": "Habilidad Definitiva (III)",
       "fr": "Déchaînement élémentaire (3)",
       "pt": "Supremo - III",
@@ -1953,6 +1953,70 @@
   },
   {
     "title": {
+      "zhs": "同伴生命值低·其一",
+      "zht": "同伴生命值低·其一",
+      "jp": "仲間HP低下·1",
+      "ko": "동료 HP 감소·첫 번째",
+      "en": "Ally at Low HP: I",
+      "de": "Verbündeter hat niedrige LP I",
+      "es": "Aliado con vida baja (I)",
+      "fr": "Compagnon avec PV faibles (1)",
+      "pt": "Aliado com Vida baixa: I",
+      "ru": "Низкий уровень HP компаньона I",
+      "id": "HP Rekan Rendah: I",
+      "th": "ค่าพลังชีวิตของเพื่อนต่ำ - 1",
+      "vi": "HP Đồng Hành Thấp I"
+    },
+    "line": {
+      "zhs": "逞强可不好。",
+      "zht": "逞強可不好。",
+      "jp": "我慢はよくないわよ～",
+      "ko": "센 척은 안 좋아~",
+      "en": "Don't force it, darling.",
+      "de": "Lass uns nichts überstürzen.",
+      "es": "No te fuerces, cariño.",
+      "fr": "Il n'est pas bon d'être téméraire.",
+      "pt": "Não é bom se amostrar.",
+      "ru": "Не геройствуй.",
+      "id": "Jangan memaksakan diri, sayang.",
+      "th": "การอวดเก่งไม่ใช่เรื่องดีนะ",
+      "vi": "Đừng có mà ỷ mạnh."
+    }
+  },
+  {
+    "title": {
+      "zhs": "同伴生命值低·其二",
+      "zht": "同伴生命值低·其二",
+      "jp": "仲間HP低下·2",
+      "ko": "동료 HP 감소·두 번째",
+      "en": "Ally at Low HP: II",
+      "de": "Verbündeter hat niedrige LP II",
+      "es": "Aliado con vida baja (II)",
+      "fr": "Compagnon avec PV faibles (2)",
+      "pt": "Aliado com Vida baixa: II",
+      "ru": "Низкий уровень HP компаньона II",
+      "id": "HP Rekan Rendah: II",
+      "th": "ค่าพลังชีวิตของเพื่อนต่ำ - 2",
+      "vi": "HP Đồng Hành Thấp II"
+    },
+    "line": {
+      "zhs": "要姐姐帮忙吗？",
+      "zht": "要姐姐幫忙嗎？",
+      "jp": "お姉さんが手伝ってあげよっか？",
+      "ko": "내가 도와줄까?",
+      "en": "Do you need me to lend a hand?",
+      "de": "Soll ich dir zur Hand gehen?",
+      "es": "¿Necesitas que te eche una mano?",
+      "fr": "Besoin d'un coup de main ?",
+      "pt": "Você precisa da minha ajuda?",
+      "ru": "Нужна моя помощь?",
+      "id": "Perlu bantuan tidak?",
+      "th": "ให้พี่สาวช่วยมั้ย?",
+      "vi": "Muốn chị đây giúp không?"
+    }
+  },
+  {
+    "title": {
       "zhs": "倒下·其一",
       "zht": "倒下·其一",
       "jp": "戦闘不能·1",
@@ -1975,7 +2039,7 @@
       "en": "Going out is tiring...",
       "de": "Rausgehen ist anstrengend ...",
       "es": "Qué agotador es salir...",
-      "fr": "Sortir est si fatiguant...",
+      "fr": "Sortir est si fatigant...",
       "pt": "Sair de casa é cansativo...",
       "ru": "Уходить утомительно...",
       "id": "Bepergian itu melelahkan...",

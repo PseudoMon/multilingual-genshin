@@ -171,7 +171,7 @@
       "fr": "Quand le tonnerre gronde...",
       "pt": "Quando Está Trovejando...",
       "ru": "Когда гремит гром...",
-      "id": "Saat Petir Menyambar",
+      "id": "Ketika Petir Menyambar",
       "th": "ในเวลาที่ฟ้าผ่า...",
       "vi": "Khi có sấm sét..."
     },
@@ -235,7 +235,7 @@
       "fr": "Le vent souffle fort...",
       "pt": "A Ventania Está Chegando...",
       "ru": "Когда дует сильный ветер...",
-      "id": "Saat Angin Berembus",
+      "id": "Ketika Angin Berembus",
       "th": "ในเวลาที่ลมพัดแรง...",
       "vi": "Gió lớn quá..."
     },
@@ -251,7 +251,7 @@
       "pt": "Hehe, vai precisar de mais que isso para formar um ciclone!",
       "ru": "Ещё сильнее! Чтобы образовался ураган, нужно больше ветра!",
       "id": "Hah, masih perlu lebih banyak angin lagi sampai bisa jadi Angin Ribut!",
-      "th": "สู้เค้านะ! ลมอ่อน ๆ แบบนี้น่ะเกิดเป็น \"ลมพายุ\" ไม่ได้หรอก",
+      "th": "สู้เค้านะ! ลมอ่อน ๆ แบบนี้น่ะเกิดเป็น \"พายุหมุน\" ไม่ได้หรอก",
       "vi": "Cố lên! Chút gió này không tạo nổi \"bão tố\" đâu."
     }
   },
@@ -281,7 +281,7 @@
       "es": "Buenos días. Vaya, no tienes buen aspecto. No habrás tenido una pesadilla, ¿no? *Suspira*, tenía que haber sabido que no era buena idea involucrarte tan pronto en un caso tan impactante.",
       "fr": "Bonjour ! Dites donc, vous n'avez pas l'air en forme. Vous avez fait un cauchemar ? *soupir* J'aurais dû savoir qu'il fallait attendre un peu avant de vous mêler à une affaire aussi choquante.",
       "pt": "Bom dia! Oh, você não parece bem. Teve um pesadelo? *Suspiro* Eu não deveria ter lhe contado um caso tão chocante tão cedo.",
-      "ru": "#Доброе утро. Выглядишь неважно. Тебе приснился кошмар? Эх... Я должен был догадаться, что ты ещё не готов{F#а} к таком шокирующему делу.",
+      "ru": "#Доброе утро. Выглядишь неважно. Тебе приснился кошмар? Эх... Я должен был догадаться, что ты ещё не готов{F#а} к такому шокирующему делу.",
       "id": "Pagi. Oh astaga, kamu kelihatan lesu. Apa kamu mimpi buruk semalam? *huff* Harusnya aku jangan memberimu kasus yang berat begitu ya.",
       "th": "อรุณสวัสดิ์ ดูเธอไม่ค่อยร่าเริงเลย คงไม่ได้ฝันร้ายใช่มั้ย? ถ้ารู้แบบนี้แต่แรก คงให้เธอมาเจอกับคดีช้ากว่านี้หน่อยแล้วล่ะ",
       "vi": "#Chào buổi sáng, trông sắc mặt của {F#cô}{M#cậu} không ổn lắm, gặp ác mộng sao? Sớm biết vậy thì tôi sẽ không để {F#cô}{M#cậu} tiếp xúc với trọng án sớm rồi."
@@ -619,7 +619,7 @@
       "fr": "Détails intéressants...",
       "pt": "Coisas Interessantes...",
       "ru": "Интересные вещи...",
-      "id": "Hal Menarik",
+      "id": "Kisah Menarik",
       "th": "ข้อมูลที่น่าสนใจ...",
       "vi": "Những kiến thức thú vị..."
     },
@@ -827,7 +827,7 @@
       "pt": "Oh, é uma pena! Desde quando o Decreto de Caça à Visão foi revogado, eu não tenho mais como oficialmente prendê-lo. Bem, acho que agora posso convidá-lo para vir até a Comissão Tenryou para discutir casos comigo.",
       "ru": "Как жаль! С отменой Охоты на Глаза Бога у меня не осталось оснований для его официального ареста. С другой стороны... Теперь я могу просто пригласить его в комиссию Тэнрё, чтобы обсудить с ним дела.",
       "id": "Ohhh ... sayang sekali! Sejak Dekrit Perburuan Vision dicabut, aku sudah tidak punya lagi alasan untuk menangkapnya. Tapi ... kurasa sekarang aku bisa mengundangnya secara langsung ke Tenryou Commission untuk diskusi langsung denganku.",
-      "th": "น่าเสียดายจังเลยน้า! หลังจากที่คำสั่งล่าวิชั่นถูกยกเลิกไป ฉันก็ไม่สามารถตามจับเขาโดยตรงได้อีกแล้ว! แต่ในเมื่อเป็นแบบนั้น งั้นก็หมายความว่า... ฉันสามารถเชิญเขามาที่สำนัก Tenryou เพื่อพูดคุยกันเกี่ยวกับเรื่องคดีได้อย่างเปิดเผยแล้วสินะ!",
+      "th": "น่าเสียดายจังเลยน้า! หลังจากที่คำสั่งล่าวิชั่นถูกยกเลิกไป ฉันก็ไม่มีเหตุผลทางการให้ต้องจับเขาอีกต่อไป! แต่ในเมื่อเป็นแบบนั้น งั้นก็หมายความว่า... ฉันสามารถเชิญเขามาที่สำนัก Tenryou เพื่อพูดคุยกันเกี่ยวกับเรื่องคดีได้อย่างเปิดเผยแล้วสินะ!",
       "vi": "Thật đáng tiếc! Sau khi Lệnh Truy Lùng Vision bị bãi bỏ thì tôi không thể đường đường chính chính đi bắt anh ta được! Nhưng cũng có nghĩa là... tôi có thể quang minh chính đại đi mời anh ta đến Hiệp Hội Tenryou để thảo luận vụ án rồi!"
     }
   },
@@ -919,7 +919,7 @@
       "en": "I'm barely acquainted with the daughter of the Kamisato Clan. I'm glad that I'm not from some sort of prestigious family like that... it's definitely not the kind of life for me.",
       "de": "Ich glaube, die Tochter des Kamisato-Klans und ich sind nur flüchtige Bekannte. Zum Glück ist meine Familie keine berühmte Familie. Diese Art von Leben passt nicht zu mir.",
       "es": "No conozco mucho a la descendiente del clan Kamisato. Y me alegro de no pertenecer a una familia tan prestigiosa como la suya... No es un estilo de vida que vaya conmigo.",
-      "fr": "Je connais à peine la fille du clan Kamisato. Je suis heureux de ne pas être issu d'une famille prestigieuse comme celle-là... Ce n'est certainement pas le genre de vie qui me convient.",
+      "fr": "Je connais à peine la fille du Clan Kamisato. Je suis heureux de ne pas être issu d'une famille prestigieuse comme celle-là... Ce n'est certainement pas le genre de vie qui me convient.",
       "pt": "Eu não conheço a Senhorita Kamisato do Clã Kamisato muito bem. Estou satisfeito que não sou de uma família de prestígio como ela... Essa vida não é para mim.",
       "ru": "Я едва знаком с молодой госпожой клана Камисато. К счастью, я из обычной семьи... Такая жизнь точно не для меня.",
       "id": "Aku cuma tahu saja soal putri dari Klan Kamisato. Aku lega bahwa aku bukan berasal dari keluarga terpandang sepertinya ... aku bisa merasa aku tidak cocok hidup dengan gaya seperti itu.",
@@ -948,7 +948,7 @@
       "zht": "#就算一個人保持沉默，也能從他的衣著、動作、表情來掌握資訊哦。如果接下來我的話就此打住…{F#妳}{M#你}又能從我身上讀到什麼呢？",
       "jp": "たとえ相手が沈黙していても、服装や動作、そして表情から情報は得られるんだよ。もし僕が喋るのを止めたら…君は僕から何を読み取れるかな？",
       "ko": "입을 다물고 있어도 그 사람의 옷차림과 행동, 표정에서 정보를 파악할 수 있어. 내가 입을 닫으면… 넌 내게서 뭘 읽어낼 수 있을까?",
-      "en": "Even when someone chooses to remain absolutely silent, you can still learn a lot about them just by observing their clothes, posture, and facial expressions. Now, if this conversation ended here... what could you gather from my appearance alone?",
+      "en": "Even if someone chooses to remain absolutely silent, you can still learn a lot about them just by observing their clothes, posture, and facial expressions. Now, if this conversation ended here... what could you gather from my appearance alone?",
       "de": "Selbst wenn eine Person schweigt, kann man aus ihrer Kleidung, ihren Bewegungen und ihrer Mimik Informationen erhalten. Wenn ich hier aufhöre ... was kannst du dann von mir lesen?",
       "es": "Incluso cuando una persona decide permanecer en silencio, puedes averiguar muchas cosas sobre ella observando únicamente su ropa, postura y expresión facial. Entonces, si esta conversación terminara ahora mismo... ¿qué averiguarías solamente a partir de mi apariencia?",
       "fr": "Même lorsque quelqu'un choisit de rester absolument silencieux, vous pouvez en apprendre beaucoup sur lui en observant simplement ses vêtements, sa posture et ses expressions faciales. Maintenant, si notre conversation se terminait ici... que pourriez-vous déduire de ma seule apparence ?",
@@ -1013,7 +1013,7 @@
       "jp": "浮気調査にペット探し…探偵所の案件はいつもこんな感じで、刺激が足りなくてさ。だから仕方なく、こっそり天領奉行に移ったんだ。もう一つの原因は、珊瑚所長とは考えが合わなかったこと。こればかりはどうしようもないでしょ。",
       "ko": "외도를 조사하고, 애완동물을 찾고… 탐정소에서 받은 사건은 다 그저 그랬고 시시했어. 그래서 기회를 엿보다 텐료 봉행으로 갔지. 산고 사장이랑 이념이 안 맞았던 것도 이유 중 하나야. 어쩔 수 없었어",
       "en": "Investigating extramarital affairs, tracking down runaway pets... Those are pretty much the only cases you'll find at a detective agency. I personally need cases of a higher caliber... so, obviously, my only option was to jump ship and join the Tenryou Commission. Another factor was that Sango and I didn't quite see eye to eye in a lot of areas... Just one of those things, I guess.",
-      "de": "Affären untersuchen, Haustiere finden ... Die ich von der Detektei bekommenden Fälle sind immer gleich. Und es ist nicht genug, um mich selbst zu fordern. Deshalb musste ich die Gelegenheit finden, bei der Tenryou-Verwaltung zu arbeiten. Ein weiterer Grund ist, dass ich mit der Philosophie von Präsidentin Sango nicht einverstanden bin, und das kann ich nichts tun.",
+      "de": "Affären untersuchen, Haustiere finden ... Die Fälle, die ich von der Detektei bekomme, sind immer gleich. Und es ist nicht genug, um mich selbst zu fordern. Deshalb musste ich die Gelegenheit finden, bei der Tenryou-Verwaltung zu arbeiten. Ein weiterer Grund ist, dass ich mit der Philosophie von Präsidentin Sango nicht einverstanden bin, und da kann ich nichts tun.",
       "es": "Investigar relaciones extramatrimoniales, buscar mascotas... Esos son, básicamente, los únicos casos que llegan a las agencias de detectives. Personalmente, necesito casos de mayor envergadura, por eso mi única opción era dejar ese barco y unirme a la Comisión Tenryou. Otra razón fue que la detective Sango y yo no estamos de acuerdo en muchos aspectos... Es una de esas cosas que no tienen remedio.",
       "fr": "Enquêter sur des affaires extraconjugales, retrouver des animaux domestiques en fuite... Ce sont à peu près les seules affaires que l'on trouve dans une agence de détectives. Personnellement, j'ai besoin de dossiers d'un calibre plus élevé... Il est donc évident que ma seule option était de quitter le navire et de rejoindre la Commission administrative. De plus, Sango et moi n'étions pas toujours d'accord sur certains points... Ce sont des choses qui arrivent, je suppose.",
       "pt": "Investigar casos extra-conjugais, procurar por animais desaparecidos... Esses são os únicos tipos de casos que se encontram em uma agência de detetives. Eu preciso de casos maiores... Por isso, minha única alternativa era me juntar à Comissão Tenryou. Outro fato é que eu e Sango não concordávamos em muitas coisas... Não havia o que fazer.",
@@ -1044,7 +1044,7 @@
       "zht": "剛進天領奉行時，我拿未結案的卷宗來練手，不知不覺間，那座「卷宗山」也快被我咻地推平了…可惜啊，現在已經沒時間再看以前的卷宗囉，很多案子都點名要我支援，忙得喘不過氣啊…也沒辦法嘛。足夠優秀的偵探，案子會自己找上門來。",
       "jp": "天領奉行に入った当初は、未解決の事件で自分を鍛えていたんだけど、気が付いたらあの「書類の山」を全部処理しちゃってて…。そしたら今は、多くの事件を手助けするのに忙しすぎて、昔の書類を見る時間が無くなっちゃった…。残念だけど、まぁ、それもしょうがない。優秀な探偵のところには、自ずと事件が集まってくるものだからね。",
       "ko": "텐료 봉행에 막 들어갔을 때는, 미해결 공문으로 연습했어. 어느새 「공문서 더미」가 금세 없어졌지…. 아쉽지만 이제는 예전 공문서를 볼 시간이 없어. 날 지명해서 지원을 요청하는 사건이 많아서 숨돌릴 틈도 없이 바쁘거든… 어쩔 수 없지. 뛰어난 탐정에겐 사건이 알아서 찾아오는 법이니까",
-      "en": "When I first joined the Tenryou Commission, I started honing my craft by reviewing some cold cases. Before I knew it, \"Mt. Coldcase\" had been completely leveled... It is a pity, these days I no longer have the time to go back and look through old files. I'm forever being brought in to help out on the toughest cases, and I barely have a moment to catch my breath between jobs... Well, what can you do. Once you're a detective of this caliber, the cases come to you.",
+      "en": "When I first joined the Tenryou Commission, I started honing my craft by reviewing some cold cases. Before I knew it, \"Mt. Coldcase\" had been completely leveled... It is a pity, these days I no longer have the time to go back and look through old files. I'm forever being brought in to help out on the toughest cases, and I barely have a moment to catch my breath in between jobs... Well, what can you do. Once you're a detective of this caliber, the cases come to you.",
       "de": "Als ich bei der Tenryou-Verwaltung anfing, übte ich’s mit offenen Fällen. Ehe ich mich versah, wurde der „Aktenberg“ fast von mir platt gemacht ... Leider habe ich jetzt keine Zeit mehr, die alten Akten zu lesen, weil ich gebeten bin, viele Fälle zu unterstützen. Ich bin einfach zu beschäftigt ... Aber ich kann nichts dafür. Wenn du als Detektiv gut genug bist, werden die Fälle zu dir kommen.",
       "es": "Cuando me uní a la Comisión Tenryou, empecé a practicar revisando casos sin resolver, y antes de que me diera cuenta, había reducido una buena parte de ellos. Es una pena que ahora no tenga tiempo de revisar casos antiguos. Siempre me llaman para ayudar en los más complicados y apenas puedo respirar entre un caso y otro. Pero qué se le va a hacer... Una vez que te conviertes en un detective de este nivel, los casos vienen a ti.",
       "fr": "Quand j'ai rejoint la Commission administrative, j'ai affûté mes compétences en examinant des affaires non résolues. Et puis, sans que je m'en rende compte, la montagne de dossiers qui se trouvait sur le bureau a fini par être complètement aplanie... C'est dommage, ces jours-ci, je n'ai plus le temps de repasser les vieux cas. On me demande sans cesse d'aider à résoudre les affaires les plus difficiles, et j'ai à peine le temps de reprendre mon souffle entre deux missions... Que voulez-vous, quand vous êtes un inspecteur de mon rang, ce sont les dossiers qui viennent à vous.",
@@ -1104,17 +1104,17 @@
       "vi": "Sở thích của Shikanoin Heizou..."
     },
     "line": {
-      "zhs": "要来旁听天领奉行的法庭判决吗？看着真相就像碎裂的剪贴画一样被拼接完整…我可以替你占个绝好的观席位。我们只要装作不认识就行了，装作。",
-      "zht": "#要來旁聽天領奉行的法庭判決嗎？看著真相就像碎裂的剪貼畫一樣被拼接完整…我可以替{F#妳}{M#你}佔個絕好的觀席位。我們只要裝作不認識就行了，裝作。",
+      "zhs": "要来旁听天领奉行的法庭判决吗？看着真相就像碎裂的剪贴画一样被拼接完整…我可以替你占个绝好的观看席位。我们只要装作不认识就行了，装作。",
+      "zht": "#要來旁聽天領奉行的法庭判決嗎？看著真相就像碎裂的剪貼畫一樣被拼接完整…我可以替{F#妳}{M#你}佔個絕好的觀看席位。我們只要裝作不認識就行了，裝作。",
       "jp": "天領奉行の法廷で審理を傍聴してみない？まもなく、嵌め絵が完成するかのように、真実が明るみになる…君のために最高の席を取ってあげるよ。僕とは関係ありませんってフリをすれば、何の問題もないさ。",
-      "ko": "텐료 봉행의 법정 판결을 방청해 볼래? 조각난 그림 같은 진실이 다시 맞춰지는 걸 보게 될 거야… 좋은 자리를 맡아줄게. 나랑 모르는 척만 하면 돼",
+      "ko": "텐료 봉행의 법정 판결을 방청해 볼래? 조각난 그림 같은 진실이 다시 맞춰지는 걸 보게 될 거야…. 좋은 자리를 맡아줄게. 나랑 모르는 척만 하면 돼",
       "en": "Would you like to sit in on a court trial at the Tenryou Commission some time? It's like watching the truth slowly emerge as a collage of facts is pieced together... I can save you a really good seat, but we'll have to pretend like we don't know each other... You know, just pretend.",
       "de": "Möchtest du dir das Urteil des Gerichts bei der Tenryou-Verwaltung anhören? Möchtest du dir anschauen, wie die Wahrheit wie eine Collage zusammengesetzt wird ... Ich kann einen fantastischen Zuschauerplatz für dich einnehmen. Wir müssen einfach so tun, als ob wir uns nicht kennen.",
       "es": "¿Te gustaría ir de oyente a un juicio de la Comisión Tenryou alguna vez? Es como ver la verdad esclarecerse mientras se recompone el collage de los hechos. Te puedo reservar un buen asiento, pero tendremos que fingir que no nos conocemos. Ya sabes, solo fingir.",
       "fr": "Aimeriez-vous assister à un procès à la Commission administrative un jour ? C'est comme regarder la vérité émerger lentement, au fur et à mesure que les éléments de l'enquête sont recollés les uns aux autres... Je peux vous réserver une très bonne place, mais on devra faire comme si l'on ne se connaissait pas... Il faudra faire semblant, oui.",
       "pt": "Você gostaria de se sentar em um julgamento da Comissão Tenryou? É como assistir a verdade lentamente ser revelada como um quebra-cabeça de fatos sendo montado... Eu posso reservar um bom pedaço para você, mas teremos que fingir que não nos conhecemos... Bem, só fingir mesmo.",
       "ru": "Хочешь поприсутствовать на судебном процессе комиссии Тэнрё? Это похоже на наблюдение за тем, как медленно всплывает истина, как коллаж из фактов собирается воедино... Я могу занять тебе очень хорошее место, но нам придётся притвориться, что мы не знакомы... Просто притвориться.",
-      "id": "Apa suatu saat kamu mau mengikuti sidang di Tenryou Commission? Ini seperti melihat kebenaran yang perlahan muncul dan tersambung satu sama lain ... Aku bisa kasih kamu kursi yang bagus, tapi kita harus pura-pura tidak saling kenal ya.",
+      "id": "Mau coba ikutan prosesi sidang di Tenryou Commission? Ini seperti melihat kebenaran yang perlahan muncul dan tersambung satu sama lain ... Aku bisa kasih kamu tempat duduk yang bagus, tapi kita harus pura-pura tidak kenal ya.",
       "th": "อยากมาฟังการพิจารณาคดีของสำนัก Tenryou มั้ย? จะได้เห็นความจริงที่เหมือนชิ้นส่วนแตกสลายค่อย ๆ ประกอบเข้าด้วยกันจนเสร็จสมบูรณ์... ฉันสามารถจัดที่นั่งที่ดีที่สุดให้เธอได้นะ พวกเราแค่ต้องแสร้งทำเป็นคนไม่รู้จักกันเท่านั้นแหละ แค่แสร้งน่ะ",
       "vi": "#Muốn nghe phán quyết của tòa án Hiệp Hội Tenryou chứ? Nó cứ như một sự thật đang dần hiện ra khi ghép những mảnh xếp hình lại với nhau vậy... Tôi có thể xí trước chỗ ngồi dự thính tốt cho {F#cô}{M#cậu}, chúng ta chỉ cần giả vờ không quen biết nhau là được, chỉ là giả vờ thôi, haha."
     }
@@ -1163,7 +1163,7 @@
       "fr": "Plats préférés...",
       "pt": "Comida Favorita...",
       "ru": "Любимая еда...",
-      "id": "Makanan Kesukaan",
+      "id": "Makanan Favorit",
       "th": "อาหารที่ชอบ...",
       "vi": "Món ăn yêu thích..."
     },
@@ -1435,7 +1435,7 @@
       "pt": "Oh, nesse ritmo, eu me tornarei de verdade o \"Ciclone\" que todos falam...",
       "ru": "Вот это да! Скоро меня все станут называть «Ураган».",
       "id": "Oh, astaga! Sekarang julukan \"Angin Ribut\" pasti jadi nempel nih.",
-      "th": "โอ๊ะโอ ฉันจะได้กลายเป็น \"ลมพายุ\" อย่างที่ทุกคนเรียกกันแล้ว",
+      "th": "โอ๊ะโอ ฉันจะได้กลายเป็น \"พายุหมุน\" อย่างที่ทุกคนเรียกกันแล้ว",
       "vi": "Ây da, tôi muốn trở thành \"bão tố\" mà người ta hay nói rồi đây."
     }
   },
@@ -1853,6 +1853,70 @@
       "id": "Ini bukan pekerjaan seorang detektif ....",
       "th": "นี่มันอยู่นอกเหนือหน้าที่ของนักสืบแล้วมั้ง?",
       "vi": "Chắc là ngoài phạm vi công việc của thám tử rồi..."
+    }
+  },
+  {
+    "title": {
+      "zhs": "同伴生命值低·其一",
+      "zht": "同伴生命值低·其一",
+      "jp": "仲間HP低下·1",
+      "ko": "동료 HP 감소·첫 번째",
+      "en": "Ally at Low HP: I",
+      "de": "Verbündeter hat niedrige LP I",
+      "es": "Aliado con vida baja (I)",
+      "fr": "Compagnon avec PV faibles (1)",
+      "pt": "Aliado com Vida baixa: I",
+      "ru": "Низкий уровень HP компаньона I",
+      "id": "HP Rekan Rendah: I",
+      "th": "ค่าพลังชีวิตของเพื่อนต่ำ - 1",
+      "vi": "HP Đồng Hành Thấp I"
+    },
+    "line": {
+      "zhs": "哎呀呀，小心哦！",
+      "zht": "哎呀呀，小心哦！",
+      "jp": "ちょっと、気をつけてよ！",
+      "ko": "이봐, 조심해!",
+      "en": "Whoa there, watch it!",
+      "de": "Oh, Vorsicht!",
+      "es": "¡Eh, eh, cuidado!",
+      "fr": "Ouah, attention !",
+      "pt": "Ei! Ei! Cuidado!",
+      "ru": "Ай, осторожно!",
+      "id": "Wow, hati-hati!",
+      "th": "อ้าว โอ้ว ระวังด้วย!",
+      "vi": "Ai da ai da, cẩn thận chứ!"
+    }
+  },
+  {
+    "title": {
+      "zhs": "同伴生命值低·其二",
+      "zht": "同伴生命值低·其二",
+      "jp": "仲間HP低下·2",
+      "ko": "동료 HP 감소·두 번째",
+      "en": "Ally at Low HP: II",
+      "de": "Verbündeter hat niedrige LP II",
+      "es": "Aliado con vida baja (II)",
+      "fr": "Compagnon avec PV faibles (2)",
+      "pt": "Aliado com Vida baixa: II",
+      "ru": "Низкий уровень HP компаньона II",
+      "id": "HP Rekan Rendah: II",
+      "th": "ค่าพลังชีวิตของเพื่อนต่ำ - 2",
+      "vi": "HP Đồng Hành Thấp II"
+    },
+    "line": {
+      "zhs": "事关重大，换我来。",
+      "zht": "事關重大，換我來。",
+      "jp": "一大事だね、僕が代わろう。",
+      "ko": "중요한 일이니 내가 할게",
+      "en": "That's it, I'm taking this case over.",
+      "de": "Es ist von großer Wichtigkeit, lass mich das machen.",
+      "es": "Pues eso, me encargaré de este caso.",
+      "fr": "C'en est trop, je prends l'affaire en main.",
+      "pt": "Já chega! Eu cuido do caso.",
+      "ru": "Дело серьёзное, давай лучше я.",
+      "id": "Oke, biar aku yang ambil alih.",
+      "th": "นี่มันเป็นเรื่องใหญ่ ให้ฉันจัดการเอง",
+      "vi": "Sự việc quan trọng, để tôi thử xem."
     }
   },
   {

@@ -17,7 +17,7 @@
     },
     "description": {
       "zhs": "队伍中自己的角色攻击命中处于星异状态下的敌人后的8秒内，<color=#80C0FFFF>水元素相关反应</color>的效果提升：\n·感电反应造成的伤害提升15%，蒸发反应造成的伤害提升15%，水元素扩散反应造成的伤害提升15%；\n·冻结反应的持续时间延长15%。",
-      "zht": "隊伍中自己的角色攻擊命中處於星異狀態下的敵人後的8秒內，自己的角色所造成的<color=#80C0FFFF>水元素</color>相關反應效果提升：\n·感電反應造成的傷害提升15%，蒸發反應造成的傷害提升15%，水元素擴散反應造成的傷害提升15%；\n·凍結反應的持續時間延長15%。",
+      "zht": "隊伍中自己的角色攻擊命中處於星異狀態下的敵人後的8秒內，<color=#80C0FFFF>水元素相關反應</color>的效果提升：\n·感電反應造成的傷害提升15%，蒸發反應造成的傷害提升15%，水元素擴散反應造成的傷害提升15%；\n·凍結反應的持續時間延長15%。",
       "jp": "チーム内の自身のキャラクターの攻撃が星異状態の敵に命中した後の8秒間、<color=#80C0FFFF>水元素の関連反応</color>の効果が強化される。\n·感電反応ダメージ+15%、蒸発反応ダメージ+15%、水元素の拡散反応によるダメージ+15%。\n·凍結反応の継続時間+15%。",
       "ko": "파티 내 자신의 캐릭터가 성이 상태의 적을 명중하면 8초 동안 <color=#80C0FFFF>물 원소 관련 반응</color>의 효과가 상승한다:\n·감전 반응으로 가하는 피해+15%, 증발 반응으로 가하는 피해+15%, 물 원소 확산 반응으로 가하는 피해+15%\n·빙결 반응 지속 시간+15%",
       "en": "When any of your own party members hits an opponent affected by an Omen, the effects of <color=#80C0FFFF>Hydro-related Elemental Reactions</color> are enhanced for 8s:\n·Electro-Charged DMG increases by 15%.\n·Vaporize DMG increases by 15%.\n·Hydro Swirl DMG increases by 15%.\n·Frozen duration is extended by 15%.",
@@ -27,7 +27,7 @@
       "pt": "Os efeitos de <color=#80C0FFFF>Reações Elementais relacionadas a Hydro</color> agora são aprimorados por 8 segundos depois que o seu próprio personagem de equipe atingir um inimigo afetado por um Presságio:\n Dano Eletricamente Carregado é aumentado em 15%.\n Dano de Vaporizar é aumentado em 15%.\n Dano de Redemoinho é aumentado em 15%.\nA duração em que os inimigos ficam Congelados é aumentada em 15%.",
       "ru": "Попадания персонажа из вашего отряда по противнику со статусом Омен на 8 сек. усиливают эффекты <color=#80C0FFFF>Гидро реакций</color>:\n· Увеличивает урон реакций Заряжен, Пар и Гидро рассеивание на 15%;\n· Увеличивает длительность реакции Заморозка на 15%.",
       "id": "Efek <color=#80C0FFFF>Reaksi Elemental yang berhubungan dengan elemen Hydro</color> akan ditingkatkan selama 8 detik setelah karakter dalam party sendiri menyerang musuh yang terkena efek Omen:\n·DMG Electro Charged meningkat 15%.\n·DMG Vaporize meningkat 15%.\n·DMG Hydro Swirl meningkat 15%.\n·Durasi musuh yang terkena Frozen meningkat 15%.",
-      "th": "ภายใน 8 วินาที หลังจากที่ตัวละครของตนเองในทีมโจมตีถูกศัตรู ที่อยู่ภายใต้สภาวะ Omen เอฟเฟกต์ของ <color=#80C0FFFF>ปฏิกิริยาที่เกี่ยวข้องกับธาตุน้ำ</color> จะเพิ่มสูงขึ้น:\nความเสียหายที่เกิดจาก การชาร์จไฟฟ้าเพิ่มขึ้น 15% ความเสียหายที่เกิดจาก การระเหยเพิ่มขึ้น 15% ความเสียหายที่เกิดจาก การกระจายเพิ่มขึ้น 15% \nระยะเวลาต่อเนื่องของ การแช่แข็งเพิ่มขึ้น 15%",
+      "th": "ภายใน 8 วินาที หลังจากที่ตัวละครของตนเองในทีมโจมตีถูกศัตรู ที่อยู่ภายใต้สภาวะ Omen เอฟเฟกต์ของ <color=#80C0FFFF>ปฏิกิริยาที่เกี่ยวข้องกับธาตุน้ำ</color> จะเพิ่มสูงขึ้น:\nความเสียหายที่เกิดจาก การชาร์จไฟฟ้าเพิ่มขึ้น 15% ความเสียหายที่เกิดจาก การระเหยเพิ่มขึ้น 15% ความเสียหายที่เกิดจาก การกระจายธาตุน้ำเพิ่มขึ้น 15%\nระยะเวลาต่อเนื่องของ การแช่แข็งเพิ่มขึ้น 15%",
       "vi": "Trong vòng 8s sau khi nhân vật của bản thân trong đội tấn công địch ở trạng thái Tinh Dị, sẽ tăng hiệu quả <color=#80C0FFFF>phản ứng với Nguyên Tố Thủy</color>:\n·Tăng 15% sát thương phản ứng Điện Cảm gây ra, tăng 15% sát thương phản ứng Bốc Hơi gây ra, tăng 15% sát thương phản ứng khuếch tán Nguyên Tố Thủy gây ra.\n·Thời gian duy trì phản ứng đóng băng kéo dài 15%."
     },
     "imgid": "constellation_1"
@@ -57,10 +57,10 @@
       "de": "Löst bei Treffern mit Standardangriffen mit einer Wahrscheinlichkeit von 20 % automatisch einen heftigen Schlag aus.\n5 s Abklingzeit.",
       "es": "Al golpear con un Ataque Normal, hay un 20% de probabilidad de que vaya seguido automáticamente por un Ataque Cargado.\nEste efecto solo puede ocurrir una vez cada 5 s.",
       "fr": "Les attaques normales ont 20 % de chances d'être suivies par une attaque chargée.\nCet effet peut être déclenché une fois toutes les 5 s.",
-      "pt": "Quando um Ataque Normal acerta, existem 20% de chance que ele será automaticamente seguido de um Ataque Carregado.\nEsse efeito pode ocorrer apenas uma vez a cada 5 segundos.",
+      "pt": "Quando um Ataque Normal acerta, existe 20% de chance que ele será automaticamente seguido de um Ataque Carregado.\nEsse efeito pode ocorrer apenas uma vez a cada 5 segundos.",
       "ru": "Попадания обычной атакой имеют 20% шанс автоматически активировать заряженную атаку.\nМожет возникнуть раз в 5 сек.",
       "id": "Saat Normal Attack mengenai musuh, memiliki 20% persentase untuk melancarkan Charged Attack.\nDapat terpicu setiap 5 detik.",
-      "th": "เมื่อโจมตีปกติถูกศัตรู จะมีโอกาส 20 % ที่จะปล่อย การชาร์จโจมตีหนึ่งครั้ง\nเอฟเฟกต์นี้จะเกิดขึ้นได้ หนึ่งครั้งในทุก 5 วิ",
+      "th": "เมื่อการโจมตีปกติถูกศัตรู จะมีโอกาส 20% ที่จะปล่อยการชาร์จโจมตี 1 ครั้ง\nเอฟเฟกต์นี้จะเกิดขึ้นได้หนึ่งครั้ง ในทุก 5 วินาที",
       "vi": "Khi tấn công thường đánh trúng có 20% tỷ lệ tự động thi triển trọng kích 1 lần.\nHiệu quả này mỗi 5s chỉ kích hoạt 1 lần."
     },
     "imgid": "constellation_2"
@@ -126,7 +126,7 @@
       "pt": "Quando todos os personagens na equipe atacarem um inimigo afetado pelo status do Presságio, sua Taxa Crítica é aumentada em 15%.",
       "ru": "Попадания любого члена вашего отряда по врагу со статусом Омен увеличивают шанс крит. попадания на 15%.",
       "id": "Saat anggota party menyerang musuh yang terkena efek Omen, CRIT Rate akan meningkat 15%.",
-      "th": "เมื่อตัวละครใดก็ตามในทีม โจมตีศัตรูที่อยู่ภายใต้สภาวะ Omen การโจมตีนั้นจะมีอัตราคริเพิ่มขึ้น 15%",
+      "th": "เมื่อตัวละครใดก็ตามในทีม โจมตีศัตรูที่อยู่ภายใต้สภาวะ Omen อัตราคริจะเพิ่มขึ้น 15%",
       "vi": "Khi tất cả nhân vật trong đội tấn công địch ở trạng thái Tinh Dị, tỷ lệ bạo kích tăng 15%."
     },
     "imgid": "constellation_4"
@@ -191,8 +191,8 @@
       "fr": "Dans l'état <color=#FFD780FF>Vicissitude</color>, Mona obtient un bonus de 60 % de DGT pour sa prochaine attaque chargée à chaque seconde passée à se déplacer.\nCet effet peut être cumulé 3 fois maximum (bonus de 180 %) et dure 8 s.",
       "pt": "Ao entrar em <color=#FFD780FF>Vicissitude</color>, Mona ganha um aumento de 60% de Dano em seu próximo Ataque Carregado por segundo.\nUm máximo de 180% de Dano adicional pode ser atingido desta maneira, e este efeito dura por não mais que 8 segundos.",
       "ru": "Каждая секунда движения в форме навыка <color=#FFD780FF>Иллюзорный поток</color> увеличивает урон следующей заряженной атаки Моны на 60%.\nТаким способом можно получить не более 180% бонуса урона заряженной атаки. Длится не более 8 сек.",
-      "id": "Saat dalam kondisi <color=#FFD780FF>Illusory Torrent</color> setiap 1 detik gerakan, Charged Attack Mona meningkat 60%,\nBonus DMG sampai 180% bertahan selama 8 detik.",
-      "th": "หลังจากเข้าสู่สภาวะ <color=#FFD780FF>Illusory Torrent</color> ความเสียหายจาก การชาร์จโจมตีของ Mona ครั้งต่อไปจะเพิ่มขึ้น 60% ทุก 1 วินาที\nด้วยวิธีนี้จะเพิ่มความเสียหาย ชาร์จโจมตีได้สูงสุด 180% เอฟเฟกต์นี้จะคงอยู่ได้สูงสุด 8 วินาที",
+      "id": "Saat dalam kondisi <color=#FFD780FF>Illusory Torrent</color> setiap 1 detik gerakan, Charged Attack Mona meningkat 60%,\nBonus DMG maksimum yang bisa didapatkan dengan cara ini adalah 180%, efek ini berlangsung selama 8 detik.",
+      "th": "หลังจากเข้าสู่สภาวะ <color=#FFD780FF>Illusory Torrent</color> ในแต่ละวินาทีของการเคลื่อนที่ ความเสียหายของการชาร์จโจมตีของ Mona ครั้งต่อไปจะเพิ่มขึ้น 60%\nสามารถรับโบนัสความเสียหาย ของการชาร์จโจมตีด้วยวิธีนี้ได้มากสุด 180% โดยที่เอฟเฟกต์นี้ จะคงอยู่ได้สูงสุด 8 วินาที",
       "vi": "Sau khi vào trạng thái <color=#FFD780FF>Dòng Chảy Ảo</color>, mỗi 1s di chuyển, sát thương trọng kích ở lần sau của Mona tăng 60%,\nTối đa có thể nhận buff sát thương trọng kích 180%, hiệu quả kéo dài 8s."
     },
     "imgid": "constellation_6"

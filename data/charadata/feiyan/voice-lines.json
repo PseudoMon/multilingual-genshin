@@ -139,7 +139,7 @@
       "fr": "Quand il pleut...",
       "pt": "Quando Está Chovendo...",
       "ru": "Когда идёт дождь...",
-      "id": "Waktu Hujan",
+      "id": "Ketika Turun Hujan",
       "th": "ในเวลาที่ฝนตก...",
       "vi": "Khi trời mưa..."
     },
@@ -171,7 +171,7 @@
       "fr": "Quand il neige...",
       "pt": "Quando Está Nevando...",
       "ru": "Когда идёт снег...",
-      "id": "Waktu Turun Salju",
+      "id": "Ketika Turun Salju",
       "th": "ในเวลาที่หิมะตก...",
       "vi": "Khi tuyết rơi..."
     },
@@ -203,7 +203,7 @@
       "fr": "Il fait bon dehors...",
       "pt": "Quando Faz Sol...",
       "ru": "Когда светит солнце...",
-      "id": "Waktu Matahari Bersinar",
+      "id": "Ketika Matahari Bersinar",
       "th": "แดดส่องดีจัง...",
       "vi": "Ánh nắng thật chan hòa..."
     },
@@ -587,7 +587,7 @@
       "fr": "Détails intéressants...",
       "pt": "Coisas Interessantes...",
       "ru": "Интересные вещи...",
-      "id": "Cerita yang Menarik",
+      "id": "Kisah Menarik",
       "th": "ข้อมูลที่น่าสนใจ...",
       "vi": "Những kiến thức thú vị..."
     },
@@ -1148,7 +1148,7 @@
       "ru": "Друзья из Палаты связей часто приглашают меня на рыбалку. Они говорят, что это для обмена опытом, но на самом деле все хотят похвастаться своим мастерством. Я знаю сотни способов победить их всех, но они часто обращаются ко мне за помощью, поэтому мне неловко побеждать слишком часто. Каждый раз я веду тонкую игру и притворяюсь, что проигрываю... Что ты так на меня смотришь?! Ты мне не веришь?!",
       "id": "Teman-temanku dari Kantor Komunikasi mengajaku pergi mancing. Ngomongnya sih mau berbagi teknik, tapi sebenarnya mereka cuma mau pamer. Aku punya ratusan cara untuk menang dari mereka, tapi mereka semua klienku ... Kalau aku menang terus, pasti mereka akan malu ... Jadi setiap kali aku harus memamerkan bakat aktingku yang di atas rata-rata untuk pura-pura kalah ...Eh? Kok mukamu begitu? Tidak percaya ya?!",
       "th": "เพื่อน ๆ จากสำนักงานการสื่อสารชอบจะชวนฉันไปตกปลาด้วยกัน บอกว่ากำลังเรียนรู้ทักษะการตกปลา แต่จริง ๆ แล้วทุกคนมีบางอย่างที่อยากอวดในใจ ฉันมีวิธีเอาชนะทุกคนเป็นร้อยวิธี แต่พวกเขาดูแลธุรกิจของฉันมานานแล้ว และน่าเบื่อเกินไปที่จะชนะซ้ำแล้วซ้ำเล่า ดังนั้นทุกครั้งฉันจึงแกล้งทำเป็นแพ้ด้วยทักษะการแสดงที่ยอดเยี่ยมของฉัน... เดี๋ยวก่อนนะ สีหน้าของคุณทำไมเป็นแบบนั้นล่ะ คุณสงสัยอะไรในตัวฉันงั้นเหรอ?!",
-      "vi": "Bạn bè ở Hòa Ký Sảnh thường hẹn tôi đi câu cá, nói là muốn rèn luyện kỹ năng câu, nhưng thực ra trong lòng họ ít nhiều cũng có ý muốn khoe khoang. Tôi có một trăm cách thắng được tất cả mọi người, nhưng họ đã ủng hộ việc kinh doanh của tôi suốt một thời gian dài, nếu thắng hết lần này đến lần khác thì đúng là không nể mặt rồi. Vì vậy, bằng kỹ năng diễn xuất tài tình của mình, lần nào tôi cũng giả vờ là người đứng cuối...khoan đã, ý của bạn là gì, đang nghi ngờ tôi sao?!"
+      "vi": "Bạn bè ở Sảnh Hòa Ký thường hẹn tôi đi câu cá, nói là muốn rèn luyện kỹ năng câu, nhưng thực ra trong lòng họ ít nhiều cũng có ý muốn khoe khoang. Tôi có một trăm cách thắng được tất cả mọi người, nhưng họ đã ủng hộ việc kinh doanh của tôi suốt một thời gian dài, nếu thắng hết lần này đến lần khác thì đúng là không nể mặt rồi. Vì vậy, bằng kỹ năng diễn xuất tài tình của mình, lần nào tôi cũng giả vờ là người đứng cuối...khoan đã, ý của bạn là gì, đang nghi ngờ tôi sao?!"
     }
   },
   {
@@ -1177,7 +1177,7 @@
       "es": "¡Oh! Ahora que lo dices, deja que te recomiende mi gran amor: el tofu. ¡El tofu es la comida suprema! Ligero de sabor, tierno de textura... Por no mencionar lo suave y nutritivo que es. Combina a la perfección con toda clase de sopas y, lo que es más importante, ¡está disponible durante todo el año! La belleza por encima de la complejidad... los platos con tofu son mis preferidos.",
       "fr": "Oh ! Puisqu'on en parle, je me dois de vous recommander le plat de mes rêves : le tofu ! J'adore ça ! Avec son goût léger, sa texture tendre et lisse, puis c'est très nourrissant ! Il se marie à merveille avec de nombreux plats et soupes, sans jamais être hors de saison ! La perfection prime sur l'excellence, voilà pourquoi j'aime autant le goût de cet aliment.",
       "pt": "Oh! Agora que estamos falando desse tópico, eu vou lhe recomendar o amor do meu coração! Tofu! Eu amo Tofu! É uma comida leve, tem uma sensação delicada, é nutritivo, e se dá bem com todo tipo de sopa. O mais importante é que está disponível o ano inteiro, posso comer quando quiser! Não busque por excelência, busque perfeição. Pratos com Tofu são os meus preferidos.",
-      "ru": "О! Раз уж мы заговорили об этом, я порекомендую мой горячо любимый тофу! Определённо, тофу! Он должен быть лёгким, нежным, тёплым и питательным. Тофу идеально сочетается со всеми видами супов. Лучшее в нём то, что он доступен круглый год, в любое время! Не ищите превосходства, ищите только совершенство. Блюда из тофу - именно то, что я ищу.",
+      "ru": "О! Раз уж мы заговорили об этом, я порекомендую мой горячо любимый тофу! Определённо, тофу! Он должен быть лёгким, нежным, тёплым и питательным. Тофу идеально сочетается со всеми видами супов. Лучшее в нём то, что он доступен круглый год, в любое время! Главное не сложность, а красота. Мой выбор - блюда из тофу.",
       "id": "Oh! Kalau soal itu, aku merekomendasikan cinta sejatiku! Tahu! Rasanya tidak tajam, teksturnya lembut, dimakan juga ringan dan penuh nutrisi. Ditambahkan ke segala macam kuah-kuahan juga cocok sekali. Yanh paling penting, tahu tersedia di pasar sepanjang tahun! Sempurna tanpa perlu banyak gaya ... tahu memang paling top!",
       "th": "โอ้! เมื่อมาถึงหัวข้อนี้ ฉันจะแนะนำที่รักของฉันให้คุณได้รู้จัก ซึ่งแน่นอนว่าคือ เต้าหู้! เต้าหู้เป็นวัตถุดิบที่จืด สัมผัสนุ่ม อุ่นและบำรุงร่างกาย ซึ่งสามารถรวมเข้ากับซุปต่าง ๆ ได้อย่างสมบูรณ์แบบ ที่สำคัญที่สุดคือมีให้กินตลอดทั้งปีและกินได้ตลอดเวลาเลยล่ะ! ฉันไม่ได้ต้องการสิ่งที่อร่อยที่สุด แต่ต้องการแค่ความสมบูรณ์แบบเท่านั้น อาหารที่ทำจากเต้าหู้นี่แหละคือรสชาติที่ฉันต้องการ",
       "vi": "A! Nói đến chủ đề này, tôi sẽ giới thiệu cho bạn món yêu thích nhất của tôi - đó là đậu hũ, chỉ có đậu hũ! Đậu hũ vốn là món thanh đạm, ăn vào non mềm, ấm bụng và bổ dưỡng, có thể kết hợp hoàn hảo với các món canh khác nhau. Điều quan trọng nhất là nó có quanh năm và có thể ăn bất cứ lúc nào! Không cần cao siêu, chỉ cần hoàn hảo, món đậu hũ chính là mùi vị mà tôi muốn."
@@ -1287,7 +1287,7 @@
       "ko": "선물 획득·세 번째",
       "en": "Receiving a Gift: III",
       "de": "Geschenk erhalten III",
-      "es": "Al recibir un regalo (II)",
+      "es": "Al recibir un regalo (III)",
       "fr": "Cadeau reçu (3)",
       "pt": "Recebendo Presentes — III",
       "ru": "Подарок III",
@@ -1574,7 +1574,7 @@
       "jp": "元素爆発·1",
       "ko": "원소폭발·첫 번째",
       "en": "Elemental Burst: I",
-      "de": "Spezialfähigkeit – I",
+      "de": "Spezialfähigkeit I",
       "es": "Habilidad Definitiva (I)",
       "fr": "Déchaînement élémentaire (1)",
       "pt": "Supremo - I",
@@ -1606,7 +1606,7 @@
       "jp": "元素爆発·2",
       "ko": "원소폭발·두 번째",
       "en": "Elemental Burst: II",
-      "de": "Spezialfähigkeit – II",
+      "de": "Spezialfähigkeit II",
       "es": "Habilidad Definitiva (II)",
       "fr": "Déchaînement élémentaire (2)",
       "pt": "Supremo - II",
@@ -1638,7 +1638,7 @@
       "jp": "元素爆発·3",
       "ko": "원소폭발·세 번째",
       "en": "Elemental Burst: III",
-      "de": "Spezialfähigkeit – III",
+      "de": "Spezialfähigkeit III",
       "es": "Habilidad Definitiva (III)",
       "fr": "Déchaînement élémentaire (3)",
       "pt": "Supremo - III",
@@ -1853,6 +1853,70 @@
       "id": "Apa pertahananku bocor?",
       "th": "อะไรกัน มีข้อผิดพลาดงั้นเหรอ?",
       "vi": "Cái gì, có sai sót?"
+    }
+  },
+  {
+    "title": {
+      "zhs": "同伴生命值低·其一",
+      "zht": "同伴生命值低·其一",
+      "jp": "仲間HP低下·1",
+      "ko": "동료 HP 감소·첫 번째",
+      "en": "Ally at Low HP: I",
+      "de": "Verbündeter hat niedrige LP I",
+      "es": "Aliado con vida baja (I)",
+      "fr": "Compagnon avec PV faibles (1)",
+      "pt": "Aliado com Vida baixa: I",
+      "ru": "Низкий уровень HP компаньона I",
+      "id": "HP Rekan Rendah: I",
+      "th": "ค่าพลังชีวิตของเพื่อนต่ำ - 1",
+      "vi": "HP Đồng Hành Thấp I"
+    },
+    "line": {
+      "zhs": "喂——还是交给我吧！",
+      "zht": "喂——還是交給我吧！",
+      "jp": "おーい、こっちに任せろ～",
+      "ko": "그냥 나한테 맡겨!",
+      "en": "Hey, leave it to me!",
+      "de": "He, überlass das mir!",
+      "es": "¡Ey, déjamelo a mí!",
+      "fr": "Hé, laissez-moi faire !",
+      "pt": "Ei, deixa isso comigo!",
+      "ru": "Эй, предоставь это мне!",
+      "id": "Hei, serahkan saja padaku!",
+      "th": "เฮ้—— ให้ฉันจัดการเถอะ!",
+      "vi": "Này! Giao cho tôi đi!"
+    }
+  },
+  {
+    "title": {
+      "zhs": "同伴生命值低·其二",
+      "zht": "同伴生命值低·其二",
+      "jp": "仲間HP低下·2",
+      "ko": "동료 HP 감소·두 번째",
+      "en": "Ally at Low HP: II",
+      "de": "Verbündeter hat niedrige LP II",
+      "es": "Aliado con vida baja (II)",
+      "fr": "Compagnon avec PV faibles (2)",
+      "pt": "Aliado com Vida baixa: II",
+      "ru": "Низкий уровень HP компаньона II",
+      "id": "HP Rekan Rendah: II",
+      "th": "ค่าพลังชีวิตของเพื่อนต่ำ - 2",
+      "vi": "HP Đồng Hành Thấp II"
+    },
+    "line": {
+      "zhs": "判断是…「紧急避险」！",
+      "zht": "判斷是…「緊急避險」！",
+      "jp": "判断は…「緊急避難」！",
+      "ko": "내 판단은… 「긴급 피난」!",
+      "en": "The verdict is... emergency measures!",
+      "de": "Das Urteil lautet ... Notfallmaßnahmen!",
+      "es": "El veredicto es... ¡medidas de emergencia!",
+      "fr": "Le verdict est... une mesure d'urgence !",
+      "pt": "E o veredito é... Medidas emergenciais!",
+      "ru": "Мой вердикт... экстренные меры!",
+      "id": "Putusannya adalah ... darurat!",
+      "th": "คำพิพากษาคือ... \"หลีกให้พ้นวิกฤติ\"!",
+      "vi": "Kết luận là...\"thoát hiểm khẩn cấp\"!"
     }
   },
   {

@@ -27,7 +27,7 @@
       "pt": "Sou a Jean, Cavaleira de Dandelion, solicitando a sua aprovação. A partir de agora, a minha honra e lealdade estão sempre com você!",
       "ru": "Я Джинн, Рыцарь Одуванчик, прошу разрешения вступить в твой отряд. Начиная с этого дня моя честь и преданность принадлежат тебе!",
       "id": "\"Dandelion Knight\", Jean, mengajukan diri untuk bergabung ke tim ini. Mulai sekarang, kupersembahkan kehormatan dan kesetiaanku padamu!",
-      "th": "Jean อัศวิน Dandelion ขออนุญาตเขาร่วมทีม จากนี้เป็นต้นไปเกียรติยศ และความภักดีของฉัน จะอยู่กับคุณ!",
+      "th": "Jean อัศวิน Dandelion ขออนุญาตเข้าร่วมทีม จากนี้เป็นต้นไปเกียรติยศ และความภักดีของฉันจะอยู่กับคุณ!",
       "vi": "Jean - Kỵ Sĩ Bồ Công Anh xin vào đội. Từ giờ trở đi, vinh dự và lòng trung thành của tôi sẽ luôn ở bên bạn!"
     }
   },
@@ -44,7 +44,7 @@
       "pt": "Bate-papo - Operação",
       "ru": "Поболтаем: Движение вперёд",
       "id": "Berbincang: Operasi",
-      "th": "แชท-การกระทำ",
+      "th": "แชท - การกระทำ",
       "vi": "Nói chuyện phiếm - Hành động"
     },
     "line": {
@@ -76,7 +76,7 @@
       "pt": "Conversa - Cavaleiros de Favonius",
       "ru": "Поболтаем: Ордо Фавониус",
       "id": "Berbincang: Knights of Favonius",
-      "th": "แชท-กองอัศวิน",
+      "th": "แชท - กองอัศวิน",
       "vi": "Nói chuyện phiếm - Đội Kỵ Sĩ"
     },
     "line": {
@@ -108,7 +108,7 @@
       "pt": "Bate-papo - Alvo",
       "ru": "Поболтаем: Цель",
       "id": "Berbincang: Target",
-      "th": "แชท-เป้าหมาย",
+      "th": "แชท - เป้าหมาย",
       "vi": "Nói chuyện phiếm - Mục tiêu"
     },
     "line": {
@@ -214,7 +214,7 @@
       "ko": "눈이 오네. 부츠 관리에 신경 써야겠어",
       "en": "Huh, snow. Remember — tend to your boots when we return.",
       "de": "Es schneit, achte auf gutes Schuhwerk.",
-      "es": "Está nevando. Tendré que tener cuidado de no dañar mis botas.",
+      "es": "Está nevando. Recuerda darle mantenimiento a las botas al volver.",
       "fr": "De la neige... Il va falloir que je fasse attention à mes bottes.",
       "pt": "Está nevando. Lembre-se - cuide de suas botas quando voltarmos.",
       "ru": "Пошёл снег. Не забудь высушить обувь, когда вернёмся.",
@@ -283,7 +283,7 @@
       "pt": "Diz a lenda que o vento também estava estranhamente forte naquele dia...",
       "ru": "В легендах говорится, что в тот день тоже дул сильный ветер...",
       "id": "Menurut legenda, pada hari itu juga bertiup angin badai yang jarang terjadi...",
-      "th": "ตำนานว่าไว้ว่า วันนั้นลมก็แรงผิดปกติแบบนี้แหละ...",
+      "th": "ตำนานกล่าวไว้ว่า วันนั้นลมก็แรงผิดปกติแบบนี้แหละ...",
       "vi": "Theo truyền thuyết, ngày hôm đó đã nổi lên một trận gió lớn hiếm thấy..."
     }
   },
@@ -378,7 +378,7 @@
       "fr": "On n'a plus de café à ce que je vois... Je vais demander à Lisa par quoi je peux le substituer.",
       "pt": "Parece que já estou imune ao café. Vou perguntar a Lisa... se tem algo mais forte.",
       "ru": "Кажется, я выработала иммунитет к кофе. Может быть, стоит попросить у Лизы что-нибудь... покрепче?",
-      "id": "Sepertinya aku sudah kebal terhadap kopi. Aku harus meminta Lisa membuat sesuatu... yang lebih kuat.",
+      "id": "Sepertinya aku sudah kebal terhadap kopi. Aku harus meminta Lisa membuat sesuatu ... yang lebih kuat.",
       "th": "ดูเหมือนกาแฟจะไม่มีผลต่อฉันแล้ว คงต้องถาม Lisa ว่ามีอะไรที่... แรงกว่านี้มั้ยนะ",
       "vi": "Xem ra, cà phê cũng không có hiệu quả nữa rồi. Nếu có thứ gì có thể thay thế... chỉ cần hỏi Lisa."
     }
@@ -408,7 +408,7 @@
       "de": "Das heutige Training ist hiermit beendet. Das hast du wirklich gut gemacht! Jetzt ruh dich erstmal aus.",
       "es": "El entrenamiento ha terminado por hoy. Buen trabajo, te has ganado un buen descanso.",
       "fr": "On va arrêter la méditation pour aujourd'hui. Tu t'en sors bien, continue comme ça.",
-      "pt": "Paramos por aqui hoje. Você fez muito bem em treinamento de hoje!",
+      "pt": "Paramos por aqui hoje. Você fez muito bem no treinamento de hoje!",
       "ru": "#На сегодня тренировки окончены. Отличная работа, ты заслужил{F#а} отдых.",
       "id": "Sampai di sini dulu latihan hari ini. Kamu hebat sekali, sekarang kamu boleh beristirahat.",
       "th": "การฝึกในวันนี้เสร็จสิ้นลงแค่นี้ ทำได้ดีมาก เหนื่อยหน่อยนะทุกคน",
@@ -442,8 +442,8 @@
       "fr": "Je n'ai pas eu d'autre choix aujourd'hui que de mettre en pièces cinq Gardiens des ruines pour protéger les habitants de la ville... *soupir* Je dois pouvoir faire mieux. Ces créatures ont beau être un danger, elles n'en font pas moins partie de notre culture... Je tâcherai d'être moins destructrice la prochaine fois.",
       "pt": "Para proteger o povo, esmaguei cinco Guarda das Ruínas em pedacinhos. Ugh... Preciso melhorar ainda mais... Essas relíquias são bem preciosas. Na próxima vez, eu tenho que tentar evitá-las.",
       "ru": "Сегодня, чтобы защитить жителей города, мне пришлось уничтожить пять стражей руин... Нет, я должна быть усерднее. Они опасны, но для нас большая потеря уничтожать столь ценные артефакты древности. Я должна найти другой, более безопасный способ...",
-      "id": "Hari ini, untuk melindungi orang banyak, 5 buah Ruin Guard sudah terbuang. *huff* Aku masih harus terus mengasah diri sendiri... Ini adalah warisan budaya yang sangat berharga, lain kali aku harus mencobanya dengan tangan kosong...",
-      "th": "วันนี้ฉันปราบ Ruin Guard ไปห้าตัว เพื่อปกป้องชาวเมือง เฮ้อ ฉันต้องฝึกให้มากกว่านี้... มรดกอันล้ำค่าพวกนั้น คราวหน้าต้องปราบมัน โดยให้มีความเสียหาย น้อยที่สุด...",
+      "id": "Hari ini, untuk melindungi orang banyak, 5 buah Ruin Guard sudah terbuang. *huff* Aku masih harus terus mengasah diri sendiri ... Ini adalah warisan budaya yang sangat berharga, lain kali aku harus mencobanya dengan tangan kosong...",
+      "th": "วันนี้ฉันปราบ Ruin Guard ไป 5 ตัว เพื่อปกป้องชาวเมือง เฮ้อ ฉันต้องฝึกให้มากกว่านี้... มรดกทางอารยธรรมอันล้ำค่าพวกนั้น คราวหน้าควรลองใช้วิธีปราบที่มีความเสียหายน้อยลงกว่านี้...",
       "vi": "Vì bảo vệ người dân, hôm nay tôi đã chém năm Thủ Vệ Di Tích thành nhiều mảnh. Haiz, tôi cần phải tiếp tục rèn luyện bản thân... di sản văn hoá quý giá như vậy, lần sau phải thử chinh phục bằng tay không..."
     }
   },
@@ -460,7 +460,7 @@
       "pt": "Sobre Nós - Carta",
       "ru": "О нас: Вера...",
       "id": "Tentang Kita: Prinsip",
-      "th": "เกี่ยวกับพวกเรา- หลักความเชื่อ",
+      "th": "เกี่ยวกับพวกเรา - หลักความเชื่อ",
       "vi": "Về chúng tôi - Tín ngưỡng"
     },
     "line": {
@@ -471,10 +471,10 @@
       "en": "You have my complete and full support. Of course, if your path ever deviates from justice, I will not hesitate to point it out.",
       "de": "Ich werde mein Bestes tun, um dir zu helfen und natürlich auch nicht davor zurückschrecken, dir zu sagen, wenn du vom Pfad der Tugend abkommen solltest.",
       "es": "Tienes mi completo y total apoyo. Por supuesto, si tu camino alguna vez se desvía de la justicia, no dudaré en hacértelo saber.",
-      "fr": "Mon arme est à ton service. Mais si jamais ton chemin s'éloigne de la justice, alors je n'hésiterai pas à te le rappeler.",
+      "fr": "Mon arme est à ton service. Mais si jamais ton chemin s'éloigne de la justice, je n'hésiterai pas à te le rappeler.",
       "pt": "Eu vou fazer o melhor para te ajudar. Mas claro, vou apontar se está se desviando da justiça.",
       "ru": "Я полностью поддерживаю твои решения, но если ты собьёшься с пути справедливости, я не постесняюсь тебе об этом сказать.",
-      "id": "Aku akan semaksimal mungkin membantumu, dan... tentu saja, kalau kamu melakukan penyimpangan... aku akan menegurmu tanpa ragu-ragu.",
+      "id": "Aku akan semaksimal mungkin membantumu, dan ... tentu saja, kalau kamu melakukan penyimpangan ... aku akan menegurmu tanpa ragu-ragu.",
       "th": "ฉันสนับสนุนคุณเต็มที่ แต่ถ้าคุณทำสิ่งที่ผิดเพี้ยนไปจากความยุติธรรม ฉันก็ไม่ลังเลที่จะพูดแน่นอน",
       "vi": "Tôi sẽ cố gắng hết sức để giúp đỡ bạn, tất nhiên là nếu hướng đi của bạn chệch khỏi chính nghĩa, tôi cũng sẽ chỉ ra mà không hề do dự."
     }
@@ -492,7 +492,7 @@
       "pt": "Sobre Nós - Juramento",
       "ru": "О нас: Присяга...",
       "id": "Tentang Kita: Sumpah",
-      "th": "เกี่ยวกับพวกเรา-คำมั่นสัญญา",
+      "th": "เกี่ยวกับพวกเรา - คำมั่นสัญญา",
       "vi": "Về chúng tôi - Lời thề"
     },
     "line": {
@@ -507,7 +507,7 @@
       "pt": "Juro por esta espada, a vitória será sua.",
       "ru": "Клянусь своим мечом, что победа будет за тобой.",
       "id": "Aku bersumpah dengan pedang ini bahwa aku akan membawakan kemenangan untukmu.",
-      "th": "ฉันสาบานกับดาบเล่มนี้ ชัยชนะต้องเป็นของคุณอย่าง แน่นอน",
+      "th": "ฉันสาบานกับดาบเล่มนี้ ฉันจะมอบชัยชนะให้คุณอย่างแน่นอน",
       "vi": "Thề có thanh kiếm này, tôi nhất định sẽ mang thắng lợi về cho bạn."
     }
   },
@@ -524,7 +524,7 @@
       "pt": "Sobre Nós - Missão",
       "ru": "О нас: Миссия...",
       "id": "Tentang Kita: Quest",
-      "th": "เกี่ยวกับพวกเรา-หน้าที่",
+      "th": "เกี่ยวกับพวกเรา - หน้าที่",
       "vi": "Về chúng tôi - Nhiệm Vụ"
     },
     "line": {
@@ -535,11 +535,11 @@
       "en": "Our work will not handle itself... But, I suppose the occasional short break is warranted. Let us rest for a couple of minutes.",
       "de": "Keine Aufgaben erledigen sich von selbst, aber eine kurze Pause hat noch keinem geschadet. Heute können wir uns ein paar Minuten ausruhen.",
       "es": "Nuestros deberes no se resolverán por sí solos... Pero supongo que un breve descanso de vez en cuando está justificado. Descansemos un par de minutos.",
-      "fr": "Le travail ne va pas se faire tout seul, mais il faut se reposer parfois. Prenons exceptionnellement dix minutes de pause déjeuner aujourd'hui...",
+      "fr": "Le travail ne va pas se faire tout seul, mais il faut se reposer parfois. Prenons exceptionnellement dix minutes de pause-déjeuner aujourd'hui...",
       "pt": "As missões não se concluem sozinhas, mas não faz mal se eu descansar um pouco. Então vou tirar uma sesta por uns minutos hoje.",
       "ru": "Наша работа сама себя не сделает, но, я думаю, мы можем позволить себе иногда немного отдохнуть. Давай присядем на пару минут.",
-      "id": "Quest tidak akan selesai secara otomatis, tetapi kalau mau bersantai sebentar saja juga boleh. Khusus hari ini... istirahat boleh lebih lama sedikit.",
-      "th": "งานไม่สามารถสำเร็จได้ด้วย ตัวมันเอง แต่ผ่อนคลายบ้างก็ดี เที่ยงนี้เราพักสักสองสามนาทีเถอะ",
+      "id": "Quest tidak akan selesai secara otomatis, tetapi kalau mau bersantai sebentar saja juga boleh. Khusus hari ini ... istirahat boleh lebih lama sedikit.",
+      "th": "งานไม่สามารถสำเร็จได้ด้วยตัวมันเอง แต่ผ่อนคลายบ้างก็ดี เที่ยงนี้เราพักสักสองสามนาทีเถอะ",
       "vi": "Nhiệm vụ sẽ không tự động hoàn thành được, nhưng nghỉ ngơi một chút cũng tốt. Hôm nay ngoại lệ nghỉ trưa vài phút vậy."
     }
   },
@@ -569,9 +569,9 @@
       "es": "“Proteger Mondstadt para siempre” es el lema de la familia Gunnhildr. Cada vez que uso mi Visión, recuerdo a mi madre y las esperanzas de la gente de Mondstadt. Por Mondstadt, por la libertad, lucho por eso.",
       "fr": "« Pour Mondstadt, toujours » est la devise de ma famille, les Gunnhildr. À chaque fois que j'utilise mon œil divin, je pense à ma mère et aux Mondstadtois qui me font confiance. Je n'hésiterai jamais à me battre pour leur liberté.",
       "pt": "\"Proteger Mondstadt para sempre\" é sempre o lema da família Gunnhildr. Toda vez que a Visão está ativada, me faz lembrar da minha mãe, e dos desejos do povo de Mondstadt. Eu, luto por Mondstadt, luto pela libertade, que é o meu dever da minha vida inteira.",
-      "ru": "«За Мондштадт, как и всегда!» - это девиз семьи Гуннхильдр. Каждое использование Глаза Бога напоминает мне о моей матери и надеждах жителей Мондштадта. За Мондштадт, за свободу - вот за что я борюсь.",
-      "id": "\"Untuk Mondstadt, selamanya\" adalah moto Klan Gunnhildr. Setiap kali aku menggunakan \"Vision\" ini, aku selalu teringat akan ibu dan harapan orang-orang Mondstadt. Berjuang untuk Mondstadt, berjuang untuk kebebasan - aku... tidak akan pernah menyerah.",
-      "th": "\"ปกป้อง Mondstadt\" คือคำขวัญของตระกูล Gunnhildr ทุกครั้งที่ฉันใช้งาน \"วิชั่น\" มันทำให้ฉันคิดถึงแม่ของฉันและ ความหวังของชาวเมือง Mondstadt เพื่อ Mondstadt เพื่ออิสรภาพ ฉันจะยอมแพ้ไม่ได้",
+      "ru": "«За Мондштадт, как и всегда!» - это девиз клана Гуннхильдр. Каждое использование Глаза Бога напоминает мне о моей матери и надеждах жителей Мондштадта. За Мондштадт, за свободу - вот за что я борюсь.",
+      "id": "\"Untuk Mondstadt, selamanya\" adalah moto Klan Gunnhildr. Setiap kali aku menggunakan \"Vision\" ini, aku selalu teringat akan ibu dan harapan orang-orang Mondstadt. Berjuang untuk Mondstadt, berjuang untuk kebebasan - aku ... tidak akan pernah menyerah.",
+      "th": "\"ปกป้อง Mondstadt\" คือคำขวัญของตระกูล Gunnhildr ทุกครั้งที่ฉันใช้งาน \"วิชั่น\" มันทำให้ฉันคิดถึงแม่ของฉัน และความคาดหวังจากชาวเมือง เพื่อ Mondstadt และเพื่ออิสรภาพแล้ว... ฉันจะยอมแพ้ไม่ได้",
       "vi": "\"Vĩnh viễn bảo vệ Mondstadt\" là lời giáo huấn của gia tộc Gunnhildr. Mỗi khi sử dụng Vision, tôi đều nghĩ về những kỳ vọng của mẹ và người dân Mondstadt. Chiến đấu vì Mondstadt, đấu tranh vì tự do... tôi quyết không chùn bước."
     }
   },
@@ -599,11 +599,11 @@
       "en": "On behalf of the Knights of Favonius, I would like to extend my gratitude to you for all you have done for Mondstadt. Please remember to rest from time to ti... Did I miss something? What are you laughing at? Did I say something odd?",
       "de": "Im Namen der Ritter des Ordo Favonius danke ich dir für alles, was du für Mondstadt getan hast. Bitte ruhe dich beim Arbeiten auch öfter aus und ... was ist? Warum lachst du auf einmal? Habe ich etwas Lustiges gesagt?",
       "es": "En nombre de los Caballeros de Favonius, quisiera agradecerte todo lo que has hecho por Mondstadt. Por favor, recuerda descansar de vez en cuando... ¿Me perdí algo? ¿De qué te ríes? ¿Dije algo extraño?",
-      "fr": "Au nom de l'Ordre de Favonius, j'aimerais t'exprimer notre plus profonde gratitude pour tes actions en faveur de Mondstadt. Cela dit, le repos est aussi important que l'effort, alors je te pri— Pourquoi ce fou rire ? Ai-je dit quelque chose de drôle ou d'étrange ?",
+      "fr": "Au nom de l'Ordre de Favonius, j'aimerais t'exprimer notre plus profonde gratitude pour tes actions en faveur de Mondstadt. Cela dit, le repos est aussi important que l'effort, alors je te prie de... Pourquoi ce fou rire ? Ai-je dit quelque chose de drôle ou d'étrange ?",
       "pt": "Em nome dos Cavaleiros de Favonius, agradeço a você por tudo o que fez por Mondstadt. Por favor, tenha um equilíbrio de descansar e trabalhar... Por que está rindo? O que eu disse de errado?",
       "ru": "#Я хотела бы выразить тебе благодарность от имени рыцарей Ордо Фавониус за всё, что ты сделал{F#a} для Мондштадта. Пожалуйста, не забывай время от времени отдыхать... Я что-то пропустила? Почему ты смеёшься? Я сказала что-то не так?",
-      "id": "Atas nama Knights of Favonius, aku ingin mengucapkan terima kasih atas semua yang telah kamu lakukan untuk Mondstadt. Aku juga berharap kamu bisa menjaga keseimbangan antara bekerja dan beristirahat, supaya... Kenapa? Kok kamu tiba-tiba tertawa begitu, apakah ada yang aneh dengan perkataanku?",
-      "th": "ในนามของกองอัศวินแห่ง Favonius ฉันต้องขอขอบคุณ อย่างสุดซึ้ง สำหรับทุกสิ่งที่คุณทำ เพื่อ Mondstadt อย่าลืมทำงาน และพักผ่อนให้สมดุล และก็พยายาม... มีอะไรเหรอ ทำไมอยู่ดี ๆ ก็หัวเราะขึ้นมาล่ะ ฉันพูดอะไรผิดงั้นเหรอ?",
+      "id": "Atas nama Knights of Favonius, aku ingin mengucapkan terima kasih atas semua yang telah kamu lakukan untuk Mondstadt. Aku juga berharap kamu bisa menjaga keseimbangan antara bekerja dan beristirahat, supaya ... Kenapa? Kok kamu tiba-tiba tertawa begitu, apakah ada yang aneh dengan perkataanku?",
+      "th": "ในนามของกองอัศวินแห่ง Favonius ฉันต้องขอขอบคุณอย่างสุดซึ้ง สำหรับทุกสิ่งที่คุณทำเพื่อ Mondstadt อย่าลืมปรับสมดุลระหว่างการทำงานและพักผ่อนให้ดี แล้วก็พยายาม... มีอะไรเหรอ ทำไมอยู่ดี ๆ ก็หัวเราะขึ้นมาล่ะ ฉันพูดอะไรผิดงั้นเหรอ?",
       "vi": "Thay mặt Đội Kỵ Sĩ Tây Phong, tôi xin cảm ơn tất cả những gì bạn đã làm vì Mondstadt. Cũng mong bạn hãy làm việc và nghỉ ngơi điều độ, tuỳ theo sức mà... Sao thế, bạn đột nhiên lại cười, tôi đã nói cái gì kỳ lạ sao?"
     }
   },
@@ -635,7 +635,7 @@
       "pt": "\"Dandelion, Dandelion, voa com o vento, para o fim do mundo\"... Quando Dandelion voa com o vento, chegará até Celestia.",
       "ru": "Лети, лети, одуванчик, в дальние миры... Кто знает, может быть, ветер отнесёт его семена в Селестию?",
       "id": "\"Dandelion, dandelion, ikuti angin dan pergilah jauh.\" Dia terbang bersama angin, bahkan mungkin bisa sampai ke Celestia.",
-      "th": "\"แดนดิไลออน แดนดิไลออน ลอยไปกับสายลม ไปยังที่แสนไกล\"... มันบินไปกับสายลม ไม่แน่ว่าอาจบินไปถึง เกาะกลางสวรรค์ที่แม้แต่นก ก็บินไปไม่ถึงก็ได้นะ",
+      "th": "\"แดนดิไลออน แดนดิไลออน ลอยไปกับสายลม ไปยังที่แสนไกล\"... มันบินไปกับสายลม ไม่แน่มันอาจบินไปถึง Celestia เลยก็ได้นะ",
       "vi": "\"Bồ công anh, bồ công anh, đi cùng với gió, đến nơi xa.\"... Nó theo gió cuốn đi, nói không chừng còn có thể bay đến Đảo Thiên Không nữa."
     }
   },
@@ -666,7 +666,7 @@
       "fr": "Barbara travaille dur, mais elle se surmène parfois... Pourquoi je le sais ? L'Ordre de Favonius dépend de l'Église, tout simplement.",
       "pt": "Barbara trabalha muito, mas ela é muito exigente consigo mesma... Por que eu sei isso? Porque os Cavaleiros de Favonius também administram a Igreja Favonius.",
       "ru": "Барбара очень усердно работает, но иногда мне кажется, что она слишком строго относится к себе... Что? Ты спрашиваешь, откуда я всё это знаю? Это потому, что Ордо Фавониус также заведует церковью Фавония.",
-      "id": "Barbara bekerja dengan sangat keras, tetapi kadang-kadang dia terlalu memaksakan dirinya... Hah? Kamu heran aku bisa setahu ini? Karena Church of Favonius juga berada di bawah kendali para Knight.",
+      "id": "Barbara bekerja dengan sangat keras, tetapi kadang-kadang dia terlalu memaksakan dirinya ... Hah? Kamu heran aku bisa setahu ini? Karena Church of Favonius juga berada di bawah kendali para Knight.",
       "th": "Barbara เป็นคนที่ขยันมาก แต่บางครั้งฉันก็รู้สึกว่าเธอเข้มงวดกับตัวเองเกินไป... หืม? อยากรู้ว่าฉันรู้ได้ยังไงงั้นเหรอ? เพราะโบสถ์ก็อยู่ในความดูแลของ กองอัศวินแห่ง Favonius ไงล่ะ",
       "vi": "Barbara đã rất cố gắng, chỉ có điều đôi khi đã ép buộc bản thân quá nhiều.. Hả? Tại sao tôi lại biết rõ như vậy? Bởi vì giáo hội Tây Phong cũng thuộc quyền của Đội Kỵ Sĩ."
     }
@@ -759,11 +759,11 @@
       "en": "Is that right...? Kaeya also gave you some suggestions. He is an excellent knight after all — this is a fact no one can deny.",
       "de": "Ist das so? Kaeya hat dir also auch eine Empfehlung gegeben. Er ist ein formidabler Ritter des Ordo Favonius, daran besteht kein Zweifel.",
       "es": "¿De verdad? Así que Kaeya también te dio algunas sugerencias. Es un excelente caballero, eso es un hecho que nadie puede negar.",
-      "fr": "Ah ? Kaeya a aussi fait quelques suggestions. C'est un excellent chevalier – personne n'irait dire le contraire.",
+      "fr": "Ah ? Kaeya t'a aussi fait quelques suggestions. C'est un excellent chevalier. Personne n'irait dire le contraire.",
       "pt": "Ah é? O Kaeya também deu conselhos. Sem dúvida, ele é um excelente Cavaleiro de Favonius.",
       "ru": "Правда? Кэйа тоже поделился с тобой советом? Он один из лучших рыцарей Ордо Фавониус, и это неоспоримый факт.",
-      "id": "Benarkah... Ternyata Kaeya juga memberikan saran untukmu. Dia adalah seorang Knights of Favonius yang hebat, tidak ada yang perlu dikhawatirkan tentang hal ini.",
-      "th": "จริงเหรอ... Kaeya ให้คำแนะนำกับคุณ เขาเป็นอัศวินที่เก่งกาจคนนึงเลยล่ะ เรื่องนี้ปฏิเสธไม่ได้",
+      "id": "Benarkah ... Ternyata Kaeya juga memberikan saran untukmu. Dia adalah seorang Knights of Favonius yang hebat, tidak ada yang perlu dikhawatirkan tentang hal ini.",
+      "th": "จริงเหรอ... Kaeya ก็ให้คำแนะนำกับคุณเหมือนกันสินะ จุดนี้ปฏิเสธไม่ได้เลยว่า เขาเป็นอัศวินที่เก่งกาจคนนึงอย่างไม่ต้องสงสัยเลยล่ะ",
       "vi": "Vậy sao... Kaeya cũng đã đưa ra lời khuyên cho bạn à. Anh ấy là một kỵ sĩ Tây Phong ưu tú, không có gì có thể nghi ngờ điều này."
     }
   },
@@ -795,7 +795,7 @@
       "pt": "Brincar é algo que as crianças querem por natureza. Mas os brinquedos da Klee são muito perigosos. Isso me inquieta.",
       "ru": "Все дети любят играть, но Кли играет с очень недетскими игрушками. Я не могу спускать с неё глаз.",
       "id": "Meskipun bermain dan bersenang-senang adalah naluri anak-anak, tapi mainan favorit Klee adalah barang-barang yang berbahaya. Ini membuat orang begitu khawatir.",
-      "th": "ถึงจะบอกว่าการเล่นสนุกเป็นธรรมชาติของเด็ก แต่ของเล่นที่ Klee เล่นมันเป็นของอันตรายทั้งนั้น ฉันจะไม่ละสายตาจากเธอเด็ดขาด",
+      "th": "ถึงจะบอกว่าเป็นการเล่นสนุกตามธรรมชาติของเด็ก แต่ของเล่นที่ Klee เล่นมันเป็นของอันตรายทั้งนั้น ฉันจะไม่ละสายตาจากเธอเด็ดขาด",
       "vi": "Mặc dù nói bản tính của trẻ con là vui chơi, nhưng đồ chơi yêu thích của Klee đều là những thứ nguy hiểm. Khiến người ta khó lòng mà yên tâm."
     }
   },
@@ -827,7 +827,7 @@
       "pt": "A palavra \"Genial\" talvez foi inventada só para pessoas como Albedo.",
       "ru": "Иногда мне кажется, что такие слова, как «гениальность», были придуманы специально для Альбедо.",
       "id": "Mungkin istilah \"jenius\" adalah istilah yang layak disematkan untuk orang-orang seperti Albedo.",
-      "th": "คำว่า \"อัจฉริยะ\" น่าจะสร้างขึ้นมาเพื่อ Albedo โดยเฉพาะ",
+      "th": "คำว่า \"อัจฉริยะ\" น่าจะสร้างขึ้นมาเพื่อคนแบบ Albedo โดยเฉพาะเลยล่ะมั้ง",
       "vi": "Có lẽ loại danh từ \"thiên tài\" này chính là chuẩn bị cho những người như Albedo."
     }
   },
@@ -859,7 +859,7 @@
       "pt": "Varka, Grande Mestre dos Cavaleiros de Favonius. Ele é uma lenda contemporânea viva. No dia de seu triunfante retorno, você vai conversar pessoalmente com ele, e penso que vai ser uma conversa benéfica.",
       "ru": "Магистр Варка - легенда своего поколения. В день его триумфального возвращения я обязательно представлю тебя ему. Уверена, что ты тоже будешь в восторге от его величия.",
       "id": "Grand Master Varka, dia adalah seorang legenda Knights of Favonius. Saat dia sudah kembali dengan kemenangannya nanti, kamu bicara saja langsung dengannya. Aku yakin kamu juga akan mendapatkan manfaat dari pembicaraan tersebut.",
-      "th": "ผู้บัญชาการ Varka เป็นตำนานของกองอัศวินแห่ง Favonius ยุคปัจจุบัน รอให้เขากลับมาพร้อมชัยชนะ แล้วฉันจะแนะนำให้คุณรู้จักกับ เขาเองเลย คุณจะต้องทึ่งในความยิ่งใหญ่ ของเขาแน่นอน",
+      "th": "ผู้บัญชาการ Varka เป็นตำนานในยุคปัจจุบันของกองอัศวินแห่ง Favonius รอวันที่เขากลับมาพร้อมกับชัยชนะ คุณค่อยลองไปพูดคุยกับเขาดูนะ คุณจะต้องทึ่งในความยิ่งใหญ่ของเขาแน่นอน",
       "vi": "Đại Đội Trưởng Varka, anh ấy là truyền kỳ đương thời. Đến ngày mà anh ấy chiến thắng trở về, bạn hãy tự mình nói chuyện với anh ấy. Tôi tin rằng bạn sẽ có thu hoạch từ đó."
     }
   },
@@ -884,14 +884,14 @@
       "zht": "諾艾爾，嗯…那個努力想要成為西風騎士的少女。她的內心仍有軟弱之處，現在這個階段，也許還不適合讓她接觸外界的兇險。",
       "jp": "ノエル、ああ…あの西風騎士になりたがっている少女のことか。彼女の心にはまだ迷いがある。今の彼女が外の危険に触れるのは、まだ早いかもしれないな。",
       "ko": "노엘, 음… 페보니우스 기사단의 기사가 되려고 애쓰는 소녀. 그녀의 내면은 여전히 나약해. 지금 이 단계에서는 험악한 바깥세상과 접촉하지 않는 게 좋을지도 몰라",
-      "en": "Noelle... She's very trying in her pursuit to become a Knight of Favonius. However, I fear she is not quite ready for the dangers that lie beyond Mondstadt's walls.",
+      "en": "Noelle... She puts enormous effort into trying to become a Knight of Favonius. However, I fear she is not quite ready for the dangers that lie beyond Mondstadt's walls.",
       "de": "Noelle, das Mädchen, das versucht hat ein Ritter des Ordo Favonius zu werden. Sie hat noch ein paar Schwächen in ihrem Herzen. Daher wäre es nicht weise, sie zum jetzigen Zeitpunkt den Gefahren der Welt auszusetzen.",
       "es": "Humm... Noelle se esfuerza mucho en convertirse en una Caballera de Favonius. Sin embargo, me temo que no está lista para los peligros que se encuentran más allá de los muros de Mondstadt.",
       "fr": "Noëlle... C'est cette jeune fille qui veut rejoindre l'Ordre de Favonius, n'est-ce pas ? Hélas, je ne pense pas qu'elle soit prête à affronter les horreurs de ce monde...",
       "pt": "Noelle, a garota que se dedica de corpo e alma para ser uma cavaleira. Tem a sua fraqueza no seu coração, então, agora não é um momento certo para ela enfrentar os riscos ou escuridão da vida.",
       "ru": "Ноэлль... Она очень стремится стать рыцарем Ордо Фавониус, но я боюсь, что она не готова к опасностям, что таятся за стенами Мондштадта.",
-      "id": "Noelle, umm... gadis yang sangat ingin menjadi Knights of Favonius. Dia masih memiliki kelemahan di dalam hatinya, karena itu pada saat ini... mungkin dia masih belum cocok untuk berhadapan dengan kerasnya dunia luar.",
-      "th": "Noelle... อา สาวน้อยผู้มุ่งมั่นที่จะเข้าร่วม กองอัศวินแห่ง Favonius จิตใจของเธอยังอ่อนแออยู่ ในตอนนี้คงไม่เหมาะที่จะให้เธอ ออกไปเผชิญอันตรายนอก กำแพงเมือง",
+      "id": "Noelle, umm ... gadis yang sangat ingin menjadi Knights of Favonius. Dia masih memiliki kelemahan di dalam hatinya, karena itu pada saat ini ... mungkin dia masih belum cocok untuk berhadapan dengan kerasnya dunia luar.",
+      "th": "Noelle... อา สาวน้อยผู้มุ่งมั่นที่จะเข้าร่วมกองอัศวินแห่ง Favonius จิตใจของเธอยังอ่อนแออยู่ ในตอนนี้คงไม่เหมาะที่จะให้เธอออกไปเผชิญอันตรายในโลกภายนอก",
       "vi": "Noelle, ừm... cô gái đang cố gắng trở thành kỵ sĩ Tây Phong. Trong lòng cô ấy vẫn có điểm yếu, ở giai đoạn này, có lẽ vẫn chưa thích hợp để cô ấy tiếp xúc với những nguy hiểm ở thế giới bên ngoài"
     }
   },
@@ -922,8 +922,8 @@
       "fr": "Sœur Rosalia se plaint tout le temps de son travail, mais elle le fait à merveille. L'autre fois, je lui ai proposé mon aide, mais elle m'a dit que ça l'embêterait davantage. Je vois que j'ai encore beaucoup de lacunes à combler...",
       "pt": "A irmã Rosalia reclama o tempo todo de seu trabalho, mas o faz incrivelmente bem. Na outra vez, me ofereci para ajudá-la, mas ela disse que isso até a incomodaria mais. Vejo que as minhas habilidades ainda estão limitadas...",
       "ru": "Кому-то может показаться, что сестра Розария много жалуется на утомительную работу, но она с ней отлично справляется. Когда я её видела в прошлый раз, я сказала ей, что если ей понадобится помощь, она может обратиться ко мне, на что она просто ответила, что так будет только хуже. Мне тоже нужно работать усерднее, чтобы больше помогать жителям Мондштадта.",
-      "id": "Suster Rosaria selalu mengatakan \"tidak mau merepotkanku\", dia memang sangat kompeten. Terakhir kali aku bilang padanya, \"Kalau kamu merasa sulit, minta tolong aku saja\", tetapi dia menjawab, \"Ini lebih merepotkan untukmu.\" Hmm... aku ternyata tidak terlalu membantu untuknya.",
-      "th": "ซิสเตอร์ Rosaria ปากก็พูดว่า \"ยุ่ง\" อยู่ตลอด แต่เธอก็ตั้งใจทำงานสุด ๆ คราวก่อนฉันบอกเธอว่า \"ถ้ารู้สึกว่ายุ่งเกินไปก็มาขอให้ฉัน ช่วยได้นะ\" แต่เธอกลับตอบว่า \"งั้นก็ยิ่งยุ่งกว่าเดิม\" อื้ม... ต่อไปฉันต้องทำงานให้หนักกว่านี้",
+      "id": "Suster Rosaria selalu mengatakan \"tidak mau merepotkanku\", dia memang sangat kompeten. Terakhir kali aku bilang padanya, \"Kalau kamu merasa sulit, minta tolong aku saja\", tetapi dia menjawab, \"Ini lebih merepotkan untukmu.\" Hmm ... aku ternyata tidak terlalu membantu untuknya.",
+      "th": "ซิสเตอร์ Rosaria ปากก็พูดว่า \"มันยุ่งยาก\" อยู่ตลอด แต่เธอก็ตั้งใจทำงานสุด ๆ คราวก่อนฉันบอกเธอว่า \"ถ้ารู้สึกว่ายุ่งยากเกินไป ก็มาขอให้ฉันช่วยได้นะ\" แต่เธอกลับตอบว่า \"มันจะยิ่งยุ่งยากกว่าเดิมน่ะสิ\" อื้ม... ต่อไปฉันต้องทำงานให้หนักกว่านี้",
       "vi": "Tu nữ Rosaria luôn nói về những \"rắc rối\", nhưng cô ấy thực sự là người có năng lực. Lần trước tôi nói với cô ấy rằng \"nếu cảm thấy rắc rối có thể tìm tôi giúp\", nhưng cô ấy trả lời \"như vậy còn rắc rối hơn\". Ừm... tôi thực sự vẫn còn nhiều thiếu sót."
     }
   },
@@ -954,8 +954,8 @@
       "fr": "Les critiques de Diluc envers l'Ordre de Favonius sont fondées. J'ai beau me sentir coupable de ce qu'il s'est passé, on ne peut pas revenir dans le passé. Je ferai en sorte qu'il change d'avis sur nous un jour...",
       "pt": "É razoável que o Senhor Diluc está se queixando sobre os Cavaleiros de Favonius. Embora eu esteja me sentindo culpado, não posso mudar nada... Espero que através de meus esforços ele mude suas opiniões... Hum, é o meu dever.",
       "ru": "У Дилюка есть свои причины скептически относиться к Ордо Фавониус. Я не горжусь тем, как всё вышло, но и прошлого изменить не могу. Всё, что я могу, - это усерднее работать над тем, чтобы однажды он смог увидеть нас в лучшем свете... Это мой долг.",
-      "id": "Tuduhan Diluc terhadap para Knight bukan tanpa sebab, meskipun dia merasa bersalah di dalam hatinya, dia tetap tidak dapat mengubah hasil yang ditetapkan... Aku hanya ingin melalui usahaku... bisa membuatnya berubah pikiran terhadap Knights of Favonius. Ya, ini adalah tanggung jawabku.",
-      "th": "คุณ Diluc มีเหตุผลที่จะไม่ชอบกองอัศวินแห่ง Favonius ฉันเองก็รู้สึกผิดกับเรื่องที่ผ่านมา แต่ฉันไม่สามารถแก้ไขอดีตได้... ฉันทำได้แค่ต้องตั้งใจทำงานอย่างหนัก หวังว่าสักวันนึงจะสามารถเปลี่ยนมุมมองของเขาที่มีต่อกองอัศวินได้... ใช่ นี่เป็นหน้าที่ของฉัน",
+      "id": "Tuduhan Diluc terhadap para Knight bukan tanpa sebab, meskipun dia merasa bersalah di dalam hatinya, dia tetap tidak dapat mengubah hasil yang ditetapkan ... Aku hanya ingin melalui usahaku ... bisa membuatnya berubah pikiran terhadap Knights of Favonius. Ya, ini adalah tanggung jawabku.",
+      "th": "รุ่นพี่ Diluc มีเหตุผลที่จะไม่ชอบกองอัศวินแห่ง Favonius ฉันเองก็รู้สึกผิดกับเรื่องที่ผ่านมา แต่ฉันไม่สามารถแก้ไขอดีตได้... ฉันทำได้แค่ต้องตั้งใจทำงานอย่างหนัก หวังว่าสักวันนึง จะสามารถเปลี่ยนมุมมองของเขาที่มีต่อกองอัศวินได้... ใช่ นี่เป็นหน้าที่ของฉัน",
       "vi": "Những chỉ trích của tiền bối Diluc với đội kỵ sĩ cũng là có lý do cả, ngay cả khi trong lòng cảm thấy hổ thẹn cũng không thể thay đổi được kết quả đã định... Tôi chỉ muốn thông qua sự cố gắng của mình, khiến anh ấy thay đổi cách nhìn về đội kỵ sĩ... ừm,đây là trách nhiệm của tôi."
     }
   },
@@ -972,7 +972,7 @@
       "pt": "Sobre Diluc - Respeito",
       "ru": "О Дилюке: Уважение",
       "id": "Tentang Diluc: Rasa hormat",
-      "th": "เกี่ยวกับ Diluc-เคารพนับถือ",
+      "th": "เกี่ยวกับ Diluc - เคารพนับถือ",
       "vi": "Về Diluc - Kính trọng"
     },
     "line": {
@@ -1016,9 +1016,9 @@
       "de": "Saccharose ist ein Alchimisten-Naturtalent. Mit Albedo an ihrer Seite braucht sie sich auch nicht um ihre Zukunft zu sorgen. Es ist nur ... ach nichts. Es ist keine schlechte Sache, sich in seiner eigenen kleinen Welt aufzuhalten.",
       "es": "Sacarosa destaca por su gran talento en el campo de la alquimia. Bajo la supervisión de Albedo, seguramente se convertirá en una gran alquimista. Estoy segura de que su futuro será brillante. Solo que... *Ejem*, lo siento, solo estaba divagando. No es nada.",
       "fr": "Sucrose est une alchimiste douée. Avec Albedo à ses côtés, elle n'a aucun souci à se faire, mais... Non, il n'y a pas de mal à rester dans son petit monde après tout.",
-      "pt": "Como uma Alquimista, a Sucrose é muito jeitosa. Ainda por cima, tem ajuda do Albedo, então não é preciso preocuparmos com o futuro dela. Só que... Só que... ela sempre está mergulhada no seu próprio mundo. Não sei se isso será um problema?",
+      "pt": "Como uma Alquimista, Sucrose é muito jeitosa. Ainda por cima, tem ajuda de Albedo, então não é preciso nos preocuparmos com o futuro dela. Só que... Só que... Ela sempre está mergulhada no seu próprio mundo. Não sei se isso será um problema?",
       "ru": "Такой интеллект, как у Сахарозы, редко встречается среди алхимиков. Альбедо обязательно сможет раскрыть её таланты, и я уверена, что в будущем её ждёт огромный успех. Вот только... Кхм, я потеряла мысль. Ничего страшного... или плохого.",
-      "id": "Sebagai seorang alkemis, Sucrose bisa dibilang sangat berbakat. Selain itu, ada pula Albedo yang membimbingnya. Jadi, dia tidak perlu khawatir tentang masa depannya. Hanya saja... tidak, tidak apa-apa. Terlalu asyik dengan dunia sendiri sepertinya tidak seburuk yang dibayangkan, kan?",
+      "id": "Sebagai seorang alkemis, Sucrose bisa dibilang sangat berbakat. Selain itu, ada pula Albedo yang membimbingnya. Jadi, dia tidak perlu khawatir tentang masa depannya. Hanya saja ... tidak, tidak apa-apa. Terlalu asyik dengan dunia sendiri sepertinya tidak seburuk yang dibayangkan, kan?",
       "th": "Sucrose ก็เป็นนักเล่นแร่แปรธาตุที่มี พรสวรรค์ที่ไม่ธรรมดา ภายใต้การชี้แนะ ของ Albedo อนาคตของเธอสดใสแน่นอน เพียงแต่ว่า... ไม่สิ ไม่มีอะไรหรอก การจมอยู่ในโลกส่วนตัวบ่อย ๆ ก็ไม่ใช่เรื่องเสียหายอะไร",
       "vi": "Là một Giả Kim Thuật Sĩ, Sucrose cũng được coi là có thiên phú. Hơn nữa còn có Albedo bên cạnh cô ấy, tương lai có lẽ không cần lo lắng. Chỉ là... không, không có gì, đắm chìm trong thế giới của bản thân cũng không phải là chuyện xấu."
     }
@@ -1044,14 +1044,14 @@
       "zht": "優菈？咳…請不要對她的身世耿耿於懷，西風騎士會公正地評價每個人。優菈明辨是非、才華出眾，偶爾發表危險言論也只是她的性格使然。哪怕她總是說要挑戰我，我也不介意。",
       "jp": "エウルア？コホン…彼女の生まれについては気にしないであげてくれ。西風騎士団は一人一人を平等に評価する。エウルアは物事の善悪をはっきりと理解していて、才能にも恵まれている。時に危険な発言をするのは彼女の性格からくるものだ。だから、どれほど私に挑戦的な態度を取ろうと、私は気にしない。",
       "ko": "유라? 흠… 그녀의 신분을 너무 마음에 두지 마. 페보니우스 기사는 모든 사람을 공평하게 평가하니까. 유라는 사리 분별을 잘하고 뛰어난 재능이 있어. 가끔 위험한 발언을 하지만, 그건 그녀의 성격 때문이야. 그녀가 늘 내게 도전하겠다고 해도 난 개의치 않아",
-      "en": "Eula? Um... Please, do not hold her unfortunate background against her. The Knights of Favonius evaluate each person impartially. Eula has a clear sense of right and wrong and is more talented than most. The controversial statements that she makes from time to time are just a product of her personality. For instance, she always mentions wanting to challenge me, but I do not mind.",
+      "en": "Eula? Um... Please, do not hold her unfortunate background against her. The Knights of Favonius evaluate each person impartially. Eula has a clear sense of right and wrong and is more talented than most. The controversial statements that she makes from time to time are just a product of her personality. For instance, she always mentions wanting to challenge me, but I don't mind.",
       "de": "Eula? Ähem ... Bitte nehmt ihr ihre Vergangenheit nicht übel. Die Ritter des Ordo Favonius richten jeden gerecht. Eula kann sehr gut Richtig von Falsch unterscheiden. Sie hat brillantes Talent. Und ihre gelegentlichen gefährlichen Bemerkungen gehören einfach zu ihrem Charakter. Auch wenn sie immer sagt, dass sie mich herausfordern wird, macht mir das nichts aus.",
       "es": "¿Eula? Humm... Por favor, no tengas muy en cuenta su desafortunada ascendencia. Los Caballeros de Favonius valoramos a todas las personas de manera imparcial. Eula sabe distinguir el bien del mal y sus talentos sobresalen por encima de los demás. Las polémicas declaraciones que hace de vez en cuando son solo producto de su personalidad. Por ejemplo, siempre dice que quiere retarme, pero a mí no me importa.",
-      "fr": "Eula ? Hum... Ne lui tenez pas rigueur de son passé. Les chevaliers de Favonius jugent chacun de manière aussi impartiale que faire se peut. Eula possède une idée très claire du bien et du mal, et est plus douée que la plupart. Les controverses qu'elle suscite ne sont qu'un résultat de sa personnalité. Elle répète vouloir me défier, et ça ne me dérange pas outre mesure.",
+      "fr": "Eula ? Hum... Ne lui tenez pas rigueur de son passé. Les chevaliers de l'Ordre de Favonius jugent chacun de manière aussi impartiale que possible. Eula possède une idée très claire du bien et du mal, et elle est plus douée que la plupart. Les controverses qu'elle suscite ne sont qu'un résultat de sa personnalité. Elle répète vouloir me défier, et ça ne me dérange pas outre mesure.",
       "pt": "Eula? Uh... Por favor, não trate ela como o resto de sua família. Os Cavaleiros de Favonius analisam cada pessoa imparcialmente. Eula tem uma noção clara de certo e errado, e é mais talentosa que a maioria das pessoas. As alegações controversas que ela faz eventualmente são fruto de sua personalidade. Por exemplo, ela sempre menciona que quer me desafiar, mas eu não me importo.",
       "ru": "Эола? Пожалуйста, не зацикливайся на её прошлом. Рыцари Ордо Фавониус честно оценивают каждого человека. Она может отличить добро от зла, она очень талантлива. Иногда она говорит опасные вещи, но это просто часть её характера. Даже если она всегда говорит, что бросит мне вызов, я не против.",
-      "id": "Eula? Um... Tolong, jangan menilai dia dari sejarahnya. Knights of Favonius menilai semua orang secara adil. Eula bisa menilai mana yang benar dan salah, dia juga sangat berbakat. Kata-kata kontroversial yang dia katakan itu memang sudah dari sifatnya saja. Contohnya, dia selalu berkata ingin menantangku, tapi aku tidak pernah keberatan.",
-      "th": "Eula? อะแฮ่ม... อย่าไปใส่ใจกับสิ่งที่เขาทำมากเลย อัศวินแห่ง Favonius จะตัดสินทุกคนอย่างเป็นธรรม Eula รู้ผิดชอบชั่วดี มีพรสวรรค์ที่โดดเด่น และการใช้คำพูดที่ส่อถึงความอันตรายบางครั้ง ก็เป็นเพียงธรรมชาติของนิสัยของเธอ ถึงแม้ว่าเธอจะท้าทายฉันบ่อย ๆ แต่ฉันก็ไม่ถือสาหรอก",
+      "id": "Eula? Um ... Tolong, jangan menilai dia dari sejarahnya. Knights of Favonius menilai semua orang secara adil. Eula bisa menilai mana yang benar dan salah, dia juga sangat berbakat. Kata-kata kontroversial yang dia katakan itu memang sudah dari sifatnya saja. Contohnya, dia selalu berkata ingin menantangku, tapi aku tidak pernah keberatan.",
+      "th": "Eula? อะแฮ่ม... อย่าไปติดใจอะไรกับตระกูลที่ให้กำเนิดเธอนักเลย อัศวินแห่ง Favonius จะตัดสินทุกคนอย่างเป็นธรรม Eula รู้ผิดชอบชั่วดี มีพรสวรรค์ที่โดดเด่น และการใช้คำพูดที่ส่อถึงความอันตรายบางครั้ง ก็เป็นเพียงธรรมชาติของนิสัยของเธอ ถึงแม้ว่าเธอจะท้าทายฉันบ่อย ๆ แต่ฉันก็ไม่ถือสาหรอก",
       "vi": "Eula? Hừm... bạn đừng nên để tâm đến thân thế của Eula, Đội Kỵ Sĩ Tây Phong luôn công bằng với mỗi người. Eula biết phân biệt phải trái, tài nghệ lại xuất chúng, tuy phát ngôn đôi lúc hơi khiêu khích nhưng đó cũng chỉ là tính cách của cô ấy thôi. Dù Eula cũng thường hay thách thức tôi, nhưng tôi cũng không để tâm lắm."
     }
   },
@@ -1083,7 +1083,7 @@
       "pt": "Eu assumo a confiança dos Cavaleiros de Favonius e a expectativa do povo de Mondstadt, portanto, tenho que continuar me esforçando.",
       "ru": "Рыцари верят мне, а народ возлагает на меня свои надежды. Именно поэтому я должна сохранять бдительность.",
       "id": "Aku memikul kepercayaan dari Knights of Favonius dan harapan rakyat Mondstadt. Karena itu, aku tidak bisa bersantai-santai.",
-      "th": "ฉันแบกรับความเชื่อใจของ เหล่า อัศวิน และความหวังของ ชาวเมือง Mondstadt เพราะฉะนั้น ฉันจะหละหลวมไม่ได้",
+      "th": "ฉันแบกรับความเชื่อใจของกองอัศวินแห่ง Favonius และความหวังของ ชาวเมือง Mondstadt เอาไว้ เพราะฉะนั้น ฉันจะหละหลวมไม่ได้",
       "vi": "Tôi gánh trên vai niềm tin của Đội Kỵ Sĩ Tây Phong và cả kỳ vọng của người dân Mondstadt. Vì vậy tôi không được phép lơ là."
     }
   },
@@ -1112,10 +1112,10 @@
       "de": "Vennessa, der erste „Löwenzahnritter“, ist bis heute nicht vergessen. Die Ehre, diesen Namen zu tragen, wurde bisher einigen großartigen Rittern erwiesen. Ich darf diesen Titel nicht beschmutzen und mich ausruhen. Denn ich muss der Schild und das Schwert des Volkes sein.",
       "es": "El título de Vennessa, “la Caballera de Dandelion”, ha pasado de generación en generación. Innumerables grandes caballeros fueron galardonados con este honor, y no seré yo quien traiga vergüenza a su nombre. Por lo tanto, debo seguir adelante. Tengo que convertirme en el escudo del pueblo.",
       "fr": "Nombreux sont les illustres chevaliers à avoir porté le titre de « Chevalier au Pissenlit ». Pour lui faire honneur, je ne dois pas relâcher mes efforts et continuer d'être le bouclier et l'épée de Mondstadt.",
-      "pt": "O título de Cavaleira de Dandelion da Vennessa foi transmitido até hoje, e alguns cavaleiros grandes foram concedido esta honra. Eu não posso envergonhar este título, portanto, tenho que continuar me esforçando como escudo e espada para guardar o povo.",
+      "pt": "O título de Cavaleira de Dandelion de Vennessa foi transmitido através das gerações. Vários grandes cavaleiros foram concedidos esta honra. Eu não posso envergonhar este título, portanto, tenho que continuar me esforçando como escudo e espada para proteger o povo.",
       "ru": "Титул Веннессы - «Рыцарь Одуванчик» - передавался из поколения в поколение. Бесчисленное количество великих рыцарей были удостоены этой чести, и я не опозорю это имя. Я должна продолжать идти вперёд. Я должна стать мечом и щитом народа.",
       "id": "Nama \"Dandelion Knight\" Vennessa terus diwariskan sampai hari ini, sudah banyak Knight besar yang telah menerima kehormatan ini. Aku tidak boleh mempermalukan nama ini. Karena itu, aku tidak bisa berleha-leha. Aku harus menjadi perisai dan pedang yang tangguh untuk melindungi semua orang.",
-      "th": "ฉายา \"อัศวิน Dandelion\" ของ Vennessa ได้ถูกสืบทอดจากรุ่นสู่รุ่น มีอัศวินผู้ยิ่งใหญ่นับไม่ถ้วนที่ได้รับฉายานี้ ฉันจะทำให้ชื่อนี้หม่นหมองไม่ได้ ดังนั้น ฉันจึงต้องตั้งใจยืนหยัด ฉันต้องเป็นดาบและโล่ที่คอย ปกป้อง Mondstadt",
+      "th": "ฉายา \"อัศวิน Dandelion\" ของ Vennessa ได้ถูกสืบทอดจากรุ่นสู่รุ่น มีอัศวินผู้ยิ่งใหญ่นับไม่ถ้วนที่ได้รับฉายานี้ ฉันจะทำให้ชื่อนี้หม่นหมองไม่ได้ ดังนั้น ฉันจึงต้องตั้งใจยืนหยัด ฉันต้องเป็นดาบและโล่ที่คอยปกป้อง Mondstadt",
       "vi": "Danh hiệu \"Kỵ Sĩ Bồ Công Anh\" của Vennessa được truyền lại cho đến hôm nay, và đã có vô số kỵ sĩ được trao tặng vinh dự này. Tôi không thể bôi nhọ danh hiệu này. Vì vậy, không được phép lơ là. phải trở thành kiếm và khiên bảo vệ cho tất cả mọi người."
     }
   },
@@ -1140,14 +1140,14 @@
       "zht": "無論是傳奇故事還是史書，都只記載了偉大騎士的功績。難道，他們一次也不曾迷失過嗎…？\n\n風啊，請指引我前進的道路。",
       "jp": "伝説の物語にしろ、歴史書にしろ、偉大な騎士はその功績しか記されていない。彼らは一度も道を見失わなかったというのか……？\n\n風よ、我が進むべき道を示してくれ。",
       "ko": "전설이나 사서에는 기사의 위대한 공적만 기록되어 있지. 설마 그들은 한 번도 방황한 적이 없었던 건가…?\n\n바람아, 내게 나아가야 할 길을 인도해줘",
-      "en": "Only glorious victories are recorded in legends and history books. Surely even the great knights of old must have had their struggles? Wind, please show me the path.",
+      "en": "Only glorious victories are recorded in legends and history books. Surely even the great knights of old must have had their struggles?\n\nWind, please show me the path.",
       "de": "Legenden und Geschichtsbücher berichten nur von erfolgreichen Rittern. Sind die alten Ritter denn nie in Schwierigkeiten geraten?\n\nO Wind, bitte weise mir den Weg.",
       "es": "Solo las gloriosas victorias quedan grabadas como leyendas y en los libros de historia. Seguramente incluso los grandes caballeros de antaño tuvieron sus tropiezos.\n\nViento, por favor muéstrame el camino.",
       "fr": "Seules les victoires forment les légendes et les livres d'histoire. Même les meilleurs des chevaliers d'antan ont dû avoir leur part d'épreuves.\n\nÔ vents, montrez-moi le chemin à suivre.",
-      "pt": "Independentemente de se tratar de lendas ou livros de história, eles contam os méritos e conquistas. Mas será que eles nunca estavam perdidos? \n\nArconte Anemo, por favor, seja a minha estrela-guia.",
+      "pt": "Apenas vitórias gloriosas são registradas para a posteridade em lendas e livros de história. Mas certamente até os grandes cavaleiros de outrora tiveram seus problemas.\n\nArconte Anemo, por favor, seja minha estrela-guia.",
       "ru": "В легендах и учебниках истории записаны только победы. Несомненно, даже у великих рыцарей древности были свои переживания и сомнения. Ветер, прошу, укажи мне путь.",
       "id": "Entah itu cerita legenda atau buku sejarah, keduanya hanya mencatat prestasi para Knightnya. Memangnya mereka tidak pernah melakukan kesalahan ya?\n\nWahai angin, tolong tunjukkan jalannya padaku.",
-      "th": "ไม่ว่าจะเป็นหนังสือหรือบันทึก เล่มไหน ก็มีแต่บันทึกเรื่องราวความสำเร็จ ของอัศวินผู้ยิ่งใหญ่ไว้เท่านั้น พวกเขาไม่เคยรู้สึกเคว้งคว้างบ้างรึไงนะ...?\n\nสายลม... ได้โปรดชี้ทางให้ข้าด้วยเถิด",
+      "th": "ไม่ว่าจะเป็นหนังสือหรือบันทึกประวัติศาสตร์เล่มไหน ก็มีแต่บันทึกเรื่องราวความสำเร็จของอัศวินผู้ยิ่งใหญ่ไว้เท่านั้น พวกเขาไม่เคยรู้สึกเคว้งคว้างบ้างรึไงนะ...?\n\nสายลม... ได้โปรดชี้ทางให้ข้าด้วยเถิด",
       "vi": "Bất kể là những câu chuyện truyền kỳ hay sử sách, cũng đều chỉ ghi lại những công lao của các kỵ sĩ vĩ đại. Lẽ nào, họ chưa từng mất phương hướng dù chỉ một lần sao...?\n\nGió ơi, xin hãy dẫn đường chỉ lối cho tôi."
     }
   },
@@ -1174,12 +1174,12 @@
       "ko": "일에 몰두하면 고민은 잊히고 시간은 빨리 가지. 「네가 이 일의 적임자야」…. 이게 그때 바르카 대단장님께서 내게 하신 말씀이야",
       "en": "When I'm wholeheartedly devoted to my work, all of my troubles and even my sense of time seem to just slip away. Hmm, Grand Master Varka did say to me: \"Jean, there is no better candidate for this task\"...",
       "de": "Wenn du mit Leib und Seele dabei bist, vergisst du sowohl deine Schwierigkeiten als auch die Zeit. „Du bist am besten dafür geeignet.“ ... Das sagte Großmeister Varka vor seiner Abreise zu mir.",
-      "es": "Cuando estoy totalmente enfocada en mi trabajo, todos mis problemas e incluso mi sentido del tiempo parecen desaparecer. El Gran Maestro Varka me dijo: “no hay mejor candidato para esta tarea, Jean...”.",
+      "es": "Cuando estoy totalmente enfocada en mi trabajo, todos mis problemas e incluso mi sentido del tiempo parecen desaparecer. El Gran Maestro Varka me dijo: “no hay mejor candidato para esta tarea, Jean”.",
       "fr": "Quand je suis complètement absorbée par le travail, j'oublie tous mes problèmes, et jusqu'au temps qui passe... Je me rappelle des mots du Grand Maître Varka : « Jean, il n'y a pas meilleur candidat pour ce poste que toi. »",
-      "pt": "Quando estou concentrada no trabalho, a minha preocupação está esquecida, junto com o tempo. \"Você é a melhor para assumir esta responsabilidade\". Foi o que o Grande Mestre Varka me disse.",
+      "pt": "Quando estou totalmente concentrada no trabalho, minhas preocupações são esquecidas, junto com o tempo. \"Você é a melhor para assumir esta responsabilidade\". Foi o que o Grande Mestre Varka me disse.",
       "ru": "Когда я всем сердцем предана работе, все мои проблемы и даже моё чувство времени будто ускользают от меня. Магистр Варка сказал мне: «Джинн, лучшего кандидата для этой задачи мне не найти...»",
       "id": "Ketika kita memfokuskan diri dalam pekerjaan, kita akan melupakan kekhawatiran dan waktu. \"Kamu adalah orang terbaik untuk melakukan hal semacam ini.\" Begitulah kata Grand Master Varka kepadaku saat itu.",
-      "th": "เวลาฉันตั้งใจทำงาน เรื่องกลุ้มใจและแม้แต่เวลาก็จะถูก ลืมไปชั่วคราว ...ตอนนั้นผู้บัญชาการ Varka พูดกับฉันว่า \"Jean ไม่มีคนเหมาะกับตำแหน่งนี้ไปกว่า เธอแล้ว\"",
+      "th": "เวลาฉันตั้งใจทำงาน จะลืมเรื่องกลุ้มใจและเวลาไปชั่วขณะ ...ตอนนั้นผู้บัญชาการ Varka พูดกับฉันว่า \"Jean ไม่มีคนเหมาะกับตำแหน่งนี้ไปกว่าเธอแล้ว\"",
       "vi": "Khi cống hiến hết mình cho công việc, những phiền muộn và thời gian sẽ đều bị lãng quên. \"Cô là người thích hợp nhất để làm việc này.\"... Lúc đó Đại Đội Trưởng Varka đã nói với tôi như vậy."
     }
   },
@@ -1204,14 +1204,14 @@
       "zht": "#與{F#妳}{M#你}同行時，前進的道路變得無比清晰。就好像，終於有人能依靠，這究竟是…\n\n不，一定是我還不夠努力。絕對不能鬆懈，不能辜負西風騎士團和蒙德…但是，謝謝{F#妳}{M#你}。",
       "jp": "君と行動を共にして、進むべき道がこれ以上なくはっきりした。まるで、ついに頼れる人が見つかったようだ。これは一体……\n\nいや、きっとまだ私の努力が足りないのだ。絶対に気を緩めてはならない。西風騎士団とモンドの期待に背くわけにはいかないのだから。……だが、ありがとう。",
       "ko": "너와 함께 있으면 길이 분명히 보여. 마치 의지할 수 있는 사람이 생긴 것처럼, 이건 대체…\n\n아니, 내 노력이 부족해서 그래, 절대 해이해질 수 없어. 페보니우스 기사단과 몬드를 실망시킬 수 없지…. 그래도 고마워",
-      "en": "As I walk with you, the path ahead becomes clearer. It's almost as if I have finally found someone I can trust. I wonder if... No, this must mean that I am still lacking in strength... I must not give up, I will not — I cannot fail the Knights and the people of Mondstadt. Still... thank you.",
+      "en": "As I walk with you, the path ahead becomes clearer. It's almost as if I have finally found someone I can trust. I wonder if...\n\nNo, this must mean that I am still lacking in strength... I must not give up, I will not — I cannot fail the Knights and the people of Mondstadt. Still... thank you.",
       "de": "Wenn ich so mit dir gehe, wird der Pfad vor mir immer klarer, klarer denn je. So, als ob ich endlich jemanden hätte, auf den ich mich im Notfall voll und ganz verlassen kann.\n\nNein, das heißt bestimmt, dass ich mich noch nicht genug angestrengt habe. Ich darf den Ordo Favonius und die Bewohner Mondstadts nicht im Stich lassen ... Dennoch, danke dir.",
       "es": "Mientras camino contigo, el camino por delante se vuelve más claro. Es casi como si finalmente hubiera encontrado a alguien en quien confiar. Me pregunto si... No, es señal de que todavía me falta fortaleza... No debo rendirme, no lo haré, no puedo fallarle a los caballeros y la gente de Mondstadt. Aun así... gracias.",
-      "fr": "Le chemin à suivre me paraît plus clair à force de marcher à tes côtés. C'est un peu comme si j'avais enfin trouvé quelqu'un en qui croire, comme si...\n\nNon, ça veut dire que mes efforts ne sont pas suffisant. Je ne dois pas abandonner, je n'abandonnerai jamais – les chevaliers et les gens de Mondstadt comptent sur moi. Mais... je te remercie.",
+      "fr": "Le chemin à suivre me paraît plus clair à force de marcher à tes côtés. C'est un peu comme si j'avais enfin trouvé quelqu'un en qui croire, comme si...\n\nNon, ça veut dire que mes efforts ne sont pas suffisants. Je ne dois pas abandonner, je n'abandonnerai jamais. Les chevaliers et les gens de Mondstadt comptent sur moi. Mais... je te remercie.",
       "pt": "Enquanto ando com você, o caminho à frente se torna mais claro. É quase como se eu finalmente encontrasse alguém em quem eu possa confiar, me pergunto se...\n\nNão, isso deve significar que ainda estou tentando o meu melhor... Não devo desistir, não vou - não posso envergonhar os cavaleiros e o povo de Mondstadt. Mas... Obrigada.",
-      "ru": "Чем больше времени я следую за тобой, тем яснее становится мой путь. Кажется, что я наконец нашла кого-то, кому могу доверять. Интересно, а что если... Нет, тогда это будет значить, что я всё ещё недостаточно сильна... Я не должна сдаваться, я не подведу... Я не могу подвести рыцарей и народ Мондштадта. Но всё же... спасибо тебе.",
-      "id": "Saat berjalan denganmu, melangkah ke depan menjadi lebih jelas. Seolah-olah aku akhirnya sudah berhasil menemukan seseorang yang bisa diandalkan. Apakah ini...\n\nTidak, pasti usahaku belum cukup. Aku tidak boleh bersantai-santai, tidak boleh mengecewakan Knights of Favonius dan Mondstadt... tapi, terima kasih ya.",
-      "th": "เวลาฉันเดินเคียงข้างกับคุณ เส้นทางข้างหน้าดูชัดเจนขึ้นมาก เหมือนในที่สุดก็เจอคนที่สามารถ ไว้ใจได้ ไม่รู้ว่านี่คือ...\n\nไม่สิ มันต้องเป็นเพราะฉันไม่ได้ทำงาน หนักพอ ฉันต้องตั้งใจยืนหยัด ต้องไม่ทำให้เหล่าอัศวินและ ชาวเมือง Mondstadt ต้องผิดหวัง... แต่ยังไงก็ ขอบคุณนะ",
+      "ru": "Чем больше времени я следую за тобой, тем яснее становится мой путь. Кажется, что я наконец нашла кого-то, кому могу доверять. Интересно, а что, если... Нет, тогда это будет значить, что я всё ещё недостаточно сильна... Я не должна сдаваться, я не подведу... Я не могу подвести рыцарей и народ Мондштадта. Но всё же... спасибо тебе.",
+      "id": "Saat berjalan denganmu, melangkah ke depan menjadi lebih jelas. Seolah-olah aku akhirnya sudah berhasil menemukan seseorang yang bisa diandalkan. Apakah ini ....\n\nTidak, pasti usahaku belum cukup. Aku tidak boleh bersantai-santai, tidak boleh mengecewakan Knights of Favonius dan Mondstadt ... tapi, terima kasih ya.",
+      "th": "เวลาฉันเดินเคียงข้างกับคุณ เส้นทางข้างหน้าดูชัดเจนขึ้นมาก เหมือนในที่สุดก็เจอคนที่สามารถไว้ใจได้ ไม่รู้ว่านี่คือ...\n\nไม่สิ มันต้องเป็นเพราะฉันยังพยายามได้ไม่มากพอ ฉันต้องตั้งใจยืนหยัด ต้องไม่ทำให้เหล่าอัศวิน และชาวเมือง Mondstadt ต้องผิดหวัง... แต่ยังไงก็ ขอบคุณนะ",
       "vi": "Đồng hành cùng bạn, con đường phía trước trở nên rõ ràng hơn. Giống như, cuối cùng cũng có người để dựa vào, đây rốt cuộc là... \n\nKhông, chắc chắn là do tôi vẫn chưa thực sự cố gắng. Tuyệt đối không được phép lơ là, không thể phụ lòng Đội Kỵ Sĩ Tây Phong và Mondstadt... nhưng, rất cảm ơn bạn."
     }
   },
@@ -1268,14 +1268,14 @@
       "zht": "假如有什麼神奇的藥劑，喝了就不需要睡覺…嗯，要不明天問問麗莎吧？",
       "jp": "もし何か不思議な薬があって、それを飲んだら寝なくても済むとしたら…うん、明日リサに聞いてみるか？",
       "ko": "만약 잠을 안 자도 되는 신기한 포션이 있다면…. 음, 내일 리사에게 물어볼까?",
-      "en": "If only there was some kind of mysterious potion that could let me stay awake forever... I need to have a talk with Lisa tomorrow.",
+      "en": "If only there was some kind of mysterious potion that could keep me awake forever... I need to have a talk with Lisa tomorrow.",
       "de": "Wenn es doch nur eine Art Trank gäbe, der mich für immer wach halten würde, sodass ich nicht mehr zu schlafen bräuchte ... Morgen muss ich das wirklich mit Lisa besprechen.",
       "es": "Ojalá hubiera algún tipo de poción misteriosa que pudiera mantenerme despierta para siempre... Necesito hablar con Lisa mañana.",
       "fr": "Existe-t-il une potion qui permet de rester éveillé en permanence ? Lisa en saura certainement quelque chose...",
       "pt": "Se existisse uma poção mágica que me deixasse sempre acordada... Hum! Vou perguntar a Lisa amanhã.",
       "ru": "Если бы только у меня было какое-нибудь волшебное зелье, которое бы не давало мне спать... Нужно завтра поговорить с Лизой.",
-      "id": "Seandainya saja ada ramuan ajaib, di mana setelah meminumnya kita bisa terbangun selamanya... Oh ya, mengapa tidak kita tanyakan saja pada Lisa besok?",
-      "th": "ถ้ามีโพชั่นที่สามารถทำให้ ตื่นตลอดเวลาก็ดีสิ... อืม... พรุ่งนี้ลองไปถาม Lisa ดูดีมั้ย?",
+      "id": "Seandainya saja ada ramuan ajaib, di mana setelah meminumnya kita bisa terbangun selamanya ... Oh ya, mengapa tidak kita tanyakan saja pada Lisa besok?",
+      "th": "ถ้ามีโพชั่นที่สามารถทำให้ตื่นตลอดเวลาก็ดีสิ... อืม... พรุ่งนี้ลองไปถาม Lisa ดูดีมั้ย?",
       "vi": "Nếu như có loại thuốc thần kỳ nào đó, uống vào sẽ không cần ngủ nữa... à, hay là ngày mai đi hỏi Lisa?"
     }
   },
@@ -1291,7 +1291,7 @@
       "fr": "Plats préférés...",
       "pt": "Comida Favorita...",
       "ru": "Любимая еда...",
-      "id": "Makanan favorit",
+      "id": "Makanan Favorit",
       "th": "อาหารที่ชอบ...",
       "vi": "Món ăn yêu thích..."
     },
@@ -1303,11 +1303,11 @@
       "en": "It's been ages since I had pizza at Cat's Tail. If only they delivered...",
       "de": "Ich habe schon ewig nicht mehr die Pizza von der Taverne „Zum Katzenschwanz“ gegessen. Wenn sie nur zu mir ins Büro liefern würden ...",
       "es": "Han pasado años desde que comí una pizza en la Taberna Cola de Gato. Si tan solo entregaran a domicilio...",
-      "fr": "Ça fait longtemps que je n'ai pas mangé une pizza de chez La Queue de Chat. Ça aurait été bien si je pouvais la livrer au bureau...",
+      "fr": "Ça fait longtemps que je n'ai pas mangé une pizza de chez La Queue de Chat. Ça aurait été bien si je pouvais la faire livrer au bureau...",
       "pt": "Faz muito tempo que eu comi uma pizza da Cauda do Gato. Se eles fizessem entregas a domicílio...",
       "ru": "Кажется, что я уже целую вечность не ела пиццу в «Кошкином хвосте». Эх, если бы только у них была доставка...",
-      "id": "Pizza di Cat's Tail... Aku sudah lama tidak makan itu. Alangkah bagusnya kalau bisa dikirim ke kantor.",
-      "th": "ไม่ได้กินพิซซ่าที่ร้าน Cat's Tail มานานแล้ว ถ้าพวกเขามาส่งถึงห้องทำงาน ก็ดีสิ",
+      "id": "Pizza di Cat's Tail ... Aku sudah lama tidak makan itu. Alangkah bagusnya kalau bisa dikirim ke kantor.",
+      "th": "ไม่ได้กินพิซซ่าที่ร้าน Cat's Tail มานานแล้ว ถ้าพวกเขามาส่งถึงห้องทำงานก็ดีสิ",
       "vi": "Đã lâu rồi không ăn... món pizza của Quán Rượu Đuôi Mèo. Nếu có thể đưa đến văn phòng thì thật tuyệt."
     }
   },
@@ -1415,7 +1415,7 @@
       "ko": "선물 획득·세 번째",
       "en": "Receiving a Gift: III",
       "de": "Geschenk erhalten III",
-      "es": "Al recibir un regalo (II)",
+      "es": "Al recibir un regalo (III)",
       "fr": "Cadeau reçu (3)",
       "pt": "Recebendo Presentes — III",
       "ru": "Подарок III",
@@ -1460,14 +1460,14 @@
       "zht": "#今天是值得慶祝的日子。要說為何的話，因為這是受風護佑的{F#妳}{M#你}，誕生的日子啊。既然是生日，那就好好休息一下吧。\n\n咳咳…祝{F#妳}{M#你}生日快樂…\n\n啊，請原諒我的冒昧。不知這份禮物，是否能令{F#妳}{M#你}滿意呢？",
       "jp": "今日はめでたい日だ。なぜなら、風の加護を受けた君の誕生日だからだ。誕生日なんだから、ゆっくり休むといい。\n\nオホン…♪ハッピーバースデー、トゥーユー♪…\n\nあっ、失礼を許してくれ。このプレゼント、気に入ってくれたかな？",
       "ko": "오늘은 경축할 날이야. 왜냐하면 바람의 수호를 받는 네가 태어난 날이니까, 생일이니 오늘은 푹 쉬어.\n\n흠흠… 생일 축하합니다….\n\n아, 묻지도 않고 선물을 준비했네. 마음에 들어?",
-      "en": "Today is a day worth celebrating. If you must ask why, well, let me remind you that today is when you, the one who is blessed by the wind, came into the world. Since this is your birthday, I'll allow you to take it easy. Ahem... ♪Happy birthday to you...♪ Uh... Please forgive my presumptuousness. I hope this gift is to your liking.",
+      "en": "Today is a day worth celebrating. If you must ask why, well, let me remind you that today is when you, the one who is blessed by the wind, came into the world. Since this is your birthday, I'll allow you to take it easy.\n\nAhem... ♪Happy birthday to you...♪\n\nUh... Please forgive my presumptuousness. I hope this gift is to your liking.",
       "de": "#Heute ist ein Tag zum Feiern. Warum? Nun, weil heute der Tag ist, an dem du, {F#die vom}{M#der vom} Wind Gesegnete, in unsere Welt kamst. Da dies deine Art Geburtstag ist, kannst du es langsam angehen lassen.\n\nÄhem, alles Gute für dich ... Bitte vergib mein nonchalantes Vorstoßen. Schau, ob dir dieses Geschenk gefällt.",
       "es": "#Hoy es un día que vale la pena celebrar. Si tienes que preguntar por qué, bueno, permíteme recordarte que hoy es cuando tú, quien fue bendecid{F#a}{M#o} por el viento, vino a este mundo. Como este es tu cumpleaños, te permitiré que te lo tomes con calma. *Ejem*... ♪Cumpleaños feliz...♪ *Ejem*. Perdona mi atrevimiento, espero que este regalo sea de tu agrado.",
       "fr": "Aujourd'hui est un jour spécial que nous devons célébrer. Pourquoi ? Parce que c'est ton anniversaire, chevalier honoraire.\n\nJoyeux anniversaire !\n\nJe me suis permis de t'apporter un cadeau... J'espère qu'il te plaira.",
       "pt": "Hoje é um dia que vale a pena comemorar. Se você quiser saber o porquê, deixe-me fazer te lembrar, hoje é quando você, aquele que é abençoado pelo vento, veio ao mundo. Como hoje é o seu aniversário, relaxe. *Limpa a garganta*... ♪Parabéns para você...♪\n\nAceite isso, espero que este presente seja do seu agrado.",
       "ru": "#Сегодня день, который стоит отметить. Если ты спросишь почему, то позволь мне напомнить, что именно сегодня ты, благословлённ{F#ая}{M#ый} ветром, приш{F#ла}{M#ёл} в этот мир. Поскольку это твой день рождения, я позволю тебе отдохнуть и расслабиться. Кхм-кхм... ♪С днём рождения тебя...♪ Эм... Прошу простить меня за фамильярность. Надеюсь, этот подарок тебе понравится.",
-      "id": "Hari ini adalah hari yang patut dirayakan. Alasannya adalah karena hari ini adalah hari kelahiranmu yang diberkati oleh angin. Karena ini hari istimewa, mari kita beristirahat sejenak.\n\nHehehe... selamat ulang tahun untukmu ya...\n\nAh, maafkan aku kalau kamu tidak terlalu suka dengan hadiah ini.",
-      "th": "วันนี้เป็นวันที่ควรค่าแก่ การเฉลิมฉลอง ทำไมน่ะเหรอ เพราะเป็นวันที่คุณได้รับพร จากสายลมให้เกิดมายังไงล่ะ ในเมื่อเป็นวันเกิดก็ พักสักหน่อยเถอะ\n\n อะแฮ่ม ♪... แฮปปี้เบิร์ดเดย์ทูยู...♪\n\nขอโทษที่ถือวิสาสะนะ ไม่รู้ว่าของขวัญชิ้นนี้ จะถูกใจคุณรึเปล่านะ?",
+      "id": "Hari ini adalah hari yang patut dirayakan. Alasannya adalah karena hari ini adalah hari kelahiranmu yang diberkati oleh angin. Karena ini hari istimewa, mari kita beristirahat sejenak.\n\nHehehe ... selamat ulang tahun untukmu ya ....\n\nAh, maafkan aku kalau kamu tidak terlalu suka dengan hadiah ini.",
+      "th": "วันนี้เป็นวันที่ควรค่าแก่การเฉลิมฉลอง ทำไมน่ะเหรอ เพราะเป็นวันที่คุณได้รับพรจากสายลมให้เกิดมายังไงล่ะ ในเมื่อเป็นวันเกิดก็พักสักหน่อยเถอะ\n\n อะแฮ่ม ♪... แฮปปี้เบิร์ดเดย์ทูยู...♪\n\nอ๊ะ ขอโทษที่ถือวิสาสะนะ ไม่รู้ว่าของขวัญชิ้นนี้จะถูกใจคุณรึเปล่านะ?",
       "vi": "Hôm nay là một ngày đáng để chúc mừng. Nếu nói tại sao thì bởi vì hôm này chính là sinh nhật của bạn, người được gió bảo vệ. Đã là ngày sinh nhật, thì phải nghỉ ngơi cho thật tốt.\n\nKhụ khụ... chúc bạn sinh nhật vui vẻ...\n\nÀ, xin thứ lỗi cho sự mạo muội của tôi, không biết bạn có hài lòng về món quà này hay không?"
     }
   },
@@ -1528,7 +1528,7 @@
       "de": "Solange der Wind weht, werden wir auch nicht aufhören zu kämpfen.",
       "es": "Mientras el viento siga soplando, yo continuaré luchando.",
       "fr": "Je continuerai d'avancer tant que le vent continue de souffler.",
-      "pt": "Enquanto o vento continuar soprando, assim também continuarei a lutar.",
+      "pt": "Enquanto o vento continuar soprando assim, também continuarei a lutar.",
       "ru": "Я буду продолжать бороться, пока дует ветер!",
       "id": "Selama angin tidak berhenti, aku pun tidak akan berhenti.",
       "th": "ตราบใดที่สายลมไม่หยุดนิ่ง ฉันก็จะก้าวต่อไป",
@@ -1588,14 +1588,14 @@
       "zht": "#我做得還不夠好。自從與{F#妳}{M#你}相遇，一直承蒙{F#妳}{M#你}的關照。這份感激…\n\n風啊，請容許我的私心。並非作為代理團長，只是作為「琴」，在此起誓——我的劍將與{F#妳}{M#你}同在。",
       "jp": "私はまだまだだ。君と出会ってからずっと君に助けられてきた。この感謝は…\n\n風よ、どうか私情を許してくれ。代理団長ではなく、ただの「ジン」として、私の剣は君と共にあることを、ここに誓おう。",
       "ko": "난 아직 멀었어. 너와 만나고부터 줄곧 보살핌만 받았네….\n\n바람아, 내 마음을 허락해줘.\n\n단장 대행이 아닌 진으로서 이 자리에서 맹세할게. 내 검은 언제나 너와 함께 할 거야",
-      "en": "I am still not good enough. Ever since I met you, I have been indebted to you for your assistance. My gratitude... Wind, please forgive my selfishness. Not as the Acting Grand Master, but as Jean — I hereby swear that my sword shall always go with you.",
+      "en": "I am still not good enough. Ever since I met you, I have been indebted to you for your assistance. My gratitude...\n\nWind, please forgive my selfishness. Not as the Acting Grand Master, but as Jean — I hereby swear that my sword shall always go with you.",
       "de": "Noch bin ich nicht gut genug. Seit ich dich getroffen habe, bin ich sehr dankbar und stehe tief in deiner Schuld.\n\nWind, bitte vergib mir meine Selbstsucht. Nicht als stellvertretender Großmeister, sondern als Jean. Ich schwöre hiermit, dass mein Schwert immer mit dir sein wird.",
       "es": "No soy lo suficientemente buena. Desde que te conocí, estoy en deuda por tu ayuda. Te estoy agradecida...\n\nViento, por favor, perdona mi egoísmo. Juro, no como Gran Maestra Intendente, sino como Jean, que mi espada siempre estará de tu lado.",
       "fr": "Je ne suis pas encore assez puissante. J'ai fait appel à ton aide à de nombreuses reprises depuis que je te connais. Tu as toute ma gratitude, non seulement en tant que Grande Maîtresse suppléante, mais aussi en tant que Jean. Mon épée sera toujours tienne.",
-      "pt": "Eu ainda não sou boa o suficiente. Desde o primeiro encontro, eu tenho dívidas para você. Minha gratidão...\n\nVento, por favor, perdoe meu egoísmo. Não como a Grande Mestre Intendente, mas como a Jean mesmo - eu juro que a minha espada sempre irá com você.",
+      "pt": "Eu ainda não sou boa o suficiente. Desde o primeiro encontro, eu tenho dívidas com você. Minha gratidão...\n\nVento, por favor, perdoe meu egoísmo. Não como a Grande Mestre Intendente, mas como Jean mesmo - eu juro que a minha espada sempre irá com você.",
       "ru": "Я всё ещё недостаточно хороша. С тех пор, как мы встретились, я в долгу перед тобой за твою помощь. Моя благодарность... Ветер, прости мой эгоизм. Не как действующий магистр ордена, а как Джинн, я клянусь, что мой меч всегда будет с тобой.",
-      "id": "Aku rasa apa yang aku lakukan masih belum cukup. Sejak bertemu denganmu, kamu sudah selalu menjagaku. Rasa terima kasih ini...\n\nWahai angin, kabulkanlah tekadku ini. Bukan sebagai Grand Master, tetapi sebagai \"Jean\", aku dengan ini bersumpah bahwa-pedangku akan bersamamu.",
-      "th": "ฉันยังทำได้ไม่ดีพอ ตั้งแต่ฉันพบกับคุณ ฉันก็ได้รับความช่วยเหลือ จากคุณมาโดยตลอด เพื่อเป็นการแสดงความขอบคุณ...\n\nสายลม โปรดอภัยต่อความ เห็นแก่ตัวของฉันด้วย ไม่ใช่ในฐานะรักษาการ ผู้บัญชาการ แต่เป็น Jean - ฉันขอสาบานว่า ดาบของฉันจะอยู่ เคียงข้างคุณเสมอ",
+      "id": "Aku rasa apa yang aku lakukan masih belum cukup. Sejak bertemu denganmu, kamu sudah selalu menjagaku. Rasa terima kasih ini ....\n\nWahai angin, kabulkanlah tekadku ini. Bukan sebagai Grand Master, tetapi sebagai \"Jean\", aku dengan ini bersumpah bahwa-pedangku akan bersamamu.",
+      "th": "ฉันยังทำได้ไม่ดีพอ ตั้งแต่ฉันพบกับคุณ ฉันก็ได้รับความช่วยเหลือจากคุณมาโดยตลอด เพื่อเป็นการแสดงความขอบคุณ...\n\nสายลม โปรดอภัยต่อความเห็นแก่ตัวของฉันด้วย ไม่ใช่ในฐานะรักษาการผู้บัญชาการ แต่ในฐานะ \"Jean\" ฉันขอสาบานว่า... ดาบของฉัน จะอยู่เคียงข้างคุณเสมอ",
       "vi": "Tôi vẫn làm chưa đủ tốt. Kể từ khi gặp bạn vẫn luôn được bạn quan tâm. Lòng cảm kích này... \n\nGió ơi, xin hãy chấp nhận tâm tư của tôi. Không phải là Đội Trưởng Đại Diện mà chỉ là Jean, tại đây xin thề... thanh kiếm của tôi sẽ luôn đồng hành cùng bạn."
     }
   },
@@ -1702,7 +1702,7 @@
       "jp": "元素爆発·1",
       "ko": "원소폭발·첫 번째",
       "en": "Elemental Burst: I",
-      "de": "Spezialfähigkeit – I",
+      "de": "Spezialfähigkeit I",
       "es": "Habilidad Definitiva (I)",
       "fr": "Déchaînement élémentaire (1)",
       "pt": "Supremo - I",
@@ -1734,7 +1734,7 @@
       "jp": "元素爆発·2",
       "ko": "원소폭발·두 번째",
       "en": "Elemental Burst: II",
-      "de": "Spezialfähigkeit – II",
+      "de": "Spezialfähigkeit II",
       "es": "Habilidad Definitiva (II)",
       "fr": "Déchaînement élémentaire (2)",
       "pt": "Supremo - II",
@@ -1755,7 +1755,7 @@
       "pt": "Juro pela minha espada!",
       "ru": "Клянусь своим клинком!",
       "id": "Aku bersumpah atas nama pedang!",
-      "th": "ขอสาบานต่อดาบเล่มนี้",
+      "th": "ขอสาบานด้วยดาบเล่มนี้!",
       "vi": "Lời thề của kiếm!"
     }
   },
@@ -1766,7 +1766,7 @@
       "jp": "元素爆発·3",
       "ko": "원소폭발·세 번째",
       "en": "Elemental Burst: III",
-      "de": "Spezialfähigkeit – III",
+      "de": "Spezialfähigkeit III",
       "es": "Habilidad Definitiva (III)",
       "fr": "Déchaînement élémentaire (3)",
       "pt": "Supremo - III",
@@ -1787,7 +1787,7 @@
       "pt": "Barbatos, nos guie.",
       "ru": "Укажи нам путь, Барбатос!",
       "id": "Barbatos, bimbing kami.",
-      "th": "Barbatos โปรดชี้นำ",
+      "th": "ท่านเทพแห่งลม โปรดชี้นำ",
       "vi": "Phong Thần, hãy dẫn lối cho tôi."
     }
   },
@@ -1914,7 +1914,7 @@
       "fr": "Je... Je vais bien...!",
       "pt": "Estou... Estou bem...",
       "ru": "Я... Ох! Всё хорошо...",
-      "id": "Aku... *hosh, hosh* aku baik-baik saja...",
+      "id": "Aku ... *hosh, hosh* aku baik-baik saja ....",
       "th": "ฉัน... ไม่เป็นอะไร...!",
       "vi": "Ta, không sao...!"
     }
@@ -1946,7 +1946,7 @@
       "fr": "Mes compagnons... ont besoin de moi...",
       "pt": "Meus companheiros... Precisam de mim...",
       "ru": "Мои спутники... нуждаются во мне...",
-      "id": "Rekanku... membutuhkanku...",
+      "id": "Rekanku ... membutuhkanku ....",
       "th": "ยังมีพวกพ้อง... ที่ฉันต้องปกป้อง...",
       "vi": "Vẫn còn đồng đội... cần bảo vệ..."
     }
@@ -1978,9 +1978,73 @@
       "fr": "Je ne peux pas abandonner...",
       "pt": "Não posso desistir...",
       "ru": "Я не могу сдаться...",
-      "id": "Aku tidak boleh menyerah...",
+      "id": "Aku tidak boleh menyerah ....",
       "th": "ยังยอมแพ้ตอนนี้ไม่ได้...",
       "vi": "Vẫn chưa thể từ bỏ..."
+    }
+  },
+  {
+    "title": {
+      "zhs": "同伴生命值低·其一",
+      "zht": "同伴生命值低·其一",
+      "jp": "仲間HP低下·1",
+      "ko": "동료 HP 감소·첫 번째",
+      "en": "Ally at Low HP: I",
+      "de": "Verbündeter hat niedrige LP I",
+      "es": "Aliado con vida baja (I)",
+      "fr": "Compagnon avec PV faibles (1)",
+      "pt": "Aliado com Vida baixa: I",
+      "ru": "Низкий уровень HP компаньона I",
+      "id": "HP Rekan Rendah: I",
+      "th": "ค่าพลังชีวิตของเพื่อนต่ำ - 1",
+      "vi": "HP Đồng Hành Thấp I"
+    },
+    "line": {
+      "zhs": "你受伤了…请暂时退后吧！",
+      "zht": "你受傷了…請暫時退後吧！",
+      "jp": "怪我をしているではないか…一時退却を！",
+      "ko": "…잠시 후퇴하는 게 좋겠어!",
+      "en": "You're injured... get to safety!",
+      "de": "Du bist verletzt ... Geh in Deckung!",
+      "es": "Te han herido... ¡Ve a un lugar seguro!",
+      "fr": "Une blessure... Mets-toi vite en sécurité !",
+      "pt": "#Você está machucad{M#o}{F#a}... Procure abrigo!",
+      "ru": "Серьёзное ранение... Беги в безопасное место!",
+      "id": "Kamu terluka ... cepat, cari tempat aman!",
+      "th": "เธอบาดเจ็บแล้วนะ... ได้โปรดถอยก่อนเถอะ!",
+      "vi": "Bạn bị thương rồi... hãy tạm lui về sau đi!"
+    }
+  },
+  {
+    "title": {
+      "zhs": "同伴生命值低·其二",
+      "zht": "同伴生命值低·其二",
+      "jp": "仲間HP低下·2",
+      "ko": "동료 HP 감소·두 번째",
+      "en": "Ally at Low HP: II",
+      "de": "Verbündeter hat niedrige LP II",
+      "es": "Aliado con vida baja (II)",
+      "fr": "Compagnon avec PV faibles (2)",
+      "pt": "Aliado com Vida baixa: II",
+      "ru": "Низкий уровень HP компаньона II",
+      "id": "HP Rekan Rendah: II",
+      "th": "ค่าพลังชีวิตของเพื่อนต่ำ - 2",
+      "vi": "HP Đồng Hành Thấp II"
+    },
+    "line": {
+      "zhs": "让我来吧。",
+      "zht": "讓我來吧。",
+      "jp": "私に任せろ。",
+      "ko": "나한테 맡겨",
+      "en": "I'll take over.",
+      "de": "Überlasse es mir!",
+      "es": "Yo me encargaré.",
+      "fr": "Je vais prendre le relais.",
+      "pt": "Eu assumirei.",
+      "ru": "Я помогу.",
+      "id": "Biar kuurus.",
+      "th": "ให้ฉันจัดการเองเถอะ",
+      "vi": "Để tôi!"
     }
   },
   {
@@ -2010,7 +2074,7 @@
       "fr": "Mondstadt...",
       "pt": "Mondstadt...",
       "ru": "Мондштадт...",
-      "id": "Mondstadt...",
+      "id": "Mondstadt ....",
       "th": "Mondstadt...",
       "vi": "Mondstadt..."
     }
@@ -2042,7 +2106,7 @@
       "fr": "Il y a une limite à la force individuelle...",
       "pt": "Todos temos nossos limites...",
       "ru": "У каждого свой предел сил...",
-      "id": "Kekuatan setiap orang ada batasnya...",
+      "id": "Kekuatan setiap orang ada batasnya ....",
       "th": "แต่ละคนก็มีขีดจำกัดล่ะนะ...",
       "vi": "Sức mạnh của một người là có giới hạn..."
     }
@@ -2074,7 +2138,7 @@
       "fr": "Je... ne suis pas assez qualifiée...",
       "pt": "Eu falhei...",
       "ru": "Меня постигла неудача...",
-      "id": "Aku gagal...",
+      "id": "Aku gagal ....",
       "th": "ฉัน... ยังไม่แข็งแกร่งพอ...",
       "vi": "Ta...vẫn chưa làm tròn bổn phận..."
     }

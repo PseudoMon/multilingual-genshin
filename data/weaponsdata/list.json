@@ -460,6 +460,26 @@
     }
   },
   {
+    "url": "sword/arakalari",
+    "type": "sword",
+    "rank": 4,
+    "name": {
+      "zhs": "原木刀",
+      "zht": "原木刀",
+      "jp": "原木刀",
+      "ko": "원목 검",
+      "en": "Sapwood Blade",
+      "de": "Stammklinge",
+      "es": "Espada de Madera",
+      "fr": "Lame d'aubier",
+      "pt": "Espada de Madeira",
+      "ru": "Деревянный клинок",
+      "id": "Sapwood Blade",
+      "th": "Sapwood Blade",
+      "vi": "Kiếm Gỗ"
+    }
+  },
+  {
     "url": "sword/youtouenchanted",
     "type": "sword",
     "rank": 4,
@@ -870,7 +890,7 @@
       "de": "Favonius-Großschwert",
       "es": "Gran Espada de Favonius",
       "fr": "Espadon de Favonius",
-      "pt": "Espadão de Favonius",
+      "pt": "Grande Espada de Favonius",
       "ru": "Двуручный меч Фавония",
       "id": "Favonius Greatsword",
       "th": "Favonius Greatsword",
@@ -1135,6 +1155,26 @@
       "id": "Akuoumaru",
       "th": "Akuoumaru",
       "vi": "Akuoumaru"
+    }
+  },
+  {
+    "url": "claymore/arakalari",
+    "type": "claymore",
+    "rank": 4,
+    "name": {
+      "zhs": "森林王器",
+      "zht": "森林王器",
+      "jp": "森林のレガリア",
+      "ko": "숲의 리게일리어",
+      "en": "Forest Regalia",
+      "de": "Waldkönigsschwert",
+      "es": "Espada Real del Bosque",
+      "fr": "Apparat de la forêt",
+      "pt": "Espada Real da Floresta",
+      "ru": "Регалия леса",
+      "id": "Forest Regalia",
+      "th": "Forest Regalia",
+      "vi": "Vương Khí Rừng Sâu"
     }
   },
   {
@@ -1633,6 +1673,26 @@
       "id": "Wavebreaker's Fin",
       "th": "Wavebreaker's Fin",
       "vi": "Vây Cá Chẻ Sóng"
+    }
+  },
+  {
+    "url": "pole/arakalari",
+    "type": "polearm",
+    "rank": 4,
+    "name": {
+      "zhs": "贯月矢",
+      "zht": "貫月矢",
+      "jp": "ムーンピアサー",
+      "ko": "달을 꿰뚫는 화살",
+      "en": "Moonpiercer",
+      "de": "Monddurchbohrer",
+      "es": "Perforalunas",
+      "fr": "Perce-lune",
+      "pt": "Perfurador de Luas",
+      "ru": "Пронзающий луну",
+      "id": "Moonpiercer",
+      "th": "Moonpiercer",
+      "vi": "Quán Nguyệt Thương"
     }
   },
   {
@@ -2215,6 +2275,26 @@
     }
   },
   {
+    "url": "catalyst/arakalari",
+    "type": "catalyst",
+    "rank": 4,
+    "name": {
+      "zhs": "盈满之实",
+      "zht": "盈滿之實",
+      "jp": "満悦の実",
+      "ko": "충만의 열매",
+      "en": "Fruit of Fulfillment",
+      "de": "Vollmondfrucht",
+      "es": "Fruto de la Culminación",
+      "fr": "Le fruit de l'accomplissement",
+      "pt": "Fruto da Abundância",
+      "ru": "Плод восполнения",
+      "id": "Fruit of Fulfillment",
+      "th": "Fruit of Fulfillment",
+      "vi": "Quả Mọng"
+    }
+  },
+  {
     "url": "catalyst/dvalin",
     "type": "catalyst",
     "rank": 5,
@@ -2525,7 +2605,7 @@
       "de": "Favonius-Jagdbogen",
       "es": "Arco de Favonius",
       "fr": "Arc de chasse de Favonius",
-      "pt": "Arco de Guerra de Favonius",
+      "pt": "Arco de Favonius",
       "ru": "Боевой лук Фавония",
       "id": "Favonius Warbow",
       "th": "Favonius Warbow",
@@ -2833,6 +2913,46 @@
     }
   },
   {
+    "url": "bow/arakalari",
+    "type": "bow",
+    "rank": 4,
+    "name": {
+      "zhs": "王下近侍",
+      "zht": "王下近侍",
+      "jp": "王の近侍",
+      "ko": "왕의 측근",
+      "en": "King's Squire",
+      "de": "Gefolgsfrau des Königs",
+      "es": "Vasalla del Rey",
+      "fr": "Le valet du roi",
+      "pt": "Vassalo do Rei",
+      "ru": "Приближённый короля",
+      "id": "King's Squire",
+      "th": "King's Squire",
+      "vi": "Cận Vệ Nhà Vua"
+    }
+  },
+  {
+    "url": "bow/fin",
+    "type": "bow",
+    "rank": 4,
+    "name": {
+      "zhs": "竭泽",
+      "zht": "竭澤",
+      "jp": "竭沢",
+      "ko": "메마른 연못",
+      "en": "End of the Line",
+      "de": "Schwertfischer",
+      "es": "Fin de las Aguas",
+      "fr": "Chalutier",
+      "pt": "Águas Secas",
+      "ru": "Иссушитель",
+      "id": "End of the Line",
+      "th": "End of the Line",
+      "vi": "Sông Cạn"
+    }
+  },
+  {
     "url": "bow/dvalin",
     "type": "bow",
     "rank": 5,
@@ -3007,6 +3127,26 @@
       "id": "Thundering Pulse",
       "th": "Thundering Pulse",
       "vi": "Sấm Sét Rung Động"
+    }
+  },
+  {
+    "url": "bow/ayus",
+    "type": "bow",
+    "rank": 5,
+    "name": {
+      "zhs": "猎人之径",
+      "zht": "獵人之徑",
+      "jp": "狩人の道",
+      "ko": "사냥꾼의 길",
+      "en": "Hunter's Path",
+      "de": "Pfad des Jägers",
+      "es": "Senda de la Cazadora",
+      "fr": "La voie du chasseur",
+      "pt": "Caminho do Caçador",
+      "ru": "Охотничья тропа",
+      "id": "Hunter's Path",
+      "th": "Hunter's Path",
+      "vi": "Con Đường Thợ Săn"
     }
   }
 ]

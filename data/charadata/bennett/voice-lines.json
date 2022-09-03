@@ -139,7 +139,7 @@
       "fr": "Quand il pleut...",
       "pt": "Quando Está Chovendo...",
       "ru": "Когда идёт дождь...",
-      "id": "Waktu Hujan",
+      "id": "Ketika Turun Hujan",
       "th": "ในเวลาที่ฝนตก...",
       "vi": "Khi trời mưa..."
     },
@@ -171,7 +171,7 @@
       "fr": "Quand le tonnerre gronde...",
       "pt": "Quando Está Trovejando...",
       "ru": "Когда гремит гром...",
-      "id": "Waktu Petir Menyambar",
+      "id": "Ketika Petir Menyambar",
       "th": "ในเวลาที่ฟ้าผ่า...",
       "vi": "Khi có sấm sét..."
     },
@@ -203,7 +203,7 @@
       "fr": "Il fait bon dehors...",
       "pt": "Quando Faz Sol...",
       "ru": "Когда светит солнце...",
-      "id": "Waktu Matahari Bersinar",
+      "id": "Ketika Matahari Bersinar",
       "th": "แดดส่องดีจัง...",
       "vi": "Ánh nắng thật chan hòa..."
     },
@@ -235,7 +235,7 @@
       "fr": "Le vent souffle fort...",
       "pt": "A Ventania Está Chegando...",
       "ru": "Когда дует сильный ветер...",
-      "id": "Saat Angin Berembus",
+      "id": "Ketika Angin Berembus",
       "th": "ในเวลาที่ลมพัดแรง...",
       "vi": "Gió lớn quá..."
     },
@@ -619,7 +619,7 @@
       "fr": "Détails intéressants...",
       "pt": "Coisas Interessantes...",
       "ru": "Интересные вещи...",
-      "id": "Rumor yang menarik",
+      "id": "Kisah Menarik",
       "th": "ข้อมูลที่น่าสนใจ...",
       "vi": "Những kiến thức thú vị..."
     },
@@ -665,7 +665,7 @@
       "es": "¡Es la mejor cantante y bailarina que existe! Siempre voy a verla a un concierto cuando una aventura no me salió bien. Cantar junto a otros admiradores suyos y animarla me levanta el ánimo. ¡Es algo realmente mágico! No es de extrañar que sea tan popular... Si fuera la mitad de popular que ella como líder de mi brigada...",
       "fr": "Barbara est la meilleure chanteuse et danseuse que je connaisse ! Je vais souvent à ses concerts après une mission foireuse... Je l'encourage, puis je chante avec les autres fans et ça me remonte vachement le moral ! Elle nous fait vivre des instants magiques, alors je comprends pourquoi on l'aime tant à Mondstadt. Si seulement la Bande à Benny pouvait être aussi appréciée...",
       "pt": "Ela é a melhor cantora e dançarina do mundo! Eu sempre a assisto um concerto quando eu encontro dificuldade em aventura. Isso realmente melhora meu humor, cantando junto com todos os outros fãs, animando-a. É realmente meio mágico! Talvez isso explique porquê ela esteja tão popular... Cara, se eu tivesse metade da popularidade dela como líder da minha equipe de aventura...",
-      "ru": "Она прекрасно поёт и танцует! После неудачного приключения я всегда иду смотреть её выступление. Покричу «браво!» с другими зрителями и настроение становится лучше. Это чудесно! Не удивительно, что она так популярна. Ах, если бы я был хоть в половину таким популярным в качестве командира.",
+      "ru": "Она прекрасно поёт и танцует! После неудачного приключения я всегда иду смотреть её выступление. Покричу «браво!» с другими зрителями и настроение становится лучше. Это чудесно! Неудивительно, что она так популярна. Ах, если бы я был хоть в половину таким популярным в качестве командира.",
       "id": "Dia adalah penyanyi dan penari terbaik yang pernah ada! Aku selalu pergi menontonnya di konser ketika petualanganku tidak berjalan dengan baik, dan aku akan meneriakkan slogan-slogan bersama semua penggemar lainnya untuk menyemangatinya. Ini akan membuat suasana hatiku membaik, sungguh menakjubkan! Tidak heran dia sangat populer... Ah, seandainya saja aku memiliki setengah dari popularitasnya sebagai pemimpin untuk tim petualanganku...",
       "th": "เธอถนัดทั้งร้องทั้งเต้นเลย! ฉันมักจะไปดูคอนเสิร์ตของเธอเวลาที่หัวเสียจากการผจญภัยที่ไม่ค่อย ราบรื่น ได้ตะโกนสโลแกนเชียร์ร่วมกับผู้ชมคนอื่น ๆ ก็ทำให้อารมณ์ดีขึ้นมาเลยล่ะ แปลกจริง ๆ! นี่คงเป็นเหตุผลที่ทำให้เธอป๊อป ล่ะมั้ง...อ่า ถ้าหัวหน้าอย่างฉันป๊อปแบบนี้บ้าง คงจะดีสิ",
       "vi": "Cô ấy ca hát nhảy múa rất giỏi! Mỗi lần mạo hiểm gặp bất lợi, tôi đều đến xem cô ấy biểu diễn, hòa vào dòng người hô to khẩu hiệu cố lên, chẳng mấy chốc tâm tính lại trở lại bình thường, đúng là điều kỳ diệu phải không! Đó cũng chính là lý do cô ấy được yêu thích đến như vậy... Haizz nếu người đội trưởng như tôi được mọi người đón nhận thì thích biết bao."
@@ -1131,7 +1131,7 @@
       "fr": "Plats préférés...",
       "pt": "Comida Favorita...",
       "ru": "Любимая еда...",
-      "id": "Makanan favorit",
+      "id": "Makanan Favorit",
       "th": "อาหารที่ชอบ...",
       "vi": "Món ăn yêu thích..."
     },
@@ -1255,7 +1255,7 @@
       "ko": "선물 획득·세 번째",
       "en": "Receiving a Gift: III",
       "de": "Geschenk erhalten III",
-      "es": "Al recibir un regalo (II)",
+      "es": "Al recibir un regalo (III)",
       "fr": "Cadeau reçu (3)",
       "pt": "Recebendo Presentes — III",
       "ru": "Подарок III",
@@ -1638,7 +1638,7 @@
       "jp": "元素爆発·1",
       "ko": "원소폭발·첫 번째",
       "en": "Elemental Burst: I",
-      "de": "Spezialfähigkeit – I",
+      "de": "Spezialfähigkeit I",
       "es": "Habilidad Definitiva (I)",
       "fr": "Déchaînement élémentaire (1)",
       "pt": "Supremo - I",
@@ -1670,7 +1670,7 @@
       "jp": "元素爆発·2",
       "ko": "원소폭발·두 번째",
       "en": "Elemental Burst: II",
-      "de": "Spezialfähigkeit – II",
+      "de": "Spezialfähigkeit II",
       "es": "Habilidad Definitiva (II)",
       "fr": "Déchaînement élémentaire (2)",
       "pt": "Supremo - II",
@@ -1702,7 +1702,7 @@
       "jp": "元素爆発·3",
       "ko": "원소폭발·세 번째",
       "en": "Elemental Burst: III",
-      "de": "Spezialfähigkeit – III",
+      "de": "Spezialfähigkeit III",
       "es": "Habilidad Definitiva (III)",
       "fr": "Déchaînement élémentaire (3)",
       "pt": "Supremo - III",
@@ -1981,6 +1981,70 @@
       "id": "Aku selalu bangkit kembali, lihat saja.",
       "th": "โจมตีโต้กลับ? เรื่องนี้ฉันถนัดให้ฉันจัดการเอง",
       "vi": "Lội ngược dòng? Tôi quen với việc này, cứ để tôi."
+    }
+  },
+  {
+    "title": {
+      "zhs": "同伴生命值低·其一",
+      "zht": "同伴生命值低·其一",
+      "jp": "仲間HP低下·1",
+      "ko": "동료 HP 감소·첫 번째",
+      "en": "Ally at Low HP: I",
+      "de": "Verbündeter hat niedrige LP I",
+      "es": "Aliado con vida baja (I)",
+      "fr": "Compagnon avec PV faibles (1)",
+      "pt": "Aliado com Vida baixa: I",
+      "ru": "Низкий уровень HP компаньона I",
+      "id": "HP Rekan Rendah: I",
+      "th": "ค่าพลังชีวิตของเพื่อนต่ำ - 1",
+      "vi": "HP Đồng Hành Thấp I"
+    },
+    "line": {
+      "zhs": "别逞强，交给我！",
+      "zht": "別逞強，交給我！",
+      "jp": "強がるな、オレに任せろ。",
+      "ko": "무리하지 말고 나한테 맡겨!",
+      "en": "You're in over your head! Lemme try!",
+      "de": "Spiel nicht den starken Mann. Ich werde mich darum kümmern!",
+      "es": "¡Estás en un buen lío! ¡Déjame a mí!",
+      "fr": "Tu n'en peux plus ! Laisse-moi essayer !",
+      "pt": "#Você está doid{M#o}{F#a}! Deixe-me tentar!",
+      "ru": "У тебя проблемы! Я этим займусь!",
+      "id": "Kamu terlalu memaksa! Biar kucoba!",
+      "th": "อย่าฝืนน่า ปล่อยให้เป็นหน้าที่ของฉันเถอะ!",
+      "vi": "Đừng ỷ mạnh, giao cho tôi!"
+    }
+  },
+  {
+    "title": {
+      "zhs": "同伴生命值低·其二",
+      "zht": "同伴生命值低·其二",
+      "jp": "仲間HP低下·2",
+      "ko": "동료 HP 감소·두 번째",
+      "en": "Ally at Low HP: II",
+      "de": "Verbündeter hat niedrige LP II",
+      "es": "Aliado con vida baja (II)",
+      "fr": "Compagnon avec PV faibles (2)",
+      "pt": "Aliado com Vida baixa: II",
+      "ru": "Низкий уровень HP компаньона II",
+      "id": "HP Rekan Rendah: II",
+      "th": "ค่าพลังชีวิตของเพื่อนต่ำ - 2",
+      "vi": "HP Đồng Hành Thấp II"
+    },
+    "line": {
+      "zhs": "有本事冲我来！",
+      "zht": "有本事衝我來！",
+      "jp": "やるならオレを狙え！",
+      "ko": "내가 상대해주지!",
+      "en": "Hey, pick on someone your own size!",
+      "de": "He, komm her! Mess dich mit dem echten Kämpfer!",
+      "es": "¡Ey, métete con alguien de tu tamaño!",
+      "fr": "Hé, embête quelqu'un de ta taille !",
+      "pt": "Ei, brigue com alguém do seu tamanho!",
+      "ru": "Эй, выбери кого-нибудь своего размера!",
+      "id": "He, kalau cari lawan yang seimbang dong!",
+      "th": "ถ้าเก่งจริงก็เข้ามาหาฉันเซ่!",
+      "vi": "Có bản lĩnh thì nhào vô!"
     }
   },
   {

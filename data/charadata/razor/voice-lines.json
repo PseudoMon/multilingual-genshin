@@ -44,7 +44,7 @@
       "pt": "Bate-papo - Aroma",
       "ru": "Поболтаем: Запах",
       "id": "Berbincang: Aroma",
-      "th": "แชท-กลิ่น",
+      "th": "แชท - กลิ่น",
       "vi": "Nói chuyện phiếm - Mùi vị"
     },
     "line": {
@@ -76,7 +76,7 @@
       "pt": "Bate-papo - Fome",
       "ru": "Поболтаем: Голод",
       "id": "Berbincang: Kelaparan",
-      "th": "แชท-หิว",
+      "th": "แชท - หิว",
       "vi": "Nói chuyện phiếm - Đói"
     },
     "line": {
@@ -108,7 +108,7 @@
       "pt": "Bate-papo - Contemplando o Vento",
       "ru": "Поболтаем: Буревестник",
       "id": "Berbincang: Memandang Angin",
-      "th": "แชท-เฝ้าดู",
+      "th": "แชท - เฝ้าดู",
       "vi": "Nói chuyện phiếm - Trông chừng"
     },
     "line": {
@@ -139,7 +139,7 @@
       "fr": "Quand le tonnerre gronde - Avertissement",
       "pt": "Quando está trovejando - Aviso",
       "ru": "Когда гремит гром: Напоминание",
-      "id": "Ketika petir menyambar: Peringatan",
+      "id": "Ketika Petir Menyambar: Peringatan",
       "th": "ในเวลาที่ฟ้าผ่า-แจ้งเตือน",
       "vi": "Khi có sấm sét - Nhắc nhở"
     },
@@ -171,7 +171,7 @@
       "fr": "Quand le tonnerre gronde - Guide",
       "pt": "Quando está trovejando - Guia",
       "ru": "Когда гремит гром: Провожать",
-      "id": "Ketika petir menyambar: Panduan",
+      "id": "Ketika Petir Menyambar: Panduan",
       "th": "ในเวลาที่ฟ้าผ่า-นำทาง",
       "vi": "Khi có sấm sét - Dẫn đường"
     },
@@ -235,7 +235,7 @@
       "fr": "Le vent souffle fort...",
       "pt": "A Ventania Está Chegando...",
       "ru": "Когда дует сильный ветер...",
-      "id": "Saat Angin Berembus",
+      "id": "Ketika Angin Berembus",
       "th": "ในเวลาที่ลมพัดแรง...",
       "vi": "Gió lớn quá..."
     },
@@ -555,7 +555,7 @@
       "fr": "Détails intéressants...",
       "pt": "Coisas Interessantes...",
       "ru": "Интересные вещи...",
-      "id": "Rumor yang menarik",
+      "id": "Kisah Menarik",
       "th": "ข้อมูลที่น่าสนใจ...",
       "vi": "Những kiến thức thú vị..."
     },
@@ -1067,7 +1067,7 @@
       "fr": "Plats préférés...",
       "pt": "Comida Favorita...",
       "ru": "Любимая еда...",
-      "id": "Makanan favorit",
+      "id": "Makanan Favorit",
       "th": "อาหารที่ชอบ...",
       "vi": "Món ăn yêu thích..."
     },
@@ -1191,7 +1191,7 @@
       "ko": "선물 획득·세 번째",
       "en": "Receiving a Gift: III",
       "de": "Geschenk erhalten III",
-      "es": "Al recibir un regalo (II)",
+      "es": "Al recibir un regalo (III)",
       "fr": "Cadeau reçu (3)",
       "pt": "Recebendo Presentes — III",
       "ru": "Подарок III",
@@ -1510,7 +1510,7 @@
       "jp": "元素爆発·1",
       "ko": "원소폭발·첫 번째",
       "en": "Elemental Burst: I",
-      "de": "Spezialfähigkeit – I",
+      "de": "Spezialfähigkeit I",
       "es": "Habilidad Definitiva (I)",
       "fr": "Déchaînement élémentaire (1)",
       "pt": "Supremo - I",
@@ -1542,7 +1542,7 @@
       "jp": "元素爆発·2",
       "ko": "원소폭발·두 번째",
       "en": "Elemental Burst: II",
-      "de": "Spezialfähigkeit – II",
+      "de": "Spezialfähigkeit II",
       "es": "Habilidad Definitiva (II)",
       "fr": "Déchaînement élémentaire (2)",
       "pt": "Supremo - II",
@@ -1574,7 +1574,7 @@
       "jp": "元素爆発·3",
       "ko": "원소폭발·세 번째",
       "en": "Elemental Burst: III",
-      "de": "Spezialfähigkeit – III",
+      "de": "Spezialfähigkeit III",
       "es": "Habilidad Definitiva (III)",
       "fr": "Déchaînement élémentaire (3)",
       "pt": "Supremo - III",
@@ -1606,7 +1606,7 @@
       "jp": "元素爆発·4",
       "ko": "원소폭발·네 번째",
       "en": "Elemental Burst: IV",
-      "de": "Spezialfähigkeit – IV",
+      "de": "Spezialfähigkeit IV",
       "es": "Habilidad Definitiva (IV)",
       "fr": "Déchaînement élémentaire (4)",
       "pt": "Supremo - IV",
@@ -1821,6 +1821,70 @@
       "id": "Kubunuh kamu!",
       "th": "ฉันจะฆ่าแก!...",
       "vi": "Phải giết ngươi!"
+    }
+  },
+  {
+    "title": {
+      "zhs": "同伴生命值低·其一",
+      "zht": "同伴生命值低·其一",
+      "jp": "仲間HP低下·1",
+      "ko": "동료 HP 감소·첫 번째",
+      "en": "Ally at Low HP: I",
+      "de": "Verbündeter hat niedrige LP I",
+      "es": "Aliado con vida baja (I)",
+      "fr": "Compagnon avec PV faibles (1)",
+      "pt": "Aliado com Vida baixa: I",
+      "ru": "Низкий уровень HP компаньона I",
+      "id": "HP Rekan Rendah: I",
+      "th": "ค่าพลังชีวิตของเพื่อนต่ำ - 1",
+      "vi": "HP Đồng Hành Thấp I"
+    },
+    "line": {
+      "zhs": "不行。",
+      "zht": "不行。",
+      "jp": "ダメだ。",
+      "ko": "안 돼",
+      "en": "No!",
+      "de": "Das geht nicht.",
+      "es": "¡No!",
+      "fr": "Non !",
+      "pt": "Não!",
+      "ru": "Нет!",
+      "id": "Tidak!",
+      "th": "ไม่ได้นะ",
+      "vi": "Không được."
+    }
+  },
+  {
+    "title": {
+      "zhs": "同伴生命值低·其二",
+      "zht": "同伴生命值低·其二",
+      "jp": "仲間HP低下·2",
+      "ko": "동료 HP 감소·두 번째",
+      "en": "Ally at Low HP: II",
+      "de": "Verbündeter hat niedrige LP II",
+      "es": "Aliado con vida baja (II)",
+      "fr": "Compagnon avec PV faibles (2)",
+      "pt": "Aliado com Vida baixa: II",
+      "ru": "Низкий уровень HP компаньона II",
+      "id": "HP Rekan Rendah: II",
+      "th": "ค่าพลังชีวิตของเพื่อนต่ำ - 2",
+      "vi": "HP Đồng Hành Thấp II"
+    },
+    "line": {
+      "zhs": "活下来！",
+      "zht": "活下來！",
+      "jp": "生きろ！",
+      "ko": "살아남아!",
+      "en": "Wake up!",
+      "de": "Wach auf!",
+      "es": "¡Tú, despertar!",
+      "fr": "Debout !",
+      "pt": "Acorde!",
+      "ru": "Очнись!",
+      "id": "Bangun!",
+      "th": "ต้องรอดนะ!",
+      "vi": "Sống lại!"
     }
   },
   {

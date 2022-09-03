@@ -65,19 +65,19 @@
         "vi": "Nhiệt Thải"
       },
       "description": {
-        "zhs": "触发超载、融化、点燃、蒸发或火元素扩散反应后的12秒内，攻击力提高<color=#99FFFFFF>20%</color>。",
-        "zht": "觸發超載、融化、點燃、蒸發或火元素擴散反應後的12秒內，攻擊力提高<color=#99FFFFFF>20%</color>。",
-        "jp": "過負荷、溶解、燃焼、蒸発、または炎元素拡散反応を起こした後12秒間、攻撃力+<color=#99FFFFFF>20%</color>。",
-        "ko": "과부하, 융해, 연소, 증발, 불 원소 확산 반응 후 12초 동안 공격력이 <color=#99FFFFFF>20%</color> 증가한다",
-        "en": "Upon causing an Overloaded, Melt, Burning, Vaporize, or a Pyro-infused Swirl reaction, ATK is increased by <color=#99FFFFFF>20%</color> for 12s.",
-        "de": "Erhöht den ANG nach Auslösen der Reaktionen „Überladen“, „Schmelzen“, „Entflammt“, „Verdampfen“ und „Pyro-Verwirbelung“ 12 s lang um <color=#99FFFFFF>20 %</color>.",
-        "es": "Tras causar una reacción de Sobrecarga, Derretido, Quemadura, Vaporización o Torbellino Pyro, el ATQ aumenta en un <color=#99FFFFFF>20%</color> durante 12 s.",
-        "fr": "Augmente l'ATQ de <color=#99FFFFFF>20 %</color> pendant 12 s après avoir déclenché Surcharge, Fonte, Brûlure, Évaporation ou Dispersion Pyro.",
-        "pt": "Depois de 12s após a ativação da reação de Sobrecarga, Fusão, Queimaduras, Vaporização ou Redemoinho Pyro, aumenta o ATQ em <color=#99FFFFFF>20%</color>.",
-        "ru": "Увеличивает силу атаки на <color=#99FFFFFF>20%</color> в течение 12 сек при нанесении статусов Перегрузка, Таяние, Горение, Пар или Пиро рассеивание.",
-        "id": "Saat Overloaded, Melt, Burning, Vaporize, atau reaksi Swirl yang terpengaruh Pyro terpicu, meningkatkan <color=#99FFFFFF>20%</color> ATK selama 12 detik.",
-        "th": "พลังโจมตีจะเพิ่มขึ้น <color=#99FFFFFF>20%</color> ภายในระยะเวลา 12 วินาที หลังการเกิดปฏิกิริยาโอเวอร์โหลด, การละลาย, การลุกไหม้, การระเหยหรือการกระจายของธาตุไฟ",
-        "vi": "Sau khi kích hoạt phản ứng quá tải, tan chảy, đốt cháy, bốc hơi hoặc khuếch tán Nguyên Tố Hỏa, trong 12s tăng tấn công <color=#99FFFFFF>20%</color>."
+        "zhs": "触发超载、融化、燃烧、蒸发、烈绽放或火元素扩散反应后的12秒内，攻击力提高<color=#99FFFFFF>20%</color>。",
+        "zht": "觸發超載、融化、燃燒、蒸發、烈綻放或火元素擴散反應後的12秒內，攻擊力提高<color=#99FFFFFF>20%</color>。",
+        "jp": "過負荷、溶解、燃焼、蒸発、烈開花、または炎元素拡散反応を起こしてから12秒間、攻撃力+<color=#99FFFFFF>20%</color>。",
+        "ko": "과부하, 융해, 연소, 증발, 발화 혹은 불 원소 확산 반응 발동 후 12초 동안 공격력이 <color=#99FFFFFF>20%</color> 증가한다",
+        "en": "Upon causing an Overloaded, Melt, Burning, Vaporize, Burgeon, or a Pyro-infused Swirl reaction, ATK is increased by <color=#99FFFFFF>20%</color> for 12s.",
+        "de": "Erhöht den ANG nach Auslösen der Reaktionen „Überladen“, „Schmelzen“, „In Flammen“, „Verdampfen“, „Flammenspross“ und „Pyro-Verwirbelung“ 12 s lang um <color=#99FFFFFF>20 %</color>.",
+        "es": "Tras causar una reacción de Sobrecarga, Derretido, Quemadura, Vaporización, Crepitar o Torbellino Pyro, el ATQ aumenta en un <color=#99FFFFFF>20%</color> durante 12 s.",
+        "fr": "Augmente l'ATQ de <color=#99FFFFFF>20 %</color> pendant 12 s après avoir déclenché Surcharge, Fonte, Brûlure, Évaporation, Bourgeonnement ou Dispersion Pyro.",
+        "pt": "Após causar uma reação elemental de Sobrecarga, Fusão, Queimaduras, Vaporização, Germinação ou Redemoinho de Pyro, o ATQ é aumentado em <color=#99FFFFFF>20%</color> por 12s.",
+        "ru": "Увеличивает силу атаки на <color=#99FFFFFF>20%</color> на 12 сек. при активации реакций Перегрузка, Таяние, Горение, Пар, Цветение или Пиро Рассеивание.",
+        "id": "Saat memicu Overloaded, Melt, Burning, Vaporize, Burgeon, atau reaksi Swirl dengan elemen Pyro, meningkatkan <color=#99FFFFFF>20%</color> ATK selama 12 detik.",
+        "th": "การทำให้เกิดปฏิกิริยาโอเวอร์โหลด, ละลาย, ติดไฟ, ระเหย, เบ่งบาน หรือกระจายธาตุไฟ จะเพิ่มพลังโจมตีขึ้น <color=#99FFFFFF>20%</color> เป็นเวลา 12 วินาที",
+        "vi": "Trong 12s sau khi kích hoạt hiệu ứng Quá Tải, Tan Chảy, Thiêu Đốt, Bốc Hơi, Bung Tỏa hoặc Khuếch Tán nguyên tố Hỏa, tấn công tăng <color=#99FFFFFF>20%</color>."
       }
     },
     {
@@ -97,19 +97,19 @@
         "vi": "Nhiệt Thải"
       },
       "description": {
-        "zhs": "触发超载、融化、点燃、蒸发或火元素扩散反应后的12秒内，攻击力提高<color=#99FFFFFF>25%</color>。",
-        "zht": "觸發超載、融化、點燃、蒸發或火元素擴散反應後的12秒內，攻擊力提高<color=#99FFFFFF>25%</color>。",
-        "jp": "過負荷、溶解、燃焼、蒸発、または炎元素拡散反応を起こした後12秒間、攻撃力+<color=#99FFFFFF>25%</color>。",
-        "ko": "과부하, 융해, 연소, 증발, 불 원소 확산 반응 후 12초 동안 공격력이 <color=#99FFFFFF>25%</color> 증가한다",
-        "en": "Upon causing an Overloaded, Melt, Burning, Vaporize, or a Pyro-infused Swirl reaction, ATK is increased by <color=#99FFFFFF>25%</color> for 12s.",
-        "de": "Erhöht den ANG nach Auslösen der Reaktionen „Überladen“, „Schmelzen“, „Entflammt“, „Verdampfen“ und „Pyro-Verwirbelung“ 12 s lang um <color=#99FFFFFF>25 %</color>.",
-        "es": "Tras causar una reacción de Sobrecarga, Derretido, Quemadura, Vaporización o Torbellino Pyro, el ATQ aumenta en un <color=#99FFFFFF>25%</color> durante 12 s.",
-        "fr": "Augmente l'ATQ de <color=#99FFFFFF>25 %</color> pendant 12 s après avoir déclenché Surcharge, Fonte, Brûlure, Évaporation ou Dispersion Pyro",
-        "pt": "Depois de 12s após a ativação da reação de Sobrecarga, Fusão, Queimaduras, Vaporização ou Redemoinho Pyro, aumenta o ATQ em <color=#99FFFFFF>25%</color>.",
-        "ru": "Увеличивает силу атаки на <color=#99FFFFFF>25%</color> в течение 12 сек при нанесении статусов Перегрузка, Таяние, Горение, Пар или Пиро рассеивание.",
-        "id": "Saat Overloaded, Melt, Burning, Vaporize, atau reaksi Swirl yang terpengaruh Pyro terpicu, meningkatkan <color=#99FFFFFF>25%</color> ATK selama 12 detik.",
-        "th": "พลังโจมตีจะเพิ่มขึ้น <color=#99FFFFFF>25%</color> ภายในระยะเวลา 12 วินาที หลังการเกิดปฏิกิริยาโอเวอร์โหลด, การละลาย, การลุกไหม้, การระเหยหรือการกระจายของธาตุไฟ",
-        "vi": "Sau khi kích hoạt phản ứng quá tải, tan chảy, đốt cháy, bốc hơi hoặc khuếch tán Nguyên Tố Hỏa, trong 12s tăng tấn công <color=#99FFFFFF>25%</color>."
+        "zhs": "触发超载、融化、燃烧、蒸发、烈绽放或火元素扩散反应后的12秒内，攻击力提高<color=#99FFFFFF>25%</color>。",
+        "zht": "觸發超載、融化、燃燒、蒸發、烈綻放或火元素擴散反應後的12秒內，攻擊力提高<color=#99FFFFFF>25%</color>。",
+        "jp": "過負荷、溶解、燃焼、蒸発、烈開花、または炎元素拡散反応を起こした後12秒間、攻撃力+<color=#99FFFFFF>25%</color>。",
+        "ko": "과부하, 융해, 연소, 증발, 발화 혹은 불 원소 확산 반응 발동 후 12초 동안 공격력이 <color=#99FFFFFF>25%</color> 증가한다",
+        "en": "Upon causing an Overloaded, Melt, Burning, Vaporize, Burgeon, or a Pyro-infused Swirl reaction, ATK is increased by <color=#99FFFFFF>25%</color> for 12s.",
+        "de": "Erhöht den ANG nach Auslösen der Reaktionen „Überladen“, „Schmelzen“, „In Flammen“, „Verdampfen“, „Flammenspross“ und „Pyro-Verwirbelung“ 12 s lang um <color=#99FFFFFF>25 %</color>.",
+        "es": "Tras causar una reacción de Sobrecarga, Derretido, Quemadura, Vaporización, Crepitar o Torbellino Pyro, el ATQ aumenta en un <color=#99FFFFFF>25%</color> durante 12 s.",
+        "fr": "Augmente l'ATQ de <color=#99FFFFFF>25 %</color> pendant 12 s après avoir déclenché Surcharge, Fonte, Brûlure, Évaporation, Bourgeonnement ou Dispersion Pyro.",
+        "pt": "Após causar uma reação elemental de Sobrecarga, Fusão, Queimaduras, Vaporização, Germinação ou Redemoinho de Pyro, o ATQ é aumentado em <color=#99FFFFFF>25%</color> por 12s.",
+        "ru": "Увеличивает силу атаки на <color=#99FFFFFF>25%</color> на 12 сек. при активации реакций Перегрузка, Таяние, Горение, Пар, Цветение или Пиро Рассеивание.",
+        "id": "Saat memicu Overloaded, Melt, Burning, Vaporize, Burgeon, atau reaksi Swirl dengan elemen Pyro, meningkatkan <color=#99FFFFFF>25%</color> ATK selama 12 detik.",
+        "th": "การทำให้เกิดปฏิกิริยาโอเวอร์โหลด, ละลาย, ติดไฟ, ระเหย, เบ่งบาน หรือกระจายธาตุไฟ จะเพิ่มพลังโจมตีขึ้น <color=#99FFFFFF>25%</color> เป็นเวลา 12 วินาที",
+        "vi": "Trong 12s sau khi kích hoạt hiệu ứng Quá Tải, Tan Chảy, Thiêu Đốt, Bốc Hơi, Bung Tỏa hoặc Khuếch Tán nguyên tố Hỏa, tấn công tăng <color=#99FFFFFF>25%</color>."
       }
     },
     {
@@ -129,19 +129,19 @@
         "vi": "Nhiệt Thải"
       },
       "description": {
-        "zhs": "触发超载、融化、点燃、蒸发或火元素扩散反应后的12秒内，攻击力提高<color=#99FFFFFF>30%</color>。",
-        "zht": "觸發超載、融化、點燃、蒸發或火元素擴散反應後的12秒內，攻擊力提高<color=#99FFFFFF>30%</color>。",
-        "jp": "過負荷、溶解、燃焼、蒸発、または炎元素拡散反応を起こした後12秒間、攻撃力+<color=#99FFFFFF>30%</color>。",
-        "ko": "과부하, 융해, 연소, 증발, 불 원소 확산 반응 후 12초 동안 공격력이 <color=#99FFFFFF>30%</color> 증가한다",
-        "en": "Upon causing an Overloaded, Melt, Burning, Vaporize, or a Pyro-infused Swirl reaction, ATK is increased by <color=#99FFFFFF>30%</color> for 12s.",
-        "de": "Erhöht den ANG nach Auslösen der Reaktionen „Überladen“, „Schmelzen“, „Entflammt“, „Verdampfen“ und „Pyro-Verwirbelung“ 12 s lang um <color=#99FFFFFF>30 %</color>.",
-        "es": "Tras causar una reacción de Sobrecarga, Derretido, Quemadura, Vaporización o Torbellino Pyro, el ATQ aumenta en un <color=#99FFFFFF>30%</color> durante 12 s.",
-        "fr": "Augmente l'ATQ de <color=#99FFFFFF>30 %</color> pendant 12 s après avoir déclenché Surcharge, Fonte, Brûlure, Évaporation ou Dispersion Pyro.",
-        "pt": "Depois de 12s após a ativação da reação de Sobrecarga, Fusão, Queimaduras, Vaporização ou Redemoinho Pyro, aumenta o ATQ em <color=#99FFFFFF>30%</color>.",
-        "ru": "Увеличивает силу атаки на <color=#99FFFFFF>30%</color> в течение 12 сек при нанесении статусов Перегрузка, Таяние, Горение, Пар или Пиро рассеивание.",
-        "id": "Saat Overloaded, Melt, Burning, Vaporize, atau reaksi Swirl yang terpengaruh Pyro terpicu, meningkatkan <color=#99FFFFFF>30%</color> ATK selama 12 detik.",
-        "th": "พลังโจมตีจะเพิ่มขึ้น <color=#99FFFFFF>30%</color> ภายในระยะเวลา 12 วินาที หลังการเกิดปฏิกิริยาโอเวอร์โหลด, การละลาย, การลุกไหม้, การระเหยหรือการกระจายของธาตุไฟ",
-        "vi": "Sau khi kích hoạt phản ứng quá tải, tan chảy, đốt cháy, bốc hơi hoặc khuếch tán Nguyên Tố Hỏa, trong 12s tăng tấn công <color=#99FFFFFF>30%</color>."
+        "zhs": "触发超载、融化、燃烧、蒸发、烈绽放或火元素扩散反应后的12秒内，攻击力提高<color=#99FFFFFF>30%</color>。",
+        "zht": "觸發超載、融化、燃燒、蒸發、烈綻放或火元素擴散反應後的12秒內，攻擊力提高<color=#99FFFFFF>30%</color>。",
+        "jp": "過負荷、溶解、燃焼、蒸発、烈開花、または炎元素拡散反応を起こした後12秒間、攻撃力+<color=#99FFFFFF>30%</color>。",
+        "ko": "과부하, 융해, 연소, 증발, 발화 혹은 불 원소 확산 반응 발동 후 12초 동안 공격력이 <color=#99FFFFFF>30%</color> 증가한다",
+        "en": "Upon causing an Overloaded, Melt, Burning, Vaporize, Burgeon, or a Pyro-infused Swirl reaction, ATK is increased by <color=#99FFFFFF>30%</color> for 12s.",
+        "de": "Erhöht den ANG nach Auslösen der Reaktionen „Überladen“, „Schmelzen“, „In Flammen“, „Verdampfen“, „Flammenspross“ und „Pyro-Verwirbelung“ 12 s lang um <color=#99FFFFFF>30 %</color>.",
+        "es": "Tras causar una reacción de Sobrecarga, Derretido, Quemadura, Vaporización, Crepitar o Torbellino Pyro, el ATQ aumenta en un <color=#99FFFFFF>30%</color> durante 12 s.",
+        "fr": "Augmente l'ATQ de <color=#99FFFFFF>30 %</color> pendant 12 s après avoir déclenché Surcharge, Fonte, Brûlure, Évaporation, Bourgeonnement ou Dispersion Pyro.",
+        "pt": "Após causar uma reação elemental de Sobrecarga, Fusão, Queimaduras, Vaporização, Germinação ou Redemoinho de Pyro, o ATQ é aumentado em <color=#99FFFFFF>30%</color> por 12s.",
+        "ru": "Увеличивает силу атаки на <color=#99FFFFFF>30%</color> на 12 сек. при активации реакций Перегрузка, Таяние, Горение, Пар, Цветение или Пиро Рассеивание.",
+        "id": "Saat memicu Overloaded, Melt, Burning, Vaporize, Burgeon, atau reaksi Swirl dengan elemen Pyro, meningkatkan <color=#99FFFFFF>30%</color> ATK selama 12 detik.",
+        "th": "การทำให้เกิดปฏิกิริยาโอเวอร์โหลด, ละลาย, ติดไฟ, ระเหย, เบ่งบาน หรือกระจายธาตุไฟ จะเพิ่มพลังโจมตีขึ้น <color=#99FFFFFF>30%</color> เป็นเวลา 12 วินาที",
+        "vi": "Trong 12s sau khi kích hoạt hiệu ứng Quá Tải, Tan Chảy, Thiêu Đốt, Bốc Hơi, Bung Tỏa hoặc Khuếch Tán nguyên tố Hỏa, tấn công tăng <color=#99FFFFFF>30%</color>."
       }
     },
     {
@@ -161,19 +161,19 @@
         "vi": "Nhiệt Thải"
       },
       "description": {
-        "zhs": "触发超载、融化、点燃、蒸发或火元素扩散反应后的12秒内，攻击力提高<color=#99FFFFFF>35%</color>。",
-        "zht": "觸發超載、融化、點燃、蒸發或火元素擴散反應後的12秒內，攻擊力提高<color=#99FFFFFF>35%</color>。",
-        "jp": "過負荷、溶解、燃焼、蒸発、または炎元素拡散反応を起こした後12秒間、攻撃力+<color=#99FFFFFF>35%</color>。",
-        "ko": "과부하, 융해, 연소, 증발, 불 원소 확산 반응 후 12초 동안 공격력이 <color=#99FFFFFF>35%</color> 증가한다",
-        "en": "Upon causing an Overloaded, Melt, Burning, Vaporize, or a Pyro-infused Swirl reaction, ATK is increased by <color=#99FFFFFF>35%</color> for 12s.",
-        "de": "Erhöht den ANG nach Auslösen der Reaktionen „Überladen“, „Schmelzen“, „Entflammt“, „Verdampfen“ und „Pyro-Verwirbelung“ 12 s lang um <color=#99FFFFFF>35 %</color>.",
-        "es": "Tras causar una reacción de Sobrecarga, Derretido, Quemadura, Vaporización o Torbellino Pyro, el ATQ aumenta en un <color=#99FFFFFF>35%</color> durante 12 s.",
-        "fr": "Augmente l'ATQ de <color=#99FFFFFF>35 %</color> pendant 12 s après avoir déclenché Surcharge, Fonte, Brûlure, Évaporation ou Dispersion Pyro.",
-        "pt": "Depois de 12s após a ativação da reação de Sobrecarga, Fusão, Queimaduras, Vaporização ou Redemoinho Pyro, aumenta o ATQ em <color=#99FFFFFF>35%</color>.",
-        "ru": "Увеличивает силу атаки на <color=#99FFFFFF>35%</color> в течение 12 сек при нанесении статусов Перегрузка, Таяние, Горение, Пар или Пиро рассеивание.",
-        "id": "Saat Overloaded, Melt, Burning, Vaporize, atau reaksi Swirl yang terpengaruh Pyro terpicu, meningkatkan <color=#99FFFFFF>35%</color> ATK selama 12 detik.",
-        "th": "พลังโจมตีจะเพิ่มขึ้น <color=#99FFFFFF>35%</color> ภายในระยะเวลา 12 วินาที หลังการเกิดปฏิกิริยาโอเวอร์โหลด, การละลาย, การลุกไหม้, การระเหยหรือการกระจายของธาตุไฟ",
-        "vi": "Sau khi kích hoạt phản ứng quá tải, tan chảy, đốt cháy, bốc hơi hoặc khuếch tán Nguyên Tố Hỏa, trong 12s tăng tấn công <color=#99FFFFFF>35%</color>."
+        "zhs": "触发超载、融化、燃烧、蒸发、烈绽放或火元素扩散反应后的12秒内，攻击力提高<color=#99FFFFFF>35%</color>。",
+        "zht": "觸發超載、融化、燃燒、蒸發、烈綻放或火元素擴散反應後的12秒內，攻擊力提高<color=#99FFFFFF>35%</color>。",
+        "jp": "過負荷、溶解、燃焼、蒸発、烈開花、または炎元素拡散反応を起こした後12秒間、攻撃力+<color=#99FFFFFF>35%</color>。",
+        "ko": "과부하, 융해, 연소, 증발, 발화 혹은 불 원소 확산 반응 발동 후 12초 동안 공격력이 <color=#99FFFFFF>35%</color> 증가한다",
+        "en": "Upon causing an Overloaded, Melt, Burning, Vaporize, Burgeon, or a Pyro-infused Swirl reaction, ATK is increased by <color=#99FFFFFF>35%</color> for 12s.",
+        "de": "Erhöht den ANG nach Auslösen der Reaktionen „Überladen“, „Schmelzen“, „In Flammen“, „Verdampfen“, „Flammenspross“ und „Pyro-Verwirbelung“ 12 s lang um <color=#99FFFFFF>35 %</color>.",
+        "es": "Tras causar una reacción de Sobrecarga, Derretido, Quemadura, Vaporización, Crepitar o Torbellino Pyro, el ATQ aumenta en un <color=#99FFFFFF>35%</color> durante 12 s.",
+        "fr": "Augmente l'ATQ de <color=#99FFFFFF>35 %</color> pendant 12 s après avoir déclenché Surcharge, Fonte, Brûlure, Évaporation, Bourgeonnement ou Dispersion Pyro.",
+        "pt": "Após causar uma reação elemental de Sobrecarga, Fusão, Queimaduras, Vaporização, Germinação ou Redemoinho de Pyro, o ATQ é aumentado em <color=#99FFFFFF>35%</color> por 12s.",
+        "ru": "Увеличивает силу атаки на <color=#99FFFFFF>35%</color> на 12 сек. при активации реакций Перегрузка, Таяние, Горение, Пар, Цветение или Пиро Рассеивание.",
+        "id": "Saat memicu Overloaded, Melt, Burning, Vaporize, Burgeon, atau reaksi Swirl dengan elemen Pyro, meningkatkan <color=#99FFFFFF>35%</color> ATK selama 12 detik.",
+        "th": "การทำให้เกิดปฏิกิริยาโอเวอร์โหลด, ละลาย, ติดไฟ, ระเหย, เบ่งบาน หรือกระจายธาตุไฟ จะเพิ่มพลังโจมตีขึ้น <color=#99FFFFFF>35%</color> เป็นเวลา 12 วินาที",
+        "vi": "Trong 12s sau khi kích hoạt hiệu ứng Quá Tải, Tan Chảy, Thiêu Đốt, Bốc Hơi, Bung Tỏa hoặc Khuếch Tán nguyên tố Hỏa, tấn công tăng <color=#99FFFFFF>35%</color>."
       }
     },
     {
@@ -193,19 +193,19 @@
         "vi": "Nhiệt Thải"
       },
       "description": {
-        "zhs": "触发超载、融化、点燃、蒸发或火元素扩散反应后的12秒内，攻击力提高<color=#99FFFFFF>40%</color>。",
-        "zht": "觸發超載、融化、點燃、蒸發或火元素擴散反應後的12秒內，攻擊力提高<color=#99FFFFFF>40%</color>。",
-        "jp": "過負荷、溶解、燃焼、蒸発、または炎元素拡散反応を起こした後12秒間、攻撃力+<color=#99FFFFFF>40%</color>。",
-        "ko": "과부하, 융해, 연소, 증발, 불 원소 확산 반응 후 12초 동안 공격력이 <color=#99FFFFFF>40%</color> 증가한다",
-        "en": "Upon causing an Overloaded, Melt, Burning, Vaporize, or a Pyro-infused Swirl reaction, ATK is increased by <color=#99FFFFFF>40%</color> for 12s.",
-        "de": "Erhöht den ANG nach Auslösen der Reaktionen „Überladen“, „Schmelzen“, „Entflammt“, „Verdampfen“ und „Pyro-Verwirbelung“ 12 s lang um <color=#99FFFFFF>40 %</color>.",
-        "es": "Tras causar una reacción de Sobrecarga, Derretido, Quemadura, Vaporización o Torbellino Pyro, el ATQ aumenta en un <color=#99FFFFFF>40%</color> durante 12 s.",
-        "fr": "Augmente l'ATQ de <color=#99FFFFFF>40 %</color> pendant 12 s après avoir déclenché Surcharge, Fonte, Brûlure, Évaporation ou Dispersion Pyro.",
-        "pt": "Depois de 12s após a ativação da reação de Sobrecarga, Fusão, Queimaduras, Vaporização ou Redemoinho Pyro, aumenta o ATQ em <color=#99FFFFFF>40%</color>.",
-        "ru": "Увеличивает силу атаки на <color=#99FFFFFF>40%</color> в течение 12 сек при нанесении статусов Перегрузка, Таяние, Горение, Пар или Пиро рассеивание.",
-        "id": "Saat Overloaded, Melt, Burning, Vaporize, atau reaksi Swirl yang terpengaruh Pyro terpicu, meningkatkan <color=#99FFFFFF>40%</color> ATK selama 12 detik.",
-        "th": "พลังโจมตีจะเพิ่มขึ้น <color=#99FFFFFF>40%</color> ภายในระยะเวลา 12 วินาที หลังการเกิดปฏิกิริยาโอเวอร์โหลด, การละลาย, การลุกไหม้, การระเหยหรือการกระจายของธาตุไฟ",
-        "vi": "Sau khi kích hoạt phản ứng quá tải, tan chảy, đốt cháy, bốc hơi hoặc khuếch tán Nguyên Tố Hỏa, trong 12s tăng tấn công <color=#99FFFFFF>40%</color>."
+        "zhs": "触发超载、融化、燃烧、蒸发、烈绽放或火元素扩散反应后的12秒内，攻击力提高<color=#99FFFFFF>40%</color>。",
+        "zht": "觸發超載、融化、燃燒、蒸發、烈綻放或火元素擴散反應後的12秒內，攻擊力提高<color=#99FFFFFF>40%</color>。",
+        "jp": "過負荷、溶解、燃焼、蒸発、烈開花、または炎元素拡散反応を起こした後12秒間、攻撃力+<color=#99FFFFFF>40%</color>。",
+        "ko": "과부하, 융해, 연소, 증발, 발화 혹은 불 원소 확산 반응 발동 후 12초 동안 공격력이 <color=#99FFFFFF>40%</color> 증가한다",
+        "en": "Upon causing an Overloaded, Melt, Burning, Vaporize, Burgeon, or a Pyro-infused Swirl reaction, ATK is increased by <color=#99FFFFFF>40%</color> for 12s.",
+        "de": "Erhöht den ANG nach Auslösen der Reaktionen „Überladen“, „Schmelzen“, „In Flammen“, „Verdampfen“, „Flammenspross“ und „Pyro-Verwirbelung“ 12 s lang um <color=#99FFFFFF>40 %</color>.",
+        "es": "Tras causar una reacción de Sobrecarga, Derretido, Quemadura, Vaporización, Crepitar o Torbellino Pyro, el ATQ aumenta en un <color=#99FFFFFF>40%</color> durante 12 s.",
+        "fr": "Augmente l'ATQ de <color=#99FFFFFF>40 %</color> pendant 12 s après avoir déclenché Surcharge, Fonte, Brûlure, Évaporation, Bourgeonnement ou Dispersion Pyro.",
+        "pt": "Após causar uma reação elemental de Sobrecarga, Fusão, Queimaduras, Vaporização, Germinação ou Redemoinho de Pyro, o ATQ é aumentado em <color=#99FFFFFF>40%</color> por 12s.",
+        "ru": "Увеличивает силу атаки на <color=#99FFFFFF>40%</color> на 12 сек. при активации реакций Перегрузка, Таяние, Горение, Пар, Цветение или Пиро Рассеивание.",
+        "id": "Saat memicu Overloaded, Melt, Burning, Vaporize, Burgeon, atau reaksi Swirl dengan elemen Pyro, meningkatkan <color=#99FFFFFF>40%</color> ATK selama 12 detik.",
+        "th": "การทำให้เกิดปฏิกิริยาโอเวอร์โหลด, ละลาย, ติดไฟ, ระเหย, เบ่งบาน หรือกระจายธาตุไฟ จะเพิ่มพลังโจมตีขึ้น <color=#99FFFFFF>40%</color> เป็นเวลา 12 วินาที",
+        "vi": "Trong 12s sau khi kích hoạt hiệu ứng Quá Tải, Tan Chảy, Thiêu Đốt, Bốc Hơi, Bung Tỏa hoặc Khuếch Tán nguyên tố Hỏa, tấn công tăng <color=#99FFFFFF>40%</color>."
       }
     }
   ],

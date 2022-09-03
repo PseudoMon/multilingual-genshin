@@ -42,7 +42,7 @@
     "es": "\nUn catalizador ligero esculpido en jade. Es resistente y asequible, lo que lo hace muy popular.\nDebido a su pequeño tamaño y exquisita fabricación, la gente de Liyue comúnmente se refiere a él como “Orbe de Jade”.\nAdemás de ser muy eficaz para defenderse, también es un accesorio atractivo.\n",
     "fr": "\nUn catalyseur gravé dans le jade, au poids léger. Résistant et durable, son prix raisonnable en fait un objet populaire.\nDe taille réduite, mais finement travaillé, il est surnommé par les gens de Liyue « Boulette de jade ».\nIl offre en plus d'être un catalyseur défensif efficace le style d'un accessoire élégant.\n",
     "pt": "\nUm catalisador leve esculpido em jade. É duradouro e acessível, muito procurado em todos os lugares.\nPequeno, mas requintadamente trabalhado, é apelidado pelo povo de Liyue de \"Bola de Jade\".\nServe tanto como um catalisador de defesa, quanto como um acessório de boa aparência.\n",
-    "ru": "\nЛегкий катализатор, вырезанный из нефрита. Он прочный и финансово доступный, что делает его популярным катализатором во всём мире.\nНарод Ли Юэ называет этот небольшой, но изысканно сделанный катализатор, Нефритовым шаром.\nЭто высокоэффективный защитный катализатор, а также красивый аксессуар.\n",
+    "ru": "\nЛёгкий катализатор, вырезанный из нефрита. Он прочный и финансово доступный, что делает его популярным катализатором во всём мире.\nНарод Ли Юэ называет этот небольшой, но изысканно сделанный катализатор, Нефритовым шаром.\nЭто высокоэффективный защитный катализатор, а также красивый аксессуар.\n",
     "id": "\nKatalis ringan yang diukir dari batu giok. Tahan lama dan terjangkau, sehingga menjadikannya item yang populer di masyarakat sekitar.\nKecil namun dibuat dengan indah, orang-orang Liyue menyebutnya sebagai Jade Orb.\nTidak hanya dapat digunakan sebagai senjata pertahanan diri yang efektif, namun juga merupakan perhiasan yang bagus untuk dikenakan pada tubuh.\n",
     "th": "\nสิ่งประดิษฐ์สำหรับประกอบพิธีกรรมที่มีน้ำหนักเบาแกะสลักจากหยก มีความทนทานและราคาไม่แพง เป็นที่นิยมในหมู่คนทั่วโลก\nเพราะว่ารูปร่างภายนอกที่เล็กแต่หรูหราและถูกแกะสลักอย่างประณีต ผู้คนใน Liyue จึงมักจะเรียกว่า Jade Orb\nไม่เพียงแต่เป็นเครื่องรางที่สามารถให้ความคุ้มครองได้ มันยังเป็นเครื่องประดับที่ไม่เลวอีกด้วย\n",
     "vi": "\nPháp Khí được đẽo gọt từ đá phỉ thúy, nhẹ bền, giá cả vừa phải, được giới giang hồ ưa thích.\nDo ngọai hình nhỏ gọn, gia công tinh tế, được người dân Liyue gọi là \"Phỉ Ngọc Hoàn\"\nPháp khí này không chỉ là vật phòng thân hữu hiệu, mà còn là món đồ trang sức đẹp.\n"
@@ -65,19 +65,19 @@
         "vi": "Kích Lưu"
       },
       "description": {
-        "zhs": "触发蒸发、感电、冰冻或水元素扩散反应后的12秒内，攻击力提高<color=#99FFFFFF>20%</color>。",
-        "zht": "觸發蒸發、感電、冰凍或水元素擴散反應後的12秒內，攻擊力提高<color=#99FFFFFF>20%</color>。",
-        "jp": "蒸発、感電、凍結、または水元素拡散反応を起こした後12秒間、攻撃力+<color=#99FFFFFF>20%</color>。",
-        "ko": "증발, 감전, 빙결, 물 원소 확산 반응 후 12초 동안 공격력이 <color=#99FFFFFF>20%</color> 증가한다",
-        "en": "Upon causing a Vaporize, Electro-Charged, Frozen, or a Hydro-infused Swirl reaction, increases ATK by <color=#99FFFFFF>20%</color> for 12s.",
-        "de": "Erhöht den ANG nach Auslösen der Reaktionen „Verdampfen“, „Unter Strom“, „Gefroren“ und „Hydro-Verwirbelung“ 12 s lang um <color=#99FFFFFF>20 %</color>.",
-        "es": "Tras causar una reacción de Vaporización, Electrocargado, Congelación, o Torbellino Hydro, el ATQ aumenta en un <color=#99FFFFFF>20%</color> durante 12 s.",
-        "fr": "Augmente l'ATQ de <color=#99FFFFFF>20 %</color> pendant 12 s après avoir déclenché Évaporation, Électrocution, Gel ou Dispersion Hydro.",
-        "pt": "Depois de 12s após a ativação da reação de Vaporização, Eletricamente Carregado, Congelamento ou Redemoinho Hydro, aumenta o ATQ em <color=#99FFFFFF>20%</color>.",
-        "ru": "Увеличивает силу атаки на <color=#99FFFFFF>20%</color> в течение 12 сек при нанесении статусов Пар, Заряжен, Заморозка или Гидро рассеивание.",
-        "id": "Saat memicu Vaporize, Electro-Charged, Frozen, atau reaksi Swirl berbasis Pyro, meningkatkan <color=#99FFFFFF>20%</color> ATK selama 12 detik.",
-        "th": "การทำให้เกิดปฏิกิริยาการระเหย, ชาร์จไฟฟ้า, แช่แข็ง หรือกระจายธาตุน้ำ จะเพิ่มพลังโจมตีขึ้น <color=#99FFFFFF>20%</color> เป็นเวลา 12 วินาที",
-        "vi": "Sau khi kích hoạt phản ứng bốc hơi, điện cảm, đóng băng hoặc khuếch tán Nguyên Tố Thủy, trong 12s tăng tấn công <color=#99FFFFFF>20%</color>."
+        "zhs": "触发蒸发、感电、冰冻、绽放或水元素扩散后的12秒内，攻击力提高<color=#99FFFFFF>20%</color>。",
+        "zht": "觸發蒸發、感電、冰凍、綻放或水元素擴散後的12秒內，攻擊力提高<color=#99FFFFFF>20%</color>。",
+        "jp": "蒸発、感電、凍結、開花、または水元素拡散反応を起こした後12秒間、攻撃力+<color=#99FFFFFF>20%</color>。",
+        "ko": "증발, 감전, 빙결, 개화 혹은 물 원소 확산 반응 후 12초 동안 공격력이 <color=#99FFFFFF>20%</color> 증가한다",
+        "en": "Upon causing a Vaporize, Electro-Charged, Frozen, Bloom, or a Hydro-infused Swirl reaction, increases ATK by <color=#99FFFFFF>20%</color> for 12s.",
+        "de": "Erhöht den ANG nach Auslösen der Reaktionen „Verdampfen“, „Unter Strom“, „Gefroren“, „Sprießen“ und „Hydro-Verwirbelung“ 12 s lang um <color=#99FFFFFF>20 %</color>.",
+        "es": "Tras causar una reacción de Vaporización, Electrocargado, Congelación, Florecimiento o Torbellino Hydro, el ATQ aumenta en un <color=#99FFFFFF>20%</color> durante 12 s.",
+        "fr": "Augmente l'ATQ de <color=#99FFFFFF>20 %</color> pendant 12 s après avoir déclenché Évaporation, Électrocution, Gel, Fleurissement ou Dispersion Hydro.",
+        "pt": "Após causar uma reação elemental de Vaporização, Eletricamente Carregado, Congelamento, Florescimento ou Redemoinho de Hydro, o ATQ é aumentado em <color=#99FFFFFF>20%</color> por 12s.",
+        "ru": "Увеличивает силу атаки на <color=#99FFFFFF>20%</color> на 12 сек. при активации реакций Пар, Заряжен, Заморозка, Бутонизация или Гидро рассеивание.",
+        "id": "Saat memicu Vaporize, Electro-Charged, Frozen, Bloom, atau reaksi Swirl dengan elemen Hydro, meningkatkan <color=#99FFFFFF>20%</color> ATK selama 12 detik.",
+        "th": "การทำให้เกิดปฏิกิริยาระเหย, ชาร์จไฟฟ้า, แช่แข็ง, งอกเงย หรือกระจายธาตุน้ำ จะเพิ่มพลังโจมตีขึ้น <color=#99FFFFFF>20%</color> เป็นเวลา 12 วินาที",
+        "vi": "Trong 12s sau khi kích hoạt Bốc Hơi, Điện Cảm, Đóng Băng, Sum Suê hoặc Khuếch Tán nguyên tố Thủy, tấn công tăng <color=#99FFFFFF>20%</color>."
       }
     },
     {
@@ -97,19 +97,19 @@
         "vi": "Kích Lưu"
       },
       "description": {
-        "zhs": "触发蒸发、感电、冰冻或水元素扩散反应后的12秒内，攻击力提高<color=#99FFFFFF>25%</color>。",
-        "zht": "觸發蒸發、感電、冰凍或水元素擴散反應後的12秒內，攻擊力提高<color=#99FFFFFF>25%</color>。",
-        "jp": "蒸発、感電、凍結、または水元素拡散反応を起こした後12秒間、攻撃力+<color=#99FFFFFF>25%</color>。",
-        "ko": "증발, 감전, 빙결, 물 원소 확산 반응 후 12초 동안 공격력이 <color=#99FFFFFF>25%</color> 증가한다",
-        "en": "Upon causing a Vaporize, Electro-Charged, Frozen, or a Hydro-infused Swirl reaction, increases ATK by <color=#99FFFFFF>25%</color> for 12s.",
-        "de": "Erhöht den ANG nach Auslösen der Reaktionen „Verdampfen“, „Unter Strom“, „Gefroren“ und „Hydro-Verwirbelung“ 12 s lang um <color=#99FFFFFF>25 %</color>.",
-        "es": "Tras causar una reacción de Vaporización, Electrocargado, Congelación, o Torbellino Hydro, el ATQ aumenta en un <color=#99FFFFFF>25%</color> durante 12 s.",
-        "fr": "Augmente l'ATQ de <color=#99FFFFFF>25 %</color> pendant 12 s après avoir déclenché Évaporation, Électrocution, Gel ou Dispersion Hydro.",
-        "pt": "Depois de 12s após a ativação da reação de Vaporização, Eletricamente Carregado, Congelamento ou Redemoinho Hydro, aumenta o ATQ em <color=#99FFFFFF>25%</color>.",
-        "ru": "Увеличивает силу атаки на <color=#99FFFFFF>25%</color> в течение 12 сек при нанесении статусов Пар, Заряжен, Заморозка или Гидро рассеивание.",
-        "id": "Saat memicu Vaporize, Electro-Charged, Frozen, atau reaksi Swirl berbasis Pyro, meningkatkan <color=#99FFFFFF>25%</color> ATK selama 12 detik.",
-        "th": "การทำให้เกิดปฏิกิริยาการระเหย, ชาร์จไฟฟ้า, แช่แข็ง หรือกระจายธาตุน้ำ จะเพิ่มพลังโจมตีขึ้น <color=#99FFFFFF>25%</color> เป็นเวลา 12 วินาที",
-        "vi": "Sau khi kích hoạt phản ứng bốc hơi, điện cảm, đóng băng hoặc khuếch tán Nguyên Tố Thủy, trong 12s tăng tấn công <color=#99FFFFFF>25%</color>."
+        "zhs": "触发蒸发、感电、冰冻、绽放或水元素扩散后的12秒内，攻击力提高<color=#99FFFFFF>25%</color>。",
+        "zht": "觸發蒸發、感電、冰凍、綻放或水元素擴散後的12秒內，攻擊力提高<color=#99FFFFFF>25%</color>。",
+        "jp": "蒸発、感電、凍結、開花、または水元素拡散反応を起こした後12秒間、攻撃力+<color=#99FFFFFF>25%</color>。",
+        "ko": "증발, 감전, 빙결, 개화 혹은 물 원소 확산 반응 후 12초 동안 공격력이 <color=#99FFFFFF>25%</color> 증가한다",
+        "en": "Upon causing a Vaporize, Electro-Charged, Frozen, Bloom, or a Hydro-infused Swirl reaction, increases ATK by <color=#99FFFFFF>25%</color> for 12s.",
+        "de": "Erhöht den ANG nach Auslösen der Reaktionen „Verdampfen“, „Unter Strom“, „Gefroren“, „Sprießen“ und „Hydro-Verwirbelung“ 12 s lang um <color=#99FFFFFF>25 %</color>.",
+        "es": "Tras causar una reacción de Vaporización, Electrocargado, Congelación, Florecimiento o Torbellino Hydro, el ATQ aumenta en un <color=#99FFFFFF>25%</color> durante 12 s.",
+        "fr": "Augmente l'ATQ de <color=#99FFFFFF>25 %</color> pendant 12 s après avoir déclenché Évaporation, Électrocution, Gel, Fleurissement ou Dispersion Hydro.",
+        "pt": "Após causar uma reação elemental de Vaporização, Eletricamente Carregado, Congelamento, Florescimento ou Redemoinho de Hydro, o ATQ é aumentado em <color=#99FFFFFF>25%</color> por 12s.",
+        "ru": "Увеличивает силу атаки на <color=#99FFFFFF>25%</color> на 12 сек. при активации реакций Пар, Заряжен, Заморозка, Бутонизация или Гидро рассеивание.",
+        "id": "Saat memicu Vaporize, Electro-Charged, Frozen, Bloom, atau reaksi Swirl dengan elemen Hydro, meningkatkan <color=#99FFFFFF>25%</color> ATK selama 12 detik.",
+        "th": "การทำให้เกิดปฏิกิริยาระเหย, ชาร์จไฟฟ้า, แช่แข็ง, งอกเงย หรือกระจายธาตุน้ำ จะเพิ่มพลังโจมตีขึ้น <color=#99FFFFFF>25%</color> เป็นเวลา 12 วินาที",
+        "vi": "Trong 12s sau khi kích hoạt Bốc Hơi, Điện Cảm, Đóng Băng, Sum Suê hoặc Khuếch Tán nguyên tố Thủy, tấn công tăng <color=#99FFFFFF>25%</color>."
       }
     },
     {
@@ -129,19 +129,19 @@
         "vi": "Kích Lưu"
       },
       "description": {
-        "zhs": "触发蒸发、感电、冰冻或水元素扩散反应后的12秒内，攻击力提高<color=#99FFFFFF>30%</color>。",
-        "zht": "觸發蒸發、感電、冰凍或水元素擴散反應後的12秒內，攻擊力提高<color=#99FFFFFF>30%</color>。",
-        "jp": "蒸発、感電、凍結、または水元素拡散反応を起こした後12秒間、攻撃力+<color=#99FFFFFF>30%</color>。",
-        "ko": "증발, 감전, 빙결, 물 원소 확산 반응 후 12초 동안 공격력이 <color=#99FFFFFF>30%</color> 증가한다",
-        "en": "Upon causing a Vaporize, Electro-Charged, Frozen, or a Hydro-infused Swirl reaction, increases ATK by <color=#99FFFFFF>30%</color> for 12s.",
-        "de": "Erhöht den ANG nach Auslösen der Reaktionen „Verdampfen“, „Unter Strom“, „Gefroren“ und „Hydro-Verwirbelung“ 12 s lang um <color=#99FFFFFF>30 %</color>.",
-        "es": "Tras causar una reacción de Vaporización, Electrocargado, Congelación, o Torbellino Hydro, el ATQ aumenta en un <color=#99FFFFFF>30%</color> durante 12 s.",
-        "fr": "Augmente l'ATQ de <color=#99FFFFFF>30 %</color> pendant 12 s après avoir déclenché Évaporation, Électrocution, Gel ou Dispersion Hydro.",
-        "pt": "Depois de 12s após a ativação da reação de Vaporização, Eletricamente Carregado, Congelamento ou Redemoinho Hydro, aumenta o ATQ em <color=#99FFFFFF>30%</color>.",
-        "ru": "Увеличивает силу атаки на <color=#99FFFFFF>30%</color> в течение 12 сек при нанесении статусов Пар, Заряжен, Заморозка или Гидро рассеивание.",
-        "id": "Saat memicu Vaporize, Electro-Charged, Frozen, atau reaksi Swirl berbasis Pyro, meningkatkan <color=#99FFFFFF>30%</color> ATK selama 12 detik.",
-        "th": "การทำให้เกิดปฏิกิริยาการระเหย, ชาร์จไฟฟ้า, แช่แข็ง หรือกระจายธาตุน้ำ จะเพิ่มพลังโจมตีขึ้น <color=#99FFFFFF>30%</color> เป็นเวลา 12 วินาที",
-        "vi": "Sau khi kích hoạt phản ứng bốc hơi, điện cảm, đóng băng hoặc khuếch tán Nguyên Tố Thủy, trong 12s tăng tấn công <color=#99FFFFFF>30%</color>."
+        "zhs": "触发蒸发、感电、冰冻、绽放或水元素扩散后的12秒内，攻击力提高<color=#99FFFFFF>30%</color>。",
+        "zht": "觸發蒸發、感電、冰凍、綻放或水元素擴散後的12秒內，攻擊力提高<color=#99FFFFFF>30%</color>。",
+        "jp": "蒸発、感電、凍結、開花、または水元素拡散反応を起こした後12秒間、攻撃力+<color=#99FFFFFF>30%</color>。",
+        "ko": "증발, 감전, 빙결, 개화 혹은 물 원소 확산 반응 후 12초 동안 공격력이 <color=#99FFFFFF>30%</color> 증가한다",
+        "en": "Upon causing a Vaporize, Electro-Charged, Frozen, Bloom, or a Hydro-infused Swirl reaction, increases ATK by <color=#99FFFFFF>30%</color> for 12s.",
+        "de": "Erhöht den ANG nach Auslösen der Reaktionen „Verdampfen“, „Unter Strom“, „Gefroren“, „Sprießen“ und „Hydro-Verwirbelung“ 12 s lang um <color=#99FFFFFF>30 %</color>.",
+        "es": "Tras causar una reacción de Vaporización, Electrocargado, Congelación, Florecimiento o Torbellino Hydro, el ATQ aumenta en un <color=#99FFFFFF>30%</color> durante 12 s.",
+        "fr": "Augmente l'ATQ de <color=#99FFFFFF>30 %</color> pendant 12 s après avoir déclenché Évaporation, Électrocution, Gel, Fleurissement ou Dispersion Hydro.",
+        "pt": "Após causar uma reação elemental de Vaporização, Eletricamente Carregado, Congelamento, Florescimento ou Redemoinho de Hydro, o ATQ é aumentado em <color=#99FFFFFF>30%</color> por 12s.",
+        "ru": "Увеличивает силу атаки на <color=#99FFFFFF>30%</color> на 12 сек. при активации реакций Пар, Заряжен, Заморозка, Бутонизация или Гидро рассеивание.",
+        "id": "Saat memicu Vaporize, Electro-Charged, Frozen, Bloom, atau reaksi Swirl dengan elemen Hydro, meningkatkan <color=#99FFFFFF>30%</color> ATK selama 12 detik.",
+        "th": "การทำให้เกิดปฏิกิริยาระเหย, ชาร์จไฟฟ้า, แช่แข็ง, งอกเงย หรือกระจายธาตุน้ำ จะเพิ่มพลังโจมตีขึ้น <color=#99FFFFFF>30%</color> เป็นเวลา 12 วินาที",
+        "vi": "Trong 12s sau khi kích hoạt Bốc Hơi, Điện Cảm, Đóng Băng, Sum Suê hoặc Khuếch Tán nguyên tố Thủy, tấn công tăng <color=#99FFFFFF>30%</color>."
       }
     },
     {
@@ -161,19 +161,19 @@
         "vi": "Kích Lưu"
       },
       "description": {
-        "zhs": "触发蒸发、感电、冰冻或水元素扩散反应后的12秒内，攻击力提高<color=#99FFFFFF>35%</color>。",
-        "zht": "觸發蒸發、感電、冰凍或水元素擴散反應後的12秒內，攻擊力提高<color=#99FFFFFF>35%</color>。",
-        "jp": "蒸発、感電、凍結、または水元素拡散反応を起こした後12秒間、攻撃力+<color=#99FFFFFF>35%</color>。",
-        "ko": "증발, 감전, 빙결, 물 원소 확산 반응 후 12초 동안 공격력이 <color=#99FFFFFF>35%</color> 증가한다",
-        "en": "Upon causing a Vaporize, Electro-Charged, Frozen, or a Hydro-infused Swirl reaction, increases ATK by <color=#99FFFFFF>35%</color> for 12s.",
-        "de": "Erhöht den ANG nach Auslösen der Reaktionen „Verdampfen“, „Unter Strom“, „Gefroren“ und „Hydro-Verwirbelung“ 12 s lang um <color=#99FFFFFF>35 %</color>.",
-        "es": "Tras causar una reacción de Vaporización, Electrocargado, Congelación, o Torbellino Hydro, el ATQ aumenta en un <color=#99FFFFFF>35%</color> durante 12 s.",
-        "fr": "Augmente l'ATQ de <color=#99FFFFFF>35 %</color> pendant 12 s après avoir déclenché Évaporation, Électrocution, Gel ou Dispersion Hydro.",
-        "pt": "Depois de 12s após a ativação da reação de Vaporização, Eletricamente Carregado, Congelamento ou Redemoinho Hydro, aumenta o ATQ em <color=#99FFFFFF>35%</color>.",
-        "ru": "Увеличивает силу атаки на <color=#99FFFFFF>35%</color> в течение 12 сек при нанесении статусов Пар, Заряжен, Заморозка или Гидро рассеивание.",
-        "id": "Saat memicu Vaporize, Electro-Charged, Frozen, atau reaksi Swirl berbasis Pyro, meningkatkan <color=#99FFFFFF>35%</color> ATK selama 12 detik.",
-        "th": "การทำให้เกิดปฏิกิริยาการระเหย, ชาร์จไฟฟ้า, แช่แข็ง หรือกระจายธาตุน้ำ จะเพิ่มพลังโจมตีขึ้น <color=#99FFFFFF>35%</color> เป็นเวลา 12 วินาที",
-        "vi": "Sau khi kích hoạt phản ứng bốc hơi, điện cảm, đóng băng hoặc khuếch tán Nguyên Tố Thủy, trong 12s tăng tấn công <color=#99FFFFFF>35%</color>."
+        "zhs": "触发蒸发、感电、冰冻、绽放或水元素扩散后的12秒内，攻击力提高<color=#99FFFFFF>35%</color>。",
+        "zht": "觸發蒸發、感電、冰凍、綻放或水元素擴散後的12秒內，攻擊力提高<color=#99FFFFFF>35%</color>。",
+        "jp": "蒸発、感電、凍結、開花、または水元素拡散反応を起こした後12秒間、攻撃力+<color=#99FFFFFF>35%</color>。",
+        "ko": "증발, 감전, 빙결, 개화 혹은 물 원소 확산 반응 후 12초 동안 공격력이 <color=#99FFFFFF>35%</color> 증가한다",
+        "en": "Upon causing a Vaporize, Electro-Charged, Frozen, Bloom, or a Hydro-infused Swirl reaction, increases ATK by <color=#99FFFFFF>35%</color> for 12s.",
+        "de": "Erhöht den ANG nach Auslösen der Reaktionen „Verdampfen“, „Unter Strom“, „Gefroren“, „Sprießen“ und „Hydro-Verwirbelung“ 12 s lang um <color=#99FFFFFF>35 %</color>.",
+        "es": "Tras causar una reacción de Vaporización, Electrocargado, Congelación, Florecimiento o Torbellino Hydro, el ATQ aumenta en un <color=#99FFFFFF>35%</color> durante 12 s.",
+        "fr": "Augmente l'ATQ de <color=#99FFFFFF>35 %</color> pendant 12 s après avoir déclenché Évaporation, Électrocution, Gel, Fleurissement ou Dispersion Hydro.",
+        "pt": "Após causar uma reação elemental de Vaporização, Eletricamente Carregado, Congelamento, Florescimento ou Redemoinho de Hydro, o ATQ é aumentado em <color=#99FFFFFF>35%</color> por 12s.",
+        "ru": "Увеличивает силу атаки на <color=#99FFFFFF>35%</color> на 12 сек. при активации реакций Пар, Заряжен, Заморозка, Бутонизация или Гидро рассеивание.",
+        "id": "Saat memicu Vaporize, Electro-Charged, Frozen, Bloom, atau reaksi Swirl dengan elemen Hydro, meningkatkan <color=#99FFFFFF>35%</color> ATK selama 12 detik.",
+        "th": "การทำให้เกิดปฏิกิริยาระเหย, ชาร์จไฟฟ้า, แช่แข็ง, งอกเงย หรือกระจายธาตุน้ำ จะเพิ่มพลังโจมตีขึ้น <color=#99FFFFFF>35%</color> เป็นเวลา 12 วินาที",
+        "vi": "Trong 12s sau khi kích hoạt Bốc Hơi, Điện Cảm, Đóng Băng, Sum Suê hoặc Khuếch Tán nguyên tố Thủy, tấn công tăng <color=#99FFFFFF>35%</color>."
       }
     },
     {
@@ -193,19 +193,19 @@
         "vi": "Kích Lưu"
       },
       "description": {
-        "zhs": "触发蒸发、感电、冰冻或水元素扩散反应后的12秒内，攻击力提高<color=#99FFFFFF>40%</color>。",
-        "zht": "觸發蒸發、感電、冰凍或水元素擴散反應後的12秒內，攻擊力提高<color=#99FFFFFF>40%</color>。",
-        "jp": "蒸発、感電、凍結、または水元素拡散反応を起こした後12秒間、攻撃力+<color=#99FFFFFF>40%</color>。",
-        "ko": "증발, 감전, 빙결, 물 원소 확산 반응 후 12초 동안 공격력이 <color=#99FFFFFF>40%</color> 증가한다",
-        "en": "Upon causing a Vaporize, Electro-Charged, Frozen, or a Hydro-infused Swirl reaction, increases ATK by <color=#99FFFFFF>40%</color> for 12s.",
-        "de": "Erhöht den ANG nach Auslösen der Reaktionen „Verdampfen“, „Unter Strom“, „Gefroren“ und „Hydro-Verwirbelung“ 12 s lang um <color=#99FFFFFF>40 %</color>.",
-        "es": "Tras causar una reacción de Vaporización, Electrocargado, Congelación, o Torbellino Hydro, el ATQ aumenta en un <color=#99FFFFFF>40%</color> durante 12 s.",
-        "fr": "Augmente l'ATQ de <color=#99FFFFFF>40 %</color> pendant 12 s après avoir déclenché Évaporation, Électrocution, Gel ou Dispersion Hydro.",
-        "pt": "Depois de 12s após a ativação da reação de Vaporização, Eletricamente Carregado, Congelamento ou Redemoinho Hydro, aumenta o ATQ em <color=#99FFFFFF>40%</color>.",
-        "ru": "Увеличивает силу атаки на <color=#99FFFFFF>40%</color> в течение 12 сек при нанесении статусов Пар, Заряжен, Заморозка или Гидро рассеивание.",
-        "id": "Saat memicu Vaporize, Electro-Charged, Frozen, atau reaksi Swirl berbasis Pyro, meningkatkan <color=#99FFFFFF>40%</color> ATK selama 12 detik.",
-        "th": "การทำให้เกิดปฏิกิริยาการระเหย, ชาร์จไฟฟ้า, แช่แข็ง หรือกระจายธาตุน้ำ จะเพิ่มพลังโจมตีขึ้น <color=#99FFFFFF>40%</color> เป็นเวลา 12 วินาที",
-        "vi": "Sau khi kích hoạt phản ứng bốc hơi, điện cảm, đóng băng hoặc khuếch tán Nguyên Tố Thủy, trong 12s tăng tấn công <color=#99FFFFFF>40%</color>."
+        "zhs": "触发蒸发、感电、冰冻、绽放或水元素扩散后的12秒内，攻击力提高<color=#99FFFFFF>40%</color>。",
+        "zht": "觸發蒸發、感電、冰凍、綻放或水元素擴散後的12秒內，攻擊力提高<color=#99FFFFFF>40%</color>。",
+        "jp": "蒸発、感電、凍結、開花、または水元素拡散反応を起こした後12秒間、攻撃力+<color=#99FFFFFF>40%</color>。",
+        "ko": "증발, 감전, 빙결, 개화 혹은 물 원소 확산 반응 후 12초 동안 공격력이 <color=#99FFFFFF>40%</color> 증가한다",
+        "en": "Upon causing a Vaporize, Electro-Charged, Frozen, Bloom, or a Hydro-infused Swirl reaction, increases ATK by <color=#99FFFFFF>40%</color> for 12s.",
+        "de": "Erhöht den ANG nach Auslösen der Reaktionen „Verdampfen“, „Unter Strom“, „Gefroren“, „Sprießen“ und „Hydro-Verwirbelung“ 12 s lang um <color=#99FFFFFF>40 %</color>.",
+        "es": "Tras causar una reacción de Vaporización, Electrocargado, Congelación, Florecimiento o Torbellino Hydro, el ATQ aumenta en un <color=#99FFFFFF>40%</color> durante 12 s.",
+        "fr": "Augmente l'ATQ de <color=#99FFFFFF>40 %</color> pendant 12 s après avoir déclenché Évaporation, Électrocution, Gel, Fleurissement ou Dispersion Hydro.",
+        "pt": "Após causar uma reação elemental de Vaporizar, Eletricamente Carregado, Congelamento, Florescimento ou Redemoinho com Hydro, o ATQ é aumentado em <color=#99FFFFFF>40%</color> por 12s.",
+        "ru": "Увеличивает силу атаки на <color=#99FFFFFF>40%</color> на 12 сек. при активации реакций Пар, Заряжен, Заморозка, Бутонизация или Гидро рассеивание.",
+        "id": "Saat memicu Vaporize, Electro-Charged, Frozen, Bloom, atau reaksi Swirl dengan elemen Hydro, meningkatkan <color=#99FFFFFF>40%</color> ATK selama 12 detik.",
+        "th": "การทำให้เกิดปฏิกิริยาระเหย, ชาร์จไฟฟ้า, แช่แข็ง, งอกเงย หรือกระจายธาตุน้ำ จะเพิ่มพลังโจมตีขึ้น <color=#99FFFFFF>40%</color> เป็นเวลา 12 วินาที",
+        "vi": "Trong 12s sau khi kích hoạt Bốc Hơi, Điện Cảm, Đóng Băng, Sum Suê hoặc Khuếch Tán nguyên tố Thủy, tấn công tăng <color=#99FFFFFF>40%</color>."
       }
     }
   ],

@@ -52,7 +52,7 @@
       "zhs": "迪卢克受到伤害时，攻击力提高10%，攻击速度提高5%，持续10秒。\n该效果至多叠加3次，每1.5秒只能触发一次。",
       "zht": "迪盧克受到傷害時，攻擊力提高10%，攻擊速度提高5%，持續10秒。\n該效果至多疊加三次，每1.5秒只能觸發一次。",
       "jp": "ディルックがダメージを受けると、攻撃力+10%、攻撃速度+5%、継続時間10秒。\n最大3重まで。1.5秒毎に1回のみ発動可能。",
-      "ko": "다이루크가 피격 시 공격력이 10%, 공격속도가 5% 증가한다. 지속 시간: 10초.\n해당 효과는 최대 3회 중첩되며 1.5초마다 1회만 발동한다",
+      "ko": "다이루크가 피격 시 공격력이 10%, 공격 속도가 5% 증가한다. 지속 시간: 10초.\n해당 효과는 최대 3회 중첩되며 1.5초마다 1회만 발동한다",
       "en": "When Diluc takes DMG, his ATK increases by 10% and his ATK SPD increases by 5%. Lasts for 10s.\nThis effect can stack up to 3 times and can only occur once every 1.5s.",
       "de": "Erhöht den ANG, wenn Diluc Schaden erleidet, 10 s lang um 10 % und die Angriffs-GSW um 5 %\n3-fach stapelbar, 1,5 s Abklingzeit.",
       "es": "Cuando Diluc recibe daño, su ATQ aumenta en un 10% y su Vel. de Ataque aumenta en un 5% durante 10 s.\nPuede acumularse un máximo de 3 veces, y solo puede ocurrir una vez cada 1.5 s.",
@@ -60,7 +60,7 @@
       "pt": "Quando Diluc recebe Dano, seu ATQ aumenta 10%, e a sua VEL de ATQ aumenta em 5% por 10s.\nEste efeito pode ser ativado até 3 vezes e pode ocorrer apenas uma vez a cada 1.5s.",
       "ru": "Когда Дилюк получает урон, его сила атаки увеличивается на 10%, а скорость атаки - на 5%. Длится 10 сек.\nМожет складываться до 3 раз и возникнуть раз в 1,5 сек.",
       "id": "Saat Diluc menerima DMG, meningkatkan 10% ATK dan 5% ATK SPD selama 10 detik.\nEfek ini dapat ditumpuk sampai 3 kali dan terpicu setiap 1,5 detik.",
-      "th": "เมื่อ Diluc ได้รับความเสียหาย พลังโจมตีจะเพิ่มขึ้น 10%, ความเร็วการโจมตีจะเพิ่มขึ้น 5% เป็นเวลา 10 วินาที\nเอฟเฟกต์นี้จะเกิดการทับซ้อน ได้มากสุด 3 ครั้ง และเกิดขึ้นได้หนึ่งครั้งในทุก 1.5 วินาที",
+      "th": "เมื่อ Diluc ได้รับความเสียหาย พลังโจมตีจะเพิ่มขึ้น 10% และความเร็วการโจมตีจะเพิ่มขึ้น 5% เป็นเวลา 10 วินาที\nเอฟเฟกต์นี้จะเกิดการทับซ้อน ได้มากสุด 3 ครั้ง และเกิดขึ้นได้หนึ่งครั้งในทุก 1.5 วินาที",
       "vi": "Khi Diluc bị thương, tấn công tăng 10%, tốc độ tấn công tăng 5%, kéo dài 10s.\nHiệu quả cộng dồn tối đa 3 lần, mỗi 1,5s chỉ thi triển 1 lần."
     },
     "imgid": "constellation_2"
@@ -126,7 +126,7 @@
       "pt": "Lançar <color=#FFD780FF>Investida Ardente</color> de forma cadenciada aumenta drásticamente o dano causado.\nDentro de 2 segundos de uso da <color=#FFD780FF>Investida Ardente</color>, lançar a próxima Investida Ardente em um combo infligirá 40% de Dano adicional. Esse efeito dura pelos próximos 2 segundos.",
       "ru": "Ритмичная активация навыка <color=#FFD780FF>Огненный натиск</color> увеличивает наносимый им урон.\nАктивация навыка <color=#FFD780FF>Огненный натиск</color> через 2 сек. после предыдущего удара увеличивает урон следующего удара на 40% в течение 2 сек.",
       "id": "Mengerahkan <color=#FFD780FF>Searing Onslaught</color> secara beruntun akan meningkatkan DMG yang dihasilkan.\n2 detik setelah mengerahkan <color=#FFD780FF>Searing Onslaught</color>, DMG Searing Onslaught berikutnya meningkat 40% selama 2 detik.",
-      "th": "ใช้ <color=#FFD780FF>Searing Onslaught</color> อย่างเป็นจังหวะ โดยจะเพิ่มความเสียหายที่สร้างในปริมาณมาก\n2 วินาที หลังจากที่ใช้ <color=#FFD780FF>Searing Onslaught</color> จะทำให้ความเสียหายของ Searing Onslaught ครั้งต่อไปเพิ่มขึ้น 40% ต่อเนื่อง 2 วินาที",
+      "th": "การใช้ <color=#FFD780FF>Searing Onslaught</color> อย่างเป็นจังหวะ สามารถเพิ่มความเสียหายที่สร้างในปริมาณมากขึ้น\n2 วินาที หลังจากใช้ <color=#FFD780FF>Searing Onslaught</color> จะทำให้ความเสียหายของ Searing Onslaught ครั้งต่อไปเพิ่มขึ้น 40% ต่อเนื่อง 2 วินาที",
       "vi": "Phóng <color=#FFD780FF>Lưỡi Kiếm Tấn Công</color> theo từng nhịp và có thể tăng sát thương tạo thành.\nSau 2s thi triển <color=#FFD780FF>Lưỡi Kiếm Tấn Công</color> tăng 40% sát thương đòn đánh tiếp theo của Lưỡi Kiếm Tấn Công, kéo dài 2s."
     },
     "imgid": "constellation_4"
@@ -184,14 +184,14 @@
       "zhs": "施放<color=#FFD780FF>逆焰之刃</color>后，接下来6秒内的2次普通攻击速度提升30%，造成的伤害提高30%。\n此外，逆焰之刃不再重置普通攻击连击段数。",
       "zht": "施放<color=#FFD780FF>逆焰之刃</color>後，接下來6秒內的2次普通攻擊速度提升30%，造成的傷害提高30%。\n此外，逆焰之刃不再重置普通攻擊連擊段數。",
       "jp": "<color=#FFD780FF>逆焔の刃</color>発動後、6秒以内の2回の通常攻撃の攻撃速度+30%、攻撃ダメージ+30%。\n逆焔の刃によって通常攻撃のコンボ数がリセットされることはなくなる。",
-      "ko": "<color=#FFD780FF>역날의 화염</color> 발동 후 6초 동안 일반 공격 2회의 공격속도가 30% 증가하고 가하는 피해가 30% 증가한다.\n또한 역날의 화염은 일반 공격의 연격을 끊지 않는다",
+      "ko": "<color=#FFD780FF>역날의 화염</color> 발동 후 6초 동안 일반 공격 2회의 공격 속도가 30% 증가하고 가하는 피해가 30% 증가한다.\n또한 역날의 화염은 일반 공격의 연격을 끊지 않는다",
       "en": "After casting <color=#FFD780FF>Searing Onslaught</color>, the next 2 Normal Attacks within the next 6s will have their DMG and ATK SPD increased by 30%.\nAdditionally, Searing Onslaught will not interrupt the Normal Attack combo.",
       "de": "Erhöht die Standardangriffs-GSW der nächsten 2 Standardangriffe innerhalb von 6 s nach Anwendung von <color=#FFD780FF>Sengende Klinge</color> um 30 % sowie den damit verursachten Schaden um 30 %.\nSengende Klinge setzt die Standardangriffe nicht mehr zurück.",
       "es": "Después de lanzar <color=#FFD780FF>Filo ardiente</color>, aumenta en un 30% el daño y la Vel. de Ataque Normal de los siguientes 2 ataques durante 6 s.\nAdemás, Filo ardiente no interrumpirá la secuencia de Ataques Normales.",
-      "fr": "Confère aux 2 attaques normales suivant dans les 6 s le lancement d'<color=#FFD780FF>Assaut brûlant</color> un bonus de 30 % de DGT et de VIT d'attaque normale.\nDe plus, Assaut brûlant n'interrompt plus les enchaînements d'attaques normales.",
+      "fr": "Confère aux 2 attaques normales dans les 6 s suivant le lancement d'<color=#FFD780FF>Assaut brûlant</color> un bonus de 30 % de DGT et de VIT d'attaque normale.\nDe plus, Assaut brûlant n'interrompt plus les enchaînements d'attaques normales.",
       "pt": "Após lançar a <color=#FFD780FF>Investida Ardente</color>, os próximos 2 Ataques Normais dentro de 6s terão seus Dano e VEL de ATQ aumentados em 30%.\nAlém disso, a Investida Ardente não interromperá o combo do Ataque Normal.",
       "ru": "После активации навыка <color=#FFD780FF>Огненный натиск</color> в течение 6 сек. увеличивает скорость и наносимый урон двух следующих обычных атак на 30%.\nТакже навык Огненный натиск больше не прерывает серию обычных атак.",
-      "id": "Setelah mengerahkan <color=#FFD780FF>Searing Onslaught</color>, 2 Normal Attack berikutnya dalam waktu 6 detik akan meningkatkan 30% DMG dan ATK SPD.\nSelain itu, Searing Onslaught tidak akan menganggu kombo Normal Attack.",
+      "id": "Setelah mengerahkan <color=#FFD780FF>Searing Onslaught</color>, 2 Normal Attack dalam waktu 6 detik berikutnya akan meningkatkan 30% DMG dan ATK SPD.\nSelain itu, Searing Onslaught tidak akan mengganggu kombo Normal Attack.",
       "th": "ภายในเวลา 6 วินาที หลังจากใช้ <color=#FFD780FF>Searing Onslaught</color> การโจมตีปกติ 2 ครั้ง หลังจากนั้นจะเพิ่มความเร็วขึ้น 30% และเพิ่มความเสียหายขึ้น 30%\nนอกจากนี้ Searing Onslaught จะไม่รีเซ็ตจำนวนคอมโบ การโจมตีปกติอีกต่อไป",
       "vi": "Sau khi thi triển <color=#FFD780FF>Lưỡi Kiếm Tấn Công</color> tăng 30% tốc độ cho 2 lần đánh tấn công thường tiếp theo trong 6s, sát thương tạo thành tăng 30%.\nNgoài ra, Lưỡi Kiếm Tấn Công sẽ không làm mới các đoạn liên kích tấn công thường."
     },

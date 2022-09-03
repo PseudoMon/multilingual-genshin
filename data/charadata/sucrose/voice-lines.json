@@ -139,7 +139,7 @@
       "fr": "Le vent souffle fort...",
       "pt": "A Ventania Está Chegando...",
       "ru": "Когда дует сильный ветер...",
-      "id": "Saat Angin Berembus",
+      "id": "Ketika Angin Berembus",
       "th": "ในเวลาที่ลมพัดแรง...",
       "vi": "Gió lớn quá..."
     },
@@ -171,7 +171,7 @@
       "fr": "Quand il neige...",
       "pt": "Quando Está Nevando...",
       "ru": "Когда идёт снег...",
-      "id": "Waktu Turun Salju",
+      "id": "Ketika Turun Salju",
       "th": "ในเวลาที่หิมะตก...",
       "vi": "Khi tuyết rơi..."
     },
@@ -203,7 +203,7 @@
       "fr": "Il fait bon dehors...",
       "pt": "Quando Faz Sol...",
       "ru": "Когда светит солнце...",
-      "id": "Waktu Matahari Bersinar",
+      "id": "Ketika Matahari Bersinar",
       "th": "แดดส่องดีจัง...",
       "vi": "Ánh nắng thật chan hòa..."
     },
@@ -235,7 +235,7 @@
       "fr": "Quand il pleut...",
       "pt": "Quando Está Chovendo...",
       "ru": "Когда идёт дождь...",
-      "id": "Waktu Hujan",
+      "id": "Ketika Turun Hujan",
       "th": "ในเวลาที่ฝนตก...",
       "vi": "Khi trời mưa..."
     },
@@ -651,7 +651,7 @@
       "fr": "Détails intéressants...",
       "pt": "Coisas Interessantes...",
       "ru": "Интересные вещи...",
-      "id": "Rumor yang menarik",
+      "id": "Kisah Menarik",
       "th": "ข้อมูลที่น่าสนใจ...",
       "vi": "Những kiến thức thú vị..."
     },
@@ -662,12 +662,12 @@
       "ko": "이거 봐요. 여기 있는 서리꽃은 다 다른 거예요. 이건 얼음 원소 함량이 더 높고, 이건 개화기가 더 길어요… 저건 어떻냐고요? 아, 저건 「삼식 서리꽃 17호 확대 버전」이에요. 특징은, 음… 크기가 더 커요!",
       "en": "If you look closely, you'll notice that the Mist Flowers I've planted here are all different. This one is the most powerful, this one blooms the longest... Hmm? This one? Oh, this one is project 3, version 17, enlargement trial. Its defining trait is that... it's a bit larger.",
       "de": "Sieh mal hier, das sind alles verschiedene Eisnebelblumen, die ich gepflanzt habe. Die hier hat die meisten Inhaltsstoffe und die hier blüht am längsten ... Ach und die hier, das ist „Eisnebelblumenprojekt 3, Exemplar 17 mit höherem Wuchs“. Sie ist ... einfach größer als die anderen ...",
-      "es": "Si observas detenidamente, notarás que las flores de neblina que planté aquí son todas diferentes. Esta es la más potente, esta florece durante más tiempo... ¿Eh? ¿Esta? Oh, este es el proyecto n.º 3, versión 17: prueba de agrandamiento. Su rasgo característico es que... es un poco más grande.",
+      "es": "Si observas detenidamente, notarás que las flores heladas que planté aquí son todas diferentes. Esta es la más potente, esta florece durante más tiempo... ¿Eh? ¿Esta? Oh, este es el proyecto n.º 3, versión 17: prueba de agrandamiento. Su rasgo característico es que... es un poco más grande.",
       "fr": "Si tu observes de plus près, tu verras que chaque fleur de brume que j'ai plantée est différente. Celle-ci est plus puissante que les autres, celle-là a pris le plus de temps à fleurir... Ah, cette dernière ? C'est la version 17 du projet nº3 qui était un essai d'agrandissement. Elle est simplement plus grande que la moyenne...",
-      "pt": "Olhe, as Flores da Névoa são todas diferentes. Esta flor contém mais Cryo, e essa flor tem uma duração maior... Aí, aquela flor é a Flor da Névoa XVII de versão maior... Hmmm, quer dizer, tem uma forma maior.",
+      "pt": "Olhe, as Flores da Neblina são todas diferentes. Esta flor contém mais Cryo, e essa flor tem uma duração maior... Aí, aquela flor é a Flor da Neblina XVII de versão maior... Hmmm, quer dizer, tem uma forma maior.",
       "ru": "Смотри, посаженные здесь туманные цветки все разные. Вот этот - самый сильный, а этот цветёт дольше... А? Ты про этот. Это «Туманный цветок №3, версия 17, увеличение лепестков», его особенность... Ну, он немножко побольше.",
       "id": "Lihat Mist Flower yang kutanam di sini. Sebenarnya jenis-jenisnya berbeda. Yang ini elemen Cryonya lebih tinggi, sedang yang ini lebih panjang usianya... Hmm? Yang ini? Yang ini adalah \"Percobaan Pembesaran proyek 3 versi ke 13\". Yang spesial dari bunga ini adalah... Hmm, ukurannya yang lebih besar.",
-      "th": "ถ้าคุณสังเกตดู จะเห็นว่า Mist Flowers ที่ฉันปลูกแต่ละดอกมีความแตกต่างกัน ดอกนี้มีพลังธาตุแฝงอยู่มากที่สุด ดอกนี้บานได้นานที่สุด... ฮะ? ดอกนั้นเหรอ อ๋อ ดอกนั้นชื่อว่า \"โปรเจกต์ที่ 3 เวอร์ชัน 17 การทดสอบการขยาย\" ความพิเศษของมัน เอิ่ม... มันใหญ่กว่าดอกอื่นน่ะ",
+      "th": "ถ้าคุณสังเกตดู จะเห็นว่า Mist Flower ที่ฉันปลูกแต่ละดอกมีความแตกต่างกัน ดอกนี้มีพลังธาตุแฝงอยู่มากที่สุด ดอกนี้บานได้นานที่สุด... ฮะ? ดอกนั้นเหรอ อ๋อ ดอกนั้นชื่อว่า \"โปรเจกต์ที่ 3 เวอร์ชัน 17 การทดสอบการขยาย\" ความพิเศษของมัน เอิ่ม... มันใหญ่กว่าดอกอื่นน่ะ",
       "vi": "Bạn nhìn này, những bông Băng Vụ Hoa được trồng ở đây thực sự rất khác biệt. Bông này có hàm lượng nguyên tố cao hơn, bông này có thời gian nở lâu hơn... hửm? Bạn hỏi bông nào, à, bông đó gọi là \"Băng Vụ Hoa thứ 3 phiên bản cải tạo số 17\", đặc điểm, ừm... chỉ là lớn hơn một chút."
     }
   },
@@ -1148,7 +1148,7 @@
       "ru": "#Если ты занят{F#a}, то не буду отвлекать. Не занят{F#a}? Если занят{F#a}, то ничего страшного, я давно привыкла в одиночку опыты ставить. А... Правда не занят{F#a}? Ну... тогда можешь мне помочь? Ну или... просто поговорим... о чём-нибудь.",
       "id": "Hmm, kalau kamu sibuk, kamu bisa pergi... Aku tidak ingin merepotkanmu. Kamu tidak sibuk? Benarkah? Tidak masalah kok, kamu boleh mengerjakan urusanmu. Aku sudah biasa melakukan penelitian sendirian. Eh, benar-benar tidak sibuk? Ka—kalau begitu, maukah kamu membantuku? Atau...menemaniku berbicara?",
       "th": "อืม... ถ้าคุณกำลังยุ่งอยู่ก็ทำธุระของคุณเถอะ อย่าให้ฉันมาเกะกะคุณเลย ไม่ยุ่ง? จริง ๆ เหรอ? ไม่เป็นไร ฉันเข้าใจว่าคุณมีเรื่องต้องทำ ฉันค่อนข้างคุ้นเคยกับการทำงานคนเดียว คุณไม่ยุ่งจริง ๆ เหรอ? ถ้างั้น...คุณพอจะช่วยฉันได้ไหม? หรือว่า... เรามานั่งคุยกันเกี่ยวกับเรื่องอะไรก็ได้...",
-      "vi": "À... nếu bạn đang bận, thì hãy tiếp tục đi, tôi không muốn gây thêm rắc rối cho bạn. Không bận à? Không sao đâu, cho dù bận cũng không sao đâu, tôi đã quen một mình làm thì nghiệm rồi. À... thật, thật là không bận hả? Vậy... vậy có thể giúp tôi được không? Hoặc... cùng tôi nói chuyện, gì đó..."
+      "vi": "À... nếu bạn đang bận, thì hãy tiếp tục đi, tôi không muốn gây thêm rắc rối cho bạn. Không bận à? Không sao đâu, cho dù bận cũng không sao đâu, tôi đã quen một mình làm thí nghiệm rồi. À... thật, thật là không bận hả? Vậy... vậy có thể giúp tôi được không? Hoặc... cùng tôi nói chuyện, gì đó..."
     }
   },
   {
@@ -1175,7 +1175,7 @@
       "en": "I like things that look orderly. See? All of my research notes are compiled in notebooks of the exact same thickness. All my potions are lined up according to effect and hue— Wha—What!? What is this purple potion doing here!? Sorry, I—I need to reassess the order of these potions!",
       "de": "Ich mag, wenn alles seine Ordnung hat. Hier auf dem Regal sind meine Experimentaufzeichnungen. Jedes Heft hat dieselbe Dicke. Auf dem Tisch sind Hunderte von Tränken, die nach Wirkung und Farbe geord... Was? WAS?! Was hat die violette Flasche hier verloren? Jetzt kann ich nochmal von vorn anfangen!",
       "es": "Me gustan las cosas que se ven ordenadas. ¿Ves? Todas mis notas de investigación están en cuadernos del mismo grosor. Todas mis pociones están alineadas de acuerdo con su efecto y su color. ¿Qu-qué? ¿Qué está haciendo esta poción púrpura aquí? ¡Necesito reordenar estas pociones!",
-      "fr": "J'aime les choses bien ordonnées. Regarde, tous mes carnets de recherche rangés dans la bibliothèque font la même épaisseur. Mes potions sont aussi classées selon leurs effets et leur couleu.. Hein ? Qu'est-ce que cette potion violette fait là ?! Je dois revoir mon rangement !",
+      "fr": "J'aime les choses bien ordonnées. Regarde, tous mes carnets de recherche rangés dans la bibliothèque font la même épaisseur. Mes potions sont aussi classées selon leurs effets et leur couleu... Hein ? Qu'est-ce que cette potion violette fait là ?! Je dois revoir mon rangement !",
       "pt": "Eu gosto ver tudo em ordem. Olhe, todos os relatórios na estante estão em ordem; e os tubos de experimento são colocados por cores e efeitos diferentes... Ah! Como este tubo de cor de roxo está aqui! Não! Eu tenho que arrumar outra vez...",
       "ru": "Мне нравится, когда вещи упорядочены. Вот смотри: все журналы наблюдений на полке одной толщины, а все зелья на столе отсортированы по действию и оттенку... Что?.. Это что такое?! Почему фиолетовое зелье стоит здесь?! Мне надо всё переставить!",
       "id": "Aku suka sesuatu yang disusun dengan rapi. Lihatlah buku-buku catatan penelitianku di rak itu, semua punya ketebalan yang sama. Ratusan botol-botol ramuanku kupajang berdasarkan warna dan khasiatnya... Eh? EHH?! Kenapa ramuan ungu ini ada di sini?? A—aku harus merapikan semuanya secara total!",
@@ -1227,7 +1227,7 @@
       "fr": "Plats préférés...",
       "pt": "Comida Favorita...",
       "ru": "Любимая еда...",
-      "id": "Makanan favorit",
+      "id": "Makanan Favorit",
       "th": "อาหารที่ชอบ...",
       "vi": "Món ăn yêu thích..."
     },
@@ -1351,7 +1351,7 @@
       "ko": "선물 획득·세 번째",
       "en": "Receiving a Gift: III",
       "de": "Geschenk erhalten III",
-      "es": "Al recibir un regalo (II)",
+      "es": "Al recibir un regalo (III)",
       "fr": "Cadeau reçu (3)",
       "pt": "Recebendo Presentes — III",
       "ru": "Подарок III",
@@ -1397,7 +1397,7 @@
       "jp": "誕生日おめでとう！何ヶ月もの実験を経て、やっとこの薬剤が完成したの。はいどうぞ。この「生物秘薬三九一六号」はここ一年で最も美しい思い出を呼び起こせるの…あっ、「三一九六号」じゃなくて「三九一六号」だよ！",
       "ko": "생일 축하해요! 몇 달간의 실험 끝에 드디어 이 포션을 당신에게 줄 수 있게 됐네요. 이건 당신의 1년간의 가장 아름다운 추억을 일깨워 줄 거예요. 이름은 「생물 비약 삼구일육번」…. 음, 「삼일구육번」이 아니라 「삼구일육번」이에요!",
       "en": "Happy birthday! I've been running experiments for months, and finally I can give you this potion. It will allow you to relive your most beautiful memories of the past year. I call it \"Bio-Potion No. 3916.\" Huh? No, no, not 3196, it's 3916!",
-      "de": "Alles Gute zum Geburtstag! Ich habe einige Monate dafür gebraucht, diesen Trank herzustellen. Endlich habe ich ihn und möchte ihn dir schenken. Er wird deine schönsten Erinnerungen an das vergangene Jahr wieder hervorbringen. Ich nenne ihn „Biotrank Nr. 3961“. Wohlgemerkt nicht 3196, sondern 3916!",
+      "de": "Alles Gute zum Geburtstag! Ich habe einige Monate dafür gebraucht, diesen Trank herzustellen. Endlich habe ich ihn und möchte ihn dir schenken. Er wird deine schönsten Erinnerungen an das vergangene Jahr wieder hervorbringen. Ich nenne ihn „Biotrank Nr. 3916“. Wohlgemerkt nicht 3196, sondern 3916!",
       "es": "¡Feliz cumpleaños! He estado haciendo experimentos durante meses, y finalmente puedo darte esta poción. Te permitirá revivir tus recuerdos más bellos del año pasado. La llamo “Biopoción n.º 3916”. ¿Eh? ¡No, no es 3196! ¡Es 3916!",
       "fr": "Bon anniversaire ! Après des mois d'expériences, je peux enfin t'offrir cette potion ! Elle te permettra de revivre les plus beaux moments de l'année qui vient de passer. Je l'ai nommée « Bio-potion nº3196 »... Non, 3916 !",
       "pt": "Parabéns! Feliz Aniversário! Finalmente posso te dar essa poção depois de vários meses de experimento. Ela pode recordar as suas memórias mais deslumbrantes destes anos. O nome dela é Poção Magica N° 3916... Ugh, não é N° 3916. Ah, está certo, afinal é N° 3916!",
@@ -1638,7 +1638,7 @@
       "jp": "元素爆発·1",
       "ko": "원소폭발·첫 번째",
       "en": "Elemental Burst: I",
-      "de": "Spezialfähigkeit – I",
+      "de": "Spezialfähigkeit I",
       "es": "Habilidad Definitiva (I)",
       "fr": "Déchaînement élémentaire (1)",
       "pt": "Supremo - I",
@@ -1670,7 +1670,7 @@
       "jp": "元素爆発·2",
       "ko": "원소폭발·두 번째",
       "en": "Elemental Burst: II",
-      "de": "Spezialfähigkeit – II",
+      "de": "Spezialfähigkeit II",
       "es": "Habilidad Definitiva (II)",
       "fr": "Déchaînement élémentaire (2)",
       "pt": "Supremo - II",
@@ -1702,7 +1702,7 @@
       "jp": "元素爆発·3",
       "ko": "원소폭발·세 번째",
       "en": "Elemental Burst: III",
-      "de": "Spezialfähigkeit – III",
+      "de": "Spezialfähigkeit III",
       "es": "Habilidad Definitiva (III)",
       "fr": "Déchaînement élémentaire (3)",
       "pt": "Supremo - III",
@@ -1917,6 +1917,70 @@
       "id": "Tidak sakit, tidak sakit...",
       "th": "ไม่เจ็บ ไม่เจ็บ ไม่เจ็บหรอก...",
       "vi": "Không đau không đau, không đau đâu..."
+    }
+  },
+  {
+    "title": {
+      "zhs": "同伴生命值低·其一",
+      "zht": "同伴生命值低·其一",
+      "jp": "仲間HP低下·1",
+      "ko": "동료 HP 감소·첫 번째",
+      "en": "Ally at Low HP: I",
+      "de": "Verbündeter hat niedrige LP I",
+      "es": "Aliado con vida baja (I)",
+      "fr": "Compagnon avec PV faibles (1)",
+      "pt": "Aliado com Vida baixa: I",
+      "ru": "Низкий уровень HP компаньона I",
+      "id": "HP Rekan Rendah: I",
+      "th": "ค่าพลังชีวิตของเพื่อนต่ำ - 1",
+      "vi": "HP Đồng Hành Thấp I"
+    },
+    "line": {
+      "zhs": "快回来，我这里有药水！",
+      "zht": "快回來，我這裡有藥水！",
+      "jp": "早く戻って、薬剤を持ってるから！",
+      "ko": "어서 여기로 와요, 저한테 포션이 있어요!",
+      "en": "Come here, I have meds!",
+      "de": "Komm her, mit meinem Trank wirst du dich besser fühlen!",
+      "es": "¡Ven aquí, tengo pociones!",
+      "fr": "Par ici, j'ai des potions !",
+      "pt": "Venha aqui, tenho remédios!",
+      "ru": "Подойди, у меня есть лекарства!",
+      "id": "Ke sini! Aku punya obat!",
+      "th": "รีบกลับมาก่อนเถอะ ฉันมีโพชั่นอยู่นะ!",
+      "vi": "Hãy mau trở về, chỗ tôi có thuốc!"
+    }
+  },
+  {
+    "title": {
+      "zhs": "同伴生命值低·其二",
+      "zht": "同伴生命值低·其二",
+      "jp": "仲間HP低下·2",
+      "ko": "동료 HP 감소·두 번째",
+      "en": "Ally at Low HP: II",
+      "de": "Verbündeter hat niedrige LP II",
+      "es": "Aliado con vida baja (II)",
+      "fr": "Compagnon avec PV faibles (2)",
+      "pt": "Aliado com Vida baixa: II",
+      "ru": "Низкий уровень HP компаньона II",
+      "id": "HP Rekan Rendah: II",
+      "th": "ค่าพลังชีวิตของเพื่อนต่ำ - 2",
+      "vi": "HP Đồng Hành Thấp II"
+    },
+    "line": {
+      "zhs": "小心点，看准了再上！",
+      "zht": "小心點，看準了再上！",
+      "jp": "気をつけて、狙い通りに！",
+      "ko": "조심해요, 함부로 나서지 마요!",
+      "en": "Careful — think, then step!",
+      "de": "Vorsicht! Erst denken, dann handeln!",
+      "es": "¡Ten cuidado! ¡Primero piensa y luego muévete!",
+      "fr": "Attention : il faut penser avant d'agir !",
+      "pt": "Cuidado - pense, depois faça!",
+      "ru": "Осторожно! Сначала думай, потом действуй!",
+      "id": "Awas — berpikir dulu sebelum melangkah!",
+      "th": "ระวังหน่อยสิ ดูให้ดี ๆ ก่อนแล้วค่อยไปสู้!",
+      "vi": "Cẩn thận, nhìn cho đúng trước đã!"
     }
   },
   {

@@ -11,7 +11,7 @@
       "fr": "Première rencontre...",
       "pt": "Olá...",
       "ru": "Привет...",
-      "id": "Pertama Kali Bertemu",
+      "id": "Halo",
       "th": "พบกันครั้งแรก...",
       "vi": "Lần đầu gặp mặt..."
     },
@@ -139,7 +139,7 @@
       "fr": "Quand il pleut...",
       "pt": "Quando Está Chovendo...",
       "ru": "Когда идёт дождь...",
-      "id": "Waktu Hujan",
+      "id": "Ketika Turun Hujan",
       "th": "ในเวลาที่ฝนตก...",
       "vi": "Khi trời mưa..."
     },
@@ -203,7 +203,7 @@
       "fr": "Le vent souffle fort...",
       "pt": "A Ventania Está Chegando...",
       "ru": "Когда дует сильный ветер...",
-      "id": "Saat Angin Berembus",
+      "id": "Ketika Angin Berembus",
       "th": "ในเวลาที่ลมพัดแรง...",
       "vi": "Gió lớn quá..."
     },
@@ -1319,7 +1319,7 @@
       "ko": "선물 획득·세 번째",
       "en": "Receiving a Gift: III",
       "de": "Geschenk erhalten III",
-      "es": "Al recibir un regalo (II)",
+      "es": "Al recibir un regalo (III)",
       "fr": "Cadeau reçu (3)",
       "pt": "Recebendo Presentes — III",
       "ru": "Подарок III",
@@ -1606,7 +1606,7 @@
       "jp": "元素爆発·1",
       "ko": "원소폭발·첫 번째",
       "en": "Elemental Burst: I",
-      "de": "Spezialfähigkeit – I",
+      "de": "Spezialfähigkeit I",
       "es": "Habilidad Definitiva (I)",
       "fr": "Déchaînement élémentaire (1)",
       "pt": "Supremo - I",
@@ -1638,7 +1638,7 @@
       "jp": "元素爆発·2",
       "ko": "원소폭발·두 번째",
       "en": "Elemental Burst: II",
-      "de": "Spezialfähigkeit – II",
+      "de": "Spezialfähigkeit II",
       "es": "Habilidad Definitiva (II)",
       "fr": "Déchaînement élémentaire (2)",
       "pt": "Supremo - II",
@@ -1670,7 +1670,7 @@
       "jp": "元素爆発·3",
       "ko": "원소폭발·세 번째",
       "en": "Elemental Burst: III",
-      "de": "Spezialfähigkeit – III",
+      "de": "Spezialfähigkeit III",
       "es": "Habilidad Definitiva (III)",
       "fr": "Déchaînement élémentaire (3)",
       "pt": "Supremo - III",
@@ -1949,6 +1949,70 @@
       "id": "Rasanya aku agak pusing ....",
       "th": "เล่นจนเหนื่อยเลย เวียนหัวนิด ๆ แล้วเนี่ย...",
       "vi": "Chơi mệt rồi, hơi chóng mặt..."
+    }
+  },
+  {
+    "title": {
+      "zhs": "同伴生命值低·其一",
+      "zht": "同伴生命值低·其一",
+      "jp": "仲間HP低下·1",
+      "ko": "동료 HP 감소·첫 번째",
+      "en": "Ally at Low HP: I",
+      "de": "Verbündeter hat niedrige LP I",
+      "es": "Aliado con vida baja (I)",
+      "fr": "Compagnon avec PV faibles (1)",
+      "pt": "Aliado com Vida baixa: I",
+      "ru": "Низкий уровень HP компаньона I",
+      "id": "HP Rekan Rendah: I",
+      "th": "ค่าพลังชีวิตของเพื่อนต่ำ - 1",
+      "vi": "HP Đồng Hành Thấp I"
+    },
+    "line": {
+      "zhs": "火花骑士，爆破支援！",
+      "zht": "火花騎士，爆破支援！",
+      "jp": "火花騎士、爆破支援するよ！",
+      "ko": "불꽃 기사, 폭파 지원!",
+      "en": "I can make a big bang if you want!",
+      "de": "Ich kann einen großen Knall machen, wenn du willst!",
+      "es": "¡Puedo hacer un gran buuum si quieres!",
+      "fr": "Je peux faire un gros boum si besoin !",
+      "pt": "Posso fazer uma enorme explosão se quiser!",
+      "ru": "Если хочешь, я устрою большой взрыв!",
+      "id": "Aku bisa bikin bom-bom duar-duar kalau kamu mau!",
+      "th": "อัศวินดอกไม้เพลิง กองหนุนสุดจี๊ดมาแล้ว!",
+      "vi": "Kỵ Sĩ Tia Lửa, pùm!"
+    }
+  },
+  {
+    "title": {
+      "zhs": "同伴生命值低·其二",
+      "zht": "同伴生命值低·其二",
+      "jp": "仲間HP低下·2",
+      "ko": "동료 HP 감소·두 번째",
+      "en": "Ally at Low HP: II",
+      "de": "Verbündeter hat niedrige LP II",
+      "es": "Aliado con vida baja (II)",
+      "fr": "Compagnon avec PV faibles (2)",
+      "pt": "Aliado com Vida baixa: II",
+      "ru": "Низкий уровень HP компаньона II",
+      "id": "HP Rekan Rendah: II",
+      "th": "ค่าพลังชีวิตของเพื่อนต่ำ - 2",
+      "vi": "HP Đồng Hành Thấp II"
+    },
+    "line": {
+      "zhs": "你不要紧吧？",
+      "zht": "你不要緊吧？",
+      "jp": "だいじょーぶ？",
+      "ko": "괜찮아?",
+      "en": "Are you okay?",
+      "de": "Geht es dir gut?",
+      "es": "¿Estás bien?",
+      "fr": "Ça va ?",
+      "pt": "Você está bem?",
+      "ru": "Ты в порядке?",
+      "id": "Kamu enggak apa-apa?",
+      "th": "พี่ไหวอยู่ใช่มั้ย?",
+      "vi": "#{M#Anh}{F#Chị} không sao chứ?"
     }
   },
   {

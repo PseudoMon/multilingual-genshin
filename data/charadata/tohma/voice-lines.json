@@ -139,7 +139,7 @@
       "fr": "Quand il pleut...",
       "pt": "Quando Está Chovendo...",
       "ru": "Когда идёт дождь...",
-      "id": "Waktu Hujan",
+      "id": "Ketika Turun Hujan",
       "th": "ในเวลาที่ฝนตก...",
       "vi": "Khi trời mưa..."
     },
@@ -171,7 +171,7 @@
       "fr": "Quand le tonnerre gronde...",
       "pt": "Quando Está Trovejando...",
       "ru": "Когда гремит гром...",
-      "id": "Waktu Petir Menyambar",
+      "id": "Ketika Petir Menyambar",
       "th": "ในเวลาที่ฟ้าผ่า...",
       "vi": "Khi có sấm sét..."
     },
@@ -203,7 +203,7 @@
       "fr": "Quand il neige...",
       "pt": "Quando Está Nevando...",
       "ru": "Когда идёт снег...",
-      "id": "Waktu Turun Salju",
+      "id": "Ketika Turun Salju",
       "th": "ในเวลาที่หิมะตก...",
       "vi": "Khi tuyết rơi..."
     },
@@ -235,7 +235,7 @@
       "fr": "Il fait bon dehors...",
       "pt": "Quando Faz Sol...",
       "ru": "Когда светит солнце...",
-      "id": "Waktu Matahari Bersinar",
+      "id": "Ketika Matahari Bersinar",
       "th": "แดดส่องดีจัง...",
       "vi": "Ánh nắng thật chan hòa..."
     },
@@ -1415,7 +1415,7 @@
       "ko": "선물 획득·세 번째",
       "en": "Receiving a Gift: III",
       "de": "Geschenk erhalten III",
-      "es": "Al recibir un regalo (II)",
+      "es": "Al recibir un regalo (III)",
       "fr": "Cadeau reçu (3)",
       "pt": "Recebendo Presentes — III",
       "ru": "Подарок III",
@@ -1702,7 +1702,7 @@
       "jp": "元素爆発·1",
       "ko": "원소폭발·첫 번째",
       "en": "Elemental Burst: I",
-      "de": "Spezialfähigkeit – I",
+      "de": "Spezialfähigkeit I",
       "es": "Habilidad Definitiva (I)",
       "fr": "Déchaînement élémentaire (1)",
       "pt": "Supremo - I",
@@ -1734,7 +1734,7 @@
       "jp": "元素爆発·2",
       "ko": "원소폭발·두 번째",
       "en": "Elemental Burst: II",
-      "de": "Spezialfähigkeit – II",
+      "de": "Spezialfähigkeit II",
       "es": "Habilidad Definitiva (II)",
       "fr": "Déchaînement élémentaire (2)",
       "pt": "Supremo - II",
@@ -1766,7 +1766,7 @@
       "jp": "元素爆発·3",
       "ko": "원소폭발·세 번째",
       "en": "Elemental Burst: III",
-      "de": "Spezialfähigkeit – III",
+      "de": "Spezialfähigkeit III",
       "es": "Habilidad Definitiva (III)",
       "fr": "Déchaînement élémentaire (3)",
       "pt": "Supremo - III",
@@ -1981,6 +1981,70 @@
       "id": "Aduh, sakit ....",
       "th": "ซี๊ดด เจ็บนิดหน่อย...",
       "vi": "Hừ, có chút đau đấy..."
+    }
+  },
+  {
+    "title": {
+      "zhs": "同伴生命值低·其一",
+      "zht": "同伴生命值低·其一",
+      "jp": "仲間HP低下·1",
+      "ko": "동료 HP 감소·첫 번째",
+      "en": "Ally at Low HP: I",
+      "de": "Verbündeter hat niedrige LP I",
+      "es": "Aliado con vida baja (I)",
+      "fr": "Compagnon avec PV faibles (1)",
+      "pt": "Aliado com Vida baixa: I",
+      "ru": "Низкий уровень HP компаньона I",
+      "id": "HP Rekan Rendah: I",
+      "th": "ค่าพลังชีวิตของเพื่อนต่ำ - 1",
+      "vi": "HP Đồng Hành Thấp I"
+    },
+    "line": {
+      "zhs": "别怕，我会保护你的。",
+      "zht": "別怕，我會保護你的。",
+      "jp": "大丈夫、オレが守るから。",
+      "ko": "걱정 마, 내가 널 지킬 테니까",
+      "en": "Don't despair, I'm here to help.",
+      "de": "Keine Angst, ich werde dich beschützen.",
+      "es": "No temas, te protegeré.",
+      "fr": "Ne vous en faites pas, je suis là pour aider.",
+      "pt": "Não tema, te protegerei.",
+      "ru": "Не отчаивайся. Я здесь, чтобы помочь.",
+      "id": "Jangan putus asa, aku di sini untuk membantu.",
+      "th": "ไม่ต้องกลัวฉันจะปกป้องเธอเอง",
+      "vi": "Đừng sợ, tôi sẽ bảo vệ bạn."
+    }
+  },
+  {
+    "title": {
+      "zhs": "同伴生命值低·其二",
+      "zht": "同伴生命值低·其二",
+      "jp": "仲間HP低下·2",
+      "ko": "동료 HP 감소·두 번째",
+      "en": "Ally at Low HP: II",
+      "de": "Verbündeter hat niedrige LP II",
+      "es": "Aliado con vida baja (II)",
+      "fr": "Compagnon avec PV faibles (2)",
+      "pt": "Aliado com Vida baixa: II",
+      "ru": "Низкий уровень HP компаньона II",
+      "id": "HP Rekan Rendah: II",
+      "th": "ค่าพลังชีวิตของเพื่อนต่ำ - 2",
+      "vi": "HP Đồng Hành Thấp II"
+    },
+    "line": {
+      "zhs": "真是乱来，快去歇着。",
+      "zht": "真是亂來，快去歇著。",
+      "jp": "無茶しすぎだ、早く休め。",
+      "ko": "무리하긴, 빨리 가서 쉬어",
+      "en": "What a mess... go on, take a rest.",
+      "de": "Was für ein Chaos, ruh dich erstmal aus.",
+      "es": "Vaya desastre... Anda, ve y descansa.",
+      "fr": "Quel gâchis... Reposez-vous.",
+      "pt": "Que desastre... Vá, descanse.",
+      "ru": "Ну и дела... иди, отдохни.",
+      "id": "Kacau sekali ... ayo sana, istirahatlah.",
+      "th": "วุ่นวายจริง ๆ เลย รีบไปพักซะ",
+      "vi": "Đúng là liều lĩnh, mau đi nghỉ ngơi đi."
     }
   },
   {

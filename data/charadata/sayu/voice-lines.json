@@ -198,7 +198,7 @@
       "jp": "元素爆発·1",
       "ko": "원소폭발·첫 번째",
       "en": "Elemental Burst: I",
-      "de": "Spezialfähigkeit – I",
+      "de": "Spezialfähigkeit I",
       "es": "Habilidad Definitiva (I)",
       "fr": "Déchaînement élémentaire (1)",
       "pt": "Supremo - I",
@@ -230,7 +230,7 @@
       "jp": "元素爆発·2",
       "ko": "원소폭발·두 번째",
       "en": "Elemental Burst: II",
-      "de": "Spezialfähigkeit – II",
+      "de": "Spezialfähigkeit II",
       "es": "Habilidad Definitiva (II)",
       "fr": "Déchaînement élémentaire (2)",
       "pt": "Supremo - II",
@@ -262,7 +262,7 @@
       "jp": "元素爆発·3",
       "ko": "원소폭발·세 번째",
       "en": "Elemental Burst: III",
-      "de": "Spezialfähigkeit – III",
+      "de": "Spezialfähigkeit III",
       "es": "Habilidad Definitiva (III)",
       "fr": "Déchaînement élémentaire (3)",
       "pt": "Supremo - III",
@@ -509,6 +509,70 @@
       "id": "Fuh, lelah sekali.",
       "th": "เฮ้อ เหนื่อยจัง",
       "vi": "Phù, mệt quá."
+    }
+  },
+  {
+    "title": {
+      "zhs": "同伴生命值低·其一",
+      "zht": "同伴生命值低·其一",
+      "jp": "仲間HP低下·1",
+      "ko": "동료 HP 감소·첫 번째",
+      "en": "Ally at Low HP: I",
+      "de": "Verbündeter hat niedrige LP I",
+      "es": "Aliado con vida baja (I)",
+      "fr": "Compagnon avec PV faibles (1)",
+      "pt": "Aliado com Vida baixa: I",
+      "ru": "Низкий уровень HP компаньона I",
+      "id": "HP Rekan Rendah: I",
+      "th": "ค่าพลังชีวิตของเพื่อนต่ำ - 1",
+      "vi": "HP Đồng Hành Thấp I"
+    },
+    "line": {
+      "zhs": "我来掩护。",
+      "zht": "我來掩護。",
+      "jp": "拙が援護する。",
+      "ko": "내가 엄호할게",
+      "en": "I'll protect you.",
+      "de": "Ich werde dich beschützen.",
+      "es": "Yo te protegeré.",
+      "fr": "Je vais te protéger.",
+      "pt": "Protegerei você.",
+      "ru": "Я тебя защищу.",
+      "id": "Aku melindungimu.",
+      "th": "ฉันจะปกป้องเธอเอง",
+      "vi": "Để tôi yểm trợ."
+    }
+  },
+  {
+    "title": {
+      "zhs": "同伴生命值低·其二",
+      "zht": "同伴生命值低·其二",
+      "jp": "仲間HP低下·2",
+      "ko": "동료 HP 감소·두 번째",
+      "en": "Ally at Low HP: II",
+      "de": "Verbündeter hat niedrige LP II",
+      "es": "Aliado con vida baja (II)",
+      "fr": "Compagnon avec PV faibles (2)",
+      "pt": "Aliado com Vida baixa: II",
+      "ru": "Низкий уровень HP компаньона II",
+      "id": "HP Rekan Rendah: II",
+      "th": "ค่าพลังชีวิตของเพื่อนต่ำ - 2",
+      "vi": "HP Đồng Hành Thấp II"
+    },
+    "line": {
+      "zhs": "先退下休息。",
+      "zht": "先退下休息。",
+      "jp": "一旦下がるんだ。",
+      "ko": "일단 물러가서 쉬어",
+      "en": "Take 5. Or maybe 10.",
+      "de": "Tritt zurück und mach ein Nickerchen.",
+      "es": "Descansa cinco minutos... o diez.",
+      "fr": "Repose-toi un peu.",
+      "pt": "Dê uma pausa! Ou talvez todas as pausas.",
+      "ru": "Отдохни пять минуток. Или десять.",
+      "id": "Istirahat dulu sebentar, lama juga boleh.",
+      "th": "ถอยไปพักก่อนเถอะ",
+      "vi": "Bạn về nghỉ ngơi trước đi."
     }
   },
   {
@@ -939,7 +1003,7 @@
       "fr": "Quand il pleut...",
       "pt": "Quando Está Chovendo...",
       "ru": "Когда идёт дождь...",
-      "id": "Waktu Hujan",
+      "id": "Ketika Turun Hujan",
       "th": "ในเวลาที่ฝนตก...",
       "vi": "Khi trời mưa..."
     },
@@ -971,7 +1035,7 @@
       "fr": "Quand le tonnerre gronde...",
       "pt": "Quando Está Trovejando...",
       "ru": "Когда гремит гром...",
-      "id": "Waktu Petir Menyambar",
+      "id": "Ketika Petir Menyambar",
       "th": "ในเวลาที่ฟ้าผ่า...",
       "vi": "Khi có sấm sét..."
     },
@@ -1003,7 +1067,7 @@
       "fr": "Quand il neige...",
       "pt": "Quando Está Nevando...",
       "ru": "Когда идёт снег...",
-      "id": "Waktu Turun Salju",
+      "id": "Ketika Turun Salju",
       "th": "ในเวลาที่หิมะตก...",
       "vi": "Khi tuyết rơi..."
     },
@@ -1035,7 +1099,7 @@
       "fr": "Il fait bon dehors...",
       "pt": "Quando Faz Sol...",
       "ru": "Когда светит солнце...",
-      "id": "Waktu Matahari Bersinar",
+      "id": "Ketika Matahari Bersinar",
       "th": "แดดส่องดีจัง...",
       "vi": "Ánh nắng thật chan hòa..."
     },
@@ -1099,7 +1163,7 @@
       "fr": "Le vent souffle fort...",
       "pt": "A Ventania Está Chegando...",
       "ru": "Когда дует сильный ветер...",
-      "id": "Saat Angin Berembus",
+      "id": "Ketika Angin Berembus",
       "th": "ในเวลาที่ลมพัดแรง...",
       "vi": "Gió lớn quá..."
     },
@@ -1451,7 +1515,7 @@
       "fr": "Détails intéressants...",
       "pt": "Coisas Interessantes...",
       "ru": "Интересные вещи...",
-      "id": "Cerita yang Menarik",
+      "id": "Kisah Menarik",
       "th": "ข้อมูลที่น่าสนใจ...",
       "vi": "Những kiến thức thú vị..."
     },
@@ -1815,7 +1879,7 @@
       "en": "Alright, fine... I'll tell you. But you'd better not laugh, or I'm never talking to you again. Uh so, my style of ninjutsu is called... um... Yoohoo Art.\n\nThe reason is supposedly that our style focuses on making fun of the enemy, but still... I mean... *sigh*",
       "de": "Na gut, schön ... Ich sag’s dir. Aber lach lieber nicht, sonst rede ich nie wieder mit dir. Äh, also, meine Ninja-Kunst nennt sich ... ähm ... Juhu-Stil.\n\nDer Grund ist angeblich, dass unser Stil sich darauf konzentriert, den Feind auszutricksen, aber trotzdem ... Ich meine ... *seufz*",
       "es": "Bueno, está bien, te lo diré... Pero no puedes reírte, o no te dirigiré la palabra nunca más. Mi técnica ninja se llama... técnica “¡Yujuuu!”.\n\nSupuestamente, la razón es porque nuestro estilo ninja se basa en reírnos del enemigo, pero aun así... *Suspira*",
-      "fr": "C'est bon, je peux te le dire. Mais promets-moi d'abord de ne pas rire, ou je ne t'adresserais plus jamais la parole. J'appartiens à l'École Yoohoo...\n\nApparemment, elle a été nommée ainsi parce que ses techniques consiste à déstabiliser l'ennemi en se moquant de lui, mais... *soupir*",
+      "fr": "C'est bon, je peux te le dire. Mais promets-moi d'abord de ne pas rire, ou je ne t'adresserais plus jamais la parole. J'appartiens à l'École Yoohoo...\n\nApparemment, elle a été nommée ainsi parce que ses techniques consiste à déstabiliser l'ennemi en se moquant de lui, mais... *soupir* ...",
       "pt": "Tá bom, tudo bem... Eu conto para você. Mas espero que você não comece a rir, senão nunca mais falo com você de novo. Uh então, meu estilo de Ninjutsu se chama... Hã... Arte Yoohoo.\n\nO motivo é que, supostamente, nosso estilo se concentra em tirar sarro do inimigo, mas, ainda assim... Quer dizer... *Suspiro*",
       "ru": "Ну ладно, ладно... Я расскажу тебе. Но если ты будешь смеяться, то я больше никогда с тобой не заговорю. Моя школа ниндзюцу называется Искусство Юху. Якобы наше направление строится вокруг высмеивания врага, но... да что тут скажешь...",
       "id": "Baiklah, baiklah... Aku akan memberitahumu. Tapi sebaiknya kamu tidak tertawa, atau aku tidak akan pernah bicara denganmu lagi. Uh jadi, gaya ninjutsuku disebut... um... Seni Yoohoo.\n\nAlasannya konon karena gaya kita berfokus pada cara untuk mengolok-olok musuh, tapi tetap saja... maksudku... *huff*",
@@ -2027,7 +2091,7 @@
       "fr": "Plats préférés...",
       "pt": "Comida Favorita...",
       "ru": "Любимая еда...",
-      "id": "Makanan yang disukai",
+      "id": "Makanan Favorit",
       "th": "อาหารที่ชอบ...",
       "vi": "Món ăn yêu thích..."
     },
@@ -2151,7 +2215,7 @@
       "ko": "선물 획득·세 번째",
       "en": "Receiving a Gift: III",
       "de": "Geschenk erhalten III",
-      "es": "Al recibir un regalo (II)",
+      "es": "Al recibir un regalo (III)",
       "fr": "Cadeau reçu (3)",
       "pt": "Recebendo Presentes — III",
       "ru": "Подарок III",

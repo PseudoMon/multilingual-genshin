@@ -1,0 +1,200 @@
+[
+  {
+    "title": {
+      "zhs": "巡护深林",
+      "zht": "巡護深林",
+      "jp": "ディープウッドパトロール",
+      "ko": "깊은 숲의 순찰자",
+      "en": "Deepwood Patrol",
+      "de": "Hüterin im tiefen Wald",
+      "es": "Patrulla forestal",
+      "fr": "Patrouille sylvestre",
+      "pt": "Patrulha Florestal",
+      "ru": "Охрана чащи",
+      "id": "Deepwood Patrol",
+      "th": "Deepwood Patrol",
+      "vi": "Bảo Vệ Rừng Rậm"
+    },
+    "description": {
+      "zhs": "柯莱处于队伍后台时，元素充能效率提升20%。",
+      "zht": "柯萊處於隊伍後臺時，元素充能效率提升20%。",
+      "jp": "コレイが待機状態の時、元素チャージ効率+20%。",
+      "ko": "콜레이가 대기 상태일 때, 원소 충전 효율이 20% 상승한다",
+      "en": "When in the party and not on the field, Collei's Energy Recharge is increased by 20%.",
+      "de": "Erhöht Colleis Aufladerate um 20 %, wenn sie inaktiv in der Truppe ist.",
+      "es": "Cuando Collei está en tu equipo pero no en combate, su Recarga de Energía aumenta en un 20%.",
+      "fr": "La recharge d'énergie de Collei augmente de 20 % lorsqu'elle fait partie de l'équipe mais n'est pas déployée.",
+      "pt": "Quando Collei está na equipe, mas não no campo de batalha, sua Recarga de Energia é aumentada em 20%.",
+      "ru": "Когда Коллеи в отряде, но не является активным персонажем, её восстановление энергии повышается на 20%.",
+      "id": "Ketika Collei ada dalam party namun sedang tidak berada di medan pertempuran, Energy Recharge Collei meningkat 20%.",
+      "th": "เมื่อ Collei อยู่ในทีม แต่ไม่ได้เข้าร่วมการต่อสู้ ประสิทธิภาพการฟื้นฟูพลังงานธาตุจะเพิ่มขึ้น 20%",
+      "vi": "Collei khi không ra trận, Hiệu Quả Nạp Nguyên Tố tăng 20%."
+    },
+    "imgid": "constellation_1"
+  },
+  {
+    "title": {
+      "zhs": "漫行山薮",
+      "zht": "漫行山藪",
+      "jp": "フォレストハイカー",
+      "ko": "언덕과 산림을 지나",
+      "en": "Through Hill and Copse",
+      "de": "Wanderin zwischen Bergen und Seen",
+      "es": "A través de los árboles",
+      "fr": "À travers collines et bosquets",
+      "pt": "Pelas Colinas e Bosques",
+      "ru": "По горам и лесам",
+      "id": "Through Hill and Copse",
+      "th": "Through Hill and Copse",
+      "vi": "Dạo Bước Đồi Cỏ"
+    },
+    "description": {
+      "zhs": "固有天赋「飞叶迴斜」转变为：\n<color=#FFD780FF>飞叶轮</color>返回时，将为角色赋予固有天赋「飞叶迴斜」的「新叶」状态，持续对身边的敌人造成相当于柯莱攻击力40%的<color=#99FF88FF>草元素伤害</color>，持续3秒。\n从施放<color=#FFD780FF>拂花偈叶</color>开始，到此次新叶状态消失前，如果队伍中自己的角色触发了燃烧、原激化、超激化、蔓激化、绽放、超绽放或烈绽放反应，则使此次新叶效果的持续时间延长3秒。\n新叶效果至多通过这种方式延长一次持续时间；在持续期间再次产生新叶效果时，将移除原有的效果。新叶效果造成的伤害视为元素战技伤害。\n需要解锁固有天赋「飞叶迴斜」。",
+      "zht": "固有天賦「飛葉迴斜」轉變為：\n<color=#FFD780FF>飛葉輪</color>返回時，將為角色賦予固有天賦「飛葉迴斜」的「新葉」狀態，持續對身邊的敵人造成相當於柯萊攻擊力40%的<color=#99FF88FF>草元素傷害</color>，持續3秒。\n從施放<color=#FFD780FF>拂花偈葉</color>開始，到此次新葉狀態消失前，如果隊伍中自己的角色觸發了燃燒、原激化、超激化、蔓激化、綻放、超綻放或烈綻放反應，則使此次新葉效果的持續時間延長3秒。\n新葉效果至多依此方式延長一次持續時間；在持續期間再次產生新葉效果時，將移除原有的效果。新葉效果造成的傷害視為元素戰技傷害。\n需要解鎖固有天賦「飛葉迴斜」。",
+      "jp": "固有天賦「フライリーフワインダー」が下記のように変化する。\n<color=#FFD780FF>リーフブーメラン</color>が戻ってきた時、キャラクターに固有天賦「フライリーフワインダー」の「芽生え」状態を付与し、持続的に周囲の敵にコレイの攻撃力40%分の<color=#99FF88FF>草元素ダメージ</color>を与える、継続時間3秒。\n<color=#FFD780FF>花触葉讃</color>発動から今回の芽生え状態が消失するまでの間に、チーム内の自身キャラクターが燃焼、原激化、超激化、草激化、開花、超開花、または烈開花反応を起こすと、今回の芽生え状態の継続時間+3秒。\nこの方式により芽生え状態を延長できるのは最大1回まで。芽生え状態中に再度獲得すると、既存の芽生え状態が先にクリアされる。芽生え状態によるダメージは元素スキルダメージと見なされる。\n固有天賦「フライリーフワインダー」を解放する必要がある。",
+      "ko": "고유 특성 「되돌아오는 잎새」가 다음과 같이 전환된다:\n<color=#FFD780FF>부메랑</color>이 되돌아올 때, 캐릭터에게 고유 특성 「되돌아오는 잎새」의 「신엽」 상태가 부여되고, 지속적으로 자신의 주변에 있는 적에게 콜레이 공격력의 40%에 해당하는 <color=#99FF88FF>풀 원소 피해</color>를 준다. 지속 시간: 3초.\n<color=#FFD780FF>스쳐 지나가는 풀잎</color>이 발동된 후 신엽 상태가 사라지기 전에 파티 내 자신의 캐릭터가 연소, 활성, 촉진, 발산, 개화, 만개 혹은 발화 반응을 발동할 경우 해당 신엽 효과의 지속 시간이 3초 증가한다.\n신엽 효과는 해당 방식으로 최대 1회까지 지속 시간이 연장된다. 신엽 효과의 지속 시간 동안 새로운 신엽 효과가 생성되면 원래 있던 효과는 사라진다. 신엽 효과로 가하는 피해는 원소전투 스킬 피해로 취급한다.\n고유 특성 「되돌아오는 잎새」를 해금해야 한다",
+      "en": "The Passive Talent Floral Sidewinder is changed to this:\nThe <color=#FFD780FF>Floral Ring</color> will grant the character the Sprout effect from Floral Sidewinder upon return, dealing 40% of Collei's ATK as <color=#99FF88FF>Dendro DMG</color> to nearby opponents for 3s.\nFrom the moment of using <color=#FFD780FF>Floral Brush</color> to the moment when this instance of Sprout effect ends, if any of your party members triggers Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, or Burgeon reactions, the Sprout effect will be extended by 3s.\nThe Sprout effect can only be extended this way once. If another Sprout effect is triggered during its initial duration, the initial effect will be removed. DMG dealt by Sprout is considered Elemental Skill DMG.\nRequires you to have unlocked the Floral Sidewinder Passive Talent.",
+      "de": "Ändert das passive Talent „Wiederkehr des fliegenden Laubs“ wie folgt:\nDas <color=#FFD780FF>fliegende Laubrad</color> verleiht bei seiner Rückkehr der Figur den Effekt „Jungtrieb“ des passiven Talents „Wiederkehr des fliegenden Laubs“, der 3 s lang fortlaufend den Gegnern in der Nähe <color=#99FF88FF>Dendro-Schaden</color> in Höhe von 40 % von Colleis ANG zufügt.\nWenn eines der eigenen Truppenmitglieder nach Anwenden der Fähigkeit <color=#FFD780FF>Der Kämpferin Laub</color> und, bevor der aktuelle Effekt „Jungtrieb“ endet, Reaktionen wie „In Flammen“, „Urwuchs“, „Suprawuchs“, „Rankenwuchs“, „Sprießen“, „Supraspross“ oder „Flammenspross“ auslöst, wird dieser „Jungtrieb“ um 3 s verlängert.\nDie Dauer des Effekts „Jungtrieb“ kann nur einmal auf diese Weise verlängert werden. Wird während der Dauer ein weiterer „Jungtrieb“ erzeugt, ersetzt er den bestehenden. Der vom Jungtrieb-Effekt verursachte Schaden gilt als Elementarfähigkeitsschaden.\nDas passive Talent „Wiederkehr des fliegenden Laubs“ muss zuerst freigeschaltet werden.",
+      "es": "Transforma el talento pasivo “Retorno foliáceo”:\nCuando el <color=#FFD780FF>bumerán foliáceo</color> regresa, otorga al personaje el estado de “germinación” de dicho talento pasivo para que inflija continuamente <color=#99FF88FF>Daño Dendro</color> contra los enemigos cercanos en una cantidad equivalente al 40% del ATQ de Collei durante 3 s.\nDesde que Collei usa <color=#FFD780FF>Caricia de las flores</color> hasta que desaparece el estado de germinación, si algún personaje de tu equipo causa una reacción de Quemadura, Aceleración, Intensificación, Propagación, Florecimiento, Sobreflorecimiento o Crepitar, la duración de germinación aumenta en 3 s.\nLa duración de germinación solo se puede aumentar una vez de esta manera como máximo. Si otro efecto de germinación se activa antes de que concluya, se eliminará el efecto anterior. El daño infligido por germinación se considera daño de Habilidad Elemental.\nEs necesario desbloquear el talento pasivo “Retorno foliáceo”.",
+      "fr": "L'aptitude passive « Retour folié » est modifiée :\nAu retour de l'<color=#FFD780FF>anneau floral</color>, le personnage obtient l'effet Germe de l'aptitude passive « Retour folié », infligeant de façon continue aux ennemis proches des <color=#99FF88FF>DGT Dendro</color> d'une valeur équivalant à 40 % de l'ATQ de Collei pendant 3 s.\nSi un membre de votre équipe déclenche une réaction de Brûlure, de Stimulation, de Suractivation, de Propagation, de Fleurissement, d'Exubérance ou de Bourgeonnement entre l'utilisation de <color=#FFD780FF>Brosse florale</color> et l'arrêt de cet effet Germe, la durée de l'effet est prolongée de 3 s.\nL'effet peut être prolongé 1 fois maximum de cette manière. Si un nouvel effet Germe est déclenché pendant la durée d'un effet Germe existant, l'effet d'origine est supprimé. Les DGT infligés par l'effet Germe sont considérés comme étant des DGT de compétence élémentaire.\nL'aptitude passive « Retour folié » doit être déjà débloquée.",
+      "pt": "Transforma o Talento Passivo Retorno Floral: \nQuando o <color=#FFD780FF>Bumerangue Floral</color> retorna, fornece ao personagem o efeito \"Brotar\" do Talento Passivo \"Retorno Floral\", infligindo continuamente 40% do ATQ de Collei como <color=#99FF88FF>Dano Dendro</color> contra os inimigos próximos por 3s.\nQuando <color=#FFD780FF>Carícia das Flores</color> é lançada até o fim do estado \"Brotar\", se qualquer um dos membros da equipe desencadear as reações de Queimaduras, Aceleração, Intensificação, Propagação, Florescimento, Superflorescimento ou Germinação antes que essa instância do efeito \"Brotar\" termine, a duração do efeito será estendida em 3s.\nO efeito \"Brotar\" só pode ser estendido dessa forma uma vez. Se outro efeito \"Brotar\" for desencadeado na duração do efeito \"Brotar\" inicial, o efeito original será removido. O Dano infligido pelo efeito \"Brotar\" é considerado Dano de Habilidade Elemental.\nRequer que você tenha desbloqueado o Talento Passivo \"Retorno Floral\".",
+      "ru": "Пассивный талант «Возвращение цветов» меняется следующим образом:\nВозвращаясь, <color=#FFD780FF>Цветочное кольцо</color> наделяет персонажа эффектом Ростка, который наносит врагам поблизости продолжительный <color=#99FF88FF>Дендро урон</color>, равный 40% от силы атаки Коллеи. Эффект длится 3 сек.\nЕсли с момента использования навыка <color=#FFD780FF>Сметающие цветы</color> до завершения текущего Ростка свой персонаж отряда вызывает Горение, Стимуляцию, Обострение, Разрастание, Бутонизацию, Вегетацию или Цветение, действие Ростка продлится на 3 сек.\nПродлить действие Ростка таким способом можно только один раз. При повторной активации Ростка текущий эффект снимается. Урон, наносимый эффектом «Росток», считается уроном элементального навыка.\nТребуется разблокировать пассивный талант «Возвращение цветов».",
+      "id": "Talenta Pasif \"Floral Sidewinder\" akan berubah menjadi:\nSaat <color=#FFD780FF>Floral Ring</color> kembali, Talenta Pasif \"Floral Sidewinder\" akan memberikan status \"Sprout\" untuk Karakter, yang akan mengakibatkan <color=#99FF88FF>Dendro DMG</color> secara terus-menerus kepada musuh di sekitar sebesar 40% dari ATK Collei selama 3 detik.\nSejak melancarkan <color=#FFD780FF>Floral Brush</color> dan sebelum status Sprout kali ini hilang, jika ada Karakter di dalam party yang memicu reaksi Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, atau Burgeon, maka durasi efek Sprout kali ini diperpanjang 3 detik.\nPerpanjangan durasi efek Sprout yang bisa didapatkan dengan cara ini adalah 1 kali. Jika efek Sprout terpicu lagi selama durasinya berlangsung, maka efek yang awal akan dihapus. DMG yang diakibatkan oleh efek Sprout dianggap sebagai DMG Elemental Skill.\nHarus sudah membuka Talenta Pasif Floral Sidewinder lebih dulu.",
+      "th": "พรสวรรค์ติดตัว Floral Sidewinder เปลี่ยนเป็น:\nเมื่อ <color=#FFD780FF>Floral Ring</color> ย้อนกลับมา จะมอบเอฟเฟกต์ \"Sprout\" ของพรสวรรค์ติดตัว \"Floral Sidewinder\" ให้แก่ตัวละคร ซึ่งจะสร้าง<color=#99FF88FF>ความเสียหายไม้</color>เป็น 40% ของพลังโจมตีของ Collei แก่ศัตรูที่อยู่รอบตัวอย่างต่อเนื่อง เป็นเวลา 3 วินาที\nช่วงเวลาตั้งแต่ตอนที่ใช้ <color=#FFD780FF>Floral Brush</color> ไปจนถึงก่อนตอนที่เอฟเฟกต์ Sprout ของครั้งนั้น ๆ หายไป หากตัวละครในทีมของตนเองทำให้เกิดปฏิกิริยาติดไฟ, ปลุกเร้า, บีบอัด, แพร่ขยาย, งอกเงย, ไฮเปอร์บลูม หรือเบ่งบาน จะทำให้ช่วงเวลาต่อเนื่องของเอฟเฟกต์ Sprout ในครั้งนี้ยาวนานขึ้น 3 วินาที\nช่วงเวลาต่อเนื่องของเอฟเฟกต์ Sprout จะสามารถเพิ่มด้วยวิธีนี้ได้เพียงครั้งเดียวเท่านั้น; เมื่อเกิดเอฟเฟกต์ Sprout ขึ้นซ้ำอีกครั้งในระหว่างช่วงเวลาต่อเนื่อง จะเป็นการลบล้างเอฟเฟกต์เดิมที่มีอยู่ โดยความเสียหายที่เอฟเฟกต์ Sprout สร้าง จะถูกมองว่าเป็นความเสียหายสกิลธาตุ\nต้องปลดล็อกพรสวรรค์ติดตัว \"Floral Sidewinder\" ก่อน",
+      "vi": "Thiên phú cố định \"Lá Khẽ Bay Nghiêng\" sẽ chuyển thành:\nKhi <color=#FFD780FF>Phi Diệp Luân</color> quay về sẽ cung cấp cho nhân vật trạng thái \"Lá Mới\" của thiên phú cố định \"Lá Khẽ Bay Nghiêng\", liên tục gây cho kẻ địch xung quanh một lượng <color=#99FF88FF>Sát Thương Nguyên Tố Thảo</color> bằng 40% tấn công của Collei, duy trì 3s.\nTừ khi thi triển <color=#FFD780FF>Xua Hoa Quét Lá</color> đến trước khi trạng thái \"Lá Mới\" lần này kết thúc, nếu nhân vật của bản thân trong đội kích hoạt phản ứng Thiêu Đốt, Sinh Trưởng, Tăng Cường, Lan Tràn, Sum Suê, Nở Rộ hoặc Bung Tỏa sẽ khiến trạng thái \"Lá Mới\" lần này kéo dài thêm 3s.\nTrạng thái Lá Mới tối đa kéo dài thời gian duy trì một lần thông qua cách này; khi trong thời gian duy trì nếu kích hoạt hiệu ứng Lá Mới lần nữa sẽ xóa hiệu ứng ban đầu. Sát thương gây ra của hiệu ứng Lá Mới được tính là sát thương Kỹ Năng Nguyên Tố.\nCần mở khóa thiên phú cố định \"Lá Khẽ Bay Nghiêng\"."
+    },
+    "imgid": "constellation_2"
+  },
+  {
+    "title": {
+      "zhs": "夏堇芳菲",
+      "zht": "夏堇芳菲",
+      "jp": "セントオブサマー",
+      "ko": "여름의 향기",
+      "en": "Scent of Summer",
+      "de": "Blütenduft im Sommer",
+      "es": "Fragancia estival",
+      "fr": "Fragrance estivale",
+      "pt": "Fragrância de Verão",
+      "ru": "Благоухание лета",
+      "id": "Scent of Summer",
+      "th": "Scent of Summer",
+      "vi": "Hương Thơm Nắng Hạ"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>拂花偈叶</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>拂花偈葉</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>花触葉讃</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>스쳐 지나가는 풀잎</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Floral Brush</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Der Kämpferin Laub</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Caricia de las flores</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Brosse florale</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o nível da Habilidade <color=#FFD780FF>Carícia das Flores</color> em 3.\nO nível máximo de elevação é 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Сметающие цветы</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Floral Brush</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลของสกิล <color=#FFD780FF>Floral Brush</color> ขึ้น 3 ระดับ\nเพิ่มได้สูงสุดถึงระดับ 15",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Xua Hoa Quét Lá</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_3"
+  },
+  {
+    "title": {
+      "zhs": "骞林馈遗",
+      "zht": "騫林饋遺",
+      "jp": "ギフトオブフォレスト",
+      "ko": "숲의 선물",
+      "en": "Gift of the Woods",
+      "de": "Waldgeschenk unterm Mond",
+      "es": "Obsequio de la naturaleza",
+      "fr": "Don de la nature",
+      "pt": "Presente da Floresta",
+      "ru": "Дар лесов",
+      "id": "Gift of the Woods",
+      "th": "Gift of the Woods",
+      "vi": "Quà Tặng Rừng Sâu"
+    },
+    "description": {
+      "zhs": "施放<color=#FFD780FF>猫猫秘宝</color>时，将使队伍中附近的所有角色（不包括柯莱自己）的元素精通提升60点，持续12秒。",
+      "zht": "施放<color=#FFD780FF>貓貓秘寶</color>時，將使隊伍中附近的所有角色（不包括柯萊自己）的元素精通提升60點，持續12秒。",
+      "jp": "<color=#FFD780FF>ニャンコトレジャー</color>を発動すると、周囲のチーム全員（コレイ自身を除く）の元素熟知+60、継続時間12秒。",
+      "ko": "<color=#FFD780FF>냥냥 비책</color> 발동 시 근처에 있는 파티 내 모든 캐릭터(콜레이 제외)의 원소 마스터리가 60pt 증가한다. 지속 시간: 12초",
+      "en": "Using <color=#FFD780FF>Trump-Card Kitty</color> will increase all nearby characters' Elemental Mastery by 60 for 12s (not including Collei herself).",
+      "de": "Erhöht bei Anwendung der Fähigkeit <color=#FFD780FF>Geheimer Katzenschatz</color> die Elementarkunde aller Truppenmitglieder in der Nähe (außer Collei) 12 s lang um 60 Punkte.",
+      "es": "Al usar <color=#FFD780FF>Secreto miauravilloso</color>, la Maestría Elemental de todos los personajes del equipo cercanos (a excepción de Collei) aumenta en 60 pts. durante 12 s.",
+      "fr": "L'utilisation d'<color=#FFD780FF>Atout félin</color> augmente la maîtrise élémentaire de tous les personnages (hormis Collei) de l'équipe à proximité de 60 pts pendant 12 s.",
+      "pt": "Ao usar <color=#FFD780FF>Segredo Miauvilhoso</color> aumenta a Proficiência Elemental de todos os personagens próximos em 60 por 12s (exceto para a própria Collei).",
+      "ru": "Активация <color=#FFD780FF>Кошачьего сокровища</color> увеличивает мастерство стихий всех членов отряда поблизости (кроме самой Коллеи) на 60 ед. на 12 сек.",
+      "id": "Saat melancarkan <color=#FFD780FF>Trump-Card Kitty</color>, akan meningkatkan 60 poin Elemental Mastery seluruh anggota party di sekitar (tidak termasuk Collei) selama 12 detik.",
+      "th": "เมื่อใช้ <color=#FFD780FF>Trump-Card Kitty</color> จะทำให้ความชำนาญธาตุ ของตัวละครทั้งหมดในทีม (ไม่รวมตัวของ Collei เอง) ที่อยู่ในบริเวณใกล้เคียง เพิ่มขึ้น 60 หน่วย เป็นเวลา 12 วินาที",
+      "vi": "Khi thi triển <color=#FFD780FF>Báu Vật Meo Meo</color>, sẽ khiến tất cả nhân vật trong đội gần đó (không bao gồm Collei) tăng 60 điểm Tinh Thông Nguyên Tố, duy trì 12s."
+    },
+    "imgid": "constellation_4"
+  },
+  {
+    "title": {
+      "zhs": "俱象残火",
+      "zht": "俱象殘火",
+      "jp": "オールエンバーズ",
+      "ko": "꺼져가는 불빛",
+      "en": "All Embers",
+      "de": "Schwelendes Feuer aus Illusionen",
+      "es": "Plenitud de las ascuas",
+      "fr": "Plénitude des braises",
+      "pt": "Plenitude das Chamas",
+      "ru": "Всё как угли",
+      "id": "All Embers",
+      "th": "All Embers",
+      "vi": "Tro Tàn Vạn Vật"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>猫猫秘宝</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>貓貓秘寶</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>ニャンコトレジャー</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>냥냥 비책</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Trump-Card Kitty</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Geheimer Katzenschatz</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Secreto miauravilloso</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Atout félin</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o nível de <color=#FFD780FF>Segredo Miauvilhoso</color> em 3.\nO nível máximo de elevação é 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Кошачье сокровище</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Trump-Card Kitty</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลของสกิล <color=#FFD780FF>Trump-Card Kitty</color> ขึ้น 3 ระดับ\nเพิ่มได้สูงสุดถึงระดับ 15",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Báu Vật Meo Meo</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_5"
+  },
+  {
+    "title": {
+      "zhs": "坠镞为林",
+      "zht": "墜鏃為林",
+      "jp": "フォーリングアロー",
+      "ko": "낙하하는 화살의 숲",
+      "en": "Forest of Falling Arrows",
+      "de": "Stählerner Wald aus Pfeilen",
+      "es": "Bosque de flechas",
+      "fr": "Bosquet de flèches",
+      "pt": "Bosque das Flechas",
+      "ru": "Лес падающих стрел",
+      "id": "Forest of Falling Arrows",
+      "th": "Forest of Falling Arrows",
+      "vi": "Rừng Nơi Tên Đáp"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>飞叶轮</color>命中时，会产生一个迷你柯里安巴，造成相当于柯莱攻击力200%的<color=#99FF88FF>草元素伤害</color>。\n每次施放<color=#FFD780FF>拂花偈叶</color>至多产生1次迷你柯里安巴。",
+      "zht": "<color=#FFD780FF>飛葉輪</color>命中時，會產生一個迷你柯里安巴，造成相當於柯萊攻擊力200%的<color=#99FF88FF>草元素傷害</color>。\n每次施放<color=#FFD780FF>拂花偈葉</color>至多產生1次迷你柯里安巴。",
+      "jp": "<color=#FFD780FF>リーフブーメラン</color>が命中すると、ミニコレアンバーを1体生成し、コレイの攻撃力200%分の<color=#99FF88FF>草元素ダメージ</color>を与える。\n<color=#FFD780FF>花触葉讃</color>1回につき、生成できるミニコレアンバーは1体まで。",
+      "ko": "<color=#FFD780FF>부메랑</color>이 명중 시, 1개의 미니 콜린엔바가 생성되고, 콜레이 공격력의 200%에 해당하는 <color=#99FF88FF>풀 원소 피해</color>를 준다.\n<color=#FFD780FF>스쳐 지나가는 풀잎</color>을 발동할 때마다 최대 1개의 미니 콜린엔바가 생성된다",
+      "en": "When the <color=#FFD780FF>Floral Ring</color> hits, it will create a miniature Cuilein-Anbar that will deal 200% of Collei's ATK as <color=#99FF88FF>Dendro DMG</color>.\nEach <color=#FFD780FF>Floral Brush</color> can only create one such miniature Cuilein-Anbar.",
+      "de": "Bei Treffern mit <color=#FFD780FF>dem fliegenden Laubrad</color> erschafft es ein Mini-Cuilein-Anbar, das <color=#99FF88FF>Dendro-Schaden</color> in Höhe von 200 % von Colleis ANG verursacht.\nJede Anwendung von <color=#FFD780FF>Der Kämpferin Laub</color> kann nur 1 Mini-Cuilein-Anbar erschaffen.",
+      "es": "Cuando el <color=#FFD780FF>bumerán foliáceo</color> golpea a un enemigo, se crea un mini-Colleámbar que inflige <color=#99FF88FF>Daño Dendro</color> en una cantidad equivalente al 200% del ATQ de Collei.\nSolo se puede crear 1 mini-Colleámbar cada vez que se use <color=#FFD780FF>Caricia de las flores</color>.",
+      "fr": "Lorsque l'<color=#FFD780FF>anneau floral</color> touche, il crée un Cuilein-Anbar miniature qui inflige des <color=#99FF88FF>DGT Dendro</color> d'une valeur équivalant à 200 % de l'ATQ de Collei.\nChaque utilisation de <color=#FFD780FF>Brosse florale</color> permet de créer 1 Cuilein-Anbar miniature maximum.",
+      "pt": "Quando o <color=#FFD780FF>Bumerangue Floral</color> atingir, ele irá criar uma Collambei em miniatura que inflige 200% do ATQ da Collei como <color=#99FF88FF>Dano Dendro</color>.\nCada <color=#FFD780FF>Carícia das Flores</color> pode criar até uma Collambei em miniatura.",
+      "ru": "Попадание <color=#FFD780FF>Цветочного кольца</color> создаёт миниатюрного Куйлейн-Анбара, который наносит <color=#99FF88FF>Дендро урон</color>, равный 200% от силы атаки Коллеи.\nПри каждом использовании <color=#FFD780FF>Сметающих цветов</color> можно создать только одного миниатюрного Куйлейн-Анбара.",
+      "id": "Saat <color=#FFD780FF>Floral Ring</color> mengenai target, akan menghasilkan 1 miniatur Cuilein-Anbar dan mengakibatkan <color=#99FF88FF>Dendro DMG</color> sebesar 200% dari ATK Collei.\nHanya 1 miniatur Cuilein-Anbar yang bisa dihasilkan setiap kali melancarkan <color=#FFD780FF>Floral Brush</color>.",
+      "th": "เมื่อ <color=#FFD780FF>Floral Ring</color> ถูกเป้าหมาย จะสร้าง Cuilein-Anbar จิ๋ว ขึ้นมาหนึ่งอัน ซึ่งจะทำให้เกิด<color=#99FF88FF>ความเสียหายไม้</color>เป็น 200% ของพลังโจมตีของ Collei\nในแต่ละครั้งที่ใช้ <color=#FFD780FF>Floral Brush</color> จะทำให้เกิด Cuilein-Anbar จิ๋ว ได้มากสุด 1 ครั้ง",
+      "vi": "<color=#FFD780FF>Phi Diệp Luân</color> mỗi khi đánh trúng sẽ sản sinh một Cuilein-Anbar Mini, gây một lượng <color=#99FF88FF>Sát Thương Nguyên Tố Thảo</color> bằng 200% tấn công của Collei.\nMỗi lần thi triển <color=#FFD780FF>Xua Hoa Quét Lá</color> tối đa sản sinh 1 lần Cuilein-Anbar Mini."
+    },
+    "imgid": "constellation_6"
+  }
+]

@@ -139,7 +139,7 @@
       "fr": "Quand il pleut...",
       "pt": "Quando Está Chovendo...",
       "ru": "Когда идёт дождь...",
-      "id": "Waktu Hujan",
+      "id": "Ketika Turun Hujan",
       "th": "ในเวลาที่ฝนตก...",
       "vi": "Khi trời mưa..."
     },
@@ -235,7 +235,7 @@
       "fr": "Quand il neige...",
       "pt": "Quando Está Nevando...",
       "ru": "Когда идёт снег...",
-      "id": "Waktu Turun Salju",
+      "id": "Ketika Turun Salju",
       "th": "ในเวลาที่หิมะตก...",
       "vi": "Khi tuyết rơi..."
     },
@@ -683,7 +683,7 @@
       "fr": "Détails intéressants...",
       "pt": "Coisas Interessantes...",
       "ru": "Интересные вещи...",
-      "id": "Cerita Menarik",
+      "id": "Kisah Menarik",
       "th": "ข้อมูลที่น่าสนใจ...",
       "vi": "Những kiến thức thú vị..."
     },
@@ -1017,7 +1017,7 @@
       "es": "#En los últimos milenios, he acabado con innumerables almas resentidas. Si no quieres meterte en problemas, te aconsejo que te mantengas alejad{F#a}{M#o} de mí. Considérame como un arma, nada más.",
       "fr": "Au cours des derniers millénaires, j'ai traqué d'innombrables spectres. Si vous ne voulez pas de problème, tenez-vous à l'écart. Considérez-moi comme une arme, rien de plus.",
       "pt": "Nos milhares de anos que se passaram, eu enfrentei inúmeras assombrações. Se você não quer problemas, afaste-se de mim. Veja-me como uma arma, e nada mais.",
-      "ru": "За тысячелетия я уничтожил несчётное количество призраков. Не хочешь навлечь на себя беду - держись от меня подальше. Считай меня просто оружем.",
+      "ru": "За тысячелетия я уничтожил несчётное количество призраков. Не хочешь навлечь на себя беду - держись от меня подальше. Считай меня просто оружием.",
       "id": "Ribuan tahun telah berlalu, dan aku sudah membasmi roh jahat yang tak terhitung jumlahnya. Jika kamu tidak mau ada masalah, maka lebih baik kamu jaga jarak saja denganku. Anggap saja aku sebagai senjata, tidak lebih dari itu.",
       "th": "หลายพันปีที่ผ่านมา ฉันได้ฆ่าวิญญาณแค้นไปนับไม่ถ้วน ถ้าเธอไม่อยากเดือดร้อน ก็อยู่ห่าง ๆ ฉันไว้ คิดซะว่าฉันเป็นแค่ \"อาวุธ\" อย่างนึงก็แล้วกัน",
       "vi": "Hàng ngàn năm nay, tôi chém giết vô số, oán hồn chất chồng. Không muốn dính phiền phức thì tránh xa tôi một chút. Coi tôi như \"công cụ\" là được."
@@ -1351,7 +1351,7 @@
       "ko": "선물 획득·세 번째",
       "en": "Receiving a Gift: III",
       "de": "Geschenk erhalten III",
-      "es": "Al recibir un regalo (II)",
+      "es": "Al recibir un regalo (III)",
       "fr": "Cadeau reçu (3)",
       "pt": "Recebendo Presentes — III",
       "ru": "Подарок III",
@@ -1702,7 +1702,7 @@
       "jp": "元素爆発·1",
       "ko": "원소폭발·첫 번째",
       "en": "Elemental Burst: I",
-      "de": "Spezialfähigkeit – I",
+      "de": "Spezialfähigkeit I",
       "es": "Habilidad Definitiva (I)",
       "fr": "Déchaînement élémentaire (1)",
       "pt": "Supremo - I",
@@ -1734,7 +1734,7 @@
       "jp": "元素爆発·2",
       "ko": "원소폭발·두 번째",
       "en": "Elemental Burst: II",
-      "de": "Spezialfähigkeit – II",
+      "de": "Spezialfähigkeit II",
       "es": "Habilidad Definitiva (II)",
       "fr": "Déchaînement élémentaire (2)",
       "pt": "Supremo - II",
@@ -1766,7 +1766,7 @@
       "jp": "元素爆発·3",
       "ko": "원소폭발·세 번째",
       "en": "Elemental Burst: III",
-      "de": "Spezialfähigkeit – III",
+      "de": "Spezialfähigkeit III",
       "es": "Habilidad Definitiva (III)",
       "fr": "Déchaînement élémentaire (3)",
       "pt": "Supremo - III",
@@ -1981,6 +1981,70 @@
       "id": "Bagus.",
       "th": "ดีมาก",
       "vi": "Tuyệt."
+    }
+  },
+  {
+    "title": {
+      "zhs": "同伴生命值低·其一",
+      "zht": "同伴生命值低·其一",
+      "jp": "仲間HP低下·1",
+      "ko": "동료 HP 감소·첫 번째",
+      "en": "Ally at Low HP: I",
+      "de": "Verbündeter hat niedrige LP I",
+      "es": "Aliado con vida baja (I)",
+      "fr": "Compagnon avec PV faibles (1)",
+      "pt": "Aliado com Vida baixa: I",
+      "ru": "Низкий уровень HP компаньона I",
+      "id": "HP Rekan Rendah: I",
+      "th": "ค่าพลังชีวิตของเพื่อนต่ำ - 1",
+      "vi": "HP Đồng Hành Thấp I"
+    },
+    "line": {
+      "zhs": "…弱小。",
+      "zht": "…弱小。",
+      "jp": "…弱い。",
+      "ko": "…나약하군",
+      "en": "...Weak.",
+      "de": "... So schwach.",
+      "es": "Qué debilidad.",
+      "fr": "... Faible.",
+      "pt": "...Fraco.",
+      "ru": "...Слабо.",
+      "id": "... Lemah.",
+      "th": "...เปราะบางจังนะ",
+      "vi": "...Yếu đuối."
+    }
+  },
+  {
+    "title": {
+      "zhs": "同伴生命值低·其二",
+      "zht": "同伴生命值低·其二",
+      "jp": "仲間HP低下·2",
+      "ko": "동료 HP 감소·두 번째",
+      "en": "Ally at Low HP: II",
+      "de": "Verbündeter hat niedrige LP II",
+      "es": "Aliado con vida baja (II)",
+      "fr": "Compagnon avec PV faibles (2)",
+      "pt": "Aliado com Vida baixa: II",
+      "ru": "Низкий уровень HP компаньона II",
+      "id": "HP Rekan Rendah: II",
+      "th": "ค่าพลังชีวิตของเพื่อนต่ำ - 2",
+      "vi": "HP Đồng Hành Thấp II"
+    },
+    "line": {
+      "zhs": "想活命，就退后。",
+      "zht": "想活命，就退後。",
+      "jp": "死にたくないなら、後ろへ下がれ。",
+      "ko": "살고 싶으면 물러서",
+      "en": "Get back if you wanna survive.",
+      "de": "Geh zurück, wenn du dein Leben nicht verlieren willst.",
+      "es": "Retírate si quieres salir de esta.",
+      "fr": "Revenez si vous voulez survivre.",
+      "pt": "Fique para trás se quiser viver.",
+      "ru": "Отойди, если хочешь выжить.",
+      "id": "Mundur kalau mau selamat.",
+      "th": "ถ้าอยากมีชีวิตรอด ก็ถอยไปก่อน",
+      "vi": "Muốn sống thì lui ra sau."
     }
   },
   {
