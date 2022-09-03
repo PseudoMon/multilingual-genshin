@@ -2,9 +2,9 @@ import { useOutletContext, useLoaderData } from 'remix'
 import { getCharaStories } from '~/data-getter/get-chara'
 import CharaDatalineCard from '~/components/chara-dataline-card'
 
-export async function loader({ params }) {
+export async function loader({ params, request }) {
   const charaId = params.chara
-  let stories = await getCharaStories(charaId)
+  let stories = await getCharaStories(request.url, charaId)
 
   return { stories }
 }

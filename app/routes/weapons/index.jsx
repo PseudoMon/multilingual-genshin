@@ -4,8 +4,8 @@ import { getWeaponsList } from '~/data-getter/get-weapons'
 import LangPicker from '~/components/lang-picker'
 import { useMultilingualSearch } from '~/utility/useSearch'
 
-export async function loader() {
-  return { allData: await getWeaponsList() }
+export async function loader({ request }) {
+  return { allData: await getWeaponsList(request.url) }
 }
 
 export default function ArtifactSetListPage() {

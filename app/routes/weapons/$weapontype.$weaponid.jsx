@@ -10,11 +10,11 @@ function StarElem() {
   )
 }
 
-export async function loader({ params }) {
+export async function loader({ params, request }) {
   const weaponType = params.weapontype
   const weaponId = params.weaponid
-  const weaponData = await getWeaponData(weaponType, weaponId)
-  const miscData = await getMiscData()
+  const weaponData = await getWeaponData(request.url, weaponType, weaponId)
+  const miscData = await getMiscData(request.url)
 
   const intToString = ["zero", "one", "two", "three", "four", "five"]
 

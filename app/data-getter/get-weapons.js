@@ -1,27 +1,18 @@
 import path from 'path'
 import fs from 'fs/promises'
-import { dataPath, getJsonFile } from './utils'
+import { dataPath, getJsonFile, fetchJsonFile } from './utils'
 
-export async function getWeaponsList() {
-  const file = await getJsonFile(
-    path.join(dataPath, "weaponsdata", "list.json")
-  )
-
-  return JSON.parse(file)
+export async function getWeaponsList(url) {
+  return await fetchJsonFile(url, path.join("weaponsdata", "list.json"))
 }
 
-export async function getMiscData() {
-  const file = await getJsonFile(
-    path.join(dataPath, "weaponsdata", "misc.json")
-  )
-
-  return JSON.parse(file)
+export async function getMiscData(url) {
+  return await fetchJsonFile(url, path.join("weaponsdata", "misc.json"))
 }
 
-export async function getWeaponData(weaponType, weaponId) {
-  const file = await getJsonFile(
-    path.join(dataPath, "weaponsdata", weaponType, `${weaponId}.json`)
+export async function getWeaponData(url, weaponType, weaponId) {
+  return await fetchJsonFile(
+    url, 
+    path.join("weaponsdata", weaponType, `${weaponId}.json`)
   )
-
-  return JSON.parse(file)
 }

@@ -9,10 +9,10 @@ export function links() {
   return [{ rel: "stylesheet", href: charaPageStyles }]
 }
 
-export async function loader({ params }) {
+export async function loader({ params, request }) {
   const charaId = params.chara
-  let charaData = await getCharaGeneralData(charaId)
-  let miscText = await getMiscText() 
+  let charaData = await getCharaGeneralData(request.url, charaId)
+  let miscText = await getMiscText(request.url) 
   return { charaId, charaData, miscText }
 }
 

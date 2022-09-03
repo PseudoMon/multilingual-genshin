@@ -7,9 +7,9 @@ export function links() {
   return [{ rel: "stylesheet", href: charaTalentsStyles }]
 }
 
-export async function loader({ params }) {
+export async function loader({ params, request }) {
   const charaId = params.chara
-  const constellations = await getCharaConstellations(charaId)
+  const constellations = await getCharaConstellations(request.url, charaId)
 
   return { charaId, constellations }
 }

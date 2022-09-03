@@ -8,3 +8,6 @@ The `app` directory contains the source code used to build the site. The site is
 Text data are gathered from [Dimbreath's repository](https://github.com/Dimbreath/GenshinData). Images came from various sources, including [Genshin Impact Wiki on Fandom](https://genshin-impact.fandom.com/), [Paimon.moe](https://paimon.moe), and [Honey Impact](https://genshin.honeyhunterworld.com). All these data came from the live version of Genshin Impact, a game created by Hoyoverse.
 
 This is a fan-project unaffiliated with Hoyoverse, meant primarily for educational purpose.
+
+## Note to self
+Remember to run `pnpm run createcharalist` to recreate JSON for list of characters!

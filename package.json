@@ -28,6 +28,7 @@
   "sideEffects": false,
   "scripts": {
     "postinstall": "remix setup node",
+    "createcharalist": "node createCharaList.js",
     "build": "cross-env NODE_ENV=production remix build",
     "dev": "cross-env NODE_ENV=development remix dev",
     "start": "cross-env NODE_ENV=production remix-serve build",

@@ -4,8 +4,8 @@ import { getAllCharaGeneralData } from '~/data-getter/get-chara'
 import LangPicker from '~/components/lang-picker'
 import { useMultilingualSearch } from '~/utility/useSearch'
 
-export async function loader() {
-  return { allData: await getAllCharaGeneralData() }
+export async function loader({ request }) {
+  return { allData: await getAllCharaGeneralData(request.url) }
 }
 
 export default function CharacterListPage() {

@@ -1,33 +1,15 @@
 import path from 'path'
 import fs from 'fs/promises'
-import { dataPath, getJsonFile } from './utils'
+import { fetchJsonFile } from './utils'
 
-const publicPath = "public"
-
-export async function getAllArtifactSets() {
-  const file = await getJsonFile(
-    path.join(dataPath, "artedata", "sets.json")
-  )
-
-  let setsData = JSON.parse(file)
-  
-  return setsData
+export async function getAllArtifactSets(url) {
+  return await fetchJsonFile(url, path.join("artedata", "sets.json"))
 }
 
-export async function getArtifactSetData(setId) {
-  const file = await getJsonFile(
-    path.join(dataPath, "artedata", `${setId}.json`)
-  )
-
-  let setData = JSON.parse(file)
-
-  return setData
+export async function getArtifactSetData(url, setId) {
+  return await fetchJsonFile(url, path.join("artedata",`${setId}.json`))
 }
 
-export async function getMiscData() {
-  const file = await getJsonFile(
-    path.join(dataPath, "artedata", "misc.json")
-  )
-
-  return JSON.parse(file)
+export async function getMiscData(url) {
+  return await fetchJsonFile(url, path.join("artedata", "misc.json"))
 }

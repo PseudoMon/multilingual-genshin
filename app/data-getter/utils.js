@@ -26,10 +26,15 @@ export async function getJsonFile(filepath) {
   return file
 }
 
-export async function getMiscText() {
-  const file = await getJsonFile(
-    path.join(dataPath, "misc.json")
-  )
+export async function fetchJsonFile(url, filepath) {
+  const urlObject = new URL(url)
+  const baseURL =  `${urlObject.protocol}//${urlObject.host}`
+  const res = await fetch(path.join(baseURL, "data", filepath));
 
-  return JSON.parse(file)
+  return res.json()
+}
+
+
+export async function getMiscText(url) {
+  return await fetchJsonFile(url, "misc.json")
 }

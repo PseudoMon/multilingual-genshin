@@ -2,9 +2,9 @@ import { useOutletContext, useLoaderData } from 'remix'
 import { getCharaTalents } from '~/data-getter/get-chara'
 import CharaTalentCard from '~/components/chara-talent-card'
 
-export async function loader({ params }) {
+export async function loader({ params, request }) {
   const charaId = params.chara
-  const talents = await getCharaTalents(charaId)
+  const talents = await getCharaTalents(request.url, charaId)
 
   return { talents, charaId }
 }

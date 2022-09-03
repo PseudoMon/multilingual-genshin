@@ -4,10 +4,10 @@ import { getArtifactSetData, getMiscData } from '~/data-getter/get-artifact'
 import LangPicker from '~/components/lang-picker'
 import ArtifactPiece from '~/components/artifact-piece'
 
-export async function loader({ params }) {
+export async function loader({ params, request }) {
   const setId = params.setid
-  let setData = await getArtifactSetData(setId)
-  let miscData = await getMiscData()
+  let setData = await getArtifactSetData(request.url, setId)
+  let miscData = await getMiscData(request.url)
   return { setId, setData, miscData }
 }
 

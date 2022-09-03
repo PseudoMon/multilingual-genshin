@@ -4,8 +4,8 @@ import { getAllArtifactSets } from '~/data-getter/get-artifact'
 import LangPicker from '~/components/lang-picker'
 import { useMultilingualSearch } from '~/utility/useSearch'
 
-export async function loader() {
-  return { allData: await getAllArtifactSets() }
+export async function loader({ request }) {
+  return { allData: await getAllArtifactSets(request.url) }
 }
 
 export default function ArtifactSetListPage() {
