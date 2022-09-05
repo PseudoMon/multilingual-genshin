@@ -1,7 +1,7 @@
 # Multilingual Genshin Database
 This is the repo containing the source code *and* all the data included in [Multilingual Genshin Database](https://multilingual-genshin.netlify.app). 
 
-You can find all text data in the `data` directory. Images can be found in `public/images`. Feel free to grab and use these data for your needs. Credit back is appreciated but not necessary.
+You can find all text data in the `public/data` directory. Images can be found in `public/images`. Feel free to grab and use these data for your needs. Credit back is appreciated but not necessary.
 
 The `app` directory contains the source code used to build the site. The site is built with [Remix](https://remix.run) and its current iteration is deployed on [Netlify](https://www.netlify.com/). 
 
