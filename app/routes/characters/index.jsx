@@ -37,7 +37,13 @@ export default function CharacterListPage() {
         { shownData.map(chara => 
           <li key={ chara["id"] }>
             <a href={ `/characters/${chara['id']}` }>
-              <img src={ `/images/charahead/${chara['id']}.png` } />
+              <img 
+                onError={e => {
+                  e.currentTarget.onerror = null //prevents looping
+                  e.currentTarget.src = `/images/charahead/characters.png`
+                }} 
+                src={ `/images/charahead/${chara['id']}.png` } 
+              />
               <span>{ chara["name"][activeLang] }</span>
             </a>
           </li>
