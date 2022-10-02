@@ -1,0 +1,200 @@
+[
+  {
+    "title": {
+      "zhs": "立仪·俯览昼冥",
+      "zht": "立儀·俯覽晝冥",
+      "jp": "立儀·俯瞰晦冥",
+      "ko": "법례·굽어보는 어둠",
+      "en": "Ordinance: Unceasing Vigil",
+      "de": "Ordnungsritus – Unermüdliche Wachsamkeit",
+      "es": "Decreto: Vigilancia incansable",
+      "fr": "Sacrement : Vigile incessante",
+      "pt": "Decreto: Vigilância Incansável",
+      "ru": "Завет: Беспрестанное бдение",
+      "id": "Ordinance: Unceasing Vigil",
+      "th": "Ordinance: Unceasing Vigil",
+      "vi": "Lập Nghi - Phủ Lãm Trú Minh"
+    },
+    "description": {
+      "zhs": "施放<color=#FFD780FF>圣仪·煟煌随狼行</color>后，赛诺普通攻击的攻击速度提升20%，持续10秒。若施放<color=#FFD780FF>秘仪·律渊渡魂</color>时触发了固有天赋「落羽的裁择」的「裁定」效果，将刷新该效果的持续时间。\n需要解锁固有天赋「落羽的裁择」。",
+      "zht": "施放<color=#FFD780FF>聖儀·煟煌隨狼行</color>後，賽諾普通攻擊的攻擊速度提升20%，持續10秒。若施放<color=#FFD780FF>秘儀·律淵渡魂</color>時觸發了固有天賦「落羽的裁擇」的「裁定」效果，將重置該效果的持續時間。\n需要解鎖固有天賦「落羽的裁擇」。",
+      "jp": "<color=#FFD780FF>聖儀·狼駆憑走</color>を発動した後、セノの通常攻撃の攻撃速度+20%、継続時間10秒。<color=#FFD780FF>秘儀·律淵渡魂</color>を発動時、固有天賦「落羽の裁決」の「裁定」効果を起こすと、該当効果の継続時間を更新する。\n固有天賦「落羽の裁決」を解放する必要がある。",
+      "ko": "<color=#FFD780FF>성스러운 의식·이리의 질주</color> 시전 후 사이노의 일반 공격의 공격 속도가 20% 증가한다. 지속 시간: 10초. <color=#FFD780FF>비밀스러운 의식·명계의 인도자</color> 시전 시, 고유 특성 「낙하하는 깃털의 심판」의 「판정」 효과를 발동할 경우 해당 효과의 지속 시간이 갱신된다.\n고유 특성 「낙하하는 깃털의 심판」을 해금해야 한다",
+      "en": "After using <color=#FFD780FF>Sacred Rite: Wolf's Swiftness</color>, Cyno's Normal Attack SPD will be increased by 20% for 10s. If the Judication effect of his Passive Talent Featherfall Judgment is triggered during <color=#FFD780FF>Secret Rite: Chasmic Soulfarer</color>, the duration of this increase will be refreshed.\nYou need to unlock the Passive Talent \"Featherfall Judgment.\"",
+      "de": "Erhöht 10 s lang nach Anwenden der Fähigkeit <color=#FFD780FF>Heiliger Ritus – Schnelligkeit des Wolfs</color> Cynos Geschwindigkeit der Standardangriffe um 20 %. Wenn der Effekt „Zumessung“ des passiven Talents „Urteil der Federn“ beim Anwenden der Fähigkeit <color=#FFD780FF>Geheimer Ritus – Abgründiger Seelenwanderer</color> ausgelöst wird, wird die Dauer dieses Bonus aktualisiert.\nDas passive Talent „Urteil der Federn“ muss zuerst freigeschaltet werden.",
+      "es": "Tras usar <color=#FFD780FF>Rito sagrado: Celeridad lupina</color>, la Vel. de Ataque Normal de Cyno aumenta en un 20% durante 10 s. Además, si al usar <color=#FFD780FF>Rito secreto: Guía de las almas abismales</color> se activa el efecto de “sentencia” del talento pasivo “Juicio de la pluma”, la duración del aumento de Vel. de Ataque Normal se reiniciará.\nEs necesario desbloquear el talento pasivo “Juicio de la pluma”.",
+      "fr": "Après avoir utilisé <color=#FFD780FF>Liturgie : Rapidité lupine</color>, la VIT d'attaque des attaques normales de Cyno augmente de 20 % pendant 10 s. Si l'effet Ordalie de l'aptitude passive « Jugement des plumes » est déclenché pendant <color=#FFD780FF>Rite : Traversée abyssale</color>, la durée de cette augmentation est actualisée.\nL'aptitude passive « Jugement des plumes » doit être déjà débloquée.",
+      "pt": "Ao lançar <color=#FFD780FF>Ritual Sagrado: Agilidade Lupina</color>, aumenta a Vel. de ATQ do Ataque Normal de Cyno em 20% por 10s. Se ao lançar <color=#FFD780FF>Ritual Secreto: Travessia Abissal</color> desencadear o efeito \"Adjudicação\" do Talento Passivo \"Julgamento das Plumas\", redefinirá a duração do efeito de aumento da Vel. de ATQ do Ataque Normal.\nVocê deve desbloquear o Talento Passivo \"Julgamento das Plumas\" primeiro.",
+      "ru": "После активации <color=#FFD780FF>Священного обряда: Проворство шакала</color> скорость обычной атаки Сайно повышается на 20% на 10 сек. Если во время действия <color=#FFD780FF>Тайного обряда: Переправляющий души</color> активируется Вынесение приговора пассивного таланта Суд пера, длительность этого эффекта обновится.\nТребуется разблокировать пассивный талант «Суд пера».",
+      "id": "Setelah menggunakan <color=#FFD780FF>Sacred Rite: Wolf's Swiftness</color>, akan meningkatkan 20% Normal Attack SPD Cyno selama 10 detik. Jika efek Judication dari Talenta Pasif Featherfall Judgment terpicu selama <color=#FFD780FF>Secret Rite: Chasmic Soulfarer</color>, maka durasi kenaikan ini akan diperbarui.\nHarus membuka Talenta Pasif \"Featherfall Judgment\" terlebih dahulu.",
+      "th": "หลังจากใช้ <color=#FFD780FF>Sacred Rite: Wolf's Swiftness</color> ความเร็วการโจมตีปกติของ Cyno จะเพิ่มขึ้น 20% เป็นเวลา 10 วินาที และหากทำให้เกิดเอฟเฟกต์ Judication ของพรสวรรค์ติดตัว \"Featherfall Judgment\" ระหว่างช่วงเวลาของ <color=#FFD780FF>Secret Rite: Chasmic Soulfarer</color> ระยะต่อเนื่องของความสามารถที่เพิ่มขึ้นมาจะถูกรีเฟรช\nต้องปลดล็อกพรสวรรค์ติดตัว \"Featherfall Judgment\" ก่อน",
+      "vi": "Sau khi thi triển <color=#FFD780FF>Nghi Thức Thần Thánh - Nhanh Như Sói</color>, tốc độ đánh thường của Cyno tăng 20%, duy trì 10s. Nếu kích hoạt hiệu quả \"Phán Quyết\" của thiên phú Lạc Vũ Phán Quyết khi thi triển <color=#FFD780FF>Nghi Thức Bí Ẩn - Dẫn Hồn Đáy Vực</color>, sẽ làm mới thời gian duy trì hiệu quả này.\nCần mở khóa thiên phú cố định \"Lạc Vũ Phán Quyết\"."
+    },
+    "imgid": "constellation_1"
+  },
+  {
+    "title": {
+      "zhs": "令仪·引谒归灵",
+      "zht": "令儀·引謁歸靈",
+      "jp": "令儀·拝謁返霊",
+      "ko": "의례·귀혼 인도",
+      "en": "Ceremony: Homecoming of Spirits",
+      "de": "Zeremonienritus – Heimkehrende Seelen",
+      "es": "Ceremonia: Retorno de las almas",
+      "fr": "Cérémonie : Retour des esprits",
+      "pt": "Cerimônia: Retorno das Almas",
+      "ru": "Церемония: Проводы душ",
+      "id": "Ceremony: Homecoming of Spirits",
+      "th": "Ceremony: Homecoming of Spirits",
+      "vi": "Lệnh Nghi - Dẫn Yết Quy Linh"
+    },
+    "description": {
+      "zhs": "赛诺的普通攻击命中敌人后，<color=#FFACFFFF>雷元素伤害</color>加成提升10%，持续4秒。该效果每0.1秒至多触发一次，至多叠加5层。",
+      "zht": "賽諾的普通攻擊命中敵人後，<color=#FFACFFFF>雷元素傷害</color>加成提升10%，持續4秒。該效果每0.1秒至多觸發一次，至多疊加5層。",
+      "jp": "セノの通常攻撃が敵に命中すると、<color=#FFACFFFF>雷元素ダメージ</color>+10%、継続時間4秒。この効果は0.1秒ごとに1回のみ発動でき、最大5層まで重ね掛け可能。",
+      "ko": "사이노의 일반 공격이 적을 명중하면 <color=#FFACFFFF>번개 원소 피해</color> 보너스가 10% 증가한다. 지속 시간: 4초. 해당 효과는 0.1초마다 최대 1회 발동된다. 최대 중첩수: 5회",
+      "en": "When Cyno's Normal Attacks hit opponents, his <color=#FFACFFFF>Electro DMG Bonus</color> will increase by 10% for 4s. This effect can be triggered once every 0.1s. Max 5 stacks.",
+      "de": "Erhöht 4 s lang nach Treffen von Gegnern mit Cynos Standardangriffen Cynos <color=#FFACFFFF>Elektro-SCH</color> um 10 %. 0,1 s Abklingzeit. 5-fach stapelbar.",
+      "es": "Cuando Cyno golpea a un enemigo con un Ataque Normal, su <color=#FFACFFFF>Bono de Daño Electro</color> aumenta en un 10% durante 4 s. Este efecto solo se puede activar una vez cada 0.1 s y puede acumularse un máximo de 5 veces.",
+      "fr": "Lorsque l'attaque normale de Cyno a touché un ennemi, son bonus de <color=#FFACFFFF>DGT Électro</color> augmente de 10 % pendant 4 s. Cet effet peut être déclenché une fois toutes les 0,1 s et cumulé 5 fois maximum.",
+      "pt": "Quando os Ataques Normais de Cyno acertam os oponentes, seu <color=#FFACFFFF>Bônus de Dano Electro</color> irá aumentar em 10% por 4s. Esse efeito pode ser desencadeado uma vez a cada 0.1s. Máximo de 5 acúmulos.",
+      "ru": "Попадание Сайно по врагу обычной атакой увеличивает <color=#FFACFFFF>бонус Электро урона</color> на 10% на 4 сек. Эффект может возникнуть не чаще 1 раза в 0,1 сек. и складывается до 5 раз.",
+      "id": "Setelah Normal Attack Cyno mengenai musuh, <color=#FFACFFFF>Electro DMG</color> Bonus akan meningkat 10% selama 4 detik. Efek ini dapat terpicu setiap 0,1 detik, maksimum 5 lapis.",
+      "th": "หลังจากที่การโจมตีปกติของ Cyno ถูกศัตรู โบนัส<color=#FFACFFFF>ความเสียหายไฟฟ้า</color>จะเพิ่มขึ้น 10% เป็นเวลา 4 วินาที โดยที่ทุก 0.1 วินาที เอฟเฟกต์นี้จะเกิดขึ้นได้มากสุดหนึ่งครั้ง ซ้อนทับได้มากสุด 5 ชั้น",
+      "vi": "Sau khi Cyno dùng tấn công thường đánh trúng kẻ địch, sẽ tăng 10% buff <color=#FFACFFFF>Sát Thương Nguyên Tố Lôi</color>, duy trì 4s. Hiệu quả này mỗi 0.1s tối đa kích hoạt một lần, tối đa cộng dồn 5 tầng."
+    },
+    "imgid": "constellation_2"
+  },
+  {
+    "title": {
+      "zhs": "律仪·行度誓惩",
+      "zht": "律儀·行度誓懲",
+      "jp": "律儀·行度誓戒",
+      "ko": "율례·징벌 집행",
+      "en": "Precept: Lawful Enforcer",
+      "de": "Gebotsritus – Gesetzestreuer Vollstrecker",
+      "es": "Edicto: Castigo de la ley",
+      "fr": "Ordonnance : Exécution légale",
+      "pt": "Édito: Punição da Lei",
+      "ru": "Указ: Исполнение наказания",
+      "id": "Precept: Lawful Enforcer",
+      "th": "Precept: Lawful Enforcer",
+      "vi": "Luật Nghi - Hành Độ Thệ Trừng"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>圣仪·煟煌随狼行</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>聖儀·煟煌隨狼行</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>聖儀·狼駆憑走</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>성스러운 의식·이리의 질주</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Sacred Rite: Wolf's Swiftness</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Heiliger Ritus – Schnelligkeit des Wolfs</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Rito sagrado: Celeridad lupina</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Liturgie : Rapidité lupine</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o nível de <color=#FFD780FF>Ritual Sagrado: Agilidade Lupina</color> em 3.\nO nível máximo de elevação é 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Священный обряд: Проворство шакала</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Sacred Rite: Wolf's Swiftness</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Sacred Rite: Wolf's Swiftness</color> ขึ้น 3 ระดับ\nเพิ่มได้สูงสุดถึงระดับ 15",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Nghi Thức Thần Thánh - Nhanh Như Sói</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_3"
+  },
+  {
+    "title": {
+      "zhs": "巡仪·蒇护禁罔",
+      "zht": "巡儀·蕆護禁罔",
+      "jp": "巡儀·貫徹禁網",
+      "ko": "순례·금지령 집행",
+      "en": "Austerity: Forbidding Guard",
+      "de": "Austeritätsritus – Beschützender Verbotswächter",
+      "es": "Inspección: Defensa intimidante",
+      "fr": "Protocole : Garde d'interdiction",
+      "pt": "Austeridade: Defesa Intimidante",
+      "ru": "Строгая мера: Страж запрета",
+      "id": "Austerity: Forbidding Guard",
+      "th": "Austerity: Forbidding Guard",
+      "vi": "Tuần Nghi - Siển Hộ Cấm Võng"
+    },
+    "description": {
+      "zhs": "赛诺处于<color=#FFD780FF>圣仪·煟煌随狼行</color>的启途誓使状态下时，触发感电、超导、超载、原激化、超激化、超绽放、雷元素扩散反应后，将为队伍中附近的所有角色（除了赛诺自己）恢复3点元素能量。\n该效果在一次<color=#FFD780FF>圣仪·煟煌随狼行</color>中，至多触发5次。",
+      "zht": "賽諾處於<color=#FFD780FF>聖儀·煟煌隨狼行</color>的啟途誓使狀態下時，觸發感電、超導、超載、原激化、超激化、超綻放、雷元素擴散反應後，將為隊伍中附近的所有角色（除了賽諾自己）恢復3點元素能量。\n該效果在一次<color=#FFD780FF>聖儀·煟煌隨狼行</color>中，至多觸發5次。",
+      "jp": "<color=#FFD780FF>聖儀·狼駆憑走</color>の啓途誓使状態の時、感電、超電導、過負荷、原激化、超激化、超開花または雷元素拡散反応を起こすと、周囲のチーム全員（セノ自身を除く）の元素エネルギーを3回復する。\nこの効果は一回の<color=#FFD780FF>聖儀·狼駆憑走</color>で、最大5回まで発動できる。",
+      "ko": "사이노가 <color=#FFD780FF>성스러운 의식·이리의 질주</color>의 길을 여는 사자 상태일 때 감전, 초전도, 과부하, 활성, 촉진, 만개, 번개 원소 확산 반응을 발동하면, 근처에 있는 파티 내 모든 캐릭터(사이노 자신 제외)가 원소 에너지를 3pt 회복한다.\n해당 효과는 1회의 <color=#FFD780FF>성스러운 의식·이리의 질주</color>에서 최대 5회 발동한다",
+      "en": "When Cyno is in the Pactsworn Pathclearer state triggered by <color=#FFD780FF>Sacred Rite: Wolf's Swiftness</color>, after he triggers Electro-Charged, Superconduct, Overloaded, Quicken, Aggravate, Hyperbloom, or an Electro Swirl reaction, he will restore 3 Elemental Energy for all nearby party members (except himself.)\nThis effect can occur 5 times within one use of <color=#FFD780FF>Sacred Rite: Wolf's Swiftness</color>.",
+      "de": "Befindet sich Cyno im Modus „Paktverschworener Pfadklärer“ der Spezialfähigkeit <color=#FFD780FF>Heiliger Ritus – Schnelligkeit des Wolfs</color>, stellt er nach Auslösen der Reaktionen wie „Unter Strom“, „Supraleiter“, „Überladen“, „Urwuchs“, „Suprawuchs“, „Supraspross“ oder „Elektro-Verwirbelung“ allen Truppenmitgliedern in der Nähe (außer Cyno) 3 Punkte Elementarenergie wieder her.\n5-mal während der Wirkungsdauer der Spezialfähigkeit <color=#FFD780FF>Heiliger Ritus – Schnelligkeit des Wolfs</color> auslösbar.",
+      "es": "Cuando Cyno está en el estado de “abrecaminos del juramento” de <color=#FFD780FF>Rito sagrado: Celeridad lupina</color> y causa una reacción de Electrocargado, Superconductor, Sobrecarga, Aceleración, Intensificación, Sobreflorecimiento o Torbellino Electro, todos los miembros del equipo cercanos (a excepción de Cyno) recuperan 3 pts. de Energía Elemental.\nEste efecto solo puede ocurrir 5 veces por cada uso de <color=#FFD780FF>Rito sagrado: Celeridad lupina</color>.",
+      "fr": "Sous l'effet d'éclaireur sermenté de <color=#FFD780FF>Liturgie : Rapidité lupine</color>, lorsque Cyno a déclenché une réaction d'Électrocution, de Supraconduction, de Surcharge, de Stimulation, de Suractivation, d'Exubérance ou de Dispersion Électro, tous les personnages de l'équipe à proximité (hormis Cyno) récupèrent 3 pts d'énergie élémentaire.\nCet effet peut être déclenché 5 fois par utilisation de <color=#FFD780FF>Liturgie : Rapidité lupine</color>.",
+      "pt": "Quando Cyno está no estado Juramento Desbravador de <color=#FFD780FF>Ritual Sagrado: Agilidade Lupina</color>, ao desencadear as reações de Eletricamente Carregado, Supercondutor, Sobrecarga, Aceleração, Intensificação, Superflorescimento e Redemoinho Electro, regenerará 3 de Energia Elemental para todos os membros próximos da equipe (com exceção do próprio Cyno).\nEsse efeito pode ser desencadeado até 5 vezes por uso de <color=#FFD780FF>Ritual Sagrado: Agilidade Lupina</color>.",
+      "ru": "Сайно, активируя реакции Заряжен, Сверхпроводник, Перегрузка, Стимуляция, Обострение, Вегетация или Электро Рассеивание во время действия Поклявшегося прокладывать путь <color=#FFD780FF>Священного обряда: Проворство шакала</color>, восстанавливает 3 ед. энергии всем членам отряда поблизости (кроме самого Сайно).\nЭффект активируется до 5 раз во время действия одного и того же <color=#FFD780FF>Священного обряда: Проворство шакала</color>.",
+      "id": "Saat Cyno berada dalam status Pactsworn Pathclearer yang terpicu oleh <color=#FFD780FF>Sacred Rite: Wolf's Swiftness</color>, setelah dia memicu Electro-Charged, Superconduct, Overloaded, Quicken, Aggravate, Hyperbloom, atau reaksi Electro Swirl, Cyno akan memulihkan 3 Elemental Energy untuk semua anggota party di sekitar (kecuali Cyno sendiri.)\nEfek ini dapat muncul 5 kali dalam satu kali penggunaan <color=#FFD780FF>Sacred Rite: Wolf's Swiftness</color>.",
+      "th": "เมื่อ Cyno อยู่ในสภาวะ Pactsworn Pathclearer ของ <color=#FFD780FF>Sacred Rite: Wolf's Swiftness</color> หลังจากทำให้เกิดปฏิกิริยาชาร์จไฟฟ้า, นำไฟฟ้า, โอเวอร์โหลด, ปลุกเร้า, บีบอัด, ไฮเปอร์บลูม และการกระจายธาตุไฟฟ้าแล้ว จะฟื้นฟูพลังงานธาตุ 3 หน่วย ให้ตัวละครทั้งหมดในทีมที่อยู่ในบริเวณใกล้เคียง (ไม่รวมตัวของ Cyno เอง)\nในระหว่าง <color=#FFD780FF>Sacred Rite: Wolf's Swiftness</color> หนึ่งครั้ง เอฟเฟกต์นี้จะเกิดขึ้นได้มากสุด 5 ครั้ง",
+      "vi": "Khi Cyno trong trạng thái Sứ Giả Dẫn Lối của <color=#FFD780FF>Nghi Thức Thần Thánh - Nhanh Như Sói</color>, sau khi kích hoạt phản ứng Điện Cảm, Siêu Dẫn, Quá Tải, Sinh Trưởng, Tăng Cường, Nở Rộ, Khuếch Tán Nguyên Tố Lôi, sẽ khiến tất cả nhân vật trong đội gần đó (trừ bản thân Cyno) hồi phục 3 điểm Năng Lượng Nguyên Tố.\nHiệu quả này trong một lần <color=#FFD780FF>Nghi Thức Thần Thánh - Nhanh Như Sói</color> tối đa kích hoạt 5 lần."
+    },
+    "imgid": "constellation_4"
+  },
+  {
+    "title": {
+      "zhs": "幽仪·逝往星芒",
+      "zht": "幽儀·逝往星芒",
+      "jp": "幽儀·往昔星芒",
+      "ko": "명례(冥禮)·과거의 별빛",
+      "en": "Funerary Rite: The Passing of Starlight",
+      "de": "Grabritus – Vergehendes Sternenlicht",
+      "es": "Exequias: Luz del tránsito",
+      "fr": "Funéraille : Passage de la lumière stellaire",
+      "pt": "Ritual Funerário: Passagem da Aura Estelar",
+      "ru": "Погребение: Уходящий свет звёзд",
+      "id": "Funerary Rite: The Passing of Starlight",
+      "th": "Funerary Rite: The Passing of Starlight",
+      "vi": "U Nghi - Thệ Vãng Tinh Mang"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>秘仪·律渊渡魂</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>秘儀·律淵渡魂</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>秘儀·律淵渡魂</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>비밀스러운 의식·명계의 인도자</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Secret Rite: Chasmic Soulfarer</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Geheimer Ritus – Abgründiger Seelenwanderer</color> um 3.\nHöchststufe 15.",
+      "es": "#Aumenta el nivel de habilidad de <color=#FFD780FF>Rito secreto: Guía de las almas abismales</color> +3.\nPuede ser aumentado hasta Niv.{NON_BREAK_SPACE}15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Rite : Traversée abyssale</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o Nível de <color=#FFD780FF>Ritual Secreto: Travessia Abissal</color> em 3.\nO aumento máximo de nível é 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Тайный обряд: Переправляющий души</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Secret Rite: Chasmic Soulfarer</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลของสกิล <color=#FFD780FF>Secret Rite: Chasmic Soulfarer</color> ขึ้น 3 ระดับ\nเพิ่มได้สูงสุดถึงระดับ 15",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Nghi Thức Bí Ẩn - Dẫn Hồn Đáy Vực</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_5"
+  },
+  {
+    "title": {
+      "zhs": "羽仪·裁落钧衡",
+      "zht": "羽儀·裁落鈞衡",
+      "jp": "羽儀·裁落鈞衡",
+      "ko": "범례·공정한 판정",
+      "en": "Raiment: Just Scales",
+      "de": "Federritus – Gerechte Waage",
+      "es": "Liturgia: Balanza del juicio",
+      "fr": "Ascension : Balance de justice",
+      "pt": "Vestes: Balança da Justiça",
+      "ru": "Церемония пера: Весы справедливости",
+      "id": "Raiment: Just Scales",
+      "th": "Raiment: Just Scales",
+      "vi": "Vũ Nghi - Tài Lạc Quân Hành"
+    },
+    "description": {
+      "zhs": "施放<color=#FFD780FF>圣仪·煟煌随狼行</color>或触发固有天赋「落羽的裁择」的「裁定」后，赛诺将获得4层「豺祭」效果。赛诺的普通攻击命中敌人时，将消耗一层「豺祭」效果，并发射一道渡荒之雷。\n「豺祭」持续8秒，至多叠加8层，并将在圣仪·煟煌随狼行的启途誓使状态结束后移除。\n每0.4秒至多通过这种方式发射一道渡荒之雷。\n需要解锁固有天赋「落羽的裁择」。",
+      "zht": "施放<color=#FFD780FF>聖儀·煟煌隨狼行</color>或觸發固有天賦「落羽的裁擇」的「裁定」後，賽諾將獲得4層「豺祭」效果。賽諾的普通攻擊命中敵人時，將消耗一層「豺祭」效果，並發射一道渡荒之雷。\n「豺祭」持續8秒，至多疊加8層，並將在聖儀·煟煌隨狼行的啟途誓使狀態結束後移除。\n每0.4秒至多依此方式發射一道渡荒之雷。\n需要解鎖固有天賦「落羽的裁擇」。",
+      "jp": "<color=#FFD780FF>聖儀·狼駆憑走</color>を発動、または固有天賦「落羽の裁決」の「裁定」効果を起こした後、セノは4層の「豺祭」効果を獲得する。通常攻撃が敵に命中すると、「豺祭」効果を1層消費し、渡荒の雷を1本放つ。\n「豺祭」効果の継続時間は8秒、最大8層まで重ね掛け可能。聖儀·狼駆憑走の啓途誓使状態の解除後、すべての層数がクリアされる。\nこの方法で0.4秒毎に最大1本の渡荒の雷を放てる。\n固有天賦「落羽の裁決」を解放する必要がある。",
+      "ko": "<color=#FFD780FF>성스러운 의식·이리의 질주</color>를 시전하거나 고유 특성 「낙하하는 깃털의 심판」의 「판정」 발동 후, 사이노는 「이리의 번제」 효과를 4스택 획득한다. 사이노의 일반 공격이 적에게 명중하면, 1스택의 「이리의 번제」 효과를 소모해 기근의 번개 1줄기를 발사한다.\n「이리의 번제」 지속 시간: 8초, 최대 중첩수: 8스택. 성스러운 의식·이리의 질주의 길을 여는 사자 상태가 끝나면 사라진다.\n해당 방식으로 0.4초마다 최대 1줄기의 기근의 번개를 발사할 수 있다.\n고유 특성 「낙하하는 깃털의 심판」을 해금해야 한다",
+      "en": "After using <color=#FFD780FF>Sacred Rite: Wolf's Swiftness</color> or triggering the Judication effect of the Passive Talent \"Featherfall Judgment,\" Cyno will gain 4 stacks of the \"Day of the Jackal\" effect. When he hits opponents with Normal Attacks, he will consume 1 stack of \"Day of the Jackal\" to fire off one Duststalker Bolt.\n\"Day of the Jackal\" lasts for 8s. Max 8 stacks. It will be canceled once Pactsworn Pathclearer ends.\nA maximum of 1 Duststalker Bolt can be unleashed this way every 0.4s.\nYou must first unlock the Passive Talent \"Featherfall Judgment.\"",
+      "de": "Cyno erhält beim Anwenden der Spezialfähigkeit <color=#FFD780FF>Heiliger Ritus – Schnelligkeit des Wolfs</color> oder nach Auslösen des Effekts „Zumessung“ des passiven Talents „Urteil der Federn“ 4 Stapelungen des Effekts „Opfer des Schakals“. Bei einem Treffer mit Cynos Standardangriff verbraucht er 1 Stapelung von „Opfer des Schakals“, um einen Staubblitz auszulösen.\nDer Effekt „Opfer des Schakals“ hält 8 s, 8-fach stapelbar. „Opfer des Schakals“ wird entfernt, sobald der Modus „Paktverschworener Pfadklärer“ der Fähigkeit „Heiliger Ritus – Schnelligkeit des Wolfs“ endet.\n0,4 s Abklingzeit für das Auslösen solch eines Staubblitzes.\nDas passive Talent „Urteil der Federn“ muss zuerst freigeschaltet werden.",
+      "es": "#Tras usar <color=#FFD780FF>Rito sagrado: Celeridad lupina</color> o tras activar el efecto de sentencia del talento pasivo “Juicio de la pluma”, Cyno obtiene 4 cargas del efecto “rito chacálico”. Al golpear a un enemigo con un Ataque Normal, consume una carga y lanza un rayo catastrófico.\nRito chacálico dura 8{NON_BREAK_SPACE}s, puede acumularse un máximo de 8 veces y se anulará cuando termine la duración del estado de abrecaminos del juramento de Rito sagrado: Celeridad lupina.\nComo máximo, puede lanzar un rayo catastrófico cada 0.4{NON_BREAK_SPACE}s de esta manera.\nEs necesario desbloquear el talento pasivo “Juicio de la pluma”.",
+      "fr": "#Après avoir utilisé <color=#FFD780FF>Liturgie : Rapidité lupine</color> ou déclenché l'effet Ordalie de l'aptitude passive « Jugement des plumes », Cyno obtient 4 cumuls de Rite charognard. En touchant un ennemi avec une attaque normale, Cyno consomme 1 cumul pour tirer un éclair de sable.\nL'effet Rite charognard dure 8 s, peut être cumulé 8 fois maximum, et est annulé à la fin de l'effet d'éclaireur sermenté de « Liturgie{NON_BREAK_SPACE}: Rapidité lupine ».\nL'éclair de sable peut être déclenché une fois toutes les 0,4{NON_BREAK_SPACE}s de cette manière.\nL'aptitude passive « Jugement des plumes » doit être déjà débloquée.",
+      "pt": "Após usar <color=#FFD780FF>Ritual Sagrado: Agilidade Lupina</color> ou desencadear o efeito \"Adjudicação\" do Talento Passivo \"Julgamento das Plumas\", Cyno ganha 4 acúmulos do efeito \"Dia do Chacal\". Quando Cyno acerta oponentes com Ataques Normais, será consumido 1 acúmulo de \"Dia do Chacal\" para lançar um Raio da Desolação.\nO \"Dia do Chacal\" dura por 8s, e possui no máximo 8 acúmulos. Ele será cancelado quando o estado Juramento Desbravador do \"Ritual Sagrado: Agilidade Lupina\" acabar.\nO máximo de 1 Raio da Desolação pode ser lançado a cada 0,4s.\nVocê precisa desbloquear o Talento Passivo \"Julgamento das Plumas\" primeiro.",
+      "ru": "Использование <color=#FFD780FF>Священного обряда: Проворство шакала</color> или активация Вынесения приговора пассивного навыка Суд пера наделяет Сайно 4 уровнями Жертвоприношения шакала. Попав обычной атакой, Сайно расходует 1 уровень Жертвоприношения шакала и выпускает одну Молнию бедствия.\nЖертвоприношение шакала длится 8 сек. и складывается до 8 раз. С завершением Поклявшегося прокладывать путь Священного обряда: Проворство шакала эффект полностью исчезает.\nМолнию бедствия таким образом можно выпустить не чаще одного раза в 0,4 сек.\nТребуется разблокировать пассивный талант «Суд пера».",
+      "id": "Setelah melancarkan <color=#FFD780FF>Sacred Rite: Wolf's Swiftness</color> atau memicu Judication dari Talenta Pasif Featherfall Judgment, Cyno akan mendapatkan 4 lapis efek \"Day of the Jackal\". Saat Normal Attack Cyno mengenai musuh, akan mengonsumsi 1 lapis \"Day of the Jackal\" dan menembakkan 1 Duststalker Bolt.\nDay of the Jackal berlangsung selama 8 detik, dapat ditumpuk sampai 8 lapis, dan akan hilang pada saat status Pactsworn Pathclearer dari Sacred Rite: Wolf's Swiftness berakhir.\nDuststalker Bolt yang dapat ditembakkan dengan cara ini adalah maksimal satu setiap 0,4 detik.\nHarus membuka Talenta Pasif \"Featherfall Judgment\" terlebih dahulu.",
+      "th": "หลังจากใช้ <color=#FFD780FF>Sacred Rite: Wolf's Swiftness</color> หรือทำให้เกิดเอฟเฟกต์ \"Judication\" ของพรสวรรค์ติดตัว \"Featherfall Judgment\" Cyno จะได้รับเอฟเฟกต์ \"Day of the Jackal\" 4 ชั้น โดยเมื่อการโจมตีปกติของ Cyno ถูกศัตรู จะใช้เอฟเฟกต์ Day of the Jackal หนึ่งชั้น และปล่อย Duststalker Bolt ออกมาหนึ่งอัน\nDay of the Jackal จะคงอยู่เป็นเวลา 8 วินาที ซ้อนทับได้มากสุด 8 ชั้น และจะถูกลบล้างหลังจากที่สภาวะ Pactsworn Pathclearer ของ Sacred Rite: Wolf's Swiftness สิ้นสุดลง\nในทุก 0.4 วินาที จะสามารถปล่อย Duststalker Bolt ออกมาด้วยวิธีนี้ได้มากสุดหนึ่งอัน\nต้องปลดล็อกพรสวรรค์ติดตัว \"Featherfall Judgment\" ก่อน",
+      "vi": "Sau khi thi triển <color=#FFD780FF>Nghi Thức Thần Thánh - Nhanh Như Sói</color> hoặc kích hoạt hiệu quả \"Phán Quyết\" của thiên phú cố định \"Lạc Vũ Phán Quyết\", Cyno sẽ nhận được 4 tầng hiệu quả \"Nghi Thức Sói\". Khi tấn công thường của Cyno đánh trúng kẻ địch, sẽ tiêu hao một tầng \"Nghi Thức Sói\", và bắn ra một Tia Sét Xuyên Thấu.\nHiệu quả \"Nghi Thức Sói\" duy trì 8s, tối đa cộng dồn 8 tầng, đồng thời sẽ xóa bỏ sau khi trạng thái Sứ Giả Dẫn Lối của Nghi Thức Thần Thánh - Nhanh Như Sói kết thúc.\nMỗi 0.4s tối đa bắn ra một Tia Sét Xuyên Thấu bằng cách này.\nCần mở khóa thiên phú cố định \"Lạc Vũ Phán Quyết\"."
+    },
+    "imgid": "constellation_6"
+  }
+]

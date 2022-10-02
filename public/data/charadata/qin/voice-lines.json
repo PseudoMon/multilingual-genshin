@@ -859,7 +859,7 @@
       "pt": "Varka, Grande Mestre dos Cavaleiros de Favonius. Ele é uma lenda contemporânea viva. No dia de seu triunfante retorno, você vai conversar pessoalmente com ele, e penso que vai ser uma conversa benéfica.",
       "ru": "Магистр Варка - легенда своего поколения. В день его триумфального возвращения я обязательно представлю тебя ему. Уверена, что ты тоже будешь в восторге от его величия.",
       "id": "Grand Master Varka, dia adalah seorang legenda Knights of Favonius. Saat dia sudah kembali dengan kemenangannya nanti, kamu bicara saja langsung dengannya. Aku yakin kamu juga akan mendapatkan manfaat dari pembicaraan tersebut.",
-      "th": "ผู้บัญชาการ Varka เป็นตำนานในยุคปัจจุบันของกองอัศวินแห่ง Favonius รอวันที่เขากลับมาพร้อมกับชัยชนะ คุณค่อยลองไปพูดคุยกับเขาดูนะ คุณจะต้องทึ่งในความยิ่งใหญ่ของเขาแน่นอน",
+      "th": "แกรนด์มาสเตอร์ Varka เป็นตำนานในยุคปัจจุบันของกองอัศวินแห่ง Favonius รอวันที่เขากลับมาพร้อมกับชัยชนะ คุณค่อยลองไปพูดคุยกับเขาดูนะ คุณจะต้องทึ่งในความยิ่งใหญ่ของเขาแน่นอน",
       "vi": "Đại Đội Trưởng Varka, anh ấy là truyền kỳ đương thời. Đến ngày mà anh ấy chiến thắng trở về, bạn hãy tự mình nói chuyện với anh ấy. Tôi tin rằng bạn sẽ có thu hoạch từ đó."
     }
   },
@@ -1057,6 +1057,38 @@
   },
   {
     "title": {
+      "zhs": "关于米卡…",
+      "zht": "關於米卡…",
+      "jp": "ミカについて…",
+      "ko": "미카에 대해…",
+      "en": "About Mika",
+      "de": "Über Mika ...",
+      "es": "Sobre Mika...",
+      "fr": "À propos de Mika...",
+      "pt": "Sobre Mika",
+      "ru": "О Мике...",
+      "id": "Tentang Mika",
+      "th": "เกี่ยวกับ Mika...",
+      "vi": "Về Mika..."
+    },
+    "line": {
+      "zhs": "大团长选中米卡作为远征队的前侦骨干，不仅是出于任务需要，更是看中了他踏实勤恳的品质。从我个人角度而言，我也很荣幸能与这样的同伴共事。",
+      "zht": "大團長選中米卡作為遠征隊的主要前偵，不僅是出於任務需要，更是看中了他踏實勤懇的品質。從我個人角度而言，我也很榮幸能與這樣的同伴共事。",
+      "jp": "大団長がミカを遠征隊の斥候の要として選んだのは、任務の必要性だけでなく、彼の地道で勤勉な態度を見込んでのことだ。私の個人的な意見だが、このような仲間と共に仕事ができることをとても光栄に思う。",
+      "ko": "대단장께서 미카를 원정대 사전 정찰의 핵심 대원으로 뽑으신 이유는 임무에 필요해서 그런 것도 있지만, 근면 성실한 그의 성격을 좋게 보셨기 때문이지. 개인적으로 나도 그런 동료와 함께 일할 수 있어서 영광이야",
+      "en": "The Grand Master placed Mika on the front line of the expedition team not simply because he met the requirements of the mission — more importantly, he was impressed by Mika's hardworking and grounded nature. From my own perspective, I feel very honored to work with someone like him.",
+      "de": "Der Großmeister arrangierte Mika als Pfadfinder des Expeditionsteams, nicht nur, weil Mika die Anforderungen des Auftrags erfüllte, sondern, was noch wichtiger ist, Mikas fleißiger und bodenständiger Charakter hinterließ einen tiefen Eindruck bei ihm. Aus meiner Sicht ist es eine Ehre, mit jemandem wie ihm zusammenzuarbeiten.",
+      "es": "El Gran Maestro no solo puso a Mika al frente del equipo de expediciones porque cumpliera con todos los requisitos de la misión, sino, más importante, porque le impresionó lo diligente que es Mika y lo mucho que tiene los pies en la tierra. Por mi parte, es un honor trabajar con alguien como él.",
+      "fr": "Si le Grand Maître a choisi Mika pour être en première ligne de l'unité d'expédition, ce n'est pas seulement pour les besoins de la mission, c'est surtout parce qu'il a été impressionné par le caractère travailleur et mesuré de Mika. Quant à moi, je suis très honoré de travailler avec quelqu'un comme lui.",
+      "pt": "O Grande Mestre colocou Mika na linha de frente da equipe de expedição não simplesmente porque ele atingia os requerimentos da missão - mais importante, ele estava impressionado com o trabalho duro e a natureza humilde dele. Pela minha própria perspectiva, eu me sinto muito honrado em trabalhar com alguém como ele.",
+      "ru": "Магистр ордена назначил Мику ключевым участником разведки не только в силу служебной необходимости, но ещё и потому, что оценил его ответственность и преданность Ордену. Для меня тоже большая честь работать рядом с таким человеком, как Мика.",
+      "id": "Grand Master menempatkan Mika di garis depan tim ekspedisi bukan hanya karena dia memenuhi persyaratan misi — yang lebih penting, dia kagum dengan sifat Mika yang selalu bekerja keras dan rendah hati. Dari sudut pandangku sendiri, aku merasa sangat terhormat untuk bekerja dengan orang seperti dia.",
+      "th": "ที่ท่านแกรนด์มาสเตอร์เลือก Mika ให้เป็นแกนหลักของหน่วยลาดตระเวนแนวหน้าของทีมสำรวจ ไม่ใช่แค่เพราะเหตุผลของภารกิจเท่านั้น แต่ยังเป็นเพราะคุณสมบัติที่ติดดิน ขยัน และพึ่งพาได้ของเขาด้วย โดยส่วนตัวแล้ว ฉันรู้สึกเป็นเกียรติที่ได้ร่วมงานกับเพื่อนร่วมงานแบบนี้มากเลยล่ะ",
+      "vi": "Đại đội trưởng chọn Mika làm cốt cán trinh sát tiền tuyến của đội viễn chinh, không chỉ là do yêu cầu của nhiệm vụ, mà còn là nhìn thấy được phẩm chất cần cù của Mika. Từ góc độ của tôi mà nói thì tôi cũng rất vinh hạnh khi có được một cộng sự như thế."
+    }
+  },
+  {
+    "title": {
       "zhs": "想要了解琴·其一",
       "zht": "想要瞭解琴·其一",
       "jp": "ジンを知る·1",
@@ -1179,7 +1211,7 @@
       "pt": "Quando estou totalmente concentrada no trabalho, minhas preocupações são esquecidas, junto com o tempo. \"Você é a melhor para assumir esta responsabilidade\". Foi o que o Grande Mestre Varka me disse.",
       "ru": "Когда я всем сердцем предана работе, все мои проблемы и даже моё чувство времени будто ускользают от меня. Магистр Варка сказал мне: «Джинн, лучшего кандидата для этой задачи мне не найти...»",
       "id": "Ketika kita memfokuskan diri dalam pekerjaan, kita akan melupakan kekhawatiran dan waktu. \"Kamu adalah orang terbaik untuk melakukan hal semacam ini.\" Begitulah kata Grand Master Varka kepadaku saat itu.",
-      "th": "เวลาฉันตั้งใจทำงาน จะลืมเรื่องกลุ้มใจและเวลาไปชั่วขณะ ...ตอนนั้นผู้บัญชาการ Varka พูดกับฉันว่า \"Jean ไม่มีคนเหมาะกับตำแหน่งนี้ไปกว่าเธอแล้ว\"",
+      "th": "เวลาฉันตั้งใจทำงาน จะลืมเรื่องกลุ้มใจและเวลาไปชั่วขณะ ...ตอนนั้นแกรนด์มาสเตอร์ Varka พูดกับฉันว่า \"Jean ไม่มีคนเหมาะกับตำแหน่งนี้ไปกว่าเธอแล้ว\"",
       "vi": "Khi cống hiến hết mình cho công việc, những phiền muộn và thời gian sẽ đều bị lãng quên. \"Cô là người thích hợp nhất để làm việc này.\"... Lúc đó Đại Đội Trưởng Varka đã nói với tôi như vậy."
     }
   },
@@ -1302,7 +1334,7 @@
       "ko": "캣테일 술집의 피자…. 먹은 지 한참됐어, 사무실로 배달되면 좋을 텐데",
       "en": "It's been ages since I had pizza at Cat's Tail. If only they delivered...",
       "de": "Ich habe schon ewig nicht mehr die Pizza von der Taverne „Zum Katzenschwanz“ gegessen. Wenn sie nur zu mir ins Büro liefern würden ...",
-      "es": "Han pasado años desde que comí una pizza en la Taberna Cola de Gato. Si tan solo entregaran a domicilio...",
+      "es": "Han pasado años desde que comí una pizza en la taberna Cola de Gato. Si tan solo entregaran a domicilio...",
       "fr": "Ça fait longtemps que je n'ai pas mangé une pizza de chez La Queue de Chat. Ça aurait été bien si je pouvais la faire livrer au bureau...",
       "pt": "Faz muito tempo que eu comi uma pizza da Cauda do Gato. Se eles fizessem entregas a domicílio...",
       "ru": "Кажется, что я уже целую вечность не ела пиццу в «Кошкином хвосте». Эх, если бы только у них была доставка...",

@@ -1,0 +1,200 @@
+[
+  {
+    "title": {
+      "zhs": "赤沙的归嗣",
+      "zht": "赤沙的歸嗣",
+      "jp": "赤砂の後嗣",
+      "ko": "돌아온 적색 사막의 후예",
+      "en": "Returning Heiress of the Scarlet Sands",
+      "de": "Wiederkehrende Erbin der roten Sande",
+      "es": "Heredera de las arenas escarlata",
+      "fr": "Retour de l'héritière des sables écarlates",
+      "pt": "Herdeira das Areias Escarlates Ressurgida",
+      "ru": "Возвращение наследницы алых песков",
+      "id": "Returning Heiress of the Scarlet Sands",
+      "th": "Returning Heiress of the Scarlet Sands",
+      "vi": "Hậu Duệ Cát Đỏ"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>圣仪·灰鸰衒潮</color>的赤冕祝祷状态持续时间延长3秒。",
+      "zht": "<color=#FFD780FF>聖儀·灰鴒衒潮</color>的赤冕祝禱狀態持續時間延長3秒。",
+      "jp": "<color=#FFD780FF>聖儀·灰鴒の呼び潮</color>の赤冠より授かりし祝福状態の継続時間+3秒。",
+      "ko": "<color=#FFD780FF>성스러운 의식·회색빛 새의 물결</color>의 적색 왕관의 축복 상태의 지속 시간이 3초 증가한다",
+      "en": "The duration of Prayer of the Crimson Crown effect triggered by <color=#FFD780FF>Sacred Rite: Wagtail's Tide</color> is increased by 3s.",
+      "de": "Verlängert die Dauer des Effekts „Gebet der roten Krone“ der Fähigkeit <color=#FFD780FF>Heiliger Ritus – Bachstelzenflut</color> um 3 s.",
+      "es": "#Aumenta en 3{NON_BREAK_SPACE}s la duración del estado de oración de la corona escarlata de <color=#FFD780FF>Rito sagrado: Marea de aguzanieves</color>.",
+      "fr": "La durée de l'état de Prière de couronne cramoisie de <color=#FFD780FF>Liturgie : Marée de la bergeronnette</color> augmente de 3 s.",
+      "pt": "Estende a duração do estado Súplica da Coroa Escarlate de <color=#FFD780FF>Ritual Sagrado: Maré dos Alvéolas</color> em 3s.",
+      "ru": "Длительность Молитвы алой короны <color=#FFD780FF>Священного обряда: Прилив трясогузки</color> увеличивается на 3 сек.",
+      "id": "Durasi Prayer of the Crimson Crown yang terpicu oleh skill <color=#FFD780FF>Sacred Rite: Wagtail's Tide</color> bertambah 3 detik.",
+      "th": "ช่วงเวลาต่อเนื่องของสภาวะ Prayer of the Crimson Crown ที่เกิดจาก <color=#FFD780FF>Sacred Rite: Wagtail's Tide</color> เพิ่มขึ้น 3 วินาที",
+      "vi": "Thời gian duy trì trạng thái Lời Chúc Vương Miện Đỏ của <color=#FFD780FF>Nghi Thức Thần Thánh - Thủy Triều Chìa Vôi</color> kéo dài thêm 3s."
+    },
+    "imgid": "constellation_1"
+  },
+  {
+    "title": {
+      "zhs": "贯月的耀锋",
+      "zht": "貫月的耀鋒",
+      "jp": "貫月の鋒芒",
+      "ko": "달을 꿰뚫는 빛",
+      "en": "Moon-Piercing Brilliance",
+      "de": "Monddurchdringender Glanz",
+      "es": "Brillo perforalunas",
+      "fr": "Brillance perçant la lune",
+      "pt": "Brilho Perfura-Luas",
+      "ru": "Пронзающее луну сияние",
+      "id": "Moon-Piercing Brilliance",
+      "th": "Moon-Piercing Brilliance",
+      "vi": "Tia Sáng Xuyên Trăng"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>圣仪·苍鹭庇卫</color>命中敌人时，坎蒂丝的生命值上限提升20%，持续15秒。",
+      "zht": "<color=#FFD780FF>聖儀·蒼鷺庇衛</color>命中敵人時，坎蒂絲的生命值上限提升20%，持續15秒。",
+      "jp": "<color=#FFD780FF>聖儀·蒼鷺による庇護</color>が敵に命中すると、キャンディスのHP上限+20%、継続時間15秒。",
+      "ko": "<color=#FFD780FF>성스러운 의식·푸른빛 새의 비호</color>가 적에게 명중하면 캔디스의 HP 최대치가 20% 증가한다. 지속 시간: 15초",
+      "en": "When <color=#FFD780FF>Sacred Rite: Heron's Sanctum</color> hits opponents, Candace's Max HP will be increased by 20% for 15s.",
+      "de": "Erhöht Candaces max. LP beim Treffen von Gegnern mit der Fähigkeit <color=#FFD780FF>Heiliger Ritus – Heiligtum des Reihers</color> um 20 %, hält 15 s.",
+      "es": "Al golpear a un enemigo con <color=#FFD780FF>Rito sagrado: Garza guardiana</color>, la Vida Máx. de Candace aumenta en un 20% durante 15 s.",
+      "fr": "Lorsque <color=#FFD780FF>Liturgie : Sanctuaire de la héronne</color> touche un ennemi, les PV max de Candace augmentent de 20 % pendant 15 s.",
+      "pt": "Quando <color=#FFD780FF>Ritual Sagrado: Garça Guardiã</color> atinge os inimigos, a Vida Máxima de Candace aumenta 20% por 15s.",
+      "ru": "Попадание <color=#FFD780FF>Священного обряда: Обитель цапли</color> по врагу увеличивает макс. HP Кандакии на 20% на 15 сек.",
+      "id": "Saat <color=#FFD780FF>Sacred Rite: Heron's Sanctum</color> mengenai musuh, akan meningkatkan 20% Max HP Candace selama 15 detik.",
+      "th": "เมื่อ <color=#FFD780FF>Sacred Rite: Heron's Sanctum</color> ถูกศัตรู พลังชีวิตสูงสุดของ Candace จะเพิ่มขึ้น 20% เป็นเวลา 15 วินาที",
+      "vi": "<color=#FFD780FF>Nghi Thức Thần Thánh - Vạc Trời Bảo Hộ</color> khi đánh trúng kẻ địch, giới hạn HP của Candace sẽ tăng 20%, duy trì 15s."
+    },
+    "imgid": "constellation_2"
+  },
+  {
+    "title": {
+      "zhs": "织狩的奉祀",
+      "zht": "織狩的奉祀",
+      "jp": "織狩の奉祀",
+      "ko": "수렵의 제사",
+      "en": "Hunter's Supplication",
+      "de": "Bittgesuch der Jäger",
+      "es": "Devoción por la caza",
+      "fr": "Supplication du chasseur",
+      "pt": "Devoção à Caça",
+      "ru": "Подношение охотницы",
+      "id": "Hunter's Supplication",
+      "th": "Hunter's Supplication",
+      "vi": "Tế Lễ Thợ Săn"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>圣仪·灰鸰衒潮</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>聖儀·灰鴒衒潮</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>聖儀·灰鴒の呼び潮</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>성스러운 의식·회색빛 새의 물결</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Sacred Rite: Wagtail's Tide</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Heiliger Ritus – Bachstelzenflut</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Rito sagrado: Marea de aguzanieves</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Liturgie : Marée de la bergeronnette</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o nível de <color=#FFD780FF>Ritual Sagrado: Maré dos Alvéolas</color> em 3.\nO nível máximo de elevação é 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Священный обряд: Прилив трясогузки</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Sacred Rite: Wagtail's Tide</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Sacred Rite: Wagtail's Tide</color> ขึ้น 3 ระดับ\nเพิ่มได้สูงสุดถึงระดับ 15",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Nghi Thức Thần Thánh - Thủy Triều Chìa Vôi</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_3"
+  },
+  {
+    "title": {
+      "zhs": "守戍的誓命",
+      "zht": "守戍的誓命",
+      "jp": "戍守の誓約",
+      "ko": "수호의 맹세",
+      "en": "Sentinel Oath",
+      "de": "Eid der Grenzwächter",
+      "es": "Juramento de la guardiana",
+      "fr": "Serment de la sentinelle",
+      "pt": "Juramento da Sentinela",
+      "ru": "Клятва часового",
+      "id": "Sentinel Oath",
+      "th": "Sentinel Oath",
+      "vi": "Lời Thề Thủ Hộ"
+    },
+    "description": {
+      "zhs": "缩短<color=#FFD780FF>圣仪·苍鹭庇卫</color>长按的冷却时间，使其降低至与点按的冷却时间相同。",
+      "zht": "縮短<color=#FFD780FF>聖儀·蒼鷺庇衛</color>長按的冷卻時間，使其降低至與點按的冷卻時間相同。",
+      "jp": "<color=#FFD780FF>聖儀·蒼鷺による庇護</color>の長押しのクールタイムを短縮し、一回押しと同じクールタイムにする。",
+      "ko": "<color=#FFD780FF>성스러운 의식·푸른빛 새의 비호</color>의 홀드 재사용 대기시간이 짧은 터치 재사용 대기시간과 같아질 만큼 감소한다",
+      "en": "Shortens the Hold CD of <color=#FFD780FF>Sacred Rite: Heron's Sanctum</color> to be the same as that of the Tapping CD.",
+      "de": "Verringert die Abklingzeit für Gedrückthalten von <color=#FFD780FF>Heiliger Ritus – Heiligtum des Reihers</color>, sodass sie ebenso lang wie die bei normalem Drücken ist.",
+      "es": "#Reduce el TdE de mantener pulsado <color=#FFD780FF>Rito sagrado: Garza guardiana</color> hasta el mismo que el de {LAYOUT_MOBILE#tocar una vez}{LAYOUT_PC#pulsar una vez}{LAYOUT_PS#pulsar una vez}.",
+      "fr": "Réduit le TdR de l'appui long de <color=#FFD780FF>Liturgie : Sanctuaire de la héronne</color> pour correspondre à celui de l'appui simple.",
+      "pt": "A recarga do Manter Pressionado de <color=#FFD780FF>Ritual Sagrado: Garça Guardiã</color> é reduzida para a mesma recarga do Pressionar.",
+      "ru": "Уменьшает время отката заряженного режима <color=#FFD780FF>Священного обряда: Обитель цапли</color>, делая его равным времени отката незаряженного варианта.",
+      "id": "Mengurangi CD Mode Tahan <color=#FFD780FF>Sacred Rite: Heron's Sanctum</color>, menjadikannya sama dengan CD Mode Tekan.",
+      "th": "#ลดช่วงเวลาคูลดาวน์ในการ{LAYOUT_MOBILE#แตะค้าง}{LAYOUT_PC#กดค้าง}{LAYOUT_PS#กดค้าง}ของ <color=#FFD780FF>Sacred Rite: Heron's Sanctum</color> ลงให้เท่ากับช่วงเวลาคูลดาวน์ของการ{LAYOUT_MOBILE#แตะ}{LAYOUT_PC#กด}{LAYOUT_PS#กด}",
+      "vi": "Rút ngắn thời gian chờ Nhấn Giữ của kỹ năng <color=#FFD780FF>Nghi Thức Thần Thánh - Vạc Trời Bảo Hộ</color> đến tương đồng với thời gian chờ của Nhấn."
+    },
+    "imgid": "constellation_4"
+  },
+  {
+    "title": {
+      "zhs": "萦金的苍瞳",
+      "zht": "縈金的蒼瞳",
+      "jp": "金縷の蒼瞳",
+      "ko": "금빛의 푸른 눈동자",
+      "en": "Heterochromatic Gaze",
+      "de": "Goldene Iris",
+      "es": "Mirada heterocromática",
+      "fr": "Regard hétérochromatique",
+      "pt": "Olhos Dourados",
+      "ru": "Разноцветные глаза",
+      "id": "Heterochromatic Gaze",
+      "th": "Heterochromatic Gaze",
+      "vi": "Con Ngươi Ánh Vàng"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>圣仪·苍鹭庇卫</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>聖儀·蒼鷺庇衛</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>聖儀·蒼鷺による庇護</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>성스러운 의식·푸른빛 새의 비호</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Sacred Rite: Heron's Sanctum</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Heiliger Ritus – Heiligtum des Reihers</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Rito sagrado: Garza guardiana</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Liturgie : Sanctuaire de la héronne</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o nível do <color=#FFD780FF>Ritual Sagrado: Garça Guardiã</color> em 3.\nO nível máximo de elevação é 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Священный обряд: Обитель цапли</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Sacred Rite: Heron's Sanctum</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Sacred Rite: Heron's Sanctum</color> ขึ้น 3 ระดับ\nเพิ่มได้สูงสุดถึงระดับ 15",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Nghi Thức Thần Thánh - Vạc Trời Bảo Hộ</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_5"
+  },
+  {
+    "title": {
+      "zhs": "衍溢的汐潮",
+      "zht": "衍溢的汐潮",
+      "jp": "満溢の潮汐",
+      "ko": "범람하는 조석",
+      "en": "The Overflow",
+      "de": "Überlaufende Abendflut",
+      "es": "Marea inundatoria",
+      "fr": "Débordement",
+      "pt": "Inundação",
+      "ru": "Затопляющий прилив",
+      "id": "The Overflow",
+      "th": "The Overflow",
+      "vi": "Thủy Triều Dâng Trào"
+    },
+    "description": {
+      "zhs": "处于<color=#FFD780FF>圣仪·灰鸰衒潮</color>的赤冕祝祷状态下的当前场上角色（不包括坎蒂丝自己），在普通攻击对敌人造成元素伤害时，将释放衍潮冲击，造成相当于坎蒂丝生命值上限15%<color=#80C0FFFF>水元素范围伤害</color>。\n该效果每2.3秒至多触发一次，造成的伤害视为元素爆发伤害。",
+      "zht": "處於<color=#FFD780FF>聖儀·灰鴒衒潮</color>的赤冕祝禱狀態下的目前場上角色（不包括坎蒂絲自己），在普通攻擊對敵人造成元素傷害時，將施放衍潮衝擊，造成相當於坎蒂絲生命值上限15%<color=#80C0FFFF>水元素範圍傷害</color>。\n該效果每2.3秒至多觸發一次，造成的傷害視為元素爆發傷害。",
+      "jp": "<color=#FFD780FF>聖儀·灰鴒の呼び潮</color>の赤冠より授かりし祝福状態のフィールド上キャラクター（キャンディス自身を除く）の通常攻撃が敵に元素ダメージを与えた時、氾濫する潮衝を放ち、キャンディスのHP上限の15%に相当する<color=#80C0FFFF>水元素範囲ダメージ</color>を与える。\nこの効果は2.3秒ごとに1回のみ発動でき、与えたダメージは元素爆発ダメージと見なされる。",
+      "ko": "<color=#FFD780FF>성스러운 의식·회색빛 새의 물결</color>의 적색 왕관의 축복 상태인 현재 필드 위 캐릭터(캔디스 자신 제외)가 일반 공격으로 적에게 원소 피해를 가할 시, 파도 충격을 발동해 캔디스 HP 최대치의 15%에 해당하는 <color=#80C0FFFF>물 원소 범위 피해</color>를 준다.\n해당 효과는 2.3초마다 최대 1회 발동되고, 가하는 피해는 원소폭발 피해로 간주한다",
+      "en": "When characters (excluding Candace herself) affected by the Prayer of the Crimson Crown caused by <color=#FFD780FF>Sacred Rite: Wagtail's Tide</color> deal Elemental DMG to opponents using Normal Attacks, an attack wave will be unleashed that deals <color=#80C0FFFF>AoE Hydro DMG</color> equal to 15% of Candace's Max HP.\nThis effect can trigger once every 2.3s and is considered Elemental Burst DMG.",
+      "de": "Verursacht die aktuelle Figur (außer Candace) unter dem Effekt „Gebet der roten Krone“ der Fähigkeit <color=#FFD780FF>Heiliger Ritus – Bachstelzenflut</color> mit Standardangriffen Elementar-Schaden, wird ein Flutstoß ausgelöst, der <color=#80C0FFFF>Hydro-Flächenschaden</color> in Höhe von 15 % der max. LP von Candace verursacht.\n2,3 s Abklingzeit. Der damit verursachte Schaden gilt als Schaden der Spezialfähigkeit.",
+      "es": "#Cuando un personaje en uso (a excepción de Candace) que está en el estado de oración de la corona escarlata de <color=#FFD780FF>Rito sagrado: Marea de aguzanieves</color> inflige Daño Elemental con un Ataque Normal contra un enemigo, se libera una onda de agua de Rito sagrado: Marea de aguzanieves que inflige <color=#80C0FFFF>Daño Hydro en el AdE</color> en una cantidad equivalente al 15% de la Vida Máx. de Candace.\nEste efecto solo se puede activar una vez cada 2.3{NON_BREAK_SPACE}s y su daño se considera daño de Habilidad Definitiva.",
+      "fr": "Lorsqu'un personnage déployé (hormis Candace) affecté par l'état de Prière de couronne cramoisie de <color=#FFD780FF>Liturgie : Marée de la bergeronnette</color> inflige des DGT élémentaires à un ennemi avec une attaque normale, il déclenche une marée d'impact, infligeant des <color=#80C0FFFF>DGT Hydro de zone</color> d'une valeur équivalant à 15 % des PV max de Candace.\nCet effet peut être déclenché une fois toutes les 2,3 s. Les DGT infligés sont considérés comme des DGT de déchaînement élémentaire.",
+      "pt": "Quando o personagem ativo no campo de batalha estiver sob o estado Súplica da Coroa Escarlate de <color=#FFD780FF>Ritual Sagrado: Maré dos Alvéolas</color> (exceto a própria Candace) e infligir Dano Elemental contra um inimigo com um Ataque Normal, lançará uma Onda Torrencial que infligirá <color=#80C0FFFF>Dano Hydro em AdE</color> equivalente a 15% da Vida Máxima de Candace.\nEsse efeito só pode ser desencadeado uma vez a cada 2.3s, e o Dano infligido é considerado Dano de Supremo.",
+      "ru": "Обычные атаки персонажей под воздействием Молитвы алой короны <color=#FFD780FF>Священного обряда: Прилив трясогузки</color> (кроме самой Кандакии), наносящие элементальный урон, вызывают Водяной вал, который наносит <color=#80C0FFFF>Гидро урон по площади</color>, равный 15% от макс. HP Кандакии.\nЭффект может возникнуть не чаще 1 раза в 2,3 сек. Урон водяных валов считается уроном взрыва стихии.",
+      "id": "Saat Karakter (kecuali Candace sendiri) yang terpengaruh efek Prayer of the Crimson Crown yang disebabkan oleh <color=#FFD780FF>Sacred Rite: Wagtail's Tide</color> mengakibatkan Elemental DMG terhadap musuh dengan menggunakan Normal Attack, sebuah serangan gelombang yang mengakibatkan <color=#80C0FFFF>Hydro DMG Area</color> yang setara dengan 15% Max HP Candace akan dilancarkan.\nEfek ini dapat terpicu setiap 2,3 detik, dan DMG yang diakibatkan akan dianggap sebagai DMG Elemental Burst.",
+      "th": "เมื่อตัวละครที่เข้าร่วมการต่อสู้ในขณะนั้น (ไม่รวมตัวของ Candace เอง) อยู่ภายใต้สภาวะ Prayer of the Crimson Crown ของ <color=#FFD780FF>Sacred Rite: Wagtail's Tide</color> สร้างความเสียหายธาตุแก่ศัตรูด้วยการโจมตีปกติ จะปล่อยคลื่นโจมตีออกมา ซึ่งจะทำให้เกิด<color=#80C0FFFF>ความเสียหายน้ำวงกว้าง</color>เท่ากับ 15% ของพลังชีวิตสูงสุดของ Candace\nในทุก 2.3 วินาที เอฟเฟกต์นี้จะเกิดขึ้นได้มากสุดหนึ่งครั้ง และความเสียหายที่สร้าง จะถูกมองว่าเป็นความเสียหายท่าไม้ตาย",
+      "vi": "Nhân vật đang trong trận hiện tại khi trong trạng thái Lời Chúc Vương Miện Đỏ của <color=#FFD780FF>Nghi Thức Thần Thánh - Thủy Triều Chìa Vôi</color> (không bao gồm bản thân Candace), nếu tấn công thường trúng kẻ địch gây sát thương nguyên tố, sẽ thi triển Thủy Triều Xung Kích, gây <color=#80C0FFFF>Sát Thương Phạm Vi Nguyên Tố Thủy</color> tương đương 15% giới hạn HP của Candace.\nHiệu quả này mỗi 2.3s tối đa kích hoạt một lần, sát thương gây ra được tính là sát thương kỹ năng nộ."
+    },
+    "imgid": "constellation_6"
+  }
+]

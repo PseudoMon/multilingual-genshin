@@ -1,0 +1,62 @@
+{
+  "name": {
+    "zhs": "坎蒂丝",
+    "zht": "坎蒂絲",
+    "jp": "キャンディス",
+    "ko": "캔디스",
+    "en": "Candace",
+    "de": "Candace",
+    "es": "Candace",
+    "fr": "Candace",
+    "pt": "Candace",
+    "ru": "Кандакия",
+    "id": "Candace",
+    "th": "Candace",
+    "vi": "Candace"
+  },
+  "title": {
+    "zhs": "浮金的誓愿",
+    "zht": "浮金的誓願",
+    "jp": "浮金の誓願",
+    "ko": "수면 위 금빛 결의",
+    "en": "Golden Vow",
+    "de": "Gelübde beim treibenden Gold",
+    "es": "La Devota Áurea",
+    "fr": "Serment doré",
+    "pt": "Promessa Dourada",
+    "ru": "Позолоченная клятва",
+    "id": "Golden Vow",
+    "th": "บุหลันดั้นปฏิญาณ",
+    "vi": "Thề Nguyện Ánh Kim"
+  },
+  "description": {
+    "zhs": "有着琥珀色左眼的赤王后裔，阿如村的守护者。",
+    "zht": "有著琥珀色左眼的赤王後裔，阿如村的守護者。",
+    "jp": "琥珀色の左目を持つ、キングデシェレトの末裔。アアル村のガーディアンをしている。",
+    "ko": "호박색 왼쪽 눈을 가진 적왕의 후예. 아루 마을의 수호자다",
+    "en": "A descendant of King Deshret with an amber left eye. The defender of Aaru Village.",
+    "de": "Beschützerin des Aaru-Dorfs, die Nachfahrin von König Deshret, deren linkes Auge golden wie Bernstein strahlt.",
+    "es": "Custodia de la Aldea Aaru. Esta muchacha con un ojo color ámbar es descendiente del Rey Deshret.",
+    "fr": "Descendante du roi Deshret avec un œil gauche de couleur ambre, c'est la protectrice du Village d'Aaru.",
+    "pt": "Guardiã da Vila Aaru, descendente do Rei Deshret, seu olho esquerdo é da cor do âmbar.",
+    "ru": "Наследница царя Дешрета с левым глазом цвета янтаря, защитница деревни Аару.",
+    "id": "Keturunan Raja Deshret yang memiliki mata kiri berwarna kuning keemasan. Pelindung Desa Aaru.",
+    "th": "ลูกหลานของราชา Deshret ผู้มีนัยน์ตาซ้ายสีเหลืองอำพัน ผู้คุ้มกันของหมู่บ้าน Aaru",
+    "vi": "Hậu duệ của Vua Deshret với con mắt bên trái màu hổ phách, là người thủ hộ của Làng Aaru."
+  },
+  "constellation": {
+    "zhs": "箭盾座",
+    "zht": "箭盾座",
+    "jp": "矢盾座",
+    "ko": "화살방패자리",
+    "en": "Sagitta Scutum",
+    "de": "Sagitta Scutum",
+    "es": "Sagitta Scutum",
+    "fr": "Sagitta Scutum",
+    "pt": "Sagitta Scutum",
+    "ru": "Щит Заступницы",
+    "id": "Sagitta Scutum",
+    "th": "Sagitta Scutum",
+    "vi": "Cung Tiễn Thuẫn"
+  }
+}

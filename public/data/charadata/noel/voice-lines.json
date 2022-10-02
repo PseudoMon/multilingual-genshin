@@ -497,7 +497,7 @@
     },
     "line": {
       "zhs": "就算再怎么仓促，一日三餐也不能应付，不可以吃来历不明的东西，也不能光吃肉不吃蔬菜。对了，尽量不要喝冷水，对胃不好…唔，你不会在想「因为太麻烦所以还是交给诺艾尔」吧？唔唔…如果你真的这么想…好吧，还是交给我来吧！",
-      "zht": "#就算再怎麼倉促，一日三餐也不能應付，不可以吃來歷不明的東西，也不能光吃肉不吃蔬菜。對了，儘量不要喝冷水，對胃不好…唔，{F#妳}{M#你}不會在想「因為太麻煩所以還是交給諾艾爾」吧？唔唔…如果{F#妳}{M#你}真的這麼想…好吧，還是交給我來吧！",
+      "zht": "#就算再怎麼倉促，一日三餐也不能應付，不可以吃來歷不明的東西，也不能光吃肉不吃蔬菜。對了，盡量不要喝冷水，對胃不好…唔，{F#妳}{M#你}不會在想「因為太麻煩所以還是交給諾艾爾」吧？唔唔…如果{F#妳}{M#你}真的這麼想…好吧，還是交給我來吧！",
       "jp": "いくら忙しくても、三食きちんと食べませんと。正体不明のものを食べてはいけません、肉ばかりで野菜を食べないのもいけません。あと胃に優しくないので冷たい水もなるべく控えたほうが…あっ、今「面倒だからノエルに任せよう」って思っていませんか？うーん…本当にそう思っていますなら…わかりました、任せてください！",
       "ko": "아무리 급해도 하루 세 끼를 어디에서 난 지 모를 음식으로 때울 순 없죠. 채소 빼고 고기만 먹을 수도 없구요. 맞다, 찬물은 웬만하면 마시지 말아요. 위에 안 좋으니까…. 음, 「너무 귀찮으니까 노엘에게 맡겨야지」라고 생각하는 건 아니겠죠? 음음… 정말 그렇게 생각한다면… 좋아요, 제게 맡기세요!",
       "en": "Even when you're too busy to eat three square meals, never eat something if you don't know where it came from, and always maintain a balance between meat and vegetables. Oh, and no swimming right after a meal. Haha, I do hope you're not thinking, \"that's too much trouble, I'll just leave it to Noelle,\" are you? ... Oh... but of course, if you are... Well then, just leave it to me.",
@@ -763,7 +763,7 @@
       "pt": "No início eu queria participar de sua expedição e fazer minha parte como empregada. Mas o Grão-Mestre disse que não - isso lhe daria mais paz de espírito se eu ficasse para trás para cuidar das coisas em Mondstadt. Fiquei tão feliz ao saber o quanto ele me valoriza! ...Certo, então aparentemente ele disse a mesma coisa para muitas pessoas. Mas isso não muda o fato de que ele também me preza!",
       "ru": "Я хотела отправиться с его отрядом и исполнять обязанности горничной в путешествии, но Магистр ордена сказал, что ему будет спокойнее, если я буду прикрывать тыл в Мондштадте... Я очень рада, что он меня так ценит! Правда, потом оказалось, что он много кому это сказал, но меня-то он ценит не меньше!",
       "id": "Awalnya aku ingin bergabung dengan party ekspedisinya dan memenuhi tugasku sebagai pelayan, tetapi Grand Master mengatakan bahwa dia akan jauh lebih tenang jika aku tetap tinggal untuk mengurus hal-hal di Mondstadt. Aku sangat senang mendengarnya menghargaiku! Meskipun sepertinya dia mengatakan hal yang sama kepada banyak orang, tapi... hal itu tidak mengubah fakta bahwa dia juga menghargaiku!",
-      "th": "ตอนแรกฉันว่าจะเข้าร่วมทีมผจญภัยของท่านผู้บัญชาการในฐานะ สาวใช้ แต่ผู้บัญชาการบอกว่าให้ฉันอยู่ดูแลความเรียบร้อยในเมือง Mondstadt ท่านถึงจะวางใจ... ผู้บัญชาการเชื่อมั่นในตัวฉันขนาดนี้ ฉันดีใจสุด ๆ เลย! ถึงแม้ตอนหลังฉันถึงรู้ว่าผู้บัญชาการ ไม่ได้พูดอย่างงี้กับฉัน แค่คนเดียว แต่ว่า... ยังไงคำชมก็เป็นคำชมล่ะน่า",
+      "th": "ตอนแรกฉันว่าจะเข้าร่วมทีมผจญภัยของแกรนด์มาสเตอร์ในฐานะสาวใช้ แต่แกรนด์มาสเตอร์บอกว่า ให้ฉันอยู่ดูแลความเรียบร้อยในเมือง Mondstadt ท่านถึงจะวางใจ... แกรนด์มาสเตอร์เชื่อมั่นในตัวฉันขนาดนี้ ฉันดีใจสุด ๆ เลย! ถึงแม้ตอนหลัง ฉันถึงรู้ว่าเขาไม่ได้พูดอย่างงี้กับฉันแค่คนเดียว แต่ว่า... ยังไงคำชมก็เป็นคำชมล่ะน่า",
       "vi": "Ban đầu tôi dự định cùng anh ấy đi mạo hiểm, thực hiện trách nhiệm của hầu gái, thế nhưng Đại Đội Trưởng lại muốn tôi ở lại chăm lo cho Mondstadt... Đại Đội Trưởng đã coi trọng tôi như vậy tôi thấy vô cùng hãnh diện! Tuy sau này tôi mới biết Đại Đội Trưởng nói câu ấy với tất cả mọi người... nhưng mà coi trọng vẫn là coi trọng phải không."
     }
   },

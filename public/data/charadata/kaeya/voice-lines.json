@@ -827,7 +827,7 @@
       "pt": "É uma pena que ninguém dos Cavaleiros de Favonius herdou o estilo do Grande Mestre. *Suspiro* Eu pessoalmente o admiro.",
       "ru": "Как жаль, что никто в ордене не унаследовал его отношения к работе. Эх... Должен признать, я очень ценю таких людей, как он.",
       "id": "Sangat disayangkan bahwa saat ini tidak ada seorang pun di Knights of Favonius yang mampu mewarisi kepiawaian Grand Master dalam menjalankan tugas. Bagaimanapun... aku pribadi tetap menghargai hal semacam itu.",
-      "th": "พูดไปก็น่าเสียดาย กองอัศวินแห่ง Favonius ในตอนนี้น่ะ ไม่มีใครสืบทอดสไตล์การทำงาน ของผู้บัญชาการเลยซักคน เห้อ... ฉันออกจะชอบสไตล์แบบนั้นแท้ ๆ",
+      "th": "พูดไปก็น่าเสียดาย กองอัศวินแห่ง Favonius ในตอนนี้น่ะ ไม่มีใครสืบทอดสไตล์การทำงานของแกรนด์มาสเตอร์เลยสักคน เห้อ... ฉันออกจะชอบสไตล์แบบนั้นแท้ ๆ",
       "vi": "Nói ra thật đáng tiếc, hiện tại trong Đội Kỵ Sĩ Tây Phong, không có ai kế thừa được tác phong làm việc của Đại Đội Trưởng. Haiz... cá nhân tôi đánh giá cao điều đó."
     }
   },
@@ -961,6 +961,70 @@
   },
   {
     "title": {
+      "zhs": "关于柯莱…",
+      "zht": "關於柯萊…",
+      "jp": "コレイについて…",
+      "ko": "콜레이에 대해…",
+      "en": "About Collei",
+      "de": "Über Collei ...",
+      "es": "Sobre Collei...",
+      "fr": "À propos de Collei...",
+      "pt": "Sobre Collei...",
+      "ru": "О Коллеи...",
+      "id": "Tentang Collei",
+      "th": "เกี่ยวกับ Collei...",
+      "vi": "Về Collei..."
+    },
+    "line": {
+      "zhs": "嗯，柯莱？真是个怀念的名字，你可找对人了！我来告诉你过去发生的事情吧，干脆从头说起——保证原汁原味！",
+      "zht": "#嗯，柯萊？真是個懷念的名字，{F#妳}{M#你}真是找對人了！我來告訴{F#妳}{M#你}過去發生的事情吧，乾脆從頭說起——保證原汁原味！",
+      "jp": "コレイ？本当になつかしい名前だ。俺に聞くなんて分かってるじゃないか。過去に何があったか教えてやってもいいぜ。ありのままを伝えるために…いっそ——すべて最初から話そう！",
+      "ko": "음, 콜레이? 정말 그리운 이름이네. 잘 찾아왔어! 내가 과거에 무슨 일이 있었는지 처음부터 알려줄게——어떤 꾸밈도 없는 그런 이야기가 될 거야!",
+      "en": "Oh, Collei? Oho, now there's a name I haven't heard in a while... You came to the right person! Let me tell you her whole story, starting right from the very beginning, with all the delicious details!",
+      "de": "Hm, Collei? Das ist ja ein vertrauter Name. Du hast die richtige Person gefragt! Gut, lass mich dich ihre ganze Geschichte von Anfang an erzählen, mit all den Details!",
+      "es": "Oh, ¿Collei? ¡Hacía mucho que nadie mencionaba ese nombre! Pues estás con la persona adecuada. ¡Te contaré todo su pasado, empezando desde el comienzo y con todo lujo de detalles!",
+      "fr": "Oh, Collei ? Eh bien, voilà un nom que je n'ai pas entendu depuis longtemps... Vous vous adressez à la bonne personne ! Laissez-moi vous raconter son histoire depuis le début, je vais vous dévoiler tout plein de détails croustillants !",
+      "pt": "Ah, Collei? Oho, aí está um nome que não escuto há um tempo... Você veio até a pessoa certa! Deixe eu te contar a história completa dela, começando bem do início, com todos os detalhes deliciosos!",
+      "ru": "#А, Коллеи? Да уж, знакомое имя, ты {F#обратилась}{M#обратился} по адресу! Давай расскажу тебе всё с самого начала - и только правду!",
+      "id": "Oh, Collei? Hoho, sudah lama sekali aku tidak dengar nama itu. Kamu sudah datang ke orang yang tepat! Biar aku ceritakan seluruh kisahnya, mulai dari awal, dengan semua detail ceritanya yang lezat!",
+      "th": "อื๋อ... Collei? เป็นชื่อที่น่าคิดถึงจังเลยนะ เธอมาหาถูกคนแล้วล่ะ! เดี๋ยวฉันจะเล่าเรื่องในสมัยก่อนให้ฟังก็แล้วกัน ขอบอกไว้ก่อนเลยนะ... ว่าเป็นเรื่องจริงแท้แน่นอน!",
+      "vi": "Ừm, Collei? Đúng là một cái tên đầy hoài niệm, tìm đúng người rồi đó! Để tôi kể cho nghe, kể từ đầu luôn cho đầy đủ tình tiết nhé!"
+    }
+  },
+  {
+    "title": {
+      "zhs": "关于米卡…",
+      "zht": "關於米卡…",
+      "jp": "ミカについて…",
+      "ko": "미카에 대해…",
+      "en": "About Mika",
+      "de": "Über Mika ...",
+      "es": "Sobre Mika...",
+      "fr": "À propos de Mika...",
+      "pt": "Sobre Mika",
+      "ru": "О Мике...",
+      "id": "Tentang Mika",
+      "th": "เกี่ยวกับ Mika...",
+      "vi": "Về Mika..."
+    },
+    "line": {
+      "zhs": "刚开始接触那会儿，我看米卡容易紧张，就跟他开了一点无关痛痒的小玩笑。哪知他更紧张了，连笑都笑得很僵硬…最后还特意写信道歉。欸，这种单纯老实的品质，难道是施密特家族的遗传？",
+      "zht": "剛開始接觸那時，我看米卡容易緊張，就跟他開了一點無關緊要的小玩笑。誰知道他更緊張了，連笑都笑得很僵硬…最後還特地寫信道歉。欸，這種單純老實的性格，難道是施密特家族的遺傳？",
+      "jp": "最初のころ、ミカが結構なあがり症なのを見て、ちょっとした冗談を言ってやったんだ。だが、そのせいでさらに緊張させちまって、ひきつった笑顔を浮かべてな…挙句の果てに、謝罪の手紙まで送ってきたんだ。ハハッ、この単純で素直な気質は、シュミット家の遺伝と言うべきか？",
+      "ko": "미카와 알고 지낸 지 얼마 안 됐을 때 워낙 쉽게 긴장하는 성격 같아서 가벼운 장난을 좀 쳤는데, 어째 더 긴장한 것 같더라고. 웃는 게 어찌나 어색하던지…. 그래서 결국 사과 편지도 써줬잖아. 에휴, 그렇게 순진해서야, 설마 슈미트 가문의 유전인가?",
+      "en": "When I first met Mika, he seemed like the nervous type, so I decided to joke around with him a little. I didn't count on that making him even more nervous... His smile looked as if it were plastered onto his face, and in the end, he even wrote me a letter of apology. Tsk-tsk. Does taking everything so seriously run in the Schmidts' blood?",
+      "de": "Als ich Mika zum ersten Mal traf, fand ich, dass er etwas nervös war, daher scherzte ich ein bisschen mit ihm. Unerwarteterweise wurde er noch nervöser und selbst sein Lächeln versteifte sich ... Am Ende schrieb er mir sogar einen Brief, in dem er sich dafür entschuldigte. Hmm, ist diese ehrliche Unschuld also von der Familie Schmidt geerbt?",
+      "es": "Cuando conocí a Mika, parecía una persona muy nerviosa, así que decidí contar algunos chistes para romper el hielo. Lo que no anticipé es que eso le haría ponerse aún más nervioso. Era como si hubieran pegado una sonrisa en su cara. Al final, hasta me escribió una carta de disculpas. *Tch, Tch*, ¿acaso es hereditario entre los Schmidt el tomárselo todo tan en serio?",
+      "fr": "Quand j'ai rencontré Mika pour la première fois, il m'a paru être quelqu'un d'angoissé, alors j'ai voulu lui faire une petite blague. Je ne pensais pas que cela le rendrait encore plus nerveux, même son sourire s'est figé... Au final, il m'a carrément écrit une lettre d'excuses. Tss, c'est un trait de la famille Schmidt de tout prendre au sérieux comme ça ?",
+      "pt": "Quando eu conheci Mika pela primeira vez, ele pareceu do tipo nervoso, então eu decidi brincar um pouco com ele. Eu não contava que isso o deixaria ainda mais nervoso... O sorriso dele pareceu como se tivesse sido estampado na cara dele, e no fim, ele até me escreveu uma carta de desculpas. Tsk-tsk. Levar tudo tão a sério corre nas veias dos Schimdts?",
+      "ru": "При первой встрече Мика немного нервничал, и мне показалось, что небольшой розыгрыш поможет ему снять напряжение. Кто же знал, что он занервничает ещё больше... Улыбка у него стала словно приклеенная, а потом он ещё и написал мне письмо с извинениями. Ох, наверное, эта наивная серьёзность у Шмидтов в крови?",
+      "id": "Saat aku pertama kali bertemu Mika, dia sepertinya tipe orang yang mudah gugup, jadi aku memutuskan untuk bercanda dengannya. Tapi tak kusangka dia malah makin gugup ... Senyumnya seolah terpampang di wajahnya, dan pada akhirnya, dia bahkan menulis surat permintaan maaf kepadaku. Ck-ck. Apa memang semua orang di keluarga Schmidt selalu menganggap segala hal dengan serius?",
+      "th": "ในตอนแรกที่รู้จักกัน ฉันเห็นว่า Mika ประหม่าง่าย ก็เลยเล่นมุกตลก ๆ กับเขาไปนิดหน่อย ที่ไหนได้เขากลับยิ่งประหม่าหนักขึ้นไปซะอีก แม้แต่ตอนยิ้มก็ยังยิ้มแบบแข็งกระด้าง... และในตอนสุดท้ายยังเขียนจดหมายมาขอโทษอีกด้วย เฮ้อ... คุณสมบัติที่เรียบง่ายและตรงไปตรงมานี้ อย่าบอกนะว่าสืบทอดกันมาในตระกูล Schmidts?",
+      "vi": "Khi vừa mới tiếp xúc thì tôi thấy Mika rất dễ bị căng thẳng, thế là tôi liền trêu đùa đôi chút. Nào ngờ Mika còn căng thẳng hơn, đến cả cười cũng cứng đờ... Sau đó Mika viết thư xin lỗi tôi. Haiz, loại phẩm chất ngây thơ thành thật này không lẽ là được kế thừa từ gia tộc Schmidt sao?"
+    }
+  },
+  {
+    "title": {
       "zhs": "想要了解凯亚·其一",
       "zht": "想要瞭解凱亞·其一",
       "jp": "ガイアを知る·1",
@@ -987,7 +1051,7 @@
       "pt": "Não tem nada para ostentar com o título de Capitão da Cavalaria. Falando nisso, o Grande Mestre levou toda a cavalaria de Mondstadt e não sobrou nada para eu liderar. Hehe.",
       "ru": "В звании капитана кавалерии нет ничего особенного. К тому же магистр ордена забрал всех лошадей с собой, и мне стало нечем командовать... Хе-хе.",
       "id": "Gelar sebagai Kapten Kavaleri bukanlah hal yang luar biasa. Ngomong-ngomong, semua kesatria di kota Mondstadt sudah dibawa pergi oleh Grand Master. Haha.",
-      "th": "ตำแหน่งหัวหน้ากองทหารม้าน่ะไม่มีอะไรน่าสนใจหรอกนะ จะว่าไปแล้ว กองทหารม้าของ Mondstadt น่ะ ถูกผู้บัญชาการลากไปด้วยหมด แล้วล่ะ ฮ่าฮ่า",
+      "th": "ตำแหน่งหัวหน้ากองทหารม้าน่ะไม่มีอะไรน่าสนใจหรอกนะ จะว่าไปแล้ว กองทหารม้าของ Mondstadt น่ะ ถูกแกรนด์มาสเตอร์ลากไปด้วยหมดแล้วล่ะ ฮ่าฮ่า",
       "vi": "Chức vụ Đội Trưởng Kỵ Binh cũng không có gì ghê gớm cả. Nói ra thì, tất cả kỵ binh đều bị Đại Đội Trưởng mang đi rồi. Haha."
     }
   },

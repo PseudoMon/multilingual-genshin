@@ -1,0 +1,62 @@
+{
+  "name": {
+    "zhs": "赛诺",
+    "zht": "賽諾",
+    "jp": "セノ",
+    "ko": "사이노",
+    "en": "Cyno",
+    "de": "Cyno",
+    "es": "Cyno",
+    "fr": "Cyno",
+    "pt": "Cyno",
+    "ru": "Сайно",
+    "id": "Cyno",
+    "th": "Cyno",
+    "vi": "Cyno"
+  },
+  "title": {
+    "zhs": "缄秘的裁遣",
+    "zht": "緘秘的裁遣",
+    "jp": "緘秘の裁き",
+    "ko": "비밀 심판",
+    "en": "Judicator of Secrets",
+    "de": "Richter über Geheimnisse",
+    "es": "El Magistrado de lo Arcano",
+    "fr": "Juge des secrets",
+    "pt": "Juiz dos Segredos",
+    "ru": "Вершитель таинств",
+    "id": "Judicator of Secrets",
+    "th": "การพิพากษาอันซ่อนเร้น",
+    "vi": "Phán Quyết Ẩn Mật"
+  },
+  "description": {
+    "zhs": "教令院内负责监管学者们的「大风纪官」。工作时比刹诃伐罗学院制作的「大风机关」更有效率。",
+    "zht": "教令院內負責監管學者們的「大風紀官」。工作時比剎訶伐羅學院製作的「大風機關」更有效率。",
+    "jp": "教令院の学者たちを監督する「大マハマトラ」。クシャレワー学院が作った『大マッハマシン』よりも効率よく仕事をこなす。",
+    "ko": "아카데미아에서 학자들을 감독하고 관리하는 「대풍기관」. 업무 집행 중에는 크샤흐레와르 학부에서 제작한 「대풍 기관」보다도 더 효율적으로 움직인다",
+    "en": "The General Mahamatra in charge of supervising the researchers of the Akademiya. It is said that when he gets down to work, the General Mahamatra is even more efficient than the \"Great Vayuvyastra\" made by the Kshahrewar.",
+    "de": "Mahamatra an der Akademie, der die Arbeit der Gelehrten beaufsichtigt. Bei seiner Arbeit ist er effizienter als das „Große Vayuvyastra“, das das Kshahrewar-Institut geschaffen hat.",
+    "es": "Gran Juez de la matra y supervisor de los eruditos de la Academia de Sumeru. Cuando trabaja, es incluso más eficiente que la “Gran Vayuvyastra” creada por la Facultad Kshahrewar.",
+    "fr": "Le général mahamatra chargé de superviser les chercheurs de l'Académie. On dit que lorsqu'il se met au travail, il est encore plus efficace que le grand vayuvyastra fabriqué par le Kshahrewar.",
+    "pt": "O General Mahamatra responsável por supervisionar os pesquisadores da Academia.\\nDizem que quando ele está trabalhando, o General Mahamatra é ainda mais eficiente do que o \"Grande Vayuvyastra\" feito pelos Kshahrewar.",
+    "ru": "Генерал махаматра, который осуществляет надзор над всеми учёными Академии. Говорят, в работе он по эффективности превосходит «Великую Ваювьястру» Кшахревара.",
+    "id": "\"Mahamatra Umum\" yang mengawasi para peneliti di Akademiya. Saat bekerja, lebih efisien daripada \"Vayuvyastra Agung\" buatan Kshahrewar.",
+    "th": "\"เจ้าหน้าที่มหามาตรา\" ผู้รับหน้าที่ดูแลนักวิชาการในสถาบัน...ในตอนที่ทำงาน มีประสิทธิภาพมากกว่า \"กลไกมหามนตรา\" ที่ผลิตโดยคณะ Kshahrewar เสียอีก",
+    "vi": "\"Tổng Quản Mahamatra\", phụ trách giám sát các học giả trong Giáo Viện. Hiệu suất trong lúc làm việc sẽ còn hiệu quả hơn \"Vayuvyastra Vĩ Đại\" của Học Phái Kshahrewar."
+  },
+  "constellation": {
+    "zhs": "金狼座",
+    "zht": "金狼座",
+    "jp": "金狼座",
+    "ko": "황금이리자리",
+    "en": "Lupus Aureus",
+    "de": "Lupus Aureus",
+    "es": "Lupus Aureus",
+    "fr": "Lupus Aureus",
+    "pt": "Lupus Aureus",
+    "ru": "Золотой Шакал",
+    "id": "Lupus Aureus",
+    "th": "Lupus Aureus",
+    "vi": "Cung Kim Lang"
+  }
+}

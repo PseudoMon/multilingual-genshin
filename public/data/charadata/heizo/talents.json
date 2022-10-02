@@ -186,7 +186,7 @@
       "fr": "Réduit la consommation d'endurance des personnages de l'équipe de 20 % lors du sprint.\nNe peut pas être cumulé avec d'autres aptitudes passives aux effets identiques.",
       "pt": "Diminui o consumo de Stamina ao correr de todos os seus membros da equipe em 20%.\nNão acumulável com Talentos Passivos que concedem exatamente os mesmos efeitos.",
       "ru": "Уменьшает потребление выносливости активного персонажа во время спринта на 20%.\nНе суммируется с пассивными талантами, дающими точно такие же эффекты.",
-      "id": "Mengurangi 20% konsumsi Stamina Karakter sendiri saat berlari.\nEfek tidak dapat ditumpuk dengan Talenta Pasif lain yang memiliki efek yang sama.",
+      "id": "Mengurangi 20% konsumsi Stamina Karakter party sendiri saat berlari.\nEfek tidak dapat ditumpuk dengan Talenta Pasif lain yang memiliki efek yang sama persis.",
       "th": "ลดอัตราการเสียพลังกายจากการวิ่ง ให้ตัวละครของตนเองที่อยู่ในทีมลง 20%\nไม่สามารถซ้อนทับพรสวรรค์ติดตัวที่เอฟเฟกต์เหมือนกันทุกประการได้",
       "vi": "Giảm 20% tiêu hao thể lực khi xung kích cho nhân vật của bản thân trong đội.\nKhông thể cộng dồn với buff Thiên Phú cố định có cùng hiệu quả."
     }

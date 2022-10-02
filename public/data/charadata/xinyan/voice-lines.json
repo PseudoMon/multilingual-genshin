@@ -26,7 +26,7 @@
       "fr": "#Xinyan c'est mon nom, le rock 'n' roll c'est ma passion ! Et je suis la seule à en jouer dans tout le Port de Liyue. J'pense organiser des concerts d'ailleurs ces derniers temps, mais... Hum... Eh bien, on dit que tu voyages partout, {M#voyageur}{F#voyageuse}... Alors, ça te dirait que je t'accompagne en tournée mondiale ? N'importe où, ça me va !",
       "pt": "Xinyan é o nome, e o rock and roll é o estilo - e eu sou a única que toca ele no Porto de Liyue. Ultimamente, tenho pensado em fazer concertos em outros lugares, mas... Hmm... Bem, dizem que você tem andado por toda parte, Viajante. Então, o que me diz de você me inscrever para sua turnê mundial? Qualquer lugar seria bom!",
       "ru": "#Меня зовут Синь Янь, и я единственный рок-музыкант в Ли Юэ. Подумываю о том, чтобы отправиться в турне, а вот куда... А, я слышала, ты, путешественн{F#ица}{M#ик}, во многих местах бывал{F#a}, верно? Как насчёт того, чтобы путешествовать вместе? Куда угодно!",
-      "id": "Aku adalah Xinyan, satu-satunya musisi rock 'n' roll di pelabuhan Liyue. Belakangan ini aku sedang berencana untuk mengadakan pertunjukan di tempat lain. Tempat tujuanku selanjutnya... Ah, kudengar kamu sering pergi ke berbagai tempat kan, Pengembara? Biarkan aku ikut denganmu! Aku akan ikut kemana pun kamu pergi.",
+      "id": "Aku adalah Xinyan, satu-satunya musisi rock 'n' roll di pelabuhan Liyue. Belakangan ini aku sedang berencana untuk mengadakan pertunjukan di tempat lain. Tempat tujuanku selanjutnya... Ah, kudengar kamu sering pergi ke berbagai tempat kan, Pengembara? Biarkan aku ikut denganmu! Aku akan ikut ke mana pun kamu pergi.",
       "th": "ฉันชื่อ Xinyan เป็นนักดนตรีร็อกแอนด์โรลเพียงหนึ่งเดียวของท่าเรือ Liyue ช่วงนี้ฉันกำลังคิดว่าจะจัดทัวร์คอนเสิร์ตต่างเมือง จุดประสงค์คือ... อ๊ะ ได้ยินว่าคุณเคยไปมาหลายเมืองแล้วใช่มั้ยนักเดินทาง? ให้ฉันเข้าร่วมวงด้วยได้มั้ย? แล้วเราก็ไปทัวร์รอบโลกกัน",
       "vi": "Tôi là Xinyan, nhạc sĩ nhạc Rock duy nhất ở cảng Liyue. Gần đây tôi muốn đi diễn ở những nơi khác, điểm đến tiếp theo... À, nghe nói bạn đã đi qua rất nhiều nơi rồi đúng không? Hãy để tôi tham gia với bạn! Đi đâu cũng được."
     }
@@ -347,7 +347,7 @@
       "pt": "Estou prestes a começar o show. Você vem?",
       "ru": "Скоро выступление! Ты со мной?",
       "id": "Sebentar lagi pertunjukan akan dimulai, kamu ikut?",
-      "th": "คอนเสิร์ตกำลังจะเริ่มแล้ว คุณก็มาสนุกด้วยกันสิ!",
+      "th": "คอนเสิร์ตกำลังจะเริ่มแล้ว เธอก็มาสนุกด้วยกันสิ!",
       "vi": "Buổi biểu diễn sắp diễn ra, bạn cũng ra quẩy cùng chứ?"
     }
   },

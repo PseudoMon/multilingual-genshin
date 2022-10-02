@@ -146,7 +146,7 @@
     "description": {
       "zhs": "基于生命值上限，钟离的以下攻击造成的伤害提高：\n·普通攻击、重击与下落攻击伤害提高值：生命值上限的1.39%\n·<color=#FFD780FF>地心</color>的岩脊、共鸣伤害与长按伤害提高值：生命值上限的1.9%\n·<color=#FFD780FF>天星</color>伤害提高值：生命值上限的33%",
       "zht": "基於生命值上限，鍾離的以下攻擊造成的傷害提高：\n·普通攻擊、重擊與下落攻擊傷害提高值：生命值上限的1.39%\n·<color=#FFD780FF>地心</color>的岩脊、共鳴傷害與長按傷害提高值：生命值上限的1.9%\n·<color=#FFD780FF>天星</color>傷害提高值：生命值上限的33%",
-      "jp": "HP上限を基に、鍾離の下記攻撃のダメージが増加する。\n·通常攻撃、重撃と落下攻撃のダメージ増加量：HP上限の1.39%\n·<color=#FFD780FF>地心</color>の岩柱、共鳴と長押しダメージ増加量：HP上限の1.9%\n·<color=#FFD780FF>天星</color>ダメージ増加量：HP上限の33%",
+      "jp": "HP上限を基準に、鍾離の下記攻撃のダメージが増加する。\n·通常攻撃、重撃と落下攻撃のダメージ増加量：HP上限の1.39%\n·<color=#FFD780FF>地心</color>の岩柱、共鳴と長押しダメージ増加量：HP上限の1.9%\n·<color=#FFD780FF>天星</color>ダメージ増加量：HP上限の33%",
       "ko": "HP 최대치에 기반하여 종려가 가하는 아래 공격의 피해가 증가한다: \n·일반 공격, 강공격, 낙하 공격으로 가하는 피해가 HP 최대치의 1.39%만큼 증가\n·<color=#FFD780FF>지핵</color>의 암주, 공명 피해와 홀드 피해 증가량: HP 최대치의 1.9%\n·<color=#FFD780FF>천성</color> 피해 증가량: HP 최대치의 33%",
       "en": "Zhongli deals bonus DMG based on his Max HP:\n·Normal Attack, Charged Attack, and Plunging Attack DMG is increased by 1.39% of Max HP.\n·<color=#FFD780FF>Dominus Lapidis'</color> Stone Stele, resonance, and hold DMG is increased by 1.9% of Max HP.\n·<color=#FFD780FF>Planet Befall's</color> DMG is increased by 33% of Max HP.",
       "de": "Erhöht den mit den folgenden Angriffen von Zhongli verursachten Schaden basierend auf seinen max. LP:\n· Erhöht den Schaden von Standardangriffen, heftigen Schlägen und Angriffen aus dem Fall um 1,39 % der max. LP.\n· Erhöht den Schaden des Hügelkamms von <color=#FFD780FF>Dominus Lapidis</color>, den des Einklangs und den beim Gedrückthalten um 1,9 % der max. LP.\n· Erhöht den Schaden von <color=#FFD780FF>Einstürzender Himmel</color> um 33 % der max. LP.",

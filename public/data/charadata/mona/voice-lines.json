@@ -123,7 +123,7 @@
       "pt": "O destino é chamado como tal, pois não pode ser alterado, não pode ser revertido. Ele só pode ser aceito.",
       "ru": "Судьбу нельзя изменить, ей нельзя противиться, её можно только принять. Поэтому она называется судьбой.",
       "id": "Nasib adalah nasib. Tidak bisa diubah, tidak bisa dilawan, dan hanya bisa diterima.",
-      "th": "เพราะมันไม่สามารถเปลี่ยนแปลง หรือย้อนกลับได้ ทำได้เพียงยอมรับมันเท่านั้น มันถึงได้ชื่อว่าโชคชะตา",
+      "th": "เพราะไม่สามารถเปลี่ยนแปลงหรือย้อนกลับได้ ทำได้เพียงยอมรับเท่านั้น มันถึงได้เรียกว่าโชคชะตา",
       "vi": "Chính vì chỉ có thể chấp nhận mà không thể thay đổi hay chống đối. Vận mệnh mới được gọi là vận mệnh."
     }
   },
@@ -284,7 +284,7 @@
       "ru": "#Ты {M#пришёл}{F#пришла} не вовремя, утренняя звезда только что пропала... Завтракать? Я уже позавтракала.",
       "id": "Kamu datang di waktu yang salah. Bintang pagi baru saja menghilang... Makan pagi? Tidak, A— aku sudah makan.",
       "th": "เธอมาไม่ได้จังหวะซะเลย ดาวแห่งรุ่งอรุณเพิ่งจะหายไปเอง... อาหารเช้า? ฉะ ฉันกินมาแล้ว",
-      "vi": "Bạn đến không đúng lúc rồi, ngôi sao bình mình vừa biến mất... Bữa sáng ư? Tôi, tôi đã ăn rồi."
+      "vi": "Bạn đến không đúng lúc rồi, ngôi sao bình minh vừa biến mất... Bữa sáng ư? Tôi, tôi đã ăn rồi."
     }
   },
   {
@@ -481,17 +481,17 @@
   },
   {
     "title": {
-      "zhs": "关于我们· 你的命运",
+      "zhs": "关于我们·你的命运",
       "zht": "#關於我們·{F#妳}{M#你}的命運",
-      "jp": "あなたの運命について…",
+      "jp": "あなたの運命について",
       "ko": "우리에 대해·너의 운명",
       "en": "About Us: Your Fate",
-      "de": "Über uns – dein Schicksal",
-      "es": "#Sobre nosotr{F#as}{M#os} - Tu fortuna",
-      "fr": "À propos de nous - Mon destin",
-      "pt": "Sobre Nós - Seu destino",
-      "ru": "О нас: Твоя судьба",
-      "id": "Tentang kita: Takdirmu",
+      "de": "Über uns – Dein Schicksal",
+      "es": "Sobre nosotros - Tu fortuna",
+      "fr": "À propos de nous - Votre destin",
+      "pt": "Sobre nós - Seu destino",
+      "ru": "О нас: Твоё предназначение",
+      "id": "Tentang kami - Takdirmu",
       "th": "เกี่ยวกับเรา - โชคชะตาของคุณ",
       "vi": "Về chúng tôi - Vận Mệnh Của Bạn"
     },

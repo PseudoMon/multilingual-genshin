@@ -480,6 +480,26 @@
     }
   },
   {
+    "url": "sword/pleroma",
+    "type": "sword",
+    "rank": 4,
+    "name": {
+      "zhs": "西福斯的月光",
+      "zht": "西福斯的月光",
+      "jp": "サイフォスの月明かり",
+      "ko": "크시포스의 달빛",
+      "en": "Xiphos' Moonlight",
+      "de": "Mondlicht von Xiphos",
+      "es": "Luz Lunar de Xifos",
+      "fr": "Clair de lune de Xiphos",
+      "pt": "Luz Lunar de Xiphos",
+      "ru": "Лунное сияние ксифоса",
+      "id": "Xiphos' Moonlight",
+      "th": "Xiphos' Moonlight",
+      "vi": "Ánh Trăng Xiphos"
+    }
+  },
+  {
     "url": "sword/youtouenchanted",
     "type": "sword",
     "rank": 4,
@@ -715,6 +735,26 @@
       "id": "Haran Geppaku Futsu",
       "th": "Haran Geppaku Futsu",
       "vi": "Haran Geppaku Futsu"
+    }
+  },
+  {
+    "url": "sword/deshret",
+    "type": "sword",
+    "rank": 5,
+    "name": {
+      "zhs": "圣显之钥",
+      "zht": "聖顯之鑰",
+      "jp": "聖顕の鍵",
+      "ko": "성현의 열쇠",
+      "en": "Key of Khaj-Nisut",
+      "de": "Khaj-Nisut-Schlüssel",
+      "es": "Llave de la Coronación",
+      "fr": "Clé de Khaj-Nisut",
+      "pt": "Chave de Hierofania",
+      "ru": "Ключ Хадж-нисут",
+      "id": "Key of Khaj-Nisut",
+      "th": "Key of Khaj-Nisut",
+      "vi": "Chìa Khóa Khaj-Nisut"
     }
   },
   {
@@ -1135,6 +1175,26 @@
       "id": "Katsuragikiri Nagamasa",
       "th": "Katsuragikiri Nagamasa",
       "vi": "Trường Đao Katsuragi"
+    }
+  },
+  {
+    "url": "claymore/pleroma",
+    "type": "claymore",
+    "rank": 4,
+    "name": {
+      "zhs": "玛海菈的水色",
+      "zht": "瑪海菈的水色",
+      "jp": "マカイラの水色",
+      "ko": "물빛 마카이라",
+      "en": "Makhaira Aquamarine",
+      "de": "Makhaira-Aquamarin",
+      "es": "Májaira Aguamarina",
+      "fr": "Aigue-marine de Makhaira",
+      "pt": "Água-marinha de Mahara",
+      "ru": "Аквамарин Махайры",
+      "id": "Makhaira Aquamarine",
+      "th": "Makhaira Aquamarine",
+      "vi": "Sắc Nước Makhaira"
     }
   },
   {
@@ -1696,6 +1756,26 @@
     }
   },
   {
+    "url": "pole/windvane",
+    "type": "polearm",
+    "rank": 4,
+    "name": {
+      "zhs": "风信之锋",
+      "zht": "風信之鋒",
+      "jp": "風信の矛",
+      "ko": "날카로운 바람의 서신",
+      "en": "Missive Windspear",
+      "de": "Spitze der klingenden Winde",
+      "es": "Alabarda del Viento Epistolar",
+      "fr": "Lance du vent saisonnier",
+      "pt": "Lâmina do Vento Mensageiro",
+      "ru": "Копьё послания ветров",
+      "id": "Missive Windspear",
+      "th": "Missive Windspear",
+      "vi": "Mũi Nhọn Của Gió"
+    }
+  },
+  {
     "url": "pole/homa",
     "type": "polearm",
     "rank": 5,
@@ -1832,6 +1912,26 @@
       "id": "Engulfing Lightning",
       "th": "Engulfing Lightning",
       "vi": "Đoạn Thảo Trường Đao"
+    }
+  },
+  {
+    "url": "pole/deshret",
+    "type": "polearm",
+    "rank": 5,
+    "name": {
+      "zhs": "赤沙之杖",
+      "zht": "赤沙之杖",
+      "jp": "赤砂の杖",
+      "ko": "적색 사막의 지팡이",
+      "en": "Staff of the Scarlet Sands",
+      "de": "Stab der roten Sande",
+      "es": "Báculo de las Arenas Escarlatas",
+      "fr": "Bâton des sables écarlates",
+      "pt": "Báculo das Areias Escarlates",
+      "ru": "Посох алых песков",
+      "id": "Staff of the Scarlet Sands",
+      "th": "Staff of the Scarlet Sands",
+      "vi": "Quyền Trượng Cát Đỏ"
     }
   },
   {
@@ -2272,6 +2372,26 @@
       "id": "Oathsworn Eye",
       "th": "Oathsworn Eye",
       "vi": "Con Ngươi Tuyên Thệ"
+    }
+  },
+  {
+    "url": "catalyst/pleroma",
+    "type": "catalyst",
+    "rank": 4,
+    "name": {
+      "zhs": "流浪的晚星",
+      "zht": "流浪的晚星",
+      "jp": "彷徨える星",
+      "ko": "방랑하는 저녁별",
+      "en": "Wandering Evenstar",
+      "de": "Wandernder Abendstern",
+      "es": "Estrella Errabunda",
+      "fr": "Étoile du soir errante",
+      "pt": "Estrela Itinerante",
+      "ru": "Скитающаяся звезда",
+      "id": "Wandering Evenstar",
+      "th": "Wandering Evenstar",
+      "vi": "Sao Đêm Rong Ruổi"
     }
   },
   {

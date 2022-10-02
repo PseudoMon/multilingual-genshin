@@ -187,7 +187,7 @@
       "pt": "Eu apliquei um óleo impermeável na minha cauda. Uma balançadinha e já estou seco!",
       "ru": "Я натираю хвост специальным эфирным маслом с защитой от влаги. Отряхнул немного, и он снова сухой!",
       "id": "Aku mengoleskan minyak tumbuhan yang anti air ke ekorku. Cukup kibas-kibaskan sedikit, lalu kering.",
-      "th": "หางของฉันเคลือบด้วยน้ำมันสกัดจากพืชเพื่อกันน้ำ แค่ฉันก็เขย่าก็แห้งแล้วล่ะ",
+      "th": "หางของฉันเคลือบด้วยน้ำมันสกัดจากพืชเพื่อกันน้ำ แค่ฉันเขย่าก็แห้งแล้วล่ะ",
       "vi": "Đuôi của tôi có bôi qua tinh dầu thực vật chống nước, vẫy vẫy chút là sẽ khô thôi."
     }
   },
@@ -329,7 +329,7 @@
       "de": "Guten Morgen.",
       "es": "Buenos días...",
       "fr": "Au réveil...",
-      "pt": "Bom Dia...",
+      "pt": "Bom dia...",
       "ru": "Доброе утро...",
       "id": "Selamat Pagi",
       "th": "อรุณสวัสดิ์...",
@@ -754,7 +754,7 @@
     "line": {
       "zhs": "你想见赛诺？那我丑话说在前头，被他因为公事追在屁股后面可是要倒大霉的。大风纪官毕竟位高权重，平日里还真不好找。不过他偶尔会到化城郭附近偷偷看望柯莱，就算他不想让人看见，我也能听出是他。",
       "zht": "#{F#妳}{M#你}想見賽諾？那我醜話說在前頭，被他因為公事追在屁股後面可是要倒大霉的。大風紀官畢竟位高權重，平日裡還真不好找。不過他偶爾會到化城郭附近偷偷看望柯萊，就算他不想讓人看見，我也能聽出是他。",
-      "jp": "セノに会いたいの？先に忠告しておくけど、あいつに目を付けられると厄介なことになるよ。大マハマトラのようなお偉いさんにはなかなか会えない。でも、あいつはたまにガンダルヴァ村までコレイの様子をこっそり見に来てるんだ。セノはバレたくなかったんだろうけど、声で分かる。",
+      "jp": "セノに会いたいの？先に忠告しておくけど、あいつに目を付けられると厄介なことになるよ。大マハマトラのようなお偉いさんにはなかなか会えない。でも、あいつはたまにガンダルヴァー村までコレイの様子をこっそり見に来てるんだ。セノはバレたくなかったんだろうけど、声で分かる。",
       "ko": "사이노를 만나고 싶다고? 그럼 단도직입적으로 말할게. 그에게 공적인 일로 시달려 보면 정말 기겁하게 될걸. 평소엔 대풍기관처럼 높은 사람을 보는 건 쉽지 않아. 근데 가끔 간다르바 성곽 근처에서 몰래 콜레이를 지켜보더라고. 본인은 숨기고 싶어 하는데 난 소리만으로도 사이노라는 걸 알 수 있어",
       "en": "You want to see Cyno...? Well, firstly, a word of caution: if he ever comes chasing you down for work-related reasons, prepare for the nightmare of a lifetime. Other than that, General Mahamatra is a high-ranking position, so it usually isn't easy to find him. But he does occasionally go to Gandharva Ville to see Collei. As much as he might want to stay unnoticed, he can't fool my ears, heh.",
       "de": "Möchtest du Cyno sehen? Dann sage ich das Schlechte zuerst: Es ist eine große Plage, wenn er immer hinter deinem Rücken herumscharwenzelt. Als Mahamatra ist er normalerweise nicht leicht zu finden, aber manchmal kommt er in die Nähe von Gandharva, um heimlich nach Collei zu sehen. Auch wenn er glauben mag, dass ich ihn nicht sehen könnte, kann ich ihn doch hören.",
@@ -827,7 +827,7 @@
       "pt": "Kaveh é um arquiteto famoso em Sumeru. O Palácio de Alcazarzaray é a sua obra-prima. Durante os planejamentos iniciais, ele me perguntou sobre plantas ornamentais que fossem adequadas. Eu não sei como ou por que, mas ele acabou com muitas dívidas quando o palácio ficou pronto. Alhaitham está ajudando, deixando-o ficar em sua casa... às vezes não sei se isso é uma bênção ou uma maldição...",
       "ru": "Кавех - известный архитектор Сумеру, его главное творение - великолепный Алькасар-сарай. Выполняя проект, Кавех даже обращался ко мне за консультацией, просил порекомендовать подходящие декоративные растения. Но когда дворец был уже построен, Кавех почему-то оказался весь в долгах. Теперь аль-Хайтам приютил его у себя дома и помог с деньгами. Не знаю, к добру это или к худу...",
       "id": "Kaveh adalah arsitek terkenal di Sumeru. The Palace of Alcazarzaray adalah maha karya miliknya. Selama perencanaannya, dia bahkan bertanya padaku untuk merekomendasikan flora hias yang cocok. Aku tidak tahu kenapa dan bagaimana, tapi dia akhirnya terlilit utang setelah istana itu selesai dibangun. Alhaitham membantu dengan membiarkan dia tinggal di tempatnya, tapi ... Aku tidak tahu apa itu berkah atau kutukan ....",
-      "th": "Kaveh เป็นสถาปนิกชื่อดังของ Sumeru ซึ่งผลงานชิ้นเอกคือวัง Alcazarzaray อันโดดเด่นอันนั้นน่ะ ในตอนแรกที่เขาออกแบบและสร้างมันขึ้นมา เขาก็ยังมาถามฉันนะว่ามีไม้ประดับอะไรที่เหมาะสมแนะนำบ้างรึเปล่า แต่ไม่มีรู้ว่าไปทำยังไงเข้า หลังจากที่สร้างวังเสร็จ เขากลับทำให้ตัวเองต้องติดหนี้ก้อนโต ตอนนี้เขาได้รับความช่วยเหลือจาก Alhaitham รุ่นน้องของเขาที่ให้เขาพักอาศัยอยู่ในบ้านด้วย นี่... ควรจะพูดว่าโชคดี.. หรือว่าโชคร้ายดีล่ะเนี่ย...",
+      "th": "Kaveh เป็นสถาปนิกชื่อดังของ Sumeru ซึ่งผลงานชิ้นเอกคือวัง Alcazarzaray อันโดดเด่นอันนั้นน่ะ ในตอนแรกที่เขาออกแบบและสร้างมันขึ้นมา เขาก็ยังมาถามฉันนะว่ามีไม้ประดับอะไรที่เหมาะสมแนะนำบ้างรึเปล่า แต่ไม่รู้ว่าไปทำยังไงเข้า หลังจากที่สร้างวังเสร็จ เขากลับทำให้ตัวเองต้องติดหนี้ก้อนโต ตอนนี้เขาได้รับความช่วยเหลือจาก Alhaitham รุ่นน้องของเขาที่ให้เขาพักอาศัยอยู่ในบ้านด้วย นี่... ควรจะพูดว่าโชคดี.. หรือว่าโชคร้ายดีล่ะเนี่ย...",
       "vi": "Kaveh là kiến trúc sư nổi tiếng của Sumeru, công trình tiêu biểu chính là Cung Điện Alcazarzaray đó. Lúc thiết kế anh ấy còn đến chỗ tôi hỏi xem có loài hoa nào thích hợp để ngắm không. Nhưng không biết vì lý do gì mà anh ta sau khi hoàn công lại phải gánh một khoản nợ khổng lồ, giờ đang được lớp dưới là Alhaitham tiếp tế và cho ở nhờ. Cái này... không biết là hên hay xui đây..."
     }
   },

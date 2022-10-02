@@ -1,0 +1,200 @@
+[
+  {
+    "title": {
+      "zhs": "却月的轻舞",
+      "zht": "卻月的輕舞",
+      "jp": "却月の舞踊",
+      "ko": "반월의 춤",
+      "en": "Dance of the Waning Moon",
+      "de": "Tanz des abnehmenden Mondes",
+      "es": "Danza de la luna menguante",
+      "fr": "Danse de la lune décroissante",
+      "pt": "Dança da Lua Minguante",
+      "ru": "Танец убывающей луны",
+      "id": "Dance of the Waning Moon",
+      "th": "Dance of the Waning Moon",
+      "vi": "Bước Dạo Trăng Khuyết"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>七域舞步</color>获得如下强化：\n·水月造成的伤害提升65%；\n·净天水环的持续时间延长6秒。",
+      "zht": "<color=#FFD780FF>七域舞步</color>獲得如下強化：\n·水月造成的傷害提升65%。\n·淨天水環的持續時間延長6秒。",
+      "jp": "<color=#FFD780FF>七域のダンス</color>は、以下の強化効果を獲得する。\n·水月によるダメージ+65%。\n·天を滌う水環の継続時間+6秒。",
+      "ko": "<color=#FFD780FF>칠역의 춤</color>이 아래의 강화 효과를 획득한다:\n·물의 달로 가하는 피해 65% 증가\n·평정의 물안개 지속 시간 6초 증가",
+      "en": "<color=#FFD780FF>Dance of Haftkarsvar</color> will be enhanced as follows:\n·Luminous Illusion DMG is increased by 65%.\n·The Tranquility Aura's duration is extended by 6s.",
+      "de": "Verleiht der Elementarfähigkeit <color=#FFD780FF>Haftkarsvar-Tanz</color> folgende Boni:\n· Erhöht den Schaden des Wassermonds um 65 %.\n· Verlängert die Dauer der Gelassenheits-Aura um 6 s.",
+      "es": "<color=#FFD780FF>Danza de los siete reinos</color> obtiene los siguientes fortalecimientos:\n·Aumenta en un 65% el daño infligido con la luna de agua.\n·Aumenta en 6 s la duración del aura de quietud.",
+      "fr": "<color=#FFD780FF>Danse des haftkarsvars</color> bénéficie des améliorations suivantes :\n· Les DGT infligés par la lune aqueuse augmentent de 65 %.\n· La durée de l'aura de tranquillité augmente de 6 s.",
+      "pt": "A <color=#FFD780FF>Dança dos Sete Reinos</color> obtém os seguintes fortalecimentos:\nAumenta o Dano CRIT de Lua Aquática em 65%.\nA Duração da Aura da Tranquilidade é aumentada em 6s.",
+      "ru": "<color=#FFD780FF>Танец Хафткаршвар</color> усиливается следующим образом:\n· Урон Сияющей иллюзии повышается на 65%.\n· Длительность Ауры покоя увеличивается на 6 сек.",
+      "id": "<color=#FFD780FF>Dance of Haftkarsvar</color> mendapatkan penguatan berikut:\n·DMG yang diakibatkan Luminous Illusion meningkat sebesar 65%;\n·Durasi Tranquility Aura diperpanjang 6 detik.",
+      "th": "<color=#FFD780FF>Dance of Haftkarsvar</color> ได้รับการเสริมพลังดังนี้:\n·Luminous Illusion สร้างความเสียหายเพิ่มขึ้น 65%;\n·ช่วงเวลาต่อเนื่องของ Tranquility Aura ยาวนานขึ้น 6 วินาที",
+      "vi": "<color=#FFD780FF>Vũ Điệu Haftkarsvar</color> nhận được cường hóa sau:\n·Sát thương Thủy Nguyệt gây ra tăng 65%;\n·Thời gian duy trì Vòng Nước Thanh Tẩy kéo dài thêm 6s."
+    },
+    "imgid": "constellation_1"
+  },
+  {
+    "title": {
+      "zhs": "星天的花雨",
+      "zht": "星天的花雨",
+      "jp": "星天の花雨",
+      "ko": "별하늘의 꽃비",
+      "en": "The Starry Skies Their Flowers Rain",
+      "de": "Blumenregen des Sternenhimmels",
+      "es": "Lluvia florestelar",
+      "fr": "Pluie de fleurs du ciel étoilé",
+      "pt": "Chuva Florestelar",
+      "ru": "Дождь лепестков звёздного неба",
+      "id": "The Starry Skies Their Flowers Rain",
+      "th": "The Starry Skies Their Flowers Rain",
+      "vi": "Mưa Hoa Trời Sao"
+    },
+    "description": {
+      "zhs": "处于「金杯的丰馈」状态下的角色对敌人造成<color=#80C0FFFF>水元素伤害</color>后，该敌人的<color=#80C0FFFF>水元素抗性</color>降低35%，持续10秒；触发绽放反应对敌人造成伤害后，该敌人的<color=#99FF88FF>草元素抗性</color>降低35%，持续10秒。\n需要解锁固有天赋「折旋落英之庭」。",
+      "zht": "處於「金杯的豐饋」狀態下的角色對敵人造成<color=#80C0FFFF>水元素傷害</color>後，該敵人的<color=#80C0FFFF>水元素抗性</color>降低35%，持續10秒；觸發綻放反應對敵人造成傷害後，該敵人的<color=#99FF88FF>草元素抗性</color>降低35%，持續10秒。\n需要解鎖固有天賦「折旋落英之庭」。",
+      "jp": "「金盃の豊穣」状態のキャラクターが敵に<color=#80C0FFFF>水元素ダメージ</color>を与えた後、その敵の<color=#80C0FFFF>水元素耐性</color>-35%、継続時間10秒。開花反応を起こして敵にダメージを与えた後、その敵の<color=#99FF88FF>草元素耐性</color>-35%、継続時間10秒。\n固有天賦「落花廻旋の庭」を解放する必要がある。",
+      "ko": "「황금잔의 선물」 효과를 부여받은 캐릭터가 적에게 <color=#80C0FFFF>물 원소 피해</color>를 가한 후, 해당 적의 <color=#80C0FFFF>물 원소 내성</color>이 35% 감소한다. 지속 시간: 10초. 개화 반응을 발동하여 적에게 피해를 가한 후, 해당 적의 <color=#99FF88FF>풀 원소 내성</color>이 35% 감소한다. 지속 시간: 10초.\n고유 특성 「꽃보라가 맴도는 정원」을 해금해야 한다",
+      "en": "After characters affected by the Golden Chalice's Bounty deal <color=#80C0FFFF>Hydro DMG</color> to an opponent, that opponent's <color=#80C0FFFF>Hydro RES</color> will be decreased by 35% for 10s. After a triggered Bloom reaction deals DMG to opponents, their <color=#99FF88FF>Dendro RES</color> will be decreased by 35% for 10s.\nYou need to have unlocked the \"Court of Dancing Petals\" Talent.",
+      "de": "Verringert den <color=#80C0FFFF>Hydro-WDS</color> des Gegners 10 s lang um 35 %, nachdem diesem Gegner <color=#80C0FFFF>Hydro-Schaden</color> durch Figuren unter dem Effekt „Überfluss im goldenen Kelch“ zugefügt worden ist. Verringert den <color=#99FF88FF>Dendro-WDS</color> des Gegners 10 s lang um 35 %, nachdem die Reaktion „Sprießen“ diesem Gegner Schaden zugefügt hat.\nDas passive Talent „Hof der wirbelnden Blüten“ muss zuerst freigeschaltet werden.",
+      "es": "Cuando un personaje en el estado de cáliz de la abundancia inflige <color=#80C0FFFF>Daño Hydro</color> contra un enemigo, la <color=#80C0FFFF>RES Hydro</color> de dicho enemigo se reduce en un 35% durante 10 s. Además, tras infligir daño contra un enemigo con una reacción de Florecimiento, la <color=#99FF88FF>RES Dendro</color> de dicho enemigo también se reduce en un 35% durante 10 s.\nEs necesario desbloquear el talento pasivo “Corte de los pétalos danzantes”.",
+      "fr": "Lorsqu'un personnage sous l'effet de Prime du calice d'or a infligé des <color=#80C0FFFF>DGT Hydro</color> à un ennemi, la <color=#80C0FFFF>RÉS Hydro</color> de ce dernier diminue de 35 % pendant 10 s. Lorsqu'une réaction de Fleurissement a infligé des DGT à un ennemi, la <color=#99FF88FF>RÉS Dendro</color> de ce dernier diminue de 35 % pendant 10 s.\nL'aptitude passive « Cour des pétales dansants » doit être déjà débloquée.",
+      "pt": "Quando um personagem que foi afetado pelo efeito de \"Recompensa do Cálice Dourado\" inflige <color=#80C0FFFF>Dano Hydro</color> contra um inimigo, a <color=#80C0FFFF>RES Hydro</color> desse inimigo será reduzida em 35% por 10s. Quando um inimigo sofre Dano de uma reação de Florescimento, a <color=#99FF88FF>RES Dendro</color> dele é reduzida em 35% por 10s.\nÉ necessário ter desbloqueado o Talento \"Corte das Pétalas Dançantes\".",
+      "ru": "<color=#80C0FFFF>Гидро сопротивление</color> противников, получивших <color=#80C0FFFF>Гидро урон</color> от персонажей под воздействием Изобилия золотого кубка, понижается на 35% на 10 сек. <color=#99FF88FF>Дендро сопротивление</color> противников, получивших урон от реакции Бутонизация, понижается на 35% на 10 сек.\nТребуется разблокировать пассивный талант «Зал кружащих лепестков».",
+      "id": "Setelah Karakter yang berada dalam status \"Golden Chalice's Bounty\" mengakibatkan <color=#80C0FFFF>Hydro DMG</color> kepada musuh, mengurangi 35% <color=#80C0FFFF>Hydro RES</color> musuh tersebut selama 10 detik. Setelah memicu reaksi Bloom yang mengakibatkan DMG kepada musuh, mengurangi 35% <color=#99FF88FF>Dendro RES</color> musuh selama 10 detik.\nKamu harus membuka Talenta Pasif \"Court of Dancing Petals\" terlebih dahulu.",
+      "th": "หลังจากที่ตัวละครที่อยู่ภายใต้สภาวะ \"Golden Chalice's Bounty\" สร้าง<color=#80C0FFFF>ความเสียหายน้ำ</color>แก่ศัตรู <color=#80C0FFFF>ความต้านทานน้ำ</color>ของศัตรูดังกล่าวจะลดลง 35% เป็นเวลา 10 วินาที; หลังจากปฏิกิริยางอกเงยที่สร้างทำให้เกิดความเสียหายแก่ศัตรู <color=#99FF88FF>ความต้านทานไม้</color>ของศัตรูดังกล่าวจะลดลง 35% เป็นเวลา 10 วินาที\nต้องปลดล็อกพรสวรรค์ติดตัว \"Court of Dancing Petals\" ก่อน",
+      "vi": "Nhân vật trong trạng thái \"Phước Lành Ly Vàng\" sau khi gây <color=#80C0FFFF>Sát Thương Nguyên Tố Thủy</color> lên kẻ địch sẽ khiến kẻ địch đó giảm 35% <color=#80C0FFFF>Kháng Nguyên Tố Thủy</color>, duy trì 10s. Sau khi kích hoạt phản ứng Sum Suê gây sát thương cho kẻ địch sẽ khiến kẻ địch đó giảm 35% <color=#99FF88FF>Kháng Nguyên Tố Thảo</color>, duy trì 10s.\nCần phải mở khóa thiên phú cố định \"Sảnh Đường Ngân Nga\"."
+    },
+    "imgid": "constellation_2"
+  },
+  {
+    "title": {
+      "zhs": "倾影的莲步",
+      "zht": "傾影的蓮步",
+      "jp": "朝影の蓮歩",
+      "ko": "매혹적인 수련의 그림자",
+      "en": "Beguiling Shadowstep",
+      "de": "Schattenschritt des Lotos",
+      "es": "Loto embelesador",
+      "fr": "Pas d'ombre séduisant",
+      "pt": "Silhueta dos Passos de Lótus",
+      "ru": "Грациозная поступь тени",
+      "id": "Beguiling Shadowstep",
+      "th": "Beguiling Shadowstep",
+      "vi": "Vũ Đạo Phản Chiếu"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>浮莲舞步·远梦聆泉</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>浮蓮舞步·遠夢聆泉</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>浮蓮のダンス·遠夢聆泉</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>수련의 춤·먼 꿈속 샘물 소리</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Dance of Abzendegi: Distant Dreams, Listening Spring</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Abzendegi-Tanz – Ferner Traum am Bach</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Danza del loto: Manantial onírico</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Danse d'abzendegi : Ruisseau des rêves lointains</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o nível da <color=#FFD780FF>Dança da Lótus: Nascente Longínqua Onírica</color> em 3.\nO nível máximo de elevação é 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Танец Абзендеги: Далёкие мечты, внемлющий ручей</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Dance of Abzendegi: Distant Dreams, Listening Spring</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Dance of Abzendegi: Distant Dreams, Listening Spring</color> ขึ้น 3 ระดับ\nเพิ่มได้สูงสุดถึงระดับ 15",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Vũ Điệu Abzendegi - Viễn Mộng Linh Tuyền</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_3"
+  },
+  {
+    "title": {
+      "zhs": "挽漪的节音",
+      "zht": "挽漪的節音",
+      "jp": "清漣の音節",
+      "ko": "잔물결의 음절",
+      "en": "Fricative Pulse",
+      "de": "Ruckender Rhythmus",
+      "es": "Sonido ondulante",
+      "fr": "Impulsion fricative",
+      "pt": "Pulso Sibilante",
+      "ru": "Ритм зыби",
+      "id": "Fricative Pulse",
+      "th": "Fricative Pulse",
+      "vi": "Tiết Tấu Sóng Gợn"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>七域舞步</color>的翩转状态下的第三段舞步命中敌人后，将为妮露恢复15点元素能量，并使妮露的<color=#FFD780FF>浮莲舞步·远梦聆泉</color>造成的伤害提升50%，持续8秒。",
+      "zht": "<color=#FFD780FF>七域舞步</color>的翩轉狀態下的第三段舞步命中敵人後，將為妮露恢復15點元素能量，並使妮露的<color=#FFD780FF>浮蓮舞步·遠夢聆泉</color>造成的傷害提升50%，持續8秒。",
+      "jp": "<color=#FFD780FF>七域のダンス</color>のピルエット状態の3段目のステップが敵に命中すると、ニィロウの元素エネルギーが15回復する。同時に<color=#FFD780FF>浮蓮のダンス·遠夢聆泉</color>によるダメージ+50%、継続時間8秒。",
+      "ko": "<color=#FFD780FF>칠역의 춤</color>의 사뿐한 회전 상태에서 세 번째 춤이 적을 명중하면 닐루의 원소 에너지를 15pt 회복하고, 닐루의 <color=#FFD780FF>수련의 춤·먼 꿈속 샘물 소리</color>가 가하는 피해가 50% 증가한다. 지속 시간: 8초",
+      "en": "After the third dance step of <color=#FFD780FF>Dance of Haftkarsvar</color>'s Pirouette hits opponents, Nilou will gain 15 Elemental Energy, and DMG from her <color=#FFD780FF>Dance of Abzendegi: Distant Dreams, Listening Spring</color> will be increased by 50% for 8s.",
+      "de": "Stellt Nilou 15 Punkte Elementarenergie wieder her, wenn der dritte Tanzschritt im Pirouetten-Modus der Elementarfähigkeit <color=#FFD780FF>Haftkarsvar-Tanz</color> Gegner trifft, und erhöht den Schaden ihrer Spezialfähigkeit <color=#FFD780FF>Abzendegi-Tanz – Ferner Traum am Bach</color> 8 s lang um 50 %.",
+      "es": "Al golpear a un enemigo con el tercer paso de baile del estado de pirueta de <color=#FFD780FF>Danza de los siete reinos</color>, Nilou recupera 15 pts. de Energía Elemental, y el daño de <color=#FFD780FF>Danza del loto: Manantial onírico</color> aumenta en un 50% durante 8 s.",
+      "fr": "Lorsque le troisième pas de danse de l'état de Pirouette de <color=#FFD780FF>Danse des haftkarsvars</color> a touché un ennemi, Nilou récupère 15 pts d'énergie élémentaire et les DGT qu'elle inflige en utilisant <color=#FFD780FF>Danse d'abzendegi : Ruisseau des rêves lointains</color> augmentent de 50 % pendant 8 s.",
+      "pt": "Após o terceiro passo do estado Pirueta da <color=#FFD780FF>Dança dos Sete Reinos</color> acertar o oponente, Nilou regenerará 15 de Energia Elemental, e o Dano de sua <color=#FFD780FF>Dança da Lótus: Nascente Longínqua Onírica</color> aumentará em 50% por 8s.",
+      "ru": "Попадание по врагу третьего шага <color=#FFD780FF>Танца Хафткаршвар</color> во время действия Пируэта восстанавливает 15 ед. энергии Нилу и на 8 сек. увеличивает урон её <color=#FFD780FF>Танца Абзендеги: Далёкие мечты, внемлющий ручей</color> на 50%.",
+      "id": "Setelah langkah tarian ketiga dalam status Pirouette dari <color=#FFD780FF>Dance of Haftkarsvar</color> mengenai musuh, Nilou akan memulihkan 15 Energy, meningkatkan 50% DMG <color=#FFD780FF>Dance of Abzendegi: Distant Dreams, Listening Spring</color>-nya selama 8 detik.",
+      "th": "หลังจากการเต้นรำขั้นที่สามของสภาวะ Pirouette จาก <color=#FFD780FF>Dance of Haftkarsvar</color> ถูกเป้าหมาย จะฟื้นฟูพลังงานธาตุให้แก่ Nilou 15 หน่วย และทำให้ <color=#FFD780FF>Dance of Abzendegi: Distant Dreams, Listening Spring</color> ของเธอสร้างความเสียหายเพิ่มขึ้น 50% เป็นเวลา 8 วินาที",
+      "vi": "Vũ Điệu thứ ba trong trạng thái \"Xoay Người\" của <color=#FFD780FF>Vũ Điệu Haftkarsvar</color> sau khi đánh trúng kẻ địch sẽ hồi 15 điểm Năng Lượng Nguyên Tố cho Nilou, đồng thời tăng 50% sát thương do <color=#FFD780FF>Vũ Điệu Abzendegi - Viễn Mộng Linh Tuyền</color> của Nilou gây ra, duy trì 8s."
+    },
+    "imgid": "constellation_4"
+  },
+  {
+    "title": {
+      "zhs": "翩旋的流光",
+      "zht": "翩旋的流光",
+      "jp": "旋舞の流光",
+      "ko": "선회하는 유광",
+      "en": "Twirling Light",
+      "de": "Glanz der Pirouette",
+      "es": "Pirueta luminosa",
+      "fr": "Lumière tourbillonnante",
+      "pt": "Luz Rodopiante",
+      "ru": "Кружащиеся лунные блики",
+      "id": "Twirling Light",
+      "th": "Twirling Light",
+      "vi": "Ánh Sáng Xoay Vần"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>七域舞步</color>的技能等级提高3级。\n至多提升至15级。",
+      "zht": "<color=#FFD780FF>七域舞步</color>的技能等級提高3級。\n至多提升至15級。",
+      "jp": "<color=#FFD780FF>七域のダンス</color>のスキルLv.+3。\n最大Lv.15まで。",
+      "ko": "<color=#FFD780FF>칠역의 춤</color>의 스킬 레벨+3\n최대 Lv.15까지 상승",
+      "en": "Increases the Level of <color=#FFD780FF>Dance of Haftkarsvar</color> by 3.\nMaximum upgrade level is 15.",
+      "de": "Erhöht die Stufe der Fähigkeit <color=#FFD780FF>Haftkarsvar-Tanz</color> um 3.\nHöchststufe 15.",
+      "es": "Aumenta el nivel de habilidad de <color=#FFD780FF>Danza de los siete reinos</color> +3.\nPuede ser aumentado hasta Niv. 15.",
+      "fr": "Niveau d'aptitude <color=#FFD780FF>Danse des haftkarsvars</color> +3.\nNiveau max : 15",
+      "pt": "Aumenta o nível da <color=#FFD780FF>Dança dos Sete Reinos</color> em 3.\nO nível máximo de elevação é 15.",
+      "ru": "Увеличивает уровень навыка <color=#FFD780FF>Танец Хафткаршвар</color> на 3.\nМакс. уровень: 15",
+      "id": "Meningkatkan 3 level <color=#FFD780FF>Dance of Haftkarsvar</color>.\nMaksimum: Lv. 15.",
+      "th": "เพิ่มเลเวลสกิลของ <color=#FFD780FF>Dance of Haftkarsvar</color> ขึ้น 3 ระดับ\nเพิ่มได้สูงสุดถึงระดับ 15",
+      "vi": "Cấp kỹ năng <color=#FFD780FF>Vũ Điệu Haftkarsvar</color> +3.\nTăng tối đa đến cấp 15."
+    },
+    "imgid": "constellation_5"
+  },
+  {
+    "title": {
+      "zhs": "断霜的弦歌",
+      "zht": "斷霜的弦歌",
+      "jp": "霜絶の弦歌",
+      "ko": "서리를 멎게 하는 현악",
+      "en": "Frostbreaker's Melody",
+      "de": "Melodie des Frostbrechers",
+      "es": "Canción rompescarcha",
+      "fr": "Mélodie de brise-givre",
+      "pt": "Melodia Rompegelo",
+      "ru": "Мелодия разбитого хлада",
+      "id": "Frostbreaker's Melody",
+      "th": "Frostbreaker's Melody",
+      "vi": "Cung Đàn Ngăn Sương"
+    },
+    "description": {
+      "zhs": "每1000点生命值上限，将使妮露的暴击率提升0.6%，暴击伤害提升1.2%。\n通过这种方式，妮露的暴击率至多提升30%，暴击伤害至多提升60%。",
+      "zht": "每1000點生命值上限，將使妮露的暴擊率提升0.6%，暴擊傷害提升1.2%。\n依此方式，妮露的暴擊率至多提升30%，暴擊傷害至多提升60%。",
+      "jp": "HP上限1000ごとにニィロウの会心率+0.6%、会心ダメージ+1.2%。\nこの方式でアップできる会心率は最大30%、会心ダメージは最大60%となる。",
+      "ko": "HP 최대치의 1,000pt당 닐루의 치명타 확률이 0.6%만큼 증가하고 치명타 피해가 1.2%만큼 증가한다.\n해당 방식으로 닐루의 치명타 확률이 최대 30%까지 증가하고, 치명타 피해는 최대 60%까지 증가한다",
+      "en": "For every 1,000 points of Max HP, Nilou's CRIT Rate and CRIT DMG will increase by 0.6% and 1.2% respectively.\nThe maximum increase in CRIT Rate and CRIT DMG via this method is 30% and 60% respectively.",
+      "de": "Erhöht je 1.000 Punkte von Nilous max. LP ihre KT bzw. ihren KSCH jeweils um 0,6 % bzw. 1,2 %.\nAuf diese Weise können KT und KSCH maximal jeweils um 30 % bzw. 60 % erhöht werden.",
+      "es": "Por cada 1000 pts. de Vida Máx. que tenga Nilou, su Prob. CRIT aumenta en un 0.6% y su Daño CRIT aumenta en un 1.2%.\nEl aumento máximo que se puede conseguir de esta manera es del 30% para la Prob. CRIT y del 60% para el Daño CRIT.",
+      "fr": "Pour chaque tranche de 1 000 PV max, le taux CRIT de Nilou augmente de 0,6 % et ses DGT CRIT de 1,2 %.\nLe taux CRIT de Nilou peut être augmenté d'un maximum de 30 % et ses DGT CRIT d'un maximum de 60 % de cette manière.",
+      "pt": "A cada 1.000 pontos de Vida Máxima de Nilou, aumenta a sua Taxa CRIT em 0.6% e seu Dano CRIT em 1.2%.\nO aumento máximo de Taxa CRIT é de 30% e de Dano CRIT é de 60%.",
+      "ru": "За каждые 1000 ед. макс. HP шанс критического попадания Нилу увеличивается на 0,6%, а её критический урон - на 1,2%.\nШанс критического попадания Нилу может таким образом увеличиться на 30%, а критический урон - на 60%.",
+      "id": "Untuk setiap 1.000 poin Max HP, akan meningkakan CRIT Rate dan CRIT DMG Nilou masing-masing sebesar 0,6% dan 1,2%.\nKenaikan maksimum CRIT Rate dan CRIT DMG masing-masing adalah 30% dan 60%.",
+      "th": "ทุก 1,000 หน่วย ของค่าพลังชีวิตสูงสุด จะทำให้อัตราคริของ Nilou เพิ่มขึ้น 0.6% และความแรงคริเพิ่มขึ้น 1.2%\nด้วยวิธีนี้ อัตราคริของ Nilou จะเพิ่มได้มากสุดถึง 30% และความแรงคริเพิ่มได้มากสุดถึง 60%",
+      "vi": "Mỗi 1000 điểm Giới Hạn HP sẽ tăng 0.6% Tỷ Lệ Bạo Kích, tăng 1.2% Sát Thương Bạo Kích cho Nilou.\nTăng tối đa 30% Tỷ Lệ Bạo Kích và 60% Sát Thương Bạo Kích cho Nilou thông qua cách này."
+    },
+    "imgid": "constellation_6"
+  }
+]

@@ -827,7 +827,7 @@
       "pt": "Hnf, o Grande Mestre... Ele é uma pessoa direta, não liga para qualquer tipo de rumores. Um sujeito legal, eu acho. Eu lutei uma vez com ele, e acabamos tendo um empate. Mas pelas suas expressões faciais e atitude tão tranquilas, claramente indicou que ele não deu tudo de si... Isso foi o maior desprezo para mim! A vingança está por vir!",
       "ru": "Магистр ордена, он очень прямолинейный, его не заботят слухи. Просто хороший человек. Однажды я сразилась с ним на мечах, и это была ничья. Это беззаботное выражение лица, это игривое отношение, он определённо поддавался! Это было величайшее презрение по отношению ко мне! Я это так не оставлю!",
       "id": "Hmph, Grand Master itu ... dia tidak suka berbasa-basi dan dia tidak peduli dengan rumor tidak jelas. Sepertinya dia orang yang baik, aku pernah berlatih dengannya dulu, hasilnya seimbang. Tapi ekspresinya yang santai menunjukkan kalau dia tidak mengerahkan semua kemampuannya ... Sebuah penghinaan! Aku tidak akan melupakannya!",
-      "th": "ผู้บัญชาการน่ะเหรอ เขามีนิสัยที่เปิดเผยตรงไปตรงมา ไม่สนใจข่าวลือและเรื่องหยุมหยิมอะไร ถือเป็นคนดีคนหนึ่งเลยล่ะ ฉันเคยต่อสู้กับเขาครั้งนึง ท่าทางที่ดูผ่อนคลายและสบาย ๆ ของเขานั้นจะต้องเป็นการอ่อนข้อให้ฉันแน่เลย! คงเพราะดูแคลนฉันสินะ! ความแค้นนี้ฉันไม่มีวันลืมแน่นอน!",
+      "th": "แกรนด์มาสเตอร์น่ะเหรอ เขามีนิสัยที่เปิดเผยตรงไปตรงมา ไม่สนใจข่าวลือและเรื่องหยุมหยิมอะไร ถือเป็นคนดีคนหนึ่งเลยล่ะ ฉันเคยต่อสู้กับเขาครั้งนึง ท่าทางที่ดูผ่อนคลายและสบาย ๆ ของเขานั้นจะต้องเป็นการอ่อนข้อให้ฉันแน่เลย! คงเพราะดูแคลนฉันสินะ! ความแค้นนี้ฉันไม่มีวันลืมแน่นอน!",
       "vi": "Đại Đội Trưởng à, ông ấy rất ngay thẳng, không để tâm đến tiểu tiết và tin đồn, nhìn chung là một người tốt. Tôi từng so tài với ông ấy, kết quả là hòa, nhưng nhìn thái độ bình thản của ông ấy, nhất định là nương tay! Điều này đối với tôi là một sự xúc phạm rất lớn! Mối thù này, tôi sẽ không bỏ qua."
     }
   },
@@ -1057,6 +1057,38 @@
   },
   {
     "title": {
+      "zhs": "关于米卡·沟通",
+      "zht": "關於米卡·溝通",
+      "jp": "ミカについて·交流",
+      "ko": "미카에 대해·소통",
+      "en": "About Mika: Communication",
+      "de": "Über Mika – Kommunikation",
+      "es": "Sobre Mika - Comunicación",
+      "fr": "À propos de Mika - Communication",
+      "pt": "Sobre Mika - Comunicação",
+      "ru": "О Мике: Общение",
+      "id": "Tentang Mika: Komunikasi",
+      "th": "เกี่ยวกับ Mika - การสื่อสาร",
+      "vi": "Về Mika - Nói Chuyện"
+    },
+    "line": {
+      "zhs": "米卡被分来游击小队的时候，我以为他会像之前某些人一样，没干几天就想走了。没想到他不声不响，任务却完成得相当出色，还主动承担了所有跑腿的任务，替我和其他人沟通。哼，一个两个都想着照顾我，也不知道是谁教出来的。",
+      "zht": "米卡被分來游擊小隊的時候，我以為他會像之前某些人一樣，沒做幾天就想走了。沒想到他不聲不響，任務卻完成得相當出色，還主動承擔了所有跑腿的任務，替我和其他人溝通。哼，一個兩個都想著照顧我，也不知道是誰教出來的。",
+      "jp": "ミカが遊撃小隊に配属された時、彼も他と同じように何日もしないで辞めていくものだと思っていたわ。けれど、彼は何も言わずに任務を完璧にこなした。それどころか、使い走りの任務をすべて自分から引き受け、他の人とコミュニケーションが必要になることは、私の代わりにしてくれたの…ふんっ、どうしてみんな私の世話をしたがるのよ。まったく、いったい誰から学んだのかしら…",
+      "ko": "미카가 유격대에 처음 왔을 땐 그전에 있던 몇몇 사람들처럼 얼마 못 버티고 나갈 줄 알았어. 그런데 묵묵히 버티면서 임무를 아주 훌륭하게 완수했지. 게다가 자진해서 심부름 같은 잡일까지 도맡아서 하고 나와 다른 사람들이 소통하는 것도 도와줬어. 흥, 자꾸 날 챙겨주려 하다니… 대체 누굴 보고 배운 건지",
+      "en": "When Mika was assigned to the Reconnaissance Company, I thought that he'd only last a few days, just like the others before him. But he surprised me. He never made a peep, but he completed all of his tasks quite admirably. He even volunteered to run errands for me, and assist with communication... Hmph... I don't know who is going around telling people that I need looking after...",
+      "de": "Als Mika unserem Trupp der Freischärler zugeteilt wurde, dachte ich, er würde nach ein paar Tagen wieder gehen, genau wie viele andere vor ihm. Doch er überraschte mich damit, dass er nie faulenzte und alle seine Aufgaben ausgezeichnet erfüllte. Er ergriff sogar die Initiative, Besorgungen für mich zu erledigen und bei der Kommunikation zu helfen. Hmpf, ich weiß nicht, wer da herumläuft und den Leuten sagt, dass sie sich um mich kümmern müssen ...",
+      "es": "Cuando asignaron a Mika al Equipo de Reconocimiento, pensé que solo duraría un par de días, como les pasó a los que vinieron antes de él. Me sorprendió gratamente que, sin mediar palabra, completó todas sus tareas de manera sobresaliente. Hasta se presentó voluntario para ayudarme con unos recados y ayudarme con la comunicación. ¡Hum! No sé quién está diciéndole a la gente que necesito que cuiden de mí.",
+      "fr": "Quand Mika a été affecté à l'unité de reconnaissance, je pensais qu'il serait comme les autres et qu'il voudrait partir juste après quelques jours. À ma grande surprise, il a été assez remarquable dans l'accomplissement de ses tâches. Il s'est même proposé pour faire des déplacements pour moi et m'aider à effectuer des communications. Hmph, je ne sais pas qui raconte aux gens que j'ai besoin qu'on s'occupe de moi...",
+      "pt": "Quando Mika foi atribuído ao Grupo de Guerrilha, eu pensei que ele duraria apenas alguns dias, assim como os outros antes dele. Mas ele me surpreendeu. Ele nunca reclamou, mas concluiu todas as tarefas de maneira admirável. Ele até se voluntariou para fazer algumas incumbências para mim, e auxiliar com a comunicação... Hmph... Eu não sei quem está saindo por aí dizendo as pessoas que preciso que cuidem de mim...",
+      "ru": "Когда Мика пришёл в наш разведывательный отряд, я была уверена, что через пару дней он запросится домой, как все остальные. Но он меня удивил. Ни разу не пикнул и с заданиями своими справился, можно сказать, отлично. А ещё сам вызвался выполнять мои поручения, чтобы мне не приходилось лишний раз взаимодействовать с людьми... Хм, все члены отряда почему-то уверены, что обо мне нужно заботиться. Не знаю, кто им это внушил...",
+      "id": "Ketika Mika ditugaskan ke divisi Pasukan Gerilya, kupikir dia hanya bertahan beberapa hari, sama seperti yang lainnya. Tapi dia membuatku terkejut. Dia tidak pernah mengeluh, tetapi dia menyelesaikan semua tugasnya dengan baik. Dia bahkan menawarkan diri untuk menjalankan tugas untukku, dan membantu dalam hal komunikasi ... Hmph ... Aku tidak tahu siapa yang berkeliling memberitahu orang-orang bahwa aku perlu dijaga ....",
+      "th": "ในตอนที่ Mika ถูกดึงตัวมายังกองสอดแนมน่ะ ฉันก็นึกว่าเขาจะเป็นเหมือนกับคนอื่นหลาย ๆ คนก่อนหน้า ที่ทำได้ไม่กี่วันก็อยากจะหนีไปซะแล้ว แต่คิดไม่ถึงเลย เห็นเงียบ ๆ แต่ทำภารกิจได้สำเร็จและค่อนข้างดีเลยล่ะ แถมยังเป็นฝ่ายออกหน้ารับงานยิบย่อยต่าง ๆ เอง รวมไปถึงติดต่อสื่อสารกับคนอื่น ๆ แทนฉันด้วย หึ... ไม่ว่าอะไรก็อยากจะช่วยฉันทั้งนั้น ใครสั่งใครสอนกันนะ",
+      "vi": "Khi Mika gia nhập tiểu đội du kích, tôi còn tưởng cậu ta làm được vài ngày là nghỉ. Nhưng không ngờ cậu ta im im mà đã xuất sắc hoàn thành nhiệm vụ, lại còn chủ động gánh vác tất cả nhiệm vụ chạy vặt để thay tôi nói chuyện với người khác nữa chứ. Hứ, một người hai người đều muốn chăm sóc cho tôi, cũng không biết học từ ai nữa."
+    }
+  },
+  {
+    "title": {
       "zhs": "想要了解优菈·其一",
       "zht": "想要瞭解優菈·其一",
       "jp": "エウルアを知る·1",
@@ -1179,7 +1211,7 @@
       "pt": "O nome Lawrence apenas se tornou um estigma depois que o clã caiu em desgraça. Antes era uma honra ser chamado Lawrence, mas a maior parte das pessoas esqueceram dessa parte da história. A Grande Mestre diz que eu estou me saindo bem como uma Cavaleira, e que se isso não for suficiente para restaurar a honra do nome Lawrence, é certamente uma forte refutação contra as opiniões unilaterais de muitas pessoas por aí. Estou bem satisfeita com tal elogio.",
       "ru": "Дурная слава легла на клан Лоуренс только после его падения. До этого его история была полна славы, но, к сожалению, все забыли эту историю. Магистр ордена сказал, что само по себе стать рыцарем недостаточно для восстановления былой чести клана, но, по крайней мере, это нанесёт удар по предрассудкам. Мне очень понравились эти слова.",
       "id": "Nama Lawrence hanya menjadi stigma sosial setelah kejatuhannya. Dulu menjadi sebuah kehormatan untuk dipanggil Lawrence, tapi sayangnya, kebanyakan orang sudah melupakan sejarah tersebut. Grand Master bilang aku cukup baik menjadi seorang knight, dan jika itu tidak cukup untuk mengembalikan kehormatan nama Lawrence, tentu saja hal itu merupakan bentuk sanggahan yang kuat terhadap opini sepihak yang dilontarkan oleh banyak orang. Aku cukup puas dengan itu.",
-      "th": "ตระกูล Lawrence เพิ่งจะมีชื่อเสียงอื้อฉาวหลังจากการล่มสลายนั่นแหละ ก่อนหน้านั้น ตระกูลนี้ก็เต็มไปด้วยความรุ่งโรจน์ น่าเสียดายที่ทุกคนดูเหมือนจะลืมช่วงเวลานั้นของประวัติศาสตร์ไปแล้วล่ะ ผู้บัญชาการกล่าวว่าในฐานะอัศวินฉันทำได้ไม่เลวเลยล่ะ ไม่เคยพูดถึงการฟื้นฟูความรุ่งเรืองดั้งเดิมของตระกูล Lawrence เพราะนั่นเป็นการโจมตีฉันโดยการมองด้วยมุมมองเพียงด้านเดียว คำพูดนี้ฉันค่อนข้างพอใจเลยล่ะ",
+      "th": "ตระกูล Lawrence เพิ่งจะมีชื่อเสียงอื้อฉาวหลังจากการล่มสลายนั่นแหละ ก่อนหน้านั้น ตระกูลนี้ก็เต็มไปด้วยความรุ่งโรจน์ น่าเสียดายที่ทุกคนดูเหมือนจะลืมช่วงเวลานั้นของประวัติศาสตร์ไปแล้วล่ะ แกรนด์มาสเตอร์กล่าวว่าในฐานะอัศวินฉันทำได้ไม่เลวเลยล่ะ ไม่เคยพูดถึงการฟื้นฟูความรุ่งเรืองดั้งเดิมของตระกูล Lawrence เพราะนั่นเป็นการโจมตีฉันโดยการมองด้วยมุมมองเพียงด้านเดียว คำพูดนี้ฉันค่อนข้างพอใจเลยล่ะ",
       "vi": "Gia tộc Lawrence sau khi sa sút mới phải mang tiếng xấu, còn trước đó thì dòng dõi này từng có một thời kỳ đầy vinh quang, đáng tiếc rằng mọi người đều đã quên đi giai đoạn lịch sử ấy. Đại Đội Trưởng nói rằng là một kỵ sĩ, tôi đã làm khá tốt, khoan nhắc đến việc tìm lại vinh quang cho Lawrence năm xưa, nhưng chí ít đây là sự phản kích mạnh mẽ đối với những quan điểm phiến diện. Tôi khá hài lòng với cách nói này của ông ấy."
     }
   },
@@ -1595,7 +1627,7 @@
       "pt": "Excelente! O poder imparável de uma geleira reside em mim, e nenhum Grande Mestre, Intendente ou não, pode ficar em meu caminho! Não há tempo a perder, devo realizar meu plano e preparar meu ataque! Quando eu tiver destruído os Cavaleiros de Favonius debaixo de meu salto, meu próximo alvo é... Você. Não tente fugir. Fique ao meu lado e veja tudo que acontecerá.",
       "ru": "Очень хорошо! Я ощущаю мощь твёрдого льда. Ни действующий магистр, ни сам магистр ордена не встанут у меня на пути! Нет времени на раздумья! Пора разработать свой план и броситься в атаку. После победы над рыцарями Ордо Фавониус ты станешь следующей целью... Не пытайся сбежать. Оставайся рядом со мной и будь свидетелем этого.",
       "id": "Bagus! Kini aku telah menguasai kekuatan tak terhentikan dari gletser yang tak tergoyahkan, dan tidak ada Grand Master, atau Master apa pun, yang bisa menghentikanku! Tidak boleh buang waktu lagi. Aku harus segera merancang rencana, dan melancarkan seranganku! Saat aku sudah menghancurkan Knights of Favonius di bawah kakiku, sasaranku selanjutnya ... adalah kamu. Jangan coba-coba untuk lari. Berdirilah di sampingku dan saksikan semua yang akan terjadi.",
-      "th": "เยี่ยม! พลังของน้ำแข็งฉันก็ควบคุมได้มั่นคงขึ้นแล้วด้วย อย่าว่าแต่รักษาการผู้บัญชาการเลย ผู้บัญชาการก็หยุดฉันไม่ได้อีกแล้ว! เรื่องนี้จะรอช้าไม่ได้ พอฉันวางแผนเสร็จก็สามารถทำการโจมตีขั้นสุดท้ายได้แล้วล่ะ หลังจากที่เอาชนะกองอัศวินแห่ง Favonius ได้แล้ว เป้าหมายต่อไปก็คุณนั่นแหละ อย่าได้คิดหนีเชียวล่ะ อยู่เคียงข้างฉันและคอยเป็นสักขีพยานในเรื่องนี้ซะดี ๆ",
+      "th": "เยี่ยม! พลังของน้ำแข็งฉันก็ควบคุมได้มั่นคงขึ้นแล้วด้วย อย่าว่าแต่รักษาการผู้บัญชาการเลย แกรนด์มาสเตอร์ก็หยุดฉันไม่ได้! เรื่องนี้จะรอช้าไม่ได้ พอฉันวางแผนเสร็จก็สามารถทำการโจมตีขั้นสุดท้ายได้แล้วล่ะ หลังจากที่เอาชนะกองอัศวินแห่ง Favonius ได้แล้ว เป้าหมายต่อไปก็คุณนั่นแหละ อย่าได้คิดหนีเชียวล่ะ อยู่เคียงข้างฉันและคอยเป็นสักขีพยานในเรื่องนี้ซะดี ๆ",
       "vi": "Rất tốt, tôi đã hoàn toàn điều khiển được sức mạnh của băng giá rồi. Đừng nói là Đội Trưởng Đại Diện, đến cả Đại Đội Trưởng cũng đừng hòng cản được tôi! Tôi phải tranh thủ lập kế hoạch tổng tấn công mới được. Sau khi hạ Đội Kỵ Sĩ Tây Phong, mục tiêu tiếp theo là bạn đấy, ngoan ngoãn ngồi đó mà chứng kiến đi nhé, đừng hòng chạy trốn."
     }
   },

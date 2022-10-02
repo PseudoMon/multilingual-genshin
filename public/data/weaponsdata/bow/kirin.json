@@ -67,7 +67,7 @@
       "description": {
         "zhs": "生命值提升<color=#99FFFFFF>16%</color>。周围存在敌人时，装备该武器的角色造成的伤害都会提升<color=#99FFFFFF>20%</color>，不论该角色处于场上或是处于队伍后台。",
         "zht": "生命值提升<color=#99FFFFFF>16%</color>。周圍存在敵人時，裝備該武器的角色造成的傷害都會提升<color=#99FFFFFF>20%</color>，不論該角色處於場上或是處於隊伍後台。",
-        "jp": "HP+<color=#99FFFFFF>16%</color>。周囲に敵がいる時、装備キャラクターの与えるダメージ+<color=#99FFFFFF>20%</color>、この効果はキャラクターが待機状態でも発動する。",
+        "jp": "HP上限+<color=#99FFFFFF>16%</color>。周囲に敵がいる時、装備キャラクターの与えるダメージ+<color=#99FFFFFF>20%</color>、この効果はキャラクターが待機状態でも発動する。",
         "ko": "HP가 <color=#99FFFFFF>16%</color> 증가하고, 해당 무기를 장착한 캐릭터 주변에 적이 존재하면 캐릭터가 가하는 피해가 <color=#99FFFFFF>20%</color> 증가한다. 이 효과는 해당 캐릭터가 필드 위에 존재하거나 대기 상태인 것과 관계없이 발동된다",
         "en": "HP is increased by <color=#99FFFFFF>16%</color>. When there are opponents nearby, the DMG dealt by the wielder of this weapon is increased by <color=#99FFFFFF>20%</color>. This will take effect whether the character is on-field or not.",
         "de": "Erhöht die LP um <color=#99FFFFFF>16 %</color>. Erhöht, wenn es in der Umgebung Gegner gibt, den durch die mit dieser Waffe ausgerüstete Figur verursachten Schaden um <color=#99FFFFFF>20 %</color>, ganz gleich, ob sie aktiv oder inaktiv ist.",
@@ -99,7 +99,7 @@
       "description": {
         "zhs": "生命值提升<color=#99FFFFFF>20%</color>。周围存在敌人时，装备该武器的角色造成的伤害都会提升<color=#99FFFFFF>25%</color>，不论该角色处于场上或是处于队伍后台。",
         "zht": "生命值提升<color=#99FFFFFF>20%</color>。周圍存在敵人時，裝備該武器的角色造成的傷害都會提升<color=#99FFFFFF>25%</color>，不論該角色處於場上或是處於隊伍後台。",
-        "jp": "HP+<color=#99FFFFFF>20%</color>。周囲に敵がいる時、装備キャラクターの与えるダメージ+<color=#99FFFFFF>25%</color>、この効果はキャラクターが待機状態でも発動する。",
+        "jp": "HP上限+<color=#99FFFFFF>20%</color>。周囲に敵がいる時、装備キャラクターの与えるダメージ+<color=#99FFFFFF>25%</color>、この効果はキャラクターが待機状態でも発動する。",
         "ko": "HP가 <color=#99FFFFFF>20%</color> 증가하고, 해당 무기를 장착한 캐릭터 주변에 적이 존재하면 캐릭터가 가하는 피해가 <color=#99FFFFFF>25%</color> 증가한다. 이 효과는 해당 캐릭터가 필드 위에 존재하거나 대기 상태인 것과 관계없이 발동된다",
         "en": "HP is increased by <color=#99FFFFFF>20%</color>. When there are opponents nearby, the DMG dealt by the wielder of this weapon is increased by <color=#99FFFFFF>25%</color>. This will take effect whether the character is on-field or not.",
         "de": "Erhöht die LP um <color=#99FFFFFF>20 %</color>. Erhöht, wenn es in der Umgebung Gegner gibt, den durch die mit dieser Waffe ausgerüstete Figur verursachten Schaden um <color=#99FFFFFF>25 %</color>, ganz gleich, ob sie aktiv oder inaktiv ist.",
@@ -131,7 +131,7 @@
       "description": {
         "zhs": "生命值提升<color=#99FFFFFF>24%</color>。周围存在敌人时，装备该武器的角色造成的伤害都会提升<color=#99FFFFFF>30%</color>，不论该角色处于场上或是处于队伍后台。",
         "zht": "生命值提升<color=#99FFFFFF>24%</color>。周圍存在敵人時，裝備該武器的角色造成的傷害都會提升<color=#99FFFFFF>30%</color>，不論該角色處於場上或是處於隊伍後台。",
-        "jp": "HP+<color=#99FFFFFF>24%</color>。周囲に敵がいる時、装備キャラクターの与えるダメージ+<color=#99FFFFFF>30%</color>、この効果はキャラクターが待機状態でも発動する。",
+        "jp": "HP上限+<color=#99FFFFFF>24%</color>。周囲に敵がいる時、装備キャラクターの与えるダメージ+<color=#99FFFFFF>30%</color>、この効果はキャラクターが待機状態でも発動する。",
         "ko": "HP가 <color=#99FFFFFF>24%</color> 증가하고, 해당 무기를 장착한 캐릭터 주변에 적이 존재하면 캐릭터가 가하는 피해가 <color=#99FFFFFF>30%</color> 증가한다. 이 효과는 해당 캐릭터가 필드 위에 존재하거나 대기 상태인 것과 관계없이 발동된다",
         "en": "HP is increased by <color=#99FFFFFF>24%</color>. When there are opponents nearby, the DMG dealt by the wielder of this weapon is increased by <color=#99FFFFFF>30%</color>. This will take effect whether the character is on-field or not.",
         "de": "Erhöht die LP um <color=#99FFFFFF>24 %</color>. Erhöht, wenn es in der Umgebung Gegner gibt, den durch die mit dieser Waffe ausgerüstete Figur verursachten Schaden um <color=#99FFFFFF>30 %</color>, ganz gleich, ob sie aktiv oder inaktiv ist.",
@@ -163,7 +163,7 @@
       "description": {
         "zhs": "生命值提升<color=#99FFFFFF>28%</color>。周围存在敌人时，装备该武器的角色造成的伤害都会提升<color=#99FFFFFF>35%</color>，不论该角色处于场上或是处于队伍后台。",
         "zht": "生命值提升<color=#99FFFFFF>28%</color>。周圍存在敵人時，裝備該武器的角色造成的傷害都會提升<color=#99FFFFFF>35%</color>，不論該角色處於場上或是處於隊伍後台。",
-        "jp": "HP+<color=#99FFFFFF>28%</color>。周囲に敵がいる時、装備キャラクターの与えるダメージ+<color=#99FFFFFF>35%</color>、この効果はキャラクターが待機状態でも発動する。",
+        "jp": "HP上限+<color=#99FFFFFF>28%</color>。周囲に敵がいる時、装備キャラクターの与えるダメージ+<color=#99FFFFFF>35%</color>、この効果はキャラクターが待機状態でも発動する。",
         "ko": "HP가 <color=#99FFFFFF>28%</color> 증가하고, 해당 무기를 장착한 캐릭터 주변에 적이 존재하면 캐릭터가 가하는 피해가 <color=#99FFFFFF>35%</color> 증가한다. 이 효과는 해당 캐릭터가 필드 위에 존재하거나 대기 상태인 것과 관계없이 발동된다",
         "en": "HP is increased by <color=#99FFFFFF>28%</color>. When there are opponents nearby, the DMG dealt by the wielder of this weapon is increased by <color=#99FFFFFF>35%</color>. This will take effect whether the character is on-field or not.",
         "de": "Erhöht die LP um <color=#99FFFFFF>28 %</color>. Erhöht, wenn es in der Umgebung Gegner gibt, den durch die mit dieser Waffe ausgerüstete Figur verursachten Schaden um <color=#99FFFFFF>35 %</color>, ganz gleich, ob sie aktiv oder inaktiv ist.",
@@ -195,7 +195,7 @@
       "description": {
         "zhs": "生命值提升<color=#99FFFFFF>32%</color>。周围存在敌人时，装备该武器的角色造成的伤害都会提升<color=#99FFFFFF>40%</color>，不论该角色处于场上或是处于队伍后台。",
         "zht": "生命值提升<color=#99FFFFFF>32%</color>。周圍存在敵人時，裝備該武器的角色造成的傷害都會提升<color=#99FFFFFF>40%</color>，不論該角色處於場上或是處於隊伍後台。",
-        "jp": "HP+<color=#99FFFFFF>32%</color>。周囲に敵がいる時、装備キャラクターの与えるダメージ+<color=#99FFFFFF>40%</color>、この効果はキャラクターが待機状態でも発動する。",
+        "jp": "HP上限+<color=#99FFFFFF>32%</color>。周囲に敵がいる時、装備キャラクターの与えるダメージ+<color=#99FFFFFF>40%</color>、この効果はキャラクターが待機状態でも発動する。",
         "ko": "HP가 <color=#99FFFFFF>32%</color> 증가하고, 해당 무기를 장착한 캐릭터 주변에 적이 존재하면 캐릭터가 가하는 피해가 <color=#99FFFFFF>40%</color> 증가한다. 이 효과는 해당 캐릭터가 필드 위에 존재하거나 대기 상태인 것과 관계없이 발동된다",
         "en": "HP is increased by <color=#99FFFFFF>32%</color>. When there are opponents nearby, the DMG dealt by the wielder of this weapon is increased by <color=#99FFFFFF>40%</color>. This will take effect whether the character is on-field or not.",
         "de": "Erhöht die LP um <color=#99FFFFFF>32 %</color>. Erhöht, wenn es in der Umgebung Gegner gibt, den durch die mit dieser Waffe ausgerüstete Figur verursachten Schaden um <color=#99FFFFFF>40 %</color>, ganz gleich, ob sie aktiv oder inaktiv ist.",

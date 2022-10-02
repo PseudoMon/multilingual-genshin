@@ -57,7 +57,7 @@
       "es": "De acuerdo con la hoja de ruta de hoy... primero hay que ir aquí y luego allá... Ay, cuántas palabras...",
       "fr": "D'après le plan de patrouille d'aujourd'hui... On doit d'abord aller ici, puis se diriger par là... Hmm... Il y a beaucoup de trucs écrits...",
       "pt": "Segundo o mapa de trajeto de patrulha da floresta de hoje... precisamos chegar aqui primeiro, então seguir até ali... Hmm... tem um mooooonte de coisa escrita...",
-      "ru": "Сегодня у нас такой маршрут... Сначала сюда, потому туда... Ох, сколько же тут всего написано...",
+      "ru": "Сегодня у нас такой маршрут... Сначала сюда, потом туда... Ох, сколько же тут всего написано...",
       "id": "Berdasarkan rute map patroli hutan hari ini ... kita harus menuju ke sini dulu, lalu pergi ke sana ... Hmm ... banyak sekali yang harus ditulis ....",
       "th": "แผนที่เส้นทางลาดตระเวนของวันนี้... ต้องไปทางนี้ก่อนแล้วค่อยเลี้ยวไปทางนั้น... อืม ตัวอักษรเยอะจัง...",
       "vi": "Lộ trình tuần tra của hôm nay... đầu tiên là ở đây, sau đó rẽ qua đây... ừm, nhiều chữ quá..."
@@ -122,7 +122,7 @@
       "fr": "Quand je n'ai pas grand-chose pour m'occuper l'esprit, j'ai de vieilles pensées qui me reviennent... Ouf, il suffit que je commence à en parler pour que les souvenirs commencent...",
       "pt": "Quando não tenho muito para me manter ocupada, padrões de pensamentos antigos começam a surgir na minha mente, e— Uff, assim que começo a pensar sobre eles, essas horríveis imagens em minha cabeça começam...",
       "ru": "Когда сидишь без дела, в голове всё время крутятся разные мысли... Гм... Вспомнилось кое-что неприятное...",
-      "id": "Saat aku lagi tidak banyak kerjaan, pikiranku mulai kepikiran kemana-mana, dan — Wah, segera setelah aku mulai membicarakannya, aku jadi terbayang masa lalu ....",
+      "id": "Saat aku lagi tidak banyak kerjaan, pikiranku mulai kepikiran ke mana-mana, dan — Wah, segera setelah aku mulai membicarakannya, aku jadi terbayang masa lalu ....",
       "th": "พอไม่มีอะไรทำ ใจก็จะคิดไปนู่นไปนี่ได้เรื่อยเปื่อย เอ่อ พอพูดก็นึกถึงเรื่องไม่ดีขึ้นมาเลยแฮะ...",
       "vi": "Không có gì làm là đầu óc lại suy nghĩ lung tung... Ưm, vừa nhắc là lại nhớ về những chuyện không hay..."
     }
@@ -265,7 +265,7 @@
       "de": "Guten Morgen.",
       "es": "Buenos días...",
       "fr": "Au réveil...",
-      "pt": "Bom Dia...",
+      "pt": "Bom dia...",
       "ru": "Доброе утро...",
       "id": "Selamat Pagi",
       "th": "อรุณสวัสดิ์...",
@@ -596,7 +596,7 @@
       "zht": "唔哇…又是「被封印的力量在躁動」…還有什麼「離我遠點才是上策」…為什麼稻妻人都能這麼自然地說出這些話，他們以後不會覺得尷尬嗎？啊…不行，不能再讀下去了！",
       "jp": "うわ…また「封印された力が蠢いている」とか…「俺に近づかないほうがいい」とか…何で稲妻人っていうのはこんなことを自然に言えるんだよ、恥ずかしさとか感じないのか？うぅ…だめだ、これ以上読めない！",
       "ko": "으아… 「봉인된 힘이 들끓고 있어」라든지… 「나한테서 멀리 떨어지는 게 좋을 거야」라든지… 이나즈마 사람은 어떻게 이런 말을 아무렇지 않게 할 수 있지? 민망하지도 않나? 아… 안 되겠어, 더는 못 읽겠어!",
-      "en": "Ugh... Here we go again: \"The power sealed within me grows restless\"... and \"You'd be wise to stay away from me\"... Why are people in Inazuma casually coming out with lines like these all the time? Doesn't it embarrass them when think back on it later? Aaah... no, it's too cringey. I can't read any more of this!",
+      "en": "Ugh... Here we go again: \"The power sealed within me grows restless\"... and \"You'd be wise to stay away from me\"... Why are people in Inazuma casually coming out with lines like these all the time? Doesn't it embarrass them when they think back on it later? Aaah... no, it's too cringey. I can't read any more of this!",
       "de": "Wah ... Da haben wir es wieder: „Die Macht, die in mir versiegelt ist, wird unruhig“ ... und „Halt dich besser von mir fern“ ... Warum können die Leute in Inazuma solche Worte so selbstverständlich sagen? Ist es ihnen nicht peinlich, wenn sie später daran denken? Aaah ... nein, das ist zu peinlich. Ich kann das nicht mehr weiter lesen!",
       "es": "Uff, ya estamos otra vez con “el poder oculto en mí se hace cada vez más fuerte” y “sería mejor que te alejaras de mí”... ¿Por qué la gente de Inazuma siempre dice cosas así? ¿No les da vergüenza cuando piensan en ello más tarde? ¡Puaj! No puedo seguir leyendo... ¡es demasiado bochornoso!",
       "fr": "Argh... Et voilà que ça recommence : « Je ne peux plus contrôler le pouvoir scellé en moi »... Ou encore « Vous feriez mieux de rester loin de moi »... Comment les gens d'Inazuma peuvent-ils dire ce genre de choses aussi naturellement ? Ça ne les gêne pas quand ils y repensent après ? Aaah... Non, ça craint. Je ne peux pas lire plus loin !",
@@ -631,7 +631,7 @@
       "en": "Well, there's plants and animals, there's ones you can eat and ones you can't, but beyond that it's all much of a... uh, muchness really? ...Shh, don't tell Master I said that. Although... personally, I guess I quite like trees that have a hollow in it? Especially in those moments where I just want to curl up in a ball and hide away. Everyone must have moments like that, right? ...No?",
       "de": "Pflanzen und Tiere? Es gibt welche, die man essen kann, und welche, die man nicht essen kann, ansonsten gibt es keinen großen Unterschied für mich ... Psst, das darf der Meister nicht hören. Wenn du mich fragst, also, ich persönlich mag Bäume, die einen Hohlraum haben, ganz gern ... besonders in Momenten, in denen ich mich gern verstecken würde. Jeder muss solche Momente haben, oder?",
       "es": "Están las plantas y los animales. Algunos se comen y otros no. Aparte de eso, no hay mucha diferencia. Pero no le digas al maestro que he dicho eso. Personalmente, yo prefiero los árboles que tienen un hueco, sobre todo en esos momentos en los que necesitas desesperadamente un refugio. Todo el mundo se siente así alguna vez, ¿no?",
-      "fr": "Eh bien, il y a les plantes et les animaux, il y a ceux qu'on peut manger et ceux qu'on ne peut pas, mais au-delà de ça, c'est beaucoup de choses, vraiment... Chut, ne dites pas au maître que j'ai dit ça. Quoique... Personnellement, j'aime bien les arbres qui ont un creux au milieu... Surtout dans ces moments où j'ai envie de me mettre en boule et de me cacher. Tout le monde doit avoir des moments comme ça, pas vrai ? ... Non ?",
+      "fr": "Eh bien, il y a les plantes et les animaux, il y a ceux qu'on peut manger et ceux qu'on ne peut pas, mais au-delà de ça, c'est beaucoup de choses, vraiment... Chut, ne dis pas au maître que j'ai dit ça. Quoique... Personnellement, j'aime bien les arbres qui ont un creux au milieu... Surtout dans ces moments où j'ai envie de me mettre en boule et de me cacher. Tout le monde doit avoir des moments comme ça, pas vrai ? ... Non ?",
       "pt": "Bem, existem plantas e animais. Tem aqueles que você pode comer e aqueles que não pode, mas fora isso, não tem muita coisa diferente... Shh, não diga ao mestre que eu disse isso. Embora... pessoalmente, eu acho que gosto das árvores com um buraco nelas. Especialmente naqueles momentos que eu só quero virar uma bola e me esconder. Todo mundo deve ter momentos assim, não é? ...Não?",
       "ru": "Животные и растения... Одни съедобные, другие нет, вот и вся разница. Тсс, если наставник услышит, мне конец. Знаешь, я очень люблю деревья, у которых есть дупла. Особенно когда хочется спрятаться... Каждому человеку бывает нужно куда-нибудь спрятаться. Разве нет?",
       "id": "Yah, ada tumbuhan dan hewan, ada yang bisa dimakan ada yang tidak bisa dimakan, tapi intinya jenisnya memang banyak sekali. Sssh, jangan bilang pada Guru kalau aku bilang begitu ya. Walaupun ... secara pribadi, kurasa aku cukup suka dengan pohon yang ada lubangnya? Terutama saat aku sedang ingin meringkuk seperti bola dan sembunyi. Semua orang pasti punya momen-momen seperti itu, kan? Tidak?",
@@ -762,7 +762,7 @@
       "fr": "Hum... Je préfère ne pas parler de lui, d'accord ? Oh, non, ce n'est pas que le général mahamatra soit une mauvaise personne ou quoi que ce soit. D'ailleurs, c'est lui qui m'a ramenée de Mondstadt à Sumeru et qui m'a trouvé un endroit où rester. C'est juste que... Chaque fois que je me rappelle du processus de « scellement » juste avant de quitter Mondstadt... Ooh... J'ai la nuque qui me fait mal à nouveau...",
       "pt": "Hm... Eu gostaria de não falar sobre ele, se estiver tudo bem... Oh, não — o General Mahamatra não é uma pessoa ruim nem nada do gênero. Na verdade, eu só tenho a agradecer a ele por me trazer de Mondstadt até Sumeru e de me dar um lugar seguro para ficar. É só que... sempre que me lembro do processo de selagem antes de sair de Mondstadt... ooh... a minha nuca começa a doer de novo...",
       "ru": "Ой, можешь не говорить о нём при мне? Нет, махаматра - не плохой человек, это он забрал меня из Мондштадта, и теперь в Сумеру у меня появился безопасный дом. Но стоит вспомнить, как они накладывали мне эту «печать»... Ох... Шея снова заныла...",
-      "id": "Um ... Kalau boleh sih lebih baik aku tidak bicara soal dia deh, oke? Oh, tidak — Mahamatra Umum bukan orang jahat atau semacamnya. Malahan, aku berterima kasih padanya karena sudah membawaku kembali dari Mondstadt ke Sumeru dan menemukan tempat untuk aku tinggal. Hanya saja ... kapanpun aku ingat soal proses kepulanganku waktu mau meninggalkan Mondstadt ... ooh ... rasanya tengkuk di leherku jadi sakit lagi ....",
+      "id": "Um ... Kalau boleh sih lebih baik aku tidak bicara soal dia deh, oke? Oh, tidak — Mahamatra Umum bukan orang jahat atau semacamnya. Malahan, aku berterima kasih padanya karena sudah membawaku kembali dari Mondstadt ke Sumeru dan menemukan tempat untuk aku tinggal. Hanya saja ... kapan pun aku ingat soal proses kepulanganku waktu mau meninggalkan Mondstadt ... ooh ... rasanya tengkuk di leherku jadi sakit lagi ....",
       "th": "เอ๋... พวกเราไม่พูดถึงเขาได้มั้ย? ไม่ใช่หรอก เจ้าหน้าที่มหามาตราไม่ใช่คนไม่ดีอะไรหรอก ในตอนแรกก็เขานี่แหละที่พาฉันจาก Mondstadt กลับมาที่ Sumeru น่ะ ฉันก็เลยมีที่ปักหลัก แค่นึกถึงขั้นตอนการ \"ผนึก\" ก่อนหน้าที่จะกลับมาที่ Sumeru นั่นแล้ว... เอ่อ... ด้านหลังคอเริ่มรู้สึกเจ็บขึ้นมาอีกแล้วล่ะ...",
       "vi": "Haiz... chúng ta đừng nhắc đến anh ta được không? À, Tổng Quản Mahamatra không phải là người xấu gì, lúc trước nhờ có anh ấy dẫn tôi từ Mondstadt về Sumeru mà tôi mới có được một nơi yên ổn để sống. Chỉ là nghĩ đến quá trình \"phong ấn\" trước khi về Sumeru đó... haiz... phía sau gáy lại thấy đau rồi..."
     }
@@ -818,9 +818,9 @@
     "line": {
       "zhs": "感觉她有点迷迷糊糊的样子，如果来化城郭附近表演的话，不会走着走着就迷路在深林里吧…那我可一定要好好看着她，尽我见习巡林员的职责。",
       "zht": "感覺她有點迷迷糊糊的樣子，如果來化城郭附近表演的話，不會走著走著就迷路在深林裡吧…那我一定要好好看著她，盡我見習巡林員的職責。",
-      "jp": "彼女、ちょっとぼんやりしてるみたいだ。もしガンダルヴァ村の近くでパフォーマンスをする機会があったとき、森で迷子になってしまったりしないよな…うん、見習いレンジャーの名にかけて、あたしが彼女をしっかり見守るよ。",
+      "jp": "彼女、ちょっとぼんやりしてるみたいだ。もしガンダルヴァー村の近くでパフォーマンスをする機会があったとき、森で迷子になってしまったりしないよな…うん、見習いレンジャーの名にかけて、あたしが彼女をしっかり見守るよ。",
       "ko": "그 사람은 항상 몽롱해 보여. 간다르바 성곽 인근에 공연하러 온다면 숲에서 길을 잃게 될 것만 같아…. 숲의 견습 순찰자로서 잘 지켜봐야겠어",
-      "en": "She seems a little absent-minded. If she ever comes to perform around Gandharva Ville, I'm worried she'll end up wandering off into the forest and getting lost... So I'll have to watch out for her, as a responsible forest ranger trainee should.",
+      "en": "She seems a little absent-minded. If she ever comes to perform around Gandharva Ville, I'm worried she'll end up wandering off into the forest and getting lost... So I'll have to watch out for her, as a responsible trainee forest ranger should.",
       "de": "Sie scheint ein wenig zerstreut zu sein. Wenn sie jemals in Gandharva auftritt, habe ich Angst, dass sie sich im Wald verirrt ... Ich werde also auf sie aufpassen müssen, also, meine Pflicht als auszubildende Waldhüterin erfüllen.",
       "es": "Parece que Nilou es un poco despistada. Me preocupa que se pierda por el bosque si alguna vez decide actuar en la Villa Gandharva. Tendré que vigilarla, es mi responsabilidad como guardabosques en prácticas.",
       "fr": "Elle a l'air un peu distraite. Si elle devait se produire dans les environs de Gandharva, j'ai bien peur qu'elle ne finisse par se perdre dans la forêt... Il faudra que je garde un œil sur elle, comme le ferait une garde forestière en formation digne de ce nom.",
@@ -1178,9 +1178,9 @@
       "fr": "« En réponse à l'homo... homogénéisation des variétés cultivées... pris des mesures d'importation... éviter la consommation à long terme d'aliments fongiques... ». Pourquoi ils en font autant... Ils sont juste en train de dire : « Je ne veux pas manger de champignons », mais sous prétexte qu'il s'agit de l'Académie, il faut que ça ait l'air compliqué !",
       "pt": "\"Em resposta a homo-homogenização das espécies de cultivos... evitar medidas de importação... evitar o consumo a longo prazo de alimentos fúngicos...\" O que adianta tudo isso... Eles estão literalmente apenas dizendo: \"eu não quero comer cogumelos\", mas como são da Academia, eles têm que fazer tudo parecer tão complicado!",
       "ru": "«В настоящее время... В целях унификации... различных сортов сельскохозяйственных культур... Во избежание длительного употребления в пищу съедобных грибов... Принимаются меры по импорту...» Что это такое? Почему в научных работах Академии всё так непонятно? Почему нельзя просто написать: «Мы не хотим есть одни грибы»?",
-      "id": "\"Menanggapi ho — homogenisasi spesies tanaman ... mengambil langkah-langkah impor... menghindari konsumsi jangka panjang makanan jamur ...\" Apa maksud dari semua ini ... Mereka secara harfiah mengatakan, \"Aku tidak mau makan jamur,\" tetapi karena dari Akademiya, makanya jadi terdengar rumit!\"",
+      "id": "\"Menanggapi ho — homogenisasi spesies tanaman ... mengambil langkah-langkah impor... menghindari konsumsi jangka panjang makanan jamur ....\" Apa maksud dari semua ini ... Mereka secara harfiah mengatakan, \"Aku tidak mau makan jamur,\" tetapi karena dari Akademiya, makanya jadi terdengar rumit!\"",
       "th": "\"มาตรการนำเข้า... เพื่อหลีกเลี่ยงเห็ดที่กินได้ในระยะยาว... โดยมุ่งเป้าไปที่การลดความหลากหลายของพันธุ์พืช... ในปัจจุบัน...\" นี่มันอะไรกันล่ะเนี่ย? วิทยานิพนธ์ของทางสถาบัน แค่จะบอกว่า \"ไม่อยากกินเห็ด\" ทำไมถึงเขียนออกมาได้ซับซ้อนขนาดนี้กันนะ!",
-      "vi": "\"Theo quan điểm hiện tại... giống cây trồng... cần thống nhất chung... để tránh ăn nhầm nấm... lâu ngày... mà đưa ra biện pháp nhập khẩu\" Cái gì với cái gì chứ? Tại sao luận văn của Giáo Viện lại viết chuyện \"không muốn ăn nấm\" này một cách phức tạp như vậy chứ!"
+      "vi": "\"Theo quan điểm hiện tại... giống cây trồng... cần thống nhất chung... để tránh ăn nấm... lâu ngày... mà đưa ra biện pháp nhập khẩu\" Cái gì với cái gì chứ? Tại sao luận văn của Giáo Viện lại viết chuyện \"không muốn ăn nấm\" này một cách phức tạp như vậy chứ!"
     }
   },
   {
@@ -1237,7 +1237,7 @@
       "jp": "彷徨ってた時は、腹が減ったらググプラムまで割って食べてた。だから、すごく嫌いって食べ物はないかな。強いて言えば、あたしが絶対に食べないのはキノコかな？好き嫌いの問題じゃなくて、師匠に延々と説教されるのが嫌なだけだけど…",
       "ko": "떠돌이 생활할 때 배고프면 고리고리 열매를 쪼개서 먹을 정도였으니 특별히 싫어하는 음식은 없어. 굳이 꼽자면, 손대지 않는 건 버섯뿐이려나? 맛 때문이 아니라 스승님한테 비난받는 당사자가 되고 싶지 않거든…",
       "en": "During my wandering days, there were times when I had to crack open Wolfhooks and force them down if I didn't want to go hungry, so there aren't really any foods that I especially hate. If I had to pick one thing that I won't touch, it would be mushrooms of any kind. Nothing to do with the flavor — I just don't want to ever be the one on the receiving end of one of Master's stern lectures...",
-      "de": "Als ich noch Wanderin war, musste ich Wolfshaken teilen und hinunterschlingen, wenn ich nicht hungern wollte. Deswegen gibt es also kein bestimmtes Essen, das ich hasse. Wenn ich eines auswählen müsste, das ich nicht anrühren würde, dann wären es Pilze jeglicher Art. Das hat nichts mit dem Geschmack zu tun, ich möchte einfach nicht diejenige sein, die so hart von dem Meister kritisiert wird.",
+      "de": "Als ich noch allein umherstreifte, musste ich Wolfshaken teilen und hinunterschlingen, wenn ich nicht hungern wollte. Deswegen gibt es also kein bestimmtes Essen, das ich hasse. Wenn ich eines auswählen müsste, das ich nicht anrühren würde, dann wären es Pilze jeglicher Art. Das hat nichts mit dem Geschmack zu tun, ich möchte einfach nicht diejenige sein, die so hart von dem Meister kritisiert wird.",
       "es": "Cuando vagaba por la naturaleza, llegué a comerme hasta los ganchos de lobo para no morirme de hambre, así que no hay nada que no me guste. Si tuviera que decir algo sí o sí, probablemente serían los champiñones de cualquier tipo. No es por el sabor, es solo que no quiero que el maestro me eche uno de sus sermones...",
       "fr": "Durant mes jours d'errance, il y a eu des moments où j'ai dû ouvrir des baies à crochet et les gober si je ne voulais pas mourir de faim, donc il n'y a pas vraiment de nourriture que je déteste particulièrement. Si je devais en choisir une à laquelle je ne toucherais pas, ce serait les champignons de toutes sortes. Cela n'a rien à voir avec le goût, mais plutôt le fait que je n'ai pas envie de subir les réprimandes du maître...",
       "pt": "Durante o tempo em que eu vagava, houveram muitas ocasiões que eu abri Ganchos do Lobo e me forcei a engoli-los para não ficar faminta, por isso, não existe uma comida que eu particularmente deteste... Se tivesse que escolher algo que não tocaria, seriam cogumelos. Não tem nada a ver com o sabor, eu só não quero receber um enorme sermão do mestre...",

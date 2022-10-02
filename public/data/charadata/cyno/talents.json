@@ -1,0 +1,194 @@
+[
+  {
+    "title": {
+      "zhs": "普通攻击·七圣枪术",
+      "zht": "普通攻擊·七聖槍術",
+      "jp": "通常攻撃·七聖槍術",
+      "ko": "일반 공격·일곱 성인의 창술",
+      "en": "Normal Attack: Invoker's Spear",
+      "de": "Standardangriff: Speertechnik der Beschwörer",
+      "es": "Ataque Normal: Lanza de la invocación",
+      "fr": "Attaque normale : Lance d'invocation",
+      "pt": "Ataque Normal: Lança da Invocação",
+      "ru": "Копьё призывателя",
+      "id": "Normal Attack: Invoker's Spear",
+      "th": "โจมตีปกติ: Invoker's Spear",
+      "vi": "Tấn Công Thường - Thất Thánh Thương Thuật"
+    },
+    "description": {
+      "zhs": "<color=#FFD780FF>普通攻击</color>\n进行至多四段的连续枪击。\n\n<color=#FFD780FF>重击</color>\n消耗一定体力，向前方突进，对路径上的敌人造成伤害。\n\n<color=#FFD780FF>下落攻击</color>\n从空中下坠冲击地面，攻击下落路径上的敌人，并在落地时造成范围伤害。",
+      "zht": "<color=#FFD780FF>普通攻擊</color>\n進行至多四段的連續槍擊。\n\n<color=#FFD780FF>重擊</color>\n消耗一定體力，向前方突進，對路徑上的敵人造成傷害。\n\n<color=#FFD780FF>下落攻擊</color>\n從空中下墜衝擊地面，攻擊下落路徑上的敵人，並在落地時造成範圍傷害。",
+      "jp": "<color=#FFD780FF>通常攻撃</color>\n槍による最大4段の連続攻撃を行う。\n\n<color=#FFD780FF>重撃</color>\n一定のスタミナを消費して前方に突進し、経路上の敵にダメージを与える。\n\n<color=#FFD780FF>落下攻撃</color>\n空中から落下し地面に衝撃を与える。経路上の敵を攻撃し、落下時に範囲ダメージを与える。",
+      "ko": "<color=#FFD780FF>일반 공격</color>\n창으로 최대 4번 공격한다.\n\n<color=#FFD780FF>강공격</color>\n일정 스태미나를 소모해 전방으로 돌진하여 경로상의 적에게 피해를 준다.\n\n<color=#FFD780FF>낙하 공격</color>\n공중에서 땅을 내려찍어 경로상의 적을 공격하고 착지 시 범위 피해를 준다",
+      "en": "<color=#FFD780FF>Normal Attack</color>\nPerforms up to 4 consecutive spear strikes.\n\n<color=#FFD780FF>Charged Attack</color>\nConsumes a certain amount of Stamina to lunge forward, dealing damage to opponents along the way.\n\n<color=#FFD780FF>Plunging Attack</color>\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+      "de": "<color=#FFD780FF>Standardangriff</color>\nFührt bis zu 4 Lanzenstiche hintereinander aus.\n\n<color=#FFD780FF>Heftiger Schlag</color>\nVerbraucht eine gewisse Menge Ausdauer, sticht geschwind nach vorn und fügt den Gegnern in der Bahn Schaden zu.\n\n<color=#FFD780FF>Angriff aus dem Fall</color>\nSchlägt beim Fallen aus der Luft auf den Boden, greift alle Gegner in der Bahn an und verursacht beim Aufkommen Flächenschaden.",
+      "es": "<color=#FFD780FF>Ataque Normal</color>\nRealiza hasta 4 ataques rápidos con lanza.\n\n<color=#FFD780FF>Ataque Cargado</color>\nConsume una cierta cantidad de Aguante para lanzarse al frente, e infligir daño a los enemigos en el camino.\n\n<color=#FFD780FF>Ataque Descendente</color>\nSe lanza desde el aire para golpear el suelo, dañando a los enemigos cercanos e infligiendo Daño en el AdE en el momento del impacto.",
+      "fr": "<color=#FFD780FF>Attaque normale</color>\nEnchaîne jusqu'à 4 coups de lance.\n\n<color=#FFD780FF>Attaque chargée</color>\nConsomme de l'endurance pour charger en ligne droite et infliger des DGT aux ennemis sur la route.\n\n<color=#FFD780FF>Attaque plongeante</color>\nPlonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis sur la route et des DGT de zone à l'impact.",
+      "pt": "<color=#FFD780FF>Ataque Normal</color>\nRealiza até 4 golpes com a lança.\n\n<color=#FFD780FF>Ataque Carregado</color>\nConsome uma certa quantidade de Stamina para se lançar para frente, infligindo Dano em seu trajeto.\n\n<color=#FFD780FF>Ataque Imersivo</color>\nMergulha em pleno ar para golpear o chão, causando dano aos inimigos ao longo do caminho e infligindo Dano em uma AdE durante o impacto.",
+      "ru": "<color=#FFD780FF>Обычная атака:</color>\nДо четырёх ударов копьём.\n\n<color=#FFD780FF>Заряженная атака:</color>\nВыпад, наносящий урон противникам на пути, на который тратится определённое количество выносливости.\n\n<color=#FFD780FF>Атака в падении:</color>\nСтремительно падает на землю, атакуя всех врагов на пути. Приземлившись, наносит урон по площади.",
+      "id": "<color=#FFD780FF>Normal Attack</color>\nMelancarkan hingga 4 serangan tombak berturut-turut.\n\n<color=#FFD780FF>Charged Attack</color>\nMengonsumsi sejumlah Stamina untuk menerjang ke depan dan mengakibatkan DMG pada musuh di jalur terjangan.\n\n<color=#FFD780FF>Plunging Attack</color>\nMenerjang dari udara untuk menghantam tanah, mengakibatkan DMG pada musuh di jalur terjangan dan mengakibatkan DMG area saat mendarat.",
+      "th": "<color=#FFD780FF>โจมตีปกติ</color>\nโจมตีด้วยหอกต่อเนื่องมากสุด 4 ครั้ง\n\n<color=#FFD780FF>ชาร์จโจมตี</color>\nใช้พลังกายปริมาณหนึ่งเพื่อพุ่งไปข้างหน้า และสร้างความเสียหายแก่ศัตรูที่อยู่ในเส้นทาง\n\n<color=#FFD780FF>โจมตีพุ่งลงจากอากาศ</color>\nกระโจนจากกลางอากาศลงมายังพื้นดิน เพื่อโจมตีศัตรูที่อยู่ในเส้นทางการโจมตี โดยจะสร้างความเสียหายวงกว้างเมื่อลงถึงพื้น",
+      "vi": "<color=#FFD780FF>Tấn Công Thường</color>\nThực hiện tối đa 4 lần đánh liên tiếp.\n\n<color=#FFD780FF>Trọng Kích</color>\nTiêu hao thể lực nhất định, xông về phía trước, gây sát thương cho địch trên đường đi.\n\n<color=#FFD780FF>Tấn Công Khi Đáp</color>\nĐáp xuống đất từ trên không, tấn công kẻ địch trên đường và gây sát thương phạm vi khi chạm đất."
+    }
+  },
+  {
+    "title": {
+      "zhs": "秘仪·律渊渡魂",
+      "zht": "秘儀·律淵渡魂",
+      "jp": "秘儀·律淵渡魂",
+      "ko": "비밀스러운 의식·명계의 인도자",
+      "en": "Secret Rite: Chasmic Soulfarer",
+      "de": "Geheimer Ritus – Abgründiger Seelenwanderer",
+      "es": "Rito secreto: Guía de las almas abismales",
+      "fr": "Rite : Traversée abyssale",
+      "pt": "Ritual Secreto: Travessia Abissal",
+      "ru": "Тайный обряд: Переправляющий души",
+      "id": "Secret Rite: Chasmic Soulfarer",
+      "th": "Secret Rite: Chasmic Soulfarer",
+      "vi": "Nghi Thức Bí Ẩn - Dẫn Hồn Đáy Vực"
+    },
+    "description": {
+      "zhs": "疾速突进，对路径上的敌人造成<color=#FFACFFFF>雷元素伤害</color>。\n\n当赛诺处于元素爆发「圣仪·煟煌随狼行」的启途誓使状态下时，将转而施展<color=#FFD780FF>冥祭</color>，释放惊雷的力量，造成<color=#FFACFFFF>雷元素范围伤害</color>，并延长启途誓使状态的持续时间。\n\n<i>「这场审判，你无权选择接受或拒绝。你与我…都早已置身其中了。」</i>",
+      "zht": "疾速突進，對路徑上的敵人造成<color=#FFACFFFF>雷元素傷害</color>。\n\n當賽諾處於元素爆發「聖儀·煟煌隨狼行」的啟途誓使狀態時，將轉而施展<color=#FFD780FF>冥祭</color>，釋放驚雷的力量，造成<color=#FFACFFFF>雷元素範圍傷害</color>，並延長啟途誓使狀態的持續時間。\n\n<i>「這場審判，你無權選擇接受或拒絕。你與我…都早已置身其中。」</i>",
+      "jp": "疾駆して突進し、経路上の敵に<color=#FFACFFFF>雷元素ダメージ</color>を与える。\n\n元素爆発「聖儀·狼駆憑走」の啓途誓使状態にある時、セノは<color=#FFD780FF>冥祭</color>を発動して驚雷の力を放ち、<color=#FFACFFFF>雷元素範囲ダメージ</color>を与える。また啓途誓使状態の継続時間を延長する。\n\n<i>「この審判、お前には受け入れる権利も拒否する権利もない。お前も俺も…すでに審判の渦中にあるからだ。」</i>",
+      "ko": "빠르게 돌진하여 경로상의 적에게 <color=#FFACFFFF>번개 원소 피해</color>를 준다.\n\n사이노가 원소폭발 「성스러운 의식·이리의 질주」의 길을 여는 사자 상태일 경우, <color=#FFD780FF>명계 제사</color>로 전환하여 천둥의 힘을 발동해 <color=#FFACFFFF>번개 원소 범위 피해</color>를 주고, 길을 여는 사자의 지속 시간이 연장된다.\n\n<i>「너는 이 심판을 수락하거나 거부할 권리가 없어. 너와 나 모두… 이미 심판을 받고 있기 때문이지」</i>",
+      "en": "Performs a swift thrust, dealing <color=#FFACFFFF>Electro DMG</color> to opponents along the path.\n\nWhen Cyno is under the Pactsworn Pathclearer state triggered by Sacred Rite: Wolf's Swiftness, he will instead unleash a <color=#FFD780FF>Mortuary Rite</color> that deals thunderous <color=#FFACFFFF>AoE Electro DMG</color> and extends the duration of Pactsworn Pathclearer.\n\n<i>\"This judgment brooks no choice. There is no rejection or acceptance here... We have both long been bound up in this conviction.\"</i>",
+      "de": "Führt blitzschnell einen Stoß aus, der den Gegnern in der Bahn <color=#FFACFFFF>Elektro-Schaden</color> zufügt.\n\nWenn Cyno sich im Modus „Paktverschworener Pfadklärer“ befindet, den die Spezialfähigkeit „Heiliger Ritus – Schnelligkeit des Wolfs“ ausgelöst hat, führt er stattdessen den <color=#FFD780FF>Bestattungsritus</color> aus, der donnernd <color=#FFACFFFF>Elektro-Flächenschaden</color> verursacht und die Dauer des Modus „Paktverschworener Pfadklärer“ verlängert.\n\n<i>„Dieser Prozess lässt keinen Einspruch zu. Wir alle ... sind schon lange darin gefangen.“</i>",
+      "es": "Se arroja rápidamente hacia delante para infligir <color=#FFACFFFF>Daño Electro</color> contra los enemigos en el camino.\n\nCuando Cyno está en el estado de abrecaminos del juramento de su Habilidad Definitiva, Rito sagrado: Celeridad lupina, realizará una <color=#FFD780FF>ofrenda mortuoria</color> que libera el poder del rayo para infligir <color=#FFACFFFF>Daño Electro en el AdE</color> y prolongar la duración de abrecaminos del juramento.\n\n<i>No tienes el derecho ni de aceptar ni de rechazar este veredicto, pues tanto tú como yo fuimos juzgados hace ya mucho tiempo.</i>",
+      "fr": "Effectue un assaut rapide, infligeant des <color=#FFACFFFF>DGT Électro</color> aux ennemis en chemin.\n\nLorsque Cyno est sous l'effet d'éclaireur sermenté de son déchaînement élémentaire « Liturgie : Rapidité lupine », il déclenche à la place un <color=#FFD780FF>rite mortuaire</color> qui inflige de tonitruants <color=#FFACFFFF>DGT Électro de zone</color> et prolonge la durée d'éclaireur sermenté.\n\n<i>« Ce jugement ne tolère aucun choix. Il n'y a ici ni rejet ni acceptation... Nous sommes tous deux liés depuis longtemps à cette conviction. »</i>",
+      "pt": "Avança rapidamente, infligindo <color=#FFACFFFF>Dano Electro</color> contra os inimigos no caminho.\n\nQuando Cyno está sob o estado \"Juramento Desbravador\" de seu Supremo \"Ritual Sagrado: Agilidade Lupina\", lançará <color=#FFD780FF>Ritual Mortuário</color>, usando o poder dos raios para infligir <color=#FFACFFFF>Dano Electro em AdE</color>, e prolongar a duração de \"Juramento Desbravador\".\n\n<i>\"Esse julgamento não possui escolha. Não há rejeição ou aceitação... Pois já fomos julgados há muito tempo.\"</i>",
+      "ru": "Совершает выпад вперёд, нанося противникам на пути <color=#FFACFFFF>Электро урон</color>.\n\nЕсли Сайно находится в состоянии Поклявшегося прокладывать путь, вызванном Священным обрядом: Проворство шакала взрыва стихий, то вместо выпада он активирует <color=#FFD780FF>Ритуал погребения</color>, который низвергает силу молний и наносит <color=#FFACFFFF>Электро урон по площади</color>, а также продлевает действие Поклявшегося прокладывать путь.\n\n<i>«Решение принято, и тебе ни отвергнуть, ни принять его... Давно уж мы с тобой связаны этим долгом».</i>",
+      "id": "Menerjang ke arah depan dan mengakibatkan <color=#FFACFFFF>Electro DMG</color> terhadap musuh di dalam jalurnya.\n\nSaat Cyno berada dalam status Pactsworn Pathclearer yang terpicu oleh Elemental Burst Sacred Rite: Wolf's Swiftness, sebagai gantinya, Cyno akan melepaskan sebuah <color=#FFD780FF>Mortuary Rite</color> yang akan melepaskan kekuatan petir yang sangat kuat dan mengakibatkan <color=#FFACFFFF>Electro DMG Area</color> serta memperpanjang durasi Pactsworn Pathclearer.\n\n<i>\"Penghakiman ini tidak memberikan pilihan. Tidak ada penolakan atau penerimaan di sini ... Kita berdua sudah lama terikat dalam keyakinan ini.\"</i>",
+      "th": "พุ่งเข้าไปอย่างรวดเร็ว เพื่อสร้าง<color=#FFACFFFF>ความเสียหายไฟฟ้า</color>แก่ศัตรูที่อยู่ในเส้นทางการโจมตี\n\nเมื่อ Cyno อยู่ภายใต้สภาวะ Pactsworn Pathclearer ของท่าไม้ตาย \"Sacred Rite: Wolf's Swiftness\" จะเปลี่ยนเป็นใช้ <color=#FFD780FF>Mortuary Rite</color> เพื่อปลดปล่อยพลังของสายฟ้าแทน โดยจะสร้าง<color=#FFACFFFF>ความเสียหายไฟฟ้าวงกว้าง</color> และทำให้ช่วงเวลาคงอยู่ของ Pactsworn Pathclearer ยาวนานขึ้น\n\n<i>\"การพิพากษาในครั้งนี้ คุณไม่มีสิทธิ์เลือกที่จะยอมรับหรือปฏิเสธ คุณกับฉัน... ต่างก็เป็นส่วนหนึ่งของมันตั้งนานแล้ว\"</i>",
+      "vi": "Đột kích siêu tốc, gây <color=#FFACFFFF>Sát Thương Nguyên Tố Lôi</color> cho kẻ địch trên đường.\n\nKhi Cyno trong trạng thái Sứ Giả Dẫn Lối của Kỹ Năng Nộ \"Nghi Thức Thần Thánh - Nhanh Như Sói\" sẽ thi triển trạng thái <color=#FFD780FF>Tang Lễ</color>, giải phóng sức mạnh sấm sét, gây <color=#FFACFFFF>Sát Thương Phạm Vi Nguyên Tố Lôi</color>, đồng thời kéo dài thời gian duy trì trạng thái Sứ Giả Dẫn Lối.\n\n<i>\"Ngươi không có quyền lựa chọn chấp nhận hay từ chối, cả ngươi và ta đều đã sớm nằm trong sự phán quyết này.\"</i>"
+    }
+  },
+  {
+    "title": {
+      "zhs": "圣仪·煟煌随狼行",
+      "zht": "聖儀·煟煌隨狼行",
+      "jp": "聖儀·狼駆憑走",
+      "ko": "성스러운 의식·이리의 질주",
+      "en": "Sacred Rite: Wolf's Swiftness",
+      "de": "Heiliger Ritus – Schnelligkeit des Wolfs",
+      "es": "Rito sagrado: Celeridad lupina",
+      "fr": "Liturgie : Rapidité lupine",
+      "pt": "Ritual Sagrado: Agilidade Lupina",
+      "ru": "Священный обряд: Проворство шакала",
+      "id": "Sacred Rite: Wolf's Swiftness",
+      "th": "Sacred Rite: Wolf's Swiftness",
+      "vi": "Nghi Thức Thần Thánh - Nhanh Như Sói"
+    },
+    "description": {
+      "zhs": "唤请神灵凭依，化身「启途誓使」。\n\n<color=#FFD780FF>启途誓使</color>\n将赛诺的普通攻击、重击与下落攻击造成的伤害转为无法被附魔覆盖的<color=#FFACFFFF>雷元素伤害</color>；\n·赛诺的元素精通提升，抗打断能力提高，并免疫感电反应造成的伤害。\n\n效果将在赛诺退场时解除，至多持续18秒。\n\n<i>古国传承的秘仪，对于大风纪官而言，也意味着最终的审判。</i>\n<i>无论是彼时还是现世，无论是风暴还是巨蟒，都无法撼动律令的威严。</i>",
+      "zht": "喚請神靈憑依，化身「啟途誓使」。\n\n<color=#FFD780FF>啟途誓使</color>\n將賽諾的普通攻擊、重擊與下落攻擊造成的傷害轉為無法被附魔覆蓋的<color=#FFACFFFF>雷元素傷害</color>。\n·賽諾的元素精通提升，抗打斷能力提高，並免疫感電反應造成的傷害。\n\n效果將在賽諾退場時解除，至多持續18秒。\n\n<i>古國傳承的秘儀，對於大風紀官而言，也意味著最終的審判。</i>\n<i>無論是彼時還是現世；無論是風暴還是巨蟒，都無法撼動律令的威嚴。</i>",
+      "jp": "神霊を憑依召喚して、「啓途誓使」と化す。\n\n<color=#FFD780FF>啓途誓使</color>\nセノの通常攻撃、重撃、落下攻撃ダメージは、元素付与によって他の元素に変化しない<color=#FFACFFFF>雷元素ダメージ</color>へと変わる。\n·セノの元素熟知と中断耐性がアップし、感電反応によるダメージを無効化する。\n\nこの効果はセノが退場する時に解除され、最大18秒継続できる。\n\n<i>古国から受け継がれてきた秘儀は、大マハマトラにとって最後の審判を意味している。</i>\n<i>過去も現在も、嵐もうわばみも、律令の威厳を揺るがすことはできない。</i>",
+      "ko": "신령을 소환하여 「길을 여는 사자」로 변신한다.\n\n<color=#FFD780FF>길을 여는 사자</color>\n사이노의 일반 공격, 강공격과 낙하 공격이 가하는 피해가 다른 원소 부여 효과로 대체될 수 없는 <color=#FFACFFFF>번개 원소 피해</color>로 전환된다.\n·사이노의 원소 마스터리 및 경직 저항력이 증가하고, 감전 반응 피해에 면역을 가지게 된다.\n\n효과는 사이노의 퇴장과 함께 사라지며, 최대 18초 동안 지속된다.\n\n<i>고대 국가에서 전해져 내려온 비밀 의례는 대풍기관에게 있어 최후의 심판을 의미하기도 한다.</i>\n<i>과거에나 지금에나, 폭풍우도 뱀도, 율령의 위엄을 흔들 수는 없다</i>",
+      "en": "Calls upon a divine spirit to indwell him, morphing into the Pactsworn Pathclearer.\n\n<color=#FFD780FF>Pactsworn Pathclearer</color>\nCyno's Normal, Charged, and Plunging Attacks will be converted to <color=#FFACFFFF>Electro DMG</color> that cannot be overridden.\n·Cyno's Elemental Mastery and resistance to interruption will increase, and he gains immunity to Electro-Charged DMG.\n\nThis effect will be canceled when Cyno leaves the field and lasts a maximum of 18s.\n\n<i>The secret rituals passed down within the ancient nation are as a final judgment to the General Mahamatra.</i>\n<i>Whether now or in the past, whether great storm or serpent, none shall shake the majesty of the law.</i>",
+      "de": "Beschwört einen göttlichen Geist, der Cyno in den „Paktverschworenen Pfadklärer“ verwandelt.\n\n<color=#FFD780FF>Paktverschworener Pfadklärer</color>\nWandelt den durch Cynos Standardangriffe, heftige Schläge und Angriffe aus dem Fall verursachten Schaden in <color=#FFACFFFF>Elektro-Schaden</color> um, der nicht von anderen Elementen überdeckt werden kann.\n· Erhöht Cynos Elementarkunde und Unterbrechungs-WDS. Verleiht ihm zugleich Immunität gegen Schaden, den die Reaktion „Unter Strom“ verursacht.\n\nDiese Effekte halten bis zu 18 s und werden entfernt, sobald Cyno ausgewechselt wird.\n\n<i>Die geheimen Riten der alten Zivilisation sind für Mahamatra auch der letzte Prozess.</i>\n<i>Ob die Vergangenheit oder die Gegenwart, ob Sturm oder Riesenschlange, nichts kann die Autorität des Gesetzes erschüttern.</i>",
+      "es": "#Invoca a un espíritu divino para que lo posea y se transforma en el abrecaminos del juramento.\n\n<color=#FFD780FF>Abrecaminos del juramento</color>\n·Transforma el daño de los Ataques Normales, Cargados y Descendentes de Cyno en <color=#FFACFFFF>Daño Electro</color>, el cual no puede sustituirse imbuyéndose de otro elemento.\n·Aumenta la Maestría Elemental y la RES a interrupción de Cyno y lo vuelve inmune al daño de Electrocargado.\n\nEste efecto dura un máximo de 18{NON_BREAK_SPACE}s y desaparece cuando Cyno es retirado de combate.\n\n<i>Para el Gran Juez, los ritos secretos heredados de las civilizaciones de la antigüedad son como un juicio final.</i>\n<i>Ya sea el pasado, el presente, una tormenta de arena o una serpiente pitón, nada ni nadie puede hacer que el poder de la ley se estremezca.</i>",
+      "fr": "Invoque un esprit divin pour le posséder, se transformant en éclaireur sermenté.\n\n<color=#FFD780FF>Éclaireur sermenté</color>\n· Les DGT infligés par les attaques normales, chargées ou plongeantes de Cyno seront convertis en <color=#FFACFFFF>DGT Électro</color> ne pouvant pas être enchantés.\n· La maîtrise élémentaire et la RÉS à l'interruption de Cyno augmentent et il devient immunisé contre les DGT infligés par les réactions d'Électrocution.\n\nCes effets cessent lorsque Cyno quitte le champ de bataille ou après une durée de 18 s.\n\n<i>Les rites secrets transmis au sein de l'ancienne nation sont comme un jugement définitif pour le général mahamatra.</i>\n<i>Que ce soit maintenant ou dans le passé, qu'il s'agisse d'une tempête ou d'un serpent, personne n'ébranlera la majesté de la loi.</i>",
+      "pt": "Invoca um espírito divino para possuí-lo, transformando-o no Juramento Desbravador.\n\n<color=#FFD780FF>Juramento Desbravador</color>\nO Dano que Cyno inflige por Ataques Normais, Carregados e Imersivos é convertido para <color=#FFACFFFF>Dano Electro</color> que não pode ser substituído;\n· Aumenta a Proficiência Elemental de Cyno, aumenta sua Resistência contra Interrupção e o torna imune ao Dano infligido pela reação Eletricamente Carregado.\n\nEsse efeito desaparecerá quando Cyno sair do campo de batalha, e dura até 18s.\n\n<i>Os rituais secretos passados pela nação antiga são como o julgamento final do General Mahamatra.</i>\n<i>Não importa se agora ou no passado, se uma grande tempestade ou serpente, ninguém abalará o poder da lei.</i>",
+      "ru": "Взывает к богам и принимает форму Поклявшегося прокладывать путь.\n\n<color=#FFD780FF>Поклявшийся прокладывать путь</color>\nКонвертирует урон от обычных атак, заряженных атак и атак в падении в <color=#FFACFFFF>Электро урон</color>, который не может быть отменён другими инфузиями.\n· Мастерство стихий и сопротивление прерыванию Сайно увеличиваются, и он получает иммунитет к урону от реакции Заряжен.\n\nЭффект длится максимум 18 сек. и исчезает, если Сайно покидает поле боя.\n\n<i>Тайные обряды древнего государства являются для генерала махаматры окончательным и бесповоротным решением.</i>\n<i>Ни прошлому с настоящим, ни бурям и гигантским змеям не под силу поколебать величие закона.</i>",
+      "id": "Memanggil sebuah roh yang suci untuk mengambil alih dirinya dan berubah menjadi Pactsworn Pathclearer.\n\n<color=#FFD780FF>Pactsworn Pathclearer</color>\nDMG yang diakibatkan oleh Normal Attack, Charged Attack, dan Plunging Attack Cyno akan dikonversi menjadi <color=#FFACFFFF>Electro DMG</color> yang tidak bisa ditimpa Elemental Infusion lainnya.\nElemental Mastery dan ketahanan terhadap interupsi Cyno akan meningkat, Cyno juga menjadi kebal terhadap DMG yang diakibatkan oleh reaksi Electro-Charged.\n\nEfek ini akan hilang saat Cyno meninggalkan medan pertempuran, dan bisa berlangsung selama maksimal 18 detik.\n\n<i>Ritual rahasia yang diturunkan dari bangsa kuno adalah bentuk penghakiman terakhir kepada Mahamatra Umum.</i>\n<i>Entah itu sekarang atau masa lalu, badai besar atau ular raksasa, tidak akan ada yang bisa menggoyahkan kemuliaan hukum. </i>",
+      "th": "อัญเชิญดวงวิญญาณของเทพให้ลงมาประทับร่าง และแปลงกายเป็น \"Pactsworn Pathclearer\"\n\n<color=#FFD780FF>Pactsworn Pathclearer</color>\nเปลี่ยนความเสียหายที่การโจมตีปกติ การชาร์จโจมตี และการโจมตีพุ่งลงจากอากาศของ Cyno สร้าง ให้เป็น<color=#FFACFFFF>ความเสียหายไฟฟ้า</color> ที่ไม่สามารถซ้อนทับด้วยธาตุอื่นได้;\n·ความชำนาญธาตุและความสามารถในการต้านทานการหยุดชะงักของ Cyno จะเพิ่มขึ้น และทนต่อความเสียหายของปฏิกิริยาชาร์จไฟฟ้า\n\nเอฟเฟกต์จะหายไปเมื่อ Cyno ออกจากการต่อสู้ และจะคงอยู่ได้นานสุดถึง 18 วินาที\n\n<i>พิธีกรรมลับที่สืบทอดมาจากดินแดนโบราณ ซึ่งสำหรับเจ้าหน้าที่มหามาตราแล้ว ยังหมายถึงการพิพากษาครั้งสุดท้ายอีกด้วย</i>\n<i>ไม่ว่าจะเป็นช่วงเวลานั้นหรือในตอนนี้ ไม่ว่าจะเป็นลมพายุหรืองูยักษ์ ต่างก็ไม่มีอะไรมาสั่นคลอนความศักดิ์สิทธิ์ของกฎได้</i>",
+      "vi": "Triệu hồi linh hồn hộ thể, hóa thân thành \"Sứ Giả Dẫn Lối\".\n\n<color=#FFD780FF>Sứ Giả Dẫn Lối</color>\nSát thương đánh thường, trọng kích, tấn công khi đáp của Cyno sẽ chuyển hóa thành <color=#FFACFFFF>Sát Thương Nguyên Tố Lôi</color> không thể bị thay thế;\n·Khiến Cyno tăng Tinh Thông Nguyên Tố, kháng gián đoạn và miễn dịch sát thương phản ứng Điện Cảm.\n\nHiệu quả sẽ biến mất khi Cyno rời trận, tối đa duy trì 18s.\n\n<i>Nghi thức lưu truyền từ vương quốc cổ, đối với Tổng Quản Mahamatra mà nói, cũng có nghĩa là sự phán quyết cuối cùng.</i>\n<i>Cho dù là quá khứ hay hiện tại, cho dù là bão tố hay mãng xà, cũng đều phải khuất phục trước sự uy nghiêm của pháp lệnh.</i>"
+    }
+  },
+  {
+    "title": {
+      "zhs": "落羽的裁择",
+      "zht": "落羽的裁擇",
+      "jp": "落羽の裁決",
+      "ko": "낙하하는 깃털의 심판",
+      "en": "Featherfall Judgment",
+      "de": "Urteil der Federn",
+      "es": "Juicio de la pluma",
+      "fr": "Jugement des plumes",
+      "pt": "Julgamento das Plumas",
+      "ru": "Суд пера",
+      "id": "Featherfall Judgment",
+      "th": "Featherfall Judgment",
+      "vi": "Lạc Vũ Phán Quyết"
+    },
+    "description": {
+      "zhs": "在<color=#FFD780FF>圣仪·煟煌随狼行</color>的启途誓使状态下时，赛诺将间歇性处于「末途真眼」状态下。在该状态期间施放<color=#FFD780FF>秘仪·律渊渡魂</color>时，将触发「裁定」效果，使此次秘仪·律渊渡魂造成的伤害提升35%，并向前方发射3道渡荒之雷，造成等同于赛诺攻击力100%的<color=#FFACFFFF>雷元素伤害</color>。\n渡荒之雷造成的伤害视为元素战技伤害。",
+      "zht": "在<color=#FFD780FF>聖儀·煟煌隨狼行</color>的啟途誓使狀態下時，賽諾將間歇性處於「末途真眼」狀態下。在該狀態期間施放<color=#FFD780FF>秘儀·律淵渡魂</color>時，將觸發「裁定」效果，使此次秘儀·律淵渡魂造成的傷害提升35%，並向前方發射3道渡荒之雷，造成等同於賽諾攻擊力100%的<color=#FFACFFFF>雷元素傷害</color>。\n渡荒之雷造成的傷害視為元素戰技傷害。",
+      "jp": "<color=#FFD780FF>聖儀·狼駆憑走</color>の啓途誓使状態にある時、セノは一定間隔で「末路真眼」状態に入る。この状態で<color=#FFD780FF>秘儀·律淵渡魂</color>を発動すると「裁定」効果が起こり、その時の秘儀·律淵渡魂の与えるダメージ+35%。同時に前方に向けて渡荒の雷を3本放ち、セノの攻撃力100%分の<color=#FFACFFFF>雷元素ダメージ</color>を与える。\n渡荒の雷によるダメージは元素スキルダメージと見なされる。",
+      "ko": "<color=#FFD780FF>성스러운 의식·이리의 질주</color>의 길을 여는 사자 상태에서 사이노는 간헐적으로 「말로를 꿰뚫는 눈」 상태가 된다. 해당 상태에서 <color=#FFD780FF>비밀스러운 의식·명계의 인도자</color> 시전 시 「판정」 효과를 발동해 이번 비밀스러운 의식·명계의 인도자가 가하는 피해를 35% 증가시키고, 전방에 기근의 번개를 3줄 발사하여 사이노 공격력의 100%에 해당하는 <color=#FFACFFFF>번개 원소 피해</color>를 가한다.\n기근의 번개가 가하는 피해는 원소전투 스킬의 피해로 간주한다",
+      "en": "When Cyno is in the Pactsworn Pathclearer state activated by <color=#FFD780FF>Sacred Rite: Wolf's Swiftness</color>, Cyno will enter the Endseer stance at intervals. If he activates <color=#FFD780FF>Secret Rite: Chasmic Soulfarer</color> while affected by this stance, he will activate the Judication effect, increasing the DMG of this Secret Rite: Chasmic Soulfarer by 35%, and firing off 3 Duststalker Bolts that deal 100% of Cyno's ATK as <color=#FFACFFFF>Electro DMG.</color>\nDuststalker Bolt DMG is considered Elemental Skill DMG.",
+      "de": "Befindet sich Cyno im Modus „Paktverschworener Pfadklärer“ der Spezialfähigkeit <color=#FFD780FF>Heiliger Ritus – Schnelligkeit des Wolfs</color>, wird er in Intervallen den Zustand „Prophet des Endes“ einnehmen. Wendet er in diesem Zustand die Elementarfähigkeit <color=#FFD780FF>Geheimer Ritus – Abgründiger Seelenwanderer</color> an, wird der Effekt „Zumessung“ ausgelöst, der den diesmaligen Schaden von „Geheimer Ritus – Abgründiger Seelenwanderer“ um 35 % erhöht und 3 Staubblitze nach vorn abfeuert, die <color=#FFACFFFF>Elektro-Schaden </color> in Höhe von 100 % von Cynos ANG verursachen.\nSchaden der Staubblitze gilt als Schaden der Elementarfähigkeit.",
+      "es": "Mientras está en el estado de abrecaminos del juramento de <color=#FFD780FF>Rito sagrado: Celeridad lupina</color>, Cyno entrará cada cierto tiempo en el estado de “profeta del fin”. Cuando usa <color=#FFD780FF>Rito secreto: Guía de las almas abismales</color> mientras está en ese estado, provocará el efecto de “sentencia”, el cual aumenta en un 35% el daño infligido con dicha habilidad y dispara hacia delante 3 rayos catastróficos que infligen <color=#FFACFFFF>Daño Electro</color> equivalente al 100% del ATQ de Cyno.\nEl daño de los rayos catastróficos se considera daño de Habilidad Elemental.",
+      "fr": "Lorsque Cyno est sous l'effet d'éclaireur sermenté de <color=#FFD780FF>Liturgie : Rapidité lupine</color>, il entre en posture de prophète final de façon intermittente. S'il utilise <color=#FFD780FF>Rite : Traversée abyssale</color> dans cette posture, il active l'effet Ordalie, augmentant les DGT infligés par cette utilisation de Rite : Traversée abyssale de 35 % et tirant vers l'avant 3 éclairs de sable qui infligent des <color=#FFACFFFF>DGT Électro</color> d'une valeur équivalant à 100 % de son ATQ.\nLes DGT infligés par les éclairs de sable sont considérés comme des DGT de compétence élémentaire.",
+      "pt": "Quando Cyno está com o estado Juramento Desbravador ativado pelo <color=#FFD780FF>Ritual Sagrado: Agilidade Lupina</color>, Cyno entrará periodicamente no estado \"Vidente do Fim\". Se ele lançar <color=#FFD780FF>Ritual Secreto: Travessia Abissal</color> enquanto estiver neste estado, desencadeará o efeito \"Adjudicação\", aumentando o Dano deste Ritual Secreto: Travessia Abissal em 35%, e disparando 3 Raios da Desolação que infligem 100% do ATQ de Cyno como <color=#FFACFFFF>Dano Electro.</color>\nO Dano do Raio da Desolação é considerado Dano de Habilidade Elemental.",
+      "ru": "Во время действия Поклявшегося прокладывать путь <color=#FFD780FF>Священного обряда: Проворство шакала</color> Сайно периодически входит в состояние Свидетеля истины. Активация <color=#FFD780FF>Тайного обряда: Переправляющий души</color> в этом состоянии вызывает эффект Вынесения приговора, который повышает урон текущего Тайного обряда: Переправляющий души на 35% и выпускает 3 Молнии бедствия, наносящие <color=#FFACFFFF>Электро урон</color> в 100% от силы атаки Сайно.\nУрон Молний бедствия считается уроном элементального навыка.",
+      "id": "Ketika Cyno ada dalam kondisi Pactsworn Pathclearer yang diaktifkan oleh skill <color=#FFD780FF>Sacred Rite: Wolf's Swiftness</color>, Cyno akan memasuki kondisi Endseer dengan interval tertentu. Jika dia mengaktifkan <color=#FFD780FF>Secret Rite: Chasmic Soulfarer</color> saat berada dalam kondisi tersebut, maka efek Judication akan terpicu, DMG yang diakibatkan Secret Rite: Chasmic Soulfarer akan meningkat sebanyak 35%, dan 3 buah Duststalker Bolt yang mengakibatkan <color=#FFACFFFF>Electro DMG</color> sejumlah 100% ATK Cyno akan ditembakkan.\nDMG Duststalker Bolt dianggap sebagai DMG Elemental Skill.",
+      "th": "เมื่อ Cyno อยู่ในสภาวะ Pactsworn Pathclearer ของ <color=#FFD780FF>Sacred Rite: Wolf's Swiftness</color> จะเข้าสู่สภาวะ \"Endseer\" เป็นระยะ ๆ ซึ่งเมื่อใช้ <color=#FFD780FF>Secret Rite: Chasmic Soulfarer</color> ในสภาวะดังกล่าว จะทำให้เกิดเอฟเฟกต์ \"Judication\" ซึ่งจะทำให้ Secret Rite: Chasmic Soulfarer ในครั้งนี้สร้างความเสียหายเพิ่มขึ้น 35% และปล่อย Duststalker Bolt ออกไปข้างหน้า 3 อัน โดยจะทำให้เกิด<color=#FFACFFFF>ความเสียหายไฟฟ้า</color>เป็น 100% ของพลังโจมตีของ Cyno\nความเสียหายที่ Duststalker Bolt สร้าง จะถูกมองว่าเป็นความเสียหายของสกิลธาตุ",
+      "vi": "Khi trong trạng thái Sứ Giả Dẫn Lối của <color=#FFD780FF>Nghi Thức Thần Thánh - Nhanh Như Sói</color>, Cyno sẽ vào trạng thái Soi Thấu Đường Cùng trong từng khoảng thời gian. Nếu thi triển <color=#FFD780FF>Nghi Thức Bí Ẩn - Dẫn Hồn Đáy Vực</color> trong trạng thái này sẽ kích hoạt hiệu quả \"Phán Quyết\", tăng 35% sát thương Nghi Thức Bí Ẩn - Dẫn Hồn Đáy Vực lần đó gây ra, đồng thời bắn về phía trước 3 luồng Tia Sét Xuyên Thấu, gây <color=#FFACFFFF>Sát Thương Nguyên Tố Lôi</color> bằng 100% sức tấn công của Cyno.\nSát thương Tia Sét Xuyên Thấu gây ra được tính là sát thương Kỹ Năng Nguyên Tố."
+    }
+  },
+  {
+    "title": {
+      "zhs": "九弓的执命",
+      "zht": "九弓的執命",
+      "jp": "九弓の権能",
+      "ko": "아홉 개 활의 통치자",
+      "en": "Authority Over the Nine Bows",
+      "de": "Autorität der neun Bögen",
+      "es": "Potestad de los Nueve Arcos",
+      "fr": "Autorité sur les neuf arcs",
+      "pt": "Soberania dos Nove Arcos",
+      "ru": "Повелитель девяти луков",
+      "id": "Authority Over the Nine Bows",
+      "th": "Authority Over the Nine Bows",
+      "vi": "Cửu Cung Chấp Mệnh"
+    },
+    "description": {
+      "zhs": "基于赛诺的元素精通，提高自身以下攻击造成的伤害值：\n·启途誓使状态下的普通攻击：元素精通的150%；\n·固有天赋「落羽的裁择」的渡荒之雷：元素精通的250%。",
+      "zht": "基於賽諾的元素精通，提高自身以下攻擊造成的傷害值：\n·啟途誓使狀態下的普通攻擊：元素精通的150%。\n·固有天賦「落羽的裁擇」的渡荒之雷：元素精通的250%。",
+      "jp": "セノの元素熟知を基準に、自身の下記攻撃のダメージが増加する。\n·啓途誓使状態での通常攻撃のダメージが元素熟知の150%分アップする。\n·固有天賦「落羽の裁決」の「渡荒の雷」のダメージが元素熟知の250%分アップする。",
+      "ko": "사이노의 원소 마스터리에 기반하여 자신의 아래 공격의 피해량이 증가한다:\n·길을 여는 사자 상태에서의 일반 공격: 원소 마스터리의 150%.\n·고유 특성 「낙하하는 깃털의 심판」의 기근의 번개: 원소 마스터리의 250%",
+      "en": "Cyno's DMG values will be increased based on his Elemental Mastery as follows:\n·Pactsworn Pathclearer's Normal Attack DMG is increased by 150% of his Elemental Mastery.\n·Duststalker Bolt DMG from his Passive Talent Featherfall Judgment is increased by 250% of his Elemental Mastery.",
+      "de": "Erhöht den Schaden Cynos folgender Angriffe basierend auf seiner Elementarkunde:\n· Standardangriff im Modus „Paktverschworener Pfadklärer“: um 150 % seiner Elementarkunde.\n· Staubblitze des passiven Talents „Urteil der Federn“: um 250 % seiner Elementarkunde.",
+      "es": "Aumenta el daño de los siguientes ataques de Cyno en función de su Maestría Elemental:\n·El daño de los Ataques Normales ejecutados en el estado de abrecaminos del juramento aumenta en un 150% de la Maestría Elemental.\n·El daño de los rayos catastróficos del talento pasivo “Juicio de la pluma” aumenta en un 250% de la Maestría Elemental.",
+      "fr": "Les DGT de certaines attaques de Cyno augmentent selon sa maîtrise élémentaire :\n· Les DGT de ses attaques normales sous l'effet d'éclaireur sermenté augmentent d'une valeur équivalant à 150 % de sa maîtrise élémentaire.\n· Les DGT des éclairs de sable de son aptitude passive « Jugement des plumes » augmentent d'une valeur équivalant à 250 % de sa maîtrise élémentaire.",
+      "pt": "Os valores de Dano de Cyno aumentam baseados na Proficiência Elemental do seguinte modo:\n· O Dano de Ataque Normal no estado Juramento Desbravador é aumentado em 150% da Proficiência Elemental.\n· O Dano do Raio da Desolação do seu Talento Passivo \"Julgamento das Plumas\" é aumentado em 250% da Proficiência Elemental.",
+      "ru": "Увеличивает следующие показатели урона Сайно в зависимости от его мастерства стихий:\n· Урон обычной атаки в состоянии Поклявшегося прокладывать путь увеличивается на 150% от его мастерства стихий.\n· Урон Молний бедствия пассивного таланта Суд пера увеличивается на 250% от его мастерства стихий.",
+      "id": "DMG yang diakibatkan Cyno akan meningkat berdasarkan jumlah Elemental Mastery diri sendiri, dengan peningkatan sebagai berikut:\n·DMG Normal Attack Pactsworn Pathclearer akan meningkat sebanyak 150% jumlah Elemental Mastery.\n·DMG Duststalker Bolt dari Talenta Pasif Featherfall Judgment akan meningkat sebanyak 250% Elemental Mastery.",
+      "th": "การโจมตีต่อไปนี้ของ Cyno จะสร้างความเสียหายเพิ่มขึ้น โดยขึ้นกับความชำนาญธาตุของเขาเอง:\n·การโจมตีปกติภายใต้สภาวะ Pactsworn Pathclearer สร้างความเสียหายเพิ่มขึ้น 150% ของความชำนาญธาตุ;\n·Duststalker Bolt ของพรสวรรค์ติดตัว \"Featherfall Judgment\" สร้างความเสียหายเพิ่มขึ้น 250% ของความชำนาญธาตุ",
+      "vi": "Sát thương từ tấn công của bản thân sẽ tăng dựa vào Tinh Thông Nguyên Tố của Cyno như sau:\n·Đánh thường trong trạng thái Sứ Giả Dẫn Lối: Tăng 150% dựa vào Tinh Thông Nguyên Tố;\n·Tia Sét Xuyên Thấu của thiên phú \"Lạc Vũ Phán Quyết\": Tăng 250% dựa vào Tinh Thông Nguyên Tố."
+    }
+  },
+  {
+    "title": {
+      "zhs": "缄默的惠赐",
+      "zht": "緘默的惠賜",
+      "jp": "沈黙の恵賜",
+      "ko": "침묵의 은혜",
+      "en": "The Gift of Silence",
+      "de": "Gnade der Stille",
+      "es": "Gracia del silencio",
+      "fr": "Le don du silence",
+      "pt": "O Dom do Silêncio",
+      "ru": "Милостивый дар молчания",
+      "id": "The Gift of Silence",
+      "th": "The Gift of Silence",
+      "vi": "Ân Điển Của Lặng Im"
+    },
+    "description": {
+      "zhs": "在须弥执行时长为20小时的探索派遣任务时，获得的奖励增加25%。",
+      "zht": "在須彌執行時長為20小時的探索派遣任務時，獲得的獎勵增加25%。",
+      "jp": "スメールで20時間かかる探索任務を完了した時、獲得する報酬+25%。",
+      "ko": "수메르에서 20시간의 탐사 파견 임무 수행 시 획득하는 보상이 25% 증가한다",
+      "en": "Gains 25% more rewards when dispatched on a Sumeru Expedition for 20 hours.",
+      "de": "Bringt bei 20-stündigen Erkundungsentsendungen in Sumeru 25 % mehr Belohnungen.",
+      "es": "#Aumenta en un 25% las recompensas de las expediciones de 20{NON_BREAK_SPACE}h en Sumeru.",
+      "fr": "Augmente les récompenses d'une expédition de 20 h à Sumeru de 25 %.",
+      "pt": "Ganha 25% a mais de recompensas quando enviado numa Expedição em Sumeru por 20 horas.",
+      "ru": "На 25% увеличивает награду экспедиций в Сумеру длительностью 20 ч.",
+      "id": "Ketika dikirim untuk melakukan ekspedisi di Sumeru selama 20 jam, hadiah yang didapatkan akan bertambah 25%.",
+      "th": "เมื่อทำคำขอการออกสำรวจของ Sumeru ที่ใช้เวลา 20 ชั่วโมง รางวัลที่ได้รับจะเพิ่มขึ้น 25%",
+      "vi": "Khi làm nhiệm vụ Phái Đi Thám Hiểm có thời gian là 20 giờ ở Sumeru, phần thưởng nhận được tăng 25%."
+    }
+  }
+]

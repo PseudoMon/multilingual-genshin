@@ -667,7 +667,7 @@
       "pt": "Como o Grande Mestre está em expedição, a Jean tem estado sobrecarregada. Se eu pudesse ajudar mais...",
       "ru": "После того как магистр ордена отправился в экспедицию, все дела ордена, большие и маленькие, легли на плечи Джинн. Я так хочу ей помочь...",
       "id": "Setelah Grand Master pergi dalam ekspedisinya, semua urusan Knights of Favonius diserahkan kepada Jean. Kalau saja aku bisa membantunya lebih banyak lagi...",
-      "th": "หลังจากที่ผู้บัญชาการออกไป ทำการสำรวจ เรื่องทุกอย่างต่างก็ถูกโยนมาที่ Jean ถ้าเกิดฉันช่วยอะไรเธอได้บ้างก็ คงจะดีสิ...",
+      "th": "หลังจากที่แกรนด์มาสเตอร์ออกไปทำการสำรวจ เรื่องทุกอย่างต่างก็ถูกโยนมาที่ Jean ถ้าเกิดฉันช่วยอะไรเธอได้บ้างก็ คงจะดีสิ...",
       "vi": "Sau khi Đại Đội Trưởng ra trận, mọi chuyện lớn nhỏ đều đổ hết lên người Jean. Nếu tôi có thể giúp được chút gì cho cô ấy thì tốt quá..."
     }
   },
@@ -989,6 +989,70 @@
       "id": "Eula adalah teman baikku! Kamu hanya perlu terbiasa dengan selera humornya dan semua akan baik-baik saja! Alasan satu-satunya banyak orang salah paham terhadapnya adalah karena nama keluarganya. Bagaimana ya caranya agar aku bisa membuat orang-orang melihat diri Eula yang sebenarnya?",
       "th": "Eula เป็นคู่หูของฉัน! ขอเพียงคุ้นเคยกับมุขของ Eula คุณจะรู้ว่า แท้จริงแล้ว เธอน่ะเข้ากับคนง่าย อย่างไรก็ตาม ด้วยชื่อตระกูลของเธอ Eula มักจะถูกหลาย ๆ คนเข้าใจผิด ไม่รู้ว่าจะต้องทำยังไงให้ทุกคนเข้าใจเธอดี...",
       "vi": "Eula là người bạn tốt của tôi! Chỉ cần quen với những trò đùa của cô ấy thì bạn sẽ phát hiện ra rằng Eula thực sự rất tốt bụng. Thế nhưng chỉ vì cái họ của mình mà Eula thường xuyên bị vướng vào rắc rối, làm sao để mọi người có thể hiểu được Eula đây..."
+    }
+  },
+  {
+    "title": {
+      "zhs": "关于柯莱…",
+      "zht": "關於柯萊…",
+      "jp": "コレイについて…",
+      "ko": "콜레이에 대해…",
+      "en": "About Collei",
+      "de": "Über Collei ...",
+      "es": "Sobre Collei...",
+      "fr": "À propos de Collei...",
+      "pt": "Sobre Collei...",
+      "ru": "О Коллеи...",
+      "id": "Tentang Collei",
+      "th": "เกี่ยวกับ Collei...",
+      "vi": "Về Collei..."
+    },
+    "line": {
+      "zhs": "DATA NOT FOUND",
+      "zht": "DATA NOT FOUND",
+      "jp": "DATA NOT FOUND",
+      "ko": "DATA NOT FOUND",
+      "en": "DATA NOT FOUND",
+      "de": "DATA NOT FOUND",
+      "es": "DATA NOT FOUND",
+      "fr": "DATA NOT FOUND",
+      "pt": "DATA NOT FOUND",
+      "ru": "DATA NOT FOUND",
+      "id": "DATA NOT FOUND",
+      "th": "DATA NOT FOUND",
+      "vi": "DATA NOT FOUND"
+    }
+  },
+  {
+    "title": {
+      "zhs": "关于米卡…",
+      "zht": "關於米卡…",
+      "jp": "ミカについて…",
+      "ko": "미카에 대해…",
+      "en": "About Mika",
+      "de": "Über Mika ...",
+      "es": "Sobre Mika...",
+      "fr": "À propos de Mika...",
+      "pt": "Sobre Mika",
+      "ru": "О Мике...",
+      "id": "Tentang Mika",
+      "th": "เกี่ยวกับ Mika...",
+      "vi": "Về Mika..."
+    },
+    "line": {
+      "zhs": "哦，米卡是优菈那儿的老队员了，最初可能是看我和优菈关系比较好吧，总是长官长官地叫我。在我跟他分享自己的侦察心得之后，他又改叫我前辈了…弄得我挺不好意思的。明明我们的职责不一样，他在绘制地图上的专业性，是我怎么都比不上的。",
+      "zht": "哦，米卡是優菈那邊的老隊員了，最初可能是看我和優菈關係比較好吧，總是長官長官地叫我。在我跟他分享自己的偵察心得之後，他又改叫我前輩了…弄得我滿不好意思的。明明我們的職責不一樣，他在繪製地圖上的專業性，是我怎麼都比不上的。",
+      "jp": "あっ！ミカはエウルアの隊の古参隊員なんだ。最初はわたしがエウルアと仲がいいのを見たからか、わたしのことをずっと長官って呼んでたの。偵察の心得を話してあげたら、今度は先輩って呼ぶようになって…なんだかわたしのほうが恥ずかしくなっちゃったんだ…職務は違うけど、ミカの地図を作る腕は、わたしじゃ到底かなわないものだよ。",
+      "ko": "아! 미카는 유라의 오랜 대원이야. 처음에는 나와 유라가 친해서 그런지 나한테도 대장님이라고 불렀어. 내 정찰 노하우를 알려준 뒤부터는 계속 선배라고 부르는데… 어찌나 쑥스럽던지. 맡고 있는 분야가 다른데 선후배가 어디 있어. 지도를 그리는 건 미카가 전문가라 난 아무리 해도 따라잡을 수 없는걸",
+      "en": "Oh! Mika's a veteran of Eula's team. When he first arrived, it was always \"Yes, Commander!\" every time he spoke to me — I guess it must have been because he saw how close I was with Eula. But then, even after I told him I was actually an Outrider, he still called me \"Ma'am\"... It was so embarrassing. We have completely different responsibilities, after all. I definitely could never match his expertise in cartography.",
+      "de": "Also, Mika ist ein altes Mitglied in Eulas Trupp. Wahrscheinlich, weil ich ein gutes Verhältnis zu Eula habe, nannte er mich anfangs immer Kommandant. Nachdem ich meine Erfahrungen als Kundschafter mit ihm geteilt hatte, fing er an, mich Senior zu nennen ... Das machte mich etwas peinlich berührt. Schließlich sind unsere Aufgaben unterschiedlich. Mit seinem Fachwissen in Kartografie kann ich beispielsweise absolut nicht mithalten.",
+      "es": "Oh, Mika es un veterano del equipo de Eula. Cuando llegó, solo decía “¡Sí, comandante!” cada vez que hablaba conmigo. Supongo que lo hacía porque sabía lo bien que me llevo con Eula. Pero entonces, empezó a llamarme “señora” cuando le conté que era una Exploradora... Qué vergüenza... Bueno, después de todo, tenemos responsabilidades muy distintas. Yo jamás podría alcanzar su nivel con la cartografía.",
+      "fr": "Mika ? C'est un ancien de l'unité d'Eula. Au début, il a vu que j'étais proche d'Eula, alors il m'appelait toujours « commandante ». Quand je lui ai partagé mon expérience d'éclaireuse, il s'est mis à m'appeler « madame »... Ça me met un peu mal à l'aise. On a simplement des responsabilités différentes, lui et moi... Je ne pourrais jamais égaler son expertise en cartographie.",
+      "pt": "Ah! Mika é um veterano da equipe de Eula. Quando ele chegou pela primeira vez, era sempre \"Sim, Comandante!\" toda vez que ele falava comigo - Eu acho que deve ter sido porque ele viu como eu era próxima de Eula. Então, mesmo após eu ter contado a ele que eu na verdade sou uma Aventureira, ele ainda me chama de \"Senhora\"... que vergonha. Nós temos responsabilidades completamente diferentes, afinal de contas. Eu definitivamente jamais poderia me equiparar a especialidade dele em cartografia.",
+      "ru": "О, Мика - ветеран отряда Эолы. Поначалу он всё время называл меня «командир» - наверное, потому что у меня неплохие отношения с Эолой. Потом я рассказала ему, что я скаут, но он всё равно обращается ко мне на «вы»... Мне очень неловко. У нас разные обязанности, он специалист по картографии, и в этом мне с ним никогда не сравниться.",
+      "id": "Oh! Mika adalah prajurit veteran di tim Eula. Ketika dia pertama kali tiba, dia selalu bilang \"Ya, Komandan!\" setiap kali dia bicara padaku — aku kira itu pasti karena dia melihatku dekat dengan Eula. Tapi kemudian, bahkan setelah aku memberitahunya bahwa aku sebenarnya adalah Outrider, dia masih memanggilku \"Senior\" ... Itu sangat memalukan. Bagaimanapun juga, tanggung jawab kami benar-benar berbeda. Aku pasti tidak akan pernah bisa menandingi keahliannya dalam kartografi.",
+      "th": "โอ้... Mika เป็นสมาชิกทีมเก่าแก่ของ Eula แล้วล่ะ ในตอนแรกคงเห็นว่าฉันมีความสัมพันธ์ที่ค่อนข้างดีกับ Eula ล่ะมั้ง เอาแต่เรียกฉันว่า \"หัวหน้า ๆ\" อยู่นั่นแหละ แล้วหลังจากที่ฉันแบ่งปันประสบการณ์การลาดตระเวนกับเขา เขาก็ดันเปลี่ยนเป็นเรียกฉันว่ารุ่นพี่ซะอีก... ทำเอาซะฉันอายไม่เบาเลยล่ะ ทั้ง ๆ ที่หน้าที่ของพวกเราแตกต่างกันแท้ ๆ และความเป็นมืออาชีพของเขาในการวาดแผนที่ ก็เป็นอะไรที่ฉันเทียบไม่ได้เลยสักนิด",
+      "vi": "À, Mika là thành viên lâu năm của đội Eula, ban đầu có lẽ do thấy mối quan hệ giữa tôi và Eula khá tốt, nên cứ luôn miệng gọi trưởng quan. Sau khi tôi chia sẻ kinh nghiệm trinh sát của tôi thì Mika lại chuyển sang gọi tôi là tiền bối... Thật xấu hổ quá, rõ ràng là chức trách của cả hai khác nhau mà, tôi cũng đâu làm sao bì được khả năng vẽ bản đồ của Mika chứ."
     }
   },
   {

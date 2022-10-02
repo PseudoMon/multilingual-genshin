@@ -23,7 +23,7 @@
       "en": "I'm Sucrose, a researcher of alchemy. I heard you've been to a lot of places, so I was wondering if you... Ah, what am I saying! It's only our first time meeting, I shouldn't trouble you. But... if you're willing, I'd love to hear any stories you have about your adventures. I'd... really like that.",
       "de": "Ich bin Saccharose und ... ich forsche in der Alchimie. Ich habe gehört, dass du schon viel herumgekommen bist. Da denke ich, na ja, das ist jetzt das erste Mal, dass wir so miteinander sprechen ... Da will ich dich nicht groß stören. Aber wenn du, sagen wir, mal Lust hast, mir darüber zu erzählen. Also ich fänd das sehr schön.",
       "es": "#Soy Sacarosa, una investigadora de alquimia. Escuché que has estado en muchos lugares, así que me preguntaba si... ¡Ah! ¿Qué estoy diciendo? Apenas nos conocemos, no debería molestarte, pero... Si estás dispuest{F#a}{M#o}, me encantaría escuchar cualquier historia que tengas sobre tus aventuras. Me gustaría mucho.",
-      "fr": "Je suis Sucrose, une chercheuse en alchimie. On m'a dit que tu avais voyagé dans beaucoup de contrées, et... Non, c'est notre première rencontre, je ne devrais pas t'embêter avec ça, mais... Je suis toute ouïe si tu veux me raconter tes aventures...",
+      "fr": "Je suis Sucrose, une chercheuse en alchimie. On m'a dit que tu avais voyagé dans beaucoup de contrées, et... Non, c'est notre première rencontre, je ne devrais pas t'embêter avec ça, mais... Je suis tout ouïe si tu veux me raconter tes aventures...",
       "pt": "Sou Sucrose, uma pesquisadora de alquimia. Ouvi dizer que você já esteve em muitos lugares, então eu estava me perguntando se você... Ah, o que estou dizendo! É apenas nossa primeira vez que nos reunimos, não deveria te incomodar. Mas... Se você estiver disposto, eu adoraria ouvir qualquer história que você tenha sobre suas aventuras. Eu... Gostaria muito.",
       "ru": "#Я Сахароза, исследователь алхимии. Говорят, ты много где побывал{F#a}, наверняка... нет, ничего. При первой встрече неприлично навязываться. Но... если ты не против, то, если расскажешь о своих путешествиях, то... я буду очень рада.",
       "id": "Namaku Sucrose, seorang alkemis. Aku dengar kamu sudah bertualang ke banyak tempat, jadi pasti... Eh, tidak, bukan masalah besar. Kita baru pertama kali bertemu, jadi aku tidak seharusnya merepotkanmu. Tapi... Kalau kamu mau menceritakan kisah-kisah seru dalam perjalananmu... Aku akan sangat senang.",
@@ -465,7 +465,7 @@
     },
     "line": {
       "zhs": "你…你注意到了啊。我的耳朵是家里遗传下来的，和其他人很不一样，所以平时我都会用头发尽量把它们藏起来…",
-      "zht": "#{F#妳}{M#你}…{F#妳}{M#你}注意到了啊。我的耳朵是家裡遺傳下來的，和其他人很不一樣，所以平時我都會用頭髮儘量把它們藏起來…",
+      "zht": "#{F#妳}{M#你}…{F#妳}{M#你}注意到了啊。我的耳朵是家裡遺傳下來的，和其他人很不一樣，所以平時我都會用頭髮盡量把它們藏起來…",
       "jp": "き…気づかれてたの。私の耳は一族の遺伝。他の人とは違うから、普段は髪で隠してる…",
       "ko": "눈… 눈치챘군요. 제 귀는 저희 집안 유전이에요. 다른 사람들과 다르게 생겨서 평소엔 최대한 머리카락으로 가리고 다녀요…",
       "en": "Oh, you, ahh... noticed. My ears are a hereditary feature... quite different from everyone else's. So, I try to hide them with my hair as much as possible.",
@@ -1009,7 +1009,7 @@
     },
     "line": {
       "zhs": "了解我？你…是对「生物炼金」感兴趣吗？你有疑问的话，我会尽量给你准确答案的。嗯？不是炼金，而是「我」？唔，这个，我也不知道该说什么…",
-      "zht": "#瞭解我？{F#妳}{M#你}…是對「生物煉金」感興趣嗎？{F#妳}{M#你}有疑問的話，我會儘量幫{F#妳}{M#你}準確答案的。嗯？不是煉金，而是「我」？唔，這個，我也不知道該說什麼…",
+      "zht": "#瞭解我？{F#妳}{M#你}…是對「生物煉金」感興趣嗎？{F#妳}{M#你}有疑問的話，我會盡量幫{F#妳}{M#你}準確答案的。嗯？不是煉金，而是「我」？唔，這個，我也不知道該說什麼…",
       "jp": "私を知りたい？あなたも…「生物錬金」に興味が？もし分からないことがあったら、できる限り答えてみる。うん？錬金じゃなくて、「私」に興味があるの？えっと、それは、ちょっとどう答えたらいいか…",
       "ko": "저에 대해 알고 싶다고요? 혹시… 「생물 연금술」에 관심 있는 거예요? 궁금한 게 있다면 최대한 답해줄게요. 응? 연금술이 아니라 「저」에 대해? 음, 그건, 저도 뭐라고 해야 될지 모르겠어요…",
       "en": "You... want to know more about me? You... must have an interest in bio-alchemy, then? Whatever you ask, I will be sure to give you the most precise answer possible. Oh, it really is me specifically that you are interested in? I'm... ahh... oh. I'm at a loss for words.",

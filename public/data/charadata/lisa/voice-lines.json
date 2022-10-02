@@ -929,6 +929,102 @@
   },
   {
     "title": {
+      "zhs": "关于赛诺…",
+      "zht": "關於賽諾…",
+      "jp": "セノについて…",
+      "ko": "사이노에 대해…",
+      "en": "About Cyno",
+      "de": "Über Cyno ...",
+      "es": "Sobre Cyno...",
+      "fr": "À propos de Cyno...",
+      "pt": "Sobre Cyno...",
+      "ru": "О Сайно...",
+      "id": "Tentang Cyno",
+      "th": "เกี่ยวกับ Cyno...",
+      "vi": "Về Cyno..."
+    },
+    "line": {
+      "zhs": "离开须弥之后，除了和恩师保持礼节性的通信，我和教令院已经没有什么往来了。幸好，不是每位被寄予了重望的弟子，都像我一样怠惰…听说那位师弟赛诺就相当活跃呢。",
+      "zht": "離開須彌之後，除了和恩師保持禮節性的通信，我和教令院已經沒有什麼往來了。幸好，不是每位被寄予了重望的弟子，都像我一樣怠惰…聽說那位師弟賽諾就相當活躍呢。",
+      "jp": "スメールを離れてから、恩師とは礼儀上の連絡を保っていたけれど、今はもう教令院とあまり関わりを持っていないの。幸い、期待を寄せられていた弟子たちが、わたくしのような怠け者ばかりじゃなくてよかったわ…弟弟子だったセノくん、あの子が相当活躍しているみたいね。",
+      "ko": "수메르를 떠난 뒤로 은사님과 의례적으로 연락을 주고받은 것 말고는 더 이상 아카데미아와 교류가 없어. 다행히 신임받던 제자들이 모두 나처럼 나태한 건 아닌 모양이야…. 사이노라는 후배가 엄청난 활약을 하고 있다고 들었어",
+      "en": "I've barely kept in touch with anyone from the Akademiya since leaving Sumeru, except for the occasional letters to my teachers out of basic courtesy. Fortunately, not every promising student turned out as lazy as I am... I heard that one of my juniors, Cyno, now leads quite the action-packed life.",
+      "de": "Nachdem ich Sumeru verlassen habe, habe ich, abgesehen von gelegentlichen Briefen an meine Lehrer aus Höflichkeit, fast keinen Kontakt mehr zu den Leuten in der Akademie. Glücklicherweise ist nicht jeder vielversprechende Student so faul wie ich ... Ich habe gehört, dass Cyno, einer meiner Junioren an der Akademie, jetzt sehr aktiv ist.",
+      "es": "A excepción de algunas cartas que he escrito a mis profesores por cortesía, apenas he mantenido el contacto con la gente de la Academia desde que me fui de Sumeru. Es una suerte que otros estudiantes prometedores no hayan salido tan holgazanes como yo... Oí que uno de mis compañeros, Cyno, tiene una vida llena de acción.",
+      "fr": "Je n'ai pratiquement pas gardé contact avec les membres de l'Académie depuis que j'ai quitté Sumeru, à l'exception de lettres occasionnelles que j'envoie à mes professeurs par simple courtoisie. Heureusement que tous les étudiants prometteurs ne sont pas devenus aussi paresseux que moi... J'ai entendu dire que l'un de mes cadets, Cyno, était assez actif ces derniers temps.",
+      "pt": "Eu mal mantive contato com qualquer da Academia desde que deixei Sumeru, exceto por cartas ocasionais aos meus professores por pura cortesia. Felizmente, nem todo estudante promissor acabou preguiçoso como eu... Ouvi que um dos meus calouros, Cyno, agora leva uma vida cheia de ação.",
+      "ru": "Покинув Сумеру, я не поддерживаю связи ни с кем из учёного мира Академии, разве что изредка поздравляю наставника с праздниками. К счастью, не все талантливые ученики оказались такими лентяями, как я... Говорят, этот Сайно - очень даже бойкий малый.",
+      "id": "Aku hampir tidak berkomunikasi dengan siapa pun dari Akademiya sejak meninggalkan Sumeru, kecuali sesekali menuliskan surat kepada guru-guruku karena sopan santun. Untungnya, tidak semua siswa yang menjanjikan itu malas seperti aku ... Aku dengar kalau salah satu juniorku, Cyno, sekarang punya kehidupan yang cukup aktif.",
+      "th": "ตั้งแต่ออกจาก Sumeru มา นอกจากการส่งจดหมายหาอาจารย์เป็นช่วง ๆ ที่ต้องทำตามระเบียบแล้ว ฉันก็ไม่ได้ติดต่ออะไรกับทางสถาบันแล้วล่ะ โชคยังดีที่ไม่ใช่ลูกศิษย์ทุกคนที่ถูกคาดหวังไว้สูงจะขี้เกียจเหมือนอย่างฉัน... ได้ยินว่ารุ่นน้องที่ชื่อว่า Cyno คนนั้นค่อนข้างกระตือรือร้นที่เดียวนะ",
+      "vi": "Sau khi rời khỏi Sumeru, ngoài việc thư từ với ân sư để cho lịch sự ra thì tôi đã không còn qua lại với Giáo Viện nữa. Cũng may, không phải tất cả học trò được trọng vọng cũng đều biếng nhác như tôi... Nghe nói vị sư đệ Cyno đó hoạt động cũng rất sôi nổi đấy."
+    }
+  },
+  {
+    "title": {
+      "zhs": "关于柯莱…",
+      "zht": "關於柯萊…",
+      "jp": "コレイについて…",
+      "ko": "콜레이에 대해…",
+      "en": "About Collei",
+      "de": "Über Collei ...",
+      "es": "Sobre Collei...",
+      "fr": "À propos de Collei...",
+      "pt": "Sobre Collei...",
+      "ru": "О Коллеи...",
+      "id": "Tentang Collei",
+      "th": "เกี่ยวกับ Collei...",
+      "vi": "Về Collei..."
+    },
+    "line": {
+      "zhs": "小柯莱每次写信都会使用新词，尝试与之前不同的表述方式。呵呵，也难怪她进步得那么快。除了自己的努力之外，她那位善良而又热忱的师父，一定也给予了很多帮助吧。",
+      "zht": "小柯萊每次寫信都會使用新詞，嘗試與之前不同的表述方式。呵呵，也難怪她進步得那麼快。除了自己的努力之外，她那位善良而又熱忱的師父，一定也給予了很多幫助吧。",
+      "jp": "コレイちゃんはね、手紙を書くたびに新しい単語を使ったり、前とは違った表現の仕方をするの…ふふっ、上達が早いのも納得ね。彼女自身の努力もそうだけど、何より優しくて熱心なあの師匠がたくさん手助けしてくれたに違いないわ。",
+      "ko": "꼬마 콜레이는 편지를 쓸 때마다 다양한 표현 방법을 시도하기 위해 항상 새로운 단어를 사용하곤 해. 후후, 그래서 실력이 빨리 느는 거겠지. 콜레이 본인이 노력한 공도 크지만, 착하고 열정적인 그 아이의 스승도 분명 많은 도움을 줬을 거야",
+      "en": "Ah, dear little Collei. Every time she writes to me, she tries out new words and expressions she's learned recently... Hehe, no wonder she's improving so quickly. That wonderful and warmhearted master of hers must have helped a lot too.",
+      "de": "Die liebe kleine Collei probiert jedes Mal, wenn sie einen Brief schreibt, neue Wörter und Ausdrücke aus. Hehe, kein Wunder, dass sie so schnell Fortschritte gemacht hat. Abgesehen von ihren eigenen Bemühungen muss ihr der warmherzige Meister sehr geholfen haben.",
+      "es": "Oh, mi querida Collei. Cada vez que me escribe, usa nuevas palabras y expresiones que ha aprendido hace poco. Jeje, no me extraña que esté mejorando tan rápidamente. Ese maestro tan maravilloso y amable que tiene debe de haberla ayudado mucho.",
+      "fr": "Ah, la petite Collei. Chaque fois qu'elle m'écrit, elle essaie de nouveaux mots qu'elle a appris récemment... Héhé, pas étonnant qu'elle s'améliore si vite. Elle a dû beaucoup être aidée par son aimable et chaleureux maître.",
+      "pt": "Ah, querida Collei. Sempre que ela me escreve, ela experimenta novas palavras e expressões que aprendeu recentemente... Hehe, não é de se espantar que ela esteja melhorando tão rapidamente. Aquele mestre maravilhoso e bondoso dela deve ter ajudado-a bastante também.",
+      "ru": "Малышка Коллеи... В каждое новое письмо она вворачивает слова, которые недавно выучила. Хе-хе, потому она с каждым днём и прибавляет в знаниях. Коллеи очень старается, и ей здорово повезло с наставником - он такой добрый и сердечный.",
+      "id": "Ah, Collei kecil tersayang. Setiap kali dia tulis surat kepadaku, dia selalu mencoba kata-kata dan ekspresi baru yang dia pelajari akhir-akhir ini ... Hehe, tidak heran perkembangannya begitu cepat. Gurunya yang luar biasa dan ramah itu pasti sudah banyak membantu dia juga.",
+      "th": "ยัยหนู Collei จะใช้ศัพท์ใหม่ทุกครั้งที่เขียนจดหมาย เพื่อลองใช้วิธีที่แตกต่างออกไปจากครั้งก่อนในการอธิบาย ฮ่ะฮ่ะ ก็ไม่แปลกใจที่เธอจะพัฒนาไปเร็วขนาดนั้น และนอกจากความขยันของตัวเธอเองแล้ว ท่านอาจารย์ของเธอที่ทั้งใจดีและก็ทุ่มเทนั่น ก็คงจะมีส่วนช่วยเหลือมากเหมือนกันล่ะนะ",
+      "vi": "Bé Collei mỗi lần viết thư đều sẽ dùng từ mới để thay đổi cách thức biểu đạt. Haha, cũng khó trách sao bé ấy lại tiến bộ nhanh như vậy. Ngoài sự nỗ lực của bản thân ra thì người thầy nhiệt tình đó chắc cũng đã giúp đỡ rất nhiều."
+    }
+  },
+  {
+    "title": {
+      "zhs": "关于米卡…",
+      "zht": "關於米卡…",
+      "jp": "ミカについて…",
+      "ko": "미카에 대해…",
+      "en": "About Mika",
+      "de": "Über Mika ...",
+      "es": "Sobre Mika...",
+      "fr": "À propos de Mika...",
+      "pt": "Sobre Mika",
+      "ru": "О Мике...",
+      "id": "Tentang Mika",
+      "th": "เกี่ยวกับ Mika...",
+      "vi": "Về Mika..."
+    },
+    "line": {
+      "zhs": "真羡慕霍夫曼先生有这样一位擅长照顾人的弟弟。不仅帮着打点生活起居，连喝醉后的护理也无微不至。啊，我也好想什么都不用操心，懒洋洋地度过每一天啊…嗯？你说我现在也差不多？哼，小可爱…胆子变大了嘛。",
+      "zht": "#真羡慕霍夫曼先生有這樣一位擅長照顧人的弟弟。不僅幫著打點生活起居，連喝醉後的護理也無微不至。啊，我也好想什麼都不用操心，懶洋洋地度過每一天啊…嗯？{F#妳}{M#你}說我現在也差不多？哼，小可愛…膽子變大了嘛。",
+      "jp": "ホフマンさんにあんな面倒見のいい弟くんがいたなんてね。日常生活のお手伝いだけじゃなく、酔ったあとの介抱も完璧。わたくしも何も気にせず、のんびりとダラダラした毎日を過ごしたいものだわ…ん？今もあまり変わらない？可愛い子ちゃんも、言うようになったじゃないの。",
+      "ko": "호프만 씨에겐 사람을 잘 보살피는 동생이 있어서 정말 부러워. 일상생활뿐만 아니라 숙취 케어까지 해주다니. 나도 아무런 걱정 없이 온종일 축 늘어져 있고 싶은데…. 음? 지금도 다를 바 없는 것 같다고? 귀염둥이, 요즘 들어 대담해졌네",
+      "en": "I do rather envy Huffman for having such a caring little brother. Mika takes care of everything around the house and even looks after him when he's drunk... Ah, how nice it must be to lounge around all day without a care in the world... Hmm? What do you mean, I already do that? You're getting quite bold these days, aren't you, cutie?",
+      "de": "#Ich beneide Huffman ziemlich, dass er einen so fürsorglichen jüngeren Bruder hat. Mika kümmert sich um den Haushalt und kümmert sich sogar um ihn, wenn er betrunken ist. Ah, wenn ich nur auch den ganzen Tag sorglos umherwandern könnte ... Hm? Du meinst, das mache ich jetzt schon? Hmpf, {F#meine Süße}{M#mein Süßer}, du bist ja ziemlich frech geworden, nicht wahr?",
+      "es": "Lo cierto es que envidio a Huffman por tener un hermano tan considerado. Mika se ocupa de todo lo que hay que hacer en casa y hasta lo cuida cuando se emborracha. Debe de ser genial holgazanear todo el día sin que nada te preocupe mínimamente. ¿Eh? ¿Cómo que yo también hago eso? Qué valiente te estás volviendo, cariño.",
+      "fr": "#J'envie Hoffman d'avoir un petit frère aussi attentionné. Mika s'occupe de tout chez lui et il prend même soin de lui quand il est ivre... Ah, comme ce doit être agréable de se prélasser toute la journée sans se soucier de quoi que ce soit... Hein ? Comment ça, c'est déjà ce que je fais ? Hmph, c'est moi ou tu es plus {M#insolent}{F#insolente} que d'habitude, petit chou ?",
+      "pt": "Eu até sinto inveja de Huffman por ter um irmãozinho carinhoso. Mika toma conta de tudo na casa e até cuida dele quando ele está bêbado... Ah, que legal deve ser poder ficar de bobeira o dia inteiro sem qualquer preocupação... Hmm? O que você quer dizer, eu já faço isso? Você está bem destemido estes dias, não está, fofura?",
+      "ru": "#Даже завидую Хоффману, что у него такой заботливый брат. Мика взял на себя все домашние хлопоты, а ещё ухаживает за братом, когда тот напьётся... Да, мне бы тоже хотелось жить без забот и целыми днями ничего не делать... Эй, ты что, хочешь сказать, я так и живу? Хм, милашка... А ты осмелел{F#а}.",
+      "id": "Aku cukup iri dengan Huffman, dia memiliki adik laki-laki yang perhatian. Mika menangani seluruh pekerjaan di rumah bahkan mengurusnya saat mabuk ... Ah, pasti enak sekali ya bisa bersantai-santai tanpa peduli soal apa pun ... Hmm? Apa maksudmu aku tiap hari juga begitu? Kamu akhir-akhir ini berani juga ya, manis.",
+      "th": "อิจฉาคุณ Huffman ที่มีน้องชายที่ดูแลคนอื่น ๆ เก่งขนาดนี้ซะจริง ๆ ไม่เพียงแต่ช่วยเรื่องต่าง ๆ ในชีวิตประจำวันเท่านั้น แม้แต่ตอนเมาก็ยังดูแลอย่างไม่ขาดตกบกพร่อง อ่า... ฉันเองก็อยากใช้เวลาทั้งวันอย่างเกียจคร้านโดยไม่ต้องกังวลอะไรเหมือนกัน... เอ๋? เธอบอกว่าฉันในตอนนี้ก็ประมาณนั้นงั้นเหรอ? หึ เจ้าตัวเล็ก... กล้ามากขึ้นแล้วนะเนี่ย",
+      "vi": "Chị thực sự ghen tị với Huffman vì có một cậu em trai chu đáo như vậy. Mika lo mọi việc trong nhà và thậm chí chăm sóc anh ấy khi anh ấy say. Ừm, chị cũng muốn không cần lo nghĩ gì cả, cứ thế mà nằm dài cả ngày... Hửm, cưng nói chị bây giờ cũng như vậy sao? Cưng... dạo này cũng gan nhỉ."
+    }
+  },
+  {
+    "title": {
       "zhs": "想要了解丽莎·其一",
       "zht": "想要瞭解麗莎·其一",
       "jp": "リサを知る·1",
@@ -1813,7 +1909,7 @@
       "jp": "わたくしも興味が湧いてきちゃった…",
       "ko": "나도 기분이 업되는 걸",
       "en": "Oh my...",
-      "de": "Oh je ...",
+      "de": "Oje ...",
       "es": "Vaya, vaya...",
       "fr": "Oh là là...",
       "pt": "Minha nossa...",

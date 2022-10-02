@@ -1,0 +1,62 @@
+{
+  "talents": {
+    "zhs": "天赋",
+    "zht": "天賦",
+    "jp": "天賦",
+    "ko": "특성",
+    "en": "Talents",
+    "de": "Talente",
+    "es": "Talentos",
+    "fr": "Aptitudes",
+    "pt": "Talentos",
+    "ru": "Таланты",
+    "id": "Talenta",
+    "th": "พรสวรรค์",
+    "vi": "Thiên Phú"
+  },
+  "voices": {
+    "zhs": "语音",
+    "zht": "語音",
+    "jp": "ボイス",
+    "ko": "음성",
+    "en": "Voice-Over",
+    "de": "Stimme",
+    "es": "Voz",
+    "fr": "Répliques",
+    "pt": "Voz",
+    "ru": "Озвучивание",
+    "id": "Suara",
+    "th": "เสียงพากย์",
+    "vi": "Lồng Tiếng"
+  },
+  "story": {
+    "zhs": "故事",
+    "zht": "故事",
+    "jp": "ストーリー",
+    "ko": "스토리",
+    "en": "Story",
+    "de": "Hintergrund",
+    "es": "Historia",
+    "fr": "Histoire",
+    "pt": "História",
+    "ru": "История",
+    "id": "Kisah",
+    "th": "เนื้อเรื่อง",
+    "vi": "Câu Chuyện"
+  },
+  "constellations": {
+    "zhs": "命之座",
+    "zht": "命之座",
+    "jp": "命ノ星座",
+    "ko": "운명의 자리",
+    "en": "Constellations",
+    "de": "Sternbilder",
+    "es": "Constelaciones",
+    "fr": "Constellations",
+    "pt": "Constelação",
+    "ru": "Созвездия",
+    "id": "Konstelasi",
+    "th": "กลุ่มดาว",
+    "vi": "Cung Mệnh"
+  }
+}

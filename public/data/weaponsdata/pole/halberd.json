@@ -167,7 +167,7 @@
         "ko": "일반 공격으로 명중한 적에게 추가로 공격력 <color=#99FFFFFF>280%</color>의 피해를 준다. 해당 효과는 10초마다 1번 발동한다",
         "en": "Normal Attacks deal an additional <color=#99FFFFFF>280%</color> ATK as DMG. This effect can only occur once every 10s.",
         "de": "Fügt mit Standardangriffen getroffenen Gegnern zusätzlichen Schaden in Höhe von <color=#99FFFFFF>280 %</color> ANG zu. 10 s Abklingzeit.",
-        "es": "Los Ataques Normales causan un <color=#99FFFFFF>280%</color> adicional de daño los oponentes. Este efecto puede activarse una vez cada 10 s.",
+        "es": "Los Ataques Normales causan un <color=#99FFFFFF>280%</color> adicional de daño a los oponentes. Este efecto puede activarse una vez cada 10 s.",
         "fr": "Les attaques normales infligent <color=#99FFFFFF>280 %</color> de DGT d'ATQ supplémentaires lorsqu'elles touchent. Cet effet peut être déclenché une fois toutes les 10 s.",
         "pt": "Ataques Normais causam um adicional de <color=#99FFFFFF>280%</color> de Dano ao oponente atingido. Este efeito pode ser ativado uma vez a cada 10s.",
         "ru": "Обычные атаки наносят дополнительные <color=#99FFFFFF>280%</color> урона. Может возникнуть не чаще 1 раза за 10 сек.",
